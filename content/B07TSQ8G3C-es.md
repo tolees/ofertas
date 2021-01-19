@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ8G3C-es Skechers Bounder Zapatillas para Hombre Azul Navy...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.51 EUR
 currency: EUR
 price: 36.51

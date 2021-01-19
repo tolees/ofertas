@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW9SD3H-es Salomon XA Discovery GTX W Zapatillas de Trail Running...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.04 EUR
 currency: EUR
 price: 44.04

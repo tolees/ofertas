@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GMN0ZTA-es EL ACCESORIO ORIGINAL de"BuyAndFeelGood" con EFECTO...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FX9BFZ8-es Seiko Reloj analogico para Hombre de Automático con Correa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 208.51 EUR
 currency: EUR
 price: 208.51

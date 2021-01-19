@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XF7TVX6-es Funko- Pop Ride: Frozen 2-Elsa Riding Nokk Figura...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

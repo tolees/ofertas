@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002AR3QW-es Exo Terra Infra-Rojo Nocturno Heat GLO 100 W'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

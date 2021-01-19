@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2ZKBQ7-es Monrodbitt Caja de Banco de energía portátil Banco de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.36 EUR
 currency: EUR
 price: 2.36

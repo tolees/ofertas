@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBN96QL-es Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

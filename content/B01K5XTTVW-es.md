@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K5XTTVW-es TensCare Sports TENS - Electroestimulador muscular....'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.89 EUR
 currency: EUR
 price: 58.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJJFV9Z-es HyperX Fury HX432C16FB3A/8 Memoria DIMM DDR4 8GB 3200MHz...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

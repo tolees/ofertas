@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG69J6S-es PUMA Caracal Zapatillas Unisex Adulto White Silver 42 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

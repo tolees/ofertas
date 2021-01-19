@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3G3W8Y-es Protector de Colchón Impermeable para Cuna Cuna 70 x 160...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.09 EUR
 currency: EUR
 price: 13.09

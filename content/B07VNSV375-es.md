@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNSV375-es Nike Renew Lucent GS Zapatillas Unisex Niños Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

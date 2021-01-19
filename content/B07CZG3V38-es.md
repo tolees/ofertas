@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZG3V38-es Under Armour Tech Mesh 6in 2 Pack Ropa Interior Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.32 EUR
 currency: EUR
 price: 22.32

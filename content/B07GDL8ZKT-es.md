@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDL8ZKT-es DANISH ENDURANCE Bóxers para Hombres Pack de 3 Negro Small'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

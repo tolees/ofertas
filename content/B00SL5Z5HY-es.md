@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SL5Z5HY-es Lékué Molde de Silicona Pan Redondo Marrón Centimeters'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

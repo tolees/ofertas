@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQRH898-es Cámaras Espía Oculta HD 1080P 120°Gran Angular Grabadora...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.89 EUR
 currency: EUR
 price: 31.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K9VUPF4-es A2BC LED Lighting Bombilla Esférica con Luz Calida 6 W...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.24 EUR
 currency: EUR
 price: 9.24

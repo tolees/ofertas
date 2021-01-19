@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2R8LNL-es JBL Tune500 - Auriculares supraaurales de cable y control...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

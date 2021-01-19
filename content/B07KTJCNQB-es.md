@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTJCNQB-es Lacoste Reloj de Pulsera 2011003'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 90.57 EUR
 currency: EUR
 price: 90.57

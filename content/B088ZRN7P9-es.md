@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088ZRN7P9-es IVSO Webcam con Micrófono Webcam Full HD 1080P Ángulo de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

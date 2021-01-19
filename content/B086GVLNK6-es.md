@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086GVLNK6-es Oihxse Transparente Funda para OPPO Find X2 Ultrafina...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

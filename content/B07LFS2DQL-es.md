@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFS2DQL-es Ventvinal 1/4 a 3/8 Tornillo Adaptadores de Rosca 16...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

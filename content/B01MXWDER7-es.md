@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXWDER7-es Captain Morgan Ron & Cola - 250 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

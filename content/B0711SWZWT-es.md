@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711SWZWT-es Merrell Cham 7 Limit Waterproof Zapatillas de Senderismo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 72.08 EUR
 currency: EUR
 price: 72.08

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FC7W4Z4-es HUION Kamvas Pro 13 HD 13.3 in Tableta Monitor con función...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

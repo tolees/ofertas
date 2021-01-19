@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRK35Q8-es 1 par de imán Pierde peso Nueva tecnología Adelgazamiento...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.21 EUR
 currency: EUR
 price: 3.21

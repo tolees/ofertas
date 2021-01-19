@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00137UGIA-es Intex 68324NP - Barca Hinchable Excursion 4 con 2 Remos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 107.07 EUR
 currency: EUR
 price: 107.07

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDH8LMX-es Casio G-SHOCK Reloj Analógico-Digital Carbonífero 20 BAR...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 84.12 EUR
 currency: EUR
 price: 84.12

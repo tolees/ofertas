@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPLBN1B-es Luz de techo LED Baño Cocina Dormitorio Luces de techo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.79 EUR
 currency: EUR
 price: 39.79

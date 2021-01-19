@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1VWFQS-es adidas Lite Racer Zapatillas de Running para Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.17 EUR
 currency: EUR
 price: 36.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRFGFV2-es Gliss - Oil Elixir Diario - Aceite Capilar Nutrición y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

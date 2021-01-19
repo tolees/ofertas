@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHDHLYQ-es AVerMedia Live Gamer Ultra Capturadora de vídeo y de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 179.9 EUR
 currency: EUR
 price: 179.9

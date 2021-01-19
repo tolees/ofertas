@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q4MXNAC-es Lacoste Crew Neck-sudadera Hombre azul Marine XX-Large...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

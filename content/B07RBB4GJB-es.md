@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RBB4GJB-es deAO Tienda de Campaña Tipi Castillo con Luces LED Casita...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

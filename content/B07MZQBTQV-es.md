@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQBTQV-es Pepe Jeans London Koko Sandy Zapatillas para Mujer Smoke...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.63 EUR
 currency: EUR
 price: 34.63

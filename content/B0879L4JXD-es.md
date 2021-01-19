@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0879L4JXD-es KCatsy Webcam 1080P/720P/480P HD 12 MP función de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.72 EUR
 currency: EUR
 price: 19.72

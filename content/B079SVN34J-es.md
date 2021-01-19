@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SVN34J-es Hurley U Renegade Ll Solid Duffle Bolsa Hombre Black 1SIZE'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.73 EUR
 currency: EUR
 price: 16.73

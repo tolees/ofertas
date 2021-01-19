@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S8CECKQ-es Energy Sistem Earphones Urban 2 Black Auriculares In-Ear...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

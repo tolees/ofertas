@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KZRTWRK-es D-LINK Punto DE Acceso Dual Band 2.4/5GHZ DAP-1665'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

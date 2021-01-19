@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHWDJCM-es Columbia Heavenly Shorty Omni-Heat Botas de Invierno para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.86 EUR
 currency: EUR
 price: 24.86

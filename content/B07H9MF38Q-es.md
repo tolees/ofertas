@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9MF38Q-es Skechers Boys Go Run 600-Haddox Trainers Black Black Red...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.97 EUR
 currency: EUR
 price: 25.97

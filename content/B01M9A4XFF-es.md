@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9A4XFF-es Castillo de Princesa-Sonyabecca Castillo de Tienda de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

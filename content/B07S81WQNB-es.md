@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S81WQNB-es Vibrador Sexual Femenino Recargable con USB Sweet&Hot –...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

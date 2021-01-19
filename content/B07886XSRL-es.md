@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07886XSRL-es Pepe Jeans London Bio Flowers Mules Niñas Azul Bright Blue...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

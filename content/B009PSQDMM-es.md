@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009PSQDMM-es deAO Camion Correpasillos Vehículo de Arrastre sin Pedales...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

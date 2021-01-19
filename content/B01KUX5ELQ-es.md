@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KUX5ELQ-es Reebok Cuerda Saltar'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

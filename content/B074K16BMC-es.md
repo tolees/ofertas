@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074K16BMC-es PDP - Pixel Pals DC Comics Joker'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10 EUR
 currency: EUR
 price: 10

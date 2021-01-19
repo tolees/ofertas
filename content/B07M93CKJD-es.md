@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M93CKJD-es Tom Tailor Denim - Rosie Bolsos bandolera Mujer Azul Blau...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

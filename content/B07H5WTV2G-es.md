@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5WTV2G-es Riot: Civil Unrest'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.86 EUR
 currency: EUR
 price: 19.86

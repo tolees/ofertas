@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HQZVW2-es Adidas CORE18 SW PNT Pantalones de Deporte Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

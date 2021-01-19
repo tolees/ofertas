@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGGLX62-es Buff Ultimate Logo Cinta de Cabeza Fastwick Unisex Adulto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

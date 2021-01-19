@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQS4G7S-es find. Faroe Zapatillas Altas Negro Black 41 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

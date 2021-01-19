@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086WVJTHD-es Pecute Empapadores Perros 2 PCS Almohadillas de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

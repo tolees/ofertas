@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C8GLFZX-es Calypso Reloj Analógico para Niñas de Cuarzo con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B4KJG78-es Luces solares Jardín Exterior 【2020 Más Reciente-4 Pcs】...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

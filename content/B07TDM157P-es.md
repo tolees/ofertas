@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDM157P-es Quiksilver Above The Lip-Camiseta con Bolsillo para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

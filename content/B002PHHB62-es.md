@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002PHHB62-es Original Buff Merino Lana - Tubular unisex negro talla unica'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.4 EUR
 currency: EUR
 price: 13.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4B5HJZ-es Levi s Big Box Tab Beanie Gorro de Punto Azul Navy Blue 17...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.03 EUR
 currency: EUR
 price: 18.03

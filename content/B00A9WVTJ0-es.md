@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A9WVTJ0-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

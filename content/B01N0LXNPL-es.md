@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0LXNPL-es New Fashion Notebook Gift Box Creative Resin Decoration...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.3 EUR
 currency: EUR
 price: 21.3

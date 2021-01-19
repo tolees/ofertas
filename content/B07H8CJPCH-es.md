@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8CJPCH-es DROCON Bugs 3 Motor Quadcopter sin escobillas Drone Drone...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQG3QC-es Pepe Jeans Jimy suéter Grey Marl 933 Small para Hombre'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

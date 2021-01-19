@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IKMKLZO-es Mates Manix Preservativo Masculino en Sexo Seguro 1 Unidad...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.45 EUR
 currency: EUR
 price: 57.45

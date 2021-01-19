@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DQOLK74-es Sloggi Sloggi Basic Long - Braguita para mujer color skin...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

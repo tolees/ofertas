@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZJN2RF-es CONQUECO - Chaleco - Moda - Sin Mangas - para Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

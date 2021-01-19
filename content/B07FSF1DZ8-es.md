@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSF1DZ8-es Sneaky Steve Cumberland Botas Chelsea para Hombre Braun...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 68.39 EUR
 currency: EUR
 price: 68.39

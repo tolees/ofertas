@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDW2RM-es Freaks and Geeks - Yu Gi Oh Funko Pop Vinyl 389 Blue Eyes...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.58 EUR
 currency: EUR
 price: 8.58

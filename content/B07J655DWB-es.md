@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J655DWB-es American Tourister Aero Racer Spinner 55 - 2 5 Kg Equipaje...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 66.5 EUR
 currency: EUR
 price: 66.5

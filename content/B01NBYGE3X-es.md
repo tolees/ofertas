@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBYGE3X-es Pyramid International - Felpudo "You Shall Not Pass!" De...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

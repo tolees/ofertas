@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XKXBWM-es Under Armour UA TAC Patrol Pant II Pantalones Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

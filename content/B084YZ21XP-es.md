@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084YZ21XP-es LoveOlvido Color Aleatorio Tortuga en la Cadena Mainspring...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.13 EUR
 currency: EUR
 price: 1.13

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FF7HMQN-es Cybex Gold Sirona S i-Size 519000215 Silla de Coche Grupo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 373.5 EUR
 currency: EUR
 price: 373.5

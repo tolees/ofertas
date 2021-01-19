@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJN6HHD-es DADAWEN - Zapatillas de Deporte para Mujer Color Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.37 EUR
 currency: EUR
 price: 46.37

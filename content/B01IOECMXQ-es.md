@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IOECMXQ-es Sennheiser HD 2.30i - Auriculares de Diadema Cerrados 3.5...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

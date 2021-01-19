@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPDMBH-es Kipling Baroe S Monederos para Mujer Gris Curiosity Grey...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.06 EUR
 currency: EUR
 price: 9.06

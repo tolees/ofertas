@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CM98ZCY-es Ultra Pro- Pokemon Ultra Ball Deck Box Color carbón 85457'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

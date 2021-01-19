@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGSLC7T-es MEDION Ultrafino S6445 - Ordenador portátil de 15.6" Full...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 520.58 EUR
 currency: EUR
 price: 520.58

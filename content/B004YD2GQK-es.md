@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004YD2GQK-es Candy MIC25GDFX Microondas integrable con grill sin marco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 183.64 EUR
 currency: EUR
 price: 183.64

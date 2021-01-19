@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D76QR8P-es Brewsly Botella de Agua - 1000ML de Doble Pared con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.11 EUR
 currency: EUR
 price: 6.11

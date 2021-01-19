@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPSFH5Z-es Funko- Pop Vinilo: BTS: J-Hope Figura Coleccionable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

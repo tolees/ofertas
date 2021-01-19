@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DDND7C-es Clatronic WKS 3691 Hervidor de Agua Eléctrico 2200 W 1.5...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

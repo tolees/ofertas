@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVF8FYP-es Zapatillas/ADIDAS:Daily 2.0 46 Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.5 EUR
 currency: EUR
 price: 30.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKJPFM1-es Lee Austin Jeans Negro Moto Black HL 36W / 36L para Hombre'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 65.49 EUR
 currency: EUR
 price: 65.49

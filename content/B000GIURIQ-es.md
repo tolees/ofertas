@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GIURIQ-es Optimum Nutrition ON Gold Standard 100% whey proteína en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.42 EUR
 currency: EUR
 price: 23.42

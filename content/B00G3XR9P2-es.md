@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G3XR9P2-es Baby Jogger City Mini GT - Silla de paseo Turquesa / Gris'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

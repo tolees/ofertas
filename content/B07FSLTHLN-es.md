@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSLTHLN-es Clarks Un Maui Step Mocasines para Mujer Blanco White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.41 EUR
 currency: EUR
 price: 29.41

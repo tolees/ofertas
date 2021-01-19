@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RS71SHN-es Tommy Hilfiger - Classic Saffiano cartera para mujeres azul'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

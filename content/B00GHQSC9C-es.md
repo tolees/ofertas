@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GHQSC9C-es Orphelia OR53172181 - Reloj de Pulsera Mujer Piel'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39 EUR
 currency: EUR
 price: 39

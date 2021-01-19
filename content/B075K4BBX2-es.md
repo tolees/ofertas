@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075K4BBX2-es SAGUARO® Invierno Al Aire Libre Zapatillas Caliente...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

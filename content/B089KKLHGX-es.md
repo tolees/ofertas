@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089KKLHGX-es PROJEWE 30-72 Pares Aretes Surtidos Múltiples Pendientes...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

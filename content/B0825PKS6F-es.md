@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825PKS6F-es Roxy - Licra - Mujer - M - Blanco'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.54 EUR
 currency: EUR
 price: 14.54

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GF7CRZ2-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 104.06 EUR
 currency: EUR
 price: 104.06

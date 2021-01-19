@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RKWTM2-es Converse Taylor Chuck 70 Hi Sneaker Unisex-Adult...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.59 EUR
 currency: EUR
 price: 49.59

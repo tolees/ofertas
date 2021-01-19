@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ816QS-es Under Armour Men s Core Golf Visor Gorras Con Visera De...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

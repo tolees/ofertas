@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0863SHCZ8-es Suhctup Transparente Funda Compatible con Huawei View 10...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Halloween EDT 100 ml al 66.25 % de descuento'
-date: 2021-01-18 18:09:18
+date: 2021-01-19 18:47:48
 image: 'https://m.media-amazon.com/images/I/41AGSrDPLuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000C1Z6NS-es'
+slug: 'B000C1Z6NS-es Halloween EDT 100 ml'
+tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95
@@ -16,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000C1Z6NS/?tag=tolees-21'
 descuento: '66.25'
-average: '25.376524064171104'
+average: '25.350846560846545'
 ---
 
 Está [Halloween EDT 100 ml](https://www.amazon.es/dp/B000C1Z6NS/?tag=tolees-21) con 66.25 de descuento por 22.95 EUR (original: 68.0 EUR) en el siguiente enlace!
@@ -25,8 +26,8 @@ Está [Halloween EDT 100 ml](https://www.amazon.es/dp/B000C1Z6NS/?tag=tolees-21)
 
 ℹ️:
 
-- Notas de corazón: Magnolias de Casablanca, violetas de Arezzo, mugquet de Camarga, tuberosa de Yunnan, pimienta rosa de Aruba.
-- Notas de fondo: Sándalo de Misora,incienso de Djouba, mirra de Tana y vainilla de Madagascar.
 - Notas de salida: Violetas, lima verde de Cozumel, banana de Bokhol.
+- Notas de fondo: Sándalo de Misora,incienso de Djouba, mirra de Tana y vainilla de Madagascar.
+- Notas de corazón: Magnolias de Casablanca, violetas de Arezzo, mugquet de Camarga, tuberosa de Yunnan, pimienta rosa de Aruba.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000C1Z6NS/?tag=tolees-21)

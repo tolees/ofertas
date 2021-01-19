@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XXCQL6J-es Samsonite Spark SNG Spinner Top Pocket Equipaje de Mano 55...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 143.45 EUR
 currency: EUR
 price: 143.45

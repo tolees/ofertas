@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019EVY5VK-es Mobicool G30 AC/DC - Nevera termoeléctrica portátil...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.84 EUR
 currency: EUR
 price: 47.84

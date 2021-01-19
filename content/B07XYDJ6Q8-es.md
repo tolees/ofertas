@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYDJ6Q8-es Piccalilly - Body para bebé algodón orgánico Suave Unisex...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.23 EUR
 currency: EUR
 price: 9.23

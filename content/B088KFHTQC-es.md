@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088KFHTQC-es LEEYYO 50PCS verde tela no tejida limpia/al aire libre'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67

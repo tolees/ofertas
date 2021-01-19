@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQQ2HX-es Esprit Maternity Dress Nursing SS AOP Camisón premamá...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.5 EUR
 currency: EUR
 price: 33.5

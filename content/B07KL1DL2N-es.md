@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KL1DL2N-es Safety 1st Soft Dreams Cuna de viaje plegable y portatil...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.34 EUR
 currency: EUR
 price: 28.34

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PZB1IAK-es Nike Court Royale Zapatillas para Mujer Negro Black/White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

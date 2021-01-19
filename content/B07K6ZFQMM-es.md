@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6ZFQMM-es 8PCS/Set Multi-Purposes Car Wire Cable Holder Easy To...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y8QYHLH-es JACK & JONES Jorbrandon Sweat Hood Capucha Gris Light Grey...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

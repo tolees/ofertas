@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076D9RGGP-es Philips VisaPure - Mini limpiador facial con tecnología de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

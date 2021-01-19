@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GSQZOKQ-es VICTORY ENDURANCE Beta Alanine 90 Caps'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.81 EUR
 currency: EUR
 price: 9.81

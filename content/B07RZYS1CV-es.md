@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZYS1CV-es Love MoschinoJc4001pp1aMujerBolsos totesNegro Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 101.95 EUR
 currency: EUR
 price: 101.95

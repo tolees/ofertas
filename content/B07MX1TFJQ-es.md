@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MX1TFJQ-es The Division 2'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

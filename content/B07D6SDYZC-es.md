@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6SDYZC-es KHOMO - Funda para iPad de 9 7 Pulgadas 2017 y 2018 Serie...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.41 EUR
 currency: EUR
 price: 10.41

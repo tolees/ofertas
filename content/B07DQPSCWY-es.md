@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQPSCWY-es adidas Saturday Short Pantalones Cortos de Deporte Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

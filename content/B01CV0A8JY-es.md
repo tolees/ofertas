@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CV0A8JY-es Caterpillar Elude Wp Botas Chukka Hombre Marrón Dark Brown...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

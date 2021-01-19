@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZGV11X-es Casco Moto Modular SPEEDWAY con ECE y DOT Homologado -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

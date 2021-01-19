@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H7YWJPL-es Nike Court Royale AC Gymnastics Shoe Mens Black/White 44.5 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.37 EUR
 currency: EUR
 price: 29.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FCJ68TW-es Camara de Fotos Camara Fotos Full HD 2.7K C de 30MP para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

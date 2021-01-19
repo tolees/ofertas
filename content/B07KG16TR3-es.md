@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG16TR3-es PUMA LQDCELL Optic Rave Zapatillas de Running para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.3 EUR
 currency: EUR
 price: 30.3

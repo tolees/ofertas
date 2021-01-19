@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073H8YDNQ-es Air Wick Ambientador Freshmatic Completo Life Scents...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

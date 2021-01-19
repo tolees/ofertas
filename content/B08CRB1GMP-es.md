@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRB1GMP-es Yoga portátil Pilates Mat Bolsa de Nylon Carrier Mesh...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

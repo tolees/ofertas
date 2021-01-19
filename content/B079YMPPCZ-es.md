@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YMPPCZ-es Funko Pop!- Unmasked Spider-Man Figura de Vinilo 30633'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

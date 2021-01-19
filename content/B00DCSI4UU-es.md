@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DCSI4UU-es Orbegozo CT 12105 Ventilador de techo con luz 5 palas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.39 EUR
 currency: EUR
 price: 59.39

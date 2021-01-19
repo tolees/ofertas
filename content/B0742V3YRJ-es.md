@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0742V3YRJ-es Russell Hobbs Colours Plus - Hervidor de Agua Eléctrico...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

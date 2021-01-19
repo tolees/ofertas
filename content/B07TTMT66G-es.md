@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTMT66G-es Juego de 4 Sillas de Comedor Modernas de Medio Siglo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 98.0 EUR
 currency: EUR
 price: 98.0

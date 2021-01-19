@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQVJ3GK-es Napapijri DAMAVAND V Suéter Azul French Blue Bb7 L para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.6 EUR
 currency: EUR
 price: 39.6

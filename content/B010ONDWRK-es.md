@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010ONDWRK-es Advance Sensitive Mini - Pienso para Perros de Razas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

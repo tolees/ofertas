@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MD3WDLS-es Crucial Ballistix Sport LT BLS2K16G4D30AESC 3000 MHz DDR4...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

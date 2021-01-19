@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCBLHTW-es Pepe Jeans MC Queen Short para Hombre Rojo Jam 213 W29...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.08 EUR
 currency: EUR
 price: 21.08

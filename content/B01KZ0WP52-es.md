@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KZ0WP52-es Black+Decker A7233-XJ - Juego de 31 Piezas para Atornillar...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

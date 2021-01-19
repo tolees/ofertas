@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PDWXR4-es GoolRC Compatible con Nintend Switch Joy-con Ring Fit...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.98 EUR
 currency: EUR
 price: 42.98

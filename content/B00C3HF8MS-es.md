@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C3HF8MS-es Rowenta CV5022 Powerline Plus Elite - Secador de 2200 W...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

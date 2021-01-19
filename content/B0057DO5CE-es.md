@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0057DO5CE-es Orlane Royale Crema Cou & Décolleté 50 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 134.0 EUR
 currency: EUR
 price: 134.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDBQF1T-es Lee Luke Jeans Moto Grey Hga 36W / 32L para Hombre'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

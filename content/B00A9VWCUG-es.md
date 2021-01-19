@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A9VWCUG-es Philips myLiving Star - Barra de 4 focos iluminación...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 76.34 EUR
 currency: EUR
 price: 76.34

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BN7WIKE-es Giorgi - Gel Fijador No. 3 - Perfect Fix 24h - 150 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

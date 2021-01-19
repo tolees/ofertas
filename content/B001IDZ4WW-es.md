@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001IDZ4WW-es Max Factor LipFinity Classic Pintalabios Tono 020 Angelic...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCFR2G9-es MEDION AKOYA M80 - PCC965 Ordenador de Sobremesa Intel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084QH6MR1-es 1 unid Etiqueta engomada de la Historieta del termómetro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.21 EUR
 currency: EUR
 price: 1.21

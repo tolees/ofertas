@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G88LG2B-es Superdry Hombre Mountain Zip Jacket Azul Large'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

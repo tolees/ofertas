@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088ZVB5K6-es Fifet Conector coaxial Metal Oro 3 Way RP-SMA Macho a RP-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

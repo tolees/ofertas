@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VF88HD-es Ewparts 3mm Mini cuentas de cristal para los niños DIY...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

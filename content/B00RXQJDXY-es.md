@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RXQJDXY-es Tristar RK-6117 - Arrocera Capacidad 0.6 litros Función...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

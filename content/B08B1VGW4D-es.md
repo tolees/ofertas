@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B1VGW4D-es WINMI para Huawei Y6p Funda Color Degradado Silicona TPU...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.02 EUR
 currency: EUR
 price: 6.02

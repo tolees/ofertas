@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQWDJGT-es H&E - Abrigo de plumón con capucha para niñas Niños color...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.55 EUR
 currency: EUR
 price: 20.55

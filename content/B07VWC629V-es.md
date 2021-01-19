@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWC629V-es Fitbit Aria Air Scales White Unisex-Adult One Size'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MD22NSC-es Le Coq Sportif COURTSTAR Craft Zapatillas para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.61 EUR
 currency: EUR
 price: 34.61

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813FGK1W-es Portalápices 5 Piezas de Escritorio de Organizador de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K3GKY16-es SteelSeries Apex M750 - Teclado para Juegos mecánico -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 88.15 EUR
 currency: EUR
 price: 88.15

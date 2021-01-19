@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWGTX6B-es Neo Geo Mini - Gamepad Mini Blanco Neo Geo'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

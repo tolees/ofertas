@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001B1QSF8-es Elizabeth Arden Visible Difference hydrating complex cream...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

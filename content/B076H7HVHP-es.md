@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076H7HVHP-es Kipling Freedom Estuches 22 cm 1 litros Negro True Black'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

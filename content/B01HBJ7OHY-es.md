@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HBJ7OHY-es Tommy Hilfiger 1791269 - Reloj análogico de cuarzo con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 101.1 EUR
 currency: EUR
 price: 101.1

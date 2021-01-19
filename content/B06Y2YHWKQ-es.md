@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2YHWKQ-es Brabantia NewIcon Cubo de basura de pedal Acero Inoxidable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.75 EUR
 currency: EUR
 price: 48.75

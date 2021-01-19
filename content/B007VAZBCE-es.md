@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007VAZBCE-es Tamron A0A007S SP 24-70 mm F/2.8 Di USD - Objetivo para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 632.5 EUR
 currency: EUR
 price: 632.5

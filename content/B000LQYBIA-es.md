@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LQYBIA-es Pulsar PJ6024X1 - Reloj analógico de caballero de cuarzo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.84 EUR
 currency: EUR
 price: 43.84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XJJ6L39-es Targus Pulse - Funda para tabletas de 15.6" Color Negro y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFJJ58J-es Pop! Smallfoot - Figura de Vinilo Migo'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

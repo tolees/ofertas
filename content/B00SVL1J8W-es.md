@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SVL1J8W-es Casio Reloj Analogico para Hombre de Cuarzo con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

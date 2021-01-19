@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RGCR3J-es KabelDirekt 1m Cable TV Sat 75 Ohm HDTV Conector F a...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

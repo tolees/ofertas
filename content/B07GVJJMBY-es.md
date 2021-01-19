@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVJJMBY-es Surface Pen 180 días de Trabajo 500hrs Standby Surface...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

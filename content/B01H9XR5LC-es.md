@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H9XR5LC-es SPC Harmony - Teléfono móvil Dual SIM Números y letras...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.05 EUR
 currency: EUR
 price: 33.05

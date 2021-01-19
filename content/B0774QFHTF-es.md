@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0774QFHTF-es Pikolin Home - Protector de colchón tejido rizo algodón...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

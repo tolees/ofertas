@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0873KVM4M-es Acer Aspire 5 - Ordenador portátil de 14" FullHD Intel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 559.99 EUR
 currency: EUR
 price: 559.99

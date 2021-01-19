@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTTSZFG-es Skechers Verrado Crafton Zapatillas para Hombre Marrón...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.64 EUR
 currency: EUR
 price: 40.64

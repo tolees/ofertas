@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O0YBKW4-es Levi s BIG BEND Cinturón Negro Regular Black 59 95 para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.4 EUR
 currency: EUR
 price: 27.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7ND3H8-es Magiin Jarrón de Vidrio Transparente Terrario de Plantas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

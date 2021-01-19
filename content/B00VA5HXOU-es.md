@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VA5HXOU-es LE CREUSET Cocotte Evolution con Tapa Ø 31 cm Ovalada...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 227.5 EUR
 currency: EUR
 price: 227.5

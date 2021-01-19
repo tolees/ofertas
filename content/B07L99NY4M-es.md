@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L99NY4M-es Nike Legend React 2 Zapatillas de Trail Running para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.49 EUR
 currency: EUR
 price: 64.49

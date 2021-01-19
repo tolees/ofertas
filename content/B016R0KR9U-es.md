@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016R0KR9U-es Skechers Women s D Lites-Biggest Fan Trainers Blue Navy...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.94 EUR
 currency: EUR
 price: 28.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCYFKG3-es Love Actually - Edición 2017 [Blu-ray]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

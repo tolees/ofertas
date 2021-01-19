@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7WITHL-es Nautica Reloj de Pulsera NAPPRH001'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 267.45 EUR
 currency: EUR
 price: 267.45

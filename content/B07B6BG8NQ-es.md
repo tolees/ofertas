@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B6BG8NQ-es Lacoste Reloj Multiesfera para Mujer de Cuarzo con Correa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 123.62 EUR
 currency: EUR
 price: 123.62

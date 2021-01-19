@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZDTJDJ-es Puma Basket Heart Patent Wn s Zapatillas para Mujer Gris...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.11 EUR
 currency: EUR
 price: 30.11

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TRWD1L-es N / A Pretyj Funda para UMIDIGI X 6.35" con 3 Piezas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

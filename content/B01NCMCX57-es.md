@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCMCX57-es Yosoo Matemáticas Manipuladores De Madera Barras de Contar...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

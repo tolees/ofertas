@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NLUMKY-es Casio Reloj Digital para Mujer de Cuarzo con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.8 EUR
 currency: EUR
 price: 22.8

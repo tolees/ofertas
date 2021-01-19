@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PWQUDCC-es Lacoste Eau De Lacoste L.12.12 Blanc - Agua de toilette...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

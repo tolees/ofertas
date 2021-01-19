@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001Z62EPC-es Legrand 92012 Caja de conexiones eléctricas 90x90x50 mm'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.73 EUR
 currency: EUR
 price: 3.73

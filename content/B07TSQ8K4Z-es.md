@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ8K4Z-es Skechers Go Walk 5 Zapatillas sin Cordones para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.57 EUR
 currency: EUR
 price: 34.57

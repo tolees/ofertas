@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PND15C-es Rostro Prebase Sos Primer'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

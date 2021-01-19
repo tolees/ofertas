@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLNWTK1-es Tommy Hilfiger Basic Badge Regular LS Polo Azul Blue Dw5...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

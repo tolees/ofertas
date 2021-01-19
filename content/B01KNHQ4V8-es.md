@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KNHQ4V8-es Lacoste Reloj Analógico para Hombre de Cuarzo con Correa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

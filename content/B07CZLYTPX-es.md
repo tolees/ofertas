@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZLYTPX-es Under Armour Rival Fleece Logo Sweatshort Pantalón Corto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.68 EUR
 currency: EUR
 price: 12.68

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXPDJF0-es Orbegozo PCE 5000 - Placa vitrocerámica portatil 2000 W de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

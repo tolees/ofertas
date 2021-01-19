@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXN38SS-es Pistola de Masaje portátil con Pantalla LCD de 6 Cabezas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 100.99 EUR
 currency: EUR
 price: 100.99

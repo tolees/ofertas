@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0055ZGJCS-es Ufesa Cafetera expreso Duetto Creme CE7141 500 W Acero...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.5 EUR
 currency: EUR
 price: 28.5

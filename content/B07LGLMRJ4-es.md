@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGLMRJ4-es Evax Fina y Segura Super/Maxi Compresas Con Alas - 11...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

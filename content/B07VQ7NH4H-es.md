@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQ7NH4H-es Edge Entertainment- Hellboy: el Juego de Tablero Color...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

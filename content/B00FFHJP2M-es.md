@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FFHJP2M-es Black Diamond - Terminator Color Black Talla L'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.84 EUR
 currency: EUR
 price: 58.84

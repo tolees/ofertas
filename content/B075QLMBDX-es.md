@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QLMBDX-es PIKOLINOS Botín de Piel Royal W4D'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 80.74 EUR
 currency: EUR
 price: 80.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0197TY1EA-es Aquabeads - 79278 - Set Anillos Deslumbrantes'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

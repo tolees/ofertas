@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRS1VQ6-es Altavoz de música inalámbrico portátil Estilo Seta Lindo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.97 EUR
 currency: EUR
 price: 3.97

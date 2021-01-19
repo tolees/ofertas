@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCC7GVK-es XX-JX FW-150W'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

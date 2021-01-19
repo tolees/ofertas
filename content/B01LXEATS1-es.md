@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXEATS1-es Parker Urban 1931626 - Bolígrafo roller naranja recambio...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

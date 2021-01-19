@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MB8MZQ-es SELECT Mundo – Balón de Balonmano Color Purple/Orange...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.09 EUR
 currency: EUR
 price: 15.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003XDU3IU-es Vans Herren Classic T-Shirt Weiß WHITE-BLACK YB2 XL'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

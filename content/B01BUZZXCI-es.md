@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BUZZXCI-es Super Sand-83254 Arena cinética Multicolor Goliath 83254'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.15 EUR
 currency: EUR
 price: 21.15

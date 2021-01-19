@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVY8Z6B-es Labanema Moto G7 Power Funda 360 Rotating Ring Grip Stand...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

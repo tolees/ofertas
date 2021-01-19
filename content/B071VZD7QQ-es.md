@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VZD7QQ-es Trangoworld Gyala Chaqueta Mujer Agua 2J1 L'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.55 EUR
 currency: EUR
 price: 34.55

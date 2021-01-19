@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074N8ZLY2-es Apple iPhone 7 - Smartphone DE 4 7” con tecnología IPS...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 290.0 EUR
 currency: EUR
 price: 290.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T8J43DR-es Calcetines de Running para Largas Distancias 3 Par...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

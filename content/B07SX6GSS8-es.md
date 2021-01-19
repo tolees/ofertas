@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SX6GSS8-es Moonssy Leggins Reductores Adelgazantes Pantalones de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.8 EUR
 currency: EUR
 price: 22.8

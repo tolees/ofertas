@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833VWGHM-es Cudy AX3000 WiFi 6 Adaptador PCIe Tarjeta WiFi pc...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

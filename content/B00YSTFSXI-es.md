@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YSTFSXI-es Adidas AA2299 Calcetines Unisex Negro Negro/Gris/Blanco 23...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

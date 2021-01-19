@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBMKRRQ-es BOTÍN DE Mujer XTI Basic con Tacon DE 6 CM con Cierre DE...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.18 EUR
 currency: EUR
 price: 21.18

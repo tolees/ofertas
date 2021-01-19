@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K5VCP86-es 1 Par Imán Perder Peso Nueva Tecnología Pegatina del Pezón...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

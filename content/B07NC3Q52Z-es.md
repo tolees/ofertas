@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC3Q52Z-es HUGO Abaco Pantalones cortos Hombre Negro Black 001 X-Large'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

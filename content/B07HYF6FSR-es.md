@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYF6FSR-es MODAUTO Asiento Deportivo Coche Baquet Deportivo de Tela...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 110.0 EUR
 currency: EUR
 price: 110.0

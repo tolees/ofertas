@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCD679T-es Adidas Sambarose Zapatillas Clasicas para Mujer Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

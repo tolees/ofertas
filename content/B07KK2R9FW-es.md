@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK2R9FW-es Columbia Conspiracy V Outdry Zapatillas de Senderismo para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.46 EUR
 currency: EUR
 price: 30.46

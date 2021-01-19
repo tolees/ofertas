@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RQ78JW-es Warhammer 40.000: Mechanicus'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012FZC3DY-es WMF Kitchenminis - Vaporera 900 W 2 Zonas de Cocción y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

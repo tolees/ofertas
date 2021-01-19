@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004HIHMTS-es Boucheron Agua de colonia para mujeres - 30 gr.'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.33 EUR
 currency: EUR
 price: 10.33

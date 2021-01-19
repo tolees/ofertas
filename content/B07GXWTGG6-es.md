@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXWTGG6-es EMPIRE GAMING Teclado de PC Empire K300 QWERTY– 105 Teclas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

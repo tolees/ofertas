@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8SRZSJ-es Rubie s- Avengers Disfraz Multicolor small 700672 S'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.89 EUR
 currency: EUR
 price: 31.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FK53MLF-es Revlon Accesorio de coloración - 60 ml.'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.53 EUR
 currency: EUR
 price: 3.53

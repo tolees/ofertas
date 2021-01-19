@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0863SFGJ3-es Suhctup Transparente Funda Compatible con Samsung Galaxy...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

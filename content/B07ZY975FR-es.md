@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZY975FR-es Bruni Película Protectora Compatible con Fossil Sport 41...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

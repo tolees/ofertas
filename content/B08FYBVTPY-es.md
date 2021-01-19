@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FYBVTPY-es Panamar Juego de Red de Voleibol de Agua Juguete de Agua...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.66 EUR
 currency: EUR
 price: 19.66

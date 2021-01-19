@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SW2NRKK-es Someline - Foco led para exteriores 20 W con sensor de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.81 EUR
 currency: EUR
 price: 37.81

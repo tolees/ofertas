@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTS6VXZ-es Valentino by Mario - Doxy Shoppers y bolsos de hombro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 56.65 EUR
 currency: EUR
 price: 56.65

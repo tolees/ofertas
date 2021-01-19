@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087X1G5SS-es Buyger 3 en 1 Helados Supermercado Juguete con Luz y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.86 EUR
 currency: EUR
 price: 22.86

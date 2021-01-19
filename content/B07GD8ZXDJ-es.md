@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GD8ZXDJ-es Emporio Armani Smartwatch ART5007'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 255.0 EUR
 currency: EUR
 price: 255.0

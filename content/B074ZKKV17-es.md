@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074ZKKV17-es Carolina Herrera 212 Vip Black Agua de Perfume Vaporizador...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.5 EUR
 currency: EUR
 price: 43.5

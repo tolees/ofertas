@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GC7PJP2-es Auriculares Bluetooth Auriculares inalámbricos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N37VNCR-es The North Face M LW Fp II Mid GTX Botas de Senderismo para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.56 EUR
 currency: EUR
 price: 45.56

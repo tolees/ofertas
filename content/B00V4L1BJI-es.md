@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V4L1BJI-es Adidas - Get Ready - Aftershave para hombres - 100 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

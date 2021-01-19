@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKDJ55F-es Logitech R500 Presentador Inalámbrico 2.4 GHz con Receptor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

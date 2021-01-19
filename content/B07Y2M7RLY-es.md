@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y2M7RLY-es Bayala the Game'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.77 EUR
 currency: EUR
 price: 28.77

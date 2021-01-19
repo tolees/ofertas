@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLT8FGL-es Wrangler Texas Contrast Hombre Jeans Azul Blue Black 002...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.91 EUR
 currency: EUR
 price: 52.91

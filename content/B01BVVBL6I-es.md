@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BVVBL6I-es Kerastase 905-56003 - Activador de volumen capilar 30 x 6 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.82 EUR
 currency: EUR
 price: 89.82

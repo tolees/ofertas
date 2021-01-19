@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IOZ9GNY-es AUKEY Lámpara LED plegable de mesa con pinza brazo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

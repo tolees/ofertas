@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RH7VGB-es Leepesx Termómetro infrarrojo digital Medidor de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

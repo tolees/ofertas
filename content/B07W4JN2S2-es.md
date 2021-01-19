@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4JN2S2-es ORICO Aluminio 3.5 Pulgadas 4 Bahías Gabinete Disco Duro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

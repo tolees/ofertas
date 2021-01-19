@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000I6PKT2-es Durable Visifix Flip Vegas - Rollo rotador de tarjetas 215...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.71 EUR
 currency: EUR
 price: 47.71

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A3M1TIW-es WELEDA Skin Food Original 75 Ml 1x 75 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BF6YNGG-es Guerlain Agua de colonia para mujeres - 125 ml.'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.6 EUR
 currency: EUR
 price: 52.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DZKTUHG-es Organizador universal de Maclaren: Tenga lo esencial...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

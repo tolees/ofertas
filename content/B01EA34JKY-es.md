@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EA34JKY-es American Tourister WaveBreaker Spinner 55/20 - Equipaje de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 66.78 EUR
 currency: EUR
 price: 66.78

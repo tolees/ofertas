@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMWZ1S5-es Clarks Bay Rosie Sandalia con Pulsera para Mujer Gris Grey...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.75 EUR
 currency: EUR
 price: 37.75

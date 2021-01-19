@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVQ868C-es TESmart Ultra HD 4k30Hz 1x2 Hdmi Splitter 1 in 2 out Hdmi...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

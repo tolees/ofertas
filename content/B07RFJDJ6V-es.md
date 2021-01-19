@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFJDJ6V-es Percetey - Cinturón de natación para niños y adultos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

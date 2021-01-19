@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ2FC4S-es Superdry Track & Field Col Block Hood Capucha Negro Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

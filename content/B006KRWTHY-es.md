@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006KRWTHY-es Hugo Boss 28666 - Desodorante'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

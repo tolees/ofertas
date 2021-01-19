@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FMVJGW-es Novex Aceite de Oliva Mascarilla Capilar - 400g'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.04 EUR
 currency: EUR
 price: 3.04

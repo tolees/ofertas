@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTPNK4X-es FIND - Glossy Charm Líquido de labios mate n.5 + Brillo de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

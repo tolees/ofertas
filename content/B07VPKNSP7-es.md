@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPKNSP7-es CARIOCA Oops Rojos| Set Bolígrafos Borrables Recargables...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.86 EUR
 currency: EUR
 price: 12.86

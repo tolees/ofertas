@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074T34GFN-es Seiko Reloj Analógico para Mujer de Cuarzo con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 140.22 EUR
 currency: EUR
 price: 140.22

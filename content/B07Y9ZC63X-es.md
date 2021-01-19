@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9ZC63X-es Monitor 27 Gigabyte AORUS CV27Q'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 325.93 EUR
 currency: EUR
 price: 325.93

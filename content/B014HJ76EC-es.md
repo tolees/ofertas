@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014HJ76EC-es Alessi Cafetera de espresso Pulcina negro 300 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 54.45 EUR
 currency: EUR
 price: 54.45

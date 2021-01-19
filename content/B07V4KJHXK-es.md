@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4KJHXK-es Deerbird® Hucha - Creativo Bronce Egipcio Pirámide Metal...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

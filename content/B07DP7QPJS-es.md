@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP7QPJS-es Adidas Falcon W Zapatillas de Gimnasia para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.75 EUR
 currency: EUR
 price: 52.75

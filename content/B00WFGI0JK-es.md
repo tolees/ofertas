@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WFGI0JK-es Babymoov procesador de alimentos para bebés Nutribaby...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.2 EUR
 currency: EUR
 price: 47.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CQB6J8-es Nixon Reloj Analogico para Mujer de Cuarzo con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.74 EUR
 currency: EUR
 price: 45.74

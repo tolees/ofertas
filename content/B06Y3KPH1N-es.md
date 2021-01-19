@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y3KPH1N-es Festina Reloj Análogo clásico para Hombre de Automático...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 139.64 EUR
 currency: EUR
 price: 139.64

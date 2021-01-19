@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NM5KG4-es Lenovo Ideapad 520S-14IKB - Ordenador Portátil de 14"...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

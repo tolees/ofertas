@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1QVQW-es PUMA Speed Orbiter Zapatillas de Running para Hombre High...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.53 EUR
 currency: EUR
 price: 57.53

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008X1GA6Q-es Maybelline New York The Colossal Go Extreme Radical Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

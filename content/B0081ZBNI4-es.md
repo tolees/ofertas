@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0081ZBNI4-es StarTech MUY1MFFS - Cable Adaptador estéreo 2 x 3.5 mm Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

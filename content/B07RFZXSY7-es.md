@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFZXSY7-es Tommy Hilfiger Tjm Explorer Belt 3.5 Cinturón Multicolor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.63 EUR
 currency: EUR
 price: 21.63

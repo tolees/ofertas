@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL2M23W-es New Balance Fuel Core 5000 Zapatillas de Running para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.75 EUR
 currency: EUR
 price: 28.75

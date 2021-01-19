@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVBNV7P-es Napapijri Eisberg SS Polo Azul Clematis Blue VB1 Large...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

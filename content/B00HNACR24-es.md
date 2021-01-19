@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HNACR24-es Anita - Sujetador para mujer Negro schwarz 001 80B'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.52 EUR
 currency: EUR
 price: 32.52

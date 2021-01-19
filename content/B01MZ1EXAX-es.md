@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ1EXAX-es VS Venta-stock Aparador Java 3 cajones y 2 Puertas Gris/Cera'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

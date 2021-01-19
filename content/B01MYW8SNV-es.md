@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYW8SNV-es L Oréal Paris Barra de labios líquida Infalible Lip Paint...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.56 EUR
 currency: EUR
 price: 5.56

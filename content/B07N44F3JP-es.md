@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N44F3JP-es Desigual Coat Exotic Classic Abrigo Azul Denim Medium Wash...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.55 EUR
 currency: EUR
 price: 45.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLRGBD6-es Amplificador de voz WinBridge con micrófono con cable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64 EUR
 currency: EUR
 price: 64

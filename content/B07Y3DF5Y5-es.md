@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y3DF5Y5-es Rowenta RR6933WH - Robot Aspirador con mopa y depósito de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

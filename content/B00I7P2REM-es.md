@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I7P2REM-es Sunburst Snacks Sunburst cacahuetes tostados y salados mar...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.78 EUR
 currency: EUR
 price: 6.78

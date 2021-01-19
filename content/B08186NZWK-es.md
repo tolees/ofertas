@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08186NZWK-es siismi 2 Pares Plantillas de Tacón Alto de Silicona 3/4...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.57 EUR
 currency: EUR
 price: 3.57

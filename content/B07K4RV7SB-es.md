@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K4RV7SB-es Adidas Falcon W - Zapatillas de Deporte para Mujer Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.47 EUR
 currency: EUR
 price: 41.47

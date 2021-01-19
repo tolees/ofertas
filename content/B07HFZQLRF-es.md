@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFZQLRF-es New Balance 247v2 Zapatillas para Hombre Plateado Steel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

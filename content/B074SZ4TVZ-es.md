@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074SZ4TVZ-es URBN CHEF Queensway - 6 Vasos de Whiskey en un Paquete de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.33 EUR
 currency: EUR
 price: 11.33

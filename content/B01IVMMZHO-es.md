@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IVMMZHO-es Skechers Synergy-Case Closed Zapatillas de Entrenamiento...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.28 EUR
 currency: EUR
 price: 42.28

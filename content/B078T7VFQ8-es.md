@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T7VFQ8-es Columbia Childrens Rope Tow III Waterproof Botas de Nieve...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.45 EUR
 currency: EUR
 price: 21.45

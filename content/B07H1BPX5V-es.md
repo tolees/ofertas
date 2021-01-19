@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H1BPX5V-es Teeth Whitening Powder carbón activo natural...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.14 EUR
 currency: EUR
 price: 3.14

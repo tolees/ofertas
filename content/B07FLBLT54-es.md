@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLBLT54-es BROTECT Protector Pantalla Cristal Compatible con Doogee...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

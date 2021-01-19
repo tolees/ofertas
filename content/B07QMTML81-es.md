@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QMTML81-es Asics Gel-Quantum Infinity Zapatillas de Running para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.73 EUR
 currency: EUR
 price: 58.73

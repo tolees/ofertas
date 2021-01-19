@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZWN1XK-es B Blesiya Tablero De Dibujo De Tableta De Escritura LCD De...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.48 EUR
 currency: EUR
 price: 19.48

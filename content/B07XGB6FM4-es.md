@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGB6FM4-es ERIK - Calendario de pared 2020 Marvel Avengers 30 x 30 cm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

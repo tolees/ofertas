@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQNPDU4-es Energy Sistem Tower 1 Torre de Sonido Bluetooth 4.1 30 W...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

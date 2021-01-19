@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018SW6CZ8-es Arena Fundamentals Logo Bañador Hombre Naranja Mango/Royal S'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K1YFWPI-es Emporio Armani Underwear 111357CC717 - Calzoncillos Para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.65 EUR
 currency: EUR
 price: 28.65

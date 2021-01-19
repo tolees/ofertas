@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N5WFF1R-es Calvin Klein PUFFER ROUND BACKPACKHombreShoppers y bolsos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

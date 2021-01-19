@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FX2TXPW-es LIERAS Grifos de cocina Girar Primavera Canalon Extraer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.98 EUR
 currency: EUR
 price: 55.98

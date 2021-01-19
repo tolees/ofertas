@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GXC5C5-es Adidas VL Court 2.0 K Db1827 Zapatillas Unisex Niños Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018YPET7C-es Bosch Professional GWS 12V-76 - Amoladora angular a...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

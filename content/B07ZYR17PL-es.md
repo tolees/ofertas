@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYR17PL-es TOSING Despertador luces Lámpara de sueño Reloj Altavoz...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

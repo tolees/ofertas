@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003UOYBUS-es Mini Ventilador de Escritorio USB'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.7 EUR
 currency: EUR
 price: 10.7

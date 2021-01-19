@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NIYJKL0-es GoPro AHBBP-401 - Cargador de batería Dual y batería para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.73 EUR
 currency: EUR
 price: 43.73

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XS8WVZB-es Waneway Espejo Maquillaje Iluminado con 12 X 3W Bombillas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

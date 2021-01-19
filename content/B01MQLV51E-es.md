@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQLV51E-es Indoor Copa'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

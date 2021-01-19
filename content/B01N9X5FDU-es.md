@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9X5FDU-es Be Cool Zas Silla de Paseo Plegable Uso desde Recién...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 86.31 EUR
 currency: EUR
 price: 86.31

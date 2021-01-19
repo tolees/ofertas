@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZ4XKP8-es adidas N-5923 Zapatillas de Gimnasia para Hombre Gris Grey...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.32 EUR
 currency: EUR
 price: 29.32

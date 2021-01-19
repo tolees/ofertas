@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZT2YEU-es Intenso 6021512 4000GB Negro - Disco Duro Externo 4000 GB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 121.08 EUR
 currency: EUR
 price: 121.08

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0812GZNDM-es Asics GT-1000 9 GS Running Shoe Unisex niños Directoire...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M27LRCJ-es BRA Efficient Cuchara de Cocina Acero INOX Nailon y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

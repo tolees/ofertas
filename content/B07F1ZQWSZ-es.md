@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1ZQWSZ-es Timberland Malibu Waves Cross Slide Sandalias con Punta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.72 EUR
 currency: EUR
 price: 52.72

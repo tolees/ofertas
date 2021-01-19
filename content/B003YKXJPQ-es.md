@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003YKXJPQ-es Westmark Cortador de Verduras Acero Inoxidable'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

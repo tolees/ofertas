@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSPVVDR-es PowerBar Protein Plus 52% Chocolate Nut 20x50g - Barras de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.89 EUR
 currency: EUR
 price: 27.89

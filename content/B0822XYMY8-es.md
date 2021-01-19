@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0822XYMY8-es DON HIERRO - Vajilla de 20 Piezas de Porcelana Anna 6...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

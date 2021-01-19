@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYS71M8-es TankerStreet 2 Piezas Alfombras de Cocina Antideslizante...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

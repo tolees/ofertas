@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZOKJVAG-es Parasol Kinder Fluff 4 x - El único parasol certificado de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.8 EUR
 currency: EUR
 price: 15.8

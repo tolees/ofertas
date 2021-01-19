@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJJZ37X-es Steiff Jogginghose Pantalones de Deporte Azul Patriot Blue...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.53 EUR
 currency: EUR
 price: 15.53

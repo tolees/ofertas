@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2YNPN5-es Festina Reloj Analógico para Hombre de Cuarzo con Correa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.47 EUR
 currency: EUR
 price: 40.47

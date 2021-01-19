@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGBYZ7W-es Nike Indy Light Bra Sports Mujer Black/ White M'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.65 EUR
 currency: EUR
 price: 18.65

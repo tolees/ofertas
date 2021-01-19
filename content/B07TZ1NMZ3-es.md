@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ1NMZ3-es Kipling Baroe S Monederos para Mujer Multicolor Speckled...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

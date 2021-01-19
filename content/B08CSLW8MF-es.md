@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CSLW8MF-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

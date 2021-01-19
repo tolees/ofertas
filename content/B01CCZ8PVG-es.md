@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CCZ8PVG-es Urban Classics Canvas Belt Cinturón Charcoal Talla Única...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.38 EUR
 currency: EUR
 price: 11.38

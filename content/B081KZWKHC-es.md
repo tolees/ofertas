@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081KZWKHC-es Lydreewam Pendientes aro Colgantes De Letra X Plata de Ley...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

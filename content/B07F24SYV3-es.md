@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F24SYV3-es Válvula de drenaje automática G1 / 2 DN15 Válvula de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

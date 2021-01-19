@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XTV1N6-es Luz de Cortina JINPX Luz Cadena con 300 LED 8 Modos 3 * 3M...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

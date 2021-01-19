@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KDHJ51U-es Lacor - 68601 - Botella Para Sifón CO2 1 Litro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.31 EUR
 currency: EUR
 price: 29.31

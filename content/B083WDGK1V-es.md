@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083WDGK1V-es Qomolo Lámpara Anti Mosquitos Mata Mosquitos Electrico...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

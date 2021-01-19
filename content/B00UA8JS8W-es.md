@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UA8JS8W-es Maybelline New York Dr.Rescue CC Nails Base Coat Esmalte...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

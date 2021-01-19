@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EVPRTN6-es Calvin Klein BB Bottoms Up Braguita de bikini Azul Purity...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

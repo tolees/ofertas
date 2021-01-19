@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNRKC4J-es Superdry Zip Hood Capucha Gris Collective Dark Grey Grit...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.77 EUR
 currency: EUR
 price: 17.77

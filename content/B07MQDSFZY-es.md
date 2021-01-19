@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQDSFZY-es Argentina - Figura SoccerStarz de Messi 5cm Multicolor'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

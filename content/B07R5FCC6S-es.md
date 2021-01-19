@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5FCC6S-es Pendrive 8GB 3.0 5 Piezas Memorias USB - Metal Aluminio...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

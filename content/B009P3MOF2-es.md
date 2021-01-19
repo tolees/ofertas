@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009P3MOF2-es SRAM Soporte Quick View 31.8 Carretera Computer Tachos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

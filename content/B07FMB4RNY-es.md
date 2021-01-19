@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMB4RNY-es Joseph Joseph Elevate Pinzas de acero inoxidable de 30 5...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

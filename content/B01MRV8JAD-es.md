@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRV8JAD-es Pinzas de Cocina GWCLEO Pinzas para Barbacoa en Acero Inox...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLL9H25-es Asics Gel-Nimbus 22 Zapatillas de Running para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 125.95 EUR
 currency: EUR
 price: 125.95

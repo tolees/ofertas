@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MPP6BBK-es Snailax Masaje cervical Shiatsu con cuello térmico y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079WRFX5S-es Sans Complexe Coton D ARUM Sujetador sin Aros Negro Noir 4...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

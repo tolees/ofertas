@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y3ZZV24-es estuche isotérmico para insulina color gris y lima...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

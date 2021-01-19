@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CIEBU22-es Sandisk iXpand - Memoria flash USB de 32 GB para iPhone y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

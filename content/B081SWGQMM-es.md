@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081SWGQMM-es Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

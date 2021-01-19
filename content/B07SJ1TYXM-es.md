@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJ1TYXM-es Grid Day One Edition XONE'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.85 EUR
 currency: EUR
 price: 39.85

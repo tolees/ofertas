@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008RN08SQ-es Bosch Professional GKS 18 V-LI Sierra circular disco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 192.8 EUR
 currency: EUR
 price: 192.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083GJJ6LX-es scottpown Reproductor de música de Tarjeta de Altavoz...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

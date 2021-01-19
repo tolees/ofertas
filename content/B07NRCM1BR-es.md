@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRCM1BR-es TACKLIFE T8 ARRANCADOR DE Coches de hasta 6500cc Gasolina...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVQ2C79-es Triumph Lace Spotlight W Sujetador con Aros Naranja Dusty...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

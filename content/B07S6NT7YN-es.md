@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6NT7YN-es PUMA R78 Zapatillas Unisex Adulto Grey 37.5 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

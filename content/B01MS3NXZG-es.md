@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MS3NXZG-es Reebok Club C 85 Zapatillas Deportivas para Interior...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

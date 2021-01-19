@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08639SMDM-es YANJUN Máscara N95 Respirador Anti PM2.5 Filtro de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.37 EUR
 currency: EUR
 price: 16.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TJD79BW-es Acer MR.JKY11.00L - Videoproyector 3000 lúmenes'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 305.0 EUR
 currency: EUR
 price: 305.0

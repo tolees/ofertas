@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVMGZZC-es Relaxdays Set de cubertería de bambú 10x Cuchillo Tenedor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.75 EUR
 currency: EUR
 price: 30.75

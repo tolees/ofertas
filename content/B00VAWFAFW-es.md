@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VAWFAFW-es HP OfficeJet Pro 9020 - Impresora multifunción'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 218.47 EUR
 currency: EUR
 price: 218.47

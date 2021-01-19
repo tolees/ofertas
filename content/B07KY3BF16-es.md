@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KY3BF16-es Puma Rise Xt 4 Jr Zapatillas de Balonmano Unisex Niños...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

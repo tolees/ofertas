@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081NFK62M-es VADIM Sillas Comedor Blanca Nordica Juego de 4 Silla...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZXRB2Z-es Fleet & Foster - Zapatillas Deportivas Canary Summer para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.2 EUR
 currency: EUR
 price: 22.2

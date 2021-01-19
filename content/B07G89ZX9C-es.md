@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G89ZX9C-es Giorgi Sublime Cream Antiencrespamiento Melena Bajo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.36 EUR
 currency: EUR
 price: 2.36

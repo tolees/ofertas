@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001ISK0EY-es Canon LC-E6E - Cargador para batería Canon LP-E6 Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

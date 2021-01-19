@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001V9LBFM-es Rimmel London Hide The Blemish Corrector Tono 001 Ivory -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

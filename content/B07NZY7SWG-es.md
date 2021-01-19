@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZY7SWG-es New Era ERA MLB Side Bolsa de Hombro Unisex Adulto Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

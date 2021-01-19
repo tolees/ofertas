@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK4P2S9-es Columbia Grixsen Boot WP Botas Chukka para Hombre Beige...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.04 EUR
 currency: EUR
 price: 31.04

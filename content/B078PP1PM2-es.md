@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078PP1PM2-es Saucony Ride ISO Zapatillas de Running para Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 74.5 EUR
 currency: EUR
 price: 74.5

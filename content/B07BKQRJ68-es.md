@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BKQRJ68-es DROP SHOT Paletero Dunkan Adultos Unisex'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 60.46 EUR
 currency: EUR
 price: 60.46

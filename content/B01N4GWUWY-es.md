@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4GWUWY-es San Ignacio PK332 Set Tres sartenes + Batería 5 Piezas +...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

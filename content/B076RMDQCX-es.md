@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076RMDQCX-es Natural Feelings Calzoncillos Boxer Bóxer Hombre Algodón...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

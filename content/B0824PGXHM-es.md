@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0824PGXHM-es Young & Ming Funda para Xiaomi Redmi Note 8T 3 Pack...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XL0N60W-es Orbegozo TF 0123 Ventilador de sobremesa 25 W Blanco y negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

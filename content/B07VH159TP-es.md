@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VH159TP-es NEW C 2 Unidades Protector de Pantalla para Huawei Mate...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N96L6GL-es BOSS Prime Polo Rojo Bright Red 622 Medium para Hombre'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

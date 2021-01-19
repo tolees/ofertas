@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PG7YY25-es Electroestimulador Muscular Abdominales Cinturón...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

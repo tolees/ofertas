@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNTFY8P-es Under Armour Women s Charged Impulse Laufschuhe Zapatillas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.54 EUR
 currency: EUR
 price: 39.54

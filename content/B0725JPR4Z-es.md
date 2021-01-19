@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0725JPR4Z-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZT98YS-es Alomejor Almohadilla de Hombro autocalefactable Soporte...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

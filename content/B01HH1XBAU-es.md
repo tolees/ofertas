@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HH1XBAU-es Superwings - Escritorio Completo con bolígrafo electrónico...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

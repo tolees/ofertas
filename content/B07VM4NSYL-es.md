@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VM4NSYL-es KATOOM Bandera Welcome Home 1pcs Banner Bienvenido Bunting...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

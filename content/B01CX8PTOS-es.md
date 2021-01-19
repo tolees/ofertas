@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CX8PTOS-es iHealth Wave AM4 AM4-Monitor de Actividad natación y sueño...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.83 EUR
 currency: EUR
 price: 57.83

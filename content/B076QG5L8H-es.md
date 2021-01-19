@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QG5L8H-es Chicco Baby Hug 4en1 Sistema multifunción: moisés hamaca...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 179 EUR
 currency: EUR
 price: 179

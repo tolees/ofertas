@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLFSQRD-es Té de Yunnan Rose Puerh 100g 0.22LB conservas de Rose Puer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

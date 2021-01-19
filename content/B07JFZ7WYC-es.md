@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFZ7WYC-es Quemagrasas NATURAL Vegavero® | Cetonas de Frambuesa +...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

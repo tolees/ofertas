@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XPFPD5-es Under Armour Tech 2.0. Camiseta masculina camiseta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

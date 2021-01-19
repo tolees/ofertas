@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7XT4NK-es Tommy Hilfiger Essential Long Lace Sneaker Zapatillas para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.45 EUR
 currency: EUR
 price: 48.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRWB1MT-es Los Sims 4 - Días de Universidad La caja contiene un...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

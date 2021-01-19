@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004FEER0Q-es Intex 28002 - Kit de mantenimiento con mango telescópico'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.46 EUR
 currency: EUR
 price: 20.46

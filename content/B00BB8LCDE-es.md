@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BB8LCDE-es Rotulador punta fina STABILO point 88 - Estuche premium de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.65 EUR
 currency: EUR
 price: 23.65

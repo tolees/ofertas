@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2Q8QGR-es Gant Cotton Pique Crew suéter Hombre Gris Dark Grey...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 84 EUR
 currency: EUR
 price: 84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QYXDDT-es Lámpara de esterilización UV Lámpara germicida...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

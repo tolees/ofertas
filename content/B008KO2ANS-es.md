@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008KO2ANS-es Monix Classica Olla a Presión Tradicional de 10 litros...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.9 EUR
 currency: EUR
 price: 58.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZM7CH-es PUMA Hybrid Astro Wns Zapatillas de Running para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 53.83 EUR
 currency: EUR
 price: 53.83

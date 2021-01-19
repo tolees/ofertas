@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TNTGWR-es Funko Pop!- Pop Marvel: X-Men-Colossus Figura de Vinilo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

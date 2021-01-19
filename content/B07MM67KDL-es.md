@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM67KDL-es Buffalo Corin Zapatillas para Mujer Rosa Pink 001 39 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 62.83 EUR
 currency: EUR
 price: 62.83

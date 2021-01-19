@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6V9JG5-es Akozon Car Radio Clip de puerta Panel Trim Dash Audio...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

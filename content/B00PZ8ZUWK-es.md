@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PZ8ZUWK-es Nike MD Runner 2 Zapatillas de Running Mujer Negro Black /...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

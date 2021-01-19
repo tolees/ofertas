@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SMTM3ZG-es Burton Elite Camiseta Hombre True Black S'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.44 EUR
 currency: EUR
 price: 17.44

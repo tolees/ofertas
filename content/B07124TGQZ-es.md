@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07124TGQZ-es Grohe Nova Cosmopolitan S Escudo - Placa de descarga'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 72.31 EUR
 currency: EUR
 price: 72.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KX1ZMHB-es Estante de Toalla Toallero de baño Barra de Toalla pared...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

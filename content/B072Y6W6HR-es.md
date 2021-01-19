@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072Y6W6HR-es Columbia Zero Rules Polo de Manga Corta Hombre Gris Carbon...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

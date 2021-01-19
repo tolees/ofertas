@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00699QXRA-es INJUSA Triciclo Infantil Body Sport Evolutivo de Color...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 67.78 EUR
 currency: EUR
 price: 67.78

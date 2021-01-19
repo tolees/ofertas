@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GYTLND-es Nemesis Now House Stark - Taza 20 cm color negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

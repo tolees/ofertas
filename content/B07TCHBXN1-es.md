@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCHBXN1-es Quiksilver Mission-Guantes para Snowboard/Esquí para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.89 EUR
 currency: EUR
 price: 30.89

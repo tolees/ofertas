@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003NEKRRQ-es Crema Pedicura para grietas callos y asperezas 250 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

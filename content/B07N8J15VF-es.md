@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8J15VF-es Skechers Men s PAXMEN Trainers Grey Charcoal/Navy Ccnv 9 UK'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

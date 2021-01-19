@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0013LJWHW-es Dewalt DT2294-QZ Juego de 10 hojas de sierra calar con 5...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

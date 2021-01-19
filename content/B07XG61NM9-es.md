@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XG61NM9-es Lovecraft s Untold Stories'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.48 EUR
 currency: EUR
 price: 21.48

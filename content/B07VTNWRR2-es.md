@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTNWRR2-es Meizas Conjuntos de Bikinis para Mujer Blanco X-Large'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.24 EUR
 currency: EUR
 price: 5.24

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC342BS-es camel active Houston 488385/2511 Pantalones Beige Beige 23...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.81 EUR
 currency: EUR
 price: 30.81

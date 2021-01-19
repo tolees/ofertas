@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNW1GR1-es Microsoft Surface Pro 6 - Ordenador portátil 2 en 1 12.3...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1539.61 EUR
 currency: EUR
 price: 1539.61

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ8HJ4P-es Utensilios Cocina de Silicona - 10+1Piezas Menaje Cocina...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.75 EUR
 currency: EUR
 price: 10.75

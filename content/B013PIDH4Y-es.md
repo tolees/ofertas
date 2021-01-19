@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013PIDH4Y-es Hugo BOSS - Reloj cronógrafo para hombre de cuarzo con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 147.31 EUR
 currency: EUR
 price: 147.31

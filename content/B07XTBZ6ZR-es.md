@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTBZ6ZR-es Auriculares Inalámbricos Bluetooth 5.0 SoundPEATS Truedot...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

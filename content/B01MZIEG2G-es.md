@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZIEG2G-es Poster STAR WARS El Despertar De La Fuerza Grafiti Hecho A...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

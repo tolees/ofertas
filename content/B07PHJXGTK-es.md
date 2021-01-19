@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHJXGTK-es Ferilinso Cristal Templado para Redmi 7 Redmi Note 8 Redmi...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

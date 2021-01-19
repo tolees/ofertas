@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XMJ7XQ-es DIM Generous Invisible Sujetador Negro 100.D para Mujer'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

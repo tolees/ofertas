@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XRDFGWF-es Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 194.01 EUR
 currency: EUR
 price: 194.01

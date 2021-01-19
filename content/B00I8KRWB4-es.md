@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I8KRWB4-es Artdeco High Definition Foundation 11 Medium Honey Beige...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

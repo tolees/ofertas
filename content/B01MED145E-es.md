@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MED145E-es Dr Brown s prevent chupete 6 A 12 meses color azul pack de 2'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

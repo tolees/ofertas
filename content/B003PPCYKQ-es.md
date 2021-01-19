@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003PPCYKQ-es Eastpak Springer Riñonera 23 cm 2 L Gris Sunday Grey'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

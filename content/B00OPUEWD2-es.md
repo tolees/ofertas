@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OPUEWD2-es iHealth Monitor de Actividad y Sueño - 1 Monitor'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.41 EUR
 currency: EUR
 price: 45.41

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCZZG87-es Wipp Express Detergente Líquido Azul - 40 Lavados 2L'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.63 EUR
 currency: EUR
 price: 8.63

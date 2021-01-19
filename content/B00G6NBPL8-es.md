@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G6NBPL8-es Evergreenweb - Colchones individual 80x190 Espuma de 20 cm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

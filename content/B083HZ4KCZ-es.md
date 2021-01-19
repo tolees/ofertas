@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HZ4KCZ-es J9503-Yt Anti-Fall Cartoon Cute Elk Snowflake Pattern...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

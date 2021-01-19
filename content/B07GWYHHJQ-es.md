@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWYHHJQ-es auna Ultrasonic BT Boombox - Bluetooth hasta 10 m Puerto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

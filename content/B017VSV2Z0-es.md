@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017VSV2Z0-es JUGUETE DE PINTURA POR NUMEROS - Perros y gatos - INTERHOME©'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

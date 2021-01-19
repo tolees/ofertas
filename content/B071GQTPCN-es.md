@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GQTPCN-es PUMA 900248.020 Bolsa Mediana Unisex Adulto Azul Talla única'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

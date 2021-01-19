@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HSEV8B6-es Leifheit Pegasus 200 Solid Comfort - Tendedero con alas de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

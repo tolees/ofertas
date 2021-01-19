@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ8Q46P-es Legami - Agenda de 12 meses/semanal - Agenda 2020 de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

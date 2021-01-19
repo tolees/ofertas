@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K68TBFH-es Multiherramienta de Alicates Multiusos 18 en 1，Herramienta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.54 EUR
 currency: EUR
 price: 11.54

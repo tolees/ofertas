@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B0W5Q9C-es STANLEY FATMAX FME340K-QS - Sierra de calar 710W 20mm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 65.56 EUR
 currency: EUR
 price: 65.56

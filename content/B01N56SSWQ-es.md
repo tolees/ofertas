@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N56SSWQ-es Pioneer SE-MS7BT-S - Auriculares de Tipo Diadema Bluetooth...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 75.32 EUR
 currency: EUR
 price: 75.32

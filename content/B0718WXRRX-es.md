@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0718WXRRX-es Call Of Duty WWII'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.25 EUR
 currency: EUR
 price: 28.25

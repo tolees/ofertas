@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007ZPWIQC-es Melissa & Doug- Box of Rainbow Mini Tarjetas para Dibujar...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

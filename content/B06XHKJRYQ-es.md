@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHKJRYQ-es Vans Old Skool Platform Zapatillas para Mujer Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 62.42 EUR
 currency: EUR
 price: 62.42

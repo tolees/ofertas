@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRQQBY7-es Suhctup Espejo Funda Reemplazo para Samsung Galaxy A80/A90...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

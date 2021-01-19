@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0010MGWCW-es Biotherm Biosource Hydra-Mineral Cleanser Toning Mousse -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.3 EUR
 currency: EUR
 price: 15.3

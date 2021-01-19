@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW964HK-es Skechers Flex Appeal 3.0-Satellites Zapatillas para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.65 EUR
 currency: EUR
 price: 25.65

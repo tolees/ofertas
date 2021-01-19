@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BP23J1B-es STANLEY STHT77498-1 Nivel Láser Rojo Cubix De Líneas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.25 EUR
 currency: EUR
 price: 41.25

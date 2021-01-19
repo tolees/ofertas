@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVSGKMQ-es Tommy Hilfiger Th Women Short Sock 2p Translucent...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

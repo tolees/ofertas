@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y6F6DLS-es FitBeast Esterilla de Yoga Esterilla de Yoga...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

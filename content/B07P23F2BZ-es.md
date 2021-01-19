@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P23F2BZ-es Skechers Energy-brunkz Zapatillas para Hombre Blanco White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.53 EUR
 currency: EUR
 price: 24.53

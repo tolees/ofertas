@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KKEFVK-es Beurer IL11 - Lámpara por infrarrojos compacta 100 W 5...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

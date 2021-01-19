@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZP23WQ-es Funko- Pop Vinilo: Gears of War S3: Queen Myrrah Figura...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

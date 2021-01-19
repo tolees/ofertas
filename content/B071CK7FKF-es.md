@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071CK7FKF-es American Tourister Soundbox Spinner Equipaje de mano S 55...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 95.46 EUR
 currency: EUR
 price: 95.46

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JMVN1-es Clarks Orinoco Club Botas Estilo Motero para Mujer Gris...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.91 EUR
 currency: EUR
 price: 18.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9TVQ82-es HyperX Pulsefire Surge Ratón para Juegos Rgb 1 Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.79 EUR
 currency: EUR
 price: 43.79

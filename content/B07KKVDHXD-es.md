@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKVDHXD-es Nike M CFD Pant FLC TM Club19 Sport - Pantalones Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.04 EUR
 currency: EUR
 price: 27.04

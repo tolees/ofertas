@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHC29B3-es JACK & JONES Jcostanford Crew Neck Noos suéter Verde Rosin...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

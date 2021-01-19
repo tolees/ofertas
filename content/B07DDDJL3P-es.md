@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDDJL3P-es Ready 2 Robot Serie 1 - Cápsula Sorpresa con Robot Piloto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

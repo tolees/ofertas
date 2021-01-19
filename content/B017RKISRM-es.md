@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017RKISRM-es KS Tools 714.0241 Composición de 241 herramientas 4...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 892.01 EUR
 currency: EUR
 price: 892.01

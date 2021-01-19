@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXTYZSP-es Under Armour Charged Pursuit 2 Zapatillas para Correr para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.11 EUR
 currency: EUR
 price: 42.11

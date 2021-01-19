@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074JJHKMG-es Under Armour Warp Knit High Impact Bra Sujetador Deportivo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.57 EUR
 currency: EUR
 price: 11.57

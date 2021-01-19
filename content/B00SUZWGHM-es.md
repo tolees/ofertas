@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SUZWGHM-es [Total 2Pcs] The Face Shop Rice Water Bright Cleansing Oil...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GQLQQTT-es PUAK523 Luz LED Clip-on Super Brillante Libro Lectura Luz...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.91 EUR
 currency: EUR
 price: 2.91

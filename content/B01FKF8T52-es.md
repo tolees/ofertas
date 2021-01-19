@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FKF8T52-es Paw Patrol Cama Infantil con Espacio de Almacenamiento...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 109.5 EUR
 currency: EUR
 price: 109.5

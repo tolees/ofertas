@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019MYY38O-es Objetivo Olympus M.Zuiko Digital ED 300 mm F4.0 Pro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 820.0 EUR
 currency: EUR
 price: 820.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005FPUEW4-es S.Oliver Reloj Analógico de Cuarzo Unisex con Correa de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

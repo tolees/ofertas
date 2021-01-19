@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BK2KN3F-es Toshiba Satellite Pro R50-C-1E8 - Ordenador portátil de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

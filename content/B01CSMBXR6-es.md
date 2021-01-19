@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CSMBXR6-es Rowenta Perfect Steam Extreme DG8531F0 - Centro planchado...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 158.0 EUR
 currency: EUR
 price: 158.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF76SKP-es Levi s Perfect Tee T-shirt Multicolore Raita Indigo 0033...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.45 EUR
 currency: EUR
 price: 15.45

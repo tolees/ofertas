@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0079WCPFU-es Orbegozo HO232 Horno eléctrico de sobremesa 1500 W 23...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.44 EUR
 currency: EUR
 price: 58.44

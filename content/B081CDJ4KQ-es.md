@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CDJ4KQ-es Geographical Norway Polar Hombre Upload Taupe M'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

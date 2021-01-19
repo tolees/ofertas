@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2LX7D2-es Helly Hansen Active Windbreaker Jacket Hombre Negro Ebony 2XL'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.94 EUR
 currency: EUR
 price: 55.94

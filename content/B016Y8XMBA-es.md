@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016Y8XMBA-es Tierhausschuhe Disney Star Wars Meister Yoda'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

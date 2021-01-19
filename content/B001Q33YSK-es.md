@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001Q33YSK-es Reebok Classic Lthr 2214 Zapatillas de Trail Running para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

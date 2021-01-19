@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08195SGQJ-es Zambrero 502XL Cartuchos de Tinta Reemplazo para Epson 502...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.86 EUR
 currency: EUR
 price: 20.86

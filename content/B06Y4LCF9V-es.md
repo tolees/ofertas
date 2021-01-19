@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y4LCF9V-es ICZI Hub USB Ethernet 3.0 +3 Puertos USB 3.0 Hub USB 3.0...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

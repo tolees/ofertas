@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCPSFKB-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.28 EUR
 currency: EUR
 price: 59.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AC1D9XG-es Vizaro - Saco de Dormir Evolutivo 4-36 meses 100g - 4 5Tog...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

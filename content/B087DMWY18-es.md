@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087DMWY18-es San Ignacio Q3519 Cuchillo chuletero 11 cm con Mango de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

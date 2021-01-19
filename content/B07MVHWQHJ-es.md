@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVHWQHJ-es Kipling - Sara Bolsos bandolera Mujer Rosa Metallic Rose'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.38 EUR
 currency: EUR
 price: 42.38

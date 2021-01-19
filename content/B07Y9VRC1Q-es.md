@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9VRC1Q-es edc by Esprit 129cc2i004 suéter Naranja Rust Orange 5 814...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.57 EUR
 currency: EUR
 price: 31.57

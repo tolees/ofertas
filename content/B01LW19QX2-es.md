@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LW19QX2-es Rollei C6i Trípode Carbono'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 145.97 EUR
 currency: EUR
 price: 145.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWRR6JY-es Xiaomi Mi 8 - Smartphone de 6.21" Octa-Core Kryo 2.8 GHz...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 319 EUR
 currency: EUR
 price: 319

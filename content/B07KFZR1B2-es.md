@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZR1B2-es PUMA King Pro SG Botas de fútbol para Hombre Black White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.63 EUR
 currency: EUR
 price: 17.63

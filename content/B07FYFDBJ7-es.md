@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYFDBJ7-es Champion The Absolute Workout Sujetador Deportivo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

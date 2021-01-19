@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQVX637-es Hpybest - Cadena de chupete de dos colores hecha a mano...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

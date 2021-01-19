@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DSZMOWU-es Belkin F8W713vf - Protector de Pantalla de Cristal...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MGK9Q0C-es Rimmel London Extra 3D Lash - Rimel Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

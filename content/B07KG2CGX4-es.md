@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG2CGX4-es PUMA Smash V2 Zapatillas Unisex Adulto Gris Castlerock...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

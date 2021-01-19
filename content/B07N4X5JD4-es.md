@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4X5JD4-es Tommy Hilfiger Tjw Sleeve Logo V-Neck Sweater Suéter Rojo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.18 EUR
 currency: EUR
 price: 28.18

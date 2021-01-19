@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CW2WZ4M-es Panamar Borradores y fichas de ajedrez de Madera Natural y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.43 EUR
 currency: EUR
 price: 1.43

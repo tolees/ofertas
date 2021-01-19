@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0774DG5RS-es SYMALL Mujer Ropa Interior Hueco Encaje Malla...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

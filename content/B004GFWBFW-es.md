@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004GFWBFW-es POP! Vinilo - Horror: Michael Myers'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

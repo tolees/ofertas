@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPH687J-es Lacoste Carnaby EVO 120 7 US SMA Zapatillas para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.33 EUR
 currency: EUR
 price: 59.33

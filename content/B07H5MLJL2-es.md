@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5MLJL2-es Triple Magnesium Complex Citrato de magnesio completamente...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

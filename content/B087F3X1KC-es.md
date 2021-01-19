@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087F3X1KC-es Golden Goose - Zapatillas de piel para hombre estilo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 459.63 EUR
 currency: EUR
 price: 459.63

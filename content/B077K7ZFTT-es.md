@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077K7ZFTT-es Lenovo 120S-14IAP - Ordenador portátil de 14" HD Intel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

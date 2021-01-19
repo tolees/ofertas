@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXLR85C-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Naranja...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.65 EUR
 currency: EUR
 price: 15.65

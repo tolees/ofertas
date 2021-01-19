@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DYXMEV8-es Vibram FiveFingers Kso Evo Zapatillas de Deporte Exterior...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.55 EUR
 currency: EUR
 price: 69.55

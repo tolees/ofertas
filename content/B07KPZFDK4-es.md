@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPZFDK4-es Ever-Pretty Vestidos de Fiesta Encaje Gasa Cuello Redondo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVYD7RG-es Let S Sing 11 - Edición Estándar'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.76 EUR
 currency: EUR
 price: 26.76

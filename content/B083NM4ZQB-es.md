@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NM4ZQB-es 1 unid profesional salón peluquería tinte crema batidor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

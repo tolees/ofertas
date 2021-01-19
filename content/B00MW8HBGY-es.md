@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MW8HBGY-es Dremel 723 Kit de 100 Accesorios Variados - Juego de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.52 EUR
 currency: EUR
 price: 23.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW7WWGV-es Skechers Street Cleats 2-Fashion Trail Zapatillas para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

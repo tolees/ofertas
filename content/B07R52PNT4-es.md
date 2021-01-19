@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R52PNT4-es Boston Tech SP1 - Botella de Agua de Acero Inoxidable Sin...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

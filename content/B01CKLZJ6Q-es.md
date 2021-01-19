@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CKLZJ6Q-es PrimeMatik - Soporte de Pared con Gancho Plegable para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.18 EUR
 currency: EUR
 price: 13.18

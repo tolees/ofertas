@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076SJCWZL-es Marco Tozzi 23750 Zapatillas para Mujer Negro Black Comb...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

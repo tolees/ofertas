@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W5NJBRS-es Protefix - Almohadillas Adhesivas para Protesis Dentales'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

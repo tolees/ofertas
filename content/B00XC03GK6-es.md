@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XC03GK6-es Wetbrush Detangle Professional Cepillo para El Pelo Color...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

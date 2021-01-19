@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AV5VFJO-es Nike Lightweight No-Show Calcetines Hombre Blanco 42-46...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

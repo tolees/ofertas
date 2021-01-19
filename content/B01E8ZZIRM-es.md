@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E8ZZIRM-es G-STAR RAW 3301 Low Waist Super Skinny Jeans Ajustados...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

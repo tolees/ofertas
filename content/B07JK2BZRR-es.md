@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JK2BZRR-es Cronicas Vampíricas Temporada 1-8 Serie Completa Blu-Ray...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

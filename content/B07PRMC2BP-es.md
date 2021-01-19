@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRMC2BP-es Bourjois Velvet The Pencil - Pintalabios Tono 4 Amou-rose 3g'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

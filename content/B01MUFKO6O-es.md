@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MUFKO6O-es Mr. Wonderful Vela lata con mensaje "Cuando te veo ¡me...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

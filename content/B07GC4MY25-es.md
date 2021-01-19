@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GC4MY25-es TECCPO Cortabordes 18V 2.0Ah Cortacésped sin Cable 2X...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

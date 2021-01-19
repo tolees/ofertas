@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015CMHOZE-es Rimmel London Supercurler Máscara de Pestañas Tono Black -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.07 EUR
 currency: EUR
 price: 3.07

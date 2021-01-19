@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WNQXHGG-es Funko- Pop TV: Stranger Things-Robin Figura Coleccionable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.69 EUR
 currency: EUR
 price: 12.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9TR2HN-es Yutwo Funda Huawei Honor 7s Estuche Protector de 360...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.07 EUR
 currency: EUR
 price: 1.07

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071S2KT8J-es Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

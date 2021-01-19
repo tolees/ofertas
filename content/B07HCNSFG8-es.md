@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HCNSFG8-es NOVECASA Sauna Pantalones Neopreno Deportivos Mujer para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

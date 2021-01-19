@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ANXDJWE-es Daga 2PH - Almohadilla Eléctrica 46 x 34cm Conexión Fija...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

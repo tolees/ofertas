@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU88GDG-es G-STAR RAW Rovulc Denim Mid Sneakers Zapatillas para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 51.78 EUR
 currency: EUR
 price: 51.78

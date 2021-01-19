@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CWNCDC-es ASUS Lyra - Sistema WiFi Mesh Individual Tri-Banda AC2200...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 100.66 EUR
 currency: EUR
 price: 100.66

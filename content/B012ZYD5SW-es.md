@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012ZYD5SW-es ZOEREA Uno-Pedazos de los bebés Romper el Smoking con el...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

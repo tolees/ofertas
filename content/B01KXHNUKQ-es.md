@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KXHNUKQ-es Superga 2750-efglu Zapatillas de Gimnasia Unisex Adulto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

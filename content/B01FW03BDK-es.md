@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FW03BDK-es Philips Stormtrooper - Iluminación infantil LED integrado...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.52 EUR
 currency: EUR
 price: 27.52

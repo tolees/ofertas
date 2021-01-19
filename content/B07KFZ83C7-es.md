@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZ83C7-es PUMA ICRA Trainer SD Jr Zapatillas Unisex Niños Peacoat-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.47 EUR
 currency: EUR
 price: 24.47

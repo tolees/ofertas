@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZYZTD7-es Kexing Kit de Resina epoxídica y Agente de curado Material...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.28 EUR
 currency: EUR
 price: 24.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OEAWLJU-es Tommee Tippee Biberones Closer to Nature 260 ml 6 unidades...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.01 EUR
 currency: EUR
 price: 20.01

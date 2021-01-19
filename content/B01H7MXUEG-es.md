@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H7MXUEG-es adidas Stan Smith C Zapatillas Unisex Niños Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DMGVN7H-es Funko – Royal Family Idea Regalo Statue collezionabili...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.36 EUR
 currency: EUR
 price: 16.36

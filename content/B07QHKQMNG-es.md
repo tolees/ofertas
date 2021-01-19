@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHKQMNG-es Pablosky 334310 Merceditas para Niñas Negro Negro Negro 25 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.22 EUR
 currency: EUR
 price: 14.22

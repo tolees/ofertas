@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ONA70TW-es Severin AT 2232 Tostadora Automática 1 Ranura Larga Hasta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.92 EUR
 currency: EUR
 price: 23.92

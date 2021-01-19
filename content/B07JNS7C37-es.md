@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNS7C37-es adidas TIRO19 TR PNTY Pantalones de Deporte Unisex niños...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

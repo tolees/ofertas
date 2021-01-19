@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089M63YJM-es AUELEK Lampara LED Escritorio Lampara Luz Lectura Portátil...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

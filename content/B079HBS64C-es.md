@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079HBS64C-es Philips Avent SCF343/20 - Pack con 2 chupetes Ultra Air...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

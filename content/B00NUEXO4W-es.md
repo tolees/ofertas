@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NUEXO4W-es HFTEK Soporte para 3 tres monitores de escritorio para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

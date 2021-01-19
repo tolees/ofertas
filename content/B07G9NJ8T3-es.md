@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9NJ8T3-es LolaPix Caja Merienda Unicornio Vuelta al Cole...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

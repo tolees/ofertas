@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J0PG9GK-es Super Sand Giant Gigante Color Natural Goliath 83221'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

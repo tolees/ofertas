@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXT82D1-es Merrell Moab 2 Lace Waterproof Zapatillas Deportivas para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.48 EUR
 currency: EUR
 price: 26.48

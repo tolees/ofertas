@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SX8Y5R0-es ASICS Cuffed Knit Pant - XXL'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

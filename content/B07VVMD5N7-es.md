@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVMD5N7-es SanDisk Extreme PRO - Tarjeta de memoria SDXC de 1 TB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 298.31 EUR
 currency: EUR
 price: 298.31
@@ -27,8 +27,8 @@ Ahora mismo tienes [SanDisk Extreme PRO - Tarjeta de memoria SDXC de 1 TB  hasta
 🔎:
 
 - Velocidad de disparo de hasta 90.mb/s y velocidades de transferencia de hasta 170.mb/s
+- Graba vídeos de forma ininterrumpida con uhs speed class 3 (u3) y video speed class 30 (v30)
 - Fabricada para ser usada en condiciones extremas y sometida a ensayos en dichas condiciones; resistente a temperatura, agua, golpes y rayos x
 - Perfecta para grabar vídeos 4k uhd y para hacer fotografías secuenciales en modo ráfaga
-- Graba vídeos de forma ininterrumpida con uhs speed class 3 (u3) y video speed class 30 (v30)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VVMD5N7/?tag=tolees-21)

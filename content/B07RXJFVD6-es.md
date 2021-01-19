@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXJFVD6-es New Balance 373v2 Zapatillas para Hombre Negro Black/Blue...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.18 EUR
 currency: EUR
 price: 57.18

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Z92KTA-es Solgar 40+ Acidophilus Avanzado Probiótico para el...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

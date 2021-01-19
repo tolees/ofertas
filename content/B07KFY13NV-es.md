@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFY13NV-es PUMA LQDCell Shatter XT Wn s Zapatillas Deportivas para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

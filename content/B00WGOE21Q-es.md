@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WGOE21Q-es BSN DNA Series Glutamine Sin Sabor - 309 g'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

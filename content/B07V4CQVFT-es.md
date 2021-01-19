@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4CQVFT-es Abalorios para Hacer Collares Abalorios para Hacer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.66 EUR
 currency: EUR
 price: 15.66

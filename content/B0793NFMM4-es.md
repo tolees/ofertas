@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793NFMM4-es Rimmel Nail Polish 60 Seconds Flip Flop Fashion 406 Coral...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

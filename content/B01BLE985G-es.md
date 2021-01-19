@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BLE985G-es Kerastase Densifique Homme Treatment 30 X - 6 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGQ437W-es Desigual Foul Galaxy Bufanda Rojo Red Ocre 3069 Talla...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

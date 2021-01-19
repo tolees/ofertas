@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HYP42H-es Patrones de Ciervos de Dibujos Animados Amarillos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC4RT93-es Charles Wilson Pantalón Vaquero Lavado Ajuste Estrecho 38"...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

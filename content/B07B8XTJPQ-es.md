@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8XTJPQ-es Purina ProPlan Medium Puppy Derma pienso para perro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.69 EUR
 currency: EUR
 price: 34.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QGXM44-es Suhctup Funda Compatible con Samsung Galaxy A70 Carcasa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

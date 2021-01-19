@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BCQILOI-es Philips Thermoprotect HP8233/00 - Secador de Pelo Motor DC...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

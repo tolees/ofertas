@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZHHD3HM-es Melissa Hilo Acrílico Ovillo de Lana Premium para DIY...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

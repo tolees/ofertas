@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD6XM9S-es PUMA ESS Logo Beanie Gorro Unisex Adulto Black-Big Cat'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

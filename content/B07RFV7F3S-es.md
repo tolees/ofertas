@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFV7F3S-es Arfbear Mini Pistola de Silicona Caliente 50W con 50 PSC...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQ24GS7-es Fdit Perros Clipper Eléctrico Profesional Pet Grooming...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

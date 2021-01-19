@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0085MR4AY-es HP CE250XD - Pack 2 cartuchos de tóner'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

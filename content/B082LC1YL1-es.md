@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082LC1YL1-es Buff Pack Run Visor Visera Womens Pink One Size'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

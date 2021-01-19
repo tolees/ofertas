@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2SLQNY-es New Balance 500 Zapatillas para Hombre Verde Green True 43 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.45 EUR
 currency: EUR
 price: 52.45

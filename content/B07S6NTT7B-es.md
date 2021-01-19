@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6NTT7B-es PUMA Ascend Zapatillas Unisex Adulto Negro Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.75 EUR
 currency: EUR
 price: 39.75

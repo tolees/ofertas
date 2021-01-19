@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000AQCER6-es Sebago Askook Crazy Horse Mocasines para Hombre Brown Tan...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

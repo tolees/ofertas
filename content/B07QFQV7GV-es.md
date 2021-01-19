@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFQV7GV-es G-STAR RAW Vetar Slim Chino Pantalones Gris Asfalt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.36 EUR
 currency: EUR
 price: 22.36

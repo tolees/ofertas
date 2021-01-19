@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072C41KZH-es Crock-Pot CSC038X DuraCeramic - Olla de Cocción Lenta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 63.63 EUR
 currency: EUR
 price: 63.63

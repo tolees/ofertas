@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BPAI78K-es Hugo Boss-Boss Agua fresca - 100 gr.'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BTMV9WB-es Autan - Spray Family Care repelente de insectos y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6R41FH-es Keto Plus Actives AM 60 CAPS - Quemagrasas potente para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

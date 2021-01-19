@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005RWKU42-es Eurohike Bbq plegable que acampa que cocina comiendo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

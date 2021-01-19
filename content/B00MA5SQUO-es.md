@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MA5SQUO-es Listerine Enjuague Bucal Cuidado Total Sabor Menta 500 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

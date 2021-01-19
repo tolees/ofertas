@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00008XWOI-es WMF Profi Sartén Acero Inoxidable Pulido 28 cm'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 51.41 EUR
 currency: EUR
 price: 51.41

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XX6GVFY-es Skip Hop Zoo Unicorn - Termo contenedor'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

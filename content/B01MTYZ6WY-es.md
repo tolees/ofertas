@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTYZ6WY-es Mega Bloks-FDX82 Minions Dora la Exploradora GRU Mi...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.08 EUR
 currency: EUR
 price: 14.08

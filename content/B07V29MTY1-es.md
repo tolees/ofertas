@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V29MTY1-es YuMe - Peluche Hermione 15 cm Multicolor'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

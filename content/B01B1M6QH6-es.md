@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B1M6QH6-es WMF Alteo - Cubertería de acero inoxidable con acabado...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 68.9 EUR
 currency: EUR
 price: 68.9

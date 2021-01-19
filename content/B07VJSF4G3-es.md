@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJSF4G3-es Desigual Mone maui Maria - Cartera para Mujer Color Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.11 EUR
 currency: EUR
 price: 20.11

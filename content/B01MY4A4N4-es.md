@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY4A4N4-es COBI 21076 - Discovery Juguete de construcción'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.37 EUR
 currency: EUR
 price: 20.37

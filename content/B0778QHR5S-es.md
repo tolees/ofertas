@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0778QHR5S-es Vitamina C 1200 mg y Zinc 40 mg - 120 Cápsulas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

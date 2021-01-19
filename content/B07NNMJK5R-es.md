@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNMJK5R-es Pack Vikingos 15 [DVD]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.19 EUR
 currency: EUR
 price: 46.19

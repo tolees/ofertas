@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000XJ1JLC-es Bosch 2 608 628 403 - Fresas de disco para ranurar 8 mm D1...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.83 EUR
 currency: EUR
 price: 19.83

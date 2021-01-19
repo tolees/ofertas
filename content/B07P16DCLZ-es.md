@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P16DCLZ-es Superdry Classic Lite Micro Pique Polo Amarillo Sulphur...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

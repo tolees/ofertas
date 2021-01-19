@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWX1FT9-es Columbia Fairbanks 1006 Botas para Hombre Gris Graphite...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.96 EUR
 currency: EUR
 price: 36.96

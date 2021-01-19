@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CU56KD8-es Fleur Paint 13247 - Pintura transforma superficies en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.64 EUR
 currency: EUR
 price: 21.64

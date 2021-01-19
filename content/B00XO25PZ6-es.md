@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XO25PZ6-es ESI Multicomplex Potasio+ Magnesio Complemento Alimenticio...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

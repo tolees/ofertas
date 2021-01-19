@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT4GTR9-es LOL Surprise - Glamper Van Giochi Preziosi LLU92000'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 91.67 EUR
 currency: EUR
 price: 91.67

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JZQBM9-es Concord Soul - Silla de paseo plegable y multifuncional...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 163.37 EUR
 currency: EUR
 price: 163.37

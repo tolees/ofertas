@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H1FKNAY-es Cayro - Tablero Parchís 4-6 con Accesorios 40 x 40 cm T134/A'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6J58BB-es Under Armour UA W Breathe Lace Zapatillas para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

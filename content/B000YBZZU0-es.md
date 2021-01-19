@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000YBZZU0-es Fellowes Gel Crystals - Reposamuñecas flexible negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.68 EUR
 currency: EUR
 price: 8.68

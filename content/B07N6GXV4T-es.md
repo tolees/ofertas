@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6GXV4T-es Homelody Tapa y AsientoTapadera WC Universal en Forma de U...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

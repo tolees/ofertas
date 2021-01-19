@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZC68PG-es Rimmel London Exaggerate Automatic Eyeliner Waterproof -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

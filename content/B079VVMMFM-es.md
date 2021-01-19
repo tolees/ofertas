@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VVMMFM-es Desigual - Bols_brilli Cuenca Shoppers y bolsos de hombro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.39 EUR
 currency: EUR
 price: 39.39

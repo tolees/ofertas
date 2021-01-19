@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074N98VRP-es Canon 12x32 IS - Prismático 12x diámetro Efectivo de 32 mm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 811.95 EUR
 currency: EUR
 price: 811.95

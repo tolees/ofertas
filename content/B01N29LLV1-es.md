@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N29LLV1-es Dickies Kerman Pantalones Marrón Brown Duck BD Tamaño del...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.47 EUR
 currency: EUR
 price: 14.47

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07815BDMK-es Under Armour Rival Fleece FZ Hoodie Sudadera Hombre Gris...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.23 EUR
 currency: EUR
 price: 35.23

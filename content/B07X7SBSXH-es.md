@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7SBSXH-es Veomed® Corrector de Postura Espalda Professional M/L...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

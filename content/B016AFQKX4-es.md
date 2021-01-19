@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016AFQKX4-es Dormio Esmeralda Colchón ViscoSoft reversible Blanco 90 x...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 94.3 EUR
 currency: EUR
 price: 94.3

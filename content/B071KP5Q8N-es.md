@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KP5Q8N-es Tommy Hilfiger Demi Lift Sujetador Negro Black 001 70D...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.21 EUR
 currency: EUR
 price: 20.21

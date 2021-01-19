@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSC4ZCX-es Skechers GO Run Fast Zapatillas para Mujer Azul Azul Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.58 EUR
 currency: EUR
 price: 28.58

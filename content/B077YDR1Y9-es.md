@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YDR1Y9-es Accurist Reloj de Pulsera 7101.01'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 93.83 EUR
 currency: EUR
 price: 93.83

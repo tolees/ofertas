@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077V9N9BG-es Pawaboo Cojín de calefacción eléctrica para Mascotas 39.37...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

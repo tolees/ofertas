@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6XFYLV-es Benq TH550 Video - Proyector 3500 lúmenes ANSI DLP 1080p...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 353.0 EUR
 currency: EUR
 price: 353.0

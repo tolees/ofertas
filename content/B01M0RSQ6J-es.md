@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0RSQ6J-es Chicco Oasys 1 Evo Silla de coche grupo 1 Isofix gris'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 149.98 EUR
 currency: EUR
 price: 149.98

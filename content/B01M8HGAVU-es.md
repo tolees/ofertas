@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M8HGAVU-es New Balance ML373 Zapatillas para Hombre Negro Black Grey...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

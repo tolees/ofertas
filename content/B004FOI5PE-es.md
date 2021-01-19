@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004FOI5PE-es Einhell GC-EM 1743 HW - Cortacésped eléctrico 1700W altura...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 100.14 EUR
 currency: EUR
 price: 100.14

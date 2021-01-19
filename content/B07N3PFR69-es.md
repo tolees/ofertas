@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3PFR69-es IPOTCH 3 Pares de Cordones para Deportistas Bloqueo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077GW5LYF-es find. Sandalia de Tiras con Tacón Mujer Violeta Lilac 41'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.04 EUR
 currency: EUR
 price: 7.04

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076TX96WH-es Lápiz de Cera 6 Colores Suaves y Blandas Cera No Tóxicas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

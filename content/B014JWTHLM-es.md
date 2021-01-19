@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014JWTHLM-es Lancaster 365 Skin Repair Serum Youth Renewal Tratamiento...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ835S-es Skechers Flex Advantage 3.0 Zapatillas para Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.27 EUR
 currency: EUR
 price: 44.27

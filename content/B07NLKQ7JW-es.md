@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLKQ7JW-es Versace Jeans CouturePortafoglioMujerCarterasAmarillo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 68.64 EUR
 currency: EUR
 price: 68.64

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087WLVFX8-es Depiladora Facial Mujer Electrica Sin dolor 2 en 1 USB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9VD4L4-es Palette Intense - Tono 7.5 Rubio Dorado Caramelo -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

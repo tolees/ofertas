@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZ62YZ8-es Mr Wonderful Ratón Inalámbrico Bluetooth con Carcasa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

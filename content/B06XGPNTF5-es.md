@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGPNTF5-es Helly Hansen W Rigging Coat Shell Jacket Mujer para Black XL'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 153.55 EUR
 currency: EUR
 price: 153.55

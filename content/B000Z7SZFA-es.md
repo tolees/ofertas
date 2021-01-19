@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Z7SZFA-es Oki 43865708 - Cartucho de tóner color negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 100.09 EUR
 currency: EUR
 price: 100.09

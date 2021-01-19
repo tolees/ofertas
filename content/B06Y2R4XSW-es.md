@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2R4XSW-es New Balance 574 Core Zapatillas Hombre Rojo Burgundy 44.5...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.4 EUR
 currency: EUR
 price: 35.4

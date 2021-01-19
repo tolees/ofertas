@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0137N7CWK-es Sisley Phyto Khol Perfect 03 Steel - 1.5 gr'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.75 EUR
 currency: EUR
 price: 30.75

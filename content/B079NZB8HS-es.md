@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NZB8HS-es Hapilife Grifo De Cocina Extraible Monomando...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

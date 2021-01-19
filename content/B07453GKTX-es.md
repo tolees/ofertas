@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07453GKTX-es TY- Beanie Boo s Mandy Poodle caniche Color azul 23 cm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

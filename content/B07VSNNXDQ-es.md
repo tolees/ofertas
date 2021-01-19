@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSNNXDQ-es Duevin Máquina de tatuaje semipermanente 10 Wraps Alloy...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

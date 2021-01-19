@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013SVXL5I-es Wolfcraft 4351000 Pistola Selladora'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

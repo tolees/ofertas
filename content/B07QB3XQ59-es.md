@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB3XQ59-es MTNG Attitude 69861 Zapatillas para Mujer Beige Soft Taupe...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.86 EUR
 currency: EUR
 price: 19.86

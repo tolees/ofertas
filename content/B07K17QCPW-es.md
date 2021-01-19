@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K17QCPW-es Adidas Tiro 19 Polyestere Hose Pantalones Deportivos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.87 EUR
 currency: EUR
 price: 29.87

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PS1BUJQ-es D-Link DHP-601AV 2x DHP-600AV Kit PLC PowerLine AV2 1000...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.88 EUR
 currency: EUR
 price: 44.88

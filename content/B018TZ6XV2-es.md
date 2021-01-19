@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018TZ6XV2-es Dormio Zafiro - Colchón viscoelástico Blanco 120 x 190 x...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 84.14 EUR
 currency: EUR
 price: 84.14

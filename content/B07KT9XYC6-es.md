@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KT9XYC6-es Paladone Mini Lampara Rick and 3D Morty multi'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

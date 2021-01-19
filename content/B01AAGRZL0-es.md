@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AAGRZL0-es Hercules - HERCULES P32 DJ - Controlador DJ - PC / Mac -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 169.93 EUR
 currency: EUR
 price: 169.93

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JXHD937-es Wrangler 5 Pocket Short Pantalones Cortos Verde Lagoon 42c...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

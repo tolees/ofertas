@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2MSWJ5-es Tommy Hilfiger - Elevated Nylon Slingpack Mochilas Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.53 EUR
 currency: EUR
 price: 64.53

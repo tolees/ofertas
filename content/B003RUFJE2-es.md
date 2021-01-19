@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003RUFJE2-es Fossil Reloj de Pulsera CH2861'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 113.85 EUR
 currency: EUR
 price: 113.85

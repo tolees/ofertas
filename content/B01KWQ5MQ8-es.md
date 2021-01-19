@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KWQ5MQ8-es Gohepi 932XL 933XL Compatible con HP 932 XL 933 XL...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.16 EUR
 currency: EUR
 price: 15.16

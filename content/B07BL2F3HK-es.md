@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL2F3HK-es New Balance Fresh Foam LAZR v2 Hypoknit Zapatillas para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 75.6 EUR
 currency: EUR
 price: 75.6

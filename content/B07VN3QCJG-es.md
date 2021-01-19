@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN3QCJG-es JACK JONES Jorflash Crew Neck Hombre Azul Sea Mossno Badge...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

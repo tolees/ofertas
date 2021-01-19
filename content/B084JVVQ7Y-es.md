@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084JVVQ7Y-es GRÜNTEK Tijera Recoletora de podar Yunque con Trinquete....'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

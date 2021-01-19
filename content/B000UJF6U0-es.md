@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UJF6U0-es BAUSCH + LOMB - SofLens® 38 - Lentes de contacto de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.44 EUR
 currency: EUR
 price: 11.44

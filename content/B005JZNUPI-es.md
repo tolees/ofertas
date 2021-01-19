@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005JZNUPI-es HP CE400X 507X Cartucho de Tóner Original de alto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 188.0 EUR
 currency: EUR
 price: 188.0

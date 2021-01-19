@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMQJTKP-es adidas Fit 2pc 3s Traje de Baño Mujer Negro 34'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

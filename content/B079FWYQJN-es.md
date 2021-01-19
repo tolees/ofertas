@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FWYQJN-es Samsung Clear View Standing Cover - Funda para Galaxy S9+...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

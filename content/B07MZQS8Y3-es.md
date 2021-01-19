@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQS8Y3-es Vans Ward Hi Zapatillas para Hombre Verde Suede/Canvas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.75 EUR
 currency: EUR
 price: 52.75

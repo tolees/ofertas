@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFXG2D2-es PUMA Tarrenz SB Zapatillas Unisex Adulto Castlerock Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.56 EUR
 currency: EUR
 price: 28.56

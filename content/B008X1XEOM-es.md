@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008X1XEOM-es Selene Sujetador Deportivo Olimpia Negro 100B'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074H5RTWS-es Nike Y Nk Gmsk-GFX Sports Bag Unisex niños Black/Black/...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

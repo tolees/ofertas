@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQVGN92-es Intex 57107NP - Piscina hinchable 3 aros +base hinchable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

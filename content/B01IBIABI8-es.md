@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IBIABI8-es JACK & JONES JJIPAUL JJLEATHER BELT NOOS Cinturón Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

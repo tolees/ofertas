@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0053F1UYC-es Gembird spg5-c-5 - regleta de 5 Tomas con protección...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.61 EUR
 currency: EUR
 price: 10.61

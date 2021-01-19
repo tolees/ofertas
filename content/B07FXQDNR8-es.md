@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXQDNR8-es Vans Filmore Decon Zapatillas para Mujer Negro Black/True...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

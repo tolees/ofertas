@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0035FWNCU-es Pranarôm Aceite esencial Eucalipto - 10 ml.'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.33 EUR
 currency: EUR
 price: 4.33

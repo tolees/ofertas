@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K955KGY-es Schramm® Paquete de 4 Vasos con Tapa asa y Pajita Vasos de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

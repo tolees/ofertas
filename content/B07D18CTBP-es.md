@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D18CTBP-es Joma Costa II Short Caballero Deportivo Hombre Negro M'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B49VXVM-es Cámara Impermeable Digital Videocámara Subacuática 10...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 76.07 EUR
 currency: EUR
 price: 76.07

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0743GXJ6T-es Iberitos - Crema de Iberico al Pedro Ximénez - Bandeja de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

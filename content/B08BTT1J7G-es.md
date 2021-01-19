@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BTT1J7G-es Relojes electrónicos para Hombre Reloj Deportivo Aire...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

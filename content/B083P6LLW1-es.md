@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083P6LLW1-es Luz De Trabajo Led Portátil Recargable Lámpara De Trabajo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SUNGK5S-es Shunga Aceite Orgánico Sweet Almond Color Amarillo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.71 EUR
 currency: EUR
 price: 14.71

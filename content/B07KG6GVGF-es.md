@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG6GVGF-es Puma Source Mid World Cup Zapatillas Altas Unisex Adulto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.03 EUR
 currency: EUR
 price: 19.03

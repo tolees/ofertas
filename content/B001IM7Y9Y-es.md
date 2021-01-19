@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001IM7Y9Y-es Versele-laga A-16540 Prestige Premium Loro Peri...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

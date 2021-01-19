@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCNXR3E-es Lacoste Lerond BL 1 CAM Zapatillas para Hombre Azul Navy...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.45 EUR
 currency: EUR
 price: 59.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW6YCPV-es Skechers Women s Stamina-Classy Trail Trainers Green Off...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.75 EUR
 currency: EUR
 price: 42.75

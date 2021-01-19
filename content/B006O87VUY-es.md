@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006O87VUY-es K&N AL-1010 Filtro de Aire para Aprilia RSV4R FACTORY...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 54.69 EUR
 currency: EUR
 price: 54.69

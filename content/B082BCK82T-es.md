@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082BCK82T-es Geographical Norway Polar RIAKOLO Mujer Gris Claro 02'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

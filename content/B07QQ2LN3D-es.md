@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQ2LN3D-es Funko- Pop Disney: Frozen 2-Young Elsa Figura...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

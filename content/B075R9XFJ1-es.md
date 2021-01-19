@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R9XFJ1-es Suavinex 304006 biberón Physio Panda 360 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

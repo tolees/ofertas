@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGTMMD6-es Luz Interior Coche bedee Tira LED Iluminación 72 Led Auto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

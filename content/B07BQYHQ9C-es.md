@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQYHQ9C-es Movimientos para DIY Caja de Música Musical Box Partes 2...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

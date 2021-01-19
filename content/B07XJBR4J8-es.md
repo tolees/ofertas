@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJBR4J8-es Rmeet Bolsa para Cosméticos Portátil Bolsas de Maquillaje...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

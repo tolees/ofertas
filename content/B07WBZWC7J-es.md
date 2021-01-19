@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBZWC7J-es Jack & Jones Jcomilla Sweat Hood Capucha Multicolor Light...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.23 EUR
 currency: EUR
 price: 14.23

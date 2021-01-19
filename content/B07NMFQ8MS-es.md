@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NMFQ8MS-es KLIM™ Comfort + Base de refrigeración para portátil +...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

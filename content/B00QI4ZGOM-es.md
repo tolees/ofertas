@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QI4ZGOM-es Complejo multivitamínico con Vitamina D 3 para hombre y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.96 EUR
 currency: EUR
 price: 11.96

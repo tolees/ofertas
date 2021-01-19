@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T5WR76F-es GLEGLE 16XL Cartuchos Tinta 12 Multipack Reemplazo para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

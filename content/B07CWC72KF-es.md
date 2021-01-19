@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CWC72KF-es Estera de la Danza del USB Almohadilla de la Danza Durable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHYCJ4T-es Multi Enchufe/Pararrayos - Eaton Protection Strip 4 DIN -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

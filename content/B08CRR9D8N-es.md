@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRR9D8N-es Termómetro De Frente UNTIRE Termómetro Digital con Sensor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

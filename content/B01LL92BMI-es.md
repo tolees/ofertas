@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LL92BMI-es Cámara Yuntab Warrior G1S de 32 GB para deportes al aire...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

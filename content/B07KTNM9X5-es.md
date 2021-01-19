@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTNM9X5-es United Colors of Benetton Jeans Pantalones Azul BLU Scuro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.43 EUR
 currency: EUR
 price: 6.43

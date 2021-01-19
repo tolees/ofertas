@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTVGJ42-es PNY Memoria USB Attaché 4 3.1 256GB'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

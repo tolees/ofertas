@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNJHKFD-es Wenger/SwissGear MarieSol maletines para portátil 35 6 cm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.24 EUR
 currency: EUR
 price: 37.24

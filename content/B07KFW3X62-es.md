@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFW3X62-es PUMA Speed SUTAMINA Wns Zapatillas de Running para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.86 EUR
 currency: EUR
 price: 25.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MRVVS9-es SATECHI Cargador Portátil Certificado MFi con Puerto de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.74 EUR
 currency: EUR
 price: 33.74

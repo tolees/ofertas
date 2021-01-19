@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EYQL4VO-es BERING Reloj Analógico para Unisex de Cuarzo con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 95.42 EUR
 currency: EUR
 price: 95.42

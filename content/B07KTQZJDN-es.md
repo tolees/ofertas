@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTQZJDN-es Hugo Boss Reloj de Pulsera 1513677'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 279.3 EUR
 currency: EUR
 price: 279.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYWQH54-es Columbia Triple Canyon Fall Pantalón de Senderismo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

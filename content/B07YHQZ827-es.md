@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YHQZ827-es Zapatillas Casa Hombre Forro de Felpa Más Grueso...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

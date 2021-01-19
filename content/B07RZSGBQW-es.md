@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZSGBQW-es BOSS Passenger Polo Verde Medium Green 314 XX-Large para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

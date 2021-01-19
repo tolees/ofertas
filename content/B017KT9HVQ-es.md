@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017KT9HVQ-es Chic Orange Alfombra Scherzo Crema 120 x 170 cm'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 54.54 EUR
 currency: EUR
 price: 54.54

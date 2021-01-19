@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KJKZ6GS-es Funko Jyn ERSO Figura de Vinilo colección de Pop seria...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

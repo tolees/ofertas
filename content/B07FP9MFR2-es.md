@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP9MFR2-es Mevo Boost Cargador Rápido para Cámara Mevo con 10 Horas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 145.92 EUR
 currency: EUR
 price: 145.92

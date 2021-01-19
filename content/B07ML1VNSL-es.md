@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ML1VNSL-es Set de aceites esenciales de aromaterapia orgánica - TOP8...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

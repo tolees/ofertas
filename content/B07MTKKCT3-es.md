@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTKKCT3-es Paw Patrol Impermeable para niños La Patrulla Canina Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

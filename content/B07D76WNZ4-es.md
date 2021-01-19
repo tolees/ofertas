@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D76WNZ4-es Levi s Original Trucker Chaqueta Vaquera Azul Clean Dark...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

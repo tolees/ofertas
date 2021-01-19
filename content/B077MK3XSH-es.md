@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MK3XSH-es Build a Bot dec164494 Zorro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.2 EUR
 currency: EUR
 price: 15.2

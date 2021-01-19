@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSLW3JT-es Taurus Greco 16 Elegance Ventilador de sobremesa portátil...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.9 EUR
 currency: EUR
 price: 30.9

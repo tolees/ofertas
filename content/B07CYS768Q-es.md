@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYS768Q-es KIPOZI Mini planchas del pelo de viaje plancha alisadora...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

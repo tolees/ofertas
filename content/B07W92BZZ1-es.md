@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W92BZZ1-es GLOBE Fusion Zapatillas de Skateboard para Hombre Marrón...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.57 EUR
 currency: EUR
 price: 36.57

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZSDC7K-es Samsonite Disney Ultimate 2.0 - Maleta Infantil 46.5 cm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 71.85 EUR
 currency: EUR
 price: 71.85

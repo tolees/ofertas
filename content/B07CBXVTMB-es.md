@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBXVTMB-es Calledelregalo Regalo Personalizable para Mujer: Rosa de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

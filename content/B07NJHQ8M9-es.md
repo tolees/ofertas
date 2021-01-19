@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJHQ8M9-es Brabantia Tasty+ Sacacorchos Terracotta Pink'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

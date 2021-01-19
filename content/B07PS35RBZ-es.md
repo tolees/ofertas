@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PS35RBZ-es Panama Jack Meridian Basics Sandalias Punta Cerrada para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

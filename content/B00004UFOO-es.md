@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00004UFOO-es Crayola Super Tips Washable Markers'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.81 EUR
 currency: EUR
 price: 14.81

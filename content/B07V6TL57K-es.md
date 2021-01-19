@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6TL57K-es Tommy Hilfiger Essential Tommy Jeans Sneaker Zapatillas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.97 EUR
 currency: EUR
 price: 28.97

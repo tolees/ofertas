@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ANWSYE8-es Think Gizmos Equipo de construcción para niños – Ingenious...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

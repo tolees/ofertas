@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMH5BP1-es Wolfenstein II: The New Colossus'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.88 EUR
 currency: EUR
 price: 40.88

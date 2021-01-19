@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GISTZ4-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.12 EUR
 currency: EUR
 price: 24.12

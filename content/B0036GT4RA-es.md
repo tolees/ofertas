@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0036GT4RA-es Converse Chuck Taylor All Star Zapatillas de Lona Infantil...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.08 EUR
 currency: EUR
 price: 42.08

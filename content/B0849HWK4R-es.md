@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0849HWK4R-es Hurley M Dri-Fit Pier Hat Gorra Hombre Black L/XL'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

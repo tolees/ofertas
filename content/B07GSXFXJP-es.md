@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSXFXJP-es Hoverkart Profesional | Hoverkart Metal | Hoverboard...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 66.38 EUR
 currency: EUR
 price: 66.38

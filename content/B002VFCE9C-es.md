@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002VFCE9C-es Romeo y Julieta'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.7 EUR
 currency: EUR
 price: 11.7

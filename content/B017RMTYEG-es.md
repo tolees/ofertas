@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017RMTYEG-es PET MAGASIN - Huesos de Cuero Crudo Natural – Delicias...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.34 EUR
 currency: EUR
 price: 14.34

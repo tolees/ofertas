@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NQF2DP-es Funda para teléfono Sports Girl Pattern Resistente a los...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

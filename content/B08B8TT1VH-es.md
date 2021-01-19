@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B8TT1VH-es Ordenador Portatil Intel Celeron J3455 Ultrabook...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 285.0 EUR
 currency: EUR
 price: 285.0

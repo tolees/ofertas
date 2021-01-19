@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KP27JJD-es SALOMON Compression 1 Par de Calcetines compresión Unisex...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

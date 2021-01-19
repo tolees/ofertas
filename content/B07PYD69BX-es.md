@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYD69BX-es Diadermine Lift Plus - Cápsulas Super Rellenador Paquete...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

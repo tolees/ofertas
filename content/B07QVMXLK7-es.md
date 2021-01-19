@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVMXLK7-es Under Armour UA Heatgear Crew Calcetines Unisex Blanco XL'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

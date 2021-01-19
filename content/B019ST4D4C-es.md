@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019ST4D4C-es iggual Cable alimentación Interna PCI Express - Cables de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

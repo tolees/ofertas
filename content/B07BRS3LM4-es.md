@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRS3LM4-es BOSS Maine BC-c Vaqueros Straight Azul Dark Blue 408...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

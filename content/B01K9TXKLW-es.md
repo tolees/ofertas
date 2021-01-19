@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K9TXKLW-es Musou HDMI a AV Convertidor HDMI a RCA Convertidor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

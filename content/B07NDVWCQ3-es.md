@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDVWCQ3-es Columbia Challenger Chaqueta cortavientos Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDMYM5K-es HP Pavilion 32 QHD - Monitor de 31.5" QHD 2560 x 1440 300...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 279.65 EUR
 currency: EUR
 price: 279.65

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPWBJB9-es 1100lm luces exteriores solares 4500mAh aluminio 120 °...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

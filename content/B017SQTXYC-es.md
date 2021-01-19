@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017SQTXYC-es Salomon SPEEDCROSS 4 GTX W Zapatillas de trail running...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 103.99 EUR
 currency: EUR
 price: 103.99

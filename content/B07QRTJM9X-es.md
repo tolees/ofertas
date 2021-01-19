@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QRTJM9X-es Medisana IPL 836 99120 - Depiladora a base de luz para una...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.25 EUR
 currency: EUR
 price: 59.25

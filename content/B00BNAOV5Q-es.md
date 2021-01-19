@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BNAOV5Q-es ESTÉE LAUDER CP+R Lifting Serum para Arrugas 30 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.95 EUR
 currency: EUR
 price: 52.95

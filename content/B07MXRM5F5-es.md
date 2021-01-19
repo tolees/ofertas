@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXRM5F5-es Cazo Amercook Terracotta con tapa 20 cm'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

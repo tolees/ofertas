@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072QGQVQG-es Simple Joys by Carter s traje de baño de 2 piezas para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDDW3ST-es BLEND 20708180 Polo Marrón Sand Brown 75107 X-Large para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

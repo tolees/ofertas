@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BK1FSL-es Grsta Botella de Agua Botella Agua Acero Inoxidable sin...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

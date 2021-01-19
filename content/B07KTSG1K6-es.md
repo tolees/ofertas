@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTSG1K6-es Lacoste Reloj de Pulsera 2001063'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

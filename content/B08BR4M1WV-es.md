@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BR4M1WV-es HUIJ Aspiradora Aspiradoras de Mano para Piscinas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

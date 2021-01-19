@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRX0VI8-es Meliconi Speak Pro - Auricular DJ estéreo Color Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

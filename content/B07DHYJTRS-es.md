@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHYJTRS-es Lacoste Chaymon BL 1 CMA Zapatillas para Hombre Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 83.75 EUR
 currency: EUR
 price: 83.75

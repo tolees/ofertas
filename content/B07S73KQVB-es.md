@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S73KQVB-es helymore Halloween Mono de Superheroe de Cosplay de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

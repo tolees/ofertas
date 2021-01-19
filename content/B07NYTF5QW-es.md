@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYTF5QW-es adidas U Path Run Zapatillas de Gimnasia para Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 67.45 EUR
 currency: EUR
 price: 67.45

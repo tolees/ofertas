@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JBHS3W-es ROOTOK Electroestimulador Muscular Abdominales USB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

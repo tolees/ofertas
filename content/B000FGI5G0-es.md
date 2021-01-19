@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000FGI5G0-es K&N SU-4002-TDK Funda para Filtro de Aire para DRYCHARGER...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

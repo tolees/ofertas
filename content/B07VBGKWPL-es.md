@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBGKWPL-es Lee Extreme Motion Short Pantalones Cortos Verde Khaki 08...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759PHQ7D-es Sesderma Resveraderm Crema Nutritiva - 50 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3WPNB3-es Calcetines Deportivos Quarter Pro 1 Par Negro sólido EU 43-47'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

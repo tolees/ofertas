@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005IFJC38-es Disney Store The Lion King 14 Pumbaa Plush Stuffed Animal...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.43 EUR
 currency: EUR
 price: 24.43

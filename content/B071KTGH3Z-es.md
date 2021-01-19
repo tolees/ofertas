@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KTGH3Z-es Rimmel London Stay Matte Liquid Lip Colour Barra De Labios...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

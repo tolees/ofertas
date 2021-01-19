@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W69NYX4-es Remington Stylist Classic HC450 - Máquina de Cortar Pelo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.88 EUR
 currency: EUR
 price: 47.88

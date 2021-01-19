@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078W5B5QZ-es 24 bolígrafos para colorear punta de fieltro de 0 4 mm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

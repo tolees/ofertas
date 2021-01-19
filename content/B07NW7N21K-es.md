@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW7N21K-es Skechers Bobs Rocky-Urban Hiker Zapatillas Bajas para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

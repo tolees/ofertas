@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H1KWEQY-es Michael Kors Pendiente MK6176'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 204.5 EUR
 currency: EUR
 price: 204.5

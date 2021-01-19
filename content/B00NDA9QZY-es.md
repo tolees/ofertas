@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NDA9QZY-es Compex Wireless Fit 5.0 Electroestimulador Unisex Azul'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 440.0 EUR
 currency: EUR
 price: 440.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J2VTXUU-es Ever-Pretty A-línea Vestito de Gala Cuello en V Manga...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

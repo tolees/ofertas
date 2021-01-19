@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NAJRSDK-es Compex Electroestimulador Unisex Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 300.3 EUR
 currency: EUR
 price: 300.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZS4TRQ-es Trueno S'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

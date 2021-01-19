@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000B8KYO8-es Leifheit Portarrollos de pared Parat Royal para 3 rollos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.68 EUR
 currency: EUR
 price: 28.68

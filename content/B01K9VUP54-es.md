@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K9VUP54-es Pack 5 x Bombilla LED esférica 6W equivalente a 40W Luz...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

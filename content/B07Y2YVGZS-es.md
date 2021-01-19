@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y2YVGZS-es Dustgo 【Promoción】 Esterilla Yoga Colchoneta de Yoga...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.71 EUR
 currency: EUR
 price: 26.71

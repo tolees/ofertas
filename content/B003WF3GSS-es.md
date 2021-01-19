@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003WF3GSS-es Suavinex – Loción hidratante Corporal para bebés. Apta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

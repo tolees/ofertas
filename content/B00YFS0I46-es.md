@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YFS0I46-es Nike Tanjun Zapatillas para Niños Negro Black/White 34 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

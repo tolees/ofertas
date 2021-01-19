@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D5ZDHP3-es Monitor Portátil Uperfect 15 6 Pulgadas Monitor Gaming FHD...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

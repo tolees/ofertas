@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKB17ZV-es Columbia Mojave Trail II Outdry Zapatillas de Running para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 74.49 EUR
 currency: EUR
 price: 74.49

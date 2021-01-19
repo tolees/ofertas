@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0117IGA3O-es HP X3000 - Ratón inalámbrico óptico Color Azul'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

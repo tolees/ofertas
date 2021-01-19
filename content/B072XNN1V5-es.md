@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072XNN1V5-es W7 grandes mate Natural Ojo Color Collection 10 g'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

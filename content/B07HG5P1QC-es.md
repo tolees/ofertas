@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG5P1QC-es KLIM™ AIM Ratón Gaming Chroma RGB - Cable USB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

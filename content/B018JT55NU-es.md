@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018JT55NU-es Levi s LEVIS 200SF BRIEF 2P - Calzoncillo Hombre Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DTMRTH-es UGREEN Alfombrillas de Ratón Aluminio Impermeable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.28 EUR
 currency: EUR
 price: 8.28

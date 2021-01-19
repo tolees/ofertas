@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078G8JRB6-es vamei Agua Dibujo Pintura 86 X 57cm Libro magico Agua...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

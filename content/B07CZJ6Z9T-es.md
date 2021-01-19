@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZJ6Z9T-es Under Armour Men s UA Launch SW 15cm Shorts Pantalones...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.51 EUR
 currency: EUR
 price: 14.51

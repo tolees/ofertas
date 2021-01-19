@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BJAUT4W-es Philips SNOW Super Speed 32 GB USB Flash Drivee 3.0 Leer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

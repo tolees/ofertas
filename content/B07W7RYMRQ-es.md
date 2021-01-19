@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7RYMRQ-es TOYANDONA 1pc pezones de bebé pezones creativos biberones...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.88 EUR
 currency: EUR
 price: 2.88

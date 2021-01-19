@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0182W7IAC-es Batman Gotham City 4D Cityscape'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.68 EUR
 currency: EUR
 price: 49.68

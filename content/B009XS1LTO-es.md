@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009XS1LTO-es Columbia Silver Ridge Short AM4283 Shorts Hombre Beige...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

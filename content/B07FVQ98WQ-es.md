@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FVQ98WQ-es Eazyhurry - Funda con tapa para iPhone 6 y 6S incluye...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZF11PB-es Parfois - Bandolera Con Asa De Cadena - Mujeres - Tallas M...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13 EUR
 currency: EUR
 price: 13

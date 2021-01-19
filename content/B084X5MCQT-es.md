@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084X5MCQT-es YIMINYUER 20 Esterilla de Ejercicios Interconectables...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

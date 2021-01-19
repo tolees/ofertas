@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3R6PE9-es Gigandet Reloj de Hombre Cuarzo Aquazone Cronógrafo Reloj...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

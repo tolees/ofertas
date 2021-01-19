@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6T7GR3-es American Tourister Jetglam Maleta de Mano S 55 cm 35.5 L...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 80.14 EUR
 currency: EUR
 price: 80.14

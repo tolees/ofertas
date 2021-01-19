@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YVRSBV4-es Nike JR Vapor 13 Club MDS TF PS V Botas de fútbol Unisex...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

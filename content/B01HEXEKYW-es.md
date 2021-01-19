@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HEXEKYW-es Crocs Crocband Clog K Zuecos Unisex-Bambini BLU...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.81 EUR
 currency: EUR
 price: 12.81

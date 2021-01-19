@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017OLB5Y2-es Schwarzkopf Professional BC Excellium Beautifying Shampoo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

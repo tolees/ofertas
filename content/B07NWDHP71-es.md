@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWDHP71-es STLOVe Ventilador USB Mini Ventilador Doble Cabeza 360°...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

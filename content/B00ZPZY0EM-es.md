@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZPZY0EM-es Roca AG0082700R Ducha de Mano con una Función Cromado'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.36 EUR
 currency: EUR
 price: 10.36

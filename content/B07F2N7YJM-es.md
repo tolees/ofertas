@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2N7YJM-es Amazon Essentials - Pantalones deportivos ajustados para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

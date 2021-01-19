@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLBPJV4-es HOMEYU Enchufe Antipolvo de Aluminio de Primera Calidad...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

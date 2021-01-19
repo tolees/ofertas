@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDC6WPK-es Medidor pH Digital Medidor TDS de Prueba PH Medidor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

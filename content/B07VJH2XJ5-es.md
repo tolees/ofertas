@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJH2XJ5-es Camisetas Tirantes para Mujer Deporte Fitness Verano...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.13 EUR
 currency: EUR
 price: 1.13

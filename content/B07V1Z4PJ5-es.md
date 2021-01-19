@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1Z4PJ5-es BOSS Octopus Bañador Marrón Dark Brown 204 X-Large para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.92 EUR
 currency: EUR
 price: 25.92

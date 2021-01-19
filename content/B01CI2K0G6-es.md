@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CI2K0G6-es Moulinex PC300B Exprimidor eléctrico con doble filtro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

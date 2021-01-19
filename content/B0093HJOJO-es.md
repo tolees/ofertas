@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0093HJOJO-es Dremel SC407 Mandril y bandas de Lija EZ Speedclic juego...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9SS4ZN-es PUMA Carina L Zapatillas de Cuero para Mujer Negro White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.63 EUR
 currency: EUR
 price: 41.63

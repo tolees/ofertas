@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQN875K-es Crema De Cacahuete Loaded Nuts | Crema De Cacahuete Con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

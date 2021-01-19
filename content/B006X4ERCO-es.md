@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006X4ERCO-es Dickies Men s No-Scratch Mechanic Belt Black Small'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

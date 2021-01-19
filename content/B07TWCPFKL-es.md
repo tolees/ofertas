@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWCPFKL-es Kit de monopie para cámara Cayer AT35 Pata de monopie de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 106.99 EUR
 currency: EUR
 price: 106.99

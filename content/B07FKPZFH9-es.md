@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKPZFH9-es NIKE W NP Shrt 3in Pantalones Cortos Mujer Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

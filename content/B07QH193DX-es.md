@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH193DX-es MTNG Collection 58027 Botines para Mujer Marrón Vintage...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.28 EUR
 currency: EUR
 price: 21.28

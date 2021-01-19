@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088P22MJG-es Slabo Lámina de Vidrio Premium para Amazon Fire HD 8...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V59V6ZP-es Hurley M One&Only Hat Gorra Hombre Dark Grey S/M'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.01 EUR
 currency: EUR
 price: 12.01

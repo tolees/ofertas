@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SZGX1Q-es Aurora World 30836 Dahlia Dragón'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

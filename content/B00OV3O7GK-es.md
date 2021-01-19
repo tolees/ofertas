@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OV3O7GK-es Sveon SCT022 - Lector de DNI electrónico'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RF1SZ93-es Levi s LEVIS FOOTWEAR AND ACCESSORIES Ivan Belt Cinturón...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.47 EUR
 currency: EUR
 price: 27.47

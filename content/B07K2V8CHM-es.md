@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2V8CHM-es Jayron JR-LT002 LED Sensor de cuerpo humano Sensor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.66 EUR
 currency: EUR
 price: 7.66

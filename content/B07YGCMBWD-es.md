@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGCMBWD-es Mr. Wonderful Agenda Annual 2020'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

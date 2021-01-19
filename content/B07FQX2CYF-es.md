@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQX2CYF-es Clarks Triactive Up Zapatillas para Hombre Negro Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.33 EUR
 currency: EUR
 price: 31.33

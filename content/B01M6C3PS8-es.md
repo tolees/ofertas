@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M6C3PS8-es Maybelline New York The 24 Karat Nudes Paleta de Sombras...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

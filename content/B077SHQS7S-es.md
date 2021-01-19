@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SHQS7S-es PUMA Liga Baselayer tee LS T-Shirt Hombre Negro Black 2XL...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

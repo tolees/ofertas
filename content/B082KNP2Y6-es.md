@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KNP2Y6-es YuanLey 26 Port PoE Switch 24 PoE+ Port 100Mbps 2 Uplink...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BC2T2TZ-es Bourjois Fard Joues Duo Blush Colorete Tono 2 Roméo et...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

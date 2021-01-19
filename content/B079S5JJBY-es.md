@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079S5JJBY-es Martina Home Ribera Cubre Chaise Longue Brazo Izquierdo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.01 EUR
 currency: EUR
 price: 31.01

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9RVGBC-es HP Pavilion Gaming 690-0045ns - Ordenador de sobremesa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 649.99 EUR
 currency: EUR
 price: 649.99

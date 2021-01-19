@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXFCAZR-es Samsonite - Base Boost - Spinner Maleta 78 cm 113 L Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 97.3 EUR
 currency: EUR
 price: 97.3

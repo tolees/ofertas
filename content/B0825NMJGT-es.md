@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825NMJGT-es Quiksilver Magicall 2l-Bolsa De Colgar Grande Para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

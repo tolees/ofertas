@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CW1ZWRT-es Sheba Craft Collection - Elegante alimento húmedo para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.57 EUR
 currency: EUR
 price: 12.57

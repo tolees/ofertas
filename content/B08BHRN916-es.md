@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHRN916-es Cinturón de Cintura para Correr HAISSKY Deportiva...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

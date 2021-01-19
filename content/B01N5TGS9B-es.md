@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5TGS9B-es BHR 41691 Casco Moto Demi-Jet Linea One 801 L 59 cm'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.65 EUR
 currency: EUR
 price: 41.65

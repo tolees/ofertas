@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8G9GQH-es Disney Enjoy The Day Neceser de viaje 29 cm 9.14 litros...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

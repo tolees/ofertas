@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MBKG9V-es Salomon XA Pro 3D CSWP K Zapatillas de Deporte Unisex...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

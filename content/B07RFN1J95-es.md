@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFN1J95-es Salomon Sense Feel W Zapatillas para Correr para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.47 EUR
 currency: EUR
 price: 39.47

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WT48H4H-es Memoria USB 128GB SAWAKE Flash Drive USB 3.0 Mini Pendrive...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.16 EUR
 currency: EUR
 price: 15.16

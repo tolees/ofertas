@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LAI9OM6-es Earth Rated - Pack de bolsas para recoger excrementos de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

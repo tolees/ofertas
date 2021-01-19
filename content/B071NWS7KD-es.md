@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NWS7KD-es Marca Amazon - find. Camiseta con Estampado Gráfico para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

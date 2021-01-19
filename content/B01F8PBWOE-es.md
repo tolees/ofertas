@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F8PBWOE-es Lamberts Diet Whey - Suplemento para Deportistas 1000 gr'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.04 EUR
 currency: EUR
 price: 34.04

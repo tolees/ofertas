@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PF3DT3H-es Naipo Mesa de Masaje 3 Secciones Camilla Plegable de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 118.14 EUR
 currency: EUR
 price: 118.14

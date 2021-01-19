@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01765JIBI-es JACK & JONES Jjspider Canvas Sneaker Anthracite Men s...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.86 EUR
 currency: EUR
 price: 12.86

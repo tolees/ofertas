@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IN8LBS0-es Braun Series 9 9296cc Wet&Dry - Afeitadora Eléctrica para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 300.88 EUR
 currency: EUR
 price: 300.88

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWTG95W-es Wrangler Logo Hoodie Capucha Rojo Bittersweet Red XBO...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.35 EUR
 currency: EUR
 price: 16.35

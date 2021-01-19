@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8RQ2CS-es Saucony Guide ISO 2 Zapatillas de Running para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

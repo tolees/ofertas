@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LNVF7PW-es Philips Lumea Essential BRI861/00 - Depiladora luz pulsada...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 137.0 EUR
 currency: EUR
 price: 137.0

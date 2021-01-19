@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CRTVW2R-es Philips Sonicare ProtectiveClean 4300 HX6809/34 Pack Doble...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

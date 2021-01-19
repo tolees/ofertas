@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVDR2ND-es Adidas Daily 2.0 Zapatillas para Hombre Negro Black F34468...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.43 EUR
 currency: EUR
 price: 31.43

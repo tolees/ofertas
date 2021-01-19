@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077F6RQZD-es Shark Tiburón Nano homenaje cascos de motocicleta color...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 143.51 EUR
 currency: EUR
 price: 143.51

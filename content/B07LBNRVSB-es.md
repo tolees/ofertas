@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBNRVSB-es Kappa Follow OC XL Zapatillas para Hombre Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.22 EUR
 currency: EUR
 price: 23.22

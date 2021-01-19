@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0763PTDZB-es MolinQ Cartera para Tarjetas de Crédito | Tarjetero...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

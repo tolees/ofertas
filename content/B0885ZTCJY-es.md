@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0885ZTCJY-es Auihiay 221 piezas de plástico retráctil incluye 20 hojas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.35 EUR
 currency: EUR
 price: 19.35

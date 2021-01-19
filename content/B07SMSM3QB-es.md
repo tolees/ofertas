@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SMSM3QB-es Planescape: Torment + Icewind Dale - Enhanced Edition'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.36 EUR
 currency: EUR
 price: 36.36

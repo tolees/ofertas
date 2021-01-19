@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRK5JMM-es Sendowtek Mini Calefactor Cerámico 1200W Calentador de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

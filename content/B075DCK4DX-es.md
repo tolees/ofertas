@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075DCK4DX-es EIS Aceite de masaje cálido prémium Excitante efecto calor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

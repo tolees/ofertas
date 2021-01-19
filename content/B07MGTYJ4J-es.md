@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGTYJ4J-es Star Wars Galaxy Oficial Saco Plano Grande 350x400mm'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

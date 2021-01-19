@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LD1J7N2-es New Balance Accelerate - Pantalón Corto para Hombre 3...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081KWSRNK-es QYiD Funda para iPad 10.2 / iPad 7th Gen Plegables Soporte...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG69TX3-es PUMA Rebound Layup SD Fur Zapatillas Unisex Adulto Burnt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.97 EUR
 currency: EUR
 price: 33.97

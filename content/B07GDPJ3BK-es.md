@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDPJ3BK-es Lee Malone Jeans Black Rinse 47 33W / 32L para Hombre'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

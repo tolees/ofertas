@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BWWPYPP-es CMP Ahto Náuticos Unisex Niños Gris Antracite U423 25 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.68 EUR
 currency: EUR
 price: 9.68

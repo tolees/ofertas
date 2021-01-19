@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7WTCDQ-es Love MoschinoJc4239pp0aMujerCarteras de manoNegro Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 102.79 EUR
 currency: EUR
 price: 102.79

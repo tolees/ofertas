@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MR0VHIW-es Spiuk Profit Cold&Rain Calcetines Hombre Negro 40/43'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

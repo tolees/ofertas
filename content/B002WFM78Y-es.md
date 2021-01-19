@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002WFM78Y-es Reebok Cl Lthr Zapatillas de Gimnasia para Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 67.45 EUR
 currency: EUR
 price: 67.45

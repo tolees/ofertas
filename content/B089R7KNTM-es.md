@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089R7KNTM-es Máquina de Hacer Burbujas de Juguete Vibrante para baño...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

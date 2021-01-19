@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQSZVYO-es Luminarc Vina Set 6 Copas de Vino 47cl 6'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.12 EUR
 currency: EUR
 price: 10.12

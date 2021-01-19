@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XRTS7W7-es New Balance Fresh Foam Cruz Hoody Pack m Zapatillas de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

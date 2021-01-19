@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL3P7V-es G-STAR RAW Rovic Slim Trainer Pantalones Gris Asfalt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.51 EUR
 currency: EUR
 price: 39.51

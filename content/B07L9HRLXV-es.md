@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9HRLXV-es Under Armour Accelerate Off-Pitch Pantalón Hombre Negro SM'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.81 EUR
 currency: EUR
 price: 21.81

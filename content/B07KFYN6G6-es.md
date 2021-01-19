@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYN6G6-es PUMA Cell Venom Hypertech Wn s Zapatillas para Mujer Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.83 EUR
 currency: EUR
 price: 41.83

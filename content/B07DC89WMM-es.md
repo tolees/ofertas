@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC89WMM-es Sloggi Zero Feel Top Ex Corsé Azul Cool Ice 00iu 38 Talla...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

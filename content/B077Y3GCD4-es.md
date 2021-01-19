@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y3GCD4-es Sennheiser CX 6.00BT - Auriculares inalámbricos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 68.46 EUR
 currency: EUR
 price: 68.46

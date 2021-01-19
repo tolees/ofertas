@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRDV6Q3-es Fa Desodorante Spray Limones del Caribe - 48h de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LHGLG3A-es Sony NW-WM1A - Reproductor audio Walkman HiFi DSD 128 GB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 897.0 EUR
 currency: EUR
 price: 897.0

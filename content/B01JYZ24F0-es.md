@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JYZ24F0-es Einhell 1002231 Cargador Bateria CC-BC 6 m con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

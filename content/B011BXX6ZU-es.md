@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011BXX6ZU-es Teka 40229085 - Encimera Butano 60 cm Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 171.21 EUR
 currency: EUR
 price: 171.21

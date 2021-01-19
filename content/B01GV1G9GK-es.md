@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GV1G9GK-es TomTom Funda protectora clásica para todos los navegadores...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

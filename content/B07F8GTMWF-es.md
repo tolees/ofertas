@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8GTMWF-es Superdry Sweat Shirt Shop Duo Hood suéter Azul Eclipse...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.3 EUR
 currency: EUR
 price: 49.3

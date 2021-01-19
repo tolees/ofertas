@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5VGKCV-es Tommy Hilfiger - Poppy Lrg Za Solid Carteras Mujer Rojo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075YG1PGB-es SEVERIN Hervidor de Agua 1 L 2.200 W aprox. WK 3469 Acero...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

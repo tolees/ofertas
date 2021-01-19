@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBNFWGP-es Victoria Aire Nylon/Serraje PU Zapatillas Unisex Adulto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.65 EUR
 currency: EUR
 price: 34.65

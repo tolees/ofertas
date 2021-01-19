@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0834ZNRKZ-es Fila Slip Deportivo Color Azul'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

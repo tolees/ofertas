@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JFWP3RY-es Brabantia 298264 - Tarro de Cristal 1.1 L Tapa Gris Oscuro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

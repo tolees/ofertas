@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYFJHC-es PUMA Auriz V Jr Zapatillas de Balonmano Unisex Niños...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.91 EUR
 currency: EUR
 price: 8.91

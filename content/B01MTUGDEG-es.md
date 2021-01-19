@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTUGDEG-es ION FITNESS CORSA T1 FI6140 Cinta de correr'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 339.0 EUR
 currency: EUR
 price: 339.0

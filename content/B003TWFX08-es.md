@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003TWFX08-es Oregon Scientific RMR391P - Reloj proyector despertador...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.66 EUR
 currency: EUR
 price: 38.66

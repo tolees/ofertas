@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07999FXZT-es AUKEY Hub USB C HDMI 4k Ranuras para SD&MicroSD Ethernet...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001KIR63U-es Philips HD4419/20 - Plancha de Asar 2300 W Doble...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.85 EUR
 currency: EUR
 price: 57.85

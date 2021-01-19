@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0191TGYG4-es Cartulinas Colores'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

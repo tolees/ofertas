@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C71PI4M-es Monvecle - Bermudas - para bebé niña 3 Pack 3 Colors'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.66 EUR
 currency: EUR
 price: 15.66

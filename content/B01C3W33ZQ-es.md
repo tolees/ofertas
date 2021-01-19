@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C3W33ZQ-es WIDMANN 04814 hinchable Rock Star Guitarra unisex ?...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJHT6FB-es Pinte por Number Kit DIY Pintura al óleo Dibujo Elefante...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

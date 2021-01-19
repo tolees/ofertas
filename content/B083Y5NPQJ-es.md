@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083Y5NPQJ-es PRIXTON KIT610 - Kit de 13 Accesorios para Camara...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

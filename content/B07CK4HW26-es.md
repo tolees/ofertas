@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CK4HW26-es Nike Perfume Nike Woman Pink Edt 30 mililitros - 30 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

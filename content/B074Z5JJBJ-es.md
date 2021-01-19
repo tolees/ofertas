@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074Z5JJBJ-es GOXAWEE 20 Piezas Fresas HSS Encaminamiento Router Bits...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

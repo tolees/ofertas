@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BTMQ5NC-es Vinilo decorativo Ropa Categoría Muebles Ventana Armario...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

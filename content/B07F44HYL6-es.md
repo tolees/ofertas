@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F44HYL6-es BASICFIL PET 1.75mm 500 gr filamento de impresión 3D Plata'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T7R52YG-es Maclaren Organizador Universal Twin Para Tener Lo Esencial...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

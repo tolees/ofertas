@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXBW1DK-es Vicloon Espátula Flexible de Silicona Cocina Gadget y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

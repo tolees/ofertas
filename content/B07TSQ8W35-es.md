@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ8W35-es Skechers Ingram Streetway Zapatillas sin Cordones para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.51 EUR
 currency: EUR
 price: 32.51

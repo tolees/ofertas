@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XH1NTBZ-es Tefal Actifry Original Snaking FZ711815 - Freidoras sin...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

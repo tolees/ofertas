@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014JRRKQQ-es Henry London Reloj Analógico para Unisex de Cuarzo con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 101.13 EUR
 currency: EUR
 price: 101.13

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTSDW3B-es Autan Family Care Aerosol Repelente de Mosquitos e...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMEAO5G-es Faber Castell 65021 - Pack escolar con escuadra cartabón...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

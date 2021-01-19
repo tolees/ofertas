@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000BYLMS4-es Converse Chuck Taylor All Star Season Ox Zapatillas de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Q8DNHY-es KidKraft- Juguete de vías de tren y mesa de madera para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 174.99 EUR
 currency: EUR
 price: 174.99

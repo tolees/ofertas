@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EB2W29K-es WMF Lineo Picadora de 500 W y 5000 RPM de 2 velocidades...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.34 EUR
 currency: EUR
 price: 46.34

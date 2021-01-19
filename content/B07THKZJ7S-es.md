@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THKZJ7S-es Charles Wilson Paquete 2 Camisetas Cuello Redondo de Rayas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

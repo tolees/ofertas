@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FXRW4R-es Lúdilo Guinness World Records Challenges 80351'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

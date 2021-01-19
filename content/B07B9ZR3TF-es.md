@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9ZR3TF-es Hugo BOSS Reloj Multiesfera para Mujer de Cuarzo con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 160.36 EUR
 currency: EUR
 price: 160.36

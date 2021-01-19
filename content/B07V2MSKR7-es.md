@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2MSKR7-es Tommy Hilfiger - Th Modern Satchel Bolsos maletín Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.26 EUR
 currency: EUR
 price: 49.26

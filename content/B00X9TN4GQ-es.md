@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9TN4GQ-es Garnier Delial Aceite Bronceador Intenso Nutritivo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

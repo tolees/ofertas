@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZZ7HNR-es Puma St Runner V2 Nl Zapatillas de Cross Unisex adulto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.19 EUR
 currency: EUR
 price: 39.19

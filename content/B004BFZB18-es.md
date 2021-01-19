@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004BFZB18-es Michelin Country AT Cubierta Unisex Negro 26 x 2.00'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

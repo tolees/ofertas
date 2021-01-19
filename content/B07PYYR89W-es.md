@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYYR89W-es Under Armour Men s Charged Engage Hallenschuhe Zapatillas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.63 EUR
 currency: EUR
 price: 32.63

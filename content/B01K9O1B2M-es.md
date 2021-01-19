@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K9O1B2M-es Rowenta Precious Curl CF3460 - Rizador con recubrimiento...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

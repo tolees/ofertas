@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHY16Q4-es Under Armour Men s Charged Assert 8 Ltd Laufschuhe...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

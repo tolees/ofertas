@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0754NMR3V-es Salomon Shorts para running AGILE 7" tafetán negro hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.32 EUR
 currency: EUR
 price: 20.32

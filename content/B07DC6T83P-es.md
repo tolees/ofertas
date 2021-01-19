@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC6T83P-es Puma Basket Heart Patent Wn s Zapatillas para Mujer Morado...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.55 EUR
 currency: EUR
 price: 38.55

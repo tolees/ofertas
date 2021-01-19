@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0842XXZ9G-es Amazfit T-Rex Reloj Inteligente Verde Gris Blanco AMOLED 3...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

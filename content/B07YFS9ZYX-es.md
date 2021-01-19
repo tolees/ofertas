@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFS9ZYX-es Van&Fancy NA cobre White Cubic Zirconia'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.3 EUR
 currency: EUR
 price: 10.3

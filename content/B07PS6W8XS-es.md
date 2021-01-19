@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PS6W8XS-es Under Armour Qualifier Speedpocket Roadside Runway Crop...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H3K2KCA-es Flexi New Comfort - Cinta Gris Talla S'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

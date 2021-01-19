@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015KKQXD2-es Kappa Speed II Zapatillas Unisex Adulto Negro 1110...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.28 EUR
 currency: EUR
 price: 19.28

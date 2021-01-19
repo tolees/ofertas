@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JFXR9DY-es Memoria USB 128 MB 10 Piezas Pen Drives - Portátil Unidad...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.56 EUR
 currency: EUR
 price: 20.56

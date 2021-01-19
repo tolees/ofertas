@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYTWX3G-es KLIM™ Voice V2 + Micrófono USB de Escritorio + Nuevo 2020...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.43 EUR
 currency: EUR
 price: 19.43

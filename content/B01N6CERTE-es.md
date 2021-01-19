@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6CERTE-es Medisana MCN Pro Funda de asiento de masaje Shiatsu...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 126.08 EUR
 currency: EUR
 price: 126.08

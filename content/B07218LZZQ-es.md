@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07218LZZQ-es COMPRESSPORT Pro Racing Socks v3.0 Trail Calcetines para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083B8TB9K-es Aigostar Diane 32QYD - Secador de pelo 1800W ocupa poco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

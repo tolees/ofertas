@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJHKPB6-es Tamaris 1-1-26096-23 Botas Altas para Mujer Marrón Rust...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.67 EUR
 currency: EUR
 price: 12.67

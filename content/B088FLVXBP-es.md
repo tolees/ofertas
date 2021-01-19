@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FLVXBP-es LNIEGE Clips Chupete Chupete Titular niños Superiores de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

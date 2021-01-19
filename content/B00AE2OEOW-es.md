@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AE2OEOW-es BRA Profesional - Pote 14 cm Acero Inoxidable 18/10'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

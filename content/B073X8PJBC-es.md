@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073X8PJBC-es Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 82.24 EUR
 currency: EUR
 price: 82.24

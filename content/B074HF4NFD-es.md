@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074HF4NFD-es G-STAR RAW Rovulc Denim Low Sneakers Zapatillas para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.77 EUR
 currency: EUR
 price: 24.77

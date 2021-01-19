@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JM2VSR0-es HP LaserJet Pro M102w - Impresora láser USB 2.0 WiFi 22...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 84 EUR
 currency: EUR
 price: 84

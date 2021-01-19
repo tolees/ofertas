@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005AIHZHS-es Sisley Phyto-Mascara Ultra-Stretch #02-Deep Brown 7.5 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.65 EUR
 currency: EUR
 price: 24.65

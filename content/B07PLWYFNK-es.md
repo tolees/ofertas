@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLWYFNK-es 1 en 2 Salida Hdmi Convertidor Conecte el Cable del Cable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.36 EUR
 currency: EUR
 price: 1.36

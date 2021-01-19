@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y2HRDTD-es Simple Joys by Carter s Baby Girls - Juego de Toallas y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.08 EUR
 currency: EUR
 price: 17.08

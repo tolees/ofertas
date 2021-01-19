@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL2N3K7-es New Balance Fresh Foam Zante Zapatillas Deportivas para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.22 EUR
 currency: EUR
 price: 49.22

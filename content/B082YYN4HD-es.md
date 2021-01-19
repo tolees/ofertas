@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YYN4HD-es Pistola de Masaje Muscular Padi Home Masajeador de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

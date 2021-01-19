@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FJZXKTY-es hummel Nile Canvas Low Zapatillas Unisex Adulto Verde...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

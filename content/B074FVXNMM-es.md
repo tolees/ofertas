@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FVXNMM-es find. Sudadera con Capucha y Detalle Bordado para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9 EUR
 currency: EUR
 price: 9

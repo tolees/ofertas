@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4XXWF5-es Juego de sabanas Invierno Tejido CORALINA SAVA Azul Cama...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

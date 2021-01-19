@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTX62QW-es adidas Duramo 9 C Zapatillas de Running Unisex Niños Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.01 EUR
 currency: EUR
 price: 24.01

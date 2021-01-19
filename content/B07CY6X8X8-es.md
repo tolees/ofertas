@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CY6X8X8-es Scottex - Toallitas Íntimas - 16 packs de 25 toallitas -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.75 EUR
 currency: EUR
 price: 18.75

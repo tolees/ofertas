@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9L5QSW-es adidas 3Mc Zapatillas de Skateboard Unisex Adulto Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

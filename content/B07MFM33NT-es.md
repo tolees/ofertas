@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFM33NT-es Clarks Step Explor Hi Botas para Nieve para Hombre Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.43 EUR
 currency: EUR
 price: 36.43

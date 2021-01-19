@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004JI83RQ-es Seiko Reloj con Correa de Acero para Hombre SNKK71K1'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 96.17 EUR
 currency: EUR
 price: 96.17

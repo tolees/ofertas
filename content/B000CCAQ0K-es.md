@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CCAQ0K-es Maxell 2347477'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.11 EUR
 currency: EUR
 price: 12.11

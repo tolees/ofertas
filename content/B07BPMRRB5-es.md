@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPMRRB5-es Camper Damen Alright Pumps Pink Black 1 35 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 71.87 EUR
 currency: EUR
 price: 71.87

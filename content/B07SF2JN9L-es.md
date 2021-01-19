@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SF2JN9L-es PUMA Love WN S Zapatillas para Mujer Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

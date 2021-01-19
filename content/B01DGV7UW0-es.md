@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DGV7UW0-es Fantasy Flight Games- Star Wars Imperial Assault R2D2 y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

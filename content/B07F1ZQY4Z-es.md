@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1ZQY4Z-es Timberland Malibu Waves Sandalias para Mujer Verde Olive...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

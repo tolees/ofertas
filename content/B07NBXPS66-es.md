@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBXPS66-es Samsung Leather Cover funda oficial para Samsung Galaxy 10...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

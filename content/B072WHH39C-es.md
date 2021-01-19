@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072WHH39C-es CLP Baúl De Almacenamiento Millie I Consola Baúl De Madera...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 77.9 EUR
 currency: EUR
 price: 77.9

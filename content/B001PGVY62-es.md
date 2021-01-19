@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001PGVY62-es Vans Classic Patch Trucker - Gorra para hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

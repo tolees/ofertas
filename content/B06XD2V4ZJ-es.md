@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XD2V4ZJ-es Auriculares Inalámbricos Beats Solo3 Wireless Bluetooth -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

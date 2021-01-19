@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SL5NH4-es TONGJI Vitrina de Acrílico Compatible con Lego 42083...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

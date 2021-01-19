@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EU351VG-es Tuscany Silver 8.24.7042 - Pulsera de plata de ley...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

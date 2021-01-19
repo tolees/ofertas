@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BVVHZOK-es Astor Eyeartist Luxury Palette Paleta de Sombras Tono 100...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

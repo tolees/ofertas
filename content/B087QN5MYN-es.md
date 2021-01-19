@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087QN5MYN-es Dani - Salsa para aperitivo - 6 botellines de 250ML'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

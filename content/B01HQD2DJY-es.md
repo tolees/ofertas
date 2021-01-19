@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HQD2DJY-es iCozzier 15-15 6 Pulgadas Funda para portátil con Espuma...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.72 EUR
 currency: EUR
 price: 13.72

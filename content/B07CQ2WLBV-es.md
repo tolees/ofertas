@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQ2WLBV-es Braun BT3022 BeardTrimmer - Recortadora Barba con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.71 EUR
 currency: EUR
 price: 27.71

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002STCCMU-es Stanley FatMax Taller de laminado de metal-plástico...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 96.65 EUR
 currency: EUR
 price: 96.65

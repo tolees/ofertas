@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007VZY0EO-es DIGITUS Soporte de Ranura de Puerto Paralelo Cable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.17 EUR
 currency: EUR
 price: 7.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BCEZWBE-es Samsung S22F350FHU - Monitor LED de 21.5 pulgadas FullHD...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 80.91 EUR
 currency: EUR
 price: 80.91

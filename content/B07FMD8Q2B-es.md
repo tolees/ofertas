@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMD8Q2B-es IPOTCH Cables de Gestión Clips de Almacenamiento de Cables...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.12 EUR
 currency: EUR
 price: 3.12

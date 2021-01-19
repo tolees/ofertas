@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086SYVRSC-es Bicicleta De Ejercicio Fitness Interior Ciclismo Bicicleta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 188.0 EUR
 currency: EUR
 price: 188.0

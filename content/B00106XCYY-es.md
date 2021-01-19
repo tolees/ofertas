@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00106XCYY-es Samsonite Aeris Upright L Maleta 78 cm 118.5 L Negro Black'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 123.92 EUR
 currency: EUR
 price: 123.92

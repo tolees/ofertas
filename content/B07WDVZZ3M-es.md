@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDVZZ3M-es Garfield Kart Furious Racing'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.48 EUR
 currency: EUR
 price: 21.48

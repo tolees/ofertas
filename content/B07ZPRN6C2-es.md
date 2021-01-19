@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZPRN6C2-es Hurley M Icon Textures Hat Gorra Hombre Deep Royal Blue S/M'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

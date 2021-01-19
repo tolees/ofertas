@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FGCFX69-es Columbia DrainmakerTM IV Zapatillas para Mujer Rojo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

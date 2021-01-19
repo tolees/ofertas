@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F2NM9RW-es Bellota 8053-500 - Maceta albañil con cabeza de goma negra'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

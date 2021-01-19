@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWKQFXJ-es Skechers Arya Sweet Glitz Zapatillas sin Cordones para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.62 EUR
 currency: EUR
 price: 46.62

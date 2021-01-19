@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N5TV6YM-es Funko- Pop Vinilo: NSYNC: JC Chasez Figura Coleccionable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

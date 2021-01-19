@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B44J8HQ-es Relec Roll On Post-Picaduras de Insectos y Plantas |...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.42 EUR
 currency: EUR
 price: 5.42

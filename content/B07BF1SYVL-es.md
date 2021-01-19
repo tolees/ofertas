@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BF1SYVL-es Sushi Striker: The Way Of Sushido'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15 EUR
 currency: EUR
 price: 15

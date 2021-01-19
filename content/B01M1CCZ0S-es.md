@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1CCZ0S-es Skechers Women 12615 Low-Top Trainers Grey Charcoal...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

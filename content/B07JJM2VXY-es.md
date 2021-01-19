@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJM2VXY-es Todeco - Household Tool Box Home Tool Kit - Material:...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.79 EUR
 currency: EUR
 price: 46.79

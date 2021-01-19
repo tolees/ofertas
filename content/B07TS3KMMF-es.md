@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS3KMMF-es Levi s 711 Shaping Super Skinny Jeans Pantalón Vaquero Que...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.39 EUR
 currency: EUR
 price: 43.39

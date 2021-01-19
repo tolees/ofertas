@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0037K7NHS-es Zefal Z-Light Pack XS Bolsa Porta-Cámaras Unisex Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.84 EUR
 currency: EUR
 price: 6.84

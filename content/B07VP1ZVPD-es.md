@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VP1ZVPD-es Skechers GO Walk Lite Zapatillas para Mujer Azul Marino...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.79 EUR
 currency: EUR
 price: 32.79

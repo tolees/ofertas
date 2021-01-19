@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYF2QD-es PUMA Carina L Zapatillas para Mujer White-Gum 40 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.4 EUR
 currency: EUR
 price: 41.4

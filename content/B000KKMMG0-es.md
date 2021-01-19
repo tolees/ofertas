@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KKMMG0-es Adidas Samba Zapatillas de Fútbol para Hombre Negro Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.45 EUR
 currency: EUR
 price: 35.45

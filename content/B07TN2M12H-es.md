@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TN2M12H-es Vans Atwood Textile Zapatillas para Hombre Rojo Corduroy...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.86 EUR
 currency: EUR
 price: 36.86

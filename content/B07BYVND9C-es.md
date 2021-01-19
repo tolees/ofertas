@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BYVND9C-es Xpansy Hose Pro C2607B Manguera Extensible con la Presión...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.09 EUR
 currency: EUR
 price: 18.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X431KNR-es Asterix & Obelix XXL3: The Crystal Menhir - Limited Edition'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.19 EUR
 currency: EUR
 price: 28.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5V5VCF-es Black+Decker BXJB800E Batidora de Vaso 800 W 1.5 litros...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.24 EUR
 currency: EUR
 price: 31.24

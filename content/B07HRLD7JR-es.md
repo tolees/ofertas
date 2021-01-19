@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRLD7JR-es PREMYO Bandas Reflectantes Set de 4 Ajustable Brazalete...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

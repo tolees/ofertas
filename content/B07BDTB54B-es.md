@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDTB54B-es s.Oliver Reloj Analogico para Mujer de Cuarzo con Correa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.26 EUR
 currency: EUR
 price: 46.26

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JGFDLBY-es Bourjois Volume Reveal Máscara de pestañas Tono 22 Ultra...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001POTTDO-es Biofinity - Lentes de contacto esféricas mensuales R 8.6 /...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

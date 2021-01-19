@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHQBWND-es REPLAY M9715 .000.22906 Pantalones de Deporte Azul Blue...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBN9JTD-es Pepe Jeans Adams Logo Zapatillas para Mujer Color Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.3 EUR
 currency: EUR
 price: 39.3

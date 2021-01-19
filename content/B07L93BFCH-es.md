@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L93BFCH-es Sharplace Unidad de Disquete SSD USB Tornillos Externa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.93 EUR
 currency: EUR
 price: 20.93

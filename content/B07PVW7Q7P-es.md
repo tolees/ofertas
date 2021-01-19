@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVW7Q7P-es Moderna lámpara LED de techo para salón regulable pantalla...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y1CG1QS-es Wrangler HIGH RISE SKINNY Pantalones Negro Rinsewash 023...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 54.44 EUR
 currency: EUR
 price: 54.44

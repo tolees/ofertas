@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0154O8DXC-es Daga Vendaje Térmico Muñeca - Neopreno Calor y compresión...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.37 EUR
 currency: EUR
 price: 23.37

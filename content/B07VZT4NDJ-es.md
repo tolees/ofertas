@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZT4NDJ-es Reloj Digital para niños 7 Colores con luz LED para niños...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

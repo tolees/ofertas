@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSB1C22-es Kickers Kickstyle Zapatillas para Hombre Azul Marine/Camel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.85 EUR
 currency: EUR
 price: 40.85

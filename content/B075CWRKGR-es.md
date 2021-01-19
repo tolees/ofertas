@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075CWRKGR-es Buff Ultimate Logo Cinta Tech Forro Polar Unisex Adulto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.36 EUR
 currency: EUR
 price: 10.36

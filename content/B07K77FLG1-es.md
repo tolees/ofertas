@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K77FLG1-es Asics Patriot 10 Zapatillas de Running para Hombre Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

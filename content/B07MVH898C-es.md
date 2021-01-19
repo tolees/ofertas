@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVH898C-es Kipling Gabbie S Bolsos Bandolera para Mujer Azul Methyl...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.59 EUR
 currency: EUR
 price: 55.59

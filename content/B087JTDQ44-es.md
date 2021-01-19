@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JTDQ44-es Saco Silla Universal Rosy Fuentes en marino'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

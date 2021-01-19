@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PNUHMAI-es adidas Originals Superstar Zapatillas Unisex Adulto Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 67.46 EUR
 currency: EUR
 price: 67.46

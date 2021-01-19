@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RTG0G16-es Grohe Essence - Grifo para baño y ducha 1/2" color cromo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 127.96 EUR
 currency: EUR
 price: 127.96

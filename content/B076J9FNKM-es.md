@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076J9FNKM-es adidas SST TP Sport Trousers Hombre Black XL'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.05 EUR
 currency: EUR
 price: 42.05

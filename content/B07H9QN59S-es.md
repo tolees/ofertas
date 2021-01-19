@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9QN59S-es Monix Mineral-Set de 3 sartenes 20-24-28 cm Aluminio...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FM2XP80-es Manfrotto Advanced Tri - Funda para cámara DSLR negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

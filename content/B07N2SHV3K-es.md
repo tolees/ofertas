@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2SHV3K-es Outsunny Tumbona Plegable Respaldo Ajustable a 7 Niveles...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 94.49 EUR
 currency: EUR
 price: 94.49

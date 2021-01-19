@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVDBGD8-es AI: SOMNIUM FILES COLLECTOR EDITION'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

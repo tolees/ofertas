@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRM8SWL-es New Balance 373 Zapatillas Hombre Marrón Brown 44.5 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

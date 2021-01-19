@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073R4MBLS-es BILLABONG All Day Gorro Hombre Gris Grey Heather U'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

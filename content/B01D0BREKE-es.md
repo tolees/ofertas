@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D0BREKE-es Conjunto de Muebles Poli Ratán para Jardín Terraza Patio -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

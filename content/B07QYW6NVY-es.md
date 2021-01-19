@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYW6NVY-es LG 27MK600M-W - Monitor FHD de 68 6 cm 27" con Panel IPS...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

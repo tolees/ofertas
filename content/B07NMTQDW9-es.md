@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NMTQDW9-es Nike Revolution 5 Walking Shoe Unisex-Child Racer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NMJOVGA-es Batiste Oriental Pretty & Opulent Dry Shampoo Champú - 200 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DTGR6QR-es Bulova Reloj de Pulsera 96C133'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 136.87 EUR
 currency: EUR
 price: 136.87

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086MHSF2R-es Versa 21330009 Set 2 Taburetes de Bar Rústicos con Asiento...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.56 EUR
 currency: EUR
 price: 99.56

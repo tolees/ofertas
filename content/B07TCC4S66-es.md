@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCC4S66-es Helly Hansen W Copenhagen Leather Zapatillas para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

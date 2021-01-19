@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH4X7GR-es The North Face Borealis Classic Mochila Unisex Adulto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 60 EUR
 currency: EUR
 price: 60

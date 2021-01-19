@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C40OPGI-es Rowenta Air Force Extreme RH8828WO - Aspirador sin cable y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 156.67 EUR
 currency: EUR
 price: 156.67

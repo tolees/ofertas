@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPDFCZ8-es LEMCASE Tijeras de Cocina Scissors Multiuso - Cuchilla de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

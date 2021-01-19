@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNTJGXB-es Under Armour UA W TriBase Edge Trainer Zapatillas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.57 EUR
 currency: EUR
 price: 45.57

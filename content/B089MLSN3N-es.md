@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089MLSN3N-es Molyflower El más Nuevo B17 Pulsera Deportiva Inteligente...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

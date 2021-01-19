@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VYN6KG-es Intex 58652EU - Manguitos hinchables marino 23x15 cm de 3...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

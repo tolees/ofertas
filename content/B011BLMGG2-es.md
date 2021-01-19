@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011BLMGG2-es Tribe Los Minions Despicable Me Egyptian - Memoria USB 2.0...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

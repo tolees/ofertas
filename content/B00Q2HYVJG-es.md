@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q2HYVJG-es AVM FRITZ!Box 3490 International - Modem Router WiFi AC...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.09 EUR
 currency: EUR
 price: 36.09

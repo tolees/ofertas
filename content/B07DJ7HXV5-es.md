@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ7HXV5-es New Balance 373 Zapatillas Unisex Niños Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.7 EUR
 currency: EUR
 price: 21.7

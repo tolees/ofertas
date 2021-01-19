@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071CFN75H-es Sapphire Nitro+ Radeon RX 580 4GB GDDR5 Tarjeta Grafica Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 181.0 EUR
 currency: EUR
 price: 181.0

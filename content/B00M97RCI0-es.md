@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M97RCI0-es LORUS Reloj de Pulsera RW615AX9'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.32 EUR
 currency: EUR
 price: 49.32

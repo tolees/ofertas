@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FC6PKRY-es Longspeed A5 Draw with Light Fun Tablero de Dibujo Tablero...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

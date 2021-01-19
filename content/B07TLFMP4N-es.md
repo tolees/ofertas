@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLFMP4N-es Levi s Relaxed Graphic tee Camiseta Blanco 90 s Serif Logo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJZGDZR-es adidas MTS Co Relax Tracksuit Hombre Active...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

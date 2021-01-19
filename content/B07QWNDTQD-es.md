@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWNDTQD-es Under Armour Sportstyle Terry Logo Parte Superior del...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.22 EUR
 currency: EUR
 price: 34.22

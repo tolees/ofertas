@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078J5ZVNV-es Fossil Reloj Híbrido para Mujer de Connected con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 97.82 EUR
 currency: EUR
 price: 97.82

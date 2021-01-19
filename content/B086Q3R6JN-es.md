@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086Q3R6JN-es Kit Dibujo Completo - Principiante/Profesional - 19...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

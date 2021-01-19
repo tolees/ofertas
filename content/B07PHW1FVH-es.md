@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHW1FVH-es Nike Todos Zapatillas para Hombre Negro Black/White 002...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

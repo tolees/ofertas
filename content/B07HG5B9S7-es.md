@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG5B9S7-es New Balance Fresh Foam Vongo Zapatillas de Running para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 76.05 EUR
 currency: EUR
 price: 76.05

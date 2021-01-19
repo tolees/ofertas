@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EAKAW44-es Toshiba EXCERIA M302-EA - Tarjeta de memoria MicroSDXC de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.84 EUR
 currency: EUR
 price: 14.84

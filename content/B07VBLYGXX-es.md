@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBLYGXX-es DANISH ENDURANCE Calcetines de Senderismo de Lana Merino 3...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

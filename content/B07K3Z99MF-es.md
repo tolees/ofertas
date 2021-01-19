@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K3Z99MF-es Adidas Continental 80 W Zapatillas de Deporte para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.06 EUR
 currency: EUR
 price: 58.06

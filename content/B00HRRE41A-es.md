@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRE41A-es SYLVANIAN FAMILIES Sylvanian Families-8718637028176 Set...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

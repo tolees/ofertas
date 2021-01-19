@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0077ASLCU-es MOTUL C1 Chain Clean 400ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

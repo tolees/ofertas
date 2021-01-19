@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0732Z3ZNX-es Murtra Estor Plegable loneta Lisa autofrenado 090 x 175...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

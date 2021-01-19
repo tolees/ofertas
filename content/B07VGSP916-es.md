@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGSP916-es Adidas Predator 19.3 FG J Botas de fútbol para Niños...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.79 EUR
 currency: EUR
 price: 40.79

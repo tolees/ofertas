@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTJ2L8P-es Belkin SoundForm - Auriculares USB-C para Samsung Galaxy...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

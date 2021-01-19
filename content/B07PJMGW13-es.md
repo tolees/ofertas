@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJMGW13-es ADATA SD600Q - Disco Duro Externo de Estado sólido 480 GB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.82 EUR
 currency: EUR
 price: 55.82

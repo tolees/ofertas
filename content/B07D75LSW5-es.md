@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D75LSW5-es R REDONDO IGLESIAS DESDE 1920 Cuchillos de Cocina...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

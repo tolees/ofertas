@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKX6G5C-es Under Armour UA Fast Left Chest 2.0 SS Deportiva De Manga...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

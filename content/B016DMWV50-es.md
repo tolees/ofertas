@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016DMWV50-es Moulinex AF220010 - Freidora Capacidad de 1 litro de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

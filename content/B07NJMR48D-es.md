@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJMR48D-es Vermouth La Copa Blanco - D.O. Jerez - 6 x 750 ml - Total:...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.35 EUR
 currency: EUR
 price: 37.35

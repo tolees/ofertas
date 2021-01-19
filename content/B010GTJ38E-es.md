@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010GTJ38E-es Timex Expedition - Reloj análogico de cuarzo con correa de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.4 EUR
 currency: EUR
 price: 47.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPT4L2W-es LAST LEVEL- Funko Pack Figura Pop Warhammer 40K: Space...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

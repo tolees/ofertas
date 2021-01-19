@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TKH1AJ4-es Sennheiser 0CX 686i Sports - Auriculares in-ear'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

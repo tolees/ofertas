@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081H9BWPY-es InnoTi Bandas Elásticas de Musculación y Fitness - Gomas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.8 EUR
 currency: EUR
 price: 29.8

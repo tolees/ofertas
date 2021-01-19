@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M2VEASM-es Lacoste DH2050 Polo Azul Marine XXX-Large Talla del...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.31 EUR
 currency: EUR
 price: 38.31

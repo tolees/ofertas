@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087WRBL3L-es tanggo Cycling Face Half Cover Carbono Antipolvo al Aire...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

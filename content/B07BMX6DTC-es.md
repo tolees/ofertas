@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMX6DTC-es Game Of Thrones Bend The Knee Door Mat Felpudo Goma...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2BD1NW-es Superdry OL Elite Joggers Pantalones de Deporte Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

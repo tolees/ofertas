@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HZ3TEMU-es UGG Male Neumel Classic Boot Black 13 UK'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 98.46 EUR
 currency: EUR
 price: 98.46

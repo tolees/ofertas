@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRJWJ3F-es Reebok Flexagon Energy MT Zapatillas de Gimnasia para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.44 EUR
 currency: EUR
 price: 20.44

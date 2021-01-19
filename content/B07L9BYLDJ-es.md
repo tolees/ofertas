@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9BYLDJ-es ROYAL SLEEP Colchón viscoelástico Carbono 90x190 firmeza...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

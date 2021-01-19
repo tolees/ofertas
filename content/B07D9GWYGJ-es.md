@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9GWYGJ-es Tommy Hilfiger LR Trunk Bóxer Negro Black 990 Medium para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

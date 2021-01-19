@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYMD5GY-es Charles Wilson Lote 12 Pares Calcetines Básicos 6-8.5...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

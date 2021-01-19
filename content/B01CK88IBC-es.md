@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CK88IBC-es Redken Curvaceous Unisex Champú 300 ml - Champues Unisex...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

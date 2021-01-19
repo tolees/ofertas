@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R58WWCJ-es CARE OF by PUMA Zapatillas bajas en cuero para hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WCN9XH-es Reebok Club C 85 Melted Metal Zapatillas de Deporte para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.4 EUR
 currency: EUR
 price: 47.4

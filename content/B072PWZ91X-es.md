@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072PWZ91X-es Blasjø® Juego de 3 espátulas de silicona de cocina con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

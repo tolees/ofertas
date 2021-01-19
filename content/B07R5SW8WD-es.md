@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5SW8WD-es PUMA S Portable Bandolera Adultos Unisex Medium Gray...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01

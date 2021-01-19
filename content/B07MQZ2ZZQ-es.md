@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQZ2ZZQ-es Le Coq Sportif Break COCARDE Zapatillas Unisex Adulto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

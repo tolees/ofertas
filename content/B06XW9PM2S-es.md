@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XW9PM2S-es BA20D Blanca LED Faro Lámpara Lejos Y Cerca De La Señal De...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

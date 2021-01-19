@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A3B3LC0-es Essie Esmalte de Uñas 45 Sole Mate'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

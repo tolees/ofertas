@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVJCL1K-es Zerodis- Molino de Viento de Flores Bricolaje Arco Iris...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

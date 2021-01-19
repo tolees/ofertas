@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0799KVGR3-es BOSS Jeeko sz40 10207238 01 Cinturón Hombre Negro Black 1 85'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

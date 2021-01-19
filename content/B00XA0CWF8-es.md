@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA0CWF8-es Pantene Mascarilla Repara y Protege- 300 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

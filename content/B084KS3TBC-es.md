@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084KS3TBC-es Proyector YABER Mini Portátil Proyector Cine en Casa 5000...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDTZGT-es Funko Pop Marvel Studios 10º Aniversario Figura de Vinilo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

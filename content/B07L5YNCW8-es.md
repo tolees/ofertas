@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5YNCW8-es adidas Terrex Skychaser LT GTX Zapatillas de Cross para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 56.56 EUR
 currency: EUR
 price: 56.56

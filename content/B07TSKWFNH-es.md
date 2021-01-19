@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSKWFNH-es KiplingArtMujerBolsos maletínNegro Charcoal 44x27x20...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.35 EUR
 currency: EUR
 price: 52.35

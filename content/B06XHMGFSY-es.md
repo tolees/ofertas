@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHMGFSY-es Silent Mind ~ Juego De Cuencos Tibetanos ~ Diseño Azul ~...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

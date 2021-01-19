@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWL87NJ-es Kimi Koala'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

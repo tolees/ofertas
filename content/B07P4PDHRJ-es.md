@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4PDHRJ-es Art Marina Botas Clasicas Unisex Adulto Negro Black Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.35 EUR
 currency: EUR
 price: 28.35

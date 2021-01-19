@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013QWFLLQ-es Olympus OM-D E-M10 Mark II cámara de Sistema Micro Cuatro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 308.86 EUR
 currency: EUR
 price: 308.86

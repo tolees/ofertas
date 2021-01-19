@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDRXGB4-es Belkin Boost Up Soporte de carga inalámbrica de 10 W...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

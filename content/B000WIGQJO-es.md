@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WIGQJO-es Estee Lauder 50590 - Base de maquillaje'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

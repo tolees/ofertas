@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L99B4FS-es Karactermania Diseny Icons Minnie Mouse-Bolso Cadena Wide...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVKF3FV-es Wrangler Icons Jeans Blue 6 Months 923 29W / 34L para Hombre'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG4LDKN-es PUMA ST Runner v2 Full L Zapatillas Unisex Adulto White-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

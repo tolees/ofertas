@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079QGBZHY-es Levi s 502 Regular Taper Jeans Azul Stonewash 95978 0182...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.86 EUR
 currency: EUR
 price: 46.86

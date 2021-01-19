@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWL42XR-es ANSIO Deshumidificador 12l / día con Temporizador de 24...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

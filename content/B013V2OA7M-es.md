@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013V2OA7M-es Dark Souls III - Edición Apocalypse'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

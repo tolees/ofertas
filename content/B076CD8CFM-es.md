@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CD8CFM-es TACKLIFE Carrete para Manguera 30+2m PVC Manguera...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 88.57 EUR
 currency: EUR
 price: 88.57

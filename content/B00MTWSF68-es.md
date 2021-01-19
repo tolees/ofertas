@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MTWSF68-es Baines - Bebida Pacharán Navarro 1 L'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.53 EUR
 currency: EUR
 price: 11.53

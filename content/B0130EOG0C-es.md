@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0130EOG0C-es Remington Kit Lithium PG6160 - Recortador Multifunción y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

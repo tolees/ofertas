@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074KM5FSD-es Fantasy Flight Games- Hera Syndulla y C1-10P colección...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

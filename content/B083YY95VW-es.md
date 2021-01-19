@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083YY95VW-es Panamami Borradores y fichas de ajedrez de Madera Natural...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.18 EUR
 currency: EUR
 price: 4.18

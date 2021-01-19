@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKMXKO0-es Revlon Style Masters Strong Sculpted Curls Tratamiento...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

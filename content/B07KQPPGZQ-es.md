@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQPPGZQ-es Salomon Trailster W Zapatillas de Trail Running para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.37 EUR
 currency: EUR
 price: 34.37

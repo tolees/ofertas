@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D73GVCQ-es 10A Control remoto inalámbrico inteligente para el hogar...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.77 EUR
 currency: EUR
 price: 22.77

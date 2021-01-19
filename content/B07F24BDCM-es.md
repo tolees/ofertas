@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F24BDCM-es JIANYE Calcetines Ciclismo Transpirable Que Absorbe...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

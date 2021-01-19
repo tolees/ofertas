@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DLZN26-es MUVIP Sandwichera INOX Grill Potencia 750W Placas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

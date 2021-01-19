@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZPJ66M-es Hauck Sport Silla de paseo ultra ligera de 5 9kg sistema...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY70XK3-es Kappa Fredo Pantalón Corto Hombre Blanco YXL'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

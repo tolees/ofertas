@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTQK16-es G-STAR RAW Bronson Pantalones para Hombre Gris Grey W32/L32'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

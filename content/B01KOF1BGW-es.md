@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KOF1BGW-es BaByliss C903PE - Rizador automático dos posiciones de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.75 EUR
 currency: EUR
 price: 58.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075V3RGV6-es L.A. Noire'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9

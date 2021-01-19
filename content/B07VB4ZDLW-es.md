@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB4ZDLW-es DURAGADGET Cable De Audio Compatible con Portátil Acer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

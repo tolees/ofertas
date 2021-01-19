@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0739ZBX3L-es CampTeck U6576 3m Cuerda Saltar de Velocidad Ajustable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

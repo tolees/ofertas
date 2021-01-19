@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XY9MWS1-es Imperial Confort 617513 Topper Viscoelástico 135 x 190 cm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

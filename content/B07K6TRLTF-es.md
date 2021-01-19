@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6TRLTF-es Sangean DDR-66BT SmartLink 9 Minicadena de música para Uso...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 439 EUR
 currency: EUR
 price: 439

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4YYKG2-es Pop! Avengers Infinity War - Figura de Vinilo Bucky Barnes...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.38 EUR
 currency: EUR
 price: 11.38

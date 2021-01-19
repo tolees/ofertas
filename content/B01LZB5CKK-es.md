@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZB5CKK-es Brabantia Newicon-Cubo de Basura con Pedal 30 l Color Fpp...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 60.85 EUR
 currency: EUR
 price: 60.85

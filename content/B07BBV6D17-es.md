@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBV6D17-es Dunlop Paletero de pádel Tour Intro Negro/Rosa Flúor'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

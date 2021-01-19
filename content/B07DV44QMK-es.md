@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DV44QMK-es Columbia Wayfinder Zapatillas de Senderismo para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKN6XKY-es Clarks C MOCC Boat Mocasines para Mujer Blanco White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.7 EUR
 currency: EUR
 price: 44.7

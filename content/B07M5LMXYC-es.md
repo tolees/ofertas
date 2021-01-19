@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5LMXYC-es BOSS Starfish Bañador para Hombre Negro Black 007 L'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

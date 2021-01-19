@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084C3PNXT-es PIKOLIN Colchón de muelles avanzados Normablock Confort...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

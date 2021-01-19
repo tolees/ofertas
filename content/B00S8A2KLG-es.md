@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S8A2KLG-es Worx WX311.1 Taladro Percutor 1100 W'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57 EUR
 currency: EUR
 price: 57

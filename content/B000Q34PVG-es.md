@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Q34PVG-es Cacharel Amor Amor Deo Vaporizador 150 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.76 EUR
 currency: EUR
 price: 18.76

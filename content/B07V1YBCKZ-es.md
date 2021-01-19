@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1YBCKZ-es Azur Lane: Crosswave'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.86 EUR
 currency: EUR
 price: 40.86

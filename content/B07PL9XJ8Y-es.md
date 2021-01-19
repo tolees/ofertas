@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PL9XJ8Y-es Gel de sílice Galactorrea Colección de coberturas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJ6LGS-es Kipling - Amiel Bolsos maletín Mujer Gris Chalk Grey...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

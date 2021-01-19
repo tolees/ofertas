@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08254VRGB-es Paraguas Frozen 2 Disney Paraguas Cúpula Paraguas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

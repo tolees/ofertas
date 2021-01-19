@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVL2XRZ-es NANOCABLE 10.16.4401-BK - Adaptador USB-C a 4 x USB 3.0...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

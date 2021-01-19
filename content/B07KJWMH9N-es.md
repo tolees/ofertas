@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJWMH9N-es QUIKSILVER Nelson Surfwash Hybrid Shorts Hombre Black 36'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.07 EUR
 currency: EUR
 price: 19.07

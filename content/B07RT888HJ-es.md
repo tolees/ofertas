@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RT888HJ-es Pepe Jeans Rick suéter Gris Light Grey Marl 913 Talla...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.41 EUR
 currency: EUR
 price: 31.41

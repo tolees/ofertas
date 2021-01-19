@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0050IHWYO-es Balanza de cocina mecánica con BOL Laica K 711 pesa hasta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

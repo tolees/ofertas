@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LUIKWKY-es adidas Originals Adidas Stan Smith M20324 Zapatillas de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 60.8 EUR
 currency: EUR
 price: 60.8

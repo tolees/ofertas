@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BCBCDB9-es feihao-Rodillo de Amasar-Rodillos Ajustables de Acero...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

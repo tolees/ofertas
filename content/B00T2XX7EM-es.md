@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T2XX7EM-es Remington Reveal FC1000 - Cepillo Limpiador Facial Cabezal...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BQJW60K-es Amscan 9900558 - Pack de decoración para 18 cumpleaños'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

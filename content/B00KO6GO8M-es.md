@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KO6GO8M-es BIC Cristal Soft bolígrafos punta media 1 2 mm - Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

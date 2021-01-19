@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYBCY3J-es Quiksilver Molokai Abyss Cork - Sandals For Men Zapatos de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

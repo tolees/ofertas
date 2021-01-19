@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVSDJ12-es Cinta adhesiva antiarañazos para gatos para muebles...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

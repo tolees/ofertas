@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFC1MK6-es MustWin - Bombillas LED regulables B22 bayoneta de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.38 EUR
 currency: EUR
 price: 21.38

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FN1T25G-es Cinturon Pelvico Ajustable Platillos Corrección con airbag...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.09 EUR
 currency: EUR
 price: 13.09

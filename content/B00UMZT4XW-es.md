@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UMZT4XW-es MOLDE ESPELTA BLANCO BLAND BIO'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.71 EUR
 currency: EUR
 price: 4.71

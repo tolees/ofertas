@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XHUO88K-es Star Wars FX14233 Lampara 3D de Pared R2 D2 Multicolor'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.11 EUR
 currency: EUR
 price: 23.11

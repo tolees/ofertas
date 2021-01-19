@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019ISGUX0-es Intex 28456 - Spa hinchable Jet y Burbujas octogonal 1.098...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 340.0 EUR
 currency: EUR
 price: 340.0

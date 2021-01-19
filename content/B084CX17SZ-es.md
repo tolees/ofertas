@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084CX17SZ-es Mellerware Robot Aspirador City Move. 1400 Pa Tecnología...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

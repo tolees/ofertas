@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IJ5K5JY-es Einhell Aspirador- soplador triturador eléctrico GC-EL...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.3 EUR
 currency: EUR
 price: 47.3

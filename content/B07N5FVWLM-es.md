@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N5FVWLM-es Bed Comforter King King size quilt handmade Bright Quilt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 266.0 EUR
 currency: EUR
 price: 266.0

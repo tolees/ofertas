@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000E28HZE-es K&N KA-6503 Filtro de Aire Moto'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 62.52 EUR
 currency: EUR
 price: 62.52

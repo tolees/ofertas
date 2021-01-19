@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q46BTK7-es DURAGADGET Cable De Audio Portátil Medion Erazer X7853 -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

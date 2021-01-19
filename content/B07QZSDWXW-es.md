@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZSDWXW-es Baby Einstein 11311 Andador y Centro de Actividades...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 97.49 EUR
 currency: EUR
 price: 97.49

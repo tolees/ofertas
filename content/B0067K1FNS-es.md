@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0067K1FNS-es Rimmel London Lasting Finish Barra De Labios Tono 128...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DN9JKUQ-es Meritene Meritene Junior Batido Chocolate 15Sbrs 450 g'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

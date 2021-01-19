@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PDTDFJ-es Grohe 27421002 Euphoria 260 - Sistema de ducha con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 340.9 EUR
 currency: EUR
 price: 340.9

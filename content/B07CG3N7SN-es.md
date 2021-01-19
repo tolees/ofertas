@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CG3N7SN-es WMF Perfect Premium - Set de olla ultra rápida/a presión...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 173.61 EUR
 currency: EUR
 price: 173.61

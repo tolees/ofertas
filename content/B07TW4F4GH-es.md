@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TW4F4GH-es Lenovo S145-15IWL - Ordenador portátil 15.6" HD Intel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

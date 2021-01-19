@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PHRFHFY-es PrimeMatik - Poste Separador 2 uds Negro con Cinta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 90.12 EUR
 currency: EUR
 price: 90.12

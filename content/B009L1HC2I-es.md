@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009L1HC2I-es Fujifilm 14 mm f:2.8 XF R - Objetivo Distancia Focal Fija...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 499.95 EUR
 currency: EUR
 price: 499.95

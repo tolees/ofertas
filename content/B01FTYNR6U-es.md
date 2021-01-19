@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FTYNR6U-es Skechers Energy Lights-Elate Zapatillas Altas para Niños...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

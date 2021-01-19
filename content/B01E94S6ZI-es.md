@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E94S6ZI-es Filtex - PTS56. Escurreplatos plastificado para armarios...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

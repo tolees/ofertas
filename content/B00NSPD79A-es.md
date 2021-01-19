@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NSPD79A-es Fellowes Metal 25 - Encuadernadora manual de espiral...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

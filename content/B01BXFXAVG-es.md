@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BXFXAVG-es CLP Silla Racing De Oficina Fire Estilo Deportivo I Silla...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 82.9 EUR
 currency: EUR
 price: 82.9

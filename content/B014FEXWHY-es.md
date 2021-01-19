@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014FEXWHY-es Trust GXT 210 - Micrófono Gaming USB'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

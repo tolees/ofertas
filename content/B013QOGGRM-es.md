@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013QOGGRM-es Max Factor Masterpiece High Precision Eyeliner Delineador...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.33 EUR
 currency: EUR
 price: 5.33

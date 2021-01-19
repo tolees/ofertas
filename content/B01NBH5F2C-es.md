@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBH5F2C-es Maybelline New York - The Falsies Push Up Angel Máscara de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

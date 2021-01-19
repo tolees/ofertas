@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQCBH3F-es Fujitsu Scansnap IX 1500 Escáner de documentos'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 395.0 EUR
 currency: EUR
 price: 395.0

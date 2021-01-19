@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBWR53D-es Ventosa Fácil Instalación Suction Cup para Carro Autocaravana'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.73 EUR
 currency: EUR
 price: 17.73

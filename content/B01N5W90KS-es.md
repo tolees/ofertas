@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5W90KS-es Samsung Clear View Standing Funda para smartphone Samsung...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.47 EUR
 currency: EUR
 price: 35.47

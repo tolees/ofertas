@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009PK2UPE-es Woxter Cooling Pad 1560 R – Base refrigeradora para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

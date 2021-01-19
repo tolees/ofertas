@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYXDFKY-es Case Logic Reflect Laptop Sleeve 15.6 funda para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.29 EUR
 currency: EUR
 price: 18.29

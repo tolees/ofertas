@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X19VGN6-es BERING Reloj Analógico para Unisex Adultos de Cuarzo con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

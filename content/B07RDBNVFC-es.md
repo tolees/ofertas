@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDBNVFC-es Tacklife SWS2A - Juego de llaves de vaso 88 piezas 12...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.76 EUR
 currency: EUR
 price: 33.76

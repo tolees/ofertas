@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001R5UHKU-es Merrell Sprint Blast Zapatillas para Hombre Gris...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 53.35 EUR
 currency: EUR
 price: 53.35

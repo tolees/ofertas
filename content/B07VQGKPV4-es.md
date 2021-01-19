@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQGKPV4-es Nike Men s Premier II Anti-Clog Traction SG-Pro Soft-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.25 EUR
 currency: EUR
 price: 30.25

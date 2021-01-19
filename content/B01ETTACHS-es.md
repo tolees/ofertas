@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ETTACHS-es biManán - beSLIM - Sustitutivos para Adelgazar - Plan de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.18 EUR
 currency: EUR
 price: 22.18

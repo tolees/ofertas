@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000C6RHBW-es Faber-Castell 110060 - Set de lápices de colores multicolor'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 74.43 EUR
 currency: EUR
 price: 74.43

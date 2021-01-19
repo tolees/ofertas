@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPBV8G6-es RYLOS - Pendientes de plata chapada en oro amarillo de 14...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 111.18 EUR
 currency: EUR
 price: 111.18

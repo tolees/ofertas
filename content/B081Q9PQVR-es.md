@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Q9PQVR-es Masajeador Control Remoto Inalámbrico 15m Para Mujer con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

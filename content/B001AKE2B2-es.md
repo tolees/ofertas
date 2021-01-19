@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001AKE2B2-es KidKraft- Arenero de madera para niños diseño de galeón...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 181.99 EUR
 currency: EUR
 price: 181.99

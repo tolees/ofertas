@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQD62R4-es Salomon ALPHACROSS W Zapatillas de Trail Running para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 62.71 EUR
 currency: EUR
 price: 62.71

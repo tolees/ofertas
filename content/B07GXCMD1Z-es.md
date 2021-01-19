@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXCMD1Z-es WOSAWE - Pantalones deportivos para hombre de secado...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.43 EUR
 currency: EUR
 price: 32.43

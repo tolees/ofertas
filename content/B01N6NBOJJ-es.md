@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6NBOJJ-es Sony MDR-XB550APG Auriculares de Diadema Extra Bass...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

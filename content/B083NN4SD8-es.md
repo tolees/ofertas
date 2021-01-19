@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NN4SD8-es Cómoda Manta de Franela súper Suave y cálida Tamaño Grande...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

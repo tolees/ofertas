@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DCDM47L-es TIBEK Licuadora Prensado Frío Licuadoras Para Verduras y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.34 EUR
 currency: EUR
 price: 43.34

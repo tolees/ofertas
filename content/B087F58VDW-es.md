@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087F58VDW-es Comprobador de enchufe de 48 a 250V KAIWEETS Probador de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KV9RRB4-es Swing Vestido Mujer Azul marine 36'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 54.87 EUR
 currency: EUR
 price: 54.87

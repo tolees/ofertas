@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKHZ2KV-es LeYi Funda Huawei P Smart 2018 Silicona Purpurina Carcasa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017NR9Q7A-es Moulinex XF384B10 - Accesorio para cocinar al vapor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

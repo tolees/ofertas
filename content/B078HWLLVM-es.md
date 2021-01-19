@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HWLLVM-es Monix Pisa - Set de cubiertos de 24 piezas con cuchillo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.32 EUR
 currency: EUR
 price: 36.32

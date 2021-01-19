@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDLH1P1-es Vans Filmore Decon Sneaker para Hombre Multicolor Canvas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

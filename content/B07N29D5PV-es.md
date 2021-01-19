@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N29D5PV-es Maleta de cabina rígida 55cm Movom Trafalgar Roja'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.93 EUR
 currency: EUR
 price: 48.93

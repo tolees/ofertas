@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L9DUEU8-es DC Shoes TRASE TX Zapatillas Hombre Negro Black/Gum 41 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

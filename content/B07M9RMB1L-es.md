@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9RMB1L-es Swatch Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 101.91 EUR
 currency: EUR
 price: 101.91

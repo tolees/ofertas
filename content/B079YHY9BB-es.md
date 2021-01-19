@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YHY9BB-es Manfrotto MKBFRLA-BH Befree Advanced - Trípode de Viaje...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

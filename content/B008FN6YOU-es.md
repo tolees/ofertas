@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008FN6YOU-es Optimum Nutrition ON Opti-Men Suplemento multivitamínico...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.61 EUR
 currency: EUR
 price: 26.61

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HLCSDN6-es Vanish Quitamanchas Pretratante alfombras y tapicerías...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

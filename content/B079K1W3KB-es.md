@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079K1W3KB-es Corsair Carbide 275R - Caja de ordenador semitorre para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.22 EUR
 currency: EUR
 price: 55.22

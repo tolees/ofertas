@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5PILXU-es Levi s 502 Regular Taper Jeans Azul City Park 0011 33W /...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 75.4 EUR
 currency: EUR
 price: 75.4

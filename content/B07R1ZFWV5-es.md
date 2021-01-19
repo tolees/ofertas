@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R1ZFWV5-es Under Armour Rush Leggings Legging Mujer Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.37 EUR
 currency: EUR
 price: 25.37

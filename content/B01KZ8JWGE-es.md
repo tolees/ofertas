@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KZ8JWGE-es 10 "12" 16 " Barra De Apoyo De Seguridad De Soporte De...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

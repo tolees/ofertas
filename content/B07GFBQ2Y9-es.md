@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFBQ2Y9-es Canon Zoemini Pv-123 - Mini Impresora Bluetooth USB 314 x...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

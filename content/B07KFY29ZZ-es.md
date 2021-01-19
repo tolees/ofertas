@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFY29ZZ-es Puma Unisex Adulto Axis Zapatillas Azul Peacoat-Puma White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

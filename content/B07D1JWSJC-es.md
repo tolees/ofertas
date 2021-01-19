@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D1JWSJC-es SELECTED HOMME Slhslim-mylologan Stripe BLZ B Noos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.09 EUR
 currency: EUR
 price: 44.09

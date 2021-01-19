@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XD4S19N-es Calvin Klein Top Hoodie Full Zip Capucha Negro Black 001...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 50.35 EUR
 currency: EUR
 price: 50.35

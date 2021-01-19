@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZNUXM5-es Resultado de la Mujer r121 F Soft Shell Liso Mujer Color...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.12 EUR
 currency: EUR
 price: 11.12

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081WY6TXP-es Luce Solare Jardín GolWof Lámpara Solar para Jardín Búho...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

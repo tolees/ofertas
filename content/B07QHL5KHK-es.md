@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHL5KHK-es Puma Men s MCFC Stadium INT Jacket Track Black-Georgia...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.77 EUR
 currency: EUR
 price: 44.77

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009SLBFS8-es Lindam Easy Fit Plus Deluxe - Barrera de Seguridad Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.17 EUR
 currency: EUR
 price: 34.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1KY1W2-es Universal Bebé Niños Seguridad del automóvil Cinturón de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.02 EUR
 currency: EUR
 price: 5.02

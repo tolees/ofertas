@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H1X85EQ-es Panama Jack Glasgow Igloo Botas Clasicas para Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

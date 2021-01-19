@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013BSRF8M-es Essie Nail Número Laca 203A Cocktail Bling 13 5 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

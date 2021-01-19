@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC43D4P-es AXE Black - Desodorante Bodyspray para hombre 48 horas de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

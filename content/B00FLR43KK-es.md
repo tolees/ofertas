@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FLR43KK-es Hummel Slimmer Stadil Low Zapatillas Unisex Adulto Negro-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.54 EUR
 currency: EUR
 price: 24.54

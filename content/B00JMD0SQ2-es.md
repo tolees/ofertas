@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMD0SQ2-es Canson 406346 - Papel para dibujo 24 x 32 cm 1 unidad con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

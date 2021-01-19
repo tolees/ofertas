@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GT7RYW9-es Devolo Magic 2 LAN - Starter Kit de Powerline Rápido para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 71.97 EUR
 currency: EUR
 price: 71.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2HHJ89-es Skip Ultimate Triple Poder Detergente Capsulas Fragancia...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

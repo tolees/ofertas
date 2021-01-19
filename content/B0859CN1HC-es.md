@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0859CN1HC-es Oihxse Funda Xiaomi Mi 10 5G Ultra Delgado Transparente...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

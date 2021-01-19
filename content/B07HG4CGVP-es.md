@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG4CGVP-es New Balance 373 Zapatillas para Mujer Azul Navy Navy 35 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.94 EUR
 currency: EUR
 price: 29.94

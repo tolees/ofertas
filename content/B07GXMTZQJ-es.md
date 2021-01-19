@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXMTZQJ-es adidas Falcon W Running Shoe Womens Footwear White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 66.45 EUR
 currency: EUR
 price: 66.45

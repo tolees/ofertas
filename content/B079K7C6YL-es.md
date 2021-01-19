@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079K7C6YL-es Dunlop - Botas de Seguridad estriadas Estilo Wellies...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.2 EUR
 currency: EUR
 price: 58.2

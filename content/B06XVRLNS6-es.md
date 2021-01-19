@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XVRLNS6-es Nike Benassi JDI Mules para Hombre Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

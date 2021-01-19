@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0012YEZKO-es Philips HQ110/02 - Spray limpiador para cabezales'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.39 EUR
 currency: EUR
 price: 4.39

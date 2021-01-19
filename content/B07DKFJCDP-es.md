@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKFJCDP-es Relaxdays Silla Oficina Ergonómica Regulable Azul 102 x 55...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

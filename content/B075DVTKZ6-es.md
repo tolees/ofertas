@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075DVTKZ6-es Prozis Zero Snack Barra Rico En Proteína y Bajo en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.73 EUR
 currency: EUR
 price: 10.73

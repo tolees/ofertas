@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL3S8Z-es G-STAR RAW Citishield 3D Cargo Slim Tapered Pantalones...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 63.49 EUR
 currency: EUR
 price: 63.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDTDG5N-es Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.27 EUR
 currency: EUR
 price: 64.27

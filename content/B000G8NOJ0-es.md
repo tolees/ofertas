@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000G8NOJ0-es Alessi LCD01/4 Caccia - Cucharilla para postre 6 unidades'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99
@@ -27,11 +27,11 @@ Tienes [Alessi LCD01/4 Caccia - Cucharilla para postre  6 unidades ](https://www
 ℹ️:
 
 - Contenido del paquete: 1
-- Acero inoxidable 18/10 brillante
-- Diseñador: Luigi Caccia Dominioni
 - Cucharadita
-- Dimensiones: 18,8 x 3,8 x 4,7 cm
+- Diseñador: Luigi Caccia Dominioni
+- Acero inoxidable 18/10 brillante
 - Lavavajillas lavadora
+- Dimensiones: 18,8 x 3,8 x 4,7 cm
 - colección Caccia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000G8NOJ0/?tag=tolees-21)

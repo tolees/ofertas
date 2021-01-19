@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081VHCTXJ-es Dasket Set de Pinceles para Pincel de Pintura de acrílicos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

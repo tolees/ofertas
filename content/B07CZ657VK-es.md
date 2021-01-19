@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ657VK-es Shock Absorber Active Multi Sports Support Sujetador...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

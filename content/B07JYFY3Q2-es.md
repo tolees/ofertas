@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYFY3Q2-es Tommy Hilfiger Indigo Regular LS Polo Azul Maritime Blue...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.57 EUR
 currency: EUR
 price: 42.57

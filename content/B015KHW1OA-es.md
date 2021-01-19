@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015KHW1OA-es Nike Air Max Command Leather - Zapatillas unisex color...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 90.65 EUR
 currency: EUR
 price: 90.65

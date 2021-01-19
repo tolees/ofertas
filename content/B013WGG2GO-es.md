@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013WGG2GO-es New Balance WX624WB4 Zapatillas para Mujer Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.07 EUR
 currency: EUR
 price: 32.07

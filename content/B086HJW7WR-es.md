@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086HJW7WR-es Seguridad con válvula de respiración adecuada para muchas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

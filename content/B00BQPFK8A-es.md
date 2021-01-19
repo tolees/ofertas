@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BQPFK8A-es Rimmel London Lasting Finish by Kate Barra De Labios Tono...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

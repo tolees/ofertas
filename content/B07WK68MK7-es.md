@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WK68MK7-es Luz Solar Exterior Jardín 12 LED Foco Solar con Sensor de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

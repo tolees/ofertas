@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4Q1S7M-es Teccpo - Herramienta multifunción 170 W mini herramienta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.46 EUR
 currency: EUR
 price: 28.46

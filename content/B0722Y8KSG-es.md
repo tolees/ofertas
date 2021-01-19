@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0722Y8KSG-es Bosch EasyDrill 1200 - Atornillador con batería de litio...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.15 EUR
 currency: EUR
 price: 69.15

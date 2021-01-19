@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQY8GZB-es 2 Piezas de Altavoces Accesorios para Coche Automóvil Mini...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

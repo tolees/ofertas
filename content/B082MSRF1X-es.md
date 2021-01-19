@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MSRF1X-es Muselina Bebe Six4Up 100% Made In Italy Algodón Orgánico...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

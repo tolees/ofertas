@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FS3SO10-es Soy Luna- Disney Altavoz Portátil Lexibook RCD102SL...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.88 EUR
 currency: EUR
 price: 32.88

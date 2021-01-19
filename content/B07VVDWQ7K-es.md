@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVDWQ7K-es Skechers Skech-Air Element 2.0 Zapatillas para Mujer Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.24 EUR
 currency: EUR
 price: 34.24

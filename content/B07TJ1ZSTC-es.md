@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ1ZSTC-es New Balance Fresh Foam Zante Pursuit Women s Zapatillas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 80.95 EUR
 currency: EUR
 price: 80.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085J86FYW-es Jack & Jones JJIRICK JJICON Shorts AMA STS Pantalones...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TR3STR-es Reebok Zapatillas de Deporte Unisex Adulto Multicolor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

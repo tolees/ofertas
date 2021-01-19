@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYFTVDV-es Correas de Yoga Ajustable de 2 4 m – 2 x Pack I Incluye...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.87 EUR
 currency: EUR
 price: 7.87

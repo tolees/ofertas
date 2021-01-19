@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004OZMC1C-es Dewalt D25501K-QS Martillo demoledor 1100 W 220 V Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 462.61 EUR
 currency: EUR
 price: 462.61

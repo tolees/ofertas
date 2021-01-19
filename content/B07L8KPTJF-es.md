@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8KPTJF-es KLARSTEIN GrowIt Farm - Jardín Inteligente de Interior...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019CB6NNU-es AMANDIN Caldo de Verduras - Paquete de 6 x 1000 ml -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

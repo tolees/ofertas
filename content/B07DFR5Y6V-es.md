@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFR5Y6V-es New Balance Fresh Foam Cruz v2 Deconstructed m Zapatillas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.42 EUR
 currency: EUR
 price: 34.42

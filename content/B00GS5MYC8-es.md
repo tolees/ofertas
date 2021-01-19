@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GS5MYC8-es Bosch ARM 34 - Cortacésped 1300 W 230 V 34 cm de anchura...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 121.99 EUR
 currency: EUR
 price: 121.99

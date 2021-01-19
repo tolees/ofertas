@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LW6SLHK-es Dove jabón crema Sensitive Hypoallergenic jabón'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

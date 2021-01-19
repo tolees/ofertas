@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071F4YYKJ-es Asics Noosa FF T722n-9004 Zapatillas de Running para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 63.33 EUR
 currency: EUR
 price: 63.33

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WSGTTN8-es Compo Compo Fazilo Insecticida Acción Total Para plantas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

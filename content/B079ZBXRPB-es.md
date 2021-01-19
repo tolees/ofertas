@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZBXRPB-es BRA Efficient Iron Parrilla Redonda con Rayas Fabricada En...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

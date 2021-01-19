@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4DGTBH-es Alacrity 9203 Handsfree 2D 1D escáner de código de barras...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 102.86 EUR
 currency: EUR
 price: 102.86

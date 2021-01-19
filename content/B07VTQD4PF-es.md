@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTQD4PF-es Zetiling Kids Mini Kitchen Toys Toy Kitchen Playset...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

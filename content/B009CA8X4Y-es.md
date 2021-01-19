@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009CA8X4Y-es Hydor 104I-HY/C01103 Filtro Exterior Prime 10 con Carga...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

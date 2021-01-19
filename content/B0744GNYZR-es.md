@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0744GNYZR-es DXRacer OH/RE21/NY/NAVI Asiento Acolchado Respaldo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 322.99 EUR
 currency: EUR
 price: 322.99

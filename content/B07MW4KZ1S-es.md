@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MW4KZ1S-es Kit de Manicura Eléctrico TOUCHBeauty Set Manicura...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

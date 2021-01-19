@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MS93YPV-es Kickers Hobbytwo Botas Slouch para Mujer Gris Taupe 123 36 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.04 EUR
 currency: EUR
 price: 22.04

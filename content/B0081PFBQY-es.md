@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0081PFBQY-es CLINIQUE CHUBBY STICK #10-bountiful blush 3 gr'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

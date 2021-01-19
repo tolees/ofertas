@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M91WSSL-es adidas Sleek Zapatillas para Mujer Color Blanco Footwear...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

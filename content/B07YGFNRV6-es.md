@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGFNRV6-es MTNG Attitude 69145 Zapatillas para Mujer Azul /Puntini...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

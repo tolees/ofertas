@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CFBU5RK-es Nixon Reloj Analógico para Unisex de Cuarzo con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 71.08 EUR
 currency: EUR
 price: 71.08

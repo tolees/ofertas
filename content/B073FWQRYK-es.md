@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073FWQRYK-es Max Factor Colour Elixir Honey Lacquer Gloss Brillo de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

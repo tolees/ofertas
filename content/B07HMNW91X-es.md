@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMNW91X-es Skechers Men s Verrado- Brogen Hi-Top Trainers Brown Brown...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.6 EUR
 currency: EUR
 price: 20.6

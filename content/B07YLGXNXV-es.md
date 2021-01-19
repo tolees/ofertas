@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLGXNXV-es Sanex Zero% Sensitive Deo Roll-On 50 Ml 50 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.46 EUR
 currency: EUR
 price: 1.46

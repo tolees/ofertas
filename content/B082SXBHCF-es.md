@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SXBHCF-es Guess SG766246 BILLETERAS mujer Rosa TU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.56 EUR
 currency: EUR
 price: 43.56

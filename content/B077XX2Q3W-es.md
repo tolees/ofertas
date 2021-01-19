@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XX2Q3W-es Superga 2730-Cotu Zapatillas de Gimnasio para Mujer Grigio...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.18 EUR
 currency: EUR
 price: 49.18

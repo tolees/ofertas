@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BN7QPOY-es Carissima Gold Pendientes de mujer con oro amarillo de 9 K...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 107.0 EUR
 currency: EUR
 price: 107.0

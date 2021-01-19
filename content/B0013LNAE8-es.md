@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0013LNAE8-es Dewalt DW745-QS Sierra 1.700W-diámetro de 250 mm-Mesa 630...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 317.0 EUR
 currency: EUR
 price: 317.0

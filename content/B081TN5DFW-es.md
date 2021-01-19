@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TN5DFW-es adidas Tsubasa TRN Soccer Ball Men s White/Solar Red/Glory...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.57 EUR
 currency: EUR
 price: 11.57

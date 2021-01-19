@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBMR82K-es Finocam - Calendario de sobremesa 2020 Escribir español'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

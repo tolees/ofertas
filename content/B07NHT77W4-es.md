@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHT77W4-es Jack & Jones Jcobullhead Crew Neck suéter Multicolor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKN7J6P-es Joma Marsella Camisetas Equip. M/C Hombre Marino XL'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

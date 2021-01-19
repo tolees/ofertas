@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SDRHLM-es Funda Universal para Tableta portátil Funda Ultra Suave a...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.88 EUR
 currency: EUR
 price: 1.88

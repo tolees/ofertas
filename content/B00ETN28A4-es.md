@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ETN28A4-es Hauck Sport Silla de paseo ligera y practica para bebes de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 51.67 EUR
 currency: EUR
 price: 51.67

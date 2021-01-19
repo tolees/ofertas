@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGJ49YG-es Jeffergarden Mosquitero electrónico Potencia de batería...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

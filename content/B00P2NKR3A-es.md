@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P2NKR3A-es BLACK+DECKER MT188KB - Taladro percutor y multiherramienta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 125.95 EUR
 currency: EUR
 price: 125.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S46HWRX-es Amzdeal Mesa de Luz Dibujo A3 Tablero de Luz con Brillo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

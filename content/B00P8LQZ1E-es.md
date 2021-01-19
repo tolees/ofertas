@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P8LQZ1E-es Canterbury - Calcetines/medias de deporte/entrenamiento...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002QA1VDW-es St Moritz Autobronceador corporal piel normal - 200 ml.'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.53 EUR
 currency: EUR
 price: 6.53

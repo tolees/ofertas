@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZG399VQ-es NEW C Funda para iPhone 11 Funda Protectora absorción de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

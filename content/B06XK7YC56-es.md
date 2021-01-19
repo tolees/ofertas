@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XK7YC56-es Playtex Ideal Beauty Lace Sujetador de Encaje Sin Aros...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N133TNT-es Skechers Go Run Focus Zapatillas para Mujer Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.16 EUR
 currency: EUR
 price: 25.16

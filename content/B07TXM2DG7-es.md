@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXM2DG7-es Skechers MAX Cushioning Elite-Step Up Zapatillas para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.61 EUR
 currency: EUR
 price: 39.61

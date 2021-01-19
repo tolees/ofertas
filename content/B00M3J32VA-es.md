@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M3J32VA-es Nixon Men s Wristwatch - rose gold - A0452001'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

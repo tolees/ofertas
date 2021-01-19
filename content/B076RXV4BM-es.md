@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076RXV4BM-es Under Armour Ripple Zapatillas de Running para Mujer Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.83 EUR
 currency: EUR
 price: 31.83

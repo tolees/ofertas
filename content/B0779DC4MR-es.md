@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779DC4MR-es adidas Santos Sock 18 Calcetines Unisex Adulto Black/White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG6D5CJ-es Boriyuan Funda teclado iPad 9.7 Funda con teclado español...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.7 EUR
 currency: EUR
 price: 22.7

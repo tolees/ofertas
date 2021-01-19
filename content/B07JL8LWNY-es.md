@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JL8LWNY-es dreamlock vehículo articulado retrofriction de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.43 EUR
 currency: EUR
 price: 24.43

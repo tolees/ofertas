@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AS1ZAD2-es KHOMO Funda iPad Air 1 - Carcasa Gris Protectora Ultra...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

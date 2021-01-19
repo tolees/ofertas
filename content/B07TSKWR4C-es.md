@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSKWR4C-es Kipling Firefly Up Mochilas para Mujer Rojo Metallic Rust...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.68 EUR
 currency: EUR
 price: 33.68

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVVZCKM-es Dunlop Fort All Court TS Pelotas Tenis Adultos Unisex...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

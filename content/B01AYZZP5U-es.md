@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AYZZP5U-es Audio-Technica ATH-ADG1X Auriculares de Diadema Micro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

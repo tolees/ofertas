@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1W4DTH-es YIY Bandeja de Viaje para Asiento de Coche para niños -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

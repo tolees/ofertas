@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LF9RKQC-es Brabantia 380020 - Pincel de repostería Grande Acero y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

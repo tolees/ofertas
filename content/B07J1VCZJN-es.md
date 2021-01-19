@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1VCZJN-es Petusco - Naomi Coral Piel de vacuno tipo grano y grabado...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 120.0 EUR
 currency: EUR
 price: 120.0

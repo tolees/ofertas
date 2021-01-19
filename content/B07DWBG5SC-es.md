@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWBG5SC-es Columbia Caldorado III Zapatillas de Running para Asfalto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.19 EUR
 currency: EUR
 price: 45.19

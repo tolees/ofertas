@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5CH3V6-es Love MoschinoJc4024pp1aMujerBolsos totesBlanco Bianco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 100.53 EUR
 currency: EUR
 price: 100.53

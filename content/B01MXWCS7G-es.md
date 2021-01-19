@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXWCS7G-es Kipling Firefly Up Mochilas para Mujer Beige Pastel Beige...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.1 EUR
 currency: EUR
 price: 33.1

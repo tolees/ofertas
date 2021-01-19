@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB3LJPK-es LAST LEVEL- Funko Figura Pop Dragon Ball: Videl Multicolor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

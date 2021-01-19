@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZV3JBG-es Laken Unisex - Adultos Classic Aluminio Azul Claro 0 75...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

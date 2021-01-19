@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YKRT63-es Funko Pop!- Star Wars: Red Cup Figura de Vinilo Multicolor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.74 EUR
 currency: EUR
 price: 7.74

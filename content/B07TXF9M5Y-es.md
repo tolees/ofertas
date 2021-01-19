@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXF9M5Y-es Levi s 711 Shaping Super Skinny Pantalón Que moldea la...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.39 EUR
 currency: EUR
 price: 43.39

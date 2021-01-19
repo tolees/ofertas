@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD3HVV3-es Formulaioue Adaptador de Tarjeta de Sonido Externo para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.22 EUR
 currency: EUR
 price: 1.22

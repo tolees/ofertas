@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RKY6G7G-es adidas Stan Smith Zapatillas para Hombre Blanco Footwear...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.9 EUR
 currency: EUR
 price: 43.9

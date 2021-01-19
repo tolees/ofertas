@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CD8NDR3-es Bullet - Reloj monitor de actividad/podómetro modelo Get-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

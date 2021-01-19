@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SG19T9S-es Pasabahce Ceni Goma – Tapón Corona con bidules 200 Tapones...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

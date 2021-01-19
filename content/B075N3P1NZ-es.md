@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075N3P1NZ-es BIC Gel-ocity Illusion Recambios para Bolis de Gel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.61 EUR
 currency: EUR
 price: 2.61

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JB23HN-es Panama Jack Capri Cork Sandalia con Pulsera para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4CNZ6C-es ADWITS DisplayPort 1.2 DP a Adaptador de Cable VGA...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.13 EUR
 currency: EUR
 price: 6.13

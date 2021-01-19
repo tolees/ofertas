@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084P6QPCM-es Motherly Love Play Boca Chupete Boca Silicona Cierre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.43 EUR
 currency: EUR
 price: 1.43

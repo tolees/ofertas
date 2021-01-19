@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GL1HOQ-es Rollo decorativo estilo reptiles'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

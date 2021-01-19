@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007N6W0TS-es BIODERMA Atoderm Crema Duo 2X500 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05

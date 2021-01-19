@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004JMZPJG-es Case Logic DCB306K SLR - Funda para cámara nilón Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

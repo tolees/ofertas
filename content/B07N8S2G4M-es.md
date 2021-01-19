@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8S2G4M-es ICONIC TOMMY TOTEMujerBolsos bandoleraAzul Sky Captain...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 77.9 EUR
 currency: EUR
 price: 77.9

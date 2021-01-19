@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBBX4HH-es Funko- Pop Figura de Vinilo. Películas. Teen Wolf-Scott...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

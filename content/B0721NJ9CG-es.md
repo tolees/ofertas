@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721NJ9CG-es Superga Damen 2790 Lamew Sneaker Grau Grey 39'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.42 EUR
 currency: EUR
 price: 41.42

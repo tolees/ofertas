@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSG34RN-es WERKFIX Juego de 15 Llaves Fijas Combinadas 6-21 mm'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.29 EUR
 currency: EUR
 price: 17.29

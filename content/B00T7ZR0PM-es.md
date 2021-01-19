@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T7ZR0PM-es Shock Absorber Active Multi Sports Sujetador Deportivo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.83 EUR
 currency: EUR
 price: 31.83

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C7N79FW-es Lee Brooklyn Straight Jeans Negro Clean Black 30W / 34L...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.86 EUR
 currency: EUR
 price: 18.86

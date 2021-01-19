@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFNC9X6-es adidas Stan Smith J Zapatillas de Gimnasia Unisex Niños...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

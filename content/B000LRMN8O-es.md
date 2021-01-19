@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LRMN8O-es Radio Am/FM Waterproof Sangean H-201'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 80.95 EUR
 currency: EUR
 price: 80.95

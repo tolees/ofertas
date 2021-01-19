@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082B6TTYG-es 90ml Original Mujer Quicksand Perfume Fragancia De Flores...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

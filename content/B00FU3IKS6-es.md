@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FU3IKS6-es De longhi Dragon TRD40 0615 - Radiador de aceite 1500 w...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 94.9 EUR
 currency: EUR
 price: 94.9

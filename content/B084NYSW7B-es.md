@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084NYSW7B-es LoveOlvido Mini tamaño Simulación Aleación Finger Bike...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.31 EUR
 currency: EUR
 price: 1.31

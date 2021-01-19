@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004V54ZVK-es Absolut Vodka - 1 L'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.65 EUR
 currency: EUR
 price: 12.65

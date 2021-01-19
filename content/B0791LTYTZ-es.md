@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0791LTYTZ-es 8safe Protector de Alta Calidad para Asiento de Coche PACK...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

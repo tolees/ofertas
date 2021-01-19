@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000E7H4HQ-es K&N RU-2922 filtro de goma universal paquete de 2 Coche y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 87.43 EUR
 currency: EUR
 price: 87.43

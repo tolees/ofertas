@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2SXNQ2-es Eastpak SPRINGER Riñonera 23 cm 2 L Verde Meshknit Green'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

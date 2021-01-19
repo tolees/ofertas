@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVY7K43-es NOCO Boost XL GB50 1500 Amperios 12V UltraSafe Litio...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 107.99 EUR
 currency: EUR
 price: 107.99

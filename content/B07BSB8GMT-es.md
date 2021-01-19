@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSB8GMT-es Power extra Set de soldadura Soldadura 220 V 60 W...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8V9VX5-es Tommy Hilfiger Corporate Material Mix Runner Zapatillas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.39 EUR
 currency: EUR
 price: 34.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7MSRQ8-es JARBO TN2320 Tóner Compatible para Brother TN-2320 para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

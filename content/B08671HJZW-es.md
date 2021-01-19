@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08671HJZW-es Bastoncillos para los oídos de bambú y algodón- 1 unidad...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

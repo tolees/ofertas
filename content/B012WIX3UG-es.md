@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012WIX3UG-es 151Y12 - Aceitera Cristal Tapon Corcho 1/2L'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

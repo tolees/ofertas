@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5TON3O-es NYX Professional Makeup Base de maquillaje Total Control...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.17 EUR
 currency: EUR
 price: 8.17

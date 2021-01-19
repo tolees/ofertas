@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKDQJMT-es Nike Sunray Adjust 5 TD Zapatillas de Gimnasia para Niños...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.02 EUR
 currency: EUR
 price: 18.02

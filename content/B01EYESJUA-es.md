@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EYESJUA-es Dewalt Lijadora Rotorbital DWE6423-QS 280 W 230 V Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

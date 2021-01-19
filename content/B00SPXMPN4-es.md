@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SPXMPN4-es Yummy Bee Lencería Babydoll Conjunto Ropa Interior Noche...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYLM8XJ-es Jian Ya Na - Funda de sofá Extensible de poliéster y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.7 EUR
 currency: EUR
 price: 33.7

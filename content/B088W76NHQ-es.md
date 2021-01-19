@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088W76NHQ-es Oihxse Cristal Funda Compatible con OPPO Realme 3/Realme...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

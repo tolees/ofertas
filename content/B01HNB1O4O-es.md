@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HNB1O4O-es Odelay [Vinilo]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

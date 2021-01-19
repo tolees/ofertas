@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5B4Q7Q-es GRIDINLUX. Batería de Cocina 22 Piezas. Incluye Accesorios...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 139.97 EUR
 currency: EUR
 price: 139.97

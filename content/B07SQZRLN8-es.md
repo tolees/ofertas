@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQZRLN8-es Hurley U Rebound Solid Wallet Monederos Hombre Black 1SIZE'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

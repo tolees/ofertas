@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWK5HQD-es FIESTA Llaves Ácidas Golosinas Sabor Fresa - Envase de 290...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFY7GD9-es PUMA Aeon Play Wn s Zapatillas para Mujer Black 37 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.15 EUR
 currency: EUR
 price: 22.15

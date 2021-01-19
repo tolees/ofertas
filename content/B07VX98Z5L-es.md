@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VX98Z5L-es TOYANDONA Cuatro juegos de protección para bebés con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

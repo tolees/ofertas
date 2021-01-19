@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9QZ34C-es upHere 4 Heatpipes Ventilador de CPU ARGB LED Ventiladores...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

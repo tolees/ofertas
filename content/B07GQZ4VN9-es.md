@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GQZ4VN9-es SUAOKI - 400Wh/120 000mAh Generador Portátil Solar...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

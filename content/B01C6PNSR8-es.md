@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C6PNSR8-es DEWALT DCD796NT-XJ - Taladro percutor sin escobillas XR...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 128.87 EUR
 currency: EUR
 price: 128.87

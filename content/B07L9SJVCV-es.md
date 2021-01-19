@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9SJVCV-es Lacoste Courtline 319 1 Us CMA Zapatillas para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.51 EUR
 currency: EUR
 price: 58.51

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCLLJG3-es Marca Amazon - find. Soft Jersey High Neck Sudadera Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

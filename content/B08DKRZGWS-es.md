@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DKRZGWS-es Multifunción Pulsera Deportiva Podómetro Monitor de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15

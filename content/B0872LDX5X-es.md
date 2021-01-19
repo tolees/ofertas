@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872LDX5X-es NMBC Fundas de Asiento Protector de cojín de Asiento de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 143.99 EUR
 currency: EUR
 price: 143.99

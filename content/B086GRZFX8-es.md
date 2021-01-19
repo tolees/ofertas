@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086GRZFX8-es SIMBR General - 30 unidades KN-95 N-95 FFP2 PM2.5...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

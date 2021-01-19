@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K15CW8W-es adidas Superstar El I Zapatillas de Deporte Unisex niño...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.48 EUR
 currency: EUR
 price: 27.48

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2R3T5C-es Adidas Continental 80 Zapatillas de Deporte para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016AWBO2E-es ASUS VP278H TFT 27" Negro Full HD Matt - Monitor 1920 x...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 125.01 EUR
 currency: EUR
 price: 125.01

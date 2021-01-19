@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWTHVRZ-es adidas Terrex Agravic Flow GTX W Zapatillas de Cross para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 81.84 EUR
 currency: EUR
 price: 81.84

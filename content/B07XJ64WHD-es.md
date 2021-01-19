@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJ64WHD-es Skechers Go Run 400 V2 Zapatillas para Hombre Negro Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.06 EUR
 currency: EUR
 price: 34.06

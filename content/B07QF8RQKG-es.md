@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF8RQKG-es WMF 545244021 Permadur Element Sartén de Aluminio...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0OH6ZC-es Panasonic RP-HF100E-A Auriculares Color Azul'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

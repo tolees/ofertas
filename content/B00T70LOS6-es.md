@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T70LOS6-es Toms Women Clemente Fuchsia Alpargatas para Mujer Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

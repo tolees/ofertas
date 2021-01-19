@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMPYF8Q-es Nuevo 8 Cnady Colors Stylus Pen Crystal 2 in1 Pantalla...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 0.14 EUR
 currency: EUR
 price: 0.14

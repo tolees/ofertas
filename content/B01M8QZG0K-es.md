@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M8QZG0K-es Alfa Costurero Creativity Box Goma Azul 29x12.5x29 cm'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

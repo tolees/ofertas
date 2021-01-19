@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPCZ79-es Kipling KiplingDrawpackMujerBolsos totesMulticolor Camo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

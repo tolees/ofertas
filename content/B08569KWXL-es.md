@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08569KWXL-es Sensilis Upgrade AR - Crema Reafirmante Calmante y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.96 EUR
 currency: EUR
 price: 30.96

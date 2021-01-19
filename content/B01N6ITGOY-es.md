@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6ITGOY-es REPLAY Am2453.000.a3001e Cinturón Negro Black 98 125 Talla...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3N1ZJG-es Tommy Hilfiger Tommy Sporty Runner Zapatillas para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.44 EUR
 currency: EUR
 price: 59.44

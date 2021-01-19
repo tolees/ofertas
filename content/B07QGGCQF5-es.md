@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGGCQF5-es Rockport Briah Perforated Sling Back Sandalias de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

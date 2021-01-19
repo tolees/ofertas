@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QNSGSQ4-es Lámpara de mesita de Noche Redonda Minimalista de Madera...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.33 EUR
 currency: EUR
 price: 13.33

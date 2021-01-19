@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMLLSLW-es New Balance 373 Zapatillas para Hombre Azul Navy Navy 42.5 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40 EUR
 currency: EUR
 price: 40

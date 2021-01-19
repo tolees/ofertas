@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AYZZUDC-es Audio-Technica ATH-ADG1 X Aire Libre Juegos de Alta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 195.0 EUR
 currency: EUR
 price: 195.0

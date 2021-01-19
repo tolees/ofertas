@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RMRKK3-es Silver HT - Funda para eReader Libro electrónico eBook de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

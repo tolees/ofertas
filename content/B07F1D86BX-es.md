@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1D86BX-es Armani Exchange - Crossbody Bag Colorful Shoppers y bolsos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 50.88 EUR
 currency: EUR
 price: 50.88

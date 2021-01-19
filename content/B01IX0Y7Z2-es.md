@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IX0Y7Z2-es Triumph Beauty-Full Essential WDP Sujetador para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

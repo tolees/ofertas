@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083VZWP5B-es MarinoBIRD para X-B0X360 Host Conversion Line Línea de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.32 EUR
 currency: EUR
 price: 1.32

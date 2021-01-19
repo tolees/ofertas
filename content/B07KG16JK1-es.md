@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG16JK1-es PUMA Hybrid Fuego Zapatillas de Running para Hombre Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.93 EUR
 currency: EUR
 price: 29.93

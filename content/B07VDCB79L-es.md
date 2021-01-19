@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDCB79L-es LTB Lance B Pantalones Cortos Azul Gorbi Undamaged Wash...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.53 EUR
 currency: EUR
 price: 17.53

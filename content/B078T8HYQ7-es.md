@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T8HYQ7-es Columbia Minx Mid III WP Omni-Heat Botas para Niños Gris...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.85 EUR
 currency: EUR
 price: 24.85

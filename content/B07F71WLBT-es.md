@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F71WLBT-es Regufibra | Potente prebiótico con aloe vera e inulina [10...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

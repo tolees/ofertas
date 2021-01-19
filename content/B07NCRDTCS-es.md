@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCRDTCS-es Naturalia Somier Dreams Tubo de Acero y láminas de chopo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

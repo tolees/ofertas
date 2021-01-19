@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005PQOOP6-es Lékué Protection - Pinza para Cocina Silicona Color...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

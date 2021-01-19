@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CP8QY9-es LNIEGE SMT SMD Teléfono Celular TF Micro SD Ranuras para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

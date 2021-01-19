@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NBB2S0K-es Compex SP 4.0. Electroestimulador Unisex'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 439.0 EUR
 currency: EUR
 price: 439.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNJF8Q6-es adidas Tiro Du BC M Bolsa Lona de Deporte Unisex Adulto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.25 EUR
 currency: EUR
 price: 29.25

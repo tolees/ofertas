@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I7P2RUG-es Sunburst Snacks Sunburst maní y miel de chile asado NO OGM...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

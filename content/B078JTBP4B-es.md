@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078JTBP4B-es Safta Bolsa De Deporte Real Sporting De Gijon Oficial...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

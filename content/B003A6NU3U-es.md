@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003A6NU3U-es Sigma DC - Objetivo para Nikon 17-50mm f/2.8 estabilizador...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 294.92 EUR
 currency: EUR
 price: 294.92

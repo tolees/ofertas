@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LMCWAYE-es Joseph Joseph Palm Scrub Cepillo Dispensador Verde...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G321PVK-es SoccerStarz SOC1059 Barcelona Lionel Messi-Home Kit 2019...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

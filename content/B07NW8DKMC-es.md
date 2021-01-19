@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW8DKMC-es Skechers Street Cleats-Luckier Zapatillas para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.04 EUR
 currency: EUR
 price: 27.04

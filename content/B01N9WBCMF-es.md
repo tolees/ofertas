@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9WBCMF-es Bersuse 100% Algodón - Anatolia XXL Manta Toalla Turca -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 73.49 EUR
 currency: EUR
 price: 73.49

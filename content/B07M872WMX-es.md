@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M872WMX-es adidas Galaxy 4 Zapatillas de Entrenamiento para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.01 EUR
 currency: EUR
 price: 32.01

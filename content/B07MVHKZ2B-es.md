@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVHKZ2B-es Napapijri Semiury WOM Gorro de Punto Morado Purple Wine...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.4 EUR
 currency: EUR
 price: 29.4

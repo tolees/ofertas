@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8DTKNM-es Blink XT2 | Cámara de seguridad inteligente exteriores e...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 224.99 EUR
 currency: EUR
 price: 224.99

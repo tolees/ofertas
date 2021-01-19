@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XNXY3DP-es ngzhongtuhengtongjianzhugongchen- Clip de cinturón de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.32 EUR
 currency: EUR
 price: 1.32

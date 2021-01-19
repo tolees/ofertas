@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075L7KZXQ-es Auriculares Bluetooth V4.1 Yuanguo Auriculares V4.1...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

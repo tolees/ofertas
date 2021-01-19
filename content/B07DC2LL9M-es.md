@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC2LL9M-es PUMA Vista Zapatillas Unisex Adulto Negro Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.35 EUR
 currency: EUR
 price: 34.35

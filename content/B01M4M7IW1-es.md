@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4M7IW1-es BRA Efficient Cazo de Cocina Acero INOX Nailon y Silicona...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

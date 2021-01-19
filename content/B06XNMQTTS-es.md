@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XNMQTTS-es Bosch Serie 4 DFT63AC50 - Campana 360 m³/h...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 75.69 EUR
 currency: EUR
 price: 75.69

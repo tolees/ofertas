@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVRGLM5-es Lámpara LED de Armario 10 LED USB Recargable Barra de Luz...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

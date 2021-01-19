@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF3NNHX-es F1 2019 - Anniversary Edición'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

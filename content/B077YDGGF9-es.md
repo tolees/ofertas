@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YDGGF9-es HIKARO Pantalones Jogger Hombre Verde Khaki 50 Talla del...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

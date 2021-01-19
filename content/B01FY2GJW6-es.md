@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FY2GJW6-es Green2Print Tóner Negro 2500 páginas sustituye a Lexmark...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

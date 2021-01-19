@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0778PP9CL-es FIRENZE ARTEGIANI.Bolso de Mujer Piel auténtica.Bolso Tote...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

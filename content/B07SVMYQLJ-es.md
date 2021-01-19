@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVMYQLJ-es L Oreal Men Expert Pure Charcoal Gel Limpiador Anti-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AV68JXC-es Montblanc Agua de perfume para mujeres - 50 gr.'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

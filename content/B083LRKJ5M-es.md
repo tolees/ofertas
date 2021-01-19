@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LRKJ5M-es XINYUNEW Funda LG K30 360 Grados Protective+Pantalla de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.66 EUR
 currency: EUR
 price: 9.66

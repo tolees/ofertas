@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HSJS3L3-es BRICOMIRAS JAMONERO Modelo BANQUETA Color Natural Regalo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

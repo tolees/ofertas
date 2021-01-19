@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB398FW-es Funko Modern Family - Figura de Vinilo Mitch'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0731GZWHR-es modamoda de - cuero italiano de embrague T151 Pequeño...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

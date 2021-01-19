@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WB1OSPO-es Dewalt D25133K-QS Martillo Ligero Combinado 800W 3...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 138.97 EUR
 currency: EUR
 price: 138.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CFWBKKB-es Pasito a Pasito Canastilla Total - Bolsa unisex color blanco'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.45 EUR
 currency: EUR
 price: 36.45

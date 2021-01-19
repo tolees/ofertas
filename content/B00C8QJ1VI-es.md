@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C8QJ1VI-es Superga 2750 COTU Classic Zapatillas Unisex Marrón Brown...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.55 EUR
 currency: EUR
 price: 25.55

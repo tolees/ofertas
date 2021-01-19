@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P882MXP-es deAO Conjunto Aéreo de Juguete a Fricción 12 Figuras...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

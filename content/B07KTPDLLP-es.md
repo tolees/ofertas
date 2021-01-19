@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTPDLLP-es Scuderia Ferrari Reloj de Pulsera 830595'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 157.5 EUR
 currency: EUR
 price: 157.5

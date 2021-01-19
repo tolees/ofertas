@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YQYKDH-es Oihxse Colorido Gradual Cristal Estilo Case Compatible con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

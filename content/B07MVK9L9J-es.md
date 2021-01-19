@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVK9L9J-es Kipling - Baroe Monederos Mujer Rosa Metallic Rose...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

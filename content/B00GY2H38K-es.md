@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GY2H38K-es GASA ESTERIL INDAS CAJA 100 UNID SOBRE 5 U'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.68 EUR
 currency: EUR
 price: 5.68

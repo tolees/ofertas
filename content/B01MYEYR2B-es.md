@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYEYR2B-es Beurer MG850 - Bastón de Masaje intenso con 2 intensidades...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 144.99 EUR
 currency: EUR
 price: 144.99

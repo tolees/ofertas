@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0837JTT7H-es Altavoz Bluetooth portátil con Bajos potentes Rango de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

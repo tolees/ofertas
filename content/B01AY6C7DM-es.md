@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AY6C7DM-es UGG Female Mini Bailey Button II Classic Boot Chestnut 5 UK'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 134.98 EUR
 currency: EUR
 price: 134.98

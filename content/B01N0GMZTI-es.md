@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0GMZTI-es Indoor Copa JR'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

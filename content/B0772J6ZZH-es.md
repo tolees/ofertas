@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772J6ZZH-es Marca Amazon - MERAKI POETME005 Pantalones Cortos Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7QDO7M-es Memoria Flash USB 3.1 de Estado sólido SanDisk...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 67.19 EUR
 currency: EUR
 price: 67.19

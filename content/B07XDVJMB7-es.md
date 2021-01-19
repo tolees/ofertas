@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDVJMB7-es TOUCHBeauty Rizador de Pestañas Eléctrico Rizador de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

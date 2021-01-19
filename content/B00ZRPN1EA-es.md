@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZRPN1EA-es Bvlgari Au The Blanc - Agua de colonia 75 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.1 EUR
 currency: EUR
 price: 48.1

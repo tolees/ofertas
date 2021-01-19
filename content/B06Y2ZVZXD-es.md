@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2ZVZXD-es Joma Olimpia Pantalones Cortos Hombre Negro S'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

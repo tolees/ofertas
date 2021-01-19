@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAE51SO-es Air Wick Freshmatic - Recambios de Ambientador Spray...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

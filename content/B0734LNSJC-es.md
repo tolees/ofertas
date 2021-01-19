@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0734LNSJC-es TAZA CERAMICA 325 ML CON CAJA | BATMAN LOGO'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

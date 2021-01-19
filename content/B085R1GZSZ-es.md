@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085R1GZSZ-es Finocam - Agenda Curso 2020-2021 para Secundaria Octavo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

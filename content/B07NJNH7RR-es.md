@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJNH7RR-es NIKE Club Short JSY Pantalones Cortos Hombre Gris Dk Grey...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

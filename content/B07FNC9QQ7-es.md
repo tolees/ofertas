@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNC9QQ7-es Syoss Champú Oleo 21 3 Pack 3 x 500 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

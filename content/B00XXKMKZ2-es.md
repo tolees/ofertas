@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XXKMKZ2-es Adidas AA2297 Calcetines Unisex Blanco 47 - 50 EU Paquete...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

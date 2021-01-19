@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IFDRN44-es 3pcs Pegatinas de Consola Cubierta Adhesiva Hexágono...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

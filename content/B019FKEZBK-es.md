@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019FKEZBK-es BÉABA - Babycook Duo Robot de cocina 4 en 1 Néon'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

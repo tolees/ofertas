@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085MCSYNR-es Agger Silicona Biberón Botella de alimentación a Prueba de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.57 EUR
 currency: EUR
 price: 2.57

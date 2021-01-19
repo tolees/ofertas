@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872RV6CY-es iVANKY Repetidor HDMI Amplificador HDMI 4K @ 60Hz Hembra a...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

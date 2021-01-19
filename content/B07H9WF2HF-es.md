@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9WF2HF-es Kit de accesorios para XIAOMI MI Robot piezas de repuesto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

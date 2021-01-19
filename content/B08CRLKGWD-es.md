@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRLKGWD-es Panamar USB portátil 3.1 Tipo-C Macho a USB 3.0 A Hembra...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

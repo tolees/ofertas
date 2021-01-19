@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JD1MCL5-es Nihlsfen Ratón USB para Juegos con Cable Z-7600...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.12 EUR
 currency: EUR
 price: 5.12

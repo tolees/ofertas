@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006J1S9SY-es Braun Silk-épil 5 - Depiladora para mujer con 3...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 51.11 EUR
 currency: EUR
 price: 51.11

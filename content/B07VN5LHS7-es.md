@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN5LHS7-es StarWare - Adaptador HDMI a VGA Macho a Hembra para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.1 EUR
 currency: EUR
 price: 10.1

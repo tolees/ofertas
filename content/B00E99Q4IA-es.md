@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E99Q4IA-es Philips Pro HPS910/00 - Secador de Pelo Profesional Motor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

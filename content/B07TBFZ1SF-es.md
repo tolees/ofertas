@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBFZ1SF-es Quiksilver Mission-Chaqueta para Nieve para Hombre Castle...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 74.02 EUR
 currency: EUR
 price: 74.02

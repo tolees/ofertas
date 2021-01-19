@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ3PFTZ-es Puma Icra Trainer SD Zapatillas Unisex adulto Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.2 EUR
 currency: EUR
 price: 35.2

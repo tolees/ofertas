@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MG00CTF-es Speedo Sea Squad Armbands Aprender a Nadar Unisex niños...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

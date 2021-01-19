@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W9RSYIC-es Calvin Klein Radiant Cotton-Bikini Lencería Blanco White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

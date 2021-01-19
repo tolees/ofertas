@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y65KF1Q-es Tommy Hilfiger STSSLD99003 Pantalones de traje para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.39 EUR
 currency: EUR
 price: 48.39

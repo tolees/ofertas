@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GH3RHVH-es Skechers Stamina-Contic Zapatillas para Hombre Gris Gray &...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.26 EUR
 currency: EUR
 price: 41.26

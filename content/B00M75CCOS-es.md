@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M75CCOS-es Imunoglukan jarabe 120ml - Complemento alimenticio con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.46 EUR
 currency: EUR
 price: 11.46
@@ -26,9 +26,9 @@ Tienes [Imunoglukan jarabe 120ml - Complemento alimenticio  con vitamina C que c
 
 ℹ️:
 
-- El producto ayuda a que el sistema inmunitario funcione correctamente
-- La suspensión oral facilita la utilización y dosificación en los niños de corta edad, y permite adecuar la dosis en función del peso del niño
 - Complemento alimenticio a base de Imunoglukan y vitamina C que puede resultar de utilidad para ayudar a potenciar el correcto funcionamiento de las defensas naturales
+- La suspensión oral facilita la utilización y dosificación en los niños de corta edad, y permite adecuar la dosis en función del peso del niño
+- El producto ayuda a que el sistema inmunitario funcione correctamente
 - Imunoglukan P4H no está indicado en personas que estén en tratamiento con inmunosupresores, como es el caso de los trasplantados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00M75CCOS/?tag=tolees-21)

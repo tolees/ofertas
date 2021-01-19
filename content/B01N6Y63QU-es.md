@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6Y63QU-es Samsung Silicone Funda para smartphone Samsung Galaxy S8...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.74 EUR
 currency: EUR
 price: 17.74

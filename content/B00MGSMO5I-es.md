@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MGSMO5I-es Clips 539-6004-94 - Reloj de Pulsera Hombre Caucho Color...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.31 EUR
 currency: EUR
 price: 18.31

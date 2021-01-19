@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGCDQW4-es JBL Xtreme 2 - Altavoz BT portátil resistente al agua IPX7...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 183.2 EUR
 currency: EUR
 price: 183.2

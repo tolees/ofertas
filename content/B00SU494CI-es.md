@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SU494CI-es Todeco - Bouncer para Bebés Cuna Bouncer - Tamaño: 80 x 51...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.09 EUR
 currency: EUR
 price: 34.09

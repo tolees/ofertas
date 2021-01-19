@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HY4SMNQ-es Key chain Back To The Future - Llavero de Goma License Plate'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

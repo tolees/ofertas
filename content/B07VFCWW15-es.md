@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFCWW15-es WD My Passport Go 2 TB Disco duro sólido externo acabado...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 262.1 EUR
 currency: EUR
 price: 262.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079J5DBY6-es Tefal Daily Cook - Sartén de 20 cm antiadherente de acero...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

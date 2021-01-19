@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T42DHNJ-es GoPro HERO7 Black - Cámara de acción sumergible hasta 10 m...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 347.0 EUR
 currency: EUR
 price: 347.0

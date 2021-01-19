@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DPPWLH-es MASOMRUN Adaptador de Lector de Tarjeta SD Kit Conexión de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

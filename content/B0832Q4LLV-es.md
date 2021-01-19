@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0832Q4LLV-es Videocámara Videocamara Full HD 1080P 30FPS Videocámara...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVXDR8P-es TAIFU - Adaptador de alimentación CA 65 W Chargeur...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.08 EUR
 currency: EUR
 price: 5.08

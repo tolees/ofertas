@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB3HKHY-es Funko Pop Captain Marvel Vers Multicolor Talla única 36342'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.53 EUR
 currency: EUR
 price: 9.53

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV6YQYG-es Levi s 502 Regular Taper Jeans Azul Hawthorne Fog Adapt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.67 EUR
 currency: EUR
 price: 45.67

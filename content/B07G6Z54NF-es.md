@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G6Z54NF-es Casco Moto Modular ECE Homologado - YEMA YM-925 Casco de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 80.74 EUR
 currency: EUR
 price: 80.74

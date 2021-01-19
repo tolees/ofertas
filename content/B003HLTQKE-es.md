@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003HLTQKE-es Tabac Tabac Luxury Soap Box Jabón - 150 gr'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

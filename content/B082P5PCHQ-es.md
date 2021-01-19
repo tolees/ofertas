@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082P5PCHQ-es EShine Acabado Blanco 3 paneles de luz LED de 30 cm para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

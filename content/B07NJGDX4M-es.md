@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJGDX4M-es Ternua Long Island Chaqueta Hombre Whales Grey S'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

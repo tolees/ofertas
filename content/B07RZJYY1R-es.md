@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZJYY1R-es New Balance 574v2 Zapatillas para Hombre Azul Blue Sos 43 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

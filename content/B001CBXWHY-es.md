@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001CBXWHY-es Wolfcraft 623777000 5018000-1 Soporte para Cortar para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKLTRPV-es 6 Pares 7mm Pendientes pour Hombre Mujer Chico Unisex...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0751BYKW9-es Urvoix - Funda para Samsung Galaxy S8 función atril piel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

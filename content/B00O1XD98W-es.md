@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O1XD98W-es WIDMANN 23945 Hinchable Rock Guitarra One Size'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

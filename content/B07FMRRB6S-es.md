@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMRRB6S-es Adidas Terrex AX2R CP K Zapatillas de Senderismo Unisex...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.24 EUR
 currency: EUR
 price: 28.24

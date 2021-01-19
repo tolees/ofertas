@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYDSXXE-es Nike MD Runner 2 Zapatillas para Hombre Black/White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.89 EUR
 currency: EUR
 price: 46.89

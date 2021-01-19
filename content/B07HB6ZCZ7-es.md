@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB6ZCZ7-es Nike Wmns Free RN 5.0 Zapatillas de Atletismo para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.26 EUR
 currency: EUR
 price: 58.26

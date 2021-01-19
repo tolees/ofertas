@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KCHTM8C-es Maybelline Color Sensational Vivids 912 Electric Orange -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

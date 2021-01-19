@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BC5PZ7K-es Bourjois Le Petit Strober Iluminadores Tono 0 Universal -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.68 EUR
 currency: EUR
 price: 4.68

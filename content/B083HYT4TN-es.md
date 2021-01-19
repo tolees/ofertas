@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HYT4TN-es Snailax Masajeador de pies Shiatsu eléctrico con masaje de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 93.91 EUR
 currency: EUR
 price: 93.91

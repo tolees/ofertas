@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNMDL4V-es Jack & Jones Jjepaulos Polo SS Plus Azul Bright Cobalt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

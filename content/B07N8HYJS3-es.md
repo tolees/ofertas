@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8HYJS3-es Dim Soutien-Gorge Avec Armatures SUBLIM Dentelle Sujetador...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12 EUR
 currency: EUR
 price: 12

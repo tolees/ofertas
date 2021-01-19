@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016E7EBPM-es Toshiba Hayabusa - Memoria USB 2.0 de 64 GB color blanco'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

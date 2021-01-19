@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076H81DZC-es Carat Shop- Colgante Charm Lightning Bolt Harry Potter...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.11 EUR
 currency: EUR
 price: 5.11

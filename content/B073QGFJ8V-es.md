@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QGFJ8V-es FIDECO Docking Station Aluminio USB 3.0 Base de conexión...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.24 EUR
 currency: EUR
 price: 35.24

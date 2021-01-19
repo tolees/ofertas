@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N13XY2Y-es Skechers Women s Go Run Fast Trainers Blue Navy...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

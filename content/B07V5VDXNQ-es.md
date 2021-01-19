@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5VDXNQ-es Tommy Hilfiger - Th Metro Ns Trifold Carteras Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.13 EUR
 currency: EUR
 price: 38.13

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0881HWQQ3-es Mooness - Funda de piel sintética para Xiaomi Redmi...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

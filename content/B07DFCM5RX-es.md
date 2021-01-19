@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFCM5RX-es Funko- Pop Bobble Marvel Studios 10: Iron Man Chrome...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

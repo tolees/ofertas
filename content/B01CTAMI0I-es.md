@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CTAMI0I-es 226ERS Recovery Drink Recuperador a base de Proteína...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

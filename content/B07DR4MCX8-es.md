@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DR4MCX8-es hummel Actus Trainer Zapatillas Unisex Adulto Blanco White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

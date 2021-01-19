@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLR64CC-es DragonSwordlinsu COOSUN - Cortinas opacas para perros...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 72.38 EUR
 currency: EUR
 price: 72.38

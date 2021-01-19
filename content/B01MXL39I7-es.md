@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXL39I7-es L Oréal Paris Colorista Coloración Temporal Colorista...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 0.5 EUR
 currency: EUR
 price: 0.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WMQN6VB-es Jack & Jones JCOMOON Crew Neck Suéter Negro Black Fit:...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

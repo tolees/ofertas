@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WF75GBW-es Sntieecr 36 piezas tamaño A5 brillante tela hojas con 60...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

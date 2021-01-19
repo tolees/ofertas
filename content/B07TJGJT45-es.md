@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJGJT45-es Superdry International Chino Short Pantalones Cortos Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.78 EUR
 currency: EUR
 price: 26.78

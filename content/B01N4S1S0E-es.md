@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4S1S0E-es BHR 11797 Casco Moto Demi-Jet Linea One 801 Verde XS'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.65 EUR
 currency: EUR
 price: 41.65

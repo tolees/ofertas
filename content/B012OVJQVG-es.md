@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012OVJQVG-es DC Figura de Vinilo Batman colección Arkham Knight Funko 6383'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

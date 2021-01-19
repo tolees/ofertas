@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYHC69Z-es Levi s 501 Original Pantalones Cortos Azul Athens Mid...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

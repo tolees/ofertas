@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J9VFFH4-es SunTop Linterna LED LED Lámpara de Inspección Recargable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

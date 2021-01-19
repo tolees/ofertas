@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074K76ZZZ-es Taurus Tropicano Java 2100 IP Termoventilador calefactor 2...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

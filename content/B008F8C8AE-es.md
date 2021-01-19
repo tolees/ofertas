@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008F8C8AE-es Singer 1409 Promise - Máquina de Coser Mecánica 9 puntadas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 100.63 EUR
 currency: EUR
 price: 100.63

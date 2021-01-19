@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FMD0CMU-es Jocca 5529 Freidora sin aceite 1500 W Acero inoxidable Plata'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.7 EUR
 currency: EUR
 price: 64.7

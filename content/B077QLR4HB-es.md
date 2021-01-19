@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QLR4HB-es Reebok Princess Zapatillas para Mujer Blanco White 0 42 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.73 EUR
 currency: EUR
 price: 31.73

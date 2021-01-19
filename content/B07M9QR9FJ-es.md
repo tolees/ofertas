@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9QR9FJ-es Lee Malone Jeans True Blue Hq 30W / 34L para Hombre'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.35 EUR
 currency: EUR
 price: 22.35

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014GNJYFS-es Skechers 11936 Zapatillas para Mujer Blanco White/Silver...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

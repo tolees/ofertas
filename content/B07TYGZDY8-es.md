@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYGZDY8-es Levi s 502 Regular Taper Jeans Negro Adjustable Black 0751...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.21 EUR
 currency: EUR
 price: 35.21

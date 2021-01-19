@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPDXMT-es Kipling KiplingTotepackMujerBolsos maletínGris D Carbon...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.29 EUR
 currency: EUR
 price: 21.29

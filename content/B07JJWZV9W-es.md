@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJWZV9W-es Almohadilla Eléctrica Térmica 50 x 60 cm con Función de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FFCK3E-es Olimp Sport Nutrition Suplemento Alimenticio Vita-Min...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.53 EUR
 currency: EUR
 price: 10.53

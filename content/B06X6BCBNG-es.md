@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X6BCBNG-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 56.69 EUR
 currency: EUR
 price: 56.69

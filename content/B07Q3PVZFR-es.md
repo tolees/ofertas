@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3PVZFR-es Orimade Adhesivo Estantes Cesta para Ducha con 5 Ganchos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.87 EUR
 currency: EUR
 price: 20.87

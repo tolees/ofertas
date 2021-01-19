@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQSZG7C-es Oral-B Genius Edición Especial Cepillo Eléctrico Azul'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNCVSWH-es Calcetines de Lana Merino 3 Pares Gris EU 43-47'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

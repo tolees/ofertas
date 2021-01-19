@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZ31SL-es Geox D New ANNYA A Zapatos de Tacón para Mujer Negro Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.96 EUR
 currency: EUR
 price: 37.96

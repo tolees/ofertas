@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BFQLD4A-es Bisk 00403 Deco Portarollos con Tapa 11.5 x 8.5 x 13.5 cm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.62 EUR
 currency: EUR
 price: 17.62

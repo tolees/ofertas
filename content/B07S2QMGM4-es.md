@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2QMGM4-es New Balance 574v2 Zapatillas para Mujer Negro Black/Grey...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.87 EUR
 currency: EUR
 price: 34.87

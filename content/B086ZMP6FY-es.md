@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZMP6FY-es B Blesiya 10 Pulgadas Borrando Parcialmente La Escritura A...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.57 EUR
 currency: EUR
 price: 26.57

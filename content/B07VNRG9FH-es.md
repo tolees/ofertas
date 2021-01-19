@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNRG9FH-es Cofemy Cápsula de café recargable filtro reutilizable Taza...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.56 EUR
 currency: EUR
 price: 8.56

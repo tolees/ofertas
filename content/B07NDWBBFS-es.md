@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDWBBFS-es Adidas by Nixon Reloj Analógico para de con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 93.33 EUR
 currency: EUR
 price: 93.33

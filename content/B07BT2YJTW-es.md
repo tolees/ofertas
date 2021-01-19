@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BT2YJTW-es Piz Buin Tan & Protect Protector Solar en Spray Acelerador...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

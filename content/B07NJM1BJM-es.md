@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJM1BJM-es IKOHS Mambo VG301 - Aspiradora Vertical sin Cable 3 en 1...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

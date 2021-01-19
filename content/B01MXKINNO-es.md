@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXKINNO-es Pulsar Reloj de Pulsera PZ4006X1'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 65.55 EUR
 currency: EUR
 price: 65.55

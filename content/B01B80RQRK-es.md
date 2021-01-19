@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B80RQRK-es Helly Hansen Rigging Shell Jacket Hombre Azul Navy 2XL'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 162.12 EUR
 currency: EUR
 price: 162.12

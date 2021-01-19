@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBG4D1X-es Philips Avent Scf813/14 - Biberón Anti Cólicos con Sistema...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

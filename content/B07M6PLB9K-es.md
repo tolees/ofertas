@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6PLB9K-es TACKLIFE Divisor de Manguera Válvula de Doble Salida para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

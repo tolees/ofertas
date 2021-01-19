@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793S6GZV-es adidas SST TP Pantalón Hombre Rojo Escarl L'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

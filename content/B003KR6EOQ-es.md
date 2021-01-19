@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003KR6EOQ-es Kyocera Tk-160 Tóner color negro 1T02LY0NL0 para Ecosys...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

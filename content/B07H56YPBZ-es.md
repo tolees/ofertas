@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H56YPBZ-es X-TIGER Ciclismo Maillots para Hombres con Tirantes Manga...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

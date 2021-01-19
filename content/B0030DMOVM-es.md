@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0030DMOVM-es Bankers Box Earth Series - Maxi contenedor de archivos marrón'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

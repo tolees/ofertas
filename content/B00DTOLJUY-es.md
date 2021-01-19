@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DTOLJUY-es H.Koneig NV6200 Limpiador a Vapor Vaporeta Potencia 2000 W...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

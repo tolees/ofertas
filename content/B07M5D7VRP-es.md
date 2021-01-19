@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5D7VRP-es Salewa WS Alpenviolet Mid GTX Zapatos de High Rise...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.83 EUR
 currency: EUR
 price: 59.83

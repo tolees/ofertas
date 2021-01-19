@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DV5CNQA-es Superga Classic Zapatillas Unisex Adulto Marrón Brown Dk...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.8 EUR
 currency: EUR
 price: 38.8

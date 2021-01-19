@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXVN6PH-es Skechers Men s Stamina Cutback Trainers Azul Navy...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

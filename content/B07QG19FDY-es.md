@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QG19FDY-es Advance Veterinary Diets Weight Balance - Pienso para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

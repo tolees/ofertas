@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MYYUFZK-es Maybelline New York - Color Drama Pintalabios Tono 410'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

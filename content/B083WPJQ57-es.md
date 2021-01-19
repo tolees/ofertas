@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083WPJQ57-es IKOHS FLOWIND - Ventilador de Techo con Luz Diseño...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 173.8 EUR
 currency: EUR
 price: 173.8

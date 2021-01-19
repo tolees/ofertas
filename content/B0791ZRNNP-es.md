@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0791ZRNNP-es NIKE Pantalones Training Parque 18 Fútbol Nero BLU Bianco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.96 EUR
 currency: EUR
 price: 21.96

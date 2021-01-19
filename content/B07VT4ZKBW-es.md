@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VT4ZKBW-es Skechers GO Run Pulse Zapatillas para Mujer Blanco Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.22 EUR
 currency: EUR
 price: 34.22

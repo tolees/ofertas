@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SD13YQP-es PUMA Carina L PS Zapatillas para Niñas Blanco White/Gulf...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.72 EUR
 currency: EUR
 price: 17.72

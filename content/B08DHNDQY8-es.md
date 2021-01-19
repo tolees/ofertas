@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHNDQY8-es VPbao - 50 hojas de papel de origami para álbumes de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.47 EUR
 currency: EUR
 price: 5.47

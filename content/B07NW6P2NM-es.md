@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW6P2NM-es Skechers Women s Street Cleats-LUCKIER Trainers White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

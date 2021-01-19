@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNGZ5VR-es Reebok Rapide Mu Zapatillas de Deporte para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 53.09 EUR
 currency: EUR
 price: 53.09

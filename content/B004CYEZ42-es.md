@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004CYEZ42-es Victoria Inglesa Elastico Tenido Punt - Zapatillas de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

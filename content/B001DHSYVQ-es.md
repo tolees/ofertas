@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001DHSYVQ-es Brother LC1100HYBK - Cartucho de tinta negro de larga...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.41 EUR
 currency: EUR
 price: 22.41

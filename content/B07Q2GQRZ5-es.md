@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2GQRZ5-es Under Armour Women s Atlantic Dune T Dusch-& Badeschuhe...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

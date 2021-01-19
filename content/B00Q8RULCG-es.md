@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q8RULCG-es adidas Originals Stan Smith CF C Zapatillas Unisex Niños...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.97 EUR
 currency: EUR
 price: 37.97

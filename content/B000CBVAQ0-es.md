@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CBVAQ0-es Toppik Fibras Capilares Castaño Oscuro Fibras de Queratina...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.63 EUR
 currency: EUR
 price: 14.63

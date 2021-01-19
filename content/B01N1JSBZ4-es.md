@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1JSBZ4-es PRO PRBT0018 - Bote Porta Herramientas Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TMRWS8-es AnamSafdarButt59 Estante de Secado portátil Desmontable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013W2WXSO-es OTG USB 2.0 Flash Drive Colourstone Micro USB 2.0 OTG Para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

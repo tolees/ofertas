@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077V65FJT-es Merrell M-Moab Fst Low A/C Waterproof Zapatillas de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.35 EUR
 currency: EUR
 price: 31.35

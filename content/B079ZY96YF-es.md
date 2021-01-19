@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZY96YF-es Skechers Women s Flex Appeal 3.0 Trainers Black Black Knit...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 50.91 EUR
 currency: EUR
 price: 50.91

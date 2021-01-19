@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1HP84Y-es Kipling ONALO PACKABLE - Bolsa de viaje 25 liters Morado...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.66 EUR
 currency: EUR
 price: 32.66

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F344WXM-es Helly Hansen - HH Racing Bag Shoppers y Bolsos de Hombro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

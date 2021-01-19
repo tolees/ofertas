@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCJC7S5-es MEDION ERAZER X58426 - Monitor Gaming Curvo de 80.1 cm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

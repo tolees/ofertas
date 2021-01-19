@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WWCLH5-es Maclaren Quest - Silla de paseo para recién nacidos hasta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 199 EUR
 currency: EUR
 price: 199

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S9I77DS-es AVAX DT-7 - Digital LCD Food Thermometer Kitchen Cooking...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

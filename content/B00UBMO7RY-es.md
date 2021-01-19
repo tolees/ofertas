@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UBMO7RY-es HP CF401X 201X Cartucho de Tóner Original de alto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 96.89 EUR
 currency: EUR
 price: 96.89

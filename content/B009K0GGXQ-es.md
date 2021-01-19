@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009K0GGXQ-es Bella Aurora Splendor Crema Facial Reafirmante Cuello y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2HR4QN-es Diamante - grande 42cm/16 5 en artesanal clásico ajedrez...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.71 EUR
 currency: EUR
 price: 45.71

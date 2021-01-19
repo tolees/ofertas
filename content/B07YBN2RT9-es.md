@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBN2RT9-es Naruto Ultimate Ninja Storm 3 Full Burst Code In a Box'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.84 EUR
 currency: EUR
 price: 14.84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3X3FH1-es New Balance 997H h Zapatillas para Hombre Azul Blue Hbq 43 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 50.5 EUR
 currency: EUR
 price: 50.5

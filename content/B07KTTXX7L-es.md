@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTTXX7L-es adidas Adilette Shower Slide Sandal Mens Core...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

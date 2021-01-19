@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GHOKVC0-es Concordia'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010DH4DJ8-es Zwilling Bela - Set de cubiertos de mesa 42 piezas acero...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 56.78 EUR
 currency: EUR
 price: 56.78

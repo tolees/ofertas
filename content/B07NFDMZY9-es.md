@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFDMZY9-es Valentino by Mario ValentinoAudreyMujerCarteras de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.4 EUR
 currency: EUR
 price: 52.4

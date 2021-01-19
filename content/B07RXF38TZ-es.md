@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXF38TZ-es EMS Hips Electroestimulador Muscular Gluteos Estimulador...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

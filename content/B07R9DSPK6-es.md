@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R9DSPK6-es Herbal Essences Acondicionador - 1 Unidad'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.84 EUR
 currency: EUR
 price: 1.84

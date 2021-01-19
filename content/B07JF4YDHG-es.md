@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JF4YDHG-es Abanderado Lote x4 Camisetas Tirantes algodón Ropa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

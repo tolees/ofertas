@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWXN91V-es World Rally Championship 8 WRC 8 - Edición Coleccionista...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.77 EUR
 currency: EUR
 price: 64.77

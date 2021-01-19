@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JKCS2E0-es Memoria Flash USB 128MB 10 Piezas Pen Drives - Pequeña...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.56 EUR
 currency: EUR
 price: 21.56

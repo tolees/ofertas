@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EFT1M3K-es SmartEra® Ilusión óptica 3D de Star Wars Darth Vader 7...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

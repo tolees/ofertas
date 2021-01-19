@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJ5SZWV-es ETEPON Multímetro Digital 6000 Cuentas para Mide Voltaje...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

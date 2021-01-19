@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTGMR4B-es LARNMERN Zapatillas de Seguridad para Hombre Verano Ligero...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30 EUR
 currency: EUR
 price: 30

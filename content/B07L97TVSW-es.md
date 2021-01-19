@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L97TVSW-es Under Armour Rival Fleece FZ Parte Superior del...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.75 EUR
 currency: EUR
 price: 26.75

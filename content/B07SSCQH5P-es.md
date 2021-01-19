@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSCQH5P-es Coronel Tapiocca Maletín Ordenador Red Azul Hombre'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.03 EUR
 currency: EUR
 price: 22.03

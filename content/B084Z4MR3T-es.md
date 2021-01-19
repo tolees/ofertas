@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084Z4MR3T-es XTI 49684 Deportivas XTI Hombre Deportivos Blanco 41'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

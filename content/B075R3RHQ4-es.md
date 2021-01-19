@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R3RHQ4-es New Balance Trail Kaymin Gore Tex Zapatillas de Running...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.7 EUR
 currency: EUR
 price: 47.7

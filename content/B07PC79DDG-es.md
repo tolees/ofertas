@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PC79DDG-es American Tourister Jetglam Spinner S Equipaje de Mano 55...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.46 EUR
 currency: EUR
 price: 64.46

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1LXP6Z-es Buffalo Chai Zapatillas Altas para Mujer Beige Beige 000...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.5 EUR
 currency: EUR
 price: 52.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMRPX8P-es Nike Air MAX Graviton Zapatillas de Running para Asfalto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.22 EUR
 currency: EUR
 price: 36.22

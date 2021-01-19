@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z9B4WKH-es B Blesiya Cuchara De Arena para Gatos De Metal con Mango -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.04 EUR
 currency: EUR
 price: 18.04

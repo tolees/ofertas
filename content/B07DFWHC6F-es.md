@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFWHC6F-es New Balance 247v2 Zapatillas para Mujer Verde Faded...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.34 EUR
 currency: EUR
 price: 33.34

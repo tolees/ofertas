@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4P1KQB-es Triumph Tempting Lace Tai Braguita Azul Peacock 1512 36...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

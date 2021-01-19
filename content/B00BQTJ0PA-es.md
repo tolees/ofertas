@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BQTJ0PA-es HP CF373AM 125A Cartucho de Tóner Original 3 unidades cian...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 179 EUR
 currency: EUR
 price: 179

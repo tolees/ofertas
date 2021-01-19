@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HFPFC7-es Sisbelt Forte Complemento Alimenticio con Berenjena y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

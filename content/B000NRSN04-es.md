@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NRSN04-es Converse Chuck Taylor All Star Hi Top Zapatillas Unisex...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 51.96 EUR
 currency: EUR
 price: 51.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBTP9GR-es Magicfly Sujetador Organizador Plegable Organizador de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082DHZKFN-es DANISH ENDURANCE Sujetador Mujer en Coton organico Pack de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

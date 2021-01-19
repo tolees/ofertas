@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKZRRQX-es Calvin Klein Hombre - Pack de 3 bóxers de tiro medio -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.14 EUR
 currency: EUR
 price: 13.14

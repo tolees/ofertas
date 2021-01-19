@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBK63VW-es Toyvian Largo Clip Recto Trenza Horquillas para El Cabello...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.13 EUR
 currency: EUR
 price: 3.13

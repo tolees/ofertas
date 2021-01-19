@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG2W14R-es PUMA RS 9.8 Space Zapatillas Unisex Adulto Whisper White-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

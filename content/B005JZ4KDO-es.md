@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005JZ4KDO-es Moulinex Toast & Grill TL6008 - Tostador y horno 2 en 1...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

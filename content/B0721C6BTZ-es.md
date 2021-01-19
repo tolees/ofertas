@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721C6BTZ-es Dishonored: La Muerte Del Forastero'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

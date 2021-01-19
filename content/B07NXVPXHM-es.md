@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXVPXHM-es Skechers Men s Skech-Flex 3.0-VERKO Trainers Black Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.21 EUR
 currency: EUR
 price: 35.21

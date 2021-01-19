@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWN9SGL-es Amazon Essentials Fashion-Swim-Trunks Marino US S EU S'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.24 EUR
 currency: EUR
 price: 12.24

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGBYSVN-es PUTORSEN® Pesado Soporte de Escritorio para Monitor de Las...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 84.88 EUR
 currency: EUR
 price: 84.88

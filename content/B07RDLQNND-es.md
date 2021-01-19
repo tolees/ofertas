@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDLQNND-es Salomon RX Moc 4.0 W Calzado de recuperación para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

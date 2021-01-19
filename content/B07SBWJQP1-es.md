@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBWJQP1-es PUMA ST Runner V2 NL JR Zapatillas Unisex niños Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

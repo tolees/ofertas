@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGRWXTX-es HUGO Reloj Analógico para Unisex Adulto de Cuarzo con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 63.0 EUR
 currency: EUR
 price: 63.0

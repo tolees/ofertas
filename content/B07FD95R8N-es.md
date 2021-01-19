@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FD95R8N-es BLEND 20708180 Polo Rojo Mineral Red 73817 X-Large para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

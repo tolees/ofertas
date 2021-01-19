@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU98WHH-es dockers Alpha Original Khaki Slim Tapered-Stretch Twill...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.02 EUR
 currency: EUR
 price: 33.02

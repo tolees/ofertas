@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073JCS7CY-es SAMSONITE Karissa Biz - Bailhandle 15.6" 2 Computer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 122.58 EUR
 currency: EUR
 price: 122.58

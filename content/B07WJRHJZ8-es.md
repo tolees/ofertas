@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJRHJZ8-es Rodillo de la Fascia Rodillo de Espuma de Eva Port¨¢Til...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

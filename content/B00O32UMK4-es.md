@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O32UMK4-es Bourjois Contour Edition Perfilador de Labios Tono 03...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

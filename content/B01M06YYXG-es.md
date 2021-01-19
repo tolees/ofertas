@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M06YYXG-es CORSEE Kit Cámaras de Vigliancia Seguridad Vigilancia...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 289.99 EUR
 currency: EUR
 price: 289.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFJ6BKZ-es Nike W M2k Tekno Zapatillas de Gimnasia para Mujer Verde...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.98 EUR
 currency: EUR
 price: 57.98

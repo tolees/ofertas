@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PDR37AU-es Canson 406323 - Papel milimetrado 12 hojas'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.73 EUR
 currency: EUR
 price: 1.73

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XC7CM99-es Giochi Preziosi - Camión de policía con 2 Personajes y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.61 EUR
 currency: EUR
 price: 25.61

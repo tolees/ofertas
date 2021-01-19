@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BF8OLQE-es Astor Mattitude Foundation Base de Maquillaje Tono 102'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

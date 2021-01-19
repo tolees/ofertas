@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077H15GFF-es Chantelle Champs Elysees Balconette Marfil Dune 97 Talla...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.18 EUR
 currency: EUR
 price: 25.18

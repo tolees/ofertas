@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N66NRJB-es Puma St Trainer EVO AC Jr Zapatillas Infantil Rosa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.56 EUR
 currency: EUR
 price: 13.56

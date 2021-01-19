@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYT4TW-es PUMA Axis Zapatillas para Hombre Azul Peacoat White 37.5 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.15 EUR
 currency: EUR
 price: 36.15

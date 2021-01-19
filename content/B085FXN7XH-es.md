@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085FXN7XH-es 6PCS PATAZOK Esponjas de Silicona para Cocina Fregadora de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0012VI7QU-es Delonghi ESAM 5500.M Máquina De Espresso Automática 1350 W...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 492.26 EUR
 currency: EUR
 price: 492.26

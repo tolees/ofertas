@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N24PKKU-es Skechers Women Synergy 2.0 Fashion Sneaker Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

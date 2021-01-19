@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VRKIZBI-es Honey Bear Cajón de efectivo de 16 pulgadas 5...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

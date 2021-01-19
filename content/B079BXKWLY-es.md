@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079BXKWLY-es Puma Vikky Platform Ribbon S Zapatillas para Mujer Rosa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

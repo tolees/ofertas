@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0078QGSDC-es Timex T2N794 - Reloj análogico de cuarzo con correa de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.36 EUR
 currency: EUR
 price: 49.36

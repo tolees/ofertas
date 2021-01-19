@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKLMSJK-es PUMA ESS Crew Sweat TR Big Logo Sweatshirt Hombre Gris...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

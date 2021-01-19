@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001E7LJIU-es BAUSCH + LOMB - SofLens® Daily Disposable - Lentes de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

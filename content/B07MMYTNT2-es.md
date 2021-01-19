@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMYTNT2-es Tacklife RTD35ACL/RTD34AC Herramienta multifunción...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.54 EUR
 currency: EUR
 price: 22.54

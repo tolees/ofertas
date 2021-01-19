@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFP361M-es Spin Master - Kit de Pulseras y collares para niños'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.4 EUR
 currency: EUR
 price: 26.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U27ZIVC-es dn-nightwear Mujer Albornoz/Bata SDB.7059 con Capucha...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

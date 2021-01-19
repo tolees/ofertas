@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZT1VZN-es Hugo BOSS Reloj Análogo clásico para Mujer de Cuarzo con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 200.95 EUR
 currency: EUR
 price: 200.95

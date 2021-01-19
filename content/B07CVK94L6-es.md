@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVK94L6-es Porsche Design Bolsa de ordenador portátil 15? azul'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 179.4 EUR
 currency: EUR
 price: 179.4

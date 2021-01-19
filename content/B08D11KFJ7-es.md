@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D11KFJ7-es WINMI para iPhone 12 Pro 6.1" Funda 360 Anillo iman...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.02 EUR
 currency: EUR
 price: 6.02

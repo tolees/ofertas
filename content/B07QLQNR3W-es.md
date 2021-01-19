@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLQNR3W-es Hombres Sombrero de Safari Bucket Hat Verano Protección UV...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.68 EUR
 currency: EUR
 price: 12.68

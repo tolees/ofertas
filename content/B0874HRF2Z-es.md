@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0874HRF2Z-es AYIYO - Pantalones cortos unisex para recién nacidos con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

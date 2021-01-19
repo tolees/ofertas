@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4FD67V-es Myprotein Vegan Protein Pancake Mix 1000g 1 Unidad 1000 g'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.41 EUR
 currency: EUR
 price: 15.41

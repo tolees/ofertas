@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005C5GNQS-es Cooler Master XDream i117 - Ventiladores de CPU Cross...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

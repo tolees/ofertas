@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QVH7T1-es Figura Vinyl Cuphead'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

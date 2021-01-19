@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PNUCGAY-es Gardena 18311-20 Pistola Gris Naranja embalado'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

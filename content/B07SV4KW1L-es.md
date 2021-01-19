@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SV4KW1L-es S&R Disco Tronzador Diamante 230 mm x22 2 para Hormigón...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07797WCHZ-es AUSTOR 16 Piezas Ganchos Cocina Adhesivos de Plástico para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

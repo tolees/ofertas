@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082P6FDKX-es Canadian Peak BONETEAK rol Unisex Marino L'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

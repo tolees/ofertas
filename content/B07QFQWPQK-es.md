@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFQWPQK-es G-STAR RAW Vetar Slim Chino Pantalones Beige Sahara...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.51 EUR
 currency: EUR
 price: 40.51

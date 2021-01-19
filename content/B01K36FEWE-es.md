@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K36FEWE-es Desconocido USB 2.0 MP3 Reproductor de Música Grabación...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

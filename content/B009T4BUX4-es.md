@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009T4BUX4-es Gin The Botanical s - Ginebra - Botella 70 cl'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.45 EUR
 currency: EUR
 price: 23.45

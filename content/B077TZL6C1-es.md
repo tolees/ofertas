@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TZL6C1-es Kipling Multiple Riñonera de Marcha 25 cm True Black'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N5TOVDA-es Braun Face 831 Beauty Edition - Cepillo de limpieza facial...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.8 EUR
 currency: EUR
 price: 37.8

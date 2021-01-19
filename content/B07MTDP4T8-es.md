@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTDP4T8-es TWBB Pantalones de chándal con cordón Casual para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.78 EUR
 currency: EUR
 price: 1.78

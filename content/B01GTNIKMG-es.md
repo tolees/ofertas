@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GTNIKMG-es POC POCito Retina Máscaras Nieve Unisex niños Rosa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 70.95 EUR
 currency: EUR
 price: 70.95

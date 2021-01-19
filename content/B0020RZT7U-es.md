@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0020RZT7U-es Bosch Professional 061123A000 Martillo perforador peso de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

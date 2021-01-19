@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085GG8NHV-es Cepewa Aspiradora de Mano 2 en 1 silenciosa con Buena...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.91 EUR
 currency: EUR
 price: 59.91

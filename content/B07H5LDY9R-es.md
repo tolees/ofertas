@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5LDY9R-es Atomizador de Aftershave de Botella de Aerosol de Perfume...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

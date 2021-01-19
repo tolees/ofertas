@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0744KPYVP-es Calcetines de Senderismo de Lana Merino 3 pares Marrón EU...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

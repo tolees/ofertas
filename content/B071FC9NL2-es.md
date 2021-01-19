@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FC9NL2-es Fellowes 8C - Destructora trituradora de papel corte en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.22 EUR
 currency: EUR
 price: 55.22

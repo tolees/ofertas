@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W91VCY7-es Tommy Hilfiger Hombre Slim Layton Pstr Clute Blue Loose...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

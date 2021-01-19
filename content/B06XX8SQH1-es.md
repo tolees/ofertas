@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XX8SQH1-es New Balance Mujer 574v2 Core Zapatillas Negro Black 39 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.19 EUR
 currency: EUR
 price: 55.19

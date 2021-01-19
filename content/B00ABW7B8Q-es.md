@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ABW7B8Q-es Optimum Nutrition Gold Standard 100% Caseina Vainilla - 450 g'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087TBV92D-es qingqingR Mujeres Niñas Viaje Mármol de Viaje Cosmético...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082LLS3PL-es Medisana IN 520 Inhalador portátil para viajes nebulizador...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.17 EUR
 currency: EUR
 price: 46.17

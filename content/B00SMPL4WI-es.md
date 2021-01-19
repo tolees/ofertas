@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SMPL4WI-es Olympus OM-D E-M5 Mark II cámara de sistema Micro Cuatro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 713.79 EUR
 currency: EUR
 price: 713.79

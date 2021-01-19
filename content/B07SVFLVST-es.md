@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVFLVST-es TROTEC Aire Acondicionado Portátil PAC 2010 SH / 4 en 1:...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 229.95 EUR
 currency: EUR
 price: 229.95

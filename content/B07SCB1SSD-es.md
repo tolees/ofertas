@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCB1SSD-es Levi s Malibu Beach S Zapatillas para Mujer Rosa Light...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.57 EUR
 currency: EUR
 price: 24.57

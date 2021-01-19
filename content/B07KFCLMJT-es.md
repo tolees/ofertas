@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFCLMJT-es Masajeador Cervical Eléctrico Masajeador de Cuello en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.69 EUR
 currency: EUR
 price: 32.69

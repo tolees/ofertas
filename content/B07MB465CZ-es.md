@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MB465CZ-es KiplingMoney PowerMujerMonederosNegro True Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

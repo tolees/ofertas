@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0040AF4QG-es Securit Trendy Range - Funda para entrega de cuentas en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

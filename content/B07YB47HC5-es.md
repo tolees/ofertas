@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YB47HC5-es Pantalla HD Mini cámara Digital Recargable Niños Dibujos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

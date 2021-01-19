@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSJZMZX-es BRIKSMAX Kit de Iluminación Led para Lego Technic Grúa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

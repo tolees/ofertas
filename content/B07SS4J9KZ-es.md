@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SS4J9KZ-es Hobaca® E27 Oro Cobre Hierro de lujo Lámpara colgante...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.32 EUR
 currency: EUR
 price: 24.32

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSXGM8K-es BeiaMina Mujer Zapatos Moda Tacón Alto Sandalias...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

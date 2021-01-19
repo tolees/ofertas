@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LPXS3L4-es IBRA® PEARL - 1m metros Cable óptico de Audio Digital...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.82 EUR
 currency: EUR
 price: 5.82

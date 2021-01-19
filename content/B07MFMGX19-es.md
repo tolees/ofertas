@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFMGX19-es Audio-Technica ATH-SR50BT - Auriculares de diadema...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

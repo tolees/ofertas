@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015RGIQRK-es adidas Stan Smith Cf - Zapatillas de running Hombre Blanc...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.71 EUR
 currency: EUR
 price: 33.71

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831BTD8X-es Alcachofa Ducha con Manguera Zorara Cabezal de Ducha con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

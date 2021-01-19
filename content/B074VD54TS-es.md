@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074VD54TS-es AmazonBasics – Cable USB 2.0 A a micro USB B con trenzado...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FMH1FXX-es Huoyin Pulsera Dispensadora De Líquido Dispensador De...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

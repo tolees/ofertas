@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797JWTNG-es New Balance Fresh Foam Lazr Sport Zapatillas de Running...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.46 EUR
 currency: EUR
 price: 33.46

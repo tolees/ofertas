@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z7S4PM4-es Under Armour Gs Pace Zapatillas de Running Unisex Adulto...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.07 EUR
 currency: EUR
 price: 15.07

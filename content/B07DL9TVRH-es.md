@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DL9TVRH-es adidas VL Court 2.0 Zapatillas de Skateboard para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

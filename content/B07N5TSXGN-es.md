@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N5TSXGN-es Calvin Klein ENFOLD CARD HOLDER WALLETMujerBolsos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

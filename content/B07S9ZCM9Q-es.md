@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9ZCM9Q-es adidas Powerlift 4 Zapatillas para Hombre Core Black/Night...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

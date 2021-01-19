@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003SOZXNE-es Stagg SGC6 Instrumento Cable 6m de calidad Teléfono Plug-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

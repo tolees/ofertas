@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0074O7LHK-es Sisley Masque Crema À La Rose Noire 60 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 67.95 EUR
 currency: EUR
 price: 67.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3VKZXS-es Matris - Colchón Viscoelástico Muelles Ensacados Espuma...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 255 EUR
 currency: EUR
 price: 255

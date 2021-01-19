@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXSKZCC-es PMFS Reloj Inteligente Relojes para niños Bambini para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

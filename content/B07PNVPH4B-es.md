@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNVPH4B-es Victoria 1915 Doble Lona Zapatillas para Mujer Negro Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

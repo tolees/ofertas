@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KUQIJ6U-es AEG HX6-35TM Aspiradora de Mano Sin Cable Sin Bolsa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

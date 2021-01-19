@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBZRQ48-es SALAKA Gardening Weeder Hand Weeder Gardening Weeding Tool...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.1 EUR
 currency: EUR
 price: 10.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4WWV5R-es New Balance 997H m Zapatillas para Mujer Gris Grey/Blue...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

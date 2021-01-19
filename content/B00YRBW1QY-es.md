@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YRBW1QY-es Trixie Manta Mimi 70 × 50 cm Gris S/M'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.46 EUR
 currency: EUR
 price: 7.46

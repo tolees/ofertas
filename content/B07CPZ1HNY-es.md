@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPZ1HNY-es American Tourister Holiday Heat - Spinner Equipaje de Mano...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 61.5 EUR
 currency: EUR
 price: 61.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSHA1HV-es Pediatopic Cuidado Corporal 500ml loción emoliente e...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

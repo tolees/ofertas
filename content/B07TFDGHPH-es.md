@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TFDGHPH-es Quiksilver Get Buzzy-Camiseta para Chicos 8-16 Niños Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.74 EUR
 currency: EUR
 price: 8.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L1IICR2-es Sennheiser HD 599 - Auriculares de Diadema Abiertos 6.3...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 103.1 EUR
 currency: EUR
 price: 103.1

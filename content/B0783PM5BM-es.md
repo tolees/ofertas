@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0783PM5BM-es PUMA Smash V2 L Zapatillas para Hombre Blanco White Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.55 EUR
 currency: EUR
 price: 33.55

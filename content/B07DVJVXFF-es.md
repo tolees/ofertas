@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVJVXFF-es New Balance MS 247 FK de la Zapatilla de deporte para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.12 EUR
 currency: EUR
 price: 34.12

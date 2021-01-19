@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZMK3TB-es Pepe Jeans Kim suéter Candle 806 Medium para Mujer'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.75 EUR
 currency: EUR
 price: 35.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T8HK35K-es Finocam Espiral You Floral Agenda 2020 Mediano - E5-117 x...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

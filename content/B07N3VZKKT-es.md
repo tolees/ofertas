@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3VZKKT-es Desigual Belts Indian Pasley Cinturón Negro NEGRO 2000 90...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.94 EUR
 currency: EUR
 price: 15.94

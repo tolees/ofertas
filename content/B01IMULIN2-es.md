@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IMULIN2-es SONGMICS Caja joyero Organizador para bisuterías 26 x 26 x...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

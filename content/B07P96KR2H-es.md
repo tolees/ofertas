@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P96KR2H-es Funko- Pop Bobble: Marvel: Venom S2-Groot Figura...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

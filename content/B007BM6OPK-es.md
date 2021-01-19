@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007BM6OPK-es Alco-367ALF-0030 Hamaca fibreline Color Azul Verdoso...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

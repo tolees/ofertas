@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKTKH68-es Memory Matching Game Pairs Juego Brain Entrenamiento Desk...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

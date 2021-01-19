@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BRCYHJ7-es Guirnalda de luces LED 3 x 3 m 300 ledes luz blanca cálida...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

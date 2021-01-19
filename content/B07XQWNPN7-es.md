@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQWNPN7-es D-Link DUB-M610 - Hub USB tipo C 6 en 1 adaptador USB C...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

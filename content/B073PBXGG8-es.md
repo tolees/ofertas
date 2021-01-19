@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073PBXGG8-es Tapones Para los Oídos de Harcas. Filtro de Ruido de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.58 EUR
 currency: EUR
 price: 15.58

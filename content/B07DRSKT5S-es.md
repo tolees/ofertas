@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRSKT5S-es Brooks Mach 18 Zapatillas de Cross para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.79 EUR
 currency: EUR
 price: 34.79

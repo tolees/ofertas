@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMQ9RMB-es GRIDINLUX. Aparato de Radiofrecuencia Facial. Tecnología...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 79.98 EUR
 currency: EUR
 price: 79.98

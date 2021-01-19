@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004D2B5HS-es Eastpak Talky Riñonera 23 cm 2 L Gris Sunday Grey'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

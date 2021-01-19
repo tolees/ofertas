@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EW5FP4K-es Nike Revolution 4 GS Zapatillas de Running para unisexo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072ZSYFSR-es Wandf Kit para artículos de tocador expandible Dopp con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

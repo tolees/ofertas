@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085C2HBW9-es EACLL Bombillas LED GU10 6000K Blanco Frio 5W 535 Lúmenes...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

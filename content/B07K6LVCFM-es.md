@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6LVCFM-es Asics Gel-Nimbus 21 1011a169-001 Zapatillas de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

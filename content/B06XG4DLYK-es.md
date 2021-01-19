@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XG4DLYK-es Bosch Professional Sistema 12V Nivel Láser GCL 2-50 C 1...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 277.9 EUR
 currency: EUR
 price: 277.9

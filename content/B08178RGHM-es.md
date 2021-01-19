@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08178RGHM-es Columbia Tech Shade Hat Gorra Unisex Adulto Azul Carbon...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

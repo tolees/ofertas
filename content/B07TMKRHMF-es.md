@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMKRHMF-es upHere LED Azul GPU Brace Soporte de Tarjeta gráfica Un...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

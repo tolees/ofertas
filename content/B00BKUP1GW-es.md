@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKUP1GW-es Lancaster Aquamilk Cream Tube 50 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.6 EUR
 currency: EUR
 price: 16.6

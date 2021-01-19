@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MTZI376-es Sony ILCE-5100L - Cámara EVIL de 24.3 MP pantalla 3"...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 369.99 EUR
 currency: EUR
 price: 369.99

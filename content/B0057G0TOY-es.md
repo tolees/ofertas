@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0057G0TOY-es TRIXIE 12 Pañales Perros ultra absorbentes M Perro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

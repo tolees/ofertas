@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFC39HB-es Keenso Bolsa para Almacenar Herramientas Bolsa de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

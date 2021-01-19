@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0011ZH1XC-es Nixon Reloj Analógico de Cuarzo para Hombre con Correa de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 70.01 EUR
 currency: EUR
 price: 70.01

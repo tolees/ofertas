@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGLCN8H-es Skechers Equalizer 4.0 SERASA Zapatillas para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

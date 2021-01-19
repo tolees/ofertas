@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8HF5V8-es iAmotus Soporte Movil Coche Soporte Movil Coche Celular...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.23 EUR
 currency: EUR
 price: 4.23

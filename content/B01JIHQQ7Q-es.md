@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JIHQQ7Q-es Nuei Cosmetics Gel Oh Holy Mary Sliding - 100 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

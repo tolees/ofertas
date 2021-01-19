@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYB1GCF-es Nuevo té verde Dongting Biluochun Tea fragante primavera...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

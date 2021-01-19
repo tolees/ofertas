@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGK277W-es Adidas Tensaur C Unisex Niño Multicolor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

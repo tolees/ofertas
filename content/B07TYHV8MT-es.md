@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYHV8MT-es Crema Antiarrugas Mujer Para Cara - Con Colageno Eliminar...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CV3LY8-es Samsonite Spectrolite 2.0 Rolling Laptop Bag 43 9 cm 17.3"...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 189.52 EUR
 currency: EUR
 price: 189.52

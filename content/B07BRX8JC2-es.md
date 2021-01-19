@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRX8JC2-es LEVIS FOOTWEAR AND ACCESSORIESBanana SlingHombreShoppers y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

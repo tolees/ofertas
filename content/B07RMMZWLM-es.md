@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMMZWLM-es New Balance Fresh Foam Arishi V3 Zapatillas para Correr de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.64 EUR
 currency: EUR
 price: 33.64

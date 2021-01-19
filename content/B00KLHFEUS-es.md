@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KLHFEUS-es Lacoste YH4801 Polo Blanco Blanc XL para Hombre'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

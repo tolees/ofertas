@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N31JJ5L-es Superga 2750 COTU Classic Zapatillas Unisex Gris Grey Ash...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CDB1YY-es FMPC Carcasa con Cuerda Samsung Galaxy A20E Cristal TPU...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

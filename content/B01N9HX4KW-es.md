@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9HX4KW-es Maybelline New York Master Camo Kit Corrector...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.68 EUR
 currency: EUR
 price: 2.68

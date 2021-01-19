@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z7T6F4Y-es OtterBox Defender - Funda de protección triple capa para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 67.49 EUR
 currency: EUR
 price: 67.49

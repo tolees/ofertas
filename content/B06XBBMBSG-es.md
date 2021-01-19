@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XBBMBSG-es Coche de Carreras Juguete Desmontable Juguetes Educativos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

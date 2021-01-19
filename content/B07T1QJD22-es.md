@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1QJD22-es Cerradura de puerta portátil Cerradura de viaje Agregar...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

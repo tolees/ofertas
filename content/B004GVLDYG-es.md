@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004GVLDYG-es Garcima 76040 L40 - Hornillo paellero gas plano 2 fuegos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.72 EUR
 currency: EUR
 price: 29.72

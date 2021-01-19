@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFXLCZB-es Zerodis Deshumidificador de Aire portátil 800ml Mini...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

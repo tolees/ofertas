@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074K8BJ9D-es Taurus Mytoast Duplo-Tostadora 1450 W Tres Funciones...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

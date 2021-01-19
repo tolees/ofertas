@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z5Q9VH4-es Multímetro Digital de Voltaje Corriente AC DC MESTEK...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.82 EUR
 currency: EUR
 price: 35.82

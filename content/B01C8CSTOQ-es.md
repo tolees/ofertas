@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C8CSTOQ-es Grohe Vitalio Start - Sistema de ducha con termostato...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 136.24 EUR
 currency: EUR
 price: 136.24

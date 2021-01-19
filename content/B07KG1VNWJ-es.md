@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1VNWJ-es 1 Par Súper Suave de Silicona Punta del Pie Ballet Zapato...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

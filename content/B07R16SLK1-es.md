@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R16SLK1-es Helly Hansen Classic Duffel Bolsa De Viaje Impermeable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.87 EUR
 currency: EUR
 price: 58.87

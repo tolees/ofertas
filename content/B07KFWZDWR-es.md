@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFWZDWR-es PUMJV|#Puma Defy Wn s Zapatillas Deportivas para Interior...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y1V5X6T-es Purificador de Aire con Filtro HEPA Filtración de 4 Etapas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

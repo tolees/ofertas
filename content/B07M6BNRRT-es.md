@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6BNRRT-es Nike Legend 8 Club FG/MG Zapatillas de Fútbol para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.28 EUR
 currency: EUR
 price: 37.28

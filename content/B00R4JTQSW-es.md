@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R4JTQSW-es Roca A5A3025C00 A5A2025C02 Monomando Mezclador Ducha...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.6 EUR
 currency: EUR
 price: 46.6

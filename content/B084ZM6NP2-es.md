@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084ZM6NP2-es Rowenta RR6927MP Smart Force Essential - Robot Aspirador...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

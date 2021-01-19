@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDD9SF9-es Ingenuity 11576-1 - Asiento elevador'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.68 EUR
 currency: EUR
 price: 35.68

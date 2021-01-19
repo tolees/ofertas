@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074GK8TLZ-es CUADERNO DE DIBUJO ZenART B5 18x24 cm – Cubierta de Cuero...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

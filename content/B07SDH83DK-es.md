@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDH83DK-es adidas W Mh 3s Dk Pant Sport Trousers Mujer Black/White S'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.12 EUR
 currency: EUR
 price: 31.12

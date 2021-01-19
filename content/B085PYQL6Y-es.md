@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085PYQL6Y-es BOROK Display Stand Soporte para Lego 75257 Halcón Milenario'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

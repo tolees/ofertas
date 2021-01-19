@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2K1FCL-es Apple Funda Smart Folio para el iPad Pro de 12 9 pulgadas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

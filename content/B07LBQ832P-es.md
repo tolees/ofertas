@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBQ832P-es Adidas Match Light 1.9 - Pala de Pádel Adultos Unisex...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.45 EUR
 currency: EUR
 price: 39.45

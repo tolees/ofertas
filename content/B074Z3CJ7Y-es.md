@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074Z3CJ7Y-es De Longhi Dolce Gusto Colors EDG355.B1 - Cafetera de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.9 EUR
 currency: EUR
 price: 58.9

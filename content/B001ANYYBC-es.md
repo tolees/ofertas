@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001ANYYBC-es Clairefontaine 3999C - Lote de 25 Cuadernos grapados...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

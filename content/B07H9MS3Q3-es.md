@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9MS3Q3-es perfk 1 pc Protector de Cables de Carga Animal Ardilla...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

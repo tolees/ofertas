@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E3ETN92-es Maybelline New York Eyeliner Master Precise Curvy Tono 01...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.57 EUR
 currency: EUR
 price: 5.57

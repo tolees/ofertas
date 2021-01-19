@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDNF45R-es Phister Philina B0303-0441-Camiseta de Manga Larga Bebé-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

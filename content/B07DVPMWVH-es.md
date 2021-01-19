@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVPMWVH-es YspgArt66 - Lienzo Decorativo para Pared 5 Piezas diseño...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

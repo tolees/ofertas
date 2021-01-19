@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086RJQLSD-es Equipaje Maletas y Bolsas de Viaje - Premium Designer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 714.91 EUR
 currency: EUR
 price: 714.91

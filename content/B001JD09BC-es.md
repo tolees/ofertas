@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001JD09BC-es Versele-laga A-16570 Prestige Premium Loro Africano - 1 kg'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

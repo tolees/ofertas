@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MPZ5BSL-es Plancha de vapor - Cecotec GoForce 8000 Folding Titanium...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

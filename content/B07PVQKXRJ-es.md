@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVQKXRJ-es Under Armour UA W Charged Breathe TR 2 Zapatillas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.59 EUR
 currency: EUR
 price: 37.59

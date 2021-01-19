@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKP3LMK-es Carnival Games'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.97 EUR
 currency: EUR
 price: 21.97

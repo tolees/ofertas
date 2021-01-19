@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01INNQE46-es HP C2710 Wireless Keyboard Combo M7P30AA AB9 - Teclado...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

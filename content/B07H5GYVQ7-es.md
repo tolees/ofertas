@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5GYVQ7-es 4 Pack Esponja de ducha de baño JollyJelly Malla de baño...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.54 EUR
 currency: EUR
 price: 6.54

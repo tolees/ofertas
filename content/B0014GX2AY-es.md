@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0014GX2AY-es Solgar Male Múltiple Multinutriente para el Hombre Con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.48 EUR
 currency: EUR
 price: 33.48

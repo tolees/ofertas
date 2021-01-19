@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXKS3FQ-es Tommy Hilfiger TJM Nos Polo Azul Audacious Blue Czy Small...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

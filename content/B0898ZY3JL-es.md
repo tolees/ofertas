@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0898ZY3JL-es Pack Escuadrón suicida + Aves de Presa Y la fantabulosa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

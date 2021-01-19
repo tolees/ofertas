@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876BM5GT-es Mampara de Protección para mostradores...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

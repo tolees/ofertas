@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXSK5R1-es Gb Gold Pockit Air All Terrain - Silla de Paseo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 140.85 EUR
 currency: EUR
 price: 140.85

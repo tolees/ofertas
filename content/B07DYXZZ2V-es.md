@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYXZZ2V-es Columbia Pantalón de Excursionismo para Mujer Back Beauty...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HXNCN0Q-es Rankie Cable Mini DisplayPort Thunderbolt Port Compatible...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

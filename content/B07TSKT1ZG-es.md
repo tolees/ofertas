@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSKT1ZG-es Kipling KiplingKiryasMujerMochilasRojo Lively Red...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.24 EUR
 currency: EUR
 price: 33.24

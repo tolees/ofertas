@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M85LCDP-es GANT MD. Extrafine Lambswool V-Neck suéter Verde Tartan...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.28 EUR
 currency: EUR
 price: 39.28

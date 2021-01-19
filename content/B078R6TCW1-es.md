@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078R6TCW1-es ASUS VivoBook Flip 14 TP410UA-EC228T - Ordenador portátil...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

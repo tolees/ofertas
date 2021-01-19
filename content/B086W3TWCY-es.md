@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086W3TWCY-es 10 pzs Viseras Pantalla Facial Protector de cara...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CE9LAC6-es Italian Bed Linen Più Bello Protector de Asiento para Sofá...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

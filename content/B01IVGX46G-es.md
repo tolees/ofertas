@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IVGX46G-es Calvin Klein Reloj Analogico para Hombre de Cuarzo con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 163.23 EUR
 currency: EUR
 price: 163.23

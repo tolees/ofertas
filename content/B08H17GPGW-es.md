@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08H17GPGW-es 50 Piezas En Una Caja Cada Pieza Envuelta Individualmente...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

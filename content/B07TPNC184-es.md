@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPNC184-es Legami - Agenda semanal de 12 meses - Tema Take It Easy -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

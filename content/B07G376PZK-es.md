@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G376PZK-es Maddox Detail - Premium Microfiber - Paño de Microfibra 40...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.05 EUR
 currency: EUR
 price: 9.05

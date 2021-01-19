@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QSXWQ7-es MOSOTECH Organizador Cables Cubre Cables de 2 x 3m...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.62 EUR
 currency: EUR
 price: 12.62

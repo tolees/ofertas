@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EOTCQ6S-es Dugena Reloj Analogico para Hombre de Cuarzo con Correa en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 87.38 EUR
 currency: EUR
 price: 87.38

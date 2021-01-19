@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HKFZFX-es OPTOMA TECHNOLOGY EH461 - Proyector Full HD 1080p 5000...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 869.9 EUR
 currency: EUR
 price: 869.9

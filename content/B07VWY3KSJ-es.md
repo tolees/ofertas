@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWY3KSJ-es Fairy Tail & Glitzer Fee - Granulado de arena decorativa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

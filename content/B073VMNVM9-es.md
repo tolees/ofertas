@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VMNVM9-es Maybelline New York - Superstay Matte Ink Pintalabios Mate...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.65 EUR
 currency: EUR
 price: 3.65

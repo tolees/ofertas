@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EZML92W-es Russell Hobbs Cook Home - Freidora profesional 1800 W 3.2...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.27 EUR
 currency: EUR
 price: 33.27

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WCCF5N7-es Lumberjack Vendor Zapatillas de Gimnasia para Hombre Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.3 EUR
 currency: EUR
 price: 29.3

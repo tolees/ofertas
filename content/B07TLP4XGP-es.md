@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLP4XGP-es Clarks Un Rio Lace Zapatillas para Mujer Azul Dark Blush...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.62 EUR
 currency: EUR
 price: 49.62

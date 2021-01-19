@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD3QJ98-es IMC Toys -Fashion Twist Juego Electronico Multicolor Imc...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

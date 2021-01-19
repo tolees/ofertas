@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDSFXPS-es MTNG Collection 58640 Botas Altas para Mujer Negro Antil...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.73 EUR
 currency: EUR
 price: 22.73

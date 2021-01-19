@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLSTP98-es SAMSONITE Pro-DLX 5 - Sleeve for 15.6 Laptop Maletín 39 cm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

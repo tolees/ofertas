@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SC433PV-es GREAT ART Foto Mural Puente de Brooklyn Poster Americano...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

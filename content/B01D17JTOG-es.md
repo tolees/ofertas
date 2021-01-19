@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D17JTOG-es Samsonite Paradiver Light - Bolsa de viaje Amarillo Yellow...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 65.4 EUR
 currency: EUR
 price: 65.4

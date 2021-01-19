@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5BUS65-es JBL E25BT – Auriculares intraurales inalámbricos con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

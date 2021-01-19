@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BNL26YB-es deAO Juego de Herramientas y Accessorios Taller de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

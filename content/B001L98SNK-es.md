@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001L98SNK-es Babaria Rosa Mosqueta - Aceite puro facial 50 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

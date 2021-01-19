@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1D3YH-es PUMA Future 4.3 Netfit FG/AG Jr Botas de fútbol Unisex...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.11 EUR
 currency: EUR
 price: 33.11

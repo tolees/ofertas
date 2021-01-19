@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B6JQHRP-es Tommy Hilfiger X Sujetador estilo bralette Azul Navy...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

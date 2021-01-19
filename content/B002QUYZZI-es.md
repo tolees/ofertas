@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002QUYZZI-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 114.27 EUR
 currency: EUR
 price: 114.27

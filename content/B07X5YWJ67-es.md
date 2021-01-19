@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X5YWJ67-es Barra de Sonido Wellwerks 95W Altavoz de Audio para TV...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.16 EUR
 currency: EUR
 price: 47.16

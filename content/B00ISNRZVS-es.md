@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ISNRZVS-es Taurus 999.185 Recambio Envasadora'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

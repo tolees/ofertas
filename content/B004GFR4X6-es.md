@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004GFR4X6-es POP! Vinilo - Movies: Beetlejuice'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087MXSFJG-es 50 colores 100 colores punto de cruz hilo poliéster...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

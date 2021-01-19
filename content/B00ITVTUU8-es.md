@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ITVTUU8-es PALMERA IR0897334W'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.07 EUR
 currency: EUR
 price: 19.07

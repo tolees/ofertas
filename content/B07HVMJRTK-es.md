@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HVMJRTK-es Botella de aerosol perfume portátil 12ml Mini bala Forma...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L46RQXP-es Adidas Terrex Skychaser Lt GTX W Zapatillas de Deporte...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 102.26 EUR
 currency: EUR
 price: 102.26

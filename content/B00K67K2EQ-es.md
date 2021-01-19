@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K67K2EQ-es L Oréal Paris Millón de Pestañas So Couture Máscara...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

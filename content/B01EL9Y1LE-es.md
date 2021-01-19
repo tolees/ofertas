@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EL9Y1LE-es Hartmann Cosmopor E Apósitos 7.2 x 5 cm 50 unidades'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.76 EUR
 currency: EUR
 price: 7.76

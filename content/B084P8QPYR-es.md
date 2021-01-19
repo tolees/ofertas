@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084P8QPYR-es LoveOlvido Orffworld Cocodrilo Forma Castañuela de Madera...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV9SYFY-es Kipling - Tops Carteras Mujer Rosa Metallic Rose...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

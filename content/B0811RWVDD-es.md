@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811RWVDD-es Rizador de pestañas con calefacción eléctrica TOUCHBeauty...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

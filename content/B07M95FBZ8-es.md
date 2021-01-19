@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M95FBZ8-es Lee Scarlett Pantalones Rosa Cameo Pink 94 W27/L31 para Mujer'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

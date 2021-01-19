@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VW753PP-es JACK & JONES Jorrafael Sweat Hood Capucha Rojo Brick...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

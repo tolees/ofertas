@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079G4Z4RP-es Under Armour Sportstyle Cotton Graphic Short Pantalón...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.71 EUR
 currency: EUR
 price: 19.71

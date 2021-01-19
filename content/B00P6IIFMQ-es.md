@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P6IIFMQ-es MC N-079 Patilla de Aluminio Unisex Adulto Negro Única'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

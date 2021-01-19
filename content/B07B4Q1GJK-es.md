@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4Q1GJK-es Eastpak Traf Ik Light L Maleta 85 cm 101 L Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

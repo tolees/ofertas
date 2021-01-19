@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OHVWPWO-es HP Omen X9000 - Ratón con Cable Gaming 8200 PPP Negro y Rojo'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.91 EUR
 currency: EUR
 price: 36.91

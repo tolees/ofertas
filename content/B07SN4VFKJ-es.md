@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SN4VFKJ-es Pepe Jeans Liberty - Maleta de cabina rígida 55 cm Rosa'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 80.5 EUR
 currency: EUR
 price: 80.5

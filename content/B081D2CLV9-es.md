@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081D2CLV9-es Baoblaze Cubo Plegable Plástico Portátil Cepillo Plegable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

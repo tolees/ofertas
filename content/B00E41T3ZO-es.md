@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E41T3ZO-es CAMPER Pelotas Ariel - Oxford Hombre Marrone dark brown 39'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 112.0 EUR
 currency: EUR
 price: 112.0

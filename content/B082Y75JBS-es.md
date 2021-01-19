@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Y75JBS-es perfk Protector para Asiento de Coche Antideslizante Fácil...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

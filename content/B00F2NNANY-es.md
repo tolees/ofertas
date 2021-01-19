@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F2NNANY-es Bellota 5825-16x300 CP Cincel Cromo vanadio Cuerpo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

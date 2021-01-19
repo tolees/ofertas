@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076D5X5LQ-es 4 Piezas Gorras de Peluca URAQT Redecillas Casquillo de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

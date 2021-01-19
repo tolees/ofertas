@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075LC82RG-es Flash Drive 128 MB PenDrive 10 Piezas Memorias USB 2.0 -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

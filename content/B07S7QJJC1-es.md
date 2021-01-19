@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QJJC1-es PUMA Cell Ultimate Point Zapatillas de Running para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.53 EUR
 currency: EUR
 price: 41.53

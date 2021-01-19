@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089VWVV4M-es Universal Múltiple 3 Puertos USB-C 3.0 Hub con Kit de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

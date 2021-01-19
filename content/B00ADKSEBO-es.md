@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ADKSEBO-es Selene Sujetador Deportivo Confort Blanco 95B'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

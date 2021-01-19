@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCDX3YV-es Lenovo Ideapad 330-15ICH - Ordenador Portátil 15.6" FullHD...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 549.0 EUR
 currency: EUR
 price: 549.0

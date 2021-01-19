@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002V91TYO-es Eminent EM3563 - Auriculares de Diadema Abiertos con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

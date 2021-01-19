@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HY33FN-es Salomon X Ultra 3 GTX W Zapatillas de Senderismo para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

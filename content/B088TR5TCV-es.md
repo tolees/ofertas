@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TR5TCV-es Time COVER 2 Mascarillas Reutilizables con 10 Filtros...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

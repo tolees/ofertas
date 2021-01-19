@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SVYERQK-es Funko Pop!- Pocket Keychain: Marvel: Avengers AOU: Captain...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

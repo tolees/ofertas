@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYKWA0Y-es Nike Court Royale Zapatillas Hombre Negro/Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

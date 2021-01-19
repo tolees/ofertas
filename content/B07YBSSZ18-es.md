@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBSSZ18-es NewZC Bridas Ajustables para Cables 120 Unidades 15 x 1 2...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.88 EUR
 currency: EUR
 price: 9.88

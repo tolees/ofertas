@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQ679WM-es Champion Performance Crew Calcetines de deporte Multicolor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.87 EUR
 currency: EUR
 price: 10.87

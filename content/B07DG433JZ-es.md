@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DG433JZ-es Aicook Palomitero Máquina de Palomitas con Plato...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

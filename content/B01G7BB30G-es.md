@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G7BB30G-es Henry London Reloj Analógico para Unisex Adultos de Cuarzo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 144.43 EUR
 currency: EUR
 price: 144.43

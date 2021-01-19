@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0051POZ8W-es Johnson s Baby Crema Protectora de Pañal ideal para la...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

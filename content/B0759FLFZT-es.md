@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759FLFZT-es Casio Reloj de Pulsera BGS-100-7A1ER'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

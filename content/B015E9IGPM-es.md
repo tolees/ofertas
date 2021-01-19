@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015E9IGPM-es Gant Sonnenbrille Ga7047 90A 54 Gafas de sol Azul Blau...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.73 EUR
 currency: EUR
 price: 37.73

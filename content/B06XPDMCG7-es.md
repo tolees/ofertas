@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPDMCG7-es Bose SoundLink Revolve+ - Altavoz portátil con Bluetooth...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

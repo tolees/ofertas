@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RL177XM-es New Balance 997h Zapatillas para Hombre Azul Navy Hay 43 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

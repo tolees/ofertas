@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLJJQG7-es SKYEE Adaptador USB C a Micro USB con Llavero [4 Unidades]...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

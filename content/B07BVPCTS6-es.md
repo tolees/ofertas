@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BVPCTS6-es Zequins- Muñeco Dazz Famosa 700014680'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.27 EUR
 currency: EUR
 price: 3.27

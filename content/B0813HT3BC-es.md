@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813HT3BC-es Marca Amazon - Find. Sandalias abiertas Barely There para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

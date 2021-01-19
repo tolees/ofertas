@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWRG9F3-es Jack & Jones Jorbrit Crew Neck suéter Azul Navy Blazer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.41 EUR
 currency: EUR
 price: 10.41

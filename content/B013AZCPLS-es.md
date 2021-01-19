@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013AZCPLS-es Anker AK-A2021321 - Cargador de pared con entrada USB 2 x...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072WKC7Z6-es The North Face Base Camp Duffel Bolsa de Deporte Unisex...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

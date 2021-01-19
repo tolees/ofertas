@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P6JX73M-es CARIOCA Estuche Colors | Estuche 3 Cremalleras con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.67 EUR
 currency: EUR
 price: 18.67

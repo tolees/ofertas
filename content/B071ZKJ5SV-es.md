@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZKJ5SV-es Reloj Lorus - Hombre RH817CX9'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.56 EUR
 currency: EUR
 price: 34.56

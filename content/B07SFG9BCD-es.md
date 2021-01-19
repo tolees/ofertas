@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFG9BCD-es VHOME Manguera De Jardín Flexible 30M Juego De Manguera De...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.24 EUR
 currency: EUR
 price: 32.24

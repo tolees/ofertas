@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q15NFST-es L Oreal Paris Make-up Designer Kit Serum de Pestañas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

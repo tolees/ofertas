@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019FW2BBY-es HEY JOE - Beard Oil Nº1 CLASSIC JOE 30ml | Aceite para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.6 EUR
 currency: EUR
 price: 14.6

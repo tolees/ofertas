@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GTOTV8C-es AOC Q2781PQ - Monitor de 27" QHD IPS resolución 2560 x...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 282.66 EUR
 currency: EUR
 price: 282.66

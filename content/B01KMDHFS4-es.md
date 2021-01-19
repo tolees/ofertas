@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KMDHFS4-es oodji Collection Mujer Camiseta Básica de Algodón Verde ES...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

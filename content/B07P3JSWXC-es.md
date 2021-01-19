@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3JSWXC-es Superdry Core Sport Graphic tee Top de Deporte Gris Light...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.73 EUR
 currency: EUR
 price: 12.73

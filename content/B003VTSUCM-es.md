@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003VTSUCM-es Giesswein Villach Pantuflas Unisex Gris 35 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017QYO9F4-es Superga 2790acotw Linea Up and Down Zapatillas de Gimnasia...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.3 EUR
 currency: EUR
 price: 30.3

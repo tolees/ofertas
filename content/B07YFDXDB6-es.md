@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFDXDB6-es Dremel Versa Limpiador de Alta Velocidad - Kit de Limpieza...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.14 EUR
 currency: EUR
 price: 46.14

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076SDJYQS-es D.Vinity Kit de Belleza Ultra Soft - 3 Piezas'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

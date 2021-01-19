@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNV8KGZ-es 100 hojas 4x6in Papel fotográfico para impresión láser a...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.32 EUR
 currency: EUR
 price: 7.32

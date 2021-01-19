@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DXW9MZU-es habitatetjardin Comedor de jardín en textileno Cordoba -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

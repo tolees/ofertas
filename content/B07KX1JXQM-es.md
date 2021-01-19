@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KX1JXQM-es Fossil Womens FTW6017'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 164.0 EUR
 currency: EUR
 price: 164.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005FVZUHW-es TRIXES 2 x Almohadas Inflables - para Viajar la Playa o...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

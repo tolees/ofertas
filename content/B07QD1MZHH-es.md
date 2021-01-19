@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD1MZHH-es Cudy WU1200 - Adaptador WiFi USB CA 1200 Mbit/s para PC...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

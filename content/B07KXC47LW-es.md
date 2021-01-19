@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXC47LW-es Apisérum Intelecto Viales Bebibles - Favorece el...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

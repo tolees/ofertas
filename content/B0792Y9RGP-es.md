@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792Y9RGP-es Neviti- Glitz & Glamour-Cake Topper-Gold-Age 18 Figura...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.66 EUR
 currency: EUR
 price: 5.66

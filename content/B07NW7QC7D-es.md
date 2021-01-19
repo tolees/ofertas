@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW7QC7D-es Skechers Flex Appeal 3.0-insiders Zapatillas para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.36 EUR
 currency: EUR
 price: 33.36

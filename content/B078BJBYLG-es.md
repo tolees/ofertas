@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078BJBYLG-es ROSENICE Azulejos de mosaico mezclados para manualidades...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

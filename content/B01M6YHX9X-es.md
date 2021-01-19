@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M6YHX9X-es Skechers Women s s Sure Track-TRICKEL Work Shoes Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 63.19 EUR
 currency: EUR
 price: 63.19

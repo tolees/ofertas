@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVKFXCL-es New Balance Summit Unknown m Zapatillas de Running para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 66.31 EUR
 currency: EUR
 price: 66.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4SBAAS-es Emuca - Barra de armario abatible perchero basculante...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.65 EUR
 currency: EUR
 price: 30.65

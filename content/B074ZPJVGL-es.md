@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074ZPJVGL-es Quantum Mechanix Star Trek-Insignia: Medical Color...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

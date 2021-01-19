@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYVRBP5-es 2 * 12W Lámpara de pared blanco cálido moderno apliques...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.59 EUR
 currency: EUR
 price: 37.59

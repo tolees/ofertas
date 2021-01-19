@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBLXF3Y-es Té Verde Matcha Orgánico Ceremonial En Polvo. Biológico...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

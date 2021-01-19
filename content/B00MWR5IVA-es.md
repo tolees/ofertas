@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MWR5IVA-es Logitech M280 Ratón Inalámbrico 2 4 GHz con Nano Receptor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

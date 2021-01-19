@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHXMC57-es Nike Team Hustle D 9 PS Zapatillas de Baloncesto Unisex...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

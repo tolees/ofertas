@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HLTPTFT-es Disco Duro Externo 1 TB USB3.0 para PC Mac MacBook Xbox...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

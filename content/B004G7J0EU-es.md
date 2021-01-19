@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004G7J0EU-es Julius-K9 Correa Negro y Gris 2 cm'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

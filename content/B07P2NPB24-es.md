@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2NPB24-es Adidas Terrex Free Hiker Zapatillas de Deporte para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 118.96 EUR
 currency: EUR
 price: 118.96

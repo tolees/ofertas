@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6LPG79-es Tommy Hilfiger Formal Belt 3.0 Cinturón Brown 0im 100...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.77 EUR
 currency: EUR
 price: 28.77

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1V44BG-es Skechers Ultra Flex Candy Cravings Zapatillas para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQQRXL4-es 2019 más novedoso: Auriculares Bluetooth antimi Bluetooth...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

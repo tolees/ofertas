@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FY6FG19-es XINFULUK Cable USB 2.0 Am-TO-BM de Alta Velocidad Cable A...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.66 EUR
 currency: EUR
 price: 1.66

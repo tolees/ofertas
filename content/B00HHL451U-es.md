@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HHL451U-es Citizen Super Titanium - Reloj de Cuarzo para Hombre con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 179.22 EUR
 currency: EUR
 price: 179.22

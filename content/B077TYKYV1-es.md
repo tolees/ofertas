@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TYKYV1-es Black+Decker BXPW1400E Hidrolimpiadora de Alta Presión...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.7 EUR
 currency: EUR
 price: 69.7

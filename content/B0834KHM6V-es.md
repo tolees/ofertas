@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0834KHM6V-es Proyector BOMAKER 5000 Lúmenes Soporta 1080p Full HD Mini...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

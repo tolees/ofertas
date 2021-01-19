@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJXPRVP-es Guirnalda Luces Exterior Kenlita Cadena de Luces 15m IP65...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

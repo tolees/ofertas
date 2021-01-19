@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNZHBL9-es Cúrcuma Orgánica 1490mg con BioPerine®. Suplemento Nº 1 en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072C5TQ3V-es Kelme - Zapatillas Precision'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

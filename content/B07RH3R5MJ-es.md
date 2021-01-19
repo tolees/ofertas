@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH3R5MJ-es Levi s Galoo Reversible Belt Cinturón Negro R Black 59 90...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

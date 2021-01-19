@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYKMWXD-es Taurus Mycook Touch Black Edition 1600 W 2 litros 0...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

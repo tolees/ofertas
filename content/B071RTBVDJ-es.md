@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071RTBVDJ-es Reebok Royal Glide LX Zapatillas de Gimnasia para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.44 EUR
 currency: EUR
 price: 27.44

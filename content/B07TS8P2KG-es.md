@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS8P2KG-es Funko- Pop Games: Rage 2-Mohawk Girl Collectible Toy...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

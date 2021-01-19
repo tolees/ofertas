@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C6XF1Z2-es Arena Fundamentals Logo Bañador Hombre Rojo/Blanco S'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

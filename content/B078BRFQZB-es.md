@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078BRFQZB-es L Óreal Paris Barra de Labios Color Riche Shine Tono...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

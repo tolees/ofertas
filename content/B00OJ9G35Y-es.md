@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OJ9G35Y-es Orbegozo WL 3000 Cup Cake Maker 1400 W 6 Cup Cakes de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

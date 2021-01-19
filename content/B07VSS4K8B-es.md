@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSS4K8B-es Funko- Pop Games: Apex Legends-Mirage Collectible Toy...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

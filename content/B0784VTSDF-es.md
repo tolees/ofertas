@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0784VTSDF-es Asics Chaussures Gecko XT'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.79 EUR
 currency: EUR
 price: 44.79

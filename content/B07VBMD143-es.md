@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBMD143-es DIXIUZA Diadema Cuerno de Unicornio Niñas Diadema para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

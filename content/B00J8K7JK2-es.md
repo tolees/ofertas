@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J8K7JK2-es Bourjois Velvet Barra de Labios Líquida Tono 08 Grand Cru...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.1 EUR
 currency: EUR
 price: 2.1

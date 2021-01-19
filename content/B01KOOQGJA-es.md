@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KOOQGJA-es Weider Vegan Protein. Sabor Cappuccino. Proteína 100%...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.67 EUR
 currency: EUR
 price: 16.67

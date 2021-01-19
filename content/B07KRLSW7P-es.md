@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLSW7P-es New Balance 574v2 Zapatillas para Hombre Azul Navy/White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 70 EUR
 currency: EUR
 price: 70

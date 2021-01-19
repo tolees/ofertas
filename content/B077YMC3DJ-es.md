@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YMC3DJ-es Sylvie Flirty Swimwear Britta Trikini para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.14 EUR
 currency: EUR
 price: 17.14

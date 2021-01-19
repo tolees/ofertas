@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JY17MQH-es Tommy Hilfiger Modern Rev Leather Belt 3.5 Cinturón Marrón...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.54 EUR
 currency: EUR
 price: 26.54

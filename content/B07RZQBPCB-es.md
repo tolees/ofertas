@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZQBPCB-es Lacoste - Polo Manga Corta Hombre - Ph8522'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.26 EUR
 currency: EUR
 price: 52.26

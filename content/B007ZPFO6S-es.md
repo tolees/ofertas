@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007ZPFO6S-es Philips Avent SCF330/20 - Sacaleches extractor de leche...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.82 EUR
 currency: EUR
 price: 29.82

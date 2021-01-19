@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HP6GC85-es Emma & Giovanni - Pullover - Top - Mujer XL/XXL Verde'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

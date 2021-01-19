@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9RN47W-es Cepillo de dientes eléctrico Ctbd Cepillo de dientes...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

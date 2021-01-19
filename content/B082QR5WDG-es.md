@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082QR5WDG-es Pulsera de Actividad Inteligente IP68 Impermeable Reloj...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

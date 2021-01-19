@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WPT8WZ3-es Weehey Báscula de Cocina eléctrica precisa de 5 kg / 1g...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

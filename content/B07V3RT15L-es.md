@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3RT15L-es Calvin Klein - Ck Panache 5cc + Coin Carteras Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.47 EUR
 currency: EUR
 price: 39.47

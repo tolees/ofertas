@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KNWQW3I-es Kerastase Mascarilla para el pelo - 200 ml.'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.25 EUR
 currency: EUR
 price: 23.25

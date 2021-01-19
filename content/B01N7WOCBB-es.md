@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7WOCBB-es Bluegreen - Greenblue gb114 - minutero de escalera'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

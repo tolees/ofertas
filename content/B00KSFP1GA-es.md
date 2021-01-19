@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KSFP1GA-es BC Corona FUK10402 Monaco Juego de Fundas Negro/Gris'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.67 EUR
 currency: EUR
 price: 11.67

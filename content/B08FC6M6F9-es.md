@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FC6M6F9-es Máquina de molienda en seco Placa de molienda Manual...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.01 EUR
 currency: EUR
 price: 5.01

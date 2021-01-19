@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000F39MZG-es Canon BCI-3e 3 Cartuchos Multipack de tinta original...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5SYTBT-es Clarks'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

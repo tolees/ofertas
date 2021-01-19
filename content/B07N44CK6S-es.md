@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N44CK6S-es Desigual Blouse Larson Blusas Azul Navy 5000 M para Mujer'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.55 EUR
 currency: EUR
 price: 48.55

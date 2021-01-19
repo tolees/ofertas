@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJ25JTP-es Funko Pop! Figura De Vinil Football: PSG - Kylian Mbappé...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

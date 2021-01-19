@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Z62LMZ-es Panasonic DC-GX9M Panasonic LUMIX DC-GX9M - Cámara Digital...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 699.9 EUR
 currency: EUR
 price: 699.9

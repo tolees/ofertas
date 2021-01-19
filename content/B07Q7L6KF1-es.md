@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q7L6KF1-es Sally Hansen Airbrush Legs Maquillaje para piernas Spray...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001WIYQNG-es UTG Picatynny/Weaver Schiene Model 500 Shotgun Top Rail...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.26 EUR
 currency: EUR
 price: 11.26

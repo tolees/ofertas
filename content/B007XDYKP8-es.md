@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007XDYKP8-es Targus Classic+ - Maleta de 17-18" color negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

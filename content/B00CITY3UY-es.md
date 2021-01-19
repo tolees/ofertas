@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CITY3UY-es Escher S 1464 7421 Banco para Exterior - Bancos para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 142.0 EUR
 currency: EUR
 price: 142.0

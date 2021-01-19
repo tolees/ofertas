@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004XG6EX4-es Max factor - Lipfinity bálsamo y brillo de labios color...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.22 EUR
 currency: EUR
 price: 5.22

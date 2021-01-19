@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077VN6YK1-es Victoria Basket Lona Dos Velcros Zapatillas Unisex Niños...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

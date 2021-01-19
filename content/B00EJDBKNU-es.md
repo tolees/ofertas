@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EJDBKNU-es L Oreal Paris Color Riche 230 Coral Showroom Barra de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.05 EUR
 currency: EUR
 price: 7.05

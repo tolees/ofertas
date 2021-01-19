@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4QCTJX-es Superdry Classic Trunk Triple Pack Bóxer Azul Cobalt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

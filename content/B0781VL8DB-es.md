@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781VL8DB-es Puma Liga Training Pant Core Pantalones Hombre Azul Azul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.97 EUR
 currency: EUR
 price: 18.97

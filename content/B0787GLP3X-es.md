@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0787GLP3X-es Columbia Meadows Slip-On Omni-Heat Botas Bajas para Mujer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

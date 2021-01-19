@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0026FCELU-es WMF Profi Plus Termómetro Digital Acero Inoxidable Pulido'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.05 EUR
 currency: EUR
 price: 30.05

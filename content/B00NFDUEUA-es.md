@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NFDUEUA-es Braun Minipimer 5 MQ5020WH Pasta - Batidora de mano 750 w...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

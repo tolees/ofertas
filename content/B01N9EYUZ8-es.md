@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9EYUZ8-es Dymatize ISO 100 Gourmet Vanilla 2 2kg - Hidrolizado de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 52.06 EUR
 currency: EUR
 price: 52.06

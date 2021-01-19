@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBXGROW-es Garmin DriveSmart 51 Western EU LMT-D - Navegador GPS con...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 114.68 EUR
 currency: EUR
 price: 114.68

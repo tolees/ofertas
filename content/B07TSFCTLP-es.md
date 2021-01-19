@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSFCTLP-es ASUS VA326HR Pantalla para PC 80 cm 31.5" Full HD LED...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 309.99 EUR
 currency: EUR
 price: 309.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTRJSNC-es FIND Kitten Heel Court Zapatos de Tacón Negro Black 40 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.34 EUR
 currency: EUR
 price: 6.34

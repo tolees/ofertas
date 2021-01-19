@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDCFDTC-es Led Espejo Luz Baño 10W 820LM 60cm 230V 4000K Aogled...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

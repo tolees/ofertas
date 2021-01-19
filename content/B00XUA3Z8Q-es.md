@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XUA3Z8Q-es Oxford 100430206 - Recambio hojas sueltas 4 taladros para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

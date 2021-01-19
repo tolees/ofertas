@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSJ4T6G-es Hurley Prem Enjoy tee SS Geo Camisetas Hombre White S'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.66 EUR
 currency: EUR
 price: 7.66

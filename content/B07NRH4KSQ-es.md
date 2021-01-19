@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRH4KSQ-es SYOSS - Champú Rizos Pro - Definición e Hidratación - 3...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PP1JMFZ-es BE-TOOL 2000W AC controlador de velocidad del motor...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.63 EUR
 currency: EUR
 price: 8.63

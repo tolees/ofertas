@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K12HYWB-es adidas I-5923 Zapatillas de Gimnasia para Hombre Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 50 EUR
 currency: EUR
 price: 50

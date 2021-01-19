@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYXC45-es PUMA RS 9.8 Space Zapatillas Unisex Adulto White-High Risk...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.2 EUR
 currency: EUR
 price: 44.2

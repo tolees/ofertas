@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V92EVPS-es Chung Shi 8200050 Botas Chukka Hombre Negro 44.5 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 62.86 EUR
 currency: EUR
 price: 62.86

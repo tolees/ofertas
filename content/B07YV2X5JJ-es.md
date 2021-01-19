@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YV2X5JJ-es kampre - Mascarilla de carbón Activo de 4 Capas 50 Piezas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

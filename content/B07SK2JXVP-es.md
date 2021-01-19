@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK2JXVP-es Levi s Woodward Zapatillas para Hombre Marrón Medium Brown...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

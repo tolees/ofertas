@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CFNKX6G-es Tayg 602368 plástico 10LT con Grifo Blanco Bidón 10L'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T7BZB8Y-es APC PM8-GR Surge Arrest Essential - Regleta con protección...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.61 EUR
 currency: EUR
 price: 40.61

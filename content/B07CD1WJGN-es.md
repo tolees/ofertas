@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CD1WJGN-es Skechers Men s RELVEN-VELTON-65659 Trainers Black Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.88 EUR
 currency: EUR
 price: 38.88

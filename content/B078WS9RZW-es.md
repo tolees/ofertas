@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WS9RZW-es Sony MHC-V71D - Sistema Audio Bluetooth Luces de Fiesta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 367.94 EUR
 currency: EUR
 price: 367.94

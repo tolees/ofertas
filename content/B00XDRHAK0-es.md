@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XDRHAK0-es Sanex 1164-74668 Dermo Sensitive Desodorante Spray 2x200ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

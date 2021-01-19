@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0784QSVJS-es Nelly Espuma para Pelo - 12 Recipientes de 300 ml - Total:...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

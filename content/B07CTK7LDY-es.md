@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTK7LDY-es JACK & JONES JFWALBANY Leather STS Chukka Boots para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

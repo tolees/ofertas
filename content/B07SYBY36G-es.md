@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYBY36G-es Huawei Mini Altavoz Bluetooth CM510 Color Negro'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XJYRHE6-es Reebok Classic Leather Zapatillas Mujer Blanco Int-White /...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.71 EUR
 currency: EUR
 price: 48.71

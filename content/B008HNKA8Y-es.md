@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008HNKA8Y-es Los Vengadores 3D + Blu-ray [Blu-ray]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

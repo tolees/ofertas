@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XH9MWDR-es Off - Road Racing'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

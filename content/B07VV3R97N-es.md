@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VV3R97N-es Bugatti 321926015400 Zapatillas para Hombre Azul Dark Blue...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.6 EUR
 currency: EUR
 price: 14.6

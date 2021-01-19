@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRJGF7M-es NEXCURIO Funda Galaxy S10 Funda Piel Tipo Libro Carcasa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

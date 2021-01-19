@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HVCZPWV-es GIOVARA tapete transparente para silla con borde para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.91 EUR
 currency: EUR
 price: 24.91

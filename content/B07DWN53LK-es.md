@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWN53LK-es Under Armour Bolsa de Deporte One Size Gr'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

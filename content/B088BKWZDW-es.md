@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BKWZDW-es OfficeWorld 603XL Cartucho Tinta para Epson 603 Compatible...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.88 EUR
 currency: EUR
 price: 18.88

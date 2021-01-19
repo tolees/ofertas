@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZFWQL9M-es Flower 10723 Abono líquido orquídeas'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

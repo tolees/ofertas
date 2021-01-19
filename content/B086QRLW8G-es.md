@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QRLW8G-es Queta Juego 12 Pinceles para Pintar Artistas Pinceles...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

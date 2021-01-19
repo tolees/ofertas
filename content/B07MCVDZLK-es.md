@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCVDZLK-es Gant 3-Pack Trunk Seasonal Solid Calzoncillos Negro Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.08 EUR
 currency: EUR
 price: 23.08

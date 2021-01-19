@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MLJL6T-es Clarilou Funda Smartphone - Diseño Exclusivo Love Yourself...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

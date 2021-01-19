@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073FC21TS-es Dyson V7 Fluffy Aspiradora Sin Cable con 2 Funciones 100 W...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 296.25 EUR
 currency: EUR
 price: 296.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4PHN5R-es Goodthreads Packable Down Jacket Outerwear-Jackets Dorado...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 53.2 EUR
 currency: EUR
 price: 53.2

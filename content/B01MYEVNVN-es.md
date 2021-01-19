@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYEVNVN-es Dove Paño y toallita facial Sensitive - 4 de 50 Unidades...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

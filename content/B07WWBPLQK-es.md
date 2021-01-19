@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWBPLQK-es Vinmori Chaleco Térmico Eléctrico Tamaño Lavable Carga USB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.04 EUR
 currency: EUR
 price: 30.04

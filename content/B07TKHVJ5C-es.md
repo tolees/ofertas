@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKHVJ5C-es American Tourister Wavebreaker Barbie - Spinner M color...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 80.75 EUR
 currency: EUR
 price: 80.75

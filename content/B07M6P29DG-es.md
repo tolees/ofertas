@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6P29DG-es adidas Court Adapt Zapatillas de Tenis para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.14 EUR
 currency: EUR
 price: 29.14

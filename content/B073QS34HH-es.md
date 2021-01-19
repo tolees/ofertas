@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QS34HH-es find. 18137 camisetas Rosa Oscuro Pink 36 Talla del...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

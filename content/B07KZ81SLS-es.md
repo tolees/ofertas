@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZ81SLS-es AmazonBasics - Sábana ajustable de microfibra premium 135...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.91 EUR
 currency: EUR
 price: 6.91

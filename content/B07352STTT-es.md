@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07352STTT-es Tenscare Sports Tens 2+ Paquete de 12 Electrodos -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 77.6 EUR
 currency: EUR
 price: 77.6

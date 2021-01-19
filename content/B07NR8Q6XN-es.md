@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NR8Q6XN-es Licor del Polo - Enjuague Bucal Frozen Senses - Tecnología...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

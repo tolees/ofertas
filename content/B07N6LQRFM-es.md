@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6LQRFM-es Tommy Hilfiger Downtown Seasonal Belt 3.5 Cinturón Brown...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

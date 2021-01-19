@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFDPJVD-es USB Recargable Calentador De Manos 6000 mAh Banco De...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

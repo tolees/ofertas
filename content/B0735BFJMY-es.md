@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0735BFJMY-es Napapijri Rainforest Winter Chaqueta para Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 120.49 EUR
 currency: EUR
 price: 120.49

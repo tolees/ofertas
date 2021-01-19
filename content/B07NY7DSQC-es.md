@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY7DSQC-es Sotech 108 Piezas Juego de Llaves de Vaso Llave de Carraca...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.69 EUR
 currency: EUR
 price: 49.69

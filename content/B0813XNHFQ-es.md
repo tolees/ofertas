@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813XNHFQ-es adidas Superstar Zapatillas para Hombre FTWR White/Core...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.01 EUR
 currency: EUR
 price: 27.01

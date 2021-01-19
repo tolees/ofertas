@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKTL5GV-es Beko - TAM4201B – Tostador para 2 rebanadas 850W potencia...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

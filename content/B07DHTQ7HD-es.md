@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHTQ7HD-es Lacoste Graduate BL 1 SMA Zapatillas para Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

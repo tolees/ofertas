@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GZ2SPL-es find. Bailarinas Planas con Empeine Alto Mujer Beige Sand...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

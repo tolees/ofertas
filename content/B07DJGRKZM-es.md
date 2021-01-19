@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJGRKZM-es Dockers by Gerli 43ta302 Botas de Nieve para Mujer Blanco...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFL2BMX-es Amazon Essentials Studio Relaxed-Fit Crewneck T-Shirt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.76 EUR
 currency: EUR
 price: 8.76

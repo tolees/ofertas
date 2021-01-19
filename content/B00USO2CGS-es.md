@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00USO2CGS-es Hermes Le Jardin De Monsieur Li Eau de Toilette...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 76.5 EUR
 currency: EUR
 price: 76.5

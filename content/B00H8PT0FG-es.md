@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H8PT0FG-es Dickies New York Short Pantalones Cortos de Deporte Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.4 EUR
 currency: EUR
 price: 13.4

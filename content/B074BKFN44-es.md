@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074BKFN44-es The Big Bang Theory Temporada 1-10 [DVD]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 70.5 EUR
 currency: EUR
 price: 70.5

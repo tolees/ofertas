@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NGKGK32-es Lactacyd Pharma Protección - Con extractos naturales de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

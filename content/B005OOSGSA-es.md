@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005OOSGSA-es Disney - Cars 2 - DVD'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

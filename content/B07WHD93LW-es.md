@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHD93LW-es Dockers by Gerli 46fz001-706440 Zapatillas para Hombre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

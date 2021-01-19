@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZH5PWF-es Bolígrafo de 10 colores Bolígrafo de gel de dibujos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

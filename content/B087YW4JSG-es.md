@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087YW4JSG-es Golden Goose Zapatillas deportivas antideslizantes para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 385.7 EUR
 currency: EUR
 price: 385.7

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX4RZT3-es PLAYMOBIL-Escaladores con Refugio Multicolor Sin...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.51 EUR
 currency: EUR
 price: 37.51

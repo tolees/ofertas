@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CUEH2MW-es ROC Pro Correct - Fluido Anti Arrugas Rejuvenecedor 40 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.83 EUR
 currency: EUR
 price: 20.83

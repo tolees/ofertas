@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NNWG56-es Lenovo Ideapad 520-15IKB - Ordenador portátil de 15.6"...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 599.99 EUR
 currency: EUR
 price: 599.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLL4CXS-es Puig Agua Fresca - 200 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.18 EUR
 currency: EUR
 price: 10.18

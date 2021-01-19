@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084S9GMC4-es Mc Haus GROTTA - Mesa Comedor Extensible Madera salón Mesa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

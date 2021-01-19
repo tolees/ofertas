@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQDFMFB-es Botones de Resina Botones Costura 285 Piezas Colores y...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

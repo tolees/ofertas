@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5X1PX6-es AZGIANT Toalla De Deporte De Enfriamiento Toalla De...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

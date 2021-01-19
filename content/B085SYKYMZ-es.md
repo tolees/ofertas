@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085SYKYMZ-es Funda iPhone 11 6.1" Silicona Anti-Golpes Detalles...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

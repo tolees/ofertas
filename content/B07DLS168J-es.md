@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLS168J-es KUTOP por charge2 Correa Charge 2 TPU Silicona Suave...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.84 EUR
 currency: EUR
 price: 9.84

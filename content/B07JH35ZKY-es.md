@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH35ZKY-es Columbia Redmond V2 Mid Botas de Senderismo Impermeables...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 67.45 EUR
 currency: EUR
 price: 67.45

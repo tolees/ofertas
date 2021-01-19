@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075L8JPSV-es Memoria USB 2.0 128 MB 10 Piezas Mini Pendrives - Mini Pen...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

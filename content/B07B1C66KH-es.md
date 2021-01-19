@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B1C66KH-es Chantelle DE Pyramide Sujetador con Aros Negro Schwarz 11...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.85 EUR
 currency: EUR
 price: 44.85

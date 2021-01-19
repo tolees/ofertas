@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FKVTSE2-es Paquete de 4 bloqueos de bloqueo de cadena de bloqueo de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.56 EUR
 currency: EUR
 price: 15.56

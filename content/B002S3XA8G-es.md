@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002S3XA8G-es Australian Gold Crema Hidratante Extensiva - 227 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

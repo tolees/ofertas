@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084ZTBFSK-es 2018 New Water Guns Pool Toys para niños Squirt Guns Pull-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.57 EUR
 currency: EUR
 price: 3.57

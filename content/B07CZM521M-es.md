@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZM521M-es Under Armour Sportstyle Wind Parte Superior del...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.38 EUR
 currency: EUR
 price: 20.38

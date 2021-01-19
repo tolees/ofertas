@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QV2M7WW-es LightHUB Lámpara de pared de yeso inferior interior...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

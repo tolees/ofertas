@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797VVVQM-es MODAUTO Asiento Deportivo Coche Semibaquet Ajustable de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 140.0 EUR
 currency: EUR
 price: 140.0

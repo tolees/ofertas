@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CEH6RY4-es Pokemon Luna'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.8 EUR
 currency: EUR
 price: 18.8

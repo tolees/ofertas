@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDV2D7S-es Pikolin Leah colchón viscoelástico y espuma HR gama alta...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

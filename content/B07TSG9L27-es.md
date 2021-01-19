@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSG9L27-es Gant Prepville Zapatillas para Hombre Beige Dry Sand G22...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.57 EUR
 currency: EUR
 price: 27.57

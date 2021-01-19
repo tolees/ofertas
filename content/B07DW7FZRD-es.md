@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DW7FZRD-es Eono Essentials - Soporte con Total Movimiento para...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.39 EUR
 currency: EUR
 price: 34.39

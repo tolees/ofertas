@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPMF39C-es Columbia Meadows Omni Botas Bajas para Mujer Marrón Heat-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.45 EUR
 currency: EUR
 price: 21.45

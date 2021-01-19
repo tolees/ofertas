@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCH7V7T-es Quiksilver Emboss-Sudadera con Capucha para Chicos 8-16...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.27 EUR
 currency: EUR
 price: 17.27

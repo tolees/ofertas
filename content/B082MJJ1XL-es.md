@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MJJ1XL-es Klarstein Beer Baron nevera de bebidas - 46 litros de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

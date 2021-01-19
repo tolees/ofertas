@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XNQQXDD-es Axiom Verge: Multiverse Edition'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.36 EUR
 currency: EUR
 price: 22.36

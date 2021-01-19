@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089Z3L5HY-es Nightmare Boy - Mongano´s Edition'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

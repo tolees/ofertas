@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNF8JRN-es UniqueMe Funda para Samsung Galaxy S10e Funda TPU Suave...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

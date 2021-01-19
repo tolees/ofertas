@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XX1WTV8-es Vogel s Thin 405 Soporte de Pared para TV 26-55 Pulgadas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.29 EUR
 currency: EUR
 price: 43.29

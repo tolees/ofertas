@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNS3NZ1-es Superdry Classic Pique S/s Polo Azul Electric Blue Grit...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.65 EUR
 currency: EUR
 price: 24.65

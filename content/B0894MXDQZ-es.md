@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894MXDQZ-es BOWFU Funda para Samsung Galaxy A51 5G Case 【Silicona...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

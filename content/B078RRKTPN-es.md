@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078RRKTPN-es Almohada maBELLA con Cuidado de la Piel y Aromaterapia |...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

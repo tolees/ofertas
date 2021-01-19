@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVXCT7N-es KKBSTR Repetidores de Señal de Móviles Amplificador de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 219.99 EUR
 currency: EUR
 price: 219.99

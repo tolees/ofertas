@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMKYTJR-es 28 Palms 6" Inseam Tropical Hawaiian Print Swim Trunk...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

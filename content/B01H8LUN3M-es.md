@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H8LUN3M-es Under Armour Shinguard Sleeves Espinillera Hombre Negro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.14 EUR
 currency: EUR
 price: 7.14

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08443VXLJ-es Huawei Matebook D 15 - Ordenador Portátil de 15. 6" FullHD...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 471.47 EUR
 currency: EUR
 price: 471.47

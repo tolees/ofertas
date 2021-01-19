@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLPVNNC-es Cecotec Cafetera Express con Manómetro Cafelizzia 790...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 84.9 EUR
 currency: EUR
 price: 84.9

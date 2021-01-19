@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084WVXSXF-es YIMINYUER Alfombrillas de Ejercicios Espumas EVA...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

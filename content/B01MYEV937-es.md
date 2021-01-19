@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYEV937-es Bosch UneoMaxx - Martillo perforador a batería 2 baterías...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 152.99 EUR
 currency: EUR
 price: 152.99

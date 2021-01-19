@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017VXNQMW-es KOTION Cada G2000 estéreo de 3 5 mm Over-Oreja Gaming...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

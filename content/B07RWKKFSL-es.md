@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWKKFSL-es Nike Dri-FIT Sports Bra G Sujetador Deportivo Niñas Rosa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

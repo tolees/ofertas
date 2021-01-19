@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNVMGM8-es Clarks Un Rio Lace Zapatillas para Mujer Gris Stone...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 66.45 EUR
 currency: EUR
 price: 66.45

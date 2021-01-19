@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083Q1NVGS-es B Blesiya 2Pcs Colgante Wood Bird House Retro Arts and...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.71 EUR
 currency: EUR
 price: 28.71

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000P5QCHA-es Abus 1850 Cable Acero antirrobo Moto Negro 185cm'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

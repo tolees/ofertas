@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R7B96GO-es Pioneer SE-MJ561BT-T - Auriculares supraurales Bluetooth...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.0 EUR
 currency: EUR
 price: 47.0

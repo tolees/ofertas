@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HY6CKY7-es Rowenta Perfect Steam Pro DG8642F0 - Centro de planchado...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 196.99 EUR
 currency: EUR
 price: 196.99

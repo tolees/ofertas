@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4W3XPF-es Scuderia Ferrari Reloj Multiesfera para Hombre de Cuarzo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 83.59 EUR
 currency: EUR
 price: 83.59

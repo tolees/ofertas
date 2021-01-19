@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JHKKS-es Clarks Un Elda Hi Botas Slouch para Mujer Marrón Dark Tan...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.21 EUR
 currency: EUR
 price: 26.21

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M28BQKR-es Gant Terrycloth Robe Albornoz Azul Yankee Blue 459 Medium...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.1 EUR
 currency: EUR
 price: 64.1

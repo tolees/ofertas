@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVKF3DH-es Wrangler Icons Pantalones Azul Blue 6 Months 923 30W / 32L...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.23 EUR
 currency: EUR
 price: 33.23

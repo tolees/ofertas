@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVR251Z-es XINFULUK Ratón inalámbrico de 2 4 GHz Ratón para Juegos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

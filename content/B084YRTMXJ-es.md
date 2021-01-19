@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084YRTMXJ-es Auriculares Bluetooth Auriculares inalámbricos Bluetooth...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.77 EUR
 currency: EUR
 price: 19.77
