@@ -26,7 +26,7 @@ En este momento está [Adidas Continental 80  Zapatillas de Gimnasia Hombre  Bla
 🔎:
 
 - Estilo vintage
-- Empeine de piel lisa
 - Zapatillas deportivas
+- Empeine de piel lisa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K1M8FCY/?tag=tolees-21)

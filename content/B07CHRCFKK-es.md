@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grip: Combat Racing al 39.13 % de descuento'
-date: 2021-01-16 09:15:29
+date: 2021-01-19 09:03:31
 image: 'https://m.media-amazon.com/images/I/51TTy+9BxUL._SL200_.jpg'
 comments: true
 category: ofertas

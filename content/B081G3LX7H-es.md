@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Daren Zip Fly Jeans  Espuma Media  3 al 60.00 % de descuento'
-date: 2021-01-17 00:19:45
+date: 2021-01-19 09:38:13
 image: 'https://m.media-amazon.com/images/I/41RijUI7r9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,7 +27,7 @@ Ahora mismo tienes [Lee Daren Zip Fly Jeans  Espuma Media  32W x 32L para Hombre
 
 - DENIM STRETCH
 - INDIGOOD
-- Regular Straight
 - Tejido vaquero
+- Regular Straight
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081G3LX7H/?tag=tolees-21)

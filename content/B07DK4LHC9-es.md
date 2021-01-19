@@ -25,8 +25,8 @@ Tienes [Funko - Honey Smacks - Figura Multicolor  30674](https://www.amazon.es/d
 
 🔎:
 
-- El producto se vende en la caja original con ventana frontal.
-- Las reproducciones miden aproximadamente 9 cm, pero también existen versiones extragrandes.
 - Los Funko Pop son reproducciones estilizadas de personajes icónicos de películas, series de televisión, series animadas, cómics, videojuegos y mucho más.
+- Las reproducciones miden aproximadamente 9 cm, pero también existen versiones extragrandes.
+- El producto se vende en la caja original con ventana frontal.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DK4LHC9/?tag=tolees-21)

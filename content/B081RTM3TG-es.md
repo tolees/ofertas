@@ -26,7 +26,7 @@ En este momento está [PUMA Gym Duffle M Bolsa Deporte  Unisex Adulto  Black  OS
 🔎:
 
 - Mesh slip-in pocket AT Side
-- Two way u-shaped zip Opening to main Compartiment
 - Interior slip-in pocket
+- Two way u-shaped zip Opening to main Compartiment
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081RTM3TG/?tag=tolees-21)

@@ -27,8 +27,8 @@ Tienes [Pop! Vinilo: Big Bang Theory S2: Howard](https://www.amazon.es/dp/B07N5W
 
 - Television: big bang theory s2
 - Juguete del año 2018
-- De la colección big bang theory, howard como figura de vinilo pop de funko
-- Funko pop vinyl
 - Howard
+- Funko pop vinyl
+- De la colección big bang theory, howard como figura de vinilo pop de funko
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07N5WGWQT/?tag=tolees-21)
