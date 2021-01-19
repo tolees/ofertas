@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cy1XrqntL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007EKFT78-es'
+slug: 'B007EKFT78-es Buiten speel Pulpo Waterparty'
 actualPrice: 12.43 EUR
 currency: EUR
 price: 12.43

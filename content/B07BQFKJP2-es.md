@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kqirLLZ9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQFKJP2-es'
+slug: 'B07BQFKJP2-es Scottex Collection Servilletas - 1500 unidades'
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

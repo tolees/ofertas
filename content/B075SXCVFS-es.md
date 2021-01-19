@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YO4R0jtmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075SXCVFS-es'
+slug: 'B075SXCVFS-es Roffatide Rayado Tartán Costura Hebilla Plano Gorra Boinas Hombre Retro Chapelas Azul Oscuro'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

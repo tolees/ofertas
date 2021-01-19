@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Cg2NeH5VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LLQEN8G-es'
+slug: 'B01LLQEN8G-es Quid Intense - Tartera de aluminio fundido  32cm  5L  asas de silicona  tapa de vidrio'
 actualPrice: 39.91 EUR
 currency: EUR
 price: 39.91

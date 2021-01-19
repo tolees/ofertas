@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312kpkM7SHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKRM12C-es'
+slug: 'B07ZKRM12C-es UGREEN Lector Tarjetas SD y Micro SD USB Tipo C  Lector Tarjetas de Memoria USB 3.0 Lectura Simultánea SD y TF para iPad Pro 2020/2018  MacBook Pro 2019  Samsung S20  Huawei P40 Pro  Xiaomi Mi10 Mi9'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

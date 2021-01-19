@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O27HaPVSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7Q5Q4Y-es'
+slug: 'B07P7Q5Q4Y-es American Tourister Soundbox - Spinner Large Expandable Maleta  77 cm  110 Liters  Morado  Purple Orchid '
 actualPrice: 107.22 EUR
 currency: EUR
 price: 107.22

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oHd2VuULL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPC49N4-es'
+slug: 'B07FPC49N4-es Rowenta HQ7111 Air Force Hot & Cool Calefactor y ventilador  flujo de aire silencioso  modo automático  hasta 45 m²  seguridad reforzada y fácil transporte'
 actualPrice: 141.99 EUR
 currency: EUR
 price: 141.99

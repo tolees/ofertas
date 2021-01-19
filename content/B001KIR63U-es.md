@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-Uk%2BroBmL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B001KIR63U-es'
+slug: 'B001KIR63U-es Philips HD4419/20 - Plancha de Asar  2300 W  Doble superficie  Antiadherente  Apto Lavavajillas  Color Negro'
 actualPrice: 57.85 EUR
 currency: EUR
 price: 57.85

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g1kwiL8lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000TCV7TW-es'
+slug: 'B000TCV7TW-es Reflex Nutrition Creapure Creatine Monohydrate Standard - 500 gr'
 actualPrice: 17.44 EUR
 currency: EUR
 price: 17.44

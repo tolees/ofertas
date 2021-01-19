@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VMlY6XYZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872PMQGJ-es'
+slug: 'B0872PMQGJ-es Funda Transparente Compatible para Xiaomi Mi 8 Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Xiaomi Mi 8 A2'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

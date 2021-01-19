@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dLSYYE3mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5JF7QW-es'
+slug: 'B07G5JF7QW-es Impresora Multifuncional Canon PIXMA TS6250 Negra Wifi de inyección de tinta'
 actualPrice: 83.33 EUR
 currency: EUR
 price: 83.33

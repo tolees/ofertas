@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sM24spldL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N74ZDNW-es'
+slug: 'B01N74ZDNW-es Deyard Kit de Accesorios para GoPro Hero 7 Sólo negro  Hero  2018   GoPro Hero 6 y Hero 5 Action Camera  25 artículos en 1  con Carcasa pequeña a Prueba de Golpes'
 actualPrice: 12.91 EUR
 currency: EUR
 price: 12.91

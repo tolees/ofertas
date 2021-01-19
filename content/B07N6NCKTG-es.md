@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ANRx+MHxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6NCKTG-es'
+slug: 'B07N6NCKTG-es Lico Cathrin  Botas de Nieve para Niñas  Rosa Pink/Silber  25 EU'
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

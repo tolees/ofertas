@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OVTUROnnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J1VCZJN-es'
+slug: 'B07J1VCZJN-es Petusco - Naomi Coral Piel de vacuno tipo grano y grabado logotipo'
 actualPrice: 120.0 EUR
 currency: EUR
 price: 120.0

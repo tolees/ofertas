@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31BLJ-jXqDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W2WFQPL-es'
+slug: 'B07W2WFQPL-es BESTEK Abrazadera de Soporte de Tableta Ajustable Flexible  Clip de Repuesto de Soporte para Tableta de 9.5-14.5 Pulgadas'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

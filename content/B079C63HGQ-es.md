@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415P7j9xVlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079C63HGQ-es'
+slug: 'B079C63HGQ-es SALOMON Festival 2-Pack 2 Pares de Calcetines Cortos  Unisex Adulto  Blanco/Negro  M  39-41 '
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

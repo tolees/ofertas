@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41byCxlGaBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4JN2S2-es'
+slug: 'B07W4JN2S2-es ORICO Aluminio 3.5 Pulgadas 4 Bahías Gabinete Disco Duro Externo - Libre de Herramientas para USB 3.0 a SATA HDD/SSD - Soporte 64 TB - LED Indicador - Negro'
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

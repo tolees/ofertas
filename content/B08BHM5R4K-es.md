@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314kXqZsh1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHM5R4K-es'
+slug: 'B08BHM5R4K-es Ventilador Personal Portáti Ventilador de Cuello Colgante  Mini USB Ventilador sin Cuchillas Recargable Ventilador Personal Portátil con 3 Velocidades（222x207x58mm）'
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TCc3NUMZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H57SL3X-es'
+slug: 'B07H57SL3X-es AZDOME Mini Altavoz Bluetooth Portatiles Pequeño 5W│Altavoz Inalámbrico con 8 Horas de Reproducción│Bluetooth 4.2 y Estéreo Sonido 360°│Compatible con Teléfonos iPhone  Samsung y Tableta PC'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

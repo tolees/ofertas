@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315fLT-FamL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXXWRZC-es'
+slug: 'B07RXXWRZC-es adidas Ctr365 Crew Calcetines  Unisex Adulto  Blanco/Negro  2XL'
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

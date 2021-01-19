@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jGLLTnggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FCMH6S-es'
+slug: 'B083FCMH6S-es Zapatillas de Running para Unisex Niños Gimnasia Ligero Running Atletismo Sneakers Niñas Gris Claro 37 EU'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

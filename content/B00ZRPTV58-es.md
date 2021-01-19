@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3148hkq0vcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZRPTV58-es'
+slug: 'B00ZRPTV58-es Astor Perfect Stay 16H Barra de Labios de Larga Duración Tono 235 I´ll Stay Nude - 18 gr'
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

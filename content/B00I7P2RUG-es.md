@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419BGfU9+EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I7P2RUG-es'
+slug: 'B00I7P2RUG-es Sunburst Snacks Sunburst maní y miel de chile asado  NO OGM  sin conservantes  saborizantes o aceites  500G'
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

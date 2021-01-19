@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RFvdQ-YoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLP38S7-es'
+slug: 'B07TLP38S7-es Clarks Sift Lace  Zapatillas para Mujer  Blanco  White Combi White Combi   35.5 EU'
 actualPrice: 30.04 EUR
 currency: EUR
 price: 30.04

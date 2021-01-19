@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aJHqO-BPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JR3FP2-es'
+slug: 'B087JR3FP2-es Agger 1PC 800ml Gel Duradero Bolas Cargando Botellas con Cuentas de plástico 10000PCS 7-8mm'
 actualPrice: 5.08 EUR
 currency: EUR
 price: 5.08

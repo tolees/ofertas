@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bJDaczXWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VR53ZVS-es'
+slug: 'B00VR53ZVS-es Skechers Men s Stamina Cutback Trainers  Blue  Navy & Black Leather/Charcoal Mesh Nvbk   9  43 EU '
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

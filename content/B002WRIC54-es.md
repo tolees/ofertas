@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fXXlATvxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002WRIC54-es'
+slug: 'B002WRIC54-es Bosch 2 609 255 127 - Juego de 5 brocas para metal HSS-G con vástago de inserción hexagonal'
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

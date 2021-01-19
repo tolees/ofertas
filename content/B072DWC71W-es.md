@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bQHMDKP6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072DWC71W-es'
+slug: 'B072DWC71W-es Ambielly calcetines de algodón calcetines térmicos Adulto Unisex Calcetines  706B '
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

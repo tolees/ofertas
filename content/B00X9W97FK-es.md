@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EaIDdd7QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9W97FK-es'
+slug: 'B00X9W97FK-es L Oreal Paris Sublime Mousse 1 Coloración'
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

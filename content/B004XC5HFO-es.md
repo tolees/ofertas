@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KEmiWPZ7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004XC5HFO-es'
+slug: 'B004XC5HFO-es Panama Jack Fedro  Botas Estilo Motero para Hombre  Negro  Negro C3   40 EU'
 actualPrice: 91.72 EUR
 currency: EUR
 price: 91.72

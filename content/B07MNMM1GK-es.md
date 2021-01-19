@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mkfbqDt6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNMM1GK-es'
+slug: 'B07MNMM1GK-es Lámpara de Plantas  Yokunat 60 LED Luz de la Planta Iluminación 27W con 15 Herramientas de Jardinería  3 Modos de Lluminación  5 Niveles Regulables  Rotación de 360° y Función de Temporizador'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419sOGyNNFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UCL2L2M-es'
+slug: 'B00UCL2L2M-es Aqua Control Riego por Goteo para Balcones-Programador C4099N + 12 Goteros Autocompensantes de 2 l/h + Microtubo de 4 mm  Kit C4061'
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

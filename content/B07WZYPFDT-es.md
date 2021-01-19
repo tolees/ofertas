@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+mIf8QNlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZYPFDT-es'
+slug: 'B07WZYPFDT-es Tacklife RTD37AC - Herramienta multifunción  200 W  herramienta giratoria  40 000 rpm  herramienta multifunción de 6 velocidades de control  uso para bricolaje  corte  rectificación  perforación  grabado y así sucesivamente'
 actualPrice: 35.44 EUR
 currency: EUR
 price: 35.44

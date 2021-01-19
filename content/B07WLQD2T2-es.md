@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IbniL221L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLQD2T2-es'
+slug: 'B07WLQD2T2-es GLOBE Tilt  Zapatillas de Skateboard para Hombre  Negro  Black/Carbon/Red 20494   37 EU'
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

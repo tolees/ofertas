@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415+eGbu68L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UT2NRDG-es'
+slug: 'B00UT2NRDG-es Tommy Hilfiger Bralette Sujetador Deportivo  Negro  BLACK 990   38  talla del fabricante: LG  para Mujer'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

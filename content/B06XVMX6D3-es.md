@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KJfSf8L7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XVMX6D3-es'
+slug: 'B06XVMX6D3-es Mujer Plisada EláStica Escuela Skorts Tenis Con Ropa Interior Cubierto'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

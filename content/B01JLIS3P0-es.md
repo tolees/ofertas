@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XGtU82QTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JLIS3P0-es'
+slug: 'B01JLIS3P0-es Hugo Boss Orange 1513415 - Reloj de pulsera para hombre'
 actualPrice: 90.98 EUR
 currency: EUR
 price: 90.98

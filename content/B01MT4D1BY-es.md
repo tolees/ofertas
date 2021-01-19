@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411sCo8WytL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT4D1BY-es'
+slug: 'B01MT4D1BY-es Asics Gel-Lyte Iii  Zapatillas Unisex Adulto  Negro  Black/black   37.5 EU'
 actualPrice: 28.56 EUR
 currency: EUR
 price: 28.56

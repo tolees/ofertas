@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uNoADuGiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKZT5JR-es'
+slug: 'B07XKZT5JR-es URCERI Pinpointer Detector de Metales IP68 Detección de escaneo de 360°  3 Modos de Alarma  Alta sensibildad  Linterna LED  Bateía de 9V  Fácil de Llevar  Adecuado para río  Arroyos  Arena  etc.'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

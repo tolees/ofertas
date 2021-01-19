@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-9seq-AlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7QBD99-es'
+slug: 'B07W7QBD99-es Botas De Nieve para Mujer 35-44 EU Botas De Invierno Nuevas Botas De Nieve Cálidas Botas De Nieve para Mujeres'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

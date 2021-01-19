@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mbdJMwVZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L5FKZL3-es'
+slug: 'B07L5FKZL3-es Viking Alvdal Mid R GTX  Zapatillas Altas Unisex Niños  Negro  Black/Charcoal 277   20 EU'
 actualPrice: 13.09 EUR
 currency: EUR
 price: 13.09

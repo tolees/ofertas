@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zwVKYTRIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FSXDF9-es'
+slug: 'B075FSXDF9-es HAVIT Auricular Bluetooth V4.2 IPX5 Deportes magnéticos Cableado Bluetooth In-Ear Móvil 7-10 horas 10M Rango inalámbrico a prueba de agua con Mai y computadora con teléfono  Rojo '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

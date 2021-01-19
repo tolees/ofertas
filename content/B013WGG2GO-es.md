@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oWmbyxJOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013WGG2GO-es'
+slug: 'B013WGG2GO-es New Balance WX624WB4  Zapatillas para Mujer  Blanco  white/blue   41 EU  7.5 UK '
 actualPrice: 32.07 EUR
 currency: EUR
 price: 32.07

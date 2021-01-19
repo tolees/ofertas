@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4115fr5-a6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJF954N-es'
+slug: 'B07SJF954N-es Asics Fujitrabuco Pro  Running Shoe Womens  Metropolis/Black  37 EU'
 actualPrice: 97.77 EUR
 currency: EUR
 price: 97.77

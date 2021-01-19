@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4169nbhqIfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2BMHXJ-es'
+slug: 'B07F2BMHXJ-es Star Wars Reloj Niños de Digital con Correa en PU SWJ4011'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Aecn4sIBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002AR3PS-es'
+slug: 'B0002AR3PS-es Exo Terra Infra-Rojo Nocturno Heat GLO  50 W'
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

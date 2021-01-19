@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51noGzxLMBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJ6NDTV-es'
+slug: 'B07HJ6NDTV-es Funko- Pop Vinyl: Animation: Rick & Morty: Unity Rick and Morty Figura de vinilo - coleccionable  Multicolor  talla única  35595 '
 actualPrice: 6.28 EUR
 currency: EUR
 price: 6.28

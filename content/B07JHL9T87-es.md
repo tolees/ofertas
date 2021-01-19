@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41v-PEhW%2BCL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHL9T87-es'
+slug: 'B07JHL9T87-es Columbia Redmond V2 Mid  Botas de Senderismo Impermeables para Hombre  Gris  Graphite  Red J 053   43 EU'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

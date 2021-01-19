@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HCcnGBHiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072FJ4VM5-es'
+slug: 'B072FJ4VM5-es Grace & Stella Co. Tratamiento de pérdida de cabello instantánea para hombres y mujeres - las fibras de queratina construcción de cabello Un suministro para cinco semanas Marrón medio'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

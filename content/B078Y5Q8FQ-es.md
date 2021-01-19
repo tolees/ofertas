@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313NQfmf46L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078Y5Q8FQ-es'
+slug: 'B078Y5Q8FQ-es BRA Advanced Sartén  22 cm  aluminio fundido con antiadherente  sin PFOA  súper reforzado de rendimiento superior y alta resistencia a los arañazos y a la abrasión  apta para Inducción'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

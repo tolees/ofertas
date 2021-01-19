@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TFEp4fjnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781VC1GQ-es'
+slug: 'B0781VC1GQ-es PUMA Liga Training Shorts W Chándal  Mujer  Negro  Black/White   M'
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

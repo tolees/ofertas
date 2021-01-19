@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418KkSdUJZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M15KS4E-es'
+slug: 'B01M15KS4E-es AEG AKIT 360+ Accesorio Para Aspirador De Mano  Plástico  Negro'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

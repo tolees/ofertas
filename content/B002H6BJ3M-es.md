@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XtssupOyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002H6BJ3M-es'
+slug: 'B002H6BJ3M-es Nike Benassi JDI  Slide Sandal Womens  Black/Vivid Pink/Black  38 EU'
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

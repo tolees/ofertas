@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-UBptS11L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FD5Y8LJ-es'
+slug: 'B07FD5Y8LJ-es Ferilinso[2 Pack Cristal Templado para Xiaomi Redmi Note 6 Pro  [Cobertura Completa] [Corregido] Estuche Libre de Burbujas Película Protectora de Protector de Pantalla  Nero '
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

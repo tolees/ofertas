@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d+ohkuRXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGLTRB2-es'
+slug: 'B07JGLTRB2-es L Oréal Men Expert Cofre Vitalift Crema antiedad para hombre y Gel de Ducha'
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

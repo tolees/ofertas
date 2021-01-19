@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GblVMktFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXJVTS5-es'
+slug: 'B07KXJVTS5-es hummel Slimmer Stadil High  Zapatillas Altas Unisex Adulto  Verde  Olive Night 6453   36 EU'
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

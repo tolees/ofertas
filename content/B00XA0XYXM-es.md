@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51s1612-VAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA0XYXM-es'
+slug: 'B00XA0XYXM-es Príncipe Mini - Galletas Rellenas de Chocolate con Leche en Formato Mini - 4 Bolsitas para Llevar  160 g'
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

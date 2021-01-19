@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-7BYt2IHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9R6RBG-es'
+slug: 'B07F9R6RBG-es Hetoco Azucarero de cerámica con Tapa y Cuchara de Acero Inoxidable para el hogar y la Cocina  diseño de Flores  Color Blanco Flor.'
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

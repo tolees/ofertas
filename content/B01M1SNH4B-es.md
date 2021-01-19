@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31p1E8J+ZhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1SNH4B-es'
+slug: 'B01M1SNH4B-es Trust GXT 570 - Volante Gaming de Competición con Respuesta de Vibración para Pc y Ps3  Negro'
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

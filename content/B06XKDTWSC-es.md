@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51U-ygUSi-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XKDTWSC-es'
+slug: 'B06XKDTWSC-es Lepfun P3000 1 pcs Correa Protector Deportiva Ajustable de Rodilla para Gimnasio Bádminton Baloncesto deporte al aire - Negro  Small/Medium '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

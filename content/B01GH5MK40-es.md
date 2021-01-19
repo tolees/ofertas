@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-8L1GtfSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GH5MK40-es'
+slug: 'B01GH5MK40-es Under Armour Tech Polo  Hombre  Rojo  SM'
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

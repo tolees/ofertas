@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SAIBwH1cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MY1RGDT-es'
+slug: 'B07MY1RGDT-es Vbiger Mochilas Escolares Niña 3 en 1 para 7 a 16 Años  Negro '
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41255FJnTSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ8RZ3F-es'
+slug: 'B07TJ8RZ3F-es Kickers Atryo  Zapatillas para Hombre  Azul  Bleu Denim 5   42 EU'
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

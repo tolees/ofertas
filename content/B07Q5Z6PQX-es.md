@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513mFF2AeXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q5Z6PQX-es'
+slug: 'B07Q5Z6PQX-es zociko EMS Electroestimulador Muscular Abdominales Estimulador Muscular Masajeador Eléctrico Cinturón EMS Estimulador Abdomen/Brazo/Piernas/Cintura Entrenador Muscular  USB Recargable  Hombre/Mujer '
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

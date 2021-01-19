@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SDkohQ30L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EVS0J4O-es'
+slug: 'B00EVS0J4O-es Rimmel London Lasting Finish Mono Blush Colorete Tono 190 Coral - 30 7 gr'
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

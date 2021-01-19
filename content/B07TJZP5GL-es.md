@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rIACWA9dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJZP5GL-es'
+slug: 'B07TJZP5GL-es Dash Cam  Lncoon JC200 3G/WiFi Dual Cámara para Coche 1080P HD con GPS  DVR Cámara Loop Grabación/G-Sensor/Corte de energía  Alarma de Vibración/SOS  3G Transmisión de Video en Vivo a Través de APP/PC'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

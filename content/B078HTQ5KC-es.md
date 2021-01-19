@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q9ZeV4ErL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HTQ5KC-es'
+slug: 'B078HTQ5KC-es Fila Leggings Flex 2.0 negro talla: M  Medium '
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

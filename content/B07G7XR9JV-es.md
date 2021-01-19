@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BPNGuBM2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G7XR9JV-es'
+slug: 'B07G7XR9JV-es New Balance FuelCell Propel  Zapatillas de Running para Hombre  Negro  Summer Fog Summer Fog   42.5 EU'
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

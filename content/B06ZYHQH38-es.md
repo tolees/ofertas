@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fzQiZ5qeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYHQH38-es'
+slug: 'B06ZYHQH38-es H&S Nutre & Cuida Champú Anticaspa - 540 ml'
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

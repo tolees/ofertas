@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MQroGonCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XR5JHS4-es'
+slug: 'B06XR5JHS4-es Nike Revolution 4  PSV   Zapatillas de Entrenamiento Unisex Niños  Negro  Black/White-Anthracite 006   31 EU'
 actualPrice: 22.65 EUR
 currency: EUR
 price: 22.65

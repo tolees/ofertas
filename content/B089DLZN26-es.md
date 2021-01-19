@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LEf-M5ayL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089DLZN26-es'
+slug: 'B089DLZN26-es MUVIP Sandwichera INOX Grill  Potencia 750W  Placas Antiadherentes Tipo Grill  Placa Superior Basculante  Asa Tacto frío  Presión Uniforme  Acabado INOX  Limpieza Fácil  – Gris'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ahT+uEWqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KBZUFO-es'
+slug: 'B000KBZUFO-es Shimano PD-M424 - Pedales M-424 Spd'
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

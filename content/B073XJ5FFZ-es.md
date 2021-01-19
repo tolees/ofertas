@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-dKpt-sKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XJ5FFZ-es'
+slug: 'B073XJ5FFZ-es Silk n SkinVivid  Masajeador facial con modo vibración  Masaje en calor y en frío  Blanco/Cromo  SV1PEU001'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

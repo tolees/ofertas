@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZizTfbMpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008KO2ANS-es'
+slug: 'B008KO2ANS-es Monix Classica Olla a Presión Tradicional de 10 litros  Acero Inoxidable  Gris  24 cm'
 actualPrice: 58.9 EUR
 currency: EUR
 price: 58.9

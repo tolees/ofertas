@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51o22RbgjdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4RRTJJ-es'
+slug: 'B07V4RRTJJ-es Tommy Hilfiger - Soft Turnlock Cc Holder  Carteras Mujer  Marrón  Tobacco   1x1x1 cm  W x H L '
 actualPrice: 24.86 EUR
 currency: EUR
 price: 24.86

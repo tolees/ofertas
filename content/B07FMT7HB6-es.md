@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418yUz2qDEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMT7HB6-es'
+slug: 'B07FMT7HB6-es Kickers 584348-10  Botas Unisex bebé  Azul  Marine Foncé Perm 102   30 EU'
 actualPrice: 24.12 EUR
 currency: EUR
 price: 24.12

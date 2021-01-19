@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UrsmYLoOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJZC89P-es'
+slug: 'B07GJZC89P-es Ecovacs OZMO Slim10 - Robot Aspirador 4 en 1: barre  aspira  pasa mopa y friega  navegación inteligente  control por App  Wifi  4 modos de limpieza  diseño ultrafino  suelo duro  Gris'
 actualPrice: 168.99 EUR
 currency: EUR
 price: 168.99

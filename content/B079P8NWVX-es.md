@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319cFWJcWTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079P8NWVX-es'
+slug: 'B079P8NWVX-es Brabantia Organizador de Fregadero  Gris Oscuro  8 5 x 19 x 11.5 cm'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

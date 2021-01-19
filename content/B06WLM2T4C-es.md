@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4143EwL8cgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WLM2T4C-es'
+slug: 'B06WLM2T4C-es Reloj Guess - Hombre W0971G1'
 actualPrice: 113.4 EUR
 currency: EUR
 price: 113.4

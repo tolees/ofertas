@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318bT4vtcPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQT51HD-es'
+slug: 'B07KQT51HD-es adidas Essential Linear Medias  Mujer  Negro/Blanco  XS'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

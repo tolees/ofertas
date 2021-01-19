@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u6MxRBwIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDK1LB4-es'
+slug: 'B07XDK1LB4-es Polarduck Soporte de Pared para TV de 23-55 pulgadas  Fijo Ultra Delgado Soporte TV para LED/LCD/Plasma/Curvada Televisores  VESA Máx. 400x400mm  Carga Máx. 60 kg  Negro'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

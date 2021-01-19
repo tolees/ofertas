@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aEi+ki8bL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRCNTSF-es'
+slug: 'B07SRCNTSF-es adidas EQT Gazelle  Zapatillas de Gimnasia para Hombre  Gris  Grey Two F17/Silver Met./Core Black Grey Two F17/Silver Met./Core Black   42 2/3 EU'
 actualPrice: 31.29 EUR
 currency: EUR
 price: 31.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DY0gn+Y1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYW7DJB-es'
+slug: 'B07KYW7DJB-es Nemesis Now Boss - Figura Decorativa de Calavera  18 cm  Resina  Talla única   Color Marfil'
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

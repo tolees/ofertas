@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yDWXNkuIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8QGSPZ-es'
+slug: 'B07K8QGSPZ-es Disney Pijamas de Manga Larga para niños The Incredibles Ajuste Ceñido Rojo 2-3 Años'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

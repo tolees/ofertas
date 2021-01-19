@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vq+4YQECL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5L6PWH-es'
+slug: 'B07N5L6PWH-es Banpresto Blood of Saiyans Dragon Ball Estatua Super Saiyan Son Goku  Multicolor  85145 '
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

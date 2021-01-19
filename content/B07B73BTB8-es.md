@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Bgc8su8kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B73BTB8-es'
+slug: 'B07B73BTB8-es New Balance 800 Middle Distance  Zapatillas de Atletismo para Hombre  Turquesa  Neon Emerald/Black G6   44 EU'
 actualPrice: 67.61 EUR
 currency: EUR
 price: 67.61

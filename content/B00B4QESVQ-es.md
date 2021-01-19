@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51W8+WuxJjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B4QESVQ-es'
+slug: 'B00B4QESVQ-es HGST Travelstar 7K1000 1TB - Disco Duro Interno de 1 TB  Serial ATA III  1000 GB  2.5"   Negro y Plateado'
 actualPrice: 51.26 EUR
 currency: EUR
 price: 51.26

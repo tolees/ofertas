@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31t0MdEL14L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJSRDTN-es'
+slug: 'B07RJSRDTN-es FIND - Brocha para polvos - n.º 10'
 actualPrice: 5.34 EUR
 currency: EUR
 price: 5.34

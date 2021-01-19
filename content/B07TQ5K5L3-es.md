@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-CTgrqvPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ5K5L3-es'
+slug: 'B07TQ5K5L3-es Cocoty-store Pantalones 2019 Pantalones de Hombre Casuales Chino Deporte Joggers Pants Algodón Slim Fit Jeans Cargo Trouser Negro XXXL '
 actualPrice: 3.84 EUR
 currency: EUR
 price: 3.84

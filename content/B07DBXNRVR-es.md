@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31PLEM5wL5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBXNRVR-es'
+slug: 'B07DBXNRVR-es PUMA Vikky v2 Ribbon Core  Zapatillas para Mujer  Black Silver White  37 EU'
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

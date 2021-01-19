@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41euM1g3DbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711HMJC4-es'
+slug: 'B0711HMJC4-es Reloj Viceroy - Hombre 42295-47'
 actualPrice: 74.5 EUR
 currency: EUR
 price: 74.5

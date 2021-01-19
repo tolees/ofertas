@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jx5jwmBbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LPLY6YO-es'
+slug: 'B00LPLY6YO-es Compartimento de verduras para el frigorífico  original de Liebherr  grande  9290036'
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

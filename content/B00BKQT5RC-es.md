@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418sDRBgMHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKQT5RC-es'
+slug: 'B00BKQT5RC-es Daniel Wellington 0106DW Reloj Analógico para Hombre de Cuero Marrón'
 actualPrice: 69.63 EUR
 currency: EUR
 price: 69.63

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LyzoZ5ojL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JQN69TS-es'
+slug: 'B00JQN69TS-es Etnies Scout  Zapatillas de Skateboard para Hombre  Azul  Navy/White/Gum 478   45 EU'
 actualPrice: 24.75 EUR
 currency: EUR
 price: 24.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Nss4tlGuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFBPSBH-es'
+slug: 'B07SFBPSBH-es Helly Hansen Daybreaker 1/2 Zip Fleece Forro Polar  Hombre  Azul Royal  S'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419bxlg+HBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BKQRJ68-es'
+slug: 'B07BKQRJ68-es DROP SHOT Paletero Dunkan  Adultos Unisex'
 actualPrice: 60.46 EUR
 currency: EUR
 price: 60.46

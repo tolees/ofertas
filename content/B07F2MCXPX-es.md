@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Vwq0m0KzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2MCXPX-es'
+slug: 'B07F2MCXPX-es Vans Herren Left Chest Logo Tee T-Shirt  Schwarz  Black White Grey Melange   X-Large'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

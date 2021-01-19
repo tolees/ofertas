@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51w%2B4CyTSvL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHBFFSL-es'
+slug: 'B07MHBFFSL-es Star vie Aquila Pro'
 actualPrice: 102.5 EUR
 currency: EUR
 price: 102.5

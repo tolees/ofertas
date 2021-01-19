@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vde3pIjTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B002LIU07C-es'
+slug: 'B002LIU07C-es HP CB540AD 125A Cartucho de Tóner Original  2 unidades  negro'
 actualPrice: 125.9 EUR
 currency: EUR
 price: 125.9

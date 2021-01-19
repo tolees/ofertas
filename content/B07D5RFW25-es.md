@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zbgIu1KiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5RFW25-es'
+slug: 'B07D5RFW25-es PUMA ESS Sweat TR Chándal  Hombre  Gris  Medium Gray Heather   S'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

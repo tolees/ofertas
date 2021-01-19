@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318d2Y666iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0721MFK2B-es'
+slug: 'B0721MFK2B-es YanBan Manija plástica estándar de la higiene oral de para Waterpik WP-100 WP-450 WP-660 WP900'
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

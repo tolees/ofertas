@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312P5UsNJwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085MDMH27-es'
+slug: 'B085MDMH27-es Agger Bicicletas Pequeña Moto Motocicleta reparación alicates instalación de eliminación de Clip Conectar Enlace'
 actualPrice: 5.11 EUR
 currency: EUR
 price: 5.11

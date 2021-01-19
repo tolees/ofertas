@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vzJPIRHLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SP4K24C-es'
+slug: 'B07SP4K24C-es Under Armour Tech 2.0 Tanque  Hombre  Azul  MD'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

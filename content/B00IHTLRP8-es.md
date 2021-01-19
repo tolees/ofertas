@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eOT1atMEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IHTLRP8-es'
+slug: 'B00IHTLRP8-es Shingeki No Kyojin Attack on Titan Collectible Anime Pocket White Watch'
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

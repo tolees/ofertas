@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qJKSwb0CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HZM82GY-es'
+slug: 'B01HZM82GY-es Pulsar Reloj Mujer de Analogico PH7447X1'
 actualPrice: 45.23 EUR
 currency: EUR
 price: 45.23

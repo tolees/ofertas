@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TCwfiZKGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085BRRHC7-es'
+slug: 'B085BRRHC7-es Luz Solar Exterior 210LED  AOPAWA [Actualizada 2000 Lúmenes] Foco Solar con Sensor de Movimiento Lámpara Solar Exterior Impermeable Gran Ángulo 270º de Iluminación Luces Solares Jardín 2-Paquete'
 actualPrice: 25.94 EUR
 currency: EUR
 price: 25.94

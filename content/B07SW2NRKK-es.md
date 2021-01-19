@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cQnDtx85L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SW2NRKK-es'
+slug: 'B07SW2NRKK-es Someline - Foco led para exteriores  20 W  con sensor de movimiento  enchufe y caja de derivación  IP66  resistente al agua  con sensor de movimiento  3 unidades '
 actualPrice: 37.81 EUR
 currency: EUR
 price: 37.81

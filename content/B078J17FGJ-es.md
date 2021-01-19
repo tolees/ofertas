@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/615B50HwV0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078J17FGJ-es'
+slug: 'B078J17FGJ-es Dragon Quest Builders - Edición Estándar'
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

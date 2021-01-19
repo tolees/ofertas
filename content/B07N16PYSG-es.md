@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xAPX3IVOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N16PYSG-es'
+slug: 'B07N16PYSG-es Calvin Klein Reloj Analógico-Digital para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable K7A23646'
 actualPrice: 146.86 EUR
 currency: EUR
 price: 146.86

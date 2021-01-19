@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511sxbS38wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RV7ZLNS-es'
+slug: 'B07RV7ZLNS-es Lifewit Alfombrilla de Interior Alfombrillas de Perfil bajo de Agua súper Absorbente Alfombra de Entrada de Goma Antideslizante Lavable a máquina para alfombras Interiores  Gris  90 x 60 cm'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

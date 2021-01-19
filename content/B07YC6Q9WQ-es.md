@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U1HsOFXLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YC6Q9WQ-es'
+slug: 'B07YC6Q9WQ-es PAIPU Deshumidificador Compacto y portátil 900 ml Deshumidificador Ultra Silencioso  Deshumidificador Pequeño Portátil para Hogar  Armarios  Habitación  Baño  Cocina  Garaje'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

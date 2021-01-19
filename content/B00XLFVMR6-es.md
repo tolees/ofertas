@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61KhxHYVUeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XLFVMR6-es'
+slug: 'B00XLFVMR6-es Assassin s Creed: Syndicate'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

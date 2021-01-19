@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412QgD8TrKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004V54ZVK-es'
+slug: 'B004V54ZVK-es Absolut Vodka - 1 L'
 actualPrice: 12.65 EUR
 currency: EUR
 price: 12.65

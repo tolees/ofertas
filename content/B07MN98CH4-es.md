@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QO9P-0+uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN98CH4-es'
+slug: 'B07MN98CH4-es The North Face Piqué Polo de Manga Corta  Hombre  Amarillo  Citrine Yellow   S'
 actualPrice: 22.72 EUR
 currency: EUR
 price: 22.72

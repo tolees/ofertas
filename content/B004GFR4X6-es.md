@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51NmwxLvZmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B004GFR4X6-es'
+slug: 'B004GFR4X6-es POP! Vinilo - Movies: Beetlejuice'
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

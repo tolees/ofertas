@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SMAmXLVLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKXG68D-es'
+slug: 'B07VKXG68D-es Hackett London New Classic Polo  Verde  6fpfir Green 6fp   Medium para Hombre'
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

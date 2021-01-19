@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XRms4KvhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002STCCMU-es'
+slug: 'B002STCCMU-es Stanley FatMax Taller de laminado de metal-plástico  1-95-622 - Carro de herramientas  vacío - Caja de herramientas versátil para piezas pequeñas y grandes'
 actualPrice: 96.65 EUR
 currency: EUR
 price: 96.65

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41taM5knd-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTNNX2L-es'
+slug: 'B07KTNNX2L-es Evax Liberty Compresas Super Alas - 10 unidades'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

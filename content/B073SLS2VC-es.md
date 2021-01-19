@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dNIYrBF3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073SLS2VC-es'
+slug: 'B073SLS2VC-es Emporio Armani Reloj Analógico para Mujer de Cuarzo con Correa en Cuero AR11060'
 actualPrice: 141.72 EUR
 currency: EUR
 price: 141.72

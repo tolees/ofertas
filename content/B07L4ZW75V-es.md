@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uXc-UJ0CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4ZW75V-es'
+slug: 'B07L4ZW75V-es Adidas Terrex AX3 GTX W  Zapatillas de Deporte para Mujer  Gris  Carbon/Core Black/Active Pink 0   37 1/3 EU'
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

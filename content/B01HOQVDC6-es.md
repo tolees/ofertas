@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VdEEYKcWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HOQVDC6-es'
+slug: 'B01HOQVDC6-es Optimum Nutrition ON Amino Energy Pre Workout Powder Keto Friendly con Beta Alanina  Cafeína  Vitamina C  Aminoacidos Micronizados Incluyendo BCAA  Peach Cranberry  30 Porciones  270 gr'
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

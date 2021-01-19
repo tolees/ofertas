@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JNlTY1uBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTIO5XK-es'
+slug: 'B01MTIO5XK-es Final Fantasy TCG Mazo FF X'
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

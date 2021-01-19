@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XgzyxnVVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KRM6OY2-es'
+slug: 'B00KRM6OY2-es Amazon - Funda protectora para Kindle  7ª generación - modelo de 2014   Rojo cayena'
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WBQTwhPFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FXCKTZA-es'
+slug: 'B01FXCKTZA-es CESTA ORGANIZACION DE COCINA - 2 unidades - INTERKITCHEN©'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

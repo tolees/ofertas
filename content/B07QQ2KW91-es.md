@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mNNydC8aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQ2KW91-es'
+slug: 'B07QQ2KW91-es Funko- Pop Disney: Frozen 2-The Water Nokk 6" Figura Coleccionable  Multicolor  Talla única  40896 '
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

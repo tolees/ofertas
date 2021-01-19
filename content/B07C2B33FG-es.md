@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IHpifHtBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2B33FG-es'
+slug: 'B07C2B33FG-es Jack & Jones Jjipaul Jjflake AKM 542 Noos Pantalones  Negro  Black Black   W33/L36  Talla del Fabricante: 33  para Hombre'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

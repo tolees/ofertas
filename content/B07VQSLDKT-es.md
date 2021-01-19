@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HeFZ+X5vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQSLDKT-es'
+slug: 'B07VQSLDKT-es Antony Morato Cintura In Pelle H.30mm Cinturón  Negro  NERO 9000   No Aplica  Talla del fabricante: Small  para Hombre'
 actualPrice: 19.44 EUR
 currency: EUR
 price: 19.44

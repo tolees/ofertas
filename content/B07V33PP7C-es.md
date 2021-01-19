@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aCKdTOuzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V33PP7C-es'
+slug: 'B07V33PP7C-es MEGA CREATIVE JEWELRY Pulseras Árbol de la Vida Oro Rosa Nácar para Mujer Plata 925 con Cristales'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

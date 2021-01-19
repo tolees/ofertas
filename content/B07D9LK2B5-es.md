@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MVgLOieAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9LK2B5-es'
+slug: 'B07D9LK2B5-es bugatti 3.22656E+11  Zapatillas para Hombre  Negro  Schwarz 1000   40 EU'
 actualPrice: 37.06 EUR
 currency: EUR
 price: 37.06

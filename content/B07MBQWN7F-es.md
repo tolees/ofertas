@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FH2Yav5wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBQWN7F-es'
+slug: 'B07MBQWN7F-es Kickers Layton  Botas Clasicas para Hombre  Azul  Marine 10   40 EU'
 actualPrice: 34.09 EUR
 currency: EUR
 price: 34.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31z-qCXpnoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5CH3V6-es'
+slug: 'B07S5CH3V6-es Love MoschinoJc4024pp1aMujerBolsos totesBlanco  Bianco 12x27x40 centimeters  W x H x L '
 actualPrice: 100.53 EUR
 currency: EUR
 price: 100.53

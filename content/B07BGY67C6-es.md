@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MwVIUSA-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGY67C6-es'
+slug: 'B07BGY67C6-es LEADSTAR Almohada de baño  Almohada de SPA Impermeable Almohada de baño de Lujo Almohada para Respaldo Apoyacabezas con 7 Ventosas Antideslizantes Ergonomic Home SPA Limpieza fácil  Blanco '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

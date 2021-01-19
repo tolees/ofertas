@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DP5+av0uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJHP2BX-es'
+slug: 'B07NJHP2BX-es Tamaris 1-1-25242-23  Botas Militar para Mujer  Marrón  Rust 444   37 EU'
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

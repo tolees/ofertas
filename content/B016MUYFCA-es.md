@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pRzXoMXBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016MUYFCA-es'
+slug: 'B016MUYFCA-es POP! Vinilo - Games: Assassin s Creed: Jacob Frye'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

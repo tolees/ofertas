@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51E+14C6XOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSB9JYG-es'
+slug: 'B07BSB9JYG-es BelleStyle Doodle Agua  4 Colores Agua Dibujo Pintura Mat Escritura Tablero con 2 Plumas Mágicas & 9 Moldes para Niños Mayores de 2 Años  Juguete Educativo Mat  M  80cm x 60cm '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

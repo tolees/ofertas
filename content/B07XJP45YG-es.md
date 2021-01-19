@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-wx3nTi2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJP45YG-es'
+slug: 'B07XJP45YG-es Fullmosa Correa Compatible de Acero Inoxidable y Desmontar sin Herramientas para Apple Watch Series 5/4/3/2/1  Correa Desmontable Manual para iWatch 38mm 40mm 42mm 44mm'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nMiqOMlXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL177XK-es'
+slug: 'B07BL177XK-es New Balance Fresh Foam 1080v9  Zapatillas de Running para Mujer  Azul  Air/Vintage Indigo   40 EU'
 actualPrice: 92.73 EUR
 currency: EUR
 price: 92.73

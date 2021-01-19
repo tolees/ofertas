@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41he0YvDDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRDQFGV-es'
+slug: 'B07SRDQFGV-es non-brand Hablando Caminando Interactivo Animales Peluches y Figuras Juguete - Burro 13x18x24cm'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

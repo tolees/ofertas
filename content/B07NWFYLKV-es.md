@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rNPGZ-IYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWFYLKV-es'
+slug: 'B07NWFYLKV-es Soporte Tablet Coche  Soporte iPad Tablet  Soporte Reposacabezas con 4 5-10 5 Pulgadas  Apoyo 270 Rotación  Silicona Antideslizante  Compatible con iPad Samsung Huawei Xiaomi y Otras Tabletas etc.'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

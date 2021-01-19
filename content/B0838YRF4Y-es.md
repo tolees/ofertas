@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AXT0fl6JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0838YRF4Y-es'
+slug: 'B0838YRF4Y-es LEMEGO Pistola de Masaje Muscular  Masajeador de Cuerpo Eléctrico de Mano  Modos Opcionales Ultra Silenciosos de 5 Velocidades  Masajeador de Percusión Con 4 Cabezales Aliviar la Tensión Muscular'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

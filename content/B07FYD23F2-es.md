@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uQ-EVuJQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYD23F2-es'
+slug: 'B07FYD23F2-es Champion The Absolute Workout Sujetador Deportivo   Blanc Logo Vert 8mp   Large para Mujer'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

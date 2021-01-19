@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41feJPgKSeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF68WV1-es'
+slug: 'B07KF68WV1-es Levi s 501 High Rise Short Pantalones Cortos  Blanco  In The Clouds 0025   W25  Talla del Fabricante: 25  para Mujer'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

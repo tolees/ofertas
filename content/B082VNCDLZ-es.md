@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lQWlOXhRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VNCDLZ-es'
+slug: 'B082VNCDLZ-es Rexona Maximum Protection Crema Antitranspirante Stress Control 45ml'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zt2UwPMhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRLDH1Z-es'
+slug: 'B07KRLDH1Z-es New Balance Wsx90tv1  Zapatillas para Mujer  Azul  Blue Blue   38 EU'
 actualPrice: 30.45 EUR
 currency: EUR
 price: 30.45

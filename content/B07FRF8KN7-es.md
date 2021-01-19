@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512-qZzPLDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FRF8KN7-es'
+slug: 'B07FRF8KN7-es ZCHI 4 Piezas Bolsa de Almacenamiento Debajo de la Cama de Tela Oxford Gruesa Plegable Organizador de Edredones Manta Ropa de Polvo con la Cremallera Guardar la Ropa Edredones Ropa de Cama Almohadas'
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B0mMYLTYL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YOVD5E4-es'
+slug: 'B00YOVD5E4-es Thrustmaster T3PA Pro 3 Pedals Add-On - Classics [Importación Italiana]'
 actualPrice: 122.77 EUR
 currency: EUR
 price: 122.77

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qDdiwiqpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QFXOL5G-es'
+slug: 'B00QFXOL5G-es WD Black - Disco duro de alto rendimiento para ordenadores de sobremesa de 500 GB  7200 rpm  SATA a 6 Gb/s  32 MB de caché  2.5" '
 actualPrice: 42.97 EUR
 currency: EUR
 price: 42.97

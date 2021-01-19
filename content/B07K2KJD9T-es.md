@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314uUoqqFyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2KJD9T-es'
+slug: 'B07K2KJD9T-es Adidas RUNFALCON K  Zapatillas Deportivas Unisex niño  Negro  Core Black/Core Black/Core Black   37 1/3 EU'
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

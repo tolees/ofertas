@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jd7Zg8UmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9VUPF4-es'
+slug: 'B01K9VUPF4-es A2BC LED Lighting  Bombilla Esférica con Luz Calida  6 W  Paquete de 5'
 actualPrice: 9.24 EUR
 currency: EUR
 price: 9.24

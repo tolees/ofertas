@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q5sTQOhkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NBQMHJ-es'
+slug: 'B079NBQMHJ-es Béaba 913426 - Cuchara de aprendizaje segunda edad'
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

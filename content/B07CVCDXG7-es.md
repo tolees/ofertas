@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X33f+9xaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVCDXG7-es'
+slug: 'B07CVCDXG7-es Tryone Flexible Soporte móvil Teléfono – Soporte con Cuello de Cisne Brazo para iPhone Series/Celulares Samsung/Huawei/Google Pixel y más  Longitud Total 27.5 Pulgadas'
 actualPrice: 9.76 EUR
 currency: EUR
 price: 9.76

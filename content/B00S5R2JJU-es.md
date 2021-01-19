@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514nwgKxJ1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S5R2JJU-es'
+slug: 'B00S5R2JJU-es Catan - Erweiterung Seefahrer: Für 3 - 4 Spieler ab 10 Jahren'
 actualPrice: 21.27 EUR
 currency: EUR
 price: 21.27

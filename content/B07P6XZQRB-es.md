@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w4sYc6EWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6XZQRB-es'
+slug: 'B07P6XZQRB-es Wrangler Arizona Pantalones  Azul  Oxford Blue 072   W38/L34  Talla del Fabricante: 38/34  para Hombre'
 actualPrice: 14.43 EUR
 currency: EUR
 price: 14.43

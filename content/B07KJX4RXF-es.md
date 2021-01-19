@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w6Gr7CEOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJX4RXF-es'
+slug: 'B07KJX4RXF-es Saucony Xodus ISO 3  Zapatillas de Trail Running para Hombre  Verde Amarillo  44.5 EU'
 actualPrice: 75.95 EUR
 currency: EUR
 price: 75.95

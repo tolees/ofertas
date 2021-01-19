@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CBOc4OXwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9SZVB9-es'
+slug: 'B07K9SZVB9-es Pearl Garland – Carrete redondo de perlas para manualidades  3 mm de diámetro  33 yardas'
 actualPrice: 11.57 EUR
 currency: EUR
 price: 11.57

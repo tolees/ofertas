@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410P6q6umtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8SWLGN-es'
+slug: 'B07B8SWLGN-es StarVie PT17R Protector de Palas de Pádel  Rojo  Talla Única'
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

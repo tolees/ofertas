@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cpP50Gm7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086SY3BBK-es'
+slug: 'B086SY3BBK-es 10 unidades de protección contra 4 capas de protección facial'
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DEwO4zWrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00STGS5CW-es'
+slug: 'B00STGS5CW-es Energy Tower 5 Torre de Sonido con Bluetooth y Mando a Distancia  60 W  Panel Táctil  USB/SD y Radio FM  - Negro'
 actualPrice: 63.92 EUR
 currency: EUR
 price: 63.92

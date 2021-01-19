@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ftl6DH0lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTPDMBG-es'
+slug: 'B07TTPDMBG-es Kipling Abanu  Bolsos con Bandolera para Mujer  Negro  Carbon Metallic   20x13.5x7.5 cm'
 actualPrice: 33.45 EUR
 currency: EUR
 price: 33.45

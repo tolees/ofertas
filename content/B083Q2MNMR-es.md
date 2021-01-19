@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61puSQBLz3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083Q2MNMR-es'
+slug: 'B083Q2MNMR-es Juego de Salpicaduras y Salpicaduras 170 cm Water Spray de Agua Espolvoree y coloque la Alfombra de Juego Almohadilla de aspersión para niños pequeños para Fiestas al Aire Libre para Playa de rociador'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

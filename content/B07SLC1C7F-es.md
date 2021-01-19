@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412+ahhugAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLC1C7F-es'
+slug: 'B07SLC1C7F-es New Balance Fresh Foam Evare  Zapatillas para Correr de Carretera para Hombre  Negro  Black Lb1   47.5 EU'
 actualPrice: 45.53 EUR
 currency: EUR
 price: 45.53

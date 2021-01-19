@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cO-C1XYXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9ZK41M-es'
+slug: 'B07T9ZK41M-es Tostadora Pan Ranura Ancha 3 en 1 - Blanca Mate Inoxidable  Tostadora Vintage - Pinzas de Bambú gratuíta - 7 Niveles Tostado - 850W - Calienta Panecillos y Recoge Migas'
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

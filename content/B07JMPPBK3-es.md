@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TXB7HAQ0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMPPBK3-es'
+slug: 'B07JMPPBK3-es ELEGOO PLA Filamento de Impresora 3D  Precisión Dimensional +/- 0.03 mm  1kg Carrete  1.75mm-Negro'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

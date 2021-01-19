@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X6jr1L2YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNZRHM3-es'
+slug: 'B07FNZRHM3-es Panasonic RP-HD605NE-T Auriculares Bluetooth Premium  Noise-Cancelling  Sonido Hi-Fi  Compatible Siri  Carga Rápida  Manos Libres  20h Reproducción  Compatible con Cable  con Funda de Viaje  Burdeos'
 actualPrice: 168.69 EUR
 currency: EUR
 price: 168.69

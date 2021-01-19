@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51J82zoDyfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W843RRF-es'
+slug: 'B07W843RRF-es Gradiente de barro cristalino limo nube algodón barro - azul + verde - azul + verde'
 actualPrice: 2.15 EUR
 currency: EUR
 price: 2.15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i6of4Fa+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJXZRQT-es'
+slug: 'B07PJXZRQT-es New Balance Trail Nitrel m  Zapatillas de Running para Asfalto para Mujer  Azul  Vintage Indigo Vintage Indigo   35 EU'
 actualPrice: 23.31 EUR
 currency: EUR
 price: 23.31

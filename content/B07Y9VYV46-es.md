@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ib5edRPOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9VYV46-es'
+slug: 'B07Y9VYV46-es Esprit 129ee2i010 suéter  Gris  Light Grey 5 044   Medium para Hombre'
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

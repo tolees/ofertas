@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51owtOlwquL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMVR72N-es'
+slug: 'B07MMVR72N-es i-baby Manta Bebé Mantas Infantiles Para Cuna Cama Infantil Niñas Manta Grande Recién Nacidos 4 Estaciones 1 a 6 años  Punto Blanco  120x150cm '
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GrOReyYeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HZ3PGM-es'
+slug: 'B083HZ3PGM-es UnitedheartES Banco de energía Caja de batería Cargador de teléfono Estuche 4 Secciones Digital 2.5A Cargador rápido Pantalla Digital'
 actualPrice: 2.47 EUR
 currency: EUR
 price: 2.47

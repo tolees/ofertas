@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ghYj7D07L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZHN8BQ-es'
+slug: 'B07BZHN8BQ-es Visconti - SHIELD 707 - Cartera - Cuero Hunter  Azul - RFID '
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

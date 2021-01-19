@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YYmO5O0rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGZT11R-es'
+slug: 'B07NGZT11R-es Kappa 2019/20 Real Betis Primera equipación niño'
 actualPrice: 41.65 EUR
 currency: EUR
 price: 41.65

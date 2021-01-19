@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SC3s0TrtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2LX7D2-es'
+slug: 'B07F2LX7D2-es Helly Hansen Active Windbreaker Jacket  Hombre  Negro  Ebony   2XL'
 actualPrice: 55.94 EUR
 currency: EUR
 price: 55.94

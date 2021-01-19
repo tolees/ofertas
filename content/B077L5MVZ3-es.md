@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O8daKuGeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077L5MVZ3-es'
+slug: 'B077L5MVZ3-es Bourjois Fard Joues Colorete Tono 33 Lilas d or - 2.5 gr.'
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

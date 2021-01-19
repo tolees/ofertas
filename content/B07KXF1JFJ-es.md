@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21wibBa5dtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXF1JFJ-es'
+slug: 'B07KXF1JFJ-es Lékué  Juego de cubiertos para llevar  Acero Inoxidable'
 actualPrice: 6.55 EUR
 currency: EUR
 price: 6.55

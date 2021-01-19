@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51M8GlUsvwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BPLGYS-es'
+slug: 'B000BPLGYS-es HP Q5953A - Cartucho de tóner'
 actualPrice: 26.73 EUR
 currency: EUR
 price: 26.73

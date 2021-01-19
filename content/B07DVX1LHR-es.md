@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lvIhT0SUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVX1LHR-es'
+slug: 'B07DVX1LHR-es Columbia Caldorado III  Zapatillas de Running para Asfalto para Mujer  Azul  Slate Grey  Dar 099   36.5 EU'
 actualPrice: 24.34 EUR
 currency: EUR
 price: 24.34

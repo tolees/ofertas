@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310JFcspShL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792FW1DL-es'
+slug: 'B0792FW1DL-es Diesel UMBX-DAMIENTHREEPACK  Calzoncillo para Hombre  Multicolor  Bright White/Chinese Red/Black E4119/0jkkc   L  Pack de 3'
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

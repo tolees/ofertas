@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OKYuc0PAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RY8VPTL-es'
+slug: 'B07RY8VPTL-es JACK & JONES Jjiroy Jjjames Sa Noos Pantalones  Verde  Olive Night Olive Night   42 /L32  Talla del Fabricante: 29  para Hombre'
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

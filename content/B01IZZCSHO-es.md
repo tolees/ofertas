@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yDiCgTkbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IZZCSHO-es'
+slug: 'B01IZZCSHO-es Swiffer XXL Mopa & Completo de Sistema de Limpieza Plus 8 Suelo paños de Polvo'
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

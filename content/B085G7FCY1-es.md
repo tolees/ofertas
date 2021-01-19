@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41peF28NO6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085G7FCY1-es'
+slug: 'B085G7FCY1-es 14 Piezas Perilla Estrella Negro M9 Tornillo Perilla de baquelita Apriete Rosca hembra Perilla Cabeza de estrella Rosca macho Rosca de repuesto Perilla moleteada Pestillo para máquinas herramientas'
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

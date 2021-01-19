@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41emrWYJNHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8FP2BC-es'
+slug: 'B07Y8FP2BC-es GIOSEPPO THEUX  Zapatillas para Mujer  Beige  Beig Beig   38 EU'
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

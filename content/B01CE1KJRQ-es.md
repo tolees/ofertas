@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aUxk9sNRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CE1KJRQ-es'
+slug: 'B01CE1KJRQ-es TRENDnet TV-IP315PI - Cámara de Red PoE con Domo  Color Gris'
 actualPrice: 94.35 EUR
 currency: EUR
 price: 94.35

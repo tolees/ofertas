@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XjfLGmESL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3X2G2S-es'
+slug: 'B07K3X2G2S-es E·Durable 86in1 Herramientas pc Kit Destornilladores Precision Juego Destornilladores Precision Profesional Herramientas Completa para electronico reparación iPhone  iPad  Reloj  Tablet PC  MacBook'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

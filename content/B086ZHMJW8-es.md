@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3172lgfKyZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZHMJW8-es'
+slug: 'B086ZHMJW8-es nakw88 Universal Montaje Lateral Magnético Soporte con Clip Portátil Teléfono Móvil Soporte  Monitor de Ordenador para Tableta & Dual Ajustable Multi Pantalla Lado - Negro'
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

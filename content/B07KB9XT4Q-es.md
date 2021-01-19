@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317cmD-YP3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KB9XT4Q-es'
+slug: 'B07KB9XT4Q-es Nyx Professional Makeup Corrector No Comedogénico  Waterproof Y De Larga Duración Can T Stop Won T Stop 24H Tono 13 Golden Para Pieles Oscuras'
 actualPrice: 6.23 EUR
 currency: EUR
 price: 6.23

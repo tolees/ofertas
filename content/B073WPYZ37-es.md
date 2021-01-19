@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61BZ8qAns0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073WPYZ37-es'
+slug: 'B073WPYZ37-es Aceites Esenciales aromaterapia Set incluye parte superior 6 Set de regalo: lavanda  Naranja Dulce  menta  árbol de té  citronela  eucalyptus-100% Pure'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

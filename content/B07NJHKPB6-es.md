@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s5CTZQ63L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJHKPB6-es'
+slug: 'B07NJHKPB6-es Tamaris 1-1-26096-23  Botas Altas para Mujer  Marrón  Rust 444   40 EU'
 actualPrice: 12.67 EUR
 currency: EUR
 price: 12.67

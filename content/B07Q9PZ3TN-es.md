@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dqSOZXt+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9PZ3TN-es'
+slug: 'B07Q9PZ3TN-es Befekt Gears Riñonera Deportiva  Riñonera Running Mujer Hombre Impermeable con Bandas Reflectantes Agujero del Auricular Ideal para 6 5 Pulgadas de móvil iPhone XS MAX/X  Xiaomi  Huawei etc.'
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

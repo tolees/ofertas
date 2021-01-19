@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31v7JhrONFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F6PZPFO-es'
+slug: 'B00F6PZPFO-es HELLA 9XW 178 878-181 Limpiaparabrisas'
 actualPrice: 1.52 EUR
 currency: EUR
 price: 1.52

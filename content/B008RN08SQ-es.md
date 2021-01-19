@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ewCZ3fiQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008RN08SQ-es'
+slug: 'B008RN08SQ-es Bosch Professional GKS 18 V-LI Sierra circular  disco diámetro 165 mm  sin batería  en L-BOXX'
 actualPrice: 192.8 EUR
 currency: EUR
 price: 192.8

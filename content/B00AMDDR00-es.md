@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nSJA4jqJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AMDDR00-es'
+slug: 'B00AMDDR00-es Nayeco P100001 - Caseta para Perro'
 actualPrice: 35.79 EUR
 currency: EUR
 price: 35.79

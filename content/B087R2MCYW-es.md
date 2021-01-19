@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519kymXsSZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087R2MCYW-es'
+slug: 'B087R2MCYW-es Aokey - Repelente ultrasónico de plagas  repelente de insectos  control de plagas ultrasónico  control de plagas electrónico  apto para varios insectos  negro'
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

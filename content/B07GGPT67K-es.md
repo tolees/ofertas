@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51wQ70prfoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGPT67K-es'
+slug: 'B07GGPT67K-es The Kinks Are The Village Green Preservation Society'
 actualPrice: 10.73 EUR
 currency: EUR
 price: 10.73

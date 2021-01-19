@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BJvYMcYZL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B009PSQDMM-es'
+slug: 'B009PSQDMM-es deAO Camion Correpasillos Vehículo de Arrastre sin Pedales Tractor Bulldozer Pala Excavadora Manual con Almacenaminto Adicional y Bocina'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

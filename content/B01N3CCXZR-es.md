@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gk0gxTKRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3CCXZR-es'
+slug: 'B01N3CCXZR-es Tamron SP 70-200 mm F/2.8 Di VC USD G2 - Objetivo para Canon  estabilizador óptico VC en Tres Modos  Sensor Full Frame 24 x 36  AF USD  Dos Lentes XLD  SP  Negro'
 actualPrice: 1091.62 EUR
 currency: EUR
 price: 1091.62

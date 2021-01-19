@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rfeoJINCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSPGX6T-es'
+slug: 'B07GSPGX6T-es Atrix Crema de Manos con Protección Intensiva Camomila - 250 ml - 4 unidades'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

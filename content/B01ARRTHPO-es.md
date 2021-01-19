@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YijvLZ1UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ARRTHPO-es'
+slug: 'B01ARRTHPO-es HP 364XL N9J74AE  Pack de 4  Negro  Cian  Magenta y Amarillo  Cartuchos Originales  para impresoras HP Photosmart serie C5300  C6300  B210  B110 y Deskjet serie 3520'
 actualPrice: 76.37 EUR
 currency: EUR
 price: 76.37

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h70U3y6uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ5JQSH-es'
+slug: 'B07RZ5JQSH-es Libershine Organizadores de Viaje para Maletas  8 Set de Organizador de Equipaje  Impermeable Organizador de Maleta Bolsa para Ropa Sucia de Viaje Cubos de Embalaje para Viaje'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

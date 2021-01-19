@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NDV0AAuxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0154B0GWG-es'
+slug: 'B0154B0GWG-es Linksys WRT1900ACS - Router inalámbrico Smart Wi-Fi de Doble Banda AC1900  Doble Banda 2 4 y 5 GHz  procesador Doble núcleo 1 6 GHz  Wireless-AC  4 Antenas  Seguridad Avanzada   Azul y Negro'
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

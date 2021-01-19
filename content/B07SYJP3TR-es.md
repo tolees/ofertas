@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oPpWZbERL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYJP3TR-es'
+slug: 'B07SYJP3TR-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Imperial Star Destroyer  Compatible con Ladrillos de Construcción Lego Modelo 75055  Juego de Legos no Incluido'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

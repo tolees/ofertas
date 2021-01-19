@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PZLlfaTpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JB7RQC3-es'
+slug: 'B07JB7RQC3-es Mustriend Tocadiscos de Madera 33/45/78 Velocidad con Reproductor de Vinilo con Tapa Antipolvo con PC Grabación AUX IN de 3 5 mm y Conector para Auriculares  Salida de Línea para Altavoz Externo'
 actualPrice: 68.18 EUR
 currency: EUR
 price: 68.18

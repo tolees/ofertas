@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UAHQqshEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009GERKR2-es'
+slug: 'B009GERKR2-es Maidenform Comfort Devotion Demi - Sujetador para mujer  Black  BKB   95C'
 actualPrice: 16.06 EUR
 currency: EUR
 price: 16.06

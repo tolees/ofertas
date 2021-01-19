@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FEncaI12L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNFKKHP-es'
+slug: 'B07GNFKKHP-es HyperX Predator - Memoria RAM de 16 GB  DDR4  3333 MHz  CL16  DIMM XMP  HX433C16PB3/16 '
 actualPrice: 88.15 EUR
 currency: EUR
 price: 88.15

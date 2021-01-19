@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LvWVB+UyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPVCZL5-es'
+slug: 'B07KPVCZL5-es Columbia Minx Slip III  Botas para Niños  Gris  Ti Grey Steel   36 EU'
 actualPrice: 24.55 EUR
 currency: EUR
 price: 24.55

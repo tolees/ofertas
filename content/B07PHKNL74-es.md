@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51knryKQRXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHKNL74-es'
+slug: 'B07PHKNL74-es besrey Tipi Infantil Tienda de Bebe Grande   Tela Gruesa 260G  Indina Teepee Carpa Tienda campaña Infantil bebé Anti UV casa Tela Plegable'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

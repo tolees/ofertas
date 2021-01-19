@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CVSnuHxKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016AFQAUM-es'
+slug: 'B016AFQAUM-es Dormio Zafiro - Colchón viscoelástico  Blanco  135 x 190 x 21 cm'
 actualPrice: 94.58 EUR
 currency: EUR
 price: 94.58

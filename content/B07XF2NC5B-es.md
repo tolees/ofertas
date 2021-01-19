@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YNhV6AiBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XF2NC5B-es'
+slug: 'B07XF2NC5B-es Cama Gato  Cama Perro Pequeño  Cama para Mascotas con Suave Cojín Desmontable  Lavable a Máquina  Sofá Cama para Gatos y Perros Pequeños y Medianos  M: 60 * 60 * 18 cm  + Comedero Lento Para Perros'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

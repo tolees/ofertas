@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cmvMSzJTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFSMWW4-es'
+slug: 'B07KFSMWW4-es Adidas Grand Court  Zapatillas de Tenis para Hombre  Blanco  Ftwbla/Negbás/Ftwbla 000   38 2/3 EU'
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

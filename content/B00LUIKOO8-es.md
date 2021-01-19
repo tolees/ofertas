@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31P1xVNf8fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LUIKOO8-es'
+slug: 'B00LUIKOO8-es Adidas Stan Smith M20324  Zapatillas de Deporte Unisex Adulto  Blanco  Running White Footwear/Running White/Fairway   43 1/3 EU'
 actualPrice: 66.9 EUR
 currency: EUR
 price: 66.9

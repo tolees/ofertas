@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516eSNyfjKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TYJ4UA4-es'
+slug: 'B00TYJ4UA4-es IMC Toys - La caja registradora de Minnie Mouse  181700    color/modelo surtido'
 actualPrice: 19.68 EUR
 currency: EUR
 price: 19.68

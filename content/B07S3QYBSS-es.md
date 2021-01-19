@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31M0Sy41baL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3QYBSS-es'
+slug: 'B07S3QYBSS-es koulate Luz De Gabinete Led  2 Piezas De Gabinete Multifuncional Empotrado En El Armario De La Escalera Empotrada En La Pared con Imanes para Pared  Armario  HabitacióN'
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51dKl5VHiXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9JZG7Y-es'
+slug: 'B01M9JZG7Y-es POP! Vinilo - Lost: Kate Austen'
 actualPrice: 6.55 EUR
 currency: EUR
 price: 6.55

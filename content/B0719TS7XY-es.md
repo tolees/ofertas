@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519dGixq7PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719TS7XY-es'
+slug: 'B0719TS7XY-es TAZA MICRO 350 ML | AVENGERS GALLERY'
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DomU1S2JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078R6TCW1-es'
+slug: 'B078R6TCW1-es ASUS VivoBook Flip 14 TP410UA-EC228T - Ordenador portátil Convertible de 14" FHD  Intel Core i3-7100U  4 GB RAM  1 TB HDD  Intel HD Graphics 620  Windows 10 Home  Gris Oscuro - Teclado QWERTY Español'
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

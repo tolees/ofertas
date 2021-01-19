@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZWAjb8myL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZDL5ZD-es'
+slug: 'B07PZDL5ZD-es Versión 2019 Dynavap Vapcap M Vaporizador'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

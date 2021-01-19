@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FgFz4mhqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OV2T6XK-es'
+slug: 'B00OV2T6XK-es Gigandet G32-006 - Reloj para Hombres  Correa de Acero Inoxidable Color Plateado'
 actualPrice: 86.97 EUR
 currency: EUR
 price: 86.97

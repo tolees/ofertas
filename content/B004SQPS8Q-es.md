@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lsfFm4EyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004SQPS8Q-es'
+slug: 'B004SQPS8Q-es tesa 56192-00013-02 Cinta aislante en PVC 10m x 15mm  rojo'
 actualPrice: 1.09 EUR
 currency: EUR
 price: 1.09

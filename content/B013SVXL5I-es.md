@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MPhh4H4RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013SVXL5I-es'
+slug: 'B013SVXL5I-es Wolfcraft 4351000 Pistola Selladora'
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

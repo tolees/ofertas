@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bQaU07jUL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHPBRD3-es'
+slug: 'B07PHPBRD3-es Herbalgem - 22450010 - Balsamo consuelda Bio - 100 ml'
 actualPrice: 9.81 EUR
 currency: EUR
 price: 9.81

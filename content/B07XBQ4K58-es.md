@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61C3oh3fQzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBQ4K58-es'
+slug: 'B07XBQ4K58-es PetHot® 10 piezas macetas colgantes macetas con gancho de metal macetas colgantes macetas para ventana de balcón'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

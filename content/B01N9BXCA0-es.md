@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fYEYrDxdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9BXCA0-es'
+slug: 'B01N9BXCA0-es Dermacol - Barra de Labios Pretty Matte No. 05-1 unidad'
 actualPrice: 4.73 EUR
 currency: EUR
 price: 4.73

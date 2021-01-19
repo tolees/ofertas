@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513nWOcBcfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EFX7HNK-es'
+slug: 'B01EFX7HNK-es Ultratec Power 2 - Licuadora  sin BPA  1500 W  32.000 rpm  con 6 cuchillas de acero inoxidable con libro de batido de frutas negro'
 actualPrice: 55.83 EUR
 currency: EUR
 price: 55.83

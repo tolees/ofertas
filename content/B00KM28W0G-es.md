@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wX0rI0zaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KM28W0G-es'
+slug: 'B00KM28W0G-es Semillas Hortícolas - Berenjena redonda negra Black Beauty - Batlle'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

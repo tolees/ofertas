@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F5dUAc6HL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJHJYZS-es'
+slug: 'B07SJHJYZS-es adidas VL Court 2.0  Zapatillas para Mujer  Rosa  Glow Pink/Footwear White/Cloud White 0   39 1/3 EU'
 actualPrice: 47.87 EUR
 currency: EUR
 price: 47.87

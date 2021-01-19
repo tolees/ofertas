@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nLTi06N2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004APWJJ6-es'
+slug: 'B004APWJJ6-es Goliath 50400 - Juego Rummikub Original - Clásico  Español'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21CYeVcQzwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDHTXRW-es'
+slug: 'B07PDHTXRW-es Philips Aspirador vertical sin cable FC6722/01 - Aspiradora  0 4 L  80 dB '
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

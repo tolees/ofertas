@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R3y9WW8DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00170IHHA-es'
+slug: 'B00170IHHA-es CASIO Reloj analógico MTP-1183Q-7A'
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BWccDKLgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9M3SQP-es'
+slug: 'B07B9M3SQP-es Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1791493'
 actualPrice: 108.0 EUR
 currency: EUR
 price: 108.0

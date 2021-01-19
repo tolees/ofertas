@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410Kij1b3AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFSCCJN-es'
+slug: 'B07YFSCCJN-es Masajeador Portátil  Eléctrica Recargable Massager  Impermeable  Carga por USB'
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

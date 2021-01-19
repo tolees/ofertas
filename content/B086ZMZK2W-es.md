@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NNaLeT8YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZMZK2W-es'
+slug: 'B086ZMZK2W-es B Blesiya Caja De Almacenamiento/Organizador/Soporte De Batería De Plástico AA/AAA Transparente con Capacidad para 10X AA'
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pIuJRAbwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV6Z1VG-es'
+slug: 'B07TV6Z1VG-es Levi s 502 Taper Shorts 10" Pantalones Cortos  Azul  Rainshower Short 0065   W34  Talla del Fabricante: 34  para Hombre'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

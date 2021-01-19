@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gIvm4UodL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSQR9H8-es'
+slug: 'B01MSQR9H8-es Reloj Guess - Mujer W0911L5'
 actualPrice: 67.4 EUR
 currency: EUR
 price: 67.4

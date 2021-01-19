@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bAhV79rmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6MZVKL-es'
+slug: 'B07Z6MZVKL-es Asus ROG Zephyrus S GX701GWR-H6063T - Portátil Gaming de 17 3" 144Hz FullHD  Intel Core i7-9750H  16GB RAM  512GB SSD  RTX 2070 8GB GDDR6  Windows 10 Home  Aluminio Negro - Teclado QWERTY Español'
 actualPrice: 1799.0 EUR
 currency: EUR
 price: 1799.0

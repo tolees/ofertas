@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yHq025xDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHNJRFL-es'
+slug: 'B07BHNJRFL-es Babyline Lion - Colchoneta ligera  unisex'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

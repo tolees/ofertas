@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CZo45D+iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002U0UZCG-es'
+slug: 'B002U0UZCG-es Obey Your Body Peeling Facial'
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

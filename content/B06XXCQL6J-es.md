@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QLcvB0kcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXCQL6J-es'
+slug: 'B06XXCQL6J-es Samsonite Spark SNG Spinner Top Pocket Equipaje de Mano 55 cm  43 litros  Negro  Black '
 actualPrice: 143.45 EUR
 currency: EUR
 price: 143.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415fVtUKdRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SW4VNQ-es'
+slug: 'B077SW4VNQ-es PUMA Liga Striped Maillot  Hombre  Electric Blue Lemonade/White  XXL'
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

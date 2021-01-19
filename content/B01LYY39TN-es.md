@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51L5Z5ijltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYY39TN-es'
+slug: 'B01LYY39TN-es Vaultskin Eton Armour - Funda de cuero para iPhone 6 Plus  negro '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

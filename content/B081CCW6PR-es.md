@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l38ybWKxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CCW6PR-es'
+slug: 'B081CCW6PR-es Geographical Norway Polar Hombre Upload Negro M'
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mux2CBAKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071S5P3VG-es'
+slug: 'B071S5P3VG-es Asics Kanmei Zapatillas Para Correr - AW17-47'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

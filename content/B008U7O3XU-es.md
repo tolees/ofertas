@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TF7A4OTTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008U7O3XU-es'
+slug: 'B008U7O3XU-es Rubbies - Disfraz de Thor para hombre  talla L  880946STD '
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pjHLVbA0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CW6BJK-es'
+slug: 'B076CW6BJK-es Hoover Telios Extra TX60PET - Aspirador trineo con bolsa  con accesorios especiales para parquet y mascotas  450 W  color azul'
 actualPrice: 109 EUR
 currency: EUR
 price: 109

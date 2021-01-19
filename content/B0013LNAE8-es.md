@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51W-vM2U3LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0013LNAE8-es'
+slug: 'B0013LNAE8-es Dewalt DW745-QS Sierra 1.700W-diámetro de 250 mm-Mesa 630 x 570 mm-Portátil  Set de 2 Piezas'
 actualPrice: 317.0 EUR
 currency: EUR
 price: 317.0

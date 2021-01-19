@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IRKo6NVRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0774RLTJB-es'
+slug: 'B0774RLTJB-es Pop Booster Gold & Blue Beetle Vinyl Figure 2 Pack'
 actualPrice: 15.48 EUR
 currency: EUR
 price: 15.48

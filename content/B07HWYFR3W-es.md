@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51raI8vy0BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HWYFR3W-es'
+slug: 'B07HWYFR3W-es Cecotec Zitrus 160 Vita Black - Exprimidor Eléctrico  Filtro de Acero Inoxidable y 2 Conos Desmontables  Sistema de Extracción Continua  160 W de Potencia  Negro'
 actualPrice: 22.28 EUR
 currency: EUR
 price: 22.28

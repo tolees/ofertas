@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SF2JhRnnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008DCIAZE-es'
+slug: 'B008DCIAZE-es Oxford - Pack de 5 cuadernos  tapa extradura  80 hojas  cuadrícula 4x4 con margen  Lima/Rojo/Naranja/Verde/Azul Marino'
 actualPrice: 14.17 EUR
 currency: EUR
 price: 14.17

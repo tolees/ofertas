@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WLEKUzMfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY799LD-es'
+slug: 'B07NY799LD-es Adaptador Universal de Viaje  Universal Todo en uno  Enchufe Internacional  Fuente de alimentación con 2 Puertos  Cargador portátil Converter Plugs para 150 países'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

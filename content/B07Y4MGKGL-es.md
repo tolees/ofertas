@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cLt537P8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y4MGKGL-es'
+slug: 'B07Y4MGKGL-es Luchild Protector de Cuna  360cm Parachoques  Protector Cuna Chichonera para Proteger Bebe y Decorar la Cuna'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

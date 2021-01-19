@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DHYu9AxvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NM5KG4-es'
+slug: 'B075NM5KG4-es Lenovo Ideapad 520S-14IKB - Ordenador Portátil de 14" FullHD  Intel Core i3-7100U   4GB de RAM  128GB de SSD   Intel HD Graphics 620  Windows 10 Home  Plateado - Teclado QWERTY Español'
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ATiqESUyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DG3LBZ-es'
+slug: 'B075DG3LBZ-es EIS  Lubricante Deluxe Aqua chocolate  efecto de larga duración acuoso  300ml'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uVmC2JbUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDFL6G2-es'
+slug: 'B07VDFL6G2-es 19 compartimentos Bolsa de almacenamiento de viaje de 2 ml para aceites esenciales  caja de almacenamiento de bolsa de aceite esencial con espejo Plata '
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

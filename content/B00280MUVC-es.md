@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TzJKj-wjL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00280MUVC-es'
+slug: 'B00280MUVC-es Chuckit! 17020 Ultra Ball  2 Pelotas para Perros Compatible con el Lanzador  S'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

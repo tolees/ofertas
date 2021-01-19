@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u1N891QKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ2P3DF-es'
+slug: 'B07DJ2P3DF-es New Balance 997H Core  Zapatillas para Hombre  Azul  Pigment   46.5 EU'
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

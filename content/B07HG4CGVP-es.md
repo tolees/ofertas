@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JX35Jz85L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG4CGVP-es'
+slug: 'B07HG4CGVP-es New Balance 373  Zapatillas para Mujer  Azul  Navy Navy   35 EU'
 actualPrice: 29.94 EUR
 currency: EUR
 price: 29.94

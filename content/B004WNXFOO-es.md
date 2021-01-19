@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KpS3tZiWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004WNXFOO-es'
+slug: 'B004WNXFOO-es Merrell Choprock Leather Shandal  Zapatillas Impermeables para Hombre  Azul  Navy   46 EU'
 actualPrice: 49.01 EUR
 currency: EUR
 price: 49.01

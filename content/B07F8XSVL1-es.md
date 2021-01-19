@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41504xwPemL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8XSVL1-es'
+slug: 'B07F8XSVL1-es Samsung - Funda de silicona para Galaxy Note 9  color azul- Version española'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

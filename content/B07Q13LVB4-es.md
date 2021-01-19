@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m48XmHWsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q13LVB4-es'
+slug: 'B07Q13LVB4-es Under Armour Heatgear Armoury Corto  Mujer  Rojo  XS'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

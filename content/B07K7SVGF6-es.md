@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OltE5UA9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7SVGF6-es'
+slug: 'B07K7SVGF6-es Orient Reloj de Pulsera RA-AP0003S10B'
 actualPrice: 189.47 EUR
 currency: EUR
 price: 189.47

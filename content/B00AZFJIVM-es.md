@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gf1Ng9cFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AZFJIVM-es'
+slug: 'B00AZFJIVM-es H.Koenig FO35 Electrico Sobremesa  Horno Conveccion Encimera  Capacidad de 35 Litros  1600 W  3 Modos  Temperatura hasta 230ºC  Tiempo hasta 60 Mins  Termostato  Acero Inoxidable  Negro  180  plástico'
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

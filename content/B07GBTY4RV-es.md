@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51LBeJitMyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBTY4RV-es'
+slug: 'B07GBTY4RV-es Cadena de luces exterior  luz cadena Bombillas exterior  versión mejorada Luz Jardín  resistente al agua'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

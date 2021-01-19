@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31irlkj4v0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BMVP3MU-es'
+slug: 'B01BMVP3MU-es Béaba 913385 - Taza de aprendizaje evolutiva  3 en 1  blanco y rosa'
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

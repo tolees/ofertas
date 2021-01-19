@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dxLOiCL+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYTPN8C-es'
+slug: 'B07RYTPN8C-es New Balance 997H m  Zapatillas para Mujer  Azul  Navy/Pink HAO   36.5 EU'
 actualPrice: 33.12 EUR
 currency: EUR
 price: 33.12

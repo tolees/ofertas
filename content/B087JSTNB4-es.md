@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HhXWs-7-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JSTNB4-es'
+slug: 'B087JSTNB4-es Saco Silla Universal Rosy Fuentes en blanco gris'
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

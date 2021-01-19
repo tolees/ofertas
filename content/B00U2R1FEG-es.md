@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wcYsoENhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U2R1FEG-es'
+slug: 'B00U2R1FEG-es Aladdin - Algodón Limpia Metales  75 g'
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

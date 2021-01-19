@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R0X-0dzfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868N5HWV-es'
+slug: 'B0868N5HWV-es Suhctup Transparente Funda Compatible con Samsung Galaxy S7 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para Samsung Galaxy S7 3 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

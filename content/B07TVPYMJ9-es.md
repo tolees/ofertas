@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H6rH0eNhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVPYMJ9-es'
+slug: 'B07TVPYMJ9-es KiplingCity Pack SMujerMochilasVerde  Light Aloe 27x33.5x19 Centimeters  B x H x T '
 actualPrice: 49.4 EUR
 currency: EUR
 price: 49.4

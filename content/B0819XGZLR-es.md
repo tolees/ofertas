@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51CIycyANQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0819XGZLR-es'
+slug: 'B0819XGZLR-es Botella Agua Acero Inoxidable 750 ml  Botella Termoaislada de Doble Pared  Botella de Agua Ecológica Reutilizable  Botella Deportiva a Prueba de Fugas  Botella de Agua Duradera para Al Aire Libre.'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

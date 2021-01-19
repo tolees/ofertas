@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419iSIdl-9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRMRF9T-es'
+slug: 'B07PRMRF9T-es Head Ski V-shape Kneehigh 2p deporte  Amarillo  Neon Yellow 817   Talla única  Talla del fabricante: 031   Pack de 2  para Niños'
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

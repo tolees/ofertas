@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GmMMg0X0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LOJ64HS-es'
+slug: 'B01LOJ64HS-es Corsair K65 Lux RGB Teclado Mecánico Gaming  Cherry MX Red  Lineal y Rápido  Retroiluminación Multicolor LED RGB  Estructura de Aluminio Anodizado  QWERTY Español  Color Negro'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51THNxvU9qL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKZLCS1-es'
+slug: 'B07DKZLCS1-es ACTMAN Cámara Deportiva 4K 16 MP WiFi Sumergible con Pantalla táctil  cámara subacuática con Control Remoto  cámara de acción  2 baterías Recargables y Accesorios gratuitos Kits Compatibles GoPro'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

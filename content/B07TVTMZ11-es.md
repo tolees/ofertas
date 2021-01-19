@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yfnW-pw1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVTMZ11-es'
+slug: 'B07TVTMZ11-es Women s Secret Feminine Micro Black Sujetador básico  Negro  Negro 1   90  Tamaño del Fabricante: 90B  para Mujer'
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

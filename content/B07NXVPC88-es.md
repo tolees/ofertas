@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415rtqGepQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXVPC88-es'
+slug: 'B07NXVPC88-es Skechers Solar Fuse  Zapatillas para Hombre  Negro  Black Mesh/PU/Lime Trim Bklm   43 EU'
 actualPrice: 51.62 EUR
 currency: EUR
 price: 51.62

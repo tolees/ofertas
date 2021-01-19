@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lgUAo-aHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MF5CHB-es'
+slug: 'B079MF5CHB-es New Balance 411 m  Zapatillas de Running para Mujer  Negro  Mineral Rode White Lp1   36.5 EU'
 actualPrice: 22.16 EUR
 currency: EUR
 price: 22.16

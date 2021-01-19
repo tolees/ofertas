@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Av9r+fcIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KPPQKJA-es'
+slug: 'B00KPPQKJA-es mondex 278Y254 - Cubo Ecobin 25L Con Tapa Azul'
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fpqMW0E2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBSSZ18-es'
+slug: 'B07YBSSZ18-es NewZC Bridas Ajustables para Cables 120 Unidades 15 x 1 2 cm Ataduras de Cable de Sujeción Reutilizables para Organizar Cables de TV Ordenador Portátil etc. - Color Negro'
 actualPrice: 9.88 EUR
 currency: EUR
 price: 9.88

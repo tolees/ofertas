@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YHcvVU7ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0834SHP1N-es'
+slug: 'B0834SHP1N-es yootech Adaptador USB C a USB 3.0 [4 Pack]  Uso en Paralelo con OTG，Conector de tranferencia de Datos para Samsung  Huawei  MacBook Pro 2019/2018  ChromeBook Pixel y Otros Dispositivos con USB C'
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

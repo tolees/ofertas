@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tF1nVi-gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SJ6YVX-es'
+slug: 'B079SJ6YVX-es Stretch 06575 Elastigirl - Figura de acción'
 actualPrice: 12.53 EUR
 currency: EUR
 price: 12.53

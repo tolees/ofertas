@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41usduiScuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WP3PCHM-es'
+slug: 'B07WP3PCHM-es LYCAON AB Wheel Roller con Barra de Empuje  Cuerda de Saltar y Almohadilla para La Rodilla  4 IN 1 Juego de Ruedas Giratorias para Ejercicio  Ejercicios Abdominales'
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

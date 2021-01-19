@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YeFWxmBIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ABOAEAQ-es'
+slug: 'B00ABOAEAQ-es Bosch Professional GWS 18-125 V-LI Amoladora Angular  10.000 RPM  Disco 125 mm  sin batería  en Caja  18 V  Azul  12.7 cm'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

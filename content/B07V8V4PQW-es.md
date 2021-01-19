@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412mQdMbtCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8V4PQW-es'
+slug: 'B07V8V4PQW-es Love MoschinoJc4247pp0aMujerCarteras de manoNegro  Black Quilted 7x14x22 Centimeters  W x H x L '
 actualPrice: 70.11 EUR
 currency: EUR
 price: 70.11

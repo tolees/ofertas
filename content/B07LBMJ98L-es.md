@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bh1g0HKBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBMJ98L-es'
+slug: 'B07LBMJ98L-es Anker Soundcore Icon Mini  Altavoz Bluetooth  Impermeable  Resistente al Agua IP67 para Senderismo  Ciclismo  Entretenimiento y Aventura  de Bolsillo  9 Horas de reproducción  micrófono Integrado'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

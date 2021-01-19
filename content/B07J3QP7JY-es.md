@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Kjk-exxeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3QP7JY-es'
+slug: 'B07J3QP7JY-es K-GOLEIRO 18'
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

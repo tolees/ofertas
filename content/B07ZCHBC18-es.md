@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41025MYx8gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCHBC18-es'
+slug: 'B07ZCHBC18-es NEEGO Juego de Pingüinos Trampa de Pingüinos - Peligro de Pingüinos Desafío de Selección de Hielo Juego de Diversión Familiar para Niños Guardar la Trampa de Pingüinos Rompehielos Juego  Pequeño '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

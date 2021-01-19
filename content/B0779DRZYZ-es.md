@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mwTUMARKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779DRZYZ-es'
+slug: 'B0779DRZYZ-es adidas Entrada 18 JSY T-Shirt  Hombre  Black/White  2XL'
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

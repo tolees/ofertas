@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517RI4OEGnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCG8WBW-es'
+slug: 'B07FCG8WBW-es Uverbon Manguera de Jardín Extensible 50FT/ 15M Manguera Extensible con Latón Sólido  Boquilla de 9 Modos de Pulverización'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

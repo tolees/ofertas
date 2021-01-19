@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FMYPdY-DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTTSZFG-es'
+slug: 'B07TTTSZFG-es Skechers Verrado Crafton  Zapatillas para Hombre  Marrón  Dark Brown Leather Acdb   47.5 EU'
 actualPrice: 40.64 EUR
 currency: EUR
 price: 40.64

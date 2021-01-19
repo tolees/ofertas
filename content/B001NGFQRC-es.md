@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bUg49hA6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001NGFQRC-es'
+slug: 'B001NGFQRC-es Makita HR2811FT Martillo  800 W  230 V'
 actualPrice: 273.02 EUR
 currency: EUR
 price: 273.02

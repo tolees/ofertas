@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jOB1hVgmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IURS3PS-es'
+slug: 'B01IURS3PS-es Lindt Dulces Deseos - Bombones de Chocolate  600 gr'
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

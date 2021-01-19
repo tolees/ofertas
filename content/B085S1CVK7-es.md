@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GO-DPn7uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085S1CVK7-es'
+slug: 'B085S1CVK7-es Oriware Adhesivo Negro Estantes Cesta para Ducha Estanteria Organizador Baño SUS304 Acero Inoxidable Sin Taladro - 31 x 11.5 x 12 cm'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

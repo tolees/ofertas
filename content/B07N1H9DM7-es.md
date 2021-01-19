@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iaVt-1rKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1H9DM7-es'
+slug: 'B07N1H9DM7-es Clarks Orinoco Snug  Botas Estilo Motero para Mujer  Marrón  British Tan Lea British Tan Lea   39 EU'
 actualPrice: 44.4 EUR
 currency: EUR
 price: 44.4

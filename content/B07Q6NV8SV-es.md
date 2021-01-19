@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N2FKrOm5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q6NV8SV-es'
+slug: 'B07Q6NV8SV-es Dockers by Gerli 43st201  Botas Militar para Mujer  Marrón  Schoko 360   41 EU'
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

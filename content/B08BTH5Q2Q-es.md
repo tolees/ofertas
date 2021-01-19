@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JphVig12L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BTH5Q2Q-es'
+slug: 'B08BTH5Q2Q-es Molyflower HD Head Desktop Laptop Computadora Cámara 8MP Micrófono Incorporado Diseño de Ventosa Enseñanza de Video Transmisión en Vivo - Negro'
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

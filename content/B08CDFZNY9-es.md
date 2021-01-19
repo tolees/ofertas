@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qC8wRzbZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDFZNY9-es'
+slug: 'B08CDFZNY9-es Colmanda 4 Pcs Planos de Espuma + 4 Pcs Juguete de Paracaídas  Planeador de Espuma para niños Juguete Paracaídas Set Mano Lanzamiento Glider Aviones Juguete Volador para niños'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

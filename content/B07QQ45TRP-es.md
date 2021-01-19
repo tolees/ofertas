@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ldVZmX5%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQ45TRP-es'
+slug: 'B07QQ45TRP-es Ferilinso Funda para Xiaomi Mi A3 Elegante Armadura híbrida Robusta Funda de Doble Capa de Alta Resistencia para PC Duro Caso para Funda Xiaomi Mi A3 Negro '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

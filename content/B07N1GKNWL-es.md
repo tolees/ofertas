@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51afwUOllZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GKNWL-es'
+slug: 'B07N1GKNWL-es Clarks Un Maui Lace  Zapatillas para Mujer  Multicolor  Natural Snake Natural Snake   36 EU'
 actualPrice: 45.86 EUR
 currency: EUR
 price: 45.86

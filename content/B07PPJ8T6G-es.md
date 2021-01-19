@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Xn1cTHLFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPJ8T6G-es'
+slug: 'B07PPJ8T6G-es Samsung Galaxy A40 - Smartphone de 5.9" FHD+ sAmoled Infinity U Display  4 GB RAM  64 GB ROM  16 MP  Exynos 7904  Carga rápida   Coral [versión española]'
 actualPrice: 181.99 EUR
 currency: EUR
 price: 181.99

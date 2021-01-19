@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NeTR82h4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MB8MZQ-es'
+slug: 'B072MB8MZQ-es SELECT Mundo – Balón de Balonmano  Color Purple/Orange  tamaño 1'
 actualPrice: 15.09 EUR
 currency: EUR
 price: 15.09

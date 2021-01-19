@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yYGlwa-GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSBM68L-es'
+slug: 'B07GSBM68L-es Rimmel London Super Gel Colour Esmalte de Uñas Tono 19-47 gr'
 actualPrice: 1.52 EUR
 currency: EUR
 price: 1.52

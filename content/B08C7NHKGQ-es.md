@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412o-Ue3IbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C7NHKGQ-es'
+slug: 'B08C7NHKGQ-es Go Swing abrelatas de latas  potente abrebotellas de bebidas enlatadas  abrelatas manual  fácil apertura rápida'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

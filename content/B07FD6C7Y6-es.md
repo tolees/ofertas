@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bikW4wtEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FD6C7Y6-es'
+slug: 'B07FD6C7Y6-es WANFEI Pulsera Xiaomi Mi Band 3 Correa  Band 3 Correa de Metal Pulseras de Repuesto Correa de Recambio Brazalete Extensibles para Xiaomi Mi Band 3  No Sensor/No Host   Negro '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

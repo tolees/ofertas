@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416bagfBvNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5RWF46-es'
+slug: 'B07N5RWF46-es Pop! My Hero Academia - Figura de Vinilo 5 Star Deku'
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

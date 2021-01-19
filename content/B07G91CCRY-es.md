@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WqL9UefiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G91CCRY-es'
+slug: 'B07G91CCRY-es Bonsenkitchen Envasadora al Vacío  Sellador al Vacío de Alimentos Secos y Húmedos  1 Rollo de Película de Vacío de Succión Incluida  Blanco VS3803'
 actualPrice: 27.88 EUR
 currency: EUR
 price: 27.88

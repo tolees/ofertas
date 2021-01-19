@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BkfbLtVjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y3GCD4-es'
+slug: 'B077Y3GCD4-es Sennheiser CX 6.00BT - Auriculares inalámbricos intraurales  color negro y azul'
 actualPrice: 68.46 EUR
 currency: EUR
 price: 68.46

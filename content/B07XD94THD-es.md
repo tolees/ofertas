@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413rr6Jzs1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD94THD-es'
+slug: 'B07XD94THD-es BAIGIO Bolsa de Herramientas con Cinturón de Nailon Ajustable Bolsa para Electricista del Organizador del Sostenedor Bolsillo Porta Herramientas para Cinturón  Negro '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

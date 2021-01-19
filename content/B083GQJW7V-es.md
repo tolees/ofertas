@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dVM9pKdmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083GQJW7V-es'
+slug: 'B083GQJW7V-es 2 piezas de Cubierta de Cinturón de Seguridad para Bebé Almohadilla de la Entrepierna Fundas de Cojín Universal para Cochecito  entrepierna '
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

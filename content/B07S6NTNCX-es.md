@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31k4qs+ibdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NTNCX-es'
+slug: 'B07S6NTNCX-es PUMA Ascend  Zapatillas Unisex-Adulto  Negro Black White/High Risk Red 04  42 EU'
 actualPrice: 28.22 EUR
 currency: EUR
 price: 28.22

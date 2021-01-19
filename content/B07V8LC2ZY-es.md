@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D8P7htndL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8LC2ZY-es'
+slug: 'B07V8LC2ZY-es Sistema de alarma inalámbrico PNI SafeHouse HS550 Wifi GSM 3G con monitoreo y alerta a través de Internet  SMS  llamadas de voz'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

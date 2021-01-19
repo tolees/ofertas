@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wwKYwAewL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAHB557-es'
+slug: 'B01NAHB557-es 1 pieza Ungfu Mall de tambor de encendido con interruptor y dos llaves. Conector de 4 pines para bloque de motocicleta  ATV  mini moto  buggy con bot&oacute;n interruptor de encendido.'
 actualPrice: 8.83 EUR
 currency: EUR
 price: 8.83

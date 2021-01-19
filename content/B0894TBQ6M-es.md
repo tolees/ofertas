@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412j9xpYgrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894TBQ6M-es'
+slug: 'B0894TBQ6M-es REDSTORM Espejo Con Luz De Mano Para Maquillaje  Aumentos 10X  Espejo Compacto Portátil Ligero  Espejo Pequeño Con Luz LED Natural  Espejo Portátil Para Viajar y Bolsos.'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

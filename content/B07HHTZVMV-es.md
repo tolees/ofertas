@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tF6PY-WtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHTZVMV-es'
+slug: 'B07HHTZVMV-es ammoon Soporte Trípode para Micrófono Mini Plegable Mesa de Sobremesa Poseedor  Soporte+Filtro '
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

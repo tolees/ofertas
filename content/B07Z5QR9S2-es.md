@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mdgeii-ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5QR9S2-es'
+slug: 'B07Z5QR9S2-es Funny House 40 PCS Bolsa de Fiesta Arco Iris  Papel Regalo Bolsas con 100 PCS Pegatina de Forma de Corazon   Fiesta de Cumpleaños Favores Bolsas para Niños Suministros Fiesta de Cumpleaños'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

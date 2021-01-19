@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51s0qNUtuFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5HQVHZ-es'
+slug: 'B01N5HQVHZ-es Knorr Pasta con Salsa Carbonara - 62 g'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

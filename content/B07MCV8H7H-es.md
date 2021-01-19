@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yIe06KNSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCV8H7H-es'
+slug: 'B07MCV8H7H-es Pole Watches Reloj de Pulsera Analógico Monoaguja de Cuarzo para Hombre Esfera Plomo y Correa de Cuero Mostaza Modelo Compass Drab B-1001PL-MA02'
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

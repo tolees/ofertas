@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y+N-EpCSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004RUHPOS-es'
+slug: 'B004RUHPOS-es HP CE390X - Cartucho de tóner'
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jos5B6lRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D10IR1K-es'
+slug: 'B00D10IR1K-es Bioderma Sebium H2O Solución Micelar - 250 ml'
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

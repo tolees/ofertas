@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RKZubc4OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B6BRFCM-es'
+slug: 'B08B6BRFCM-es Correa para Reloj  Hanyixue Active Correa de reemplazo Suave de Silicona para Deportes Pulseras de Repuesto para smartwatches para Samsung Galaxy Watch  Rosado '
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

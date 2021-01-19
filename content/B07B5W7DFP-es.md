@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61Xw3iqmAiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B5W7DFP-es'
+slug: 'B07B5W7DFP-es Jumanji: Bienvenidos A La Jungla  4K UHD + BD  [Blu-ray]'
 actualPrice: 10.41 EUR
 currency: EUR
 price: 10.41

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YVd+jSssL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014WEJF6E-es'
+slug: 'B014WEJF6E-es RockJam Superkit Guitarra eléctrica de tamaño completo con amplificador de guitarra  Cuerdas de guitarra  Sintonizador  Correa  Estuche y cable  color Negro'
 actualPrice: 98.98 EUR
 currency: EUR
 price: 98.98

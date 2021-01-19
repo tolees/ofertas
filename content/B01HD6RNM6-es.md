@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417SC+26ApL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD6RNM6-es'
+slug: 'B01HD6RNM6-es Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Azul Marino  Navy Blazer/Hawaiian Ocean/Dawn Blue   40 EU'
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

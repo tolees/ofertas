@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OE+fsiZaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X35FDCS-es'
+slug: 'B07X35FDCS-es Fitflop HEDA Chain Slip-ON Sneakers  Zapatillas sin Cordones para Mujer  Azul Midnight Navy 399  39 EU'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514CRM+dkgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L0MIB8K-es'
+slug: 'B00L0MIB8K-es EasyRead ERTT-DIG Reloj Infantil de Pared Time Teacher  Que Indica la Hora  Digital  en Formato de 12 y 24 horas'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

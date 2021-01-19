@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51H8CmLhDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFR3P98-es'
+slug: 'B07BFR3P98-es Microsoft Surface Book 2 - Ordenador portátil convertible táctil 13.5    Intel Core i7-8650U  8GB RAM  256GB SSD  Nvidia GeForce GTX1050-2GB  Windows 10 Pro  Plata - Teclado QWERTY Español'
 actualPrice: 1566.55 EUR
 currency: EUR
 price: 1566.55

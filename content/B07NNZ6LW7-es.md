@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31x6FKyz0qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNZ6LW7-es'
+slug: 'B07NNZ6LW7-es adidas Stan Smith  Zapatillas de Gimnasia para Hombre  Blanco  Ftwrwhite/Core White/Green Ftwrwhite/Core White/Green   42 EU'
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

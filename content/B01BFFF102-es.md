@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G6T9813EL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BFFF102-es'
+slug: 'B01BFFF102-es Tribe Game of Thrones  Juego de Tronos  Daenerys - Memoria USB 2.0 de 16 GB Pendrive Flash Drive de Goma con Llavero  Color Blanco'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

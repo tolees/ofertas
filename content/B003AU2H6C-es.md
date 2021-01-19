@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21H6rramg1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003AU2H6C-es'
+slug: 'B003AU2H6C-es Sebastian Volupt Acondicionador - 250 ml'
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

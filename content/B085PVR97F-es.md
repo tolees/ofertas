@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jbEEJfOBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085PVR97F-es'
+slug: 'B085PVR97F-es Bombilla H4 LED para Moto con Ojos de Angel  6400LM Moto LED Faro DC 12V 1 Lámpara-Azul'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

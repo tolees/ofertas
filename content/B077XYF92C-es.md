@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Te7cPdqEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XYF92C-es'
+slug: 'B077XYF92C-es Superga 2730-Cotu  Zapatillas de Gimnasio para Mujer  Grigio Grey Seashell G04  35 EU'
 actualPrice: 49.24 EUR
 currency: EUR
 price: 49.24

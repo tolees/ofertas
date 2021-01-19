@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zRA1cbDUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB2DQ4V-es'
+slug: 'B07BB2DQ4V-es Beper BT.150Y - Máquina para Hot-Dog'
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

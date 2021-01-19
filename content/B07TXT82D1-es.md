@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eof-UGVLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXT82D1-es'
+slug: 'B07TXT82D1-es Merrell Moab 2 Lace Waterproof  Zapatillas Deportivas para Interior Unisex Niños  Gris  Grey/Periwinkle   37 EU'
 actualPrice: 26.48 EUR
 currency: EUR
 price: 26.48

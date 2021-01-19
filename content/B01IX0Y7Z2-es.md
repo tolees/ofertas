@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310ZLGiyhcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IX0Y7Z2-es'
+slug: 'B01IX0Y7Z2-es Triumph Beauty-Full Essential WDP Sujetador para Mujer  Beige  NUDE BEIGE NZ   85C  Talla Fabricante: 70C '
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

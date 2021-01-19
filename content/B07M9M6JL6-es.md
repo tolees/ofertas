@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PlyN3ZbiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9M6JL6-es'
+slug: 'B07M9M6JL6-es Moreplus Báscula digital de cocina multifunción con botón táctil  ultra delgada con pantalla LCD grande  acero inoxidable  pilas incluidas  5000g/1g'
 actualPrice: 12.84 EUR
 currency: EUR
 price: 12.84

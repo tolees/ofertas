@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jxFj1s8WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJTZXFW-es'
+slug: 'B07WJTZXFW-es Libertroy USB Splitter 3usb Multifunción 3a Conversor Conversor Extensión de línea Multipuerto Hub Hub - Blanco - 1m'
 actualPrice: 1.7 EUR
 currency: EUR
 price: 1.7

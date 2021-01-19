@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T1CiShlsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BFN2DMY-es'
+slug: 'B00BFN2DMY-es Casio Reloj de Pulsera BG-6903-1ER'
 actualPrice: 52.23 EUR
 currency: EUR
 price: 52.23

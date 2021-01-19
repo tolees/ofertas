@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418W9E6ctLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GD6QXCS-es'
+slug: 'B01GD6QXCS-es E-concept Stormtrooper Edition.'
 actualPrice: 38.83 EUR
 currency: EUR
 price: 38.83

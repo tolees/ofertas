@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VEVs3UQpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N14DMWQ-es'
+slug: 'B07N14DMWQ-es Skechers Go Walk 5 Prized  Zapatillas para Mujer  Negro  Black Textile/Trim Bkpk   40 EU'
 actualPrice: 48.12 EUR
 currency: EUR
 price: 48.12

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21IS-EF54tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1ZWJLX-es'
+slug: 'B07F1ZWJLX-es Samsung - Funda de silicona para Galaxy Note 9  color púrpura  lavanda - Version española'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

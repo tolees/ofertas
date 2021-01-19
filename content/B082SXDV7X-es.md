@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kKH5X-VwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SXDV7X-es'
+slug: 'B082SXDV7X-es READ Reloj Digital Deportivos  3D Podómetro Digital Pantalla de Tiempo Alarma Cronómetro Datos de 7 días con luz Negra LED para Caminar y Correr'
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

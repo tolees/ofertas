@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jOSYOeknL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ETFVVR2-es'
+slug: 'B01ETFVVR2-es Imperial Confort Oslo - Colchón Viscoelástico acolchado alta firmeza - Grosor 24 cm -  105x190'
 actualPrice: 104.49 EUR
 currency: EUR
 price: 104.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51i5rjyHymL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K311YYK-es'
+slug: 'B07K311YYK-es iiniim Conjunto de Traje Danza del Vientre para Niña Top + Cinturón + Pantalones + Pulseras + Mantilla con Lentejuelas Ropa de Baile India Disfraz Carnaval Belly Dance Rosa 8-10 Años'
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

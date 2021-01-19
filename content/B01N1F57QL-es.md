@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xIWJ9klOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1F57QL-es'
+slug: 'B01N1F57QL-es L Oréal Paris Colorista Coloración Temporal Colorista Spray - Grey Hair'
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

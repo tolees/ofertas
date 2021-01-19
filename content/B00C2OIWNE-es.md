@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g1n8qqiWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C2OIWNE-es'
+slug: 'B00C2OIWNE-es Arnold 1194-X1-0030 - Juego de limas  para afilar sierras de cadena  empaquetado en rollo '
 actualPrice: 12.08 EUR
 currency: EUR
 price: 12.08

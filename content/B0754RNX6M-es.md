@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51V5OcfyvWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0754RNX6M-es'
+slug: 'B0754RNX6M-es Salomon shorts para running  agile short  tafetán  negro  mujer  talla: L'
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

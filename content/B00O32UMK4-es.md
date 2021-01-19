@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SOPongeIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O32UMK4-es'
+slug: 'B00O32UMK4-es Bourjois Contour Edition Perfilador de Labios Tono 03 Alerte rose - 4 gr.'
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

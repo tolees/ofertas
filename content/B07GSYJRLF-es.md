@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jpnjoYzKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSYJRLF-es'
+slug: 'B07GSYJRLF-es EKKONG 24 Piezas Ganchos Adhesivos  Adhesivo Fuerte uñas Libre Reutilizable Transparente Resistente Gancho Puerta Gancho Colgador de Techo  Resistente al Agua de baño y Cocina oilproof 8 kg MAX '
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

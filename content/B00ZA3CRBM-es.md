@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s+nDcLn4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZA3CRBM-es'
+slug: 'B00ZA3CRBM-es Aussie Repair Miracle Champú  su Fórmula Milagrosa Llena de Vida el Cabello Deteriorado - 300 ml'
 actualPrice: 4.36 EUR
 currency: EUR
 price: 4.36

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414+A-KfxiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZH5MXY-es'
+slug: 'B08BZH5MXY-es Superligero LED Touch Design Sport Running Pulsera Digital Silicona Suave Smart Digital Wristaband Blanco/Negro/Rojo - Negro'
 actualPrice: 1.12 EUR
 currency: EUR
 price: 1.12

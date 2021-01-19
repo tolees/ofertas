@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YJojYCBcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KL23D3M-es'
+slug: 'B07KL23D3M-es Safety 1st Keeny Trona evolutiva  Trona bebé compacta  plegable adecuada para espacios pequenos  ajustable crece con el niño  6 meses - 3 años  color Warm Grey'
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

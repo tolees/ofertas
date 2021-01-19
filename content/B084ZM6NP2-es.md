@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RMVszzTEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084ZM6NP2-es'
+slug: 'B084ZM6NP2-es Rowenta RR6927MP Smart Force Essential - Robot Aspirador con mopa y depósito de Agua  aspira y friega a la vez  3 modos limpieza  sensores infrarrojos y anticaída  150 min autonomía  Reacondicionado '
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51e+abomSrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0014YDJ1S-es'
+slug: 'B0014YDJ1S-es Wilkinson Sword Extra 2 Sensitive - Bolsa 20 Maquinillas de Afeitar Desechables para Pieles Sensibles'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rY1icFDNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H0CTZE2-es'
+slug: 'B01H0CTZE2-es Chicco Natural Sensation - Crema balsámica 4 en 1  100 ml'
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

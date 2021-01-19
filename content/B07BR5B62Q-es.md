@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I01L+lGkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BR5B62Q-es'
+slug: 'B07BR5B62Q-es L Oreal Paris Colorista Hair Make Up Chocolate Rose'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

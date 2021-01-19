@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zVQATfGxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVJCL1K-es'
+slug: 'B07QVJCL1K-es Zerodis- Molino de Viento de Flores  Bricolaje Arco Iris Colorido Rueda Triple Molino de Viento Multicolor Molinete de Viento Molinete Impermeable Adornos para niños Juguete Fiesta en el jardín Patio'
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

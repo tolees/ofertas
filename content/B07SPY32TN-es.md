@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419Bc-66xaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPY32TN-es'
+slug: 'B07SPY32TN-es Agenda 2020 semana vista - Pedrita Parker'
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

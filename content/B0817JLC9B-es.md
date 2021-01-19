@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Va5yug+9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817JLC9B-es'
+slug: 'B0817JLC9B-es Columbia Tech Shade Hat Gorra  Unisex Adulto  Gris  City Grey   One Size  Adjustable '
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

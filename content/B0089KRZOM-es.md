@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WnCLLRemL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0089KRZOM-es'
+slug: 'B0089KRZOM-es Dow s Fine Ruby  Porto - 3 botellas de 75 cl  Total: 2250 ml'
 actualPrice: 24.09 EUR
 currency: EUR
 price: 24.09

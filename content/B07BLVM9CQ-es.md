@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NQAZ6+l1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BLVM9CQ-es'
+slug: 'B07BLVM9CQ-es 4 Unidades de Pinzas de Cama para Tablas de Planchar Fundas de Material Hierro - Negro 2'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

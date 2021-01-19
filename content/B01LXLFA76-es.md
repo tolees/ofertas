@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516f2a8Q0pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXLFA76-es'
+slug: 'B01LXLFA76-es Cruzcampo Cerveza - Paquete de 24 x 250 ml - Total: 6000 ml'
 actualPrice: 2.07 EUR
 currency: EUR
 price: 2.07

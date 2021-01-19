@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kpBYquLzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNHCX9J-es'
+slug: 'B07TNHCX9J-es Hanmir Adaptador de Red LAN Ethernet RJ45  USB 2.0 10 / 100Mbps  Tarjeta de Red LAN Ethernet Compatible con Mac OS y el Sistema operativo Windows - Blanco'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31I0Hh3V8bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003TNMG0M-es'
+slug: 'B003TNMG0M-es Wahl Groomsman - Cortapelos recargable  color gris'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

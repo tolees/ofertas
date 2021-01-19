@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21+tmr3ikHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015TTD4BS-es'
+slug: 'B015TTD4BS-es Bondage Play Dilatadores Uretra - 1 unidad'
 actualPrice: 14.73 EUR
 currency: EUR
 price: 14.73

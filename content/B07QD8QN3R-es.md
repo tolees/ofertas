@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51VuqwfSiqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD8QN3R-es'
+slug: 'B07QD8QN3R-es Dickie Toys- Toy Story 4 Buggy Crash Buzz radiocontrol  Multicolor  3155000 '
 actualPrice: 36.07 EUR
 currency: EUR
 price: 36.07

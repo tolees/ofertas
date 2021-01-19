@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aMjJw3AML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SM895KV-es'
+slug: 'B07SM895KV-es Funko- Pop Star Wars The Rise of Skywalker-Kylo REN  Lights & Sound  Collectible Figure  Multicolor  44599 '
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

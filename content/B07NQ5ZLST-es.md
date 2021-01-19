@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EPSXLMXeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQ5ZLST-es'
+slug: 'B07NQ5ZLST-es Kinder Fluff Parasol para Parabrisas de Coche  210T  Protección Solar Definitiva  Furgonetas y Camiones - Parasol para Ventana Delantera  Bloqueador de Rayos UV y Mantiene tu Choche Fresco - 2 piezas'
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

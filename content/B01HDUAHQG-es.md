@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51glHp4SWhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HDUAHQG-es'
+slug: 'B01HDUAHQG-es South Park: Retaguardia En Peligro - Collector s Edition'
 actualPrice: 71.9 EUR
 currency: EUR
 price: 71.9

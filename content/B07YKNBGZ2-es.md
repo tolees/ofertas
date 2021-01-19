@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410+NHB9W8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YKNBGZ2-es'
+slug: 'B07YKNBGZ2-es Jack & Jones Jjecorp Logo Sweat Hood Noos suéter  Rio Red  L para Hombre'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41daDfTglML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q76J2WK-es'
+slug: 'B07Q76J2WK-es Pack 2x Tubo LED 120 cm  18w. Color Blanco Frio  6500K . Standard T8 G13. 1800 lumenes reales. Cebador LED incluido.'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

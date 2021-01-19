@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51K5x2ByYqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHD2G3S-es'
+slug: 'B07ZHD2G3S-es Electirc Mini Máquina del Vacío con Paquete de 8 Bolsas de Almacenaje al Vacío Ahorro de Energía Bomba De Vacío para Guardar Ropa  Ropa de Cama  Edredones  Almohadas  Mantas  Cortinas'
 actualPrice: 27.89 EUR
 currency: EUR
 price: 27.89

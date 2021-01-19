@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BOQm5gmLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAZ2VVB-es'
+slug: 'B01NAZ2VVB-es Jimmy Choo L Eau Perfume - 60 ml'
 actualPrice: 29.96 EUR
 currency: EUR
 price: 29.96

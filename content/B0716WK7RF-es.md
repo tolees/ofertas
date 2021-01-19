@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jaH9kD98L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0716WK7RF-es'
+slug: 'B0716WK7RF-es Asics Kanmei  Zapatillas de Running para Hombre  Azul  Directoire Blue/Peacoat/Energy Green   46.5 EU'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

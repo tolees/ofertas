@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g-+ypiZXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H1X85EQ-es'
+slug: 'B01H1X85EQ-es Panama Jack Glasgow Igloo  Botas Clasicas para Hombre  Negro  Negro C3   47 EU'
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

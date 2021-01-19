@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51H8vfqBl4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XC7CM99-es'
+slug: 'B07XC7CM99-es Giochi Preziosi - Camión de policía con 2 Personajes y Accesorios'
 actualPrice: 25.61 EUR
 currency: EUR
 price: 25.61

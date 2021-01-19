@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310X84+rv7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5X2PWN-es'
+slug: 'B08B5X2PWN-es Mango de metal profesional Cristal de acero Diamante de imitación Alimentación de aceite autolubricante Cortador de vidrio con punta Herramienta de acristalamiento de corte'
 actualPrice: 1.46 EUR
 currency: EUR
 price: 1.46

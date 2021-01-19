@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t2rM7+lEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000UGWRPA-es'
+slug: 'B000UGWRPA-es Singer BSM 203 Quita pelusas  Plastic  Azul  Gris  Color Blanco'
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

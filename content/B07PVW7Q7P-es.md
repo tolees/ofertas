@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ktk1XA36L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVW7Q7P-es'
+slug: 'B07PVW7Q7P-es Moderna lámpara LED de techo para salón  regulable  pantalla de acrílico  lámpara de techo de diseño cuadrado  lámpara de comedor con mando a distancia  lámpara de techo  lámpara colgante  cocina'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

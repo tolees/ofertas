@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SgHwG5YAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08617LDGQ-es'
+slug: 'B08617LDGQ-es Qomolo Esterillas Inflables Camping  Ultraligera Esterilla Acampada Camping con Almohada  Portátil Colchon Acampada para Al Aire Libre Viajes  Playa  Picnic Senderismo y Escalada'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

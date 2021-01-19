@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JbtrRjivL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAARLFE-es'
+slug: 'B00XAARLFE-es Signal - Pasta de dientes Protección Anticaries - Flúor Calcio - 75 ml  8678590 '
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

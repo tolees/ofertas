@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CQnePjOmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N8LSVWW-es'
+slug: 'B00N8LSVWW-es StarTech.com PXTNB3SUK1M - Cable de de alimentación para portátil  1 m  BS-1363 a C5  Enchufe de Reino Unido   Color Negro'
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

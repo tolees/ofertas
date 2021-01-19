@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Yp5xsXXVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3QDQNG-es'
+slug: 'B07K3QDQNG-es BOSS Schino-Slim D Pantalones  Beige  Open Beige 280   W33/L32  Talla del Fabricante: 3332  para Hombre'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

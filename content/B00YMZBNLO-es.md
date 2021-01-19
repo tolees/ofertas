@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31R-OrSBJeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YMZBNLO-es'
+slug: 'B00YMZBNLO-es Intenso 3533491 - Memoria USB de 128 GB  Color Negro'
 actualPrice: 17.72 EUR
 currency: EUR
 price: 17.72

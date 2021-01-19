@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416BF064VTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082P4KNG3-es'
+slug: 'B082P4KNG3-es Flamingueo Mapa Mundi Corcho Pared - Mapamundi Grande con Chinchetas para Fotos  Mapa Mundi Pared para Marcar Viajes  Mapamundi Corcho para Pared  Mapa Mundo  45 5 x 100 cm  Mapa Mundi Corcho '
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BboV-MIkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KNWQW3I-es'
+slug: 'B01KNWQW3I-es Kerastase  Mascarilla para el pelo - 200 ml.'
 actualPrice: 23.25 EUR
 currency: EUR
 price: 23.25

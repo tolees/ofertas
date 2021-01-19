@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fx0pYeV0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VV6CZVM-es'
+slug: 'B07VV6CZVM-es Nudito Soporte Base Portátil Ajustable para Ordenadores Portátiles de 7 a 14 pulgadas. Soporte Ergonómico Plegable de Aleación de Aluminio para Portátiles y Tablets. Elevador Ajustable de Portátiles'
 actualPrice: 11.47 EUR
 currency: EUR
 price: 11.47

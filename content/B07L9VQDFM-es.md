@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31h7k5gg7vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9VQDFM-es'
+slug: 'B07L9VQDFM-es Lacoste Courtline 319 1 Us Cfa  Zapatillas para Mujer  Blanco  White/Light Blue 1t3   41 EU'
 actualPrice: 33.66 EUR
 currency: EUR
 price: 33.66

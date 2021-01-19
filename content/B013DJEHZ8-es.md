@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OZTdvwTAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013DJEHZ8-es'
+slug: 'B013DJEHZ8-es Activision Blizzard Skylanders Superchargers - Vehicle Pack : Shield Striker'
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

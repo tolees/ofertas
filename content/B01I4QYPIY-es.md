@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uaQBpfS2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I4QYPIY-es'
+slug: 'B01I4QYPIY-es SELECT – Rodillera para Balonmano Vendaje  Hombre  Color Negro  tamaño Large'
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

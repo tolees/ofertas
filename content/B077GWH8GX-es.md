@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31qP4bK%2BJVL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B077GWH8GX-es'
+slug: 'B077GWH8GX-es Under Armour Challenger II Training Pant Pantalones  Hombre  Azul  Midnight Navy/Graphite 410   L'
 actualPrice: 23.48 EUR
 currency: EUR
 price: 23.48

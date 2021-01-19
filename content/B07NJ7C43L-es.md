@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zwkBY3CeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ7C43L-es'
+slug: 'B07NJ7C43L-es Mujer Bañador de Una Pieza Traje de Baño Estampado Vintage Retro L CL011002-2'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

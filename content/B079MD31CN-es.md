@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KeyDw+dhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MD31CN-es'
+slug: 'B079MD31CN-es Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Niños  Azul Navy Blazer Mallard Blue Hawaiian Surf  31 EU'
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

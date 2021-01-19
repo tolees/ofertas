@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51o31C-KQSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DMQYV4A-es'
+slug: 'B00DMQYV4A-es Yosoo C Forma Decoración Levitación Magnética Flotante Mapa del Mundo Globo Luz LED'
 actualPrice: 20.69 EUR
 currency: EUR
 price: 20.69

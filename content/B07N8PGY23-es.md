@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qq64K6UCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8PGY23-es'
+slug: 'B07N8PGY23-es Huawei Y6 2019 - Smartphone de 6.09"  RAM de 2GB  Memoria de 32GB  3020 mAh  Cámara de 13 MP   EMUI 9.0  Color Azul'
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

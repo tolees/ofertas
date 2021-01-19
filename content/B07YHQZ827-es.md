@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dtMkccAKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YHQZ827-es'
+slug: 'B07YHQZ827-es Zapatillas Casa Hombre Forro de Felpa Más Grueso Zapatillas de casa de Hombre Antideslizante de Interior y Exterior Pantuflas Cálido y Confortable'
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

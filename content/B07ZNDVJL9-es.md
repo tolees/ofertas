@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hcrK0eKkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNDVJL9-es'
+slug: 'B07ZNDVJL9-es Wuyee 1Pcs Interruptor de Bloqueo para la máquina de Correr Llave de Seguridad Cinta de Correr Interruptor magnético Bloqueo Fitness  Rojo '
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

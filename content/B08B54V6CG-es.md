@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s3zgKRDRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B54V6CG-es'
+slug: 'B08B54V6CG-es Genericc Tarjeta Micro SD SDXC 128 GB/256 GB de alta velocidad Clase 10 Tarjeta de memoria con adaptador SD  128 GB '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

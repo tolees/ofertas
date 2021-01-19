@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zl8i4oF8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019ETCS02-es'
+slug: 'B019ETCS02-es Under Armour 1268951-001 Zapatillas de Senderismo  Negro  Black   44 EU'
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

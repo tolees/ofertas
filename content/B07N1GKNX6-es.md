@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31v-Y2YO5kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GKNX6-es'
+slug: 'B07N1GKNX6-es Clarks Sillian2.0pace  Zapatillas para Mujer  Negro  Black Textile Black Textile   38 EU'
 actualPrice: 51.07 EUR
 currency: EUR
 price: 51.07

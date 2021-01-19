@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ORaVyPp4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQR36MJ-es'
+slug: 'B07FQR36MJ-es Clarks Step Urban Mix  Zapatillas para Hombre  Negro Black  44.5 EU'
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

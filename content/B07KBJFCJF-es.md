@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+unl1F6rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBJFCJF-es'
+slug: 'B07KBJFCJF-es Funko- 5 Star: Aladdin: Genie 5 Estrellas  Multicolor  Talla única  35763 '
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

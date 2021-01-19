@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fz-F-yFQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJZHSJT-es'
+slug: 'B07QJZHSJT-es Lámpara de Espejo Baño LED 5W 30cm 400LM Azhien Blanco Neutro 4000K LED Armario Lámpara Luz de Pared IP44 230V Aplique de Baño Espejo Acero Inoxidable 300x14x14mm'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

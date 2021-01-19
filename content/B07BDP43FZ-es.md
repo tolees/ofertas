@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ST3957PDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDP43FZ-es'
+slug: 'B07BDP43FZ-es American Tourister Sunside Spinner 55/20 Equipaje de Mano  55 cm  35 litros  Turquesa  Aero Turquoise '
 actualPrice: 77.35 EUR
 currency: EUR
 price: 77.35

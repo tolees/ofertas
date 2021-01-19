@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415Mt0tUSgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088KNXFGT-es'
+slug: 'B088KNXFGT-es Caja 50 Desechables Adultos 3 Pliegues CE FDA 175x95 mm Azul'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VdHzSVmwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YLC5L1X-es'
+slug: 'B07YLC5L1X-es Warriors Orochi 4 Ultimate'
 actualPrice: 41.92 EUR
 currency: EUR
 price: 41.92

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wKnRwujyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X6GD1YS-es'
+slug: 'B07X6GD1YS-es Vbiger Mochilas Escolares Niña Impermeable para Estudiante Grande para los Grados 3-6  Azul real1 '
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410kPNFv3yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLLLZS2-es'
+slug: 'B07SLLLZS2-es Asics Patriot 11  Running Shoe para Mujer  Menta Tinte/Sheet Rock  40 EU'
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

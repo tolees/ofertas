@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nbh7yXYLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG17Z4X-es'
+slug: 'B07KG17Z4X-es PUMA Palace Guard  Zapatillas Unisex Adulto  White-Jaffa Orange-Galaxy Blue  43 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

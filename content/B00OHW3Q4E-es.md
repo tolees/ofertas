@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TK4283PiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OHW3Q4E-es'
+slug: 'B00OHW3Q4E-es Valueline VLAP22255B02 Adaptador de Cable 2 x RCA 3 5mm Negro  Rojo  Blanco - Adaptador para Cable  2 x RCA  3 5mm  Male Connector/Female Connector  0 2 m  Negro  Rojo  Blanco '
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

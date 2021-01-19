@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PTg+Lex7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYY4TM1-es'
+slug: 'B07TYY4TM1-es Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Hombre  Verde  Forest   40 EU'
 actualPrice: 49.45 EUR
 currency: EUR
 price: 49.45

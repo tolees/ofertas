@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xIxMqHpHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SL4VLPQ-es'
+slug: 'B07SL4VLPQ-es Smarten Zapatillas de Running Hombre Mujer Air Correr Deportes Calzado Verano Comodos Zapatillas Sport Pink 35 EU'
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

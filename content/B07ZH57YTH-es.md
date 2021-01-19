@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KKOiWJT-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZH57YTH-es'
+slug: 'B07ZH57YTH-es L Oréal Brilliant Signature 311 Be Brilliant Brillo Duradero Rojo 30 g'
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

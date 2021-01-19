@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HlflfR+pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8DSXPD-es'
+slug: 'B07F8DSXPD-es Mono/Pelele de manga larga para bebé  3-6 Meses   Azul '
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y7ovUeNKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073GWGQV1-es'
+slug: 'B073GWGQV1-es Monederos Mujer Piel  Carteras Mujer RFID Gran Capacidad  Billetero Cuero Mujer  Billeteras Largas Cremallera Piel con 17 Ranuras para Tarjetas con Cremallera y Muñequeras'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-w-AEXGeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PWJ9JW-es'
+slug: 'B087PWJ9JW-es Termómetro sin contacto por infrarrojos JPD-FR202'
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

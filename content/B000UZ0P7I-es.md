@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Qy0jmuxSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000UZ0P7I-es'
+slug: 'B000UZ0P7I-es Olympia herramientas 85 – 010 Grand pack-n-roll portátil herramienta Carrier  negro'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

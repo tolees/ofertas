@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wr36cDXKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001POTTDO-es'
+slug: 'B001POTTDO-es Biofinity - Lentes de contacto esféricas mensuales  R 8.6 / D 14 / -5.25 Diop   Pack de 6 uds.'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

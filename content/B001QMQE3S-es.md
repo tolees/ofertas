@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v2Po54T5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001QMQE3S-es'
+slug: 'B001QMQE3S-es Waterpik WP-70 - Producto de cuidado dental  color blanco'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

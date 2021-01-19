@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316ozDY1rhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DMCHSYM-es'
+slug: 'B07DMCHSYM-es Lacoste ESPARRE BL 1 CMA  Zapatillas para Hombre  Negro  Black/White   44 EU'
 actualPrice: 30.73 EUR
 currency: EUR
 price: 30.73

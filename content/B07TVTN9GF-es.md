@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414jRRe2iOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVTN9GF-es'
+slug: 'B07TVTN9GF-es Women s Secret Print Flower Mesh Grey Sujetador de triángulo  Gris  Gama Grises 44   95B para Mujer'
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

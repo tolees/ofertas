@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BmeulpbFL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JIHQQ7Q-es'
+slug: 'B01JIHQQ7Q-es Nuei Cosmetics Gel Oh Holy Mary Sliding - 100 ml'
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

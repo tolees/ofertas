@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TI0-NBdNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSCGD9W-es'
+slug: 'B07TSCGD9W-es El Misterioso Viaje de Layton'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

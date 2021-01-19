@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rV+LYyU1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QKDPNM-es'
+slug: 'B087QKDPNM-es LAQI Oído de la Salud de eliminación de Cera del oído Cureta selección del oído Pinzas de Salud Herramienta removedor Limpiador de la Cera para el hogar Salon'
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

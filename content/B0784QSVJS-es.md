@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311BxdEX4yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784QSVJS-es'
+slug: 'B0784QSVJS-es Nelly Espuma para Pelo - 12 Recipientes de 300 ml - Total: 3600 ml'
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

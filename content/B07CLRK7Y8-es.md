@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IB-E5xzXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLRK7Y8-es'
+slug: 'B07CLRK7Y8-es OMRON VIVA - Báscula inteligente y monitor de composición corporal con medición de peso  grasa corporal  grasa visceral  músculo esquelético  metabolismo basal e IMC'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417eR0C81wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5JTBBR-es'
+slug: 'B07R5JTBBR-es FreedConn Accesorio de Clip de Casco de intercomunicador para T-COMVB y T-COMSC Serie Casco de la Motocicleta Bluetooth Interphone Moto Intercomunicador'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

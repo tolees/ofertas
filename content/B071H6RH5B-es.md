@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kr1j7+71L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071H6RH5B-es'
+slug: 'B071H6RH5B-es Antena Yagi para Amplificador de señal Celular Repetidor  señal Dual  Banda 2G 3G 4G 7/9 dBi  Antena 4g Exterior  10 m de Cable RG58 con Conector N Macho'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

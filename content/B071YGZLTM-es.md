@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ltXOKhvGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071YGZLTM-es'
+slug: 'B071YGZLTM-es Wilson  Set completo para principiantes  9 palos de golf con carro  Mujer  mano derecha  Stretch XL  Blanco/Gris/Violeta  WGG157554'
 actualPrice: 226.72 EUR
 currency: EUR
 price: 226.72

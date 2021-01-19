@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iiJ+aVmSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073PB8S9P-es'
+slug: 'B073PB8S9P-es Bourjois Velvet The Lipstick Barra de Labios Tono 09 Fuchsia botté - 23 gr.'
 actualPrice: 3.81 EUR
 currency: EUR
 price: 3.81

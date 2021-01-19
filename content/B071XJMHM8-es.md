@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BcouqtelL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071XJMHM8-es'
+slug: 'B071XJMHM8-es Aquabot Bravo Limpiafondo Automático de Piscina  Amarillo  38x44x26 cm'
 actualPrice: 431.0 EUR
 currency: EUR
 price: 431.0

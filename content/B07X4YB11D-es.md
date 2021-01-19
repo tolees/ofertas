@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ihenS3WgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X4YB11D-es'
+slug: 'B07X4YB11D-es Smatree Funda protectora para tableta de 11 5 pulgadas  funda protectora rígida para iPad Pro de 11 "/ iPad Air de 10 5" / Samsung Galaxy Tab S4 / Lenovo Ideapad D330 de 10 1 "/ iPad Mini de 7 9"  azul '
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

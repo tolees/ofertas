@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314CcJK-8CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CFHH1LT-es'
+slug: 'B07CFHH1LT-es Jack & Jones Jjebasic Knit V-Neck Noos suéter  Azul  Navy Blazer Navy Blazer   X-Small para Hombre'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

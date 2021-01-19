@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31vGayWsN3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9FD3QP-es'
+slug: 'B07G9FD3QP-es Joma Academy Pantalon Termico Caballero  Hombre  Naranja  L-XL'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

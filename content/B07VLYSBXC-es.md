@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+ojtYfLWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLYSBXC-es'
+slug: 'B07VLYSBXC-es DC Shoes Court Graffik  Zapatillas de Skateboard para Niños  Azul  Navy/Gum Ngm   34 EU'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

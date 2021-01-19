@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gY7h4vqGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QHD8L9-es'
+slug: 'B086QHD8L9-es Suhctup Funda Compatible con Samsung Galaxy A6S Carcasa Transparente Dibujo Diseño Flor [Protección Caídas] Ultra-Delgado Flexible Silicona TPU Estuche Cover para Galaxy A6S Mandala 6'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

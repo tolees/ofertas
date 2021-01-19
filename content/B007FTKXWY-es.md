@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i8wYsp-zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007FTKXWY-es'
+slug: 'B007FTKXWY-es RockShox Kit Mantenimiento Horquilla Reba/SID  retenes+toricas   Unisex  Negro  Talla Única'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

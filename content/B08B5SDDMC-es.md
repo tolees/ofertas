@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ccOXw1HoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5SDDMC-es'
+slug: 'B08B5SDDMC-es alvorog Espejo Maquillaje con Luz LED  Espejo de Pared con 3 Modos de Luz y Aumento 1x/5x  Espejo con 36 LEDs  Luz Ajustable y Rotación de 360°  8” Espejo de Baño con Carga USB o Batería - Plata'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r6e-AinwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TZL6C1-es'
+slug: 'B077TZL6C1-es Kipling Multiple Riñonera de Marcha  25 cm  True Black'
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

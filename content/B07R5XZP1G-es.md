@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nYozFHD1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5XZP1G-es'
+slug: 'B07R5XZP1G-es Boston Tech SP1 - Botella de Agua de Acero Inoxidable 18/8. con Tapón Hermético a Prueba de Fugas. Doble Capa envasado al Vacío. Alto Rendimiento en Frio como en Caliente  Gran Sabor  Negro 750ml. '
 actualPrice: 8.54 EUR
 currency: EUR
 price: 8.54

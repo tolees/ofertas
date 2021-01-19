@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YE6HMZz6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ARKQG3I-es'
+slug: 'B00ARKQG3I-es The Wet Brush Cepillo Viva Violet - 144 gr'
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

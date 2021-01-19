@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ug2El6ZBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JY2P7G-es'
+slug: 'B073JY2P7G-es SanDisk - Base iXpand de 32 GB  para Cargar iPhone y Hacer copias de Seguridad de su Contenido'
 actualPrice: 26.92 EUR
 currency: EUR
 price: 26.92

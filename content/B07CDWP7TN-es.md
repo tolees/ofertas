@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/514CU4Lu3mL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CDWP7TN-es'
+slug: 'B07CDWP7TN-es Sotech Herramienta Multifunción de Jardinería 5 en 1  Desbrozadora Gasolina  Cortasetos y Motosierra  Cortadora de hierbajos  Podadora y Poste de Extensión  52cc  2.2kw  2 Tiempos'
 actualPrice: 194.89 EUR
 currency: EUR
 price: 194.89

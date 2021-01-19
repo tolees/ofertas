@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IMsCPxDqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KWCRQM6-es'
+slug: 'B00KWCRQM6-es Asics Mexico 66  Zapatillas Unisex  Blanco  White/White 0101   48 EU'
 actualPrice: 51.3 EUR
 currency: EUR
 price: 51.3

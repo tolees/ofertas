@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410MK-E5lVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M13IFK3-es'
+slug: 'B01M13IFK3-es Durex Sensitivo Suave Preservativos Finos y Extralubricados 12 Unidades'
 actualPrice: 5.82 EUR
 currency: EUR
 price: 5.82

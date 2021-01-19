@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317mNxvFJyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0016KUYAO-es'
+slug: 'B0016KUYAO-es Westinghouse Lighting Turbo Swirl Ventilador de Techo E14  60 W  Titanio'
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

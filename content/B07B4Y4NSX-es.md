@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vo3cdA2hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4Y4NSX-es'
+slug: 'B07B4Y4NSX-es TOUCHBeauty Limpiador Facial Sónico 2 en 1 con Masaje Antiedad para los Ojos  Impermeable  Cabeza Facial con Cerdas Ultra Suaves  Limpiador Exfoliante Facial AG-1581'
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fzdN+YWWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GHITTYG-es'
+slug: 'B01GHITTYG-es Plantronics Voyager 5200 Monoaural gancho de oreja Negro  Gris - Auriculares   IPX4  Bluetooth '
 actualPrice: 78.09 EUR
 currency: EUR
 price: 78.09

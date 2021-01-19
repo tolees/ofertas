@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iHfwpZ+OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BP8KRLK-es'
+slug: 'B08BP8KRLK-es Wuyee Naranja de Halloween Que cuelga del Fantasma de Halloween Creepy Puntales Scary Bruja Colgantes de la muñeca de la casa encantada Puntales'
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

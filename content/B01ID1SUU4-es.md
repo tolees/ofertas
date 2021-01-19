@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OigevyycL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ID1SUU4-es'
+slug: 'B01ID1SUU4-es Ever-Pretty Vestidos de Cóctel A-línea Cuello en V sin Mangas Corte Imperio para Mujer Borgoña 40'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

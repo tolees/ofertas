@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NfwsGVETL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZNL2X8-es'
+slug: 'B07MZNL2X8-es Gioseppo 56776  Zapatillas Altas para Mujer  Azul  Marino Marino   41 EU'
 actualPrice: 24.44 EUR
 currency: EUR
 price: 24.44

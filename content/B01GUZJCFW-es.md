@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BiFl2KYTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GUZJCFW-es'
+slug: 'B01GUZJCFW-es Adidas Stan Smith  Zapatillas Unisex Niños  Blanco  Footwear White/Footwear White/Green 0   30 EU'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

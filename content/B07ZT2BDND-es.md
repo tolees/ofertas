@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ARfkAUUSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZT2BDND-es'
+slug: 'B07ZT2BDND-es Solar Power Bank 26800mAh Cargador Solar Batería Externa Móvil+4 Puertos:Carga Rapida Tipo C/QI Carga Inalámbrico/Dos 3.1A+4 Modo Iluminación:SOS Linterna+18 LED+Impermeable para iPad Teléfono Viajes'
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

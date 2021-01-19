@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hAX44lfIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085WR4KJB-es'
+slug: 'B085WR4KJB-es IDEASY Actualice la Tableta de Escritura LCD de Borrado Parcial y Completo de 12 Pulgadas  Almohadilla de Escritura LCD para Niños para la Escuela  el Hogar y la Oficina  Rosa '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51n6Qem-FYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085C4XMM3-es'
+slug: 'B085C4XMM3-es Ai.Moichien Gran Esperanza Borlas Étnica Bohemia Dangle Pendientes Joyería Para Mujeres Playa Accessories'
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

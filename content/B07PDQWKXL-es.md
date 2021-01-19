@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hZOLU1qbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDQWKXL-es'
+slug: 'B07PDQWKXL-es New Balance 997h  Zapatillas para Hombre  Marfil  Off White Off White   37 EU'
 actualPrice: 24.13 EUR
 currency: EUR
 price: 24.13

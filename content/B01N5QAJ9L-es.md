@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21LMTSGgyYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5QAJ9L-es'
+slug: 'B01N5QAJ9L-es FOREO Espada tratamiento de luz azul para acné Cobalt Blue'
 actualPrice: 89.4 EUR
 currency: EUR
 price: 89.4

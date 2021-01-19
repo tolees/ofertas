@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512Lu1qvZsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R42RG4T-es'
+slug: 'B07R42RG4T-es kitteny Juegos Suelo Juego de Piso Familiar Tapete de Juego  Juegos de Mesa  Divertidos Juegos de Habilidad para niños y Adultos'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QtXk1QyjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DW2J1SZ-es'
+slug: 'B07DW2J1SZ-es VicTsing Transmisor FM Bluetooth Coche  Manos Libres Navegación de Voz Pantalla OLED Reproductor MP3 Mechero Coche Cargador'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

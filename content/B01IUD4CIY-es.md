@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mu0rrWgGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IUD4CIY-es'
+slug: 'B01IUD4CIY-es Conservas Dantza Esparrago - 345 gr'
 actualPrice: 5.14 EUR
 currency: EUR
 price: 5.14

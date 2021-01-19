@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sWS18gY7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ERS8CLO-es'
+slug: 'B01ERS8CLO-es Joma Drive Bermuda Deporte  Hombre  Blanco  4XS-3XS'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

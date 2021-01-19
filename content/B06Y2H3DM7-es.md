@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JfhAfVY0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2H3DM7-es'
+slug: 'B06Y2H3DM7-es Craft Lightcraft Shineball S-XL Set lámparas Esfera Decoracion Jardin Bola iluminacion Nocturna Exteriores  4 Unidades luz de Diferentes tamaños  Resistente  Incluye Fijaciones '
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

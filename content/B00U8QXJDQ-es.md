@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uMvcqWthL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U8QXJDQ-es'
+slug: 'B00U8QXJDQ-es Beter Lima Uñas Pedicura Cerámica 19.8 cm - 1 Unidad'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

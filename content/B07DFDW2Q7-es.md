@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N9LDn8mjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFDW2Q7-es'
+slug: 'B07DFDW2Q7-es Pop! Five Nights At Freddy S - Figura de Vinilo Rockstar Foxy'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uLWxiXfvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BCIS5I8-es'
+slug: 'B00BCIS5I8-es Belkin MIXIT - Cable de Lightning a USB con certificación MFi para iPhone 11  11 Pro  11 Pro Max  XS  XS Max  XR  X  8/8 plus y otros  1 2 metros   negro'
 actualPrice: 12.18 EUR
 currency: EUR
 price: 12.18

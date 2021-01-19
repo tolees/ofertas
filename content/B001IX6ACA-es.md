@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U1mTgRl8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001IX6ACA-es'
+slug: 'B001IX6ACA-es K&N E-1987 Filtro de Aire Coche  Lavable y Reutilizable'
 actualPrice: 64.76 EUR
 currency: EUR
 price: 64.76

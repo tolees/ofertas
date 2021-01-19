@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FL-lfHNuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0834ZNRKZ-es'
+slug: 'B0834ZNRKZ-es Fila Slip Deportivo Color Azul'
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

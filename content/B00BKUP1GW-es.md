@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ikBIsgjhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKUP1GW-es'
+slug: 'B00BKUP1GW-es Lancaster Aquamilk Cream Tube 50 ml'
 actualPrice: 16.6 EUR
 currency: EUR
 price: 16.6

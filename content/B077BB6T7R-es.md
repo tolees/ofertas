@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uG-sZy3sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077BB6T7R-es'
+slug: 'B077BB6T7R-es Calvin Klein Cotton Stretch-3er Calcetines  Negro  Black W. Black WB Xwb   X-Large  Pack de 3  para Hombre'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

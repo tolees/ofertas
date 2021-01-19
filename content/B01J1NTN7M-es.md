@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mq5Udbp-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J1NTN7M-es'
+slug: 'B01J1NTN7M-es Philips Lighting Bombilla LED Foco GU10 Cristal Pack de 2  4.6 W equivalente a 50 W  luz blanca cálida  355 lúmenes  no regulable  ángulo de apertura de 36º'
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

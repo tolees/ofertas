@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/518qo%2Bpqy0L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0767MXM1C-es'
+slug: 'B0767MXM1C-es GB eye Taza Rick & Morty Better Call Morty  Multicolor  Unico'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

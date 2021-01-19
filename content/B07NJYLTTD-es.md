@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ePCscjmaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJYLTTD-es'
+slug: 'B07NJYLTTD-es Bergner Q3020 Sartén 20 x 4.5cm Aluminio Forjado  Inducción Copper Just for Chefs  Cobre'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

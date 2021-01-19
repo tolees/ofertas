@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CrRpCeIeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7BGKGT-es'
+slug: 'B07R7BGKGT-es CARE OF by PUMA Zapatillas para mujer  Blanco White  42 EU'
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

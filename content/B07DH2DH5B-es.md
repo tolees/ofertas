@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ST5ZJAHvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DH2DH5B-es'
+slug: 'B07DH2DH5B-es HUGO Henfords Pantalones  Azul  Dark Blue 401   106 para Hombre'
 actualPrice: 65.67 EUR
 currency: EUR
 price: 65.67

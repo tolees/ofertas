@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JMaDvLgTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FW2PSF-es'
+slug: 'B083FW2PSF-es Durex Naturals Hidratante Lubricante  Ácido Hialurónico  100% Natural sin Fragancia  Colorantes Ni Agentes Irritantes - 100ml'
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

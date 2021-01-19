@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kQNHWOheL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J1J9NF1-es'
+slug: 'B07J1J9NF1-es Skechers Flex Appeal 3.0-Satellites  Zapatillas para Mujer  Charcoal Mesh/Pink Trim Gymn  3.5 EU'
 actualPrice: 29.96 EUR
 currency: EUR
 price: 29.96

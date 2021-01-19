@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-igk4ZKOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KM3DC1N-es'
+slug: 'B07KM3DC1N-es Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Gris  Castlerock   49 EU'
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

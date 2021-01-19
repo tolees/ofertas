@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RMSI59MHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZYMJZY-es'
+slug: 'B07TZYMJZY-es KiplingDelia CompactMujerMochilasNegro  Charcoal 18x23.5x13 Centimeters  B x H x T '
 actualPrice: 24.6 EUR
 currency: EUR
 price: 24.6

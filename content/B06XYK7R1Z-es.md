@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mmD8ERTCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYK7R1Z-es'
+slug: 'B06XYK7R1Z-es Insta360 ONE - Cámara 360 grados deportiva  Resolución 4K  Estabilizador de imagen integrado  24Mp  conexión Bluetooth 4.0  MicroSD  Lightning   color negro'
 actualPrice: 196.5 EUR
 currency: EUR
 price: 196.5

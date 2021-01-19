@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-CGVXRw+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y32VYS2-es'
+slug: 'B07Y32VYS2-es YIKEF Globos de Confeti de Oro Rosa Globo de Fiesta 30.5 CM para Boda  cumpleaños  Baby Shower  graduación  Decoraciones de Fiesta de Ceremonia  62 Piezas '
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

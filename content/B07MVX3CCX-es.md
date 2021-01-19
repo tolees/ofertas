@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PkKQxNNaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVX3CCX-es'
+slug: 'B07MVX3CCX-es Naf Naf Bitrendy Impermeable  Beige  Trench 1585   38 para Mujer'
 actualPrice: 40.45 EUR
 currency: EUR
 price: 40.45

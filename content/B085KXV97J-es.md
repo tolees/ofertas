@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hnMIxYrqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085KXV97J-es'
+slug: 'B085KXV97J-es AETKFO Guirnalda Luces Exterior  Cadena de Luces G40 Guirnaldas Luminosas de Exterior Interiores 9 5 m Bombilla con 25+4 Cadena de Luz para Patio Bodas  Jardín  Decoración  Fiestas- Impermeable IP44'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

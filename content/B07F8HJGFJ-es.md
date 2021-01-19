@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414A9Ig9-WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8HJGFJ-es'
+slug: 'B07F8HJGFJ-es Superdry Sweat Shirt Shop Duo Hood suéter  Gris  Ice Marl 54G   S para Hombre'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

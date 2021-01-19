@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41SGwf1d1hL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZB2HZ7-es'
+slug: 'B07CZB2HZ7-es Asics Gel-Lyte  Zapatillas para Mujer  Blanco  White/White 100   36 EU'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zKsdIOE1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPQY7W1-es'
+slug: 'B07BPQY7W1-es Jura Journey Single Malt Scotch Whisky - 0.7 L'
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415MoFmJmlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089D6KFP4-es'
+slug: 'B089D6KFP4-es Niños Unisex analógico Digital Resistente al Agua Reloj Deportivo Luminoso Reloj de Pulsera de Dibujos Animados para niños Reloj niñas niños Nuevo - Rosa'
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

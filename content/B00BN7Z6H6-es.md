@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lILrw+c7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BN7Z6H6-es'
+slug: 'B00BN7Z6H6-es Bella Aurora Doble Fuerza Crema Anti-Manchas - 30 ml.'
 actualPrice: 8.41 EUR
 currency: EUR
 price: 8.41

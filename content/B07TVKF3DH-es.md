@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kQE+WcnvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVKF3DH-es'
+slug: 'B07TVKF3DH-es Wrangler Icons Pantalones  Azul  Blue 6 Months 923   30W / 32L para Hombre'
 actualPrice: 33.23 EUR
 currency: EUR
 price: 33.23

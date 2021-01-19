@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XhKXHYKNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YB72NXC-es'
+slug: 'B07YB72NXC-es Taurus MyBread Panificadora  Plástico'
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

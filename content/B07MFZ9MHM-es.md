@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sz2cuIuxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFZ9MHM-es'
+slug: 'B07MFZ9MHM-es Fitbit Versa Lite - Reloj Deportivo Smartwatch  Adultos Unisex  Blanco/Plata Aluminio  Talla única'
 actualPrice: 95.96 EUR
 currency: EUR
 price: 95.96

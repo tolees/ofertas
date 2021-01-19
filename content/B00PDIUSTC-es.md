@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LXO85ML5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PDIUSTC-es'
+slug: 'B00PDIUSTC-es Compo 1200602005 - Fertilizante bonsái  250 ml  Color Verde  6 3 x 7 x 15 5 cm'
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

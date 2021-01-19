@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oXreGLxFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC4KD3W-es'
+slug: 'B07JC4KD3W-es Pioneer DJ HDJ-X5BT-R Auriculares Bluetooth para DJ  Rojo'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51b1zzrWywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BR7M7HC-es'
+slug: 'B07BR7M7HC-es Cars Toalla Playa  Poliéster  Multicolor  U'
 actualPrice: 4.43 EUR
 currency: EUR
 price: 4.43

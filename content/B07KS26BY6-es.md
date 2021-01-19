@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DhqW2EhnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KS26BY6-es'
+slug: 'B07KS26BY6-es 50W Focos LED Exterior  Yuanline Floodlight IP65 Iluminación de Exterior para Jardín  Terraza  Camino  Estadio  Blanco Cálido [Clase de eficiencia energética A+]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

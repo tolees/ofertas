@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X-vNgdnrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z9SB36F-es'
+slug: 'B07Z9SB36F-es Ritiriko Zapatillas de Deporte para Mujer - Zapatillas de Running Zapatillas de Tenis Zapatillas de Deporte para Caminar Transpirable Athletic Sport Blanco 36 EU'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

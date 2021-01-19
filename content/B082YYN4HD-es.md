@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41We61VfOrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082YYN4HD-es'
+slug: 'B082YYN4HD-es Pistola de Masaje Muscular  Padi Home Masajeador de Músculos de Tejido Profundo con 20 Niveles Ajustables  6 Cabezas de Masaje y Pantalla LCD  Ultra Silenciosos para Relajación Recuperación Fatiga'
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

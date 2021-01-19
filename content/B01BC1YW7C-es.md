@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51B+blET7oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BC1YW7C-es'
+slug: 'B01BC1YW7C-es Casio EDIFICE Reloj en caja sólida  10 BAR  Negro  para Hombre  con Correa de Acero inoxidable  EFR-552D-1AVUEF'
 actualPrice: 96.0 EUR
 currency: EUR
 price: 96.0

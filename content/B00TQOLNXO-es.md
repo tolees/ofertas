@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Gt7u2t-gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TQOLNXO-es'
+slug: 'B00TQOLNXO-es Nuby ID5397AQUA - Alimentador antiahogo con redecilla  color agua'
 actualPrice: 4.02 EUR
 currency: EUR
 price: 4.02

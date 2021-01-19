@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416P0As+eJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTKKCT3-es'
+slug: 'B07MTKKCT3-es Paw Patrol Impermeable para niños La Patrulla Canina Azul 12-18 Meses'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

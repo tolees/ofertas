@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RjlP98iBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007VZY0EO-es'
+slug: 'B007VZY0EO-es DIGITUS Soporte de Ranura de Puerto Paralelo Cable Adaptador - IDC de 26 Pines a D-Sub 25 - Conector Hembra a Conector Hembra - Cable Plano.'
 actualPrice: 7.17 EUR
 currency: EUR
 price: 7.17

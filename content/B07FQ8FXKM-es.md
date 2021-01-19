@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31143o2g56L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQ8FXKM-es'
+slug: 'B07FQ8FXKM-es JACK & JONES Jjestructure Knit Crew Neck Noos suéter  Gris Jet Stream  X-Large para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

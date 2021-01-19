@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SbUKKdB4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000CSIRWI-es'
+slug: 'B000CSIRWI-es NGK CR9E - Bujía'
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

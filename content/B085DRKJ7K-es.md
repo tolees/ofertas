@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VjJ07bcoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DRKJ7K-es'
+slug: 'B085DRKJ7K-es LTDNB Cargador Inalámbrico 10W Qi Wireless Carga Rápida Quick Charger Compatible con iPhone X / 8 Plus/iPhone XS/XS MAX/XR  Samsung S10 /S10e /Note9 /S9 / S8 Plus /S8-Negro'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

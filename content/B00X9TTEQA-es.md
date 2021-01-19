@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qBy6q5-lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9TTEQA-es'
+slug: 'B00X9TTEQA-es Garnier Delial Protector Solar en Spray para Niños  Alta Protección IP50+ - 300 ml'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

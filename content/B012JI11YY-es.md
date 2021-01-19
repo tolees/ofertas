@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Tnqx1L2kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012JI11YY-es'
+slug: 'B012JI11YY-es Acrílico Cosmético Lentes De Contacto Lápiz Labial Mak Up Soporte De Exhibición Almacenamiento En Rack'
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

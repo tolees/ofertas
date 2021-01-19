@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HEAT6x6QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NE3T4XE-es'
+slug: 'B00NE3T4XE-es Floïd Floïd After Shave Loción 150 ml'
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

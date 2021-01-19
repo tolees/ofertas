@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iU7ICsUlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H6NXXNO-es'
+slug: 'B01H6NXXNO-es Crocs Swiftwater Deck Clog Men  Hombre Zueco  Marrón  Khaki/Stucco   41-42 EU'
 actualPrice: 29.39 EUR
 currency: EUR
 price: 29.39

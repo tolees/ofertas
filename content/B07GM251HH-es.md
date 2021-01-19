@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JAJC10JYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GM251HH-es'
+slug: 'B07GM251HH-es Rubie s 700594 - Disfraz de Captain Marvel   Multicolor  medium'
 actualPrice: 21.8 EUR
 currency: EUR
 price: 21.8

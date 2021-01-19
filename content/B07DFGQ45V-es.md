@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Te5DztAbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFGQ45V-es'
+slug: 'B07DFGQ45V-es Jabra Talk 55 – Auricular Monoaural In-Ear  Llamadas Inalámbricas  Indicaciones para el GPS  Transmisión de Música y Podcasts desde Dispositivos Móviles  Negro'
 actualPrice: 61.79 EUR
 currency: EUR
 price: 61.79

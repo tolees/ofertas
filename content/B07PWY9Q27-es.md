@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hj0r7TAmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWY9Q27-es'
+slug: 'B07PWY9Q27-es Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket outerwear-jackets  Rosado Claro  S'
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

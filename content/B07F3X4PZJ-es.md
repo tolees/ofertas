@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bkjGrkryL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3X4PZJ-es'
+slug: 'B07F3X4PZJ-es AmazonBasics - Juego de cama de franela con funda nórdica - 200 x 200 cm/50 x 80 cm x 2  Azul marino'
 actualPrice: 24.74 EUR
 currency: EUR
 price: 24.74

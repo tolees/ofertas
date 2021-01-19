@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o5I61ynHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDZB5JJ-es'
+slug: 'B07XDZB5JJ-es Trust Yvi Ratón inalámbrico - Multicolor'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

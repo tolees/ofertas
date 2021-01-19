@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21sNS4G+mNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYC7BS5-es'
+slug: 'B07YYC7BS5-es Trueno Sala'
 actualPrice: 29.94 EUR
 currency: EUR
 price: 29.94

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MXu9A8SGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYDR1ZN-es'
+slug: 'B07KYDR1ZN-es JASHKE Traje Inflable alienígena Mascota Cosplay Disfraces Artículos para Fiesta de cumpleaños'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

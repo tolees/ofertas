@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516roJTW5iL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L55LFYM-es'
+slug: 'B07L55LFYM-es Hombre Zapatillas de Correr Casual para Deportivas de Malla Zapatillas Antideslizantes Zapatillas Ligeras Negro 45'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

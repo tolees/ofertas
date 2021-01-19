@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PhCpeYr9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7RVLHQ-es'
+slug: 'B07W7RVLHQ-es Tommy Hilfiger Tommy Tipped Slim Polo  Negro  Black   X-Large  Talla del Fabricante:  para Hombre'
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

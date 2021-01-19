@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XgriwZEFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073YSWBRX-es'
+slug: 'B073YSWBRX-es Skechers-111 41'
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

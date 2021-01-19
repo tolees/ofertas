@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uxGUgqCCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DV2TCV-es'
+slug: 'B081DV2TCV-es KingYH 10M Cable Eléctrico Transparente 2 Núcleos 0 75 mm² Cable Flexible PVC Alambre de Cobre de Alta Resistencia la Temperatura Cable de Alimentación para Uso en Condiciones Secas Electrodomésticos'
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

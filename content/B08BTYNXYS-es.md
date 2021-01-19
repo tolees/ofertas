@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21udRafcfxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BTYNXYS-es'
+slug: 'B08BTYNXYS-es Max Mara 45760993 Beanie Mujer Camello UNI'
 actualPrice: 110.35 EUR
 currency: EUR
 price: 110.35

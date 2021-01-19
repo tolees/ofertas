@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Wc5P-W9QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G5KURYC-es'
+slug: 'B01G5KURYC-es Zolion® Laptop Stand solide haut de gamme simple en aluminium de qualité avec coussinets en silicone  #1 Universal Laptop Stand pour confort ergonomique aussi un Stand de refroidissement pour ordinateur portable. Pour Macbook Pro iPad Pro Surface Pro et tous les ordinateurs portables 11 à 15"  Perfect Macbook Stand  Plata '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

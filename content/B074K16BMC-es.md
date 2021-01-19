@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41peErJ1E-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074K16BMC-es'
+slug: 'B074K16BMC-es PDP - Pixel Pals DC Comics Joker'
 actualPrice: 10 EUR
 currency: EUR
 price: 10

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qNvmgCGvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QS3NWHP-es'
+slug: 'B07QS3NWHP-es Swiss Home Set Black 16/20/24 y Batería Cocina  Acero Inoxidable y Aluminio prensado  5 piezas + 3 sartenes'
 actualPrice: 58.83 EUR
 currency: EUR
 price: 58.83

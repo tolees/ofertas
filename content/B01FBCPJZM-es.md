@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5159P5IyNrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FBCPJZM-es'
+slug: 'B01FBCPJZM-es Orient Reloj Analógico para Unisex Adultos de Automático con Correa en Cuero FAB0B003W9'
 actualPrice: 85.95 EUR
 currency: EUR
 price: 85.95

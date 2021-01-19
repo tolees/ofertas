@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31qr2uf72OL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073FC21TS-es'
+slug: 'B073FC21TS-es Dyson V7 Fluffy Aspiradora Sin Cable con 2 Funciones  100 W  0.54 litros  87 Decibelios  Azul'
 actualPrice: 296.25 EUR
 currency: EUR
 price: 296.25

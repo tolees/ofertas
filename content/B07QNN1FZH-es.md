@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OJgq0GpHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QNN1FZH-es'
+slug: 'B07QNN1FZH-es Alsoar – Repuesto para Samsung A7 2018  funda para teléfono móvil Galaxy A7 2018  funda de móvil mate  suave y líquida  protección contra golpes y arañazos  flexible  con protección para Samsung A750'
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

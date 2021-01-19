@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+2SJZZaqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FC2PH2Z-es'
+slug: 'B07FC2PH2Z-es OLTA Auriculares In-Ear con micrófono  Auriculares para Móvil y MP3 Reproducir Música  Bajo Estéreo y Control Remoto  Auriculares con Cable 3.5mm（Negro）'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

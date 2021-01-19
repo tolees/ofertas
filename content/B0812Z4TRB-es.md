@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21oa2o0NYnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0812Z4TRB-es'
+slug: 'B0812Z4TRB-es Gancho de jardín de infantes Fibra de bambú Cuadrado pequeño 25 * 25 Regalos maternos e infantiles Toalla de saliva Toalla pequeña para niños + Verde'
 actualPrice: 3.36 EUR
 currency: EUR
 price: 3.36

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jBqLyfp9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXVWGKG-es'
+slug: 'B07QXVWGKG-es Taladro  G★LAXIA 510W Taladro Eléctrico  0-3000RPM Velocidad Variable  Portabroca de 10mm  Función Horizontal  Botón de Bloqueo de Velocidad'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

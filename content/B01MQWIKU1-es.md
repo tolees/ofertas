@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51F5q0ut+xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQWIKU1-es'
+slug: 'B01MQWIKU1-es Cupones de Sexo para Parejas ❤️  para él y para ella  – Cupones de Amor / Vales para Sexo / Tarjetas de Posiciones Sexuales / Regalos para él / Regalos para ella / Regalos para San Valentín / Juegos Divertidos para Adultos / Juguetes para Adultos / Objetos Sexuales para Parejas  Sexy '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

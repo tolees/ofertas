@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RdbLz8YIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L5Z7TJT-es'
+slug: 'B07L5Z7TJT-es Kit de monopie para Video Profesional  Cayer AF34DVH4 Monopie telescópico abatible de Aluminio de 71 Pulgadas con Cabezal de Fluido H4 y Base de trípode extraíble para cámaras DSLR y videocámaras'
 actualPrice: 126.99 EUR
 currency: EUR
 price: 126.99

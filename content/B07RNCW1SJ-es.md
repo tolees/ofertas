@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+FCeH3ZjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RNCW1SJ-es'
+slug: 'B07RNCW1SJ-es Habitación infantil Lámpara de pared Dormitorio nórdico Lámpara de pared Creativo Simple de dibujos animados Lectura linda Lámpara de cabecera  Rosa'
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

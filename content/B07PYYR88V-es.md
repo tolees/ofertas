@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y4np6wlCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYR88V-es'
+slug: 'B07PYYR88V-es Under Armour UA W Charged Escape 3  Zapatillas de Running para Mujer  Negro  Black/Blue Haze/Blue Haze   36 EU'
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

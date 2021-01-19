@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SyZ1n7eHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CG4SPVS-es'
+slug: 'B07CG4SPVS-es ERAY Manguera Jardín Manguera Extensible 15M/50FT  Triple Núcleo de Látex  Pistola de 9 Patrones de Pulverización  Resistente y Anticongelante  Color Negro'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

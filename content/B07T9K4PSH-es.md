@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GIuljjcZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9K4PSH-es'
+slug: 'B07T9K4PSH-es Set 2 sartenes Ø20+26cm aluminio prensado aptas inducción Click & cook black CON mango Click & cook'
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

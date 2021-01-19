@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51npkNPrkWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DHVVC2-es'
+slug: 'B075DHVVC2-es VIASOLAR Panel Solar fotovoltaico 50W 12V Cable 5m'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

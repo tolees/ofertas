@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412xjJdH%2BQL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DUUR4TW-es'
+slug: 'B00DUUR4TW-es SBS TEPOCHEXLR - Funda universal para móvil  talla XL  hasta 4.5"  rojo'
 actualPrice: 4.81 EUR
 currency: EUR
 price: 4.81

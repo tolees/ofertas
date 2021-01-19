@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WsYuL2ZRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LCJ51HD-es'
+slug: 'B07LCJ51HD-es Theefun 6 Paquete Huevos viscosos de Dinosaurio con Sorpresa en su Interior - Juguetes no pegajosos  para aliviar el estrés  Muy Suaves y elásticos con Luces LED Intermitentes'
 actualPrice: 12.22 EUR
 currency: EUR
 price: 12.22

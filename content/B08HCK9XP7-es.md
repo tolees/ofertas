@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dsJDV3RzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HCK9XP7-es'
+slug: 'B08HCK9XP7-es ZoneYan Niños Bricolaje Conjunto de Cuentas  Niños DIY Set de Perlas  Cuentas para la Fabricación de Joyas para Niños  Kit de Cuentas para Hacer Pulseras niñas  Juguete de Cuentas de Niños DIY  2 '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

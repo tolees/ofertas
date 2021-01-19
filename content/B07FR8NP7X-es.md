@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IObTvz5DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR8NP7X-es'
+slug: 'B07FR8NP7X-es Imperial Confort Copenhague - Colchón doble Acolchado Viscoelástico + Grafeno - Máxima adaptabilidad y Confort - Altura 25 cm  135x200 cm'
 actualPrice: 147.21 EUR
 currency: EUR
 price: 147.21

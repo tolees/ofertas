@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417XkHIOWOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXWGTM4-es'
+slug: 'B07RXWGTM4-es Diesel ShoesDiscover-me OderzoHombreCarterasAzul  Blue Nights  1x22x18 centimeters  W x H x L '
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

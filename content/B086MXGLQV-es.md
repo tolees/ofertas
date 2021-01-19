@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pbw6OomKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086MXGLQV-es'
+slug: 'B086MXGLQV-es KFAWON Ring Pilates  Yoga Magic Fitness Circle -Equipo de Resistencia al Ejercicio para Esculpir los Muslos internos/externos Mujeres Workout Gym Entrenamiento en el hogar Pilates Circle Accesorios'
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

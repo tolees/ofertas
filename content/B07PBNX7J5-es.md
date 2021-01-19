@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K2eHJz1eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBNX7J5-es'
+slug: 'B07PBNX7J5-es Luz Nocturna Infantil con Control Remoto y Táctil 9 Colores – BONNYCO | Luz Quitamiedos Bebé con Temporizador | Lámpara Infantil Silicona 100% Segura  Regalos para Bebés  Niños y Niñas  Pingüino '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

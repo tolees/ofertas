@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zWI94V-GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086C6WFNL-es'
+slug: 'B086C6WFNL-es Caja de almacenamiento universal para asiento de coche  ranura lateral para asiento de coche'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414-F3+XRjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KGB8XII-es'
+slug: 'B01KGB8XII-es Lorus Reloj de Pulsera R2387KX9'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

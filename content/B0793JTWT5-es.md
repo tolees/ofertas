@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kBRA6va-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793JTWT5-es'
+slug: 'B0793JTWT5-es Darkest Dungeon - Ancestral Edition'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

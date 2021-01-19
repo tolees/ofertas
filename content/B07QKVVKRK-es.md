@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XVY13mpPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKVVKRK-es'
+slug: 'B07QKVVKRK-es Darling In The Franxx Serie Completa 24 Episodios Bd Edición Coleccionistas [Blu-ray]'
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

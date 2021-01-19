@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51nT-hCOafL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CWC72KF-es'
+slug: 'B07CWC72KF-es Estera de la Danza del USB  Almohadilla de la Danza Durable Antideslizante USB  Estera de la Danza Resistente al Desgaste para los Adultos de los niños  Almohadilla de la Danza del PVC'
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

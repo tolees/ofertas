@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41u8QypTU%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753FGSD1-es'
+slug: 'B0753FGSD1-es T-shirt Kappa Lucera'
 actualPrice: 10.69 EUR
 currency: EUR
 price: 10.69

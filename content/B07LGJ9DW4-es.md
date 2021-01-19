@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51L0oJD7u0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGJ9DW4-es'
+slug: 'B07LGJ9DW4-es Funda iPhone XR  Fundas iPhone XR Libro  Carcasa iPhoneXR con Cierre Magnético  Tarjetero y Suporte  Capa iPhone XR Plegable Cartera  Flip Phone Cover Case  Tipo Étui Piel Protección. Negro'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

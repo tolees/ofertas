@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31siAxCkFWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BNHK3GT-es'
+slug: 'B07BNHK3GT-es TOPmountain Caja de caja de leche en polvo para bebés Niños Caja de leche portátil en forma de dispensador de embudo Múltiples funciones Tapa de chupete en recipiente para chupete Contenedor de protec'
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

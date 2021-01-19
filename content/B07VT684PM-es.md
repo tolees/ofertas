@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mOkerX9OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VT684PM-es'
+slug: 'B07VT684PM-es Skechers GO Walk Lite  Zapatillas para Mujer  Azul Marino Ribete Textil Nvy  40 EU'
 actualPrice: 23.83 EUR
 currency: EUR
 price: 23.83

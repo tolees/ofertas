@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HZZjY5h8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GFYCJZ4-es'
+slug: 'B08GFYCJZ4-es 6 Pares Calcetines Running Para Hombre Mujer - Deporte Calcetines Cortos de Algodón Con Amortiguación Respirable Running Ciclismo  6 Pares Gris  EU 43-47 '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

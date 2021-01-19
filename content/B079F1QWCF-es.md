@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hjA+-BaoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079F1QWCF-es'
+slug: 'B079F1QWCF-es CLP Silla De Oficina Kolumbus En Tela I Silla De Escritoria Ergonómica & con Ruedas I Silla Ejecutiva con Altura Regulable & Giratoria I Color: Naranja'
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

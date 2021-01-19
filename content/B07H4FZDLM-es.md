@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sXsk5okrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4FZDLM-es'
+slug: 'B07H4FZDLM-es AOC 24B1XHS - Monitor de 24” FHD  IPS  VGA  HDMI  Sin Bordes  Flicker Free  Low Blue Light y VESA  Negro'
 actualPrice: 89.24 EUR
 currency: EUR
 price: 89.24

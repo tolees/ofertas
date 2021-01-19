@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416+dJoctiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FLR6J16-es'
+slug: 'B00FLR6J16-es hummel Slimmer Stadil High  Zapatillas Altas Unisex  Negro-Schwarz  Black/White   36 EU'
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

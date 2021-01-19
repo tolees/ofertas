@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aZpwd5N7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BVKRR7-es'
+slug: 'B088BVKRR7-es Zeen Paper Xuan - Papel de arroz  35 x 25 cm  30 hojas   color blanco'
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

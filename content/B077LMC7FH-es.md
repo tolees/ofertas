@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Gy8nAFCgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077LMC7FH-es'
+slug: 'B077LMC7FH-es Adidas Vl Court 2.0 K  Zapatillas de deporte Unisex niños  Rosa  Rosa 000   38 EU'
 actualPrice: 21.97 EUR
 currency: EUR
 price: 21.97

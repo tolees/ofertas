@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WK8NAGA+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MNBPY78-es'
+slug: 'B00MNBPY78-es Krups The Sub Vainilla VB650810 -Tirador de cerveza  tecnología Peltier Cooling  2 l frescura de la cerveza 15 días  hasta 2º  eficiencia energética A+  indicador listo para servir  color negro'
 actualPrice: 100.0 EUR
 currency: EUR
 price: 100.0

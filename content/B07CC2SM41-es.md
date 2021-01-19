@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510iulgRa6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CC2SM41-es'
+slug: 'B07CC2SM41-es Spyro Reignited Trilogy'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

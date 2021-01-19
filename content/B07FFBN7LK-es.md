@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b2-OuSsSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFBN7LK-es'
+slug: 'B07FFBN7LK-es Wrangler Greensboro Regular Jeans  Azul  Darkstone 090   30W / 30L para Hombre'
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

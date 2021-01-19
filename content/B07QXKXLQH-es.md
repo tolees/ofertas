@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dl8ze616L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXKXLQH-es'
+slug: 'B07QXKXLQH-es Medion Akoya S6445 - Portátil ultrafino 15.6" FullHD  Intel Core i5-8265U  8GB RAM  256GB SSD  Intel UHD Graphics  Windows 10 Home Plus  color gris - Teclado QWERTY Español'
 actualPrice: 512.0 EUR
 currency: EUR
 price: 512.0

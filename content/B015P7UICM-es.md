@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M8qx+EhUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015P7UICM-es'
+slug: 'B015P7UICM-es Concord Transformer Pro  Silla de coche grupo 1/2/3 Isofix  rojo  Bordeaux Red '
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

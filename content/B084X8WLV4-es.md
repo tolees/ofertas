@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MWw+4D7wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084X8WLV4-es'
+slug: 'B084X8WLV4-es YPPDPP Toto Likes Videogames Velvet Pillow Cases Cubierta de cojín Throw Pillow Cover Funda cojine'
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

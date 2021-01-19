@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519EhVID5KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CL5HJHL-es'
+slug: 'B07CL5HJHL-es BEN 10 -  Alien Creation Chamber Laboratorio Crea Aliens con 4 Figuras  Giochi Preziosi BEN25000 '
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51u8XW5JsKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJ64QX4-es'
+slug: 'B07JJ64QX4-es Laguiole 6050/51 - Cuchillo de carne'
 actualPrice: 73.13 EUR
 currency: EUR
 price: 73.13

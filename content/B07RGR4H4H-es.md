@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UsU9xUhnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGR4H4H-es'
+slug: 'B07RGR4H4H-es Columbia Rainy Creek Gabardina Impermeable con Capucha  Mujer  Blanco  Stone   S'
 actualPrice: 74.7 EUR
 currency: EUR
 price: 74.7

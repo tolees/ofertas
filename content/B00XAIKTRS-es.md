@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IhYorpXAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAIKTRS-es'
+slug: 'B00XAIKTRS-es Baldosinín 8410952001802 Productos de Limpieza para el Hogar'
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hG7O7pbxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0RAYE8-es'
+slug: 'B01M0RAYE8-es BenQ W1090 Proyector 1080P  modo Deporte  pantalla grande de 100" en tan solo 2 5 m  altavoz incorporado de 10 W  2000 lúmenes  DLP '
 actualPrice: 629.77 EUR
 currency: EUR
 price: 629.77

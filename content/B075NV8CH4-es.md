@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-Yej9tKsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NV8CH4-es'
+slug: 'B075NV8CH4-es Palladium Pallabrouse BGY Wax  Botas Slouch Unisex Adulto  Negro  Black/Dark Gum 615   37 EU'
 actualPrice: 48.25 EUR
 currency: EUR
 price: 48.25

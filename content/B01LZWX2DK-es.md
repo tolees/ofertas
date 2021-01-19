@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S2JwF6EzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZWX2DK-es'
+slug: 'B01LZWX2DK-es Mars gaming MAK1  Teclado Gaming  Pulsación Optimizada  Antighosting  Negro'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

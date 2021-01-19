@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417y1Cy7V4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZHIOP6-es'
+slug: 'B01LZHIOP6-es Wella Eimi Sculpt Force - 28 ml'
 actualPrice: 2.52 EUR
 currency: EUR
 price: 2.52

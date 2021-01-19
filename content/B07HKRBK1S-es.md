@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BJee5nV1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKRBK1S-es'
+slug: 'B07HKRBK1S-es Tefal Daily Cook - Juego de Sartenes y Cazos  Acero Inoxidable  Sartén 28 cm  Cazo 16 cm  Cacerola 20 y 24 cm con Tapas de Vidrio + 5 accesorios  Todo Tipo de Fuegos'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

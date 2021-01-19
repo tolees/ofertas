@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hFdEYnrSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFWQ29W-es'
+slug: 'B07VFWQ29W-es Pepe Jeans Malibu Summer  Zapatillas para Hombre  Verde Caqui Green 765  43 EU'
 actualPrice: 37.97 EUR
 currency: EUR
 price: 37.97

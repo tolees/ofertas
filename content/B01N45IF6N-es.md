@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jiW-V-WdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N45IF6N-es'
+slug: 'B01N45IF6N-es muveacoustics a-Plus inalámbrico portátil Bluetooth Altavoz  Negro '
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

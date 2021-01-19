@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41crcX-JQfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RMRKK3-es'
+slug: 'B073RMRKK3-es Silver HT - Funda para eReader Libro electrónico eBook de 6 Pulgadas Compatible con Kindle  BQ  Sony  Woxter  SPC - Modelo Feathers'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

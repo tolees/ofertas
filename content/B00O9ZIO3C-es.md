@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aKyXhUTqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O9ZIO3C-es'
+slug: 'B00O9ZIO3C-es The Rocky Horror Picture Show - Blu-Ray [Blu-ray]'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

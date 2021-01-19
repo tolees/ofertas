@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YoawMfYxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AJTMXI8-es'
+slug: 'B01AJTMXI8-es Pioneer TS-A133Ci Altavoces de componentes  2 vías  13 cm  300W  Negro'
 actualPrice: 75.85 EUR
 currency: EUR
 price: 75.85

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-hl0KvT4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0738K7RDD-es'
+slug: 'B0738K7RDD-es Amazon Essentials Fleece-Outerwear-Jackets  Negro  S'
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

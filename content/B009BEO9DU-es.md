@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-j0PbGNEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009BEO9DU-es'
+slug: 'B009BEO9DU-es Fossil Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable ES3204'
 actualPrice: 68.0 EUR
 currency: EUR
 price: 68.0

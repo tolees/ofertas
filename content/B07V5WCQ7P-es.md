@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ezaS2yCxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5WCQ7P-es'
+slug: 'B07V5WCQ7P-es Neutrex Quitamanchas Pistola Color - 600 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pu7cd45RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5SQTFJ-es'
+slug: 'B07D5SQTFJ-es AEG CX7-2-35WR Aspiradora Escoba Sin Cable y de Mano  Sin Bolsa  hasta 35 Minutos  2 Velocidades  Cepillo 180º  79dB de Ruido  Depósito 0.5L  Función Limpieza Cepillo  Luces Cepillo LED  Rojo '
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

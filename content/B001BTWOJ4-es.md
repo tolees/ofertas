@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41usc8liVnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BTWOJ4-es'
+slug: 'B001BTWOJ4-es Fellowes Gel con Canal Health-V - Alfombrilla con reposamuñecas para ratón  Azul'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

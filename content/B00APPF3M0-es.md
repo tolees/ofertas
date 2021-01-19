@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D4bIG484L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00APPF3M0-es'
+slug: 'B00APPF3M0-es POP! Bobble - Marvel: Deadpool'
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

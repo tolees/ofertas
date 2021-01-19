@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a2VE88-wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017R8E3XM-es'
+slug: 'B017R8E3XM-es LEORX Tabla protector parachoques tira bebé Protector de borde - suave no tóxico - 2M  blanco '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

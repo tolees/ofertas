@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IANZUwkWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVLC24Y-es'
+slug: 'B07MVLC24Y-es Real Madrid CF- Bolsa deporte  Color negro  Safta 711924553 '
 actualPrice: 28.67 EUR
 currency: EUR
 price: 28.67

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aIMv-GurL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWN8NVB-es'
+slug: 'B07PWN8NVB-es GABOL L Atlanta  Maleta  52x75x29 cm  90 liters  Turquesa'
 actualPrice: 45.36 EUR
 currency: EUR
 price: 45.36

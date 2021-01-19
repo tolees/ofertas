@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aQSmfzBZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGX3HX2-es'
+slug: 'B07RGX3HX2-es Nike Pico 5  PSV   Zapatillas de Tenis Unisex Niños  Negro  Black/Black/Black 001   28.5 EU'
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

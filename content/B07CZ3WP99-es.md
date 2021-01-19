@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31AZha6Y7DL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ3WP99-es'
+slug: 'B07CZ3WP99-es Asics Kanmei 2  Zapatillas de Running para Mujer  Negro  Black/Black 001   40.5 EU'
 actualPrice: 37.68 EUR
 currency: EUR
 price: 37.68

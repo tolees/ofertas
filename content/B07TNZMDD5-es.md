@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418ajQ8rUjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNZMDD5-es'
+slug: 'B07TNZMDD5-es Clarks Sense Strap  Sandalia con Pulsera para Mujer  Beige  Praline Leather Praline Leather   35.5 EU'
 actualPrice: 17.91 EUR
 currency: EUR
 price: 17.91

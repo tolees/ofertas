@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61EUo4ESbdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FLADSW0-es'
+slug: 'B01FLADSW0-es Lowcy skarbow'
 actualPrice: 24.34 EUR
 currency: EUR
 price: 24.34

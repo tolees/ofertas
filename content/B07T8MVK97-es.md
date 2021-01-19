@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VFPWeZBKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T8MVK97-es'
+slug: 'B07T8MVK97-es 4 diademas Naruto con chapado en metal para cosplay  hoja de pueblo de arena Akatsuki Yahiko'
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

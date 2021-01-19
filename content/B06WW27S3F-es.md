@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e1DVeFfIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WW27S3F-es'
+slug: 'B06WW27S3F-es Catrice The Modern Matt Collection Paleta de Sombras de Ojos  Multi 010 21 g'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61MCZ46fqYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZIW34T4-es'
+slug: 'B00ZIW34T4-es Watch Dogs 2 - Standard Edition'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QsZB5BMOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWC6SCW-es'
+slug: 'B07TWC6SCW-es Tommy Hilfiger Th Giftbox 3p Vanity Calcetines  Blanco  White 300   39/42  Pack de 3  para Mujer'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61+1Vy5lbVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKP3LMK-es'
+slug: 'B07FKP3LMK-es Carnival Games'
 actualPrice: 21.97 EUR
 currency: EUR
 price: 21.97

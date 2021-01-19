@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415MIekU9OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTV3T22-es'
+slug: 'B07WTV3T22-es 8GB Bluetooth 4.1 MP4 Reproductor con Pantalla TFT de 1.8 Pulgadas  Reproductor de música Deportivo con Panel táctil Radio FM Grabador de Voz  Auriculares Altavoz Soporta Tarjetas SD de hasta 32GB'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

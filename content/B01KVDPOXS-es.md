@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417v0kpEGCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KVDPOXS-es'
+slug: 'B01KVDPOXS-es Charles Wilson Paquete 5 Camisetas Cuello Redondo Lisas  Small  Additions '
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dsdxrhX3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9P3LFD-es'
+slug: 'B07D9P3LFD-es Lámpara de Lupa LED Plegable 5X Luz lupa para Escritorio Lectura Periódicos Soldadura Trabajo Reparación Maquillaje Tatuaje Manicura Pedicure y ect'
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

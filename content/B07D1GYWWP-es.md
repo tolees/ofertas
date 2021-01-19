@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ghP-3FGmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D1GYWWP-es'
+slug: 'B07D1GYWWP-es Asics Aaron  Zapatillas para Hombre  Azul  Peacoat/Gris Blue 400   46.5 EU'
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

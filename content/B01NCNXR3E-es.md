@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31W8xH9oxgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCNXR3E-es'
+slug: 'B01NCNXR3E-es Lacoste Lerond BL 1 CAM  Zapatillas para Hombre  Azul  Navy   44 EU'
 actualPrice: 59.45 EUR
 currency: EUR
 price: 59.45

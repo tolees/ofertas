@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41svoOxuJDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YFSF6QG-es'
+slug: 'B00YFSF6QG-es valcena - crema de noche - Multi Active Regeneradora'
 actualPrice: 30 EUR
 currency: EUR
 price: 30

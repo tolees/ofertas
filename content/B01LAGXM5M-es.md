@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HYefi2-jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LAGXM5M-es'
+slug: 'B01LAGXM5M-es Rowenta Premium Care Liss & Curl SF7660F0 - Plancha de pelo con función alisadora y rizadora  recubrimiento de cashmere Keratin con aceite de argán  generador de iones  protección cabello'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

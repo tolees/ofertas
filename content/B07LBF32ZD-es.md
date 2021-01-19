@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m078lMwQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBF32ZD-es'
+slug: 'B07LBF32ZD-es Calvin Klein Plunge Sujetador con Push-up  Negro  Black 001   C  Talla del Fabricante: 0C32  para Mujer'
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31SULb5Cn5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRM41P7-es'
+slug: 'B07KRM41P7-es New Balance 373 Zapatillas Hombre  Negro  Black/Blue Black/Blue   37 EU  4 UK '
 actualPrice: 38.61 EUR
 currency: EUR
 price: 38.61

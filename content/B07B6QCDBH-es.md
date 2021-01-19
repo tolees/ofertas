@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bZ9JJ6ULL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B6QCDBH-es'
+slug: 'B07B6QCDBH-es 6x Cuaderno de notas Notebook VINTAGE Tapa Kraft Papel Crema LISO especial para Estilografica Roller Rlotulador Pluma 4419a'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

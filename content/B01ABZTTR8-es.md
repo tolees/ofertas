@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413jixg6GbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ABZTTR8-es'
+slug: 'B01ABZTTR8-es Vizaro - Saco de Dormir Evolutivo  4-36 meses  100g - 4 5Tog - INVIERNO  ENTRETIEMPO - Algodón Puro - Hecho UE  OekoTex - Lunares'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

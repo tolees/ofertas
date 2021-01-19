@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416SnhzVAEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083KF2TNM-es'
+slug: 'B083KF2TNM-es Voodoo Vixen Nicole Red 40s Style Mujer Abrigos Burdeos/Negro L  75% poliacrílico  25% Lana '
 actualPrice: 94.49 EUR
 currency: EUR
 price: 94.49

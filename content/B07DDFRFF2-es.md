@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51a9ECmytQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDFRFF2-es'
+slug: 'B07DDFRFF2-es Ready 2 Robot Serie 1 - Bot Blaster Capsula Sorpresa con Lanza Misiles  Giochi Preziosi RED02000 '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

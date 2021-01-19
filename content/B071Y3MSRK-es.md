@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ODGIRqdiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071Y3MSRK-es'
+slug: 'B071Y3MSRK-es Rocketbook Everlast Smart - Cuaderno reutilizable  Negro  Carta A4'
 actualPrice: 25.44 EUR
 currency: EUR
 price: 25.44

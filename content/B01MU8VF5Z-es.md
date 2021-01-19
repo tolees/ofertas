@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JuchX39wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU8VF5Z-es'
+slug: 'B01MU8VF5Z-es Vitamaze® Zinc  comprimidos veganos de 25 mg para 12 meses  la mejor biodisponibilidad  producto de calidad made in Germany sin estearato de magnesio'
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

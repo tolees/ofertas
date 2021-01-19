@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316Chxykc4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0039NSI1I-es'
+slug: 'B0039NSI1I-es Wella Sp Volumize Shampoo Champú - 250 ml'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

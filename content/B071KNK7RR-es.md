@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41VIkE0be9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KNK7RR-es'
+slug: 'B071KNK7RR-es Targus Click-in - Funda para el iPad Pro de 10.5"  Color Gris'
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

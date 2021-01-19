@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41k3ES%2B0-EL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B000R8ZYOM-es'
+slug: 'B000R8ZYOM-es Bestway-24087 44007-colchón neón Finish 183x69   8321035 '
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

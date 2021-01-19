@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DIQ9rjNCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M75BTQK-es'
+slug: 'B00M75BTQK-es Enjuague Bucal - Oraldine Perio clorhexidina 0.2% - 400ml'
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

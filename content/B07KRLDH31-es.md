@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41imBiHuPPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRLDH31-es'
+slug: 'B07KRLDH31-es New Balance 624v5  Zapatillas Deportivas para Interior para Hombre  Blanco  White/Navy White/Navy   40.5 EU'
 actualPrice: 46.56 EUR
 currency: EUR
 price: 46.56

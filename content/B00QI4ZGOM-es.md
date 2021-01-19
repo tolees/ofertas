@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412qLI0WwBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QI4ZGOM-es'
+slug: 'B00QI4ZGOM-es Complejo multivitamínico con Vitamina D 3 para hombre y mujer  a base de vitaminas y minerales. Reduce el cansancio  la fatiga y refuerza el sistema inmunitario. 90 cápsulas.'
 actualPrice: 11.96 EUR
 currency: EUR
 price: 11.96

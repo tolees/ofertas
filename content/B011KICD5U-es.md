@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iKt-F27QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011KICD5U-es'
+slug: 'B011KICD5U-es MaxHold Sistema de vacío Doble Ganchos para colgadores - No-perforar - Acero inoxidable Nunca Moho - almacenamiento de la cocina&baño'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

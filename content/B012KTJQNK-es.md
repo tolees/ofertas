@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UHksVchnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012KTJQNK-es'
+slug: 'B012KTJQNK-es Technaxx BT-X15 - Auriculares Gris TXX4545  Circumaural  Diadema  20-2000'
 actualPrice: 34.92 EUR
 currency: EUR
 price: 34.92

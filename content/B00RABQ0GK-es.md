@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414Vqvqx4OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RABQ0GK-es'
+slug: 'B00RABQ0GK-es CREATIVE Sound Blaster X7 USB DAC'
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

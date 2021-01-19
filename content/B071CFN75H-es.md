@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514SlIVzfOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CFN75H-es'
+slug: 'B071CFN75H-es Sapphire Nitro+ Radeon RX 580 4GB GDDR5  Tarjeta Grafica  Negro'
 actualPrice: 181.0 EUR
 currency: EUR
 price: 181.0

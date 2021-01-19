@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hwwR-e7rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005HF4GKS-es'
+slug: 'B005HF4GKS-es Han Rondo - Organizador de escritorio  9 compartimentos  1140 x 109 x 140 mm   color blanco'
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

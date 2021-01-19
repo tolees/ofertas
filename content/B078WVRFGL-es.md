@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41sfn2f3pQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WVRFGL-es'
+slug: 'B078WVRFGL-es Calvin Klein Unlined Bralette Sujetador sin Aros  Negro  Black 001   Medium para Mujer'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gz4VL5RWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009SLD13A-es'
+slug: 'B009SLD13A-es Philips AEA2000/12 - Adaptador de audio  Adaptador Hi-Fi Bluetooth   negro'
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

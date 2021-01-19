@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mq7vEm7jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJPR5XL-es'
+slug: 'B07WJPR5XL-es Skechers DARLOW REMEGO  Zapatillas para Hombre  Lona Chocolate Marrón Chocolate  42 EU'
 actualPrice: 24.24 EUR
 currency: EUR
 price: 24.24

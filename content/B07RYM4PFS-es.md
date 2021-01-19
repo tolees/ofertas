@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eirrRp3hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYM4PFS-es'
+slug: 'B07RYM4PFS-es Mujer Bañador de Una Pieza Traje de Baño de Rayas Vintage Retro S CLAF0640-6'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

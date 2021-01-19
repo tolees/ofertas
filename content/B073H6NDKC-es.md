@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4198K4h51gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073H6NDKC-es'
+slug: 'B073H6NDKC-es adidas Core18 Sweat Top Sweatshirts  Hombre  Black/White  M'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

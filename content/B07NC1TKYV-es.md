@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21JzR7kkIQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC1TKYV-es'
+slug: 'B07NC1TKYV-es Samsung Silicone Cover  funda oficial para Samsung Galaxy 10e  color negro'
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

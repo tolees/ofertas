@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wprrPp51L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E5XK81Y-es'
+slug: 'B00E5XK81Y-es Guess W0247G3 - Reloj de pulsera para hombre  color azul'
 actualPrice: 112.86 EUR
 currency: EUR
 price: 112.86

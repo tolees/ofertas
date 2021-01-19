@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/614-iKK46bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007B9GSMW-es'
+slug: 'B007B9GSMW-es Ulysse - Juego de Tabla de multiplicar  10x10 '
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

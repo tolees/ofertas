@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CrtsQXYYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FLJ6DO6-es'
+slug: 'B01FLJ6DO6-es Bosch Professional 0601066E00 Nivel GCL 2-15 interior  con puntos de plomada  3 pilas AA  soporte giratorio RM 1  placa reflectora  estuche de protección  Láser rojo sin maletín  1.5 V  15 m'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

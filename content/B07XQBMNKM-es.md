@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51cExLH3qQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQBMNKM-es'
+slug: 'B07XQBMNKM-es PVZ Battle for Neighborville'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

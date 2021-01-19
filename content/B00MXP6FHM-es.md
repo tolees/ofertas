@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nBblVW37L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MXP6FHM-es'
+slug: 'B00MXP6FHM-es American Tourister - Bon Air - Spinner Maleta 66 cm  57.5 L  Azul  Midnight Navy '
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

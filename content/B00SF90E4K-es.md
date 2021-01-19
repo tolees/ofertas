@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4166YxRBAjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SF90E4K-es'
+slug: 'B00SF90E4K-es G-STAR RAW Stean Tapered Jeans  Azul  dk aged 7056-89   30W / 32L para Hombre'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

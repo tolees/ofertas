@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31G8fYayndL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000S5W1FO-es'
+slug: 'B000S5W1FO-es pjur AQUA - Lubricante Premium acuoso - Excelentes propiedades lubricantes  hidrata y no se pega - para juguetes sexuales - pack de 1  1x30ml '
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

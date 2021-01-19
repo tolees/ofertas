@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410KNTdnxeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FSJA56Q-es'
+slug: 'B01FSJA56Q-es New Balance 490v4  Zapatillas Deportivas para Interior para Mujer  Multicolor  Grey   38 EU'
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

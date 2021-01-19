@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xpE+wpvuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C5FFZZ5-es'
+slug: 'B08C5FFZZ5-es Sandalia Plataforma para Mujer'
 actualPrice: 41.4 EUR
 currency: EUR
 price: 41.4

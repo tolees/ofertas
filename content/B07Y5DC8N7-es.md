@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410Icbu1roL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y5DC8N7-es'
+slug: 'B07Y5DC8N7-es MEOMY Licuadora Prensado en Frio  Licuadora Frutas Verduras con Espiral de Cerámica y Modos de Doble Jugo  Extractor de zumos con Función inversa  Motor Silencioso  Limpieza Fácil con Cepillo'
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414DsQsDtjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G7RF7H7-es'
+slug: 'B07G7RF7H7-es NBHANYUAN Lighting® Luz de Pared LED al Aire Libre Exterior Aparato de Aplique de Pared Acero Inoxidable Lámpara de Forma Creativa Exterior Resistente a la Intemperie y pared Blanca Cálida para Jardín'
 actualPrice: 49.73 EUR
 currency: EUR
 price: 49.73

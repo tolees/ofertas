@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xi77cciBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4MYJ6S-es'
+slug: 'B07L4MYJ6S-es Lenovo L27m - 28 27.0 Inch FHD IPS FreeSync Gaming Monitor 75 Hz 4 ms VGA+HDMI+USB Type-C 3-side borderless - Raven Black'
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

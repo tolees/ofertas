@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NY7+FHcrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJ62XS9-es'
+slug: 'B07XJ62XS9-es Skechers Uno  Zapatillas para Hombre  Gris Carbón de Malla de Poliuretano con Borde de Lima  44 EU'
 actualPrice: 28.39 EUR
 currency: EUR
 price: 28.39

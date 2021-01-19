@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FEjkkENBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001DXMGC8-es'
+slug: 'B001DXMGC8-es HP 304 - Cartucho de tóner Original HP 304A Cian para HP Color LaserJet CP2025  CM2320mfp'
 actualPrice: 95.0 EUR
 currency: EUR
 price: 95.0

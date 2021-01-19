@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q4Up8LVnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087TSGN7Q-es'
+slug: 'B087TSGN7Q-es Docooler Cámara Web USB A870 Cámara Web 480P Micrófono para Juegos de Sonido Incorporado para lección en línea Cámara de computadora de Escritorio'
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

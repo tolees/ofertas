@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qtFwOztkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007UY3GMI-es'
+slug: 'B007UY3GMI-es Just Watches 48-S3455-Bk-BK - Reloj analógico de Cuarzo para Hombre  Correa de Acero Inoxidable Color Plateado'
 actualPrice: 41.18 EUR
 currency: EUR
 price: 41.18

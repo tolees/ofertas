@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZAIy8h1+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00THNHNE2-es'
+slug: 'B00THNHNE2-es OMRON A3 Complete Inhalador 3 en 1: trata las vías respiratorias altas  medias y bajas  adecuado para resfriados  infecciones  alergias y asma'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

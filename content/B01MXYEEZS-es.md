@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4184iN17WTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXYEEZS-es'
+slug: 'B01MXYEEZS-es King Love - Consolador realista de 20 5 cm  con base de ventosa'
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

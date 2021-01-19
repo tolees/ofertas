@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lwuZxz0eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5YBCOQ-es'
+slug: 'B01N5YBCOQ-es Astor Lash Beautifier Volume&Tint Máscara de Pestañas Tono 910 Ultra Black  - 25 gr'
 actualPrice: 5.48 EUR
 currency: EUR
 price: 5.48

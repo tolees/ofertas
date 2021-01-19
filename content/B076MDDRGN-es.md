@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HoUcv42ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076MDDRGN-es'
+slug: 'B076MDDRGN-es Stranger Things: Music From The Netflix Original Series - Banda Sonora Original [Vinilo]'
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412hzbaLZmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0011ECJ6M-es'
+slug: 'B0011ECJ6M-es DeLOCK Cable Power SATA 15pin > 2X SATA HDD – Straight 0 15 m - Cables de alimentación Interna  0 15 m  15pin SATA  2X SATA  Multicolor '
 actualPrice: 3.04 EUR
 currency: EUR
 price: 3.04

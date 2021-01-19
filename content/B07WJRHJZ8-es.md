@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RU3yDm+ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJRHJZ8-es'
+slug: 'B07WJRHJZ8-es Rodillo de la Fascia Rodillo de Espuma de Eva Port¨¢Til Rodillo de Masaje para el Entrenamiento de la Fascia Rodillo de Columna de Yoga para Masaje Muscular Ejercicio'
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

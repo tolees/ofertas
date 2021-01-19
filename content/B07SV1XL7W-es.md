@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hdPYPtSaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SV1XL7W-es'
+slug: 'B07SV1XL7W-es Herefun 32 en 1 Juego de Destornilladores  Mini Profesional Destornilladores  Profesional Magnético Caja de Destornilladores de Precisión Kit para Computadora  Laptop  Tablet  Reloj  Cámara  IPhone'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

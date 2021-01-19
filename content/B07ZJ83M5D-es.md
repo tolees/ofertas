@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KPkk-L00L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJ83M5D-es'
+slug: 'B07ZJ83M5D-es JK-2 Escena de la habitación del bebé Decoración Colgante Adorno Decoración del hogar-Nube Linda y Gota de Lluvia Decoración Colgante 3D Stereo Cloud'
 actualPrice: 4.3 EUR
 currency: EUR
 price: 4.3

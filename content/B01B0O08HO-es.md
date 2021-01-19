@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fZLW9ncLL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B0O08HO-es'
+slug: 'B01B0O08HO-es STANHOME CREMA MUEBLES'
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

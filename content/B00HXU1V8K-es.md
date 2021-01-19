@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GlQ7YM8oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HXU1V8K-es'
+slug: 'B00HXU1V8K-es Modern Muse by Estee Lauder Eau de Parfum Spray 50ml'
 actualPrice: 43.25 EUR
 currency: EUR
 price: 43.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KmDNs+7uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNLV4DQ-es'
+slug: 'B07TNLV4DQ-es Levi s 511 Slim Shorts Pantalones Cortos  Gris  Ciabatta Short 0113   W29  Talla del Fabricante: 29  para Hombre'
 actualPrice: 33.64 EUR
 currency: EUR
 price: 33.64

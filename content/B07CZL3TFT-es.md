@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51b8f5tCC8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZL3TFT-es'
+slug: 'B07CZL3TFT-es 8-Bit Armies'
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

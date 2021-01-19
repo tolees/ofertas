@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fO8sPDAVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW6H1BG-es'
+slug: 'B07NW6H1BG-es Skechers Outdoor Ultra  Botas Altas para Mujer  Marrón  Chocolate Textile Chocolate   37.5 EU'
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

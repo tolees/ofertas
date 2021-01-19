@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hgZHG-uQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LLH6X9W-es'
+slug: 'B01LLH6X9W-es Monix Mineral - Cacerola alta 20 cm aluminio forjado con antiadherente  tipo piedra  sin PFOA  aptas inducción'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

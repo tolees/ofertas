@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oLjlQ46WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYW4QUI-es'
+slug: 'B01LYW4QUI-es Amor bolas para entrenamiento del suelo pélvico Sex Ø30 mm doble bolas'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

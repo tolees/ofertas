@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ou1JcueuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FC6M6F9-es'
+slug: 'B08FC6M6F9-es Máquina de molienda en seco Placa de molienda Manual Especial Placa de Lanzamiento Manual Placa de Empuje Manual Aspirador Cabezal de molienda  Rojo Negro'
 actualPrice: 5.01 EUR
 currency: EUR
 price: 5.01

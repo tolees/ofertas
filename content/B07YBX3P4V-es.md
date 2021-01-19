@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PDJGprP5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBX3P4V-es'
+slug: 'B07YBX3P4V-es Ventiladores de 80 mm de fácil instalación 4 LED Azul para computadora Caja de la PC Refrigeración PC CPU Enfriador de refrigeración Ventilador Tipo silencioso Transparente - Transparente'
 actualPrice: 1.87 EUR
 currency: EUR
 price: 1.87

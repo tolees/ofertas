@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UcktjSGOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKGG18N-es'
+slug: 'B07DKGG18N-es Kipling - Creativity L  Monederos Mujer  Negro  Powder Black '
 actualPrice: 16.44 EUR
 currency: EUR
 price: 16.44

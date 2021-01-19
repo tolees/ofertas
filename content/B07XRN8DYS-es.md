@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uRyCsPHyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRN8DYS-es'
+slug: 'B07XRN8DYS-es Rizador de Pestañas Electrico  Rizador de Pestañas Termico Recargable con Pantalla digital LCD Maquillaje Portátil Herramienta de Estilo de Pestañas de Belleza'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317hx69Z4KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TS9FW7F-es'
+slug: 'B07TS9FW7F-es Gant Prepville  Zapatillas para Hombre  Blanco  Off White G20   41 EU'
 actualPrice: 35.92 EUR
 currency: EUR
 price: 35.92

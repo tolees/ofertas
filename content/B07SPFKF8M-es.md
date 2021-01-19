@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OVM5jmMWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPFKF8M-es'
+slug: 'B07SPFKF8M-es Funko Fortnite Peely Collectible Figure  Multicolor  Estándar  44729 '
 actualPrice: 11.11 EUR
 currency: EUR
 price: 11.11

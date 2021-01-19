@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31P4TCMZ2cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001W0ZX2M-es'
+slug: 'B001W0ZX2M-es Joy Toy Star Wars - Protector Yoda con conexión USB'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

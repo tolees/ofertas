@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QE6aJurvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVBFGWN-es'
+slug: 'B07WVBFGWN-es BRIKSMAX Kit de Iluminación Led para Lego Apollo 11 Lunar Compatible con Ladrillos de Construcción Lego Modelo 10266  Juego de Legos no Incluido'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

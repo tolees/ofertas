@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uyV7imNXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XX9C7Z-es'
+slug: 'B073XX9C7Z-es Scuderia Ferrari Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 830444'
 actualPrice: 122.46 EUR
 currency: EUR
 price: 122.46

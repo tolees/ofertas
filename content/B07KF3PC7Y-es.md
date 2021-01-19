@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fBCzEXHlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF3PC7Y-es'
+slug: 'B07KF3PC7Y-es Pegatinas de espuma – 700 piezas autoadhesivas formas de espuma  forma geométrica para niños  suministros de bricolaje y manualidades  multicolor'
 actualPrice: 15.05 EUR
 currency: EUR
 price: 15.05

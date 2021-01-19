@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mkyDOO0qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V59V6ZP-es'
+slug: 'B07V59V6ZP-es Hurley M One&Only Hat Gorra  Hombre  Dark Grey  S/M'
 actualPrice: 12.01 EUR
 currency: EUR
 price: 12.01

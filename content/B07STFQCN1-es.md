@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410caMIbr5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STFQCN1-es'
+slug: 'B07STFQCN1-es adidas Coast Star W  Zapatillas de Gimnasia para Mujer  Negro  Core Black/Icey Pink F17/Ftwr White Core Black/Icey Pink F17/Ftwr White   43 1/3 EU'
 actualPrice: 35.19 EUR
 currency: EUR
 price: 35.19

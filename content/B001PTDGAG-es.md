@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yUf2qhIaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001PTDGAG-es'
+slug: 'B001PTDGAG-es HUNTER Comida Acero Inoxidable'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

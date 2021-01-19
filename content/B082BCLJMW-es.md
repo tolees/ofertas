@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YAM+4bd3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082BCLJMW-es'
+slug: 'B082BCLJMW-es Icons Corner Pack de 2 Sillas Negra Patas de Madera Kandem Paris'
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

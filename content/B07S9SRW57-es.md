@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415tKLqKueL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9SRW57-es'
+slug: 'B07S9SRW57-es PUMA Cilia  Zapatillas para Mujer  Rosa Black/Pink Rosewater Silver White 17  37 EU'
 actualPrice: 27.24 EUR
 currency: EUR
 price: 27.24

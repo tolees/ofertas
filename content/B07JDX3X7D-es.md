@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y0gwOA1OL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JDX3X7D-es'
+slug: 'B07JDX3X7D-es DUNLOP Explosion Sport Naranja Fluor'
 actualPrice: 74.22 EUR
 currency: EUR
 price: 74.22

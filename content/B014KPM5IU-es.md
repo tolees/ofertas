@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IKLP9MxmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014KPM5IU-es'
+slug: 'B014KPM5IU-es Reebok Pesos de la Muñeca - 1.5 kg'
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

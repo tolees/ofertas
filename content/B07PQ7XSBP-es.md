@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Hara8stAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQ7XSBP-es'
+slug: 'B07PQ7XSBP-es BRIKSMAX Kit de Iluminación Led para Taller de la Esquina-Compatible con Ladrillos de Construcción Lego Modelo 10264-Juego de Legos no Incluido'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

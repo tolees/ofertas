@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31m9wuipuyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HMG2R9W-es'
+slug: 'B08HMG2R9W-es Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos Bluetooth Headphone In-Ear Auriculares Micrófono de Reducción de Ruido Incorporado y Caja de Carga Rápida IPX7 Impermeables'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

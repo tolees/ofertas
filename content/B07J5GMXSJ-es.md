@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QQk5RAvGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5GMXSJ-es'
+slug: 'B07J5GMXSJ-es Skechers Flex Advantage 3.0  Zapatillas para Niños  Azul  Navy & Charcoal Textile/Navy & Red Trim Nvcc   27.5 EU'
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

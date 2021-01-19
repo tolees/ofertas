@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417gZV4f3mL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJBBVNZ-es'
+slug: 'B07QJBBVNZ-es ROYAL SLEEP Canapé Abatible  105x190  de Gran Capacidad  Tapa 3D Transpirable  Color Natural'
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

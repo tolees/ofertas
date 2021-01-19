@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513EBwv-+UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NLPW5G-es'
+slug: 'B082NLPW5G-es Medidor de Contornos  Careslong 10"/250MM Herramienta de Medición de Perfil Irregular  Medidor Contornos para la medición precisa de baldosas en madera laminada Marcado  verde '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

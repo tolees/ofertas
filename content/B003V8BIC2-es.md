@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513hUruSLaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003V8BIC2-es'
+slug: 'B003V8BIC2-es BIC Velleda 1741 - Blíster de 4 unidades  marcadores de pizarra punta media  4 5 mm   colores surtidos'
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IEt9NBjmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E94S6ZI-es'
+slug: 'B01E94S6ZI-es Filtex - PTS56. Escurreplatos plastificado para armarios de Cocina'
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

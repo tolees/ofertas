@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SaqcjtC+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GCSHVNW-es'
+slug: 'B08GCSHVNW-es Bluelucon 1 Unidad de paños faciales de protección Facial Lavables Reutilizables de Color Impresión con Correa elástica Transpirable a Prueba de Polvo para Mujeres y Hombres'
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

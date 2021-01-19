@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41935wYsinL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R1BP2Q-es'
+slug: 'B075R1BP2Q-es LANGE RSJ 60 Botas de Esquí  Niños  Azul  Power   19.5'
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kZS4kLceL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRZVGN2-es'
+slug: 'B07ZRZVGN2-es DLOPK Adaptador de Viaje Universal con 4 Puertos USB  MAX 5.6A  y 1xCargador Tipo-C 3A para US EU UK AU Japon Asia África Más de 150 Países  bue '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

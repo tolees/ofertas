@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410ZPIRnS2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5Y80UK-es'
+slug: 'B01N5Y80UK-es MASERATI Reloj Analógico para Hombre de Cuarzo con Correa en Cuero R8851108027'
 actualPrice: 152.66 EUR
 currency: EUR
 price: 152.66

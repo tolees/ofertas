@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31m9dWOw8pL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JB2GJMR-es'
+slug: 'B07JB2GJMR-es Mondial A12 Calentador  Calefactor Portátil  350 W  Negro'
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

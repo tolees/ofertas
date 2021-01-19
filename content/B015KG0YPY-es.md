@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LSnV2Z+tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015KG0YPY-es'
+slug: 'B015KG0YPY-es King Cock Arnés king cock strap-on - 20 cm 1 Unidad 820 g'
 actualPrice: 30.31 EUR
 currency: EUR
 price: 30.31

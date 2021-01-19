@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51C0hDgaA2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B65YH2F-es'
+slug: 'B07B65YH2F-es Bolsa de maquillaje Tpocean  neceser portátil para viajar  para mujeres y niñas  bolsa de aseo'
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517bmLxXSLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WCW7FD5-es'
+slug: 'B07WCW7FD5-es Corrector de Postura - Corrector de Espalda - Corrector Espalda Mujer - Corrector Espalda Hombre - Diseño Discreto'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

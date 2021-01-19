@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DbFKsVnIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNMHGRC-es'
+slug: 'B07ZNMHGRC-es Pajitas de silicona reutilizables – pajitas grandes para batidos y zumos en colores inspirados en frutas – Paquete de 8'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

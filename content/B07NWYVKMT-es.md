@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oTaRSz1bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWYVKMT-es'
+slug: 'B07NWYVKMT-es Samsung Galaxy S10+ - Smartphone de 6.4" QHD+ Curved Dynamic AMOLED  16 MP  Exynos 9820  Wireless & Fast & Reverse Charging  128 GB  Prisma Blanco  Prism White '
 actualPrice: 661.0 EUR
 currency: EUR
 price: 661.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tsmTXQ1xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GL8P8-es'
+slug: 'B07N1GL8P8-es Clarks Un Darcey Ease  Mocasines para Mujer  Multicolor Leopard PRT Pony  38 EU'
 actualPrice: 16.02 EUR
 currency: EUR
 price: 16.02

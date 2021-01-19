@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dhBOcmEjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3Q6VQY-es'
+slug: 'B07V3Q6VQY-es Jack & Jones 12158190 Suéter  Verde  Darkest Spruce Darkest Spruce   M para Hombre'
 actualPrice: 19.18 EUR
 currency: EUR
 price: 19.18

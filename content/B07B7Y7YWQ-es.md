@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RElKu6KeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B7Y7YWQ-es'
+slug: 'B07B7Y7YWQ-es Trust Gaming GXT 845 Tural - Set de Teclado y ratón Gaming  Color Negro'
 actualPrice: 28.94 EUR
 currency: EUR
 price: 28.94

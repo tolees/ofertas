@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GX76iv%2BzL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYX5BRY-es'
+slug: 'B07MYX5BRY-es JX FITNESS Banco de Pesas multifunción Banco de musculacion Plano y declinado Banco de Gimnasio Ejercicios Abdominales Press de banca'
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

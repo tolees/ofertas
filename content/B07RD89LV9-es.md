@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Vgl8gb0iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RD89LV9-es'
+slug: 'B07RD89LV9-es Tommy Hilfiger Graphic F/b Polo S/s  Blanco  White Yaf   104/110  Talla del Fabricante: 104  para Niños'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Zakgt9DCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FZLHNF-es'
+slug: 'B075FZLHNF-es Alpinestar Eternal Polo de Manga Corta con Logo de Goma en el Pecho  Hombre  Black  L'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

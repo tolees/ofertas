@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z4UJT0GcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZTKWFP-es'
+slug: 'B071ZTKWFP-es Lenovo Yoga 910-13IKB - Portátil táctil convertible de 13.9" FHD  Intel Core I7-7500  8 GB de RAM  512 GB SSD  Windows 10   color gris'
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

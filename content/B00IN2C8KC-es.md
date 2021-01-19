@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dp6GfivAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IN2C8KC-es'
+slug: 'B00IN2C8KC-es Samyang F1111006101 - Objetivo fotográfico DSLR para Sony E  Distancia Focal Fija 35mm  Apertura f/1.4-22 AS UMC  diámetro Filtro: 77mm   Negro'
 actualPrice: 307.74 EUR
 currency: EUR
 price: 307.74

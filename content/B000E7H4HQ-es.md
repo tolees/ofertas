@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NUT2t9zZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000E7H4HQ-es'
+slug: 'B000E7H4HQ-es K&N RU-2922 filtro de goma universal  paquete de 2  Coche y Moto'
 actualPrice: 87.43 EUR
 currency: EUR
 price: 87.43

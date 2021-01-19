@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316-zll0vVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084Z2JRDL-es'
+slug: 'B084Z2JRDL-es Popular Baby Kids Bath LED Dolphin Light Lámpara Lovely Toy Colorido Intermitente Luces cambiantes de Color Baño Iluminación Juguetes - Azul'
 actualPrice: 1.21 EUR
 currency: EUR
 price: 1.21

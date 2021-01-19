@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lryAp4heL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0816YLZSC-es'
+slug: 'B0816YLZSC-es Klarstein Beerlager 88 Nevera para bebidas - 88 litros  33 botellas  Eficiencia energética clase A  altura 86 5 cm  puerta de vidrio y acero inoxidable  temperatura: 0-10 °C  control táctil  Negro'
 actualPrice: 394.99 EUR
 currency: EUR
 price: 394.99

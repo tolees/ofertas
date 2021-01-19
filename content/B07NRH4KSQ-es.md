@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I-zSXAomL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRH4KSQ-es'
+slug: 'B07NRH4KSQ-es SYOSS - Champú Rizos Pro - Definición e Hidratación - 3 uds de 500ml'
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

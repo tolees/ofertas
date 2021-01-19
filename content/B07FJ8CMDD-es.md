@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PGyXracAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJ8CMDD-es'
+slug: 'B07FJ8CMDD-es Bollé Schuss Máscaras  Unisex adulto  Azul  Navy Mate   M'
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89
@@ -25,8 +25,8 @@ En este momento está [Bollé Schuss Máscaras  Unisex adulto  Azul  Navy Mate  
 
 🔎:
 
-- Categoría: 1
 - Lente: Light Vermillon Blue
 - Lente cilíndrica
+- Categoría: 1
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FJ8CMDD/?tag=tolees-21)

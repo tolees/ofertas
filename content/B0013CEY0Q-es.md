@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316bki97KzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0013CEY0Q-es'
+slug: 'B0013CEY0Q-es Fellowes Memory Foam - Reposamuñecas para teclado  negro'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

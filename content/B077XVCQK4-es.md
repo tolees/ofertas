@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4192pK9acuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XVCQK4-es'
+slug: 'B077XVCQK4-es Shock Absorber Ultimate Run Bra  Sujetador Deportivo para Mujer  Morado  Waterfall Purple   85B  70B EU '
 actualPrice: 24.14 EUR
 currency: EUR
 price: 24.14

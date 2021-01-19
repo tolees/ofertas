@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JYhQNkPPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AZHSCHU-es'
+slug: 'B01AZHSCHU-es New Balance 500 Core  Zapatillas para Hombre  Azul Navy Navy  45 EU'
 actualPrice: 47.55 EUR
 currency: EUR
 price: 47.55

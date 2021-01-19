@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GT2uqa+KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBQQ8RR-es'
+slug: 'B07XBQQ8RR-es BY BENYAR Reloj Casual de Cuarzo para Hombre  con Correa de Piel  cronógrafo  Resistente al Agua  con Fecha  analógico  Deportivo  Militar  Reloj de Pulsera'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

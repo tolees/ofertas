@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412tWB4bZuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YVL9MXV-es'
+slug: 'B07YVL9MXV-es Cartera Pepe Jeans Arrow con tarjetero Marrón'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

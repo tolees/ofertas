@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316kHLeU9tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MYYFY74-es'
+slug: 'B00MYYFY74-es Sennheiser Momentum in-Ear G  Auriculares  3.5 mm  1/8"  Alámbrico  30 x 17 x 14.3  Negro/Rojo'
 actualPrice: 48.29 EUR
 currency: EUR
 price: 48.29

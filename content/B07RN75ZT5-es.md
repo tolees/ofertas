@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hWuhKt28L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RN75ZT5-es'
+slug: 'B07RN75ZT5-es NOKOER Protector de Lente de Cámara para Xiaomi Redmi Note 7/Note 7 Pro  [2 en 1] Anillo Protector Metálico para la Cámara + Película Protectora para la Cámara  Cámara Protección - Negro'
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

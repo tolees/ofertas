@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416GruXk2pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D5Q5AJM-es'
+slug: 'B00D5Q5AJM-es Yimidear Anillos de Gimnasia  Madera Anillos Olímpicos con Correas de Hebilla Anillos de Gimnasio para Entrenamiento de Fuerza  Crossfit  Dominadas y Dips 28MM '
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

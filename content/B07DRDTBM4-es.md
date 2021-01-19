@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ekltI-1AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRDTBM4-es'
+slug: 'B07DRDTBM4-es Dreamlove Secretplay Triple X Unisex Pleasure Intensificator - 1 Unidad  15 ml'
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

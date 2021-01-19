@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61E6pYLkmxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DMBJ1D-es'
+slug: 'B075DMBJ1D-es Bandolera Pepe Jeans Horse Azul porta tablet'
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O2gHh-VyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQYHQ9C-es'
+slug: 'B07BQYHQ9C-es Movimientos para DIY Caja de Música Musical Box Partes 2 Pedazos - Memory  para Elisa'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

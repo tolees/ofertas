@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41v7vqoFejL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B004UBDX54-es'
+slug: 'B004UBDX54-es Lico Bernie V  Zapatillas Deportivas para Interior Unisex Niños  Azul  Marine/Weiss   32 EU'
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

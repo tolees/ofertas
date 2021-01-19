@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eDx1mv+dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A77J8HM-es'
+slug: 'B00A77J8HM-es iRobot HEPA Replensishment Kit de Recambios serie 700  color gris   plástico  textil'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

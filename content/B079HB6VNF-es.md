@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dlbuXNiVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079HB6VNF-es'
+slug: 'B079HB6VNF-es Optimum Nutrition Protein Whipped Bites barrita proteica  Sabor de Fresa y Crema - Paquete de 12 unidades'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

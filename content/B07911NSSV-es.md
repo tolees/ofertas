@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410+0nw5t-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07911NSSV-es'
+slug: 'B07911NSSV-es culiclean Pinza Flor  48 Piezas  Azul-Amarillo-Verde-Rosa '
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

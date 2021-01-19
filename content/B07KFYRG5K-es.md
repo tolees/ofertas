@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pwsmRGtPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFYRG5K-es'
+slug: 'B07KFYRG5K-es PUMA Nova Wn s  Zapatillas Deportivas para Mujer  Rosa  Pastel Parchment-Bridal Rose   38 EU'
 actualPrice: 38.26 EUR
 currency: EUR
 price: 38.26

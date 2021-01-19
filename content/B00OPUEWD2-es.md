@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VPhX4hFlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OPUEWD2-es'
+slug: 'B00OPUEWD2-es iHealth Monitor de Actividad y Sueño - 1 Monitor'
 actualPrice: 45.41 EUR
 currency: EUR
 price: 45.41

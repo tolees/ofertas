@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510cXFGO01L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HTLKKS-es'
+slug: 'B078HTLKKS-es reer 83221 protector para plantas Negro Nylon - Protectores para plantas  Planta en maceta  Negro  Nylon  97 mm  30 mm  120 mm '
 actualPrice: 9.68 EUR
 currency: EUR
 price: 9.68

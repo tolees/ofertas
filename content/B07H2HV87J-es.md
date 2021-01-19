@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4144K-VzBbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2HV87J-es'
+slug: 'B07H2HV87J-es TMISHION Ortesis para el Hombro  Corrector de Postura del Hombro  Transpirable Ajustable  cinturón de Hombro Unisex para Adultos y niños con Correas Ajustables Negro S '
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+dujddw+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K28QLNH-es'
+slug: 'B07K28QLNH-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FS5210IE'
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

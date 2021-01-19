@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OGukQRZUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018MB88XO-es'
+slug: 'B018MB88XO-es HP Essential Top Load - Funda bandolera para portátil de hasta 17.3"  color gris'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

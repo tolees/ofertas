@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uruSxfXNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3Y15FZ-es'
+slug: 'B08B3Y15FZ-es Cepillo de dientes para perros  juguete para masticar cachorros indestructibles  cepillo de limpieza para dientes  cuidado dental efectivo para cachorros  cepillo de dientes para perros no tóxico'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

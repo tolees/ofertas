@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YfhD-5fQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPBPRVV-es'
+slug: 'B07VPBPRVV-es Pinko Love Classic Simply 1 Cl Pelle  Bolsa de mensajero para Mujer  Beige  BEIGE-CHIARO DI LUNA   7.5x16.5x27 centimeters  W x H x L '
 actualPrice: 169.38 EUR
 currency: EUR
 price: 169.38

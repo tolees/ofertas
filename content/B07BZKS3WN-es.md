@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bUpjB92qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZKS3WN-es'
+slug: 'B07BZKS3WN-es Kelme - Zapatillas K-goleiro 17'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

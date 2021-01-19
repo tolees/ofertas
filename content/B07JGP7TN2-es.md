@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MuZb5xrsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGP7TN2-es'
+slug: 'B07JGP7TN2-es PUMA Carina L  Zapatillas para Mujer  Blanco White White Silver  38.5 EU'
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

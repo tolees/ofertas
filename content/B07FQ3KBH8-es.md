@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2B8%2Bwe24L._SL200_
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQ3KBH8-es'
+slug: 'B07FQ3KBH8-es INTEY Silla de Oficina  Silla Ergonómica  Ajustables Reposacabezas y Soporte Lumbar  Malla Transpirable  Instalación Modular  Carga máx. 110kg/240lb'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

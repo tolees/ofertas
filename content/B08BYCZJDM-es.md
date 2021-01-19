@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518ZE7NGfeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BYCZJDM-es'
+slug: 'B08BYCZJDM-es UniqueMe [3 Pack] Protector de Pantalla para Xiaomi Redmi Note 9  Cristal Templado [9H Dureza ] [Sin Burbujas] HD Film Vidrio Templado para Xiaomi Redmi Note 9'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

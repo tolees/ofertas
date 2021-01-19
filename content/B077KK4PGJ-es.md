@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rVqKbvQWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077KK4PGJ-es'
+slug: 'B077KK4PGJ-es Zapatillas/Botas de Estar por casa Suaves con Detalle de Lazo  36-41 EU   Azul eléctrico '
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

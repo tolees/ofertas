@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KUup+EoTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D1VVJC2-es'
+slug: 'B07D1VVJC2-es SELECTED HOMME Slhskinny-Luca T Pants W Pantalones  Marrón  Tortoise Shell   W34/L32  Talla del Fabricante: 34  para Hombre'
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

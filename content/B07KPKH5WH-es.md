@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PPMB6V+7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPKH5WH-es'
+slug: 'B07KPKH5WH-es Columbia Meadows Omni  Botas Bajas para Mujer  Blanco Roto  Heat-Sea Salt  Rosew   36 EU'
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

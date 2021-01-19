@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YBL0KA95L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8VD5W6-es'
+slug: 'B07V8VD5W6-es Tommy Hilfiger Essential Retro Sneaker  Zapatillas para Hombre  Blanco  White Ybs   40 EU'
 actualPrice: 33.41 EUR
 currency: EUR
 price: 33.41

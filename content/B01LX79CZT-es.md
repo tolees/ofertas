@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51G1OeMJWfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX79CZT-es'
+slug: 'B01LX79CZT-es NK Tunnel Cámara Deportiva subacuática 4K Ultra HD  16MP  WiFi - HDMI  Carcasa Impermeable  170º Gran Angular  Sensor Ultra-Avanzado Toshiba  900mAh  Doble Pantalla  - 15 Accesorios Múltiples'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+1tIpgRfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005BFBYL8-es'
+slug: 'B005BFBYL8-es Merrell Moab 2 Vent  Zapatillas de Senderismo para Hombre  Marrón  Earth   47 EU'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

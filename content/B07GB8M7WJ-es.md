@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413nZUeoo4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GB8M7WJ-es'
+slug: 'B07GB8M7WJ-es Casio G-SHOCK Reloj Digital  Contador de pasos  Sensor de movimiento  Aplicación de deporte gratuita para descargar  20 BAR  Negro  para Hombre  GBD-800-1BER'
 actualPrice: 65.45 EUR
 currency: EUR
 price: 65.45

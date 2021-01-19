@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jWUMJEihL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017XRVDIA-es'
+slug: 'B017XRVDIA-es Compa G-250 - Ingletadora'
 actualPrice: 216.59 EUR
 currency: EUR
 price: 216.59

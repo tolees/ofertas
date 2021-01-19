@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418a--1RZfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T7R52YG-es'
+slug: 'B00T7R52YG-es Maclaren Organizador Universal Twin Para Tener Lo Esencial Siempre a Mano  Se Adapta a Maclarens y Mayoría de las Marcas  Accesorio Ideal para Sillas de Paseo'
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

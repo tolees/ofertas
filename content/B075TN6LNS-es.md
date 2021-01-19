@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4105nwK9KvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075TN6LNS-es'
+slug: 'B075TN6LNS-es URCERI Medidor de Luz  Luxómetro Portátil  Medidor de Luminosidad Rango 0-200 000 Lux; 0~20 000 FC  con Pantalla LCD a Color de 4 Dígitos  Batería Incluida'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

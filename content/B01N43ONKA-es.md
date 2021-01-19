@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DJXb9sJTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N43ONKA-es'
+slug: 'B01N43ONKA-es Tibhar Tischtennisschläger Powercarbon XT neu rojo'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

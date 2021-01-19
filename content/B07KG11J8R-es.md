@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41awBYdqLrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG11J8R-es'
+slug: 'B07KG11J8R-es PUMA Ralph Sampson Mid  Zapatillas Unisex Adulto  Negro Black/Gray Violet White  44 EU'
 actualPrice: 49.02 EUR
 currency: EUR
 price: 49.02

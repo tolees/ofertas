@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315FlANgc7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBVP59L-es'
+slug: 'B07SBVP59L-es PUMA Jaro  Zapatillas de Running para Hombre  Negro Black 02  41 EU'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

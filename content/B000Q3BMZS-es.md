@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3138Emoj+AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Q3BMZS-es'
+slug: 'B000Q3BMZS-es CHANEL ANTAEUS DEODORANT STICK 60 g Hombres Desodorante en barra - Desodorantes  Hombres  Desodorante  Desodorante en barra  De U  Universal  60 g '
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

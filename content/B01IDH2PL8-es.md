@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LB8qitFDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IDH2PL8-es'
+slug: 'B01IDH2PL8-es WandSticker4U - Adhesivo decorativo para pared o ventana  diseño de mariposas  multicolor  para habitación de bebé o infantil  para muebles  puertas  cocina o pasillo'
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zguQVLtTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQT4DVJ-es'
+slug: 'B07TQT4DVJ-es Cadmus Pantalones Cortos de compresión para Mujer  de Cintura Alta  con Bolsillo  Mujer  Color 1 Paquete: 5 Rojo  tamaño Small'
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

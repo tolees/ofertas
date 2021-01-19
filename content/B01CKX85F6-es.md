@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lr3JM54ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CKX85F6-es'
+slug: 'B01CKX85F6-es WER Doberman Alarma casa Alarma Hogar de Seguridad SE-0137 para Ventana/Puerta Kit de Alarma'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

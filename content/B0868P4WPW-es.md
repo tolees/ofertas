@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pBOU3mCsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868P4WPW-es'
+slug: 'B0868P4WPW-es Suhctup Transparente Funda Compatible con UMIDIGI Power 3 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para UMIDIGI Power 3 4 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

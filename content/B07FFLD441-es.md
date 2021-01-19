@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yD6b7LZiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFLD441-es'
+slug: 'B07FFLD441-es Emporio Armani Smartwatch ART3030'
 actualPrice: 231.2 EUR
 currency: EUR
 price: 231.2

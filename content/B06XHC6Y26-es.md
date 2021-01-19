@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WJ22JLoCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHC6Y26-es'
+slug: 'B06XHC6Y26-es Helly Hansen HH LIFA T-Shirt SS Baselayer  Hombre  Negro  Negro   M'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

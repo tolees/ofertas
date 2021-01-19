@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yZhyUkmML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019W6MD5W-es'
+slug: 'B019W6MD5W-es Maybelline New York Color Sensational Blushed Nudes  Barra de Labios  Tono 207 Pink Flling - 1 Unidad'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

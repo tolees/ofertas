@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wPKgdxGaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000AYHN60-es'
+slug: 'B000AYHN60-es Hama Dan Import 207-26 Bolas de Color de la Piel'
 actualPrice: 5.24 EUR
 currency: EUR
 price: 5.24

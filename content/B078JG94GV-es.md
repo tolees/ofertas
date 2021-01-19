@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ftj0NNLHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078JG94GV-es'
+slug: 'B078JG94GV-es Kicode Los titulares cama lámina elástica De sujeción Pinzas Pinzas para láminas de los apoyos del metal del colchón de esquina correas Ideal tabla de planchar para las cubiertas 5Pcs 8pcs'
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

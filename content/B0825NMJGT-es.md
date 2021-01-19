@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g+ySkZDUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NMJGT-es'
+slug: 'B0825NMJGT-es Quiksilver Magicall 2l-Bolsa De Colgar Grande Para Hombre  Messenger/Shoulder  light grey heather  1SZ'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

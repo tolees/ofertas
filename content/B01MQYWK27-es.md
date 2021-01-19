@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/518waYkj3KL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQYWK27-es'
+slug: 'B01MQYWK27-es Prodigiosa: Las aventuras de Ladybug - Playset con acción  Bandai 39850 '
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

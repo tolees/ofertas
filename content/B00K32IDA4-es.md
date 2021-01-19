@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BmjHHo9BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K32IDA4-es'
+slug: 'B00K32IDA4-es Nike Wmns Air Zoom Vomero 14  Zapatillas de Running para Asfalto para Mujer  Multicolor  Black/White/Thunder Grey 010   40 EU'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

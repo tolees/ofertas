@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+EJSlH50L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCXKSQQ-es'
+slug: 'B01NCXKSQQ-es Manteca de Karité Bio Hidratante Ecológica con Aceite de Oliva  Cera de Abeja  Aceite de Argán  Helicrisum | Cuidado Natural Cabello y Piel | 250 ml'
 actualPrice: 17.33 EUR
 currency: EUR
 price: 17.33

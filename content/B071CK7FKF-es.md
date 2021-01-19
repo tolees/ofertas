@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r+JN+9YnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CK7FKF-es'
+slug: 'B071CK7FKF-es American Tourister Soundbox Spinner Equipaje de mano S  55 cm 41 L   Azul  Midnight Navy '
 actualPrice: 95.46 EUR
 currency: EUR
 price: 95.46

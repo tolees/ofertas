@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U9qG0HseL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082F8B7QC-es'
+slug: 'B082F8B7QC-es SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno para Mujer Rosa Desnuda ES:105B  EU 90B '
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

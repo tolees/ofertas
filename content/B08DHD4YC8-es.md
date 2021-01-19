@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Xa6jVjr1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DHD4YC8-es'
+slug: 'B08DHD4YC8-es TRUUA 100PCS de Goma Tubo de 802 830 815 816 810 835 Cartucho de Tinta Hueco tapón de Sellado del Cartucho'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

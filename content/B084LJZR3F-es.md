@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jVvnIQtbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084LJZR3F-es'
+slug: 'B084LJZR3F-es Rimmel London Pack look ojos  Incluye Paleta de Sombras Magnifeyes Palette Smoke Edition Tono 3  Delineador Liquido Tono 001-Black Glamour  Mascara de Pestañas Volume Colourist Tono Black 11 ml '
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

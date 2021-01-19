@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WG0UPtEuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQ5P8QS-es'
+slug: 'B07FQ5P8QS-es Pegatinas de pared de Mariposa  CCUCKY 36 Piezas Capas dobles Alas 3D Decoración de Mariposas  Ideal para sala de Niños Cocina Nevera Plantas de jardín Decoraciones de fiesta-Rosa/Azul/Púrpura'
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

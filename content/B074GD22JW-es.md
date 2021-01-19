@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D3tUqOOeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074GD22JW-es'
+slug: 'B074GD22JW-es Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Cuero FTW1206'
 actualPrice: 132.25 EUR
 currency: EUR
 price: 132.25

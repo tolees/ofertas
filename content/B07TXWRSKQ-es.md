@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tIV98lFyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXWRSKQ-es'
+slug: 'B07TXWRSKQ-es Kipling Cindy  Carteras para Mujer  Rojo  Metallic Rust   11.5x8x1 cm'
 actualPrice: 21.16 EUR
 currency: EUR
 price: 21.16

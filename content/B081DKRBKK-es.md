@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qrYzDj4nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DKRBKK-es'
+slug: 'B081DKRBKK-es Fertuo Funda para Xiaomi Redmi Note 8T  Carcasa Libro con Tapa de Cuero Piel con Ranuras de Tarjeta  Soporte  Cierre Magnético [Dibujos de Mandala] Wallet Case Flip Cover para Redmi Note 8T  Oro Rosa'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

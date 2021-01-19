@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OksgjN3oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q5YT8J9-es'
+slug: 'B07Q5YT8J9-es Superdry Label Sport Trunk Triple Bañador  Naranja  Orange Multi Pack J6e   S para Hombre'
 actualPrice: 15.24 EUR
 currency: EUR
 price: 15.24

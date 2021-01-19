@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UpiXH-ApL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081KXNTGK-es'
+slug: 'B081KXNTGK-es amzdeal Inflador Globo electrico para inflar Globos hinchador Globos electrico para Fiestas  Linda Forma de Cerdo'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

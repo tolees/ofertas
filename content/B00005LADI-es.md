@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pkdksn86L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00005LADI-es'
+slug: 'B00005LADI-es Hama Cubo Cartón 10000 Perlas'
 actualPrice: 15.45 EUR
 currency: EUR
 price: 15.45

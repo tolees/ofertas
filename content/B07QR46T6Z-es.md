@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oCAd5KM5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QR46T6Z-es'
+slug: 'B07QR46T6Z-es Pantalones Cortos Deportivos 2 de 2 GARVIT Pantalones Cortos de Verano con cordón elástico con cordón elástico de Playa Informal Gris y Rosa S'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

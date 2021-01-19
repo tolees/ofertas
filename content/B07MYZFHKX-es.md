@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cSBeJAhxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYZFHKX-es'
+slug: 'B07MYZFHKX-es Skechers Women s Stretch Flat Laced Slip Trainers Negro   Negro/Multi     5.5  38.5 EU '
 actualPrice: 48.74 EUR
 currency: EUR
 price: 48.74

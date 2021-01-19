@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V7X1I9n+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081HDNDNR-es'
+slug: 'B081HDNDNR-es Ibergrif M11050 Roma  Grifo Baño Clásico  Mezclador Monomando para Lavabo  Cromo  Plata'
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zYxc6ydlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NDT2ZQ-es'
+slug: 'B077NDT2ZQ-es Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 60 Poet'
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

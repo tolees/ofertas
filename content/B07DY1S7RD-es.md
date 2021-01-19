@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FVBPJDUnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DY1S7RD-es'
+slug: 'B07DY1S7RD-es Orient Reloj Analógico para Unisex Adultos de Automático con Correa en Cuero RA-AR0005Y10B'
 actualPrice: 149.74 EUR
 currency: EUR
 price: 149.74

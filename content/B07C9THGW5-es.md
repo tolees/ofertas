@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SIT61zt2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C9THGW5-es'
+slug: 'B07C9THGW5-es Mr. Wonderful Llavero Mamátesales  Metal  Verde  5x4.9x0.2 cm'
 actualPrice: 4.48 EUR
 currency: EUR
 price: 4.48

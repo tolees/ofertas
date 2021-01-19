@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41v71t2tdWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079WRY8T4-es'
+slug: 'B079WRY8T4-es Assassin  S Creed pp4101as Notebook'
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IpAd9frqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GJK03BU-es'
+slug: 'B01GJK03BU-es Aodoor Microfibra De Coche  2 Unidades Chenille Limpieza del Coche Mitt Cepillo Guante  Guante Microfibra de Limpieza Lavado para Coche Cocina Hogar  Azul '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

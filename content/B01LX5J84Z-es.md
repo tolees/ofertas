@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tA5AXOUnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX5J84Z-es'
+slug: 'B01LX5J84Z-es Cybex Silver Juno 2-Fix 517000955 Silla de Coche  Grupo 1  con Isofix  Azul  Blue Moon '
 actualPrice: 169.95 EUR
 currency: EUR
 price: 169.95

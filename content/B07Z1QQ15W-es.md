@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R13wDSXpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z1QQ15W-es'
+slug: 'B07Z1QQ15W-es NAPATEK Lámpara Escritorio LED  Lámpara De Mesa Para Cuidado De Los Ojos Con Cargador Inalámbrico  Aleación De Aluminio Lámpara De Luz Natural De Brillo Multinivel Con Control  Plateado'
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

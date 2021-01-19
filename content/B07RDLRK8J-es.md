@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nyGBrMjPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDLRK8J-es'
+slug: 'B07RDLRK8J-es Salomon XA Discovery GTX W  Zapatillas de Trail Running para Mujer  Azul  India Ink/Bluestone/Black   40 EU'
 actualPrice: 46.87 EUR
 currency: EUR
 price: 46.87

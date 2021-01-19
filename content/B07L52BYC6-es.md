@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jlxa1BNDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L52BYC6-es'
+slug: 'B07L52BYC6-es adidas Terrex Ax3 GTX W  Zapatillas de Senderismo para Mujer  Gris  Grey/Core Black/Clear Mint 0   38 EU'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

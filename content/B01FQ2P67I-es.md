@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wmem6QJ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FQ2P67I-es'
+slug: 'B01FQ2P67I-es Bulgari Bvlgari Man Black Cologne Edt Vapo 100 Ml 1 Unidad 100 g'
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

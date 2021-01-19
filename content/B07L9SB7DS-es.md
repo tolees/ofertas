@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sa3+aaMpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9SB7DS-es'
+slug: 'B07L9SB7DS-es Brocha de Madera de Nylon para Pintura de Acrílico de Aguada de Aceite de Acuarela 80 mm - 20mm'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

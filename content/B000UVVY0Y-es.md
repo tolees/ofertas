@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410vpoGozUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000UVVY0Y-es'
+slug: 'B000UVVY0Y-es McDavid 414R Cincha  Unisex adulto  Negro  Única'
 actualPrice: 15.42 EUR
 currency: EUR
 price: 15.42

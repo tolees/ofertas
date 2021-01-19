@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GVmitqmuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006FEW1TI-es'
+slug: 'B006FEW1TI-es Tayg - Estante con clasificador apilable 9 cajones'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

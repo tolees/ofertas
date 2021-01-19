@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bGS5rqElL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086M8B4ZK-es'
+slug: 'B086M8B4ZK-es Oihxse Funda para iPhone XS MAX/iPhone 10 Plus Transparente  Estuche con iPhone XS MAX/iPhone 10 Plus Ultra-Delgado Silicona TPU Suave Protectora Carcasa Océano Animal Serie Bumper  C4 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

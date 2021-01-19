@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317ehMZiBsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017K62ONW-es'
+slug: 'B017K62ONW-es Ghd ghd Style Final Shine Spray 100 Ml 100 g'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

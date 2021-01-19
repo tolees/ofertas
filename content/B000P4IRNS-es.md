@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vy31abNvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000P4IRNS-es'
+slug: 'B000P4IRNS-es Bosch 2607019510 - Set de bolsillo con 10 unidades para atornillar'
 actualPrice: 8.84 EUR
 currency: EUR
 price: 8.84

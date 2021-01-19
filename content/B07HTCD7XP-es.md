@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E0fkuyB4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HTCD7XP-es'
+slug: 'B07HTCD7XP-es Lsnisni aspirador robótico  Aspiradora automatica con un gran cubo de basura  La succion fuerte  Tranquilo  De prevención de colisiones  Super delgada blanco '
 actualPrice: 98.88 EUR
 currency: EUR
 price: 98.88

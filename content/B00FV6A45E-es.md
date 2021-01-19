@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ScmazTqjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FV6A45E-es'
+slug: 'B00FV6A45E-es Frozen Fiesta Cumpleaños Globos Olaf  58 x 104 cm  Anagram 2831601 '
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

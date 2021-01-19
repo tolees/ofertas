@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OwD6-OWOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RNJNCR-es'
+slug: 'B079RNJNCR-es Sorel out N About Plus  Botas para Mujer  Marrón  Elk 286   38 EU'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

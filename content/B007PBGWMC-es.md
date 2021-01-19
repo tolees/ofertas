@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xJTEgbSxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007PBGWMC-es'
+slug: 'B007PBGWMC-es Converse Chuck Taylor Core Lea Ox  Zapatillas De Cuero Unisex Adulto  Negro  38 EU'
 actualPrice: 58.62 EUR
 currency: EUR
 price: 58.62

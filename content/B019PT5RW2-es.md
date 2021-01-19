@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31I9CNc1apL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019PT5RW2-es'
+slug: 'B019PT5RW2-es Mobicool 9103501263 V26 AC/DC Nevera Termoeléctrica Portátil  25 L  12/230 V A+  Azul  25 litros'
 actualPrice: 62.96 EUR
 currency: EUR
 price: 62.96

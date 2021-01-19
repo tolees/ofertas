@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qVtEKgK8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB24MWC-es'
+slug: 'B07VB24MWC-es LUDOS Comfy Almohadillas de Espuma Viscoelástica para Auriculares  12 Almohadillas de Nueva Generación  Lavables  Duraderas y Muy Resistentes  4 9 mm'
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

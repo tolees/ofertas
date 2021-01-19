@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cWtmGCCEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01540ABBI-es'
+slug: 'B01540ABBI-es MATRIX total results HIGHT AMPLIFY - Champú  300 ml'
 actualPrice: 4.03 EUR
 currency: EUR
 price: 4.03

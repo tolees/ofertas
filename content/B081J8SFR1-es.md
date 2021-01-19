@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31797ivqLcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081J8SFR1-es'
+slug: 'B081J8SFR1-es adidas Con20 TR Pnt Pantalones de Deporte  Hombre  Black/White  2XL'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51avn0lbUZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FKF8T52-es'
+slug: 'B01FKF8T52-es Paw Patrol Cama Infantil con Espacio de Almacenamiento Inferior  Madera  Azul  68.00x77.00x143.00 cm'
 actualPrice: 109.5 EUR
 currency: EUR
 price: 109.5

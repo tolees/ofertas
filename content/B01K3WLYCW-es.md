@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Jt9bcnasL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K3WLYCW-es'
+slug: 'B01K3WLYCW-es Fullmark Model B Correction Tape Gift Box  50-pack'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

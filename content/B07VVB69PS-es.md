@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413gX14RmrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVB69PS-es'
+slug: 'B07VVB69PS-es adidas Superstar J  Unisex niños  Blanco  Cloud White/Core Black/Cloud White 000   38 2/3 EU'
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

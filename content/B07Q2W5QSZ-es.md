@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UgIuhZawL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2W5QSZ-es'
+slug: 'B07Q2W5QSZ-es Pop! Figura De Vinil: TV: Dark Crystal - Rian'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

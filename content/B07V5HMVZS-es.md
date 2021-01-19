@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mCeuj0m2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5HMVZS-es'
+slug: 'B07V5HMVZS-es HUGO 2p Stripe Cc Calcetines  Azul  Dark Blue 401   35/38  Talla del fabricante: 35-38   Pack de 2  para Hombre'
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

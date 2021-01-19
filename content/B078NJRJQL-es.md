@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oMH9TwRML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078NJRJQL-es'
+slug: 'B078NJRJQL-es Asics Gel-Mission 3  Zapatillas de Marcha Nórdica para Mujer  Negro  Black/Carbon/Phantom 9097   35.5 EU'
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

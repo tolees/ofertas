@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41D3cYgIIdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1D86BX-es'
+slug: 'B07F1D86BX-es Armani Exchange - Crossbody Bag Colorful  Shoppers y bolsos de hombro Mujer  Marrón  Cognac   15x6.5x20 cm  B x H T '
 actualPrice: 50.88 EUR
 currency: EUR
 price: 50.88

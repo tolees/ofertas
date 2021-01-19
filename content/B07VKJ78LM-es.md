@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DuU+Ud13L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKJ78LM-es'
+slug: 'B07VKJ78LM-es Jeack 2 pares de pendientes de perlas y árboles bohemios hechos a mano para mujeres y niñas  2 colores 4 M'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

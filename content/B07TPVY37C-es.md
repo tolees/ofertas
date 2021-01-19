@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BMAoYRFzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPVY37C-es'
+slug: 'B07TPVY37C-es Slay the Spire'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

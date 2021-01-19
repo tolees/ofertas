@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qTlUEtgeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6GX4KK-es'
+slug: 'B07S6GX4KK-es Under Armour UA Remix 2.0  Zapatillas de Running  Deportivas para Hombre  Blanco  White/Versa Blue/Versa Blue  104  104   43 EU'
 actualPrice: 52.97 EUR
 currency: EUR
 price: 52.97

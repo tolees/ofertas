@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21v2tN3w3VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000E0ZLK-es'
+slug: 'B0000E0ZLK-es Zwilling Twin Pollux - Cuchillo cebollero con Hoja endurecida al frío Friodur  200 milímetros  Acero Inoxidable'
 actualPrice: 39.15 EUR
 currency: EUR
 price: 39.15

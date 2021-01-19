@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yZXe004KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LQQHI8I-es'
+slug: 'B01LQQHI8I-es WD My Passport - Disco Duro Portátil de 1 TB y Software de Copia de Seguridad Automática  Negro'
 actualPrice: 50.57 EUR
 currency: EUR
 price: 50.57

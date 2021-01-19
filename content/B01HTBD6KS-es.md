@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lnM6F2rTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HTBD6KS-es'
+slug: 'B01HTBD6KS-es HAMSWAN Termómetro de Frente  Sin Contacto  Termómetro Digital Infrarrojos para Bebe  Niños  Adultos'
 actualPrice: 49.89 EUR
 currency: EUR
 price: 49.89

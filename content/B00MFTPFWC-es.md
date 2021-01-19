@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31B3ELcXqWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MFTPFWC-es'
+slug: 'B00MFTPFWC-es Jimmy Choo Man Agua de toilette con vaporizador - 50 ml'
 actualPrice: 27.16 EUR
 currency: EUR
 price: 27.16

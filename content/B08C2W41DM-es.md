@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DhpOgKl+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C2W41DM-es'
+slug: 'B08C2W41DM-es Serum Facial de Ácido Hialurónico  Hidratará Aclarará la Piel Mientras Rellena Esas Líneas Finas y Arrugas Orgánicopara Eliminar Líneas de Expresión y Arrugas Hidratación Suave y Fácil Absorción-30ml'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

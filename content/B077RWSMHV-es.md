@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41faEXrbMcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077RWSMHV-es'
+slug: 'B077RWSMHV-es MYCARBON Escala del Equipaje Pesa Maletas Báscula Digital Portátil Bascula para Maletas de Viaje Pantalla LCD Retroiluminada para Leer Tare Function Balanzas de Equipaje Rojo'
 actualPrice: 11.54 EUR
 currency: EUR
 price: 11.54

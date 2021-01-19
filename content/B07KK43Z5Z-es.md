@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VvBvkqM0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK43Z5Z-es'
+slug: 'B07KK43Z5Z-es Saucony Xodus ISO 3  Mujer  Morado  Púrpura 37   37.5 EU'
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zU9lz0jzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MPS3RBS-es'
+slug: 'B07MPS3RBS-es Kickers Oxfordchic  Botas Slouch para Mujer  Negro  Noir Perm 82   40 EU'
 actualPrice: 24.24 EUR
 currency: EUR
 price: 24.24

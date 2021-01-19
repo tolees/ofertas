@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O+Bcp9Y9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00062YOYU-es'
+slug: 'B00062YOYU-es K&N RC-2580 filtro cromado universal Coche y Moto'
 actualPrice: 44.59 EUR
 currency: EUR
 price: 44.59

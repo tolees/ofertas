@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nZnAYB16L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NQZKK8I-es'
+slug: 'B00NQZKK8I-es Control Touch And Feel Preservativos - 12 Unidades'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

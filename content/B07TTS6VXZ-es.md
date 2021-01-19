@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ph7G90c1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTS6VXZ-es'
+slug: 'B07TTS6VXZ-es Valentino by Mario - Doxy  Shoppers y bolsos de hombro Mujer  Rojo  Rosso   13x25x33 cm  B x H T '
 actualPrice: 56.65 EUR
 currency: EUR
 price: 56.65

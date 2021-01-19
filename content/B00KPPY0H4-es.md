@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hMP8XPl3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KPPY0H4-es'
+slug: 'B00KPPY0H4-es MAKITA DTW450Z llave de impacto  18 V  Negro  Azul  M12  M16  M22'
 actualPrice: 189.9 EUR
 currency: EUR
 price: 189.9

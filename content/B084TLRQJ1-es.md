@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tOWhliyKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084TLRQJ1-es'
+slug: 'B084TLRQJ1-es FLYFLY Artículos de Fiestas para Fanáticos de los Videojuegos Globo Decoraciones para Cumpleaños de Tema de Videojuegos con Globos Pancartas Adornos para Pasteles'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

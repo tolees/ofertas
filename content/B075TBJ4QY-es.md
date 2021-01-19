@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51EkCQ5buWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075TBJ4QY-es'
+slug: 'B075TBJ4QY-es Jocel JAQ013033 Calentador de cuarzo  800 W  Gris'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

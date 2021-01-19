@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sRtBQSg7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJ5KWZK-es'
+slug: 'B07SJ5KWZK-es 5 Unids Niños Juego de Vajilla Diseño de Dibujos Animados Para Niños Suministros de Alimentación Fibra de Bambú Natural Bebé Placa de Cena Tazón Tenedor Cuchara Taza Jirafa '
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

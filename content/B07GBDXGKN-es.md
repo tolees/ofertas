@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R1j5hbM3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBDXGKN-es'
+slug: 'B07GBDXGKN-es Pulsar Reloj cronografo para Hombre de Energía Solar con Correa en Acero Inoxidable PZ5065X1'
 actualPrice: 123.48 EUR
 currency: EUR
 price: 123.48

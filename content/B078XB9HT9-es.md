@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DmsuNML3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XB9HT9-es'
+slug: 'B078XB9HT9-es JORLAI 33/45/78 Tocadiscos con Pantalla LCD Radio FM Am Reproductor de Vinilo con Grabación Bluetooth USB / SD y Reproductor de MP3 Salida de Línea AUX RCA para Altavoz Externo'
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

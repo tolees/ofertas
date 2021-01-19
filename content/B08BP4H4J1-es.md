@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e2SjvkWxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BP4H4J1-es'
+slug: 'B08BP4H4J1-es HengBO Freidora 3L Airfryer Freidora Sin Aceite Freidora de Aire Caliente con Cesta Antiadherente  Temperatura y Temporizador Ajustable  Pantalla LED Táctil  1450W Negro'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

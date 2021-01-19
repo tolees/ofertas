@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IRIRYz63L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK2V6BV-es'
+slug: 'B07RK2V6BV-es Festina Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable F20445/1'
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

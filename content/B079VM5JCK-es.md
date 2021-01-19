@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a4XgdAWcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VM5JCK-es'
+slug: 'B079VM5JCK-es Thomas Sabo - Colgante de Mujer "Cráneo de Toro Étnico Charm Club"  Plata de Ley 925  Negro'
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

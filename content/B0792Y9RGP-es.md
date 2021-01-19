@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51SqrOi4HgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792Y9RGP-es'
+slug: 'B0792Y9RGP-es Neviti- Glitz & Glamour-Cake Topper-Gold-Age 18 Figura para tartas  773581 '
 actualPrice: 5.66 EUR
 currency: EUR
 price: 5.66

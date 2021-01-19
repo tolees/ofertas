@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313gFTKT4+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FCR7T6F-es'
+slug: 'B08FCR7T6F-es LNLYY Stranger Things Galaxy A9 Star Lite 2018 Funda Carcasa Suave Silicona Transparente Case Cover para Samsung Galaxy A9 Star Lite 2018'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

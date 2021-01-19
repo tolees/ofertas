@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VPJ+PAR4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRBTYGH-es'
+slug: 'B07TRBTYGH-es Max Factor Facefinity 3 en 1 All Day Flawless Base de Maquillaje  Tono 44'
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

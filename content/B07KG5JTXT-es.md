@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GyBQO9VTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG5JTXT-es'
+slug: 'B07KG5JTXT-es PUMA Ralph Sampson Lo  Zapatillas Unisex Adulto  Negro  Puma Black-Puma Black-Faded Denim 05   38.5 EU'
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

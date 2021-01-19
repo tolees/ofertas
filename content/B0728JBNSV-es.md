@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417h5k+EcAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0728JBNSV-es'
+slug: 'B0728JBNSV-es Aigostar Protector 33JHG - Radiador de aceite portátil  13 elementos  2800 Watios de potencia. Calor seguro con sistema de aire caliente y termóstato de temperatura. Diseño exclusivo.'
 actualPrice: 99.74 EUR
 currency: EUR
 price: 99.74

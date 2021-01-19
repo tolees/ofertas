@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418Y4J925yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ8HJ4P-es'
+slug: 'B07DJ8HJ4P-es Utensilios Cocina de Silicona - 10+1Piezas Menaje Cocina Utensilios - Utensilios de Cocina Antiadherente  Resistentes al Calor y Duradero'
 actualPrice: 10.75 EUR
 currency: EUR
 price: 10.75

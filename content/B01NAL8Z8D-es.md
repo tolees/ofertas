@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XxADWBSFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAL8Z8D-es'
+slug: 'B01NAL8Z8D-es find. Top sin Magas de Encaje para Mujer   Multicolor  Orchid/black   36  Talla del Fabricante: X-Small '
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

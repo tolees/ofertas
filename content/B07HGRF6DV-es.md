@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jssE+qIPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGRF6DV-es'
+slug: 'B07HGRF6DV-es Pantalones de Yoga Sueltos Mujer Harem Boho del Lazo del Pavo Real Flaral Funky #2 Flor Impresa-#2 Flor Impresa-C'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

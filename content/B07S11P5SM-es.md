@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FPO4t69uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S11P5SM-es'
+slug: 'B07S11P5SM-es Only Frsfalcon Sweat Pants-Unit Pantalones de Deporte  Negro  Black Black   54  Talla del Fabricante: Large  para Hombre'
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

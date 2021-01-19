@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519o6-Qq7jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMWHCFP-es'
+slug: 'B07BMWHCFP-es Skechers Flex Play-Early Start  Zapatillas para Niñas  Azul  Periwinkle/Pink Pwpk   22 EU'
 actualPrice: 20.57 EUR
 currency: EUR
 price: 20.57

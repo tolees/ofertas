@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lOvAhcjUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDK9CHK-es'
+slug: 'B07WDK9CHK-es Fast & Furious: Hobbs & Shaw [DVD]'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

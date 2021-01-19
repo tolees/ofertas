@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317-OJBR1aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSZ1NDD-es'
+slug: 'B07PSZ1NDD-es Celio Pegetop Polo  Azul  Navy Blue 02 Navy Blue 02   Large para Hombre'
 actualPrice: 7.56 EUR
 currency: EUR
 price: 7.56

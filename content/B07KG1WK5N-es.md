@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ppD60IP0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1WK5N-es'
+slug: 'B07KG1WK5N-es PUMA RS 9.8 Space  Zapatillas Unisex Adulto  Pastel Parchment White  47 EU'
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

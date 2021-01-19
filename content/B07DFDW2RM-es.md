@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QW5BcxHEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFDW2RM-es'
+slug: 'B07DFDW2RM-es Freaks and Geeks - Yu Gi Oh Funko Pop Vinyl 389 Blue Eyes White Dragon'
 actualPrice: 8.58 EUR
 currency: EUR
 price: 8.58

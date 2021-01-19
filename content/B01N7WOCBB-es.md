@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vppef4foL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7WOCBB-es'
+slug: 'B01N7WOCBB-es Bluegreen - Greenblue gb114 - minutero de escalera'
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

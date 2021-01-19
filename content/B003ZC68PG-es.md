@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wWqYSEO9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ZC68PG-es'
+slug: 'B003ZC68PG-es Rimmel London Exaggerate Automatic Eyeliner Waterproof - Delineador de Ojos Retráctil  Tono 230-Azul  Deep Ocean   0.28 gr'
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

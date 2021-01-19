@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51B-IfTRiaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000I6PKT2-es'
+slug: 'B000I6PKT2-es Durable Visifix Flip Vegas - Rollo rotador de tarjetas 215 x 120 x 185 mm  color negro'
 actualPrice: 47.71 EUR
 currency: EUR
 price: 47.71

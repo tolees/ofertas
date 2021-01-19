@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jRkKvD6EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014FEXWHY-es'
+slug: 'B014FEXWHY-es Trust GXT 210 - Micrófono Gaming USB'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KJ8IJCDML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9YZC8O-es'
+slug: 'B00X9YZC8O-es Le Petit Marsellais - Gel Mandarina & Lima - 400 ml'
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aq05HDDoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RNWD7Y-es'
+slug: 'B073RNWD7Y-es Columbia Drainmaker IV  Zapatillas Hombres  Black  Black  Lux 010   44 EU'
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

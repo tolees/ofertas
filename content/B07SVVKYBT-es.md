@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ni84ILFtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVVKYBT-es'
+slug: 'B07SVVKYBT-es BNC a HDMI Convertidor Monitor a HDMI HD 1080P / 720P Entrada sin conversor de conversión a una Caja de interruptores Digital para Adaptador de PC - Negro'
 actualPrice: 11.77 EUR
 currency: EUR
 price: 11.77

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513ki9m1txL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0867CFC3S-es'
+slug: 'B0867CFC3S-es Maquina Cortapelo Cortapelos Hombre Cortapelos Juego de Cortapelos Profesional Con 5 Peines y Cuchillas de Acero Inoxidable  Admite Carga Rápida USB Cortapelos Para el Hogar y el Salón'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

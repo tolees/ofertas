@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GugyKBz3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003WF3GSS-es'
+slug: 'B003WF3GSS-es Suavinex – Loción hidratante Corporal para bebés. Apta para pieles Sensibles. Textura ligera y fácil absorción. 90% Ingredientes de Origen Natural  500ml'
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

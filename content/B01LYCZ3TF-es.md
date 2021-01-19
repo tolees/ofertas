@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Eijs+PUOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYCZ3TF-es'
+slug: 'B01LYCZ3TF-es Gourmet Mini Crackers Redondas - 350 g'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

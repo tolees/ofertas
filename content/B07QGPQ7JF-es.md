@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TJ1A23+DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGPQ7JF-es'
+slug: 'B07QGPQ7JF-es Jean Paul Gaultier Scandal a Paris Edt Vapo 50 ml - 50 ml'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

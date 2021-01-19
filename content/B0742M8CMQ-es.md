@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i3oKtRlaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0742M8CMQ-es'
+slug: 'B0742M8CMQ-es UO- Pulsera Estampado Supermama  Color Dorado  '
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cXr7InlBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWC584C-es'
+slug: 'B07RWC584C-es Cadena Colgante de Silla de Peluquero Dorada para Ropa Automóvil Acerca de 7 x 4.6 cm'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

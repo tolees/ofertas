@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411cz5Dlp4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WCQBGS-es'
+slug: 'B071WCQBGS-es Prozis Instant Oats  Vainilla - 1250 gr'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

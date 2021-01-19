@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BIXmO4auL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OWJJ7O-es'
+slug: 'B000OWJJ7O-es adidas Copa Mundial  Zapatillas de Fútbol para Hombre  Negro/Blanco  36 EU'
 actualPrice: 104.95 EUR
 currency: EUR
 price: 104.95

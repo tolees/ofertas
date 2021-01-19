@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yi4NaOCgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYQ5JKV-es'
+slug: 'B07DYQ5JKV-es Superga 2730-cotropew  Zapatillas de Gimnasia para Mujer  Azul  Navy 933   38 EU'
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

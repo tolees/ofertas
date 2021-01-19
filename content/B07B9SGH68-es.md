@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41634YxsfRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9SGH68-es'
+slug: 'B07B9SGH68-es Fitbit Versa Smartwatch Deportivo  Gris  Talla única'
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

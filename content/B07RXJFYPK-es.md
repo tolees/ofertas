@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UlFIQc5wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXJFYPK-es'
+slug: 'B07RXJFYPK-es New Balance 574v2  Zapatillas para Hombre  Azul  Blue/Black Sck   42 EU'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41icef0OLhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S48XJQ6-es'
+slug: 'B07S48XJQ6-es Love MoschinoJc4080pp1aMujerShoppers y bolsos de hombroNegro  Negro 6x14x23 centimeters  W x H x L '
 actualPrice: 73.68 EUR
 currency: EUR
 price: 73.68

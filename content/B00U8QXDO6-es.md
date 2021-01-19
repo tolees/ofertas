@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21fYWCI93bL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U8QXDO6-es'
+slug: 'B00U8QXDO6-es Beter Swing - Lima ergonómica láser'
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

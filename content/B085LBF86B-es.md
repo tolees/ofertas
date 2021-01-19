@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rRiRLhcpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LBF86B-es'
+slug: 'B085LBF86B-es 8 piezas Broca Uso Power Tuerca Conductor Juego de puntas 1/4 hexagonal magnéticos destornillador Cruz Bits Set destornillador eléctrico'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

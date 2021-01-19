@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SltPDNS3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B6M3CZ1-es'
+slug: 'B08B6M3CZ1-es Relec Día y Noche - Recambio Antimosquitos Eléctrico Líquido - 45 noches de protección - Sin fragancia - 35 ml'
 actualPrice: 4.76 EUR
 currency: EUR
 price: 4.76

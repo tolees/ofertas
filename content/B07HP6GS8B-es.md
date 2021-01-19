@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pZrupGAHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HP6GS8B-es'
+slug: 'B07HP6GS8B-es Skechers'
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wegTkhsOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXMFKYG-es'
+slug: 'B07YXMFKYG-es Calefactor  Calentador Eléctrico 500W con Oscilación Automática  Calentamiento Rápid  Dos Modos  Operación con un Botón  Uso Vertical y Horizontal  Calentador Silencioso para Hogar  Oficina  Piso'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wtYexAAeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKBW822-es'
+slug: 'B07XKBW822-es Skechers Solar Fuse KRYZIK  Zapatillas para Hombre  Negro Negro Negro Malla Sintética Borde Negro BBK  43 EU'
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

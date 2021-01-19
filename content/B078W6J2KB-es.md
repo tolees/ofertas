@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r+llnfo4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078W6J2KB-es'
+slug: 'B078W6J2KB-es Reloj de Bolsillo Vintage Retro Moto Grabado Motocicleta para Hombre  Reloj Cuarzo con Cadena de 80CM  Regalo Día del Padre -Avaner'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

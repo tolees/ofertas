@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jCY-qK6jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXRSSTS-es'
+slug: 'B07JXRSSTS-es Nike Star Runner 2  GS   Zapatillas de Running para Asfalto Unisex Niños  Multicolor  Black/Sunset Pulse/Black/White 002   40 EU'
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

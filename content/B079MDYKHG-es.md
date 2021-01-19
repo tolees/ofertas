@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PmmhmNE9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MDYKHG-es'
+slug: 'B079MDYKHG-es Salomon Speedcross CSWP J  Zapatillas de Trail Running Unisex Niños  Azul/Negro  Indigo Bunting/Sky Diver/White   35 EU'
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

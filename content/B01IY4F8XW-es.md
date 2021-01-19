@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31b5jGeb7pL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IY4F8XW-es'
+slug: 'B01IY4F8XW-es Reebok Exofit Lo Clean Logo  Zapatillas Para Hombre  Negro  AR3168_39 EU_Black/Silver/Silver   41 EU'
 actualPrice: 41.49 EUR
 currency: EUR
 price: 41.49

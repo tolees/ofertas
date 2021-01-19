@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PTC2cTlXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1BX3BC-es'
+slug: 'B07V1BX3BC-es Parfois - Bandolera De Ante - Mujeres - Tallas M - Gris Pardo'
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

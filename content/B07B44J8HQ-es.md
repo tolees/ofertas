@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FiG-wj0BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B44J8HQ-es'
+slug: 'B07B44J8HQ-es Relec Roll On Post-Picaduras de Insectos y Plantas | Alivia el picor  refresca y calma la piel | Para niños y adultos | Con efecto refrescante | 15ml'
 actualPrice: 5.42 EUR
 currency: EUR
 price: 5.42

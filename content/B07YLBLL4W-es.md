@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41onMcKYz4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YLBLL4W-es'
+slug: 'B07YLBLL4W-es S.Oliver Big Size 15.001.35.2335 Polo  Verde  Pond 6903   XXXX-Large para Hombre'
 actualPrice: 4.06 EUR
 currency: EUR
 price: 4.06

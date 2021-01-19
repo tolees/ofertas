@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31z-OnZ3gvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SX8SH6C-es'
+slug: 'B07SX8SH6C-es Nike Free RN 5.0  Zapatillas de Running para Mujer  Morado Plum Chalk Metallic Gold Plati 501  35.5 EU'
 actualPrice: 82.49 EUR
 currency: EUR
 price: 82.49

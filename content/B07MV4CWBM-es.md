@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415hduvsnAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV4CWBM-es'
+slug: 'B07MV4CWBM-es Lychee Grabadora de Voz Digital Portátil 8GB 1536kbps Recargable Reproductor de MP3  Micrófono Dual  Reducción de Ruido  Pantalla LCD y Activación por Voz  para Lecciones / Reuniones / Entrevistas'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

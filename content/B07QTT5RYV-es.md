@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51510YLkMxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTT5RYV-es'
+slug: 'B07QTT5RYV-es ERIK - Agenda Premium Frida Kahlo 2020  17 meses  '
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

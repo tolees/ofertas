@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511dQSzXSFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081YMYZ92-es'
+slug: 'B081YMYZ92-es 20m Guirnalda luces  LEDOU 200 LED Luces Cable de Cobre  Cadena de Luces 8 modos de Iluminación  IP65 Impermeable Control Remoto Decoración de Casa  Fiesta #5 '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

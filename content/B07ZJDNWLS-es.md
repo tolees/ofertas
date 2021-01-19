@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hTdBe6F1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJDNWLS-es'
+slug: 'B07ZJDNWLS-es Carpeta de Conferencia de Cuero A4 Portafolio con Cuaderno  Carpeta de Negocios para Ipad  Computadora Portátil  Ideal para Entrevistas  Viajes de Negocios  Oficina  Carpeta de Contrato de Venta'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

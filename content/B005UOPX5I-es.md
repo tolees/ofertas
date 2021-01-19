@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31t4JwzuVqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B005UOPX5I-es'
+slug: 'B005UOPX5I-es Berghoff Set de Pasta 20 Piezas'
 actualPrice: 18.16 EUR
 currency: EUR
 price: 18.16

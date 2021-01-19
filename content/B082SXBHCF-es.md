@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417mU7RvMKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SXBHCF-es'
+slug: 'B082SXBHCF-es Guess SG766246 BILLETERAS mujer Rosa TU'
 actualPrice: 43.56 EUR
 currency: EUR
 price: 43.56

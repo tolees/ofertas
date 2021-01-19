@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uZnCCEBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0171N9FKE-es'
+slug: 'B0171N9FKE-es MyCarSit - Asiento de coche para niños  respaldo alto  9 a 36 kg   color azul'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

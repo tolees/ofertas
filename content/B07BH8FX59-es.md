@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JjMTRAenL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BH8FX59-es'
+slug: 'B07BH8FX59-es Knorr Pot Plato Preparado de Pasta Boloñesa - 68 gr'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

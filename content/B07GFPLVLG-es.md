@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+DbymplNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFPLVLG-es'
+slug: 'B07GFPLVLG-es Concentrado de Proteína de Suero Evowhey Protein 2.0 de HSN | Whey Protein Concentrate| Batido de Proteínas en Polvo | Vegetariano  Sin Gluten  Sin Soja  Sabor Piña  500g'
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

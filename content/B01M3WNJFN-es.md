@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D5x3SW2gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3WNJFN-es'
+slug: 'B01M3WNJFN-es Kit Slackline Completo - Kit de Principiante con Protectores de árboles + Trinquete Tensor Revestido - Set de 15 Metros de Bandas para Entrenamiento de fácil instalación'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

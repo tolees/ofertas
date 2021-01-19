@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51W-zkOs1-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QNB6KXM-es'
+slug: 'B07QNB6KXM-es TedGem Ventilador USB  Ventilador PC Mini Ventilador USB Batería 2000mAh Silencioso Ventilador USB Portátil Ventilador PC  para Oficina/Hogar/Viajar/Acampar  Alimentado por USB  3 Velocidad '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

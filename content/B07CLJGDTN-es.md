@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XfglNp6XL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLJGDTN-es'
+slug: 'B07CLJGDTN-es Miracle Baby Mantas Muselina Bebe Algodon，Manta Dos Capas Suave y Acogedor para el Sueño Profundo 120*120cm para Cochecito Unisex Negra Panda'
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

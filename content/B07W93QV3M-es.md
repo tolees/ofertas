@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jc5uYClcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W93QV3M-es'
+slug: 'B07W93QV3M-es Jack & Jones Jorbrit Crew Neck Suéter  Azul  Navy Blazer Fit: Knit Fit   XXL para Hombre'
 actualPrice: 13.66 EUR
 currency: EUR
 price: 13.66

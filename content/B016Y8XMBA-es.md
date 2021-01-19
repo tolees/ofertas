@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fVIIuvYoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016Y8XMBA-es'
+slug: 'B016Y8XMBA-es Tierhausschuhe Disney Star Wars Meister Yoda'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

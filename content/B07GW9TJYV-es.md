@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31urbKaIwHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GW9TJYV-es'
+slug: 'B07GW9TJYV-es Caler ® Funda Compatible/Reemplazo para Xiaomi MI A2 / 6X Funda Flip Tapa Libro Carcasa Modelo Fecha Espejo Brillante tirón del Duro Case  Espejo Soporte Plegable Reflectante  Oro Rosa '
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

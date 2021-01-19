@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tXKekRcPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0081ZBNI4-es'
+slug: 'B0081ZBNI4-es StarTech MUY1MFFS - Cable Adaptador estéreo  2 x 3.5 mm   Negro'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

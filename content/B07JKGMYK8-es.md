@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uFwthTzuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKGMYK8-es'
+slug: 'B07JKGMYK8-es Panasonic KX-TGC210 - Teléfono Fijo Inalámbrico Digital  LCD 1.6"  DECT  Agenda  Alarma  Bloque Llamadas  Intercomunicador entre unidades  Color Blanco'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

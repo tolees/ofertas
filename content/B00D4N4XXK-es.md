@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WcxI75L9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D4N4XXK-es'
+slug: 'B00D4N4XXK-es Cherokee - Pantalones con cinturilla ajustable para mujer  Pequeña  S /Cielo '
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

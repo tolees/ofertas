@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31p3O5qfXZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006JVAX0Q-es'
+slug: 'B006JVAX0Q-es Reebok Classic Leather  Zapatillas de Running Niños  Blanco  White   34.5 EU'
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

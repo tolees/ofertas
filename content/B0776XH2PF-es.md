@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314IZZGSDML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776XH2PF-es'
+slug: 'B0776XH2PF-es Tommy Jeans Mujer Mid Rise Sandy Jeans  Azul  New Rinse Stretch 911   W25/L34'
 actualPrice: 29.65 EUR
 currency: EUR
 price: 29.65

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GN0UQrXcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DN9L7RK-es'
+slug: 'B00DN9L7RK-es SALVADO AVENA 500 gr'
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

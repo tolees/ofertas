@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hK8P4OZFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCYSJ48-es'
+slug: 'B07FCYSJ48-es Baoblaze Boquilla de Pulverización de Agua Nebulización Cortacésped Herramienta Eléctrica de Exterior - 1'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JW-nEYz9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K5OCZT0-es'
+slug: 'B00K5OCZT0-es Vans Atwood  Zapatillas Unisex Niños  Rojo  Canvas Oxblood/Black   36 EU'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

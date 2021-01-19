@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61DWqF8%2BpkL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BF1SYVL-es'
+slug: 'B07BF1SYVL-es Sushi Striker: The Way Of Sushido'
 actualPrice: 15 EUR
 currency: EUR
 price: 15

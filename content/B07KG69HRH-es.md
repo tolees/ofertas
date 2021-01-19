@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Onm6Hc0CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG69HRH-es'
+slug: 'B07KG69HRH-es PUMA Cell Venom Lux  Zapatillas Unisex Adulto  Black-Jaffa Orange  43 EU'
 actualPrice: 84 EUR
 currency: EUR
 price: 84

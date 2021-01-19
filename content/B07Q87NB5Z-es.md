@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311LMSCjlvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q87NB5Z-es'
+slug: 'B07Q87NB5Z-es Superdry OL Elite Ziphood Capucha  Verde  Eagle Green A7h   L  Talla del Fabricante:14  para Mujer'
 actualPrice: 44.74 EUR
 currency: EUR
 price: 44.74

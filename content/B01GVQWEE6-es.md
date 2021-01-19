@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uJlwvY-eL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GVQWEE6-es'
+slug: 'B01GVQWEE6-es Prensa Hamburguesas Rellenas con 60 Papeles Encerados GRATIS y eBook con RECETAS en español  Molde Para Hamburguesas Patty Press Prensador Slider y Herramienta de Barbacoa Parrilla y Cocina Gourmet'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

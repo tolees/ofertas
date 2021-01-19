@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uy8opRfUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087J3MHKJ-es'
+slug: 'B087J3MHKJ-es ZoneYan Mini Ventilador USB Portatil  Ventilador de Mano USB  Personal Hand Fan Batería Recargable  Ventilador con Base Escritorio y 3 Velocidades Ajustable  para Oficina Hogar Viaje'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

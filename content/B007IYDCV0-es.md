@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aXkZ+WGoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007IYDCV0-es'
+slug: 'B007IYDCV0-es Essie Tono Chloting Opt Hero 497 Colección de Otoño Esmalte de uñas - 52 g'
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

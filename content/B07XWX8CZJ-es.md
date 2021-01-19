@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417EfpcWfOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XWX8CZJ-es'
+slug: 'B07XWX8CZJ-es WESCO Llaves de Impacto 18V 110N.m  Atornillador Impacto con 2 0Ah Batería Li-ion  Velocidad Variable de 2600RPM Tarifa del Impacto 0-3400BPM Mandril 6.35mm 1/4”  WS2318'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

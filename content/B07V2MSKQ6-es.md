@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oSglH0qdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2MSKQ6-es'
+slug: 'B07V2MSKQ6-es Tommy Hilfiger - Th Essential Mini Cc Wallet  Carteras Hombre  Negro  Black   1x1x1 cm  W x H L '
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

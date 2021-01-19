@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LlZtKdmFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WP7N9NG-es'
+slug: 'B07WP7N9NG-es Cepillo Dientes Bambu Cepillo de Dientes Bambu Sostenibles Cepillos de Dientes de Bambu  sin BPA Cepillo Bambu Biodegradables Bamboo Toothbrush-Ecológico Vegano Reciclable - Paquete de 6'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

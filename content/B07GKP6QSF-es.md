@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fcZqGyZWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKP6QSF-es'
+slug: 'B07GKP6QSF-es Philips Serie 7000 BG7020/15 - Afeitadora corporal con cabezal de recorte y de afeitado  apta para la ducha  70 minutos de uso'
 actualPrice: 38.39 EUR
 currency: EUR
 price: 38.39

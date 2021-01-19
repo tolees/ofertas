@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Rtsn7abYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0151S3USO-es'
+slug: 'B0151S3USO-es Qwinto'
 actualPrice: 6.37 EUR
 currency: EUR
 price: 6.37

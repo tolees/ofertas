@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411RQwAUz+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDKMGP7-es'
+slug: 'B07WDKMGP7-es VBIGER Riñonera Running para Botellas de Agua Bolsa Cintura Cinturón Deportiva Impermeable Ciclismo Viajar Senderismo  Negro '
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

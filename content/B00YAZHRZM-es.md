@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PGKuMAoRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YAZHRZM-es'
+slug: 'B00YAZHRZM-es Rode VideoMic Pro R - Micrófono Externo para videocámara  Color Negro'
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

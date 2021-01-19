@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/315h5wdICML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B003S2FDFO-es'
+slug: 'B003S2FDFO-es Vans Herren OTW T-Shirt  Weiß  WHITE-BLACK YB2   XL'
 actualPrice: 19.37 EUR
 currency: EUR
 price: 19.37

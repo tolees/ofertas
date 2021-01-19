@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bpXM0M8fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0054QE6FU-es'
+slug: 'B0054QE6FU-es Mister Vac A307 - Filtro HEPA H 12 para aspiradoras Electrolux  modelos Lux 1  D 820'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

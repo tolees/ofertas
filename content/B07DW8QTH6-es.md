@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41RQXe2ly%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DW8QTH6-es'
+slug: 'B07DW8QTH6-es Salewa MS Wildfire GTX  Zapatillas de Senderismo para Hombre  Schwarz  Black out/Fluo Yellow 978   45 EU'
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

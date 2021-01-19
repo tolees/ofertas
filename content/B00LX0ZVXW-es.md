@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413T3VlJNaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LX0ZVXW-es'
+slug: 'B00LX0ZVXW-es Clatronic TA 3565 Tostadora de Pan Pequeña con 2 Ranuras  3 Función  700 W  Plástico  Blanco'
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

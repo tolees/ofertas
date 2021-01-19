@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51q4F1GKSkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHD33P7-es'
+slug: 'B07VHD33P7-es Teslagrad - Value Pack'
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

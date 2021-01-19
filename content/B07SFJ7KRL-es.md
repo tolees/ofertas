@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315nrtBvECL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFJ7KRL-es'
+slug: 'B07SFJ7KRL-es Nike Court Royale  Zapatillas de Tenis para Hombre  Multicolor  Mahogany/Pale Ivory/Dusty Peach 200   44 1/2 EU'
 actualPrice: 31.96 EUR
 currency: EUR
 price: 31.96

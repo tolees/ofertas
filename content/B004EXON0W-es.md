@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317ysclR8zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004EXON0W-es'
+slug: 'B004EXON0W-es Fifty Pounds Ginebra - 700 ml'
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

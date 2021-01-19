@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eR1sRe9cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009IJJMIA-es'
+slug: 'B009IJJMIA-es PLA Gamuza Atrapapolvo  Set de 20 Unidades'
 actualPrice: 1.4 EUR
 currency: EUR
 price: 1.4

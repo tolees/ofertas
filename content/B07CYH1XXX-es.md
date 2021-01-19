@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZKQ3K9VbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYH1XXX-es'
+slug: 'B07CYH1XXX-es Drift DR150B - Silla Gaming Profesional   Poilipiel Alta Calidad  Ergonómica   Color Negro'
 actualPrice: 148.76 EUR
 currency: EUR
 price: 148.76

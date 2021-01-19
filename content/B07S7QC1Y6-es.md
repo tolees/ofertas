@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BMCa4dopL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QC1Y6-es'
+slug: 'B07S7QC1Y6-es PUMA RS 9.8 Fresh  Zapatillas para Hombre  Blanco White High Rise Black 07  42 EU'
 actualPrice: 43.9 EUR
 currency: EUR
 price: 43.9

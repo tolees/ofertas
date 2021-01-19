@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NSv63bSrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF85MTK-es'
+slug: 'B07KF85MTK-es Levi s Housemark Polo  Azul  Sodalite Blue 0092   Medium para Hombre'
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

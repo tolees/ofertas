@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AWdugbLNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L33TPKG-es'
+slug: 'B07L33TPKG-es Asics Gel-Fujitrabuco 7  Zapatillas de Entrenamiento para Hombre  Azul  Blue Expanse/Electric Blue 400   40.5 EU'
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W9yRlKBzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DGXR9G-es'
+slug: 'B081DGXR9G-es FNBK Funda para Samsung Galaxy S10 Plus Funda de Piel con Stand Función con Ranura para Tarjetas Flip Case Cover Caso Compatible con Samsung Galaxy S10 Plus Rosa roja'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+9kJVU-9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHQ6H7B-es'
+slug: 'B07WHQ6H7B-es Powcan Alimentador Automático Acuario Multifuncional Comedero Peces Automático con Tiempo de Alimentación'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

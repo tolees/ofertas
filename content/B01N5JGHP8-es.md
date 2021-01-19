@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yCPY98c6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5JGHP8-es'
+slug: 'B01N5JGHP8-es Ularma Pata pequeña impresión paño grueso y suave manta suave estera del animal doméstico  60 X 40 CM  café '
 actualPrice: 3.03 EUR
 currency: EUR
 price: 3.03

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LJdtgl+VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ61FJ7-es'
+slug: 'B07TZ61FJ7-es Skechers Arch Fit  Zapatillas sin Cordones para Hombre  Azul  Navy Mesh/Synthetic/Trim Nvy   41.5 EU'
 actualPrice: 47.28 EUR
 currency: EUR
 price: 47.28

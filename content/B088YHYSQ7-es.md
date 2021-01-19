@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ct9rK5nAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088YHYSQ7-es'
+slug: 'B088YHYSQ7-es Asics Jolt 2  Sneaker Unisex-Child  Hot Pink/White  33 EU'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51slrTvRnzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M06YYXG-es'
+slug: 'B01M06YYXG-es CORSEE Kit Cámaras de Vigliancia Seguridad Vigilancia Inalámbrica Sistema [1080P 8CH HD NVR+4 Piezas 2.0MP Cámara] CCTV Kit de Videovigliancia  con 1TB HDD，HD Visión Nocturna y Detección de Movimiento'
 actualPrice: 289.99 EUR
 currency: EUR
 price: 289.99

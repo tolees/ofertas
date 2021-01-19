@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MDN-952wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMQ911X-es'
+slug: 'B07CMQ911X-es Superga 2750 COTU Classic  Zapatillas Unisex  Beige  Beige Wbt   44.5 EU'
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

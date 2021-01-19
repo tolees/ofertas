@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41izIN1WDRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KY3BF16-es'
+slug: 'B07KY3BF16-es Puma Rise Xt 4 Jr Zapatillas de Balonmano Unisex Niños  Negro  PUMA BLACK-SILVER-NRGY RED 01   44.5 EU  10 UK '
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

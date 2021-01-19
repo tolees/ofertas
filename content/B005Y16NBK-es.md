@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HhymIv7WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005Y16NBK-es'
+slug: 'B005Y16NBK-es Chuckit! 170015 Ultra Ball  1 Pelota para Perros Compatible con el Lanzador  M'
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RVRwwsojL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTK16M7-es'
+slug: 'B07RTK16M7-es OMERIL Linterna Frontal LED USB Recargable  Linterna Cabeza Super Brillante  5 Modos de Blanco y Rojo Luz  IPX5 Impermeable Frontal LED para Correr  Acampar  Pescar  Ciclismo  Camping  Niños'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

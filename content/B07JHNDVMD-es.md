@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NSSB7j+WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHNDVMD-es'
+slug: 'B07JHNDVMD-es JACK & JONES Jfwtrent PU 19 Noos  Zapatillas para Hombre  Gris  Anthracite Anthracite   40 EU'
 actualPrice: 22.06 EUR
 currency: EUR
 price: 22.06

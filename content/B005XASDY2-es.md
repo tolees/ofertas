@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kv%2BsUJtcL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XASDY2-es'
+slug: 'B005XASDY2-es Cybex 512110004  Silver Pallas-Fix Silla de Coche Grupo 1/2/3  2 en 1  para Niños  Gris  Cobblestone '
 actualPrice: 178.99 EUR
 currency: EUR
 price: 178.99

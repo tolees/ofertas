@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417MwNYLuFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NLUMKY-es'
+slug: 'B000NLUMKY-es Casio Reloj Digital para Mujer de Cuarzo con Correa en Resina LW-200-2AVEF'
 actualPrice: 22.8 EUR
 currency: EUR
 price: 22.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C2ydShCEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013P1ORS6-es'
+slug: 'B013P1ORS6-es Gigaset PRO SL750H. Teléfono inalámbrico para conectar a centralita'
 actualPrice: 81.24 EUR
 currency: EUR
 price: 81.24

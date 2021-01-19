@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LsFwZ1v9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4FPRS5-es'
+slug: 'B07Z4FPRS5-es Reloj de Hombre BENYAR cronógrafo Resistente al Agua con Correa de Cuero de Cuarzo analógico Reloj de Pulsera para Hombre'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

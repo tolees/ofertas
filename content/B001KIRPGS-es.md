@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vTrs5aZAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001KIRPGS-es'
+slug: 'B001KIRPGS-es Thierry Mugler Angel Body Cream 200 ml'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

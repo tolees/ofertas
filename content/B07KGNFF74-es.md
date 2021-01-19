@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-qaBXXm7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGNFF74-es'
+slug: 'B07KGNFF74-es BOSS Schino-Regular Short Pantalones Cortos  Beige  Medium Beige 263   W31  Talla del Fabricante: 31  para Hombre'
 actualPrice: 41.19 EUR
 currency: EUR
 price: 41.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xwPGu35eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWSGUPN-es'
+slug: 'B01LWSGUPN-es Lutsine Xeramance Crema Reestructurante Intensiva Piel Muy Seca y Atópica Formato Ahorro 2 x 100 ml'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

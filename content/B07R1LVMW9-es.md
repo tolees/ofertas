@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uo6uDlV6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R1LVMW9-es'
+slug: 'B07R1LVMW9-es dothnix Collares Antiparasitos para Perros y Gatos contra Pulgas  Garrapatas y Mosquitos  8 Meses de Protección  con Cortaúñas Tijera de Uñas para Mascotas 55cm '
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

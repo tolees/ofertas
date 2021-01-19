@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415b12xtKBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0751GPX5W-es'
+slug: 'B0751GPX5W-es New Balance 247  Zapatillas para Mujer  Rosa Rosa Rosa  40.5 EU'
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

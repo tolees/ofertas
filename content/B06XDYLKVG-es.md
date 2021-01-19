@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c5Sw7lWCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDYLKVG-es'
+slug: 'B06XDYLKVG-es Kepmem Memoria USB de 16GB Figuras Tortuga con Llavero USB Pen Drive'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

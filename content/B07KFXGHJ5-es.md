@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zP3car4uL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFXGHJ5-es'
+slug: 'B07KFXGHJ5-es PUMA ST Activate Jr  Zapatillas Unisex Niños  Calypso Coral White  37 EU'
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

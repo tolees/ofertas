@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RCw2ZG4wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KY5GEQO-es'
+slug: 'B01KY5GEQO-es Fantasy Flight Games- Star Wars Imperial Assault  Regreso a Hoth  Edge Entertainment EDGSWI19 '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

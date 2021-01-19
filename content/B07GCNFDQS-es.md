@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414Sf1kcSsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCNFDQS-es'
+slug: 'B07GCNFDQS-es Tommee Tippee Juguete transpirable  Jiggy la Jirafa'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

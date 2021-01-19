@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f4rpMYblL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5CK31F-es'
+slug: 'B07J5CK31F-es Taladro Percutor  Meterk 850W Taladro Eléctrico de 3000 RPM  Martillo Taladro 2 Funciones en 1  con Mango Auxiliar Giratorio de 360°  Regulador de Profundidad y Portabrocas Sin llave'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

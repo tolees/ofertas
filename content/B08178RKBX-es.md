@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ERSJWreGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08178RKBX-es'
+slug: 'B08178RKBX-es Columbia Baker Valley Forro Polar con Cremallera  Mujer  Azul  Waterfall Heather   XL'
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21kLfthpIrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT1K7DQ-es'
+slug: 'B01MT1K7DQ-es Reebok Club C 85  Zapatillas Hombre  Blanco  Int / White / Green   42 EU'
 actualPrice: 58.87 EUR
 currency: EUR
 price: 58.87

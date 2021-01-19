@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/619YKitIEKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXL7RZP-es'
+slug: 'B01MXL7RZP-es Starcraft II Battlechest 2.0'
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

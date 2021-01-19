@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ASQqEd6-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKQT9HS-es'
+slug: 'B00BKQT9HS-es Daniel Wellington - Reloj analógico para mujer de nailon multicolor'
 actualPrice: 71.33 EUR
 currency: EUR
 price: 71.33

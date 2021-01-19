@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/311rZl2NlhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B015B3REG8-es'
+slug: 'B015B3REG8-es Trust ATMT-502 Mando a Distancia con Temporizador para el Control inalámbrico de la iluminación'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

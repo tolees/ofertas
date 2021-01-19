@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gShjs4LeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFRN36C-es'
+slug: 'B07QFRN36C-es Bosch CityMower 18 - Cortacésped  sin batería  sistema de 18 V  superficies hasta 300 m²  anchura de corte: 34 cm  en caja '
 actualPrice: 164.99 EUR
 currency: EUR
 price: 164.99

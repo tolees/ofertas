@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RCslrPTDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083YZCT41-es'
+slug: 'B083YZCT41-es uni Adaptador USB C a HDMI  Adaptador USB Tipo C a HDMI  Compatible con Thunderbolt 3  hasta 4K  Compatible con iPad Pro 2018  MacBook  Samsung S20  Huawei P40  Surface Pro 7 y más - Gris'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

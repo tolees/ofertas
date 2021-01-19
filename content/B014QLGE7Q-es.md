@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JnUKWtlbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014QLGE7Q-es'
+slug: 'B014QLGE7Q-es Manfrotto Holster XS - Bolsa para cámara'
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

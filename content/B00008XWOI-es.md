@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pf2deiTbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00008XWOI-es'
+slug: 'B00008XWOI-es WMF Profi Sartén  Acero Inoxidable Pulido  28 cm'
 actualPrice: 51.41 EUR
 currency: EUR
 price: 51.41

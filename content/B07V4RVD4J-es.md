@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51go6dhWY8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4RVD4J-es'
+slug: 'B07V4RVD4J-es Calvin Klein - Primary L 5cc W/Coin  Carteras Hombre  Negro  Blackwhite Black   1x1x1 cm  W x H L '
 actualPrice: 42.2 EUR
 currency: EUR
 price: 42.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dC2c0LA1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072LP5YSG-es'
+slug: 'B072LP5YSG-es Under Armour Challenger II Knit Warm-Up Chándal  Hombre  Azul  410   S'
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

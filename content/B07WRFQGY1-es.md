@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QuUJ8AyRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRFQGY1-es'
+slug: 'B07WRFQGY1-es Eono by Amazon - Organizadores de Viaje de compresión expandibles  Impermeable Organizador para Maletas  Organizador de Equipaje  Cubos de Embalaje  Compression Packing Cubes  Púrpura  6 Set'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51n5LctzS8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7J6P1S-es'
+slug: 'B07S7J6P1S-es Festina Hombre F20279/A'
 actualPrice: 69.15 EUR
 currency: EUR
 price: 69.15

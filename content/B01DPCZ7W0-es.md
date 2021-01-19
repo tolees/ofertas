@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41de1sF74VL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DPCZ7W0-es'
+slug: 'B01DPCZ7W0-es Vangold Reloj silencioso 3D adhesivo efecto cristal para pared  sin marco  tamaño grande  para decorar la oficina o casa  negro-2 años de garantía'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

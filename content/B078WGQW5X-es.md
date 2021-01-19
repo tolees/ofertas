@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ggK9Ht13L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WGQW5X-es'
+slug: 'B078WGQW5X-es PUMA Liga Sideline Polo T-Shirt  Hombre  Negro  Black/White   L'
 actualPrice: 19.71 EUR
 currency: EUR
 price: 19.71

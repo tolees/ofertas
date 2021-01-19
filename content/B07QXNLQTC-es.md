@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xT4Mb94aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXNLQTC-es'
+slug: 'B07QXNLQTC-es MiMiya Inoxidable Completo 6 Pisos Deshidratador de Alimentos  con Temporizador  Pantalla LCD  Temperatura Regulable Deshidratador de Frutas  Vegetales  Carne y Hierbas'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

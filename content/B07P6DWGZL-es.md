@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414Os5ncaYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6DWGZL-es'
+slug: 'B07P6DWGZL-es Guess - Open Road  Bolsos bandolera Mujer  Verde  Forest   6x17x28 cm  W x H L '
 actualPrice: 64.54 EUR
 currency: EUR
 price: 64.54

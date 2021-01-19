@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HhzOCGVnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003H2XUTG-es'
+slug: 'B003H2XUTG-es Merrell Choprock Leather Shandal  Zapatillas Impermeables para Hombre  Gris Grey  41.5 EU'
 actualPrice: 51.16 EUR
 currency: EUR
 price: 51.16

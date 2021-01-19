@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DUkKs1NRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWXDK6M-es'
+slug: 'B07TWXDK6M-es Women s Secret New Season Nightdresses Cm Pink Flower Nd Camisón  Marfil  Marfil 97   Small  Tamaño del Fabricante: S  para Mujer'
 actualPrice: 14.71 EUR
 currency: EUR
 price: 14.71

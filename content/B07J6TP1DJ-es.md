@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411RPOqqW0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6TP1DJ-es'
+slug: 'B07J6TP1DJ-es MEDION ERAZER P6705 - Portátil gaming 15.6" FullHD  Intel Core i7-8750H  8GB RAM  1TB HDD + 128GB SSD  Nvidia GTX1050Ti-4GB  Windows 10  negro - Teclado QWERTY Español'
 actualPrice: 659.99 EUR
 currency: EUR
 price: 659.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mBzfYyKGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009M4M9UO-es'
+slug: 'B009M4M9UO-es Rhinomer Baby - Narhinel Confort Aspirador Nasal+ 2 recambios blandos desechables'
 actualPrice: 6.53 EUR
 currency: EUR
 price: 6.53

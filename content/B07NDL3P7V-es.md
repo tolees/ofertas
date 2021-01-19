@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415mrTPeuFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL3P7V-es'
+slug: 'B07NDL3P7V-es G-STAR RAW Rovic Slim Trainer Pantalones  Gris  Asfalt A791/995   W30/L36  Talla del Fabricante: 30W/ L36  para Hombre'
 actualPrice: 39.51 EUR
 currency: EUR
 price: 39.51

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jhDSiJ5RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LRYUJQS-es'
+slug: 'B00LRYUJQS-es Mini-Concentrador USB 3.0 Giratorio de Aluminio Sabrent Premium con 4 Puertos [90°/180° Grados de rotación]  HB-umn4 '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

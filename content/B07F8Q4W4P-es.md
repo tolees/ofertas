@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3112Kws948L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8Q4W4P-es'
+slug: 'B07F8Q4W4P-es Donna Karan Stories EAU De Parfum Mujeres 100 ml - Eau de parfum  Mujeres  100 ml  Aerosol '
 actualPrice: 51.83 EUR
 currency: EUR
 price: 51.83

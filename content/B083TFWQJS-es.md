@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51P9fmKpLHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TFWQJS-es'
+slug: 'B083TFWQJS-es INTEY Ahuyentador de Animales  2 Piezas  Ultrasonido Impermeable Ahuyentador del Gato Energía Solar Carga de la Batería  Utilizada en el Jardín Ahuyentador Gatos Repelente ultrasonico'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

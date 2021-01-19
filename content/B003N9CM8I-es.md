@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CTb84xthL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003N9CM8I-es'
+slug: 'B003N9CM8I-es Curver Touch 240269 - Cubo de basura  mecanismo de apertura con toque  40 L  color rojo'
 actualPrice: 33.85 EUR
 currency: EUR
 price: 33.85

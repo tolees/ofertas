@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412LxLgvDfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RK7OHPK-es'
+slug: 'B00RK7OHPK-es Sony Action CAM FDR-X1000VR - Videocámara Deportiva  Video 4K  Resistente a Salpicaduras con WI-FI  NFC  GPS y Kit de Mando a Distancia Live-View   Blanco'
 actualPrice: 333.3 EUR
 currency: EUR
 price: 333.3

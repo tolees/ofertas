@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iqyxM5uzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWL42XR-es'
+slug: 'B07TWL42XR-es ANSIO Deshumidificador 12l / día con Temporizador de 24 Horas  Cerradura Infantil  con Ruedas  Secado de Ropa  Drenaje Continuo  Ideal para Oficina  la Cocina  la Bodega/Garaje  2 años de garantía'
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

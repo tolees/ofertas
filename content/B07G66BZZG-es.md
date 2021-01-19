@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318OoIqTiML._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G66BZZG-es'
+slug: 'B07G66BZZG-es Fossil Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable ES4489'
 actualPrice: 79.12 EUR
 currency: EUR
 price: 79.12

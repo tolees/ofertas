@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ef043EzPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EFT1M3K-es'
+slug: 'B01EFT1M3K-es SmartEra® Ilusión óptica 3D de Star Wars Darth Vader 7 tipos de colores Cambiar fantástico Botón táctil USB Escritorio LED de luz / lámpara de tabla'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

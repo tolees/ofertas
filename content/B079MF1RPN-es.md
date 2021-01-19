@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518O4mgV3JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MF1RPN-es'
+slug: 'B079MF1RPN-es QH-Shop Mosquitera Puertas  Mosquitera Magnética Automático para Puertas Cortina de Sala de Estar la Puerta del Balcón Puerta Corredera de Patio 90 x 210cm'
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wG57LOGTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZNXZPX-es'
+slug: 'B07MZNXZPX-es Kickers Bonbon  Botas Unisex bebé  Violeta  Violeta Oscuro 142   22 EU'
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

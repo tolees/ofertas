@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41aB0yusArL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2ZPYF6-es'
+slug: 'B07P2ZPYF6-es Head Club Lucy W Camisetas  Mujer  Magenta/Dark Blue  Extra-Small'
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

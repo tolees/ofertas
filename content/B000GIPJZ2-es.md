@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x96TlXg0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GIPJZ2-es'
+slug: 'B000GIPJZ2-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos  Glutamina y Aminoacidos  BCAA  Galletas y Crema  68 porciones  2.27 kg  Embalaje puede variar'
 actualPrice: 53.9 EUR
 currency: EUR
 price: 53.9

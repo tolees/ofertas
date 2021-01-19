@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61LQynrW3-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDH5RSX-es'
+slug: 'B07MDH5RSX-es Altavoz Bluetooth Ducha  COMISO IPX7 Impermeable Altavoz Inalambrico Portátil con Ventosa  Micrófono Integrado  12 Horas para Hogar Fiesta Ducha Baño y Piscina'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

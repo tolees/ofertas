@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4164RWa3srL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0049UWT1A-es'
+slug: 'B0049UWT1A-es Waterpik 450- Irrigador bucal inalámbrico  62.24'
 actualPrice: 56.7 EUR
 currency: EUR
 price: 56.7

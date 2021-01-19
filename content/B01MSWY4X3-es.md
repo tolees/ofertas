@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tUeYlRAHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSWY4X3-es'
+slug: 'B01MSWY4X3-es Womanizer +Size Vibrator Potente estimulador del clítoris sin contacto con 12 niveles de intensidad  modo silencioso  impermeable  blanco y dorado'
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

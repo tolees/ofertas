@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EcwKSlsbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GS4B5RY-es'
+slug: 'B00GS4B5RY-es Festina Chrono Sport Cronógrafo para hombres Carcasa Maciza'
 actualPrice: 113.77 EUR
 currency: EUR
 price: 113.77

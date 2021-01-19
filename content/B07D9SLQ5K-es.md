@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rgfL-D-gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9SLQ5K-es'
+slug: 'B07D9SLQ5K-es Levi s Graphic Po Hoodie-B Capucha  Gris  Hm Pop Oscuro Mid Tone Heather Grey 0037   X-Large para Hombre'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

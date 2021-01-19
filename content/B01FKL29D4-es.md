@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31n77Rpk-mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FKL29D4-es'
+slug: 'B01FKL29D4-es Revlon Ultra HD Pintalabios Matte  #650 Spark '
 actualPrice: 4.33 EUR
 currency: EUR
 price: 4.33

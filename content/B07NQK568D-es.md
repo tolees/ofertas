@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PhQp1iv8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQK568D-es'
+slug: 'B07NQK568D-es Relojes Hombre Relojes de Pulsera Marea Cronometro Impermeable Fecha Calendario Analogicos Cuarzo Relojes de Hombre'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

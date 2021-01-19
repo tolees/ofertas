@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pjBL4DeTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4WLFL9-es'
+slug: 'B01N4WLFL9-es Friggi Friggi - Freidora Mágica Playset de Cocina con Luz y Sonido  Giochi Preziosi MA000001 '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

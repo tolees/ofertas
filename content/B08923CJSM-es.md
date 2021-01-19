@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4173qbuvB6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08923CJSM-es'
+slug: 'B08923CJSM-es Cordón Goma Elástico Bandas  Cordón Elástico Para Costura y Manualidades  Blanco Banda Plana Elástica  3mm  18metro'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

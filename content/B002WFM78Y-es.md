@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zKTZ-OSZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002WFM78Y-es'
+slug: 'B002WFM78Y-es Reebok Cl Lthr  Zapatillas de Gimnasia para Hombre  Negro  INT/Black INT/Black   48 EU'
 actualPrice: 67.45 EUR
 currency: EUR
 price: 67.45

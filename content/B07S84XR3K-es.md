@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hQZmBuThL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S84XR3K-es'
+slug: 'B07S84XR3K-es adidas Real Madrid Mini Home Kids Equipamiento de Fútbol  Unisex Niños  Blanco  White   18-24M'
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

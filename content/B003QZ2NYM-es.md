@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415xhdqolcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003QZ2NYM-es'
+slug: 'B003QZ2NYM-es adidas Originals Samba  Zapatillas de Fútbol para Hombre  Negro Black Running White  41 1/3 EU'
 actualPrice: 44.1 EUR
 currency: EUR
 price: 44.1

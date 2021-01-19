@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VJ9x3A9zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016DNCFC8-es'
+slug: 'B016DNCFC8-es Electrolux EAT3300 Tostadora Love Your Day Collection  940 W  Acero Inoxidable/plastico  2 Ranuras  Negro'
 actualPrice: 24.44 EUR
 currency: EUR
 price: 24.44

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BLZX-94tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6PGNJ0-es'
+slug: 'B01N6PGNJ0-es dockers Alpha Original Skinny-Lite Pantalones  Marrón  New British Khaki   34W / 30L para Hombre'
 actualPrice: 50.49 EUR
 currency: EUR
 price: 50.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51n5FIPdKHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPV7PNK-es'
+slug: 'B07KPV7PNK-es Brazalete Deportivo  Brazalete Running Armband Movil Soporte para iPhone XS MAX/XS/XR/8 Plus/7 Plus  Samsung S9 S8 S7 S6 Edge  Huawei P20 P10 P9 Lite Teléfono Debajo de 6.0 Pulgada'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

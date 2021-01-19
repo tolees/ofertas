@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LalmGp4GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DPGM8RL-es'
+slug: 'B07DPGM8RL-es PUMA ESS Logo TR Op SRL Pantalones  Hombre  Black  2XL'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

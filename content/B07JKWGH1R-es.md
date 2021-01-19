@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PeKs+h1uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKWGH1R-es'
+slug: 'B07JKWGH1R-es Lee Scarlett High Jeans  Negro  Black Bucklin Ho   27W/35L para Mujer'
 actualPrice: 48.59 EUR
 currency: EUR
 price: 48.59

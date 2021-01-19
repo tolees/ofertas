@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51v8dkPcLML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGVPTWZ-es'
+slug: 'B07NGVPTWZ-es IMC Toys- GOLOSINI S Juguete  Color variado  Talla unica  China 1    color/modelo surtido'
 actualPrice: 9.37 EUR
 currency: EUR
 price: 9.37

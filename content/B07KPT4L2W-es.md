@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ilCW9uwoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPT4L2W-es'
+slug: 'B07KPT4L2W-es LAST LEVEL- Funko Pack Figura Pop Warhammer 40K: Space Wolves Leader  Multicolor  FFK38327 '
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

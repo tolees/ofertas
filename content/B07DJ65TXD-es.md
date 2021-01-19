@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rBk6FvrzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ65TXD-es'
+slug: 'B07DJ65TXD-es New Balance 247v1  Zapatillas para Hombre  Azul  Outerspace/Silver Oh   42 EU'
 actualPrice: 50.21 EUR
 currency: EUR
 price: 50.21

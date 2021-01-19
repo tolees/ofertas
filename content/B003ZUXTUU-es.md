@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p23zIzOZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ZUXTUU-es'
+slug: 'B003ZUXTUU-es Casio Reloj de Pulsera W-S210H-1AVEF'
 actualPrice: 35.67 EUR
 currency: EUR
 price: 35.67

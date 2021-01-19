@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FSksjNYPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G8X7VM2-es'
+slug: 'B01G8X7VM2-es BBC micro: bit go'
 actualPrice: 15.67 EUR
 currency: EUR
 price: 15.67

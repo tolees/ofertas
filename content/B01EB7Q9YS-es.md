@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31p8oCL1UIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EB7Q9YS-es'
+slug: 'B01EB7Q9YS-es Suunto SS022154000 Monitores de Actividad  Unisex Adulto  Negro  Talla Única'
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QXBU+1CRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGZEWO2-es'
+slug: 'B01BGZEWO2-es Corsair Dominator Platinum - Módulo de Memoria XMP 2.0 de Alto Rendimiento de 32 GB  2 x 16 GB  DDR4  3200 MHz  C16 '
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

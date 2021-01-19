@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XoN7mkUdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB44HMR-es'
+slug: 'B07BB44HMR-es Helly Hansen TSUGA  Zapatillas de Deporte para Hombre  Marrón  New Wheat/Espresso/Nat 724   45 EU'
 actualPrice: 51.78 EUR
 currency: EUR
 price: 51.78

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YB1FpzYgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9TY9L0-es'
+slug: 'B00X9TY9L0-es Garnier Olia - Coloración Permanente sin Amoniaco  con Aceites Florales de Origen Natural - Tono 6.35 Rubio Caramelo'
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

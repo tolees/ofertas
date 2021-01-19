@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FYxTCJ7XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SC1RYCM-es'
+slug: 'B07SC1RYCM-es FUNNY HOUSE 5 Pcs Tapón de Drenaje de Silicona Tapón de Goma Universal Tapones de Desagüe para Cocina Baño Bañera Fregadero Lavabo Lavamanos'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

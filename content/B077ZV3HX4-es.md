@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ayaS78mtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZV3HX4-es'
+slug: 'B077ZV3HX4-es Localizador de llaves'
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

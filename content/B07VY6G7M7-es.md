@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tDaZavE+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VY6G7M7-es'
+slug: 'B07VY6G7M7-es Memoria USB 64GB Pendrive 2.0 USB Stick Flash Drive Pen Drive  Negro'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31DBCOwrOnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NYB3HMC-es'
+slug: 'B07NYB3HMC-es Satechi Ratón Bluetooth M1 Inalámbrico de Aluminio - Compatible con iMac  Pro/Air  Gris Espacial '
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418RHZ4peoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M89DNMG-es'
+slug: 'B07M89DNMG-es Lee Luke Corduroy Pantalones  Gris  Lead Grey 30   31W / 32L para Hombre'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

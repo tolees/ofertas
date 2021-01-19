@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513r9gcvlXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XNMN6VZ-es'
+slug: 'B06XNMN6VZ-es Natural madera relojes  MUJUZE Japón Movt reloj de cuarzo reloj de peso ligero para cuero hombres mujeres relojes Bamboo '
 actualPrice: 25.69 EUR
 currency: EUR
 price: 25.69

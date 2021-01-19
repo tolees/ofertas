@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jf9p28jsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01COZ711O-es'
+slug: 'B01COZ711O-es Clarks Originals Boot  Botas Desert para Mujer  Azul  Dark Navy Suede   40 EU'
 actualPrice: 90.19 EUR
 currency: EUR
 price: 90.19

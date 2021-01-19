@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512wucZowwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9NY8FP-es'
+slug: 'B06X9NY8FP-es Paletero Bullpadel 17004 Yellow'
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

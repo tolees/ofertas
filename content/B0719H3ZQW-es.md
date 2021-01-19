@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MLfY9TOsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719H3ZQW-es'
+slug: 'B0719H3ZQW-es Compartimientos plegables del almacenaje del yute  cesta de almacenaje de la revista  caja de almacenaje portable del estante  armario / envases del organizador del ático  café'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

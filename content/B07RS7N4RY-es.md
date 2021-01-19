@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oHpjD+j-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS7N4RY-es'
+slug: 'B07RS7N4RY-es Calvin Klein - Revealed 2g Mini Reporter  Organizadores de bolsos Hombre  Verde  Dark Olive   0.1x0.1x0.1 cm  W x H L '
 actualPrice: 25.21 EUR
 currency: EUR
 price: 25.21

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bOHXXiioL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087F3X1KC-es'
+slug: 'B087F3X1KC-es Golden Goose - Zapatillas de piel para hombre  estilo casual  de piel Francy GGDB  color Negro  talla 42.5 EU'
 actualPrice: 459.63 EUR
 currency: EUR
 price: 459.63

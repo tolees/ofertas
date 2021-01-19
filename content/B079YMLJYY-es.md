@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Krp49KqXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YMLJYY-es'
+slug: 'B079YMLJYY-es Funko Pop!- Val Star Wars: Red Cup Figura de Vinilo  Multicolor  26989 '
 actualPrice: 6.53 EUR
 currency: EUR
 price: 6.53

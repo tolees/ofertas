@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UCRWsKMOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078TPK9JF-es'
+slug: 'B078TPK9JF-es Toshiba THN-M203K0160EA Tarjeta de memoria  16 GB  MicroSDXC  Clase 10  UHS-I  100 MB/s  Negro   16gb  Negro'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

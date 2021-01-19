@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N44lwiJZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ID4RZJY-es'
+slug: 'B00ID4RZJY-es Semillas Hortícolas - Tomate Muchamiel - Batlle'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

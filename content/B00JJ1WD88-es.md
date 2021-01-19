@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tZByRrDnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JJ1WD88-es'
+slug: 'B00JJ1WD88-es Coleman 16Qt Nevera Rígida  Unisex Adulto  Azul  M'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

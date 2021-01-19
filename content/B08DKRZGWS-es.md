@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318RYRz33rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DKRZGWS-es'
+slug: 'B08DKRZGWS-es Multifunción Pulsera Deportiva Podómetro Monitor de Actividad LCD Reloj electrónico Reloj de Pulsera de Silicona Reloj de Salud - Azul'
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15

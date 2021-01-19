@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eBseV2ZLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G6ZDXYY-es'
+slug: 'B07G6ZDXYY-es Antena de TV de alta ganancia Freeview – MASO portátil para interior/exterior digital HD antena para transmisión DVB-T/DAB de radio  televisión ATSC  sintonizador USB'
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

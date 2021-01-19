@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ASS8ZYM1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H1BPX5V-es'
+slug: 'B07H1BPX5V-es Teeth Whitening Powder  carbón activo natural  blanqueamiento dental en polvo  2 01 oz'
 actualPrice: 3.14 EUR
 currency: EUR
 price: 3.14

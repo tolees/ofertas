@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aMZGTqr8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CR5GFB9-es'
+slug: 'B08CR5GFB9-es ZZZXX Pintar por Numeros Niños Mujer Sexy Pinceles Y Pinturas para Niños Seniors Junior Principiante Acrílicos Kits De Pintura sobre Lienzo Decoración 16*20 Pulgada Sin Marco'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

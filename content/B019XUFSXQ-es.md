@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LFzcPzZ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019XUFSXQ-es'
+slug: 'B019XUFSXQ-es Clarins Multi Active Crema de Noche  Piel Normal a Seca - 50 ml'
 actualPrice: 29.92 EUR
 currency: EUR
 price: 29.92

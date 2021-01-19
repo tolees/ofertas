@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CDdGBHxcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078ZKMRQH-es'
+slug: 'B078ZKMRQH-es Supra Hammer Run  Zapatillas Unisex Adulto  Negro  Black/White-White 009   40 EU'
 actualPrice: 32.63 EUR
 currency: EUR
 price: 32.63

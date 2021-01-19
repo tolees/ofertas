@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Jbrb2lioL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRJH7WL-es'
+slug: 'B07ZRJH7WL-es Litthing Envoltorio Cera De Abeja Envoltorios de Alimentos Reutilizable Lavable y Biodegradable para Quesos  Cupcakes  Sandwich， Frutas  Vegetales  Pan y Más  1 Rollo Multicolor '
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

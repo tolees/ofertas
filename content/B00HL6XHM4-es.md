@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hTcS7qT5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HL6XHM4-es'
+slug: 'B00HL6XHM4-es Eucerin Skin Protection Loción Corporal - 400 ml'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

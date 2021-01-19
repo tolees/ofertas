@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YW+Gpu9VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3FWX3Z-es'
+slug: 'B07X3FWX3Z-es Orfeld Remachadora  Remachadora Manual con 4 Cabezales Intercambiable  Empuñadura de Antideslizante TPR  Juego Pistola Remachadora 4 en 1 con Remaches de 40 Piezas  para Uso en Interiores y Exteriores'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RzZ9J0I7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2XZMB3-es'
+slug: 'B06Y2XZMB3-es New Balance 574 Core Zapatillas Hombre  Azul  Blue Navy   42 EU  8 UK '
 actualPrice: 54.6 EUR
 currency: EUR
 price: 54.6

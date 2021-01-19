@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pR1L-B0+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I96MAXC-es'
+slug: 'B00I96MAXC-es Moulinex Multimoulinette Compact DJ300110 Picadora  0.25 l de capacidad  sistema de seguridad integrado  270 W  Blanco'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

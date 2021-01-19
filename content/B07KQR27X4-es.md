@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YPKQS-oJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQR27X4-es'
+slug: 'B07KQR27X4-es Salomon ALPHACROSS W  Zapatillas de Trail Running para Mujer  Blanco  White/White/White   38 EU'
 actualPrice: 49.45 EUR
 currency: EUR
 price: 49.45

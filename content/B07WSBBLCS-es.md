@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51H81izJbIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSBBLCS-es'
+slug: 'B07WSBBLCS-es Sacaleches Eléctrico  Eccomum Sacaleches Doble  Portátil/Silencioso/Recargable  Pantalla Táctil LCD Inteligente/Bolsas de Leche/Adaptadores  BPA-Free/100% Grado de Comida'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

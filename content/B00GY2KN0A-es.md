@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415lmc+rgAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GY2KN0A-es'
+slug: 'B00GY2KN0A-es Vagisil Gel lubricante vaginal. Alivia la sequedad vaginal  molestias e irritiaciones y facilita las relaciones sexuales. 30gr'
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

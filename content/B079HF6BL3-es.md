@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31K5MM6UGSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079HF6BL3-es'
+slug: 'B079HF6BL3-es Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Cuero MK2740'
 actualPrice: 103.9 EUR
 currency: EUR
 price: 103.9

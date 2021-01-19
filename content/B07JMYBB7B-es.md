@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EAOcfoO+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMYBB7B-es'
+slug: 'B07JMYBB7B-es Chantelle DE Pyramide Sujetador de Copa Media  Beige  Champagner NL   85B  Talla del Fabricante: 70B  para Mujer'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

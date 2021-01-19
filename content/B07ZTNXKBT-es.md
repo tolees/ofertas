@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Mpq%2BQN-XL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTNXKBT-es'
+slug: 'B07ZTNXKBT-es Frozen Believe-Mochila 3D  Pequeña '
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-Dv5EQOlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BH8NCQ8-es'
+slug: 'B07BH8NCQ8-es Maizena Shaker Tortitas - 215 gr'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31iJ2BOdc3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3QKRN8-es'
+slug: 'B07R3QKRN8-es Yizhet Adaptador de Red USB Super Velocidad USB C to RJ45 10/100/1000MGigabit Ethernet para PC o Portátiles de Mac OS Tipo C Adaptador de Red Network Cable'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

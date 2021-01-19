@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dY5UGyElL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZGP9DB-es'
+slug: 'B07TZGP9DB-es BlueXP100 Pieza Clips de Cable Nylon Pinzas para Cables Porta Cables Organizador de Cables con Tornillos para Oficina Casa Cable de USB AudioTV Organización de Alambre-Negro'
 actualPrice: 10.69 EUR
 currency: EUR
 price: 10.69

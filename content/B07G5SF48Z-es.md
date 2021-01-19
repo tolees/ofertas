@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Yp6KMSfVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5SF48Z-es'
+slug: 'B07G5SF48Z-es Logitech G PRO Ratón Gaming Inalámbrico  Sensor HERO 16K  16 000 DPI  RGB  Peso Reducido  4 hasta 8 Botones Programables  Batería Larga Duración  Memoria Integrada  PC/Mac - Negro'
 actualPrice: 115.75 EUR
 currency: EUR
 price: 115.75

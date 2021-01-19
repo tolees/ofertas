@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zn4XslZbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AW9F88W-es'
+slug: 'B01AW9F88W-es Balvi Felpudo Welcome  Goma/Nylon 34 x 75 cm'
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+sZnIar7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MK3XSH-es'
+slug: 'B077MK3XSH-es Build a Bot dec164494 Zorro'
 actualPrice: 15.2 EUR
 currency: EUR
 price: 15.2

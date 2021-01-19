@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TJJu5gbzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D45BWEG-es'
+slug: 'B00D45BWEG-es Mousehouse Gifts Caja Mediana con Juego de libreta y Objetos de Escritorio Decorada con Mariposa en Tonos Rosas y Azules'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

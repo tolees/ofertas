@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gwpRz84zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076G4TY1Q-es'
+slug: 'B076G4TY1Q-es PUMA Smash V2 L JR  Zapatillas Unisex Adulto  Blanco White White  36 EU'
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

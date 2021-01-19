@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FqeNzmOlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JAIQETE-es'
+slug: 'B00JAIQETE-es GreenBlue GB104 - Programador eléctrico digital diario semanal tipo carril DIN 16A 250V 240 programas  1 '
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

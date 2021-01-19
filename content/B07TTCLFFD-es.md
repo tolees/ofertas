@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L9yciw6eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTCLFFD-es'
+slug: 'B07TTCLFFD-es MoKo Ventilador USB Portátil  Mini Cuello Ventilador de Mano-Libre con 2000mAh Batería Rechargeable  LED Luz de 2 Modos  3 Velocidades y Cabeza Ajustable para Oficina  Deportes al Aire Libre - Negro'
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

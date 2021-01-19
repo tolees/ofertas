@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21YwEdzrQCL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JRW0GGU-es'
+slug: 'B00JRW0GGU-es Trust Preme - Presentador láser inalámbrico  negro'
 actualPrice: 24.06 EUR
 currency: EUR
 price: 24.06

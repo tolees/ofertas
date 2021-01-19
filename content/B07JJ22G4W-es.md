@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414Om32+GqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJ22G4W-es'
+slug: 'B07JJ22G4W-es AMDXD Joyería Pendientes para Mujer Oro de 18K Lágrima Esmeralda Aretes Plata'
 actualPrice: 6398.99 EUR
 currency: EUR
 price: 6398.99

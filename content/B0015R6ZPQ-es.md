@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41972xOOUpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0015R6ZPQ-es'
+slug: 'B0015R6ZPQ-es Optimum Nutrition ON Serious Mass Proteína en Polvo Mass Gainer  con Vitaminas  Creatina y Glutamina  Vainilla  8 porciones  2.73 kg  Embalaje puede variar'
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

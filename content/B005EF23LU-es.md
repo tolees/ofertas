@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411NSn5PQzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005EF23LU-es'
+slug: 'B005EF23LU-es Bolsius – Vela perfumada 103630519700 Velas  Cera de parafina  Blanco  Paquete de 50'
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

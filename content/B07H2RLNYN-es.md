@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31igneHsC0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2RLNYN-es'
+slug: 'B07H2RLNYN-es SPC Ebon - Auricular Bluetooth  manos libres  IPX5  asistente de voz   – Color Rojo'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

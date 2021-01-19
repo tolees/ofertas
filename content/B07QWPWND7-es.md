@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415kU+8PlSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWPWND7-es'
+slug: 'B07QWPWND7-es Gitany Juego de 10 Utensilios de Cocina  Set de Utensilios de Cocina Acero Inoxidable'
 actualPrice: 23.55 EUR
 currency: EUR
 price: 23.55

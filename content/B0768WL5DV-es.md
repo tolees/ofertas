@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aveABO7JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0768WL5DV-es'
+slug: 'B0768WL5DV-es Sombrero de invierno  sombreros para mujeres y hombres  Gorras Con Bufanda y Gorros de punto Sombreros de Suave Encantador Invierno de lana'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

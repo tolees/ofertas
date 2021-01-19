@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XzBy0UemL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M93CKJD-es'
+slug: 'B07M93CKJD-es Tom Tailor Denim - Rosie  Bolsos bandolera Mujer  Azul  Blau   23.5x14x3.5 cm  W x H L '
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

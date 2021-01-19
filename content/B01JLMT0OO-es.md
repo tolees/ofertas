@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3175fYq7+AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JLMT0OO-es'
+slug: 'B01JLMT0OO-es L Oréal Paris Color Riche  Barra De Labios  Gold Obsession 36-1 Barra De Labios'
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

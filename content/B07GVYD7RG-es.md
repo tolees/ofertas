@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513MXSVIywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVYD7RG-es'
+slug: 'B07GVYD7RG-es Let S Sing 11 - Edición Estándar'
 actualPrice: 26.76 EUR
 currency: EUR
 price: 26.76

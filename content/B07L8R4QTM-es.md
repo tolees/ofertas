@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jQzwtLFWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8R4QTM-es'
+slug: 'B07L8R4QTM-es Nice2you muñeca de niña afroamericana Baby Play de 12 Pulgadas para niños cumpleaños'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

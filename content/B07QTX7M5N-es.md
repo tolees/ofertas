@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iA0w085hL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTX7M5N-es'
+slug: 'B07QTX7M5N-es JUNGEN 3pcs Kit de decoracion de uñas Cepillo de detalle de uñas para Dibujando patrones de linea Pincel de uñas de gel con Diseño de pincel de punta Accesorios de uñas 11/15/20mm'
 actualPrice: 0.25 EUR
 currency: EUR
 price: 0.25

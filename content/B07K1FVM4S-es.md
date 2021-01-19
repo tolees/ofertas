@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IKF2v6TcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1FVM4S-es'
+slug: 'B07K1FVM4S-es Versace Eros Flame Edp Vapo 100 ml - 100 ml'
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

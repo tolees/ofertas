@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mkGezwdGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RPXYNY-es'
+slug: 'B073RPXYNY-es Helly Hansen Classic Duffel Bag Bolsa Deportiva versátil y Duradera  Unisex Adulto  Negro  XS  30 litros '
 actualPrice: 41.71 EUR
 currency: EUR
 price: 41.71

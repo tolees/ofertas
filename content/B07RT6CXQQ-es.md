@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-yy8NX+DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT6CXQQ-es'
+slug: 'B07RT6CXQQ-es Mr. Wonderful Carpeta archivadora-Apunta Alto y llegarás  Multicolor  Talla Única'
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

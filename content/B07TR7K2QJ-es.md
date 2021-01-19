@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NhTg-wwhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TR7K2QJ-es'
+slug: 'B07TR7K2QJ-es Comando G - La Batalla de los Planetas Serie Completa 7 DVDs 1978 Battle of the Planets  G-Force '
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41F5qjIsfPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IP4E1JI-es'
+slug: 'B01IP4E1JI-es adidas Gazelle  Zapatillas de deporte Unisex Adulto  Gris  Dgh Solid Grey/White/Gold Metallic   38 EU'
 actualPrice: 47.48 EUR
 currency: EUR
 price: 47.48

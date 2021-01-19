@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sYFM-ak1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K792ZIO-es'
+slug: 'B00K792ZIO-es Philips SHK2000 - Auriculares de diadema cerrados  control remoto integrado  3.5 mm  85 dB  rosa y morado'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

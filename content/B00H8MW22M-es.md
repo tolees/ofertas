@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31mXnI1EFzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H8MW22M-es'
+slug: 'B00H8MW22M-es Disney Baby 80800726 - Taza antifugas punta suave  diseño Minnie  para 4-18 meses  color rosa'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

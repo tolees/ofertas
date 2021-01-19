@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419xCq9txDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RN8DJNQ-es'
+slug: 'B07RN8DJNQ-es Funko Pop! Disney: Kingdom Hearts 3 - Axel  Multicolor'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

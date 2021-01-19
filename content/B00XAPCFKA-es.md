@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61dAEqrJpqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAPCFKA-es'
+slug: 'B00XAPCFKA-es Haribo - Cerezas con azúcar super - Caramelo de goma - 1 kg'
 actualPrice: 4.72 EUR
 currency: EUR
 price: 4.72

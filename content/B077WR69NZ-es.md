@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517IQ6C2JeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077WR69NZ-es'
+slug: 'B077WR69NZ-es Funda impermeable de Kayond  para ordenador portátil de 11 a 17 pulgadas Blue stripes 14-14.1 inch'
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

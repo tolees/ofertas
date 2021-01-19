@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jU9MrkYwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007TJCESQ-es'
+slug: 'B007TJCESQ-es Alessi | GAG02 Sbriciola Tabla de Cortar de Bambú con Recogedor'
 actualPrice: 63.47 EUR
 currency: EUR
 price: 63.47

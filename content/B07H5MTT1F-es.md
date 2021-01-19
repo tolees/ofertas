@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41URYa7GECL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5MTT1F-es'
+slug: 'B07H5MTT1F-es Skechers Flex Appeal 3.0  Zapatillas para Mujer  Blanco  White Black Wbk   37 EU'
 actualPrice: 40.57 EUR
 currency: EUR
 price: 40.57

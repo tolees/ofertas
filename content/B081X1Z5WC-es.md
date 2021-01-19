@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31v2REmqH1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081X1Z5WC-es'
+slug: 'B081X1Z5WC-es Topmener Almohada Cervical Espuma de Memoria Almohada de Cama Ortopedica Ergonomica  50x30cm  para El Dolor de Cuello Almohada Cuello con Funda de Almohada Lavable'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

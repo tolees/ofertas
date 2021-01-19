@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31o4Cmp4azL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071G45CWC-es'
+slug: 'B071G45CWC-es Reloj Calvin Klein - Mujer K8E2M111'
 actualPrice: 109.97 EUR
 currency: EUR
 price: 109.97

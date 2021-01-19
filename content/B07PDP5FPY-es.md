@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5108c2wbbKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDP5FPY-es'
+slug: 'B07PDP5FPY-es Happy Cherry - Sombrero Verano para Niñas Gorra con ala Bucket Estampado Estrella Suave Protección de Sol Infantil Playa - Rosa - 18-24Meses/50cm'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

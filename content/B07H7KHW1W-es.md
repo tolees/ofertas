@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IIX1HttgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H7KHW1W-es'
+slug: 'B07H7KHW1W-es Fundas para iPhone Dolce&Gabbana iPhone 6g Hombre - Piel  BP2157AC73680999 '
 actualPrice: 177.5 EUR
 currency: EUR
 price: 177.5

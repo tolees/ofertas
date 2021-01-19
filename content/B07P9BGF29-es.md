@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GbrxGwvFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9BGF29-es'
+slug: 'B07P9BGF29-es Amzdeal Grifo de Lavabo Monomando de Baño Cuerpo de 59 Latón Cromo/Dolphin-04'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

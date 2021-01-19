@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qHdUH17vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4WD3BZ-es'
+slug: 'B07S4WD3BZ-es New Balance 373v2 n  Zapatillas para Mujer  Morado  Madder KP   38 EU'
 actualPrice: 21.87 EUR
 currency: EUR
 price: 21.87

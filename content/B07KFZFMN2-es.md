@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hc1lVXipL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZFMN2-es'
+slug: 'B07KFZFMN2-es PUMA King Pro FG  Zapatillas de fútbol Unisex Adulto  Negro Black White  38.5 EU'
 actualPrice: 38.68 EUR
 currency: EUR
 price: 38.68

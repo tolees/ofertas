@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XgSV2nsGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00007JQQP-es'
+slug: 'B00007JQQP-es Classic Color Pack Crayons  96 Colors/Box'
 actualPrice: 10.35 EUR
 currency: EUR
 price: 10.35

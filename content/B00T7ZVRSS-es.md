@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61BQF9wUfpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T7ZVRSS-es'
+slug: 'B00T7ZVRSS-es Des Nems Sauce Grabuge'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

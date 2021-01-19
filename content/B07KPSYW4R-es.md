@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51A+prC+1PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPSYW4R-es'
+slug: 'B07KPSYW4R-es Pop! Vinilo: Spider-Man Far from Home: Molten Man'
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

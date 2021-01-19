@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BixxsFE0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYVF3SN-es'
+slug: 'B07XYVF3SN-es Lavibelle - Zapatillas de Deporte Unisex Ligeras  de Malla  para Gimnasio  Correr  Color Negro  Talla 43 EU'
 actualPrice: 34.06 EUR
 currency: EUR
 price: 34.06

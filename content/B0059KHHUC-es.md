@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-fkvWo1rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0059KHHUC-es'
+slug: 'B0059KHHUC-es NIKE Men s Cortez Basic Leather Shoe  Zapatillas para Hombre  Multicolor  Black/White/Metallic Silver 12   42.5 EU'
 actualPrice: 59.36 EUR
 currency: EUR
 price: 59.36

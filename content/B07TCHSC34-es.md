@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mvpdk70AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCHSC34-es'
+slug: 'B07TCHSC34-es Buff Karlin Mardi Grape Tubular Polar  Mujer  Talla única'
 actualPrice: 16.77 EUR
 currency: EUR
 price: 16.77

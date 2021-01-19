@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ec7YiHnNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCY8GG3-es'
+slug: 'B07YCY8GG3-es LIGE Relojes para Hombre Acero Inoxidable Impermeable Analógico Cuarzo Reloj Negocios Cronógrafo Moon Phase Reloj de Pulsera'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

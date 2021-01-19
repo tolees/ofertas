@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vvNjQqXkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZXRB2Z-es'
+slug: 'B07BZXRB2Z-es Fleet & Foster - Zapatillas Deportivas Canary Summer para Mujer señora  39 EU   Gris '
 actualPrice: 22.2 EUR
 currency: EUR
 price: 22.2

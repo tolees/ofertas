@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IrgesH-xL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IX0OVNK-es'
+slug: 'B01IX0OVNK-es Triumph Modern Posy W  Sujetador para Mujer  Beige  Neutral Beige EP   110D'
 actualPrice: 20.71 EUR
 currency: EUR
 price: 20.71

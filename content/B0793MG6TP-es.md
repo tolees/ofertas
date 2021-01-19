@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417d2C1NZUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793MG6TP-es'
+slug: 'B0793MG6TP-es Vikenner 6 Pcs Mini Macaron Jewelry Storage Box Pill Organizer Storage SD Card Case Earring Necklace Container for Wedding Party Travel - Random Color'
 actualPrice: 0.57 EUR
 currency: EUR
 price: 0.57

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NORvJv-OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H1FKNAY-es'
+slug: 'B00H1FKNAY-es Cayro - Tablero Parchís 4-6 con Accesorios  40 x 40 cm  T134/A '
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

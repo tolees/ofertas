@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S7pjyDTOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X95QGZJ-es'
+slug: 'B06X95QGZJ-es DOBEN - Barra de dominadas Profesional  telescópica  para Puerta  con Almohadilla para Las Manos  Color Verde  tamaño 60-100CM  23.62 x 1.97 x 1.97inches'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

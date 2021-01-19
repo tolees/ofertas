@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417rjeIXsrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ISWTC5G-es'
+slug: 'B00ISWTC5G-es Asics Gel-Hockey Neo 3 Hockey Zapatillas - 43.5'
 actualPrice: 34.79 EUR
 currency: EUR
 price: 34.79

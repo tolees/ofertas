@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41annAtxzsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6NRQJM-es'
+slug: 'B07K6NRQJM-es Columbia Snuggly Bunny Mono de esquí infantil  Niña  Rosa con estampado  Pink Ice Grape Gum Reindeer   Talla: L'
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

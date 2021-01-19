@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412lnLB6KVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLWZRBG-es'
+slug: 'B07WLWZRBG-es UGREEN Cable USB C a USB C  Cable PD 60W 20V / 3A Carga Rápida USB Tipo C a USB Tipo C PowerDelivery Compatible con MacBook Pro  iPad Pro 2018  Samsung S20 S9  Huawei P30  P20 Mate 30'
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

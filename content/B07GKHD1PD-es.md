@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514TgOV6UyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKHD1PD-es'
+slug: 'B07GKHD1PD-es LexonElec Teclado mecánico para juegos de una sola mano K109 Cableado 38 teclas Teclado mixto USB retroiluminado Multimedia Teclado ergonómico Gamer con una mano con reposamuñecas para PC portátil'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

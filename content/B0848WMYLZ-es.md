@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ul5Uyka0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0848WMYLZ-es'
+slug: 'B0848WMYLZ-es Goldyqin M.2 NVME Mobile Hard Disk Box USB3.0 SSD Metal Solid State Disk Box Type-c Hard Disk Box Ssd Mobile Black para M280T - Negro'
 actualPrice: 26.97 EUR
 currency: EUR
 price: 26.97

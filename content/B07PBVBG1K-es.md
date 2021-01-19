@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zg2LSxXRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBVBG1K-es'
+slug: 'B07PBVBG1K-es UglyDolls: Una Aventura Imperfecta'
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

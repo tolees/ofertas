@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LnORf8U6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG3YXR8-es'
+slug: 'B07HG3YXR8-es Tahe Fitoxil Forte Plus Tratamiento Anticaída del Cabello para Cabellos Castigados con Proteínas de Soja  Aminoácidos  Biotina  Arginina y Células Madre Vegetales Activas  6 x 10 ml'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

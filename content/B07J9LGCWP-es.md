@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/312udNo7b2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J9LGCWP-es'
+slug: 'B07J9LGCWP-es Skechers Side Street-Sunset Walks  Zapatillas para Mujer  Blanco  White Wht   37 EU'
 actualPrice: 28.4 EUR
 currency: EUR
 price: 28.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cZojPzsCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TY1GHD8-es'
+slug: 'B07TY1GHD8-es Women s Secret Feminine 1 Guipur Lace Berry Sujetador con Push-up  Multicolor  Gama Rosas/Morados 71   85  Tamaño del Fabricante: 85B  para Mujer'
 actualPrice: 11.77 EUR
 currency: EUR
 price: 11.77

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31u6bxHgJpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPVSJFG-es'
+slug: 'B07SPVSJFG-es Funko- Pop Marvel: 80th-First Appearance: Black Widow Collectible Figure  Multicolor  44502 '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

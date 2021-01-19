@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5101jZnY8ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086Z2MMN9-es'
+slug: 'B086Z2MMN9-es 1pcs electrodomésticos de Cocina de Acero Inoxidable Filtro de alcantarilla tapón de desechos de Alambre de púas/Drenaje de Piso El colador del Fregadero Evita la obstrucción - Blanco'
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

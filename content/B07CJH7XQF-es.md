@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x1dXHDXgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJH7XQF-es'
+slug: 'B07CJH7XQF-es Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero MK8636'
 actualPrice: 115.53 EUR
 currency: EUR
 price: 115.53

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ffzsi5taL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HSEV8B6-es'
+slug: 'B00HSEV8B6-es Leifheit Pegasus 200 Solid Comfort - Tendedero con alas de plástico  95x66.5x6 cm  Color Azul y Blanco'
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

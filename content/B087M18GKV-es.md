@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vuc7GKhwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087M18GKV-es'
+slug: 'B087M18GKV-es KUPVALON Adaptador inalámbrico de Pantalla WiFi Dongle 1080P HDMI Medios para Compartir Video de 2.4GHz Dongle Receptor Miracast DLNA Airplay para iOS/Android/Mac/Window/TV/Monitor/Proyector/Netflix'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

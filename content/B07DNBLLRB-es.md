@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lB3Z4nBxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNBLLRB-es'
+slug: 'B07DNBLLRB-es DB15 Adaptador de conector de 15 pines adaptador de puerto a conector de terminal módulo de señal con funda Female Connector With Nut'
 actualPrice: 6.37 EUR
 currency: EUR
 price: 6.37

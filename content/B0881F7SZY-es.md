@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511CMN-vAzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0881F7SZY-es'
+slug: 'B0881F7SZY-es T.face Huevos furtivos de Silicona  Egg Cooker Tazas de Huevos escalfados antiadherentes  Huevo furtivo para microondas  Tazas de Huevo furtivo de Silicona sin BPA （4 Paquetes）'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

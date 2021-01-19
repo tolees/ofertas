@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M3PKCbhkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0837QZJG4-es'
+slug: 'B0837QZJG4-es Auriculares Bluetooth Auriculares inalámbricos Mini TWS estéreo in-Ear Sports con Caja de Carga portátil de 950mAh y micrófono HD  Compatible con iPhone Samsung y Otros Teléfonos Inteligentes'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

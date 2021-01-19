@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k6AhnQXCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VN6YK1-es'
+slug: 'B077VN6YK1-es Victoria Basket Lona Dos Velcros  Zapatillas Unisex Niños  Gris  Zinc   22 EU'
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IU-MQ6uwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073BLPBNT-es'
+slug: 'B073BLPBNT-es Fornarina BE17T524F42990 Top Mujeres Gris Xl'
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21fdzc23ZuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RE3OMK-es'
+slug: 'B000RE3OMK-es Brabantia 214585 Barra para Colgar los Utensilios de Cocina  Acero Inoxidable  Gris y Negro  0 cm'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

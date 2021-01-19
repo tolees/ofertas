@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yl4eosTlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNTLHTT-es'
+slug: 'B07ZNTLHTT-es Suhctup Funda Compatible para Huawei P20 Pro Carcasa con Absorción de Choque Flexible y Duradera Silicona Fundas Caso Carcasas Transparente Protectora Oro '
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

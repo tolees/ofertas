@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/2125XwuXfyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077C7HV1Y-es'
+slug: 'B077C7HV1Y-es Converse Taylor Chuck 70 Hi  Sneaker Unisex-Adult  White/Garnet/Egret  41 EU'
 actualPrice: 43.85 EUR
 currency: EUR
 price: 43.85

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31M9FtRgnBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR9JP9P-es'
+slug: 'B07MR9JP9P-es Lee Luke Jeans  Moto Grey Hga  29W / 30L para Hombre'
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

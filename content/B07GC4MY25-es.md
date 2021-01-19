@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ReWJZRkAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GC4MY25-es'
+slug: 'B07GC4MY25-es TECCPO Cortabordes  18V 2.0Ah Cortacésped sin Cable  2X Bobina  Ancho de Corte 30cm  Cabezal de Corte Giratorio a 90 °  Dos Mango y Mango Telescópico  Función de Recorte de Borde - TDLT02G'
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

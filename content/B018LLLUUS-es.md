@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cq7-nz3YL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018LLLUUS-es'
+slug: 'B018LLLUUS-es Tommy Hilfiger New Aly Belt  Cinturón Hombre  Marrón  TESTA DI MORO-EUR   95 UK '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

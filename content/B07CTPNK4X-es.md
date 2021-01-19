@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kqCzdE9jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTPNK4X-es'
+slug: 'B07CTPNK4X-es FIND - Glossy Charm  Líquido de labios mate n.5 + Brillo de labios n.5 '
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ElB41EHAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFCHLLN-es'
+slug: 'B07NFCHLLN-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en Resina LRW-200H-9EVEF'
 actualPrice: 23.78 EUR
 currency: EUR
 price: 23.78

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Oq9mrTuTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9PGMBR-es'
+slug: 'B07B9PGMBR-es Adaptador de enchufe macho RCA a terminal AV hembra de 2 tornillos para altavoz  adaptador de CC balun de tipo pinza para audio y vídeo y conector de potencia para CCTV RCA Male To AV 2 Screw Female'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

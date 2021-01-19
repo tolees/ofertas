@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vv+QEPqEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WN1KZKB-es'
+slug: 'B07WN1KZKB-es flintronic Bomba de Aceite con Clip  Bomba de Agua diésel de Combustible  Bomba de Agua  Bomba Sumergible  Aceite Diésel  Bomba Sumergible de Agua de 12 V  38 mm  para Coche  Caravana  Barco Marino'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

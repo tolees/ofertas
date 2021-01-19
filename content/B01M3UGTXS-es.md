@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gseP8gNpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3UGTXS-es'
+slug: 'B01M3UGTXS-es Wissper Wissper-9358495 Muñeca  Simba 9358495 '
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

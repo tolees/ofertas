@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31z%2B97BYAUL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0733FDCLL-es'
+slug: 'B0733FDCLL-es find. Pantalones Estilo  Jogger  de Tacto Suave para Hombre  Gris  Light Grey Marl    Talla del fabricante: Large '
 actualPrice: 11 EUR
 currency: EUR
 price: 11

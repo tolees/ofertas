@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F+Ira1k9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B0YT0E6-es'
+slug: 'B01B0YT0E6-es Russell Hobbs Textures  -  Hervidor de Agua Eléctrico  2400 W  1.7 L  Plástico Alto Brillo  sin BPA  Negro  ref. 22591-70'
 actualPrice: 23.86 EUR
 currency: EUR
 price: 23.86

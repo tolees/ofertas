@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qS1Pqp+YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BWP85RW-es'
+slug: 'B00BWP85RW-es WMF PermaDur Premium - Sartén  Aluminio Fundido  Inducción  20 cm'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

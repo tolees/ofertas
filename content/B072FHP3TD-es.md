@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g1Sx3KwYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072FHP3TD-es'
+slug: 'B072FHP3TD-es IBRA - 2m Cable de Antena HDTV Premium | Cable coaxial HDTV/Full HD | coaxial Macho en coaxial Hembra | UHF/RF/TDT | contactos Dorados | Azul'
 actualPrice: 7.73 EUR
 currency: EUR
 price: 7.73

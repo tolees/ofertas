@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HP3O-OmUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EYLCRCO-es'
+slug: 'B01EYLCRCO-es Presto 570 23970 Griferia Temporizada. Lavabo mezclador pedal'
 actualPrice: 112.67 EUR
 currency: EUR
 price: 112.67

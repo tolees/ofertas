@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wJfdQdH9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDGCBR1-es'
+slug: 'B07BDGCBR1-es i-baby Protector Cuna Chichonera de Cuna y Cama para Bebé Cabeza 200cm Cojín de Barandillas Unicornio Rosa 3D Dibujos Animados  Unicorn '
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

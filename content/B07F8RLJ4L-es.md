@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AJtmN1W3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8RLJ4L-es'
+slug: 'B07F8RLJ4L-es Samsung Led View - Funda para Galaxy Note 9  color lavanda púrpura  lavanda - Version española'
 actualPrice: 15.43 EUR
 currency: EUR
 price: 15.43

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315Rj0glTjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZP7FTW-es'
+slug: 'B07MZP7FTW-es Gioseppo 56139  Botas Clasicas para Niños  Negro  Negro Negro   30 EU'
 actualPrice: 15.38 EUR
 currency: EUR
 price: 15.38

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417qaaaIOKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J5FFW9Y-es'
+slug: 'B01J5FFW9Y-es Philips Daily HD2637/90 - Tostador 950 W  Doble Ranura  Color Negro  Inox'
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

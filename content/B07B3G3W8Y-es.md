@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FDMBpQcKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3G3W8Y-es'
+slug: 'B07B3G3W8Y-es Protector de Colchón Impermeable para Cuna Cuna 70 x 160 cm - Cubre Colchón Transpirable  Hipoalergénico  Anti-bacteriano  Anti-acaros - Tratamiento para Optima Proteccion - Garantia de 15 años'
 actualPrice: 13.09 EUR
 currency: EUR
 price: 13.09

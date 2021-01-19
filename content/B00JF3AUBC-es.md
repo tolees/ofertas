@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cvkhFdq4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JF3AUBC-es'
+slug: 'B00JF3AUBC-es Embutidos Ezequiel  Chorizo Picante Herradura  500 gramos'
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

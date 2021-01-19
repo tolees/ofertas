@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XVrTdLAOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG4NQCT-es'
+slug: 'B07HG4NQCT-es New Balance Cm997hv1  Zapatillas para Hombre  Gris  Grey Grey   43 EU'
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

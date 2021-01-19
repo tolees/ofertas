@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/315nri%2B7hNL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JD1MT-es'
+slug: 'B07N1JD1MT-es Clarks Un Maui Lace  Zapatillas para Mujer  Azul  Navy Leather Navy Leather   39 EU'
 actualPrice: 30.91 EUR
 currency: EUR
 price: 30.91

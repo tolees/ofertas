@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31j5Gg-94UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0079JJKUG-es'
+slug: 'B0079JJKUG-es BRA Cazo 16cm Efficient Orange  Aluminio Fundido  Naranja  16 cm'
 actualPrice: 25.7 EUR
 currency: EUR
 price: 25.7

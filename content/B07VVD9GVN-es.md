@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Woh98pzZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVD9GVN-es'
+slug: 'B07VVD9GVN-es PIKOLINOS Sandalia Plana de Piel MARAZUL W3F'
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

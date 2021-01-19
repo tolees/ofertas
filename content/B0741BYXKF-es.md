@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51woHl5C0WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0741BYXKF-es'
+slug: 'B0741BYXKF-es Haribo Ladrillo Helado - 1750 gr'
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

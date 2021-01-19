@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21yiZF2WgJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGHDL7M-es'
+slug: 'B07VGHDL7M-es Xiaomi Mi Windows and Doors Sensor'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

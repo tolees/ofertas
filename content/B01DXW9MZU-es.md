@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R3HkFWPQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DXW9MZU-es'
+slug: 'B01DXW9MZU-es habitatetjardin Comedor de jardín en textileno Cordoba - Phoenix - Negro'
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

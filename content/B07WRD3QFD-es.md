@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z7-T7vxAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRD3QFD-es'
+slug: 'B07WRD3QFD-es Vicloon Tarjetas de Felicitación  Tarjeta de San Valentín con Sobre  Tarjeta de Felicitación Pop Up 3D  Tarjeta de Felicitación de Boda e Invitación  Rosa Sakura Romántica Tarjeta Cumpleaños'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

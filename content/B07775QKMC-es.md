@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m9mC8tAsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07775QKMC-es'
+slug: 'B07775QKMC-es Tommy Jeans Hombre Original  Ryan-DM0DM03947 Jeans  Azul  Berry Light BLUE COMFORT 911   W27/L30'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

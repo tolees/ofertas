@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31V6Sc4V8TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072PTRBY1-es'
+slug: 'B072PTRBY1-es Manchester City FC - Pulsera de silicona oficial de v  Talla Única   Azul claro '
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

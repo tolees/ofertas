@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513-fW88iQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSPVVDR-es'
+slug: 'B07BSPVVDR-es PowerBar Protein Plus 52% Chocolate Nut 20x50g - Barras de Proteína con Bajo Contenido de Azúcar'
 actualPrice: 27.89 EUR
 currency: EUR
 price: 27.89

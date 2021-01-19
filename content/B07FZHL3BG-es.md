@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MlTSUe9GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FZHL3BG-es'
+slug: 'B07FZHL3BG-es RIIQIICHY Cachemira Invierno Bufanda Pashmina Chal Mantón para Mujeres Beige Más Grueso Cálida Grande Larga Manta'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rWAhuUMUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DY5Y6L2-es'
+slug: 'B07DY5Y6L2-es Orient Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable FEU0A003WH'
 actualPrice: 162.0 EUR
 currency: EUR
 price: 162.0

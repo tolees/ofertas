@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KHtWdKrGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CQX2NWG-es'
+slug: 'B01CQX2NWG-es Rowenta Infini Pro Elite CV8732 Negro 2200 W - Secador de pelo  Keratin & Shine  Corriente alterna  Negro  Con agujero en la empuñadura para colgar  1 8 m  2200 W '
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

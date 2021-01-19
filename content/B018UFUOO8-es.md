@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qY8UXQd9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018UFUOO8-es'
+slug: 'B018UFUOO8-es Quid Temis - Sartén De Aluminio  18 Cm  Antiadherente'
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

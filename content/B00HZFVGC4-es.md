@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jYJW1xxLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HZFVGC4-es'
+slug: 'B00HZFVGC4-es SHIMANO Adaptador SM-RTAD05 Center-Lock / 6 Agujeros 2016 Accesorios Frenos de Disco'
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

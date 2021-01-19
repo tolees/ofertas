@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-UkiCrbkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKS3JQC-es'
+slug: 'B07CKS3JQC-es KOOOPER Mapa del Mundo  Mapa Mural para Rascar del Mundo 255*165mm y 180*130mm - País  las Ciudades que Visitó - para Viajeros/Exploradores/Coleccionistas  etc - Con Pegatinas + Herramienta de Rayado'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

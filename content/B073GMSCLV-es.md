@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a8a+X8k5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073GMSCLV-es'
+slug: 'B073GMSCLV-es Lysport Cámara Web De 1080P HD Webcam con Micrófono Incorporado para Cualquier Computadora Portátil y De Escritorio'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

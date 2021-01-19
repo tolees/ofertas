@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jAuxmtyIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LBRKJS-es'
+slug: 'B004LBRKJS-es Vans Atwood  Zapatillas Unisex Niños  Negro  Black/Black 186   31 EU'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

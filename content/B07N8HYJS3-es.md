@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41efNuYvEpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8HYJS3-es'
+slug: 'B07N8HYJS3-es Dim Soutien-Gorge Avec Armatures SUBLIM Dentelle Sujetador con Aros  Morado  Violet Précieux 8os   85C para Mujer'
 actualPrice: 12 EUR
 currency: EUR
 price: 12

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R+dl68lML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FWCYE9I-es'
+slug: 'B01FWCYE9I-es Caja organizadora Ivosmart con 24 secciones de terciopelo y tapa de vidrio para guardar joyas  con exhibidor de anillos o bandeja para aretes.  cartón  Gris  24 Section  Grey '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

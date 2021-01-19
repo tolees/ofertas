@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GyMVgAWzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YG3M3R4-es'
+slug: 'B07YG3M3R4-es Videocámara Videocamara Full HD 18X Zoom Digital Camara de Video de Visión Nocturna con LCD y Pantalla de Rotación de 270 Grados con Control Remoto'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

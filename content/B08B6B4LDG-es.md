@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H1v6XzkOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B6B4LDG-es'
+slug: 'B08B6B4LDG-es Uso duradero 100 mm Disco de pulido de diamante de 4 pulgadas Disco de copa de concreto Herramienta de piedra de mampostería de concreto Forma de tazón Piedra de pulir verde'
 actualPrice: 9.35 EUR
 currency: EUR
 price: 9.35

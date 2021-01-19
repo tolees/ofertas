@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-ENAovaUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXKNXH5-es'
+slug: 'B07TXKNXH5-es 4 en 1 4 x 1 DiSEqc Interruptor de Banda Ancha de 4 vías DS-04C Alto Aislamiento Conectar 4 Antenas parabólicas 4 LNB para Receptor de satélite - Plateado'
 actualPrice: 0.33 EUR
 currency: EUR
 price: 0.33

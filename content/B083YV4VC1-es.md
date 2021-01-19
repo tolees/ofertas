@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uuu6KcFOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083YV4VC1-es'
+slug: 'B083YV4VC1-es Sujeciones de cable de nylon autoblocantes Manejo de cables Almacenamiento de cables Sujeción de cables Arnés de cables Sujetacables de cable 100 piezas-Negro-S'
 actualPrice: 3.37 EUR
 currency: EUR
 price: 3.37

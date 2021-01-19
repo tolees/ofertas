@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qLEL2OM8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087ZMJYTH-es'
+slug: 'B087ZMJYTH-es TTMOW Bandas Elásticas Musculacion Bandas de Resistencia de Tela Antideslizantes con 3 Niveles Cintas Elásticas para Yoga  Pilates  Glúteos  Caderas  Piernas  Brazos  Fitness  Crossfit  Mujer y Hombre'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

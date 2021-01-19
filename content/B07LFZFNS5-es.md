@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HKhF7xcEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZFNS5-es'
+slug: 'B07LFZFNS5-es Clip de retención de banda elástica 4 x 20 cm Sujetadores de sábana Manteles de casa Clip fijo Mantas portátiles Abrazadera'
 actualPrice: 3.21 EUR
 currency: EUR
 price: 3.21

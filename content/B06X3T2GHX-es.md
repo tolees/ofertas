@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516Gr4PqpVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X3T2GHX-es'
+slug: 'B06X3T2GHX-es REGALPRIX Alfombrilla para ratón Personalizada con tu Foto en Forma Rectangular'
 actualPrice: 6.41 EUR
 currency: EUR
 price: 6.41

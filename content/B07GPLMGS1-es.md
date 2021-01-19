@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T8cyxalZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPLMGS1-es'
+slug: 'B07GPLMGS1-es Skechers Status 2.0 Lorano  Náuticos para Hombre  Negro  Black Canvas Black   45 EU'
 actualPrice: 45.47 EUR
 currency: EUR
 price: 45.47

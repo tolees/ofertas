@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HC0N0Lq2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L8CTW44-es'
+slug: 'B00L8CTW44-es Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Lady Luck '
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

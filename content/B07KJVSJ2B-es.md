@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415oIG9HoIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJVSJ2B-es'
+slug: 'B07KJVSJ2B-es Columbia Conspiracy V Outdry  Zapatillas de Senderismo para Mujer  Gris  Monument  Black 036   41 EU'
 actualPrice: 33.74 EUR
 currency: EUR
 price: 33.74

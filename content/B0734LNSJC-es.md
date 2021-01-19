@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51M0RgjbCKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0734LNSJC-es'
+slug: 'B0734LNSJC-es TAZA CERAMICA 325 ML CON CAJA | BATMAN LOGO'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

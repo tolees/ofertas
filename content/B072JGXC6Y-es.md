@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HAUf8b7sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JGXC6Y-es'
+slug: 'B072JGXC6Y-es Panasonic Lumix DC-GH5L - Cámara EVIL de 20.3 MP  Pantalla de 3.2"  Visor OLED  Estabilizador Dual I.S. 2 5 Ejes  4K  Wi-Fi  Bluetooth  Kit con Objetivo Panasonic LEICA 12 - 60 mm/F2.8-F4'
 actualPrice: 1532.97 EUR
 currency: EUR
 price: 1532.97

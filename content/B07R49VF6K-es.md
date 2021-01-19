@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JRtBFvyEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R49VF6K-es'
+slug: 'B07R49VF6K-es LOL Surprise Pijamas de Manga Corta para niñas Dolls Multicolor 5-6 Años'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

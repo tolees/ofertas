@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uS5yF5uXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007XDYKP8-es'
+slug: 'B007XDYKP8-es Targus Classic+ - Maleta de 17-18"  color negro'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

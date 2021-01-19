@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qn+-8ZkFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FD1TVM2-es'
+slug: 'B07FD1TVM2-es Adidas Lite Racer Cln K  Zapatillas de deporte Unisex niños  Negro  Negbás/Gridos/Ftwbla 000   33 EU'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

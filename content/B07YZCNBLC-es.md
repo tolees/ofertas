@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418I4Q2833L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZCNBLC-es'
+slug: 'B07YZCNBLC-es PRIXTON - Robot Aspirador Fregasuelos Barre y Friega/Aspirador Robot con WiFi y App para Móvil  Realiza Rutas Inteligentes  Función 4 en 1: Barre  Friega  Aspira  Pasa la Mopa | Spire 916'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

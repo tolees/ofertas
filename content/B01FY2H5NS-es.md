@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311NxClMteL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FY2H5NS-es'
+slug: 'B01FY2H5NS-es Green2Print Tóner Magenta 4000 páginas sustituye a Lexmark 80C0X30  800X3  80C2XM0  802XM  80C2XME  802XME Tóner Apto para la Lexmark CX510DE  CX510DHE  CX510DTHE'
 actualPrice: 61.44 EUR
 currency: EUR
 price: 61.44

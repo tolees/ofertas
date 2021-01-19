@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eq2XHpY1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMTL5W2-es'
+slug: 'B07PMTL5W2-es Under Armour Victory Tanque  Mujer  Negro  SM'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

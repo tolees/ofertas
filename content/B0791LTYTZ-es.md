@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dL4N7cAoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0791LTYTZ-es'
+slug: 'B0791LTYTZ-es 8safe Protector de Alta Calidad para Asiento de Coche  PACK x 2  | Antideslizante y Resistente | ISOFIX Compatible | Material Oxford 600D | Tamaño ideal para Turismos/SUV'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

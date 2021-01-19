@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rF6tkt9BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M63RZXI-es'
+slug: 'B01M63RZXI-es TAMPAX Superplus Tampones - 30 Unidades'
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

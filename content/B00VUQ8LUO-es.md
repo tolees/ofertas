@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VUQ8LUO-es'
+slug: 'B00VUQ8LUO-es Kappa Trust Footwear  Zapatillas Unisex Adulto  Negro-Schwarz  1110 Black/White   41 EU'
 actualPrice: 19.28 EUR
 currency: EUR
 price: 19.28

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51txQ8onSqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ML5H3X3-es'
+slug: 'B07ML5H3X3-es Gratlin Cinturón de Maternidad Embarazada y Extensor de Cintura Sin Costura Negro M'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

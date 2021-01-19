@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KVhxTS3dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0AS4GN-es'
+slug: 'B01M0AS4GN-es Caja de Joyería Forma de Corazón Anillos Plásticos Rosada Chica Presente Niños - 12pcs #3'
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

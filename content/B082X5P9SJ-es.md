@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514-4UYF1WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082X5P9SJ-es'
+slug: 'B082X5P9SJ-es 2 piezas Protecciones para bordes y esquinas Protecciones de esquina de seguridad de 4 metros  15 mm de grosor ensanchado Protección transparente de bordes para niños  bebés  niños'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

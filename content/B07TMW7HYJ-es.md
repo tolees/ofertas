@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31d2ev4Re4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMW7HYJ-es'
+slug: 'B07TMW7HYJ-es Clarks Tri Amelia Bar  Zapatillas sin Cordones para Mujer  Beige  Black Mesh Black Mesh   36 EU'
 actualPrice: 33.6 EUR
 currency: EUR
 price: 33.6

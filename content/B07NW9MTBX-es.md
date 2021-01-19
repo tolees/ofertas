@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KFrl7zBVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW9MTBX-es'
+slug: 'B07NW9MTBX-es Skechers Women s Solar Fuse-Brisk Escape Trainers  Grey  Gray Knit Mesh/Black  Pink & Mint Trim Gymt   6.5  39.5 EU '
 actualPrice: 47.89 EUR
 currency: EUR
 price: 47.89

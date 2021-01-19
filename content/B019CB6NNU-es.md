@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OIEnlIScL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019CB6NNU-es'
+slug: 'B019CB6NNU-es AMANDIN Caldo de Verduras - Paquete de 6 x 1000 ml - Total: 6000 ml'
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

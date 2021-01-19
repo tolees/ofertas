@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31edWsRhaQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZRRN73-es'
+slug: 'B086ZRRN73-es B Blesiya Mini Adaptador De Audio Inalámbrico Portátil Transmisor USB Dongle Receptor para'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

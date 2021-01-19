@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51k-zIDQGTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NYQZ83R-es'
+slug: 'B07NYQZ83R-es San Ignacio Professional Chef Copper Cocina  Set 3 sartenes + 4 cuchillos + 3 utensilios'
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

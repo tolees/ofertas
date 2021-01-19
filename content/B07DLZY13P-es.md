@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ykEGe6B+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLZY13P-es'
+slug: 'B07DLZY13P-es L Oréal Infalible 24 H Matte Cover Base De Maquillaje Alta Cobertura Mate Piel Clara Subtono Dorado 200 Sable Doré 40 g'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

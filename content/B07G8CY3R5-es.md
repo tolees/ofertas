@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UdOz78vdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G8CY3R5-es'
+slug: 'B07G8CY3R5-es New Balance FuelCell Propel  Zapatillas de Running para Mujer  Negro  Black Black   37 EU'
 actualPrice: 47.16 EUR
 currency: EUR
 price: 47.16

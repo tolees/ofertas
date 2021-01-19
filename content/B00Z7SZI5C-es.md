@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WB1Ed884L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z7SZI5C-es'
+slug: 'B00Z7SZI5C-es LifeProof Fre - Funda estanca y Anti caídas para Apple iPhone SE/5/5S  Color Negro'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

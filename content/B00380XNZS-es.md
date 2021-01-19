@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UtmoF+H4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00380XNZS-es'
+slug: 'B00380XNZS-es Panasonic ER-1411 - Cortapelos profesional  Versión Importada '
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

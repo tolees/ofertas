@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41RR2kayRoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076KVC9LN-es'
+slug: 'B076KVC9LN-es VAUDE Silk Road L  I de Rack  Cilindro de Bolsillos  Black  One Size'
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51K85OAfjVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNHMK47-es'
+slug: 'B07WNHMK47-es BEENLE Soporte Movil Coche  2 In 1 Universal 360 Grados Rotación Porta Movil Coche para Rejillas del Aire de Coche Xiaomi Mi 9 Mi 8 Redmi Note 7 iPhone XR XS MAX X 8 7 6 Samsung S10 S9 Huawei P20'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4190qWlg3TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N53YUOX-es'
+slug: 'B01N53YUOX-es Vans Ward Suede/Canvas  Zapatillas Unisex Niños  Negro   Suede/Canvas  Black/White Iju  27.5 EU'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

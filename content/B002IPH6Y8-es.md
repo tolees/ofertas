@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51s55AwXXbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002IPH6Y8-es'
+slug: 'B002IPH6Y8-es Total Effects 7 en 1 BB Cream de Olay 7-en-1 Cutis Base SPF 15 - 50ml Light'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r9iCHvpzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5TLV7J-es'
+slug: 'B07P5TLV7J-es American Tourister Jetglam Spinner M Expandible Maleta  67 cm  77.5 L  Negro  Metallic Black '
 actualPrice: 72.13 EUR
 currency: EUR
 price: 72.13

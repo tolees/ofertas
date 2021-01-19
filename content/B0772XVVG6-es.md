@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xB5Kbf4ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772XVVG6-es'
+slug: 'B0772XVVG6-es Columbia Silver Ridge II Pantalones de Senderismo Convertible  Hombre  Marrón  Fossil   W40/L32'
 actualPrice: 19.82 EUR
 currency: EUR
 price: 19.82

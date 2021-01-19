@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fwHbwNEJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JH6NZR-es'
+slug: 'B072JH6NZR-es Under Armour UA Speedpocket Run Crop Leggings Capri  Mujer  Negro  Black/Black/Reflective 001   L'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

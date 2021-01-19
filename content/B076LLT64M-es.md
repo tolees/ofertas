@@ -6,7 +6,7 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076LLT64M-es'
+slug: 'B076LLT64M-es HomCom Lámpara de Pie Moderna con 2 Luces E27 40W y Pulsador de Pie con Base de Acero Inoxidable 120cm - Color Blanco'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

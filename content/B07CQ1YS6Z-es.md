@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SmlWzDxWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQ1YS6Z-es'
+slug: 'B07CQ1YS6Z-es Lee Daren Zip Fly Jeans  Azul  Time out Dn   33W / 32L para Hombre'
 actualPrice: 41.49 EUR
 currency: EUR
 price: 41.49

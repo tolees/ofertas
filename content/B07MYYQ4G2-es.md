@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Akr%2BioDtL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYYQ4G2-es'
+slug: 'B07MYYQ4G2-es Hieha Electroestimulador Muscular  Abdominales Masajeador Eléctrico Cinturón con USB  Estimulador Muscular Ejercitar Abdomen/Brazo/Piernas/Cintura para Hombre Mujer  Azul '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

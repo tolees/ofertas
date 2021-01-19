@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XonVL4b4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0177VSKLK-es'
+slug: 'B0177VSKLK-es La Pajarita 124237 Barniz Ultramate  175 ml'
 actualPrice: 8.62 EUR
 currency: EUR
 price: 8.62

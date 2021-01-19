@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FsjOX1IGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZP8R6Q-es'
+slug: 'B07RZP8R6Q-es Hcpet Quitapelos y Rodillos para Mascotas  Cepillo de Limpieza Removedor de Pelaje para Perro y Gato  Mágico Depilación Eliminador de Pelo para Animales'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513s5P0A1BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087CC77PB-es'
+slug: 'B087CC77PB-es Dungeons 3 - Complete Collection'
 actualPrice: 13.2 EUR
 currency: EUR
 price: 13.2

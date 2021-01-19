@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hjfVmYMdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPY4N9N-es'
+slug: 'B07RPY4N9N-es XJD Patinete Tres 3 Ruedas para Niños de 2 a 10 Años Scooter Desmontable Manillar Ajustable con Cerradura de Dirección para Niñas Carga Máxima 50kg'
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G8vEkWJ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1JB3MI-es'
+slug: 'B01M1JB3MI-es Foonii Pack de 4 Luces LED Sensores de Movimiento Sensor Automático Luces Nocturnas adecuado para de Escaleras Pasillos Armario Cocina etc Batería Impulsado[Clase de eficiencia energética A+]'
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

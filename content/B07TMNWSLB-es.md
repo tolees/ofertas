@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BnvPB1N-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMNWSLB-es'
+slug: 'B07TMNWSLB-es Superdry VL Stitch Sequin Entry Hood Capucha  Gris  Grey Marl 07q   XS  Talla del Fabricante:8  para Mujer'
 actualPrice: 35.01 EUR
 currency: EUR
 price: 35.01

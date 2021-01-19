@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uHuMYidrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTGNXDV-es'
+slug: 'B07MTGNXDV-es Multímetro Digital Profesional  LOMVUM T28C Manual Rango Polimetro Digital 6000 Cuentas y 2000uF Tester Digital'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

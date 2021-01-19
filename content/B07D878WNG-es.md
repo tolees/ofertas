@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419tvLtzTGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D878WNG-es'
+slug: 'B07D878WNG-es SELECTED HOMME Slhslim-Arval Med.Blue Mix Pants W Pantalones  Azul  Medium Blue Denim Medium Blue Denim   44/L32  Talla del Fabricante: 31  para Hombre'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

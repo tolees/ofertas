@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316-7FMmv1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B1BXP2-es'
+slug: 'B081B1BXP2-es Fidech Masajeador Portátil  10 Modos de Frecuencia  Silicona Suave  Por Favor  Elija el Entregado por Amazon'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

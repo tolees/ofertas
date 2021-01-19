@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QYBiCxigL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7QMEDW-es'
+slug: 'B01K7QMEDW-es La Estrella Café Molido de tueste natural  50%  y torrefacto  50%  - Paquete de 250 gr'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

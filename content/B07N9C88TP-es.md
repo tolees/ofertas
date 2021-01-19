@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AmyGsGWOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N9C88TP-es'
+slug: 'B07N9C88TP-es THE NORTH FACE M Storm Strike 2 WP  Botas de Senderismo para Hombre  Jarra marrón ébano Gris Gt5  39 EU'
 actualPrice: 42.8 EUR
 currency: EUR
 price: 42.8

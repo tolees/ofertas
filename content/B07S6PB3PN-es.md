@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310-9eMIzjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6PB3PN-es'
+slug: 'B07S6PB3PN-es PUMA X-Ray  Zapatillas Unisex-Adulto  Blanco White/Gray Violet  41 EU'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

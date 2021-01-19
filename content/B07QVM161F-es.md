@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UknhSOCaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVM161F-es'
+slug: 'B07QVM161F-es Under Armour Men s Official Tour 3.0 Gorra  Hombre  Gris  XL/XXL'
 actualPrice: 12.61 EUR
 currency: EUR
 price: 12.61

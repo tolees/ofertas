@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310lncnOSsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPWGVCB-es'
+slug: 'B07ZPWGVCB-es NYZ - Auriculares inalámbricos con Bluetooth 5.0  Sonido estéreo 3D con micrófono y Funda de Carga  Color Blanco'
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

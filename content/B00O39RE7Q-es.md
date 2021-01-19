@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RpyyQEuOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O39RE7Q-es'
+slug: 'B00O39RE7Q-es Ramón Bilbao Vino Viñedos de Altura - 750 ml'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

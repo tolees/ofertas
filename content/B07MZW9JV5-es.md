@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mT5bF6NrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZW9JV5-es'
+slug: 'B07MZW9JV5-es EsportsMJJ Delantera Y Trasera De Goma De La Rueda Pegatina Reflectante Para Xiaomi Mijia M365 E-Scooter'
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

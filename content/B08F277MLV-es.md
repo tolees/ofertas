@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UQo7ZH-pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F277MLV-es'
+slug: 'B08F277MLV-es NKare - Dispensador de Jabón automático de Pie  1L  Sensor Infrarrojo  Material ABS  Higiénico  Cuidado Personal  Ideal para Oficina  Hospital  Hotel  Escuela  [Altura 136x85x39mm  Base 32m]'
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

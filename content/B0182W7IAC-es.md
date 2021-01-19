@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61eHp8jwsuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0182W7IAC-es'
+slug: 'B0182W7IAC-es Batman Gotham City  4D Cityscape '
 actualPrice: 49.68 EUR
 currency: EUR
 price: 49.68

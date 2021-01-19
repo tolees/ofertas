@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qFG1pcEaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TQT8RX-es'
+slug: 'B088TQT8RX-es N / A Pretyj Funda para ZTE Blade A3 2020 con 3 Piezas Cristal Templado Protector de Pantalla  Suave TPU Transparente Silicona Anti-Rasguño Protectora  para ZTE Blade A3 2020 Mapas '
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

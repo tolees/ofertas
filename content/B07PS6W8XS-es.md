@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e58gKMMxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS6W8XS-es'
+slug: 'B07PS6W8XS-es Under Armour Qualifier Speedpocket Roadside Runway Crop Legging  Mujer  Negro  XS'
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

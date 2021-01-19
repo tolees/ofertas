@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KfNJ8uQzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086RKZHBW-es'
+slug: 'B086RKZHBW-es Equipaje  Maletas y Bolsas de Viaje - Premium Designer Maleta Rígida Set 2 Piezas - Heys Artista Limon Under The Sun Equipaje de Mano + Trolley con 4 Ruedas Media'
 actualPrice: 459.91 EUR
 currency: EUR
 price: 459.91

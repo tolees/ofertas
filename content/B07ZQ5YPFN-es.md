@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RWLptvfBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZQ5YPFN-es'
+slug: 'B07ZQ5YPFN-es Mortlach 15 - Whisky escocés puro de malta  Edición Limitada Juego De Tronos: Seis Reinos   700 ml'
 actualPrice: 87.72 EUR
 currency: EUR
 price: 87.72

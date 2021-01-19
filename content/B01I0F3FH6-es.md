@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IFtqJLnIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I0F3FH6-es'
+slug: 'B01I0F3FH6-es RaceOne R1 Igloo 550cc Botella de Agua 550 ml  Unisex Adulto  Rojo'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

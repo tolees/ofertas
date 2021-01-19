@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oxRA3uaEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZZ3VF-es'
+slug: 'B07KFZZ3VF-es PUMA King Hero FG  Zapatillas de fútbol Unisex Adulto  Negro Black White  39 EU'
 actualPrice: 16.81 EUR
 currency: EUR
 price: 16.81

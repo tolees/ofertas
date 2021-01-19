@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xxACiNUxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLDSGT9-es'
+slug: 'B07JLDSGT9-es Glaray Camo Wrap Tape Cinta de Camuflaje Militar del ejército se aferran para Caza Cámping  Autoadhesivo Protector Stretch Vendaje Rodar  Tela no Tejida  15 pies x 2 Pulgadas  5 Piezas'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X3gQjOzvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3NJR1Y-es'
+slug: 'B07S3NJR1Y-es Giochi preziosi-DND05001 Frozen Busto Maquillaje y Peinados 26x26  Multicolor  DND05001 '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

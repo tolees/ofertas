@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51cgXz4YRnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HH1CSF-es'
+slug: 'B077HH1CSF-es find. MDR 40621 vestidos mujer  Azul  Blue   40  Talla del fabricante: Medium '
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

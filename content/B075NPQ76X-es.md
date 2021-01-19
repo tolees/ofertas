@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y+S61lvnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NPQ76X-es'
+slug: 'B075NPQ76X-es SunRace Csmz90 12s-11-50T Cassete 12 velocidades  Deportes y Aire Libre  Negro  11-50T'
 actualPrice: 90.45 EUR
 currency: EUR
 price: 90.45

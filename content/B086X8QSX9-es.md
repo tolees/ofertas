@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417tfwPUc9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086X8QSX9-es'
+slug: 'B086X8QSX9-es Batería Recargable LCD Multifuncional Adaptador de Carga rápida Salida Cargador de batería Herramienta de Carga de batería para AA/AAA - Blanco'
 actualPrice: 30.79 EUR
 currency: EUR
 price: 30.79

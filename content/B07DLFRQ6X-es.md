@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4159N6-qHzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLFRQ6X-es'
+slug: 'B07DLFRQ6X-es Nobleza – Alfombrilla refrescante para Mascotas Grandes. Auto refrigerante No tóxico. Ideal para para Perros  Gatos en Verano. 90 * 50 cm  Color Azul  L'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fqMjrp1BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H8PT55G-es'
+slug: 'B00H8PT55G-es Dickies New York Short  Pantalones Cortos de Deporte  Hombre  Multicolor  Camouflage   W34'
 actualPrice: 22.43 EUR
 currency: EUR
 price: 22.43

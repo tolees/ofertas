@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vdw104tkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078W1L8BY-es'
+slug: 'B078W1L8BY-es Vans ISO 1.5  Zapatillas Unisex Adulto  Azul  Mesh   36.5 EU'
 actualPrice: 30.57 EUR
 currency: EUR
 price: 30.57

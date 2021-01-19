@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bNEEaKFXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB8GV7J-es'
+slug: 'B07QB8GV7J-es PUMA Modern Sport Leggings Mallas Deporte  Mujer  Black  M'
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

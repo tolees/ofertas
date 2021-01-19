@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21iAigU9ttL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072K5PXL5-es'
+slug: 'B072K5PXL5-es Apple MacBook  de 12 pulgadas  Intel Core i5 de doble núcleo a 1 3 GHz  512GB  - Plata  Ultimo Modelo '
 actualPrice: 1199.0 EUR
 currency: EUR
 price: 1199.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YrgO5UwLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K68TBFH-es'
+slug: 'B07K68TBFH-es Multiherramienta de Alicates Multiusos 18 en 1，Herramienta Multifuncional para Actividades Exteriores/Camping/Senderismo/Caza/Pesca/Reparación diaria'
 actualPrice: 11.54 EUR
 currency: EUR
 price: 11.54

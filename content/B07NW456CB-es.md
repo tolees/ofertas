@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PrNDtdZnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW456CB-es'
+slug: 'B07NW456CB-es T-Shirt para Bebé Pack de 3 Niños Niñas Manga Corta Camisetas Algodón Tops Trajes 9-12 Meses'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

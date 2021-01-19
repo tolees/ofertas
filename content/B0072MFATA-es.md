@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31f5FdYoRFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0072MFATA-es'
+slug: 'B0072MFATA-es American Crew Classic Ultramatte Fijador Medio Sin Brillo 100 ml'
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

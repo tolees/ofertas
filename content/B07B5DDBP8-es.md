@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-WyHlfJwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B5DDBP8-es'
+slug: 'B07B5DDBP8-es Somat Todo en 1 Pastillas Lavavajillas - 70 Dosis'
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

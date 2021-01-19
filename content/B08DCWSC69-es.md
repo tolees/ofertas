@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31J1INAX+8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DCWSC69-es'
+slug: 'B08DCWSC69-es Ocobudbxw Rociador de Agua Aspersor Niños Diversión al Aire Libre Juguete Natación Fiesta Playa Jugar Regalos'
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

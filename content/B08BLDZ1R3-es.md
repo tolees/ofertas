@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HOZ+QKRML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLDZ1R3-es'
+slug: 'B08BLDZ1R3-es Anillo de Luz LED 8" Fotográfica de Escritorio con Soporte para Trípode y Soporte para Teléfono con 3 Modos de Luz y 10 Niveles de Brillo para Selfie  Maquillaje  Transmisión en Vivo  Youtube'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

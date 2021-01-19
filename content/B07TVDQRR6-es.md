@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319NWVQ7v4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVDQRR6-es'
+slug: 'B07TVDQRR6-es Funko- Pop Movies: Warriors-Cochise The Collectible Toy  Multicolor  44844 '
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

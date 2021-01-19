@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61JX2J8g+IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DMM5MC8-es'
+slug: 'B07DMM5MC8-es DIY 5D Pintura de Diamante  Taladro Parcial Resina Bordado Imágenes Arte Manualidades para Hogar Decoración de Pared Colorido Animales Flamingo Caballo Patrón 11.8 x 15.7  6872  30cm x 40cm'
 actualPrice: 4.05 EUR
 currency: EUR
 price: 4.05

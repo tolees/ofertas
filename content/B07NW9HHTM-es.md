@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EtmDlJHfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW9HHTM-es'
+slug: 'B07NW9HHTM-es Skechers Women s D LITES 3.0-PROVEN FORCE Trainers  White  Black Leather/Black & Gray Trim Wht   4  37 EU '
 actualPrice: 50.9 EUR
 currency: EUR
 price: 50.9

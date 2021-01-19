@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GHiyt7YyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQZQ6Z2-es'
+slug: 'B07NQZQ6Z2-es Skechers Boys  Bounder Trainers  Blue  Blue & Black Textile/Orange & Lime Trim Bl Bk   12  30 EU '
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

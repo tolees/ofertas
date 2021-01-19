@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ijN-4xjeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ393Z-es'
+slug: 'B07MZQ393Z-es Funko- Pop Vinilo: Spongebob Squarepants S3: Squidward Ballerina Figura Coleccionable  Multicolor  39558 '
 actualPrice: 11.77 EUR
 currency: EUR
 price: 11.77

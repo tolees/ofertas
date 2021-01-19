@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DzCf12EEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A9WVTJ0-es'
+slug: 'B00A9WVTJ0-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable FS4775'
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

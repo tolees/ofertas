@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31g9bcIMtOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QC1R9VR-es'
+slug: 'B07QC1R9VR-es Calcetines de Compresión 1 par  Blanco sólido  EU 39-42 '
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

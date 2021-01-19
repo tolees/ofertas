@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UcHUMsooL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1PK8TY-es'
+slug: 'B07S1PK8TY-es New Balance 574v2  Zapatillas para Mujer  Gris  Grey/Pink Sat   35 EU'
 actualPrice: 32.1 EUR
 currency: EUR
 price: 32.1

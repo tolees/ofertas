@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lefeM4NZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004M7Y7CE-es'
+slug: 'B004M7Y7CE-es JVC HA-S160-W - HAS160W Auricular Flat White'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

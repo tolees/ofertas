@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411MvEJyATL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7IZ7NC-es'
+slug: 'B01N7IZ7NC-es Kappa Olymp  Zapatillas Unisex Adulto  Negro  Black/White 1110   38 EU'
 actualPrice: 30.45 EUR
 currency: EUR
 price: 30.45

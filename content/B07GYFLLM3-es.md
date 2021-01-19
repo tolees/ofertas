@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VSkoVjrvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GYFLLM3-es'
+slug: 'B07GYFLLM3-es Babacom Protector Pantalla para iPhone 11 Pro MAX/XS MAX [2-Piezas]  3D Touch Cristal Vidrio Templado para iPhone 11 Pro MAX/XS MAX con Marco de Alineación  Solo para iPhone 11 Pro MAX/XS MAX 6.5"'
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

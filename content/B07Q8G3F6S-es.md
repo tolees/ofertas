@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PAawUptmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q8G3F6S-es'
+slug: 'B07Q8G3F6S-es Tensiómetro de Brazo Digital Recargable USB  Monitor Eléctrico de Presión Arterial Medición Automática de la Presión Arterial y Latido Cardíaco Dos Registros de Salud del Usuario Memoria 2 x 90'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

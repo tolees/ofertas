@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RACiPIeWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6UM3FM-es'
+slug: 'B01N6UM3FM-es Fellowes Foam Fusion Plus Touch - Alfombrilla con reposamuñecas ergonómico para ratón  gel y espuma  color negro'
 actualPrice: 18.25 EUR
 currency: EUR
 price: 18.25

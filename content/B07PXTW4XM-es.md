@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bcgDkVC9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXTW4XM-es'
+slug: 'B07PXTW4XM-es Under Armour UA W Charged Pursuit 2  Zapatillas de Running para Mujer  Gris  Halo Gray/White/Lipstick   36 EU'
 actualPrice: 23.26 EUR
 currency: EUR
 price: 23.26

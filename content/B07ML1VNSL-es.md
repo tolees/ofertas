@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51l6-HKgAVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ML1VNSL-es'
+slug: 'B07ML1VNSL-es Set de aceites esenciales de aromaterapia orgánica - TOP8 Difusores de aceite  incienso  lavanda  árbol de té  naranja dulce  menta  canela  aguja de pino  romero para el hogar  oficina  sueño  yoga'
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

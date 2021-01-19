@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41W%2BkYWvhYL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B071X3X8JH-es'
+slug: 'B071X3X8JH-es find. Gabardina Larga Oversize para Mujer    Beige  Stone   44  Talla del Fabricante: X-Large '
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05

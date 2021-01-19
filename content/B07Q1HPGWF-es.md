@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cYknNxcrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q1HPGWF-es'
+slug: 'B07Q1HPGWF-es JYDMIX - Cable USB C a Lightning de 3 pies Nylon Trenzado [Apple MFi Certificado] Compatible con iPhone SE 2020/11/11Pro/X/XS/XR/XS Max/8/8 Plus soporta Power Delivery Carga rápida'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

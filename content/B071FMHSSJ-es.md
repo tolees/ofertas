@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vECwe2p9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FMHSSJ-es'
+slug: 'B071FMHSSJ-es Olivares de Altomira Aceite Oliva Virgen Extra 500 ml - AOVE ECOLOGICO - Primera prensada en frio - Rico en polinenoles - rico en Oleocanthal'
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

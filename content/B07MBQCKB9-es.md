@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sUSgCGmNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBQCKB9-es'
+slug: 'B07MBQCKB9-es Pop Vinilo: Games: Fortnite: Loot Llama 10"'
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

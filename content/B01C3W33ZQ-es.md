@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IO5IiBaDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C3W33ZQ-es'
+slug: 'B01C3W33ZQ-es WIDMANN 04814 hinchable Rock Star Guitarra  unisex ? Adultos  color blanco/negro  talla única'
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

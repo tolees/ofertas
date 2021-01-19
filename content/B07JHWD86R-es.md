@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q3K9D1e5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHWD86R-es'
+slug: 'B07JHWD86R-es Columbia MARAGAL WP  Botas Casual para Mujer  Marrón  Espresso MHW  L   36 1/2 EU'
 actualPrice: 28.62 EUR
 currency: EUR
 price: 28.62

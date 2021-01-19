@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ks9Cls0yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCBLHTW-es'
+slug: 'B07NCBLHTW-es Pepe Jeans MC Queen Short para Hombre  Rojo  Jam 213   W29  Talla del fabricante: 29 '
 actualPrice: 21.08 EUR
 currency: EUR
 price: 21.08

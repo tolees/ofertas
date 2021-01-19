@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wjdeIS0hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NM0MR6-es'
+slug: 'B000NM0MR6-es Casio Reloj Multiesfera para Mujer de Cuarzo con Correa en Acero Inoxidable LTP-2069D-2AVEF'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

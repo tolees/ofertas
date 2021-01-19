@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5111m9xv1oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVM1TGG-es'
+slug: 'B07QVM1TGG-es 40 Piezas Pinzas Para el Cabello para Bebés niñas Clip de Pelo del Bowknot de Cinta de Grosgrain Suave para niños pequeños'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

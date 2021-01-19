@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31veB+pSDPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9SJVCV-es'
+slug: 'B07L9SJVCV-es Lacoste Courtline 319 1 Us CMA  Zapatillas para Hombre  Blanco  White/Black 147   47 EU'
 actualPrice: 58.51 EUR
 currency: EUR
 price: 58.51

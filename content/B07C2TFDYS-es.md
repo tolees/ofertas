@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qqhK+JGyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2TFDYS-es'
+slug: 'B07C2TFDYS-es A'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

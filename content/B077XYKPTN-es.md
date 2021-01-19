@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415bgodsMaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XYKPTN-es'
+slug: 'B077XYKPTN-es Superga 2730-cotropew  Zapatillas de Gimnasia para Mujer  Negro  Black 999   37 EU'
 actualPrice: 51.12 EUR
 currency: EUR
 price: 51.12

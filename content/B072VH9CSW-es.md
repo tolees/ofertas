@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pNYlcaaWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072VH9CSW-es'
+slug: 'B072VH9CSW-es Super wings pelota 40 cm'
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

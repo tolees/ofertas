@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UcTUifhZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAP1QK0-es'
+slug: 'B00XAP1QK0-es Haribo - Cartucheras - Dulces de regaliz - 1.5 kg'
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

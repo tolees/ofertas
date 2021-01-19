@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OSD-qkauL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GD5EL92-es'
+slug: 'B00GD5EL92-es Versa 20361010 Mesa entrada madera color blanco Dallas  110x80x25  Consola/Cómoda'
 actualPrice: 71.24 EUR
 currency: EUR
 price: 71.24

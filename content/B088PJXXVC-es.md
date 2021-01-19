@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Yd+BRnOxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088PJXXVC-es'
+slug: 'B088PJXXVC-es Doraemon Story Of Seasons'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

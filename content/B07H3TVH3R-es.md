@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ED3yV334L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3TVH3R-es'
+slug: 'B07H3TVH3R-es Zapatillas de Estar por casa Hombre Mujer Espuma de Memoria Cálido Comodidad Forro de Felpa Interior Antideslizante Pantuflas Negro  42/43EU '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

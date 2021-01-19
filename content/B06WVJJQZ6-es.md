@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cnDJo5+IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVJJQZ6-es'
+slug: 'B06WVJJQZ6-es adidas Crazymove Studio  Zapatillas de Deporte Interior para Mujer  Azul  Utiblu/Cblack/Ftwwht   41 EU'
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

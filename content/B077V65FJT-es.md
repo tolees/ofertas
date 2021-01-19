@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xI3YS8yQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077V65FJT-es'
+slug: 'B077V65FJT-es Merrell M-Moab Fst Low A/C Waterproof  Zapatillas de Senderismo Unisex Niños  Gris  Grey/Coral   35 EU'
 actualPrice: 31.35 EUR
 currency: EUR
 price: 31.35

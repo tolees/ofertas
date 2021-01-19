@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61lsmvScfgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FPELW1G-es'
+slug: 'B01FPELW1G-es Idea de regalo"especialidades de cerveza de Alemania" para hombres INCL. Posavasos de cerveza + caja de regalo + información de cerveza. Idea de regalo inusual para hombres  6x0.33l '
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

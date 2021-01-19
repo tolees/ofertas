@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CdZOOJTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6ZKF1R-es'
+slug: 'B01N6ZKF1R-es LG 32UD99-W - Monitor 4K UHD de 80 cm  31 5"  con Panel IPS  3840 x 2160 píxeles  16:9  350 cd/m²  DCI-P3 >95%  1300:1  5 ms  60 Hz  Color Plata y Blanco'
 actualPrice: 261.04 EUR
 currency: EUR
 price: 261.04

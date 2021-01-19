@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31whO31aQcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFX5NCG-es'
+slug: 'B07XFX5NCG-es PUMA ESS+ Drapy Pants Chándal  Mujer  Black  S'
 actualPrice: 26.72 EUR
 currency: EUR
 price: 26.72

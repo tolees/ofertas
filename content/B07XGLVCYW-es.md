@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V7GvrSxAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGLVCYW-es'
+slug: 'B07XGLVCYW-es Aunus Bolsas Reutilizables para Almacenamiento de Alimentos 12 Piezas Bolsas Congelar Reutilizable Bolsas Reutilizables para Fruta Sándwiches Verduras 1.5mm Súper Grueso Sello Sin BPA'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

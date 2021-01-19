@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51asQ85Q4DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089F7KCFT-es'
+slug: 'B089F7KCFT-es Z Paint by Numbers Animales con pinceles y pigmento acrílico DIY lienzo pintado a mano para adultos principiantes  hogar decoración del dormitorio  elefante caminante de 16 x 20 pulgadas  sin marco '
 actualPrice: 9.04 EUR
 currency: EUR
 price: 9.04

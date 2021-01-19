@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RkM8u+kiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXBGFM4-es'
+slug: 'B07SXBGFM4-es Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15  #390 Rich Maple  - 30ml'
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

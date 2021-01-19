@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hgQARFfhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4QQ55M-es'
+slug: 'B07V4QQ55M-es Lámpara Secador de Uñas  Winpok Lámpara LED Uñas Pantalla LCD Lámpara LED UV Uñas  72W Con Sensor Automático Lampara uñas  4 Temporizadores 10s  30s  60s y 120s'
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MrpJqiaRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H43FBVJ-es'
+slug: 'B07H43FBVJ-es Crema Facial de Acido Hialuronico Vegano 50ml de la Más Alta Calidad - Crema Antiarrugas para Mujer y el Contorno de Ojos con Vitamina E - Cosmetica Natural Hecho en Alemania'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

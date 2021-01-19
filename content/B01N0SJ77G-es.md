@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sPV2FUCUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0SJ77G-es'
+slug: 'B01N0SJ77G-es Jack & Jones Jjimarco Jjenzo WW 420 Noos Pantalones  Marrón  Tan   W31/L34  Talla del Fabricante: 31  para Hombre'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

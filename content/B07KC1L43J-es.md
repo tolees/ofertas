@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qip8SJ50L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KC1L43J-es'
+slug: 'B07KC1L43J-es Farmer Dynasty [Versión española]'
 actualPrice: 32.58 EUR
 currency: EUR
 price: 32.58

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41stHvnqDDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813YHXFQ-es'
+slug: 'B0813YHXFQ-es adidas Duramo Lite 2.0  Zapatillas para Correr para Mujer  Dove Grey/FTWR White/Glory Pink  37 1/3 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

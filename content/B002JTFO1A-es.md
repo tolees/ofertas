@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3111de097TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002JTFO1A-es'
+slug: 'B002JTFO1A-es Lancome Hypnose Drama - Rímel negro 6.5 ml'
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

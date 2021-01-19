@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519BBwPML5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCN7HVD-es'
+slug: 'B07XCN7HVD-es SKY LIGHT Olla aluminio 26cm / 6.4L  Embalaje caja de regalo  Antiadherente con tapa de vidrio templado  revestimiento antiadherente StoneTech  compatible con inducción y horno  apto para lavavajillas'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

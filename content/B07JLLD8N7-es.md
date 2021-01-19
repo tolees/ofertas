@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516vsMtQhyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLLD8N7-es'
+slug: 'B07JLLD8N7-es TECKEPIC Fitness Tracker Color Screen Activity Tracker Heart Rate Monitor Wristband Bluetooth Pedometer Smart Bracelet'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

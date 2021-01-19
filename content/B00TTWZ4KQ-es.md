@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B2eipMVRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTWZ4KQ-es'
+slug: 'B00TTWZ4KQ-es Piz Buin Allergy Protector Solar Facial  SPF 50+ Protección Muy Alta para Pieles Sensibles al Sol – 50 ml'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yTIH9XP1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJQTQW4-es'
+slug: 'B07TJQTQW4-es lalafancy Botella de Agua Acero Inoxidable 500ml/750ml  Aislamiento de Vacío de Doble Pared  Botella Termica de Frío/Caliente para Niños  Deporte  Oficina  Gimnasio  Ciclismo'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

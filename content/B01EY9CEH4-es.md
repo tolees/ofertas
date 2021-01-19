@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rd9LqsY+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EY9CEH4-es'
+slug: 'B01EY9CEH4-es Superga 2750 UKFGLU  Zapatillas Unisex adulto  Blanco  White 900   44 EU'
 actualPrice: 24.43 EUR
 currency: EUR
 price: 24.43

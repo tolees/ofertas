@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411NR4W27CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EZML92W-es'
+slug: 'B00EZML92W-es Russell Hobbs Cook Home - Freidora profesional  1800 W  3.2 L para aceite  1.2 kg de comida  hasta 190 C  cuerpo inox cepillado'
 actualPrice: 33.27 EUR
 currency: EUR
 price: 33.27

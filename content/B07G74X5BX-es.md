@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cjEn9ljcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G74X5BX-es'
+slug: 'B07G74X5BX-es Bolsa de viaje Pepe Jeans Cranford Marrón'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

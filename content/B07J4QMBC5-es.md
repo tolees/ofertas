@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bT5yskC2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4QMBC5-es'
+slug: 'B07J4QMBC5-es Pop! Stranger Things - Figura de Vinilo Movie Moment Eleven & Demogorgon'
 actualPrice: 21.33 EUR
 currency: EUR
 price: 21.33

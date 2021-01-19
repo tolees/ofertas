@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+1iSDXpfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSNH8GH-es'
+slug: 'B07BSNH8GH-es Webcam Cubierta  Webcam Cover Slider  Laptop Camera Cover 0.027in Ultra-slim Settings Echo Spot Smartphones Tablets Macbooks with Strong Adhensive 6 pack '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

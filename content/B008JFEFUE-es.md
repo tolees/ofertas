@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iDyRbnVtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008JFEFUE-es'
+slug: 'B008JFEFUE-es Salomon TRAIL GAITERS LOW Polainas'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FtmeotAfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RFGGBC-es'
+slug: 'B075RFGGBC-es GORE WEAR R3 Mallas cortas de mujer  36  Negro'
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

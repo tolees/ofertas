@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316Q1TyUBjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E6YCGOI-es'
+slug: 'B01E6YCGOI-es Maped 106310 Technic Duo Borrador  1 unidad  colores surtidos'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

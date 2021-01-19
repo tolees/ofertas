@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nX1TL1OVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYBY36G-es'
+slug: 'B07SYBY36G-es Huawei Mini Altavoz Bluetooth CM510  Color Negro'
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

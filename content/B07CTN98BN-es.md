@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ONGc2JW6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTN98BN-es'
+slug: 'B07CTN98BN-es FIND - Deep Forest - Trío de sombras de ojos  n.10  n.11  n.12 '
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

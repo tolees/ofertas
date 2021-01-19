@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41saCNUQw7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IYR34YE-es'
+slug: 'B01IYR34YE-es Philips Voicetracer - Grabadora de audio'
 actualPrice: 93.99 EUR
 currency: EUR
 price: 93.99

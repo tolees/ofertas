@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51m47QluRjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RRZSVLZ-es'
+slug: 'B07RRZSVLZ-es SOONAN Herramientas de reparación de Correas Profesional Kit de reparación de Reloj  Herramienta de Banda de Reloj  Correa de Banda de vigilancia de Enlace del removedor de Herramientas Kit'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TjWk2mdoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P47DM1P-es'
+slug: 'B07P47DM1P-es Samsung Space Monitor de 27   WQHD con Marcos Estrechos  2560 x 1440  144 Hz  4 ms  HDMI '
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

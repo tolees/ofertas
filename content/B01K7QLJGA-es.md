@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Gq885TeEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7QLJGA-es'
+slug: 'B01K7QLJGA-es Foxy Seda Papel Higiénico con pH Neutro - 6 Rollos'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

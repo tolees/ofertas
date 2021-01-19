@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SUnMoyVxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N10KEPP-es'
+slug: 'B01N10KEPP-es Cable HDMI Premium 1.4V 3D Alta Velocidad Ultra HD Resolución FULL HD 1080P Plomo 150CM Calidad Alta definición'
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

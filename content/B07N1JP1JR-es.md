@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gAtC9ccaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JP1JR-es'
+slug: 'B07N1JP1JR-es Clarks Griffin Plaza  Botas Chelsea para Mujer  Gris Pardo de Serpiente  39.5 EU'
 actualPrice: 26.79 EUR
 currency: EUR
 price: 26.79

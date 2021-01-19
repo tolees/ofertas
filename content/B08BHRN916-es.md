@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51f0eJBdEUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHRN916-es'
+slug: 'B08BHRN916-es Cinturón de Cintura para Correr HAISSKY Deportiva Ajustable para Entrenamiento físico para Hombres y Mujeres con 3 Bolsillos y cinturón elástico Apto para iPhone y Otros teléfonos celulares'
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

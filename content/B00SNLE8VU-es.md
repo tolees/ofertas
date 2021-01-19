@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51f18t6CdnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SNLE8VU-es'
+slug: 'B00SNLE8VU-es Mars Gaming MSB1  altavoces bluetooth 8W  Jack 3.5  Pc/Mac/smartphone/tablet USB'
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

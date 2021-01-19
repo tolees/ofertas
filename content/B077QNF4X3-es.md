@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-5isA5i5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077QNF4X3-es'
+slug: 'B077QNF4X3-es Zapatillas de Taekwondo Cómodos Antideslizantes Zapatillas Deportivos de Taekwondo Kung Fu Tai Chi   tamaño : 26  '
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

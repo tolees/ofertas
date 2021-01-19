@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MxCyfjMzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008OQUY5S-es'
+slug: 'B008OQUY5S-es Lowepro POKROWIEC DASHPOINT 10 Slate Grey'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

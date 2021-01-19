@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GLiGd5CYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R7JNMN-es'
+slug: 'B075R7JNMN-es New Balance Wl697trb  Zapatillas de Running para Mujer  Azul  Pigment/Smoke Blue TRB   38 EU'
 actualPrice: 30.75 EUR
 currency: EUR
 price: 30.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sF0LpWTvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQVJ8L8-es'
+slug: 'B07MQVJ8L8-es Napapijri EISBERG Polo  Rojo  Red Scarlet R01   M para Hombre'
 actualPrice: 24.33 EUR
 currency: EUR
 price: 24.33

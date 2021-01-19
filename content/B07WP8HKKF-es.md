@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QS5nMUPHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WP8HKKF-es'
+slug: 'B07WP8HKKF-es Samsung Galaxy Watch Active 2 - Smartwatch de Acero  44mm  color Negro  LTE [Versión española]'
 actualPrice: 309.0 EUR
 currency: EUR
 price: 309.0

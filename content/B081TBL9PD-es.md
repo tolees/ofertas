@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T+kE735fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TBL9PD-es'
+slug: 'B081TBL9PD-es Vaporizador Facial Profesional Sauna Facial Vaporizador，Hong Ren Ionic Humidifier for Face Care  Piel Hidratante  Limpieza Profunda de Poros Facial Steamer'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

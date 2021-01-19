@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gM9G71RuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4PKZXX-es'
+slug: 'B07N4PKZXX-es Superga Classic  Zapatillas Unisex Adulto  Azul  Azure Erica 325   49 EU'
 actualPrice: 17.76 EUR
 currency: EUR
 price: 17.76

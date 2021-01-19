@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31A2sBY3sGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STWC65L-es'
+slug: 'B07STWC65L-es Max Factor Perfect Stay 2 Step;  Laca de Uñas  Tono 139 - 12 gr'
 actualPrice: 2.91 EUR
 currency: EUR
 price: 2.91

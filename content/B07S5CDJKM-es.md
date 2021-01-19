@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4134R58lZbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5CDJKM-es'
+slug: 'B07S5CDJKM-es Love MoschinoJc4054pp1aMujerBolsos bandoleraRosa5x13x20 centimeters  W x H x L '
 actualPrice: 68.45 EUR
 currency: EUR
 price: 68.45

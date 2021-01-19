@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EMntFcGkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IITQ8IS-es'
+slug: 'B00IITQ8IS-es Nilfisk - 107407940 - 4 bolsas de aspiradora + prefiltro'
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

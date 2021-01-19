@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+hgt6CwwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HBJ7CBC-es'
+slug: 'B01HBJ7CBC-es Reloj analógico para hombre Tommy Hilfiger 1710355  mecanismo de cuarzo  diseño clásico  correa de acero inoxidable.'
 actualPrice: 116.0 EUR
 currency: EUR
 price: 116.0

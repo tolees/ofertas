@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416dIMQckzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZ2BN5B-es'
+slug: 'B07QZ2BN5B-es DlandHome Banco Pesas Multifunción  Banca de Peso Ajustable Fitness Doméstico para Casa  Banco Regulable de Entrenamiento Plano/Declinado/Inclinado/Sit Up/Abdominales  Negro'
 actualPrice: 114.66 EUR
 currency: EUR
 price: 114.66

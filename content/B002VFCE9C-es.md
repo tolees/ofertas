@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rOJM2lcxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002VFCE9C-es'
+slug: 'B002VFCE9C-es Romeo y Julieta'
 actualPrice: 11.7 EUR
 currency: EUR
 price: 11.7

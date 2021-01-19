@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ePUxG3WEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QKRNS7E-es'
+slug: 'B00QKRNS7E-es Seconde Chance'
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

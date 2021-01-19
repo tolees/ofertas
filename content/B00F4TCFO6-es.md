@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412u4MsYpqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F4TCFO6-es'
+slug: 'B00F4TCFO6-es Viceni - Marco para fotos con borde fino  bañado en plata  15 x 20 cm '
 actualPrice: 7.18 EUR
 currency: EUR
 price: 7.18

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SXYrhyxsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0014GX2AY-es'
+slug: 'B0014GX2AY-es Solgar Male Múltiple  Multinutriente para el Hombre  Con Vitaminas  Minerales y Licopeno  Apto para Veganos  120 Comprimidos'
 actualPrice: 33.48 EUR
 currency: EUR
 price: 33.48

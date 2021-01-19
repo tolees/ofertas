@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-x0EP7VxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGNS4FR-es'
+slug: 'B07PGNS4FR-es Ommani Encendedor Electrico  USB Encendedor de Doble Arco Recargable con Indicación de Batería  ARC Encendedor Antiviento para Cocina Cigarrillos Velas Papel sin Llama ni Olor'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

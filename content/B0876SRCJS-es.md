@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317y00HkOKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876SRCJS-es'
+slug: 'B0876SRCJS-es AYUN 1PC del arnés de Clip Asiento Seguro Hebilla Negro Seguro de la Cerradura del Coche de Seguridad Cerradura de la Correa para el bebé'
 actualPrice: 4.56 EUR
 currency: EUR
 price: 4.56

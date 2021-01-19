@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iX7tqbDfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VWS63K7-es'
+slug: 'B06VWS63K7-es Joyoldelf 30 Moldes para Galletas Moldes Galletas Acero Inoxidable para Pastel  Cookie  Fondant'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

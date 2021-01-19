@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cJPEAmbNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9GNVG1-es'
+slug: 'B07L9GNVG1-es Under Armour Accelerate Off-Pitch Pant Pantalones  Hombre  Negro  Black/Black/Metallic Black 001   XXL'
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411goE0DT4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLYXKYD-es'
+slug: 'B07TLYXKYD-es Vans Ward Suede/Canvas  Zapatillas para Hombre  Negro   Otw Scatter  Obsidian/White Sym   42 EU'
 actualPrice: 46.37 EUR
 currency: EUR
 price: 46.37

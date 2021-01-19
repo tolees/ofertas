@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gTo7Cj-5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GZVGR9-es'
+slug: 'B075GZVGR9-es ADIDAS VL Court 2.0 K  Zapatillas Unisex Niños  Negro  Negbas/Ftwbla 000   38 2/3 EU'
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SgB2Y9rSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002OHKHKK-es'
+slug: 'B002OHKHKK-es Wolfcraft 2459000 2459000-1 Llave de Brida Universal para amoladoras angulares Distancia Entre pivotes Variable 30  35 mm'
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

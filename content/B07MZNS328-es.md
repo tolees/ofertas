@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-rSAbP2gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZNS328-es'
+slug: 'B07MZNS328-es Pop! Figura de Vinilo: Disney: Little Mermaid - Ariel  Purple Dress '
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zmqbx79dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNRF5B5-es'
+slug: 'B07NNRF5B5-es Levi s LEVIS FOOTWEAR AND ACCESSORIES Cloverdale Cinturón  Marrón  Brown 28   95 para Hombre'
 actualPrice: 17.43 EUR
 currency: EUR
 price: 17.43

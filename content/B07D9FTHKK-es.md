@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CYhZKVktL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9FTHKK-es'
+slug: 'B07D9FTHKK-es NOPNOG Cuidado de la Pintura del Coche rasguños reparación de Pintura Pluma  Negro '
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

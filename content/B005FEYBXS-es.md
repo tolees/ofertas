@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Qzt78DTTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005FEYBXS-es'
+slug: 'B005FEYBXS-es Casio Reloj de pulsera MRW-200H-1BVEF'
 actualPrice: 25.3 EUR
 currency: EUR
 price: 25.3

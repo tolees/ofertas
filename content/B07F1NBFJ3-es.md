@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416kYjfmQnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1NBFJ3-es'
+slug: 'B07F1NBFJ3-es Zerone Cable CATV Bloqueo y desbloqueo Terminator Tool- Azul 7 Pulgadas '
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

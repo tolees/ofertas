@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u+LRQQHtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K38JYG8-es'
+slug: 'B07K38JYG8-es Adidas Runfalcon  Zapatillas de Trail Running para Mujer  Negro  Negbás/Ftwbla/Gritre 000   38 EU'
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

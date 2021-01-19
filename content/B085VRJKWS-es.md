@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cU+wtGE2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085VRJKWS-es'
+slug: 'B085VRJKWS-es Oacvien 7 Puertos Hub USB 3.0  Interruptor de Encendido Individual y Indicador LED  5 Gbits Transferencia de Datos y Aluminio Hub USB 3.0 con Adaptador de Corriente Externo'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

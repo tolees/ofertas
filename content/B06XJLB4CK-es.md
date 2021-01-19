@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31D6EhGtK2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XJLB4CK-es'
+slug: 'B06XJLB4CK-es AiSi - Cartera de mano para mujer negro negro Talla única'
 actualPrice: 24.16 EUR
 currency: EUR
 price: 24.16

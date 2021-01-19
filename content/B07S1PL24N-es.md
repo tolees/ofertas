@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q6ldrZV1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1PL24N-es'
+slug: 'B07S1PL24N-es New Balance 997H h  Zapatillas para Hombre  Gris  Grey/Navy Heq   44 EU'
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

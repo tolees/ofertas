@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51InLszDM0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYTXQ7H-es'
+slug: 'B07KYTXQ7H-es AmazonBasics - Juego de fundas de edredón y almohada de microfibra premium  135 x 200 cm / 80 x 80 cm   rojo rumba acuarela'
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

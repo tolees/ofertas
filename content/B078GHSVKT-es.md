@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cYx7eKcxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GHSVKT-es'
+slug: 'B078GHSVKT-es T4U Artificial Serie de Plantas Suculentas Hierba Decorativa de Plástico Colección 2  Paquete de 3'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MCZfI62LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3PXA1X-es'
+slug: 'B01M3PXA1X-es Sigma 01417 Ciclocomputador  Negro'
 actualPrice: 51.67 EUR
 currency: EUR
 price: 51.67

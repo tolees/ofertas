@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C6eDwqqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZMXW4C-es'
+slug: 'B07CZMXW4C-es Under Armour Tech 6in 2 Pack Ropa Interior  Hombre  Negro  Black/Black 001   S'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

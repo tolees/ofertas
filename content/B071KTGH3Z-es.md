@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pU19ry3nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KTGH3Z-es'
+slug: 'B071KTGH3Z-es Rimmel London Stay Matte Liquid Lip Colour Barra De Labios Tono 820 - 21 gr'
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

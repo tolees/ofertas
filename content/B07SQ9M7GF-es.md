@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31w-MJDIHQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ9M7GF-es'
+slug: 'B07SQ9M7GF-es adidas Coast Star  Zapatillas de Gimnasia para Hombre  Blanco  FTWR White/Collegiate Burgundy/FTWR White FTWR White/Collegiate Burgundy/FTWR White   44 2/3 EU'
 actualPrice: 47.97 EUR
 currency: EUR
 price: 47.97

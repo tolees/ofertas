@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uImFJOykL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000PJAF4M-es'
+slug: 'B000PJAF4M-es Draper 90086 - Lote de rollos de cinta aislante  10 m x 19 mm  6 unidades   varios colores'
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

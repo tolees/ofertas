@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j+v+jihgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG5XMX5-es'
+slug: 'B07KG5XMX5-es PUMA LQDCELL Origin Tech  Zapatillas de Running para Hombre  White-Peacoat  48.5 EU'
 actualPrice: 52.12 EUR
 currency: EUR
 price: 52.12

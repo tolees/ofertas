@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31g2dnuSzbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT1QHSI-es'
+slug: 'B01MT1QHSI-es Reebok Royal Glide Rplclp  Zapatillas de Trail Running para Mujer  Blanco  White/White/Silver Met White/White/Silver Met   35 EU'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

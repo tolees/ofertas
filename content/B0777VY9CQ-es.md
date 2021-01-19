@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310GZCb0XgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777VY9CQ-es'
+slug: 'B0777VY9CQ-es Tommy Jeans Hombre SLIM TAPERED STEVE COBCO Jeans  Azul  Cobble Black Comfort 911   W38/L30'
 actualPrice: 30.52 EUR
 currency: EUR
 price: 30.52

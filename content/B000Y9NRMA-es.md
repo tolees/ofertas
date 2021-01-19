@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dBUZpPNiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Y9NRMA-es'
+slug: 'B000Y9NRMA-es Kitchen Craft - Termómetro de Acero Inoxidable para espumador de Leche'
 actualPrice: 5.63 EUR
 currency: EUR
 price: 5.63

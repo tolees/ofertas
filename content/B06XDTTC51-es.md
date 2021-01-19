@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IFSvI6wgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDTTC51-es'
+slug: 'B06XDTTC51-es Grohe 30 294 DC0 30294DC0-Essence Grifo Cocina Semiprofesional '
 actualPrice: 428.41 EUR
 currency: EUR
 price: 428.41

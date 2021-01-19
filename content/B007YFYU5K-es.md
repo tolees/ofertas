@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21JhpXsiYkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007YFYU5K-es'
+slug: 'B007YFYU5K-es Faro Barcelona 33415 - EASY Ventilador de techo con luz  15W  acero  palas de abs y difusor de cristal opal  color blanco'
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

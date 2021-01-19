@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Im4nxusdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L7HYXSW-es'
+slug: 'B07L7HYXSW-es Baoblaze Tarjeta de Felicitación Hecha a Mano de Pluma 10pcs Agradece Cardar Invitación - Azul Claro'
 actualPrice: 3.31 EUR
 currency: EUR
 price: 3.31

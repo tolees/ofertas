@@ -6,7 +6,7 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6ZKMUF-es'
+slug: 'B01M6ZKMUF-es Hellmann s - Gran Salsa Barbacoa - 250 ml - [Pack de 8]'
 actualPrice: 8 EUR
 currency: EUR
 price: 8

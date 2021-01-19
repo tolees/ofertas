@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TPExLNKAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTQQHYS-es'
+slug: 'B07KTQQHYS-es Scuderia Ferrari Reloj de Pulsera 830615'
 actualPrice: 69.58 EUR
 currency: EUR
 price: 69.58

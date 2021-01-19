@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31u320YiFKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002XFI8V8-es'
+slug: 'B002XFI8V8-es Dickies Slim Fit Straight - Pantalones para hombre  Beige  Caqui   W42/L32'
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

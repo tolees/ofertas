@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qi2-8lENL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LH5G3Y4-es'
+slug: 'B07LH5G3Y4-es Intex 57506NP - Set 3 posavasos Unicornio  12 x 20 cm'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tNelAMMZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079H4JVXW-es'
+slug: 'B079H4JVXW-es PUMA Liga Sideline Polo  Hombre  Blanco  White/Black   3XL'
 actualPrice: 18.16 EUR
 currency: EUR
 price: 18.16

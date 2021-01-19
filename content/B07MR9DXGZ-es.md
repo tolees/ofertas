@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pQAKZfs3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR9DXGZ-es'
+slug: 'B07MR9DXGZ-es Lee Luke Jeans  Moto Black HL  29W / 30L para Hombre'
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

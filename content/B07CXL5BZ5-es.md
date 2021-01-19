@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JRIpXU5xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CXL5BZ5-es'
+slug: 'B07CXL5BZ5-es 1 x de Almohadilla de Tinta para Dedos para Pintura de Huella Dactilar de Tela - Matcha verde  45x30x25mm'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

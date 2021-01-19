@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jUyZLnJ+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QTJ1FR8-es'
+slug: 'B00QTJ1FR8-es Venus ComfortGlide Breeze Recambio De Maquinilla 2-en-1  4 Uds  Con Barras de Gel  Sin Necesidad De Gel De Depilación'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

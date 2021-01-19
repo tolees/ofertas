@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3142PfoZvXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AVZMYOE-es'
+slug: 'B00AVZMYOE-es Vans Atwood  Zapatillas para Hombre  Negro  Black/White Canvas 187   44.5 EU'
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

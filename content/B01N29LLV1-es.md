@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+ku58gUwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N29LLV1-es'
+slug: 'B01N29LLV1-es Dickies Kerman Pantalones  Marrón  Brown Duck BD    Tamaño del Fabricante:28/30  para Hombre'
 actualPrice: 14.47 EUR
 currency: EUR
 price: 14.47

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kIekX-BML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NGK8VCA-es'
+slug: 'B00NGK8VCA-es Sesderma Repaskin Fotoprotector Solar- 50 ML'
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

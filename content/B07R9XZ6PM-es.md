@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cG2CudP6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R9XZ6PM-es'
+slug: 'B07R9XZ6PM-es laamei  Mosquitera Bebé Antiinsectos Universal Mosquitera para Cochecito Carrito Bebé Seguro Malla Abeja Cubierta Protección Ideal ontra Avispas'
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

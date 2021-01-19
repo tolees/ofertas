@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Pg3J9TwHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYHJXRM-es'
+slug: 'B06XYHJXRM-es Montse Interiors Juego de sábanas Estampado Colores  Piezas Construcción L  para cama de 90x190/200 '
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

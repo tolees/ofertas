@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bflv+mUKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTPF46T-es'
+slug: 'B07TTPF46T-es KiplingGleam SMujerMonederosNegro  Charcoal  14x9.5x5.5 Centimeters  B x H x T '
 actualPrice: 8.54 EUR
 currency: EUR
 price: 8.54

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LWGmZu+rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S534YKT-es'
+slug: 'B07S534YKT-es EraSpooky Disfraz de Payaso para Hombre Carnaval Circo Disfraces Fiesta de Halloween Cosplay Traje Divertido para Adultos'
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

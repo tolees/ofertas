@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21MET4bllUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004HBASLO-es'
+slug: 'B004HBASLO-es Kensington Anclaje de Seguridad ClickSafe  Bloqueo T:Bar Estándar para Ranura de Seguridad para Portátiles'
 actualPrice: 14.12 EUR
 currency: EUR
 price: 14.12

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gro7rTcaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCMQVYJ-es'
+slug: 'B07SCMQVYJ-es Lee Rider Tonal Jeans  Moto Worn  31W / 30L para Hombre'
 actualPrice: 43.85 EUR
 currency: EUR
 price: 43.85

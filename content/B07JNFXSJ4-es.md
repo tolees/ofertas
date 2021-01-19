@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31L723Z-+mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNFXSJ4-es'
+slug: 'B07JNFXSJ4-es Skechers Synergy 3.0  Zapatillas para Mujer  Blanco  White Leather/Silver Trim #Yellow WSL   39 EU'
 actualPrice: 45.33 EUR
 currency: EUR
 price: 45.33

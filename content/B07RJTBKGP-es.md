@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kDeysnejL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJTBKGP-es'
+slug: 'B07RJTBKGP-es Columbia IVO Trail Breeze  Zapatillas Deportivas para Hombre  Blanco  White  Black 100   42.5 EU'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

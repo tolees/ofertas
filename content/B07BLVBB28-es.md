@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yRK5Q9NML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BLVBB28-es'
+slug: 'B07BLVBB28-es Bolsa/NIKE:NK ACDMY Team S MISC Marino'
 actualPrice: 12.01 EUR
 currency: EUR
 price: 12.01

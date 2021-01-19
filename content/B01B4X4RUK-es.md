@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Qlrh-3m-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B4X4RUK-es'
+slug: 'B01B4X4RUK-es Tous Happy Moments 90ml'
 actualPrice: 40.6 EUR
 currency: EUR
 price: 40.6

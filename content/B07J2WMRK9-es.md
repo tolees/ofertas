@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Sm58+wDEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J2WMRK9-es'
+slug: 'B07J2WMRK9-es Bosch MSM89160 MaxoMixx Batidora de Mano  Con 3 accesorios  1000 W  12 Velocidades  Plata'
 actualPrice: 62.0 EUR
 currency: EUR
 price: 62.0

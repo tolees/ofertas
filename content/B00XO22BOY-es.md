@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mU8ePexfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XO22BOY-es'
+slug: 'B00XO22BOY-es Zentrum Gastrocap con Aloe Vera  Propóleo y Papaina - 30 Cápsulas'
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

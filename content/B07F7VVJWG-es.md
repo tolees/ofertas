@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tVgvCbpsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7VVJWG-es'
+slug: 'B07F7VVJWG-es Beurer TL 41 Lámpara de luz diurna para el bienestar  compacto  10.000 Lux  superficie iluminación 22x20 cm  sin rayos ultravioleta  pie abatible  color Blanco'
 actualPrice: 65.34 EUR
 currency: EUR
 price: 65.34

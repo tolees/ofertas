@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417v2Imu6TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYQ92FL-es'
+slug: 'B07TYQ92FL-es Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Azul  Blue Lt Sky 354   36 EU'
 actualPrice: 28.75 EUR
 currency: EUR
 price: 28.75

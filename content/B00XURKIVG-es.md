@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4106pORgAKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XURKIVG-es'
+slug: 'B00XURKIVG-es Tanqueray London Dry Gin - 1000 ml'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

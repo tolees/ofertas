@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/319qcYLQF1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TL4RY5X-es'
+slug: 'B07TL4RY5X-es BRA Advanced Cazo 16 cm  aluminio fundido con antiadherente  sin PFOA súper reforzado de rendimiento superior y alta resistencia a los arañazos y a la abrasión  apto para Inducción '
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

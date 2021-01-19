@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gkRWEGatL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753GZYBT-es'
+slug: 'B0753GZYBT-es adidas Coneo Qt  Zapatillas para Mujer  Negro  Core Black/Footwear White/Vapour Grey Metallic 0   36 EU'
 actualPrice: 38.47 EUR
 currency: EUR
 price: 38.47

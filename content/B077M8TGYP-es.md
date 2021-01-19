@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-Wb4o3yVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077M8TGYP-es'
+slug: 'B077M8TGYP-es Puma Escaper SL Jr  Zapatillas de Running Unisex Niños  Blanco Soft Fluo Peach White  38 EU'
 actualPrice: 18.88 EUR
 currency: EUR
 price: 18.88

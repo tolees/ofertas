@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-asnCUHQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWRKH2K-es'
+slug: 'B07VWRKH2K-es flintronic Portefeuille en Cuir  Rosé Etui RFID Blocage Porte Carte de Crédit  Zip Porte-Monnaie  Coffret Cadeau （1 Porte-clé Inclus）'
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

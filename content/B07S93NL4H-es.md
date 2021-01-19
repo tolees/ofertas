@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31cyWsSZNiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S93NL4H-es'
+slug: 'B07S93NL4H-es Encendedor USB  TECCPO Encendedor Electrico sin Llama  Batería Interna de 280 mAh  Usos más de 9000 Veces  Carga Rápida  Resistente al Viento sin Llama  Cable USB y Caja de Regalo Incluidos  -TDEL01P'
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

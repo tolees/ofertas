@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bEMx0BxQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000S1KS8U-es'
+slug: 'B000S1KS8U-es Tuscany Silver - Pendientes para mujer con plata de ley  925/1000 '
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

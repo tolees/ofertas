@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MgCSlNMoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084NTVDNV-es'
+slug: 'B084NTVDNV-es Eléctrico Lima de uñas del bebé Lima de uñas Set de Manicura y Pedicura para dedos de los pies y las uñas kit de Cortaúñas 6 intercambiables para niños recién nacidos y adultos cuidado seguro'
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

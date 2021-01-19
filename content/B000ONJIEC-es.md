@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Qw6d8B-xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000ONJIEC-es'
+slug: 'B000ONJIEC-es Osram Dulux L - Lámpara 36w/840 lumilux 2g11'
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

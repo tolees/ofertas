@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xqgC9y7TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z22PGJC-es'
+slug: 'B07Z22PGJC-es Panasonic ES-RW31-K503 - Afeitadora y recortadora para hombre  2 en 1  hojas precisión nanométrica  cabezal giratorio flexible  lavable  hojas dobles  luz de carga  negro'
 actualPrice: 24.73 EUR
 currency: EUR
 price: 24.73

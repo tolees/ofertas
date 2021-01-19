@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sbX+6g4PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M8ABHVQ-es'
+slug: 'B00M8ABHVQ-es SanDisk Ultra II - Disco Duro sólido Interno SSD de 960 GB  SATA III  2.5"  550 MB/s de Lectura   Negro'
 actualPrice: 227.42 EUR
 currency: EUR
 price: 227.42

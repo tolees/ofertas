@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pF0XFwsIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003PZHYLK-es'
+slug: 'B003PZHYLK-es STANLEY 1-97-483 - Organizador SortMaster Junior'
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

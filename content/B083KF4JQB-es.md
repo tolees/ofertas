@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tFsDR5fnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083KF4JQB-es'
+slug: 'B083KF4JQB-es Party Feet Scholl Plantillas Protector Talón Pack 2 Unidades'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

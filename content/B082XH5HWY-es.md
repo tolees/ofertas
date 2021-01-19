@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BOeKMMHML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XH5HWY-es'
+slug: 'B082XH5HWY-es MSI MAG FORGE 101M Mid-Tower - Caja de PC Gaming  3 x 120 mm RGB + 1 x 120 mm RGB Ventiladores Incluidos  Panel Cristal Templado  ATX  mATX  Mini-ITX   negro'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

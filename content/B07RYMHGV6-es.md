@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TcGPhNTrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYMHGV6-es'
+slug: 'B07RYMHGV6-es San Ignacio Q2837 Set 3 Piezas sartenes Ø20  Ø24  Ø28 cms  Aluminio Forjado  inducción Monza'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

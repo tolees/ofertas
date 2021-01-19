@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51A-HdOsBEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXFP3MV-es'
+slug: 'B07FXFP3MV-es MIULEE Juego de 4 Lino Cojines Serie de Películas Funda de Cojín Almohada Caso de Decorativo Cojines para Sala de Estar sofá Cama Coche 18"x18" Pulgadas 45x45cm'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

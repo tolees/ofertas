@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IikPh%2BYoL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHW9XH3-es'
+slug: 'B07CHW9XH3-es Lorus Reloj Analógico para Hombre de Cuarzo con Correa en Cuero RH937JX9'
 actualPrice: 24.3 EUR
 currency: EUR
 price: 24.3

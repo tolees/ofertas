@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S0BxMNs3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVTVJ8K-es'
+slug: 'B07WVTVJ8K-es Lámpara de Techo Moderna Tomshine 24W 169 Piezas * 2835 Beads Luz de Techo LED Cuadrado IP65 Impermeable 4000k Luz Blanca Natural 2000lm Brillo Iluminación para Salón Comedor Habitacion Dormitorio'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

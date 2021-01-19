@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-Ezxi50SL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K12K2YV-es'
+slug: 'B07K12K2YV-es adidas Deerupt Runner C Zapatillas de Gimnasia Unisex Niños  Verde  Ice Mint/Ftwr White/Clear Orange Ice Mint/Ftwr White/Clear Orange   31 EU'
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

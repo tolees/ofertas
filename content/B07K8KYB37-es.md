@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51w6lL97vmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8KYB37-es'
+slug: 'B07K8KYB37-es MOSNOVO [Ultra Hybrid Funda iPhone XR protección híbrida de la Gota para Apple iPhone XR - Koi Fish'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

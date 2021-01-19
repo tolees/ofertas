@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hRBA1ZmcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005AIHZHS-es'
+slug: 'B005AIHZHS-es Sisley Phyto-Mascara Ultra-Stretch #02-Deep Brown 7.5 ml'
 actualPrice: 24.65 EUR
 currency: EUR
 price: 24.65

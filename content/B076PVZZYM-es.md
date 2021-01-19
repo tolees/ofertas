@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WNi9GKblL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PVZZYM-es'
+slug: 'B076PVZZYM-es Skechers Women s Ultra Flex-First Take Slip On Trainers  Black  Black BBK   5 UK 38 EU'
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

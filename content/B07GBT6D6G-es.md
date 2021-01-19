@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZCc-oB2RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBT6D6G-es'
+slug: 'B07GBT6D6G-es Pulsar Reloj analogico para Mujer de Cuarzo con Correa en Ninguno PM2263X1'
 actualPrice: 46.67 EUR
 currency: EUR
 price: 46.67

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FBJgkjBIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083M5DTHM-es'
+slug: 'B083M5DTHM-es szlsl88 Esterilla de Yoga Grande y Gruesa para Ejercicios de Gimnasia  a Prueba de Humedad…  180 x 50 x 0 6 cm '
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

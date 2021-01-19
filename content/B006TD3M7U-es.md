@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hWuE1TREL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006TD3M7U-es'
+slug: 'B006TD3M7U-es Garnier Niños Sensitive Advanced - Protector Solar para Pieles Claras  Sensibles e Intolerantes al Sol  IP50+  - 50 ml  Formato Viaje '
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F4l9W9YdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079K2MCHH-es'
+slug: 'B079K2MCHH-es Rimmel London Match Perfection Foundation Base de Maquillaje Tono 501 Noisette - 123 gr'
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

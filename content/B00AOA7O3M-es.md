@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411+wQbFX1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AOA7O3M-es'
+slug: 'B00AOA7O3M-es Nike M NP Short Pantalones Cortos de Deporte  Hombre  Black/Anthracite/White  S'
 actualPrice: 18.47 EUR
 currency: EUR
 price: 18.47

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418QkRAt1NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7VQ7J5-es'
+slug: 'B07K7VQ7J5-es Britax Römer Kidfix² S Blue Marble'
 actualPrice: 196.12 EUR
 currency: EUR
 price: 196.12

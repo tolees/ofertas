@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MEPRUUNXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVVHGVD-es'
+slug: 'B07NVVHGVD-es Neceser dos compartimentos adaptable a trolley Movom Enjoy'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

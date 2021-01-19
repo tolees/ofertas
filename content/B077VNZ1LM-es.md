@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XswNd5+oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VNZ1LM-es'
+slug: 'B077VNZ1LM-es Dickies Gilmer Cinturón  Negro  No Aplica  Talla del fabricante:  Unisex adulto'
 actualPrice: 15.67 EUR
 currency: EUR
 price: 15.67

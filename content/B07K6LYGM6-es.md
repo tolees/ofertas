@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vk2ZH2VnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6LYGM6-es'
+slug: 'B07K6LYGM6-es Asics Gel-Nimbus 21  Zapatillas de Running para Mujer  Gris  Dark Mid Grey 021   39.5 EU'
 actualPrice: 124.98 EUR
 currency: EUR
 price: 124.98

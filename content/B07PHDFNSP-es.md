@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fT6T3Dt8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHDFNSP-es'
+slug: 'B07PHDFNSP-es Lenovo ThinkPad E590 - Ordenador portátil 15.6" FullHD  Intel Core i5-8265U  8GB RAM  512GB SSD  Intel UHD Graphics  Windows Pro  Negro - Teclado QWERTY español'
 actualPrice: 649.99 EUR
 currency: EUR
 price: 649.99

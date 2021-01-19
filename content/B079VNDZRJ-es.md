@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31o8Pkf3YML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VNDZRJ-es'
+slug: 'B079VNDZRJ-es Thomas Sabo  Colgante para Mujer "Flor de LisCharm Club"  Plata de Ley 925  Plateado'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

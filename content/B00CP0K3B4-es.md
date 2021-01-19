@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OlYl9uCAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CP0K3B4-es'
+slug: 'B00CP0K3B4-es Vans Atwood Canvas  Zapatillas para Hombre  Rojo  Oxblood/White 8J3   50 EU'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qEV4tX8ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YHHV31C-es'
+slug: 'B00YHHV31C-es Oralteck - Esterilizador por UV y Ozono. UV Sanitizer. Multiples usos: Dentaduras  Mascarillas  Audifonos  Llaves  Joyas  Relojes  Etc.'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

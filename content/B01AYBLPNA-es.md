@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ebgCUZBNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AYBLPNA-es'
+slug: 'B01AYBLPNA-es Invision Soporte de Pared para TV Ultra Fuerte – para Pantallas Curvo Plasma LCD LED 94-178cm  37-70 Pulgadas  Doble Brazo Giratorio Inclinable – con Cable HDMI 1080p y Nivel de Burbuja  HDTV-DXL '
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

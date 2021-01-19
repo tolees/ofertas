@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Z42R+2EsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QYTH1YM-es'
+slug: 'B07QYTH1YM-es Pancarta de Carnaval Decoración de Fiesta de Carnaval 2019  Fondo de Carnaval de Tela Decoraciones de Circo de 70 87 x 27 56 Pulgadas de Grande'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

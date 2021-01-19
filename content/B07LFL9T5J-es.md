@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Es4AUmKUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFL9T5J-es'
+slug: 'B07LFL9T5J-es Levi s Essential Polo  Rojo  Brilliant Red 0009   Medium para Mujer'
 actualPrice: 22.15 EUR
 currency: EUR
 price: 22.15

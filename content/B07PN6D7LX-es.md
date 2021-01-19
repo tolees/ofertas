@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ec-ubGXqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PN6D7LX-es'
+slug: 'B07PN6D7LX-es Bourjois Velvet The Pencil - Pintalabios Tono 15 Rouge ES-Carmin  3g'
 actualPrice: 4.14 EUR
 currency: EUR
 price: 4.14

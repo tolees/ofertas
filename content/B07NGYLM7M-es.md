@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EmaLSewDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGYLM7M-es'
+slug: 'B07NGYLM7M-es El Naturalista NG33 Soft Grain YUGEN  Botas Clasicas para Hombre  Negro  Black Black   41 EU'
 actualPrice: 49.3 EUR
 currency: EUR
 price: 49.3

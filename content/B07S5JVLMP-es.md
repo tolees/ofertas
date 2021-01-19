@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PbsR2lURL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5JVLMP-es'
+slug: 'B07S5JVLMP-es Hapilife Grifo de Cocina Extraíble Monomando 360 ° Giratoro Cromado Antical para Fregadero Conexión 3/8" Estándar  10 Años Garantía'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

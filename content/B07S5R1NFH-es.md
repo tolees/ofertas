@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rYO-tHT9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5R1NFH-es'
+slug: 'B07S5R1NFH-es Joyeee Niños Bricolaje Conjunto de Cuentas  Set de Abalorios Infantiles Kit de joyería para Joyas DIY Manualid para niños niña Regalo Pulseras Collares DIY Haciendo Kit'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

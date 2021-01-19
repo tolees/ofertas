@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VTTkTCKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYT6PH-es'
+slug: 'B07PYYT6PH-es Under Armour UA Charged Rogue 2  Zapatillas para Correr  Calzado cómodo para Hombre  Gris  Pitch Gray/Halo Gray/Halo Gray   41 EU'
 actualPrice: 34.78 EUR
 currency: EUR
 price: 34.78

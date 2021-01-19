@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mAaLJUi7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZXHKV6-es'
+slug: 'B085ZXHKV6-es Bovon Soporte Móvil  Soporte para iPad Mini  Multiángulo Sujeta Teléfono Muelle de Carga Sólido para iPhone 11 Pro Max/11/XS MAX/XR/X/8  Galaxy S20 Plus/S10  Huawei  Facetime y Transmisión en Vivo'
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

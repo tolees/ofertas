@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F-rscMFQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004ZGAA28-es'
+slug: 'B004ZGAA28-es HifloFiltro HFA3615 Filtro para Moto'
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

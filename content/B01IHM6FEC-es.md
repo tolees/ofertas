@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4187W1mQVSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IHM6FEC-es'
+slug: 'B01IHM6FEC-es Severin MY 7101 S POWER Fire 800 W - Aspiradora  800 W  Aspiradora cilíndrica  Secar  Sin Bolsa  1 L  HEPA '
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

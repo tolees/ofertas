@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ltNe2R4pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHY16Q4-es'
+slug: 'B07RHY16Q4-es Under Armour Men s Charged Assert 8 Ltd Laufschuhe  Zapatillas de Running para Hombre  Negro  Black/White/White  001  001   41 EU'
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

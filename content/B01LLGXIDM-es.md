@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mg6fGhWFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LLGXIDM-es'
+slug: 'B01LLGXIDM-es 1 par Pendientes pequeños de plata de las mujeres pendientes ondulados en Compatible Conma de hoja pendientes preciosos'
 actualPrice: 0.77 EUR
 currency: EUR
 price: 0.77

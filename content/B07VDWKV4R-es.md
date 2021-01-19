@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414OfkzmnFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDWKV4R-es'
+slug: 'B07VDWKV4R-es Trswyop Batería Externa para Móvil 25800mAh【Colorido Diseño de Indicador LED】 Power Bank Alta Velocidad con 2 Puertos USB Cargador Portátil Alta Capacidad para Smartphone  Tableta PC y Más'
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

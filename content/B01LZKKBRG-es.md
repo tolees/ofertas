@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gwq4CoSBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZKKBRG-es'
+slug: 'B01LZKKBRG-es Mini altavoz portátil con Bluetooth  Con función altavoz  6 horas de reproducción musical  Sonido cristalino y potente  Verde metalizado  WOW  63581064'
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

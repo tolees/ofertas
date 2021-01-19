@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CG7ka13jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GCHFFN8-es'
+slug: 'B08GCHFFN8-es MERIGLARE 10g UV Resina Cristal Claro Ultravioleta curado Resina epoxi para DIY joyería Hacer hallazgos DIY  artesanía-Duro Tipo Pegamento Hecho a Mano Resina'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61KvHhPgR-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BJ4FBO-es'
+slug: 'B001BJ4FBO-es Piscina Ultra Frame'
 actualPrice: 470.0 EUR
 currency: EUR
 price: 470.0

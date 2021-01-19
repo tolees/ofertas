@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41030Z8tBpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AQ24MDS-es'
+slug: 'B00AQ24MDS-es Taurus Hipnos Power - Barbero con cuatro cabezales intercambiables  color gris'
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

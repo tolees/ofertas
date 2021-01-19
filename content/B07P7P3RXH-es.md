@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kyaZZkDEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7P3RXH-es'
+slug: 'B07P7P3RXH-es Garnier BIO - Kit Limpiador  incluye Gel Detox Lemongrass con Agua de Flor de Aciano Ecológica  150 ml  y Esponja Konjac Exfoliante'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

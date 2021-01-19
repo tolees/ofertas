@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nH6yl9GBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFDPJVD-es'
+slug: 'B07KFDPJVD-es USB Recargable Calentador De Manos 6000 mAh Banco De Energía Móvil a Prueba De Explosiones Mini Espejo De Maquillaje Regalo De Invierno Caqui '
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

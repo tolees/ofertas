@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dGn9Mj4BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DF4BJX-es'
+slug: 'B085DF4BJX-es ADOVEL Orinal Infantil  Orinal Bebe  WC Niños para Bebé Aprende Entrenamiento Pote Más de 18 meses  Blanco'
 actualPrice: 35.85 EUR
 currency: EUR
 price: 35.85

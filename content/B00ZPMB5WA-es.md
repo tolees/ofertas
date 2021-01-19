@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Chsw613DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZPMB5WA-es'
+slug: 'B00ZPMB5WA-es Lee Daren Button Fly Jeans  Azul  Strong Hand Db   38W / 30L para Hombre'
 actualPrice: 36.3 EUR
 currency: EUR
 price: 36.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xlc2Fi1bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HHI7FOG-es'
+slug: 'B01HHI7FOG-es Adidas Sneakers  Zapatillas para Hombre  Negro  Core Black/Blue/Footwear White 0   40 EU'
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

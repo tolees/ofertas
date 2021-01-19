@@ -6,7 +6,7 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F38CB8N-es'
+slug: 'B07F38CB8N-es KLIMTM Esports Silla Gaming Ergonómica + con Soporte Lumbar y Cervical + Reclinable + Silla de Escritorio Ajustable + Piel Sintética y Materiales Premium + Silla Gamer Negra [Nueva VERSIÓN 2020]'
 actualPrice: 262.43 EUR
 currency: EUR
 price: 262.43

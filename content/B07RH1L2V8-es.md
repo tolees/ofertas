@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H41vEsrIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RH1L2V8-es'
+slug: 'B07RH1L2V8-es G-Star Raw 3301 Straight  Jeans Dritto Uomo  Nero  antic charcoal B479-A800   W36/L38'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

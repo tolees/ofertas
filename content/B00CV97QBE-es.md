@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h6yDcpkmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CV97QBE-es'
+slug: 'B00CV97QBE-es De Longhi Dolce Gusto Mini Me EDG305.BG - Cafetera de cápsulas  15 bares de presión  color negro y gris'
 actualPrice: 63.84 EUR
 currency: EUR
 price: 63.84

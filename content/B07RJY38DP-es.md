@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oTzI-OsuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJY38DP-es'
+slug: 'B07RJY38DP-es KooPower - Guirnalda de luces  cable de cobre  funciona con pilas   Alambre de cobre  plástico.  100 LEDs Battery Fairy Lights'
 actualPrice: 4.51 EUR
 currency: EUR
 price: 4.51

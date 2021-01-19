@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CPkY3hEKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BVB12G-es'
+slug: 'B083BVB12G-es GLEADING Cepillo Quitar Pelos de Mascotas  Rodillo Autolimpiante para Quitar Pelos de Perros y Gatos: Quita los Pelos de Perros y Gatos de Muebles  Alfombras  Ropa de Cama  Ropa'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

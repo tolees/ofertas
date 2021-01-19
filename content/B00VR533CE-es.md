@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Tc-lC1LoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VR533CE-es'
+slug: 'B00VR533CE-es Skechers Men s STAMINA CUTBACK Trainers  Grey  Charcoal & Black Leather/Charcoal Mesh Ccbk   7.5  41.5 EU '
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

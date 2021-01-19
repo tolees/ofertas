@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51f1+m+pB0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQJ4AO1-es'
+slug: 'B01MQJ4AO1-es Vaultskin Eton Armour - Funda de cuero para iPhone SE y 5s  Marrón '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

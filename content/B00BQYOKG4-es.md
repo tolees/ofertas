@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51d5xuvv8UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BQYOKG4-es'
+slug: 'B00BQYOKG4-es Case Logic CPL102K - Bolsa para cámara  Negro'
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

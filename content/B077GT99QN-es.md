@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cq9bg0W6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077GT99QN-es'
+slug: 'B077GT99QN-es HAUPTSTADTKOFFER - BRITZ - Equipaje de Mano con Compartimento para computadora portátil  Maleta Cabina  Trolley rígido  4 Ruedas  Super Ligero  55 cm  34 L – Negro'
 actualPrice: 107.95 EUR
 currency: EUR
 price: 107.95

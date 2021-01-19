@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41e4HerAANL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VR1H23C-es'
+slug: 'B07VR1H23C-es Nike Renew Lucent  GS   Zapatillas Unisex Niños  Negro  Black/Volt/Pure Platinum/Dark 105   35.5 EU'
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

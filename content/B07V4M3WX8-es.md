@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oFSYJ+mNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4M3WX8-es'
+slug: 'B07V4M3WX8-es Love MoschinoJc4247pp0aMujerCarteras de manoPlateado  Silver 7x14x22 Centimeters  W x H x L '
 actualPrice: 58.58 EUR
 currency: EUR
 price: 58.58

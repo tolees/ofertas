@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KkaRdk0XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBC9HB6-es'
+slug: 'B07VBC9HB6-es Optimum Nutrition 1094185 Optimum Protein Shakes Strawberry Listo a Consumir 50G de Proteína sin Azúcar Añadido  Carbohidratos 10 Unidades 500 ml'
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

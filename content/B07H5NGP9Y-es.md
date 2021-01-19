@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ohbRuUuCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5NGP9Y-es'
+slug: 'B07H5NGP9Y-es Targus THZ749GL Funda VersaVu para iPad Pro de 12 9 Pulgadas  2018  en Color Negro'
 actualPrice: 43.03 EUR
 currency: EUR
 price: 43.03

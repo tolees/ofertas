@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JPzaYw5AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XD29BN-es'
+slug: 'B082XD29BN-es Uso duradero Accesorios de piezas de repuesto para aspiradora inalámbrica Accesorios especiales Filtro colector de polvo para filtro de aspiradora Blanco y negro'
 actualPrice: 1.57 EUR
 currency: EUR
 price: 1.57

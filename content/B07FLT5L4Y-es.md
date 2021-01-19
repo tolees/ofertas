@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m7SXtGwOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FLT5L4Y-es'
+slug: 'B07FLT5L4Y-es Marvel Los Vengadores- Juego de 2 cepillos de dientes para niños  ideales para viaje 40 g'
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

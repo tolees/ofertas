@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NeZmm7kiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTTRMQW-es'
+slug: 'B07TTTRMQW-es Skechers Skech-Air Stratus  Zapatillas para Hombre  Gris  Charcoal Textile/Synthetic/Black Trim Charcoal   41 EU'
 actualPrice: 43.35 EUR
 currency: EUR
 price: 43.35

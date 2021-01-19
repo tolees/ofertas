@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JA6aWSD+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFJXLBJ-es'
+slug: 'B07NFJXLBJ-es Monix Pisa Gold  - Set de cubiertos de 24 piezas con cuchillo chuletero  acero inoxidable 18/10  diseño contemporaneo  acabado pulido brillante dorado  espesor 3 mm  6 comensales '
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

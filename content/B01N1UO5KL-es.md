@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Il6yJVi1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1UO5KL-es'
+slug: 'B01N1UO5KL-es Car&Gus Disfraz de Mariquita Reina para Mujer'
 actualPrice: 14.28 EUR
 currency: EUR
 price: 14.28

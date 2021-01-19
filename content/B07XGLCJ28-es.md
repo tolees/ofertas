@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DrTzqRcmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGLCJ28-es'
+slug: 'B07XGLCJ28-es Skechers DARLOW REMEGO  Zapatillas para Hombre  Tela Vaquera Azul  41 EU'
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gCEgXwA0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002ZN01MW-es'
+slug: 'B002ZN01MW-es My Day Protector Incontinencia Ultra Mini Compresas - 28 Unidades'
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15

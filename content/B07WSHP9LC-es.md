@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f7kWC3RkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSHP9LC-es'
+slug: 'B07WSHP9LC-es Griffin Technology Funda Survivor Endurance para iPhone 11 Negra/Gris/ahumada'
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

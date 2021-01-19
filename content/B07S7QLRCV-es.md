@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZT8b7bkEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QLRCV-es'
+slug: 'B07S7QLRCV-es PUMA Zone XT WNS  Zapatillas Deportivas para Interior para Mujer  Rosa  Ignite Pink White   37 EU'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

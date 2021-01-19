@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fpVXNXjEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWY5BCC-es'
+slug: 'B07QWY5BCC-es Vovees Crema facial antiarrugas hidratante orgánica con ácido hialurónico puro para día y noche  50 ml Blue Light Defence'
 actualPrice: 29.93 EUR
 currency: EUR
 price: 29.93

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ux3qifaOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CSYUQUU-es'
+slug: 'B00CSYUQUU-es Hacienda Zorita Natural Reserve Syrah Vino tinto - 750 ml'
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+W+jS73wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCN6N49-es'
+slug: 'B06XCN6N49-es TW Steel VS2 Volante - Reloj Analógico de Pulsera con Movimiento de Cuarzo para Hombre  Caja Acero Inoxidable  Cristal Mineral  Correa Textil  Negro  48 mm'
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

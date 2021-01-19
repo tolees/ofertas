@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411CBgz5ZNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSHX3NP-es'
+slug: 'B07PSHX3NP-es HAVIT Auriculares Bluetooth Inalámbricos 5.0 Auricular Deportivos con Caja de Carga Sonido Estére In-Ear Auricular Mini con Micrófono para Xiaomi/Samsung/Huawei/y Otros I91 Negro '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OwPg4mj4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7XT5HD-es'
+slug: 'B07V7XT5HD-es Tommy Hilfiger Essential Stripes Detail Sneaker  Zapatillas para Hombre  Blanco  White Ybs   41 EU'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

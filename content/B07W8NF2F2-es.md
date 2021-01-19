@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ktO9ASw2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8NF2F2-es'
+slug: 'B07W8NF2F2-es Beikell Corrector de Postura  Corrector de Postura Espalda Hombro para Hombre y Mujer Talla Única y Ajustable Faja Espalda Recta Soporte Transpirable para Aliviar Dolor y Mejorar Postura'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

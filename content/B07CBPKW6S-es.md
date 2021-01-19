@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318yCPXYpbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CBPKW6S-es'
+slug: 'B07CBPKW6S-es Victoria Basket Lona Plataforma Autoclave  Zapatillas para Mujer  Blanco  Blanco 20   36 EU'
 actualPrice: 30.3 EUR
 currency: EUR
 price: 30.3

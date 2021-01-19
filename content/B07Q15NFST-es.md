@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fJIGNgUaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q15NFST-es'
+slug: 'B07Q15NFST-es L Oreal Paris Make-up Designer Kit Serum de Pestañas Clinically Proven y Máscara de Pestañas Volumen Million de Pestañas Extra Negro'
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zlM49sURL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRK5WML-es'
+slug: 'B07KRK5WML-es New Balance 624v5  Zapatillas Deportivas para Interior para Mujer  Blanco  White White   38 EU'
 actualPrice: 23.05 EUR
 currency: EUR
 price: 23.05

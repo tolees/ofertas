@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ipUaRMtlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU0VW0E-es'
+slug: 'B01MU0VW0E-es Garnier Olia - Coloración Permanente sin Amoniaco  con Aceites Florales de Origen Natural - Tono 7.3 Rubio Dorado'
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

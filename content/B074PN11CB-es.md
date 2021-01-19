@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31XhmKXtonL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PN11CB-es'
+slug: 'B074PN11CB-es YUNTAB Nemo Cámara Panorámica Portátil 360 grados 1080P Wifi Cámara deportiva 210-Grado Ultra Gran Angular 720 °Ángulo Vista Tarjeta SD Hasta 128GB'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

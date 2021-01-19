@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CB+DW4mdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079J5GT2K-es'
+slug: 'B079J5GT2K-es Asics Roadhawk FF 2  Zapatillas de Entrenamiento para Hombre  Azul  Race Blue/White 400   42.5 EU'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

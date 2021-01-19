@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hq+bxWUfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2TLGMF-es'
+slug: 'B01N2TLGMF-es JBL Flip 4 - Altavoz inalámbrico portátil con Bluetooth  parlante resistente al agua  IPX7   JBL Connect+  hasta 12h de reproducción con sonido de alta fidelidad'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

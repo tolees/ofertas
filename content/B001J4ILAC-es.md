@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E+AjkIMaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001J4ILAC-es'
+slug: 'B001J4ILAC-es Casio Reloj de Pulsera LW-200D-4AVEF'
 actualPrice: 27.03 EUR
 currency: EUR
 price: 27.03

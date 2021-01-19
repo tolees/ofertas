@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41raP%2BI7y7L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F15F5JF-es'
+slug: 'B07F15F5JF-es Neceser Pepe Jeans Cranford Marrón'
 actualPrice: 22 EUR
 currency: EUR
 price: 22

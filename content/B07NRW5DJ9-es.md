@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SgfisJcUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRW5DJ9-es'
+slug: 'B07NRW5DJ9-es Corsair MM350 Champion - Alfombrilla para Juegos de Tela antidesgaste Premium de campeones  Tamaño XL  Negro'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

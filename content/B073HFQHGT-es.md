@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YkU16u0nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073HFQHGT-es'
+slug: 'B073HFQHGT-es Cillit Bang - Spray Limpiador Suciedad y Manchas de Humedad  para baños y juntas negras - 750 ml'
 actualPrice: 2.68 EUR
 currency: EUR
 price: 2.68

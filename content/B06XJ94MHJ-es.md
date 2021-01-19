@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fcgHA4NCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XJ94MHJ-es'
+slug: 'B06XJ94MHJ-es Winhappyhome Logotipo De La Belleza De La PeluqueríA'
 actualPrice: 12.68 EUR
 currency: EUR
 price: 12.68

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qEao0YlSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVV5C48-es'
+slug: 'B07WVV5C48-es Kinross Gin pink - 6 botellas x 700 ml - Total: 4200 ml'
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

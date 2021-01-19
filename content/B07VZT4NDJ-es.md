@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TbvVc4b-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZT4NDJ-es'
+slug: 'B07VZT4NDJ-es Reloj Digital para niños  7 Colores  con luz LED  para niños  niñas  Resistente al Agua  Reloj Deportivo Digital para niños  pequeño Rosa '
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

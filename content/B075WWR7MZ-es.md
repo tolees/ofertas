@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qccNKYVeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WWR7MZ-es'
+slug: 'B075WWR7MZ-es Michael Kors Reloj Analogico para Hombre de Cuarzo con Correa en Silicona MKT4010'
 actualPrice: 134.26 EUR
 currency: EUR
 price: 134.26

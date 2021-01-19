@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rm3q-rHEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C23V3MX-es'
+slug: 'B07C23V3MX-es WILBEST Exprimidor Limón Manual  Exprimidor Manual de Aleación de Zinc  Prensa de Mano Jugo de Clip Fruta para Limón y Naranjas ect  Alta Calidad - Plata'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nz8+2LXNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBLYGXX-es'
+slug: 'B07VBLYGXX-es DANISH ENDURANCE Calcetines de Senderismo de Lana Merino 3 Pares  Gris Claro  EU 31-34 '
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

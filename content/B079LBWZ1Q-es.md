@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P1m4NgFkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LBWZ1Q-es'
+slug: 'B079LBWZ1Q-es Sorel Explorer Carnival  Botas para Mujer  Verde  Hiker Green/Black 371   36 EU'
 actualPrice: 22.63 EUR
 currency: EUR
 price: 22.63

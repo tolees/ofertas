@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UbyD50mWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCK2Q7B-es'
+slug: 'B07RCK2Q7B-es Levi s Two Horse Embossed Belt Cinturón  Marrón  Brown 28   90 para Hombre'
 actualPrice: 11.08 EUR
 currency: EUR
 price: 11.08

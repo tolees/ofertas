@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RytlPENTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088WTTJH1-es'
+slug: 'B088WTTJH1-es Oihxse Cristal Funda Compatible con Samsung Galaxy M30s Silicona Estuche TPU Suave Flexible Transparente Carcasa Calavera Rosa Flores Patrón Anti Rasguños Protector Caso E8 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31H5R14gTiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNG699K-es'
+slug: 'B07SNG699K-es Lacoste Lerond TRI1 CMA  Zapatillas para Hombre  Blanco  Wht/Nvy/Red   42 EU'
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

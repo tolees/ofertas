@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UUVG8iuLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFCWW15-es'
+slug: 'B07VFCWW15-es WD My Passport Go 2 TB  Disco duro sólido externo  acabado Ámbar'
 actualPrice: 262.1 EUR
 currency: EUR
 price: 262.1

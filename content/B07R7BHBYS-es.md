@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pGBlFOmuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7BHBYS-es'
+slug: 'B07R7BHBYS-es JACK & JONES JFWORCA Leather 19 STS  Chukka Boots para Hombre  Marrón Cognac Cognac   40 EU'
 actualPrice: 43.17 EUR
 currency: EUR
 price: 43.17

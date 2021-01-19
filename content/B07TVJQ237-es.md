@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zmyyDW9IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVJQ237-es'
+slug: 'B07TVJQ237-es Cepillo de pelo natural para bebés  Pelo de cabra  Cuidado delicado para el pelo suave de bebés  niños pequeños  Cuidado de bebés de los primeros a by ARTUROLUDWIG'
 actualPrice: 3.31 EUR
 currency: EUR
 price: 3.31

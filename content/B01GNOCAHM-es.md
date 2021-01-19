@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21aseyr8NkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GNOCAHM-es'
+slug: 'B01GNOCAHM-es Luz Solar  Kealive Lámpara Solar Exterior  8 Colores Ajustables  Lámpara Solar Clase IP67 a Prueba De Agua Fuera de La Forma de La Piedra Para Jardín  Patio'
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

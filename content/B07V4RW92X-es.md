@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q-pkfiRpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4RW92X-es'
+slug: 'B07V4RW92X-es Calvin Klein - Neat Hobo Md  Shoppers y bolsos de hombro Mujer  Marrón  Cuoio   1x1x1 cm  W x H L '
 actualPrice: 45.72 EUR
 currency: EUR
 price: 45.72

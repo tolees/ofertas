@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zkw3N+XeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894TH4KJ-es'
+slug: 'B0894TH4KJ-es Adaptador Bluetooth 5.0 Receptor Transmisor Bluetooth 2 en 1 Adaptador Audio Bluetooth RCA & 3.5mm AUX  Audio HD Baja Latencia Audio Estéreo para TV  PC  Cascos  Portátil Auriculares'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

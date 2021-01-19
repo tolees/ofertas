@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518TQ15QrmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FNDY2Y-es'
+slug: 'B071FNDY2Y-es Estuche impermeable con puerto de domo para GoPro Hero 5 6 7 2018  cubierta de lentes con pistola de disparo para accesorios de buceo con lente de cámara GoPro  For GoPro Hero 5 6 '
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KjnVJEr2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK45DWQ-es'
+slug: 'B07KK45DWQ-es Columbia Fairbanks Omni-Heat  Bota de Invierno para Hombre  Azul  Carbon  Red Jas   41 EU'
 actualPrice: 38.06 EUR
 currency: EUR
 price: 38.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E3+pmuSXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC3X22S-es'
+slug: 'B07NC3X22S-es AXE Ice Chill - Desodorante Bodyspray para hombre  48 horas de protección  200 ml  pack de 3'
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31I+Y7L8wPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MM4F33N-es'
+slug: 'B07MM4F33N-es Aussie  Acondicionador de pelo - 6 de 75 ml.  Total: 450 ml. '
 actualPrice: 29.94 EUR
 currency: EUR
 price: 29.94

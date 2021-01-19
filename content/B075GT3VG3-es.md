@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uAVV6CAlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GT3VG3-es'
+slug: 'B075GT3VG3-es Pendrive 4GB 5 Piezas Memorias USB  Portátil Rotatorio USB 2.0 Flash Drive 4 GB Pen Drives  Metal Llavero Memoria Externo Stick 4 Giga Almacenamiento de Datos  Plata Azul Rojo Negro Oro '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

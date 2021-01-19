@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b8JCFVRHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK8W7ZR-es'
+slug: 'B07DK8W7ZR-es DIY 5D pintura de diamante  resina bordado imágenes arte manualidades para el hogar pared decoración animal bebé tigre pájaro patrón ver imagen Strawberry'
 actualPrice: 2.94 EUR
 currency: EUR
 price: 2.94

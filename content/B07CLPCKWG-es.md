@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/614YaAhF3KL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLPCKWG-es'
+slug: 'B07CLPCKWG-es Nobunaga s Ambition : Taishi'
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

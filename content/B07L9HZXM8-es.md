@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ck-NC05RL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9HZXM8-es'
+slug: 'B07L9HZXM8-es Under Armour Qualifier Camo Half Zip Parte Superior del Calentamiento  Mujer  Multicolor  LG'
 actualPrice: 41.52 EUR
 currency: EUR
 price: 41.52

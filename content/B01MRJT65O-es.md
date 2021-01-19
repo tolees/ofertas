@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Znd4SFGLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRJT65O-es'
+slug: 'B01MRJT65O-es Lee Scarlett Cropped  Jeans Mujer  Negro  Black Rinse   W26/L33  Talla del fabricante: 26 '
 actualPrice: 20.06 EUR
 currency: EUR
 price: 20.06

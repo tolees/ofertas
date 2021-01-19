@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WSGVBeq1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BIJ0NAO-es'
+slug: 'B00BIJ0NAO-es Vans Atwood  Zapatillas Unisex Niños  Negro  Canvas Black/White 187   36.5 EU'
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

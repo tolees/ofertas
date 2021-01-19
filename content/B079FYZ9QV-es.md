@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31GRb5gTEiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FYZ9QV-es'
+slug: 'B079FYZ9QV-es Woxter QC 10500 - Batería portátil  Conexión QC  10.500 mAh  aleación de aluminio  compatible con Quick Charge 3.0  color plata'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

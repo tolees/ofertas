@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V7tybiaNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0836W2GPK-es'
+slug: 'B0836W2GPK-es TEECY Wallet Tarjeteros para Tarjetas de Crédito Bloqueo RFID Automático Pop Up Capacidad 8-10 Hojas Caqui'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

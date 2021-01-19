@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/510iQaTVAhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HWYYZVK-es'
+slug: 'B07HWYYZVK-es Apple iPhone XS Max  de 512GB  - Oro'
 actualPrice: 1014.18 EUR
 currency: EUR
 price: 1014.18

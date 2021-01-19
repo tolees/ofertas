@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XiBak6UzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XS7G71Y-es'
+slug: 'B06XS7G71Y-es Apple Funda Smart Cover  para el iPad  - Gris carbón'
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

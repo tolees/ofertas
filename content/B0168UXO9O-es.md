@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31i7NODOrcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0168UXO9O-es'
+slug: 'B0168UXO9O-es Polar Loop2 - Pulsera de actividad  color negro'
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

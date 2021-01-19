@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ccHcvcrkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086JZ89NG-es'
+slug: 'B086JZ89NG-es TRUUA 50pcs Papel Pintura colador Embudo de Filtro de Nylon  Malla Blanca cónico   9.5x16cm '
 actualPrice: 7.22 EUR
 currency: EUR
 price: 7.22

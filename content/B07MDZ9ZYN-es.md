@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41npc0p-pIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDZ9ZYN-es'
+slug: 'B07MDZ9ZYN-es L.O.L Surprise Squishy Pocket Plush - Modelo surtido  sorpresa  Giochi Preziosi LLD15000 '
 actualPrice: 5.67 EUR
 currency: EUR
 price: 5.67

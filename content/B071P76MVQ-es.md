@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412-5A6fZEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071P76MVQ-es'
+slug: 'B071P76MVQ-es BRTLX Bombillas de Vela LED E14 7W Equivalente a 40W Blanco Cálido 3000K 560 Lúmenes No Regulable Pack de 4 Unidades'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

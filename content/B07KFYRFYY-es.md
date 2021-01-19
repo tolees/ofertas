@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GyBQO9VTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFYRFYY-es'
+slug: 'B07KFYRFYY-es PUMA Ralph Sampson LO  Zapatillas Deportivas Unisex-Adulto  Schwarz Black White Charcoal Gray  37 EU'
 actualPrice: 30.51 EUR
 currency: EUR
 price: 30.51

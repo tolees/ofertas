@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xxZjPyJ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSDP4XL-es'
+slug: 'B07VSDP4XL-es JACK & JONES Jorflash suéter  Azul  Sea Mossblau   X-Large para Hombre'
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

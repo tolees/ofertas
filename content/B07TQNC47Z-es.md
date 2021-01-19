@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kRRrDIykL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQNC47Z-es'
+slug: 'B07TQNC47Z-es Levi s Housemark Polo  Multicolor  Raven Stripe Mineral Black/Fog 0111   Medium para Hombre'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FGpgldXbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXQ5N4D-es'
+slug: 'B07FXQ5N4D-es Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene  Verde  Olive Green   33/34 EU'
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

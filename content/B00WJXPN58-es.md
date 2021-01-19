@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JsnPSNs2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WJXPN58-es'
+slug: 'B00WJXPN58-es Lee LF0450FZ  Cinturón Para Hombre  Marrón  Dark Cognac   100 cm'
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

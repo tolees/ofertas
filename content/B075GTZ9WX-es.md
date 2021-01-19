@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fWkKATt2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GTZ9WX-es'
+slug: 'B075GTZ9WX-es adidas VL Court 2.0 CMF I  Zapatillas de Gimnasia Unisex Niños  Blanco  FTWR White/Core Black/FTWR White FTWR White/Core Black/FTWR White   25.5 EU'
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

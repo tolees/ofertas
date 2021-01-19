@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zbZlpIIBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GIQT3I-es'
+slug: 'B000GIQT3I-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos con Glutamina y Aminoacidos Micronizados Incluyendo BCAA  Helado de Vainilla  146 Porciones  4.54 kg'
 actualPrice: 80.9 EUR
 currency: EUR
 price: 80.9

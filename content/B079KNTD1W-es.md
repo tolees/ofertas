@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m285ddQbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KNTD1W-es'
+slug: 'B079KNTD1W-es Remington Compact Control IPL3500 - Depiladora de Luz Pulsada  Depiladora IPL con 350 000 Disparos para Cuerpo y Cara  Unisex  Blanco y Azul'
 actualPrice: 93.92 EUR
 currency: EUR
 price: 93.92

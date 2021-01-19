@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lk-AEVuaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B8UMCRU-es'
+slug: 'B00B8UMCRU-es MEZCAL SAN COSME  700 ml'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

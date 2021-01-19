@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Do8oVVE3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD9LY7S-es'
+slug: 'B01HD9LY7S-es Fujifilm Instax Mini 70 - Cámara analógica instantánea  ISO 800  0.37x  60 mm  1:12.7  Flash automático  Modo autorretrato  exposición automática  Temporizador  Modo Macro   Rojo pasión'
 actualPrice: 89.94 EUR
 currency: EUR
 price: 89.94

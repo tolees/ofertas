@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M27EFMJ7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYZQLVG-es'
+slug: 'B07ZYZQLVG-es Umami® ⭐ Lunch Box EcoloChic™ Bleu & Bambou'
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

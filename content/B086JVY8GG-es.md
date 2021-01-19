@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51251qp0E8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086JVY8GG-es'
+slug: 'B086JVY8GG-es HACR Bolsa Protectora desechable  50 Piezas por Bolsa  3 Protective Layers Against Dust and Droplets in The Air'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

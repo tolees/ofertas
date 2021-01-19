@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yMhSgNDZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZP2WZ6W-es'
+slug: 'B07ZP2WZ6W-es BLU Ray 4k Grabadora DVD Reproductor Externo Portatil USB 3.0 Grabadora de Quemador Regrabadora Lector de CD DVD Disco para Windows7/8/10 Linux Mac Os  PC'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JEjhN3hiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TZ4DJR-es'
+slug: 'B083TZ4DJR-es TONGJI Vitrina de Acrílico con Luces Compatible con Lego 21317 Ideas - El Botero Willie  Vitrina A Prueba De Polvo  Modelo No Incluido '
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

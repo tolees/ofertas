@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TXbAnKZ+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HCRSF9Q-es'
+slug: 'B01HCRSF9Q-es adidas Originals Superstar  Zapatillas Unisex Niños  Blanco  Ftwbla/Ftwbla/Ftwbla   30 EU'
 actualPrice: 44.96 EUR
 currency: EUR
 price: 44.96

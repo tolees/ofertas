@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31L5IfKV0zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJK9RN6-es'
+slug: 'B07TJK9RN6-es Clarks Stanford Top  Botas Chelsea para Hombre  Negro  Black SDE Black SDE   40 EU'
 actualPrice: 33.04 EUR
 currency: EUR
 price: 33.04

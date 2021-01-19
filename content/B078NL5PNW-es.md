@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yh1XeRqsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078NL5PNW-es'
+slug: 'B078NL5PNW-es Asics Gel-Lyte Runner  Zapatillas para Hombre  Rosa Pale Mauve 1717  43.5 EU'
 actualPrice: 31.11 EUR
 currency: EUR
 price: 31.11

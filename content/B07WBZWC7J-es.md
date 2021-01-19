@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pL-6khfnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBZWC7J-es'
+slug: 'B07WBZWC7J-es Jack & Jones Jcomilla Sweat Hood Capucha  Multicolor  Light Grey Melange Detail:w. Black   X-Large para Hombre'
 actualPrice: 14.23 EUR
 currency: EUR
 price: 14.23

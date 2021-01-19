@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ajh5H5cjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079M6V4GS-es'
+slug: 'B079M6V4GS-es Dunlop - Botas Estilo Wellington Unisex Modelo Pricemastor para Adultos  42 EU/Verde '
 actualPrice: 18.7 EUR
 currency: EUR
 price: 18.7

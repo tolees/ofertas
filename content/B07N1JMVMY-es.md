@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411YwzMwM7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JMVMY-es'
+slug: 'B07N1JMVMY-es Clarks Verona Gleam  Botas Plisadas para Mujer  Braun British Tan British Tan  42 EU'
 actualPrice: 35.52 EUR
 currency: EUR
 price: 35.52

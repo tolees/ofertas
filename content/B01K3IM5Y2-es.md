@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u396PIq5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K3IM5Y2-es'
+slug: 'B01K3IM5Y2-es Nike SB Portmore II Solar  Zapatillas de Skateboard para Hombre  Negro  Black/Dk Grey/Gum Lt Brown 009   36 1/2 EU'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

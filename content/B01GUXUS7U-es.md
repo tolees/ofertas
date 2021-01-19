@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yND6lIZoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GUXUS7U-es'
+slug: 'B01GUXUS7U-es Targus TSS93311EU Pro-tek - Funda para Dispositivos de 11.6"  Color Plata'
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

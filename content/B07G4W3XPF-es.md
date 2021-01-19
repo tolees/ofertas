@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51c3QV-QuBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4W3XPF-es'
+slug: 'B07G4W3XPF-es Scuderia Ferrari Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable 830572'
 actualPrice: 83.59 EUR
 currency: EUR
 price: 83.59

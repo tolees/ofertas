@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514PBhVu-4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK2QMXB-es'
+slug: 'B07KK2QMXB-es Super Neptunia RPG'
 actualPrice: 33.05 EUR
 currency: EUR
 price: 33.05

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61EJ9auQPoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPPWM7G-es'
+slug: 'B06XPPWM7G-es Forever Speed Piscina Perros Gatos Bañera Piscina Mascotas Piscina para Niños Portátil Plegable Piscina de Baño Antideslizante Resistente al Desgaste PVC Doggy Pool  120X30cm Rojo '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

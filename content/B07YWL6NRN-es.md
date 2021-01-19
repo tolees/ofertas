@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Dy0FukamL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YWL6NRN-es'
+slug: 'B07YWL6NRN-es Nuk Sports Cup - Botella para aprender a beber  antigoteo  boquilla de silicona con tapa protectora y clip  450 ml  bailarina  rosa '
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

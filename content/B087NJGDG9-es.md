@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nA+Hcaq6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087NJGDG9-es'
+slug: 'B087NJGDG9-es TOMSHOO Rueda Abdominales Fitness Kit AB Roller y Esterilla Antideslizante para Rodillas Fitness Aparatos para el Hogar – Aparatos Portátiles para Entrenamiento de Fuerza Muscular Fitness'
 actualPrice: 18.64 EUR
 currency: EUR
 price: 18.64

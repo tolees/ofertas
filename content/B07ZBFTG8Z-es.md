@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412wQiPl2EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZBFTG8Z-es'
+slug: 'B07ZBFTG8Z-es Hztyyier Pistola de Calor 1800W Pistola de Aire Caliente de Alta Potencia Control de Temperatura Variable con 3 temperaturas para Manualidades  tubería termocontraíble  Pintura decapante  Soldadura'
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

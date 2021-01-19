@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QXSKS+4QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ18KY8-es'
+slug: 'B07DJ18KY8-es Master & Dynamic MW50+ - Auricular bluetooth  color plata'
 actualPrice: 264.06 EUR
 currency: EUR
 price: 264.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kb4v3c3OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTVBXPM-es'
+slug: 'B07KTVBXPM-es Columbia Street Elite Bolsa de Viaje Convertible  Unisex Adulto  Gris  Shark   O/S'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

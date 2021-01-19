@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kAgSi9tEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF5BMJ7-es'
+slug: 'B07KF5BMJ7-es Levi s 501 Short Long Pantalones Cortos  Azul  Blue Clue 0006   W23  Talla del Fabricante: 23  para Mujer'
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

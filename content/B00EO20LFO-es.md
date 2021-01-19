@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ijgTsoehL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EO20LFO-es'
+slug: 'B00EO20LFO-es JVC HA-F160-B-E Gumy - Auriculares de botón  color negro'
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

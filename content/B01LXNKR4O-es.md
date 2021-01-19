@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51E214PXl+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXNKR4O-es'
+slug: 'B01LXNKR4O-es Imetec CH 3000 - Picadora  4 Cuchillas de Acero Inoxidable  Recipiente de Gran Capacidad de 600 ml  18.000 rpm  Funcionamiento a Presión  1000 W'
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

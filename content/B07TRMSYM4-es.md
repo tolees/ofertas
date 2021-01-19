@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ln10f4bcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRMSYM4-es'
+slug: 'B07TRMSYM4-es Levi s Plus Size Pl 501 Original Short Pantalones Cortos  Gris  Eat Your Words Plus 0002   Talla Única  Talla del Fabricante: 18  para Mujer'
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

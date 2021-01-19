@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VwSDANOkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0059RZ9NC-es'
+slug: 'B0059RZ9NC-es Columbia Altitude Aspect Forro Polar  Hombre  Negro  Black Heather   L'
 actualPrice: 43.24 EUR
 currency: EUR
 price: 43.24

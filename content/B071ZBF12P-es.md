@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/616K3G-JklL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZBF12P-es'
+slug: 'B071ZBF12P-es Ravensburger- Juego Ahora caigo  26758 '
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LOfp8sv5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CXY73KF-es'
+slug: 'B07CXY73KF-es Samsung EVO Select - Tarjeta de Memoria microSDXC de 64 GB con Adaptador SD  100 MB/s  U3  Color Verde y Blanco'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

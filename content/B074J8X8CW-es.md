@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513d08aZ5vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074J8X8CW-es'
+slug: 'B074J8X8CW-es Alienwork Navy Blue Reloj Unisex Relojes Hombre Mujer Acero Inoxidable Banda de Malla Metálica Plata Analógicos Cuarzo Azul Impermeable Ultra-Delgada Slim'
 actualPrice: 24.62 EUR
 currency: EUR
 price: 24.62

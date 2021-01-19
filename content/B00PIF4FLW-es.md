@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F-QIMw24L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PIF4FLW-es'
+slug: 'B00PIF4FLW-es Schwarzkopf Professional BC Moisture Kick Shampoo Champú - 1000 ml'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o2vcYXGlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000AQOBQ-es'
+slug: 'B0000AQOBQ-es Fellowes Soporte elevador de monitor giratorio - Ajustable en altura y con plataforma giratoria de 45º  adecuado para compartir la visualización de la pantalla'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

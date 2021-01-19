@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k26gXY0cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MDY4TV-es'
+slug: 'B077MDY4TV-es Puma Smash v2 Zapatillas Unisex adulto  Negro  Puma Black-Puma Black   37.5 EU'
 actualPrice: 41.15 EUR
 currency: EUR
 price: 41.15

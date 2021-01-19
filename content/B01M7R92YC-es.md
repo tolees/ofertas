@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uJ7LrjJ7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M7R92YC-es'
+slug: 'B01M7R92YC-es Guerlain - Eau de parfum homme l eau boisée 100 ml'
 actualPrice: 41.58 EUR
 currency: EUR
 price: 41.58

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31R6GdsjPNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6GWV26-es'
+slug: 'B07S6GWV26-es Under Armour UA Mojo  Zapatillas de Running para Hombre  Verde  Gravity Green/Summit White/White   42 EU'
 actualPrice: 38.46 EUR
 currency: EUR
 price: 38.46

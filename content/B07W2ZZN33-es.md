@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x-tiH+dqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W2ZZN33-es'
+slug: 'B07W2ZZN33-es Skechers MAX Cushioning Elite  Zapatillas para Hombre  Negro  Textil Negro/Azul Sintético/Borde Bkbl   45 EU'
 actualPrice: 48.06 EUR
 currency: EUR
 price: 48.06

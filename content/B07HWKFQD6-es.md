@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21YkVP9KS3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HWKFQD6-es'
+slug: 'B07HWKFQD6-es ASUS ROG Gaming Wrist Rest'
 actualPrice: 28.58 EUR
 currency: EUR
 price: 28.58

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31GEq-f26ML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKLQQRW-es'
+slug: 'B07FKLQQRW-es Joma Marsella Camisetas Equip. M/c  Hombre  Blanco  2XL'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

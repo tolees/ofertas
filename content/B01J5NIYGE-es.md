@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61wpJVyP5zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J5NIYGE-es'
+slug: 'B01J5NIYGE-es Educa Borrás- Juego de Mesa  Color Variado  16988 '
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

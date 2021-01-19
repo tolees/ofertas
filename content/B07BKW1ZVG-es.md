@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CWwswJBvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BKW1ZVG-es'
+slug: 'B07BKW1ZVG-es Reloj para hombre  brújula  altímetro  barómetro  termómetro  digital  para deportes al aire libre  fitness  podómetro  rastreador de actividad  para hombres  ejército militar'
 actualPrice: 55.16 EUR
 currency: EUR
 price: 55.16

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416ttvfrSUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7O8KMG-es'
+slug: 'B01N7O8KMG-es adidas Gazelle  Zapatillas Unisex Niños  Negro  Core Black/Ftwr White/Gold Metallic   35 EU'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

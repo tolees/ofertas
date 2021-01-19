@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nDO+L8GKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHPB1Q5-es'
+slug: 'B07WHPB1Q5-es Vicloon Organizador de Equipaje  6 en 1 Set de Organizadores de Viajes  Impermeable Organizador de Maleta Bolsa Incluir 3 * Cubos del Embalaje del Recorrido y 3 * Bolsos de la Compresión  Gris '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

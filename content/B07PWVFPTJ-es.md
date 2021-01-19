@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mx%2BYTKUJL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWVFPTJ-es'
+slug: 'B07PWVFPTJ-es Batería de Repuesto ENEGON  Paquete de 2  y Smart LED Cargador Dual USB para Sony NP-FZ100 y Sony Alpha 9 / 9S / 9R  Sony A9 / A9R  Sony A7R III A7R3  Sony a7 III Cámaras Digitales'
 actualPrice: 49.59 EUR
 currency: EUR
 price: 49.59

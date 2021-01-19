@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z+WK4X-+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087X6NZQB-es'
+slug: 'B087X6NZQB-es Suhctup Funda Transparent Compatible para Samsung Galaxy S10 Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Galaxy S10 A17'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

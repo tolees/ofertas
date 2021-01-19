@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/6135wozHmhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJHQ393-es'
+slug: 'B07NJHQ393-es Shovel Knight: Treasure Trove'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lA2mWZydL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0725BMBXJ-es'
+slug: 'B0725BMBXJ-es Rise Of The Tomb Rider: 20 Aniversario'
 actualPrice: 12.31 EUR
 currency: EUR
 price: 12.31

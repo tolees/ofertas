@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dwWK6IH4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTTRRPQ-es'
+slug: 'B07TTTRRPQ-es Skechers Skech-Air Dynamight  Zapatillas para Hombre  Azul  Black Knit/Synthetic/Black Trim BBK   39 EU'
 actualPrice: 34.92 EUR
 currency: EUR
 price: 34.92

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315rBSBTWYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NF9CT5W-es'
+slug: 'B00NF9CT5W-es Lékué Molde para Hacer Pan  Silicona  marrón  25 cm'
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

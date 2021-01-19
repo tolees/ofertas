@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J-VW+WKkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QRTKV6-es'
+slug: 'B073QRTKV6-es L Oréal Paris Máscara de Pestañas Paradise Extatic Volumen y Longitud  Tono Negro - 6.4 ml  Modelos surtidos'
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

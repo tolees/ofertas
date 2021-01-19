@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TBjQb4S1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004VENISC-es'
+slug: 'B004VENISC-es L Oréal Paris Barra de Labios Color Riche Accords Naturels 371'
 actualPrice: 8.38 EUR
 currency: EUR
 price: 8.38

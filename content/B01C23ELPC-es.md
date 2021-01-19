@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416cwm62IaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C23ELPC-es'
+slug: 'B01C23ELPC-es Chicco Physio Air - Pack de 2 chupetes de látex/caucho para 16-36 meses  color azul'
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QAnm7b71L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCNSS4S-es'
+slug: 'B07RCNSS4S-es Nike W Nk Dry Get Fit FLC HD FZ JDI Long Sleeved T-Shirt  Mujer  Black/White  M'
 actualPrice: 24.58 EUR
 currency: EUR
 price: 24.58

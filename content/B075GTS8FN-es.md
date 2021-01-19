@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3171uv4bQfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GTS8FN-es'
+slug: 'B075GTS8FN-es Adidas Vl Court 2.0 K  Zapatillas de deporte Unisex niños  Blanco  Ftwbla/Negbas 000   36 2/3 EU'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

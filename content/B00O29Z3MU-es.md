@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KIA36OqbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O29Z3MU-es'
+slug: 'B00O29Z3MU-es Nmc Juguetes Eróticos 1 Unidad 520 g'
 actualPrice: 80.22 EUR
 currency: EUR
 price: 80.22

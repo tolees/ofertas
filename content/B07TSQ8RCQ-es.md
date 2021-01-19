@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I7s7a1gHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ8RCQ-es'
+slug: 'B07TSQ8RCQ-es Skechers Skech-Air Dynamight  Zapatillas para Hombre  Azul  Redl Knit/Synthetic/Black Trim Rd B   41 EU'
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

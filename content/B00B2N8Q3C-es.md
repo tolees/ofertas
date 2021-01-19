@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JA4s5yZrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B2N8Q3C-es'
+slug: 'B00B2N8Q3C-es 3 Claveles 8" Tijeras de Cocina Profesional  Acero Inoxidable- 20cm  Brillo'
 actualPrice: 38.87 EUR
 currency: EUR
 price: 38.87

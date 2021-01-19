@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r+eOPvkNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003Z7SDF4-es'
+slug: 'B003Z7SDF4-es Cosmos  Versión Extendida  [DVD]'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lxBGJBJEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XY68B4W-es'
+slug: 'B06XY68B4W-es Imperial Confort - Topper viscoelástico - 150 x 190 cm - Grosor 8 cm'
 actualPrice: 116.13 EUR
 currency: EUR
 price: 116.13

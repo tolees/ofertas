@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HeCpKIhzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSX38K5-es'
+slug: 'B07NSX38K5-es Funko- Pop Vinilo: Ghostbusters: Dr. Peter Venkman Figura Coleccionable  Multicolor  39335 '
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

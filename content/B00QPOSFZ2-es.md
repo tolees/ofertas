@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61nKt3u7rJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QPOSFZ2-es'
+slug: 'B00QPOSFZ2-es Manta personalizada con tu foto. Manta polar"King Size" - 150 x 240 cm.'
 actualPrice: 54.29 EUR
 currency: EUR
 price: 54.29

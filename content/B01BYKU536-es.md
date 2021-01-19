@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31j335HeREL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BYKU536-es'
+slug: 'B01BYKU536-es Got2b - Espuma Twisted Rizos Perfectos - 3 unidades de 250ml - Schwarzkopf'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

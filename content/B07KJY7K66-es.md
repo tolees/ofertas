@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HmejDlPPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJY7K66-es'
+slug: 'B07KJY7K66-es Lenor Unstoppables Dreams Perlas Impulsoras De Fragancia - pack de 3 x 210 g'
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

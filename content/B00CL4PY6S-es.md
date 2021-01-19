@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c5Qi7rqxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CL4PY6S-es'
+slug: 'B00CL4PY6S-es Atosa - Disfraz de payaso para mujer  talla 34  15670 '
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

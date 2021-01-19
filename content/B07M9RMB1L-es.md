@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cqoBoNIeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9RMB1L-es'
+slug: 'B07M9RMB1L-es Swatch Reloj Cronógrafo para Hombre de Cuarzo con Correa en Caucho YVS451'
 actualPrice: 101.91 EUR
 currency: EUR
 price: 101.91

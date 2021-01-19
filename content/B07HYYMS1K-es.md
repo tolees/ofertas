@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41VyyAlja4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYYMS1K-es'
+slug: 'B07HYYMS1K-es Lunasol Home Funda de Silicona con Cremallera para Patinete 6 5" - Cubierta Carcasa Protectora para Monopatines Hoverboard'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

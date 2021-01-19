@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31zqv6XHhLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KKEFVK-es'
+slug: 'B000KKEFVK-es Beurer IL11 - Lámpara por infrarrojos compacta  100 W  5 niveles inclinación  alivio para dolores musculares  cervicales  mejora la circulación sanguínea  color blanco'
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

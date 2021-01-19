@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XFTigshTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FM6CPNK-es'
+slug: 'B07FM6CPNK-es TiaoBug S-XXL 3Pcs Mujer Disfraz de Chica Japonesa Cosplay Traje de Marinero JK Uniformes Escolares Japoneses y Coreanos Estilo Británico para Chicas Blanco S'
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

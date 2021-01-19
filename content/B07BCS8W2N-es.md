@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A9jAa6xLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BCS8W2N-es'
+slug: 'B07BCS8W2N-es Rowenta Power Steam VR8216F0 - Centro planchado 5 8 bares de presión de agua  autonomía ilimitada  golpe de vapor 300 g/min y vapor continuo 120 g/min  autoapagado y cartucho antical con modo Eco'
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

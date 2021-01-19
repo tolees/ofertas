@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4110KI5ciiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CDIYD9K-es'
+slug: 'B01CDIYD9K-es Victoria Botin Basket Autoclave  Zapatillas Altas Unisex Adulto  Noir Negro 10  39 EU'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

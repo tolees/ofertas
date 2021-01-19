@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QqHRatUsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZFQKD-es'
+slug: 'B07KFZFQKD-es PUMA Future 4.3 Netfit FG/AG Jr  Botas de fútbol Unisex Niños  Glacial Blue-Nrgy Red  34 EU'
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

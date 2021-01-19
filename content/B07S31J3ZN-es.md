@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IXjcWWMuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S31J3ZN-es'
+slug: 'B07S31J3ZN-es BOSS Starfish Bañador para Hombre  Negro  Black   Medium'
 actualPrice: 31.15 EUR
 currency: EUR
 price: 31.15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MrAuaUitL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7D6V1P-es'
+slug: 'B07F7D6V1P-es INTEY Perchero de Pie  Perchero Metálico de Árbol de Pie para Colgar Ropa en Casa y Oficina  Carga Máx. 20KG  11 Ganchos'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

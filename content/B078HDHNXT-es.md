@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416sPrpJgKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HDHNXT-es'
+slug: 'B078HDHNXT-es Smile 111720640199 - Bolsa para ordenadores portátiles de hasta 15.6’’   Negro y blanco     '
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

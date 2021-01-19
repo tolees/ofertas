@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415TU+VreeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0728CLPJY-es'
+slug: 'B0728CLPJY-es BB-9E App-Enabled Droid con Droid Trainer de Sphero'
 actualPrice: 74.98 EUR
 currency: EUR
 price: 74.98

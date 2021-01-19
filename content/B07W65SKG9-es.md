@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QbKx1-zEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W65SKG9-es'
+slug: 'B07W65SKG9-es kupet Cuchillo para Tallar Madera 6 Piezas  MA003 '
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

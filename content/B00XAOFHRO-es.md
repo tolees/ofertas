@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31enoChWkHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAOFHRO-es'
+slug: 'B00XAOFHRO-es Mousehouse Gifts Perro de Madera para Arrastrar con Laberinto de Cuentas  un Juguete Tradicional para niños'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

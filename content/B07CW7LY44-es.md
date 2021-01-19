@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jfmjZ+z+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CW7LY44-es'
+slug: 'B07CW7LY44-es Columbia Camden Outdry Chukka  Botas Casual  Impermeable para Hombre  Negro  Black Grey   45 EU'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

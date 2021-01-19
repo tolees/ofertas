@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lBiyNpohL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I2Y5RS0-es'
+slug: 'B01I2Y5RS0-es Astor Perfect Finish Powder Polvos Compactos Tono 102-56 gr'
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

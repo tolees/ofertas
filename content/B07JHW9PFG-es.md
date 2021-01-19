@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417B7bzz9qL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHW9PFG-es'
+slug: 'B07JHW9PFG-es Columbia MARAGAL WP  Botas Casual para Mujer  Negro  Black  Graphite   40 EU'
 actualPrice: 36.43 EUR
 currency: EUR
 price: 36.43

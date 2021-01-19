@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fuC9XLUKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CUJQF4E-es'
+slug: 'B00CUJQF4E-es Samsung HS130 - Auriculares de botón  con micrófono  control remoto integrado   negro- Versión española'
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

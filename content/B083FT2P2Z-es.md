@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NBpcxO7UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FT2P2Z-es'
+slug: 'B083FT2P2Z-es LQLQO Mini humidificador Personal USB portátil ultrasónico humidificador de Niebla fría Humidificador de Aire de Niebla de 400 ml para hogar  Oficina  Dormitorio  habitación de bebé  Dorado'
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

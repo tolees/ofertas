@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Swe+lSJqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084DVJSX8-es'
+slug: 'B084DVJSX8-es Cartera Caballero en Piel Modelo Americano'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

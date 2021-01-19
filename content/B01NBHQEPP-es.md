@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510WOS0sKTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBHQEPP-es'
+slug: 'B01NBHQEPP-es Insect.zum sumideros 0  5l - [Pack de 2]'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

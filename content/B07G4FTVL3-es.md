@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iyHrKpcyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4FTVL3-es'
+slug: 'B07G4FTVL3-es Hugo BOSS Reloj Multiesfera para Mujer de Cuarzo con Correa en Bañada en Oro 1502445'
 actualPrice: 183.95 EUR
 currency: EUR
 price: 183.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iKQylx6mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNP9LFH-es'
+slug: 'B07VNP9LFH-es SINOES Mujer 720 Caña Baja Gimnasia Ligero Transpirable Casuales Sneakers de Exterior y Interior Zapatillas Deporte Pisos Loafer Negro 39 EU'
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

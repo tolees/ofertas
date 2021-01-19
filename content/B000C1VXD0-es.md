@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZprzuFXxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000C1VXD0-es'
+slug: 'B000C1VXD0-es Guerlain - Eau de Cologne Eau Impériale'
 actualPrice: 48.17 EUR
 currency: EUR
 price: 48.17

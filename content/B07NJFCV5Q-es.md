@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ub6H+BZ7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJFCV5Q-es'
+slug: 'B07NJFCV5Q-es Casio Reloj Digital para Mujer de Cuarzo con Correa en Resina LWS-1000H-8AVEF'
 actualPrice: 22.52 EUR
 currency: EUR
 price: 22.52

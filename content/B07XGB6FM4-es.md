@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/6130HdBCk2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGB6FM4-es'
+slug: 'B07XGB6FM4-es ERIK - Calendario de pared 2020 Marvel Avengers  30 x 30 cm  incluye póster de regalo '
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

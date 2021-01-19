@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sS774DJmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVBY9XF-es'
+slug: 'B07MVBY9XF-es Napapijri Eils SS Polo  Blanco  Bright White 002   Medium para Hombre'
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

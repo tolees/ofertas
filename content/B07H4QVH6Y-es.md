@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419J6+PZ+iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4QVH6Y-es'
+slug: 'B07H4QVH6Y-es Skechers Status 2.0 Lorano  Náuticos para Hombre  Azul  Navy Canvas Nvy   40 EU'
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mW-YiCjeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2SHWVQ-es'
+slug: 'B07L2SHWVQ-es Asics Gel-Contend 5 SL  Walking Shoe Mens  Black/Graphite Grey  43.5 EU'
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

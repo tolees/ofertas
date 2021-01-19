@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PvPO1zP1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L3F0NWG-es'
+slug: 'B00L3F0NWG-es Habitdesign 001638G - Mesa de Centro elevable Modelo Zenit  mesita Mueble Salon Comedor Acabado en Gris Ceniza  Medidas: 102 cm  Ancho  x 43/52 cm de  Alto  x 50 cm  Fondo '
 actualPrice: 60.49 EUR
 currency: EUR
 price: 60.49

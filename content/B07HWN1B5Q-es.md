@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iFUAn1uIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HWN1B5Q-es'
+slug: 'B07HWN1B5Q-es Espejo Retrovisor de Coche para Vigilar Bebés en Asiento Trasero  Juguete de Animlaes de Felpa de Cuna para Niños - Pez  como se describe'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

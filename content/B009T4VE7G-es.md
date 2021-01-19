@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E3Or5UUqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009T4VE7G-es'
+slug: 'B009T4VE7G-es Mozart Liqueur Chocolate Cream - 700 ml'
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98
@@ -27,8 +27,8 @@ Ahora mismo tienes [Mozart Liqueur Chocolate Cream - 700 ml](https://www.amazon.
 
 - Volumen: 700 ml
 - Región de producción: Salzburg
-- País de origen: Austria
 - Crema de chocolate Mozart
+- País de origen: Austria
 - Contenido de alcohol: 17 %
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B009T4VE7G/?tag=tolees-21)

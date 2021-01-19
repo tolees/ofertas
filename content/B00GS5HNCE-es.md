@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+-EQnHMwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GS5HNCE-es'
+slug: 'B00GS5HNCE-es adidas Terrex Swift Solo  Zapatillas de Deporte Exterior Unisex Adulto  Negro  Black/Black/Lead 0   44 EU'
 actualPrice: 73.72 EUR
 currency: EUR
 price: 73.72

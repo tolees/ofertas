@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61vtzMzl2DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ID4UWBW-es'
+slug: 'B00ID4UWBW-es Limes'
 actualPrice: 11.26 EUR
 currency: EUR
 price: 11.26

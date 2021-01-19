@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bXz2mb88L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UB70K8Y-es'
+slug: 'B00UB70K8Y-es Einhell GC-EM 1030 - Cortacésped eléctrico  1000 W  altura de corte 3 niveles | 30-70 mm   ancho de corte 30 cm  hasta 300m² de jardín  25L de capacidad de bolsa   ref.3400122 '
 actualPrice: 52.15 EUR
 currency: EUR
 price: 52.15

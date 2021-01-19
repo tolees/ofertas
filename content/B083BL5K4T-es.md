@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e-JFtX2xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BL5K4T-es'
+slug: 'B083BL5K4T-es Grsta Botellas De Agua  Botella Agua Acero Inoxidable sin BPA 750ml/Plata Botellas de Frío/Caliente Termo para Niños/Adultos  Adecuada para Al Aire Libre Deportes Camping Y Ciclismo'
 actualPrice: 19.77 EUR
 currency: EUR
 price: 19.77

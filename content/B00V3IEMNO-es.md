@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lBzppz+GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V3IEMNO-es'
+slug: 'B00V3IEMNO-es Lexar Professional - Lector de Tarjetas de Memoria  Doble Ranura  USB 3.0 '
 actualPrice: 26.06 EUR
 currency: EUR
 price: 26.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MQRS7NV6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075F3G2KW-es'
+slug: 'B075F3G2KW-es EAU MY BB pack gel de baño y champú 200 ml + locion hidratante 200 ml + colonia spray 60ml'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

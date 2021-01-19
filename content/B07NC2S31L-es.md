@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31U-frVMI7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC2S31L-es'
+slug: 'B07NC2S31L-es camel active Houston 488385/2511 Pantalones  Grün  Khaki 36   W31/L34  Talla del Fabricante: 31/34  para Hombre'
 actualPrice: 55.86 EUR
 currency: EUR
 price: 55.86

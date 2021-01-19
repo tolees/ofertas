@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TZ8Zt65hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT7RDQQ-es'
+slug: 'B07TT7RDQQ-es Tommy Hilfiger Th Sock 3p Giftbox Baby Calcetines  Rosa  Pink Combo 024   15-18  Talla del fabricante: 15/18   Pack de 3  para Bebés'
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

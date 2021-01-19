@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ykAS4Ub+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB3V9VK-es'
+slug: 'B07BB3V9VK-es Levi s Declan Millstone 2 Tone  Zapatillas para Hombre  Negro  B Black 60   42 EU'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

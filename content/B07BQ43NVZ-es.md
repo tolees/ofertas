@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XWWJw1WgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQ43NVZ-es'
+slug: 'B07BQ43NVZ-es Lee Scarlett Jeans  Azul  Rinse 36   32W / 33L para Mujer'
 actualPrice: 50.37 EUR
 currency: EUR
 price: 50.37

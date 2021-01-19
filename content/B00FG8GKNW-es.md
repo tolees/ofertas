@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314BypZvBqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FG8GKNW-es'
+slug: 'B00FG8GKNW-es Ciroc Red Berry Vodka - 700 ml'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

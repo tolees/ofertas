@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31uSHzPdhoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DM6D87B-es'
+slug: 'B07DM6D87B-es JACK & JONES PREMIUM Jprsolaris Trouser Noos Pantalones de Traje  Azul Medieval Blue  W38  Talla del Fabricante: 54  para Hombre'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512h+AloVYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TN9XDL-es'
+slug: 'B081TN9XDL-es adidas Tsubasa TRN Soccer Ball  Men s  White/Solar Red/Glory Blue/Black  3'
 actualPrice: 17.46 EUR
 currency: EUR
 price: 17.46

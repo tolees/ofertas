@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515UuojDT7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WP5GF22-es'
+slug: 'B06WP5GF22-es TensCare Perfect Tens+ 12 electrodos – Electroestimulador para Alivio del dolor. 2 Canales  con programas Clínicamente Comprobados para aliviar el dolor de espalda  Artritis y Lumbalgia'
 actualPrice: 41.36 EUR
 currency: EUR
 price: 41.36

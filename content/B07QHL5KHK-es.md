@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Agz3AFopL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHL5KHK-es'
+slug: 'B07QHL5KHK-es Puma Men s MCFC Stadium INT Jacket Track Black-Georgia Peach  M'
 actualPrice: 44.77 EUR
 currency: EUR
 price: 44.77

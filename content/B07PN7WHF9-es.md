@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gf8N-SOOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PN7WHF9-es'
+slug: 'B07PN7WHF9-es TOUCHBeauty Masajeador facial con vibración  Masajeador Facial Iónico con sónico  SPA Dispositivo cosmético para tratamiento facial AG-1666'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

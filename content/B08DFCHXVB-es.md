@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hH54oEJFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DFCHXVB-es'
+slug: 'B08DFCHXVB-es DREAMWIN Dispensador Jabón Automático  280mL Dispensador de Jabón Automatico  IPX7 Impermeable para Cocina  Baño  Aseo  Escuela  Hospital  Hotel  Restaurante  Lugar Público'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

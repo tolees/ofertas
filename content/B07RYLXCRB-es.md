@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414xSTq45wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYLXCRB-es'
+slug: 'B07RYLXCRB-es Johnson s Baby Loción Calma la piel seca de tu bebé - 3 x 500 ml'
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

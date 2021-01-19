@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iUyzKggkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRMNX15-es'
+slug: 'B07NRMNX15-es Cámara IP Exterior  Camara IP WiFi 1080p  Cámara Vigilancia Exterior WiFi Visión Nocturna Audio de 2 Vías Detección de Movimiento Monitorización Remota vía PC/Smartphone/Tableta'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

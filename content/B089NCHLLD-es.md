@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316LQz7ko5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NCHLLD-es'
+slug: 'B089NCHLLD-es SDINAZ Mochilas para computadora portátil para con Puerto de Carga USB Impermeable School Computer Notebook Mochilas Escolares ES884 Fekete'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lB0Lj1SWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1ZP4HR-es'
+slug: 'B07X1ZP4HR-es LIGE Relojes para Hombre Impermeable Deporte Análogo Cuarzo Reloj Cronógrafo Negocios Negro Acero Inoxidable Reloj de Pulsera'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

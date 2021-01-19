@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SSLDDV3yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757FCW3M-es'
+slug: 'B0757FCW3M-es Microderm GLO suero cara'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

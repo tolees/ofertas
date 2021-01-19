@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41plch0lAeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H66G5FG-es'
+slug: 'B07H66G5FG-es 3Pares Hombre Medias Deportivas 15-20mmHg Reduce la Fatiga Muscular Negro S/M     '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

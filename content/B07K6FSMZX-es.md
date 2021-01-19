@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LfzSGqmbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6FSMZX-es'
+slug: 'B07K6FSMZX-es Ortho Care S Fitness - Entrenamiento en Suspension/Funcional con Cuerdas. Kit Multifuncion Gimnasia - Fortalecimiento  Resistencia y Tonificacion Muscular. con Anclaje para Puerta....'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

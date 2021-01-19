@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gle6lsYdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1H6VYF-es'
+slug: 'B07G1H6VYF-es Fitbit Charge 3 Pulsera Avanzada de Salud y Actividad física  Unisex-Adult  Oro Rosa/Lavanda  Talla Unico'
 actualPrice: 119.96 EUR
 currency: EUR
 price: 119.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YgtD3JjnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHMDDDJ-es'
+slug: 'B07VHMDDDJ-es Napapijri Elbas 3 Polo  Azul  Ultramarine BLU Bb41   Large para Hombre'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

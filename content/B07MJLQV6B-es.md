@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cKc1BOsGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJLQV6B-es'
+slug: 'B07MJLQV6B-es JANABEBE Funda para Coche Stokke Xplori y Stokke Crusi  BLACK STAR '
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

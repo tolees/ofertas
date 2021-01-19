@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51fbchUA2kL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SQLHRF-es'
+slug: 'B078SQLHRF-es Victure Cámara Deportiva 4k WiFi Camara Acción Deporte Acuatica Sumergible 30m Pantalla LCD 2.0 Inch Videocámara Multifuncional Foto de Ráfaga 2 Baterías de 1050mAh con Accesorios Kit'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

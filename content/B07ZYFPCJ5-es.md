@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Grz1MG+pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYFPCJ5-es'
+slug: 'B07ZYFPCJ5-es BlueXP 2 Pieza Soporte de Techo Lámpara E27 Accesorios para Lámparas de Techo con Cable Accesorio Bricolaje para Iluminación Colgante Vintage Retro Lámparas de Araña Soporte Montaje con Base Cromo'
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

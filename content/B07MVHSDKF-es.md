@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61iZklm-1GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVHSDKF-es'
+slug: 'B07MVHSDKF-es Bolsa isotermica para llevar almuerzo - Bolsa termica para alimentos – Bolsa refrigeradora reutilizable con recipientes – Bolsa comida termica aislada para hombres y mujeres'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

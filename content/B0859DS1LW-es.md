@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31C7FoumRYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0859DS1LW-es'
+slug: 'B0859DS1LW-es Oihxse Animal Serie Case Compatible con Huawei Y5 2018/honor 7s Funda Transparente Suave Silicona Elefante Conejo Patrón Protector Carcasa Ultra-Delgado Creativa Anti-Choque Cover  A8 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

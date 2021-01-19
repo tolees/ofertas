@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MfT+OB61L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0723D5MJC-es'
+slug: 'B0723D5MJC-es Anpollo Alfombrilla Raton Ordenador XXL Gaming Grande 900x400mm Mapa Mundi  Lavable  Base de Caucho para Gamers  PC y Portátil'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

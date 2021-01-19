@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wVUbAZA3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFYZK57-es'
+slug: 'B07RFYZK57-es Under Armour Armour Fly Fast Tight Pantalones Transpirables  Mallas Deportivas de compresión ultraligeras  Mujer  Gris  MD'
 actualPrice: 32.68 EUR
 currency: EUR
 price: 32.68

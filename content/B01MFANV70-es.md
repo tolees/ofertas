@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415Czsz1NRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MFANV70-es'
+slug: 'B01MFANV70-es Babymoov A012374  Doomoo Nid New Generation - Hamaca  diseño Natural  60 x 50 x 42 cm'
 actualPrice: 102 EUR
 currency: EUR
 price: 102

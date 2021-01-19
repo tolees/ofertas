@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Dzieef2fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDNJYGM-es'
+slug: 'B07SDNJYGM-es Riuty Dardos de Espuma Recargue Dardos de Espuma para balastros de la Serie Elite de N-Strike de 200 Balas'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

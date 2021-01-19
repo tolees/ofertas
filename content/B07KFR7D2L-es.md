@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iRpzqBK2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFR7D2L-es'
+slug: 'B07KFR7D2L-es Lenovo Legion Y530 Ordenador portátil gaming 15.6" FullHD  Intel Core i5-8300H  8GB de RAM  1TB HDD  Nvidia GTX1050 de 4GB  Windows10   + Monitor Lenovo L24q de 24"'
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

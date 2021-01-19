@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51C97o5WilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZF2XYTS-es'
+slug: 'B07ZF2XYTS-es JK-2 Sacos de Yute 10pcs / Bolsa de Yute línea Impresa Bolsa Bolsas de Regalo'
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

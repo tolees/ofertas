@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516+mboghwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWY1UEQ-es'
+slug: 'B01LWY1UEQ-es Falomir Parchís Magnético  Juego de Mesa  Clásicos  16 x 16 cm  27902 '
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

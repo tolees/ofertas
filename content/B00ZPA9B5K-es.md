@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-Zy14mLdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZPA9B5K-es'
+slug: 'B00ZPA9B5K-es DISFRAZ REINA DE CORAZONES'
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

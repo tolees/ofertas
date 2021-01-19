@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51djAIEz6qL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N78XLVN-es'
+slug: 'B01N78XLVN-es Inodoro de Bandeja para Perros Césped Artificial con Cajón Lavable Hacer PIS Pipi Orinar Mascota'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

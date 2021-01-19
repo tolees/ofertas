@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gtUcWDdVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PCR462N-es'
+slug: 'B07PCR462N-es Haofy Bombilla Bluetooth Altavoz  E26 / E27 RGB Cambio de Color Bombilla de LED Inteligente USB con Bluetooth 4.2 Altavo  con Control Remoto para Fiesta  Hogar  Decoraciones Navideñas de Halloween'
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

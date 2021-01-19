@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nePeqn3+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081V8W4ZQ-es'
+slug: 'B081V8W4ZQ-es KIWI design Oculus Quest/Oculus Rift Correa Ajustable para la Cabeza Head Strap para Reducir la Presión  Accesorios para Auriculares VR  Cuero de PU Cómodo  Negro '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

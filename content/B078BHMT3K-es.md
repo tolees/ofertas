@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31btgZYL5aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078BHMT3K-es'
+slug: 'B078BHMT3K-es BOSS Prime Polo  Negro  Black 1   XXX-Large para Hombre'
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

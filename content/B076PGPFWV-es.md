@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419mB6XDTiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PGPFWV-es'
+slug: 'B076PGPFWV-es Cooler Master MasterWatt 650 EU - Fuentes de alimentación  Semi-Fanless Modular  80 Plus Bronze  650W  MPX-6501-AMAAB-EU'
 actualPrice: 60 EUR
 currency: EUR
 price: 60

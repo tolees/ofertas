@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31boc2e17lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B15CR4C-es'
+slug: 'B08B15CR4C-es Tryone Soporte Tablet  Multiángulo Soporte Tablet - Altura Ajustable  Rotación de 360 Grados  con Clip Retráctil y Brazo Flexible para iPad  Switch  Samsung  Todos Los Teléfonos y Tablets de 4.7-11"'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

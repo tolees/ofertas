@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nV-tx+LLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QG2Q5G-es'
+slug: 'B086QG2Q5G-es Agger Transparente bebé de Silicona Mam Anillo Chupete Chupete Chupete Holder Clips 10PCS del Clip del sostenedor'
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

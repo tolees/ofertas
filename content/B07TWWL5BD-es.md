@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qk5W1TDQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWWL5BD-es'
+slug: 'B07TWWL5BD-es Valentino by Mario - Doxy  Shoppers y bolsos de hombro Mujer  Negro  Nero   12.5x30x41 cm  B x H T '
 actualPrice: 62.47 EUR
 currency: EUR
 price: 62.47

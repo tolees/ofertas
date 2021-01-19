@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GJq2icarL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003XW7GP4-es'
+slug: 'B003XW7GP4-es HP CE320A 128A Cartucho de Tóner Original  1 unidad  negro'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

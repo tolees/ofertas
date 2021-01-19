@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412u8tlkxRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CXG8S3Y-es'
+slug: 'B07CXG8S3Y-es COFIT Cargador de Coche  2 USB Adaptador 3 Sockets Encendedor de Cigarrillos Splitter 70W 12V/24V para iPhone iPad Samsung GPS y Más'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

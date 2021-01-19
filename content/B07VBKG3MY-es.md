@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cXKohWhjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBKG3MY-es'
+slug: 'B07VBKG3MY-es Guanqin Reloj de Pulsera mecánico con Calendario analógico automático para Hombre  con Caja de Acero Inoxidable y Correa de Piel'
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BoMJteiVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H1T6JHC-es'
+slug: 'B07H1T6JHC-es ORNARTO Funda Huawei Mate 20 Lite Mate 20 Lite Carcasa [Ultra-Delgado] [Ligera] Mate Anti-arañazos y Antideslizante Protectora Sedoso Caso para Huawei Mate 20 Lite 2018  6.3  Arena Negro'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

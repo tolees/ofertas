@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bFnsYZE4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AWCQPGS-es'
+slug: 'B01AWCQPGS-es Rollei Compact Traveler No I Carbon I Negro I Trípode de Viaje Ligero I Trípode fotográfico de tamaño Compacto I Rótula de Bola y Bolsa para trípode'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

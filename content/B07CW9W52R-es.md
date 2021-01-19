@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fE3ECa-CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CW9W52R-es'
+slug: 'B07CW9W52R-es Science In Sport SiS Go Gel Energía Isotónica  Varieta Gusto 7 X 60ml'
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dsqP6qg2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GDKPTNE-es'
+slug: 'B00GDKPTNE-es Lee Daren Button Fly Jeans  Azul  Clean Black   29W / 34L para Hombre'
 actualPrice: 24.56 EUR
 currency: EUR
 price: 24.56

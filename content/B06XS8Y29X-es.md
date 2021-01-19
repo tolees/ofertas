@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ojYbjTR4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XS8Y29X-es'
+slug: 'B06XS8Y29X-es Daniel Wellington Classic Petite Melrose DW00100161 - Reloj Unisexo  32 mm'
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

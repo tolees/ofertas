@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SMxoz-g4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0054YPSZE-es'
+slug: 'B0054YPSZE-es VITALmaxx Trainer a vibrazione con 99 livelli di vibrazione e 10 programmi e Display LCD | Allenamento per Tutto il Corpo a casa  comprese le Bande di espansione'
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

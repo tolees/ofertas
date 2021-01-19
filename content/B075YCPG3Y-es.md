@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31U9fmvu3LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075YCPG3Y-es'
+slug: 'B075YCPG3Y-es Metal MP3 Reproductor Bluetooth con Pantalla táctil Benjie K8 de Sonido HiFi Reproductor de música con grabación de Sonido Radio FM Ebook Visor de fotografías'
 actualPrice: 21.8 EUR
 currency: EUR
 price: 21.8

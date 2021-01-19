@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qPqy4YhKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXVQRSP-es'
+slug: 'B07MXVQRSP-es Asics Gel-Sonoma 4  Zapatillas de Running para Hombre  Negro  Black/Stone Grey 002   41.5 EU'
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

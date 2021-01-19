@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pUN8NTZEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKK1HYQ-es'
+slug: 'B07VKK1HYQ-es Calvin Klein Trunk 2pk Bañador  Negro  Black with/White WB Bnm   Medium para Hombre'
 actualPrice: 19.74 EUR
 currency: EUR
 price: 19.74

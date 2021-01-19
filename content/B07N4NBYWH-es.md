@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UXVGjmfbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4NBYWH-es'
+slug: 'B07N4NBYWH-es Superga 2750 COTU Classic  Zapatillas Unisex  Beige  Beige Taffy WBL   39.5 EU'
 actualPrice: 42.29 EUR
 currency: EUR
 price: 42.29

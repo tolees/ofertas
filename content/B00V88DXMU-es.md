@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KcOOg0yjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V88DXMU-es'
+slug: 'B00V88DXMU-es Clarins - Crema Eclat du Jour - Hidratación  frescor  buena cara - 30 ml'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

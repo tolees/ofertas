@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CCYM-Is4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825LRWD7-es'
+slug: 'B0825LRWD7-es Pnakqil Funda Xiaomi Redmi Note 8T Transparente Silicona con Dibujos Carcasa Ultrafina Suave Gel TPU Piel Bumper [Antigolpes] Protectora Case Cover para Xiaomi Redmi Note8T  Flor Blanca'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

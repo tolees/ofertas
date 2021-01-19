@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yBD5kwrAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YMGTABI-es'
+slug: 'B00YMGTABI-es TW Steel Reloj de Pulsera CS33'
 actualPrice: 208.55 EUR
 currency: EUR
 price: 208.55

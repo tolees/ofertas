@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uCA-KUwLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXVKHBK-es'
+slug: 'B07JXVKHBK-es DAM. DMX195BKCorrea Cerámica Iwatch 38Mm / 40Mm. Cierre De Seguridad De Mariposa. Compatible Series 1  2  3  Y 4. Negro'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

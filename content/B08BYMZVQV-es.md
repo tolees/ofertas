@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fHVjil+sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BYMZVQV-es'
+slug: 'B08BYMZVQV-es Anillo de Tope  ZoneYan Topes de Profundidad para Brocas  Tope Broca Taladro  Posicionador de Taladros  8 pcs Anillo Posicionador con la Llave Hexagonal  3–16 mm'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

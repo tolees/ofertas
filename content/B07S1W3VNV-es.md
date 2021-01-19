@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LXxLGydUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1W3VNV-es'
+slug: 'B07S1W3VNV-es New Balance 997H m  Zapatillas para Mujer  Negro  Black/Red Hae   40 EU'
 actualPrice: 32.04 EUR
 currency: EUR
 price: 32.04

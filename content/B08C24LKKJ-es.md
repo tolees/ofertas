@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kOIus2tsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C24LKKJ-es'
+slug: 'B08C24LKKJ-es Panamar Bolsas de Compras de Lona de Gran Capacidad Bolsas de Tela de algodón Bolsa de Compras Reutilizable Mujeres Bolsos de Playa Impresos - Azul'
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GL4QXYV+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSCHBV8-es'
+slug: 'B07GSCHBV8-es Max Factor LipFinity Velvet Matte Pintalabios Tono 050 Satinberry'
 actualPrice: 4.38 EUR
 currency: EUR
 price: 4.38

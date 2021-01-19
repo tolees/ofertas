@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415VfShmsBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007JIN77O-es'
+slug: 'B007JIN77O-es Korres Crema De Manos Hidratante  Almendra y Caléndula  - 75 ml.'
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GRcu5wdKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC22JF7-es'
+slug: 'B07DC22JF7-es PUMA Cali-0 Zapatillas deportivas de piel Unisex adulto  Negro  Puma Black-Puma Black-Puma White    36 EU'
 actualPrice: 42.33 EUR
 currency: EUR
 price: 42.33

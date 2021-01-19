@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Hv7CFrQNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLD2VT4-es'
+slug: 'B07GLD2VT4-es Té Yunnan Puerh 100g  0.22LB  conservas Jazmín Puer pequeño Tuocha Pu er té maduro Té chino Té Pu er Té negro Té Puer Pu er té Pu-erh té Árboles viejos Pu er té cocido Té rojo'
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

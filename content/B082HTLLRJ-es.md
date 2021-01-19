@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tv21OVCIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HTLLRJ-es'
+slug: 'B082HTLLRJ-es TopHGC Porta medallas Deportivo  Colgador de medallas de Acero Inoxidable Dos Niveles para exhibición de medallas'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

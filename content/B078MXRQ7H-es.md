@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HLFw0e8wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078MXRQ7H-es'
+slug: 'B078MXRQ7H-es TOPELEK Luz Lectura Libros LED con 3 Modos de Luz  Lampara Lectura Recargable con 12 Horas de Autonomía  Brazo 360º Flexible y Pinza de Buen Agarre  Luz Pinza para Leer Libros en la Cama'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

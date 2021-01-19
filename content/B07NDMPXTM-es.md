@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315AnREf3iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMPXTM-es'
+slug: 'B07NDMPXTM-es G-STAR RAW Core Round Neck suéter  Negro  Dk Black 6484   XX-Small para Hombre'
 actualPrice: 57.49 EUR
 currency: EUR
 price: 57.49

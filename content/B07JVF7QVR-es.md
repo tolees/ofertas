@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nXYMwVi9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVF7QVR-es'
+slug: 'B07JVF7QVR-es Moleskine - Agenda Diaria de 12 Meses 2020  Tapa Dura y Goma Elástica  Tamaño Grande 13 x 21 cm  400 Páginas  Rosa Enérgico  AGENDA 12 MOIS '
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

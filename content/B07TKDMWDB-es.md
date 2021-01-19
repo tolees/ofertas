@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dILJsFibL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDMWDB-es'
+slug: 'B07TKDMWDB-es Levi s Original Batwing  Blanco  Hm Patch Polo White + 0000   Small para Hombre'
 actualPrice: 34.3 EUR
 currency: EUR
 price: 34.3

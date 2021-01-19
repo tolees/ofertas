@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41swFlsBIaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EYW3ML8-es'
+slug: 'B01EYW3ML8-es Calvin Klein Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable K6E23646'
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

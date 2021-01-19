@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DdEZ4kG7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1W2KSS-es'
+slug: 'B07V1W2KSS-es Swatch Reloj Analógico para Hombre de Cuarzo con Correa en Silicona SUOB166'
 actualPrice: 53.6 EUR
 currency: EUR
 price: 53.6

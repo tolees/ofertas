@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TnWuqpqOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYVJY3Q-es'
+slug: 'B07JYVJY3Q-es Fintie SlimShell Funda para Kindle Paperwhite  10.ª generación  2018  - Carcasa Fina y Ligera de Cuero Sintético con Función de Auto-Reposo/Activación  Negro'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

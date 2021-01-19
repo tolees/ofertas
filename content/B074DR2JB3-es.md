@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xGN8QFuVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074DR2JB3-es'
+slug: 'B074DR2JB3-es AUKEY Regleta con 3 Enchufes con el Cable Eléctrico de 1.5m para Macbook Pro  Smartphone  Lámpara  TV  Tableta  Aparatos Electrodomésticos etc.'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

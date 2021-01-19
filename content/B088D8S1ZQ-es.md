@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C58oC5GaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088D8S1ZQ-es'
+slug: 'B088D8S1ZQ-es Suhctup Funda Compatible para Moto P30 Note Carcasa Transparente Dibujos Animal Suave Silicona TPU Gel Bumper Ultra Pulgada Antigolpes Crystal Clear Protector Piel Case Cover Panda 2'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

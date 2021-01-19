@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511ijVCBEDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D3L7BC3-es'
+slug: 'B07D3L7BC3-es Campeones [DVD]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

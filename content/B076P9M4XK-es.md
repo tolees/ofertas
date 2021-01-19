@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hEloGUrsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076P9M4XK-es'
+slug: 'B076P9M4XK-es HomDSim Organizador de Asiento de Coche con diseño de Dibujos Animados  Bolsas de Almacenamiento para Colgar  Organizador de Coche  Organizador para niños  niña '
 actualPrice: 17.76 EUR
 currency: EUR
 price: 17.76

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SktSrSQ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1SG1N6-es'
+slug: 'B07X1SG1N6-es [2 pack] Funda Apple Watch 40mm Series 4/Series 5  Protector Pantalla iWatch 4 case Protección Completo Anti-Rasguños Ultra Transparente Funda Suave TPU  para Nueva Apple Watch Series 4/Series 5 40mm'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

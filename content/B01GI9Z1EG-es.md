@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uzXOrCuhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GI9Z1EG-es'
+slug: 'B01GI9Z1EG-es Reloj - Casio - para - AE-1000W-1A3VCF'
 actualPrice: 22.6 EUR
 currency: EUR
 price: 22.6

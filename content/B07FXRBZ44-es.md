@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pUezmmroL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXRBZ44-es'
+slug: 'B07FXRBZ44-es Vans Filmore Decon  Zapatillas para Hombre  Gris  Canvas/Pewter/White 4wv   39'
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

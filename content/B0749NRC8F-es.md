@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418iavgS3FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0749NRC8F-es'
+slug: 'B0749NRC8F-es JACK & JONES Jacharry Belt Noos Cinturón  Marrón  Black Coffee Black Coffee   90 para Hombre'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

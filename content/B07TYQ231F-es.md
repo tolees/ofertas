@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Sc+JVsGyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYQ231F-es'
+slug: 'B07TYQ231F-es Funko- Pop Marvel: Fantastic Four-Invisible Girl Collectible Toy  Multicolor  44986 '
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67

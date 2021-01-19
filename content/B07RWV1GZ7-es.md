@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31H0PGOTlkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWV1GZ7-es'
+slug: 'B07RWV1GZ7-es Jack & Jones Jjimarco Jjconnor AKM 769 Herring Noos Pantalones  Gris  Dark Grey Dark Grey   46 /L32  Talla del Fabricante: 32  para Hombre'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hUuYx90XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWVVSS6-es'
+slug: 'B07VWVVSS6-es amzdeal Air Football Kit Juguete Balón de Fútbol（1 x Air Hover Ball+1 Mini Soccer +1 Goal de Fútbol +1 Aguja de Gas） Aire Fútbol'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

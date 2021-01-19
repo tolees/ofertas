@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F-AIazOHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VW753PP-es'
+slug: 'B07VW753PP-es JACK & JONES Jorrafael Sweat Hood Capucha  Rojo  Brick Redslim/Org   Small para Hombre'
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51aN5zkcPHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0722YKB8J-es'
+slug: 'B0722YKB8J-es Fossil ES4331 - Reloj analógico para mujer  de cuarzo con correa en acero inoxidable  Silver'
 actualPrice: 72.89 EUR
 currency: EUR
 price: 72.89

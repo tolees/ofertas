@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51L6kv-CDaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNFKR6T-es'
+slug: 'B07WNFKR6T-es Bakers Twine 100M Cadena de Algodón para el Horno Jardinería Manualidades Envolver Regalos'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

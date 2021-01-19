@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BOBP7OBHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001JJ8ZLC-es'
+slug: 'B001JJ8ZLC-es Casio Reloj Unisex HS-80TW-1EF'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

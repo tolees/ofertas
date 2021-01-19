@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FiNDFkoeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPQFM88-es'
+slug: 'B07PPQFM88-es Grabadora CD/DVD Externa USB 3.0  Colourstone USB 3.0 y Type-C Puerto Dual Compatible con Macbook Pro Ordenador Portátil/Escritorios window98 /SE/ME /2000 /XP/Vista /Win7 /WIN8 /WIN10 Mac OS'
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

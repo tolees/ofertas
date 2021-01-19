@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41714bNpdQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFXF3TL-es'
+slug: 'B07LFXF3TL-es Sloggi Zero Feel Bralette Ex Sujetador estilo   Rojo  Bordeaux 3407     S para Mujer'
 actualPrice: 11.1 EUR
 currency: EUR
 price: 11.1

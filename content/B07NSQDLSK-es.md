@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gaNNamhqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSQDLSK-es'
+slug: 'B07NSQDLSK-es little live pets 28617 Light Up Songbirds S9-Estilos Varian  Colores'
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

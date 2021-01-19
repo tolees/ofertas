@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-6sqZyASL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PY2RQZH-es'
+slug: 'B07PY2RQZH-es L Oréal Paris - Les Macarons  Pintalabios Mate Permanente Frambuesa  Tono 838 Berry Cherie - 30.5 gr.'
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

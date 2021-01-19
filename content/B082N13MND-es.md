@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FpmmzkUCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082N13MND-es'
+slug: 'B082N13MND-es Adiós  BD  [Blu-ray]'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

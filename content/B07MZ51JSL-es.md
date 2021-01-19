@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LfKZTFlAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZ51JSL-es'
+slug: 'B07MZ51JSL-es on way Balon DE Futbol REGLAMENTARIO'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

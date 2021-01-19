@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yZsMdj7qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BCKHK5C-es'
+slug: 'B07BCKHK5C-es ZU ELEMENTS Z170092051644C ALBERTINE Denim Jeans Mujer azul 3750 25'
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

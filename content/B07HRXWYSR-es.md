@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pzGiMEkiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRXWYSR-es'
+slug: 'B07HRXWYSR-es Eme Hybrid Challenger WPT'
 actualPrice: 93.99 EUR
 currency: EUR
 price: 93.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417X8UChokL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088CZ8LJQ-es'
+slug: 'B088CZ8LJQ-es Suhctup Funda Compatible para Xiaomi Redmi 5 Plus Carcasa Transparente Dibujos Animal Suave Silicona TPU Gel Bumper Ultra Pulgada Antigolpes Crystal Clear Protector Piel Case Cover Panda 4'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

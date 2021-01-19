@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jO8TwTFFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KL3WFBR-es'
+slug: 'B07KL3WFBR-es adidas W E PLN Pant Sport Trousers  Mujer  Medium Grey Heather  S'
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

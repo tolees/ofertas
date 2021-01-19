@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FFNTWRelL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076D7F4DS-es'
+slug: 'B076D7F4DS-es iWALK 20000mAh Alta Capacidad Móvil Batería Externa  Power Pack Cargador PD Quick Charge 3.0 Rápida Carga Power Bank con Cables Type C & Micro USB Compatible para Samsung S8 Switch iPhone X Mucho más'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

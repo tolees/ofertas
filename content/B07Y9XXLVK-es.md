@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41umAm9r4JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9XXLVK-es'
+slug: 'B07Y9XXLVK-es María Barceló Sneaker Alta Piel Rosa Mujer María Barceló'
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

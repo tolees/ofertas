@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fvR9SHFRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KCX8E1C-es'
+slug: 'B00KCX8E1C-es GoPro Bodyboard Mount - Soporte para Cámara Gopro de 3.8 cm a 8.8 cm  Color Blanco'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

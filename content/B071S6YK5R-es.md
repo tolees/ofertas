@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UVYdbDEwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071S6YK5R-es'
+slug: 'B071S6YK5R-es 30 juegos de broches de bronce antiguo de 15 x 20 mm C2180'
 actualPrice: 3.31 EUR
 currency: EUR
 price: 3.31

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51RBX9TvvXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DPG512Q-es'
+slug: 'B07DPG512Q-es Ride 3'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

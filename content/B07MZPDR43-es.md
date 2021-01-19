@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GSGrpKSfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPDR43-es'
+slug: 'B07MZPDR43-es Gioseppo 40840  Botas Slouch para Mujer  Azul Marino  39 EU'
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

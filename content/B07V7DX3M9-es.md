@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jb2Dd35FL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7DX3M9-es'
+slug: 'B07V7DX3M9-es JACK & JONES Jcobooster Sweat Hood Aug 19 Capucha  Gris  Light Grey Melange Fit: Reg   X-Large para Hombre'
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

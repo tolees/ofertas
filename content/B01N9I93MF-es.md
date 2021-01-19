@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418vudqjibL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9I93MF-es'
+slug: 'B01N9I93MF-es Mando Distancia Universal Para la Mayoría TV Televisores Samsung SIN INSTALACIÓN CPM315'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

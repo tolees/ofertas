@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IczGJgkvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017NMOEPE-es'
+slug: 'B017NMOEPE-es VS Venta-stock Consola/Mueble recibidor de 3C en Color Blanco con Patas de Madera Maciza'
 actualPrice: 128.99 EUR
 currency: EUR
 price: 128.99

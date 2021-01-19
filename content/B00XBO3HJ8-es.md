@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BssZlFR-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XBO3HJ8-es'
+slug: 'B00XBO3HJ8-es Mars Gaming MKHA0 - Teclado gaming para PC  respuesta ultra-rápida  iluminación LED blanca  anti-ghosting  teclas elevadas y extraíbles  base metálica  USB oro   color negro'
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

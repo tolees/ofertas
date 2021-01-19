@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QSgS76E-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G8PTF98-es'
+slug: 'B07G8PTF98-es L ATELIER DU SOURIRE Kit de blanqueamiento dental profesional - Kit completo para hacer 10 blanqueamientos dentales en casa  kit de blanqueamiento   Carbón y menta  Kit de blanqueamiento '
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

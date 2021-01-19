@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413kdoncstL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWCJHLY-es'
+slug: 'B07PWCJHLY-es Casio Reloj Hombre de Digital con Correa en Resina GBD-800UC-3ER'
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UI3QdDsJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9QKJBG-es'
+slug: 'B07T9QKJBG-es YuhooTech Funda con Cuerda para Xiaomi Mi 9  [Moda y Practico] [ Anti-Choque] [Anti-rasguños] Suave Silicona Transparente TPU Carcasa de movil con Colgante/Cadena  Oro Rosa'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

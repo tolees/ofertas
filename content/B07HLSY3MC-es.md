@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vy5kRm5hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HLSY3MC-es'
+slug: 'B07HLSY3MC-es APRITECH® Carbón Activado Para kit Blanqueamiento Dental Polvo blanqueador dental  Teeth Whitening 100% Natural Polvo Fino Carbón Activo De Para Dientes Blancos'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

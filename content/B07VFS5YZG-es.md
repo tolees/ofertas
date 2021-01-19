@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dPbdlKHYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFS5YZG-es'
+slug: 'B07VFS5YZG-es Protectores de la cubierta del respaldo del asiento universal para niños Proteger la parte trasera de los asientos automáticos para bebés de Mud Dirt'
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

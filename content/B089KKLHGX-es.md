@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wGCGynghL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089KKLHGX-es'
+slug: 'B089KKLHGX-es PROJEWE 30-72 Pares Aretes Surtidos Múltiples Pendientes para Mujeres Niñas Simple Aretes Bola Pequeña Estrella Aro CZ Pequeños Pendientes Ear Cuffs Antialergicos Surtido de Pendientes Set'
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

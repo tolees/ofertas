@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BETwGItzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2FXQXY-es'
+slug: 'B07D2FXQXY-es Levi s 502 Regular Taper Jeans  Azul  Headed South 0279   31W / 34L para Hombre'
 actualPrice: 69.26 EUR
 currency: EUR
 price: 69.26

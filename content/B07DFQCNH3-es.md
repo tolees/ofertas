@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QFcKZUTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFQCNH3-es'
+slug: 'B07DFQCNH3-es PUMA Ignite Woven Chándal  Hombre  Black  L'
 actualPrice: 35.56 EUR
 currency: EUR
 price: 35.56

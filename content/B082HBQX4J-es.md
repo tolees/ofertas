@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rPLOed5bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HBQX4J-es'
+slug: 'B082HBQX4J-es ART VVIES Leinwandbilder Holzrahmen für Hauptdekorationen Lebendige Winterfrost Zweig Schneewittchen Pflanze Snowy Icy 20x20 Zoll mit Haken Wandbild'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

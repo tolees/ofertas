@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iuQ7WnsGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079H4L6RK-es'
+slug: 'B079H4L6RK-es Optimum Nutrition Protein Whipped Bites barrita proteica  Sabor de Caramelo - Paquete de 12 unidades'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

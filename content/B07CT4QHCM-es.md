@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RGgUxFvdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CT4QHCM-es'
+slug: 'B07CT4QHCM-es Severin HV 7165  Aspiradora Manual y de Mango con Cepillo eléctrico y Motor Digital  Batería de Iones de Litio de 22.2 V  S´Power topspin Li 30  Gris/Rojo'
 actualPrice: 198.75 EUR
 currency: EUR
 price: 198.75

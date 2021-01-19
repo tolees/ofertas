@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hGV0-0YkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013MC8F5Y-es'
+slug: 'B013MC8F5Y-es Lowepro PLECAK Tahoe BP 150 Black'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

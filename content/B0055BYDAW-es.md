@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NaPTTg9OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0055BYDAW-es'
+slug: 'B0055BYDAW-es BSN Nutrition Amino X  Suplementos Deportivos BCAA Polvo con Aminoacidos Esenciales y Vitamina D  Aminoacidos BCAA para Musculacion  Frambuesa Azul  30 Porciones  435g'
 actualPrice: 17.14 EUR
 currency: EUR
 price: 17.14

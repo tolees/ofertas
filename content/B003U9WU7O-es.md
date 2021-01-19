@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BGFqbqliL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003U9WU7O-es'
+slug: 'B003U9WU7O-es Bosch PLL 360 - Nivel láser 360º con trípode'
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

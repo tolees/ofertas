@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rt6W-DwzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVHRWNM-es'
+slug: 'B07MVHRWNM-es Kipling - Creativity Xl  Monederos Mujer  Morado  Dark Plum   21.5x13.5x4 cm  B x H T '
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

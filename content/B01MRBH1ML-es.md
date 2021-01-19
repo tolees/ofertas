@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418MqA+NVeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRBH1ML-es'
+slug: 'B01MRBH1ML-es Russell Hobbs Ultimate - Espiralizador de Verduras y Fruta  300 W  Blanco y Gris  3 Accesorios  sin BPA  - ref. 23810-56'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

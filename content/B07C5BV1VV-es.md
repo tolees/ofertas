@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y13kfIieL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5BV1VV-es'
+slug: 'B07C5BV1VV-es Khanomak - Top Informal de Manga Corta  con Cuello en V - Medium - Blanco'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

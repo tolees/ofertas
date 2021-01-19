@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HXWq1ZaSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JG1JYMS-es'
+slug: 'B01JG1JYMS-es Ingersoll Men s The Grafton Quartz Watch with Grey Dial and Black Leather Strap I00601'
 actualPrice: 103.23 EUR
 currency: EUR
 price: 103.23

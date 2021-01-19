@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VIRhuIBCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RXN74D-es'
+slug: 'B075RXN74D-es MRCOOL Lámpara de Noche con Altavoz Bluetooth  Lámpara de Tabla LED Luz Nocturna con Cambio de Color  Regalos para Mujeres Hombres Niños'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41epiqrmJrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XHU3BCY-es'
+slug: 'B00XHU3BCY-es San Ignacio SARTEN 30cm ROJA Soft Touch Infinity  Aluminio  Rojo y Negro  30x11x7 cm'
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

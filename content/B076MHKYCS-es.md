@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wj2W6RZ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076MHKYCS-es'
+slug: 'B076MHKYCS-es Under NY Sky Delantal de Peluquero - Resistente al Agua y Tinte Colorante - Lona Oxford Negra - Bolsillos con Cremallera - Cierre Sin Amarras - Hombres  Mujeres  Barbero  Peluquero  Colorista  Salón'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

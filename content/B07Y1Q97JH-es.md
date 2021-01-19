@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tLPThpImL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y1Q97JH-es'
+slug: 'B07Y1Q97JH-es BRIKSMAX Kit de Iluminación Led para Lego Aventura del Barco Pirata Compatible con Ladrillos de Construcción Lego Modelo 21152  Juego de Legos no Incluido'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

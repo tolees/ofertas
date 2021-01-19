@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419eIpL7eVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G38C4TM-es'
+slug: 'B07G38C4TM-es Chicco Echo Silla de paseo  ligera y compacta  soporta hasta 22kg  Rosa  Deep Pink '
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

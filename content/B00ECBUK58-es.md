@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316vS5DpU7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ECBUK58-es'
+slug: 'B00ECBUK58-es Philips Pro HPS920/00 - Secador profesional  2300 W  6 ajustes de potencia  2 boquillas concentradoras  color negro'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

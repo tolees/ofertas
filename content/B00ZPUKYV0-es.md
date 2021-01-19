@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21n5Vo7YOZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZPUKYV0-es'
+slug: 'B00ZPUKYV0-es Roca A816850001 Portarrollo sin tapa  Posibilidad de instalación mediante tornillería o adhesivo   Cromado  16 3 x 6 2 x 4 5 cm'
 actualPrice: 24.12 EUR
 currency: EUR
 price: 24.12

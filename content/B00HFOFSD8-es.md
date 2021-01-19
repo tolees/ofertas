@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UslIVji%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HFOFSD8-es'
+slug: 'B00HFOFSD8-es Keep Out Gaming R4 - Alfombrilla  450x370x3 mm  Color Negro y Verde'
 actualPrice: 3.61 EUR
 currency: EUR
 price: 3.61

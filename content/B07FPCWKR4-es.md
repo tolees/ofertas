@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IoxDrzz+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPCWKR4-es'
+slug: 'B07FPCWKR4-es BEZOX Lima y Elevador de Uñas Encarnadas - Gancho Excavador para Pies Herramienta de Tratamiento Preferida por Podólogos - Acero Inoxidable Limpiador de Uñas y Empujador de Cutículas'
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

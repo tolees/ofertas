@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xJVqufSWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074JBKVZP-es'
+slug: 'B074JBKVZP-es Rhyme Extensiones de Cabello Arco Iris Clip de Extensiones de Cabello de Color para niñas Muñecas Accesorios para el Cabello Wig Pieces For Kids 9 Piezas'
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

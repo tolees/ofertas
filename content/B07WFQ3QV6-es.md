@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hXFx180ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFQ3QV6-es'
+slug: 'B07WFQ3QV6-es GC Pro Cargador para Portátil Lenovo IdeaPad 100 100-15IBD 100-15IBY 100s-14IBR 110 110-15IBR Yoga 510 520 Ordenador Adaptador de Corriente  20V 2.25A 45W '
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

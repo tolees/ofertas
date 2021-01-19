@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61y8E83ObKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HZ79BW-es'
+slug: 'B083HZ79BW-es J35038-Tm Anti-Fall Creative Simple Marble Pattern Teléfono móvil Soft Shell Transparente TPU Funda Protectora para iPhone'
 actualPrice: 1.33 EUR
 currency: EUR
 price: 1.33

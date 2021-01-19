@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21DpVbHFHKL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F1EHIWI-es'
+slug: 'B00F1EHIWI-es Sony MDRXD150 - Auriculares de Diadema Cerrados  Negro'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

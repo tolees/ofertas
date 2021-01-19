@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ew7p4XiTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNVRGK3-es'
+slug: 'B07GNVRGK3-es NIVEA Q10 3en1 Cushion  Perfeccionador Facial Hidratante y Antiedad con Protector Facial   Tono 02 Medio - 15 gr'
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

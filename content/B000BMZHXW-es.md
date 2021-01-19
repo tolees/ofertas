@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gkCb2hkBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BMZHXW-es'
+slug: 'B000BMZHXW-es HP Q7581A - Cartucho de tóner'
 actualPrice: 49.12 EUR
 currency: EUR
 price: 49.12

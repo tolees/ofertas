@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KP5Ts9VgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LI5TJBM-es'
+slug: 'B00LI5TJBM-es Buono Pelle - Cartera de piel para hombre  plegable   con cierre de botón y bolsillo para monedas  color negro Marrón marrón M'
 actualPrice: 5.81 EUR
 currency: EUR
 price: 5.81

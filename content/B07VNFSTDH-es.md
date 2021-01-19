@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51v3nVxlY3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNFSTDH-es'
+slug: 'B07VNFSTDH-es Anself 18 pcs Kit de Manicura Pedicura Profesional Kit de Cortauñas Recortador de Limas de Uñas Afeitado de Cejas Herramienta de Corte de Pelo de Nariz  Rosa claro '
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DDvxO7--L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EX9MAA6-es'
+slug: 'B01EX9MAA6-es LEDKIA LIGHTING Lámpara Colgante Jagger Negro'
 actualPrice: 35.83 EUR
 currency: EUR
 price: 35.83

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZLesxuRUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TG88QVH-es'
+slug: 'B07TG88QVH-es LIGHTAILING Conjunto de Luces  Architecture Shanghái  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21039  NO Incluido en el Modelo '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

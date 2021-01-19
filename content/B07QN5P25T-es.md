@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UAzZ7LnlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QN5P25T-es'
+slug: 'B07QN5P25T-es Bourjois  Máscara - 1 Unidad'
 actualPrice: 8.02 EUR
 currency: EUR
 price: 8.02

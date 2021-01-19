@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41usEbkSJgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXVN33T-es'
+slug: 'B07NXVN33T-es Skechers Go Run 600  Zapatillas para Hombre  Negro  Black Textile/Trim BBK   43 EU'
 actualPrice: 36.85 EUR
 currency: EUR
 price: 36.85

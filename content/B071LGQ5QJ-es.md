@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tv95Hj4DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LGQ5QJ-es'
+slug: 'B071LGQ5QJ-es WOLTU Toldo Vela de Sombra Rectangular Prevención Rayos UV Solar protección Piel Resistente y Transpirable para Jardín Patio  Exteriores Gris 2x4m  GZS1188gr02'
 actualPrice: 26.23 EUR
 currency: EUR
 price: 26.23

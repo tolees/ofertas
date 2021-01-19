@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G-nnqaHRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NVAWTLY-es'
+slug: 'B00NVAWTLY-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero JR1487'
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

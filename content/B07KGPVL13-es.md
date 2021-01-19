@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DmzIxS9hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGPVL13-es'
+slug: 'B07KGPVL13-es Buff Laelia Gorra Baseball  Mujer  Pale Peach  Talla única'
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

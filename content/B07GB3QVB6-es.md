@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31h5r4ONvnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GB3QVB6-es'
+slug: 'B07GB3QVB6-es Lacoste HH9553 Pantalones  Azul  Marine   36  Talla del Fabricante: 36/34  para Hombre'
 actualPrice: 53.04 EUR
 currency: EUR
 price: 53.04

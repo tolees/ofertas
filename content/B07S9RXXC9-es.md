@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tNY7UfKRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9RXXC9-es'
+slug: 'B07S9RXXC9-es PUMA LQDCELL Shatter TR FM WN S  Zapatillas Deportivas para Interior para Mujer  Negro Black/Tapioca  41 EU'
 actualPrice: 45.46 EUR
 currency: EUR
 price: 45.46

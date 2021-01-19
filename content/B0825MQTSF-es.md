@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JJpU8q74L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825MQTSF-es'
+slug: 'B0825MQTSF-es Quiksilver Psychic Patterns - Gorra Trucker para Chicos 8-16 Cap  Niños  Black  1SZ'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

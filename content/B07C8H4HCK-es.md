@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31T2YUqn4CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C8H4HCK-es'
+slug: 'B07C8H4HCK-es ORICO Aluminio Aleación USB C a HDMI Adaptador y 3-Puertos USB-A 3.0 y USB C Hub  4K * 30 fps para el Nuevo Macbook  Pixel  Yoga 900  Lumia 950 y más  Plata '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

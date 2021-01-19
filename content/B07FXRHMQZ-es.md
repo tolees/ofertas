@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y06S+EdSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXRHMQZ-es'
+slug: 'B07FXRHMQZ-es NaturGreen Panela  Jugo de caña de azúcar cristalizado-  Pack de 6 unidades de 500 gr'
 actualPrice: 10.07 EUR
 currency: EUR
 price: 10.07

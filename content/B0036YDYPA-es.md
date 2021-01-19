@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XJ2wQKW1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0036YDYPA-es'
+slug: 'B0036YDYPA-es Revlon Proyou White Hair Shampoo Champú - 350 ml'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

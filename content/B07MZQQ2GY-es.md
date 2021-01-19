@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kDzshpPrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQQ2GY-es'
+slug: 'B07MZQQ2GY-es Funko- Pop Vinilo Squarepants S3: Spongebob  Rainbow  Figura Coleccionable  Multicolor  39552 '
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

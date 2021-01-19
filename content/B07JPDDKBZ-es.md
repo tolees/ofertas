@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pnDSeYbsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPDDKBZ-es'
+slug: 'B07JPDDKBZ-es DAM TEKKIWEAR. DMX222BKRED. Pulsera Inteligente Ak-Q8S Bluetooth con Pantalla A Color  Sumergible  Podómetro  Monitor Cardíaco Y De Presión Sanguínea. Negro'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

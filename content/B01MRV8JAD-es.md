@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fbNQpyYUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRV8JAD-es'
+slug: 'B01MRV8JAD-es Pinzas de Cocina  GWCLEO Pinzas para Barbacoa en Acero Inox y Silicona  Pinzas para Ensalada y Servir con Consejos sin Rasguños y Mangos de Cojín de Silicona Anti-Deslizante Negro  9 y 12 Pulgadas '
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

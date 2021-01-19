@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xlBfb+b3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089QS33HL-es'
+slug: 'B089QS33HL-es Yakuza Kiwami 2 PS Hits'
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87

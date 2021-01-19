@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h5br4rKvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XW5H68O-es'
+slug: 'B00XW5H68O-es Bosch Professional de carga inalámbrica clásico juego de accesorios  18 V  1600A009CN'
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

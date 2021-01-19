@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BVf9ibDCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D9R2JA0-es'
+slug: 'B00D9R2JA0-es Samsung EB-B500BEBECWW - Batería oficial para móvil Galaxy S4 Mini  litio ion - Versión española'
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

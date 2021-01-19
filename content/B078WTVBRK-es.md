@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FMaCadfdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WTVBRK-es'
+slug: 'B078WTVBRK-es Rowenta VU1950 Classic Compact VU1930F0 Ventilador 45 W sobremesa 13 cm con Gran repartición oscilación Ideal y automática  repartirá el Aire para Que Llegue a Todos los rincones  55 W  Negro'
 actualPrice: 20.13 EUR
 currency: EUR
 price: 20.13

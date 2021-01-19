@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RAUtoz7GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQMJ2GN-es'
+slug: 'B07FQMJ2GN-es FITTOO Pantalones De Yoga Sueltos Cintura Alta Mujer Pantalones Largos Deportivos Suaves y Cómodos1080#4 Blanco XL'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

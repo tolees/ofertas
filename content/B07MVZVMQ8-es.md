@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Udx+3vNJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVZVMQ8-es'
+slug: 'B07MVZVMQ8-es WD My Passport Go 500 GB  disco duro sólido externo - acabado ámbar'
 actualPrice: 91.11 EUR
 currency: EUR
 price: 91.11

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/217ThUP2S8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGZ7LKF-es'
+slug: 'B07YGZ7LKF-es Miquelrius 17284 - Cubilete Rosa  Bella Garden'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

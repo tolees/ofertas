@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SHkVm0K0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DTWLVSS-es'
+slug: 'B07DTWLVSS-es Taurus AC 2600 RVKT - Aire acondicionado port?til  4 en 1: calor  fr?o  deshumidificador y ventilador  silencioso  temporizador  mando a distancia  kit ventana  9000 BTU - con calor  blanco'
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

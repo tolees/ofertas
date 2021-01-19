@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412SWxjWqaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4L2J8N-es'
+slug: 'B07J4L2J8N-es Misfit Smartwatch MIS7104'
 actualPrice: 93.9 EUR
 currency: EUR
 price: 93.9

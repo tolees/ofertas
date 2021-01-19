@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IGew6NqRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJ28Z9H-es'
+slug: 'B07HJ28Z9H-es GY6 125CC 150CC GY6 PD24J QMI152 QMJ157 para Motor Scooter ATV Go Kart Ciclomotor Rocker Arm Valve Motorbike Accesorio del Motor'
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

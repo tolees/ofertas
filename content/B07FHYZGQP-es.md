@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nuRK9kcbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHYZGQP-es'
+slug: 'B07FHYZGQP-es Luchild Dummy Clips Baby Pacifier Holder Made from Food Grade Silicone and Natural Wood Pacifier Clips Fit All Dummies & Soothers  4-Pack '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

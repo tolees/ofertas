@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51a2cDP2zyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2WL6SJ-es'
+slug: 'B07S2WL6SJ-es Wangel Estante de Cocina con 7 Ganchos  Organizadores para Utensilios de Cocina  Organizador para Especias  Pegamento Patentado + Autoadhesivo  Aluminio  Acabado Mate  40CM'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

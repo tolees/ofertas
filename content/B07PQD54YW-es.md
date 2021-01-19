@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gFijEAZ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQD54YW-es'
+slug: 'B07PQD54YW-es Relaxdays  Verde-Marrón  80 cm de Altura Palmera Hinchable para Fiesta Piscina  PVC  Adultos Unisex'
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

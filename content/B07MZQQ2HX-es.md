@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cNUdaSoKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQQ2HX-es'
+slug: 'B07MZQQ2HX-es Esprit Maternity Dress Nursing SS AOP Camisón premamá  Negro  Black 001   44  Talla del Fabricante: X-Large  para Mujer'
 actualPrice: 33.5 EUR
 currency: EUR
 price: 33.5

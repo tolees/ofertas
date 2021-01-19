@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31t4+xuKBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFF37CN-es'
+slug: 'B07DFF37CN-es Jabra Talk 45 – Auricular Monoaural In-Ear  Llamadas Inalámbricas  Indicaciones para el GPS  Transmisión de Música y Podcasts Desde Dispositivos Móviles  Plata'
 actualPrice: 41.69 EUR
 currency: EUR
 price: 41.69

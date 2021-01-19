@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ayWgT1hgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y5FL54N-es'
+slug: 'B07Y5FL54N-es Aprettysunny Tacón Alto Zapato'
 actualPrice: 2.88 EUR
 currency: EUR
 price: 2.88

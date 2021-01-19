@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+c58RUJpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083KLYM61-es'
+slug: 'B083KLYM61-es Scholl Plantillas GelActiv para Zapato Abierto + Crema de Pies para Durezas - 2 plantillas + Crema 60ml'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

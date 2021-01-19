@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eG4unlb9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWMD8M1-es'
+slug: 'B07PWMD8M1-es Kelme - Zapatillas Precision Elite 2.0'
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

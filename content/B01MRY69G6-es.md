@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kytK4DL2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRY69G6-es'
+slug: 'B01MRY69G6-es NAUTICAL Classic Bag'
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

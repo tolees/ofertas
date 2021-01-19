@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Z1K9O--fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLKSJLG-es'
+slug: 'B07QLKSJLG-es DlandHome Estantería Cocina Multiuso para Horno Microondas con Organizador de Especias & Caja de almacenamiento de frutas & Ganchos para Utensilios de cocina  Arce'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

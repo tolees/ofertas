@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iIzHuQaNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0854K1XCD-es'
+slug: 'B0854K1XCD-es JK-2 Laptop Carcasas para Macbook Air 13 Abstract Design Theme Plastic Protective Funda Carcasas & Free Keyboard Cover Compatible Macbook Air 13" A1369/A1466'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

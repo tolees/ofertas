@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wGOi+mkOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BT4NT7Y-es'
+slug: 'B07BT4NT7Y-es Mr. Wonderful Neceser para Cables Imprescindibles para Viajar  Poliéster  Multicolor  12x25x9 cm'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

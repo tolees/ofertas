@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PutEp+UuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYVVJNY-es'
+slug: 'B07JYVVJNY-es Tommy Hilfiger Rosha Pull On Cropped Pant Pantalones  Azul  Sky Captain 403   W34  Talla del Fabricante: 4  para Mujer'
 actualPrice: 44.82 EUR
 currency: EUR
 price: 44.82

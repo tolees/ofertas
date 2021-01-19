@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416OqUJBjdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJ6G5RZ-es'
+slug: 'B07SJ6G5RZ-es TOPBATHY Vegetable and Fruit Can Strainer Washing Drain Basket Colanders Can Colander Strainer for Kitchen  Pink '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

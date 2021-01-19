@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iIGcgo0IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TBLGFP-es'
+slug: 'B079TBLGFP-es Funko- Aladdins First Wish s Aladdin  Color Beige  Azul  marrón  Rojo  Disney 29375 '
 actualPrice: 18.88 EUR
 currency: EUR
 price: 18.88

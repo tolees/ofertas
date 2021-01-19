@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4175V5mxR9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9GGBVZ-es'
+slug: 'B07V9GGBVZ-es Pulsar Reloj de Vestir Inspirado en Diver con Pulsera de Acero Inoxidable PG8293X1'
 actualPrice: 62.22 EUR
 currency: EUR
 price: 62.22

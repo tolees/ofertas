@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p6KndENyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JCKBCDQ-es'
+slug: 'B08JCKBCDQ-es Tarjeta Micro SD 1024GB de alta velocidad Clase 10 Micro SD SDXC tarjeta con adaptador  1024gb '
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

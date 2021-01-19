@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gYhW6xEEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B84LGR2-es'
+slug: 'B01B84LGR2-es Sweat Corporate Polyester junior'
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

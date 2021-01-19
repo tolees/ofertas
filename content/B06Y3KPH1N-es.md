@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cOW48e-mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y3KPH1N-es'
+slug: 'B06Y3KPH1N-es Festina Reloj Análogo clásico para Hombre de Automático con Correa en Cuero F6858/3'
 actualPrice: 139.64 EUR
 currency: EUR
 price: 139.64

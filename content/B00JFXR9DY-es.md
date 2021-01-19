@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZZ+dzObGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JFXR9DY-es'
+slug: 'B00JFXR9DY-es Memoria USB 128 MB 10 Piezas Pen Drives - Portátil Unidad Flash USB Práctico PenDrive con 10 Unidades Cuerdas - Azul Giratoria USB 2.0 Flash Drive Pequeña Capacidad 128 MB for Conferencia by FEBNISCTE'
 actualPrice: 20.56 EUR
 currency: EUR
 price: 20.56

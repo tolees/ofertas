@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rB7Aqdd2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NN6IYCE-es'
+slug: 'B00NN6IYCE-es Panasonic Lumix DMC-LX100 - Cámara Compacta Premium de 12.8 MP  Sensor de 4/3"  Objetivo F1.7-F2.8 de 24-75 mm  Zoom de 3X  4K  WiFi  Raw   Color Negro'
 actualPrice: 435.2 EUR
 currency: EUR
 price: 435.2

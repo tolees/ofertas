@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415rKOWLSaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076BXB1PJ-es'
+slug: 'B076BXB1PJ-es Natura Essenziale Valeriana Leo - 90 Comprimidos - La valeriana contribuye al inicio y al mantenimiento de la calidad normal del sueño'
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

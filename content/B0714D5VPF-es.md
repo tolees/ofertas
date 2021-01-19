@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qa4DRg0-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0714D5VPF-es'
+slug: 'B0714D5VPF-es Under Armour Warp Knit High Impact Bra Sujetador Deportivo  Mujer  Negro  Black/Black/Reflective 001   36DD'
 actualPrice: 27.08 EUR
 currency: EUR
 price: 27.08

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bZ9QmIJbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTPNGJC-es'
+slug: 'B07CTPNGJC-es Alminatur Papilla de Multicereales con Plátano a Partir de los 6 Meses Paquete de 7 x 250 g- Total: 1.75 kg'
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

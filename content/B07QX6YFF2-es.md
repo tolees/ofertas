@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/612RkPbwlyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QX6YFF2-es'
+slug: 'B07QX6YFF2-es LENBEST Mesa Coche para Niños  Mesa para Niños en la Asiento de Coche  Tablero Impermeable del Coche  Viajan Niños Play Tray  Mesa para Niños  Bandeja para Coche  Cochecito  Avión'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

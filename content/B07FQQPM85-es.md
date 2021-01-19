@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cnHEG5LpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQQPM85-es'
+slug: 'B07FQQPM85-es Altavoz Bluetooth Ducha Impermeable con Ventosa Extraíble  AGPTEK Radio Ducha Portátil con Pantalla Funciones de Radio FM  Manos Libre  Microfono  Reloj ect  Negro'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

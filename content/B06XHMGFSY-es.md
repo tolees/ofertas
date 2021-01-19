@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cjHszQt9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHMGFSY-es'
+slug: 'B06XHMGFSY-es Silent Mind ~ Juego De Cuencos Tibetanos ~ Diseño Azul ~ Con Mazo De Superficie Doble Y Cojín De Seda ~ Promueve La Paz  La Curación De Chakras Y La Atención Plena ~ Un Regalo Exquisito'
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

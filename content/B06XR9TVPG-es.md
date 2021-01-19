@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aoTzy4BkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XR9TVPG-es'
+slug: 'B06XR9TVPG-es Valeton Dapper Mini Stage Session Gigging Gear Overdrive Distortion Chorus Delay Guitar Pedal multiefectos'
 actualPrice: 45.52 EUR
 currency: EUR
 price: 45.52

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XJGocbgGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPZ1HNY-es'
+slug: 'B07CPZ1HNY-es American Tourister Holiday Heat - Spinner Equipaje de Mano  55 cm  38 l  Negro  Black '
 actualPrice: 61.5 EUR
 currency: EUR
 price: 61.5

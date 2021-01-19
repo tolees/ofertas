@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51m-g05SMAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084JKQFNF-es'
+slug: 'B084JKQFNF-es Juego de paños de cocina. 3 piezas. Trapos cocina 60 * 60 cm  algodon. Gruesas y absorbentes. Diseño mediterráneo de España. Libro electrónico gratuito sobre ‘cómo crear tu espacio sagrado’.'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51woPLySAxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BTTJQW8-es'
+slug: 'B01BTTJQW8-es Hugo BOSS Reloj para hombre  1513361'
 actualPrice: 171.75 EUR
 currency: EUR
 price: 171.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oILAvXTyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072ZSYFSR-es'
+slug: 'B072ZSYFSR-es Wandf Kit para artículos de tocador expandible Dopp con Juego de Botellas Aprobado por TSA Resistente al Agua Nylon  Negro'
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

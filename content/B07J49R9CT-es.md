@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513Hmmwg26L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J49R9CT-es'
+slug: 'B07J49R9CT-es Misfit Smartwatch MIS7203'
 actualPrice: 117.66 EUR
 currency: EUR
 price: 117.66

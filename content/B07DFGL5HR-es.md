@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31NOl4Pai1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFGL5HR-es'
+slug: 'B07DFGL5HR-es Mornwell D958 Dental Mirror  Dental Inspection Mirror Oral Mouth Tooth Mirror with Bright LED Light Surgical Instrument'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

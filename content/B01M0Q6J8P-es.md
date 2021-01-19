@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+UP94LqtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0Q6J8P-es'
+slug: 'B01M0Q6J8P-es 14.4V 2600mAh Bateria de laptop L12L4E01 L12S4E01 L12M4E01 para Lenovo G400s G410s G500s G510s G40 G50 Z40-70 Z50 Z710 Medion AKoya S4217T Medion MD98599 MD98711 MD98712'
 actualPrice: 20.88 EUR
 currency: EUR
 price: 20.88

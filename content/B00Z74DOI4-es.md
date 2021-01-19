@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vgrywQBjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z74DOI4-es'
+slug: 'B00Z74DOI4-es MICHELIN 009518 Mini Compresor Digital  12V  Norme'
 actualPrice: 30.09 EUR
 currency: EUR
 price: 30.09

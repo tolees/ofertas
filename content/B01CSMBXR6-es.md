@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ovBElZhgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CSMBXR6-es'
+slug: 'B01CSMBXR6-es Rowenta Perfect Steam Extreme DG8531F0 - Centro planchado 6 bares con autonomía ilimitada y golpe de vapor 300 g/min  vapor continuo 120 g/min  suela Microsteam Laser 400  función Eco y autolimpieza'
 actualPrice: 158.0 EUR
 currency: EUR
 price: 158.0

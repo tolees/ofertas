@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61Hoc1N484L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HNB1O4O-es'
+slug: 'B01HNB1O4O-es Odelay [Vinilo]'
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

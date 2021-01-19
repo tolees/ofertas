@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51335kcLWwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0721SHDSY-es'
+slug: 'B0721SHDSY-es Nautica Reloj Analogico para Hombre de Cuarzo con Correa en Silicona NAPGLY001'
 actualPrice: 170.12 EUR
 currency: EUR
 price: 170.12

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AkRe3Z60L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PPZJKL-es'
+slug: 'B077PPZJKL-es Sharkoon SKILLER SGS2 – Silla Gaming Profesional  Tela  Acero  Negro/Azul'
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

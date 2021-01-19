@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SN2P0GnHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD74RY4-es'
+slug: 'B07XD74RY4-es BAIGIO Bolsa para Herramientas de Gran Abertura con Cremallera con Múltiples Bolsillos con Correa Ajustable Bolsa de Almacenamiento de Herramientas  Negro '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

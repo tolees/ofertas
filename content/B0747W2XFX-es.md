@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lwlUT7sHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0747W2XFX-es'
+slug: 'B0747W2XFX-es Philips Sonicare DiamondClean Smart HX9924/03 - Cepillo de dientes con App de formación personalizada  sensor de presión  5 modos  3 intensidades  incluye 4 cabezales y spray lingual  color blanco'
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

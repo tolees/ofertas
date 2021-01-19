@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21jWeNXlCyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084JFPJ2T-es'
+slug: 'B084JFPJ2T-es TOUS Colgante San Valentín Llave de Plata'
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

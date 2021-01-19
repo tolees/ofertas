@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q2rk9KHzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LB42SJ9-es'
+slug: 'B07LB42SJ9-es Calvin Klein Plunge Sujetador con Push-up  Rosa  Nymph s Thigh 2nt   C  Talla del Fabricante: 0C34  para Mujer'
 actualPrice: 17.93 EUR
 currency: EUR
 price: 17.93

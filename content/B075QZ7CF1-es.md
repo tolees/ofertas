@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KWvCyc27L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QZ7CF1-es'
+slug: 'B075QZ7CF1-es Chanson Mujeres 1 Unidad 300 g'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VU8fZcGWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868NBTCH-es'
+slug: 'B0868NBTCH-es Suhctup Transparente Funda Compatible con Huawei View 10 Lite/Honor 8X Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para Huawei Honor 8X 9 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

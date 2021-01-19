@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NwQhK3NQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0851BWX6Q-es'
+slug: 'B0851BWX6Q-es HERSITY Camión de Basura Montar y Desmontar Coches con Sonidos Vehiculos Juguete Regalos para Niños'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K2nOfAyhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071XD1DR6-es'
+slug: 'B071XD1DR6-es Xiaomi Mi Band 2 Fitness Smartband  Pulsera de actividad  con monitor de ritmo cardíaco  color Negro'
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

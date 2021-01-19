@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kz-mmXBTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2KQG22-es'
+slug: 'B07K2KQG22-es adidas Runfalcon  Zapatillas de Running para Hombre  Rojo  Active Red/ Ftwr White/ Core Black   42 EU'
 actualPrice: 34.15 EUR
 currency: EUR
 price: 34.15

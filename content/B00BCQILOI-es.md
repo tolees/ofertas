@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416GY-DnPuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BCQILOI-es'
+slug: 'B00BCQILOI-es Philips Thermoprotect HP8233/00 - Secador de Pelo  Motor DC  Ionico  Boquilla 11 mm y DifUsor  3 Velocidades  3 Temperaturas  2200 W  Negro y Lila'
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

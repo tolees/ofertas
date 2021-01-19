@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kf2BT7v0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WRQZRZ9-es'
+slug: 'B06WRQZRZ9-es Waldhausen X-Line Trensenzaum Crowncaps'
 actualPrice: 47.39 EUR
 currency: EUR
 price: 47.39

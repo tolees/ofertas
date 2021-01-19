@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Om8z3hDFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0796LKBLY-es'
+slug: 'B0796LKBLY-es RELIFE REBUILD YOUR LIFE Banco Musculación Abdominales Tabla de Abdominales Banco de Pesas Plegable Ajustable Gimnasio Ejercicios Entrenamiento Fitness'
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

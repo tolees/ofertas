@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+KR5uHkTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZX7Q5J-es'
+slug: 'B07VZX7Q5J-es Aggelos'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

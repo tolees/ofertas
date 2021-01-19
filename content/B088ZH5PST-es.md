@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HFNG67TmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088ZH5PST-es'
+slug: 'B088ZH5PST-es LAITER 4000 pcs Papel Cuadrado de Origami Papel Cuadrado de Bricolaje Colorido Plegable Dos Caras 5 x 5 cm 40 Colores para Proyecto Infantil Artesanía DIY Manualidad Proyecto de Arte Regalo para Niños'
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41j7etkzrFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZ025BN-es'
+slug: 'B01MZ025BN-es find. Floral Wide Leg Pantalones para Mujer  Negro  Black Mix   42  Talla del Fabricante: Large '
 actualPrice: 12 EUR
 currency: EUR
 price: 12

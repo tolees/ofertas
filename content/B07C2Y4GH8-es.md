@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RVauc2aNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2Y4GH8-es'
+slug: 'B07C2Y4GH8-es New Balance Rubix  Zapatillas de Running para Mujer  Negro  Black/White BK   37 EU'
 actualPrice: 36.96 EUR
 currency: EUR
 price: 36.96

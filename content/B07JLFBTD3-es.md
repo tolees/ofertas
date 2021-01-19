@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31vCQoEo2cL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLFBTD3-es'
+slug: 'B07JLFBTD3-es Lee Breese Pantalones para Mujer  Negro  Black Rinse 47   27W / 35L'
 actualPrice: 9.07 EUR
 currency: EUR
 price: 9.07

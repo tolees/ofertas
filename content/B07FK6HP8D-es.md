@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31uJ7I8wCmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FK6HP8D-es'
+slug: 'B07FK6HP8D-es ETNAB|#Etnies Cyprus SC  Zapatillas para Hombre  Black/White 976  7 UK EU'
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

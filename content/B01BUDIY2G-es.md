@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WKQSL6l6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BUDIY2G-es'
+slug: 'B01BUDIY2G-es Wagner Wood&Metal Sprayer  Pulverizador eléctrico de pintura para madera y metal  Amarillo/Negro  100W'
 actualPrice: 70.79 EUR
 currency: EUR
 price: 70.79

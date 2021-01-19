@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZAIEiZheL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNSPSST-es'
+slug: 'B07YNSPSST-es Suavinex – Crema Reafirmante Corporal. Compatible con Lactancia Materna. Recupera el Tono Cutáneo. con Manteca de Karité. 86% Ingredientes de Origen Natural  250Ml  Rosa'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

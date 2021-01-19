@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L0UfM07KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MYTPPM-es'
+slug: 'B077MYTPPM-es CORNERIA Easy-store Portacepillos De Diente - Soporte de Cepillo de Dientes con Ventosa  Desmontable Blanco '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

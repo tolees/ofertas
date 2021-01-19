@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zjtPSZXvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFDTZGT-es'
+slug: 'B07DFDTZGT-es Funko Pop Marvel Studios 10º Aniversario Figura de Vinilo cromada Gamora  Multicolor  33519 '
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

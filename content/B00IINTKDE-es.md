@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/313jDx7uRqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IINTKDE-es'
+slug: 'B00IINTKDE-es Lancaster Sun Beauty Velvet Tanning Milk SPF30 Protector Solar - 400 ml'
 actualPrice: 23.3 EUR
 currency: EUR
 price: 23.3

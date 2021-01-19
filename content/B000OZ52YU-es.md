@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5111U5h7XuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OZ52YU-es'
+slug: 'B000OZ52YU-es SEGA Mario & Sonic at the Olympic Games  Wii - Juego  Wii '
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

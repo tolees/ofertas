@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TCIxjw6WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B1M2VAC-es'
+slug: 'B01B1M2VAC-es WMF Alteo - Cubertería de acero inoxidable con acabado pulido  60 piezas  12 comensales   cromargan protect'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

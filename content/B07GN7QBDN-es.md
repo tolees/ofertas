@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SZygTXIOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GN7QBDN-es'
+slug: 'B07GN7QBDN-es Automático Dispensador de Pasta de Dientes y Conjunto de Portacepillos de Dientes con Montaje en la Pared - Manos Libres 2 de Pasta de Dientes con 5 Cepillos Fijados - Aptos para niños y adultos'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

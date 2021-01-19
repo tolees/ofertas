@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eoYC4NdQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB7WTQD-es'
+slug: 'B07HB7WTQD-es Funko- Pop Vinyl: Rocks: AC/DC: Angus Young w/Chase  Styles May Vary  Figura coleccionable  Multicolor  talla única  36318    color/modelo surtido'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

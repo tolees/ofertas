@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-J1zinp+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XPNG1F3-es'
+slug: 'B07XPNG1F3-es Jevogh GR28D Parte de Repuesto para Coche'
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

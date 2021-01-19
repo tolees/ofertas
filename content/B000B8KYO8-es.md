@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CbRsDBhDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000B8KYO8-es'
+slug: 'B000B8KYO8-es Leifheit Portarrollos de pared Parat Royal para 3 rollos  porta rollos para un corte limpio  portarrollos de cocina de acero inoxidable'
 actualPrice: 28.68 EUR
 currency: EUR
 price: 28.68

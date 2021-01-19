@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mG-JL4jgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074MKCXLH-es'
+slug: 'B074MKCXLH-es Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene  Negro  Black/Black   41/42 EU'
 actualPrice: 6.01 EUR
 currency: EUR
 price: 6.01

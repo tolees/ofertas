@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AfldReooL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9EYUZ8-es'
+slug: 'B01N9EYUZ8-es Dymatize ISO 100 Gourmet Vanilla 2 2kg - Hidrolizado de Proteína de Suero Whey + Aislado en Polvo'
 actualPrice: 52.06 EUR
 currency: EUR
 price: 52.06

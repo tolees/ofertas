@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UJADXIVyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQY8GZB-es'
+slug: 'B07BQY8GZB-es 2 Piezas de Altavoces Accesorios para Coche Automóvil Mini de Colores Differentes'
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

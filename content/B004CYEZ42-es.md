@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NvifHnYwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004CYEZ42-es'
+slug: 'B004CYEZ42-es Victoria Inglesa Elastico Tenido Punt - Zapatillas de deporte de tela para mujer  Blanc  20 Blanco   40'
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

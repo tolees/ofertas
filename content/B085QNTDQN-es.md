@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t16V88e2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085QNTDQN-es'
+slug: 'B085QNTDQN-es DY Jin Tablero de Juego de matemáticas de Madera con Juego de Pesca magnética  acertijos numéricos  Juego de conteo de clasificador de Formas  Aprendizaje Educativo Preescolar de matemáticas'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

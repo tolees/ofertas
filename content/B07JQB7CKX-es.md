@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nwLWy5JaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQB7CKX-es'
+slug: 'B07JQB7CKX-es ATZEBE Cable HDMI Fibra Óptica - 50m  Cable HDMI 4k Compatible con UHD 4K@60Hz HDR  YUV 4:4:4 8bit  Alta Velocidad 18Gbps  Ethernet  3D  ARC  HDCP 2.2'
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

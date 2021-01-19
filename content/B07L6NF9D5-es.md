@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310xKQVKFAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6NF9D5-es'
+slug: 'B07L6NF9D5-es Homyl Unidad Disquete USB Externa Sfrm72-du26 Accesorios de Ordenador Herramienta Fácil de Usar'
 actualPrice: 29.79 EUR
 currency: EUR
 price: 29.79

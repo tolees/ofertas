@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rVip-JOeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079GNMMQ2-es'
+slug: 'B079GNMMQ2-es Pendientes Colgantes Diseño Flor de Verano Multicolor para Señora Para Las Vacaciones'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

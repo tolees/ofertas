@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HqwqzxK4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N4SJOHA-es'
+slug: 'B00N4SJOHA-es Sensai Cellular Performance Cream Tratamiento Facial - 40 ml'
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

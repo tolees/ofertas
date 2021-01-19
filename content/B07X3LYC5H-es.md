@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aIyI+O-yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3LYC5H-es'
+slug: 'B07X3LYC5H-es LUDILO- Grabolo Educativo  Mesa para niños  Agilidad Mental  Cartas  Juegos de Viaje  Resistente al Agua  Jugar en Familia.  80458 '
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

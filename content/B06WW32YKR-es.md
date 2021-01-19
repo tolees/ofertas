@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416u-hmkUgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WW32YKR-es'
+slug: 'B06WW32YKR-es Balvi Felpudo Van Color marrón  Goma/Nylon 47 x 70 cm'
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

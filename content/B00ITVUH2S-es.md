@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yNc6fO4RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ITVUH2S-es'
+slug: 'B00ITVUH2S-es Wd-40 34302 Lubricante  Color unico  200ml'
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

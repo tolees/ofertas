@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51zt-QAtdcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Y0UCQV2-es'
+slug: 'B00Y0UCQV2-es Superga 2790-COTROPEW  Zapatillas Mujer  Blanco  901 White   37 EU  4 UK '
 actualPrice: 44.78 EUR
 currency: EUR
 price: 44.78

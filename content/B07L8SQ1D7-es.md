@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Mkr3PLWQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8SQ1D7-es'
+slug: 'B07L8SQ1D7-es REPLAY M3967 .000.21842 Capucha  Negro  Black 98   X-Large para Hombre'
 actualPrice: 29.61 EUR
 currency: EUR
 price: 29.61

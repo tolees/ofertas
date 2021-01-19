@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51acVRKHyIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0036MDF2Y-es'
+slug: 'B0036MDF2Y-es Olympus Objetivo M.Zuiko Digital ED 9-18 mm F4.0-5.6  Zoom Gran Angular  Adecuado para Todas Las cámaras MFT  Modelos Olympus OM-D & Pen  Serie G de Panasonic G   Negro'
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

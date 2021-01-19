@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dmpD-T3QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPTFW1Y-es'
+slug: 'B07RPTFW1Y-es ZoomSky Piedras Luminosas Azul 200pcs Stone Brillante Roca Fluorescente Adorno pecera para Decorar jardín hogar Botella Maceta Acuario balcón Pared Piscina y Lago y identificar vereda en Patio'
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

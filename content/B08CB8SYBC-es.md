@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cxAVicqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CB8SYBC-es'
+slug: 'B08CB8SYBC-es JEVX Megafono Portatil 4 en 1 con BATERIA Recargable + Bandera de España 145x90 Grande - Profesional Funcion Grabador y Reproductor de Voz 10 Segundos Altavoz con Control de Volumen Ajustable Correa'
 actualPrice: 27.41 EUR
 currency: EUR
 price: 27.41

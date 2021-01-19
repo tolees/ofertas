@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519GZLEXM7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081YK7BDG-es'
+slug: 'B081YK7BDG-es Yizhet Intermitentes Led Moto Luz Señal de Giro  4Pcs Intermitentes para Moto Homologados Ambar Giro Indicator Faros Intermitentes Delanteros 12V'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

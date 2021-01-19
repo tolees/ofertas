@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WIF0qdv0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076JLJXQ5-es'
+slug: 'B076JLJXQ5-es Oral-B Pro 750 Sensi Ultrathin Adulto Azul - Cepillo de dientes eléctrico  Alemania  Batería  330 g  100 mm  178 mm  253 mm '
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

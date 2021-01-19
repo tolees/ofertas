@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41c1eyIxdFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079C8DDD6-es'
+slug: 'B079C8DDD6-es Paladone lámpara Call of Duty'
 actualPrice: 18.25 EUR
 currency: EUR
 price: 18.25

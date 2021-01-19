@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sKgb17+UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZHZLQG-es'
+slug: 'B07QZHZLQG-es Mono para bebé recién Nacido Goku de Manga Corta con diseño de Dibujos Animados para niños y niñas'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

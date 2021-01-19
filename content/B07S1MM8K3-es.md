@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414ZEDZ7S+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1MM8K3-es'
+slug: 'B07S1MM8K3-es New Balance 574v2  Zapatillas para Mujer  Negro  Black SAU   36 EU'
 actualPrice: 44.08 EUR
 currency: EUR
 price: 44.08

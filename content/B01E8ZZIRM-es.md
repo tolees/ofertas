@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41VtL2LVLvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E8ZZIRM-es'
+slug: 'B01E8ZZIRM-es G-STAR RAW 3301 Low Waist Super Skinny Jeans Ajustados  Azul  dk Aged 6553-89   31W / 36L para Mujer'
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

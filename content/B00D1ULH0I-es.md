@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410cE+loCJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D1ULH0I-es'
+slug: 'B00D1ULH0I-es Bosch Professional GAS 35 L SFC+ - Aspirador seco/húmedo  1380 W  capacidad 35 l  manguera 3 m  SFC+  254 mbar '
 actualPrice: 369.99 EUR
 currency: EUR
 price: 369.99

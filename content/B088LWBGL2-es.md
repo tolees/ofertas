@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dncayVJaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088LWBGL2-es'
+slug: 'B088LWBGL2-es sumgott - Soporte para monitor de madera  para monitor  portátil  soporte ergonómico  415 x 235 x 100 mm  color negro'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nY+1pIHzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NGKGK32-es'
+slug: 'B00NGKGK32-es Lactacyd Pharma Protección - Con extractos naturales de acción antiseptica y antibacteriana  enriquecido con tomillo que proporciona una protección activa en la zona íntima externa  250 ml'
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

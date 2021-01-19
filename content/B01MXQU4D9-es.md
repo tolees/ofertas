@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SHBM-cd9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXQU4D9-es'
+slug: 'B01MXQU4D9-es Tommy Hilfiger K1285esha 6d  Zapatillas para Mujer  Azul  Midnight 403   37 EU'
 actualPrice: 35.8 EUR
 currency: EUR
 price: 35.8

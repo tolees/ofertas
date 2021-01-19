@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nbHtGUNmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJTD5YT-es'
+slug: 'B07RJTD5YT-es adidas Gazelle  Zapatillas para Hombre  Azul  Real Blue/Footwear White/Footwear White 0   42 EU'
 actualPrice: 47.48 EUR
 currency: EUR
 price: 47.48

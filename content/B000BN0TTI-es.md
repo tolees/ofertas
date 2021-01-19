@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418hhPQgePL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BN0TTI-es'
+slug: 'B000BN0TTI-es HP Q7582A - Cartucho de tóner'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

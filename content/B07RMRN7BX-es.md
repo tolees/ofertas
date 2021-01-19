@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51W774tDNvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMRN7BX-es'
+slug: 'B07RMRN7BX-es Finish Todo en 1 Max Limón Pastillas para Lavavajillas - 85 Unidades'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

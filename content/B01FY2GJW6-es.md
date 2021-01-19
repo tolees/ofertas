@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21mMR8W-lZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FY2GJW6-es'
+slug: 'B01FY2GJW6-es Green2Print Tóner Negro 2500 páginas sustituye a Lexmark 80C0S10  800S1  80C2SK0  802SK  80C2SKE  802SKE Tóner Apto para la Lexmark CX310N  CX310DN  CX410DE  CX410DTE  CX410E  CX510DE  CX510DHE '
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

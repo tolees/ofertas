@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ossNjIQ6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C8GLFZX-es'
+slug: 'B07C8GLFZX-es Calypso Reloj Analógico para Niñas de Cuarzo con Correa en Plástico K5749/3'
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

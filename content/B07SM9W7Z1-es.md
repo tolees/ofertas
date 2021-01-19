@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TEYzVU5NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SM9W7Z1-es'
+slug: 'B07SM9W7Z1-es Lacoste Graduate 120 1 SFA  Zapatillas para Mujer  Blanco  Wht/Nat   35.5 EU'
 actualPrice: 60.11 EUR
 currency: EUR
 price: 60.11

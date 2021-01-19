@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UXrbc6tNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FZ6Y46Z-es'
+slug: 'B07FZ6Y46Z-es CableDeconn HDMI to 3RCA Cable  HDMI to 3RCA AV Composite Video Audio Converter Adapter For Amazon Fire TV Sticks HD Player PC Laptop HDTV etc'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

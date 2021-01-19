@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GZ5NEKnQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005OQ4OKW-es'
+slug: 'B005OQ4OKW-es Hudora 71655 All Stars - Canasta de Baloncesto con Soporte'
 actualPrice: 47.12 EUR
 currency: EUR
 price: 47.12

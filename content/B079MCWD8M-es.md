@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d83u1PmqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MCWD8M-es'
+slug: 'B079MCWD8M-es NECTARBAR Eco Bolsa para hacer LECHE VEGETAL - Algodón Natural RAW FOOD FILTER BAG - Filtro para Leche de nueces  de almendras  fermenter queso vegano  para zumo  jugo  horchata - con instrucciones'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

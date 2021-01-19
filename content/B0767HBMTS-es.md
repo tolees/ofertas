@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YLRS8MabL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0767HBMTS-es'
+slug: 'B0767HBMTS-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero F20284/4'
 actualPrice: 84.15 EUR
 currency: EUR
 price: 84.15

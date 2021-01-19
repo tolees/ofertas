@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xJFyqyhOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J9R5JX3-es'
+slug: 'B07J9R5JX3-es Asics Gt-2000 7  Zapatillas de Running para Hombre  Negro  Black/White 001   43.5 EU'
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

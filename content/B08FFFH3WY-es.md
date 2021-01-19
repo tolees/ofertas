@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510QoAv45mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FFFH3WY-es'
+slug: 'B08FFFH3WY-es UniqueMe [6 Pack Protector de Pantalla para Xiaomi Mi Band 5  [Adsorcion anhidra] [Película Flexible] Soft HD TPU Clear para Xiaomi Mi Band 5'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

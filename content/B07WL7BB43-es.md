@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YpZ8oftaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WL7BB43-es'
+slug: 'B07WL7BB43-es Epson Workforce WF-2850 - Impresora Multifunción Color'
 actualPrice: 94.9 EUR
 currency: EUR
 price: 94.9

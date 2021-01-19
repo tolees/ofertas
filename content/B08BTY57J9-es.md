@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5168Ba+LjpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BTY57J9-es'
+slug: 'B08BTY57J9-es ZNE - Carcasa para iPhone SE 2020  diseño de flores de silicona TPU  suave y flexible  a prueba de golpes  protector de pantalla para iPhone SE 2020  transparente'
 actualPrice: 9.93 EUR
 currency: EUR
 price: 9.93

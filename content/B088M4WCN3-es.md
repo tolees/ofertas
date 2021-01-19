@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+Ut8TgV5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088M4WCN3-es'
+slug: 'B088M4WCN3-es Abanicos Plegables 2 Piezas Abanicos de Mano Plegable Seda de Bambú Abanicos para Fiestas Regalos de Boda Decoración de Bricolaje Color'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

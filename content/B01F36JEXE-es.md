@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s7o0LABwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F36JEXE-es'
+slug: 'B01F36JEXE-es BEAKEY Esponja Maquillaje  Set de Makeup Blender Beauty para Base de Maquillaje  Ideal para Líquidos  Cremas y Polvos  5 Unidades'
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

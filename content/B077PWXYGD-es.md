@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J3AudVwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PWXYGD-es'
+slug: 'B077PWXYGD-es Aigostar Smooth - Sin cable Depiladora Electrica  Lima eléctrica pies  Set de Pedicura y Manicura Eléctrico  afeitado con accesorio para axilas  y eliminación de callos y piel muerta  luz frontal Led'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

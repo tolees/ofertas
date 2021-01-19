@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z5MJeep1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2MMGN9-es'
+slug: 'B07N2MMGN9-es Cámara IP WiFi  BlitzWolf 1080P HD Cámara de Vigilancia WiFi Inalámbrica con Audio de Dos Vías  Detección de Movimiento  Visión Nocturna  Seguridad para Bebé/Anciano/Mascota No Incluye Tarjeta SD '
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gJFPMrBcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MKLH93-es'
+slug: 'B079MKLH93-es PJ Masks-24688 Pack de 5 Figuras - Súper Poder  Bandai 95280'
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

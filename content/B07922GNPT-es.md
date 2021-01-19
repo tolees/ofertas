@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C3hkhs+rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07922GNPT-es'
+slug: 'B07922GNPT-es Mini Surveillance Cámara Portable HD CAM Espía HD 1080P Espía Cámara Oculta Portátil Interior Cámara Espía con Detectores de Movimiento  Visión Nocturna por Infrar Rojos Vigilancia'
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41btQ4c8f-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DG6J42K-es'
+slug: 'B07DG6J42K-es Gioseppo  Zapatillas para Hombre  Verde  Kaki 45574-P   41 EU'
 actualPrice: 18.19 EUR
 currency: EUR
 price: 18.19

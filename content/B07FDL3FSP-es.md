@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qUGqOsXdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDL3FSP-es'
+slug: 'B07FDL3FSP-es Polaroid Pop 2.0 Cámara digital de impresión instantánea  Azul  20 Mp  Pantalla Táctil de 3 97 In  Wi-Fi incorporado  Tecnología Zink Zero Ink y nueva aplicación  fotografías de 9 x 11 cm'
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

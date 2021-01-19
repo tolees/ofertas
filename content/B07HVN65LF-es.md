@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hCqsdHR5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HVN65LF-es'
+slug: 'B07HVN65LF-es MSI Optix MAG341CQ - Monitor Gaming Curvo de 34" UWQHD LED Display 100Hz 3440 x 1440 Pixeles  ratio 21:9  8ms de respuesta  brillo 250nits  negro'
 actualPrice: 389.74 EUR
 currency: EUR
 price: 389.74

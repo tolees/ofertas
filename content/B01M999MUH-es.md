@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Myg8u5AnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M999MUH-es'
+slug: 'B01M999MUH-es Aroncent Gafa de Sol Polarizada con Clip de Metal Lente Irrompible contra UV400 para Carreras  Conducción  Golf  y Mucho Más Deportes Exteriores'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

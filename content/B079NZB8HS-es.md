@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318JIINGAzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NZB8HS-es'
+slug: 'B079NZB8HS-es Hapilife Grifo De Cocina Extraible Monomando Multifuncional Estético Con Caño Giratorio Alto Cromado Inoxidable para Fregadero'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

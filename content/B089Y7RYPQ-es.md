@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ShKBtFZrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089Y7RYPQ-es'
+slug: 'B089Y7RYPQ-es KKTECT Parque de Atracciones de Bolas Blandas de plástico Interior Bañera Inflable para niños Valla de Juguete Interior Piscina Divertida Piscina de Ducha Plegable Inflable para Perros Patos Niños'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

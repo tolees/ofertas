@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qX6hFeh8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF9X75M-es'
+slug: 'B07LF9X75M-es Dibea CM00341 - Alfombra para baño de Gatos  PVC  40 x 60 cm  Alfombra de Arena para Gatos Que atrapa la Arena fácilmente  fácil de Limpiar  Esterilla para Gatos  Esterilla para Gatos'
 actualPrice: 8.11 EUR
 currency: EUR
 price: 8.11

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IsE7TTRVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MW97GVJ-es'
+slug: 'B07MW97GVJ-es Skechers Paxmen  Zapatillas para Hombre  Verde  Olive Old   45 EU'
 actualPrice: 30.82 EUR
 currency: EUR
 price: 30.82

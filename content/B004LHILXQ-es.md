@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZRKog7dDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LHILXQ-es'
+slug: 'B004LHILXQ-es BAUSCH + LOMB - SofLens® 59 - Lentes de contacto de reemplazo mensual - Pack de 6'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

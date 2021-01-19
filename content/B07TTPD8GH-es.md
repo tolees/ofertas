@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41utg7rK+IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTPD8GH-es'
+slug: 'B07TTPD8GH-es Kipling Firefly Up  Mochilas para Mujer  Negro  Carbon Metallic   22x31x14 cm'
 actualPrice: 36.46 EUR
 currency: EUR
 price: 36.46

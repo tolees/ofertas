@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51p1Xu7nDXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07234VBWJ-es'
+slug: 'B07234VBWJ-es Manguera de jardín manguera Flexi sailun® Flexible  incluye Multi Función Ducha con 7 funciones  dehn Bar Agua Manguera para ropa de Auto lavado Jardín trabajo de riego'
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

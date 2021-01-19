@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31u3WuZ4yhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072N5MQNP-es'
+slug: 'B072N5MQNP-es Magno - Desodorante Classic - 150ml  pack de 6  Total: 900ml'
 actualPrice: 10.44 EUR
 currency: EUR
 price: 10.44

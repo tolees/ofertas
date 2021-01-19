@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51g3Z3iJrhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B007BT4YKU-es'
+slug: 'B007BT4YKU-es Nike Core Items 3.0 Bolsa de Hombro  Negro  Black/Black/Black   Talla única'
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

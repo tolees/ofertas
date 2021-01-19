@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g7t1t5lVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLBQQXL-es'
+slug: 'B07QLBQQXL-es LeYi Funda iPhone SE 2020/6 / 6S / 7/8 Armor Carcasa con 360 Anillo iman Soporte Hard PC y Silicona TPU Bumper antigolpes Fundas Case para movil iPhone 7 con HD Protector de Pantalla Negro'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

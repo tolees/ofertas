@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ufWAXF61L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N9D19RR-es'
+slug: 'B07N9D19RR-es BOSS Schino-Regular D Pantalones  Azul  Navy 413   32W/32L para Hombre'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

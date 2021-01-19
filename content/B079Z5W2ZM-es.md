@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KNaDzxfCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Z5W2ZM-es'
+slug: 'B079Z5W2ZM-es Elizabeth Arden Liquid Lip Gloss Finish Pintalabios  Pretty Obsessed  2 4 ml'
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

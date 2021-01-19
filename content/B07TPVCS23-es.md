@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41n6nr+hTsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPVCS23-es'
+slug: 'B07TPVCS23-es Superdry OL Classic Raglan Ziphood Capucha  Azul  Rich Blue Marl Bif   S para Hombre'
 actualPrice: 24.29 EUR
 currency: EUR
 price: 24.29

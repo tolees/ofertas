@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51G9JvfOrPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EL9Y1LE-es'
+slug: 'B01EL9Y1LE-es Hartmann Cosmopor E Apósitos  7.2 x 5 cm  50 unidades'
 actualPrice: 7.76 EUR
 currency: EUR
 price: 7.76

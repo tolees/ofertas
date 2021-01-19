@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xMVOcJIEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6PYNL1-es'
+slug: 'B07N6PYNL1-es Tommy Hilfiger Downtown Seasonal Belt 3.5 Cinturón   Black Bds   120  Talla del fabricante: 105.0  para Hombre'
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

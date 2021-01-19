@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31OuqyEg7xL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFQ3TSH-es'
+slug: 'B07JFQ3TSH-es Lacoste Ph5522 Polo  Azul  Lilium Chiné 9n0   Small  Talla del Fabricante: 3  para Hombre'
 actualPrice: 60.8 EUR
 currency: EUR
 price: 60.8

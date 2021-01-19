@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+IEgVwp9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D0MXEHU-es'
+slug: 'B01D0MXEHU-es Marca 2188-GVE - Gafa Visitor'
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

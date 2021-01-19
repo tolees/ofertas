@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BnekhacaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3GVYD4-es'
+slug: 'B07Q3GVYD4-es Dockers by Gerli 43ad101  Botas Militar para Hombre  Gris  Dunkelgrau 220   43 EU'
 actualPrice: 15.87 EUR
 currency: EUR
 price: 15.87

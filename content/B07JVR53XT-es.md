@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413ycjhzX+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVR53XT-es'
+slug: 'B07JVR53XT-es Meidong HE8C Cancelación de Ruido Activa intrauditivos con Bluetooth Auriculares Deportivos con Bajos Profundos/Estuche de Viaje Duro / 15 Horas Playtime【Mejorar】'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

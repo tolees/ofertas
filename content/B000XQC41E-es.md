@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417janfitbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000XQC41E-es'
+slug: 'B000XQC41E-es Bosch Professional GBH 4-32 DFR - Martillo perforador  4 2 J  Ø máx. hormigón 32 mm  portabrocas SDS plus + hexagonal  en maletín '
 actualPrice: 369.99 EUR
 currency: EUR
 price: 369.99

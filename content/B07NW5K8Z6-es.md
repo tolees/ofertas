@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c6tUCXNkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW5K8Z6-es'
+slug: 'B07NW5K8Z6-es Skechers On-the-go Joy Botas Altas Mujer  Marrón  Chocolate Suede/Textile Chocolate   39.5 EU  6.5 UK '
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

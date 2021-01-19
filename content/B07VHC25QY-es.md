@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XVpMF3ZBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHC25QY-es'
+slug: 'B07VHC25QY-es JACK & JONES Jcostanford Crew Neck Noos suéter  Marrón  Fudge Fit: Knit Fit   XX-Large para Hombre'
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

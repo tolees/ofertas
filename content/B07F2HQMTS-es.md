@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YG8EnY7dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2HQMTS-es'
+slug: 'B07F2HQMTS-es ENKEEO Mini Bomba de Aire de Mano  Bomba de Bicicleta  140 PSI  Ligero y Flexible  con Válvulas Presta y Schrader  Kit de Montaje Incluido'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

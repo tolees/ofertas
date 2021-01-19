@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21Qzdait9lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZG1G1F-es'
+slug: 'B07TZG1G1F-es Manual del bebé Aspirador nasal de silicona Aspirador nasal Bomba de succión nasal Dispositivo de aspiración nasal Herramienta de limpieza de nariz fría-Rosa-1 Tamaño'
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

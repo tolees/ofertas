@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XkWyFWfDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0733LNXH3-es'
+slug: 'B0733LNXH3-es Wonder Woman [DVD]'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

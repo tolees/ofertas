@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZuqsL5XPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQSJK2C-es'
+slug: 'B07TQSJK2C-es Charles Wilson Paquete de 3 Camisetas Slub con Cuello Redondo  Large  Essentials '
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

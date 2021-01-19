@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314YXbrAZ6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084Z3SSKQ-es'
+slug: 'B084Z3SSKQ-es 1 pieza caliente completo al aire libre bebé infantil cochecito cochecito cochecito mosquitera mosquitera malla buggy cubierta bebé mosquitero - blanco'
 actualPrice: 1.54 EUR
 currency: EUR
 price: 1.54

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aw6SNo14L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088CPVLZ2-es'
+slug: 'B088CPVLZ2-es Toallitas para Perros y Gatos  Pet Wipes  Toallitas húmedas para Mascotas  Toallitas Limpiadoras para los Ojos de Perros y Gatos  limpie las lágrimas y el moco en los ojos de las mascotas  100 Pcs'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

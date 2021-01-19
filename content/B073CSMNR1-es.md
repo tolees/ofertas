@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PfUNT00GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073CSMNR1-es'
+slug: 'B073CSMNR1-es MEDION E2221t - Ordenador convertible de 11.6"  Intel Atom x5-Z8350  2 GB de RAM  32 GB SSD HDD  Windows 10  color dorado - teclado QWERTY español'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

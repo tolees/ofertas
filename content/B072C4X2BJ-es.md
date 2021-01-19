@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416tjvMewtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072C4X2BJ-es'
+slug: 'B072C4X2BJ-es Di4 Jet Pressing Centro de Planchado  Doble Sistema de Calentamiento  2850 W  Cerámica  Blanco/Azul'
 actualPrice: 63.43 EUR
 currency: EUR
 price: 63.43

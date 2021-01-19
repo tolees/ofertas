@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51xxt0lYi6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D0FMRE8-es'
+slug: 'B01D0FMRE8-es Great Art Gráfico artistico de Lirio Mural de by  140 x 100 cm '
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

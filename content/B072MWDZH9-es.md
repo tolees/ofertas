@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nrAOVArkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MWDZH9-es'
+slug: 'B072MWDZH9-es Volcom Rockout Skinny Vintage Black 7'
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zHJAa%2BfsL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2PLMII-es'
+slug: 'B01N2PLMII-es adidas 6P Cotton Gorra de Tenis  Hombre  Blanco  Blanco/Blanco/Negro   L'
 actualPrice: 10.77 EUR
 currency: EUR
 price: 10.77

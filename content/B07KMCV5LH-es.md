@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OTEYjAlDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMCV5LH-es'
+slug: 'B07KMCV5LH-es Clarks Un Rio Lace  Zapatillas para Mujer  Negro  Black Leather Black Leather   39 EU'
 actualPrice: 69.92 EUR
 currency: EUR
 price: 69.92

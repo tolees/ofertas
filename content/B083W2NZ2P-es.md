@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CKb2amz2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083W2NZ2P-es'
+slug: 'B083W2NZ2P-es NHUAIYINSHUGUOGUANGGAOJINGY Reloj Inteligente Monitor de frecuencia cardíaca Multifuncional Podómetro de Resistencia al Agua M11 Pantalla de 1.3 Pulgadas Reloj Deportivo Verde Oscuro - Dorado'
 actualPrice: 5.81 EUR
 currency: EUR
 price: 5.81

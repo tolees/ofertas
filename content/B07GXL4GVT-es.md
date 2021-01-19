@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-oOPnVqAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXL4GVT-es'
+slug: 'B07GXL4GVT-es BtDuck - Funda de piel con tapa para Samsung Galaxy A5 2017  incluye tarjetero   color transparente  Cat'
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

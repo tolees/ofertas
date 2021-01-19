@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JS43Q1cAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXV979H-es'
+slug: 'B07NXV979H-es San Ignacio Premium Set de Bateria 5 Piezas + 4 recipientes herméticos + 4 Cuchillos de Cocina  5 pcs + utensilios'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

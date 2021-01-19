@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EpNIxX02L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GN2PD-es'
+slug: 'B07N1GN2PD-es Clarks Un Elda Hi  Botas Slouch para Mujer  Marrón  Dark Tan Suede Dark Tan Suede   37.5 EU'
 actualPrice: 79.36 EUR
 currency: EUR
 price: 79.36

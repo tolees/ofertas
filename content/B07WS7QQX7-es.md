@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UV5w0g6mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WS7QQX7-es'
+slug: 'B07WS7QQX7-es BRIKSMAX Kit de Iluminación Led para Lego Technic Depósito de contenedores Compatible con Ladrillos de Construcción Lego Modelo 42062  Juego de Legos no Incluido'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

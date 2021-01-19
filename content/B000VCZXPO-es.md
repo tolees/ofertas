@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-J6lowf1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VCZXPO-es'
+slug: 'B000VCZXPO-es Wera 05057122001 Surtido de puntas'
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

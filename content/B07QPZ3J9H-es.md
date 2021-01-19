@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p-bk3XpyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPZ3J9H-es'
+slug: 'B07QPZ3J9H-es Flybiz Receptor Transmisor Bluetooth 5.0 2 en 1  Adaptador Bluetooth de Audio  Baja latencia aptX para 2 Auriculares  RCA  Adaptador de Audio emisor inalámbrico de 3 5 mm  Sistema Estéreo del Hogar'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

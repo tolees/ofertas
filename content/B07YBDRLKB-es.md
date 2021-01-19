@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31R0PSWnwbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBDRLKB-es'
+slug: 'B07YBDRLKB-es Cartera Pepe Jeans Fair Horizontal con Cierre de Clic Negra'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nMKT7cydL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K369BDB-es'
+slug: 'B07K369BDB-es adidas Runfalcon  Zapatillas de Running para Hombre  Multicolor  Dark Blue/FTWR White/Core Black F36201   44 2/3 EU'
 actualPrice: 31.25 EUR
 currency: EUR
 price: 31.25

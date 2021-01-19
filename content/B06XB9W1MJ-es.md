@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41KnUmOeFGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XB9W1MJ-es'
+slug: 'B06XB9W1MJ-es Skechers Elite Flex  Zapatillas para Hombre  Azul  Navy/Orange   44 EU'
 actualPrice: 30.53 EUR
 currency: EUR
 price: 30.53

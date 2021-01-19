@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BCM-aac7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTPYWRJ-es'
+slug: 'B07QTPYWRJ-es Eckonaver Funda de Silla de Oficina Modernas Estilo Simplista Cubiertas de la Silla de la computadora de Oficina Cubierta de la Silla Oficina removible  no Incluye Sillas   Azul  M '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

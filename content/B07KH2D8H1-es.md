@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yUAbzKL9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KH2D8H1-es'
+slug: 'B07KH2D8H1-es Under Armour Blitzing II - Gorra  Hombre  Negro  Black 023  L/XL'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

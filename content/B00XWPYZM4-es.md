@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DefMB32FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XWPYZM4-es'
+slug: 'B00XWPYZM4-es Nike Tanjun  Zapatillas de Running para Hombre  Azul  Midnight Navy/White-Game Royal   42.5 EU'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

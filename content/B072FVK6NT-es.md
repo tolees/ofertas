@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i9GPczTzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072FVK6NT-es'
+slug: 'B072FVK6NT-es New Balance 574v2 Core Lace  Modelo GC574GV  Zapatillas para Niños  Azul  Navy Navy   38 EU'
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

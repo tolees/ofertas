@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0783MLPPQ-es'
+slug: 'B0783MLPPQ-es New Balance 574 Core Zapatillas Hombre  Negro  Blackout ETE   37.5 EU  4.5 UK '
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

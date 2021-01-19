@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pSRyuZtDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824TQ3RM-es'
+slug: 'B0824TQ3RM-es Pllieay - 30 piezas de tela de malla de plástico de 7 hilos para bordado  manualidades  tejer y proyectos de ganchillo  10 x 10 cm '
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

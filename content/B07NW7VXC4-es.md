@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k4RzRcSVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW7VXC4-es'
+slug: 'B07NW7VXC4-es Skechers Women s SYNERGY Ankle Boots  Brown  Chestnut Micro Leather/Natural Faux Sherpa Csnt   5  38 EU '
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mtxtdGWrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XN5M8TD-es'
+slug: 'B06XN5M8TD-es Rollei Camera Cleaning Kit Travel - Kit de Limpieza para cámaras para Viajar  Incl. Air Blower  Lenspen  paños de Microfibra'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

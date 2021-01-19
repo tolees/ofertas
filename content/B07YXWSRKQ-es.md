@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FxLuA0sOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXWSRKQ-es'
+slug: 'B07YXWSRKQ-es LEWOTE Airpods Carcasa de Silicona Compatible con Airpods de Apple 1 y 2 [Diseño de Dibujos][Niñas o Parejas]  3D Iron Man '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

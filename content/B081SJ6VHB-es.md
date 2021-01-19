@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31crMVjMGZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SJ6VHB-es'
+slug: 'B081SJ6VHB-es adidas CON20 TR PNT Pantalones de Deporte  Hombre  Team Navy Blue/White  L'
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

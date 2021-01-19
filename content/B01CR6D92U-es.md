@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jw-JfNCgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CR6D92U-es'
+slug: 'B01CR6D92U-es Kripton Halley  Zapatillas Unisex Niños  Azul  Marino   23 EU'
 actualPrice: 4.52 EUR
 currency: EUR
 price: 4.52

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QgWZn8tgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772XKNQB-es'
+slug: 'B0772XKNQB-es Columbia Silver Ridge II Pantalones de Senderismo Convertibles  Hombre  Gris  Grill   W32/L32'
 actualPrice: 48.2 EUR
 currency: EUR
 price: 48.2

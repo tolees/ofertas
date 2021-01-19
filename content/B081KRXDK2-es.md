@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ypAW5k+FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081KRXDK2-es'
+slug: 'B081KRXDK2-es ZXL Adornos Modernes Cerámica Escultura Einfaches Wohnzimmer Pers & ouml; nlichkeit Hauptdekoration Kreativer Weinschrank Kunst Ornamente TV Schrank Handwerk Crafts GAOLILI  Tamaño: B '
 actualPrice: 112.99 EUR
 currency: EUR
 price: 112.99

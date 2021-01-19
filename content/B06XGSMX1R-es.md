@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bJ-38SXgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGSMX1R-es'
+slug: 'B06XGSMX1R-es Funko- Kevin Figura de Vinilo  seria The Leftovers  14299 '
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ufI5VoJDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B009M3HZ2M-es'
+slug: 'B009M3HZ2M-es Hauck Freerider Silla de paseo gemelar para 1 o 2 niños de diferentes edades  asientos desmontables  tandem  de 0 meses  acoplando capazo blando  hasta 2 x 15 kg  dos protectores de lluvia  negro'
 actualPrice: 163.86 EUR
 currency: EUR
 price: 163.86

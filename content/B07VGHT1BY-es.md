@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51m5tTM+IKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGHT1BY-es'
+slug: 'B07VGHT1BY-es Bandolera Grande Pepe Jeans Lambert Burdeos'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

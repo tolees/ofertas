@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41taB1FGeHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ1ZP9F-es'
+slug: 'B07JQ1ZP9F-es Cámara Digital réflex Digital de Alta definición/Media/Larga con Enfoque óptico Cámara CMR Funcionamiento Manual Uso doméstico Videocámara antivibraciones DV'
 actualPrice: 18.06 EUR
 currency: EUR
 price: 18.06

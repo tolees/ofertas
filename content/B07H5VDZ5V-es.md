@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41el5-aK8RL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5VDZ5V-es'
+slug: 'B07H5VDZ5V-es Skechers Flex Appeal 3.0  Zapatillas para Mujer  Negro  Black Knit Mesh/Hot Pink Trim   38 EU'
 actualPrice: 45 EUR
 currency: EUR
 price: 45

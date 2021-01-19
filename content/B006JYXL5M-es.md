@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31IO1T7XL%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B006JYXL5M-es'
+slug: 'B006JYXL5M-es El motor eléctrico se basa leche Nuby Natural Touch'
 actualPrice: 9.71 EUR
 currency: EUR
 price: 9.71

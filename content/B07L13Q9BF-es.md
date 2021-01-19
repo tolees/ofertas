@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QH4Kf4DoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L13Q9BF-es'
+slug: 'B07L13Q9BF-es Under Armour Rival Parte Superior del Calentamiento  Mujer  Negro  LG'
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

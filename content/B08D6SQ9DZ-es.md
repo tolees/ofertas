@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bs9pdLXkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D6SQ9DZ-es'
+slug: 'B08D6SQ9DZ-es 5 PCS Salvaorejas de Mascarillas Extensor Ajustable  Correa Antideslizante con Hebillas de Silicona con Agarres para Sujetar Cuello Aliviar Molestias  Fijador Antideslizante Ajustable de 4 Engranajes'
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

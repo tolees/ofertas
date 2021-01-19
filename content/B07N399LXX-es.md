@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dFdKsdb1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N399LXX-es'
+slug: 'B07N399LXX-es AINOYA Funda Carcasa Gel para Huawei P30 Pro  Ultra Fina  Soft TPU de Impactos y Anti-Arañazos Espalda Case Cover para Huawei P30 Pro - Transparente'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

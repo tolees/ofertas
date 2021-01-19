@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mM-QFBeyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797NJSG4-es'
+slug: 'B0797NJSG4-es Funko Pop!- Pop Games: Destiny S2-Osiris Figura de Vinilo  Multicolor  30171 '
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

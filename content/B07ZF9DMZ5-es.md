@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uM4DCv4IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZF9DMZ5-es'
+slug: 'B07ZF9DMZ5-es Tusenpy 20 Rollos Washi Cintas Rollitos Navideños Cintas Adhesivas para Decoración  Decorar Bullet Journal  Hacer Manualidades y Decorar Paquetes de Regalo Muebles  océano '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

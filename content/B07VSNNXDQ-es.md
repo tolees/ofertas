@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kuh-iatCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSNNXDQ-es'
+slug: 'B07VSNNXDQ-es Duevin Máquina de tatuaje semipermanente  10 Wraps Alloy Liner Coil Tattoo Machines  Tattoo Machine Liner Shader Gun  Alloy Liner Coil Tattoo  Machines Tattoo Gun  maquina tatuar'
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

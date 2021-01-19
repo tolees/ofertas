@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ks4xNebPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XNS73RC-es'
+slug: 'B07XNS73RC-es Goldyqin Pantalla monocromática Professional HD 1536kbps Special T60 Recorder USB 2.0 8G - Negro'
 actualPrice: 18.41 EUR
 currency: EUR
 price: 18.41

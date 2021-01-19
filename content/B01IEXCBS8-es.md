@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414hEYdRaGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IEXCBS8-es'
+slug: 'B01IEXCBS8-es Dreamlove Skins Preservativo Sabores Varios - 12 Unidades'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

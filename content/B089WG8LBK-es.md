@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RxFNRkzzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089WG8LBK-es'
+slug: 'B089WG8LBK-es Plancha eléctrica Antiadherente Cocina sin Humo Plancha eléctrica con Bandeja de Goteo y Control de Temperatura para Interiores Exteriores 10"x21 Tamaño Familiar  Revestimiento antiadheren'
 actualPrice: 224.99 EUR
 currency: EUR
 price: 224.99

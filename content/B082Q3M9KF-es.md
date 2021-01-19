@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JbLmLcRqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082Q3M9KF-es'
+slug: 'B082Q3M9KF-es Janhe Sheer Classic Videogames Pattern Headpiece Chiffon Thin Headkerchief Pañuelo de seda Chica'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

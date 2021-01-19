@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gA0g7ST6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8LP5QD-es'
+slug: 'B07M8LP5QD-es Bandas elasticas musculación con asas | Gomas elasticas fitness de 5 a 70kg libras | Pack de cintas elasticas para ejercicio en casa | Mujer y Hombre | Programa de entrenamiento gratuito incluido'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

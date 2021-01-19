@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YrTN6YxZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGJYX37-es'
+slug: 'B07MGJYX37-es The North Face Mallas en Mezcla de algodón con Logotipo Grande  Niñas  TNF Medium Grey Heather  XL'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

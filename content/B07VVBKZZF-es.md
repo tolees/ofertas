@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wt7Tu0AdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVBKZZF-es'
+slug: 'B07VVBKZZF-es Easton Marlowe 6 PR Calcetines Lisos Negros Hombre Mujer  Algodón Peinado - 6pk #3-6  Negro - 46-49 talla de calzado UE'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

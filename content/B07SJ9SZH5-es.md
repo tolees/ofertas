@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WQb3i3T8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJ9SZH5-es'
+slug: 'B07SJ9SZH5-es CMXING Molinillo de Pimienta y Sal Molino 2 en 1 Molino de Especias con Molinillo de cerámica Molino de Sal acrílico'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

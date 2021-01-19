@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vyWZF9cYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPF5LGS-es'
+slug: 'B07NPF5LGS-es Tom Tailor 7980801  Botas Clasicas para Hombre  Marrón  Brandy 01823   41 EU'
 actualPrice: 18.82 EUR
 currency: EUR
 price: 18.82

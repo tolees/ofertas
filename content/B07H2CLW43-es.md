@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RSmDwC3zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2CLW43-es'
+slug: 'B07H2CLW43-es Joma Combi Camisetas Equip. M/C  Hombre  Burdeos'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

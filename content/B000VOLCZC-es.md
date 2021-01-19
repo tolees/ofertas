@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qDNpB67hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VOLCZC-es'
+slug: 'B000VOLCZC-es Davidoff Cool Water After Shave 75 ml'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

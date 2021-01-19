@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hKen+vrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MTZI376-es'
+slug: 'B00MTZI376-es Sony ILCE-5100L - Cámara EVIL de 24.3 MP  pantalla 3"  estabilizador óptico  vídeo Full HD  Negro'
 actualPrice: 369.99 EUR
 currency: EUR
 price: 369.99

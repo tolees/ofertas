@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cVUxGnyIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HVYPQGZ-es'
+slug: 'B07HVYPQGZ-es Bio Crema Hidratante facial Mujer y Hombre con Ácido Hialurónico Puro y ORGÁNICA●Ingredientes ANTIARRUGAS●GIGANTE 100 ml●Cremas nocturnas faciales con Retinol+Vitamin C+Aloe Vera●Para Contorno de Ojos'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

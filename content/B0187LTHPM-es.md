@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oZ0AYI45L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0187LTHPM-es'
+slug: 'B0187LTHPM-es Ksix BXSW01 - SmartWatch  1.44"  TFT  Bluetooth   color negro'
 actualPrice: 22.91 EUR
 currency: EUR
 price: 22.91

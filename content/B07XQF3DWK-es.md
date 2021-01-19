@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oPl18575L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQF3DWK-es'
+slug: 'B07XQF3DWK-es DESIGUAL Letras Abrigos Femmes Negro - EU 36 - Plumas'
 actualPrice: 124.97 EUR
 currency: EUR
 price: 124.97

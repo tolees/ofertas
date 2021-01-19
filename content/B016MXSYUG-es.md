@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cZL11zwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016MXSYUG-es'
+slug: 'B016MXSYUG-es Nike MD Runner 2  PSV   Zapatillas de Deporte Unisex niño  Multicolor  Negro 000   33 EU'
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

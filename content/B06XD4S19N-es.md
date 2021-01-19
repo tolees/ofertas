@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zAorLr7lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XD4S19N-es'
+slug: 'B06XD4S19N-es Calvin Klein Top Hoodie Full Zip Capucha  Negro  Black 001   Talla única  Talla del Fabricante: X-Small  para Mujer'
 actualPrice: 50.35 EUR
 currency: EUR
 price: 50.35

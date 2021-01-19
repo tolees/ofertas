@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hDJGMWZSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P3XRKYI-es'
+slug: 'B00P3XRKYI-es K&N HD-1614 Filtro de Aire Moto'
 actualPrice: 72.66 EUR
 currency: EUR
 price: 72.66

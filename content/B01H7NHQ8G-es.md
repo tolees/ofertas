@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l15uSZ5AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H7NHQ8G-es'
+slug: 'B01H7NHQ8G-es Cuadro Fotográfico Composicion Frutas Tamaño total: 97 x 62 cm XXL  Multicolor'
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

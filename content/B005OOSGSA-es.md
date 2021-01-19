@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/6125v8SWtnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005OOSGSA-es'
+slug: 'B005OOSGSA-es Disney - Cars 2 - DVD'
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

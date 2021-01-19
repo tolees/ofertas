@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TtSx+4nML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D7OKNCQ-es'
+slug: 'B00D7OKNCQ-es Maybelline New York - El Borrador Instant Anti Age  Corrector de Ojos  Tono 45 Light'
 actualPrice: 5.57 EUR
 currency: EUR
 price: 5.57

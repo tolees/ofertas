@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oe3LHGJ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8YPQXK-es'
+slug: 'B07V8YPQXK-es Tommy Hilfiger - Seasonal Crossover  Bolsos bandolera Mujer  Negro  Black   1x1x1 cm  W x H L '
 actualPrice: 34.68 EUR
 currency: EUR
 price: 34.68

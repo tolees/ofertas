@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31BD52Yh0AL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBB81FC-es'
+slug: 'B07PBB81FC-es AmazonBasics Cargador para pared USB de tipo C 3.0  65 W  1 puerto  EU/negro'
 actualPrice: 20.94 EUR
 currency: EUR
 price: 20.94

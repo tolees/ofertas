@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Tc9woZVTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3VF1WQ-es'
+slug: 'B07H3VF1WQ-es Venus Swirl Cuchillas afeitar mujer  maquinilla + 5 recambios  apto para envío postal'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

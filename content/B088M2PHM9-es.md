@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51k6R6m8w+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088M2PHM9-es'
+slug: 'B088M2PHM9-es Suhctup Funda Compatible con Huawei P8 Lite/P9 Lite Transparente Silicona TPU Gel Carcasa Dibujos Flor Crystal Suave Bumper Ultra Delgado [Soporte Carga Inalámbrica] Antigolpes Case Cover Lace 5'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

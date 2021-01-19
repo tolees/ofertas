@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41--2ErpqcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHG4Q4Y-es'
+slug: 'B07SHG4Q4Y-es Active Era® Báscula Grasa Corporal Inteligente - Báscula Digital Bluetooth con 15 Funciones esenciales  Peso corporal de alta precisión y Aplicación gratuita'
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

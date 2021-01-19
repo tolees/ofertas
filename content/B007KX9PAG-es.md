@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G99-3rUdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007KX9PAG-es'
+slug: 'B007KX9PAG-es Danish Design 3310081 - Reloj analógico de Cuarzo para Hombre con Correa de Piel  Color Negro'
 actualPrice: 95.93 EUR
 currency: EUR
 price: 95.93

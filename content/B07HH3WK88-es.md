@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XOuotx2cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH3WK88-es'
+slug: 'B07HH3WK88-es Amazon Essentials - Camisetas de manga corta y corte entallado con cuello en V y diseño a rayas para hombre  Negro/Gris jaspeado claro  US M  EU M '
 actualPrice: 7.83 EUR
 currency: EUR
 price: 7.83

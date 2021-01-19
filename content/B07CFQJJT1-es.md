@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dCgWmQRGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CFQJJT1-es'
+slug: 'B07CFQJJT1-es Pulsera Inteligente IP68  CHEREEKI Fitness Tracker Pantalla Color Bracelet'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41w-GLD0o9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCKB6YQ-es'
+slug: 'B07VCKB6YQ-es DELIMIRA Mujer Sujetador Deportivo Talla Grande de Alto Impacto Copas Moldeadas con Aros Piedra Gris ES:100F  EU 85F '
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

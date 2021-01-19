@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RZYqvpgkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VP4C5KD-es'
+slug: 'B07VP4C5KD-es Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones  Azul  Blue Ink C7H   Medium para Hombre'
 actualPrice: 27.84 EUR
 currency: EUR
 price: 27.84

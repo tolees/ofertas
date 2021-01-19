@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LWjFyyzFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKKX9VQ-es'
+slug: 'B07MKKX9VQ-es La Casa de Caramelo - Español'
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

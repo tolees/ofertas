@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317X6OHNY8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7XT57C-es'
+slug: 'B07V7XT57C-es Tommy Hilfiger Corporate Material Mix Runner  Zapatillas para Hombre  Blanco  White Ybs   46 EU'
 actualPrice: 37.05 EUR
 currency: EUR
 price: 37.05

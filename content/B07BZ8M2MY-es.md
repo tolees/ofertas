@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PntF+xLsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZ8M2MY-es'
+slug: 'B07BZ8M2MY-es Sloggi S Symmetry N Sujetador sin aros  Black 004  90C  Talla del fabricante: 75  para Mujer'
 actualPrice: 16.71 EUR
 currency: EUR
 price: 16.71

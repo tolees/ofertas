@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/611nU0keKXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FD3PZL5-es'
+slug: 'B08FD3PZL5-es Myada 55000 Piezas Bolas de Gel de Agua  Perlas de Gel de Agua  Perlas de Gel para jarrones  Decoración  Plantas  Flores  Regalos de Bricolaje  Fiesta de Bodas  Creciendo en Agua  Juego de Colores'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

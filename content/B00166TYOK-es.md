@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pCkNmkHAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00166TYOK-es'
+slug: 'B00166TYOK-es HP 824A - Tambor de imágenes Laserjet para Laserjet CP6015  CM6030mfp y CM6040mfp  Color Magenta'
 actualPrice: 183.32 EUR
 currency: EUR
 price: 183.32

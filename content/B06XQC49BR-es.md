@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qX65Qu1iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XQC49BR-es'
+slug: 'B06XQC49BR-es Güde 94387 Aspiradora GFLS 1600 3 en 1 W  230 V  Azul y negro'
 actualPrice: 75.67 EUR
 currency: EUR
 price: 75.67

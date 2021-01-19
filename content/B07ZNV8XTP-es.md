@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-jF7BShkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNV8XTP-es'
+slug: 'B07ZNV8XTP-es POPOMAN Telémetro láser 50m  USB Carga 30mins  Decoracion interior  99 Datos  Medidor Láser  Sensor de Ángulo Electrónico  2.25   LCD Pantalla  m/in/ft/ft+in  Pitagórico  Distancia  Volumen-MTM100B'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

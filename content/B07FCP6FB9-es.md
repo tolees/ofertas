@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FPcxcB7ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCP6FB9-es'
+slug: 'B07FCP6FB9-es Baoblaze Premium Monitor de Presión de Aire para Neumáticos de Bicicletas'
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

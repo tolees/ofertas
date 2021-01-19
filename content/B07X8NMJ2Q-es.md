@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uc1LpW4wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8NMJ2Q-es'
+slug: 'B07X8NMJ2Q-es GGMM Base de batería para Dot de 3ª generación y Altavoces Inteligentes  blanco'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

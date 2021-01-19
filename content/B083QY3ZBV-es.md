@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319faBQ+suL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QY3ZBV-es'
+slug: 'B083QY3ZBV-es yaoyan Funda Universal para Tableta portátil Funda Ultra Suave a Prueba de Agua Funda Protectora a Prueba de Golpes para PC portátil - Negro - 8"'
 actualPrice: 1.38 EUR
 currency: EUR
 price: 1.38

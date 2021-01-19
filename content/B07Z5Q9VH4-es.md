@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51c8qfGdSzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5Q9VH4-es'
+slug: 'B07Z5Q9VH4-es Multímetro Digital de Voltaje Corriente AC DC MESTEK Pantalla VA Inversa Anti-quemaduras NCV VFC Amp Volt Ohm Hz Diodo Resistencia Frecuencia Capacitancia'
 actualPrice: 35.82 EUR
 currency: EUR
 price: 35.82

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V+NCxizML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9MF38Q-es'
+slug: 'B07H9MF38Q-es Skechers Boys  Go Run 600-Haddox Trainers  Black  Black Red Bkrd   3 UK  36 EU '
 actualPrice: 25.97 EUR
 currency: EUR
 price: 25.97

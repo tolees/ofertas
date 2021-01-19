@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qbtI9FQ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL39WG1-es'
+slug: 'B07BL39WG1-es New Balance 997H  Zapatillas para Mujer  Negro  Black/Air   37.5 EU'
 actualPrice: 44.58 EUR
 currency: EUR
 price: 44.58

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ISCXijEvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D76RNLS-es'
+slug: 'B00D76RNLS-es Manfrotto MTPIXI-B - Minitrípode Pixi  para Cámaras CSC DSLR de Nivel de Entrada  Material Adapto  Negro'
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

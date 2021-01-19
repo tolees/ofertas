@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PaTH1CaBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U79XWGS-es'
+slug: 'B00U79XWGS-es Edge Entertainment Star Wars. X-Wing. Interceptor Tie'
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

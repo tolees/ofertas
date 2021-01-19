@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31V3GQadRAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7TTG1Z-es'
+slug: 'B07W7TTG1Z-es adidas Tiro 19 Cotton Pant Pantalones  Hombre  Black/White  M'
 actualPrice: 27.53 EUR
 currency: EUR
 price: 27.53

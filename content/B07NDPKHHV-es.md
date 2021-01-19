@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDPKHHV-es'
+slug: 'B07NDPKHHV-es MEDION X30 RGB - Ordenador de sobremesa gaming  Intel Core i5-9400  16GB RAM  1TB HDD + 256GB SSD  Nvidia GTX1050Ti-4GB  Windows 10  Negro'
 actualPrice: 579.99 EUR
 currency: EUR
 price: 579.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QgTyS-UFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011SCJAVI-es'
+slug: 'B011SCJAVI-es Reloj Swatch - Unisex SUOR106'
 actualPrice: 46.4 EUR
 currency: EUR
 price: 46.4

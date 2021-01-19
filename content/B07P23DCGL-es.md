@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UyCVZ9Q5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P23DCGL-es'
+slug: 'B07P23DCGL-es Skechers Elite Flex  Zapatillas para Hombre  Azul  Navy Premium Wool/Synthetic/Metal/Trim Nvy   44 EU'
 actualPrice: 38.1 EUR
 currency: EUR
 price: 38.1

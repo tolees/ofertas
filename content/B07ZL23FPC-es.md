@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g+TbLei0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZL23FPC-es'
+slug: 'B07ZL23FPC-es Old Spice Wolfthorn Desodorante En Barra Para Hombres 50 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

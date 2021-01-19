@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ABCmd-fLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGTGZHS-es'
+slug: 'B07GGTGZHS-es We Happy Few'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Bs8iI5wWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PHD5SC-es'
+slug: 'B082PHD5SC-es Rune Factory 4 Special'
 actualPrice: 26.44 EUR
 currency: EUR
 price: 26.44

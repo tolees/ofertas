@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-VVo5lQrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XSMXTP-es'
+slug: 'B077XSMXTP-es Under Armour Armour Fleece Jogger Pantalones  Niños  Gris  Steel Light Heather/Black 035   S'
 actualPrice: 27.27 EUR
 currency: EUR
 price: 27.27

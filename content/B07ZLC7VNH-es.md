@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51esjcOy79L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZLC7VNH-es'
+slug: 'B07ZLC7VNH-es Crucial CT32G4SFD832A Memoria RAM de 32 GB  DDR4  3200 MT/s  SODIMM  260-Pin  1.2V  CL22 '
 actualPrice: 125.83 EUR
 currency: EUR
 price: 125.83

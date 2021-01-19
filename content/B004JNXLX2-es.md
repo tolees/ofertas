@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JallmymZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004JNXLX2-es'
+slug: 'B004JNXLX2-es TBS Globek  Mocasines para Hombre  Negro  45 EU'
 actualPrice: 71.94 EUR
 currency: EUR
 price: 71.94

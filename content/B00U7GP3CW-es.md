@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jRppb3mqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U7GP3CW-es'
+slug: 'B00U7GP3CW-es BLACK+DECKER GW2500-QS - Aspirador  soplador y triturador de hojas  2500W  310 Km/h'
 actualPrice: 71.82 EUR
 currency: EUR
 price: 71.82

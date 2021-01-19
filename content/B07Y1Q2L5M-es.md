@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410vyPy8gbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y1Q2L5M-es'
+slug: 'B07Y1Q2L5M-es Alclap. 1 0 m gris'
 actualPrice: 16.42 EUR
 currency: EUR
 price: 16.42

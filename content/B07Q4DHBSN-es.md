@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41frmjFursL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4DHBSN-es'
+slug: 'B07Q4DHBSN-es Chronotech Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable CT7504LS-04M'
 actualPrice: 39.51 EUR
 currency: EUR
 price: 39.51

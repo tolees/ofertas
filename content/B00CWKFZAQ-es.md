@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C4AYcH3nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CWKFZAQ-es'
+slug: 'B00CWKFZAQ-es Pattex No Más Clavos Original  adhesivo de montaje resistente  pegamento extrafuerte para madera  metal y más  adhesivo blanco instantáneo  1 cartucho x 370 g'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

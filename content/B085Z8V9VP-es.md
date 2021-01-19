@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41reNxfm+9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085Z8V9VP-es'
+slug: 'B085Z8V9VP-es Sierra de mesa  mini sierra eléctrica de mesa multifuncional Guía de ángulo Motor de husillo 895 DC24V-6A Hoja de sierra elevable Hoja Banco de carpintería Sierra de mesa de corte de madera  Black '
 actualPrice: 118.0 EUR
 currency: EUR
 price: 118.0

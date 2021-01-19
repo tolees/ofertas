@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ad5FRJjxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K94MMKV-es'
+slug: 'B07K94MMKV-es bugatti 342623626900  Zapatillas sin Cordones para Hombre   Green 7000   45 EU'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

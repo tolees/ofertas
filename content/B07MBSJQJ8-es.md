@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IeFUntU1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBSJQJ8-es'
+slug: 'B07MBSJQJ8-es Gelink Soporte de Pared Wall Mount para Dot 3ª generación  Blanco'
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

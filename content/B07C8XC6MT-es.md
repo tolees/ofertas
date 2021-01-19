@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nzxBZk9EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C8XC6MT-es'
+slug: 'B07C8XC6MT-es Pikolin Home - Edredón/Relleno nórdico de fibra DUO cuatro estaciones 150gr/m²+ 300gr/m²  antiácaros  140x200cm-Cama 90  Todas las medidas '
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

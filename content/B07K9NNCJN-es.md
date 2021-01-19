@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5100A8WIbjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9NNCJN-es'
+slug: 'B07K9NNCJN-es Reloj - Guanqin - para - GJ16132'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415kt+Ix7wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFXZDC2-es'
+slug: 'B07XFXZDC2-es ERIK - Agenda 2020 semana vista Harry Potter  A5'
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

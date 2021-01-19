@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gtZRm3T6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FQZNFYG-es'
+slug: 'B01FQZNFYG-es Artistry Set de Niré: brochas de maquillaje veganas con estuche de brochas  esponja Niré Beauty y cepillo limpiador de brochas'
 actualPrice: 33.71 EUR
 currency: EUR
 price: 33.71

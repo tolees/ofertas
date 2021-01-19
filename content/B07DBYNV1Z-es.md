@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412JSVOysDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBYNV1Z-es'
+slug: 'B07DBYNV1Z-es Puma Defy TZ Wn s  Zapatillas de Deporte para Mujer  Verde White-Blazing Yellow  42 EU'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

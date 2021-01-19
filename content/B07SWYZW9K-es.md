@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LJRUoxczL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWYZW9K-es'
+slug: 'B07SWYZW9K-es FITTOO Mallas 3/4 Leggings Mujer Pantalones de Yoga Alta Cintura Elásticos y Transpirables Negro L'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

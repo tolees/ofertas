@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ghTLtustL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EXUYNT2-es'
+slug: 'B00EXUYNT2-es SUPER EGO SEH003300 Cocina cartucho gas portátil  Gris  34x9x26 cm'
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

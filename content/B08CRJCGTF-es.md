@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419T28WqwvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRJCGTF-es'
+slug: 'B08CRJCGTF-es MaNMaNing Protección 3 Capas Transpirables con Elástico para Los Oídos Pack 20 unidades Adulto 20200710-MANING-SZ20  Rosado '
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

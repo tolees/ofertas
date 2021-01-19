@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dDJAsFD9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VL93PS4-es'
+slug: 'B07VL93PS4-es ORICO 40W con 5 Cables USB Estación de Carga Inteligente con Soporte para teléfono y Tableta para iPhone  iPad  Samsung Galaxy  Nexus  HTC  Motorola  LG y Muchos más'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

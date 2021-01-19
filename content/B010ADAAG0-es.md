@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411X5XrjHmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010ADAAG0-es'
+slug: 'B010ADAAG0-es Crocs Santa Cruz Clean Cut Loafer  Hombre Mocasín  Azul  Navy/Tumbleweed   43-44 EU'
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

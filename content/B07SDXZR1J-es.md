@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CnPTfZ8RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDXZR1J-es'
+slug: 'B07SDXZR1J-es PUMA X-Ray  Zapatillas Unisex-Adulto  Azul Royal White/High Risk Red/High Rise Black  41 EU'
 actualPrice: 38.01 EUR
 currency: EUR
 price: 38.01

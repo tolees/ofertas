@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31j55c5kCEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZV724LG-es'
+slug: 'B07ZV724LG-es HUMTUS Calentadores de Manos Recargables Cargador USB de 5200mAh Tipo C con Pantalla LCD Calentadores de Manos Eléctrico Reutilizable con Calefacción Lateral Doble Regalo para Todo el Invierno'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

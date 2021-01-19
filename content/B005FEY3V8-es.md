@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UDs-xfZXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005FEY3V8-es'
+slug: 'B005FEY3V8-es Casio Reloj de pulsera A158WEA-1EF'
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

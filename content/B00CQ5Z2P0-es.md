@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MQczTC63L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CQ5Z2P0-es'
+slug: 'B00CQ5Z2P0-es Revlon Super Lustrous Pintalabios Tono 25 Lovers Coral - 3.7 gr'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

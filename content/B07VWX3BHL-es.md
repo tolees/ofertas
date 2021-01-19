@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31W7nXhVi8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWX3BHL-es'
+slug: 'B07VWX3BHL-es MARTINELLI Náutico de Piel HANS 1360'
 actualPrice: 53.34 EUR
 currency: EUR
 price: 53.34

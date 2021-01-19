@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pZ1fAGP9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KNWHRYW-es'
+slug: 'B00KNWHRYW-es Orlane Oligo Vit-A-Min Loción Vitalisante 250 ml'
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sNRJ4hePL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG39G5S-es'
+slug: 'B07KG39G5S-es PUMA Carson 2 New Core Wn s  Zapatillas de Running para Mujer  Vineyard Wine Black-Bridal Rose  37 EU'
 actualPrice: 17.15 EUR
 currency: EUR
 price: 17.15

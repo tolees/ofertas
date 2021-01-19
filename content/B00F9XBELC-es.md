@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pYZasYsaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F9XBELC-es'
+slug: 'B00F9XBELC-es DeLOCK 65508 Adaptador de Cable HDMI Negro - Adaptador para Cable  HDMI  HDMI  Male Connector/Male Connector  Negro '
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

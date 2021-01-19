@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514Ow4epH6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KPQC656-es'
+slug: 'B00KPQC656-es Shimano Acera CSHG2009134 - Cassette Hg200 11/34 9V.'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

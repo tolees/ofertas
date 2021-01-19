@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AM2hEsyBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFQGQPG-es'
+slug: 'B07DFQGQPG-es PUMA Active Woven Shorts Pants  Mujer  Puma Black  S'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

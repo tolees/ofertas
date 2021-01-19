@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I42GXfUjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0163JLIWU-es'
+slug: 'B0163JLIWU-es AOC U2879VF - Monitor de 28" 4K UHD  3840 x 2160  60 Hz  TN  1 ms  FreeSync  Displayport  HDMI   Plata/ Negro'
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

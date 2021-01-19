@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4165klwL3qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085L54RRM-es'
+slug: 'B085L54RRM-es B Blesiya Decoración De Paisaje De Vivarium Reptil Box Holder Adorno Plantas De Hojas De Bambú Falsas - S'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

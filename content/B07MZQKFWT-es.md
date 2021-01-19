@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lbylIgsFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQKFWT-es'
+slug: 'B07MZQKFWT-es Pepe Jeans London Harlow Up Run  Zapatillas Altas para Mujer   Black 999   36 EU'
 actualPrice: 33.54 EUR
 currency: EUR
 price: 33.54

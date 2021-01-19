@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DcgkSIuqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G8BLBRS-es'
+slug: 'B08G8BLBRS-es Lechnical Termómetros infrarrojos'
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

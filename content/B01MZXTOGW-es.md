@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B5eVmZWJL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZXTOGW-es'
+slug: 'B01MZXTOGW-es NIZZIN Fenna  Pullover Manga Larga Mujer  Gris  Light Grey Melange   Large'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

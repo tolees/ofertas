@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xtSBz3hUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZ4IMRC-es'
+slug: 'B01LZ4IMRC-es Chiruca-MANAOS 08 GORE-TEX'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

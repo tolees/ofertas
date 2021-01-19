@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21yTuZhApsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FDTK4SU-es'
+slug: 'B01FDTK4SU-es LEDKIA LIGHTING Baliza Augusta'
 actualPrice: 22.43 EUR
 currency: EUR
 price: 22.43

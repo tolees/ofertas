@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ocQpu0PnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK46MCS-es'
+slug: 'B07KK46MCS-es Columbia Peakfreak X2 Mid Outdry  Botas de Senderismo para Mujer  Gris  Shark  Lagoon 011   40 EU'
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

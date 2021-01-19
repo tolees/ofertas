@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dW45VMJ2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089VRVQKN-es'
+slug: 'B089VRVQKN-es Viaje al Aire Libre Camping Hombre Bolsa de escombros Multifuncional Bolsa médica Pequeños Bolsillos portátiles Bolsa de Almacenamiento Catchall - ACU Color'
 actualPrice: 4.32 EUR
 currency: EUR
 price: 4.32

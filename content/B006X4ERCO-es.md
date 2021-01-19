@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u7anIh2SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006X4ERCO-es'
+slug: 'B006X4ERCO-es Dickies Men s No-Scratch Mechanic Belt Black Small'
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gOo3rCh3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086C4GZ5Q-es'
+slug: 'B086C4GZ5Q-es K9CK Soporte para Lego Star Wars Millennium Falcon 75105  Soporte de Exhibición Vertical Soporte Compatible con Modelo en Bloques de Construcción  Modelo no Incluido '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

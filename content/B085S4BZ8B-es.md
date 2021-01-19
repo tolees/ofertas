@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xhhA-G1HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085S4BZ8B-es'
+slug: 'B085S4BZ8B-es Rollo Césped de 7mm 2x5 Metros'
 actualPrice: 40.45 EUR
 currency: EUR
 price: 40.45

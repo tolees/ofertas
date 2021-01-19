@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vkmLDx-4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDCTTCB-es'
+slug: 'B07VDCTTCB-es Netspower Calcetines de yoga  pilates  antideslizantes  calcetines de deporte  calcetines de algodón  transpirables  calcetines para correr  secado rápido  para hombre y mujer  ballet'
 actualPrice: 8.02 EUR
 currency: EUR
 price: 8.02

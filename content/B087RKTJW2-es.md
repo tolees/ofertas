@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZZCxca4UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087RKTJW2-es'
+slug: 'B087RKTJW2-es Paquete de 100 Unidades – se suministra en Bolsa sellada de fábrica  Azul'
 actualPrice: 27.12 EUR
 currency: EUR
 price: 27.12

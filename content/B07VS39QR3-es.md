@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PT6zQ7m6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS39QR3-es'
+slug: 'B07VS39QR3-es Clarks Un Trail Form  Derbys Derby  Braun  Mahogany Leather Mahogany Leather   48 EU'
 actualPrice: 33.6 EUR
 currency: EUR
 price: 33.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418GwLi0lnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB3LMB8-es'
+slug: 'B07HB3LMB8-es Fallout - Pop Sentry BOT 6"'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

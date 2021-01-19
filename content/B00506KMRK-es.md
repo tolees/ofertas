@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/210mCRmgCUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00506KMRK-es'
+slug: 'B00506KMRK-es Munchkin 12501  Cubo Desechable & Portátil para Pañales Usados  Contienen Hasta 150 Pañales'
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

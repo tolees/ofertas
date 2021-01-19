@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jZHkNPGLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6DEFGE-es'
+slug: 'B01M6DEFGE-es Vans UA ISO 2  Zapatillas para Hombre  Azul  Prime   40 EU'
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

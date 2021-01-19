@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41brm499eSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083JF99WY-es'
+slug: 'B083JF99WY-es Pistola de Masaje Muscular  ACTION Pistola Masajeadora Muscular de Tejido Profundo Ultra Silencioso con 9 Niveles Ajustables  6 Cabezas de Masaje y Chip inteligente  Relajación Recuperación Fatiga'
 actualPrice: 85.95 EUR
 currency: EUR
 price: 85.95

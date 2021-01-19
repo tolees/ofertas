@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cbGnS5ftL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RGKK9FI-es'
+slug: 'B00RGKK9FI-es Bosch Professional - Bolsa para herramrientas  talla Medium  48x30x28 cm  azul '
 actualPrice: 35.3 EUR
 currency: EUR
 price: 35.3

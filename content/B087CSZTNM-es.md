@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Pt2zF0shL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087CSZTNM-es'
+slug: 'B087CSZTNM-es Cámara web Full HD 1080P con micrófono  cámara web USB 2.0 / 3.0 para PC  cámara web para computadora Plug and Play para videollamadas  computadora portátil  Facebook  transmisión en vivo  YouTube'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

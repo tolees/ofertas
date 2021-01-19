@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SONWyTQ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLZ54W-es'
+slug: 'B07RZLZ54W-es New Balance 997h  Zapatillas para Mujer  Gris  Grey/Blue HAP   35 EU'
 actualPrice: 36.77 EUR
 currency: EUR
 price: 36.77

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U6s65CNWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000AREHO8-es'
+slug: 'B000AREHO8-es Skechers SPORT - ENERGY  Women s Low Top Trainers  White  Wml   5 UK  38 EU '
 actualPrice: 40.52 EUR
 currency: EUR
 price: 40.52

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rVMd0UMsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081VC8DNW-es'
+slug: 'B081VC8DNW-es Frozen Pijamas de Manga Larga para niños El Reino del Hielo Frozen Azul 4-5 Años'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

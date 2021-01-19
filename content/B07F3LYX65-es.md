@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A-34Q7O+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3LYX65-es'
+slug: 'B07F3LYX65-es 2pcs Cintas de Gimnasia Rítmica  Cinta de Baile Ballet Accesorio para Fiesta Cerimonia Juguete para Niños'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417VscOi6tL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW5NJP5-es'
+slug: 'B07NW5NJP5-es Skechers Envy-Good Thinking  Zapatillas para Mujer  Azul  Navy Heather Mesh/Off White Trim Nvy   36.5 EU'
 actualPrice: 28.06 EUR
 currency: EUR
 price: 28.06

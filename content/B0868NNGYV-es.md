@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+GXsY2cHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868NNGYV-es'
+slug: 'B0868NNGYV-es Suhctup Transparente Funda Compatible con Xiaomi Redmi Note 3 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para Xiaomi Redmi Note 3 5 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

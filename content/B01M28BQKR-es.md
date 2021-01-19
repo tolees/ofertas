@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qU83QiGBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M28BQKR-es'
+slug: 'B01M28BQKR-es Gant Terrycloth Robe Albornoz  Azul  Yankee Blue 459   Medium para Hombre'
 actualPrice: 64.1 EUR
 currency: EUR
 price: 64.1

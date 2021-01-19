@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415Pc82VLhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ9L7V9-es'
+slug: 'B07SQ9L7V9-es adidas EQT Gazelle  Zapatillas de Gimnasia para Hombre  Azul  Collegiate Navy/Matte Silver/Ash Grey S18 Collegiate Navy/Matte Silver/Ash Grey S18   45 1/3 EU'
 actualPrice: 38.86 EUR
 currency: EUR
 price: 38.86

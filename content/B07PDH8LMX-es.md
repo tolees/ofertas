@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51607TCvetL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDH8LMX-es'
+slug: 'B07PDH8LMX-es Casio G-SHOCK Reloj Analógico-Digital  Carbonífero  20 BAR  Azul/Negro  para Hombre  GA-2000-1A2ER'
 actualPrice: 84.12 EUR
 currency: EUR
 price: 84.12

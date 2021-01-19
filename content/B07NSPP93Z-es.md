@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31R5tyCdCnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSPP93Z-es'
+slug: 'B07NSPP93Z-es POP OFFICE PAM BEESLY VINYL FI'
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

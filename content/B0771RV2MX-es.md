@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-LuTgoDmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771RV2MX-es'
+slug: 'B0771RV2MX-es Funko Pop!- Games: Marvel Contest of Champions Venompool Figura de Vinilo  26710 '
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

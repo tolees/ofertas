@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PQSdhVtRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D66QPM8-es'
+slug: 'B08D66QPM8-es Manta Manta para sofá Manta de sofá Elegante Borlas Manta de Cama Manta Decorativa para Ver la Televisión en la Silleta  Sofá y Cama - Regalos-140x220cm  Amarillo '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

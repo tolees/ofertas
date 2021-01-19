@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JNAKHg79L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TR1ZNG-es'
+slug: 'B083TR1ZNG-es flintronic Fresas Set  15 PCS Cortadores Caja de plastico de Diámetro de Caña Herramienta de Fresado  Kit de herramientas de carpintería con caja de madera para el hogar y bricolaje'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

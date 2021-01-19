@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31J40WUKbvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJJFV9Z-es'
+slug: 'B07WJJFV9Z-es HyperX Fury HX432C16FB3A/8 Memoria DIMM DDR4 8GB 3200MHz CL16 1Rx8 RGB'
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

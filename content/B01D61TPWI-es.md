@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ANEda2sPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D61TPWI-es'
+slug: 'B01D61TPWI-es TRANGO Brood Sn Pant. Pirata  Hombre  Kaki/Marron Oscuro  3XL'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

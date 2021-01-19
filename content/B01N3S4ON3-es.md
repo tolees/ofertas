@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zZiRGXmLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3S4ON3-es'
+slug: 'B01N3S4ON3-es Intex 56288EU - Flamenco XL hinchable 218x211x136 cm'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

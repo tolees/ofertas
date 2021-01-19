@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fstLg9fJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YF4TQLQ-es'
+slug: 'B00YF4TQLQ-es BRA PRIOR - Cacerola baja con tapa de cristal y asas de silicona  apta para todo tipo de cocinas incluida inducción y horno  32 cm'
 actualPrice: 43.65 EUR
 currency: EUR
 price: 43.65

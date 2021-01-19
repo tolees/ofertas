@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416TpJ2+mdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PF3DT3H-es'
+slug: 'B07PF3DT3H-es Naipo Mesa de Masaje 3 Secciones Camilla Plegable de Portátil y Profesional con Patas de Aluminio Respaldo Regulable Bolsa de Transporte【Resistente Hasta 270 kg】'
 actualPrice: 118.14 EUR
 currency: EUR
 price: 118.14

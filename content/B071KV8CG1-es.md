@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415In2fbCwL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KV8CG1-es'
+slug: 'B071KV8CG1-es MVPower Set de 10 marcos de fotos 10 marcos de cuadros individuales Poster Photo Collage Home Decor  Blanco '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416MIuIHu6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXMYR55-es'
+slug: 'B07KXMYR55-es adidas Mid Cut CRW Sck Socks  Unisex Adulto  White/Black  3942'
 actualPrice: 9.71 EUR
 currency: EUR
 price: 9.71

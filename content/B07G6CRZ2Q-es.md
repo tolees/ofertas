@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AAxMhuCBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G6CRZ2Q-es'
+slug: 'B07G6CRZ2Q-es Ultimate Ears Boom 3 Altavoz portátil  Bluetooth  Magic Button  Sonido de 360 grados  Protección IP67  Rojo  18.4 x 7.3 x 7.3 cm'
 actualPrice: 89.91 EUR
 currency: EUR
 price: 89.91

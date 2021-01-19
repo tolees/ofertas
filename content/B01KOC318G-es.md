@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31hYzKcJ2QL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KOC318G-es'
+slug: 'B01KOC318G-es Beurer HK42 Almohadilla eléctrica térmica  transpirable  tacto extra suave  calentamiento ultrarápido  función apagado automático 90 minutos  lavable  3 potencias  display iluminado  40 x 33 cm'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

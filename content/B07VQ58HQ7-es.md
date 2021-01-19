@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51knkWcPIoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQ58HQ7-es'
+slug: 'B07VQ58HQ7-es Funda Samsung Galaxy A60  Funda Samsung A60 Libro  Carcasa A60 con Cierre Magnético  Tarjetero y Suporte  Capa Plegable Cartera  Flip Phone Cover Case  Tipo Étui Piel  PU TPU Protección. Negro'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

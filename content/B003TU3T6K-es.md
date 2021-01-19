@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gHfM8wOpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003TU3T6K-es'
+slug: 'B003TU3T6K-es pjur med REPAIR glide - Lubricante sanitario acuoso - El hialurón regenera la piel seca y estresada  100ml '
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

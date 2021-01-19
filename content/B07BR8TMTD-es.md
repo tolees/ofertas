@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Iv8rIwuDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BR8TMTD-es'
+slug: 'B07BR8TMTD-es Péptidos Colágeno Marino de Peces Salvajes del Atlántico Norte  No de Acuicultura  – Proteína de Colágeno en Polvo para Articulaciones  Huesos  Piel  Cabello – Colágeno Hidrolizado  Hecho en Canadá '
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

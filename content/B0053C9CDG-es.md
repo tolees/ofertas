@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51xO8LzclQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0053C9CDG-es'
+slug: 'B0053C9CDG-es The Hulk [Blu-ray]'
 actualPrice: 7.41 EUR
 currency: EUR
 price: 7.41

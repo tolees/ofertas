@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yNdQQ2JLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9K6RTU-es'
+slug: 'B01N9K6RTU-es Gant Classic Leather Belt Cinturón  Marrón  Dark Brown 205   95  Talla del fabricante: 80  para Hombre'
 actualPrice: 28.34 EUR
 currency: EUR
 price: 28.34

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41SHJ-hafGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074VCHTVC-es'
+slug: 'B074VCHTVC-es Diesel Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable DZ1844'
 actualPrice: 106.61 EUR
 currency: EUR
 price: 106.61

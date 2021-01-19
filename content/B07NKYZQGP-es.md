@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j2tRJ9HfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NKYZQGP-es'
+slug: 'B07NKYZQGP-es ZIPRINT 2 Pack Negro Toner MIT Chip Compatible Brother TN2420 TN-2420 para Brother HL-L2310D HL-L2350DN HL-L2370DN HL-L2375DW DCP-L2510D DCP-L2530DW MFC-L2710DN MFC-L2730DW MFC-L2750DW'
 actualPrice: 30.9 EUR
 currency: EUR
 price: 30.9

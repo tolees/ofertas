@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41idL3JzQuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081KV8R3V-es'
+slug: 'B081KV8R3V-es Adornos Einfache Escultura Decoración Moderna Keramik Handwerk Heimtextilien Wohnzimmer Zimmer Modo Creativo Blume Blume Florero Artesanías GAOLILI  Color: Azul '
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

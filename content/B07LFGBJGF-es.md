@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4133csUS0LL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFGBJGF-es'
+slug: 'B07LFGBJGF-es Levi s Modern Hm Hoodie Capucha  Marrón  Warm Cabernet 0020   Large para Hombre'
 actualPrice: 47.5 EUR
 currency: EUR
 price: 47.5

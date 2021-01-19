@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xzQ3hCq2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJSVVG6-es'
+slug: 'B07KJSVVG6-es Esprit Accessoires 999ea1s803 Cinturón  Azul  Navy 400   105  Talla del fabricante: 90  para Mujer'
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

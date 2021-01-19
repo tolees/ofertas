@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F4VQ2g3UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRCMVG5-es'
+slug: 'B07KRCMVG5-es New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Mujer  Rosa  Pink Pink   40 EU'
 actualPrice: 30.82 EUR
 currency: EUR
 price: 30.82

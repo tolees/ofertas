@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oOSb8w7ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DZ8CFTK-es'
+slug: 'B07DZ8CFTK-es Columbia Silver Ridge II Pantalones de Senderismo Convertible  Hombre  Azul  Dark Mountain   W32/L32'
 actualPrice: 39.91 EUR
 currency: EUR
 price: 39.91

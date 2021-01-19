@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XqWr3kH9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B4S5W5K-es'
+slug: 'B00B4S5W5K-es Rowenta Steamforce DW9240D1 - Plancha ropa vapor 3.100 W  golpe de vapor 230 gr/min y vapor continuo de 65 gr/min  ajuste automático temperatura  antical integrado  autoapagado y autolimpieza'
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

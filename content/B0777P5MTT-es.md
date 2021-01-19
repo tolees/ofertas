@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yd1QTrkvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777P5MTT-es'
+slug: 'B0777P5MTT-es Clarks Tilden Free  Mocasines para Hombre  Marrón  Dark Tan Leather   41 EU'
 actualPrice: 37.55 EUR
 currency: EUR
 price: 37.55

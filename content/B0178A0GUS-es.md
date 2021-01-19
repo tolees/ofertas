@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e1JATN4kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0178A0GUS-es'
+slug: 'B0178A0GUS-es Microsoft – Wireless Desktop 3050  Ratón y teclado  QWERTY español  Negro'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

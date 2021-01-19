@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IKOq2YiFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00429KKMI-es'
+slug: 'B00429KKMI-es Herradura Reposado Tequila - 700 ml'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

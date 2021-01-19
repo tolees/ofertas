@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416Q4sebFgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DQOLK3I-es'
+slug: 'B00DQOLK3I-es Sloggi Sloggi Basic Long - Braguita para mujer  color skin  talla ES : 42  Talla del fabricante : 12 '
 actualPrice: 9.81 EUR
 currency: EUR
 price: 9.81

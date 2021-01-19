@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pknWYYLuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MFAWXVB-es'
+slug: 'B01MFAWXVB-es Blink Sistema de cámaras de seguridad para interiores con detección de movimiento  vídeo HD  2 años de autonomía y almacenamiento en el Cloud - 1 cámara'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

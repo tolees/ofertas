@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61hbPk7Bg8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKZ8WLX-es'
+slug: 'B07TKZ8WLX-es Medallero Colgador de Medallas – Porta Medallas con Marco de Foto para Gimnasia Artística y Rítmica'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

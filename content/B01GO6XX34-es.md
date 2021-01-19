@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31g0D9evG3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GO6XX34-es'
+slug: 'B01GO6XX34-es Energy Tablet Skin Case 7" Neo 3  Funda exclusiva Energy Tablet 7" Neo 3/ 7" Neo 3 Lite '
 actualPrice: 4.66 EUR
 currency: EUR
 price: 4.66

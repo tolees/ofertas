@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TvOfyGTxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDBSVK5-es'
+slug: 'B07WDBSVK5-es Farming Simulator 19 - Platinum Edition'
 actualPrice: 33.74 EUR
 currency: EUR
 price: 33.74

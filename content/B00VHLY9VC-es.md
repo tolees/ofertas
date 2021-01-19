@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Sa885eI0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VHLY9VC-es'
+slug: 'B00VHLY9VC-es Belkin - Soporte de smartphone universal para coche  para iPhone 11/11 Pro/11 Pro Max  XS/XS Max  XR/X  SE  8/8+  Samsung Galaxy Note9  S10/S10+/S10e y dispositivos de LG Sony y Google entre otros '
 actualPrice: 20.81 EUR
 currency: EUR
 price: 20.81

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ESr9jlg4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0012RN0DY-es'
+slug: 'B0012RN0DY-es Converse Chuck Taylor CT As SP Hi  Zapatillas Altas Unisex Adulto  Blanco  Blanc Optical   46.5 EU'
 actualPrice: 41.48 EUR
 currency: EUR
 price: 41.48

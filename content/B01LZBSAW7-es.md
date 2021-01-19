@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gh9+I+Y9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZBSAW7-es'
+slug: 'B01LZBSAW7-es hummel Stadil RMX High Sneaker Hombres Zapatillas Casual - 46 EU'
 actualPrice: 79.79 EUR
 currency: EUR
 price: 79.79

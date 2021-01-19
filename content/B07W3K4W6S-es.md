@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DGq82gMkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W3K4W6S-es'
+slug: 'B07W3K4W6S-es Luz nocturna con altavoz Bluetooth  lámpara de cabecera con sensor táctil inteligente   regulable 3 niveles de luz blanca cálida y cambio de color de RGB  compatible con Micro SD '
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

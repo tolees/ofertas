@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MAjQN84PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY7NPMS-es'
+slug: 'B07NY7NPMS-es Superdry Core Sport Shorts Pantalones Cortos Deportivos  Azul  Navy 11s   48  Talla del Fabricante: X-Small  para Hombre'
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

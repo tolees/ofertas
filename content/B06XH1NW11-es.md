@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61roIEkbTGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XH1NW11-es'
+slug: 'B06XH1NW11-es Element Carrier II Beanie Gorro  Hombre  Gris  Charcoal Heathe   Talla Única'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

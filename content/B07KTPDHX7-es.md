@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uzcBUpa6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTPDHX7-es'
+slug: 'B07KTPDHX7-es Lacoste Reloj de Pulsera 2011006'
 actualPrice: 97.3 EUR
 currency: EUR
 price: 97.3

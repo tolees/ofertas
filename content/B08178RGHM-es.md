@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315P+TrhHVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08178RGHM-es'
+slug: 'B08178RGHM-es Columbia Tech Shade Hat Gorra  Unisex Adulto  Azul  Carbon   One Size  Adjustable '
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

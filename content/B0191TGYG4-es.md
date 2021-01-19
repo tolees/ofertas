@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wSSKzPgcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0191TGYG4-es'
+slug: 'B0191TGYG4-es Cartulinas Colores'
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

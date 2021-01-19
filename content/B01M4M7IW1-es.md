@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/218FB8qRcxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M4M7IW1-es'
+slug: 'B01M4M7IW1-es BRA Efficient Cazo de Cocina  Acero INOX  Nailon y Silicona  Naranja  33 cm'
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

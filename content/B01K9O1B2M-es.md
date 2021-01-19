@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TVb5X0ZFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9O1B2M-es'
+slug: 'B01K9O1B2M-es Rowenta Precious Curl CF3460 - Rizador con recubrimiento Keratin and shine  temperatura hasta 200ºC  cable 360º y pantalla LCD  25 mm de diámetro'
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

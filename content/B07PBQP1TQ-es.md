@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dfwHx9KAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBQP1TQ-es'
+slug: 'B07PBQP1TQ-es 100pcs Bola de Vidrio Guijarro de Mármol Color Sólido Canica Transparente Decoración para Florero Tanque de Peces Boda - Azul océano Transparente'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

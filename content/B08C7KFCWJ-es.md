@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JHbzK6qAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C7KFCWJ-es'
+slug: 'B08C7KFCWJ-es Longspeed Dibujar con luz Tablero de Dibujo Divertido Tablero Luminoso Tablero de Dibujo de Graffiti mágico Brillante para niños Tablero de Dibujo para niños - Colorido + M'
 actualPrice: 5.67 EUR
 currency: EUR
 price: 5.67

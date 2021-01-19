@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LDu3ad15L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0012MGYEQ-es'
+slug: 'B0012MGYEQ-es Einhell - Juego de hojas de sierra circular  210 x 30 x 2 5 mm  24  48 y 60 dientes '
 actualPrice: 36.63 EUR
 currency: EUR
 price: 36.63

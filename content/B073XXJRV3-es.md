@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413gcVm3XmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XXJRV3-es'
+slug: 'B073XXJRV3-es Scuderia Ferrari Reloj Análogo clásico para Hombre de Cuarzo con Correa en Silicona 830464'
 actualPrice: 94.45 EUR
 currency: EUR
 price: 94.45

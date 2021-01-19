@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ecteAkD3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LW6SLHK-es'
+slug: 'B00LW6SLHK-es Dove jabón crema Sensitive Hypoallergenic jabón'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

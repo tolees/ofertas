@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413Yldv8PkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M19FGTZ-es'
+slug: 'B01M19FGTZ-es Audio Pro Addon T5 - Altavoz inalámbrico  Color Gris'
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

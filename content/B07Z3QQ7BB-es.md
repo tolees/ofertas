@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412VYVxzjYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3QQ7BB-es'
+slug: 'B07Z3QQ7BB-es HP 14-dk0017ns - Ordenador portátil de 14" FullHD  AMD Ryzen 7-3700U  8GB RAM  256GB SSD  AMD Radeon RX Vega 10  Windows 10   Color Plata - Teclado QWERTY Español'
 actualPrice: 508.28 EUR
 currency: EUR
 price: 508.28

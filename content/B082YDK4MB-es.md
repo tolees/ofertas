@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41unePbj+7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082YDK4MB-es'
+slug: 'B082YDK4MB-es Vidal & Vidal Brazalete Rosado Original'
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

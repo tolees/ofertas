@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318+vu-axoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKFLMNC-es'
+slug: 'B07GKFLMNC-es Krups Dolce Gusto Infinissima KP1708 - Cafetera de cápsulas  15 bares de presión  color negro'
 actualPrice: 64.8 EUR
 currency: EUR
 price: 64.8

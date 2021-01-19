@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Re+HM3nkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002C1AYEM-es'
+slug: 'B002C1AYEM-es Remington SP IPL 5000 - Bombilla de repuesto'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

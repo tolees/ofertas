@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pHkZmSfrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZH3WX9Y-es'
+slug: 'B07ZH3WX9Y-es L Oréal Brilliant Signature 305 Be Captivating Brillo Duradero Rosa Claro 30 g'
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

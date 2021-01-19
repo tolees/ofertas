@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413p98hfumL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YCC7WY-es'
+slug: 'B077YCC7WY-es Pikmi Pops Serie 2 -  Piruleta 2 Peluches Perfumados Coleccionable con Sorpresas  Multicolor  Giochi Preziosi PKM07001 '
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

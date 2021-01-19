@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Z8DkfLj-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BLKUQK2-es'
+slug: 'B00BLKUQK2-es Vans Atwood  Sneaker para Hombre  Negro  Black/White Canvas 187   40 EU'
 actualPrice: 40.58 EUR
 currency: EUR
 price: 40.58

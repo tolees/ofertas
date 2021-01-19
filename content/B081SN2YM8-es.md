@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416IEMESjmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SN2YM8-es'
+slug: 'B081SN2YM8-es adidas Trefoil tee T-Shirt  Mujer  Lush Red/White  40'
 actualPrice: 17.93 EUR
 currency: EUR
 price: 17.93

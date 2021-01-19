@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51DQaCYjNWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M3H9DBU-es'
+slug: 'B00M3H9DBU-es deAO Cocinita de Juguete Playset Taburete & Maletín 2en1 con Accesorios Incluidos  Cocinita Rosa '
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

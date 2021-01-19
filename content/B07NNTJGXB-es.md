@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xUAtasBaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNTJGXB-es'
+slug: 'B07NNTJGXB-es Under Armour UA W TriBase Edge Trainer  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White/Halo Gray   36 EU'
 actualPrice: 45.57 EUR
 currency: EUR
 price: 45.57

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jN3lcmlRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZL1NT9-es'
+slug: 'B07WZL1NT9-es H+Y Mini Grabadora de Voz  Grabadora Espia Portátil de 16 GB  Recargable MP3 por USB  HD Grabadora de Audio con Activación por Voz  Ideal para Clases  Reuniones  Entrevistas  Hasta 284 Horas'
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

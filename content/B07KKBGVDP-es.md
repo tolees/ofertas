@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q2SZHkPuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKBGVDP-es'
+slug: 'B07KKBGVDP-es SM Bondage kit sujeción piezas conjunto- Juguetes eróticos 2 Pares BDSM Esposas Cuero Juego de Correas Bondage Set Restricciones Fetiche Juguete sexuales'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

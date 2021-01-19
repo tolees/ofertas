@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414cMx-w9NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y6BHTV3-es'
+slug: 'B07Y6BHTV3-es Manicura Eléctrico  Pulidor de Uñas Aparatos Eléctricos y Accesorios para Manicura y Pedicura portátil con 6 Brocas para Todos Tipos de Uñas'
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

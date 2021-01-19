@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51B-TUHAb9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SMPL4WI-es'
+slug: 'B00SMPL4WI-es Olympus OM-D E-M5 Mark II cámara de sistema Micro Cuatro Tercios  16.1 megapíxeles  estabilizador de imagen de cinco ejes  visor electrónico  plata'
 actualPrice: 713.79 EUR
 currency: EUR
 price: 713.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nB4dVbO+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQCG6RJ-es'
+slug: 'B07XQCG6RJ-es Funda iPhone 11 Pro MAX  Fundas 11Pro MAX Libro  Carcasa iPhone11ProMax con Cierre Magnético  Tarjetero y Suporte  Capa Phone Plegable Cartera  Flip Cover Case  Tipo Étui Piel Protección. Negro'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

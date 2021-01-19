@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/316x8nvWiNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL483SR-es'
+slug: 'B07XL483SR-es Montse Interiors  S.L. Cuadrante o Cojín Decoración Liso 45x45 + Relleno  Bellagio Taupe '
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

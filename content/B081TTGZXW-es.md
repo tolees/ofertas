@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31B8uNb2Q5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TTGZXW-es'
+slug: 'B081TTGZXW-es adidas Drst Ask Bra Sujetador de Deporte  Mujer  White  XS'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

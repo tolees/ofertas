@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f2Xos-4UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NL4BVYM-es'
+slug: 'B07NL4BVYM-es Bombillas LED MR16 GU5.3 3000K Blanco Cálido AC/DC 12V 5W Equivalente Halógeno 50W Foco 480 Lúmenes  Angulo de Haz de 36 °  no Regulable  6 Unidades'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

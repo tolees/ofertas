@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411axG2wlfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BYKTMXJ-es'
+slug: 'B08BYKTMXJ-es LNIEGE Aspirador Motor del Cepillo de carbón 2311480/333261 / 33326-1  2PCS '
 actualPrice: 6.54 EUR
 currency: EUR
 price: 6.54

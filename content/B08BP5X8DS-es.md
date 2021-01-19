@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V8OhCYzVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BP5X8DS-es'
+slug: 'B08BP5X8DS-es TOPOSH Windows 10 Ordenador Portátil 10 1" 4 GB RAM+64 GB SSD Intel Quad-Core Celeron N3350 1 92 GHz Gráfica Portátil Tarjeta TF Extensible Bluetooth 4.0 WiFi HDMI – Pink'
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xsl3900mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L1UNPZ0-es'
+slug: 'B00L1UNPZ0-es Skechers Equalizer Persistent  Zapatillas para Hombre  Negro  Black   43 EU'
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y9E80H4TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081JBSH9Y-es'
+slug: 'B081JBSH9Y-es Delantales de Cocina 2 Piezas con Bolsillo Delantal Impermeables para Hombre Mujer Delantale Ajustables para Jardinería Restaurante Barbacoa Cocinar Hornear'
 actualPrice: 13.66 EUR
 currency: EUR
 price: 13.66

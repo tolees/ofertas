@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51isM5jlcqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWX8ZDM-es'
+slug: 'B07SWX8ZDM-es GFF Adornos Modernes Cerámica Escultura Einfaches Wohnzimmer Pers \u0026 ouml; nlichkeit Hauptdekoration Kreativer Weinschrank Kunst Ornamente TV Schrank Handwerk Crafts  Tamaño: B '
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

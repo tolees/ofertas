@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SC9cqwXYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TM1V6J9-es'
+slug: 'B07TM1V6J9-es Sneakers Donna FILA 1010748 Autunno/Inverno 37'
 actualPrice: 77.94 EUR
 currency: EUR
 price: 77.94

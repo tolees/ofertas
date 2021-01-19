@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uxG5MmG-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXN38SS-es'
+slug: 'B07YXN38SS-es Pistola de Masaje portátil con Pantalla LCD de 6 Cabezas  20 velocidades masajeador manual de músculos profundos para la recuperación de los dolores musculares y la relajación física'
 actualPrice: 100.99 EUR
 currency: EUR
 price: 100.99

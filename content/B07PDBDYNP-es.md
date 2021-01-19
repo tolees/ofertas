@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4196i3z-nCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDBDYNP-es'
+slug: 'B07PDBDYNP-es [3 Piezas] Protector de Pantalla para Huawei Mate 20 Lite  Cristal Templado [Fácil de instalar] [Sin Burbujas] [3D-Touch/9H Dureza][Anti-Rasguños] - para Huawei Mate 20 Lite - Transparente'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

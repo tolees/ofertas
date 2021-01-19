@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Vnh3KlK-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EALAYJ2-es'
+slug: 'B00EALAYJ2-es Bausch & Lomb - Biotrue One Day Esféricas - Lentes de Contacto'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

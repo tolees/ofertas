@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Vn0UBxraL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LLKFX9A-es'
+slug: 'B01LLKFX9A-es Osram 64210NBL Lámparas Halógenas Para Faros'
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

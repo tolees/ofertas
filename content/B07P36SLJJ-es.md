@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dON3F1pAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P36SLJJ-es'
+slug: 'B07P36SLJJ-es Skechers Zinger  Zapatillas para Hombre  Azul  Blue Leather/Yellow Trim BLYL   41.5 EU'
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

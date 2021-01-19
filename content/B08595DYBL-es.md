@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413nSEO3qnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08595DYBL-es'
+slug: 'B08595DYBL-es Oihxse Animal Serie Case Compatible con Huawei Mate 20 Funda Transparente Suave Silicona Elefante Conejo Patrón Protector Carcasa Ultra-Delgado Creativa Anti-Choque Cover  A10 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

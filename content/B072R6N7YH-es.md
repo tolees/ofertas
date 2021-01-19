@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I2Zt5osmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072R6N7YH-es'
+slug: 'B072R6N7YH-es adidas Crazy Explosive 2017  Zapatillas de Deporte para Hombre  Negro  Negbas/Plamet/Grpulg   47 1/3 EU'
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

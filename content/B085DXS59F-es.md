@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312eMlaj1uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DXS59F-es'
+slug: 'B085DXS59F-es Jack & Jones JJIARUBA JJSWIMSHORTS AKM Jones STS Bañador para Hombre  Azul Marino  XL'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

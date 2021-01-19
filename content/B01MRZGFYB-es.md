@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xm5tXsyGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRZGFYB-es'
+slug: 'B01MRZGFYB-es L Oreal Paris Dermo Expertise Revitalift Láser x3 Crema de Día Intensiva Anti-Edad - 50 ml'
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93

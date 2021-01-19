@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TYOQncPyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C04DFYQ-es'
+slug: 'B01C04DFYQ-es American Tourister - Bon Air - Spinner Maleta 66 cm  58 L  Azul  Deep Turquoise '
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

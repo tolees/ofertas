@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GW8qhqiJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RBK1N9-es'
+slug: 'B081RBK1N9-es Pawhut Cueva Gato Cama para Gato de Forma de Cáscara Semi-Cerrado Casa para Gatos Interior Desmontable Fieltro 47x38x24cm'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

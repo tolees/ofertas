@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61nBtHsxuqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PHEAIJC-es'
+slug: 'B00PHEAIJC-es caseable - Funda para Kindle y Kindle Paperwhite  diseño "Ornate Elephant"'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

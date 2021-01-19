@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YWJ881F8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081PSH4LK-es'
+slug: 'B081PSH4LK-es 8CH NVR 1080P Kit de Camara vigilancia WiFi Exterior  vigilancia CCTV con 2.0MP IP Cameras  Visión Nocturna  IP66 Impermeable  Movimiento Detectión  Acceso Remoto móvil sin HDD '
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

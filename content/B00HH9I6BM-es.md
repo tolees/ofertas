@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-AZDwZhML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HH9I6BM-es'
+slug: 'B00HH9I6BM-es Adaptador VGA DB9 hembra a HD15 pines macho adaptador de'
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

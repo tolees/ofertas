@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nhdO423vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBP8CG1-es'
+slug: 'B07GBP8CG1-es Talentech Ember - Ratón ergonómico RGB USB con cable para videojuegos  máximo 10.000 ppp  para PC y ordenador portátil  Windows 10/8/7/XP  Linux   7 botones programables de juego Mice  sensor óptico PixArt 3325'
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

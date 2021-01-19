@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yEc0hFuNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKX4GTR-es'
+slug: 'B07MKX4GTR-es AECCN Telescopio Monocular-12X50 monocular HD Zoom Monoculares Telescopio con Adaptador de teléfono y trípode-Impermeable a Prueba de Golpes para Caza observación Acampar Aves Juego de fútbol'
 actualPrice: 25.97 EUR
 currency: EUR
 price: 25.97

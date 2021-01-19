@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j9thJCyiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075C9XJ5P-es'
+slug: 'B075C9XJ5P-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable SSB257P1'
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

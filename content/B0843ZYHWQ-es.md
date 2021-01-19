@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TWmKeklHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0843ZYHWQ-es'
+slug: 'B0843ZYHWQ-es Skip Liquido Ultimate Triple Poder Fragancia Mimosin 50 2750 g'
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

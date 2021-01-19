@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y9-7HXGkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018YDMFRU-es'
+slug: 'B018YDMFRU-es CORDAYS - Organizador de Mandos a Distancia y Material de Oficina o Herramientas de Trabajo Caja para Mandos a Distancia - Hecho a Mano- Color Marrón CDM-00031'
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

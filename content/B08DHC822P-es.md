@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E46e4I90L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DHC822P-es'
+slug: 'B08DHC822P-es YQHbe Caja de Almacenamiento de M-á-scara Desechables  Bolsa PortáTil de Almacenamiento de M@Scarillas Cubierta del Caso de La Cara ProteccióN Funda Organizador de Almacenaje PP'
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

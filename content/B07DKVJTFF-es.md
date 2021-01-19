@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WfzdYDFIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKVJTFF-es'
+slug: 'B07DKVJTFF-es Sebago Schooner  Náuticos para Hombre  Azul  Blue Navy/Gum 978   42 EU'
 actualPrice: 82.18 EUR
 currency: EUR
 price: 82.18

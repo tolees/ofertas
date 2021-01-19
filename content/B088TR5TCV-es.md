@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412zhP5g8jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TR5TCV-es'
+slug: 'B088TR5TCV-es Time COVER 2 Mascarillas Reutilizables con 10 Filtros  Mascarillas Lavable de Algodón Suave y semicara  Reutilizable  Lavable  Unisex  Negro '
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

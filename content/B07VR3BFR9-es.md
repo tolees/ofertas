@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cmsSIZl3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VR3BFR9-es'
+slug: 'B07VR3BFR9-es SDBAUX Multi 4 en 1 Cable de carga 1.2m cable de cargador USB Rápido con 2 8-Pin/Tipo C/Micro USB Compatible para Phone Xs Max XR X 8 7 6 Plus iPad iPod Samsung Galaxy Google Pixel LG HTC  Solo Carga '
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

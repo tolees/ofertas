@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MH4tGUT8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018W89LPQ-es'
+slug: 'B018W89LPQ-es Superga 2790-COTROPEW  Zapatillas Mujer  Azul  Marineblau   40 EU  6.5 UK '
 actualPrice: 34.76 EUR
 currency: EUR
 price: 34.76

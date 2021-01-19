@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HwQojJ9FL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJ6LGS-es'
+slug: 'B07MVJ6LGS-es Kipling - Amiel  Bolsos maletín Mujer  Gris  Chalk Grey   27x24.5x14.5 cm  B x H T '
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41svlwrYqNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S355DHD-es'
+slug: 'B07S355DHD-es Love MoschinoJc4027pp1aMujerBolsos bandoleraBlanco  Bianco 6x17x22 centimeters  W x H x L '
 actualPrice: 86.25 EUR
 currency: EUR
 price: 86.25

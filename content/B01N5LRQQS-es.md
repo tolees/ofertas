@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41npGu7mq7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5LRQQS-es'
+slug: 'B01N5LRQQS-es Alluflon Tradizione Italia Crepera  aluminio  negro  22 cm'
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

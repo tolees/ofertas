@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dE4ewmR7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBYQZKC-es'
+slug: 'B07GBYQZKC-es Craft Pro Control Compression Tight Unisex Black Size : M'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

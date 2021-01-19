@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pjTIlKX+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K5R99JG-es'
+slug: 'B00K5R99JG-es Tommy Hilfiger 3p Trunk Tanga  Blanco  White 100   Large  Pack de 3  para Hombre'
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

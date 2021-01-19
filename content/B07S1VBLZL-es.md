@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OisVvNfxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1VBLZL-es'
+slug: 'B07S1VBLZL-es Wangel Toallero Barra Fijar Sin Taladro  Porta Toallas Baño 40cm  Pegamento Patentado + Autoadhesivo  Aluminio  Acabado Mate  Plateado'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61eo1c0Fd3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RJ1P5G-es'
+slug: 'B081RJ1P5G-es Dookey Pintura Facial  Maquillaje al Agua  Pinturas Cara para Halloween/Fiestas/Cosplay  con 17 Colores  2 Purpurina  24 Formas de Plantilla  ect...'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

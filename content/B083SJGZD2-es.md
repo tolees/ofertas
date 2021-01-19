@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JgHsdwPFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SJGZD2-es'
+slug: 'B083SJGZD2-es Home Fleek - Envases de Vidrio para Alimentos | 3 Recipientes + 3 Tapas | Herméticos | Sin BPA  Set 3  Cuadrado Rojo '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417FCMM1MdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCNNT3Q-es'
+slug: 'B07RCNNT3Q-es Columbia Fast Trek II  forro polar con cremallera completa para hombres'
 actualPrice: 35.61 EUR
 currency: EUR
 price: 35.61

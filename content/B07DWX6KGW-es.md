@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EhRdJpv%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWX6KGW-es'
+slug: 'B07DWX6KGW-es Energy Sistem Box 1+ Altavoz inalámbrico portátil con Bluetooth  5 W  microSD MP3  FM Radio  Audio-In  - Pear'
 actualPrice: 12.31 EUR
 currency: EUR
 price: 12.31

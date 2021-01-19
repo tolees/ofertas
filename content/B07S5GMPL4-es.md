@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J8BkCdPVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5GMPL4-es'
+slug: 'B07S5GMPL4-es Under Armour Rival Print Fill Logo Parte Superior del Calentamiento  Niñas  Negro  YMD'
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

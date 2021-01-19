@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41otFSehAcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGYD63F-es'
+slug: 'B07WGYD63F-es Songway Burbujeador de Tanque de Peces Redondo de Acuario con LED de Color Multicolor con LED de Color Azul  Cuentas de 12 lámparas '
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MSH1SDGbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZQK48X-es'
+slug: 'B07YZQK48X-es Maxi-Cosi Zelia Carrito bebé 2 en 1  hamaca se transforma en capazo  cochecito reclinable en posición acostada  fácil sistema de plegado  color essential black'
 actualPrice: 221.99 EUR
 currency: EUR
 price: 221.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31K8xZrb7HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XTVGJ42-es'
+slug: 'B07XTVGJ42-es PNY Memoria USB Attaché 4 3.1 256GB'
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Qa4KgU64L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BJB89P-es'
+slug: 'B072BJB89P-es American Crew Espuma de Afeitar 300 ml'
 actualPrice: 6.91 EUR
 currency: EUR
 price: 6.91

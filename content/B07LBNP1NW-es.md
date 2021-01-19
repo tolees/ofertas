@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411c3wEOtbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBNP1NW-es'
+slug: 'B07LBNP1NW-es Kappa Klasen  Zapatillas Unisex Adulto  Coral/White 2910  36 EU'
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F4npo9hHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDCFN2B-es'
+slug: 'B07RDCFN2B-es Tommy Hilfiger Anya 1a1  Zapatillas para Mujer  Beige  White Ybs   39 EU'
 actualPrice: 86.95 EUR
 currency: EUR
 price: 86.95

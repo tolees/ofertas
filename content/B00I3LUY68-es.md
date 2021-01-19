@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21mIMvS0WpL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I3LUY68-es'
+slug: 'B00I3LUY68-es Sony MDR-ZX310R - Auriculares de diadema cerrados  sin micrófono   rojo'
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

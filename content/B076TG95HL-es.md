@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uzVucQgPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076TG95HL-es'
+slug: 'B076TG95HL-es Skechers Women 12980 Low-Top Trainers  Black  Black   4 UK   37 EU '
 actualPrice: 36.51 EUR
 currency: EUR
 price: 36.51

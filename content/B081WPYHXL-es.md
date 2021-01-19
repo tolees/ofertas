@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519jyKTpoOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081WPYHXL-es'
+slug: 'B081WPYHXL-es Cuquiland Esencia  Agenda ilustrada por Esther Gili  Tamaño Único  Multicolor'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

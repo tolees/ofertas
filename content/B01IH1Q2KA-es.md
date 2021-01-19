@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qMOtiUSfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IH1Q2KA-es'
+slug: 'B01IH1Q2KA-es BATMAN ANIMATED SERIES'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

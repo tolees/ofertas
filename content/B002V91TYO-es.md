@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hz2CZdPYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002V91TYO-es'
+slug: 'B002V91TYO-es Eminent EM3563 - Auriculares de Diadema Abiertos  con Micrófono   Negro'
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

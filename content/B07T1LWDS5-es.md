@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412JTSDP89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1LWDS5-es'
+slug: 'B07T1LWDS5-es Buffalo Fierce P1  Zapatillas Altas para Mujer  Multicolor  Multi 000   39 EU'
 actualPrice: 60.94 EUR
 currency: EUR
 price: 60.94

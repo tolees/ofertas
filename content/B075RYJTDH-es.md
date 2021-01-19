@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VhxWSiJ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RYJTDH-es'
+slug: 'B075RYJTDH-es Ferplast - Comedero con balanza integrada para Perros y Gatos Optima  Comedero de Acero Inoxidable 0 85 L  Pantalla LCD  Antideslizante'
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

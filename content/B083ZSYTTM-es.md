@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418UuEAuU5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZSYTTM-es'
+slug: 'B083ZSYTTM-es Magicfun Mini Ventilador de Mano  Ventilador USB de 3000mAh Recargable Batería  Portátil Eléctrico Ventilador Plegable  Ajustable 3 Velocidad para el Oficina  Hogar  Acampada  Viajes  Exterior Rosada '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

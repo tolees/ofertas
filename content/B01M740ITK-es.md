@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VkxoKhGjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M740ITK-es'
+slug: 'B01M740ITK-es Bergner Infinity Chef Sartén de Inducción  Aluminio Forjado  Bronce  16 cm'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

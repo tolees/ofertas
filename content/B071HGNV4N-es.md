@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Xb2e9BS-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HGNV4N-es'
+slug: 'B071HGNV4N-es Reebok Royal Ultra  Zapatillas para Hombre  Azul  Collegiate Navy/White   42 EU'
 actualPrice: 42.98 EUR
 currency: EUR
 price: 42.98

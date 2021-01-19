@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ooeF0tV3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y1F4LDG-es'
+slug: 'B06Y1F4LDG-es Wrangler Arizona Straight Jeans  Negro  Black   38W / 36L para Hombre'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

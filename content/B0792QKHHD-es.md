@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P04t6TwAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792QKHHD-es'
+slug: 'B0792QKHHD-es HOMCOM Coberizo de Madera de Jardín Caseta para Herramientas 190x79x49 cm Armario de Madera Maciza de Almacenamiento en Patio Gabinete Terraza'
 actualPrice: 144.49 EUR
 currency: EUR
 price: 144.49

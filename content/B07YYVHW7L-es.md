@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3114etBdbFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYVHW7L-es'
+slug: 'B07YYVHW7L-es Elbe Regleta multienchufe retráctil  2 USB  Mesa Enchufe Regleta multienchufe con 3 Toma  Cubierta superior impermeable Regleta de Mesa Regleta de protección contra sobretensiones para Escritorio'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

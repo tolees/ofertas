@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qcjDzRP2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SVYERQK-es'
+slug: 'B00SVYERQK-es Funko Pop!- Pocket Keychain: Marvel: Avengers AOU: Captain America  5224 '
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

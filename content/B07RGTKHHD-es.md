@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410DFkq-HPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGTKHHD-es'
+slug: 'B07RGTKHHD-es New Balance Fresh Foam Roav h  Zapatillas de Running para Hombre  Gris Foncã Argent Blanc  42.5 EU'
 actualPrice: 45.15 EUR
 currency: EUR
 price: 45.15

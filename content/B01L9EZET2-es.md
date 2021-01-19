@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GC1q9TnzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L9EZET2-es'
+slug: 'B01L9EZET2-es This Is Acting'
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

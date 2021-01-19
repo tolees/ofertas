@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bzA8hT5RL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJZXKTY-es'
+slug: 'B07FJZXKTY-es hummel Nile Canvas Low  Zapatillas Unisex Adulto  Verde  Olive Night 6453   37 EU'
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

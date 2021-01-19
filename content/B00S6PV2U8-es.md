@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M9Su4liqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S6PV2U8-es'
+slug: 'B00S6PV2U8-es HOMCOM Trona para Bebé 3 en 1 Convertible en Silla Mercedora y Silla+Mesa con Cinturón de Seguridad  Blanco y Azul '
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

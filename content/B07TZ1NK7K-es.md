@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WM9-2EM6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ1NK7K-es'
+slug: 'B07TZ1NK7K-es Kipling Imali  Carteras para Mujer  Verde  Light Aloe   19x10x1 cm'
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

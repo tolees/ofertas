@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61BEOILrFUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BQ6L1L-es'
+slug: 'B083BQ6L1L-es MENGH Antirutschmatte küche 120x140cm  Wohnzimmer Carpet Spitzenqualität Gemütliches für Wohnzimmer Schlafzimmer Sofa Rose Rot'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uETrGe7yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085QZY81G-es'
+slug: 'B085QZY81G-es Finocam - Agenda Curso 2020-2021 Cuarto-155x217 Semana Vista Apaisada Cabeza Blanco Español'
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

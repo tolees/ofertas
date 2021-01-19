@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317TM7YXmaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016N2D6AO-es'
+slug: 'B016N2D6AO-es Tescoma JGO 8 Cortapastas Galletas Tradicionales Delicia'
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

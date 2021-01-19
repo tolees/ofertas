@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-L+HgAuHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPD5NJQ-es'
+slug: 'B06XPD5NJQ-es Golvery Metal silbato de árbitro  entrenador silbato – acero inoxidable – extra alto con cordón para escuela deportes  Fútbol  fútbol  baloncesto y Lifeguard protección  8 de unidades …'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

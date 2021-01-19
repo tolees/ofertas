@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/5187M0FWKNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZMHKT8D-es'
+slug: 'B07ZMHKT8D-es Mochilero Compatible with Apple Watch Band 40mm 44mm iWatch Bands  Replacement Strap  Durable adapters  NATO Buckle for Series 1 2 3 4 5  Green  Red  Blue  Black  Green 44mm '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

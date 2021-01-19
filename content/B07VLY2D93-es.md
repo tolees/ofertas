@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+3y-t787L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLY2D93-es'
+slug: 'B07VLY2D93-es JACK & JONES Jorflash suéter  Azul  Navy Blazer   XX-Large para Hombre'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313IDqL71FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z56LKFM-es'
+slug: 'B07Z56LKFM-es DULALA Peine Peluquería Cabello Belleza Peine Cepillo Negro Plástico Dentado Doble Cabeza Mujeres Viaje Plegable DIY Peine'
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

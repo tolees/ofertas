@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wMH22mHXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DFUC8RA-es'
+slug: 'B00DFUC8RA-es Kappa Bright Mid Kids  Botas Clasicas Unisex Niños  Beige  Beige 4141   28 EU'
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mLAJonG1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075S3CK1S-es'
+slug: 'B075S3CK1S-es Reebok Ovett Ropa Interior  Hombre  Negro/Gris  S'
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

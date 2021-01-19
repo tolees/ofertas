@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MKyulN4EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z9V6LP5-es'
+slug: 'B07Z9V6LP5-es Ritiriko Unisex Zapatillas de Deporte para Hombre - Zapatillas de Running Zapatillas de Tenis Zapatillas de Deporte para Caminar Transpirable Athletic Sport Verde 44 EU'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

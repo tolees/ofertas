@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31VfOQ1ZaSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GY0WK52-es'
+slug: 'B01GY0WK52-es Mercedes-Benz M7003 Hombre  Azul  Blau   59'
 actualPrice: 31.51 EUR
 currency: EUR
 price: 31.51

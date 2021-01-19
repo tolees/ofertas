@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413T1ypcTIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NI1OZY-es'
+slug: 'B000NI1OZY-es Clevamama Capa de Baño Bebé - Toalla Delantal con Capucha  Algodón - Rosa'
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

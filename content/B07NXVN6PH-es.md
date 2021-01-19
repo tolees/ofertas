@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416FLd9Gb0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXVN6PH-es'
+slug: 'B07NXVN6PH-es Skechers Men s Stamina Cutback Trainers  Azul  Navy Leather/White Mesh/Trim NVW   6  39.5 EU '
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

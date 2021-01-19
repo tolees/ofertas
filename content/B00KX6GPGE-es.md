@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KdfxReArL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KX6GPGE-es'
+slug: 'B00KX6GPGE-es Bering 14440-077 - Reloj para Hombre'
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

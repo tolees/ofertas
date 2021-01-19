@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZtcUCCF-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GTD58WR-es'
+slug: 'B07GTD58WR-es Devolo Magic 2  Magic 2 Kit de Inicio Powerline  1  Multicolor'
 actualPrice: 144.99 EUR
 currency: EUR
 price: 144.99

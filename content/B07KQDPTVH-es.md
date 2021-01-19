@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BpKYLR0TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQDPTVH-es'
+slug: 'B07KQDPTVH-es FIT-FORCE Cinta de Correr Plegable 1600W Velocidad hasta 15KM con Entrada de Mp3 y Dos Altavoces 1.5CV'
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

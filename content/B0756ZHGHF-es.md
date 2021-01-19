@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xrNAOfiEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756ZHGHF-es'
+slug: 'B0756ZHGHF-es Intex 57281EU - Unicornio hinchable XL - 287x193x165 cm'
 actualPrice: 26.77 EUR
 currency: EUR
 price: 26.77

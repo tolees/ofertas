@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TwvZHmiZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXSYBD8-es'
+slug: 'B07QXSYBD8-es Hakeeta Molinillo de café eléctrico Molino de Granos  nueces  Semillas  Hierbas y Especias  con Hoja de Acero Inoxidable de 400W Potencia Muele Rápidoy Silenciosamente Viene con Cepillo para Limpieza'
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

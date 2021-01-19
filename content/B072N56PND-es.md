@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WXry0eY2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072N56PND-es'
+slug: 'B072N56PND-es Vibram Fivefingers KSO EVO  Zapatillas de Deporte para Hombre  Negro  Black/Red Black/Red   41 EU'
 actualPrice: 58.73 EUR
 currency: EUR
 price: 58.73

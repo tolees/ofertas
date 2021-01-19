@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JsvCdYJcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNMK2YW-es'
+slug: 'B07FNMK2YW-es HOMCOM Coche Eléctrico para Niño 3-8 Años Audi R8 con Mando a Distancia MP3 USB Luces y Sonidos Apertura de Puerta 123x71x49cm Carga 30kg'
 actualPrice: 188.99 EUR
 currency: EUR
 price: 188.99

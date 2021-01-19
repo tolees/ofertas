@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316z9F8JBbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N61JRS3-es'
+slug: 'B07N61JRS3-es DC Shoes  DCSHI  Heathrow-Low-Top Shoes for Men  Zapatillas de Skateboard para Hombre  Battleship/Black  39 EU'
 actualPrice: 59.07 EUR
 currency: EUR
 price: 59.07

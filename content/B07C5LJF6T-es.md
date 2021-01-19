@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u9l9u49sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5LJF6T-es'
+slug: 'B07C5LJF6T-es Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Negro  Navy Blazer   Small para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

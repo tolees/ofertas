@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-OLp8tqcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872PWYRD-es'
+slug: 'B0872PWYRD-es Funda Transparente Compatible para Mi 9 Pro/Mi 9 Pro 5G Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Mi 9 Pro/Mi 9 Pro 5G A3'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

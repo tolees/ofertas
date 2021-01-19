@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WrvlK8SqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHDMG9R-es'
+slug: 'B07VHDMG9R-es HKT by Hackett Hkt Contrast Clr Polo  Blanco  800white 800   Small para Hombre'
 actualPrice: 26.85 EUR
 currency: EUR
 price: 26.85

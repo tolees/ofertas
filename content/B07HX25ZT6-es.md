@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ViicvfwtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HX25ZT6-es'
+slug: 'B07HX25ZT6-es BELL Casco Integral Sanction MTB  Unisex Adulto  Color Nitro Circus Gloss  tamaño Large/58-60 cm'
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

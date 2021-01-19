@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zZf+jVJWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AZAXID0-es'
+slug: 'B01AZAXID0-es Estee Lauder Mascarilla Facial Advanced Night Repair 4 Sheets'
 actualPrice: 84.84 EUR
 currency: EUR
 price: 84.84

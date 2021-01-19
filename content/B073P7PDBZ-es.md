@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FHCoq0Z4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073P7PDBZ-es'
+slug: 'B073P7PDBZ-es FIRENZE ARTEGIANI.Cartera de Mujer Piel auténtica.Bolso de Piel Acabado Dollaro Tacto Suave. Made IN Italy. Vera Pelle Italiana. 24x14 5x2 cm. Color: Negro'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

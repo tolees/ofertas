@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SSPpiVa3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GMEPN4Q-es'
+slug: 'B00GMEPN4Q-es LEE  DAREN  - Pantalones para hombre  Azul  36W x 34L'
 actualPrice: 45.09 EUR
 currency: EUR
 price: 45.09

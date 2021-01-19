@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xrk8iSm7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKFJ6N8-es'
+slug: 'B07GKFJ6N8-es Buff New Obsession Tubular Original  Unisex Adulto  Multi  Talla única'
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

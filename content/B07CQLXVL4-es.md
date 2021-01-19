@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416pT+OEwFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQLXVL4-es'
+slug: 'B07CQLXVL4-es KingNew Anillo de terciopelo para boda  colgante de joyería  caja de regalo  color rojo oscuro '
 actualPrice: 1.97 EUR
 currency: EUR
 price: 1.97

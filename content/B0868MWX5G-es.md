@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eLsxr-Z9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868MWX5G-es'
+slug: 'B0868MWX5G-es Suhctup Transparente Funda Compatible con Huawei Nova 4 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para Huawei Nova 4 3 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

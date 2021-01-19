@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EV8X+0oDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S95KPVK-es'
+slug: 'B07S95KPVK-es Charles Wilson Paquete 5 Camisetas Cuello Redondo Lisas  Small  Port Melange Type 19 '
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

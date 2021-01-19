@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hC5cdZ8BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7QXDRI-es'
+slug: 'B01K7QXDRI-es Calvo Atun Claro en Aceite de Girasol - Pack de 3 x 80 g - Total: 240 g'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

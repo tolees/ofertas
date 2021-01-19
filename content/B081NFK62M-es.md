@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51psNJiv9NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081NFK62M-es'
+slug: 'B081NFK62M-es VADIM Sillas Comedor Blanca Nordica Juego de 4 Silla diseño nórdico Retro Sillas Salon Modernas Robusta Madera de Haya Imitación Pies de Metal'
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

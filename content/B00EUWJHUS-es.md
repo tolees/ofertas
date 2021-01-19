@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fv3PEbZDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EUWJHUS-es'
+slug: 'B00EUWJHUS-es DeLonghi EO12012W Horno de sobremesa con temporizador de apagado automático  Mecánico  1400 W  12 L  3 funciones  blanco'
 actualPrice: 48.51 EUR
 currency: EUR
 price: 48.51

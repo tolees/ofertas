@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zjnvV3+iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWSRLNQ-es'
+slug: 'B07TWSRLNQ-es KiplingArtMujerBolsos maletínVerde  Light Aloe 44x27x20 Centimeters  B x H x T '
 actualPrice: 34.89 EUR
 currency: EUR
 price: 34.89

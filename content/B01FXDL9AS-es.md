@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41umCsjX2yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FXDL9AS-es'
+slug: 'B01FXDL9AS-es Pro Mountain - Calcetines deportivos unisex de algodón -  Negro -  S US Women Shoes 5.5~7.5  size 9 '
 actualPrice: 21.36 EUR
 currency: EUR
 price: 21.36

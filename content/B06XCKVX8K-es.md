@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WmgfVJ6CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCKVX8K-es'
+slug: 'B06XCKVX8K-es Nirvel Nutre Color Violeta 200ml'
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

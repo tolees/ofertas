@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tTo1hDSDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081K64LYJ-es'
+slug: 'B081K64LYJ-es Ksix Smartwatch HR Multitáctil Urban'
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

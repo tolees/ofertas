@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ybLkBdNdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077N4K4HQ-es'
+slug: 'B077N4K4HQ-es L Oréal Paris False Lash Xfiber Xtreme Máscara de Pestañas - 34 g'
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jm52J-gXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBF5TWN-es'
+slug: 'B07VBF5TWN-es Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 1513716'
 actualPrice: 195.3 EUR
 currency: EUR
 price: 195.3

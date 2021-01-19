@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uy8MJJsLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWV35VW-es'
+slug: 'B06XWV35VW-es New Balance 574v2 Core  Zapatillas para Mujer  Negro  Black   43.5 EU'
 actualPrice: 58.41 EUR
 currency: EUR
 price: 58.41

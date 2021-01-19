@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414H9n-VcHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000ORXJ3E-es'
+slug: 'B000ORXJ3E-es Max factor - Miracle touch creamy blush  base de maquillaje  color 14 rosa suave  12 ml '
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

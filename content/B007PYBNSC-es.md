@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ley52kmqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007PYBNSC-es'
+slug: 'B007PYBNSC-es SanDisk SDCZ50-032G-FFP 32 GB Cruzer Blade Flash Drive - Frustration-Free Packaging'
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

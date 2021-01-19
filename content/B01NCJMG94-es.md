@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419CEKo6F-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCJMG94-es'
+slug: 'B01NCJMG94-es Columbia Childrens Firecamp™ Sledder II WP  Zapatillas de Senderismo  Impermeable para Niños  Negro  Black  Steam   29 EU'
 actualPrice: 28.17 EUR
 currency: EUR
 price: 28.17

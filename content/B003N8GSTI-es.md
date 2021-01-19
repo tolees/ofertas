@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418nI2lW%2BmL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B003N8GSTI-es'
+slug: 'B003N8GSTI-es Triumph True Shape Sensation Maxi Culotte  Verde  40  Talla del Fabricante: 38  para Mujer'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

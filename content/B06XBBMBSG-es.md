@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LPs4NWw1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XBBMBSG-es'
+slug: 'B06XBBMBSG-es Coche de Carreras Juguete Desmontable Juguetes Educativos de Construcción con Kit Desmontar y Ensamblar Coche Desmontable Niño 3 4 5 Años'
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

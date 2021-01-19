@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mtZ5IlJlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019Z6SYIE-es'
+slug: 'B019Z6SYIE-es Tombow WS-BS Fudenosuke - Pluma escobilla  punta blanda  tinta negra'
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

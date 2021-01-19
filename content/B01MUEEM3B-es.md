@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Uo4V%2BO8vL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUEEM3B-es'
+slug: 'B01MUEEM3B-es Reloj Viceroy - Chicos 401055-05'
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

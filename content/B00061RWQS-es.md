@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gDheC1EPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00061RWQS-es'
+slug: 'B00061RWQS-es HP Q5949A 49A Cartucho de Tóner Original  1 unidad  negro'
 actualPrice: 82.8 EUR
 currency: EUR
 price: 82.8

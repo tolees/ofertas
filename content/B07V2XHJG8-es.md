@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mnyCZUDSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2XHJG8-es'
+slug: 'B07V2XHJG8-es VIMOV Bandas de Resistencia de Tela Booty Bands/Bandas Elasticas Gluteos y Piernas/Bandas Antideslizantes de Ejercicios de Cadera'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

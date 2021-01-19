@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gMKMWFulL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW7N21K-es'
+slug: 'B07NW7N21K-es Skechers Bobs Rocky-Urban Hiker  Zapatillas Bajas para Mujer  Brown Micro Leather/Faux Fur Cuff Brn  5 EU'
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

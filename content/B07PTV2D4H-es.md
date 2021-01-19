@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61UlnDtohkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PTV2D4H-es'
+slug: 'B07PTV2D4H-es Carrera- Go DTM Championship Circuito Completo de Coches  Multicolor  Stadlbauer 20062503 '
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fHEcwe0yL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3WXNSW-es'
+slug: 'B07S3WXNSW-es Asics Patriot 11 GS  Zapatillas de Running Unisex Niños  Rosa  Pink Glow/Sun Coral 700   39 EU'
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

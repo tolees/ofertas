@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cMkEh9ZwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HAVJUNO-es'
+slug: 'B01HAVJUNO-es Songmics OBG71B Racing -Silla de Escritorio/ Computadora Ergonómica con Reposapiés Plegable  PU  Metal Cromado  color Negro 150 kg'
 actualPrice: 141.19 EUR
 currency: EUR
 price: 141.19

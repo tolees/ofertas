@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316wZ-swXoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGCDPLB-es'
+slug: 'B07XGCDPLB-es Blindecor Lira Estor Enrollable de Doble Capa  Noche y Día  Gris Antracita  120X180'
 actualPrice: 31.83 EUR
 currency: EUR
 price: 31.83

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VH1Ea-JJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001ECR3A8-es'
+slug: 'B001ECR3A8-es Lékué coccion Blanca Malla Elástica para Cocer Los Alimentos A Parte  Silicona  Talla Única'
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

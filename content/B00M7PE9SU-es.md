@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51O0iOjy+vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M7PE9SU-es'
+slug: 'B00M7PE9SU-es Amzdeal Inflador globo electrico para inflar globos hinchador globos electrico para fiestas 600W Alta potencia  Color rosado'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

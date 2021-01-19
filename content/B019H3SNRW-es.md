@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xfz7GOlPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019H3SNRW-es'
+slug: 'B019H3SNRW-es Artema - Taburete Redondo 70cm.'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

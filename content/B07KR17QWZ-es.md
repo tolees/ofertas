@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410hoWfYrxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR17QWZ-es'
+slug: 'B07KR17QWZ-es Nike NK Brsla M Duff - 9.0  60L  Gym Bag  Unisex Adulto  Black/ Black/ White  MISC'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

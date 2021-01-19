@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cHKioqXBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772KVGFX-es'
+slug: 'B0772KVGFX-es Funko Pop! - Ready Player One Sorrento Figura de Vinilo 22055'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

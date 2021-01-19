@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xdk6iAP-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078MHFGBC-es'
+slug: 'B078MHFGBC-es HOREVO 24W Ø 38cm Cuadrada Lámpara plafón de techo con mando a distancia con altavoz Bluetooth integrado RGB Cambio de color  APP Disponible  ideal Para Salón  Dormitorio Fiesta'
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

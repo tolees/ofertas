@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t3dLviWZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GUZJWKW-es'
+slug: 'B01GUZJWKW-es Adidas Stan Smith  Zapatillas para Niñas  Blanco  Footwear White/Footwear White/Bold Pink 0   35 EU'
 actualPrice: 40.06 EUR
 currency: EUR
 price: 40.06

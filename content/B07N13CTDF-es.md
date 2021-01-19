@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31JBU%2BNJQzL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N13CTDF-es'
+slug: 'B07N13CTDF-es Skechers Go Run Mojo 2.0-Escape  Zapatillas para Mujer  Black Textile/Pink Trim Bkpk  3 EU'
 actualPrice: 27.73 EUR
 currency: EUR
 price: 27.73

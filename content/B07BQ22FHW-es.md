@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ETR-jkvML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQ22FHW-es'
+slug: 'B07BQ22FHW-es TomTom GO Camper  GPS para caravana  6 Pulgadas  con Actualizaciones Mediante Wi-Fi  PDI para Caravanas y Autocaravanas  Mapas para Toda la Vida de Todo el Mundo  Tomtom Road Trips'
 actualPrice: 279.95 EUR
 currency: EUR
 price: 279.95

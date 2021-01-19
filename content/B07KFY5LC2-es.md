@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JZaxWfvjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFY5LC2-es'
+slug: 'B07KFY5LC2-es PUMA LQDCELL Tension  Zapatillas Deportivas para Interior para Hombre  Black-Nrgy Red  42.5 EU'
 actualPrice: 41.68 EUR
 currency: EUR
 price: 41.68

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pr5SFU3AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DNBGVDS-es'
+slug: 'B00DNBGVDS-es Select Trainigsjacke Ultimate Trainingsjacke - Soft Shell para niño  Color Verde  Talla 12 años  152 cm '
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rKKX0evrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZJFPXQ-es'
+slug: 'B07CZJFPXQ-es Under Armour Tech Mesh 3 Inch Corto  Mujer  Negro  SM'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

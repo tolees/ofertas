@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LohGtFr4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079C79JPQ-es'
+slug: 'B079C79JPQ-es Jack & Jones Jjepaulos Polo SS Noos  Blanco  White Detail: Slim Fit   Large para Hombre'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZyXv+XPRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTRG3T6-es'
+slug: 'B06XTRG3T6-es Guardians O/T Galaxy 2 Llavero  Gris  Gris  - BIO-KE109108GOG'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

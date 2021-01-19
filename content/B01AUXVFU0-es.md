@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qDxywHNKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AUXVFU0-es'
+slug: 'B01AUXVFU0-es Suavinex Biberon 302.845 Bipack'
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

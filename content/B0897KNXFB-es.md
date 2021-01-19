@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5136RgjMUqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0897KNXFB-es'
+slug: 'B0897KNXFB-es NA Organizador de Maquillaje de lápiz Organizador de lápiz Labial acrílico  lápiz Labial cosméticos Almacenamiento Pantalla Soporte  9 Almacenamiento de Espacio'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/3116zx47H2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFY47MG-es'
+slug: 'B07KFY47MG-es PUMA Drift Cat 5 AC  Zapatillas Unisex Adulto  White White  43 EU'
 actualPrice: 24.19 EUR
 currency: EUR
 price: 24.19

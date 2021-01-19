@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515fzcFMtcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXB5F4T-es'
+slug: 'B06XXB5F4T-es New Balance 574 Zapatillas Hombre  Verde  Olive EGO   41.5 EU  7.5 UK '
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

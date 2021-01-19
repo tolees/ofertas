@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T80gBaz4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QF7QDCN-es'
+slug: 'B07QF7QDCN-es Litthing Calcetines Deportivos Antideslizantes de Algodón para Hombre Desodorante Respirables para Baloncesto Fútbol Yoga de Balonmano Correr engrosamiento de Ciclismo  Corto  3 '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

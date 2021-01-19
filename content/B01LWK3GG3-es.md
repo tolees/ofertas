@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gd84l8OrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWK3GG3-es'
+slug: 'B01LWK3GG3-es Hellmaann s - Salsa Mostaza A La Antigua 250 ml - Pack de 6  Total 1500 ml '
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65

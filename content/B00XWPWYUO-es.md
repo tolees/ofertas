@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hV24iS0pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XWPWYUO-es'
+slug: 'B00XWPWYUO-es Nike Tanjun  Zapatillas de Running para Hombre  Negro  Black/White 011   43 EU'
 actualPrice: 48.07 EUR
 currency: EUR
 price: 48.07

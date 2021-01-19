@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eLDBdXAFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZYS6Y5-es'
+slug: 'B07RZYS6Y5-es Love Moschino Jc4010pp1a  Carteras de Mano con Asa para Mujer  Negro  Negro   4x13x22 centimeters  W x H x L '
 actualPrice: 84.28 EUR
 currency: EUR
 price: 84.28

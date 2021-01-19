@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51L0CZoghxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XH9HRNK-es'
+slug: 'B07XH9HRNK-es GadFull 2 Piezas HD Protector de Pantalla para iPhone 6 e iPhone 6S | Lámina de Vidrio Templado 3D Suave para Proteger Pantalla Táctil'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

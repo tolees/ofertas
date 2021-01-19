@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mJRWKwiWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P1S1G4P-es'
+slug: 'B07P1S1G4P-es PUTORSEN® Soporte de Escritorio para Monitor de Las Pantallas de TV  LCD y computadora de17”-32”/43-81cm  Brazo de Monitor con Resorte de Mecánico  Aluminio  Capacidad de Carga es 8kg'
 actualPrice: 50.88 EUR
 currency: EUR
 price: 50.88

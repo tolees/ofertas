@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tuTnof+FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1LXP6Z-es'
+slug: 'B07T1LXP6Z-es Buffalo Chai  Zapatillas Altas para Mujer  Beige  Beige 000   40 EU'
 actualPrice: 52.5 EUR
 currency: EUR
 price: 52.5

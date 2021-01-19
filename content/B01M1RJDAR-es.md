@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41agwup69PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1RJDAR-es'
+slug: 'B01M1RJDAR-es PowerPlus POWC4010 - Lijadora Orbital 135W'
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

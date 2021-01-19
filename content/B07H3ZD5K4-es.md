@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kD8jOm3gL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3ZD5K4-es'
+slug: 'B07H3ZD5K4-es 10XDIEZ Relleno COJIN 2 Unidades - Relleno Suave y Esponjoso Que no se deforma - para Combinar con Cualquier Funda de cojín  45x45cm '
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

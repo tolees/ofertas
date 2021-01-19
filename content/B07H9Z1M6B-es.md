@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+5Tmim0RL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9Z1M6B-es'
+slug: 'B07H9Z1M6B-es Pop! Romeo & Juliet - Figura de Vinilo Juliet'
 actualPrice: 7.56 EUR
 currency: EUR
 price: 7.56

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kYwB58fpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDGQ2QG-es'
+slug: 'B08CDGQ2QG-es Uniky Cortador de Verdura 4 en 1【2020 La última versión】 Rallador de Verduras Calabacin Pasta Espiralizador Vegetal Veggetti Slicer Pepino  Espaguetis de Calabacin  Cortador Espiral Manual'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

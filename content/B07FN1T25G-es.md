@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51nPFqMztcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FN1T25G-es'
+slug: 'B07FN1T25G-es Cinturon Pelvico  Ajustable Platillos Corrección con airbag  platillos vendaje postparto correa correa de cintura Post partum Recovery banda Cuerpo Forma Cinturón del suelo pélvico banda Cinturón'
 actualPrice: 13.09 EUR
 currency: EUR
 price: 13.09

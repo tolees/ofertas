@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5169J29cFcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XHUO88K-es'
+slug: 'B00XHUO88K-es Star Wars FX14233 Lampara 3D de Pared R2 D2  Multicolor'
 actualPrice: 23.11 EUR
 currency: EUR
 price: 23.11

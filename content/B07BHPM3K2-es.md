@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eHUmg95HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHPM3K2-es'
+slug: 'B07BHPM3K2-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 1781919'
 actualPrice: 71.39 EUR
 currency: EUR
 price: 71.39

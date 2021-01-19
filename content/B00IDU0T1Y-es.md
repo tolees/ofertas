@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KSPLXz3FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IDU0T1Y-es'
+slug: 'B00IDU0T1Y-es Sabrent Adaptador de Cable de Impresora USB a Paralelo IEEE 1284  CB-CN36 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

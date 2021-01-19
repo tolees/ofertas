@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZgWoz6rrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0773HDJYM-es'
+slug: 'B0773HDJYM-es AmazonBasics – Cargador USB de pared de dos puertos  2 4 amperios   Blanco'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

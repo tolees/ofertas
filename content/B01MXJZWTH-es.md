@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L6aXWKoZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXJZWTH-es'
+slug: 'B01MXJZWTH-es NEW C 2 Unidades  Protector de Pantalla para Huawei P9 Lite  Vidrio Cristal Templado'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

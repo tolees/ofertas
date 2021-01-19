@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PRcf4+xsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07453GKTX-es'
+slug: 'B07453GKTX-es TY- Beanie Boo s Mandy Poodle  caniche  Color azul  23 cm  United Labels Ibérica 37263TY    color/modelo surtido'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

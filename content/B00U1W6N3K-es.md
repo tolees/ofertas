@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AbHteTTvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U1W6N3K-es'
+slug: 'B00U1W6N3K-es Dickies Slim Fit Work Pantalones  Beige  Khaki KH    Tamaño del Fabricante:32/32  para Hombre'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

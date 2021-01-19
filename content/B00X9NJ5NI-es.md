@@ -6,7 +6,7 @@ image: ''
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9NJ5NI-es'
+slug: 'B00X9NJ5NI-es Parfums Grès  Agua fresca - 100 ml.'
 actualPrice: 16.62 EUR
 currency: EUR
 price: 16.62

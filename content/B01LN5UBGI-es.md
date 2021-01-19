@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m09RmywsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LN5UBGI-es'
+slug: 'B01LN5UBGI-es TOUCHBeauty TB-1333 LED Set de Manicura y Pedicura Eléctrica Portátil  5 accesorios incluidos'
 actualPrice: 10.81 EUR
 currency: EUR
 price: 10.81

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EuPq3Xb-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCFXTZV-es'
+slug: 'B07DCFXTZV-es Puma Smash v2 Zapatillas Unisex adulto  Beige  Elm-Puma White-Puma Team Gold   42.5 EU'
 actualPrice: 38.32 EUR
 currency: EUR
 price: 38.32

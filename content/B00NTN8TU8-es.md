@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5194jRce-kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NTN8TU8-es'
+slug: 'B00NTN8TU8-es Hombre-Reloj diesel MR Daddy 2.0 cronógrafo de Cuarzo con Revestimiento de Acero DZ7333'
 actualPrice: 170.66 EUR
 currency: EUR
 price: 170.66

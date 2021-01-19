@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51nHSNJ%2BdhL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F44HYL6-es'
+slug: 'B07F44HYL6-es BASICFIL PET 1.75mm  500 gr filamento de impresión 3D  Plata'
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

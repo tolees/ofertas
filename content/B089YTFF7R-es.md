@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gta+Kf8TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089YTFF7R-es'
+slug: 'B089YTFF7R-es TELMU Microscopio Óptico Profesionales  Microscopios Monoculares Biológicos para Adultos y Estudiantes y Niños con Diapositivas Preparadas'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

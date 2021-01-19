@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rsk2ePmwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQVSLV5-es'
+slug: 'B07KQVSLV5-es Monradbitt 1 Pair Fashion Rainbow Striped Socks Ladies Girls Soft Pure Cotton Socks Over Ankle High Socks Casual Sport Socks - Black'
 actualPrice: 2.34 EUR
 currency: EUR
 price: 2.34

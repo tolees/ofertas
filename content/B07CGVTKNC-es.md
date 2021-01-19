@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EAMtyhjLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGVTKNC-es'
+slug: 'B07CGVTKNC-es Licuadoras Para Verduras y Frutas  Aicok 800W Centrífugo con Boca Ancha de 75MM  Doble Velocidad con Pies Antideslizantes  Diseño Antigoteo  Libre de BPA'
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

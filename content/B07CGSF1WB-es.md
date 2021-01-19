@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31t7Fh9ryBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGSF1WB-es'
+slug: 'B07CGSF1WB-es L Óreal Paris Les Chocolats Labial Líquido Mate - Tono Nude rosado 852 Box of Chocolate'
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

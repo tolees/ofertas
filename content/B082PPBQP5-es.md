@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Lye3LpAbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PPBQP5-es'
+slug: 'B082PPBQP5-es SHIELDON Funda Portátil 13-13.3 Pulgadas  Funda Ordenador Maletín Impermeable para MacBook Air/MacBook Pro/iPad Pro 12.9/Acer/ASUS/DELL/Lenovo  Funda Blandas para Portátiles y Netbooks  Azul'
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

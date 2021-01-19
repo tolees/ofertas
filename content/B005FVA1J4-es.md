@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51C9F3XvZ7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005FVA1J4-es'
+slug: 'B005FVA1J4-es Pedigree Pack de Dentastix de uso Diario para la Limpieza Dental de Perros Pequeños  10 Packs de 7ud '
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

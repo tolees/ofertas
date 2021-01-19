@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mNENl8t3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076FCRHMS-es'
+slug: 'B076FCRHMS-es Funko-Disney: Aladdin: Abu Pop Vinilo  Multicolor  9 cm  24923 '
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

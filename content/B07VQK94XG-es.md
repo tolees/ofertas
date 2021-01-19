@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S22HfFRdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQK94XG-es'
+slug: 'B07VQK94XG-es Batidora de Mano Inoxidable 5 en 1 - Batidor  Batidor Varilla Cocina  Licuadora - Batidora de Vaso Multifuncion 1000W  9 Velocidades  Accesorios Gratuitos  Vaso Batidora  Botella de Tritán'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

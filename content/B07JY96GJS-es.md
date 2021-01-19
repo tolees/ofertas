@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Iaw9MJeyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JY96GJS-es'
+slug: 'B07JY96GJS-es 28 Palms 9" Inseam Cotton Tencel Chino Short Shorts  Natural  31'
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

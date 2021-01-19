@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jfY8uyOcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQN7GZ5-es'
+slug: 'B07NQN7GZ5-es Zapatillas de Montaña Impermeable diseñados para Senderismo Trekking montaña Deportes al Aire Libre A Prueba de Golpes  duraderos  Transpirables y Antideslizante'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

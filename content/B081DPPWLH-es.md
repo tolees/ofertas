@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E5kKgKMeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DPPWLH-es'
+slug: 'B081DPPWLH-es MASOMRUN Adaptador de Lector de Tarjeta SD Kit Conexión de Cámara USB 4 en 1 Adaptador de Lector Tarjeta TF Lector Tarjeta SD de Cámara Trail Game Cable USB 2.0 OTG Hembra para Phone y Pad'
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

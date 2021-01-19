@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513TEwOfelL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYRW1V-es'
+slug: 'B07PYYRW1V-es Under Armour UA HOVR Sonic 3  Zapatillas Ligeras para Correr  de Alto Rendimiento para Hombre  Azul  Water/Spackle Blue/Orange Spark   45 EU'
 actualPrice: 85.25 EUR
 currency: EUR
 price: 85.25

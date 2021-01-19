@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bdl57iURL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0743L1WYH-es'
+slug: 'B0743L1WYH-es Rowenta XD9060E0 Cartucho antical para generadores Easy Steam y Fasteo centros de planchado  reduce el tiempo de calentamiento y mejora el rendimiento'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

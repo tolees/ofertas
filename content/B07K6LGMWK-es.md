@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Mh3oYnx0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6LGMWK-es'
+slug: 'B07K6LGMWK-es Asics Gel-Nimbus 21  Zapatillas de Running para Hombre  Azul  Illusion Blue/Black 400   40.5 EU'
 actualPrice: 70.49 EUR
 currency: EUR
 price: 70.49

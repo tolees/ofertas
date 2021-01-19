@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uxuzPiImL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPXRNGC-es'
+slug: 'B07KPXRNGC-es Max Factor  Base de maquillaje  Corrector del color y refrescante  1 Unidad  30 ml'
 actualPrice: 6.62 EUR
 currency: EUR
 price: 6.62

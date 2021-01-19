@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41W5loKN-4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YWYKYYR-es'
+slug: 'B07YWYKYYR-es NUONA Humidificador Ultrasónico Silencioso  400ml Aceites Esenciales Difusor Aromaterapia Con [7 Luces de Colores][Control Remoto][Temporizador] para Niños Apartamento Sala de Estar Dormitorio Oficina'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

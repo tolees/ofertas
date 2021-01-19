@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z9ntJohxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG16TR3-es'
+slug: 'B07KG16TR3-es PUMA LQDCELL Optic Rave  Zapatillas de Running para Hombre  Black  43 EU'
 actualPrice: 30.3 EUR
 currency: EUR
 price: 30.3

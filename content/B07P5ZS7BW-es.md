@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UxrO26h+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5ZS7BW-es'
+slug: 'B07P5ZS7BW-es Wrangler Arizona Pantalones  Gris  Smoked Pearl M03   W32/L34  Talla del Fabricante: 32/34  para Hombre'
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

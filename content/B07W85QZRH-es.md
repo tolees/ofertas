@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wGF21v6BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W85QZRH-es'
+slug: 'B07W85QZRH-es Vicloon Funda de Maleta  20-Pulgadas Cubierta de Maleta Protector de Equipaje  Material de PVC Transparente Viajar Protector de Equipaje  Reutilizable  Lavable  Impermeable y a Prueba de Polvo'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

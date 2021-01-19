@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vfeg4GvWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0188XP7EO-es'
+slug: 'B0188XP7EO-es Medisana NM 870 Masajeador de cuello con masaje vibratorio  media luna para el cuello ideal para el hogar  la oficina o de camino  calmante para el cuello y los hombros'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410yP5GMqFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0090XOFD6-es'
+slug: 'B0090XOFD6-es Sisley Contorno de Ojos - 450 gr'
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

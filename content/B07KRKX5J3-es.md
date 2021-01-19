@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XnAg9orxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRKX5J3-es'
+slug: 'B07KRKX5J3-es New Balance 373 Zapatillas Hombre  Rojo  Red Red   39.5 EU  6 UK '
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

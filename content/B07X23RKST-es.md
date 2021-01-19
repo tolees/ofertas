@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BY4N7xz-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X23RKST-es'
+slug: 'B07X23RKST-es EASE LEAP Calcetines Ejecutivos para Hombre Largos Negros Algodón Transpirables y Cómodo Talla40-48 5/10 Pares  con Cajita de Regalo/ Negro Alistado 5 Pares '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

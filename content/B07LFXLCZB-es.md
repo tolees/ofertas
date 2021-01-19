@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-vOBG-b7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFXLCZB-es'
+slug: 'B07LFXLCZB-es Zerodis Deshumidificador de Aire portátil 800ml  Mini Deshumidificador Portátil y Silencioso'
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

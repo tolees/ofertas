@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vSdDicS3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001MZV1V4-es'
+slug: 'B001MZV1V4-es Eukanuba Daily Care Adulto Piel sensible [2 3 Kg]'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

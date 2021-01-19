@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MrTPZOZcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXR7MPM-es'
+slug: 'B07TXR7MPM-es Wrangler Icons Jeans  Blue 3 Years 10K  31W / 32L para Hombre'
 actualPrice: 19.13 EUR
 currency: EUR
 price: 19.13

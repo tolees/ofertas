@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w+iuNEUlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CWYS46-es'
+slug: 'B071CWYS46-es Lictin 100pcs Bolsas de Pastelería Mangas Pastelera deshechable Manga repostería para Fondant Decoración'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HqosWMKyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DF9CH5B-es'
+slug: 'B07DF9CH5B-es Funko Marvel Comics Figura Pop de Prowler  Color Mulitcolor  33980 '
 actualPrice: 9.65 EUR
 currency: EUR
 price: 9.65

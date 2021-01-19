@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41djpNLoOML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2PPP83-es'
+slug: 'B07Q2PPP83-es Magic Wand Massager James love Masajeador Eléctrica Recargable Con 20 patrones de vibración y 8 velocidades - Carga por USB  Blanco '
 actualPrice: 26.69 EUR
 currency: EUR
 price: 26.69

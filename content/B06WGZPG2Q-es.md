@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jabZ5CqSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WGZPG2Q-es'
+slug: 'B06WGZPG2Q-es Philips S5630/45 - Afeitadora electrica  uso en seco y en humedo  60 min bateria  recortador precision  nariz  turbo+'
 actualPrice: 98.0 EUR
 currency: EUR
 price: 98.0

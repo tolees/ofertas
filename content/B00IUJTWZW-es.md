@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415IpJKIG-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IUJTWZW-es'
+slug: 'B00IUJTWZW-es S&R Juego de brocas HSS COBALTO Rectificadas para metal 1 5-6 5 mm  13 unidades  DIN 338  acero aleado con cobalto  corte tipo C según DIN 1412  135 ° Caja metálica'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

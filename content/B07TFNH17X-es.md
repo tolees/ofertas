@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DywhMsejL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFNH17X-es'
+slug: 'B07TFNH17X-es Crystals&Stones Mujer plata de ley 925 plata'
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

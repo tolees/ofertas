@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21sCHK4V70L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NGK2A90-es'
+slug: 'B00NGK2A90-es Beter Pur Pedicur - Cortacallos con bisagra'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

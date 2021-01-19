@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C-vj5dPGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HX4L1X-es'
+slug: 'B078HX4L1X-es Monix Siena - Set de cubiertos de 24 piezas con cuchillo chuletero  acero inoxidable 18/10  diseño contemporaneo acabado pulido brillante  espesor 3 mm  6 comensales '
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

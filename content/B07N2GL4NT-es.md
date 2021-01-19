@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S2aCwSSEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2GL4NT-es'
+slug: 'B07N2GL4NT-es Cepillo de limpieza facial  cepillo facial electrónico con 5 cabezales de cepillo exfoliante  resistente al agua IPX6  funciona con pilas  adecuado para todo tipo de pieles  suave exfoliación y limpieza en profundidad.'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

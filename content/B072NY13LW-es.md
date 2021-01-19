@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zmredpZkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072NY13LW-es'
+slug: 'B072NY13LW-es Philips 223V7QHSB/00 - Monitor IPS de 21.5"  Full HD  1920x1080  Sin bordes  Flicker Free  Low Blue Mode  VESA  VGA + HDMI '
 actualPrice: 89 EUR
 currency: EUR
 price: 89

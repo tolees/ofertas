@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ai-IXxekL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCMUBBB-es'
+slug: 'B01NCMUBBB-es HP 803181-071 - Teclado  Estándar  Alámbrico  USB  Interruptor mecánico  QWERTY  Negro '
 actualPrice: 28.23 EUR
 currency: EUR
 price: 28.23

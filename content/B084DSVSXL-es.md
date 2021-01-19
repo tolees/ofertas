@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310eZ+oSRZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084DSVSXL-es'
+slug: 'B084DSVSXL-es Suavinex - Chupete para bebés 0-6 meses. Chupete con tetina anatómica de silicona. 0% BPA. Color gris.'
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

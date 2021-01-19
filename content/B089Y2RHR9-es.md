@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qHJxuvh8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089Y2RHR9-es'
+slug: 'B089Y2RHR9-es Clevefun - Cable USB C  1 m  2 unidades  nailon resistente  USB C  3 A  para Samsung Galaxy A41  A51  A71  A40  A50  A70  S10  S9  S8 Plus  S10e  S10 lite  Xiaomi Moto y Sony'
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

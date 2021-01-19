@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512i6-GMmQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FC3HA12-es'
+slug: 'B00FC3HA12-es Gran Hotel - Serie Completa [DVD]'
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

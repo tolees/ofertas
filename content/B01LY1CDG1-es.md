@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qwGBny1kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY1CDG1-es'
+slug: 'B01LY1CDG1-es Marcilla Café Grano Gran Aroma Mezcla - 1 Kg'
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

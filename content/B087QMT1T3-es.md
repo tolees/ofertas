@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uM+G9w5fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QMT1T3-es'
+slug: 'B087QMT1T3-es Dani - Cebolla escamas - Pack 12 x 40 gr.'
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

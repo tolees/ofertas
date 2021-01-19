@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nuZTbo0AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0166WY0KQ-es'
+slug: 'B0166WY0KQ-es LEVIS FOOTWEAR AND ACCESSORIES Alturas - Cinturón Hombre  Negro  BLACK   80 cm  Talla del fabricante: 80 '
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

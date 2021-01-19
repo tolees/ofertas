@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XGuYIGzML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B1VGY9T-es'
+slug: 'B08B1VGY9T-es Roberta Rossi Hobo artesanía mujer genuina piel de lavado de cuero con asa de cuero ajustable Made in Italy 25x32x12 cm RR00739FBLNAT'
 actualPrice: 182.99 EUR
 currency: EUR
 price: 182.99

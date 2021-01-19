@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61WvqC1RzQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F6ZFXBX-es'
+slug: 'B07F6ZFXBX-es Grand Line Cubiertas Impermeables para La Lluvia con Forro Protectores Diseñados para Hombres y Mujeres'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

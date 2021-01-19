@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UZi6Bjo3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXNVY97-es'
+slug: 'B06XXNVY97-es Panasonic Lumix DC-GH5 - Cámara EVIL de 20.3 MP  Pantalla de 3.2"  Visor OLED  Estabilizador Dual I.S. 2 5 Ejes  4K  Wi-Fi  Bluetooth'
 actualPrice: 999.95 EUR
 currency: EUR
 price: 999.95

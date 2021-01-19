@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e8QhdAE3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BYSPVCD-es'
+slug: 'B07BYSPVCD-es GRÜNTEK Tijera Cortasetos de dos manos LEOPARD 540 mm. Cortarramas y yunque con corte Bypass  Hoja en acer 78mm. Tijeras de podar jadín lígera y poderosa. Garantia a 90 días'
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

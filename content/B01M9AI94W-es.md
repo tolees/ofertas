@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fw30VHg5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9AI94W-es'
+slug: 'B01M9AI94W-es HBF 8 Piezas Cinta Para El Pelo Bebe Algodón Mariposa Diadema Elástica Niñas Banda Para Cabeza'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

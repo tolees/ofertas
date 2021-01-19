@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pozm5zWUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZFBZKTK-es'
+slug: 'B00ZFBZKTK-es Cluse Reloj Analógico Automático para Mujer con Correa de Acero Inoxidable – CL18109'
 actualPrice: 54.05 EUR
 currency: EUR
 price: 54.05

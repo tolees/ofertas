@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IRYFQ7HXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TJ7CJN-es'
+slug: 'B083TJ7CJN-es TONGJI Vitrina de Acrílico Compatible con Lego 21309 Ideas-NASA Apolo Saturno V  Vitrina A Prueba De Polvo  Modelo No Incluido '
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

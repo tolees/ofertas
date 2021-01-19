@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51WJFmhr67L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DGK5S2K-es'
+slug: 'B01DGK5S2K-es E-Vitta PCS71103EVLB000302 - Maletín para Ordenador portátil de hasta 16"  Color Morado'
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

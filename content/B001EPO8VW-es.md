@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qeFSAh1AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001EPO8VW-es'
+slug: 'B001EPO8VW-es Cattier Leche desmaquilladora Caresse d Herboriste - 200 ml'
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

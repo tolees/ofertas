@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dCvGGcZoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084Z5HYBR-es'
+slug: 'B084Z5HYBR-es Juego de 3 Maletas rígidas con Barra Extensible y cómodas Asas  Maletas de Viaje con Ruedas  Ligeras. Topflight - Luz de Color Oro Rosa M + L + XL'
 actualPrice: 60.11 EUR
 currency: EUR
 price: 60.11

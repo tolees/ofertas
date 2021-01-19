@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r9ZekMeUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRF9SSH-es'
+slug: 'B07NRF9SSH-es Fa - Desodorante Roll-On Limones del Caribe - Anti Transpirable y fiable contra el olor corporal - 3 uds de 50ml'
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65

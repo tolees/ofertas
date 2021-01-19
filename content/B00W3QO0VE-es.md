@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qe4wpbWzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W3QO0VE-es'
+slug: 'B00W3QO0VE-es Nokia Lumia 640 XL - Smartphone 5.7"  3G  Qualcomm MSM8926 Snapdragon 400  1 GB de RAM  Dual SIM  color negro'
 actualPrice: 132.43 EUR
 currency: EUR
 price: 132.43

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B7wHcS1SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZQFTY-es'
+slug: 'B07KFZQFTY-es Puma LQDCELL Tension  Zapatillas Deportivas para Interior para Hombre  White-Blue Turquoise  43 EU'
 actualPrice: 33.13 EUR
 currency: EUR
 price: 33.13

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eG82IyZLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGQFFBZ-es'
+slug: 'B07PGQFFBZ-es IKOHS Best Toast - Tostadora'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

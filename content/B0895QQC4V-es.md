@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bv6G51qjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895QQC4V-es'
+slug: 'B0895QQC4V-es Wakana Ventilador Portatil  Ventilador Cuello  Diseño de Auriculares  USB Recargable Mini Ventilador de Manos Libres  3 velocidades  luz LED  para Mascotas Viajes Interior Exterior-Blanco'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

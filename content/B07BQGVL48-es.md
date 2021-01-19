@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41i4E3Y1NhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQGVL48-es'
+slug: 'B07BQGVL48-es ORNARTO Funda Huawei P20 Lite  HW P20 Lite Carcasa [Ultra-Delgado] [Ligera] Mate Anti-arañazos y Antideslizante Protectora Sedoso Caso para Huawei P20 Lite 2018  5.84  Oro Rosa'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

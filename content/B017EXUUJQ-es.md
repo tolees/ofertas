@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415F+tyZC7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017EXUUJQ-es'
+slug: 'B017EXUUJQ-es STANLEY FATMAX FME190-QS - Mezclador de pintura 1.600W  80Nm'
 actualPrice: 102.05 EUR
 currency: EUR
 price: 102.05

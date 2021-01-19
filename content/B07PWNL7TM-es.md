@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414SsKhx8lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWNL7TM-es'
+slug: 'B07PWNL7TM-es Under Armour UA GS Charged Pursuit 2  Zapatillas de Running Unisex Niños  Negro  Black/White/White   38.5 EU'
 actualPrice: 33.19 EUR
 currency: EUR
 price: 33.19

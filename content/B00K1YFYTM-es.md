@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NPX33PebL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K1YFYTM-es'
+slug: 'B00K1YFYTM-es Emporio Armani Underwear 111357CC717 - Calzoncillos Para Hombre  Blanco  BIANCO 00110   talla del fabricante: S  paquete de 3'
 actualPrice: 28.65 EUR
 currency: EUR
 price: 28.65

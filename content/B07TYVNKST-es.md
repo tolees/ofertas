@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31L4yLWWiGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYVNKST-es'
+slug: 'B07TYVNKST-es TBS Phenis  Náuticos para Hombre  Gris  Gris Clair D8261   39 EU'
 actualPrice: 51.93 EUR
 currency: EUR
 price: 51.93

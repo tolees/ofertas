@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JOkVVHTbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYPQD38-es'
+slug: 'B07JYPQD38-es Tommy Hilfiger TJM Tommy Classics Solid Polo  Gris  Lt Grey Htr 038   Small para Hombre'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

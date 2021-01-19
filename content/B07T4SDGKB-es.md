@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41797%2BD2YwL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4SDGKB-es'
+slug: 'B07T4SDGKB-es Nike Women s Revolution 4 Running Shoe  Mujer  Azul  Half Blue/Black/Wolf Grey/White 407   38 EU'
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

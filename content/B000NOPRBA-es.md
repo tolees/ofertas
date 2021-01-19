@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u0yHJmwiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NOPRBA-es'
+slug: 'B000NOPRBA-es Shimano SMMAF180PSA - Adaptador Pinza Delant. Std M535 180 Mm'
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

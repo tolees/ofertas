@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oA5pNrWiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRLD7JR-es'
+slug: 'B07HRLD7JR-es PREMYO Bandas Reflectantes Set de 4 Ajustable Brazalete Alta Visibilidad al Correr Ciclismo Deportistas Niños Actividad al Aire Libre Cinta Reflectante Banda Seguridad Cierre de Velcro Amarillo Neón'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

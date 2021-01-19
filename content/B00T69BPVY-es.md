@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Go6jApMsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T69BPVY-es'
+slug: 'B00T69BPVY-es Chicco TP-8058664042913 Vendor  Dispositivo Anti Mosquitos Electrónicos  Blanco  Tamaño Único'
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

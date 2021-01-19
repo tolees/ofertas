@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QkLEhGJ7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FQKNR4-es'
+slug: 'B075FQKNR4-es Imanes Neodimio  FEYG imanes pequeños potentes Imanes Nevera  neodimio con muy alta adhesiva fuerza 8X3mm   60pc '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

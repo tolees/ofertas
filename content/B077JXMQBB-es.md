@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XKaRQvtFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077JXMQBB-es'
+slug: 'B077JXMQBB-es Pala De Padel Head Stratos Pro Ltd'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

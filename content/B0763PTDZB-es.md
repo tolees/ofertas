@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xQ+pVVRRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0763PTDZB-es'
+slug: 'B0763PTDZB-es MolinQ Cartera para Tarjetas de Crédito | Tarjetero Pequeño para Hombre y Mujer | Bloqueo RFID | Incluye 1 Mini Cartera Gratis | Titular de la Tarjeta Negro'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

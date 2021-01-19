@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C0czVgImL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XJ1FY86-es'
+slug: 'B06XJ1FY86-es Corsair K95 RGB Platinum - Teclado mecánico Gaming  Cherry MX Brown  retroiluminación multicolor RGB  QWERTY Español   negro'
 actualPrice: 136.71 EUR
 currency: EUR
 price: 136.71

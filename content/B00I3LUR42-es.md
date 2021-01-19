@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eFSOOhTjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I3LUR42-es'
+slug: 'B00I3LUR42-es Sony MDR-EX15LP - Auriculares In-Ear  Blanco'
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

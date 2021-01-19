@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y-AF9SiKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S974DFP-es'
+slug: 'B07S974DFP-es Crocs Swiftwater Expedition Sandal Kids  Sandalia con Pulsera Unisex Niños  Azul  Navy/Navy 463   34/35 EU'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

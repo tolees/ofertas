@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E-V9cG3-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PJPQV2-es'
+slug: 'B077PJPQV2-es AMD E1-7010 - 4GB - 1TB -  DVD Supermulti - Teclado y Ratón USB  - Windows 10'
 actualPrice: 197.08 EUR
 currency: EUR
 price: 197.08

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418iRpzjYoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CMWLRLF-es'
+slug: 'B08CMWLRLF-es atFoliX Lámina Protectora de Pantalla Compatible con TCL Movetime Película Protectora  Ultra Transparente FX Lámina Protectora  3X '
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

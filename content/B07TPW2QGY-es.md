@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UL4HLR5HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPW2QGY-es'
+slug: 'B07TPW2QGY-es Superdry Poolside Pique S/s Polo  Gris  Black/Grey Marl Nln   Medium para Hombre'
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

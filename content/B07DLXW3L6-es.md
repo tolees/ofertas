@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IDBsCGyWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLXW3L6-es'
+slug: 'B07DLXW3L6-es Panama Jack Tania  Botas Altas para Mujer  Azul  Marino B31   37 EU'
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

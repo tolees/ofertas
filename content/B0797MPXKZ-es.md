@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31v2gyWvWGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797MPXKZ-es'
+slug: 'B0797MPXKZ-es Huawei E5885 - Wi-Fi Móvil  300Mbps de conexión inalámbrica  Wi-Fi Hotspot móvil con 6400mAh de batería  Banda Dual 2.4G&5G  Ranura Tarjeta SIM/Micro SD  hasta un máximo de 32 usuarios   Negro'
 actualPrice: 121.4 EUR
 currency: EUR
 price: 121.4

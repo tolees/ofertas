@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YCkPJlyLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RP9ML6R-es'
+slug: 'B07RP9ML6R-es HARRY POTTER Set Imanes  Multicolor  18 x 24 x 0  3 cm'
 actualPrice: 7.74 EUR
 currency: EUR
 price: 7.74

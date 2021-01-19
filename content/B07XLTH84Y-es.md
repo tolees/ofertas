@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vb0l4a8BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLTH84Y-es'
+slug: 'B07XLTH84Y-es Old Spice Citron Antitranspirante y Desodorante en Barra para Hombres - 50 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EzaVUXL7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXUQI5D-es'
+slug: 'B01MXUQI5D-es Maybelline New York - Color Sensational  Pintalabios Mate Hidratante  Tono 982 Peach Buff'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

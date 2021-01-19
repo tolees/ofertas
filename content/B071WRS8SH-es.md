@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oE%2Bb40aBL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WRS8SH-es'
+slug: 'B071WRS8SH-es Lenny Sky EG.Liberty.PYV.MZ Conjunto Ropa Deportiva  Gris  Gris Ch/Anthra Ch   12 años para Niñas'
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

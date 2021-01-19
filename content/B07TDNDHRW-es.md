@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-Ytj4Lu1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDNDHRW-es'
+slug: 'B07TDNDHRW-es Exquisite Gaming - Cable guy Chun Li  soporte de sujeción y carga para mando de consola y/o smartphone de tu personaje favorito con licencia de Street Fighter  Producto con licencia oficial'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

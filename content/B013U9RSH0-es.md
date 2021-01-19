@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GrIitZnaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013U9RSH0-es'
+slug: 'B013U9RSH0-es Remington PG6130 Groomkit - Recortador multifunción  cuchillas con revestimiento de titanio autoafilables  cuatro cabezales  inalámbrico  batería  negro'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

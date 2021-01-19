@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ChERxwvoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQHH1GT-es'
+slug: 'B07JQHH1GT-es AngLink Mechero Electrico  Encendedor USB Doble Arco Eléctrico - Mechero Recargable y Resistente al Viento con Indicación de Batería para Cigarrillos Velas Cocina  Caja de Regalo '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

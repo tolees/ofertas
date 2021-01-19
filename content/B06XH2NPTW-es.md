@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kWNkKIKML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XH2NPTW-es'
+slug: 'B06XH2NPTW-es Helly Hansen HH LIFA Merino Crew LS Baselayer  Hombre  Negro  2XL'
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

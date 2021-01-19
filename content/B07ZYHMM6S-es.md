@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-eKl6l09L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYHMM6S-es'
+slug: 'B07ZYHMM6S-es Luchild Saco de Invierno Universal para Cochecito y Silla de Paseo - Protección Antideslizante  Forro Polar térmico Deluxe  Capucha Tipo Momia'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

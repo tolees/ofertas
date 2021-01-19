@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mAdrO0KHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FJ314FS-es'
+slug: 'B00FJ314FS-es Rimmel London Moisture Renew Barra De Labios Tono 360 As Want Victoria- 19 gr'
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

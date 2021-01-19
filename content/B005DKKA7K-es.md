@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415tBvwiPLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005DKKA7K-es'
+slug: 'B005DKKA7K-es Constantin Durmont Calendar - Reloj analógico de caballero automático con correa de piel negra - sumergible a 30 metros'
 actualPrice: 167.14 EUR
 currency: EUR
 price: 167.14

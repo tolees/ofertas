@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VjpShpcUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J1V4R6Z-es'
+slug: 'B07J1V4R6Z-es Petusco - Naomi Pistacho Piel de vacuno tipo grano y grabado logotipo'
 actualPrice: 120.0 EUR
 currency: EUR
 price: 120.0

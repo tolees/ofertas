@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TKwwhKw2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWC27T3-es'
+slug: 'B06XWC27T3-es eXtremeRate Conjunto Completo de Pegatinas Cubierta Adhesiva Protectora de Piel Kit de protección para Consola Joy-con Radiador de Nitendo Switch con 2 Protectores de Pantalla Universo Naranja'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

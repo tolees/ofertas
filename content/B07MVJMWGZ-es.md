@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DKRFv2aKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJMWGZ-es'
+slug: 'B07MVJMWGZ-es Kipling Creativity S  Cartera para Mujer  Multicolor  Tile Print   14.5x9.5x5 cm'
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

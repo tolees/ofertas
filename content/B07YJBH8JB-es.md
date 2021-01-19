@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-9CzqbkxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJBH8JB-es'
+slug: 'B07YJBH8JB-es COMVIP Cojín Trenzado de Felpa con Nudos para Cuna  decoración del hogar  Tela  Pink/White/Blue  3 m'
 actualPrice: 53.29 EUR
 currency: EUR
 price: 53.29

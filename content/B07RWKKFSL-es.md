@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Trc77QhtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWKKFSL-es'
+slug: 'B07RWKKFSL-es Nike Dri-FIT Sports Bra G Sujetador Deportivo  Niñas  Rosa  Pink Gaze/White   L  146-156 CM '
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

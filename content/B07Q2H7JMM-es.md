@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41An5Q7vUUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2H7JMM-es'
+slug: 'B07Q2H7JMM-es Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket Outerwear-Jackets  Negro  XL'
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

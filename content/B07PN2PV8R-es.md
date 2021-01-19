@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wz5EjQbkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PN2PV8R-es'
+slug: 'B07PN2PV8R-es Yafido LED Transformador 220V a 12V Trafo 50W 4.17A LED Driver Fuente de Alimentación para Bajo Voltaje Bombillas G4 MR16 GU5.3 MR11 Tira LED'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

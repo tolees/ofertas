@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511P2CtZZKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8HWPZ9-es'
+slug: 'B07K8HWPZ9-es MOSNOVO [Transparente Funda iPhone XR con Absorción de Choque Resistente para Apple iPhone XR [Sushi]'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

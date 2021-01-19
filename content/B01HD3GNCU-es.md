@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518jj1+INTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD3GNCU-es'
+slug: 'B01HD3GNCU-es Pósteres Muestra Lata Arte de Cartel Café Placa Vintage Pub Barra Metálica Decoración Motocicleta 34'
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

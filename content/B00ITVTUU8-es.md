@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iujNA7goL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ITVTUU8-es'
+slug: 'B00ITVTUU8-es PALMERA IR0897334W'
 actualPrice: 19.07 EUR
 currency: EUR
 price: 19.07

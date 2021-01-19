@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cBkAZHlBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MH1QMW4-es'
+slug: 'B07MH1QMW4-es Only NOS Onlpoptrash Easy Colour Pant Pnt Noos Pantalones  Rosa  Pale Mauve Pale Mauve   42 /L34  Talla del Fabricante: XX-Large  para Mujer'
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

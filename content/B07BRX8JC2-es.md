@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410oCRxHUPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRX8JC2-es'
+slug: 'B07BRX8JC2-es LEVIS FOOTWEAR AND ACCESSORIESBanana SlingHombreShoppers y bolsos de hombroRojo  B Red 5.5x10x25.5 centimeters  W x H x L '
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

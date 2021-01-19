@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pbypaybmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4ZGXR1-es'
+slug: 'B07K4ZGXR1-es adidas Handball Spezial  Sneaker Mens  Collegiate Navy/Clear Sky/Gum  38 EU'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

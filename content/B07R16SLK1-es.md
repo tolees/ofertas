@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411eLz8QrxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R16SLK1-es'
+slug: 'B07R16SLK1-es Helly Hansen Classic Duffel Bolsa De Viaje Impermeable Deporte  Unisex Adulto  Nightshade  30L'
 actualPrice: 58.87 EUR
 currency: EUR
 price: 58.87

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OTp%2BInloL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRLGSSS-es'
+slug: 'B07KRLGSSS-es New Balance Yc373v1  Zapatillas para Niños  Rojo  Burgundy Burgundy   34.5 EU'
 actualPrice: 30 EUR
 currency: EUR
 price: 30

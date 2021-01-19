@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zUEbeweBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078VJ8MDM-es'
+slug: 'B078VJ8MDM-es Sony WISP600NY.CE7 - Auriculares deportivos inalámbricos  modo sonido ambiente  cancelación de ruido  Bluetooth y NFC   color amarillo'
 actualPrice: 56.42 EUR
 currency: EUR
 price: 56.42

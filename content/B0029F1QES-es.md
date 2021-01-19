@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cWw-Vqx2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0029F1QES-es'
+slug: 'B0029F1QES-es Leifheit Limpiacristales Professional  limpiaventanas con regleta de Goma para una Limpieza sin Huellas  rasqueta limpiacristales con Mango de Goma'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

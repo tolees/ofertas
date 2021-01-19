@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ae2raDwGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ78ZS6-es'
+slug: 'B07JQ78ZS6-es HUTACT Militares Prismáticos Profesionales  Compacto de 10x50 Pequeños y Potentes  con Brújula y Medición de Dirección  Telémetro Incorporado  para Caza  Marina  Pesca  Observación de Aves'
 actualPrice: 112.99 EUR
 currency: EUR
 price: 112.99

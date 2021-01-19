@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31i+jElNRCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CKZQ93-es'
+slug: 'B076CKZQ93-es SAMSONITE Laptop Bag 14.1"  Space Blue  -Network 3  Equipaje de Mano  0 cm  Azul'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

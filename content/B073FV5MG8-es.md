@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GS-vFwTaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073FV5MG8-es'
+slug: 'B073FV5MG8-es Tamron T81065 - Objetivo para cámara Canon  SP 24-70mm  Apertura F/2.8 Di  Rendimiento de estabilización VC USD G2  A032 '
 actualPrice: 1011.95 EUR
 currency: EUR
 price: 1011.95

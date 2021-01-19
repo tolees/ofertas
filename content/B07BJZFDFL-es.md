@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EeS+IrdyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJZFDFL-es'
+slug: 'B07BJZFDFL-es NOVECASA Pantalones Cortos Suana Deportivos Mujer de Neopreno Sauna Pants Alta Cintura para Sudoración Quema Grasa Adelgazante  2XL  Pantalones Cortos '
 actualPrice: 13.96 EUR
 currency: EUR
 price: 13.96

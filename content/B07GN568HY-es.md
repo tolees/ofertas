@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417xkXq-i8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GN568HY-es'
+slug: 'B07GN568HY-es Tableta de escritura LCD SUNLU  Tablero de escritura y dibujo electrónico de 9 pulgadas  Bloc de notas de escritura portátil  Regalo para niños y adultos  Regalo navideño Rosa '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

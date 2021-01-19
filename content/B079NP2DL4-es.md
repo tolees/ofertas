@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J2o9+GFHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NP2DL4-es'
+slug: 'B079NP2DL4-es Macallan Triple Cask 15 Años Single Malt Whisky Escoces  43% - 700 ml'
 actualPrice: 47.15 EUR
 currency: EUR
 price: 47.15

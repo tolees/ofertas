@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eYGTqR+xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088D6CVL3-es'
+slug: 'B088D6CVL3-es Suhctup Funda Compatible para Xiaomi Mi 5X/A1 Carcasa Transparente Dibujos Animal Suave Silicona TPU Gel Bumper Ultra Pulgada Antigolpes Crystal Clear Protector Piel Case Cover Panda 5'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

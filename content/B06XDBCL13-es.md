@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hz6CS4AVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDBCL13-es'
+slug: 'B06XDBCL13-es Vicloon Grifo Dispensador de bebidas de repuesto  Acero Inoxidable Barril Grifo espiga Grifo Dispensador de Cerveza - 16mm'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

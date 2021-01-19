@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lYM4okQWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BC5PSHF-es'
+slug: 'B07BC5PSHF-es Bourjois Satin Edition Sombra de Ojos Líquida Tono 1 Beige seller - 28 gr'
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

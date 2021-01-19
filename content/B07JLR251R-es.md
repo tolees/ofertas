@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NGjxGl8CL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLR251R-es'
+slug: 'B07JLR251R-es Lee Breese Pantalones para Mujer  Negro  Pitch Raw Hem Lw   27W / 33L'
 actualPrice: 18.2 EUR
 currency: EUR
 price: 18.2

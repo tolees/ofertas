@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311XmXPjf3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7XQM9V-es'
+slug: 'B07V7XQM9V-es Tommy Hilfiger Essential Nautical Sneaker  Zapatillas para Mujer  Azul  Desert Sky Dw5   39 EU'
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

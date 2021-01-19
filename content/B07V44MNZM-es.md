@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xc8D3YIcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V44MNZM-es'
+slug: 'B07V44MNZM-es Pantalones de Verano de Mujer con Cintura Elástica con Lazo Bodycon Slim Fit Verde Oliva S Claf1011-3'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

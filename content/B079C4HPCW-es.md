@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L45W1aXPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079C4HPCW-es'
+slug: 'B079C4HPCW-es Birkenstock Rio  Sandalia con Pulsera para Niñas  Blanco Metallic Stones White  29 EU'
 actualPrice: 35.93 EUR
 currency: EUR
 price: 35.93

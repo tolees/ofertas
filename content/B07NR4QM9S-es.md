@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316nQUgbJSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NR4QM9S-es'
+slug: 'B07NR4QM9S-es Samsung Galaxy Tab S5e Wi Fi SM-T720 64GB  plateado alemán versión'
 actualPrice: 267.35 EUR
 currency: EUR
 price: 267.35

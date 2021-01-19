@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Fkuz82KIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HKF1LTW-es'
+slug: 'B00HKF1LTW-es Anima AF8 - Ventilador para ordenador  1800 rpm  0.12 A  1.44 W  ecológico y silencioso  50.000 horas de funcionamiento  8 cm  7 aspas   color negro'
 actualPrice: 2.08 EUR
 currency: EUR
 price: 2.08

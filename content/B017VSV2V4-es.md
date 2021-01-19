@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61oQiz0V72L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017VSV2V4-es'
+slug: 'B017VSV2V4-es JUGUETE DE PINTURA POR NUMEROS - Paisaje - INTERHOME©'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

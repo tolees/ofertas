@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417I7jqMgIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000G4OZ4M-es'
+slug: 'B000G4OZ4M-es adidas Originals Mundial Team  Botas de fútbol Unisex Adulto  Black/Running White FTW/Red  46 EU'
 actualPrice: 70.35 EUR
 currency: EUR
 price: 70.35

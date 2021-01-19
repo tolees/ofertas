@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61BrKaGjVOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083L6Z2QH-es'
+slug: 'B083L6Z2QH-es Ballet Girl Night Light para Niños  Luces de Lámpara de Ilusión 3D  Lámpara de Noche Cambiante de 16 Colores  Regalos de Vacaciones y Cumpleaños para Niños  Niñas y Adultos'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

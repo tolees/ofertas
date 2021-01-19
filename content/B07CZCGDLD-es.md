@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51f0Qqr63UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZCGDLD-es'
+slug: 'B07CZCGDLD-es ieGeek Reproductor de DVD rosso N'
 actualPrice: 58.35 EUR
 currency: EUR
 price: 58.35

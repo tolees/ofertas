@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+NrhAh4iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTVMRX2-es'
+slug: 'B07RTVMRX2-es LTDNB Cargador Inalámbrico Rápido Qi Wireless Charger por Inducción Compatible con iPhone X /8 Plus/iPhone XS/XS MAX/XR  Samsung S10 /S10e /Note9 /S9 / S8 Plus /S8-Blanco'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41idjnS56dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083PXYGG6-es'
+slug: 'B083PXYGG6-es Adaptador USB C a HDMI VGA  KOOPAO 2 en 1 Tipo C Thunderbolt 3 a 4K Adaptador HDMI + 1080P Compatible con MacBook Air ipad Pro Píxeles Dell XPS Matebook Galaxy Note Huawei HTC Más dispositivos USB-C'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

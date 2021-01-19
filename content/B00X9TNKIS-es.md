@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YE6Ot9IYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9TNKIS-es'
+slug: 'B00X9TNKIS-es Garnier Delial Spray Protector Hidratante 24 Horas  con SPF30 - 300 ml'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

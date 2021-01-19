@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yw+OLredL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012GX5HQK-es'
+slug: 'B012GX5HQK-es iMixCity Conjuntos de Lencería Mujer Encaje Atractivo Pasión Babydoll Ropa de Dormir  Rojo  M '
 actualPrice: 7.08 EUR
 currency: EUR
 price: 7.08

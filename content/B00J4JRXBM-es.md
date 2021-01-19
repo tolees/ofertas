@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-DvnX+CWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J4JRXBM-es'
+slug: 'B00J4JRXBM-es Xylazel M57858 - Carcomas 750 ml'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

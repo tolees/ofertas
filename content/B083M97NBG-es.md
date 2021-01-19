@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31P3FEbqYaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083M97NBG-es'
+slug: 'B083M97NBG-es PAYMA - Zapatillas Botas de Lona para Mujer. Bambas Playeras de Deporte Casual Caminar. Piso Doble. Negras y Blancas'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

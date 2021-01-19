@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313sPzsk-VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V54Z3CM-es'
+slug: 'B07V54Z3CM-es Amarillo 25 x 22 x 2 mm  L x W xH  2 Piezas Adaptador Micro SD de Tarjeta SD MASD-1 para Insertar en la Tarjeta XD para Olympus'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

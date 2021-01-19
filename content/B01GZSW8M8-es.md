@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OxJQarMBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GZSW8M8-es'
+slug: 'B01GZSW8M8-es WILIT T3 Lámpara de Escritorio Táctil  Flexo LED Regulable  Lámpara de Mesa Ajustable  256 RGB Luz de Color  3 Niveles de Brillo  Brazo Tipo Cuello de Cisne  Protección para los Ojos  5W  Blanco'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

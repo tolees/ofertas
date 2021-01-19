@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zfFycc3uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQF3G7F-es'
+slug: 'B07YQF3G7F-es Almirón Galletitas sin gluten a partir de los 4 meses 180g'
 actualPrice: 1.34 EUR
 currency: EUR
 price: 1.34

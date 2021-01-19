@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dIhjHrpnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SHL89Q6-es'
+slug: 'B00SHL89Q6-es Selvi 3600 - Bloc manualidades'
 actualPrice: 4.64 EUR
 currency: EUR
 price: 4.64

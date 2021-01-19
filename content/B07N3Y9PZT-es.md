@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316uyN9cXfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3Y9PZT-es'
+slug: 'B07N3Y9PZT-es Desigual Belts Wrap ME Stars Cinturón  Verde  MUSGO 4000   85 para Mujer'
 actualPrice: 14.58 EUR
 currency: EUR
 price: 14.58

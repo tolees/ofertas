@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/313UtvfvT9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNZY759-es'
+slug: 'B07MNZY759-es Nike Air MAX Infuriate III Low  Zapatillas de Baloncesto para Hombre  Multicolor  Phantom/Black/Wolf Grey/Gum Light Brown 5   40.5 EU'
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

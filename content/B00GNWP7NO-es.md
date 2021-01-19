@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XmdIq0zNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GNWP7NO-es'
+slug: 'B00GNWP7NO-es Nike Revolution 4  TDV   Zapatillas de Marcha Nórdica Unisex Niños  Negro  Black/White/Anthracite 006   26 EU'
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

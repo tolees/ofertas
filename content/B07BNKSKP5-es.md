@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jlq0oUnOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BNKSKP5-es'
+slug: 'B07BNKSKP5-es LEDKIA LIGHTING Lámpara de Techo Orientable Ates 4 Focos Negro Negro'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

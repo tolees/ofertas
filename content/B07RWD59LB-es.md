@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-DsJK8f6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWD59LB-es'
+slug: 'B07RWD59LB-es JACK & JONES NOS Jcojonah Sweat Hood STS. Capucha  Marrón  Fudge Fudge   Small para Hombre'
 actualPrice: 16.66 EUR
 currency: EUR
 price: 16.66

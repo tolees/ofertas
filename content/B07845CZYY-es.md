@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KmbQEf5iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07845CZYY-es'
+slug: 'B07845CZYY-es Remescar - Mirada cansada - Crema para los ojos hinchados o cansados - Crema de ojos antienvejecimiento para líneas de expresión y arrugas finas'
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

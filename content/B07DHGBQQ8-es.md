@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fHSlwaeyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHGBQQ8-es'
+slug: 'B07DHGBQQ8-es INTEY Perchero de Pie  Perchero de Burro de Metal  Resistente y Multifuncional con 2 Estantes y 4 Ganchos  Carga Máx. 40kg  75x43x158cm / 29 52x16 92x62 2in  Ideal para Hogar  Oficina y Hotel - Blanco'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

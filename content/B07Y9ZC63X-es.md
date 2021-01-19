@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316V+HSml-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9ZC63X-es'
+slug: 'B07Y9ZC63X-es Monitor 27   Gigabyte AORUS CV27Q'
 actualPrice: 325.93 EUR
 currency: EUR
 price: 325.93

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NSndQKWUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXLFTHP-es'
+slug: 'B07RXLFTHP-es New Balance 574v2  Zapatillas para Hombre  Azul  Navy SPZ   39.5 EU'
 actualPrice: 50.07 EUR
 currency: EUR
 price: 50.07

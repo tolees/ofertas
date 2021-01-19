@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31548ZwmZ7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000CD9U6A-es'
+slug: 'B000CD9U6A-es Pyrex Classic Vidrio - Fuente rectangular  38 x 25 cm'
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

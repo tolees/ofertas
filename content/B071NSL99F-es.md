@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sn-DwlqwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071NSL99F-es'
+slug: 'B071NSL99F-es TomTom VIA 53  GPS Navegación con pantalla táctil de 5 pulgadas  mapa de 48 países  planifica rutas inteligentes que te ayudan a escapar del tráfico en tiempo real  color negro'
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

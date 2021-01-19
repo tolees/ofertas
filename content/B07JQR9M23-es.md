@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DOoUbWCuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQR9M23-es'
+slug: 'B07JQR9M23-es Tommy Hilfiger Tommy Jute City Sneaker  Zapatillas para Mujer  Rosa  Silver Peony 658   40 EU'
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

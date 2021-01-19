@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dux5hDLuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR85M7H-es'
+slug: 'B07FR85M7H-es Clarks Un Trail Step  Mocasines para Hombre  Negro  Black Nubuck -   40 EU'
 actualPrice: 40.12 EUR
 currency: EUR
 price: 40.12

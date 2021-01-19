@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qO531hLXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZWWHRQ-es'
+slug: 'B06ZZWWHRQ-es YAZILIND 18 k chapado en oro mujer joyer¨ªa exquisita elegante rhinestone colgante pendiente cuelgan aretes  rosa '
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

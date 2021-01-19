@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51S939a2n1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QNWKHL3-es'
+slug: 'B07QNWKHL3-es BODY & EARTH Canasta de regalo para mujeres  set de regalo Tulip Scent para mujeres con baño de espuma  gel de ducha  leche corporal con crema y loción y mucho más'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

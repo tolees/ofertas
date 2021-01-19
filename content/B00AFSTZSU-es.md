@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nCvDq2SyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AFSTZSU-es'
+slug: 'B00AFSTZSU-es Keter -  Caseta de jardín exterior Factor 6x6 con escuadra incluida  Color marrón / Beige'
 actualPrice: 360.0 EUR
 currency: EUR
 price: 360.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s+FOdb0uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCVVJ3G-es'
+slug: 'B07JCVVJ3G-es KAKOO 4pcs brazaletes Reflectantes Visibilidad Alta elástico Aire Libre  Deporte  Caminar  por la Noche'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

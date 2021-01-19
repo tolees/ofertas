@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oJC5eOgcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072FW62FM-es'
+slug: 'B072FW62FM-es Cool Area Toldo Vela de Sombra Rectangular 3 x 4 Metros Protección Rayos UV  Resistente y Transpirable para Patio Exteriores Jardín  Color Grafito'
 actualPrice: 52.98 EUR
 currency: EUR
 price: 52.98

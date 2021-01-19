@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51tgpabhroL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M28ZRE3-es'
+slug: 'B01M28ZRE3-es Prismáticos Bresser Corvette 10x42 rellenos de nitrógeno'
 actualPrice: 55.4 EUR
 currency: EUR
 price: 55.4

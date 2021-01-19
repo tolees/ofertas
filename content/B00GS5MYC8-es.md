@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nPAf3lFXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GS5MYC8-es'
+slug: 'B00GS5MYC8-es Bosch ARM 34 - Cortacésped  1300 W  230 V  34 cm de anchura de corte  ref. 06008A6101 '
 actualPrice: 121.99 EUR
 currency: EUR
 price: 121.99

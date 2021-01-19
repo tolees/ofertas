@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JEwWv026L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y4B87CG-es'
+slug: 'B07Y4B87CG-es JEEUE 4PCS TV Antena Macho Coaxial Enchufe a Enchufe F Conector Adaptador en ángulo recto de 90 grados'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

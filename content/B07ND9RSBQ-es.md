@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PvKuGrGQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND9RSBQ-es'
+slug: 'B07ND9RSBQ-es bugatti 311822604100  Botas clásicas. para Hombre  marrón  40 EU'
 actualPrice: 42.36 EUR
 currency: EUR
 price: 42.36

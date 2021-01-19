@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rcF6DOLbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR8D1JG-es'
+slug: 'B07FR8D1JG-es Nobleza - Pañales para Perros Desechables Macho Hembra Cachorro Entrenamiento Pañales Súper Absorbente Envolturas para Mascotas Paquete de 12 Cintura 30-18CM ，XS para 1-3 KG'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

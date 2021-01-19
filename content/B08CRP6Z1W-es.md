@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T++py-73L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRP6Z1W-es'
+slug: 'B08CRP6Z1W-es ZZZXX Pintar por Numeros Niños Chicas Sexy Niños Pintura por Números con Pinceles Y Pinturas Decoraciones para El Hogar  16 * 20 Pulgadas  Sin Marco '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

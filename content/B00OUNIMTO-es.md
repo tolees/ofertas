@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZHreSzV+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OUNIMTO-es'
+slug: 'B00OUNIMTO-es AUSONIA - 68301 JAMONERO PROFESIONAL DE BASE DE MADERA'
 actualPrice: 140.0 EUR
 currency: EUR
 price: 140.0

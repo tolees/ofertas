@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fc8NdTe9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071Z23TTN-es'
+slug: 'B071Z23TTN-es Scholl Plantillas Gel Activ Sport Mujer para Zapatillas Deportivas  35.5-40.5  1 par'
 actualPrice: 1.09 EUR
 currency: EUR
 price: 1.09

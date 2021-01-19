@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FzTgcocBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TBVHWS-es'
+slug: 'B088TBVHWS-es Webcam 1080P con Micrófono  Computadora Webcam para Videollamadas para Youtube  Skype  MSN  Facebook  Google Hangouts  Web CAM de USB Plug and Play para PC/Mac/Laptop/Desktop'
 actualPrice: 33.69 EUR
 currency: EUR
 price: 33.69

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jN-HpI5RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3JSX2R-es'
+slug: 'B07P3JSX2R-es Superdry Storm Hybrid Ziphood Capucha  Gris  Silver Heather Marl Udd   Medium para Hombre'
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

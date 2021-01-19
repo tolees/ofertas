@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AyU-eX1xL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZY7TXJ-es'
+slug: 'B07NZY7TXJ-es Skechers Men s Elite Flex-BELBURN Trainers  Blue  Navy Mesh/Lime Trim Nvlm   11  46 EU '
 actualPrice: 28.75 EUR
 currency: EUR
 price: 28.75

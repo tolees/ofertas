@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51spk5YUZQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B017KT9HVQ-es'
+slug: 'B017KT9HVQ-es Chic Orange Alfombra Scherzo Crema 120 x 170 cm'
 actualPrice: 54.54 EUR
 currency: EUR
 price: 54.54

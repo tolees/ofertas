@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318C5b6-33L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A3B4DZ4-es'
+slug: 'B00A3B4DZ4-es Essie Esmalte de Uñas Nr. 67 Lady Like'
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

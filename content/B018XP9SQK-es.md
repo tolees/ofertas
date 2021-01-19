@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZNlmVSRHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018XP9SQK-es'
+slug: 'B018XP9SQK-es Quamtrax Nutrition Avena Instantánea  Sabor Galleta Tradicional - 2000 gr'
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

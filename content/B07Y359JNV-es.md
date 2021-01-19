@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51P-s1KVAaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y359JNV-es'
+slug: 'B07Y359JNV-es Idefair Bandeja De Viaje para Niños Bandeja para automóvil  Bandeja de Viaje Bocadillos De Grande Bolsillos Bandeja de Actividad De Coche para Cochecito Avión de Cochecito  Rosa Claro '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

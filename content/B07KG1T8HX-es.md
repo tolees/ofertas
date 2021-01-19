@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nqcvRiviL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1T8HX-es'
+slug: 'B07KG1T8HX-es 4 UNIDS/SET Universal Car SUV Asiento Trasero Reposacabezas Ganchos de Almacenamiento Asiento de Vehículo Sostenedores Traseros Accesorios Del Coche Negro'
 actualPrice: 4.56 EUR
 currency: EUR
 price: 4.56

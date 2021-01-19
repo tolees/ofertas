@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410lijSh4AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002AMUGIM-es'
+slug: 'B002AMUGIM-es Sisley Phyto Jour&Nuit Crema Hidratantee ConcSombra Pot 50 ml'
 actualPrice: 81.2 EUR
 currency: EUR
 price: 81.2

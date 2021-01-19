@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IINXuc4QL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRB14JY-es'
+slug: 'B07WRB14JY-es Botas de Nieve para niños y niñas  Caminar  Senderismo  con Forro de Piel de Invierno  cálidas  para Clima frío  Antideslizantes  Botas Altas Impermeables  Color  Talla 36 EU'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

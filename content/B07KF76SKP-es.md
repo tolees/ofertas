@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519mRMv0HaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF76SKP-es'
+slug: 'B07KF76SKP-es Levi s Perfect Tee T-shirt  Multicolore  Raita Indigo 0033   XX-Small Donna'
 actualPrice: 15.45 EUR
 currency: EUR
 price: 15.45

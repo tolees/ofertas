@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NJxRLxvcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB398FW-es'
+slug: 'B07HB398FW-es Funko Modern Family - Figura de Vinilo Mitch'
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fMRH9W0ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HXJPFF-es'
+slug: 'B083HXJPFF-es Ligas para Hombres 1 par de Liguero Individual Liguero Masculino Gancho Ajustable Liguero Calcetines Liguero elástico Alto Accesorios + Negro'
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

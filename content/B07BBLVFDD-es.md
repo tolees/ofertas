@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AMcZbghZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBLVFDD-es'
+slug: 'B07BBLVFDD-es PUTORSEN® Soporte de Escritorio para Monitor de Las Pantallas de TV  LCD y computadora de17”-32”  Brazo de Monitor con Resorte de Gas  Altura Ajustable  La Capacidad de Carga es 8kg'
 actualPrice: 42.38 EUR
 currency: EUR
 price: 42.38

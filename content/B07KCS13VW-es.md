@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41moMEvcPmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCS13VW-es'
+slug: 'B07KCS13VW-es BOSS Dogfish Bañador  Azul  Bright Blue 431   Small para Hombre'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31inTF3gB2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZJXBJD-es'
+slug: 'B086ZJXBJD-es B Blesiya 4X Gancho Triangular De Anillo Dividido para Cámara Correa para La Muñeca Correa para El Hombro Y Clip De Soporte'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-vbj9g3rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M4L4P7W-es'
+slug: 'B00M4L4P7W-es Apple iPad Air 32GB Wi-Fi - Silver  Reacondicionado '
 actualPrice: 190.0 EUR
 currency: EUR
 price: 190.0

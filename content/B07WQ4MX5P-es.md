@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419A6KKZ40L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQ4MX5P-es'
+slug: 'B07WQ4MX5P-es Divisor de Potencia liviano de Dos vías Jasen Power Splitter Satellite Splitter de 2 vías Divisor de Potencia liviano  Plateado'
 actualPrice: 1.6 EUR
 currency: EUR
 price: 1.6

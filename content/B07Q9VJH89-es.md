@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4191jktI+rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9VJH89-es'
+slug: 'B07Q9VJH89-es Ufesa FF1450 - Ventilador de Pie  45cm diámetro  Potente Flujo de Aire  Especial Diseño de sus 3 hélices  3 velocidades  Inclinación Regulable  Base antideslizante'
 actualPrice: 67.0 EUR
 currency: EUR
 price: 67.0

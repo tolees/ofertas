@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hVl6FXC0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07146KKVL-es'
+slug: 'B07146KKVL-es Under Armour Armour Mid Crossback Heather Sujetador Deportivo  Mujer  Gris  MD'
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

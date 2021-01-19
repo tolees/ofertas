@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wzIImCBbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCYTRXX-es'
+slug: 'B07ZCYTRXX-es Bálsamo de labios  Lip Balm  Cuidado De Labios  Barra de Labios  Acondicionador de labios  Hidratación de larga duración  Poderoso Relleno Serum Lip Gloss  Mejora la elasticidad de los labios'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41stim4gb+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K14PBDV-es'
+slug: 'B07K14PBDV-es Lee Malone Jeans  Blue Drop Em  28W / 30L para Hombre'
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

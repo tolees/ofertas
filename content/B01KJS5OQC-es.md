@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KbnoP79nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KJS5OQC-es'
+slug: 'B01KJS5OQC-es World Rally Championship  WRC 6 '
 actualPrice: 44.4 EUR
 currency: EUR
 price: 44.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319r6iq1MHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B4HAADO-es'
+slug: 'B01B4HAADO-es PUMA Unisex Running Cap III Gorra  Hombre  Black  Adult'
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

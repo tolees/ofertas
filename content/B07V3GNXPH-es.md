@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s8LPT76gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3GNXPH-es'
+slug: 'B07V3GNXPH-es PUMA by Scarpe&Scarpe - Scarpe sportive Sport - 9 0  Nero'
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

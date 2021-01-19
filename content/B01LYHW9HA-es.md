@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MS5ZEsySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYHW9HA-es'
+slug: 'B01LYHW9HA-es Olympus - M.Zuiko Digital ED 12-100 mm F4 IS Pro Objetivo  Adecuado para Todas Las cámaras MFT  Modelos Olympus OM-D & Pen  Panasonic G-Series  Negro'
 actualPrice: 839.2 EUR
 currency: EUR
 price: 839.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YP7PXBoML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4P8FS1-es'
+slug: 'B07W4P8FS1-es UMI by Amazon Escobilla de Baño con Soporte Juego de Cepillo de Limpieza para Inodoro con Mango Cómodo Cepillo para Inodoro'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

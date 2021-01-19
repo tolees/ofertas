@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51d7UpwlDeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788H7WRY-es'
+slug: 'B0788H7WRY-es Soporte de teléfono celular  COOLBROS Porta-lápiz de elefante de madera con teléfono Organizador de escritorio de titular  Elefante indio  L '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

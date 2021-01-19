@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417DEhxfdEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4GL42J-es'
+slug: 'B01N4GL42J-es Finish Ambientador para lavavajillas fragancia limón - 2 unidades - 120 lavados'
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

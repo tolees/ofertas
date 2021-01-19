@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LfjBW63qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSKWFNH-es'
+slug: 'B07TSKWFNH-es KiplingArtMujerBolsos maletínNegro  Charcoal 44x27x20 Centimeters  B x H x T '
 actualPrice: 52.35 EUR
 currency: EUR
 price: 52.35

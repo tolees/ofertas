@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ipjVnV9VL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NHBV6PE-es'
+slug: 'B01NHBV6PE-es SanDisk Cruzer Blade- Memoria USB 2.0  Pack 3 Unidades de Colores  16GB'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

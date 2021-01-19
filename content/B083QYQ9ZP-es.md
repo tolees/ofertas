@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412QvUUR+oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QYQ9ZP-es'
+slug: 'B083QYQ9ZP-es Auriculares Inalámbricos Bluetooth 5.0 Auriculares Bluetooth Deportivos con Micrófono Cancelación de Ruido Cascos Caja de Carga  IPX5 a Prueba de Sudor  Emparejamiento automático'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

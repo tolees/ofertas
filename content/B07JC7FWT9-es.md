@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-t90xYKPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC7FWT9-es'
+slug: 'B07JC7FWT9-es Hackett London Garment Dye Texture Pantalones  Marrón  Taupe 951   31W / 32L para Hombre'
 actualPrice: 19.04 EUR
 currency: EUR
 price: 19.04

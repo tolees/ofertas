@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31B0jgStnQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRKF8VN-es'
+slug: 'B07ZRKF8VN-es Nuevo Cable de Cable de liberación de Obturador de Interruptor Remoto 3N para cámara Nikon D600 D3200 D3100 D5100 D7000 D5000 D90 Nikon D80 D70s - Negro'
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

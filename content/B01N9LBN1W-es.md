@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-uX-1V86L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9LBN1W-es'
+slug: 'B01N9LBN1W-es Smoby  SMOBH - Caja de Frutas y Verduras  Modelos/Colores aleatorios  948 '
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

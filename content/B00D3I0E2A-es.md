@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TP2LsZsJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D3I0E2A-es'
+slug: 'B00D3I0E2A-es NODOL ESI 60 cápsulas'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zdSZyISYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ657VK-es'
+slug: 'B07CZ657VK-es Shock Absorber Active Multi Sports Support Sujetador Deportivo  Multicolor  Imprimé Gris Asphalt 08u   95B  Taille Fabricant: Taille Fabricant 95B  para Mujer'
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JAer6YcsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFGQK3B-es'
+slug: 'B07VFGQK3B-es EXTRASTAR Repetidor WiFi 300Mbps Extensor de Red WiFi Amplificador Enrutador Inalámbrico 2.4G   Puerto LAN/WAN Ethernet  2 Antenas con Enchufe '
 actualPrice: 10.62 EUR
 currency: EUR
 price: 10.62

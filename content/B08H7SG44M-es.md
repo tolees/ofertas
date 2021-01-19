@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315UBbswjwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H7SG44M-es'
+slug: 'B08H7SG44M-es Digital para bebés  con indicador de Fiebre para Adultos y niños  Blanco '
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

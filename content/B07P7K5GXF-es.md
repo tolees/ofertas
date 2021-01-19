@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/214WQIR-OoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7K5GXF-es'
+slug: 'B07P7K5GXF-es Libartly Translúcido Color sólido Hilado de Vidrio Ventana Transparente Cenefa Cortina Hogar Dormitorio Decoración de Bodas 100 cm x 200 cm  en Varilla '
 actualPrice: 1.37 EUR
 currency: EUR
 price: 1.37

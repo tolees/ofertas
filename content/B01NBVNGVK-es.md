@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lAhuvXl1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBVNGVK-es'
+slug: 'B01NBVNGVK-es Campingaz 2000031416 Barbacoa Universal  Negro  105 x 61 x 122 cm'
 actualPrice: 27.94 EUR
 currency: EUR
 price: 27.94

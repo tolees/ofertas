@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mUGDTdUjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQKFLJT-es'
+slug: 'B07FQKFLJT-es Kindle  ahora con luz frontal integrada  blanco'
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

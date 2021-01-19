@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YAMF2pcGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXC3O6N-es'
+slug: 'B01LXC3O6N-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Piel FS5251SET'
 actualPrice: 132.3 EUR
 currency: EUR
 price: 132.3

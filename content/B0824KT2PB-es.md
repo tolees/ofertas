@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EfkaEMvVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824KT2PB-es'
+slug: 'B0824KT2PB-es BERGNER Gaming Chair con Sound System y Conexiones  55x83x84 cms  Juventud Unisex  Negro  84x83x55 cm'
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

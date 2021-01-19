@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qy8DBB9kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ8J69S-es'
+slug: 'B07TQ8J69S-es IPOTCH Toy Magic Iron Memory Memory Shaped Memory Wire Pocket Tool Herramienta para El Alumno'
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

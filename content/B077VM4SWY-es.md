@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U+gpUdYzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VM4SWY-es'
+slug: 'B077VM4SWY-es Kit de LED Iluminación Yeeteem 160 Regulable Ultra High Power Panel Cámara Digital / Videocámara Video Light con Soporte de Luz de Estudio de 79 "Alto y 3200/ 5500K Kit de Luces Video'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Q0QaEcGPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072C2KQPP-es'
+slug: 'B072C2KQPP-es Party & Co. Original Adultos Juego de mesa de carreras - Juego de tablero  Juego de mesa de carreras  Adultos  45 min  Niño/niña  14 año s   01/08/2017  - [Idioma Aleman]'
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

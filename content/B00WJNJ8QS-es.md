@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a7xBBOcoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WJNJ8QS-es'
+slug: 'B00WJNJ8QS-es Philips Avent SCF553/05 - Vaso con boquilla de silicona para niño  válvula antigoteo  sin BPA  para 9 meses  260 ml  color verde'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

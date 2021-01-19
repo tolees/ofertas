@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414PtDm4RVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYPCCHS-es'
+slug: 'B07HYPCCHS-es Espejo Retrovisor de Coche Irrompible Inastillable Patrón de Pez/Vaca de Felpa para Vigilar al Bebé en Asiento Trasero - Pez  como se describe'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

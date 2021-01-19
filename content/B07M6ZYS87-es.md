@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GGulY37ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6ZYS87-es'
+slug: 'B07M6ZYS87-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Piel FS5512'
 actualPrice: 94.0 EUR
 currency: EUR
 price: 94.0

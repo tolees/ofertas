@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WAer2e6uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRK69MY-es'
+slug: 'B07ZRK69MY-es Distribuidor Divisor de TV vía satélite/Antena/Cable de 4 vías de 4 vías 5-2400MHz F Tipo SP-04 Carcasa de fundición de Zinc - Plateado'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

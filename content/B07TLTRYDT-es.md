@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jw+7uggxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLTRYDT-es'
+slug: 'B07TLTRYDT-es Clarks Sift Lace  Zapatillas para Mujer  Negro  Black Combi Black Combi   39 EU'
 actualPrice: 26.38 EUR
 currency: EUR
 price: 26.38

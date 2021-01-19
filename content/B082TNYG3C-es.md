@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+vPxvDeVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082TNYG3C-es'
+slug: 'B082TNYG3C-es Aspiradora inalámbrica  150 W  13 kPa  potente aspiradora con batería desmontable  ligera  sin bolsa para alfombras  pelo de mascotas  montaje en pared'
 actualPrice: 78.34 EUR
 currency: EUR
 price: 78.34

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61JOa+ZcjoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B7KLRGM-es'
+slug: 'B07B7KLRGM-es Huarisi Brazilian Deep Wave With Frontal Free Part 3 Bundles Deep Curly Virgin Hair 13x4 Lace Closure Long Natural Color Real Hair Prime on Amazon 22 24 26 + 20 Inches'
 actualPrice: 194.99 EUR
 currency: EUR
 price: 194.99

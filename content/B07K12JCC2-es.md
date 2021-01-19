@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KrgX42+dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K12JCC2-es'
+slug: 'B07K12JCC2-es adidas Deerupt Runner W Zapatillas de Running Mujer  Blanco  Ftwr White/Grey One F17/Clear Mint Ftwr White/Grey One F17/Clear Mint   37 1/3 EU'
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

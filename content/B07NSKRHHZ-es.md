@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e4RdqGWzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSKRHHZ-es'
+slug: 'B07NSKRHHZ-es Fila Orbit Low  Zapatillas para Hombre  Blanco  White 1010263-98f   41 EU'
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

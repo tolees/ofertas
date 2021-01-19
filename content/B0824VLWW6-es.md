@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51up-YJ9sKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824VLWW6-es'
+slug: 'B0824VLWW6-es Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth 5.0 3500mAh con 150H Playtime  IPX8 Impermeable In-Ear Auriculares Inalámbricos Estéreo con Caja de Carga y Mic  Pantalla LED  Control Táctil'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

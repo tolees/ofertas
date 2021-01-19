@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41my7WTwBnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DZW6HF9-es'
+slug: 'B07DZW6HF9-es Rimmel London Magnifeyes Palette Paleta de Sombras Jewel Rocks Edition - 14.16 gr'
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

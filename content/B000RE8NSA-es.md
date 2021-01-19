@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RF0rW3oaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RE8NSA-es'
+slug: 'B000RE8NSA-es Brabantia 363702 - Espátula de Cocina Antiadherente'
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

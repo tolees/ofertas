@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S-00ygzML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082LNJR1T-es'
+slug: 'B082LNJR1T-es K9CK Juego de Luces para Lego Technic Porsche 911 RSR 42096  Led Faro Kit de Iluminación Compatible con Modelo Lego  NO Incluido en el Modelo '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

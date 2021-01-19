@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Tcs4e383L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD62NUI-es'
+slug: 'B01HD62NUI-es Salomon Speedcross 4  Zapatillas de Trail Running para Hombre  Negro/Amarillo  Black/Everglade/Sulphur Spring   45 1/3 EU'
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

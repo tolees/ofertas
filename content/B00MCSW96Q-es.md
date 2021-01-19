@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Yyjr0flnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MCSW96Q-es'
+slug: 'B00MCSW96Q-es Remington Your Style D5219 - Secador de Pelo  Secador Iónico  Kit de Concentrador  Difusor y Accesorio  2300 W  Morado'
 actualPrice: 30.14 EUR
 currency: EUR
 price: 30.14

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IZD+xfuWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMKC85Z-es'
+slug: 'B07BMKC85Z-es Fantasy Flight Games- AT-RT  FFSWL04 '
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

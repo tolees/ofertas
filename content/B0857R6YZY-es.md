@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w0r4fqC7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0857R6YZY-es'
+slug: 'B0857R6YZY-es Cecotec 04230 Recortador de barba multifunción Bamba PrecisionCare 7500 Power Blade  cuchillas de acero  sistema Click&Go'
 actualPrice: 20.72 EUR
 currency: EUR
 price: 20.72

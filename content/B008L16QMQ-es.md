@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BalDWPGDL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B008L16QMQ-es'
+slug: 'B008L16QMQ-es Poldark - La Serie Completa [DVD]'
 actualPrice: 10 EUR
 currency: EUR
 price: 10

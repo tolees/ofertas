@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y+ijiV2nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0051A5SCE-es'
+slug: 'B0051A5SCE-es Philips - MASTER TL-E Circular 32W/865 1CT/12'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

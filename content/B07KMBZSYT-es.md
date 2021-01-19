@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uBu9V-D3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMBZSYT-es'
+slug: 'B07KMBZSYT-es Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Azul  Sailor Blue   50 EU'
 actualPrice: 59.43 EUR
 currency: EUR
 price: 59.43

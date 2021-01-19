@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412pWoecTiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078W3MRGP-es'
+slug: 'B078W3MRGP-es Vans Filmore  Zapatillas para Hombre Negro  Suede/canvas  47 EU'
 actualPrice: 46.89 EUR
 currency: EUR
 price: 46.89

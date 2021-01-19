@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BgvVKSgML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KNWHQ66-es'
+slug: 'B00KNWHQ66-es Orlane Oligo Vit-A-Min Démaquillant Vitalisant 250 ml'
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

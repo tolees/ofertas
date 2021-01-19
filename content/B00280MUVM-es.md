@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AP8Z8oN0L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00280MUVM-es'
+slug: 'B00280MUVM-es Chuckit! 17030 Ultra Ball Large  1 Pelota para Perros Compatible con el Lanzador  L'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

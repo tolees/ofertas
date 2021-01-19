@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kk8ZcdfqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRCNSQW-es'
+slug: 'B07SRCNSQW-es adidas EQT Gazelle W  Zapatillas de Gimnasia para Mujer  Azul  Collegiate Navy/Silver Met./Solar Yellow Collegiate Navy/Silver Met./Solar Yellow   36 2/3 EU'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

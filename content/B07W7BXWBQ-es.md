@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21VuSwC3KfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7BXWBQ-es'
+slug: 'B07W7BXWBQ-es Kelme - Zapatillas Intense 7.0'
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

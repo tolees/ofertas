@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41azJcX3XXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1PMJ7J-es'
+slug: 'B07S1PMJ7J-es New Balance 373v2  Zapatillas para Mujer  Blanco  White/Grey Gd2   36 EU'
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

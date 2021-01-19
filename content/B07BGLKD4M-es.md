@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fm712y+8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGLKD4M-es'
+slug: 'B07BGLKD4M-es HyperX Impact DDR4 HX432S20IBK2/32 Memoria RAM 3200MHz CL20 SODIMM 32GB Kit  2x16GB '
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

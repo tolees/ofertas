@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qX5pFtdvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MCB8XFO-es'
+slug: 'B00MCB8XFO-es Seiko SUT162P1 ES si we 29xh9mm Solar'
 actualPrice: 173.03 EUR
 currency: EUR
 price: 173.03

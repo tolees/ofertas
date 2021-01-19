@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61lvAKs7tXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005OQB9AU-es'
+slug: 'B005OQB9AU-es IMC Toys - Pilla Ratón  43-7413 '
 actualPrice: 21.15 EUR
 currency: EUR
 price: 21.15

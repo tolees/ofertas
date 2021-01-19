@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yN1P8KWiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXCBMMM-es'
+slug: 'B07RXCBMMM-es Vital ZY-080 Canasta de Baloncesto  Adultos Unisex  Multicolor  Talla Única'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

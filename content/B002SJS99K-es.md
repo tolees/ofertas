@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31u7H90tt0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002SJS99K-es'
+slug: 'B002SJS99K-es Wella Sp Perfect Hair - 150 ml'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

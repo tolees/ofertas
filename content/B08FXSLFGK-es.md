@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DVBgMzHDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FXSLFGK-es'
+slug: 'B08FXSLFGK-es RUNCCI-YUN 10 Conectores coaxiales de Metal para Antena de TV  5 Conectores Hembra y 5 machos Macho para Antena de TV  Adaptador de Cable coaxial RF coaxial/coaxial+3M Cable Satélite'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

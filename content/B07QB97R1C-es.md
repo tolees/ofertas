@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YdYILj78L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB97R1C-es'
+slug: 'B07QB97R1C-es PUMA Shift Mesh Tight Mallas Deporte  Mujer  Black-Blue Glimmer  S'
 actualPrice: 23.71 EUR
 currency: EUR
 price: 23.71

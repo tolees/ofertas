@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RNa3pyrYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KA9QT2E-es'
+slug: 'B00KA9QT2E-es Naissance Aceite Vegetal de Rosa Mosqueta Rubiginosa n. º 246 – 100ml - Puro  natural  vegano  sin hexano y no OGM - Hidrata y nutre todo tipo de pieles  el cabello y las uñas.'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

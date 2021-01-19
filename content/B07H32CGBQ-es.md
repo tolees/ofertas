@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51niYrP7ZUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H32CGBQ-es'
+slug: 'B07H32CGBQ-es Newday1 Botella de Agua de Mantiene Bebidas frías por 24h y Calientes por 12h 500ML de Doble Pared con Aislamiento de Botella de Agua de Acero Inoxidable Sin BPA Water Bottles Cielo Estrellado'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

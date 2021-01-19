@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Edx1Sd2bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0154B6TAY-es'
+slug: 'B0154B6TAY-es Lorus Reloj Analógico de Cuarzo para Hombre con Correa de Acero Inoxidable – RW623AX9'
 actualPrice: 61.02 EUR
 currency: EUR
 price: 61.02

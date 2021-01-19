@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eMznT5XvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004F7DWCM-es'
+slug: 'B004F7DWCM-es AgfaPhoto 110-803951 - Pilas alcalinas AA  Pack de 10 Unidades  LR06   Gris/Rojo'
 actualPrice: 2.33 EUR
 currency: EUR
 price: 2.33

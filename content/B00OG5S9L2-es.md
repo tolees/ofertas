@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fmj6hsc+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OG5S9L2-es'
+slug: 'B00OG5S9L2-es Reloj Komono Winston Royale Unisex KOM-W2351'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

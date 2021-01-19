@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W+toO3AAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGCKQZ1-es'
+slug: 'B07KGCKQZ1-es Alomejor Controlador sin escobillas del Motor 48V 500W Motor sin escobillas Controlador de Onda sinusoidal para la Velocidad del Motor Controlador del Cepillo'
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

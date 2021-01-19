@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nKbWhn4vL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTPX3N5-es'
+slug: 'B07ZTPX3N5-es Frozen Wind-Bolso Redondo 3D'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

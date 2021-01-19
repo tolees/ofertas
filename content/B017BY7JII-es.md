@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Fww2YvJVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017BY7JII-es'
+slug: 'B017BY7JII-es PURE RESVERATROL ANTI-OX 60 CAPS'
 actualPrice: 15.53 EUR
 currency: EUR
 price: 15.53

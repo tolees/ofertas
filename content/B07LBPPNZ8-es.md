@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412msYxX6ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBPPNZ8-es'
+slug: 'B07LBPPNZ8-es Adidas Drive 1.9 Palas  Adultos Unisex  Rojo  375'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

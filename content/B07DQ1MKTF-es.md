@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yRUTuUucL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQ1MKTF-es'
+slug: 'B07DQ1MKTF-es LG SPK8 140W Negro Altavoz - Altavoces  2.0 Canales  Inalámbrico  140 W  Negro '
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

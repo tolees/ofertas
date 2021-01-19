@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nvlczk2FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081XD3TSP-es'
+slug: 'B081XD3TSP-es Babaria Crema Intensiva Antimanchas Noche Dobre Efecto Reparadora y Antiarrugas 50 ml'
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DHOGLV3uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RP8T2D2-es'
+slug: 'B07RP8T2D2-es Oral-B Genius X 20000 Luxe Edition  Cepillo de Dientes Eléctrico  con Tecnología de Braun  Gris Antracita'
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

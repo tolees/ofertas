@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/213dMi7KmqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGQXEJU-es'
+slug: 'B01BGQXEJU-es Pikolin Home - Almohada de fibra con tratamiento aloe vera  firmeza baja  50x80cm  Todas las medidas '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jb7cYQ8SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GLB2L-es'
+slug: 'B07N1GLB2L-es Clarks Un Maui Mid  Zapatillas Altas para Mujer  Negro  Black Leather Black Leather   41 EU'
 actualPrice: 15.76 EUR
 currency: EUR
 price: 15.76

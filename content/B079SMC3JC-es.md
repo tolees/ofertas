@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zT2psUZNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SMC3JC-es'
+slug: 'B079SMC3JC-es Desigual Blus_Gala    Navy 5000   Medium para Mujer'
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

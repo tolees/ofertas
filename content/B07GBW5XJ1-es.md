@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qQvLt7HfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBW5XJ1-es'
+slug: 'B07GBW5XJ1-es Baseus Soporte Móvil Coche Soporte del Coche Móvil Universal para Parabrisas y Salpicadero con Ventosa de Gel Fuerte y Brazo Ajustable Giro 360 Grado para iPhone X/8/7/6/ Samsung S7/S8 y Más Negro'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

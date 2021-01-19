@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21ilqbcybuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VWWVH0C-es'
+slug: 'B00VWWVH0C-es Versa 18790381 Perchero de pie con paragüero  Metal Lacado  Blanco  185 x 30 x 30 cm'
 actualPrice: 43.59 EUR
 currency: EUR
 price: 43.59

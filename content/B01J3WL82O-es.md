@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'ONLY onlNEW ROYAL REG SK. BIKER COATED N al 39.95 % de descuento'
-date: 2021-01-18 05:20:21
+date: 2021-01-19 12:15:01
 image: 'https://m.media-amazon.com/images/I/31TrtUb5hTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J3WL82O-es'
+slug: 'B01J3WL82O-es ONLY onlNEW ROYAL REG SK. BIKER COATED NOOS  Pantalones Mujer  Negro  Black   M/L30  Talla del fabricante: Medium '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

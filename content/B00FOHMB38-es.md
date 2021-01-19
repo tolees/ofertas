@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51qXl3V9fwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FOHMB38-es'
+slug: 'B00FOHMB38-es ACTIVISION Skylanders: Swap Force - Figurina Single Smolderdash'
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

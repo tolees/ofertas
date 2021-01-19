@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41coY3i3B1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L9DT41C-es'
+slug: 'B01L9DT41C-es High Peak Woodpecker 3 Tienda  Unisex  Rojo  Oliva   340 x 190 x 110 cm'
 actualPrice: 64.48 EUR
 currency: EUR
 price: 64.48

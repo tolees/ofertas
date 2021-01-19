@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iHpNPV7JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GO47CFC-es'
+slug: 'B00GO47CFC-es Piz Buin Tan & Protect - Aceite en Spray Acelerador del Bronceado SPF 15 Protección Media  150 ml'
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

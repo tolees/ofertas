@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fv4in1VOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004QSDVIA-es'
+slug: 'B004QSDVIA-es BELCILS - VIÑAS BELCILS Corrector Invisible 4 g'
 actualPrice: 5.83 EUR
 currency: EUR
 price: 5.83

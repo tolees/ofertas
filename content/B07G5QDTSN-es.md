@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WpWiUVqTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5QDTSN-es'
+slug: 'B07G5QDTSN-es Max Factor  Base de maquillaje  Tono: 77 Golden Tan  Pieles Medias  - 115 ml.'
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

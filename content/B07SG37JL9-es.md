@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sTlbVWv5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SG37JL9-es'
+slug: 'B07SG37JL9-es Auriculares Skullcandy Venue Active Cancelación Ruido  Bluetooth Inalámbricos  Tecnología Tile integrada  Batería de Carga Rápida con 24 Horas de Duración  Materiales  Moab/Rojo'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

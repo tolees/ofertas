@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DZtMw+5vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPTNZRN-es'
+slug: 'B07KPTNZRN-es Pop! Bobble: Avengers Endgame: Hulk'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

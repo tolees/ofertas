@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41++uiKM5WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LPLKLDY-es'
+slug: 'B00LPLKLDY-es Bella Aurora L+ Crema Facial Mujer Anti-Manchas para Manchas Localizadas en la Cara | Despigmentante | Acción local | Día y Noche SPF 15  10 ml'
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

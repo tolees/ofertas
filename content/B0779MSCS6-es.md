@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51h2EPxk5VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779MSCS6-es'
+slug: 'B0779MSCS6-es Bliqniq 5 pares de Pendientes de los Aros de las Mujeres Hombres de Acero inoxidable 8 10 12 14 16 redondo mini/grandes que cuelgan la Joyería de Oro Rosa Plata Negro Oro'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zzMIRfyqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9QYCJK-es'
+slug: 'B07B9QYCJK-es True Instinct No Grain Mini Paté de Buey para Perros 150 gr - Pack de 8'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

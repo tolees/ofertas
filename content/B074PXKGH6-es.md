@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IaOmAAnyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PXKGH6-es'
+slug: 'B074PXKGH6-es Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con Correa en Acero Inoxidable 1513514'
 actualPrice: 174.3 EUR
 currency: EUR
 price: 174.3

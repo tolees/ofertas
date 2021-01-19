@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515LAUP8qYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B2H3VFG-es'
+slug: 'B00B2H3VFG-es ¡Rompe Ralph! [DVD]'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

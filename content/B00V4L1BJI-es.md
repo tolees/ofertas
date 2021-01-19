@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IEEyDNU3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V4L1BJI-es'
+slug: 'B00V4L1BJI-es Adidas - Get Ready - Aftershave para hombres - 100 ml'
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

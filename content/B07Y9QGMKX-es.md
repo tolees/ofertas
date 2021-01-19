@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XUtOuoUfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9QGMKX-es'
+slug: 'B07Y9QGMKX-es DAYNEW 5 Pares de Calcetines Antideslizantes para bebé  Calcetines para niños  Calcetines para recién Nacidos  Calcetines Antideslizantes de algodón  Calcetines con diseño de Zorro S 12-13cm '
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

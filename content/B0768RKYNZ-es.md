@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CjQjPV8%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0768RKYNZ-es'
+slug: 'B0768RKYNZ-es Hoover Jazz SM156WDP4 - Aspirador de mano sin cable  hasta 18 mins. de autonomía  aspira sólidos y líquidos  batería de 15.4V  color azul'
 actualPrice: 26.46 EUR
 currency: EUR
 price: 26.46

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dfdI+CtML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQLJ7J9-es'
+slug: 'B07TQLJ7J9-es Meykey Slow Juicer - Licuadora de verduras y frutas  sin BPA  licuadora lenta y contenedor de zumo y cepillo de limpieza  motor silencioso y función de inversión  150 W '
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I7+SX7x0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVXH1TF-es'
+slug: 'B07NVXH1TF-es G-Star Raw 3301 Slim 1/2 Pantalones cortos  Negro  medium aged grey A634-9887   26 para Hombre'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

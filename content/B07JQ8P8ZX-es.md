@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412BuAkAsNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ8P8ZX-es'
+slug: 'B07JQ8P8ZX-es Tommy Hilfiger BB Cap Gorra de béisbol  Azul  Talla única  Talla del Fabricante:  para Mujer'
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

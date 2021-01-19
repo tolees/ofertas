@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F1qEAnTTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q24VX4M-es'
+slug: 'B07Q24VX4M-es Under Armour UA W Charged Impulse  Zapatillas de Running para Mujer  Blanco  White/Halo Gray/Mod Gray   37.5 EU'
 actualPrice: 34.27 EUR
 currency: EUR
 price: 34.27

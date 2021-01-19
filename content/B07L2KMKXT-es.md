@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Tx5gXhiDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2KMKXT-es'
+slug: 'B07L2KMKXT-es Playshoes 507424 Juego de baberos  Azul Claro'
 actualPrice: 5.13 EUR
 currency: EUR
 price: 5.13

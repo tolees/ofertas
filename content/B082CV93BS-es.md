@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316YdTw4m2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082CV93BS-es'
+slug: 'B082CV93BS-es 50 Ml Perfume De Mujer Elegante Original  Fragancia De Flores Fabulosas Frutas Señora Perfume Eternity Euphoria'
 actualPrice: 10.09 EUR
 currency: EUR
 price: 10.09

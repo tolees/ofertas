@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sVlDfAv0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLJLWDQ-es'
+slug: 'B07PLJLWDQ-es O³ Bastoncillos Ecologicos 800 Unidades | Bastoncillos Biodegradables 4 * 200 Pcs Solo Algodón y Bambu | Bastoncillos Oidos Ecologicos Multiuso | Bastoncillos Bambu 100% Biodegradable Y Compostable'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IL1sqi08L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMP69ZL-es'
+slug: 'B07HMP69ZL-es AmazonBasics – Balancín plegable con toldo  Beige'
 actualPrice: 47.42 EUR
 currency: EUR
 price: 47.42

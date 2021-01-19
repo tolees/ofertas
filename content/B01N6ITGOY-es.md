@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FFBCLpyfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6ITGOY-es'
+slug: 'B01N6ITGOY-es REPLAY Am2453.000.a3001e Cinturón  Negro  Black 98   125  Talla del fabricante: 110  para Hombre'
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

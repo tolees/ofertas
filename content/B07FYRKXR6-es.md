@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410s2JRpuXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYRKXR6-es'
+slug: 'B07FYRKXR6-es FIXKIT Silla Oficina Ergonómica Giratoria 360°  Silla de Escritorio de Malla con Altura  Reposabrazos y Apoyabrazos Ajustables  Transpirable  Carga Máx.150Kg - Negro/Grisáceo  Negro '
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

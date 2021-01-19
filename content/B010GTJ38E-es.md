@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51H54SyznHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B010GTJ38E-es'
+slug: 'B010GTJ38E-es Timex Expedition - Reloj análogico de cuarzo con correa de cuero para hombre  Marrón  Marrón/Azul '
 actualPrice: 47.4 EUR
 currency: EUR
 price: 47.4

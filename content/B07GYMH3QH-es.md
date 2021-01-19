@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jFaxxHplL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GYMH3QH-es'
+slug: 'B07GYMH3QH-es Aussie Tratamiento Intensivo 3 Minute Miracle Hydration - 250 ml'
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

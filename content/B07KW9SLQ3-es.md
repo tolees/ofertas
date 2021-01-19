@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4189qO0CSQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW9SLQ3-es'
+slug: 'B07KW9SLQ3-es Salomon X Ultra 3 Prime GTX W  Zapatillas de Senderismo para Mujer  Negro/Azul  Black/Reflecting Pond/Icy Morn   42 2/3 EU'
 actualPrice: 48.16 EUR
 currency: EUR
 price: 48.16

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YbDN3ZFML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSVNLH4-es'
+slug: 'B07VSVNLH4-es Calvin Klein Thong Tanga  Azul  Feeder Stripe Baby Blue Bfx    Talla del Fabricante: X-Small  para Mujer'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

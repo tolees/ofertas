@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GpbPsqNeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8HJ9P9-es'
+slug: 'B07B8HJ9P9-es Make My Day mask'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

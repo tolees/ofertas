@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41krBOSMURL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MDTR6QT-es'
+slug: 'B01MDTR6QT-es G-STAR RAW Duko Belt Cinturón  Marrón  Dk Brown/black Metal 8127   90 para Hombre'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

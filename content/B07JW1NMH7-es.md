@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L9QEbVteL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW1NMH7-es'
+slug: 'B07JW1NMH7-es Seiko Reloj cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable SUR282P1 Metallizzato  Nero'
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

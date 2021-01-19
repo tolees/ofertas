@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kdJtOoeeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WIM8U3W-es'
+slug: 'B00WIM8U3W-es Tratto Video 830201 - Marcadores fluorescente  color amarillo  pack de 12 unidades'
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

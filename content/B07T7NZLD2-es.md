@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Lmj2UoYPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T7NZLD2-es'
+slug: 'B07T7NZLD2-es The North Face M Croda Rossa Forro Polar  Hombre  Asphalt Grey  L'
 actualPrice: 51.33 EUR
 currency: EUR
 price: 51.33

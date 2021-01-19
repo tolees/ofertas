@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+Cs+z-leL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WYYYCY2-es'
+slug: 'B07WYYYCY2-es Tamaño compacto RF Presentador inalámbrico Puntero PPT Presentación Control remoto Pluma Presentación Puntero Clip s'
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

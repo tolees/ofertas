@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4100eN9AziL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002QZN8JW-es'
+slug: 'B002QZN8JW-es Optimum Nutrition ON Platinum Hydro Whey  Proteínas en Polvo  para Masa Muscular y Musculacion  fuente de BCAA  bajo en Calorías  Chocolate  40 porciones  1.6 kg'
 actualPrice: 59.26 EUR
 currency: EUR
 price: 59.26

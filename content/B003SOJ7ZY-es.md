@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61N0jl3JHmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003SOJ7ZY-es'
+slug: 'B003SOJ7ZY-es Bosch 2 608 602 385 - Disco de corte recto Rapido Multi Construction - ACS 60 V BF  125 mm  1 0 mm  pack de 1 '
 actualPrice: 1.6 EUR
 currency: EUR
 price: 1.6

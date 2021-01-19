@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Xhwr2sFlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0796BVYQ6-es'
+slug: 'B0796BVYQ6-es Maybelline Super Stay Barra de Labios Matte Ink 40 Believer - 26 gr'
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

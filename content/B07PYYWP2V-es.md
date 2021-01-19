@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41erHX3rlQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYWP2V-es'
+slug: 'B07PYYWP2V-es Under Armour UA TriBase Thrive  Zapatillas Deportivas para Interior para Hombre  Gris  Halo Gray/Gravity Green/Black   41 EU'
 actualPrice: 35.75 EUR
 currency: EUR
 price: 35.75

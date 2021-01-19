@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419FwRNS-lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y14NR9W-es'
+slug: 'B06Y14NR9W-es Philips Everplay BT3900B - Altavoz Bluetooth  Potente y portátil  Resistente al Agua  con micrófono  Correa USB  Color Negro'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

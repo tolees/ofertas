@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41O9wfjdCSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B018S3Z5KU-es'
+slug: 'B018S3Z5KU-es Hill s HPD Feline Metabolic - 4 kg'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

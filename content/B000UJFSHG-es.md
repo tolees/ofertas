@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cMl+-BHaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000UJFSHG-es'
+slug: 'B000UJFSHG-es Bausch & Lomb Soflens Tóricas  Lentes de Contacto para Astigmatismo - Pack de 6'
 actualPrice: 29.19 EUR
 currency: EUR
 price: 29.19

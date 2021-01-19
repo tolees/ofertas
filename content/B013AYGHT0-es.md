@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lBw02bLbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013AYGHT0-es'
+slug: 'B013AYGHT0-es Optimum Nutrition ON Amino Energy Pre Workout Powder Keto Friendly con Beta Alanina  Cafeína  Vitamina C  Aminoacidos Micronizados Incluyendo BCAA  Fruit Fusion  30 Porciones  270 gr'
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

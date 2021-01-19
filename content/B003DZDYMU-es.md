@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kv9tZJKGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003DZDYMU-es'
+slug: 'B003DZDYMU-es Casio Smart Watch Armbanduhr AE-1000W-1B'
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

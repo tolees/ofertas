@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KLzH7cjHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0885RZGGZ-es'
+slug: 'B0885RZGGZ-es 【2 Pack】Abridor de puerta de latón sin contacto Higiene Cierra puertassin contacto Portátil De múltiples fines Salud Llave Tool para abrir/cerrar puerta Hacer clic Botón Mantenga las manos limpias'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

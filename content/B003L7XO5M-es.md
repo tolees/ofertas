@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41asiUOPZ7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003L7XO5M-es'
+slug: 'B003L7XO5M-es Solgar Full Spectrum Omega de Salmón Salvaje de Alaska Cápsulas blandas - Envase de 120'
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

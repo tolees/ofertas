@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yge2pccBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y5MBCZ-es'
+slug: 'B077Y5MBCZ-es Sylvie Flirty Swimwear Beliz  Trikini para Mujer  Blanco  White 9000   42C'
 actualPrice: 8.41 EUR
 currency: EUR
 price: 8.41

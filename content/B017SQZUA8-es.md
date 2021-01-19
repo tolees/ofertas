@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xWRIRtvXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017SQZUA8-es'
+slug: 'B017SQZUA8-es Salomon Speedcross 4 W  Zapatillas de Trail Running para Mujer  Negro  Black/Black/Black Metallic   40 EU'
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51i1I6HqemL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAP0P3E-es'
+slug: 'B00XAP0P3E-es Haribo Delfines Azules  1kg '
 actualPrice: 4.72 EUR
 currency: EUR
 price: 4.72

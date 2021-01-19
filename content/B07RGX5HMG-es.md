@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UfbZHbXVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGX5HMG-es'
+slug: 'B07RGX5HMG-es Kit de Punto de Cruz Estampado  Tela Impresa con Kit de Herramientas - EC008'
 actualPrice: 14.01 EUR
 currency: EUR
 price: 14.01

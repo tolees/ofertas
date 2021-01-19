@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417QiawLByL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNV3M84-es'
+slug: 'B07NNV3M84-es Under Armour Women s Charged Aurora Hallenschuhe  Zapatillas Deportivas para Interior para Mujer  Blanco  White/White/Beta  100  100   38 EU'
 actualPrice: 32.88 EUR
 currency: EUR
 price: 32.88

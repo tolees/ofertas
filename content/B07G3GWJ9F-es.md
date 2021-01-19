@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LsFK1RYUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3GWJ9F-es'
+slug: 'B07G3GWJ9F-es Funda de cáscara dura mCover para los NUEVOS 14" Yoga 530  NO compatible con las antiguas series Yoga 520/510/500  computadoras portátiles  Yoga 530 14" Océano azul '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

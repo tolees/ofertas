@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jTkqPuKeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UMZT4XW-es'
+slug: 'B00UMZT4XW-es MOLDE ESPELTA BLANCO BLAND BIO'
 actualPrice: 4.71 EUR
 currency: EUR
 price: 4.71

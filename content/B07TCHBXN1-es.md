@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41G44gPpsAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCHBXN1-es'
+slug: 'B07TCHBXN1-es Quiksilver Mission-Guantes para Snowboard/Esquí para Hombre  Black Matte Painting  L'
 actualPrice: 30.89 EUR
 currency: EUR
 price: 30.89

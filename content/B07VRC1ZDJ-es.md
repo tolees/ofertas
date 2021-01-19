@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FEK21YVpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRC1ZDJ-es'
+slug: 'B07VRC1ZDJ-es Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Azul  Blue Quartz Heather DVH   Medium para Hombre'
 actualPrice: 26.85 EUR
 currency: EUR
 price: 26.85

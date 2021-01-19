@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ijw88QubL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ST3KLH-es'
+slug: 'B074ST3KLH-es Vitamina D3 400 Tabletas Veganas  para 13 meses  - Dosis óptima con 1000 UI por día - Respalda huesos  dientes  músculos y sistema inmunológico*- Hecho en Alemania'
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RSLEbGBfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2HR4QN-es'
+slug: 'B01N2HR4QN-es Diamante - grande 42cm/16 5 en artesanal clásico ajedrez madera'
 actualPrice: 45.71 EUR
 currency: EUR
 price: 45.71

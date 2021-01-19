@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dAWiErpuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRWB1MT-es'
+slug: 'B07ZRWB1MT-es Los Sims 4 - Días de Universidad  La caja contiene un código de descarga - Origin '
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

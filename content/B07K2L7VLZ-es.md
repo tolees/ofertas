@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RYlkKIUdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2L7VLZ-es'
+slug: 'B07K2L7VLZ-es adidas Runfalcon  Zapatillas de Running para Hombre  Negro  Core Black/Core Black/Core Black   46 EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

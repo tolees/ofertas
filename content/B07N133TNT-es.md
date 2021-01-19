@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316MbHkpqKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N133TNT-es'
+slug: 'B07N133TNT-es Skechers Go Run Focus  Zapatillas para Mujer  Black Textile/Purple Trim Bkpr  4.5 EU'
 actualPrice: 25.16 EUR
 currency: EUR
 price: 25.16

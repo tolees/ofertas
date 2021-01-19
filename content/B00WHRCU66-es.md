@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DX+3qE+ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WHRCU66-es'
+slug: 'B00WHRCU66-es NIVEA SUN Protege & Hidrata Spray Solar FP20  1 x 300 ml   protector hidratante y resistente al agua con protección UVA/UVB  protección solar media en formato pistola'
 actualPrice: 10.81 EUR
 currency: EUR
 price: 10.81

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jtAJ5u0sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P0UWDS2-es'
+slug: 'B00P0UWDS2-es IBILI PICADORA DE Hielo  Centimeters'
 actualPrice: 31.18 EUR
 currency: EUR
 price: 31.18

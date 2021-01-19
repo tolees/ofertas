@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ho7wbgfqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IUJQP9S-es'
+slug: 'B00IUJQP9S-es BERING Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 33440-227'
 actualPrice: 157.97 EUR
 currency: EUR
 price: 157.97

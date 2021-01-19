@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417tnZfW7iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017B0W4WS-es'
+slug: 'B017B0W4WS-es Tommy Hilfiger Bralette Sujetador Deportivo  Blanco  WHITE 100   40  talla del fabricante: LG  para Mujer'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

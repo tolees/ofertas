@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nKnL5h1kL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDZFYXX-es'
+slug: 'B07NDZFYXX-es KFD 45W Adaptador de Corriente Cargador portátil para Lenovo IdeaPad 320-15isk 310s 310-14isk 320s-14ikb 510 100-14IBY 120 120S 100S-14IBR 530S-14IKB 520 710S 100-14IBD 520-15IKB 520S-14IKB 20V 2.25A'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

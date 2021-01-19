@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rDluAmTNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJCD7B5-es'
+slug: 'B07HJCD7B5-es Pop! Stranger Things S2 - Figura de Vinilo Mike  Snowball Dance '
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

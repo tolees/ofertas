@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GVjHbQarL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPC8W3Z-es'
+slug: 'B07SPC8W3Z-es adidas Advantage C  Zapatillas de Tenis Unisex niños  Multicolor Ftwbla Verde Gridos 000  32 EU'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

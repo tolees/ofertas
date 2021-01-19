@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QYGQkNkkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRM837W-es'
+slug: 'B07TRM837W-es Kidear Ropa Interior Kids Series de Algodón Suave Calzoncillos Surtidos de niños pequeños Paquete de 6   Estilo8  4-5 Años '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

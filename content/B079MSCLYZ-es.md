@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51aCA5szPuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MSCLYZ-es'
+slug: 'B079MSCLYZ-es Owlboy'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412yqXmCoKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C895GLL-es'
+slug: 'B07C895GLL-es Diesel Pendiente DZ1864'
 actualPrice: 91.71 EUR
 currency: EUR
 price: 91.71

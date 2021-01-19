@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FQ829LJkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGLDFRY-es'
+slug: 'B07XGLDFRY-es Skechers Go Run Pulse  Zapatillas para Hombre  Negro Negro Negro Textil Sintético Borde Naranja Bkor  40 EU'
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UFj4o4PkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OYHNZW-es'
+slug: 'B000OYHNZW-es ABUS 27161 Anclaje antirrobo de pared / piso  1 unidad  negro'
 actualPrice: 60.96 EUR
 currency: EUR
 price: 60.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M1JQTaK5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHXS2PH-es'
+slug: 'B06XHXS2PH-es Cascos Bluetooth inalámbricos  Hisonic Auriculares inalámbrica Bluetooth de Diadema Auricular Deporte Plegable con Micrófono y Almohadillias de protección  Negro '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

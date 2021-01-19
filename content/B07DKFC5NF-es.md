@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EqSJqKUxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKFC5NF-es'
+slug: 'B07DKFC5NF-es Kipling - Fundamental Nc  Mochilas Mujer  Azul  Dynamic Blue '
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

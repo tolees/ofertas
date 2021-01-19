@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pFYyU4zgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086JHXXYK-es'
+slug: 'B086JHXXYK-es N/ A Mascara Ninos Mascarilla Antipolvo Boca Mascarillas Para Bebe Mascarilla Filtro Mascarilla Lavable Ninos Mascarillas Reutilizables Ninos 6 Pcs'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kr12XThlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WT1ZWG3-es'
+slug: 'B07WT1ZWG3-es Gricol Estante para Esquinas de Ducha Sin Taladrar de Aluminio Aeronáutico Estanteria para Ducha Antioxidante Autoadhesivo con Ganchos para Artículos de Baño 2 Piezas  Negro '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

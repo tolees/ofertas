@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416cH524ceL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRNJMCG-es'
+slug: 'B07NRNJMCG-es Apexcam 4K 20MP Cámara Deportiva WiFi EIS Ultra HD Cámara subacuática Impermeable 40M 2.0 LCD 170° Gran Angular 2.4G Remoto Micrófono Externo 2 baterías y Otras'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

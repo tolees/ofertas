@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ABa6GEvIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MSMQ66-es'
+slug: 'B072MSMQ66-es Nike SB Delta Force Vulc  Zapatillas de Skateboard para Hombre  Multicolor  Black/White/Anthracite/White 010   40 EU'
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

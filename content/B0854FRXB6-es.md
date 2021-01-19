@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wmBFoqQqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0854FRXB6-es'
+slug: 'B0854FRXB6-es AirSMall Ganchos de Extensiones Herramientas para Extensiones de Pelo  8 Clip de Peluca  1 Alicate  1 Peine de Cola de Rata  2 Gancho de Ganchillo y Muchos Microanillos para Extensiones de Cabello'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

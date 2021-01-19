@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IvJzqNIYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMH8F4F-es'
+slug: 'B07TMH8F4F-es Hummel Actus Trainer 2.0  Zapatillas Unisex Adulto  Gris  Grey Melange 2006   36 EU'
 actualPrice: 31.4 EUR
 currency: EUR
 price: 31.4

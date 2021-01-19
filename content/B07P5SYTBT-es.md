@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Aa3LZi1IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5SYTBT-es'
+slug: 'B07P5SYTBT-es Clarks'
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

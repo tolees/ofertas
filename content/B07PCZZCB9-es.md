@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31quMq66ffL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PCZZCB9-es'
+slug: 'B07PCZZCB9-es Hoover SGE1000 Limpiador seco para tejidos  Vapor húmedo para superficies duras  Múltiples accesorios  1000W  4 Bares  Lista en 2min  Depósito 0 37 litros  20min  Cable 5m  Titanio/Rojo'
 actualPrice: 34.81 EUR
 currency: EUR
 price: 34.81

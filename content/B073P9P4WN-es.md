@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tamQo9IYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073P9P4WN-es'
+slug: 'B073P9P4WN-es Bourjois Velvet The Lipstick Barra de Labios Tono 03 Hyppink chic - 23 gr.'
 actualPrice: 3.81 EUR
 currency: EUR
 price: 3.81

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WeUEZAl4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SL6TTS5-es'
+slug: 'B07SL6TTS5-es Lacoste Carnaby EVO 120 7 US SMA  Zapatillas para Hombre  Blanco  Wht/Nvy   39.5 EU'
 actualPrice: 58.12 EUR
 currency: EUR
 price: 58.12

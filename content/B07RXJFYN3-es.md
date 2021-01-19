@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-HaHfchzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXJFYN3-es'
+slug: 'B07RXJFYN3-es New Balance 373v2  Zapatillas para Hombre  Azul  Navy/White Cc2   37 EU'
 actualPrice: 33.43 EUR
 currency: EUR
 price: 33.43

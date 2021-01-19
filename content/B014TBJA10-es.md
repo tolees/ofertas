@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WlthvbnUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014TBJA10-es'
+slug: 'B014TBJA10-es Reloj Casio - Hombre GD-X6900MC-7ER'
 actualPrice: 96.8 EUR
 currency: EUR
 price: 96.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bElgQ--bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XCDX8B0-es'
+slug: 'B00XCDX8B0-es Sades A6 7.1 Surround Sonido Estéreo Pro PC Gaming Headset Auriculares con banda de alta sensibilidad con micrófono Conector USB Over The de Ear Breat de conmutación Volume Control LED de Leuchten  Color Blanco '
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

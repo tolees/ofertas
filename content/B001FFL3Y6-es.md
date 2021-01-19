@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zfA2hCzFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001FFL3Y6-es'
+slug: 'B001FFL3Y6-es Victory Endurance All Day Energy. Con 12 vitaminas  9 minerales y antioxidantes que provienen del Té Verde'
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

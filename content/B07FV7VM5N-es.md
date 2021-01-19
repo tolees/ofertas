@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WHeQS9bsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FV7VM5N-es'
+slug: 'B07FV7VM5N-es BaByliss ST455E Plancha de pelo Sensitive Edición Especial White&Gold  placas con cerámica negra anodizadas  3 veces más suaves y duraderas  protección reforzada  iónica  6 ajustes de 140º C-235º C'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

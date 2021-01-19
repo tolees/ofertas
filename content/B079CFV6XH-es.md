@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x2qfiQ6eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079CFV6XH-es'
+slug: 'B079CFV6XH-es Bourjois Velvet Barra de Labios Líquida Tono 32 Trop brunché - 28 gr  29101273032 '
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

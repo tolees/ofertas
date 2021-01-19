@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31xhBCuJU4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLSV4NH-es'
+slug: 'B07MLSV4NH-es Clarks Ronnie Top  Botas Chelsea para Hombre  Marrón  British Tan Lea British Tan Lea   42.5 EU'
 actualPrice: 49.01 EUR
 currency: EUR
 price: 49.01

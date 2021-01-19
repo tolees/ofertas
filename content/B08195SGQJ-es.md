@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51L1zB8EeNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08195SGQJ-es'
+slug: 'B08195SGQJ-es Zambrero 502XL Cartuchos de Tinta Reemplazo para Epson 502 Tinta  Compatiable con Epson Expression Home XP-5100 XP-5105 XP5100 XP5105  Workforce WF-2860DWF WF-2865DWF WF-2860 WF-2865 WF2860 WF2865'
 actualPrice: 20.86 EUR
 currency: EUR
 price: 20.86

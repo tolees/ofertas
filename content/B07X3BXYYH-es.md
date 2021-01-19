@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31bbamk29LL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3BXYYH-es'
+slug: 'B07X3BXYYH-es Humidificador USB para coche  230 ml  difusor de coche portátil  humidificador de niebla  desconexión automática sin agua para viajes en la oficina en casa'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

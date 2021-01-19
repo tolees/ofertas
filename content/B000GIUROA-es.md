@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4199v0jH7OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GIUROA-es'
+slug: 'B000GIUROA-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos con Glutamina y Aminoacidos Micronizados Incluyendo BCAA  Fresa Deliciosa  154 Porciones  4.54 kg'
 actualPrice: 80.9 EUR
 currency: EUR
 price: 80.9

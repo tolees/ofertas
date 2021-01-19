@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M4fMgCQyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKZFRGT-es'
+slug: 'B07PKZFRGT-es New Balance Fresh Foam Roav  Zapatillas de Running para Hombre  Azul  Navy Navy   40 EU'
 actualPrice: 28.44 EUR
 currency: EUR
 price: 28.44

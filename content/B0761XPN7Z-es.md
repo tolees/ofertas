@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TqpsK-btL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0761XPN7Z-es'
+slug: 'B0761XPN7Z-es Adidas Gazelle J  Zapatillas de Gimnasia Unisex Adulto  Rosa  Icey Pink F17/Ftwr White/Gold Met. Icey Pink F17/Ftwr White/Gold Met.   38 2/3 EU'
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

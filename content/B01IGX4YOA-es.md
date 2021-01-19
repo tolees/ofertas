@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ilC3SHT8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IGX4YOA-es'
+slug: 'B01IGX4YOA-es Vasos para beber 4 PACK-11OZ Restaurante de color acrílico Copas Party Bar Cerveza Jugo Irrompible Único Acampar Vaso de cumpleaños para té  café  whisky y leche  Combinación '
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

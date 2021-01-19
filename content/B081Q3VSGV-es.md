@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hSp6jz9HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081Q3VSGV-es'
+slug: 'B081Q3VSGV-es Ideapark Sombrero de Invierno para Hombre Mujeres  Sombrero de Punto Unisex Gorro con Bufanda de Felpa Cálida Suave para Esquí u Otras Actividades al Aire Libre de Invierno  Azul Oscuro'
 actualPrice: 3.26 EUR
 currency: EUR
 price: 3.26

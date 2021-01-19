@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-TlhLPIvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y3VJ8BV-es'
+slug: 'B06Y3VJ8BV-es RAVPower Cargador de Pared con 4 Puertos 40W  USB iSmart 2.0  Conector Retráctil  Entrada 100-240V  Salida DC 5V / 8A Máx. en Total y DC 5V / 2 4A máx. por Puerto  - Blanco'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

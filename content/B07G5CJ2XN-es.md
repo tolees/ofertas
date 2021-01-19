@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OM4NZAy8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5CJ2XN-es'
+slug: 'B07G5CJ2XN-es SeeKool MII Mini PC Ordenador de sobremesa  Full 4K HD H.265 Soporte Windows 10 Mini ordenador  4GB+64GB  Apollo Lake N3350 Procesador  Dual-Band WiFi  Gigabit Ethernet  USB 3.0  Salida HDMI/USB/SD'
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

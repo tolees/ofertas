@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51MLqYrDUeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XC789MZ-es'
+slug: 'B07XC789MZ-es Erik 2020 Wall Calendar for Home or Office  30 x 30 cm - Friends'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

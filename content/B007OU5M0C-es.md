@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NP8rbjZLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007OU5M0C-es'
+slug: 'B007OU5M0C-es Coca Cola Zero Azúcar - Lata 330ml X 24 Latas'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

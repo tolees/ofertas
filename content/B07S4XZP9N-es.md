@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KhFI6rmnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4XZP9N-es'
+slug: 'B07S4XZP9N-es New Balance 574v2  Zapatillas para Mujer  Rosa  Pink/White Oab   35 EU'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

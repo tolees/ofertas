@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51d9ozxnUnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMYTNT2-es'
+slug: 'B07MMYTNT2-es Tacklife RTD35ACL/RTD34AC Herramienta multifunción  herramienta giratoria con varios accesorios  mini Drill con velocidad variable para grabar  cortar  taladrar  etc.'
 actualPrice: 22.54 EUR
 currency: EUR
 price: 22.54

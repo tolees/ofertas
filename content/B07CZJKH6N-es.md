@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mRV-IaEdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZJKH6N-es'
+slug: 'B07CZJKH6N-es Under Armour Boxerjocks 15 cm Ropa Interior Elástica  3 Unidades  Hombre  Rojo  Red 600   M'
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

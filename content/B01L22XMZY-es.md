@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41shvluVolL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L22XMZY-es'
+slug: 'B01L22XMZY-es EVOWHEY PROTEIN 2.0  Chocolate  2Kg '
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

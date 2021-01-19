@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31x62XgB3AL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JVFQ38-es'
+slug: 'B079JVFQ38-es Bonmedico Almohada Comfort  Almohada Ergonómica para la Cabeza y Cuello de Espuma de Gel  Almohada de Espuma de Memoria para Dormir y para Cada Posición de Descanso.'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

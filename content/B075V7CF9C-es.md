@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31OvkOfKNTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075V7CF9C-es'
+slug: 'B075V7CF9C-es Sunstech CDP10BK - Reproductor CD portátil con Bass Boost y protección Anti Vibraciones  Color Negro'
 actualPrice: 29.85 EUR
 currency: EUR
 price: 29.85

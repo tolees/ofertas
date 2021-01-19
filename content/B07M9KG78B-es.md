@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+VyQLB2xL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9KG78B-es'
+slug: 'B07M9KG78B-es L Oreal Paris Infalible More Than Concealer  Corrector Cobertura Completa  Tono 335 Caramel/Caramel - 11  ml'
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

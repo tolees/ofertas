@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/611MMTUAgaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5DWFXH-es'
+slug: 'B07W5DWFXH-es EXCEED DIY Gomas Loom Bandas  10 000 Elásticos + Hebilla 600S + 200 Cuentas + 52 Cuentas ABC  2 Cada una  + 30 Modelos + 10 Ganchos + 5 Borlas + 5 Ganchillos + 3 Pinzas para el Cabello + 4 Pegatinas'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+b7XHoSiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVDBGD8-es'
+slug: 'B07VVDBGD8-es AI: SOMNIUM FILES COLLECTOR EDITION'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

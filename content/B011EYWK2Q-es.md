@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wuB5EJv6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011EYWK2Q-es'
+slug: 'B011EYWK2Q-es Salomon AGILE 250 BELT set Riñonera'
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

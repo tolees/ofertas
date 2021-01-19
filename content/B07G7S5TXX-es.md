@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-iFzyEN3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G7S5TXX-es'
+slug: 'B07G7S5TXX-es Beauty Glazed 63 Colores De Sombra De Ojos Polvo De Sombras De Colores Conjunto De Paleta Paleta De CosméTicos Mate Brillante Sombra De Ojos Profesional Cosmético de Sombra de Ojos Paleta'
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

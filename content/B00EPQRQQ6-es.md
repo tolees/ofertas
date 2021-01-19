@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kt6qHP+YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EPQRQQ6-es'
+slug: 'B00EPQRQQ6-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Cuero A105-1524-00'
 actualPrice: 110.5 EUR
 currency: EUR
 price: 110.5

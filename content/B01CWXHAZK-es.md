@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gjRBSkiAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CWXHAZK-es'
+slug: 'B01CWXHAZK-es Schwarzkopf Professional Osis Mighty Ultra Strong Matte Tratamiento Capilar - 85 ml'
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

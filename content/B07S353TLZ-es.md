@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nan0H9eFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S353TLZ-es'
+slug: 'B07S353TLZ-es Love MoschinoJc4033pp1aMujerCarteras de mano con asaMarfil  Avorio 4x16x25 centimeters  W x H x L '
 actualPrice: 69.84 EUR
 currency: EUR
 price: 69.84

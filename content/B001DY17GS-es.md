@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pMtQtE7zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001DY17GS-es'
+slug: 'B001DY17GS-es Nike Force 1 Mid  PS   Zapatillas de Baloncesto para Niños  Blanco  White/White/White 113   29 1/2 EU'
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

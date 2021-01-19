@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zs2LJteML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSMY62Y-es'
+slug: 'B07WSMY62Y-es memumi Case para iPhone 11 Pro MAX Funda  Ultra Delgada [0.3 mm] Ligera Mata Compatible con iPhone 11 Pro MAX Carcasa Funda con Anti-Rasguño y Resistente Huellas  Negro Mate Translúcido '
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Y3y9od4HL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQJHTY7-es'
+slug: 'B07MQJHTY7-es Rowenta - Aspirador escoba inalámbrica RH8773WU  autonomía de hasta 45 minutos. Limpieza libre: Sin cables  sin bolsa y sin concesiones en el rendimiento de succión  Reacondicionado '
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

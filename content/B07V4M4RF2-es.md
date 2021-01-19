@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iRl+5b71L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4M4RF2-es'
+slug: 'B07V4M4RF2-es Love MoschinoJc4247pp0aMujerCarteras de manoRojo  Red 7x14x22 Centimeters  W x H x L '
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

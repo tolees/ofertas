@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nmLx4dFeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075D6FNTC-es'
+slug: 'B075D6FNTC-es EIS  Lubricante Deluxe Aqua sandía  efecto de larga duración acuoso  300ml'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

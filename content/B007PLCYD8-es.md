@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41biJM28I5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007PLCYD8-es'
+slug: 'B007PLCYD8-es Port Designs Colorado - Funda para disco duro de 2.5"  color rosa  135 x 84 x 16 mm'
 actualPrice: 4.08 EUR
 currency: EUR
 price: 4.08

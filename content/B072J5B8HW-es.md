@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gDqTc04mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072J5B8HW-es'
+slug: 'B072J5B8HW-es Grohe Grohtherm SmartControl  - Termostato cuadrado para ducha y baño con instalación empotrada y dos válvulas  Cromo  Ref. 29124000 '
 actualPrice: 331.21 EUR
 currency: EUR
 price: 331.21

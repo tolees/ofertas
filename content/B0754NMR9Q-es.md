@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bK2NVIddL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0754NMR9Q-es'
+slug: 'B0754NMR9Q-es Salomon Mallas para running  AGILE LONG TIGHT  tejido de punto  negro  mujer  talla: M  l40125900'
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

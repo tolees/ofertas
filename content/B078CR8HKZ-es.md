@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CgstDnNvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078CR8HKZ-es'
+slug: 'B078CR8HKZ-es L Oréal Paris  Infallible Stick de Maquillaje 24h  Tono 140 Natural Rose'
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

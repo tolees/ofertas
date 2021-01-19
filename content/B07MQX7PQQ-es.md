@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411Jj5N6stL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQX7PQQ-es'
+slug: 'B07MQX7PQQ-es GANT MD. Extrafine Lambswool V-Neck suéter  Gris  Dk Charcoal Melange 97   Medium para Hombre'
 actualPrice: 49.07 EUR
 currency: EUR
 price: 49.07

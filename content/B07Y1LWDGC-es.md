@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Dog9-bUUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y1LWDGC-es'
+slug: 'B07Y1LWDGC-es LIGE Relojes para Hombre Impermeable Cuarzo Analógica Reloj Negro Simple Acero Inoxidable Reloj de Pulsera'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JomA-Y3QL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L8DZWWS-es'
+slug: 'B01L8DZWWS-es Coche Electrico de Bateria 12V para Niños Infantil Deportivo 130x71x52cm 3-8 Años Musica MP3  Rojo '
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

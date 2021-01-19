@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mp59SUnzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7J9MSP-es'
+slug: 'B07W7J9MSP-es Qiwode Escurreplatos extensible para escurreplatos  cestas de secado de platos para ollas  cuencos y utensilios de cocina  acero inoxidable Style A: Arch Net'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

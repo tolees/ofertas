@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gex2xypHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NS744HP-es'
+slug: 'B07NS744HP-es Marco Tozzi 2-2-25112-33  Botas Chukka para Mujer  Gris  Dk.Grey Multi 241   38 EU'
 actualPrice: 12.41 EUR
 currency: EUR
 price: 12.41

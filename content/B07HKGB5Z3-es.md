@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bo9ZWZw9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKGB5Z3-es'
+slug: 'B07HKGB5Z3-es Under Armour UA W Breathe Trainer x NM  Zapatillas de Deporte para Mujer  Gris  Downpour Gray 401   39 EU'
 actualPrice: 56 EUR
 currency: EUR
 price: 56

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310WG-2L04L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002OJYK5G-es'
+slug: 'B002OJYK5G-es Brennenstuhl Eco-Line regleta de enchufes con 6 tomas de corriente y protección contra sobretensiones  cable de 1.5 m  interruptor iluminado  protección sobretensión hasta 13.500 A   color antracita'
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

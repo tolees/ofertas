@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CCPSjXicL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9NJ8T3-es'
+slug: 'B07G9NJ8T3-es LolaPix Caja Merienda Unicornio Vuelta al Cole Personalizada con Nombre/Curso. Varios Diseños a Elegir'
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

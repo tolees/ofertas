@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wHd+nemFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JK4M28C-es'
+slug: 'B07JK4M28C-es Puntos Negros Mascarilla  Mascarilla Exfoliante  Black Mask-Mascara Negra De Purificante Espinillas y Piel Muerta  Hidratar Piel  Eliminar Puntos Negros  Acné-60 g/2.1oz'
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

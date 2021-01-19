@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-9ko3oqSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075V9YTKK-es'
+slug: 'B075V9YTKK-es Rugby 18 - Versión Española'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

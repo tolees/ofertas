@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jso5oM2AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCJC7S5-es'
+slug: 'B06XCJC7S5-es MEDION ERAZER X58426 - Monitor Gaming Curvo de 80.1 cm  31.5"  Full HD  HDMI  144 Hz  16:9   color negro'
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

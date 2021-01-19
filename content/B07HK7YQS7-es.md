@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qhMc3a3hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HK7YQS7-es'
+slug: 'B07HK7YQS7-es Amazon Essentials - Cazadora ligera para hombre  Azul marino/ Blanco  US L  EU L '
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

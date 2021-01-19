@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410GnpJHtjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VTGDQQ-es'
+slug: 'B071VTGDQQ-es Star Wars-Funko SW-EP8 Figura de Vinilo Pop 10: B Character  Episodio 8  Multicolor  Standard 14751'
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

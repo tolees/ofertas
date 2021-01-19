@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XQUNfdloL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C28HBDF-es'
+slug: 'B07C28HBDF-es JACK & JONES Jjipaul Jjflake AKM 542 Olive Night Noos Pantalones  Verde  W32/L30  Talla del Fabricante: 32  para Hombre'
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

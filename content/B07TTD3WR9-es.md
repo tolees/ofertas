@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sUuKmZpbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTD3WR9-es'
+slug: 'B07TTD3WR9-es Funko- Pop Rocks: Iron Maiden-Piece of Mind  Skeleton Eddie  Collectible Toy  Multicolor  45983 '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

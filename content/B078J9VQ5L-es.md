@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41y8CTgALfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078J9VQ5L-es'
+slug: 'B078J9VQ5L-es StillCool Universal Tablet para iPad Soporte de la Cama Soporte Marco Ángulo de intersección Ajuste fácil para iPad'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

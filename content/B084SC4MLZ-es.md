@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eJHmNnW5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084SC4MLZ-es'
+slug: 'B084SC4MLZ-es Dragon Ball Kame-Carpeta Anillas'
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

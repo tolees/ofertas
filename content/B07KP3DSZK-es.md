@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AMKrqzkyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP3DSZK-es'
+slug: 'B07KP3DSZK-es SALOMON Speed Pro 1 Par de Calcetines Tobilleros  Unisex Adulto  Gris Claro/Turquesa  Waterfall   S  36-38 '
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

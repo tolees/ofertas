@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5122k-+pkNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5WTV2G-es'
+slug: 'B07H5WTV2G-es Riot: Civil Unrest'
 actualPrice: 19.86 EUR
 currency: EUR
 price: 19.86

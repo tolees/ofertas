@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kewxNw6CL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HLWJ3M5-es'
+slug: 'B07HLWJ3M5-es READ Reloj Deportivo Impermeable para Hombres con Fecha Automática  Cronógrafo  Reloj Despertador  Fecha Completa del Calendario y Luz LED  Black '
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zscpm1tuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLY623Y-es'
+slug: 'B07RLY623Y-es Columbia Vitesse Outdry  Zapatillas de Deporte para Mujer  Gris  Grey Ice/Canyon Rose 063   37.5 EU'
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

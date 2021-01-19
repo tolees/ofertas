@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yDbVhaL6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QNLB47-es'
+slug: 'B086QNLB47-es Promini - Body para bebé con texto en inglés "Everyday I m Guzzling"'
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

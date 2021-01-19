@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zx2yZvROL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3HHN7F-es'
+slug: 'B07Z3HHN7F-es Bidé de Viaje Portátil  Dalmo DDB01S3 Bidet de Viaje  Incluye 2 Boquillas + Bolsa Antipolvo  Cómodo Almacenamiento de Las Boquillas  Bidé Personal de Mano con Bolsa de Viaje - 450 ml'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

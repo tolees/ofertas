@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pOhBijRmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZ44QLA-es'
+slug: 'B01MZ44QLA-es Joseph Joseph Surface Organizador de Utensilios y Cuchillos  Acero Inoxidable  Plata  18x13x20 cm'
 actualPrice: 29.18 EUR
 currency: EUR
 price: 29.18

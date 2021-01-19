@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EsRkWw-CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QM6HVM-es'
+slug: 'B087QM6HVM-es Dani - Estragón hoja - Pack 12 x 8g'
 actualPrice: 6.03 EUR
 currency: EUR
 price: 6.03

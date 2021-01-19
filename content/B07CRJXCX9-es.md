@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dgGTICzFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CRJXCX9-es'
+slug: 'B07CRJXCX9-es American Tourister Holiday Heat - Upright Equipaje de Mano  55 cm  42 l  Azul  Denim Blue '
 actualPrice: 48.84 EUR
 currency: EUR
 price: 48.84

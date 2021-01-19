@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Btmum9XJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078KC4QX1-es'
+slug: 'B078KC4QX1-es Lebze Muselina Manta Bebé -"Diente de Leon" Bambú Algodón Bebé Chica o Baby Boy Mantas 120x120 cm Swaddle'
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

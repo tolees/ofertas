@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ub5DzmOML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZK45S2-es'
+slug: 'B07WZK45S2-es SOONSOP - Funda para Samsung Galaxy A50  Multicolor  antigolpes  Ultrafina  de Silicona TPU  con diseño de Ancla'
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418EwH8o91L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMNWM79-es'
+slug: 'B07VMNWM79-es Calvin Klein Short Runner Bañador  Negro  PVH Black BEH   Large para Hombre'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

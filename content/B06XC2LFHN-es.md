@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ir1NNXkjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC2LFHN-es'
+slug: 'B06XC2LFHN-es Funko Pop! - Dolores Abernathy Figura de Vinilo  seria Westworld  13525 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

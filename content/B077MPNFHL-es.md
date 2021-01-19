@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bvexIr-hL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MPNFHL-es'
+slug: 'B077MPNFHL-es Puma Vikky Platform Ribbon P  Zapatillas para Mujer  Negro Black Black  37 EU'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

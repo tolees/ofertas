@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415JuxdrgeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWXD92F-es'
+slug: 'B07TWXD92F-es Women s Secret Packs 1 Maternity Braguita  Gris  Marengo 90    Tamaño del Fabricante: M  para Mujer'
 actualPrice: 8.63 EUR
 currency: EUR
 price: 8.63

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41owWwFQsKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TH1LGII-es'
+slug: 'B00TH1LGII-es Vileda 949860 Robot aspirador inteligente con programador y estación de carga  25 W  68 Decibelios  Otro  Negro'
 actualPrice: 199.39 EUR
 currency: EUR
 price: 199.39

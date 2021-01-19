@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vs9SwD6UL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGSF2MM-es'
+slug: 'B07KGSF2MM-es Energy Beat Box 2+ Lightcube  Beat Lights  TWS  Bluetooth v4.2  5W  microSD MP3  FM Radio  - Morado'
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

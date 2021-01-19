@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pcmw8GY9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076KRB2S9-es'
+slug: 'B076KRB2S9-es VAUDE Classic Back Alforja  Unisex Adulto  Negro  Phantom Black   Talla Única'
 actualPrice: 62.11 EUR
 currency: EUR
 price: 62.11

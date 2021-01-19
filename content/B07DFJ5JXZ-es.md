@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rB3YW9MiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFJ5JXZ-es'
+slug: 'B07DFJ5JXZ-es Paletero Bullpadel 18004 Azul Flúor'
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

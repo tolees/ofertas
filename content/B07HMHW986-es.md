@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EWgllWOIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMHW986-es'
+slug: 'B07HMHW986-es Panama Jack Bill C2  Botin para Hombre 46 Marron'
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

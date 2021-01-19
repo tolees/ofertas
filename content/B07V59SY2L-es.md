@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s5Kl1cvAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V59SY2L-es'
+slug: 'B07V59SY2L-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Silicona 1782154'
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

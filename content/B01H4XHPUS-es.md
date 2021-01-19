@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419TU3mQ8vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H4XHPUS-es'
+slug: 'B01H4XHPUS-es Manfrotto MB PL-CC-192N - Bolsa para vídeocámara  Color Negro'
 actualPrice: 145.22 EUR
 currency: EUR
 price: 145.22

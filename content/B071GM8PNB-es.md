@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pGQqOdmKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071GM8PNB-es'
+slug: 'B071GM8PNB-es Saucony Jazz Original Vintage  Zapatillas de Cross para Hombre  Morado  Burgundy/White 11   44.5 EU'
 actualPrice: 58.58 EUR
 currency: EUR
 price: 58.58

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UA-DuZ3IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVY4XM1-es'
+slug: 'B07BVY4XM1-es seQoya - Colorado | Reloj de Madera con Esfera de Madera y Correa de Piel ecológica simulando Madera Estampada | Reloj Hombre y Mujer | Diseño único y Original'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

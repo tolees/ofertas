@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qwrOTtTlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXVXC51-es'
+slug: 'B07YXVXC51-es Ballery Toalla Facial Infantil  10 Piezas Toallas de Muselina para Bebés Toalla De Gasa  Muselina Facial Infantil Algodón Dibujos Animados Paños de Muselina para Niños  30 * 30 CM'
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

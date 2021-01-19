@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zoJItOiKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CLVM3FG-es'
+slug: 'B00CLVM3FG-es Vans M ASHER - Zapatillas para hombre  Negro  canvas Black Black   41'
 actualPrice: 38.01 EUR
 currency: EUR
 price: 38.01

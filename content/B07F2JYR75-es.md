@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417Q6-PuKcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2JYR75-es'
+slug: 'B07F2JYR75-es PUMA Axis  Zapatillas Unisex Adulto  Negro Black/Asphalt  42 EU'
 actualPrice: 38.15 EUR
 currency: EUR
 price: 38.15

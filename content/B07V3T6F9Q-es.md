@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+IsZ9md-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3T6F9Q-es'
+slug: 'B07V3T6F9Q-es CARPISA ® Carro pequeño rígido - Tea'
 actualPrice: 35.4 EUR
 currency: EUR
 price: 35.4

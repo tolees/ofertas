@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cb5GktFIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYQDKQ5-es'
+slug: 'B07TYQDKQ5-es Superga 2750-cotcontrastu  Zapatillas de Gimnasia Unisex Adulto  Blanco  White/Pink Extase A0e   40 EU'
 actualPrice: 10.61 EUR
 currency: EUR
 price: 10.61

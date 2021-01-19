@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ilx5mOvaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK4JL1S-es'
+slug: 'B07KK4JL1S-es Columbia Peakfreak Venture S II Mid  Botas de Senderismo para Hombre  Negro  Black  Dark Ado 010   42 EU'
 actualPrice: 39.22 EUR
 currency: EUR
 price: 39.22

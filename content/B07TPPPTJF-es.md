@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mJfKd4JvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPPPTJF-es'
+slug: 'B07TPPPTJF-es Levi s Original Batwing  Multicolor  Hm Patch Polo Riverside/White/Mello 0010   X-Large para Hombre'
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

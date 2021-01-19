@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xnIUpK+WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072V4HL4G-es'
+slug: 'B072V4HL4G-es KLIM™ RGB Alfombrilla de Ratón Chroma – Material de Alta Precisión – Efectos de Luces - Múltiples Modos - Gaming - para Jugadores [ Nueva 2020 Versión ]'
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

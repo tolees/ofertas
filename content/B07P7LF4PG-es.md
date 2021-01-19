@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514tkHf-qXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7LF4PG-es'
+slug: 'B07P7LF4PG-es Cómo Entrenar A Tu Dragón 3  4K UHD + BD  [Blu-ray]'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

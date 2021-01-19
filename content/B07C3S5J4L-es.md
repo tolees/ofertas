@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yDNFZp-eL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C3S5J4L-es'
+slug: 'B07C3S5J4L-es AmazonBasics - Maleta de mano rígida de alta calidad  con ruedas y cerradura TSA incorporada  55 cm  Azul'
 actualPrice: 46.9 EUR
 currency: EUR
 price: 46.9

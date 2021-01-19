@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418D8iXH+EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZNKR4Z-es'
+slug: 'B07KZNKR4Z-es Alex Perry Regalo Día de la Madre pulseras mujer pulsera plata mujer pulseras mejores amigas mujer joyas para mujer bisuteria mujer joyeria mujer regalos originales para mujer'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

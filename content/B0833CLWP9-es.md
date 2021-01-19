@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lVcKk0MXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0833CLWP9-es'
+slug: 'B0833CLWP9-es Pendientes de tuerca de bola de oro amarillo de 14 quilates con rosca azul turquesa de 3 mm a 8 mm'
 actualPrice: 46.12 EUR
 currency: EUR
 price: 46.12

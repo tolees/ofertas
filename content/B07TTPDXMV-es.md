@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510qdnTaKAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTPDXMV-es'
+slug: 'B07TTPDXMV-es Kipling KiplingTotepackMujerBolsos maletínMulticolor  Camo Map  57x37x18 Centimeters  B x H x T '
 actualPrice: 18.23 EUR
 currency: EUR
 price: 18.23

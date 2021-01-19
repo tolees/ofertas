@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VC5Xj-27L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000J38THE-es'
+slug: 'B000J38THE-es Saucony Clarion  Zapatillas de Running para Mujer  Rosa  Rose 2   40.5 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

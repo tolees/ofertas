@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tKmxp3upL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XC5XNF-es'
+slug: 'B078XC5XNF-es Relojes Hombre Acero Inoxidable Impermeable Deportes analógico de Cuarzo Hombres Reloj LIGE Negocios Cronógrafo Calendario Negro Relojes Hombre'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

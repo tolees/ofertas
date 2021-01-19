@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RUfjcb-3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMH5BP1-es'
+slug: 'B07CMH5BP1-es Wolfenstein II: The New Colossus'
 actualPrice: 40.88 EUR
 currency: EUR
 price: 40.88

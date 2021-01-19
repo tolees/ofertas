@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31X3LXGAC3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F9ZSWLY-es'
+slug: 'B01F9ZSWLY-es Wella Oil Reflections - 250 ml'
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

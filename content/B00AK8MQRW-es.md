@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uYLWgo8FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AK8MQRW-es'
+slug: 'B00AK8MQRW-es Superga 2750 COTU Classic Zapatillas  Unisex-Adulto  Blanco  C42   38 EU'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

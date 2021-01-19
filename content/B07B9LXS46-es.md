@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O4yOiEbAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9LXS46-es'
+slug: 'B07B9LXS46-es JAIMIE JACOBS ® Cartera Mágica Flap Boy Slim  el Original  Magic Wallet con Bloqueo RFID  Protege Tarjetas de Crédito  Tarjetero Hombre Slim  Cuero Auténtico  Coñac '
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

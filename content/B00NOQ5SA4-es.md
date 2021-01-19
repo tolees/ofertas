@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IGlqAu1pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NOQ5SA4-es'
+slug: 'B00NOQ5SA4-es Mousehouse Gifts Juguete de Madera con Figuras de Animales saltadores y Martillo para niños y niñas'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

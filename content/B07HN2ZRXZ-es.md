@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512nkVtb9rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HN2ZRXZ-es'
+slug: 'B07HN2ZRXZ-es Marca Amazon - Lifelong Alimento completo para gatos adultos - Selección mixta en salsa  2 4 kg  24 bolsitas x 100g '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

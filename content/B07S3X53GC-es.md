@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q49i2R2UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3X53GC-es'
+slug: 'B07S3X53GC-es New Balance 997H m  Zapatillas para Mujer  Azul  Blue Had   37 EU'
 actualPrice: 31.53 EUR
 currency: EUR
 price: 31.53

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411DoloxPjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQ2V9HP-es'
+slug: 'B07QQ2V9HP-es Montse Interiors  S.L. Toalla Playa o Piscina Áncora Azul Algodón Egipcio 100%  Anchor  90x170 '
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

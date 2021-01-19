@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YTAIIvfdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC82MJ2-es'
+slug: 'B07DC82MJ2-es LE COQ SPORTIF Verdon Sport  Zapatillas para Hombre  Beige  Dress Blue/Croissant Bleu   42 EU'
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

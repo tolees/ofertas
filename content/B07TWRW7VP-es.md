@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qR8-qIIHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWRW7VP-es'
+slug: 'B07TWRW7VP-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Castillo de Darth Vader  Compatible con Ladrillos de Construcción Lego Modelo 75251  Juego de Legos no Incluido'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

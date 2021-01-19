@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VLUHdGOAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZQ5VDMD-es'
+slug: 'B07ZQ5VDMD-es relaxdays Especiero con 16 botes para especias  4 estantes  360º  Tapas con dosificadores  Acero inoxidable  Plateado  plata'
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

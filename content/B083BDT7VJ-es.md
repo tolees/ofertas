@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AJ1A6SW0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BDT7VJ-es'
+slug: 'B083BDT7VJ-es Grsta Botella de Agua Acero Inoxidable sin BPA Pared 500ml/Musgo Verde Completo Aislada al Vacío Doble Botellas Termica Ecológica Reutilizable Prueba de Fugas Niños Deporte Dormitorio Gimnasio Hogar'
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

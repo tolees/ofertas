@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EexW7WowL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083JZSG3X-es'
+slug: 'B083JZSG3X-es Linterna LED 2500 Lumen  Yizhet Super Brillante LED Flashlight a Prueba de Agua con 5 Modo Recargable USB Táctica Linterna de Mano de Enfoque Ajustable Portátil para Cámping Senderismo Escalada'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

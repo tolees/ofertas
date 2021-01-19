@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AiLfRYQmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F5NEFMU-es'
+slug: 'B01F5NEFMU-es Yacel CELLUBLOCK. Anticelulítico Intensivo. Quemagrasa y Reduce líquidos. 200ml'
 actualPrice: 9.06 EUR
 currency: EUR
 price: 9.06

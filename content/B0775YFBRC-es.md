@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z5bpfJ8oL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0775YFBRC-es'
+slug: 'B0775YFBRC-es AmazonBasics - Juego de accesorios modernos para baño - 3 unidades - Bronce antiguo'
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

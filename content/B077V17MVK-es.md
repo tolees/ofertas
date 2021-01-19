@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WL5hiKXfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077V17MVK-es'
+slug: 'B077V17MVK-es Kipling Creativity S  Cartera para Mujer  Marrón  True Beige   14.5x9.5x5 cm'
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

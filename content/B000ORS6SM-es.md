@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317+fbIls-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000ORS6SM-es'
+slug: 'B000ORS6SM-es Max Factor 12057 Masterpiece MAX Máscara de Pestañas - 7 ml'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

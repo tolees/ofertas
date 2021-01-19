@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515iwRukE+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QDZF33-es'
+slug: 'B079QDZF33-es Maleta de cabina Catalina Estrada Faisan rígida 55cm Azul'
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

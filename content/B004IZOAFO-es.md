@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q3ObXx1wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004IZOAFO-es'
+slug: 'B004IZOAFO-es Nespresso Krups Pixie XN3005 - Cafetera monodosis de cápsulas Nespresso  19 bares  apagado automático  color gris'
 actualPrice: 88.72 EUR
 currency: EUR
 price: 88.72

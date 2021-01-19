@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bqvaLUEBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QY2Q7N4-es'
+slug: 'B07QY2Q7N4-es Primo Slinky Cuerdas Guitarra Eléctrica Nickel Wound - 9.5-44'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

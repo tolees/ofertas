@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410RV53WQoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4NKDZ8-es'
+slug: 'B07D4NKDZ8-es La Toja Selection - Sales de Baño con Minerales Termales del Manantial - 250gr'
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

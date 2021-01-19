@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413W989S8wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071DV7NLV-es'
+slug: 'B071DV7NLV-es Glighone Apliques de Pared LED 6W Lámpara de Pared Interior Luz Moderna Luz de Puro Aluminio para Decoración del Hogar Dormitorio Pasillo Sala de estar Entrada  Blanco Frío'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

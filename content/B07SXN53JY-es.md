@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518rtYnBs4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXN53JY-es'
+slug: 'B07SXN53JY-es FIFA 20 - Edición Legacy'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

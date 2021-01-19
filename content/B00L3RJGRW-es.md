@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416bAdDkNtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L3RJGRW-es'
+slug: 'B00L3RJGRW-es Star Trek Starfleet Command Division Insignia de Réplica'
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51FwQHFCE8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R2C9S7G-es'
+slug: 'B07R2C9S7G-es Zombie Army Trilogy - Survivor Edition'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

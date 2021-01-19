@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316E5fmg02L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB4VLTR-es'
+slug: 'B07HB4VLTR-es Figura Pop Dragon Ball: Goku Casual'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

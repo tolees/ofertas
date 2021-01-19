@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iaEk2UOEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YVRSBV4-es'
+slug: 'B07YVRSBV4-es Nike JR Vapor 13 Club MDS TF PS  V   Botas de fútbol Unisex niño  Multicolor  Blue Void/Barely Volt/White/Black 401   31.5 EU'
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418FGMyh6NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9T3KNM-es'
+slug: 'B06X9T3KNM-es Revell IL-2 Stormovik  Kit de Modelo  Escala 1: 48  3932   03932 '
 actualPrice: 19.47 EUR
 currency: EUR
 price: 19.47

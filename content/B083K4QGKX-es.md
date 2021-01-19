@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hzKLqXXVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083K4QGKX-es'
+slug: 'B083K4QGKX-es LEADSTAR Templado Protector Pantalla para Samsung Galaxy Tab A 10.1 T510/ T515 2019  Anti-arañazos  9H Dureza  Alta Definición Cristal Templado para SM-T510 / SM-T515'
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

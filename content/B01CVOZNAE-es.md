@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bo85lkNtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CVOZNAE-es'
+slug: 'B01CVOZNAE-es SAMSUNG TA20 Cargador Galaxy S7   Carga rápida  AFC 2 A  con Cable Micro USB de 1 5 m  Blanco'
 actualPrice: 6.53 EUR
 currency: EUR
 price: 6.53

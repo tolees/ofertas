@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jzvfw2gcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078TLM39T-es'
+slug: 'B078TLM39T-es Pepe Jeans Vincent Polo  Gris  Grey Marl 933   X-Large para Hombre'
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

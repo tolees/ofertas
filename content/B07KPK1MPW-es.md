@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31J2VpiOj6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPK1MPW-es'
+slug: 'B07KPK1MPW-es Pop! Vinilo: Fairy Tail S3: Zeref'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

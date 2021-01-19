@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jY3Dp4-oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKKT22W-es'
+slug: 'B07DKKT22W-es Kipling - Arto S  Bolsos bandolera Mujer  Rojo  Active Red '
 actualPrice: 27.37 EUR
 currency: EUR
 price: 27.37

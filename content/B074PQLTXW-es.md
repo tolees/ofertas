@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ki-SRVd3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PQLTXW-es'
+slug: 'B074PQLTXW-es Ball Rescuer: Bote Presurizador de Pelotas de Pádel y Tenis - Modelo Básico: no Incluye Bomba ni envase.'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

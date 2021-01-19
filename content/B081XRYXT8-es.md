@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41io8ic53JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081XRYXT8-es'
+slug: 'B081XRYXT8-es LA Active Calcetines Antideslizantes - Para Yoga Pilates Ballet Barre Mujer Hombre Hospital - Crew  Gris y Negro '
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

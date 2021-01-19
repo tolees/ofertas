@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NfxPDT9dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWVF98X-es'
+slug: 'B07GWVF98X-es TECHBREY Ventilador de Techo LED Modern Negro 40W Blanco Neutro 4000K - 4500K'
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

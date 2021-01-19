@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eOEZBtFCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797GZJKQ-es'
+slug: 'B0797GZJKQ-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en Caucho W1053L3'
 actualPrice: 117.71 EUR
 currency: EUR
 price: 117.71

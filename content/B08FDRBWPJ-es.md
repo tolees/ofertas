@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EGLRAmu3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FDRBWPJ-es'
+slug: 'B08FDRBWPJ-es Gentai 256GB/512GB/1024GB Tarjeta Micro SD Tabletas Tarjeta de memoria SDXC Clase 10 de alta velocidad con adaptador Micro SD  512GB '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

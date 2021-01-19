@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E2cmrHkxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TJIPRCU-es'
+slug: 'B00TJIPRCU-es Nike Revolution 4  GS   Zapatillas de Running para Niños  Azul  Neutral Indigo/Light Carbon-Obsidian 501   37.5 EU'
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AwiI04BJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KBWBWIQ-es'
+slug: 'B00KBWBWIQ-es Oral-B Crossaction - Cabezal de Recambio  Set de 3 Recambios para Cepillo Eléctrico Recargable  Cabezal Redondeado con Diseño de Inspiración Profesional para Limpiar Diente por Diente  Blanco'
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

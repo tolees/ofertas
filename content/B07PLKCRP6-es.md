@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rQrBqygCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLKCRP6-es'
+slug: 'B07PLKCRP6-es Pegatinas de pared de imitación de ladrillo tridimensional Arte de sala de estar en el pasillo extraíble Adecuado para el dormitorio y la sala de estar - Blanco300x600mm'
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WXKVjpt0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MAZHS8Q-es'
+slug: 'B01MAZHS8Q-es NanoCable 10.99.0002 - Adaptador metálico de 3.5" para Instalar 2 Discos Duros de 2.5" en Ordenador  Color Negro'
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

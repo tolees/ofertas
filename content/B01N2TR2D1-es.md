@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BtWTXKRiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2TR2D1-es'
+slug: 'B01N2TR2D1-es WITHLIN Paquete de fotografía profesional - deporte bandolera con cadena de seguridad para cámaras SLR réflex DIGITAL  Canon Nikon Sony Olympus Pentax  etc '
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

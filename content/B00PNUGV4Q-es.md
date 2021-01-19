@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FOxolxzcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PNUGV4Q-es'
+slug: 'B00PNUGV4Q-es Adidas Zx Flux - Zapatillas para Bebés  Color Negro  Negro/Negro/Ftwr Blanco   Talla  36.6666666666667'
 actualPrice: 44.54 EUR
 currency: EUR
 price: 44.54

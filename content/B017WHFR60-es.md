@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OOfbMSfkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017WHFR60-es'
+slug: 'B017WHFR60-es Columbia Zero Rules Polo con Protección Solar 30  Hombre  Gris  Shark Heather   X-L'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

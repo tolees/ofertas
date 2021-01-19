@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+qO5bNlwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JUIPL88-es'
+slug: 'B01JUIPL88-es Aingoo Silla de Escritorio para niños Silla para niños Silla giratoria para niños Silla giratoria para niños Silla ergonómica Ajustable en Altura para niñas Niños Youth Resilient 100KG Rosa'
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

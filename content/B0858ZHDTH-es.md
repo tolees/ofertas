@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Yd4VyyPxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0858ZHDTH-es'
+slug: 'B0858ZHDTH-es Oihxse Funda Huawei Honor 8C  Ultra Delgado Transparente TPU Silicona Case Suave Claro Elegante Creativa Patrón Bumper Carcasa Anti-Arañazos Anti-Choque Protección Caso Cover  A14 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

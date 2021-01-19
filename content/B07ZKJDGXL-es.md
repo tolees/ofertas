@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Sn+R5KqDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKJDGXL-es'
+slug: 'B07ZKJDGXL-es JK-2 Cómoda Manta Tejida de Tela Baby Stretch Wrap Cerca de la Piel del bebé'
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

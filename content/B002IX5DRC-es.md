@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411wREuIAbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002IX5DRC-es'
+slug: 'B002IX5DRC-es NP-60 - Batería de Ion de Litio para Fuji  1200 mAh  3 7 V '
 actualPrice: 7.31 EUR
 currency: EUR
 price: 7.31

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G0585imOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004D2B5HS-es'
+slug: 'B004D2B5HS-es Eastpak Talky Riñonera  23 cm  2 L  Gris  Sunday Grey '
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

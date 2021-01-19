@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q3JGEZCpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01789QMUW-es'
+slug: 'B01789QMUW-es LaCie Rugged Mini - Disco Duro Externo de 4 TB con USB 3.0  Naranja'
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

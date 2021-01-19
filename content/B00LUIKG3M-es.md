@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lnD5T1jTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LUIKG3M-es'
+slug: 'B00LUIKG3M-es adidas Originals Stan Smith  Zapatillas de Deporte Unisex Adulto  Blanco  Running White FTW/Running White/Fairway   40 EU'
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UlCEdFXZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLZY5B5-es'
+slug: 'B07JLZY5B5-es Wrangler Arizona Jeans  Azul  Fuse Blue 40d   40W / 32L para Hombre'
 actualPrice: 42.48 EUR
 currency: EUR
 price: 42.48

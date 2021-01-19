@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51RYNcZELHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNJL21G-es'
+slug: 'B07TNJL21G-es Amzdeal Lijadora Orbital Excéntrica Neumática Dual-acción Rectificadora Máquina para Lijar 10000 Rpm con Manguera y Bolsa Pulidor Multifunción para Coche  Metal  Muebles'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

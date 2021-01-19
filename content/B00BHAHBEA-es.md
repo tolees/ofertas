@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aO0seM+RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BHAHBEA-es'
+slug: 'B00BHAHBEA-es Educa Borrás Mouse Infantil Baby Minnie  5 Puzzles progresivos de 3 a 5 Piezas  a Partir de 24 Meses  15612 '
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

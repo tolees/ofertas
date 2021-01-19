@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412PAnhkREL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXJMFQQ-es'
+slug: 'B07GXJMFQQ-es Comfysail 2Pcs Dispensador de Leche en Polvo para Lactantes Viajes 4 Compartimientos Fórmula Sin Derrames'
 actualPrice: 10.78 EUR
 currency: EUR
 price: 10.78

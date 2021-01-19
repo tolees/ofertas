@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Pb3a1vjkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BC58WIE-es'
+slug: 'B00BC58WIE-es Philips GC160/02 - Plancha en seco con suela DynaGlide 1200 W  punta estrecha  control de temperatura fácil'
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

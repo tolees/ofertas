@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gcMRGsj1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PBWW4C-es'
+slug: 'B087PBWW4C-es Luces LED de silicona Luces nocturnas Micro Paisaje LED Luces nocturnas Portátil USB de carga USB Inducción táctil Luces ambientales Luces de regalo  Color: azul '
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

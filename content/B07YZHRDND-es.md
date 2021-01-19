@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QOA6SfIzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZHRDND-es'
+slug: 'B07YZHRDND-es Molinillo sal y pimienta Molinillos de especias Premium Juego de molinillo de sal de acero inoxidable y saleros y pimenteros de cuerpo de vidrio con grosor de cerámica ajustable para cocinar BBQ'
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

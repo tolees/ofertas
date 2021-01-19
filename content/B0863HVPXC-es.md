@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NlgzdtHUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0863HVPXC-es'
+slug: 'B0863HVPXC-es AGOTD Bombillas LED G9 4W Equivale 40W Halógena  6000K Blanco frio 400LM  360 Grados AC 200-240V  No Regulable  Pack de 10'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

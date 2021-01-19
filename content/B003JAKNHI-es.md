@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zBBFD30dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003JAKNHI-es'
+slug: 'B003JAKNHI-es PowerBar Ride Energy Peanut Caramel 18x55g - Barra de Proteínas de Carbohidratos + Magnesio'
 actualPrice: 18.48 EUR
 currency: EUR
 price: 18.48

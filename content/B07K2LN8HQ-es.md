@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u45igmXSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2LN8HQ-es'
+slug: 'B07K2LN8HQ-es Under Armour Pre School Assert 8 Ufm Syn Ac Zapatillas de Running Unisex Niños  Negro  Black/Black/Black  001  001   18 EU  2 UK '
 actualPrice: 9.72 EUR
 currency: EUR
 price: 9.72

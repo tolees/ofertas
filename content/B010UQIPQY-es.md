@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ok5Ls5bFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010UQIPQY-es'
+slug: 'B010UQIPQY-es Philips Bombilla LED Vela E14  4 W equivalentes a 25 W  luz blanca cálida'
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

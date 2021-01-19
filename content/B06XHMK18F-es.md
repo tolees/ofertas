@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418umpcoZ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHMK18F-es'
+slug: 'B06XHMK18F-es auna TT-931 - Tocadiscos   Reproductor de vinilos   accionamiento por Correa   Arranque automático   2 velocidades   33 y 45 RPM   Pitch Ajustable   Peso de Soporte Ajustable   café'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

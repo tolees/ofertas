@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ckhJJu-sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BXFXAVG-es'
+slug: 'B01BXFXAVG-es CLP Silla Racing De Oficina Fire Estilo Deportivo I Silla Gaming Regulable En Altura & Giratoria I Silla Gamer con Ruedas Deslizantes I Color: Negro/Rojo'
 actualPrice: 82.9 EUR
 currency: EUR
 price: 82.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KGced9eAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PYC2A66-es'
+slug: 'B00PYC2A66-es Ritchey WCS Puños Manillar  Unisex Adulto  Naranja  Talla Única'
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

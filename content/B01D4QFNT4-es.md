@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r1GUA5JSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D4QFNT4-es'
+slug: 'B01D4QFNT4-es Revell- Modelo Clamp Set  8   Color Negro  39070 '
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415TKqb8kAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYEU7HZ-es'
+slug: 'B01LYEU7HZ-es Skechers Women 12615 Low-Top Trainers  Black  Black Mesh/White Trim Bkw   7 UK  40 EU '
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

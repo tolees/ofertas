@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41074+RkxGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G67LBGR-es'
+slug: 'B07G67LBGR-es Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK6613'
 actualPrice: 175.73 EUR
 currency: EUR
 price: 175.73

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51P5WYP5TWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZL9XD5-es'
+slug: 'B07MZL9XD5-es Beslands Esterilla de calefacción Perros y Gatos  15 W  Esterilla térmica e Impermeable  con 7 temperaturas Ajustables  40 x 30 cm   S '
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

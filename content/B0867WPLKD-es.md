@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OoiRSBLBL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0867WPLKD-es'
+slug: 'B0867WPLKD-es Hatteker Barbero Electrico Cortapelos Profesional Hombre Cortador Pelo Cortadora de Pelo Recargable Máquina de Afeitar Recortadora Barba y Precisión Impermeable'
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

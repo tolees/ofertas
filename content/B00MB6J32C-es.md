@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MsGbl9RQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MB6J32C-es'
+slug: 'B00MB6J32C-es Russell Hobbs Grind & Brew - Cafetera de Goteo  Jarra Cafetera Térmica para 10 Tazas  1000 W  Gris  - ref. 21430-56'
 actualPrice: 158.49 EUR
 currency: EUR
 price: 158.49

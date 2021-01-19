@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AugE5MrEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NNZQJL-es'
+slug: 'B089NNZQJL-es Simulación de lujo con perlas y pendientes de perlas Joyas 1 par Fiesta segura Diseño exquisito Duradero Precioso - Dorado y rosa'
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

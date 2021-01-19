@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vUPXMFZ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY88JJ3-es'
+slug: 'B07FY88JJ3-es L Oréal Paris Make-up designer X Isabel Marant "Pillage Western" Pintalabios Mate Rojo'
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5156WvYgcoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXRRLD2-es'
+slug: 'B07NXRRLD2-es Alarma Personal  Alarma Personal de Emergencia  Scream Safesound  3 Piezas 140DB Alarma Seguridad Autodefensa con Luz LED Llaveros para Mujeres  Niños  Ancianos  Turno Nocturno'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

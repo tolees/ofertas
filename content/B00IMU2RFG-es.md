@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CeyXHnXSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IMU2RFG-es'
+slug: 'B00IMU2RFG-es Estee Lauder Youth Dew Edp Vapo 65 Ml 15 ml'
 actualPrice: 25.17 EUR
 currency: EUR
 price: 25.17

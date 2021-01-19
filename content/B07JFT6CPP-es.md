@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31rWwEh8haL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFT6CPP-es'
+slug: 'B07JFT6CPP-es Crocs Crocband Rain Boot Kids  Botas de Agua Unisex Niños  Verde  Army Green/Slate Grey 3tf   32/33 EU'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

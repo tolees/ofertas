@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RoaOubENL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LX2JC4O-es'
+slug: 'B00LX2JC4O-es Acer Monitor K222HQLbid 55cm  21.5    5ms 100M:1 ACM 200nits LED HDMI DVI EURO/UK EMEA MPRII Black Acer EcoDisplay'
 actualPrice: 53.4 EUR
 currency: EUR
 price: 53.4

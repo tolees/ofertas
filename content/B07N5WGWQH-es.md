@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41boFt9xGiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5WGWQH-es'
+slug: 'B07N5WGWQH-es Pop! My Hero Academia - Figura de Vinilo 5 Star Katsuki'
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vXoa+540L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4F8ZMH-es'
+slug: 'B07Q4F8ZMH-es Dockers by Gerli 45ca101  Botas Militar para Hombre  Negro  Schwarz 100   42 EU'
 actualPrice: 21.38 EUR
 currency: EUR
 price: 21.38

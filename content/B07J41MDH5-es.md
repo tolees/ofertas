@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P1YZ23HIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J41MDH5-es'
+slug: 'B07J41MDH5-es Emporio Armani Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable AR11177'
 actualPrice: 133.88 EUR
 currency: EUR
 price: 133.88

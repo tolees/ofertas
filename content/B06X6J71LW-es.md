@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oHYhlQIJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X6J71LW-es'
+slug: 'B06X6J71LW-es Metal Bookmark with Tassels and Envelope - Amupper Página Kawaii Leaf Book Marcadores Para Libros Stationery Gift School Supplies  Paquete de 7'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

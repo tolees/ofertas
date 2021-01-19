@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gXQeJ0qAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPF1DTX-es'
+slug: 'B07JPF1DTX-es adidas Terrex Eastrail GTX  Track and Field Shoe Mens  Carbon/Core Black/Grey  40 2/3 EU'
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

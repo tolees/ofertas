@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51x93NNj3KL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DRQ3FZ-es'
+slug: 'B079DRQ3FZ-es DYNASONIC - Altavoz Bluetooth con Karaoke 10W | Reproductor mp3 Inalámbrico Portátil  Lector USB SD  Radio FM - Modelo 1'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

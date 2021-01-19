@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r-UhTrEqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFQKGTN-es'
+slug: 'B07DFQKGTN-es PUMA ESS Sweat TR cl Pants  Mujer  Negro  Cotton Black   XL'
 actualPrice: 23.91 EUR
 currency: EUR
 price: 23.91

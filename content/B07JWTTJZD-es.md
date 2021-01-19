@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417j5pZJXpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWTTJZD-es'
+slug: 'B07JWTTJZD-es Bohemian Rhapsody Blu-Ray [Blu-ray]'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

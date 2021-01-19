@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51A3DM-uRfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JDOLI4G-es'
+slug: 'B00JDOLI4G-es La Couronne de Paille  The Puppet Crown '
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

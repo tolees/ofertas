@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IlVLvMreL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BOQAI7S-es'
+slug: 'B01BOQAI7S-es 5 Pcs Broca Escalonada Cobalt Múltiples Orificios Profesional 50 Tamaños Acero Paso Taladro Cono HSS Acero Alta Velocidad Paso Broca Herramientas Caja Aluminio Agujero Cortadoras'
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411zpsEmasL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086P8S6FM-es'
+slug: 'B086P8S6FM-es POMILE HD cámara web  computadora portátil USB PC cámara web con micrófono con clip de 360 grados para computadora de escritorio PC portátil Skype negro'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

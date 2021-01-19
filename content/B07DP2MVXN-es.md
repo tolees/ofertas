@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UVK41XO2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP2MVXN-es'
+slug: 'B07DP2MVXN-es Under Armour Zinger SL Polo  Mujer  Azul  Dust/Dust/Dust 416   L'
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HmmLRHUiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZM1KCH-es'
+slug: 'B07CZM1KCH-es Under Armour Performance Polo 2.0  Niños  Negro  Black/Mod Gray Light Heather/Pitch Gray 001   S'
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

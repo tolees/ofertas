@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51akNxMF6mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078PFXLF8-es'
+slug: 'B078PFXLF8-es ammoon Kit Herramientas de Guitarra Mantenimiento de Reparación de Limpieza Incluye Organizador de Cuerdas y String Action Ruler&Calibre Herramienta de Medición&Juego de Llaves Hexagonales y Archivos'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

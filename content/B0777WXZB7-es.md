@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zG7Ih9DzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777WXZB7-es'
+slug: 'B0777WXZB7-es Under Armour UA Mojo  Zapatillas de Running para Hombre  Gris  Steel/White 101   40 EU'
 actualPrice: 37.77 EUR
 currency: EUR
 price: 37.77

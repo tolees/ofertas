@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21tTM6CAUbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MUIM6RK-es'
+slug: 'B00MUIM6RK-es D-Link DNR-312L - Dispositivo de Almacenamiento en Red  Negro'
 actualPrice: 197.12 EUR
 currency: EUR
 price: 197.12

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Utq3UjD8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTLCSK-es'
+slug: 'B07SWTLCSK-es adidas Ultraboost 19 W  Zapatillas de Running para Mujer  Gris  Grey Three F17/Grey Two F17/Core Black Grey Three F17/Grey Two F17/Core Black   36 EU'
 actualPrice: 125.95 EUR
 currency: EUR
 price: 125.95

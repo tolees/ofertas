@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QJ+1vDwzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CMKV6F6-es'
+slug: 'B08CMKV6F6-es Reloj Digital Deportivo para Niños  Reloj de Pulsera Niña Multifunción con Pantalla LED Impermeable 30M para Niños  Niñas Reloj Infantil Aprendizaje para Niños 4-15 Años  Rosa '
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

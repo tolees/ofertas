@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412PLSCtNTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJSBKXN-es'
+slug: 'B07RJSBKXN-es FNTSIC - Bolsas de hombro ligeras de camuflaje para niños  naranja  Camo   Multicolor  - FTC021-3'
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78

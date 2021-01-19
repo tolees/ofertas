@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ufzq6WjGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VL5FMMS-es'
+slug: 'B07VL5FMMS-es Doc Mao Enchufe de Acero Inoxidable con diseño de Joyas Color púrpura Oscuro  3 PCS '
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

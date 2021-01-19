@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21xRqJDlBOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H48FRYL-es'
+slug: 'B07H48FRYL-es Lékué - Recipiente hermético para transportar alimentos  Coral  400 ml'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

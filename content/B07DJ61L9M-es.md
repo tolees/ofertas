@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nAR5d2o8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ61L9M-es'
+slug: 'B07DJ61L9M-es New Balance Cm997hce  Zapatillas para Hombre  Plateado  Pigment/Silver   45.5 EU'
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516MhK-bxML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZXJV8Q-es'
+slug: 'B083ZXJV8Q-es Piscina Luz LED Impermeables Luces Sumergibles Control Remoto Bajo El Agua Luces Multicolores LED Luz Sumergible para Acuario Estanque Bodas Fiesta Jardín 1 PCS）'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

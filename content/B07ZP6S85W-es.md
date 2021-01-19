@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3157bEp9f+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZP6S85W-es'
+slug: 'B07ZP6S85W-es Tarros de Almacenamiento  Tarros de Cristal con Cierre Hermético Tapa de Bambú  Botes de Cristal para Dulces  Galletas  Arroz  Azúcar  Harina  Pasta  Café - Conjunto de 3  250ml'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

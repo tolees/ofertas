@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gzR1Ca%2B6L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5LTZ6Q-es'
+slug: 'B07C5LTZ6Q-es Removedor espinilla  Chuangmeida Limpiador de Poros Extractor de aspiración de vacío eléctrico con 4 cabeza multifuncional  Acné facial de limpieza del acné Comedo Tratamiento Máquina de la piel'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

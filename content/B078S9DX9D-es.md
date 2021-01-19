@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ocSv4BXQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078S9DX9D-es'
+slug: 'B078S9DX9D-es Quemagrasas Natural Termogénico Adelgazante Fat Burner Supresor de Apetito Ingredientes 100% Naturales 120 Cápsulas Vegetal Alta Concentración Certificado VEGANO Fabricado en CE. N2 Natural Nutrition'
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

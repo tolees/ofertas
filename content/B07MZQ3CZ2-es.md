@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413UOYQlZHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ3CZ2-es'
+slug: 'B07MZQ3CZ2-es Pepe Jeans Helaia suéter   Écru 814   Medium para Mujer'
 actualPrice: 29.76 EUR
 currency: EUR
 price: 29.76

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31k8NSk-7tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9DR8QG-es'
+slug: 'B07S9DR8QG-es Logitech G703 Lightspeed Ratón Gaming Inalámbrico  Captor Hero 16 000 dpi  Pesos Ajustables  6 Botones Programables  Memoría Integrada  Compatible con PC/Mac  Negro'
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QskeEU2dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW99JY5-es'
+slug: 'B07KW99JY5-es Salomon Trailster Zapatillas de trail running Hombre  Gris  Stormy Weather/Navy/Valiant Poppy   42.66666667 EU  8.5 UK '
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

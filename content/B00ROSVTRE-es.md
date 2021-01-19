@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CqGEUmiDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ROSVTRE-es'
+slug: 'B00ROSVTRE-es Philips NT5180/15 - Recortador de vello  nariz y orejas  resistente al agua  negro y azul oscuro  battery-powered'
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

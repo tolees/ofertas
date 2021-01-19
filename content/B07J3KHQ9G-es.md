@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E1NN1qjrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3KHQ9G-es'
+slug: 'B07J3KHQ9G-es Moleskine - Agenda Diaria de 12 Meses 2020  Tamaño Grande 13 x 21 cm  400 Páginas  Negro  AGENDA 12 MOIS '
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

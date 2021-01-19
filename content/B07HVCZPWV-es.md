@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x2PuOyOkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HVCZPWV-es'
+slug: 'B07HVCZPWV-es GIOVARA tapete transparente para silla con borde para suelos de alfombra de pelo bajo  mediano  90 x 120 cm  alta resistencia al impacto  material antideslizante  no reciclable'
 actualPrice: 24.91 EUR
 currency: EUR
 price: 24.91

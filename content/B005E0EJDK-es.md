@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XY1bsqZcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005E0EJDK-es'
+slug: 'B005E0EJDK-es TooQ TQR-208B - Lector Interno de Tarjetas de Memoria  CF  MS  SD  SDXC  microSDXC  X-Memory  TF  Micro SD  y M2   3.5"  USB 2.0  Color Negro  chasis metalico  480Mbps.'
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CC0v6b82L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0854RJ6KF-es'
+slug: 'B0854RJ6KF-es Beurer EM-26 Electroestimulador para hombro  TENS  alivia dolor  brazalete universal  2 electrodos  4 aplicaciones programadas  con pantalla LCD  regulable  negro'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

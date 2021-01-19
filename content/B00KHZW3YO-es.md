@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515OTEHloTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHZW3YO-es'
+slug: 'B00KHZW3YO-es Diablo 3 - Ultimate Evil Edition'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

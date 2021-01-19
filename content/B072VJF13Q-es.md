@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514W+jqJTEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072VJF13Q-es'
+slug: 'B072VJF13Q-es Buff Neper Gorro Tricot Y Polar  Unisex Adulto  Violet  Talla única'
 actualPrice: 18.76 EUR
 currency: EUR
 price: 18.76

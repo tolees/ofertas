@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hz0qIAwVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BNZP9B0-es'
+slug: 'B01BNZP9B0-es Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3205 0'
 actualPrice: 132.0 EUR
 currency: EUR
 price: 132.0

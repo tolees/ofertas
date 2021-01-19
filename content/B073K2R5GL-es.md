@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BzwzaT9YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073K2R5GL-es'
+slug: 'B073K2R5GL-es Salomon Speedcross 4 W  Zapatillas de trail running para Mujer  Azul  Poseidon/Eggshell Blue/Black   36 2/3 EU'
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nSYnNsTrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTJHDW2-es'
+slug: 'B07KTJHDW2-es Scuderia Ferrari Reloj de pulsera Analógico Para Unisex Niños de Cuarzo con Correa en Silicona 860005'
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

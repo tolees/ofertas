@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31d7guJ6+vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QC5TL1W-es'
+slug: 'B07QC5TL1W-es La Toja Selection - Gel de Baño Esencia de Madera de Cedro y Ginkgo - 500ml'
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

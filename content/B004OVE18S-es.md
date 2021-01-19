@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r5oJAFDeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004OVE18S-es'
+slug: 'B004OVE18S-es B+W XS-Pro Digital - Filtro UV para 72 mm'
 actualPrice: 40.9 EUR
 currency: EUR
 price: 40.9

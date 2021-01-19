@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CgyDDpR4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SVL1J8W-es'
+slug: 'B00SVL1J8W-es Casio Reloj Analogico para Hombre de Cuarzo con Correa en Resina MCW-100H-1AVEF'
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

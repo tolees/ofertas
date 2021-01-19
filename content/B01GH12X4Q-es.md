@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+I5uuzaUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GH12X4Q-es'
+slug: 'B01GH12X4Q-es 12 Pares Distintos Tamaños De Perlas De Imitación Cremosa Aretes De Perla Blanca'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

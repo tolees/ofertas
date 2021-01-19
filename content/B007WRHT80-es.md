@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61jIyD6rutL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007WRHT80-es'
+slug: 'B007WRHT80-es Gre KIT730W Pacific - Piscina Elevada Ovalada  Aspecto Madera  730 x 375 x 120 cm'
 actualPrice: 465.0 EUR
 currency: EUR
 price: 465.0

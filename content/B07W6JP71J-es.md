@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519dhvNuL8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6JP71J-es'
+slug: 'B07W6JP71J-es GRIDINLUX. Ejercitador de Piernas TRAINER LEGS. Gimnasia Pasiva  Mando a Distancia  Masaje de Pies  Altura Regulable  Intensidad Ajustable  Fácil de usar'
 actualPrice: 119.97 EUR
 currency: EUR
 price: 119.97

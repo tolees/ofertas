@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T+bON+tIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHRRYS5-es'
+slug: 'B07CHRRYS5-es Mr. Wonderful WOA09019ES - Set de Libretas + Boli'
 actualPrice: 10.17 EUR
 currency: EUR
 price: 10.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HxNLnPqHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBVOE5Q-es'
+slug: 'B01NBVOE5Q-es Unique Party - Vasos de Papel - 266 ml - Diseño de Princesa Rosa - Paquete de 8  58136 '
 actualPrice: 2.15 EUR
 currency: EUR
 price: 2.15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GeDjIMenL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K8ZVVA0-es'
+slug: 'B00K8ZVVA0-es plata Plated Yazilind deslumbrante corte princesa champán cúbico Circonita perfecto gancho cuelga los pendientes'
 actualPrice: 2.82 EUR
 currency: EUR
 price: 2.82

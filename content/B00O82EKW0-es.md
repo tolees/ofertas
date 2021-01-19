@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eSHURRdvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O82EKW0-es'
+slug: 'B00O82EKW0-es Reloj Komono Moneypenny Royale para Mujer KOM-W1240'
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

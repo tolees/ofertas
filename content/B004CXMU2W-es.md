@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412Ht9snA+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004CXMU2W-es'
+slug: 'B004CXMU2W-es Biofinity Toric Lentes de contacto tóricas mensuales  R 8.7  D 14.5  -5.5 dioptría  cilindro -1.25  eje 180-3 lentillas'
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

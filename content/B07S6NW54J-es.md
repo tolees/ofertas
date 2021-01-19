@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vtkrWawHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NW54J-es'
+slug: 'B07S6NW54J-es PUMA X-Ray Game  Zapatillas Unisex-Adulto  Blanco White/Gray Violet/Mist Green Black  44 EU'
 actualPrice: 38.01 EUR
 currency: EUR
 price: 38.01

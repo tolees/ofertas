@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61hKJegEbfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003Z7S0MA-es'
+slug: 'B003Z7S0MA-es Hermano oso [DVD]'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

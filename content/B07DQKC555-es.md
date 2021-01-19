@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519IR94AoSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQKC555-es'
+slug: 'B07DQKC555-es TACKLIFE Lijadora Orbital  Lijadora Eléctrica de 6 Velocidades Variables 280W  10PCS Lijas y 3PCS Almohadillas de Pulido  Máquina de Lijado con Caja de Recolección de Polvo para Lijar y Pulir PRS02A'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

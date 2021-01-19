@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CEmu0DnNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVQKXRJ-es'
+slug: 'B07PVQKXRJ-es Under Armour UA W Charged Breathe TR 2  Zapatillas Deportivas para Interior para Mujer  Gris  Jet Gray/Jet Gray/Halo Gray   42 EU'
 actualPrice: 37.59 EUR
 currency: EUR
 price: 37.59

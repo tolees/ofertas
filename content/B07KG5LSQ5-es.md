@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31RhGdGM5%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG5LSQ5-es'
+slug: 'B07KG5LSQ5-es PUMA Tarrenz SB  Zapatillas Unisex Adulto  Black-Whisper White  47 EU'
 actualPrice: 36.58 EUR
 currency: EUR
 price: 36.58

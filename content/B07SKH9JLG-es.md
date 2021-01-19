@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vmQe6uFYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKH9JLG-es'
+slug: 'B07SKH9JLG-es J.Endéar Infinito Amor Amistad Cuerda Pulsera Regalo para Mujer 24 cm Trenzado Ajustable Hecho a Mano'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

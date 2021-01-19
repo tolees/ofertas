@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xSwlBh-ML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYLMPDD-es'
+slug: 'B07PYLMPDD-es Apple MVFU2ZM/A Funda para teléfono móvil Folio - Fundas para teléfonos móviles  Folio  iPhone XS MAX '
 actualPrice: 89.16 EUR
 currency: EUR
 price: 89.16

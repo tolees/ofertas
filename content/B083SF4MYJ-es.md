@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CqW74b4pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SF4MYJ-es'
+slug: 'B083SF4MYJ-es Funda Universal para Tableta portátil Funda Ultra Suave Impermeable a Prueba de Golpes Funda Protectora a Prueba de Golpes para PC portátil - Negro - 9"'
 actualPrice: 1.78 EUR
 currency: EUR
 price: 1.78

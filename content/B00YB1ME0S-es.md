@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MX3VnZ0kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YB1ME0S-es'
+slug: 'B00YB1ME0S-es Tommy Hilfiger Brief 3 Pack Premium Essentials Calzoncillos  Multicolor  Black/Grey Heather-EUR/White   Large  Pack de 3  para Hombre'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

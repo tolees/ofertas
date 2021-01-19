@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kFVkbpeVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB1DZMQ-es'
+slug: 'B07QB1DZMQ-es VGBEY Pelota de Futbol  Fútbol clásico Talla 4 para Entrenamiento Balón de fútbol con válvula'
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

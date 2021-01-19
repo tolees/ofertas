@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hd6PEQ5WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWBXQ1F-es'
+slug: 'B07KWBXQ1F-es EMPIRE GAMING Storm Cooler – Base de refrigeración PC Gamer 12 a 17’’- 4 ventiladores silenciosos – 3 posiciones ajustables – 2 puertos USB – LED Rojo'
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61p7zQpbMyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07572HYLD-es'
+slug: 'B07572HYLD-es Real Farm'
 actualPrice: 27.7 EUR
 currency: EUR
 price: 27.7

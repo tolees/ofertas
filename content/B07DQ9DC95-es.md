@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5110p1eLHcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQ9DC95-es'
+slug: 'B07DQ9DC95-es Sekiro: Shadows Die Twice'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

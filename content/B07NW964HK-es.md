@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416XRu33QaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW964HK-es'
+slug: 'B07NW964HK-es Skechers Flex Appeal 3.0-Satellites  Zapatillas para Mujer  Charcoal Mesh/Pink Trim Ccpk  4.5 EU'
 actualPrice: 25.65 EUR
 currency: EUR
 price: 25.65

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zaq349upL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RMWQ3Q-es'
+slug: 'B073RMWQ3Q-es Columbia GoodlifeTM Lace  Zapatillas Casual para Mujer  Blanco  White  Ti Grey Steel   37 EU'
 actualPrice: 21.42 EUR
 currency: EUR
 price: 21.42

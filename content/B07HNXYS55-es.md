@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419RRfZtTnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNXYS55-es'
+slug: 'B07HNXYS55-es Sonew Buscador de Seguimiento de Mascotas Portátil USB Mini-Microchip RFID 134.2Khz  1 '
 actualPrice: 42.59 EUR
 currency: EUR
 price: 42.59

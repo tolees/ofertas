@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413rY8EM0oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0198KU8PY-es'
+slug: 'B0198KU8PY-es POP! Vinilo - One Piece: Portgas D. Ace'
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

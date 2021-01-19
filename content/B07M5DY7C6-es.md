@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yfUrGJUYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5DY7C6-es'
+slug: 'B07M5DY7C6-es Wrangler Greensboro Jeans  Azul  Green Night 26M   32W / 31L para Hombre'
 actualPrice: 50.34 EUR
 currency: EUR
 price: 50.34

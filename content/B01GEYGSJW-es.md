@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UXHoUhdfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GEYGSJW-es'
+slug: 'B01GEYGSJW-es Brooks Defyance 9  Zapatillas de Gimnasia para Hombre  Gris  Charcoal/Silver/High Risk Red   42 EU'
 actualPrice: 36.91 EUR
 currency: EUR
 price: 36.91

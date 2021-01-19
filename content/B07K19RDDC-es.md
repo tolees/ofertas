@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Cwzs%2BA3bL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K19RDDC-es'
+slug: 'B07K19RDDC-es adidas Tiro19 2in1 SHO Sport Trousers  Hombre  Black/White  2XL'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

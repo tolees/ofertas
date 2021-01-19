@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yPmf7FabL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZC7SGYS-es'
+slug: 'B07ZC7SGYS-es Scholl Plantilla In-Balance para el alivio del dolor de rodilla y talón  1 par  talla S  37 - 39.5 '
 actualPrice: 14.54 EUR
 currency: EUR
 price: 14.54

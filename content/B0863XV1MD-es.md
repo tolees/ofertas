@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tlBIn-dkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0863XV1MD-es'
+slug: 'B0863XV1MD-es MomMed Oxímetro de Pulso  Oxímetro digital de pulso digital con alarma | Lecturas precisas SpO2  índice de perfusión  oxígeno en sangre  frecuencia del pulso  BPM | Fácil de leer | Uso para atletas'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

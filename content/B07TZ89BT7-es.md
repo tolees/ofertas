@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pbIPLGnbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ89BT7-es'
+slug: 'B07TZ89BT7-es RASPBERRY Fuente DE ALIMENTACION USB-C 5.1V 3A - Blanco - para RASPBERRY PI 4  1873421 '
 actualPrice: 10.05 EUR
 currency: EUR
 price: 10.05

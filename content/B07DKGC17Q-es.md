@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31v-6rzRc9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKGC17Q-es'
+slug: 'B07DKGC17Q-es Kipling - Earthbeat M  Bolsos bandolera Mujer  Blanco  Dazz White '
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

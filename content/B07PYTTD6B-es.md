@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VYsbqMMyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYTTD6B-es'
+slug: 'B07PYTTD6B-es Toy Partner- Roblox Juguete Figura   ROG0101 '
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

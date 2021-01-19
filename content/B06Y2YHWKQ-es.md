@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JVXKinKsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2YHWKQ-es'
+slug: 'B06Y2YHWKQ-es Brabantia NewIcon Cubo de basura de pedal  Acero Inoxidable  Mineral Infinite Grey  12 litros'
 actualPrice: 48.75 EUR
 currency: EUR
 price: 48.75

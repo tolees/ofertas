@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TLhgn4PUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4BC7CK-es'
+slug: 'B07B4BC7CK-es Paranix Loción. Tratamiento para Piojos y Liendres - Incluye Lendrera - Sin insecticidas -100 ml'
 actualPrice: 8.73 EUR
 currency: EUR
 price: 8.73

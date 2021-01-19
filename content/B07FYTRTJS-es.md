@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dPKKKmiDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYTRTJS-es'
+slug: 'B07FYTRTJS-es OSRAM NIGHT BREAKER LASER H1  Gen 2  +150% más luz  bombilla H1 para faros delanteros  64150NL-01B  12V  blister simple  1 lámpara '
 actualPrice: 10.38 EUR
 currency: EUR
 price: 10.38

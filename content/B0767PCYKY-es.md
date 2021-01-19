@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HKmlVolhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0767PCYKY-es'
+slug: 'B0767PCYKY-es The Inpatient'
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

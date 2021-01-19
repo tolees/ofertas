@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zywzY70SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q5RY45F-es'
+slug: 'B07Q5RY45F-es ONTA Botella De Agua Plegable-Botella De Agua Plegable De Silicona Libre De BPA para Viajes Aprobada por La FDA Botella De Agua Portátil De Silicona De Grado Alimenticio a Prueba De Fugas para Viajes'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

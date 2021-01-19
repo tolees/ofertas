@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EiMDRWFsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YF9PQ5M-es'
+slug: 'B07YF9PQ5M-es Wodgreat Reproductor MP3  Reproductor de Música MP4 Reproductor de HiFi Lossless Sound  Pantalla de Color de 1.8 Pulgadas  Altavoz Incorporado/Radio FM/Grabación de Voz/E-Book  Soporta hasta 128GB'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

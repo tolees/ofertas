@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zEDl9nzLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXQDNR8-es'
+slug: 'B07FXQDNR8-es Vans Filmore Decon  Zapatillas para Mujer  Negro  Black/True White 1wx   38.5 EU'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

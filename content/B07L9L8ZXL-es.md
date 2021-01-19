@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31I2nkJhXGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9L8ZXL-es'
+slug: 'B07L9L8ZXL-es Lacoste Sideline 319 1 Cfa  Zapatillas para Mujer  Blanco  White/Navy 042   36 EU'
 actualPrice: 31.53 EUR
 currency: EUR
 price: 31.53

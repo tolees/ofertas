@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BNE9OAFPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084JCWLVW-es'
+slug: 'B084JCWLVW-es Moliies Base líquida Taylormade Warm Skin Tone para aclarar el corrector portátil Duradero y no fácil de desvanecer - Color de piel'
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

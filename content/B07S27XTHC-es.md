@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nmX72KYEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S27XTHC-es'
+slug: 'B07S27XTHC-es Nike M NSW tee Icon Futura T-Shirt  Hombre  Obsidian/lt Photo Blue/ White '
 actualPrice: 8.65 EUR
 currency: EUR
 price: 8.65

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315S5CC9LOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKMSWX9-es'
+slug: 'B07FKMSWX9-es Joma Academy Chandal Caballero  Hombre  Royal/Marino  2XL'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

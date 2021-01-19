@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61-CIfXAtYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SSPY8Y-es'
+slug: 'B089SSPY8Y-es ZoneYan Pistola de Agua Grande  Pistola de Agua para Niños  Pistola de Agua de Juguete para Adultos  Supersoaker  Pistola Blaster  Doble Boquilla  con Correa  8 Metros Rango  600ml'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

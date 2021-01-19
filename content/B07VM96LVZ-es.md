@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ocTHGvEmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VM96LVZ-es'
+slug: 'B07VM96LVZ-es Discos de Lija  120 Piezas 125 mm  5"  a 8 agujeros  24* grano 60/80/120/180/240   Carburo de Silicio  para Makita  Bosch  Tacklife  Dewalt  Ryobi Lijadora Orbital del mismo tamaño- TASP25A'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

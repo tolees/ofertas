@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U4R69HxWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAH7M24-es'
+slug: 'B00XAH7M24-es Gal Vaselina Neutra Perfumada - 13 ml'
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

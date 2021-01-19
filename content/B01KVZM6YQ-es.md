@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Vo8v-GCzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KVZM6YQ-es'
+slug: 'B01KVZM6YQ-es Zelite Infinity Cuchillo de Chef Santoku 18 cm - Serie Comfort-Pro - Acero inoxidable  alto carbono  X50 Cr MOV 15'
 actualPrice: 44.08 EUR
 currency: EUR
 price: 44.08

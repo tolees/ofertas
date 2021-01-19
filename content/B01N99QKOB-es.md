@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ExQGn2fDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N99QKOB-es'
+slug: 'B01N99QKOB-es Fantasy Flight Games Star Wars - Caja de Inicio: Kylo REN Destiny  Juego de Mesa  Edge Entertainment EDGSWD01 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

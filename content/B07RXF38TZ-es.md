@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51p4aiVADiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXF38TZ-es'
+slug: 'B07RXF38TZ-es EMS Hips Electroestimulador Muscular Gluteos Estimulador de Glúteos Herramientas Nalgas HipTrainer para la Cadera Mujer USB Recargable Estimulador Muscular Ejercitar Gluteos  Hombre y Mujer'
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

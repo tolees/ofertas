@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P7nv+rvpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZY7DC7-es'
+slug: 'B07NZY7DC7-es Skechers Metco-Parken  Zapatillas para Hombre  Gris  Gray Black Mesh Gybk   39.5 EU'
 actualPrice: 29.86 EUR
 currency: EUR
 price: 29.86

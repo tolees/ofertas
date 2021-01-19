@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Xt50mHxyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NH12RWL-es'
+slug: 'B01NH12RWL-es Finether-Lámpara de Pie Plegable Táctil de Alumnio con Cuatro Niveles de Intensidad  10W  Color Marrrón  para Dormitorio Sala Oficina etc'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

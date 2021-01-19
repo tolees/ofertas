@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/614NDrxUGML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FX04UFI-es'
+slug: 'B00FX04UFI-es World Of Warcraft 5.0'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

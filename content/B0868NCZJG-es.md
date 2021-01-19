@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R0X-0dzfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868NCZJG-es'
+slug: 'B0868NCZJG-es Suhctup Transparente Funda Compatible con Samsung Galaxy S9+ Plus Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para Samsung Galaxy S9+ Plus 3 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BPsm45IzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LQKE93Q-es'
+slug: 'B01LQKE93Q-es SD toys Juego de Tronos Jarra de Cerveza 3D Rotating Lannister'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qfXahVLlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5LG5S4-es'
+slug: 'B07C5LG5S4-es Jack & Jones Jjeholmen Sweat Hood Noos Capucha  Rojo  Port Royale Fit:Reg Fit   Small para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

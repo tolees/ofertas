@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41isGigN37L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ3MP48-es'
+slug: 'B07NJ3MP48-es Salomon PROLOG 25 BAG Bolsa'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

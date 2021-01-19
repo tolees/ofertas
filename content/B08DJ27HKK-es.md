@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416vq5zK+sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ27HKK-es'
+slug: 'B08DJ27HKK-es Smart Sir 4 Pares de Calcetines para Hombre y Mujer Calcetines de deporte Calcetines de tenis hasta la pantorrilla Azul claro Blanco 43-46'
 actualPrice: 14.24 EUR
 currency: EUR
 price: 14.24

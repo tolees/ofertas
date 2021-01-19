@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WhaCCYZJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014RJBMT2-es'
+slug: 'B014RJBMT2-es Issey Miyake Nuit D Issey Parfum Vapo 75 Ml 1 Unidad 75 g'
 actualPrice: 43.02 EUR
 currency: EUR
 price: 43.02

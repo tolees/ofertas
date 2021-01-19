@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hO5PpkBRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000PVH3ZE-es'
+slug: 'B000PVH3ZE-es Quercetti-Quercetti-2123 FC Básico d.15-Juego Educativo de mosaicos  2123 '
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w3PmrX3hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TW5CJC-es'
+slug: 'B083TW5CJC-es Percha Curva Perla Pajarita Decoración Ropa para niños Perchero Percha de plástico Percha de plástico Percha Perla - Blanco 1'
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

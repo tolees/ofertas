@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lnZlqzpwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGF1NXN-es'
+slug: 'B07RGF1NXN-es RenFox Cesta Colgante de Metal  Organizador de Cesta Colgante  Cesta de Almacenaje Estante Colgante de Cocina Canasta de Metal de Almacenamiento para Cocina Armario Oficina Baño Juego de 2'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

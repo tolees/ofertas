@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2BiC6sEaL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGTNH27-es'
+slug: 'B07YGTNH27-es LCQI Dardos Punta Acero Bandera Inglaterra Gran Bretaña UK'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

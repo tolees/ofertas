@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ojMN5go6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007AB92DI-es'
+slug: 'B007AB92DI-es Case Logic VNAI-215 - Maletín para Ordenador portátil'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

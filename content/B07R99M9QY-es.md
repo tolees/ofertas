@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419VbE6AFhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R99M9QY-es'
+slug: 'B07R99M9QY-es ASUS VivoBook Flip 14 TP412UA-EC175T - Ordenador portátil de 14" FullHD  Intel Core i3-7020U  4GB RAM  128GB SSD  Intel HD 620  Windows 10  plata azul - Teclado QWERTY Español'
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

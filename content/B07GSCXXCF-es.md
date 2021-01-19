@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BvBWEKesL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSCXXCF-es'
+slug: 'B07GSCXXCF-es Bourjois Velvet The Lipstick Barra De Labios Tono 021 Grande Roux - 23 gr'
 actualPrice: 3.37 EUR
 currency: EUR
 price: 3.37

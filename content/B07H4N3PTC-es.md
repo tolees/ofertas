@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V0GpEW+tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4N3PTC-es'
+slug: 'B07H4N3PTC-es CONFU Quitapelusas Eléctrico Recargable USB adecuado para todas las Prendas Ropas Elimina Pelusas y Bolitas de Manera Rápida y Efectiva'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

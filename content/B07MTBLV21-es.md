@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iCuIxfM0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTBLV21-es'
+slug: 'B07MTBLV21-es FOGAWA 380-400Pcs Cuentas de Madera Redondas Colores Kit Abalorios Madera Perlas de Madera Cuentas para Pulseras Bolas Madera Manualidades para Collares Joyas con Caja y Cuerdas 7 x 6mm 10 Colores'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

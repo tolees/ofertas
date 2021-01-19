@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31m5ZPL-frL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QL9RZ9M-es'
+slug: 'B07QL9RZ9M-es Targus Click-In 20 1 cm  7.9"  Folio Negro - Fundas para Tablets  Folio  Apple  iPad Mini 4  3  2  20 1 cm  7.9"   280 g  Negro '
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

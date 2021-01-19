@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dETe0MUoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RF1SZ93-es'
+slug: 'B07RF1SZ93-es Levi s LEVIS FOOTWEAR AND ACCESSORIES Ivan Belt Cinturón  Negro  R Black 59   95 para Hombre'
 actualPrice: 27.47 EUR
 currency: EUR
 price: 27.47

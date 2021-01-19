@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MKx9jTVWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FF5Z7NJ-es'
+slug: 'B07FF5Z7NJ-es Burrito Blanco Juego de Sábanas Blanco de Hostelería para Cama Individual de 80 cm x 190/200 cm  Disponible en Más Medidas '
 actualPrice: 19.6 EUR
 currency: EUR
 price: 19.6

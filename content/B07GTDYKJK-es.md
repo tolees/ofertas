@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZuN4F6tjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GTDYKJK-es'
+slug: 'B07GTDYKJK-es GERUIKE Estante Ducha Rinconera Ducha Estanteria Baño Cesta de Ducha Estante de almacenaje baño y Cocina Bandeja de Ducha Rectangular Adhesiva con 2 Ganchos Aluminio Clavos sin Taladro Negro'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

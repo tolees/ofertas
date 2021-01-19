@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jeP+M2dcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFKTZ8K-es'
+slug: 'B07FFKTZ8K-es Fossil Smartwatch para Hombre con Correa en Cuero FTW4016'
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

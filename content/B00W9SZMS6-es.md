@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51frUpj4ERL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W9SZMS6-es'
+slug: 'B00W9SZMS6-es Calvin Klein Radiant Cotton-Bikini Tanga  Negro  Black 001   Small para Mujer'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

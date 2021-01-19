@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wMgLgsPWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T66D1HG-es'
+slug: 'B07T66D1HG-es UMIPUBO Invisible Sujetador Adhesivo Deportivo para Mujer Push Up Sujetador Reutilizable Sin Tirantes Silicona Bra Strapless Nipple Covers  Piel 2 Pares   12cm Copa C  '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

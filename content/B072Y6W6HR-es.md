@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51A-exFtV3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072Y6W6HR-es'
+slug: 'B072Y6W6HR-es Columbia Zero Rules Polo de Manga Corta  Hombre  Gris  Carbon Heather   XS'
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

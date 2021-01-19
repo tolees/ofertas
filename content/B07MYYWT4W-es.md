@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cSBeJAhxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYYWT4W-es'
+slug: 'B07MYYWT4W-es Skechers Solar Fuse  Zapatillas Deportivas para Mujer  Negro  Lt Gray Mesh/Duraleather/Hot Pink Trim Bkmt   35.5 EU'
 actualPrice: 44.26 EUR
 currency: EUR
 price: 44.26

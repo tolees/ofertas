@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BBGlwZaRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBSW24C-es'
+slug: 'B07SBSW24C-es MUSITREND Tocadiscos de Vinilo con 2 Altavoces incorporados  3-velocidades 33/45/78 RPM  Madera Natural'
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

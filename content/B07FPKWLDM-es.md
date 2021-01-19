@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b-1uSSv+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPKWLDM-es'
+slug: 'B07FPKWLDM-es PUMA Cilia  Zapatillas para Mujer  Negro Black White/Gray Violet Silver  42.5 EU'
 actualPrice: 23.72 EUR
 currency: EUR
 price: 23.72

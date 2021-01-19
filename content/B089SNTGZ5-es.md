@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ag0pqhq4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SNTGZ5-es'
+slug: 'B089SNTGZ5-es VEEAPE Dispensador de jabón automático  350ml Sensor Infrarrojo Sin Contacto Dispensador de Jabón de Espuma con 2 Volúmenes de Espuma Ajustables para Baño Cocina Aseo Oficina Hotel Plata '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

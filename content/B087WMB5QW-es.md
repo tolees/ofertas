@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dqHZjtTIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WMB5QW-es'
+slug: 'B087WMB5QW-es Gually Une Fois-l Higienne - 50 piezas  color azul'
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

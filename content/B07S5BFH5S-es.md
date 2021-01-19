@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sl0CK4XlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5BFH5S-es'
+slug: 'B07S5BFH5S-es NvWang Origami Papel Origami 100 Hojas 15 x 15 cm Doble Cara Papel para papiroflexia para Folded Square Origami Manualidades y DIY Proyectos de Artes'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4126ejYxA5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E3TSCV2-es'
+slug: 'B01E3TSCV2-es Chubasquero cortavientos de entretiempo de Geographical Norway negro S'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

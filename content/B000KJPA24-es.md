@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ImM4hq+rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KJPA24-es'
+slug: 'B000KJPA24-es Wedo 212 Taburete con Ruedas  Gris'
 actualPrice: 31.39 EUR
 currency: EUR
 price: 31.39

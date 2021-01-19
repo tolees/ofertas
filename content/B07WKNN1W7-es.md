@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419m+gCYfbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WKNN1W7-es'
+slug: 'B07WKNN1W7-es Skechers Flex Appeal 3.0-Quick Voyage  Zapatillas sin Cordones para Mujer  Multicolor Blanco Azul Hot Pink Wbhp  39 EU'
 actualPrice: 46.13 EUR
 currency: EUR
 price: 46.13

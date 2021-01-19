@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21Aa0y2Y69L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0014TLNJ8-es'
+slug: 'B0014TLNJ8-es BaByliss BAB663E PRO - Cepillo térmico Ø 18 mm'
 actualPrice: 35.15 EUR
 currency: EUR
 price: 35.15

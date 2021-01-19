@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pWamjbNXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDM34M3-es'
+slug: 'B07RDM34M3-es adidas Gazelle  Zapatillas para Hombre  Azul  Hi/Res Aqua/Footwear White/Footwear White 0   42 EU'
 actualPrice: 47.48 EUR
 currency: EUR
 price: 47.48

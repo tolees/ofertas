@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i4VfpC-uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFNKQ79-es'
+slug: 'B07XFNKQ79-es HBselect Sujetador Lactancia Sostén De Maternidad con Almohadillas Desmontable Fácil De Desabrochar para Dar El Pecho'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

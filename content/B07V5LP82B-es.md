@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jlnvkoLKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5LP82B-es'
+slug: 'B07V5LP82B-es JOHN SMITH OGNI J 001 AZUL REAL'
 actualPrice: 13.05 EUR
 currency: EUR
 price: 13.05

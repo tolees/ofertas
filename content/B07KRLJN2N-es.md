@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRLJN2N-es'
+slug: 'B07KRLJN2N-es New Balance 373 Zapatillas Hombre  Marrón  Brown   38 EU'
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

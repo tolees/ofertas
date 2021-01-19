@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SrHiKyskL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FYBVTPY-es'
+slug: 'B08FYBVTPY-es Panamar Juego de Red de Voleibol de Agua  Juguete de Agua  Red de Voleibol de Agua  Juguete para Piscina  Red de Voleibol  Red de Baloncesto'
 actualPrice: 19.66 EUR
 currency: EUR
 price: 19.66

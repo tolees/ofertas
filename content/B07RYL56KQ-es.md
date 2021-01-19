@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lT36dN7cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYL56KQ-es'
+slug: 'B07RYL56KQ-es New Balance 373v2  Zapatillas para Mujer  Gris  Grey/White Gc2   41.5 EU'
 actualPrice: 51.18 EUR
 currency: EUR
 price: 51.18

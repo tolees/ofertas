@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yyf+9XFuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZMBZPH-es'
+slug: 'B073ZMBZPH-es WD My Book Duo Disco duro externo de Sobremesa de 4 TB con RAID  USB 3.1 gen 1'
 actualPrice: 104.97 EUR
 currency: EUR
 price: 104.97

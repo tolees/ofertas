@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eOLtYuDVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMW2BVW-es'
+slug: 'B07VMW2BVW-es Organizadores para Coche  2 Pack Organizadores para Asientos de Coches  Asiento Trasero a Prueba de Agua Cubiertas para Coches con Sostenedor de Tablet-bolsillo de Pantalla Táctil'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

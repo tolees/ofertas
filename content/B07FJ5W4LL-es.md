@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+AyIVI15L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJ5W4LL-es'
+slug: 'B07FJ5W4LL-es Sorel Glacy Short  Botas para Mujer  Negro  Black/Shark 010   40 EU'
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

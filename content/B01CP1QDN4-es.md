@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419O-JqRd3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CP1QDN4-es'
+slug: 'B01CP1QDN4-es Sierra de Mano Plegable TIBURÓN GRÜNTEK. Serrucho de poda y jardineria dentado japones'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

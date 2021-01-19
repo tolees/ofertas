@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iUybUbBNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0010MGWCW-es'
+slug: 'B0010MGWCW-es Biotherm Biosource Hydra-Mineral Cleanser Toning Mousse - Desmaquillante  150 ml  piel normal y mixta '
 actualPrice: 15.3 EUR
 currency: EUR
 price: 15.3

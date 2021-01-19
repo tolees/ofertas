@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519l7J-Y2kL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HN4JPDE-es'
+slug: 'B00HN4JPDE-es Anillo Rimous clásico ajustable con bonita flor tibetana color turquesa para mujeres de Yazilind'
 actualPrice: 0.48 EUR
 currency: EUR
 price: 0.48

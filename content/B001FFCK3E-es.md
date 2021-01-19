@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414lbEK7i7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001FFCK3E-es'
+slug: 'B001FFCK3E-es Olimp Sport Nutrition Suplemento Alimenticio Vita-Min Multiple Sport - 60 Cápsulas'
 actualPrice: 10.53 EUR
 currency: EUR
 price: 10.53

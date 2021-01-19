@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YoqfjVzyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004VRBGQK-es'
+slug: 'B004VRBGQK-es BGS 50855 | Caja de ingletes de plástico | 245 x 67 x 48 mm'
 actualPrice: 6.64 EUR
 currency: EUR
 price: 6.64

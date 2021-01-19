@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YHtaA7n1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNQCFMM-es'
+slug: 'B07CNQCFMM-es Leabags - Cuaderno de notas  68 páginas  9 x 14 cm '
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

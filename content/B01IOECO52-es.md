@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yMYQnAkWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IOECO52-es'
+slug: 'B01IOECO52-es Sennheiser HD 2.30i - Auriculares de Diadema Cerrados  3.5 mm  Compatible con iOS   Color Blanco'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

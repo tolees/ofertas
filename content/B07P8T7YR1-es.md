@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31hlYuEsa-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8T7YR1-es'
+slug: 'B07P8T7YR1-es Morgan 192-pelini.n Pantalones  Negro  Noir Noir   Talla única  Talla del Fabricante: T46  para Mujer'
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

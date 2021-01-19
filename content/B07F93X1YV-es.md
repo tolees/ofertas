@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lPB0pLLNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F93X1YV-es'
+slug: 'B07F93X1YV-es Philips Avent Biberón Natural SCF036/17 - Biberón de 330 ml con tetina con flujo para recién nacidos  diseñada para imitar el tacto del pecho  0% BPA  6m+  color transparente'
 actualPrice: 7.18 EUR
 currency: EUR
 price: 7.18

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41n0o5y3deL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004GFWBFW-es'
+slug: 'B004GFWBFW-es POP! Vinilo - Horror: Michael Myers'
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21SHRrPx0kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0038PJTFG-es'
+slug: 'B0038PJTFG-es Universal 00057-76.161.26 Cuchilla de repuesto para cortacésped de Metal para resultados de corte limpios  MBO026  accesorios McCulloch  Standard  53cm'
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

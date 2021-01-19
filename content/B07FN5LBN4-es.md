@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412bhkDiyLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FN5LBN4-es'
+slug: 'B07FN5LBN4-es Rowenta Silence Force Cyclonic RO7691EA Aspirador sin bolsa  filtrado ciclónico  eficiente  silencioso  depósito con capacidad de 2 5 L  fácil de almacenar y de vaciar  con diseño compacto'
 actualPrice: 199.2 EUR
 currency: EUR
 price: 199.2

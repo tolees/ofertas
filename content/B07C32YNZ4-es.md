@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j+wRubcBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C32YNZ4-es'
+slug: 'B07C32YNZ4-es Mascarilla facial con Ácido Hialurónico. Máscara de tejido con sello alemán Dermatest „Muy bueno“. Tratamiento de hidratación intensa para el rostro. konivéo 14 Unidades'
 actualPrice: 65.9 EUR
 currency: EUR
 price: 65.9

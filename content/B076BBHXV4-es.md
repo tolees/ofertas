@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NS4mb8hML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076BBHXV4-es'
+slug: 'B076BBHXV4-es Verdulero Metal 4 Pisos Bianca 81x37x26cm'
 actualPrice: 14.15 EUR
 currency: EUR
 price: 14.15

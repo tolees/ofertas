@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cjCZWBrOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XX1D1YQ-es'
+slug: 'B06XX1D1YQ-es Holland Rosso 300 gr'
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

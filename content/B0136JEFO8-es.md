@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21imtIMgwcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0136JEFO8-es'
+slug: 'B0136JEFO8-es Astor Lash Beautifier Argan Oil Máscara de Pestañas'
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

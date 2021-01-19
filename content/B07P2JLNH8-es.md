@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y+18Ho37L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2JLNH8-es'
+slug: 'B07P2JLNH8-es Anthem - Standard | Código Origin para PC'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d1zwMbz-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K8SK8II-es'
+slug: 'B00K8SK8II-es plata Yazilind elegante plateado alrojoedor Pear cortada azul zafiro cúbico Circonita perfecto cuelga los pendientes'
 actualPrice: 4.54 EUR
 currency: EUR
 price: 4.54

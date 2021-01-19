@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t+V143znL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZFY6XM-es'
+slug: 'B07CZFY6XM-es TOUCHBeauty - Cepillo limpiador cara y Calentador sónico recargable impermeable al agua para limpiar los poros en profundidad y exfoliación dulce ag-1788 gris'
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

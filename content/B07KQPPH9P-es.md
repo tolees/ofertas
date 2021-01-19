@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419F-UKMu4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQPPH9P-es'
+slug: 'B07KQPPH9P-es Salomon Alphacross  Zapatillas de Trail Running para Hombre  Negro Black White Monument  42 EU'
 actualPrice: 40.95 EUR
 currency: EUR
 price: 40.95

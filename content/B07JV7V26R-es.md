@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-J52w2qPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JV7V26R-es'
+slug: 'B07JV7V26R-es Funko- Pocket Pop Fortnite Llavero de Vinilo con Anilla Black Knight  Multicolor  36953 '
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

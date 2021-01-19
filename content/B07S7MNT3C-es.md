@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61%2B9csN8toL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7MNT3C-es'
+slug: 'B07S7MNT3C-es Rage 2'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

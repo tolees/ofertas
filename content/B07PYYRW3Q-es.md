@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WZGxK0HTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYRW3Q-es'
+slug: 'B07PYYRW3Q-es Under Armour UA Charged Commit TR 2  Zapatillas Deportivas para Interior para Hombre  Azul  Versa Blue/White/Black   40 EU'
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

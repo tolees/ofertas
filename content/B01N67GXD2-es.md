@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411qSPaI6FL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N67GXD2-es'
+slug: 'B01N67GXD2-es Salomon Speedcross Vario 2  Zapatillas de Trail Running para Hombre  Azul  Navy Blazer/Nautical Blue/Lime Punch   42 EU'
 actualPrice: 73.59 EUR
 currency: EUR
 price: 73.59

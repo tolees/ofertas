@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UUxxCq8UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9WS56X-es'
+slug: 'B07L9WS56X-es Lacoste Masters Cup 319 1 SMA  Zapatillas para Hombre  Blanco  Wht/Off Wht 65t   44 EU'
 actualPrice: 42.48 EUR
 currency: EUR
 price: 42.48

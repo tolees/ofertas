@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61lzYLG27gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SC433PV-es'
+slug: 'B07SC433PV-es GREAT ART Foto Mural Puente de Brooklyn Poster Americano Nueva York 210 x 140 cm - Papel Pintado 5 Piezas incluye Pasta para pegar'
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

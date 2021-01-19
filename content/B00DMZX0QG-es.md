@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BFbDHsGOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DMZX0QG-es'
+slug: 'B00DMZX0QG-es 4 x Herramienta Coche Car Puerta Palanca Reparación Instalación'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

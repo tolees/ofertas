@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D1VreHexL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1TTTNS-es'
+slug: 'B07G1TTTNS-es Torno de Uñas Profesional de 20000 RPM  morpilot Kit Taladro del Clavo 11 en 1 Máquina Electrónica de Manicura y Pedicura para Hogar y Salón  Un Regalo Perfecto para Mujer'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

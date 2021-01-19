@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rK6Nf0DDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJTQ3V2-es'
+slug: 'B07TJTQ3V2-es Superdry Swim Short Pantalones Cortos  Gris  Edit Palm Grey Pink T5c   S para Hombre'
 actualPrice: 20.53 EUR
 currency: EUR
 price: 20.53

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rvNW0aK7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B892PTH-es'
+slug: 'B08B892PTH-es FLZONE Ganchos para Cortina de Ducha 12 Piezas Anillos de Ganchos de Acero Inoxidable para barra de ducha de baño  plateado'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

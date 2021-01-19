@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31tnYT7IUnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYGXB3N-es'
+slug: 'B07DYGXB3N-es Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Mujer  Negro  Black   37 EU'
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xBOBgNLVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHCWJ1C-es'
+slug: 'B07WHCWJ1C-es Dockers by Gerli 46rb002-100100  Zapatillas para Hombre  Negro  Schwarz 100   43 EU'
 actualPrice: 19.77 EUR
 currency: EUR
 price: 19.77

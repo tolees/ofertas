@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51upVsIxSaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RSR761Z-es'
+slug: 'B07RSR761Z-es Everybodys Golf'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

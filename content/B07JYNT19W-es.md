@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31wCeEVPNKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYNT19W-es'
+slug: 'B07JYNT19W-es Tommy Hilfiger Tommy Jute City Sneaker  Zapatillas para Mujer  Azul  Midnight 403   36 EU'
 actualPrice: 27.74 EUR
 currency: EUR
 price: 27.74

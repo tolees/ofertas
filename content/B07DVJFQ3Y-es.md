@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+BbquyrkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVJFQ3Y-es'
+slug: 'B07DVJFQ3Y-es Haofy Bombillas Sensor de Luz LED 7W E26/E27 Bombillas Lámpara de Lluminación  12w 3 Pieza '
 actualPrice: 12.09 EUR
 currency: EUR
 price: 12.09

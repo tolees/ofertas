@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31O1il7L9GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYWN6JN-es'
+slug: 'B07RYWN6JN-es Pepe Jeans Sloane Pantalones  Beige  Malt 845   Talla única  Talla del Fabricante: W29/L34  para Hombre'
 actualPrice: 28.36 EUR
 currency: EUR
 price: 28.36

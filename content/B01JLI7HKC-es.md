@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NM0Kg08LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JLI7HKC-es'
+slug: 'B01JLI7HKC-es Reloj para hombre Tommy Hilfiger 1791308.'
 actualPrice: 134.95 EUR
 currency: EUR
 price: 134.95

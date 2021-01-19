@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rHw5iMGaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004GVLDYG-es'
+slug: 'B004GVLDYG-es Garcima 76040 L40 - Hornillo paellero gas plano  2 fuegos  Negro  41 x 65 x 12 cm'
 actualPrice: 29.72 EUR
 currency: EUR
 price: 29.72

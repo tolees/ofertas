@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416vQUS0WYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKL6PK9-es'
+slug: 'B07RKL6PK9-es SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 1 TB con Adaptador SD  hasta 170 MB/s  UHS Speed Class 3  U3  y V30'
 actualPrice: 344.99 EUR
 currency: EUR
 price: 344.99

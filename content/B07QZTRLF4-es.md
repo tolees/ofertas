@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314JBl677iL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZTRLF4-es'
+slug: 'B07QZTRLF4-es Under Armour Qualifier 2-In-1 Pantalones Cortos  Hombre  Negro  LG'
 actualPrice: 29.09 EUR
 currency: EUR
 price: 29.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4117SGH9LiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6MQ1S8-es'
+slug: 'B07L6MQ1S8-es Skagen Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Silicona SKW6512'
 actualPrice: 65.2 EUR
 currency: EUR
 price: 65.2

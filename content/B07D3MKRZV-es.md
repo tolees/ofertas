@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ChxDDJ+PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D3MKRZV-es'
+slug: 'B07D3MKRZV-es Science4you - La Ciencia del Slime - Brilla en la Oscuridad  609518 '
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

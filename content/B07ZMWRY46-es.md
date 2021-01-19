@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NNH-O+BHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZMWRY46-es'
+slug: 'B07ZMWRY46-es Alambre Manualidades Alambre de Cobre Desnudo 10 piezas 0.3 mm Colores Mezclados Resistente al Alambre Rollos de Alambre de Cobre para cuentas para Joyería Fabricación y Arte'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

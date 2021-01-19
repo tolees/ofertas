@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QmBWVETZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWX5SBT-es'
+slug: 'B07VWX5SBT-es Teclado para Juegos  Teclados Profesionales con Cable USB De Una/Una Mano con Soporte para La Mano Luz De Fondo Colorida Teclados Mecánicos para Juegos De Manos para Comer Artefactos De Pollo'
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51H5zQF12cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQZT36H-es'
+slug: 'B07QQZT36H-es ASUS DUAL-GTX1650-O4G - Tarjeta gráfica  4 GB GDDR5  OC 1755 MHz  128 bit  PCIE 3.0  896 núcleos CUDA  Negro'
 actualPrice: 149.89 EUR
 currency: EUR
 price: 149.89

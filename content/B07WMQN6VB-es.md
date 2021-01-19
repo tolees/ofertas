@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cDliwQFnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMQN6VB-es'
+slug: 'B07WMQN6VB-es Jack & Jones JCOMOON Crew Neck Suéter  Negro  Black Fit: Knit Fit   L para Hombre'
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

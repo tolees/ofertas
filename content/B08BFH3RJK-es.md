@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gq1jlWVRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BFH3RJK-es'
+slug: 'B08BFH3RJK-es Mini tamaño pequeño gsm 1800/900 Rda8851 teléfono Celular móvil para niños Mayores Mayores para GT Star Mini teléfono Celular Bm50 Durable-Negro'
 actualPrice: 18.32 EUR
 currency: EUR
 price: 18.32

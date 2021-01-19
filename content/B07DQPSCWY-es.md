@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fztM15eqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQPSCWY-es'
+slug: 'B07DQPSCWY-es adidas Saturday Short Pantalones Cortos de Deporte  Hombre  Negro  XL/5"'
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

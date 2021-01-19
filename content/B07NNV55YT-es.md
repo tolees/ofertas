@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310J8q7qeAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNV55YT-es'
+slug: 'B07NNV55YT-es Under Armour Men s Tribase Thrive Hallenschuhe  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Pitch Gray/Halo Gray  006  006   41 EU'
 actualPrice: 58.5 EUR
 currency: EUR
 price: 58.5

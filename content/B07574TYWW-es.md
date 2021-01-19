@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416RWNSsxGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07574TYWW-es'
+slug: 'B07574TYWW-es Bowers & Wilkins PX - Auriculares inalámbricos con cancelación de ruido y Bluetooth  cerrado supraural  color  Gris  Space Grey '
 actualPrice: 265.98 EUR
 currency: EUR
 price: 265.98

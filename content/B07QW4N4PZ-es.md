@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oYR-kchQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QW4N4PZ-es'
+slug: 'B07QW4N4PZ-es G★LAXIA Sierra Sable 1050W 3000SPM  4 Hojas  Botón de Velocidad Bloqueo  Cambio de Hojas sin Herramienta  Velocidad Variable  Longitud de Carrera de 28mm y 150 mm máx Corte'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

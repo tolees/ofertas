@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XXXqLFt-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07956YQJC-es'
+slug: 'B07956YQJC-es adidas Lite Racer CLN K  Zapatillas de Deporte Unisex Adulto  Azul  Azutra/Rossho/Grasua 000   38 2/3 EU'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

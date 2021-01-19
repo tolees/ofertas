@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z+3a7mqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7HZF2S-es'
+slug: 'B07S7HZF2S-es Adidas Runfalcon K  Unisex Adulto  Multicolor  Negbás/Rosbri/Semcor 000   36 2/3 EU'
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

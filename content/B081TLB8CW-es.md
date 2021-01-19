@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zcwdCD95L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TLB8CW-es'
+slug: 'B081TLB8CW-es AND TREND Softee Kit Tenis Mesa 2 Palas con Red y 2 Bolas'
 actualPrice: 12.21 EUR
 currency: EUR
 price: 12.21

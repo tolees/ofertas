@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FROeRaHcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895VFBXR-es'
+slug: 'B0895VFBXR-es FSXMPL Pintura por NúMeros NiñOs para Adultos Principiantes Bricolaje  Camino peatonalDecoracióN Artesanal para El Hogar 40x50cm  Sin Marco '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

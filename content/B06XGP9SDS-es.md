@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/617gxPea2qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGP9SDS-es'
+slug: 'B06XGP9SDS-es Stranger Things Llavero de Vinilo Demogorgon Open Face  Multicolor  Funko 14228 '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

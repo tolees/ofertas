@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31uDgq6jpoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B008DVC2U4-es'
+slug: 'B008DVC2U4-es Absorbente Universal 3 unid'
 actualPrice: 8 EUR
 currency: EUR
 price: 8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kqFzr5UwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KQF0HKC-es'
+slug: 'B00KQF0HKC-es Baby Dan Slim fit - Barrera de seguridad'
 actualPrice: 45.08 EUR
 currency: EUR
 price: 45.08

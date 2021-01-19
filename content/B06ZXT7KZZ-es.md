@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51J2D51eD4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZXT7KZZ-es'
+slug: 'B06ZXT7KZZ-es Bruni Película Protectora para Olympus TG-850 Protector Película  Claro Lámina Protectora  2X '
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

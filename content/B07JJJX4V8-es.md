@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mZQ7WErXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJJX4V8-es'
+slug: 'B07JJJX4V8-es Cecotec Ready Warm 2000 Thermal - Emisor Térmico  10 Elementos  3 Modos de Funcionamiento  Temporizador  Mando a Distancia  Pantalla LED  1500 W'
 actualPrice: 95.0 EUR
 currency: EUR
 price: 95.0

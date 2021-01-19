@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314PUv6PBVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001QDR2D8-es'
+slug: 'B001QDR2D8-es NECA 49503 Coraline Fashion - Muñeca  Color Amarillo  Azul'
 actualPrice: 23.85 EUR
 currency: EUR
 price: 23.85

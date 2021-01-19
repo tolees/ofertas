@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uJE7CVztL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZZ2Y5Q-es'
+slug: 'B07PZZ2Y5Q-es Epson EcoTank ET-2726 - Impresora de inyección de tinta 3 en 1  Impresora  escáner  fotocopiadora    DIN A4  WiFi  USB 2.0   pantalla LCD de 3 7 cm   Color Blanco'
 actualPrice: 205.99 EUR
 currency: EUR
 price: 205.99

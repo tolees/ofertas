@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ljLhMj41L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G1DDCPV-es'
+slug: 'B08G1DDCPV-es Gentai 128 GB/400 GB Tarjeta Micro SD Clase 10 UHS-I TF Tarjeta de memoria flash Micro SDHC con adaptador  400 GB '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

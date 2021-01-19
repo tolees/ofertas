@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sRdhaAcqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F5CV8TK-es'
+slug: 'B07F5CV8TK-es FREESOO Parasol de Coche Ventana Lateral Trasera y Delantera para Bebés  Niños y Mascotas Sombrilla Doble Tejido para Protector contra Rayos UVA Anti-Mosquito Fácil instalación Pack de 4 Unidades'
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

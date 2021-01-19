@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PIFkdcp8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MPVG3XX-es'
+slug: 'B07MPVG3XX-es [Nuevo Modelo]Juego de Bordado Punch Needle  Kit de Costura de Bordado Mágico con Herramienta Craft y Tela 50 hilos de colores'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

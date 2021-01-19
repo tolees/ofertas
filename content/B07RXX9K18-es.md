@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nvtrkrdvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXX9K18-es'
+slug: 'B07RXX9K18-es HorBous Tarjetas de Aprendizaje Alfabeto Números Colores Formas Animales para Niños   Inglés    Azul  Forma  + Rosa  Alfabeto  '
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

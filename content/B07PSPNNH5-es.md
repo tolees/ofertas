@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DCydy+BpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSPNNH5-es'
+slug: 'B07PSPNNH5-es MARTINELLI Zapato de Vestir de Piel Lenny 1384'
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

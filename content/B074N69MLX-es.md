@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-6xijcWRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074N69MLX-es'
+slug: 'B074N69MLX-es S&R Sierra Corona Perforadora Hormigon en seco Ø 68mm + Adaptador SDS Plus 110 mm + Broca 8 x 110 mm'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

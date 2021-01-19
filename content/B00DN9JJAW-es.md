@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/518DB0n2UpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DN9JJAW-es'
+slug: 'B00DN9JJAW-es Soria Natural - FOST PRINT JUNIOR SABOR FRESA - Complemento alimenticio - Energía extra para niños y adolescentes en actividades deportivas y académicas  examenes  - 20 unidades - Cambios de estación'
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412tEoRE89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3N8F9N-es'
+slug: 'B07V3N8F9N-es Pour Moi? Opulence Underwired Bra Sujetador con Aros  Beige  Mink/Oyster Mink/Oyster   90E para Mujer'
 actualPrice: 13.24 EUR
 currency: EUR
 price: 13.24

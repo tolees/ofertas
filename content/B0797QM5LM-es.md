@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z2bLMUyrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797QM5LM-es'
+slug: 'B0797QM5LM-es Funko- Pop Movies: It-Mike Hanlon  Multicolor  9 cm  30020 '
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

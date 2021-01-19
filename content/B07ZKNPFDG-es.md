@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41os+lhWgIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKNPFDG-es'
+slug: 'B07ZKNPFDG-es Giow Lupa de Lectura LED de Escritorio Lupa Grande 5X con 36 Luces LED de Ahorro de energía: la Mejor lámpara de Lupa Manos Libres con Luces para Lectura  Pasatiempos  Manualidades  Banco de trab'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

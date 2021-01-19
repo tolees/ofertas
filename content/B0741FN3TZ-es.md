@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31EVKv7ptYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0741FN3TZ-es'
+slug: 'B0741FN3TZ-es Orbegozo HU 2016 Humidificador  20 W  Blanco'
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

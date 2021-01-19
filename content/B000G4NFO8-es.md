@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g5SEI5kwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000G4NFO8-es'
+slug: 'B000G4NFO8-es adidas Copa Mundial  Zapatillas de Fútbol para Hombre  Negro/Blanco  41 1/3 EU'
 actualPrice: 95.78 EUR
 currency: EUR
 price: 95.78

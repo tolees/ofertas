@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FNPGTAyXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003YCKGYQ-es'
+slug: 'B003YCKGYQ-es Braun Satin Hair 7 AS720 - Cepillo de pelo moldeador con tecnología iónica  rizador de pelo que seca peina y da brillo  color negro'
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

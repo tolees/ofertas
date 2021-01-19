@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21DshgVkbgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDDH6DL-es'
+slug: 'B06XDDH6DL-es Jimmy Choo Eau de Courreges Loción - 500 ml'
 actualPrice: 6.21 EUR
 currency: EUR
 price: 6.21

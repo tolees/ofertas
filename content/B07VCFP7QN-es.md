@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rq0hRZzHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCFP7QN-es'
+slug: 'B07VCFP7QN-es Skechers Flex Advantage 3.0 Landess  Zapatillas para Hombre  Gris  Charcoal Knit/Synthetic/Trim Char   39.5 EU'
 actualPrice: 23.53 EUR
 currency: EUR
 price: 23.53

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31m-DPOSlQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JKQR8-es'
+slug: 'B07N1JKQR8-es Clarks Un Maui Lace  Zapatillas para Mujer  Marrón  Aubergine Lea Aubergine Lea   42 EU'
 actualPrice: 27.51 EUR
 currency: EUR
 price: 27.51

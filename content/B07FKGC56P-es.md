@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LsfUqpUTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKGC56P-es'
+slug: 'B07FKGC56P-es Bestway 54189 - Spa Hinchable Lay- Z-Spa Helsinki Para 5-7 personas'
 actualPrice: 493.29 EUR
 currency: EUR
 price: 493.29

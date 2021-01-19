@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31S-2aQUZbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD13YQP-es'
+slug: 'B07SD13YQP-es PUMA Carina L PS  Zapatillas para Niñas  Blanco White/Gulf Stream 06  29 EU'
 actualPrice: 17.72 EUR
 currency: EUR
 price: 17.72

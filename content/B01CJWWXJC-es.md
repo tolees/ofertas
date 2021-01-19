@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JL5cCV3kL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CJWWXJC-es'
+slug: 'B01CJWWXJC-es Elinchrom EL20847.2 - Equipo Completo Flash Estudio D-Lite RX One/One Softbox  Negro'
 actualPrice: 466.87 EUR
 currency: EUR
 price: 466.87

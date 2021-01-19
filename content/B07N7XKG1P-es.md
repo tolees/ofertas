@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519ktWbbPNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N7XKG1P-es'
+slug: 'B07N7XKG1P-es NUNCAD Anillo Hombre/Mujer con Shell + Madera/Ópalo de Tungsteno Unisex Ring para Recuerdos/Aniversario/Regalo 8mm Plata + Azul + Marrón Tamaño  10-36 '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

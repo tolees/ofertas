@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JzgQGfWoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFB5TSL-es'
+slug: 'B07GFB5TSL-es Canon Zoemini Pv-123 - Mini Impresora  Bluetooth  USB  314 x 600 PPP  Canon Mini Print  Color Blanco'
 actualPrice: 88.9 EUR
 currency: EUR
 price: 88.9

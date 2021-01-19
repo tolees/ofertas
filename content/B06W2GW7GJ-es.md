@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61WEx2UdiBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W2GW7GJ-es'
+slug: 'B06W2GW7GJ-es Aquabeads- Plantillas  Epoch para Imaginar 30288 '
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

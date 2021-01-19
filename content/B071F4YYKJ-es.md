@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51EOvDovXYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071F4YYKJ-es'
+slug: 'B071F4YYKJ-es Asics Noosa FF T722n-9004  Zapatillas de Running para Hombre  Negro  Black/Gold Fusion/Red Clay   40.5 EU'
 actualPrice: 63.33 EUR
 currency: EUR
 price: 63.33

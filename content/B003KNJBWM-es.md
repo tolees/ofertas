@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IlF8GHx3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003KNJBWM-es'
+slug: 'B003KNJBWM-es JVL - Felpudo  Fibra de Coco y PVC  40 x 70 cm   Color marrón'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

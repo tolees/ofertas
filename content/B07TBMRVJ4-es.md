@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4156uoUULBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBMRVJ4-es'
+slug: 'B07TBMRVJ4-es Finocam - Taco 2020 1 día en 2 páginas español'
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

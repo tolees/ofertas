@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412cD7a77uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BTRM9BS-es'
+slug: 'B08BTRM9BS-es Molyflower C6T Smart Bracelet Watch Información de TPU Push Sleep Monitoring Ejercicio Podómetro Medición de la Temperatura Corporal - Blanco'
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

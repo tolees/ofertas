@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pqF1ArZzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8WRTRJ-es'
+slug: 'B07N8WRTRJ-es MSI Vigor GK60 CR - Teclado Español  N-Key  Windows Key  Cherry MX Red   Color Negro'
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

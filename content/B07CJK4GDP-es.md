@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zA7u+HBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJK4GDP-es'
+slug: 'B07CJK4GDP-es Juego de 12 pajitas de acero inoxidable  pajitas metálicas reutilizables ultra largas de 10 5 pulgadas  se adapta a todas las 20 oz vasos de 30 oz YetiOzark Trail Rtic Tumblers'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

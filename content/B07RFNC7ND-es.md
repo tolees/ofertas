@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YC7K1F7-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFNC7ND-es'
+slug: 'B07RFNC7ND-es adidas Duramo 9  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Active Green/Grey 0   44 EU'
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

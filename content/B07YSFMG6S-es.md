@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LDtlay18L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSFMG6S-es'
+slug: 'B07YSFMG6S-es NEXCURIO Funda Silicona Galaxy Note 10  Carcasa Antideslizante Anti-Golpes Bumper Case de Protección Funda Móvil para Samsung Galaxy Note10 - NEYHU190374 N2'
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

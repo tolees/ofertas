@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BV0nVW9OL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005JD1XY0-es'
+slug: 'B005JD1XY0-es Epson C13T08954010 - Juego De 4 Tinta Epson Multipack válido para EPSON Stylus y EPSON Stylus Office BX300F  Ya disponible en Amazon Dash Replenishment'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DPEeV8YuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9MVDFH-es'
+slug: 'B07T9MVDFH-es Calcetines de Bambú 3 Pares  Negro  EU 43-47 '
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

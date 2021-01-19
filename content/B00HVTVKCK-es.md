@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vNvjbZWnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HVTVKCK-es'
+slug: 'B00HVTVKCK-es Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Dark Grey Iron  39 EU'
 actualPrice: 39.43 EUR
 currency: EUR
 price: 39.43

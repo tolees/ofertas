@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F0odzOo0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IZE4RW0-es'
+slug: 'B00IZE4RW0-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable MTP-1183PA-2AEF'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

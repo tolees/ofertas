@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g0h4KcOFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1XSGBK-es'
+slug: 'B07K1XSGBK-es CÚRCUMA + MATCHA Té Verde En Polvo - MEJORES MEZCLAS DE SUPERFOODS  100g  50 tazas   Polvo de Matcha Japonés 100% Puro y Sin Mezclar  137x ANTIOXIDANTES | Aumenta la energía y el metabolismo'
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

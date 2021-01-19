@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412Kac19k1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HP65WR7-es'
+slug: 'B07HP65WR7-es Slimming Essence  Crema anticelulítica  60ml Adelgazante Eliminación de celulitis Cremas para la pérdida de peso Pierna Cuerpo Cintura Quemador de grasa Crema'
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

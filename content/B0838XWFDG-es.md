@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YpXhe3FIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0838XWFDG-es'
+slug: 'B0838XWFDG-es Grifo de Cocina  Dalmo DBKF09KY Grifo Cocina Giratorio a 360º Grifería Monomando para Fregadero de Cocina Acabado Cerámico 2 modos Grifo Extraíble Ahorra agua 30%'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

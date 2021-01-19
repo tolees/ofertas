@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3118lK7usaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U95QU9Q-es'
+slug: 'B00U95QU9Q-es Carita Haute Beaute Corps Sérum Expert Réducteur Contours - Loción corporal  200 ml'
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

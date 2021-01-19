@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VBS8qfdTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E5UGTF0-es'
+slug: 'B01E5UGTF0-es Lacoste Sport Carnaby EVO BL 1 SPW  Zapatillas para Mujer  Blanco  Wht   41 EU'
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

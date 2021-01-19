@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zNJIXfHML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZC4Q8M-es'
+slug: 'B073ZC4Q8M-es DEIK Cuchillos Cocina  Juego de Cuchillos de Acero Inoxidable  Juego de Cuchillos de Cocina  6 Piezas  con Soporte de Madera Resistente a la Humedad  Negro'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

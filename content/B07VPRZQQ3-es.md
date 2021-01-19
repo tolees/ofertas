@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lDOQM3DVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPRZQQ3-es'
+slug: 'B07VPRZQQ3-es SINOES Hombre 720 Caña Baja Gimnasia Ligero Transpirable Casuales Sneakers de Exterior y Interior Zapatillas Deporte Zapatillas de Carretera Negro Rojo 46 EU'
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Bh9l+MVrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001CZKC4G-es'
+slug: 'B001CZKC4G-es Liqui Moly 4087 Detergente para Acondicionadores de Aire Spray  250 ml'
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

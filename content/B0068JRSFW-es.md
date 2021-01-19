@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61MRch3s4QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0068JRSFW-es'
+slug: 'B0068JRSFW-es Ravensburger- Dinosaurier Memory  diseño Dinosaurios  Multicolor  22099 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

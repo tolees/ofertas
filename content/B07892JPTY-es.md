@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31vYsbUtspL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07892JPTY-es'
+slug: 'B07892JPTY-es Helly Hansen W Daybreaker Fleece  Mujer  White  XS'
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

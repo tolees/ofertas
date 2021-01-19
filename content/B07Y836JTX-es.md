@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51nA-rNFtML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y836JTX-es'
+slug: 'B07Y836JTX-es BANLVS Smartwatch  Reloj Inteligente Impermeable 67 con Pulsómetro Presión Arterial  Pulsera Actividad Inteligente con Monitor de Sueño Calorías GPS  Reloj Deportiva para Hombre Mujer'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

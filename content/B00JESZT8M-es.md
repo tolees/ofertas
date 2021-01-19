@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gkRvs61GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JESZT8M-es'
+slug: 'B00JESZT8M-es Inversor De Corriente 300W para Coche  BESTEK Transformador De 12v A 220v  Inversor con 1 Toma Enchufe Y 2 Puertos USB De 3 1 para iPhone  iPad Y Tableta'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

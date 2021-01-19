@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SSktHdx+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XM2B5C-es'
+slug: 'B005XM2B5C-es Instant 2610731 - Paquete de 12 temperas sólidas de colores con trazo grueso'
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31TQZ4KpgkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQX2CYF-es'
+slug: 'B07FQX2CYF-es Clarks Triactive Up  Zapatillas para Hombre  Negro  Black Combi-   40 EU'
 actualPrice: 31.33 EUR
 currency: EUR
 price: 31.33

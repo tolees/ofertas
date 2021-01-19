@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vRC5NcvTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1G2PRC-es'
+slug: 'B07N1G2PRC-es Kipling HONEST PACK - Bolsa de viaje  1 liters  Morado  DARK PLUM '
 actualPrice: 26.07 EUR
 currency: EUR
 price: 26.07

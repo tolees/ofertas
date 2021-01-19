@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+zwrcQ9vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM1D6RM-es'
+slug: 'B07RM1D6RM-es Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable F20475/4'
 actualPrice: 63.88 EUR
 currency: EUR
 price: 63.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512RUXsgabL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EODEPC2-es'
+slug: 'B01EODEPC2-es Oral-B Stages Power Kids  Cepillo eléctrico niños personajes Star Wars'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

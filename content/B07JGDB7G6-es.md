@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGDB7G6-es'
+slug: 'B07JGDB7G6-es Columbia Ivo Trail  Zapatillas para Hombre  Azul  Collegiate Navy 464   41 EU'
 actualPrice: 60 EUR
 currency: EUR
 price: 60

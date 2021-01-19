@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ckdh5nUML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B015QMDW1A-es'
+slug: 'B015QMDW1A-es Solo En Casa Aniversario - 25 Años Blu Ray [Blu-ray]'
 actualPrice: 7.87 EUR
 currency: EUR
 price: 7.87

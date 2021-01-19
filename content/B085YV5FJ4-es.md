@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JoZuBZuoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085YV5FJ4-es'
+slug: 'B085YV5FJ4-es Death Stranding  Código Digital '
 actualPrice: 45.37 EUR
 currency: EUR
 price: 45.37

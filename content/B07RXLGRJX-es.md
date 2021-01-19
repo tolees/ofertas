@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wKtJhICIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXLGRJX-es'
+slug: 'B07RXLGRJX-es New Balance 373v2  Zapatillas para Mujer  Marfil  Off Cd2   36 EU'
 actualPrice: 40.55 EUR
 currency: EUR
 price: 40.55

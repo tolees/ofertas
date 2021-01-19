@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cH633VDvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R1J5FNG-es'
+slug: 'B07R1J5FNG-es Warxin Soporte Magnético Movil Coche  Mini Móvil Coche Iman para Salpicadero 360° Rotación Universal Soporte Teléfono Magnético Sostenedor para iPhone Samsung Móviles Dispositivo GPS - Plata'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

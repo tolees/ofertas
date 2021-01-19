@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41buMIgPz1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPJMWGX-es'
+slug: 'B07PPJMWGX-es El Ganso Casual 1 Polo  Rojo  Rojo 0005   Small para Hombre'
 actualPrice: 19.78 EUR
 currency: EUR
 price: 19.78

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TZbGHgq1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK4BC9R-es'
+slug: 'B07KK4BC9R-es Columbia Redmond V2 Mid  Botas de Senderismo Impermeables para Hombre  Negro  Black  Dark Grey 010   40 EU'
 actualPrice: 65.89 EUR
 currency: EUR
 price: 65.89

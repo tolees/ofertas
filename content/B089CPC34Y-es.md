@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EkEaPvGvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089CPC34Y-es'
+slug: 'B089CPC34Y-es WXQ Tapa de Basura de Acero Inoxidable de Tipo Pedal Abrir/Cerrar Silencio Duradero Anti-Huella Digital Cocina Sala de Estar Baño 12L / 3 Galones 01'
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

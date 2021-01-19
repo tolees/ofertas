@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MJQ8TNh5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086PX1QR7-es'
+slug: 'B086PX1QR7-es Fundas Transparentes Flexibles: ¡Mantén Tu Gran Estilo En Cada Sesión! ḔxtêṈṧióṈ Dêl ḔxtêṈṧôr Dêl PêṈê PêṈê Ḁmpliḁdôrêṧ ḾḁṈgḁṧ Cùbiêrtḁ PêṈiṧêxtêṈdêrṧ'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

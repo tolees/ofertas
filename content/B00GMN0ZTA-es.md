@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I7YVXlZkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GMN0ZTA-es'
+slug: 'B00GMN0ZTA-es EL ACCESORIO ORIGINAL de"BuyAndFeelGood" con EFECTO COLIBRÍ para consoladores  masajeadores eróticos  dildos y vibradores"COLIBRÍ" "KING KONG" y"MAGIC WAND"'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

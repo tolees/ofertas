@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZKPs22KjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CRFN3W1-es'
+slug: 'B07CRFN3W1-es CYBEX Gold - Silla de Paseo Eezy S Twist  Asiento Giratorio 360°  Ultracompacta  desde el Nacimiento hasta 17 kg  aprox. 4 años   Passion Pink'
 actualPrice: 159.98 EUR
 currency: EUR
 price: 159.98

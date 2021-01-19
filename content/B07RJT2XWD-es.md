@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SO955fX4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJT2XWD-es'
+slug: 'B07RJT2XWD-es SALOMON XA Pro 3D  Zapatillas de Trail Running para Hombre  Gris  Monument/Ebony/Red Dahlia   40 2/3 EU'
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

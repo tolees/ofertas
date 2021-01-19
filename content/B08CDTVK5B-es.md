@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513dWE-OHpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDTVK5B-es'
+slug: 'B08CDTVK5B-es Proyector Estrellas  Lampara Estrellas Proyector 4 in 1 Nocturnas de Nebulosa Giratorio de Música con de Voz Control Bluetooth y Temporizador Luz de Noche Infantil  Luna Lámpara Proyector Niños Regalo'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

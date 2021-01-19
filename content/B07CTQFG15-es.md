@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Oqwv5KqQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTQFG15-es'
+slug: 'B07CTQFG15-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable FS5455'
 actualPrice: 88.9 EUR
 currency: EUR
 price: 88.9

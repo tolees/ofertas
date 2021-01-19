@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51X49F12ggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CZ8AKUO-es'
+slug: 'B01CZ8AKUO-es atFoliX Protector Película Compatible con Nikon Coolpix A900 Lámina Protectora de Pantalla  Revestimiento antirreflejos HD FX Protección de Pantalla  3X '
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

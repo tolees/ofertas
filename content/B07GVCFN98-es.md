@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mThCP9BvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVCFN98-es'
+slug: 'B07GVCFN98-es Zephyrr - Pendientes de gota para mujer  diseño moderno de filigrana de plata oxidada  para niñas y mujeres'
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

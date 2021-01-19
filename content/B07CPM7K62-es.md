@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LHR2WL6UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPM7K62-es'
+slug: 'B07CPM7K62-es Jimmy Choo  Agua fresca - 100 ml.'
 actualPrice: 37.13 EUR
 currency: EUR
 price: 37.13

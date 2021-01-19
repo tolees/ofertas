@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jPCLP8RZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076JQLFBS-es'
+slug: 'B076JQLFBS-es Wella Eimi Laca Extrafuerte - 300 ml'
 actualPrice: 7.61 EUR
 currency: EUR
 price: 7.61

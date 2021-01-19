@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418wWjF1VTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F31RL6N-es'
+slug: 'B07F31RL6N-es Helly Hansen W Kirkwall II Raincoat Jacket  Mujer  Essential Yellow  L'
 actualPrice: 51.08 EUR
 currency: EUR
 price: 51.08

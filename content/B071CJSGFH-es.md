@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cXIlsdyoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CJSGFH-es'
+slug: 'B071CJSGFH-es POWERADD Versión Mejorada Pilot 2GS Power Bank 10000mAh  Doble Puerto de Salida  3.1A+3.1A  Cargador Portátil Batería Externa para iPhone  iPad  Huawei  Samsung y Más - Rojo'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

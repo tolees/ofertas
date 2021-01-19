@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ggrDHqQiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086DB9WFY-es'
+slug: 'B086DB9WFY-es Wangxyan Mosquitera Redondo Colcha de cúpula para niños Prevención de Insectos Redes Plegables Redes Plegables Fácil de Instalar- Blanco'
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31scz4zzr8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W131QZN-es'
+slug: 'B07W131QZN-es Call of Duty: Modern Warfare - Steelbook [enthält kein Spiel] [Importación alemana]'
 actualPrice: 9.06 EUR
 currency: EUR
 price: 9.06

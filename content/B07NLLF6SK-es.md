@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eaM9+34HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLLF6SK-es'
+slug: 'B07NLLF6SK-es Versace Jeans CoutureBorsaMujerBolsos mochilaMorado  Accademi  10x20.5x19 5 centimeters  W x H x L '
 actualPrice: 86.0 EUR
 currency: EUR
 price: 86.0

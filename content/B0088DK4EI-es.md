@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JAgk5mneL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0088DK4EI-es'
+slug: 'B0088DK4EI-es D-Link DWR-730 - Router móvil 3G para SIM de Datos  HSPA+  MiFi 3G  WiFi N hasta 150 MBps  WPS  batería 2000 mAh  WPA2  LCD  Negro y Blanco'
 actualPrice: 26.09 EUR
 currency: EUR
 price: 26.09

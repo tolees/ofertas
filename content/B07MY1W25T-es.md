@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YrsgrI3LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MY1W25T-es'
+slug: 'B07MY1W25T-es Relojes de Pulsera Electrónicos Para Niños Niños Digital Relojes Para Niños Niñas Deportes–5 ATM Reloj Deportivo Impermeable al aire libre Con Alarma Cronómetro Luces de colores de fondo'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

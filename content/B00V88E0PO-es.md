@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319KT3LpydL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V88E0PO-es'
+slug: 'B00V88E0PO-es Clarins - Gel contorno de ojos - Antiojeras  Antibolsas - 20 ml'
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

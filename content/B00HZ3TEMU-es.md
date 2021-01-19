@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Vkz9d2NzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HZ3TEMU-es'
+slug: 'B00HZ3TEMU-es UGG Male Neumel Classic Boot  Black  13  UK '
 actualPrice: 98.46 EUR
 currency: EUR
 price: 98.46

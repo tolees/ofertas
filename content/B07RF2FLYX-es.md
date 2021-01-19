@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vrfEbTZLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RF2FLYX-es'
+slug: 'B07RF2FLYX-es Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón  Azul  Blue 0Gy   Medium Unisex Adulto'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

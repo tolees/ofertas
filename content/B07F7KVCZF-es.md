@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y8I+nVx7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7KVCZF-es'
+slug: 'B07F7KVCZF-es SATECHI Adaptador Multi-Puertos Delgado Tipo-C de Aluminio V2-4K HDMI  Lectores de Tarjetas Micro/SD y USB 3.0 para 2020/2019/2018 MacBook Pro  2020/2018 MacBook Air  2017/2016 MacBook y Más'
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

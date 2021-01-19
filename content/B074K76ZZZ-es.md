@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R09nH9nbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074K76ZZZ-es'
+slug: 'B074K76ZZZ-es Taurus Tropicano Java 2100 IP Termoventilador  calefactor  2 posiciones de calor  2000 W  Función ventilador  termostato regulable  piloto luminoso  silencioso  color gris'
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

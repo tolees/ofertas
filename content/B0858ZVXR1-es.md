@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OSxHybElL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0858ZVXR1-es'
+slug: 'B0858ZVXR1-es Oihxse Funda Huawei P Smart 2019/Honor 10 Lite  Ultra Delgado Transparente TPU Silicona Case Suave Claro Elegante Creativa Patrón Bumper Carcasa Anti-Arañazos Anti-Choque Protección Caso Cover  A6 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rX6brhahL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFJJ58J-es'
+slug: 'B07DFJJ58J-es Pop! Smallfoot - Figura de Vinilo Migo'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

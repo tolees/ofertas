@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51H0lWw4xHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GY2L1E2-es'
+slug: 'B00GY2L1E2-es Just For Men  Tinte Colorante en champu para el cabello del hombre. Elimina las canas y rejuvenece el cabello en 5 minutos. Castaño Oscuro  30 ml'
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

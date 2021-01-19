@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mtOe9XcbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MPP6BBK-es'
+slug: 'B07MPP6BBK-es Snailax Masaje cervical Shiatsu con cuello térmico y masajeador de hombros Masaje de cuello profundo  hombros  espalda  masajeador eléctrico de espalda para automóvil  hogar  oficina SL-632BE'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

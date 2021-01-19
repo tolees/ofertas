@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31or6Mg63jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0828ZGMB1-es'
+slug: 'B0828ZGMB1-es Wuyee Un par de Fundas de Botas de Santa en Blanco y Negro Botas Simples  Suelas largas de Felpa  sin Suelas'
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

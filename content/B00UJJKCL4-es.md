@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310ecxpWK4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UJJKCL4-es'
+slug: 'B00UJJKCL4-es Ciroc Pineapple Vodka - 700 ml'
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

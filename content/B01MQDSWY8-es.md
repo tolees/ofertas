@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3184WWVCMnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQDSWY8-es'
+slug: 'B01MQDSWY8-es Belkin F7U009vf06-WHT - Cargador doméstico para Smartphones y tabletasde con Cable Micro-USB Integrado de 1 8 m  Blanco'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

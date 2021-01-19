@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41znTlI2fjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IYFMRPY-es'
+slug: 'B00IYFMRPY-es Princess 112380 Deshidratador de alimentos  seis niveles  temperatura ajustable'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

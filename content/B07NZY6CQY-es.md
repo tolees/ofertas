@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yxK7U4rbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZY6CQY-es'
+slug: 'B07NZY6CQY-es Skechers Men s Solar Fuse Trainers  Black  Black Mesh/Pu/Trim Blk   10.5 UK  45.5 EU '
 actualPrice: 31.36 EUR
 currency: EUR
 price: 31.36

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s0q3B8SdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072R6Q6FY-es'
+slug: 'B072R6Q6FY-es Softee 0710000 Crema Anti-Rozaduras  Blanco  S'
 actualPrice: 1.94 EUR
 currency: EUR
 price: 1.94

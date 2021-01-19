@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412UjT4fShL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0783RG9SW-es'
+slug: 'B0783RG9SW-es PUMA Basket Classic LFS  Zapatillas Unisex Adultos  White-Black  42 EU'
 actualPrice: 31.96 EUR
 currency: EUR
 price: 31.96

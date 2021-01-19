@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510X1p5l+PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3R6PE9-es'
+slug: 'B01M3R6PE9-es Gigandet Reloj de Hombre Cuarzo Aquazone Cronógrafo Reloj Submarinismo Analógico Silicona Naranja Negro G23-005'
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

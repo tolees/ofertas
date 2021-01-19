@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414Ouvbg--L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJLMVMH-es'
+slug: 'B07CJLMVMH-es Only Onlelcos 4/5 Top Jrs Noos suéter  Gris  Night Sky AOP: Night Sky with White Flowers   40  Talla del Fabricante: Medium  para Mujer'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xW9UaMe3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXSKZCC-es'
+slug: 'B07TXSKZCC-es PMFS Reloj Inteligente Relojes para niños Bambini para niñas niños Deporte Bracciale Pulsera Bambino Banda Inteligente Monitor de Fitness Reloj Inteligente'
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

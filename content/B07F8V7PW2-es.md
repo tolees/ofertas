@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sHWrV3WnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8V7PW2-es'
+slug: 'B07F8V7PW2-es Samsung Led View - Funda para Galaxy Note 9  color negro- Version española'
 actualPrice: 50.47 EUR
 currency: EUR
 price: 50.47

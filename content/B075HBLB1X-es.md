@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M5uL-YLbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075HBLB1X-es'
+slug: 'B075HBLB1X-es Relojes deportivos digitales para niñas Yesure. Reloj deportivo impermeable de 5 ATM con cronómetro de alarma  7 luces traseras LED'
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

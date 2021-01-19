@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hw2W6OQgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LP418TM-es'
+slug: 'B00LP418TM-es Bourjois Delice De Poudre Polvos Bronceadores Tono 55 Highlighter + universal tan - 67 gr.'
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

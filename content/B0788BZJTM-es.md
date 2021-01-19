@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41raA6sX68L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788BZJTM-es'
+slug: 'B0788BZJTM-es Tommy Hilfiger Sujetador Estilo Bralette  Blanco  White 100   Small para Mujer'
 actualPrice: 25.85 EUR
 currency: EUR
 price: 25.85

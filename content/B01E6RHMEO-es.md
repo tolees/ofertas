@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QpXW8kDBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E6RHMEO-es'
+slug: 'B01E6RHMEO-es Brabantia Sort & Go Cubo de Basura  16 L  Plástico  Blanco  27 9 x 22 0 x 40 1 cm'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

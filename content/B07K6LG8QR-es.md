@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EybGHr-QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6LG8QR-es'
+slug: 'B07K6LG8QR-es Asics Gel-Nimbus 21 1011a169-001  Zapatillas de Entrenamiento para Hombre  Negro  Black 1011a169/001   44 EU'
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

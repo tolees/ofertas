@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z7e3bHHHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SDC5LU6-es'
+slug: 'B00SDC5LU6-es Fujifilm Fujinon XF 16 - 55 mm f/2.8 R LM WR - Objetivo para Fujifilm con montura X  distancia focal 16 - 55 mm  apertura f/2.8  zoom 3.4x  óptico  tamaño del filtro 77 mm   negro'
 actualPrice: 826.1 EUR
 currency: EUR
 price: 826.1

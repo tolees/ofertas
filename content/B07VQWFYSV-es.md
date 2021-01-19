@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ALTbBwgFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQWFYSV-es'
+slug: 'B07VQWFYSV-es Calvin Klein Short Runner Bañador  Azul  Snorkel Blue CJR   Small para Hombre'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

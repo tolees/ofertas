@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HQCq2lxHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HPGBDL-es'
+slug: 'B078HPGBDL-es HANSAPLAST FROZEN NIÑA 20 APOSITOS'
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

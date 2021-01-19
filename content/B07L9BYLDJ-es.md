@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gzcPo6CUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9BYLDJ-es'
+slug: 'B07L9BYLDJ-es ROYAL SLEEP Colchón viscoelástico Carbono 90x190 firmeza Alta  Gama Alta  Efecto regenerador  Altura 29cm. Colchones Ceramic Premium'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

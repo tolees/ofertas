@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MHJX-VylL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086GTMKZN-es'
+slug: 'B086GTMKZN-es Oihxse Transparente Funda para Huawei Mate 8 Ultrafina Silicona Suave TPU Carcasa Interesante Perro Patrón Flexible Protectora Estuche Antigolpes Anti-Choque  A2 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

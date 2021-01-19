@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xhFDXrWBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WTLZQH-es'
+slug: 'B078WTLZQH-es Tommy Hilfiger Unlined Bralette Sujetador sin Aros  Gris  Grey Heather 020   Large para Mujer'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

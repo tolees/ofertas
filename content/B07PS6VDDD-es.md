@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XoLeuO3tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS6VDDD-es'
+slug: 'B07PS6VDDD-es Under Armour Favorite 2.0 Bolsa Deportiva  Mujer  Azul  OSFA'
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

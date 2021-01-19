@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vIVcmo4cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014GNJV6K-es'
+slug: 'B014GNJV6K-es Skechers 11936  Zapatillas para Mujer  Blanco  White/Silver   37.5 EU'
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nQ7WDpgxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVXYZJ7-es'
+slug: 'B07QVXYZJ7-es Alienwork Reloj Mecánico Automático Relojes Automáticos Hombre Mujer Piel de Vaca marrón Analógicos Unisex Oro Impermeable Esqueleto'
 actualPrice: 26.81 EUR
 currency: EUR
 price: 26.81

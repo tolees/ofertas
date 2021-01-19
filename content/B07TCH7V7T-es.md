@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417IQ5ZpGIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCH7V7T-es'
+slug: 'B07TCH7V7T-es Quiksilver Emboss-Sudadera con Capucha para Chicos 8-16  Niños  Medium Grey Heather  M/12'
 actualPrice: 17.27 EUR
 currency: EUR
 price: 17.27

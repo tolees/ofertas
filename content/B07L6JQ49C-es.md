@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jj9ABdbGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6JQ49C-es'
+slug: 'B07L6JQ49C-es B Blesiya Unidad de Disquete SSD USB Tornillos Complimentos Fácil Instalación Conveniente Duradero'
 actualPrice: 21.61 EUR
 currency: EUR
 price: 21.61

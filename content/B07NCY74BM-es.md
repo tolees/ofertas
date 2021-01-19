@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+CGY3IGgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCY74BM-es'
+slug: 'B07NCY74BM-es non-brand 50pcs Juego de Dados de Madera en Blanco D6 3cm para Proyectos de Decoración y Manualidades'
 actualPrice: 25.02 EUR
 currency: EUR
 price: 25.02

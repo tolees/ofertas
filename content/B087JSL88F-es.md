@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413na2hh-1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JSL88F-es'
+slug: 'B087JSL88F-es Uarter Paño desechable de protección contra el Polvo de la Cara  50PCS '
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

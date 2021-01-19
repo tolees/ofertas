@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gpc9jMozL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCQ7XM7-es'
+slug: 'B07ZCQ7XM7-es Funda para Huawei Mate 20  diseño de mármol  silicona suave  carcasa ultrafina  flexible  antigolpes  para Huawei Mate 20 7 Talla única'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

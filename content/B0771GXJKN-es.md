@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514UlqwSlNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771GXJKN-es'
+slug: 'B0771GXJKN-es Landove Estampado de animales de manga larga para Bebé-Niñas 0 - 3 Meses bebè'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

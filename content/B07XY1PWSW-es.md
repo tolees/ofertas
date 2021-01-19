@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NUSwRP3GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XY1PWSW-es'
+slug: 'B07XY1PWSW-es PUTUO Calcetines Dedos Hombres Calcetines de Deportes de Algodón  Hombres Cinco Calcetines del dedo del pie  3/4/5 pares  Multicolor 7-5 pares '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

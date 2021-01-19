@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41RvPIwvZVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFKWNY6-es'
+slug: 'B07GFKWNY6-es AmazonBasics - Botellero para vinos de 4 niveles  tono cromado'
 actualPrice: 41.97 EUR
 currency: EUR
 price: 41.97

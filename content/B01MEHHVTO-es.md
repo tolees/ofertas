@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413cM30AyGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MEHHVTO-es'
+slug: 'B01MEHHVTO-es Under Armour Sportstyle Tricot Jogger Pantalones  Hombre  Gris  Carbon Heather/Black 090   L'
 actualPrice: 43.34 EUR
 currency: EUR
 price: 43.34

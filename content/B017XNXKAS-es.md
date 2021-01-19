@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414vYMG6h9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017XNXKAS-es'
+slug: 'B017XNXKAS-es Bvlgari Omnia Paraiba Edt Vapo 40 Ml 1 Unidad 0.04 g'
 actualPrice: 30.8 EUR
 currency: EUR
 price: 30.8

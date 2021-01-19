@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WNvnQi80L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6LQDKJ-es'
+slug: 'B07N6LQDKJ-es Tommy Hilfiger Downtown Seasonal Belt 3.5 Cinturón   Brown 0im   95  Talla del fabricante: 80.0  para Hombre'
 actualPrice: 33.41 EUR
 currency: EUR
 price: 33.41

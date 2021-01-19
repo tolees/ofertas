@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518L-39SxlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SKX7HY-es'
+slug: 'B078SKX7HY-es Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona DZ4481'
 actualPrice: 149.54 EUR
 currency: EUR
 price: 149.54

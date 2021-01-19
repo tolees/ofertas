@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nSoplsyzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTPDXMT-es'
+slug: 'B07TTPDXMT-es Kipling KiplingTotepackMujerBolsos maletínGris  D Carbon Light  57x37x18 Centimeters  B x H x T '
 actualPrice: 21.29 EUR
 currency: EUR
 price: 21.29

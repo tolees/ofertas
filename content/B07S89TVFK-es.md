@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YicYS6OhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S89TVFK-es'
+slug: 'B07S89TVFK-es Lee Belt Cinturón  Negro  Black 01   85 para Hombre'
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

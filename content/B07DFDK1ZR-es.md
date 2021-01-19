@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4192bLQFk7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFDK1ZR-es'
+slug: 'B07DFDK1ZR-es Pop! The Predator - Figura de Vinilo Predator Hound X6   color/modelo surtido'
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

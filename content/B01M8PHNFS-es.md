@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AkR4hdCxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8PHNFS-es'
+slug: 'B01M8PHNFS-es Festina Reloj Análogo clásico para Hombre de Cuarzo con Correa en Acero Inoxidable F20252/1'
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

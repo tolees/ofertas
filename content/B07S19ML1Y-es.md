@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oDHcn2PlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S19ML1Y-es'
+slug: 'B07S19ML1Y-es Esprit 089ee2k008 Polo  Gris  Medium Grey 035   Large para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

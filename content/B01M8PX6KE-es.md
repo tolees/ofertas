@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412m40pkRdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8PX6KE-es'
+slug: 'B01M8PX6KE-es Sándalo Pulsera de Cuentas Tibetano Budista Buda Meditación Hombres Elástico Pulsera de Perlas de 8 mm Mala Oración'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Knxmt1ikL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0053OWQQE-es'
+slug: 'B0053OWQQE-es Tuscany Silver Pulsera de mujer con plata de ley  925/1000   19 cm'
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

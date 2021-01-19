@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31GafUas7GL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CGMUTK-es'
+slug: 'B015CGMUTK-es Calvin Klein Bari SLIM FIT FTC-Camisa Hombre  Blanco  WHITE 100   Tamaño del collar: 39 cm'
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zBahE6gcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KX2KV1B-es'
+slug: 'B07KX2KV1B-es Brooks Addiction Walker 2  Zapatillas de Running para Hombre  Negro  Black/Black 072   47.5 EU'
 actualPrice: 72.52 EUR
 currency: EUR
 price: 72.52

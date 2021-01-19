@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RO5wASSnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FUSFQUU-es'
+slug: 'B01FUSFQUU-es Abercrombie & Fitch First Instinct Colonia  100 ml  El Empaque Puede Variar'
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

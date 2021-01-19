@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PCRoLjLqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DSBSXS-es'
+slug: 'B079DSBSXS-es Makeup Revolution Conceal & Define Concealer C6 Korektor w płynie 3 4ml'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

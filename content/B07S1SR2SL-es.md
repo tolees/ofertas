@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wMmgRknjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1SR2SL-es'
+slug: 'B07S1SR2SL-es Vareone Cajas Cesta de Almacenamiento Plegables de Plástico  Color Gris y negro  3 Unidades'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

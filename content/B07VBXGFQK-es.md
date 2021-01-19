@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51z+Ek56j4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBXGFQK-es'
+slug: 'B07VBXGFQK-es Masthome - Batería de Cocina de 11 Piezas de Acero Inoxidable  Apta para inducción  304/0 7 mm  Cubierta de Acero Plana  Incluye Cuchara medidora  espátula Triple y 5 Trapos  sartén sin Tapa'
 actualPrice: 66.09 EUR
 currency: EUR
 price: 66.09

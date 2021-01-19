@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315td26pQ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFY5LCW-es'
+slug: 'B07KFY5LCW-es PUMA INTERFLEX Runner  Zapatillas de Running Unisex Adulto  Negro Black/Bridal Rose  42 EU'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

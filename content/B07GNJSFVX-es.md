@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zuolRPCyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNJSFVX-es'
+slug: 'B07GNJSFVX-es HyperX Predator - Memoria RAM de 32 GB  DDR4  Kit 2 x 16 GB  3600 MHz  CL17  DIMM XMP  HX436C17PB3K2/32 '
 actualPrice: 199.65 EUR
 currency: EUR
 price: 199.65

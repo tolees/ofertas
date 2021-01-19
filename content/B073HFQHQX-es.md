@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qb0heheEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073HFQHQX-es'
+slug: 'B073HFQHQX-es Cillit Bang Instant Power Limpiador para WC Lejía Higienizante - 700 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

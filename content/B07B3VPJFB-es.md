@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gCi04A7DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3VPJFB-es'
+slug: 'B07B3VPJFB-es Tommy Hilfiger Reloj Multiesfera para Mujer de Cuarzo con Correa en Acero Inoxidable 1781884'
 actualPrice: 114.73 EUR
 currency: EUR
 price: 114.73

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jrhj977pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075HGYDXT-es'
+slug: 'B075HGYDXT-es Estudio de Fotografía Mini portátil Gleading 40x40x40cm Carpa Luminosa Lightroom con luz LED. Kit de Caja de luz: Carpa Plegable + Dos Fondos  Blanco y Negro '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

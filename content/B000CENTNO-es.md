@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oFEjDRsTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000CENTNO-es'
+slug: 'B000CENTNO-es Rowenta ZR005501 Juego De Filtros Para Aspiradora Sin Bolsa  Verde/Negro'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

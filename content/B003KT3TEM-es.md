@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pCZX3zfqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003KT3TEM-es'
+slug: 'B003KT3TEM-es Astor Eyeartist Liner Longlasting Eyeliner Líquido Tono 090-7 gr'
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

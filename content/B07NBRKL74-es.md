@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WIa9DPDFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBRKL74-es'
+slug: 'B07NBRKL74-es Riuty Inteligente Lámpara de Escritorio con Altavoz con  lámpara de Mesa de Aprendizaje para niños con protección Ocular LED Luz de Mesa de Carga USB con Altavoz inalámbrico Bluetooth'
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

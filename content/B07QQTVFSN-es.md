@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-o1uwzDUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQTVFSN-es'
+slug: 'B07QQTVFSN-es Hurley M Asylum Volley 17  Bermudas  Hombre  Armory Navy  L'
 actualPrice: 17.73 EUR
 currency: EUR
 price: 17.73

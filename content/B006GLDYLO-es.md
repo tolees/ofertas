@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lcr9tWCqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006GLDYLO-es'
+slug: 'B006GLDYLO-es Energy Sistem DJ 700 Porta Edition - Auriculares de diadema cerrados  ajustables  color negro/rojo'
 actualPrice: 27.33 EUR
 currency: EUR
 price: 27.33

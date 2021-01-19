@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XIt90w-EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FPN7H7-es'
+slug: 'B079FPN7H7-es Otterbox Symmetry - Funda Anti caídas Fina y Elegante para Samsung Galaxy S9+  Color Negro'
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

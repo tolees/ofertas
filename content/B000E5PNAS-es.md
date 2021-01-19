@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513oSnE+zwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000E5PNAS-es'
+slug: 'B000E5PNAS-es Almacenamiento de Datos Externo Multicolor VERBATIM'
 actualPrice: 2.53 EUR
 currency: EUR
 price: 2.53

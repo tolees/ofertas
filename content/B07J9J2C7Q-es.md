@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P12DCIRQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J9J2C7Q-es'
+slug: 'B07J9J2C7Q-es MSI GeForce RTX 2080 SEA HAWK EK X - Tarjeta gráfica Enthusiast  8 GB GDDR6  256-bit  Multi-GPU '
 actualPrice: 414.0 EUR
 currency: EUR
 price: 414.0

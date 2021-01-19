@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FcnYekMLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KG2ED04-es'
+slug: 'B01KG2ED04-es Juego de 7 destornilladores aislados y buscapolos de WIESEMANN 1893 I Aprobado por la VDE | Destronilladores para electricistas I Planos y PH I 80218'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

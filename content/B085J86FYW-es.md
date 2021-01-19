@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lCElKuNHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085J86FYW-es'
+slug: 'B085J86FYW-es Jack & Jones JJIRICK JJICON Shorts AMA STS Pantalones Cortos  Verde Oliva  S para Hombre'
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

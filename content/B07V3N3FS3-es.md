@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Bk82Z0GVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3N3FS3-es'
+slug: 'B07V3N3FS3-es Tommy Hilfiger Essential Lace Up Sneaker  Zapatillas para Mujer  Negro  Black Bds   42 EU'
 actualPrice: 26.56 EUR
 currency: EUR
 price: 26.56

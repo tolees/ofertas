@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YJ4LMi+eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3PVZFR-es'
+slug: 'B07Q3PVZFR-es Orimade Adhesivo Estantes Cesta para Ducha con 5 Ganchos para Colgar Esponjas y Cuchillas Estanteria Organizador Baño SUS304 Acero Inoxidable Sin Taladro - 2 Piezas'
 actualPrice: 20.87 EUR
 currency: EUR
 price: 20.87

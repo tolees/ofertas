@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MRivk56kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QST8W6D-es'
+slug: 'B07QST8W6D-es Huevos Vibradores FIDECH pro 2 - Balas para Mujer  12 Modos de Frecuencia  Inalámbrico  Control Remoto  Recargable USB  IPX7 100% Impermeable'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tewLdblPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MW4KZ1S-es'
+slug: 'B07MW4KZ1S-es Kit de Manicura Eléctrico  TOUCHBeauty Set Manicura pedicura  lima de uñas eléctrica  Taladro del Clavo Máquina con 5 accesorios para el cuidado de las uñas  Sistema de pulido para las uñas con luz UV'
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

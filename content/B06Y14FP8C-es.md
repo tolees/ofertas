@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wUmm+9-YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y14FP8C-es'
+slug: 'B06Y14FP8C-es Wrangler HIGH RISE SKINNY Pantalones  Negro  Rinsewash 023   25W / 32L para Mujer'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

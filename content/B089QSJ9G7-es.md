@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RnhK2uHxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089QSJ9G7-es'
+slug: 'B089QSJ9G7-es Haioo Mini Ventilador USB Portátil y Silencioso Rotación 360º Ventilador PC de Mesa para Oficina/Viajar/Acampada  Negro '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

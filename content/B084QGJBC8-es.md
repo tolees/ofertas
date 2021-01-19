@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21H+3ZlTXUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084QGJBC8-es'
+slug: 'B084QGJBC8-es Tooth Instant Perfect Smile Flex Blanqueamiento de dientes Smile False Teeth Cover — Blanco'
 actualPrice: 1.6 EUR
 currency: EUR
 price: 1.6

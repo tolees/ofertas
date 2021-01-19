@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pV4d3tLvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHHLJ4R-es'
+slug: 'B07HHHLJ4R-es SYOSS  Coloración permanente - 6 unidades Sin Amoníaco  Tono 6.10 Rubio Oscuro'
 actualPrice: 14.15 EUR
 currency: EUR
 price: 14.15

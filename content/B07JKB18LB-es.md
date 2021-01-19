@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i0A6R+OcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKB18LB-es'
+slug: 'B07JKB18LB-es Columbia Caldorado III Outdry  Zapatillas de Running para Asfalto para Mujer  Azul  Deep Ocean  Red 458   36 EU'
 actualPrice: 25.94 EUR
 currency: EUR
 price: 25.94

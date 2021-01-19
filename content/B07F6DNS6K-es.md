@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oOBttMEeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F6DNS6K-es'
+slug: 'B07F6DNS6K-es JACK & JONES Jjeholmen Sweat Crew Neck Noos  Suéter para Hombre  Verde  Olive Night   Medium'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

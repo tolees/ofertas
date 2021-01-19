@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gxXKEEcVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SYLH424-es'
+slug: 'B00SYLH424-es Erborian - Cc cream scentella'
 actualPrice: 38.44 EUR
 currency: EUR
 price: 38.44

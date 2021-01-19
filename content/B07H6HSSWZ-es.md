@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416+d-4QXzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H6HSSWZ-es'
+slug: 'B07H6HSSWZ-es Unidad externa de DVD  USB 3.0 CD / DVD-RW Drive Writer Burner Transferencia de datos de alta velocidad para computadora portátil  computadora de escritorio'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

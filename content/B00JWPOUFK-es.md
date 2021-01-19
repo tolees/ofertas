@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q4ggtObqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JWPOUFK-es'
+slug: 'B00JWPOUFK-es Manguitos Hinchables Bestway Princesas Disney'
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

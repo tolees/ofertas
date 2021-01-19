@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61BLBA2stTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CW1ZWRT-es'
+slug: 'B07CW1ZWRT-es Sheba Craft Collection - Elegante alimento húmedo para Gatos - pequeñas cantidades y Salsa en Bolsa de porción de 85 g  Diferentes variedades'
 actualPrice: 12.57 EUR
 currency: EUR
 price: 12.57

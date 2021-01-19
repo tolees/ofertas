@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pNK8Nj-3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MS07VQX-es'
+slug: 'B01MS07VQX-es SAMSUNG EF-CA520PPEGWW - Funda para Galaxy A5 2017  Color Rosa'
 actualPrice: 12.14 EUR
 currency: EUR
 price: 12.14

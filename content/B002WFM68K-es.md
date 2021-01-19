@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HInix87lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002WFM68K-es'
+slug: 'B002WFM68K-es Reebok Classic Leather - Zapatillas de cuero para hombre  color blanco  int-white / lt. grey   talla 50'
 actualPrice: 46.81 EUR
 currency: EUR
 price: 46.81

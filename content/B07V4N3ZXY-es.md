@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316JuY2MwqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4N3ZXY-es'
+slug: 'B07V4N3ZXY-es Tommy Hilfiger Core Corporate Textile Sneaker  Zapatillas para Hombre  Negro  Black Bds   40 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

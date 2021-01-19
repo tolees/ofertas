@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SIuO3SENL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9WZL2W-es'
+slug: 'B07H9WZL2W-es Wimypet Refuerzo de Coche para Perros  Fundas de Asiento de Perro a Prueba de Agua Manta de Auto para Mascotas con Cinturón de Seguridad para Perro 68 x 57 x 33 CM '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

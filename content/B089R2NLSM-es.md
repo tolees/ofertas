@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tQH8D8LoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089R2NLSM-es'
+slug: 'B089R2NLSM-es Ranura para Tarjeta de Rayas Funda de Cuero sintético con Tapa para iPhone 6 Plus 5.5    - Negro'
 actualPrice: 3.17 EUR
 currency: EUR
 price: 3.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3111qTIUyJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDMYPDF-es'
+slug: 'B07GDMYPDF-es DOC ECO 2 BLACK'
 actualPrice: 173.34 EUR
 currency: EUR
 price: 173.34

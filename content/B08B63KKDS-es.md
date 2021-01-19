@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-xDIJpQVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B63KKDS-es'
+slug: 'B08B63KKDS-es Tamaño portátil 2M Cable USB Tipo C Duradero Cable de transmisión de Datos Cable de sincronización de Datos Línea de Cable para teléfono Tipo C - Rojo - 2M'
 actualPrice: 1.91 EUR
 currency: EUR
 price: 1.91

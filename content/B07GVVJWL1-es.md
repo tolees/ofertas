@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lqXV40TAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVVJWL1-es'
+slug: 'B07GVVJWL1-es So Slime SSC 014 - Funda para Manualidades  Multicolor'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

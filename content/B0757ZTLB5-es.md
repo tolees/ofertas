@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516eCJjmp9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757ZTLB5-es'
+slug: 'B0757ZTLB5-es Adidas Altarun CF I  Zapatillas de Estar por casa Bebé Unisex  Azul  Azul/Ftwbla/Reauni 000   20 EU'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xxSr0WRuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083VW6M2Y-es'
+slug: 'B083VW6M2Y-es Panamami Interfaz NGFF M2 Unidad de Estado sólido a USB3.0 con convertidor de Caja de Disco Duro Tarjeta adaptadora Tarjeta de Disco Duro Plug and Play/Negro'
 actualPrice: 11.87 EUR
 currency: EUR
 price: 11.87

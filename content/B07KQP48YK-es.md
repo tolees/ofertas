@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lXyrLZyRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQP48YK-es'
+slug: 'B07KQP48YK-es Salomon Trailster GTX W  Zapatillas de Trail Running para Mujer  Rosa  Cerise/Potent Purple/Heather   42 EU'
 actualPrice: 41.84 EUR
 currency: EUR
 price: 41.84

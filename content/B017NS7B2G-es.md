@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IOp7VedHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017NS7B2G-es'
+slug: 'B017NS7B2G-es Thermaltake Riing 14 LED RGB - Pack de 3 Ventiladores  Color Negro'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

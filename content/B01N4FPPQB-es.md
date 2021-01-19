@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21Gk8MftK4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4FPPQB-es'
+slug: 'B01N4FPPQB-es Lacoste Marice Bl 2 CAM Blk  Zapatillas para Hombre  Blanco  Wht 001   43 EU'
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

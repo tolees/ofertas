@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WSKW2+WbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KNJK5GT-es'
+slug: 'B07KNJK5GT-es MILAGRITO DESENGRASANTE MULTIUSOS LOTE AHORRO'
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

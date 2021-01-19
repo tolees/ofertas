@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XPPyu9M9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTPDRZ8-es'
+slug: 'B07TTPDRZ8-es KiplingAbanu MultiMujerBolsos bandoleraMulticolor  Speckled 19x13x8 Centimeters  B x H x T '
 actualPrice: 28.25 EUR
 currency: EUR
 price: 28.25

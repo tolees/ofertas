@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hhwe1rTsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EUWJF8M-es'
+slug: 'B00EUWJF8M-es De longhi 5513292831 - Kit de limpieza y mantenimiento para Cafeteras automáticas'
 actualPrice: 20.65 EUR
 currency: EUR
 price: 20.65

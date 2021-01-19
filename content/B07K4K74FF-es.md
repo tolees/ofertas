@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31P8oucdarL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4K74FF-es'
+slug: 'B07K4K74FF-es BOSS Prime Polo  Naranja  Open Orange 842   Large para Hombre'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

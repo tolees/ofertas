@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CRGFAQkpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772STHQS-es'
+slug: 'B0772STHQS-es Call Of Duty: World War II'
 actualPrice: 15.77 EUR
 currency: EUR
 price: 15.77

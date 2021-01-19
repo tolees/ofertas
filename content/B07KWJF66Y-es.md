@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51T8kbx6v9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWJF66Y-es'
+slug: 'B07KWJF66Y-es LIGHTAILING Conjunto de Luces  Creator Restaurant Parisien  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 10243  NO Incluido en el Modelo '
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

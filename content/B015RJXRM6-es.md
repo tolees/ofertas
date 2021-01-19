@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aRqshXqRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015RJXRM6-es'
+slug: 'B015RJXRM6-es Bosch MCM3201B MultiTalent3  Procesador de Alimentos  800 W  Color Negro'
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

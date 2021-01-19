@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZHTqBoCML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B55GWR6-es'
+slug: 'B07B55GWR6-es Gabol Maleta Unisex  Azul  50 cm'
 actualPrice: 33.11 EUR
 currency: EUR
 price: 33.11

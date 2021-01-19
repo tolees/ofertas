@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31kgjyxx3AL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QC84LPL-es'
+slug: 'B07QC84LPL-es PUMA Nu-Tility Knit Pant Chándal  Hombre  Black  L'
 actualPrice: 19.47 EUR
 currency: EUR
 price: 19.47

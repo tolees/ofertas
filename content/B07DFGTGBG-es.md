@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510UBsoYctL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFGTGBG-es'
+slug: 'B07DFGTGBG-es Funko- Pop Vinyl: LOTR/Hobbit: Boromir Lord of The Rings Figura de Vinilo  Multicolor  Estándar  33249 '
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

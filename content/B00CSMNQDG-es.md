@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415r1eJ5BNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CSMNQDG-es'
+slug: 'B00CSMNQDG-es 2piezas desinfectante manos Sterillium 500ml desinfección'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P6-ZeuRaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSP35VG-es'
+slug: 'B07TSP35VG-es Depesche Cepillo de Pelo Plegable 8846  Modelo Top  Aprox. 7 x 6 2 x 2 5 cm'
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

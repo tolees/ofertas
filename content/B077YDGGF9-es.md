@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yKag0b51L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YDGGF9-es'
+slug: 'B077YDGGF9-es HIKARO Pantalones Jogger Hombre  Verde  Khaki   50  Talla del fabricante: Small '
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

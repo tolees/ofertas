@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D4tdU56cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VM41QW2-es'
+slug: 'B07VM41QW2-es Schneespitze Kitchen Sink Estantería Fregadero Soporte Cesta Sponge Holder Sink Plana Basket Cesta Colgante para El Almacenamiento Otro Almacenamiento'
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

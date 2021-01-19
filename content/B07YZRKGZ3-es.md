@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e9JjwFByL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZRKGZ3-es'
+slug: 'B07YZRKGZ3-es J. Kersten BV WER-8347 Jarrón  cerámica  azul'
 actualPrice: 14.38 EUR
 currency: EUR
 price: 14.38

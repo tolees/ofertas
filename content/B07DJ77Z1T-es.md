@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QEsZr+uOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ77Z1T-es'
+slug: 'B07DJ77Z1T-es New Balance 411  Zapatillas de Running para Mujer  Negro  Black Silver   37.5 EU'
 actualPrice: 36.04 EUR
 currency: EUR
 price: 36.04

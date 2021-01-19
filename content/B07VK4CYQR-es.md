@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511Gj7+y+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VK4CYQR-es'
+slug: 'B07VK4CYQR-es Auriculares inalámbricos Verdaderos Bluetooth 5.0  Estuche de Carga con luz de Limpieza UV  Auriculares estéreo HiFi de Graves Profundos 6D TWS  Auriculares estéreo internos Impermeables Negro'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

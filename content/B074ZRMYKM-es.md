@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31u6nDGUWnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZRMYKM-es'
+slug: 'B074ZRMYKM-es Prime Pantalones de Trabajo para Hombre BLJ-02  BL001  32W X 34L '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

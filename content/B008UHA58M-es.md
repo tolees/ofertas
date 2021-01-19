@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VDKkPQVWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008UHA58M-es'
+slug: 'B008UHA58M-es Beurer FM60 - Masajeador  50 W  función calor  color blanco y gris'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

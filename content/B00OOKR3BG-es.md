@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mb2C6cWCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OOKR3BG-es'
+slug: 'B00OOKR3BG-es Superga 2750 Cotu Classic  Zapatillas Unisex  Rosa  Dusty Rose   42 EU  8 UK '
 actualPrice: 37.54 EUR
 currency: EUR
 price: 37.54

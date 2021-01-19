@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b9SehrkXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084NYSW7B-es'
+slug: 'B084NYSW7B-es LoveOlvido Mini tamaño Simulación Aleación Finger Bike Niños Kid Funnt Mini Finger Bike Toy con Cuerda de Freno Mejor Regalo de cumpleaños - Rojo'
 actualPrice: 1.31 EUR
 currency: EUR
 price: 1.31

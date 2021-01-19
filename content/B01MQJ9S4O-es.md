@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/5185m5EhTHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQJ9S4O-es'
+slug: 'B01MQJ9S4O-es Haba 302347 Terra - Fútbol Infantil'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

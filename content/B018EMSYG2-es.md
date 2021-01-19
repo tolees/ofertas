@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JFLseYVqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018EMSYG2-es'
+slug: 'B018EMSYG2-es Silver HT 111932940199 - Mini Teclado Universal retroiluminado'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

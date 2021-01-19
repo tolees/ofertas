@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wp64bNmZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076D8H5GD-es'
+slug: 'B076D8H5GD-es Masajeador AREALER Spa Pies con 3 Velocidades de Masaje Pies  Hidromasaje Pies con Rodillo Automático  Control deTemperatura por Infrarrojo con Burbujas  Uso en Hogar y Oficina para alivar los Pies'
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

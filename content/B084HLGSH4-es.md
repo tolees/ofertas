@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MIT4N8I1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084HLGSH4-es'
+slug: 'B084HLGSH4-es CHIKA10 City 12 Zapatillas Deportivas Mujer  Plateado  Plata/Silver   37 EU'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

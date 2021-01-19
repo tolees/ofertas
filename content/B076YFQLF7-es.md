@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xy+0JPr7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076YFQLF7-es'
+slug: 'B076YFQLF7-es Nilian     chapado en plata      '
 actualPrice: 14.11 EUR
 currency: EUR
 price: 14.11

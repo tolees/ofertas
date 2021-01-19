@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-HKmyHTzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDLH1P1-es'
+slug: 'B07VDLH1P1-es Vans Filmore Decon  Sneaker para Hombre  Multicolor   Canvas  Black/Port Royale W7Q   40 EU'
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i7mSYO4JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W7K6E5Q-es'
+slug: 'B00W7K6E5Q-es Scitec Nutrition Proteína De Suero Professional con Sabor de Naranja  Chocolate - 920 g'
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

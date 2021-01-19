@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519SuV-2UPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWRVNTZ-es'
+slug: 'B07SWRVNTZ-es Roxy Sugar Baby-Mochila Mediana para Mujer  Heritage Heather Gradient Lett  1SZ'
 actualPrice: 23.77 EUR
 currency: EUR
 price: 23.77

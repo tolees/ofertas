@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pwv2PDHRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYWKHL7-es'
+slug: 'B07MYWKHL7-es GOZAR Carcasa De Aluminio Duro De Metal Multicolor Carcasa para 3Ds XL Ll - Rojo'
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

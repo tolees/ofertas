@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31y6mfYE5SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013CG1SBI-es'
+slug: 'B013CG1SBI-es Essie Nail Lacquer Número 93  Mezmerised 13 5 ml'
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

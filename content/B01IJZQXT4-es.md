@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51A4Aq08QLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IJZQXT4-es'
+slug: 'B01IJZQXT4-es Philips SB300B/00 - Altavoz Bluetooth portátil inalámbrico  Luces LED  a Prueba de Agua IPX7 y Golpes  LED Multicolor   Negro'
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DkSpfqBsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GSQZOKQ-es'
+slug: 'B00GSQZOKQ-es VICTORY ENDURANCE Beta Alanine 90 Caps'
 actualPrice: 9.81 EUR
 currency: EUR
 price: 9.81

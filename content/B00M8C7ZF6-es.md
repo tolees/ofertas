@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+ll5JbBdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M8C7ZF6-es'
+slug: 'B00M8C7ZF6-es Kodak Cám. FZ201 Negra'
 actualPrice: 110.1 EUR
 currency: EUR
 price: 110.1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Soy822CnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJH38P9-es'
+slug: 'B07MJH38P9-es Birkenstock Rio  Sandalia con Pulsera para Niñas  Rosa  Coral Coral   25 EU'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

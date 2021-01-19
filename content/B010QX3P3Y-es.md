@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41shX+241qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010QX3P3Y-es'
+slug: 'B010QX3P3Y-es Tyrannosaurus Rex  T-Rex  Idea de Vinilo temática para macbooks  computadoras  o Incluso Paredes en casa. Personaliza Cualquier Cosa con Este Vinilo Ideal!'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

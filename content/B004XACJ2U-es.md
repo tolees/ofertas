@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IJF1U8X9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004XACJ2U-es'
+slug: 'B004XACJ2U-es Nixon Reloj Analógico de Cuarzo para Hombre con Correa de Acero Inoxidable – A0451041-00'
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pAjsKJpxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TB1LY83-es'
+slug: 'B07TB1LY83-es Puma Vikky Stacked L  Zapatillas para Mujer  Black White  40 EU'
 actualPrice: 29.3 EUR
 currency: EUR
 price: 29.3

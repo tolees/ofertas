@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RbwTQlZ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MH66XGD-es'
+slug: 'B07MH66XGD-es Fossil Reloj de Bolsillo Analógico de Cuarzo FTW5039'
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

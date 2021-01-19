@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gVVjhEf2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F94C3JL-es'
+slug: 'B07F94C3JL-es HP Spectre 700 - Ratón Recargable  Bluetooth  1600 dpi  Desplazamiento en 4 direcciones  11 semanas batería   Color Plata'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

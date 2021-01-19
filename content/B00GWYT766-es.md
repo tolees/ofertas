@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41h0g2aEydL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GWYT766-es'
+slug: 'B00GWYT766-es Eshow Bolsos Bandolera a Hombro Tela de Lona para Hombres Viaje Casual Oficina Uso Diario'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

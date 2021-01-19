@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MVEBqDA9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBQXFWB-es'
+slug: 'B07BBQXFWB-es BERING Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 14339-222'
 actualPrice: 104.43 EUR
 currency: EUR
 price: 104.43

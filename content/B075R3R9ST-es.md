@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TIlULM9VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R3R9ST-es'
+slug: 'B075R3R9ST-es New Balance Summit KOM Gore-Tex  Zapatillas de Running para Mujer  Azul  Petrol/Pigment GT   36.5 EU'
 actualPrice: 36.33 EUR
 currency: EUR
 price: 36.33

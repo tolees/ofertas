@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AlcXfSBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AXL18NS-es'
+slug: 'B01AXL18NS-es Happy People Baby planschbecken Wehncke Watch Piscinas  Color Blanco'
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

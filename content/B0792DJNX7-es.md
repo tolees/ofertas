@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aKhtehYFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792DJNX7-es'
+slug: 'B0792DJNX7-es XOMAX XL-518 Silla de coche con ISOFIX I creciendo con usted I 9-36 kg  1-12 años  grupo 1/2/3 I Arnés de 5 puntos y arnés de 3 puntos I Funda desmontable y lavable I ECE R44/04 I beige'
 actualPrice: 88.9 EUR
 currency: EUR
 price: 88.9

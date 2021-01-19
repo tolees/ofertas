@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Tt2q1-DxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YKMT553-es'
+slug: 'B07YKMT553-es Precision Kids Lace'
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

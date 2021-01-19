@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jV7SzleaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY4A4N4-es'
+slug: 'B01MY4A4N4-es COBI 21076 - Discovery Juguete de construcción'
 actualPrice: 20.37 EUR
 currency: EUR
 price: 20.37

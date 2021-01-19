@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WQCP+r0TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TQ1D5T-es'
+slug: 'B079TQ1D5T-es Pillars of Eternity II: Deadfire - Ultimate Edition'
 actualPrice: 33.2 EUR
 currency: EUR
 price: 33.2

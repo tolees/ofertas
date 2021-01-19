@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hfUnxdWlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K7ZD4Q0-es'
+slug: 'B00K7ZD4Q0-es Lancaster Deodorant Cream Sensitive Desodorante - 125 ml'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M9N9U7E1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4HXWFF-es'
+slug: 'B07P4HXWFF-es Superdry Superstate Classic Polo  Azul  Techno Navy Marl Ss7   Medium para Hombre'
 actualPrice: 22.66 EUR
 currency: EUR
 price: 22.66

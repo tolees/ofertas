@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41enVNhK-vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZG14LS-es'
+slug: 'B085ZG14LS-es Adaptador de taladro de remachado multifuncional pistola de tuercas de remache eléctrico Herramienta de tuerca de inserción inalámbrica automática Herramienta de taladro eléctrico - Negro'
 actualPrice: 15.03 EUR
 currency: EUR
 price: 15.03

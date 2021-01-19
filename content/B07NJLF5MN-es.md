@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319e9wIzcOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJLF5MN-es'
+slug: 'B07NJLF5MN-es Nike Air MAX Axis  PS   Zapatillas de Running para Niños  Blanco  White/Black 100   29 1/2 EU'
 actualPrice: 34.1 EUR
 currency: EUR
 price: 34.1

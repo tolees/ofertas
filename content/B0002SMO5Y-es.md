@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bgiVYiFJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002SMO5Y-es'
+slug: 'B0002SMO5Y-es Dremel 628 Juego de Brocas de Precisión - Kit de 7 Accesorios para Taladrar  0.8 / 1.2 / 1.6 / 2.0 / 2.4 / 2.8 / 3.2 mm '
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

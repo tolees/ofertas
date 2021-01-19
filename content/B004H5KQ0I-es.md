@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bG1JIBVcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004H5KQ0I-es'
+slug: 'B004H5KQ0I-es Clinique 35522 - Barra de labios'
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

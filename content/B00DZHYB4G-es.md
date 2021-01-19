@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ouH0LYAhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DZHYB4G-es'
+slug: 'B00DZHYB4G-es L Oréal Expert Professionnel Liss Unlimited Serum 125 ml'
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yg%2B4uwEVL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCTXS6N-es'
+slug: 'B07HCTXS6N-es Tommy Hilfiger - Th Core Pouch W/Wristlet  Carteras Mujer  Rojo  Cabernet   1x1x1 cm  B x H T '
 actualPrice: 33.92 EUR
 currency: EUR
 price: 33.92

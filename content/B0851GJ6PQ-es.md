@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qGrHnblqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0851GJ6PQ-es'
+slug: 'B0851GJ6PQ-es TACKLIFE Lector de Código de Barras  1D 2.4G USB Escáner de Código  100m Distancia de Transmisión  Activación/Escaneo Continuo Automático  Cable de Datos Incluidos  NO NEED PC Controlador - MSC01'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

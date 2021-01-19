@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51T3aPJXUkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NQGMRT-es'
+slug: 'B075NQGMRT-es Rotary Reloj de Pulsera GS08303/02'
 actualPrice: 114.54 EUR
 currency: EUR
 price: 114.54

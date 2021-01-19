@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Fw+JNn8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL3S8Z-es'
+slug: 'B07NDL3S8Z-es G-STAR RAW Citishield 3D Cargo Slim Tapered Pantalones  Gris  Asfalt 5126/995   W28/L26  Talla del Fabricante: 28W/ L26  para Hombre'
 actualPrice: 63.49 EUR
 currency: EUR
 price: 63.49

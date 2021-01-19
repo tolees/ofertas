@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Itj8LmVUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07415TWKG-es'
+slug: 'B07415TWKG-es BERING Reloj Analogico para Mujer de Cuarzo con Correa en Cuero 14839-462'
 actualPrice: 89.73 EUR
 currency: EUR
 price: 89.73

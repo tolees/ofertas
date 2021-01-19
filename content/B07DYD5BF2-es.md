@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zxMRnYUbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYD5BF2-es'
+slug: 'B07DYD5BF2-es Merrell Waterpro Maipo 2  Zapatillas Impermeables para Mujer  Azul  Navy/Smoke   39 EU'
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

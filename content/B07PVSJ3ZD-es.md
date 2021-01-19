@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ig4MEaXCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVSJ3ZD-es'
+slug: 'B07PVSJ3ZD-es Piz Buin - Protector Solar  Allergy Spray SPF 50 Protección Muy Alta Spray Pack - 2 x 200 ml'
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

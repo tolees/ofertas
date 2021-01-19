@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LQU-AAW5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0742P1ZJP-es'
+slug: 'B0742P1ZJP-es Camper Uno  Zapatillas para Mujer  Blanco  White Natural 100   41 EU'
 actualPrice: 60.96 EUR
 currency: EUR
 price: 60.96

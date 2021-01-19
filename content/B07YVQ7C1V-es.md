@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OHuD+qlUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YVQ7C1V-es'
+slug: 'B07YVQ7C1V-es Nike Revolution 5  Zapatillas de Atletismo para Hombre  Multicolor  Racer Blue/White/Black 401   42.5 EU'
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

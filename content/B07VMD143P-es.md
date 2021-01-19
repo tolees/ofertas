@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4144RxEBWrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMD143P-es'
+slug: 'B07VMD143P-es Otger Lensker - Juego de brocas escalonadas  machos de roscar combinados  atornillador inalámbrico  adaptador de llave de vaso de 7 a 19 mm'
 actualPrice: 12.21 EUR
 currency: EUR
 price: 12.21

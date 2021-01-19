@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412fCm0LCRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G6Z54NF-es'
+slug: 'B07G6Z54NF-es Casco Moto Modular ECE Homologado - YEMA YM-925 Casco de Moto Integral Scooter para Mujer Hombre Adultos con Doble Visera-Blanco-XL'
 actualPrice: 80.74 EUR
 currency: EUR
 price: 80.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jiyyAq1TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRJ2B1F-es'
+slug: 'B07NRJ2B1F-es HANMUN Kid Electronic Musical Microphone Toys Toddler Karaoke Voice Change Toy con grabación'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TwMIHdxCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYBH5VF-es'
+slug: 'B01MYBH5VF-es adidas Vs Pace  Zapatillas para Hombre  Azul  Collegiate Navy/Footwear White/Blue 0   46 EU'
 actualPrice: 37.89 EUR
 currency: EUR
 price: 37.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qHQHNXDDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019MYY38O-es'
+slug: 'B019MYY38O-es Objetivo Olympus M.Zuiko Digital ED 300 mm F4.0 Pro  teleobjetivo  Adecuado para Todas Las cámaras MFT  Modelos Olympus OM-D & Pen  Serie G de Panasonic   Negro'
 actualPrice: 820.0 EUR
 currency: EUR
 price: 820.0

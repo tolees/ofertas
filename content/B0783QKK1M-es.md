@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415-TJK42OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0783QKK1M-es'
+slug: 'B0783QKK1M-es MagiDeal 4 Pedazos de Tren de Aterrizaje Accesorio Deportivo Compatible con X4 H501S H501C - Oro'
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

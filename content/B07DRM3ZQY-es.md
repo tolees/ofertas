@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P+Po6Yp-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRM3ZQY-es'
+slug: 'B07DRM3ZQY-es Kipling ART M Bolsa de tela y playa  58 cm  26 liters  Negro  Powder Black '
 actualPrice: 54.46 EUR
 currency: EUR
 price: 54.46

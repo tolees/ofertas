@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TPL1mvwfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY8GZH4-es'
+slug: 'B07NY8GZH4-es Art Marina  Botas Slouch Unisex Adulto  Rojo  Burdeos Burdeos   45 EU'
 actualPrice: 38.8 EUR
 currency: EUR
 price: 38.8

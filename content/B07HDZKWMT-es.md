@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RIytkSF8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HDZKWMT-es'
+slug: 'B07HDZKWMT-es Tira LED 2.2 m  Tiray Ledy Tiras LED Impermeable Tira de LED Retroiluminación LED de TV USB Tira De Luz con Control Remoto de 24 Botones para TV  40 a 65 pulgadas  HDTV  y Monitor de PC'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

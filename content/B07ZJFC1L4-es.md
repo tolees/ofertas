@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qlkCqxIcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJFC1L4-es'
+slug: 'B07ZJFC1L4-es Adaptador Bluetooth Transmisor Receptor  2 en 1 Bluetooth 5.0 Inalámbrico Portátil  RCA & 3.5mm AUX  Baja Latencia Audio Estéreo para TV  PC  Audio  Música Inalámbrico en Coche'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

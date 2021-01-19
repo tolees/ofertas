@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pQzvjuXAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXKINNO-es'
+slug: 'B01MXKINNO-es Pulsar Reloj de Pulsera PZ4006X1'
 actualPrice: 65.55 EUR
 currency: EUR
 price: 65.55

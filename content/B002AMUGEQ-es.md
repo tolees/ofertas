@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S589VzLPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002AMUGEQ-es'
+slug: 'B002AMUGEQ-es Sisley Crema Hidratante Intensiva  40 ml'
 actualPrice: 113.68 EUR
 currency: EUR
 price: 113.68

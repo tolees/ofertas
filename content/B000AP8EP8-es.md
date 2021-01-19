@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AF2u7g0AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000AP8EP8-es'
+slug: 'B000AP8EP8-es K&N BM-0300 Filtro de Aire Moto'
 actualPrice: 78.35 EUR
 currency: EUR
 price: 78.35

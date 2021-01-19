@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31b1WbRU3AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JP9C7BS-es'
+slug: 'B07JP9C7BS-es Morgan Tshirt Manches Courtes Col V Dentelle DMINOL T-Shirt  Negro  Noir Noir   X-Small  Talla del Fabricante: TXS  Women s'
 actualPrice: 10.7 EUR
 currency: EUR
 price: 10.7

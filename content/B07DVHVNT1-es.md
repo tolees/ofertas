@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sAwu+qaLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVHVNT1-es'
+slug: 'B07DVHVNT1-es New Balance M890v7  Zapatillas de Running para Hombre  Verde  Green Green   40 EU'
 actualPrice: 55.56 EUR
 currency: EUR
 price: 55.56

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YwUQ98d-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072XNN1V5-es'
+slug: 'B072XNN1V5-es W7 grandes mate Natural Ojo Color Collection  10 g'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZT60EihiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMTYN7V-es'
+slug: 'B07KMTYN7V-es Craghoppers  Niñas Neopolitan Hybrid  Unisex niños  color Rosa marina.  tamaño 9-10'
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

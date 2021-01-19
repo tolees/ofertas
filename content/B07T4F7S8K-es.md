@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Va6Ir5h7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4F7S8K-es'
+slug: 'B07T4F7S8K-es Armani Exchange Mujer Chic Small Shopping Tote  22 x 11 x 25 cm  color Negro  talla 22x11x25 cm  B x H x T '
 actualPrice: 52.18 EUR
 currency: EUR
 price: 52.18

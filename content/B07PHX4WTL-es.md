@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414e1bFlsLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHX4WTL-es'
+slug: 'B07PHX4WTL-es Inesita la jirafa mordedora. Juguete con caja regalo. Mordedor Ritalia. Juguete para bebes  libre de BPA  100% natural y orgánica.'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

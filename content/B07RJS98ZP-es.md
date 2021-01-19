@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cl+5A8tbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJS98ZP-es'
+slug: 'B07RJS98ZP-es Rodillo de jade  Incluye tres cabezas reemplazables  Piedra de jade real 100%  Rodillo de cuarzo rosa  Mango de metal dorado  Bolsas para los ojos con tratamiento natural Kit de masaje facial antiedad'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

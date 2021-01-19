@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517zjpei2mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077F6RQZD-es'
+slug: 'B077F6RQZD-es Shark Tiburón Nano homenaje cascos de motocicleta  color negro/morado  talla M'
 actualPrice: 143.51 EUR
 currency: EUR
 price: 143.51

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419xLs7fTRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFND1BC-es'
+slug: 'B07RFND1BC-es Helly Hansen Copenhagen Slip-on  Zapatillas sin Cordones para Hombre  Azul  Navy/Grey Fog/Off White 597   40.5 EU'
 actualPrice: 37.14 EUR
 currency: EUR
 price: 37.14

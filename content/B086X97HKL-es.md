@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u0xESE9fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086X97HKL-es'
+slug: 'B086X97HKL-es Mini 8 + 2 Puertos 100M Switch SPOE Fast Power Over Ethernet Switch SPOE Network Vlan Smart Switch - Negro'
 actualPrice: 46.41 EUR
 currency: EUR
 price: 46.41

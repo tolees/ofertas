@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IbvDkX35L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FGCFX69-es'
+slug: 'B07FGCFX69-es Columbia DrainmakerTM IV  Zapatillas para Mujer  Rojo  Graphite  Red Coral   40 EU'
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

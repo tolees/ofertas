@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hxPVkx5YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U1ILMD0-es'
+slug: 'B00U1ILMD0-es Reebok Classic Leather - Zapatillas de cuero para hombre  color negro  black / gum 2   talla 45'
 actualPrice: 54.72 EUR
 currency: EUR
 price: 54.72

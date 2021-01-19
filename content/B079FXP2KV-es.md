@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314fyAxomML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FXP2KV-es'
+slug: 'B079FXP2KV-es Samsung Clear View Standing Cover - Funda para Galaxy S9  Púrpura'
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

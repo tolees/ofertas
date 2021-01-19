@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JtRg-ayuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3Z1T8W-es'
+slug: 'B01M3Z1T8W-es Skechers Energy Lights  Entrenadores para Niñas  Rosa  Rose Gold   38 EU'
 actualPrice: 39.42 EUR
 currency: EUR
 price: 39.42

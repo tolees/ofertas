@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51arxYYWeFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087RMLT19-es'
+slug: 'B087RMLT19-es RLTech Funda Carcasa para iPad Pro 11 2020  Silicona TPU Flexible con Soporte Función Funda Protectora Case Cover para iPad Pro 11 Pulgada 2020  Naranja'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

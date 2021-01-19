@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zgb75iECL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0030MCYH2-es'
+slug: 'B0030MCYH2-es Ravensburger-Juego de Aprendizaje  ¿Cuanto me Cuesta  24098 '
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

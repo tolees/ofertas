@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xAOdsoVcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002WGHYOU-es'
+slug: 'B002WGHYOU-es Superga 2750 COTU Classic  Zapatillas Unisex  Beige  Ecru 912   36 EU'
 actualPrice: 37.8 EUR
 currency: EUR
 price: 37.8

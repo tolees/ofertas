@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417EOWv2kKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBKP9LV-es'
+slug: 'B07LBKP9LV-es Tommy Jeans TJM Essential Chino Short Bañador  Verde  Dynasty Green 399   31 para Hombre'
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

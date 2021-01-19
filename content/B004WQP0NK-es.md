@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MoxDc+HOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004WQP0NK-es'
+slug: 'B004WQP0NK-es Grohe 46374000 46374000-Cartucho Grifo de Recambio  46mm'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

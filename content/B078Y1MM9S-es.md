@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AKKTgPZgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078Y1MM9S-es'
+slug: 'B078Y1MM9S-es HBF Multicolor 50 Clips Pelo Niña Metal Pinzas Pelo Bebe Niña Patrón De Dibujos Animados Y Fruta Horquillas De Pelo Infantiles'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

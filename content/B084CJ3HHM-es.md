@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312Cse7b3DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084CJ3HHM-es'
+slug: 'B084CJ3HHM-es REAL TECHNIQUES Light Layer Blush - Brocha de maquillaje para coloretes en crema y polvo'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

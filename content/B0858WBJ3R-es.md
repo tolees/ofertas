@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YhGbW8fIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0858WBJ3R-es'
+slug: 'B0858WBJ3R-es Oihxse Funda Samsung Galaxy J3 2017/J330/J3 Pro  Ultra Delgado Transparente TPU Silicona Case Suave Claro Elegante Creativa Patrón Bumper Carcasa Anti-Arañazos Anti-Choque Protección Caso Cover  A12 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VCj+Yil1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SUPCIWU-es'
+slug: 'B00SUPCIWU-es NUK 10256396 - Juego de higiene dental para bebé  pasta de dientes de manzana y plátano y cepillo de dientes para dedo  sin BPA  una unidad '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

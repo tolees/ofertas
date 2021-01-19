@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Rbt+7nWnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PZGW48-es'
+slug: 'B076PZGW48-es EatekPower Tijeras Cocina  Heavy Duty Scissors Tijeras de Cocina Multiuso de Acero Inoxidable con Hoja Afilada'
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

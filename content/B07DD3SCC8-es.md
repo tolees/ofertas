@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51T5-rDNIlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD3SCC8-es'
+slug: 'B07DD3SCC8-es L.O.L Surprise Bling - Modelo surtido  sorpresa  Giochi Preziosi LLU58000 '
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

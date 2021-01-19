@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51b-2eR7lFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDJ85TH-es'
+slug: 'B07PDJ85TH-es Huawei Watch GT Elegant  Smartwatch con Caja de Metal  Pantalla Táctil AMOLED de 1.2"  Monitor de Ritmo Cardíaco y Sueño  GPS  Sumergible 50 M  42 mm  Blanco'
 actualPrice: 94.7 EUR
 currency: EUR
 price: 94.7

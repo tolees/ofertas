@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ek%2BSsIIkL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R8GDBCL-es'
+slug: 'B07R8GDBCL-es CARE OF by PUMA Zapatillas bajas en cuero y con plataforma para mujer  Negro Black  40 EU'
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

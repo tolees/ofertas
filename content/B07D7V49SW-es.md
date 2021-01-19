@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZjA0ywv1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7V49SW-es'
+slug: 'B07D7V49SW-es Sika 528149 Sellador acrílico  Blanco  300 ml'
 actualPrice: 5.1 EUR
 currency: EUR
 price: 5.1

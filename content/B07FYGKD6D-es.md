@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414dCWBEzXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYGKD6D-es'
+slug: 'B07FYGKD6D-es Otterbox Symmetry - Funda Anti caídas Fina para iPhone XS  Lila'
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

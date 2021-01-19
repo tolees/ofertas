@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21TrAKlbMfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084DTL95J-es'
+slug: 'B084DTL95J-es Cartera Caballero en Piel napa'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

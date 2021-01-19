@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XVBc1Ut4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZGRZ5G-es'
+slug: 'B08BZGRZ5G-es FSXMPL Pintar por NúMeros para Adultos NiñOs Bricolaje Crisantemo amarilloPrimera OpcióN para Regalos 40x50cm  Sin Marco '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

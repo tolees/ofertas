@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U7QKl0Y+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083B7YN7F-es'
+slug: 'B083B7YN7F-es hollylife Utensilio de Cocina 5 Piezas Moderna  Sólidas Espátula Cuchara de Bambú Puro Madera Natural  sin Barnizada'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

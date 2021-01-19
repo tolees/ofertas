@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YbGKDXN5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2NHF24-es'
+slug: 'B07K2NHF24-es Adidas VL Court 2.0 K  Zapatillas de Deporte Unisex Adulto  Multicolor  Negbás/Gricin/Amalre 000   38 2/3 EU'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

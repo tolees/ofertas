@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51erg99bNAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3CHZFJ-es'
+slug: 'B01N3CHZFJ-es Hugo BOSS Reloj para hombre  1513477 con pulsera de metal'
 actualPrice: 167.6 EUR
 currency: EUR
 price: 167.6

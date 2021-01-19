@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YXBGx5mVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003KOK9EK-es'
+slug: 'B003KOK9EK-es Olimp Sport Nutrition HMB Mega Anticatabólico - 120 Cápsulas'
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

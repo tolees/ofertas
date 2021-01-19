@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xppvtZYpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQLBYVB-es'
+slug: 'B07NQLBYVB-es Maleta infantil ruedas multidireccionales Minnie Super Helpers'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

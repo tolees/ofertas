@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Fi-595CxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001GNBVU8-es'
+slug: 'B001GNBVU8-es Max Factor Lasting Performance Base de Maquillaje Líquida Tono 106 Natural Beige - 35 ml  el paquete puede variar '
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

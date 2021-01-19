@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e+lMnfgsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GR6KL6M-es'
+slug: 'B07GR6KL6M-es Fdit Deriva Lazos pulir taladrar Cortes Herramientas de Grabado Uso Doméstico DIY Modelo para Joyas Metal Cristal  Medium'
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

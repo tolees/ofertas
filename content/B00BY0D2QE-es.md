@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21LfA85tm8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BY0D2QE-es'
+slug: 'B00BY0D2QE-es L Oreal Majirel 6.1   Color Rubio Oscuro Ceniza - 50 ml'
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

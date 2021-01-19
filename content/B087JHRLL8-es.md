@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51x8crNGo2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JHRLL8-es'
+slug: 'B087JHRLL8-es BACKTURE Bandas Elásticas de Resistencia  11Pcs Juego de Bandas de Fitness con 5 Tubos de Látex  Asas  Correas de Tobillo y Anclaje para Puerta  Adecuado para Fitness  Fuerza  Pérdida de Peso  Yoga'
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

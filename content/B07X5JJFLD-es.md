@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zmuZg+76L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5JJFLD-es'
+slug: 'B07X5JJFLD-es Funda para Xiaomi Redmi Note 8 Pro + Protector de Pantalla de Vidrio Templado  Carcasa Ultra Fino Suave Flexible Silicona Colores del Caramelo Protectora Caso Anti-rasguños Case - Rosa Claro'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

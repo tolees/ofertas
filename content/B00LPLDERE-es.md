@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eXPYb5xwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LPLDERE-es'
+slug: 'B00LPLDERE-es L Oréal Paris - Infallible 24H  Maquillaje en Polvo Compacto  Tono 160'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

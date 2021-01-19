@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411i5nzdh2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BZ97QZ-es'
+slug: 'B086BZ97QZ-es Oihxse Funda Compatible con iPhone 7 Plus/iPhone 8 Plus  Carcasa Transparente TPU Silicona Gel Ultra Fina Suave Protección Flexible Lindo Dibujos Anti-rasguños Caso Cubierta  A5 '
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

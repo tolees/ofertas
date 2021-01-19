@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lbwaWm-9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T7KD7XM-es'
+slug: 'B07T7KD7XM-es Arena Cruiser EVO Goggles  Adultos Unisex  Clear-Blue  TU'
 actualPrice: 7.66 EUR
 currency: EUR
 price: 7.66

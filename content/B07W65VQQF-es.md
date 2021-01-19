@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dup2AR5SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W65VQQF-es'
+slug: 'B07W65VQQF-es QNIGLO Q188 Walkie Talkie Niños Recargable 8 Canales PMR 2 Millas de Alcance para Actividades al Aire Libre Acampar Senderismo Juguete y Regalo Ideal  Spider-Man 1 Par '
 actualPrice: 42.35 EUR
 currency: EUR
 price: 42.35

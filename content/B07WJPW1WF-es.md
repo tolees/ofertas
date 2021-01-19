@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m1PXdIS2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJPW1WF-es'
+slug: 'B07WJPW1WF-es Skechers Darlow Remego  Zapatillas para Hombre  Negro  Black Canvas Black   40 EU'
 actualPrice: 33.02 EUR
 currency: EUR
 price: 33.02

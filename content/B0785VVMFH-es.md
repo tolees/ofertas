@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RgtmNI2aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0785VVMFH-es'
+slug: 'B0785VVMFH-es Gifts Treat Calentadores de oído  Unisex orejeras plegables de invierno Volver desgastado Elegante orejeras acogedoras Lana clásica de lana  Azul marino '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

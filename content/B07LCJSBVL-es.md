@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21fKIkhjcUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LCJSBVL-es'
+slug: 'B07LCJSBVL-es Probus Santoku knife 34 cm  hand sharpened premium kitchen knife  stainless steel universal knife for cutting and chopping  ergonomic & non-slip handle  blade: 20 cm   quantity: 1 piece'
 actualPrice: 9.64 EUR
 currency: EUR
 price: 9.64

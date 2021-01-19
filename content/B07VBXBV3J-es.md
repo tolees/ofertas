@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gb6ln1AdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBXBV3J-es'
+slug: 'B07VBXBV3J-es Cepillo alisador eléctrico para barba/pelo 2.0  peine para alisar de cabello  herramientas calientes de estilo rápido  moldeador rápido con antiquemaduras para hombres y mujeres  negro '
 actualPrice: 19.88 EUR
 currency: EUR
 price: 19.88

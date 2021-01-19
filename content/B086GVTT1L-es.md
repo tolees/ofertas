@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ff6jcoCiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086GVTT1L-es'
+slug: 'B086GVTT1L-es Oihxse Compatible con Huawei Honor V10 Lite/8X Funda Suave Gel TPU Silicona Cristal Transparente Carcasa Acuarela Animal Pintado Patrón Protectora Estuche Bumper Caso Case  B9 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

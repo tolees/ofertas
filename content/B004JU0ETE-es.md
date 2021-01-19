@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61N73DHFFVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004JU0ETE-es'
+slug: 'B004JU0ETE-es Orchard Toys - Juego de Mesa de los Tres Cerditos'
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

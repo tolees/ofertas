@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DCMY5PaSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085YCP8NH-es'
+slug: 'B085YCP8NH-es YAMAMAY® Pyjamas - Ultimi arrivi'
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

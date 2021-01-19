@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419fUlJ%2BCDL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXHPQVX-es'
+slug: 'B07DXHPQVX-es adidas Lite Racer K  Zapatillas de Running Unisex Niños  Rojo  Real Magenta/Mystery Ruby F17/Mystery Ruby F17 Real Magenta/Mystery Ruby F17/Mystery Ruby F17   37 1/3 EU'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

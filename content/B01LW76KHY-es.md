@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31I-DlXFDuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LW76KHY-es'
+slug: 'B01LW76KHY-es GOLIATE Eros Anillo Vibrador de Lujo Para El Pene - Cockring Extensible para Hombre y Pareja - Retrasar la Eyaculación  Aumentar la Erección y Estimular el Clítoris: 20 Modos  Silicona  Recargable'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

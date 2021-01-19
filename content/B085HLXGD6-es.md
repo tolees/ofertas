@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415g65Do7gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085HLXGD6-es'
+slug: 'B085HLXGD6-es Vivir sin permiso - Serie completa [DVD]'
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

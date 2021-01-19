@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411zibt6KrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QX41FBY-es'
+slug: 'B07QX41FBY-es MP3 BENJIE 16GB MP3 Bluetooth 1.5" Reproductor de MP3 Pantalla Táctil Completa HiFi Sin Pérdida de Sonido MP3 Running  FM Radio  Grabadora de Voz con Auriculares para Amantes del Deporte y la Música'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

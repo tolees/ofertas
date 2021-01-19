@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k7BjQcRiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY9KD1O-es'
+slug: 'B01MY9KD1O-es Vanguard Alta Fly 62T - Maleta trolley de transporte  35x19x55cm  color negro'
 actualPrice: 219.97 EUR
 currency: EUR
 price: 219.97

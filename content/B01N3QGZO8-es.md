@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417emxOOP0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3QGZO8-es'
+slug: 'B01N3QGZO8-es Skechers Street Squad  Zapatillas sin Cordones para Niñas  Negro  Black/Hot Pink   37 EU'
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05

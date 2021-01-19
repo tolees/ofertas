@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bX6qJ1UhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKXLSMZ-es'
+slug: 'B07VKXLSMZ-es Hackett London Army Hackett Polo  Rojo  255red 255   Small para Hombre'
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+Nu8wY8NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GB1JG1M-es'
+slug: 'B07GB1JG1M-es Puer Tea 357g  0.787LB  Naturalmente orgánico Pu-erh Té crudo Pu Er Té Pu er Té Té verde Té chino sheng cha Puerh Té Comida sana Pu-erh Té Comida verde Árboles viejos Pu erh té'
 actualPrice: 13.7 EUR
 currency: EUR
 price: 13.7

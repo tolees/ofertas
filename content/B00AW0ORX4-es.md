@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gFaOXvzqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AW0ORX4-es'
+slug: 'B00AW0ORX4-es Vileda Style - Recambio para fregona'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

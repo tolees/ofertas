@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TxLHLwhmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBH5F2C-es'
+slug: 'B01NBH5F2C-es Maybelline New York - The Falsies Push Up Angel  Máscara de Pestañas - Tono Negro'
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

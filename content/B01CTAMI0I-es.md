@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412E19aLJSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CTAMI0I-es'
+slug: 'B01CTAMI0I-es 226ERS Recovery Drink  Recuperador a base de Proteína  Creatina  Hidratos de Carbono  Triglicéridos y L-Arginina  Sandía - 1000 gr'
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

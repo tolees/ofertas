@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Pu2DHabnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHG2J76-es'
+slug: 'B07BHG2J76-es Suhu Taburete De Almacenamiento Banco Puff Asiento Lino Baul Puf Otomana Almacenaje Redonda Baules Dormitorio Patas De Madera Blanco Crema'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

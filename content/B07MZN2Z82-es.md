@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414yPMcP3AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZN2Z82-es'
+slug: 'B07MZN2Z82-es Pepe Jeans LondonRen BackpackNiñosCarterasNegro  Black 13x30x37 centimeters  W x H x L '
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

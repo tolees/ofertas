@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E+MldWHKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXZ7FXW-es'
+slug: 'B07RXZ7FXW-es Pepe Jeans Sloane Pantalones  Azul  Chatham Blue 586   Talla única  Talla del Fabricante: W38/L32  para Hombre'
 actualPrice: 30.56 EUR
 currency: EUR
 price: 30.56

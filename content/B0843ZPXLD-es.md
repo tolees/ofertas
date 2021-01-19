@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LjmD3pj4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0843ZPXLD-es'
+slug: 'B0843ZPXLD-es Skip Liquido Ultimate Triple Poder Máxima Eficacia 2750 g'
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

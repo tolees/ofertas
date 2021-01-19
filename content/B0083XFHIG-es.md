@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Laotqq+HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0083XFHIG-es'
+slug: 'B0083XFHIG-es Timex Expedition Rugged - Reloj análogico de cuarzo con correa de cuero para hombre  color marrón'
 actualPrice: 71.15 EUR
 currency: EUR
 price: 71.15

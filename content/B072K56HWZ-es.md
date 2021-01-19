@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51coH-C6jCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072K56HWZ-es'
+slug: 'B072K56HWZ-es Braun Series 5 Waterflex Wf2S Afeitadora Eléctrica de Lámina para Hombre  en Seco y Mojado  Máquina de Afeitar con Recortadora de Precisión Extraíble  Recargable  Inalámbrica  Azul'
 actualPrice: 103.39 EUR
 currency: EUR
 price: 103.39

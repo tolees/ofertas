@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3116Mv1KMqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCF1PLR-es'
+slug: 'B07SCF1PLR-es adidas Chaussures Advantage'
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

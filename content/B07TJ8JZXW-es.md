@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f9830lufL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ8JZXW-es'
+slug: 'B07TJ8JZXW-es Harmont & Blaine Lrd123020989 Polo  Blanco  100 Bianco 100   X-Large para Hombre'
 actualPrice: 47.94 EUR
 currency: EUR
 price: 47.94

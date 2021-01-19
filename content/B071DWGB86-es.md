@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yRE46uopL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071DWGB86-es'
+slug: 'B071DWGB86-es Half Moon Bay Tazón Juego de Tronos Stark  1'
 actualPrice: 15.57 EUR
 currency: EUR
 price: 15.57

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zqoRRE9TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2WK39L-es'
+slug: 'B01N2WK39L-es adidas 6Pcap Ltwgt Emb Gorra de Tenis  Hombre  Negro  Negro/Negro/Blanco   OSFC'
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

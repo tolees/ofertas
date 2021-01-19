@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DpnckQ-dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084VHWZ14-es'
+slug: 'B084VHWZ14-es Bebés Cochecito de bebé Cochecito Mosquitera Insecto Red de aislamiento Caja de seguridad Malla Buggy Cochecito Cubierta completa Red blanca 150 cm - Blanco'
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

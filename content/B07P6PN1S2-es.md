@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HvTJH8W8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6PN1S2-es'
+slug: 'B07P6PN1S2-es Lemnoi Cámaras A3 y Fuente de Alimentación del Panel Solar'
 actualPrice: 81.51 EUR
 currency: EUR
 price: 81.51

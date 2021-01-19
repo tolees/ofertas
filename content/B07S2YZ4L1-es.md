@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jdJSgm-VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2YZ4L1-es'
+slug: 'B07S2YZ4L1-es New Balance 373v2  Zapatillas para Mujer  Negro  Black Ce2   35 EU'
 actualPrice: 53.0 EUR
 currency: EUR
 price: 53.0

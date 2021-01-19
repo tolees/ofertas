@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RyvYDsw6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFM6RTM-es'
+slug: 'B07YFM6RTM-es Auriculares Diadema Bluetooth Inalambricos  Cascos Estéreo Inalámbricos Bluetooth Plegables con Buena Iluminación GRB  Graves Profundos & Cancelación de Ruido para Moviles  TV  PC'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

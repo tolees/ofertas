@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZD3yGrfZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0759HQHGD-es'
+slug: 'B0759HQHGD-es Funko Pop!- Rick & Morty Jerry Figura de Vinilo  22962 '
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

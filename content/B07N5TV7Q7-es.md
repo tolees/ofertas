@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hRL7kLowL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5TV7Q7-es'
+slug: 'B07N5TV7Q7-es Funko- Pop Vinilo: NSYNC: Justin Timberlake Figura Coleccionable  Multicolor  Talla Única  34538 '
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

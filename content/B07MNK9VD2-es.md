@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r0w4WUmBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNK9VD2-es'
+slug: 'B07MNK9VD2-es KollyKolla Botella de Agua Acero Inoxidable  Termo Sin BPA Ecológica  Botellas Termica Reutilizable Frascos Térmicos para Niños & Adultos  Deporte  Oficina  Yoga  Ciclismo   750ml Carmesí '
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29

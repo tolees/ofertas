@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MFvYsXzfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXFR769-es'
+slug: 'B07SXFR769-es YMX BOXING Pelota Entrenamiento de Reflejos Boxeo - Banda Ajustable para la Cabeza  Bolas de Espuma Blanda Ligera - Mejor coordinación Mano/visión  la Velocidad de reacción - Deportes Ejercicio'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

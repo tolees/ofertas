@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r70xl4NLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CM1RQA2-es'
+slug: 'B00CM1RQA2-es Jacques Lemans Smart Watch Armbanduhr 1-1770F'
 actualPrice: 79.34 EUR
 currency: EUR
 price: 79.34

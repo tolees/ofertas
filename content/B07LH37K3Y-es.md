@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31y5GZR4DeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LH37K3Y-es'
+slug: 'B07LH37K3Y-es Intex 64765 - Cama de aire Dura Beam Standard Classic Downy  152 x 203 x 25 cm'
 actualPrice: 19.06 EUR
 currency: EUR
 price: 19.06

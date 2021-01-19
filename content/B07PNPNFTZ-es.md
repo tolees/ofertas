@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31M1FZBr-CL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNPNFTZ-es'
+slug: 'B07PNPNFTZ-es Mocasines Piel Florentic Hombre Suela Goma Castellanisimos'
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

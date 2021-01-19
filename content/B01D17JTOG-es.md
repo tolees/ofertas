@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u+LR7i28L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D17JTOG-es'
+slug: 'B01D17JTOG-es Samsonite Paradiver Light - Bolsa de viaje  Amarillo  Yellow   M  61 cm - 84 L '
 actualPrice: 65.4 EUR
 currency: EUR
 price: 65.4

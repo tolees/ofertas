@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51v-vgi9eOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5Z16JB-es'
+slug: 'B07P5Z16JB-es Wehouseware Ventilador de sobremesa con Reloj y Temperatura LED'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415y75LOYsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHX3TDB-es'
+slug: 'B07JHX3TDB-es Columbia WHEATLEIGH  Botas de Nieve de caña Baja para Mujer  Negro  Black  36 EU'
 actualPrice: 22.02 EUR
 currency: EUR
 price: 22.02

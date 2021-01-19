@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qvdys4d6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GL3GGD9-es'
+slug: 'B07GL3GGD9-es Cybex Gold - Silla de coche Solution S-Fix  para coches con y sin Isofix  Grupo 2/3  15-36 kg   Desde los 3 hasta los 12 años aprox.  Azul  Tropical Blue '
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

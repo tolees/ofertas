@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UP5H-HEWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IZE4UQS-es'
+slug: 'B00IZE4UQS-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en Cuero MTP-1188PQ-7BEF'
 actualPrice: 30.93 EUR
 currency: EUR
 price: 30.93

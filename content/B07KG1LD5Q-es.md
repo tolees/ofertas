@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TmPe645ZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1LD5Q-es'
+slug: 'B07KG1LD5Q-es PUMA One 5.4 TT  Botas de fútbol para Hombre  White Black-Yellow Alert  43 EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

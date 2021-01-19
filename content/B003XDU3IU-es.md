@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DKELaiCsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003XDU3IU-es'
+slug: 'B003XDU3IU-es Vans Herren Classic T-Shirt  Weiß  WHITE-BLACK YB2   XL'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

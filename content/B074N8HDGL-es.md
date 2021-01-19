@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51alIVdTysL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074N8HDGL-es'
+slug: 'B074N8HDGL-es Apple iPhone 7 - Smartphone de 32 GB Color Rosa  Reacondicionado '
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j7SKXBNmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDY5DZW-es'
+slug: 'B07QDY5DZW-es Pokemon JCC - Archivo del caso de Detective Pikachu  Asmodee  POTK1901 '
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

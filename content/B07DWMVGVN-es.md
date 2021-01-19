@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iY4pSzPpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWMVGVN-es'
+slug: 'B07DWMVGVN-es Element Blazin SS Camisetas  Hombre  Blanco  Optic White   XS'
 actualPrice: 6.03 EUR
 currency: EUR
 price: 6.03

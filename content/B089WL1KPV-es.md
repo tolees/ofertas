@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e8swgREWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089WL1KPV-es'
+slug: 'B089WL1KPV-es MERIGLARE 2 Piezas De Viaje Frasco Vacío Olla Muestra De Maquillaje Crema Loción Envase Cosmético - 10g'
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

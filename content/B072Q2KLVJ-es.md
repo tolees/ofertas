@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4145z1KJmNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072Q2KLVJ-es'
+slug: 'B072Q2KLVJ-es Wilson Federer Junior 19 21 23 25 26 Raqueta De Tenis + 3 pelotas de tenis - 21"'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

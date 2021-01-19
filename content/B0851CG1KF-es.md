@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51k6IhSKJXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0851CG1KF-es'
+slug: 'B0851CG1KF-es Calcetines de barco Calcetines de marea de estudiante Calcetines femeninos de baja ayuda Calcetines invisibles Harajuku Wind Calcetines bajos antideslizantes para niñas - Gris'
 actualPrice: 1.28 EUR
 currency: EUR
 price: 1.28

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Tt2kX4owL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07589QZMC-es'
+slug: 'B07589QZMC-es Spintires: MudRunner'
 actualPrice: 24.33 EUR
 currency: EUR
 price: 24.33

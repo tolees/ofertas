@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ewfJUVROL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZGZ73S-es'
+slug: 'B08BZGZ73S-es FSXMPL Pintura por NúMeros NiñOs para Adultos Principiantes Bricolaje  Oso pintadoDecoracióN Artesanal para El Hogar 40x50cm  Sin Marco '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

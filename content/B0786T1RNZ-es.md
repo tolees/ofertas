@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411YIw1zz5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0786T1RNZ-es'
+slug: 'B0786T1RNZ-es adidas Nitrocharge ATTK Rojo'
 actualPrice: 74.8 EUR
 currency: EUR
 price: 74.8

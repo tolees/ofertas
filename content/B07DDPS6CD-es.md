@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511fGVZ7sDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDPS6CD-es'
+slug: 'B07DDPS6CD-es Casio Reloj de Pulsera BA-110CR-2AER'
 actualPrice: 77.91 EUR
 currency: EUR
 price: 77.91

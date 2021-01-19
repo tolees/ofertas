@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T5OObFW8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQCVY6B-es'
+slug: 'B07JQCVY6B-es 50ml Ocean Perfume para Hombres  Fragancias frescas Maduro Caballero Tentaciones Sexy Perfume Bottle #1 '
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

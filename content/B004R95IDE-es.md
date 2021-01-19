@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YkOw4IrFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004R95IDE-es'
+slug: 'B004R95IDE-es Tuscany Silver 8.43.7594 - Cadena con colgante de plata de ley  925/1000   46 cm'
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

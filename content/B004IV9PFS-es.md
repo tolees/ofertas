@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xp2YSUwkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004IV9PFS-es'
+slug: 'B004IV9PFS-es Haflinger Paul  Zapatillas de Casa  Infantil  Azul  Blau/Jeans   18 EU'
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

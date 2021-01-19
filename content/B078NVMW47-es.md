@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KunxIMw3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078NVMW47-es'
+slug: 'B078NVMW47-es Auxmir Cortina Mosquitera Magnética para Puertas  100x220cm  con Malla Super Fina para Dejar Pasar el Aire Fresco  Cierre Automaticamente Evita Paso de Insectos  negro'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

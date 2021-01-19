@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hRTaUmOWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QPNNM-es'
+slug: 'B07V5QPNNM-es Tommy Hilfiger Core Corporate Leather Sneaker  Zapatillas para Hombre  Azul  Desert Sky Dw5   43 EU'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

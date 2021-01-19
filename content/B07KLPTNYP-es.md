@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j7f35Wb1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KLPTNYP-es'
+slug: 'B07KLPTNYP-es El Mal Querer'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

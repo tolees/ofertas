@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HXXSuFCzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2PKDM5-es'
+slug: 'B07N2PKDM5-es HOMCOM Mesilla de Centro Mesita de Noche Mesa de Café Té Mesita Auxiliar 2 Niveles para Salón Dormitorio Librería Estante de Almacenamiento 40x40x43cm Blanco'
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JeGNpYNjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LIZ9N90-es'
+slug: 'B00LIZ9N90-es YAZILIND Hoja diseño Ancho Brazalete Pulsera Mujer Oro Joyas'
 actualPrice: 0.93 EUR
 currency: EUR
 price: 0.93

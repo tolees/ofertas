@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eGaispNzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014JRRKQQ-es'
+slug: 'B014JRRKQQ-es Henry London Reloj Analógico para Unisex de Cuarzo con Correa en Cuero 5018479077459'
 actualPrice: 101.13 EUR
 currency: EUR
 price: 101.13

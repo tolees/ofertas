@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jSgkOhTLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MAXK1DH-es'
+slug: 'B01MAXK1DH-es ICOO Silla de Paseo Compacta Acrobat hasta 18 kg con Función de Tumbado desde el Nacimiento  Plegable con una Mano  Ligero - Chassis de Aluminio  Manillar Regulable en Altura  Reflectores - Azul'
 actualPrice: 188.46 EUR
 currency: EUR
 price: 188.46

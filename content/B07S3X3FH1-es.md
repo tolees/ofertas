@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gpwIYjkpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3X3FH1-es'
+slug: 'B07S3X3FH1-es New Balance 997H h  Zapatillas para Hombre  Azul  Blue Hbq   43 EU'
 actualPrice: 50.5 EUR
 currency: EUR
 price: 50.5

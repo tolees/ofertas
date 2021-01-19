@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Bbcguz-lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYZ2OQH-es'
+slug: 'B01MYZ2OQH-es Under Armour W Thrill 3 1295770-001  Zapatillas de Entrenamiento para Mujer  Negro  Black 1295770/001   36 EU'
 actualPrice: 20.33 EUR
 currency: EUR
 price: 20.33

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pIXw0iPKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6PGZTT-es'
+slug: 'B07S6PGZTT-es Lámpara LED de techo regulable para dormitorio salón decoración diseño moderno acrílico colores de techo lámpara para salón habitación de los niños cocina oficina lámpara con mando a distancia Blanco'
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

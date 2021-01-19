@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dh2jFNY3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVYZV58-es'
+slug: 'B07WVYZV58-es Mástil de Antena-Antena TV Interior/Exterior de Alta Ganancia de 30 dB para Receptor USB TDT/DTMB  ATSC DVB-T  DMB-T  portátil con Base magnética Estable y Fuerte Capacidad de recepción'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

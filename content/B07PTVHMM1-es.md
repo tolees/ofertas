@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HbIRmaE-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PTVHMM1-es'
+slug: 'B07PTVHMM1-es Kipling - Aicil  Mochilas Mujer  Multicolor  Camo Large   26x34x16 cm  B x H T '
 actualPrice: 28.5 EUR
 currency: EUR
 price: 28.5

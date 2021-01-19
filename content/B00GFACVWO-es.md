@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WH4DGeb4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GFACVWO-es'
+slug: 'B00GFACVWO-es K2  de Alta Temperatura de Silicona  Masilla  dichtsi LIKON  hochtemperaturbeständig hasta + 350   °C  Negro  85  g Tube'
 actualPrice: 5.43 EUR
 currency: EUR
 price: 5.43

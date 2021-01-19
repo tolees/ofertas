@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511z+pOwCjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001VB7I8Y-es'
+slug: 'B001VB7I8Y-es Schmetz - Aguja para máquina de Coser'
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

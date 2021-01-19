@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BN%2Bu2NKIL._SL200_
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD5D91T-es'
+slug: 'B07DD5D91T-es Miracle Tunes- Vestido/Disfraz  Jasmine  Color blanco/azul  S  Giochi Preziosi MRC08000 '
 actualPrice: 27.29 EUR
 currency: EUR
 price: 27.29

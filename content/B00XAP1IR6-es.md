@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61AMOb4RcaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAP1IR6-es'
+slug: 'B00XAP1IR6-es Haribo - Discos rojos - Geles dulces - 2 kg'
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ex2TV+KzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJ64WHD-es'
+slug: 'B07XJ64WHD-es Skechers Go Run 400 V2  Zapatillas para Hombre  Negro Black Textile Synthetic Gray Trim  41 EU'
 actualPrice: 34.06 EUR
 currency: EUR
 price: 34.06

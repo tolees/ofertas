@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aRB59YUFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DZYPY8A-es'
+slug: 'B01DZYPY8A-es Optimum Nutrition ON Gold Standard BCAA Polvo  Suplementos Deportivos con Aminoacidos  Vitamina C y Magnesio para Musculation  Manzana y Pera  28 Porciones  266g'
 actualPrice: 19.37 EUR
 currency: EUR
 price: 19.37

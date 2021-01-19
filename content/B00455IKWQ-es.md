@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EbAWevDEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00455IKWQ-es'
+slug: 'B00455IKWQ-es HP CF031A - Cartucho de tóner'
 actualPrice: 110.0 EUR
 currency: EUR
 price: 110.0

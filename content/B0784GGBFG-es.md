@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nCVzDqk8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784GGBFG-es'
+slug: 'B0784GGBFG-es Rimmel London Super Gel Esmalte de Uñas Tono 50 - 12 ml'
 actualPrice: 2.1 EUR
 currency: EUR
 price: 2.1

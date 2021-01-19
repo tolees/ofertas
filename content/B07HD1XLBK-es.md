@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/216ow7%2BtL8L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HD1XLBK-es'
+slug: 'B07HD1XLBK-es Apple Watch Correa rosa peonía con hebilla moderna  40mm  - Talla L'
 actualPrice: 37.08 EUR
 currency: EUR
 price: 37.08

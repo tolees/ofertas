@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31v-FJq8pfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B015NM9ZMI-es'
+slug: 'B015NM9ZMI-es Clarins 72176 - Desmaquillante'
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51hb22VoV%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B078MDPC2Y-es'
+slug: 'B078MDPC2Y-es Asics Gel-Pulse 9  Zapatillas de Entrenamiento para Mujer  Azul  Porcelain Blue/White/Bleu Victoria 1401   37.5 EU'
 actualPrice: 59.89 EUR
 currency: EUR
 price: 59.89

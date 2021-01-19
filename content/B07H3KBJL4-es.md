@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hSpPZcVUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3KBJL4-es'
+slug: 'B07H3KBJL4-es ZAFUL Mujeres Pantalones con Cordones a Rayas Pantalones de Chándal Pantalones de Cintura Alto Leggines Negro  S - L'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RqAok6v0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VT4ZKBW-es'
+slug: 'B07VT4ZKBW-es Skechers GO Run Pulse  Zapatillas para Mujer  Blanco Blanco Textil Multi Trim Wmlt  40 EU'
 actualPrice: 34.22 EUR
 currency: EUR
 price: 34.22

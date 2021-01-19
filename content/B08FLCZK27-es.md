@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kx0i6sw9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FLCZK27-es'
+slug: 'B08FLCZK27-es 18 piezas Mini Máquina de Coser Portátil Herramienta de Puntada Rápida de Bricolaje Adecuada para Tela  Ropa o Tela de Niños'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

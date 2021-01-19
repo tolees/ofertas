@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZC-oim2ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT1QIZI-es'
+slug: 'B01MT1QIZI-es Reebok Royal Cljog 2  Zapatillas de Trail Running Unisex niños  Blanco White White  35 EU'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

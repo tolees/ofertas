@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ny73uMtGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLST4BL-es'
+slug: 'B07MLST4BL-es Clarks Cotrell Easy  Mocasines para Hombre  Azul  Navy Combi Navy Combi   45 EU'
 actualPrice: 59.32 EUR
 currency: EUR
 price: 59.32

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31srkak6+tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083GHHC1J-es'
+slug: 'B083GHHC1J-es Estimulador de vibración del clítoris Shanghai Pro 2-Gold — One'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

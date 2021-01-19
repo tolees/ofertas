@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31St6qINtuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTWVZ0E-es'
+slug: 'B00TTWVZ0E-es Lacer Enjuagues Bucales 1 Unidad 200 g'
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

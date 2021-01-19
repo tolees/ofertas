@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dWpZJgXpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G1C35ZG-es'
+slug: 'B08G1C35ZG-es Auricular Bluetooth 5.0  Auricular inalámbrico  micrófono y Caja de Carga incorporados  reducción del Ruido estéreo 3D HD  para Auriculares iPhone/Android/Apple Airpods Pro/Samsung/Huawei/OnePlus'
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

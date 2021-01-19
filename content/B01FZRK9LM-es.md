@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XHHJRV31L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FZRK9LM-es'
+slug: 'B01FZRK9LM-es Nike Air MAX 90 Leather  Zapatillas para Niños  Negro  Black 001   38 EU'
 actualPrice: 40 EUR
 currency: EUR
 price: 40

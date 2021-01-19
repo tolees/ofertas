@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F3enunZPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M6POE5E-es'
+slug: 'B00M6POE5E-es Philips Avent Magic - Taza antigoteo de 260 ml  color azul'
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

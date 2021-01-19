@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31t9TOMQaUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9WVVJU-es'
+slug: 'B00X9WVVJU-es L Oreal París - Barra de Labios Color Riche 238'
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

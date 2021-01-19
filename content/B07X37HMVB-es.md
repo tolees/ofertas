@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fbUoJzVuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X37HMVB-es'
+slug: 'B07X37HMVB-es Monitor Táctil 7 pulgadas para Raspberry Pi 4B  Pantalla Tátcil HDMI HD LCD 1024X600 para pantalla Raspberry Pi 4 Modelo B 3 2B ETEPON  Versión Actualizada '
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

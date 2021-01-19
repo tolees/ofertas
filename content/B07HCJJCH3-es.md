@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XsHVuCrlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCJJCH3-es'
+slug: 'B07HCJJCH3-es P Prettyia 1 Par Cuernos Tornillos de Fijación Sonido para Vehículos Accesorio de Alimentación'
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

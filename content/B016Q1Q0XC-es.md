@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iSbiUiH-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016Q1Q0XC-es'
+slug: 'B016Q1Q0XC-es Maybelline New York Barra de Labios Color Drama 110'
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

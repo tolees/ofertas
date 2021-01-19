@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jm8sn1MLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZY9DQH6-es'
+slug: 'B06ZY9DQH6-es ZENBRE Altavoz Bluetooth  Z4 Parlante Estéreo Inalámbrico Resistente al Agua IPX6  con Potentes Graves incluidos  con Dual-Driver 2x5W  con Bluetooth 4.2 y hasta 18 Horas de Reproducción Rojo '
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

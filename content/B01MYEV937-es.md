@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515P0AhtxKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYEV937-es'
+slug: 'B01MYEV937-es Bosch UneoMaxx - Martillo perforador a batería  2 baterías 18V  cargador  adaptador de vástago redondo  2 brocas para hormigón SDS-Quick  2 brocas universales  4 láminas Bit  maletín '
 actualPrice: 152.99 EUR
 currency: EUR
 price: 152.99

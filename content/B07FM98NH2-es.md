@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31L3XnuF9bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FM98NH2-es'
+slug: 'B07FM98NH2-es Real Betis - Temporada 2019/2020 - Kappa - ZOSHI 3  Polo  Hombre  Neutro  S'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

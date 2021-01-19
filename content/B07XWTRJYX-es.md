@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AtCxNZQpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XWTRJYX-es'
+slug: 'B07XWTRJYX-es perfk Conector Macho 10pcs 4mm Banana Plug para Audio De Altavoz De Alto Voltaje'
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310jWKNaO+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2DQ6X7-es'
+slug: 'B07H2DQ6X7-es K KYUER 41.6Wh JC03 JC04 Batería para HP 240 245 250 255 G6 15-BS 15-BW 17-BS 17-AK bs011dx bs100tx bs004tx bs031wm bw075ax bw076nl bw032wm bw011dx bw063nl HSTNN-LB7V TPN-C129 C130 W129 W130 TPN-Q186'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

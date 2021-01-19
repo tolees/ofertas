@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IZ9dEQgWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005EVT4Z2-es'
+slug: 'B005EVT4Z2-es Cars 2'
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510PzV6YlXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083Q32HRR-es'
+slug: 'B083Q32HRR-es Desodorante desodorante natural Perfume sólido antitranspirante para la prevención del sudor de manos y pies  perfume sólido elegante simple adecuado para hombres y mujeres'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

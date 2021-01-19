@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31f8p5gn7NL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9PVR55-es'
+slug: 'B07K9PVR55-es Crocs Classic Slipper  Zapatillas Bajas Unisex Adulto  Rojo  Burgundy/Burgundy 60u   43/44 EU'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

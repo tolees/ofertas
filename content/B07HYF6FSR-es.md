@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mdRXG+rGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYF6FSR-es'
+slug: 'B07HYF6FSR-es MODAUTO Asiento Deportivo Coche  Baquet Deportivo  de Tela  con Ríeles incluidos  Universal para Simulador de Conducción  Modelo N070  Ojo Grande  Negro-Amarillo'
 actualPrice: 110.0 EUR
 currency: EUR
 price: 110.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316DmL2TdIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7B2FGS-es'
+slug: 'B07V7B2FGS-es YISSVIC Humidificador Ultrasónico Silencioso 4.8L con Pantalla Digital de Humedad Difusor de Aceites Esenciales con Vapor Frío Temporizador 3 Niveles de Niebla Ajustable Función Apagado Automático'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

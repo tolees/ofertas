@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5178XMkLfuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVHS83N-es'
+slug: 'B07MVHS83N-es Kipling Creativity S  Cartera para Mujer  Gris  Chalk Grey   14.5x9.5x5 cm'
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XqkeESBBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GQZ4VN9-es'
+slug: 'B07GQZ4VN9-es SUAOKI - 400Wh/120 000mAh Generador Portátil Solar  Cargador de Batería Almacenamiento Suministro de Energía  AC salida/coche  4 USB puertos  AC y DC inversor de corriente  1 mechero de coche '
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

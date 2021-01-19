@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zn7QHX2WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004UBU8IE-es'
+slug: 'B004UBU8IE-es TP-Link TL-WA801ND V5.0 - Punto de acceso inalámbrico/Extensor de red WiFi  N a 300mbps  2 antenas  WPS  PoE pasivo   desmontable'
 actualPrice: 28.63 EUR
 currency: EUR
 price: 28.63

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZZ+dzObGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JFXR9FC-es'
+slug: 'B00JFXR9FC-es 256 MB Memoria Flash USB 10 Piezas Pendrives - Portátil 256MB Pen Drive Económico Metal Llave USB para el Trabajo - Giratorio Almacenamiento de Datos Azul Práctico Regalo Unidad Flash USB by FEBNISCTE'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

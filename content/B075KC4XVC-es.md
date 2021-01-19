@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zQpQWJfrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075KC4XVC-es'
+slug: 'B075KC4XVC-es Bebé Niños Niñas Lindo Ratón 1er / 2do / 3er Cumpleaños 3 Piezas Traje los Niños del Algodón Ropa Interior + Correa Clip + Corbata de Mariposa Traje de Bebé Trajes 2-3 Años'
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

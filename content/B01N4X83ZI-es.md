@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TFvnJuhQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4X83ZI-es'
+slug: 'B01N4X83ZI-es Festina Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable F20204/2'
 actualPrice: 81.16 EUR
 currency: EUR
 price: 81.16

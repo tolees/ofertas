@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ajXxsKPKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HOD3W8C-es'
+slug: 'B01HOD3W8C-es Champú de manteca de karité de Shea Moisture  379 ml .'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

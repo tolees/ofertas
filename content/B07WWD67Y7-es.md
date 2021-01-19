@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412nLN5Nx5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWD67Y7-es'
+slug: 'B07WWD67Y7-es iTieTie 6-Unidades Protector de Pantalla Amazfit Bip  Suave TPU  Ultra Claro  Anti-rasguños  Protector de Pantalla de película Suave TPU para Huami Amazfit Bip'
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

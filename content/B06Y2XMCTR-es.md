@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uDi50WA5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2XMCTR-es'
+slug: 'B06Y2XMCTR-es New Balance 574 Core Zapatillas Hombre  Negro  Black EGK   40 EU  6.5 UK '
 actualPrice: 44.21 EUR
 currency: EUR
 price: 44.21

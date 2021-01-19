@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hrUoYKwPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TGB1GMH-es'
+slug: 'B07TGB1GMH-es Limpiador de Poros y Puntos Negros - Microdermoabrasion - 2 Fuerzas de Aspiración  4 Boquillas 2 Microcristalinas  2 Extractores  1 Estuche  30 Filtros de Recambio  Cuidado de la Piel - Exfoliante'
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

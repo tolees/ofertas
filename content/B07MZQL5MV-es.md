@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41axN%2BHD6EL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQL5MV-es'
+slug: 'B07MZQL5MV-es Esprit Maternity Pants Knit Utb Yd Check Pantalones premamá  Multicolor  Black 001   44  Talla del Fabricante: X-Large  para Mujer'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

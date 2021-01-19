@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518ExT74zGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DMYWPQ-es'
+slug: 'B079DMYWPQ-es Gebildet 5 piezas 9mm Cúter de Cuchillas Profesional ángulo de Corte de 60 grados  Snap-Off de Acero de Carbono Cuchillo  Automático de Vinilo Herramientas'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

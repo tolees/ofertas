@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X9-xAn+EL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00INT57DA-es'
+slug: 'B00INT57DA-es Bolsa de agua caliente forrada | Mobiclinic'
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

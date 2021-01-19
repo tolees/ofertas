@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5101gAQaQ2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYXJP9V-es'
+slug: 'B01MYXJP9V-es deAO RC Coche TodoTerreno Rock Crawler 4x4 a Control Remoto - 1:18 Rastreador de Roca 2.4GHz Sync System modo Multi Jugador  Verde '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411-TgdlhqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XSQ644G-es'
+slug: 'B07XSQ644G-es L.O.L Surprise Giochi Preziosi Hairvibes - Juguete para niños mayores de 6 años   color/modelo surtido'
 actualPrice: 20.55 EUR
 currency: EUR
 price: 20.55

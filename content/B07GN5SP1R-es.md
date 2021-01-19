@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61rcR4hq-2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GN5SP1R-es'
+slug: 'B07GN5SP1R-es WinWonder 17 piezas de fabricación de joyas  herramientas de hallazgos de joyería con 2 rollos de poliéster elástico Strester Cord cordón de cristal y 750 piezas de joyería para hacer joyas'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

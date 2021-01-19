@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qIAtGIzzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KN8RWPJ-es'
+slug: 'B07KN8RWPJ-es AUKEY Batería Externa de 5000 mAh  Cargadores portátiles compactos  Cargador de batería para iPhone X/8 Plus  Samsung S9/Note8  iPad  Auriculares Bluetooth  Pulsera de Actividad y más  Rosa '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

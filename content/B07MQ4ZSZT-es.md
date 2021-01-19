@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/618vh6Y0+rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ4ZSZT-es'
+slug: 'B07MQ4ZSZT-es BaiYou Atrapa Moscas Adhesivo Trampa Moscas Fruta 16 Rollos Atrapa Moscas Tiras Atrapamoscas Atrapa Mosquitos para Invernadero Jardin Exterior Interior No Tóxico'
 actualPrice: 4.28 EUR
 currency: EUR
 price: 4.28

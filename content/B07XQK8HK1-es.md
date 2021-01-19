@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417icKMSANL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQK8HK1-es'
+slug: 'B07XQK8HK1-es Sternitz Botella de Agua Hydra Acero Inoxidable con Aislamiento al vacio. Mantiene Tus Bebidas frías por 24 Horas y Calientes por 12 Horas. Water Bottle  Coral '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

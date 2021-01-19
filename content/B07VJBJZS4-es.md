@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wzWROyKEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJBJZS4-es'
+slug: 'B07VJBJZS4-es edc by Esprit 099cc1b048 Pantalones  Negro  Black 001   W38/L30  Talla del Fabricante: 38/30  para Mujer'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

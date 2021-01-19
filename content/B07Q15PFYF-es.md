@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31hkpan3TdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q15PFYF-es'
+slug: 'B07Q15PFYF-es L Oreal Paris Color Queen Mono Sombra de Ojos  Alta Pigmentación  Tono 01 Unsurpassed'
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

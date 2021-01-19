@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WGqj4JieL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014MI5EN8-es'
+slug: 'B014MI5EN8-es S R SUNRISE SRSB-3027 SRSB3027-Soporte cuadrado para alcachofa de ducha  latón cromado   Color plateado'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

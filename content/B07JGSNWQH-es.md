@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3194GQGYEAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGSNWQH-es'
+slug: 'B07JGSNWQH-es Pepe Jeans Alice Pl211308 Pantalones   Dulwich 594   W24  Talla del Fabricante: X-Small  para Mujer'
 actualPrice: 33.66 EUR
 currency: EUR
 price: 33.66

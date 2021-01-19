@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zMc0iD6UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018UAOPHK-es'
+slug: 'B018UAOPHK-es Cometa espantapájaros de calidad profesional'
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

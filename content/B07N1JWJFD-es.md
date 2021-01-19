@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31hEqYQWk7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JWJFD-es'
+slug: 'B07N1JWJFD-es Clarks Un Adorn Zip  Mocasines para Mujer  Beige  Pebble Metalic Pebble Metalic   37 EU'
 actualPrice: 37.14 EUR
 currency: EUR
 price: 37.14

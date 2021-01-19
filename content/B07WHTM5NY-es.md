@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31N20E3mF2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHTM5NY-es'
+slug: 'B07WHTM5NY-es VAUDE Men s Air Vest Iii Weste  Hombre  white uni  M'
 actualPrice: 30.37 EUR
 currency: EUR
 price: 30.37

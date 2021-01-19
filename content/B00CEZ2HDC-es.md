@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tt19t2KuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CEZ2HDC-es'
+slug: 'B00CEZ2HDC-es Dalwhinnie Whisky Escocés - 700 ml'
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

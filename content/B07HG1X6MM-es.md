@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdkJD9JwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG1X6MM-es'
+slug: 'B07HG1X6MM-es New Balance 574v2  Zapatillas para Mujer  Rosa  Pink/Blue Pink/Blue   41.5 EU'
 actualPrice: 54 EUR
 currency: EUR
 price: 54

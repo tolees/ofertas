@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Qsj83I8tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWV3Z5S-es'
+slug: 'B07WWV3Z5S-es ELTD Funda + Protector Pantalla para Samsung Galaxy Tab A 10.1 2019 T510/515  Fundas Duras Cover Case + Vidrio Templado Glass Film para Samsung Tab A 10.1 T510/515  Negro+1 Pack '
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

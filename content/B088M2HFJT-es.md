@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yIOlvZaQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088M2HFJT-es'
+slug: 'B088M2HFJT-es Suhctup Funda Compatible con Xiaomi Mi 9 Transparente Silicona TPU Gel Carcasa Dibujos Flor Crystal Suave Bumper Ultra Delgado [Soporte Carga Inalámbrica] Antigolpes Case Cover Lace 6'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

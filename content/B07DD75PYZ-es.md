@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TI0GOUqbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD75PYZ-es'
+slug: 'B07DD75PYZ-es Gormiti -  Brazalete Role Play Con 4 Medallones Luz y Sonidos  Multicolor  Giochi Preziosi GRM06000 '
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

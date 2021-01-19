@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ypFEhRAWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9M3FCJ-es'
+slug: 'B07F9M3FCJ-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F16826/A'
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

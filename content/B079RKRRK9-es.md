@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gFSmhwIBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RKRRK9-es'
+slug: 'B079RKRRK9-es Sorel Explorer Joan  Botas para Mujer  Gris  Quarry/Black 052   36.5 EU'
 actualPrice: 105 EUR
 currency: EUR
 price: 105

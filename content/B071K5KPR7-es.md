@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4174PaH3qpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071K5KPR7-es'
+slug: 'B071K5KPR7-es Lee Luke Jeans  True Authentic Gcby  36W / 34L para Hombre'
 actualPrice: 46.75 EUR
 currency: EUR
 price: 46.75

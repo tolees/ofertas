@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Dpl316loL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007BLEA6Q-es'
+slug: 'B007BLEA6Q-es Bellelli  TGTR00020 - Portabebé de ciclismo  color blanco/ rojo'
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ciUHQchSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SN4DYXP-es'
+slug: 'B07SN4DYXP-es Umi. Essentials - Auriculares de botón inalámbricos  TWS  W9 con Bluetooth 5.0 y certificación IPX7 compatibles con iPhone Samsung Huawei y Estuche con Base de Carga  Rosa Bebé '
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

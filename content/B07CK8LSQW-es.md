@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414g6bvNR6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CK8LSQW-es'
+slug: 'B07CK8LSQW-es Rubies - Disfraz oficial de DC Aquaman The Movie  disfraz de lujo para adulto'
 actualPrice: 44.96 EUR
 currency: EUR
 price: 44.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414pKt45-lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084X5DSRK-es'
+slug: 'B084X5DSRK-es PACK - Windows 10 Professiona + office pro 2019 + antivirus kapersky + photoshop 2020l - Entrega a través del centro de mensajes de Amazon 60 minutos como máximo - Activación por el sitio oficial'
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

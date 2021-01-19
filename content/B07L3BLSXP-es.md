@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bwI0WMjjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3BLSXP-es'
+slug: 'B07L3BLSXP-es G-STAR RAW 3301 Slim 1/2 Pantalones cortos  Mehrfarbig  Medium Indigo Aged 8968-6028   W25  Talla del fabricante: 25W  para Hombre'
 actualPrice: 27.01 EUR
 currency: EUR
 price: 27.01

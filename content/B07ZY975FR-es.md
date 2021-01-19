@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k6keAf6ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZY975FR-es'
+slug: 'B07ZY975FR-es Bruni Película Protectora Compatible con Fossil Sport 41 mm Protector Película  Claro Lámina Protectora  2X '
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

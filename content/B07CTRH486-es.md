@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kXoWSLGJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTRH486-es'
+slug: 'B07CTRH486-es Skechers FLEX ADVANTAGE 3.0- STALLY  Men’s Trainers  Blue  Navy Mesh/Trim Nvy   9.5   44 EU '
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

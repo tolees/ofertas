@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mNXV-3G6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G35CB7V-es'
+slug: 'B07G35CB7V-es L Oreal Paris Magic Retouch Precision Cepillo Cubrecanas  Tono Castaño Oscuro'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

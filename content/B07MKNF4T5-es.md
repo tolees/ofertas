@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QkZKM2X+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKNF4T5-es'
+slug: 'B07MKNF4T5-es Tom Tailor 1008650 Polo  Negro  Black 29999   M para Hombre'
 actualPrice: 13.94 EUR
 currency: EUR
 price: 13.94

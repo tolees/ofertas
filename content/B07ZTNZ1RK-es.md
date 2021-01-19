@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dwlOaJOeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTNZ1RK-es'
+slug: 'B07ZTNZ1RK-es Frozen Wind-Bolsa de Deporte'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

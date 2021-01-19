@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZeiP15wpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788NRJRJ-es'
+slug: 'B0788NRJRJ-es Salomon Quest 4D 3 GTX W  Botas de Senderismo para Mujer  Multicolor  Lead/Stormy Weather/Bird of Paradis 000   36 2/3 EU'
 actualPrice: 145.99 EUR
 currency: EUR
 price: 145.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xmb8z9B1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBJFGJH-es'
+slug: 'B07KBJFGJH-es Funko- 5 Star: Aladdin: Jasmine 5 Estrellas  Multicolor  Estándar  35766 '
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

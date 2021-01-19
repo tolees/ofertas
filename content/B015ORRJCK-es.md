@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IISuqNtDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015ORRJCK-es'
+slug: 'B015ORRJCK-es Niré Brochas de Maquillaje con Esponja Maquillaje  Estuche  Limpiador de Brochas'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

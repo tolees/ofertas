@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iTx-qzuCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XRW6NX-es'
+slug: 'B085XRW6NX-es Oxímetro de pulso para dispositivo de medición de oxígeno del dedo  Pulse Oximetro el dispositivo de medición de dedo mide la frecuencia del pulso de saturación de oxígeno  oxímetro con pantalla OLED'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

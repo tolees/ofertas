@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yi7c%2BPCnL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVLQVW1-es'
+slug: 'B07MVLQVW1-es Napapijri Eils SS Polo  Verde  Green Forest 2 GE3   Small para Hombre'
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

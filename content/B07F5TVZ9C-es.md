@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dQqObi80L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F5TVZ9C-es'
+slug: 'B07F5TVZ9C-es Memorias USB 5 Piezas 32GB USB 2.0 Stick Flash Drive Pendrives Almacenamiento Datos por SIMMAX  32GB Azul '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

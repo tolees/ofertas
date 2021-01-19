@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fcfcasEbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GRF6HIA-es'
+slug: 'B01GRF6HIA-es Bourjois Contour Clubbing; Delineador de Ojos. Tono 63 Sea blue soon - 5 gr.'
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

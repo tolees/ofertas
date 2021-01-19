@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21hbP%2Ba7IJL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L36MCHV-es'
+slug: 'B07L36MCHV-es AmazonBasics - Perchero de pared  8 ganchos modernos  Nogal  2 unidades'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

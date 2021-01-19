@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wbS10nRgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZN3KCH-es'
+slug: 'B07MZN3KCH-es Funko- Pop Vinyl: Movie Moment 80th: Batman and Joker  1989  Figura de Vinilo  Multicolor  Talla Única  37250 '
 actualPrice: 22.63 EUR
 currency: EUR
 price: 22.63

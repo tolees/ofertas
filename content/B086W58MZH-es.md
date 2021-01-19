@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yST4lOfIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086W58MZH-es'
+slug: 'B086W58MZH-es FITTOO Sujetador Deportivo Tops de Yoga Correr Gimnasio para Mujer Rojo XS'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

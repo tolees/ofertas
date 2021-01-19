@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GTKiFsacL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R8ZCYF4-es'
+slug: 'B07R8ZCYF4-es Hisense H32BE5000 - TV LED 32  HD  2 HDMI  1 USB  Salida Óptica  Audio DD+  Negro'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

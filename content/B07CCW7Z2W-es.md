@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412z81AjwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CCW7Z2W-es'
+slug: 'B07CCW7Z2W-es Marca Amazon - Presto! Suavizante concentrado azul  360 lavados  6 Packs  60 cada uno '
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

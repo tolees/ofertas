@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51E3fTsPBAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0014FXFFW-es'
+slug: 'B0014FXFFW-es Casio Reloj de Pulsera BEM-116L-1AVEF'
 actualPrice: 41.84 EUR
 currency: EUR
 price: 41.84

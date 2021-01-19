@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fqdfaa6HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZFNQN9-es'
+slug: 'B01MZFNQN9-es Calvin Klein Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable K3M2112N'
 actualPrice: 131.88 EUR
 currency: EUR
 price: 131.88

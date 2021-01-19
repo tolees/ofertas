@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lT69CpF6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F9BS7B6-es'
+slug: 'B08F9BS7B6-es DLseego [4 Pack Tapas de Agarre para el Pulgar New 2020 Joystick Cap Compatible para Switch & Switch Lite Cubiertas de Agarre de Pulgar Controlador de Silicona Suave - Lindo Oso y Vonejo'
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

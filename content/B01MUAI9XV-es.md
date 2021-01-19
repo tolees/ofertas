@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Pq4faIXzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUAI9XV-es'
+slug: 'B01MUAI9XV-es Diesel UMBX-SHAWNTHREEPACK  Calzoncillo para Hombre  Multicolor  S  Pack de 3'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

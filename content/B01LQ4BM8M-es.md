@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DN2Gj4CHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LQ4BM8M-es'
+slug: 'B01LQ4BM8M-es Razer Goliathus Speed Cosmic Medium - Suave alfombrilla de ratón para juegos'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

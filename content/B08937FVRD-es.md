@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419WhrGChbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08937FVRD-es'
+slug: 'B08937FVRD-es Raniaco Rallador & Rallador de Queso - Rallador de Cocina Ralladores Acero Inoxidable para Queso  Limón  Ajo  Zester de Cítricos con Cubierta Protectora Suave  Base de Goma de Mano Larga'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

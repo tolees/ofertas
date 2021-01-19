@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41++iNeiE1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVXY28B-es'
+slug: 'B07TVXY28B-es Báscula de Baño Zuzpao Báscula Grasa Corporal  Básculas Digitales con App y 14 Datos del Cuerpo  Balanza Baño para Peso  Músculo  Grasa Corporal  IMC  BMR  Tasa de proteína  180 kg / 400 lb'
 actualPrice: 21.88 EUR
 currency: EUR
 price: 21.88

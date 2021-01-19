@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wxbz8WT8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WTVFLT-es'
+slug: 'B078WTVFLT-es Nike Internationalist Women s Shoe  Zapatillas para Mujer  Negro  Black/Summit White-Anthracite-Sail 021   35.5 EU'
 actualPrice: 62.8 EUR
 currency: EUR
 price: 62.8

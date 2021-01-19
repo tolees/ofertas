@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZIe36ZS6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6MNSRQ-es'
+slug: 'B07S6MNSRQ-es Carpeta de Archivos Desplegable 13 bolsillos Organizador de Archivos Expandible de Plástico A4 Carpeta de Acordeón Soporte de Documentos Portátil Almacenamiento para el hogar/oficina/escuela con asa'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

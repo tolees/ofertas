@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r1K-WTO2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876Z1FXY-es'
+slug: 'B0876Z1FXY-es Homtiky Medidor pH  Digital Medidor TDS Temperatura EC 4 en 1  Probador de la Calidad de Agua con Rango de Medida de 0-14 pH  0-9999ppm Calibración Automática'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

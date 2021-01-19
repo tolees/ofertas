@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41srcrHcLCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006USGEOC-es'
+slug: 'B006USGEOC-es Listerine Enjuague Bucal - 500 ml'
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

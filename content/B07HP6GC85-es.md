@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vW1A04uIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HP6GC85-es'
+slug: 'B07HP6GC85-es Emma & Giovanni - Pullover - Top - Mujer  XL/XXL  Verde '
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

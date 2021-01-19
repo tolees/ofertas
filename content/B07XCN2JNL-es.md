@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VZ3yh4SnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCN2JNL-es'
+slug: 'B07XCN2JNL-es Polarduck Soporte de Pared para TV de 13-30 pulgadas Giratorio  inclinable y rotatorio  Soporte TV para LED/LCD/Plasma/Monitor Gaming  Extiende 40cm  VESA Máx. 100x100mm    Carga Máx. 20 kg  Negro'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

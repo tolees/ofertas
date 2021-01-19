@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31U3AysrH4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFJ7CGM-es'
+slug: 'B07SFJ7CGM-es Levi s Global Vulca-Low  Zapatillas para Hombre  Blanco  R White 51   42 EU'
 actualPrice: 20.85 EUR
 currency: EUR
 price: 20.85

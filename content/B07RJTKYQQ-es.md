@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UBTkya8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJTKYQQ-es'
+slug: 'B07RJTKYQQ-es Columbia IVO Trail Breeze  Zapatillas Deportivas para Hombre  Gris  Steam  Acid Yellow 088   42 EU'
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

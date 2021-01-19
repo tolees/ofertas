@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314KOEVKjDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBBPNXV-es'
+slug: 'B07TBBPNXV-es Brockman s - Ginebra con Copa de Regalo  700 ml'
 actualPrice: 25.6 EUR
 currency: EUR
 price: 25.6

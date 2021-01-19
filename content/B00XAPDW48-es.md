@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c7EuchhWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAPDW48-es'
+slug: 'B00XAPDW48-es Haribo - Flautas Nata-Fresa - Geles Dulces - 1.6 kg'
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

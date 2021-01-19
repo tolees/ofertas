@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rSGNbvPBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR3DKPF-es'
+slug: 'B07FR3DKPF-es K KYUER TF03XL Batería del Portátil para HP Pavilion 15-CC 15-CD 15-CC154CL 15-CC060WM 15-CC152OD 15-CC055OD 15-CD040WM 17-AR007CA 17-AR050WM 920046-121 421 541 920070-855 HSTNN-IB7Y LB7J LB7X'
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m9ThG0ELL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E5AC3BE-es'
+slug: 'B01E5AC3BE-es BRA Tekna - Olla a presión rápida 4 litros de fácil uso  acero inoxidable 18/10  apta para todo tipo de cocinas  incluido inducción'
 actualPrice: 66.69 EUR
 currency: EUR
 price: 66.69

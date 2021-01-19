@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ccwcDAXGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K6VQO44-es'
+slug: 'B00K6VQO44-es American Tourister - Bon Air - Spinner Maleta 66 cm  58 L  Negro'
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

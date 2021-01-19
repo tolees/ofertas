@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VOEeYAFML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WZAL5M-es'
+slug: 'B000WZAL5M-es Clinique 18441 - Loción anti-imperfecciones'
 actualPrice: 18.25 EUR
 currency: EUR
 price: 18.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dHHeon6tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J9Q0ZEQ-es'
+slug: 'B01J9Q0ZEQ-es Fujifilm Instax Share SP-2 - Impresora para smartphone  Plata'
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

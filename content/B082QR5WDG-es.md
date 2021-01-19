@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kw0D9SG4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082QR5WDG-es'
+slug: 'B082QR5WDG-es Pulsera de Actividad Inteligente  IP68 Impermeable Reloj Inteligente Pulsera Actividad Inteligente para Deporte  Reloj de Fitness con Podómetro Smartwatch-BL9'
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

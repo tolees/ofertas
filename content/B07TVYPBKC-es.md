@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VTUeXUjTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVYPBKC-es'
+slug: 'B07TVYPBKC-es Cable de programación USB portátil y Ligero para Hytera PD780/PD785/PD788  Color Negro'
 actualPrice: 15.38 EUR
 currency: EUR
 price: 15.38

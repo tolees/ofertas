@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kF-mBYopL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHYP9GG-es'
+slug: 'B07BHYP9GG-es Maleta de cabina Pepe Jeans Cambridge Roja rígida 55cm'
 actualPrice: 78.7 EUR
 currency: EUR
 price: 78.7

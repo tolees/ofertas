@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rvd+ZcaGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NDA9QZY-es'
+slug: 'B00NDA9QZY-es Compex Wireless Fit 5.0 Electroestimulador  Unisex  Azul'
 actualPrice: 440.0 EUR
 currency: EUR
 price: 440.0

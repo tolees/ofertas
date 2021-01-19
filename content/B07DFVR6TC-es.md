@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dGLyoHmqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFVR6TC-es'
+slug: 'B07DFVR6TC-es Tommy Hilfiger Plunge Sujetador con Push-up  Rosa  Silver Rose SVR   80C  Talla del Fabricante: 0C30  para Mujer'
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

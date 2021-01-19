@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EOFr5AKzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SMRJ3C-es'
+slug: 'B081SMRJ3C-es Sistema de Riego por Goteo Automático  TAOPE Juego de 12 Regador de Plantas con Soporte Antiinclinación y Antidescenso para Jardín  Dispositivo de Irrigación para Bonsáis y Flores en Vacaciones'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

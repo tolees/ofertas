@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413nPKItSuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ761KR-es'
+slug: 'B07TZ761KR-es Tecboss Encendedor Eléctrico Encendedor de Arco Eléctrico Con Pantalla LED de Batería USB recargable para Camping Cocina BBQs Fuegos Artificiales'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

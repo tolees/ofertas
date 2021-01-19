@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ms89bs7wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2CKXKX-es'
+slug: 'B07G2CKXKX-es Mandarina Duck - Mellow Leather Tracolla  Bolsos de mano Mujer  Beige  Simply Taupe '
 actualPrice: 55.94 EUR
 currency: EUR
 price: 55.94

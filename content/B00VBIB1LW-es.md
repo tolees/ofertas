@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YRHAJLfCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VBIB1LW-es'
+slug: 'B00VBIB1LW-es PNY Attaché 4 - Memoria USB 3.0 de 16 GB'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

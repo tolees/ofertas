@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412F7JgqewL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018LLIX3A-es'
+slug: 'B018LLIX3A-es Tommy Hilfiger Core Hilfiger Regular Polo  Negro  Flag Black 060   Small para Hombre'
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

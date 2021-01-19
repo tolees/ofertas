@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zlpUgjTyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079GZBV4Z-es'
+slug: 'B079GZBV4Z-es Philips Avent  SCF334/31 - Sacaleches doble silencioso  extractor de leche eléctrico  con cojín masajeador suave  biberón'
 actualPrice: 144.99 EUR
 currency: EUR
 price: 144.99

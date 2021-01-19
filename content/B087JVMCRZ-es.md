@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xkQInj-iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JVMCRZ-es'
+slug: 'B087JVMCRZ-es 10 unidades – Protector bucal para nariz con soporte nasal  protector bucal  protección facial  producto desechable'
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

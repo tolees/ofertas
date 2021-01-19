@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4127Hg2oKrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y6GGVRM-es'
+slug: 'B06Y6GGVRM-es Einhell 2270075 Medidor Laser TC-LD 25 Rango de Trabajo: 0.05m-25 m  1.5 V  Rojo'
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

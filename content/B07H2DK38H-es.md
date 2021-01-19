@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w2XLqIQnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2DK38H-es'
+slug: 'B07H2DK38H-es Juntas Cilindro Maestro Junta de Mirilla de Vista Hierro + Caucho Retrovisor 18mm'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

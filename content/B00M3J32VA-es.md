@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CNdjVy4aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M3J32VA-es'
+slug: 'B00M3J32VA-es Nixon Men s Wristwatch - rose gold -  A0452001'
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+mITADkuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075S96MJZ-es'
+slug: 'B075S96MJZ-es ultrapower100® Cargador Compatible iPhone 1A 5 W 1400 + Cable 100% 1 Metro Blanco Compatible iPhone 5 5 C 5S 6 SE 6S 7 8 X XR XS XS MAX'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

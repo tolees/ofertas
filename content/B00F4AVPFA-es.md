@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vv-SJagaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F4AVPFA-es'
+slug: 'B00F4AVPFA-es Calvin Klein Carousel-Bikini Sujetador  Blanco  WHITE 100   Small para Mujer'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

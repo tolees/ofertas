@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313VkZ4MOlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8TJ1PT-es'
+slug: 'B07N8TJ1PT-es Izod Performance Pique Polo  Blanco  Bright White 116   XL para Hombre'
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

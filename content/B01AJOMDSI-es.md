@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hE9vYI1qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AJOMDSI-es'
+slug: 'B01AJOMDSI-es Linksys EA7500-EU - Router WiFi Gigabit MU-MIMO AC1900 MAX-Stream  Monitorización y Administración Remota de Red  CPU a 1.4 GHz  4 Puertos Gigabit Ethernet  USB 3.0  Seguridad Avanzada de Red   Negro'
 actualPrice: 114.9 EUR
 currency: EUR
 price: 114.9

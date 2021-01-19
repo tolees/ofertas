@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dFa4jXI4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LMV9HMS-es'
+slug: 'B00LMV9HMS-es Skip Hop Zoo Dog - Tarro aislado del alimento  325ml  12m+'
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

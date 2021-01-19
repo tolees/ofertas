@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G7jLzHEkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N88DGC3-es'
+slug: 'B07N88DGC3-es Pala De Padel Adidas Faster Pink 1 9'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

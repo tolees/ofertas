@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31x9GqzI+cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MH65GS8-es'
+slug: 'B07MH65GS8-es Skagen Reloj de Bolsillo Digital SKT5107'
 actualPrice: 179.4 EUR
 currency: EUR
 price: 179.4

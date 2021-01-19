@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31parceIo6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RH3R5MJ-es'
+slug: 'B07RH3R5MJ-es Levi s Galoo Reversible Belt Cinturón  Negro  R Black 59   90 para Hombre'
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

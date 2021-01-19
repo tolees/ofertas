@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q1PF1ol2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I8I6CTE-es'
+slug: 'B00I8I6CTE-es Bomb Cosmetics  Regalo para el cuidado de la piel  Little Box of Love  6 productos  - 240 gr.'
 actualPrice: 12.68 EUR
 currency: EUR
 price: 12.68

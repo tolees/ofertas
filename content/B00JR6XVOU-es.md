@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61ErylkwtDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JR6XVOU-es'
+slug: 'B00JR6XVOU-es Starter Pack - Skylander Trap Team'
 actualPrice: 32.78 EUR
 currency: EUR
 price: 32.78

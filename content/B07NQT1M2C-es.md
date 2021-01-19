@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31WAtR1ItNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQT1M2C-es'
+slug: 'B07NQT1M2C-es Springfield Básico Piel Cinturón  Dark Brown  105 para Hombre'
 actualPrice: 9 EUR
 currency: EUR
 price: 9

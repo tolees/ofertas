@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p4783n+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPSSW54-es'
+slug: 'B07KPSSW54-es Pop! Vinyl: Spider Man Far from Home: MJ'
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

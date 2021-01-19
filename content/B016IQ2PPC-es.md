@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cgrLPrIOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016IQ2PPC-es'
+slug: 'B016IQ2PPC-es Tienda de campaña Vinson Altus'
 actualPrice: 229.99 EUR
 currency: EUR
 price: 229.99

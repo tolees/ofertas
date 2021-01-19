@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hz-SYiwIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD6SWN0-es'
+slug: 'B01HD6SWN0-es Salomon XA Pro 3D  Zapatillas de Trail Running para Hombre  Negro  Black/Magnet/Quiet Shade   44 EU'
 actualPrice: 87.73 EUR
 currency: EUR
 price: 87.73

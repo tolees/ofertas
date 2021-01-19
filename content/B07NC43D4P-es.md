@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wyhsrY6lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC43D4P-es'
+slug: 'B07NC43D4P-es AXE Black - Desodorante Bodyspray para hombre  48 horas de protección  150 ml  pack de 3'
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

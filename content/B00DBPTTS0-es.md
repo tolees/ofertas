@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kcn15HxAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DBPTTS0-es'
+slug: 'B00DBPTTS0-es Acer Essential - Monitor de 17"  pantalla LED  1280 x 1024 píxeles  1 puerto VGA  11 W   color negro'
 actualPrice: 65.4 EUR
 currency: EUR
 price: 65.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510H-xSNw2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCZST6V-es'
+slug: 'B07ZCZST6V-es Brillos corporales  Purpurinas Polvo  Purpurina para Cara Cuerpo Maquillaje Pelo Rostro Uñas Mejilla  Glitter Flakes Paillette para Rostro  Brillante Decoración para Pelo'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

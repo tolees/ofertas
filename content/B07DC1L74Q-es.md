@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zLrJp+Q2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC1L74Q-es'
+slug: 'B07DC1L74Q-es Puma RS-150 Satin Wn s  Zapatillas para Mujer  Morado  Sweet Lavender-Sweet Lavender   40 EU'
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

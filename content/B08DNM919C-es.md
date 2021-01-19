@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-waGyALHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNM919C-es'
+slug: 'B08DNM919C-es Pantalones Cortos Deportivos para Mujer Entrenamiento Yoga Verano para Hacer Ejercicio Trotar Gimnasio Pijamas Interior Casual Suelto Elástico con Banda Rojo S'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

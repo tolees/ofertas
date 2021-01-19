@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CKCnv+sCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXVVP7Q-es'
+slug: 'B07TXVVP7Q-es BRIKSMAX Kit de Iluminación Led para Lego City Tren De Pasajeros  Compatible con Ladrillos de Construcción Lego Modelo 60197  Juego de Legos no Incluido'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Xz14zF1YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K4Y4SXC-es'
+slug: 'B00K4Y4SXC-es Tomodachi Life'
 actualPrice: 29.8 EUR
 currency: EUR
 price: 29.8

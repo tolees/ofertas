@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wMpvlF4iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XX98LPF-es'
+slug: 'B06XX98LPF-es New Balance WL574EB  Zapatillas Mujer  Gris  Grey   37.5 EU'
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

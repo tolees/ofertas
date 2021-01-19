@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tlsd2ZB2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CP5MZ1-es'
+slug: 'B071CP5MZ1-es Ebotics Croc & Play - Kit creación interactiva  17 entradas  toma de tierra '
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

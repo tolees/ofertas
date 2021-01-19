@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DbWAfjbXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7SH2Q4-es'
+slug: 'B01K7SH2Q4-es Garnier Coloración Color Sensation Nº2.1 Negro Azulado - 200 ml'
 actualPrice: 1.81 EUR
 currency: EUR
 price: 1.81

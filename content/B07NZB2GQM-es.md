@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515DB4w2rIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZB2GQM-es'
+slug: 'B07NZB2GQM-es Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt  All Hours  Button-Down-Shirts  Blue White Check  Medium Tall'
 actualPrice: 10.68 EUR
 currency: EUR
 price: 10.68

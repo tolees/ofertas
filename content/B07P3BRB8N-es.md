@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31X7ths1bKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3BRB8N-es'
+slug: 'B07P3BRB8N-es Lark & Ro Long Sleeve Mixed Lace Dress  Azul Marino Oscuro  US 8  EU M '
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

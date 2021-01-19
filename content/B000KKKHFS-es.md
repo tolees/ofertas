@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vJXMDgeOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KKKHFS-es'
+slug: 'B000KKKHFS-es InLine 33101 Adaptador de Cable USB A DB15 Beige - Adaptador para Cable  USB A  DB15  Male Connector/Female Connector  Beige '
 actualPrice: 7.22 EUR
 currency: EUR
 price: 7.22

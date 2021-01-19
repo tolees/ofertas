@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cK3N8+NvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085R1RWXW-es'
+slug: 'B085R1RWXW-es Finocam - Agenda Curso 2020-2021 Cuarto-155 x 212 Semana Vista Apaisada Secundaria Limits Español'
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

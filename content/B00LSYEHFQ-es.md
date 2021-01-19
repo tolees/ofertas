@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tNJywnbzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LSYEHFQ-es'
+slug: 'B00LSYEHFQ-es Bosch PHO 2000 - Cuchilla cepilladora  caja de cartón  680 W  ancho de cepillado 82 mm  profundidad de corte 0 - 2.0 mm  profundidad de rebaja 0 - 8 mm '
 actualPrice: 87.0 EUR
 currency: EUR
 price: 87.0

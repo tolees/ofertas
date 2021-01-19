@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gGqkkbQGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7PCNZY-es'
+slug: 'B07K7PCNZY-es Asics Patriot 10  Zapatillas de Running para Mujer  Negro  Black/Skylight 003   38 EU'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

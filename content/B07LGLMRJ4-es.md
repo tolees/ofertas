@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oi+yLksbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGLMRJ4-es'
+slug: 'B07LGLMRJ4-es Evax Fina y Segura Super/Maxi Compresas Con Alas - 11 Unidades'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

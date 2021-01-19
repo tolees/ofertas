@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vOh09cYuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKSNMVH-es'
+slug: 'B07CKSNMVH-es Peppa Pig PPC28 Kit de Figura de Juguete para niños Chica - Kits de Figuras de Juguete para niños  3 año s   Multicolor  Chica  13/08/18  2 Pieza s  '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

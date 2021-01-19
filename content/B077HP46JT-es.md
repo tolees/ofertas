@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TB9aOM4aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HP46JT-es'
+slug: 'B077HP46JT-es find. PHRM3300 Suéter  Morado  Lilac   42  Talla del Fabricante: Large '
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

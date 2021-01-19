@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FFi+AbDFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVBRJ8Y-es'
+slug: 'B07NVBRJ8Y-es Skechers SELMEN WALDER  Botas Clasicas para Hombre  Negro Nylon Mesh Black  45 EU'
 actualPrice: 35.19 EUR
 currency: EUR
 price: 35.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4126HYdxDKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXLTN8J-es'
+slug: 'B07TXLTN8J-es Superga 2750-cot3strapu  Zapatillas de Gimnasia Unisex Adulto  Amarillo  Yellow Golden W8u   37 EU'
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

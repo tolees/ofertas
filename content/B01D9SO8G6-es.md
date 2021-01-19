@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Otn-6noNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D9SO8G6-es'
+slug: 'B01D9SO8G6-es Pendientes Yazilind deslumbrante Ba?ado En Plata l¨¢grima cortada Negro Hook Circonita cuelga gota mujeres'
 actualPrice: 1.68 EUR
 currency: EUR
 price: 1.68

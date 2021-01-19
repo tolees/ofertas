@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511ulEyzsnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0127DIL9O-es'
+slug: 'B0127DIL9O-es Juego De Tronos Temporada 2 Steelbook Blu-Ray [Blu-ray]'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

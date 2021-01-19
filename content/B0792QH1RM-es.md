@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wr5GSAYKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792QH1RM-es'
+slug: 'B0792QH1RM-es adidas V Racer 2.0  Zapatillas de Running para Hombre  Negro  Core Black/FTWR White/Grey Five Core Black/FTWR White/Grey Five   38 EU'
 actualPrice: 38.42 EUR
 currency: EUR
 price: 38.42

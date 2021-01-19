@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dLInyfqXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071GTF9WS-es'
+slug: 'B071GTF9WS-es adidas Real H Baby Set  Blanco/Azuint  68'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

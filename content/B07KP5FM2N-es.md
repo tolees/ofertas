@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313e2rbHXnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP5FM2N-es'
+slug: 'B07KP5FM2N-es adidas Pro Suit 3S Traje de baño  FR : 4XL  Taille Fabricant : 50   Negro  Black/Carbon   4XL  Talla del Fabricante: 50 '
 actualPrice: 28.44 EUR
 currency: EUR
 price: 28.44

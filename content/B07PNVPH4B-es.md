@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4168Afj-reL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNVPH4B-es'
+slug: 'B07PNVPH4B-es Victoria 1915 Doble Lona  Zapatillas para Mujer  Negro  Negro 10   41 EU'
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

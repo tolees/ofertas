@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/612dfz6+uOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VX2DNKJ-es'
+slug: 'B07VX2DNKJ-es Jojoin Agua Dibujo Pintura 120x90 cm  Alfombra de Agua Doodle  Esteras de Agua Doodle  1 x Caja  3 × Foca Animal  4 × Pluma Mágica  5 × Molde Animal  ect...'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E9v6GDBnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C3VBZK4-es'
+slug: 'B07C3VBZK4-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Cuero CL60006'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

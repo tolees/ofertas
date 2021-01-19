@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FIyRlXN6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGP7J5C-es'
+slug: 'B07NGP7J5C-es Silla de paseo Rapid Unique azul 2019'
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/613b17rGveL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDCLM19-es'
+slug: 'B07DDCLM19-es BlueXP 100 Unidades Botón de Mariposa Pintado de Madera Colores Variados Hebilla de 2 Agujeros para Decoración de Manualidades'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

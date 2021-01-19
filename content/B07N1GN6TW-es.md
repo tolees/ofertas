@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pSbxxTOIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GN6TW-es'
+slug: 'B07N1GN6TW-es Clarks Un Rio Lace  Zapatillas para Mujer  Gris  Dark Grey Dark Grey   41.5 EU'
 actualPrice: 52.97 EUR
 currency: EUR
 price: 52.97

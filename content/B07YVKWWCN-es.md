@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4176PY6S25L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YVKWWCN-es'
+slug: 'B07YVKWWCN-es Tarjetero Pepe Jeans Half vertical Azul'
 actualPrice: 26.52 EUR
 currency: EUR
 price: 26.52

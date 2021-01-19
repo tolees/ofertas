@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Zijh0ykdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FTDZCPX-es'
+slug: 'B08FTDZCPX-es Huoyin Pulsera Dispensadora De Líquido  Pulsera Pulsera Dispensador De Silicona para Niños Adultos Al Aire Libre Mano Diaria'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

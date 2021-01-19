@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R0+EXEGyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKQT6B2-es'
+slug: 'B00BKQT6B2-es Daniel Wellington 0505DW - Reloj con correa para mujer  color azul/rosa'
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

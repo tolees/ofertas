@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51I8TkNekdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGRNKBT-es'
+slug: 'B07MGRNKBT-es Cardinal Games 6053141 Perplexus Epic Multicolor'
 actualPrice: 25.84 EUR
 currency: EUR
 price: 25.84

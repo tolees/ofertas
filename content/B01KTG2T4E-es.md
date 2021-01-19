@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K6n0if9vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KTG2T4E-es'
+slug: 'B01KTG2T4E-es Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 2010872'
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cGd3MTTvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085FYD1J4-es'
+slug: 'B085FYD1J4-es Bandas de Resistencia Gluteos Set -Conjunto de Bandas de Ejercicio de Tela Premium  con Diseño Antideslizante  3 Niveles Diferentes Bandas de Resistencia de Tela para piernas y glúteos'
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

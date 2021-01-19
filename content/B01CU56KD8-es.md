@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41asrv9Cv2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CU56KD8-es'
+slug: 'B01CU56KD8-es Fleur Paint 13247 - Pintura  transforma superficies en pizarra  750 ml  color smoky'
 actualPrice: 21.64 EUR
 currency: EUR
 price: 21.64

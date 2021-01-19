@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51c3R0Vaa3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSN6Y91-es'
+slug: 'B07VSN6Y91-es Beikell Protector Pantalla Xiaomi Redmi Note 7/7 Pro  [4 Pack] Vidrio Cristal Templado con 9H Dureza  Alta Sensibilidad  Anti-Arañazos  Anti-Huellas Dactilares  Sin Burbujas  Garantía de por Vida'
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

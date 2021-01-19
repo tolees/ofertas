@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510Qgclc7aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5FVWLM-es'
+slug: 'B07N5FVWLM-es Bed Comforter King  King size quilt handmade Bright Quilt Bohemian  King size duvet set  Gift for New Mom  FREE SHIPPING'
 actualPrice: 266.0 EUR
 currency: EUR
 price: 266.0

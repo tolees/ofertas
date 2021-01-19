@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UgM9QK2jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MUB7JRO-es'
+slug: 'B00MUB7JRO-es Camper Beetle  Zapatillas Altas para Hombre  Gris  Dark Gray   43 EU'
 actualPrice: 74.5 EUR
 currency: EUR
 price: 74.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mLd6dPM0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QMSSFJC-es'
+slug: 'B00QMSSFJC-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos  Glutamina y Aminoacidos  BCAA  Chocolate Mantequilla de Cacahuete  27 porciones  900g  Embalaje puede variar'
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

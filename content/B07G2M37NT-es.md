@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515IrlANdrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2M37NT-es'
+slug: 'B07G2M37NT-es FIFA 19 - Steelbook Standard Edition  import allemand  -  Ne contient aucun jeu  [Importación francesa]'
 actualPrice: 1.51 EUR
 currency: EUR
 price: 1.51

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aw6hf7nlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P48Q5KC-es'
+slug: 'B07P48Q5KC-es Skechers Men s METCO Classic Boots  Brown  Brown Leather W/Mesh Br Ol   6.5  40 EU '
 actualPrice: 23.23 EUR
 currency: EUR
 price: 23.23

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l3qaESYzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OVSYRTW-es'
+slug: 'B00OVSYRTW-es Camano 3003 Ca-Soft Sneaker 7 Paar Calcetines cortos  Blanco  white combi 01   43/46  43/46   Pack de 7  para Hombre'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

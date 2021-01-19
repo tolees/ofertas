@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418WkuQOqEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQ1KD4D-es'
+slug: 'B07HQ1KD4D-es Barra De Labios Mate Permanente De Pintalabios Impermeable Natural Brillo De Labios 003 Rojo Oscuro Oscuro'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

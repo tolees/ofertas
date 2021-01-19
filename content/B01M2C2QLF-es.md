@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ijVef2QjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M2C2QLF-es'
+slug: 'B01M2C2QLF-es Arlo Accesorio oficial VMA4400 - Batería Recargable para cámaras de Seguridad y vigilancia Arlo Accesorio oficial Pro  sin Cables '
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

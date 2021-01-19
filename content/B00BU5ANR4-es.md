@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LItdarnEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BU5ANR4-es'
+slug: 'B00BU5ANR4-es Medipaq Rodillera Protectora de Rótula y Ligamientos – Cinta Rotuliana con Compresión y 4x Imanes Potentes para el Alivio del Dolor'
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

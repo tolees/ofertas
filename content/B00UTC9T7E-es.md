@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vT82UL2UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UTC9T7E-es'
+slug: 'B00UTC9T7E-es SONGMICS Silla ergonómica de oficina estudio con ruedas OBG24B'
 actualPrice: 104.21 EUR
 currency: EUR
 price: 104.21

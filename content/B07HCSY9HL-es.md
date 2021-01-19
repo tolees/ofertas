@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jzjz7KhdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCSY9HL-es'
+slug: 'B07HCSY9HL-es Dell Precision 3530 - Ordenador portátil 15.6" FullHD  Intel Core i7-8750H  8GB RAM  256GB SSD  Windows 10 Pro  Negro - Teclado QWERTY español'
 actualPrice: 846.43 EUR
 currency: EUR
 price: 846.43

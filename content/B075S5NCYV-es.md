@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411aRkPr3xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075S5NCYV-es'
+slug: 'B075S5NCYV-es Bosch MSM6S50B ErgoMixx Style Batidora de mano con accesorios  750 W  color negro'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

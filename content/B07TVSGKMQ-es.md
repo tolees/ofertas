@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cItU6blYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVSGKMQ-es'
+slug: 'B07TVSGKMQ-es Tommy Hilfiger Th Women Short Sock 2p Translucent Calcetines  Blanco  White 300   39/42  Pack de 2  para Mujer'
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

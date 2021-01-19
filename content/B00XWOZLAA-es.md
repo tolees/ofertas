@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31P7TZ6QQAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XWOZLAA-es'
+slug: 'B00XWOZLAA-es Nike Air MAX Invigor  Zapatillas para Hombre  Blanco  White/Black 100   42 EU'
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

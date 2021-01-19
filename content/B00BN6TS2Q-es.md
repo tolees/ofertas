@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QO9-K2OaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BN6TS2Q-es'
+slug: 'B00BN6TS2Q-es Blow 750M Antena emisora CB 300W base magnética desmontable  coches  furgonetas'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ggYBsDuKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CP0F9FS-es'
+slug: 'B01CP0F9FS-es Guitarra acústica eléctrico mr500e op'
 actualPrice: 183.72 EUR
 currency: EUR
 price: 183.72

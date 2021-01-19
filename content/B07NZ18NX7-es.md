@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dnFb5n23L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ18NX7-es'
+slug: 'B07NZ18NX7-es Parasol Profesional de Repuesto para Lente de Objetivo HB-58 Petal para Nikon AF-S DX 18-300 mm f/3.5-5.6G ED VR'
 actualPrice: 2.32 EUR
 currency: EUR
 price: 2.32

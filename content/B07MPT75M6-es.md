@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UzatuVppL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MPT75M6-es'
+slug: 'B07MPT75M6-es Olivia Burton Reloj Analógico para Mujer de Cuarzo con Correa en Cuero OB16BF21'
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

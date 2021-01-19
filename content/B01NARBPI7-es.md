@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hbPwe+bEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NARBPI7-es'
+slug: 'B01NARBPI7-es SanDisk Extreme Go - Memoria flash USB 3.1 de 64 GB'
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05

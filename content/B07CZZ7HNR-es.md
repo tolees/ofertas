@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j3Gsa1ZlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZZ7HNR-es'
+slug: 'B07CZZ7HNR-es Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Azul  Peacoat-Puma White 8   43 EU'
 actualPrice: 39.19 EUR
 currency: EUR
 price: 39.19

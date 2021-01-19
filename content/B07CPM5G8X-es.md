@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412kWmOq8OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPM5G8X-es'
+slug: 'B07CPM5G8X-es Lunvon 12 Canales Enchufes Inalámbricos Inteligentes con Mando a Distancia con Control Remoto Interruptores a Distancia  Juego de Enchufes de 5 x Por Enchufe Con 2 x Mando a Distancia  1000 W  Blanco'
 actualPrice: 20.22 EUR
 currency: EUR
 price: 20.22

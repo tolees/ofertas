@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41SGRmHQmyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SCQJXH-es'
+slug: 'B077SCQJXH-es New Balance W1400V6  Zapatillas de Running para Mujer  Negro Black/Pink  36 EU'
 actualPrice: 32.54 EUR
 currency: EUR
 price: 32.54

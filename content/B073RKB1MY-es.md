@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cc-ZVvioL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RKB1MY-es'
+slug: 'B073RKB1MY-es Adidas Cloudfoam Pure  Zapatillas para Mujer  Blanco  Footwear White/Footwear White/Core Black 0   37 1/3 EU'
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

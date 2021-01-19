@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/510VzSrG7pL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CHDP9PI-es'
+slug: 'B01CHDP9PI-es SKYSPER 200 x 200 cm Manta de Picnic Alfombrilla Colchón para al Aire Libre Camping Playa Senderismo Jardín Estera Alfombra Impermeable Plegable'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

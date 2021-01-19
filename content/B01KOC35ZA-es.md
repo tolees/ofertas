@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51k-tNkBFHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KOC35ZA-es'
+slug: 'B01KOC35ZA-es Beurer HK47 - Almohadilla electrónica  batería externa de 2600 mAh  cargador USB  color gris'
 actualPrice: 28.38 EUR
 currency: EUR
 price: 28.38

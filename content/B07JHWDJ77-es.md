@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+6jZ9xDaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHWDJ77-es'
+slug: 'B07JHWDJ77-es Columbia Ivo Trail  Zapatillas para Hombre  Negro  Black  Steam 010   42 EU'
 actualPrice: 65.88 EUR
 currency: EUR
 price: 65.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EHyls+HaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0143IIP4W-es'
+slug: 'B0143IIP4W-es SanDisk SDSDUNC-064G-GN6IN Ultra Tarjeta de Memoria SDXC de 64 GB  hasta 80 MB/s  Clase 10 '
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SqAQjx95L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JVYKDL-es'
+slug: 'B072JVYKDL-es Romanticist 20 Piezas Utensilios para Barbacoa para Hombres con Paquete de Caja de Regalo  Accesorios Profesionales para Cubiertos de Barbacoa de Acero Inoxidable en Caja de Aluminio'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

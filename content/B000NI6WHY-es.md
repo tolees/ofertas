@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZCEHFaKFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NI6WHY-es'
+slug: 'B000NI6WHY-es Solgar Omega 3 Triple concentración  Apoyo al Cuidado del Corazón  Aceite de Pescado Concentrado de Aguas Frías que aporta EPA y DHA  100 Cápsulas'
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z+3t9pCuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IO18AP4-es'
+slug: 'B00IO18AP4-es Lotus Reloj Analógico para Niñas de Cuarzo con Correa en Cuero 15950/2'
 actualPrice: 39.16 EUR
 currency: EUR
 price: 39.16

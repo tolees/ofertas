@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L2VtvPFhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CGES96Y-es'
+slug: 'B01CGES96Y-es Relec Infantil Spray Antimosquitos | Fórmula especial para niños | A partir de 1 año | Eficaz contra el mosquito tigre | Dermatológicamente testada  sin alcohol ni colorantes | 100 ml'
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

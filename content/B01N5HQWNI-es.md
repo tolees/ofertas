@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jESTQWXiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5HQWNI-es'
+slug: 'B01N5HQWNI-es Car&Gus Disfraz de Samba para Mujer'
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

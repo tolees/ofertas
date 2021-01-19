@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KA3ElzLNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GTFWFJ-es'
+slug: 'B075GTFWFJ-es Adidas VL Court 2.0 K  Zapatillas Unisex Niños  Blanco  Footwear White/Core Black/Footwear White 0   29 EU'
 actualPrice: 27.94 EUR
 currency: EUR
 price: 27.94

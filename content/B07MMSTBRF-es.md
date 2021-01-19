@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61RtMHF3jJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMSTBRF-es'
+slug: 'B07MMSTBRF-es WERNNSAI Conjunto de Suministros para la Fiesta Juego - Party Decoracion Chicos Cumpleaños Favors de Fiesta Servilletas Cubiertos Mantel Platos Pancartas Globos Tazas Sirve a 16 Invitados 169 Piezas'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

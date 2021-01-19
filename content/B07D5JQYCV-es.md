@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518ORBoov5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5JQYCV-es'
+slug: 'B07D5JQYCV-es KHOMO - Funda para iPad de 9 7 Pulgadas  2017 y 2018  Carbon Fiber iPad 9.7 Inch  2017 & 2018 '
 actualPrice: 12.33 EUR
 currency: EUR
 price: 12.33

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J4YohAn4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJ1PMJQ-es'
+slug: 'B07BJ1PMJQ-es Set M Playlife de caza AMG 500 con figura y accesorios  Dickie 3834002 '
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

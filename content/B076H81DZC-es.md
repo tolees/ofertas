@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31n56c8ptdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076H81DZC-es'
+slug: 'B076H81DZC-es Carat Shop- Colgante Charm Lightning Bolt Harry Potter  Color Plata  HP0105 '
 actualPrice: 5.11 EUR
 currency: EUR
 price: 5.11

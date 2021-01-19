@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-ubvHA4bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDCFDTC-es'
+slug: 'B07TDCFDTC-es Led Espejo Luz Baño 10W 820LM 60cm 230V 4000K Aogled Lámpara de Acero Inoxidable 3en1 IP44 Clase II Diseño Delgado Sin Parpadeo Espejo No Regulable Frente/Gabinete/Iluminación de Pared Neutro Blanco'
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

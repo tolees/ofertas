@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xqIdlXPqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJX3YHM-es'
+slug: 'B07KJX3YHM-es Columbia Fire Venture L Mid II WP  Botas de Senderismo para Mujer  Negro  Black  Daredevi 010   36 EU'
 actualPrice: 31.09 EUR
 currency: EUR
 price: 31.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rkXRsDYcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NTZSPJM-es'
+slug: 'B07NTZSPJM-es loonBonnie Nueva Tela Grandes Arco broches para Las Mujeres Corbata de Boda del Banquete de Accesorios de Ropa'
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

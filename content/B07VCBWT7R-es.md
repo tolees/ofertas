@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hFPx6-kwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCBWT7R-es'
+slug: 'B07VCBWT7R-es Cortapelos y afeitadora hombrel 6-en-1  juego de cortapelos multifuncion para hombre profesional  afeitadora eléctrica  fácil de quitar el cabello  el pelo de la nariz y el pelo extra en el cuerpo'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

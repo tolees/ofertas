@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31usqE5uZlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CRVHRM4-es'
+slug: 'B00CRVHRM4-es L Oreal Majirel Eu Absolu Tinte 9.22 - 125 gr'
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

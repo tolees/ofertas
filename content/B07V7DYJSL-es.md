@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RDdBrV9CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7DYJSL-es'
+slug: 'B07V7DYJSL-es JACK & JONES Jjiace Jjworker WW Pantalones  Verde  Olive Night Olive Night   W30/L30  Talla del Fabricante: 30  para Hombre'
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+4xJu1bCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0854DLXTX-es'
+slug: 'B0854DLXTX-es Máscaras desechables de 3 capas de 10 piezas  cómoda máscara sanitaria antipolvo  transpirable  desechable  bufanda bucal  máscara de filtro de algodón grueso hipoalergénico  talla única '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

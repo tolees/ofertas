@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/5157BEqS51L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MH1D4J-es'
+slug: 'B079MH1D4J-es Salomon XA Pro 3D CSWP K  Zapatillas de Deporte Unisex Niños  Azul/Naranja  Navy Blazer/Mallard Blue/Hawaiian Surf   29 EU'
 actualPrice: 49.49 EUR
 currency: EUR
 price: 49.49

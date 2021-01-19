@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E9cdpRfnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A9XBEU8-es'
+slug: 'B00A9XBEU8-es JULIUS-K9 Arnés Julius-K9 IDC  2/L–XL  71–96 cm/50 mm  Camuflaje  Perro'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

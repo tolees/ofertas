@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zslhl2TAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU2ZI2L-es'
+slug: 'B01MU2ZI2L-es Signal Cepillo Dental Esencial - 2 Unidades'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

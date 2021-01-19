@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41img8XQjsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001E7NNW0-es'
+slug: 'B001E7NNW0-es Bausch & Lomb - Soflens Daily Esféricas - Lentes de Contacto'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MQbP-B1fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB5FC8T-es'
+slug: 'B07SB5FC8T-es HCFKJ 2.4G Ratón Inalámbrico Recargable  Silencioso Infame Ratón óptico Silencioso Click Mini  Ultra Delgado 1600 dpi para Computadora Portátil  PC  Portátil  Computadora  9.5X4.5X13.5CM  Plata '
 actualPrice: 21.33 EUR
 currency: EUR
 price: 21.33

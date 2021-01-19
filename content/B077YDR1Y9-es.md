@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41la3KnVx0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YDR1Y9-es'
+slug: 'B077YDR1Y9-es Accurist Reloj de Pulsera 7101.01'
 actualPrice: 93.83 EUR
 currency: EUR
 price: 93.83

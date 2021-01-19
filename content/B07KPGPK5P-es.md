@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uHFYlgTHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPGPK5P-es'
+slug: 'B07KPGPK5P-es ZARRS Palos de Madera para Manualidades 100 Piezas Palitos de Madera 114 x 10 mm Natural Palitos de Madera para DIY Bricolaje Artesanía'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

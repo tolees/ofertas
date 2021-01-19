@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FQVR6VuYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6SV8N3-es'
+slug: 'B07D6SV8N3-es KHOMO - Carcasa Trasera Transparente para iPad de 9 7 Pulgadas  2017 y 2018  – Serie Dual de orimami híbrido  Pantalla Horizontal y Vertical Dorado iPad 9.7 Inch  2017 & 2018 '
 actualPrice: 10.09 EUR
 currency: EUR
 price: 10.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AM3F2JOcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DBC6GJ-es'
+slug: 'B079DBC6GJ-es Fossil Reloj Analógico para Mujer de Cuarzo con Correa en Cuero ES4377'
 actualPrice: 65.9 EUR
 currency: EUR
 price: 65.9

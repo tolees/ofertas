@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412oSaEtUuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFM4VQJ-es'
+slug: 'B07FFM4VQJ-es Fossil - Reloj Gen 4 Smartwatch con correa de cuero - FTW6015'
 actualPrice: 189.89 EUR
 currency: EUR
 price: 189.89

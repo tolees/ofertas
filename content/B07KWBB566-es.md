@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-nHXSivHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWBB566-es'
+slug: 'B07KWBB566-es Helly Hansen Tokyo Hoodie  Hombre  White  XL'
 actualPrice: 39.05 EUR
 currency: EUR
 price: 39.05

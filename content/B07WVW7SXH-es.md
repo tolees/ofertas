@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41edsbdm8cL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVW7SXH-es'
+slug: 'B07WVW7SXH-es Luchild Dispensador de Leche en Polvo  Fórmula Portátil Dispensador de Polvo Contenedor Caja de Ollas Essentials de Viaje para Bebé de 3 Capas  Azul '
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

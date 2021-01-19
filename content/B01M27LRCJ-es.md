@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/211l-yCx4PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M27LRCJ-es'
+slug: 'B01M27LRCJ-es BRA Efficient Cuchara de Cocina  Acero INOX  Nailon y Silicona  Naranja  35 cm'
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

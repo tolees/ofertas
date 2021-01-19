@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411aRcpG0ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YFS09AO-es'
+slug: 'B00YFS09AO-es Nike Tanjun S  Zapatillas para Niños  Negro  Black/White   30 EU'
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

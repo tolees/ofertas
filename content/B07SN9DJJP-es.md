@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Yy2OlpERL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SN9DJJP-es'
+slug: 'B07SN9DJJP-es Adidas Vs Switch 2 CMF Inf  Zapatillas de Estar por casa Bebé Unisex  Multicolor  Azuosc/Ftwbla/Azul 000   19 EU'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

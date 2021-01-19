@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xSUCuybeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKSX9C6-es'
+slug: 'B07TKSX9C6-es Clarks Un Rio Lace  Zapatillas  Azul  Dark Blush Combi Dark Blush Combi   36 EU'
 actualPrice: 53.61 EUR
 currency: EUR
 price: 53.61

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419X4DKZgHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F5JNZL4-es'
+slug: 'B07F5JNZL4-es Máquina de eliminación de grasa congelada  sistema de pérdida de grasa congelador  método revolucionario de congelación y fusión de células grasas para pérdida de grasa de celulitis y exceso de grasa'
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

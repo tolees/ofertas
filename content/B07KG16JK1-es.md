@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311DinaNHWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG16JK1-es'
+slug: 'B07KG16JK1-es PUMA Hybrid Fuego  Zapatillas de Running para Hombre  Black Black  40.5 EU'
 actualPrice: 29.93 EUR
 currency: EUR
 price: 29.93

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31S0YVm2DxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCPGDYQ-es'
+slug: 'B07HCPGDYQ-es MODAUTO Antena de Radio Universal  Varilla 9.5cm  4 Adaptadores  para Coche  Modelo A203  Color Plata'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

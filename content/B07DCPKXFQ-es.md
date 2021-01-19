@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414p4EWLLML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCPKXFQ-es'
+slug: 'B07DCPKXFQ-es LIGHTAILING Conjunto de Luces  Technic Porsche 911 GT3 RS  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 42056  NO Incluido en el Modelo .'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

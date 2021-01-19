@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xaw21sGmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002AF6BQ-es'
+slug: 'B0002AF6BQ-es Fellowes 29702 - Alfombrilla estándar para ratón  22.9 x 20.3 x 0.5 cm  Color Gris'
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

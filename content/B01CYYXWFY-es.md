@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mKIC-JJhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CYYXWFY-es'
+slug: 'B01CYYXWFY-es Collistar Sensitive Skin Gel de Afeitar - 200 ml'
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

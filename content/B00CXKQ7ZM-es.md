@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HJe1JI92L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CXKQ7ZM-es'
+slug: 'B00CXKQ7ZM-es Philips PHICSP630 - Altavoces coaxiales para Coche  16.5 cm  6.5"  3 vías  210 W  Color Negro'
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

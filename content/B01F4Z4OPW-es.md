@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gmAwMOskL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F4Z4OPW-es'
+slug: 'B01F4Z4OPW-es Crucial Ballistix Sport LT BLS2K4G4D240FSE 2400 MHz  DDR4  DRAM  Memoria Gamer Kit para Ordenadores de Sobremesa  8 GB  4 GB x 2   CL16  Rojo '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

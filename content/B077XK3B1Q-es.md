@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41VBXQo1baL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XK3B1Q-es'
+slug: 'B077XK3B1Q-es Under Armour HG Armour 2.0 Comp Short Pantalónes Cortos  Hombre  Azul  Royal/Academy 401   XL'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SeLb3SNzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZZD8T2-es'
+slug: 'B071ZZD8T2-es HyperX Predator - Memoria RAM de 8 GB  DDR4  2400 MHz  CL12  DIMM XMP  HX424C12PB3/8 '
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

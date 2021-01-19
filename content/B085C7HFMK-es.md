@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZLkERSMAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085C7HFMK-es'
+slug: 'B085C7HFMK-es Yaspark Fenix 5X Correa  Silicona Bandas 26mm Repuesto Sport Accesorio QuickFit Pulsera para Fenix 6X/Fenix 6X Pro/Fenix 3/Fenix 3 HR/Fenix 5X/Fenix 5X Plus'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

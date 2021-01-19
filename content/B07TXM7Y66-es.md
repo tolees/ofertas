@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310cf+rul7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXM7Y66-es'
+slug: 'B07TXM7Y66-es Gant Sundale  Zapatillas para Hombre  Azul  Marine G69   41 EU'
 actualPrice: 37.7 EUR
 currency: EUR
 price: 37.7

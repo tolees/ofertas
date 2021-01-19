@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JyyS9OA-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YF9N1KS-es'
+slug: 'B07YF9N1KS-es Fitfiu Remo RA-100 Resistencia magnética y de Aire Crosstraining y Cardio  Adultos Unisex  Negro  115 x 25 x 77'
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

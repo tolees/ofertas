@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yeGKT51jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5SCDNW-es'
+slug: 'B07D5SCDNW-es PUMA ESS Logo tee T-Shirt  Mujer  Puma White  XS'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

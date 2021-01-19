@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ry3Y6ueNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1JQY91-es'
+slug: 'B07X1JQY91-es Lámpara de Nocturna LED Lámpara de Mesita de Noche Inteligente  Control Tactil  Regulable  USB Recargable  Portátil  Cambio de Color RGB para Niños  Habitación  Cámping - Uverbon'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

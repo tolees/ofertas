@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31OGYnaoUpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJCK7DX-es'
+slug: 'B07NJCK7DX-es Lacoste Carnaby EVO 119 7 SMA  Zapatillas para Hombre  Azul Marino/Blanco/Rojo'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

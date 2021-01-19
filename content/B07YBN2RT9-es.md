@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R1CEEazGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBN2RT9-es'
+slug: 'B07YBN2RT9-es Naruto Ultimate Ninja Storm 3 Full Burst  Code In a Box '
 actualPrice: 14.84 EUR
 currency: EUR
 price: 14.84

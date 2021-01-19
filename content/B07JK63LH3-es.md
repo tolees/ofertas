@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mzaZpZ7QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JK63LH3-es'
+slug: 'B07JK63LH3-es dreamlock Pedales con articulado de construcción 261 pcs AZ 6803'
 actualPrice: 31.13 EUR
 currency: EUR
 price: 31.13

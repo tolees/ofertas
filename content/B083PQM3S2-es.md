@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31C0KGy-0vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083PQM3S2-es'
+slug: 'B083PQM3S2-es Muebles Marieta Old Style now Silla Bunny Terracota'
 actualPrice: 56.1 EUR
 currency: EUR
 price: 56.1

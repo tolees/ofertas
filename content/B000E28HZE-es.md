@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OtJPM4lJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000E28HZE-es'
+slug: 'B000E28HZE-es K&N KA-6503 Filtro de Aire Moto'
 actualPrice: 62.52 EUR
 currency: EUR
 price: 62.52

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JN4-B2PlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VRSLMC-es'
+slug: 'B082VRSLMC-es La Vecina Rubia Funda Smartphone - Plateada y Compatible con Apple iPhone 7/8'
 actualPrice: 9.05 EUR
 currency: EUR
 price: 9.05

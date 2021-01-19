@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IWlvx4ZGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3H6XN1-es'
+slug: 'B07J3H6XN1-es Under Armour Golf Headline 3.0 C Gorra con Logo Frontal  Hombre  Gris  Gray 012   L/XL'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

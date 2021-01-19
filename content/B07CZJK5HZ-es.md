@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419Oi8TvauL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZJK5HZ-es'
+slug: 'B07CZJK5HZ-es Under Armour Tech 6in 2 Pack Ropa Interior  Hombre  Azul  Academy/Mod Gray Light Heather 409   M'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412K+qOoJbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084C3PNXT-es'
+slug: 'B084C3PNXT-es PIKOLIN Colchón de muelles avanzados Normablock Confort viscoelástico 90x190  firmeza Media  Altura 25 cm'
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

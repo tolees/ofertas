@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3131KIIwC1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSLBU1Z-es'
+slug: 'B01MSLBU1Z-es HP Cable Adaptador HDMI a VGA - Adaptador para Cable  HDMI  VGA  Male Connector/Female Connector  Negro '
 actualPrice: 22.37 EUR
 currency: EUR
 price: 22.37

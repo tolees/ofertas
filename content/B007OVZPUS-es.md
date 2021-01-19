@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uPiCzvpVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007OVZPUS-es'
+slug: 'B007OVZPUS-es Pipedream Penes - 641 gr'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

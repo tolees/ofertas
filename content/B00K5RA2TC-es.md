@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QD48-tBuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K5RA2TC-es'
+slug: 'B00K5RA2TC-es Tommy Hilfiger 3p Brief Calzoncillos  Ngro  Negro 990   Medium para Hombre'
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

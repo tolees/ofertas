@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3131DWJWxuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPP7GXJ-es'
+slug: 'B07FPP7GXJ-es Relaxdays 10022959 Cubo de Basura Empotrable  con Tapa  Higiénico  Residuos Orgánicos  Acero  29.5 x 26.5 cm  Plateado/Negro'
 actualPrice: 36.12 EUR
 currency: EUR
 price: 36.12

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GUTTiAMpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H29Z3YW-es'
+slug: 'B07H29Z3YW-es Gowind6 - Extensión de pestañas de algodón para microcepillo  100 unidades rosa rosa'
 actualPrice: 3.38 EUR
 currency: EUR
 price: 3.38

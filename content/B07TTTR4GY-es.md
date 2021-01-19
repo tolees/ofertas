@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Tovvf6KSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTTR4GY-es'
+slug: 'B07TTTR4GY-es Skechers Go Run Fast Steadfast  Zapatillas sin Cordones para Hombre  Azul  Black Textile/Multi Trim Bkmt   45 EU'
 actualPrice: 42.06 EUR
 currency: EUR
 price: 42.06

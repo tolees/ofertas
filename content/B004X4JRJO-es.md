@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qd6+-gCwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004X4JRJO-es'
+slug: 'B004X4JRJO-es Braun BN0035WHBKG - Reloj cronógrafo de caballero de cuarzo con correa de piel negra'
 actualPrice: 145.69 EUR
 currency: EUR
 price: 145.69

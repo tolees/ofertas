@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QfRmiIhzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BYMLYC-es'
+slug: 'B001BYMLYC-es TRIXIE Bebedero Viaje con botella  700 ml  Dog on Tour  Perro'
 actualPrice: 3.83 EUR
 currency: EUR
 price: 3.83

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uotNIe+mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J5ILLRY-es'
+slug: 'B00J5ILLRY-es adidas Originals Stan Smith  Zapatillas de Deporte Unisex Adulto  Negro  Black/Black/Black   42 2/3 EU'
 actualPrice: 50.68 EUR
 currency: EUR
 price: 50.68

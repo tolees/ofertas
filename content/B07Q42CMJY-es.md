@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FE6RyPJiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q42CMJY-es'
+slug: 'B07Q42CMJY-es Toyvian Succión Bullet Gun Revolver Kids Divertido Juego al Aire Libre Juego de Disparos'
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

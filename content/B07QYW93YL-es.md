@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-RIGSHJ3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QYW93YL-es'
+slug: 'B07QYW93YL-es Calvin Klein Formal Plaque Belt 3.5cm Cinturón  Negro  Black 001   105  Talla del fabricante: 90  para Hombre'
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

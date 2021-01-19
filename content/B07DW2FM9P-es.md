@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sM0HHwBZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DW2FM9P-es'
+slug: 'B07DW2FM9P-es Fuumuui DIY preimpreso Lienzo Regalo de Pintura al óleo para Adultos niños Pintura por número Kits con Marco de Madera para la decoración casera -Koi 16 * 20 Pulgadas'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

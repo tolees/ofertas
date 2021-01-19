@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61WI6cVN6gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SUZXCS4-es'
+slug: 'B00SUZXCS4-es Aquabeads-79268 Template Sheets Set  multicolor  Epoch 79268    color/modelo surtido'
 actualPrice: 6.65 EUR
 currency: EUR
 price: 6.65

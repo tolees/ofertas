@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WLagyJOlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DQV11SO-es'
+slug: 'B01DQV11SO-es Twins Looney Tunes 1 127 67-Camiseta Bebé Bebé unisex    Weiß  weiss 4013  1 mes'
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

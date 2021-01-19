@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E+JaY7vHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7R6WF5-es'
+slug: 'B07R7R6WF5-es Hually Funda Carcasa Gel para Huawei P30 Lite  Transparente Ultra Fina  Soft TPU de Impactos y Anti Arañazos Espalda Case Cover para Huawei P30 Lite'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

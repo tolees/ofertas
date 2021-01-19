@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510R9CjL1eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGFRFD3-es'
+slug: 'B07YGFRFD3-es Medela Freestyle Flex  - Sacaleches Eléctrico Doble'
 actualPrice: 274.51 EUR
 currency: EUR
 price: 274.51

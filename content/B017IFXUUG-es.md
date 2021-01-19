@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51atb60rjyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017IFXUUG-es'
+slug: 'B017IFXUUG-es DELL UltraSharp UP3216Q LED Display 80 cm  31.5"  4K Ultra HD Plana Negro - Monitor  80 cm  31.5"   3840 x 2160 Pixeles  4K Ultra HD  LED  8 ms  Negro '
 actualPrice: 587.0 EUR
 currency: EUR
 price: 587.0

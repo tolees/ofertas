@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Arf7JbruL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZ77QP1-es'
+slug: 'B07JZ77QP1-es DORRISO Lindo Niños Bebe Gorra Cómodo Calentar Pequeña Animal Dibujos Animados Gorras Sombrero de Niño Apto para 1-8 años Niños bebé'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

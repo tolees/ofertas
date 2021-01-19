@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y-b+Z4s4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RN73HB3-es'
+slug: 'B07RN73HB3-es Oral-B Junior - Cepillo Eléctrico Recargable con Tecnología de Braun  1 Mango de Star Wars  1 Cabezal  Apto para Niños Mayores de 6 años'
 actualPrice: 35.09 EUR
 currency: EUR
 price: 35.09

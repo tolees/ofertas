@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ogAKH943L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRM2H57-es'
+slug: 'B07WRM2H57-es The Yakuza Remastered Collection'
 actualPrice: 44.64 EUR
 currency: EUR
 price: 44.64

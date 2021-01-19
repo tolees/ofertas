@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tKDfgvHBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQS59LL-es'
+slug: 'B07NQS59LL-es Skechers Men s STAMINA CUTBACK Trainers  Black  Black Leather/Pu/Mesh/Red Trim Bkrd   7.5  41.5 EU '
 actualPrice: 46.74 EUR
 currency: EUR
 price: 46.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519q+5VQ8iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087F1VQGS-es'
+slug: 'B087F1VQGS-es Naruto Sudaderas con Capucha de Manga Larga de otoño Invierno 3D Impresas Hoodies Crop Top Hip Hop Suelto Pullover Uchiha Sharingan Hokage Ninja para Mujeres Amantes del Anime'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oTlGgx-IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SW1HCR-es'
+slug: 'B082SW1HCR-es Ventilador Portátil Versátil de Escritorio Personal Batería 5200mAh con Trípode Flexible Ventilador USB Silencioso 360°Ajustable para Cochecito de Bebé  Cinta de Correr  etc.'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

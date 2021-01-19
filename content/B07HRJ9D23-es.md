@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TUGFUGbsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRJ9D23-es'
+slug: 'B07HRJ9D23-es Luxbon 36 Hilos de Coser de Colors Surtidas 250 Yardas Poliéster Conjunto de Hilos Costura para Bordado Tejido  Costura a Mano  Maquina Coser'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

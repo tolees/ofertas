@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X6hnUsdbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TJD79BW-es'
+slug: 'B00TJD79BW-es Acer MR.JKY11.00L - Videoproyector  3000 lúmenes'
 actualPrice: 305.0 EUR
 currency: EUR
 price: 305.0

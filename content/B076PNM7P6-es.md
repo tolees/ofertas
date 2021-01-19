@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Xupcf4cVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PNM7P6-es'
+slug: 'B076PNM7P6-es Firefighters: The Simulation'
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

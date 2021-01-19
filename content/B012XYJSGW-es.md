@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HInduGv2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012XYJSGW-es'
+slug: 'B012XYJSGW-es AEG SB9300 Batidora de Vaso de Altas Prestaciones Gourmetpro  1200 W  2.2 litros  Acero Inoxidable  3 Velocidades  Blanco'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

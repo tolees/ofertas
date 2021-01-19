@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UeEvNkzpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QYVLWHK-es'
+slug: 'B07QYVLWHK-es ZERHOK Muñequeras y Diadema Sudor Conjunto de muñequeras y Diadema 6pcs Sweatbands Headband Set de muñequeras Deportivas para Deporte y decoración.  Iris '
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

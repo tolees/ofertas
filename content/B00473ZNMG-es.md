@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Dn98EEe9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00473ZNMG-es'
+slug: 'B00473ZNMG-es Amefa Modelo Actual Cubertería 24 Piezas  Acero Inoxidable 2mm de Espesor  con Cuchillo chuletero'
 actualPrice: 31.46 EUR
 currency: EUR
 price: 31.46

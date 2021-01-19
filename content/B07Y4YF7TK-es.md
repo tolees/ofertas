@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313tRqEO5fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y4YF7TK-es'
+slug: 'B07Y4YF7TK-es HP M01-F0026ns - Ordenador de sobremesa  AMD Athlon  SDRAM DDR4-2666 de 8 GB  SSD de 512 GB  AMD Radeon Vega 3  FreeDOS  Negro Azabache'
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

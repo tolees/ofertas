@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IHUpij0IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RW23K2W-es'
+slug: 'B07RW23K2W-es Cloud Kids - Pantalones cortos para bebé o niña  de algodón suave blanco 12 Meses'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

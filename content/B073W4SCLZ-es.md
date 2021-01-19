@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MpKsK5lXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073W4SCLZ-es'
+slug: 'B073W4SCLZ-es Lorus Reloj de Pulsera RT315GX9'
 actualPrice: 57.96 EUR
 currency: EUR
 price: 57.96

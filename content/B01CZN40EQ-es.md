@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21t8xdI8jkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CZN40EQ-es'
+slug: 'B01CZN40EQ-es Rochas Eau De Rochas Body Lotion 500 ml'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

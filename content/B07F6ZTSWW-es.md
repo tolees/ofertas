@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P5lRxHzlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F6ZTSWW-es'
+slug: 'B07F6ZTSWW-es Salomon HYDRO 45 BELT Riñonera'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

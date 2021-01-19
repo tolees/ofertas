@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kRXx+1gAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJBL54H-es'
+slug: 'B07DJBL54H-es Altavoz Bluetooth Portatiles  IPX6 Impermeable  20W Altavoz Inalambrico portátil con Estéreo Premium  24 Horas de Reproducción Continua  Es Idea para Hogar  Fiesta  Coche  Viajes  Playa  Piscina'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SRXTvq6ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005MXJUFG-es'
+slug: 'B005MXJUFG-es Hauck Sit N Relax - Hamaquita balancin y trona para recién nacidos  respaldo reclinable  chasis ligero  con arco móvile  mesa  ruedas  regulable en altura  plegable - beige marrón'
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

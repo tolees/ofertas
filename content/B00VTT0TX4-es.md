@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b-zhxZoDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VTT0TX4-es'
+slug: 'B00VTT0TX4-es Skechers Synergy-Winter Nights  Botas para Mujer  Negro  Black   35.5 EU'
 actualPrice: 30.38 EUR
 currency: EUR
 price: 30.38

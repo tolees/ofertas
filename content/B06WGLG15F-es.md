@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Npc+KwLML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WGLG15F-es'
+slug: 'B06WGLG15F-es Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable F20217/2'
 actualPrice: 81.66 EUR
 currency: EUR
 price: 81.66

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410rKn3yp4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078LX3DNK-es'
+slug: 'B078LX3DNK-es BEAUTURAL Plancha de Vapor Vertical y Profesional de Alta Resistencia para Ropa  Prendas de Vestir y Tela  Tanque de Agua de 2 2l 4 Niveles Que producen un Vapor Continuo de Alta Potencia'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

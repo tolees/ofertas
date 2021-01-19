@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EpkiKlhaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z8XTD2J-es'
+slug: 'B07Z8XTD2J-es Reshias Funda LG K30 2019 Modelo Clear Cárcasa Silicona Transparente TPU Anti-Arañazos Gel Protector Bumper Case Cover para LG K30 2019 con  2 Pack  Cristal Templado'
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

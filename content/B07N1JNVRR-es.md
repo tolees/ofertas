@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZZEfXhGCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JNVRR-es'
+slug: 'B07N1JNVRR-es Clarks Un.loop2 Walk  Mocasines para Mujer  Marrón  Dark Tan Lea Dark Tan Lea   37.5 EU'
 actualPrice: 17.11 EUR
 currency: EUR
 price: 17.11

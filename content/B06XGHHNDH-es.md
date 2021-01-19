@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SEII0HnLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGHHNDH-es'
+slug: 'B06XGHHNDH-es find. Mocasines Borlas Texturizado en Piel para Hombre  Marrón  Tan   41 EU'
 actualPrice: 23.75 EUR
 currency: EUR
 price: 23.75

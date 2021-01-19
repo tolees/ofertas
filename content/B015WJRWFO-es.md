@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NkSsq7LTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015WJRWFO-es'
+slug: 'B015WJRWFO-es Wenger Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable 01.1121.105'
 actualPrice: 99.07 EUR
 currency: EUR
 price: 99.07

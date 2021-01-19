@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Fhr7XZCyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZS4YGV-es'
+slug: 'B07TZS4YGV-es UniqueMe [3 Pack] Protector de Pantalla para Samsung Galaxy Note 10  [Instalación sin Agua] [Huella Digital Disponible] HD Clear TPU Flim Case Friendly Película Flexible de Cobertura Completa'
 actualPrice: 2.02 EUR
 currency: EUR
 price: 2.02

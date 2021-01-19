@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q64h1DRlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBV7NHC-es'
+slug: 'B07LBV7NHC-es Baby Jogger City Tour LUX   color azul. Silla de paseo de uso desde nacimiento hasta 20 5 kg con plegado ultra compacto y muy ligero'
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

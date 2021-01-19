@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eFaBn8zlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MLPMZB-es'
+slug: 'B077MLPMZB-es PUMA Smash V2  Zapatillas Unisex-Adulto  Azul  Peacoat White   43 EU'
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

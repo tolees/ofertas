@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IbJcPwn4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DND7QCN-es'
+slug: 'B07DND7QCN-es Adidas Grand Court  Zapatillas de Deporte para Mujer  Multicolor  Ftwbla/Metpla/Ftwbla 000   38 EU'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

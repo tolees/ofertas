@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512agja6WNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JY61YDQ-es'
+slug: 'B07JY61YDQ-es Pecute Funda Perros Coche  Funda de Asiento para Perros Impermeable y Resistente  Protector Coche Perros con Rejilla Flexible Pasar Aire  Universal para SUV  Camión  Transportar y Viaje'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

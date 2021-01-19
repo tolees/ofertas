@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rf5qcofLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMLGLW2-es'
+slug: 'B07RMLGLW2-es Calvin Klein - Moulded Washbag  Fundas de carnés Hombre  Verde  Dark Olive   0.1x0.1x0.1 cm  W x H L '
 actualPrice: 25.29 EUR
 currency: EUR
 price: 25.29

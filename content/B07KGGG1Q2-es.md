@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lLJl0G-sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGGG1Q2-es'
+slug: 'B07KGGG1Q2-es Buff Bone Gorra Trucker  Niños  Multi  Talla única'
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

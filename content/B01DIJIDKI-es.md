@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sEXXJkkhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DIJIDKI-es'
+slug: 'B01DIJIDKI-es Logitech G240 Alfombrilla de Ratón Gaming de Tela  para Ratón con Cable o Inalámbrico  340 x 280mm  Grosor 1mm  PC/Mac Mouse  Negro'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

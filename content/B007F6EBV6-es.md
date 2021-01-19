@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qtD1Xa+QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007F6EBV6-es'
+slug: 'B007F6EBV6-es Lékué Estuche de Vapor Hondo 500 Ml con Bandeja  Silicona Platino  Verde  21.2 x 15.5 x 8.5 cm'
 actualPrice: 18.85 EUR
 currency: EUR
 price: 18.85

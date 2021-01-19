@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qy1uqYeAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTUY6CX-es'
+slug: 'B01MTUY6CX-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Piel FS5279'
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61OuGnNJKnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZS8KF4K-es'
+slug: 'B00ZS8KF4K-es Happy Home Designer + 1 Carte Amiibo  Animal Crossing '
 actualPrice: 9.21 EUR
 currency: EUR
 price: 9.21

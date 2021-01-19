@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ebwSLL2eL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ASKTUKM-es'
+slug: 'B01ASKTUKM-es Vichy - Protector anti-manchas 3 en 1 spf 50+'
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

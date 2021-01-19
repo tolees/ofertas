@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cJka-6rCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074S2ZT9M-es'
+slug: 'B074S2ZT9M-es Carcasa para Disco Duro ORICO Caja Transparente Externo USB 3.0 para HDD SSD SATA III de 2 5 Pulgadas de 7mm 9.5mm'
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

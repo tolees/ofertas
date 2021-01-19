@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Uf5sUpqxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNRV7HV-es'
+slug: 'B07ZNRV7HV-es AOQUSSQOA Mujer Yoga Leggings Mallas Pantalones Deportivos Leggings Deportes Pantalones Fitness Yoga Pants  XL  A01-Rosado '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iMKYoeH4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019ST4D4C-es'
+slug: 'B019ST4D4C-es iggual Cable alimentación Interna PCI Express - Cables de alimentación Interna  0 15 m  PCI-E  6-Pin   2 x Molex  3-Pin   Male Connector/Female Connector  Derecho  Derecho '
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

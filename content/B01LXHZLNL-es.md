@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Wj8kfjejL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXHZLNL-es'
+slug: 'B01LXHZLNL-es ADIDAS Gazelle J  Zapatillas Unisex Niños  Negro  Core Black/Footwear White/Gold Metallic 0   38 EU'
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

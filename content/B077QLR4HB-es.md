@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xnm7rnV+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077QLR4HB-es'
+slug: 'B077QLR4HB-es Reebok Princess  Zapatillas para Mujer  Blanco  White 0   42 EU'
 actualPrice: 31.73 EUR
 currency: EUR
 price: 31.73

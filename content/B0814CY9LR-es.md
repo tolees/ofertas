@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yhdXL8VxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814CY9LR-es'
+slug: 'B0814CY9LR-es Cochecito de bebé Gancho para colgar Ganchos para cochecito Accesorios para cochecito de bebé Ganchos Percha para bolsas de pañales Ropa + Azul'
 actualPrice: 3.03 EUR
 currency: EUR
 price: 3.03

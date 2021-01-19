@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QWBwYPyxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGHN7Z3-es'
+slug: 'B07KGHN7Z3-es Buff R-Equilateral Visera Pack Run  Unisex Adulto  Cape Blue  Talla única'
 actualPrice: 8.78 EUR
 currency: EUR
 price: 8.78

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SwA3CRoqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JDHDS5X-es'
+slug: 'B07JDHDS5X-es Konesky Bebé cinturón de Seguridad Clip  Asiento de Coche cinturón de Seguridad Ajustador niños Cinturones de retención Clip de cinturón de sujeción Antideslizante Abrazadera de Correa  4 pcs '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

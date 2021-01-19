@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G2YIw4SnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXYR78Y-es'
+slug: 'B07YXYR78Y-es Guess Piumino Modello Histy W94L85 WC4V0 G72G W94L85 WC4V0 M'
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

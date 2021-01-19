@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512OinjoF0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077T1M3DS-es'
+slug: 'B077T1M3DS-es Tomshine Lámpara de Mesa  Lámpara Mesita de Noche  Madera maciza minimalista y Pantalla de telaperfecto para Dormitorio  Sala de Estar  Cafetería  Habitación de Bebé'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

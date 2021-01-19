@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b6abFQMGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FJJMYX-es'
+slug: 'B088FJJMYX-es PC Webcam  USB Cámara Web con Micrófono Incorporado Que Reduce el Ruido  720p CAM Desktop y Laptop para videollamadas Videoconferencia Grabación Aprendizaje Juegos'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

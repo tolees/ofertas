@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lLdgvPSjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9W5HJV-es'
+slug: 'B07P9W5HJV-es SanDisk UHS-I  Tarjeta de Memoria microSDXC con Adaptador SD  hasta 160 MB/s  Speed Class 3  U3   V30  1TB  Oro/Rojo'
 actualPrice: 315.9 EUR
 currency: EUR
 price: 315.9

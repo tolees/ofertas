@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c+U+CH8PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZ2ZVCY-es'
+slug: 'B01LZ2ZVCY-es Colector de leche materna de NatureBond. Extractor de leche silicona  con tapa todo en uno  bolsa de transporte  sellado al vacío  de Sin BPA. 100% silicona de grado alimenticio'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

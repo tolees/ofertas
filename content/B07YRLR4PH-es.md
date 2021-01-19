@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dfS4P6BWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRLR4PH-es'
+slug: 'B07YRLR4PH-es Cincobebé Manta Swaddle/Toalla de Baño Acogedora y Suave 6 Capas de Gasa 100% Algodón 120cm x 120 cm Unisex Pack de 1 Dibujos Plantas'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

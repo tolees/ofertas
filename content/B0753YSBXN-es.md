@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g+Nldw5aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753YSBXN-es'
+slug: 'B0753YSBXN-es Balvi chicletera American Dream Rojo Hucha y dispensador de Caramelos  chicles  Chocolates  Frutos Secos Funciona con Diferentes Tipos de Moneda Metal/Vidrio 28 x 15 x 16 cm'
 actualPrice: 24.78 EUR
 currency: EUR
 price: 24.78

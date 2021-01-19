@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pzEbffs3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZGJCQH-es'
+slug: 'B07CZGJCQH-es Razer Huntsman  Teclado con Switches Opto Mecánicos Mejorados  1  Standard'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

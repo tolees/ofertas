@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317motHjadL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CAUJGRG-es'
+slug: 'B00CAUJGRG-es Estee Lauder 53381 - Desmaquillante'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

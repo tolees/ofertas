@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51STV-AfsuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017RKRHXS-es'
+slug: 'B017RKRHXS-es KS Tools 714.0187 Composición de 187 herramientas 5 cajones para carro'
 actualPrice: 1086.76 EUR
 currency: EUR
 price: 1086.76

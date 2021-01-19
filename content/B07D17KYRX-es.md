@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NC83zrVAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D17KYRX-es'
+slug: 'B07D17KYRX-es BOLSA MERIENDA PATRULLA CANINA COLORS'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mALe9+p7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VP174DY-es'
+slug: 'B07VP174DY-es GRULLIN Outdoor Survival Kit  13 in 1 Multi-Purpose Emergency First Aid Gear Kits with Survival Bracelet Blanket Carabiner for Hiking Camping'
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

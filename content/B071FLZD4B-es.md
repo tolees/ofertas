@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61QYxgMrHEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FLZD4B-es'
+slug: 'B071FLZD4B-es Far Cry 5'
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

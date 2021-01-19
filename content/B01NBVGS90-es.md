@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-McPcIlOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBVGS90-es'
+slug: 'B01NBVGS90-es Eucerin Family Pack Ph5 Oleogel de Ducha 1000 ml y oleogel 400 ml  4005800177668 '
 actualPrice: 16.41 EUR
 currency: EUR
 price: 16.41

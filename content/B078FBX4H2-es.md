@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31XWDidGxDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078FBX4H2-es'
+slug: 'B078FBX4H2-es Crocs Classic Slipper  Zapatillas de Estar por casa Unisex Adulto  Verde  Evergreen/Stucco 3s5   46/47 EU'
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

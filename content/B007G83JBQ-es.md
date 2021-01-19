@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bhpWzPa6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007G83JBQ-es'
+slug: 'B007G83JBQ-es T nB Auriculares Diadema HiFi - con Cable Extra Largo de 8 Metros y Control de Volumen  Ideales para la TV'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

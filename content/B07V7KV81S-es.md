@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KdYcYFuIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7KV81S-es'
+slug: 'B07V7KV81S-es Death Stranding'
 actualPrice: 41.2 EUR
 currency: EUR
 price: 41.2

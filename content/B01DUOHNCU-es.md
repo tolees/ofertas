@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N0yVrsP7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DUOHNCU-es'
+slug: 'B01DUOHNCU-es NK NK-AC3061 - Cámara Deportiva Subacuática 4K  Ultra-Alta Definición  HD 16MP  WiFi  Carcasa Impermeable 30M  170º Gran Angular  Sensor Ultra-Avanzado Toshiba  900mAh  HDMI USB  Negro'
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

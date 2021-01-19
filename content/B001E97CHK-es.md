@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412kP0GvzpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001E97CHK-es'
+slug: 'B001E97CHK-es Colgate 360  Cepillo de dientes  Suave  limpiador de lengua y mejillas - 1 ud'
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

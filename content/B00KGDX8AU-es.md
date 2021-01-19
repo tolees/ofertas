@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S1uddPdXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KGDX8AU-es'
+slug: 'B00KGDX8AU-es Wc Net Turbo Desatascador - 500 ml  Multicolor'
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+dTyqpbpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D98CYZE-es'
+slug: 'B00D98CYZE-es D-Link DWM-157 - Modem 3G USB 2.0 Libre  HSPA+  21.6 Mbps  SIM Datos Cualquier Operador  LED Estado  HSUPA/HSDPA/UMTS  gsm/GPRS/Edge  Compatible Windows y Mac  Ranura Micro SD  Blanco'
 actualPrice: 31.06 EUR
 currency: EUR
 price: 31.06

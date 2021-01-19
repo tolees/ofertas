@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61comAHvHSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WKWFTR1-es'
+slug: 'B07WKWFTR1-es lenbest Alfombra de Agua Doodle  Agua Dibujo Pintura  Esteras de Agua Doodle  - con la Pluma Solo Necesita Estar Llena de Agua Pura  120 x 90 cm '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

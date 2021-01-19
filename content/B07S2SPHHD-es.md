@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N9Sqscq5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2SPHHD-es'
+slug: 'B07S2SPHHD-es New Balance 574v2  Zapatillas para Hombre  Rojo  Red/Navy Spq   39.5 EU'
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PNfehH5-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC9KLFZ-es'
+slug: 'B07WC9KLFZ-es Razer Kraken Kitty Quartz Edition Auriculares Gaming con USB con Orejas de Gato  Iluminación Chroma  con cable para juegos multiplataforma  Diafragma 50 mm  Cable de 3.5mm  Negro'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

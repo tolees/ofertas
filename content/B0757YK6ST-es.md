@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51wf-fovZeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757YK6ST-es'
+slug: 'B0757YK6ST-es Marvel -Saco de Cuerdas Storm'
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412do90sfHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX18Y1T-es'
+slug: 'B01LX18Y1T-es Marvel Daredevil Mini Bust'
 actualPrice: 87.03 EUR
 currency: EUR
 price: 87.03

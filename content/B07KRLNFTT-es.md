@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411ziQAhLBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRLNFTT-es'
+slug: 'B07KRLNFTT-es New Balance 373  Zapatillas para Mujer  Azul  Blue Blue   37.5 EU'
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

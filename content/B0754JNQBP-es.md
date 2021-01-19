@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MAMyC6GzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0754JNQBP-es'
+slug: 'B0754JNQBP-es AMD Ryzen Threadripper 1900X Box sTR4 - Microprocesador  Color Negro'
 actualPrice: 183.43 EUR
 currency: EUR
 price: 183.43

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ith+9KMSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085KXXGM5-es'
+slug: 'B085KXXGM5-es Aire Acondicionado Portatil  Aire Acondicionado Móvil con Cristal de Hielo y Control Remoto  Climatizador Evaporativo Silencioso de Bajo Consumo de Energía con Humidificación para Hogar y Oficina'
 actualPrice: 219.89 EUR
 currency: EUR
 price: 219.89

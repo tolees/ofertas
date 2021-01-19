@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418yhGuidCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SR4LZ5-es'
+slug: 'B082SR4LZ5-es NHUAIYINSHUGUOGUANGGAOJINGY Tarjeta elevadora de Adaptador PCI-E Express 16X de 90 Grados en Todo el Mundo para chasis de Servidor de computadora 2U Nuevo portátil - Verde'
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

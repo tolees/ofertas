@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GbMxDllUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EFQUFPY-es'
+slug: 'B01EFQUFPY-es Gorro de bebé para primavera/verano  unisex Rose Talla única'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

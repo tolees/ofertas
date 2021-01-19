@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/316JcbdmgAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9DYWVN-es'
+slug: 'B07T9DYWVN-es Quiksilver Blade Dreams-Camiseta De Manga Larga para Chicos 8-16  Niños  White  XL/16'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YfmMDpoeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVWYRWM-es'
+slug: 'B07TVWYRWM-es Alcatel 3088X - Teléfono móvil de 2.4"  Wi-Fi  RAM de 4 GB  memoria interna de 512 MB + slot micro SD  Bluetooth  color azul'
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

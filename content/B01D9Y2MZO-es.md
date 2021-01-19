@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31H1AuXbhVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D9Y2MZO-es'
+slug: 'B01D9Y2MZO-es Clarins Solaire Lait Fondant Auto-Bronzant Hydratation 24H 125 Ml 1 Unidad 1300 g'
 actualPrice: 17.55 EUR
 currency: EUR
 price: 17.55

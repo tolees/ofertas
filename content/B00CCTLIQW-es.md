@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4111Kd0WLkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CCTLIQW-es'
+slug: 'B00CCTLIQW-es Vaso medidor Kitchen Craft  de cristal  50 ml'
 actualPrice: 5.44 EUR
 currency: EUR
 price: 5.44

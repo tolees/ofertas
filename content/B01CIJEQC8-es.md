@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317WRLLWd-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CIJEQC8-es'
+slug: 'B01CIJEQC8-es BEPER Cafetera Espresso  Plateado  32 x 23.2 x 36.5 cm'
 actualPrice: 66.51 EUR
 currency: EUR
 price: 66.51

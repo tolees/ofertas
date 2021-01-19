@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rcDIJuT-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6TWSRS-es'
+slug: 'B07N6TWSRS-es Tommy Hilfiger Premium Suede Runner  Zapatillas para Hombre  Azul  Midnight Cki  - 41 EU'
 actualPrice: 33.52 EUR
 currency: EUR
 price: 33.52

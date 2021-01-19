@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31npyGhauqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GCKO9VW-es'
+slug: 'B01GCKO9VW-es GoPro AMBSM-001 - Soporte Profesional para rieles de Asiento  Color Negro'
 actualPrice: 30.37 EUR
 currency: EUR
 price: 30.37

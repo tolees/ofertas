@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417ugYYvevL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085Q1JFBS-es'
+slug: 'B085Q1JFBS-es Meilo Cuchillos de Cocina para niños Juego de Cuchillos de Cocina， Cuchillos de Cocina Seguros para niños  Cuchillos de Nailon para Chef 4 Unidades '
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

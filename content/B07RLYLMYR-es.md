@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3170edOccBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLYLMYR-es'
+slug: 'B07RLYLMYR-es Columbia IVO TRAIL BREEZE Zapatillas deportivas para hombre  Negro Black  Grey Ice   47 EU'
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

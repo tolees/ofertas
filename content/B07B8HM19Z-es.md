@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+fWzdsuyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8HM19Z-es'
+slug: 'B07B8HM19Z-es Cargador Inalámbrico ESR  Qi 10 W para iPhone 11/11 Pro/11 Pro Max/Xs/Xs Max/XR/X/iPhone 8/8+ Pixel 3/3 XL  Carga Rápida para Samsung S10/S10+/S10e/Note 9/S9/S9+/S8/Note 8  Control de Calor'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41B20WrGDsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF6QXNT-es'
+slug: 'B07KF6QXNT-es Levi s Ex-Boyfriend Trucker Giacca in Jeans  Blu  for Real 0089   X-Small Donna'
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

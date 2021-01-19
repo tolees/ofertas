@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hv7lJ9glL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NWGM8O-es'
+slug: 'B000NWGM8O-es Joop! Homme After Shave - 75ml'
 actualPrice: 18.2 EUR
 currency: EUR
 price: 18.2

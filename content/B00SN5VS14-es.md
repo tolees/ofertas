@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+IyYr4WLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SN5VS14-es'
+slug: 'B00SN5VS14-es C.P. Sports Muelle Tope de 30 mm de diámetro 2 Unidades/1 par'
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

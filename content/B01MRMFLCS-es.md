@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419JmZsRu3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRMFLCS-es'
+slug: 'B01MRMFLCS-es L Oreal Paris Colorista Coloración Temporal Colorista Washout Indigo Hair - 1 Unidad'
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

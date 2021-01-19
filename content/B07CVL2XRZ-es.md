@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31z0KG1zWFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVL2XRZ-es'
+slug: 'B07CVL2XRZ-es NANOCABLE 10.16.4401-BK - Adaptador USB-C a 4 x USB 3.0  Color Negro'
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

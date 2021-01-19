@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TpSiO-JoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005CU9AAO-es'
+slug: 'B005CU9AAO-es Lorus Sport - Reloj de Cuarzo para Hombre  con Correa de Goma  Color Negro'
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

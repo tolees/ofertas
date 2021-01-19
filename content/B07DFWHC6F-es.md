@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r+GsLpxYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFWHC6F-es'
+slug: 'B07DFWHC6F-es New Balance 247v2  Zapatillas para Mujer  Verde  Faded Rosin/Marble Head EB   38 EU'
 actualPrice: 33.34 EUR
 currency: EUR
 price: 33.34

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NBhmS75TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082FSWYDC-es'
+slug: 'B082FSWYDC-es Familybox Red de Piscina  Skimmer Recoge Hojas Recogehojas para Pisina con Barra telescópica de Aluminio Desmontable 1.2m Juego de Limpieza para Elimina Todos Los Escombros'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

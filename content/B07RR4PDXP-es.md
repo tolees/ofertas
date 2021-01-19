@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Eb7gdqOcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RR4PDXP-es'
+slug: 'B07RR4PDXP-es Tommy Hilfiger - Th Nylon Camera Bag  Bolsos bandolera Mujer  Negro  Black   6x0.1x20.5 cm  W x H L '
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

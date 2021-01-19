@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51iFMFGheBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AXYMEZ6-es'
+slug: 'B01AXYMEZ6-es MASERATI Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable R8873618003'
 actualPrice: 122.41 EUR
 currency: EUR
 price: 122.41

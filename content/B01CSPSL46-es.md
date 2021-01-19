@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D4AQzemRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CSPSL46-es'
+slug: 'B01CSPSL46-es para Hombre de Piel de Botas de Seguridad para Hombre Puntera de Acero de Seguridad Botas de Seguridad S3 SRC Calzado de Trabajo Tobillo Piel 7752 Black Hammer  41 EU '
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

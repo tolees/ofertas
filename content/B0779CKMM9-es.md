@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vUBiBLVuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779CKMM9-es'
+slug: 'B0779CKMM9-es Cosstars Unisex 3D Digital Estampado Gimnasia del Deporte Que Activan los Pantalones Ocasionales Sweatpants Pants'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

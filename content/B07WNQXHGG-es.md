@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hm1SwECdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNQXHGG-es'
+slug: 'B07WNQXHGG-es Funko- Pop TV: Stranger Things-Robin Figura Coleccionable  Multicolor  47203 '
 actualPrice: 12.69 EUR
 currency: EUR
 price: 12.69

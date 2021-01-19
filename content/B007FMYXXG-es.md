@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k2gtUlaLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007FMYXXG-es'
+slug: 'B007FMYXXG-es BK-5 - Teclado inteligente Roland BK-5 -'
 actualPrice: 405.0 EUR
 currency: EUR
 price: 405.0

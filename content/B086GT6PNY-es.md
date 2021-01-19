@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417KqjFIwYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086GT6PNY-es'
+slug: 'B086GT6PNY-es Oihxse Transparente Funda para Samsung Galaxy A20S Ultrafina Silicona Suave TPU Carcasa Interesante Perro Patrón Flexible Protectora Estuche Antigolpes Anti-Choque  A8 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

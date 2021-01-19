@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51u-LPFDiUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074S8LZ7B-es'
+slug: 'B074S8LZ7B-es Victorem Set de Bandas elásticas – Entrenamiento de glúteos  Muslos y Caderas'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

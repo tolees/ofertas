@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51byXl-1E-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017VSV2Z0-es'
+slug: 'B017VSV2Z0-es JUGUETE DE PINTURA POR NUMEROS - Perros y gatos - INTERHOME©'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

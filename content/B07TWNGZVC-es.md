@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jg1s6HbNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWNGZVC-es'
+slug: 'B07TWNGZVC-es Lacoste Rc2012 Cinturón  Beige  Fog D47   95  tamaño del fabricante: 110  para Hombre'
 actualPrice: 31.88 EUR
 currency: EUR
 price: 31.88

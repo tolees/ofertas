@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JhSiaSRxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CL3RSS6-es'
+slug: 'B07CL3RSS6-es Auriculares Bluetooth  Arbily Auriculares Inalámbricos Auriculares Manos Libres con Microfono y Cancelación de Ruido IPX5 Auriculares estéreo inalámbricos a Prueba de Agua con Caja de Carga'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

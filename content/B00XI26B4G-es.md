@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OrZ8IGbFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XI26B4G-es'
+slug: 'B00XI26B4G-es Durex Massage 2 In 1 Aloe Vera 200 Ml 1 Unidad 200 g'
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

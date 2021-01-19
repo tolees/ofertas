@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CApfT3zQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1B3N2F-es'
+slug: 'B07N1B3N2F-es superfit Husky  Botas de Nieve para Niñas  Schwarz Rot 05  26 EU'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

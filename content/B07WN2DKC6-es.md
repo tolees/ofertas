@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51J9jemskjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WN2DKC6-es'
+slug: 'B07WN2DKC6-es Cocoda Linterna Frontal  LED USB Recargable Linterna Cabeza con 4 Modes de Luz  Sensor de Movimiento  160 Lúmenes  Impermeable IPX6 y Ajustable Ángulo & Correa  Frontal LED para Cámping Correr'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

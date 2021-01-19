@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511-PJ0N4tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBPT98D-es'
+slug: 'B07XBPT98D-es LIGE Relojes para Hombre Simple Negocio Deportivo Cuarzo Analógico Reloj Acero Inoxidable Unisex Reloj de Pulsera'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61ZE0+C4nGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P61CRPT-es'
+slug: 'B07P61CRPT-es Wond3rland Póster para Rascar Prémium con Lista de 100 Películas y 20 Programas de TV por Ver | Cartel de Cine con Lámina para Rascar | Lujoso Regalo para Cinéfilos con Accesorios Incluidos | Negro'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

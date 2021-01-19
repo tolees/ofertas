@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41udVQO3OdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0077NPEEA-es'
+slug: 'B0077NPEEA-es Canon EF 24mm f/2.8 IS USM - Objetivo para Canon  Distancia Focal Fija 24mm  Apertura f/2.8-22  estabilizador  diámetro: 58mm  Negro'
 actualPrice: 449.95 EUR
 currency: EUR
 price: 449.95

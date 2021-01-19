@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dp98mRTLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HFQDL8A-es'
+slug: 'B00HFQDL8A-es YAZILIND Joyería de la Vendimia de Plata tibetana Twisted 2 Layer Ajustable Rimous Verde Turquesa Brazo Brazalete Pulsera para la Mujer'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

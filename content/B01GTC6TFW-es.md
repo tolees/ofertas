@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410-1wmWE5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GTC6TFW-es'
+slug: 'B01GTC6TFW-es HP Z3700 RF Raton óptico inalámbrico 1200DPI Rojo  Ambidiestro  - Ratón  RF inalámbrico  Oficina  Botones  Rueda  Óptico  Pilas '
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

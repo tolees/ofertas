@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m7XNq3t2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J31WCRC-es'
+slug: 'B07J31WCRC-es Under Armour Undeniable Duffel 4.0 LG Bolsa De Deportes  Bolsa De Entrenamiento Unisex Azul OSFA'
 actualPrice: 27.71 EUR
 currency: EUR
 price: 27.71

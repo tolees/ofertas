@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fVEHw+upL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00473NVWU-es'
+slug: 'B00473NVWU-es Columbia Klamath Range II Forro Polar con Media Cremallera  Hombre  Negro  Black   XXL'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

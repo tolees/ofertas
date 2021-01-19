@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vCazSNrQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJT2V7H-es'
+slug: 'B07VJT2V7H-es YuLu-#Snapstar Echo  407246 '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

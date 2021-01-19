@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xxkWDsgSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7RVLNB-es'
+slug: 'B07W7RVLNB-es Tommy Hilfiger Tommy Tipped Slim Polo  Azul  Pitch Blue   Small  Talla del Fabricante:  para Hombre'
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

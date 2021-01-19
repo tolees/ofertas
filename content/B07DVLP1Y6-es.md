@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41T812voRxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVLP1Y6-es'
+slug: 'B07DVLP1Y6-es New Balance Summit Unknown  Zapatillas de Running para Asfalto para Hombre  Verde  Bright Green Bright Green   41.5 EU'
 actualPrice: 72 EUR
 currency: EUR
 price: 72

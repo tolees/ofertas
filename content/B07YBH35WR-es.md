@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FdmX7ZYXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBH35WR-es'
+slug: 'B07YBH35WR-es Vans Full Patched Po II Capucha  Morado  Heliotrope/White Ymm   Small para Hombre'
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

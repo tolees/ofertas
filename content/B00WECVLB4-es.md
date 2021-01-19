@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EjiSnJq0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WECVLB4-es'
+slug: 'B00WECVLB4-es Orbegozo PW 1019 Mini ventilador USB de sobremesa  4 W  Plata'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

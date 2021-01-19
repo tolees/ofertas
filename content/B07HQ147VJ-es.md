@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uKX5KCHbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQ147VJ-es'
+slug: 'B07HQ147VJ-es Funko Pop!- Colección Vinilo Fortnite Black Knight  Multicolor  única  34467 '
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

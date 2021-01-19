@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QmGb5tmpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072R65SDR-es'
+slug: 'B072R65SDR-es Pioneer X-SMC02-W - Microcadena slim  CD  Bluetooth  color negro'
 actualPrice: 132.0 EUR
 currency: EUR
 price: 132.0

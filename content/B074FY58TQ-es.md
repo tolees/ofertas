@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410ClYzi0XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FY58TQ-es'
+slug: 'B074FY58TQ-es Rieker - Cerrado Hombre  Color Azul  Talla 40'
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

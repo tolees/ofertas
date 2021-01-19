@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61wrwN95ZtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3SGV22-es'
+slug: 'B01M3SGV22-es TOPLUS Cadena de luces LED Blanco Cálido  10m 100 Leds  IP65 Impermeable  Alambre de Cobre para Decoración  Conexión USB  5V'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MsuoS1WqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0198K5LZQ-es'
+slug: 'B0198K5LZQ-es Dickies Pensacola Short  Pantalones Cortos Deportivos para Hombre  Azul  Rinsed RIN   Tamaño del Fabricante:34 '
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

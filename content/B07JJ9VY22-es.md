@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iCun3ooSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJ9VY22-es'
+slug: 'B07JJ9VY22-es Ferilinso Cristal Templado para Huawei Mate 20 X [2 Pack] Protector de Pantalla Screen Protector para Huawei Mate 20 X'
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

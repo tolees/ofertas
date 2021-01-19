@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AZafTODEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QC42RZL-es'
+slug: 'B07QC42RZL-es Sterntaler Patucos  Botas para Niñas  Rosa  Magenta 745   18 EU'
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4133z0qxsLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3X1LTB-es'
+slug: 'B08B3X1LTB-es Interruptores automáticos Interruptor automático WIFI de carril DIN Interruptor inteligente Control remoto por Smart Life para Smart Home 18mm 32A 50A Mini TOWBC-1P-T-32A'
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

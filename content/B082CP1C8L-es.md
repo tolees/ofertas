@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419hBKHq0UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082CP1C8L-es'
+slug: 'B082CP1C8L-es 2020 Auriculares inalámbricos Bluetooth actualizados con micrófono de Audio estéreo hasta 15 Horas de Juego Estuche portátil de Carga Deportiva  WH-19 '
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

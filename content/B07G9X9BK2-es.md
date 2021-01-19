@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R24tKWB7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9X9BK2-es'
+slug: 'B07G9X9BK2-es Adoric Termometro Digital Termometro Bebe Niños y Adultos Resistente al Agua  Pantalla LCD Señal acústia  sin Mercurio  sin Cristal  Color Blanco'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

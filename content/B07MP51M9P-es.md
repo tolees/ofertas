@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31n90xXHtAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MP51M9P-es'
+slug: 'B07MP51M9P-es YuamMei 1pc Caja de anillo LED  Caja de anillo con luz cuadrada  Caja de almacenamiento de exhibición de joyería para la Boda  Regalo negro '
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

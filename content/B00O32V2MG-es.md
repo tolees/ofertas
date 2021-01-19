@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416h7Fw04aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O32V2MG-es'
+slug: 'B00O32V2MG-es Bourjois Paris Silk Edition Compact Poudre  56 Bronce  1 unidad'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

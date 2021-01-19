@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31m3qEKaNkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012HL8FI8-es'
+slug: 'B012HL8FI8-es Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Perfect Pair '
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

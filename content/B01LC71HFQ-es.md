@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hZLyrgfrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LC71HFQ-es'
+slug: 'B01LC71HFQ-es 10pcs Juegos de Mesa Dados de Seis Caras D & D TRPG - Negro'
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

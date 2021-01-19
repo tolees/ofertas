@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Xqq80hIdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001NAQSLQ-es'
+slug: 'B001NAQSLQ-es K & N ha-4506-t powerlid Airbox Cover Moto'
 actualPrice: 113.52 EUR
 currency: EUR
 price: 113.52

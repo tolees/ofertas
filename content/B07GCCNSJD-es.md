@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ewduVweGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCCNSJD-es'
+slug: 'B07GCCNSJD-es HBselect 10 Diademas Mujer Turbantes Mujer Vendas De Pelo Elasticas Para Cabeza Yoga Lavarse'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

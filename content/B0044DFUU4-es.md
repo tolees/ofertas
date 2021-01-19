@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KAwPpWaHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0044DFUU4-es'
+slug: 'B0044DFUU4-es Weleda  - Crema facial de día de Granada  30 ml  1 unidad'
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

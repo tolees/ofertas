@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61mlZw+9NvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CEH6RY4-es'
+slug: 'B01CEH6RY4-es Pokemon Luna'
 actualPrice: 18.8 EUR
 currency: EUR
 price: 18.8

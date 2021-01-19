@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51s9-TDq0oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJ4HN7-es'
+slug: 'B07PSJ4HN7-es Kipling Money Love  Carteras para Mujer  Multicolor  Camo Large   9.5x12.5x2.5 cm'
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

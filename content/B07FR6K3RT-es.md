@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rVCkFoubL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR6K3RT-es'
+slug: 'B07FR6K3RT-es Clarks Triactive Up  Zapatillas para Hombre  Verde  Olive Combination-   39.5 EU'
 actualPrice: 31.02 EUR
 currency: EUR
 price: 31.02

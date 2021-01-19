@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QaVvuG4yL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0774DG5RS-es'
+slug: 'B0774DG5RS-es SYMALL Mujer Ropa Interior Hueco Encaje Malla Bodystockings Body Lencería Sexy de Noche Lencería Abierta en Un Solo Paso'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

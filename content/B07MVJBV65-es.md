@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51m6A6kqTyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJBV65-es'
+slug: 'B07MVJBV65-es Kipling - Arto S  Bolsos bandolera Mujer  Gris  Night Grey   25x21x3 cm  B x H T '
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

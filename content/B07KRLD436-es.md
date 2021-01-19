@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YBN70jnbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRLD436-es'
+slug: 'B07KRLD436-es New Balance 624v5  Zapatillas Deportivas para Interior para Hombre  Marrón  Brown Brown   40.5 EU'
 actualPrice: 20.78 EUR
 currency: EUR
 price: 20.78

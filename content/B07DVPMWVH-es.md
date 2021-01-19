@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51h9DNFOqLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVPMWVH-es'
+slug: 'B07DVPMWVH-es YspgArt66 - Lienzo Decorativo para Pared  5 Piezas   diseño de los Vengadores de Marvel'
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

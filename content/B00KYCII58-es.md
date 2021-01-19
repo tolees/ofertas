@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dtea63aUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KYCII58-es'
+slug: 'B00KYCII58-es Skechers Go Walk 3  Zapatillas Mujer  Gris  CHAR   35 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BSMvaZWDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872Q4VQQ-es'
+slug: 'B0872Q4VQQ-es Funda Transparente Compatible para Xiaomi Redmi 6 Pro Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Xiaomi Redmi 6 Pro A15'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

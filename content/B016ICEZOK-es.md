@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31um6kMo--L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016ICEZOK-es'
+slug: 'B016ICEZOK-es Taurus Unlimited 25.6 Lithium - Aspirador escoba 3 en 1'
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

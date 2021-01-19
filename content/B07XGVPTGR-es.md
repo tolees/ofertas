@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iKiTO01oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGVPTGR-es'
+slug: 'B07XGVPTGR-es PUMA Foldable Trail Cap Gorra  Hombre  Black Silver-Reflective  Adult'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

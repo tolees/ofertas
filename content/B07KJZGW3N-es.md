@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315n5lW06nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJZGW3N-es'
+slug: 'B07KJZGW3N-es Columbia Grixsen Boot WP  Botas Chukka para Hombre  Negro  Black  Graphite 010   46 EU'
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

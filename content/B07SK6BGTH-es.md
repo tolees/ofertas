@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NLx1W8UiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK6BGTH-es'
+slug: 'B07SK6BGTH-es JXD Nueva Consola de Videojuegos Retro de 5.1 Pulgadas y 128bits incorporada en 9500 Juegos para Arcade neogeo/CPS/c/SFC/gba/gbc/GB/smc/Sega mp3/4 DV/DC Negro '
 actualPrice: 69.8 EUR
 currency: EUR
 price: 69.8

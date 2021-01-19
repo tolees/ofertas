@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZJHhsrOTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4CJ7MB-es'
+slug: 'B07N4CJ7MB-es Bourjois  Maquillaje corrector  Tono: 200 Rose Vanilla  Pieles Claras  - 32 gr.'
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

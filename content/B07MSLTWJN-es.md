@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Jt6+B2ALL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSLTWJN-es'
+slug: 'B07MSLTWJN-es i-baby Manta Franela Grande para Adulto Cama Sofá Manta de Fina Lana l Estampado Decorativo de Estrella de Terciopelo Super Suave  Rosado  180x200cm '
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

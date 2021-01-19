@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31FV1jSXjCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QC89BCK-es'
+slug: 'B07QC89BCK-es Pablosky 714410  Zapatillas Unisex niño  Negro  Negro Negro   28 EU'
 actualPrice: 19.82 EUR
 currency: EUR
 price: 19.82

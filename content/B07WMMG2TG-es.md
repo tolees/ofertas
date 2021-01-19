@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41655fYf-7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMMG2TG-es'
+slug: 'B07WMMG2TG-es Crucial Ballistix Tactical Tracer BLT2K8G4D32AET4K RGB  3200 MHz  DDR4  DRAM  Memoria Gamer Kit para ordenadores de sobremesa  16GB  8GBx2   CL16'
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

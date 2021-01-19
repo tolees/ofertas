@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51gyI4hcewL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G766SSZ-es'
+slug: 'B07G766SSZ-es TRAIL WATCHER Cámara de Caza 16MP 1080P HD Trail Cámara Impermeable IP65 con Infrarrojos PIR Sensor de Movimiento con Lapso de Tiempo 65ft Visión Nocturna de Caza para Hogar Caza'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

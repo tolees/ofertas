@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hQNjr5RXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003RUFJE2-es'
+slug: 'B003RUFJE2-es Fossil Reloj de Pulsera CH2861'
 actualPrice: 113.85 EUR
 currency: EUR
 price: 113.85

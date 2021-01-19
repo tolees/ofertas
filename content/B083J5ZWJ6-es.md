@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51S8xFeZwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083J5ZWJ6-es'
+slug: 'B083J5ZWJ6-es Luces solares de pared para exteriores'
 actualPrice: 18.21 EUR
 currency: EUR
 price: 18.21

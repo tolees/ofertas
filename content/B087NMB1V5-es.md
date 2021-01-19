@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pO17nyFtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087NMB1V5-es'
+slug: 'B087NMB1V5-es Grborn Termómetro electrónico Termómetro de Mano de Mano Termómetro infrarrojo de Alta precisión Termómetro sin Contacto'
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

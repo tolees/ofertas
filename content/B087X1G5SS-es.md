@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DQu49WDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087X1G5SS-es'
+slug: 'B087X1G5SS-es Buyger 3 en 1 Helados Supermercado Juguete con Luz y Sonido Caja Registradora Cocina Comida Maletin Juguete para Niños'
 actualPrice: 22.86 EUR
 currency: EUR
 price: 22.86

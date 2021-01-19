@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bWczUZa2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ITM2CWO-es'
+slug: 'B01ITM2CWO-es Runesol Dilatador Nasal - Antironquidos Nasal Dejar De Roncar - Dilatadores Nasales anti ronquido soluciones - Antirronquidos - Alivia Apnea Del Sueño  Respiración Fuerte Y Congestión Nasal'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

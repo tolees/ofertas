@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v0FCpBYOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075HLZH44-es'
+slug: 'B075HLZH44-es Dolce & Gabbana The One Men Agua Colonia  150 ml'
 actualPrice: 55.61 EUR
 currency: EUR
 price: 55.61

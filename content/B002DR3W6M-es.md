@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GfMoFM+4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002DR3W6M-es'
+slug: 'B002DR3W6M-es Cables To Go - Cable de Audio  XLR Macho a XLR Hembra  5 m '
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

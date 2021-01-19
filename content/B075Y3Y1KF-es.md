@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tp17Gd6VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Y3Y1KF-es'
+slug: 'B075Y3Y1KF-es Skechers On-The-go 600-Foxy  Sandalia con Pulsera para Mujer  Gris  Grey Gry   39 EU'
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

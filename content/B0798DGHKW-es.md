@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21MLezwCjZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0798DGHKW-es'
+slug: 'B0798DGHKW-es Precision'
 actualPrice: 27.47 EUR
 currency: EUR
 price: 27.47

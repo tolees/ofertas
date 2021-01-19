@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61hm1+iRWvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z82NDKD-es'
+slug: 'B07Z82NDKD-es Juego de sábanas cómodas y Suaves Juego de Ropa de Cama con Estilo Bohemio  100% poliéster  antialérgico  Anti decoloración  impresión HD para Todo el Mundo'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F+-ZDHWHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDP5BCY-es'
+slug: 'B07SDP5BCY-es adidas Light ANK 3pp Calcetines  Unisex Adulto  Black/Black/Black  L'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yTyvpy9sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B8WW35S-es'
+slug: 'B01B8WW35S-es Ladybug - Peluca complemento de disfraz infantil  talla única  Rubie s Spain 32929 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cxBNNbZCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CP1B3KV-es'
+slug: 'B07CP1B3KV-es PRIXTON Smartwatch SWB31 - Reloj Inteligente Sumergible con Pulsómetro y 50 Watchfaces  Color Negro'
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

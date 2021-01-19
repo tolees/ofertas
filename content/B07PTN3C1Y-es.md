@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fBW5mBbxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PTN3C1Y-es'
+slug: 'B07PTN3C1Y-es iDesign Organizador de baño  portacepillos de dientes de resina y metal con 3 compartimentos y bandeja  elegante soporte para móviles para el lavabo  blanco y plateado'
 actualPrice: 20.93 EUR
 currency: EUR
 price: 20.93

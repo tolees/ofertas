@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MKS3f+aZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087TYY2Q2-es'
+slug: 'B087TYY2Q2-es JOEAIS Tableta Escritura LCD 8 5 Pulgadas  Anti-caída Tablet Dibujo  Tablet para Dibujar para Niños  Regalo para Niños Niñas  Rojo '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

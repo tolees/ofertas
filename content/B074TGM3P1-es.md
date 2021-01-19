@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5166Sw8zADL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074TGM3P1-es'
+slug: 'B074TGM3P1-es Resistente al agua riñonera bolsa de cintura 3 bolsillos con cremallera bolsa riñonera de viaje senderismo al aire libre deporte vacaciones dinero bolsa de cadera paquete  Azul '
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

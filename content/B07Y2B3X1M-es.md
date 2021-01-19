@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jMFQ3cRaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y2B3X1M-es'
+slug: 'B07Y2B3X1M-es APEX LIFELINE'
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

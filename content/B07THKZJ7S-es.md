@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tgF5Y+waL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THKZJ7S-es'
+slug: 'B07THKZJ7S-es Charles Wilson Paquete 2 Camisetas Cuello Redondo de Rayas  Large  Blue & Brown '
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

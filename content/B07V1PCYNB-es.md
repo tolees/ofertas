@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IlmwhmzJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1PCYNB-es'
+slug: 'B07V1PCYNB-es Otterbox Symmetry Clear - Funda Anti-Caídas Fina y Elegante para Apple iPhone 11 Pro  Transparente'
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

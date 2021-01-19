@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310nT1xpHlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0822XYMY8-es'
+slug: 'B0822XYMY8-es DON HIERRO - Vajilla de 20 Piezas de Porcelana  Anna  6 Servicios  Blanco '
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

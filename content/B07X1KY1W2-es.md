@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lFKgjm3OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1KY1W2-es'
+slug: 'B07X1KY1W2-es Universal Bebé Niños Seguridad del automóvil Cinturón de seguridad Correa de almohada Cojín suave para el hombro Reposacabezas Auto Car Cojín Ayuda para niños Protección - Rosa'
 actualPrice: 5.02 EUR
 currency: EUR
 price: 5.02

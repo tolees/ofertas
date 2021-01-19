@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VO4NtcG9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LK5X2K-es'
+slug: 'B079LK5X2K-es Dunlop FLASH PRO - Pala de pádel 38mm  2018  nivel iniciación  color fucsia'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

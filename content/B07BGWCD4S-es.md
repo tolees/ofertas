@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ch+HD+-1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGWCD4S-es'
+slug: 'B07BGWCD4S-es FITTOO Mallas Leggings Mujer Yoga de Alta Cintura Elásticos y Transpirables para Yoga Running FitnessG32K #2 Negro Large'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

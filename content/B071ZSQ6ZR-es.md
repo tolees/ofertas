@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y40cx0Z+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZSQ6ZR-es'
+slug: 'B071ZSQ6ZR-es Reebok Club C 85  Zapatillas para Mujer  Blanco  White/Light Grey 0   40 EU'
 actualPrice: 50.17 EUR
 currency: EUR
 price: 50.17

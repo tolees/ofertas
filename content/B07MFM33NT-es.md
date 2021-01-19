@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QHkrbb2dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFM33NT-es'
+slug: 'B07MFM33NT-es Clarks Step Explor Hi  Botas para Nieve para Hombre  Azul Marino  42 EU'
 actualPrice: 36.43 EUR
 currency: EUR
 price: 36.43

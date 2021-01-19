@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iLGh12ZVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B017RQ7OUS-es'
+slug: 'B017RQ7OUS-es Babolat Custom Damp X2 Amortiguador de vibración de Tenis  Unisex Adulto  Blanco/Azul  Talla Única'
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

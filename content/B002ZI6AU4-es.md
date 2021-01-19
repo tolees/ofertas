@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tnD33TSaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002ZI6AU4-es'
+slug: 'B002ZI6AU4-es Shimano 42A09000 - Llave Ajuste Eje Pedal Tl-Pd40'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

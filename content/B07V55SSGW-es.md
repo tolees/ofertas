@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ae-7hUEVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V55SSGW-es'
+slug: 'B07V55SSGW-es Xnuoyo 10000mAh Mini Power Bank Diseño de Espejo Cargador Portátil de Alta Capacidad Batería Externa con Indicador LCD Entrada Micro&Tipo-C y Salida USB Doble Compatible con Smartphones'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

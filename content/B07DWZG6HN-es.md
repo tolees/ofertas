@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cIJ1-IUVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWZG6HN-es'
+slug: 'B07DWZG6HN-es Energy Sistem Box 1+ Altavoz inalámbrico portátil con Bluetooth  5 W  microSD MP3  FM Radio  Audio-In  - Sky'
 actualPrice: 12.31 EUR
 currency: EUR
 price: 12.31

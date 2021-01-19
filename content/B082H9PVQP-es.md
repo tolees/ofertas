@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51S4CgKoijL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082H9PVQP-es'
+slug: 'B082H9PVQP-es ART VVIES mit Haken Leinwanddrucke Rose Ringed Sittich Vogel Tier exotische Wildlife Küche 24 x 24 Zoll Wand Bild Holz gerahmt für Hauptdekorationen'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

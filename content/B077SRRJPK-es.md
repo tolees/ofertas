@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+2QXTVYEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SRRJPK-es'
+slug: 'B077SRRJPK-es COVVY Cable LED Tira de Luces de Neon Flexible de Alimentado 3 Modos de Funcionamiento  Decoración de Coche  Fiestas  Disfraz de Carnaval  Azul helado  5M '
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

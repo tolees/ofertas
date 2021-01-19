@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mEBsqmXgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9J1QRW-es'
+slug: 'B07V9J1QRW-es Seiko UK Limited - EU Pulsar Solar M Sport - Reloj cronógrafo con Correa de Piel PZ6033X1'
 actualPrice: 102.74 EUR
 currency: EUR
 price: 102.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a+dj6v0uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBIRNGV-es'
+slug: 'B01NBIRNGV-es Deuba Baúl de almacenaje Negro Cofre con Capacidad de 310L arcón Banco Almacenamiento Polipropileno contenedor de jardín'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JJgY+SJfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I6I5U6C-es'
+slug: 'B00I6I5U6C-es GoSparking Rose plateó los pendientes Elementos cristalino 18K de la aleación de aro perforado con el cristal austríaco para las mujeres  Peridot '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

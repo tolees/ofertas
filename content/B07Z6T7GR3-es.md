@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41den76tS2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6T7GR3-es'
+slug: 'B07Z6T7GR3-es American Tourister Jetglam Maleta de Mano  S  55 cm  35.5 L   Morado  Metallic Grape Purple '
 actualPrice: 80.14 EUR
 currency: EUR
 price: 80.14

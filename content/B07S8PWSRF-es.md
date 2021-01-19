@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-a7w11wCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8PWSRF-es'
+slug: 'B07S8PWSRF-es PUMA Smash v2  Zapatillas Unisex Adulto  Verde  Burnt Olive White Team Gold 41   40 EU'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

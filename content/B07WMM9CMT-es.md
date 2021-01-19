@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yRX4LP4BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMM9CMT-es'
+slug: 'B07WMM9CMT-es TUBBZ Fallout T-51 Collectible Duck'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

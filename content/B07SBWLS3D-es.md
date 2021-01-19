@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415d6kR8VfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBWLS3D-es'
+slug: 'B07SBWLS3D-es PUMA X-Ray  Zapatillas Unisex Adulto  Negro Black/Dark Shadow  42 EU'
 actualPrice: 37.71 EUR
 currency: EUR
 price: 37.71

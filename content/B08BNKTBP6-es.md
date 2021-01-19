@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y4bFZ0n3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNKTBP6-es'
+slug: 'B08BNKTBP6-es Reutilizables y Lavables Antipolvo CALIDAD MEJORADA - 1 Unidad -  AZUL '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

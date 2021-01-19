@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31uk4ZI6L4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B013C4NPXE-es'
+slug: 'B013C4NPXE-es adidas Stan Smith S75104  Zapatillas para Hombre  Blanco  White   44 EU'
 actualPrice: 60.54 EUR
 currency: EUR
 price: 60.54

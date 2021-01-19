@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KKTrOtHvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SR76VQK-es'
+slug: 'B07SR76VQK-es Chok Idea Innovador Hebilla Piel Genuina Correa Compatible with Apple Watch 38mm 40mm Encubierto Hebilla Ensure Clean Fit Correa Replacment for iWatch Series 5 & 4 3/2/1 Apricot'
 actualPrice: 18.23 EUR
 currency: EUR
 price: 18.23

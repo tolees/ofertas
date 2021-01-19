@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZCHyligSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQWN8YN-es'
+slug: 'B07DQWN8YN-es SWITCH SNK Heroines: Tag Team Frenzy'
 actualPrice: 20.82 EUR
 currency: EUR
 price: 20.82

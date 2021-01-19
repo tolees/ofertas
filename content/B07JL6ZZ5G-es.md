@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31t6MvIEruL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JL6ZZ5G-es'
+slug: 'B07JL6ZZ5G-es Montse Interiors  S.L. Relleno NÓRDICO SINTÉTICO para Saco NÓRDICO  Importante la Medida Relleno es 105x195  para Cama de 105x190/200   250 '
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

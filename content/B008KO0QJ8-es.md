@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kybCtKNrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008KO0QJ8-es'
+slug: 'B008KO0QJ8-es Monix Manila - Set de 24 piezas de acero inox 18/10 con chuletero  color gris  6 comensales '
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

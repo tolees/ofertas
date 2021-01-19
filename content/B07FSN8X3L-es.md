@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21ZvnRimYVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSN8X3L-es'
+slug: 'B07FSN8X3L-es Maybelline New York Barra de Labios Mate Superstay Matte Ink City Edition  Tono 117 Ground Breaker'
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ySgDiVWpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R56GSDK-es'
+slug: 'B07R56GSDK-es LIGE Reloj para Hombre Cronógrafo Deportivo Acero Inoxidable Reloj para Hombre Cuarzo Analógico Esfera Negra Reloj'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

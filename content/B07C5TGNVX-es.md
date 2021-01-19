@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YdyAnKpEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5TGNVX-es'
+slug: 'B07C5TGNVX-es WMF Perfect Premium - Olla ultra rápida/a presión de acero inoxidable de 22 cm y 4 5 litros  apta para inducción  fabricado en Alemania'
 actualPrice: 126.99 EUR
 currency: EUR
 price: 126.99

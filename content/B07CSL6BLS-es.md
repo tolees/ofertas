@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VGJ6GPEPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CSL6BLS-es'
+slug: 'B07CSL6BLS-es Acabado sal mejor protección de la máquina 3Kg'
 actualPrice: 6.56 EUR
 currency: EUR
 price: 6.56

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x7TsFXxtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B5Y5CF5-es'
+slug: 'B07B5Y5CF5-es Zerodis Plasma Ball Light USB Globe Night Touch Sensible Lightning USB/con Pilas Creativo decoración mágica para Escritorio de Oficina  niños Fiesta Infantil Regalo de cumpleaños Presente decoración'
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

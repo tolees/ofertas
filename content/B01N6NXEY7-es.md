@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21gQeTqOMvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6NXEY7-es'
+slug: 'B01N6NXEY7-es Sony HT-ST5000 - Barra de Sonido  7.1.2 Canales  800 W  Dolby Atmos  Hi-Res Audio  Bluetooth  NFC  Wi-fi  S-Force Pro con Wave-Front  Surround 3D  Color Negro'
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

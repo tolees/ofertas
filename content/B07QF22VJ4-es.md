@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aaf8tzhRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QF22VJ4-es'
+slug: 'B07QF22VJ4-es WOTEK Conjunto de bandas de aptitud  bandas de entrenamiento para pilates  yoga  gimnasia y crossfit [Multicolor]'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

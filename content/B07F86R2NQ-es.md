@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31y68Ga3suL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F86R2NQ-es'
+slug: 'B07F86R2NQ-es Adidas 3MC  Zapatillas de Skateboarding Unisex Adulto  Azul  Maruni/Maruni/Ftwbla 000   39 1/3 EU'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

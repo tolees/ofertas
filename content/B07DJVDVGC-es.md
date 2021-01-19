@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eE1EpxtyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJVDVGC-es'
+slug: 'B07DJVDVGC-es Pro Breeze Digital Radiador de Aceite 2500W - 10 Elementos  4 Configuraciones de Calor  Temporizador y Termostato'
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

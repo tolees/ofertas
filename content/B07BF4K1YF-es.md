@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SEBOZGnqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BF4K1YF-es'
+slug: 'B07BF4K1YF-es LAMURO Kit para Colgantes Columpios de árboles Correas Negras Resistentes de 10 pies Ganchos de Colgar de Metal y 2 mosquetones'
 actualPrice: 24.19 EUR
 currency: EUR
 price: 24.19

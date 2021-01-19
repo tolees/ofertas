@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VkePXc99L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002S3XA8G-es'
+slug: 'B002S3XA8G-es Australian Gold Crema Hidratante Extensiva - 227 ml'
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

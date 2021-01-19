@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fTBiLeGqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7RJTVW-es'
+slug: 'B07W7RJTVW-es Antena TV  Antena TV Interior HDTV Digital con Amplificador de Señal Inteligente Rango de Recepción 50-80 Millas  3 M  Soporte Más Canales de TV Gratis 1080P 4K y Todos los Tipos de TV'
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

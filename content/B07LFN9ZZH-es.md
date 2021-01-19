@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FzccxmINL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFN9ZZH-es'
+slug: 'B07LFN9ZZH-es Sloggi Zero Feel Top Ex Corto   Bordeaux 3407   M para Mujer'
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

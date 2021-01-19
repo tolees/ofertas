@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51te4eVbn5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GRKDFR1-es'
+slug: 'B07GRKDFR1-es The Division 2: Dark Zone - Collector s Edition'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

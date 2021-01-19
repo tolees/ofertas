@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413Poz8tEuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005PM87IA-es'
+slug: 'B005PM87IA-es GUESS X69004L2S - Reloj de pulsera'
 actualPrice: 292.27 EUR
 currency: EUR
 price: 292.27

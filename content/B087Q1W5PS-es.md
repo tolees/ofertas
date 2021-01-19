@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZjYHnej9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087Q1W5PS-es'
+slug: 'B087Q1W5PS-es FSCOVER Funda para iPad Pro 12 9 2020  Purpurina Ultra Delgado Ligero Estuche Inteligente con Cubierta Trasera Transparente  Auto Sueño/Estela para iPad Pro 12 9” 2020  Rosado'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

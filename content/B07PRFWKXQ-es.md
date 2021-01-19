@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RBZVl6tXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRFWKXQ-es'
+slug: 'B07PRFWKXQ-es K KYUER 27.74Wh 7300mAh EB-BT585ABE EB-BT585ABA Tablet Batería para Samsung Galaxy Tab A 10.1 2016 SM-T580 T580N SM-T585 T585N T585C SM-T587 T587P S-Pen SM-P580 P580N SM-P585 P585M P585Y with Tools'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

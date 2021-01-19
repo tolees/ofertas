@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jJeccLPHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9VD4L4-es'
+slug: 'B00X9VD4L4-es Palette Intense - Tono 7.5 Rubio Dorado Caramelo - Coloración Permanente - Schwarzkopf'
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

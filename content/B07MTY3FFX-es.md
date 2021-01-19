@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/219vRK6a8oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTY3FFX-es'
+slug: 'B07MTY3FFX-es Samsung Galaxy S10 - Smartphone de 6.1”  Dual SIM  512GB  Blanco  Prism White '
 actualPrice: 731.76 EUR
 currency: EUR
 price: 731.76

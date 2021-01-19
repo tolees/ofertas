@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518NsisctvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089ZWKMJL-es'
+slug: 'B089ZWKMJL-es Teclado mecánico para juegos de perfil bajo  ultra delgado  clicky azul interruptor arco iris llevó retroiluminado  panel de aluminio TKL 87 teclas  US-Layout  teclado para PC Gamer Typist'
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

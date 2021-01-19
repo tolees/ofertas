@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PwhTVOMHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872PMYCK-es'
+slug: 'B0872PMYCK-es Funda Transparente Compatible para Huawei P Smart 2019 Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Huawei P Smart 2019 A6'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518tvTGVg+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYWGZ2Z-es'
+slug: 'B06ZYWGZ2Z-es Distinct 2 Pares Negro Mallas Malla de Calcetines Cortos'
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

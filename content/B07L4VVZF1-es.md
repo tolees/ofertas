@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MZPz5OlLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4VVZF1-es'
+slug: 'B07L4VVZF1-es Frcolor 3D Slices Nails Art Stickers Rueda de arcilla polimérica Nail Art Slice para DIY Slime Crafts Phone Case Scrapbook Decor Color al azar '
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

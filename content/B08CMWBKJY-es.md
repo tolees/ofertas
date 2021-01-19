@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TKjI-NJdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CMWBKJY-es'
+slug: 'B08CMWBKJY-es PROZOR HDMI Splitter 1X2 HDMI Switch 4Kx2K HD 2160P con Cable USB de Alimentación 1 Entrada 2 Salidas Distributor de Señal Soportar Full HD 3D HDCP1.4 UHD para HDTV PC DVD PS3'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

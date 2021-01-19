@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SpuxStaOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC1TY4X-es'
+slug: 'B07DC1TY4X-es Puma Nova 90 s Bloc Wn s  Zapatillas para Mujer  Negro Black  40 EU'
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

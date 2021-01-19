@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IxJipgRZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758DDZYD-es'
+slug: 'B0758DDZYD-es Fairy Detergente para Lavavajillas 400 g'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

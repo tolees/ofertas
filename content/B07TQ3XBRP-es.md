@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tevG5+JTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ3XBRP-es'
+slug: 'B07TQ3XBRP-es Clarks Hamble Loafer  Mocasines  Negro  Black Leather Black Leather   41 EU'
 actualPrice: 38.72 EUR
 currency: EUR
 price: 38.72

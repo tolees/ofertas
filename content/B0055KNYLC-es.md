@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514GXejWG6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0055KNYLC-es'
+slug: 'B0055KNYLC-es Caja Stargate Atlantis Temporadas 1-4 [DVD]'
 actualPrice: 51.83 EUR
 currency: EUR
 price: 51.83

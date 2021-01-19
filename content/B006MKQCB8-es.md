@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tsFr0tUSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006MKQCB8-es'
+slug: 'B006MKQCB8-es Kit-Kat White'
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UFr7EmYjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L6RVLF8-es'
+slug: 'B01L6RVLF8-es Lee Rider Contrast Jeans  Rinse  31W / 32L para Hombre'
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

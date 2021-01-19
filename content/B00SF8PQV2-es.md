@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4101hs5JkbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SF8PQV2-es'
+slug: 'B00SF8PQV2-es G-STAR RAW Midge Cody Mid Waist Skinny Vaquero  Azul  Medium Aged 6131-071   32W / 30L para Mujer'
 actualPrice: 66.52 EUR
 currency: EUR
 price: 66.52

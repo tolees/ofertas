@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sGbuVGFWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTBLRZL-es'
+slug: 'B07TTBLRZL-es Colágeno Marino con Ácido Hialurónico  Coenzima Q10  Vitamina C y Zinc | 180 cápsulas  Suministro para 3 meses  | Péptidos que mantienen articulaciones  cartílagos  huesos  piel  cabello y uñas sanos'
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

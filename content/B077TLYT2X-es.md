@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511AoYj1MFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TLYT2X-es'
+slug: 'B077TLYT2X-es Match Mujer Sujetador Deportivo Racerback de Doble Capa con Relleno Sin Costura Sin Aros para Yoga Gimnasio Aptitud Fitness Azul L 90D 95A 95B 95C  '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

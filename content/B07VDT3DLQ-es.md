@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C5nNPqTJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDT3DLQ-es'
+slug: 'B07VDT3DLQ-es Pepe Jeans Verona W Set  Zapatillas para Mujer  Blanco  White 800   36 EU'
 actualPrice: 30.24 EUR
 currency: EUR
 price: 30.24

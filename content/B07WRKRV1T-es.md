@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318nj3LZEfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRKRV1T-es'
+slug: 'B07WRKRV1T-es Espejo Maquillaje  TOUCHBeauty Espejo de Maquillaje Tríptico con Aumento 7X  3X  2X  1X  Espejos de mesa  Espejo Cosmético Pantalla Táctil en Iluminacíon 34 Leds  Recargable espejo cosmético encimera'
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

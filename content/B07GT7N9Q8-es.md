@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310m6dDyk5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GT7N9Q8-es'
+slug: 'B07GT7N9Q8-es Anker Soundcore Spirit Pro Intraaural Dentro de oído Negro  Gris - Auriculares  Intraaural  Dentro de oído  Inalámbrico  Bluetooth  17 g  Negro  Gris '
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

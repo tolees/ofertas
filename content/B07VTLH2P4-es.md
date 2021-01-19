@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ey5SzechL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTLH2P4-es'
+slug: 'B07VTLH2P4-es JUMPER Monitor de Presión Arterial  Brazo Superior con 2 Usuarios  Pantalla Grande Brazalete Ajustable  Admite 2 Modos de Carga  Registros de aAplicaciones  Memoria de 198 Lecturas Negro '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31V1PwOPTwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRXD3P3-es'
+slug: 'B07SRXD3P3-es Lacoste Graduate TRI1 SMA  Zapatillas para Hombre  Blanco  Wht/Nvy/Red   42.5 EU'
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31arHtcyU6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK2DFKH-es'
+slug: 'B07RK2DFKH-es New Balance Hombre Fresh Foam Arishi v3 Scarpe Running  Negro  Triple Black   42.5 EU'
 actualPrice: 43.27 EUR
 currency: EUR
 price: 43.27

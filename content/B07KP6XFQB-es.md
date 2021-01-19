@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-8CSePR4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP6XFQB-es'
+slug: 'B07KP6XFQB-es Flybiz Prensa 3-en-1 para Hacer Hamburguesas Rellenas con 60 Papeles Encerados  Molde para Hamburguesas Press Prensador Slider y Herramienta de Barbacoa Parrilla y Cocina Gourmet'
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

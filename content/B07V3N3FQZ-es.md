@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TYTrP+crL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3N3FQZ-es'
+slug: 'B07V3N3FQZ-es Tommy Hilfiger Flatform Runner Sneaker  Zapatillas para Mujer  Blanco  White Ybs   41 EU'
 actualPrice: 34.74 EUR
 currency: EUR
 price: 34.74

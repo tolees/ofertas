@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vhtYzP8dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HTQRTC9-es'
+slug: 'B07HTQRTC9-es adidas Campus ADV  Zapatillas de Skateboard Unisex Adulto  Negro  Core Black/FTWR White/FTWR White Core Black/FTWR White/FTWR White   43 1/3 EU'
 actualPrice: 54.85 EUR
 currency: EUR
 price: 54.85

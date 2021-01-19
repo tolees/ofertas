@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315y8U68d1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QF8RQKG-es'
+slug: 'B07QF8RQKG-es WMF 545244021 Permadur Element Sartén de Aluminio  Antiadherente  Apto para Todo Tipo de Cocinas Incluido Inducción  Exterior Resistente en Acero  24 cm sin PFOA'
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

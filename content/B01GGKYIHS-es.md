@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x7WWKx4xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GGKYIHS-es'
+slug: 'B01GGKYIHS-es AmazonBasics - Cable USB tipo C a Micro-B 3.1 de 2ª generación - 0 9 m - Negro'
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

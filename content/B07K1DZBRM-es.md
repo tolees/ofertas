@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gMizzFOML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1DZBRM-es'
+slug: 'B07K1DZBRM-es HEZHEN Set Cuchillo Cocina 5 Piezas Damascus  Cuchillo Chef Santoku Nakiri Universal Fruta Forjado a Mano 67 Capas de Acero Damascus Profesional Cuchillo de Cocinero con Ebony Mango- Serie Clásica'
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

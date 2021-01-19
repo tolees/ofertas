@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BFg3iAo2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NWUVL5S-es'
+slug: 'B00NWUVL5S-es Medisana PM 100 Oxímetro de pulso  medición de la saturación de oxígeno en sangre  oxímetro de pulso de dedo con pantalla OLED y operación con una sola pulsación'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

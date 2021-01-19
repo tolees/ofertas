@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wxRcOxVsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YVXS5FX-es'
+slug: 'B07YVXS5FX-es Beats Solo3 Wireless - Auriculares supraaurales - Chip Apple W1  Bluetooth de Clase 1  40 horas de sonido ininterrumpido - Plata Satén'
 actualPrice: 146.4 EUR
 currency: EUR
 price: 146.4

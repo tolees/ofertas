@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516D3Z5c0rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WRT14S5-es'
+slug: 'B06WRT14S5-es Top Trumps Match Harry Potter Juego de mesa-versión en español  multicolor  Winning Moves 001724 '
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

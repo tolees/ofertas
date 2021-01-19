@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cw9Px6AzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZR3W2Q-es'
+slug: 'B08BZR3W2Q-es KERUN Funda para Samsung Galaxy A21S Carcasa  [Ranuras para Tarjetas] [Soporte Plegable] Magnético Premium PU Cuero Flip Folio Carcasa para Samsung Galaxy A21S.Negro'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

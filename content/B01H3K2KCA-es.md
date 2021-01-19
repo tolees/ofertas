@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TpVTaw8aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H3K2KCA-es'
+slug: 'B01H3K2KCA-es Flexi New Comfort - Cinta   Gris  Talla S'
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

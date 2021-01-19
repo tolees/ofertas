@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4174+sZa62L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCJ42HL-es'
+slug: 'B07TCJ42HL-es ProbioMax X7 [60 billones de CFU] | Fórmula única de amplio espectro | Probióticos microencapsulados para evitar su degradación | Mejora el sistema inmunológico | 120 cápsulas de liberación prolongada'
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415EQf8GaBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHQ5G8H-es'
+slug: 'B07RHQ5G8H-es Salomon Quest Prime GTX W  Botas de Senderismo para Mujer  Gris  Shadow/Green Gables/Patina Green   38 EU'
 actualPrice: 66.31 EUR
 currency: EUR
 price: 66.31

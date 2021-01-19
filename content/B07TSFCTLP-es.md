@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EwBsdxm8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSFCTLP-es'
+slug: 'B07TSFCTLP-es ASUS VA326HR Pantalla para PC 80 cm  31.5"  Full HD LED Curva Negro  Plata - Monitor  80 cm  31.5"   1920 x 1080 Pixeles  Full HD  LED  4 ms  Negro  Plata '
 actualPrice: 309.99 EUR
 currency: EUR
 price: 309.99

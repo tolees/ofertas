@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CDUZQExOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTRN6M-es'
+slug: 'B01BGTRN6M-es G-STAR RAW Midge Saddle Mid Waist Bootcut  Azul  Dk Aged 6553-89   22W / 28L para Mujer'
 actualPrice: 35.34 EUR
 currency: EUR
 price: 35.34

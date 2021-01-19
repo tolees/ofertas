@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31VOdWI8iuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S72SMN2-es'
+slug: 'B07S72SMN2-es Regatta Ligero Forro Polar Montes con Media Cremallera Fleece  Hombre  Deep Teal  XL'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TAWWb9scL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000H8IKUM-es'
+slug: 'B000H8IKUM-es GORE WEAR C5 Maillot de manga corta para hombre  L  negro/blanco'
 actualPrice: 60.26 EUR
 currency: EUR
 price: 60.26

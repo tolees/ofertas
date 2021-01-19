@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jGMPOljJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0785WWVM9-es'
+slug: 'B0785WWVM9-es Under Armour Tech 2.0 1/2 Zip Parte Superior del Calentamiento  Hombre  Negro  Black/Charcoal 001   L'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

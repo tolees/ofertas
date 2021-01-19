@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XvmrFdurL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MN26FWU-es'
+slug: 'B00MN26FWU-es Samsung SAEPTA12EW - Transformador  cable micro USB  color blanco'
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

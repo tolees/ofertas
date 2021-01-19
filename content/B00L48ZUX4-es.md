@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t3QJUcTBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L48ZUX4-es'
+slug: 'B00L48ZUX4-es Victoria Safari Serraje Velcro  Zapatillas con Velcro Unisex Niños  Gris  Pizarra   33 EU'
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

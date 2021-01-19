@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JN8TP2x4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082DZ5JJD-es'
+slug: 'B082DZ5JJD-es TAZEMAT 48 Hojas Marcapágina Originales para Rascar Scratch Art Manualidades de Bricolaje Marcadores de Libro con 12 pcs Pluma de Madera y Cuerdas Regalo Creativo para Cumpleaños Niños'
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

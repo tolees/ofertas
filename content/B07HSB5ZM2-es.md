@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416Ur4r9+NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HSB5ZM2-es'
+slug: 'B07HSB5ZM2-es SHARP PS-940 Altavoces Bluetooth Karaoke Party con Mezclador Dj y Batería Recargable Incorporada  Tiempo de Reproducción 14 Horas  2 x USB  Superbass  Karaoke  Luces LED Parpadeantes  180 W'
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

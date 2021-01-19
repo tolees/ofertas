@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41N2qCFFj4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2HM5MG-es'
+slug: 'B07P2HM5MG-es Reebok REAGO Pulse  Zapatillas de Deporte Interior para Hombre  Multicolor  Crushed Cobalt/Collegiate Navy/Wht/Cold 000   44 1/3 EU'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r5HpZXodL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001Z62EPC-es'
+slug: 'B001Z62EPC-es Legrand 92012 Caja de conexiones eléctricas  90x90x50 mm'
 actualPrice: 3.73 EUR
 currency: EUR
 price: 3.73

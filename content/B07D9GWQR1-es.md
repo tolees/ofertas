@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LSgylgDxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9GWQR1-es'
+slug: 'B07D9GWQR1-es Tommy Hilfiger Thong Tanga  Rosa  Pale Blush 612   36  Talla del Fabricante: X-Small  para Mujer'
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

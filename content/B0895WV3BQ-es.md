@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511L7Tl6JLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895WV3BQ-es'
+slug: 'B0895WV3BQ-es Bebé Pantalones Cortos Niñas Niños Bombacho Estampado Braguitas Pañal Cubierta Verano Cintura Elástica Pull-on Bloomer Shorts Loose Harem Shorts Pantalones De Playa'
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

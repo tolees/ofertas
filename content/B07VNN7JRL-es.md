@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31q4meMTBZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNN7JRL-es'
+slug: 'B07VNN7JRL-es Tommy Hilfiger Essential Cycling Shorts Short  Azul  Twilight Navy C87   Talla Única  Talla del Fabricante: 74  para Niñas'
 actualPrice: 7.08 EUR
 currency: EUR
 price: 7.08

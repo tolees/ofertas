@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BlVkODjOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBJ7YNC-es'
+slug: 'B07GBJ7YNC-es Pulsar Reloj analogico para Hombre de Cuarzo con Correa en Acero Inoxidable PX3162X1'
 actualPrice: 83.42 EUR
 currency: EUR
 price: 83.42

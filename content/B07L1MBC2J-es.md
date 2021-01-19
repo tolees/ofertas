@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c8EvdY-BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L1MBC2J-es'
+slug: 'B07L1MBC2J-es APC BV500I-GR Easy-UPS BV - Sistema de alimentación ininterrumpida  SAI   500VA  AVR  4 salidas Schuko'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hAFpC1nWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D8CRSP2-es'
+slug: 'B00D8CRSP2-es Picadora de Hielo A Mano O X Mojito Granizados Made In Italy!!'
 actualPrice: 18.25 EUR
 currency: EUR
 price: 18.25

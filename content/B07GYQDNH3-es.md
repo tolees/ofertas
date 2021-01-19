@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-fon5PYGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GYQDNH3-es'
+slug: 'B07GYQDNH3-es HICKIES Cordones Elásticos No-Tie 2.0 Performance - Taupe Tan'
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

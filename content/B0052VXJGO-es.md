@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314gi5KNCSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0052VXJGO-es'
+slug: 'B0052VXJGO-es Fackelmann Espumadera alambre de acero inoxidable. Color inox. 36x11 8cm. 1 ud.'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

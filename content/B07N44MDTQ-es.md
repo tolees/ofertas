@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413qsWqKn5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N44MDTQ-es'
+slug: 'B07N44MDTQ-es Levi s 501 Original Short Pantalones Cortos  Azul  Silver Lake 0018   W23  Talla del Fabricante: 23  para Mujer'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

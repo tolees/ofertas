@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LbLW6AuhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WCJWZQ-es'
+slug: 'B071WCJWZQ-es Need for Speed Payback - Edición estándar'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

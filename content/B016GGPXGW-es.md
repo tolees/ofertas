@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+74N67uqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016GGPXGW-es'
+slug: 'B016GGPXGW-es Victoria S Secret Hombres 1 Unidad 200 g'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417JMI4S-1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW6CRCN-es'
+slug: 'B07NW6CRCN-es Skechers Women s Stamina-Classy Trail Trainers  Black  Black Suede/Mesh/White & Gum Trim BKW   6  39 EU '
 actualPrice: 47.6 EUR
 currency: EUR
 price: 47.6

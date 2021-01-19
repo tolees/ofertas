@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JNAryCA9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BC5PZ7K-es'
+slug: 'B07BC5PZ7K-es Bourjois Le Petit Strober Iluminadores Tono 0 Universal - 25 gr'
 actualPrice: 4.68 EUR
 currency: EUR
 price: 4.68

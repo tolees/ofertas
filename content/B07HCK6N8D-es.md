@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YHtRwftoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCK6N8D-es'
+slug: 'B07HCK6N8D-es Skechers Men s Stamina Cutback Trainers  Grey  Charcoal Leather/Mesh/Red Trim Ccrd   8  42 EU '
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

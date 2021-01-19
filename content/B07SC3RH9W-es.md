@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HVFJIAFLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SC3RH9W-es'
+slug: 'B07SC3RH9W-es GREAT ART Foto Mural Imagen Panoramica de los Alpes Diseno Montana Natural 210 x 140 cm - Papel Pintado 5 Piezas incluye Pasta para pegar'
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412GyL+9BPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DTOLJUY-es'
+slug: 'B00DTOLJUY-es H.Koneig NV6200  Limpiador a Vapor  Vaporeta Potencia 2000 W  Limpia  Desinfecta y Desengrasa  4 Bares  Tiempo Vapor Continuo 45 Mins  Potente Flujo de Vapor  Temperatura Máxima 140ºC  Capacidad de Ag'
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

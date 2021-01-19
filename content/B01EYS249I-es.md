@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XTzC-vqqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EYS249I-es'
+slug: 'B01EYS249I-es Zuru - Bunch O Balloons Set globos 3 manojos x 35 globos  42717    color/modelo surtido'
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

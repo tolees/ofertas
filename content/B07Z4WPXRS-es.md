@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419J-sP08iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4WPXRS-es'
+slug: 'B07Z4WPXRS-es INTEY Aspirador Nasal Eléctrica  2 Boquillas de Silicona  Protección Antirreflujo  Dispositivo de Succión Nasal para Bebés  Congestión Nasal  Frío  Moco  con Certificación CE'
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

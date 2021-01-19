@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D8hprHgiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XQM15J-es'
+slug: 'B085XQM15J-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible con iPhone XR Funda TPU Silicona Suave Protector Ultra Slim Anti-Rasguño Transparente Carcasa  A9 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

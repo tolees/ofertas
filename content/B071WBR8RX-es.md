@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hTymC0uqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WBR8RX-es'
+slug: 'B071WBR8RX-es ammoon Mezclador de Sonido Ultra Compacto Ruido Bajo 8 Canales Metal Mono Estéreo Audio con Cable de Adaptador de Corriente'
 actualPrice: 35.49 EUR
 currency: EUR
 price: 35.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zVFNWaV9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPVSJFZ-es'
+slug: 'B07SPVSJFZ-es Pop Animation: Rick & Moty - Kirkland Meeseeks'
 actualPrice: 6.91 EUR
 currency: EUR
 price: 6.91

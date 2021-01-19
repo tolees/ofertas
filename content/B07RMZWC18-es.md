@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QwAcIa4UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMZWC18-es'
+slug: 'B07RMZWC18-es Casio Reloj Mujer de Digital con Correa en Acero Inoxidable A700WEMG-9AEF'
 actualPrice: 48.51 EUR
 currency: EUR
 price: 48.51

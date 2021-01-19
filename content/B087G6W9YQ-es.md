@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KYeulnjjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087G6W9YQ-es'
+slug: 'B087G6W9YQ-es Fifet Papel Mano de Scrapbooking Herramienta de Papel relevadoras x 2  para la Carpeta Plegable'
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

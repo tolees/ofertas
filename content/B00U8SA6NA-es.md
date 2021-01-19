@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wTAoP2TdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U8SA6NA-es'
+slug: 'B00U8SA6NA-es S&M 321771 Regulador de Gas Butano Goma M + 2 Abraz  Gris/Naranja  1 5 Metros de Tubo'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

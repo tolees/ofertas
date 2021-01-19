@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FjZQBA7VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWXXSL3-es'
+slug: 'B01LWXXSL3-es Tangle Teezer the Ultimate Finishing Cepillo  Color Negro  100 gr'
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

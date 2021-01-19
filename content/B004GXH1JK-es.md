@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/212ADfp3CxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004GXH1JK-es'
+slug: 'B004GXH1JK-es Maybelline New York Barra de Labios Superstay 24H  Larga duración   Tono 250 Sugar Plum'
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

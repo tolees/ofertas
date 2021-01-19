@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UaV4mHcyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV9MNDF-es'
+slug: 'B07MV9MNDF-es Kipling - Creativity L  Monederos Mujer  Gris  Night Grey   18.5x11x1.5 cm  B x H T '
 actualPrice: 20.72 EUR
 currency: EUR
 price: 20.72

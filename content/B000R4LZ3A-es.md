@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RMZEXSoXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000R4LZ3A-es'
+slug: 'B000R4LZ3A-es MediaRange MR222 CD de reescritura - CD-RW vírgenes  CD-R  900 MB  100 min  Caja para Pastel '
 actualPrice: 13.91 EUR
 currency: EUR
 price: 13.91

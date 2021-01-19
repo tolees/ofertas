@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31P00+Us96L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F5WJ1G2-es'
+slug: 'B00F5WJ1G2-es Salomon Soft Flask Botella de Agua Flexible  Unisex Adulto  Azul  150 ml/5oz'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

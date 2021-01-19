@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hzAeESurL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXX3MM6-es'
+slug: 'B07VXX3MM6-es Skechers Flex Appeal 3.0-Quick Voyage  Zapatillas sin Cordones para Mujer  Gris Carbón Turquesa Cctq  37 EU'
 actualPrice: 34.65 EUR
 currency: EUR
 price: 34.65

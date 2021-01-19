@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bkXL3zAdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086MQ3MVT-es'
+slug: 'B086MQ3MVT-es YO-HAPPY Chupete Adulto Personalizado de Gran tamaño  Especialmente diseñado  Suave'
 actualPrice: 6.04 EUR
 currency: EUR
 price: 6.04

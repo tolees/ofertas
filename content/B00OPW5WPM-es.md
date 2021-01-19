@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319elVYLe2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OPW5WPM-es'
+slug: 'B00OPW5WPM-es San Ignacio Profesional Chef - Sartén  28 x 5 8 cm'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

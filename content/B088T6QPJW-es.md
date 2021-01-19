@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WTb-n4amL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088T6QPJW-es'
+slug: 'B088T6QPJW-es SpringPear® 15 × 15 cm  5 9 × 5 9 pulgadas  Cuadrado 64 hojas plegables papel de origami de doble cara DIY para arte y proyectos de artesanía proyecto  color Flores de cerezo'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

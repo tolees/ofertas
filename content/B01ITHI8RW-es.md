@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A5sTeYgeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ITHI8RW-es'
+slug: 'B01ITHI8RW-es Otterbox Clearly Protected Skin - Funda de Gel Transparente para iPhone SE 2020/8/7'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

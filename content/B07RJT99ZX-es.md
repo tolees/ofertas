@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SWIaeKbhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJT99ZX-es'
+slug: 'B07RJT99ZX-es adidas Predator 19.3 AG  Zapatillas de Fútbol para Hombre  Azul  Bright Cyan/Core Black/Solar Yellow Bright Cyan/Core Black/Solar Yellow   43 1/3 EU'
 actualPrice: 51.7 EUR
 currency: EUR
 price: 51.7

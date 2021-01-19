@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51VdZ%2BJv5gL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DI7J8AK-es'
+slug: 'B00DI7J8AK-es Ecozone - Nueces de jabon para lavar la ropa  bolsa de 1 kg  hasta 330 lavados '
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

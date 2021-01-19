@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kMbZQpb2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FC9NL2-es'
+slug: 'B071FC9NL2-es Fellowes 8C - Destructora trituradora de papel  corte en partículas  8 hojas  negro'
 actualPrice: 55.22 EUR
 currency: EUR
 price: 55.22

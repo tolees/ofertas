@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XfkbJ+qQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BK9FJMC-es'
+slug: 'B07BK9FJMC-es Los IncreÍbles-640876-M Disfraz Violet Increible Classic Tut Inf  Multicolor  M  Rubies 640876-M '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

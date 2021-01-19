@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310xKQVKFAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6L9FNG-es'
+slug: 'B07L6L9FNG-es B Blesiya Unidad Disquete USB Externa Sfrm72-du26 Complimentos Fácil Instalación Conveniente Duradero'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

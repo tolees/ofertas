@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zI3JtRqRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YY1TFBX-es'
+slug: 'B07YY1TFBX-es BRIKSMAX Kit de Iluminación Led para Lego Technic Todoterreno Radical 4 x 4 Compatible con Ladrillos de Construcción Lego Modelo 42099  Juego de Legos no Incluido'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

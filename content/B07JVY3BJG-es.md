@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-eY7L28LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVY3BJG-es'
+slug: 'B07JVY3BJG-es Skechers Men s Flex Advantage 3.0- Stally Trainers Black  Black Blk   9 UK'
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

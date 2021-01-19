@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31SPKL63YTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHW1FWF-es'
+slug: 'B07PHW1FWF-es Nike Todos  Zapatillas de Entrenamiento para Hombre  Blanco  White/Black 100   44 EU'
 actualPrice: 31.3 EUR
 currency: EUR
 price: 31.3

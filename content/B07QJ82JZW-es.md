@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aZx9y01xL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ82JZW-es'
+slug: 'B07QJ82JZW-es Armani Exchange Reloj Analógico para Hombre de Cuarzo con Correa en Silicona AX2409'
 actualPrice: 71.6 EUR
 currency: EUR
 price: 71.6

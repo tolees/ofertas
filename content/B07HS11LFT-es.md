@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410D0QGzJxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HS11LFT-es'
+slug: 'B07HS11LFT-es ASUS ROG Maximus XI Hero  Wi-Fi  - Placa base Gaming ATX Intel de 8a y 9a gen. LGA 1151 con disipador M.2  Aura Sync RGB LED  DDR4 4400 MHz  Wi-Fi 802.11ac  Dos M.2  SATA 6 Gb/s y USB 3.1 Gen. 2'
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

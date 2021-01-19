@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414DWxDqPpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKFWZBY-es'
+slug: 'B07MKFWZBY-es Aitsite Vaso de plástico con Tapa Botes de Polietileno Alimentario Recipiente Pet con Tapa de Rosca para Alimentos  Transparente Botes Cocina Recipientes Slime Contenedor-8 Pack'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

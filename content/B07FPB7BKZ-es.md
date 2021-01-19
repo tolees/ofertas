@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ntWzLpVYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPB7BKZ-es'
+slug: 'B07FPB7BKZ-es Neadas Caja Cajas Cesta Cesto Plastico Plegable de Almacenamiento  2 Unidades'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

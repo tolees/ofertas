@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G9BikV55L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XTFCGZT-es'
+slug: 'B07XTFCGZT-es LARPOTE con Funda Huawei P20 Pro Funda Piel PU  Soporte Plegable  Ranuras para Tarjetas y Billetes  Estilo Libro  Acceso a Botones  Cierre Magnético -Oro.'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

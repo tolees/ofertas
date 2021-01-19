@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zhZfK321L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFJ15RB-es'
+slug: 'B07XFJ15RB-es Arbily Auriculares Inalámbricos  Bluetooth 5.0 con Caja de Carga Sonido Estéreo HI-FI Cancelación de Ruido Control Táctil  Soporte Aptx Calidad de Sonido  para Correr Deportivo al Aire Libre'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

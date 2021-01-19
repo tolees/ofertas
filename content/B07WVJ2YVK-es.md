@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-ZxWFcPsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVJ2YVK-es'
+slug: 'B07WVJ2YVK-es MII-V Mini PC Desktop Ordenador License Windows 10 Multimedia Office Computer  4GB Ram 64GB SSD  HDMI+VGA Dual Display  Intel Apollo Lake Celeron J3355 VESA Mount Dual WiFi'
 actualPrice: 129.9 EUR
 currency: EUR
 price: 129.9

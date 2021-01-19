@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lWTzFI4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GHCDG78-es'
+slug: 'B01GHCDG78-es Mengshen Mini DLP Proyector  Portátil Recargable Proyectores HD 50000 Horas 1080P Soportado USB/VGA/AV/IR/SD con Altavoces Incorporado Cine en Casa MS-GP1SWhite'
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yw55nzGSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0778M1FDX-es'
+slug: 'B0778M1FDX-es Repavar Revitalizante Agua Micelar 300Ml. 300 ml'
 actualPrice: 4.51 EUR
 currency: EUR
 price: 4.51

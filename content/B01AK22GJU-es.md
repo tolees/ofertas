@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mhtfov80L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AK22GJU-es'
+slug: 'B01AK22GJU-es NIKE Swoosh - Diadema para Mujer  Mujer  N.JN.D6.010.OS  Blanco/Negro  Talla única Hombre'
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

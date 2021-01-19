@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fvKLR6LUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNW9C3W-es'
+slug: 'B07VNW9C3W-es Tommy Hilfiger Short Sleeve Slim Polo de Manga Corta  Azul  Sail Azul Cyt   44  Talla del Fabricante: XX-Large  para Mujer'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

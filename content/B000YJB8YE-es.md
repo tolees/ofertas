@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sbpuSWFzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000YJB8YE-es'
+slug: 'B000YJB8YE-es Kitchen Craft Mini Salad Spinner Centrifuga de Esaladas Compacta  Blanco'
 actualPrice: 14.33 EUR
 currency: EUR
 price: 14.33

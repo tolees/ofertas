@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51n2031xLSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y849FXF-es'
+slug: 'B07Y849FXF-es HUYIYI Bolsas para Guardar Ropa Bolsas Vacio Ropa  2Pequeño 2Mediano  2Grande  Bolsas Almacenaje al Vacio Bolsas Envasar al Vacio Bolsas de Compresion  Bomba de Mano Incluida '
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

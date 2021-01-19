@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nVO4c94XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PML382R-es'
+slug: 'B07PML382R-es Marea: El Azogue'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

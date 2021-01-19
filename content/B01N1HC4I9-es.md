@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VglHSCn-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1HC4I9-es'
+slug: 'B01N1HC4I9-es L Oréal Paris Colorista Coloración Permanente Colorista Paint - Mulberry'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

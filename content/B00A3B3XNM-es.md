@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312q6RB2qxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A3B3XNM-es'
+slug: 'B00A3B3XNM-es Essie Esmalte de Uñas 52 Thigh High'
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

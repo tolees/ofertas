@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51c7yxSfsFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081VHCTXJ-es'
+slug: 'B081VHCTXJ-es Dasket Set de Pinceles para Pincel de Pintura de acrílicos y óleos de Acuarela y 10 Piezas Juego de Pinceles de Pintura de Punta Redonda'
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

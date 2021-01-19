@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KmW+fKGcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNQQTBT-es'
+slug: 'B07SNQQTBT-es Neverwinter Nights: Enhanced Edition'
 actualPrice: 29.6 EUR
 currency: EUR
 price: 29.6

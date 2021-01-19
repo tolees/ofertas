@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314bu+C-ZkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086PNHZPN-es'
+slug: 'B086PNHZPN-es LNIEGE Anillo de bebé Mam Transparentes de Silicona Chupete Chupete Chupete Holder Clips 10PCS del Clip del sostenedor'
 actualPrice: 4.77 EUR
 currency: EUR
 price: 4.77

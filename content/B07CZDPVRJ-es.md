@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31N3QZKJ--L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZDPVRJ-es'
+slug: 'B07CZDPVRJ-es Under Armour UA Tech Mesh Short Pantalones Cortos  Hombre  Azul  Royal/Steel 400   S'
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

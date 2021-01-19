@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qO0r61cuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T98SVSD-es'
+slug: 'B07T98SVSD-es Helly Hansen Ahiga V4 Hydropower  Náuticos para Hombre  Gris  Charcoal/Ebony/Light Grey 964   43 EU'
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

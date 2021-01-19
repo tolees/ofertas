@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GCqeFwvsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y75JTL1-es'
+slug: 'B07Y75JTL1-es Pantuflas de invierno para hombre y mujer  con espuma viscoelástica  cómodas  antideslizantes  para interior y exterior  color  talla 44/45 EU'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

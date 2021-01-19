@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cWGLgkg-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WCCF5N7-es'
+slug: 'B07WCCF5N7-es Lumberjack Vendor  Zapatillas de Gimnasia para Hombre  Azul  Navy Blue/Grey M0049   42 EU'
 actualPrice: 29.3 EUR
 currency: EUR
 price: 29.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WoRJHLNxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZFNS6Z-es'
+slug: 'B08BZFNS6Z-es 4.4inches Protección para los Ojos Almohadilla de Dibujo electrónica Tableta de Escritura de Pantalla LCD Tabletas de Dibujo gráfico Digital - Azul'
 actualPrice: 3.46 EUR
 currency: EUR
 price: 3.46

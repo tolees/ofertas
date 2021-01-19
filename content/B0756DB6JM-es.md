@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ug7Kb8WWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756DB6JM-es'
+slug: 'B0756DB6JM-es Pascual Leche Entera - Paquete de 6 x 200 ml - Total: 1.2 L'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

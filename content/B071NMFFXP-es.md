@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/611UfYfElZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071NMFFXP-es'
+slug: 'B071NMFFXP-es Lapices de Colores Kasimir 48 lapiz colores profesional por color en caja con Lapices extensor sacapuntas y borrador para artista Con funda de dibujos para nios'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GC2lbbWnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XK8K9RD-es'
+slug: 'B07XK8K9RD-es Opret Kit de Protector para Esquinas y Bordes para Bebés y Niños  8 Cantos Protectores y 1 Rollo para Mesa Muebles  1 Tope Puerta  Kit de Seguridad con Adhesivo de 3M  Marrón '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

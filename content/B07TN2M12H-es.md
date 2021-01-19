@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XtoAzEjTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TN2M12H-es'
+slug: 'B07TN2M12H-es Vans Atwood Textile  Zapatillas para Hombre  Rojo   Corduroy  Port Royale/White St0   43 EU'
 actualPrice: 36.86 EUR
 currency: EUR
 price: 36.86

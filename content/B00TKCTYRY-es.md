@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31svl1mHKpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TKCTYRY-es'
+slug: 'B00TKCTYRY-es Cashmere Dreams - Pañuelo de seda en un diseño único - Bufanda de alta calidad para mujer - Pañuelo para el cuello - Pañuelo para el cuello - bufanda suave para verano  otoño e invierno crema blanco Talla única'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

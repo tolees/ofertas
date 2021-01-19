@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OYL0CozWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJHRWYR-es'
+slug: 'B07CJHRWYR-es Calvin Klein Reloj Analógico para Mujer de Cuarzo con Correa en Cuero K8Y231C1'
 actualPrice: 109.97 EUR
 currency: EUR
 price: 109.97

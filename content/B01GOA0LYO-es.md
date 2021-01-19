@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yc+WQKDVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GOA0LYO-es'
+slug: 'B01GOA0LYO-es NIRVEL NUTRE COLOR FUCSIA 200ML'
 actualPrice: 3.43 EUR
 currency: EUR
 price: 3.43

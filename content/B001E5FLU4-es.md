@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51CEgCReGpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B001E5FLU4-es'
+slug: 'B001E5FLU4-es Zippo Jim Beam | Emblem Lighter - Mechero  Color Color Plateado'
 actualPrice: 34.45 EUR
 currency: EUR
 price: 34.45

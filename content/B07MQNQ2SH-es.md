@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Rn0z6D-cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQNQ2SH-es'
+slug: 'B07MQNQ2SH-es Cerdá 2200003935 Toalla Polyester Batman  Negro  70x140cm'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

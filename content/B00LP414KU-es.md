@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315Bds7fIsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LP414KU-es'
+slug: 'B00LP414KU-es Bourjois Contour Clubbing; Delineador de Ojos. Tono 57 Up and brown - 1.2 gr.'
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517ROJJ1BeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRBL929-es'
+slug: 'B07VRBL929-es Hossom Organizadores para Coche  2 pcs Kick Mats de Coche  Universal Multi-Bolsillos Organizanizador para ipad Impermeable Fácil de limpiar'
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

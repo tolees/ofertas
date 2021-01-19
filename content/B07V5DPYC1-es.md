@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+2UJhJdyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5DPYC1-es'
+slug: 'B07V5DPYC1-es longzon 12pcs Pajitas Reutilizables Pajitas de Acero Inoxidable de 8.5 pulgadas  Pajitas Metalicas con 2 cepillitos 12 pcs boquillas de silicona y bolsita sin BPA para Bebidas - 6 Rectas 6 curvados'
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

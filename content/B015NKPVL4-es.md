@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ASdf3p3RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015NKPVL4-es'
+slug: 'B015NKPVL4-es Rust-Oleum 4081303 Pintura  Grafito  750 ml'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

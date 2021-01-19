@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kn+FSXzVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DDTY4Y-es'
+slug: 'B083DDTY4Y-es Sacaleches  Sacaleches Manual  Extractor de leche manual  Sacaleches Confortable  Sacaleches Portátil  Extractor de leche Portátil  Cómoda y Rápida  para Succión de Leche Materna y Masaje de Senos'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

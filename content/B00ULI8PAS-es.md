@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q4aoSHOOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ULI8PAS-es'
+slug: 'B00ULI8PAS-es Samsonite Neopulse - Spinner L Maleta  75 cm  94 L  Marrón  Metallic Sand '
 actualPrice: 252.42 EUR
 currency: EUR
 price: 252.42

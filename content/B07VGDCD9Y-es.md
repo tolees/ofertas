@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61NpfsyatLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGDCD9Y-es'
+slug: 'B07VGDCD9Y-es DazSpirit Kit de Tatuajes Temporales  Con 24 Brillos 3 Pegamento 2 Pincel y Plantillas - para Niñas  Niños y Niños - Adecuado para Maquillaje De Cara y Cuerpo - Tatuaje Temporal para Halloween'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

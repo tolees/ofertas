@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jffgrHfmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK43CPR-es'
+slug: 'B07KK43CPR-es Columbia Ventrailia 3 Low Outdry  Zapatillas de Senderismo para Mujer  Azul  Deep Ocean  BLU 458   36 EU'
 actualPrice: 27.23 EUR
 currency: EUR
 price: 27.23

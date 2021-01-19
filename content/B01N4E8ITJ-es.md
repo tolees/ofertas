@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RwR3213JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4E8ITJ-es'
+slug: 'B01N4E8ITJ-es find. Lace Detail Ribbed Suéter para Mujer  Rosa  Orchid   40  Talla del Fabricante: Medium '
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

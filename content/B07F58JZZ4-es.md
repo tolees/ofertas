@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HOD5vlhbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F58JZZ4-es'
+slug: 'B07F58JZZ4-es Andoer Rótula Pro Ballhead de Metal 360°Giratoria con 2*1/4 Plato de Liberación Rápida y 3*1/4 a 3/8 adaptadores de tornillo para Trípode Monopie Deslizador Cámara Réflex Digital Videocámara'
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

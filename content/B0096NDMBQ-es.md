@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DazDsAaLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0096NDMBQ-es'
+slug: 'B0096NDMBQ-es Lampa - 90139 - Adaptador para Espejo  Accesorio de Moto'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

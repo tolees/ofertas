@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q1TNU52oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC6GVV2-es'
+slug: 'B07RC6GVV2-es Puma Laliga 1 Hybrid Balón de Fútbol  Unisex Adulto  Gris White-Green Glimmer-Nrgy Red  5'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411DygOfmJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLGXBN6-es'
+slug: 'B07GLGXBN6-es Timex Reloj de Pulsera TW2R70200'
 actualPrice: 74.25 EUR
 currency: EUR
 price: 74.25

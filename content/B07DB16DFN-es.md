@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uELzWDQhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DB16DFN-es'
+slug: 'B07DB16DFN-es adidas Samba OG J  Zapatillas Unisex Niños  Blanco  Footwear White/Core Black/Clear Granite 0   38 2/3 EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rNzU73y0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GIH4U8W-es'
+slug: 'B00GIH4U8W-es RockJam RJEG01 - Paquete completo de guitarra eléctrica'
 actualPrice: 70.87 EUR
 currency: EUR
 price: 70.87

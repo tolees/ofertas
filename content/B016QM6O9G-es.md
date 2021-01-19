@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DgB5vJy1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016QM6O9G-es'
+slug: 'B016QM6O9G-es Tommy Hilfiger CLASSIC BB CAP Gorra  Azul  Midnight 403   talla unica para Hombre'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

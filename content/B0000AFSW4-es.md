@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21gdY8ARWoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000AFSW4-es'
+slug: 'B0000AFSW4-es Converse Chuck Taylor All Star Ox  Zapatillas Unisex Adulto  Blanco  Optical White   37.5 EU'
 actualPrice: 51.9 EUR
 currency: EUR
 price: 51.9

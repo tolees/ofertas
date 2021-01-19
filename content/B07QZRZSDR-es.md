@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PI11GwMhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZRZSDR-es'
+slug: 'B07QZRZSDR-es Irrigador Dental Portátil - Liberex Irrigador Bucal Impermeable con 3 Modos y 5 Boquillas  Depósito Desmontable de 300ml  Limpieza Oral para Hogar y Viaje'
 actualPrice: 24.28 EUR
 currency: EUR
 price: 24.28

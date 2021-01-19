@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413jDv3SpAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F44NGCF-es'
+slug: 'B08F44NGCF-es XINFULUK DIY Color sólido 3D Fluffy Foam Clay Slime DIY Soft Cotton Slime Ball Kit Kids Educational Craft Toy Antistress Kids Toys - Verde'
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

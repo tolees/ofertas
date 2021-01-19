@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gODbRo2OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YY6KFPP-es'
+slug: 'B07YY6KFPP-es YOUKE Multifuncional para，Mesa de Centro  Mesa para Sofá  Estructura Metálica Estilo Industrial Marco de Madera y Metal  para Sala de Estar  Cocina  Dormitorio'
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

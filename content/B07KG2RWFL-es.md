@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CE8QYoYsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG2RWFL-es'
+slug: 'B07KG2RWFL-es PUMA Ralph Sampson Lo  Zapatillas Deportivas Unisex Adulto  Weiß White White Jaffa Orange  36 EU'
 actualPrice: 30.97 EUR
 currency: EUR
 price: 30.97

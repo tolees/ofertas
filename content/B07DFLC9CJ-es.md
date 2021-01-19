@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5102qtFsXdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFLC9CJ-es'
+slug: 'B07DFLC9CJ-es Comficent Juego de Sábanas 3D  Ropa de Cama Universo 2 Piezas Funda de impresión Colcha nórdica de Edredón de Estrella Galaxia002  150_x_210_cm '
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

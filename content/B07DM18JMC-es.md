@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31N+JSMFk0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DM18JMC-es'
+slug: 'B07DM18JMC-es SAMSONITE Pro-DLX 5 - Sleeve for 15.6   Laptop Maletín  39 cm  8.5 Liters  Gris  Magnetic Grey '
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

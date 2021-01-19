@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Guy0NqhAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6T85MC-es'
+slug: 'B07V6T85MC-es Asiento del automóvil Asiento trasero Protector de la cubierta Asiento trasero Organizador para niños Kick Mat Mud Clean Asiento trasero Kick Guard Protector de asiento'
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

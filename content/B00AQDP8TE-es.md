@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gN4Ro4ERL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AQDP8TE-es'
+slug: 'B00AQDP8TE-es L Oréal Paris Pintalabios 24H Permanente  Color Nude 111 Permanent Blush'
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

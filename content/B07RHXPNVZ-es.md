@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GtkkW06vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHXPNVZ-es'
+slug: 'B07RHXPNVZ-es New Balance Fresh Foam Roav m  Zapatillas de Running para Mujer  Morado  Neo TV   36 EU'
 actualPrice: 39.59 EUR
 currency: EUR
 price: 39.59

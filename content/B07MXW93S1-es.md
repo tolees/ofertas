@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319v76wClJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXW93S1-es'
+slug: 'B07MXW93S1-es SALOMON Wayfarer Lt Pantalones Cortos  Hombre  Azul  Night Sky   54'
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

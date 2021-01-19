@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-v0S8J2uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RBXMLP1-es'
+slug: 'B07RBXMLP1-es URAQT Parasol de Coche  Parasol Coche Bebe Parasoles para Coche Parasol Infantil Coche Parasol Lateral Coche Laterales Protector Solar Bloquear el Calor y los Rayos del Sol Paquete de 4'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aR0HHDziL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K35YX2K-es'
+slug: 'B07K35YX2K-es Adidas Continental 80  Zapatillas de Gimnasia para Hombre  Negro  Core Black/Scarlet/Collegiate Navy   42 2/3 EU'
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

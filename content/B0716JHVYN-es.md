@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f9Sk-wREL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0716JHVYN-es'
+slug: 'B0716JHVYN-es Glighone Apliques de Pared Moderna Lámpara de Pared Led Luz 360° Ajustable Luz en Aluminio Interior para Pasillo  Sala de Estar  Escalera  Dormitorio  Corredor  Blanco Cálido'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

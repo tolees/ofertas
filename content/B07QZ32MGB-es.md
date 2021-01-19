@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D2H53-VyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZ32MGB-es'
+slug: 'B07QZ32MGB-es Aceites Esenciales  100% Puros y Naturales Aromaterapia Aceites Esenciales para Humidificador  Lavanda  Hierba de Limón  Menta  Eucalipto  Árbol de té  Naranja dulce  6 x 10 ml'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

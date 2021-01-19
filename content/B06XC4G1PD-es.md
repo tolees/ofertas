@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iWIRrvezL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC4G1PD-es'
+slug: 'B06XC4G1PD-es INJUSA – Moto África Twin de 6V Licenciada con Maletín Trasero y Ruedas Estabilizadoras Recomendada a Niños +3 Años  Color Rojo'
 actualPrice: 126.43 EUR
 currency: EUR
 price: 126.43

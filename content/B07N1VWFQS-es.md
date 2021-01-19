@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UcSQhmxML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1VWFQS-es'
+slug: 'B07N1VWFQS-es adidas Lite Racer  Zapatillas de Running para Hombre  Negro  Core Black/Core Black/Grey Four F17 Core Black/Core Black/Grey Four F17   43 1/3 EU'
 actualPrice: 36.17 EUR
 currency: EUR
 price: 36.17

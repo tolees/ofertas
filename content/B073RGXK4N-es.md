@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tUxIopPCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RGXK4N-es'
+slug: 'B073RGXK4N-es Adidas Response W  Zapatillas de Trail Running para Mujer  Negro  Negbas/Aeroaz/Ftwbla 000   40 EU'
 actualPrice: 48.62 EUR
 currency: EUR
 price: 48.62

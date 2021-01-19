@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PsCr8gDIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BPFOPWM-es'
+slug: 'B01BPFOPWM-es Drift DR300BG - Silla Gaming Profesional   Polipiel Alta Calidad  Ergonómica   Color Negro/Verde'
 actualPrice: 169.9 EUR
 currency: EUR
 price: 169.9

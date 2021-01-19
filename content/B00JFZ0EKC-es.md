@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OftUO0gkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JFZ0EKC-es'
+slug: 'B00JFZ0EKC-es Accurist Reloj de Pulsera MS1036NN'
 actualPrice: 95.37 EUR
 currency: EUR
 price: 95.37

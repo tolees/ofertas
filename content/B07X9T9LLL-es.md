@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31z8JPsnlCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9T9LLL-es'
+slug: 'B07X9T9LLL-es PUMA Teamgoal 23 Knit Shorts Pantalones Cortos  Hombre  Black  M'
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

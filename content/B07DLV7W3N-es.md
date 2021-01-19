@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416W5-T29WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLV7W3N-es'
+slug: 'B07DLV7W3N-es SAMSONITE Pro-DLX 5 - Bailhandle for 14.1   Laptop 1 KG Maletín  37 cm  8.5 Liters  Negro  Black '
 actualPrice: 140.34 EUR
 currency: EUR
 price: 140.34

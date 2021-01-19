@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4183NJGuQTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL2QW7Y-es'
+slug: 'B07BL2QW7Y-es New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Hombre  Negro  Black/White Black/White   40.5 EU'
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

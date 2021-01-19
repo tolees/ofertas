@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e-xCmwKvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079BS1JTG-es'
+slug: 'B079BS1JTG-es JACK & JONES Jjepaulos Polo SS Noos  Gris  Light Grey Melange Detail: Slim Fit - Melange   Medium para Hombre'
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-rsI3nXhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O4E8XY8-es'
+slug: 'B00O4E8XY8-es TRIXIE 12 Pañales para Perro Macho  S-M  30-46 cm  Perro'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

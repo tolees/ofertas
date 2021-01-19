@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/318dSTkUM0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0024FFSB0-es'
+slug: 'B0024FFSB0-es Nuk Thermo Rapid - Calientabiberón'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

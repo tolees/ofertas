@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413a-xWNYhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWMXPQQ-es'
+slug: 'B07PWMXPQQ-es Kinderkraft Carrito Bebé 2 en 1 JULI  Silla de Paseo  Capazo  Plegable  Azul'
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

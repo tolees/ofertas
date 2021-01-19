@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BH1LVGJwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPQCQRG-es'
+slug: 'B07NPQCQRG-es Outgeek Luz De Cadena  20 Luces de Bombillas LED luz de luz en Forma de Pollito Inicio Cadena de luz para Día de la Madre la Boda Fiesta de Cumpleaños Decoración'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512B1-KB13L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBIJZAN-es'
+slug: 'B01NBIJZAN-es Karciane Podziemia'
 actualPrice: 16.66 EUR
 currency: EUR
 price: 16.66

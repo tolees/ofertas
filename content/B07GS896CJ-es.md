@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zTmuYDM6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GS896CJ-es'
+slug: 'B07GS896CJ-es Lenovo Legion Y920-17IKB - Ordenador portátil gaming de 17.3" FullHD  Intel Core i7-7820HK  16GB de RAM  1TB HDD + 256GB de SSD  Nvidia GTX1070 de 8GB  Windows10  negro. Teclado QWERTY español'
 actualPrice: 1549.0 EUR
 currency: EUR
 price: 1549.0

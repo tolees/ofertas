@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iIgeZ9bjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSOPLZK-es'
+slug: 'B01BSOPLZK-es Samsung Clear Cover - Funda para Samsung Galaxy S7 Edge  color transparente'
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

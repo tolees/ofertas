@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UZzK-WC9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LWYK5EO-es'
+slug: 'B00LWYK5EO-es Maybelline New York - The Colossal Go Extreme Volum Waterproof  Máscara de Pestañas  Tono Negro'
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

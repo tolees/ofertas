@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vbm49XTwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001B1QSF8-es'
+slug: 'B001B1QSF8-es Elizabeth Arden Visible Difference hydrating complex cream 75ml'
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

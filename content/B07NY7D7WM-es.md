@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eMoATCOPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY7D7WM-es'
+slug: 'B07NY7D7WM-es Superdry Classic Lite Micro Sports Polo  Rojo  Rouge Red Wa7   Large para Hombre'
 actualPrice: 12.73 EUR
 currency: EUR
 price: 12.73

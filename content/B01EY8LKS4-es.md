@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lSBCnYxBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EY8LKS4-es'
+slug: 'B01EY8LKS4-es Oral-B Precision Clean Cabezales de Recambio  Pack de 12 Unidades'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

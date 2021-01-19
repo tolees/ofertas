@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41917OL65mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTH781B-es'
+slug: 'B07FTH781B-es Lee Daren Zip Fly Jeans  Azul  Broken Blue Sx   31W / 30L para Hombre'
 actualPrice: 61.49 EUR
 currency: EUR
 price: 61.49

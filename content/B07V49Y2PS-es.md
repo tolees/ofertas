@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QMjy0Qx+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V49Y2PS-es'
+slug: 'B07V49Y2PS-es Apple MacBook Air  de 13 pulgadas  Modelo Anterior  8GB RAM  256GB de almacenamiento  - Gris Espacial'
 actualPrice: 1089.0 EUR
 currency: EUR
 price: 1089.0

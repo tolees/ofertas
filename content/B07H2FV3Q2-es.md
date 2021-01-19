@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sGnnPri5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2FV3Q2-es'
+slug: 'B07H2FV3Q2-es Cressi Water Bottle H20 Stainless Steel Botella Deportiva Inoxidable  Unisex Adulto  Plata/Acero  500 ML'
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

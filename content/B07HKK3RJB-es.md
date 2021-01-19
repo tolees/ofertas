@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iBPj7n9ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKK3RJB-es'
+slug: 'B07HKK3RJB-es Under Armour UA W Charged Impulse  Zapatillas de Running para Mujer  Rosa  Pink Fog/Halo Gray  601   44.5 EU'
 actualPrice: 35.39 EUR
 currency: EUR
 price: 35.39

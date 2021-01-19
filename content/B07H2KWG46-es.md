@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OdDJZv6LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2KWG46-es'
+slug: 'B07H2KWG46-es Baoblaze 2 Pares Altavoces de Audio para Automóvil Junta de Altavoz Coaxial de 3 Vías'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

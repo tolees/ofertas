@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g-CJ8fnJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQTM2JL-es'
+slug: 'B07SQTM2JL-es Live At Woodstock'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

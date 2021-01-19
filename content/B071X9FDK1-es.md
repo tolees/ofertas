@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zP-dsL+DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071X9FDK1-es'
+slug: 'B071X9FDK1-es adidas Terrex Choleah Padded CP  Botas de Senderismo para Mujer   Negbas/Negbas/Gricin   40 2/3 EU'
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

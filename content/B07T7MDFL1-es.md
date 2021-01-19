@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sqNU4lSmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T7MDFL1-es'
+slug: 'B07T7MDFL1-es OfficeWorld 29XL Alta Capacidad Cartuchos de Tinta Compatible para Epson 29 con Epson Expression Home XP-235 XP-245 XP-247 XP-255 XP-342 XP-332 XP-335 XP-345 XP-355 XP-352 XP-432 XP-435 XP-442 XP-445'
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

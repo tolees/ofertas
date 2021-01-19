@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51THmNgpPIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBTP9GR-es'
+slug: 'B07BBTP9GR-es Magicfly Sujetador Organizador Plegable  Organizador de Cajón Armario Ropa Interior Calcetines Calzoncillos Corbatas Bufandas Joyería  4 Cajas'
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

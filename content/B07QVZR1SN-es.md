@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y3uFAmw2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVZR1SN-es'
+slug: 'B07QVZR1SN-es Asics Gel-Cumulus 21  Zapatillas de Running para Hombre  Azul  Mako Blue/White 400   43.5 EU'
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

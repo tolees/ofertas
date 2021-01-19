@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ciad1Xq6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJQ4BM-es'
+slug: 'B07MVJQ4BM-es Kipling - Arto  Bolsos bandolera Mujer  Morado  Dark Plum   29x26x4 cm  B x H T '
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zNylNVoHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TK4NNJR-es'
+slug: 'B07TK4NNJR-es find. Alto HS01 Mocasines  Azul  Navy Navy   46.5'
 actualPrice: 24.21 EUR
 currency: EUR
 price: 24.21

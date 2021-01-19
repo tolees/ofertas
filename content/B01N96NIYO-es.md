@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uHQMLET+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N96NIYO-es'
+slug: 'B01N96NIYO-es Giraffe Boy. Juguete de ganchillo'
 actualPrice: 50.4 EUR
 currency: EUR
 price: 50.4

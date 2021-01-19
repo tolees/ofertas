@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eDJxMbU8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B015KKQSNC-es'
+slug: 'B015KKQSNC-es Kappa Speed II  Zapatillas Unisex Adulto  Negro  1110 Black/White   44 EU'
 actualPrice: 23.5 EUR
 currency: EUR
 price: 23.5

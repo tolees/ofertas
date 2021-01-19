@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3156qUus5fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GZ1ZIUY-es'
+slug: 'B01GZ1ZIUY-es HP Adaptador de CA de alimentación Inteligente de 90 W - Fuente de alimentación  100-240  50/60  90 W  Interior  Portátil  Negro '
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

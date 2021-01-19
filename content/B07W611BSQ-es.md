@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417j+1nReTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W611BSQ-es'
+slug: 'B07W611BSQ-es McNory Mini Ventilador USB Mini Fan Portátil 3000mah Tercer Ajuste de Marcha Ventilador de Cuello Colgante Portátil 180 ° se Puede Plegar Azul '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IoKCpso-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001AEA5K0-es'
+slug: 'B001AEA5K0-es Converse Chuck Taylor All Star Hi  Zapatillas Altas Unisex adulto  Negro  Black/White   36 EU'
 actualPrice: 37.01 EUR
 currency: EUR
 price: 37.01

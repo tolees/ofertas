@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ixs69nZyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K5XTTVW-es'
+slug: 'B01K5XTTVW-es TensCare Sports TENS - Electroestimulador muscular. Programas predeterminados TENS  EMS y para masaje y programas manuales. Alivio del dolor  tonificación y relajación musculares.'
 actualPrice: 58.89 EUR
 currency: EUR
 price: 58.89

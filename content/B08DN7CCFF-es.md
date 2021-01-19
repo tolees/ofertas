@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uhxw77bqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DN7CCFF-es'
+slug: 'B08DN7CCFF-es EKKONG Avion Planeador  Planos de Espuma  Aviones de Juguete para niños  Deportes Al Aire Libre Volar Juguete  4 Pcs  '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

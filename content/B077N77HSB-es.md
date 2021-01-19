@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21hoCRu++AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077N77HSB-es'
+slug: 'B077N77HSB-es Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 70 Amazonian'
 actualPrice: 3.82 EUR
 currency: EUR
 price: 3.82

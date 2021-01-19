@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q5axJ36eL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EU351VG-es'
+slug: 'B00EU351VG-es Tuscany Silver 8.24.7042 - Pulsera de plata de ley  925/1000   sin gema'
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

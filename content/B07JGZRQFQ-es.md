@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WRuywNU4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGZRQFQ-es'
+slug: 'B07JGZRQFQ-es Altavoz inalámbrico con Bluetooth  AICase Altavoz Bluetooth Portatiles  A8  Negro '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

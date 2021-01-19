@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51O-FPm55oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDCB79L-es'
+slug: 'B07VDCB79L-es LTB Lance B Pantalones Cortos  Azul  Gorbi Undamaged Wash 52286   125  Talla del Fabricante: 5  para Niños'
 actualPrice: 17.53 EUR
 currency: EUR
 price: 17.53

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+gC8OZjvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BNMSWV2-es'
+slug: 'B01BNMSWV2-es Philips Satinelle Advanced BRE620/00 - Depiladora Wet & Dry para mujer inalámbrica  3 accesorios  verde y blanco'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bi63bWr0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRMC2BH-es'
+slug: 'B07PRMC2BH-es Bourjois Velvet The Pencil - Pintalabios Tono 18 I m so plu m  cky  3g'
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

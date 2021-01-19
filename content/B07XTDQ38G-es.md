@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JEo8-MHVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XTDQ38G-es'
+slug: 'B07XTDQ38G-es Bolsas de Aseo Transparente  Opret 2 Pcs Neceser de Viaje Avión Impermeable PVC Cosmético Organizador para Hombre y Mujer'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

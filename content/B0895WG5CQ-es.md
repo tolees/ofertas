@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i9HtPMMmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895WG5CQ-es'
+slug: 'B0895WG5CQ-es LEILEI Cámara Web de Video USB Cámara de Video HD de 12MP 1080P Rotación de 360 Grados Corrección de luz Ajustable Micrófonos incorporados Cámara de Video para Conferencia de enseñanza en Red'
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

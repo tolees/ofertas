@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WjiOVeQqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QLY7CV-es'
+slug: 'B079QLY7CV-es Levi s 502 Regular Taper Jeans  Azul  Prewash 95977 0181   34W / 34L para Hombre'
 actualPrice: 42.11 EUR
 currency: EUR
 price: 42.11

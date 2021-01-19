@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t9ZB+glJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K1YFIZC-es'
+slug: 'B00K1YFIZC-es Emporio Armani Underwear 111357CC717 - Calzoncillos Para Hombre  Negro  NERO 00120   talla del fabricante: L  paquete de 3'
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

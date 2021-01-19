@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gVwn4rveL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SHTYF4-es'
+slug: 'B077SHTYF4-es Exerz Cajón archivador de Oficina/Clasificador de Papel con 3 Cajones/Cajonera para archivadores/Organizador Para el Escritorio  Rosado '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

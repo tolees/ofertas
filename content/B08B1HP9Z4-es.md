@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kyvllbT6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B1HP9Z4-es'
+slug: 'B08B1HP9Z4-es Auriculares Bluetooth 5.0 Inalámbricos TWS i12 Touch Control y Pop-Up Conexión Emergente Sonido Estéreo 3D con IPX7 Waterproof Emparejamiento Automático para Juegos Trabajo y Deportes Viaje'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

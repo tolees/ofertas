@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gzz4oKA0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001LF74PC-es'
+slug: 'B001LF74PC-es Grohe SilverFlex - Flexo con pieza de unión giratoria para la función TwistFree  1500 mm  28364000 '
 actualPrice: 13.82 EUR
 currency: EUR
 price: 13.82

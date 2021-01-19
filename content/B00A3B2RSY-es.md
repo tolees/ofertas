@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DhZbV3LSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A3B2RSY-es'
+slug: 'B00A3B2RSY-es Essie Esmalte de Uñas 318 Resort fling'
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

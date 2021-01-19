@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zROZdGGfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GQPKVK-es'
+slug: 'B078GQPKVK-es NutriBullet NB90928R Extractor de nutrientes original con recetario en español  ciclónico  apto lavavajillas  900 W  alta velocidad 25.000 rpm  color rojo'
 actualPrice: 85.75 EUR
 currency: EUR
 price: 85.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ax1c7AAxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HXVK98C-es'
+slug: 'B00HXVK98C-es Wilson Profile Overgrip para Raqueta  Unisex Adulto  Rojo  Talla Única'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

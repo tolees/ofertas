@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51O6xeIP4KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R7NFP6-es'
+slug: 'B075R7NFP6-es Intex 57254EU - Colchoneta hinchable emoji 173 x 27 cm'
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

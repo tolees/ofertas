@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ObB8YGt+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004VA3Z0M-es'
+slug: 'B004VA3Z0M-es Nike MD Runner 2  Zapatillas de Running Mujer  Gris  Barely Grey/White 010   37.5 EU'
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

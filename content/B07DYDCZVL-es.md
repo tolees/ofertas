@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tAXtzFLIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYDCZVL-es'
+slug: 'B07DYDCZVL-es Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Mujer  Azul  Velvet Morning   37.5 EU'
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

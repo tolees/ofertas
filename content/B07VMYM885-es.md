@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51p5otnV+tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMYM885-es'
+slug: 'B07VMYM885-es NEW C 2 Unidades  Protector de Pantalla para Samsung Galaxy A10  SM-A105F   M10 Vidrio Templado'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

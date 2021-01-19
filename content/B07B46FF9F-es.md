@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41emn+kz5mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B46FF9F-es'
+slug: 'B07B46FF9F-es Bourjois Rouge Edition Velvet Barra de Labios Líquida Tono 34 Belle amourose - 28 gr'
 actualPrice: 3.36 EUR
 currency: EUR
 price: 3.36

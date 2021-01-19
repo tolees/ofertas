@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vxMeO3fiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2Z1NBM-es'
+slug: 'B07S2Z1NBM-es New Balance 373v2  Zapatillas para Hombre  Negro  Black/White Ca2   44 EU'
 actualPrice: 38.85 EUR
 currency: EUR
 price: 38.85

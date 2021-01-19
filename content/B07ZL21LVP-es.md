@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d2dEgmEQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZL21LVP-es'
+slug: 'B07ZL21LVP-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Cuero Genuino ES4727'
 actualPrice: 36.68 EUR
 currency: EUR
 price: 36.68

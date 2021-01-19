@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4159UxQZ6+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829VVWWR-es'
+slug: 'B0829VVWWR-es Termómetro médico de Fieberthermometer por infrarrojos de Wohlman  para bebés  niños  adultos  superficie del cuerpo y espacio  frente y oído  termómetro de fiebre  función de memoria  1 segundo  medición de la edad  selección magnética'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

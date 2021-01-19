@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YAgCDC9gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817HFFL8-es'
+slug: 'B0817HFFL8-es TOPERSUN Sacaleches Eléctrico Recargable Extractor de Leche Eléctrico Silencioso Colector de Leche Materna 3 Modos y 9 Niveles pantalla táctil LCD para Succión de Leche Materna y Masaje de Senos'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4146ZUV9QXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7RFY66-es'
+slug: 'B07D7RFY66-es Saucony Ride ISO  Zapatillas de Running para Hombre  Blanco  White/Blue/Vizired 35   42 EU'
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

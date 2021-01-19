@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yJU9120oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q4MXNAC-es'
+slug: 'B00Q4MXNAC-es Lacoste Crew Neck-sudadera Hombre  azul  Marine   XX-Large  Talla del fabricante : 7 '
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

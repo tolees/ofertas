@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q38PIThHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0841TSP3P-es'
+slug: 'B0841TSP3P-es Panamami Gel de sílice Galactorrhea Colección Tapa Colector de leche materna Suave Postparto Masaje de mama Cojín del recipiente de succión del pezón/Transparente'
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

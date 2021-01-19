@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pj3jMOiyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG6GVGF-es'
+slug: 'B07KG6GVGF-es Puma Source Mid World Cup  Zapatillas Altas Unisex Adulto  Negro Black-Bronze-High Risk Red 01  36 EU'
 actualPrice: 19.03 EUR
 currency: EUR
 price: 19.03

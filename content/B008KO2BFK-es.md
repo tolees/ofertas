@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PL4c6cxgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008KO2BFK-es'
+slug: 'B008KO2BFK-es Monix Quick - Olla a presión rápida de 4 litros'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

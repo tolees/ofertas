@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AmmJmyC9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0015APMKW-es'
+slug: 'B0015APMKW-es Schwarzkopf Igora Royal Color and Care Developer 3 10 Vol 1000ml'
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zulCzwhVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPPJXWH-es'
+slug: 'B07TPPJXWH-es Levi s 501 Original Shorts Pantalones Cortos  Azul  Pate Short 0086   W29  Talla del Fabricante: 29  para Hombre'
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

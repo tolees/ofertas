@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31imzk2WUcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q46YSYX-es'
+slug: 'B07Q46YSYX-es Sally Hansen Airbrush Legs Maquillaje para piernas Spray Tono 005 Muy Bronceado - 130 ml'
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

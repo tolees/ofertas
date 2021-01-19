@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MXl04E3oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872LHZYS-es'
+slug: 'B0872LHZYS-es NMBC Cojín de Seda de Hielo 1 Cojín de Asiento de Coche de Verano Universal Antideslizante Desgaste Ventilación Soldadura Cojín de Masaje Adecuado para 4 estaciones-120x65x50cm Rojo'
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

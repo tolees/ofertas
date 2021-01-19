@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rc1evfeXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071V7RHLF-es'
+slug: 'B071V7RHLF-es ELFINA Spaire Espejo Maquillaje/Afeitado Aumento con Luz  Espejo Aumento LED Cosmético con Ampliación 10X y Poderoso Ventosa  Rotación 360°  con Una Pequeña Bolsa como Regalo'
 actualPrice: 20.24 EUR
 currency: EUR
 price: 20.24

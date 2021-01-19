@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QklM5sd7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Q6SJYJ-es'
+slug: 'B075Q6SJYJ-es Crosstour Cámara de Coche Dash CAM 1080P Full HD 170°Ángulo Cámara para Coche G-Sensor Detección de Movimiento Grabación en Bucle HDR con Visión Nocturna CR500'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

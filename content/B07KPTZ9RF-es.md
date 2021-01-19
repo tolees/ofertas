@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hYKi8FHvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPTZ9RF-es'
+slug: 'B07KPTZ9RF-es Pop! Vinilo: Disney: The Lion King: Rafiki'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

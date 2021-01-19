@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BJft8PikL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825MXLRY-es'
+slug: 'B0825MXLRY-es Quiksilver Dredge 17"-Short De Natación para Hombre Traje de Baño  Azul  Blithe  bmm6   M'
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

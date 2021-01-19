@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZPypXMNbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WW7PT1D-es'
+slug: 'B06WW7PT1D-es Goonies / Gremlins / Gremlins 2 [Edizione: Stati Uniti] [Italia] [DVD]'
 actualPrice: 22.48 EUR
 currency: EUR
 price: 22.48

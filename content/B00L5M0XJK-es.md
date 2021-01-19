@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cG8qgjmVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L5M0XJK-es'
+slug: 'B00L5M0XJK-es Bomann RG2279CB Raclette Grill con Piedra Natural y Placa Reversible  8 Personas  1400W  1400 W  Acero Inoxidable  Azul'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

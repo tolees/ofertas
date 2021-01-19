@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51p2HhHVh4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QCD43C-es'
+slug: 'B087QCD43C-es GOLDGE 540 Pares Adhesivo Redondo Monedas  Lunares Adhesivo 10mm Cintas Autoadhesivo Puntos de Adhesiva  Negro 1080Piezas '
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

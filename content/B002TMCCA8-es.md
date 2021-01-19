@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DFcpSHPaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002TMCCA8-es'
+slug: 'B002TMCCA8-es Rowenta Accesorio PAE Limpieza WB406120 Bolsa ASP.WONDERBAG  Textil  azul'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

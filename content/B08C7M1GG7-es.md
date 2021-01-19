@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cn1JyoEaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C7M1GG7-es'
+slug: 'B08C7M1GG7-es Tira LED TV 2.2M  5050 Tiras LED USB Impermeable con Control Remoto  16 RGB Colores y 4 Modos  Retroiluminacion LED de TV para Cine en Casa  HDTV/PC Monitor  40-60 Pulgada  - 2x50cm+2x60cm'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

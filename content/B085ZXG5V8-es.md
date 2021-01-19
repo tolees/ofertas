@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MnXMoKBuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZXG5V8-es'
+slug: 'B085ZXG5V8-es WIN.MAX Tirantes Ancho 35 mm X-Forma con 4 Clips Extra Fuerte Elástico y Longitud Ajustable Diferentes Estilos Tela Gruesa Una Talla Para Todos  Negro 01 '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

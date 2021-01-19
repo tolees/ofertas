@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318rtVJdrwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01959QWFI-es'
+slug: 'B01959QWFI-es Intex 57181NP - Piscina hinchable rectangular 229 x 147 x 46 cm  600 litros'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

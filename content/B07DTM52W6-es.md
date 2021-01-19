@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GXq-3ab-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DTM52W6-es'
+slug: 'B07DTM52W6-es Calcetines de Deporte Low Cut Pack de 3  Gris  EU 35-38 '
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

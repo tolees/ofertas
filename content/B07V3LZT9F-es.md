@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ckZQPNVHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3LZT9F-es'
+slug: 'B07V3LZT9F-es Love MoschinoJc4289pp0aMujerBolso de manoNegro  Black Quilted 6x15x21 Centimeters  W x H x L '
 actualPrice: 42.9 EUR
 currency: EUR
 price: 42.9

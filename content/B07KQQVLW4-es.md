@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IwiLhm2tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQQVLW4-es'
+slug: 'B07KQQVLW4-es SALOMON Logo Hoodie M Hombre  Verde  Green Gables   L'
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

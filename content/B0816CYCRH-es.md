@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31da2wtQKDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0816CYCRH-es'
+slug: 'B0816CYCRH-es LNIEGE Bolsa de pañales para bebés Multibolsillos  Bolsa de pañales con Asas  Bolsa de Asas Multiusos  Duradera y práctica'
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

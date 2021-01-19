@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QSQYqf9YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVPC2L1-es'
+slug: 'B07JVPC2L1-es Crystal Baby Smile - Difusor de aceite perfumado - Humidificador para aromaterapia - Para purificar el aire de cualquier estancia  Hogar  Oficina  Spa- Sin BPA - 110 ml'
 actualPrice: 27.88 EUR
 currency: EUR
 price: 27.88

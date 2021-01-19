@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xGYjfGvDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001P2PPBQ-es'
+slug: 'B001P2PPBQ-es Revlon ColorStay Overtime Pintalabios Larga Duración  #005 Infinite Raspberry '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Jf9bQeFxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KTCEW8-es'
+slug: 'B000KTCEW8-es Duracell 2450 - Pila especial de botón de litio de 3 V  DL2450/CR2450  diseñada para uso en llaves con sensor magnético  básculas  elementos vestibles y dispositivos médicos  paquete de 1 unidad'
 actualPrice: 2.24 EUR
 currency: EUR
 price: 2.24

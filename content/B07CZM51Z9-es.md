@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qa069XGPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZM51Z9-es'
+slug: 'B07CZM51Z9-es Under Armour Sportstyle Wind Parte Superior del Calentamiento  Hombre  Negro  LG'
 actualPrice: 27.18 EUR
 currency: EUR
 price: 27.18

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oXECNtiHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003EQ3OLY-es'
+slug: 'B003EQ3OLY-es chung shi Dux Beach  Alpargata para Mujer  Morado  Violeta/Lavanda   36.5 EU'
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

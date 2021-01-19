@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316Gw0CRcNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK12NTW-es'
+slug: 'B07SK12NTW-es Adidas TENSAUR C  Zapatillas de Running Unisex niño  Blanco  Ftwbla/Negbás/Ftwbla 000   29 EU'
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

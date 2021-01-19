@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51k3oosf8vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084DPKKF1-es'
+slug: 'B084DPKKF1-es Remington TSeries MB7000 - Set Recotador de Barba y Cortapelos  8 Accesorios  Inalámbrico  Resistente al Agua  para Vello Facial y de Nariz  Negro y Dorado'
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

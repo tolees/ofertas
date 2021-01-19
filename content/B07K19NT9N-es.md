@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FXIMWVOvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K19NT9N-es'
+slug: 'B07K19NT9N-es adidas Tiro19 PES Jkty Sport Jacket  Unisex niños  Black/White  7-8Y'
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

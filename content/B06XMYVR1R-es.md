@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410V9iqjGrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XMYVR1R-es'
+slug: 'B06XMYVR1R-es Cluse Reloj Analógico para Mujer de Cuarzo con Correa en Cuero CL40106'
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

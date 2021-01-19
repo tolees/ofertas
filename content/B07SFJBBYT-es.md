@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y2SpzxvrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFJBBYT-es'
+slug: 'B07SFJBBYT-es Levi s Tijuana  Zapatillas para Mujer  Negro  R Black 59   38 EU'
 actualPrice: 25.52 EUR
 currency: EUR
 price: 25.52

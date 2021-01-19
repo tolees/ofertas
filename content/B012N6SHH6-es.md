@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b9+vAuvSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012N6SHH6-es'
+slug: 'B012N6SHH6-es Guess Reloj cronógrafo para Mujer de Cuarzo con Correa en Piel W0289L4'
 actualPrice: 42.05 EUR
 currency: EUR
 price: 42.05

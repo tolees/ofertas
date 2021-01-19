@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Eo3Wl7TJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P23F2BZ-es'
+slug: 'B07P23F2BZ-es Skechers Energy-brunkz  Zapatillas para Hombre  Blanco  White Smooth Leather/White Trim Wht   39.5 EU'
 actualPrice: 24.53 EUR
 currency: EUR
 price: 24.53

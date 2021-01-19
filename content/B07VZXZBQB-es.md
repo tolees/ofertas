@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ONHYY72zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZXZBQB-es'
+slug: 'B07VZXZBQB-es Antartica - Juego de Maletas  3 Maletas de Equipaje  Maletas de Viaje con Candado  ABS Trolley  56 cm  66 cm  76 cm   Color Beige Claro.'
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

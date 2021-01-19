@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xJpUrIpfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLQR28F-es'
+slug: 'B07JLQR28F-es Lee Daren Zip Fly Jeans  Azul  Dark Diamond Ft   44W / 34L para Hombre'
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lSPOYdEfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085FXN7XH-es'
+slug: 'B085FXN7XH-es 6PCS PATAZOK Esponjas de Silicona para Cocina  Fregadora de Esponjas para Lavavajillas Cepillo de Limpieza Multifuncional con 6 Ganchos Adhesivos para Lavar Ollas para Platos de Frutas 4 colores '
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

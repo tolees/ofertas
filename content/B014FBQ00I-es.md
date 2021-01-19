@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o5lFR-12L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014FBQ00I-es'
+slug: 'B014FBQ00I-es Belkin F2CU037btBLK - Adaptador de USB-C a VGA  Color Negro  Compatible con iPad Pro '
 actualPrice: 27.67 EUR
 currency: EUR
 price: 27.67

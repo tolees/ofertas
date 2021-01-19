@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-z+7TnzcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083X5ZXZF-es'
+slug: 'B083X5ZXZF-es YISSVIC Raqueta Mosquitos Eléctrico  Raqueta Matamoscas Eléctrica Recargable  Mango de Linterna Extraíble  3 Capas de Malla de Seguridad de Protección'
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

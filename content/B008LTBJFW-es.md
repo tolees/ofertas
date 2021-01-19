@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51K3JqmalCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008LTBJFW-es'
+slug: 'B008LTBJFW-es Crucial CT2K8G3S160BM - Kit de Memoria para Mac de 16 GB  8 GB x 2  DDR3/DDR3L  1600 MT/s  PC3-12800  SODIMM  240-Pines '
 actualPrice: 76.84 EUR
 currency: EUR
 price: 76.84

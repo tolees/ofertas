@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41exXFzyQNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSO6LXG-es'
+slug: 'B01BSO6LXG-es Philips Serie 3000 S3510/06 - Afeitadora Eléctrica para Hombre Rotativa  Perfilador Patillas Incorporado'
 actualPrice: 46.43 EUR
 currency: EUR
 price: 46.43

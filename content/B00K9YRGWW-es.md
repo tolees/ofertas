@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wFPAu3rbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K9YRGWW-es'
+slug: 'B00K9YRGWW-es Original Album Classics. 5cd Slipcase'
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

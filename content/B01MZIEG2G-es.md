@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ydcDkm4eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZIEG2G-es'
+slug: 'B01MZIEG2G-es Poster STAR WARS El Despertar De La Fuerza Grafiti Hecho A Mano - Handmade Street Art - Artwork'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

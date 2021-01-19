@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S16OS-OUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D93SX9Y-es'
+slug: 'B07D93SX9Y-es adidas Lite Racer CLN  Zapatillas de Deporte para Mujer  Negro  Negbás/Negbás/Gricin 000   36 EU'
 actualPrice: 34.68 EUR
 currency: EUR
 price: 34.68

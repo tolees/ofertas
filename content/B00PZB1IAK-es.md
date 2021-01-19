@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F2dEtkriL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PZB1IAK-es'
+slug: 'B00PZB1IAK-es Nike Court Royale  Zapatillas para Mujer  Negro  Black/White 010   40 EU'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

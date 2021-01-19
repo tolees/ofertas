@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315hM19U9cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078MDLB77-es'
+slug: 'B078MDLB77-es adidas VL Court 2.0 CMF C  Zapatillas de Tenis Unisex Niños  Blanco  FTWR White/Core Black/FTWR White FTWR White/Core Black/FTWR White   28 EU'
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

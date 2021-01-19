@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i1WiGJV4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKY7KW5-es'
+slug: 'B07RKY7KW5-es Salomon Sense Feel  Zapatillas de Trail Running para Hombre  Morado  Flint Stone/Pearl Blue/Black   49 1/3 EU'
 actualPrice: 52.56 EUR
 currency: EUR
 price: 52.56

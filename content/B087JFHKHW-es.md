@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FC+-jZHTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JFHKHW-es'
+slug: 'B087JFHKHW-es AODOOR Lámpara Antimosquitos  Mosquito Killer  Portátil 2 en 1 Asesino de Mosquitos  Mata Mosquitos Electrico con Lámpara De Camping y Linterna  Impermeable UV Mosquitera Eléctrica'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

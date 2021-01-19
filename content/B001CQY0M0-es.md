@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uub453xYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001CQY0M0-es'
+slug: 'B001CQY0M0-es Reebok F/S Hi 2431  Zapatillas de Deporte para Mujer  Blanco  INT-White/Silver   36 EU'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

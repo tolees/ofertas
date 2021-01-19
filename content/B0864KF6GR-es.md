@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oMTblYA3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0864KF6GR-es'
+slug: 'B0864KF6GR-es Jack & Jones Jjiaruba Jjswimshorts AKM Animal STS Bañador para Hombre  Brook Green  S'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

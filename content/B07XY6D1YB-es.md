@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g0H6-KOkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XY6D1YB-es'
+slug: 'B07XY6D1YB-es Arándano Rojo Capsulas 12 500 mg - 180 Cápsulas Apto Para Veganos - Suministro para 6 Meses - Extracto de Arándanos de Alta Potencia por Porción - Producto Elaborado en el Reino Unido por Nutravita'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

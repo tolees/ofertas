@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xMQmlF57L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4F7ZPT-es'
+slug: 'B07Q4F7ZPT-es Dockers by Gerli 44bn009  Zapatillas para Hombre  Gris  Dunkelgrau 220   41 EU'
 actualPrice: 26.02 EUR
 currency: EUR
 price: 26.02

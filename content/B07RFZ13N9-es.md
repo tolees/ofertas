@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YLGc9DVNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFZ13N9-es'
+slug: 'B07RFZ13N9-es Under Armour Pennant Jacket 2.0 Parte Superior del Calentamiento  Niños  Azul  YXL'
 actualPrice: 27.86 EUR
 currency: EUR
 price: 27.86

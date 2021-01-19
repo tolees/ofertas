@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417YROhzBGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075D3JNKH-es'
+slug: 'B075D3JNKH-es Naipo Respaldo de Masaje Pro Shiatsu Asiento Masajeador Eléctrico de Cuello  Espalda y Caderas con Amasamiento Intenso  Calor Infrarrojos  Intensidad Regulable en Casa  Oficina o Coche'
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

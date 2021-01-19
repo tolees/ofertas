@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413qiHKlC1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075F96PJF-es'
+slug: 'B075F96PJF-es Wrangler Arizona Corduroy Pantalones  Verde  Dusty Olive 275   32 W/ 32 L para Hombre'
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

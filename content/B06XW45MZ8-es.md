@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31usDcf3hWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XW45MZ8-es'
+slug: 'B06XW45MZ8-es Amazon Essentials Classic-Fit Cargo Short Pantalones Cortos  Plateado  Silver   33'
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KqjKQCU9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5TXQR1-es'
+slug: 'B07J5TXQR1-es Adidas Advantage  Zapatillas de Deporte para Mujer  Multicolor  Grisei/Grisei/Stcapa 000   37 1/3 EU'
 actualPrice: 47.97 EUR
 currency: EUR
 price: 47.97

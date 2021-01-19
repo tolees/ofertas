@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oUne-ShpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012GSPON6-es'
+slug: 'B012GSPON6-es Original Buff - Knitted & Polar Hat Solid Unisex Adulto  talla unica  color savva cream'
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

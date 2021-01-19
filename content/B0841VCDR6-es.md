@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ggk9GbkeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0841VCDR6-es'
+slug: 'B0841VCDR6-es Generador de ozono Ionizador Purificador de aire Eliminador de olores domésticos Desodorante para dormitorio Sala de estar Aseo Oficina'
 actualPrice: 52.01 EUR
 currency: EUR
 price: 52.01

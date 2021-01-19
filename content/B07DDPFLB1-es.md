@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ctl155j7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDPFLB1-es'
+slug: 'B07DDPFLB1-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable EU6000-57B'
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

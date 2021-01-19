@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qhMrR+ebL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5WFF1R-es'
+slug: 'B07N5WFF1R-es Calvin Klein PUFFER ROUND BACKPACKHombreShoppers y bolsos de hombroNegro  Black  16x40x28 centimeters  B x H x T '
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

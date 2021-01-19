@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31drfyHVfiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6VRRGZ-es'
+slug: 'B07N6VRRGZ-es Tommy Hilfiger Core Leather Lace Up Shoe  Mocasines para Hombre  Marrón  Natural Cognac Gtu   40 EU'
 actualPrice: 75.53 EUR
 currency: EUR
 price: 75.53

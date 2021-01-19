@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3116b3zWFIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RVCRD14-es'
+slug: 'B07RVCRD14-es Diesel ShoesBoldmessage Bold Back IiHombreMochilasAzul  Blue Nights  10x44x30 centimeters  W x H x L '
 actualPrice: 70.63 EUR
 currency: EUR
 price: 70.63

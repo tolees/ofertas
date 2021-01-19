@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ewU4NdwUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y7SYBLP-es'
+slug: 'B07Y7SYBLP-es Carcasa de silicona transparente y ultrafina para Samsung Galaxy S10  antihuellas  antiarañazos  diseño de Halloween 5 Talla única'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

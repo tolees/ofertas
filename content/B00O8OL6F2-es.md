@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kn-CNf4JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O8OL6F2-es'
+slug: 'B00O8OL6F2-es Manguitos Hinchables Bestway Minnie Mouse'
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

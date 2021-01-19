@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419jUmM2j3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008ZCRLMK-es'
+slug: 'B008ZCRLMK-es Tayg Trail-Box n. 59  500 x 410 x 770 mm'
 actualPrice: 114.82 EUR
 currency: EUR
 price: 114.82

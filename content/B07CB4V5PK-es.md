@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x0R-XgKuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CB4V5PK-es'
+slug: 'B07CB4V5PK-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona F20353/3'
 actualPrice: 130.45 EUR
 currency: EUR
 price: 130.45

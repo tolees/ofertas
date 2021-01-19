@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nI8jidstL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5NG3Y3-es'
+slug: 'B07J5NG3Y3-es GARRAPATIN Antiparasitario pulgas casetas y Camas de Perro y Caballo Polvo 1 Kg'
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

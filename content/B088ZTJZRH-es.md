@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318FWXSiWlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088ZTJZRH-es'
+slug: 'B088ZTJZRH-es iMiMi - Tabla de planchar de pared para puerta o pared  diseño de hierro'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

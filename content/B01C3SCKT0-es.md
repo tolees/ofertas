@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516+gEjcMNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C3SCKT0-es'
+slug: 'B01C3SCKT0-es Sigma 30mm f/1.4 DC DN Contemporary - Objetivo estándar para el Sistema Micro Cuatro Tercios  Color Negro'
 actualPrice: 186.12 EUR
 currency: EUR
 price: 186.12

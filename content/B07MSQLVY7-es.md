@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YeCKumB1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSQLVY7-es'
+slug: 'B07MSQLVY7-es Scotch & Soda Stuart-Classic Garment-dyed Twill Chino Pantalones   Night 0002   W36/L36  Talla del Fabricante: 36/36  para Hombre'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

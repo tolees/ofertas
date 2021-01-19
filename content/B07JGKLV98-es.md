@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pfNV+q6-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGKLV98-es'
+slug: 'B07JGKLV98-es HBselect Gorros De Punto Bebe Niños Invierno Gorra Bebe Orejas Gorros Termicos Bebe Sombreros y Gorras para Bebés Niña  M '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

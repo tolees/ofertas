@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DzUxN8c6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GNJPSQC-es'
+slug: 'B01GNJPSQC-es LLaveros Llaves Diseño Cruz 6 Agujeros Clave Transversal Servicio Utilidad Tren Ascensor Armario Eléctrico'
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

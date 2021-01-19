@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zjTF8xC9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073PBXGG8-es'
+slug: 'B073PBXGG8-es Tapones Para los Oídos de Harcas. Filtro de Ruido de Silicon. Para Música  Bateristas  Conciertos  Dj  Estudiar  Dormir o Viajar. Azul Claro'
 actualPrice: 15.58 EUR
 currency: EUR
 price: 15.58

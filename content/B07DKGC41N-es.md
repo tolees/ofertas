@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VmvQ1x-QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKGC41N-es'
+slug: 'B07DKGC41N-es Kipling - City Pack Mini  Mochilas Mujer  Gris  Active Grey Bl '
 actualPrice: 47.4 EUR
 currency: EUR
 price: 47.4

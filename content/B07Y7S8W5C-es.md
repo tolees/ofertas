@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wC2duycXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y7S8W5C-es'
+slug: 'B07Y7S8W5C-es Yenks Case compatible con Samsung Galaxy A9 2018  funda de silicona ultrafina transparente funda Slim Fit TPU protector Halloween patrón Case Non-Slip Bumper Cover para Galaxy A9 2018 6 Talla única'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

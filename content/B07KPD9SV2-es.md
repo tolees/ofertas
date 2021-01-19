@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fG6mc4HTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPD9SV2-es'
+slug: 'B07KPD9SV2-es Gant The Original Heavy Rugger  Polo Hombre  Azul  Evening Blue 433   Small'
 actualPrice: 50.96 EUR
 currency: EUR
 price: 50.96

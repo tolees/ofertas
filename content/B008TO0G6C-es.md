@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZuAgmgVVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008TO0G6C-es'
+slug: 'B008TO0G6C-es Tescoma 428724 Moldes De Emplatar Grandchef  4 Pzs  Acero Inoxidable  Gris  4'
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

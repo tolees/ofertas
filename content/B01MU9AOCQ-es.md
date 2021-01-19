@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Y7ajYPMJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU9AOCQ-es'
+slug: 'B01MU9AOCQ-es Llavero Circle Bear Tous'
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

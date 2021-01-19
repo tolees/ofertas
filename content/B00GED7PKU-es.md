@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512h-a-SmXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GED7PKU-es'
+slug: 'B00GED7PKU-es SHIMANO R55C4 Zapatas Sueltas  Unisex Adulto  Multicolor  Talla Única'
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

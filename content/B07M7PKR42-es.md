@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+mY6EKHGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7PKR42-es'
+slug: 'B07M7PKR42-es GANT Malin  Botas Chelsea para Mujer  Rojo  Port Red G537   41 EU'
 actualPrice: 63.11 EUR
 currency: EUR
 price: 63.11

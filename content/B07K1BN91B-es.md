@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XOQLenOAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1BN91B-es'
+slug: 'B07K1BN91B-es adidas Tastigo19 SHO Pantalones Cortos de Deporte  Hombre  Active Green/hi-Res Yellow  910Y'
 actualPrice: 17.01 EUR
 currency: EUR
 price: 17.01

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CjIbD0KtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GRNC9PM-es'
+slug: 'B01GRNC9PM-es MOMO Design Reloj Informal MD6002SS-12'
 actualPrice: 72.5 EUR
 currency: EUR
 price: 72.5

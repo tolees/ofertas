@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WCGZW-Y8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTK7LDY-es'
+slug: 'B07CTK7LDY-es JACK & JONES JFWALBANY Leather STS  Chukka Boots para Hombre  Gris Anthracite Anthracite   43 EU'
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

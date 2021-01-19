@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tqJerfxVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9GVL9H-es'
+slug: 'B07V9GVL9H-es JACK & JONES Jorrafael Sweat Hood Capucha  Azul  Navy Blazer Fit: Slim/JJ   Medium para Hombre'
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

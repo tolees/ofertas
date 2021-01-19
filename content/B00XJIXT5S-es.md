@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lpRi6ZGaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XJIXT5S-es'
+slug: 'B00XJIXT5S-es Philips myLiving Hailton - Lámpara colgante  iluminación interior  LED  8 W  color bronce'
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

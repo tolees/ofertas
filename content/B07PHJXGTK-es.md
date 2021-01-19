@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51akXLA1i+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHJXGTK-es'
+slug: 'B07PHJXGTK-es Ferilinso Cristal Templado para Redmi 7  Redmi Note 8  Redmi Note 7 Protector de Pantalla  [2 Pack] Protector de Pantalla Screen Protector'
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

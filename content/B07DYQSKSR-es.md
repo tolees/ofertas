@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RkmM0iX4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYQSKSR-es'
+slug: 'B07DYQSKSR-es Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Mujer  Multicolor  Paloma   38 EU'
 actualPrice: 75.49 EUR
 currency: EUR
 price: 75.49

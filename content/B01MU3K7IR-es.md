@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51i9C4jdCNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU3K7IR-es'
+slug: 'B01MU3K7IR-es San Ignacio Juego de Sartenes y Batería de Cocina  Aluminio  Negro  24 cm'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

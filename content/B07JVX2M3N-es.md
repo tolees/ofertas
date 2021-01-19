@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xoh4H2K2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVX2M3N-es'
+slug: 'B07JVX2M3N-es Superdry Orange Label Jogger Pantalones de deporte  Gris  Ice Marl 54g   EU 38  Talla del fabricante: 10 UK  para Mujer'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

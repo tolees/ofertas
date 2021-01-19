@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oxGaLYtFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBW19XN-es'
+slug: 'B07LBW19XN-es Tommy Hilfiger Medium Drawstring Bañador de natación  Rosa  Phlox Pink 658   L para Hombre'
 actualPrice: 40.19 EUR
 currency: EUR
 price: 40.19

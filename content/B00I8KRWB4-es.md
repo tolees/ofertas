@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nu6t+TzTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I8KRWB4-es'
+slug: 'B00I8KRWB4-es Artdeco High Definition Foundation 11 Medium Honey Beige Podkład do twarzy rozświetlający'
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

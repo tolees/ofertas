@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yyR+7KKcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0155YQGE4-es'
+slug: 'B0155YQGE4-es Slendertone Connect Abs - Cinturón de tonificación conectado  61-107cm'
 actualPrice: 118.3 EUR
 currency: EUR
 price: 118.3

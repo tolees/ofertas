@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315ow53-zuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W3RD94C-es'
+slug: 'B00W3RD94C-es Joma - Calentador Lycra Record Marino para Hombre'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AmDTXhfqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KKNBF8S-es'
+slug: 'B00KKNBF8S-es Habitdesign LC7823O - Cómoda 3 cajones Color Roble  Medidas: 77 cm  Ancho  x 80 cm  Alto  x 38 cm  Fondo '
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

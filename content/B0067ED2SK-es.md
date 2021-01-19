@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tz0FO4y1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0067ED2SK-es'
+slug: 'B0067ED2SK-es K&N PS-7000 filtro de aceite Coche'
 actualPrice: 7.34 EUR
 currency: EUR
 price: 7.34

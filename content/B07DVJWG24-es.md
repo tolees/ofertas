@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Uc07khDYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVJWG24-es'
+slug: 'B07DVJWG24-es New Balance Fresh Foam Roav   Zapatillas de Running para Hombre  Rosa  Rain Cloud Rain Cloud   42 EU'
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

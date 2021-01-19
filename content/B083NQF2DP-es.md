@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hHqI-z8mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083NQF2DP-es'
+slug: 'B083NQF2DP-es Funda para teléfono Sports Girl Pattern Resistente a los Golpes Protección Suave para teléfonos móviles Accesorios para el hogar del teléfono móvil para el hogar - J6684-Pt'
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

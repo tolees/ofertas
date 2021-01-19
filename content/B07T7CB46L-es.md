@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wXp6G-jbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T7CB46L-es'
+slug: 'B07T7CB46L-es Skechers Bobs Squad-Glitz Maker  Zapatillas para Mujer  Rosa  Pink Sparkle Engineered Knit Pnk   41 EU'
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

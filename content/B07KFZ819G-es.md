@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H0tvR1hrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZ819G-es'
+slug: 'B07KFZ819G-es PUMA Jaab XT Wn s  Zapatillas Deportivas para Interior para Mujer  Black White  38.5 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

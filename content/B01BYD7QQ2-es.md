@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51s7xr0c6sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BYD7QQ2-es'
+slug: 'B01BYD7QQ2-es Oral-B Genius 9000N Cepillo de Dientes Eléctrico con Tecnología de Braun  Negro'
 actualPrice: 119.9 EUR
 currency: EUR
 price: 119.9

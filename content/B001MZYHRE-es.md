@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412frO8N5uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001MZYHRE-es'
+slug: 'B001MZYHRE-es Hill`s Science Plan Alimento con Sabor a Pollo para Perros Pequeño Mini - 3 kg'
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

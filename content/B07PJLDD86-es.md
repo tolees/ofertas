@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zd4S+OnRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJLDD86-es'
+slug: 'B07PJLDD86-es FREDI Cámara espía HD 1080P WiFi Cámara Videocámara Oculta Mini Cámara de vigilancia inalámbrica Seguridad para Interiores Visión Nocturna'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

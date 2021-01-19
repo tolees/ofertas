@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iNXLhQTqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLSVJZY-es'
+slug: 'B07MLSVJZY-es Clarks BatcombeAlpGTX  Botas de Motorista para Hombre  Marrón Dark Brown Nub  45 EU'
 actualPrice: 47.33 EUR
 currency: EUR
 price: 47.33

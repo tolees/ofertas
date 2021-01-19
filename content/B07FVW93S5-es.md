@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IIqEtJI9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FVW93S5-es'
+slug: 'B07FVW93S5-es PAMEX - Cubo Galvanizado 5L con Abridor'
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

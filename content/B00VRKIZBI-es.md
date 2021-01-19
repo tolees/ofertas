@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BEMuJmhpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VRKIZBI-es'
+slug: 'B00VRKIZBI-es Honey Bear Cajón de efectivo de 16 pulgadas  5 compartimentos para billetes y 8 para monedas  compatible con impresoras de recibos/caja registradora de punto de venta de 12 V con interfaz RJ11  negro'
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

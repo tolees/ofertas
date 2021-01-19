@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418uiPQaeSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G38BVRK-es'
+slug: 'B07G38BVRK-es Chicco Miinimo2 Silla de paseo ultracompacta y ligera  solo 6 kg  color negro  Pure Black Special Edition '
 actualPrice: 140.0 EUR
 currency: EUR
 price: 140.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Na+4esSXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076JB23HN-es'
+slug: 'B076JB23HN-es Panama Jack Capri Cork  Sandalia con Pulsera para Mujer  Rojo  Rojo B1   40 EU'
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

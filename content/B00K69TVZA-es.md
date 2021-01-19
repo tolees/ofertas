@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gpCMVijtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K69TVZA-es'
+slug: 'B00K69TVZA-es Max Factor CC Colour Corrector Sticks Correctores Tono Yellow - 19 gr'
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oQ6j2WUEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KU69HRQ-es'
+slug: 'B00KU69HRQ-es Prices Citronella Tealight Candles Mosquito Fly Insect Repeller by Price s Candles'
 actualPrice: 5.37 EUR
 currency: EUR
 price: 5.37

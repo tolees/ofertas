@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QGeDfgx5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJ6LF6R-es'
+slug: 'B07SJ6LF6R-es Little Nightmares - Complete Edition  Code In A Box '
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

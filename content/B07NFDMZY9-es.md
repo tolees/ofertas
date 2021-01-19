@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-WCMyfKDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFDMZY9-es'
+slug: 'B07NFDMZY9-es Valentino by Mario ValentinoAudreyMujerCarteras de manoAzul  Blu 4.5x12x27 centimeters  B x H x T '
 actualPrice: 52.4 EUR
 currency: EUR
 price: 52.4

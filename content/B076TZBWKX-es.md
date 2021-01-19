@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QSKcUhSUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076TZBWKX-es'
+slug: 'B076TZBWKX-es Philips Secador BHD170/40 - Secador de pelo  CC  Negro  Rosa  Acrilonitrilo butadieno estireno  ABS   Con agujero en la empuñadura para colgar  1 8 m  2200 W '
 actualPrice: 20 EUR
 currency: EUR
 price: 20

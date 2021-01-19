@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31N6qx6q+VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0A20MP-es'
+slug: 'B01N0A20MP-es Kyocera TK5240Y - Cartucho de tóner'
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

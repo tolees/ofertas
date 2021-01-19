@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UV9gnUtpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OLXCWS-es'
+slug: 'B000OLXCWS-es Converse Chuck Taylor All Star Hi Top  Zapatillas Unisex Adulto  Gris  Charcoal   38 EU'
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dSI4AX-rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLP879N-es'
+slug: 'B07TLP879N-es Clarks Un Costa Lace  Zapatillas para Hombre  Marrón  British Tan Lea British Tan Lea   43 EU'
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

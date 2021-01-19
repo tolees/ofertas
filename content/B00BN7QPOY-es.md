@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yZnqgNGDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BN7QPOY-es'
+slug: 'B00BN7QPOY-es Carissima Gold Pendientes de mujer con oro amarillo de 9 K  375/1000   sin gema'
 actualPrice: 107.0 EUR
 currency: EUR
 price: 107.0

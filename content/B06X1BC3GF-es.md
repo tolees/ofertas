@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cMcgJwnWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X1BC3GF-es'
+slug: 'B06X1BC3GF-es Alessi - Pulcina MDL02/6 R - Cafetera Inducción de Diseño para Café Exprés  en Aluminio Fundido y PA  Rojo  6 tazas'
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

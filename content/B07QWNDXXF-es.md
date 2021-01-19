@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Iv3ticilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWNDXXF-es'
+slug: 'B07QWNDXXF-es Under Armour  UNDKU Heatgear Crew Calcetines  Unisex adulto  Blanco  MD'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

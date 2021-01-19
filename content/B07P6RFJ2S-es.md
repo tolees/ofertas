@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YlPBfBaGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6RFJ2S-es'
+slug: 'B07P6RFJ2S-es American Tourister Bon Air - Spinner Small Strict Equipaje de Mano  55 cm  31.5 Liters  Amarillo  Light Yellow '
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

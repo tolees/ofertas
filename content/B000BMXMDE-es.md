@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eUnZNu+TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BMXMDE-es'
+slug: 'B000BMXMDE-es HP Q6470A - Cartucho de tóner'
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

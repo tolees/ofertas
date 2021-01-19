@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XZsClQU4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0863SQ2QQ-es'
+slug: 'B0863SQ2QQ-es Suhctup Transparente Funda Compatible con Xiaomi Redmi 6A Cárcasa Silicona Ultra Fina Flor Diseño Anti-Arañazos Antigolpes Bumper TPU Resistente Case Cover para Xiaomi Redmi 6A 8 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fOjhQ1XIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017HAWEC2-es'
+slug: 'B017HAWEC2-es Fiskars Cortador de queso curado  Acero inoxidable/Plástico  Ancho de corte: 6 cm  Functional Form  Blanco  1016129'
 actualPrice: 8.73 EUR
 currency: EUR
 price: 8.73

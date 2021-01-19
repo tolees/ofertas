@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EO7QvJ2sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPVN75K-es'
+slug: 'B07SPVN75K-es Funko- Pop TV: La Casa de Papel-Helsinki Collectible Figure  Multicolor  44194 '
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DtgZ6niEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QMT5V84-es'
+slug: 'B07QMT5V84-es New Balance 574v2 Core   Zapatillas para Hombre  Negro  Black Black   45 EU'
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

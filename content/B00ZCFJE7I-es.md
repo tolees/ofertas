@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LTOQ1rTaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZCFJE7I-es'
+slug: 'B00ZCFJE7I-es Juicy Couture I Am Juicy Couture Eau de Parfum 100 ml'
 actualPrice: 38.41 EUR
 currency: EUR
 price: 38.41

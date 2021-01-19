@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-P75RDhKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CT2MLWV-es'
+slug: 'B07CT2MLWV-es ZD Paños de Cocina RIZO 100% Algodón Con Dibujo Bordado Multicolor Pack 12 toallas de cocina'
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

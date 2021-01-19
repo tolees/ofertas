@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413ewzWNecL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M1T11HE-es'
+slug: 'B00M1T11HE-es Yazilind deslumbrante Ba?ado En Plata corte rojoondo champ¨¢n Pendientes Circonita garra larga noble colgantes con c¨²bico'
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

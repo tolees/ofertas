@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51147NHt2pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071NZ9YVT-es'
+slug: 'B071NZ9YVT-es PUMA Iconic Racer Back Bra 1P Ropa Interior  Mujer  Gris  Extra-Large'
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

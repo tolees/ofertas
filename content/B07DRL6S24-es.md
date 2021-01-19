@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FSMu3SNpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRL6S24-es'
+slug: 'B07DRL6S24-es Skechers Go Run 600-Farrox 97867L  Zapatillas para Niños  Negro  Black Blue Lime Bblm   27.5 EU'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

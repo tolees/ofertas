@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51f1RMfndpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZXSD8F-es'
+slug: 'B07QZXSD8F-es Tonysa SU-668 1.5KM Sistema de Llamadas Restaurante Inalámbricas con 1 Transmisor de Teclado y 20 Beepers Portátiles con Antena 3 Modos Vibraciones | Bee Cue | Luz para Restaurante Hotel - EU EU '
 actualPrice: 128.09 EUR
 currency: EUR
 price: 128.09

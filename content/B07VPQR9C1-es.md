@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CqkZAWInL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPQR9C1-es'
+slug: 'B07VPQR9C1-es Tommy Hilfiger Tommy Regular Polo  Azul  Blue Ink   X-Small para Hombre'
 actualPrice: 26.18 EUR
 currency: EUR
 price: 26.18

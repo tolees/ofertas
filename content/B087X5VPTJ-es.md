@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TaCI9LWpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087X5VPTJ-es'
+slug: 'B087X5VPTJ-es Suhctup Funda Transparent Compatible para Huawei P20 Lite/Nova 3E Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Huawei P20 Lite A7'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5185zoM25kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0785GYJPY-es'
+slug: 'B0785GYJPY-es Superga 2730-cotropew  Zapatillas de Gimnasia para Mujer  Beige  Taupe 949   41 EU'
 actualPrice: 43.68 EUR
 currency: EUR
 price: 43.68

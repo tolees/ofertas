@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rPlk3E92L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002RWK1DA-es'
+slug: 'B002RWK1DA-es Pedigree Dentastix de uso diario para higiene oral para perros medianos - Pack de 10 x 7 sticks - Total: 70 sticks'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

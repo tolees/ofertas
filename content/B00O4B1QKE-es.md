@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u0PzELQAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O4B1QKE-es'
+slug: 'B00O4B1QKE-es Zotal Parasital Blíster con 4 Pipetas de 5 ml para Perros Grandes - Total: 20 ml'
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

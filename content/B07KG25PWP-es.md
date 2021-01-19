@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-DCv3gMXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG25PWP-es'
+slug: 'B07KG25PWP-es PUMA Rebound Layup Lo SL  Zapatillas Unisex Adulto  White-High Rise  40 EU'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

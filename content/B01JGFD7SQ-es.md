@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HTm+L5hGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JGFD7SQ-es'
+slug: 'B01JGFD7SQ-es Bourjois Boite Ronde Sombra de ojos Tono 9 Lunaire - 16 gr.'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VFUPugpeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868CRMDM-es'
+slug: 'B0868CRMDM-es amzdeal Ventilador de Turbo  Ventilador de Sobremesa para Circulación de Aire con Control Remoto  9 Velocidades y 3 Modos  Oscila Vertical y Horizontal  Temporizador de 9 Horas  Silencioso  Portátil'
 actualPrice: 39.89 EUR
 currency: EUR
 price: 39.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61FR8lj5pvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JRGWGG6-es'
+slug: 'B07JRGWGG6-es LeYi Funda Xiaomi Redmi Note 6 Pro Silicona Purpurina Carcasa con [2-Unidades Cristal Vidrio Templado] Transparente Cristal Bumper Fundas Case Cover Para Movil Redmi Note 6 Pro ZX Purple/Blue'
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

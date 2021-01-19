@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ShzgoBzsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFRRW1Q-es'
+slug: 'B07WFRRW1Q-es JOOMFEEN Quick Charge 3.0 Cargador USB de Pared 30W QC 3.0 Cargador Móvil 4 Puertos Cargador de Red USB Carga Rapida con Cable USB para iPhone XS XR X 8 8 Plus 7 7 Plus 6s 6s Plus 5s iPad iPod Negro '
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

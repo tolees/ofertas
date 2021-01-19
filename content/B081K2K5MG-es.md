@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A0qpO7q5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081K2K5MG-es'
+slug: 'B081K2K5MG-es HoneyHolly Botella de Agua de Acero Inoxidable sin bpa Botellas 600ML diseño de Pared Doble Botella  Termica con Pajita y Filtro  para Niños & Adultos  Deporte  Oficina'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

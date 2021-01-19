@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NaPqA1mKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QLW1B-es'
+slug: 'B07S7QLW1B-es PUMA Nrgy Neko Retro Wns  Zapatillas de Running para Mujer  Blanco White/High Rise/Pink Rosewater 09  39 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

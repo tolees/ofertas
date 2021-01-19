@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P7nV9YP9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QG9BP5-es'
+slug: 'B079QG9BP5-es Levi s 502 Regular Taper Jeans  Azul  Stonewash 95978 0182   30W / 30L para Hombre'
 actualPrice: 36.68 EUR
 currency: EUR
 price: 36.68

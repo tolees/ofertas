@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BwRX0UvzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010LSZUIM-es'
+slug: 'B010LSZUIM-es Brabantia 105340 Cepillo para la Ropa  Gris'
 actualPrice: 4.04 EUR
 currency: EUR
 price: 4.04

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wHZdXSAyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719RYJ3V-es'
+slug: 'B0719RYJ3V-es Di4 Jet Pressing 5b Centro de planchado con caldera de acero inoxidable  5 bar  2300 W  Cerámica  Blanco/Negro/Rojo'
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

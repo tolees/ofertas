@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uoq3oy8QL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVC168V-es'
+slug: 'B07CVC168V-es Under Armour Remix  Zapatillas de Running para Hombre  Marrón  Khaki Base/Summit White/Summit White  200  200   40.5 EU'
 actualPrice: 33.4 EUR
 currency: EUR
 price: 33.4

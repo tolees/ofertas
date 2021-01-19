@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ic0rhdRnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SN4GQEY-es'
+slug: 'B00SN4GQEY-es Chicco Steril Natural 3en1 - Esterilizador eléctrico de hasta 6 biberones en 5 minutos'
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

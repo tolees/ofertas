@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CzlsYVbZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078MB9RKB-es'
+slug: 'B078MB9RKB-es Asics Noosa Ff 2  Zapatillas de Entrenamiento para Mujer  Rosa  Seashell Pink/Dark Blue/Begonia 1749   38 EU'
 actualPrice: 81.55 EUR
 currency: EUR
 price: 81.55

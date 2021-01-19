@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418sd3icOkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKXJHS4-es'
+slug: 'B08CKXJHS4-es Hogar Lavado portátil Lavado de artefactos de cara Instrumento de limpieza eléctrica de silicona Cepillo de lavado a prueba de agua - Multicolor'
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

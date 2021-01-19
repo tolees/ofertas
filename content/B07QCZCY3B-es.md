@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31GhGVf53%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCZCY3B-es'
+slug: 'B07QCZCY3B-es Luz solar para el césped  luz solar de la flor del jacinto de la energía solar para la lámpara al aire libre del paisaje del césped del jardín de la yarda  1# '
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

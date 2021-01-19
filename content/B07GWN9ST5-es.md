@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lF+SGaR2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWN9ST5-es'
+slug: 'B07GWN9ST5-es NNJXD Partido del Unicornio Flor de Las Muchachas del Traje de Cosplay de la Boda de Halloween de fantasía de Princesa Dress + del Mismo tamaño Gorras  100  3-4 Años Rosa'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zYzqv86-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NF3Z9X8-es'
+slug: 'B07NF3Z9X8-es Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 18640/3'
 actualPrice: 72.19 EUR
 currency: EUR
 price: 72.19

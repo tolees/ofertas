@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KJ4rPA4hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z9S3JDV-es'
+slug: 'B07Z9S3JDV-es LIGE Reloj para Hombre Cronógrafo Impermeable Moonphase Analog Quartz Negro Silicone Strap Relojes para Hombres …'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

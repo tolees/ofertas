@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mvf4423zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MPNNN6-es'
+slug: 'B082MPNNN6-es Buff Trucker Cap  Brown  One size womens'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

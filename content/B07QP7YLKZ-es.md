@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YT9Tk7vgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QP7YLKZ-es'
+slug: 'B07QP7YLKZ-es PINPOXE Lámpara Antimosquitos  Lámpara Camping Antimosquitos  Lámpara de Asesino del Larvas Mosquito al Aire Libre Portátil Noche Lámpara LED Zapper Mosquito Recargable Impermeable para Acampar'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

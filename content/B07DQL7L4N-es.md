@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31y8deMSsmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQL7L4N-es'
+slug: 'B07DQL7L4N-es Lámpara Escritorio LED  Lámparas de Mesa USB Regulable Recargable - AUELEK 1800mAh Plegable Luz/Diseño Giratorio/Control Táctil/ 3 Niveles de Brillo/ 5 Temperaturas para Relax  Estudio  Lectura'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sUCEau2SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LRS29PW-es'
+slug: 'B01LRS29PW-es Bébé Confort MiloFix Silla de auto de 0 a 4 años  0-18 kg  color negro  Triangle Black '
 actualPrice: 120.69 EUR
 currency: EUR
 price: 120.69

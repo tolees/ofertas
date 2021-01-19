@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UrqD+YBnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077QLXGWM-es'
+slug: 'B077QLXGWM-es Salcar Carcasa Box Externa para Disco Duro USB 3.0 a SATA Carcasa para HDD y SSD SATA de 2.5”/3.5” Compatible con UASP y Discos de 10TB Adaptador Corriente 12V/2A Incluido'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

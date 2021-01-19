@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/318tpAkzqWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRXMLDS-es'
+slug: 'B07KRXMLDS-es Columbia Silver Ridge 2.0 Manga Corta  Mujer  Blanco  White   XS'
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

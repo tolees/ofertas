@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IECHBlSaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WQQRM8-es'
+slug: 'B071WQQRM8-es Pandora Brazalete Mujer plata - 596438CZ-1'
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

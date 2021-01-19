@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316YHEAf+LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QN5MYN-es'
+slug: 'B087QN5MYN-es Dani - Salsa para aperitivo - 6 botellines de 250ML'
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

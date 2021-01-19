@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61BI+LIXHbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079P2Y4FP-es'
+slug: 'B079P2Y4FP-es Diset- Pinto con el Dedo 2 años  68953 '
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

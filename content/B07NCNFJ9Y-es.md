@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K10kDOcvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCNFJ9Y-es'
+slug: 'B07NCNFJ9Y-es Riñonera plana Pepe Jeans Raw'
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

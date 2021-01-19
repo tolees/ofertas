@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fa9WGB4ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B8WW3DA-es'
+slug: 'B01B8WW3DA-es Miraculous Ladybug - Set YO-YO y las pendientes'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HlHh5ePXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C59WWGJ-es'
+slug: 'B07C59WWGJ-es Khanomak Sólido Ligero y Mediana Altura Auto Cinturón de Lazo de la Cinta de la Cintura elastizada Inclinado Bolsillos Delanteros Pantalones Cortos  Grande  Verde de Kelly '
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

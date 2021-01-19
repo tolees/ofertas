@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+t10M5vEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M89GWBT-es'
+slug: 'B07M89GWBT-es Lee Scarlett Corduroy Pantalones  Marfil  Off White 26   32W / 31L para Mujer'
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

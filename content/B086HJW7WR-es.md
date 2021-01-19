@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aaP6k0u4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086HJW7WR-es'
+slug: 'B086HJW7WR-es Seguridad con válvula de respiración adecuada para muchas ocasiones  protección personal para hombres y mujeres adultos  5 unidades '
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

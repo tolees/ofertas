@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YhIaY-siL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G8RQ2CS-es'
+slug: 'B07G8RQ2CS-es Saucony Guide ISO 2  Zapatillas de Running para Hombre  Naranja  Blue/Orange 36   42 EU'
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

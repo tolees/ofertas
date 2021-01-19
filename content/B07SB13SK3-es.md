@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TzeNBJNmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB13SK3-es'
+slug: 'B07SB13SK3-es Energy Sistem Headphones BT Urban 2 Radio Black  Auriculares inalambricos  Reproductor MP3 microSD  Radio  Bluetooth '
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

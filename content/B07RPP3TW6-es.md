@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GrHfZGJ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPP3TW6-es'
+slug: 'B07RPP3TW6-es Gifts Treat Sombrero de niña Summer Sun Hat Sombrero de Boonie de algodón Plegable  Flamenco  54CM '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

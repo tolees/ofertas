@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31psbTEH3VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5VQB9K-es'
+slug: 'B07V5VQB9K-es Adaptador HD Hdmi 90 grados 270 grados Ángulo recto Lado lateral Macho a codo femenino Conversión Tv Turning Elbow - Negro'
 actualPrice: 3.54 EUR
 currency: EUR
 price: 3.54

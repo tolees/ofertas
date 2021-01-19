@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51diobhQBrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFTKRYG-es'
+slug: 'B07BFTKRYG-es Karactermania 37063 Frozen Sister Queens Estuches  22 cm  Azul'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

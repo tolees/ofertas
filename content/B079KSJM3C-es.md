@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416GCD+FSCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KSJM3C-es'
+slug: 'B079KSJM3C-es Amerigo Forma de Bala Whisky Piedras Set de Regalo de Acero Inoxidable - Alta Tecnología de Refrigeración - Whiskey Stones Bullet Gift Set - 6 Cubitos de Hielo Reutilizables para Whiskey + Pinzas'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

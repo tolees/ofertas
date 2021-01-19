@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310ywGEL-mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XABDNUA-es'
+slug: 'B00XABDNUA-es HARIBO - Pasta Basta - Geles dulces con sabor a manzana - 1.72 kg'
 actualPrice: 8.42 EUR
 currency: EUR
 price: 8.42

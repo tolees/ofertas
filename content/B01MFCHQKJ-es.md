@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qGuek8O6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MFCHQKJ-es'
+slug: 'B01MFCHQKJ-es Wet n Wild Coral Support 1 Step Wonder Gel Nail Color Esmalte para las Uñas - 7 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

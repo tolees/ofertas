@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31j-CJ2uQDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PVE6C34-es'
+slug: 'B00PVE6C34-es D-Link DAP-1330 - Repetidor WiFi / amplificador de red WiFi N300  1 puerto LAN Ethernet RJ-45 10/100Mbps  2 antenas externas abatibles  punto de acceso WiFi  802.11b/g/n  WPS  indicador LED de señal '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

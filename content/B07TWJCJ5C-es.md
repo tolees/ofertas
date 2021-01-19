@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aA2acPrAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWJCJ5C-es'
+slug: 'B07TWJCJ5C-es Gant Nicewill  Zapatillas para Mujer  Beige  Yellow/Beige G158   38 EU'
 actualPrice: 35.91 EUR
 currency: EUR
 price: 35.91

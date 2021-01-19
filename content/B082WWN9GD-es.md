@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KbrAZVA3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WWN9GD-es'
+slug: 'B082WWN9GD-es AOQUSSQOA Mujer Trajes de baño de una Pieza con Volantes Trajes de baño con Cuello en V Monokinis Trajes de baño Estilo cambiante Traje de baño de Playa  EU 46-48  XL   Flores Azules '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aPkIRcyaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N26JWYY-es'
+slug: 'B01N26JWYY-es Ozone Neon M50 USB Óptico 5000DPI Mano Derecha Blanco - Ratón  Mano Derecha  Óptico  USB  5000 dpi  115 5 g  Blanco '
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

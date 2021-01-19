@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PD5HZO7yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RN3K7TH-es'
+slug: 'B07RN3K7TH-es Snailax Masajeador de mano eléctrico para masaje de percusión inalámbrico recargable con calor  masajeador portátil para aliviar el dolor SL482-ES'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

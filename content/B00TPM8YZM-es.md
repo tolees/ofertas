@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hUXQdZ7AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TPM8YZM-es'
+slug: 'B00TPM8YZM-es Sesderma Hidraderm Hyal Leche Corporal - 400 ml'
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

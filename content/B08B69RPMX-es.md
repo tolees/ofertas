@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ho+VwF9GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B69RPMX-es'
+slug: 'B08B69RPMX-es Nuevo 20PCS NE555P NE555 DIP-8 TEMPORIZADORES BIPOLARES SIMPLES IC TOP Alta calidad-Negro'
 actualPrice: 1.51 EUR
 currency: EUR
 price: 1.51

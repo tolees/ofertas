@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4104fR+c7CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YXOHIO0-es'
+slug: 'B00YXOHIO0-es Lifestyle 2427 Pelador Vertical para Frutas  Verduras y Tomate  Verde'
 actualPrice: 3.37 EUR
 currency: EUR
 price: 3.37

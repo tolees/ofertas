@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A03A8SclL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AYAIQ38-es'
+slug: 'B01AYAIQ38-es Pyrex Classic Vidrio Fuente para Horno  4.69 cm'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

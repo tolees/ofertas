@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r8q2IpfvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXJWP5X-es'
+slug: 'B07NXJWP5X-es Skechers Dyna-Lights  Zapatillas para Niños  Azul  Navy Mesh/Orange Trim Nvor   32 EU'
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

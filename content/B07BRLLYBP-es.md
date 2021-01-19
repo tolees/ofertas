@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nGAmi6NNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRLLYBP-es'
+slug: 'B07BRLLYBP-es Berglander - Juego de cubiertos  30 piezas  plateado negro  30 piezas Juego de cubiertos  negro  juego de cubiertos  servicio para 6  negro brillante '
 actualPrice: 35.09 EUR
 currency: EUR
 price: 35.09

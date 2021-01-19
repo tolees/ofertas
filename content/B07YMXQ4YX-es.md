@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RyqlvCFyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YMXQ4YX-es'
+slug: 'B07YMXQ4YX-es [en.casa] Pedestal para Lavadora con Cajón de Almacenamiento Soporte Mueble 63 x 54 x 31 cm hasta 150 kg Báse Estándar para Lavadora Plataforma Acero Aluminio Blanco'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

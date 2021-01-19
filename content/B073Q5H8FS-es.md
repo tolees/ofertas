@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418e5aUJ98L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073Q5H8FS-es'
+slug: 'B073Q5H8FS-es Saucony Jazz Original Vintage  Zapatillas de Cross Unisex Adulto  Negro  Black/White   44 EU'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

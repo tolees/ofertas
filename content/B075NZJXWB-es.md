@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318EPNrYHcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NZJXWB-es'
+slug: 'B075NZJXWB-es Apple - Funda de Piel  para el iPad Pro de 10 5 Pulgadas  - Rojo'
 actualPrice: 71.39 EUR
 currency: EUR
 price: 71.39

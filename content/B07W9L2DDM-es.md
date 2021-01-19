@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61KMNBAy0kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W9L2DDM-es'
+slug: 'B07W9L2DDM-es Sntieecr - Hojas de piel sintética con purpurina para hacer lazos de pelo  hacer pendientes y manualidades  32 x 22 cm  9 colores '
 actualPrice: 16.07 EUR
 currency: EUR
 price: 16.07

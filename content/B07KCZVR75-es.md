@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414GWWkaNRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCZVR75-es'
+slug: 'B07KCZVR75-es LANCARDO Reloj Médico de Bolsillo Colgante Enfermera Prendedor Broche Movimiento Cuarzo Multicolor con Clip Uniforme Paramédico Regalo Gracias Doctor Mujer Chica Niña'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

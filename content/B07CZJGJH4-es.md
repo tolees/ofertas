@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RcyNEwvnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZJGJH4-es'
+slug: 'B07CZJGJH4-es Under Armour Charged Cotton 3In 3 Pack Ropa Interior  Hombre  Negro  XL'
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

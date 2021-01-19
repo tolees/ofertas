@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FWf5qWoxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012FZC3DY-es'
+slug: 'B012FZC3DY-es WMF Kitchenminis - Vaporera 900 W  2 Zonas de Cocción y Función de Mantenimiento de la Calor  Acabados de Acero Inoxidable de Cromargan  Capadidad de hasta 4.3L y Depósito de Agua de 1.1L'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

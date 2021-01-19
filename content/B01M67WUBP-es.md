@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41li-15C01L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M67WUBP-es'
+slug: 'B01M67WUBP-es Chicco Humi Fresh - Humidificador de vapor frío con contenedor de esencias y autonomía de 8 horas'
 actualPrice: 37.04 EUR
 currency: EUR
 price: 37.04

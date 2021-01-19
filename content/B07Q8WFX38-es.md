@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hd4HnBrkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q8WFX38-es'
+slug: 'B07Q8WFX38-es Calvin Klein J 4cm Adj.Monogram Canvas Belt Cinturón  Azul  Navy 411   105  Talla del fabricante: 90  para Hombre'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

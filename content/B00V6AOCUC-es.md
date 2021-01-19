@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VzvF00UHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V6AOCUC-es'
+slug: 'B00V6AOCUC-es TE BLANCO INFUSION 20U. C.INDI'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

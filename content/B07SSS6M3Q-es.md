@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NQ6fm8CkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSS6M3Q-es'
+slug: 'B07SSS6M3Q-es Simply Natural Cortaúñas para Mascotas Cortaúñas para Mascotas Muy Afilado para Perros Gatos Pájaros y Rodeores Apto para Todos los Tamaños de Uñas con una Lima de Uñas de 14 cm'
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411vOhmhxnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWKQ22K-es'
+slug: 'B07VWKQ22K-es Skechers Skech-Air Element 2.0  Zapatillas para Mujer  Negro Negro Negro Blanco Malla Ribete BKW  38 EU'
 actualPrice: 50.57 EUR
 currency: EUR
 price: 50.57

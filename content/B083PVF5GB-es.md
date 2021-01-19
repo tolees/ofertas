@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hwzlj31mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083PVF5GB-es'
+slug: 'B083PVF5GB-es Jazmiu - Sombrero unisex divertido con dibujos de frutas  sombrero de pescador para actividades al aire libre  reversible Ba Blanco Taille unique'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

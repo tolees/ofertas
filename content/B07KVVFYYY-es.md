@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uf9OKVnTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KVVFYYY-es'
+slug: 'B07KVVFYYY-es Samsung Galaxy S10 Tim Prism Green 6 1" 512gb Dual Sim'
 actualPrice: 816.9 EUR
 currency: EUR
 price: 816.9

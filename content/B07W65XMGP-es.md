@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wp2rKT9lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W65XMGP-es'
+slug: 'B07W65XMGP-es Tefal Optigrill Elite GC750D Grill parrilla eléctrica interior y exterior  sensor grill automático  sellado rápido  12 programas automáticos  apto para lavavajillas  antiadherente  función sandwichera'
 actualPrice: 159.2 EUR
 currency: EUR
 price: 159.2

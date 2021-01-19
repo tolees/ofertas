@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sk+mVXdTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KW1PUN4-es'
+slug: 'B00KW1PUN4-es CSL - Ventilador USB - Ventilador de Mesa - Ventilador - PC - Portátil - En Blanco'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

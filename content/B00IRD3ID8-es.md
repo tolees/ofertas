@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oEwA1szRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IRD3ID8-es'
+slug: 'B00IRD3ID8-es Shiseido Senscience  Mascarilla de Reparación Profunda  150 ml'
 actualPrice: 14.85 EUR
 currency: EUR
 price: 14.85

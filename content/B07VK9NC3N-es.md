@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Ndl21j1lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VK9NC3N-es'
+slug: 'B07VK9NC3N-es toys'
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

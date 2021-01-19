@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Sgny6KbGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CY6X8X8-es'
+slug: 'B07CY6X8X8-es Scottex - Toallitas Íntimas - 16 packs de 25 toallitas - Total: 400 unidades'
 actualPrice: 18.75 EUR
 currency: EUR
 price: 18.75

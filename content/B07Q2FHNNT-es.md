@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YAkfOnIkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2FHNNT-es'
+slug: 'B07Q2FHNNT-es Pecute Correa Perro  Correa Perro Manos Libres Elástica con Bolsillo  Protege tu Cintura  Cinturón Ajustable  110kg Máximom  Banda Reflectante'
 actualPrice: 16.6 EUR
 currency: EUR
 price: 16.6

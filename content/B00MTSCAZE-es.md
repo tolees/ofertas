@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wy0yQz7-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MTSCAZE-es'
+slug: 'B00MTSCAZE-es Max Factor 53045 Skin Luminizer Base de Maquillaje - 30 ml'
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

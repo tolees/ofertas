@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41etkC-9lSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ4HKCR-es'
+slug: 'B07TZ4HKCR-es Valentino by Mario - Audrey  Carteras de mano Mujer  Rosa  Cipria   4x11.5x17 cm  B x H T '
 actualPrice: 28.18 EUR
 currency: EUR
 price: 28.18

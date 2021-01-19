@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31i-YEQbX5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KDFJQH8-es'
+slug: 'B07KDFJQH8-es adidas T19 TRK Pnt Y Pantalones de Deporte  Unisex niños  Black/White  1516Y'
 actualPrice: 26.16 EUR
 currency: EUR
 price: 26.16

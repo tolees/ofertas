@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61tB4VVSMhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZCHV7S-es'
+slug: 'B077ZCHV7S-es Crazy pawn- Juego de Mesa Dentro del Laberinto  Multicolor  8436564810168 '
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

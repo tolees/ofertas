@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61y4MJXdunL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHZC6H5-es'
+slug: 'B08BHZC6H5-es BOWFU Funda para LG K51 Case [Ranuras de Tarjeta][Soporte Plegable][Cierre Magnético] Cartera Cuero PU Mandala Gofrado Cover para LG K51-Negro'
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

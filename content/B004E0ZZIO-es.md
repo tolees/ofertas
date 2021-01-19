@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/310gwcrKZpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B004E0ZZIO-es'
+slug: 'B004E0ZZIO-es Columbia Sun Ridge Polo de Manga Corta  Hombre  Negro  Black   M'
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

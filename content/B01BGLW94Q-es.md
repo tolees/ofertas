@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hR336CIEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGLW94Q-es'
+slug: 'B01BGLW94Q-es Biotherm Aquasource Crème SPF15 Tratamiento Facial - 50 ml'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

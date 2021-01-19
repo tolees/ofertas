@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412NkZUvtNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7QVYV0-es'
+slug: 'B01K7QVYV0-es La Masía Aceite de Oliva Suave - 1 l'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

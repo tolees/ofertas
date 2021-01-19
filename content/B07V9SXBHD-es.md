@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416HRIJuJFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9SXBHD-es'
+slug: 'B07V9SXBHD-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable CW0101203012'
 actualPrice: 65.97 EUR
 currency: EUR
 price: 65.97

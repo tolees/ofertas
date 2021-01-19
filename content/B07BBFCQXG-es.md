@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QHZknQWOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBFCQXG-es'
+slug: 'B07BBFCQXG-es Versus by Versace Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable VSP762618'
 actualPrice: 187.87 EUR
 currency: EUR
 price: 187.87

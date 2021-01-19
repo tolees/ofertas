@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61mmPXzBZ6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYR7XKJ-es'
+slug: 'B06ZYR7XKJ-es Saint Seiya Hade Sanctuary Blu-Ray [Blu-ray]'
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

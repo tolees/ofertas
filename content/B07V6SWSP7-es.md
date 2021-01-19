@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XJ76QgS+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6SWSP7-es'
+slug: 'B07V6SWSP7-es Kipling PARAC Bolsa de Aseo  22 cm  4.5 Liters  Azul  Blue Bleu '
 actualPrice: 26.46 EUR
 currency: EUR
 price: 26.46

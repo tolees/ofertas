@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q+t1YGP-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJFXJ3B-es'
+slug: 'B07NJFXJ3B-es Naruto Ultimate Ninja Storm Trilogy'
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

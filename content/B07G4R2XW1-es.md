@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+0d-lAhnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4R2XW1-es'
+slug: 'B07G4R2XW1-es De Longhi Dolce Gusto Infinissima EDG260.W - Cafetera de cápsulas  15 bares de presión  color blanco'
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

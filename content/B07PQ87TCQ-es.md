@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AKz5+P2FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQ87TCQ-es'
+slug: 'B07PQ87TCQ-es Kipling - Multiple  Bolsos bandolera Mujer  Verde  Seagrass   20x13x7.5 cm  B x H T '
 actualPrice: 40.33 EUR
 currency: EUR
 price: 40.33

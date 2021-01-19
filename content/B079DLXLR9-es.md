@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O6axzJjrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DLXLR9-es'
+slug: 'B079DLXLR9-es Linterna Taller Lampara led Recargable，HTBAKOI Luz de Trabajo Portatil Mecanico Superbrillante Dual Luz Modo  LED + COB   con Base Magnética 360º Gancho para Coche Hogar Camping Carro Uso Emergencia'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

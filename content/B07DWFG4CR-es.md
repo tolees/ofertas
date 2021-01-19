@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31jUnvUsc7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWFG4CR-es'
+slug: 'B07DWFG4CR-es AmazonBasics - Cable USB A con conector Lightning  colección premium  0 9 m  Pack de 1 - Gris'
 actualPrice: 4 EUR
 currency: EUR
 price: 4

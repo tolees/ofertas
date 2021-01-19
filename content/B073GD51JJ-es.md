@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fc0K7x3vL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073GD51JJ-es'
+slug: 'B073GD51JJ-es Cafetera Expreso de Acero Emilia 1140 W  15 Bares  1 5 L con filtro  Máquina para café con función de espumador para leche y támper + Gratis Espresso-Guide  PDF '
 actualPrice: 79 EUR
 currency: EUR
 price: 79

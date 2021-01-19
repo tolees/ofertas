@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uTY7MQksL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFY13NV-es'
+slug: 'B07KFY13NV-es PUMA LQDCell Shatter XT Wn s  Zapatillas Deportivas para Interior para Mujer  White-Pink Alert  40.5 EU'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

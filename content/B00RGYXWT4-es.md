@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cwgmebLxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RGYXWT4-es'
+slug: 'B00RGYXWT4-es Top Race Control remoto RC Blocks  Robot Vehicle Building Kit. Construya su vehículo y controle con el control remoto inalámbrico  varios colores'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

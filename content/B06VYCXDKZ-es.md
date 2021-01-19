@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413VsaB283L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VYCXDKZ-es'
+slug: 'B06VYCXDKZ-es Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Marino/Blanco   M'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

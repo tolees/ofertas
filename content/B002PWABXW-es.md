@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21O60kEYuTL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002PWABXW-es'
+slug: 'B002PWABXW-es HP 516824-B21 - Disco duro  300 GB  88.9 mm  3.5 "   15000 RPM '
 actualPrice: 253.7 EUR
 currency: EUR
 price: 253.7

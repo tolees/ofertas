@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z7KAYrnyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A3BOFSO-es'
+slug: 'B00A3BOFSO-es Dodot Toallitas Para Bebé 1 Paquetes  64 Toallitas'
 actualPrice: 1.13 EUR
 currency: EUR
 price: 1.13

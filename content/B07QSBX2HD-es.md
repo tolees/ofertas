@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lp4t0eL8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QSBX2HD-es'
+slug: 'B07QSBX2HD-es Funko- 5 Star: Frozen 2-Olaf Disney Figura Coleccionable  Multicolor  41724 '
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

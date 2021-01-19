@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GHJPmYfoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012H8IRLQ-es'
+slug: 'B012H8IRLQ-es Garmin HRM-Swim - Pulsometro deportivo  color Azul'
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

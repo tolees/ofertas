@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21KVpzJGM9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JF4YDHG-es'
+slug: 'B07JF4YDHG-es Abanderado Lote x4 Camisetas Tirantes algodón Ropa Interior  Blanco  Blanco 001   XX-Large  Tamaño del Fabricante:60   Pack de 4  para Hombre'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

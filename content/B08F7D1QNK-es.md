@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419qJOZ5uOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F7D1QNK-es'
+slug: 'B08F7D1QNK-es Adaptador WiFi USB WiFi Antena USB WiFi Adaptador AC1300Mbps WiFi Dongle 5ghz Adaptador USB 3.0 Dongle Dual Band 2.4GHz 5GHz para PC de Escritorio Compatible con Windows Mac OS 10.9-10.14'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

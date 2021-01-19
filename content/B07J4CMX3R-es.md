@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Uz8WOOw7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4CMX3R-es'
+slug: 'B07J4CMX3R-es Misfit Smartwatch MIS7100'
 actualPrice: 128.79 EUR
 currency: EUR
 price: 128.79

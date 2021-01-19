@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31N5MmBRMrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2W95BE-es'
+slug: 'B01N2W95BE-es Signal Frescor Explosivo Blanqueador -75 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

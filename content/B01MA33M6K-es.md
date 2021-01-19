@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51E3QI-CFvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MA33M6K-es'
+slug: 'B01MA33M6K-es Gallia & Corsica - Erweiterung zu Concordia'
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

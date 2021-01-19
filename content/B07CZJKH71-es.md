@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31saGVFxhgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZJKH71-es'
+slug: 'B07CZJKH71-es Under Armour UA Qualifier Half Zip Parte Superior del Calentamiento  Mujer  Negro  Black/Black/Reflective 001   L'
 actualPrice: 22.28 EUR
 currency: EUR
 price: 22.28

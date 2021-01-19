@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tIWElTeZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083NMYNWD-es'
+slug: 'B083NMYNWD-es Baby Teething Toys Silicona suave Mordedor de frutas sin BPA natural con clip/soporte para chupete para niños pequeños y bebés - Púrpura'
 actualPrice: 1.32 EUR
 currency: EUR
 price: 1.32

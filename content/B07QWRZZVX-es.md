@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3183ZfMSrFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWRZZVX-es'
+slug: 'B07QWRZZVX-es AGPTEK Portátil Ventilador de Mano Silencioso con Luz de Color y Batería Recargable de 2600mAh para Oficina  Viajes  Ejercicio al Aire Libre  Blanco'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ijtXKotlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A8PTUMQ-es'
+slug: 'B00A8PTUMQ-es Orlane Fermete Cuidado de Nuit Thermo Lift 50 ml'
 actualPrice: 74.4 EUR
 currency: EUR
 price: 74.4

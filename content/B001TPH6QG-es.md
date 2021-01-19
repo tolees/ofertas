@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HaHyTfa2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001TPH6QG-es'
+slug: 'B001TPH6QG-es Tojiro Cuchillo Deba Japones - Cuchillos de Cocina Profesionales - Acero Inoxidable - Cuchillo Chef para Carne Pescado y Verduras - Cuchillo Cebollero Profesional - Para Sushi y Sashimi - 18cm F-1055'
 actualPrice: 103.87 EUR
 currency: EUR
 price: 103.87

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tRphLlhkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW7WWGV-es'
+slug: 'B07NW7WWGV-es Skechers Street Cleats 2-Fashion Trail  Zapatillas para Mujer  Negro  Black Suede/Duraleather Trim #Flash BBK   35 EU'
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

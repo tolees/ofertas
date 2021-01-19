@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410OeoDievL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EYBGSQ6-es'
+slug: 'B00EYBGSQ6-es Invicta'
 actualPrice: 31.25 EUR
 currency: EUR
 price: 31.25

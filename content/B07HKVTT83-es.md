@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r4ekUXpRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKVTT83-es'
+slug: 'B07HKVTT83-es Intex 58779EU - Colchoneta Hinchable Palomitas con asas'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

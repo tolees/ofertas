@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BD3LRwMwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR8LDGL-es'
+slug: 'B07PR8LDGL-es Nekteck USB C Cargador de Red 72W USB Cargador con el Tipo C 60W PD Power para computadoras portátiles  MacBook Pro  iPad Pro 2018 Amazon Fire Tablet Galaxy S10 / S9  iPad  Pixel 3A / 3A XL y más'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

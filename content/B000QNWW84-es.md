@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HjegwaQdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000QNWW84-es'
+slug: 'B000QNWW84-es Botones pres.sport 15mm lt. plat.+herra.'
 actualPrice: 8.51 EUR
 currency: EUR
 price: 8.51

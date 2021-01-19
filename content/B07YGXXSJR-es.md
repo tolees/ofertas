@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311CUdO9XzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGXXSJR-es'
+slug: 'B07YGXXSJR-es Miquelrius - Agenda 2020'
 actualPrice: 3.55 EUR
 currency: EUR
 price: 3.55

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F0+sFskXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IKNPVPS-es'
+slug: 'B00IKNPVPS-es SportPlus Cinta de Correr 16 km/h con Ajuste de inclinación motorizado  SP-TM-4216E'
 actualPrice: 487.7 EUR
 currency: EUR
 price: 487.7

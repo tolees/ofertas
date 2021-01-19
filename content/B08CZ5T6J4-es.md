@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mK76qtCgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZ5T6J4-es'
+slug: 'B08CZ5T6J4-es NWOUIIAY Batidora de Varillas Eléctrica 300W Batidora Amasadora con Ganchos y Batidores de Acero Inoxidable Batidora de Repostería con 5 Velocidades para Batir Huevo Leche y Masa'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

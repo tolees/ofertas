@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VlYOPyvKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFNP7M9-es'
+slug: 'B07GFNP7M9-es Sombras De Guerra Definitive Edition'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

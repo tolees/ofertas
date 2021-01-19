@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jk8FZVCcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085GC7SMY-es'
+slug: 'B085GC7SMY-es VIPITH Máscara facial de gasa transpirable desechable  antipolvo con bucle elástico y 3 capas de protección  apto para salón  pintura  jardín  empaquetado individual  10 paquetes  azul   azul'
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

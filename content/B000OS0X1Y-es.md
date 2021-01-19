@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Iv44NwSjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OS0X1Y-es'
+slug: 'B000OS0X1Y-es Pfeilring Solingen Pinza de Depilar - 1 Unidad'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

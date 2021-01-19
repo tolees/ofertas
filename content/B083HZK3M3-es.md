@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/618rFTrqMlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HZK3M3-es'
+slug: 'B083HZK3M3-es Charms Bling Glitter Funda ultradelgada para teléfono móvil Ligera Funda Protectora Trasera Adecuada para iPhone'
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

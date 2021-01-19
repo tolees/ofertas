@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xyZq5QWVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGBHXFN-es'
+slug: 'B07JGBHXFN-es Puma Phase Gym Sack Bolsa De Cuerdas  Unisex Adulto  Black/Sweet Lavender  OSFA'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

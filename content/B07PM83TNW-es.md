@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e+6dQz0RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PM83TNW-es'
+slug: 'B07PM83TNW-es Bourjois Velvet The Pencil - Pintalabios Tono 11 Red Vin tage  3g'
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

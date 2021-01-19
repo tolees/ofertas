@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rK-GRhBKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CSC6RV3-es'
+slug: 'B07CSC6RV3-es Puma Vikky Platform Ribbon P  Zapatillas para Mujer  Rosa  Dusty Coral-Dusty Coral   40 EU'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

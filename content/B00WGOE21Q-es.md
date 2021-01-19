@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CZ2V-FmKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WGOE21Q-es'
+slug: 'B00WGOE21Q-es BSN DNA Series Glutamine  Sin Sabor - 309 g'
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Mdi%2BnjfzL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B075KQ8H3Y-es'
+slug: 'B075KQ8H3Y-es Star Ibaby Oxford Cloth - Parque de bebés ultraligero'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KgsOQt2kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYRV81C-es'
+slug: 'B07PYRV81C-es Telmu 10 x 42 Prismáticos con Prisma Superior BAK4 y Lente FMC  Binoculares Compactos para Conciertos  Partidos de Fútbol  Observación de Aves  Correas para Los Hombros y Bolsas'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

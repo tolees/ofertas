@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sjeHPVzQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EV6VGM4-es'
+slug: 'B01EV6VGM4-es Woxter Big Bass 260 S - Altavoces 2.1  150W  subwoofer de madera  control de volumen con cable y doble conexión  adecuado para TV  PC y videoconsolas   plata'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

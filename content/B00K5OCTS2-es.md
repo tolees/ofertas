@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JW-nEYz9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K5OCTS2-es'
+slug: 'B00K5OCTS2-es Vans Y Atwood  Palms  C  Zapatillas Unisex Niños  Rojo  Canvas Oxblood/Black   39 EU'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

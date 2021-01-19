@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WaFxm0a5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX7LN2W-es'
+slug: 'B01LX7LN2W-es Lindt Excellence Tableta de Chocolate Suave 70% - 100 g'
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

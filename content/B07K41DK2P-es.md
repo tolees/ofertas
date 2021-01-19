@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3149D01wm9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K41DK2P-es'
+slug: 'B07K41DK2P-es Funda para Moto Scooter XXL  Cubierta de Moto Impermeable Protección con Recubrimiento de PU  Dobladillos Elásticos y Cinturón a Prueba de Viento'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

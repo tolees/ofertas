@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416Ejj-VnhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXHD937-es'
+slug: 'B07JXHD937-es Wrangler 5 Pocket Short Pantalones Cortos  Verde  Lagoon 42c   W29 para Hombre'
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

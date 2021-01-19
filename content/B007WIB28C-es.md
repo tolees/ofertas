@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GaDKms3kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007WIB28C-es'
+slug: 'B007WIB28C-es Elli Collares de Tanque con Colgante Tortuga en plata de ley 925'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

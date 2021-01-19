@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41e2jdH9bbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL2PDWL-es'
+slug: 'B07BL2PDWL-es New Balance 997H  Zapatillas para Mujer  Gris  Castlerock/White   41.5 EU'
 actualPrice: 45 EUR
 currency: EUR
 price: 45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51keYQrKaIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N7VMIKY-es'
+slug: 'B00N7VMIKY-es Control Chocolate Addiction Preservativos - 12 Unidades'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

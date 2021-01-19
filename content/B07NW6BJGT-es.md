@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417JMI4S-1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW6BJGT-es'
+slug: 'B07NW6BJGT-es Skechers Women s Stamina-Classy Trail Trainers  Black  Orange & Coral Suede/White Mesh/Black & Blue Trim BKW   3.5  36.5 EU '
 actualPrice: 40.03 EUR
 currency: EUR
 price: 40.03

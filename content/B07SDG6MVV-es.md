@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eVx7DGpyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDG6MVV-es'
+slug: 'B07SDG6MVV-es Levi s Malibu Beach S  Zapatillas para Mujer  Blanco  B White 50   37 EU'
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

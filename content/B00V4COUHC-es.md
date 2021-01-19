@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kg3Tau9OL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V4COUHC-es'
+slug: 'B00V4COUHC-es Twins Sweathose mit Knieflicken - Pantalones deportivos Niñas  Morado  amaranth purple 193536   W42/ L30'
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

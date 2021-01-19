@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51K+WEpMwZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZV13GH-es'
+slug: 'B07KZV13GH-es kangyh Cinturón para el Vientre Combo Maternity Belly Band Pantalones elásticos Ajustables Mujeres Embarazadas Solución para Embarazadas'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

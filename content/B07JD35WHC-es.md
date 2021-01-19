@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zWwrlccBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JD35WHC-es'
+slug: 'B07JD35WHC-es HUAWEI 55030369 Viaje Cable de Carga Charger Super Charge 2.0 cp84'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

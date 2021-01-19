@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PfFN2o8vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007PRW9S2-es'
+slug: 'B007PRW9S2-es Orbegozo WF 0242 Ventilador de pared  40 W  3 Velocidades  Blanco'
 actualPrice: 33.93 EUR
 currency: EUR
 price: 33.93

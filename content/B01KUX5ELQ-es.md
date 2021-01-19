@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Btyw5dSbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KUX5ELQ-es'
+slug: 'B01KUX5ELQ-es Reebok Cuerda Saltar'
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

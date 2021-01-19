@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61NEYvY07iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBYGE3X-es'
+slug: 'B01NBYGE3X-es Pyramid International - Felpudo "You Shall Not Pass!" De El Señor De Los Anillos'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

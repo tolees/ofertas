@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xuvWiwcQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E7LOXTW-es'
+slug: 'B00E7LOXTW-es Belkin F8J088bt - Base con cable USB de 1 2 m integrado  conector Lightning  para iPhone 8/8+ y iPhone X  plateado'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

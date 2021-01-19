@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41voGeQ-1ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016BUNZWW-es'
+slug: 'B016BUNZWW-es ASUS Tengo rt3117bt Auto/Interior 90w Negro Adaptador e inversor de Corriente - Fuente de alimentación.'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

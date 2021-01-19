@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bjAAfx5pL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNL6TJF-es'
+slug: 'B07JNL6TJF-es Habitdesign 0M2314M - Mesa de Ordenador con Bandeja Extraible Mesa Escritorio Modelo I-Joy  Medidas: 90 x 79 x 54 cm de Fondo  Fucsia '
 actualPrice: 37.83 EUR
 currency: EUR
 price: 37.83

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rojTkGjvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5PHNWH-es'
+slug: 'B07G5PHNWH-es Max Factor  Base de maquillaje  Tono: 80 Deep Bronze  Pieles Oscuras  - 115 ml.'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

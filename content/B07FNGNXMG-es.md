@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zu4m7-4hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNGNXMG-es'
+slug: 'B07FNGNXMG-es Jack & Jones Jjestructure Knit Crew Neck Noos suéter  Negro  Black Black   Large para Hombre'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

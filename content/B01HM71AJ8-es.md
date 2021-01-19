@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JG4gu5UgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HM71AJ8-es'
+slug: 'B01HM71AJ8-es Ferrari 0830339 RedRev Evo - Reloj analógico de pulsera para hombre  cuarzo  correa de silicona '
 actualPrice: 117.02 EUR
 currency: EUR
 price: 117.02

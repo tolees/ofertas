@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313hZlzHHPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002AMUGOG-es'
+slug: 'B002AMUGOG-es Sisley Gel Nettoyant Gommant Pour Le Visage 100 ml'
 actualPrice: 54.52 EUR
 currency: EUR
 price: 54.52

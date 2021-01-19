@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GNw3XHxFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRX0VI8-es'
+slug: 'B01MRX0VI8-es Meliconi Speak Pro - Auricular DJ estéreo  Color Negro'
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

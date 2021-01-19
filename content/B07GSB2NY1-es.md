@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vVan7mLlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSB2NY1-es'
+slug: 'B07GSB2NY1-es Vibram Fivefingers V 2.0  Zapatillas de Trail Running para Hombre  Negro  Black/Yellow Black/Yellow   47 EU'
 actualPrice: 47.59 EUR
 currency: EUR
 price: 47.59

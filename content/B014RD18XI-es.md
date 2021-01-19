@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41m-oVyQUqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B014RD18XI-es'
+slug: 'B014RD18XI-es Elten 2062237 - Luis s3 tamaño 49 zapato de seguridad'
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

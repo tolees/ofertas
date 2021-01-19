@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cbtA7B6IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKLZ9PM-es'
+slug: 'B07CKLZ9PM-es BlueXP 2 Piezas Armario Interruptor para Puerta del Gabinete del Interruptor de la Puerta se Apaga Cuando la Puerta Está Cerrada el Interruptor Presiona el Interruptor de Arranque Colore Blanco'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

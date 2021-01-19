@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xizry+DLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGVBCXT-es'
+slug: 'B07PGVBCXT-es Belkin Boost Up Soporte de carga inalámbrica de 10 W  cargador para iPhone 11  11 Pro/Pro Max  XS  XS Max  XR  SE  Samsung Galaxy S20  S20+  S20 Ultra  S10  S10+ y S10e  con enchufe británico  blanco '
 actualPrice: 20.31 EUR
 currency: EUR
 price: 20.31

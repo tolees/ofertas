@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ArsFJD5OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D75YSCS-es'
+slug: 'B07D75YSCS-es Brewsly Botella de Agua - 1000ML de Doble Pared con Aislamiento Botella Térmica  Acero Inoxidable 18/8  Proceso de Recubrimiento en Polvo  Resistencia al Rayado  Fácil de Limpiar  Blanco'
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

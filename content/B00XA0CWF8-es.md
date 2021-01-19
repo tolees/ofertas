@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Y4jFfVbZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA0CWF8-es'
+slug: 'B00XA0CWF8-es Pantene Mascarilla Repara y Protege- 300 ml'
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

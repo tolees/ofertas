@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iNwPi3qeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MS4RBRL-es'
+slug: 'B01MS4RBRL-es Supportiback® Cojín ortopédico para ciática  espalda  caderas  articulaciones  alivio de dolores de embarazo y dormir de lado — Diseño ergonómico médico contorneado con espuma de memoria'
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

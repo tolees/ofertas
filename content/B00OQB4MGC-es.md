@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kOlcmHddL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OQB4MGC-es'
+slug: 'B00OQB4MGC-es High Peak Bermuda Tarp Grau Tienda  Gris  360 x 360 x 360 cm'
 actualPrice: 15.2 EUR
 currency: EUR
 price: 15.2

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CZe3oD1LL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKHBK2G-es'
+slug: 'B07DKHBK2G-es Kipling - Money Power  Carteras Mujer  Morado  Active Lilac Bl '
 actualPrice: 22.2 EUR
 currency: EUR
 price: 22.2

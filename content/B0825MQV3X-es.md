@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31v5gqOMK-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825MQV3X-es'
+slug: 'B0825MQV3X-es Quiksilver Principle - Cinturón De Nailon Belts  Hombre  Black  1SZ'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311vT1lEP-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVQDLXY-es'
+slug: 'B07PVQDLXY-es Under Armour Men s Driver Cap 3.0 Gorras de béisbol con Visera  Gorrapara Hombre  Azul  OSFA'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

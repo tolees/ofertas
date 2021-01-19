@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Y-7EKYyWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FQUA5NU-es'
+slug: 'B01FQUA5NU-es Brújula de Orientación  la Herramienta Básica para Supervivencia y Navegación durante Acampada  Senderismo  Excursionismo  - Aguja Magnética  con Líquido  Cojinete Azimut  con Graduaciones por Mapa'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zXYp4jIZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5NC1VH-es'
+slug: 'B07R5NC1VH-es Extracto de Maca Andina Ecológica Premium para 9 meses | 300 comprimidos de 2500mg | Altamente concentrada 10:1 | Aumenta Energía y Vitalidad | Libre de Plástico | Certificación Ecológica Oficial'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

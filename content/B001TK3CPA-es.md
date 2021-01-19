@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GMNbUy0FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001TK3CPA-es'
+slug: 'B001TK3CPA-es Casio Reloj de Pulsera MTP-1290D-2AVEF'
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

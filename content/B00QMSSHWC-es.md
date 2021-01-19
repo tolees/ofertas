@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LrUCJXZ1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QMSSHWC-es'
+slug: 'B00QMSSHWC-es Optimum Nutrition Gold Standard 100% Caseina  Cookies & Cream - 896 g'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

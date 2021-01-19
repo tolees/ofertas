@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GuOLANjxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBSC7Q2-es'
+slug: 'B07XBSC7Q2-es Trust Yvi Ratón inalámbrico - Azul'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

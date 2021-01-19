@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ihQ5zKoKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088NK8M6F-es'
+slug: 'B088NK8M6F-es Tela algodon para coser 7 PCS  DIY Floral Telas Patchwork Material Cuadrados con Cuerda Elástica Puente de la Nariz Clip Tira  Tela por metros Manualidades para costura de acolchado de Scrapbooking'
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

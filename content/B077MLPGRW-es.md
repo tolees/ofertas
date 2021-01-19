@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c-pDkoMpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MLPGRW-es'
+slug: 'B077MLPGRW-es PUMA NRGY Comet  Zapatillas de Running Unisex-Adulto  Negro Black White  42 EU'
 actualPrice: 30.5 EUR
 currency: EUR
 price: 30.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Naat2LzVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076G7M6DW-es'
+slug: 'B076G7M6DW-es PUMA Smash v2 L Jr  Zapatillas Unisex Niños  White White  38 EU'
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

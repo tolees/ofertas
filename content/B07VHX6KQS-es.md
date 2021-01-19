@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BHsyS0A7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHX6KQS-es'
+slug: 'B07VHX6KQS-es Pimkie Puw19 Puca suéter  Marrón  Autres 786a06   Small para Mujer'
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

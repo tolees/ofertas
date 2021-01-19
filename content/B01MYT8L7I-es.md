@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xHMPYIByL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYT8L7I-es'
+slug: 'B01MYT8L7I-es Audio Pro Addon T5 - Altavoz inalámbrico  Color Blanco'
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

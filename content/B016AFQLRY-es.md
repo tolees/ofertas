@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XNgylrh5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016AFQLRY-es'
+slug: 'B016AFQLRY-es Dormio Zafiro Colchón viscoelástico  Blanco  105 x 200 x 24 cm  Todas las medidas '
 actualPrice: 99.96 EUR
 currency: EUR
 price: 99.96

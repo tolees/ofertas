@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LqaSSWCeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W5KYNFD-es'
+slug: 'B06W5KYNFD-es Braun Minipimer 3045 Batidora de Mano  pié metálico  2 velocidades  Campana antisalpicaduras  2 Accesorios  minipicadora 350 ml  700 W  600 milliliters  Metal  Blanco y Azul'
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

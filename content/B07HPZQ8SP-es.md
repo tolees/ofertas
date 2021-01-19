@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31P+U9TPqeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HPZQ8SP-es'
+slug: 'B07HPZQ8SP-es Funko- Pocket Pop Keychain: Fortnite: Cuddle Team Leader  Multicolor  35717    color/modelo surtido'
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

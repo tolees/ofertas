@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312WAwPrgfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BY1P1M3-es'
+slug: 'B07BY1P1M3-es JAIMIE JACOBS Key Boy Llavero de Cuero  Marrón '
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cIx7L4CqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G31OPB0-es'
+slug: 'B00G31OPB0-es Kingston DTVP30/8GB - Memoria USB 3.0 de 8 GB'
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

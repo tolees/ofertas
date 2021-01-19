@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51obc3TPOIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8LT8KF-es'
+slug: 'B07M8LT8KF-es Wrangler Arizona Pantalones  Azul  Court Yard 60f   32W / 34L para Hombre'
 actualPrice: 42.48 EUR
 currency: EUR
 price: 42.48

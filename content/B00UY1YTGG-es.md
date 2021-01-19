@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411su1M-ltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UY1YTGG-es'
+slug: 'B00UY1YTGG-es PopSockets PS04454 - Soporte telescópico para Smartphones y tabletas  Estilo Negro'
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

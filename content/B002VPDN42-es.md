@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VK5CT6t4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002VPDN42-es'
+slug: 'B002VPDN42-es Superga 2750 Jvel Classic Zapatillas Unisex Niños  Blanco  White   37 EU  4 UK '
 actualPrice: 28.13 EUR
 currency: EUR
 price: 28.13

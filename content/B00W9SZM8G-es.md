@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51frUpj4ERL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W9SZM8G-es'
+slug: 'B00W9SZM8G-es Calvin Klein Radiant Cotton-Bikini Lencería  Negro  Black 001   Medium para Mujer'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

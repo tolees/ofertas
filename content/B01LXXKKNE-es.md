@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418l62KyXyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXXKKNE-es'
+slug: 'B01LXXKKNE-es Panasonic Lumix DMC-FZ2000- Cámara digital híbrida de 20.1 MP  Zoom óptico 20x  Objetivo LEICA  Wi-Fi  Visor OLED  Grabación de Vídeo en 4K  Sensor MOS -Color Negro'
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zOUOQEP3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGQKPPD-es'
+slug: 'B07RGQKPPD-es Tommy Hilfiger TJM Classics Longsleeve Polo  Blanco  White Ya2   Small para Hombre'
 actualPrice: 27.05 EUR
 currency: EUR
 price: 27.05

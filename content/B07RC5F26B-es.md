@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mc0vC8BoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC5F26B-es'
+slug: 'B07RC5F26B-es PUMA Challenger Duffel Bag M Bolsa Deporte  Adultos Unisex  Peacoat  OSFA'
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

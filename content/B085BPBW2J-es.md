@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wCpolzr+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085BPBW2J-es'
+slug: 'B085BPBW2J-es HIDARLING Bolsa Seca Impermeable con Correa Larga Ajustable  Viajes de Playa  natación  Rafting  Surf  Ciclismo  Senderismo  Acampada  Amarillo  10L '
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

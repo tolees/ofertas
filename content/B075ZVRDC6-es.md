@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5132-52nhuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZVRDC6-es'
+slug: 'B075ZVRDC6-es keeeper Hamaca de Baño Antideslizante Cars  De 0 a 6 Meses  Leon  Gris'
 actualPrice: 10.15 EUR
 currency: EUR
 price: 10.15

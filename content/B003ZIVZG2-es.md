@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414yFnYZeUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ZIVZG2-es'
+slug: 'B003ZIVZG2-es Patron Añejo Tequila - 700 ml'
 actualPrice: 48.15 EUR
 currency: EUR
 price: 48.15

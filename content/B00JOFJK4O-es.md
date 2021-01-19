@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413xuXoGpgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JOFJK4O-es'
+slug: 'B00JOFJK4O-es Festina Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable F16761/1'
 actualPrice: 116.48 EUR
 currency: EUR
 price: 116.48

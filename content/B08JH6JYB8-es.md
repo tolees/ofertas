@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JrxaF2qSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JH6JYB8-es'
+slug: 'B08JH6JYB8-es Auriculares Bluetooth 5.0 Auricular Inalámbrico reducción de Ruido estéreo 3D HD Control Táctil Auriculares In-Ear IPX5 Impermeables Sport Auriculares para Android/iPhone/Airpods/Samsung'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

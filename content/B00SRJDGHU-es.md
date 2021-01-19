@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QGS2vt36L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SRJDGHU-es'
+slug: 'B00SRJDGHU-es Asics Mexico 66  Zapatillas de Deporte Unisex Adulto  Blanco  White/Dark Blue 0152   37.5 EU'
 actualPrice: 67.6 EUR
 currency: EUR
 price: 67.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412t5r87ogL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001NYDGT4-es'
+slug: 'B001NYDGT4-es Reebok Classic Leather Zapatillas  Mujer  Negro  Int / Black   37.5 EU'
 actualPrice: 63.9 EUR
 currency: EUR
 price: 63.9

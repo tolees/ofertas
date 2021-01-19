@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zw4Au36hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R69GB6M-es'
+slug: 'B07R69GB6M-es Pendrive 32GB 3 Piezas Memorias USB 2.0 - Metal Aluminio Flash Drive 32 GB con Llevaro para Empresa de Conferencia - Datarm Portátil Pen Drive 3 Unidades Almacenamiento de Datos Económico Llaves USB'
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

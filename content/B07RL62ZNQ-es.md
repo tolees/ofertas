@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ltNe2R4pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RL62ZNQ-es'
+slug: 'B07RL62ZNQ-es Under Armour UA Charged Assert 8 LTD  Zapatillas para Correr  Calzado Deportivo para Hombre  Negro  Black/White/White   42 EU'
 actualPrice: 37.51 EUR
 currency: EUR
 price: 37.51

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eCKEmUDKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFDDVV4-es'
+slug: 'B07TFDDVV4-es Tristar KA-5215 Calefactor eléctrico  mica  – 3 ajustes – Termostato ajustable'
 actualPrice: 23.37 EUR
 currency: EUR
 price: 23.37

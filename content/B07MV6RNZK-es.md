@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rbQ3aKQAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV6RNZK-es'
+slug: 'B07MV6RNZK-es TWBB Hombres Casual Elastic Sport Solid Pockets Pantalones'
 actualPrice: 1.96 EUR
 currency: EUR
 price: 1.96

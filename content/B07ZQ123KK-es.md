@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31U5rZ5opFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZQ123KK-es'
+slug: 'B07ZQ123KK-es KOKO Zhu Espejo de lechón Asiento de Seguridad para el automóvil Vista Interior Vista Posterior del bebé Orientación Posterior Cuidado Niño Niños'
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

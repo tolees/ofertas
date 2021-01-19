@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OOw7-Y1VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085KX43TW-es'
+slug: 'B085KX43TW-es YMing Velas Aromaticas  Velas de Te  Set de Regalo de Velas Candelitas Altamente Perfumadas para Yoga  Meditación  Relajación  Higo Mediterráneo  Limón  Primavera  Lavanda  - Paquete de 48'
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

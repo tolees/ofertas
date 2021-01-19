@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/210u4x6LlyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YKV8T6N-es'
+slug: 'B07YKV8T6N-es Precision Kids V'
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

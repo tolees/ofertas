@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31diYDM1qiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089M6DG6M-es'
+slug: 'B089M6DG6M-es QacQoc Ventilador de Mano USB  Mini Ventilador Portátil Recargable con Carga USB y Base  3 Velocidad para el Hogar  Sueño  Trabajo  Acampada  Viajes'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

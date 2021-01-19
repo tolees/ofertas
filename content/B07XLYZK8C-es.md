@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nlKsYJlZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLYZK8C-es'
+slug: 'B07XLYZK8C-es Axe Necesser Ice Chill Bodyspray 150 ml + Eau de Toillete 50 ml'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

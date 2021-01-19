@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qbQ2erqKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TGNZN1F-es'
+slug: 'B07TGNZN1F-es Only & Sons NOS Onssato 7 Multi Clr Knit Noos suéter  Gris  Light Grey Melange Detail: Melange   Small para Hombre'
 actualPrice: 10.71 EUR
 currency: EUR
 price: 10.71

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ufQzCATgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDCR8FC-es'
+slug: 'B07NDCR8FC-es Desigual 19WAYA01 - Cartera para mujer de Sintético Mujer Rojo Rojo  GRANATE OSCURO 3099  1x15.5x22.5 cm  B x H x T '
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

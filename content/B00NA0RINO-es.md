@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iawGH9GbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NA0RINO-es'
+slug: 'B00NA0RINO-es Shaon KIENZLE - Reloj de cuarzo para hombres  color plata'
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

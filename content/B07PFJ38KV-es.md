@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W2plZG1TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFJ38KV-es'
+slug: 'B07PFJ38KV-es NASUM Mini Ventilador  USB Ventilador Portatil Batería Recargable con 3 Modos de Velocidad  Ventilador de Mano para Oficinas Casas Coches al Aire Libre Rosado '
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

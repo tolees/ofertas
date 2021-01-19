@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ez1OuD8mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0HJ5DJ-es'
+slug: 'B01N0HJ5DJ-es Salomon Speedcross Vario 2 GTX Calzado de Trail Running  Hombre  Negro  Phantom/Black/Monument   40 2/3 EU'
 actualPrice: 60.65 EUR
 currency: EUR
 price: 60.65

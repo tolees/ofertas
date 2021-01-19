@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fL5AkQx+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004KQXS8G-es'
+slug: 'B004KQXS8G-es adidas Barra de Empuje'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

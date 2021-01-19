@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ojb0zQCLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYOMBC0-es'
+slug: 'B01LYOMBC0-es Gaming ratón Zelotes 12 botones Ratón Gaming Programable 4000 dpi   hasta 8000DPI por el software   peso Tuning Set  multi-modes LED luces  negro '
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

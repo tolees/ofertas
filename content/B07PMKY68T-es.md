@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iEP5LfuLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMKY68T-es'
+slug: 'B07PMKY68T-es Dickie - Harry Potter - Coche Ford Anglia 1:24     3185002 '
 actualPrice: 21.31 EUR
 currency: EUR
 price: 21.31

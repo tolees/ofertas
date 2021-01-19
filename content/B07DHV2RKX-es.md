@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41i1I%2Bv8shL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHV2RKX-es'
+slug: 'B07DHV2RKX-es AmazonBasics - Juego de ropa de cama con funda de edredón  de microfibra  230 x 220 cm  Morado  Purple Dusk '
 actualPrice: 17.17 EUR
 currency: EUR
 price: 17.17

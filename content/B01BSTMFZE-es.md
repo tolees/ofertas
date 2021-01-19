@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BUYkT08GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSTMFZE-es'
+slug: 'B01BSTMFZE-es Casio Reloj Analogico-Digital para Hombre de Cuarzo con Correa en Resina AEQ-110W-1AVEF'
 actualPrice: 33.41 EUR
 currency: EUR
 price: 33.41

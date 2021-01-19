@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pI9dMtUkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J5CC68I-es'
+slug: 'B00J5CC68I-es The London Nº1 Ginebra - 1000 ml'
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

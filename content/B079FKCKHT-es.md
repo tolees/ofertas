@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lxIgaON9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FKCKHT-es'
+slug: 'B079FKCKHT-es Casio EDIFICE Reloj en caja sólida de acero inoxidable  10 BAR  Blanco  para Hombre  con Correa de Cuero  EFV-100L-7AVUEF'
 actualPrice: 52.98 EUR
 currency: EUR
 price: 52.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4113971uDtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076GWNDS5-es'
+slug: 'B076GWNDS5-es Oxímetro de Pulso Dedo Pulsioxímetro JUMPER para Saturación de Oxígeno en la Sangre y Medición de la Frecuencia del Pulso  Elegante Morado '
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

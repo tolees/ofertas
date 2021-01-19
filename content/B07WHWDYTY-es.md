@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FIA89fUIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHWDYTY-es'
+slug: 'B07WHWDYTY-es MYMISS San Valentín Regalos pendientes mujer plata zirconia perlas negra joyas pendientes regalos san valentin mujer boda niñas novia regalo para mujer madre e hija profesora'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

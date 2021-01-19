@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IefRaIUGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW6YCPV-es'
+slug: 'B07NW6YCPV-es Skechers Women s Stamina-Classy Trail Trainers  Green  Off White Suede/Mesh/Off White & Gum Trim Old   3  36 EU '
 actualPrice: 42.75 EUR
 currency: EUR
 price: 42.75

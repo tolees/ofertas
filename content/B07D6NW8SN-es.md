@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yw9sFFgGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6NW8SN-es'
+slug: 'B07D6NW8SN-es Kingston SUV500/1920G - Unidad de Disco Duro SSD  1920 GB  SATA3  2.5"'
 actualPrice: 246.54 EUR
 currency: EUR
 price: 246.54

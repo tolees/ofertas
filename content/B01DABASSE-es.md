@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zMS9NZR4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DABASSE-es'
+slug: 'B01DABASSE-es Creed. La Leyenda De Rocky Blu-Ray Steelbook [Blu-ray]'
 actualPrice: 15.33 EUR
 currency: EUR
 price: 15.33

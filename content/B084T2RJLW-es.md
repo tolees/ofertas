@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ybH9IjSqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084T2RJLW-es'
+slug: 'B084T2RJLW-es AngLink Ventilador Cuello  Ventilador Portatil  USB Recargable Mini Ventilador de Manos Libres  3 velocidades  rotación Libre de 360 °  luz LED  para Mascotas Viajes Interior Exterior'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

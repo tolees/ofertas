@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417cdCFMdHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BLE985G-es'
+slug: 'B01BLE985G-es Kerastase Densifique Homme Treatment 30 X - 6 ml'
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

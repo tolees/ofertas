@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xP3AxgI-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0040AF4QG-es'
+slug: 'B0040AF4QG-es Securit Trendy Range - Funda para entrega de cuentas en restaurantes  23 x 13 cm   color negro'
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

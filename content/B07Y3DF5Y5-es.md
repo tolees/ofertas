@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eEBiOGw4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y3DF5Y5-es'
+slug: 'B07Y3DF5Y5-es Rowenta RR6933WH - Robot Aspirador con mopa y depósito de Agua  aspira y friega a la vez. Sensores que evitan choques y caídas  150 min de autonomía'
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

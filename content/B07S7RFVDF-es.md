@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O2sgeDZsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7RFVDF-es'
+slug: 'B07S7RFVDF-es PUMA STEPFLEEX 2 SL VE V INF  Zapatillas Unisex niños  Azul  Peacoat White/Firecracker   20 EU'
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

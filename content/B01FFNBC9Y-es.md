@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417GI7rfo9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFNBC9Y-es'
+slug: 'B01FFNBC9Y-es Under Armour HG Armour 2.0 3/4 Legging Leggings  Hombre  Gris  Carbon Heather/Black 090   L'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

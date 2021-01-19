@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gdOPBGTaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0123ZOAI2-es'
+slug: 'B0123ZOAI2-es Yamaha WX- 030 - Altavoz de streaming con conexión Bluetooth  color negro'
 actualPrice: 182.78 EUR
 currency: EUR
 price: 182.78

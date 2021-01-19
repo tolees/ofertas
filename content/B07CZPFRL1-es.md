@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qa069XGPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZPFRL1-es'
+slug: 'B07CZPFRL1-es Under Armour Sportstyle Wind Parte Superior del Calentamiento  Hombre  Negro  XL'
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

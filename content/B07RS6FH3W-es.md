@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419gQUufesL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS6FH3W-es'
+slug: 'B07RS6FH3W-es Tommy Hilfiger - Modern Nylon Mini Crossover  Shoppers y bolsos de hombro Hombre  Negro  Black   3x20x18.5 cm  W x H L '
 actualPrice: 48.79 EUR
 currency: EUR
 price: 48.79

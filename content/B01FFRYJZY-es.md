@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510zSqG+r2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFRYJZY-es'
+slug: 'B01FFRYJZY-es 12pcs Negro Y Blanco A Cuadros Fórmula Uno Que Compite Con F1 Mano Que Agita La Bandera'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

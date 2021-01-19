@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31vSNidIX5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BJQ3KJQ-es'
+slug: 'B01BJQ3KJQ-es NGS Fog - Ratón inalámbrico  Color Blanco'
 actualPrice: 4.77 EUR
 currency: EUR
 price: 4.77

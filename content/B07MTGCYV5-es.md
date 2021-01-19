@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gaWnCajWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTGCYV5-es'
+slug: 'B07MTGCYV5-es 1Life Auriculares SoundOne Micrófono Ultra Ligero'
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

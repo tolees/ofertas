@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51otDgzkcjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071NLLJXC-es'
+slug: 'B071NLLJXC-es Marvel Comics MAY172531 Figura de acción de Daredevil Netflix.'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dVc6mBxUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009HNKP9M-es'
+slug: 'B009HNKP9M-es Rayen 6061 - Funda para aire acondicionado  con doble sistema de ajuste  90 x 55 x 30 cm'
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

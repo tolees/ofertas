@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416GKAF2pYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082Z6ML5V-es'
+slug: 'B082Z6ML5V-es Wanxian Lámpara de Ventilador de Escritorio 2600mAh Batería Rrecargable USB Ventilador Personal 3 Velocidades 3 Brillo de Luz Pequeño LED Lámpara Ventilador de Mesa'
 actualPrice: 16.63 EUR
 currency: EUR
 price: 16.63

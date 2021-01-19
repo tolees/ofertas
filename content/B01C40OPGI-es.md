@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fPn-vQyPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C40OPGI-es'
+slug: 'B01C40OPGI-es Rowenta Air Force Extreme RH8828WO - Aspirador sin cable y bolsa  tecnología ciclónica  25.2 V  autonomía 45 min  batería ion litio  cabezal delta  cepillo motorizado  3 velocidades  fácil almacenar'
 actualPrice: 156.67 EUR
 currency: EUR
 price: 156.67

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413yynr9L1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXTZQGJ-es'
+slug: 'B07PXTZQGJ-es Under Armour UA W Charged Rogue 2  Zapatillas de Running para Mujer  Azul  Rift Blue/Rift Blue/Blue Haze   42 EU'
 actualPrice: 31.36 EUR
 currency: EUR
 price: 31.36

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z-P85npcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4RJVW6-es'
+slug: 'B07G4RJVW6-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Oro Rosa 1781963'
 actualPrice: 97.0 EUR
 currency: EUR
 price: 97.0

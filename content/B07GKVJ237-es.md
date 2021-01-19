@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QnZV1hfsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKVJ237-es'
+slug: 'B07GKVJ237-es China Yunnan Puer té Lotus Puerh Tuocha Pequeña hoja de loto en conserva Pu er té maduro 100g  0.22LB  té orgánico Pu er té Té negro Té chino Pu er té Puerh té Pu-erh té Pu erh té té cocido té rojo'
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

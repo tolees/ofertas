@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41g8iv0NjRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JY9M3QK-es'
+slug: 'B07JY9M3QK-es Tommy Hilfiger Jute Detail Flatform Sneaker  Zapatillas para Mujer  Azul  Midnight 403   40 EU'
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

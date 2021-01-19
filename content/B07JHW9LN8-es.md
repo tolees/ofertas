@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iH1xUdKBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHW9LN8-es'
+slug: 'B07JHW9LN8-es Columbia Nikiski  Botas Bajas para Mujer  Verde  Nori  Daredevil   39 EU'
 actualPrice: 23.06 EUR
 currency: EUR
 price: 23.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yxeyHXdCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9RRC38-es'
+slug: 'B07S9RRC38-es PUMA RS-X Reinvent WN S  Zapatillas para Mujer  Rosa  Rosewater/Plein Air   38 EU'
 actualPrice: 81.71 EUR
 currency: EUR
 price: 81.71

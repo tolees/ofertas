@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Gfkgr1bPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXQHPL4-es'
+slug: 'B07YXQHPL4-es Máscara para pelo  Cabello Mascarillas  Magical Hair Mask  Reparación Profunda reconstructor instantáneo para cabello dañado  5 Seconds to Restore Softer Hair for Damaged  Dry Hair 120 ml'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

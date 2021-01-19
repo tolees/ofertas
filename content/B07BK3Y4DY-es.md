@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b+ow+lRAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BK3Y4DY-es'
+slug: 'B07BK3Y4DY-es Rodillos de Espuma 2 en 1 para Masajes Musculares Profundos  Rodillo de hule para Masajes Profundos en Puntos de Dolor en Músculos Rígidos  Rodillo Suave para Rehabilitación y dos Pelotas para Masajes'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

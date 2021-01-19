@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61zFl+OjwTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EUJ8I74-es'
+slug: 'B00EUJ8I74-es Nostalgic-Art - Placa metálica Decorativa  15 x 20 cm   diseño Cuba Libre'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

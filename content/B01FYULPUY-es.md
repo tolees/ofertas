@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rsHrjeo2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FYULPUY-es'
+slug: 'B01FYULPUY-es AMTION Crafts Bone Folder Scoring Folding Creasing Paper Crafting Tool DIY Leather Burnishing by AMTION'
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

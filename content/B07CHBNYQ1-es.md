@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RdnmtwRtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHBNYQ1-es'
+slug: 'B07CHBNYQ1-es Samsung HW-N400  Barra de Sonido Inalámbrica Estéreo 2 Ch  1  Negro'
 actualPrice: 116.22 EUR
 currency: EUR
 price: 116.22

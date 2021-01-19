@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512hGv8d2sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1BGRSJ-es'
+slug: 'B07K1BGRSJ-es 50 Pruebas De Ovulación 20 Miu/Ml  Tiras De Prueba De Ovulación  Tests de Ovulación 50  Lh  Sensible y Preciso Resultados'
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315XgSQw-EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHS3KW3-es'
+slug: 'B07VHS3KW3-es Calvin Klein Exposed Waistband Milano Pant Pantalones  Negro  CK Black Bae   W36  Talla del Fabricante: X-Large  para Hombre'
 actualPrice: 29.34 EUR
 currency: EUR
 price: 29.34

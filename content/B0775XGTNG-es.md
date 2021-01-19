@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oLYylDIJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0775XGTNG-es'
+slug: 'B0775XGTNG-es Gifort Esponja de Silicona  3 Piezas Silicona Esponja de cocina  Scrubber para Cocina para Ollas de Cocina  Tazón de Fuente de Pan  Frutas y Verduras'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jDSJW-Y6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ1LRY2-es'
+slug: 'B07TZ1LRY2-es Kipling Baroe S  Monederos para Mujer  Plateado  Metallic Glow   11.5x7x3 cm'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

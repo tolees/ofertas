@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31v8BPwsrWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6J58BB-es'
+slug: 'B07J6J58BB-es Under Armour UA W Breathe Lace  Zapatillas para Mujer  Blanco  White 104   36.5 EU'
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

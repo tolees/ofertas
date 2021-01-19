@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LjA8XXOZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JVL4EBK-es'
+slug: 'B00JVL4EBK-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable LTP-1302PSG-7AVEF'
 actualPrice: 43.33 EUR
 currency: EUR
 price: 43.33

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DQ-BhL4eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071GQHX3K-es'
+slug: 'B071GQHX3K-es Johnnie Walker Blue Label Whisky Edición Limitada Barcelona - 700 ml'
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

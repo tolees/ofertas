@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31p+GiFuSYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4JQDVL-es'
+slug: 'B07L4JQDVL-es Philips Batidora de mano ProMix HR2657/90 varilla  800 W  Acero inoxidable'
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+gJmjnYkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DR3ZR6V-es'
+slug: 'B08DR3ZR6V-es Capturadora de vídeo HDMI USB 2.0 Caja de captura de video HDMI HD 1080P Transmisión en vivo para videocámara de DVD Grabación de cámara  Grabber gráfico para juegos  transmisión  videoconferencia'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fd148ATJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2QMBFH-es'
+slug: 'B07S2QMBFH-es New Balance 574v2  Zapatillas para Hombre  Gris  Grey Sok   40 EU'
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K+2J1D4TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013WMBT34-es'
+slug: 'B013WMBT34-es Russell Hobbs Fiesta - Fondue Eléctrica  1200 W  1 7l  Acero Inoxidable  para Fundir Chocolate o Queso  - ref. 22560-56'
 actualPrice: 33.91 EUR
 currency: EUR
 price: 33.91

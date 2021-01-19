@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EJonaD+6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K69PWLT-es'
+slug: 'B07K69PWLT-es Ganchos adhesivos KGOGO – Ganchos mágicos para colgar toallas  ganchos de techo  ganchos de cocina  sin agujeros  adecuados para cocina  cuarto de baño  8 kg máx  6 unidades '
 actualPrice: 11.7 EUR
 currency: EUR
 price: 11.7

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31PGPXi39wL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WDWVX1-es'
+slug: 'B074WDWVX1-es Belkin Rockstar - Adaptador de Audio de 3.5 mm + Carga  de Puerto Auxiliar para iPhone/de Carga para iPhone 11  11 Pro/Pro Max  XS  XS MAX  XR  8/8 Plus y Otros '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

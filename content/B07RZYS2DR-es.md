@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wEtb+S-6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZYS2DR-es'
+slug: 'B07RZYS2DR-es Love MoschinoJc4089pp1aMujerBolsos totesPlateado  Argento 12x26x40 centimeters  W x H x L '
 actualPrice: 106.96 EUR
 currency: EUR
 price: 106.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418W9mHsYuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077WKJLHF-es'
+slug: 'B077WKJLHF-es afeitadora hombre corporal cable recortadora barba profesional con cable  maquina profesional cortar pelo  afeitar barba y cuerpo  cortapelos pubis'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

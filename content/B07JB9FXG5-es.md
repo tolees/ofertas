@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j9iGR6RAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JB9FXG5-es'
+slug: 'B07JB9FXG5-es Vsadey Suero facial de vitamina C con ácido hialurónico puro + vitamina E  suero bio Antiarrugas  suero antiarrugas hidratante para el cuerpo Cuerpo natural de vitamina C 30 ML'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

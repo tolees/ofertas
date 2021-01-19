@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51O3hIpTVGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SVV5D7-es'
+slug: 'B078SVV5D7-es Sharplace 62 Piezas Modelo Árbol para Paisaje Landscape Modelismo Espada Hierba y Palmera'
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

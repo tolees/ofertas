@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GeOkhLJxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKK35BT-es'
+slug: 'B07GKK35BT-es WD My Passport Ultra - Disco Duro Externo para Mac de 2 TB  Preparado para USB-C'
 actualPrice: 98.37 EUR
 currency: EUR
 price: 98.37

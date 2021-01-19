@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413QWLsiqmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KLZ2LWK-es'
+slug: 'B07KLZ2LWK-es BRIKSMAX Kit de Iluminación Led para Barco En Botella-Compatible con Ladrillos de Construcción Lego Modelo 21313  Juego de Legos no Incluido'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

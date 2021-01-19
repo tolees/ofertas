@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RcdiqctlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005UVO3GG-es'
+slug: 'B005UVO3GG-es Cuéntame Cómo Pasó - Temporada 12 [DVD]'
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

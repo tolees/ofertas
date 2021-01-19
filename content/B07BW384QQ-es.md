@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oeHLtg5fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BW384QQ-es'
+slug: 'B07BW384QQ-es seQoya - Yosemite | Reloj de Madera con Esfera de Madera y Correa de Piel ecológica simulando Madera Estampada | Reloj Hombre y Mujer | Diseño único y Original'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410h3k8J4qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S6YATTE-es'
+slug: 'B00S6YATTE-es Max Factor Eye Luminizer Miracle Base de Maquillaje Tono 3 Light - 100 gr'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

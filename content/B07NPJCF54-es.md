@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41y8NY3-aHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPJCF54-es'
+slug: 'B07NPJCF54-es Skechers Dynamight 2.0-fallford  Zapatillas para Hombre  Gris  Gris  Charcoal/Black Ccbk   45 EU'
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

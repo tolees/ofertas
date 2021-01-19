@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51baVSfJMxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9W7ATK-es'
+slug: 'B00X9W7ATK-es L Oreal Paris Sublime Mousse Coloración Permanente 700 Castaño Muy Claro Natural'
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

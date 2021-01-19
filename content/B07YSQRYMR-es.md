@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U8o73ugIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSQRYMR-es'
+slug: 'B07YSQRYMR-es runya Teclado Numérico Inalámbrico 2.4G Mini 18 Teclas Numérico Inalámbrico Keypad con Receptor USB para PC Ordenador portátil o de Escritorio Notebook'
 actualPrice: 7.61 EUR
 currency: EUR
 price: 7.61

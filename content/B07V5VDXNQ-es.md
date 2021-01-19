@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411lFAZUZpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5VDXNQ-es'
+slug: 'B07V5VDXNQ-es Tommy Hilfiger - Th Metro Ns Trifold  Carteras Hombre  Negro  Black   1x1x1 cm  W x H L '
 actualPrice: 38.13 EUR
 currency: EUR
 price: 38.13

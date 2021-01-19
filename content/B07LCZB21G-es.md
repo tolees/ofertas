@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4106TGQqU8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LCZB21G-es'
+slug: 'B07LCZB21G-es 26mm+28mm Grass Strimmer Trimmer Cepillo Cortador Tubo Manija De Mano De Mano Soporte De Fijación Fijar Abrazadera'
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

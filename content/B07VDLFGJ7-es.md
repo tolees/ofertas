@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xhcXxxbvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDLFGJ7-es'
+slug: 'B07VDLFGJ7-es Vans Atwood Canvas  Zapatillas para Hombre  Gris   Enzyme Wash  Drizzle/White W58   38.5 EU'
 actualPrice: 46.75 EUR
 currency: EUR
 price: 46.75

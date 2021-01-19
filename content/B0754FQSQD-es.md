@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UjdnXn9OL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0754FQSQD-es'
+slug: 'B0754FQSQD-es Salomon Agile Long Tight M Mallas para Running  Mezcla de sintéticos  Hombre  Negro  XL'
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

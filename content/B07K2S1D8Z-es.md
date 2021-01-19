@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mxun2Hm8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2S1D8Z-es'
+slug: 'B07K2S1D8Z-es Under Armour UA HOVR Rise  Zapatillas Deportivas para Interior para Hombre  Rojo  Martian Red/Gray Flux/Martian Red   42 EU'
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

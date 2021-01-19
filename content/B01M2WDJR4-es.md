@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41svd-VjPjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M2WDJR4-es'
+slug: 'B01M2WDJR4-es Luceco lfs6b130 de la UE a +  Foco LED  aluminio  8 Watts  Negro  33 x 28 5 x 15 cm'
 actualPrice: 4.36 EUR
 currency: EUR
 price: 4.36

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YmFYS6X4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2JHF39-es'
+slug: 'B07Q2JHF39-es YaYuu Compatible Samsung Galaxy Watch Active/Active2 40mm 44mm Correa de Reloj 20mm Silicona Banda de Reemplazo Pulsera para Galaxy Watch 42mm/Gear Sport/Gear S2 Classic/Garmin Vivoactive 3/Ticwatch 2'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

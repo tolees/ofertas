@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sQwWe5L0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKZRMQ7-es'
+slug: 'B07PKZRMQ7-es New Balance 574v2  Zapatillas para Hombre  Verde  Green/Red Green/Red   36 EU'
 actualPrice: 41.16 EUR
 currency: EUR
 price: 41.16

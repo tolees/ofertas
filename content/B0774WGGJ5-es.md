@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516qrpqe3-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0774WGGJ5-es'
+slug: 'B0774WGGJ5-es Pop Lobo Vinyl Figure'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

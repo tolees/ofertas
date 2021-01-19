@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ft0rxRXWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073BVMCRY-es'
+slug: 'B073BVMCRY-es Saucony Jazz Original Vintage  Zapatillas de Cross para Hombre  Negro  Black / White 10   38.5 EU'
 actualPrice: 53.19 EUR
 currency: EUR
 price: 53.19

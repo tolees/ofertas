@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414A5HPbWbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KKT87Q-es'
+slug: 'B071KKT87Q-es YAZILIND Elegante Joyas de Estilo Floral con Encanto Chapado en Oro Nupcial Accesorio de Pelo Shinning Rhinestone Barrette de Pelo de Cristal para Las Mujeres Clips Horquillas de Pelo  Morado '
 actualPrice: 2.61 EUR
 currency: EUR
 price: 2.61

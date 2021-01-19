@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JjovU4fXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCBK6PP-es'
+slug: 'B07TCBK6PP-es The North Face M Merak Forro Polar  Hombre  TNF Black/TNF b  S'
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

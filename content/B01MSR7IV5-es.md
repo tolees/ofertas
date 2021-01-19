@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zedJuG2eL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSR7IV5-es'
+slug: 'B01MSR7IV5-es Aigle B. Flac  Botas de Agua Unisex Niños  Rosa  Guimauve   21 EU'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318wYR06RdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSZQR7M-es'
+slug: 'B07FSZQR7M-es Clarks Glove Puppet  Mocasines para Mujer  Naranja  Orange Nubuck-   37.5 EU'
 actualPrice: 30.18 EUR
 currency: EUR
 price: 30.18

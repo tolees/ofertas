@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B40gX8Z6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2ZZ8J2-es'
+slug: 'B07F2ZZ8J2-es adidas Falcon W - Zapatillas para Mujer  Blanco  38 EU'
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

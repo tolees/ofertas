@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pbbtv6sDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9VT4HX-es'
+slug: 'B06X9VT4HX-es E-Deals - Balón de fútbol de Espuma Suave  20 cm   Color Rojo'
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

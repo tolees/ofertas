@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xFEazRx1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0722NYZDG-es'
+slug: 'B0722NYZDG-es Logitech M590 Silent Ratón Inalámbrico  Multi-Dispositivos  2.4 GHz o Bluetooth con Receptor USB Unifying  Seguimiento 1000 DPI  Batería 2 Años  PC/Mac/Portátil  Rojo'
 actualPrice: 35.78 EUR
 currency: EUR
 price: 35.78

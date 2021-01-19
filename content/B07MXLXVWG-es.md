@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Pd39Q4gpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXLXVWG-es'
+slug: 'B07MXLXVWG-es GANT Kelly  Mocasines para Mujer  Negro  Black G00   39 EU'
 actualPrice: 72.09 EUR
 currency: EUR
 price: 72.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JZrzm16TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ61BC5-es'
+slug: 'B07TQ61BC5-es Grifo de filtro de agua potable de acero inoxidable para fregadero de cocina  compatible con todos los sistemas de ósmosis inversa  sin plomo  cepillado  un solo mango negro negro'
 actualPrice: 38.56 EUR
 currency: EUR
 price: 38.56

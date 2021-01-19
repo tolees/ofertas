@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PTAlXUtVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GH3RHVH-es'
+slug: 'B07GH3RHVH-es Skechers Stamina-Contic  Zapatillas para Hombre  Gris  Gray & Red Gray Leather/PU/Blue Mesh/Black Trim Gymt   42.5 EU'
 actualPrice: 41.26 EUR
 currency: EUR
 price: 41.26

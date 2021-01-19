@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iurbwwGjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004D3UPB4-es'
+slug: 'B004D3UPB4-es Creation Station - Lote de limpiapipas  tamaño Jumbo   Colores Surtidos'
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SjBi06OUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TY3QJVN-es'
+slug: 'B07TY3QJVN-es Alcatel 1S - Smartphone de 5.5"  Octacore  RAM de 4 GB  memoria interna de 64 GB  ampliable micro SD  cámara trasera 16+2 MP  frontal 8 MP '
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

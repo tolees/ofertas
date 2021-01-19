@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lSaIUErbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0822XDRJ8-es'
+slug: 'B0822XDRJ8-es LACORAMO Alarma Sensor De Puerta y Ventana Con Remoto  Sensor Puerta Con Receptor De Alarma Enchufable Con 656 Pies Rango 52 Timbres Volumen De 5 Niveles Con Indicador Led'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

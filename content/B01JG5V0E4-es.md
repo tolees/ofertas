@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gV1GQ86IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JG5V0E4-es'
+slug: 'B01JG5V0E4-es Gianni Versace Versace Dylan Azul por Gianni Versace'
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f7eDUPabL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0722Y8KSG-es'
+slug: 'B0722Y8KSG-es Bosch EasyDrill 1200 - Atornillador con batería de litio 12V 1 5 Ah en maletín  con punta doble  luz de trabajo  dos velocidades 11/20 Nm y par giro 15+1 '
 actualPrice: 69.15 EUR
 currency: EUR
 price: 69.15

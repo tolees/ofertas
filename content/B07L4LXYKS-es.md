@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pqc8W1g8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4LXYKS-es'
+slug: 'B07L4LXYKS-es 60 x 85cm Almohadilla Térmica Eléctrica para la Espalda  Hombros y Cuello Calentado con Tecnología de Calentamiento Rápido con 5 Niveles de Temperatura - Apagado Automático - Azul oscuro'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

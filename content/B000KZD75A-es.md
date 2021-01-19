@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eFs2xHLsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KZD75A-es'
+slug: 'B000KZD75A-es Lowepro Torba Apex 120 AW Black'
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

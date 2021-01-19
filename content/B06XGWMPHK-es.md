@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mxeTf+SYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGWMPHK-es'
+slug: 'B06XGWMPHK-es Figura Pop trollhunters Toby'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

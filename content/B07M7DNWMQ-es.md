@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41prIpVwASL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7DNWMQ-es'
+slug: 'B07M7DNWMQ-es Hackett Amr Long Contrast Paraguas   Navy/Red 5dc   Talla única  Talla del fabricante: 000  para Hombre'
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

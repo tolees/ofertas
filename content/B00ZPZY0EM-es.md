@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kPjT2kN5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZPZY0EM-es'
+slug: 'B00ZPZY0EM-es Roca AG0082700R  Ducha de Mano con una Función  Cromado'
 actualPrice: 10.36 EUR
 currency: EUR
 price: 10.36

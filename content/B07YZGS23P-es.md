@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gHrBt521L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZGS23P-es'
+slug: 'B07YZGS23P-es Siux Cajon DE 24 Botes con Bolas Match'
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

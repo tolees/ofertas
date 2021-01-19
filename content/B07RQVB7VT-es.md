@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41buS4hOMrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQVB7VT-es'
+slug: 'B07RQVB7VT-es 3D Simulación de la Vagina  la Lengua y los Dientes  Fácil de Usar y Lavar'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

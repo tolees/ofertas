@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gFdVU7wgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084S6WW9H-es'
+slug: 'B084S6WW9H-es Spiderman Dark-Carpeta Anillas'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21GTrUbXtgL._SL500_._AC_._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B5ZX9FM-es'
+slug: 'B00B5ZX9FM-es Audio-Technica AT2020USB - Micrófono  Studio  20-20000 Hz  Cardioid  Alámbrico  3 1m  374g  Negro'
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

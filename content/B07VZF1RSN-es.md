@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xBFYOcXGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZF1RSN-es'
+slug: 'B07VZF1RSN-es Lurrose 80 pañuelos pañuelos pañuelos toallas limpias para el maquillaje.'
 actualPrice: 2.43 EUR
 currency: EUR
 price: 2.43

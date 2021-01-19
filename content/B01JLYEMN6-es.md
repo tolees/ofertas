@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516lyKN3yRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JLYEMN6-es'
+slug: 'B01JLYEMN6-es Wooden Magic Única Cereza 30 cm Sistema de ajedrez de Madera Artesanal'
 actualPrice: 30.79 EUR
 currency: EUR
 price: 30.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wU3uLuTqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0196KDZL0-es'
+slug: 'B0196KDZL0-es New Balance 577 Training h  Zapatillas Deportivas para Interior para Hombre  Multicolor  Grey/Yellow 033   42 EU'
 actualPrice: 31.34 EUR
 currency: EUR
 price: 31.34

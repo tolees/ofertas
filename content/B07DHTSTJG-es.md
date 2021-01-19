@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31K+ljG5xVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHTSTJG-es'
+slug: 'B07DHTSTJG-es Lacoste Graduate BL 1 SFA  Zapatillas para Mujer  Azul  Navy/White   41 EU'
 actualPrice: 53.96 EUR
 currency: EUR
 price: 53.96

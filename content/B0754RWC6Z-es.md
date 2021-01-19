@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bK2NVIddL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0754RWC6Z-es'
+slug: 'B0754RWC6Z-es Salomon Mallas 3 y 4 para running  agile mid tight  tejido de punto  negro  mujer  talla: M'
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

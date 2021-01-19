@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yD7WcXcTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DQSFS8Q-es'
+slug: 'B01DQSFS8Q-es Reloj MASERATI - Hombre R8823124001'
 actualPrice: 157.83 EUR
 currency: EUR
 price: 157.83

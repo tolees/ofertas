@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rMbL9-LfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RVBS7DW-es'
+slug: 'B07RVBS7DW-es SNK NEO GEO MINI Samurai Shodown V ED. UKYO Tachibana'
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

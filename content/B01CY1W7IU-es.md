@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31vU9Mtb6hL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CY1W7IU-es'
+slug: 'B01CY1W7IU-es HUION Inalámbrico Tableta Gráfica  WH1409 '
 actualPrice: 80.09 EUR
 currency: EUR
 price: 80.09

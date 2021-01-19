@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4179z+5pJxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJMRDTL-es'
+slug: 'B08BJMRDTL-es Sivane Aire humidificador ultrasónico difusor de aromaterapia de Carga USB para el hogar Humidificadores'
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

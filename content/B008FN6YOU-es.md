@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wl0CN0qiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008FN6YOU-es'
+slug: 'B008FN6YOU-es Optimum Nutrition ON Opti-Men  Suplemento multivitamínico  multivitaminas y minerales para hombres con BCAA  glutamina  vitamina C  zinc y magnesio  sin sabor  60 porciones  180 cápsulas'
 actualPrice: 26.61 EUR
 currency: EUR
 price: 26.61

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T99oW+piL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YZHF21-es'
+slug: 'B077YZHF21-es Casio Reloj Digital para Mujer de Cuarzo con Correa en Resina LA-20WH-4A1EF'
 actualPrice: 23.73 EUR
 currency: EUR
 price: 23.73

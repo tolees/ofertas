@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41na75cR5IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082V4WNMM-es'
+slug: 'B082V4WNMM-es Canadian Peak Anorak'
 actualPrice: 65.84 EUR
 currency: EUR
 price: 65.84

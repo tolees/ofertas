@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pt8G57FrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BFT1Y9Q-es'
+slug: 'B08BFT1Y9Q-es RE Anillo de Luz LED 6 Pulgadas con Soporte de Móvil Ajustable 360 Rotación  3 Colores Modos y 10 Brillos Niveles Aro de Luz para Movil Selfie o TikTok Youtube Video  Instagram Facebook o Maquillajes'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

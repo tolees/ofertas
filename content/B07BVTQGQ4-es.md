@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BjBdwie5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVTQGQ4-es'
+slug: 'B07BVTQGQ4-es seQoya - Purple Heart| Reloj de Madera con Esfera de Madera y Correa de Piel ecológica simulando Madera Estampada | Reloj Hombre y Mujer | Diseño único y Original'
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

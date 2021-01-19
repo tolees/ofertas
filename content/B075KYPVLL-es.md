@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31T2JUclMQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075KYPVLL-es'
+slug: 'B075KYPVLL-es Apple Funda Leather Case  para el iPhone 8 Plus / iPhone 7 Plus  -  PRODUCT RED'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B1pOm1gsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JYZ96Z-es'
+slug: 'B079JYZ96Z-es YAZILIND elegante joyer¨ªa de dise?o simple plata plateado gotas de agua aretes de oreja ganchos para las mujeres'
 actualPrice: 1.46 EUR
 currency: EUR
 price: 1.46

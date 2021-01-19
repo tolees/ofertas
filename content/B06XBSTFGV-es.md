@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51r%2B2ym0MAL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XBSTFGV-es'
+slug: 'B06XBSTFGV-es 8 pcs máscara encaje negro de KAKOO de modo diferente suave para bar  fiesta  party'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Kqrc5lm8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDH83DK-es'
+slug: 'B07SDH83DK-es adidas W Mh 3s Dk Pant Sport Trousers  Mujer  Black/White  S'
 actualPrice: 31.12 EUR
 currency: EUR
 price: 31.12

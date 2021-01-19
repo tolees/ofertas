@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uHJPRirYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQ91ZP4-es'
+slug: 'B07YQ91ZP4-es Frozen Nature-Mochila Bouquet'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

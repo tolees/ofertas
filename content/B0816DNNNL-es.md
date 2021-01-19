@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DXubAbPSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0816DNNNL-es'
+slug: 'B0816DNNNL-es Cepillo para Perros y Gatos  Secador para Perros  Pienes para Perros Temperatura Ajustable  kupet   BP09A '
 actualPrice: 28.69 EUR
 currency: EUR
 price: 28.69

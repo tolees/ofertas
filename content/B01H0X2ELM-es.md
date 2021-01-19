@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jWGFfAnXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H0X2ELM-es'
+slug: 'B01H0X2ELM-es South Park: Retaguardia En Peligro - Standard Edition'
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

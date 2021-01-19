@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mmUe31M-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H5KHPWS-es'
+slug: 'B01H5KHPWS-es Pikolin Home - Protector de colchón para cuna de rizo  100% algodón  impermeable y transpirable  60x120-Cuna  Todas las medidas '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

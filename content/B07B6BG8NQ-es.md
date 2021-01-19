@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bg6l9nkTL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B6BG8NQ-es'
+slug: 'B07B6BG8NQ-es Lacoste Reloj Multiesfera para Mujer de Cuarzo con Correa en Silicona 2001025'
 actualPrice: 123.62 EUR
 currency: EUR
 price: 123.62

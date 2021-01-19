@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ytG8TcRoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRNR64N-es'
+slug: 'B07VRNR64N-es Onnea 5 Pares Pendientes Aro de Acero Inoxidable para Mujer Oro Plata Oro Rosa  Diámetro 10 mm 12 mm 14 mm 16 mm 18 mm  Plata '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

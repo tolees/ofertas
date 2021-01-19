@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419FVS-HcyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DA4IQRQ-es'
+slug: 'B01DA4IQRQ-es Seiko Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable SUR744P1'
 actualPrice: 95.49 EUR
 currency: EUR
 price: 95.49

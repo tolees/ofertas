@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SBbASyOuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08514SYMT-es'
+slug: 'B08514SYMT-es Mascarillas mascarillas desechables antivirus corta saliva mascarillas protectoras unisex para adultos contra el viento y las bacterias  40 '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

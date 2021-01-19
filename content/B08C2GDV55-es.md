@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414Ue73vGcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C2GDV55-es'
+slug: 'B08C2GDV55-es Qomolo Compresor de Aire Coche Portátil  12V Bomba de Aire Eléctrico Hinchador con Luz LED 4 Adaptadores de Válvulas  para Inflar Neumáticos de Coche Motocicleta Bicicleta y Baloncesto  120PSI'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410YPakPYzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I8EVCJ8-es'
+slug: 'B00I8EVCJ8-es Epson C13T789440 - Tóner para impresoras láser  4000 páginas  color amarillo'
 actualPrice: 40.13 EUR
 currency: EUR
 price: 40.13

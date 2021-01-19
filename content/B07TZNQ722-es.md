@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QsuMyOl2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZNQ722-es'
+slug: 'B07TZNQ722-es Funko- Pop TV: Black Mirror-Doll w/Evil Chase  Styles May Vary  Collectible Toy  Multicolor  45366 '
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

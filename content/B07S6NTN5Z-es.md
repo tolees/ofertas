@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318hL26xqbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NTN5Z-es'
+slug: 'B07S6NTN5Z-es PUMA Smash v2  Zapatillas Unisex Adulto  Azul  Peacoat-Tapioca Team Gold White 37   47 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

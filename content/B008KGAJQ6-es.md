@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zX2OO8f5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008KGAJQ6-es'
+slug: 'B008KGAJQ6-es Seanergy Crema Corporal 300 ml'
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

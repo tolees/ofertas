@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aJT2HarqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NV86WDH-es'
+slug: 'B07NV86WDH-es YuhooTech Cámara Trasera Lente Pantalla para Huawei P20 Pro  Protector de Pantalla Cámara Cristal Vidrio Templado Premium-1 Pack'
 actualPrice: 1.22 EUR
 currency: EUR
 price: 1.22

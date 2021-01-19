@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YfMLMK2wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHBNWCD-es'
+slug: 'B07BHBNWCD-es Kipling - New Hiphurray L Fold  Bolsos totes Mujer  Blanco  Lively White   0.1x45x49.5 cm  B x H T '
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

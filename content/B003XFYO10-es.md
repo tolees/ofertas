@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41roIu8v0BL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003XFYO10-es'
+slug: 'B003XFYO10-es Kyocera Mita 1T02KVCNL0 - Cartuchos de tóner  color cian'
 actualPrice: 87.8 EUR
 currency: EUR
 price: 87.8

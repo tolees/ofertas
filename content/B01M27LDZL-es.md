@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XZENpVyYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M27LDZL-es'
+slug: 'B01M27LDZL-es Dunlop OMEGA - Pala de pádel 38mm  2017  nivel iniciación  color verde'
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w8vngyLlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXTZG4Q-es'
+slug: 'B07PXTZG4Q-es Under Armour UA W Charged Pursuit 2  Zapatillas de Running para Mujer  Blanco  White   39 EU'
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

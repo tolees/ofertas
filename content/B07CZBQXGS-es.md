@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZfqhyvXyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZBQXGS-es'
+slug: 'B07CZBQXGS-es Under Armour Men s Golf Headline Cap 3.0 Visera Clásica  Gorra para Hombre  Negro  XL/XXL'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412dQpYbyaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VE41OG-es'
+slug: 'B000VE41OG-es Casio WAVE CEPTOR Reloj Radiocontrolado  Negro  para Hombre  con Correa de Resina  WV-59E-1AVEF'
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

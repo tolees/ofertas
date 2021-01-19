@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qd8vdeSOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRTDF53-es'
+slug: 'B07SRTDF53-es Darksiders Genesis - PC'
 actualPrice: 15.55 EUR
 currency: EUR
 price: 15.55

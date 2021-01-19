@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vgjjw2MxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWLZCTR-es'
+slug: 'B07PWLZCTR-es Niños Microscopio Preparado Diapositivas  Bysameyee Plástico 48 Piezas Animales Insectos Plantas Flores Muestras de muestras para Estudiantes Educación en el hogar Biología Ciencia Programas'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

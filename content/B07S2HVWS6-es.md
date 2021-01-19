@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XsRMbRqtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2HVWS6-es'
+slug: 'B07S2HVWS6-es FILA - Women Bra - Pink Panther'
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

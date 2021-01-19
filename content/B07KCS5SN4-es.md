@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z9Ja05K0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCS5SN4-es'
+slug: 'B07KCS5SN4-es CYBEX - Silla de Paseo Eezy S  Plegable con una Mano  Ultracompacta y Ultraligera  desde los 6 Meses hasta 17 kg  aprox. 4 años   Colección denim  Manhattan Grey'
 actualPrice: 190.46 EUR
 currency: EUR
 price: 190.46

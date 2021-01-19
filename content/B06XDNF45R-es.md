@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41g2-r2iXcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDNF45R-es'
+slug: 'B06XDNF45R-es Phister Philina B0303-0441-Camiseta de Manga Larga Bebé-Niñas Gris  Dark Shadow Dar  68 cm'
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

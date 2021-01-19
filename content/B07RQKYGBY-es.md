@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412n0tm5ydL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQKYGBY-es'
+slug: 'B07RQKYGBY-es BESCHOI Espejo Maquillaje con Luz LED  Espejo Aumento 5X  Espejo Cosmético Pantalla Táctil，Regulable Luz LED Diurna  Rotación de 120°  Carga con USB  Portátil y Sin Cable（Blanco）'
 actualPrice: 16.41 EUR
 currency: EUR
 price: 16.41

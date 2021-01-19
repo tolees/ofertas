@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GlV+HkG6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7S3INK-es'
+slug: 'B01K7S3INK-es Gillette Piel Sensible - Gel de Afeitado para Hombre 200 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

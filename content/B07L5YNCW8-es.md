@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413alKZhJFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L5YNCW8-es'
+slug: 'B07L5YNCW8-es adidas Terrex Skychaser LT GTX  Zapatillas de Cross para Hombre  Negro  Carbon/Core Black/Grey Four F17 Carbon/Core Black/Grey Four F17   48 EU'
 actualPrice: 56.56 EUR
 currency: EUR
 price: 56.56

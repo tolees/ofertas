@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418uUIfhf8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFNXR3Q-es'
+slug: 'B07YFNXR3Q-es ENJOHOS Arnés de Escalada  arnés Arnés de Escalada  arnés guía  Cinturones de Seguridad para montañismo de Alto Nivel Espeleología de Rescate Recordatorio de Escalada Equipar Medio Cuerpo'
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

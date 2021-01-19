@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31CdTw9oz9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQCZZCI-es'
+slug: 'B01MQCZZCI-es Cáncer de Mama Pasadores Broche de Conciencia Caridad Cinta Accesorios Ropa - Plata'
 actualPrice: 4.08 EUR
 currency: EUR
 price: 4.08

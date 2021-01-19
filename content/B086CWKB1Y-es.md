@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LN7JZAMQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086CWKB1Y-es'
+slug: 'B086CWKB1Y-es WaYiNg #B006 - Hombre Short Sleeve Motogp Vr46 The Doctor Rossi T-Shirt Cool Funny Gift Present Rucio Medium'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

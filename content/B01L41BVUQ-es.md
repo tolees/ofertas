@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NszVUZu7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L41BVUQ-es'
+slug: 'B01L41BVUQ-es Havaianas Origine III  Alpargatas Unisex Adulto  Azul  Navy Blue/Beige   42 EU'
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

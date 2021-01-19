@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kWmLSA7zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQJCMVQ-es'
+slug: 'B07WQJCMVQ-es Baoblaze Regla De Planchado En Caliente Patchwork Tailor Craft DIY Herramienta De Medición De Suministros De Costura'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qVKaTupEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CEVRCOU-es'
+slug: 'B00CEVRCOU-es Vanguard Endeavor XF 80A - Catalejo en ángulo  Zoom de 20-60x  Ocular '
 actualPrice: 296.65 EUR
 currency: EUR
 price: 296.65

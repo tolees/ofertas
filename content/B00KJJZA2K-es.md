@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LrHfJYlDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KJJZA2K-es'
+slug: 'B00KJJZA2K-es Vans Y Atwood - Zapatillas para niños  Color Army/Negro  Talla 36.5 EU'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

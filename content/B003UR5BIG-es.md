@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-Nt1ndYYL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003UR5BIG-es'
+slug: 'B003UR5BIG-es Escobilla Flexible inoxidable  pelo de cabra de limpieza para radiador'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

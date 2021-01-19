@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KDCBeTLQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0053A0MSW-es'
+slug: 'B0053A0MSW-es Anti Manchas Cara  Anti Manchas Piel  Crema blanqueadora  Anti Manchas regeneradora y aclarante  Crema Hidratante Aclarante y Anti Manchas con Vitamina C  para las manchas producidas por la edad  Tratamiento Antienvejecimiento y Blanqueador para Manchas Oscuras  Cicatrices y Arrugas del Acné  30ml'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

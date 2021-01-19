@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZyLR+U7mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKHKJC9-es'
+slug: 'B07ZKHKJC9-es 120x120cm Manta de muselina para bebé manta para bebé Algodón 100% Recién nacido Toalla de baño para bebé Mantas Swaddle Multi Diseños Funciones - Multicolor'
 actualPrice: 4.14 EUR
 currency: EUR
 price: 4.14

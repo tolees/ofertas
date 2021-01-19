@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/612decd+bRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFCXG6W-es'
+slug: 'B01FFCXG6W-es Dino Dini s Kick Off Revival - Day One Edition'
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

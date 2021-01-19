@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51v7ImsIimL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QSZW52D-es'
+slug: 'B07QSZW52D-es SIMUER 3Pcs Bolsa de Riñonera Impermeable Funda con Triple Cierre Hermético y Cinta Ajustable Bolsa Estanca Bolsas de Deporte para Móvil Cámara Efectivo Mp3 Pasaporte  Azul Verde Amarillo '
 actualPrice: 9.18 EUR
 currency: EUR
 price: 9.18

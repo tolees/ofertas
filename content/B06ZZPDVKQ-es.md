@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m5Yjr6XkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZPDVKQ-es'
+slug: 'B06ZZPDVKQ-es HAISSKY Multifuncional Deportes al Aire Libre Corriendo Brazalete Brazo Tel¨¦Fono Celular Bolsa con Titular Clave  Bolsa de la Tarjeta para Tel¨¦fonos Inteligentes hasta 6.2"'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YJjwoKizL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL39LTF-es'
+slug: 'B07BL39LTF-es New Balance Fuel Cell Impulse  Zapatillas de Running para Mujer  Blanco  White/Voltage Violet/Light Cyclone WP   36 EU'
 actualPrice: 35.31 EUR
 currency: EUR
 price: 35.31

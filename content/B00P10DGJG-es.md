@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21GX6Kzo0CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P10DGJG-es'
+slug: 'B00P10DGJG-es Carolina Herrera 212 Femme Perfume - 150 ml'
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

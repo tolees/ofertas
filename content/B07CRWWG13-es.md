@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-pLYy8WnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CRWWG13-es'
+slug: 'B07CRWWG13-es Philips Sonicare ProtectiveClean HX6857/17 - Cepillo de dientes eléctrico con sensor de presión  tecnología BrushSync  3 modos de limpieza con 2 cabezales y estuche de viaje  color blanco'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

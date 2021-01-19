@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-64dnTBIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSJ85LN-es'
+slug: 'B07NSJ85LN-es Lorus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable RG229PX9'
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

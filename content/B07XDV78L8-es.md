@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Lz+ZlczUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDV78L8-es'
+slug: 'B07XDV78L8-es PUTORSEN® Soporte Monitor Doble PC Brazo para Monitor Escritorio de Las Pantallas de TV  LCD y computadora de17”-27”/43-68cm  Resorte de Gas  Acero  Abrazadera Escritorio VESA 75/100mm  Peso 2-6.5kg'
 actualPrice: 59.87 EUR
 currency: EUR
 price: 59.87

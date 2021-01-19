@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TUodrpBHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FZKXLYR-es'
+slug: 'B07FZKXLYR-es RIIQIICHY Mujer Cachemira Bufanda Pashmina Chal Armada Invierno Cálida Grande Larga Suave Manta para Mujeres'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mQk-mm2ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VG3PHLS-es'
+slug: 'B07VG3PHLS-es SmartDevil [2 Pack Protector Pantalla de Huawei P30 Pro Cristal Templado Huawei P30 Pro Vidrio Templado [Fácil de Instalar] [3D Borde Redondo] [Garantía de por Vida] para Huawei P30 Pro'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

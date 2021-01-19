@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YCkNuEMpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NQX4EHI-es'
+slug: 'B00NQX4EHI-es rubyca cadena de serpiente plata encanto pulsera'
 actualPrice: 26.36 EUR
 currency: EUR
 price: 26.36

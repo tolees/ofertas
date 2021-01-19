@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PFS96gPkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JO7JWFE-es'
+slug: 'B00JO7JWFE-es Astor Soft Sentation Color & Care Barra de Labios Tono 301 Satin Mauve - 19 gr'
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

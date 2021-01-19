@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KXU+-vdBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CCPHLJI-es'
+slug: 'B01CCPHLJI-es Urchoiceltd Juego De Teclado y Mouse Tecnología M398 Retroiluminación De Teclado Con Cable Keyboard Metal Waterproof + Cable 2000 DPI 6 Botones Ratón Optical Backlight Game Con USB Mouse + Mouse Pad'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31CXADwpm5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KH2XV6J-es'
+slug: 'B07KH2XV6J-es Under Armour UA Rush Tank Tanque  Mujer  Gris  Ash Taupe/Black 057   S'
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

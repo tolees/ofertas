@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ISS4tvbaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MDFWGD-es'
+slug: 'B075MDFWGD-es Cutícula Clipper  Kemei Cuticle Nippers 6PCS Profesional Cuticle Remover Kit Nail Clipper Trimmer Cutter para cutícula overgrown / Uñas encarnadas Pedicura y manicura Trimmer Corrector Fixer'
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

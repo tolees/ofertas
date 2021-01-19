@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31INpbD0-cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JCS7CY-es'
+slug: 'B073JCS7CY-es SAMSONITE Karissa Biz - Bailhandle 15.6" 2 Computer Maletín  41 cm  16 Liters  Negro  Black '
 actualPrice: 122.58 EUR
 currency: EUR
 price: 122.58

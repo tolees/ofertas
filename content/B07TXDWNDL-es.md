@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uoOcRjNrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXDWNDL-es'
+slug: 'B07TXDWNDL-es Levi s 502 Regular Taper Jeans  Negro  Adjustable Black 0751   W32/L34  Talla del Fabricante: 32 34  para Hombre'
 actualPrice: 63.78 EUR
 currency: EUR
 price: 63.78

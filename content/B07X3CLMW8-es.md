@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FVJAZNSTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3CLMW8-es'
+slug: 'B07X3CLMW8-es Leathlux Funda Xiaomi Redmi Note 8 Pro + 2 x Protector de Pantalla Xiaomi Redmi Note 8 Pro  Transparente TPU Silicona Funda + Cristal Vidrio Templado Protector de Pantalla y Carcasas Redmi Note 8 Pro'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

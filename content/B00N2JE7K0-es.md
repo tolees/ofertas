@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q6JI2Q-ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N2JE7K0-es'
+slug: 'B00N2JE7K0-es Philips HU4706/11 – Humidificador con Tecnología NanoCloud de eVaporación Inteligente y Control Automático  Hasta 15 m²'
 actualPrice: 43.91 EUR
 currency: EUR
 price: 43.91

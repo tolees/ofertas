@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UhEWD5N9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZSQT42-es'
+slug: 'B071ZSQT42-es Kerbl Rustica - Casa para Gatos  57 x 45 x 43 cm '
 actualPrice: 39.52 EUR
 currency: EUR
 price: 39.52

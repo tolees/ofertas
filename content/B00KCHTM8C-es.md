@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xJqfnmK4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KCHTM8C-es'
+slug: 'B00KCHTM8C-es Maybelline Color Sensational Vivids 912 Electric Orange - barras de labios  Naranja  Electric Orange  Francia '
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

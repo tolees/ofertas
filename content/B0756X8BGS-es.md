@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lpoiqNilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756X8BGS-es'
+slug: 'B0756X8BGS-es Razer Atheris Ratón Ergonómico para Juegos  Gaming con una duración de batería de 350 horas  Sensor óptico de 7 200 Dpi  Tecnología de frecuencia adaptativa de 2.4 Ghz  Negro'
 actualPrice: 39.7 EUR
 currency: EUR
 price: 39.7

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TxinqXbiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1TYD6G-es'
+slug: 'B01N1TYD6G-es VS Venta-stock Aparador Java 3 cajones y 2 Puertas Blanco/Cera'
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SOPE+i5bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074XKH12D-es'
+slug: 'B074XKH12D-es Iberitos - 216 Monodosis de Humus Crema de Garbanzos - 22 Gramos'
 actualPrice: 14.52 EUR
 currency: EUR
 price: 14.52

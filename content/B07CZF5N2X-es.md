@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31X1L7tCqtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZF5N2X-es'
+slug: 'B07CZF5N2X-es Salomon RX Break 4.0  Calzado de recuperación para Hombre  Negro  Black/Black/White   40 2/3 EU'
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

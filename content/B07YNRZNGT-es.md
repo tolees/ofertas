@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-wSTk5KOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNRZNGT-es'
+slug: 'B07YNRZNGT-es Minisun – Lámpara de Mesa Mono Resina Negra- Clase de eficiencia energética A+ - Lámpara moderna - Iluminación de Interior - Lámpara de sobremesa moderna negra'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K8gZDdyML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MLQ26S-es'
+slug: 'B077MLQ26S-es PUMA Smash v2 L  Zapatillas Unisex Adulto  White-Peacoat  45 EU'
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X1OkkbBLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W53RLRH-es'
+slug: 'B07W53RLRH-es SIKAI CASE - No Necesita En Movimiento SIKAI Protectora Caso - Clip Cargador Compatible con Amazfit Bip/Amazfit Bip Lite Smartwatch Cable de Carga USB Pinza de Accesorios Recambios Cargade Muelle'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

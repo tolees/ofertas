@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FKpxUdpVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085NMDGQB-es'
+slug: 'B085NMDGQB-es CRAPHY Trípode de Fotografía Soporte de luz 51-200cm con 360° Rótula Giratoria y Bolsa para Reflectores Softboxes Right Light y Paraguas'
 actualPrice: 12.91 EUR
 currency: EUR
 price: 12.91

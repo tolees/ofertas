@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hze2mE6aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4CHQWW-es'
+slug: 'B07G4CHQWW-es Sharplace Juguete de Vehículo de Imitación Modelo de Barco de Vapor de Velocidad Asambleado Juego Educativo Aprendizaje de Ciencia para Niños'
 actualPrice: 9.07 EUR
 currency: EUR
 price: 9.07

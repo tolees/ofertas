@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZUZb8cZ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHLX1R8-es'
+slug: 'B07HHLX1R8-es Intel bx80684i59600k - CPU intel Core i5-9600k 3.70ghz 9m lga1151 bx80684i59600k 984505  Gris'
 actualPrice: 230.92 EUR
 currency: EUR
 price: 230.92

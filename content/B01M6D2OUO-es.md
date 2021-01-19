@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ixhy0FtgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6D2OUO-es'
+slug: 'B01M6D2OUO-es Funko Rocket Figura de Vinilo  colección de Pop  seria Guardians of The Galaxy 2  Multicolor  13270 '
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

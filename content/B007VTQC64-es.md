@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fvf7hNXLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007VTQC64-es'
+slug: 'B007VTQC64-es Scotch 700/YEL Aplicador de Cinta Transferidora'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

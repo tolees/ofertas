@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tejhu9MxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K34JWGJ-es'
+slug: 'B07K34JWGJ-es auna DigiPlug FM - Radio de Enchufe   Radio con RDS   Sintonizador FM   Bluetooth   USB   Pantalla LCD   con Altavoz de Banda Ancha Integrado   Blanco'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

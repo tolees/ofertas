@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xWsDBdZVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E5KJY1Q-es'
+slug: 'B01E5KJY1Q-es BSN Nitrix 2.0  240 g  180 Caps'
 actualPrice: 27.53 EUR
 currency: EUR
 price: 27.53

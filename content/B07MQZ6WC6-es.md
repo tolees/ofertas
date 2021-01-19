@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iz4j72ayL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQZ6WC6-es'
+slug: 'B07MQZ6WC6-es Le Coq Sportif COURTSTAR Craft  Zapatillas para Hombre  Blanco  Optical White/Croissant Optical White/Croissant   45 EU'
 actualPrice: 40.38 EUR
 currency: EUR
 price: 40.38

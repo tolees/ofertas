@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411ejgqjcAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0146L4IKQ-es'
+slug: 'B0146L4IKQ-es Clinique Smart Night - Crema antiarrugas  50 ml'
 actualPrice: 47.35 EUR
 currency: EUR
 price: 47.35

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31l4mD-rEOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HV8HDRL-es'
+slug: 'B07HV8HDRL-es Gytech Salvamanteles Plegables Ajustables  Almohadillas Antideslizantes Resistentes al Calor para Platos Calientes o ollas de Mesa de Comedor  Forma de Corazon Beige '
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DbNk4I3jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZSGBQW-es'
+slug: 'B07RZSGBQW-es BOSS Passenger Polo  Verde  Medium Green 314   XX-Large para Hombre'
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

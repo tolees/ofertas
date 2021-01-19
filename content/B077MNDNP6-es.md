@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jb-h6qRbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MNDNP6-es'
+slug: 'B077MNDNP6-es Bourjois Healthy Mix Powder Polvos Tono 03 Beige foncé / Dark beige  - 60 gr.'
 actualPrice: 4.48 EUR
 currency: EUR
 price: 4.48

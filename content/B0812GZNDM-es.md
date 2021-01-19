@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EJo8ktNfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0812GZNDM-es'
+slug: 'B0812GZNDM-es Asics GT-1000 9 GS  Running Shoe Unisex niños  Directoire Blue/Black  37 EU'
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

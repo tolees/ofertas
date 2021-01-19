@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RdLmNXvoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRJGF7M-es'
+slug: 'B07XRJGF7M-es NEXCURIO Funda Galaxy S10  Funda Piel Tipo Libro Carcasa Cartera Cuero Función de Soporte Magnética Cerrada para Samsung Galaxy S10/G973F - NEHEX120243 Negro'
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+Xq7sVyeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HG2O8QW-es'
+slug: 'B00HG2O8QW-es Makita D-41517 - Estuche de llaves de vaso 9 piezas'
 actualPrice: 37.09 EUR
 currency: EUR
 price: 37.09

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51mqv9RqbRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WS5M5FB-es'
+slug: 'B07WS5M5FB-es Videocamara Videocámara Cámara de Video Full HD 1080p 24.0MP 18x Zoom Digital 3.0 " LCD 270 °Pantalla de Rotación Camara Video con Control Remoto'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

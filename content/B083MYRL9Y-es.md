@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YM6YudQZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083MYRL9Y-es'
+slug: 'B083MYRL9Y-es BOROK Display Stand Soporte para Lego 75105 Halcón Milenario'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

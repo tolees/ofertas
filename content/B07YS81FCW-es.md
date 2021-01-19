@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yjoJqdy5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YS81FCW-es'
+slug: 'B07YS81FCW-es UniqueMe [6 Pack] Protector de Pantalla para Apple Watch 42mm Series 1/2/3  [Sin Burbujas][Adsorcion anhidra] Instalación Fácil Película Flexible Soft HD Clear Not Vidrio'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

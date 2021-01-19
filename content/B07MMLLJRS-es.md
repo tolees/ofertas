@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TZTiI5aML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLLJRS-es'
+slug: 'B07MMLLJRS-es Napapijri EILS Polo  Verde  Green Forest 2 Ge3   XL para Hombre'
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31swKqj0N3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CI0AVX6-es'
+slug: 'B00CI0AVX6-es Valira Aceitera  Accesorios  Blanco-Transparente  60 mL'
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

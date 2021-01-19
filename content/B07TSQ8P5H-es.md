@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r9grik8IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ8P5H-es'
+slug: 'B07TSQ8P5H-es Skechers Go Walk 5  Zapatillas sin Cordones para Hombre  Azul  Navy Textile/Synthetic/Gray Trim Nvgy   41 EU'
 actualPrice: 41.63 EUR
 currency: EUR
 price: 41.63

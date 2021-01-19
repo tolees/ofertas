@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31M8X9gyyrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M85LCDP-es'
+slug: 'B07M85LCDP-es GANT MD. Extrafine Lambswool V-Neck suéter  Verde  Tartan Green 374   XXX-Large para Hombre'
 actualPrice: 39.28 EUR
 currency: EUR
 price: 39.28

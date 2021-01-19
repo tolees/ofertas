@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LbVRCyi+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XBNNB1-es'
+slug: 'B073XBNNB1-es Rebel Heart Tour [Blu-ray]'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

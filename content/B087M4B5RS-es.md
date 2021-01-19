@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WFxb6RniL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087M4B5RS-es'
+slug: 'B087M4B5RS-es ikeepi 100 unidades desechables Mund-Nasen-Schutz 3-lagig Staubschutz Vliesstoff Schutzfilter confortable  100 unidades  1'
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

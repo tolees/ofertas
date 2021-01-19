@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/317ae4vo8eL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQSXRTM-es'
+slug: 'B07QQSXRTM-es Nike Classic Cortez Leather  Zapatillas de Running para Hombre  Blanco  White/Pure Platinum 101   40 1/2 EU'
 actualPrice: 41.77 EUR
 currency: EUR
 price: 41.77

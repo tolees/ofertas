@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jfexEC2gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ESYVP8K-es'
+slug: 'B00ESYVP8K-es Camano 3403 - Calcetines unisex  Azul  jeans 6   39/42'
 actualPrice: 4.44 EUR
 currency: EUR
 price: 4.44

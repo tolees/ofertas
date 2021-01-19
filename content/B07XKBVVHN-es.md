@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cTC-LykJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKBVVHN-es'
+slug: 'B07XKBVVHN-es Pendientes de plata de ley 925 con diseño de caballo de calzado  para niñas o adolescentes'
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

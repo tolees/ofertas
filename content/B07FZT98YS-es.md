@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hmCvhrvtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FZT98YS-es'
+slug: 'B07FZT98YS-es Alomejor Almohadilla de Hombro autocalefactable  Soporte magnético de Doble Hombro para Envolver Lesiones y Alivio del Dolor  Productos de Salud  Large'
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

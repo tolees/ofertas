@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NhhI3q-+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T8ZKZL-es'
+slug: 'B078T8ZKZL-es Columbia Youth Rope Tow III Waterproof  Botas de Nieve para Niñas  Gris  Ti Grey SteelRed Canyon   33 EU'
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

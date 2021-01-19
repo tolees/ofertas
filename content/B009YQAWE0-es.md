@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g+115f+DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009YQAWE0-es'
+slug: 'B009YQAWE0-es Belkin F5U404CW - Hub USB 2.0 de 4 Puertos con Fuente de alimentación para PC o Mac  Negro'
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

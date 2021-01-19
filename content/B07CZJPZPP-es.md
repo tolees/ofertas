@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Z1MPBRTqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZJPZPP-es'
+slug: 'B07CZJPZPP-es Under Armour Playoff 2.0 Polo  Hombre  Negro  Black/Pitch Gray 003   XL'
 actualPrice: 25.44 EUR
 currency: EUR
 price: 25.44

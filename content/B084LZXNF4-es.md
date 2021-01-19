@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uv9La0VSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084LZXNF4-es'
+slug: 'B084LZXNF4-es Botones de Resina Botones Costura 240 Piezas Colores Mezclados Botones Manualidades con Caja de Plástico para manualidades de DIY Coser Artesanía'
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

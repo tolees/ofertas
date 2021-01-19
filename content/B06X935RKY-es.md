@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q2ZjInd1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X935RKY-es'
+slug: 'B06X935RKY-es Merrell Moab 2 GTX  Zapatillas de Senderismo para Hombre  Gris  Beluga   47 EU'
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

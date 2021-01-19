@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51K8sBrkUnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BUZZXCI-es'
+slug: 'B01BUZZXCI-es Super Sand-83254 Arena cinética  Multicolor  Goliath 83254 '
 actualPrice: 21.15 EUR
 currency: EUR
 price: 21.15

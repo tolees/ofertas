@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417wU40sCNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR91V3C-es'
+slug: 'B07KR91V3C-es New Balance 997h  Zapatillas para Hombre  Negro  Black/White Black/White   38.5 EU'
 actualPrice: 41.68 EUR
 currency: EUR
 price: 41.68

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31D-5OVXlfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016AFQKX4-es'
+slug: 'B016AFQKX4-es Dormio Esmeralda Colchón ViscoSoft reversible  Blanco  90 x 190 x 24 cm  Todas las medidas '
 actualPrice: 94.3 EUR
 currency: EUR
 price: 94.3

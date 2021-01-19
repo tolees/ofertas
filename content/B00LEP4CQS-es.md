@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4150X5slSIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LEP4CQS-es'
+slug: 'B00LEP4CQS-es Panasonic KX-TGB213 - Teléfono fijo inalámbrico Trío  LCD  identificador de llamadas  Intercomunicación  agenda de 50 números  tecla de navegación  alarma  reloj   Negro  TGB21 Trio'
 actualPrice: 43.91 EUR
 currency: EUR
 price: 43.91

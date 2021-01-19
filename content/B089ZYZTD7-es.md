@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31owb+8m2HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089ZYZTD7-es'
+slug: 'B089ZYZTD7-es Kexing Kit de Resina epoxídica y Agente de curado Material Compuesto de Resina de polímero Reforzado con Fibra'
 actualPrice: 24.28 EUR
 currency: EUR
 price: 24.28

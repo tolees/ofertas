@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eqTPTbvmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RB6UQIW-es'
+slug: 'B00RB6UQIW-es Sena SMH5D-UNIV Kit de auriculares e intercomunicador Bluetooth para motos y scooters con micrófono universal  paquete doble  Dual Pack'
 actualPrice: 170.1 EUR
 currency: EUR
 price: 170.1

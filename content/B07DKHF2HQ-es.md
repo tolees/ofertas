@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51s8YJUFaPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKHF2HQ-es'
+slug: 'B07DKHF2HQ-es Kipling - Inami S  Monederos Mujer  Multicolor  Dynamic Dots '
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51glVJqcwOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G6NBPL8-es'
+slug: 'B00G6NBPL8-es Evergreenweb - Colchones individual 80x190 Espuma de 20 cm de altura para Cama simple - Transpirable y máximo Confort - color blanco - Con cojín de viscoelástica gratuitas  apto para todas las camas.'
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

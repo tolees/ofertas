@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nAJ5l5oGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G73T8LT-es'
+slug: 'B07G73T8LT-es ENDARK Papercraft 3D  T-Rex '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

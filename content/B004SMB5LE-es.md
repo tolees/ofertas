@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wvyoJBU2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004SMB5LE-es'
+slug: 'B004SMB5LE-es Tetera de acero inoxidable Belmont  acero inoxidable  Stainless Steel Handle  500 ml'
 actualPrice: 16.82 EUR
 currency: EUR
 price: 16.82

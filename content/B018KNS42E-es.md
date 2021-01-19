@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S8U8hi5SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018KNS42E-es'
+slug: 'B018KNS42E-es Skechers Equalizer-Double Play  Mocasines Hombre  Negro  Black   39 EU'
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

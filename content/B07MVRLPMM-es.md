@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WukKY0HsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVRLPMM-es'
+slug: 'B07MVRLPMM-es HP Z3700 - Ratón'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

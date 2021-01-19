@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41catJUTltL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ3PF9P-es'
+slug: 'B07CZ3PF9P-es Puma Icra Trainer SD Zapatillas  Unisex adulto  Azul  Peacoat-Puma White   47 EU'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

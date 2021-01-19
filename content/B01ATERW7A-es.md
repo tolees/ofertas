@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416sahfdDqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ATERW7A-es'
+slug: 'B01ATERW7A-es The North Face Exploration CNVRT  Pantalones Convertibles  Hombre  Negro  TNF Black   30  REG '
 actualPrice: 50.79 EUR
 currency: EUR
 price: 50.79

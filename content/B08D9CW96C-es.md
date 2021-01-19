@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fB6HG3EaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D9CW96C-es'
+slug: 'B08D9CW96C-es MrTom Niños 𝐌𝐚𝐬𝐜𝐚𝐫𝐢𝐥𝐥𝐚𝐬 Desechables de Filtro de 3 Capas con Pendientes Elásticos  50 unidades  Dibujos Animados patrón  Conejo '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

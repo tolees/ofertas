@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tUN+JA4vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSG2MLS-es'
+slug: 'B07FSG2MLS-es PAMEX Plumero Electroestático Extensible 45-75cm'
 actualPrice: 2.11 EUR
 currency: EUR
 price: 2.11

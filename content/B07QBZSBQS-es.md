@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IHuvGAP2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QBZSBQS-es'
+slug: 'B07QBZSBQS-es BICASLOVE de Botella de Agua de Acero Inoxidable Diseño de Pared Doble Boca Estándar Para Correr Gimnasio Yoga Ciclismo 500ML Negro'
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

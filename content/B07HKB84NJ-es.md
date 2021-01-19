@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41f2PB8AmqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKB84NJ-es'
+slug: 'B07HKB84NJ-es Feilaxleer Ropa Ciclismo Otoño/Invierno/Primavera para Hombre y Mujer - Ciclismo Maillot MTB de Manga Larga y Culotte Pantalones Acolchado 3D'
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

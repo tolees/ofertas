@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-mcMTFFyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VY8JGZX-es'
+slug: 'B06VY8JGZX-es Reloj Esprit - Chicos ES906474001'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

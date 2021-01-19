@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418nvU1fA9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSJHJBM-es'
+slug: 'B07TSJHJBM-es Filtro de admisión de aire Kit de filtro de admisión de aire Mejorado drásticamente Filtro de eficiencia de inducción de aire para vehículos con entradas de aire universales de 13 mm 蓝色 '
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511N197r6QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C7JKKR4-es'
+slug: 'B07C7JKKR4-es Easton Marlowe 6 PR Calcetines Sutilmente Estampados Hombre - 6pk #4-6  gris carbón - 39-42 talla de calzado UE'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51By08dxHlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDL8VBW-es'
+slug: 'B07RDL8VBW-es Utawarerumono: ZAN - Unmasked Edition'
 actualPrice: 35.11 EUR
 currency: EUR
 price: 35.11

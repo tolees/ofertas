@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513m3e0b8UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005FMZWD8-es'
+slug: 'B005FMZWD8-es Invicta 1513 I-Force Reloj para Hombre acero inoxidable Cuarzo Esfera azul'
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CgG+062DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZQL66-es'
+slug: 'B07KFZQL66-es PUMA LQDCELL Optic  Zapatillas de Running para Hombre  Black White  39 EU'
 actualPrice: 50.18 EUR
 currency: EUR
 price: 50.18

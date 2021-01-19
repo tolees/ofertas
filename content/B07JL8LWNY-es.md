@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51j5p6cDnjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JL8LWNY-es'
+slug: 'B07JL8LWNY-es dreamlock vehículo articulado retrofriction de construcción 199 pcs 5804 AZ'
 actualPrice: 24.43 EUR
 currency: EUR
 price: 24.43

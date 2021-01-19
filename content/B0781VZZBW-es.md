@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eOWwc5uuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781VZZBW-es'
+slug: 'B0781VZZBW-es Razer Cynosa Chroma - Teclado Gaming con iluminación Razer Chroma con LED RGB  USB  Alámbrico  16 8 millones de opciones de color personalizables  ES Layout  Negro'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

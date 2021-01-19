@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Xhzyc9pwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000V3ME6Y-es'
+slug: 'B000V3ME6Y-es Vichy Pureté Thermale Desmaquillante Integral 3 en 1 Piel Sensible - 450 gr'
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

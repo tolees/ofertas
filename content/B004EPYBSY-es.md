@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41feAmz91YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004EPYBSY-es'
+slug: 'B004EPYBSY-es Scitec Nutrition Suplemento Dietético de Creatina - 1000 gr'
 actualPrice: 15.13 EUR
 currency: EUR
 price: 15.13

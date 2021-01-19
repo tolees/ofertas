@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31143o2g56L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNGNSB3-es'
+slug: 'B07FNGNSB3-es JACK & JONES Jjestructure Knit Crew Neck Noos suéter  blanco  Jet Stream   Medium para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

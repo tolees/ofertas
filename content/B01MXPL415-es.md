@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jtSqP2FrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXPL415-es'
+slug: 'B01MXPL415-es Asics Gel-Lyte V  Zapatillas de Entrenamiento Unisex Adulto  Negro  Black/Black   36 EU'
 actualPrice: 31.28 EUR
 currency: EUR
 price: 31.28

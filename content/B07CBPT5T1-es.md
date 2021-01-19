@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H0b1zZJrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CBPT5T1-es'
+slug: 'B07CBPT5T1-es Maybelline New York - The Lemonade Craze  Paleta de Sombras de Ojos'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

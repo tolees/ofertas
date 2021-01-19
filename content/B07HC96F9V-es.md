@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lBxsXklXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HC96F9V-es'
+slug: 'B07HC96F9V-es Botas de Nieve Antideslizantes Impermeables Clásicas para Hombres'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

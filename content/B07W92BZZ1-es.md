@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cU+f6WjxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W92BZZ1-es'
+slug: 'B07W92BZZ1-es GLOBE Fusion  Zapatillas de Skateboard para Hombre  Marrón  Sahara 16318   37 EU'
 actualPrice: 36.57 EUR
 currency: EUR
 price: 36.57

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DOawISmxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016AWBO2E-es'
+slug: 'B016AWBO2E-es ASUS VP278H TFT 27" Negro Full HD Matt - Monitor  1920 x 1080 Pixeles  LCD  Full HD  TFT  Matt  1920 x 1080  HD 1080  '
 actualPrice: 125.01 EUR
 currency: EUR
 price: 125.01

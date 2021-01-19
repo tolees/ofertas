@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B3P+RqUZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BH7CQMB-es'
+slug: 'B07BH7CQMB-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable CL60001'
 actualPrice: 43.16 EUR
 currency: EUR
 price: 43.16

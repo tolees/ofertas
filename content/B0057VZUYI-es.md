@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qFUsinrZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0057VZUYI-es'
+slug: 'B0057VZUYI-es American History X Blu-Ray [Blu-ray]'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

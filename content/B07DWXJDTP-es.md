@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UVux1OjjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWXJDTP-es'
+slug: 'B07DWXJDTP-es 750ml A5 Botella de Agua Portable Transparente Reutilizable para Deporte  Viaje  Actividades interiores y Exteriores Blanco '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

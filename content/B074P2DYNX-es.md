@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XnUIh%2BhVL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B074P2DYNX-es'
+slug: 'B074P2DYNX-es MAX-T RMS6101 Afeitadora Eléctrica para Hombres IPX7 100% Impermeable Máquina Afeitar Barba Húmedo & Seco con Pop-up Trimmer'
 actualPrice: 18.47 EUR
 currency: EUR
 price: 18.47

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cu1z2o9EL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG1TCQJ-es'
+slug: 'B07HG1TCQJ-es New Balance Fresh Foam Beacon  Zapatillas de Running para Hombre  Azul  Navy Navy   44.5 EU'
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

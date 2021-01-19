@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CptCKHV7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DZLC2KG-es'
+slug: 'B07DZLC2KG-es Tom Ford Ombre Leather Agua Fresca - 50 ml'
 actualPrice: 63.6 EUR
 currency: EUR
 price: 63.6

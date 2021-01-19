@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tuDc7145L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PG88VPC-es'
+slug: 'B07PG88VPC-es WISHTIME Combine Track Pathway Bath Toy 2019 DIY Combinación Gratuita de Track Bathtub Water Toys para bebé  no Requiere baterías y colorea al Azar '
 actualPrice: 24.03 EUR
 currency: EUR
 price: 24.03

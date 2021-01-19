@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NJkAuNh5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085CGNFF6-es'
+slug: 'B085CGNFF6-es Universal Candy Color 3USB Cargador Travel Wall Charger Adapter Smart Mobile Phone Cargador de Fuente de alimentación para tabletas EU - Negro'
 actualPrice: 1.54 EUR
 currency: EUR
 price: 1.54

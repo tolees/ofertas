@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gAiewFDWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMLGC5S-es'
+slug: 'B07RMLGC5S-es Calvin Klein - Revealed Laptop Bag  Organizadores de bolsos Hombre  Azul  Navy   0.1x0.1x0.1 cm  W x H L '
 actualPrice: 34.22 EUR
 currency: EUR
 price: 34.22

@@ -6,7 +6,7 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DMGHB7V-es'
+slug: 'B07DMGHB7V-es FIFA 19 Edición Legacy'
 actualPrice: 34.85 EUR
 currency: EUR
 price: 34.85

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416v2ZqQ6dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWTVCBR-es'
+slug: 'B07PWTVCBR-es Crema para los ojos  reduce las arrugas y las arrugas  reparadora hidratante  crema contra ojeras y bolsillos debajo de los ojos.'
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

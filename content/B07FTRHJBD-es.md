@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pZnHqq1tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTRHJBD-es'
+slug: 'B07FTRHJBD-es Yonanas 1600 Heladera  Aluminio  Plateada'
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

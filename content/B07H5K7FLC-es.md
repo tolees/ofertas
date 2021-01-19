@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+YHqKepGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5K7FLC-es'
+slug: 'B07H5K7FLC-es Salomon XA Visor Visera  Unisex Adulto  Blanco  Talla única Ajustable'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

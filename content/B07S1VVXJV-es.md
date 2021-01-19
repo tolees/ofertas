@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417eBypvS1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1VVXJV-es'
+slug: 'B07S1VVXJV-es Diesel UFSB-BRAS  Sujetador Deportivo para Mujer  Multicolor  Black/Racing Red E3976/0taxs   M'
 actualPrice: 19.6 EUR
 currency: EUR
 price: 19.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pv3qYzgHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BQD4YU2-es'
+slug: 'B00BQD4YU2-es Haverland RC3W - Emisor Térmico De Inercia De Fundición De Aluminio Bajo Consumo  450 de Potencia  3 Elementos  Pantalla LCD y Funcionamiento Programable'
 actualPrice: 164.15 EUR
 currency: EUR
 price: 164.15

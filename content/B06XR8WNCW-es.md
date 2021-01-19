@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418GvrPTAlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XR8WNCW-es'
+slug: 'B06XR8WNCW-es Precision'
 actualPrice: 30.54 EUR
 currency: EUR
 price: 30.54

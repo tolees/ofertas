@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HgWMPl4tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYMPJT3-es'
+slug: 'B01LYMPJT3-es ZEP Lavigny - Portafotos triple de madera en tamaño 13x18'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

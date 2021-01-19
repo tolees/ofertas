@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GRlvKX9PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMPCHBN-es'
+slug: 'B07KMPCHBN-es adidas Club Sw Short 7 Pantalones Cortos de Deporte  Hombre  White  S'
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

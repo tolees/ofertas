@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Z97MvoFcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004W6KEDQ-es'
+slug: 'B004W6KEDQ-es Navigator Expression - Paquete de 2500 folios de papel para impresora/fotocopiadora 90g/m² A4  Blanco'
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

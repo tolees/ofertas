@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41n5D3lCbzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VVG1L6-es'
+slug: 'B082VVG1L6-es Alfapac – Papel de cocina 18 m  1 unidad'
 actualPrice: 2.47 EUR
 currency: EUR
 price: 2.47

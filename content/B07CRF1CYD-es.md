@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KzIO74wlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CRF1CYD-es'
+slug: 'B07CRF1CYD-es Pepe Jeans Aitana Pantalones Cortos   Multi Bleu 0aa   6 años para Niñas'
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

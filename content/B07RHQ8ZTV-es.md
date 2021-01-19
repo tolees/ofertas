@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BcdJ-UK1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHQ8ZTV-es'
+slug: 'B07RHQ8ZTV-es Columbia Ivo Trail  Zapatillas para Hombre  Marrón  Oatmeal  Light Brown 241   41 EU'
 actualPrice: 48.73 EUR
 currency: EUR
 price: 48.73

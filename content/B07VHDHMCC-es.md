@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t-zaYeCNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHDHMCC-es'
+slug: 'B07VHDHMCC-es Qkiss Caja de Almacenamiento de joyería de 12 Ranuras  Caja de Caja de Almacenamiento de joyería'
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

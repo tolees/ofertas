@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r67EU3IwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKV8MFW-es'
+slug: 'B08CKV8MFW-es NINGNETI Adultos Reutilizables Pañuelos con banda Elástico para al Aire Libre Pack 5 unidades NING-M0707A038'
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

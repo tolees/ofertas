@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lfA9mNWNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHVT998-es'
+slug: 'B07ZHVT998-es Géminis  BD  [Blu-ray]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

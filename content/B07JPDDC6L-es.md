@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-ZF74MwUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPDDC6L-es'
+slug: 'B07JPDDC6L-es DAM. DMX196BKCorrea Diseño Flores De Piel Sintética Iwatch 42Mm / 44Mm. Hebilla Y Enganche Metálicos. Compatible Series 1  2  3  Y 4. Negro'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

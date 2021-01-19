@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pwiMbwKiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFXSPTW-es'
+slug: 'B07MFXSPTW-es BYDT HP 593553-001 Laptop Baterías para HP 593554-001 MU06 MU09 Envy 17  for Pavilion G6 G4 G7 DM4 DV7-4000 DV5-2000 DV3-4000  Compaq Presario CQ32 CQ42 CQ43 CQ56 CQ62 CQ72 Dm4 HSTNN-UB0W HSTNN-Q62C'
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

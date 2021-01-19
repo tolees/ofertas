@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MY2dtL9YL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRMLXSH-es'
+slug: 'B07KRMLXSH-es New Balance 373 Zapatillas Hombre  Azul  Blue Blue   37 EU'
 actualPrice: 28.06 EUR
 currency: EUR
 price: 28.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vqzfwNMVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKH72ST-es'
+slug: 'B07DKH72ST-es Kipling - Creativity Xl  Monederos Mujer  Multicolor  Dynamic Dots '
 actualPrice: 25.13 EUR
 currency: EUR
 price: 25.13

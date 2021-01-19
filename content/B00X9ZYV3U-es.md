@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EMbSr5P-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9ZYV3U-es'
+slug: 'B00X9ZYV3U-es Bosch Professional GIC 120 Professional - Cámara de inspección  pantalla 2 7 "  cable 120 cm  luz LED  en caja '
 actualPrice: 153.99 EUR
 currency: EUR
 price: 153.99

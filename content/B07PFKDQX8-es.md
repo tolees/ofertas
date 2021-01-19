@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Mt1GacdCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFKDQX8-es'
+slug: 'B07PFKDQX8-es Tranjis Games - POC! - Juego de mesa  TRG-014poc '
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

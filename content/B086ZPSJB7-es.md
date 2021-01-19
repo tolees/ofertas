@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zyHOzqO5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZPSJB7-es'
+slug: 'B086ZPSJB7-es B Blesiya Nuevo Traje Negro De PC para PC con Cubierta Trasera para HP 15-BS 15T-BS 15Z-BW'
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

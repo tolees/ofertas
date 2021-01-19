@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vHSZFvZHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016MUBYVA-es'
+slug: 'B016MUBYVA-es Los Vengadores  Temporada 6 Vol 1    The Avengers TV [DVD]'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

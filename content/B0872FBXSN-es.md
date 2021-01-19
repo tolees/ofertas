@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R1H1aFmxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872FBXSN-es'
+slug: 'B0872FBXSN-es KN-95'
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

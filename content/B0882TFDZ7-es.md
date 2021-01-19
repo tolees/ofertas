@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dPUqxB9sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0882TFDZ7-es'
+slug: 'B0882TFDZ7-es SYOSIN Bandas Elasticas Fitness Bandas de Ejercicio  con Anclas de guía de Entrenamiento  para el Entrenamiento de Todo el Cuerpo Ideales para Fisioterapia  Yoga  Pilates，Mujer y Hombre'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r3qlVjVmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CGJRSM4-es'
+slug: 'B08CGJRSM4-es Feleph Kit de peinture animalière Enfants artisanat et fournitures artistiques Ensemble peignez VOS propres Grandes Figurines Dessin bricolage jouet fête Cadeau d anniversaire pour garçons Filles'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VQiE6hz7L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MDUN3F5-es'
+slug: 'B01MDUN3F5-es Coffret EMC Legacy'
 actualPrice: 81.54 EUR
 currency: EUR
 price: 81.54

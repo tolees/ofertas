@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h029EeadL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJK3YDY-es'
+slug: 'B07TJK3YDY-es Clarks Alexis Shine  Sandalia con Pulsera para Mujer  Azul  Navy Navy   36 EU'
 actualPrice: 32.03 EUR
 currency: EUR
 price: 32.03

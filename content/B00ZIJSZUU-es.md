@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AxYDhJD2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZIJSZUU-es'
+slug: 'B00ZIJSZUU-es Trust GXT 363 - Auriculares Gaming USB con vibración y Sonido Surround 7.1  Color Negro'
 actualPrice: 38.07 EUR
 currency: EUR
 price: 38.07

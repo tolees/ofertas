@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fpSE6D2wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BN7XF1U-es'
+slug: 'B00BN7XF1U-es Instituto Español Gel de Baño y Ducha 10% Urea para Piel Seca - 1250 ML'
 actualPrice: 2.07 EUR
 currency: EUR
 price: 2.07

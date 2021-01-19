@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wnrekeV5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7FH6GM-es'
+slug: 'B07V7FH6GM-es WMF Profi Set de 3 sartenes de Acero Inoxidable de 20  24 y 28 cm  con Antiadherente para Todo Tipo de cocinas Incluido inducción'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

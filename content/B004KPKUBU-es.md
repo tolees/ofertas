@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kSkv9MAKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004KPKUBU-es'
+slug: 'B004KPKUBU-es Casio  LA670WEGA-9EF  Reloj de Pulsera para Mujer'
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

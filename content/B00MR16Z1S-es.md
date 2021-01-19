@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Z1EpPTt6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MR16Z1S-es'
+slug: 'B00MR16Z1S-es G-STAR Lynn Mid Skinny Wmn - frakto superstretch - Pantalones para mujer  Azul  W28/L28'
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

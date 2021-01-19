@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dGS579HQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZKJ5SV-es'
+slug: 'B071ZKJ5SV-es Reloj Lorus - Hombre RH817CX9'
 actualPrice: 34.56 EUR
 currency: EUR
 price: 34.56

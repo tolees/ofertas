@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PFcHqFwwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q1X7QZ8-es'
+slug: 'B07Q1X7QZ8-es DYNASONIC - ITK Altavoz Bluetooth con Karaoke Radio Micrófono | Lector USB SD y Luces LED  Modelo 362 '
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

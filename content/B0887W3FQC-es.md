@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FfdqJqn6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0887W3FQC-es'
+slug: 'B0887W3FQC-es LNIEGE Por Rod del Carril de Soporte zócalo 2pcs Montaje de Techo Armario de Tubo Soporte'
 actualPrice: 5.72 EUR
 currency: EUR
 price: 5.72

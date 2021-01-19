@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-35zF64JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQJ4JJP-es'
+slug: 'B07XQJ4JJP-es QHOHQ Funda para Samsung Galaxy A50S  A50  A30S  Cases Silicona Thin Slim TPU Anti-caída Cuatro Esquinas-Transparente'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

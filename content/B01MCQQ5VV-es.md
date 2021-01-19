@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31L8J1DaVgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MCQQ5VV-es'
+slug: 'B01MCQQ5VV-es mengjay 1er Pack 6 W E27 filamento LED Lámpara Bombilla de bajo consumo 550 lúmenes 2300 K de 2700 K blanco cálido A60 LED AC 220 V'
 actualPrice: 2.53 EUR
 currency: EUR
 price: 2.53

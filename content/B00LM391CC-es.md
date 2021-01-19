@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ra1w4Ym6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LM391CC-es'
+slug: 'B00LM391CC-es Juego De Tronos Temporada 4 Blu-Ray Premium [Blu-ray]'
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

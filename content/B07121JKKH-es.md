@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YrF+zIk+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07121JKKH-es'
+slug: 'B07121JKKH-es XTI 46172 TENIS PLATAFORMA XTI MUJER NEGRO 40'
 actualPrice: 18.7 EUR
 currency: EUR
 price: 18.7

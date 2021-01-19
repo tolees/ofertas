@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vTUuMCNxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFR783D-es'
+slug: 'B07RFR783D-es Tommy Hilfiger Longline Bra Sujetador con Push-up  Azul  Navy Blazer 416   K  Talla del Fabricante: B85  para Mujer'
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

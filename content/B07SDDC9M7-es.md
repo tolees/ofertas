@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FwVRes-WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDDC9M7-es'
+slug: 'B07SDDC9M7-es Zinmuwa Mujer Pendientes Bola Colgante Perla Artificial Redondo Elegante Oro One Size'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

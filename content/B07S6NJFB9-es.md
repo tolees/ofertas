@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rZ9OFgPEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NJFB9-es'
+slug: 'B07S6NJFB9-es PUMA NRGY Neko Knit  Zapatillas de Running para Hombre  Azul  Dark Denim/Castlerock   46 EU'
 actualPrice: 42.09 EUR
 currency: EUR
 price: 42.09

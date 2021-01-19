@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bNdtnUhjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MRVVS9-es'
+slug: 'B082MRVVS9-es SATECHI Cargador Portátil  Certificado MFi  con Puerto de Carga Magnético USB-C para Reloj – Compatible con Apple Watch Series 5/4/3/2/1  Cable no Incluido '
 actualPrice: 33.74 EUR
 currency: EUR
 price: 33.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kd15K7Y4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD31G8F-es'
+slug: 'B07VD31G8F-es BOSS Schino-Slim Shorts Pantalones Cortos  Beige  Open Beige 280   38  Talla del Fabricante: 36  para Hombre'
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

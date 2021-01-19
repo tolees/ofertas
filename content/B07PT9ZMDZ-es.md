@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lw+4B2TVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT9ZMDZ-es'
+slug: 'B07PT9ZMDZ-es Sekey 220x100cm Cortina magnética  ideal para puerta de balcón  puerta de sótano  puerta de terraza  se puede cortar en altura y ancho  mediante montaje fácil de pegamento  gris'
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

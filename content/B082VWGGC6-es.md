@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uGoqRLQUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VWGGC6-es'
+slug: 'B082VWGGC6-es Auriculares-Micrófono-Cascos-Cable-Alambricos  LUDOS Turbo Auriculares con Micrófono y Graves  Headphones con Ergonómicos y Modernos  con Nueva Espuma Viscoelástica  Cable Duradero Earphones'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

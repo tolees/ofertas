@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cp8PSJXUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B4SIHB0-es'
+slug: 'B01B4SIHB0-es The Look Of Love [Vinilo]'
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

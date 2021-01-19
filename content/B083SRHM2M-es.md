@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AiSZq+JSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SRHM2M-es'
+slug: 'B083SRHM2M-es Bastilipo TLM-2000 Termoventilador-Calefactor de Aire Caliente  2000 W  Acero  Blanco  Reacondicionado '
 actualPrice: 16.07 EUR
 currency: EUR
 price: 16.07

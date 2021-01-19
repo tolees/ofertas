@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AoFigW7TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077T1MGH4-es'
+slug: 'B077T1MGH4-es Panasonic RP-HTX80BE-K - Auriculares Bluetooth Diadema  24 h de Reproducción  Micrófono y Manos Libres  Hi-Fi Sonido  Cascos Inalámbricos  Carga Rápida  Cascos Diadema Premium Moviles  TV  PC  Negro'
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

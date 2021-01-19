@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LF+ay8LCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6PCVS3-es'
+slug: 'B07S6PCVS3-es PUMA NRGY Comet JR  Zapatillas Unisex niños  Rosa  Peony/Cantaloupe   38 EU'
 actualPrice: 31.47 EUR
 currency: EUR
 price: 31.47

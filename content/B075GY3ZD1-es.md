@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Tqg1paTtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GY3ZD1-es'
+slug: 'B075GY3ZD1-es Polaroid Originals - 4671 - Película Negro y Blanco para cámara 600 - Marco Clásico Blanco'
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

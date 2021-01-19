@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413rNeMoqEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XPXY89-es'
+slug: 'B073XPXY89-es Cébé CBH256 Cascos de Esquí  Unisex Adulto  Gris  Matt Ciment Lime   56-58 cm'
 actualPrice: 35.03 EUR
 currency: EUR
 price: 35.03

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MK-2nTlJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811HRP1Y-es'
+slug: 'B0811HRP1Y-es Vicloon Mini Paraguas del Sol  6 Varillas Paraguas de Viaje Portátil con Diseño de Esqueleto Mejorado y 210T Negro Tela de Goma  Paraguas Plegables y Compacto Resistencia UV & Impermeable'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

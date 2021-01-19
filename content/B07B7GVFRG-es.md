@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/71QHsxRLPcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B7GVFRG-es'
+slug: 'B07B7GVFRG-es Kuman 100pcs WS2812B 5050 Addressable SMD smart rgb led strip Great Pixel LED lights for Arduino 5V DC single 1-led LED Module Pixels color Light little rgb LEDs lamp on Black Heat Sink PCB Board'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

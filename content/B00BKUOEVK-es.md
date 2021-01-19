@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TCSQnLqTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKUOEVK-es'
+slug: 'B00BKUOEVK-es Astor Big & Beautiful Boom Máscara de Pestañas Tono 800 Black - 28 g'
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ANRHk4SjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0UO0HX-es'
+slug: 'B01M0UO0HX-es Sigma F1.4 DG AF HSM Art - Objetivo para cámara para réflex  85 mm  Color Negro'
 actualPrice: 932.0 EUR
 currency: EUR
 price: 932.0

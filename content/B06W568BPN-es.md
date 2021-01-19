@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411mtIypfPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W568BPN-es'
+slug: 'B06W568BPN-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 13326-001'
 actualPrice: 84.54 EUR
 currency: EUR
 price: 84.54

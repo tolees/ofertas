@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xS-E3o5yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZMHFFF-es'
+slug: 'B07VZMHFFF-es tomtoc Estuche Inteligente para iPad Pro de 12.9 Pulgadas  3.a / 4.a generación  2018-2020  Cubierta Protectora con Conveniente Pata de Cabra magnética para Ver y Escribir en múltiples ángulos'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

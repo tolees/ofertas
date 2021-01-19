@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u2TQaF-ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PVDTKRK-es'
+slug: 'B00PVDTKRK-es D-Link DIR-809 - Router WiFi AC 750 Mbps  4 Puertos de Red RJ-45 10/100 Mbps  botón WPS '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

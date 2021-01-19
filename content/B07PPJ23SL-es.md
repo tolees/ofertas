@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TsvCQfOyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPJ23SL-es'
+slug: 'B07PPJ23SL-es West Ham United FC Pijamas de Manga Corta para niños Football Club Multicolor 9-10 Años'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

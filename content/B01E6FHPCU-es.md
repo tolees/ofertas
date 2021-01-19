@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4126q4o-oDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E6FHPCU-es'
+slug: 'B01E6FHPCU-es Somfy 2400961 Kit de Alimentación Solar  Gris'
 actualPrice: 241.8 EUR
 currency: EUR
 price: 241.8

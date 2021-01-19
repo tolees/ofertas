@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51nz8%2B2LXNL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T2ZQ91F-es'
+slug: 'B07T2ZQ91F-es Calcetines de Senderismo de Lana Merino 3 pares  Gris Claro  EU 48-51 '
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

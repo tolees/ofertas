@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D4acZK17L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EFHQXZ4-es'
+slug: 'B01EFHQXZ4-es Palette Intense - Tono 5.5 Castaño Luminoso - Coloración Permanente - Schwarzkopf'
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

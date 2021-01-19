@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XOi1ZSnhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GNXO2RA-es'
+slug: 'B00GNXO2RA-es Salki 8500301.0 Pistola Encoladora de Silicona  25 W  240 V  Verde'
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65

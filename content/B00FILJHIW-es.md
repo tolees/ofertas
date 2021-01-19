@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XJG2qbexL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FILJHIW-es'
+slug: 'B00FILJHIW-es Piscina Hinchable Infantil Bestway Deluxe Octagon Family 250x250x51 cm'
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

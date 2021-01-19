@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zOqJDhufL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9X5Y5Z-es'
+slug: 'B07Y9X5Y5Z-es Irrigador Dental  Hieha Irrigador Bucal Portatil con Base de Carga Inalámbrica  300ml Irrigador Profesional con 4 Modes & 4 Boquillas Ideal para Cuidado Familiar'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51gKad2ozBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSB9GKC-es'
+slug: 'B07MSB9GKC-es Lacoste Rc2012 Cinturón  Azul  Blue Horizon D24   90 para Hombre'
 actualPrice: 23 EUR
 currency: EUR
 price: 23

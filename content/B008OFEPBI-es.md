@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oofj9TsiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008OFEPBI-es'
+slug: 'B008OFEPBI-es NANOCABLE 10.01.0500 - Cable USB 2.0 a Micro USB  Uso Principal en moviles y camaras Digitales  Tipo A/M-Micro B/M  Macho-Macho  Negro  0.8mts'
 actualPrice: 1.03 EUR
 currency: EUR
 price: 1.03

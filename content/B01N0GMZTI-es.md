@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21O0k7KsvqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0GMZTI-es'
+slug: 'B01N0GMZTI-es Indoor Copa JR'
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

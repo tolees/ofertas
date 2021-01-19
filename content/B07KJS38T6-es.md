@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+WptwFBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJS38T6-es'
+slug: 'B07KJS38T6-es Lenor Unstoppables Spring Perlas Impulsoras De Fragancia - pack de 3 x 210 g'
 actualPrice: 15.57 EUR
 currency: EUR
 price: 15.57

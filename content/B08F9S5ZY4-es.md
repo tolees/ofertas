@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zhxEvcxqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F9S5ZY4-es'
+slug: 'B08F9S5ZY4-es Funda para Xiaomi Redmi 9A con [2 Pack] Cristal Templado Protector de Pantalla  Negro Suave Líquido Silicona Protectora Carcasa para Xiaomi Redmi 9A  6.53 Pulgadas '
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

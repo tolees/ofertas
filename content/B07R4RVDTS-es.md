@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-Y79xJmbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4RVDTS-es'
+slug: 'B07R4RVDTS-es 10 unidades de esponja resistente al polvo lavable reutilizable para tatuar y tatuar'
 actualPrice: 0.29 EUR
 currency: EUR
 price: 0.29

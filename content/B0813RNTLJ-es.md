@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-ZO1dkfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813RNTLJ-es'
+slug: 'B0813RNTLJ-es adidas Falcon W  Zapatillas para Mujer  Off White/Raw White/Active Purple  40 2/3 EU'
 actualPrice: 30.51 EUR
 currency: EUR
 price: 30.51

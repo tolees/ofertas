@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A4zlpfwqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EAP3JEY-es'
+slug: 'B01EAP3JEY-es Lonsdale Pantalones de entrenamiento de boxeo para hombre  pantalones de deporte gris oscuro XXXXL'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

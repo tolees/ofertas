@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZfQrvb++L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075XLQVRM-es'
+slug: 'B075XLQVRM-es New Balance 247v2  Zapatillas para Mujer  Morado  Deep Cosmic Sky/Deep Cosmic Sky Uj   38 EU'
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

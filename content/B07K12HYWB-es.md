@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HJERyvSSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K12HYWB-es'
+slug: 'B07K12HYWB-es adidas I-5923  Zapatillas de Gimnasia para Hombre  Blanco Raw Crystal FTWR White  42 EU'
 actualPrice: 50 EUR
 currency: EUR
 price: 50

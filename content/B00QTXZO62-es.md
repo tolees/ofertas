@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411znvlJ0RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QTXZO62-es'
+slug: 'B00QTXZO62-es Munchkin Platos con compartimentos Apple  3 unidades'
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Jdrrc98aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078TG4LCV-es'
+slug: 'B078TG4LCV-es Pepe Jeans Vincent Polo  Azul  Navy 595   Small para Hombre'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

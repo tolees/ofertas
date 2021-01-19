@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316O1LPZloL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007PA9IAQ-es'
+slug: 'B007PA9IAQ-es Elli Pendientes Círculo de damas Geo Trend básico en plata esterlina 925'
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

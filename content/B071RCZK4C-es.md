@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U8hwjTNfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RCZK4C-es'
+slug: 'B071RCZK4C-es Reloj - Lancardo - para - LCD17P042'
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

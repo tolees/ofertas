@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hFPNwtVCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F92HZB3-es'
+slug: 'B07F92HZB3-es Maleta de cabina Pepe Jeans Olaia rosa rígida 55cm'
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

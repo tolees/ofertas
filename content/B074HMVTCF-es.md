@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vG5vSPwkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074HMVTCF-es'
+slug: 'B074HMVTCF-es Blade Runner 2049 Blade Runner 2049-Funko Pop Figura de Vinilo Joi  Multicolor  Funko 21597 '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

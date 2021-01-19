@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416dAZWgdZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLY24P4-es'
+slug: 'B07VLY24P4-es JACK & JONES Jorflash Crew Neck suéter  Azul  Sea Mossno Badge Knit Fit   Small para Hombre'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

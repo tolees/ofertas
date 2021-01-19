@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JvEBH3MyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCN6PFM-es'
+slug: 'B07NCN6PFM-es Bolsa de viaje Pepe Jeans Raw para Hombre'
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

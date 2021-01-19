@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lPG4kvMGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTD9W5P-es'
+slug: 'B07TTD9W5P-es Superga 2750 COTU Classic  Zapatillas Unisex  Blanco  White/Gold A15   37.5 EU'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

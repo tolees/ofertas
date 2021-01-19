@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z91GCJGtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLNWVQ3-es'
+slug: 'B07TLNWVQ3-es Vila 14053622 suéter  Multicolor  Golden Oak Golden Oak   40  Talla del Fabricante: Medium  para Mujer'
 actualPrice: 7.37 EUR
 currency: EUR
 price: 7.37

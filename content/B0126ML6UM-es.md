@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y8BTiooJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0126ML6UM-es'
+slug: 'B0126ML6UM-es Senston Anti Slip Sobregrip Racket Overgrip Antideslizante Tenis Bádminton Raqueta Grip'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

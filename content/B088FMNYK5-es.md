@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nwYR7TujL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FMNYK5-es'
+slug: 'B088FMNYK5-es Moly Caja de Toalla Multifuncional de plástico Simple Caja Cuadrada de Escritorio para Oficina en casa - Púrpura'
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BlOP6yHPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2FKZ8S-es'
+slug: 'B07H2FKZ8S-es MILLE AMORI ∞ Pendientes Mujer Oro y Diamantes - Oro Blanco 9 Kt 375 ∞ Diamantes 0.03 Kt'
 actualPrice: 531.0 EUR
 currency: EUR
 price: 531.0

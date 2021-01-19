@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m48XmHWsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNSHH5H-es'
+slug: 'B07NNSHH5H-es Under Armour Heatgear Armoury Corto  Mujer  Rojo  MD'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

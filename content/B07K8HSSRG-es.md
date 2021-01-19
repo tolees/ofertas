@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hJFuxcXHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8HSSRG-es'
+slug: 'B07K8HSSRG-es MOSNOVO Funda para iPhone XR  Transparente Carcasa para iPhone XR Absorcion de Choque Cojín de Parachoques con PC Duro Panel Posterior + Marco de TPU Suave para iPhone XR  Cute Elephant '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

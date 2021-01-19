@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418t3sLFcsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZGM1RP-es'
+slug: 'B07QZGM1RP-es Espejo de Maquillaje  Morpilot Espejo de Aumento 1x/5x con Luz LED de Pantalla Táctil y Carga USB  con Diseño de Tres Modos de Luz Ajustable - Soporte Ajustable de 45 Grados -Oro Rosa 210 * 90 * 342mm'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

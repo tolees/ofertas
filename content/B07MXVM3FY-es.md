@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31faqaLid4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXVM3FY-es'
+slug: 'B07MXVM3FY-es Maybelline New York - Superstay Matte Ink  Tono 15 Lover + Tono 40 Believer  Pack de 2 Pintalabios'
 actualPrice: 9.05 EUR
 currency: EUR
 price: 9.05

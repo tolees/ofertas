@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+YdrPoVmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7DYJ8D-es'
+slug: 'B07V7DYJ8D-es JACK & JONES Jcobase Sweat Hood Capucha  Gris  Light Grey Melange Light Grey Melange   Large para Hombre'
 actualPrice: 15.66 EUR
 currency: EUR
 price: 15.66

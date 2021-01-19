@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PbZQAnOSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPVCSS1-es'
+slug: 'B07TPVCSS1-es Superdry International Chino Short Pantalones Cortos  Beige  Sand Dollar Q2x   52  Talla del Fabricante: 32  para Hombre'
 actualPrice: 25.24 EUR
 currency: EUR
 price: 25.24

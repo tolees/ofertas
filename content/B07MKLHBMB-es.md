@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IjsK5xAXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKLHBMB-es'
+slug: 'B07MKLHBMB-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18631/4'
 actualPrice: 54.97 EUR
 currency: EUR
 price: 54.97

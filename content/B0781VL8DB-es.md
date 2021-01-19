@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w7DahuhHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781VL8DB-es'
+slug: 'B0781VL8DB-es Puma Liga Training Pant Core Pantalones  Hombre  Azul  Azul Oscuro Blanco   XL'
 actualPrice: 18.97 EUR
 currency: EUR
 price: 18.97

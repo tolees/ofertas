@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Dfebf-opL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085S25XNT-es'
+slug: 'B085S25XNT-es ORSIFOW Herramienta Multiuso  18 in 1 Inoxidable Hacha Supervivencia con Martillo Alicates Cuchillo Destornillador Abrebotellas  kit Supervivencia para Acampada Senderismo y Emergencias'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

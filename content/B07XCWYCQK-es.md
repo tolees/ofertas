@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YuGCRuL0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCWYCQK-es'
+slug: 'B07XCWYCQK-es PUMA Ftblnxt Pant Sr Pantalones de Chándal de Fútbol  Hombre  Negro Black-Ultra Yellow  M'
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

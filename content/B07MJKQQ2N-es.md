@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CtKOuYSHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJKQQ2N-es'
+slug: 'B07MJKQQ2N-es Adidas Advantage K  Zapatillas de Tenis Unisex niño  Blanc Rose Intense Blanc  28 EU'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

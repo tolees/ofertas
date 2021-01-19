@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wCxHC3RrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AY6CYIU-es'
+slug: 'B01AY6CYIU-es UGG W Classic Mini II  Botas para Mujer  Gris  Grey Grey   38 EU'
 actualPrice: 122.66 EUR
 currency: EUR
 price: 122.66

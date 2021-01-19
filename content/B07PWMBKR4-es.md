@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Tfe5PDgLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWMBKR4-es'
+slug: 'B07PWMBKR4-es Magicfun Cojín Lumbar  Soporte para la Espalda Lumbar Soporte para Silla de Oficina Coche corrije la Postura Alivia el Dolor Lumbar'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

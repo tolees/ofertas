@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Vr4ekN9tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFJ7BYZ-es'
+slug: 'B07NFJ7BYZ-es Casio Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Resina MW-240-7EVEF'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

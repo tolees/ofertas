@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bOz06WqpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002WGHYN6-es'
+slug: 'B002WGHYN6-es Superga 2750 COTU Classic  Zapatillas de Gimnasia Unisexo  Negro  Full Black S996   37 EU'
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

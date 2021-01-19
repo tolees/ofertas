@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YTeLnpJBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07774HWDL-es'
+slug: 'B07774HWDL-es Tommy Jeans Hombre Scanton Rinsc Jeans  Azul  Rinse Comfort 498   W27/L34'
 actualPrice: 36.39 EUR
 currency: EUR
 price: 36.39

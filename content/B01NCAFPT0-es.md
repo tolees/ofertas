@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HNxh1QmUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCAFPT0-es'
+slug: 'B01NCAFPT0-es PUMA Basket Heart Patent WN S  Zapatillas para Mujer  Negro Black Black  38 EU'
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

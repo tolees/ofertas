@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EfCiusS0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082J5XFBC-es'
+slug: 'B082J5XFBC-es HOMYBABY Reductor WC Niños | Adaptador WC Niños para Aprender a ir al Baño | Asiento Inodoro Niños Universal | Adaptador Baño Antideslizante | Orinal Bebe WC Portatil | Asiento Bebe Blanco y Turquesa'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

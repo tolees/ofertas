@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SjlLyQCFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005NDXQ5U-es'
+slug: 'B005NDXQ5U-es Smart Games Robaczki'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZiZ3F9lrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WP9MV9-es'
+slug: 'B082WP9MV9-es RioRiva En calcetines para hombre de envoltura de regalos con rayas de algodón 90%  bonito diseño de media pantorrilla  estilo colorido  #122-6P  XL: EU 47-50 '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lTWAgqqxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8TRHHM-es'
+slug: 'B07P8TRHHM-es Charles Wilson Vaquero Corto Elástico Cómodo para Hombre  Bleach  28" '
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

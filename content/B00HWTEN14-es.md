@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FlmWYvBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HWTEN14-es'
+slug: 'B00HWTEN14-es NATURALIA - Colchón Cuna Baby Memory visco  Talla 117x57cm  Color Blanco/Gris'
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

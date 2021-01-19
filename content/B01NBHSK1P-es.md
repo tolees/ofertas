@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w4hv0K6tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBHSK1P-es'
+slug: 'B01NBHSK1P-es Tristar VE-5999  Ventilador de torre  75 centímetros  45 W  función de temporizador  blanco y negro'
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

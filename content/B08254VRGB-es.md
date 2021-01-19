@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JIdUhpExL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08254VRGB-es'
+slug: 'B08254VRGB-es Paraguas Frozen 2 Disney Paraguas Cúpula Paraguas Automático Infantil Niña 45cm'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

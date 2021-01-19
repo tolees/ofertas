@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413JYRL+4AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B625HNZ-es'
+slug: 'B07B625HNZ-es Amtier Pulsera de Cuero Brazalete Ajustable con Acero Inoxidable Push-Pull Cierre para Hombre'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21XL0VjM0oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNH45ZB-es'
+slug: 'B07CNH45ZB-es Bolsas de plástico resellables  bolsa sellada  bolsa de almacenamiento  30X40cm 100pcs  engrosamiento y duradero  se aplican a diversos artículos del hogar/almacenamiento de la cocina/ropa sellada'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

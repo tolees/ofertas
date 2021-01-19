@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BIDte2GIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYL4YZ6-es'
+slug: 'B07RYL4YZ6-es New Balance 574v2  Zapatillas para Mujer  Marfil  Off Ex   35 EU'
 actualPrice: 37.73 EUR
 currency: EUR
 price: 37.73

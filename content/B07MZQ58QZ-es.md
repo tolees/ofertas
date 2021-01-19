@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5172TVUQqVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ58QZ-es'
+slug: 'B07MZQ58QZ-es Funko- Mystery Mini Cajita misteriosa  incluye algún personaje de Juego de Tronos  Multicolor  37701 '
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

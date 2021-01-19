@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51wMNzdNLVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MCBGHA2-es'
+slug: 'B00MCBGHA2-es Seiko Reloj Analógico Automático para Hombre con Correa de Cuero - SSA231K1 Blanco-'
 actualPrice: 243 EUR
 currency: EUR
 price: 243

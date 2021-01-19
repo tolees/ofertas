@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518OdXEttBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4ZRJJY-es'
+slug: 'B07B4ZRJJY-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter  Gris  Dark Grey Melange Detail:Melange   Small para Hombre'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

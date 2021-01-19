@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51VDl0Z-irL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZGH5DTL-es'
+slug: 'B07ZGH5DTL-es 80 en 1 juego de destornillador de precisión  Kit de herramientas de reparación de bricolaje para arreglar móviles smartphones portátiles y otros electrónicos'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

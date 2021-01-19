@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rjceMVm8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07774FTZM-es'
+slug: 'B07774FTZM-es Tommy Jeans Mujer Mid Rise  Nora Jeans  Niceville Mid Stretch 916  W28/L34'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

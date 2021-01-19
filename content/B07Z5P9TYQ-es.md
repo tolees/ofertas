@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jlGdTtnXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5P9TYQ-es'
+slug: 'B07Z5P9TYQ-es Mumusuki conservante Cobre Puro PU Er Aguja de té PU Erh Puer Cuchillo de té Accesorios 1 unid'
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

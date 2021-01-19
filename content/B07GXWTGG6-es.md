@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DtfBTdN-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXWTGG6-es'
+slug: 'B07GXWTGG6-es EMPIRE GAMING Teclado de PC Empire K300 QWERTY– 105 Teclas Semi-mecánicas con 19 Teclas Anti-gosthing 12 accesos directos Multimedia Retroiluminación LED RGB'
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

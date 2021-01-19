@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mkp3pjsPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP33PDV-es'
+slug: 'B07KP33PDV-es adidas Fit 2pc 3s Traje de Baño  Mujer  Negro  42'
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

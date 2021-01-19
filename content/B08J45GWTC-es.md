@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dYhfVjMWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08J45GWTC-es'
+slug: 'B08J45GWTC-es 50 Piezas En Una Caja Cada Pieza Envuelta Individualmente  Cubierta CóModa para El Polvo Unisex  Azul '
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

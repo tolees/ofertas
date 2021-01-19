@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XPKSpErIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IH1Q1V0-es'
+slug: 'B01IH1Q1V0-es Batman Animated Series New Batman Adventures Catwoman Action Figure'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

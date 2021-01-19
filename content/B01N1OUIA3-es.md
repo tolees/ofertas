@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LeBH4WhqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1OUIA3-es'
+slug: 'B01N1OUIA3-es ALLPOWERS Panel Solar Baterías Cargador 18V 12V 18W Panel Módulo Solar mechero de Coche Mantenimiento de Batería para Coches  Caravana  Moto  Bote  Barco'
 actualPrice: 41.73 EUR
 currency: EUR
 price: 41.73

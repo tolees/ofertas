@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yI08bSreL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017IZGN50-es'
+slug: 'B017IZGN50-es Elizabeth Arden Ceramide Time Complex Desmaquillante Facial Oil 200 ml'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

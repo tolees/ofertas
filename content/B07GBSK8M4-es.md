@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41myCN8ienL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBSK8M4-es'
+slug: 'B07GBSK8M4-es HpyAlwys - Organizador Universal de Piel para Guardar Llaves de Dinero y Dinero en Coche'
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

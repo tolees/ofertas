@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GD3stT-+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PTLVTKZ-es'
+slug: 'B07PTLVTKZ-es Kipling City Pack  Mochilas para Mujer  Multicolor  Navy Stick Print   32x37x18.5 cm'
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

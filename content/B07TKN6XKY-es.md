@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kJoooEFrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKN6XKY-es'
+slug: 'B07TKN6XKY-es Clarks C MOCC Boat  Mocasines para Mujer  Blanco  White Leather White Leather   42 EU'
 actualPrice: 44.7 EUR
 currency: EUR
 price: 44.7

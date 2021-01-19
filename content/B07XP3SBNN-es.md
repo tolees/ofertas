@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4196BUCrmiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XP3SBNN-es'
+slug: 'B07XP3SBNN-es YGJT Termos para Comida Conjunto de 2 Piezas 500ML + 700ML Contenedor de Comida Aislado Lonchera Frascos Térmicos para Niños/Adultos con Cucharas Plegables Aislamiento Frío/Calor -Fugas'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

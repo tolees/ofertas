@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LaFmeosDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4HMXWY-es'
+slug: 'B07S4HMXWY-es Tom Tailor Denim Cargo Pantalones de Deporte  Verde  Green Dot Dobby Yarn 18941   48  Talla del Fabricante: Medium  para Hombre'
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

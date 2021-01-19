@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vFnjrl+FL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P114FJH-es'
+slug: 'B07P114FJH-es LIGHTAILING Conjunto de Luces  Harry Potter Gran Comedor de Hogwarts  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 75954  NO Incluido en el Modelo '
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

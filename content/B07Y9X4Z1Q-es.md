@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pYkRsthzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9X4Z1Q-es'
+slug: 'B07Y9X4Z1Q-es María Barceló Sneaker Alta Piel Blanco Mujer'
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

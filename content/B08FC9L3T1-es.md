@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+0wLNWGrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FC9L3T1-es'
+slug: 'B08FC9L3T1-es Cabin Max Manhattan Stowaway XL - Maleta de Cabina para Ryanair 40x20x25 Maleta de Viaje Equipaje Gratis en vuelos de Ryanair  Material Reciclado Negro '
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

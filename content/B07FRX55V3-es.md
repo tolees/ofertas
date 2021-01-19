@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61zJwQ+dHzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FRX55V3-es'
+slug: 'B07FRX55V3-es Shadows Awakening'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

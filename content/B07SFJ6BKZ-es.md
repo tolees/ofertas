@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415YFADjqFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFJ6BKZ-es'
+slug: 'B07SFJ6BKZ-es Nike W M2k Tekno  Zapatillas de Gimnasia para Mujer  Verde  Gridiron/Gridiron/Atmosphere Grey/Luminous Green/Atomic Violet/Summit White 015   36 EU'
 actualPrice: 57.98 EUR
 currency: EUR
 price: 57.98

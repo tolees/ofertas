@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ixYL%2Bv2dL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7KX72Q-es'
+slug: 'B07M7KX72Q-es GLOBE Encore-2  Zapatillas de Skateboarding para Hombre  Azul  Navy/Gum 000   43 EU'
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

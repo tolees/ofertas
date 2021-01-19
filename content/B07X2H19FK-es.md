@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IhL72iLyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2H19FK-es'
+slug: 'B07X2H19FK-es Hotott Hub USB c Lector de Tarjetas de Memoria UHS-II  SD 4.0/TF 2 USB 3.0  PD Carga Rápida Compatible con para Macbook Pro  Google Chromme  Hua Wei Matebook  Galaxy S10  etc.'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SiCzSkNbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0039YOHK8-es'
+slug: 'B0039YOHK8-es Casio Reloj de Pulsera MTP-1303PD-7AVEF'
 actualPrice: 30.55 EUR
 currency: EUR
 price: 30.55

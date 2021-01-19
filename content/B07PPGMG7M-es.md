@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SzRBZrS9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPGMG7M-es'
+slug: 'B07PPGMG7M-es Axe Desodorante Black Pack Duplo Ahorro - 150 ml'
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

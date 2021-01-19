@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CF6tuFz0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B83RWBI-es'
+slug: 'B00B83RWBI-es Gigandet Reloj de Hombre Automático Sea Ground Vintage Reloj de Buceo Analógico Correa de Acero Negro Plata G2-007'
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

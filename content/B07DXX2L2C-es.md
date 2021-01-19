@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41miuWJMooL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXX2L2C-es'
+slug: 'B07DXX2L2C-es Nestlé Papillas NESTUM Cereales para bebé con galleta - 3 papillas de 650g -Total 1950g'
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

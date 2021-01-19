@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51uDQElbuzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D1GD8GP-es'
+slug: 'B07D1GD8GP-es Alienwork Reloj Unisex Relojes Hombre Mujer Acero Inoxidable Banda de Malla Metálica Oro Rosa Analógicos Cuarzo Calendario Fecha Blanco Impermeable Ultra-Delgada Slim'
 actualPrice: 15.77 EUR
 currency: EUR
 price: 15.77

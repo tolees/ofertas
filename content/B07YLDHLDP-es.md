@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xtTTxj-KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YLDHLDP-es'
+slug: 'B07YLDHLDP-es Philips D4702B/34 - Pack de 2 Teléfonos Fijos Inalámbricos  Retroiluminación  HQ-Sound  16 Horas  Contacto 2 Números  Manos Libres  My Sound  Modo Privado  Despertador  Indicador Evento  Eco+  Negro'
 actualPrice: 48.36 EUR
 currency: EUR
 price: 48.36

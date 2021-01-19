@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VP0BuZhWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N8VGYXR-es'
+slug: 'B01N8VGYXR-es Elli Pendientes para dama forma geométrica con cristales Swarovski® en plata de ley 925'
 actualPrice: 26.06 EUR
 currency: EUR
 price: 26.06

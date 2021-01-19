@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41frXrRssvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTXHFQ6-es'
+slug: 'B07FTXHFQ6-es Pour Moi? Ditto Underwired Bra Sujetador con Aros  Blanco  White White   90F para Mujer'
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

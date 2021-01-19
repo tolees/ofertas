@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MuNUouI1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IIOHWI8-es'
+slug: 'B00IIOHWI8-es Muvit MUGOO0008 Riñonera Cinturón Elástico Impermeable  Unisex Adulto  Negro  Talla Única'
 actualPrice: 9.05 EUR
 currency: EUR
 price: 9.05

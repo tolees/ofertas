@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MFi56r5sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFGNJF6-es'
+slug: 'B07NFGNJF6-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SHE-3066PGL-7AUEF'
 actualPrice: 62.88 EUR
 currency: EUR
 price: 62.88

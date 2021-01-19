@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4156sH-MznL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JLXF13M-es'
+slug: 'B01JLXF13M-es MICROMIC Base del Vaso para Thermomix TM21-Junta de estanqueidad Apto para Vorwerk Thermomix TM21  Recambio Adaptable '
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

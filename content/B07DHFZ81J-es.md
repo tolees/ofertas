@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419JOB-14dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHFZ81J-es'
+slug: 'B07DHFZ81J-es Carttiya Cojin Lumbar Coche  Almohada de Soporte Lumbar de Espuma de Memoria Cojín Respaldo Ortopédico Ergonómico para Automóvil  Silla Oficina  Alivio del Fatiga de Espalda'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

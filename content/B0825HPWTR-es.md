@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51k5pbu8NbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825HPWTR-es'
+slug: 'B0825HPWTR-es San Ignacio MasterPro GRAN FORMATO-Grill 28x28  Wok 28 y Plancha Asador 36 cms  gris  inducción  aluminio forjado'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

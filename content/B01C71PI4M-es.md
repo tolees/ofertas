@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NXLSE1E+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C71PI4M-es'
+slug: 'B01C71PI4M-es Monvecle - Bermudas - para bebé niña 3 Pack 3 Colors'
 actualPrice: 15.66 EUR
 currency: EUR
 price: 15.66

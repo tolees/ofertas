@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p6NX7-H0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TL2SKF-es'
+slug: 'B083TL2SKF-es TONGJI Vitrina de Acrílico Compatible con Lego 42110 Technic - Land Rover Defender  Vitrina A Prueba De Polvo  Modelo No Incluido '
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vNQdKfmQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PAQGYIG-es'
+slug: 'B00PAQGYIG-es Pioneer DEH-8700BT DEH-8700BT-Autorradio  Multicolor'
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31On1kHqh0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084BTZJV6-es'
+slug: 'B084BTZJV6-es PEKITAS LOTE 2 Sábanas Bajera Ajustable Protectora Minicuna 50x80 cm 100% Algodón Blanco'
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PUwiUEY5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YPQ5T1R-es'
+slug: 'B07YPQ5T1R-es Aceite de Onagra 10% GLA + Vitamina E NAVIT PLUS | 200 perlas para reducir el dolor menstrual  síntomas de la menopausia y mejorar el equilibrio hormonal | fortalece huesos  uñas y piel | Fab Esp.'
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xXA0FNocL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXHOMR5-es'
+slug: 'B01LXHOMR5-es Bosch Professional GSS 18V-10 Orbital  Plato lijador 113 x 101 mm  microfiltro  sin batería  en L-BOXX  18 V  Azul'
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

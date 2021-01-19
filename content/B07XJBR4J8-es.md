@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NtUa8SbHL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJBR4J8-es'
+slug: 'B07XJBR4J8-es Rmeet Bolsa para Cosméticos Portátil Bolsas de Maquillaje de Viaje Impermeable Árbol Neceser de Maquillajepara Mujeres niñas'
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rDEOty7BL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBK29Y7-es'
+slug: 'B07JBK29Y7-es Hackett London Aston Martin Racing Tip Cllr Polo  Blanco  White 800   X-Large para Hombre'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

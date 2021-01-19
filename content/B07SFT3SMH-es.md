@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wZI4OWOqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFT3SMH-es'
+slug: 'B07SFT3SMH-es adidas Adilette Aqua  Slide Sandal Womens  Dust Pink/Footwear White/Dust Pink  37 EU'
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

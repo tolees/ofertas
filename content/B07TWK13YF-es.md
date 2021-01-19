@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313QzwPhK+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWK13YF-es'
+slug: 'B07TWK13YF-es Belkin Boost Charger - Cargador para coche USB-C  18 W  con cable de USB-C de Lightning de 1.2 m  carga rápida para iPhone 11  11 Pro/Pro Max  XS/XS Max  XR  X  SE  8  8 Plus y iPad Pro  10.5 pulgadas'
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

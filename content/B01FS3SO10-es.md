@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oO8njog0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FS3SO10-es'
+slug: 'B01FS3SO10-es Soy Luna- Disney  Altavoz Portátil   Lexibook RCD102SL  Reproductor de CD para niños  Boombox Auriculares  Conector AUX-IN  Radio FM  niña  CA o con Pilas  Rosa/Amarillo  Color'
 actualPrice: 32.88 EUR
 currency: EUR
 price: 32.88

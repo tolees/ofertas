@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YwwFgE3WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TS9GZBX-es'
+slug: 'B07TS9GZBX-es Gant Cocoville  Zapatillas para Mujer  Blanco  BR.Wht./Cream/Beige G295   42 EU'
 actualPrice: 53.55 EUR
 currency: EUR
 price: 53.55

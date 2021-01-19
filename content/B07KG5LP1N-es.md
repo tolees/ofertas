@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gzuStJ8pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG5LP1N-es'
+slug: 'B07KG5LP1N-es PUMA ST Runner V2 Mesh  Zapatillas para Hombre  BLU  37.5 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

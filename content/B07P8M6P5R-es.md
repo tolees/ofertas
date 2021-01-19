@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5131Wl66ZqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8M6P5R-es'
+slug: 'B07P8M6P5R-es SDBAUX 3 in 1 Cable de Carga 2Pack Múltiples USB Cargador Rápido Cable de Ocho Pin Tipo C Micro USB Compatible con Samsung Galaxy S9 S8 Plus LG G5 V30 Google Pixel 2XL OnePlus iPad iPod  Solo Carga '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

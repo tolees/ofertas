@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IZkOAd0DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CK87K1D-es'
+slug: 'B08CK87K1D-es Colmanda Juguetes de Maquillaje Niños  18 Piezas Kit de Maquillaje para Niñas Juego de Juguetes de Maquillaje  Cosméticos Belleza Juguetes Juego de Maquillaje Lavable para Niños'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

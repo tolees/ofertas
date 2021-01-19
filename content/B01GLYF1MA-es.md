@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511B+xAeFYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GLYF1MA-es'
+slug: 'B01GLYF1MA-es Bellota 7230042S3 Botas  piel   42'
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

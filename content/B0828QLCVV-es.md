@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4174O+gFYCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0828QLCVV-es'
+slug: 'B0828QLCVV-es SHEGRACE plata de ley'
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

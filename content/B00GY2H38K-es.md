@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vqtUufbYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GY2H38K-es'
+slug: 'B00GY2H38K-es GASA ESTERIL INDAS CAJA 100 UNID SOBRE 5 U'
 actualPrice: 5.68 EUR
 currency: EUR
 price: 5.68

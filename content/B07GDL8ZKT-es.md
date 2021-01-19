@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41olCRvkxRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDL8ZKT-es'
+slug: 'B07GDL8ZKT-es DANISH ENDURANCE Bóxers para Hombres Pack de 3  Negro  Small '
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

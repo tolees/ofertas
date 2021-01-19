@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LuT9WFRoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003U3VWSI-es'
+slug: 'B003U3VWSI-es Marc Ecko Reloj Análogo clásico para Unisex de Cuarzo con Correa en Cuero E10038M1'
 actualPrice: 59.85 EUR
 currency: EUR
 price: 59.85

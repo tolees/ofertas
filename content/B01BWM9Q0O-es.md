@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XAinNydML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BWM9Q0O-es'
+slug: 'B01BWM9Q0O-es Panasonic Lumix DMC-TZ100EG-K - Cámara Compacta Premium de 21.1 MP  Sensor de 1"  Objetivo F2.8-F5.9 de 25-250mm  Zoom de 10X  4K  WiFi  Bluetooth  Raw   Color Plata'
 actualPrice: 410.51 EUR
 currency: EUR
 price: 410.51

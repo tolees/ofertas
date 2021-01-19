@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wbqa6aZBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3RTJBX-es'
+slug: 'B07N3RTJBX-es Palette Intense - Tono 4.6 Castaño Marrón - 2 uds - Coloración Permanente - Schwarzkopf'
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

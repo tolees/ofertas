@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51e0TAl3mDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E96YC3Q-es'
+slug: 'B01E96YC3Q-es UGG 1016501  Botas de Nieve Mujer  Marrón  Chestnut   39 EU'
 actualPrice: 130.28 EUR
 currency: EUR
 price: 130.28

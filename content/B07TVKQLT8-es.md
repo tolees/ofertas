@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31afh08sSLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVKQLT8-es'
+slug: 'B07TVKQLT8-es Wrangler Texas Contrast Hombre Pantalones  Beige  Sand 58n   44W / 34L'
 actualPrice: 44.16 EUR
 currency: EUR
 price: 44.16

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r6wQ7MtWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GHOKVC0-es'
+slug: 'B00GHOKVC0-es Concordia'
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

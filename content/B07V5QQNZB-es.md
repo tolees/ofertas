@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vwaPx3sAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QQNZB-es'
+slug: 'B07V5QQNZB-es Tommy Hilfiger Modern Corporate Leather Runner  Zapatillas para Hombre  Blanco  White Ybs   42 EU'
 actualPrice: 49.27 EUR
 currency: EUR
 price: 49.27

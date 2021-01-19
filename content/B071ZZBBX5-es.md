@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iQj1GjwJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZZBBX5-es'
+slug: 'B071ZZBBX5-es Carterón Pepe Jeans Jake'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

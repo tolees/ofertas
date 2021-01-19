@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nh4BI0mzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G78J9XB-es'
+slug: 'B07G78J9XB-es Dilwe Reloj Analógico Casual Esfera Redonda Patrón de Conejo Banda de Reloj Ajustable de Cuero de PU'
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

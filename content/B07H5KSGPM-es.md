@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HnG25R18L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5KSGPM-es'
+slug: 'B07H5KSGPM-es Botas de Invierno para Hombre con Botas de Nieve Camfosy Seguridad de Nubuck con Piel Cálida Calzado Cómodo de Ciudad con Botas Altas de Chukka Impermeables con Cordones Negro Marrón Amarillo Azul'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

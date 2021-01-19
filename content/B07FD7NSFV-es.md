@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51X15wK0OqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FD7NSFV-es'
+slug: 'B07FD7NSFV-es Starlink Co-Op Pack'
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

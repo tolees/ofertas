@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sQ1YULRzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ29T5N-es'
+slug: 'B07NZ29T5N-es Superdry OL Elite Ziphood Capucha  Morado  Dusty Lilac De U   XX-Small para Mujer'
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

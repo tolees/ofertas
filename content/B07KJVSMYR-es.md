@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PgWOL0huL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJVSMYR-es'
+slug: 'B07KJVSMYR-es Saucony Cohesion 12  Zapatillas de Running para Hombre  Negro Negro 10  44.5 EU'
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

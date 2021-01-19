@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510fz-p1vwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CZMSYZS-es'
+slug: 'B01CZMSYZS-es Buscando a Dory - Disfraza a Dory  Bandai 36690 '
 actualPrice: 9.27 EUR
 currency: EUR
 price: 9.27

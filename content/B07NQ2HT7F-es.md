@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oF1VrJ+VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQ2HT7F-es'
+slug: 'B07NQ2HT7F-es Brabantia Bo Touch Bin Cubo de basura 11 + 23 l  color mineral Concrete Grey'
 actualPrice: 111.3 EUR
 currency: EUR
 price: 111.3

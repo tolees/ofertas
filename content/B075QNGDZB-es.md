@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j0NNThmGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QNGDZB-es'
+slug: 'B075QNGDZB-es Grohe Grohtherm SmartControl Perfect  - Juego de ducha con termostato  para instalación empotrada con tres válvulas  alcachofa  teleducha  brazo de ducha y flexo  Ref. 34706000 '
 actualPrice: 870.78 EUR
 currency: EUR
 price: 870.78

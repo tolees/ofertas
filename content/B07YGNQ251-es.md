@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vcai6x1+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGNQ251-es'
+slug: 'B07YGNQ251-es Controlador Cepillo  24V 350W Controlador para Bicicletas Eléctricas  Patinete Eléctrico'
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

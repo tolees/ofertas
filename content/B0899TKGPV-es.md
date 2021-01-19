@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WPnTtNmDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0899TKGPV-es'
+slug: 'B0899TKGPV-es PISEN PowerCube 20000 mAh  negro  cargador portátil portátil  batería externa  salidas USB 2  puede ahorrar tiempo  utilizar el elegante diseño del teléfono móvil  tablet PC Powerbank'
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

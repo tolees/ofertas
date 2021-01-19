@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kZe-iq5ML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6C3PS8-es'
+slug: 'B01M6C3PS8-es Maybelline New York The 24 Karat Nudes  Paleta de Sombras de Ojos'
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

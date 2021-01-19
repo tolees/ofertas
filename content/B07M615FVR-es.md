@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ugqa6JifL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M615FVR-es'
+slug: 'B07M615FVR-es AWESAFE GPS para Coches con 5 Pulgadas Pantalla LCD  Navegador GPS para Coche y Camión con Actualizaciones de Mapas para Toda la Vida'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

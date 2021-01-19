@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mYRkdc4JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9XTTTP-es'
+slug: 'B07Y9XTTTP-es Eva López Botín Piel Cowboy Marrón Mujer'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

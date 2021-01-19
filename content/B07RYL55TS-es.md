@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411xwitNzlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYL55TS-es'
+slug: 'B07RYL55TS-es New Balance 574v2  Zapatillas para Mujer  Negro  Black/Grey Ez   36 EU'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

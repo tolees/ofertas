@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Uv0GhAsKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L4CB9X0-es'
+slug: 'B00L4CB9X0-es PetSafe PAL19-14656 Caja de Arena autolimpiante para Gatos ScoopFree Ultra'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

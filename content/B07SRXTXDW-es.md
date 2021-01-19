@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WpXRjcLeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRXTXDW-es'
+slug: 'B07SRXTXDW-es Mr. Tronic 20m Cable de Red Plano Ethernet Latiguillo | CAT6  AWG24  CCA  UTP  RJ45  20 Metros  Blanco '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

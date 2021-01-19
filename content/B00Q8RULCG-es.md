@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LQPwPOaUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q8RULCG-es'
+slug: 'B00Q8RULCG-es adidas Originals Stan Smith CF C  Zapatillas Unisex Niños  Blanco  Footwear White/Footwear White/Bold Pink 0   35 EU'
 actualPrice: 37.97 EUR
 currency: EUR
 price: 37.97

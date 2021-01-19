@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51YS%2BUPXqzL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVD8MFB-es'
+slug: 'B07NVD8MFB-es Simpeak Funda Compatible con Huawei P30 Pro  6.47"/2019   Funda Libro Compatible con Huawei P30 Pro Carcasa Huawei P30 Pro Soporte Plegable/Ranuras Tarjetas y Billetes Acceso a Botones  Negro'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

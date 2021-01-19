@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OODaCPwxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017VXNQMW-es'
+slug: 'B017VXNQMW-es KOTION Cada G2000 estéreo de 3 5 mm Over-Oreja Gaming Gaming Headset de Auriculares con micrófono estéreo Bass luz LED para PC del Juego'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

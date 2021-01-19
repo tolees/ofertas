@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B40gX8Z6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXMTZQJ-es'
+slug: 'B07GXMTZQJ-es adidas Falcon W  Running Shoe Womens  Footwear White Footwear White Crystal White  42 2/3 EU'
 actualPrice: 66.45 EUR
 currency: EUR
 price: 66.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aXSs3ahdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1UWZNT-es'
+slug: 'B01N1UWZNT-es Gant Classic Leather Belt Cinturón  Negro  Black   130  Talla del fabricante: 115  para Hombre'
 actualPrice: 28.03 EUR
 currency: EUR
 price: 28.03

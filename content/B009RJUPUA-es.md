@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B009RJUPUA-es'
+slug: 'B009RJUPUA-es Cat Footwear Colorado  Botas para Hombre  Beige  Honey   41 EU'
 actualPrice: 74.63 EUR
 currency: EUR
 price: 74.63

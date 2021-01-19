@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cLTmTV-1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0001IWAS6-es'
+slug: 'B0001IWAS6-es STANLEY 1-92-066 - Caja de herramientas Milenium  48.9 x 26 x 24.8 cm'
 actualPrice: 14.32 EUR
 currency: EUR
 price: 14.32

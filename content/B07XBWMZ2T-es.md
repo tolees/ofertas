@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cELP8eX7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBWMZ2T-es'
+slug: 'B07XBWMZ2T-es Manija de puerta Star Design Crash Pad Perilla de puerta Protector de pared Autoadhesivo Perilla de goma Lock Crash Mat Pad - Rosa'
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

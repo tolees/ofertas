@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lpllS2aCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0847WWP3T-es'
+slug: 'B0847WWP3T-es Oddworld: Stranger s Wrath HD'
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

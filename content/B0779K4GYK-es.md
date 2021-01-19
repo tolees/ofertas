@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31P-1LRGc3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779K4GYK-es'
+slug: 'B0779K4GYK-es Pepe Jeans Poppy  Pantalones Cortos Para Mujer  Azul  Denim Ta2   25W'
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

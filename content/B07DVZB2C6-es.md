@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k-fwBl+DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVZB2C6-es'
+slug: 'B07DVZB2C6-es Columbia Caldorado III  Zapatillas de Running para Asfalto para Hombre  Gris  Ti Grey Steel 033   40 EU'
 actualPrice: 63.51 EUR
 currency: EUR
 price: 63.51

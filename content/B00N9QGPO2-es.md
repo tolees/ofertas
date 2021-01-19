@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oIyfH9XwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N9QGPO2-es'
+slug: 'B00N9QGPO2-es Helly Hansen HH Duffel Bag 2 90L Bolsa de Viaje  Unisex Adulto  Negro'
 actualPrice: 74.91 EUR
 currency: EUR
 price: 74.91

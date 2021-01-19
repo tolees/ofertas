@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uwwLPnZLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1YRH4-es'
+slug: 'B07KG1YRH4-es Puma Icra Trainer Sd V Inf Zapatillas Unisex Niños  Rojo  Rhubarb-Castlerock-Puma Black-Puma White 29   23 EU'
 actualPrice: 10.78 EUR
 currency: EUR
 price: 10.78

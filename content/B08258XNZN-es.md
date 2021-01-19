@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61ftosvJi2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08258XNZN-es'
+slug: 'B08258XNZN-es Baker Ross Kits de Costura de Madera Flores  paquete de 4  - Artes y manualidades para niños'
 actualPrice: 4.66 EUR
 currency: EUR
 price: 4.66

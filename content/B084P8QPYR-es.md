@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415v+FCDapL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084P8QPYR-es'
+slug: 'B084P8QPYR-es LoveOlvido Orffworld Cocodrilo Forma Castañuela de Madera Bebé Instrumento Musical Bebé de Dibujos Animados Instrumento Musical Instrumento Juguete Sonajero - Verde'
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

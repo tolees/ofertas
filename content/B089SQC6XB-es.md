@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MnscTxBjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SQC6XB-es'
+slug: 'B089SQC6XB-es Kloius Niños de la Manera LED del Reloj Digital del Reloj del Deporte del silicón Reloj Pulsera Informática'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

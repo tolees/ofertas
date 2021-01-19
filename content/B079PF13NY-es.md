@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31518JQnP+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PF13NY-es'
+slug: 'B079PF13NY-es Jam Out There Auriculares bluetooth en el oído con cancelación activa de ruidos - Gris'
 actualPrice: 31.05 EUR
 currency: EUR
 price: 31.05

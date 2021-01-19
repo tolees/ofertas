@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YgmOUk8JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZV3JBG-es'
+slug: 'B07NZV3JBG-es Laken Unisex - Adultos Classic Aluminio Azul Claro 0 75 litros BPA Libre Botella de aluminio 0 75 litros PBA'
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

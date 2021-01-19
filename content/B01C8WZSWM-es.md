@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U8ax4JonL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C8WZSWM-es'
+slug: 'B01C8WZSWM-es Seiko Reloj Analogico para Hombre de Automático con Correa en Acero Inoxidable SKA717P1'
 actualPrice: 178.06 EUR
 currency: EUR
 price: 178.06

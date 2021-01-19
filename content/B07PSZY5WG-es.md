@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31jrfjOYVLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSZY5WG-es'
+slug: 'B07PSZY5WG-es New Balance 373  Zapatillas para Hombre  Negro  Black/Magnet Black/Magnet   42 EU'
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

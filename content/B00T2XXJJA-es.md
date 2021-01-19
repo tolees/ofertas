@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X0Nd4tXJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T2XXJJA-es'
+slug: 'B00T2XXJJA-es Remington Ionic Dry D3190 Secador de Pelo  Secador Iónico  Difusor y Concentrador  2200 W  Morado y Negro'
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

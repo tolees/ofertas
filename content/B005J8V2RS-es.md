@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ajzCAAqeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005J8V2RS-es'
+slug: 'B005J8V2RS-es Levi s Free  Cinturón Unisex adulto  Negro  Black   110 cm  Talla del fabricante: 110 '
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WVYxhjBpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085W3J8VG-es'
+slug: 'B085W3J8VG-es Head Pala de Padel Graphene Monster 2020'
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

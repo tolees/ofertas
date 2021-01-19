@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ixAAH+SCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HFPFC7-es'
+slug: 'B078HFPFC7-es Sisbelt Forte Complemento Alimenticio con Berenjena y Alcachofa - 225 ml'
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

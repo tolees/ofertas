@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512NjG27TEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000HKZQFM-es'
+slug: 'B000HKZQFM-es Bourjois Delice De Poudre Polvos Bronceadores Tono 52 - 68 g'
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

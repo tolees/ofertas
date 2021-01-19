@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lmofLgFyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KZJERAE-es'
+slug: 'B01KZJERAE-es SAILUN® 48W LED Cristal Lámpara de Araña Moderna Lámpara Colgante  2 anillos Lámpara de Techo Blanco Cálido Iluminación Interior  48W Blanco frío '
 actualPrice: 53.62 EUR
 currency: EUR
 price: 53.62

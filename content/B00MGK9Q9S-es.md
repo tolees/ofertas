@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tQ7q0ULJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MGK9Q9S-es'
+slug: 'B00MGK9Q9S-es Rimmel London Brown This way Kit esculpidor de cejas  Tono 003 Dark Brown - 1.1 gr'
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

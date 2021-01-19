@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EAlK6N3YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085VZPKTS-es'
+slug: 'B085VZPKTS-es 5 IN 1 Húmedo & Seco Afeitadora eléctrica para Hombre 4D cabeza y Barba Electrica Maquinilla De Afeitar 5 Cabezas Rotativa Afeitadora Cabeza Calva Depiladora Corporal Impermeable USB Recargable'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

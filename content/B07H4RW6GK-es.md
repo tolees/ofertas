@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vvLq2hSgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4RW6GK-es'
+slug: 'B07H4RW6GK-es Purina Friskies Pienso para Perro Adulto Buey  Cereales y Verduras 15 Kg'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

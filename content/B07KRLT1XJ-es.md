@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZyWNGY3SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRLT1XJ-es'
+slug: 'B07KRLT1XJ-es New Balance Yv373v1  Zapatillas para Niñas  Plateado  Silver Silver   38 EU'
 actualPrice: 28.24 EUR
 currency: EUR
 price: 28.24

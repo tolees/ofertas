@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fl9vVfrPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LM9GLP-es'
+slug: 'B079LM9GLP-es PERIO Enjuagues Bucales 1 Unidad 150 ml'
 actualPrice: 4.83 EUR
 currency: EUR
 price: 4.83

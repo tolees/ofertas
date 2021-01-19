@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hJeS+ZDfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKPZFH9-es'
+slug: 'B07FKPZFH9-es NIKE W NP Shrt 3in Pantalones Cortos  Mujer  Negro  Black/Black/White   XL'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

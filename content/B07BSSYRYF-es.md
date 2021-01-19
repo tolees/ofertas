@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61WKwlOdfaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSSYRYF-es'
+slug: 'B07BSSYRYF-es Gifort Bandeja de Hielo Bandejas para Hielo Silicona con Tapa Bandejas de Silicona 3 Pack Bandeja Del Cubo de Hielo de Calidad Profesional Vino Frutas Hierbas Salsas Postres Cócteles Cola Whisky'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

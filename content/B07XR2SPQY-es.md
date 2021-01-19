@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G2EvEN35L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XR2SPQY-es'
+slug: 'B07XR2SPQY-es Marca Amazon - FIND Shoe Boot Botas  Marrón  Chocolate Croc   38 EU'
 actualPrice: 6.17 EUR
 currency: EUR
 price: 6.17

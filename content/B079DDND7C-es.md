@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410bYPy8sRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DDND7C-es'
+slug: 'B079DDND7C-es Clatronic WKS 3691 Hervidor de Agua Eléctrico  2200 W  1.5 litros  Acero Inoxidable  Schwarz/Edelstahl'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

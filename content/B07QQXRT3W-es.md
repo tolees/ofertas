@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5171-aiWjrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQXRT3W-es'
+slug: 'B07QQXRT3W-es DINOKA esterillas Inflables  Esterilla Acampada Camping  Ultraligera Colchon Acampada Diseño de compresión único Inflado rápido para viajes senderismo camping playa piscina piscina  dar-azul '
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

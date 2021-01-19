@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HH5f+HpnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0039YOHI0-es'
+slug: 'B0039YOHI0-es Casio Reloj de pulsera AE-1000W-1AVCF'
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

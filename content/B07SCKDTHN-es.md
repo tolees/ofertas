@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jBrPEPShL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCKDTHN-es'
+slug: 'B07SCKDTHN-es LA Active Calcetines Antideslizantes - Para Yoga Pilates Ballet Barre Mujer Hombre - Ballet  Negro  34-36.5 EU '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312mkRpPx5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XWQ1JK4-es'
+slug: 'B00XWQ1JK4-es Nike Tanjun  Zapatillas Hombre  Negro  Black/Black-Anthracite   40 EU'
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

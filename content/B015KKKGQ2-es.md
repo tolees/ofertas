@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DBd5%2BZKKL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B015KKKGQ2-es'
+slug: 'B015KKKGQ2-es Kappa Rocket  Zapatillas Unisex Adulto  Negro  Black/White 1110   38 EU'
 actualPrice: 16.41 EUR
 currency: EUR
 price: 16.41

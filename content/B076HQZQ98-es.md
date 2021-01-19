@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D45TDHDEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HQZQ98-es'
+slug: 'B076HQZQ98-es adidas CORE18 tee T-Shirt  Hombre  Power Red/White  L'
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

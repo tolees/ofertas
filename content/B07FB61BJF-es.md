@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4184WHcRzDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FB61BJF-es'
+slug: 'B07FB61BJF-es Yosoy - Bebida de Avena - Caja de 8 packs de 3x250ml'
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

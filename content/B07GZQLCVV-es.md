@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jUL0QGvmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZQLCVV-es'
+slug: 'B07GZQLCVV-es SPC Chilly Radio FM y Am Color Negro con asa de sujeción'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

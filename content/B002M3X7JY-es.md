@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-64LJyQhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002M3X7JY-es'
+slug: 'B002M3X7JY-es Crazy Color Sky Blue Nº 59 Crema Colorante del Cabello Semi-permanente'
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

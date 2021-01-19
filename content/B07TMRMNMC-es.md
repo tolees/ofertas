@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rEODO9D6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMRMNMC-es'
+slug: 'B07TMRMNMC-es Clarks Un Costa Lace  Zapatillas  Azul  Navy Leather Navy Leather   42 EU'
 actualPrice: 48.93 EUR
 currency: EUR
 price: 48.93

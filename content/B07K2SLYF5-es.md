@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bU0XVd0NL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2SLYF5-es'
+slug: 'B07K2SLYF5-es Armani Exchange - Embossed Logo Crossbody Bag  Bolsos bandolera Mujer  Dorado  Gold   10x10x10 cm  W x H L '
 actualPrice: 58.31 EUR
 currency: EUR
 price: 58.31

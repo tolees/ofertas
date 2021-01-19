@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jeg+R-2VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M86ZQ6K-es'
+slug: 'B07M86ZQ6K-es Adidas ENERGYFALCON  Zapatillas de Trail Running para Hombre  Core Black FTWR White Grey Six  47 1/3 EU'
 actualPrice: 46.17 EUR
 currency: EUR
 price: 46.17

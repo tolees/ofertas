@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Af9d49QpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077RTPRBV-es'
+slug: 'B077RTPRBV-es Nike Air MAX 270  Zapatillas de Gimnasia para Hombre  Negro  Black/Black/Black 005   45 EU'
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

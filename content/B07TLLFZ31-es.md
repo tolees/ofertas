@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Coe8MfzmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLLFZ31-es'
+slug: 'B07TLLFZ31-es Superdry Classic Superstate S/s Polo  Rojo  Rouge Red Wa7   L para Hombre'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

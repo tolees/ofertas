@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sqfuzI-6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y6BW86Z-es'
+slug: 'B06Y6BW86Z-es Fujifilm Instax Mini 9 - Cámara instantánea  Solo cámara  Verde'
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

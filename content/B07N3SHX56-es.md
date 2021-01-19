@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jd+qrkEkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3SHX56-es'
+slug: 'B07N3SHX56-es Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona MK8685'
 actualPrice: 168.51 EUR
 currency: EUR
 price: 168.51

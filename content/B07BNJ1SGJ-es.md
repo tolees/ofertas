@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51-mE1b%2BmUL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BNJ1SGJ-es'
+slug: 'B07BNJ1SGJ-es Disney Frozen - El reino del hielo Bañador de dos piezas para niña Frozen Azul 6 - 12 Meses'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

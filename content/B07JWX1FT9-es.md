@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41viGSRy1PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWX1FT9-es'
+slug: 'B07JWX1FT9-es Columbia Fairbanks 1006  Botas para Hombre  Gris  Graphite  Red J   41 1/2 EU'
 actualPrice: 36.96 EUR
 currency: EUR
 price: 36.96

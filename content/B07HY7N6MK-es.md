@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Pl4gdC97L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HY7N6MK-es'
+slug: 'B07HY7N6MK-es Rowenta Perfect Steam Pro DG8626 Centro de Planchado Autonomía Ilimitada con 6.9 Bares  Golpe 450 Vapor Contínuo de 120 g/min  Suela Microsteam Laser 400  Función Eco  Depósito Cal'
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

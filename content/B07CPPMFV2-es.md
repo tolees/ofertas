@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w27eQrKuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPPMFV2-es'
+slug: 'B07CPPMFV2-es Munvot Mujer Mallas Deportivas Pantalones Cortos con Bolsillo para Correr Golf Yoga M'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

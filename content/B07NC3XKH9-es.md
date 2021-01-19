@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eGvgjmluL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC3XKH9-es'
+slug: 'B07NC3XKH9-es AXE Adrenaline Charge Up - Desodorante antitranspirante en Aerosol para hombre  48 horas de protección  150 ml  pack de 3'
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

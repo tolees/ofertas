@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/610HFOZ6vFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SVDTD9C-es'
+slug: 'B00SVDTD9C-es GREAT ART Mural De Pared Cuarto De Los Niños – Cascada Feng Shui – Mural Decoración Naturaleza Selva Paisaje Paraíso Vacaciones Tailandia Asia Bienestar SPA  336 x 238cm '
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

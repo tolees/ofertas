@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vm908T5XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088W76NHQ-es'
+slug: 'B088W76NHQ-es Oihxse Cristal Funda Compatible con OPPO Realme 3/Realme 3i Silicona Estuche TPU Suave Flexible Transparente Carcasa Calavera Rosa Flores Patrón Anti Rasguños Protector Caso E2 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

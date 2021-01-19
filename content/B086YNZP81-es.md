@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IF1aWhGmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YNZP81-es'
+slug: 'B086YNZP81-es Mono de bebé Promini para bebé – My First Eid Muslim Festival Celebration – Body de bebé de una sola pieza  el mejor regalo para bebé'
 actualPrice: 13.66 EUR
 currency: EUR
 price: 13.66

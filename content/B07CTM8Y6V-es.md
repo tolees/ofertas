@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FcSYVJByL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTM8Y6V-es'
+slug: 'B07CTM8Y6V-es FIND - Sunset Beauty - Trío de sombras de ojos  n.13  n.14  n.15 '
 actualPrice: 2.65 EUR
 currency: EUR
 price: 2.65

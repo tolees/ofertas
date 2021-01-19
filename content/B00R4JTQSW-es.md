@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31I7nNcnJoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R4JTQSW-es'
+slug: 'B00R4JTQSW-es Roca A5A3025C00 A5A2025C02 Monomando Mezclador Ducha  Modelo Victoria  Cromado  cromo'
 actualPrice: 46.6 EUR
 currency: EUR
 price: 46.6

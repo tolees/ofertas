@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ckw8fd44L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2MJ3GT-es'
+slug: 'B07K2MJ3GT-es adidas Runfalcon  Zapatillas de Entrenamiento para Mujer  Rosa Magrea Ftwbla Gritre 000  39 1/3 EU'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

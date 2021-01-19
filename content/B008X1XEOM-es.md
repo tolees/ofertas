@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514UDLKhI3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008X1XEOM-es'
+slug: 'B008X1XEOM-es Selene Sujetador Deportivo Olimpia Negro 100B'
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

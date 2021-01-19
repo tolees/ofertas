@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R34+pU-BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6LYPWJ-es'
+slug: 'B07K6LYPWJ-es Columbia Buga II Mono de esquí  Niños  Azul  Collegiate Navy   Talla: 4T'
 actualPrice: 82.53 EUR
 currency: EUR
 price: 82.53

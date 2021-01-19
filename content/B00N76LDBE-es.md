@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r3uMvjuNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N76LDBE-es'
+slug: 'B00N76LDBE-es NILFISK GM80 Aspirador icónico de Trineo con o sin Bolsa GM 80  900 W  6.25 litros  75 Decibelios  Aluminio  Gris'
 actualPrice: 372.92 EUR
 currency: EUR
 price: 372.92

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417pb934rqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNNQK5V-es'
+slug: 'B07VNNQK5V-es Calvin Klein Medium Drawstring Bañador  Azul  Black Iris CBK   Hombre'
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

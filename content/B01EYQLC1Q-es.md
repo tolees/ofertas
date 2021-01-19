@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L9jay0lKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EYQLC1Q-es'
+slug: 'B01EYQLC1Q-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 11927-369'
 actualPrice: 118.3 EUR
 currency: EUR
 price: 118.3

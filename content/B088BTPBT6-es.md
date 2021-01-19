@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418qCax480L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BTPBT6-es'
+slug: 'B088BTPBT6-es YPSNH Compatible para Garmin Fenix 3 Correa 26mm Suave Silicona Accesorio Fenix 5X Banda para Reloje Deportivos Correa de Repuesto para Fenix 3/Fenix 5X/Fenix 3 HR'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

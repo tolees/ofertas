@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xNyTxVH9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7FK62Q-es'
+slug: 'B07V7FK62Q-es Diadora Olympia  Zapatillas de Deporte para Hombre  Blanco  White/Black C0351   39 EU'
 actualPrice: 32.76 EUR
 currency: EUR
 price: 32.76

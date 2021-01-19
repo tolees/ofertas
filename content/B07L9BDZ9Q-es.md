@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-eB2zZ9TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9BDZ9Q-es'
+slug: 'B07L9BDZ9Q-es Nike Renew Rival 2  Zapatillas de Running para Hombre  Negro  Black/White/Anthracite 002   44 EU'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

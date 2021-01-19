@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51I6vWcMnHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFMXHXJ-es'
+slug: 'B07YFMXHXJ-es Riñonera Running cintura cinturón deportiva Belt botella titular Fitness impermeable cintura bolsa de transporte para Correr  ciclismo viajar senderismo y Bum Bag bolsa para iPhone Samsung Smartphones'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

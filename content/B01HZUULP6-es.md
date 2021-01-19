@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tPAdEO1NL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HZUULP6-es'
+slug: 'B01HZUULP6-es G-STAR RAW Bronson Mid Waist Skinny Chino Pantalones  Azul  Mazarine Blue 4213   25W / 30L para Mujer'
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

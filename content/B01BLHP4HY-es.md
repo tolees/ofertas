@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tgNypQiaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BLHP4HY-es'
+slug: 'B01BLHP4HY-es Biotherm Biocils Anti-Chute Desmaquillante - 100 ml'
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

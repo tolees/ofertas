@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317DRmiPFyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071W79LMZ-es'
+slug: 'B071W79LMZ-es L Óreal Paris Máscara de Pestañas Mega Volumen Miss Baby Roll Lilac'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

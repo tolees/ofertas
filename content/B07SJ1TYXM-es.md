@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AoqbyfI0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJ1TYXM-es'
+slug: 'B07SJ1TYXM-es Grid Day One Edition XONE'
 actualPrice: 39.85 EUR
 currency: EUR
 price: 39.85

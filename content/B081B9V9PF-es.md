@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31crR0V6t5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B9V9PF-es'
+slug: 'B081B9V9PF-es KROM Knout XL RGB - NXKROMKNTXLRGB - Alfombrilla Gaming XL  RGB  Color Negro'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

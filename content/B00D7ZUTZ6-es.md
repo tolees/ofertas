@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513k-XvAMnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D7ZUTZ6-es'
+slug: 'B00D7ZUTZ6-es Canon EF-M 11-22mm f/4-5.6 IS STM - Objetivo para Canon  Distancia Focal 18-35mm  Apertura f/4-32  Zoom óptico 2X estabilizador  diámetro: 55mm  Negro'
 actualPrice: 289.0 EUR
 currency: EUR
 price: 289.0

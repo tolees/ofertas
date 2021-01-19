@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316vbpUQ5yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MWR5IVA-es'
+slug: 'B00MWR5IVA-es Logitech M280 Ratón Inalámbrico  2 4 GHz con Nano Receptor USB  Seguimiento Óptico 1000 DPI  3 Botones  Batería 18 Meses  PC/Mac/Portátil - Negro'
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

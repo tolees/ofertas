@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aDege7FwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3FPGQL-es'
+slug: 'B07F3FPGQL-es HP OMEN 15-dc0000ns - Portátil Gaming de 15.6" FullHD  Intel Core i7-8750H  16GB RAM  1TB HDD + 256GB SSD  Nvidia GeForce GTX 1060-6GB  FreeDos  Color Negro - Teclado QWERTY Español'
 actualPrice: 1049.99 EUR
 currency: EUR
 price: 1049.99

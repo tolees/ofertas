@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-dQXrYliL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XS3PLS7-es'
+slug: 'B06XS3PLS7-es New Balance Fresh Foam Cruz Hoody Pack  Zapatillas de Entrenamiento para Mujer  Rojo  Bordeaux/Weiß Bordeaux/Weiß   40.5 EU'
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410UX0QB0AL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BW0RE5G-es'
+slug: 'B00BW0RE5G-es POP! Vinilo - BTTF: Marty McFly'
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

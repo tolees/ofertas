@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/614msy5Xn3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BQPTZD-es'
+slug: 'B083BQPTZD-es MENGH Teppich Küche 140x140cm  Schlafzimmer Teppiche Farbecht Pflegeleicht für Wohnzimmer Schlafzimmer Oder Kinderzimmer Blau'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

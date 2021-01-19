@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EicXExoeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071F1HBBP-es'
+slug: 'B071F1HBBP-es JACK & JONES Jjicody Jjspencer WW Noos Pantalones  Azul  Navy Blazer   W33/L32  Talla del Fabricante: 33  para Hombre'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WBaeXR5xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SF2C21V-es'
+slug: 'B07SF2C21V-es PUMA Radiate XT Pattern WN S  Zapatillas Deportivas para Interior para Mujer  Blanco White/Ignite Pink  36 EU'
 actualPrice: 25.55 EUR
 currency: EUR
 price: 25.55

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318xI82KMuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q7BNSR3-es'
+slug: 'B07Q7BNSR3-es Pediatopic Sun Facial 50ml  Protector solar para pieles infantiles  atópicas y sensibles'
 actualPrice: 10.73 EUR
 currency: EUR
 price: 10.73

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BIAaOMhQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MY4MSLO-es'
+slug: 'B00MY4MSLO-es Clarks Originals Boot  Botas Desert para Mujer  Beige  Sand   36 EU'
 actualPrice: 24.51 EUR
 currency: EUR
 price: 24.51

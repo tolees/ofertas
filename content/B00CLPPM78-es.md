@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GVWs46V9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CLPPM78-es'
+slug: 'B00CLPPM78-es Panasonic RP-HV41E-A - Auriculares Boton con Cable In-Ear  Headphone Sonido Estéreo para Móvil  MP3/MP4  Diseño de Ajuste Cómodo  Imán Neodimio 9mm  Presión de Sonido de 105 dB  Azul'
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

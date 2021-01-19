@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51b2ZOf9QfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN7S3NP-es'
+slug: 'B07CN7S3NP-es BIC 950615 Velleda – Lote de 2 Surface borrado en seco borde 19 x 26 cm azul'
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zJhFyo-+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SH2TMZ3-es'
+slug: 'B07SH2TMZ3-es Kappa Maglia Replica Home 2019/2020 Unisex Adulto  Hombre  Azul  S'
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

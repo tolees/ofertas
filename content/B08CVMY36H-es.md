@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fY4jtzYlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVMY36H-es'
+slug: 'B08CVMY36H-es Panamar Damas / Tejidos no Tejidos Tablero de ajedrez Plegable Juego de ajedrez Internacional Juego de Mesa de Viaje Juguete de Competencia - Blanco y Negro'
 actualPrice: 2.34 EUR
 currency: EUR
 price: 2.34

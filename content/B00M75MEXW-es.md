@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m94GtveOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M75MEXW-es'
+slug: 'B00M75MEXW-es Neutrogena Bálsamo Nariz y Labios Reparación Intensa - 15 ml.'
 actualPrice: 4.34 EUR
 currency: EUR
 price: 4.34

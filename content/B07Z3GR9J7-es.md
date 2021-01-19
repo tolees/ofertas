@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416%2BplP7S9L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3GR9J7-es'
+slug: 'B07Z3GR9J7-es Awroutdoor Calentador de Mano Recargable 7800mAH Calentadores de Manos Bolsillo USB Banco de Energía Power Bank Calentador de Mano eléctrico de Reutilizable para Esquiar  Acampar  Caminar'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

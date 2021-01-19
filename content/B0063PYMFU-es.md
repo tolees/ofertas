@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ozNC5m+oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0063PYMFU-es'
+slug: 'B0063PYMFU-es Baby Art 34120085 - Marco para fotos recuerdo del primer año con material para huella de mano o pie  madera  color blanco y gris'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

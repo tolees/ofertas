@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vHsaXdWJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WHRCF7U-es'
+slug: 'B00WHRCF7U-es NIVEA SUN Protege & Hidrata Leche Solar FP30  1 x 400 ml   protector solar hidratante y resistente al agua con protección UVA/UVB  protección solar alta'
 actualPrice: 11.35 EUR
 currency: EUR
 price: 11.35

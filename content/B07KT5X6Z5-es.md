@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+5J66QHoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KT5X6Z5-es'
+slug: 'B07KT5X6Z5-es Cámara de Video Digital HD-100 Full HD 1080P Pantalla TFT de 2.7 Pulgadas Pantalla portátil de 16.0 megapíxeles Mini DV para Uso en el hogar'
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

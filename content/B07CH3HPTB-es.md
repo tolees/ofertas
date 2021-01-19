@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517S0z00TuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CH3HPTB-es'
+slug: 'B07CH3HPTB-es PUTUO Mujer cinco dedos calcetines de deporte  Calcetines de dedos mujer calcetines de algodón  suave y transpirable  EU36-42  5 pares'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

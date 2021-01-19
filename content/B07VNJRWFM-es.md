@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411dwL0U9UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNJRWFM-es'
+slug: 'B07VNJRWFM-es FITTOO Leggings Mallas Mujer Pantalones Deportivos Yoga Alta Cintura Elásticos y Transpirables Negro Extra Grande'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

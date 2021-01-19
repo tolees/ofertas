@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61rEclrrbkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBKTGCG-es'
+slug: 'B07DBKTGCG-es Foto Clip cadena de luces LED 2.4m 20 foto clips luces  Alimentado por Batería para Día de San Valentín  fiesta de cumpleaños  Blanco cálido '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

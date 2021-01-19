@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WIWupDEXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCWL8MF-es'
+slug: 'B07DCWL8MF-es MolCar Parasol Coche para Luna Delantera Universal con 2 Ventosas 2 Correas Elásticas de Fácil Instalación  60x130cm '
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

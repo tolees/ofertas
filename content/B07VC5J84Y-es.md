@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lxRolZ9tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC5J84Y-es'
+slug: 'B07VC5J84Y-es Panamami 2.5 a 3.5 Pulgadas Unidad de Disco Duro SSD HDD Unidad de Disco Duro Adaptador de riel Soporte Soporte con Tornillos Rojos - como Muestra la Imagen'
 actualPrice: 3.16 EUR
 currency: EUR
 price: 3.16

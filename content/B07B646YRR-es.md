@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316gjIy2o5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B646YRR-es'
+slug: 'B07B646YRR-es Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Negro  Black Detail:Reg Fit   XX-Large para Hombre'
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

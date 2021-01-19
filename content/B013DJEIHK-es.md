@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bOPBJLKQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013DJEIHK-es'
+slug: 'B013DJEIHK-es Skylanders SuperCharges - Figura Shark Tank  Vehicle '
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

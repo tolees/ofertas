@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mnXfcixfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2KQBG4-es'
+slug: 'B07F2KQBG4-es SALOMON XA Tank  Mujer  Amarillo  Lemon Chrome   XL'
 actualPrice: 9.54 EUR
 currency: EUR
 price: 9.54

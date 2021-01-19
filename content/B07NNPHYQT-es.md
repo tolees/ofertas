@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vz3jaG6pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNPHYQT-es'
+slug: 'B07NNPHYQT-es ZHENROG Electroestimulador Muscular Abdominales  Masajeador Eléctrico Cinturón  EMS Estimulador Muscular con USB  6 Modos y 10 Niveles de Intensidad para Abdomen/Cintura/Pierna/Brazo  Negro-1 '
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

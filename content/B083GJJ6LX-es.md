@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jLKmOK71L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083GJJ6LX-es'
+slug: 'B083GJJ6LX-es scottpown Reproductor de música de Tarjeta de Altavoz Bluetooth estéreo inalámbrico portátil Resistente al Agua Altavoces portátiles'
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

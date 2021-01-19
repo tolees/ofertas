@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pDBFXbl7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T6KQNB-es'
+slug: 'B078T6KQNB-es PUMA Liga Casuals Jr Chándal  Unisex niños  Medium Gray Heather/Black  128'
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

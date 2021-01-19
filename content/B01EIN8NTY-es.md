@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Kui5+kTuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EIN8NTY-es'
+slug: 'B01EIN8NTY-es Victoria Deportivo Basket Piel - Zapatillas de Deporte Unisex  color Blanco y Negro Brillante  Negro 10   talla 37'
 actualPrice: 37.29 EUR
 currency: EUR
 price: 37.29

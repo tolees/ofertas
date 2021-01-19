@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Cp-s1vbOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6N8PY8-es'
+slug: 'B07K6N8PY8-es Columbia Snuggly Bunny Mono de esquí infantil  Niño  Verde con estampado  Pine Green Critter Block   Talla: M'
 actualPrice: 30.08 EUR
 currency: EUR
 price: 30.08

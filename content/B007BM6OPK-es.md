@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o6u8zniyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007BM6OPK-es'
+slug: 'B007BM6OPK-es Alco-367ALF-0030 Hamaca fibreline  Color Azul Verdoso  90x63.5x12 cm  1-367AZ '
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

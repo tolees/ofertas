@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419YEPl%2BSbL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVCVZLK-es'
+slug: 'B07CVCVZLK-es Under Armour UA W Charged Rogue  Zapatillas de Running para Mujer  Blanco  White/White/Mod Gray  106  106   39 EU'
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

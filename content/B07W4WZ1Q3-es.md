@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tMXK1O-SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4WZ1Q3-es'
+slug: 'B07W4WZ1Q3-es Springfield 5Ba Slim Basic-c/61 Polo  Rojo  Red 61   M  Tamaño del Fabricante: M  para Hombre'
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

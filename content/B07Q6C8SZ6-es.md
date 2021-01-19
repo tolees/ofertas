@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Yt4mXBj6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q6C8SZ6-es'
+slug: 'B07Q6C8SZ6-es BelleStyle Tablero de Dibujo Magnético  Colorido Borrable Tablero de Garabatos Bosquejo Escribir Pizarras Magnéticas Juguete Educativo para Pequeños Niños Niñas  Tamaño de Viaje  Azul '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

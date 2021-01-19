@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413S7oG2oLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW9MV1X-es'
+slug: 'B07NW9MV1X-es Skechers Solar Fuse-brisk Escape Zapatillas Mujer  Black Leather/Mesh/Pink Trim Bkw   35 EU'
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

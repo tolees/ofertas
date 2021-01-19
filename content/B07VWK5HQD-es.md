@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vTuiK6ClL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWK5HQD-es'
+slug: 'B07VWK5HQD-es FIESTA Llaves Ácidas Golosinas Sabor Fresa - Envase de 290 unidades'
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

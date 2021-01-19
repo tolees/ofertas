@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514dyQ0MIRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NZW56J-es'
+slug: 'B082NZW56J-es KAILH Doble Pared con Aislamiento de Botella Agua de Acero Inoxidable  Botella Agua Gimnasio  Botella Agua Deportiva  para Niños  Deporte  Oficina  Yoga  Ciclismo  Eco-Friendly & sin BPA  500ml'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

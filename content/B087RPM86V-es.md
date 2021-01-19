@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jOh348mdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087RPM86V-es'
+slug: 'B087RPM86V-es F1 2020 Seventy Edition ESP'
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

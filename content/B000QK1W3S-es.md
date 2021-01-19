@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41skpjJgZNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000QK1W3S-es'
+slug: 'B000QK1W3S-es Converse Chuck Taylor All Star  Zapatillas altas Unisex adulto  Azul  Navy   39.5'
 actualPrice: 38.46 EUR
 currency: EUR
 price: 38.46

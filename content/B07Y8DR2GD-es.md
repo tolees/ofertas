@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BxsxqLEqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8DR2GD-es'
+slug: 'B07Y8DR2GD-es Gioseppo Deming  Zapatillas para Niñas  Multicolor  Multicolor Multicolor   37 EU'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

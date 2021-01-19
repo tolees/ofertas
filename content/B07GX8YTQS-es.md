@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3122-07gNKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GX8YTQS-es'
+slug: 'B07GX8YTQS-es PIKOLINOS Blucher de Piel iRun M0E'
 actualPrice: 44.63 EUR
 currency: EUR
 price: 44.63

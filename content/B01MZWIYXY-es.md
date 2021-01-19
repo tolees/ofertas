@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312DWphR+hL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZWIYXY-es'
+slug: 'B01MZWIYXY-es Tommy Hilfiger H2285ARLOW 1D  Zapatillas para Hombre  Azul  Midnight   40 EU'
 actualPrice: 36.74 EUR
 currency: EUR
 price: 36.74

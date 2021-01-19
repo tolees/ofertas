@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nqWXb2gNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BW6YWJ-es'
+slug: 'B088BW6YWJ-es Dasket 35x25cm 30 Hojas de Papel de arroz Duradero Xuan Pintura Libro Blanco'
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

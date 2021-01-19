@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sje+bBpkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V27WWWC-es'
+slug: 'B07V27WWWC-es Juego de herramientas de perforación  4 piezas/juego de piercings  Asepsis Safety Nuevas herramientas para piercings en el cuerpo Kit de herramientas profesionales de acero inoxidable'
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

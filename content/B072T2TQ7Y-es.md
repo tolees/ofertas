@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TJd6EMhOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072T2TQ7Y-es'
+slug: 'B072T2TQ7Y-es Skechers On The Go 600-Brilliancy  Sandalia con Pulsera para Mujer  Azul  Navy   38 EU'
 actualPrice: 44.59 EUR
 currency: EUR
 price: 44.59

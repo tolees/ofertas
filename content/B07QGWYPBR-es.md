@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WDBFq3OmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGWYPBR-es'
+slug: 'B07QGWYPBR-es Funko Pop Figura De Vinil Harry Potter-Cedric Diggory  Yule  Coleccionable  Multicolor  Estándar  43668 '
 actualPrice: 4.96 EUR
 currency: EUR
 price: 4.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51z8eoFt89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7KKCNQ-es'
+slug: 'B07P7KKCNQ-es PLAYMOBIL: THE MOVIE Emperador Maximus en el Coliseo  a Partir de 5 Años  70076 '
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

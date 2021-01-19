@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OTqlObJLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085V6FX9M-es'
+slug: 'B085V6FX9M-es Syoss Oleo Intense - Coloración Permanente Tono 5-92 Rojo Intenso  Pack De 3  50 ml'
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

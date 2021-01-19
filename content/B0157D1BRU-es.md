@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418wjy0+H8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0157D1BRU-es'
+slug: 'B0157D1BRU-es Clatronic ST 3629 Sandwichera para 4 Sándwiches  1200 W  1 Cubic Feet  1 Decibeles  Plástico  Blanco'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

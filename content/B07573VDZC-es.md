@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S5xpIiYmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07573VDZC-es'
+slug: 'B07573VDZC-es Intex 57441NP - Unicornio Hinchable Piscina con pulverizador'
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

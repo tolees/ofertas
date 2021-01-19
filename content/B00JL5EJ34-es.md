@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413jUI6gMqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JL5EJ34-es'
+slug: 'B00JL5EJ34-es Sundis ORGAMIX A4 MM 3 cajones Plata'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

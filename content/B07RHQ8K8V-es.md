@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413MH4G+AfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHQ8K8V-es'
+slug: 'B07RHQ8K8V-es Columbia Vitesse  Zapatillas de Deporte para Mujer  Rojo  Juicy/White 608   37 EU'
 actualPrice: 50.78 EUR
 currency: EUR
 price: 50.78

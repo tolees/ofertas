@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BBgIT+dIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0747LB4SB-es'
+slug: 'B0747LB4SB-es SkullCap® Casco BMX Bici y Casco Skate - Hombres Mujeres Niños y Niños  Design: Eagle  Talla: L  58 – 61 cm '
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

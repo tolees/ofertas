@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41e3NKwzjsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ML3F2RQ-es'
+slug: 'B07ML3F2RQ-es JINYU Loft Vintage Rústico Industrial Lámpara de techo/Pared Bañadores de Pared Luz de Pared Iluminación para Dormitorio Studio Hogar Decoración Porche Blanco Cálido Negra diseño ángulo ajustable'
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

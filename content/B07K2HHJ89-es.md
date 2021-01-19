@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X487JlZDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2HHJ89-es'
+slug: 'B07K2HHJ89-es Skip Ultimate Triple Poder Detergente Capsulas Fragancia Mimosín - 32 Lavados'
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

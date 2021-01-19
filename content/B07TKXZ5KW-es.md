@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wYQUdTNdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKXZ5KW-es'
+slug: 'B07TKXZ5KW-es Vans Atwood Textile Suede  Zapatillas para Hombre  Negro   Outdoor  Black/White Ugv   39 EU'
 actualPrice: 38.78 EUR
 currency: EUR
 price: 38.78

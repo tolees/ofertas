@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FEr+k5mZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CM98ZCY-es'
+slug: 'B07CM98ZCY-es Ultra Pro- Pokemon Ultra Ball Deck Box  Color carbón  85457 '
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

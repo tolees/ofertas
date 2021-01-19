@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jdpNqTJdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004X8GL8K-es'
+slug: 'B004X8GL8K-es Revlon ColorSilk Tinte de Cabello Permanente Tono #61 Rubio Oscuro'
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

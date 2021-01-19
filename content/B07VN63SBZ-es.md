@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21VIgDwBK1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN63SBZ-es'
+slug: 'B07VN63SBZ-es OFICINAS MONTIEL Mesa Escritorio Oficina Blanca de Madera Grande Resistente para Teletrabajar Estudiar Biblioteca  Despachos  Ordenador de Sobremesa  Gaming  Youtubers  Salas de Estudio  Blanco  140 '
 actualPrice: 230.0 EUR
 currency: EUR
 price: 230.0

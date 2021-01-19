@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ph-uDejeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BJHETUK-es'
+slug: 'B00BJHETUK-es Postquam - Balsamic Cream | Crema de Masaje con Efecto Balsámico - 1000 ml'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZN5vJ2UmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083VZWP5B-es'
+slug: 'B083VZWP5B-es MarinoBIRD para X-B0X360 Host Conversion Line Línea de conversión USB para X-Box Wired Handle Conversion Line Accesorios para máquinas de Juego - Negro'
 actualPrice: 1.32 EUR
 currency: EUR
 price: 1.32

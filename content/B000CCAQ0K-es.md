@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mPewHIk8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000CCAQ0K-es'
+slug: 'B000CCAQ0K-es Maxell 2347477'
 actualPrice: 12.11 EUR
 currency: EUR
 price: 12.11

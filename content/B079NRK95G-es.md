@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j8eF+dgHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NRK95G-es'
+slug: 'B079NRK95G-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en Cuero W0934L5'
 actualPrice: 67.37 EUR
 currency: EUR
 price: 67.37

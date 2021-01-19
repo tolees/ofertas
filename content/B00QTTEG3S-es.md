@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oYXVsiYFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QTTEG3S-es'
+slug: 'B00QTTEG3S-es iRobot Set - Kit de piezas de repuesto para iRobot Roomba 800'
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

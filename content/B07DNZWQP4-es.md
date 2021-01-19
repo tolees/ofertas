@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hoMOlMXNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNZWQP4-es'
+slug: 'B07DNZWQP4-es Termómetro Digital Frente y Oído  3 in 1 Termómetro Infrarrojo Médico Alta Precisión Para Bebe Niños y Adultos Alarma De Fiebre Temperatura Ambiente'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

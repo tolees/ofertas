@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wCUigx6iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082FBL5JR-es'
+slug: 'B082FBL5JR-es CuteRose Men Jammer Cycling Stretch Breathable Athletic Sports Shorts Grey XS'
 actualPrice: 1.16 EUR
 currency: EUR
 price: 1.16

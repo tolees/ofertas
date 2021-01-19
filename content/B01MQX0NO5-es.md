@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sZC9JIwdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQX0NO5-es'
+slug: 'B01MQX0NO5-es Crocs Freesail Chelsea Boot Women  Mujer Bota  Verde  Dark Camo Green   36-37 EU'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

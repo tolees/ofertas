@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RWfOJ+sgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHTSB9L-es'
+slug: 'B07PHTSB9L-es Max Factor  Color para cejas - 1 unidad'
 actualPrice: 5.38 EUR
 currency: EUR
 price: 5.38

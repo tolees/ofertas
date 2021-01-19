@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ad2pjCmZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZHMHGN-es'
+slug: 'B086ZHMHGN-es Microondas Cocina rápida Tejido de poliéster Lavable Bolsa de Fibra Cocción de Papas Hornear Capacidad para hasta 4 Papas - Rojo'
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

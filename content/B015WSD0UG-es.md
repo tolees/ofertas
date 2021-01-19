@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q5Ry2-35L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015WSD0UG-es'
+slug: 'B015WSD0UG-es Bourjois Boite Ronde Sombra de ojos Tono 1 Ingénude  - 17 gr.'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

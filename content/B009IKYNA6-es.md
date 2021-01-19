@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419SVVeaGKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009IKYNA6-es'
+slug: 'B009IKYNA6-es Wikango 97-W600 Avisador de Radares Europa'
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

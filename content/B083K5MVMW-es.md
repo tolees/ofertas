@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lFZZ6fI+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083K5MVMW-es'
+slug: 'B083K5MVMW-es Anpro Luz Cadena Colorida  Luz de Cortina USB  7 Colores con 280 Bombillas LED  8 Modos de Luz  3x2.8 m'
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

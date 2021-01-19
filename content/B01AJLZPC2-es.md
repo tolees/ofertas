@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21kkH2rSTAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AJLZPC2-es'
+slug: 'B01AJLZPC2-es TATAY 6632101 - Olympia Set de baño completo: Toallero  Portarrollos  Aro toallero  Colgador  Jabonera y Portacepillos de dientes  Plástico Polipropileno  Blanco  62x13x30 cm'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

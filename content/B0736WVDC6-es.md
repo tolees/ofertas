@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U9UeAtBAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0736WVDC6-es'
+slug: 'B0736WVDC6-es VENI MASEE Muñequera Deportiva con Cremallera  Gruesa  Color sólido. Muñequera Cartera 1Piece/2Piece '
 actualPrice: 2.23 EUR
 currency: EUR
 price: 2.23

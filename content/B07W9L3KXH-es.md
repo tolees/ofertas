@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418UUonVKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W9L3KXH-es'
+slug: 'B07W9L3KXH-es Lixada Esterilla de Yoga Antideslizante TPE Insípido con Línea de Posición Correa y Bolsa para Pilates Fitness Culturismo 183 * 61 * 0.6cm'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

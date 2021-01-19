@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31up4fxPn-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N179LNL-es'
+slug: 'B07N179LNL-es Helly Hansen Outdoor Aire Libre 10l Colegio Escuela Mochilla  Unisex niños  Azul  Navy   One Size'
 actualPrice: 29.96 EUR
 currency: EUR
 price: 29.96

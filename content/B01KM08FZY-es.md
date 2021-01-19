@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TT4BZ-1aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KM08FZY-es'
+slug: 'B01KM08FZY-es Pulsar Reloj Analógico Unisex con Correa de Chapado En Acero Inoxidable – PZ4001X1'
 actualPrice: 66.22 EUR
 currency: EUR
 price: 66.22

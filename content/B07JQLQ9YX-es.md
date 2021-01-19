@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41krPfou9nL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQLQ9YX-es'
+slug: 'B07JQLQ9YX-es Under Armour Cinch Printed Tote Bolsa Deportiva  Mujer  Verde  OSFA'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

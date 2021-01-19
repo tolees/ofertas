@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YH-tQEKpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TT33I3A-es'
+slug: 'B00TT33I3A-es Bahco 2485 BH2485'
 actualPrice: 5.82 EUR
 currency: EUR
 price: 5.82

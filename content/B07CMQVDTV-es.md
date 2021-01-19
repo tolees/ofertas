@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51GE259X8LL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMQVDTV-es'
+slug: 'B07CMQVDTV-es besrey 7 en 1 Triciclos Bebes reclinable con Asiento Giratorio  Triciclo para Bebe Nino evolutivo Infantil Trike Cochecito'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

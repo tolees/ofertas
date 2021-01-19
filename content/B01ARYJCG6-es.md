@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fdN94o6DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ARYJCG6-es'
+slug: 'B01ARYJCG6-es Einhell Expert Taladro Power X-Change  TE-CD 18/2 Li   18V sin cable   incluye maletín BMC  2 baterías de 1 5 Ah y cargador   ref.4513830 '
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

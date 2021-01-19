@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QyykDttjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NTPVN98-es'
+slug: 'B07NTPVN98-es Sally Hansen Airbrush Legs Maquillaje para piernas Loción Tono 002 Claro - 118 ml'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

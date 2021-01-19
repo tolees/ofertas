@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416z3gdeHbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQTRDDH-es'
+slug: 'B07PQTRDDH-es New Balance Fresh Foam Trail Roav  Zapatillas de Running para Asfalto para Hombre  Verde  Green Green   40 EU'
 actualPrice: 26.53 EUR
 currency: EUR
 price: 26.53

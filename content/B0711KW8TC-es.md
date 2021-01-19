@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51q29E1ZhQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711KW8TC-es'
+slug: 'B0711KW8TC-es iMagicBox-41197 Caja con Diferentes Juegos de Magia  con Acceso a  Color Negro  Sin Talla  Cife Spain 41197 '
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

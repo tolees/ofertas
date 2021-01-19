@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iK1bMpNbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NSZWP-es'
+slug: 'B07S6NSZWP-es PUMA ANZARUN Lite  Zapatillas Unisex Adulto  Negro Black White  42.5 EU'
 actualPrice: 32.85 EUR
 currency: EUR
 price: 32.85

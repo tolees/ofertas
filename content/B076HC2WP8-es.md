@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WxRqOm3dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HC2WP8-es'
+slug: 'B076HC2WP8-es ADIDAS Duramo Lite 2.0  Zapatillas de Entrenamiento para Hombre  Gris  Carbon/Core Black/Core Black 0   44 EU'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tubsoSVbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBGTPXM-es'
+slug: 'B07KBGTPXM-es O NEILL PM Cali Bañador  Hombre  Multicolor  M'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

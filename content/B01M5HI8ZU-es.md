@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xMU-YhPOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5HI8ZU-es'
+slug: 'B01M5HI8ZU-es Mounting Dream Soporte de Pared TV Giratorio y Inclinable para la Mayoría DE 26–55 Pulgadas LED  LCD  y OLED de Pantalla Plana hasta VESA 400x400mm y 27kg  con Brazo Articulado  MD2377-02'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

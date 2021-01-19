@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yhY8e81NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EPC6Q3E-es'
+slug: 'B00EPC6Q3E-es Guess Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable W0235L3'
 actualPrice: 133.58 EUR
 currency: EUR
 price: 133.58

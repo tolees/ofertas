@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411QY24qnVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XFYX7FZ-es'
+slug: 'B06XFYX7FZ-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Cuero A1161-2534-00'
 actualPrice: 108.5 EUR
 currency: EUR
 price: 108.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-paNrFdqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072PWZ91X-es'
+slug: 'B072PWZ91X-es Blasjø® Juego de 3 espátulas de silicona de cocina con revestimiento antiadherente – núcleo de acero  negro .'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

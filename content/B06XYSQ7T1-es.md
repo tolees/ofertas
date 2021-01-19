@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RpVLqHW+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYSQ7T1-es'
+slug: 'B06XYSQ7T1-es Brita Maxtra Plus - Cartucho de Filtro de Agua'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

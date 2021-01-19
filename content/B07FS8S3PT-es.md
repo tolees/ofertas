@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yRabXhDnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FS8S3PT-es'
+slug: 'B07FS8S3PT-es Pulsera de Emergencia para Niños  Pulseras de Identificación  Reutilizable Resistente al Agua SOS Seguridad de Pulsera para Niños  6PC '
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

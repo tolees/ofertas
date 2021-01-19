@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gWktXYvIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078ZYZVNK-es'
+slug: 'B078ZYZVNK-es TRESemmé Acondicionador Color Keratina - Paquete de 3 x 700 ml - Total: 2100 ml'
 actualPrice: 12.36 EUR
 currency: EUR
 price: 12.36

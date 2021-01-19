@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tUAAfOF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7T1M3T-es'
+slug: 'B07D7T1M3T-es BRA Efficient orange Sartén honda 28 cm  aluminio fundido con antiadherente Platinum Plus  apta para todo tipo de cocinas incluida inducción  libre de PFOA'
 actualPrice: 31.75 EUR
 currency: EUR
 price: 31.75

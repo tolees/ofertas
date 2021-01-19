@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mk13coAQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001XN0QSO-es'
+slug: 'B001XN0QSO-es Vogue Olympia - Fuente redonda de servir  de hierro fundido con soporte de madera  22 cm'
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

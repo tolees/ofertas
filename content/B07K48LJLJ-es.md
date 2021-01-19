@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3182ZmjBTtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K48LJLJ-es'
+slug: 'B07K48LJLJ-es Reloj Viceroy Mujer 42358-06 Colección Antonio Banderas'
 actualPrice: 83.3 EUR
 currency: EUR
 price: 83.3

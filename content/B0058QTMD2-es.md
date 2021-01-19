@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tIn+h9NML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0058QTMD2-es'
+slug: 'B0058QTMD2-es Caterpillar Colorado  Botas para Hombre  Negro  Black P714010   49 EU'
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

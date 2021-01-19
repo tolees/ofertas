@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31usUPYEetL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XJTFVQC-es'
+slug: 'B00XJTFVQC-es Rayt 1315-13 Novopur Cartucho de Adhesivo monocomponente de Poliuretano para césped Artificial y también pavimentos de Goma  Caucho y PVC. Color Verde. Secado en 30 Minutos  300ml'
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

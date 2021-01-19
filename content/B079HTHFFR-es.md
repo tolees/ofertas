@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DcQjEyciL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079HTHFFR-es'
+slug: 'B079HTHFFR-es 5W Gu10 Rgbw Led Colores Cambiantes Bombilla  6000K Blanco frio Equivalente 50W Bombilla LED  AC 85-265V  Rgb 12 Colore  Control remoto Incluido 10 unidades '
 actualPrice: 25.13 EUR
 currency: EUR
 price: 25.13

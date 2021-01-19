@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cK6Ulka3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LCTXY3C-es'
+slug: 'B01LCTXY3C-es Pantene Pro-V Prevención Caída Champú para el Cabello con Tendencia a la Rotura - 360 ml'
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

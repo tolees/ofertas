@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KepSMOqbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U8QYLTC-es'
+slug: 'B00U8QYLTC-es Beter 34062 - Pinzas  punta cangrejo  doradas  9 3 cm'
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

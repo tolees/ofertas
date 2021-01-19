@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41poxxvhL3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5K42GQ-es'
+slug: 'B01N5K42GQ-es Fred Perry M6000  Polo para Hombre'
 actualPrice: 46.57 EUR
 currency: EUR
 price: 46.57

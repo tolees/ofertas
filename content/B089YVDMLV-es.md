@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jUCJGwChL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089YVDMLV-es'
+slug: 'B089YVDMLV-es DOHUI Funda para Motorola Moto G Fast  Silicona Suave TPU Protección Carcasa [Anti-Rasguño] Case Funda para Motorola Moto G Fast  Rojo '
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

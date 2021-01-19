@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417npVMbBnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OASPVVG-es'
+slug: 'B00OASPVVG-es SONGMICS LJB65W - Taburete de Bar con Respaldo Sintético  color Blanco  Lote de 2'
 actualPrice: 66.59 EUR
 currency: EUR
 price: 66.59

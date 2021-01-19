@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61xensHHWzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP6MFXK-es'
+slug: 'B07FP6MFXK-es LED Luz Colgante Solar del Jardín  GolWof Farol Solar Exterior Luces de Linterna Lámpara con Diseño de Marruecos IP44 Impermeable Recargable Portátil para Jardín Patio al Aire Libre Partido Decorativo'
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

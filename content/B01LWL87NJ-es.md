@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61MLZVjR6XL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWL87NJ-es'
+slug: 'B01LWL87NJ-es Kimi Koala'
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

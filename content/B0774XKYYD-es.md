@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lD2IR5DNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0774XKYYD-es'
+slug: 'B0774XKYYD-es Cellularline SMGALAXYS8 Fundas Galaxy S8 para Moto  Negro'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

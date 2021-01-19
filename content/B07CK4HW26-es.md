@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L+O-1mEfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CK4HW26-es'
+slug: 'B07CK4HW26-es Nike Perfume Nike Woman Pink Edt 30 mililitros - 30 ml'
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

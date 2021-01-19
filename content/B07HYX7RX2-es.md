@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kKhoA1b5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYX7RX2-es'
+slug: 'B07HYX7RX2-es Case Logic Reflect Laptop Sleeve 14    Funda para portátiles con Pantalla de hasta 14"  Acolchado Memory Foam  Interior de Felpa   Rojo'
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

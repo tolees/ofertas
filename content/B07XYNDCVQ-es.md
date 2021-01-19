@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gfpRtiywL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYNDCVQ-es'
+slug: 'B07XYNDCVQ-es FMPC Funda Compatible con Xiaomi Mi 8 SE  Caso Carcasa Xiaomi Mi 8 SE Slim Fit 360 Grados 3 in 1 Todo Incluido Protección Cover Anti-Rasguño con HD Protector de Pantalla—Negro'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312hStRoo9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K17QCPW-es'
+slug: 'B07K17QCPW-es Adidas Tiro 19 Polyestere Hose Pantalones Deportivos  Hombre  Negro  Black/White   XL'
 actualPrice: 29.87 EUR
 currency: EUR
 price: 29.87

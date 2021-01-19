@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yd8mzSjiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBMZUR5-es'
+slug: 'B01NBMZUR5-es Vans Classic Slip-on Platform  Zapatillas sin Cordones para Mujer  Negro  Black and White Checker/White Bww   40 EU'
 actualPrice: 50.41 EUR
 currency: EUR
 price: 50.41

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bo85lkNtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V0HI4PK-es'
+slug: 'B00V0HI4PK-es Cargador rápido modular Samsung – 2 amperios con cable de datos micro USB/cable de carga para modelos Samsung Modelos con puerto de carga micro USB'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

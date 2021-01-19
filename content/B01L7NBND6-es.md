@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311WmfiVXSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L7NBND6-es'
+slug: 'B01L7NBND6-es Trucos de Magia Hierro con Memoria en Forma de Alambre Calle Tabla de Posiciones'
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QEZETBCdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J7C1TN4-es'
+slug: 'B00J7C1TN4-es Schwarzkopf Professional Igora Royal Loción Activa Vol 20 - 60 ml'
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

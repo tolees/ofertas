@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gp3S7hteL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LBBP5ZQ-es'
+slug: 'B01LBBP5ZQ-es Ribeira Proteina Natural - Pechuga de Pavo al natural - 1 lata 160gr'
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

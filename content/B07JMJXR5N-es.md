@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mBgITW-4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMJXR5N-es'
+slug: 'B07JMJXR5N-es Safta - f.c; barcelona oficial bolsa de deporte.'
 actualPrice: 22.83 EUR
 currency: EUR
 price: 22.83

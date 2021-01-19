@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xJ+AHk5-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW52KRM-es'
+slug: 'B07NW52KRM-es Skechers Women s Skech-AIR Stratus-Sparkling W Trainers   Negro   Gray Heather Mesh & Suede/White Trim Bkhp     3.5  36.5 EU '
 actualPrice: 52.69 EUR
 currency: EUR
 price: 52.69

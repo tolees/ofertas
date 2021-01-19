@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Y9Xv6kRQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ5CJ7W-es'
+slug: 'B07RZ5CJ7W-es KECC MacBook Pro Retina 13 Pulgadas Funda Dura Case w/EU Cubierta Teclado + Lamina Protectora Antiguos MacBook Pro 13.3 Retina Ultra Delgado Plástico {A1502/A1425}  Mármol Rosado '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yQFpaeDpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DZYO25G-es'
+slug: 'B01DZYO25G-es Optimum Nutrition ON Gold Standard BCAA Polvo  Suplementos Deportivos con Aminoacidos  Vitamina C  Zinc  Magnesio y Electrolitos  Frambuesa y Granada  28 Porciones  266g  Embalaje Puede Variar'
 actualPrice: 19.52 EUR
 currency: EUR
 price: 19.52

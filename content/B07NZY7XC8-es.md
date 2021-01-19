@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nd8vpt6kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZY7XC8-es'
+slug: 'B07NZY7XC8-es Skechers Zinger  Zapatillas para Hombre  Negro  Black Leather/Navy Trim B NV   41.5 EU'
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

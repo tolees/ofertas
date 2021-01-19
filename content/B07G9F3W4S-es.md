@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BxibEBCfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9F3W4S-es'
+slug: 'B07G9F3W4S-es Cepillo Alisador de Pelo 3 en 1  3 cabezales  Cepillo Secador Rizador de Aire Electrico Cepillo Pelo con Tecnología Iónica'
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

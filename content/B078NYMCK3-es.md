@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZwAr0BtgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078NYMCK3-es'
+slug: 'B078NYMCK3-es HongYH 2-Pack Ropa para Perros Perros Gatos Onesie Pijamas de Perro Suave Algodón Puppy Rompers Mono de Mascota Acogedor Body para Perros pequeños y Gatos'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

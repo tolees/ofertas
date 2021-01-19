@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AZg4g6ZtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07856VSNC-es'
+slug: 'B07856VSNC-es L Oréal Paris Make-up designer Infaillible Stick de Colorete 24h Tono 002 Nude In Rose - 34 gr'
 actualPrice: 4.47 EUR
 currency: EUR
 price: 4.47

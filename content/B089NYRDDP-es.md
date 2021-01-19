@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NBVERHe4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NYRDDP-es'
+slug: 'B089NYRDDP-es DOHUI Funda LG Q61  2 en 1 Robusta Carcasa Híbrida TPU + PC de Doble Capa Anti-arañazos Caso con Soporte para LG Q61  Azul '
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

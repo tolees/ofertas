@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G-y8woYRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QFQ8DL-es'
+slug: 'B086QFQ8DL-es Suhctup Funda Compatible con Huawei Honor V20 Carcasa Transparente Dibujo Diseño Flor [Protección Caídas] Ultra-Delgado Flexible Silicona TPU Estuche Cover para Huawei Honor V20 Mandala 9'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413BUrrXa9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y3P12KN-es'
+slug: 'B07Y3P12KN-es Cepillo Alisador de Pelo  Abody Cepillo Iónico con 4 Niveles de Temperatura  Anti-escaldadura  Calentamiento Rápido PTC  Apagado Automático  Doble Voltaje con Guante y 2 clips '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WUMeY1CXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYP5UV9-es'
+slug: 'B01LYP5UV9-es PARKER IM  pluma estilográfica azul mate  con plumín fino y recambio de tinta azul  1931647 '
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

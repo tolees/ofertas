@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519rql2QzeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CXW8MDW-es'
+slug: 'B07CXW8MDW-es Salomon Ellipse 2 GTX W  Zapatillas de Trail Running para Mujer  Azul  Trellis/Navy Blazer/Eggshell Blue   36 EU'
 actualPrice: 58.81 EUR
 currency: EUR
 price: 58.81

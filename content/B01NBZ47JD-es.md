@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EqqVqOzML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBZ47JD-es'
+slug: 'B01NBZ47JD-es G-Star Raw 3301 Straight  Jeans Dritto Uomo  Blu  medium aged 6564-071   W28/L32'
 actualPrice: 47.64 EUR
 currency: EUR
 price: 47.64

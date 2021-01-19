@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31leXaRyYnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLMCNH3-es'
+slug: 'B08BLMCNH3-es TRUUA 30 Hojas de Papel Blanco del arroz de la caligrafía China y la Pintura de Papel Xuan de la caligrafía Dibujo'
 actualPrice: 4.63 EUR
 currency: EUR
 price: 4.63

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YmWhwvJzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2H2V8X-es'
+slug: 'B07V2H2V8X-es Love Moschino Jc4208pp0a  Bolsa de mensajero para Mujer  Rojo  Red   22x16x6 Centimeters  W x H x L '
 actualPrice: 48.67 EUR
 currency: EUR
 price: 48.67

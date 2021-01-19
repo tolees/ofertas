@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416eRKpZTqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHXHPYM-es'
+slug: 'B07JHXHPYM-es dodocool Soporte Auriculares para Cascos Gaming Headphone Stand Sonido Envolvente 7.1 con luz LED  2 USB Conectores de Audio  1 Conector de AUX y Conector para micrófono de 3.5mm'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

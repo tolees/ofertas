@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UK7-Q+wtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGLGX69-es'
+slug: 'B07XGLGX69-es Skechers GO Run 400 V2  Zapatillas para Hombre  Verde Verde Verde Textil Sintético Ribete Grn  43.5 EU'
 actualPrice: 32.16 EUR
 currency: EUR
 price: 32.16

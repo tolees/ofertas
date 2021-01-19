@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51vWmvHCe6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771T5CKW-es'
+slug: 'B0771T5CKW-es Cubo de profesional piramidal 3x3.'
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

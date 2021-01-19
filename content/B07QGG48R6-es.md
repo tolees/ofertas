@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kw0FlvQWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGG48R6-es'
+slug: 'B07QGG48R6-es Pablosky 064644  Botas para Bebés  Amarillo  Amarillo Amarillo   24 EU'
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415MmRi0AqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNZQ6N7-es'
+slug: 'B07HNZQ6N7-es Micrófono de cámara  Emiral Micrófono de entrevista estéreo Profesional Micrófono de Escopeta direccional Micrófono en la cámara para cámara DSLR/videocámara DV …'
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

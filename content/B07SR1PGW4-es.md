@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UfXlipT4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SR1PGW4-es'
+slug: 'B07SR1PGW4-es Skechers GO Walk 5 PRIZED  Zapatillas para Mujer  Beige  Taupe Textile/Trim TPE   41 EU'
 actualPrice: 43.43 EUR
 currency: EUR
 price: 43.43

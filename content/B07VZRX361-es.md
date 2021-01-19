@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31giJU5mMtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZRX361-es'
+slug: 'B07VZRX361-es Skechers ROVINA Clean Sheen  Zapatillas para Mujer  Blanco  White Mesh/Leather/Durapatent Trim Wht   40 EU'
 actualPrice: 34.33 EUR
 currency: EUR
 price: 34.33

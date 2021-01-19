@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PKs9HWxDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085TMCT3N-es'
+slug: 'B085TMCT3N-es Mandarina Duck MD20 Bandolera Coral'
 actualPrice: 68.75 EUR
 currency: EUR
 price: 68.75

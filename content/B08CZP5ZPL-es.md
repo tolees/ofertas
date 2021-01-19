@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dcXBAPdaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZP5ZPL-es'
+slug: 'B08CZP5ZPL-es BAITITON MSATA III Disco Duro sólido Interno de Estado sólido 256GB SSD'
 actualPrice: 31.59 EUR
 currency: EUR
 price: 31.59

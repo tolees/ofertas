@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XgIxjEyxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N42BYJK-es'
+slug: 'B01N42BYJK-es MINIONS - Blíster de Tres  Giochi Preziosi DEP00002 '
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qTI1CmPTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LTCGMW-es'
+slug: 'B071LTCGMW-es New Balance 574v2 Core Lace  Modelo PC574GG  Zapatillas para Niños  Gris  Grey/Grey GG   30.5 EU'
 actualPrice: 39.16 EUR
 currency: EUR
 price: 39.16

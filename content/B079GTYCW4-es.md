@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416OzRS7l0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079GTYCW4-es'
+slug: 'B079GTYCW4-es Kingston SDCS/32GB - MicroSD Canvas Select velocidades de UHS-I Clase 10 de hasta 80 MB/s Lectura  con Adaptador SD '
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

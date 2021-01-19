@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OxkAFB8-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N07POCE-es'
+slug: 'B01N07POCE-es HBF Vigilabebes Con Camara Pantalla LCD A Color 2 Sensor De Visión Nocturna Intercomunicador Sensor De Temperatura'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aalsIQr5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHLJ71F-es'
+slug: 'B07XHLJ71F-es BedStory Pack de 2 Almohadas y Funda Desmontable con Cierre de Cremallera con Doble Lados Invierno/Verano  Almohada 70x42 cm con Relleno 3D y 7D Fibra  Almohadas Antiácaros para de Cama Hotel'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

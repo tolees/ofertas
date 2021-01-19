@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21ma5Ec0f3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HRF2F2Q-es'
+slug: 'B01HRF2F2Q-es Kelme Precision  Botas de fútbol para Hombre  Negro  41 EU'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

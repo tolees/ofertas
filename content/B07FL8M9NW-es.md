@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NoPjyDvnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FL8M9NW-es'
+slug: 'B07FL8M9NW-es Superdry Orange Label Jogger Chándal  Azul  Eclipse Navy 98t   XS  Talla del Fabricante:8  para Mujer'
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

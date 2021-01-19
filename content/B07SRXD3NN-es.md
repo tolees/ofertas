@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-CmdZ4S6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRXD3NN-es'
+slug: 'B07SRXD3NN-es Lacoste 739CMA0068082  Zapatillas para Hombre  Blanco  45 EU'
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

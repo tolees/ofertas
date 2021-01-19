@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fda9dAjUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GB8P1LJ-es'
+slug: 'B07GB8P1LJ-es Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina W-800HM-7AVEF'
 actualPrice: 20 EUR
 currency: EUR
 price: 20

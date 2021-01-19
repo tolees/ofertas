@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KfnUYhpRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD29NH7-es'
+slug: 'B07QD29NH7-es MTNG Attitude 69643  Zapatillas para Mujer  Multicolor  Soft Beige/Silver/Mostaza C47474   39 EU'
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

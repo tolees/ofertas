@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51x8jlgIHHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FB7Q4UC-es'
+slug: 'B00FB7Q4UC-es Guess Reloj de Pulsera W0289L1'
 actualPrice: 107.9 EUR
 currency: EUR
 price: 107.9

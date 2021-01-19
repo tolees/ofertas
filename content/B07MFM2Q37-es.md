@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XqSrxX2eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFM2Q37-es'
+slug: 'B07MFM2Q37-es Clarks Un Tread UpGTX  Botas clásicas. para Hombre  Marrón  Dark Brown Lea Dark Brown Lea   42.5 EU'
 actualPrice: 61.32 EUR
 currency: EUR
 price: 61.32

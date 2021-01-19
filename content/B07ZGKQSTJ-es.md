@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cR2xAPWaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZGKQSTJ-es'
+slug: 'B07ZGKQSTJ-es kinder Fluff - Protector de Nieve y Parasol para Coche  8 Bordes magnéticos con diseño Anti arañazos  Impermeable y Resistente al Viento  Protector de Parabrisas Grande '
 actualPrice: 18.6 EUR
 currency: EUR
 price: 18.6

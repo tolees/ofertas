@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SjtLwvA1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0869MBBNP-es'
+slug: 'B0869MBBNP-es Suhctup Funda Compatible con Huawei P20 Lite Transparente Carcasa con Dibujos Animados TPU Silicona Protectora de Golpes Anti Choques Slim Case Cover Bumper para Huawei P20 Lite 17 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

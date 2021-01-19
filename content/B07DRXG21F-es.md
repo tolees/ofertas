@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WLVBnWIwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRXG21F-es'
+slug: 'B07DRXG21F-es Just Dance 2019'
 actualPrice: 28.91 EUR
 currency: EUR
 price: 28.91

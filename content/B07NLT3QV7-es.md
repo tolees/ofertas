@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UTM653wAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLT3QV7-es'
+slug: 'B07NLT3QV7-es Fujifilm X-T30 Cuerpo  cámara de Objetivo Intercambiable  Color Plata'
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

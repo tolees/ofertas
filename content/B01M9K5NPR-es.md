@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bPpPyy2NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9K5NPR-es'
+slug: 'B01M9K5NPR-es Mar de plástico - Serie completa [DVD]'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

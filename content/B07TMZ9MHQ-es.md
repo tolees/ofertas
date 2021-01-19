@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41n8uVcpYAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMZ9MHQ-es'
+slug: 'B07TMZ9MHQ-es Cocoty-store Pantalones 2019 Hombre Cinturón de cintura elástico Pantalones de chándal de algodón largo Jogging Pantalones de carga deportiva de talla grande Pantalones cortos con bolsillos Pantalones'
 actualPrice: 3.41 EUR
 currency: EUR
 price: 3.41

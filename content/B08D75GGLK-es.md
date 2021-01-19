@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D0YqowpbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D75GGLK-es'
+slug: 'B08D75GGLK-es N-a Amplificador Señal WiFi  300Mbps/2.4 GHz Repetidores WiFi Amplificador Extensor de WiFi con Largo Alcance Modo Punto de Acceso/Repeater/Router/Cliente 2 Puerto LAN/WAN  4 Antenas Externas  WPS '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KWtLcOE9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009LSIYPK-es'
+slug: 'B009LSIYPK-es Control Senso Preservativos - Pack de 12 preservativos'
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

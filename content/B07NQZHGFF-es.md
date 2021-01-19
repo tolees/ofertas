@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p0JIKNCkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQZHGFF-es'
+slug: 'B07NQZHGFF-es Skechers Flex Advantage 3.0-transvert  Zapatillas para Niños  Negro  Black Textile/Blue & Silver Trim Bkbl   27 EU'
 actualPrice: 24.47 EUR
 currency: EUR
 price: 24.47

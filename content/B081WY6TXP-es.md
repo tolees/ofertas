@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R25fkYVvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081WY6TXP-es'
+slug: 'B081WY6TXP-es Luce Solare Jardín GolWof Lámpara Solar para Jardín Búho con Alas Ajustables IP44 Impermeable Luce Solare de Exterior Luz solar Exterior Luce Decorativa para Patio Césped Patio Pasillo'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

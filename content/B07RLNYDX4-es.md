@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gnEo5mdOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLNYDX4-es'
+slug: 'B07RLNYDX4-es Atornillador Eléctrico  Jellas Destornillador Eléctrico Carga Rápida 2000 mAh 3 6 V Iones de Iitio con Mango Ajustable  10+1 Engranajes de Torque  Bloqueo Automático  LED luz  USB y 40PCS Accesorios'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

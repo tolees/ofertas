@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FtM6Pau4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDDW3ST-es'
+slug: 'B07FDDW3ST-es BLEND 20708180 Polo  Marrón  Sand Brown 75107   X-Large para Hombre'
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

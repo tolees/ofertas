@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g-fHEeztL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNBBMG2-es'
+slug: 'B07GNBBMG2-es Neewer 48 Centímetros LED Anillo de Luz Blanco con Soporte de Luz Plata Iluminación Regulable 42W 3200-5600K Kit con Filtro Suave  Adaptador de Zapata  Soporte de Móvil para Maquillaje Vídeo Grabación'
 actualPrice: 73.09 EUR
 currency: EUR
 price: 73.09

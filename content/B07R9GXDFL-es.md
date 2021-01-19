@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w7b5j5l1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R9GXDFL-es'
+slug: 'B07R9GXDFL-es Amazon Essentials French Terry Jogger Sweatpant Athletic-Pants  Marino  US XXL  EU 3XL-4XL '
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

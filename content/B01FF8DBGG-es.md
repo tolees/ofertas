@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hLtMEQQKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FF8DBGG-es'
+slug: 'B01FF8DBGG-es JACK & JONES Jjiliam Jjoriginal Am 009 Lid Noos  Jeans Hombre  Negro  Black Denim   W28/L32  Talla del fabricante: 28 '
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

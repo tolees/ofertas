@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41biMm6ntTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ4Y3KY-es'
+slug: 'B07TQ4Y3KY-es Caler Funda Compatible con iPhone 7 Plus/iPhone 8 Plus Transparente Silicona TPU Bumper Protectora Carcasa con Cadena Ultra Fina [Antigolpes] Resistente Cover Case para iPhone 7+/8+ Blanco '
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

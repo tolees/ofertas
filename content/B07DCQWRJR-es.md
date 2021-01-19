@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ERgbp0XcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCQWRJR-es'
+slug: 'B07DCQWRJR-es Hombre Digital Relojes  digitaluhr Negro Classic Casual Relojes con multifunción Cronógrafo Reloj Deportivo Business Fashion Quartz reloj de pulsera para hombres'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

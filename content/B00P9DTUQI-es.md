@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zepoHDCXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P9DTUQI-es'
+slug: 'B00P9DTUQI-es adidas Stan Smith J  Zapatillas Unisex Niños   Blanco  Ftwr White/ftwr White/bold Pink   37 1/3 EU'
 actualPrice: 40.01 EUR
 currency: EUR
 price: 40.01

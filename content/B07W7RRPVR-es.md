@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411Yzgx2gWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7RRPVR-es'
+slug: 'B07W7RRPVR-es Tommy Hilfiger Shoulder GS Insert Slim Polo  Azul  Desert Sky   XX-Large  Talla del Fabricante:  para Hombre'
 actualPrice: 47.11 EUR
 currency: EUR
 price: 47.11

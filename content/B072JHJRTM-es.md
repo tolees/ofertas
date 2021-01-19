@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YqODZhFTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JHJRTM-es'
+slug: 'B072JHJRTM-es L´Oreal Paris Infalible Sombra 306 Nudist - 1 Sombra de ojos'
 actualPrice: 5.08 EUR
 currency: EUR
 price: 5.08

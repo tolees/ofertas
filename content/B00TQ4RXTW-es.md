@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZNNUMHumL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TQ4RXTW-es'
+slug: 'B00TQ4RXTW-es Funko Pop!- Albus Dumbledore Figura de Vinilo  colección de Pop  seria Harry Potter  Multicolor  5863 '
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

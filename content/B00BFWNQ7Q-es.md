@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413nKjP90AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BFWNQ7Q-es'
+slug: 'B00BFWNQ7Q-es Repsol RP141L55 Elite Competición 5W-40 Aceite de Motor para Coche  Transparente  5L'
 actualPrice: 25.85 EUR
 currency: EUR
 price: 25.85

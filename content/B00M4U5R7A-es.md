@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WPdj0XleL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M4U5R7A-es'
+slug: 'B00M4U5R7A-es Shimano Deore SMBB52B - Juego De Cazoletas Pedalier'
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

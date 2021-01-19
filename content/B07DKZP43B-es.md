@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VSxFYLiFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKZP43B-es'
+slug: 'B07DKZP43B-es Bolas de poliestireno Pllieay  para manualidades  20 unidades  5 tamaños   diseño de bolas de espuma blancas  para proyectos escolares'
 actualPrice: 13.07 EUR
 currency: EUR
 price: 13.07

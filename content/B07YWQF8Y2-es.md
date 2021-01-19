@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41484qUtUPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YWQF8Y2-es'
+slug: 'B07YWQF8Y2-es Tusscle Almohada Cojín Lumbar，Soporte Lumbar Dormir，Apoyo Lumbar cojín La Altura Ajustable Reduce la presión de la Cintura y Mejora el sueño.  Blanco '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

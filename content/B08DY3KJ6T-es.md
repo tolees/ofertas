@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yii9zIeGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DY3KJ6T-es'
+slug: 'B08DY3KJ6T-es NNAYD1996 Pintura al óleo Flor de Cactus Impresión Digital a Prueba de Agua y Moho'
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

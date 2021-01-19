@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zDJaN961L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB4F1Y1-es'
+slug: 'B07VB4F1Y1-es Pour Moi? Remix Underwired Basque Bustier  Negro  Black Black   tamaño Fabricante: 32B para Mujer'
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

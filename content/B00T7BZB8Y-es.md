@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DCzjaIupL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T7BZB8Y-es'
+slug: 'B00T7BZB8Y-es APC PM8-GR Surge Arrest Essential - Regleta con protección contra subidas y picos de tensión  8 tomas de salida'
 actualPrice: 40.61 EUR
 currency: EUR
 price: 40.61

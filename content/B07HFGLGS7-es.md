@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-a9Pv5iyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFGLGS7-es'
+slug: 'B07HFGLGS7-es Beats Auriculares  Negro'
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

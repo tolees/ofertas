@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41igY3nfAwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9VKSPM-es'
+slug: 'B07K9VKSPM-es Powerextra Sony NP-FZ100 2 Baterias con Carcador Pantalla LCD para Sony NP FZ100 y Sony Alpha 9  Sony A9  Sony Alpha 9R  Sony A9R  Sony Alpha 9S  Sony A9R  Sony A7R3 Cámaras Digitales'
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

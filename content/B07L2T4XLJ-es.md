@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BJ17RQdlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2T4XLJ-es'
+slug: 'B07L2T4XLJ-es EMOCCI Aspiradora de Mano Sin Cable 5500PA 100W 8.4V Batería de 2400mAh Super Mudo'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

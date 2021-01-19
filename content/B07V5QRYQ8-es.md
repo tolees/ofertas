@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-tgsmPa2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QRYQ8-es'
+slug: 'B07V5QRYQ8-es Tommy Hilfiger LowCut Essential Sneaker  Zapatillas para Mujer  Azul  Twilight Navy C87   42 EU'
 actualPrice: 22.55 EUR
 currency: EUR
 price: 22.55

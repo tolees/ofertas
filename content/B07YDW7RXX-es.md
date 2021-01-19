@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411WANHJUTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDW7RXX-es'
+slug: 'B07YDW7RXX-es Pikolin Veza  colchón de muelles ensacados y viscoelástica premium  135x190  firmeza media-alta  colchones confort y calidad máxima'
 actualPrice: 501.49 EUR
 currency: EUR
 price: 501.49

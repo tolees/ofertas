@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412AozkbeRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WS8JTNM-es'
+slug: 'B07WS8JTNM-es Power Bank PD 3.0  Batería Externa15800mAh con USB C  QC 3.0 & PD 18W Carga Rápida  Cargador Portátil con 3 Salidas y 2 entradas para iPhone 8/8 Plus/X/XS/XR/XS  iPad  Samsung  Huawei y más'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

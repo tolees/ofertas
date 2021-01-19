@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4121oDe4cZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711SWZWT-es'
+slug: 'B0711SWZWT-es Merrell Cham 7 Limit Waterproof  Zapatillas de Senderismo para Hombre  Marrón Stone  42 EU'
 actualPrice: 72.08 EUR
 currency: EUR
 price: 72.08

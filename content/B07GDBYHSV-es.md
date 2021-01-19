@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-Hs0AsH+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDBYHSV-es'
+slug: 'B07GDBYHSV-es Juguete Gato Pelota - Carga USB Bola Giratoria Automática - Batería Recargable Incorporada ＆ Con Pluma Desmontable - Para Ejercicio Animal Doméstico'
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

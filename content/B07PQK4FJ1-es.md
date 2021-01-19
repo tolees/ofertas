@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XjZ0IfQyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQK4FJ1-es'
+slug: 'B07PQK4FJ1-es non-brand Muñeca Bebé Reborn con Bañera Azul y Accesorios  Juego de Baño para Niñas'
 actualPrice: 30.96 EUR
 currency: EUR
 price: 30.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WttYFMP4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LLQDU4Y-es'
+slug: 'B01LLQDU4Y-es Quid Senia- Paellera En Acero De 26 Cm  2 Raciones  Apta Para Horno e Inducción'
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

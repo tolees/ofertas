@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q8C-1q9ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NS3R5M2-es'
+slug: 'B07NS3R5M2-es BERSIGAR Negocio de los Hombres Casual Cronógrafo Cuarzo Impermeable Reloj de Pulsera'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

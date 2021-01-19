@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TTh982-TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OHQ9NAQ-es'
+slug: 'B00OHQ9NAQ-es SPARES2GO Perillas de control universales negras para todas las marcas de horno  cocina y placa de cocina  paquete de 4 '
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

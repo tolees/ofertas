@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kwXI3PQsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FIVKGM8-es'
+slug: 'B00FIVKGM8-es Singer SMC4423 Heavy Duty 4423  18/8 Stainless Steel  multicolor'
 actualPrice: 189.16 EUR
 currency: EUR
 price: 189.16

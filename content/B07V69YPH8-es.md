@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414X-jDhy3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V69YPH8-es'
+slug: 'B07V69YPH8-es Jack & Jones Jcocloud Crew Neck suéter  Marrón  Fudge Fit: Knit Fit   Large para Hombre'
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

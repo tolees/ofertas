@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4106ZLL8H2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GTD5SBC-es'
+slug: 'B07GTD5SBC-es devolo Magic 2 LAN - Extensión PLC y Enchufe  2400 Mbps LAN'
 actualPrice: 41.97 EUR
 currency: EUR
 price: 41.97

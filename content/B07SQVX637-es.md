@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51l+0YP-yOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQVX637-es'
+slug: 'B07SQVX637-es Hpybest - Cadena de chupete de dos colores hecha a mano con clip anticaída para pezón'
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

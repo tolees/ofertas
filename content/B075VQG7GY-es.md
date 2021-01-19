@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jx50vGynL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075VQG7GY-es'
+slug: 'B075VQG7GY-es Vicloon Impermeable Manga Larga Bebé Babero Conjunto de 3 Niños Artes Artesanales Pintura Delantal con Diseño Exclusivo - Bolsillo Frontal para Niños de 1 a 3 Años'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419fNfjlOgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMBNWWV-es'
+slug: 'B07HMBNWWV-es Dardaruga - Estufa de seta calefactora  calefacción para exteriores  termopatio de calor 13 5 kW  negro mate'
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

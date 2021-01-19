@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HcXKG-INL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XB5RYCJ-es'
+slug: 'B07XB5RYCJ-es Mini Pluma para cámara-Bolígrafo de cámara espía-Pluma Cámara Oculto 1080p HD-2.5 Horas Toma de Video Duración con 32 GB de Memoria para conferencias de Negocios y Seguridad GSmade'
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

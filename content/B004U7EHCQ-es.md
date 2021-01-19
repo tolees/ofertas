@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31u+iFENgEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004U7EHCQ-es'
+slug: 'B004U7EHCQ-es Kärcher Tubo de chorro telescópico  2.642-347.0 '
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

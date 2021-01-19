@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NNkaM9ojL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT4CT4Z-es'
+slug: 'B07RT4CT4Z-es NEWYES Tableta de Escritura LCD a Color  Pizarra Digital  Tablet para Dibujar para Niños 8.5 Pulgadas  Rosa '
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

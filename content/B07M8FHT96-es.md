@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jxR+jZ+IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8FHT96-es'
+slug: 'B07M8FHT96-es Espumador Batidor de Leche Automático Morpilot Espuma Leche Caliente/Frío  Vaporizador de Leche Automático/Espumador De Leche/Calentador de Leche  4 Funciones con Apagamiento Automático  240ml'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

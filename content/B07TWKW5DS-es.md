@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nIu30nGTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWKW5DS-es'
+slug: 'B07TWKW5DS-es FORMIZON 20 Pcs Globos de Papel de Aluminio  Globos de Corazón Oro Rosa  Globos en Forma de Corazón para la Decoración del Partido  Cumpleaños  Decoración de Helio'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

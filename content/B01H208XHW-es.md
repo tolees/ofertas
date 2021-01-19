@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FMvGolKDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H208XHW-es'
+slug: 'B01H208XHW-es God of War - Edición Estándar'
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

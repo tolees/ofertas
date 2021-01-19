@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FEs5iBLGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SG4RQDD-es'
+slug: 'B07SG4RQDD-es Zambrero Remanufacturado HP 304XL 304 XL Cartuchos de tinta Negro y Tricolor para HP DeskJet 2620 2630 3720 3730 3732 3735 3760 HP ENVY 5020 5030 5032'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

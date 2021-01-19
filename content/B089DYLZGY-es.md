@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mam864uLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089DYLZGY-es'
+slug: 'B089DYLZGY-es RUNCCI-YUN 8dBi 2 4 GHz 5 GHz Dual Band WiFi RP-SMA Antena + 2 x 20cm IPEX a RP-SMA Hembra Cable Pigtail l para NGFF/M.2 WiFi'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

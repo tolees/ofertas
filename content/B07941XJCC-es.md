@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hYNVQtjCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07941XJCC-es'
+slug: 'B07941XJCC-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero SSB305P1'
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

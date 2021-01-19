@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JQG5DBd4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087M1CL7Y-es'
+slug: 'B087M1CL7Y-es Agger 2 Piezas de Asiento Ajustable posicionador del sueño del bebé del Cuello del Coche y Socorro de Soporte de la Cabeza del niño del Asiento de Coche/Protección Cochecito'
 actualPrice: 8.92 EUR
 currency: EUR
 price: 8.92

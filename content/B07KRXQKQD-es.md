@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314o7yGFv-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRXQKQD-es'
+slug: 'B07KRXQKQD-es SALOMON Comet Warm Tight W Mallas para Running  Mezcla de sintéticos  Mujer  Gris  Ebony   XL'
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

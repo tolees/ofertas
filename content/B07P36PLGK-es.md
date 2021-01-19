@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41F4EZJMkwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P36PLGK-es'
+slug: 'B07P36PLGK-es Skechers Heston  Zapatillas para Hombre  Negro Black Leather Black  39.5 EU'
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

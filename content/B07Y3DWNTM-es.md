@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h+ObhvrHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y3DWNTM-es'
+slug: 'B07Y3DWNTM-es Grifo de Ducha Dalmo  Grifo Ducha Cubre con Alcachofa de Ducha de 3 Modos con Manguera Flexible de 1 5 m y Soporte de Ducha Fijo  grifo de ducha de pared Cromado Mezclador de ducha de Latón'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

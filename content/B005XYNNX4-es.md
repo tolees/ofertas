@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417HJQVcjVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XYNNX4-es'
+slug: 'B005XYNNX4-es Dim Coton Stretch Slip X3  Negro  S  talla del fabricante: 2   Pack de 3  para Hombre'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C+R9IipyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFRDKW6-es'
+slug: 'B07YFRDKW6-es MARTISAN Soporte de guitarra Universal Plegable para Guitarra Eléctrica Guitarras Acustica Electrica Bajo'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

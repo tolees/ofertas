@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21hyM515VJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVFYG8D-es'
+slug: 'B07NVFYG8D-es Clarins 57697 Delineador Waterproof Ojos  N.03 Blue Orchid'
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

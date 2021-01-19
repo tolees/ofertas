@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kkG+LCGVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGZGXVL-es'
+slug: 'B07NGZGXVL-es Strellson Premium Mercer2.0 12 Pantalones de Traje  Azul  Navy 412   75  Talla del Fabricante: 60  para Hombre'
 actualPrice: 15.58 EUR
 currency: EUR
 price: 15.58

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MXJyB2YtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014IRGWKW-es'
+slug: 'B014IRGWKW-es Emporio Armani Reloj Esqueleto para Hombre de Automático con Correa en Cuero AR1923'
 actualPrice: 287.13 EUR
 currency: EUR
 price: 287.13

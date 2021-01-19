@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m+CrUu3zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S37D3ZG-es'
+slug: 'B07S37D3ZG-es Gillette Venus Swirl - Set Maquinilla para Mujer con 2 Recambios  Funda de Viaje y Gel de Depilación Satin Care  200 ml'
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

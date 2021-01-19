@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41akcD1QxRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYPBST4-es'
+slug: 'B07DYPBST4-es Veeki - Ratón inalámbrico Bluetooth Ultrafino Portátil con Batería integrada y dpi Ajustable para PC  Ordenador Portátil  Tableta'
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

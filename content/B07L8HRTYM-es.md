@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317dLZqph4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8HRTYM-es'
+slug: 'B07L8HRTYM-es Monix Copper - Grill con rayas 28 x 28 cm de aluminio forjado con antiadherente con partículas de titanio  aptas para todo tipo de cocinas  incluso inducción  color cobre'
 actualPrice: 25.4 EUR
 currency: EUR
 price: 25.4

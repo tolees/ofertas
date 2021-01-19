@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hmjr5OvgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUPKDF2-es'
+slug: 'B01MUPKDF2-es Dek - Zapatillas ultraligeras de cordones modelo Zeus para niños  34 EU/Gris '
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

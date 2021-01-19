@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WXdIkjdsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YL1TC8P-es'
+slug: 'B07YL1TC8P-es MTNG Attitude 84086  Zapatillas para Hombre  Azul  Cato Marino C48968   40 EU'
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

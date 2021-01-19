@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RlhNWG4XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP3B4H3-es'
+slug: 'B07FP3B4H3-es Belkin ScreenForce InvisiGlass Ultra - Protector de Pantalla con Corning Glass y Refuerzo por Intercambio iónico para iPhone 8  iPhone 7  iPhone 6S y iPhone 6  Transparente'
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51v+bnY-waL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D9WA43I-es'
+slug: 'B01D9WA43I-es BLACK+DECKER BDCHD18K-QW - Taladro percutor 18V  2 velocidades  incluye batería de litio 1.5Ah y maletín'
 actualPrice: 86.7 EUR
 currency: EUR
 price: 86.7

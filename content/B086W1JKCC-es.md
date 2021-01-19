@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ko3NUeYDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086W1JKCC-es'
+slug: 'B086W1JKCC-es Cubitera Hielo Silicona  Moldes Para Hielo 2 En 1 Ice Cube Maker Bandeja De Cubitos De Hielo Con Tapas Antideslizantes Moldes Cubitera Silicona Para Whisky  CóCteles Y Bebidas'
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

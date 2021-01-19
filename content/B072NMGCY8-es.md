@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318fwKqS0qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072NMGCY8-es'
+slug: 'B072NMGCY8-es Quiksilver Mission V  Botas de Nieve para Hombre  Negro  Solid Black Sbkm   47 EU'
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

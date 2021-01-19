@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NknE0K5VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVHRWJ7-es'
+slug: 'B07MVHRWJ7-es Kipling Gabbie S  Bolsos Bandolera para Mujer  Multicolor  Tile Print   29x22x16.5 centimeters  B x H x T '
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

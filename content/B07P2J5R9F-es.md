@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BNGGSt0lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2J5R9F-es'
+slug: 'B07P2J5R9F-es Control Lub Chocolate - Gel lubricante sin azúcar ni parabenos con sabor a chocolate  75 ml'
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FVHbk3u1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006FXBUM8-es'
+slug: 'B006FXBUM8-es BRA RÁPIDA Vitesse Olla de 6 litros apta para todo tipo de cocinas incluida inducción  Acero Inoxidable  Plata  22 cm'
 actualPrice: 57.85 EUR
 currency: EUR
 price: 57.85

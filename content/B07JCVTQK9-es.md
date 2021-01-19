@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yZGOqHYWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCVTQK9-es'
+slug: 'B07JCVTQK9-es CATWALK COLLECTION - Pequeña Mensajero/Bolso Bandolera/Cuerpo Cruzado - iPhone/Kindle - SABINE - Cuero Desgastado - Azul'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

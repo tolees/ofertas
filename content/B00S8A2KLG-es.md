@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51oYSfrktWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S8A2KLG-es'
+slug: 'B00S8A2KLG-es Worx WX311.1 Taladro Percutor  1100 W'
 actualPrice: 57 EUR
 currency: EUR
 price: 57

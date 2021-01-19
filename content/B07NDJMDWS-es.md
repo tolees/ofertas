@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410jAHOKa8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDJMDWS-es'
+slug: 'B07NDJMDWS-es VistaMax | Potente optimizante y protector de la visión | Fortalece el tejido ocular y la retina | Mejora la visión diurna y nocturna | Tratamiento exclusivo para la salud de los ojos | 60 unidades'
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

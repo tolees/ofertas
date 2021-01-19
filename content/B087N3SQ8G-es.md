@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31W-P55k1YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087N3SQ8G-es'
+slug: 'B087N3SQ8G-es Dasket Ingenieros de Metal ángulo Recto 90 Try Escuadra Grados 30 cm / 12 Herramienta de medición'
 actualPrice: 3.56 EUR
 currency: EUR
 price: 3.56

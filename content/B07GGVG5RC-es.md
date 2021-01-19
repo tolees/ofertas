@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-zJfIc+jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGVG5RC-es'
+slug: 'B07GGVG5RC-es Tian 19Pcs Kit Herramientas de Desmontaje Coche Interior Herramientas de Eliminación de Desmontar para Radio Coche Panel de Salpicaderos Rojo '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

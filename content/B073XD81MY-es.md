@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Gl2aimZxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XD81MY-es'
+slug: 'B073XD81MY-es Lacoste Reloj Análogo clásico para Niños de Cuarzo con Correa en Silicona 2030002'
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

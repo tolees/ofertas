@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gk0JhMXXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPT5NNZ-es'
+slug: 'B07FPT5NNZ-es 1-kops easy clean filter'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

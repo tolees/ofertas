@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vum7fIABL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQ2JL7C-es'
+slug: 'B07CQ2JL7C-es Brillante Benefit Legumbres  Chía  Verduras  250G - [Pack De 16] - Total 4 Kg'
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419fOWjZeJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9LKJH1-es'
+slug: 'B07F9LKJH1-es Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Cuero MK2775'
 actualPrice: 133.65 EUR
 currency: EUR
 price: 133.65

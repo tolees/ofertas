@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NY7Xrn1CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Q7DKS6-es'
+slug: 'B000Q7DKS6-es Beurer MG70 - Masajeador  22 W  presión por golpeteo para relajación  color plateado'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

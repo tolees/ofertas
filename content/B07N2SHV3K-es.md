@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oE3Rn6RjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2SHV3K-es'
+slug: 'B07N2SHV3K-es Outsunny Tumbona Plegable Respaldo Ajustable a 7 Niveles con Almohada Textilene Resistente Relax en Exterior Piscina Terraza Camping 137x63.5x100.5cm Acero'
 actualPrice: 94.49 EUR
 currency: EUR
 price: 94.49

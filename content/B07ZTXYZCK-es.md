@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61aq5whzOiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTXYZCK-es'
+slug: 'B07ZTXYZCK-es Monster Energy Supercross – The Official Videogame 3'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

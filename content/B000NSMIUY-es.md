@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IQT+ej9vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NSMIUY-es'
+slug: 'B000NSMIUY-es Vans Classic Slip-On VEYEBWW - Zapatillas clsicas de Tela Unisex  Color Negro  Talla 36'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yG0ZXJE8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ8HHXK-es'
+slug: 'B07NJ8HHXK-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable LTS-100D-4AVEF'
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

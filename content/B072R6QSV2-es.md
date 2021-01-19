@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41o3H6xULUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072R6QSV2-es'
+slug: 'B072R6QSV2-es White Shark GP de 2028 PC USB Game Pad Rojo'
 actualPrice: 10.77 EUR
 currency: EUR
 price: 10.77

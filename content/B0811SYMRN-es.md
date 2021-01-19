@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nu322fM-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811SYMRN-es'
+slug: 'B0811SYMRN-es ZZSNT Walk-Hero Ajustable  Transpirable  elástico  Anti-esguince  Tobillo  Manga  Soporte  Protector  Deportes  Baloncesto Right Foot M'
 actualPrice: 2.38 EUR
 currency: EUR
 price: 2.38

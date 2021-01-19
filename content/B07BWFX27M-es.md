@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EKZVYY7kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BWFX27M-es'
+slug: 'B07BWFX27M-es HGHMLIFE - Portarrollos de papel higiénico autoadhesivo de acero inoxidable con soporte de pared para toallas de papel  gancho para rollo de pañuelo para baño  cocina  lavabo  hotel'
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fu3FedwQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B017SR0A2K-es'
+slug: 'B017SR0A2K-es Salomon Speedcross 4 GTX  Zapatillas de Trail Running para Hombre  Negro  Black/Black/Silver Metallic-X   42 2/3 EU'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HNYJuxsTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STVGP35-es'
+slug: 'B07STVGP35-es DC Shoes Penza  Zapatillas de Skateboard para Hombre  Azul  Nautical Blue Nab   39 EU'
 actualPrice: 34.15 EUR
 currency: EUR
 price: 34.15

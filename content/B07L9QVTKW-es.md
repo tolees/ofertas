@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s2WvKUyvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9QVTKW-es'
+slug: 'B07L9QVTKW-es Napapijri Erzin Polo  Verde  New Olive Green Gd6   X-Large para Hombre'
 actualPrice: 20.33 EUR
 currency: EUR
 price: 20.33

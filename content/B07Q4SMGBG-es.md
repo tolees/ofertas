@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YEW7n+v3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4SMGBG-es'
+slug: 'B07Q4SMGBG-es Aceite Esencial Puros，Ato Bea 6 * 10ml 100% Aceites Esenciales Naturales Lavanda  Hierba de Limón  Menta  Eucalipto  Árbol de té  Naranja Dulceaceites Esenciales Para Humidificador'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

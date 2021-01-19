@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YECYhkyxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MPV326J-es'
+slug: 'B07MPV326J-es TEENO Multiherramienta oscilante 300W con 8 acoplamientos  6 Hojas de Lija y maletín  230 V'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

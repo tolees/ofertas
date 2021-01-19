@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VeFGLz+SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7RCKIK-es'
+slug: 'B01K7RCKIK-es Rexona Desodorante Aerosol Cobalt Blue - 200 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

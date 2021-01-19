@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AB6OOQwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5WJPJ6-es'
+slug: 'B07X5WJPJ6-es ANEWSIR Funda + 2 Pack Vidrio Templado para iPhone 11 Pro MAX  6.5"   [2.5d Borde Redondo] [9H Dureza] [Alta Definicion] Protector de Pantalla + Transparente TPU Silicona Ultra Fino Shell Protection'
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

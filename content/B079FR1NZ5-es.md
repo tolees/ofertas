@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q62+SkFAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FR1NZ5-es'
+slug: 'B079FR1NZ5-es Casio EDIFICE Reloj en caja sólida  10 BAR  Negro  para Hombre  con Correa de Acero inoxidable  EFV-540DC-1AVUEF'
 actualPrice: 85.29 EUR
 currency: EUR
 price: 85.29

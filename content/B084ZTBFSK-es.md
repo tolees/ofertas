@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XinoGpYcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084ZTBFSK-es'
+slug: 'B084ZTBFSK-es 2018 New Water Guns Pool Toys para niños Squirt Guns Pull-out Super Water Guns Party Beach Game Orange & Green  Orange & Greem + 15.5cm '
 actualPrice: 3.57 EUR
 currency: EUR
 price: 3.57

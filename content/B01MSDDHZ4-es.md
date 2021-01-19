@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ukr+YAnbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSDDHZ4-es'
+slug: 'B01MSDDHZ4-es Licuadora para Frutas y Verduras de Prensado en Frío  Extractor de Jugos  Multifunciones  Boquilla Extra Grande  1 Litro  60 RPM  400 W  Libre de BPA  Acero Inoxidable  Gris. H.Koenig_GSX22'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

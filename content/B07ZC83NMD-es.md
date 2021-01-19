@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I9k8kVtuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZC83NMD-es'
+slug: 'B07ZC83NMD-es Scholl Plantilla In-Balance para el alivio del dolor en la zona lumbar  1 par  talla M  40 - 42 '
 actualPrice: 14.47 EUR
 currency: EUR
 price: 14.47

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ullxprZGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CCJV6W4-es'
+slug: 'B07CCJV6W4-es 30 pieza Neodimio Imán 10x3 mm Unidad imán Extrem Fuerte 2 5 kg de fuerza  N48 Mini Imanes Neodimio Raro Tierra'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

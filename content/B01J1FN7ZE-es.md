@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bcRPyxEZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J1FN7ZE-es'
+slug: 'B01J1FN7ZE-es Bosch Truvo - Detector digital  3 pilas AAA  profundidad de detección máx.: 70 mm  estuche '
 actualPrice: 37.15 EUR
 currency: EUR
 price: 37.15

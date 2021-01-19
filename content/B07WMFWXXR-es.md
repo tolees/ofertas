@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SRXGsdeKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMFWXXR-es'
+slug: 'B07WMFWXXR-es CAFELE Funda Protectora para teléfono de Silicona Suave súper Delgada y Duradera Funda para Matorral Ultra Fina para iPhone 7 Plus - Negro'
 actualPrice: 1.43 EUR
 currency: EUR
 price: 1.43

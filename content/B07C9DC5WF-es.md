@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316Wek0qU4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C9DC5WF-es'
+slug: 'B07C9DC5WF-es Naipo Mesa de Masaje Plegable de 2 Secciones Camilla Portátil y Profesional con Patas de Madera de Haya Alemán  Bolsa de Transporte  Reposacabezas y Apoyabrazos Desmontables Beige  13kg  Ancho 70cm '
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

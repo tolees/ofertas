@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31B3Ilx2VnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJ5V9RM-es'
+slug: 'B07RJ5V9RM-es G-STAR RAW Graphic 13 Slim Polo  Negro  Dk Black 6484   X-Small para Hombre'
 actualPrice: 13.64 EUR
 currency: EUR
 price: 13.64

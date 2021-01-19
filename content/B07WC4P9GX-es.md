@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IdOPExVHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC4P9GX-es'
+slug: 'B07WC4P9GX-es Explore Scientific Deep Sky Astro - Cámara de Fotos a Color'
 actualPrice: 1243.78 EUR
 currency: EUR
 price: 1243.78

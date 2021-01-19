@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4111cdwVQML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGJYKST-es'
+slug: 'B07VGJYKST-es Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Capucha  Gris  Grau   X-Large para Hombre'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

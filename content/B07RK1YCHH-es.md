@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nSB1AXJ1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK1YCHH-es'
+slug: 'B07RK1YCHH-es New Balance Fresh Foam Roav  Zapatillas de Running para Mujer  Plateado  Moonbeam TG   42.5 EU'
 actualPrice: 45.03 EUR
 currency: EUR
 price: 45.03

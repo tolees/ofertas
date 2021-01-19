@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CyXMZhHTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K5RA5IA-es'
+slug: 'B00K5RA5IA-es Tommy Hilfiger 3p Trunk Bóxers  Blanco  White 100   Small  Pack de 3  para Hombre'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

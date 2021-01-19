@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qAqTHtayL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NSHRYY-es'
+slug: 'B079NSHRYY-es Hugo Boss Orange Reloj Multiesfera para Hombre de Cuarzo con Correa en Cuero 1550065'
 actualPrice: 124.94 EUR
 currency: EUR
 price: 124.94

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515rtdRqyVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085G5JKN7-es'
+slug: 'B085G5JKN7-es Radio Meteorológica de 5 Vías para Emergencias Domésticas al Aire Libre  Radio Portátil NOAA/Am/FM/SW y Alarma SOS  Energía Solar  Manivela de Dinamo Manual  Linterna  Lámpara de Campamento  Brújula'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

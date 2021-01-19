@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dD9q1qn2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TMYN1N-es'
+slug: 'B081TMYN1N-es adidas UNIFO LGE Balón de Fútbol  Men s  White/Black/Signal Green/Bright Cyan  4'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ON0fKpIbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071NZK56K-es'
+slug: 'B071NZK56K-es Vileda Quick & Clean - Escoba eléctrica inalámbrica y cepillo eléctrico con articulación flexible y 2 cepillos giratorios patentados  color rojo'
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

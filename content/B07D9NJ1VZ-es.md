@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41loE2JeRIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9NJ1VZ-es'
+slug: 'B07D9NJ1VZ-es Adorables Trajes Flacos de Baile de Ballet para 18 Pulgadas Americanas Chicas Muñecas'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

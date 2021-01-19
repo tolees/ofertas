@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ojpjZx6xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G8ZJCCK-es'
+slug: 'B07G8ZJCCK-es Himaly USB Planchas de Pelo Inalámbrico Portátil con Pantalla Digital Planchas de Pelo Profesional Recargable Temperatura Ajustable para Alisar el Cabello Portáti Carga por USB  2600 mAh '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

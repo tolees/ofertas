@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41stLvTRrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBVNZ97-es'
+slug: 'B07SBVNZ97-es PUMA LQDCELL Hydra  Zapatillas Deportivas para Interior para Hombre  Negro Black/Yellow Alert  45 EU'
 actualPrice: 42.43 EUR
 currency: EUR
 price: 42.43

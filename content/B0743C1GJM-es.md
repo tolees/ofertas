@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ExniArB3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0743C1GJM-es'
+slug: 'B0743C1GJM-es Amzdeal Mesa de Luz Dibujo  A4 LED Portátil Tableta de Luz Ultradelgada con Panel Táctil y Óptico Inteligente Interfaz USB para Artistas  Dibujo  Animación'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

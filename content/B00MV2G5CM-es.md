@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vDcF1GQKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MV2G5CM-es'
+slug: 'B00MV2G5CM-es Sisley Phyto-Teint Expert #3-Natural 30 ml'
 actualPrice: 50.34 EUR
 currency: EUR
 price: 50.34

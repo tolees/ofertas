@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QMXh4mW4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6PM1LT-es'
+slug: 'B07L6PM1LT-es Sizzix Thinlits Troqueles 10PK Set de cocina'
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

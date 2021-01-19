@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fU9d7vF+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNF2M1M-es'
+slug: 'B07GNF2M1M-es LKXHarleya 1000 pcs Unids/Lote Mini Artificial Cabezas Dobles Perla Flor Estambre Pistil Home Craft Decor'
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FkodeL-mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I5IXMKY-es'
+slug: 'B00I5IXMKY-es Intex 29050 - Red recogehojas compatible con mango de 26 2 mm de diámetro'
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZxPDR+IHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08J6RK4FG-es'
+slug: 'B08J6RK4FG-es Panamar Bolsa para portátil de 13 Pulgadas Bolsa Repelente de protección a Prueba de Golpes Bolsa para computadora portátil y Tableta Funda para Macbook-Negro'
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

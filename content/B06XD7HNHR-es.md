@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414bYN1bNVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XD7HNHR-es'
+slug: 'B06XD7HNHR-es Bourjois Brow Palette Kit para cejas Tono 2 Brunette - 37 gr.'
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

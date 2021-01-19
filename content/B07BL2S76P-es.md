@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N1H8uIDvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL2S76P-es'
+slug: 'B07BL2S76P-es New Balance 411 h  Zapatillas de Running para Hombre  Negro  Black/Black Black/Black   42.5 EU'
 actualPrice: 27.97 EUR
 currency: EUR
 price: 27.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31T3XIMns+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0158ERDIY-es'
+slug: 'B0158ERDIY-es Rowenta Liss & Curl Ultimate Sunshine SF6220E0 - Plancha de pelo con doble salida Iónica  placas aluminio con recubrimiento de nanocerámica ultrashine  función 2 en 1 alisado y rizos Perfectos'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

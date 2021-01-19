@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41To3pOt+uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V42V6MS-es'
+slug: 'B07V42V6MS-es Valily Anillo Superman Plata Acero Inoxidable Joyería de Superhéroes Regalo para Hombre Mujer Talla 27'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

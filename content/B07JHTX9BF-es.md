@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414OPCSqgoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHTX9BF-es'
+slug: 'B07JHTX9BF-es Liebeskind Berlin - Dive Bag Beltbag  Bolsos bandolera Mujer  Negro  Black   2x16x19 cm  W x H L '
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c8eGXyIKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXQMZ3M-es'
+slug: 'B07TXQMZ3M-es Legend COMO-A - Bolsa de Cuero Mujer  color Negro  talla 4x13x19 cm  B x H x T '
 actualPrice: 53.18 EUR
 currency: EUR
 price: 53.18

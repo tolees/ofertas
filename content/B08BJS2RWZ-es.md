@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510HwLdLvjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJS2RWZ-es'
+slug: 'B08BJS2RWZ-es RuiDaXiang Casa de muñecas  Dormitorio con Muebles  iluminación  Mini muñeca.Juguetes de casa de muñecas para niñas  Dormitorio-Rosado '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

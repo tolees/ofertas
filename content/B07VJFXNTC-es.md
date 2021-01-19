@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Gl5Kd3wQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJFXNTC-es'
+slug: 'B07VJFXNTC-es ieGeek Cámara de Vigilancia WiFi Interior  Cámara IP WiFi 1080P HD  Detección Humana  Grabacion Continua  Audio de 2 Vías  FHD  Sensor de Movimiento  Vigilabebes Audio  Monitor para Bebe/Perros'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

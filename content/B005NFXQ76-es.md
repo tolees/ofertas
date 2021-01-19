@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+fllUk2vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005NFXQ76-es'
+slug: 'B005NFXQ76-es MANN-FILTER HU 718/1 N Original Filtro de Aceite  para automóviles'
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

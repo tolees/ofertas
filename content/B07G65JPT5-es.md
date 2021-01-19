@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ioSYs9SGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G65JPT5-es'
+slug: 'B07G65JPT5-es Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3903'
 actualPrice: 157.3 EUR
 currency: EUR
 price: 157.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rKgYnbo3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B1S2G2L-es'
+slug: 'B07B1S2G2L-es Skechers Women s Go Walk Evolution Ultra-Reach Slip On Trainers  Purple  Mauve Mve   8 UK   41 EU '
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

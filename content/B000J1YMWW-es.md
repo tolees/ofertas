@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FXd7ToUQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000J1YMWW-es'
+slug: 'B000J1YMWW-es Seiko Reloj Analógico de Cuarzo para Hombre con Correa de Titanio – SGG731P1'
 actualPrice: 157.24 EUR
 currency: EUR
 price: 157.24

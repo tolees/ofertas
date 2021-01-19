@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s6EGUOjNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPRXB62-es'
+slug: 'B07KPRXB62-es Asics Patriot 10 SP 1012a236-101  Zapatillas de Running Unisex Niños  Beige  Beige 1012a236/101   37 EU'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

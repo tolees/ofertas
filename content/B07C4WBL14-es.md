@@ -6,7 +6,7 @@ image: ''
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C4WBL14-es'
+slug: 'B07C4WBL14-es LuckyGirls Bañadores de Natación Hombre Calzoncillos Cortos para Hombre Boxers Playa Surf Deportivos Corriendo Respirable Secado Rápido Trajes de Baño Estampado de Estrellas Slips Tanga  XL  Azul '
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

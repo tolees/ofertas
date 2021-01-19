@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+S5GmALPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYP15DS-es'
+slug: 'B07KYP15DS-es Reebok Speed TR FLEXWEAVE  Zapatillas de Deporte Interior para Mujer  Multicolor  Cold Grey/White/Denim Glow 000   38 1/3 EU'
 actualPrice: 65.5 EUR
 currency: EUR
 price: 65.5

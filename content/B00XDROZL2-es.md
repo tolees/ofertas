@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dnhmX7A0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XDROZL2-es'
+slug: 'B00XDROZL2-es Scottex Gigante Papel de Cocina - 1 Rollo'
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

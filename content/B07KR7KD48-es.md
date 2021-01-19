@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31WxgWKRtRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR7KD48-es'
+slug: 'B07KR7KD48-es Under Armour UA Qualifier Heatgear Tight Leggings  Hombre  Negro  Black/Black/Reflective 001   M'
 actualPrice: 36.91 EUR
 currency: EUR
 price: 36.91

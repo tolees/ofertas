@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311RLLXUgsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0854KNGFM-es'
+slug: 'B0854KNGFM-es Tamaño portátil Fragancia fresca Perfume original Perfume Mujer Perfume Mujer Hombre Parfum Fragancia fresca Perfume XS1280B - Azul'
 actualPrice: 5.82 EUR
 currency: EUR
 price: 5.82

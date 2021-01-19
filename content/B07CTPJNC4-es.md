@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mZRW4leKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTPJNC4-es'
+slug: 'B07CTPJNC4-es Under Armour Charged Rogue  Zapatillas de Running para Mujer  Negro  Black/White/White  002  002   37.5 EU'
 actualPrice: 33.82 EUR
 currency: EUR
 price: 33.82

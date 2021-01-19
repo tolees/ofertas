@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31y4XDbO6SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQDD74G-es'
+slug: 'B07BQDD74G-es Rexona Desodorante Active Pro+ Original Mujer - 200 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

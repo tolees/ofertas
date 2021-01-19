@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419Y99j6FpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076M7DX2Q-es'
+slug: 'B076M7DX2Q-es SADES Ratón Gaming 3500 DPI ratón para juegos RGB alámbrico Programable LED Mouse Gaming Profesional 7 Botón para PC Computadora Portátil Computadora MacBook'
 actualPrice: 11.87 EUR
 currency: EUR
 price: 11.87

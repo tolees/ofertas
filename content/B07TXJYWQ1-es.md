@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S5+4ngtkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXJYWQ1-es'
+slug: 'B07TXJYWQ1-es Tabla De Planchar Antideslizante Con Cubierta De Hierro Para Protección De Algodón De Tela'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

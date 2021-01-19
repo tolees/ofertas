@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fMyjdyVnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UCC2VQ2-es'
+slug: 'B00UCC2VQ2-es Vitroclen Limpiador de Vitrocerámica en crema  acción protectora y desengrasante - 200 ml'
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

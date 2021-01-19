@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EPuhBe4zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FN4TFBB-es'
+slug: 'B07FN4TFBB-es Saucony Xodus ISO 3  Zapatillas de Trail Running para Mujer  Gris  Gris 3   38 EU'
 actualPrice: 75.3 EUR
 currency: EUR
 price: 75.3

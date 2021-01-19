@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61E+DSMCLzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QK8IASU-es'
+slug: 'B00QK8IASU-es Aqua Dragons- Viaje EGGspedition al Periodo Jurásico Juguete educativo  Multicolor  World Alive 4006    color/modelo surtido'
 actualPrice: 21.21 EUR
 currency: EUR
 price: 21.21

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jtW+4gM8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P36FSL7-es'
+slug: 'B07P36FSL7-es Dickies Fairdale  Pantalones para Hombre  Negro  Black Bk   W40/L34'
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nEawqpDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDVT3WS-es'
+slug: 'B07QDVT3WS-es Michael Kors Reloj Analógico-Digital para Mujer Correa en Acero Inoxidable MKT5062'
 actualPrice: 221.4 EUR
 currency: EUR
 price: 221.4

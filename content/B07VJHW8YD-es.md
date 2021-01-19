@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aXmwWxyuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJHW8YD-es'
+slug: 'B07VJHW8YD-es Hackett London Coral Swim Trim Polo  Amarillo  022fresh Yellow 022   Medium para Hombre'
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

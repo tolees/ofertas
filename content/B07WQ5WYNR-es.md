@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yAEFvjd5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQ5WYNR-es'
+slug: 'B07WQ5WYNR-es DesigualBols brown Sugar RotterdamMujerBolsos mochilaBeige  Natural 15.00x30.00x31.00 Centimeters  B x H x T '
 actualPrice: 41.66 EUR
 currency: EUR
 price: 41.66

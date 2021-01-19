@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hTqMp6x+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWNL8HR-es'
+slug: 'B07PWNL8HR-es Under Armour UA GS Assert 8  Zapatillas de Running Unisex Niños  Negro  Black/Lipstick/Metallic Silver   39 EU'
 actualPrice: 25.31 EUR
 currency: EUR
 price: 25.31

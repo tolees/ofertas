@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fn577cERL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RR4PGVQ-es'
+slug: 'B07RR4PGVQ-es Tommy Hilfiger - Th Core Satchel  Bolsos maletín Mujer  Multicolor  Sky Captain   15x0.1x34 cm  W x H L '
 actualPrice: 98.94 EUR
 currency: EUR
 price: 98.94

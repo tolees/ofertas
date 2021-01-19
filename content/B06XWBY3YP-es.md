@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514-4ZaPtlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWBY3YP-es'
+slug: 'B06XWBY3YP-es SEGA Genesis - Consola Retro Sega Mega Drive  81 Juegos '
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

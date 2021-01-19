@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fpzYn7u8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TYKYV1-es'
+slug: 'B077TYKYV1-es Black+Decker BXPW1400E Hidrolimpiadora de Alta Presión  1400 W  230 V  Negro/Naranja  Única'
 actualPrice: 69.7 EUR
 currency: EUR
 price: 69.7

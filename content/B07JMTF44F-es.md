@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kWUPq284L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMTF44F-es'
+slug: 'B07JMTF44F-es Cloudnola Botanical Palm - Reloj de Pared  Talla única   Color Madera de Pino'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

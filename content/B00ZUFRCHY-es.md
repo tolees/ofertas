@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PINbX-2EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZUFRCHY-es'
+slug: 'B00ZUFRCHY-es Sony Cyber-Shot DSC-RX10 II - Cámara compacta de 20.2 MP y Sensor de 1" Exmor RS con 20 MP  Negro'
 actualPrice: 839.0 EUR
 currency: EUR
 price: 839.0

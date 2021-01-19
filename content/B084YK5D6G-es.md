@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lRNCcYfBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084YK5D6G-es'
+slug: 'B084YK5D6G-es Baoblaze 1 Par De Plantillas De Inserción De Talón De Zapata Cojín De Plantilla Amortiguadores De Zapato Amortiguador Pies Planos - Beige  XS'
 actualPrice: 5.47 EUR
 currency: EUR
 price: 5.47

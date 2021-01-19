@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vmqAZJ2UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BCBCDB9-es'
+slug: 'B08BCBCDB9-es feihao-Rodillo de Amasar-Rodillos Ajustables de Acero Inoxidable con 4 Anillos de Espesor Ajustable Extraíbles  Rodillo de Masa con Tapete para Pasta de Hornear Pastel  Pizza  Pasta y Galletas'
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

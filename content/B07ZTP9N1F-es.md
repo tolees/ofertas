@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hTni10cCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTP9N1F-es'
+slug: 'B07ZTP9N1F-es HUAWEI FreeBuds 3 - Auriculares inalámbricos con cancelación de Ruido Activa  conexión Bluetooth ultrarrápida  Altavoz de 14 mm  Carga inalámbrica   Color Blanco'
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

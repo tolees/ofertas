@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jgcXWqktL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVHJN4F-es'
+slug: 'B07DVHJN4F-es New Balance 247v2  Entrenadores para Mujer  Rosa  Birch Birch   36 EU'
 actualPrice: 24.02 EUR
 currency: EUR
 price: 24.02

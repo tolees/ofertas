@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416GzqmmCdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079V5LP6X-es'
+slug: 'B079V5LP6X-es Wrangler Arizona Jeans  Azul  Green Room 25B   35W / 32L para Hombre'
 actualPrice: 42.48 EUR
 currency: EUR
 price: 42.48

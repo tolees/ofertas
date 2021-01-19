@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w2GH0QjuL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CX5YD4-es'
+slug: 'B071CX5YD4-es Mobiclinic  Mezquita  Andador para ancianos  mayores  adultos o minusválidos  ayuda para caminar  regulable en altura  aluminio  ligero  plegable  sin ruedas  empuñaduras ergonómicas  gris'
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

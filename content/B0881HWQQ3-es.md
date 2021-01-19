@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g97+qfReL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0881HWQQ3-es'
+slug: 'B0881HWQQ3-es Mooness - Funda de piel sintética para Xiaomi Redmi 9s/Note 9 Pro  magnética  color oro rosa'
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

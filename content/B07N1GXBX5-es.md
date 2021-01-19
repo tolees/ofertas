@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FwYezvLqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GXBX5-es'
+slug: 'B07N1GXBX5-es Kipling ONALO PACKABLE - Bolsa de viaje  25 liters  Multicolor  CAMO L Light '
 actualPrice: 29.44 EUR
 currency: EUR
 price: 29.44

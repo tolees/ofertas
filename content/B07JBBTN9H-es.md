@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xeutdXqTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBBTN9H-es'
+slug: 'B07JBBTN9H-es Diablo III: Battle Chest - Standard | Código Battle.net para PC'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

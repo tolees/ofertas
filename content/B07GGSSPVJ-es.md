@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PIMQZa3sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGSSPVJ-es'
+slug: 'B07GGSSPVJ-es 9H Nano Ceramic Coating  Tracffy Mr Fix Revestimiento Ceramico Coche  Super Hidrofóbico Pulido Car Coating  Anti Arañazos Coche Protección de Pintura'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

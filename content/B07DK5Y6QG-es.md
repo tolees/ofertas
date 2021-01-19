@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KBlgEh6FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK5Y6QG-es'
+slug: 'B07DK5Y6QG-es Festina Reloj de Pulsera F20398/1'
 actualPrice: 126.49 EUR
 currency: EUR
 price: 126.49

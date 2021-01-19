@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xeCYqTYQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CWJYXRV-es'
+slug: 'B07CWJYXRV-es YOUNGDO Mini Pala Plegable Militar Multifuncional 10 en 1 para Acampar  excursión  mochilero  Pesca  Herramienta Que aprieta de la Trinchera  la Emergencia del Coche'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

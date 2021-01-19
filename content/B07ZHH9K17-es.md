@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51LA%2B8eT8EL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHH9K17-es'
+slug: 'B07ZHH9K17-es Villanas Disney -Bolso Redondo'
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

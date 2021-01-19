@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kw2JR+rUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01COUVYRQ-es'
+slug: 'B01COUVYRQ-es BAMOER   Plata de ley  925/1000 '
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

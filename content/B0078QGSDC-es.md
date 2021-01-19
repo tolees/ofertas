@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+Vvt-XqzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0078QGSDC-es'
+slug: 'B0078QGSDC-es Timex T2N794 - Reloj análogico de cuarzo con correa de cuero unisex  color negro'
 actualPrice: 49.36 EUR
 currency: EUR
 price: 49.36

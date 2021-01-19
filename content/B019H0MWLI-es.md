@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ptc5bNQIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B019H0MWLI-es'
+slug: 'B019H0MWLI-es Calzoncillo de carreras para hombre  traje de baño HEAD  azul  Claro  LB   7 DE  tamaño del fabricante: 52 '
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

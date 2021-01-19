@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31KgqijUB5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GXWYEV4-es'
+slug: 'B01GXWYEV4-es Hollister Wave For Her Perfume - 50 ml'
 actualPrice: 17 EUR
 currency: EUR
 price: 17

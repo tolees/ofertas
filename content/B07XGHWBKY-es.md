@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZmeBrVvEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGHWBKY-es'
+slug: 'B07XGHWBKY-es Creative Saddle Almacenamiento de doble fregadero Artículos para el hogar Práctico y duradero - Multicolor'
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

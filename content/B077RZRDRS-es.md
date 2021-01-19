@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WnW6Iji5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077RZRDRS-es'
+slug: 'B077RZRDRS-es Heavy Duty alfabeto letra número juego de herramienta de boxeo  walfront 1/8 "de acero al carbono Pin Punzones  sellos de metal Craft Kit de herramientas con funda  Letter'
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

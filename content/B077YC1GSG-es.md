@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/617qQHp-gYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YC1GSG-es'
+slug: 'B077YC1GSG-es Shantae: Half Genie Hero Ultimate Day One'
 actualPrice: 30.82 EUR
 currency: EUR
 price: 30.82

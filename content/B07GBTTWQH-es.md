@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tI9BtRBJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBTTWQH-es'
+slug: 'B07GBTTWQH-es Alsoar - Carcasa de Repuesto para Galaxy S6 Edge Clear View  con Espejo y función Atril'
 actualPrice: 12.92 EUR
 currency: EUR
 price: 12.92

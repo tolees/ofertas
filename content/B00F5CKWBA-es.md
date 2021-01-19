@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TmPwaAilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F5CKWBA-es'
+slug: 'B00F5CKWBA-es AmazonBasics - Funda de disco duro  color negro y naranja'
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

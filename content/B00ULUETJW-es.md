@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zvt+uA5ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ULUETJW-es'
+slug: 'B00ULUETJW-es NIDO DE PAJAROS - INTERHOME©'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

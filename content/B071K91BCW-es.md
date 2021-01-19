@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41javFS7BiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071K91BCW-es'
+slug: 'B071K91BCW-es Flor Suavizante Regular Azul Profesional - 10000 ml'
 actualPrice: 10.51 EUR
 currency: EUR
 price: 10.51

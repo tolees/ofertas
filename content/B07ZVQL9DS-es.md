@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NYtUlsxNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVQL9DS-es'
+slug: 'B07ZVQL9DS-es LED Lámpara de Techo Kimjo 36W  IP44 Impermeable Plafón LED Techo  φ23cm Redondo Plafón  Blanco Frío 6500K 3240LM Moderna Luz de Techo LED para Baño  Cocina  Dormitorio  Balcón  Pasillo'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

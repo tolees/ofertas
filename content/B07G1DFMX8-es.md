@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xH532otRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1DFMX8-es'
+slug: 'B07G1DFMX8-es Superfit Heaven  Zapatillas para Niñas  Hellblau 85  25 EU'
 actualPrice: 47.1 EUR
 currency: EUR
 price: 47.1

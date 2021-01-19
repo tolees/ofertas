@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JfqUDh59L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVQDMNC-es'
+slug: 'B07DVQDMNC-es New Balance Rubix  Zapatillas de Running para Mujer  Blanc  40.5 EU'
 actualPrice: 34.16 EUR
 currency: EUR
 price: 34.16

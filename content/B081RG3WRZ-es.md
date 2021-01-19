@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NAvM6vQtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RG3WRZ-es'
+slug: 'B081RG3WRZ-es KOOPAO Cable USB C a Jack 3.5 mm Cable Aux USB Tipo C a Auriculares para Compatible con iPad Pro 2018  Google Pixel 2  3 XL  Moto Z y Galaxy Note10+  Huawei HTC  3 28 pies '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

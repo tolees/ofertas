@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RfQkmeZoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFZHDWX-es'
+slug: 'B07MFZHDWX-es GANT Hampton  Botas Chelsea para Mujer  Marrón  Dark Brown G46   42 EU'
 actualPrice: 77.88 EUR
 currency: EUR
 price: 77.88

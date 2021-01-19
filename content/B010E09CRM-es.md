@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VB1+BF3YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010E09CRM-es'
+slug: 'B010E09CRM-es Medinc Dirá Todo el Mundo a Salvar Vidas con el Ritmo cardíaco portátil calcomanía'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

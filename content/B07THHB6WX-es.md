@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E8mQ9oXzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THHB6WX-es'
+slug: 'B07THHB6WX-es Mydours Alfombrillas de Ratón de Cuero de la PU  95 x40cm Estera Impermeable del Juego de la Escritura del Escritorio del cojín de Escritorio para la Oficina/el hogar  Verde '
 actualPrice: 25.97 EUR
 currency: EUR
 price: 25.97

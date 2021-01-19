@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411BCm-kxJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZNY2MT-es'
+slug: 'B07MZNY2MT-es Funko- Pop Figura de Vinilo: Disney: Little Mermaid-Prince Eric Coleccionable  Multicolor  Talla única  40106 '
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

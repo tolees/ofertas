@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y7Su0lMcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F71WLBT-es'
+slug: 'B07F71WLBT-es Regufibra | Potente prebiótico con aloe vera e inulina [10 mil millones UFC] | Regula el tránsito intestinal y mejora la digestión | Previene el estreñimiento | Depura y elimina toxinas | 60 unidades'
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

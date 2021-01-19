@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31AMCx4HkOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4XBLHC-es'
+slug: 'B07G4XBLHC-es CHAKB|#Chatham Fairway  Mocasines para Hombre   Navy 001   41 EU'
 actualPrice: 18.65 EUR
 currency: EUR
 price: 18.65

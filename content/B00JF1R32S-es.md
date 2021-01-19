@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rn9Aja9tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JF1R32S-es'
+slug: 'B00JF1R32S-es Monix VELOCE - Olla a presión rápida de 7 litros'
 actualPrice: 52.66 EUR
 currency: EUR
 price: 52.66

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N4IV0Bb4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081HLHRS4-es'
+slug: 'B081HLHRS4-es Victory Endurance Recovery Bar Sabor Piña Colada. Barrita recuperadora con 32% de proteína  12x35 g '
 actualPrice: 9.84 EUR
 currency: EUR
 price: 9.84

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310+lQUqBML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LW07SPT-es'
+slug: 'B01LW07SPT-es L Oréal Paris Barra De Labios Color Riche 641 Beige Boudo'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

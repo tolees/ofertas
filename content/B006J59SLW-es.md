@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sR5IzZc5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006J59SLW-es'
+slug: 'B006J59SLW-es Superga 2750 COTU Classic  Zapatillas de Gimnasia Unisexo  Azul  Intense Blue G88   36 EU'
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

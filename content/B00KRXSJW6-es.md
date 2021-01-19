@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BtqA-X+0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KRXSJW6-es'
+slug: 'B00KRXSJW6-es HP C2P24AE 935XL Cartucho de Tinta Original de alto rendimiento  1 unidad  cian'
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

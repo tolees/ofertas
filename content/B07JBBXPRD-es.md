@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ohLvjZ16L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBBXPRD-es'
+slug: 'B07JBBXPRD-es Columbia Trail Shaker Braga Para El Cuello  Unisex adulto  Chalk  O/S'
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

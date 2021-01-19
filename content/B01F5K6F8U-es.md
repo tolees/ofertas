@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BxNZtGThL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F5K6F8U-es'
+slug: 'B01F5K6F8U-es Nixon Reloj Mujer de Analogico con Correa en Chapado en Acero Inoxidable A11302195-00'
 actualPrice: 55.39 EUR
 currency: EUR
 price: 55.39

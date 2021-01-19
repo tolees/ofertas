@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414FEUlgOUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076NMGN2H-es'
+slug: 'B076NMGN2H-es DIXIUZA 72Pcs Spoke Skins Cubierta del Radio de Rueda de Motocicleta para Motocross Bicis de la Suciedad'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

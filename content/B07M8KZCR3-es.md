@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CyOPr2CyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8KZCR3-es'
+slug: 'B07M8KZCR3-es Lee Luke Corduroy Pantalones  Azul  Dark Marine 21   31W / 32L para Hombre'
 actualPrice: 23.17 EUR
 currency: EUR
 price: 23.17

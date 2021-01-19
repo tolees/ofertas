@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31g+xtmI9iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFNDDD7-es'
+slug: 'B07YFNDDD7-es GX·Diffueser Mini Generador de Ozono portátil purificador de Aire USB recargeable esterilizador de ozono para Frigorífico'
 actualPrice: 33.58 EUR
 currency: EUR
 price: 33.58

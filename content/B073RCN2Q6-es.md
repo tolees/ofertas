@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y0ZAZvvTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RCN2Q6-es'
+slug: 'B073RCN2Q6-es SVUK brochas de pintura 12-20170704'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

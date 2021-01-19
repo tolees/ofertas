@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41brh4mIJSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYL546B-es'
+slug: 'B07RYL546B-es New Balance 500  Zapatillas para Mujer  Rosa  Pink Hhe   37.5 EU'
 actualPrice: 49.49 EUR
 currency: EUR
 price: 49.49

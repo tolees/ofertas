@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dUlZLIfZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015KHW1OA-es'
+slug: 'B015KHW1OA-es Nike Air Max Command Leather - Zapatillas unisex  color blanco / negro / gris  talla 38'
 actualPrice: 90.65 EUR
 currency: EUR
 price: 90.65

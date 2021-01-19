@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mHidCUoWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076BNQ2DX-es'
+slug: 'B076BNQ2DX-es Protector de pantalla de vidrio templado para iPhone 7 y 8  de Vibe - Irrompible  antigolpes  compatible con 3D Touch  grosor de 0 26 mm'
 actualPrice: 3.82 EUR
 currency: EUR
 price: 3.82

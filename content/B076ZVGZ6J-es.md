@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CErDPmwyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076ZVGZ6J-es'
+slug: 'B076ZVGZ6J-es Smartwares FEX-15112 Extintor de Polvo seco  capacidad 1 kg  resistencia al fuego ABC  8A  34B  C   incluye soporte para pared  certificado BSI'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

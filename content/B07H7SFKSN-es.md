@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412h1jfmVeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H7SFKSN-es'
+slug: 'B07H7SFKSN-es Nike Wmns Downshifter 9  Zapatillas de Running para Mujer  Gris  Cool Grey/Mtlc Silver/Wolf Grey/Black/Pure Platinum/White 004   36 EU'
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

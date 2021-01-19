@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416bfewKWCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000MWTCQY-es'
+slug: 'B000MWTCQY-es Leifheit 55111 - Mopa de Secado Profesional'
 actualPrice: 13.1 EUR
 currency: EUR
 price: 13.1

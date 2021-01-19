@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dJx+zr6NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771GLCZL-es'
+slug: 'B0771GLCZL-es Eastpak Tranverz S Maleta  51 cm  42 L  Gris  Black Denim '
 actualPrice: 70.2 EUR
 currency: EUR
 price: 70.2

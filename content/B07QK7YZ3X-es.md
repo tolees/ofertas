@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414yPzrgrOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QK7YZ3X-es'
+slug: 'B07QK7YZ3X-es KATELUO 250Pcs Natural Palitos de madera Popsicle  Gran para manualidades caseras y DIY de postre Making.'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

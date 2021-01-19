@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418ELjE7XXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9NNPY7-es'
+slug: 'B07V9NNPY7-es Hackett London Parachute Belt Cinturón  Azul  513sky 513   115  Talla del fabricante: Medium  para Hombre'
 actualPrice: 40.5 EUR
 currency: EUR
 price: 40.5

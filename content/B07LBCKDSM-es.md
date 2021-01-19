@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uYTv7Ft-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBCKDSM-es'
+slug: 'B07LBCKDSM-es Kappa Modus II  Zapatillas Unisex Adulto  White/Black 1011  46 EU'
 actualPrice: 24.16 EUR
 currency: EUR
 price: 24.16

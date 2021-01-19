@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412lnaEpkdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EB1SWHW-es'
+slug: 'B00EB1SWHW-es Dolce Gusto Krups KP1208 - Cafetera de cápsulas Mini Me  15 bares de presión  color negro y gris'
 actualPrice: 54.45 EUR
 currency: EUR
 price: 54.45

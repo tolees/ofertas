@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iZqfeV48L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBLZS4D-es'
+slug: 'B07LBLZS4D-es Rieker B5124-14  Zapatillas para Hombre  Azul  Navy/Pazifik/Mogano 14   40 EU'
 actualPrice: 18.43 EUR
 currency: EUR
 price: 18.43

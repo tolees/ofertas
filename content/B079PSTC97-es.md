@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SEb9R1YUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PSTC97-es'
+slug: 'B079PSTC97-es Adidas by Nixon Reloj Mujer de Digital con Correa en Acero Inoxidable Z01-513-00'
 actualPrice: 81.0 EUR
 currency: EUR
 price: 81.0

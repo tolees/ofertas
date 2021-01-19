@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HVm3pGYkL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GWZI3BA-es'
+slug: 'B00GWZI3BA-es Orlane B21 Extraordinaire Youth Reset 30 ml'
 actualPrice: 91.05 EUR
 currency: EUR
 price: 91.05

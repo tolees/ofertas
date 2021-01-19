@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BEkCq3-mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H14D7WP-es'
+slug: 'B07H14D7WP-es L Oréal Paris - Elvive Acondicionador Nutritivo Aceite Extraordinario para Pelo Seco  300 ml'
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

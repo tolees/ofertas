@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rilFuOeBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ59V6G-es'
+slug: 'B07TZ59V6G-es Women s Secret Trendy Tapestry TT Flower Burg Nd FR Camisón  Rojo  Gama Rojo 69   Medium  Tamaño del Fabricante: M  para Mujer'
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

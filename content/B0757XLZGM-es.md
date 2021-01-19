@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513G6hzZVDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757XLZGM-es'
+slug: 'B0757XLZGM-es Edge Entertainment-51st State  Set Completo  EEPG5101 '
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

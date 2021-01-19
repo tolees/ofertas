@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bIqtbw5DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GWRH64-es'
+slug: 'B078GWRH64-es Eve Button - Mando para la casa conectada  con tecnología HomeKit de Apple  Bluetooth Low Energy  negro'
 actualPrice: 30.2 EUR
 currency: EUR
 price: 30.2

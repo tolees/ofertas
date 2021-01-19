@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JSDSSugvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBQXWJ9-es'
+slug: 'B07BBQXWJ9-es RioRiva En caja de regalo  los calcetines para hombre con pedrería en 90% algodón  bonito diseño en la pantorrilla  estilo colorido'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

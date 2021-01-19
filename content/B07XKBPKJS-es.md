@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417CGvDgboL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKBPKJS-es'
+slug: 'B07XKBPKJS-es Skechers Go Run Fast Valor  Zapatillas para Niños  Rojo  Red Textile/Red Synthetic/White Trim Red   30 EU'
 actualPrice: 26.22 EUR
 currency: EUR
 price: 26.22

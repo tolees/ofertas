@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MWXJqacqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBFZ1SF-es'
+slug: 'B07TBFZ1SF-es Quiksilver Mission-Chaqueta para Nieve para Hombre  Castle Rock Splash  L'
 actualPrice: 74.02 EUR
 currency: EUR
 price: 74.02

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412XgWV2CCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HPZR8DZ-es'
+slug: 'B07HPZR8DZ-es Funko Pop: Fortnite: Raptor  multicolor  36823    color/modelo surtido'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qkuaKLu8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVTPTQW-es'
+slug: 'B07TVTPTQW-es Women s Secret Vintage Mv DS Mickey Stripes Nd Camisón  Gris  Gama Grises 42   Medium  Tamaño del Fabricante: M  para Mujer'
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S0RDv0s4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YRBW1QY-es'
+slug: 'B00YRBW1QY-es Trixie Manta Mimi 70 × 50 cm  Gris  S/M'
 actualPrice: 7.46 EUR
 currency: EUR
 price: 7.46

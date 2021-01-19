@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oI2DJNEEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHQJV15-es'
+slug: 'B07DHQJV15-es Limxems Cargador Inalámbrico 10W Qi Wireless Carga Rápida Quick Charger para iPhone XS/XS MAX/XR/X / 8 / 8Plus Samsung Galaxy Note 9 /S9 /S8 /S8 Plus /S7 /S8 /S9 / Edge /S6 / Note 8 - Blanco'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

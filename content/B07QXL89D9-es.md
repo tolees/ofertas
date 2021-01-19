@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31n-ISMZ1RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXL89D9-es'
+slug: 'B07QXL89D9-es Under Armour Speed Stride Tight Legging  Mujer  Negro  XL'
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

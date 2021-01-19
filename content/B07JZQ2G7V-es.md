@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AVdt+cwmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZQ2G7V-es'
+slug: 'B07JZQ2G7V-es Adidas Altasport CF K  Zapatillas de Deporte Unisex Niños  Negro  Negro 000    35 EU'
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

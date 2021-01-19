@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QcxCoRFjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCFHKH4-es'
+slug: 'B07QCFHKH4-es Lacoste Lerond 119  Zapatillas para Hombre  Azul  Navy 737cma00457a2   47 EU'
 actualPrice: 69.21 EUR
 currency: EUR
 price: 69.21

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Vbv6qRHFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772P8HCP-es'
+slug: 'B0772P8HCP-es SUBITO Knit'
 actualPrice: 29 EUR
 currency: EUR
 price: 29

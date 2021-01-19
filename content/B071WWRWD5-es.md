@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+HU4+6BhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WWRWD5-es'
+slug: 'B071WWRWD5-es Fanola  Mascarilla hidratante y rejuvenecedora para la cara - 350 ml.'
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

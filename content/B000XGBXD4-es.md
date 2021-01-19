@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a9bavP74L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000XGBXD4-es'
+slug: 'B000XGBXD4-es WMF 07.9265.9990 Perfect Olla Rápida  Acero Inoxidable  Compatible con inducción  Diámetro 22 cm  2 piezas  4.5 y 3 litros'
 actualPrice: 165.99 EUR
 currency: EUR
 price: 165.99

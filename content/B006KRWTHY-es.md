@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AWjaYicBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006KRWTHY-es'
+slug: 'B006KRWTHY-es Hugo Boss 28666 - Desodorante'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

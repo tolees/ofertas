@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411oP+3Il5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085T8JN9G-es'
+slug: 'B085T8JN9G-es Mascarilla Antipolvo para Adultos Anti PM 2.5 Protección contra el Humo de Polen Máscara bucal Lavable antiniebla y Bucle con 10 filtros'
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

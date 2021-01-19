@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Cq4DwWQxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTVBD13-es'
+slug: 'B07CTVBD13-es JACK & JONES Jfwbyson Mesh Mix STS  Zapatillas para Hombre  Azul  Navy Blazer Navy Blazer   40 EU'
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

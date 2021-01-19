@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Jwm4FncvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6GDJHL-es'
+slug: 'B07M6GDJHL-es Rimmel London Provocalips  Barra de labioss  Tono 780 Shore Thing  - 1 unidad'
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

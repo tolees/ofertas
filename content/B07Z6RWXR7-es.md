@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418kwDcBQXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6RWXR7-es'
+slug: 'B07Z6RWXR7-es B6 Dotted Journal de Scribbles That Matter - Crea tu Bujo perfecto con papel ultragrueso de 160 g / m2 sin sangrado - Cuaderno de tapa dura - Plumas estilográficas Papel amigable - Tostado'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

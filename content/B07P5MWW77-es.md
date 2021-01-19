@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DHkgk2MjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5MWW77-es'
+slug: 'B07P5MWW77-es American Tourister Soundbox - Spinner Large Expandable Maleta  77 cm  110 Liters  Rojo  Coral Red '
 actualPrice: 121.92 EUR
 currency: EUR
 price: 121.92

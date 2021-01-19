@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TWKnbkJ6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6BKTLL-es'
+slug: 'B07Z6BKTLL-es Piccalilly Body de manga larga para bebé  suave  algodón orgánico  estampado de búho verde Verde verde 2 mes'
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

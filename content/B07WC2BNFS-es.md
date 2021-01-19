@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NZEfzp6wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC2BNFS-es'
+slug: 'B07WC2BNFS-es Powerbeats Pro Auriculares Totalmente Inalámbricos- Almizcle'
 actualPrice: 164.46 EUR
 currency: EUR
 price: 164.46

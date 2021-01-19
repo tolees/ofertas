@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513bpX2ZFtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YVKDZLF-es'
+slug: 'B07YVKDZLF-es Ghost in the Shell  BD + BD Extras  [Blu-ray]'
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

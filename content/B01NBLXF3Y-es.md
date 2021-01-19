@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MLDEsYmxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBLXF3Y-es'
+slug: 'B01NBLXF3Y-es Té Verde Matcha Orgánico Ceremonial En Polvo. Biológico Japonés De 1 Grado. Matcha Bio Grado Ceremonia. Ecológico Producido En Japón  Uji  Kyoto. Para Beber  En a Cocina Y Con Latte. Lata De 30g'
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

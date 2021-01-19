@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VE3Cz6o2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTPSCW3-es'
+slug: 'B06XTPSCW3-es Fintie Funda para iPad 2018/2017 - Trasera Transparente Carcasa Ligera con Función de Soporte y Auto-Reposo/Activación para iPad 5.ª / 6.ª Generación 9 7 Pulgadas  Oro Rosa'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

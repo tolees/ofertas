@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51L9+mSQqsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PXBQPF-es'
+slug: 'B077PXBQPF-es Pala NOX Attraction A.4'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

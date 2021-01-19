@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mrUSEAS7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C4NLLN2-es'
+slug: 'B08C4NLLN2-es Harxin Baby Travel Potty  Asiento de Inodoro Portátil para Bebés  Niños Pequeños  Viajes al Exterior o Entrenamiento para ir al Baño  con Bolsa de Almacenamiento  20 Bolsas de Plástico  Bebé Orinales '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

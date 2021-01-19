@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q5YHJ+P3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4F8FTD-es'
+slug: 'B07Q4F8FTD-es Dockers by Gerli 43fa307  Botas Militar para Mujer  Beige  Taupe/Braun 433   41 EU'
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

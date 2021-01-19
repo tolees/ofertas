@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315aUoKqG3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDYCJ7G-es'
+slug: 'B07GDYCJ7G-es Festina Reloj Analógico para Mujer de Cuarzo con Correa en Cuero F20409/1'
 actualPrice: 59.85 EUR
 currency: EUR
 price: 59.85

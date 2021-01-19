@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31N4gQHMb-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVKYZXC-es'
+slug: 'B07MVKYZXC-es Napapijri Eisberg SS Polo  Blanco  Bright White 002   Small para Hombre'
 actualPrice: 23.21 EUR
 currency: EUR
 price: 23.21

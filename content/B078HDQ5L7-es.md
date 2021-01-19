@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XOHCySMDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HDQ5L7-es'
+slug: 'B078HDQ5L7-es NAME IT Nkmhonk UNB Swe Long Shorts Noos Pantalones Cortos  Negro  Black Black   122 para Niños'
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

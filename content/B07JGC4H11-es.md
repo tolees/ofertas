@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PIyy08aHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGC4H11-es'
+slug: 'B07JGC4H11-es Lacoste HH9553 Pantalones  Azul  Marine   W28  Talla del Fabricante: 38/34  para Hombre'
 actualPrice: 52.54 EUR
 currency: EUR
 price: 52.54

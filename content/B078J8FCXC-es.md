@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Av+bctjpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078J8FCXC-es'
+slug: 'B078J8FCXC-es MOISO Plantillas ortopédicas con soporte de arco  cojín de talón y masaje de gel en el antepié para aliviar el dolor de pie y la fascitis plantar'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

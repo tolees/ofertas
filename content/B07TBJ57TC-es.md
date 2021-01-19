@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412gDQle9uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBJ57TC-es'
+slug: 'B07TBJ57TC-es Adidas Hoops 2.0 CMF C  Zapatillas de Baloncesto Unisex niño  Multicolor  Azuosc/Azul/Gritre 000   30 EU'
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

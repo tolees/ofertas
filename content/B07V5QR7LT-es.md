@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KW0Gq7afL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QR7LT-es'
+slug: 'B07V5QR7LT-es Tommy Hilfiger Lightweight Signature Colour-Blocked Trn  Zapatillas Deportivos para Hombre  Azul  Desert Sky Dw5   46 EU'
 actualPrice: 28.78 EUR
 currency: EUR
 price: 28.78

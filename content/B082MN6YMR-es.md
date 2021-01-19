@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MQpSTnwhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MN6YMR-es'
+slug: 'B082MN6YMR-es Bewater™ Corrector de Postura Espalda - Nueva versión 3.0 - Espalda Recta Mujer Hombre y Niños – Enderezador de Espalda Transpirable - Corrector Postural Ajustable'
 actualPrice: 15.94 EUR
 currency: EUR
 price: 15.94

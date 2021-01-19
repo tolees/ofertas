@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P9p0hHf7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRG3GX7-es'
+slug: 'B07NRG3GX7-es B Blesiya Sillón Sofá Infantil Personalizado de Espuma para Niños 0-5 Años  Decoración de Hogar - Oso Azul Cielo'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

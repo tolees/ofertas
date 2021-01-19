@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qzz7UtTeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078KFC6ZT-es'
+slug: 'B078KFC6ZT-es 3D Ilusión óptica Lámpara LED Luz de noche Deco LED Lámpara 7 colores de control remoto con Acrílico Plano & ABS Base & Cargador usb  Star Wars '
 actualPrice: 11.44 EUR
 currency: EUR
 price: 11.44

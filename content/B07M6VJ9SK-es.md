@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512+ThaayFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6VJ9SK-es'
+slug: 'B07M6VJ9SK-es flintronic Cinturón Cuero Hombre  Cinturones Piel con Hebilla Automática  Sencillo y Clásico Perfecto Regalo'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

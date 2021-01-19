@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nN9U7PP8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B004DIZH5I-es'
+slug: 'B004DIZH5I-es Widmann 02723 - Disfraz de vaquero para niño  talla L '
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

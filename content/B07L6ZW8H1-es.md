@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZqcUqBz5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6ZW8H1-es'
+slug: 'B07L6ZW8H1-es FitFlop Anni Flex  Zapatillas sin Cordones para Mujer  Negro  Black 001   42 EU'
 actualPrice: 29.3 EUR
 currency: EUR
 price: 29.3

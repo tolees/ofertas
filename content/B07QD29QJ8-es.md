@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41luFbWI0JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD29QJ8-es'
+slug: 'B07QD29QJ8-es MTNG Attitude 69867  Zapatillas para Mujer  Blanco  Zebro Blanco/Plata C47433   36 EU'
 actualPrice: 28.12 EUR
 currency: EUR
 price: 28.12

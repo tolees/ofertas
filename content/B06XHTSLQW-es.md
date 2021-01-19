@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UQe3g6RjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHTSLQW-es'
+slug: 'B06XHTSLQW-es Shock Absorber Ultimate Run Bra  Sujetador Deportivo para Mujer  Multicolor  Rosa/Morado   95B'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

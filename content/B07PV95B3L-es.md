@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ppgY6S-wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PV95B3L-es'
+slug: 'B07PV95B3L-es SAWAKE Ventilador Clip Portátil  Mini Ventilador de Escritorio USB Eléctrico Silencioso con 3 Velocidades Ajustables  Giratorio 360 °  Batería Recargable 2600mAh para Cochecito  Automóvil  etc.'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

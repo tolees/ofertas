@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k27Kg4CwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJLGXV9-es'
+slug: 'B07SJLGXV9-es La crema blanqueadora para las axilas  nutre  repara y restaura las cremas corporales de la piel para las rodillas de los axilas Codos sensibles y áreas privadas'
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

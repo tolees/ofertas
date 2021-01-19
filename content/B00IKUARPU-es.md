@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AM-sPQ6tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IKUARPU-es'
+slug: 'B00IKUARPU-es Smiffys Aloha! Traje - destacan Trajes Adultas - Disfraz - Medium - 48-50'
 actualPrice: 26.46 EUR
 currency: EUR
 price: 26.46

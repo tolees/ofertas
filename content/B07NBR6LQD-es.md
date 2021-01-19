@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pV9j0ouuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBR6LQD-es'
+slug: 'B07NBR6LQD-es ASICS Chaussures Gel Quantum 180 4'
 actualPrice: 117.6 EUR
 currency: EUR
 price: 117.6

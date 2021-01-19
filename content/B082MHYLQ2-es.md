@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BdQttAC2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MHYLQ2-es'
+slug: 'B082MHYLQ2-es RATEL Ventilador de Escritorio silencioso de 8 Pulgadas  Ventilador de enfriamiento Recargable USB  Viajes de Oficina en el hogar al Aire Libre  Ajustable en 3 velocidades  rotación de 60 °'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31t+cTwr8QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCBT13J-es'
+slug: 'B07NCBT13J-es Pepe Jeans MC Queen Short para Hombre  Verde  Dark Olive 768  W32  Talla del fabricante: 32 '
 actualPrice: 20.14 EUR
 currency: EUR
 price: 20.14

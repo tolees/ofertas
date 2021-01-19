@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516CbSscThL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077V6SDYY-es'
+slug: 'B077V6SDYY-es Navaja de Afeitar de Barbero y Peine Plantilla Guía de Sapiens - Kit de Afeitado y Cuidado de Contorno de Barba Hombre con 10 Cuchillas Derby  o sea 20 Hojas Simples '
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

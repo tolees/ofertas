@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318VZVDsdAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPXS1QJ-es'
+slug: 'B07SPXS1QJ-es Lacoste Chaymon 120 4 CMA  Zapatillas para Hombre  Azul Marino  42 EU'
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

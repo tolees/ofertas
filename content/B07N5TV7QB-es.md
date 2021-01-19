@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415tPim87pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5TV7QB-es'
+slug: 'B07N5TV7QB-es Pop! Vinilo: NSYNC: Chris Kirkpatrick'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

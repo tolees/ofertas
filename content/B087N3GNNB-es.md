@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MYfzCMnGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087N3GNNB-es'
+slug: 'B087N3GNNB-es P Prettyia Cámara De De Juegos A Prueba De Agua Al Aire Libre Cámara De Video HD Seguridad'
 actualPrice: 26.65 EUR
 currency: EUR
 price: 26.65

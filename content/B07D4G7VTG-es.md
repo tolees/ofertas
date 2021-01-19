@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kQrN-4fCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4G7VTG-es'
+slug: 'B07D4G7VTG-es Linterna LED  Thorfire Q8 Linterna Súper Brillante  BLF 5000 Lumen UI Configurable  4 LED Linterna Táctica Profesional IPX8 Ultra Brillante y Compacta  Batería de 4 Botones 18650  No Incluida  '
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

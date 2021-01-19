@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QFs3w27lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ53Y2V-es'
+slug: 'B07TZ53Y2V-es Women s Secret Bralettes 2 Sbhtop Sujetador de triángulo  Multicolor  Gama Rosas/Morados 72   90  Tamaño del Fabricante: 90B  para Mujer'
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

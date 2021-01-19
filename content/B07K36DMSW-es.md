@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ckw8fd44L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K36DMSW-es'
+slug: 'B07K36DMSW-es adidas Falcon  Zapatillas de Running para Mujer  Rosa Magrea Ftwbla Gritre 000  36 2/3 EU'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rpdqvvcoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFZSPWQ-es'
+slug: 'B07DFZSPWQ-es New Balance 220  Zapatillas Unisex Niños  Rosa  Pink/Pink Blue   28 EU'
 actualPrice: 22.74 EUR
 currency: EUR
 price: 22.74

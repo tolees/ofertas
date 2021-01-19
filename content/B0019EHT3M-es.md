@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51u-Ocnj8wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0019EHT3M-es'
+slug: 'B0019EHT3M-es BRITA On Tap Recambio de Filtro  Carbón Activo  Blanco  2 Unidades'
 actualPrice: 32.6 EUR
 currency: EUR
 price: 32.6

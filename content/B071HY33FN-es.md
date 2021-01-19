@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T36ByMnjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HY33FN-es'
+slug: 'B071HY33FN-es Salomon X Ultra 3 GTX W  Zapatillas de Senderismo para Mujer  Multicolor  Magnet/Black/Mineral Red 000   36 2/3 EU'
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

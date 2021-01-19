@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d8xeLhCXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SKTA9O0-es'
+slug: 'B00SKTA9O0-es Smartshake SmartShake Signature Series Phil Heath Standard - 800 ml'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

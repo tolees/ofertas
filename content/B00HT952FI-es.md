@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51V-B7EuxhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HT952FI-es'
+slug: 'B00HT952FI-es Einhell TH-US 240 -  Esmeriladora combinada  4 patas de goma antideslizantes  230 V  240 W  ref. 4466150 '
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

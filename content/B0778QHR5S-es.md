@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zwwx9+3nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0778QHR5S-es'
+slug: 'B0778QHR5S-es Vitamina C 1200 mg y Zinc 40 mg - 120 Cápsulas Vegetarianas - Mantener un Sistema Inmunológico Saludable - 2 Cápsulas al día - Hecho en UK por Nutravita'
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

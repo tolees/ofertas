@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dhJDFEDlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PQLHM8Q-es'
+slug: 'B00PQLHM8Q-es Pentrilo - Cubeta plástico  economica + rejilla plástico 16 Litros'
 actualPrice: 9.35 EUR
 currency: EUR
 price: 9.35

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hH+ug+6+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PQ7TRJ-es'
+slug: 'B079PQ7TRJ-es Funko Pop!- 26464 Marvel: Avengers Infinity War Figura de Vinilo  Multicolor'
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

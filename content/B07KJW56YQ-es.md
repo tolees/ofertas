@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QNibP9pAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJW56YQ-es'
+slug: 'B07KJW56YQ-es LoveOlvidoE Soporte de plástico para Almacenamiento de batería para 3 PCS 18650 3.7 V con Cables de conexión Baterías universales Caja de protección'
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

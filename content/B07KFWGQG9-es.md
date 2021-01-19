@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V-GdHJt8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFWGQG9-es'
+slug: 'B07KFWGQG9-es PUMA Speed SUTAMINA  Zapatillas de Running Unisex Adulto  Black-Castlerock-Yellow Alert-Nrgy Red  40 EU'
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+yBlFltFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ARRKI5I-es'
+slug: 'B00ARRKI5I-es Rexel Pizarra magnética individual  360x360m  Diseño cuadrado  Verde  1903773'
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

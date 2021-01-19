@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Aru2cUcJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007N1BIJ6-es'
+slug: 'B007N1BIJ6-es K&N 33-2474 Filtro de Aire Coche  Lavable y Reutilizable'
 actualPrice: 101.38 EUR
 currency: EUR
 price: 101.38

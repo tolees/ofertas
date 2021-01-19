@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EGQMb+aSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYD27NH-es'
+slug: 'B07DYD27NH-es Trust Gaming GXT 715 - Alfombrilla para Silla Gaming  Color Negro'
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

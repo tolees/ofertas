@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZZ+dzObGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JFXR9HA-es'
+slug: 'B00JFXR9HA-es Pendrive 512MB 10 Piezas Unidad Flash USB - Giratorio Pequeña Capacidad 512 MB Pen Drive - Portátil Azul Memoria USB Regalo de Empresa con 10 Unidades Cordones para Trabajos Fotográficos by FEBNISCTE'
 actualPrice: 24.56 EUR
 currency: EUR
 price: 24.56

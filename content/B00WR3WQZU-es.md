@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418WOzjHthL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WR3WQZU-es'
+slug: 'B00WR3WQZU-es Skechers Equalizer Double Play  Men s Fitness Shoes Blue  Navy  8 UK 42 EU'
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

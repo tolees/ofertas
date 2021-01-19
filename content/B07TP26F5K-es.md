@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SldPy9A7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TP26F5K-es'
+slug: 'B07TP26F5K-es VGEBY1 Pelota de Tenis Entrenador de Espalda  Pelota de Entrenamiento de Tenis Práctica de Bolas Base de Espalda con Cuerda elástica de Goma para la práctica de una Sola Persona'
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

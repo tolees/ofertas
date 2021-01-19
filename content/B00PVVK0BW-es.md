@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IZ2sfr5lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PVVK0BW-es'
+slug: 'B00PVVK0BW-es Calvin Klein Underwear Perfectly FIT-Memory Touch Push-UP Sujetador  Black 001  90B para Mujer'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

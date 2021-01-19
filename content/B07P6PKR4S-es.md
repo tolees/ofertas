@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511x5O8wk8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6PKR4S-es'
+slug: 'B07P6PKR4S-es Bosch Professional 35 unidades para taladrar y atornillar  Pick and Click  accesorios para atornilladores de impacto  con puntas  brocas universales y portapuntas universal '
 actualPrice: 27.59 EUR
 currency: EUR
 price: 27.59

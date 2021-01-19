@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31A4NYf0Z0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3CKPTV-es'
+slug: 'B07L3CKPTV-es Tommy Hilfiger Lightweight Leather Sneaker  Zapatillas para Mujer  Rojo  RWB 020   39 EU'
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AJXGoNOLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B7MY5MO-es'
+slug: 'B00B7MY5MO-es Seiko Reloj de Cuarzo para Hombre con Correa de Acero Inoxidable – SSC147P1'
 actualPrice: 227.24 EUR
 currency: EUR
 price: 227.24

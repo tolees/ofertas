@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513aQAIFYDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000T7KP9U-es'
+slug: 'B000T7KP9U-es Finder serie 40 - Rele mini reticulado 5mm conmutado 16a 24vdc'
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

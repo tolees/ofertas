@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LvwZh2Y-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FLT8FGL-es'
+slug: 'B07FLT8FGL-es Wrangler Texas Contrast Hombre Jeans  Azul  Blue Black 002   44W / 30L'
 actualPrice: 52.91 EUR
 currency: EUR
 price: 52.91

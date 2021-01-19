@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lvanzfn9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXC927T-es'
+slug: 'B07BXC927T-es Plumas de Ganso  250 pcs Blanco Natural Plumas de Gallo Manualidades Decoración para Disfraces Hats  Hogar Bricolaje  Ropa Casa Fiesta  accesorio de disfraz '
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

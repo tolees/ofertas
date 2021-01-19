@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LXGVFKlVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XH3F2J2-es'
+slug: 'B06XH3F2J2-es Ninja CF060EU Cafetera Auto-IQ Brewer con Jarra de Vidrio  Silver'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

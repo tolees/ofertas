@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41aaoZ2J%2BtL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I54K3AO-es'
+slug: 'B01I54K3AO-es Gel Pad Juanete manga  corrector de juanetes pantalla para juanetes almohadillas  juanete alivio  Hallux Valgus  Toe Straighteners'
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

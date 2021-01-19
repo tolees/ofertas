@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NI8eTyk3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDWH2W1-es'
+slug: 'B07NDWH2W1-es Samsung Galaxy S10 - Smartphone de 6.1”  Dual SIM  128 GB  Verde  Prism Green '
 actualPrice: 648.0 EUR
 currency: EUR
 price: 648.0

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41z%2B2KKgjKL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBZW7MD-es'
+slug: 'B07DBZW7MD-es Puma RS-150 Nylon Wn s  Zapatillas para Mujer  Rosa  Coral Cloud White   38 EU'
 actualPrice: 29.92 EUR
 currency: EUR
 price: 29.92

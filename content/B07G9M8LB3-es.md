@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yYU0T6MSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9M8LB3-es'
+slug: 'B07G9M8LB3-es Craft Sweatshirt Femme Emotion Crew'
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

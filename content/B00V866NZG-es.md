@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UJ6NdJK3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V866NZG-es'
+slug: 'B00V866NZG-es Arregui TB-021-A Taburete Plegable de 21 cm de altura  azul  210X250X200'
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zTClZC8DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMD8Q2B-es'
+slug: 'B07FMD8Q2B-es IPOTCH Cables de Gestión Clips de Almacenamiento de Cables  4 Orificios  5 Colores Opcionales - marrón'
 actualPrice: 3.12 EUR
 currency: EUR
 price: 3.12

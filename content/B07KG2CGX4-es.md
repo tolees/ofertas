@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-YNrLa--L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG2CGX4-es'
+slug: 'B07KG2CGX4-es PUMA Smash V2  Zapatillas Unisex Adulto  Gris  Castlerock Black White   43 EU'
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

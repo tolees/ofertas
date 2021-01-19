@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yiueaJQ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825PSWMG-es'
+slug: 'B0825PSWMG-es Roxy Feel Happy 35l - Petate Deportivo Mediano Para Mujer Petate Deportivo Mediano  Mujer  Terra Cotta  1SZ'
 actualPrice: 19.7 EUR
 currency: EUR
 price: 19.7

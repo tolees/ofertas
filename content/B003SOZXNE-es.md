@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51mpkfDqRjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B003SOZXNE-es'
+slug: 'B003SOZXNE-es Stagg SGC6 Instrumento Cable  6m  de calidad Teléfono Plug-Phone  Derecho - Estándar  Negro'
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

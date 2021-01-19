@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41E0sTYl-5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAHHJZ2-es'
+slug: 'B01NAHHJZ2-es find. 17AMZ025 camisetas mujer fiesta   Rosa  Old Rose   42  Talla del fabricante: Large '
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

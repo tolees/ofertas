@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BU3NSfTeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813H9XMY-es'
+slug: 'B0813H9XMY-es SHUIBIAN 5D DIY Diamante Pintura Diamante Completo Tigre  Pintura a Mano Hecha a Mano Pintura Digital Decoración Del Hogar Kit de Punto de Cruz'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

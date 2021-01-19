@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412NhYdnKoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DTXV3J5-es'
+slug: 'B08DTXV3J5-es Auriculares inalámbricos Bluetooth 5.0  Auriculares inalámbricos idnternos  IPX7 a Prueba de Agua  reducción de Ruido estéreo 3D  Compatible con iPhone/Huawei/Samsung /（2.ª generación'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

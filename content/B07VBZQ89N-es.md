@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314xrI-cnVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBZQ89N-es'
+slug: 'B07VBZQ89N-es Jack & Jones Jjiace Jjworker WW Pantalones  Negro  Black Black   W33/L30  Talla del Fabricante: 33  para Hombre'
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

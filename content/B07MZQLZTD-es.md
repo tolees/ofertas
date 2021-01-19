@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5197lMQ7YsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQLZTD-es'
+slug: 'B07MZQLZTD-es LATEC Pulsera Actividad [Última Versión]  Pulsera de Actividad Inteligente Pantalla Color Reloj con Pulsómetro Impermeable IP68 Podómetroómetro-Pantalla Deslizante'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

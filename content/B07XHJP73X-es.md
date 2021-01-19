@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ySF0bizlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHJP73X-es'
+slug: 'B07XHJP73X-es Smatree Funda para portátil Funda para portátil de 14 Pulgadas Maletín Maletín Compatible para HP 14-cm0008ns/ HP Pavilion x360 14-cd0010ns/ HP 14-cf0007ns/ ASUS VivoBook E14 E402WA-GA007TS'
 actualPrice: 18.97 EUR
 currency: EUR
 price: 18.97

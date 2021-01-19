@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wxt%2B6UdRL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B016APUVBG-es'
+slug: 'B016APUVBG-es POP! Vinilo - Disney: Toy Story Buzz'
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

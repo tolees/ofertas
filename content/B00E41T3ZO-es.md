@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CK8i98T-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E41T3ZO-es'
+slug: 'B00E41T3ZO-es CAMPER Pelotas Ariel - Oxford Hombre  Marrone  dark brown   39'
 actualPrice: 112.0 EUR
 currency: EUR
 price: 112.0

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41olp0d2w0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFWMP5P-es'
+slug: 'B07FFWMP5P-es Tropicaleu Grifo de Cocina 360° Tire Moderno Fregadero Extraíble Monomando Acero Inoxidable de Agua Fría y Caliente 2 Funciones'
 actualPrice: 35.98 EUR
 currency: EUR
 price: 35.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XGyxGyN0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLGL1NL-es'
+slug: 'B08BLGL1NL-es BEUSS Matemática Tech Light Art Botella de Agua Frasco de Vacío Aislamiento de Acero Inoxidable Termo de Embalaje de Cuero a Prueba de Fugas Termica Botella 500 ml '
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

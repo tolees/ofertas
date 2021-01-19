@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31W+vfI-r1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN7FD1N-es'
+slug: 'B07CN7FD1N-es ibohr Mini Ventilador silencioso Ventilador eléctrico de Mano portátil Ventilador de Mano con 7 Cuchillas  3 velocidades  Carga USB  Color Blanco'
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419GyxU7SrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J53HRXH-es'
+slug: 'B07J53HRXH-es Asics Gel-Odyssey  Zapatillas de Cross para Hombre  Negro  Black/Black 001   41.5 EU'
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

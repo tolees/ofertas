@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NvbUUe52L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYKQTLT-es'
+slug: 'B07DYKQTLT-es Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Mujer  Negro  Black   42.5 EU'
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

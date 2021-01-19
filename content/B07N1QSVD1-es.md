@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415ZEj+MEwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1QSVD1-es'
+slug: 'B07N1QSVD1-es Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Azul  Surf The Webreg/Large Print   Medium para Hombre'
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

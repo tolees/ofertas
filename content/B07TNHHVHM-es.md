@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61VZ9RTeQgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNHHVHM-es'
+slug: 'B07TNHHVHM-es WIN.MAX Diana Electrónica  Diana Dardos  Las diana se entrega con 6 dardos y 40 puntas de repuesto para comenzar a jugar inmediatamente  Ideal para reuniones familiares o de amigos'
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

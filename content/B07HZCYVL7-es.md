@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+XQNRULCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HZCYVL7-es'
+slug: 'B07HZCYVL7-es Timex Reloj de Pulsera TW2R85500'
 actualPrice: 39.06 EUR
 currency: EUR
 price: 39.06

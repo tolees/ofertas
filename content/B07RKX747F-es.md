@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UEcIm6I4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKX747F-es'
+slug: 'B07RKX747F-es Denon AVR-S650H 5.2 - Receptor AV de Red  4 K  Wi-Fi  Bluetooth  AirPlay HEOS   Color Negro'
 actualPrice: 355.99 EUR
 currency: EUR
 price: 355.99

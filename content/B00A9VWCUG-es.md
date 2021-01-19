@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31feToCP2PL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A9VWCUG-es'
+slug: 'B00A9VWCUG-es Philips myLiving Star - Barra de 4 focos  iluminación interior  LED integrado y garantía de 5 años  color blanco'
 actualPrice: 76.34 EUR
 currency: EUR
 price: 76.34

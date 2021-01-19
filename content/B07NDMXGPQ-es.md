@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SvJh3wD3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMXGPQ-es'
+slug: 'B07NDMXGPQ-es G-STAR RAW Lanc Slim Tapered Pantalones de Deporte  Negro  Dk Black B409/6484   44  Talla del Fabricante: Medium  para Hombre'
 actualPrice: 48.58 EUR
 currency: EUR
 price: 48.58

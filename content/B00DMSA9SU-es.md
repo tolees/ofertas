@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-w6CoAp3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DMSA9SU-es'
+slug: 'B00DMSA9SU-es Trixie 13171 - Rejilla Seguridad para Coche  Ancho: 96–163 cm  Altura: 34–48 cm  Plata/Negro'
 actualPrice: 56.85 EUR
 currency: EUR
 price: 56.85

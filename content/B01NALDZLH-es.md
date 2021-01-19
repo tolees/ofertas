@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BXi2PBubL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NALDZLH-es'
+slug: 'B01NALDZLH-es Vans Classic Slip-on Platform  Zapatillas sin Cordones para Mujer  Negro  Black Blk   41 EU'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

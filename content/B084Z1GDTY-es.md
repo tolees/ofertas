@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Fc4l1fMiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084Z1GDTY-es'
+slug: 'B084Z1GDTY-es Creative Fruit Design Baby Teether Teeth Nursing Toy BPA Free Silicone Soft Mordedor Safe Chew Toy Baby Teeth Chupete - Rojo'
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

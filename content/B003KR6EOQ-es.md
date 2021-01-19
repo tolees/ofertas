@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CgZyKnTuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003KR6EOQ-es'
+slug: 'B003KR6EOQ-es Kyocera Tk-160 Tóner color negro 1T02LY0NL0 para Ecosys ECOSYS P2035d  FS-1120D'
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

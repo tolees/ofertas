@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rp9ywIOqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GL6CLTT-es'
+slug: 'B07GL6CLTT-es HyperX Predator HX432C16PB3AK2/16 Memoria 3200MHz DDR4 CL16 DIMM XMP 16GB  2x8GB  RGB'
 actualPrice: 97.63 EUR
 currency: EUR
 price: 97.63

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pXd7RmuwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJP5L1B-es'
+slug: 'B07WJP5L1B-es Nox Hummer Fusion S - NXHUMMERFSNS - Caja PC  ARGB  USB 3.0  Color Negro'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

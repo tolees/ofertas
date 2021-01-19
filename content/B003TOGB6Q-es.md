@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jC3EOxHjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003TOGB6Q-es'
+slug: 'B003TOGB6Q-es BRA Efficient - Cacerola alta con tapa de cristal y asas de silicona extraíbles  28 cm  apta para todo tipo de cocinas incluida inducción y horno'
 actualPrice: 36.68 EUR
 currency: EUR
 price: 36.68

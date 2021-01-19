@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31V7QNxyRnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9TBFQJ-es'
+slug: 'B07V9TBFQJ-es CARPISA ® Almohada de Viaje - Go'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

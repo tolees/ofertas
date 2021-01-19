@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31plUKEUwWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBVR5NV-es'
+slug: 'B07SBVR5NV-es PUMA JARO  Zapatillas para Correr de Carretera para Hombre  Negro Black White  45 EU'
 actualPrice: 36.63 EUR
 currency: EUR
 price: 36.63

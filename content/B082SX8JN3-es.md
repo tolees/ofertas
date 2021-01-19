@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4196vYzDroL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SX8JN3-es'
+slug: 'B082SX8JN3-es Ratón inalámbrico de 2.4GHz Ratón Inteligente para Juegos portátil Ratón óptico para Juegos Ratón Receptor USB para PC Computadora portátil-Rojo'
 actualPrice: 1.58 EUR
 currency: EUR
 price: 1.58

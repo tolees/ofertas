@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hg3xgcezL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRZ9QBK-es'
+slug: 'B07PRZ9QBK-es New Balance 373  Zapatillas para Hombre  Amarillo  Yellow Yellow   42.5 EU'
 actualPrice: 40 EUR
 currency: EUR
 price: 40

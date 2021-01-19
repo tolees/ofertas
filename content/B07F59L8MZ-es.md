@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417w98EHvUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F59L8MZ-es'
+slug: 'B07F59L8MZ-es alambre manualidades 8pcs ZoomSky 0.4mm para hacer bisutería de número de 26 alambre aluminio de joyería manejable fácil con regalo de alicate pequeña'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

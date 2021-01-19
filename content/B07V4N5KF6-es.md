@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MSj22vj9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4N5KF6-es'
+slug: 'B07V4N5KF6-es Tommy Hilfiger Corporate Flatform Sneaker  Zapatillas para Mujer  Azul  Desert Sky Dw5   41 EU'
 actualPrice: 36.85 EUR
 currency: EUR
 price: 36.85

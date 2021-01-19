@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410z4zuO09L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZBDTOK-es'
+slug: 'B01LZBDTOK-es MyCat Arena para Gatos - 5 Kg'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ql3mA32PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0821FKF3F-es'
+slug: 'B0821FKF3F-es SMARTOMI - 2 cartucho de tóner negro de alto rendimiento compatible con cartuchos TN2220 para impresoras Brother HL-2130 2132 2220 2230 2240 2242D 2250DN 2270DW 2280DW MFC-7360N 7460DN 7860DW DCP-7070'
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71

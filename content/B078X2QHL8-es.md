@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wLZjRCK%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B078X2QHL8-es'
+slug: 'B078X2QHL8-es Dockers by Gerli 36ai227-777200  Mocasines para Mujer  Gris  Grau 200   38 EU'
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

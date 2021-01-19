@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519a6Jx7ydL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MIKJ4MU-es'
+slug: 'B00MIKJ4MU-es Krups KH442D 2slice s  720W Acero inoxidable - Tostador  2 rebanada s   Acero inoxidable  720 W '
 actualPrice: 42.68 EUR
 currency: EUR
 price: 42.68

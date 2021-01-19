@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518UTC22GjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EYSS25S-es'
+slug: 'B01EYSS25S-es Batman V Superman - Dawn Of Justice  Blu-Ray 4K Ultra HD+Blu-Ray+Copia Digitale  [Italia] [Blu-ray]'
 actualPrice: 8.87 EUR
 currency: EUR
 price: 8.87

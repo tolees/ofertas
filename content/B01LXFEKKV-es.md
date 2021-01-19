@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hXHwgSU+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXFEKKV-es'
+slug: 'B01LXFEKKV-es Braun HC5030 Limited Edition Recargable Negro  Azul - Afeitadora  Negro  Azul  3 mm  3 5 cm  Acero inoxidable  50 min  Integrado '
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

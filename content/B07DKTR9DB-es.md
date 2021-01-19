@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VSQsgxR9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKTR9DB-es'
+slug: 'B07DKTR9DB-es UNO de 50 Ahora o Nunca'
 actualPrice: 139.3 EUR
 currency: EUR
 price: 139.3

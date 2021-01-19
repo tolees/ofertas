@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SkJHmYIrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0871SGSJ4-es'
+slug: 'B0871SGSJ4-es YPPDPP Toto Likes Videogames Square Pillow Cases Cubierta de cojín Throw Pillow Cover Funda cojine Home Bed Room Interior Decoración'
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

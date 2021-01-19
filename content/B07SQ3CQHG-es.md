@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U9kch3SyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ3CQHG-es'
+slug: 'B07SQ3CQHG-es TedGem Ventilador  Ventilador USB Ventilador de Mesa Mini Ventilador USB Silencioso 180 Tipos Velocidad del Viento  Puede Ajustar hacia Arriba y hacia Abajo 20 °  para Oficina/Hogar/Viajar  Blanco '
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419SwzcIBUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2SQV22-es'
+slug: 'B07L2SQV22-es Asics Patriot 11  Zapatillas de Running para Hombre  Azul  Blue Expanse/Imperial 400   43.5 EU'
 actualPrice: 40.33 EUR
 currency: EUR
 price: 40.33

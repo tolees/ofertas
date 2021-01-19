@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tbuc-VrWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYLN8H1-es'
+slug: 'B07DYLN8H1-es HP Pavilion 15-cw0001ns - Ordenador Portátil 15.6" FullHD  AMD Ryzen 5 2500U  8GB RAM  256GB SSD  AMD Radeon Vega 8  Windows 10  Color Plata - Teclado QWERTY Español'
 actualPrice: 599.99 EUR
 currency: EUR
 price: 599.99

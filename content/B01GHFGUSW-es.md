@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+030DDwhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GHFGUSW-es'
+slug: 'B01GHFGUSW-es Adidas Superstar Crib  Zapatillas Unisex Bebé  Multicolor  Blanco/Negro   18 EU'
 actualPrice: 24.47 EUR
 currency: EUR
 price: 24.47

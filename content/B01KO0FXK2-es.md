@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SYHrQNnjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KO0FXK2-es'
+slug: 'B01KO0FXK2-es Chasen Bambú Herramienta Batidor de Polvo Matcha Té Japonés Accesorio Ceremonia - 60-70'
 actualPrice: 2.76 EUR
 currency: EUR
 price: 2.76

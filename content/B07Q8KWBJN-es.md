@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rft-Rkg8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q8KWBJN-es'
+slug: 'B07Q8KWBJN-es yidenguk Almohadilla de enfriamiento para computadora portátil  soporte de refrigerador de computadora portátil ultra silenciosa de ángulo ajustable con 6 ventiladores  luces LED azules  2 puertos USB'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

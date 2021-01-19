@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LFFP2VfdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFW3YVJ-es'
+slug: 'B07KFW3YVJ-es PUMA Weave XT Wn s  Zapatillas Deportivas para Interior para Mujer  White-Pink Alert  40.5 EU'
 actualPrice: 23.44 EUR
 currency: EUR
 price: 23.44

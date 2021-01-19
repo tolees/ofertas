@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DZ%2BixcebL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRBYYP2-es'
+slug: 'B07KRBYYP2-es GANT Footwear Portland  Zapatillas para Hombre  Multicolor  Multi Gray G882   41 EU'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

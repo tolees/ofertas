@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dzDp8ovPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OZQJX8-es'
+slug: 'B000OZQJX8-es Set pelotas playa'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

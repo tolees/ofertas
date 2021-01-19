@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fMyVV2msL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSD9N94-es'
+slug: 'B07GSD9N94-es Einhell HEROCCO Martillo perforador inalámbrico  no Incluye batería  18 V  Negro  Rojo'
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

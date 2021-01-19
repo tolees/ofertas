@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i5E309e1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRVVXFN-es'
+slug: 'B01MRVVXFN-es G-STAR RAW Lynn Mid Waist Skinny  Jeans Ajustados  Azul  lt Aged D008-424   29W / 34L para Mujer'
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

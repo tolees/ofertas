@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41U-oE%2BF0HL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WWR733S-es'
+slug: 'B06WWR733S-es Princess 127004 - Sandwich Toaster XXL para 4 sándwiches  placas con forma de caparazón'
 actualPrice: 38.01 EUR
 currency: EUR
 price: 38.01

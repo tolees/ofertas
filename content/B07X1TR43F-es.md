@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NwcNM8nkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1TR43F-es'
+slug: 'B07X1TR43F-es Wonderbra Glamour Raffine Triangle Padde Sujetador de triángulo  Marrón  Bronze Poudre 0bq   95D para Mujer'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

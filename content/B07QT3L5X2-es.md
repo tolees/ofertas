@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F6OYNprHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QT3L5X2-es'
+slug: 'B07QT3L5X2-es Panasonic SC-AKX320 - Equipo de Sonido de Alta Potencia para el hogar  450W  16 cm Woofer  6 cm Tweeter  Bluetooth  USB Dual  CD  AUX  DJ Jukebox  Función DJ  Hi-Fi  Sonido Nítido  Color Negro'
 actualPrice: 184.99 EUR
 currency: EUR
 price: 184.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rBPnyVMCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AVG4GU2-es'
+slug: 'B01AVG4GU2-es Master Series Caña Espada de Energía Eléctrico - 1 Unidad'
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

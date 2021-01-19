@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kDDpsFxBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHT8LKV-es'
+slug: 'B07DHT8LKV-es Lacoste Chaymon BL 1 CMA  Zapatillas para Hombre  Marrón  Dark Brown/Dark Brown   40 EU'
 actualPrice: 65.52 EUR
 currency: EUR
 price: 65.52

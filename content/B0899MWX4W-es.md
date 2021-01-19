@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51frv8-g7AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0899MWX4W-es'
+slug: 'B0899MWX4W-es PCTEB Rosas 24K Rosa de la Galaxia  Rosas Artificiales Luminosas Son Regalos para la Novia y la Esposa  Día de San Valentín  Día de la Madre  Aniversario  Cumpleaños'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

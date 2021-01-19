@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ybs4-02+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J5G5JUG-es'
+slug: 'B00J5G5JUG-es Fotoprotector ISDIN Fusion Fluid Color SPF 50+ | Protector solar facial con color | Apto para todo tipo de pieles | 50ml'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

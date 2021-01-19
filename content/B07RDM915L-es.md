@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mxZyZaIqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDM915L-es'
+slug: 'B07RDM915L-es Columbia Sandal  Sandalia para Hombre  Azul  Petrol Blue  Golden Yellow 403   41 EU'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

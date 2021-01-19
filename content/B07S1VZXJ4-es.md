@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FVaCsZUqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1VZXJ4-es'
+slug: 'B07S1VZXJ4-es BOSS Schino-Slim D Pantalones  Rojo  Medium Red 615   W42/L34  Talla del Fabricante: 4234  para Hombre'
 actualPrice: 35.14 EUR
 currency: EUR
 price: 35.14

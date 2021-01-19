@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XNI0BYHJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003BIFRBA-es'
+slug: 'B003BIFRBA-es pjur ORIGINAL - Lubricante de silicona Premium - lubricación duradera sin pegarse - cunde mucho  adecuado para preservativos - pack de 1  1x1000ml '
 actualPrice: 51.29 EUR
 currency: EUR
 price: 51.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H766ZcQZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F7F8KR3-es'
+slug: 'B08F7F8KR3-es Lepeuxi Maquina de Gofres Mini Waffle Maker Máquina de Desayuno Antiadherente Fácil de Limpiar'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

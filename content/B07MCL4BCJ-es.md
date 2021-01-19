@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311o84G2izL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCL4BCJ-es'
+slug: 'B07MCL4BCJ-es Wand Vi-brador para Mu-jeres  Wysgvazgv Pun-to G Ma-sajeador 10 Modes 20 Frecuencias Clí-toris con-solador Silicón USB Carga Impermeable Ma-sturbador Sex-uales Ju-guetes Parejas Adultos'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

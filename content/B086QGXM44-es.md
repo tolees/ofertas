@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rKzj4j49L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QGXM44-es'
+slug: 'B086QGXM44-es Suhctup Funda Compatible con Samsung Galaxy A70 Carcasa Transparente Dibujo Diseño Flor [Protección Caídas] Ultra-Delgado Flexible Silicona TPU Estuche Cover para Galaxy A70 Mandala 8'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

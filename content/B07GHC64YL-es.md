@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gA1e2C4wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GHC64YL-es'
+slug: 'B07GHC64YL-es Rowenta Multistyler 8 en 1 Basic TN8940F0 -  Cortapelos y barbero profesional con 60 min de autonomía  8 accesorios de corte y fácil limpieza'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tF10YAeDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L1LNURG-es'
+slug: 'B01L1LNURG-es Tefal Fry Delight FX100015 - Freidora sin Aceite de 1400 W  4 Modos de Cocción  para Freir  Grill  Asar y Hornear  Temporizador 30 Min  Cocina Sana  para hasta 800 Gramos de Alimento  Evita Mal Olor'
 actualPrice: 92.69 EUR
 currency: EUR
 price: 92.69

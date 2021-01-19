@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415CiYTC95L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KD8FFGY-es'
+slug: 'B07KD8FFGY-es Nike M NSW Club Hoodie FZ BB Sweatshirt  Hombre  Midnight Navy/Midnight Navy/ White   L'
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

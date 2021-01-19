@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S5EzCAH0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M61F8WH-es'
+slug: 'B07M61F8WH-es Swatch Reloj Analógico para Hombre de Cuarzo con Correa en Silicona GW201'
 actualPrice: 41.08 EUR
 currency: EUR
 price: 41.08

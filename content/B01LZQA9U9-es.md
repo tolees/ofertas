@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dF2oKJ+dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZQA9U9-es'
+slug: 'B01LZQA9U9-es Vents TT-100 TT - Extractor en línea con flujo mixto  100 mm  color blanco'
 actualPrice: 22.82 EUR
 currency: EUR
 price: 22.82

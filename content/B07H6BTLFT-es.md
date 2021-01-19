@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MdAd3e0fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H6BTLFT-es'
+slug: 'B07H6BTLFT-es Beurer MG-320 - Funda a siento Masaje Shiatsu  color gris'
 actualPrice: 171.82 EUR
 currency: EUR
 price: 171.82

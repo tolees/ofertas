@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gLfuXsyVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C272WBZ-es'
+slug: 'B07C272WBZ-es JACK & JONES Jjipaul Jjflake AKM 542 Asphalt Noos Pantalones  Gris  W31/L30  Talla del Fabricante: 31  para Hombre'
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

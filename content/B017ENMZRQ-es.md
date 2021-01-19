@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4115tSqpHqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017ENMZRQ-es'
+slug: 'B017ENMZRQ-es Omega PCS71906OG05G - Altavoces  color verde'
 actualPrice: 7.43 EUR
 currency: EUR
 price: 7.43

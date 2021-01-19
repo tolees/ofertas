@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KzOZVCsSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073X2JPG8-es'
+slug: 'B073X2JPG8-es OcioDual Termómetro Corporal Flexible Fiebre Clinico Digital Infantil Bebés Niños Adultos'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

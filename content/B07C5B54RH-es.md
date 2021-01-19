@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21P9yiwiVLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5B54RH-es'
+slug: 'B07C5B54RH-es Flamenco Sala'
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

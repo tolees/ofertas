@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kQe7FnJYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0MQIYE-es'
+slug: 'B01M0MQIYE-es Waldhausen Fliegenmaske Premium ohne Ohren- mit Nasenschutz'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

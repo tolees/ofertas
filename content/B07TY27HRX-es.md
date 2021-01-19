@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410-ADLabEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TY27HRX-es'
+slug: 'B07TY27HRX-es Skechers Bounder  Zapatillas para Hombre  Gris  Gray Mesh/Synthetic/Trim Gry   42 EU'
 actualPrice: 32.52 EUR
 currency: EUR
 price: 32.52

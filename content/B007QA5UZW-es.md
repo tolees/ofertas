@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31C3FstVJbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007QA5UZW-es'
+slug: 'B007QA5UZW-es Soother Cadena Rosa'
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

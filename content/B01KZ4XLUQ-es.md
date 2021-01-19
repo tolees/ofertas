@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Pkko30MlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KZ4XLUQ-es'
+slug: 'B01KZ4XLUQ-es Canon EF 24-105mm f/4L IS II USM - Objetivo Canon EF 24-105mm f/4L IS II USM  Negro'
 actualPrice: 931.3 EUR
 currency: EUR
 price: 931.3

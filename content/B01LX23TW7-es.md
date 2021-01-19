@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FWKNKhWkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX23TW7-es'
+slug: 'B01LX23TW7-es Air Wick Ambientador Freshmatic Recambio - Fragancia Nenuco - Paquete de 3 x 250 ml - Total: 750 ml'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

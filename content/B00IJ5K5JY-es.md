@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l3hpkXUSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IJ5K5JY-es'
+slug: 'B00IJ5K5JY-es Einhell Aspirador- soplador triturador eléctrico  GC-EL 2600 E   saco de 45 l  270Km/h  2600 W  230V  ref. 3433290 '
 actualPrice: 47.3 EUR
 currency: EUR
 price: 47.3

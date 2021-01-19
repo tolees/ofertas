@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q7y5iq7cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z8B2DRJ-es'
+slug: 'B07Z8B2DRJ-es Middle Moon Pala de Pádel ATILA Carbon 24K 2019'
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

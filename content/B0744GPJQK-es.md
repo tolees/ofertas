@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410P5MEdr3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0744GPJQK-es'
+slug: 'B0744GPJQK-es Eau Majeure 50 Ml.'
 actualPrice: 32.13 EUR
 currency: EUR
 price: 32.13

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-g9CJMQlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088LBXJWJ-es'
+slug: 'B088LBXJWJ-es Suhctup Funda Compatible con UMIDIGI A5 Pro Transparente Silicona TPU Gel Carcasa Dibujos Flor Crystal Suave Bumper Ultra Delgado [Soporte Carga Inalámbrica] Antigolpes Case Cover Lace 2'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

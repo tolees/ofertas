@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EqteGQsiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCC4S66-es'
+slug: 'B07TCC4S66-es Helly Hansen W Copenhagen Leather  Zapatillas para Mujer  Rosa  Bridal Rose/Bridal Blush 182   39 EU'
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XpRDvFc2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081HD9MW9-es'
+slug: 'B081HD9MW9-es XJ03 Cámaras portátiles portátiles para el hogar compactas duraderas para niños de 16 Millones de cámaras Digitales portátiles para niños  niñas y niños - Dorado'
 actualPrice: 12.34 EUR
 currency: EUR
 price: 12.34

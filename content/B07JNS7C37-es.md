@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RWAB3kNKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNS7C37-es'
+slug: 'B07JNS7C37-es adidas TIRO19 TR PNTY Pantalones de Deporte  Unisex niños  Black/White  1112'
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

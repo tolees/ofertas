@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uiBpl7euL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IQZ1Y6Y-es'
+slug: 'B01IQZ1Y6Y-es Star Wars Rogue One - Disfraz de Death Trooper para niños  infantil 5-6 años  Rubie s 630499-M '
 actualPrice: 10.08 EUR
 currency: EUR
 price: 10.08

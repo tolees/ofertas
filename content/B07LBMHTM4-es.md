@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41klhuh39aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBMHTM4-es'
+slug: 'B07LBMHTM4-es Kappa Bonfire  Botas Clasicas Unisex Adulto  Beige 4141  43 EU'
 actualPrice: 19.35 EUR
 currency: EUR
 price: 19.35

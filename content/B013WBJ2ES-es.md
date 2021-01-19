@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21Cvt+Rk7JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013WBJ2ES-es'
+slug: 'B013WBJ2ES-es Olympus VP-10 - Grabadora de Voz Estéreo de Calidad con Micrófono Omnidireccional  Filtro Anti-Rozamiento  Grabación con una Sola Pulsación  Conexión Directa al Ordenador y 4 GB de Memoria'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

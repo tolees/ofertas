@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yfKL2XNZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711TYP2X-es'
+slug: 'B0711TYP2X-es Funko - Pop! Vinilo Colección DC - Figura Aquaman  13486 '
 actualPrice: 10.42 EUR
 currency: EUR
 price: 10.42

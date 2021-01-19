@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SZ2mETh6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZR1B2-es'
+slug: 'B07KFZR1B2-es PUMA King Pro SG  Botas de fútbol para Hombre  Black White  41 EU'
 actualPrice: 17.63 EUR
 currency: EUR
 price: 17.63

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aPa2SlkzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR8LZK5-es'
+slug: 'B07MR8LZK5-es Supra Breaker  Zapatillas de Skateboard Unisex Adulto  Negro  Black/Lime-Black-M 18   39 EU'
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

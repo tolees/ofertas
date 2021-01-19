@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mA-Fkr7eL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WT3YL21-es'
+slug: 'B07WT3YL21-es Qisiewell Cadenas de Nieve Universale Cadenas de Neumáticos Antideslizantes para Automóviles Fácil de Montar TPU + Acero Ancho de Neumáticos 165-285 mm  Amarillo Nuevo en 2020 '
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

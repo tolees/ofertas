@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Cbuiax2SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VXMTT7V-es'
+slug: 'B06VXMTT7V-es GEORGE GINA & LUCY Nylon 100 Peaches Red Palms'
 actualPrice: 63.95 EUR
 currency: EUR
 price: 63.95

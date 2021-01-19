@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FeWgxkCEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S6OMGY0-es'
+slug: 'B00S6OMGY0-es MAKITA DGA504Z Herramienta'
 actualPrice: 117.79 EUR
 currency: EUR
 price: 117.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-pxbEK1CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J5FVG1S-es'
+slug: 'B00J5FVG1S-es Pharmaton 50+| Multivitamínico con Omega 3 | 60 cápsulas'
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

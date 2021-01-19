@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y-5t8gV-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y5X87QQ-es'
+slug: 'B06Y5X87QQ-es Pantene Rizos Definidos Mascarilla  Hidrata para Conseguir unos Rizos Sedosos y Definidos - 300 ml'
 actualPrice: 7.42 EUR
 currency: EUR
 price: 7.42

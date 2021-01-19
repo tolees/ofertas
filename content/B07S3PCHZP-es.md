@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315rFOEnJuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3PCHZP-es'
+slug: 'B07S3PCHZP-es SanDisk Memoria Flash USB Ultra de 32 GB con USB 3.0 y hasta 100 MB/s de Lectura - Paquete de 2 Unidades Rojo y Azul'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

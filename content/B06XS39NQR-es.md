@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414B1n-O-0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XS39NQR-es'
+slug: 'B06XS39NQR-es L Oreal Paris Elvive Champú para Cabello Seco - 400 ml'
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

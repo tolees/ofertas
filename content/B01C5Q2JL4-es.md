@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RSxckAdIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C5Q2JL4-es'
+slug: 'B01C5Q2JL4-es TRENDnet - Cámara de Red PoE para Exteriores/Interiores  para día/Noche  de 4 MP TV-IP314PI  Version v1.0R '
 actualPrice: 102.16 EUR
 currency: EUR
 price: 102.16

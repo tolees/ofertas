@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rQPLTh2HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0849CT7TF-es'
+slug: 'B0849CT7TF-es Captain Tsubasa: Rise Of New Champions'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

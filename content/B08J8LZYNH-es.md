@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hIGkBlmmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08J8LZYNH-es'
+slug: 'B08J8LZYNH-es Morbid: The Seven Acolytes - Signature Edition'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

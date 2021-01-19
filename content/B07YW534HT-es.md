@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rMhuI5M4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YW534HT-es'
+slug: 'B07YW534HT-es SZBHS Adaptador USB C a USB 3.0 [4 unidades] Adaptador USB C a Micro USB  USB Tipo C Adaptador  OTG USB Tipo C Adaptador Portátil con llave  para Huawei Mate 20  Samsung Galaxy LG  Negro '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

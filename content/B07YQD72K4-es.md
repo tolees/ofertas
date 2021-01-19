@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MT7eMRkJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQD72K4-es'
+slug: 'B07YQD72K4-es Palette Schwarzkopf Intense Coloración Permanente  Tono 6.1 Rubio Oscuro Ceniza - 1 unidad'
 actualPrice: 2.73 EUR
 currency: EUR
 price: 2.73

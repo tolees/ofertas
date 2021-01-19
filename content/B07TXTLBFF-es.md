@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CTkUF-LpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXTLBFF-es'
+slug: 'B07TXTLBFF-es Kalolary 2 en 1 Diseños UV PolyGel Poly Gel Nail Brush Dual-ended Slice Shape Nail Art Tool Cepillos Polygel Herramienta de clavos para el gel UV de PolyGel Uñas Extensión Multifunal'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iNnRjsubL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFTMPVP-es'
+slug: 'B07YFTMPVP-es COOAU 4K Camara Deportiva cámara Web 20MP WiFi Underwater 40M Puede usarse como. con Control Remoto y micrófono Externo Cámara de Casco de estabilización EIS con baterías 2X1200mAh y 20 Accesorios'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418-mv7g-wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JK9ZF23-es'
+slug: 'B07JK9ZF23-es Columbia Caldorado III  Zapatillas de Running para Asfalto para Hombre  Gris  Graphite  Heatw 053   41 EU'
 actualPrice: 44.08 EUR
 currency: EUR
 price: 44.08

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4163JiycjOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072J8ZX2B-es'
+slug: 'B072J8ZX2B-es Remescar - Crema de ojos para patas de gallo - Crema de ojos clínicamente probada para reducir las patas de gallo - Crema de ojos antienvejecimiento para hombre y mujer - Resultados inmediatos'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

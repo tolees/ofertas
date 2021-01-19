@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dj77etyXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GNTKRM-es'
+slug: 'B078GNTKRM-es Tommy Hilfiger Brazilian Braguita brasileña  Azul  Navy Blazer 416   40  Talla del Fabricante: 38 Medium  para Mujer'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

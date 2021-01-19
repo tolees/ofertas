@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417AC2wSApL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BATTF0-es'
+slug: 'B001BATTF0-es Philips 12499B2 Vision - Bombilla P21/5W para indicadores  2 unidades '
 actualPrice: 1.72 EUR
 currency: EUR
 price: 1.72

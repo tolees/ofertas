@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IIwq3B7HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088P22MJG-es'
+slug: 'B088P22MJG-es Slabo Lámina de Vidrio Premium para Amazon Fire HD 8 Tablet  2020  | HD 8 Plus Tablet  2020  Protectora Protector de Pantalla Templado Tempered Glass Claro dureza 9H'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lwrcOCIyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7DKPM3-es'
+slug: 'B07S7DKPM3-es Spiuk Culote Corto C/T BIOMECHANIC Hombre Petroleo/Fluor T. XL/XXL'
 actualPrice: 71.6 EUR
 currency: EUR
 price: 71.6

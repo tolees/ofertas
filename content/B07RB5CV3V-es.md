@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ICd4YX3+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB5CV3V-es'
+slug: 'B07RB5CV3V-es PUMA Originals Gym Sack Bolsa De Cuerdas  Adultos Unisex  Black  OSFA'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

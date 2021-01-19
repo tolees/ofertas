@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jjh+8c9-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000E7FNNI-es'
+slug: 'B000E7FNNI-es K&N RC-4650DR funda para filtro de aire Coche y Moto'
 actualPrice: 31.69 EUR
 currency: EUR
 price: 31.69

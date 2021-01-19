@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412bUB-2MeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBZ2S9J-es'
+slug: 'B07GBZ2S9J-es Mr. Tronic 5m Cable de Red Ethernet Latiguillo | CAT5e  AWG24  CCA  UTP  RJ45 | Color Gris  5 Metros  Blanco '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OH+yeKHwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0819DX3DD-es'
+slug: 'B0819DX3DD-es PUTORSEN® Soporte de Monitor pc - Elevador de Monitor 8cm de Altura para Laptop  Ordenador  PC  Impresora  Soporte Vidrio Templado Ergonómico de Escritorio para Monitor 2 Pack '
 actualPrice: 27.87 EUR
 currency: EUR
 price: 27.87

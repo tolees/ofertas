@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yOdTn1WIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZNH464-es'
+slug: 'B07TZNH464-es Skechers Summits  Zapatillas para Mujer  Gris  Gray Mesh/Hot Pink & Lime Trim Gyhp   39 EU'
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

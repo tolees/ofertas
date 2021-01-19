@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YyLxsXL5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8HYXB1-es'
+slug: 'B07H8HYXB1-es Nike Air Zoom Pegasus 36  Zapatillas de Running para Hombre  Negro  Black/White/Thunder Grey 002   43 EU'
 actualPrice: 77.49 EUR
 currency: EUR
 price: 77.49

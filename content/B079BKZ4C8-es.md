@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-YyRP6zOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079BKZ4C8-es'
+slug: 'B079BKZ4C8-es B Blesiya Disquete de Unidad Flash USB de Emuladores para Korg Pa80 Psr 630 Psr 450'
 actualPrice: 18.82 EUR
 currency: EUR
 price: 18.82

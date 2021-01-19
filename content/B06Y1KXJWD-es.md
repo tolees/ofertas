@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-uAFhID-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y1KXJWD-es'
+slug: 'B06Y1KXJWD-es Versa 18790696 Perchero de pie negro - Metal y madera 177x28x28cm  5 colgadores'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

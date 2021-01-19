@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414lFFN7MKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKM16G7-es'
+slug: 'B07HKM16G7-es Under Armour UA W Charged Rogue  Zapatillas de Running para Mujer  Gris  Downpour Gray/Coral Dust/Coral Dust  401  401   36 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

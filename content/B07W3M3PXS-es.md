@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FsgKfnxxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W3M3PXS-es'
+slug: 'B07W3M3PXS-es Cámara vigilancia bebe  Vigilabebés Inalambrico con cámara Bebé Monitor Inteligente con Pantalla LCD de 4.3"'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

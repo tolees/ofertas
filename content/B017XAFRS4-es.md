@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c9tasLOJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017XAFRS4-es'
+slug: 'B017XAFRS4-es Kärcher Pistola pulverizadora  2.645-265.0 '
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

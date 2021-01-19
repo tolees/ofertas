@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iABtCX0EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG13X6P-es'
+slug: 'B07HG13X6P-es New Balance 997h  Zapatillas para Mujer  Blanco  Off White Off White   43 EU'
 actualPrice: 48.06 EUR
 currency: EUR
 price: 48.06

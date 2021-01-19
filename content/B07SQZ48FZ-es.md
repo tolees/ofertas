@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519BQ9mLAaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQZ48FZ-es'
+slug: 'B07SQZ48FZ-es WACCET Bolsa Tubo Frontal de Scooter Impermeable Bolsa Manillar Scooter  Gran Capacidad Bolsa de Patinetes Eléctricos para Xiaomi M365 Bolsa Eléctrica Skateboard'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

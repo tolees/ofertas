@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BlesH7XBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073YPCH6C-es'
+slug: 'B073YPCH6C-es Lámpara de noche decorativa Crescent Neon Moon-Nursery Night-Gift Decoración de pared para fiesta de cumpleaños  habitación de niños  sala de estar  blanco cálido '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

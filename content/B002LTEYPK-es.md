@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vAVfW4gvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002LTEYPK-es'
+slug: 'B002LTEYPK-es Superga 2750 Cotu Classic  Zapatillas Unisex Adulto  Navy S 933  40 EU'
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

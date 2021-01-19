@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mp2oqyiCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P85RH8W-es'
+slug: 'B07P85RH8W-es Bammax Almohada Plagiocefalia Bebe  Almohada Bebe para Evitar Cabeza Plana  Cojin Mimos en Memory Foam  Cojin Plagiocefalia Bebe  Almohada Ortopédica Bebe  con una funda  0 a 12 Meses '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

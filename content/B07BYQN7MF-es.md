@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Dpjq2FagL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BYQN7MF-es'
+slug: 'B07BYQN7MF-es H&S Citrus Fresh Anticaspa Champú 90 ml Para El Cabello Graso'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

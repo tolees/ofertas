@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31chAFSKzyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B8OSVCK-es'
+slug: 'B01B8OSVCK-es DELL KB216 - Teclado  USB  Universal  QWERTY  Internacional de EE.UU  Alámbrico  USB '
 actualPrice: 23.63 EUR
 currency: EUR
 price: 23.63

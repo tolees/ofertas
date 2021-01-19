@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Id5wSGwbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVHVNSV-es'
+slug: 'B07DVHVNSV-es New Balance M1400V6  Zapatillas de Running para Hombre  Negro  Black/Green Black/Green   42 EU'
 actualPrice: 69 EUR
 currency: EUR
 price: 69

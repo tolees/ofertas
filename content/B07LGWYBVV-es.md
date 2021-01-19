@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ir8epmE7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGWYBVV-es'
+slug: 'B07LGWYBVV-es Antena TV Interior DVB-T  Mayor Rango de Recepción de 120 Millas  Digital HDTV Antena con Amplificador 4 Metros de Cables de Alto Rendimiento'
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ip5EPC5pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ2DJDK-es'
+slug: 'B07CZ2DJDK-es BLACK+DECKER BEG220-QS Amoladora angular 900 W  12.000 rpm  eje M14  Ajuste de Guarda sin Llave'
 actualPrice: 35.5 EUR
 currency: EUR
 price: 35.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cfCUTIcsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZPWBUMA-es'
+slug: 'B00ZPWBUMA-es Roca - Brazo de pared para rociador de 400 mm . Duchas y rociadores. Ref. A5B0450C00'
 actualPrice: 40.6 EUR
 currency: EUR
 price: 40.6

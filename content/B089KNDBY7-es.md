@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c1MAV8dzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089KNDBY7-es'
+slug: 'B089KNDBY7-es Nutribullet NB5-0628-G - Extractor de nutrientes con recetario en español  base motor de alta capacidad  500 W  20.000 rpm  incluye varios accesorios  color verde'
 actualPrice: 48.34 EUR
 currency: EUR
 price: 48.34

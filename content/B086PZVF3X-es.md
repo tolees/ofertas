@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Iy0UxIkgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086PZVF3X-es'
+slug: 'B086PZVF3X-es Disney Pijamas de Manga Corta para niñas La Sirenita Naranja 6-7 Años'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

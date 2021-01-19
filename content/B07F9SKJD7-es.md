@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-WWhCc8hL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9SKJD7-es'
+slug: 'B07F9SKJD7-es Farline GOTAS OCULARES HUMECTANTES CON ACIDO HIALURONICO AL 0 2% 20 UNIDOSIS'
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

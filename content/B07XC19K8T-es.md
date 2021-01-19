@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aUaApjvqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XC19K8T-es'
+slug: 'B07XC19K8T-es Arealer Almohadilla Eléctrica Térmica de Grande Tamaño de 30 x 60cm  con Función de Apagado Automático  3 Grados de Temperatura  Lavable a Máquina  Alivia Dolor Muscular  para Espalda Pierna y Vientre'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

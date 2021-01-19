@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41odWif7-uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089YQJ9BJ-es'
+slug: 'B089YQJ9BJ-es VIBORA Pala de Padel Cascabel 2020'
 actualPrice: 114.95 EUR
 currency: EUR
 price: 114.95

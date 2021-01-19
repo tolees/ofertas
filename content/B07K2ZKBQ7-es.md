@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31D-iKnD1KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2ZKBQ7-es'
+slug: 'B07K2ZKBQ7-es Monrodbitt Caja de Banco de energía portátil Banco de batería móvil Powerbank de Respaldo Externo 8400mAh Cargador Universal de USB Conveniente para el teléfono'
 actualPrice: 2.36 EUR
 currency: EUR
 price: 2.36

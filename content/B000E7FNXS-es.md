@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BkUwiCzIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000E7FNXS-es'
+slug: 'B000E7FNXS-es K&N RC-0982 filtro cromado universal Coche y Moto'
 actualPrice: 81.84 EUR
 currency: EUR
 price: 81.84

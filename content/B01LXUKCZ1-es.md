@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gpNB+tVFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXUKCZ1-es'
+slug: 'B01LXUKCZ1-es Mercurio Distribuciones- Juego de Habilidad con Tema Divertido. Gran Intensidad y competición con el factortodos a la Vez  H00001 '
 actualPrice: 13.56 EUR
 currency: EUR
 price: 13.56

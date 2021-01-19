@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sYH6eNrxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S46HWRX-es'
+slug: 'B07S46HWRX-es Amzdeal Mesa de Luz Dibujo A3  Tablero de Luz con Brillo Ajustable  Tableta de Luz de Carga USB para Trazar Dibujos  Dibujo  Animación'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

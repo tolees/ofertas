@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hXfoapcNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XWNLRRX-es'
+slug: 'B07XWNLRRX-es NOKOER Protector de Lente de Cámara para Xiaomi Redmi Note 8 Pro  [2 en 1] Anillo Protector Metálico para la Cámara + Película Protectora para la Cámara  Lente de la Cámara de Protección - Plata'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

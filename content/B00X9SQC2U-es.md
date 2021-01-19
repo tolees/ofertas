@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417s45CFg+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9SQC2U-es'
+slug: 'B00X9SQC2U-es Babyliss Ipro 230 Steam - Plancha de Vapor Profesional con Revestimiento de Cerámica  Iónica  5 Ajustes de Temperatura de 170 a 230ºc  Morado'
 actualPrice: 43.72 EUR
 currency: EUR
 price: 43.72

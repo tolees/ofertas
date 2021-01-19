@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QVyTrKnGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019OFMKDG-es'
+slug: 'B019OFMKDG-es Lacoste PH4012  Polo Para Hombre  Blanco  Blanc   X-Small  Talla del fabricante: 2 '
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+PGvTZIDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZT1VZN-es'
+slug: 'B075ZT1VZN-es Hugo BOSS Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable 1502418'
 actualPrice: 200.95 EUR
 currency: EUR
 price: 200.95

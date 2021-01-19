@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411X8sWM2JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5BW1N5-es'
+slug: 'B07S5BW1N5-es Love MoschinoJc4043pp1aMujerBolso de manoRojo  Rosso 8x16x20 centimeters  W x H x L '
 actualPrice: 83.02 EUR
 currency: EUR
 price: 83.02

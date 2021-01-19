@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aN7SVPSLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GQZ2BYG-es'
+slug: 'B00GQZ2BYG-es Reticare 351P-3500-B - Protector de Ojos  Universal  High'
 actualPrice: 5.81 EUR
 currency: EUR
 price: 5.81

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DWaJLf1IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7R5S2V-es'
+slug: 'B07K7R5S2V-es Britax Römer Silla de coche 3 5 años - 12 años  15 - 36 kg  KIDFIX S  ISOFIX  Grupo 2/3  Fire Red'
 actualPrice: 172.27 EUR
 currency: EUR
 price: 172.27

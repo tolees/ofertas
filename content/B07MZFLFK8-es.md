@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OMP6I82EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZFLFK8-es'
+slug: 'B07MZFLFK8-es Mustang Ben H Logo Capucha  Gris  Mid Grey Melange 4140   Small para Hombre'
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

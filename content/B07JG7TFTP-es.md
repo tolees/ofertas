@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41VUo0urCpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG7TFTP-es'
+slug: 'B07JG7TFTP-es Pepe Jeans Fidall Pm541220 Polo   Optic White 802   Medium para Hombre'
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

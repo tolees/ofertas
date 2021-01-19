@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313XQdQqwXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGJM2BB-es'
+slug: 'B07XGJM2BB-es Justdodo Bolsa de Cintura Deportiva multifunción Bolsa de cinturón de Ciclismo para Correr al Aire Libre Bolsa portátil de 6"para teléfono móvil para Hombres y Mujeres - Púrpura'
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

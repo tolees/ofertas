@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CVBfolUFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCDDSKX-es'
+slug: 'B07MCDDSKX-es GANT Johanna  Botas Chelsea para Mujer  Negro  Black G00   37 EU'
 actualPrice: 96.7 EUR
 currency: EUR
 price: 96.7

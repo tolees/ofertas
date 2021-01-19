@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UA7zTWmuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNQ92F6-es'
+slug: 'B07JNQ92F6-es Acer Nitro xv273kpbmiipphzx - Monitor Gaming de 27 "  144Hz  IPS UltraHD 4k 3840x2160  Contraste 100M:1 1ms  Respuesta 1ms  AMD FreeSync '
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

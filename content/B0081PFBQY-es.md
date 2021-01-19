@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319E8dPEt+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0081PFBQY-es'
+slug: 'B0081PFBQY-es CLINIQUE CHUBBY STICK #10-bountiful blush 3 gr'
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

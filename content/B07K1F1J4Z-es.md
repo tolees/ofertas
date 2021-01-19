@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51x-g5rfgqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1F1J4Z-es'
+slug: 'B07K1F1J4Z-es SUPEWOLD - Soporte para barra de cortina autoadhesiva  color blanco  sin perforación  32 x 42 x 45 mm  2 unidades'
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67

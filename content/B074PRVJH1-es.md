@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51m4IvCVAmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PRVJH1-es'
+slug: 'B074PRVJH1-es 4 Pack cinturón de seguridad ajustable perro de mascota gato  yucool seguridad Leads vehículo coche arnés asiento Tether  nailon textil negro  azul  rojo  morado'
 actualPrice: 4.03 EUR
 currency: EUR
 price: 4.03

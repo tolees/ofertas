@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GHY4Yb4aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZLCJP4-es'
+slug: 'B07CZLCJP4-es Under Armour UA Tech Mesh Short Pantalones Cortos  Hombre  Gris  Pitch Gray/Black 012   M'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

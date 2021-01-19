@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418x5kLWqAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQZ4B72-es'
+slug: 'B07FQZ4B72-es Clarks Step Cali Cove  Zapatillas para Mujer  Azul  Blue-   41 EU'
 actualPrice: 26.69 EUR
 currency: EUR
 price: 26.69

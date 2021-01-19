@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31O0VSbvPnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CUONGY0-es'
+slug: 'B01CUONGY0-es Hoover TE-75 - Aspiradora  700 W  A  27 kWh  Aspiradora cilíndrica  Bolsa para el polvo  3 5 L '
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

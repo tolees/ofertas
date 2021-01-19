@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61j4m2eSGxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GC8QDGV-es'
+slug: 'B07GC8QDGV-es Persona 5: Dancing in Starlight - Edición Estándar'
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pUWm4orDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IWS52MI-es'
+slug: 'B00IWS52MI-es Panasonic Eneloop SY3052630 - Pack 4 Pilas Recargables  AA'
 actualPrice: 12.57 EUR
 currency: EUR
 price: 12.57

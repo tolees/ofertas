@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ThOA0ftnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXX792V-es'
+slug: 'B07MXX792V-es GLOBE Encore-2  Zapatillas de Skateboard para Hombre  Marrón  Ochre Brown 17310   37 EU'
 actualPrice: 16.42 EUR
 currency: EUR
 price: 16.42

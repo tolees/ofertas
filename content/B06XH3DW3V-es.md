@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tZPMSz6xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XH3DW3V-es'
+slug: 'B06XH3DW3V-es Helly Hansen W HH LIFA Basleayer Pant  Mujer  Negro  XS'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

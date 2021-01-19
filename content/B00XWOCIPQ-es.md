@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qM6QZ3GqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XWOCIPQ-es'
+slug: 'B00XWOCIPQ-es Nike Court Royale  Zapatillas de Gimnasia para Hombre  Blanco  White/White 111   44.5 EU'
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

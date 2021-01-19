@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uF2YH9CFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRLDWBY-es'
+slug: 'B07VRLDWBY-es Fossil Pulsera para Mujer JF03237710'
 actualPrice: 25.65 EUR
 currency: EUR
 price: 25.65

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21rQtaME5VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFBKR9L-es'
+slug: 'B07VFBKR9L-es CARPISA ® Cartera mujer con cierre de clip - Soya Wallet'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

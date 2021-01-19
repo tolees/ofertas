@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51k9I0U9NSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR2R2C2-es'
+slug: 'B07MR2R2C2-es GOTOTOP Mini Calefactor Eléctrico Calentador de Ventilador de Cerámica PTC Portátil Viento Ajustable Control Sensor Táctil con Protección contra el Sobrecalentamiento'
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

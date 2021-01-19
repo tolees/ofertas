@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xI7-wb+yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVRP3KS-es'
+slug: 'B07PVRP3KS-es MOSISO Tote Bolsa para Mujer  hasta 15.6 Pulgadas   Resistente al Agua PU de Cuero de Gran Capacidad con 3 Compartimentos de Capa Trabajo de Maletín de Hombro de Viaje  Azul Marino'
 actualPrice: 35.46 EUR
 currency: EUR
 price: 35.46

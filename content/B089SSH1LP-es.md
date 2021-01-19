@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TRzqIdz2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SSH1LP-es'
+slug: 'B089SSH1LP-es Auriculares inalámbricos Bluetooth  Auriculares inalámbricos 3D estéreo HD  emparejamiento automático para Llamadas binaurales  con Estuche de Carga portátil para Samsung/iPhone/AirPods'
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

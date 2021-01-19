@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51L+ghWaHQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MD4XNV-es'
+slug: 'B077MD4XNV-es MagiDeal Apareciendo Bolsa de Papel Caja Flor de Cerca Apoyos Truco Magia para Fiesta Escuela'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

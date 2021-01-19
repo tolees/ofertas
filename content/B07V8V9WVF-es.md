@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hvhn8S4dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8V9WVF-es'
+slug: 'B07V8V9WVF-es Tommy Hilfiger Classic Low Tommy Jeans Sneaker  Zapatillas para Hombre  Azul  Twilight Navy C87   45 EU'
 actualPrice: 32.08 EUR
 currency: EUR
 price: 32.08

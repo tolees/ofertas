@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AdXAJYt7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086KXZ6W2-es'
+slug: 'B086KXZ6W2-es Arthome 43.5 × 305cm Muebles De Ladrillo Blanco Pegatinas Para Armario Paneles De Pared Papel Tapiz Para Despegar Y Pegar Para Sala De Estar Dormitorio Fondo DecoracióN De Pared'
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

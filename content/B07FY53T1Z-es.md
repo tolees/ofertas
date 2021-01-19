@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ENSGu-chL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY53T1Z-es'
+slug: 'B07FY53T1Z-es Vans Palomar  Zapatillas para Niños  Negro   Suede/Canvas  Black/White Iju   28 EU'
 actualPrice: 34.02 EUR
 currency: EUR
 price: 34.02

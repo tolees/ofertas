@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416LOqRMM+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010ONDWRK-es'
+slug: 'B010ONDWRK-es Advance Sensitive Mini - Pienso para Perros de Razas pequeñas con sensibilidades digestivas con salmón y arroz - 3 kg'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

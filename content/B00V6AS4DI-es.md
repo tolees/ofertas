@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bqh3XpslL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V6AS4DI-es'
+slug: 'B00V6AS4DI-es Soria Natural Bolsas de Planta - 1 unidad'
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

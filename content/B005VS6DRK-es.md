@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H2qVpcAnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005VS6DRK-es'
+slug: 'B005VS6DRK-es Converse Chuck Taylor All Star Hi Top  Zapatillas Unisex Adulto  Rojo  Rojo   46.5 EU'
 actualPrice: 51.8 EUR
 currency: EUR
 price: 51.8

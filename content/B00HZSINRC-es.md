@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JVcecMXHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HZSINRC-es'
+slug: 'B00HZSINRC-es CAMPER  Peu Cami  Damen Sneakers  Grau  Lt. Pastel Grey   36 EU'
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

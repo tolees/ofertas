@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-kghtZimL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SM48R5T-es'
+slug: 'B07SM48R5T-es 128GB Pendrive RAOYI Memoria USB 3.0 Pen Drive 128GB Alta Velocidad para PC  Computadoras  Azul…'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

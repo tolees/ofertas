@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mu4z6wzML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRFGFTY-es'
+slug: 'B07NRFGFTY-es Fa - Desodorante Roll-On Sport - Anti Transpirable y fiable contra el olor corporal - 3 uds de 50ml'
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

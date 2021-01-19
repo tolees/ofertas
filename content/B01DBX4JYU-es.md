@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ne7kXUURL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DBX4JYU-es'
+slug: 'B01DBX4JYU-es GRÜNTEK Tijera de podar jardin FALCON 215 mm Profesional y Ergonómicas'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

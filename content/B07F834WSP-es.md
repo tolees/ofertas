@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NMuve%2BT%2BL._SL200_
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F834WSP-es'
+slug: 'B07F834WSP-es Superga 2750-cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Blau  Blue MD Sapphire Q16   42 EU'
 actualPrice: 30.6 EUR
 currency: EUR
 price: 30.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412Sj1q5mtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FO7E07I-es'
+slug: 'B00FO7E07I-es Bestway 52190 - Canasta Hinchable Baloncesto Game Center Ø61 cm'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

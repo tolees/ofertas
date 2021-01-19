@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D9UZqWpIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BMKTYLW-es'
+slug: 'B01BMKTYLW-es Bourjois Smokey Stories Sombra de ojos Tono nr.12 - 39.5 gr'
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

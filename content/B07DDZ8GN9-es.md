@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41P-oIzfSNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDZ8GN9-es'
+slug: 'B07DDZ8GN9-es Adidas Fortagym Cf K Zapatillas de Gimnasia Unisex Niños  Multicolor  Multicolor 000   38 EU'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

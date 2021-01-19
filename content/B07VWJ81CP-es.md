@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515OLFLaoGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWJ81CP-es'
+slug: 'B07VWJ81CP-es INTEY Bandas de Ejercicios Conjunto de Bandas de Gimnasia para una Musculatura Estable  Pilates Yoga Gymnastics y Crossfit'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

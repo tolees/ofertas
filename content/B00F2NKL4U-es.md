@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31HkQyboIYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F2NKL4U-es'
+slug: 'B00F2NKL4U-es Bellota 4539-24 Sierra Arco'
 actualPrice: 3 EUR
 currency: EUR
 price: 3

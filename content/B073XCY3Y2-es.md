@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VE66Pvh6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XCY3Y2-es'
+slug: 'B073XCY3Y2-es Lacoste Reloj Análogo clásico para Hombre de Cuarzo con Correa en Silicona 2010937'
 actualPrice: 63.25 EUR
 currency: EUR
 price: 63.25

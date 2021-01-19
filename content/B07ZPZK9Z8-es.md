@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hhb-lBKmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPZK9Z8-es'
+slug: 'B07ZPZK9Z8-es Masajeador Electrónico 10 Modos Vibración Masajeador de Espalda y Hombros'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

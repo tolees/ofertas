@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BfyS8mOxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFP361M-es'
+slug: 'B07NFP361M-es Spin Master - Kit de Pulseras y collares para niños'
 actualPrice: 26.4 EUR
 currency: EUR
 price: 26.4

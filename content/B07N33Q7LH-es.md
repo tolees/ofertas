@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4185Khg4yIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N33Q7LH-es'
+slug: 'B07N33Q7LH-es Desigual Foulard Loki Bufanda  Azul  Medieval Blue 5074   única  Talla del Fabricante: U  para Mujer'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

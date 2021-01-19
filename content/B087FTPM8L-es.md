@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414o9xI929L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087FTPM8L-es'
+slug: 'B087FTPM8L-es househome Piscina Inflable para Niños Bebé Casa De Adultos Piscina De Remo Gruesa Piscina Inflable Resistente Al Desgaste'
 actualPrice: 30.09 EUR
 currency: EUR
 price: 30.09

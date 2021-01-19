@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315hmaHg1ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYXV8L7-es'
+slug: 'B07RYXV8L7-es Only Frsfalcon Sweat Pants-Unit Pantalones de Deporte  Azul  Navy Blazer Navy Blazer   54  Talla del Fabricante: Large  para Hombre'
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

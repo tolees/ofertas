@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bsq-yI+DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NYTJHW1-es'
+slug: 'B07NYTJHW1-es Skechers Sergeants-Verno  Botas Clasicas para Hombre  Negro  Black Leather BBK   45.5 EU'
 actualPrice: 34.4 EUR
 currency: EUR
 price: 34.4

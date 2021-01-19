@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RMhQ+T7OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OUWR250-es'
+slug: 'B00OUWR250-es adidas Superstar  Zapatillas de deporte Unisex Adulto  Blanco  Ftwr White/Core Black/Ftwr White   43 1/3 EU'
 actualPrice: 65.47 EUR
 currency: EUR
 price: 65.47

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q7IPc1RNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6NMHBD-es'
+slug: 'B07V6NMHBD-es Almohadilla De Cuna Impermeable  Cama para Incontinencia  Colchón Bebé Lavables Cama para Bebés Colchón Pañales Cambiador Pad Almohadilla Impermeable para Niños Adultos Y Mascotas'
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

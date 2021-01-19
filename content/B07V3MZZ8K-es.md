@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Fimfo28qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3MZZ8K-es'
+slug: 'B07V3MZZ8K-es Tommy Hilfiger Core Corporate High Textile SNK  Zapatillas para Hombre  Blanco  White Ybs   43 EU'
 actualPrice: 34.24 EUR
 currency: EUR
 price: 34.24

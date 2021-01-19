@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JJzDGvG+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGLX5QL-es'
+slug: 'B07JGLX5QL-es Microsoft Office Professional PLUS 2019 - Digital Download - Digital Licence'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NHKaggUFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002WGIY3U-es'
+slug: 'B002WGIY3U-es Superga 2750 COTU Classic  Zapatillas de Gimnasia Unisexo  Rojo  Red 975   45 EU'
 actualPrice: 30.6 EUR
 currency: EUR
 price: 30.6

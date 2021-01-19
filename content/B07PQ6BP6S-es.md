@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e8RXtHerL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQ6BP6S-es'
+slug: 'B07PQ6BP6S-es NETVIP Receptor Bluetooth Adaptador Audio Inalámbrico Kit Bluetooth 4.1 Manos Libres Kits con Salida Estéreo 3.5mm Aux Jack para Casa y Sistema de Audio Estéreo de Coche'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

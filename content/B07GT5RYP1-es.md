@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tVo30fbyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GT5RYP1-es'
+slug: 'B07GT5RYP1-es Nike Sunray Adjust 5  TD   Zapatillas de Gimnasia para Niños  Azul  Game Royal/Wolf Grey 400   25 EU'
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

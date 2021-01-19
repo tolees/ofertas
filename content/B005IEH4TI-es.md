@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415zQsCM5-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005IEH4TI-es'
+slug: 'B005IEH4TI-es Bourjois Effect 3d Gloss Gloss Tono 23 Framboise magnific - 19 gr.'
 actualPrice: 4.09 EUR
 currency: EUR
 price: 4.09

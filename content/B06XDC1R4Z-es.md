@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c-jriPvFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDC1R4Z-es'
+slug: 'B06XDC1R4Z-es Epson WF4720 Impresora multifunción c11cf74402  Ya disponible en Amazon Dash Replenishment'
 actualPrice: 132.44 EUR
 currency: EUR
 price: 132.44

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Sv0XhSEwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MY1KVFG-es'
+slug: 'B07MY1KVFG-es Clementoni- Impossible Puzzle-Dragon Ball-1000 pièces  Multicolor  39489 '
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

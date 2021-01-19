@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51d-w8PJ5GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GCT7ZG-es'
+slug: 'B000GCT7ZG-es Revlon ColorSilk Tinte de Cabello Permanente Tono #43 Castaño Dorado Medio'
 actualPrice: 2.03 EUR
 currency: EUR
 price: 2.03

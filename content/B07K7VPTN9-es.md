@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RFRfSODHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7VPTN9-es'
+slug: 'B07K7VPTN9-es Britax Römer Silla de coche 3 5 años - 12 años  15 - 36 kg  KIDFIX R  ISOFIX  Grupo 2/3  Wine Rose'
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

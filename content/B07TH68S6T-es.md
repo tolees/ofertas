@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PwRrRxMqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TH68S6T-es'
+slug: 'B07TH68S6T-es Gyvazla Molde para Helados  Reutilizable Moldes Silicona  6 Fabricantes de Paletas Heladas  4 Moldes de Silicona para Helados  LFGB y Libre de BPA  con Cepillo de Limpieza y Plegable Embudo'
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

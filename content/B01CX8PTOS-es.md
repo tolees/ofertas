@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4113ZLzFK0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CX8PTOS-es'
+slug: 'B01CX8PTOS-es iHealth Wave AM4 AM4-Monitor de Actividad  natación y sueño  Color Negro'
 actualPrice: 57.83 EUR
 currency: EUR
 price: 57.83

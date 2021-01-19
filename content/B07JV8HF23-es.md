@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MgNVjVjML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JV8HF23-es'
+slug: 'B07JV8HF23-es LeYi Funda Huawei Mate 20 Lite Silicona Purpurina Carcasa con HD Protectores de Pantalla  Transparente Cristal Bumper Telefono Gel TPU Fundas Case Cover para Movil Huawei Mate 20 Lite ZX Turquoise'
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

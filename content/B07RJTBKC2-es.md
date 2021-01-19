@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aAea+BoBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJTBKC2-es'
+slug: 'B07RJTBKC2-es Columbia IVO Trail Breeze  Zapatillas Deportivas para Mujer  Negro  Black  White 010   38.5 EU'
 actualPrice: 47.04 EUR
 currency: EUR
 price: 47.04

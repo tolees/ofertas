@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/514oMGQoIDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S967JFV-es'
+slug: 'B07S967JFV-es adidas Energyfalcon X  Zapatillas de Entrenamiento para Mujer  Multicolor  Core Black/FTWR White/Grey Ee9941   38 EU'
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

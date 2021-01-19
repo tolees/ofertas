@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413fW4nLFDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8DTKNM-es'
+slug: 'B07M8DTKNM-es Blink XT2 | Cámara de seguridad inteligente  exteriores e interiores  almacenamiento en el Cloud  audio bidireccional  2 años de autonomía | 3 cámaras'
 actualPrice: 224.99 EUR
 currency: EUR
 price: 224.99

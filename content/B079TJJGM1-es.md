@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411BK0D8jvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TJJGM1-es'
+slug: 'B079TJJGM1-es Funko Pop!- Pop Marvel: Deadpool-Cable Figura de Vinilo  Multicolor  30862 '
 actualPrice: 9.44 EUR
 currency: EUR
 price: 9.44

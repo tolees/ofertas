@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zexrLuk+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG17SFZ-es'
+slug: 'B07KG17SFZ-es PUMA Nova 2 Wn s  Zapatillas Deportivas para Mujer  Blanco White-Pastel Parchment  39 EU'
 actualPrice: 42.36 EUR
 currency: EUR
 price: 42.36

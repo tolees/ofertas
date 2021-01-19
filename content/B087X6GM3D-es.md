@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IJpEHn3yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087X6GM3D-es'
+slug: 'B087X6GM3D-es Suhctup Funda Transparent Compatible para Samsung Galaxy S9 Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Galaxy S9 A15'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

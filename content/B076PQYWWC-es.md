@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B7sIgSiL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PQYWWC-es'
+slug: 'B076PQYWWC-es Nilfisk - Aspiradora Hepa Basic EU - Serie Nilfisk VP300'
 actualPrice: 119.34 EUR
 currency: EUR
 price: 119.34

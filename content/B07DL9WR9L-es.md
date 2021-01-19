@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419KNyedN-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DL9WR9L-es'
+slug: 'B07DL9WR9L-es Calypso Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona K5765/4'
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

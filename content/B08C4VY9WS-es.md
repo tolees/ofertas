@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U8Lr0A8QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C4VY9WS-es'
+slug: 'B08C4VY9WS-es LXHGrowH Funda Realme 6  Fundas Duro PC Cristal Templado Anti-arañazos Espalda Armadura  Anti-Shock TPU Silicona Gel Protector Bumper Caso Cover Carcasa para Realme 6  Negro'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

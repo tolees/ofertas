@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416sXIsxVvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085NGTRV8-es'
+slug: 'B085NGTRV8-es Aire Acondicionado Móvil  Enfriador de Aire Portátil con Cristal de Hielo y Control Remoto  Climatizador Evaporativo Silencioso de Bajo Consumo de Energía con Humidificación para Hogar y OficinayAir'
 actualPrice: 199.89 EUR
 currency: EUR
 price: 199.89

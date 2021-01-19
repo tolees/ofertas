@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41V4aTEMFPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000SKEJU4-es'
+slug: 'B000SKEJU4-es GORE WEAR M Calcetines unisex  Talla: 35-37  Color: blanco/negro'
 actualPrice: 7.26 EUR
 currency: EUR
 price: 7.26

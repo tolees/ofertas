@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Mokfxu01L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D25PK4G-es'
+slug: 'B07D25PK4G-es Bloomy Shop - Funda para Huawei MediaPad M5  10 8 Pulgadas  función de Encendido y Apagado automático '
 actualPrice: 6.51 EUR
 currency: EUR
 price: 6.51

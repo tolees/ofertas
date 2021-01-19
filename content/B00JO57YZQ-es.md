@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i5M37T7JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JO57YZQ-es'
+slug: 'B00JO57YZQ-es Biosilk  Mascarilla de pelo - 118 ml.'
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

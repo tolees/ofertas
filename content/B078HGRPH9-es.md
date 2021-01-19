@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zljrl6l+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HGRPH9-es'
+slug: 'B078HGRPH9-es 2XU Women s Reflect Run Medias de compresión Ajustadas – Wa5364b compresión Ajustada  Mujer  9336340740063  Black/Silver GLO Reflective  Extra-Small'
 actualPrice: 34.79 EUR
 currency: EUR
 price: 34.79

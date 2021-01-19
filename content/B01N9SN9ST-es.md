@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sjhBxZb-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9SN9ST-es'
+slug: 'B01N9SN9ST-es Toshiba N300 HDEXR01ZNA51- Disco duro interno 4 TB'
 actualPrice: 126.0 EUR
 currency: EUR
 price: 126.0

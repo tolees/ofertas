@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xhPpeIvqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0084B1TUM-es'
+slug: 'B0084B1TUM-es Julius-K9 16IDC - Power Harness'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

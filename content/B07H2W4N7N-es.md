@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hhhJv66NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2W4N7N-es'
+slug: 'B07H2W4N7N-es Camión de Bomberos Eléctrico Juguete Coche Vehiculo con Luz  Sonidos  Bomba de Agua y Escalera Extendible para niños 3 4 5'
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

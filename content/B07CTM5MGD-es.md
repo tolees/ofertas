@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+8jqlNmkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTM5MGD-es'
+slug: 'B07CTM5MGD-es NAME IT Nkmtheo Dnmclas 2082 Pant Noos Jeans  Azul  Medium Blue Denim Medium Blue Denim   140 para Niños'
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

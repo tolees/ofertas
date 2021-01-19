@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ussrWOx+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVJG444-es'
+slug: 'B08CVJG444-es Máscara para adultos N95 / FFP2  paquete de 10 unidades  filtración premium de 5 capas para protección de boca e nariz y antipolvo seguridad y cuidado de su salud'
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

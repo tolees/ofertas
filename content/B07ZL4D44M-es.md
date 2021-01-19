@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bke4xXrxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZL4D44M-es'
+slug: 'B07ZL4D44M-es Maxi-Cosi Lara Silla de paseo ligera y reclinable  cochecito plegable con una sola mano y compacto  hamaca acolchada y transpirable  2 cestillas de compra  essential black'
 actualPrice: 133.9 EUR
 currency: EUR
 price: 133.9

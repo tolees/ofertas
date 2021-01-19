@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eyMt2KfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBYQQ84-es'
+slug: 'B07WBYQQ84-es AmazonBasics - Carreta plegable para jardín y aire libre con bolsa de cubierta  rojo'
 actualPrice: 53.48 EUR
 currency: EUR
 price: 53.48

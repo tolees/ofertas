@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310Bq1DypZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDQ95B9-es'
+slug: 'B07PDQ95B9-es Webcam 1080P  AUSDOM HD Cámara para Ordenador con Micrófono Estéreo y con Cancelación de Ruido  USB Web Cam Plug and Play para Skype  Compatible con Mac OS  Windows 10/8/7/XP'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

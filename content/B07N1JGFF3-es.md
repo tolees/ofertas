@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YMqfb6PRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JGFF3-es'
+slug: 'B07N1JGFF3-es Clarks Un.loop2 Walk  Mocasines para Mujer  Negro  Black Leather Black Leather   40 EU'
 actualPrice: 82.62 EUR
 currency: EUR
 price: 82.62

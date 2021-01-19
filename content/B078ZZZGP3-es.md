@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419iG%2BbnlFL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B078ZZZGP3-es'
+slug: 'B078ZZZGP3-es TRESemmé Acondicionador Botanique Coco - Paquete de 3 x 700 ml - Total: 2100 ml'
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514rh+uVjyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ID4TYEI-es'
+slug: 'B00ID4TYEI-es Semillas Hortícolas - Zanahoria Nantesa 5 sel. Cilindro - Batlle'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

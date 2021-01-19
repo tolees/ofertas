@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cHV-L7gyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3YZJJT-es'
+slug: 'B01M3YZJJT-es Kombat UK niños Kit del ejército DPM Camuflaje Explorer  Infantil  Color Camuflaje  tamaño 3-4 años'
 actualPrice: 27.96 EUR
 currency: EUR
 price: 27.96

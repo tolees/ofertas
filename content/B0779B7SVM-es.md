@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mBXFve3jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779B7SVM-es'
+slug: 'B0779B7SVM-es Funko Pop!- Marvel Black Panther: Nakia Figura de Vinilo  23349 '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

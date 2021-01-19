@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61BJBsFdn%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2K7CCB-es'
+slug: 'B07G2K7CCB-es Taiko No Tatsujin: Drum n Fun'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

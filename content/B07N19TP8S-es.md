@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IBdR0g02L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N19TP8S-es'
+slug: 'B07N19TP8S-es OurLeeme Digital Pocket Scale 0.01-500g Mini Scales Escala digital portátil con retroiluminación LED para alimentos de cocina  joyería  café'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

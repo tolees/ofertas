@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418jzmQNfhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0714DHKPW-es'
+slug: 'B0714DHKPW-es Under Armour Ua Ultimate Speed Zapatillas de deporte Hombre  Negro Anthracite 101  41 EU'
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

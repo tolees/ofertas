@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K9V9Xj8FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7DCKPA-es'
+slug: 'B01N7DCKPA-es Barbecook 2235925000 Barbacoa PORTATIL Carlo  Amarillo  43 5 x 33 5 x 20 5 cm'
 actualPrice: 104.06 EUR
 currency: EUR
 price: 104.06

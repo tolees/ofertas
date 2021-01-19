@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iJIkt4yRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYN7X4V-es'
+slug: 'B07FYN7X4V-es Bandolera Pepe Jeans Bromley Azul cruzada'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

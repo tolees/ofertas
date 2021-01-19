@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U7d2V7I5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHK9KHC-es'
+slug: 'B07JHK9KHC-es good01 Big Promotion! Tienda de pintura de diamante  diseño de lobo de tigre y animal de resina para manualidades  Z644'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

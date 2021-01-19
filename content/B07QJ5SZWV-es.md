@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51c5wtHVlKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ5SZWV-es'
+slug: 'B07QJ5SZWV-es ETEPON Multímetro Digital  6000 Cuentas para Mide Voltaje  Corriente  Resistencia  Continuidad  Frecuencia  Capacitancia  Temperatura  Diodos de Prueba  Transistores'
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

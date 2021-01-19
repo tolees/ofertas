@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jNB3kmwdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005HV2NQQ-es'
+slug: 'B005HV2NQQ-es Crocs Baya Flip  Unisex Adulto Sandalia  Negro  Black   37-38 EU'
 actualPrice: 17.17 EUR
 currency: EUR
 price: 17.17

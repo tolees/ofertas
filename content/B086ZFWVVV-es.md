@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qFoCbgIAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZFWVVV-es'
+slug: 'B086ZFWVVV-es Artibetter 10 Piezas Máscara Extensión Gancho Boca Máscara Oreja Bucles Ajuste Hebilla Oreja Agarres Espalda Máscara Cable de La Oreja Alivio Dolor de Oído para La Cubierta de La Cara  Negro '
 actualPrice: 3.58 EUR
 currency: EUR
 price: 3.58

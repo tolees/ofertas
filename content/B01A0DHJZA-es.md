@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mwGycbRqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A0DHJZA-es'
+slug: 'B01A0DHJZA-es Albainox 9244 Insignias  Unisex Adulto  Multicolor  Talla Única'
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

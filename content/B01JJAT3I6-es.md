@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417q0CtOZXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JJAT3I6-es'
+slug: 'B01JJAT3I6-es Ballon de hand Kid Hummel Soft'
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

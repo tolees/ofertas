@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410YoyXQqmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CKLLHRW-es'
+slug: 'B00CKLLHRW-es DeWalt DWST17888 - TSTAK Trolley'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

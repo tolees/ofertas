@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gx5yiB48L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CV0A8JY-es'
+slug: 'B01CV0A8JY-es Caterpillar Elude Wp Botas Chukka Hombre  Marrón  Dark Brown   41 EU'
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

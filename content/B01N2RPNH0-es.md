@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mSkomD6dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2RPNH0-es'
+slug: 'B01N2RPNH0-es Gigandet Minimalism Reloj Caballero Dual Time Watch Analógico con Pulsera de Cuero G21-001'
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

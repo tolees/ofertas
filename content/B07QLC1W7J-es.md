@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NjszSYayL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLC1W7J-es'
+slug: 'B07QLC1W7J-es Sierra Circular  GALAX PRO 1400W 5500RPM Sierra Eléctrica  Guía Laser  Hoja 185mm  Corte 62mm  90°   46mm  45°   Guía de Metal  Motor de Cobre Puro  Madera  Metal Delgado  Plástico/GP76321L'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

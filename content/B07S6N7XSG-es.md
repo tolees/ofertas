@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51H2PeL3u0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6N7XSG-es'
+slug: 'B07S6N7XSG-es NWOUIIAY Organizadores para Coche 2PCS Funda Protección para Asientos Trasero de Coche Back con Soporte de iPad  niños accesorios'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

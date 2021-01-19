@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51A1WULty-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081QHNBJF-es'
+slug: 'B081QHNBJF-es Neutrogena Cellular Boost Anti-Edad  Crema De Día Spf 20 Con Vitamina C  Para La Cara Y El Cuello 1 Unidad 50 ml'
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

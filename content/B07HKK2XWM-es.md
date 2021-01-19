@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iutESoyDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKK2XWM-es'
+slug: 'B07HKK2XWM-es Under Armour UA Ripple 2.0  Zapatillas de Running para Hombre  Negro  Black/Black/Black  003  003   40 EU'
 actualPrice: 24.11 EUR
 currency: EUR
 price: 24.11

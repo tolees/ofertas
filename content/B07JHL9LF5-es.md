@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AJ1em4wbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHL9LF5-es'
+slug: 'B07JHL9LF5-es Columbia Nikiski 503  Botas Bajas para Mujer  Rojo  Rich Wine  Dare   42 EU'
 actualPrice: 34.16 EUR
 currency: EUR
 price: 34.16

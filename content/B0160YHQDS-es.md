@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D8XwIt9UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0160YHQDS-es'
+slug: 'B0160YHQDS-es CMP Rigel - Zapatillas de senderismo Mujer  Gris  Grey-Fuxia-Ice 103Q   41 UE'
 actualPrice: 55.98 EUR
 currency: EUR
 price: 55.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31X+7puvFJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D8Z1R3R-es'
+slug: 'B07D8Z1R3R-es Tommy Jeans Retro Flag Sneaker  Zapatillas para Hombre  Blanco  White 100   43 EU'
 actualPrice: 63.78 EUR
 currency: EUR
 price: 63.78

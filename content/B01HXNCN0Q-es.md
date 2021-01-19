@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k8GpqqjXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HXNCN0Q-es'
+slug: 'B01HXNCN0Q-es Rankie Cable Mini DisplayPort  Thunderbolt Port Compatible  a HDMI  4K  3 m  Negro'
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

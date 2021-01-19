@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oEhvwmsBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E20KOBY-es'
+slug: 'B00E20KOBY-es Vogel s Base 05 L - Soporte de Pared Fijo para TV 40 - 80"  con Sistema VESA máx. 800x400  Carga máx. de peso 70kg'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

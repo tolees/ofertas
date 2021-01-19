@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xo+c8wq6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKPTTCN-es'
+slug: 'B07CKPTTCN-es HCMAX Almohada para el Reposacabezas del Coche - Cojín Cervical con Soporte de Cuello para el Asiento del Coche - con Espuma de Memoria para Conducir - con Cubierta Extraíble'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

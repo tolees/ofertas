@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21wQjer-WTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000UVRU6G-es'
+slug: 'B000UVRU6G-es SteelSeries QcK+ - Alfombrilla de ratón de juego  450mm x 400mm  tela  base de caucho  compatible con ratón láser y óptico  negro'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

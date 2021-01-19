@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ae8nCQ-gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GSMJ4RE-es'
+slug: 'B00GSMJ4RE-es Emporio Armani AR1733 Emporio Armani AR1733 Reloj De Hombre'
 actualPrice: 170.99 EUR
 currency: EUR
 price: 170.99

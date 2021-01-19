@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sg8BsxfQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RQTD12-es'
+slug: 'B073RQTD12-es Jack & Jones Jcopinn Sweat Hood Noos Capucha  Negro  Black Fit:reg/Yellow String   X-Large para Hombre'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

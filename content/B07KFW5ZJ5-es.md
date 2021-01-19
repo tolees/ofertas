@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TqAYFUITL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFW5ZJ5-es'
+slug: 'B07KFW5ZJ5-es PUMA Thunder Fashion 2.0  Zapatillas Deportivas Unisex Adulto  Multicolor  High Rise-CASTLEROCK    38 EU'
 actualPrice: 32.77 EUR
 currency: EUR
 price: 32.77

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4176EXbau%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MFQPUDY-es'
+slug: 'B00MFQPUDY-es Tectonic - Reloj Analógico de Cuarzo unisex  correa de Cuero color Negro'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QxGXUPJxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6SPJ1M-es'
+slug: 'B07V6SPJ1M-es Love MoschinoJc4247pp0aMujerCarteras de manoMarfil  Ivory Quilted 7x14x22 Centimeters  W x H x L '
 actualPrice: 69.96 EUR
 currency: EUR
 price: 69.96

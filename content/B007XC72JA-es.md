@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VHpgh2GcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007XC72JA-es'
+slug: 'B007XC72JA-es M MOLTO Pupitre Pizarra 2 en 1'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

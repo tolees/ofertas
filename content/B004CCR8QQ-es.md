@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ijOsXIs5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004CCR8QQ-es'
+slug: 'B004CCR8QQ-es Superga 2750 Jvel Classic Zapatillas Unisex Para Niños  Rojo  Red   30 EU'
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

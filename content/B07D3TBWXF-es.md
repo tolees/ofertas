@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-24DR2leL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D3TBWXF-es'
+slug: 'B07D3TBWXF-es Kingnew Perro Techo Pet Cojín Perro Gato Cama Suave Caliente Dormir Cojín Nest Esterilla para Cachorros Perro Gato Pet Zwinger  M  Azul '
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

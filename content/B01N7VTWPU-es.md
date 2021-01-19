@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51z+bv6182L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7VTWPU-es'
+slug: 'B01N7VTWPU-es CLUSE Correa de Reloj CLS053'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

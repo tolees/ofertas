@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ToRt80JiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HQRW7K-es'
+slug: 'B071HQRW7K-es Everybody s Golf - Edición Estándar'
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415587xDBDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2GJVXB-es'
+slug: 'B07G2GJVXB-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Cuero FS5497'
 actualPrice: 75.6 EUR
 currency: EUR
 price: 75.6

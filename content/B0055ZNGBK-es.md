@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510XMSumZ7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0055ZNGBK-es'
+slug: 'B0055ZNGBK-es Orbegozo FH6035 Calefactor  2200 W  Plata y gris'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

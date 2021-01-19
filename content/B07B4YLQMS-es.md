@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SLcRiCRpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4YLQMS-es'
+slug: 'B07B4YLQMS-es Circuito ferrocarril Ciudad ajetreada'
 actualPrice: 48.88 EUR
 currency: EUR
 price: 48.88

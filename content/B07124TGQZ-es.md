@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312dFIVV+sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07124TGQZ-es'
+slug: 'B07124TGQZ-es Grohe Nova Cosmopolitan S Escudo - Placa de descarga'
 actualPrice: 72.31 EUR
 currency: EUR
 price: 72.31

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hIIOn0QhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GRHR9JW-es'
+slug: 'B07GRHR9JW-es Adidas Lite Racer Inf  Zapatillas de Estar por casa Bebé Unisex  Azul  Azuosc/Ftwbla/Negbás 000   21 EU'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

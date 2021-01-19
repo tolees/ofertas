@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51m%2BQSuYUWL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BH0WW5W-es'
+slug: 'B01BH0WW5W-es S&R 25 Discos de corte 125 Metal y Acero INOX .Set de 25 disco para amoladora 125'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

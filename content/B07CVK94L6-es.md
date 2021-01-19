@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZfVQQnStL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVK94L6-es'
+slug: 'B07CVK94L6-es Porsche Design Bolsa de ordenador portátil 15? azul'
 actualPrice: 179.4 EUR
 currency: EUR
 price: 179.4

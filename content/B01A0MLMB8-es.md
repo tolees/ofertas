@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D5nv0ZRVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A0MLMB8-es'
+slug: 'B01A0MLMB8-es Energy Sistem 425563  Auriculares  Bluetooth 4.1  Talla única  Mint'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

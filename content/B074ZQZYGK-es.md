@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SIF14xl3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZQZYGK-es'
+slug: 'B074ZQZYGK-es Funko Pop!- 24972 Wonder Woman ETTA Sword & Shield Figura de Vinilo  Multicolor'
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

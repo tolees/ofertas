@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kwNdOkWGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XPV2HL-es'
+slug: 'B077XPV2HL-es Under Armour Men s Braided 2.0 Belt Cinturón  Hombre  Azul  Academy/Charcoal 409   30'
 actualPrice: 23.03 EUR
 currency: EUR
 price: 23.03

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cO5JggKOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0152X4GQS-es'
+slug: 'B0152X4GQS-es Dove Derma Spa Summer Media Resucitado a Dark Skin Body Lotion 200 ml'
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

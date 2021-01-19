@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41glEmAwnXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PC79DDG-es'
+slug: 'B07PC79DDG-es American Tourister Jetglam Spinner S Equipaje de Mano  55 cm  35.5 L  Azul  Metallic Blue '
 actualPrice: 64.46 EUR
 currency: EUR
 price: 64.46

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512S-a406HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788BTRFD-es'
+slug: 'B0788BTRFD-es Tommy Hilfiger X Sujetador Estilo Bralette  Azul  Navy Blazer 416   Medium  Talla del Fabricante: MD  para Mujer'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

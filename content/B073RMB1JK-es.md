@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Pyq+tQBwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RMB1JK-es'
+slug: 'B073RMB1JK-es Silver HT - Funda para eReader Libro electrónico eBook de 6 Pulgadas Compatible con Kindle  BQ  Sony  Woxter  SPC'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

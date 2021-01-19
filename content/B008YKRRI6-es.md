@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q8riEfDJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008YKRRI6-es'
+slug: 'B008YKRRI6-es Beethoven: Symphonies & Overtures'
 actualPrice: 18.4 EUR
 currency: EUR
 price: 18.4

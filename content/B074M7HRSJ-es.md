@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KM4fjdETL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074M7HRSJ-es'
+slug: 'B074M7HRSJ-es Bandeja de Hielo Diamante   Moldes para Cubitos de Hielo Certificado sin BPA  Congelarse Alimentos para Bebés Cola Cócteles Whisky  Red&Black-2Pack '
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

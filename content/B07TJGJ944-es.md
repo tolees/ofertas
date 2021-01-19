@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jw3fATCkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJGJ944-es'
+slug: 'B07TJGJ944-es Superdry Classic Superstate S/s Polo  Gris  Flint Grey Grit Xje   L para Hombre'
 actualPrice: 28.66 EUR
 currency: EUR
 price: 28.66

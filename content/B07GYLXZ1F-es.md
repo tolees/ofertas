@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fv2bCbBUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GYLXZ1F-es'
+slug: 'B07GYLXZ1F-es Head & Shoulders Men Ultra Limpieza Profunda Champú Anticaspa - 300 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

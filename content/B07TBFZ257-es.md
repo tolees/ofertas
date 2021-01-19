@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dpXeE60WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBFZ257-es'
+slug: 'B07TBFZ257-es Quiksilver Stapilton-Chaqueta De Lona con Cremallera para Hombre  Black  S'
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

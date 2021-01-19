@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oylU528OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GS5MJMT-es'
+slug: 'B07GS5MJMT-es Rimmel London Match Perfection Foundation Base de Maquillaje Tono 502 Caramel - 30 ml'
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

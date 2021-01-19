@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NjpNIB05L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXG15LQ-es'
+slug: 'B07DXG15LQ-es Caterpillar Prepense  Botas Chukka para Hombre  Negro Black  45 EU'
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

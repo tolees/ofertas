@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ySdQttcIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3N69TW-es'
+slug: 'B07P3N69TW-es Rimmel London 60 Seconds Super Shine #708-Kiss in The Nude - 1 unidad'
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65

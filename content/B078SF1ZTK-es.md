@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5199O9DK-ML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SF1ZTK-es'
+slug: 'B078SF1ZTK-es RENBERG - Set 3 SARTENES 20/24/28CM. Aluminio Forjado Negro con Mangos A Color + Bloque Cuchillos 6PCS  4 Cuchillos+Tijeras+Tacoma  Acero Inoxidable - Negro - COLECCIÓN Bonn'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

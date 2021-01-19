@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41shLeuVTVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZGVXLG-es'
+slug: 'B086ZGVXLG-es M30 6.0 Pulgadas Smartphone 512M + 4Gb ROM Dual Sim Teléfono móvil Desbloquear teléfono Teléfono Inteligente Alto Rendimiento - Negro'
 actualPrice: 53.59 EUR
 currency: EUR
 price: 53.59

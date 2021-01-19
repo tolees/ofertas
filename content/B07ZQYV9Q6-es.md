@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4127I2IlOqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZQYV9Q6-es'
+slug: 'B07ZQYV9Q6-es WIN.MAX Tirantes Ancho 35 mm Y-Forma con 6 Clips Extra Fuerte 1 Conjunto Pajaritas Elásticos Elástico y Longitud Ajustable Diferentes Estilos Tela Gruesa Una Talla Para Todos Negro '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

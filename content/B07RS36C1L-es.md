@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Djwb4BgNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS36C1L-es'
+slug: 'B07RS36C1L-es Jvchengxi Funda Protectora para Galaxy Watch Active  Cubierta Protectora de Marco a los rasguños TPU Protector de Pantalla de Cobertura Total para Galaxy Watch Active 40mm  Negro/Plata/Transparente '
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

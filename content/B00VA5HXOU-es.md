@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41g9DndUFKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VA5HXOU-es'
+slug: 'B00VA5HXOU-es LE CREUSET Cocotte Evolution con Tapa  Ø 31 cm  Ovalada  Todas Las Fuentes de Calor Incl. inducción  6 3 l  Hierro Fundido  Negro Mate'
 actualPrice: 227.5 EUR
 currency: EUR
 price: 227.5

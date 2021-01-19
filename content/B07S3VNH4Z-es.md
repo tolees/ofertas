@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YARMowmxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3VNH4Z-es'
+slug: 'B07S3VNH4Z-es SO SOAP Factory Juguete  Color Verde  Canal Toys 26 '
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

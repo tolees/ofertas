@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xiU-8CTnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H7TDWHJ-es'
+slug: 'B07H7TDWHJ-es Beurer EM28 Electroestimulador para Muñeca Antebrazo Tens  Negro  Electroestimulador con Clip  2 Electrodos por Contacto Agua'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

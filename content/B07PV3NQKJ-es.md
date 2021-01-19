@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fsOyU6NML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PV3NQKJ-es'
+slug: 'B07PV3NQKJ-es Tommy Hilfiger Padded Triangle Bra Sujetador de triángulo  Azul  Navy Blazer 416   K  Talla del Fabricante: MD  para Mujer'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nMPjkdz9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ3NBLQ-es'
+slug: 'B07TZ3NBLQ-es PETKIT Correa de Perro Retráctil  No es Fácil de Romper  iluminación de luz Nocturna  Halo Colorido Que te Hace Diferente'
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

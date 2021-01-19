@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CD9akUA7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083YXRSDG-es'
+slug: 'B083YXRSDG-es GTIWUNG 36 Piezas Juego de Herramientas de extracción de terminales automáticos  Kit de extractores de Cables eléctricos para reparación de Coches'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

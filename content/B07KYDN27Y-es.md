@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21MaTKxU23L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYDN27Y-es'
+slug: 'B07KYDN27Y-es Saro 1435-C - Porta chupete  unisex'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

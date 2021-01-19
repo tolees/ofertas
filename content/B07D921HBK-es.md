@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517X81U3zTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D921HBK-es'
+slug: 'B07D921HBK-es Aicook Palomitero  Aire Caliente Sin Grasa Aceita  Vintage Máquina de Palomitas con Gran Capacidad  Libre de BPA  Rojo'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

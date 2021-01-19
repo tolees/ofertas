@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cy8kgcHCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9J8MZY-es'
+slug: 'B07F9J8MZY-es 6 Inch Llaves ajustables Llaves inglesas con micrómetro 36 x 300 mm  6" '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

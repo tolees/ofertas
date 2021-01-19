@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oawFHklTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007UR7SWY-es'
+slug: 'B007UR7SWY-es Máscara de payaso monstruo Halloween'
 actualPrice: 35.93 EUR
 currency: EUR
 price: 35.93

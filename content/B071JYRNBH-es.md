@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cYDb7z5RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JYRNBH-es'
+slug: 'B071JYRNBH-es Victoria Deportivo Serraje P. Negro  Zapatillas para Mujer  40 EU'
 actualPrice: 22.72 EUR
 currency: EUR
 price: 22.72

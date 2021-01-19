@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IVG0WG6bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XZVGZ31-es'
+slug: 'B06XZVGZ31-es Tous Baby Lámpara de Noche en Forma de Oso  3 watts  Blanco Semitransparente  19.6 x 24.5 x 11 cm'
 actualPrice: 55.3 EUR
 currency: EUR
 price: 55.3

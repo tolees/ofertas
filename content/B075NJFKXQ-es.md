@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Y+AHwxr+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NJFKXQ-es'
+slug: 'B075NJFKXQ-es Termómetro Infrarrojo  Termómetro Láser Digital Pistola de Temperatura -26 ° F ~ 1022 ° F  -32 ° C ~ 550 ° C  Sonda de Temperatura para Cocinar / Aire / Refrigerador - Termómetro Carne Incluido'
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

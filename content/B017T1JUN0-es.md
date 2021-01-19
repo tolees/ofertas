@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qXy+yOIaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017T1JUN0-es'
+slug: 'B017T1JUN0-es ID Italian Design | Cepillo Eléctrico Alisador para el Pelo de Color Rosa  29W'
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

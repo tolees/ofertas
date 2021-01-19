@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-ziSWRrlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085S1MXRV-es'
+slug: 'B085S1MXRV-es Cudy WR1300 AC1200 Mbps Router inalámbrico Gigabit  WiFi MU-MIMO de Banda Dual  Modo Multi  5 x Gigabit RJ45  4 x 5dBi Antenas  OpenWRT  128MB DDR3  Puerto USB 3.0  PPTP/L2TP VPN'
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

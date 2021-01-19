@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31So29q7AxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9P21RS-es'
+slug: 'B07L9P21RS-es Lacoste Masters Cup 319 1 SMA  Zapatillas para Hombre  Azul  Nvy/Off Wht/Dk Red Nod   47 EU'
 actualPrice: 38.89 EUR
 currency: EUR
 price: 38.89

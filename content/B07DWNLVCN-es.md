@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512wCzz5-CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWNLVCN-es'
+slug: 'B07DWNLVCN-es YZCX Auriculares Gaming G2000 USB 3.5mm Estéreo Gaming Auriculares para Juegos Iluminación LED/Micrófono/Cancelación de Ruido/Control del Volumen para PC Tablet Laptop'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

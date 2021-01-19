@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e6SugfhqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L3KO3YU-es'
+slug: 'B00L3KO3YU-es AmazonBasics - Cable óptico de audio digital Toslink  3 m '
 actualPrice: 7.09 EUR
 currency: EUR
 price: 7.09

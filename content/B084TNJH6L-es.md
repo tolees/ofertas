@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Yn70jugKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084TNJH6L-es'
+slug: 'B084TNJH6L-es Triamisu Vaporizador de Ropa portátil de Viaje Multifuncional JK-2106 Vapores de Mano de Hierro Vaporizador de Ropa - Blanco y Azul'
 actualPrice: 20.1 EUR
 currency: EUR
 price: 20.1

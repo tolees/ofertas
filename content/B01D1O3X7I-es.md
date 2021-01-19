@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+w7A0URKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D1O3X7I-es'
+slug: 'B01D1O3X7I-es Sherlock Holmes: The Devil s Daughter'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

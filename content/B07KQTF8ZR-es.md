@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OzmOcSnQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQTF8ZR-es'
+slug: 'B07KQTF8ZR-es P Prettyia +La Cubierta De Puerta Trasera Impermeable con Adhesivo Caja De Flotación Flotante para Hero 3'
 actualPrice: 8.78 EUR
 currency: EUR
 price: 8.78

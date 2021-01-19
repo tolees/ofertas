@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XIH+I590L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XWXX9YD-es'
+slug: 'B07XWXX9YD-es WESCO Sierra Circular 18V 4000RPM Sierra Recargable 2.0Ah de iones de litio Velocidades Variables Profundidad y Ángulo de Corte Ajustable 53mm  90 °   36mm  45 °   Hoja de 165mm WS2316'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

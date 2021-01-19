@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417ONfxqnqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086WZ44YV-es'
+slug: 'B086WZ44YV-es HAZUN Cámara Web Full HD de 1080p  USB2.0 con micrófono Cámara Plug and Play Ajustable en 360 ° para computadora de Escritorio PC portátil Video Llamada'
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71

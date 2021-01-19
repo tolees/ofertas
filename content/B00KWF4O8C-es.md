@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EQSIc7m5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KWF4O8C-es'
+slug: 'B00KWF4O8C-es Columbia Peakfreak Nomad  Botas de Senderismo para Hombre  Negro  Black  Caramel 010   48 EU'
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

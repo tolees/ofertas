@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41n1B4QDK1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG16SPB-es'
+slug: 'B07KG16SPB-es PUMA Insurge Mesh 2.0  Zapatillas Unisex Adulto  Rhubarb Black White  37 EU'
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

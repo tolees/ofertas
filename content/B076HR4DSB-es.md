@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lzpXaKovL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HR4DSB-es'
+slug: 'B076HR4DSB-es Adidas CORE18 POLO Polo shirt  Hombre  Black/ White  S'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

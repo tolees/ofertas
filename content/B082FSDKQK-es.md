@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bZ8GOfsyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082FSDKQK-es'
+slug: 'B082FSDKQK-es Beurer MG10 Bola de masaje con vibración  compacta  2 niveles intensidad para activar zonas tensas de los músculos  superfície tacto suave  óptimo para viajes  7.5 cm  color negro'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

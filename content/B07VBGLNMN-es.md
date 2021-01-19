@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416RA5UoULL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBGLNMN-es'
+slug: 'B07VBGLNMN-es Lee Extreme Motion Straight Jeans  Azul  Theo AC   31W / 34L para Hombre'
 actualPrice: 38.64 EUR
 currency: EUR
 price: 38.64

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41saBTzRHoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R7B96GO-es'
+slug: 'B00R7B96GO-es Pioneer SE-MJ561BT-T - Auriculares supraurales Bluetooth  marrón'
 actualPrice: 47.0 EUR
 currency: EUR
 price: 47.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GHk3ESbPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F2T89CO-es'
+slug: 'B01F2T89CO-es Reebok Royal Glide  Zapatillas de deporte  Hombre  Blanco   White / Steel / Reebok Royal   43 EU'
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

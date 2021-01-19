@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415RAD%2BcJUL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYVPQSS-es'
+slug: 'B07XYVPQSS-es Banda Reflectante 4 Luz Running Brazalete Reflectante con Elástica Alta Visibilidad Luz de Seguridad  Luces LED Intermitentes para Correr  Practicar Senderismo o Ciclismo'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NLYvdEkFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y62H8YR-es'
+slug: 'B06Y62H8YR-es Fujifilm Instax Mini 9 - Cámara instantanea  solo cámara  Blanco  Smoky White '
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

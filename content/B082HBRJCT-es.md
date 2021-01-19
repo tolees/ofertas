@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Z19ppMLKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HBRJCT-es'
+slug: 'B082HBRJCT-es ART VVIES Wandbild 40 x 30 Zoll Leinwand mit Haken Welpen Junge Kleine zarte Gruppe Tier für Hauptdekorationen Holz gerahmte Lieferungen'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

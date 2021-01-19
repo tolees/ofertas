@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4115ytz7mZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MSRF1X-es'
+slug: 'B082MSRF1X-es Muselina Bebe  Six4Up  100% Made In Italy  Algodón Orgánico  Bordado Azul Celeste  2 Unidades  70x90 cm  Certificadas Standard 100 Oeko-Tex  Swaddle  Mantas Bebe'
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

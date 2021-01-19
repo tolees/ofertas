@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mjdWDc46L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW5DYMW-es'
+slug: 'B07NW5DYMW-es Skechers D lites-Second Chance  Zapatillas para Mujer  Multicolor  38 EU'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

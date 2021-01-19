@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w172ii0EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQGKPV4-es'
+slug: 'B07VQGKPV4-es Nike Men s Premier II Anti-Clog Traction  SG-Pro  Soft-Ground Football Boot  Botas de fútbol Unisex Adulto  Multicolor  Black/Hyper Crimson-Black 80   40 EU'
 actualPrice: 30.25 EUR
 currency: EUR
 price: 30.25

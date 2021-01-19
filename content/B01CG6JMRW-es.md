@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jNOZoah1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CG6JMRW-es'
+slug: 'B01CG6JMRW-es BIC Marking Ultra Fine Marcador Permanente Tejidos - Blíster de 2 unidades  Negro  Plata  933872 '
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

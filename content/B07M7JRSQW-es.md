@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412-WPo+rYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7JRSQW-es'
+slug: 'B07M7JRSQW-es Te-Rich 2020 Wake Up Light Luz Despertador Simulación del Amanecer y Anochecer Luz LED con 2 Alarmas y 7 Sonidos Naturales Radio FM Digital 7 colores claros 20 Niveles de Brillo'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

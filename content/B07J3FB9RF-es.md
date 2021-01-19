@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hkn+K5BbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3FB9RF-es'
+slug: 'B07J3FB9RF-es Under Armour Undeniable Duffel 4.0 MD Deportes  Bolsa De Entrenamiento  Unisex  Azul  OSFA'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

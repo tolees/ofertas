@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y5KWri9kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C6XF1Z2-es'
+slug: 'B01C6XF1Z2-es Arena Fundamentals Logo Bañador  Hombre  Rojo/Blanco  S'
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

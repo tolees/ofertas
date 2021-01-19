@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410tVjfl0+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCZZG87-es'
+slug: 'B07QCZZG87-es Wipp Express Detergente Líquido Azul - 40 Lavados  2L '
 actualPrice: 8.63 EUR
 currency: EUR
 price: 8.63

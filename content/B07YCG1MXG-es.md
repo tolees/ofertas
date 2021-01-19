@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cus8NuCvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCG1MXG-es'
+slug: 'B07YCG1MXG-es Vans Classic Patch Trucker Gorra de béisbol  Multicolor  Racing Red/White R30   Talla Única  Talla del Fabricante: OS  para Hombre'
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

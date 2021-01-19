@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zFoyNBkJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5B8FSF-es'
+slug: 'B07G5B8FSF-es Ronda Impermeable Bebé Niños Baño Libro Early Educational Toys - Animales bebés'
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

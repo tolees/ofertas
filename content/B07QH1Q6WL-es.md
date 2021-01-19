@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oYjvDvTtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QH1Q6WL-es'
+slug: 'B07QH1Q6WL-es Hakeeta Mini USB portátil Barra de Sonido con Cable Reproductor de música Bass Surround Altavoz Soundbox con Conector de Audio de 3.5 mm para computadora de Escritorio  Laptop  TV Blanco '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

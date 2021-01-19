@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F1qEAnTTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNTFY8P-es'
+slug: 'B07NNTFY8P-es Under Armour Women s Charged Impulse Laufschuhe  Zapatillas de Running para Mujer  Blanco  White/Halo Gray/Mod Gray  103  103   38 EU'
 actualPrice: 39.54 EUR
 currency: EUR
 price: 39.54

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414HlZf1dhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GQ1Y7AU-es'
+slug: 'B01GQ1Y7AU-es DAEN Crema Depilatoria 1 Unidad 430 g'
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

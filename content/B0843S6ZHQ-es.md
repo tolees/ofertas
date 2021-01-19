@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z5D7Inb4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0843S6ZHQ-es'
+slug: 'B0843S6ZHQ-es NHUAIYINSHUGUOGUANGGAOJINGY 1/3"Color CMOS 1200TVL 24 LED Lente 3.6mm Impermeable 15-30 IR Cámara de vigilancia de visión Nocturna-Negro Negro'
 actualPrice: 22.75 EUR
 currency: EUR
 price: 22.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AqAyQLA8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCJH92M-es'
+slug: 'B07KCJH92M-es Ringke Fusion-X Compatible con Funda Huawei Mate 20 Pro Ergonómico Transparente [Defensa Provista Caída Militar] Firme PC Back TPU Bumper Resistente Impactos Cover para Mate 20 Pro  2018  - Black'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

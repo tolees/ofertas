@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lhdfL5nBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PBLAAA8-es'
+slug: 'B00PBLAAA8-es Mercedes-Benz M1039 Hombre  Negro  Schwarz   58'
 actualPrice: 25.67 EUR
 currency: EUR
 price: 25.67

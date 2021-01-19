@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21r8gYErJ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NWD9PF-es'
+slug: 'B089NWD9PF-es Typicshop Tapa Cámara Ultra Delgada 0.85mm  Webcam Cover para Macbook  iPad  Ordenador  Smartphones. Blanco  3 Unidades '
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315DtIX1YDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083KGK9C2-es'
+slug: 'B083KGK9C2-es Silla de Cocina/Comedor de diseño nórdico-Scandi  Inspiración Silla Tower - Gris Arena 90291'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sfqnpNL3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDDJL3P-es'
+slug: 'B07DDDJL3P-es Ready 2 Robot Serie 1 - Cápsula Sorpresa con Robot  Piloto y Slime  Multicolor  Giochi Preziosi RED04000 '
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

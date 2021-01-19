@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415ZCbpBC5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ5CW26-es'
+slug: 'B07CZ5CW26-es Salomon XA Pro 3D J  Zapatillas de Deporte Unisex Niños  Azul/Naranja  Medieval Blue/Mazarine Blue Wil/Tan   39 EU'
 actualPrice: 38.76 EUR
 currency: EUR
 price: 38.76

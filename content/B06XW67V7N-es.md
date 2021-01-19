@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LPM-He5hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XW67V7N-es'
+slug: 'B06XW67V7N-es Silencio [DVD]'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

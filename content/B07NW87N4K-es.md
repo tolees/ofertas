@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31EtmDlJHfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW87N4K-es'
+slug: 'B07NW87N4K-es Skechers D lites 3.0-Proven Force  Zapatillas para Mujer  White Leather/White & Gray Trim Wht   39 EU'
 actualPrice: 53.33 EUR
 currency: EUR
 price: 53.33

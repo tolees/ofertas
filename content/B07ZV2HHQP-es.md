@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B3OV1R7bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZV2HHQP-es'
+slug: 'B07ZV2HHQP-es Helly Hansen HH Scout Wash Bag Neceser  Unisex Adulto  Living Coral  STD'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

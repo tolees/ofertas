@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PoE5N5WdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYBWJGN-es'
+slug: 'B07YYBWJGN-es American Tourister Equipaje Infantil Logotipo de Marvel  S  55 cm - 36 L   Multicolor'
 actualPrice: 84.03 EUR
 currency: EUR
 price: 84.03

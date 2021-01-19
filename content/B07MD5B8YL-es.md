@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31iScYd0mJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MD5B8YL-es'
+slug: 'B07MD5B8YL-es L Oreal Paris Infalible More than Concealer  Corrector Cobertura Completa  333 Cedar/Cedre - 11  ml'
 actualPrice: 9.4 EUR
 currency: EUR
 price: 9.4

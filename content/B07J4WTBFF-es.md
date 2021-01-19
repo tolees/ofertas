@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410FVxO8bRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4WTBFF-es'
+slug: 'B07J4WTBFF-es Triumph Sexy Angel Spotlight W02 Sujetador con Aros  Marfil  Silk White 00gz   90G  Talla del Fabricante: 75  para Mujer'
 actualPrice: 19.58 EUR
 currency: EUR
 price: 19.58

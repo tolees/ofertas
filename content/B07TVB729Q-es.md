@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xo-J5kr+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVB729Q-es'
+slug: 'B07TVB729Q-es Funda con Teclado Español Ñ para Samsung Galaxy Tab A 10.1 2019 T510/515  Teclado Bluetooth Inalámbrico Magnético Desmontable para Samsung Galaxy Tab A 10.1  Negro'
 actualPrice: 37.48 EUR
 currency: EUR
 price: 37.48

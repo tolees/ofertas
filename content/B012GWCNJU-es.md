@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JVT6oO1yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012GWCNJU-es'
+slug: 'B012GWCNJU-es 3 Piezas Sujetador Deportivo para Mujeres Sin Costuras Yoga Racerback Top con Almohadillas Extraíbles Ultimate Corriendo Gimnasio Ropa  M: 32/34  Negro x 3 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

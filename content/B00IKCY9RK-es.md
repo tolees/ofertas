@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41KIsPlmvxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IKCY9RK-es'
+slug: 'B00IKCY9RK-es MOTUL 7100 10W40 4T 4L'
 actualPrice: 12.24 EUR
 currency: EUR
 price: 12.24

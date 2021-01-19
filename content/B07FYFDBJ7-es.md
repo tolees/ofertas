@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Trn5rJ8+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYFDBJ7-es'
+slug: 'B07FYFDBJ7-es Champion The Absolute Workout Sujetador Deportivo  Multicolor  Noir Logo 8mo   Medium para Mujer'
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

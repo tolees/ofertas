@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uHoXroPfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGYX3QW-es'
+slug: 'B06XGYX3QW-es Funko Vinyl: Valerian: Doghan Daguis  10 cm  14336 '
 actualPrice: 6.12 EUR
 currency: EUR
 price: 6.12

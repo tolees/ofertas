@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d+MrFaYWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2ZLRDR-es'
+slug: 'B07S2ZLRDR-es adidas CLAS BP Bos Mochilla de Deporte  Unisex Adulto  Real Magenta/Tech Ink/Tech Ink  NS'
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

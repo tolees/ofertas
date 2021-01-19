@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gqUZrYYRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW7YF6S-es'
+slug: 'B07JW7YF6S-es O³ Guante Dentición Bebé Lola Kids + 1 Gasas Bebe Algodon Muselina + 1 Chupete Fruta – 2 Versiones | Guante Mordedor Bebé – Ayuda La Dentición – Protege Las Manos – Mordedor Bebes Frio – Niño'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

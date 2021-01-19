@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q3oZZYguL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F86YX8Y-es'
+slug: 'B07F86YX8Y-es adidas 3Mc  Zapatillas de Skateboard Unisex Adulto  Blanco  FTWR White/FTWR White/Gold Met. FTWR White/FTWR White/Gold Met.   42 EU'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

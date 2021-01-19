@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JTlhtxAlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P23GGSS-es'
+slug: 'B07P23GGSS-es Skechers Oak Canyon-Redwick  Zapatillas para Hombre  Blanco  White Leather/Synthetic/Textile/Navy Trim Wnv   42 EU'
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

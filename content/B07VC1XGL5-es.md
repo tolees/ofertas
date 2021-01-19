@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EfdwNbhuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC1XGL5-es'
+slug: 'B07VC1XGL5-es JACK & JONES Jcopolar Sweat Half Zip Capucha  Verde  Forest Night Fit: Reg   Medium para Hombre'
 actualPrice: 12.53 EUR
 currency: EUR
 price: 12.53

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hets3u+SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RVBHK52-es'
+slug: 'B07RVBHK52-es HAMSWAN Oxímetro de Dedo con Pantalla OLED  [Regalos] Pulsioxímetro de Dedo Digital para Medición SpO2 con Alarma  Giratoria Automática  Certificado CE  Instantánea para Los Ancianos  Niños y Chicos'
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

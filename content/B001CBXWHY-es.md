@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413zKOO4REL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001CBXWHY-es'
+slug: 'B001CBXWHY-es Wolfcraft 623777000 5018000-1 Soporte para Cortar para Amoladora Angular diam. 180 y 230 mm'
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

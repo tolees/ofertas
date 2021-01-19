@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TKWUavbNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UWVIXSI-es'
+slug: 'B00UWVIXSI-es Rowenta Intense Pure Air PU6020 Purificador de Aire XL  para Habitaciones hasta 120 m²  con sensores contaminación y 4 Niveles de filtración  75 W  4 Velocidades  Plata  Blanco'
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

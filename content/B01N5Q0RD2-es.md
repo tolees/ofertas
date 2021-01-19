@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411TEkpiHHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5Q0RD2-es'
+slug: 'B01N5Q0RD2-es Tommy Hilfiger H2285arlow 1d  Zapatillas para Hombre  Gris  47 EU'
 actualPrice: 32.2 EUR
 currency: EUR
 price: 32.2

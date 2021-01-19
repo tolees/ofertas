@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oGs5gJYtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R7RBYZ-es'
+slug: 'B075R7RBYZ-es New Balance Fresh Foam Cruz v2 Knit  Zapatillas de Running para Mujer  Azul  Wild Indigo/Deep Cosmic Sky/White Munsell Kw2   37.5 EU'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

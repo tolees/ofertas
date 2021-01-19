@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PdfktW1QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019Y9ZXEK-es'
+slug: 'B019Y9ZXEK-es Orbegozo RRE 810 Emisor Térmico Bajo Consumo  5 Elementos de Calor  Pantalla Digital LCD  Mando a Distancia  Funcionamiento Programable  800 W  Color Blanco'
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

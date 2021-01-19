@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31x+0+Y2iVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNN7TSH-es'
+slug: 'B07VNN7TSH-es Tommy Hilfiger Tommy Regular Polo  Azul  Sail Blue   Small para Hombre'
 actualPrice: 33.35 EUR
 currency: EUR
 price: 33.35

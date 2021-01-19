@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31d98ArPwZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C3L56VY-es'
+slug: 'B08C3L56VY-es Montecillo Singladuras Vino blanco Denominación de origen Riax Baixas uva 100% Albariño - 3 botellas de 75cl - Total: 225 cl'
 actualPrice: 18.16 EUR
 currency: EUR
 price: 18.16

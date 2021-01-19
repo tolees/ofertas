@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tqxBKev9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DPKHKR1-es'
+slug: 'B07DPKHKR1-es Jump Force - Edición Estándar'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

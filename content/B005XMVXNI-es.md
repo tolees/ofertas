@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oReIYzhwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XMVXNI-es'
+slug: 'B005XMVXNI-es DIM Generous Sujetador  Blanco  90B para Mujer'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

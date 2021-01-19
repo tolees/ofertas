@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jOSTEhWeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TAK0V6O-es'
+slug: 'B00TAK0V6O-es Stanley XTHT0-42495 Nivel Torpedo FatMax 23cm base magnética'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cU0qWm0+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016Q0OFZI-es'
+slug: 'B016Q0OFZI-es Semillas Hortícolas - Zanahoria Nantesa 2 sel. Urgelba - Batlle'
 actualPrice: 0.79 EUR
 currency: EUR
 price: 0.79

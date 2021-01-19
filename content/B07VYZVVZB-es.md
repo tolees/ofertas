@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qw+MOc4ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYZVVZB-es'
+slug: 'B07VYZVVZB-es Skechers Solar Fuse-Lite Joy  Zapatillas para Mujer  Negro Negro Blanco Knit Mesh Trim BKW  40 EU'
 actualPrice: 23.85 EUR
 currency: EUR
 price: 23.85

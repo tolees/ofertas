@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xEYid5KnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B11FKCP-es'
+slug: 'B07B11FKCP-es Ladrón de Manzanas Cider Frutos Rojos - 4 Packs de 6 Botellas x 250 ml - Total: 6 L'
 actualPrice: 15.28 EUR
 currency: EUR
 price: 15.28

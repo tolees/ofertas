@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CVq4f2+EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0886JPML1-es'
+slug: 'B0886JPML1-es aZengear Calcetines de Compresión para Hombres y Mujeres - Medias de Compresion para Deporte - Maratones - Enfermeras - Estrés Tibial Interior - Durante Embarazo  S/M  35-42   Blanco/Gris '
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

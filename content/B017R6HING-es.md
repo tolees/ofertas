@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B57SvL7mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017R6HING-es'
+slug: 'B017R6HING-es Superga 2750 COTU Classic  Zapatillas Unisex  Verde  905 Tot Military  37 1/9 EU'
 actualPrice: 28.74 EUR
 currency: EUR
 price: 28.74

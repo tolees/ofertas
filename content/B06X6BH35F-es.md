@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61L2YLZYYzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X6BH35F-es'
+slug: 'B06X6BH35F-es Rogue Stormers'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

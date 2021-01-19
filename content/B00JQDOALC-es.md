@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41muGdwCj6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JQDOALC-es'
+slug: 'B00JQDOALC-es Sennheiser Game One Auriculares de diadema abiertas para gaming  Color Negro'
 actualPrice: 127.74 EUR
 currency: EUR
 price: 127.74

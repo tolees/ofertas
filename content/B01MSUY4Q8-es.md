@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ufCKaNlFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSUY4Q8-es'
+slug: 'B01MSUY4Q8-es Helly Hansen W Pier 2 Pant  Mujer  Ebony  XL'
 actualPrice: 83.5 EUR
 currency: EUR
 price: 83.5

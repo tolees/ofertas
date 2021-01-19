@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317DVyiRIGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017NHI25M-es'
+slug: 'B017NHI25M-es GHD Spray protector térmico  120 ml'
 actualPrice: 10.36 EUR
 currency: EUR
 price: 10.36

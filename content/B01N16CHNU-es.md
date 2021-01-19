@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tFCF+yrkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N16CHNU-es'
+slug: 'B01N16CHNU-es Dickies Slim Fit Work  Pantalones Cortos para Hombre  Azul  Dark Navy    Tamaño del fabricante:46 '
 actualPrice: 16.26 EUR
 currency: EUR
 price: 16.26

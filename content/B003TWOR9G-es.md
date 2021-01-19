@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MbFIfxtqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003TWOR9G-es'
+slug: 'B003TWOR9G-es Bosch Professional - Broca de diamante para perforación en seco Easy Dry Best for Ceramic  6 x 33 mm'
 actualPrice: 25.84 EUR
 currency: EUR
 price: 25.84

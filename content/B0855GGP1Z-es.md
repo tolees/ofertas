@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rfFb7QWsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0855GGP1Z-es'
+slug: 'B0855GGP1Z-es Office Ink Toner Reemplazo de cartuchos de tóner compatibles para Brother TN1050 para usar con HL-1110 DCP-1510 HL-1210W DCP-1610W HL-1112 MFC-1810 HL-1212W MFC-1910W DCP-1612W DCP-1512   2 piezas '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

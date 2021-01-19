@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GAj45ZE-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTTSZCV-es'
+slug: 'B07TTTSZCV-es Skechers Equalizer 4.0  Zapatillas sin Cordones para Hombre  Azul  Black Engineered Mesh/Black Trim BBK   42 EU'
 actualPrice: 34.85 EUR
 currency: EUR
 price: 34.85

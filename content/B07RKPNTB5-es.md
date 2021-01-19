@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H3IDZ6K6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKPNTB5-es'
+slug: 'B07RKPNTB5-es Tommy Hilfiger Hilfiger Slim Polo  Rojo  Primary Red   Medium  Talla del Fabricante:  para Hombre'
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

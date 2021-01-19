@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/516M1UBGwaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XP26W4F-es'
+slug: 'B07XP26W4F-es coskefy 6 Pares Calcetines Deportivos para Hombre y Mujer Calcetines Altos Algodon Transpirable Calcetin Deporte Running Antideslizantes  Negro 35-38 '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

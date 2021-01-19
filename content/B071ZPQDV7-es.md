@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512YtGpVEFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZPQDV7-es'
+slug: 'B071ZPQDV7-es Marvel VS Capcom Infinite'
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

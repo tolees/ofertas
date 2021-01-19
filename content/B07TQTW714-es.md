@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DrwvO521L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQTW714-es'
+slug: 'B07TQTW714-es Superdry Classic Superstate S/s Polo  Azul  Eclipse Navy 98t   L para Hombre'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kcWyDbyyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SX0IAHO-es'
+slug: 'B00SX0IAHO-es Unreal by Joshua Jay and Luis De Matos - DVD'
 actualPrice: 110.57 EUR
 currency: EUR
 price: 110.57

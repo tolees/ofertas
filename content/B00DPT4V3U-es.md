@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-3xmCK39L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DPT4V3U-es'
+slug: 'B00DPT4V3U-es Belkin MixIt - Cable Micro-USB de Carga y sincronización  para Smartphones y tabletas  2 m  Rojo'
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

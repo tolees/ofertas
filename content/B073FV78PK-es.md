@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F7u7pHtgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073FV78PK-es'
+slug: 'B073FV78PK-es Max Factor Healthy Skin Harmony Base de Maquillaje Tono 77 Soft Honey - 146 gr'
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

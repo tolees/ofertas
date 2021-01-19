@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bzRy+GTyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB5BKXY-es'
+slug: 'B07RB5BKXY-es DINOKA Saco De Dormir para Acampar - Bolsa de Dormir 3 Estaciones Clima Cálido y Fresco，Ligero  Impermeable para Adultos y Niños - para Equipo De Campamento  Viajes y Actividades Al Aire Libre'
 actualPrice: 18.29 EUR
 currency: EUR
 price: 18.29

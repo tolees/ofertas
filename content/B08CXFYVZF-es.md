@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3107igYcPfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CXFYVZF-es'
+slug: 'B08CXFYVZF-es Beuya Colores sólidos Cajas de Almacenamiento para máscara desechable  Cajas para mascaras  Bolsa portátil de Almacenamiento de mascarillas  Azul '
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

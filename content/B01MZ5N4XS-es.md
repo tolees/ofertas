@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RirvrepwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZ5N4XS-es'
+slug: 'B01MZ5N4XS-es Cuna de Viaje Plegable Star Ibaby Sleep & Play. Doble Altura + Cambiador + Arco de juegos.'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TCI0TcijL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DB3Y7WM-es'
+slug: 'B07DB3Y7WM-es Motorkit MOT1000 Kit Restaurador De Faros'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Fab-AOgNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0836LJKLM-es'
+slug: 'B0836LJKLM-es Lifewit 24can Nevera Portatil Bolsa Térmica Comida Doble Capa Porta Alimentos de Refrigeración Aislamiento Bolsa con Correa Ajustable para Picnics  Playa  Soporte  Camping  Gris'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

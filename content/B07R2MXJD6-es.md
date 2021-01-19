@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419q7LDgw5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R2MXJD6-es'
+slug: 'B07R2MXJD6-es Amazon Essentials Plus Size Sherpa-Lined Full-Zip Hoodie Fashion  Negro  2X'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

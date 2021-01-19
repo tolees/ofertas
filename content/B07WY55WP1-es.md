@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41stxfsfPWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WY55WP1-es'
+slug: 'B07WY55WP1-es Lydreewam Pendientes aro Colgantes De Luna Plata de Ley 925 con 3A circonia cúbica para Mujer niñas  diámetro 20mm'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

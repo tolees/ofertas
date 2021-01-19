@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rFTQSmLcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFJBNRG-es'
+slug: 'B07SFJBNRG-es Levi s Global Vulca-Low s  Zapatillas para Mujer  Negro  R Black 59   39 EU'
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

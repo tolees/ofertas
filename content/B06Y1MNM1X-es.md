@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BKpjmaRtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y1MNM1X-es'
+slug: 'B06Y1MNM1X-es Wrangler Arizona Jeans  Azul  Blue Stroke 1O   32W / 32L para Hombre'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

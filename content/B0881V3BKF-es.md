@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+zss9KUmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0881V3BKF-es'
+slug: 'B0881V3BKF-es Godya Pendientes de Tejido con Papel higiénico Divertido para niñas'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

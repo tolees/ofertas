@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JpLdSLoVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L41ACNS-es'
+slug: 'B01L41ACNS-es Havaianas Origine Slim  Alpargatas para Mujer  Negro  Black   35 EU  33 Brazilian '
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

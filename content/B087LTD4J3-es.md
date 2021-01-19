@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51h5FxaR8QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087LTD4J3-es'
+slug: 'B087LTD4J3-es Fuutuu Mini Máquinas de coser Portátil Herramienta de Puntada Rápida para Tela Ropa con Set de Costura para Uso de Viaje y Casa'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

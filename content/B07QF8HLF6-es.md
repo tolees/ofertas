@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41G7UWl5uoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QF8HLF6-es'
+slug: 'B07QF8HLF6-es cortapelos nariz y orejas recargable  4 en 1 Breett recortador pelos nariz y orejas  pelos nariz usb  Recortador para Nariz / Orejas / Ceja / Barba  4 Cabezas de Acero Inoxidable  impermeable'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BXg2OPMgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MGSMO5I-es'
+slug: 'B00MGSMO5I-es Clips 539-6004-94 - Reloj de Pulsera Hombre  Caucho  Color Negro'
 actualPrice: 18.31 EUR
 currency: EUR
 price: 18.31

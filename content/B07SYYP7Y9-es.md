@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YLy01KxHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYYP7Y9-es'
+slug: 'B07SYYP7Y9-es TedGem Raton Inalámbrico Portatil  2.4G Raton Inalambrico Mouse Raton Mouse Inalambrico Raton Gaming con Receptor USB Nano  6 Botones  para PC/Tablet/Laptop y Windows/Mac/Linux  Office Home'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

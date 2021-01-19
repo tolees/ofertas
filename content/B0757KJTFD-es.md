@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-ri1N-REL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757KJTFD-es'
+slug: 'B0757KJTFD-es Rowenta tn1422 F0 Nomad Cortapelos  batería de red de funcionamiento  Tritan revestimiento  color negro'
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

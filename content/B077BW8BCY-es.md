@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/5178NkPkO%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B077BW8BCY-es'
+slug: 'B077BW8BCY-es Montse Interiors Juego de sábanas Estampado Rayas Flash  para Cama de 180x190/200 '
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

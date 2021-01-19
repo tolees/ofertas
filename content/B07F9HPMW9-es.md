@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51td4RkzmaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9HPMW9-es'
+slug: 'B07F9HPMW9-es GREAT ART Foto Mural Imagen Panoramica de los Alpes 336 x 238 cm - Papel Pintado 8 Piezas incluye Pasta para pegar'
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

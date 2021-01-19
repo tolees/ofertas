@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pXG-GJ0OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4J7KH6-es'
+slug: 'B07D4J7KH6-es CooSpo Zwift Ant - Adaptador de Receptor USB para Garmin  Sunnto  Zwift  PerfPRO Studio  CycleOps Virtual Trainer  TrainerRoad'
 actualPrice: 18.3 EUR
 currency: EUR
 price: 18.3

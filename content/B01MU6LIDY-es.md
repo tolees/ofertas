@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DHNMLm2VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU6LIDY-es'
+slug: 'B01MU6LIDY-es FoodSaver Fresh Appliance Envasadora al vacío  25 W  Acero Inoxidable  Negro'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

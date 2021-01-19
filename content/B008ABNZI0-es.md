@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IJYbKjgXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008ABNZI0-es'
+slug: 'B008ABNZI0-es StarTech.com USB110EXT2 - Extensor de 1 Puerto USB por Cable Ethernet  40 m de Alcance'
 actualPrice: 80.04 EUR
 currency: EUR
 price: 80.04

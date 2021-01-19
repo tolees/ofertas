@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61jnmzfWuKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6YF86M-es'
+slug: 'B07V6YF86M-es Tommy Hilfiger - Business Leather Extra Cc & Coin  Carteras Hombre  Gris  Concrete Grey   1x1x1 cm  W x H L '
 actualPrice: 41.49 EUR
 currency: EUR
 price: 41.49

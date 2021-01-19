@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513+SONB1aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013QWFLLQ-es'
+slug: 'B013QWFLLQ-es Olympus OM-D E-M10 Mark II cámara de Sistema Micro Cuatro Tercios  16 megapíxeles  estabilizador de Imagen de Cinco Ejes  Visor electrónico  Negro'
 actualPrice: 308.86 EUR
 currency: EUR
 price: 308.86

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31K50z4126L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSKSWPN-es'
+slug: 'B07TSKSWPN-es StarTech.com Docking Station Thunderbolt 3 con Vídeo Doble DisplayPort de 4K - Adaptable a USB 3.1 Gen1 y Gen 2 - USB Tipo C con PD'
 actualPrice: 226.99 EUR
 currency: EUR
 price: 226.99

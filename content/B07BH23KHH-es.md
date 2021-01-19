@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T15bkHm9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BH23KHH-es'
+slug: 'B07BH23KHH-es PETCUTE Gateras Puerta Magnética Puerta para Mascotas Manual de 4 vías de Bloqueo Puerta Gato y Perro'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

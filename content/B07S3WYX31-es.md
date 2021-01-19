@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vxMLiHQ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3WYX31-es'
+slug: 'B07S3WYX31-es Asics Gel-Bondi  Zapatillas de Running para Mujer  Multicolor  Breeze/Breeze 700   42.5 EU'
 actualPrice: 28.08 EUR
 currency: EUR
 price: 28.08

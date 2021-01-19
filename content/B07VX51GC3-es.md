@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kDAAXiflL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VX51GC3-es'
+slug: 'B07VX51GC3-es Hook Scratch Art  Manualidades para Niños Niña Dibujar  Pulseras para Rascar  Paquete de 12  y 10 Magic Papel Scratch y 2 Reglas De Dibujo  3 Estilográficas De Madera'
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iiN312l2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X6VX5CT-es'
+slug: 'B07X6VX5CT-es Eastpak SPRINGER Riñonera  23 cm  2 L  Gris  Nep Whale '
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

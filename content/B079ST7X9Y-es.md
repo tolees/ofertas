@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z1FVYLA3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ST7X9Y-es'
+slug: 'B079ST7X9Y-es Desigual Jers edimburgo suéter   Negro 2000   Large para Mujer'
 actualPrice: 41.64 EUR
 currency: EUR
 price: 41.64

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yVf6BIGFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NZ3WZ2-es'
+slug: 'B079NZ3WZ2-es Hapilife Grifo 360° Giratorio Grifo de Cocina Grifo de Fregadero Montado en la pared Monomando para Fregadero Grifo de Cuenca Agua Fría y Caliente Cromado'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

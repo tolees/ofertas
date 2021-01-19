@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IZFRtxJJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9RTWX8-es'
+slug: 'B07S9RTWX8-es PUMA Flyer Runner  Zapatillas para Correr de Carretera Unisex Adulto  Negro Black/High Risk Red  44 EU'
 actualPrice: 25.01 EUR
 currency: EUR
 price: 25.01

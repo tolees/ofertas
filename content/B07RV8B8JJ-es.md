@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+AObs5xgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RV8B8JJ-es'
+slug: 'B07RV8B8JJ-es Adidas Originals Continental 80  Zapatillas para Correr para Hombre  Blanco Footwear White Grey Grey 0  40 2/3 EU'
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

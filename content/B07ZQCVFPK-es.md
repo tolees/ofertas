@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ikis5Uk1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZQCVFPK-es'
+slug: 'B07ZQCVFPK-es ONEMIX - Zapatillas de correr para hombre Air  color Azul  talla 41 EU'
 actualPrice: 58.18 EUR
 currency: EUR
 price: 58.18

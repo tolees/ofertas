@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318gLKTuY9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRWRGMD-es'
+slug: 'B07SRWRGMD-es Armani Exchange Icon Tracksuit Bottom Pantalones de Deporte  Gris  Bc09 Grey 3930   56  Talla del Fabricante: XX-Large  para Hombre'
 actualPrice: 19.87 EUR
 currency: EUR
 price: 19.87

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tPOLNBEfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MCXN2V-es'
+slug: 'B075MCXN2V-es Cable USB Tipo C CHOETECH USB C a USB 3.0  2 x 2M + 1M  Cable de Carga Nylon Trenzado para Samsung Galaxy S9 / S9 Plus/Note 8 / S8 S8 Plus  Huawei P20 / P10 / Mate 9  LG G5 / G6 / V20  HTC 10'
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

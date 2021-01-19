@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TRjTvrqLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFLTCR4-es'
+slug: 'B07KFLTCR4-es adidas RUNFALCON  Running Shoe Mens  Footwear White/Footwear White/Footwear White  41 1/3 EU'
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

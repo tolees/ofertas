@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x1dWDnNvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTPBT9X-es'
+slug: 'B07CTPBT9X-es Skechers Flex Advantage 3.0-Stally  Zapatillas Deportivas para Hombre  Azul  Navy   43 EU'
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

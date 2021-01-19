@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iHM4BV-UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXLFBF7-es'
+slug: 'B07RXLFBF7-es New Balance 997H h  Zapatillas para Hombre  Azul  Navy Hex   42 EU'
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F0eJjVKNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DMKX868-es'
+slug: 'B07DMKX868-es Festina Reloj de Pulsera F20397/2'
 actualPrice: 101.17 EUR
 currency: EUR
 price: 101.17

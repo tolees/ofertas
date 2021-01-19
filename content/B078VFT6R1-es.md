@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31f0FnCetxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078VFT6R1-es'
+slug: 'B078VFT6R1-es Sorel Nakiska Slide II  Zapatillas de casa para Mujer  Beige  British Tan  Natural 265   40 EU'
 actualPrice: 39 EUR
 currency: EUR
 price: 39

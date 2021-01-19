@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ixSrmIJiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0754NMR3V-es'
+slug: 'B0754NMR3V-es Salomon Shorts para running  AGILE 7"  tafetán  negro  hombre  talla: XS  l40118300'
 actualPrice: 20.32 EUR
 currency: EUR
 price: 20.32

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314WGJ6FLaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC1GL7Y-es'
+slug: 'B07WC1GL7Y-es adidas Tiro 19 Cotton Pant Pantalones  Hombre  Tech Ink/White  XL'
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

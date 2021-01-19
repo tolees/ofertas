@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uvMeFoyPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGH1J35-es'
+slug: 'B07DGH1J35-es Dreaming Kamahaus Damas Colchón  67 5x190'
 actualPrice: 50.73 EUR
 currency: EUR
 price: 50.73

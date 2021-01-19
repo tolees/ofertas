@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vCaGggZfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0827TLDK9-es'
+slug: 'B0827TLDK9-es Caja de proyectos de electrónica  caja de aluminio fundida BE-TOOL  caja de conexión para alimentación externa  exterior  caja de conexiones impermeable completa con conector  1 unidad   plateado'
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

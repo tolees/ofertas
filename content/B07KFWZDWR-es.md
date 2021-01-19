@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QzSiWc8dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFWZDWR-es'
+slug: 'B07KFWZDWR-es PUMJV|#Puma Defy Wn s Zapatillas Deportivas para Interior Mujer  Rosa  Bridal Rose-Puma White 23   4  37 EU  EU  4 UK '
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

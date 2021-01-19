@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yn7Frz8rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0856XWK5P-es'
+slug: 'B0856XWK5P-es Jabra Speak 750 - Altavoz Portátil para Conferencias con Adaptador Bluetooth y USB  Certificado para Comunicaciones Unificadas  Compatible con PC  Smartphones y Tabletas'
 actualPrice: 233.86 EUR
 currency: EUR
 price: 233.86

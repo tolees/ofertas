@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oAux9WIzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081D5T4DH-es'
+slug: 'B081D5T4DH-es Candy CS 1292D3/P-S - Lavadora carga frontal 9Kgs  16 programas  1200rpm  programas rápidos  NFC  61dba  display digital táctil  clase A+++  color blanco'
 actualPrice: 198.0 EUR
 currency: EUR
 price: 198.0

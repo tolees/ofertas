@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PKdtklDWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079K1W3KB-es'
+slug: 'B079K1W3KB-es Corsair Carbide 275R - Caja de ordenador semitorre  para juegos  Torre Media ATX con ventana de vidrio templado   negro'
 actualPrice: 55.22 EUR
 currency: EUR
 price: 55.22

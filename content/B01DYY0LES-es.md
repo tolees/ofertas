@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41edLDJ1goL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DYY0LES-es'
+slug: 'B01DYY0LES-es Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable F16909/2'
 actualPrice: 56.76 EUR
 currency: EUR
 price: 56.76

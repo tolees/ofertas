@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DxG-ZWvRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0778JZRRS-es'
+slug: 'B0778JZRRS-es Pro Breeze Calefactor Eléctrico Cerámico 500W - con Termostato Ajustable  Bajo Consumo y Protección contra Sobrecalentamiento - Calentador de Cerámica PTC'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

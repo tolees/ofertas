@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ey0KgBOrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BNBELGI-es'
+slug: 'B01BNBELGI-es Hugo Boss Orange 1513351 - Reloj analógico de pulsera para hombre  correa de piel'
 actualPrice: 61.0 EUR
 currency: EUR
 price: 61.0

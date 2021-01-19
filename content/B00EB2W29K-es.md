@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CuUZunO1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EB2W29K-es'
+slug: 'B00EB2W29K-es WMF Lineo Picadora de 500 W y 5000 RPM de 2 velocidades  con capacidad de 0 5 L  cuchillas de acero inoxidable y acabados en Acero Inoxidable de cromargan Mate'
 actualPrice: 46.34 EUR
 currency: EUR
 price: 46.34

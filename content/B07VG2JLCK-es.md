@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QyEdZRm+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VG2JLCK-es'
+slug: 'B07VG2JLCK-es Tommy Hilfiger Corporate Belt 2.5 Cinturón  Marrón  Cognac Gb8   Medium  Talla del fabricante: 90  para Mujer'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

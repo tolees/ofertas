@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tCHxOI3lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GIRU3PG-es'
+slug: 'B00GIRU3PG-es B+W Vario XS-Pro - Filtro ND de 58 mm MRC Nano'
 actualPrice: 156.14 EUR
 currency: EUR
 price: 156.14

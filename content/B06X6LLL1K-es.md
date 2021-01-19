@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31AXlM0A1QL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X6LLL1K-es'
+slug: 'B06X6LLL1K-es Braun MQ 3025 Spaghetti - Licuadora  600 L  0 35 L  Botones  13500 RPM  Batidora de inmersión  Azul  Blanco '
 actualPrice: 35 EUR
 currency: EUR
 price: 35

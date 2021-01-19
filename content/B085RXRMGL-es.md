@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ik7q7-pXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085RXRMGL-es'
+slug: 'B085RXRMGL-es Dunlop Fusion Elite Amarilla 2019'
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

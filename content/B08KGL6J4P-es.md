@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415Ke3c93YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08KGL6J4P-es'
+slug: 'B08KGL6J4P-es NOVELA Apto para NiñOs Estudiantes  Linda ImpresióN  3 Capas ProteccióN  Necesidades Diarias 50 Pcs'
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

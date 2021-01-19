@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w9yEy1NPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F2HC1Z8-es'
+slug: 'B08F2HC1Z8-es Auriculares Bluetooth 5.0  Auricular Inalámbrico Control Táctil con Graves Profundos In-Ear Auriculares Bluetooth con Caja de Carga Rápida IPX5 Impermeables  para Android/iPhone/Airpods/Samsung'
 actualPrice: 33.8 EUR
 currency: EUR
 price: 33.8

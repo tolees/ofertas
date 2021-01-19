@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31J5j+cYa4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JMZV9-es'
+slug: 'B07N1JMZV9-es Clarks Un Elda Mid  Botas Slouch para Mujer  Negro  Black Combi Black Combi   35.5 EU'
 actualPrice: 26.21 EUR
 currency: EUR
 price: 26.21

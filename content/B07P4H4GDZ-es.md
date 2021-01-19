@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WtqgSkBdL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4H4GDZ-es'
+slug: 'B07P4H4GDZ-es Herbalgem Osteogem - 30 gr'
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

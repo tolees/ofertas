@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nd-SfW4QL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0129ZKAEO-es'
+slug: 'B0129ZKAEO-es Bulova Marine Star 98B258 - Reloj de pulsera de diseño para hombre - Función de cronógrafo - Correa de goma - Resistente al agua - Esfera azul'
 actualPrice: 253.61 EUR
 currency: EUR
 price: 253.61

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nKyLyKXnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WSDVJW-es'
+slug: 'B087WSDVJW-es Toalla mágica de Alta Elasticidad Multifuncional Ac247 - Multi-Coloour'
 actualPrice: 4.77 EUR
 currency: EUR
 price: 4.77

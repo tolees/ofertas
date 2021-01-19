@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yDAS9MrNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4DSPLX-es'
+slug: 'B07B4DSPLX-es Skechers Bikers-Lineage  Botas Estilo Motero para Mujer  Marrón  Chocolate Suede/Flash Chocolate   35.5 EU'
 actualPrice: 18.31 EUR
 currency: EUR
 price: 18.31

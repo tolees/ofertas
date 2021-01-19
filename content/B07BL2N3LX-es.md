@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414BV03mEuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL2N3LX-es'
+slug: 'B07BL2N3LX-es New Balance Fresh Foam 1080v9  Zapatillas de Running para Mujer  Blanco  White/Black/Voltage Violet   38 EU'
 actualPrice: 55.08 EUR
 currency: EUR
 price: 55.08

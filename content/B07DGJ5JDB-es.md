@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o19+Fm-jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGJ5JDB-es'
+slug: 'B07DGJ5JDB-es Skechers Boys  Flex-Glow Trainers  Black  Black Blue Lime Bblm   13 UK 32 EU'
 actualPrice: 36.51 EUR
 currency: EUR
 price: 36.51

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31M6VSgRnWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHDT2XZ-es'
+slug: 'B07FHDT2XZ-es SALOMON Agile 2In1 Short M Pantalones Cortos  Hombre  Negro  Black   XL'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

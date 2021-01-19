@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xK2I9dPOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSG374Z-es'
+slug: 'B07NSG374Z-es Silence'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

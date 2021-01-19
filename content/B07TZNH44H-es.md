@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uyCfv0-ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZNH44H-es'
+slug: 'B07TZNH44H-es Skechers Skech-Air Dynamight-Fast Brak  Zapatillas para Mujer  Negro  Black Mesh/Black Trim BBK   37.5 EU'
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

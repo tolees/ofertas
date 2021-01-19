@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bKUbO9BIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4XFV1Z-es'
+slug: 'B07W4XFV1Z-es Craft Short Progress Longer Shorts Contrast'
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

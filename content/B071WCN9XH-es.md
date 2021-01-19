@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Z5lB7UEAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WCN9XH-es'
+slug: 'B071WCN9XH-es Reebok Club C 85 Melted Metal  Zapatillas de Deporte para Mujer  Gris  Pearl Met-Grey Gold/White   38 EU'
 actualPrice: 47.4 EUR
 currency: EUR
 price: 47.4

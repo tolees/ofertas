@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zXRPH2RIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010SPYLOC-es'
+slug: 'B010SPYLOC-es Elizabeth Arden Always Red - Agua de toilette  50 ml'
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

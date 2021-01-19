@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fs3fN5cHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T2XX7EM-es'
+slug: 'B00T2XX7EM-es Remington Reveal FC1000 - Cepillo Limpiador Facial  Cabezal Giratorio  3 Accesorios  Uso Seco y Mojado  Verde'
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

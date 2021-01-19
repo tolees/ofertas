@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51REikztIzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8GPXLV-es'
+slug: 'B07X8GPXLV-es Hot Mom Multi cochecito cochecito 2 en 1 con buggy 2020 nuevo diseño  Asiento para bebé vendido por separado  Negro '
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

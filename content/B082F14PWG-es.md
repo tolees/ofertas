@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410S2xTvZIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082F14PWG-es'
+slug: 'B082F14PWG-es ODLICNO Mini cámara de Seguridad WiFi Inalámbrica Cámara Oculta HD 1080P Mini Cámara Secreta Cámara de niñera Grabadora de Video en Interiores Activada por Movimiento/Visión Nocturna'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

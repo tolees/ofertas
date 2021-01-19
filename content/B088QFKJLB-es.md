@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HrPAZ3cjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088QFKJLB-es'
+slug: 'B088QFKJLB-es taquxinlaowan Caballo Palomino en el Desierto de Arena con Melena Rubia Ducha de Animales Salvajes'
 actualPrice: 20.06 EUR
 currency: EUR
 price: 20.06

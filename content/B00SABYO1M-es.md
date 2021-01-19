@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kg-kz2v1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SABYO1M-es'
+slug: 'B00SABYO1M-es Nike Everyday Lightweight Crew Trainings Socks  3 Pairs   Calcetines Hombre  Negro  black/White   34–38  Talla del fabricante: S '
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

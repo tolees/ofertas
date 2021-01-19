@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M53-n4qTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LAMQOOC-es'
+slug: 'B01LAMQOOC-es Funko - Pop! Vinilo Colección The Walking Dead - Figura Negan  11070 '
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

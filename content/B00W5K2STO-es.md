@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41InO5pfwtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W5K2STO-es'
+slug: 'B00W5K2STO-es adidas GT SN Bra Sujetador  Mujer  Negro  Black/Black   XS'
 actualPrice: 24.77 EUR
 currency: EUR
 price: 24.77

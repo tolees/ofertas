@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51f1FY+oi-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SR22B5Y-es'
+slug: 'B07SR22B5Y-es BRIKSMAX Kit de Iluminación Led para Lego Black Panther Royal Talon Fighter Attack  Compatible con Ladrillos de Construcción Lego Modelo 76100  Juego de Legos no Incluido'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

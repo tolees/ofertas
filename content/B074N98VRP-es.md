@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eVE6y9W8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074N98VRP-es'
+slug: 'B074N98VRP-es Canon 12x32 IS - Prismático  12x  diámetro Efectivo de 32 mm  óptica de Prisma Porro II  estabilizador de Imagen motorizado  Negro'
 actualPrice: 811.95 EUR
 currency: EUR
 price: 811.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pqgecjbOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQVGXGK-es'
+slug: 'B07BQVGXGK-es Maytronics 9995670-ASSY - Cuadro alimentacion basico para robot piscina Dolphin'
 actualPrice: 83.54 EUR
 currency: EUR
 price: 83.54

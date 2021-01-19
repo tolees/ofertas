@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Iz28xxaUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LTCH4G-es'
+slug: 'B071LTCH4G-es New Balance Pc574v1 Zapatillas Unisex Niños  Negro  Black/grey   31 EU  12.5 UK '
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

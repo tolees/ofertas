@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PB50vVChL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ULPNXXK-es'
+slug: 'B00ULPNXXK-es The North Face Hedgehog Fastpack GTX  Botas para Hombre  Negro  TNF Black/High Rise Grey   42.5 EU'
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

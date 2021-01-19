@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hNMcyEVYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GZ4TIHK-es'
+slug: 'B01GZ4TIHK-es Licor del Polo - Pasta de dientes 2 en 1 Blanqueador avanzado - 6 uds de 100 ml'
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

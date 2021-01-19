@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DJTWnIjRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0091OZ0JC-es'
+slug: 'B0091OZ0JC-es BabyBjörn Balance soft - Hamaca  Negro /Gris oscuro'
 actualPrice: 115.98 EUR
 currency: EUR
 price: 115.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rXx5eE+zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQ2LN3D-es'
+slug: 'B07QQ2LN3D-es Funko- Pop Disney: Frozen 2-Young Elsa Figura coleccionable  Multicolor  40888 '
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412EZhMmIUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RY91JR5-es'
+slug: 'B07RY91JR5-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars TM Caza Estelar ala-X  Compatible con Ladrillos de Construcción Lego Modelo 75218  Juego de Legos no Incluido'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

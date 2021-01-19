@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414QAHIFMrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZPJ3KH-es'
+slug: 'B07CZPJ3KH-es Under Armour HG Armour Graphic Legging Leggings  Mujer  Gris  Pitch Gray Light Heather/Black 012   XS'
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

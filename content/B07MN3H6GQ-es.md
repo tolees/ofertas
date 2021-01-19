@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ef+7sDYYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN3H6GQ-es'
+slug: 'B07MN3H6GQ-es Lee Whiz IT Coverall Petos  Azul  Frost Blue MJ   Medium para Mujer'
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514XGKMsZtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UJV8AJ8-es'
+slug: 'B00UJV8AJ8-es Final Fantasy XIV: Heavensward'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

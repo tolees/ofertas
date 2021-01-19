@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516OhedisfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVB1YDC-es'
+slug: 'B07NVB1YDC-es modamoda de - cuero italiano de embrague T151 Pequeño Gamuza  Color:amarillento Brown'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

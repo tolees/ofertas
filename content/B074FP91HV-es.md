@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zaC3EvM9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FP91HV-es'
+slug: 'B074FP91HV-es Reloj Festina - Mujer F20336/1'
 actualPrice: 93.57 EUR
 currency: EUR
 price: 93.57

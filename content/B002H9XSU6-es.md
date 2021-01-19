@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hu6y4bwKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002H9XSU6-es'
+slug: 'B002H9XSU6-es Piz Buin - After Sun Loción Hidratante  Intensificadora del Bronceado After Sun - Bote 200 ml'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

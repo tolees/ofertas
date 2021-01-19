@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EDX0DWF-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HPDBKKQ-es'
+slug: 'B07HPDBKKQ-es Apple iPhone XS  de 512GB  - Oro'
 actualPrice: 938.9 EUR
 currency: EUR
 price: 938.9

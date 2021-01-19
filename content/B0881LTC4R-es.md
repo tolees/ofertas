@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e7g6B9MdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0881LTC4R-es'
+slug: 'B0881LTC4R-es Jeteven Dispensador de desinfección automático  dispensador de Spray sin Contacto con Sensor  eléctrico pulverizador con Sensor de Limpieza de Manos  para Escuela Restaurante Oficina hogar  360ml '
 actualPrice: 37.59 EUR
 currency: EUR
 price: 37.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NPk8+ZxEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5NZ6BS-es'
+slug: 'B07R5NZ6BS-es Viviance Universal Motocicleta Quad Pit Dirt Moto Tambor Interruptor De Luz De Freno Trasero Kit De Resorte'
 actualPrice: 3.28 EUR
 currency: EUR
 price: 3.28

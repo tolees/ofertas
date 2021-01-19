@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zqqYdPtcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083NJLSP3-es'
+slug: 'B083NJLSP3-es Prenine Funda de Silicona para Control Remoto  Funda de protección contra caídas'
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

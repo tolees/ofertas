@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61EDwAc3wYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AJV5R6G-es'
+slug: 'B01AJV5R6G-es Zooloretto junior'
 actualPrice: 12.62 EUR
 currency: EUR
 price: 12.62

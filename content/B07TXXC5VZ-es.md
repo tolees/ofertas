@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZyN180NPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXXC5VZ-es'
+slug: 'B07TXXC5VZ-es Wrangler Texas Contrast Hombre Jeans  Azul  Mistral Green 156   33W / 30L'
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FQup7lkyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZYRNKX-es'
+slug: 'B079ZYRNKX-es Domestos Axe Desodorante Spray 2012 Final Edition sin aluminio 150 ml  3 Pack  3 x 150 ml '
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

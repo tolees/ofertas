@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YJ4uskMBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VX6ULWM-es'
+slug: 'B00VX6ULWM-es Revlon ColorStay Base de Maquillaje piel normal/seca FPS20  #180 Sand Beige  30ml'
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

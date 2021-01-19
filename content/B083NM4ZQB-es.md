@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31H8ow01CCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083NM4ZQB-es'
+slug: 'B083NM4ZQB-es 1 unid profesional salón peluquería tinte crema batidor plástico mezclador de pelo barber agitador cuidado del cabello herramientas de peinado licuadora - negro'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

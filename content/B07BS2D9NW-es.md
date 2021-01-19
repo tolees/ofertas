@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l3afcrgpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BS2D9NW-es'
+slug: 'B07BS2D9NW-es Salomon XA Pro 3D Winter TS CSWP J  Calzado de Invierno Unisex Niños  Negro/Naranja  Black/Magnet/Tangelo   35 EU'
 actualPrice: 54.48 EUR
 currency: EUR
 price: 54.48

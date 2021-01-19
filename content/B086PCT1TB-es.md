@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rv0AK7+8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086PCT1TB-es'
+slug: 'B086PCT1TB-es Funda para Samsung Galaxy S10 Lite + [2 Pack] Cristal Templado Protector de Pantalla Suave TPU Transparente Gel Silicona Anti-caída Protectora Carcasa para Samsung Galaxy S10 Lite  6.7 Pulgadas '
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

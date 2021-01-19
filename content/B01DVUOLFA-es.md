@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5191SbGqNYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DVUOLFA-es'
+slug: 'B01DVUOLFA-es NZI 150262G860 Capital Visor Graphics Bloom Casco de Moto  Talla M 57-58 '
 actualPrice: 43.33 EUR
 currency: EUR
 price: 43.33

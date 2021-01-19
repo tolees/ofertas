@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318BUQ4dOjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078PP3V1J-es'
+slug: 'B078PP3V1J-es Acer ED3 Monitor  69 cm  27"   Curved 1800R ZeroFrame  144Hz G-SYNC Compatible/Adaptive Sync 4ms 100M:1 A cm  250nits Va LeD DVI HDMI  DP Audio out EURO/UK EmEA  White  EcoDisplay  Blanco'
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

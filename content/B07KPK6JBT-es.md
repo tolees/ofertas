@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hm3NwrZLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPK6JBT-es'
+slug: 'B07KPK6JBT-es Funko- Pop Vinilo: Kiss: Spaceman Figura Coleccionable  Multicolor  Estándar  28506 '
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

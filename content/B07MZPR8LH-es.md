@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zeX4kWzrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPR8LH-es'
+slug: 'B07MZPR8LH-es Pop! Vinilo: Dragonball Z S6: Radditz'
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

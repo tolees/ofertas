@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hEDk7nfXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTQNRBN-es'
+slug: 'B07CTQNRBN-es FIND - Bon voyage - Paleta de cuatro sombras de ojos n.3'
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

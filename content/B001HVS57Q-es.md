@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31t1LKQ+EfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001HVS57Q-es'
+slug: 'B001HVS57Q-es Beurer UB30 Calientacamas individual 100% algodón en capa superior  transpirable  lavable a mano  3 potencias  display iluminado  cama individual  75x130cm  blanco'
 actualPrice: 34.47 EUR
 currency: EUR
 price: 34.47

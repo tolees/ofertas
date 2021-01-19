@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31S7197H-kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RB6TKW-es'
+slug: 'B000RB6TKW-es reisenthel CU 0004 - Carro de la Compra  Color Rojo'
 actualPrice: 14.47 EUR
 currency: EUR
 price: 14.47

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417E4eBQwHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XG61NM9-es'
+slug: 'B07XG61NM9-es Lovecraft s Untold Stories'
 actualPrice: 21.48 EUR
 currency: EUR
 price: 21.48

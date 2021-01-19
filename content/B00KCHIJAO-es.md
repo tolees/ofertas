@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L7h4rQ2DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KCHIJAO-es'
+slug: 'B00KCHIJAO-es BLEND Jeans-Noos Cirrus Parte de Arriba  Blau  Fane 76119-L32   W31/ L32  31  para Hombre'
 actualPrice: 29.22 EUR
 currency: EUR
 price: 29.22

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QtAdO6TyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFTJKFD-es'
+slug: 'B07FFTJKFD-es Juguetes Montessori Puzzle 3D DIY 200 Piezas Rompecabezas Bloques Construccion con Taladro de Juguete y 12 Luces LED Juegos Educativos Regalos para Niños 3 4 5 6 Años'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

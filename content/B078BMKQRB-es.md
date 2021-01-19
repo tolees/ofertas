@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61LFR8h9qXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078BMKQRB-es'
+slug: 'B078BMKQRB-es TACKLIFE Papeles de Lija de 40 Piezas 40  80  120  240 Granos Surtidos 140x140x100mm ASD01C Papeles de Lija Abrasivos con 5 Agujeros  Velcro Durable para Lijadora de 140mm  Seco  Cambio Rápido'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

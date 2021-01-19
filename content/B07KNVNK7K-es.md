@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E0pHm6KWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KNVNK7K-es'
+slug: 'B07KNVNK7K-es adidas 4k SPR GF Bos Pantalones Cortos de Deporte  Hombre  Black  XS'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

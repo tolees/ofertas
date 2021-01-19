@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ucVa8jobL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B007ZSUMCQ-es'
+slug: 'B007ZSUMCQ-es NanoCable 10.15.0305 - Cable HDMI V1.3 alta velocidad  1080P  tipo A macho-macho  A/M-A/M  negro  5mts'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

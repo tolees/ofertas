@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/510A9E13GQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YKVZZ3J-es'
+slug: 'B07YKVZZ3J-es SeeKool Bandas de Fitness/Bandas de Resistencia  5 Tubos de Ejercicios  con Asas  Correas de Tobillo y Anclaje  para Culturismo Rehabilitación  Yoga e Pilates  Gimnasio en casa Hombre y Mujer'
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

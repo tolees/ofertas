@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Nz-+BS1NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5SPNSY-es'
+slug: 'B07W5SPNSY-es Usogood - Prismáticos  10 x 25 mm  compactos  resistentes al agua '
 actualPrice: 10.22 EUR
 currency: EUR
 price: 10.22

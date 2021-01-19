@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61CAbPZ6jNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JYW2F1G-es'
+slug: 'B01JYW2F1G-es Witcher 3: Wild Hunt - Game of The Year. Versión inglesa'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

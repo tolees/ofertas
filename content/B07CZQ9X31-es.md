@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31JmUuYxYaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZQ9X31-es'
+slug: 'B07CZQ9X31-es Under Armour Favorite Legging WM Ar Leggings  Mujer  Gris  Pitch Gray Medium Heather/Black 012   XS'
 actualPrice: 14.74 EUR
 currency: EUR
 price: 14.74

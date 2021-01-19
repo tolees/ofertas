@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ImNeJQEjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D57HBYB-es'
+slug: 'B07D57HBYB-es COMVIP Mujer cobre'
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

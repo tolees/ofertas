@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L-Cdu4HCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNCSQXF-es'
+slug: 'B07HNCSQXF-es Aerocool Cs105Rd Caja De Ordenador Con Ventana Acrílica  Ventilador Frontal  Rojo'
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

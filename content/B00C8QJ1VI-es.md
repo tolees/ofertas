@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uMOIw5sQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C8QJ1VI-es'
+slug: 'B00C8QJ1VI-es Superga 2750 COTU Classic  Zapatillas Unisex  Marrón  Brown Dk  Chocolate  35 EU'
 actualPrice: 25.55 EUR
 currency: EUR
 price: 25.55

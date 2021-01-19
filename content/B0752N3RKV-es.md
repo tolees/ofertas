@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pjtkvKg4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0752N3RKV-es'
+slug: 'B0752N3RKV-es G-STAR RAW 5620 Elwood 3D Slim Jeans  Azul  medium aged 9118-071   28W / 30L para Hombre'
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

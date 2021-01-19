@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RN0L9xqsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY9Z6PX-es'
+slug: 'B01MY9Z6PX-es Victoria Basket Lona Piso Negro  Zapatillas Unisex Adulto  Negro  41'
 actualPrice: 35.21 EUR
 currency: EUR
 price: 35.21

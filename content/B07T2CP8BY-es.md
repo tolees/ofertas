@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41He6WDoDaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T2CP8BY-es'
+slug: 'B07T2CP8BY-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 12131-008'
 actualPrice: 95.43 EUR
 currency: EUR
 price: 95.43

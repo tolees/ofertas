@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31H7V5aZbzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KXEGPG0-es'
+slug: 'B01KXEGPG0-es Reloj para mujer Hugo Boss 1502395.'
 actualPrice: 151.34 EUR
 currency: EUR
 price: 151.34

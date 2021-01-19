@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EkCWBv+kL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JRUJ9XW-es'
+slug: 'B01JRUJ9XW-es Buff Merino  Gorro lana unisex  Negro   Thermalblack   Talla unica'
 actualPrice: 19.26 EUR
 currency: EUR
 price: 19.26

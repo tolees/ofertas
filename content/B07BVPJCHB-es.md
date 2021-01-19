@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31207UGI0CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVPJCHB-es'
+slug: 'B07BVPJCHB-es CERRXIAN Cable adaptador RJ45 uno-dos  nuevo  El adaptador RJ451 to 2 de 15 cm se puede usar para cambiar de red entre dos computadoras  sin dividir la red '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

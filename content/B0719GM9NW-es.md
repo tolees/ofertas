@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51snijciIZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719GM9NW-es'
+slug: 'B0719GM9NW-es Index CKBB48290 Bridas de Nylon  Blanco  4 8 x 290 mm  Set de 1000 Piezas'
 actualPrice: 11 EUR
 currency: EUR
 price: 11

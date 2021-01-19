@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N47CogteL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5IY7JC-es'
+slug: 'B01M5IY7JC-es G-STAR RAW Ladd Belt Cinturón  Marrón  Dk Cognac/Antic Silver 8128   75 para Hombre'
 actualPrice: 20.73 EUR
 currency: EUR
 price: 20.73

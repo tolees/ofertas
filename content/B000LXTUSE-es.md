@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WeIpHJH6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LXTUSE-es'
+slug: 'B000LXTUSE-es Versele-laga NUTRIBIRD B14 PERICO 800g 22066'
 actualPrice: 4.39 EUR
 currency: EUR
 price: 4.39

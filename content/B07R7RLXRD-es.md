@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mj0lKVdxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7RLXRD-es'
+slug: 'B07R7RLXRD-es Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 18703/3'
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

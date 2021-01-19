@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WX7UlES8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4V4KZ5-es'
+slug: 'B07R4V4KZ5-es Helly Hansen Classic Duffel Bolsa De Viaje Impermeable Deporte  Unisex Adulto  azid Lime  50L'
 actualPrice: 48.06 EUR
 currency: EUR
 price: 48.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vWVM9WuAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q13QVTK-es'
+slug: 'B07Q13QVTK-es Under Armour UA HOVR Rise  Zapatillas Deportivas para Interior para Hombre  Verde  Gravity Green/Pitch Gray/Pink Surge   44 EU'
 actualPrice: 34.67 EUR
 currency: EUR
 price: 34.67

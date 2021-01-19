@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4139V3CzsqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LPQ2DBG-es'
+slug: 'B01LPQ2DBG-es Babaria Vinagre Champú Protección Natural Cabello 600 ml 1 Unidad 600 g'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

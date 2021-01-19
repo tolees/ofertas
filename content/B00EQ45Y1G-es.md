@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L9D+mRgIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EQ45Y1G-es'
+slug: 'B00EQ45Y1G-es Trípode para altavoces de poliamida con bolsa de transporte'
 actualPrice: 38.02 EUR
 currency: EUR
 price: 38.02

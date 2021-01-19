@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313qxXx2lgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3HRWNW-es'
+slug: 'B07L3HRWNW-es adidas Advantage  Zapatillas de Gimnasia para Hombre  Blanco  FTWR White/FTWR White/Green FTWR White/FTWR White/Green   38 2/3 EU'
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

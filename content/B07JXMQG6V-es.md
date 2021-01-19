@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51qljnDbp6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXMQG6V-es'
+slug: 'B07JXMQG6V-es Chantelle DE Pyramide Sujetador  Beige  Champagner NL   85D  Talla del Fabricante: 70D  para Mujer'
 actualPrice: 30.27 EUR
 currency: EUR
 price: 30.27

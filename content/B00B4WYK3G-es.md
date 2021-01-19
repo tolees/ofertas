@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/317L0l-7AtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B4WYK3G-es'
+slug: 'B00B4WYK3G-es Viñas  Tratamiento para pestañas'
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

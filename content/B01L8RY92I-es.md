@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ADoy5+JuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L8RY92I-es'
+slug: 'B01L8RY92I-es Leathario cinturón de piel para hombre con hebilla de metal-negro'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

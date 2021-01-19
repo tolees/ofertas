@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SUe71LsYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0714BMC1K-es'
+slug: 'B0714BMC1K-es Destiny Games Figura de Vinilo Oryx  Funko 20366 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

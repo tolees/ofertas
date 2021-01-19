@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4190JeVvmmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813SWCCV-es'
+slug: 'B0813SWCCV-es FIDECH Masajeador Portátil  7 Modos de Frecuencia  Silicona Suave  Impermeable  Carga USB'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

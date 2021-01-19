@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UXQEQIPSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2JRFSF-es'
+slug: 'B07N2JRFSF-es Intey 3-in-1 Wall Detector with LCD Display and Beep for Stud Line Detector with 3 Modes for Metal Wood AC Cable'
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

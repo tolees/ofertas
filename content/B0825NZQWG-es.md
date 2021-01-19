@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TweiBaGHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NZQWG-es'
+slug: 'B0825NZQWG-es Quiksilver On Tour-Licra De Manga Corta con Protección Solar UPF 50 para Hombre S/SL Surf tee  Black  M'
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

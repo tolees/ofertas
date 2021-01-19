@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51G81vB5ehL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KDX14X-es'
+slug: 'B072KDX14X-es Far Cry 5 - The Father Edition'
 actualPrice: 63.89 EUR
 currency: EUR
 price: 63.89

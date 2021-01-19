@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+B31HRSLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N43PCMT-es'
+slug: 'B07N43PCMT-es Desigual Blouse Lucia Blusas  Orange  Cobre 7006   L para Mujer'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

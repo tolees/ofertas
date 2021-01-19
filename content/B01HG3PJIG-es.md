@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fswiIPamL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HG3PJIG-es'
+slug: 'B01HG3PJIG-es adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Vapour Pink/White/Gold Metalic   44 2/3 EU'
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

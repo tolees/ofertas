@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IPcBO6G3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H4ZXM62-es'
+slug: 'B01H4ZXM62-es Russell Hobbs 23590-56 Plancha de vapor  2400 W  color azul y blanco  240 milliliters  Cerámica'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

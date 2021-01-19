@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/518zdIi86FL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1WSY1C-es'
+slug: 'B07S1WSY1C-es Melissa Pack Hilo Acrílico Ovillos de Lanas de Hilo Lana Prémium Hilados Madejas - Perfecto para DIY y Tejer a Mano  Color Azul  50 g * 10 unidades '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

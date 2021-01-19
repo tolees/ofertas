@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fVyorBNFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00004UFOO-es'
+slug: 'B00004UFOO-es Crayola Super Tips Washable Markers'
 actualPrice: 14.81 EUR
 currency: EUR
 price: 14.81

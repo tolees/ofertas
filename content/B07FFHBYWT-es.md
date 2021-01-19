@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dnqOiMh3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFHBYWT-es'
+slug: 'B07FFHBYWT-es G-STAR RAW Rovic Mid Waist Skinny Pantalones  Negro  dk Black 5126-6484   W27/L32  Talla del Fabricante: 27W / 32L  para Mujer'
 actualPrice: 24.21 EUR
 currency: EUR
 price: 24.21

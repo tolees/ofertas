@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51n7kdZUOUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LYHMPF-es'
+slug: 'B085LYHMPF-es El Sexto Día  BD  [Blu-ray]'
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

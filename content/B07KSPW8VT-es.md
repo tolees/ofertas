@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IumiAnD2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSPW8VT-es'
+slug: 'B07KSPW8VT-es Climatizador Frio Y Calor // 3 en 1: Humidifca  calienta y/o enfria // Cooling Power 80w. Heating Power 2000W  1137 '
 actualPrice: 59.36 EUR
 currency: EUR
 price: 59.36
@@ -25,13 +25,13 @@ En este momento está [Climatizador Frio Y Calor // 3 en 1: Humidifca  calienta 
 
 🔎:
 
-- Potencia enfriamiento: 80W
+- Elemento calefactor de alta tecnología PTC con opción de calefacción de 2 potencias
+- Potencia calentamiento: 2000W
 - Giro de izquierda a derecha automático
+- Potencia enfriamiento: 80W
+- 3 en 1 enfriador de aire / calentador / humidificador
+- Tres selecciones de velocidad del ventilador: baja, media, alta
 - Capacidad del depósito de agua 3 litros
 - Bajo ruido
-- 3 en 1 enfriador de aire / calentador / humidificador
-- Potencia calentamiento: 2000W
-- Elemento calefactor de alta tecnología PTC con opción de calefacción de 2 potencias
-- Tres selecciones de velocidad del ventilador: baja, media, alta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KSPW8VT/?tag=tolees-21)

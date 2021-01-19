@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51V-XgwRP2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IRD6SNE-es'
+slug: 'B01IRD6SNE-es Quntis® - Ganchos Ventosa Fuerte [2 Piezas] Perchas Grandes Individuales  Transparente Plástico  Ganchos Adhesivos Resistente al Agua  Ideal para Baño Cocina Ducha Ventana  etc.'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

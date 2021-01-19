@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51686LSzD6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJJT1DH-es'
+slug: 'B07TJJT1DH-es Charles Wilson Juego de Toallas 100% Algodón 500g/m²  2 Toallas de Mano  Morado '
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

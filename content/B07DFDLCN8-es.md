@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BwwuX+zIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFDLCN8-es'
+slug: 'B07DFDLCN8-es Funko Pop! Game of Thrones - Keychain Night King'
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

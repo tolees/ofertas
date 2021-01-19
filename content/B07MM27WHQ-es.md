@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/311k6DCd29L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MM27WHQ-es'
+slug: 'B07MM27WHQ-es PIKOLINOS Sandalia Plana de Piel Alcudia 816'
 actualPrice: 30.68 EUR
 currency: EUR
 price: 30.68

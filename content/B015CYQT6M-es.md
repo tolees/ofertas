@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21a3K-ThtGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CYQT6M-es'
+slug: 'B015CYQT6M-es Astor SkinMatch Concealer Corrector'
 actualPrice: 3.12 EUR
 currency: EUR
 price: 3.12

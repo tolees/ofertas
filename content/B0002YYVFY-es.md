@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IQXV1RhBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002YYVFY-es'
+slug: 'B0002YYVFY-es Wolfcraft 2425000 2425000-1 portabroca con depósito y Tope de Profundidad'
 actualPrice: 3.47 EUR
 currency: EUR
 price: 3.47

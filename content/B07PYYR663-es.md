@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tk+PB9jwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYR663-es'
+slug: 'B07PYYR663-es Under Armour UA Charged Escape 3  Zapatillas para Correr  Calzado Deportivo para Hombre  Gris  Pitch Gray/Versa Red/Pitch Gray   40 EU'
 actualPrice: 46.03 EUR
 currency: EUR
 price: 46.03

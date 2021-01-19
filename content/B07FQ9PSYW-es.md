@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gjYVL2eRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQ9PSYW-es'
+slug: 'B07FQ9PSYW-es Aigoss Receptor Bluetooth USB Adaptador de Audio Bluetooth con Pantalla de 3 5 mm Jack Casa y Sistema de Audio Estéreo de Coche'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

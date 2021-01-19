@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gU0XoVZ0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YC472SP-es'
+slug: 'B07YC472SP-es Gimbal Estabilizador 3 en1 para Cámara Digital/Gopro Hero/Móvil/Sony Cámara  3-Ejes Gimbal Stabilizer con 6 Modos  Gimbal Handheld Carga 400g  Ideal para Smartphone iOS&Android/Cámara de Accón etc'
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

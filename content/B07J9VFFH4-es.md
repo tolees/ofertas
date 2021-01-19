@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51S8OX+J8wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J9VFFH4-es'
+slug: 'B07J9VFFH4-es SunTop Linterna LED  LED Lámpara de Inspección Recargable Linterna de Trabajo  Portátil Lampara de Inspeccion COB LED Luz con Magnético Soporte y Gancho Colgante'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

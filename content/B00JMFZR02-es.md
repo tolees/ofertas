@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rQVBpZKkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JMFZR02-es'
+slug: 'B00JMFZR02-es Petrus Grapas  10 hojas  Largo 4 mm  1000 grapas  Modelo 10  55706'
 actualPrice: 0.81 EUR
 currency: EUR
 price: 0.81

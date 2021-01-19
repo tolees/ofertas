@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sy2UsrvrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B7KDL8L-es'
+slug: 'B07B7KDL8L-es touchbeauty Cejas automática retráctil Pinzas con luz LED del vello facial tb-1058'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

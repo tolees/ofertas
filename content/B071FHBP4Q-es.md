@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51okFtJiRwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FHBP4Q-es'
+slug: 'B071FHBP4Q-es 5D Pintura de Diamante de Imitación de Resina Decoración de Hogar Puerta Pared de Bricolaje DIY - #6'
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

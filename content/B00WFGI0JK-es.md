@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hLRR31inL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WFGI0JK-es'
+slug: 'B00WFGI0JK-es Babymoov procesador de alimentos para bebés Nutribaby classic color Cereza – A001114'
 actualPrice: 47.2 EUR
 currency: EUR
 price: 47.2

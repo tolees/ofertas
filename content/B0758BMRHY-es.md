@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WFiVKkf3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758BMRHY-es'
+slug: 'B0758BMRHY-es EXERZ Juego de 5 Lienzos preestirados/Paquete de 5 Lienzos Enmarcados / 40 x 30cm 280GSM / Pre-Estirado 100% Algodón/Color Blanco/Triple Preparado/Libre de Acido/Hebra Media / 1 7 cm de Espesor'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

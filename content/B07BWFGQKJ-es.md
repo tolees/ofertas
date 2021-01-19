@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-hWbyfFRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BWFGQKJ-es'
+slug: 'B07BWFGQKJ-es Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 830515'
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

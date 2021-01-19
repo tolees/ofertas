@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tB5BYEEYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RNW9B3-es'
+slug: 'B073RNW9B3-es Columbia Goodlife Two Gore Slip  Zapatillas Casual para Mujer  Negro  Black  Storm   38 EU'
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

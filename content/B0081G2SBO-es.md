@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wymb7hu1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0081G2SBO-es'
+slug: 'B0081G2SBO-es Yamaha EZ-220 - Teclado digital portátil de iniciación  con 61 teclas retroiluminadas sensibles a la pulsación y392 voces de alta calidad incorporadas  color negro'
 actualPrice: 166.8 EUR
 currency: EUR
 price: 166.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sKR0JZB2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TF63GYD-es'
+slug: 'B07TF63GYD-es [Nueva versión 2020] Antena TV Interior- Bqeel Antena TV portátil HDTV Digital con Amplificador de señal Inteligente para Canales de TV 1080P 4K gratuitos para DTMB  ATSC DVB-T  DMB-T ISDB -T'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

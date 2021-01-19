@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l2pxECdtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFDTKCP-es'
+slug: 'B07DFDTKCP-es Funko- Pop Vinyl: Kingdom Hearts 3: Riku Figura Coleccionable  Multicolor  34053 '
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

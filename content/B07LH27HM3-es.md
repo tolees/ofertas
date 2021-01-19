@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S2a0j7ytL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LH27HM3-es'
+slug: 'B07LH27HM3-es Intex-57500NP Set 3 posavasos hinchables diseño de flamenco  multicolor  1.Mini  57500 '
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

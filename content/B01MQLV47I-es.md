@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21elDO7+zKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQLV47I-es'
+slug: 'B01MQLV47I-es Indoor Copa'
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

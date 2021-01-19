@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D-I6X0kHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8ZDW6L-es'
+slug: 'B07P8ZDW6L-es Dove Loción Coporal Té Matcha - Pack de 3 x 400 ml  Total: 1200 ml '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LnuiKZGiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JJRXPP-es'
+slug: 'B079JJRXPP-es PUMA Urban SL  Zapatillas Unisex Adulto  Black White  42 EU'
 actualPrice: 22.01 EUR
 currency: EUR
 price: 22.01

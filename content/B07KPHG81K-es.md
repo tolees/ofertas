@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wFUNnjOXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPHG81K-es'
+slug: 'B07KPHG81K-es adidas Falcon W  Zapatillas de Deporte para Mujer  Balcri/Maruni 000  36 EU'
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

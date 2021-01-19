@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yetEifjhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHYCJ4T-es'
+slug: 'B07WHYCJ4T-es Multi Enchufe/Pararrayos - Eaton Protection Strip 4 DIN - PS4D - 4 enchufes Schuko - Negro'
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

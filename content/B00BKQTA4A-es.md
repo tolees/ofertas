@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pFav1FzWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKQTA4A-es'
+slug: 'B00BKQTA4A-es Daniel Wellington Reloj con Correa de Acero para Mujer 0608DW'
 actualPrice: 85.47 EUR
 currency: EUR
 price: 85.47

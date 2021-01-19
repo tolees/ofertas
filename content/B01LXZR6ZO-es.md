@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+Ck149vAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXZR6ZO-es'
+slug: 'B01LXZR6ZO-es Moulinex i-Companion HF9001 - Robot de cocina Bluetooth 13 programas y 6 accesorios capacidad 6 personas  incluye cuchilla picadora  batidor  mezclador  amasador  triturador y cesta de vapor'
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

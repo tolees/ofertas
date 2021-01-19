@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nfJIXl2NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QJO3V70-es'
+slug: 'B00QJO3V70-es Smeg TSBW02 Accesorio De De Tostadora  De plástico  Acero  Cromo/Negro'
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

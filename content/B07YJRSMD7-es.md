@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31d3B+MZcWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJRSMD7-es'
+slug: 'B07YJRSMD7-es Oihxse Funda Compatible para Samsung Galaxy A7 2018/A750 Ultra Delgada Ligera Transparente Silicona TPU Gel Suave Carcasa Elegante Patrón Lindo Anti-Rasguño Protector Caso Case  Estrella de Elefante '
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

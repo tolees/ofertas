@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315N+AHESWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B6Q8MPG-es'
+slug: 'B08B6Q8MPG-es Control Sensual Mousse Bora Bora - Mousse de masaje corporal con efecto chispeante con sonido y aroma a notas florales y frutales - 125 ml - Compatible con preservativo - Hipoalergénico'
 actualPrice: 9.71 EUR
 currency: EUR
 price: 9.71

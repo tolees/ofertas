@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DAk5DIzZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCKM2PH-es'
+slug: 'B07VCKM2PH-es Lacoste Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 2001100'
 actualPrice: 77.47 EUR
 currency: EUR
 price: 77.47

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kklFmDPKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCQJ7VM-es'
+slug: 'B07ZCQJ7VM-es ESR Cargador Inalámbrico Rápido  7.5W Carga rápida para iPhone SE/11/11 Pro/11 Pro MAX/XS MAX/XS/XR  10W para Galaxy S20/S20+/S10/S10+/S10e/S9+/S9/S8+/S8  5W AirPods Pro  Cubierta Silicona Desmontable'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

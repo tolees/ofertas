@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wJK4KNvSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMN8YSD-es'
+slug: 'B07MMN8YSD-es GANT MD. Extrafine Lambswool V-Neck suéter  Rojo  Red 610   X-Large para Hombre'
 actualPrice: 31.91 EUR
 currency: EUR
 price: 31.91

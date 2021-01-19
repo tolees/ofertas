@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZCnvX6F1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FWMDQ9N-es'
+slug: 'B07FWMDQ9N-es Seiko Reloj analogico para Mujer de Cuarzo con Correa en Acero Inoxidable SXDG94P1'
 actualPrice: 155.92 EUR
 currency: EUR
 price: 155.92

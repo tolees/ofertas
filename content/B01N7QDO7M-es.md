@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EtKUiHAHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7QDO7M-es'
+slug: 'B01N7QDO7M-es Memoria Flash USB 3.1 de Estado sólido SanDisk SDCZ880-256G-G46 Extreme Pro de 256 GB  USB 3.1 Gen 1   Negro'
 actualPrice: 67.19 EUR
 currency: EUR
 price: 67.19

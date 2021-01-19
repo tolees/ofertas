@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51z7R0YS+-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0794Z9HKP-es'
+slug: 'B0794Z9HKP-es Orient FAC08004D0 - Reloj de Pulsera para Hombre  Azul/Negro'
 actualPrice: 130.33 EUR
 currency: EUR
 price: 130.33

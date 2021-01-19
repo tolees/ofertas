@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VLD9s3X4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0035FWNCU-es'
+slug: 'B0035FWNCU-es Pranarôm  Aceite esencial  Eucalipto  - 10 ml.'
 actualPrice: 4.33 EUR
 currency: EUR
 price: 4.33

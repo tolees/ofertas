@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513iJMyLCyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083W5PP5X-es'
+slug: 'B083W5PP5X-es Smooce Piedras Luminosas Jardín  Piedras Decorativas Guijarros Brillantes  200 Piezas Piedras de jardín para decoración de pasillos al Aire Libre  Decorar Acuario Sendero Patio de césped'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

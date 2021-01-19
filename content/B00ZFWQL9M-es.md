@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41emHevewAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZFWQL9M-es'
+slug: 'B00ZFWQL9M-es Flower 10723 Abono líquido orquídeas'
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

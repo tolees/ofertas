@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iI7yBmcuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073FHQ1GL-es'
+slug: 'B073FHQ1GL-es HP Officejet Pro 7730 – Impresora multifunción de formato ancho  impresión A3 y A4  pantalla táctil en color  memoria 512 MB  AAD de 35 hojas  doble cara  fax  AirPrint  bandeja extra   color blanco'
 actualPrice: 173.0 EUR
 currency: EUR
 price: 173.0

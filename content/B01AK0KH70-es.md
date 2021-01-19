@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311K8hQCtlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AK0KH70-es'
+slug: 'B01AK0KH70-es PUMA BASKET CLASSIC LFS  Zapatillas para Hombre  Negro  Black/Team Gold   36 EU'
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

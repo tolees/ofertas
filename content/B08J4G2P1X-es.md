@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EFhmFn4GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08J4G2P1X-es'
+slug: 'B08J4G2P1X-es Molyflower Mini ratón óptico inalámbrico para Juegos de 2.4Ghz y Receptor USB para computadora portátil Pc - Negro'
 actualPrice: 3.57 EUR
 currency: EUR
 price: 3.57

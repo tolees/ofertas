@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OR+lSelhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PNUHC58-es'
+slug: 'B00PNUHC58-es adidas Originals Superstar  Zapatillas Unisex Adulto  Blanco  Footwear White/Footwear White/Footwear White   38 EU'
 actualPrice: 62.97 EUR
 currency: EUR
 price: 62.97

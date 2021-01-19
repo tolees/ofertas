@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F5P8UF8-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CXW9LD9-es'
+slug: 'B07CXW9LD9-es Belkin - Cable de audio de 3.5 mm con conector Lightning  cable de Lightning a auxiliar para iPhone 11  11 Pro  11 Pro Max  XS  XS Max  XR  X  SE  8/8 Plus  certificación MFi  1.8 m   negro'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

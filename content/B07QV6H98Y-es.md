@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312qBs7JDHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QV6H98Y-es'
+slug: 'B07QV6H98Y-es Wrangler Greensboro Regular Jeans  Azul  Dark Rinse 90a   40W / 34L para Hombre'
 actualPrice: 41.6 EUR
 currency: EUR
 price: 41.6

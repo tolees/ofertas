@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oZExhmSVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SX1KVWF-es'
+slug: 'B07SX1KVWF-es Auriculares inalámbricos Bluetooth  Cascos Bluetooth 5.0 Mini Estéreo In-Ear Deportivos con Micrófono Incorporado 30H Tiempo Espera IPX5 con Funda de Carga para iPhone Huawei'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

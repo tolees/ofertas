@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sgRMyx50L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QRTJM9X-es'
+slug: 'B07QRTJM9X-es Medisana IPL 836 99120 - Depiladora a base de luz para una piel lisa y duradera - Reducción del cabello con 100.000 pulsos de luz - Depiladora con sensor de piel y 6 niveles de intensidad'
 actualPrice: 59.25 EUR
 currency: EUR
 price: 59.25

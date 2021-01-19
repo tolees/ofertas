@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r-ksIu+ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QVH7T1-es'
+slug: 'B075QVH7T1-es Figura Vinyl Cuphead'
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

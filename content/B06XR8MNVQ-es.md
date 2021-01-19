@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zRr8awWwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XR8MNVQ-es'
+slug: 'B06XR8MNVQ-es Kelme - Zapatillas Trueno Sala'
 actualPrice: 27.47 EUR
 currency: EUR
 price: 27.47

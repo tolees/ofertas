@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zT6mmbFsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D5CZKE6-es'
+slug: 'B00D5CZKE6-es Durex Performax Intense 10'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

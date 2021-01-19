@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51i%2B8H3J7LL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GW2B4L-es'
+slug: 'B075GW2B4L-es Rastar - Coche teledirigido 1:18 AUDI R8 LMS Performance  41233 '
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mkBARgjwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FNON4EM-es'
+slug: 'B00FNON4EM-es Biosilk Volumizing Therapy Root Lift - lacas para el cabello  Unisex  Voluminizadora '
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51IdoU7yu4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KWAE4BE-es'
+slug: 'B00KWAE4BE-es Tropico 5'
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

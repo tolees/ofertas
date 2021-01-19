@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516JFVhL+hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPZRT4D-es'
+slug: 'B07GPZRT4D-es Subnautica'
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

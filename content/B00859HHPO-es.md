@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xI4v+EyJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00859HHPO-es'
+slug: 'B00859HHPO-es Axe Dark temptation - Set de 6 geles de ducha  6 x 250 ml '
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

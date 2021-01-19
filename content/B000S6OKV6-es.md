@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p7JWp9tnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000S6OKV6-es'
+slug: 'B000S6OKV6-es Sorel Caribou  Botas de Invierno para Hombre  Marrón  Bruno   44 EU'
 actualPrice: 84.2 EUR
 currency: EUR
 price: 84.2

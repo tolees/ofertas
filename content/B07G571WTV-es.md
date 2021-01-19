@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-GnofEorL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G571WTV-es'
+slug: 'B07G571WTV-es Max Factor  Base de maquillaje  Tono: 60 Sand  Pieles Claras  - 30 ml'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

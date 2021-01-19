@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y1K349qBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U27ZIVC-es'
+slug: 'B00U27ZIVC-es dn-nightwear Mujer Albornoz/Bata SDB.7059 con Capucha Beige Melange X-Large'
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

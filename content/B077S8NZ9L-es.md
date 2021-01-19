@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/514ybHWyNrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077S8NZ9L-es'
+slug: 'B077S8NZ9L-es Kit Protector para Esquinas y Bordes de Muebles de Bébé Earth | Juego de 8 Cantos Protectores y 1 Rollo de 6m para Mesas y más | Seguridad Infantil en el Hogar | Tope Puerta Gratis | Blanco Marfil'
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

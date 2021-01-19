@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31G1eYYAAJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCBQ26Y-es'
+slug: 'B07NCBQ26Y-es Pepe Jeans Drifter Pantalones  Verde  Dark Olive 768   W26/L30 para Mujer'
 actualPrice: 53.46 EUR
 currency: EUR
 price: 53.46

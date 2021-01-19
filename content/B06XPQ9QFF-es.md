@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411k-9ituEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPQ9QFF-es'
+slug: 'B06XPQ9QFF-es Pasito a pasito 73757 - Maleta acolchada Inés  color rosa'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

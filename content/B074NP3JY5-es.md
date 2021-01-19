@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411TIVwB02L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074NP3JY5-es'
+slug: 'B074NP3JY5-es 1 Unid UV Gel Nail Art Pincel de Pintura Con Mango de Madera de Pelo de Nylon Cepillo Pro Nail Art Tools 4 #'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

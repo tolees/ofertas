@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CL3U3ar3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH8DG6M-es'
+slug: 'B07JH8DG6M-es Skechers Men s Heston-Avano Trainers  Black  Black Blk   6 UK  39.5 EU '
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

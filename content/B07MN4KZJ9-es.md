@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QJrcgV1wL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN4KZJ9-es'
+slug: 'B07MN4KZJ9-es adidas Ultraboost 19 M  Zapatillas de Running para Hombre  Negro  Core Black/Core Black/FTWR White Core Black/Core Black/FTWR White   43 1/3 EU'
 actualPrice: 116.99 EUR
 currency: EUR
 price: 116.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411FAYLFG7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FFG2HNS-es'
+slug: 'B08FFG2HNS-es Flysee Eléctrica Juguete Pez para Gato，Peluche de Juguete eléctrico de simulación Fish Fish con Carga USB，Mascotas Interactivo de Felpa Pez para morder  Masticar  patear y Dormir'
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

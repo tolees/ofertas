@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nMkPSV37L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088B8YQ6L-es'
+slug: 'B088B8YQ6L-es Docooler USB Webcam HD Web CAM Cámara Web Digital con Clip con micrófono para computadora portátil PC'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410UWxpl9QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08285HCVM-es'
+slug: 'B08285HCVM-es Quiksilver Dye Check 15" Bañador  Niños  Azul  Caribbean Sea   L/14'
 actualPrice: 19.44 EUR
 currency: EUR
 price: 19.44

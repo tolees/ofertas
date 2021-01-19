@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412rjeZ-xVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00COI61O0-es'
+slug: 'B00COI61O0-es versando VLR5X175 - Estantería galvanizada  178 x 90 x 40 cm  5 estantes  máx. Capacidad de Carga de 875 kg  Ideal para sótano/Garaje  para Montaje más rápido.'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

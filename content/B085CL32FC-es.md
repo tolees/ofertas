@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u7ZUqgwCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085CL32FC-es'
+slug: 'B085CL32FC-es Baoblaze 50ml de Fragancia Masculina  Perfume de Fragancia Duradero para Hombres  Duradero y Efectivo - Azul'
 actualPrice: 19.38 EUR
 currency: EUR
 price: 19.38

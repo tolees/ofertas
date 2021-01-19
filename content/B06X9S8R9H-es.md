@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41to3gNduhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9S8R9H-es'
+slug: 'B06X9S8R9H-es Enko Coladores Cocina  Cocina Plegable Colador de Silicona  Respetuosos del Medio Ambiente no Tóxico Fácil de Limpiar  2 Tamaños  Incluyendo 8 Pulgadas y 9 5 Pulgadas.'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

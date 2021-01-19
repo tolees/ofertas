@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UX6G1q-EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G38C4TD-es'
+slug: 'B07G38C4TD-es Chicco Liteway 3 Silla de paseo plegable y multifuncional  Unisex Bambini  Gris  Titanium '
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418uvMW4gxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C58T2ZC-es'
+slug: 'B07C58T2ZC-es IntimaTe WM Heart 2 x Taburetes de Bar Cuadrado y Moderno Tapizados en Cuero de PU Silla Altura Ajustable Giratoria para Bar Cocina  Blanco '
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GNTS8MyYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0055ZWQUW-es'
+slug: 'B0055ZWQUW-es Logitech MK710 Combo Teclado y Ratón Inalámbrico para Windows  Conexión Inalámbrica 2 4 GHz  Ratón Inalámbrico  Teclas Multimedias  Batería de 3 Años  PC/Mac  QWERTY Español  color Negro'
 actualPrice: 68.59 EUR
 currency: EUR
 price: 68.59

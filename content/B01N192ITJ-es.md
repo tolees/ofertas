@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xXd4wl7GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N192ITJ-es'
+slug: 'B01N192ITJ-es Maletín Vacío para Maquillaje Portátil Impermeable Maleta Bolsa Organizador Cosmético Mujer con Separadores Rígidos Ajustables Cremallera y Asa Llevar de viaje  Tamaño pequeño  Negro '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

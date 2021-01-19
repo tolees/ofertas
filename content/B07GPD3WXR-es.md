@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RjlFkuXEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPD3WXR-es'
+slug: 'B07GPD3WXR-es storeofbaby Chicas Princesa Tutus Fiesta Linda Danza Estrella Lentejuelas Pettiskirt'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

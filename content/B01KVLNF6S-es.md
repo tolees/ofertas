@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QD9-tqZhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KVLNF6S-es'
+slug: 'B01KVLNF6S-es Orbeez Juego Crush Sweet Treat Studio'
 actualPrice: 34.48 EUR
 currency: EUR
 price: 34.48

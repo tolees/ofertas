@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xfoYrQ3iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW6FZQL-es'
+slug: 'B07NW6FZQL-es Skechers On-the- Go Joy Botas Altas Mujer  Dark Taupe Suede Dktp   39 EU  6 UK '
 actualPrice: 30.43 EUR
 currency: EUR
 price: 30.43

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Tm5+9O0SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NTN8VUQ-es'
+slug: 'B00NTN8VUQ-es Diesel Reloj Hombre de Analogico con Correa en Cuero DZ4343'
 actualPrice: 134.48 EUR
 currency: EUR
 price: 134.48

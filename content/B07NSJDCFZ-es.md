@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fAojFU2WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSJDCFZ-es'
+slug: 'B07NSJDCFZ-es Kipling Supertaboo Light - Bolsa de Deporte Infantil  44 cm   Color Peachy Pink Fun  tamaño 44 cm  Volumen 13.0liters'
 actualPrice: 12.24 EUR
 currency: EUR
 price: 12.24

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zy0erFLvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNDYGFS-es'
+slug: 'B07TNDYGFS-es Yizhet 10uds Universal Stylus de la Pluma del Tacto de la Pluma con el diseño de Clip para Todos los Dispositivos con táctil capacitiva del teléfono Smartphone de Pantalla Tablet PC PDA'
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

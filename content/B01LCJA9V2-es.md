@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zqst+gBzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LCJA9V2-es'
+slug: 'B01LCJA9V2-es Suntec Wellness RKO-9974 Thùy-Denise Hervidor de arroz  acero inoxidable'
 actualPrice: 45.35 EUR
 currency: EUR
 price: 45.35

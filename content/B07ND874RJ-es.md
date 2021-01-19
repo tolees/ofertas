@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519X8pAQCHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND874RJ-es'
+slug: 'B07ND874RJ-es Desigual 19WAYPX0 - Cartera para mujer de Sintético Mujer Marrón Marrón  MARRON 6000  1.5x9.5x19.5 cm  B x H x T '
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

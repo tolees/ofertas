@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AgsnZXxRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7F3S2M-es'
+slug: 'B07K7F3S2M-es TACKLIFE Pistola de Riego  Pistola de Agua de Jardín  Aleación de Zinc  10 Modos de Pulverizar  Caudal de Agua Ajustable  para Lavado de Autos  Riego de Plantas y Ducha de Mascotas - GHN1B'
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

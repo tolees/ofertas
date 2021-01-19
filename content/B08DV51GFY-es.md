@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61tB06J0q6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DV51GFY-es'
+slug: 'B08DV51GFY-es Monedas oro Juguete  ZoneYan Monedas de oro y Gemas  100 Monedas de oro Pirata  100 Gemas de Piratas  Monedas de oro y Gemas Piratas del Tesoro Pirata  Búsqueda del Tesoro  Cumpleaños Los Niños'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

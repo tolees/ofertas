@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W-dDxvanL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NFT5K7Q-es'
+slug: 'B00NFT5K7Q-es E-Vitta EVUN000298 - Funda con soporte para tablet de 10.1"  diseño Furry'
 actualPrice: 12.72 EUR
 currency: EUR
 price: 12.72

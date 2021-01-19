@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IvPAPjm+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LIT3LT8-es'
+slug: 'B01LIT3LT8-es Bosch BHN09070 Sin bolsa Azul  Plata - Aspiradora  Secar  Sin bolsa  Azul  Plata  9 min  16 h  9 6 V '
 actualPrice: 16.26 EUR
 currency: EUR
 price: 16.26

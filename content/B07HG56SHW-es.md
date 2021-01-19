@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mhTD9Eu-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG56SHW-es'
+slug: 'B07HG56SHW-es New Balance Fuell Cell Propel  Zapatillas de Running para Mujer  Negro  Black/Lead Black/Lead   37.5 EU'
 actualPrice: 60 EUR
 currency: EUR
 price: 60

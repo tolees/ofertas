@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ybk9T+pXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HAFT86K-es'
+slug: 'B00HAFT86K-es Bourjois - 123 Perfect CC Cream  crema correctora con color  tono light beige'
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

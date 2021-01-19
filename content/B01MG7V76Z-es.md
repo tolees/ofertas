@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VOHWtcPFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MG7V76Z-es'
+slug: 'B01MG7V76Z-es G-STAR RAW Zed Cinturón  Marrón  Dk Cognac/antic Silver 8128   75 para Hombre'
 actualPrice: 17.38 EUR
 currency: EUR
 price: 17.38

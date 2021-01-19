@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i-u5C54BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZK3RP7H-es'
+slug: 'B07ZK3RP7H-es Auriculares Bluetooth Inalámbricos  AUSDOM AH01 Auriculares con Cancelación de Ruido Activa  Cascos Deportivos In-Ear Neckband Magnéticos  IPX 5 Resistentes al Sudor con Micrófono  13 Horas de Juego'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

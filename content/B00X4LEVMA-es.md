@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PfSVuy2iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X4LEVMA-es'
+slug: 'B00X4LEVMA-es Adidas 3AA2297  Calcetines Unisex  Blanco  43 - 46 EU  Paquete de 3'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uuX5l40mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0142FCWXQ-es'
+slug: 'B0142FCWXQ-es Fantasy Flight Games- Star Wars X-Wing: ala-k  Edge Entertainment EDGSWX33 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/512OO%2BXwDzL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG9DR7L-es'
+slug: 'B07KG9DR7L-es Marshmallow Glitter  40 cm  3 litros  Verde Agua'
 actualPrice: 18.45 EUR
 currency: EUR
 price: 18.45

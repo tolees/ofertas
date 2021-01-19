@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kgt3uz6eL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FRFRFZ-es'
+slug: 'B075FRFRFZ-es Vicloon 106cm Aluminio Trípode para Cámara Trípode Ajustable del Teléfono para Gopro/iPhone/Samsung y la Mayoría de los Otros Smartphones'
 actualPrice: 9.39 EUR
 currency: EUR
 price: 9.39

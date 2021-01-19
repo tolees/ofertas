@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61vIBXZeUYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CXPPP3H-es'
+slug: 'B08CXPPP3H-es Botella de Agua Acero Inoxidable 350/500/750ml  Cantimplora Termo con Doble Aislamiento para 12 Horas de Bebida Caliente y 24 Horas de Bebida Fría  Sin bpa Botella Reutilizable para Niños Deporte'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uv1VEeLoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DR2PLGQ-es'
+slug: 'B08DR2PLGQ-es WERNNSAI Manta de Hito de la Jungla - 150 x 100 cm Franela Manta de Bebé Selva Mono Elefante Jirafa Manta de Cama Baby Shower Regalo de Cumpleaños Nacido'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

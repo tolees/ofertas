@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61v3WEQ99-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WF75GBW-es'
+slug: 'B07WF75GBW-es Sntieecr 36 piezas tamaño A5 brillante tela hojas con 60 piezas 2 tamaños Clips de metal para lazos de pelo DIY Hair  pinzas de pelo  bolsos de mano y manualidades  16 x 21 cm '
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

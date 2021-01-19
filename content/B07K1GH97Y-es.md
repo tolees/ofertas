@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21mLqclePfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1GH97Y-es'
+slug: 'B07K1GH97Y-es Mini Vibrador Neo muy potente/Masajeador perfecto para uso externo/Ideal para jugar por todo el cuerpo  para hombre y mujer  Negro '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

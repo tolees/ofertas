@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z5lOXO5YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NLLB8S-es'
+slug: 'B075NLLB8S-es Beurer HC55 - Secador de pelo con sistema recogecable  2200 W  3 temperatura sy 2 velocidades  protector sobrecalentamiento automatico  color negro'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

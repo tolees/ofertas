@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416CWQd3NJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YGZCY8-es'
+slug: 'B078YGZCY8-es Scuderia Ferrari Reloj Analógico para Niños de Cuarzo con Correa en Silicona 840020'
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

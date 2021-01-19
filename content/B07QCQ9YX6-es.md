@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Sv1HWaTWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCQ9YX6-es'
+slug: 'B07QCQ9YX6-es Funko Pop Figura De Vinil TV: Mad Men-Betty Coleccionable  Multicolor  Talla única  43405 '
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

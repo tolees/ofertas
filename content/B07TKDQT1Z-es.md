@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51uGfT-yDWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDQT1Z-es'
+slug: 'B07TKDQT1Z-es Max Power Digital Funda para Samsung Galaxy A50 Antigolpes Silicona TPU + PC Antigolpes Diseño Panal - Delgada y Resistente  Samsung A50  Verde '
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

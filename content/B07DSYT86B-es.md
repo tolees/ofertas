@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21fSAFhk1fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DSYT86B-es'
+slug: 'B07DSYT86B-es ISDIN FOTOPROTECTOR PEDIATRICS EXTREM SPF50+ LOCION SPRAY 200 ML'
 actualPrice: 17.05 EUR
 currency: EUR
 price: 17.05

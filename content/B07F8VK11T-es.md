@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rTtNQ2gSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8VK11T-es'
+slug: 'B07F8VK11T-es TACKLIFE Encendedor  ELY04 Encendedor Cocina  USB Mechero Eléctrico con Doble Interruptor de Seguridad  Batería Recargable  Mango Super Largo  27 cm   Cuello más Largo & Flexible 360°  Más Seguro'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

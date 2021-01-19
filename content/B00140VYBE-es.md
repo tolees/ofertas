@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mPg2IROeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00140VYBE-es'
+slug: 'B00140VYBE-es Salter Báscula de Cocina Digital de Acero Inoxidable  Capacidad 5kg  Función de Añadir y Pesar  Negro'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zjJO-LKML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT8B4CS-es'
+slug: 'B07RT8B4CS-es Pepe Jeans Rick suéter  Verde  Hunter Green 781   Talla única  Talla del Fabricante: Medium  para Hombre'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JQRHbghXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZRK58M-es'
+slug: 'B085ZRK58M-es MarinoBIRD T10 3PCS Rectangle Plastic Webcam Cover Ultra-Thin Privacy Protector Camera Shutter Sticker para teléfono Tableta portátil de Escritorio - Negro'
 actualPrice: 1.4 EUR
 currency: EUR
 price: 1.4

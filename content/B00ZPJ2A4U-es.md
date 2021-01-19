@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YZ5PxfVbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZPJ2A4U-es'
+slug: 'B00ZPJ2A4U-es Bourjois Push Up Máscara de pestañas Tono 71 Waterproof black  - 37 gr.'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bBqiZQaRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FQPCQ9Q-es'
+slug: 'B01FQPCQ9Q-es WORKPRO Alicates Extensible Alicate de Cremallera Pico de Loro con Ranura Curvada Liberación Rápida 2 piezas'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

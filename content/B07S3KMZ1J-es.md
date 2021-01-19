@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3KMZ1J-es'
+slug: 'B07S3KMZ1J-es Levi s unbasic  Hoodie Capucha  Multicolor  Dunsmuir Floral Meteorite 0036   XX-Small para Mujer'
 actualPrice: 52.5 EUR
 currency: EUR
 price: 52.5

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZVLC6ch3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC6DWNG-es'
+slug: 'B07NC6DWNG-es Far Cry 5 - Standard Edition | Código Uplay para PC'
 actualPrice: 15 EUR
 currency: EUR
 price: 15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Nzd-rk1iL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLPX4YJ-es'
+slug: 'B07RLPX4YJ-es J.Rosée Pendientes Mujer Plata de Ley 925  Regalo de San Valentín Originales'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

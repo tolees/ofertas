@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4139+rdha3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VV494GK-es'
+slug: 'B07VV494GK-es LOHOTEK Hombres 7" Pantalones Cortos para Atléticos - Pantalones Cortos de Gimnasio de Secado Rápido y Ligeros para Entrenamiento de Baloncesto de Tenis al Aire Libre  Negro  M '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

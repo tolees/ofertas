@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rpiZjbc6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LLNL63-es'
+slug: 'B085LLNL63-es MKTOSASA-Set de Altavoz con Auriculares intraurales Integrados. Conexión Bluetooth® y Doble función Auriculares+Altavoz. Función Manos Libres y Radio FM-5.9x7.8x5.9'
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

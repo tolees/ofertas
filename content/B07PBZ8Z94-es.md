@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RoexLx3cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBZ8Z94-es'
+slug: 'B07PBZ8Z94-es American Tourister Disney Legends Spinner S Equipaje de Mano Infantil  55 cm  36 L  Azul  Take Me Away Mickey London '
 actualPrice: 65.4 EUR
 currency: EUR
 price: 65.4

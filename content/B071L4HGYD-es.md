@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61tnX2B1zQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071L4HGYD-es'
+slug: 'B071L4HGYD-es Utawarerumono: Mask Of Truth'
 actualPrice: 25.35 EUR
 currency: EUR
 price: 25.35

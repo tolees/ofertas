@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514na5XzLwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHRBHWR-es'
+slug: 'B07VHRBHWR-es Desigual Foul_Fruits Bufanda  Multicolor  Blanco/Negro 9024   Talla única  Talla del fabricante: U  para Mujer'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315k7FDxJUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E99Q4IA-es'
+slug: 'B00E99Q4IA-es Philips Pro HPS910/00 - Secador de Pelo Profesional  Motor AC  Ionico  Boquilla 8 mm  3 Velocidades  3 Temperaturas  2100 W  Negro'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

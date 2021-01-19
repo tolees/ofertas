@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OYwlQk4+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPKGJVT-es'
+slug: 'B07KPKGJVT-es KHOMO iPad Pro 11 Funda Dual Ultra Delgada y Ligera con Smart Cover Protección Delantera y Trasera para Nuevo Apple iPad Pro 11-2018 - Verde Menta'
 actualPrice: 10.08 EUR
 currency: EUR
 price: 10.08

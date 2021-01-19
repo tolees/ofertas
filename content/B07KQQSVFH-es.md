@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nZkssnSEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQQSVFH-es'
+slug: 'B07KQQSVFH-es SALOMON Alphacross GTX  Zapatillas de Trail Running para Hombre  Negro  Black/Ebony/Black   40 EU'
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

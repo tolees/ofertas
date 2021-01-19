@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nPioEFtZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797KXYJF-es'
+slug: 'B0797KXYJF-es Smartphone Resistentes 4G  Blackview Bv8000Pro IP68 Outdoor Móvil Antigolpes Libres Dual SIM con 6GB+ 64GB  Pantalla FHD de 5.0"  16Mp + 8Mp Dual Cámara  4180mah Batería  GPS/GLONASS/NFC - Plata'
 actualPrice: 183.29 EUR
 currency: EUR
 price: 183.29

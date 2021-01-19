@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41--DV7cZ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072LYFLVN-es'
+slug: 'B072LYFLVN-es Tesa Assa Abloy Cilindro de Alta Seguridad  Llave - Leva Larga  Latonado  35x35 mm'
 actualPrice: 47.32 EUR
 currency: EUR
 price: 47.32

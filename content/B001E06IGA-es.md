@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HRyzyMJkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001E06IGA-es'
+slug: 'B001E06IGA-es Nike Force 1  PS   Zapatillas de Baloncesto para Niños  Negro  Black/Black/Black 009   28 EU'
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

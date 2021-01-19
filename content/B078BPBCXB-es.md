@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41McfQUB6sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078BPBCXB-es'
+slug: 'B078BPBCXB-es Emporio Armani Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable AR11155'
 actualPrice: 138.78 EUR
 currency: EUR
 price: 138.78

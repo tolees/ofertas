@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zHw2O2igL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S19ZX8W-es'
+slug: 'B07S19ZX8W-es PUMA Cali Mujer Blanco 369155 12'
 actualPrice: 57.04 EUR
 currency: EUR
 price: 57.04

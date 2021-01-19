@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CF9dlO4zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ABZBXWM-es'
+slug: 'B01ABZBXWM-es Wilson BLX Seven raqueta de tenis cubierta + + 3 pelotas'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

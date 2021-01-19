@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51z5mFeroSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVZCM58-es'
+slug: 'B07QVZCM58-es TAZEMAT Toss Game 2pcs Juguete Inflable de Reno Marrón con 12pcs Anillos Coloridos y Una Bomba Manual Sombrero Divertido para Niños y Padre-Hijo en Fiesta Actividades Escolares Aire Libre'
 actualPrice: 11.77 EUR
 currency: EUR
 price: 11.77

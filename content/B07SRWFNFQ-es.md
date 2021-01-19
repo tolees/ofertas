@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RR5kT+3FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRWFNFQ-es'
+slug: 'B07SRWFNFQ-es Armani Exchange Hidden Buttons  Stretch Cotton Polo  Azul  Navy 1510   X-Large para Hombre'
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

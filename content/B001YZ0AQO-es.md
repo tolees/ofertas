@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317d88Mh1UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001YZ0AQO-es'
+slug: 'B001YZ0AQO-es Adaptare 20109 - Adaptador de Señal Analógico  DVI-D/VGA  24+1 pines a 15 pines '
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

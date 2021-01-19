@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ldM1D5dRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWXXWKJ-es'
+slug: 'B07PWXXWKJ-es Under Armour UA Remix 2.0  Zapatillas de Running  Deportivas para Hombre  Marrón  Cedar Brown/Black/Black  200  200   43 EU'
 actualPrice: 46.11 EUR
 currency: EUR
 price: 46.11

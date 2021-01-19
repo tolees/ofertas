@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B+UYRcE5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV1NLPF-es'
+slug: 'B07TV1NLPF-es Luz LED Armario Luz Sensor Nocturna Lámpara  60 LED Luz de Armario USB Recargable Magnético con 3 Modos  3 colores  1000mAh para Armario/Gabinete/Escalera/Sótano/Cocina/Pasillo/Baño/Dormitorio'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

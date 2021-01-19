@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ElIXSq9LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4OA55E-es'
+slug: 'B01N4OA55E-es Ivos Suporte Universal de Aluminio para Proyector  Distancia de Techo Extensible 22-40cm para Mini DLP Proyector CCTV DVR Cámara'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

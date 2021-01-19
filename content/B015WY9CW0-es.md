@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413elH2H+qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015WY9CW0-es'
+slug: 'B015WY9CW0-es Cape Herb - RUB Louisiana Cajun 100g. Cape Herb de Sudáfrica'
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

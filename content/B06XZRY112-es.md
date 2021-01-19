@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wEMQ6h4zL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XZRY112-es'
+slug: 'B06XZRY112-es Rowenta Flower Love EP2812F0 - Depiladora 2 en 1 con cabezal ultrapreciso de 2 velocidades y 2 modos de uso  24 pinzas con rodillo de pedicura ultra exfoliante y un neceser'
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vD7pRXsoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XYC3R2-es'
+slug: 'B078XYC3R2-es The Raven Remastered'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

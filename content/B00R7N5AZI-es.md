@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GmXIqNSGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R7N5AZI-es'
+slug: 'B00R7N5AZI-es Maidenform Strapless Extra Coverage Sujetador Bandeau  Beige  Latte Lift    Talla del Fabricante: 90C  para Mujer'
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

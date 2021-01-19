@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5152SgfPJHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNWY64W-es'
+slug: 'B07MNWY64W-es SNAPTAIN Mini Drone H823H Plus con 3 baterías para 21 Minutos de Tiempo de Vuelo  Drone RC  Mini helicóptero quadrocopter con Soporte  Modo sin Cabeza  volteos 3D y 3 Modos de Velocidad para niños'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

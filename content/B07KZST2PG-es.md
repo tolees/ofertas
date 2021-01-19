@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uVe3vg7GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZST2PG-es'
+slug: 'B07KZST2PG-es EisEyen RC Auto 1: 22 2 WD Rallye Offroad Rock Crawler Mando a Distancia Monster Truck Vehículo Todoterreno Auto para niños a Partir de 3 4 5 6 años'
 actualPrice: 24.14 EUR
 currency: EUR
 price: 24.14

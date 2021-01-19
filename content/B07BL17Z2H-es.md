@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417Izv2-QmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL17Z2H-es'
+slug: 'B07BL17Z2H-es New Balance Fuel Core 5000 h  Zapatillas de Running para Hombre  Azul  Deep Ozone Blue/Eclipse EB   45.5 EU'
 actualPrice: 35.94 EUR
 currency: EUR
 price: 35.94

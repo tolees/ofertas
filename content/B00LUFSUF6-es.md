@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310HpBOXmzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LUFSUF6-es'
+slug: 'B00LUFSUF6-es Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Roulette Rush '
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

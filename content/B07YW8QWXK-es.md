@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q0Sdl7RuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YW8QWXK-es'
+slug: 'B07YW8QWXK-es SUNLU 3D Printer Power Supply'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

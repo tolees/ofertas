@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R5vKD5STL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HLBN8XK-es'
+slug: 'B07HLBN8XK-es READ Reloj para Hombre  Reloj de Cuarzo  Marca de fábrica Superior  Relojes de Pulsera ultrafinos  Gold-White '
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YPwPm-KLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0769D8VZP-es'
+slug: 'B0769D8VZP-es HAORUI Telón De Fondo De Los 3mx3m De Seda Blanca del Sin El Botín para La Decoración De Bodas  Fiesta  Evento'
 actualPrice: 30.15 EUR
 currency: EUR
 price: 30.15

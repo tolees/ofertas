@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4159mOAv66L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQVH2VW-es'
+slug: 'B01MQVH2VW-es Anpro Gran Cometa para Niños y Adultos- Fácil de Volar con Viento Fuerte o una Suave Brisa Velas Niños'
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

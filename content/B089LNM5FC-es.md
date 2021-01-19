@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415-3cbfEOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089LNM5FC-es'
+slug: 'B089LNM5FC-es Auriculares inalámbricos TW12 Bluetooth 5.0 True negro'
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

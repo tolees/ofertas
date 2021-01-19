@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61qnWoleNJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9QFV64-es'
+slug: 'B07H9QFV64-es Etiquetas adhesivas Unicornio Tatuajes Temporales - Unicornio Regalos para Niños  Impermeables Tatuajes de Unicornio Mejores Regalos de Cumpleaños para Niñas y Niños  Más de 300 Tatuajes Adhesivos'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

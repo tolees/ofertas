@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510xJIypk1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CN92SSC-es'
+slug: 'B08CN92SSC-es Huj DIY gato forma especial pintura diamante mujer cadena bolsa cruzada bolsa de cuero'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/318GSaVoRSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXP2M63-es'
+slug: 'B07FXP2M63-es TOUCHBeauty Manicura y Pedicura Lima de uñas eléctrico profesional con conjunto de soporte - el sistema completo de lima de uñas portátil San inalámbrico con sello  pulidora  lijadora y tendedero UV'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

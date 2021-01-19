@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317Eh0XHhgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR9NVKS-es'
+slug: 'B07MR9NVKS-es Lee Scarlett Jeans  Azul  Dark Ulrich Iy   29W / 35L para Mujer'
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

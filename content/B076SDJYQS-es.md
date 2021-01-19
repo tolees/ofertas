@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YdcvipctL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076SDJYQS-es'
+slug: 'B076SDJYQS-es D.Vinity Kit de Belleza Ultra Soft - 3 Piezas'
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

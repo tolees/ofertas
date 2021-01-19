@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SI9qSk2ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWHJ6H6-es'
+slug: 'B07TWHJ6H6-es Funko- Pop Marvel: Endgame-Gamer Korg Collectible Toy  Multicolor  45140 '
 actualPrice: 10.75 EUR
 currency: EUR
 price: 10.75

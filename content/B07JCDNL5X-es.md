@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21jzBt-gkmL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCDNL5X-es'
+slug: 'B07JCDNL5X-es Columbia Trail Shaker Braga para El Cuello  Unisex Adulto  Collegiate Navy  O/S'
 actualPrice: 12.65 EUR
 currency: EUR
 price: 12.65

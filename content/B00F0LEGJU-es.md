@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v8bqjaulL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F0LEGJU-es'
+slug: 'B00F0LEGJU-es Hauck Sport Silla de paseo ligera y practica para bebes de 0 meses hasta 15 kg  sistema de arnés de 5 puntos  respaldo reclinable  plegable  Rojo  Caviar Tango '
 actualPrice: 51.77 EUR
 currency: EUR
 price: 51.77

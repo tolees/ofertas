@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411u5U5DDoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0055ZGUF4-es'
+slug: 'B0055ZGUF4-es Jata 610 - Báscula de cocina'
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

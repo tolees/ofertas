@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tEmHTmMlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZDZZT2-es'
+slug: 'B07YZDZZT2-es Femometer Pastillero Semanal 3 Tomas 7 Dias 21 compartimentos   Dispensador diario de medicación  Con Estuche de Cuero para'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

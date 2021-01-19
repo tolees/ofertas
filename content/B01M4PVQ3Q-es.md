@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q4qPijetL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M4PVQ3Q-es'
+slug: 'B01M4PVQ3Q-es ITALY MORN Joggers Hombre Panatalones para Chicos Deportes Slim Fit M Gris Oscuro'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

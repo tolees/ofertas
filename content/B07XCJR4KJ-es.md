@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SHBzYG9mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCJR4KJ-es'
+slug: 'B07XCJR4KJ-es Susan Y Regalos para Mujer San valentín Pulsera Mujer sueño Mariposa Cristal Mujer Pulsera Joyas para cumpleaños Aniversario Madre Esposa Regalo para Mujer Regalo para Esposa Regalo para mamá'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

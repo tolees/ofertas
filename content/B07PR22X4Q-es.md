@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fU2rQfhwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR22X4Q-es'
+slug: 'B07PR22X4Q-es Under Armour Fly by 2.0 Short Panatalones Cortos Deporte  Mujer  Negro  XS'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

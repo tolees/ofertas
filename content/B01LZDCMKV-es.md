@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/517LQvngqjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZDCMKV-es'
+slug: 'B01LZDCMKV-es MisterCraft D de 216 - Maqueta de devoitine D de 520 cl'
 actualPrice: 13.02 EUR
 currency: EUR
 price: 13.02

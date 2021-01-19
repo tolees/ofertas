@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XtqxAnOsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSZCDCB-es'
+slug: 'B07KSZCDCB-es K KYUER EB-BT810ABA EB-BT810ABE Tablet Batería para Samsung Galaxy Tab S2 9.7" SM-T810 T810X T813 T815 T815C T815X T815Y T817 T817A T817W T817T T817P T817X T817V T818 T818A T818V T818W T819 T819Y+Tool'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

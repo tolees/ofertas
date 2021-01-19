@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zbKNvVQCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQWZY34-es'
+slug: 'B07RQWZY34-es MonQi 24 Bolsillos Expandible Clasificadores Carpetas de Acordeón con Capa + 3 * Bolsa de Archivo de cremallera para A4 Documento Expandible Carpetas Archivadoras  Rainbow Carpeta Clasificadora'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

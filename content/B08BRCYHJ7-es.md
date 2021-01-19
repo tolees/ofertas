@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61WCj+FKN9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BRCYHJ7-es'
+slug: 'B08BRCYHJ7-es Guirnalda de luces LED  3 x 3 m  300 ledes  luz blanca cálida  USB  8 modos  con mando a distancia  temporizador  resistente al agua  IP65  iluminación interior para interiores  exteriores'
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

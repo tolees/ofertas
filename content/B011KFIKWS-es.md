@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41thmjjX5+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011KFIKWS-es'
+slug: 'B011KFIKWS-es MaxHold Sistema de vacío Toalleros de aro - No-perforar - Acero Inoxidable Nunca Moho - Almacenamiento de la Cocina&baño'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31m3gLbJU4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M62BUMR-es'
+slug: 'B01M62BUMR-es vidaXL Barandilla de Seguridad Cama de Niños Azul Barrera Infantil de Dormir'
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

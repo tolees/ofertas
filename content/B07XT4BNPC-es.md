@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g277kFyrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XT4BNPC-es'
+slug: 'B07XT4BNPC-es Yacel For Men Cera Disciplinadora  Fija  Protege e Hidrata Cabello 100ml'
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

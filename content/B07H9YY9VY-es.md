@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vkrNdBeYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9YY9VY-es'
+slug: 'B07H9YY9VY-es Extractor de Puntos Negro 3 Modos de Succión Eliminar Puntos Negros Nariz con 5 Cabezas Recargable USB Exfoliante Impiador Facial Electrico Para el Acné  Raspado  Limpieza Facial de Poros.'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AMxl00INL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GDFU56A-es'
+slug: 'B00GDFU56A-es Makita HP457DWE - Taladro Percutor A Bateria 18V Litio-Ion 1.3 Ah'
 actualPrice: 152.5 EUR
 currency: EUR
 price: 152.5

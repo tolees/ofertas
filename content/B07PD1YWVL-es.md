@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wn4P74l6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PD1YWVL-es'
+slug: 'B07PD1YWVL-es 3 x Recambios para Contenedor de Pañal Sangenic Tommee Tippee'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

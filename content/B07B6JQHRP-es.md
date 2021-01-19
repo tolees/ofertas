@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cd5jkuMJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B6JQHRP-es'
+slug: 'B07B6JQHRP-es Tommy Hilfiger X Sujetador estilo bralette  Azul  Navy Blazer 416   LG para Mujer'
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

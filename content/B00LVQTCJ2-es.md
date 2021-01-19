@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lwTMDlsPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LVQTCJ2-es'
+slug: 'B00LVQTCJ2-es Roccat Tyon - Ratón Gaming  Sensor Láser 8200 dpi  14 Teclas  Interruptor análogo de Pulgar  Blanco'
 actualPrice: 74.34 EUR
 currency: EUR
 price: 74.34

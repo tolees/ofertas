@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UEfMm-1RL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB1QFN2-es'
+slug: 'B07BB1QFN2-es Versus by Versace Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable VSP870718'
 actualPrice: 117.99 EUR
 currency: EUR
 price: 117.99

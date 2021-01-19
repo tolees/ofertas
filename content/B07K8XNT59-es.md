@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XBOU1X7mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8XNT59-es'
+slug: 'B07K8XNT59-es Crocs Classic Convertible Slipper  Zapatillas Altas Unisex Adulto  Rosa  Rose Dust/Pearl White 6sh   42/43 EU'
 actualPrice: 22.11 EUR
 currency: EUR
 price: 22.11

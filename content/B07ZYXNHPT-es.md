@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qb-+p+E5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYXNHPT-es'
+slug: 'B07ZYXNHPT-es 1 par de vinagre de bambú natural tierno exfoliante membrana del pie máscara del pie reparación del cuidado de la piel del pie blanqueamiento exfoliante - blanco'
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NnPui6viL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087X84XXJ-es'
+slug: 'B087X84XXJ-es Suhctup Funda Transparent Compatible para Galaxy J2 Prime 2017/G530 Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Galaxy G530 A5'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

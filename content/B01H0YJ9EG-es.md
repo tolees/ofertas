@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BpIzYRJYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H0YJ9EG-es'
+slug: 'B01H0YJ9EG-es Moto Racer 4 Deluxe Edition'
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

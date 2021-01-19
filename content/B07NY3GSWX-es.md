@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bPUPNs5QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY3GSWX-es'
+slug: 'B07NY3GSWX-es IKOHS PRO WELLNESS - Báscula de Baño  Blanco '
 actualPrice: 22.46 EUR
 currency: EUR
 price: 22.46

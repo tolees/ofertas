@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ohKvS1T8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBVJYM6-es'
+slug: 'B07BBVJYM6-es Philips QP2520/64 OneBlade  - Pack de recortadora de barba con 3 peines-guía  estuche de viaje  uso en seco o en húmedo  recargable'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

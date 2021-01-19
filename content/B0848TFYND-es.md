@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oXjDs2xWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0848TFYND-es'
+slug: 'B0848TFYND-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 1513777'
 actualPrice: 179.95 EUR
 currency: EUR
 price: 179.95

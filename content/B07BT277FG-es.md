@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414nUgh8+4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BT277FG-es'
+slug: 'B07BT277FG-es Trona de Viaje para Bebé Silla alta Bebe Portatil Arnés de Seguridad Infantil Saco Correa Café'
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S0MALz3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KDBF9B6-es'
+slug: 'B00KDBF9B6-es whiskas Dentabites de 40g para higiene oral de uso diario para gatos  Pack de 8 '
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

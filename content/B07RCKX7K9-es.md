@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uvwCWx1dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCKX7K9-es'
+slug: 'B07RCKX7K9-es LIFECORP Corrector de Postura Espalda – Rectificador de espalda para hombre y mujer – Corsé de apoyo para hombros  dolor de espalda  thorácico  cuello y columna  soporte de espalda deportivo y oficina'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NKj-v+-kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3CKFLK-es'
+slug: 'B07L3CKFLK-es Pendientes Metálicos Cuelgan Azul Dama Joyas Regalo'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

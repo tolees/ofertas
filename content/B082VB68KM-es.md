@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fNj9653rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VB68KM-es'
+slug: 'B082VB68KM-es LEWOTE Airpods Pro Carcasa de Silicona para Apple Airpods Pro  Diseño de Dibujos Animados 3D  Stitch Blue '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

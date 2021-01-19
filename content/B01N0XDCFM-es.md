@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HN5mRtWEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0XDCFM-es'
+slug: 'B01N0XDCFM-es PDP Pixel Pals Luigi - #4 Figuras coleccionables Adultos - FiFiguras de acción y colleccionables  Figuras coleccionables  Multicolor  Videojuego  Adultos  Luigi  14 año s  '
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pAwS6djsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZTJQT8-es'
+slug: 'B07SZTJQT8-es LEADSTAR Funda para Samsung Galaxy Tab A 10.1 2019  Ligero y Super Protective Antichoque EVA Estuche Protector Diseñar Especialmente Manija Caso con Soporte para los Niños  SM-T510 / T515  Violeta '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

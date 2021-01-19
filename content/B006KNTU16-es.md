@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412-3zio+4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006KNTU16-es'
+slug: 'B006KNTU16-es CUMLAUDE Visilaude - Toallitas de Higiene Ocular - Limpieza de Párpados y Pestañas - Descongestionante y Calmante - 16 Toallitas'
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

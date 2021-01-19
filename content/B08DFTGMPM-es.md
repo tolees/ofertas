@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51T-KdxXVnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DFTGMPM-es'
+slug: 'B08DFTGMPM-es 50 colores 100 colores hilo de punto de cruz hilo de bordado de algodón poliéster hilo de color arco iris bordado a mano hilo trenzado - colorido'
 actualPrice: 3.37 EUR
 currency: EUR
 price: 3.37

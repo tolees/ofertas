@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rNEBLy9hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RDKS3F-es'
+slug: 'B081RDKS3F-es BRIKSMAX Kit de Iluminación Led para Lego Technic Camión de Transporte de Vehículos Compatible con Ladrillos de Construcción Lego Modelo 42098  Juego de Legos no Incluido'
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

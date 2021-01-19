@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PNnd8VQAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BJHF4Z4-es'
+slug: 'B00BJHF4Z4-es Postquam - Pur O2 | Gel Purificante con Ácido Salicílico para Combatir el Ácne  100ML …'
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

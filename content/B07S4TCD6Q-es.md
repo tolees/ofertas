@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PXQBpp5HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4TCD6Q-es'
+slug: 'B07S4TCD6Q-es New Balance FuelCell Propel m  Zapatillas de Running para Mujer  Morado  Plum Ci   39 EU'
 actualPrice: 50.65 EUR
 currency: EUR
 price: 50.65

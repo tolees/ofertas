@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XD+FuClhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHZ9YGG-es'
+slug: 'B07FHZ9YGG-es lenbest Pinturas Cara  Maquillaje al Agua  Pinturas Corporales - 14 Colores 3 Cepillos 2 Esponjas 2 Barras de Ojos 2 Brillos - Pintura Facial Profesional para Niños - a Base de Agua'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

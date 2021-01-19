@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GWKYjWLgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GUZK4TU-es'
+slug: 'B01GUZK4TU-es adidas Superstar C  Zapatillas de Baloncesto Unisex Niños  Blanco  Footwear White/Core Black/Footwear White 0   31 EU'
 actualPrice: 33.01 EUR
 currency: EUR
 price: 33.01

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bjIndzW-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDBMLC4-es'
+slug: 'B07YDBMLC4-es Luchild Almohada para lactancia Almohada multifuncional para lactancia con reposacabezas desmontable Cubierta extraíble Soporte para la cabeza del bebé Almohada para lactancia - Punto'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

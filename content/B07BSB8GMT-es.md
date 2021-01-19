@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513UsVsgHaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSB8GMT-es'
+slug: 'B07BSB8GMT-es Power extra Set de soldadura Soldadura 220 V 60 W Temperatura ajustable 200 °C de 450 °C con 5 puntas  Bomba desoldadora  soldador Soporte  estaño  pinzas para Elektrotechnik difuminar Reparaciones'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

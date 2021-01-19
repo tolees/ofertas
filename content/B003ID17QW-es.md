@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PPK2T7j6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ID17QW-es'
+slug: 'B003ID17QW-es Valueline AC-018 - Adaptador de audio Estereo Jack 3.5mm Hembra a Jack 2.5mm Macho  Negro '
 actualPrice: 4.73 EUR
 currency: EUR
 price: 4.73

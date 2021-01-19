@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-b5TvRm4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XJ5SMR6-es'
+slug: 'B06XJ5SMR6-es Dewalt DCH133NT-XJ Martillo electroneumático sin escobillas XR 18V SDS-Plus 2  18 V  Plateado'
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

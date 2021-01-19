@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419a3D02VbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TF68GB4-es'
+slug: 'B07TF68GB4-es Estuche rígido de Viaje para Sony MDRZX110NC / ZX300 / ZX310 / MDRZX110 ZX Series Estéreo / MDRZX110AP Auriculares Extra Bajos  Bolsa de Almacenamiento Protectora - Negro  Forro Negro '
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

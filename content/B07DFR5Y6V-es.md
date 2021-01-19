@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZnqqcnzhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFR5Y6V-es'
+slug: 'B07DFR5Y6V-es New Balance Fresh Foam Cruz v2 Deconstructed m  Zapatillas de Running para Mujer  Naranja  Marzipan/Vanilla/Sea Salt Lm2   40 EU'
 actualPrice: 34.42 EUR
 currency: EUR
 price: 34.42

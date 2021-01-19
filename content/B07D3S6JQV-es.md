@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-YyRP6zOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D3S6JQV-es'
+slug: 'B07D3S6JQV-es Teclado de Unidad de Disco Flojo de Memoria USB de Emulador para Korg Pa80 Psr 630 Psr 450'
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

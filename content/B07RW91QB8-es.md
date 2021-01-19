@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418alrcyqoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RW91QB8-es'
+slug: 'B07RW91QB8-es Zeerkeer Rastreador GPS Reloj Inteligente para Niños GPS/LBS Posicionamiento en Tiempo Real Reloj SOS Antipérdida Reloj Inteligente para Niños……'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

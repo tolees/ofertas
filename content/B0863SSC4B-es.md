@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yy-TpSopL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0863SSC4B-es'
+slug: 'B0863SSC4B-es Suhctup Transparente Funda Compatible con Huawei Nova 3E Cárcasa Silicona Ultra Fina Flor Diseño Anti-Arañazos Antigolpes Bumper TPU Resistente Case Cover para Huawei Nova 3E 2 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

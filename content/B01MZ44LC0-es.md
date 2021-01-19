@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LpBpTcM0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZ44LC0-es'
+slug: 'B01MZ44LC0-es Nike Classic Cortez Leather  Zapatillas para Mujer  Blanco  White/Varsity Red-Varsity Royal 103   38 EU'
 actualPrice: 59.45 EUR
 currency: EUR
 price: 59.45

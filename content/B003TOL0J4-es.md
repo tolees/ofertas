@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ls2WECXEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003TOL0J4-es'
+slug: 'B003TOL0J4-es BRA Efficient - Plancha asador liso  45 cm  aluminio fundido con antiadherente Teflon Platinum Plus'
 actualPrice: 53.39 EUR
 currency: EUR
 price: 53.39

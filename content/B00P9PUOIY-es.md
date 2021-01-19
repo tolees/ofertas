@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NHQCQCPiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P9PUOIY-es'
+slug: 'B00P9PUOIY-es American Crew Champú Diario 250 ml'
 actualPrice: 9.72 EUR
 currency: EUR
 price: 9.72

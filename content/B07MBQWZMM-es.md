@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31gAXLDSzbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBQWZMM-es'
+slug: 'B07MBQWZMM-es Kickers Bromer  Botas Clasicas para Hombre  Marrón  Marron Fonce 9   44 EU'
 actualPrice: 41.29 EUR
 currency: EUR
 price: 41.29

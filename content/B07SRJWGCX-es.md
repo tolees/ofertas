@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vd5jiNHEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRJWGCX-es'
+slug: 'B07SRJWGCX-es adidas Forest Grove  Zapatillas de Gimnasia para Hombre  Negro  Core Black/Core Black/Orchid Tint   44 2/3 EU'
 actualPrice: 45.8 EUR
 currency: EUR
 price: 45.8

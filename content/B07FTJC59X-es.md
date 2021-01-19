@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jFPOpGHfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTJC59X-es'
+slug: 'B07FTJC59X-es BONAI Bateria Externa Wireless 12000mAh 2 In 1 Cargador Inalámbrico + Cargador Móvil Portáti Power Bank para iPhone XR/XS/XS Max/X/8/8+  Samsung Galaxy S8/Note 8 y Todos Móviles con QI - Oro Rosa'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

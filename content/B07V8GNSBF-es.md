@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QF0Y6fapL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8GNSBF-es'
+slug: 'B07V8GNSBF-es Fossil Pulsera para Hombre JF03171040'
 actualPrice: 20.7 EUR
 currency: EUR
 price: 20.7

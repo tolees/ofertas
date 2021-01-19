@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hsKBaLuJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D2QY77K-es'
+slug: 'B01D2QY77K-es CHRONOWATCH Reloj automático Man Camara HA5310C2GBCT 44 mm'
 actualPrice: 175.0 EUR
 currency: EUR
 price: 175.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JWUzudWPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ITK5JLI-es'
+slug: 'B00ITK5JLI-es Crema de calor 200 ml'
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

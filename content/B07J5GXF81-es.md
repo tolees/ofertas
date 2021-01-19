@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QQk5RAvGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5GXF81-es'
+slug: 'B07J5GXF81-es Skechers Boys  Flex Advantage 3.0 Trainers  Blue  Navy & Charcoal Textile/Navy & Red Trim Nvcc   12.5 UK  31 EU '
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

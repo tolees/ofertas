@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DEgHun7bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFBPF9W-es'
+slug: 'B07QFBPF9W-es Puma ESS Logo Pants FL Cl Chándal  Hombre  Gibraltar Sea  XXL'
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

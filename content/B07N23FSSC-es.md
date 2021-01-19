@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZsfR0rW3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N23FSSC-es'
+slug: 'B07N23FSSC-es Quiksilver Shorebreak Mid Sherpa-Shoes for Men  Botas Clasicas para Hombre  Marrón  Brown/Brown/White Xccw   41 EU'
 actualPrice: 20.69 EUR
 currency: EUR
 price: 20.69

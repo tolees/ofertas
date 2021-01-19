@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KoyXFd7FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K1Z5K4O-es'
+slug: 'B01K1Z5K4O-es Electrolux Love Your Day Collection Batidora de repostería  450 W  Blanco'
 actualPrice: 19.02 EUR
 currency: EUR
 price: 19.02

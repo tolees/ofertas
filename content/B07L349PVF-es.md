@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519X0M5IFjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L349PVF-es'
+slug: 'B07L349PVF-es iWork - Maletín de Llaves y Vasos 1/4" y 1/2" con juego de tubos en CROMO-VANADIO color negro.'
 actualPrice: 43.92 EUR
 currency: EUR
 price: 43.92

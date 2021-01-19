@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wGJamDbZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HZEPT82-es'
+slug: 'B00HZEPT82-es Chicco-00.005954.000.000 Big & Small Anillos Fáciles De Agarrar  Multicolor  00005954000000 '
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z1zT2FkrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R9J5RTQ-es'
+slug: 'B07R9J5RTQ-es ORICO Tiras para Organizar Cables y Sujetacables  Reutilizables sujeta Cables  Se Puede Cortar a Voluntad，Blanco - 0.5m'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

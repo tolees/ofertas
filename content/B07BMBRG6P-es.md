@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C4-YUX+VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMBRG6P-es'
+slug: 'B07BMBRG6P-es Wrangler Larston Jeans  Indigo Wit  36W / 32L para Hombre'
 actualPrice: 41.59 EUR
 currency: EUR
 price: 41.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tNJkHFspL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4MJ4BV-es'
+slug: 'B07N4MJ4BV-es Levi s Jax  Botas Clasicas para Hombre  Amarillo  Medium Yellow 74   43 EU'
 actualPrice: 35.07 EUR
 currency: EUR
 price: 35.07

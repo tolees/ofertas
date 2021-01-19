@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416VWtE6JTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QF3CRJ-es'
+slug: 'B075QF3CRJ-es iiniim S-XL Hombre Suspensorio Atlético Defensor Atractivo Bragas Ropa Interior Calzoncillos para Los Hombres Blanco M'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

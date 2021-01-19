@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pqxIhCH4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HLDN74-es'
+slug: 'B077HLDN74-es find. MDR 40625 vestidos mujer  Negro  Black   40  Talla del fabricante: Medium '
 actualPrice: 12 EUR
 currency: EUR
 price: 12

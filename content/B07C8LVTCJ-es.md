@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z-o-gxFbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C8LVTCJ-es'
+slug: 'B07C8LVTCJ-es Fantasy Flight Games- AT-ST  FFSWL08 '
 actualPrice: 24.81 EUR
 currency: EUR
 price: 24.81

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jHTUZtLfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B001DZN8GE-es'
+slug: 'B001DZN8GE-es Epson Durabrite Ultra Ink para Stylus SX600/B40W/BX600FW  negro  Ya disponible en Amazon Dash Replenishment'
 actualPrice: 21.15 EUR
 currency: EUR
 price: 21.15

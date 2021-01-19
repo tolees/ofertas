@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VCtNOlcfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ47Z3-es'
+slug: 'B07MZQ47Z3-es Pepe Jeans Sloane Pantalones   Beige 844   W28/L32 para Hombre'
 actualPrice: 29.7 EUR
 currency: EUR
 price: 29.7

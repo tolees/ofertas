@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HNHrH0VRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK2Z5WR-es'
+slug: 'B07KK2Z5WR-es Columbia Grixsen Boot WP  Botas Chukka para Hombre  Beige  Elk  Dark Truff 286   48 EU'
 actualPrice: 36.87 EUR
 currency: EUR
 price: 36.87

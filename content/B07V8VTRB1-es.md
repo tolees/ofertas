@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E558r+IML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8VTRB1-es'
+slug: 'B07V8VTRB1-es Tommy Hilfiger Modern Corporate Leather Runner  Zapatillas para Hombre  Azul  Desert Sky Dw5   44 EU'
 actualPrice: 57.48 EUR
 currency: EUR
 price: 57.48

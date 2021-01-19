@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OHVWgRd6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VL4D4VD-es'
+slug: 'B07VL4D4VD-es Nike Pico 5 TDV  Zapatillas Unisex Niños  Multicolor  Platinum Tint/White-Active Fuchsia   22 EU'
 actualPrice: 15.15 EUR
 currency: EUR
 price: 15.15

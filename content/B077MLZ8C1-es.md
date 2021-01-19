@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ztqae-fAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MLZ8C1-es'
+slug: 'B077MLZ8C1-es PUMA Smash V2  Zapatillas Unisex Adulto  Negro Black White Silver  45 EU'
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

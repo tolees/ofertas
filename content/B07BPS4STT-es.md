@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411Jc4zq4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPS4STT-es'
+slug: 'B07BPS4STT-es Baoblaze 1 Par de Altavoces Accesorios de Audio Música Estéreo para Coche Automóvil de Multicolor'
 actualPrice: 17.14 EUR
 currency: EUR
 price: 17.14

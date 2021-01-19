@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iSZdW4SoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQVJ1VN-es'
+slug: 'B07MQVJ1VN-es Napapijri Moto Wint Pantalones  Verde  Green Forest 2 GE3   46  Talla del Fabricante: 34  para Hombre'
 actualPrice: 76.53 EUR
 currency: EUR
 price: 76.53

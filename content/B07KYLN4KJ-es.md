@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UWrIiTkRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYLN4KJ-es'
+slug: 'B07KYLN4KJ-es Hode Vinilos Decorativos Actualización Grano Madera Vinilo Texturizada Etiqueta Autoadhesiva Liner Respaldo Pegajoso Rollo Papel Tapiz para Puerta Cocina Bañ Papel Adhesivo para Muebles 45x300cm'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

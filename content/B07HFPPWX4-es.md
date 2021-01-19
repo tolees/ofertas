@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411yhf1mrXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFPPWX4-es'
+slug: 'B07HFPPWX4-es Shock Absorber Ultimate Run Bra Sujetador Deportivo  Rosa  Rose Orange Agrume 0a9   100C para Mujer'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

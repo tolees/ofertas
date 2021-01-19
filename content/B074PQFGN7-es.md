@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61cqzmInB4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PQFGN7-es'
+slug: 'B074PQFGN7-es MagiDeal 50 Pedazos Madera Mixta Birdcase DIY Artesanía Decoración de Costura Scrapbooking'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

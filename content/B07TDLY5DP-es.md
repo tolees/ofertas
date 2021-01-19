@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41in3emIGNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDLY5DP-es'
+slug: 'B07TDLY5DP-es Haofy Bombillas LED  30W Bombillas de Luz Cuadradas Equivalente de 150 a 200W   Tornillo E26 / E27 en Lámpara de Luz 3500LM  6500k para Garaje  Techo  Sótano  Fábrica  Hogar Interior Exterior'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

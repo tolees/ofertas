@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oWsOKiUCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LZL1C6-es'
+slug: 'B079LZL1C6-es Disney El Amor Incondicional de Una Madre-Dumbo Figurina  Resina  Multicolor  12.50x16.50x19.00 cm'
 actualPrice: 42.04 EUR
 currency: EUR
 price: 42.04

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XjMzoMbGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WYPJSD5-es'
+slug: 'B07WYPJSD5-es Juego de Ganzúas 30 Piezas + 3 Candados Transparentes para Prácticas y Tarjeta de Crédito con Ganzúas Set de Herramientas LockCowboy + Regalo: Guía Electrónica para Cerrajeros Novatos y Profesionales'
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

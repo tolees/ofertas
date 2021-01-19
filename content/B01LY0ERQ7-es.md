@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41et0vywZNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY0ERQ7-es'
+slug: 'B01LY0ERQ7-es Omino Bianco Detergente Liquido Cuero de Marsella'
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

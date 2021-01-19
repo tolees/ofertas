@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bt+qgKN1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFRI9AU-es'
+slug: 'B01FFRI9AU-es ROYAL RASCALS | Espejo para vigilar al bebé en el coche | Espejo retrovisor para asiento de niños orientado hacia atrás | NEGRO | Inastillable | PRODUCTO PREMIUM | Señal de Baby on Board GRATIS'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

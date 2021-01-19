@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RMtwu9pbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LH7L8T3-es'
+slug: 'B07LH7L8T3-es The North Face 24/7 Short Pantalones Cortos para Mujer  Negro  TNF Black   M'
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

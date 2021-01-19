@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BeTfPjfGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784GHNNX-es'
+slug: 'B0784GHNNX-es Doble llavero de pareja  2 piezas que encajan con figura de hombre y mujer  llavero abalorio para parejas  hecho de aleación'
 actualPrice: 2.21 EUR
 currency: EUR
 price: 2.21

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JB6qPZnnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UY73XOE-es'
+slug: 'B00UY73XOE-es ieGeek Autoradio Bluetooth  4×60W Llamadas Manos Libres  Universal 1 DIN Radio de Coche  7 Colores LED  Soporta Estéreo RDS/MP3/FM/AM/SD/AUX/RST/Dual USB/Pantalla de Reloj Remote Control'
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

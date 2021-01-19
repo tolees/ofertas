@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bmNPDzegL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L55RIBM-es'
+slug: 'B01L55RIBM-es Beurer MG510 - Masaje presion por golpeteo  con/sin cable y bateria de litio'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

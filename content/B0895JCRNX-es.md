@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511InPbWDoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895JCRNX-es'
+slug: 'B0895JCRNX-es 1200X Conector de crimpado de alambre Pin de cable Pin de férula Kits de terminales de alicates de crimpado 1200pcs tipo de tubo alicates de prensado en frío'
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

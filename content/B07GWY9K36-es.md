@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aLzUFRN9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWY9K36-es'
+slug: 'B07GWY9K36-es Philips Avent SCF045/27-2 - Tetinas natural flujo variable  3m+  con 2 agujeros'
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

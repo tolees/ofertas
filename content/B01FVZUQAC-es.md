@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OssFqJHrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FVZUQAC-es'
+slug: 'B01FVZUQAC-es Ice-Watch - ICE duo White sage - Reloj blu para Mujer con Correa de silicona - 001489  Small '
 actualPrice: 60.96 EUR
 currency: EUR
 price: 60.96

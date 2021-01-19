@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e8O0cpWUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UXG71PI-es'
+slug: 'B00UXG71PI-es Clarks Trigenic Flex  Zapatillas para Mujer  Negro  Black Nubuck   38 EU'
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

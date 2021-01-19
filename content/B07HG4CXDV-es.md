@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qorC7FvOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG4CXDV-es'
+slug: 'B07HG4CXDV-es New Balance 247v2  Zapatillas para Hombre  Blanco  Pigment Pigment   38 EU'
 actualPrice: 42.77 EUR
 currency: EUR
 price: 42.77

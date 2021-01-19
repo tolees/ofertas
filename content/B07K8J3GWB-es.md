@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dL3+sle6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8J3GWB-es'
+slug: 'B07K8J3GWB-es MOSNOVO [Ultra Hybrid Funda iPhone XR protección híbrida de la Gota para Apple iPhone XR - Flower Skull'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

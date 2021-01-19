@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61iAla60HFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074DCGV28-es'
+slug: 'B074DCGV28-es Depple - Set de costura con 234 piezas de accesorios de costura  24 rollos de hilo incluidos  herramienta de costura completa para principiantes  viajeros  familiares y amigos'
 actualPrice: 15.1 EUR
 currency: EUR
 price: 15.1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k9oVqhRqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9RX5GQ-es'
+slug: 'B07S9RX5GQ-es Puma Persist Xt Knit Zapatillas Deportivas para Interior Hombre  Gris  Castlerock/Yellow Alert 06   44 EU  9.5 UK '
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

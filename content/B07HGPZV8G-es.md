@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jd1c7FYjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGPZV8G-es'
+slug: 'B07HGPZV8G-es Battle Snacks Battle Bites  12x62g  12 Unidades 740 g'
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

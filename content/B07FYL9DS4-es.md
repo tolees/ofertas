@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31l2h6TA0sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYL9DS4-es'
+slug: 'B07FYL9DS4-es Ladrón con interruptor múltiple Maclean MCE217  adaptador con cuatro enchufes europeos de 2 5 A'
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

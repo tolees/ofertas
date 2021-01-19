@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GTQyXnvaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZ7MR8X-es'
+slug: 'B08BZ7MR8X-es Nakiri cuchillo de cocinero Cuchillo profesional Cuchillo de cocina 17.5 cm Cuchillo universal Acero inoxidable alemán Cuchilla extra afilada con mango ergonómico Embalaje de regalo exquisito'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QIJC07YcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC8CKLT-es'
+slug: 'B07RC8CKLT-es Columbia Klamath Range II Forro Polar con Media Cremallera  Hombre  Azul  Azure-Blue/Collegiate-Navy   S'
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yAY-lz0jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2SN29S-es'
+slug: 'B07S2SN29S-es New Balance 997H m  Zapatillas para Mujer  Morado  Purple Haq   40.5 EU'
 actualPrice: 49.94 EUR
 currency: EUR
 price: 49.94

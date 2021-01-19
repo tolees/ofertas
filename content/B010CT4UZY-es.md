@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ViBNGhUmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010CT4UZY-es'
+slug: 'B010CT4UZY-es Teka Microondas Grill | Modelo MWE 225 G | Capacidad 20 L | 5 Niveles de Potencia | 1050 W | 8 menús | Acero Inoxidable Cristal Gris y Negro  20 litros'
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

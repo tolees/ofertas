@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TcpJqhhqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BN7X7FY-es'
+slug: 'B00BN7X7FY-es Nelly Laca Spray - 125 ml'
 actualPrice: 0.98 EUR
 currency: EUR
 price: 0.98

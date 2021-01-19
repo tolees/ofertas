@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MpR2+sPvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000YBZZU0-es'
+slug: 'B000YBZZU0-es Fellowes Gel Crystals - Reposamuñecas flexible  negro'
 actualPrice: 8.68 EUR
 currency: EUR
 price: 8.68

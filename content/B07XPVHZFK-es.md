@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51w3Klwg5pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XPVHZFK-es'
+slug: 'B07XPVHZFK-es Newdora Tapas de Silicona Elásticas  14 Tapas Silicona Ajustables Cocina  Reutilizable Fundas Protectoras para Alimentos Tapa Tazas  Boles o Tarros Tapa del tazón  Lavavajillas  Microonda'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

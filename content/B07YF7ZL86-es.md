@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419t9b8MF3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YF7ZL86-es'
+slug: 'B07YF7ZL86-es Bigherdez 1 unid Tatuaje Falso Manga elástica del Brazo Medias del Brazo Pieles Deportivas Protector Solar Resistente al Agua Unisex Hombro Tatuaje Manga Hombres Mujeres - Multicolor'
 actualPrice: 2.06 EUR
 currency: EUR
 price: 2.06

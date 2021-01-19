@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DIdclXkVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD3G7LV-es'
+slug: 'B07VD3G7LV-es Calvin Klein CK Essential Tipping Slim Polo  Blanco  Bright White/Black Yaf   XX-Large para Hombre'
 actualPrice: 28.62 EUR
 currency: EUR
 price: 28.62

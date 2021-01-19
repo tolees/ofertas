@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XJyrOixgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6WDN3X-es'
+slug: 'B07P6WDN3X-es Pllieay 88 piezas 6 tamaños bolas de espuma de poliestireno blanco para manualidades  decoración de manualidades  manualidades  manualidades  manualidades  hogar  proyectos escolares'
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

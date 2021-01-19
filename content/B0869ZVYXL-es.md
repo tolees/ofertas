@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PAtdIcBhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0869ZVYXL-es'
+slug: 'B0869ZVYXL-es Durex Preservativos Mutual Clímax con Puntos y Estrías para ella y Efecto Retardante para él - 12 condones'
 actualPrice: 7.12 EUR
 currency: EUR
 price: 7.12

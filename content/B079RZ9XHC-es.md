@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UP0Zk+zeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RZ9XHC-es'
+slug: 'B079RZ9XHC-es Tenis de Entrenamiento Auto Práctica Juego de Rebote Tenis Base 2 Pelotas con Cuerdas'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411ruAlA11L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGNTN98-es'
+slug: 'B07PGNTN98-es New Balance Trail Nitrel  Zapatillas de Running para Asfalto para Hombre  Negro  Black/Yellow Black/Yellow   45 EU'
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

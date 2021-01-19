@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NlLmdqeNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HQD2DJY-es'
+slug: 'B01HQD2DJY-es iCozzier 15-15 6 Pulgadas Funda para portátil con Espuma de Diamante Splash Funda para ASUS Acer HP Lenovo Laptop/Chromebook/MacBook/Ultrabook Computer - Negro'
 actualPrice: 13.72 EUR
 currency: EUR
 price: 13.72

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UINAgmYaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CMVJKO2-es'
+slug: 'B00CMVJKO2-es Philips Avent SCF676/01 - Funda para biberón de cristal 240 ml  lavable a 40 °C  mantiene los líquidos calientes o fríos  colores surtidos'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

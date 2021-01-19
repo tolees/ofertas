@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510+8OL7oFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G376PZK-es'
+slug: 'B07G376PZK-es Maddox Detail - Premium Microfiber - Paño de Microfibra 40 x 40 cm  súper Suave de Alta absorción de Agua'
 actualPrice: 9.05 EUR
 currency: EUR
 price: 9.05

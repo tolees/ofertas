@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AYL91TpcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CRTVW2R-es'
+slug: 'B07CRTVW2R-es Philips Sonicare ProtectiveClean 4300 HX6809/34 Pack Doble - Cepillo de dientes eléctrico con sensor de presión  1 modo de limpieza  2 intensidades y estuche de viaje'
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

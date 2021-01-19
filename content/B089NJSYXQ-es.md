@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410pkFwYEbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NJSYXQ-es'
+slug: 'B089NJSYXQ-es Cuerda de saltar Focuses sin enredos de velocidad rápida con rodamientos de bolas  cuerda de saltar ajustable de acero con espuma viscoelástica asas cómodas para fitness'
 actualPrice: 7.18 EUR
 currency: EUR
 price: 7.18

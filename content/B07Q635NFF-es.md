@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319MPmoIMoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q635NFF-es'
+slug: 'B07Q635NFF-es Lékué Triturador de Vegetales'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

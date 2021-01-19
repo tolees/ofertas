@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fGC54ThwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084WXVLZC-es'
+slug: 'B084WXVLZC-es Aigostar Lamo - Sandwichera  800W  revestimiento antiadherente  libre de BPA  almacenamiento vertical  piloto LED indicador temperatura  placas con forma triangular. Color acero y negro.'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

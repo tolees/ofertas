@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31huAOPh9JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0085QD6MU-es'
+slug: 'B0085QD6MU-es Tommee Tippee 42302241 - Bolsas para conservar la leche'
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

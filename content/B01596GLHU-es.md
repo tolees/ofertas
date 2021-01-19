@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51P-oyX5h8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01596GLHU-es'
+slug: 'B01596GLHU-es Suéter de Gasolina Industrias FW15-KWC283 591 PROFUNDO de la MARINA'
 actualPrice: 24 EUR
 currency: EUR
 price: 24

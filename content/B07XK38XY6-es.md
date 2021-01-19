@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NvcmAbfOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XK38XY6-es'
+slug: 'B07XK38XY6-es Asiento de coche Reposacabezas Niños Niños Soporte de cabeza de viaje al aire libre Almohada-azul'
 actualPrice: 4.23 EUR
 currency: EUR
 price: 4.23

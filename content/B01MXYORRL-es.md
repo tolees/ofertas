@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41--C73plEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXYORRL-es'
+slug: 'B01MXYORRL-es The North Face Back-to-Berkeley Redux Leather  Botas de Senderismo para Hombre  Negro  TNF Black/TNF Black/TNF Black Kx8   42 EU'
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

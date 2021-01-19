@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516IbqpCxSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DPH2S65-es'
+slug: 'B07DPH2S65-es POWER DOUGH  Multicolor  Canal Toys Amazon ES1 DP016 '
 actualPrice: 9.56 EUR
 currency: EUR
 price: 9.56

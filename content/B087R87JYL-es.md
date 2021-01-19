@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eBSZHpohL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087R87JYL-es'
+slug: 'B087R87JYL-es DIGITNOW! USB 3.0 HD Grabadora Video  Live Gamer Portable Full HD 1080P 60FPS Live Streaming Video Recorder Converter Box for - Capturadora portátil de Juegos HDMI '
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

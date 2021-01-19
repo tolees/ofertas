@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ukWCGbMiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BV93LOK-es'
+slug: 'B01BV93LOK-es Diadermine Lift + Tagescreme Súper relleno  Paquete 1er  1 x 50 ml '
 actualPrice: 9.68 EUR
 currency: EUR
 price: 9.68

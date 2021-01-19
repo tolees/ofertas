@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BsA2Zg4aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FL9XBK5-es'
+slug: 'B07FL9XBK5-es Philips Avent Biberón Natural SCF070/25 - Biberón de 260 ml con tetina con flujo para recién nacidos  diseñada para imitar el tacto del pecho  0% BPA  1m+  Unicornio'
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

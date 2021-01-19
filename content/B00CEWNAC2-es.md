@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TNUIdwfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CEWNAC2-es'
+slug: 'B00CEWNAC2-es Trofolastin Senos - Crema antiestrías para senos  previene la aparición de estrías  reafirmante - 75 ml'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

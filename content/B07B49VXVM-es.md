@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61V6lOr2YuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B49VXVM-es'
+slug: 'B07B49VXVM-es Cámara Impermeable Digital Videocámara Subacuática 10 Metros de 16MP Video LCD de 2.7" 8 x Zum Digital Detección de Caras con TF Card de 8 GB'
 actualPrice: 76.07 EUR
 currency: EUR
 price: 76.07

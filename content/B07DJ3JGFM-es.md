@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515wEe8QysL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ3JGFM-es'
+slug: 'B07DJ3JGFM-es New Balance Fresh Faom Cruz v2 Hygge Pack  Zapatillas para Mujer  Verde  Camp Smoke/Vintage Cedar/Faded Birch Hg2   41.5 EU'
 actualPrice: 30.72 EUR
 currency: EUR
 price: 30.72

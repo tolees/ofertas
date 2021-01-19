@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hGDHfLT1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8ZHJQ4-es'
+slug: 'B07H8ZHJQ4-es Bolsa de Pañales Bebés  Sunshine D Bolsa Reutilizable Impermeable Lavable de Tela con Cremallera para mamá  Elefante'
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

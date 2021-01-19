@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mm8Un8TcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YB8LG1V-es'
+slug: 'B07YB8LG1V-es Relaxdays Plancha Cocina  Lisa y con Rayas  Grill Eléctrico 1800 W  Parrilla para Asar  Aluminio  45 x 30 cm  Negro'
 actualPrice: 61.73 EUR
 currency: EUR
 price: 61.73

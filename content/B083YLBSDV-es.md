@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TjTsHlu4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083YLBSDV-es'
+slug: 'B083YLBSDV-es Metro Redux'
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

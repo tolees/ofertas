@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tRWiYWg2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CB93BVX-es'
+slug: 'B07CB93BVX-es Gen‚rico Calzador de Mango Largo Accesorios Acero Inoxidable Cordón Fácil de Agarrar - Marrón  15"'
 actualPrice: 7.81 EUR
 currency: EUR
 price: 7.81

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51s+td2kneL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDCKXLQ-es'
+slug: 'B08CDCKXLQ-es qingqingR Condones más vendidos Condón lubricado de látex con Punta Puntiaguda Acanalada'
 actualPrice: 5.34 EUR
 currency: EUR
 price: 5.34

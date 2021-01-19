@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413bGCYqydL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLYZ3JC-es'
+slug: 'B07TLYZ3JC-es Vans Ward Suede/Canvas  Zapatillas para Hombre  Azul   Outdoor  Dress Blue/White Syn   46 EU'
 actualPrice: 36.69 EUR
 currency: EUR
 price: 36.69

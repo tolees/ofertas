@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PpM0p1-xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6N8FC6-es'
+slug: 'B07N6N8FC6-es Tommy Hilfiger BB Cap Gorra de béisbol   Pink Tf6   Talla única  Talla del Fabricante: OS  para Mujer'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

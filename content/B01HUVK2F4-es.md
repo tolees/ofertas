@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ok8L42qGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HUVK2F4-es'
+slug: 'B01HUVK2F4-es Crocs Handle It Rain Boot K  Botas de Agua Unisex Niños  Azul  Cerulean Blue   27/28 EU'
 actualPrice: 21.44 EUR
 currency: EUR
 price: 21.44

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xAdnr72-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWZM8GF-es'
+slug: 'B07RWZM8GF-es Cubierta de Enfermería Lactancia Materna Bufanda para Asiento del Coche Sillita del Bebé Da el Pecho de Forma Discreta en Público  Elefante'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

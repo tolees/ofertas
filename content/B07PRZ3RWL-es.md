@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PL46wqpgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRZ3RWL-es'
+slug: 'B07PRZ3RWL-es New Balance 574v2  Zapatillas para Hombre  Gris  Grey Grey   38.5 EU'
 actualPrice: 63.77 EUR
 currency: EUR
 price: 63.77

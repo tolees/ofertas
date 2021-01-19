@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JrZ8i1awL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0799FJ3NP-es'
+slug: 'B0799FJ3NP-es TACKLIFE Cortasetos Eléctrico  600W Cortasetos  20mm Ancho de Corte  3 Ángulos de Corte y 3 Interruptores  Corte Anticolisión  Diseño de Parachoques - GHT1A '
 actualPrice: 73.79 EUR
 currency: EUR
 price: 73.79

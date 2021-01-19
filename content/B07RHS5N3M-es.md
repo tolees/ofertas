@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WPDxP2fnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHS5N3M-es'
+slug: 'B07RHS5N3M-es Raid - Recambio para Difusor Eléctrico Anti Mosquitos Comunes y Tigre 135 Noches  Blanco'
 actualPrice: 5.71 EUR
 currency: EUR
 price: 5.71

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31g4hi8ICKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087FWTF2Q-es'
+slug: 'B087FWTF2Q-es TOUS Pulsera Good Vibes Mama de Plata Vermeil y rubí'
 actualPrice: 112.0 EUR
 currency: EUR
 price: 112.0

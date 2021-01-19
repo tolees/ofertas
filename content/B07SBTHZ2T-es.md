@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eYwuUEeSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBTHZ2T-es'
+slug: 'B07SBTHZ2T-es Vans MN Full Patch Snapback Gorra de béisbol  Verde  Sharp Green Sq4   Talla única  Talla del Fabricante: OS  para Hombre'
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

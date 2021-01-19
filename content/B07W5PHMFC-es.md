@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rgrqxxb3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5PHMFC-es'
+slug: 'B07W5PHMFC-es JACK & JONES Jcomilla Sweat Hood Capucha  Multicolor  Sky Captain Detail: W. New Lgm   Small para Hombre'
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

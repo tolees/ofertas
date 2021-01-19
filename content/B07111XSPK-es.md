@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mpTTLiU1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07111XSPK-es'
+slug: 'B07111XSPK-es Reloj Scuderia Ferrari para Hombre 0830435  Marrón  Azul/Marrón '
 actualPrice: 148.29 EUR
 currency: EUR
 price: 148.29

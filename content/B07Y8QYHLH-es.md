@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MmPbs6emL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8QYHLH-es'
+slug: 'B07Y8QYHLH-es JACK & JONES Jorbrandon Sweat Hood Capucha  Gris  Light Grey Melange Fit: Slim JJ   Small para Hombre'
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

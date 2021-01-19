@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lxVRccsbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D8WCG4Y-es'
+slug: 'B07D8WCG4Y-es HBselect 10 Pares Calcetines Mujer Cortos Algodon Calcetines Invisibles Mujer Silicona Antideslizante'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

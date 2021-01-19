@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31in5FHvYHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3CJHS8-es'
+slug: 'B07L3CJHS8-es Tommy Hilfiger Tommy Jeans Casual Sneaker  Zapatillas para Mujer  Blanco  White 100   40 EU'
 actualPrice: 41.49 EUR
 currency: EUR
 price: 41.49

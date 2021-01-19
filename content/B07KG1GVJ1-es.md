@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41axuBbFAaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1GVJ1-es'
+slug: 'B07KG1GVJ1-es PUMA Ralph Sampson Mid  Zapatillas Altas Unisex Adulto  White White-Purple Glimmer  37.5 EU'
 actualPrice: 36.08 EUR
 currency: EUR
 price: 36.08

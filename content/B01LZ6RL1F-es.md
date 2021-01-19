@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EQZQpsMPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZ6RL1F-es'
+slug: 'B01LZ6RL1F-es Durex Mutual Climax Preservativos 12 Unidades'
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

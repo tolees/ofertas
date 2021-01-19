@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MaGUj-QWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085T5BVVP-es'
+slug: 'B085T5BVVP-es Funda para Samsung Galaxy A71 + [2 Pack] Cristal Templado Protector de Pantalla Suave TPU Transparente Gel Silicona Anti-caída Anti-arañazos Protectora Carcasa para Samsung Galaxy A71  6.7 Pulgadas '
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

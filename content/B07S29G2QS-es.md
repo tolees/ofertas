@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417UheFsoyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S29G2QS-es'
+slug: 'B07S29G2QS-es vamei 8 piezas Bebé Niña Diademas Cintas de Pelo Diadema Elástica Turbante Bowknot Bebé Venda De Pelo De Arco 0-3 meses  Arco pequeño '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

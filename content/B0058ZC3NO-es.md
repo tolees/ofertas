@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lea5oxIcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0058ZC3NO-es'
+slug: 'B0058ZC3NO-es The North Face Resolve  Pantalones para Hombre  TNF Negro  M'
 actualPrice: 58.49 EUR
 currency: EUR
 price: 58.49

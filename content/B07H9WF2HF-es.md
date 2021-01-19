@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MDeXKvJTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9WF2HF-es'
+slug: 'B07H9WF2HF-es Kit de accesorios para XIAOMI MI Robot piezas de repuesto al vacío 2 piezas Principal 2 piezas cepillo cepillo lateral 2 piezas Filtro HEPA'
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

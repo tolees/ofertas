@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ra1pDuAgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MCQP1Q2-es'
+slug: 'B01MCQP1Q2-es Tesa 77767-00001-00 77767-00001-00-Smart Mounting System Removíbles para Azulejo-SMS Clavo Adhesivo Ajustable hasta 3KgAzulejos  Set de 2 Piezas'
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

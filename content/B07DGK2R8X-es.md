@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ScnsRNLGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGK2R8X-es'
+slug: 'B07DGK2R8X-es Zzkko Animal Licorne Sacs à Dos College School Book Sac de Voyage Randonnée Camping Sac à Dos'
 actualPrice: 30.18 EUR
 currency: EUR
 price: 30.18

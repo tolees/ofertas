@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51uwWk1Lg7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075B6PRV8-es'
+slug: 'B075B6PRV8-es URCERI Telémetro Láser 40m  Medidor Láser de Distancia，Precisión ±2mm  Impermeabilidad IP54  Niveles de Burbuja  Medición de Distancia  Área  Volumen  Continua  Pitágoras  Modelo Mudo  Suma/Resta'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

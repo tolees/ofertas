@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WULTEDO0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087ZPRW8R-es'
+slug: 'B087ZPRW8R-es Monix Tempo Duo - Set de ollas a presión 4+7 L incluye cestillo in acero inoxidable 18/10  apta para todo tipo de cocinas incluida inducción'
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

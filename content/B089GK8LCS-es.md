@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61hJKO6WsRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089GK8LCS-es'
+slug: 'B089GK8LCS-es FLZONE Gorros de Ducha 4 Piezas Gorro de Ducha Impermeable Gorro de Baño Elástico Reutilizable para Mujer Ducha Salón de Spa'
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

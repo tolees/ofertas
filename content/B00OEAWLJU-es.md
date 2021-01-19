@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-rEJ3e-LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OEAWLJU-es'
+slug: 'B00OEAWLJU-es Tommee Tippee Biberones Closer to Nature  260 ml  6 unidades  transparente'
 actualPrice: 20.01 EUR
 currency: EUR
 price: 20.01

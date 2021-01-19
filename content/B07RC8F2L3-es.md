@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417TnG66HpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC8F2L3-es'
+slug: 'B07RC8F2L3-es Sabrent Interruptor de Intercambio USB 2.0 de hasta 4 computadoras y periféricos con Indicadores LED de Dispositivo  USB-USS4 '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

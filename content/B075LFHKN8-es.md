@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kym2jp6tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075LFHKN8-es'
+slug: 'B075LFHKN8-es Beurer IH55 Inhalador silencioso con membrana oscilante  color blanco  14.6 x 5.1 x 8.5 cm  228 g'
 actualPrice: 68.66 EUR
 currency: EUR
 price: 68.66

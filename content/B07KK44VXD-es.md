@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MGWZnCZ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK44VXD-es'
+slug: 'B07KK44VXD-es Columbia Peakfreak Venture S II Mid  Botas de Senderismo para Hombre  Marrón  Cordovan  Fiery 231   43 EU'
 actualPrice: 41.98 EUR
 currency: EUR
 price: 41.98

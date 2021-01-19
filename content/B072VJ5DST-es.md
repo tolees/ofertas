@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hTov9vUnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072VJ5DST-es'
+slug: 'B072VJ5DST-es Buff Fizz Tricot Calentador Polar  Mujer  Rosa  Honeysuckle   Talla Única'
 actualPrice: 11.73 EUR
 currency: EUR
 price: 11.73

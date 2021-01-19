@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DOb6DaHpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFXYPJ8-es'
+slug: 'B07KFXYPJ8-es PUMJV|#Puma Defy Wn s Zapatillas Deportivas para Interior Mujer  Blanco  Puma White-Pink Alert 21   5  38 EU  EU  5 UK '
 actualPrice: 49.45 EUR
 currency: EUR
 price: 49.45

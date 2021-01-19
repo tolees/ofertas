@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415undk9g7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHR588G-es'
+slug: 'B07QHR588G-es NYX Professional Makeup Paleta de correctores y contouring Conceal  Correct  Contour Palette  6 sombras  Textura cremosa  Tono: Light'
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

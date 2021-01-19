@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4119cHN-PQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082QMX8VW-es'
+slug: 'B082QMX8VW-es Ukuu gsm Teléfonos Móviles para Mayores con Teclas Extra Grandes Pantalla de 2 3 Pulgadas con Botón SOS Batería de 1000mAh y Base de Carga Fácil de Usar Senior Teléfonos - Azul'
 actualPrice: 32.88 EUR
 currency: EUR
 price: 32.88

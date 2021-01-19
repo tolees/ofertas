@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oPW8dfpHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2XMLBL-es'
+slug: 'B07X2XMLBL-es Sendowtek Wake Up Light  Despertador Luz  Reloj despertador digital con altavoces Bluetooth  despertador para niños con 3 voces naturales  5 luces de colores para dormitorios/Adulto/Regalo/Amigos'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

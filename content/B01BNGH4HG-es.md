@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517x8jy5TzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BNGH4HG-es'
+slug: 'B01BNGH4HG-es Wera 05057434001 Juego de Herramientas con 30 Piezas'
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311XmIJ5SbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0028PVUP4-es'
+slug: 'B0028PVUP4-es Leifheit Teleclip 74 Extendable - Tendedero de Pared de Metal  12x110.8x11 cm  Color Blanco'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

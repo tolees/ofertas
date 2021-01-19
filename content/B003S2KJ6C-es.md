@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31P9CWnGFOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003S2KJ6C-es'
+slug: 'B003S2KJ6C-es Vans Herren Classic Vggg T-Shirt  Schwarz  BLACK-WHITE Y28   L'
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

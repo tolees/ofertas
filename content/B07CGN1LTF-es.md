@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NWIFtalyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGN1LTF-es'
+slug: 'B07CGN1LTF-es Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable FS5459'
 actualPrice: 88.0 EUR
 currency: EUR
 price: 88.0

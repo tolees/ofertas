@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RpNI0ndSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872TGHHV-es'
+slug: 'B0872TGHHV-es Filtros reemplazables unisex de 5 capas  antipolvo y niebla  filtro de carbón activado  almohadillas de algodón para exteriores'
 actualPrice: 8.43 EUR
 currency: EUR
 price: 8.43

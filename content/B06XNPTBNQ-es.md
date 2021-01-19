@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WmdObkdmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XNPTBNQ-es'
+slug: 'B06XNPTBNQ-es Axiom Verge: Multiverse Edition'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

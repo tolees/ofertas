@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qxwHQpEEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVGHY6L-es'
+slug: 'B07ZVGHY6L-es 3W GRT Leggings mujer fitness Mallas Deportivas de Mujer Pantalones elásticos de yoga con bolsillos laterales polainas de yoga Fitness Yoga  Negro&Gris-331  XL '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

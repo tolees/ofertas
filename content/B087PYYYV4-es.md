@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l7llZMqBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PYYYV4-es'
+slug: 'B087PYYYV4-es Reloj - findtime - Para  - MSLLP80PROWEISS'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31f+4vC-KZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HSPLZI0-es'
+slug: 'B01HSPLZI0-es SOTYA - SOTYA Polen 100 comprimidos 600 mg'
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

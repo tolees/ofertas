@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dwobX6A+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGG93S1-es'
+slug: 'B07KGG93S1-es Buff Flash Logo Cinta De Cabeza Coolnet  Unisex Adulto  Yellow Flúor  Talla Unica'
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

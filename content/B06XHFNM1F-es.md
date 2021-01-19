@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wvrVt1JZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHFNM1F-es'
+slug: 'B06XHFNM1F-es Helly Hansen W HH LIFA Active Basleayer Pant  Mujer  Black  XS'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417D6U2hodL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FV8QM1-es'
+slug: 'B079FV8QM1-es bugatti 321622513200  Botas Clasicas para Hombre  Negro  Schwarz 1000   45 EU'
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

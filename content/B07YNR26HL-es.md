@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TsVNpBWNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNR26HL-es'
+slug: 'B07YNR26HL-es Krups EA82F0 - Cafetera Superautomática 1450 W  15 bares  1 7 L  Pantalla LCD  Molinillo cónico de metal integrado  Programa de limpieza automático. Sistema de filtro de agua. Tecnología Quattro Force'
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

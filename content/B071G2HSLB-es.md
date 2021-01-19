@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZhLBawQhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071G2HSLB-es'
+slug: 'B071G2HSLB-es Apple Funda de piel  para el iPad Pro de 10 5 pulgadas  - Marrón topo'
 actualPrice: 75.64 EUR
 currency: EUR
 price: 75.64

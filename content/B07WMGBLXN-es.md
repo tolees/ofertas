@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZDILmy+7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMGBLXN-es'
+slug: 'B07WMGBLXN-es inhzoy Mameluco de Princess Encaje para Bebé Niña Body Manga Larga/Sin Mangas Romper con Sombrero Infantil Traje de Cumpleaños Bautizo Fotografía Azul Cielo One Size'
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

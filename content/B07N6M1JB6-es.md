@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416yt6rDf8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6M1JB6-es'
+slug: 'B07N6M1JB6-es Tommy Hilfiger Urban D-ring Webbing Belt 3.5 Cinturón   Blue 0gy   100  Talla del fabricante: 85.0  para Hombre'
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

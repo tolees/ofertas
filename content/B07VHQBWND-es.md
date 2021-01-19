@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XrBmV9ReL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHQBWND-es'
+slug: 'B07VHQBWND-es REPLAY M9715 .000.22906 Pantalones de Deporte  Azul  Blue 085   52  Talla del Fabricante: Medium  para Hombre'
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31n0z8WhJrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003JKFEL8-es'
+slug: 'B003JKFEL8-es Moroccanoil Treatment For All Hair Types Tratamiento Capilar - 25 ml'
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

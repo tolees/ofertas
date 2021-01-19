@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EuF4A+fXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XXT7TZR-es'
+slug: 'B07XXT7TZR-es FOGAWA Banda de Cuero Plana Banda de Piel Correa 20mmx2mm Leather Cord Cintas de Cuero Marrón Tira de Piel para Manualidades Bricolaje Artesanía Hogar Costura Decoración 1metros'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

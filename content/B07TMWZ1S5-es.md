@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZFg4j-QdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMWZ1S5-es'
+slug: 'B07TMWZ1S5-es Clarks Bay Rosie  Sandalia con Pulsera para Mujer  Gris  Grey Snake Grey Snake   37.5 EU'
 actualPrice: 37.75 EUR
 currency: EUR
 price: 37.75

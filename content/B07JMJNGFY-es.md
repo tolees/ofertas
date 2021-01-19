@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mSxyMOvQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMJNGFY-es'
+slug: 'B07JMJNGFY-es Adidas Falcon  Zapatillas de Trail Running para Hombre  Negro/Blanco  Core Black/Cloud White F36199   43 1/3 EU'
 actualPrice: 35.96 EUR
 currency: EUR
 price: 35.96

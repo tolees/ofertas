@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oeY6tPvVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQXB1ZP-es'
+slug: 'B07WQXB1ZP-es Cinturón de Calefacción Eléctrico para la Parte Inferior de la Espalda  Cinturón Lumbar Ajustable con 3 Niveles de Calentamiento  Aliviar Dolor de Espalda para Hombres y Mujeres'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

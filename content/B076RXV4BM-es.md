@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a33dLoNuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076RXV4BM-es'
+slug: 'B076RXV4BM-es Under Armour Ripple  Zapatillas de Running para Mujer  Negro  Black/Graphite  004   38 EU'
 actualPrice: 31.83 EUR
 currency: EUR
 price: 31.83

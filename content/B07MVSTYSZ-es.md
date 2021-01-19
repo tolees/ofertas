@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Ha6Zp1IFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVSTYSZ-es'
+slug: 'B07MVSTYSZ-es Cerdá 8427934274819 Toalla Poliéster LOL  Azul  113 x 108 cm'
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

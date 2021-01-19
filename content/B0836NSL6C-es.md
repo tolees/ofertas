@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hcSDjOy1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0836NSL6C-es'
+slug: 'B0836NSL6C-es Otto Koning - Berlín - Set cubiertos de 30 piezas de acero inoxidable chapado en titanio dorado y pulido brillante   espesor 4 mm y cuchillo chuletero. Una cubertería de mesa moderna para 6 comensales'
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

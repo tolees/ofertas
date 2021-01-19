@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Eeikqc-YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZFL7QD-es'
+slug: 'B08CZFL7QD-es San Ignacio Batería 8 piezas Porto y Set 3 sartenes  Ø16/Ø20/Ø24 cm  negro  aluminio prensado  antiadherente  inducción'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

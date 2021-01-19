@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417TOIU6HtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDKJNBR-es'
+slug: 'B07BDKJNBR-es Experobot EX501 - Robot aspirador silencioso para todo tipo de suelos con gran poder de succión  depósito de agua  tecnología de sensores infrarrojos y carga automática'
 actualPrice: 114.62 EUR
 currency: EUR
 price: 114.62

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3147Xoe3uML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK82DQD-es'
+slug: 'B07MK82DQD-es Le Coq Sportif COURTSTAR  Zapatillas para Hombre  Blanco  Optical White/Grey Denim Optical White/Grey Denim   46 EU'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

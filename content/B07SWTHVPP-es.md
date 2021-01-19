@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qIBB+FYdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTHVPP-es'
+slug: 'B07SWTHVPP-es adidas Ultraboost S&l  Zapatillas de Running para Hombre  Azul  Blue/FTWR White/Grey Three F17 Blue/FTWR White/Grey Three F17   39 1/3 EU'
 actualPrice: 61.53 EUR
 currency: EUR
 price: 61.53

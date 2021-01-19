@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51G++waDhVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W9GCQHV-es'
+slug: 'B06W9GCQHV-es Schleich - Quad con remolque y ranger - Con múltiples Funciones - Set con Figuras y Accesorios'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

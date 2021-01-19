@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ALYE+zGCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6TQGGZ-es'
+slug: 'B07V6TQGGZ-es Pour Moi? Suspense Suspender Suspensores  Rojo  Red Red   XXL para Mujer'
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

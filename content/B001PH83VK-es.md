@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BbJNne0HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001PH83VK-es'
+slug: 'B001PH83VK-es Superga 2750 COTU Classic  Zapatillas para Hombre  White 901  46 EU'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

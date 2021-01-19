@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61d5n8QMrSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGLJ7NV-es'
+slug: 'B07VGLJ7NV-es Medi Grade Pulseras de Goma Repelentes de Mosquitos [10uds] Parches Repelentes de Insectos [120uds] Primeras Pulseras Anti Mosquitos de Triple Espiral – De Plantas Naturales Sin DEET'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

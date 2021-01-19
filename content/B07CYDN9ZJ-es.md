@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ywXm8uOmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYDN9ZJ-es'
+slug: 'B07CYDN9ZJ-es Salomon XA Pro 3D J  Zapatillas de Trail Running Unisex Niños  Rojo/Naranja  Cerise/Dubarry/Peach Amber   36 EU'
 actualPrice: 40.7 EUR
 currency: EUR
 price: 40.7

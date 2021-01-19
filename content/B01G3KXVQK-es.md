@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31h17tulCSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G3KXVQK-es'
+slug: 'B01G3KXVQK-es Philips Lumea Essential BRI862/00 - Depiladora IPL por luz pulsada para Cuerpo  con más de 200.000 pulsos  Color Blanco y Azul'
 actualPrice: 150.0 EUR
 currency: EUR
 price: 150.0

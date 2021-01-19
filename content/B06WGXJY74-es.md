@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31U8C8O7E+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WGXJY74-es'
+slug: 'B06WGXJY74-es Bosch TAT7203 Tostador Compacto de Acero Inoxidable  2 Ranuras  1050 W  Color Negro Grafito'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

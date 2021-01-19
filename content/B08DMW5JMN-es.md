@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21DxcqHq7AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DMW5JMN-es'
+slug: 'B08DMW5JMN-es Panamar NE555 + CD4017 Rojo Azul Doble Color Juego de Tablero de Luces Intermitentes Luz estroboscópica Aprendizaje Kits de Bricolaje Módulo de Suite electrónica - Verde'
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

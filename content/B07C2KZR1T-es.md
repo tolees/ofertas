@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jsU4a4HUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2KZR1T-es'
+slug: 'B07C2KZR1T-es Swiss Alpine Military by Grovana Hombre Reloj Chrono 10 ATM Silver 7047.9132sam'
 actualPrice: 119.97 EUR
 currency: EUR
 price: 119.97

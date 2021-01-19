@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VS2fn7HwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DC3LR4-es'
+slug: 'B075DC3LR4-es Pasito a Pasito Canastilla Acolchada Ines - Bolsa  unisex  color gris'
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

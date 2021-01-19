@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uRO8LQ-AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGD8Y94-es'
+slug: 'B07JGD8Y94-es Columbia Nikiski  Botas Bajas para Mujer  Beige  Elk  Lagoon   40 1/2 EU'
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

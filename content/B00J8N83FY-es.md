@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31t0Wa2nySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J8N83FY-es'
+slug: 'B00J8N83FY-es Biotherm - Bruma Solaire Dry Touch SPF 30'
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

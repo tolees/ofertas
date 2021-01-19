@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NYT22o3HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYZ9WF9-es'
+slug: 'B07FYZ9WF9-es Xiaomi Mi Band 3 Pulsera de Actividad Inteligente Rastreador Deportes Deportiva con Pulsómetro Monitor de Ritmo Cardíaco 0 78 Pulgadas OLED Pantalla Táctil Pronóstico del Tiempo Negro'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

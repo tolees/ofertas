@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417fGQ5xx7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWND5YW-es'
+slug: 'B07QWND5YW-es Under Armour Metallic Woven FZ Parte Superior del Calentamiento  Mujer  púrpura  XS'
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

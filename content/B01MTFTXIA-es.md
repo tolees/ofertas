@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315TJu6rW1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTFTXIA-es'
+slug: 'B01MTFTXIA-es Brother QL-800 - Impresora de Etiquetas  USB 2.0  Cortador automático  impresión a Negro y Rojo '
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

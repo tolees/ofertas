@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411mAqm%2BGTL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B078K5KPS2-es'
+slug: 'B078K5KPS2-es The North Face Hedgehog Hike II GTX  Zapatillas de Senderismo para Hombre  Verde  Tarmacgreen/Burntolivegrn 4Dd   39 EU'
 actualPrice: 53.4 EUR
 currency: EUR
 price: 53.4

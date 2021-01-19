@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WQ7-OThfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3YL14C-es'
+slug: 'B07Q3YL14C-es Sauber - Vitrocerámica de Inducción SEV03-3 zonas de cocción - Ancho: 60cm'
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

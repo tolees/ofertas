@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cTEYTU2mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XX7CS63-es'
+slug: 'B06XX7CS63-es KFD 65W Adaptador Cargador Portátil para Lenovo IdeaPad 710s 510s 510 310 110 100 100s 330-15IGM 310-15ABR 110-15IBR 100-15IBD 80QQ 80T700BDSP Yoga 710 510 Air 13 pro ADLX65CLGC2A GX20L29355 20V 3.25A'
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

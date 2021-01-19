@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414IWeLYbEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076VSLB42-es'
+slug: 'B076VSLB42-es Sigma Sport Aura 25 Set Luces Ciclismo  Unisex  Negro  Talla Única'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

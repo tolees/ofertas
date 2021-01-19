@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XQtvwKt8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVBNV7P-es'
+slug: 'B07MVBNV7P-es Napapijri Eisberg SS Polo  Azul  Clematis Blue VB1   Large para Hombre'
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

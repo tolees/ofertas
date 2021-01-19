@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MxRIRrumL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0748GG3GN-es'
+slug: 'B0748GG3GN-es Contorno de Ojos Antiarrugas | Anti-edad para ojeras  bolsas  patas de gallo e hinchazón | Reduce líneas de expresión y arrugas | Crema contorno de ojos Mujer y Hombre | Efecto Anti-fatiga y Lifting '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

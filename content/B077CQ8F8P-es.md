@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MSpBF251L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077CQ8F8P-es'
+slug: 'B077CQ8F8P-es Adidas Power III  Zapatillas de Deporte para Hombre  Negro  Core Black/Footwear White/Matte Gold 0   36 EU'
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

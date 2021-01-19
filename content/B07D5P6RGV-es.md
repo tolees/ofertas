@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xNPiFUHsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5P6RGV-es'
+slug: 'B07D5P6RGV-es Under Armour Charged Cotton 6In 3 Pack Ropa Interior  Hombre  Negro Black 001  M'
 actualPrice: 23.45 EUR
 currency: EUR
 price: 23.45

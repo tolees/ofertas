@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yOpZe0PIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BS37BNF-es'
+slug: 'B07BS37BNF-es SaintderG® Fundas para sillas Pack de 6 Fundas sillas Comedor  Lavable Extraíble Funda  Muy fácil de Limpiar  Duradera Modern Bouquet de la Boda  Hotel  Decor Restaurante  Blanco  Pack de 6 '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

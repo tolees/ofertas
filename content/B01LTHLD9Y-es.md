@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NZugJoYRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LTHLD9Y-es'
+slug: 'B01LTHLD9Y-es Revlon ColorSilk Tinte de Cabello Permanente Tono #50 Castaño Claro Cenizo'
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

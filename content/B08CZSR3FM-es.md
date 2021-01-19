@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Lzat58HnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZSR3FM-es'
+slug: 'B08CZSR3FM-es LEDKIA LIGHTING Lámpara de Mesa Dayad Blanco Mate'
 actualPrice: 26.5 EUR
 currency: EUR
 price: 26.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21SKFVqdO2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KZRTWRK-es'
+slug: 'B00KZRTWRK-es D-LINK Punto DE Acceso Dual Band 2.4/5GHZ DAP-1665'
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

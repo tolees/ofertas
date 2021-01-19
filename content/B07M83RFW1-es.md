@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XeEv8Rr1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M83RFW1-es'
+slug: 'B07M83RFW1-es Taladro Atornillador  FLOUREON Taladro Inalambrico Professional 21V  Taladro Eléctrico sin Cable con Batería 1.5Ah de Litio  Conjunto de Accesorios para Taladro'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

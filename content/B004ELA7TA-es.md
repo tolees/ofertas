@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l0F0z2MIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004ELA7TA-es'
+slug: 'B004ELA7TA-es Jabra Speak 410 - Altavoz Portátil para Conferencias con USB  Certificado por Microsoft  Conectividad Plug-and-Play con Ordenadores'
 actualPrice: 91.56 EUR
 currency: EUR
 price: 91.56

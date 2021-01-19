@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gw9TR+bAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLJ99G7-es'
+slug: 'B07QLJ99G7-es BOSS Passenger Polo  Amarillo  Medium Yellow 723   Large para Hombre'
 actualPrice: 47.21 EUR
 currency: EUR
 price: 47.21

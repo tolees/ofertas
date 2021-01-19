@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vFZ6q00fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZ7MS7W-es'
+slug: 'B08CZ7MS7W-es Trampa de Red de Pesca portátil Cuenta Luminosa Cobre Spring Shoal Netting Fishnet Tackle Sin Necesidad de Gancho Pesca de Pescado Tool-Random'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CZ82DNUUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089KFDWQ7-es'
+slug: 'B089KFDWQ7-es Peine alisador de barba rápido para hombres plancha de pelo profesional Profesional Peine de Peluquería Multifuncional Cepillo para Hombre Mujer  negro '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

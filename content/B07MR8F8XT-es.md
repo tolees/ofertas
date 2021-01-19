@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+nbPgA3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR8F8XT-es'
+slug: 'B07MR8F8XT-es Lee Scarlett High Jeans  Azul  Mid Copan Iw   29W / 31L para Mujer'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

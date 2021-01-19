@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dFnlPw7PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2M34FS-es'
+slug: 'B07X2M34FS-es El precio del poder  4K UHD + BD  [Blu-ray]'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

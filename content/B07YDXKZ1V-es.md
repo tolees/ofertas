@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51C2Q3KfooL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDXKZ1V-es'
+slug: 'B07YDXKZ1V-es LeYi Funda Xiaomi Redmi Note 8 con HD Protector Pantalla  Carcasa Libro Tapa Silicona TPU Bumper Leather Soporte Cartera Case Flip Cuero Wallet Slim Antigolpes Cover para Movil Note 8 Negro'
 actualPrice: 8.87 EUR
 currency: EUR
 price: 8.87

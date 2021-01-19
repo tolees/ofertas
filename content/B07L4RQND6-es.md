@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416txjSf3rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4RQND6-es'
+slug: 'B07L4RQND6-es Rubies - Disfraz Oficial de Los Vengadores Endgame Thanos  para Hombre Adulto'
 actualPrice: 47.62 EUR
 currency: EUR
 price: 47.62

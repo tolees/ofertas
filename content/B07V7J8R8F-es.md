@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TW5gLBWcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7J8R8F-es'
+slug: 'B07V7J8R8F-es Salomon SFLASK 250/8 STD 28 Botella Flexible LC1312400  Unisex-Adult  Azul  250 ml'
 actualPrice: 9.65 EUR
 currency: EUR
 price: 9.65

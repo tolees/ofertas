@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lbJ+5PJ2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S63FN9M-es'
+slug: 'B07S63FN9M-es LuckyGirls • • Men Fashion Letter Solid Elastic Running Sport Flat Ankle Round Toe Casual Shoes'
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

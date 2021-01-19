@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XMBg-RA8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NS4NHTT-es'
+slug: 'B07NS4NHTT-es GP-PRO GB10L-B 12V 11Ah GEL Batería de arranque  compatible con YB10L-B / YB10L-B2   Sin necesidad de mantenimiento/Sellado  Scooters y Motos Acumulador'
 actualPrice: 52.21 EUR
 currency: EUR
 price: 52.21

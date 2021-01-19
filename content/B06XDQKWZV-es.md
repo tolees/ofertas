@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZiBATuseL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDQKWZV-es'
+slug: 'B06XDQKWZV-es Garnier Fructis Champú Anticaspa - 700 ml'
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

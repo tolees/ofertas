@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51w-yzyyR4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EU84B5I-es'
+slug: 'B00EU84B5I-es What Am I?'
 actualPrice: 4.37 EUR
 currency: EUR
 price: 4.37

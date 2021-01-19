@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aeyqUBVYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8FP2FQ-es'
+slug: 'B07X8FP2FQ-es Iron Maiden  -   A Matter Of Life And Death  Collectors Box    CD '
 actualPrice: 21.14 EUR
 currency: EUR
 price: 21.14

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f8Wv1uOTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CNLXL0A-es'
+slug: 'B00CNLXL0A-es Maxxis Minion Dhr II Neumático  Unisex  Negro  29x2 30  58-622 '
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

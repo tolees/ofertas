@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XOgMM1JbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DF972NZ-es'
+slug: 'B07DF972NZ-es Godmorn Molinillo de Café Eléctrico  Molinillo Compacto de Café  Especias  Semillas o Granos. Operación con un Solo Botón  Tapa Transparente Que  Libre de BPA.'
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t+LbBZ5wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YV2X5JJ-es'
+slug: 'B07YV2X5JJ-es kampre - Mascarilla de carbón Activo de 4 Capas  50 Piezas  máscara desechable para Orejas  máscara Antipolvo'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

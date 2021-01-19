@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318OHo3PiiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R1ZFWV5-es'
+slug: 'B07R1ZFWV5-es Under Armour Rush Leggings Legging  Mujer  Negro  Black/Breathtaking Blue/Black 002   S'
 actualPrice: 25.37 EUR
 currency: EUR
 price: 25.37

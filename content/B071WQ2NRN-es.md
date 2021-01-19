@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61i4a6Zh4xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WQ2NRN-es'
+slug: 'B071WQ2NRN-es Pokémon Ultrasol'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

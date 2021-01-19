@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41++5DA+mgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B45MGU2-es'
+slug: 'B00B45MGU2-es Philips Lighting 915002790302 - Aplique de exterior  empotrado  casquillo gordo E27  bombilla no incluida  resistente a la intemperie  IP44  negro  19.5 cm'
 actualPrice: 13.85 EUR
 currency: EUR
 price: 13.85

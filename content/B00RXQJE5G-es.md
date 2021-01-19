@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ew-ON-S1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RXQJE5G-es'
+slug: 'B00RXQJE5G-es Tristar RK-6127 - Arrocera  Capacidad 1.5 litros  Función para Mantener el Calor  Apagado Automático  Incluye Taza Medidora  Espátula y Cuchara  500 W'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

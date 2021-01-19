@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TMwV5hibL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B9YSTXK-es'
+slug: 'B01B9YSTXK-es Clinique Pep Start Eye Cream 15ml crema para los ojos - Cremas para los ojos  15 ml '
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

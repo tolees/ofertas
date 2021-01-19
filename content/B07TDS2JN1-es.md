@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51niSZuMJ9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDS2JN1-es'
+slug: 'B07TDS2JN1-es Yooka-Laylee and the Impossible Lair'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

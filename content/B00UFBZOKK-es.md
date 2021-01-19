@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-gjikzY4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UFBZOKK-es'
+slug: 'B00UFBZOKK-es Crucial Ballistix Sport LT BLS4G4D240FSB 2400 MHz  DDR4  DRAM  Memoria Gamer para ordenadores de sobremesa  4 GB  CL16  Gris '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

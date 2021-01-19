@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413i9iWf12L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FLWC69K-es'
+slug: 'B07FLWC69K-es KLIM - Alfombrilla de ratón XL - Superficie Amplia - Alfombrilla de ratón Gaming Extra Grande - Base de Goma Antideslizante - Superficie con Textura de Alta precisión - 900 x 400 x 4 mm - Azul'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

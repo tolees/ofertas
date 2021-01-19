@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GOpjBBDHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JQP3M-es'
+slug: 'B07N1JQP3M-es Clarks Orinoco Club  Botas Estilo Motero para Mujer  Gris  Dark Grey Nubuck Dark Grey Nubuck   39 EU'
 actualPrice: 61.48 EUR
 currency: EUR
 price: 61.48

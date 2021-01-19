@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UDhaRWK1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVQNL3C-es'
+slug: 'B07PVQNL3C-es Under Armour UA W Charged Aurora  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White/White   38 EU'
 actualPrice: 36.32 EUR
 currency: EUR
 price: 36.32

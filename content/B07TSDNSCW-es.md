@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EQXM6iBlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSDNSCW-es'
+slug: 'B07TSDNSCW-es Rivenbert Flotadores para Nadar  Manguitos inflables para niños  Mangas  tamaño Grande  Peso 15-30kg by'
 actualPrice: 7.3 EUR
 currency: EUR
 price: 7.3

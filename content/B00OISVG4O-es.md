@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IkpwLLJKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OISVG4O-es'
+slug: 'B00OISVG4O-es Pazo Das Bruxas  Vino Blanco - 3 botellas de 75 cl  Total: 2250 ml'
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

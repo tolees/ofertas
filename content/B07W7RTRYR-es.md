@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xxkWDsgSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7RTRYR-es'
+slug: 'B07W7RTRYR-es Tommy Hilfiger Tommy Tipped Slim Polo  Azul  Pitch Blue   XX-Large  Talla del Fabricante:  para Hombre'
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

@@ -6,7 +6,7 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LW3XDVB-es'
+slug: 'B01LW3XDVB-es Pañuelos Kleenex Ultrasoft Delicados y Suaves - 5 Packs de 10 Paquetes - Total: 50 Paquetes'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

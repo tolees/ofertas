@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kF+vRKqEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071J4W8QT-es'
+slug: 'B071J4W8QT-es Dc Shoes Magnolia Se  Zapatillas para Mujer  Negro  Black/White   36 EU'
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

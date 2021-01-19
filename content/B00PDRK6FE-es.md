@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5163KfNdvuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PDRK6FE-es'
+slug: 'B00PDRK6FE-es Papel Maché SIO-2 500 g'
 actualPrice: 4.13 EUR
 currency: EUR
 price: 4.13

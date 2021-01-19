@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ABAUusb6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QM4S0BY-es'
+slug: 'B00QM4S0BY-es Ultimate Ears Megaboom - Altavoz portátil  Bluetooth  360 grados  Resistente al agua  20 horas de batería  resistente a golpes   Rojo'
 actualPrice: 189.51 EUR
 currency: EUR
 price: 189.51

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nGH2+UGaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074N8BNS6-es'
+slug: 'B074N8BNS6-es Reloj REGENT - Mujer 12211008'
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

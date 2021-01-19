@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SsQsUQIZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZX7X8G-es'
+slug: 'B07PZX7X8G-es MOCOCITO Calcetines Cortos Hombre Mujer  Calcetines Tobilleros Negros de algodón  8 Pares de Medias Deportivas Transpirables y Antideslizantes[44-48]'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

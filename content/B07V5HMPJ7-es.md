@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fO86ccObL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5HMPJ7-es'
+slug: 'B07V5HMPJ7-es Tom Tailor Besticktes Polo  Azul  Blue Grindle Pique 19473   S para Hombre'
 actualPrice: 8.46 EUR
 currency: EUR
 price: 8.46

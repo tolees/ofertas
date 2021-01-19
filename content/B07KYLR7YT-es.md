@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/519gyTmYVfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYLR7YT-es'
+slug: 'B07KYLR7YT-es WOSTOO Calcetines de Hombre Invierno  Calcetines de Lana 5 Pares algodón Engrosamiento Largo de Lana Tejida Gruesa Cálida y Suave para Invierno'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

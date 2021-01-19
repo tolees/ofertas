@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vhWGzuk-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLHC54C-es'
+slug: 'B07NLHC54C-es Versace Jeans CoutureBorsaMujerBolso de manoMarrón  Legno  13x20x47 centimeters  W x H x L '
 actualPrice: 82.32 EUR
 currency: EUR
 price: 82.32

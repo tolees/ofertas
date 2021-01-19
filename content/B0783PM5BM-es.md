@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s8fRTR-KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0783PM5BM-es'
+slug: 'B0783PM5BM-es PUMA Smash V2 L  Zapatillas para Hombre  Blanco White Black  44.5 EU'
 actualPrice: 33.55 EUR
 currency: EUR
 price: 33.55

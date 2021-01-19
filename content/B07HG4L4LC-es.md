@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dQvWoe27L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG4L4LC-es'
+slug: 'B07HG4L4LC-es New Balance Fresh Foam Vongo h  Zapatillas de Running para Hombre  Negro  Black Black   42 EU'
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4101MlxymwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6V9JG5-es'
+slug: 'B07W6V9JG5-es Akozon Car Radio Clip de puerta Panel Trim Dash Audio Stereo Removal Tools Kit Auto Repair 12pcs'
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

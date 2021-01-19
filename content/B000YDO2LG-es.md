@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fomS-+5IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000YDO2LG-es'
+slug: 'B000YDO2LG-es OXO Good Grips Mandolina rodajas c/mango'
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

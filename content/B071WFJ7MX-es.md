@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fS3n0MPQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WFJ7MX-es'
+slug: 'B071WFJ7MX-es Adidas Campus  Zapatillas para Hombre  Negro  Core Black/Footwear White/Chalk White   40 2/3 EU'
 actualPrice: 53.97 EUR
 currency: EUR
 price: 53.97

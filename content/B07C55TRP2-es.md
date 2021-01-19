@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P-XBXq-vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C55TRP2-es'
+slug: 'B07C55TRP2-es LOVETEA  Womens Open Mesh patrón de Bordado Entrepierna Perspectiva Perspectiva Ajustable Corbatas Tangas de Encaje G-Strings Bragas Atractivas  Rojo '
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

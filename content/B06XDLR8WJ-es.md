@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414tF9ZoPwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDLR8WJ-es'
+slug: 'B06XDLR8WJ-es Pez de Piedra Hecho a Mano - Símbolo de Determinación  Independencia  Inteligencia y Salud - Contiene Fragmentos Fósiles - Caja de Regalo y Tarjeta de Mensaje - Buena Suerte Cumpleaños Fish'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

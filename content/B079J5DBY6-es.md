@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YdMx5ewFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079J5DBY6-es'
+slug: 'B079J5DBY6-es Tefal Daily Cook - Sartén de 20 cm  antiadherente de acero inoxidable  para todo tipo de cocinas incluido inducción'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

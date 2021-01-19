@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yzlTlvqsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FEJC1KO-es'
+slug: 'B00FEJC1KO-es Kit de Reparación Bestway Parche Extra Fuerte'
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

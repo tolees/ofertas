@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QKugaLklL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CB94KYC-es'
+slug: 'B07CB94KYC-es Gen‚rico Calzador de Mango Largo Acero Inoxidable Cordón Fácil de Agarrar - Camuflaje  38cm'
 actualPrice: 7.26 EUR
 currency: EUR
 price: 7.26

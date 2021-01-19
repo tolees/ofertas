@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PnZga95EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYXCFGN-es'
+slug: 'B07TYXCFGN-es FORMIZON 40 Pcs Bolsas Regalo Papel  10 Colores Patrón Puntos con Adhesivos Sellado para Niños Suministros Fiesta de Cumpleaños  Suministros Banquetes de Boda'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

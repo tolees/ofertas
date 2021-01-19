@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311KwQTmFEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRSTGJS-es'
+slug: 'B07SRSTGJS-es DC Shoes Switch  Zapatillas de Skateboard para Hombre  Negro  Black/Battleship/Black Kbk   46.5 EU'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

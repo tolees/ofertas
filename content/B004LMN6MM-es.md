@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416-9K9nfuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LMN6MM-es'
+slug: 'B004LMN6MM-es Munchkin Juego de baño de baloncesto'
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

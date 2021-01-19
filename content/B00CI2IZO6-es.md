@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bGgfQLZvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CI2IZO6-es'
+slug: 'B00CI2IZO6-es NanoCable 10.01.0102 - Cable USB 2.0 para Impresora  Tipo A/M-B/M  Macho-Macho  Beige  1mts'
 actualPrice: 0.71 EUR
 currency: EUR
 price: 0.71

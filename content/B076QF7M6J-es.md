@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gm1owjVUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076QF7M6J-es'
+slug: 'B076QF7M6J-es Tiny Love Take-Along Mobile Carrousel cuna rosa bebé y movil cochecito bebé 2 en 1  Acople universal  30 minutos de musica 5 melodías  Tiny Princess Tales'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

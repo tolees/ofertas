@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+dbrd2dtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003TOKVSA-es'
+slug: 'B003TOKVSA-es BRA Efficient - Cacerola baja con tapa de cristal y asas de silicona extraíbles  30 cm  apta para todo tipo de cocinas incluida inducción y horno.Libre de PFOA.'
 actualPrice: 53.08 EUR
 currency: EUR
 price: 53.08

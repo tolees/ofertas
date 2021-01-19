@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zUoQtJpAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSW01R7-es'
+slug: 'B01MSW01R7-es Suunto Core Negro/Rojo'
 actualPrice: 177.71 EUR
 currency: EUR
 price: 177.71

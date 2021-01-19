@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WfgZKrgyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4N3XWC-es'
+slug: 'B07N4N3XWC-es Superga 2750 COTU Classic  Zapatillas Unisex  Azul  Azure Erica 325   35 EU'
 actualPrice: 12.09 EUR
 currency: EUR
 price: 12.09

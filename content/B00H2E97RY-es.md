@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51o0pHrIRmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H2E97RY-es'
+slug: 'B00H2E97RY-es Weider 40% Protein Low Carb. Barrita  alto contenido en proteínas sin hidratos de carbono. 40% de proteínas por barrita. Sabor Chocolate  24 x 50 g '
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

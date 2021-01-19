@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kFMyfyw9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BP23HR2-es'
+slug: 'B07BP23HR2-es TACKLIFE Pistola de riego  Pistola de Jardín con Boquilla Metálica  8 Modos Diferentes  Nueva Patente de Control con una Solo Mano  para Lavado de Autos  Riego de Plantas y Ducha de Mascotas-GHN2A'
 actualPrice: 4.97 EUR
 currency: EUR
 price: 4.97

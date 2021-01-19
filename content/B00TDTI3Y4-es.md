@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nr9-NwIeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TDTI3Y4-es'
+slug: 'B00TDTI3Y4-es L Oréal Paris Perfilador de Cejas Brow Artist Genius Kit 001'
 actualPrice: 4.22 EUR
 currency: EUR
 price: 4.22

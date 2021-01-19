@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31POZeRY+8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9T7N5R-es'
+slug: 'B07L9T7N5R-es Lacoste Straightset 319 2 Cfa  Zapatillas para Mujer  Blanco  Off White/Off White 18c   42 EU'
 actualPrice: 28.03 EUR
 currency: EUR
 price: 28.03

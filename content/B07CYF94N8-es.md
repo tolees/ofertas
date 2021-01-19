@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oS9dxHVqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYF94N8-es'
+slug: 'B07CYF94N8-es Sonoka Lector Tarjetas de Memoria - Auelek 4 en 1 Adaptador Tarjetas USB 2.0 / Lightning/Micro USB/Tipo C Conector  Lector Tarjetas Micro SD y Adaptador OTG para iPhone  iPad  MacBook y Phone Andriod'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

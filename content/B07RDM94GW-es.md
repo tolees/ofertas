@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L9URkTuXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDM94GW-es'
+slug: 'B07RDM94GW-es Columbia Vitesse  Zapatillas de Deporte  para Mujer  Black  Black  Pure Silver 010   39 EU'
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uSVoIE2-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075YRN1LP-es'
+slug: 'B075YRN1LP-es BRTLX 5W G45 Bombilla LED Mini Globo Blanco Frio 6000K E14 Incandescente Equivalente a 45 Ángulo de haz 220Grados 400Lm No Regulable 4 Unidades'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

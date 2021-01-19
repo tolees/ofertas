@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jONDtsZGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYNMK1X-es'
+slug: 'B07MYNMK1X-es JACK & JONES Jfwbarton Canvas  Zapatillas para Hombre  Azul  Navy Blazer Navy Blazer   41 EU'
 actualPrice: 23.43 EUR
 currency: EUR
 price: 23.43

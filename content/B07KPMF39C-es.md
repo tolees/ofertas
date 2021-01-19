@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pdGZzBwCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPMF39C-es'
+slug: 'B07KPMF39C-es Columbia Meadows Omni  Botas Bajas para Mujer  Marrón  Heat-Espresso MHW  L   41 EU'
 actualPrice: 21.45 EUR
 currency: EUR
 price: 21.45

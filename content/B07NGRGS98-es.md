@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DvXn05TXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGRGS98-es'
+slug: 'B07NGRGS98-es Zippy ZY Retro  Zapatillas de Estar por casa para Bebés  Azul  Dress Blue 19-4024 TC 185   22 EU'
 actualPrice: 6.02 EUR
 currency: EUR
 price: 6.02

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313PrKsv9wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NCF92M-es'
+slug: 'B077NCF92M-es Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 75 Fighter'
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

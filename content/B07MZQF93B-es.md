@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b60PLSmEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQF93B-es'
+slug: 'B07MZQF93B-es Pepe Jeans Dom suéter   Dulwich 594   X-Large para Hombre'
 actualPrice: 34.51 EUR
 currency: EUR
 price: 34.51

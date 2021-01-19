@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KlLwCJhGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6E3EZO-es'
+slug: 'B01N6E3EZO-es Lenovo Ideacentre AIO 910-27ISH - Ordenador de sobremesa 27" FullHD  Intel Core i5-6400T  8GB RAM  1TB HDD  Nvidia GT940A-2GB  Windows  Plateado - Teclado QWERTY Español + Ratón'
 actualPrice: 972.59 EUR
 currency: EUR
 price: 972.59

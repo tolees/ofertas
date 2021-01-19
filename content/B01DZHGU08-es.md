@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sv+f79-CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DZHGU08-es'
+slug: 'B01DZHGU08-es Britax Römer Kidfix II XP SICT / Kidfix II XP / Kidfix XP SICT / Kidfix XP-Funda de Verano   color beige'
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

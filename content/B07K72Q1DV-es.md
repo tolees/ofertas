@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NM0RVaWAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K72Q1DV-es'
+slug: 'B07K72Q1DV-es Asics Gel-Sonoma 4 G-TX  Walking Shoe Womens  Black/Stone Grey  38 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

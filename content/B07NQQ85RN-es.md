@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ryQd6LRdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQQ85RN-es'
+slug: 'B07NQQ85RN-es Gioteck - Cascos TX30+Farcry 5'
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

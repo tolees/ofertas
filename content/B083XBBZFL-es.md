@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zm6jLl5lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XBBZFL-es'
+slug: 'B083XBBZFL-es Kosiy Dispensadores de jabón automático  Dispensador Jabón Manos Libres con Sensor  Dispensadores de Jabón Líquido electrónicos para baño y Cocina  Impermeable IPX6 '
 actualPrice: 18.47 EUR
 currency: EUR
 price: 18.47

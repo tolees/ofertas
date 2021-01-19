@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+RH9n8-jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811RWVDD-es'
+slug: 'B0811RWVDD-es Rizador de pestañas con calefacción eléctrica  TOUCHBeauty rizador de pestañas recargable  rizador de pestañas portátil  rizador de pestañas de temperatura ajustable inteligente AG-1859G'
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

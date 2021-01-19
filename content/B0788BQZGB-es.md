@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zzg4wNOLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788BQZGB-es'
+slug: 'B0788BQZGB-es Tommy Hilfiger Sujetador Estilo Bralette  Gris  Grey Heather 004   Small para Mujer'
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

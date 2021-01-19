@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gg7huybRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ3JN3N-es'
+slug: 'B07NJ3JN3N-es Salomon PROLOG 40 BAG Bolsa'
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

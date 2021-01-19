@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41f2U4vsPwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK13T6D-es'
+slug: 'B07RK13T6D-es Termómetro para Bebé  Vigorun Termómetro de Frente y Oídos Termómetro Digital Infrarrojo Medical con 1s Lectura Instantánea Precisa  Modo de Silencio  Alarma de Fiebre  para Bebés Adultos'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

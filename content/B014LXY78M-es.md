@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IOpq11-pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014LXY78M-es'
+slug: 'B014LXY78M-es TY - Beanie Boos Asia  Tigre  15 cm  Color Blanco / Rosa  United Labels Ibérica 36180TY '
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

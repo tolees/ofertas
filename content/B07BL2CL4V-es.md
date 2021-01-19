@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Xle3HWwqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL2CL4V-es'
+slug: 'B07BL2CL4V-es New Balance Fresh Foam Zante  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Magnet/Gold LB   47.5 EU'
 actualPrice: 42.17 EUR
 currency: EUR
 price: 42.17

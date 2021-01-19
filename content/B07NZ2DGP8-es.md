@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311Yst7rIiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ2DGP8-es'
+slug: 'B07NZ2DGP8-es Superdry Orange Label Cotton Vee suéter  Azul  Darkest Navy 49p   XX-Large  Talla del Fabricante: 2XL  para Hombre'
 actualPrice: 21.19 EUR
 currency: EUR
 price: 21.19

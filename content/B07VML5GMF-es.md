@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gXsOHZTqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VML5GMF-es'
+slug: 'B07VML5GMF-es Reloj - LIGE - para - LG9852'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

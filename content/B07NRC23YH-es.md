@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r4Q3-uRrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRC23YH-es'
+slug: 'B07NRC23YH-es Dunlop Stage 2 Orange - Pelota de Tenis para Adulto  Unisex  Talla única'
 actualPrice: 6.04 EUR
 currency: EUR
 price: 6.04

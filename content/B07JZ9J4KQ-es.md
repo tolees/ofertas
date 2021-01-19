@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HPjmdplPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZ9J4KQ-es'
+slug: 'B07JZ9J4KQ-es Calzoncillos de Hombre  Espalda Ahueca hacia Fuera la Ropa Interior Panties Briefs M-Negro '
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

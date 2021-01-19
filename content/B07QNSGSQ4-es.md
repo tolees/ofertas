@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g61H5cXlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QNSGSQ4-es'
+slug: 'B07QNSGSQ4-es Lámpara de mesita de Noche Redonda Minimalista de Madera Maciza  lámpara de Escritorio Redonda con Pantalla de Tela para Dormitorio  habitación de los niños  Sala de Estar'
 actualPrice: 13.33 EUR
 currency: EUR
 price: 13.33

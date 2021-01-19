@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315WEChh83L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0823LHM8C-es'
+slug: 'B0823LHM8C-es Botellas de carga de bolas de gel de 1 pieza con 10000 piezas de cuentas de plástico de 7-8 mm'
 actualPrice: 4.96 EUR
 currency: EUR
 price: 4.96

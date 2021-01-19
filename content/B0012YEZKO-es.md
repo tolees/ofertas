@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31R8tiTxMfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0012YEZKO-es'
+slug: 'B0012YEZKO-es Philips HQ110/02 - Spray limpiador para cabezales'
 actualPrice: 4.39 EUR
 currency: EUR
 price: 4.39

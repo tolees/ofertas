@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OXzGMfafL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KMGVI6W-es'
+slug: 'B00KMGVI6W-es Calvin Klein Modern Cotton-Thong Tanga  Grau  Grey Heather 020   Large para Mujer'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

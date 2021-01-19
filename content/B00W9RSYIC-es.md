@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EW-cCQF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W9RSYIC-es'
+slug: 'B00W9RSYIC-es Calvin Klein Radiant Cotton-Bikini Lencería  Blanco  White 100   Medium para Mujer'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nfI8mL6ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKMXKO0-es'
+slug: 'B00BKMXKO0-es Revlon Style Masters Strong Sculpted Curls Tratamiento Capilar - 150 ml'
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

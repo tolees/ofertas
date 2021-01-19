@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OGm94Kc4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I56QPHC-es'
+slug: 'B01I56QPHC-es Silver HT - Funda Universal con Teclado Micro USB Pixel Gamer para Tablet de 9" a 10.1" Pulgadas. Compatible con iPad  Samsung  BQ  Huawei  etc.'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

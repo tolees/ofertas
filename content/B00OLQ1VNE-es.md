@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dE8T4j0lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OLQ1VNE-es'
+slug: 'B00OLQ1VNE-es SOGO SS-5150 Batidora de Vaso Uso Profesional  Licuadora Super Potente  Jarra de 2 Litros Sin BPA  1800 Watts  Color Rojo'
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

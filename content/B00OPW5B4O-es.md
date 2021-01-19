@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51k6yuVaaBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OPW5B4O-es'
+slug: 'B00OPW5B4O-es Protenrop Ecol-Trio - Cubo de basura con 3 compartimentos  45 Litros'
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nV40dyEWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NMWQST-es'
+slug: 'B089NMWQST-es NDANH9896 Teléfono Fijo líneas Simples Estilo Retro La Tela de Lino Nunca se desvanece 45X45 cm'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

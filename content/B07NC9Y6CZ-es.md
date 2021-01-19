@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wiREVUKkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC9Y6CZ-es'
+slug: 'B07NC9Y6CZ-es Pepe Jeans Lulu suéter  Rojo  Francois Red 240   X-Small para Mujer'
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

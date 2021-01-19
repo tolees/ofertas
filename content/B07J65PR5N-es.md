@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Bf14KmU9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J65PR5N-es'
+slug: 'B07J65PR5N-es PROTEAR Protectores Auditivos Con Bluetooth y radio AM FM micrófono incorporado  protección auditiva que reduce el ruido  SNR 30 dB'
 actualPrice: 80.39 EUR
 currency: EUR
 price: 80.39

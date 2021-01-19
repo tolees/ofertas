@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ocfqqRsXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BSHBIE6-es'
+slug: 'B00BSHBIE6-es UNYQUE Compresas Maternidad de Algodon Puro 100% Hipoalergénicas - Previene Infecciones de la Sutura Posparto - Suavidad Extrema Super Acolchadas Desechables y Absorbentes - 12 Unidades'
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

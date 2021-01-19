@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411u3hCR3GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMGZSTV-es'
+slug: 'B07HMGZSTV-es Star Wars E0329EW0 SW S2 Yoda - Máscara electrónica  Multicolor'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

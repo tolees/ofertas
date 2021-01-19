@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413I5xa-vpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXKPWJL-es'
+slug: 'B07DXKPWJL-es OurLeeme 13 en 1 teléfono móvil de la pantalla de apertura Herramientas de reparación del kit del destornillador de los alicates palanca Desmontar el Kit de herramientas para Samsung iPhone Móvil'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

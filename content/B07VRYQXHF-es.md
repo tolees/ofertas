@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x6KcOu7EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRYQXHF-es'
+slug: 'B07VRYQXHF-es Calvin Klein Medium Double WB Bañador  Negro  PVH Black BEH   X-Large para Hombre'
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

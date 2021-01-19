@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61cxM-KygeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXPTTUS-es'
+slug: 'B01MXPTTUS-es muveacoustics A-Star Resistente al Agua portátil inalámbrico Bluetooth Altavoz  Negro '
 actualPrice: 22.53 EUR
 currency: EUR
 price: 22.53

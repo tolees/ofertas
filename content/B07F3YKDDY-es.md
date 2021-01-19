@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qEbt+-GXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3YKDDY-es'
+slug: 'B07F3YKDDY-es ONEVER Luces de tira llevadas flexibles con el cable del USB para la iluminación decorativa del fondo de la computadora de la TV  blanco caliente de SMD 3528 los 50CM  1 '
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51fSIIx7GNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BTCPHLA-es'
+slug: 'B00BTCPHLA-es Samsung Flip - Funda para móvil Galaxy S4  Con tapa  protección del terminal  sustituye a la tapa trasera   verde- Versión Extranjera'
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

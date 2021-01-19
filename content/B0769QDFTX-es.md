@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wxMkMxDPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0769QDFTX-es'
+slug: 'B0769QDFTX-es Kalokelvin Picadora Manual de Verdura Cortador de Verduras de Acero Inoxidable para Picar Verduras Frutas Carne Cebolla Jengibre Ajo Ensalada Hacer Comida Suave a Bebé Pequeños（750ML）'
 actualPrice: 10.11 EUR
 currency: EUR
 price: 10.11

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417qoksp2XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSV5MP5-es'
+slug: 'B07MSV5MP5-es Cat Footwear Quadrate  Botas Clasicas para Hombre  Naranja  Ginger Ginger   43 EU'
 actualPrice: 30.32 EUR
 currency: EUR
 price: 30.32

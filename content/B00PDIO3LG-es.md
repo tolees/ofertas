@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wVnKSgA1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PDIO3LG-es'
+slug: 'B00PDIO3LG-es Mousehouse Gifts Caja de música Rosa para bebés Decorada con búhos y con la melodía “It’s a Small World Bautizo o babyshower'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

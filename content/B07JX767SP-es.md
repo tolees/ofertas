@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bVNiBylGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JX767SP-es'
+slug: 'B07JX767SP-es 6800mAh 14.4V Capacidad de la batería Ni-MH para iRobot Roomba aspiradoras Serie 500 600 700 800'
 actualPrice: 58.59 EUR
 currency: EUR
 price: 58.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wZaiwwZnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081Q42SJR-es'
+slug: 'B081Q42SJR-es Depiladora de Luz Pulsada  ACTION 2 Modos Depilación Definitiva Profesional de IPL  990 000 Pulsaciones  la Depilación Permanente del Vello Visible para Hombres y Mujeres  Rosa'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

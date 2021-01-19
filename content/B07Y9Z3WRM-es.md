@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5120JzUBx3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9Z3WRM-es'
+slug: 'B07Y9Z3WRM-es Guzack Brazalete Deportivo Brazalete Correr Móvil para iPhone 11/11 Pro/XR/XS max/8/7/6s  Samsung Galaxy A 50s/A 30s/ S10/S10/S9/S9/ S8/S7 hasta 6.5"  Touch ID  Brazalete teléfono con Airpods Holder'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

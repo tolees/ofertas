@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j05n6raOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPYFRB9-es'
+slug: 'B07BPYFRB9-es Colchoneta de Masaje Estera de Masaje de Yoga  4 Programas de Estiramiento  3 Intensidades Ajustables para Relajación Corporal Total  Liberación de Tensión  Mejora de la Flexibilidad  Plegado Simple'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

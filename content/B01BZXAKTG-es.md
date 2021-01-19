@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416ZJBosexL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BZXAKTG-es'
+slug: 'B01BZXAKTG-es Revlon Total Color Care Antifading Shampoo Champú - 1000 ml'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

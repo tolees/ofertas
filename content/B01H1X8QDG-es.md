@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UXoxQtaoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H1X8QDG-es'
+slug: 'B01H1X8QDG-es Panama Jack Panama 03 Igloo  Botas Militar para Mujer  Gris  Gris B20   37 EU'
 actualPrice: 127.95 EUR
 currency: EUR
 price: 127.95

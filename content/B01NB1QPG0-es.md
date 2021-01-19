@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fFmON%2BAqL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NB1QPG0-es'
+slug: 'B01NB1QPG0-es UEETEK Magnética flotante acuario vidrio limpiador cepillo removedor - talla S'
 actualPrice: 9.56 EUR
 currency: EUR
 price: 9.56

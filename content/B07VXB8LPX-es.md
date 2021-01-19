@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PmXvgT8WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXB8LPX-es'
+slug: 'B07VXB8LPX-es Plastimyr 5970077  Bañera con Cajones y Cambiador  de 0 a 12 meses  Blanco/Gris  82 × 53 × 107 cm'
 actualPrice: 112.15 EUR
 currency: EUR
 price: 112.15

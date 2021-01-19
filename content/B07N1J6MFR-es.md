@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xmU-CSFTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1J6MFR-es'
+slug: 'B07N1J6MFR-es Superga 2730-cotu  Zapatillas de Gimnasia para Mujer  Rosa  Pink Skin W6y   35.5 EU'
 actualPrice: 35.85 EUR
 currency: EUR
 price: 35.85

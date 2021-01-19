@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zprV9LfaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD1Q5J3-es'
+slug: 'B07SD1Q5J3-es PUMA ST Activate JR  Zapatillas Unisex niños  Rosa  Bright Rose/Rosewater   39 EU'
 actualPrice: 23.84 EUR
 currency: EUR
 price: 23.84

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OYblqFsvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QLSZ1L-es'
+slug: 'B087QLSZ1L-es NINGNETI Reutilizable y Lavable con Carbón Activado Filtro Antipolvo Antivaho Actividades al aire libre Pack 3 unidades + 6 unidades Almohadilla NKZ-0427A18'
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

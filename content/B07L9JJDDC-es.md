@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E7yHkkhWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9JJDDC-es'
+slug: 'B07L9JJDDC-es Altavoz Bluetooth - Hey You! Turn me on  Eng '
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

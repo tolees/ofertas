@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21wPInCh7vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWZN42Z-es'
+slug: 'B07VWZN42Z-es Könighaus - Calefactor por infrarrojos  800 y 1000 W  12-34 m²   Blanco  800 mit integriertem Smart Thermostat 1000.00watts'
 actualPrice: 179.9 EUR
 currency: EUR
 price: 179.9

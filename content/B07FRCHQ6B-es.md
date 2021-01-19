@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MU1lEc+8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FRCHQ6B-es'
+slug: 'B07FRCHQ6B-es HOMIEE Bolsa para Portátil  Maletín Portátil 15 Pulgadas，Bolso Bandolera  Maletín para Portátli de 15 6 Pulgadas  Multifuncional Portátil'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

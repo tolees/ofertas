@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417XBsjbVqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784YVRSR-es'
+slug: 'B0784YVRSR-es Reebok Workout Plus  Zapatillas de Deporte para Niños  Blanco  White/Steel/Royal 000   36.5 EU'
 actualPrice: 44.29 EUR
 currency: EUR
 price: 44.29

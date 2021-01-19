@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qGK0JHWQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NVR6PT-es'
+slug: 'B079NVR6PT-es ProfiCare HTH 3003 - Secador de casco iónico  2 niveles de velocidad y temperatura  400 W  color blanco'
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

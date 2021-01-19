@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dw2qJb-JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J5G2P5S-es'
+slug: 'B00J5G2P5S-es HARTMANN - TIRITAS SPORT EXPRESS 15 U'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

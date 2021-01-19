@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ea3w1eD4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8ZSFPR-es'
+slug: 'B07S8ZSFPR-es Tratamiento de hongos anti hongos  Tratamiento de hongos anti hongos  Tratamiento de uñas anti hongos líquido para el cuidado de las uñas adecuado para uñas de dedos y pies'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AFLLfgu+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYHLFWW-es'
+slug: 'B07SYHLFWW-es Daewoo S0421164 Altavoces Bluetooth DBT-10 12W'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

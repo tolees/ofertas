@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iss+62V+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0055ZOURO-es'
+slug: 'B0055ZOURO-es Balay 3WMX1918 - Microondas Acero INOX  800 W  17 litros  Plata'
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

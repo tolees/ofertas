@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412YtZ2aOmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZSJNF5-es'
+slug: 'B07TZSJNF5-es Skechers Reggae Fest-Rooted  Bailarinas con Punta Cerrada para Mujer  Azul  Navy Heather Textile Nvy   37 EU'
 actualPrice: 19.33 EUR
 currency: EUR
 price: 19.33

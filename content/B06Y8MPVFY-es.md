@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415baX2xYaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y8MPVFY-es'
+slug: 'B06Y8MPVFY-es BaronHong Sport Bra Chest Binder Transpirable Malla Corset para Tomboy Trans Lesbianas  Negro  M '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

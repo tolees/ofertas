@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OxJMoj-wL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0742CSSP4-es'
+slug: 'B0742CSSP4-es MBSL-40 Subwoofer 40W BSL con Karaoke'
 actualPrice: 41.28 EUR
 currency: EUR
 price: 41.28

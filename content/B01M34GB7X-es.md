@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314WlHLj16L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M34GB7X-es'
+slug: 'B01M34GB7X-es Cecotec Microondas con Horno Convection. Capacidad de 23l  700 W de Potencia  Grill de 950W  6 Modos Combinados  Horno de Calor por Conveccion 1850W  Interior y Exterior en Acero Inoxidable'
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

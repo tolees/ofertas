@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ndY2ij-NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXTLPVR-es'
+slug: 'B07MXTLPVR-es SALOMON Explore Graphic SS tee T-Shirt  Hombre  Azul  Poseidon   XXL'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

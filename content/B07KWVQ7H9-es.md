@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312NZFA69WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWVQ7H9-es'
+slug: 'B07KWVQ7H9-es 7 CM Electrostática Eliminación de lavandería Bolas limpias Reutilizable Lavandería natural Suavizante de telas Bolas de lana premium - Blanco'
 actualPrice: 5.22 EUR
 currency: EUR
 price: 5.22

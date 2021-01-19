@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41och+nLfsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004ZY68OO-es'
+slug: 'B004ZY68OO-es PUMA Suede Classic+  Zapatillas para Hombre  Black White  40.5 EU'
 actualPrice: 58.65 EUR
 currency: EUR
 price: 58.65

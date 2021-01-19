@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yqAmP7frL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CWTMMZG-es'
+slug: 'B07CWTMMZG-es Font Vella Levité Agua Mineral con zumo de limón - Pack 12 x 50cl'
 actualPrice: 5.1 EUR
 currency: EUR
 price: 5.1

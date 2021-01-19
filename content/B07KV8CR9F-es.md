@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AhjpHaw1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KV8CR9F-es'
+slug: 'B07KV8CR9F-es Weekend Peninsula 5 Pares Calcetines Running Deportivos Hombres Mujer  Calcetines Cortos Tobilleros Hombre Mujer Invisibles Bajos Antiampollas  EU 35-38  5X Rosa2 '
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZULdSelmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZMXP5R-es'
+slug: 'B07MZMXP5R-es Pepe Jeans London Dean Warm  Zapatillas Altas para Mujer  Gris 959  39 EU'
 actualPrice: 34.33 EUR
 currency: EUR
 price: 34.33

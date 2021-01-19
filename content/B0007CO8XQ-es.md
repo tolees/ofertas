@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o9estDOPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0007CO8XQ-es'
+slug: 'B0007CO8XQ-es Converse Chuck Taylor All Star Hi  Zapatillas Altas Unisex Adulto  Blanco  Bianco  Optical White   51.5 EU'
 actualPrice: 21.23 EUR
 currency: EUR
 price: 21.23

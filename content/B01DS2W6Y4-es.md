@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vQhj5zX-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DS2W6Y4-es'
+slug: 'B01DS2W6Y4-es Garnier Delial Niños Sensitive Advanced - Protector Solar Leche Wet Skin para Pieles Claras  Sensibles e Intolerantes al Sol  IP50 - 150 ml'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

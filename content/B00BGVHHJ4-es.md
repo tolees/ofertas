@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aTEkOnZ9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BGVHHJ4-es'
+slug: 'B00BGVHHJ4-es Fruit of the Loom- Polo de Manga Corta Premium Entallado para Mujer  Mediana  M /Rosa Claro '
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

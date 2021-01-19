@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/216OShiwcyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Y3KMJVG-es'
+slug: 'B00Y3KMJVG-es Beter Minnie Eyeliner Azul Océano'
 actualPrice: 0.71 EUR
 currency: EUR
 price: 0.71

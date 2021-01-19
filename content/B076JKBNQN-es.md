@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PoNkDm5nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076JKBNQN-es'
+slug: 'B076JKBNQN-es Astor Soft Sentation Color & Care Barra de Labios  color 405'
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

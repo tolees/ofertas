@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wsWNIk+VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRMSYPD-es'
+slug: 'B07TRMSYPD-es Levi s Plus Size Pl 501 Original Pantalones Cortos  Azul  Tango Dibs Plus Short 0001   Talla Única  Talla del Fabricante: 24  para Mujer'
 actualPrice: 21.84 EUR
 currency: EUR
 price: 21.84

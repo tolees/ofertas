@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lPADOIZsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBJ7YNV-es'
+slug: 'B07GBJ7YNV-es Pulsar Reloj cronografo para Hombre de Cuarzo con Correa en Piel PM3120X1'
 actualPrice: 86.59 EUR
 currency: EUR
 price: 86.59

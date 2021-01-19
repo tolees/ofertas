@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LrgU-bckL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHQ4LJ8-es'
+slug: 'B07VHQ4LJ8-es Jack & Jones Jprdax Knit Crew Neck suéter  Blanco  White White   Medium para Hombre'
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

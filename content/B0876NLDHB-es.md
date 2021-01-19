@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tFF82ghUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876NLDHB-es'
+slug: 'B0876NLDHB-es Depiladora de Cejas  Eléctrica Depiladora Facial Mujer  Recortador de Vello Nariz/Orejas  Luz LED Incorporada  USB Recargable  Eyebrows Trimmer'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

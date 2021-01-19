@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S+3CJ5lIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZXWIRP-es'
+slug: 'B01LZXWIRP-es Tribe Star Wars - Cable USB Lightning para Apple iPhone  120 cm  diseño Stormtrooper'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

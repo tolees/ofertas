@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MceNp9uzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SD8GUFK-es'
+slug: 'B00SD8GUFK-es Star Wars: El Retorno del Jedi Luke Skywalker Sable láser Extensible'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jHOeuIeSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDTB54B-es'
+slug: 'B07BDTB54B-es s.Oliver Reloj Analogico para Mujer de Cuarzo con Correa en PU SO-3522-LQ'
 actualPrice: 46.26 EUR
 currency: EUR
 price: 46.26

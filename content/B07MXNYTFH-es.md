@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31V-NH0hNqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXNYTFH-es'
+slug: 'B07MXNYTFH-es JACK & JONES Jfwbarton Canvas  Zapatillas para Hombre  Gris  Anthracite Anthracite   42 EU'
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MJBkCqVpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0PNISG-es'
+slug: 'B01M0PNISG-es Diesel UMBR-ANDRETHREEPACK  Calzoncillo para Hombre  Negro  Black   L  Pack de 3'
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

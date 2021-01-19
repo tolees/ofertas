@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rkSljtPoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F451CRP-es'
+slug: 'B07F451CRP-es Mr; Wonderful Woa09057Es Organizador Semanal De Sobremesa Tú Haces Magia'
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

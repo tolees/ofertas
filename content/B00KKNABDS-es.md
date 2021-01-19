@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jJvdS57lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KKNABDS-es'
+slug: 'B00KKNABDS-es Habitdesign 007820BO - Mesita de noche dos cajones Ward.E  color Blanco Brillo  dimensiones: 45 x 38 x 34 cm de fondo'
 actualPrice: 37.21 EUR
 currency: EUR
 price: 37.21

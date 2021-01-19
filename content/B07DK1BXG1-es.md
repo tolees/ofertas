@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JE5As7QiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK1BXG1-es'
+slug: 'B07DK1BXG1-es Gola Aka202  Zapatillas Deportivas para Interior Unisex Niños  Negro Black BB  24 EU'
 actualPrice: 11.38 EUR
 currency: EUR
 price: 11.38

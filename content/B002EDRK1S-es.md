@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XYaLv7RvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002EDRK1S-es'
+slug: 'B002EDRK1S-es HP CE255X 55X Cartucho de Tóner Original de alto rendimiento  1 unidad  negro'
 actualPrice: 187.94 EUR
 currency: EUR
 price: 187.94

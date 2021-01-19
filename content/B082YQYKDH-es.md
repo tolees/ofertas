@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Vkeu-x5BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082YQYKDH-es'
+slug: 'B082YQYKDH-es Oihxse Colorido Gradual Cristal Estilo Case Compatible con Huawei Y6 Pro 2019/Y6 2019/Honor 8A Funda Vidrio Templado Trasera Carcasa Borde de Silicona Suave Protectora Ultra Fino Anti-arañazos'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

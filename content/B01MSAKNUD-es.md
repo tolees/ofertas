@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d0+EWH9UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSAKNUD-es'
+slug: 'B01MSAKNUD-es Head Hombres Club Short M'
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

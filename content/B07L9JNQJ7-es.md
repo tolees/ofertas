@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S-btv8QlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9JNQJ7-es'
+slug: 'B07L9JNQJ7-es Under Armour Recovery Sleepwear Pantalones Cortos  Mujer  Negro  XS'
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

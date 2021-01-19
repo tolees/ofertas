@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IPRW4dsHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0778LWNVF-es'
+slug: 'B0778LWNVF-es Team Kalorik Extractor de zumo con recipientes de 500 ml  Para frutas y verduras  1 Cepillo de limpieza  150 W  Rojo/Negro  TKG FE 1010 R'
 actualPrice: 58.72 EUR
 currency: EUR
 price: 58.72

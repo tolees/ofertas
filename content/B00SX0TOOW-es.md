@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RUAaIPu5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SX0TOOW-es'
+slug: 'B00SX0TOOW-es Calvin Klein Modern Cotton Ropa Interior  Gris  Grey Heather 020   38 para Mujer'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

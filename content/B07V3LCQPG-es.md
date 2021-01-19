@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PVcNVUz6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3LCQPG-es'
+slug: 'B07V3LCQPG-es Nike Air Heights  Zapatillas para Hombre  Negro Black White 003  40 EU'
 actualPrice: 34.7 EUR
 currency: EUR
 price: 34.7

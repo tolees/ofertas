@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vGK6zLLjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792RSBS2-es'
+slug: 'B0792RSBS2-es Nakosite RAY2433 Reloj inteligente Mujer Hombre SmartWatch pulsera Actividad relojes Inteligentes deportivo   podometro Contador de Pasos Calorías Sueño Distancia.Android 5.0 iOS 8.0 y posteriores'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41slylXwexL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087P7H2VB-es'
+slug: 'B087P7H2VB-es Pendientes de perro para mujer 925 plata esterlina Shiba Animal Ear Stud Pendientes hipoalergénicos Regalo de joyería para damas Niñas Adolescentes'
 actualPrice: 22.31 EUR
 currency: EUR
 price: 22.31

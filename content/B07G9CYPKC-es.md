@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Gx9IEBVEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9CYPKC-es'
+slug: 'B07G9CYPKC-es Easton Marlowe 6 PR Calcetines Estampados Hombre Mujer - 6pk #45  Mixto - colores neutros y brillantes  39-42 UE'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

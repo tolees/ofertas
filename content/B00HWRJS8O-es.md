@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sYSxE7DzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HWRJS8O-es'
+slug: 'B00HWRJS8O-es Maurer 2160807 Extractor de 2 Brazos  6"'
 actualPrice: 6.27 EUR
 currency: EUR
 price: 6.27

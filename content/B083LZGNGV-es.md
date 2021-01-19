@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/210ptUyeMGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083LZGNGV-es'
+slug: 'B083LZGNGV-es Samsung - Funda Clear View para Galaxy S20+  negro'
 actualPrice: 37.3 EUR
 currency: EUR
 price: 37.3

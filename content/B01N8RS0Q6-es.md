@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZkNAtigGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N8RS0Q6-es'
+slug: 'B01N8RS0Q6-es Beurer FC48 - Cepillo facial  resistente a salpicadura s  2 intensidades  color blanco'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VvBvkqM0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK55KWY-es'
+slug: 'B07KK55KWY-es Saucony Xodus ISO 3  Zapatillas de Trail Running para Mujer  Morado  Púrpura 37   36 EU'
 actualPrice: 73.27 EUR
 currency: EUR
 price: 73.27

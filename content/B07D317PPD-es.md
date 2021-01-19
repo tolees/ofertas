@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c2ZX+F9oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D317PPD-es'
+slug: 'B07D317PPD-es Amazfit Pace - Reloj inteligente para correr con GPS'
 actualPrice: 58.85 EUR
 currency: EUR
 price: 58.85

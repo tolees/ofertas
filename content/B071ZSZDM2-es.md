@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513hSs1xgYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZSZDM2-es'
+slug: 'B071ZSZDM2-es 150 UD de 10 ml de monodosis aceite de oliva virgen extra'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

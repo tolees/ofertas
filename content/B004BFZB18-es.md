@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zjj2f4qEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004BFZB18-es'
+slug: 'B004BFZB18-es Michelin Country AT Cubierta  Unisex  Negro  26 x 2.00'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

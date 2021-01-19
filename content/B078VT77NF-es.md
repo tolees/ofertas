@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WVcE4DPfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078VT77NF-es'
+slug: 'B078VT77NF-es XINZUO Set Cuchillo Cocina 5 Piezas Damasco Japonés 67 Capas Profesional Cuchillo Chef 20cm Cuchillo Santoku 17 8cm Cuchillo Trinchar 20cm Cuchillo Uso Cuchillos Pelar Pakkawood Mango - Ya Serie'
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

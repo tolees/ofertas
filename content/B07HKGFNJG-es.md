@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XUnr81O1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKGFNJG-es'
+slug: 'B07HKGFNJG-es Under Armour UA W HOVR Rise  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White/White  002  002   42.5 EU'
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

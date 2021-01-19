@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WA9tnN1+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FQBXKLY-es'
+slug: 'B00FQBXKLY-es Máscara de calavera sangrienta adulto Halloweeen'
 actualPrice: 30.09 EUR
 currency: EUR
 price: 30.09

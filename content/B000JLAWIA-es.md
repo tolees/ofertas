@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BHy6obUjL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B000JLAWIA-es'
+slug: 'B000JLAWIA-es Thierry Mugler - A*MEN RUBBER R edt vapo 100 ml'
 actualPrice: 45.5 EUR
 currency: EUR
 price: 45.5

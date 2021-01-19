@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sSUdXfdwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088LSCCHV-es'
+slug: 'B088LSCCHV-es PU Funda de Cuero para teléfono Riñonera Cinturón Clip para Hombre Cintura Colgante Bolsa de Almacenamiento Macho Portátil Sólido para Hombre Bolsa para teléfono al Aire Libre'
 actualPrice: 0.94 EUR
 currency: EUR
 price: 0.94

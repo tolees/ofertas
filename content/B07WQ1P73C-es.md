@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dKCrQMhAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQ1P73C-es'
+slug: 'B07WQ1P73C-es TUBBZ Fallout Vault Boy Collectible Duck'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

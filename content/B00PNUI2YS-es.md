@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iYxygtY+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PNUI2YS-es'
+slug: 'B00PNUI2YS-es adidas Originals Superstar  Zapatillas de deporte Unisex Adulto  Negro  Core Black/ftwr White/Core Black   42 EU'
 actualPrice: 64.83 EUR
 currency: EUR
 price: 64.83

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P0ptjqNfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZH8RNT6-es'
+slug: 'B07ZH8RNT6-es Lubricante Intimo a Base de Agua Natural lubricante - 250 Ml'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

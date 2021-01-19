@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gExIYHQqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V96GLNS-es'
+slug: 'B07V96GLNS-es Gaoyong Bolsas Vacio Ropa Aspiradora Bolsas Almacenaje Ropa Bolsas para Guardar Ropa Bolsas Envasar al Vacio para Ropa Edredones Ropa de Cama Almohadas de Viaje（10 PCS Incluyen Bomba de Aire Grande）'
 actualPrice: 14.12 EUR
 currency: EUR
 price: 14.12

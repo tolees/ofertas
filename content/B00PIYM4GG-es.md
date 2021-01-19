@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vEyxStBXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PIYM4GG-es'
+slug: 'B00PIYM4GG-es Victoria S Secret  Spray corporal con fragancia para mujeres  piel normal  - 250 ml.'
 actualPrice: 13.1 EUR
 currency: EUR
 price: 13.1

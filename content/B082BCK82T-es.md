@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RVNE4TlxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082BCK82T-es'
+slug: 'B082BCK82T-es Geographical Norway Polar RIAKOLO Mujer Gris Claro 02'
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

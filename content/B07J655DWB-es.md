@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kXCFMsLOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J655DWB-es'
+slug: 'B07J655DWB-es American Tourister Aero Racer Spinner 55 - 2 5 Kg Equipaje de mano  37 liters  Rojo  Poppy Red '
 actualPrice: 66.5 EUR
 currency: EUR
 price: 66.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TC4jyBE9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y4YF7TS-es'
+slug: 'B07Y4YF7TS-es HP Pavilion Gaming TG01-0024ns - Ordenador de sobremesa de gaming  AMD Ryzen 5 3500 de 6 cores  8 GB RAM   256 GB SSD + HDD de 1 TB  NVIDIA GeForce GTX 1650 4GB  FreeDOS  negro noche'
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

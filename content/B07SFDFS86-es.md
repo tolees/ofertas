@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519e-mIxISL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFDFS86-es'
+slug: 'B07SFDFS86-es E·Durable 5pcs 125mm Alicates tenaza Para el mantenimiento diario industrial  electromecánico  instrumentación  herramientas de reparación de electrodomésticos'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

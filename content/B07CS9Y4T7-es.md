@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uUgksOm6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CS9Y4T7-es'
+slug: 'B07CS9Y4T7-es Pepe Jeans Pixlette Jeans  Negro  Black Denim Wl0   11-12 años  Talla del Fabricante: 12  para Niñas'
 actualPrice: 33.18 EUR
 currency: EUR
 price: 33.18

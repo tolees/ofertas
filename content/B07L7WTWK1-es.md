@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4121DDo6RoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L7WTWK1-es'
+slug: 'B07L7WTWK1-es Casio Reloj de Pulsera DW-5900-1ER'
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

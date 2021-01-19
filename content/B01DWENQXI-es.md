@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TS7WAmG9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DWENQXI-es'
+slug: 'B01DWENQXI-es Samsung WMN550M/XC Mini Soporte de Pared  Negro'
 actualPrice: 31.35 EUR
 currency: EUR
 price: 31.35

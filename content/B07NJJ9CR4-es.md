@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VJI2qFovL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJJ9CR4-es'
+slug: 'B07NJJ9CR4-es Tamaris 1-1-25252-23  Zapatillas Altas para Mujer  Marrón  Cognac 305   38 EU'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

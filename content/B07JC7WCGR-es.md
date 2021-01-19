@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31XNSJ2fCXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC7WCGR-es'
+slug: 'B07JC7WCGR-es Hackett London Archive Colour Block Polo  Multicolor  Red/Navy 2a2   Small para Hombre'
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

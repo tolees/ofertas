@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fitZW9w-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2MMDRY-es'
+slug: 'B07K2MMDRY-es adidas RUNFALCON  Zapatillas de Trail Running para Mujer  Blanco  FTWR White/FTWR White/Core Black   40 EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

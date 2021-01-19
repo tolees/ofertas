@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f0+dikG0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JPSFVW-es'
+slug: 'B072JPSFVW-es adidas Campus  Zapatillas de Deporte para Hombre  Azul  Azuosc / Ftwbla / Blatiz   39 1/3 EU'
 actualPrice: 58.82 EUR
 currency: EUR
 price: 58.82

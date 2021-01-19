@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eS4I7vJ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X95G4GN-es'
+slug: 'B07X95G4GN-es LIGE Relojes para Hombre Impermeable Acero Inoxidable Cuarzo Analógico Reloj Informal Negocios Reloj de Pulsera'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

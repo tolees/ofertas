@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Jzud7nzXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YLLLTY1-es'
+slug: 'B07YLLLTY1-es ngzhongtu 4 Puertos HUB de Alta Velocidad Hi-Speed 4 Puertos USB 2.0 Multi HUB Splitter Expansion para PC de Escritorio Laptop Adapt - Negro'
 actualPrice: 1.38 EUR
 currency: EUR
 price: 1.38

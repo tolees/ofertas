@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WGDgFLa8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QL24M5D-es'
+slug: 'B07QL24M5D-es Hawiton Sujetadores Deportivos Mujer con Almohadillas Extraíbles Espalda Sujetador Deporte Mujer Sin Costuras con Relleno Yoga Racerback Top Gimnasio Fitness Ejercicio  Pack 1/3'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

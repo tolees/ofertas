@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mLL4NthlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4RNJ1R-es'
+slug: 'B07G4RNJ1R-es Sony DSCRX100M5A - Cámara Compacta  20.1 MP  AF Híbrido de 0.05 s  24 fps  Vídeo 4 K  Sensor CMO  Cámara Superlenta con 960 fps  Lente Zeiss  Color Negro'
 actualPrice: 727.99 EUR
 currency: EUR
 price: 727.99

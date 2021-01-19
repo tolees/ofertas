@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511rrMvIz5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZNWK4D-es'
+slug: 'B01LZNWK4D-es Micaderm Toallitas para Bebe - 72 unidades'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

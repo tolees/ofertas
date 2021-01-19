@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zuna25UqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00005NHAB-es'
+slug: 'B00005NHAB-es HP C7115X - Tóner  color negro'
 actualPrice: 57.46 EUR
 currency: EUR
 price: 57.46

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WynW-2nzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8PSV3H-es'
+slug: 'B07K8PSV3H-es Casio Reloj de Pulsera EFV-580D-7AVUEF'
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

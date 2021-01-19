@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gaJ0C+HcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PLZGLN-es'
+slug: 'B077PLZGLN-es Trust Gaming GXT 140 Manx - Ratón Gaming inalámbrico Iluminado con batería Recargable  Negro'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

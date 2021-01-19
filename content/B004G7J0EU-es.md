@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414yQoq9wqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004G7J0EU-es'
+slug: 'B004G7J0EU-es Julius-K9 Correa  Negro y Gris  2 cm'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

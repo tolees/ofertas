@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mT7e5hZjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKZRRQX-es'
+slug: 'B07VKZRRQX-es Calvin Klein Hombre - Pack de 3 bóxers de tiro medio - Cotton Stretch  Rojo  Minnow/Horoscope/Inferno Weu   X-Small para Hombre'
 actualPrice: 13.14 EUR
 currency: EUR
 price: 13.14

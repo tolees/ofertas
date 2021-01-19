@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41alaT0QxSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDP2ZBL-es'
+slug: 'B07RDP2ZBL-es New Balance 997h  Zapatillas para Hombre  Rojo  Red/Navy Hbj   40.5 EU'
 actualPrice: 60.61 EUR
 currency: EUR
 price: 60.61

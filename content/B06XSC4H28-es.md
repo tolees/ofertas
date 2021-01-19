@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413IEfdrBhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XSC4H28-es'
+slug: 'B06XSC4H28-es Daniel Wellington Reloj Digital para Mujer de Cuarzo con Correa en Acero Inoxidable DW00100163'
 actualPrice: 80.52 EUR
 currency: EUR
 price: 80.52

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51lDu9p48KL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFHB1B8-es'
+slug: 'B07PFHB1B8-es Kit de 48 Tubos de Pintura Acrílica  12mL  - Pinturas Acrilicas Profesional'
 actualPrice: 18.51 EUR
 currency: EUR
 price: 18.51

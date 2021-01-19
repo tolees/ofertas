@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g1xoEXtZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086RGWFGT-es'
+slug: 'B086RGWFGT-es GHONLZIN Ajedrez para Niños  Ice Ball Battle Game Juego de Tablero de Ajedrez Interactivo para Padres e Hijos Juego Bumper Chess Juego de Escritorio para Niños  Niños  Adultos'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

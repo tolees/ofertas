@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B-MlSsaKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JCMTT8S-es'
+slug: 'B08JCMTT8S-es SGKITM Funda OnePlus 5 / OnePlus 5T Silicona Transparente TPU Carcasa Flores Vistoso Hoja Mariposa Patrón Estuche Suave Clear Gel Ultra Delgado Anti Choque Caja para OnePlus 5 / 5T  3  5 '
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

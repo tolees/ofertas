@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AO10%2BNTGL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK7N4HW-es'
+slug: 'B07KK7N4HW-es ELEGIANT Mini LED Luz USB con Altavoz Bluetooth  Lámpara para Lectura Leer Libros Trabajar Estudiar con Ordenador Portátil Música iPhone PC Oficina Casa Divertir para Viajes Negro'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

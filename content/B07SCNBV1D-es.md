@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SmQYHTLmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCNBV1D-es'
+slug: 'B07SCNBV1D-es Newdora Almohada de Viaje Viscoelástica de Espuma de Memoria  Almohada de Cuello  Almohadas de Acampada  Almohada Ortopédica Cervica  Soporte de Cuello  con Máscara de Ojos y Tapones  Gris Oscuro'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

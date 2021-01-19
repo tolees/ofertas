@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DNQL1ecRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6QJWZP-es'
+slug: 'B07J6QJWZP-es American Tourister Modern Dream - Spinner S Equipaje de mano  55 cm  35 L  Blanco  Stardust '
 actualPrice: 77.77 EUR
 currency: EUR
 price: 77.77

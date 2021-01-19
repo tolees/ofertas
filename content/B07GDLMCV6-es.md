@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417IoV8wdKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDLMCV6-es'
+slug: 'B07GDLMCV6-es Rowenta Ultimate Experience SF8220 Plancha profesional con 5 ajustes de temperatura  deslizamiento óptimo  placas de anchas de 3 cm y calientamiento rápido  para todo tipo de cabellos'
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

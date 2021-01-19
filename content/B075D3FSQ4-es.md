@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41peqimRWVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075D3FSQ4-es'
+slug: 'B075D3FSQ4-es Trust GXT 310D Radius - Auriculares Gaming Multi-Plataforma  Color Camuflaje Desierto'
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517-PsdT76L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BF020VU-es'
+slug: 'B01BF020VU-es Seiko Reloj Analógico para Hombre con Correa de Cuero – SRN071P1'
 actualPrice: 168.35 EUR
 currency: EUR
 price: 168.35

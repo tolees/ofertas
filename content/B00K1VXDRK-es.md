@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WW2Qj0XiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K1VXDRK-es'
+slug: 'B00K1VXDRK-es Reloj Calvin Klein - Mujer K4U23126'
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

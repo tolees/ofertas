@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZXwfFiu5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D2YOK5W-es'
+slug: 'B00D2YOK5W-es Creative A250 - Equipo de altavoces 2.1'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

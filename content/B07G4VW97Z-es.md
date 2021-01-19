@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+YnjiyW7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4VW97Z-es'
+slug: 'B07G4VW97Z-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 1781955'
 actualPrice: 103.57 EUR
 currency: EUR
 price: 103.57

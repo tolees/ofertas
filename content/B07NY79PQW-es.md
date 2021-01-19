@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31BH2rHhHiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY79PQW-es'
+slug: 'B07NY79PQW-es Superdry Classic Lite Micro Pique Polo  Verde  Army Green 43e   Medium para Hombre'
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

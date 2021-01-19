@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411tmhjA6dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SFTJCR-es'
+slug: 'B082SFTJCR-es Luchild Almohada Embarazada Multifuncional  Cojín Lactancia Bebé  Cama Nido Bebé  Protector Cuna，Fundas 100% Algodón  Relleno 100% Poliéster Lavable Hipoalergénico'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

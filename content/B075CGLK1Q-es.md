@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/513hP%2BRWc-L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B075CGLK1Q-es'
+slug: 'B075CGLK1Q-es Essort Funda Mesa Jardin 213x123x74cm  Fundas para Muebles de Jardin Impermeables  Juego de Fundas para Sofa de Jardin  al Aire Libre  Patio  Plazas Funda para Sofa de Esquina  Mesa y Sillas  Negro'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

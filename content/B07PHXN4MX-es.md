@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zyHNzDJqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHXN4MX-es'
+slug: 'B07PHXN4MX-es ranrann Chal Larga de Boda Fiesta para Mujer Estola de Gasa Verano Capa Chifón Elegante de Novia Cárdigan de Playa Top Bolero de Ceremonia Noche Negro One Size'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zq6lIGuOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D14ZHNK-es'
+slug: 'B07D14ZHNK-es Kipling Onalo Bolsa Multifunción  18 Litros  Negro  Lively Black '
 actualPrice: 42.24 EUR
 currency: EUR
 price: 42.24

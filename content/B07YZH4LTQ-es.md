@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MV9hSz9qL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZH4LTQ-es'
+slug: 'B07YZH4LTQ-es Siux Cajon DE 24 Botes con 3 Bolas Match Pro'
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

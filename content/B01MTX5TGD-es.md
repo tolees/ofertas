@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e3xt8qb6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTX5TGD-es'
+slug: 'B01MTX5TGD-es Dispensador de jabón Kapitan de repuesto con rosca de 28 mm en acero inoxidable con acabado de alta calidad  2 unidades'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

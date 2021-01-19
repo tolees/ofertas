@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31BAziglydL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRL7TY2-es'
+slug: 'B07KRL7TY2-es New Balance Cm997hv1  Zapatillas para Hombre  Blanco  White White   47 EU'
 actualPrice: 34.21 EUR
 currency: EUR
 price: 34.21

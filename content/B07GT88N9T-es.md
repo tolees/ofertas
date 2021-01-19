@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ag-ZHKfML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GT88N9T-es'
+slug: 'B07GT88N9T-es Desigual - Bag Clio London Women  Shoppers y bolsos de hombro Mujer  Blanco  Crudo   15.5x25.5x32 cm  B x H T '
 actualPrice: 39.07 EUR
 currency: EUR
 price: 39.07

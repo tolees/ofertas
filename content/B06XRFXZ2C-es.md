@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ljerw5hpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XRFXZ2C-es'
+slug: 'B06XRFXZ2C-es Corsair HD140 RGB - Ventilador de PC  140 mm  Iluminación a LED RGB Programable   Paquete Individual'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

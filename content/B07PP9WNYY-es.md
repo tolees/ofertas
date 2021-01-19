@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411UZ69vw3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PP9WNYY-es'
+slug: 'B07PP9WNYY-es BenQ W1720 - Proyector DLP con auténtica resolucion 4K UHD HDR  2000 lumens  Rec709'
 actualPrice: 715.0 EUR
 currency: EUR
 price: 715.0

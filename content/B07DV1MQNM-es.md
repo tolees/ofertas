@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZH3ezvdsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DV1MQNM-es'
+slug: 'B07DV1MQNM-es Lacoste Carnaby EVO BL 2 SUC  Zapatillas Unisex Niños  Blanco  B53 White/Pink   28 EU'
 actualPrice: 21.23 EUR
 currency: EUR
 price: 21.23

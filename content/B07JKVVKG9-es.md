@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wBLKPwK6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKVVKG9-es'
+slug: 'B07JKVVKG9-es Columbia Bajada III  Zapatillas de Running para Asfalto para Mujer  Naranja  Zing  Beet 864   36 EU'
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

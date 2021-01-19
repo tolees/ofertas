@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-VOX6mBwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009EZXX6U-es'
+slug: 'B009EZXX6U-es neon nights 8 x Pintura Luz Negra Pintura UV Neón Flourescente'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

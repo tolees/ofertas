@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FT9deZGJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KY9BSSD-es'
+slug: 'B07KY9BSSD-es Eastpak SPRINGER Riñonera interior  23 cm  2 liters  Azul  Humble Blue '
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Tt7wAm+ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NOPS6F4-es'
+slug: 'B00NOPS6F4-es Lacoste L1312 Polo  Azul  Rabane Z1g   2XL  Talla del Fabricante: 7  para Hombre'
 actualPrice: 50.75 EUR
 currency: EUR
 price: 50.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413O4U68gnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DS44QPZ-es'
+slug: 'B07DS44QPZ-es Maca Andina Ecológica en Polvo [ Gelatinizada ] 200g. Organic Maca Powder Gelatinized. 100% Peruana  Bio y Pura  viene de raíz de Maca Organica. NaturaleBio'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DAU3ThV5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHQD9X5-es'
+slug: 'B06XHQD9X5-es find. Amelie  Botas Chelsea para Mujer  Negro  Black   38 EU'
 actualPrice: 28.35 EUR
 currency: EUR
 price: 28.35

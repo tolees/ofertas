@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MLrpQMvcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT7ALMP-es'
+slug: 'B01MT7ALMP-es Fresh N Rebel Rockbox Slice - Altavoz portátil con Bluetooth  color azul'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41crpxr62HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG63WGR-es'
+slug: 'B07KG63WGR-es PUMA Flyer Runner  Zapatillas de Running Unisex Adulto  Gris  Charcoal Gray Black-Blue Turquoise   44.5 EU'
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

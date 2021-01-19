@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j3xZM23FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G59PXXR-es'
+slug: 'B07G59PXXR-es SeeKool Consola de Videojuegos  3D Pandora X Multijugador Home Arcade Game Console  con 2500 Juegos Retros  Soporte de Tarjeta TF+USB DIS  para PC / Ordenador portátil / PS3/ TV'
 actualPrice: 186.99 EUR
 currency: EUR
 price: 186.99

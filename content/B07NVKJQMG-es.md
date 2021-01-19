@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31T5Bzv7BSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVKJQMG-es'
+slug: 'B07NVKJQMG-es LTDNB HDMI Adaptador Digital AV Compatible con Phone XS/X MAX/XR/X/8/7 /6/5 Series/Pad Air/Mini/Pro/Pod Touch'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

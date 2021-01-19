@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JLjLV7cWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CYTTJJW-es'
+slug: 'B01CYTTJJW-es JAIMIE JACOBS Cartera Hombre Nano Boy Cartera Minimalista Slim Wallet Cartera Clip Cartera Pequeña Tarjetera fina Pinza para Billetes Billetero para Hombres  Negro '
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317UvgWkXAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGPVXMQ-es'
+slug: 'B07WGPVXMQ-es Libertroy Sofisticado Motor óptico 2.4GHz 3D 1200dpi Ratón óptico con Cable Ultra Delgado 4 Colores Ratones USB PC portátil - Blanco'
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

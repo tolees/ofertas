@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mgt6M8vZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW9KH64-es'
+slug: 'B07KW9KH64-es Salomon XA Discovery GTX W  Zapatillas de Trail Running para Mujer  Rosa  Beet Red/Potent Purple/Calypso Cora   37 1/3 EU'
 actualPrice: 54.2 EUR
 currency: EUR
 price: 54.2

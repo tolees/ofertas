@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410r1Hiiy-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00402JUBE-es'
+slug: 'B00402JUBE-es Dual DT 210 USB - Tocadiscos para equipo de audio  USB  35/45 rpm   color negro'
 actualPrice: 82.7 EUR
 currency: EUR
 price: 82.7

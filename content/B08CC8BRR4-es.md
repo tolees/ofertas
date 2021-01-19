@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oc0T4mhuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CC8BRR4-es'
+slug: 'B08CC8BRR4-es Cepillo de pelo rizado y rizado Peine Salón Cepillo redondo Herramienta de peluquería antiestática Salon Stylist Barbershop Brush - Rojo'
 actualPrice: 1.09 EUR
 currency: EUR
 price: 1.09

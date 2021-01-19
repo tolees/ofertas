@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tttiLPutL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLWPTFH-es'
+slug: 'B07MLWPTFH-es gracosy Zapatillas de Running para Mujer Zapato de Trail Verano Slip-on Malla Zapatillas Deportivas Transpirable Ligero Casual Zapato Al Aire Libre'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

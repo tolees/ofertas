@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31a6UVvc35L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYV98XQ-es'
+slug: 'B07HYV98XQ-es Cybex Silver Solution M-fix 519001121 Silla de Coche  Grupo 2/3  para Niños  para Coches con y sin Isofix  Colección Color 2019  Gris  Gray Rabbit '
 actualPrice: 159.95 EUR
 currency: EUR
 price: 159.95

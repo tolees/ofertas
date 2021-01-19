@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318uLWB-dHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N22BYHN-es'
+slug: 'B07N22BYHN-es Sennheiser HD 100 - Auriculares supraurales  Ligeros y Plegables  Color Negro  Único'
 actualPrice: 20.08 EUR
 currency: EUR
 price: 20.08

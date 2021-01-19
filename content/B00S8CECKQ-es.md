@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ljl-cfAPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S8CECKQ-es'
+slug: 'B00S8CECKQ-es Energy Sistem Earphones Urban 2 Black  Auriculares  In-Ear  Aluminum Alloy  Lightweight  Neodymium Magnet '
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

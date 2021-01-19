@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3169V+NFqpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCWVFWW-es'
+slug: 'B07KCWVFWW-es Hurley M Cut IT UP tee Camisetas  Hombre  White'
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

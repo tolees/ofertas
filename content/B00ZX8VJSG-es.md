@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514EqvzWoKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZX8VJSG-es'
+slug: 'B00ZX8VJSG-es Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Plástico 18190/2'
 actualPrice: 85.38 EUR
 currency: EUR
 price: 85.38

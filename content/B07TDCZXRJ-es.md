@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BD6uSN9wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDCZXRJ-es'
+slug: 'B07TDCZXRJ-es BEYIMEI Tarjeta de expansión Pci Express 3.0  Tarjeta USB 3.1 Tarjeta Pci-E Adaptador USB Pcie Tipo de Refuerzo E Usb3.1 Gen2 10 Gbps Tarjeta de expansión Usb2.0  Tarjeta de expansión USB3.1-Type-E'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

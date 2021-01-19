@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516fmEpnsvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IS2ARKO-es'
+slug: 'B01IS2ARKO-es Cordones Elasticos Gomas ★ Cordón Elasticas Zapatillas de Silicona para Halar y Bloquear Fácilmente ★ Perfecto para Niños o Adultos Mayores con Artritis  Estándar 12 piezas  Arcoiris  Rainbow  '
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

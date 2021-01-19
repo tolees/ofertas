@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418RZvl0tbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DF3DMF-es'
+slug: 'B079DF3DMF-es Campingaz 2 Series Classic LX Vario Barbacoa a Gas  BBQ con 2 Quemadores  7.5 KW  Plancha y Parrilla de Acero Estampado  2 Mesas Laterales'
 actualPrice: 185.25 EUR
 currency: EUR
 price: 185.25

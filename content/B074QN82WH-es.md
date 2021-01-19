@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Yssr3IBRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074QN82WH-es'
+slug: 'B074QN82WH-es ICZI Adaptador USB Tipo C a HDMI de Aluminio  Hub USB C HDMI 4K Dex Station + USB 3.0 + USB PD Carga Rapida con Conectores Niquelados para Dispositivos USB-C con DP ALT Modo MHL. Rosa'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

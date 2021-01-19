@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31z9wBj89FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BN7XM5Y-es'
+slug: 'B00BN7XM5Y-es Ureadin Lotion 10 - 1000ml'
 actualPrice: 15.55 EUR
 currency: EUR
 price: 15.55

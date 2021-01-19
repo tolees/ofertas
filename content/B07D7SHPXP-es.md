@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hUsB+BrcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7SHPXP-es'
+slug: 'B07D7SHPXP-es Caja para Relojes de Madera Estuche para Relojes y joyeros  6 '
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

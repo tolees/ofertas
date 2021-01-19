@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+NZP6p2UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M89FD7F-es'
+slug: 'B07M89FD7F-es Lee Luke Corduroy Pantalones  Verde  Pine Grove 91   32W / 34L para Hombre'
 actualPrice: 19.56 EUR
 currency: EUR
 price: 19.56

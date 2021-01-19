@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41s852aJlRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCN7YZ6-es'
+slug: 'B07NCN7YZ6-es Naturalia Somier Fortuna  Tubo de Acero y Láminas de Chopo  150 x 190 cm'
 actualPrice: 57.51 EUR
 currency: EUR
 price: 57.51

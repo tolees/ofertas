@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ceryAL-aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LQYBIA-es'
+slug: 'B000LQYBIA-es Pulsar PJ6024X1 - Reloj analógico de caballero de cuarzo con correa de acero inoxidable dorada - sumergible a 100 metros'
 actualPrice: 43.84 EUR
 currency: EUR
 price: 43.84

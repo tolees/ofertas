@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OQSR9SR6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GUOB8SW-es'
+slug: 'B01GUOB8SW-es Divaz - Zapatillas Deportivas Ellie de Estampado Floral para Mujer señora  38 EU   Lavanda '
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

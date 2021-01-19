@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JNrAHmQ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HZ6X18A-es'
+slug: 'B00HZ6X18A-es MUSTELA LECHE SOLAR ROSTRO 50+ 40 ML'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

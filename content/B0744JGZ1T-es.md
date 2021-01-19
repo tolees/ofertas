@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510FtKBIj5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0744JGZ1T-es'
+slug: 'B0744JGZ1T-es Altavoz Bluetooth Portatil  COMISO Ture Wireless Estereo 12W Subwoofer Inalambrico Portatil con Radiador Pasivo  Altavoz Bluetooth Impermeable con 20 Horas de Emision Continua  Gris oscuro'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

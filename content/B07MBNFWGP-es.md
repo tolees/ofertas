@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XQoYwrl8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBNFWGP-es'
+slug: 'B07MBNFWGP-es Victoria Aire Nylon/Serraje PU  Zapatillas Unisex Adulto  Blanco  Blanco 20   40 EU'
 actualPrice: 34.65 EUR
 currency: EUR
 price: 34.65

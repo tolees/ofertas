@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413kwG0DYUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085QZP9QX-es'
+slug: 'B085QZP9QX-es Finocam - Agenda Curso 2020-2021 Octavo-120x164 1 Día Página Secundaria Magia Catalán'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

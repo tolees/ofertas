@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pn012AXqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0019QLTMW-es'
+slug: 'B0019QLTMW-es Philips HD4646/20 - Calentador de agua  Negro/Plata'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

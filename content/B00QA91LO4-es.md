@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cGeGr2uSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QA91LO4-es'
+slug: 'B00QA91LO4-es Sharplace 1 x Emulador USB SFR1M44-U100K 4 x Tornillo'
 actualPrice: 25.18 EUR
 currency: EUR
 price: 25.18

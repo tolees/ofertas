@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51P+8hG41NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QHWVQP-es'
+slug: 'B087QHWVQP-es Swonuk Cámara Web 1080P con Micrófono  Computadora Portátil PC Webcam de Escritorio USB 2.0 para Videollamadas  Estudios  Conferencias  Grabación  Juegos con Clip Giratorio  Plug and Play  C40 '
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

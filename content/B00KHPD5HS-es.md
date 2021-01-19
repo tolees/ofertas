@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31s0UflaHQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHPD5HS-es'
+slug: 'B00KHPD5HS-es Belkin MIXIT - Cable metálico de Lightning a USB con certificación MFi para iPhone XS  XS Max  XR  X  8/8 plus y otros  1 2 metros   dorado'
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

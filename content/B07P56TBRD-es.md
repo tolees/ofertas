@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UQCTCWDHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P56TBRD-es'
+slug: 'B07P56TBRD-es Bourjois  Brocha para maquillaje facial - 40 gr.'
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

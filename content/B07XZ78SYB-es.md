@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zjcy75u-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZ78SYB-es'
+slug: 'B07XZ78SYB-es Auriculares Inalámbricos Bluetooth 5.0 SoundPEATS Truefree+ Cascos In-Ear True Wireless Invisibles Sonido Estéreo Mini Audífonos Gemelos Manos Libres con Micrófono con Estuche de Carga'
 actualPrice: 23.84 EUR
 currency: EUR
 price: 23.84

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nwmtP+ktL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCD679T-es'
+slug: 'B07DCD679T-es Adidas Sambarose  Zapatillas Clasicas para Mujer  Blanco  Cloud White/Core Black/Gum5   36 EU'
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

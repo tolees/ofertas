@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414XMzD4J2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076QJ7KTK-es'
+slug: 'B076QJ7KTK-es Mark Maddox Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MM0101-55'
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

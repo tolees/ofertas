@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f6q+cJANL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBVS27C-es'
+slug: 'B07SBVS27C-es PUMA Ignite Flash Evoknit  Zapatillas de Running para Hombre  Blanco White/Castlerock/Palace Blue  44.5 EU'
 actualPrice: 26.68 EUR
 currency: EUR
 price: 26.68

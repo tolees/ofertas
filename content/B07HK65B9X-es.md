@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YSXa0YU9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HK65B9X-es'
+slug: 'B07HK65B9X-es Amazon Essentials Shirt Jacket Novelty-t-Shirts  Camo  US M  EU M '
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

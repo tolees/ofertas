@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61NcfEzIbgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072LD6BYS-es'
+slug: 'B072LD6BYS-es 3DS Miitopía'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XnEffiP8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG4CXFD-es'
+slug: 'B07HG4CXFD-es New Balance FuelCell Propel  Zapatillas de Running para Hombre  Negro  Black/Lead Black/Lead   40.5 EU'
 actualPrice: 42.48 EUR
 currency: EUR
 price: 42.48

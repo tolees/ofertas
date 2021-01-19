@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zwow7-yQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077DYZXVR-es'
+slug: 'B077DYZXVR-es Díadermine Expert Rejuvenecedor Crema Día- 50 ml'
 actualPrice: 5.22 EUR
 currency: EUR
 price: 5.22

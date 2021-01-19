@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gD3Nk7KqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D8Z3UGY-es'
+slug: 'B01D8Z3UGY-es Pierre Cardin Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable PC901852F03'
 actualPrice: 38.86 EUR
 currency: EUR
 price: 38.86

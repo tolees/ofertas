@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511-rZLKxOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EICDZIK-es'
+slug: 'B00EICDZIK-es Ushuaia Polynésie Aceite de ducha con  flor monoi y tiare para mujer  piel normal  pack de 3'
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

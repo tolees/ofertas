@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dtPx5nzWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFY5XJS-es'
+slug: 'B07LFY5XJS-es Sloggi Ever Fresh Tai Braguita   Skyline 6582   XS para Mujer'
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41humse9joL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5GCCRX-es'
+slug: 'B07Z5GCCRX-es Salomon Speedcross 4 GTX  Zapatillas de Trail Running para Hombre  Marrón  Madder Brown/Black/Red Orange   40 2/3 EU'
 actualPrice: 100.99 EUR
 currency: EUR
 price: 100.99

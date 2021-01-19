@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41S50iUAIVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IOIKG68-es'
+slug: 'B00IOIKG68-es Cooler CPU Pure Wing 2 92mm BL045'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

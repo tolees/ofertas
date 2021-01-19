@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SbgFvjLWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNXH8BL-es'
+slug: 'B07FNXH8BL-es Pack de 2 x Bloc de Dibujo Profesional  A4  9”x12”  con Espiral - 200 x Hojas Blancas  100gr  - Cuadernos de Dibujo con Tapa Rígida - Block de Páginas Vírgenes para Dibujar  Garabatear'
 actualPrice: 18.97 EUR
 currency: EUR
 price: 18.97

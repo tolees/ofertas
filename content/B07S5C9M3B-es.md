@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wtj+794sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5C9M3B-es'
+slug: 'B07S5C9M3B-es Love MoschinoJc4093pp1aMujerBolso de manoNegro  Negro 4x11x18 centimeters  W x H x L '
 actualPrice: 62.33 EUR
 currency: EUR
 price: 62.33

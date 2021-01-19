@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aPWoiiQbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W67TY6P-es'
+slug: 'B07W67TY6P-es Feline 7.0'
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

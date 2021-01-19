@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41anvakTJRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0828RJQMS-es'
+slug: 'B0828RJQMS-es Adaptador WiFi de Largo Alcance USB 17500Mbps  Dongle inalámbrica Banda Dual 5GHz/1300 Mbps+ 2 4GHz/ 450 Mbps   2 Antenas WiFi de 5dBi  USB 3.0  para PC Soporta Windows 10/8/7/XP  Mac OS 10.6-10.13'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

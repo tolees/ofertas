@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cx9TDeqKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895PFFCL-es'
+slug: 'B0895PFFCL-es Molyflower Caja de conservación Blanca Fresca Caja de conservación de microondas para Cocina Caja de Almacenamiento de Alimentos para refrigerador Contenedor de microondas - Blanco'
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

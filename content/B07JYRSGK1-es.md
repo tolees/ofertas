@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WWB-ALSDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYRSGK1-es'
+slug: 'B07JYRSGK1-es Tommy Hilfiger Corp Merge tee Top Deportivo  Amarillo  SULPHUR716   Small para Hombre'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

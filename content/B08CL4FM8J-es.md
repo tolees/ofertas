@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DSjkvjpRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CL4FM8J-es'
+slug: 'B08CL4FM8J-es VIBORA Tiger 2020'
 actualPrice: 114.95 EUR
 currency: EUR
 price: 114.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415SZ11VUIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9NS1NP-es'
+slug: 'B07G9NS1NP-es Seiko Reloj analogico para Hombre de Automático con Correa en Piel SRPC87K1'
 actualPrice: 189.15 EUR
 currency: EUR
 price: 189.15

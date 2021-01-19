@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41KJMlvn3YL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQQ95SQ-es'
+slug: 'B07KQQ95SQ-es Salomon XA Pro 3D  Zapatillas de Trail Running para Hombre  Naranja Umber Black Hawaiian Sunset  40 2/3 EU'
 actualPrice: 51.97 EUR
 currency: EUR
 price: 51.97

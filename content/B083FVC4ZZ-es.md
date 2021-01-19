@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312PUsjfQsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FVC4ZZ-es'
+slug: 'B083FVC4ZZ-es MUEBLES MARIETA OLD STYLE NOW Sofa Beverly 5 plazas Dark Green'
 actualPrice: 492.0 EUR
 currency: EUR
 price: 492.0

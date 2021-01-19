@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O3zCmGO+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XMW0X0-es'
+slug: 'B005XMW0X0-es DIM Generous Sujetador  Blanco  95E para Mujer'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

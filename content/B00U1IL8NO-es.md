@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jzqFozbsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U1IL8NO-es'
+slug: 'B00U1IL8NO-es Reebok Classic Leather - Zapatillas de cuero para hombre  color blanco  white / gum 2   talla 42'
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

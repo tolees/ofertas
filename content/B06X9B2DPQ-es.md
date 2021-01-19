@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516aCC0DOgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9B2DPQ-es'
+slug: 'B06X9B2DPQ-es Gran Chaparral Temp 1 + 2 [DVD]'
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

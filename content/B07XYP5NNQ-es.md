@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ljpW596gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYP5NNQ-es'
+slug: 'B07XYP5NNQ-es Olympus OM-D E-M5 Mark III MFT  Sensor de 20 MPX Estabilizador de Imagen de 5 Ejes Potente Autoenfoque  Visor Electrónico OLED  Vídeo 4K  WLAN  Bluetooth  Plata  Solo Cuerpo'
 actualPrice: 889.99 EUR
 currency: EUR
 price: 889.99

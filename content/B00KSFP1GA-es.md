@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xzqSsEKAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KSFP1GA-es'
+slug: 'B00KSFP1GA-es BC Corona FUK10402 Monaco Juego de Fundas  Negro/Gris'
 actualPrice: 11.67 EUR
 currency: EUR
 price: 11.67

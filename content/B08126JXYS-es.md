@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ed6m+A9mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08126JXYS-es'
+slug: 'B08126JXYS-es Electroestimuladores TENS/EMS Digital Masaje Portatil  2 Canales Estimulador Muscular Recargable Masajeador Electro para Alivio del Dolor de Cervical/Piernas/Abdominal/Cuello  16 Modos 8 Pads '
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

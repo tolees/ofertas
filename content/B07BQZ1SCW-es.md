@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w7OKyqTZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQZ1SCW-es'
+slug: 'B07BQZ1SCW-es Taurus Striker 2.0 Robot Aspirador Compacto  con Sensor Anti-caída  Negro'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VS2yX8wLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FD8QKL-es'
+slug: 'B083FD8QKL-es Videocámara Camara de Video Ultra HD 2.7K 30MP 18X Zoom Digital Videocamara Cámara con Micrófono y Control Remoto Cámara de Video con Pantalla Táctil de 3.0 Pulgadas'
 actualPrice: 99.89 EUR
 currency: EUR
 price: 99.89

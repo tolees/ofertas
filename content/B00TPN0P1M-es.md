@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316-PTaJl9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TPN0P1M-es'
+slug: 'B00TPN0P1M-es Disney - I-610384s - Disfraz para niños - Classic Woody Hat - Talla S'
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

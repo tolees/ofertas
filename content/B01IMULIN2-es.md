@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4145pOtqNrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IMULIN2-es'
+slug: 'B01IMULIN2-es SONGMICS Caja joyero  Organizador para bisuterías 26 x 26 x 10 cm  Negro JDS305B'
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

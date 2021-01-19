@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416i7Lie6IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LHGLG3A-es'
+slug: 'B01LHGLG3A-es Sony NW-WM1A - Reproductor audio Walkman  HiFi  DSD  128 GB  pantalla 4"'
 actualPrice: 897.0 EUR
 currency: EUR
 price: 897.0

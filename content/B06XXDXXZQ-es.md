@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uy8MJJsLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXDXXZQ-es'
+slug: 'B06XXDXXZQ-es New Balance WL574EB  Zapatillas Mujer  Negro  Black   38 EU'
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

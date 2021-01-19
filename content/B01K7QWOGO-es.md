@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SacZPZ+AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7QWOGO-es'
+slug: 'B01K7QWOGO-es Vernel Cielo Azul Suavizante Concentrado - 57 Dosis'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

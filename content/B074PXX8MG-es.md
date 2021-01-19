@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CFmZaZChL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PXX8MG-es'
+slug: 'B074PXX8MG-es Hugo BOSS Reloj Multiesfera para Hombre de Cuarzo con Correa en Cuero 1513515'
 actualPrice: 174.3 EUR
 currency: EUR
 price: 174.3

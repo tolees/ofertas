@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o854o6O0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GYX11YC-es'
+slug: 'B07GYX11YC-es NAME IT Nmsian L/s O-Neck Knit Noos suéter  Blanco  Bright White   36  Talla del Fabricante: X-Small  para Mujer'
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

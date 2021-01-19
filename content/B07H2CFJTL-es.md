@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s3W0QezuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2CFJTL-es'
+slug: 'B07H2CFJTL-es Joma Combi Camisetas Equip. M/c  Hombre  Marino Oscuro  L'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

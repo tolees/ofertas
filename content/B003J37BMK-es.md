@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fR6W4XHIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003J37BMK-es'
+slug: 'B003J37BMK-es Leatherman Style Multi-Tool CS - Black / Steel'
 actualPrice: 20.67 EUR
 currency: EUR
 price: 20.67

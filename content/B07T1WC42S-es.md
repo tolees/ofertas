@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xFJ6A+7oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1WC42S-es'
+slug: 'B07T1WC42S-es COFIT Cubierta de Volante de Cuero de Microfibra Negro y Beige S 35.5-36cm'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

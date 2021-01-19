@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31o9XKMocvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWVF3LM-es'
+slug: 'B07GWVF3LM-es FitFlop Allegro  Bailarinas con Punta Cerrada para Mujer  Red  Blush 668   41 EU'
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

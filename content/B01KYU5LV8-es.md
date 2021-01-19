@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XOJsZPl3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KYU5LV8-es'
+slug: 'B01KYU5LV8-es EasySMX Auriculares Niños  [Regalos Originales] Cascos de Diadema para Niños  Cascos Infantiles con Cable  3.5 mm Jack  Volumen Limitado de 85Db para iPod iPad iPhone 3.5mm  Handy Tablet PC MP3 MP4'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

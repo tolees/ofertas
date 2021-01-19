@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZQE0CntQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3GBN24-es'
+slug: 'B07L3GBN24-es Tommy Hilfiger Tommy Stripe Retro Sneaker  Zapatillas para Mujer  Blanco  Off White 156   41 EU'
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

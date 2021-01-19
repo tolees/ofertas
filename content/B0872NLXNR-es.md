@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L1JL1K4AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872NLXNR-es'
+slug: 'B0872NLXNR-es Funda Transparente Compatible para Xiaomi Redmi S2/Y2 Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Xiaomi Redmi S2/Y2 A12'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

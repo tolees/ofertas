@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SRpZG24ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0812FYHVT-es'
+slug: 'B0812FYHVT-es Asics Gel-Cumulus 21  Running Shoe Mens - Black/Black - 43.5 EU'
 actualPrice: 92.34 EUR
 currency: EUR
 price: 92.34

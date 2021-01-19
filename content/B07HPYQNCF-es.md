@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417INQYC45L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HPYQNCF-es'
+slug: 'B07HPYQNCF-es DlandHome Mueble de Consola 120 * 23 * 75cm Mesa Auxiliar con Estante de Almacenamiento de Madera y Metal para Salón/Pasillo/Entrada  Roble Gris & Negro'
 actualPrice: 80.14 EUR
 currency: EUR
 price: 80.14

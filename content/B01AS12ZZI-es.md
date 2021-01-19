@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jDc-fbPqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AS12ZZI-es'
+slug: 'B01AS12ZZI-es The North Face Exploration  Pantalones Cortos para Mujer  Gris  Talla del Fabricante 2'
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

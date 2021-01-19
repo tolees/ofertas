@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cnCl5FX2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I9CXFU8-es'
+slug: 'B00I9CXFU8-es Urban Beauty United Diva Duo - Sacapuntas de Doble Entrada 21 g'
 actualPrice: 1.05 EUR
 currency: EUR
 price: 1.05

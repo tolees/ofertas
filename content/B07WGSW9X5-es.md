@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JNdNNt4CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGSW9X5-es'
+slug: 'B07WGSW9X5-es Yageshark - Pantalones de deporte para hombre  de algodón  ajustados verde S'
 actualPrice: 25.71 EUR
 currency: EUR
 price: 25.71

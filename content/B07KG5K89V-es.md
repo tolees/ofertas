@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fg3dNdsmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG5K89V-es'
+slug: 'B07KG5K89V-es PUMA St Runner V2 Mesh  Zapatillas Unisex Adulto - Gris  Charcoal Gray  - 36 EU'
 actualPrice: 22.16 EUR
 currency: EUR
 price: 22.16

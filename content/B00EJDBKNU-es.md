@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31UhDWhLovL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EJDBKNU-es'
+slug: 'B00EJDBKNU-es L Oreal Paris Color Riche 230 Coral Showroom Barra de Labios Coral'
 actualPrice: 7.05 EUR
 currency: EUR
 price: 7.05

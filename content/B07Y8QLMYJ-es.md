@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51swt+Bna9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8QLMYJ-es'
+slug: 'B07Y8QLMYJ-es Fantasy Flight Games- Star Wars Armada - Rebelión en el Borde Exterior  Color  SWM31ES '
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

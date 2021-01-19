@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uNP+-BgcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCLP6RH-es'
+slug: 'B06XCLP6RH-es DH Sports Grofitness Calcetines de compresión para Correr  Baloncesto  fútbol  Ciclismo  Correr  Senderismo  Color 1 par de Aceitunas  tamaño Talla única'
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

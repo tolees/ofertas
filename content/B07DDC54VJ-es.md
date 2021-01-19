@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MDZjEsfZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDC54VJ-es'
+slug: 'B07DDC54VJ-es KangaROOS Kf Act V  Zapatillas Unisex Niños  Gris  Vapor Grey/Daisy Pink 2050   34 EU'
 actualPrice: 8.72 EUR
 currency: EUR
 price: 8.72

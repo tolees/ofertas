@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4161PfxVplL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F5J5IC0-es'
+slug: 'B01F5J5IC0-es BeerCup-Classics 100 Vasos Rojos para Jugar al Beer Pong para Fiestas de 473 ml con6 Bolas de Beer Pong y Las Instrucciones de Juego'
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

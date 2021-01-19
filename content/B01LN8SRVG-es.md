@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XDBa+7RxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LN8SRVG-es'
+slug: 'B01LN8SRVG-es Britax Römer Silla de coche 9 meses - 12 años  9 - 36 kg  EVOLVA 1-2-3 SL SICT  ISOFIX  Grupo 1/2/3  Cosmos Black'
 actualPrice: 147.99 EUR
 currency: EUR
 price: 147.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QYPO21qFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AXYBPG0-es'
+slug: 'B01AXYBPG0-es SELECT Handball Pantalones Cortos Mexico  62102  Todo el año  Hombre  Color Blanco - Blanco  tamaño XL'
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

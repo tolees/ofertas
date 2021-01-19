@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312GzWWrr7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081KZWKHC-es'
+slug: 'B081KZWKHC-es Lydreewam Pendientes aro Colgantes De Letra X Plata de Ley 925 con 3A circonia cúbica para Mujer  diámetro 20mm  una pieza  no un par '
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

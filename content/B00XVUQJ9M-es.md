@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31m5WpuWOtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XVUQJ9M-es'
+slug: 'B00XVUQJ9M-es Orlane  Crema diurna facial - 130 ml.'
 actualPrice: 65.22 EUR
 currency: EUR
 price: 65.22

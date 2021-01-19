@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RRXWnMPNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BRDZ8HR-es'
+slug: 'B08BRDZ8HR-es 8 Piezas Latas Pequeñas Rectangulares de Metal con Latas de Bisagras  Mini Portátil Caja de Almacenaje Pequeña Caja de Lata Vacía para Abalorios  Monedas  Joyas  Dulces  95 x 62 x 20 mm'
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

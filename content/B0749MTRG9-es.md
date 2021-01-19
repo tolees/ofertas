@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413+lWgdr1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0749MTRG9-es'
+slug: 'B0749MTRG9-es BERING Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable 13436-166'
 actualPrice: 111.43 EUR
 currency: EUR
 price: 111.43

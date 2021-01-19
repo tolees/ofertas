@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31esbasoNNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYG2W4R-es'
+slug: 'B07DYG2W4R-es Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Hombre  Azul  Mediterranean BLU   44 EU'
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

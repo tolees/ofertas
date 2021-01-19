@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316yAdiRzeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006DHY7QW-es'
+slug: 'B006DHY7QW-es febi bilstein 31974 Culatas'
 actualPrice: 14.64 EUR
 currency: EUR
 price: 14.64

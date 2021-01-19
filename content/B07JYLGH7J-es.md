@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KJqqHVMeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYLGH7J-es'
+slug: 'B07JYLGH7J-es Adidas Swift Run J  Zapatillas de Gimnasia Unisex Niños  Blanco FTWR White  36 2/3 EU'
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

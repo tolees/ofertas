@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-xTxlBX1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8VGJHX-es'
+slug: 'B07V8VGJHX-es Tommy Hilfiger Tommy Jeans Lifestyle Runner  Zapatillas para Hombre  Blanco  White Ybs   42 EU'
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

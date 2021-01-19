@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3163z9fN8SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWJ9NLJ-es'
+slug: 'B07DWJ9NLJ-es Manija de Maleta Reemplazo Perfecto para Viejos Rotos Fácil de Instalar Accesorios SB-218'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

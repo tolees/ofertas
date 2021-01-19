@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UwEX-8sfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRCD8JM-es'
+slug: 'B07KRCD8JM-es GANT FOOTWEAR Portland  Zapatillas para Hombre  Multicolor  Multi Green G752   45 EU'
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

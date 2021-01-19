@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HdtRAMeQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0879L4JXD-es'
+slug: 'B0879L4JXD-es KCatsy Webcam 1080P/720P/480P HD 12 MP función de embellecimiento cámara web con micrófono incorporado USB Plug & Play para Skype Broadcast Live Class Conference Video Camera computadora computadora PC Webcams negro negro 480P'
 actualPrice: 19.72 EUR
 currency: EUR
 price: 19.72

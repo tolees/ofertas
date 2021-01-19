@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31itYCEQgCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL13NT-es'
+slug: 'B07NDL13NT-es HUAWEI 55030361 - Impresora portatil'
 actualPrice: 96.01 EUR
 currency: EUR
 price: 96.01

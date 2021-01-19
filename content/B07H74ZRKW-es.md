@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XkxNcAW-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H74ZRKW-es'
+slug: 'B07H74ZRKW-es DEK - Zapatillas Deportivas de Memory Foam para Chico Hombre  45 EU   Gris Oscuro '
 actualPrice: 18.7 EUR
 currency: EUR
 price: 18.7

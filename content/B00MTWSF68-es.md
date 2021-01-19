@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41voee1Ln4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MTWSF68-es'
+slug: 'B00MTWSF68-es Baines - Bebida Pacharán Navarro  1 L'
 actualPrice: 11.53 EUR
 currency: EUR
 price: 11.53

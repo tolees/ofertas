@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516wPCZF3wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2JBKY6-es'
+slug: 'B07D2JBKY6-es Dim Generous Ed. Limitada Capacidad Sujetador básico  Azul  Negro con Estrellas De Terciopelo 6nj   90  Tamaño del Fabricante:90 D  para Mujer'
 actualPrice: 19.61 EUR
 currency: EUR
 price: 19.61

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21P73YFxohL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BYHSTVD-es'
+slug: 'B07BYHSTVD-es Trueno Kids 2.0'
 actualPrice: 18.36 EUR
 currency: EUR
 price: 18.36

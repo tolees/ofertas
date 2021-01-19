@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RgPWlq7WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJKZY9J-es'
+slug: 'B07PJKZY9J-es For The King'
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

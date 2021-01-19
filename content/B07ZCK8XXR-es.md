@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qR9RSgNnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCK8XXR-es'
+slug: 'B07ZCK8XXR-es Aigital [Versión Español] Bluetooth Manos Libres Coche Kit Wireless Bluetooth 4.1 reducción de Eco y Ruido de Fondo para la Visera GPS y A2DP música Universal Soporta conectar Dos teléfonos'
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

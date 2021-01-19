@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zIqgZEomL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9NY73N-es'
+slug: 'B07D9NY73N-es Klarstein Infinity Storm - Ventilador de pie  40 cm  16"   55 W  3600 m³/h  3 Modos  6 velocidades  5 aspas  Oscilación de 85°  Variofresh  Anti vuelco  Incluye Mando a Distancia  Negro'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

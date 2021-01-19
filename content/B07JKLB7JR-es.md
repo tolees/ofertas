@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UWodeysOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKLB7JR-es'
+slug: 'B07JKLB7JR-es Bateria Externa Movil 25000mAh Power Bank Cargador Portátil Móvil de Alta Capacidad con 2 Salidas USB 2.1A/1A Entrada 2A y LED Linterna 4 Indicadores LED para iPhone Huawei Tablets y Más Dispositivos'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

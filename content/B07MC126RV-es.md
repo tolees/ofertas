@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31DzuO0pQNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC126RV-es'
+slug: 'B07MC126RV-es Clarks Fairford Run  Zapatillas para Hombre  Negro Black Leather  42.5 EU'
 actualPrice: 45.31 EUR
 currency: EUR
 price: 45.31

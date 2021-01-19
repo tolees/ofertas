@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413pw3aYf2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HY7ZZ5F-es'
+slug: 'B07HY7ZZ5F-es Mando a Distancia para Toshiba LCD / 3D / LED TV'
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

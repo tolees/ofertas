@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lbQkz+HzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RNJ74WM-es'
+slug: 'B07RNJ74WM-es PUMA Ralph Sampson LO  Zapatillas Unisex-Adulto  White White White  39 EU'
 actualPrice: 43.0 EUR
 currency: EUR
 price: 43.0

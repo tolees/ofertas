@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51bBDaYqb0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NHP4XN0-es'
+slug: 'B00NHP4XN0-es Calvin Klein 000NB1042A  Calzoncillos Para Hombre  Blanco  White 100   S'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

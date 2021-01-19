@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Qj2mH2BhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088VSV58X-es'
+slug: 'B088VSV58X-es P Prettyia 8 Unidades USB Macho A Cable De Extensión De Cable Hembra PS2 para Teclado Ratón'
 actualPrice: 16.54 EUR
 currency: EUR
 price: 16.54

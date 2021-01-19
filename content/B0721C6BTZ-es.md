@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vVZ45VDJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0721C6BTZ-es'
+slug: 'B0721C6BTZ-es Dishonored: La Muerte Del Forastero'
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

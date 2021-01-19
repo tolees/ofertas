@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317MaKsvNlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBNP59W-es'
+slug: 'B07LBNP59W-es Kappa Memni  Zapatillas para Mujer  Black White 1110  36 EU'
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

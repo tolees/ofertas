@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51L5gyCgSHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0752XNX6V-es'
+slug: 'B0752XNX6V-es Llave USB 16 GB R2D2 TLJ - Memoria Flash Drive 2.0 Original Star Wars  Tribe FD030511'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zsMB1oeJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0095MHDA4-es'
+slug: 'B0095MHDA4-es Epson Workforce WF-2010W - Impresora Color  inyección de Tinta  WiFi y Ethernet   Color Negro'
 actualPrice: 50.59 EUR
 currency: EUR
 price: 50.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iiDJs9qvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y1MHCRS-es'
+slug: 'B06Y1MHCRS-es Makeup Revolution Iconic Matte Nude Lipstick Inclination Pomadka do ust matowa'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

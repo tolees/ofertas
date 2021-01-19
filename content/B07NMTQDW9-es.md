@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dVOi66COL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NMTQDW9-es'
+slug: 'B07NMTQDW9-es Nike Revolution 5  Walking Shoe Unisex-Child  Racer Blue/White/Black  37.5 EU'
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qXmu8MdRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCJ8YRC-es'
+slug: 'B07XCJ8YRC-es Hosome Juego de Luces Para Bicicleta  Recargable por USB 300 Lúmenes Luz Delantera y Trasera Impermeable Faros Delanteros y Traseros para Ciclismo Bicicleta de Montaña'
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

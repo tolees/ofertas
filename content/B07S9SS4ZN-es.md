@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VSFK+kL1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9SS4ZN-es'
+slug: 'B07S9SS4ZN-es PUMA Carina L  Zapatillas de Cuero para Mujer  Negro White Black Silver 17  40.5 EU'
 actualPrice: 41.63 EUR
 currency: EUR
 price: 41.63

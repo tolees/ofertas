@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416XRu33QaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW6H3JV-es'
+slug: 'B07NW6H3JV-es Skechers Women s Flex Appeal 3.0-Satellites Trainers  Grey Charcoal Mesh Pink Trim Ccpk   3  36 EU '
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

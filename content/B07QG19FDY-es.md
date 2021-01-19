@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RIrKI88qL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QG19FDY-es'
+slug: 'B07QG19FDY-es Advance Veterinary Diets Weight Balance - Pienso para gatos con tendencia a la obesidad - 3 kg'
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

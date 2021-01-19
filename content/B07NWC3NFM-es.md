@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WIofWY3KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWC3NFM-es'
+slug: 'B07NWC3NFM-es New Balance Ml574 D  Zapatillas para Hombre  Negro  Egn Black Iris 10   44.5 EU'
 actualPrice: 54.51 EUR
 currency: EUR
 price: 54.51

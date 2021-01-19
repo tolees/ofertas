@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OEZoEjVTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MM67KDL-es'
+slug: 'B07MM67KDL-es Buffalo Corin  Zapatillas para Mujer  Rosa  Pink 001   39 EU'
 actualPrice: 62.83 EUR
 currency: EUR
 price: 62.83

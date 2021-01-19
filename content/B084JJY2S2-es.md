@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uFN-aK0GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084JJY2S2-es'
+slug: 'B084JJY2S2-es Moliies Esponja Almacenamiento de desagüe Cesta para Colgar Verde Productos domésticos para el hogar Familia artículo Familiar de Uso Diario - Verde'
 actualPrice: 1.1 EUR
 currency: EUR
 price: 1.1

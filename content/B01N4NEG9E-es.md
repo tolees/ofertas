@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ygQ844UCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4NEG9E-es'
+slug: 'B01N4NEG9E-es Epson ECOTANK ET2600 3IN1 Impresora de inyección de Tinta C11CF46402 A4/WLAN/LAN'
 actualPrice: 165.0 EUR
 currency: EUR
 price: 165.0

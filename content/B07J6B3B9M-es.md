@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QjoDF7ecL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6B3B9M-es'
+slug: 'B07J6B3B9M-es EcoMil Cusine Cashew Bio 200ml - 24 unidades de 200 ml'
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

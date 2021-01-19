@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4135mqqLlJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004F0XQ9I-es'
+slug: 'B004F0XQ9I-es Cressi Light Aletas  Unisex-Youth  Blanco  43/44'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XWbMLHmvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZ537WT-es'
+slug: 'B07JZ537WT-es adidas Superstar J  Zapatillas de Gimnasia Unisex Niños  Blanco  FTWR White/FTWR White/Blue FTWR White/FTWR White/Blue   37 1/3 EU'
 actualPrice: 49.58 EUR
 currency: EUR
 price: 49.58

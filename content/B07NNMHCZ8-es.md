@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31g09IT3tUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNMHCZ8-es'
+slug: 'B07NNMHCZ8-es DFNT - Spray contra Insectos  250 ml  Ideal para protección contra Insectos  con Efecto prolongado  Alternativa a la Trampa contra Insectos en Caso de infestación aguda de parásitos'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

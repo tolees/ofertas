@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411UPTEty+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJGN5K-es'
+slug: 'B07PSJGN5K-es Kipling Cindy  Cartera para Mujer  Verde  Seagrass   11.5x8x1 centimeters  B x H x T '
 actualPrice: 10.75 EUR
 currency: EUR
 price: 10.75

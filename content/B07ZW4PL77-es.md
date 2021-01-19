@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vVl1+PCJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZW4PL77-es'
+slug: 'B07ZW4PL77-es Love Beauty and Planet Acondicionador aceite de coco y de ylang ylang Hope and Repair - 100 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

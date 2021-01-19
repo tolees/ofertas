@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31suYOVTb0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHL18C7-es'
+slug: 'B07QHL18C7-es PUMA Studio Q4 Tight Mallas Deporte  Mujer  Black  S'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DuIRQlXaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7PDYX5-es'
+slug: 'B07Z7PDYX5-es loonBonnie Cómodo Absorción de Sudor Deporte Gimnasio Pulsera Algodón Unisex Tenis Baloncesto Brazalete elástico Alto Muñequera - Negro'
 actualPrice: 1.04 EUR
 currency: EUR
 price: 1.04

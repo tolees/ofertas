@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XLIK-MKsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W3VWX8Y-es'
+slug: 'B07W3VWX8Y-es Juguete Tostador De Madera Juguete Educativo temprano Juegos de Cocina Fomenta el Juego imaginativo Juego de Roles de Cocina Diversión 3 4 5+ años Niño y niña  Tostador '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

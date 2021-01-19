@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WdgA3Pt8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004JMZPJG-es'
+slug: 'B004JMZPJG-es Case Logic DCB306K SLR - Funda para cámara  nilón   Negro'
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

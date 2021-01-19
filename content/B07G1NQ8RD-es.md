@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316qVAv1VcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1NQ8RD-es'
+slug: 'B07G1NQ8RD-es Fitbit Charge 3 Pulsera Avanzada de Salud y Actividad física  Unisex-Adult  Grafito/Blanco  Talla Unico'
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

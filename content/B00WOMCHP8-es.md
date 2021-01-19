@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JcDp2OEYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WOMCHP8-es'
+slug: 'B00WOMCHP8-es Crema Repelente Mosquitos - Repelente de Insectos para Bebés - Con Cera de Abeja Orgánica  Aceite de Oliva Virgen Extra y Aceites Esenciales - 50ml - Sin DEET - Adecuado para niños y bebés'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

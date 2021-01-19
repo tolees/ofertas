@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xF5PTs9kL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0751L7NGY-es'
+slug: 'B0751L7NGY-es Samsung Gear Fit 2 Pro - Pulsera de Fitness de 1.5    4 GB  1 GHz  0.5 GB RAM  Tizen   resistente al agua  color negro- Version española'
 actualPrice: 130 EUR
 currency: EUR
 price: 130

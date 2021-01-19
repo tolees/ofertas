@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GHZFLt8VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765ZS4YX-es'
+slug: 'B0765ZS4YX-es Fjällräven 23510-31 Kånken - Mochilla Unisex  16 L  Gris  Grafite   38 x 27 x 13 cm'
 actualPrice: 62.06 EUR
 currency: EUR
 price: 62.06

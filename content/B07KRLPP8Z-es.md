@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tOfufT5iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRLPP8Z-es'
+slug: 'B07KRLPP8Z-es New Balance 500  Zapatillas para Mujer  Plateado  Metallic Silver Metallic Silver   35 EU'
 actualPrice: 29.81 EUR
 currency: EUR
 price: 29.81

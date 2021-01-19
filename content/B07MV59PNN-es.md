@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311ZovvwBSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV59PNN-es'
+slug: 'B07MV59PNN-es TWBB Hombres Inicio Yoga Tie-up Pantalones cómodos'
 actualPrice: 1.29 EUR
 currency: EUR
 price: 1.29

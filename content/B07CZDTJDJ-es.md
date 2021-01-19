@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v3hX6BEuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZDTJDJ-es'
+slug: 'B07CZDTJDJ-es Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Gris  Iron Gate   40.5 EU'
 actualPrice: 30.11 EUR
 currency: EUR
 price: 30.11

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pEzU1V0FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJKDJ3P-es'
+slug: 'B07ZJKDJ3P-es ngzhongtu Smart Band Watch Bracelet Fitness Tracker Podómetro Monitor de Ritmo cardíaco Pulsera Impermeable - Azul'
 actualPrice: 3.56 EUR
 currency: EUR
 price: 3.56

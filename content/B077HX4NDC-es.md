@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xMVGmJyhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HX4NDC-es'
+slug: 'B077HX4NDC-es G-Star RAW Rovulc Mid Wmn  Zapatillas para Mujer  Blanco  White 110   37 EU'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

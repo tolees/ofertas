@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BKDOuPtJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAF0O2Q-es'
+slug: 'B00XAF0O2Q-es Astor Mattitude Powder Polvos Compactos Tono 1  14 gr'
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

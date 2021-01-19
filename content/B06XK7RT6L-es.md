@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31qi1Dky0aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XK7RT6L-es'
+slug: 'B06XK7RT6L-es Pasito a pasito 73748 - Bolsa canastilla acolchada Inés  color rosa'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

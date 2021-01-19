@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Y5U2KjDyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08539FSXM-es'
+slug: 'B08539FSXM-es Guirnalda de Luces LED Decorativas 10 Metros 100 LEDs Blanco Cálido con Control Remoto  USB  para Habitacion Interior'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41omBiOlUjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6LT1H6-es'
+slug: 'B07K6LT1H6-es NICREW Temporizador Digital Programable  Enchufe Programador Diario / 10A/2000 W Semanal Digital Timer Ahorrar Energia y Dinero para Cocina  Electrodomesticos  Luz Acuario  Calentador de Agua'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

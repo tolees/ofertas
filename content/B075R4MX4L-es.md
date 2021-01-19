@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M1CJV-x0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R4MX4L-es'
+slug: 'B075R4MX4L-es Firbon Álbum de Fotos  álbum de Recortes  Pegatina Creativa del Diario con Grabado en Forma de corazón. Aniversario de Boda  cumpleaños  día de la Madre  día de San Valentín Idea de Regalo'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

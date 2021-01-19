@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qtyhQfqHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTLPBGC-es'
+slug: 'B07CTLPBGC-es Under Armour UA W HOVR Sonic 2  Zapatillas de Running para Mujer  Negro  Black/White/White  003  003   35.5 EU'
 actualPrice: 32.83 EUR
 currency: EUR
 price: 32.83

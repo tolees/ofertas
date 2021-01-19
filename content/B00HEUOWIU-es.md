@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51taOBOruXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HEUOWIU-es'
+slug: 'B00HEUOWIU-es Columbia Watch Cap II Gorro  Unisex  Graphite/Tradewinds Grey  Talla única'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

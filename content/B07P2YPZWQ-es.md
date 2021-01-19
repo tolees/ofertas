@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UdZRzSr2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2YPZWQ-es'
+slug: 'B07P2YPZWQ-es Castellanisimos Zapato Náutico Clásico Piel Marino Hombre'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

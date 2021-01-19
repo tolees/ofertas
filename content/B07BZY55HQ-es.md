@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41VmO6xlXxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZY55HQ-es'
+slug: 'B07BZY55HQ-es AmazonBasics - Aro de fitness y pilates para entrenamiento de resistencia  35 6 cm  Ararillo  2 unidades'
 actualPrice: 22.47 EUR
 currency: EUR
 price: 22.47

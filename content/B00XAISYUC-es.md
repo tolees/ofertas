@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31J-qRw15rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAISYUC-es'
+slug: 'B00XAISYUC-es Gotas Frescas Concentrada para Hombre - 750 ML'
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

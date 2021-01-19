@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VwaK8HcTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFBSVGG-es'
+slug: 'B07DFBSVGG-es Pop! Crash Bandicoot - Aku Aku'
 actualPrice: 11.93 EUR
 currency: EUR
 price: 11.93

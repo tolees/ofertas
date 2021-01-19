@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KgdZbPrUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086HS36RC-es'
+slug: 'B086HS36RC-es Olay Tónico Limpiador Frescor Resplandeciente Para Todo Tipo De Piel 200 ml'
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

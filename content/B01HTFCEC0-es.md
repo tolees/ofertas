@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SUVXp9wYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HTFCEC0-es'
+slug: 'B01HTFCEC0-es Reebok Classic Leather Zapatillas  Mujer  Negro  Int / Black / Gum   36 EU'
 actualPrice: 31.4 EUR
 currency: EUR
 price: 31.4

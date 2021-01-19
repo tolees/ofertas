@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hFeJbtCJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6SW9PB-es'
+slug: 'B07V6SW9PB-es Kipling Travel Doc Wrist Cartera para Pasaporte  23 cm  1 Liters  Negro  Charcoal '
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vAkNgX7SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BQXL8BU-es'
+slug: 'B00BQXL8BU-es Sigma 30 mm/F 1 4 DC/HSM - Objetivo para Canon  Distancia Focal Fija 45mm  Apertura f/1 4-16   Negro'
 actualPrice: 428.09 EUR
 currency: EUR
 price: 428.09

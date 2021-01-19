@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21UElM+OKyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6RNYYS-es'
+slug: 'B07M6RNYYS-es De Longhi Pingüino PAC N77ECO Aire Acondicionado Portátil  8200 Btu/h  2.1 kW  Ventilador y Deshumidificador  Bajo Consumo  Función Eco Plus  Temporizador y Termostato de 12 Horas  Blanco'
 actualPrice: 357.99 EUR
 currency: EUR
 price: 357.99

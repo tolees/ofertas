@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IbgMeC3TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ23WXS-es'
+slug: 'B08DJ23WXS-es Smart Sir Calcetines Hombre y Mujer 4 Pares de Calcetines de deporte Blanco Largo Calcetines de tenis 47-50'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZSM59XZNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HT7HZG-es'
+slug: 'B071HT7HZG-es Sennheiser CX 7.00 BT - Auricular Intraural Inalámbrico  Color Negro y Azul  1'
 actualPrice: 80.96 EUR
 currency: EUR
 price: 80.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T6GAw2qSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNRG9FH-es'
+slug: 'B07VNRG9FH-es Cofemy Cápsula de café recargable  filtro reutilizable Taza de filtro de café reutilizable hecha de acero inoxidable para K-Fairy con cepillo de limpieza de cuchara de plástico'
 actualPrice: 8.56 EUR
 currency: EUR
 price: 8.56

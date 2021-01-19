@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TyHWKvzoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TKRZNV-es'
+slug: 'B079TKRZNV-es Yoku’s Island Express'
 actualPrice: 26.64 EUR
 currency: EUR
 price: 26.64

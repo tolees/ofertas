@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5124tOpT8XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075HB41FD-es'
+slug: 'B075HB41FD-es Master Of Puppets Remastered 2016'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

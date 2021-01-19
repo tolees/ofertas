@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4192ZY7m4iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XRGZDMP-es'
+slug: 'B06XRGZDMP-es Hugo BOSS Reloj  para Hombre 1513484'
 actualPrice: 119.59 EUR
 currency: EUR
 price: 119.59

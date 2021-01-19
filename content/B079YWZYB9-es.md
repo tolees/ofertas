@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z-9r2QacL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YWZYB9-es'
+slug: 'B079YWZYB9-es Adidas Samba OG  Zapatillas de Gimnasia para Hombre  Blanco  Footwear White/Core Black/Clear Granite 0   43 1/3 EU'
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

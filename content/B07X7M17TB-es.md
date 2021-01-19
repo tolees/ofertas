@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512TKzDfUUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X7M17TB-es'
+slug: 'B07X7M17TB-es AROYI Funda Xiaomi Redmi Note 8 Pro  [2 Pack] Cristal Templado  Carcasa Silicona Fibra de Carbono TPU Alta Resistente y Flexibilidad Fundas Cover Caso para Xiaomi Redmi Note 8 Pro-Negro'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

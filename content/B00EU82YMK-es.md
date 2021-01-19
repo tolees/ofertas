@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Jmxax+W9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EU82YMK-es'
+slug: 'B00EU82YMK-es Jeanne Piaubert Suprem`Advance Premium Sérum 30 ml'
 actualPrice: 117.54 EUR
 currency: EUR
 price: 117.54

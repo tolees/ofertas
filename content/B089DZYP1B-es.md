@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lau5EEKML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089DZYP1B-es'
+slug: 'B089DZYP1B-es Fular Portabebe  Newlemo Portabebes - Hecho de Tela Suave y Elástica  Suave y Cómoda   Porta Bebes en Mochilas  Adecuado para Recién Nacidos  Bebés y Niños Pequeños'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

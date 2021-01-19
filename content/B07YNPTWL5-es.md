@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MahS8U7eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNPTWL5-es'
+slug: 'B07YNPTWL5-es Cecotec Afeitadora Multifunción 5 en 1 Bamba PrecisionCare Twistgroom con batería de litio  cuchillas de acero inox  indicador led y waterproof.'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

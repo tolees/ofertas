@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515TPNrmY+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GJNL04W-es'
+slug: 'B00GJNL04W-es Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona MK8295'
 actualPrice: 196.52 EUR
 currency: EUR
 price: 196.52

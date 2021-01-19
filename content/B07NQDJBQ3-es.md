@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hNYgU7hXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQDJBQ3-es'
+slug: 'B07NQDJBQ3-es Unidad externa de CD y DVD  VersionTECH. USB 3.0 - Grabadora portátil de CD +/-RW DVD +/-RW Superdrive compatible con MacBook Pro/Air iMac Laptop Notebook'
 actualPrice: 22.77 EUR
 currency: EUR
 price: 22.77

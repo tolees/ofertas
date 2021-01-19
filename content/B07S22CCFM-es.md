@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VKJcUn54L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S22CCFM-es'
+slug: 'B07S22CCFM-es Love MoschinoJc4004pp1aMujerBolsos mochilaNegro  Negro 14x29x37 centimeters  W x H x L '
 actualPrice: 86.66 EUR
 currency: EUR
 price: 86.66

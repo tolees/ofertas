@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OctEouKZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVQVDLV-es'
+slug: 'B07WVQVDLV-es Hugo Boss Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 1513755'
 actualPrice: 257.6 EUR
 currency: EUR
 price: 257.6

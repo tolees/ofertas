@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41poOVUsWcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFYF6M4-es'
+slug: 'B07KFYF6M4-es PUMA Carina Lux SD Zapatillas Mujer  Rosa  Bridal Rose-Puma Black 02   40 EU'
 actualPrice: 23.54 EUR
 currency: EUR
 price: 23.54

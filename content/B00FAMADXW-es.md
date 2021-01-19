@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416ZPM5sQPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FAMADXW-es'
+slug: 'B00FAMADXW-es Bosch Professional GBA 18V 2.0Ah litio  1 batería x 2.0 Ah  18 V  Negro'
 actualPrice: 28.78 EUR
 currency: EUR
 price: 28.78

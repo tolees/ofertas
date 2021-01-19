@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oYGMB9k-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0827PNB7K-es'
+slug: 'B0827PNB7K-es Mameluco de Orejas de Oso bebé Sudaderas con Capucha de Animales de Dibujos Animados para niños Bonitos Regalos para bebés-MMWT3543-BU-24'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

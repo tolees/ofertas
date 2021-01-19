@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gR4udfriL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PP2YYM3-es'
+slug: 'B07PP2YYM3-es Warxin Funda para Huawei P30  Ultra Hybrid TPU Transparente Funda  Phone Case Cover  Absorcion de Choque Cojín de Esquina Parachoques con Marco Reforzado para Huawei P30'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

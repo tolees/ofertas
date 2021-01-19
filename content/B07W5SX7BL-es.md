@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JaGMKBh8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5SX7BL-es'
+slug: 'B07W5SX7BL-es KONVINIT Gorro Navideño para Niño Gorro Santa Claus Gorro de Papá Noel Bambino Roja para niños Chica Sombrero Gorras Padre'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

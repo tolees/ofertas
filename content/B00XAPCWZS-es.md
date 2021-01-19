@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ErKnFbrGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAPCWZS-es'
+slug: 'B00XAPCWZS-es Konfekt - Geles dulces'
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

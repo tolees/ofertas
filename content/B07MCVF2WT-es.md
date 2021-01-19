@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fDQZ8+PUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCVF2WT-es'
+slug: 'B07MCVF2WT-es GANT MD. Extrafine Lambswool V-Neck suéter  Marrón  Dk. Burgundy Mel 678   Large para Hombre'
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

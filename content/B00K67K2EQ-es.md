@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k9SV1lzJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K67K2EQ-es'
+slug: 'B00K67K2EQ-es L Oréal Paris Millón de Pestañas So Couture Máscara Pestañas volumen definido - 9.5 ml'
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

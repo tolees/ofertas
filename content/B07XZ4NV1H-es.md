@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61FxGx1Nq%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZ4NV1H-es'
+slug: 'B07XZ4NV1H-es SHENMATE Envoltorio Cera De Abeja  Beeswax Wrap Natural  Envoltorio bocadillo Reutilizable  Papel De Cera De Abeja  Envoltorios de Alimentos Lavables para Quesos  Frutas  Vegetales'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

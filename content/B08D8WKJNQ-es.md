@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ymQfVcY1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D8WKJNQ-es'
+slug: 'B08D8WKJNQ-es Docooler Auriculares inalámbricos BT 5.0  Alta fidelidad Estéreo Auriculares Estéreo Inalámbricos Plegables  Diadema Ajustable Ranura para Tarjeta AUX IN TF'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tfdPUX+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SS5G6X-es'
+slug: 'B079SS5G6X-es Desigual Sweat Daniela suéter   Negro 2000   Large para Mujer'
 actualPrice: 41.7 EUR
 currency: EUR
 price: 41.7

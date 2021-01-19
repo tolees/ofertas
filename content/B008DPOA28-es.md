@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZR9mkRfhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B008DPOA28-es'
+slug: 'B008DPOA28-es Danish Design DZ120139 - Reloj para Caballero de Cuero Blanco'
 actualPrice: 96.76 EUR
 currency: EUR
 price: 96.76

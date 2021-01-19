@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H0i5s2A-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVFLVST-es'
+slug: 'B07SVFLVST-es TROTEC Aire Acondicionado Portátil PAC 2010 SH / 4 en 1: Refrigeración  Calefacción  Ventilación y Deshumidificación / Mando a Distancia / Calefacción regulada por Termostato / Hasta 26m²'
 actualPrice: 229.95 EUR
 currency: EUR
 price: 229.95

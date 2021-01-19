@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ctnBCpDOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RL2JGQG-es'
+slug: 'B07RL2JGQG-es adidas Hoops 2.0 CMF I  Zapatillas para Bebés  Multicolor  Dark Blue/Blue/Grey Three F17 Ee9001   27 EU'
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

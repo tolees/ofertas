@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I8wXlzXuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XSDFTYZ-es'
+slug: 'B06XSDFTYZ-es find. Utility_DC3086P Pantalones  Grau  Grey   38  Talla del fabricante: Small '
 actualPrice: 6.73 EUR
 currency: EUR
 price: 6.73

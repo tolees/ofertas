@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vhWM0dHvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HPZDMTO-es'
+slug: 'B00HPZDMTO-es PUMA Basket Classic LFS  Zapatillas para Hombre  Blanco  White/White   44.5 EU'
 actualPrice: 58.09 EUR
 currency: EUR
 price: 58.09

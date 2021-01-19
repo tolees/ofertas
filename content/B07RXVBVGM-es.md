@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y1ZKgUSQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXVBVGM-es'
+slug: 'B07RXVBVGM-es Star Wars - Figura de The Mandalorian 15 cm Jawa de Black Series  E7943EL2 '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

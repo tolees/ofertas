@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414HoDILKzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF8WL4P-es'
+slug: 'B07LF8WL4P-es Levi s 502 Regular Taper Jeans  Azul  Cedar Light Mid Overt ADV Tnl 0514   33W / 34L para Hombre'
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

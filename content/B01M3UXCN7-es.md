@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YQnhdfVkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3UXCN7-es'
+slug: 'B01M3UXCN7-es LG VR9624PR Hombot Turbo Serie 11 - Robot aspirador programable con doble cámara  limpieza a distancia vía Smartphone  para casas con mascotas  niños y alfombras  color rojo metalizado'
 actualPrice: 580.77 EUR
 currency: EUR
 price: 580.77

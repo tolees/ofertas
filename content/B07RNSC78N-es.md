@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412JN2-pQrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RNSC78N-es'
+slug: 'B07RNSC78N-es Nike Air MAX Graviton  Zapatillas de Running para Asfalto para Hombre  Blanco White Univ Red Black 100  44.5 EU'
 actualPrice: 50.63 EUR
 currency: EUR
 price: 50.63

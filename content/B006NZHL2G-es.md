@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZCBbT937L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B006NZHL2G-es'
+slug: 'B006NZHL2G-es Nike W Np Pro Classic Swoosh Bra  Sujetador deportivo para Mujer  Blanco  White/Black   M'
 actualPrice: 18.65 EUR
 currency: EUR
 price: 18.65

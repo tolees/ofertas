@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/619xBLMUMFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0197TY1EA-es'
+slug: 'B0197TY1EA-es Aquabeads - 79278 - Set Anillos Deslumbrantes'
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

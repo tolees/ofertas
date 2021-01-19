@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XzlWcr9mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRLCHY9-es'
+slug: 'B07XRLCHY9-es Fintie Funda para iPad 10.2" 2019 - Trasera Transparente Mate Carcasa Ligera con Función de Soporte y Auto-Reposo/Activación para iPad 7.ª Generación  Mármol'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

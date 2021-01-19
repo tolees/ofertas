@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c5AE4y7QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073PB3FXV-es'
+slug: 'B073PB3FXV-es Bourjois Velvet The Lipstick Barra de Labios Tono 01 Hey Nude ! - 23 gr.'
 actualPrice: 4.22 EUR
 currency: EUR
 price: 4.22

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517su7F6dgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HQG973P-es'
+slug: 'B08HQG973P-es BNTTEAM Mini Carrete Giratorio y Combos de Caña Telescópico Mano Portátil Difícil 99% de Fibra de Carbono Mar Caña de Pescar y Carrete Señuelos Artificiales Sedal  Full Set/2.3M/90.55inch '
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

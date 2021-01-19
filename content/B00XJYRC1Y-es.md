@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313ClchY2nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XJYRC1Y-es'
+slug: 'B00XJYRC1Y-es Reebok Classic Leather Zapatillas  Mujer  Blanco  Int-White / Gum   35 EU'
 actualPrice: 35.01 EUR
 currency: EUR
 price: 35.01

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rqUhRXtJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVPNVJD-es'
+slug: 'B07TVPNVJD-es Skechers Boys  GRAVLEN Metro-Trek Hi-Top Trainers  Black  Black Synthetic/Black & Orange Trim Blk   3 UK  36 EU '
 actualPrice: 17.91 EUR
 currency: EUR
 price: 17.91

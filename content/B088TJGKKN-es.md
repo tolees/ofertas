@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21fECMuRJnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TJGKKN-es'
+slug: 'B088TJGKKN-es HAPPY - 25 productos  el efecto alcanza el 95%  CE'
 actualPrice: 7.77 EUR
 currency: EUR
 price: 7.77

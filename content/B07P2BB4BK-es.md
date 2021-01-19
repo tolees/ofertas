@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PapdNBmKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2BB4BK-es'
+slug: 'B07P2BB4BK-es Superdry OL Elite Crop Hood Capucha  Blanco  White 04c   Medium para Mujer'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

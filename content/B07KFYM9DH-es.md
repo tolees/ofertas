@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aDMu6NEdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFYM9DH-es'
+slug: 'B07KFYM9DH-es PUMA Basket Classic LFS  Zapatillas Unisex Adultos  White-Bridal Rose  41 EU'
 actualPrice: 43.56 EUR
 currency: EUR
 price: 43.56

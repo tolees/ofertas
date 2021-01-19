@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XaBKMMUeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003Z7RUI0-es'
+slug: 'B003Z7RUI0-es Cuéntame Cómo Pasó - Temporadas 6 - 8 [DVD]'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

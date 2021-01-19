@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XVJbvwUsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PND15C-es'
+slug: 'B077PND15C-es Rostro Prebase Sos Primer'
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

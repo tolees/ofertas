@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411-WncbcLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1PL2F1-es'
+slug: 'B07S1PL2F1-es New Balance Fresh Foam Tempo h  Zapatillas de Running para Hombre  Negro  Black BR   40 EU'
 actualPrice: 65.56 EUR
 currency: EUR
 price: 65.56

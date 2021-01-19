@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lE31a2ebL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087NR19ZP-es'
+slug: 'B087NR19ZP-es Mascarilla 20PCS Pañuelos de Protección Personal'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

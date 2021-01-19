@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SINls7WjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HETFQA8-es'
+slug: 'B01HETFQA8-es Bose ® QuietControl ™ 30 - Auriculares inalámbricos  Color Negro'
 actualPrice: 119.2 EUR
 currency: EUR
 price: 119.2

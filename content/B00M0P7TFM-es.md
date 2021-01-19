@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41izRcD+lxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M0P7TFM-es'
+slug: 'B00M0P7TFM-es Quid Gastro Fun - Sartén doble para tortilla  26 cm  aluminio estampado  color negro'
 actualPrice: 28.82 EUR
 currency: EUR
 price: 28.82

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415KgrfK+WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VACSDYW-es'
+slug: 'B00VACSDYW-es Taurus Cafetera Goteo Verona 12  680 W  1.2 litros  plástico'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

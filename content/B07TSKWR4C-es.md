@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PwEr2xu4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSKWR4C-es'
+slug: 'B07TSKWR4C-es Kipling Firefly Up  Mochilas para Mujer  Rojo  Metallic Rust   22x31x14 cm'
 actualPrice: 33.68 EUR
 currency: EUR
 price: 33.68

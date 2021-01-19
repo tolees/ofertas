@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bOb6i4I-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4DH3K8-es'
+slug: 'B07S4DH3K8-es SOLKA Fitness Tracker Monitor de Ritmo cardíaco-1.3    Pantalla de Color Grande IP67 Reloj de Fitness Impermeable con Monitor de sueño  Banda de muñeca Inteligente podómetro para Hombres de Mujeres'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

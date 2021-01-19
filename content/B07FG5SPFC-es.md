@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315kwhNFmKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FG5SPFC-es'
+slug: 'B07FG5SPFC-es Lacoste Sport GH353T Bañador  Negro  Noir   W40  Talla del Fabricante: 9  para Hombre'
 actualPrice: 24.58 EUR
 currency: EUR
 price: 24.58

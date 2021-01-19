@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hfayvugfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LCTU56Q-es'
+slug: 'B01LCTU56Q-es Aussie 3 Minute Miracle Reconstructor Tratamiento Intensivo  Fórmula Reparadora Intensiva Suaviza Y Revitaliza - 250 ml'
 actualPrice: 2.63 EUR
 currency: EUR
 price: 2.63

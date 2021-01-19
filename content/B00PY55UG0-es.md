@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YuZCygVwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PY55UG0-es'
+slug: 'B00PY55UG0-es murando - Cuadro en Lienzo 200x100 cm New York Impresión de 5 Piezas Material Tejido no Tejido Impresión Artística Imagen Gráfica Decoracion de Pared Ciudad 030102-25'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

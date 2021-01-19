@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pYO1nhlEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088CRXPXR-es'
+slug: 'B088CRXPXR-es Syxinn Compatible con Correa de Reloj Gear S3 Frontier/Classic/Galaxy Watch 46mm Banda Pulseras de Repuesto  22mm Acero Inoxidable Metal Pulsera para Moto 360 2nd Gen 46mm/Huawei Watch GT/GT 2 46mm'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21ZWdQmuJnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T8HGZNQ-es'
+slug: 'B07T8HGZNQ-es Finocam - Agenda 2020 semana vista vertical Dynamic Mara Negro español'
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

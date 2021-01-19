@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VsP33XMVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B5G3VYF-es'
+slug: 'B07B5G3VYF-es Exquisite Gaming - Cable Guys- Crash Bandicoot XL'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414XS-AZBXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBPH1JG-es'
+slug: 'B07BBPH1JG-es Foco LED con Sensor de Movimiento Negro 50W Proyector LED Exterior IP54 Impermeable con Sensor de Movimiento Súper Brillante 4000LM para Iluminación de Exterior y Seguridad para Jardín Patio Hotel'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

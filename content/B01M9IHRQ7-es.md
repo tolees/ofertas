@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GKPpWA5sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9IHRQ7-es'
+slug: 'B01M9IHRQ7-es G-STAR RAW ZED Cinturón  Marrón  Dk Brown/black Metal 8127   100 para Hombre'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41udf7ApnDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XX6GVFY-es'
+slug: 'B06XX6GVFY-es Skip Hop Zoo Unicorn - Termo contenedor'
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

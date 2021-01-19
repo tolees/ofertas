@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jJduNAnRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077H7ZCGR-es'
+slug: 'B077H7ZCGR-es Kit de blanqueamiento dental White First - teeth whitening y dientes postizos - Kit de blanqueamiento dental con gel de blanqueamiento de 20 mL  fresa '
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

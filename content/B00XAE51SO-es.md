@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510CqAkbKVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAE51SO-es'
+slug: 'B00XAE51SO-es Air Wick Freshmatic - Recambios de Ambientador Spray Automático  Esencia para Casa con Aroma a Nenuco - Pack de 3'
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417FZQganDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089GRTT5R-es'
+slug: 'B089GRTT5R-es KLAS REMO Bandejas para Hielo Set de 3 Moldes para Hielo con Tapas Bandejas de Silicona 35 Hielos para Bebidas/Whisky/Cócteles/Coca-Cola/Sopa Fría  Azul'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

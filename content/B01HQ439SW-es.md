@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410mdJSZjZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HQ439SW-es'
+slug: 'B01HQ439SW-es Bolero Bebida Instantánea sin Azúcar  Sabor Frambuesa - Paquete de 24 x 9 gr - Total: 216 gr'
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

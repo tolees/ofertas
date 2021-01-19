@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WHItCEzwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087CSFBTK-es'
+slug: 'B087CSFBTK-es Protector facial de 3 capas con cubierta elástica para el asa del oído Anti-polvo de cara completa  30 PCS '
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

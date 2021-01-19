@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ub5cOTJML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EI9JWKM-es'
+slug: 'B01EI9JWKM-es adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Core Black/White/Gold Metalic   44 EU'
 actualPrice: 64.94 EUR
 currency: EUR
 price: 64.94

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JBiLaifWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QS1R7WB-es'
+slug: 'B07QS1R7WB-es EACLL GU10 Bases para Lámparas  Casquillo Portalámparas Zócalo de Cerámica  Con Cable de Silicona de Calidad  Conector Para LED GU10 y Bombilla Halógena  Pack de 10'
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51AReeonCjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0148LS7DS-es'
+slug: 'B0148LS7DS-es Anita Maternity Still-BH Miss Cotton - Sujetador Mujer  Blanco  pearl white 671   95DD'
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

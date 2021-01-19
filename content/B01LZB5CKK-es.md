@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31C684GX-4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZB5CKK-es'
+slug: 'B01LZB5CKK-es Brabantia Newicon-Cubo de Basura con Pedal  30 l  Color Fpp Inoxidable  Acero Mate Anti-Huellas'
 actualPrice: 60.85 EUR
 currency: EUR
 price: 60.85

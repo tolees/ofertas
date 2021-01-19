@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qImX7u66L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079K9ZYWP-es'
+slug: 'B079K9ZYWP-es Lee Rider Contrast Jeans  Blue Waters  28W / 34L para Hombre'
 actualPrice: 24.29 EUR
 currency: EUR
 price: 24.29

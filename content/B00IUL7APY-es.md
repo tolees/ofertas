@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A2o7iw6KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IUL7APY-es'
+slug: 'B00IUL7APY-es Philips Daily HR1623/00 - Batidora de Mano  650 W  Picador  Jarra de 0.5 L  Varilla Metálica  Color Blanco'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

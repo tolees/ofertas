@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rGkdkkjhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HIT8T2G-es'
+slug: 'B01HIT8T2G-es HP 27wm - Monitor de 27" con altavoces  IPS LED  FHD 1920 x 1080  16:9  75Hz  negro'
 actualPrice: 139.98 EUR
 currency: EUR
 price: 139.98

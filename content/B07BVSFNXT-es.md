@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nGbjCCzBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVSFNXT-es'
+slug: 'B07BVSFNXT-es seQoya · Volcano | Reloj de Piedra Hecho con mármol Negro con Esfera de mármol Negro y Correa de Piel ecológica | Reloj Hombre y Mujer | Diseño único y Original'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

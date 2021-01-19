@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ESyVy4rHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009RPQA2G-es'
+slug: 'B009RPQA2G-es Creative Sound Blaster Z - Tarjeta de sonido interna  micrófono Sound Blaster incluido   Rojo  24-bits'
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

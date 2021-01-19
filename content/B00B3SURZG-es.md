@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EsWZSDvFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B3SURZG-es'
+slug: 'B00B3SURZG-es BRA Terra - Sartén 18 cm  aluminio fundido con antiadherente Teflon Selectaptas para todo tipo de cocinas incluida inducción'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

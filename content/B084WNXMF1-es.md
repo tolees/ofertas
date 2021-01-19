@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PrajoK0GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084WNXMF1-es'
+slug: 'B084WNXMF1-es Prensa de ajos Trongle - Trituradora de ajos con pelador fácil  gruesa  duradera aleación de zinc de alta resistencia  agarre fácil para el hogar  cocina y fácil de limpiar'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

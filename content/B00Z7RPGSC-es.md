@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-gRYUBGAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z7RPGSC-es'
+slug: 'B00Z7RPGSC-es LifeProof Fre - Funda estanca y Anti caídas para Apple iPhone 6/6s Plus  Color Negro'
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

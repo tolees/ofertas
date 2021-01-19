@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311k-mUQ9iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003QJLE66-es'
+slug: 'B003QJLE66-es Reebok EX-O-FIT High Zapatillas altas  Hombre  Blanco  Int-White   50'
 actualPrice: 62.1 EUR
 currency: EUR
 price: 62.1

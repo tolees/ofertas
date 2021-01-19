@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jJ-G8rirL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K8SJNP2-es'
+slug: 'B00K8SJNP2-es Yazilind deslumbrante plata Plated princesa cortada Gancho Pendientes cúbicos púrpuras Circonita perfecto cuelga'
 actualPrice: 2.81 EUR
 currency: EUR
 price: 2.81

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wwJNr+eAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVK5QD6-es'
+slug: 'B08CVK5QD6-es Klas Remo - Dispensador de jabón automático  400 ml  rociador de jabón táctil con sensor de infrarrojos para baño  cocina  oficina  hotel – blanco'
 actualPrice: 9.37 EUR
 currency: EUR
 price: 9.37

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hJhOgYtLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQM2KX6-es'
+slug: 'B07QQM2KX6-es KLIM™ Esports Silla Gaming Rosa + Ergonómica con Soporte Lumbar y Cervical + Reclinable + Silla de Escritorio Ajustable + Piel Sintética y Materiales Premium + Silla Gamer Rosa [Nueva VERSIÓN 2020]'
 actualPrice: 262.43 EUR
 currency: EUR
 price: 262.43

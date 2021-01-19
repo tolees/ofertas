@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-FZNDXpGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0749BFYY9-es'
+slug: 'B0749BFYY9-es Corsair Void PRO RGB Wireless Auriculares para Juegos  7.1 Sonido envolvente  Inalámbrico de 2 4 GHz de baja latencia  12 m de alcance  Personalizable Iluminación LED RGB  color Blanco'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

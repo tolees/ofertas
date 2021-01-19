@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LngHzT6WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075TXK2TR-es'
+slug: 'B075TXK2TR-es MLG Tools Trampa para Ratas. XXL * 6 Unidades faciles de reutilizar. Captura inmediatamente las ratas de su hogar y oficina  XXL * 6 '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

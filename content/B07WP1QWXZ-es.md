@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51X3Mk9-L0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WP1QWXZ-es'
+slug: 'B07WP1QWXZ-es EBY 29XL Alta Capacidad Cartuchos de Tinta para Epson 29 Compatible con Epson Expression Home XP-235 XP-245 XP-247 XP-255 XP-345 XP-332 XP-342 XP-352 XP-432 XP-442 XP-445 XP-452 XP-335'
 actualPrice: 21.68 EUR
 currency: EUR
 price: 21.68

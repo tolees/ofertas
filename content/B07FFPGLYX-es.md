@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21pmypS2SML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFPGLYX-es'
+slug: 'B07FFPGLYX-es Razer Mouse Bungee V2 - Accesorios de Controlador de Juego  Negro '
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

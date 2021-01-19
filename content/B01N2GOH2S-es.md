@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GkJivZpoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2GOH2S-es'
+slug: 'B01N2GOH2S-es L Oreal Paris Colorista Coloración Temporal Colorista Spray - Pastel Blue Hair'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zFas-23aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RRR54LX-es'
+slug: 'B07RRR54LX-es Casio Reloj Analógico-Digital para Hombre de Cuarzo con Correa en Resina GA-2000-3AER'
 actualPrice: 97.8 EUR
 currency: EUR
 price: 97.8

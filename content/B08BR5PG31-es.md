@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319+Pnz6kXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BR5PG31-es'
+slug: 'B08BR5PG31-es ZNE     14ct 3 Colores oro'
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

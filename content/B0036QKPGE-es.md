@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41URzVcxceL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0036QKPGE-es'
+slug: 'B0036QKPGE-es Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene  Amarillo  Citrus Yellow   41/42 EU  6.5 UK '
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

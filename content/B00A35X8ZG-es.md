@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FDyBrykSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A35X8ZG-es'
+slug: 'B00A35X8ZG-es Sigma 340306  35 mm / F 1 4 DG HSM - Objetivo para Nikon  distancia focal fija 35mm  apertura f/1.4-16  color negro'
 actualPrice: 473.0 EUR
 currency: EUR
 price: 473.0

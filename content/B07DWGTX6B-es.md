@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414ebwcdwcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWGTX6B-es'
+slug: 'B07DWGTX6B-es Neo Geo Mini - Gamepad Mini  Blanco  Neo Geo '
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

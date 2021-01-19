@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515TszzLZVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CXT1WHR-es'
+slug: 'B08CXT1WHR-es LK Funda para Xiaomi Redmi 9 Carcasa Cubierta Caucho Suave TPU Silicona Gel Goma Case Cover con Vidrio Templado Screen Protector[2 Pack] para Xiaomi Redmi 9 - Clara'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

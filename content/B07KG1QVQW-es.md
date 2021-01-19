@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51844JlFY2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1QVQW-es'
+slug: 'B07KG1QVQW-es PUMA Speed Orbiter  Zapatillas de Running para Hombre  High Rise-Blue Turquoise  45 EU'
 actualPrice: 57.53 EUR
 currency: EUR
 price: 57.53

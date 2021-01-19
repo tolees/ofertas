@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513+qQkI7DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2V9WW2-es'
+slug: 'B07F2V9WW2-es Newseego Ajustador de Cinturón de Seguridad para el Coche  Clips para Cinturón de Seguridad para relajar el Cuello del Hombro  le da una Experiencia Cómoda y Segura  2 Unidades  Color Negro'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

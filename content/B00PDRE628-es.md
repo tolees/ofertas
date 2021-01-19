@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JLogOrm0L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PDRE628-es'
+slug: 'B00PDRE628-es PAPEL SEDA LIDERPAPEL VERDE OSCURO 52X76CM 18 GR/M2 PAQUETE DE 25 HOJAS'
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UYD+uO88L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WJ3VB4-es'
+slug: 'B087WJ3VB4-es Memoria Flash Cuadrada Estilo Antiguo de Madera Natural Eco Vintage Collection USB 2.0 - Madera'
 actualPrice: 2.04 EUR
 currency: EUR
 price: 2.04

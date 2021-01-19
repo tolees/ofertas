@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OVcOXXsvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTW9KQW-es'
+slug: 'B07RTW9KQW-es DAYNEW Dispensador De Aceite De Oliva y Vinagre con Boquillas Antigoteo - Dispensador De La Botella del Aceite y del Vinagre [Marcador de líneas con una Escala] 500ML Cepillo de Regalo'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

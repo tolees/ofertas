@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uM6DdRK9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0893VQ3LZ-es'
+slug: 'B0893VQ3LZ-es Auriculares Bluetooth 5.0  Auriculares con Micrófono  Estéreo HiFi de Graves Profundos  con Estuche de Carga Portátil [24 Horas]  IPX7 a Prueba de Agua  Adecuado para Android/iPhone/Samsung'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

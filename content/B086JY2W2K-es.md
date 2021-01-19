@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eVa0NLi9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086JY2W2K-es'
+slug: 'B086JY2W2K-es Cepillo Desenredador  Cepillo para Alisar Cabello  Cepillo Desenredante para Cabello Natural  Peine de Pelo Ocho Garras Cepillo  Apta para Pelo Afro 3a Hasta 4c  Ondulado  Rizado  Grueso'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

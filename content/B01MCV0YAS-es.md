@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61F6UeigJvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MCV0YAS-es'
+slug: 'B01MCV0YAS-es Haikyu!! Los Ases Del Voley -Blu-Ray Edición Coleccionistas Temporada 2 Parte 1 Ep. 1 A 13 [Blu-ray]'
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

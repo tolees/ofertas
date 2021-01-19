@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AQMh5j2vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0085MR4AY-es'
+slug: 'B0085MR4AY-es HP CE250XD - Pack 2 cartuchos de tóner'
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

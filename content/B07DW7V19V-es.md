@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xUkO-QJ0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DW7V19V-es'
+slug: 'B07DW7V19V-es LE COQ SPORTIF Flag  Zapatillas para Hombre  Azul  Dress Blue Dress Blue   44 EU'
 actualPrice: 26.97 EUR
 currency: EUR
 price: 26.97

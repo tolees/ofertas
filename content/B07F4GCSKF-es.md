@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+tf8wFZAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F4GCSKF-es'
+slug: 'B07F4GCSKF-es Maybelline New York - Superstay Matte Ink City Edition  Pintalabios Mate de Larga Duración  Tono 115 Founder'
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

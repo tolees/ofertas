@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I7nvZRZzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I2TTCTK-es'
+slug: 'B01I2TTCTK-es Belkin F2CU038BTBLK - Adaptador de USB-C a HDMI  4k a 60 Hz  resolución 4096 x 2160  Negro  Compatible con iPad Pro '
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

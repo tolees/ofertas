@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aZcIHBdML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXQXTQ1-es'
+slug: 'B07RXQXTQ1-es Atornillador de impacto  TECCPO 18V 180 Nm  4.0Ah Baterías Li-Ion  2900RPM  Velocidad variable  1/4"  4A cargador rápido   Mejor Regalo de DIY '
 actualPrice: 86.87 EUR
 currency: EUR
 price: 86.87

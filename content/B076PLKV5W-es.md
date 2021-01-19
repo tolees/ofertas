@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kvDGMinTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PLKV5W-es'
+slug: 'B076PLKV5W-es Cecotec Rollos Gofrados Set de 2 Rollos Grandes 28 x 600 cm. Superficie gofrada  BPA Free'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

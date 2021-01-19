@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41F7r4al9fL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P2NKR3A-es'
+slug: 'B00P2NKR3A-es BLACK+DECKER MT188KB - Taladro percutor y multiherramienta Multievo 18V  incluye 2 baterías de litio 1.5Ah y maletín'
 actualPrice: 125.95 EUR
 currency: EUR
 price: 125.95

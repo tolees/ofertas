@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31-Y9WXKlQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZXNYCC-es'
+slug: 'B07TZXNYCC-es Roxy You Gotta Be-Top De Manga Larga con Cuello En Pico para Mujer  Snow White  XL'
 actualPrice: 22.78 EUR
 currency: EUR
 price: 22.78

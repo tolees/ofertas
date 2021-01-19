@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519G1xUmIwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KVJ2XF9-es'
+slug: 'B07KVJ2XF9-es Frozen 2 Anna & Kristoff Couple Set'
 actualPrice: 22.29 EUR
 currency: EUR
 price: 22.29

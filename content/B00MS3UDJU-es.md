@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bMFidXJbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MS3UDJU-es'
+slug: 'B00MS3UDJU-es Maxi-Cosi CabrioFix  Silla de auto  reclinable y seguro para bebé  0-12 meses  0-13 kg  Earth Brown  marrón '
 actualPrice: 117.0 EUR
 currency: EUR
 price: 117.0

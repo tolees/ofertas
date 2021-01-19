@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41av4T0YKeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B002SJUTQQ-es'
+slug: 'B002SJUTQQ-es Samsonite Aeris Spinner L Maleta  75 cm  87.5 L  Rojo  Red '
 actualPrice: 131.21 EUR
 currency: EUR
 price: 131.21

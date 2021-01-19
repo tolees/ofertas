@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eF+-V8rNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFF72WD-es'
+slug: 'B07PFF72WD-es Disney Bañador para Mujer Minnie Mouse Blanco Medium'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

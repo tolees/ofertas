@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gEBFZoCkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003PPCYKQ-es'
+slug: 'B003PPCYKQ-es Eastpak Springer Riñonera  23 cm  2 L  Gris  Sunday Grey '
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

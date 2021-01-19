@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HLPpFiqkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J21B1FY-es'
+slug: 'B07J21B1FY-es Daily Ritual Denim Cutoff Short-Base A shorts  Azul Oscuro  28'
 actualPrice: 8.52 EUR
 currency: EUR
 price: 8.52

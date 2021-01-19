@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41brp4hGUWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKML9K1-es'
+slug: 'B07TKML9K1-es K-Swiss Court Winston  Zapatillas para Mujer  Blanco  White/Amparo Blue 116   37 EU'
 actualPrice: 17.11 EUR
 currency: EUR
 price: 17.11

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yXlwe3P0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMCRDGC-es'
+slug: 'B07TMCRDGC-es Pre-Workout X6 | Potente Pre-entreno Ultra Concentrado | Beta Alanina + L-Arginina AAKG + Creatina + Cafeína + Taurina | Potencia el desarrollo muscular  la resistencia y fuerza | Sabor sandía'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

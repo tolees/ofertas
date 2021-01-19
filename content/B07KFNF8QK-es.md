@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jeo39NmfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFNF8QK-es'
+slug: 'B07KFNF8QK-es Cuckool-5 test de embarazo ultrasensibles  10mIU/ml  5 HCG'
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

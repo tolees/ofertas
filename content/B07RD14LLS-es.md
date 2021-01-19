@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gLnbrETSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RD14LLS-es'
+slug: 'B07RD14LLS-es Rimmel London  Lasting Finish Extreme Barra de Labios  Tono 720'
 actualPrice: 4.43 EUR
 currency: EUR
 price: 4.43

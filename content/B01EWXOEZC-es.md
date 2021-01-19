@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rBabJ-BSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EWXOEZC-es'
+slug: 'B01EWXOEZC-es Kosma Acero Inoxidable colador profundo manejado Twin   Tamaño- 25 cm Pasta ensalada de verduras de alimentos - tamiz de Sujeción acolchada suave| Color Naranja Base Anti-Skid'
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

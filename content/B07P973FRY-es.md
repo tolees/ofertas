@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51L4uaLSKrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P973FRY-es'
+slug: 'B07P973FRY-es World Rally Championship 8  WRC 8   Versión española'
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

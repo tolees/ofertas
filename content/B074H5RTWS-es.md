@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BV+bJfcLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074H5RTWS-es'
+slug: 'B074H5RTWS-es Nike Y Nk Gmsk-GFX Sports Bag  Unisex niños  Black/Black/ Rush Pink   MISC'
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

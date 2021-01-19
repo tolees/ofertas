@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5171j7K5p+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868MZ2NV-es'
+slug: 'B0868MZ2NV-es Suhctup Transparente Funda Compatible con Samsung Galaxy S11 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para Samsung Galaxy S11 3 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410rlIwqcCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IVQ25YI-es'
+slug: 'B01IVQ25YI-es Joe Weider Victory Multivit Up 80 gummies  Sabor naranja y limón  Sin azúcares y sin gluten  Gominolas de vitaminas y minerales'
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vMCdL5GRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000ASCU1-es'
+slug: 'B0000ASCU1-es Reebok Classic Nylon - Zapatillas de Entrenamiento Mujer  Negro  Black / White   35.5 EU'
 actualPrice: 34.74 EUR
 currency: EUR
 price: 34.74

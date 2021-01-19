@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ga1AL6dgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FVSVBDW-es'
+slug: 'B07FVSVBDW-es Beautural Secador de Pelo  Secador 2200W con Selector de Velocidad Reajustable del Flujo de Aire  Iónico  2 Niveles de Calor y Aire Frio  Accesorios Concentrador y Difusor'
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51s8KTApf8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMD3H2T-es'
+slug: 'B07PMD3H2T-es casa pura Alfombras Fibras Naturales - Alfombras Sisal |100% Natural | Reverso Antideslizante | Ecológica | Distintos Colores a Elegir  Natural  200x290 cm '
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

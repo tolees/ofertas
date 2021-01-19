@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YLQZE80WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072WHH39C-es'
+slug: 'B072WHH39C-es CLP Baúl De Almacenamiento Millie I Consola Baúl De Madera I Cómoda - Banco Almacenamiento De Recibidor I Baúl De Entrada I Blanco'
 actualPrice: 77.9 EUR
 currency: EUR
 price: 77.9

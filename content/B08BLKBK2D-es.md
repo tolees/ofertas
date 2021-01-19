@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WOq-uXQjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLKBK2D-es'
+slug: 'B08BLKBK2D-es TOP BRIGHT Juego de Pesca Magnético - Juguete Educativo Interactivo con Piezas de Madera para Niños de 2 3 4 años – Abecedario  Letras y Animales Marinos - Desarrollo Cognitivo y Habilidades sociales'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

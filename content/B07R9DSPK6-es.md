@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yTsosBcbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R9DSPK6-es'
+slug: 'B07R9DSPK6-es Herbal Essences  Acondicionador - 1 Unidad'
 actualPrice: 1.84 EUR
 currency: EUR
 price: 1.84

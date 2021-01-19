@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bbZIR1oeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XND2Z8G-es'
+slug: 'B07XND2Z8G-es LUDOS Turbo Auriculares con Micrófono y Graves  Cascos Ergonómicos  con Espuma Viscoelástica  Cable Duradero Earphones para Mi  Xiaomi  iPhone  Samsung  Huawei  Ordenador  Portátil  PC'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

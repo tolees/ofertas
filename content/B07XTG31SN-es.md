@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TBO6F3JRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XTG31SN-es'
+slug: 'B07XTG31SN-es Xti Botas Mujer 49363X para Mujer Verde 38 EU'
 actualPrice: 21.18 EUR
 currency: EUR
 price: 21.18

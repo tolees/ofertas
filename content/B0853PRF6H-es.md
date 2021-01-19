@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ch68ifKAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0853PRF6H-es'
+slug: 'B0853PRF6H-es Big Pharma. Manager Edition'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

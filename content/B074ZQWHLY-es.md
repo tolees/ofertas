@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31a+3hyR36L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZQWHLY-es'
+slug: 'B074ZQWHLY-es Zadig & Voltaire Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero ZVF403'
 actualPrice: 110.3 EUR
 currency: EUR
 price: 110.3

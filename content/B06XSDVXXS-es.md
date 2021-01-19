@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GXfDhx1pL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XSDVXXS-es'
+slug: 'B06XSDVXXS-es New Balance Wxnrgv1  Zapatillas Deportivas para Interior para Mujer  Gris  Light Grey   37.5 EU'
 actualPrice: 25.45 EUR
 currency: EUR
 price: 25.45

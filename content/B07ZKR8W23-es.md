@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YOjlnxZOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKR8W23-es'
+slug: 'B07ZKR8W23-es Gillette Fusion5 Power Maquinilla Afeitar  8 Recambios'
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J0Qp6p2QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WP7WHSM-es'
+slug: 'B07WP7WHSM-es Funda Protectora para Huawei MediaPad M6 10.8 Pulgadas 2019 de la Marca Cradle HR  Ligera  a Prueba de Golpes'
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

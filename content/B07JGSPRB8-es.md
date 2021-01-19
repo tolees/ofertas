@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pAoteZ1tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGSPRB8-es'
+slug: 'B07JGSPRB8-es Pepe Jeans Pixlette High Pg201164 Jeans   Black Wiser Wash Denim Wv9   8-9 años  Talla del Fabricante: 128/8 años  para Niñas'
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415vi51NWmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4RH1TV-es'
+slug: 'B07J4RH1TV-es Optimum Nutrition ON 100% Plant Gold Standard  Proteina vegana en polvo  para masa muscular y musculacion  fuente de vitamina C y B12  Chocolate  19 porciones  684 g'
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

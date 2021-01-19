@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kX9n5NtbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCNJVGS-es'
+slug: 'B07NCNJVGS-es Maletín para portátil 15 6" Pepe Jeans Raw'
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

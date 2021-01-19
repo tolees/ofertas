@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ReGVf983L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YZLS81-es'
+slug: 'B086YZLS81-es Paquete de 20 máscaras Desechables  máscara de Filtro de Triple Capa con bucles para los oídos  máscara Antipolvo  máscara de Pintura  Media máscara'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

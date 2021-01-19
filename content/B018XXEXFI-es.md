@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TP8PW+s2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018XXEXFI-es'
+slug: 'B018XXEXFI-es CALZITALY Medias Invisibles Refrescantes | Panty De Verano | Natural  Negro | S  M  L  XL | 7 DEN | Calcetería Italiana |  XL  Natural '
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

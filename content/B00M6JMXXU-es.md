@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aAZmcdu-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M6JMXXU-es'
+slug: 'B00M6JMXXU-es Amzdeal 135W Bombilla Fotografia Iluminación E27 220V 5500K Luz para Estudio Fotográfico o Video Estudio'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

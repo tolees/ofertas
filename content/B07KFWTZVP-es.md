@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ods33+doL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFWTZVP-es'
+slug: 'B07KFWTZVP-es PUMA Carina Lux SD Zapatillas Mujer  Negro  Puma Black-Teal Green 01   36 EU'
 actualPrice: 18.07 EUR
 currency: EUR
 price: 18.07

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LWr4n2JKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PYKWA0Y-es'
+slug: 'B00PYKWA0Y-es Nike Court Royale  Zapatillas Hombre  Negro/Blanco  Black/White   40 EU'
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

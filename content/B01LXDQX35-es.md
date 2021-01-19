@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ynDmkApvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXDQX35-es'
+slug: 'B01LXDQX35-es WD Blue  disco de estado sólido  SSD  interno de 250 GB - SATA a 6 Gb/s y 2 5"'
 actualPrice: 41.29 EUR
 currency: EUR
 price: 41.29

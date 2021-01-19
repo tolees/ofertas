@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61sXwvkuwYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNB7PR9-es'
+slug: 'B07SNB7PR9-es Hpybest - Cadena para chupete  cadena antipérdida  diseño de girasol  madera'
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

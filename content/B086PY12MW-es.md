@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/618nJtXOzUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086PY12MW-es'
+slug: 'B086PY12MW-es Beikell Pulseras Repelentes de Mosquitos 12 Piezas  Pulsera Mosquitos Natural sin DEET con Aceites Esenciales a Citronela y Menta de Protección contra Insectos a Largo Plazo para Niños y Adultos'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

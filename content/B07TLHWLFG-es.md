@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51C6uLvWrLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLHWLFG-es'
+slug: 'B07TLHWLFG-es Deyard Sistema de Riego Micro Flow para Refrigeración por Nieblas de Patio para Trampolín de Invernadero de Distribución Automática de Jardín de 65 6 pies  20 M -con 20 Boquillas de Niebla de Cobre'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

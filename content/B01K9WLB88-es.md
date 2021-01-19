@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vgapeOakL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9WLB88-es'
+slug: 'B01K9WLB88-es VIPMOON 44 teclas de control remoto inalámbrico por infrarrojos con receptor para tira de luz LED RGB 3528 5050 - Salidas dobles'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

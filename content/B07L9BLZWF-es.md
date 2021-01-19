@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412bbZuivXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9BLZWF-es'
+slug: 'B07L9BLZWF-es Under Armour Qualifier Coldgear Tight Legging  Hombre  Negro  MD'
 actualPrice: 38.15 EUR
 currency: EUR
 price: 38.15

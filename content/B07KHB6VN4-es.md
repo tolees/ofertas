@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XO19LOJLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KHB6VN4-es'
+slug: 'B07KHB6VN4-es Auriculares Bluetooth Deportivos  Syllable D15 Auriculares Inalámbricos Estéreo para Deportes Bluetooth 5.0 Manos Libres con Micrófono Dual con Ganchos de Orejas para iPhone y Andriod  Amarillo/PL '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

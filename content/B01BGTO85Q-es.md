@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZfTGAZ8FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTO85Q-es'
+slug: 'B01BGTO85Q-es G-Star Raw Bronson  Pantalones Para Hombre  Gris  Grey   W28/L30'
 actualPrice: 27.17 EUR
 currency: EUR
 price: 27.17

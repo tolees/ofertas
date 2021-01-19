@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r6hNcUGRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008ZEKQWA-es'
+slug: 'B008ZEKQWA-es ABUS 55971 Antirrobo Disco Moto  Rojo  Medium'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

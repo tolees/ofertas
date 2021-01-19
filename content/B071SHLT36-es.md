@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ouvS7nlGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071SHLT36-es'
+slug: 'B071SHLT36-es DC Shoes Heathrow  Zapatillas para Mujer  Rojo  Burgundy   36 EU'
 actualPrice: 15.27 EUR
 currency: EUR
 price: 15.27

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TIgV3ddvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014SV3LB6-es'
+slug: 'B014SV3LB6-es Super Design Comedero Lento en Melamina  Comedero Antivoracidad Antideslizante para Perros y Gatos  Ralentizar la Comida'
 actualPrice: 25.94 EUR
 currency: EUR
 price: 25.94

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31M4mmC37lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AXJA008-es'
+slug: 'B00AXJA008-es Revlon ColorStay Corrector 24h  #030 Light Medium  - 6.2ml'
 actualPrice: 3.55 EUR
 currency: EUR
 price: 3.55

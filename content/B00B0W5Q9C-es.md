@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kkf6d+SIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B0W5Q9C-es'
+slug: 'B00B0W5Q9C-es STANLEY FATMAX FME340K-QS - Sierra de calar 710W  20mm  corte bisel 45°  incluye maletín'
 actualPrice: 65.56 EUR
 currency: EUR
 price: 65.56

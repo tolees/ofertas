@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XSzrac-eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003BFXFHG-es'
+slug: 'B003BFXFHG-es HP CE278A 78A Cartucho de Tóner Original  1 unidad  negro'
 actualPrice: 72.91 EUR
 currency: EUR
 price: 72.91

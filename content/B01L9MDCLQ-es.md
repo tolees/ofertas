@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315rYOi8MZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L9MDCLQ-es'
+slug: 'B01L9MDCLQ-es Belkin F8J206BTGRY - Funda y Soporte para Apple Pencil  Color Negro/ Blanco/ Gris'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

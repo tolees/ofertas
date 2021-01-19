@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41n4+08mlXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001TK3CPU-es'
+slug: 'B001TK3CPU-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable MTP-1291D-1A1VEF'
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

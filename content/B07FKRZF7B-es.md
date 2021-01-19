@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416FqWSvJWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKRZF7B-es'
+slug: 'B07FKRZF7B-es Bestway 41125 - Camello Hinchable 221x132 cm'
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FWFbExSTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WFFSLE-es'
+slug: 'B000WFFSLE-es Trixie 1571260031 - Pala p/lecho bandejas granulado silice Col.surt.'
 actualPrice: 2.11 EUR
 currency: EUR
 price: 2.11

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mUWikiR2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EW5FPXQ-es'
+slug: 'B00EW5FPXQ-es Nike Revolution 4  GS   Zapatillas de Running para Niños  Negro  Black/White-Anthracite 006   38 EU'
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ekkRrmI0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KVMT6M7-es'
+slug: 'B07KVMT6M7-es Xiaomi Redmi Note 8t Tim Blue 6.3" 4gb/64gb Dual Sim'
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

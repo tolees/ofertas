@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DMT0LoHxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KT5ZZ8L-es'
+slug: 'B07KT5ZZ8L-es DC-77 16MP 4X Zoom Videocámara Digital de Alta definición con cámara de Video de 2 4 Pulgadas Pantalla TFT LCD de 8GB Apagado automático'
 actualPrice: 15.13 EUR
 currency: EUR
 price: 15.13

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tspJWRitL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VOAY3LC-es'
+slug: 'B00VOAY3LC-es Croci C5055240 Flexi Design Cord  S  5M  Rosa'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

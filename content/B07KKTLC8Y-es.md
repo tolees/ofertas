@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31UVLOYX3TL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKTLC8Y-es'
+slug: 'B07KKTLC8Y-es Joseph Joseph Juego de Tablas para Cortar Index  tamaño Normal-Grafito  PP  TPR  Painted ABS  Multicolor  Rosa  Amarillo  Verde  Gris '
 actualPrice: 46.75 EUR
 currency: EUR
 price: 46.75

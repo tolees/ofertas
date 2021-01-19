@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410xr3bGF0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L97TVSW-es'
+slug: 'B07L97TVSW-es Under Armour Rival Fleece FZ Parte Superior del Calentamiento  Hombre  Gris  SM'
 actualPrice: 26.75 EUR
 currency: EUR
 price: 26.75

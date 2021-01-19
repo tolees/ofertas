@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417gwItnNxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZH6MQL-es'
+slug: 'B08CZH6MQL-es Rybozen 4 Puertos USB 3.0 Switch  Conmutador KVM USB 2 Entradas y 4 Salidas con 2 Cable USB para Compartir Teclado  Ratón  Disco Duro  Impresoras  Escánere'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

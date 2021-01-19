@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410cmRHcOBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGBBFF8-es'
+slug: 'B07KGBBFF8-es Puma Persist Xt Knit Zapatillas Deportivas para Interior Hombre   Puma Black-Puma White 03   44 EU  9.5 UK '
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+2pc05MmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W8UTRGS-es'
+slug: 'B00W8UTRGS-es Aura DVBT 50 Aquarius - Sintonizador de TV'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

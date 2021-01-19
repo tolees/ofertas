@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/611L9HFSagL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NGYYA0R-es'
+slug: 'B01NGYYA0R-es Dragon Quest Heroes II Explorer s Edition'
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

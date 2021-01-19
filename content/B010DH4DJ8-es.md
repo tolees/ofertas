@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3166Yl7EQlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010DH4DJ8-es'
+slug: 'B010DH4DJ8-es Zwilling Bela - Set de cubiertos de mesa  42 piezas  acero inoxidable  35 x 25 x 10 cm'
 actualPrice: 56.78 EUR
 currency: EUR
 price: 56.78

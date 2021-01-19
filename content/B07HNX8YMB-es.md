@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wc2Jk5S9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNX8YMB-es'
+slug: 'B07HNX8YMB-es Reloj - Menton Ezil - para - TMEUWA9333B01'
 actualPrice: 16.06 EUR
 currency: EUR
 price: 16.06

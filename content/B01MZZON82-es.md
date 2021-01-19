@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51a3S0B-x2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZZON82-es'
+slug: 'B01MZZON82-es shenky - Gorro caído - Diseño Vintage - Fantasía 2 - Talla única'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

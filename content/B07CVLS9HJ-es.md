@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4119lI0vo5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVLS9HJ-es'
+slug: 'B07CVLS9HJ-es Brunoko Plato para bebe con babero  Azul  - Plato Silicona para infantil con mantel individual - Ventosas antivuelco para tronas y sillines - Seguro en lavavajillas/microondas - Diseñado en España'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

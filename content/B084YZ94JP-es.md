@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DExuixzgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084YZ94JP-es'
+slug: 'B084YZ94JP-es Saco Silla Universal Rosy Fuentes en celeste gris'
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

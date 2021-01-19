@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AjtpNd5OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZTLLJ2-es'
+slug: 'B01LZTLLJ2-es GoPro AMCRU-001 - Lector de Tarjetas MicroSD Portátil con Conector Universal  Color Blanco'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FzJw60WyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VT2DCJ9-es'
+slug: 'B06VT2DCJ9-es Gorjuss Ladybird Santoro Set de Regalo - 2 Piezas'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

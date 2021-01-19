@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410WD0lybXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002CIR4CK-es'
+slug: 'B002CIR4CK-es Suunto Core - Reloj de exterior para todas las altitudes  sumergible  30 m   con altímetro y barómetro  esfera de composite  color negro'
 actualPrice: 122.34 EUR
 currency: EUR
 price: 122.34

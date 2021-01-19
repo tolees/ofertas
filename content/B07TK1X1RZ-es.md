@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51q0supCQTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TK1X1RZ-es'
+slug: 'B07TK1X1RZ-es Crema de Ojos Crema para los Ojos Contorno de Ojos Anti Edad Eye Cream Serum Contorno de Ojos Anti arrugas  Elimina la hinchazón  las ojeras  líneas finas y arrugas'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

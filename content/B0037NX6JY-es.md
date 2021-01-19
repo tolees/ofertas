@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YPZmmOpqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0037NX6JY-es'
+slug: 'B0037NX6JY-es Canon RC-6 - Mando a Distancia para cámaras Digitales Canon  Negro'
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

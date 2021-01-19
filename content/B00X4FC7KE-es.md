@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UgOR4jbRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X4FC7KE-es'
+slug: 'B00X4FC7KE-es Capicua - Preparado graso Especial para cocinar - 5 litros'
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

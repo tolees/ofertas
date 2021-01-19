@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oI6eTGrWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFVBT4Q-es'
+slug: 'B07QFVBT4Q-es L´Oreal París Dermo Expertise - Set de Regalo  Incluye Neceser + Crema de Día Anti-Arrugas Revitalift SPF 30  327 gr'
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IaNjKY19L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7P2XD8-es'
+slug: 'B01N7P2XD8-es Dragon Ball Super - Lanzador de energía Kamehameha  Bandai 35885 '
 actualPrice: 15.13 EUR
 currency: EUR
 price: 15.13

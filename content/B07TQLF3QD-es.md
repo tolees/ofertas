@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mSjmayc6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQLF3QD-es'
+slug: 'B07TQLF3QD-es ROMIX Esterilla Deporte  Antideslizante Extra Gruesa 10MM Ecológica Espuma Memoria Colchoneta de Yoga  No Tóxica  Látex y PVC Gratis Exercise Mat para Gimnasio Ejercicio Fitness Entrenamiento - Verde'
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

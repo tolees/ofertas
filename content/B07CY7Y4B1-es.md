@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o6n69iYjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CY7Y4B1-es'
+slug: 'B07CY7Y4B1-es Motorola Moto G6 Plus - Smartphone de 5.9"  procesador de Ocho nucleos a 2.2 GHz  Memoria Interna de 4GB  Doble Cámara Inteligente de 12 MP y 5 MP   Color Azul índigo'
 actualPrice: 192.8 EUR
 currency: EUR
 price: 192.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GMydbPdxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005MNRLIO-es'
+slug: 'B005MNRLIO-es APC Surge Arrest Essential - PL5B-DE - Regleta con protección contra subidas y picos de tensión compatible con PLC'
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

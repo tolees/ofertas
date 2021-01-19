@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ve0QQZqrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H7B9BL9-es'
+slug: 'B07H7B9BL9-es NETVIP Repetidor WiFi 300Mbit/s Wireless WiFi Extensor Repetidor Señal WiFi Punto de Acceso  2.4GHz  300Mbit/s  Amplificador de Cobertura Repetidor WiFi Inalámbrico  WPS  Puerto Ethernet  EU Enchufe '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

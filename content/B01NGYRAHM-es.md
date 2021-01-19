@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415JuWOHQOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NGYRAHM-es'
+slug: 'B01NGYRAHM-es Car&Gus Disfraz de Africano para Hombre'
 actualPrice: 21.34 EUR
 currency: EUR
 price: 21.34

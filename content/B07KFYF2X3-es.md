@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31vF0kV9r9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFYF2X3-es'
+slug: 'B07KFYF2X3-es PUMA Cilia  Zapatillas para Mujer  Black-Vineyard Wine-Sulphur White  36 EU'
 actualPrice: 33.78 EUR
 currency: EUR
 price: 33.78

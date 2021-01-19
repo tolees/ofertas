@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yMvcncIHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WWCM1Q-es'
+slug: 'B078WWCM1Q-es Silla de paseo Globetrotter de Maclaren: ligera  compacta y fácil de Maniobrar. Capota Extensible e impermeable con Fpu 50+ y asiento reclinable. incluye Burbuja para la lluvia. ¡Perfecta para viajar'
 actualPrice: 105.11 EUR
 currency: EUR
 price: 105.11

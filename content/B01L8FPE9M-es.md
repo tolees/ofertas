@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QbcjM7JiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L8FPE9M-es'
+slug: 'B01L8FPE9M-es EKU FASHION - Body - para bebé niño Gris Gris 80 cm'
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

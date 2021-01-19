@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N8lELvrkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZJ3BTM-es'
+slug: 'B07MZJ3BTM-es Superdry State Volley Swim SHO Bañador  Nero  Black 02a   XL para Hombre'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

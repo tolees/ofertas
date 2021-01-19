@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uaevSXixL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000JTIX3S-es'
+slug: 'B000JTIX3S-es MASTER LOCK Caja fuerte para llaves [Mediana] [Montaje mural] - 5401EURD - Caja de seguridad'
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

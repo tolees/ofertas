@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YNXOcNrUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDD9SF9-es'
+slug: 'B07NDD9SF9-es Ingenuity 11576-1 - Asiento elevador'
 actualPrice: 35.68 EUR
 currency: EUR
 price: 35.68

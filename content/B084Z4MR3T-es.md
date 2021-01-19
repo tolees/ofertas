@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fjgYZJUhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084Z4MR3T-es'
+slug: 'B084Z4MR3T-es XTI 49684 Deportivas XTI Hombre Deportivos Blanco 41'
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

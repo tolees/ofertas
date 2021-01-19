@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cQt2Of1XL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK9YSSW-es'
+slug: 'B07MK9YSSW-es Skechers GO Walk 5 APPRIZE  Zapatillas sin Cordones para Hombre  Gris  Charcoal Textile/Synthetic/White Trim Charcoal   41 EU'
 actualPrice: 22.11 EUR
 currency: EUR
 price: 22.11

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Kr5kDr5aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HLB8Q8Q-es'
+slug: 'B07HLB8Q8Q-es Apple iPhone XS Max  de 256GB  - Gris espacial'
 actualPrice: 929.65 EUR
 currency: EUR
 price: 929.65

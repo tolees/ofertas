@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bJXjYegfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018LLLUXU-es'
+slug: 'B018LLLUXU-es Tommy Hilfiger New ALY Belt Cinturón  Schwarz BLACK 090   105 para Hombre'
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

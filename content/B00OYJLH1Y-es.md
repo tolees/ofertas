@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31b-q70u6HL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OYJLH1Y-es'
+slug: 'B00OYJLH1Y-es Deportes Hera Ropa Ciclismo Perneras Térmicas Calentadores de Las piernas Medias de Invierno Ciclistas Hombre'
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

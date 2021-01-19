@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Rn9ZVXDJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBC5V43-es'
+slug: 'B07KBC5V43-es Tommee Tippee Sangenic Sistema avanzado para desechar pañales Twist & Click  Azul'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

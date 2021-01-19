@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DIjd0rzUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PCR85J3-es'
+slug: 'B07PCR85J3-es LotFancy 2PCS Rascadors para Gatos con Catnip para Cama y Sofá Almohadillas Rascadores para Gatos de Carton Reciclado Corrugado  20.5cm x 43cm '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t7H8ZbBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSKMMR5-es'
+slug: 'B07MSKMMR5-es Clarks Tri Path Mid  Zapatillas Altas para Hombre  Braun Tan Combi Tan Combi  41 EU'
 actualPrice: 74.76 EUR
 currency: EUR
 price: 74.76

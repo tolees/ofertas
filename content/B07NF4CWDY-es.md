@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a3YP8BETL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NF4CWDY-es'
+slug: 'B07NF4CWDY-es Olympus Objetivo M.Zuiko Digital ED 12-200 mm F3.5-6.3  Zoom estándar  Adecuado para Todas Las cámaras MFT  Modelos Olympus OM-D & Pen  Serie G de Panasonic   Negro'
 actualPrice: 669.99 EUR
 currency: EUR
 price: 669.99

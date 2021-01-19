@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UeVqgqDbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IBDVR4G-es'
+slug: 'B00IBDVR4G-es Remington Bodyguard BHT2000A - Afeitadora Corporal  Cuchillas de Titanio  Inalámbrica  Uso Seco y Mojado  Miniafeitadora de Láminas  Plata y Negro'
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

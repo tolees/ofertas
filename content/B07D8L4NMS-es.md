@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VcK9uXMkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D8L4NMS-es'
+slug: 'B07D8L4NMS-es Homyl - Candado antirrobo para Ordenador portátil con 2 Llaves'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

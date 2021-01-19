@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IHxZeSLEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJNXGD4-es'
+slug: 'B07JJNXGD4-es Columbia Caldorado III Outdry  Zapatillas de Running para Asfalto para Mujer  Gris  Graphite  Crown 053   39 EU'
 actualPrice: 52.33 EUR
 currency: EUR
 price: 52.33

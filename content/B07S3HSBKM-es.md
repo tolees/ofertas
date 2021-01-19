@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lo0QAIvcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3HSBKM-es'
+slug: 'B07S3HSBKM-es edc by Esprit 079cc1i006 suéter  Marrón  Taupe 5 244   Small para Mujer'
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

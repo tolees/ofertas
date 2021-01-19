@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418j-oHtE6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJZT3FZ-es'
+slug: 'B08DJZT3FZ-es MaNMaNing Protección 3 Capas Transpirables con Elástico para Los Oídos Pack 50 unidades 20200723-MANING-NM50  50  Niño '
 actualPrice: 5.34 EUR
 currency: EUR
 price: 5.34

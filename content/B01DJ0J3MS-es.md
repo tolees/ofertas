@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TKEn9ayPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DJ0J3MS-es'
+slug: 'B01DJ0J3MS-es 2 Linterna LED Acampada portátil luz Intermitente Exteriores-Brillante Magnética'
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41srHFfwYRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZFSQHK-es'
+slug: 'B07XZFSQHK-es Pistola de Calor  TACKLIFE Pistola de Aire Caliente 2000W  3 Temperatura Ajustable 50-600℃ con 9 Diales  4 Boquillas Diferentes  Velocidad del Viento 500L / Min  HGP74AC'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

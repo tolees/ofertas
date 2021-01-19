@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Sic5CInCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075TKXQLG-es'
+slug: 'B075TKXQLG-es VOVEES Theia – Contorno ojos – Emulsión Gel – 30 ml – Ácido Hialurónico – Argan – Aloe Vera – Betaglucano – Jojoba'
 actualPrice: 22.42 EUR
 currency: EUR
 price: 22.42

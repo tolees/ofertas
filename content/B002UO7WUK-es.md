@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jYs3QolNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002UO7WUK-es'
+slug: 'B002UO7WUK-es Playgro Set de Animales Rociadores Azul/Verde  8 figuras  Con Figuras Multicolores  Desde los 6 Meses  Dimensiones: 11cm  Azul/Verde  40076'
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

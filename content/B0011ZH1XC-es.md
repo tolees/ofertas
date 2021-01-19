@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PMDH7joML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0011ZH1XC-es'
+slug: 'B0011ZH1XC-es Nixon Reloj Analógico de Cuarzo para Hombre con Correa de Acero Inoxidable – A045-000 Gray'
 actualPrice: 70.01 EUR
 currency: EUR
 price: 70.01

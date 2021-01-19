@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xjZwG4qmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYTFHY1-es'
+slug: 'B01MYTFHY1-es Reloj Gusset Pocket Zeiger Steampunk Esqueleto Mecánico Cobre Estilo Gusset Retro Colgante Reloj de Bolsillo w351'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

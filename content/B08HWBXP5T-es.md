@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q7hDYB6cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HWBXP5T-es'
+slug: 'B08HWBXP5T-es Set 5 Transpirable En Verano Bandas Boca Nariz Protección Mujer y Hombre Lavables Reutilizables Másc de Adultos'
 actualPrice: 2.63 EUR
 currency: EUR
 price: 2.63

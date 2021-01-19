@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51V8HBOqocL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTT2GJJ-es'
+slug: 'B07TTT2GJJ-es Women s Secret Cotton Print Black Flower Braguita brasileña  Multicolor  Hielo 94    Tamaño del Fabricante: S  para Mujer'
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

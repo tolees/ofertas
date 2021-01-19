@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QEydtPY0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DZW8LBS-es'
+slug: 'B07DZW8LBS-es Levi s Turner  Zapatillas para Hombre  Negro  R Black 159   39 EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

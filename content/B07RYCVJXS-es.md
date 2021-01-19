@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411wNAF3x9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYCVJXS-es'
+slug: 'B07RYCVJXS-es LIGHTAILING Conjunto de Luces  Creator Expert Ford Mustang  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 10265  NO Incluido en el Modelo '
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

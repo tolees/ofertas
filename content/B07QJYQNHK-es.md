@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BbuhwbS9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJYQNHK-es'
+slug: 'B07QJYQNHK-es Digital Mini Timer Loud Alarm Clock Self Standing Magnetic Kitchen Timer Countdown para Uso en la Cocina del Hogar'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

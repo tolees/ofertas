@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vG5JO8LBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R9FHKDK-es'
+slug: 'B07R9FHKDK-es JACK & JONES Jfwduston PU Combo  Botas Chukka para Hombre  Marrón  Java Java   42 EU'
 actualPrice: 14.94 EUR
 currency: EUR
 price: 14.94

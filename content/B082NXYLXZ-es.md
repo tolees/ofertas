@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61w4MVrEYcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NXYLXZ-es'
+slug: 'B082NXYLXZ-es MEGALITH Relojes Hombre Relojes de Pulsera Militar Elegante Esqueleto Automatico Mecanicos Acero Inoxidable Reloj de Analogicos Clasicos Impermeable Diseño'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

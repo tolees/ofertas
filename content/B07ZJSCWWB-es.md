@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412jxKaa3uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJSCWWB-es'
+slug: 'B07ZJSCWWB-es MotoGP19 - Deluxe Edition'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

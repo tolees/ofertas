@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JTxOQbOsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K782NVX-es'
+slug: 'B07K782NVX-es Funrise Collectible Character Set Figuras Wonder Park 10 cm Pack 5 unds  Multicolor  tamaño único  31034 '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

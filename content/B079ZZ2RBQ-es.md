@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4167AWAU%2B4L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZZ2RBQ-es'
+slug: 'B079ZZ2RBQ-es VAIRO Short Columns XXL'
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

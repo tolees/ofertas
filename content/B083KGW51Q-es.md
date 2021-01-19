@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Fbymx+Y2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083KGW51Q-es'
+slug: 'B083KGW51Q-es Silla de Cocina/Comedor de diseño nórdico-Scandi  Inspiración Silla Tower - Turquesa 90094'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

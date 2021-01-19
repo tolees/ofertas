@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415YH6iKAkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BN7XGBO-es'
+slug: 'B00BN7XGBO-es Lactacyd Gel de Higiene Íntima Diario  Ph Equilibrado  sin Jabón  400 ml'
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

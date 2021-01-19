@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31J9HlrB9iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB6ZCZ7-es'
+slug: 'B07HB6ZCZ7-es Nike Wmns Free RN 5.0  Zapatillas de Atletismo para Mujer  Multicolor  Black/White/Anthracite/Volt 000   37.5 EU'
 actualPrice: 58.26 EUR
 currency: EUR
 price: 58.26

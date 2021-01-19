@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cw8lI+OIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZPHGMQ-es'
+slug: 'B07NZPHGMQ-es 3D Antifaz para Dormir  METALBAY Ojos Máscara de Poliéster con Velcro Ajustable Ultra Ligero y Anti-luz para Viaje  Oficina y Hogar  Negro'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

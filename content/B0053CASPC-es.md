@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51erReMLDEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0053CASPC-es'
+slug: 'B0053CASPC-es Terminator Salvation [DVD]'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

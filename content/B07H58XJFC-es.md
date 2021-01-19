@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j+IjOTNlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H58XJFC-es'
+slug: 'B07H58XJFC-es YanBan Cabezal de cepillo de dientes para Oral B cabezales de cepillo de dientes de repuesto  compatible con Oral-B  para cepillo de dientes eletrico Braun recargable  Cross and action'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

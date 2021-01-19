@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515WM2PAnUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0828YQL2N-es'
+slug: 'B0828YQL2N-es VEELU Manta Personalizada Mantas de Lana de Collage de Fotos Personalizadas Cálidas de Invierno - Regalos de Foto de Cumpleaños de Boda Bebé Pareja Sofá Cama 152 x 203cm'
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95

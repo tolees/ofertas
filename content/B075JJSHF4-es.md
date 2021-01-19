@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519vMOV4mGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075JJSHF4-es'
+slug: 'B075JJSHF4-es Fujifilm X-E3 - Cámara Evil de 24.3 MP y kit cuerpo con objetivo Fujinon XF 18-55 mm  color plata'
 actualPrice: 698.0 EUR
 currency: EUR
 price: 698.0

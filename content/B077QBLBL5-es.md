@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414DZpnTtoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077QBLBL5-es'
+slug: 'B077QBLBL5-es cuzit fútbol árbitro temporizador deportes Match Juego Reloj de pulsera cronógrafo de fútbol equipo Racing Carrera alarma multifunción digital cuenta atrás cronómetro para hombre TF7301'
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

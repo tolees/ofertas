@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hT9JTHVpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTM1XGR-es'
+slug: 'B06XTM1XGR-es Pepe Jeans Original Basic L/S  Top de Manga Larga Para Hombre  Gris  Grey Marl   XX-Large'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Bya1iU2qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXTT7WB-es'
+slug: 'B07YXTT7WB-es FITTOO Leggings Sin Costuras Mujer Pantalon Deportivo Alta Cintura Yoga Elásticos Fitness SeamlessGP1600#1 Negro Medium'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

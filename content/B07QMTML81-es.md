@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ip1hDwlSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QMTML81-es'
+slug: 'B07QMTML81-es Asics Gel-Quantum Infinity  Zapatillas de Running para Hombre  Azul  Electric Blue/Black 400   43.5 EU'
 actualPrice: 58.73 EUR
 currency: EUR
 price: 58.73

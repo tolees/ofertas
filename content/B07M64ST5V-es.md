@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e3Sgtzz9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M64ST5V-es'
+slug: 'B07M64ST5V-es Nike Wmns Air Heights  Zapatillas de Running para Asfalto para Mujer  Negro  Black/Black 001   38.5 EU'
 actualPrice: 31.72 EUR
 currency: EUR
 price: 31.72

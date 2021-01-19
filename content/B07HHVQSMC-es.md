@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ut9tGKoyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHVQSMC-es'
+slug: 'B07HHVQSMC-es Wartoon 24Pack que esculpe las herramientas con la bolsa reutilizable para el arte de cerámica del arte de cerámica de la arcilla de polímero'
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

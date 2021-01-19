@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E2u19ch5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08532VWTV-es'
+slug: 'B08532VWTV-es Mesa de aleación de aluminio de 35 mm Abrazadera de banco Abrazadera de tornillo de mesa Mini tornillo de mesa Tornillo para herramienta de reparación fija de molde artesanal DIY - Plata'
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

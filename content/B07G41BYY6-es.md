@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JI6NQg0hL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G41BYY6-es'
+slug: 'B07G41BYY6-es iGutech Planchas de Pelo de Vapor Plancha de pelo de cerámica turmalina y spray  acción iónica con ajustes de temperatura  anti escaldadura'
 actualPrice: 48.75 EUR
 currency: EUR
 price: 48.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zuayQIJJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CFRGQK-es'
+slug: 'B076CFRGQK-es Samsonite 93057-1820 maletines para portátil 39 6 cm  15.6"  Maletín Azul - Funda  Maletín  39 6 cm  15.6"   600 g  Azul '
 actualPrice: 35.09 EUR
 currency: EUR
 price: 35.09

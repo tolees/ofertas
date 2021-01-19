@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21gAIpCF17L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLR8ZGP-es'
+slug: 'B07DLR8ZGP-es Béaba - Vaso silicona  unisex  color azul'
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

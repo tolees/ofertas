@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FjbJmq+qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTQ7R5F-es'
+slug: 'B07CTQ7R5F-es Bolsas de plástico transparentes que se pueden volver a sellar  bolsa de cierre de cremallera reutilizable fuerte  engrosamiento y duradero  prensa para cerrar  8x12cm 240PCS'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

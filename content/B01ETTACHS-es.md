@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yYy4AT9DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ETTACHS-es'
+slug: 'B01ETTACHS-es biManán - beSLIM - Sustitutivos para Adelgazar - Plan de Emergencia 3 días - 15 batidos 660 gr'
 actualPrice: 22.18 EUR
 currency: EUR
 price: 22.18

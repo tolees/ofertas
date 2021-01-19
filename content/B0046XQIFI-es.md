@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YXUhNJWCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0046XQIFI-es'
+slug: 'B0046XQIFI-es GLOBE Sabre  Zapatillas de Skateboarding para Hombre  Negro  Black/Moto Green   43 EU'
 actualPrice: 79.34 EUR
 currency: EUR
 price: 79.34

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EqpILPFqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017J51RYQ-es'
+slug: 'B017J51RYQ-es Nobleza - 50 x Empapadores Perros Alfombrilla higiénica de Entrenamiento para Perros. Ultraabsorbente 40cm*60cm.'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

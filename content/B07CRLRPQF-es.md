@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ux6qCW7dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CRLRPQF-es'
+slug: 'B07CRLRPQF-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero F20351/1'
 actualPrice: 91.48 EUR
 currency: EUR
 price: 91.48

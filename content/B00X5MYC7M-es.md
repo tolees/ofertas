@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cUR9bh+NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X5MYC7M-es'
+slug: 'B00X5MYC7M-es Desigual Dark Fresh 100ml'
 actualPrice: 14.02 EUR
 currency: EUR
 price: 14.02

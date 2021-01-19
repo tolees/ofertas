@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HImJA3cgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT6ZT78-es'
+slug: 'B07TT6ZT78-es Levi s Graphic Sport Capucha  Blanco  Hoodie Filled Brw T2 White+ 0119   XS para Mujer'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

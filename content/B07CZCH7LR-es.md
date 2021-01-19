@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31CosvluyjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZCH7LR-es'
+slug: 'B07CZCH7LR-es Under Armour UA Launch Sw 2-In-1 Short Pantalones Cortos  Hombre  Gris  Pitch Gray/Mod Gray/Reflective 012   L'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

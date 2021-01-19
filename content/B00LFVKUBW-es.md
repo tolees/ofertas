@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rejufwhXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LFVKUBW-es'
+slug: 'B00LFVKUBW-es Luminarc Set 6 Piezas Modelo Fiesta Combinados Juegos de cristalería  Vidrio sodo  71 5 cl  26 cm'
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

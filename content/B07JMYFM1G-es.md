@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414640zgTpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMYFM1G-es'
+slug: 'B07JMYFM1G-es Adidas ASWEERUN Zapatillas de deporte Hombre  Negro  Negbás/Ftwbla/Grisei 000   42 EU'
 actualPrice: 29.87 EUR
 currency: EUR
 price: 29.87

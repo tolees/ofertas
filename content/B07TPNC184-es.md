@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YeFSPOfZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPNC184-es'
+slug: 'B07TPNC184-es Legami - Agenda semanal de 12 meses - Tema Take It Easy - Agenda 2020 de espiral Edición Limitada  color Air Balloon SMALL'
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

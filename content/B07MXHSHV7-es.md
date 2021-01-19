@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qH04UY2TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXHSHV7-es'
+slug: 'B07MXHSHV7-es Tommy Hilfiger Thong Tanga  Gris  Grey Heather 004   X-Small para Mujer'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

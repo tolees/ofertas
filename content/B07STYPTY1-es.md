@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xPSvKOS3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STYPTY1-es'
+slug: 'B07STYPTY1-es NWOUIIAY Compresor de Aire Portátil 150PSI 35L/Min Bomba Aire Coche 120W 12.6V Recargable 2 000mAh Automático con LCD Pantalla Digital y LED Luz Apto para Neumáticos de Coche Moto Bicicleta'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

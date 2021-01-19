@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y+ZhuB4TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07599YQKW-es'
+slug: 'B07599YQKW-es Funko Pop!- James Bond Sean Connery Figura de Vinilo  24704 '
 actualPrice: 8.52 EUR
 currency: EUR
 price: 8.52

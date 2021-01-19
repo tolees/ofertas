@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i4+g4+7LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3NVM2Y-es'
+slug: 'B07L3NVM2Y-es [2020 Versión Mejorada] Ewadoo 79mm de Diámetro Diseño Engrosado Acero Inoxidable Fregadero de Cocina Colador de Cesta Tapón de Desagüe-Adecuado para Desagüe de Fregadero de 79~80mm de Diámetro'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

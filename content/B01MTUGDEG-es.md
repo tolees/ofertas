@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ljy1cye3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTUGDEG-es'
+slug: 'B01MTUGDEG-es ION FITNESS CORSA T1 FI6140 Cinta de correr'
 actualPrice: 339.0 EUR
 currency: EUR
 price: 339.0

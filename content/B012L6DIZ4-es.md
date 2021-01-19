@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q-6puHbBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012L6DIZ4-es'
+slug: 'B012L6DIZ4-es L Oreal Majirouge Absolu Tinte Permanente 8.43 - 50 ml'
 actualPrice: 10.69 EUR
 currency: EUR
 price: 10.69

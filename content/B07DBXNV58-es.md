@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eIvdu+uBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBXNV58-es'
+slug: 'B07DBXNV58-es Anker Cargador inalámbrico rápido  Soporte de Carga inalámbrico rápido 7.5W / 10W / 5W para iPhone  Samsung para iPhone XR/XS MAX/XS/X / 8  Galaxy S9/ S9 + / S8 Adaptador de CA no Incluido '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

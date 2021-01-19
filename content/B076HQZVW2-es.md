@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eSXjcUfsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HQZVW2-es'
+slug: 'B076HQZVW2-es Adidas CORE18 SW PNT Pantalones de Deporte  Hombre  Negro  Negro/Blanco   XL'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

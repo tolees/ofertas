@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KZHe9TxdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DGV7UW0-es'
+slug: 'B01DGV7UW0-es Fantasy Flight Games- Star Wars Imperial Assault  R2D2 y C3PO  Color  Edge Entertainment EDGSWI12 '
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

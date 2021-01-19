@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417yxnwj2IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XQTYRC4-es'
+slug: 'B06XQTYRC4-es HUAWEI 02452312 - Cargador de Coche Dual USB  Super Charge 2A o 4.5A + 1A '
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

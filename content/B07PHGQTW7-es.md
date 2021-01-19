@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31smccC-egL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHGQTW7-es'
+slug: 'B07PHGQTW7-es Rieker Herbst/Winter  Botas Clasicas para Hombre  Negro  Schwarz/Granit/Schwarz/Schwarz 01   40 EU'
 actualPrice: 38.51 EUR
 currency: EUR
 price: 38.51

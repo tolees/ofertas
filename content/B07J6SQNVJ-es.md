@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IyMMIHBeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6SQNVJ-es'
+slug: 'B07J6SQNVJ-es Pop! Star vs. The Forces of Evil - Figura de Vinilo Ludo Avario'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

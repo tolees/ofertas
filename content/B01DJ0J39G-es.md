@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/510EYmrP8xL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DJ0J39G-es'
+slug: 'B01DJ0J39G-es EMPO El Apoyo de Abrazadera de Rodilla Carreras - Totalmente Ajustable  Unisex - Neopreno Buena Compresión Deportiva con el diseño Anti resbalón único y Fuerte'
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

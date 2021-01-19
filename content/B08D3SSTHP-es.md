@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yI6KFifiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3SSTHP-es'
+slug: 'B08D3SSTHP-es Panamar Nuevo Cable de Cargador de batería de sincronización de Datos USB rápido para Samsung Galaxy Tablet Cable de Datos de sincronización USB portátil Negro - Negro'
 actualPrice: 1.05 EUR
 currency: EUR
 price: 1.05

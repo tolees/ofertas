@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nV8WzM19L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ84G4-es'
+slug: 'B07MZQ84G4-es Pepe Jeans London Zion Mesh  Zapatillas para Mujer  Black 999  39 EU'
 actualPrice: 36.53 EUR
 currency: EUR
 price: 36.53

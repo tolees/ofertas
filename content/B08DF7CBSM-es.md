@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IPi3bnC6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DF7CBSM-es'
+slug: 'B08DF7CBSM-es ADJU Muñeca Flip Octopus de Doble Cara  Lindo Pulpo Reversible Peluches Pulpo Reversible Peluches Muñeca niños  Familiares  Amigos'
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

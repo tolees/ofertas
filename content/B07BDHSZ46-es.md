@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WDH-WeoNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDHSZ46-es'
+slug: 'B07BDHSZ46-es Clean Pulse One - Irrigador bucal - Higiene Dental Profesional 10 Niveles de presión  7 Boquillas con estuche y Depósito 600 ml. Recomendado por dentistas y médicos especialistas'
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

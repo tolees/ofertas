@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yyEexeMWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFNT3S3-es'
+slug: 'B07PFNT3S3-es New Balance 997h  Zapatillas para Hombre  Verde  Green Green   36 EU'
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

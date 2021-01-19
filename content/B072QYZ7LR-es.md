@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kry3YFf-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072QYZ7LR-es'
+slug: 'B072QYZ7LR-es Pinza Digital Multímetro  Meterk Medida Amperímetro Ohmímetro con Corriente y Voltaje CA/CC NCV  4000 cuentas  Ciclo de Trabajo  Prueba de Diodo  Auto o Manual Alcance'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

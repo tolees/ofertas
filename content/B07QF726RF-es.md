@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ts7SXjuBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QF726RF-es'
+slug: 'B07QF726RF-es Cajas Bonitas Para Regalo Caja de Regalo Juego de 100 Cajas de Papel Natural para Bodas  Fiestas y Dulces'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

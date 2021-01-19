@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51b1-kcPYAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGLK9V3-es'
+slug: 'B07DGLK9V3-es Oral-B Genius 10000N Sensi Ultrathin - Cepillo Eléctrico  1 Blanco Mango Conectado  6 Modos Blanqueado  Sensible  Encías  4 Cabezales  Funda de Viaje con Puerto USB'
 actualPrice: 177.78 EUR
 currency: EUR
 price: 177.78

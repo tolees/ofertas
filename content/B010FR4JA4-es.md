@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31dPBXfUYeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B010FR4JA4-es'
+slug: 'B010FR4JA4-es New Balance Wx624Wb4 - entrenamiento/correr de cuero mujer  Blanco  White/Blue   36.5 EU  4 UK '
 actualPrice: 26.32 EUR
 currency: EUR
 price: 26.32

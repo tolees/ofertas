@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DXC4f7r5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5PBJ5B-es'
+slug: 'B07R5PBJ5B-es Funwaretech Ratón inalámbrico con Receptor Nano Ratones ópticos Verticales ergonómicos Recargables con dpi Ajustable 800/1200/1600/2400 para computadora portátil  Mac  Macbook Pro  Chromebook  Negro '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

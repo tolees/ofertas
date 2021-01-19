@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21MpgthEMiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJHNGSY-es'
+slug: 'B07NJHNGSY-es Brabantia Tasty + Espátula repostería de silicona  color fir green'
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oS4PNia4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071GV16VQ-es'
+slug: 'B071GV16VQ-es Funko Pop! - Figura de Vinilo Raiden  21711 '
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

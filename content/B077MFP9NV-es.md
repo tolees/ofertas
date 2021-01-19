@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412ywhvw8ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MFP9NV-es'
+slug: 'B077MFP9NV-es AEG LX7-2-EB-P Aspiradora de Trineo Sin Bolsa  Gran Filtración Depósito de 1.4L  Fácil Vaciado Radio de acción de 9 m 72dB de Ruido Cepillo Suelos Duros  Parquet  750 W Negro'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

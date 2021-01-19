@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tUF53Q-ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003AK3XA6-es'
+slug: 'B003AK3XA6-es RÖSLE 12844 - Soplete flambeador'
 actualPrice: 34.36 EUR
 currency: EUR
 price: 34.36

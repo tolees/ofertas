@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41N-oqCPhoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG4LGNJ-es'
+slug: 'B07HG4LGNJ-es New Balance 247v2  Zapatillas para Hombre  Plateado  Steel Steel   37 EU'
 actualPrice: 36.03 EUR
 currency: EUR
 price: 36.03

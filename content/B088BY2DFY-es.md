@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UnJq1NuwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BY2DFY-es'
+slug: 'B088BY2DFY-es Slabo Protector de Pantalla Privacy para Realme 6 Pro protección contra Las miradas View Protection Negro'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411BF57fD9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUEDDGL-es'
+slug: 'B01MUEDDGL-es Bestway 43140 - Isla Hinchable Sandía Φ188 cm'
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417ANG73PsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9NSPL8-es'
+slug: 'B07V9NSPL8-es Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Azul  Navy Blazer   XX-Large para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

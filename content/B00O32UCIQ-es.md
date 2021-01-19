@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kPghP7M7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O32UCIQ-es'
+slug: 'B00O32UCIQ-es Bourjois Velvet Barra de Labios Líquida Tono 09 Happy Nude Year - 23 gr'
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

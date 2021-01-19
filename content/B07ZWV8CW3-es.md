@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511n4lJMTcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZWV8CW3-es'
+slug: 'B07ZWV8CW3-es KuGi. para Xiaomi Mi Note 10 Protector de Pantalla  TPU Suave Alta Definicion Protector de Pantalla Diseñado para Xiaomi Mi Note 10. Transparente 2 Piezas '
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

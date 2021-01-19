@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y1kQAc1vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X6JJWQF-es'
+slug: 'B06X6JJWQF-es HelpCuisine Salvamanteles/Agarrador de ollas/salvamanteles para ollas/Salvamanteles redondos/reposacucharas de silicona alimentaria 100%  Juego de 4 manteles: azul  rojo  amarillo y verde'
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

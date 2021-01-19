@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GgwDxdG+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001TJ4GPQ-es'
+slug: 'B001TJ4GPQ-es Kärcher Set completo  1/2"  de 20metros con pistola de riego  2.645-115.0 '
 actualPrice: 27.18 EUR
 currency: EUR
 price: 27.18

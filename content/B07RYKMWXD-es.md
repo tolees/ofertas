@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uTbP+mnPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYKMWXD-es'
+slug: 'B07RYKMWXD-es Taurus Mycook Touch Black Edition  1600 W  2 litros  0 Decibelios  Plástico|Acero Inoxidable  10 Velocidades  Negro'
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

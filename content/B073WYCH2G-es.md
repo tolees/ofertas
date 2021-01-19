@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Yy6EhI4vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073WYCH2G-es'
+slug: 'B073WYCH2G-es Rimmel London WonderWing Eyeliner Delineador de Ojos Tono 1-7 95 gr'
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

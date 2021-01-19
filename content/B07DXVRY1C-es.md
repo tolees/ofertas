@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PwBW-1lJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXVRY1C-es'
+slug: 'B07DXVRY1C-es Camiseta/UNDER ARMOUR:FOUNTATION XL'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

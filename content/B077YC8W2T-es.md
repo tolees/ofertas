@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sc-IwQGsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YC8W2T-es'
+slug: 'B077YC8W2T-es CRZ YOGA Sujetador Deportivo Yoga para Mujer Ejercicio Fitness Ropa Interior Blanco M'
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

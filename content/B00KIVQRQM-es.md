@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313T9I+KRuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KIVQRQM-es'
+slug: 'B00KIVQRQM-es Dr Irena Eris Crema Contorno Ojos Anti-Arrugas 45+ - 15 ml'
 actualPrice: 21.3 EUR
 currency: EUR
 price: 21.3

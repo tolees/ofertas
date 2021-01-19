@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411d68Od2sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ1NMZ8-es'
+slug: 'B07TZ1NMZ8-es KiplingBaroeMujerMonederosNegro  Carbon Metallic  20.5x10x7.5 Centimeters  B x H x T '
 actualPrice: 8.35 EUR
 currency: EUR
 price: 8.35

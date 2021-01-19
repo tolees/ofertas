@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+1cHtLqCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072Q1CMX9-es'
+slug: 'B072Q1CMX9-es Adidas Vs Pace  Zapatillas para Hombre  Gris  Grey/Core Black/Footwear White 0   45 1/3 EU'
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

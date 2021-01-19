@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JXbK2yRGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVC92WR-es'
+slug: 'B07JVC92WR-es Under Armour  UNDKU Armour Heatgear Sujetador Deportivo  Niñas  Negro  YLG'
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

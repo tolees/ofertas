@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41E0hcdUAKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6EBCUL-es'
+slug: 'B01N6EBCUL-es Columbia Childrens FirecampTM Sledder II WP  Zapatillas de Senderismo  Impermeable para Niños  Azul  Collegiate Navy  Ginkgo   25 EU'
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

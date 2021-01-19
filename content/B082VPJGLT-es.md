@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415j+hbje0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VPJGLT-es'
+slug: 'B082VPJGLT-es Nivea Men Deep Control - Exfoliante antiespinillas y gel de lavado  75 ml'
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

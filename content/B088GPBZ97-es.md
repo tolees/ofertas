@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D-78+bhLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088GPBZ97-es'
+slug: 'B088GPBZ97-es PRUNUS J-777 Radio de Transistor portátil  FM/Am Mini Pocket Radio con Auriculares. Batería con Pilas 2 AAA para Correr  Caminar y Viajar.  Blanco '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

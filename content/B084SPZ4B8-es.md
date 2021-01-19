@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pCc20XH2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084SPZ4B8-es'
+slug: 'B084SPZ4B8-es Cómodo Cintura Media Verano Mujeres Hombres Casual algodón Mezclado Playa Pantalones Cortos Cinco Sub Pantalones Pretina puños elásticos - Gris - l'
 actualPrice: 4.14 EUR
 currency: EUR
 price: 4.14

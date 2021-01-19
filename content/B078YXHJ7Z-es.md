@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41s272NLg6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YXHJ7Z-es'
+slug: 'B078YXHJ7Z-es Calzoncillo tanga sexi sensual erotico para hombres. TALLA ÚNICA. Practica juegos sexuales con tu pareja.Accesorio ideal para despedida de solteros solteras'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

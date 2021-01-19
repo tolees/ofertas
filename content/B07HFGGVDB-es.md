@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tGnBtQaqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFGGVDB-es'
+slug: 'B07HFGGVDB-es Smilodox Power - Pantalones de chándal para hombre  para deporte  gimnasio  entrenamiento y ocio  pantalones largos antracita XXXL'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

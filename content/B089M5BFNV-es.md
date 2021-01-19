@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414MuwQ07OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089M5BFNV-es'
+slug: 'B089M5BFNV-es Timbre Inalámbrico para Puerta  300M IP55 Impermeable con LED Flash Timbre Impermeable de 110dB súper ruidoso  timbre de la puerta frontal de radio  5 Niveles de Volumen  38 Melodías'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YC46I6iZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ8LZJT-es'
+slug: 'B08DJ8LZJT-es Cámara Web de 1 Pieza Cámara Web Full HD 480P Cámara de transmisión de Video en Vivo con micrófono Digital estéreo - Negro'
 actualPrice: 3.22 EUR
 currency: EUR
 price: 3.22

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MJRcUSnpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008RWQ2MS-es'
+slug: 'B008RWQ2MS-es Aphro Celina® PESTAÑAS SUERO - para el crecimiento activo de las pestañas de 3 ml'
 actualPrice: 24.73 EUR
 currency: EUR
 price: 24.73

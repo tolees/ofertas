@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HnbZWNHaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NX3RKYT-es'
+slug: 'B07NX3RKYT-es Igi&Co Uomo Gore-Tex-41173  Zapatillas Altas para Hombre  Azul  Notte 4117322   40 EU'
 actualPrice: 34.86 EUR
 currency: EUR
 price: 34.86

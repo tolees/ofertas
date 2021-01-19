@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21lNZ2e0rUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IDLP6SI-es'
+slug: 'B01IDLP6SI-es BATH+ by Cosmic Espejo B-Box  50 x 80 cm'
 actualPrice: 38.85 EUR
 currency: EUR
 price: 38.85

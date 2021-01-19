@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VS4brCRcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XMW2WY-es'
+slug: 'B005XMW2WY-es DIM Generous Sujetador  Negro  100E para Mujer'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

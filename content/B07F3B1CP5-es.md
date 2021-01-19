@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y5N8hdCqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3B1CP5-es'
+slug: 'B07F3B1CP5-es adidas M Pantalones Cortos de Deporte  Hombre  zne htr/Black'
 actualPrice: 29.6 EUR
 currency: EUR
 price: 29.6

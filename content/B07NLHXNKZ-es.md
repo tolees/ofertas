@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-JUkiilyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLHXNKZ-es'
+slug: 'B07NLHXNKZ-es Versace Jeans CoutureBorsaMujerShoppers y bolsos de hombroNegro  899+101  42x29x13 centimeters  W x H x L '
 actualPrice: 83.38 EUR
 currency: EUR
 price: 83.38

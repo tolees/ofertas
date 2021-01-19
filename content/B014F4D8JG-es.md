@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IN7f5E43L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014F4D8JG-es'
+slug: 'B014F4D8JG-es Hangqiao - Rallador de wasabi  ajo  gengibre  herramientas de cocina  acero inoxidable.'
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

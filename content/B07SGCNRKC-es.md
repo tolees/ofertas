@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jotgfXypL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGCNRKC-es'
+slug: 'B07SGCNRKC-es Asics Lyte Classic  Zapatillas para Correr para Hombre  Black/White  44 EU'
 actualPrice: 34.86 EUR
 currency: EUR
 price: 34.86

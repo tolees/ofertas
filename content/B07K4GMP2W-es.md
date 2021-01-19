@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JrBG9t8WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4GMP2W-es'
+slug: 'B07K4GMP2W-es Reloj Viceroy Hombre 42367-16 Colección Antonio Banderas'
 actualPrice: 92.07 EUR
 currency: EUR
 price: 92.07

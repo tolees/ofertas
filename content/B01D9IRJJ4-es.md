@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UgHhC-T1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D9IRJJ4-es'
+slug: 'B01D9IRJJ4-es BQAN 1Pc Acrylic Nail Art Brush With Pink Rhinestone Handle Pure Kolinsky Hair Nail Tools #10 by BQAN'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

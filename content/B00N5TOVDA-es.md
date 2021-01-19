@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yPREr+k6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N5TOVDA-es'
+slug: 'B00N5TOVDA-es Braun Face 831 Beauty Edition - Cepillo de limpieza facial y depiladora facial con espejo iluminado y neceser'
 actualPrice: 37.8 EUR
 currency: EUR
 price: 37.8

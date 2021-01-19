@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rISEvoHbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJ6FFBX-es'
+slug: 'B07KJ6FFBX-es Love Moschino Jc4094pp18lp0000  Bolsa de mensajero Unisex Adulto  Negro  Nero   17x7x26 centimeters  W x H x L '
 actualPrice: 95.85 EUR
 currency: EUR
 price: 95.85

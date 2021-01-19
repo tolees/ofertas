@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Zt3xbbW4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C1SJSC7-es'
+slug: 'B07C1SJSC7-es Parker Jotter - Pluma estilográfica  cuerpo de acero inoxidable con adorno cromado  plumín mediano y tinta azul  en estuche de regalo'
 actualPrice: 18.88 EUR
 currency: EUR
 price: 18.88

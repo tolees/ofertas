@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D7NYwab+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VX6U99W-es'
+slug: 'B00VX6U99W-es Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15  #320 True Beige  30ml'
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

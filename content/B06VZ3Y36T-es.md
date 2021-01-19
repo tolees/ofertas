@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-Qtt3sa4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VZ3Y36T-es'
+slug: 'B06VZ3Y36T-es Joma Tokio II Pantalones Cortos  Hombre   Morado/Blanco   L'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

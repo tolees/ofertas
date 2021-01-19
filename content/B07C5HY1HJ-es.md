@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tfMPxMOmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5HY1HJ-es'
+slug: 'B07C5HY1HJ-es Polaroid Originals - 9008 - Nuevo One Step 2 ViewFinder - Cámaras Instantáneas i-Type - Blanco'
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

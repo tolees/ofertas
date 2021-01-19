@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+M+8cW+7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZXWKQR-es'
+slug: 'B06ZZXWKQR-es Botellas de Agua de Cristal - Set de 6 Botellas Reutilizables de Vidrio sin BPA con Funda de Nailon y Tapa a Prueba de Fugas Para Batidos  Zumos  Té y Otras Bebidas Para Adultos y Niños - 6 x 500 ml'
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-Hf64h7LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RD1MPYD-es'
+slug: 'B07RD1MPYD-es Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón  Rosa  Pink Tf4   Large Unisex Adulto'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

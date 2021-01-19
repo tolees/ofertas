@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319mxCpcGZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW47YM2-es'
+slug: 'B07KW47YM2-es Moliies W50L-5DB 802.11 AC 1200M 2.4G / 5.8G Adaptador inalámbrico de Banda Dual USB 3.0 WiFi'
 actualPrice: 12.05 EUR
 currency: EUR
 price: 12.05

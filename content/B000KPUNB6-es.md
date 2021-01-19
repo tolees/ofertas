@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aHHWibTXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KPUNB6-es'
+slug: 'B000KPUNB6-es Braun Clean&Renew Cartuchos de recarga para afeitadora eléctrica hombre  2 unidades  compatibles con todos los centros SmartCare Y Clean&Charge'
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

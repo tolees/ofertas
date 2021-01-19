@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a+8P2V-zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0012X8OLQ-es'
+slug: 'B0012X8OLQ-es Revlon Nutri Color Creme Tinte 513-270 ml'
 actualPrice: 12.64 EUR
 currency: EUR
 price: 12.64

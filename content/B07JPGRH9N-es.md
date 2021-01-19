@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51I1yFFCAXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPGRH9N-es'
+slug: 'B07JPGRH9N-es Under Armour Men s Truckstop Beanie 2.0 Gorrita  Hombre  Rojo  OSFA'
 actualPrice: 13.86 EUR
 currency: EUR
 price: 13.86

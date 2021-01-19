@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YJaPBcgkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLDKNL2-es'
+slug: 'B07MLDKNL2-es Cabezal de Ducha con 5 Modos de Spray con Manguera de Ducha de 1.5 M  Alta Presión y Ahorro de Agua Alcachofa Ducha  Cabezal de Ducha Universal  Fácil de Limpiar e Instalar.'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

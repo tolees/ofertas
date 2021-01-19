@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51f9z8v6doL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBTTCNG-es'
+slug: 'B07KBTTCNG-es LIGHTAILING Conjunto de Luces  Star Wars Estrella De La Muerte  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 10188  NO Incluido en el Modelo '
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

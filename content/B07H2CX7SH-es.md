@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EdNEIYkML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2CX7SH-es'
+slug: 'B07H2CX7SH-es TiaoBug 4Pcs Disfraz de Anime Mujer Cosplay de Marinero Chica Mujer para Fiesta Halloween Carnaval Actuación Cumpleaños Fotografía Morado Medium'
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

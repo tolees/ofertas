@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CmGNEg8xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5MY9DS-es'
+slug: 'B07W5MY9DS-es Bovon Brazalete Movil Running  Brazalete Deportivo Movil con Rotación 360°  Porta Movil Ajustable Universal para Gimnasio/Senderismo  Compatible con iPhone 11 Pro MAX/XR/8  Galaxy S10 Plus  Xiaomi'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

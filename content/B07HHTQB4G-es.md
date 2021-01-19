@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51m7eT6J-tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHTQB4G-es'
+slug: 'B07HHTQB4G-es Omars USB C Hub 9 en 1 Adaptador USB Tipo C con HDMI 4K  RJ45 Gigabit Ethernet  60W PD Puerto de Carga  Lector SD/Micro SD  3 x USB 3.0  Jack 3 5 mm para iPad Pro Macbook Pro 2020 Air XPS etc.'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

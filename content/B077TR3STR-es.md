@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31VFrIXRcSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TR3STR-es'
+slug: 'B077TR3STR-es Reebok  Zapatillas de Deporte Unisex Adulto  Multicolor  Bs9525 Multicolor   40.5 EU'
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

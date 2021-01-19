@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v9r4COBzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVM66DT-es'
+slug: 'B08CVM66DT-es Altavoz inalámbrico portátil A10 Caja de Sonido estéreo con micrófono Manos Libres/Tarjeta TF Reproducción de música/Control de Volumen-Gris Plata'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

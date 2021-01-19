@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411AewFITxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002LZU85O-es'
+slug: 'B002LZU85O-es Pack de 3 botellas biberón para leche materna Medela 150ml'
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

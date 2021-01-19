@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fp74e4hbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KWSN3LS-es'
+slug: 'B00KWSN3LS-es iWork VS043P-R - Juego de 43 herramientas en bolsa profesional  48 x 24.5 x 26.5 cm  color rojo - Special Price'
 actualPrice: 52.78 EUR
 currency: EUR
 price: 52.78

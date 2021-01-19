@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ox2mK14wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KZ0WP52-es'
+slug: 'B01KZ0WP52-es Black+Decker A7233-XJ - Juego de 31 Piezas para Atornillar y Taladrar" Titanio" en Maletín de fácil transporte'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

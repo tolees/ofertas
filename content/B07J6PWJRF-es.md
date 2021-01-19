@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bn2+ikV-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6PWJRF-es'
+slug: 'B07J6PWJRF-es Skechers Flex Advantage 3.0 - Stally  Zapatillas Deportivas para Hombre  Negro  Black   45 EU'
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

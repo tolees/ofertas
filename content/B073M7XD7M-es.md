@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R4Xcr+djL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073M7XD7M-es'
+slug: 'B073M7XD7M-es Luz LED sumergible  luces LED multicolores con control remoto RGB  luz subacuática impermeable con batería AAA  INCLUIDA  para jarrones base  estanque  fiesta  piscina y Halloween  1 paquete'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

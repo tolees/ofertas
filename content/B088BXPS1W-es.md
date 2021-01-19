@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m0BApPopL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BXPS1W-es'
+slug: 'B088BXPS1W-es Slabo 2 x Protector de Pantalla blindado para Realme 6 Pro Shockproof A Prueba de Golpes'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

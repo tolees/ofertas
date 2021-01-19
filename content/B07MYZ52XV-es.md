@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hopaF2PpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYZ52XV-es'
+slug: 'B07MYZ52XV-es Skechers Solar Fuse  Zapatillas para Mujer  Black Mesh/White & Gum Trim Gy Bl  5.5 EU'
 actualPrice: 31.86 EUR
 currency: EUR
 price: 31.86

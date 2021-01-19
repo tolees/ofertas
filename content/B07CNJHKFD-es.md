@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m1csi6M2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNJHKFD-es'
+slug: 'B07CNJHKFD-es Wenger/SwissGear MarieSol maletines para portátil 35 6 cm  14"  Estuche para Dama Multi - Funda  Estuche para Dama  35 6 cm  14"   Tirante para Hombro  400 g  Multi '
 actualPrice: 37.24 EUR
 currency: EUR
 price: 37.24

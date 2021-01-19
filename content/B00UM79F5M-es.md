@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QXflTNyPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UM79F5M-es'
+slug: 'B00UM79F5M-es Crystal Ball - Globos Giochi Preziosi 12020  colores surtidos'
 actualPrice: 0.5 EUR
 currency: EUR
 price: 0.5

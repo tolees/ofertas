@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415NKMFOoxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBCMPYG-es'
+slug: 'B07JBCMPYG-es Energy Urban Box 7 BassTube Altavoz portátil con Sonido 360º  Bluetooth y Tecnología True Wireless  30 W  Resistente al Agua  - Azul Marino'
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

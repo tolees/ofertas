@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NYBAYWxtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNYSPWC-es'
+slug: 'B07DNYSPWC-es Vagisil Vagisil Higiene Intima Diaria Sensitive 250 ml'
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

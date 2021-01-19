@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kj17612mL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY6VHSH-es'
+slug: 'B07FY6VHSH-es Champion The Curvy Sujetador Deportivo   Blanc/Noir 8ml   X-Small para Mujer'
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

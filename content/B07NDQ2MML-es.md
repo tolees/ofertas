@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bMwE1gGXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDQ2MML-es'
+slug: 'B07NDQ2MML-es G-STAR RAW Lynn High Waist Skinny Mono  Azul  Deep Blue Ocean B481-A818   23W para Mujer'
 actualPrice: 36.11 EUR
 currency: EUR
 price: 36.11

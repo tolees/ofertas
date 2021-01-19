@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EBV--Nj3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6ZDX9C-es'
+slug: 'B01M6ZDX9C-es Rapesco Alu 40 - Perforadora de gruesos de 4 agujeros y 40 hojas de capacidad  color negro'
 actualPrice: 40.79 EUR
 currency: EUR
 price: 40.79

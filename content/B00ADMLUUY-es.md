@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PQ-9K-IfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ADMLUUY-es'
+slug: 'B00ADMLUUY-es Sisley Global Perfect Pore Minimizer 30 Ml 1 Unidad 30 ml'
 actualPrice: 96.28 EUR
 currency: EUR
 price: 96.28

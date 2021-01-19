@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OcBakkYuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0898Z1QPR-es'
+slug: 'B0898Z1QPR-es WINMI para Samsung Galaxy A20e Funda Tapa Trasera de Cristal 9H Templado Resistente a Arañazos con Funda Borde Suave de Silicona Back Cover para Samsung Galaxy A20e-XY'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SeplB4mmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q2S01TE-es'
+slug: 'B00Q2S01TE-es Gigandet G6-015 - Reloj  Correa de Acero Inoxidable Color Oro Rosa'
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

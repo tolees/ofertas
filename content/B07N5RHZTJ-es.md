@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rv3eSZtfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5RHZTJ-es'
+slug: 'B07N5RHZTJ-es Calvin Klein CK UP MINI REPORTERHombreShoppers y bolsos de hombroAzul  Navy  2x18x17 centimeters  B x H x T '
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uqFoMwNAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00120XNUQ-es'
+slug: 'B00120XNUQ-es Converse Chuck Taylor All Star  Zapatillas de Tela Unisex  Negro  Black Mono   41 EU'
 actualPrice: 48.94 EUR
 currency: EUR
 price: 48.94

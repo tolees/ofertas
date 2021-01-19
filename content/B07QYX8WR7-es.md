@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+od-stR9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QYX8WR7-es'
+slug: 'B07QYX8WR7-es Stor Vaso Easy 260 ML | Frozen 2'
 actualPrice: 1.78 EUR
 currency: EUR
 price: 1.78

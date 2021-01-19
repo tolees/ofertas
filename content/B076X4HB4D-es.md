@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61IvNhYfDIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076X4HB4D-es'
+slug: 'B076X4HB4D-es Gardena NatureUp Set vertical  grifo  sistema de riego invisible para hasta 27 plantas  posibilidad de conexión al programador'
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HywEwD28L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQNWFPV-es'
+slug: 'B07TQNWFPV-es Levi s  Azul  Hm Patch Housemark Polo Riverside 0110   Large para Hombre'
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

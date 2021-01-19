@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NTn8Y81qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSVWSDW-es'
+slug: 'B07GSVWSDW-es Trimming Shop Filtro de Aspirador Dyson DC37 DC33C DC39 DC28C DC53  2 Piezas '
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

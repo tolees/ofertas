@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lO8fgetmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHQ28VB-es'
+slug: 'B07RHQ28VB-es adidas Ultraboost 19 W  Zapatillas de Running para Mujer  Azul  Blue Tint S18/Core Black/Copper Met. Blue Tint S18/Core Black/Copper Met.   40 EU'
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t2Y2DsXEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCZMXTY-es'
+slug: 'B07RCZMXTY-es Under Armour Heatgear Armour Sujetador Deportivo  Mujer  Gris  Gray-014   34B'
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

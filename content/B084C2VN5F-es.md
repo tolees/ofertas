@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KnxsQOhuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084C2VN5F-es'
+slug: 'B084C2VN5F-es DYNASONIC - Dynapro8 TWS - Altavoz Inalámbrico Sistema Audio Profesional Megafonia Portátil | Tecnología TWS Lector USB Bluetooth Radio FM y Micrófonos  Color Negro 8 Pulgadas …'
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

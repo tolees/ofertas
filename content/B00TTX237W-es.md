@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310dydev-JL._SL500_._AC_._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTX237W-es'
+slug: 'B00TTX237W-es Farmalas Tobilleras  rodilleras  férulas y cabestrillos 1 Unidad 100 g'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

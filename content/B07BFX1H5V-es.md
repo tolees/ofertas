@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418mOh4RCgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFX1H5V-es'
+slug: 'B07BFX1H5V-es Doble Consolador Double Consolador en color rosa transparente anal y vaginal perforación Dong Massager'
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

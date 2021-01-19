@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cFyeWl5AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8QCGFV-es'
+slug: 'B07F8QCGFV-es TOUCHBeauty Rizador de Pestañas  Rizador de Pestañas Electrico  Rizador de Pestañas Termico  Pestañas Electrico para Maquillaje Herramientas de Rizado de Belleza AG-2016Y  versión actualizada '
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

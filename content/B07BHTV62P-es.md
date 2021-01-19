@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cWno-pTHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHTV62P-es'
+slug: 'B07BHTV62P-es Mr Wonderful Funda Portátil/PC 13.3" Pulgadas - con Diseño Teclas de Color Verde'
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

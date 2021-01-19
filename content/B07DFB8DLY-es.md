@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aP6DKEH7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFB8DLY-es'
+slug: 'B07DFB8DLY-es Pop! Wrek - It Ralph 2  -  Figura de Vinilo Shank'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

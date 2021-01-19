@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ckCnIDKpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SXL8VL-es'
+slug: 'B089SXL8VL-es Longspeed Nuevo Fashion 1.54    3.0 Smart Wrist Watch Phone Mate para teléfonos celulares'
 actualPrice: 18.22 EUR
 currency: EUR
 price: 18.22

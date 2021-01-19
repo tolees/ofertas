@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319p1I-ftWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5LNBFH-es'
+slug: 'B07M5LNBFH-es BOSS Starfish Bañador para Hombre  Negro  Black 007   XL'
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510BYT5V9TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9R2PRL-es'
+slug: 'B07Y9R2PRL-es Junfire 2019 - Funda para iPad de 10 2 Pulgadas  función Atril  Giro de 360º  Correa para el Hombro  Esquinas y Bordes Reforzados '
 actualPrice: 28.24 EUR
 currency: EUR
 price: 28.24

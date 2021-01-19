@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mKZ4pn-DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LD5M3QS-es'
+slug: 'B07LD5M3QS-es Code: Realize Wintertide Miracles'
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

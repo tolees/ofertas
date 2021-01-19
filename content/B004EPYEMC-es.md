@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416jxvliL5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004EPYEMC-es'
+slug: 'B004EPYEMC-es Scitec Nutrition Whey Protein Proteína Chocolate Blanco - 920 g'
 actualPrice: 17.19 EUR
 currency: EUR
 price: 17.19

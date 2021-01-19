@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31M3aurZsKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGGVV91-es'
+slug: 'B06XGGVV91-es find. Zapato de Cordones Piel Grabada para Hombre  Negro  Black   44 EU'
 actualPrice: 28.27 EUR
 currency: EUR
 price: 28.27

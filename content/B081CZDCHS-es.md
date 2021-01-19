@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gGBwMrqEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CZDCHS-es'
+slug: 'B081CZDCHS-es JOYUE Joyero Pequeña  Joyero portátil de Viaje para Mujer  Jewelry Organizer para Anillos Aretes Pendientes Pulseras y Collares  16 5 x 11 5 x 5 5 cm  Rosado '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

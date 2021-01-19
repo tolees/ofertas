@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DpCf3frnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0077WWDG8-es'
+slug: 'B0077WWDG8-es CASIO Reloj de Cuarzo W-734-1A'
 actualPrice: 25.4 EUR
 currency: EUR
 price: 25.4

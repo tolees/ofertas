@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gqt6YuJTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074Z3CJ7Y-es'
+slug: 'B074Z3CJ7Y-es De Longhi Dolce Gusto Colors EDG355.B1 - Cafetera de cápsulas  15 bares de presión  color negro'
 actualPrice: 58.9 EUR
 currency: EUR
 price: 58.9

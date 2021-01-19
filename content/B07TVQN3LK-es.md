@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aO0D1+vGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVQN3LK-es'
+slug: 'B07TVQN3LK-es Wrangler SS Colourblock Polo  Blanco  White 989   Small para Hombre'
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

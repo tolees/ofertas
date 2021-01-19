@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XJeWhfOYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QH332PY-es'
+slug: 'B00QH332PY-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en Resina GA-100CM-5AER'
 actualPrice: 73.01 EUR
 currency: EUR
 price: 73.01

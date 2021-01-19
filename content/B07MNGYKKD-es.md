@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MAootnxeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNGYKKD-es'
+slug: 'B07MNGYKKD-es Le Coq Sportif COURTSTAR Sport  Zapatillas para Hombre  Blanco  Optical White/Evergreen Optical White/Evergreen   43 EU'
 actualPrice: 31.21 EUR
 currency: EUR
 price: 31.21

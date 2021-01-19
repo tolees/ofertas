@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ne9eRD2dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JM2VSR0-es'
+slug: 'B01JM2VSR0-es HP LaserJet Pro M102w - Impresora láser  USB 2.0  WiFi  22 ppm  memoria de 128 MB  doble cara '
 actualPrice: 84 EUR
 currency: EUR
 price: 84

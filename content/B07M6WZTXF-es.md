@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31083le4URL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6WZTXF-es'
+slug: 'B07M6WZTXF-es Luces Solares Jardín  Lamparas Solares Exterior con Sensor de Movimien IP65 Impermeable Paisaje Pathway Lámpara Luces de Seguridad para Patio Césped Escaleras  2 Packs '
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

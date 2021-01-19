@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v-K-RtD2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074BYFLP3-es'
+slug: 'B074BYFLP3-es Skechers Women s Ultra Flex Statements-12841 Trainers  Black  Black/Grey   4 UK 37 EU'
 actualPrice: 45.5 EUR
 currency: EUR
 price: 45.5

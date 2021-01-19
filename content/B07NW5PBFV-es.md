@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413S7oG2oLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW5PBFV-es'
+slug: 'B07NW5PBFV-es Skechers Women s SOLAR FUSE-BRISK ESCAPE Trainers  Black  Black Knit Mesh/White Trim BKW   6  39 EU '
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

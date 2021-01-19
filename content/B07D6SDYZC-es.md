@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yL9kauReL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6SDYZC-es'
+slug: 'B07D6SDYZC-es KHOMO - Funda para iPad de 9 7 Pulgadas  2017 y 2018   Serie Dual Origami  Pantalla Horizontal y Vertical  Color Rojo'
 actualPrice: 10.41 EUR
 currency: EUR
 price: 10.41

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KtES4YOLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDNMWQY-es'
+slug: 'B06XDNMWQY-es Bourjois Rouge Laque Barra de Labios Líquida Tono 07 Purpledélique  - 27 gr.'
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

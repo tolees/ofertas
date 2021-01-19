@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318sFW6nBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ978H-es'
+slug: 'B07TSQ978H-es Skechers Flex Advantage 3.0  Zapatillas para Hombre  Azul  Navy Mesh/Red Trim Nvrd   42 EU'
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

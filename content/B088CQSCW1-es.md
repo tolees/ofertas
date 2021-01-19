@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y2AF-U8vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088CQSCW1-es'
+slug: 'B088CQSCW1-es Gebildet DC 12V 200mA Interruptor de Tipo de Pasta de Encendido/Apagado Interruptor de Coche DIY con Adhesivo de Doble Cara'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

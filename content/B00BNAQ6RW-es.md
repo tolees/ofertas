@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FCkwOT+2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BNAQ6RW-es'
+slug: 'B00BNAQ6RW-es Sensai Cellular Eye Contour Balm Contorno de Ojos - 15 ml'
 actualPrice: 72.91 EUR
 currency: EUR
 price: 72.91

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qb2PVILML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076H3DVYG-es'
+slug: 'B076H3DVYG-es Jirafa de Piedra Hecha a Mano en Italia - Símbolo de Belleza  Elegancia  Visión y Previsión  Protección y Gentileza de Espíritu - Caja de Regalo y Tarjeta de Mensaje - Regalo Cumpleaños él ella'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tkmOrH-vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJGRKZM-es'
+slug: 'B07DJGRKZM-es Dockers by Gerli 43ta302  Botas de Nieve para Mujer  Blanco  Ice 260   37 EU'
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313-KK-G3cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRIJ0BO-es'
+slug: 'B01MRIJ0BO-es Beautural Espejo de Baño Mujer  Espejo Maquillaje con luz LED Aumento 10X  con Rótulo Giratorio Ajustable y Ventosa a Pilas'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

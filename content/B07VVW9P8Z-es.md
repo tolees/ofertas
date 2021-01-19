@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bPrJDlyjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVW9P8Z-es'
+slug: 'B07VVW9P8Z-es Reloj LIGE para Hombre Deporte Cronógrafo Analógico Cuarzo Impermeable Relojes de Pulsera con Correa de Acero Inoxidable'
 actualPrice: 18.02 EUR
 currency: EUR
 price: 18.02

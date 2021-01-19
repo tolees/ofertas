@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MKtI3M5wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKTVNXP-es'
+slug: 'B08CKTVNXP-es FORMIZON Juguete Lanzador de Cohetes  Juguete de Lanzamiento de Cohete al Aire Libre con 3 Cohetes Actividad al Aire Libre Jugar Kids Toy Set Boys Birthday Gift'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

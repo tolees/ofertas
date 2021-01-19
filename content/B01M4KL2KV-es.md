@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VfQnQQCyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M4KL2KV-es'
+slug: 'B01M4KL2KV-es Legrand  Base de Enchufes de pared 4 tomas y 2 tapas ciegas  Forix  color blanco'
 actualPrice: 16.86 EUR
 currency: EUR
 price: 16.86

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vbVJQmvPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000IBWI42-es'
+slug: 'B000IBWI42-es Coleman 3000005133 Nevera Rígida  Unisex Adulto  Azul  4 L'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

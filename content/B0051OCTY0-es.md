@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Rf3IaJ8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0051OCTY0-es'
+slug: 'B0051OCTY0-es Westinghouse Lighting Vegas Ventilador de Techo E27  Acabado en aluminio cepillado con aspas reversibles en arce claro/plata'
 actualPrice: 59.56 EUR
 currency: EUR
 price: 59.56

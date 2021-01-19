@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411qL92+BEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001FQIXDO-es'
+slug: 'B001FQIXDO-es Merrell Zapatillas J73703 Smooth Black'
 actualPrice: 88.1 EUR
 currency: EUR
 price: 88.1

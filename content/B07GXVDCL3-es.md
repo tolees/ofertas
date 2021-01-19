@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E5GHumbUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXVDCL3-es'
+slug: 'B07GXVDCL3-es B Blesiya 1 USB Drive de Memoria Disco Duro Externo Accesorios Electrónicos para Ordenadores - Rosado 64 GB'
 actualPrice: 12.01 EUR
 currency: EUR
 price: 12.01

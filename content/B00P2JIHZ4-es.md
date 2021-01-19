@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411hxTk5eKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P2JIHZ4-es'
+slug: 'B00P2JIHZ4-es Pendrive 2 GB 10 Piezas Memorias USB 2.0 - Portátil 2GB Pen Drive 10 Unidades Flash Drives Multicolor Pulsera Unidad USB - FEBNISCTE Práctico Económico Llaves USB Regalo para Niño Hija Hijo Familia'
 actualPrice: 36.66 EUR
 currency: EUR
 price: 36.66

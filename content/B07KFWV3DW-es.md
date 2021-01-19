@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+qkaosCML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFWV3DW-es'
+slug: 'B07KFWV3DW-es PUMA Cell Plasmic Fluo Wn s  Zapatillas Deportivas para Interior para Mujer  Black-Pink Alert  40.5 EU'
 actualPrice: 18.3 EUR
 currency: EUR
 price: 18.3

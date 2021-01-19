@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QdUMaWXuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NL9LYQH-es'
+slug: 'B07NL9LYQH-es Skechers Girls  Bobs Squad Trainers  Grey  Gray/Hot Pink Glitter & Embroidered Sneaker Gyhp   9.5 UK  27 EU '
 actualPrice: 28.47 EUR
 currency: EUR
 price: 28.47

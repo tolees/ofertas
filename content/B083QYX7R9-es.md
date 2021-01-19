@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XRIf2tIBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QYX7R9-es'
+slug: 'B083QYX7R9-es 1 conector coaxial SMA macho RF para cable RG402.141" recto chapado en oro'
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

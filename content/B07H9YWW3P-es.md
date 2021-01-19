@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413EeXB+xuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9YWW3P-es'
+slug: 'B07H9YWW3P-es Funko Modern Family Llavero Pop Gloria  Color Mulitcolor  1337-398862 '
 actualPrice: 5.26 EUR
 currency: EUR
 price: 5.26

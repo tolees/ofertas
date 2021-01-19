@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HmFKWDlLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07932GTPM-es'
+slug: 'B07932GTPM-es Clarks Brixby Shore  Sandalia con Pulsera para Hombre  Marrón  Dark Brown Leather-   45 EU'
 actualPrice: 54.73 EUR
 currency: EUR
 price: 54.73

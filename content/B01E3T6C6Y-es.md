@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ISAt6FnAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E3T6C6Y-es'
+slug: 'B01E3T6C6Y-es Malfy Limón Gin Ginebra Premium - 700 ml'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

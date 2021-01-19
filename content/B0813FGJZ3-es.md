@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21l7vR-+4sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813FGJZ3-es'
+slug: 'B0813FGJZ3-es Polos Hombre Manga Corta Blanco Algodón Marca Casual Negocios Slim Camisetas Camisas  Blanco  M '
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

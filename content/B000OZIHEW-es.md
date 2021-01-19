@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315yMmuVLzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OZIHEW-es'
+slug: 'B000OZIHEW-es Olówek automatyczny Grip 1345 czerwony'
 actualPrice: 2.92 EUR
 currency: EUR
 price: 2.92

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x+Gv2pCLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O24I0TI-es'
+slug: 'B00O24I0TI-es Nexcare Coldhot Premium - Gel pack  235 mm x 110 mm'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

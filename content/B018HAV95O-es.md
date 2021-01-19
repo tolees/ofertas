@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ua6mlCQML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018HAV95O-es'
+slug: 'B018HAV95O-es Tommee Tippee - Kit de iniciación para recién nacido  modelos surtidos'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

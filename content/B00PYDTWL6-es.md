@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41natsFFydL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PYDTWL6-es'
+slug: 'B00PYDTWL6-es Nike Md Runner 2 - Zapatillas de correr para Hombre  Negro  Negro/Blanco/Gris oscuro   46 EU'
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

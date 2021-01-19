@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ELQDyyxbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Y9CZQ9-es'
+slug: 'B079Y9CZQ9-es Braun Facespa Pro 921 - Sistema para Depilación y Limpieza 3 en 1  con Depiladora Facial Mujer  Cepillo Facial y Cabezal Tonificador  Base Cargadora  Bronce'
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99

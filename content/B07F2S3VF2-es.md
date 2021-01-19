@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UjY200h9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2S3VF2-es'
+slug: 'B07F2S3VF2-es Helly Hansen Hh Qd Cargo Shorts 11  Pantalones deportivos para Hombre  Marron  Marron Claro 720   Talla 33'
 actualPrice: 32.93 EUR
 currency: EUR
 price: 32.93

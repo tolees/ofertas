@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516M9WrmcwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKM7NQ1-es'
+slug: 'B07DKM7NQ1-es Imperial Confort Helsinki - Colchón Viscoelástico de grafeno - Doble cara  invierno/verano  - Grosor 25 cm - 150x200'
 actualPrice: 185.04 EUR
 currency: EUR
 price: 185.04

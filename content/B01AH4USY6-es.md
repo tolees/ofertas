@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gxvSh02dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AH4USY6-es'
+slug: 'B01AH4USY6-es Cruzado Azul - M/L'
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

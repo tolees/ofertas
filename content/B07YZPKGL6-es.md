@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iYBetupdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZPKGL6-es'
+slug: 'B07YZPKGL6-es DEWALT DCD706D2-QW DCD706D2-QW-Taladro Percutor sin escobillas XR 12V 10mm 57 5Nm con 2 baterías Li-Ion 2Ah y maletín TSTAK  Schwarz/Gelb'
 actualPrice: 179.37 EUR
 currency: EUR
 price: 179.37

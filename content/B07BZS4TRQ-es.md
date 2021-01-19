@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21hW-c8oc4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZS4TRQ-es'
+slug: 'B07BZS4TRQ-es Trueno S'
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

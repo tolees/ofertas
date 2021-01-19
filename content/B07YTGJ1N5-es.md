@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41axeF9jtHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YTGJ1N5-es'
+slug: 'B07YTGJ1N5-es Organizador de fregadero  Anglink Organizador de fregadero Cesta de Ducha para Colgar soporte para jabón Acero Inoxidable Sin Taladro lavavajillas  Cepillo para Lavar Platos y Esponja - 23 x 13 x 8 cm'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

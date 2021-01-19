@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p92hVXUXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FBSDT93-es'
+slug: 'B07FBSDT93-es Skechers Women s Flex Appeal 3.0-first Insight Trainers  Black  Black Mesh/Rose Gold Trim Bkrg   7 UK  40 EU '
 actualPrice: 43.71 EUR
 currency: EUR
 price: 43.71

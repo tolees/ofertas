@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nOA1ul5uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVZ6MJK-es'
+slug: 'B07MVZ6MJK-es HyperX Predator HX430C15PB3A/16 Memoria 3000MHz DDR4 CL15 DIMM XMP 16GB RGB'
 actualPrice: 73.65 EUR
 currency: EUR
 price: 73.65

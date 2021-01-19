@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QdSPBLGwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQ7Q8GF-es'
+slug: 'B07XQ7Q8GF-es inphic Auriculares Bluetooth  reproducción las 24 horas  estéreo de alta fidelidad  Bluetooth 5.0  Over ear auriculares inalámbricos con micrófono para iPhone  teléfono Samsung  PC  TV'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

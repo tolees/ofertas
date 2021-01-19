@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tIzpkQeyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U1IL9L0-es'
+slug: 'B00U1IL9L0-es Reebok Cl Lthr  Zapatillas de Deporte para Hombre  Blanco  White/Gum 2   40.5 EU'
 actualPrice: 62.44 EUR
 currency: EUR
 price: 62.44

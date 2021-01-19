@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31078lcuXKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QK372UC-es'
+slug: 'B00QK372UC-es AUKEY Bluetooth Receptor portátil inalámbrico Bluetooth 3.0  Dispositivos de Audio para Hogar  HiFi  Coche  Sistema de Altavoces y móvil con Salida Stereo 3.5 mm  Negro '
 actualPrice: 15.31 EUR
 currency: EUR
 price: 15.31

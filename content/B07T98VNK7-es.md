@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JzMsLrIqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T98VNK7-es'
+slug: 'B07T98VNK7-es Helly Hansen Vanir Hegira HT  Zapatillas de Senderismo para Hombre  Azul  Electric Blue/Black/Nimbus Cloud/Glacier Blue 639   41 EU'
 actualPrice: 51.01 EUR
 currency: EUR
 price: 51.01

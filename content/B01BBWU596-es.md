@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HhewvE2hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BBWU596-es'
+slug: 'B01BBWU596-es Sony NWE394B.CEW - Reproductor MP3  reproducción de música  foto  radio FM  8 GB  Negro'
 actualPrice: 79.89 EUR
 currency: EUR
 price: 79.89

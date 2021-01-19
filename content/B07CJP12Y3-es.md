@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AzoTAgrWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJP12Y3-es'
+slug: 'B07CJP12Y3-es Amazon Essentials - Braguitas - para mujer multicolor Neutral Assorted S'
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

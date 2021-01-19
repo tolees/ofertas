@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21oEXyR9cWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M07NLYD-es'
+slug: 'B01M07NLYD-es Philips bsc200/01 Cepillo de limpieza facial Visapure Essential  Rose de color blanco'
 actualPrice: 29.37 EUR
 currency: EUR
 price: 29.37

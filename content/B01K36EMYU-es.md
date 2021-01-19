@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312crrkdVNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K36EMYU-es'
+slug: 'B01K36EMYU-es Desconocido USB 2.0 MP3 Reproductor de Música Grabación con Función FM Radio Ebook Capacidad Memoria 8GB / 4GB - Negro  4GB'
 actualPrice: 10.33 EUR
 currency: EUR
 price: 10.33

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411TEkpiHHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0JFGRB-es'
+slug: 'B01N0JFGRB-es Tommy Hilfiger H2285ARLOW 1D  Zapatillas para Hombre  Gris  Steel Grey   40 EU'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

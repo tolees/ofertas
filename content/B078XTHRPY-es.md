@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513IBJt3cAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XTHRPY-es'
+slug: 'B078XTHRPY-es Kitchen Emperor Cuchillo Santoku Damasco  Cuchillo Acero Damasco  Cuchillos de Cocina Profesionales  Prima 67 Capas de Acero'
 actualPrice: 59.89 EUR
 currency: EUR
 price: 59.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410rEqnSUpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813YSBRY-es'
+slug: 'B0813YSBRY-es adidas Duramo Lite 2.0  Zapatillas para Correr para Hombre  Core Black/FTWR White/Glory Red  42 EU'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

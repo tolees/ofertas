@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bm3mNvIqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CF9BCK-es'
+slug: 'B076CF9BCK-es Shock Absorber Ultimate Fly Bra Sujetador Deportivo  Negro  Noir Brise De Corail   100B  Taille Fabricant: Taille Fabricant 100B  para Mujer'
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

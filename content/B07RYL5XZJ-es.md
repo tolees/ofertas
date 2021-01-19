@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H8OgLTEmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYL5XZJ-es'
+slug: 'B07RYL5XZJ-es New Balance 574v2  Zapatillas para Mujer  Morado  Purple Saw   36 EU'
 actualPrice: 41.65 EUR
 currency: EUR
 price: 41.65

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dTV3XCC+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SF116TP-es'
+slug: 'B07SF116TP-es PUMA ST Runner V2 NL JR  Zapatillas Unisex niños  Rosa  Rosewater/Peony White   37 EU'
 actualPrice: 31.47 EUR
 currency: EUR
 price: 31.47

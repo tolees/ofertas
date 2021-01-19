@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/313-KZoikdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3LLNGC-es'
+slug: 'B07H3LLNGC-es Himaly Cortapelos Profesional Hombre Electrónico Corte Pelo Profesional Máquina Cortar Pelo Recortador de Barba Cortadora de Pelo USB Recargable'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312TenzD5TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KDHFPTY-es'
+slug: 'B07KDHFPTY-es Pepe Jeans Stanley Pantalones  Verde  Dark Khaki Green 785   W36/L34 para Hombre'
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

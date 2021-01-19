@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vKvVOxhML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N635PIY-es'
+slug: 'B01N635PIY-es Hugo Boss Orange Reloj Analógico para Hombre de Cuarzo con Correa en Caucho 1550002'
 actualPrice: 103.03 EUR
 currency: EUR
 price: 103.03

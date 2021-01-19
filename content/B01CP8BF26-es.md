@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cUPabU4LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CP8BF26-es'
+slug: 'B01CP8BF26-es Chupa Chups Original  Caramelo con Palo de Sabores a Fresa  Super Chups 20 unidades de 12 gr.  Total 240 gr. '
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

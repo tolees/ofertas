@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uunyZIbUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN6ZS4Y-es'
+slug: 'B07VN6ZS4Y-es YAMAMAY® Slip Traje de baño brasileño - Mirage'
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Vnh3KlK-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EALAZEG-es'
+slug: 'B00EALAZEG-es BAUSCH + LOMB - Biotrue® ONEday - Lentes de contacto de reemplazo diario'
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

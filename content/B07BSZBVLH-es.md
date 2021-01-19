@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41avZLwswQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSZBVLH-es'
+slug: 'B07BSZBVLH-es Wangel Adhesivo 7 Gancho Barra Soportes y Organizadores para Utensilios de Cocina  Pegamento Patentado + Autoadhesivo  Aluminio  Acabado Mate  40CM'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

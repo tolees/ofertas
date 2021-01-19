@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E6yEOiO+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMHHDLW-es'
+slug: 'B07TMHHDLW-es Levi s Original Batwing Polo  Multicolor  Vine Stripe Skyway/Clearwater/Riverside 0006   XX-Large para Hombre'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

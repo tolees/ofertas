@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i3883WyXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MP1QV1X-es'
+slug: 'B07MP1QV1X-es BRIKSMAX Kit de Iluminación Led para Aston Martin DB5-Compatible con Ladrillos de Construcción Lego Modelo 10262-Juego de Legos no Incluido'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

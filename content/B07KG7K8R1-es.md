@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gLHDcdQlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG7K8R1-es'
+slug: 'B07KG7K8R1-es PUMA Flyer Runner  Zapatillas de Running Unisex Adulto  Negro Black White-Pink Alert  39 EU'
 actualPrice: 33.45 EUR
 currency: EUR
 price: 33.45

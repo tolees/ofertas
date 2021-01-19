@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51136dKiH3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F64CTCC-es'
+slug: 'B07F64CTCC-es Kit de Destornilladores Uktunu 110 en 1 Juego Destornilladores Precisión Mini Profesionales Conductor Herramientas con la Extensión Reparación para iphone Teléfono Móviles Electronica DIY'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

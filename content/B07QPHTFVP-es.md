@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HtAbW6DlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPHTFVP-es'
+slug: 'B07QPHTFVP-es Cressi Rantau Bag Bolsa para Piscina/Deporte  Adultos Unisex  Azul  55 x 30 x 30'
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

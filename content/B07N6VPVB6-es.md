@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pywDHGwwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6VPVB6-es'
+slug: 'B07N6VPVB6-es Tommy Hilfiger J Basic Women Knitted Scarf Bufanda   Black Bae   Talla única  Talla del fabricante: OS  para Mujer'
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

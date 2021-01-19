@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pJW4E9PSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKP2YLH-es'
+slug: 'B07FKP2YLH-es The Gourmet Collection - Mezcla de especias - Sazonador de Hierbas para Pasta'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517MW8yAuxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9ZWX2R-es'
+slug: 'B07D9ZWX2R-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Titanio CA0700-86L'
 actualPrice: 211.0 EUR
 currency: EUR
 price: 211.0

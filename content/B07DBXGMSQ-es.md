@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wWhls84+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBXGMSQ-es'
+slug: 'B07DBXGMSQ-es Escurridor para secado de biberones Lawn Tendedero para con diseño de césped tamaño grande  Verde '
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

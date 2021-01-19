@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xFBybpHKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4G57CJ-es'
+slug: 'B07S4G57CJ-es LA Active Polainas Antideslizantes Agarre – 3 Pares – Bebé Niña Infantil Recién Nacido - Algodón  Gris/Crema/Azul Marino  3-6 Meses '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

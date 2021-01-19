@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hnUG5EPcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2Y18DH-es'
+slug: 'B01N2Y18DH-es Intex 56265NP - Rueda hinchable Donut de fresa 107 x 99 cm'
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

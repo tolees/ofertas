@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TowwiLg9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHCH537-es'
+slug: 'B07JHCH537-es Columbia Redmond V2  Zapatillas de Senderismo para Hombre  Marrón  Saddle/Canyon Gold 269   43 EU'
 actualPrice: 51.49 EUR
 currency: EUR
 price: 51.49

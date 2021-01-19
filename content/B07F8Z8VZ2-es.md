@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Y2e2PPQDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8Z8VZ2-es'
+slug: 'B07F8Z8VZ2-es Homyl Comprimido móvil Esile del ordenador del accesorio del ratón óptico metálico USB para el rosa de MacBook'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

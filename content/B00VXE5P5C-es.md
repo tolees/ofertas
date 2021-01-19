@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZqwCozd-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VXE5P5C-es'
+slug: 'B00VXE5P5C-es Moma Bikes Patinete Electrico Plegable Infantil Scooter 120W  Ruedas 6" 12km/h'
 actualPrice: 119.98 EUR
 currency: EUR
 price: 119.98

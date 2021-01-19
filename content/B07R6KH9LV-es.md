@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41w3Gje12oL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R6KH9LV-es'
+slug: 'B07R6KH9LV-es RAOYI 2X 32GB Memoria USB 3.0  Pendrive USB Portátil 32GB 3.0 Memoria Flash Drive para PC/Windows/Tabletas/Mac OS [2 Unidades  Color Negro y Azul]'
 actualPrice: 12.58 EUR
 currency: EUR
 price: 12.58

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RwhxRYIqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NTWXXBM-es'
+slug: 'B07NTWXXBM-es Skechers Ultra Flex 2.0 Kelmer  Zapatillas para Hombre  Azul  Black Engineered Mesh/Synthetic/Gray Trim Bkgy   39.5 EU'
 actualPrice: 34.86 EUR
 currency: EUR
 price: 34.86

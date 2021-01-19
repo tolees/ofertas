@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413eW7wHYLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCWGX6G-es'
+slug: 'B07DCWGX6G-es WMF 778046380 Vario Cuisine-Batería de Cocina de 4 Piezas con termómetro Integrado  Acero Inoxidable  1.9 litros  Cromargan'
 actualPrice: 224.5 EUR
 currency: EUR
 price: 224.5

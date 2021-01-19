@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bI4AUXnZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JP19R4V-es'
+slug: 'B07JP19R4V-es Barra Lateral de Seguridad de la Cama Plegable Guardia Lateral para Personas Mayores  los Adultos ayudan a Manejar la Barra para discapacitados Barandilla de Metal Hospital Barra de Parachoques'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

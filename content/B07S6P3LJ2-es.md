@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411UmzK4VDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6P3LJ2-es'
+slug: 'B07S6P3LJ2-es PUMA Future 5.4 FG/AG  Botas de fútbol para Hombre  Azul  Luminous Blue-Nrgy Blue Black-Pink Alert 01   39 EU'
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

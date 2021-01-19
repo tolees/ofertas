@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310HdE+7l5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZXMMQ1M-es'
+slug: 'B07ZXMMQ1M-es IPOTCH Silicona Superior/Inferior Falsos Carillas Dentaduras Falsos - 7 x 5 x 2 cm'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

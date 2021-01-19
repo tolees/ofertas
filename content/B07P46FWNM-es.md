@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IcrwLU1ZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P46FWNM-es'
+slug: 'B07P46FWNM-es Reloj - Guanqin - para - GH17001'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

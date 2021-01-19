@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GgS2CC-IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LZSPLP0-es'
+slug: 'B00LZSPLP0-es Braun Satin Hair 3 HD350 Style & Go - Secador de pelo viaje  1600 W  color negro'
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

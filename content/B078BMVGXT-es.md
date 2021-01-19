@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NXNmOjb1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078BMVGXT-es'
+slug: 'B078BMVGXT-es Pala NOX Equation A.4'
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

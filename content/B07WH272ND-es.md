@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J9PvbEc+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WH272ND-es'
+slug: 'B07WH272ND-es RITUALS The Ritual of Sakura Exfoliante corporal  250 g'
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mp3QV--7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08J451HBF-es'
+slug: 'B08J451HBF-es DEtasyXworld Funda Protectora de Fieltro Suave y Liviana para computadora portátil  Funda Protectora  Funda Protectora Fina  Adecuada para Macbook Air de 13 3 Pulgadas  Gris Claro'
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

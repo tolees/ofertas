@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aLOkGztaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T7GF9DH-es'
+slug: 'B07T7GF9DH-es Solido S1802202 421184930-1:18 Renault 4LF4  1975  Modelo de Coche'
 actualPrice: 31.52 EUR
 currency: EUR
 price: 31.52

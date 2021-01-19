@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PLUbqf0gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0025T2IZO-es'
+slug: 'B0025T2IZO-es Stargazer  Sombra de ojos  Negro   Pack of 2 x 3.5gr  7 gr '
 actualPrice: 4.07 EUR
 currency: EUR
 price: 4.07

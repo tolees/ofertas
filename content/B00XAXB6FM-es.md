@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419JbHwiLSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAXB6FM-es'
+slug: 'B00XAXB6FM-es Tommee Tippee Closer to Nature- Kit de Biberónes anticólicos de iniciación para recién nacido  azul'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

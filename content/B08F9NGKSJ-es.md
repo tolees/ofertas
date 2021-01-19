@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ReKNuIQ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F9NGKSJ-es'
+slug: 'B08F9NGKSJ-es Auriculare/Auriculares Auriculares Cableados En El Ruido del Oído Aislando Auriculares Deportivos con Micrófono Incorporado y Control de Volumen Compatible con iPhone 8/8 Plus/X/XS/XR/11/11Pro'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

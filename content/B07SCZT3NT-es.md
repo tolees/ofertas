@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416nviFWkJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCZT3NT-es'
+slug: 'B07SCZT3NT-es PUMA Cali Wn s  Zapatillas para Mujer  Negro Black White 18  38.5 EU'
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pax+EihzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGK5CBX-es'
+slug: 'B07MGK5CBX-es Pistola de arie caliente  Tacklife HGP69AC 2000W Pistola de calor / 230V 50Hz / 2 Niveles de temperatura 400 ℃ 300L/min  600 ℃ 500L/min con 4 boquillas y protección contra sobrecalentamiento'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

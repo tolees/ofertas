@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510YCoFl0DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083NFPPH7-es'
+slug: 'B083NFPPH7-es Sotor 76 x 67 x 110 CM Funda Barbacoa Pequeña Impermeable con Tela 420D Oxford Resistente  Cordón Ajustable  Doble Asa y Bolsa  Protección Solar/Lluvia/Polvo/Viento/UV  para Weber  Brinkmann  etc'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

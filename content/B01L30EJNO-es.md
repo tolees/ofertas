@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hNIRrR4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L30EJNO-es'
+slug: 'B01L30EJNO-es Activision - SIM Crash Adventure Pack  Crash Bandicoot-Dr. Neo Cortex '
 actualPrice: 17.85 EUR
 currency: EUR
 price: 17.85

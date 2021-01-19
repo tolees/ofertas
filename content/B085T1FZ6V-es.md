@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CYtnqxk4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085T1FZ6V-es'
+slug: 'B085T1FZ6V-es Acoolir Ventilador sin Aspas Silencioso de Viento Natural Saludable de Circulació 10 Velocidades Oscilación de 90° Temporizador de Sueño Inteligente Control Remoto de 6 m Seguro para Niños Silencio'
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zsyRFi9OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0055EGCJE-es'
+slug: 'B0055EGCJE-es Calvin Klein Cotton Stretch-3er Tanga de hilo  Multicolor  I03 White  Red Ginger  Pyro Blue   X-Large  Pack de 3  para Hombre'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

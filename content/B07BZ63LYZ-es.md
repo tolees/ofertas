@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ouy-ZPLQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZ63LYZ-es'
+slug: 'B07BZ63LYZ-es Sotech - Juego de Herramientas de Pinzas de Freno  Kit de Herramientas de Reparación de Frenos  con estuche roja  21 Partes  Material: Acero C45  Tamaño de la caja: 31 x 21 5 x 6 cm'
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

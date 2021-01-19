@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B0843BIWL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFYF2QD-es'
+slug: 'B07KFYF2QD-es PUMA Carina L  Zapatillas para Mujer  White-Gum  40 EU'
 actualPrice: 41.4 EUR
 currency: EUR
 price: 41.4

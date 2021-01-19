@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PPDrOYysL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPL8Y27-es'
+slug: 'B07VPL8Y27-es Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón  Rojo  Blush Red Xif   Large  Talla del fabricante: L-XL  Unisex Adulto'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

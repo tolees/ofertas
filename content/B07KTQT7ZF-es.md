@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X-2YntYgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTQT7ZF-es'
+slug: 'B07KTQT7ZF-es Tommy Hilfiger Reloj de Pulsera 1782018'
 actualPrice: 104.3 EUR
 currency: EUR
 price: 104.3

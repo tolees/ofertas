@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gOCjw2wPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCB1SSD-es'
+slug: 'B07SCB1SSD-es Levi s Malibu Beach S  Zapatillas para Mujer  Rosa  Light Pink 81   40 EU'
 actualPrice: 24.57 EUR
 currency: EUR
 price: 24.57

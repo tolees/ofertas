@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sGKjayzTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BNAPO7K-es'
+slug: 'B00BNAPO7K-es Lancaster Suractif Comfort Lift Rich Day Cream 50 ml'
 actualPrice: 47.17 EUR
 currency: EUR
 price: 47.17

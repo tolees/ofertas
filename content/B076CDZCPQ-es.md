@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MOGCfnaRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CDZCPQ-es'
+slug: 'B076CDZCPQ-es ENKEEO - 23x103.5cm Longboard  Monopatín con Rodamiento de ABEC-11 y 9 Capas Flexible de Arce  Tabla Completa  Cielo Misterioso '
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

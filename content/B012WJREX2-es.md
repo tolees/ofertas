@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UMiS7Pw9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012WJREX2-es'
+slug: 'B012WJREX2-es Arregui TB-021-G Taburete Plegable de 21 cm de altura  gris  210X250X200 MM'
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

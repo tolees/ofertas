@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318F0U4nGKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JGLC11O-es'
+slug: 'B01JGLC11O-es Tria Beauty HRLP W - Depiladora láser de precisión'
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

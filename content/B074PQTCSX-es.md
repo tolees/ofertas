@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BHn07wL+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PQTCSX-es'
+slug: 'B074PQTCSX-es adidas V Racer 2.0  Zapatillas para Hombre  Azul  Maruni/Ftwbla/Escarl   41 1/3 EU'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

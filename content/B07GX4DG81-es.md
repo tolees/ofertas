@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vzU4gFcHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GX4DG81-es'
+slug: 'B07GX4DG81-es Philips Avent SCD301/03 - Set de recién nacido gama natural  4 biberones  chupete y escobilla  rosa'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

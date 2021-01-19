@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W4W2EK51L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R1HK3GN-es'
+slug: 'B07R1HK3GN-es GARVIRP para Mujer Pantalones Cortos de Malla Panel Elástico Sporting Gym Transpirable Verano Pantalones Calientes Deep Black L'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

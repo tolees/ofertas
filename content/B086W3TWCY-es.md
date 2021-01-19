@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HctfOjUQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086W3TWCY-es'
+slug: 'B086W3TWCY-es 10 pzs Viseras Pantalla Facial Protector de cara desechable de seguridad A prueba de viento A prueba de polvo Antiniebla Resistente a fluidos Respirable Tapa protectora de cara completa'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

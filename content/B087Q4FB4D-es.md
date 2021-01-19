@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kdzM7gMLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087Q4FB4D-es'
+slug: 'B087Q4FB4D-es VIDOO 2 Pairs Hurricane 51499 3-Blade 5Mm/Popo Propeller CW CCW For RC Drone FPV Racing-Púrpura Claro'
 actualPrice: 7.09 EUR
 currency: EUR
 price: 7.09

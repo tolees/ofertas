@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PfIcSNG9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMWVG5L-es'
+slug: 'B07KMWVG5L-es Pour Moi? Illicit Underwired Bra Sujetador con Aros  Negro  Black Black   105D  Talla del Fabricante: 40D  para Mujer'
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

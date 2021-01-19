@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41InJ3XTjWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7XT5GT-es'
+slug: 'B01N7XT5GT-es Remington Power Series PR1330 - Máquina de Afeitar Rotativa  Cuchillas Acero Precisión  Cortapatillas  Negro  Uso en Seco'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

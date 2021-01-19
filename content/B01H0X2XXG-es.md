@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dSEG9zH+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H0X2XXG-es'
+slug: 'B01H0X2XXG-es State Of Decay 2'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

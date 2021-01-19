@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41drbjPDMbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJ3M6R3-es'
+slug: 'B07PJ3M6R3-es Litthing 1/2/3 Piezas Sujetadore Deportivo Encaje Sexy Transpirable Confort Yoga Deportes de Yoga para Mujeres（Rosa  L'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

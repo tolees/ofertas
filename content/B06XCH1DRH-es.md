@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jMWFqpAcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCH1DRH-es'
+slug: 'B06XCH1DRH-es G-STAR RAW Classic Trunk 2 Pack Pantalones Cortos  Multicolor  Sage Htr/dk Black Htr 8530   XX-Large para Hombre'
 actualPrice: 16.6 EUR
 currency: EUR
 price: 16.6

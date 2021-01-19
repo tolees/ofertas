@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JhYpPaexL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KRM8RS8-es'
+slug: 'B00KRM8RS8-es Amazon - Funda protectora de cuero para Kindle  7ª generación - modelo de 2014   Negro'
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

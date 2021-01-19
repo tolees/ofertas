@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-+pF-LgPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711CWFD8-es'
+slug: 'B0711CWFD8-es SELECTED HOMME Shnstraight-Scott 1002 Rinse St JNS Noos Jeans Rectos  Azul  Dark Blue Denim   W34/L30  Talla del Fabricante: 34  para Hombre'
 actualPrice: 28.76 EUR
 currency: EUR
 price: 28.76

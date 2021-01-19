@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BfBJrxzsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811XXBHT-es'
+slug: 'B0811XXBHT-es 8CM / 15CM FPV Cámara Cable FPC Cable para Hawkeye Firefly 4K Split HD Grabación DVR RC Drone Accesorios para cámara - Blanco y Azul y Amarillo - 15cm'
 actualPrice: 1.17 EUR
 currency: EUR
 price: 1.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zMJvZc00L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E3SNNGW-es'
+slug: 'B01E3SNNGW-es Bose SoundSport - Auriculares inalámbricos  Bluetooth  NFC  micrófono   color azul'
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

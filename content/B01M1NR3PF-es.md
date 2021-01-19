@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uboGyz5BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1NR3PF-es'
+slug: 'B01M1NR3PF-es Reserva Yzaguirre Vermouth Rojo - 1 l'
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

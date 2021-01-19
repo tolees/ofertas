@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OGq%2BB1X0L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZBJKQM-es'
+slug: 'B07CZBJKQM-es Cooler Master MasterBox MB511 Midi-Tower Negro  Azul - Caja de Ordenador  Midi-Tower  PC  De plástico  Acero  Negro  Azul  ATX Micro ATX Mini-ITX  Juego '
 actualPrice: 54.44 EUR
 currency: EUR
 price: 54.44

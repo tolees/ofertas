@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RU9Cyn5bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L55RHT0-es'
+slug: 'B01L55RHT0-es Beurer MG 520 To Go - Almohada de masaje Shiatsu'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

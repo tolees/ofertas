@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UakVZc-RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N4DTN8A-es'
+slug: 'B00N4DTN8A-es Call of Duty: Advanced Warfare'
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

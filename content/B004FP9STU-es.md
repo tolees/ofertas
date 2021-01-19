@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QRJEqlY7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004FP9STU-es'
+slug: 'B004FP9STU-es Royal Canin C-08314 S.N. Mini Starter - 1 Kg'
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419OlAA3rpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JDXBHNF-es'
+slug: 'B07JDXBHNF-es Crocs Crocband Rain Boot Kids  Botas de Agua Unisex Niños  Azul  Bright Cobalt/Flame 4kd   28/29 EU'
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

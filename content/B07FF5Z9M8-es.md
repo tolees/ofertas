@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51icimWJamL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FF5Z9M8-es'
+slug: 'B07FF5Z9M8-es Bestway 43185 - Helado Hinchable Pop Art 188x95 cm'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

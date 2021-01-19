@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VP7Sm09EL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2KJ8T8-es'
+slug: 'B07K2KJ8T8-es Under Armour UA Charged Europa 2  Zapatillas de Running para Hombre  Negro  Black Black   40.5 EU'
 actualPrice: 25.54 EUR
 currency: EUR
 price: 25.54

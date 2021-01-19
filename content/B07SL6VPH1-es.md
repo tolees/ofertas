@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ypvdQX25L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SL6VPH1-es'
+slug: 'B07SL6VPH1-es Lacoste Chaymon 120 4 CMA  Zapatillas para Hombre  Blanco  41 EU'
 actualPrice: 71.82 EUR
 currency: EUR
 price: 71.82

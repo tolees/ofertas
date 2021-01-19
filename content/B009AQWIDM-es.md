@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fql30LZ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009AQWIDM-es'
+slug: 'B009AQWIDM-es Essie Esmalte de Uñas  Tono: 015 Sugar Daddy'
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

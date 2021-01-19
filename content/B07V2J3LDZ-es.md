@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UXg9eL-TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2J3LDZ-es'
+slug: 'B07V2J3LDZ-es Tommy Hilfiger High Cleated Flag Sneaker  Zapatillas para Mujer  Blanco  White Ybs   40 EU'
 actualPrice: 35.23 EUR
 currency: EUR
 price: 35.23

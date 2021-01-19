@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418B7lKXjZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OJ9G35Y-es'
+slug: 'B00OJ9G35Y-es Orbegozo WL 3000  Cup Cake Maker  1400 W  6 Cup Cakes de Capacidad  Antiadherente  Protección contra Sobrecalentamiento  12 Blondas de Papel'
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

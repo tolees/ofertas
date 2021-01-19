@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51miBjfszXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNZC8GS-es'
+slug: 'B07WNZC8GS-es MEGALITH Relojes Hombre Relojes Grandes de Pulsera Militares Cronografo Diseñador Luminosos Impermeable Reloj Hombre Deportivos de Acero Inoxidable Analogicos Fecha'
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

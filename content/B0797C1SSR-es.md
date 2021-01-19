@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G2x3Oc37L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797C1SSR-es'
+slug: 'B0797C1SSR-es Guess Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable W1078G1'
 actualPrice: 86.67 EUR
 currency: EUR
 price: 86.67

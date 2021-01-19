@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414iijCqdPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FFCCJJ-es'
+slug: 'B075FFCCJJ-es Maxi-Cosi CabrioFix  Silla de auto  reclinable y seguro para bebé  0-12 meses  0-13 kg  Sparkling Grey  gris '
 actualPrice: 109.65 EUR
 currency: EUR
 price: 109.65

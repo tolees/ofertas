@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uBzI95+iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HT7RS1G-es'
+slug: 'B07HT7RS1G-es VGROUND LED Linterna XML T6 Portátil e Impermeable Zoomable Linterna Tácticas Militares ultra brillante de 2000LM para Ciclismo  Camping  Montañismo  Emergencia  2 Paquetes'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

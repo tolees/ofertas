@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51qGlDmYDwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNT29JH-es'
+slug: 'B07HNT29JH-es INNObeta KlyN Neceser Mujer Hombre de Viaje para Colgar Bolsas de Aseo Cosméticos Neceseres Maquillaje （Negro）'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

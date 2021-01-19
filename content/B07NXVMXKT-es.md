@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3173NvHlG0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXVMXKT-es'
+slug: 'B07NXVMXKT-es Skechers GO Walk 5 Flint  Zapatillas sin Cordones para Hombre  Black Textile/White Trim Black  41 EU'
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

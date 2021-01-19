@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61TWY-7ZpDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XW7B4RM-es'
+slug: 'B06XW7B4RM-es Hieha 23 Kit Accesorio Universal de Cámara Deportiva Action CAM Acuatica Maletín Estuche Cinturón Pecho Arnes Correa Cabeza Palo Flotante Trípode para Victsing Campark GoPro Hero Session SJCAM'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

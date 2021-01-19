@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-DhPacVoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TMKGZ3-es'
+slug: 'B083TMKGZ3-es Temfly Amplificador de WiFi Repetidor WiFi 300Mbps/2.4GHz Repetidor Señal WiFi Universal  WiFi Repetidor Amplificador Extensor Red WiFi con 2 Antenas Externo EU Enchufe'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

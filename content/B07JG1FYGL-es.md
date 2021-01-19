@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CmYbuJ75L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG1FYGL-es'
+slug: 'B07JG1FYGL-es Lacoste Sport GH353T Bañador  Azul  Marine   W40  Talla del Fabricante: 9  para Hombre'
 actualPrice: 30.81 EUR
 currency: EUR
 price: 30.81

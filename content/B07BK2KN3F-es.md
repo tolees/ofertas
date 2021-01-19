@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mcmithXyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BK2KN3F-es'
+slug: 'B07BK2KN3F-es Toshiba Satellite Pro R50-C-1E8 - Ordenador portátil de 15.6" HD  Intel Celeron 3855U  4 GB  128GB SSD  Intel HD Graphics 520  Windows 10 Pro  - Teclado QWERTY Español  color Negro grafito'
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

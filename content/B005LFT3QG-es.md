@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515HGdaibwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005LFT3QG-es'
+slug: 'B005LFT3QG-es Tarjeta de memoria SDHC SanDisk Extreme Pro 32GB  UHS-I  95MB/s '
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

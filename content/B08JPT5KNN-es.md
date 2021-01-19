@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oAC0B+PsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JPT5KNN-es'
+slug: 'B08JPT5KNN-es Toalla para Adultos de Color sólido  Reutilizable y Lavable de 6 Piezas para Hombres y Mujeres  Gris-6 '
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

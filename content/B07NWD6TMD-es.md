@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514AUl7q7QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWD6TMD-es'
+slug: 'B07NWD6TMD-es Uverbon Manguera de Jardín Extensible 100FT/ 30M Manguera Extensible con Latón Sólido  Boquilla de 9 Modos de Pulverización Bolsa de Transporte para Lavado de Coches Ducha de Mascotas'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

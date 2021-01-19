@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Woran6DYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WCN9XF-es'
+slug: 'B071WCN9XF-es Reebok Club C 85 Melted Metals  Zapatillas para Mujer  Dorado  Pearl Metallic-Peach/White   37.5 EU'
 actualPrice: 26.81 EUR
 currency: EUR
 price: 26.81

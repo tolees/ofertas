@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rs2HvThOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LLZKG7-es'
+slug: 'B071LLZKG7-es Sphero R2-D2 App-Enabled Droid de Sphero'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

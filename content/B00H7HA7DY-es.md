@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515zkymxJaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H7HA7DY-es'
+slug: 'B00H7HA7DY-es BOSS - Arezzo  Carteras Hombre  Negro  Schwarz   1x1x1 cm  B x H T '
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

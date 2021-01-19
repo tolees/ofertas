@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nZuC1CMCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GL1HOQ-es'
+slug: 'B000GL1HOQ-es Rollo decorativo estilo reptiles'
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

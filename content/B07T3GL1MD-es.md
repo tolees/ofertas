@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WU29nVSFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3GL1MD-es'
+slug: 'B07T3GL1MD-es Betued Herramienta de artesanía Ajustable del Divisor del compás de la precisión del ángulo del Fabricante de Herramientas de la joyería'
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

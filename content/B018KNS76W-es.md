@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S8U8hi5SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018KNS76W-es'
+slug: 'B018KNS76W-es Skechers Men s Equalizer-Double Play Moccasins  Black  Black   6.5 UK  40 EU '
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

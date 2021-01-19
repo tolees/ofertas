@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kpbHZTTvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KM2PLH2-es'
+slug: 'B07KM2PLH2-es Gant Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 7630043930946'
 actualPrice: 47.6 EUR
 currency: EUR
 price: 47.6

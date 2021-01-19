@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DyEINuTWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0849CVHPS-es'
+slug: 'B0849CVHPS-es Gigantosaurus'
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

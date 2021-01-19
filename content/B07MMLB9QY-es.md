@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EEX+AwYAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLB9QY-es'
+slug: 'B07MMLB9QY-es Hode Papel Adhesivo para Muebles Puerta Pared Cocina Papel Pintado Imitacion Decorativo Panel Madera Vintage Vinilos Decorativos Madera Blanco 45X300cm'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

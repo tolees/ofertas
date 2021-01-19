@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pbmvu4gwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004JMTY2K-es'
+slug: 'B004JMTY2K-es Bosch AHM 38 G - Cortacésped manual'
 actualPrice: 64.45 EUR
 currency: EUR
 price: 64.45

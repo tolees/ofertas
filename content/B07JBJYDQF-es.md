@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WNyT84ceL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBJYDQF-es'
+slug: 'B07JBJYDQF-es Hackett Garment Dyed Jeans Pantalones   Off White 803   31W / 32L para Hombre'
 actualPrice: 24.01 EUR
 currency: EUR
 price: 24.01

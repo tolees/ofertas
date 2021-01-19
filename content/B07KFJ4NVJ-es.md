@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tR9+ty6bL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFJ4NVJ-es'
+slug: 'B07KFJ4NVJ-es Adidas Runfalcon Zapatillas de trail running Hombre  Blanco  Ftwbla/Ftwbla/Ftwbla 000   42 2/3 EU'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

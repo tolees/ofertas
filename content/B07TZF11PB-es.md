@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bc4rg%2BinL._SL200_
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZF11PB-es'
+slug: 'B07TZF11PB-es Parfois - Bandolera Con Asa De Cadena - Mujeres - Tallas M - Rosa'
 actualPrice: 13 EUR
 currency: EUR
 price: 13

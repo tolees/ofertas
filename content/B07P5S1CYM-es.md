@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313ux4VBfzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5S1CYM-es'
+slug: 'B07P5S1CYM-es 3 Unids Perro Ropa de Cama Suave de Poliéster Edredón Funda Nórdica Juego de Cama con Funda de Almohada para Accesorios UK King '
 actualPrice: 14.29 EUR
 currency: EUR
 price: 14.29

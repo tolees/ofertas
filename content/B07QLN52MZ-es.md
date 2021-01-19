@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519I-dKIaTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLN52MZ-es'
+slug: 'B07QLN52MZ-es Borderlands 3 - Edición Estándar  Windows  Disc'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

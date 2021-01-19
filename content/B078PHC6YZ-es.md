@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41n3upoVtIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078PHC6YZ-es'
+slug: 'B078PHC6YZ-es Vans Ward - Zapatillas para Mujer  Negro  Suede/Canvas/Black/White Iju   39 EU'
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

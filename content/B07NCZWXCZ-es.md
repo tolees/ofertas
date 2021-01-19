@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eC5HhrGLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCZWXCZ-es'
+slug: 'B07NCZWXCZ-es SYOSS - Reavivador de Rizos y Ondas - Efecto Anti Encrespamiento - 100 ml'
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bUh+MfTsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYCV42G-es'
+slug: 'B07FYCV42G-es Champion Freedom Seamless  Soutien-Gorge de Sport Femme  Noir  Noir 3am   Small  Taille Fabricant: S '
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

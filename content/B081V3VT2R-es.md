@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ekNSgB2ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081V3VT2R-es'
+slug: 'B081V3VT2R-es Arbily Auriculares Inalámbricos  Auriculares Estéreo Bluetooth 5.0 en la Oreja con Caja de Carga de Cuero Auriculares Bluetooth para Negocios  Trabajo  Deporte  Mic  Fácil de Emparejar  Impermeable '
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

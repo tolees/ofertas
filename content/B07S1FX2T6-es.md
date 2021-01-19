@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61TC0V2Cq5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1FX2T6-es'
+slug: 'B07S1FX2T6-es Neusky - Aspersor de agua para niños  bebés y perros en verano'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

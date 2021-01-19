@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HEdAJvqwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G51D3QA-es'
+slug: 'B01G51D3QA-es Biomecanics 161141  Zapatillas de Estar por casa para Bebés  Azul  Azul Marino /Sauvage   24 EU'
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

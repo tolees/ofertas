@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oNa+G3cSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M83VYY3-es'
+slug: 'B07M83VYY3-es Napapijri TALY 2 LS Polo  Azul  French Blue Bb7   XXXL para Hombre'
 actualPrice: 31.6 EUR
 currency: EUR
 price: 31.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mQ1WdYMXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSMSXR6-es'
+slug: 'B07VSMSXR6-es IPL Depiladora de Luz Pulsada  Láser de Depilación Permanente para Cuerpo y Cara Dispositivo Láser Profesional sin Dolor para el Hogar  P113-Blanco '
 actualPrice: 48.59 EUR
 currency: EUR
 price: 48.59

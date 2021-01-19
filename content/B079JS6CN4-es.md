@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dYZylsN3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JS6CN4-es'
+slug: 'B079JS6CN4-es Aprilis 8 Bombas de Baño Productos de Baño Imprescindibles  Baño de Burbujas  Sales de Baño'
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

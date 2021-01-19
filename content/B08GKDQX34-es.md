@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31suPM482ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GKDQX34-es'
+slug: 'B08GKDQX34-es GZ Caja De Almacenamiento De Máscara A Prueba De Polvo Impermeable Caja De Organizador De Cubierta Facial Desechable  3 Piezas Azul Rosado Verde '
 actualPrice: 3.58 EUR
 currency: EUR
 price: 3.58

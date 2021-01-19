@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41av2bGwNdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0787GLP3X-es'
+slug: 'B0787GLP3X-es Columbia Meadows Slip-On Omni-Heat  Botas Bajas para Mujer  Negro  HEA-Black  Dark STO   38 1/2 EU'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21m2uiL0CkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1VNWJ-es'
+slug: 'B07KG1VNWJ-es 1 Par Súper Suave de Silicona Punta del Pie Ballet Zapato Tacones Altos Toe Gel Herramienta Cuidado del Pie para Pie Protección Masaje'
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

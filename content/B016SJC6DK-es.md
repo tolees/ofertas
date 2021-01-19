@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510e4M959RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016SJC6DK-es'
+slug: 'B016SJC6DK-es BeMaxx Juego de Bandas de Resistencia elásticas + guía de Ejercicios – Cintas Profesionales: 5 Tubos de látex + Tobillera  Anclaje para Puerta & Asas | Fitness  Gimnasio  Crossfit  Culturismo'
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

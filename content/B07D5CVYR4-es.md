@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51P0i+GJ8DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5CVYR4-es'
+slug: 'B07D5CVYR4-es Deadpool 2 [Blu-ray]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

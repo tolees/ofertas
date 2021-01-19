@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OnmoANyTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JML2RJ9-es'
+slug: 'B07JML2RJ9-es Ever-Pretty A-línea Vestito de Gala Cuello Redondo sin Mangas Encaje Gasa para Mujer Azul Marino 42'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

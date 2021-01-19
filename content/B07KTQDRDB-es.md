@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cTlFC3C6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTQDRDB-es'
+slug: 'B07KTQDRDB-es Scuderia Ferrari Reloj de Pulsera 830588'
 actualPrice: 136.5 EUR
 currency: EUR
 price: 136.5

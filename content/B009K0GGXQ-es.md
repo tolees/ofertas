@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gk-EUcsEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B009K0GGXQ-es'
+slug: 'B009K0GGXQ-es Bella Aurora Splendor Crema Facial Reafirmante Cuello y Escote Hidratante para Mujer Anti-Edad Tratamiento Anti-Arrugas para la Cara Sin Parabenos Día y Noche  50 ml'
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

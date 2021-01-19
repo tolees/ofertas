@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317135QjqEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRF2FS8-es'
+slug: 'B07NRF2FS8-es SYOSS - Espuma Rizos Flex - Rizos Perfectamente Definidos Sin Encrespamiento - 2uds de 250ml'
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

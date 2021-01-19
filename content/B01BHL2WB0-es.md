@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513mX5yVe8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BHL2WB0-es'
+slug: 'B01BHL2WB0-es Police 14536JSB/12A - Reloj mecánico para hombre con pantalla analógica de esfera marrón y correa de piel marrón'
 actualPrice: 134.95 EUR
 currency: EUR
 price: 134.95

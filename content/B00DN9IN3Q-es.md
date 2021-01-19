@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BH9HeLdVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DN9IN3Q-es'
+slug: 'B00DN9IN3Q-es Kölln Muesli de chocolate - 500 g'
 actualPrice: 3.8 EUR
 currency: EUR
 price: 3.8

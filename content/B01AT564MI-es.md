@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516Fj5DvDbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AT564MI-es'
+slug: 'B01AT564MI-es CrossBoule Heroes Batman vs. Superman'
 actualPrice: 8.52 EUR
 currency: EUR
 price: 8.52

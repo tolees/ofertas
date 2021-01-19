@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wiaSAhwiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNMJK5R-es'
+slug: 'B07NNMJK5R-es Pack Vikingos 15 [DVD]'
 actualPrice: 46.19 EUR
 currency: EUR
 price: 46.19

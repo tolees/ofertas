@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21yTz5vEaEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0117IGAF2-es'
+slug: 'B0117IGAF2-es HP X3000 - Ratón inalámbrico óptico  Color Blanco'
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

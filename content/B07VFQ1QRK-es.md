@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418H+g+RcqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFQ1QRK-es'
+slug: 'B07VFQ1QRK-es Lee Extreme Motion Short Pantalones Cortos  Verde  Khaki 08   50  Talla del Fabricante: 29  para Hombre'
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

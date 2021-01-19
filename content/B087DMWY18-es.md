@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21ZV2IgoPpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087DMWY18-es'
+slug: 'B087DMWY18-es San Ignacio Q3519 Cuchillo chuletero 11 cm con Mango de Puntos colección Yeste  Acero Inoxidable'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

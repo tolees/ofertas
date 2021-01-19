@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UKJ3dvXKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSCQH5P-es'
+slug: 'B07SSCQH5P-es Coronel Tapiocca Maletín Ordenador Red Azul Hombre'
 actualPrice: 22.03 EUR
 currency: EUR
 price: 22.03

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ymvhushUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQHW4TM-es'
+slug: 'B07JQHW4TM-es 28 Palms 9" Inseam Cotton Tencel Chino Short Shorts  Bronceado  38'
 actualPrice: 17.76 EUR
 currency: EUR
 price: 17.76

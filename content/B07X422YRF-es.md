@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wIfemyYUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X422YRF-es'
+slug: 'B07X422YRF-es Himaly Báscula de baño Antideslizante  Digital de Alta Medición Precisa 180kg / 400lbs  Pantalla LCD digital de gran área   Negro '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

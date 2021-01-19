@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vfLkHRhFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087VH7KFX-es'
+slug: 'B087VH7KFX-es Columbia Lake 22 Chaquetas  Hombre  Bright Indigo  M'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

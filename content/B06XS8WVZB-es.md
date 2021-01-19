@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31T4PbdVD-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XS8WVZB-es'
+slug: 'B06XS8WVZB-es Waneway Espejo Maquillaje Iluminado con 12 X 3W Bombillas LED Ajustable Y Diseño De Control Táctil  Espejo de Tocador Mesa con Luz LED Estilo Hollywood  Espejo Cosmético con Luces  Blanco'
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

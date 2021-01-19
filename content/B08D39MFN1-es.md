@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jbTbNd9xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D39MFN1-es'
+slug: 'B08D39MFN1-es Gebildet 4pcs DC3V-6V DC Motorreductor para Coche de Juguete con Tracción en Las Cuatro Ruedas/Cuerpo Robótico/Juguetes de Aviones+4pcs Plástico Rueda Neumático'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HKyFfqT-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5TJ8GL-es'
+slug: 'B07J5TJ8GL-es Skechers Equalizer 3.0  Zapatillas sin Cordones para Hombre  Negro  Black Mesh/PU/Trim BBK   39 EU'
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

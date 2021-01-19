@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P3WZBF2NL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQ837DC-es'
+slug: 'B07PQ837DC-es Kipling Cindy  Cartera para Mujer  Plateado  Steel Grey Gifting   11.5x8x1 centimeters  B x H x T '
 actualPrice: 9.91 EUR
 currency: EUR
 price: 9.91

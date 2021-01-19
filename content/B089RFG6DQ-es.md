@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g-SzUs8rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089RFG6DQ-es'
+slug: 'B089RFG6DQ-es Pistola de Masaje Muscular  ANFLAG Premium Masajeador de Músculo Profundo  Massage Gun portátil con 5 Cabezas de Masaje/5 Modos de Masaje/LCD Pantalla/Silencioso para Relajación Recuperación'
 actualPrice: 109.97 EUR
 currency: EUR
 price: 109.97

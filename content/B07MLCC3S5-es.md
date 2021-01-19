@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417sDX-jPVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLCC3S5-es'
+slug: 'B07MLCC3S5-es LOBKIN Bluetooth Wireless Earbuds  Latest Bluetooth 5.0 Deep Bass Dual-Microphone True Wireless Sports Earbuds with Easy Pair Tech and Portable Case  Black '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

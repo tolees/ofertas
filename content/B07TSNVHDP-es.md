@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bt0fiEAPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSNVHDP-es'
+slug: 'B07TSNVHDP-es Olycism Compatible para Garmin Edge 530 / Edge 830 Protector de Pantalla  2-Pack  Ajuste Alta Definición 9H Dureza Anti-arañazo No Hay Burbujas Ultra Resistente Vidrio Cristal Templado'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

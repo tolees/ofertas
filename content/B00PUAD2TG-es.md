@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412G90LEloL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PUAD2TG-es'
+slug: 'B00PUAD2TG-es Belkin Boosy Up - Cargador para Coche Universal con Cable Lightning Integrado para iPhone  Compatible con iPhone 11  11 Pro/Pro Max  XS  XS Max  XR  X  8  8 Plus '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

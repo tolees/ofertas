@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510WFTHj3PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y7QWD2V-es'
+slug: 'B07Y7QWD2V-es Compatible con iPhone XS Max Carcasa transparente de silicona ultrafina [antiamarillo] antihuellas  funda protectora antiarañazos  diseño de Halloween para iPhone XS Max 8 Talla única'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

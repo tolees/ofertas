@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mdf7HCcaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZG3V3X2-es'
+slug: 'B07ZG3V3X2-es Medisana HP 650 XL - Almohada Eléctrica Dorsal con 4 Niveles de Temperatura  Protección contra Sobrecalentamiento  Desconexión Automática  Lavable  45 x 35 cm'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

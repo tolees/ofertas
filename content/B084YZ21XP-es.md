@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h8828+T6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084YZ21XP-es'
+slug: 'B084YZ21XP-es LoveOlvido Color Aleatorio Tortuga en la Cadena Mainspring Toys Parent - Children Interaction Educational Pull Line Rope Toy - Random'
 actualPrice: 1.13 EUR
 currency: EUR
 price: 1.13

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mE48WZ0lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT8TKTC-es'
+slug: 'B07RT8TKTC-es DEKO Juego de herramientas de 138 piezas Caja de Herramienta Para Hogar maletin de Herramientas de Reparación Universal con Estuche de Plástico  Incluido Nivel Torpedo Martillo Destornilladorta'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

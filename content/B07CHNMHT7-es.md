@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UBVrf8BSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHNMHT7-es'
+slug: 'B07CHNMHT7-es Mr. Wonderful WOA09177ES - Set de 2 libretas para mentes inquietas'
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

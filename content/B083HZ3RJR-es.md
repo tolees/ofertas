@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OeC+mP+2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HZ3RJR-es'
+slug: 'B083HZ3RJR-es Funda Protectora para teléfono móvil de diseño Lindo Funda de Silicona Duradera Funda Protectora para teléfono móvil iPhone'
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SdEn0DstL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DV582JM-es'
+slug: 'B00DV582JM-es Superga 2750 COTU Classic  Zapatillas Unisex  Azul  Blue Shadow C57   39.5 EU'
 actualPrice: 33.82 EUR
 currency: EUR
 price: 33.82

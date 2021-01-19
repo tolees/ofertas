@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CGBpuYYvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086WBM1FC-es'
+slug: 'B086WBM1FC-es ZXL Protector de Borde  Protector de Esquina de Mesa  Gel de sílice para bebés Evita contusiones Protecciones de Esquina de Borde de Seguridad  4 Piezas   Color: Verde '
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

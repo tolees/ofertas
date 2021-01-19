@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E2a3pWNLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HPV36V-es'
+slug: 'B076HPV36V-es adidas Core18 Rn Jkt Y Sport Jacket  Unisex niños  Power Red/White  5-6Y'
 actualPrice: 20.14 EUR
 currency: EUR
 price: 20.14

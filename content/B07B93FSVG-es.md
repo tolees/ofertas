@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vw-4ijJyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B93FSVG-es'
+slug: 'B07B93FSVG-es Clarks Original Desert - Botas para Hombre  Marrón  Beeswax Leather   39.5 EU'
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

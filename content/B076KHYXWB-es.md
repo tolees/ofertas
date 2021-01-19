@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Yho0UcSJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076KHYXWB-es'
+slug: 'B076KHYXWB-es ORICO - Soporte para Monitor de computadora portátil  Soporte de Pantalla de Monitor de Aluminio para Monitor/computadora portátil/Tableta/Apple Metal Silver  tamaño 40 * 21 * 4.5CM'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

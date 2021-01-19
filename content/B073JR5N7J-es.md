@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417RRYdDRLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JR5N7J-es'
+slug: 'B073JR5N7J-es find. Cazadora Acolchada Hombre  Azul  Navy   54  Talla del fabricante: X-Large '
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

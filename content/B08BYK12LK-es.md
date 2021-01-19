@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BARINazaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BYK12LK-es'
+slug: 'B08BYK12LK-es Limpiador de Oídos Limpia Cera Oidos Q grips Cera Oidos Kit de limpieza Para Oídos  Sistema Espiral Inteligente  con Mango y 16 Puntas Lavables  Seguro y Suave  Adecuado para Niños y Adultos'
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

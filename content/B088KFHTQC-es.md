@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516T-9Tc-IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088KFHTQC-es'
+slug: 'B088KFHTQC-es LEEYYO 50PCS  verde  tela no tejida  limpia/al aire libre'
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67

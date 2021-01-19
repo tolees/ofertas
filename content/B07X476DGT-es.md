@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nYC4xrhTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X476DGT-es'
+slug: 'B07X476DGT-es Mentos Chicle Sin Azúcar Full Fruit Bote con Sabor a Frutas Silvestres : 60 gramos'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

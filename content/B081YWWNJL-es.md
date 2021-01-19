@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JLRP1lUeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081YWWNJL-es'
+slug: 'B081YWWNJL-es Humidificador Ultrasónico Control Remoto Difusor de Aromaterapia Difusor de Aceites Esenciales con LED Purificador de Aire para en el Hogar Oficina Bebé Sp'
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417tnZfW7iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017B0WAFE-es'
+slug: 'B017B0WAFE-es Tommy Hilfiger Bralette Sujetador Deportivo  Blanco  WHITE 100   36  talla del fabricante: SM  para Mujer'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

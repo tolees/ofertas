@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IdmxpibZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074CFQ8FG-es'
+slug: 'B074CFQ8FG-es NOVECASA Pantalones Cortos de Compresión para Hombre con Faja Moldeadora Abdominal Plano Calzoncillos Reductoros Elásticos Shapewear  XL 80-95 kg   Negro'
 actualPrice: 18.96 EUR
 currency: EUR
 price: 18.96

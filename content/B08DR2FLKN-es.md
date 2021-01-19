@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41er6Vc5YAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DR2FLKN-es'
+slug: 'B08DR2FLKN-es X-Crystal Mini Ventilador de Aire Acondicionado portátil  humidificador de Aire evaporativo de Tres velocidades  Enfriador de Aire de neblina portátil  para la Oficina en el hogar'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

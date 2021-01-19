@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SGAYVo0+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O32UOBQ-es'
+slug: 'B00O32UOBQ-es Bourjois Contour Edition Perfilador de Labios Tono 01 Nude wave - 4 gr.'
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

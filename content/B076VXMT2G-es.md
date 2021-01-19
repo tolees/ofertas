@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410DxwKFMtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076VXMT2G-es'
+slug: 'B076VXMT2G-es G-STAR RAW Tendric 3D Mid Waist Boyfriend Pantalones  Verde  lt Hunter 9497-8165   29W / 30L para Mujer'
 actualPrice: 27.08 EUR
 currency: EUR
 price: 27.08

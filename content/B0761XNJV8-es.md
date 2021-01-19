@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tgSZQhtLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0761XNJV8-es'
+slug: 'B0761XNJV8-es Creative Omni - Altavoz portátil inalámbrico Multi-Room  Color Blanco'
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

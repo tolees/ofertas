@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-flGr2E1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSHDJPW-es'
+slug: 'B07TSHDJPW-es Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Dorado  Gold   45 EU'
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

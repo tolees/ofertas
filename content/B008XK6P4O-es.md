@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k0NwYaPCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008XK6P4O-es'
+slug: 'B008XK6P4O-es DIM Generous Minimizer Sujetador Reductor  Blanco  White   90D para Mujer'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

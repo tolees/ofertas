@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rZLgXjy6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7STVTL-es'
+slug: 'B07F7STVTL-es Pendientes de plata de ley con diseño de calavera'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

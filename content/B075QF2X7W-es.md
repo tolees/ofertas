@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e+hKQK3IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QF2X7W-es'
+slug: 'B075QF2X7W-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FS5381'
 actualPrice: 89.4 EUR
 currency: EUR
 price: 89.4

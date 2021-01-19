@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Grj5TAc1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQNL5R6-es'
+slug: 'B07BQNL5R6-es Goliath- Boomtrix  Pack Lanzadera y trampolines  80602    color/modelo surtido'
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

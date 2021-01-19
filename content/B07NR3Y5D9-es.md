@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41372CkXIfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NR3Y5D9-es'
+slug: 'B07NR3Y5D9-es Skechers MAX Cushioning Elite  Zapatillas para Hombre  Azul Marino Textil Naranja Borde Sintético Nvor  42.5 EU'
 actualPrice: 47.73 EUR
 currency: EUR
 price: 47.73

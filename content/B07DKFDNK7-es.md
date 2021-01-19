@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31mCbnExYGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKFDNK7-es'
+slug: 'B07DKFDNK7-es Kipling - Creativity L  Monederos Mujer  Morado  Active Lilac Bl '
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

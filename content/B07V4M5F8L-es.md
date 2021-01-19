@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Tm01KpzYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4M5F8L-es'
+slug: 'B07V4M5F8L-es Love Moschino Jc4270pp0a  Bolsa de mensajero para Mujer  Marrón  Camel Pu   10x14.5x25 Centimeters  W x H x L '
 actualPrice: 78.0 EUR
 currency: EUR
 price: 78.0

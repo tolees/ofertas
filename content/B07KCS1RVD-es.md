@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CecHpM9bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCS1RVD-es'
+slug: 'B07KCS1RVD-es Adidas T19 KN SHO M Pantalones Cortos de Deporte  Hombre  Black/White  S'
 actualPrice: 18.06 EUR
 currency: EUR
 price: 18.06

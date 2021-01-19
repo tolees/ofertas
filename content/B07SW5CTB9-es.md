@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OWZ85EbYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SW5CTB9-es'
+slug: 'B07SW5CTB9-es ALIKEY Sacacorchos Eléctrico nalámbrico profesional Caja de regalo recargable automática Kit de caja de vino regalo accesorios de vinoabre-botellas-Azul'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

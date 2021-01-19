@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21bNCwaVBOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3M29XN-es'
+slug: 'B07Z3M29XN-es K-GOLEIRO Kids'
 actualPrice: 26.94 EUR
 currency: EUR
 price: 26.94

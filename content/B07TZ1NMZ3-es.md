@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fDYIE7bvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ1NMZ3-es'
+slug: 'B07TZ1NMZ3-es Kipling Baroe S  Monederos para Mujer  Multicolor  Speckled   11.5x7x3 cm'
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

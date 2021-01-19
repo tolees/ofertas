@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ui9V2DmzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THYCD49-es'
+slug: 'B07THYCD49-es 1L Botella de Agua con Filtro Infusor de Fruta  Swonuk Botella Agua Deportiva Portátil BPA-Libre Botella de Agua  Diseño a Prueba de Fugas  para Niños  Adultos  Gimnasio  Escuela  Deporte'
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zkPQGG2oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014HJ76EC-es'
+slug: 'B014HJ76EC-es Alessi Cafetera de espresso Pulcina  negro  300 ml'
 actualPrice: 54.45 EUR
 currency: EUR
 price: 54.45

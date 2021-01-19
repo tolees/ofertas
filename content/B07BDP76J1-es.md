@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sbg8atJmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDP76J1-es'
+slug: 'B07BDP76J1-es American Tourister Disney Wavebreaker - Maleta Infantil  Spinner S  55 cm - 36 L   Multicolor  Minnie Close-Up '
 actualPrice: 76.3 EUR
 currency: EUR
 price: 76.3

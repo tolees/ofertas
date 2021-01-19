@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m417uzztL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDPYPQL-es'
+slug: 'B07RDPYPQL-es Tommy Hilfiger Longline Bra Sujetador con Push-up  Rosa  Pale Blush 612   K  Talla del Fabricante: C70  para Mujer'
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

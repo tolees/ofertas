@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qT16E3D-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBX3BS8-es'
+slug: 'B07KBX3BS8-es Nyx Professional Makeup Corrector No Comedogénico  Waterproof Y De Larga Duración Can T Stop Won T Stop 24H 24H Tono 2 Alabaster Para Pieles Claras'
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

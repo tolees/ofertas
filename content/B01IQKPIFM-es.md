@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21hioytA+NL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IQKPIFM-es'
+slug: 'B01IQKPIFM-es Revlon Ultra HD Pintalabios Matte  #675 Infatuation '
 actualPrice: 4.36 EUR
 currency: EUR
 price: 4.36

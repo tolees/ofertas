@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vUpv8-zmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZYVJ7K-es'
+slug: 'B07PZYVJ7K-es 2 Pares Calcetines/Medias de Compresión para Hombres y Mujeres  Running  Deporte  Correr  Senderismo  Volar  Viajar  Varicosas  Embarazo y Médicos  EU 39-42  Azul - 2 Pairs '
 actualPrice: 7.42 EUR
 currency: EUR
 price: 7.42

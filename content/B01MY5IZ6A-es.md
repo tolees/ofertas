@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PJvAQICBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY5IZ6A-es'
+slug: 'B01MY5IZ6A-es Rimmel London Oh My Gloss Tint Brillo de Labios Tono 100 - 22 6 gr'
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

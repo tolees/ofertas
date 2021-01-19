@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j43YH-fWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0DQ8Z5-es'
+slug: 'B01N0DQ8Z5-es Ariete 155/15 - Tostador 2 ranuras anchas  vintage  6 posiciones  función descongelar  recalentar  cancelar  paredes frías  pies antideslizante  recogecable  810 W  color azul'
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xTImoiyFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PYAPO2A-es'
+slug: 'B00PYAPO2A-es Biotina 45 comprimidos para fortalecimiento de pelo y uñas Drasanvi'
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

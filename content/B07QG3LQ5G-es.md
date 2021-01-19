@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GzJAcugHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QG3LQ5G-es'
+slug: 'B07QG3LQ5G-es Lékué - Kit Estuche de vapor 1 2 personas + libro de recetas  650 ml  Silicona'
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

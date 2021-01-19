@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411ZG121l5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814TNDMJ-es'
+slug: 'B0814TNDMJ-es GRDE Power Bank 24000mAh  Cargador Portátil con Doble 2.1A Puertos  Carga Rápida Batería Externa  4 LED Indicadores para Teléfono  Tablet etc'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

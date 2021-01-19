@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41grGp0eDIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075TBP7QS-es'
+slug: 'B075TBP7QS-es Badger Protector solar para bebé SP30 | 1 x 87 ml'
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

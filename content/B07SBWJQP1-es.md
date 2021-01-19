@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F9DGzZCPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBWJQP1-es'
+slug: 'B07SBWJQP1-es PUMA ST Runner V2 NL JR  Zapatillas Unisex niños  Negro Black White/Meadowlark  39 EU'
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

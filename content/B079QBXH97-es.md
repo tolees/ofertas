@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/318GdqSzU0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QBXH97-es'
+slug: 'B079QBXH97-es hummel Pantalon Junior Corporate Fit Polyester'
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

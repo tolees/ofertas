@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51B7eZrUc7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5B5HHE-es'
+slug: 'B01M5B5HHE-es Scottex Sensitive Papel Higiénico - 18 rollos'
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

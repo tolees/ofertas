@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D+8mOEREL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ6JY2N-es'
+slug: 'B07JQ6JY2N-es Under Armour Men s Printed Blitzing 3.0 Gorra  Hombre  Gris  XL/XXL'
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

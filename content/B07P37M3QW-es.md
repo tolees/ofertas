@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H7uFl4g9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P37M3QW-es'
+slug: 'B07P37M3QW-es Moon and Back de Hanna Andersson - Pack de 5 camisetas de algodón orgánico con cuello redondo para niño  Gris  3 años  87-97 CM '
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

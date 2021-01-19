@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BZNG0XJSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0056MHSL6-es'
+slug: 'B0056MHSL6-es Pincho 400401 Soporte sombrilla  Rojo  32x18x8 cm'
 actualPrice: 1.67 EUR
 currency: EUR
 price: 1.67

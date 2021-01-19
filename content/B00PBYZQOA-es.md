@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/511XsavPPRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PBYZQOA-es'
+slug: 'B00PBYZQOA-es Linterna para la cabeza con 21 luces LED - Linterna Ligera  cómoda e impermeable resistente al agua segura para su cabeza - 4 modos de operación fáciles de usar - Linterna para garaje  taller y jardín  linterna para la cabeza para ciclismo  escalar  cámping  paseos caninos  excursionismo  pesca  lectura nocturna  correr y otras actividades en espacios abiertos y cerrados - Correa de cabeza ajustable - Ángulo de luz ajustable a 135 grados - Durabilidad de hasta 100.000 horas  en EMPAQUE ORIGINAL  - NEGRO'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

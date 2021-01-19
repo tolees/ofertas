@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413qp4u4miL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYY4NG1-es'
+slug: 'B07TYY4NG1-es Merrell Moab 2 Mid GTX  Botas de Senderismo para Hombre  Gris  Boulder   44.5 EU'
 actualPrice: 98.49 EUR
 currency: EUR
 price: 98.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31if1CINWTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6WK55V-es'
+slug: 'B07K6WK55V-es adidas TIRO19 WOV PNT Pantalones de Deporte  Hombre  Negro  Black/White   L'
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

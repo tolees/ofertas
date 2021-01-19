@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51joLkD13QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MG00CTF-es'
+slug: 'B01MG00CTF-es Speedo Sea Squad Armbands Aprender a Nadar  Unisex niños  Rosa Vegas/Azul Bali  One Size'
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

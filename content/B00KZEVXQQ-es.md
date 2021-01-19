@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TZtmFgWyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KZEVXQQ-es'
+slug: 'B00KZEVXQQ-es BSN Nutrition Amino X  Suplementos Deportivos BCAA Polvo con Aminoacidos Esenciales y Vitamina D  Aminoacidos BCAA para Musculacion  Manzana Verde  70 Porciones  1kg'
 actualPrice: 23.77 EUR
 currency: EUR
 price: 23.77

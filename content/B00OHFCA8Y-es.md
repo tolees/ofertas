@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w2aX8HreL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OHFCA8Y-es'
+slug: 'B00OHFCA8Y-es Kappa Corato Punto deportivo  Hombre  Azul Royal  L'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

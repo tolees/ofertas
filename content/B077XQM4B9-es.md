@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BnNIHpI0L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XQM4B9-es'
+slug: 'B077XQM4B9-es Under Armour Recovery Travel Track Jacket Parte Superior del Calentamiento  Hombre  Negro  Black/Metallic Silver 001   S'
 actualPrice: 18.8 EUR
 currency: EUR
 price: 18.8

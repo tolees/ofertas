@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416aOlL9FxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MDY52F-es'
+slug: 'B077MDY52F-es Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Beige  Peach Beige   37 EU'
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

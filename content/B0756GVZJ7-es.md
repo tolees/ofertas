@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SvYOFli7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756GVZJ7-es'
+slug: 'B0756GVZJ7-es Rexona Roll-On Tropical Desodorante para Mujer - 50 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

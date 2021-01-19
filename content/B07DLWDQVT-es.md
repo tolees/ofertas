@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zc262NPpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLWDQVT-es'
+slug: 'B07DLWDQVT-es DURAGADGET Trípode Profesional para Cámara Fujifilm X-T100 / Ivation IV-WPDC20R / Sony RX100 Vi/DSC-RX100M6 - con Nivel De Burbuja'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

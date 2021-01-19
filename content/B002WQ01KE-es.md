@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DMuMXdBaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002WQ01KE-es'
+slug: 'B002WQ01KE-es Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Beige  Mushroom   36 EU'
 actualPrice: 33.23 EUR
 currency: EUR
 price: 33.23

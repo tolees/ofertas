@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IHo0CQlfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08176LGWW-es'
+slug: 'B08176LGWW-es Columbia Klamath Range II Forro Polar con Media Cremallera  Hombre  Gris  Negro  City Grey  Shark   M'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

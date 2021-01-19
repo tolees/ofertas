@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51WCScLXtRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O94JFWW-es'
+slug: 'B00O94JFWW-es Fujifilm instax Mini 8 Kit - cámaras con impresión instantánea  0 6-2 7m  0 2s  AA  1 5V  11 6 cm  11 83 cm  Azul'
 actualPrice: 72.5 EUR
 currency: EUR
 price: 72.5

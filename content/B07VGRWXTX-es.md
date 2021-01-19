@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41386r7WrLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGRWXTX-es'
+slug: 'B07VGRWXTX-es HUGO Reloj Analógico para Unisex Adulto de Cuarzo con Correa en Cuero 1530101'
 actualPrice: 63.0 EUR
 currency: EUR
 price: 63.0

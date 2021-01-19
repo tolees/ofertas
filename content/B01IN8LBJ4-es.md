@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41doXjC79PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IN8LBJ4-es'
+slug: 'B01IN8LBJ4-es Braun Series 9 9240 s - Afeitadora eléctrica para hombre de lámina  en húmedo y seco  máquina de afeitar barba con base cargadora  negro/azul  sólo recargable  inalámbrico'
 actualPrice: 224.9 EUR
 currency: EUR
 price: 224.9

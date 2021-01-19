@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Sx-nY4VcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDNXM21-es'
+slug: 'B07BDNXM21-es American Tourister Sunside Spinner 68 Expandible  3.7 kg  72.5/83.5 l  Negro  Black '
 actualPrice: 83.4 EUR
 currency: EUR
 price: 83.4

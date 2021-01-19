@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413VVj9hyuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXSK5R1-es'
+slug: 'B07MXSK5R1-es Gb Gold Pockit Air All Terrain - Silla de Paseo  Ultracompacta  De 6 Meses a 4 años  17 kg  Night Blue'
 actualPrice: 140.85 EUR
 currency: EUR
 price: 140.85

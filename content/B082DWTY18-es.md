@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z7nyz9uoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082DWTY18-es'
+slug: 'B082DWTY18-es Auriculares Inalámbricos  2-en 1 Estéreo Auriculares Bluetooth Deportivos y 10000mAh Estuche de Carga  500H Playtime  Impermeable Auriculares para Phone con Bluetooth'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I7gRVgdiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012D59PUU-es'
+slug: 'B012D59PUU-es NITROPC - PC Gamer VX *Rebajas de marzo 2020*  CPU Ryzen  4 x 3 40Ghz  T. Gráfica Nvidia GTX 1650 4GB  Hdd 2TB  Ram 16GB  Windows 10  + WIFI de regalo. pc gamer  pc gaming  pc para juegos  ordenador juegos'
 actualPrice: 799.22 EUR
 currency: EUR
 price: 799.22

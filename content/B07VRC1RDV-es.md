@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pTASaE36L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRC1RDV-es'
+slug: 'B07VRC1RDV-es Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones  Azul  Bluebell C3Z   XX-Large para Hombre'
 actualPrice: 21.73 EUR
 currency: EUR
 price: 21.73

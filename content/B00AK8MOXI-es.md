@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uYLWgo8FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AK8MOXI-es'
+slug: 'B00AK8MOXI-es Superga 2750 COTU Classic  Zapatillas Unisex Adulto  White C42  36 EU'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

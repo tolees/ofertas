@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Djsxr2NML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3X5JCZ-es'
+slug: 'B07S3X5JCZ-es New Balance 500  Zapatillas para Hombre  Gris  Grey TRS   41.5 EU'
 actualPrice: 46.93 EUR
 currency: EUR
 price: 46.93

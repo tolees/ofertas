@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KMgO7usQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1EATN5-es'
+slug: 'B01M1EATN5-es SUNLU WOOD Filamento  PLA Madera 1.75 1kg Spool Impresora 3D  Precisión dimensional +/- 0.02 mm  PLA Madera'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

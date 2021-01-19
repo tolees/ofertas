@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51G-QDos1eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082V9WMND-es'
+slug: 'B082V9WMND-es DANISH ENDURANCE Calcetines de Senderismo y Trekking de Lana Merino para Hombre  Mujer y Niños  3 Pares  Multicolor: Azul Marino  Gris  Verde  EU 39-42 '
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

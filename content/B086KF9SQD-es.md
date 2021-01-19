@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SwVD082kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086KF9SQD-es'
+slug: 'B086KF9SQD-es Bullpadel Hack Knit 2019 Gris Num 46  Zapatillas Deportivas Adultos Unisex  Multicolor'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

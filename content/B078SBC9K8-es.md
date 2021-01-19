@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51N-kyWuAtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SBC9K8-es'
+slug: 'B078SBC9K8-es L CARNITINA Liquida 3000 mg.Suplemento Deportivo L-Carnitina Natural-Quemagrasas Líquido-Alta Absorción-Mejor Rendimiento.20 Viales-Facil Apertura-No se Rompen.Certificado VEGANO. N2 Natural Nutrition'
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

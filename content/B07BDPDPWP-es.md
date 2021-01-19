@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sR67QM0gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDPDPWP-es'
+slug: 'B07BDPDPWP-es American Tourister Sunside Spinner 55/20 Equipaje de Mano  55 cm  35 litros  Rojo  Sunset Red '
 actualPrice: 76.6 EUR
 currency: EUR
 price: 76.6

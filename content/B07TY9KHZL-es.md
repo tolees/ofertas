@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41E3TwoMYIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TY9KHZL-es'
+slug: 'B07TY9KHZL-es Parfois - Bandolera De Ante - Mujeres - Tallas M - Camel'
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

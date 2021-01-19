@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k6osOvBsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N571JLS-es'
+slug: 'B01N571JLS-es Sevilla GS-21-S Set de Desayuno'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

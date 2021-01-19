@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LoNZZrGqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HF59CN4-es'
+slug: 'B07HF59CN4-es Dulceida Mucho Amor Velvet - Funda para portátil de 15"  Color Rosa'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

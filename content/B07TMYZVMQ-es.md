@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AtYFtXz+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMYZVMQ-es'
+slug: 'B07TMYZVMQ-es Cortapelos Nariz y Oreja Recargable 5 en 1 Recortador de nariz Hombres y Mujeres Cortadoras de Vello Oreja Barba Patillas  Accesorios de Precisión de Acero Inoxidable con Tecnología Antipinzamiento'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

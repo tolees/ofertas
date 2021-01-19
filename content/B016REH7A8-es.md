@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uPLhR4DKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B016REH7A8-es'
+slug: 'B016REH7A8-es adidas Parma 16 Kinder Sport Shorts  Hombre  Black/White  5-6Y'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

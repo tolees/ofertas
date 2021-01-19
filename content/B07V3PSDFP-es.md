@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QMkc3k-kL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3PSDFP-es'
+slug: 'B07V3PSDFP-es homgeek Batidora de Vaso  Licuadora Smoothies de Alta Velocidad con 350W  2 Velocidades Molinillo  Licuadora Pequeña para Batidos de Frutas y Verduras  Fácil de Limpiar  Sin BPA  Plata '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

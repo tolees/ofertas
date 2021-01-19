@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-GuYbyK1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYQ92KP-es'
+slug: 'B07TYQ92KP-es Superga 2750 Cotu Classic  Zapatillas Unisex Adulto  Naranja  Orange Md X2f   35 EU'
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

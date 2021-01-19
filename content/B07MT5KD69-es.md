@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gMSbbQwwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MT5KD69-es'
+slug: 'B07MT5KD69-es Cerdá 2200004036 Toalla Polyester Toy Story Buzz Lightyear  Azul  70x140cm'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418+Bzzff7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M79D4RH-es'
+slug: 'B07M79D4RH-es Fossil Reloj de Bolsillo Digital FTW4019'
 actualPrice: 149.4 EUR
 currency: EUR
 price: 149.4

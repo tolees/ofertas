@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OEVvkJlIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VFQSQS6-es'
+slug: 'B00VFQSQS6-es Samsonite Lite-Shock - Spinner M Maleta  69 cm  73 L  Marrón  Sand '
 actualPrice: 308.3 EUR
 currency: EUR
 price: 308.3

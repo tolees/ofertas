@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316FyAczySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N94SLCW-es'
+slug: 'B01N94SLCW-es BENETTON PINK COL WOM 80V'
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

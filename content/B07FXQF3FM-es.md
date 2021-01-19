@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tZ8TdXJWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXQF3FM-es'
+slug: 'B07FXQF3FM-es Vans Filmore Decon  Zapatillas para Hombre  Rojo  Canvas  Port Royale/White 8j7   46'
 actualPrice: 38.34 EUR
 currency: EUR
 price: 38.34

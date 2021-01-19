@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wOL-Ule0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0827LNLDL-es'
+slug: 'B0827LNLDL-es LoveOlvido HW-546 ESP8266 Placa de Desarrollo Witty Cloud ESP-12F - Negro'
 actualPrice: 3.22 EUR
 currency: EUR
 price: 3.22

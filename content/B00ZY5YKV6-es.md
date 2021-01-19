@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31awzw1CogL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZY5YKV6-es'
+slug: 'B00ZY5YKV6-es Roc Soleil-Protect Leche Hidratante Corporal Protección Alta 30-200 ml'
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

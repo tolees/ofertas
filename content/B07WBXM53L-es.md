@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sPiqPQGVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBXM53L-es'
+slug: 'B07WBXM53L-es Tommy Hilfiger Hilfiger Slim Polo  Azul  Blue Ink   Large  Talla del Fabricante:  para Hombre'
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

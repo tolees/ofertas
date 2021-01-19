@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nKzb0F+kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHWYDB9-es'
+slug: 'B07VHWYDB9-es Vans Atwood Canvas  Zapatillas para Hombre  Azul   Enzyme Wash  Dress Blues/White W57   38.5 EU'
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

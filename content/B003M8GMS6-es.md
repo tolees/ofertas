@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YS-MX+GML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003M8GMS6-es'
+slug: 'B003M8GMS6-es OXO Good Grips Limpieza Profunda del Sistema de Cepillo - Cepillos para Limpiar en Profundidad'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

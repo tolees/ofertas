@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xcqn9jQoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071NWMVVG-es'
+slug: 'B071NWMVVG-es Asics T7D8N9006  Zapatillas de Running para Mujer  Negro  Black/Flash Coral/Carbon   37.5 EU'
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

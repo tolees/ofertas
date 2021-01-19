@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lxBGJBJEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XY9MWS1-es'
+slug: 'B06XY9MWS1-es Imperial Confort 617513  Topper Viscoelástico  135 x 190 cm - Grosor 5 cm'
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

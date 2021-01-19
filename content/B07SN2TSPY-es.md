@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vRqInNzxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SN2TSPY-es'
+slug: 'B07SN2TSPY-es Disney  Elsa Travel Frozen2 Classic - Disfraz de Elsa Travel  Multicolor  XL  9-10 años '
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

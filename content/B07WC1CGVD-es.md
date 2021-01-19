@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bvwg+JE4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC1CGVD-es'
+slug: 'B07WC1CGVD-es Regalos Originales para Hombre y Mujer Sombrero Bluetooth - Bluetooth 5.0 Sombrero Bluetooth  Sombrero de Invierno con Auriculares Bluetooth Inalámbricos  Apto para Esquí  Ciclismo  Trotar  JC-2 '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

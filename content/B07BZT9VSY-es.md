@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vr9mIvR+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZT9VSY-es'
+slug: 'B07BZT9VSY-es Triumph Infinite Sensation W01 Sujetador con Aros  Negro  Black 0004   100C  Talla del Fabricante: 85  para Mujer'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

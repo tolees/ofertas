@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oNSATZjIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TIWGURI-es'
+slug: 'B00TIWGURI-es Lacoste Crew Neck-sudadera Hombre  gris  Argent Chine   X-Small'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

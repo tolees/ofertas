@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CTlHHiGVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WO87VI-es'
+slug: 'B000WO87VI-es Bormioli Rocco 6238002 Plato Hondo Parma Cuadrado  23 Cm  Bormioli Rocco  Blanco  pack de 6'
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

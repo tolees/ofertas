@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N1ReyihlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076B9ZV6Y-es'
+slug: 'B076B9ZV6Y-es MagicLux Tech picadora Manual 3 Cuchillas Mini picadora de Carne Cortador Cebolla Picador de Verduras para Picar Frutas  Frutos Secos  Hierbas Cebolla  la Salsa  Ensalada 750ml '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

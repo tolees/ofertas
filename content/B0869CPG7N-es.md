@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Z371z7T5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0869CPG7N-es'
+slug: 'B0869CPG7N-es Controlador de control remoto universal Regulación de temperatura para calentador de estacionamiento de aire diesel Remolque Remoto inalámbrico - Negro y azul'
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

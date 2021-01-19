@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rmA3UGKqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GZ3F2WW-es'
+slug: 'B00GZ3F2WW-es Fonestar STV-649B - Soporte TV orientable brazo articulado'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

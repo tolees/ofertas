@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NXWJyM0LL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFL2BMX-es'
+slug: 'B07FFL2BMX-es Amazon Essentials Studio Relaxed-Fit Crewneck T-Shirt fashion-t-shirts  Negro  Medium'
 actualPrice: 8.76 EUR
 currency: EUR
 price: 8.76

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21+1qs2O4pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3SY2GN-es'
+slug: 'B07H3SY2GN-es Lékué -  Recipiente Hermético para Transportar Alimentos  600 milliliters  Plástico  Coral'
 actualPrice: 8.87 EUR
 currency: EUR
 price: 8.87

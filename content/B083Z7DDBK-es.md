@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gaRXQhLDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083Z7DDBK-es'
+slug: 'B083Z7DDBK-es Panamami Auricular Individual de 3 5 mm Auricular con Gancho para la Oreja con Cable Espiral Walkie Talkie Auriculares Políticas Auricular Militar-Negro'
 actualPrice: 3.68 EUR
 currency: EUR
 price: 3.68

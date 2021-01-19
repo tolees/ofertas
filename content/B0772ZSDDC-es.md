@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wQMxEPVBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772ZSDDC-es'
+slug: 'B0772ZSDDC-es Columbia Canyon Point Waterproof  Zapatillas de Senderismo  Impermeable para Hombre  Gris  Violeta  Charcoal  Intense Violet   37.5 EU'
 actualPrice: 65.63 EUR
 currency: EUR
 price: 65.63

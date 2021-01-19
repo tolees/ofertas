@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pU2GIJwoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JY3BYPX-es'
+slug: 'B07JY3BYPX-es Adidas Powerlift 4  Zapatillas de Deporte para Hombre  Negro  Core Black/Footwear White/Core Black 0   42 2/3 EU'
 actualPrice: 69.97 EUR
 currency: EUR
 price: 69.97

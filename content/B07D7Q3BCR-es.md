@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31i6TBAB9oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7Q3BCR-es'
+slug: 'B07D7Q3BCR-es Astor Perfect Stay Gel Shine  Esmalte de Uñas Tono 635 Sailor Blue  12 ml'
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

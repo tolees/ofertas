@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-T2B6E7VL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D187BNJ-es'
+slug: 'B07D187BNJ-es Timex Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable TW2R46700'
 actualPrice: 80.61 EUR
 currency: EUR
 price: 80.61

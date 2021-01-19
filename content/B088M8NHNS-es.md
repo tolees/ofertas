@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gcixzg-mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088M8NHNS-es'
+slug: 'B088M8NHNS-es Amiiaz Cojín de Repuesto para Tumbona Silla Portátil Jardín Cojines para Silla Reclinable Espesar Cojines para Tumbona Colchoneta para Tumbona Al Aire Libre Interior-125X48X8cm Gris'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

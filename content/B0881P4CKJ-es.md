@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pf5l-XiVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0881P4CKJ-es'
+slug: 'B0881P4CKJ-es XTI - Sandalia Plana Casual - Cierre con Hebilla - Color Nude - Talla 37'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

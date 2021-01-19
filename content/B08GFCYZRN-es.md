@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Di75yCOUL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GFCYZRN-es'
+slug: 'B08GFCYZRN-es Tarjeta Micro SD de 400 GB de alta velocidad clase 10 Micro SD SDXC con adaptador  1024 GB-A '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

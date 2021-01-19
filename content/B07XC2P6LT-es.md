@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419zBcZTnRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XC2P6LT-es'
+slug: 'B07XC2P6LT-es Beholder CE'
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

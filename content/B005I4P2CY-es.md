@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IIyRgvVAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005I4P2CY-es'
+slug: 'B005I4P2CY-es Mannesmann - M29057 - Juego de herramientas 57 piezas'
 actualPrice: 38.36 EUR
 currency: EUR
 price: 38.36

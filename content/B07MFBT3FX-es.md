@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EkWawJoCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFBT3FX-es'
+slug: 'B07MFBT3FX-es Kickers Kickstyle  Zapatillas para Hombre  Azul  Marine/Camel 103   45 EU'
 actualPrice: 27.94 EUR
 currency: EUR
 price: 27.94

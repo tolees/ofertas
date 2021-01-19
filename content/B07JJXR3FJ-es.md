@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5137eAc-zfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJXR3FJ-es'
+slug: 'B07JJXR3FJ-es TAILI Estante de baño Cesta para Ducha Almacenamiento  Organizador Sin daños  Autoadhesivo para champú  Esponja  Cuchillas y Otros artículos de higiene'
 actualPrice: 13.28 EUR
 currency: EUR
 price: 13.28

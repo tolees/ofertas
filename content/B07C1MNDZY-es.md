@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61xSKaB7f0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C1MNDZY-es'
+slug: 'B07C1MNDZY-es hotbesteu Cortinas Dormitorio Moderno Lujo Flores Impreso de Tul Cortina Traslúcidas Cortinas Transparentes 100x250'
 actualPrice: 9.81 EUR
 currency: EUR
 price: 9.81

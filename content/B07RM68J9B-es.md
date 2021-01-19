@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+ll0qsqmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM68J9B-es'
+slug: 'B07RM68J9B-es LolaPix Cojín Personalizado Comunión con tu Nombre y Texto. Varios diseños y tamaños. Regalo Original para Comuniones. NIÑA Morena'
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

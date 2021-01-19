@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cdiQWeksL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT1MQNR-es'
+slug: 'B07RT1MQNR-es Oral-B Kids Cabezales de Recambio con Los Personajes de Star Wars  Tamaño del Buzón  Pack de 8 Unidades'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

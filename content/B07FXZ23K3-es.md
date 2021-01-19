@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pdTm6WknL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXZ23K3-es'
+slug: 'B07FXZ23K3-es Champion the Curvy  Soutien-Gorge de Sport Femme  Noir  Noir 3am   X-Small  Taille Fabricant: XS '
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512qCNyhtzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRQ64HH-es'
+slug: 'B07HRQ64HH-es Kitchen Emperor Cuchillo de frutas  cuchillo de cocina profesional  cuchilla de acero alemana de 236 mm de alto carbono con mango ergonómico cómodo'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

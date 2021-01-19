@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51w8SujyR%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0083IVT5G-es'
+slug: 'B0083IVT5G-es IBRA® Promo - 15m- Cable HDMI de alta velocidad | nuevo modelo 2.0 | 4K Ultra HD 2160p | 3D Full HD 1080p | Ethernet y ARC'
 actualPrice: 39.81 EUR
 currency: EUR
 price: 39.81

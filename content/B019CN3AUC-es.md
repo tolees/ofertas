@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eut763hmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019CN3AUC-es'
+slug: 'B019CN3AUC-es Invero anti-vibración Universal para habitaciones amortiguado alfombrilla de goma para lavadora  secadora  lavavajillas o de otros aparatos 600 mm x 600 mm'
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

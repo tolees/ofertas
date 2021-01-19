@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aj+FWydrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK5YCCF-es'
+slug: 'B07KK5YCCF-es Columbia Redmond V2 Mid  Botas de Senderismo Impermeables para Mujer  Marrón  Azul  Mud  Lagoon   38.5 EU'
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

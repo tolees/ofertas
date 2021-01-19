@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Radyyv37L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBGL63T-es'
+slug: 'B07VBGL63T-es Lee Extreme Motion Short Pantalones Cortos  Azul  Navy 09   58  Talla del Fabricante: 34  para Hombre'
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

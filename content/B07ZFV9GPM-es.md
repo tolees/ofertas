@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U35skIuIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFV9GPM-es'
+slug: 'B07ZFV9GPM-es Silla paseo Fox Ranger'
 actualPrice: 125.38 EUR
 currency: EUR
 price: 125.38

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nXsQ4F9jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000B9RKC6-es'
+slug: 'B000B9RKC6-es Brüder Mannesmann M12588 SDS-Plus - Juego de cinceles y brocas  13 piezas '
 actualPrice: 25.33 EUR
 currency: EUR
 price: 25.33

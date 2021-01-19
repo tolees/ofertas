@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G+3RQ6sUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVRH3VD-es'
+slug: 'B07BVRH3VD-es ZARLLE CláSico Mujer Damas Chica Unisex Reloj De Pulsera De Cuarzo De Acero Inoxidable  Casual Banda De Acero Inoxidable Reloj De Cuarzo Analogico Reloj Correa De Marmol  Talla única  Azul B '
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51kiIOlRwrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IC0G6K2-es'
+slug: 'B01IC0G6K2-es Original Buff Zelig Mineral Tubular  Unisex Adulto  Multicolor  Zelig Mineral   Talla Única'
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

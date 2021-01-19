@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rGqt8UQxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKHYVM8-es'
+slug: 'B07GKHYVM8-es ZOLO Liberty True-Wireless Auriculares  autonomía de hasta 100 horas  auriculares inalámbricos Bluetooth 5 con Graphene Driver  a prueba de sudor con inteligencia artificial  llamadas de manos libres'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

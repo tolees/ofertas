@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DPK1BfO+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R8J5DV-es'
+slug: 'B075R8J5DV-es Pack: Pop! Marvel Vs. Capcom Infinite 2  -  Rocket Vs. Mega Man X'
 actualPrice: 9.67 EUR
 currency: EUR
 price: 9.67

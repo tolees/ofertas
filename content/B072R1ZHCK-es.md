@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t8VLbhBEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072R1ZHCK-es'
+slug: 'B072R1ZHCK-es 24 Tubos de Pintura de Acuarela de Zenacolor - Pintura de agua de Calidad Superior  Pigmentos no Tóxicos  de Pigmentación Concentrada para Colores Vívidos y Secado Rápido - 24 x 12 mL'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

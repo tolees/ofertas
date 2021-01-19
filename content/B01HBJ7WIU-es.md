@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sE3XOH7hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HBJ7WIU-es'
+slug: 'B01HBJ7WIU-es Reloj para hombre Tommy Hilfiger 1791292  mecanismo de cuarzo  diseño con varias esferas  correa de acero inoxidable.'
 actualPrice: 135.51 EUR
 currency: EUR
 price: 135.51

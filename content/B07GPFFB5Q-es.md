@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412H+rCjbSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPFFB5Q-es'
+slug: 'B07GPFFB5Q-es Piz Buin - Protector Solar  Tan & Protect Intensificador del Bronceado Loción SPF 30 - Pack 2 x 150 ml'
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

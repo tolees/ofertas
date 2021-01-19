@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HJHii2deL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RW5KZ98-es'
+slug: 'B07RW5KZ98-es find. Faroe Zapatillas Altas  Negro Black  45 EU'
 actualPrice: 8.52 EUR
 currency: EUR
 price: 8.52

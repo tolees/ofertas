@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uhcHe4HOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKVT8WQ-es'
+slug: 'B07ZKVT8WQ-es BRA PRIOR Batería 4 piezas de aluminio fundido con antiadherente  apta para todo tipo de cocinas Incluso inducción'
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

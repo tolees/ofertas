@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nMQaRFmSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH16KPK-es'
+slug: 'B07JH16KPK-es Maca Peruana Extracto Concentrado 4000 mg | 120 cápsulas vegetales | Incrementa los niveles de energía  la vitalidad y el rendimiento atlético  y ayuda al sistema inmunológico y al equilibrio hormonal'
 actualPrice: 12.62 EUR
 currency: EUR
 price: 12.62

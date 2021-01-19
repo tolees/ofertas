@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513xRXQetiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076Q8SYJ4-es'
+slug: 'B076Q8SYJ4-es Esprit Rachel Padded Bra Sujetador  Negro  Black 001   100C  Talla del Fabricante: 85C  para Mujer'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

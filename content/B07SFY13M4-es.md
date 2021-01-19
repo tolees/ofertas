@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5162bFq8hBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFY13M4-es'
+slug: 'B07SFY13M4-es RS-05 CLASSIC - JET VESPA MOTO SCOOTER RETRO VINTAGE MOPED CHOPPER CRUISER BOBBER BIKER VERANO CASCO ABIERTO  L  59-60 CM  '
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

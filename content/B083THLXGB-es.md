@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kM7xHhK6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083THLXGB-es'
+slug: 'B083THLXGB-es DPG Lighting Apliques de Pared de Hexagonal Nido de Abejas Lampara de Pared de Panel LED Luz de Pared de Inducción Táctiles Modulares DIY Luz Nocturna Cuántica Luces Sensibles al Tacto  Azul 5pcs '
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

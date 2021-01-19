@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WA1JtNwqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4QQHXZ-es'
+slug: 'B07J4QQHXZ-es Funko 31621 VYNL 10 16 cm 2-Pack: Star Wars: Darth Maul & OBI WAN  La Amenaza Fantasma   Multi'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

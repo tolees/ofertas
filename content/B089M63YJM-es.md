@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31g44LdtGxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089M63YJM-es'
+slug: 'B089M63YJM-es AUELEK Lampara LED Escritorio Lampara Luz Lectura  Portátil USB Recargable Lámpara de Escritorio con 16 Leds  3 Niveles de Brillo  1000mAh  360º Flexible  Control Táctil  Blanco '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

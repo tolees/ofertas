@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ww1ZfXKSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075LMXDGW-es'
+slug: 'B075LMXDGW-es adidas CE8097 Balón  Hombre  Negro  S'
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21YEcyyGDSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZHTM4M-es'
+slug: 'B086ZHTM4M-es B Blesiya Película De La Cámara del Teléfono De Cristal Templado De Protección De Lente 2Pcs para 11 Pro MAX'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

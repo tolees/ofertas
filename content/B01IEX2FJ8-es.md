@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410JRXSNfSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IEX2FJ8-es'
+slug: 'B01IEX2FJ8-es Calcetines de Compresión 1 par  Rosa  EU 35-38 '
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

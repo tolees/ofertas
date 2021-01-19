@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KklsnRAbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081D2CLV9-es'
+slug: 'B081D2CLV9-es Baoblaze Cubo Plegable Plástico Portátil Cepillo Plegable Limpiador para Ajustar La Gouache del Cepillo Pincel Lavadora'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

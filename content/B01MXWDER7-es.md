@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nbYwSGtPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXWDER7-es'
+slug: 'B01MXWDER7-es Captain Morgan Ron & Cola - 250 ml'
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

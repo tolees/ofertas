@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lYlB9dI5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EYQL4VO-es'
+slug: 'B01EYQL4VO-es BERING Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable 13338-077'
 actualPrice: 95.42 EUR
 currency: EUR
 price: 95.42

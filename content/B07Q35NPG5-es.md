@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yWh5kkT1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q35NPG5-es'
+slug: 'B07Q35NPG5-es MicarBa cámara de Seguridad HD visión Nocturna 170 Grados Ojo de pez Lente Coche visión Trasera cámara de estacionamiento Impermeable Coche cámara de Marcha atrás 4 LED'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

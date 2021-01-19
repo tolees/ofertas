@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ffpcTLHKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHHJMG3-es'
+slug: 'B07XHHJMG3-es SKEY Compresor de Aire Coche Portatil Bomba Inflador 12V DC  Bomba de neumáticos de 150 PSI con luz LED para automóvil  Bicicleta  Motocicleta  Pelota  colchón de Aire y Otros'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

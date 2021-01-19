@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gXgHwaFUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Q6FF6C-es'
+slug: 'B077Q6FF6C-es Luxtude Bateria Externa Movil iPhone 5000mAh  Powerbank con Lightning Cable  Bateria Externa Carga Rapida  Ultra Delgado Power Bank Pequeño y Ligero  Apple MFI Certificado Cargador Portatil iPhone'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

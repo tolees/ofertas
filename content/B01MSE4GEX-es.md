@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51brcac5t1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSE4GEX-es'
+slug: 'B01MSE4GEX-es PEKITAS Bebe Capa De Baño Con Capucha y Manopla 75x75 cm 90% Algodón 10% Polyester Dibujo Bordado Fabricado En Portugal'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

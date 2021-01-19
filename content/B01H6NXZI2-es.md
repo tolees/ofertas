@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xlMDdGATL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H6NXZI2-es'
+slug: 'B01H6NXZI2-es Crocs Swiftwater Deck Clog Men  Hombre Zueco  Azul  Navy/White   43-44 EU'
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

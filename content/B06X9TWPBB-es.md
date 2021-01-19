@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kKngxJZIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9TWPBB-es'
+slug: 'B06X9TWPBB-es SANGEAN DT-160 Am/FM'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qYzcYxSNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895SR4YL-es'
+slug: 'B0895SR4YL-es JCKSimpleLife Pintar por NúMeros para Adultos NiñOs Bricolaje Flor rojaPrimera OpcióN para Regalos 40x50cm  Sin Marco '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

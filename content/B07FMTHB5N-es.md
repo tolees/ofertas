@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51J4fmmPhbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMTHB5N-es'
+slug: 'B07FMTHB5N-es Victure Camara Deportiva 4k WiFi 16MP Impermeable Cámara Acción Deporte Acuatica Agua de 30m Pantalla LCD 2.0 Inch 170 Gran Angular 2 Baterías de 1050mAh con Múltiples Accesorios Kit Última versión'
 actualPrice: 59.11 EUR
 currency: EUR
 price: 59.11

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KHHorqeIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07915DYLX-es'
+slug: 'B07915DYLX-es Brabantia Bo Pedal - Cubo de basura  Acero Inoxidable   2 cubos interiores   Blanco  11 + 23 litros'
 actualPrice: 90.61 EUR
 currency: EUR
 price: 90.61

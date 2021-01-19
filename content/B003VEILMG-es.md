@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411+pnQw0wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003VEILMG-es'
+slug: 'B003VEILMG-es Bosch Professional Bosch GSR 12V-15 Professional-Atornillador batería ni Cargador  12V /0601868101  230 W  12 V  Negro  Azul  Rojo  Plata'
 actualPrice: 64.75 EUR
 currency: EUR
 price: 64.75

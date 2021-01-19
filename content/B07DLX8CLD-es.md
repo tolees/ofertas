@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w+R3VgdXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLX8CLD-es'
+slug: 'B07DLX8CLD-es Samsonite Pro-DLX 5 - Wheeled Business Case 15.6" Expandable 29.5/37L  2.8 KG Maletín  46 cm  29.5 Liters  Gris  Magnetic Grey '
 actualPrice: 211.77 EUR
 currency: EUR
 price: 211.77

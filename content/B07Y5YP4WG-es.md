@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Uu2KsSm%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y5YP4WG-es'
+slug: 'B07Y5YP4WG-es Powcan Gorro Bluetooth  V5.0 Inalámbricos Sombrero Auriculares Beany  Musical de Punto Hat Invierno con Altavoz Estéreo  Micrófono  Control Recepción Llamadas Manos Libres para Hombres Mujeres'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

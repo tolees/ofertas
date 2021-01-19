@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jSDY2uNGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088D8XH2S-es'
+slug: 'B088D8XH2S-es Suhctup Funda Compatible para Huawei P Smart 2019 Carcasa Transparente Dibujos Animal Suave Silicona TPU Gel Bumper Ultra Pulgada Antigolpes Crystal Clear Protector Piel Case Cover Pereza 8'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

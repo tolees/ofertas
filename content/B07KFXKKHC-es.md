@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qVA4rt9VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFXKKHC-es'
+slug: 'B07KFXKKHC-es PUMA Thunder Fashion 2.0  Zapatillas Deportivas Unisex Adulto  Multicolor  Puma Black-Nrgy Red    42 EU'
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

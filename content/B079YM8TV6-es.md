@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wPihE7E5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YM8TV6-es'
+slug: 'B079YM8TV6-es Funko Pop! - Disney: The Incredibles 2 Figura de Vinilo 29206'
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

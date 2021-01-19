@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61QRiSEaTWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ2XQCF-es'
+slug: 'B07KQ2XQCF-es Paquete 40 Batería de botón de batería alcalina Celular LR44 AG13 Paquete de 40 baterías'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

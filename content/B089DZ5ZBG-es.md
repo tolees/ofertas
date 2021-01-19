@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K8f14PopL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089DZ5ZBG-es'
+slug: 'B089DZ5ZBG-es Niluoya Bandas Elásticas Fitness  4-Pack 1.5M+2M Cintas Banda Resistencia con 2 Niveles Piezas Bandas de Resistencia para Yoga  Pilates  Crossfit  Estiramientos  Musculacion  Piernas  Brazos Fuerza'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PzPY7qIaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777V5HWK-es'
+slug: 'B0777V5HWK-es Funko Pop! - Hobbit Gollum Figura de Vinilo 13559'
 actualPrice: 11.07 EUR
 currency: EUR
 price: 11.07

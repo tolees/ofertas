@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XavKp5vvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F8MGYWC-es'
+slug: 'B01F8MGYWC-es STAR TREK Spock Captain Authentic Rank Pin'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

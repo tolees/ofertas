@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CPCI1-RJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IUP7NFQ-es'
+slug: 'B01IUP7NFQ-es Ultima Pienso para Gatos Adulto con Pollo'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QCv80vZaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006WNRCZU-es'
+slug: 'B006WNRCZU-es Grohe Cosmopolitan - Dispensador de jabón líquido con capacidad de 0 4 l  Ref. 40535000 '
 actualPrice: 39.85 EUR
 currency: EUR
 price: 39.85

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IyXMn2qvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014SP20AK-es'
+slug: 'B014SP20AK-es TOUCHBeauty Mujeres Mini Ladies  Shaver Pluma Portátil Eléctrico Facial Hair Trimmer Ceja Trimmer Slice AG-815S'
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

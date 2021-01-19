@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wssH3pFkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082B32SCQ-es'
+slug: 'B082B32SCQ-es Juego de Regalo de Copas de Cristal Roca - Vaso Scotch con Base Fuerte - Caja de Regalo de Madera - Piedras de enfriamiento para Whiskey de Bourbon Juego de Whiskey de Bourbon'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

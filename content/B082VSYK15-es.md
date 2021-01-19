@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51J60RiPMiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VSYK15-es'
+slug: 'B082VSYK15-es Haribo Favoritos Pica Caramelos de Goma - 275 gr'
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65

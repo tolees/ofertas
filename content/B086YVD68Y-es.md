@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Bf8H5Mq0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YVD68Y-es'
+slug: 'B086YVD68Y-es Mono de bebé Promini para bebé de una pieza  con texto en inglés "If You Think I m Cute You Should See My Auntie"'
 actualPrice: 13.66 EUR
 currency: EUR
 price: 13.66

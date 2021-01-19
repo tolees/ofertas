@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61oC6ibpSWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMJ74P5-es'
+slug: 'B07PMJ74P5-es The Nisha 24 PC pegatinas para pared Adhesivo de Pared Salpicadero de Vinilos Azulejos Adhesivos Arte Ecléctico para la Cocina & Baño  10x10 cm  Belleza veneciana'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

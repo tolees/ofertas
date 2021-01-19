@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wkgOw3SmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WB1OSPO-es'
+slug: 'B00WB1OSPO-es Dewalt D25133K-QS Martillo Ligero Combinado 800W 3 Modos-26 mm 2  800 W  230 V  Negro  Blanco'
 actualPrice: 138.97 EUR
 currency: EUR
 price: 138.97

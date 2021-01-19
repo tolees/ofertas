@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B-KsGBS8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVQDFMV-es'
+slug: 'B07DVQDFMV-es New Balance Fresh Foam Gobi m  Zapatillas de Running para Asfalto para Mujer  Blanco  White Agave White Agave   39 EU'
 actualPrice: 57.64 EUR
 currency: EUR
 price: 57.64

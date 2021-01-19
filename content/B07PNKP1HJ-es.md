@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H4H1AL9AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNKP1HJ-es'
+slug: 'B07PNKP1HJ-es L.O.L Surprise'
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

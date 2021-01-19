@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ByMXespzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSPMVH-es'
+slug: 'B07MCSPMVH-es Napapijri EILS Polo  Rojo  Red Scarlet R01   XXXL para Hombre'
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

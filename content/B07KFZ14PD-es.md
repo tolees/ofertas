@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R-zyp0SOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZ14PD-es'
+slug: 'B07KFZ14PD-es PUMA ST Activate Mid WTR  Zapatillas Unisex Adulto  Beige  Taffy/Taffy   45 EU'
 actualPrice: 37.23 EUR
 currency: EUR
 price: 37.23

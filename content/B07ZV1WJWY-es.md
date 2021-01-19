@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a0HEXnjiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZV1WJWY-es'
+slug: 'B07ZV1WJWY-es Rosendo - Mi Tiempo Señorías… 2CD+DVD '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41E%2BuaiVd%2BL._SL200_
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5F3ZV5-es'
+slug: 'B07M5F3ZV5-es Wrangler Logo Hoodie Capucha  Gris  Dark Grey Mel X06   Large para Hombre'
 actualPrice: 36 EUR
 currency: EUR
 price: 36

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k9wFDGcrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073V3S7BC-es'
+slug: 'B073V3S7BC-es Croft Twist Vino Fino D.O. Jerez – 3 botellas de 750 ml – Total: 2250 ml'
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

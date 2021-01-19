@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nxJajEZXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4BMRNL-es'
+slug: 'B07K4BMRNL-es Formulaone Thunderbolt 3 Hub USB Dock USB Tipo C a HDMI USB 3.0 Cable TF Tarjeta SD 5IN1 Splitter Adaptador para Macbook Pro - Plateado'
 actualPrice: 14.85 EUR
 currency: EUR
 price: 14.85

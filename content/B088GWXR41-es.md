@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ruISWRAhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088GWXR41-es'
+slug: 'B088GWXR41-es  gestionado por Amazon  cámara Web 1080P HD  cámara Web incorporada micrófono cámara con Clip Web para computadora PC portátiles Skype Vedieo Call & Record Webcam  Web 1 '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

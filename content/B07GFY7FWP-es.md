@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aViGrDjmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFY7FWP-es'
+slug: 'B07GFY7FWP-es Fossil Smartwatch para Mujer con Correa en Acero Inoxidable FTW6011'
 actualPrice: 167.4 EUR
 currency: EUR
 price: 167.4

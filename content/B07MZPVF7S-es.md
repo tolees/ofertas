@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BWOl+7zKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPVF7S-es'
+slug: 'B07MZPVF7S-es Pepe Jeans Linn Pantalones   Multi 0aa   36  Talla del Fabricante: X-Small  para Mujer'
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

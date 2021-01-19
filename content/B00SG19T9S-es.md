@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311whsgjT0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SG19T9S-es'
+slug: 'B00SG19T9S-es Pasabahce Ceni Goma – Tapón Corona con bidules 200 Tapones Rojos'
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

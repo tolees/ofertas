@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sPdrpG9RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H5VLQ9A-es'
+slug: 'B01H5VLQ9A-es Cosmoplast Apósitos Impermeables - 20 Unidades'
 actualPrice: 1.8 EUR
 currency: EUR
 price: 1.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DU7WUX1RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7XQN8Q-es'
+slug: 'B07V7XQN8Q-es Tommy Hilfiger Causal Tommy Jeans Sneaker  Zapatillas para Hombre  Negro  Black Bds   43 EU'
 actualPrice: 35.63 EUR
 currency: EUR
 price: 35.63

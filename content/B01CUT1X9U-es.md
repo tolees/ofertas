@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xFrSu1OGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CUT1X9U-es'
+slug: 'B01CUT1X9U-es Exerz Bandejas oficina 4 Piezas de Malla/Oficina Conjunto de 4 Piezas - Bandeja de Letras con 2 Plantas  Estante de Letras  Portalápices  Sostenedor de clipso & notas  Negro '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

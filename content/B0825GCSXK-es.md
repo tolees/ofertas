@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bUr3cupcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825GCSXK-es'
+slug: 'B0825GCSXK-es Baoblaze 5 Unids Almohadillas Adhesivas Antidesgaste Pegatina de Protección de Pies Cortable'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

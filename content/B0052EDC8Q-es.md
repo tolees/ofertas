@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aMZ87w+gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0052EDC8Q-es'
+slug: 'B0052EDC8Q-es STERADENT - STERADENT 60+30 TRIPLE AC'
 actualPrice: 9.11 EUR
 currency: EUR
 price: 9.11

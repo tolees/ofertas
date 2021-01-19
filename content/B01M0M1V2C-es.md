@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jSZ1S7-qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0M1V2C-es'
+slug: 'B01M0M1V2C-es Gourmet Panecillos de Ajo y Perejil - 160 g'
 actualPrice: 0.7 EUR
 currency: EUR
 price: 0.7

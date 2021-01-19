@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BrVtg8JfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLVMRKG-es'
+slug: 'B07CLVMRKG-es Memorias USB 5 Piezas 16GB USB 2.0 Stick Flash Drive Pendrives Almacenamiento Datos por SIMMAX  16GB Negro '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

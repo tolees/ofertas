@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GXEhX542L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0851FQR4N-es'
+slug: 'B0851FQR4N-es 40G Tamaño pequeño Hogar Hotel Baño Baño Bola de sal Bomba Tipo de aromaterapia Limpiador corporal Regalo de bombas de baño hechas a mano - Rosa'
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

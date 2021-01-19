@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e0RK-2M1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFRPP5-es'
+slug: 'B07MGFRPP5-es Napapijri Damavand V suéter  Azul  French Blue BB7   Small para Hombre'
 actualPrice: 21.86 EUR
 currency: EUR
 price: 21.86

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YTz+wplqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081KQKHBW-es'
+slug: 'B081KQKHBW-es Adornos Einfache Escultura Decoración Moderna Keramik Handwerk Heimtextilien Wohnzimmer Zimmer Modo Creativo Blume Blume Florero Artesanías GAOLILI  Color: Naranja '
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

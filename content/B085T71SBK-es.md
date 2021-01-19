@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51INN1qz4aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085T71SBK-es'
+slug: 'B085T71SBK-es Kingston SDCG3/128GBSP Tarjeta microSD   128GB microSDXC Canvas Go Plus 170R A2 U3 V30 Sin SD adaptador '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

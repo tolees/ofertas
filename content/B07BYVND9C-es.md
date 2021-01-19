@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514YISHKiqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BYVND9C-es'
+slug: 'B07BYVND9C-es Xpansy Hose Pro C2607B Manguera Extensible con la Presión del Agua  Azul  7 5 metros'
 actualPrice: 18.09 EUR
 currency: EUR
 price: 18.09

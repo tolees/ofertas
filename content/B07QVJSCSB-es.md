@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kJtE1UdhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVJSCSB-es'
+slug: 'B07QVJSCSB-es KEXIN 64GB Memoria USB 2.0 Llave Pendrive 64GB Memoria Almacenamiento Externo 2.0 Memoria Flash USB para PC Tableta  Regalo USB Corazón Rosa '
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rQWEk+0AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4JQRGH-es'
+slug: 'B07B4JQRGH-es Auriculares Bluetooth  Manos Libres Oreja Auricular inalámbrico Bluetooth V4.1 Auriculares con Reducción de Ruido  Manos libres Auriculares con Micrófono para Oficina'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

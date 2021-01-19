@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413FBSZPXsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4VPDD5-es'
+slug: 'B07Z4VPDD5-es SONARIN Saco Silla de Paseo universal Protección antideslizante Cosy Toes Forro Polar térmico Deluxe Negro '
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tyRE5LmvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB3HKH1-es'
+slug: 'B07HB3HKH1-es Pop! Fallout - Figura de Vinilo Nerd Rage'
 actualPrice: 10.61 EUR
 currency: EUR
 price: 10.61

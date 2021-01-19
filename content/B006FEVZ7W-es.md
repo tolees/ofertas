@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OnFEgJpML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006FEVZ7W-es'
+slug: 'B006FEVZ7W-es Tayg 304002 Estante 4 Cajones'
 actualPrice: 10.36 EUR
 currency: EUR
 price: 10.36
@@ -26,10 +26,10 @@ Ahora mismo tienes [Tayg 304002 Estante 4 Cajones](https://www.amazon.es/dp/B006
 🔎:
 
 - Dispone de 4 gavetas
+- Puede ser apilado y fijado en pared
 - Clasificador apilable de plástico, para organización multi-uso
 - Las medidas exteriores son 360x170x190 mm, las medidas de las gavetas son 160x170x80 mm
 - Materiales; armazón y ventanas de poliestireno, y cajón es de polipropileno
-- Puede ser apilado y fijado en pared
 - Color; armazón en negro, cajón es rojos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B006FEVZ7W/?tag=tolees-21)

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zUza3AoPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8G2GRY-es'
+slug: 'B07S8G2GRY-es Vicloon Arnes Bebes  Correa Bebe Para Caminar  Arnés de Seguridad para Caminar Ajustable con Hebilla de Seguridad y Calcomanías Mágicas  Doble Protección  Cinturón de Andador para Bebe 7-24 Mes'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

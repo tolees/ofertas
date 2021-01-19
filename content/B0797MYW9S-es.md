@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yIpmCqFuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797MYW9S-es'
+slug: 'B0797MYW9S-es Funko Pop!- Pennywise w/Crab Legs Figura de Vinilo  29526 '
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

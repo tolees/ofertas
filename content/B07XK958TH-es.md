@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t3B9FvtuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XK958TH-es'
+slug: 'B07XK958TH-es Seagate One Touch SSD  500 GB  Disco duro externo portátil SSD  gris/blanco  USB-C  USB 3.0 para PC y Mac  1 año de suscripción a Mylio Create  2 meses de suscripción Adobe CC Photography  STJE500400 '
 actualPrice: 77.11 EUR
 currency: EUR
 price: 77.11

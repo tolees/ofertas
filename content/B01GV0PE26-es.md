@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UXzKYN2lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GV0PE26-es'
+slug: 'B01GV0PE26-es Emuca - Regleta multienchufe retráctil con 3 enchufes schuko EU y 2 Puertos USB  Torre de enchufes Vertical empotrable para encimera de Cocina o Escritorio'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

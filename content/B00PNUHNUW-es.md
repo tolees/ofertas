@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OR+lSelhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PNUHNUW-es'
+slug: 'B00PNUHNUW-es adidas Superstar Foundation Zapatillas   Blanco  White B27136   46 2/3 EU'
 actualPrice: 55.27 EUR
 currency: EUR
 price: 55.27

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gz2Sds2QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y4LCF9V-es'
+slug: 'B06Y4LCF9V-es ICZI Hub USB Ethernet 3.0 +3 Puertos USB 3.0  Hub USB 3.0 RJ45 Gigabit para Xiaomi Box PC Adaptador USB Negro'
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

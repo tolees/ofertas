@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LzOmuSCUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNTS58D-es'
+slug: 'B07CNTS58D-es Belkin F8J050bt04-BLK - Cable Micro-USB con Adaptador Lightning y Adaptador USB-C  1 2 m  Compatible con Apple iPhone/iPad  Samsung Galaxy S9/S9+/Note 9  Negro'
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

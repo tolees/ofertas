@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mEtY2jh-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFS9ZYX-es'
+slug: 'B07YFS9ZYX-es Van&Fancy NA cobre White Cubic Zirconia'
 actualPrice: 10.3 EUR
 currency: EUR
 price: 10.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gR+OurffL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RY4GHLS-es'
+slug: 'B07RY4GHLS-es Funda con Cuerda para Xiaomi Redmi Note 5 Silicona Transparente  Ultrafina Suave TPU Carcasa de movil con Colgante [Moda y Practico] [Anti-rasguños Anti-Choque] - Negro'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

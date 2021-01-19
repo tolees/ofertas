@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41htaGbGogL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKY9TMK-es'
+slug: 'B07DKY9TMK-es Champion 6pk Sneaker Socken Calcetines  Multicolore  Blanc/Gris/Noir 8wu   39-42 Unisex-Adulto'
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

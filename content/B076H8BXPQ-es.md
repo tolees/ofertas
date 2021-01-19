@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jC8SKIKVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076H8BXPQ-es'
+slug: 'B076H8BXPQ-es Tuc Tuc 05789 - Trona'
 actualPrice: 36.1 EUR
 currency: EUR
 price: 36.1

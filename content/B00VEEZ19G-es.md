@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RLxQn41rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VEEZ19G-es'
+slug: 'B00VEEZ19G-es JVC HA-FX10-B-E - Auriculares In-Ear  Color Negro'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

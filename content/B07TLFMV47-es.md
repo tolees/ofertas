@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ar9EZia6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLFMV47-es'
+slug: 'B07TLFMV47-es Levi s Housemark  Multicolor  Hm Patch Polo Dress Blues/White/Cre 0114   X-Small para Hombre'
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

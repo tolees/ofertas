@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a044zkGPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1WBKYJ-es'
+slug: 'B07S1WBKYJ-es Liberex Barbero Electrico Hombres - Máquina de Cortar Pelo Funciona con Pilas  Cortapelos Máquina de Afeitar Peine de 9 Posiciones para Cabello Bigote Vellos Facial'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

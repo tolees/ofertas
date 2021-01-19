@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uOu-cEYGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCM84YD-es'
+slug: 'B07FCM84YD-es Lámpara de Escritorio  Lámpara LED de Escritorio Ojos Esmero Luz para Tätowierungs Estudios Lectura Make Up Uñas sintética  Ultra Fino 360 Grados Rotations Metal'
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JCDkVA8EL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0173HJRKG-es'
+slug: 'B0173HJRKG-es Fresh N Rebel Rockbox Cube - Altavoz portátil con Bluetooth  color turquesa'
 actualPrice: 14.52 EUR
 currency: EUR
 price: 14.52

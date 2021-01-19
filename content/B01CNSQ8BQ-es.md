@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VNLHpGwlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CNSQ8BQ-es'
+slug: 'B01CNSQ8BQ-es royalfirst tablón brasileño Virgen Pelo Humano Pelucas De Encaje 14 – 30 pulgadas  Deep Wave para mujer 180% pelo de alta densidad con bebé'
 actualPrice: 99.89 EUR
 currency: EUR
 price: 99.89

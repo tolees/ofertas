@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WQsraVRHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFZV728-es'
+slug: 'B07HFZV728-es New Balance 373 Zapatillas Hombre  Gris  Grey Grey   39.5 EU  6 UK '
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

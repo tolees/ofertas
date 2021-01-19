@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LnMmpbbmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAN5FZG-es'
+slug: 'B01NAN5FZG-es Máscara exfoliante de lavado contra puntos negros  de la marca Pure Active 3 in1'
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

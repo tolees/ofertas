@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rjAp+U9XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088F9KJ4M-es'
+slug: 'B088F9KJ4M-es AOLUXLM Maquina de Burbujas Juguete para Niños  Soplador de Pistola de Burbujas con Líquido de Burbujas de 130ml  Bubble Machine con Luces LED para Fiesta de Cumpleaños de Baño'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xNOfW9oXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDKQTZG-es'
+slug: 'B07GDKQTZG-es Lámpara de trabajo de inspección con 3 modos de iluminación  linterna para camping  mantenimiento de emergencia  luz para el hogar  garaje  taller'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

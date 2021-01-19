@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nI-4Id7sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDJPHNJ-es'
+slug: 'B07XDJPHNJ-es Bombilla LED G4  2 W de repuesto para bombillas halógenas de 20 W  3000 K blanco cálido 12 V AC/DC LED  210 lm  sin parpadeo  no regulable  ángulo de haz de 360°  10 unidades'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

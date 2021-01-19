@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZfDLIkzJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXX7M8J-es'
+slug: 'B07FXX7M8J-es Levi s 502 Regular Taper Jeans  Azul  Rock Cod 0280   34W / 36L para Hombre'
 actualPrice: 51.96 EUR
 currency: EUR
 price: 51.96

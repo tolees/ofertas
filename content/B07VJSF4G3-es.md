@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512lGjyzfnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJSF4G3-es'
+slug: 'B07VJSF4G3-es Desigual Mone maui Maria - Cartera para Mujer  Color Blanco  Talla 3x9.5x20.2 cm  B x H x T '
 actualPrice: 20.11 EUR
 currency: EUR
 price: 20.11

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+kLFbwLeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8K64VY-es'
+slug: 'B07B8K64VY-es Call It a Night mask'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZBjdTM4nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y7H34RJ-es'
+slug: 'B07Y7H34RJ-es Gwertipab Manguera de ducha de acero inoxidable 1.5m manguera flexible antiarrugas de repuesto con 2 arandelas para baño  juego de 2 '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

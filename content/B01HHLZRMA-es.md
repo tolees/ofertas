@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kJUAH8EPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HHLZRMA-es'
+slug: 'B01HHLZRMA-es Crocs Fun Lab Minions Clog  Unisex Niños Zueco  Azul  Ocean   20-21 EU'
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+GWf9ZeYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GGHNKR-es'
+slug: 'B078GGHNKR-es Tommy Hilfiger Brazilian Braguita brasileña  Gris  Grey Heather 004   36  Talla del Fabricante: 34 X Small  para Mujer'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

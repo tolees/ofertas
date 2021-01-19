@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OnXgSsu+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HXM2WX-es'
+slug: 'B076HXM2WX-es HP ENVY Photo 6234  - Impresora multifunción  Inyección de tinta térmica  4800 x 1200 DPI  125 hojas  A4  Impresión directa   color blanco'
 actualPrice: 51.68 EUR
 currency: EUR
 price: 51.68

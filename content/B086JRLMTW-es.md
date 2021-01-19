@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yBAVNDjcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086JRLMTW-es'
+slug: 'B086JRLMTW-es 50 piezas de almohadillas antipolvo  almohadillas desechables con elástico/en stock  entrega rápida en 10 días hábiles'
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

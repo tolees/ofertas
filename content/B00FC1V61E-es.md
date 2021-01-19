@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DQH22F1GL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FC1V61E-es'
+slug: 'B00FC1V61E-es Lenovo UltraDock - Base de conexión para Tablet  Negro'
 actualPrice: 151.44 EUR
 currency: EUR
 price: 151.44

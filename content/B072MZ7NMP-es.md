@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31engNP5KeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MZ7NMP-es'
+slug: 'B072MZ7NMP-es adidas Adi-Ease  Zapatillas de Skateboard para Hombre  Negro  Core Black/Footwear White/Core Black 0   44 EU'
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

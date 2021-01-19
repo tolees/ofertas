@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pspWXGNuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ5C4SQ-es'
+slug: 'B07DJ5C4SQ-es Lacoste Ziane BL 2 CFA  Zapatillas para Mujer  Azul  Navy/White   39.5 EU'
 actualPrice: 37.47 EUR
 currency: EUR
 price: 37.47

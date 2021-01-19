@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RBNSXkTCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGT574R-es'
+slug: 'B07JGT574R-es Qshare - Utensilios para bebés  cucharas con estuche de viaje seguro  cuchara de entrenamiento para niños pequeños con agarre fácil y función flexible'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

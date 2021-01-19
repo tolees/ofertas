@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TKOPMon8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B013GPRF62-es'
+slug: 'B013GPRF62-es Thumbs Up iLounge - Cojín para Tablet  Color Azul'
 actualPrice: 17.1 EUR
 currency: EUR
 price: 17.1

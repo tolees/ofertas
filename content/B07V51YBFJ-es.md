@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KKUzGl35L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V51YBFJ-es'
+slug: 'B07V51YBFJ-es Libertroy DC-DC Step Down Converter 5-36V to 1.25-32V 5A Buck Voltage Regulator with Digital LED Display Voltage Converter - Blue'
 actualPrice: 3.17 EUR
 currency: EUR
 price: 3.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510sx5lwFEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087XPNY61-es'
+slug: 'B087XPNY61-es San Ignacio 3 Sartenes 18/26/28 + Set Cuchillos  Daimiel  Aluminio Forjado  Inducción  Gris'
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

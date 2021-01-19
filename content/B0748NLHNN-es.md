@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hilDtwW5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0748NLHNN-es'
+slug: 'B0748NLHNN-es Bosch Cafetera TASSIMO My Way TAS6002 - Cafetera de cápsulas  color negro'
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

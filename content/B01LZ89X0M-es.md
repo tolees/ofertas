@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FzT0LsnuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZ89X0M-es'
+slug: 'B01LZ89X0M-es Panasonic Lumix DMC-LX15 - Cámara Compacta Premium de 20.9 MP  Sensor de 1"  Objetivo F1.4-F2.8 de 24-72 mm  Zoom de 3X  Pantalla Abatible  4K  WiFi Raw   Color Negro'
 actualPrice: 384.2 EUR
 currency: EUR
 price: 384.2

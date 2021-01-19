@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41W2CQv5%2BUL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRM5XKZ-es'
+slug: 'B07KRM5XKZ-es New Balance 247v2  Zapatillas para Hombre  Blanco  Team Royal Team Royal   42 EU'
 actualPrice: 66.05 EUR
 currency: EUR
 price: 66.05

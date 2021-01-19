@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CKrux0ZKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DY11QNL-es'
+slug: 'B07DY11QNL-es Casio G-SHOCK Reloj Digital  Reloj radiocontrolado y solar  20 BAR  Negro  para Hombre  DW-5600BBMA-1ER'
 actualPrice: 57.75 EUR
 currency: EUR
 price: 57.75

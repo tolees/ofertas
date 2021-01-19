@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511Xg3vjQnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5FCDHZ-es'
+slug: 'B07P5FCDHZ-es Bourjois  Sombra de ojos  Tono: 004 Insaisissa  - 42 gr.'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

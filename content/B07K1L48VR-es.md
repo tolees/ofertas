@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ao8uyfHIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1L48VR-es'
+slug: 'B07K1L48VR-es adidas Tiro19 3/4 Pnt Pantalones de Deporte  Hombre  Black/White  XS'
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

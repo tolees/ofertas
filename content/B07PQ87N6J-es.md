@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SJTcALrhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQ87N6J-es'
+slug: 'B07PQ87N6J-es Kipling - Creativity S  Monederos Mujer  Multicolor  Navy Stick Print   14.5x9.5x5 cm  B x H T '
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

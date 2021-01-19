@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ztvcMlIJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LGB24HS-es'
+slug: 'B01LGB24HS-es USB Cable de Carga Clip Pinza para Polar Smart Watch V800 Reloj'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gl2UtLPjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFZTVP8-es'
+slug: 'B07HFZTVP8-es New Balance 420  Zapatillas para Mujer  Rosa  Pink Pink   43 EU'
 actualPrice: 19.51 EUR
 currency: EUR
 price: 19.51

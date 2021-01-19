@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ySU2AmMqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GTFMB53-es'
+slug: 'B07GTFMB53-es Aigital 300Mbps Repetidor WiFi Router inalámbrico Long Range Booster con 2 Puert Ethernet Fast  Configuración Fácil  2.4GHz Compatible con Todos los Routers WLAN habituales'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

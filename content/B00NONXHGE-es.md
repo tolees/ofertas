@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41auLC8-D0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NONXHGE-es'
+slug: 'B00NONXHGE-es Tommy Hilfiger New Denton Belt 4.0 Cinturón  Marrón  DARK TAN-EUR 257   100 cm  talla fabricante: 100  para Hombre'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

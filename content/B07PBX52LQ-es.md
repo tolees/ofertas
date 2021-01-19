@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41axiIcxOfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBX52LQ-es'
+slug: 'B07PBX52LQ-es San Ignacio PK1320 Set de Sartenes VINUM-Ø20/24/28 cms  Aluminio Forjado  Mango ergonómico Soft Touch a Juego-Especial Gas y vitro'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

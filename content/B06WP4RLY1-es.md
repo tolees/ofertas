@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+gOiO+G5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WP4RLY1-es'
+slug: 'B06WP4RLY1-es adidas Altasport CF I  Zapatillas Unisex Niños  Blanco  Footwear White/Bold Pink/Footwear White 0   26.5 EU'
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

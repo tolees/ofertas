@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410hM0GaxJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CDJ4KQ-es'
+slug: 'B081CDJ4KQ-es Geographical Norway Polar Hombre Upload Taupe M'
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mOeIWwjqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQPPGZQ-es'
+slug: 'B07KQPPGZQ-es Salomon Trailster W  Zapatillas de Trail Running para Mujer  Azul  Nile Blue/Bluestone/Acid Lime   45 1/3 EU'
 actualPrice: 34.37 EUR
 currency: EUR
 price: 34.37

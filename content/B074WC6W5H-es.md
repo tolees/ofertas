@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iwcY6Jv7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WC6W5H-es'
+slug: 'B074WC6W5H-es JOBY GorillaPod 325 - Trípode Mini Flexible con Rótula Integrada para Cámaras 360 y Compactas  Peso hasta 325 g  JB01505-BWW'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

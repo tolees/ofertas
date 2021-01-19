@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cIGseeNNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K47HYE8-es'
+slug: 'B01K47HYE8-es One For All WM2221  Soporte de pared para TV de 13 a 40” Inclinable 15° Peso máx. 50kg  Para todo tipo de TVs LED  LCD  Plasma  negro'
 actualPrice: 9.44 EUR
 currency: EUR
 price: 9.44

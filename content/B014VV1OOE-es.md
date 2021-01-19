@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SiqDdfspL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014VV1OOE-es'
+slug: 'B014VV1OOE-es Bolero Bebida Instantánea sin Azúcar  Sabor Cereza-Kola - Paquete de 24 x 9 gr - Total: 216 gr'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

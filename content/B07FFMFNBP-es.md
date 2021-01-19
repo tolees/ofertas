@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ue13xt63L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFMFNBP-es'
+slug: 'B07FFMFNBP-es Fossil Smartwatch FTW4012'
 actualPrice: 167.4 EUR
 currency: EUR
 price: 167.4

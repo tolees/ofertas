@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51J-gybvPEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000JGG7HA-es'
+slug: 'B000JGG7HA-es HP Q7553X - Cartucho de tóner'
 actualPrice: 105 EUR
 currency: EUR
 price: 105

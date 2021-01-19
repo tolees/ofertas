@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yBhsoRNlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VR8N4SZ-es'
+slug: 'B07VR8N4SZ-es Skechers GO Run Fast  Zapatillas para Mujer  Azul Azul Azul Textil Turquesa Ribete Bltq  36 EU'
 actualPrice: 28.71 EUR
 currency: EUR
 price: 28.71

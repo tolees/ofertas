@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+FZzufcdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FHTCPM5-es'
+slug: 'B08FHTCPM5-es InnooCare 12 unidades lavable y reutilizable'
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

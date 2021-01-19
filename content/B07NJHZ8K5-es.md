@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XTqHb2aWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJHZ8K5-es'
+slug: 'B07NJHZ8K5-es Tamaris 1-1-25249-23  Botas Militar para Mujer  Verde  Olive 722   40 EU'
 actualPrice: 17.66 EUR
 currency: EUR
 price: 17.66

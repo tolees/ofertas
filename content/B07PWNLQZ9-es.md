@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c2tpszRdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWNLQZ9-es'
+slug: 'B07PWNLQZ9-es Under Armour UA W HOVR Sonic 3  Zapatillas de Running para Mujer  Azul  Rift Blue/White/Orange Spark   41 EU'
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

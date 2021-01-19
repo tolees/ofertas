@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319bM-3oU7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GYG5GRP-es'
+slug: 'B07GYG5GRP-es Smart ZigBee Outlet Plug para Echo Plus y ZigBee Bridge Hub compatibles para controlar las luces normales  luces descendentes de LED Smart Home Automation'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

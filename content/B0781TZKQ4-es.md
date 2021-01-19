@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/316LrvUEMhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781TZKQ4-es'
+slug: 'B0781TZKQ4-es Reebok Classic Leather  Zapatillas para Mujer  Blanco  Intense White 0   35 EU'
 actualPrice: 52.05 EUR
 currency: EUR
 price: 52.05

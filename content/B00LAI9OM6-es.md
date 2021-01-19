@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4184eS7ULKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LAI9OM6-es'
+slug: 'B00LAI9OM6-es Earth Rated - Pack de bolsas para recoger excrementos de perro   Sin Olor   18 Rollos  270 unidades '
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

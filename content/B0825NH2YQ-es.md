@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uO5fxpf5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NH2YQ-es'
+slug: 'B0825NH2YQ-es Quiksilver Beach Please 16" - Short De Natación para Hombre Jam/Volley  Hombre  Four Leaf Clover  XL'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QSpy5qCHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KFDTPZ-es'
+slug: 'B079KFDTPZ-es BULLPADEL GOLD EDITION JUNIOR'
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

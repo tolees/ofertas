@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vChEmKtvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV4H1G7-es'
+slug: 'B07TV4H1G7-es H1 LED 10800LM Bombillas para Montaje de Faros Delanteros de Coches  12V  6000K'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

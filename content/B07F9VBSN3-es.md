@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YaDQDLzZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9VBSN3-es'
+slug: 'B07F9VBSN3-es E-MANIS Bolsa Almuerzo Bolsa Térmica con Compartimentos Separados Multiuso Caja De Almuerzo Multiuso Bolsa de Almuerzo para Adultos Mujeres Niños para Camping Excursión Playa Refrescos 6L  Gris '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

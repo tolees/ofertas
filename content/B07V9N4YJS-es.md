@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HXtCWXS7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9N4YJS-es'
+slug: 'B07V9N4YJS-es Estación meteorológica inalámbrica Reloj digital colorido del pronóstico del tiempo con sensor exterior Termómetro exterior Temperatura Humedad Barómetro Alarma Fase lunar Pantalla Reloj meteorológico'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

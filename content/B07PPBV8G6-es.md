@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xa3J1MWUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPBV8G6-es'
+slug: 'B07PPBV8G6-es RYLOS - Pendientes de plata chapada en oro amarillo de 14 quilates con forma ovalada y diamantes brillantes auténticos en plata de ley 925-6 x 4 mm'
 actualPrice: 111.18 EUR
 currency: EUR
 price: 111.18

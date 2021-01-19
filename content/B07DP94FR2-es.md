@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61eZvgAUpKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP94FR2-es'
+slug: 'B07DP94FR2-es Trials Rising - Gold Edition'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

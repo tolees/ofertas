@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ddnA9gWhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829HMBR8-es'
+slug: 'B0829HMBR8-es adidas Tan Training Pants Pantalon  Hombre  DGH Solid Grey  M'
 actualPrice: 22.76 EUR
 currency: EUR
 price: 22.76

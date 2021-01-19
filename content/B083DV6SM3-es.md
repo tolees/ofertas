@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NTALdLSNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DV6SM3-es'
+slug: 'B083DV6SM3-es Potente acabado de manga 8x48mm - Plata 8x48mm'
 actualPrice: 1.07 EUR
 currency: EUR
 price: 1.07

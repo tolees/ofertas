@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MPx7gbcaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCMRV1H-es'
+slug: 'B07NCMRV1H-es Juego de 2 maletas rígidas 55-69 Movom Turbo Rojas'
 actualPrice: 63.77 EUR
 currency: EUR
 price: 63.77

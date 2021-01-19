@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E-hN68tVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFB8L41-es'
+slug: 'B07WFB8L41-es MaoXinTek Sofa Hinchable Tumbona Inflable con Paquete Portátil para Viajes  Piscina  Camping  Parque  Playa  Patio Trasero'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

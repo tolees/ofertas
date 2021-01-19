@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DxOipZlmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CGTM4TN-es'
+slug: 'B08CGTM4TN-es AYIYO - Pantalones cortos de lino y algodón para bebés de 0 a 3 años  diseño floral  refrescantes y transpirables  para niños de 0 a 3 años C 0-6 Meses'
 actualPrice: 16.54 EUR
 currency: EUR
 price: 16.54

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y2rV2MJdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6JHJTC-es'
+slug: 'B07N6JHJTC-es Baseus Hub Tipo C de 5 Puertos de Datos Ultrafino de Aluminio USB Data Hub 3 Puertos USB 3.0 y 2 Puertos USB 2.0 para Apple MacBook Air  Mac Pro/Mini  Microsoft Surface Pro  DELL XPS 15  Tipo C '
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w7TY5DI9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG51X1G-es'
+slug: 'B07KG51X1G-es PUMA Speed Orbiter  Zapatillas de Running para Hombre  Black Nrgy Red Yellow Alert  6 EU'
 actualPrice: 48.68 EUR
 currency: EUR
 price: 48.68

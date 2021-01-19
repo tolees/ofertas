@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41twxJmo4mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EY7I1W4-es'
+slug: 'B00EY7I1W4-es Calvin Klein Reloj de Cuarzo para Hombre con Correa de Acero Inoxidable Chapado – K2G2714N'
 actualPrice: 157.0 EUR
 currency: EUR
 price: 157.0

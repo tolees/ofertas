@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w2rP+Z2hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFN9CBF-es'
+slug: 'B07BFN9CBF-es Oriware Estanteria Ducha Adhesivos Organizador Estantes Cesta para Ducha Baño SUS304 Acero Inoxidable -Sin Taladro'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

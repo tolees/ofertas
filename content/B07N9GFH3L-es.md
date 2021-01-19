@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ww39vfWgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N9GFH3L-es'
+slug: 'B07N9GFH3L-es Timex Reloj de Pulsera TW2R93900'
 actualPrice: 54.46 EUR
 currency: EUR
 price: 54.46

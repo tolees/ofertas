@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-IRpSasDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X91FK3L-es'
+slug: 'B06X91FK3L-es Osprey Transporter 40 Unisex Durable Duffel Travel Pack with Harness and Detachable Padded Shoulder Strap - Black  O/S '
 actualPrice: 89.7 EUR
 currency: EUR
 price: 89.7

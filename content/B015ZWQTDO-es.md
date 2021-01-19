@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41StTfd0eRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015ZWQTDO-es'
+slug: 'B015ZWQTDO-es Inglesina Twin Swift - Sillita de paseo doble  unisex  color graphite'
 actualPrice: 142.28 EUR
 currency: EUR
 price: 142.28

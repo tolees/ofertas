@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fat5MSFPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088M2VC2X-es'
+slug: 'B088M2VC2X-es Suhctup Funda Compatible con Samsung Galaxy S20 Ultra Transparente Silicona TPU Gel Carcasa Dibujos Flor Crystal Suave Bumper Ultra Delgado [Soporte Carga Inalámbrica] Antigolpes Case Cover Lace 9'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FphwchRQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDRZCXG-es'
+slug: 'B07NDRZCXG-es MEDION AKOYA M80 - PCC893 Ordenador de sobremesa  Intel Core i5-9400  8GB RAM  1TB de HDD  Intel Graphics  Windows10  Gris'
 actualPrice: 389.99 EUR
 currency: EUR
 price: 389.99

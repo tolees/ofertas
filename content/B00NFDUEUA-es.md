@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FDUuk6MXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NFDUEUA-es'
+slug: 'B00NFDUEUA-es Braun Minipimer 5 MQ5020WH Pasta - Batidora de mano  750 w  21 velocidades  750 w potencia  vaso medidor 0 6 l  campana anti-salpicaduras  accesorio picador  blanco y gris'
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

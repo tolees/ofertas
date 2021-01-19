@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G3EhdIwqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWRPG55-es'
+slug: 'B07VWRPG55-es Tamaris 1-1-28339-24  Sandalia con Pulsera para Mujer  Rosa  Old Rose 558   40 EU'
 actualPrice: 15.02 EUR
 currency: EUR
 price: 15.02

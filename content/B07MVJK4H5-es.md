@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MHubkzs2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJK4H5-es'
+slug: 'B07MVJK4H5-es Kipling - Card Keeper  Carteras Mujer  Gris  Night Grey   7x10x1 cm  B x H T '
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

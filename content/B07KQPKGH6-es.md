@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eIA0OOBhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQPKGH6-es'
+slug: 'B07KQPKGH6-es Kerastase 57977 Blond Bain Lumiere  250 ml'
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

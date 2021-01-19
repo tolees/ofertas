@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bZONIPygL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6UZAE2-es'
+slug: 'B01N6UZAE2-es adidas Gazelle C  Zapatillas Unisex Niños  Azul  Collegiate Navy/Footwear White/Footwear White 0   31 EU'
 actualPrice: 36.55 EUR
 currency: EUR
 price: 36.55

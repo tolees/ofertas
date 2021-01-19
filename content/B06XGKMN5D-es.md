@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wrCl0tGeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGKMN5D-es'
+slug: 'B06XGKMN5D-es Joma Pantalon Championship IV Largo  Hombre  Negro  Black/White   XS'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

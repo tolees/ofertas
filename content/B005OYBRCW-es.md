@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3115-2uGbgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005OYBRCW-es'
+slug: 'B005OYBRCW-es Roncato Maleta Pequeña XS Rigida Light - Cabina cm. 55 x 40 x 20 Capacidad 41 L  Organización Interna  Cierre TSA  Aprobado para: Ryanair Easyjet Lufthansa  Garantìa 10 años'
 actualPrice: 90.3 EUR
 currency: EUR
 price: 90.3

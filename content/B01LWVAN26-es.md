@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51k+O4pjtmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWVAN26-es'
+slug: 'B01LWVAN26-es Canon EF-M 18-150 - Objetivo para Canon EOS M5  EF-M 18-150 mm f/3 5-6 3 IS STM  Negro'
 actualPrice: 319.6 EUR
 currency: EUR
 price: 319.6

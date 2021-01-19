@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nirwWAOcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND919GN-es'
+slug: 'B07ND919GN-es Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 2011017'
 actualPrice: 111.95 EUR
 currency: EUR
 price: 111.95

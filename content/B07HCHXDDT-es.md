@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ABR6AvEOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCHXDDT-es'
+slug: 'B07HCHXDDT-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Titanio EM0726-89Y'
 actualPrice: 238.4 EUR
 currency: EUR
 price: 238.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Tvcz1003L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LW19QX2-es'
+slug: 'B01LW19QX2-es Rollei C6i Trípode Carbono'
 actualPrice: 145.97 EUR
 currency: EUR
 price: 145.97

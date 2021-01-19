@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GUu5+8SSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076B8PWSQ-es'
+slug: 'B076B8PWSQ-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable FTW5009'
 actualPrice: 115.22 EUR
 currency: EUR
 price: 115.22

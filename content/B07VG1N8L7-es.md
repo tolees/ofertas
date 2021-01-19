@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41r7NmRFTdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VG1N8L7-es'
+slug: 'B07VG1N8L7-es ivencase Funda para iPhone 11 Pro  Carcasa Transparente Protectora Reforzado Cojín de Esquina Parachoques Case Flexible TPU Suave Anti-Choque Ultra-Delgado Funda para iPhone 11 Pro 2019 5.8"'
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

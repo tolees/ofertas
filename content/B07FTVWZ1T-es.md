@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+0GXPqwkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTVWZ1T-es'
+slug: 'B07FTVWZ1T-es Lee Scarlett Cropped Jeans  Azul  High Blue Yon   29W / 31L para Mujer'
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

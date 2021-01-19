@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E46PunQPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QMJ9FF-es'
+slug: 'B086QMJ9FF-es Promini - Body para bebé con texto en inglés "My Aunt in California Loves Me"'
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

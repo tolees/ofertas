@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s28y0nZfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4KP3LT-es'
+slug: 'B07N4KP3LT-es Levi s Billy  Zapatillas para Hombre  Marrón  Brown 28   45 EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

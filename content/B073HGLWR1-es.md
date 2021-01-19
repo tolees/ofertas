@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D4Ewp56xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073HGLWR1-es'
+slug: 'B073HGLWR1-es Calgon Antical para lavadora en Gel - 1 5L'
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

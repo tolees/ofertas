@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MPJbivB8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077GXBJ5V-es'
+slug: 'B077GXBJ5V-es Medisana RC 410 Sillón de Relax con función de Masaje Shiatsu  sillón de Masaje con función de Calor  Masaje de Puntos  sillón de Columpio con Factor de Bienestar'
 actualPrice: 249.71 EUR
 currency: EUR
 price: 249.71

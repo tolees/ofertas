@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Q5tdRxTkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079W3VTF9-es'
+slug: 'B079W3VTF9-es Lisciani- LED Space Vehicle  65868 '
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

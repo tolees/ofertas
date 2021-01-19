@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DdA6VuDRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6CJZ2V-es'
+slug: 'B07N6CJZ2V-es Vicloon G4 LED Bombillas  2W Capsule LED Equivalente a 20W Bombillas Halógenas Blanco cálido DC/AC 12V 3000K 180lm No Regulable - Pack de 5 [Clase de Eficiencia Energética A+]'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

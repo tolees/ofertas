@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tpjc5vNnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9HLKVP-es'
+slug: 'B07L9HLKVP-es Under Armour Speed Stride Capri Legging  Mujer  Negro  XS'
 actualPrice: 28.76 EUR
 currency: EUR
 price: 28.76

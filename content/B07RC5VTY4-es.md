@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319LLbjFgiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC5VTY4-es'
+slug: 'B07RC5VTY4-es Trust Duet XP Auriculares Bluetooth sin Cables'
 actualPrice: 23.17 EUR
 currency: EUR
 price: 23.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R3QLnE-xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNTMYZ7-es'
+slug: 'B07NNTMYZ7-es Under Armour Men s Charged Bandit 5 Laufschuhe  Zapatillas de Running para Hombre  Azul  Versa Blue/Orange Spark/Water  404  404   42.5 EU'
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m078lMwQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMNVN89-es'
+slug: 'B07VMNVN89-es Calvin Klein Push Up Plunge Almohadillas y Rellenos de Sujetador  Negro  Black 001    Talla del Fabricante: Dd32  para Mujer'
 actualPrice: 16.96 EUR
 currency: EUR
 price: 16.96

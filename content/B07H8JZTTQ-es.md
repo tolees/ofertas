@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31m+eVPKnuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8JZTTQ-es'
+slug: 'B07H8JZTTQ-es Castellanísimos Mocasines de Mujer con Antifaz en Piel Florentic Negro'
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

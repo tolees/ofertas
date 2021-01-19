@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31k+zD8pcZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IJV96TM-es'
+slug: 'B01IJV96TM-es Targus THZ64307GL - Funda giratoria Universal SafeFit para Tablet de 7   a 8    Color Morado'
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

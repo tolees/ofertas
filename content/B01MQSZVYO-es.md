@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OFoQj+AaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQSZVYO-es'
+slug: 'B01MQSZVYO-es Luminarc Vina Set 6 Copas de Vino 47cl  6'
 actualPrice: 10.12 EUR
 currency: EUR
 price: 10.12

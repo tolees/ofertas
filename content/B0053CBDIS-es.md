@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yKiR+1IhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0053CBDIS-es'
+slug: 'B0053CBDIS-es El Libro De Eli - Bd [Blu-ray]'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

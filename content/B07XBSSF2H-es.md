@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31x23H0r+NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBSSF2H-es'
+slug: 'B07XBSSF2H-es PUMA CB Retro Suit Woven Cl Chándal  Hombre  Black-Palace Blue  XL'
 actualPrice: 52.46 EUR
 currency: EUR
 price: 52.46

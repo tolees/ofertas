@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o8oQGo60L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXKZSM6-es'
+slug: 'B07RXKZSM6-es Levi s 502 Regular Taper Jeans  Azul  Stonewash Stretch T2 0555   W34/L34  Talla del Fabricante: 34 34  para Hombre'
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

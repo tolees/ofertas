@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517Na4nWg0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDS5SK3-es'
+slug: 'B07QDS5SK3-es FGASAD - Trampa de Pesca Plegable  portátil  para Cangrejo  Cangrejo  Cangrejo  Cangrejo  Cangrejo  Cebo  pez  Cangrejo  Langosta  Peces  camarones  Nailon  como en la Imagen  25 * 45cm'
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

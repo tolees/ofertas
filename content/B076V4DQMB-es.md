@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cZ2U9NheL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076V4DQMB-es'
+slug: 'B076V4DQMB-es Kayond Forest Series Funda para portátil de 11" a 17"  resistente al agua negro negro 13-13.3 inch'
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gaBKr2fUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018E4IM9Y-es'
+slug: 'B018E4IM9Y-es DIM LG push up Leggings  Mujer  Marrón  Tamaño del fabricante:3 '
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MOh+msynL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYV7U25-es'
+slug: 'B01LYV7U25-es Razer Goliathus Cosmic Speed - Alfombrilla Gaming para ratón  Talla Grande  Color Verde'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JT5ybHY1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000XVLZNC-es'
+slug: 'B000XVLZNC-es HP CB436A 36A Cartucho de Tóner Original  1 unidad  negro'
 actualPrice: 28.4 EUR
 currency: EUR
 price: 28.4

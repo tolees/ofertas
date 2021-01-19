@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513WxN9iZkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083P1DLVP-es'
+slug: 'B083P1DLVP-es HERSITY Mini Camiones de Construccion Metal 5 Vehículos de Juguete Juego de Coches Regalos para Niños'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

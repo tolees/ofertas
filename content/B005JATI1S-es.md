@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rAP4NTfeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005JATI1S-es'
+slug: 'B005JATI1S-es L Oreal Paris - Cil Architecte 4D  Máscara de Pestañas  Efecto Pestañas Postizas Waterproof'
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

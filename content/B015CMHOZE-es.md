@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aWyt4F9zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CMHOZE-es'
+slug: 'B015CMHOZE-es Rimmel London Supercurler Máscara de Pestañas Tono Black - 25 31 gr'
 actualPrice: 3.07 EUR
 currency: EUR
 price: 3.07

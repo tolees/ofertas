@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f-Hz5Y5RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D7M2MX3-es'
+slug: 'B08D7M2MX3-es IWTTWY Compatible con Galaxy Note 20 Funda Transparente de Silicona TPU Suave Carcasa para Móvile Protección'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

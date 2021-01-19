@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HoOPZK4AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089R6WD1D-es'
+slug: 'B089R6WD1D-es LJP Funda Huawei Y9S  Funda Huawei Honor 9X  Antigolpes Doble Capa Duro PC + Suave Silicona TPU Bumper Case Carcasa para Huawei Y9S / Honor 9X  con 360 Anillo iman Soporte - Plata'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

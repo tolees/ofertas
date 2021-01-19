@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41APfMNNzPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016XZRR56-es'
+slug: 'B016XZRR56-es Steinbach Colector de Sol  Speed Solar Exclusiv  Negro  110 x 69 x 14 cm  049106'
 actualPrice: 142.0 EUR
 currency: EUR
 price: 142.0

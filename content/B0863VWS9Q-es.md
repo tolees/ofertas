@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-nDRyRvHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0863VWS9Q-es'
+slug: 'B0863VWS9Q-es Dasket Bin cesto de Ropa de lavandería Cesta de Malla Lavado Pop Up Bolsa de almacenaje Plegable Juguete Tidy'
 actualPrice: 9.81 EUR
 currency: EUR
 price: 9.81

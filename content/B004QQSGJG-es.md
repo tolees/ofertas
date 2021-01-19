@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51M4osm0JAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004QQSGJG-es'
+slug: 'B004QQSGJG-es Huggies Pull-Ups - Calzoncillos de aprendizaje para niños  talla S  8-15 kg   29 calzoncillos'
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jvJKIZRlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XS8FKWY-es'
+slug: 'B06XS8FKWY-es Apple Funda Smart Cover  para el iPad  - Blanco'
 actualPrice: 33.15 EUR
 currency: EUR
 price: 33.15

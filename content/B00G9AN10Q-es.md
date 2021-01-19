@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jYqhFfFyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G9AN10Q-es'
+slug: 'B00G9AN10Q-es Continental Grand Sport Race  Cubierta  Unisex  Negro  700 x 25'
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

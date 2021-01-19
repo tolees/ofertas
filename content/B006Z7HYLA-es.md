@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BUm2wTt7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006Z7HYLA-es'
+slug: 'B006Z7HYLA-es IK Multimedia IPIRIGMIXIN - Mesa de mezclas'
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

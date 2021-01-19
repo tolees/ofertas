@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Fbha%2BsdAL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BDQ8X7Q-es'
+slug: 'B01BDQ8X7Q-es Leifheit 7216-Recambio Classic mop  Compuesto  8.5x8.5x31 cm'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sJbAuIfuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BCN36FW-es'
+slug: 'B08BCN36FW-es Interruptor de reinicio del botón Interruptor de circuito WIFI Temporizador de control remoto 4P Ewelink inalámbrico inteligente inteligente Switch-4P 10A'
 actualPrice: 78.0 EUR
 currency: EUR
 price: 78.0

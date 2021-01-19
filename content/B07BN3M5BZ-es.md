@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tZsIssQJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BN3M5BZ-es'
+slug: 'B07BN3M5BZ-es NGS Premium Speaker WildRock - Altavoz portátil con Bluetooth  200W con Micro SD  USB  FM  AUX IN   Color Negro.'
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

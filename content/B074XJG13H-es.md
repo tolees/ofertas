@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411GGi5qmZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074XJG13H-es'
+slug: 'B074XJG13H-es Sharplace 2 Pares CW CCW Piezas de Recambio Portátiles para Hubsan H501S RC Drone Quadcopter - Oro'
 actualPrice: 7.77 EUR
 currency: EUR
 price: 7.77

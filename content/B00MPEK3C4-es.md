@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313y02sTsGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MPEK3C4-es'
+slug: 'B00MPEK3C4-es Nox TG-10 - NXTG10 - Pasta térmica  10 Gramos'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

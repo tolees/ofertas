@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tIm3E2asL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CWG4T4P-es'
+slug: 'B07CWG4T4P-es Melatonina 1 8 mg con 5-HTP  Magnesio y Vitamina B6  180 Cápsulas | Ayuda con el insomnio o trastornos del sueño | Vegano  No-GMO  GMP  libre de aditivos  sin Gluten | de Zenement'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

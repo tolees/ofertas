@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417hjkA2apL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW7GL12-es'
+slug: 'B07NW7GL12-es Skechers Uno- Roundabout  Zapatillas para Mujer  White Duraleather/Suede/Mesh Trim Wht  3 EU'
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

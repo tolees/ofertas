@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41guasdErCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJHZCNM-es'
+slug: 'B07NJHZCNM-es Tamaris 1-1-25242-23  Botas Militar para Mujer  Amarillo  Corn 610   40 EU'
 actualPrice: 24.06 EUR
 currency: EUR
 price: 24.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413JKZn0-XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WGL7XV-es'
+slug: 'B078WGL7XV-es PUMA Liga Shorts Core Jr Pantalones Cortos de Fútbol  Unisex Niños  Azul  Electric Blue Lemonade/White   116'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

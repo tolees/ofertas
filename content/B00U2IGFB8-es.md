@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21IhPp6gIwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U2IGFB8-es'
+slug: 'B00U2IGFB8-es Pikolin Home - Almohada de fibra  antiácaros  funda 100% algodón  firmeza media  40x70cm  altura 18cm  Todas las medidas '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3101QXzTWEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D0THLCI-es'
+slug: 'B00D0THLCI-es Max Factor Colour Elixir Lipstick 730 Flushed Fuchsia Pomadka nawilżająca do ust'
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01

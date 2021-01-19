@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rxwuIn7xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HBNT40K-es'
+slug: 'B01HBNT40K-es Michael Kors Reloj Unisex de Analogico con Correa en Chapado en Acero Inoxidable MKT4000'
 actualPrice: 182.96 EUR
 currency: EUR
 price: 182.96

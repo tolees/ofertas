@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410TRmoVbYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ETB6IR4-es'
+slug: 'B01ETB6IR4-es Fami 41556 .Cubo pintor de14 Litros con rejilla.'
 actualPrice: 3.18 EUR
 currency: EUR
 price: 3.18

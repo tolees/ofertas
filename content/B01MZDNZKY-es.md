@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51L6Kq1+cyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZDNZKY-es'
+slug: 'B01MZDNZKY-es Hummel Blade Plus Mini 9808 - Zapatillas de deporte  Unisex adulto  white/vintage indigo/pnk  111'
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4101vlzySzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NH11KIK-es'
+slug: 'B00NH11KIK-es AmazonBasics - Cable USB 2.0 de tipo A a tipo B  1 8 m '
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

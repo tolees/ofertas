@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lrA3ZgSmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078TK2Z6X-es'
+slug: 'B078TK2Z6X-es Pepe Jeans Vincent Polo  Negro  Black 999   X-Large para Hombre'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

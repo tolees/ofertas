@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317dAG3IRiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000FIZNC2-es'
+slug: 'B000FIZNC2-es Shimano Fx Spinning 66Mhb2 195Mh'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

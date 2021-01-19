@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31z7MoQyn4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BXF9EH6-es'
+slug: 'B00BXF9EH6-es Piz Buin Piz Buin Wet Skin Transparent Sun Spray Spf15 150 ml'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

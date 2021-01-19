@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31tJ53LLsdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NUEXO4W-es'
+slug: 'B00NUEXO4W-es HFTEK Soporte para 3 tres monitores de escritorio para pantalla 15 - 27 pulgadas con VESA 75 / 100  MP230C-L '
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

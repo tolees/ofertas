@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uDZf3fYnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZJ7MLW-es'
+slug: 'B07CZJ7MLW-es Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Negro/Lima  Black/Lime Green/White   46 EU'
 actualPrice: 87.09 EUR
 currency: EUR
 price: 87.09

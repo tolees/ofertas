@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iWJsWfk-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018SW6CZ8-es'
+slug: 'B018SW6CZ8-es Arena Fundamentals Logo Bañador  Hombre  Naranja  Mango/Royal   S'
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51AW9vJG5JL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QF3NNHX-es'
+slug: 'B07QF3NNHX-es F1 2019 - Anniversary Edición'
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

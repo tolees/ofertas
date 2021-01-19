@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-bVXeJCrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDQJFJS-es'
+slug: 'B07RDQJFJS-es Slendertone Brazaletes de bíceps y tríceps H / F Tonificación Unisex-Adulto  Negro  25 a 45 cm'
 actualPrice: 90.3 EUR
 currency: EUR
 price: 90.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ea64a7uPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HLJ6M95-es'
+slug: 'B08HLJ6M95-es Controlador Tina @ Wii Nunchuck  2 paquetes de repuesto para controlador Nunchuk para consola Wii y Wii U  negro / negro '
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UaB+w3aLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N22SV4H-es'
+slug: 'B07N22SV4H-es Desigual Dark Fresh Festival 100ml'
 actualPrice: 8.72 EUR
 currency: EUR
 price: 8.72

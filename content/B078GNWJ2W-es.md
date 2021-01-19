@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s-Lq45-SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GNWJ2W-es'
+slug: 'B078GNWJ2W-es CASEBOT Funda para Kindle Oasis  2019/2017  10.ª y 9.ª Generación  - Carcasa de Cuero Genuino  Negro'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

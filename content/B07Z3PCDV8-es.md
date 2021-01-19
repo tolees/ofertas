@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51vZ11hz-PL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3PCDV8-es'
+slug: 'B07Z3PCDV8-es G9 Halogena Bombilla Lámpara 40W Ketom Blanco Calido 2800K Regulable 230V 300LM Lámpara Halógena Pack de 12 Iluminación Halógena de Bombilla'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

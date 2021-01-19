@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LRUA90fHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVDWNNF-es'
+slug: 'B07CVDWNNF-es Skechers Men s Flex Advantage 3.0- Jection Trainers  Blue  Navy Black Nvbk   7 UK 41 EU'
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

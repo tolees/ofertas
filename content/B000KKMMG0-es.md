@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415xhdqolcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KKMMG0-es'
+slug: 'B000KKMMG0-es Adidas Samba  Zapatillas de Fútbol para Hombre  Negro Black Running White  43 1/3 EU'
 actualPrice: 35.45 EUR
 currency: EUR
 price: 35.45

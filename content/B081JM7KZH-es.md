@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Z6KcZKyoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081JM7KZH-es'
+slug: 'B081JM7KZH-es DIGITNOW! 16MP Cámaras de Caza 1080P FHD Impermeable Gran Angular de 120° y 42pcs IR LED Infrarrojo Visión Nocturna con hasta 80FT/25m Sendero Juego Camera  Cazar Vigilancia de la Fauna'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

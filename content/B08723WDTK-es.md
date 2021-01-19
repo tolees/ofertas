@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41el+OsJ1CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08723WDTK-es'
+slug: 'B08723WDTK-es Mono de bebé Promini para bebé – If Grandad Can t Fix It No One Can DIY Herramientas – Body de bebé de una sola pieza mameluco de bebé el mejor regalo para bebé'
 actualPrice: 13.14 EUR
 currency: EUR
 price: 13.14

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415vQQzjhzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MFHL47Y-es'
+slug: 'B01MFHL47Y-es Under NY Sky Delantal Verde - Sarga Profesional - Correas de Espalda Cruzada - Multi Bolsillos - Ajustable  Hombres  Mujeres  Chef  Barista  Barbero  Barman  Dependiente de Tenda  Artista del tatuaje'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

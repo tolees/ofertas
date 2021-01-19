@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c5dcTEHjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FW19VT4-es'
+slug: 'B07FW19VT4-es molis&co. Saco de Dormir para bebé. Ideal para Verano. 0-6 Meses. 0.5 TOG. Súper Suave y Ligero. Estampado safari en tonos amarillos y verdes. Unisex. Muselina Premium.'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

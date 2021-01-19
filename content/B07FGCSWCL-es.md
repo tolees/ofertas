@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/3168%2Bn3fnwL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FGCSWCL-es'
+slug: 'B07FGCSWCL-es New Balance W890V7  Zapatillas de Running para Mujer  Blanco  White White   43 EU'
 actualPrice: 33.64 EUR
 currency: EUR
 price: 33.64

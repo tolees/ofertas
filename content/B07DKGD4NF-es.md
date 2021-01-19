@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PCLxmK4pL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKGD4NF-es'
+slug: 'B07DKGD4NF-es Kipling IAKA L Wristlet  Bolsos para Mujer  Morado  Active Lilac Bl   28x21.5x1 cm'
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

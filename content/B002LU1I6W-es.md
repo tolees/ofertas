@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WCtfFozjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002LU1I6W-es'
+slug: 'B002LU1I6W-es Lacoste L1312 Polo  Blanco  Blanc   S  Talla del fabricante: 3  para Hombre'
 actualPrice: 51.49 EUR
 currency: EUR
 price: 51.49

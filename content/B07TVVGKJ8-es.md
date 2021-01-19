@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dNv9W6JRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVVGKJ8-es'
+slug: 'B07TVVGKJ8-es Skechers Flex Advantage 3.0  Zapatillas para Hombre  Negro  Black Mesh/Trim Black   42 EU'
 actualPrice: 46.5 EUR
 currency: EUR
 price: 46.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pHkU3gkkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004YJLIJA-es'
+slug: 'B004YJLIJA-es K&N SU-4007 Filtro de Aire Moto'
 actualPrice: 54.14 EUR
 currency: EUR
 price: 54.14

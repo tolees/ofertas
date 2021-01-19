@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Gsah-PZGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BCW4S3-es'
+slug: 'B072BCW4S3-es Bolero Bebida para el control de peso - 513 gr.'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

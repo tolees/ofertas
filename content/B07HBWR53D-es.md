@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WJXhjwI+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HBWR53D-es'
+slug: 'B07HBWR53D-es Ventosa Fácil Instalación Suction Cup para Carro Autocaravana'
 actualPrice: 17.73 EUR
 currency: EUR
 price: 17.73

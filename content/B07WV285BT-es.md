@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5118pQOMXtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WV285BT-es'
+slug: 'B07WV285BT-es Gricol Portarrollos para Papel Higiénico Porta Rollos con Soporte para Teléfono Celular Toallero de Pared para Baño Estilo Retro Vintage  Dorado '
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

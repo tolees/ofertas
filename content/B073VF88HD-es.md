@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61jwfnWOlKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073VF88HD-es'
+slug: 'B073VF88HD-es Ewparts 3mm Mini cuentas de cristal para los niños DIY Bracelet Arte y joyería-Making  cadena de cuentas de fabricación de juego  Fadeless Color  Full color '
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

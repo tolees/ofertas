@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41p18oYo7ML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075CWRKGR-es'
+slug: 'B075CWRKGR-es Buff Ultimate Logo Cinta Tech Forro Polar  Unisex Adulto  Black  Talla única'
 actualPrice: 10.36 EUR
 currency: EUR
 price: 10.36

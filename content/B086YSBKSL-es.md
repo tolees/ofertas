@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xNaDf87DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YSBKSL-es'
+slug: 'B086YSBKSL-es BXIO Afilador de cuchillos de cocina  Herramienta de afilado portátil para exteriores  Hoja de afilado de acero de tungsteno  Mango de aleación de aluminio ultraligero  duradero  afilado  2 piezas'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

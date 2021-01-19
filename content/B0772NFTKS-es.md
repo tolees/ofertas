@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414iFtT-W2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772NFTKS-es'
+slug: 'B0772NFTKS-es Gazechimp 4 Piezas RC Tren de Rodaje de Drone para Hubsan H501S H501C X4 - Negro'
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

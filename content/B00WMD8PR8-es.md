@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CbxJgzImL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WMD8PR8-es'
+slug: 'B00WMD8PR8-es Scholl Velvet Smooth Recambios para Lima Pies Durezas Regulares - 2 Unidades'
 actualPrice: 7.52 EUR
 currency: EUR
 price: 7.52

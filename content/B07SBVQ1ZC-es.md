@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Pr2AweaaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBVQ1ZC-es'
+slug: 'B07SBVQ1ZC-es PUMA NRGY Neko Knit  Zapatillas de Running para Hombre  Rojo  High Risk Red/Castlerock 24   44 EU'
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ru6u2AQ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083Q1NVGS-es'
+slug: 'B083Q1NVGS-es B Blesiya 2Pcs Colgante Wood Bird House  Retro Arts and Crafts Country Cottages Bird House  Woodland Cabin Birdhouse Decoración Al Aire Libre  Rojo Y Azul'
 actualPrice: 28.71 EUR
 currency: EUR
 price: 28.71

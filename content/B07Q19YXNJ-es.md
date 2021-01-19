@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hUugxdB6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q19YXNJ-es'
+slug: 'B07Q19YXNJ-es Fosly Utensilios de Cocina de Acero Inoxidable  10 Unidades  Azul'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

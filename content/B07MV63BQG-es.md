@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415Kh01AOwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV63BQG-es'
+slug: 'B07MV63BQG-es Occitop - Juego de 85 cuentas para manualidades  collares  pulseras  joyería'
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

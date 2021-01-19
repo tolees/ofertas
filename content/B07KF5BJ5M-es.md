@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31lHdaQfs4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF5BJ5M-es'
+slug: 'B07KF5BJ5M-es Levi s unbasic  Hoodie Capucha  Blanco  White + 0006   X-Small para Mujer'
 actualPrice: 41.4 EUR
 currency: EUR
 price: 41.4

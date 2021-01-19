@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417ZloriqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N12MIMZ-es'
+slug: 'B01N12MIMZ-es Garmin Fenix 5X- Reloj GPS con pulsómetro  zafiro gris con correa negra  talla 51 mm'
 actualPrice: 309.0 EUR
 currency: EUR
 price: 309.0

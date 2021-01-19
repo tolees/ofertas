@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510QW4pkSqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHFBXMP-es'
+slug: 'B07ZHFBXMP-es Karactermania Villanas Disney -Saco de Cuerdas Storm  Negro'
 actualPrice: 9.4 EUR
 currency: EUR
 price: 9.4

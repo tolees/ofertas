@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KMYkBRwxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001AKE2B2-es'
+slug: 'B001AKE2B2-es KidKraft- Arenero de madera para niños  diseño de galeón pirata  para jardín y exteriores   Color Multicolor  128 '
 actualPrice: 181.99 EUR
 currency: EUR
 price: 181.99

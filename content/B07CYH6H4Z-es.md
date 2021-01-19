@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B+uYQjq7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYH6H4Z-es'
+slug: 'B07CYH6H4Z-es Amazfit Stratos Reloj Inteligente Multideporte con VO2max  frecuencia cardíaca y Seguimiento de Actividad  GPS  Resistencia al Agua de 5 ATM  música sin teléfono  A1619  Negro '
 actualPrice: 125.84 EUR
 currency: EUR
 price: 125.84

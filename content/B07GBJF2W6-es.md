@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nDZfKNGSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBJF2W6-es'
+slug: 'B07GBJF2W6-es Rage 2 Collectors Edition'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

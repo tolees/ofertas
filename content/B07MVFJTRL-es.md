@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/3125jyC3UfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVFJTRL-es'
+slug: 'B07MVFJTRL-es Adidas Daily 2.0  Zapatillas para Hombre  Negro  Black F34468   45 1/3 EU'
 actualPrice: 35.97 EUR
 currency: EUR
 price: 35.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yGGk-vP7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JZQBM9-es'
+slug: 'B079JZQBM9-es Concord Soul - Silla de paseo plegable y multifuncional  Color Steel Grey'
 actualPrice: 163.37 EUR
 currency: EUR
 price: 163.37

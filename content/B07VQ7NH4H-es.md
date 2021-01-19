@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wvjjnTpwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQ7NH4H-es'
+slug: 'B07VQ7NH4H-es Edge Entertainment- Hellboy: el Juego de Tablero  Color  EEMTHB01 '
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

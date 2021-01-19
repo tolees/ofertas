@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wa4cgHYKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYCH5HS-es'
+slug: 'B07JYCH5HS-es Bolsas de Aseo  RUISIKIOU 3 Sets Bolsa de Viaje de PVC Artículos de Aseo Kit de Maquillaje cosmético Cartera Transparente pequeña para Mujer'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LLVqZgSPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J1ZL3JX-es'
+slug: 'B07J1ZL3JX-es JACK & JONES Jcochallenge Polo SS Noos  Gris  Light Grey Melange Fit: Reg   X-Large para Hombre'
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

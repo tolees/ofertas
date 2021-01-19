@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410JY5O+adL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CR6CP3E-es'
+slug: 'B01CR6CP3E-es HBL Cruze Junior Shiny'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

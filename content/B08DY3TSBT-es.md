@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QNQ1PPAML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DY3TSBT-es'
+slug: 'B08DY3TSBT-es Unknow 16 sq ft rojoParque Juegos Bebe con Malla Transpirable 6 Piezas Cunas Portatiles Bebe para Niños'
 actualPrice: 87.39 EUR
 currency: EUR
 price: 87.39

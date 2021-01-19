@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eXz608XVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKRB1K5-es'
+slug: 'B07CKRB1K5-es GearGo Purificador de Aire con Filtro Hepa  Purificador de Aire para Hogar Diseño Desmontable Multifunción como Difusor de Aceites Esenciales  Eliminador para PM2.5  Alergias  Bacterias  Malos olores'
 actualPrice: 28.77 EUR
 currency: EUR
 price: 28.77

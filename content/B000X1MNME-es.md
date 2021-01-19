@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uub453xYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000X1MNME-es'
+slug: 'B000X1MNME-es Reebok F/S Hi  Zapatillas Altas para Mujer  Blanco  INT-White/Silver   40.5 EU'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

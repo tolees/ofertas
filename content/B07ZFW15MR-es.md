@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g21MJcLbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFW15MR-es'
+slug: 'B07ZFW15MR-es 24x Gris blanco Lámina impresa 2d 15x15cm PEGATINAS lisas para pegar sobre azulejos cuadrados de 15cm en cocina  baños resistentes al agua y aceite'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

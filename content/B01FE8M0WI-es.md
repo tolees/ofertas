@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318ft5DnguL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FE8M0WI-es'
+slug: 'B01FE8M0WI-es Gardena 08905-20 Tijera de jardín  Diámetro máx de corte-Ø: 24mm  S-XL '
 actualPrice: 22.16 EUR
 currency: EUR
 price: 22.16

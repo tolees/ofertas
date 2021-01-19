@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31a30Enf8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCS4P3F-es'
+slug: 'B07KCS4P3F-es Hurley M Icon Stretch Chino 19  Pantalones Cortos  Hombre  Azul  Obsidian   28'
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

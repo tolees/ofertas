@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51a0xH3IJZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C4H8D7X-es'
+slug: 'B07C4H8D7X-es Electroestimuladores Tens y EMS Estimulador De Pulsos  Electroestimulador Digital Masaje Recargable con 16 Modos y 8 Pads 2 Canales'
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

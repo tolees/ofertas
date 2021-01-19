@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HvBbeoCqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGVQ8HS-es'
+slug: 'B07QGVQ8HS-es G-STAR RAW Roxic Tapered Cargo Pantalones  Azul  Mazarine Blue 4893-4213   W26/L30  Talla del Fabricante: 26W / 30L  para Hombre'
 actualPrice: 29.38 EUR
 currency: EUR
 price: 29.38

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QRBXl-BFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY3PY85-es'
+slug: 'B07NY3PY85-es Superdry Poolside Pique Polo  Rojo  Rouge Red Twist Y6p   M para Hombre'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

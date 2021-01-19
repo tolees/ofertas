@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RffqQEeJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHP2H7J-es'
+slug: 'B07ZHP2H7J-es BaByliss 668E Cepillo de aire de viaje  2 temperaturas   incluye 2 cepillos extraíbles de púas duras y suaves de 22 mm para moldear el cabello  tamaño mini y multi voltaje para llevar en la maleta'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

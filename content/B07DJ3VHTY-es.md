@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BQhU-61TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ3VHTY-es'
+slug: 'B07DJ3VHTY-es New Balance 373  Zapatillas Unisex Niños  Blanco  White/Crystal Rose BT   29 EU'
 actualPrice: 24.28 EUR
 currency: EUR
 price: 24.28

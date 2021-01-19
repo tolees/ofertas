@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EFc6VufHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VF74PS1-es'
+slug: 'B07VF74PS1-es Max Power Digital Funda para Xiaomi Mi 9 SE  5.97"  con Soporte - Carcasa rígida antichoque Resistente  Mi 9 SE  Plata '
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

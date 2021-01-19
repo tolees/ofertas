@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Sb7+ibDSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK82NTH-es'
+slug: 'B07MK82NTH-es Le Coq Sportif Break COCARDE  Zapatillas Unisex Adulto  Blanco  Optical White/Tricolore Optical White/Tricolore   37 EU'
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

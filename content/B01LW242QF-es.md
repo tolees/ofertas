@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ac+Zbz6nL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LW242QF-es'
+slug: 'B01LW242QF-es Thierry Mugler Mugler Cologne Edt Vapo 300 ml 300 g'
 actualPrice: 54.75 EUR
 currency: EUR
 price: 54.75

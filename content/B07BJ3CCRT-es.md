@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zssDBp8qL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJ3CCRT-es'
+slug: 'B07BJ3CCRT-es Lámpara solar Luces Jardín 42 LED solares exterior foco led sensor de movimiento 2 Piezas 6000KImpermeable iluminación vial blanco luz del Inalámbricas camino  valla  Cubierta  Patio  garaje'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

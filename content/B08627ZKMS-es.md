@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51q1dypAtML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08627ZKMS-es'
+slug: 'B08627ZKMS-es Wimypet Alfombra Refrescante para Perro  Alfombrilla para Animales  Manta de Dormir Fresco para Perros/Gatos  No Tóxico Mascotas y Gatos en Verano  Azul '
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

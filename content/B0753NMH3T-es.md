@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p1TVR5f0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753NMH3T-es'
+slug: 'B0753NMH3T-es Bourjois Air Mate Powder Polvos Tono 05 Caramel - 47 gr.'
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xdo2yPnHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JR24JM2-es'
+slug: 'B00JR24JM2-es Ghd 60950 - Cepillo de pelo'
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

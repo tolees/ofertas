@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OtK0L0wLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LTV2BBK-es'
+slug: 'B00LTV2BBK-es Crucial CT102464BF186D Memoria RAM de 8 GB   DDR3  1866 MT/s  PC3-14900  SODIMM  204-Pin '
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

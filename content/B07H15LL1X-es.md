@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BcRiytjOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H15LL1X-es'
+slug: 'B07H15LL1X-es Manta Electrica Lumbar 120W  65×85 '
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

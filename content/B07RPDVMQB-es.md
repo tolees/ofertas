@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-s1U34D1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPDVMQB-es'
+slug: 'B07RPDVMQB-es Amtier Pulsera de Mujer con Acero Inoxidable Viene con 7 Piezas deslizable Cristales de circonio cúbico Oro Rosa & Plata'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

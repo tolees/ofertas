@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Bxp3OwWaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4R9PB2-es'
+slug: 'B07B4R9PB2-es L Oreal Paris - Dermo Expertise  Exfoliante Facial Iluminador Azúcares Suaves - 50 ml'
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

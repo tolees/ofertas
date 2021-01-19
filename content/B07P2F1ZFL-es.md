@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MGJtK-2UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2F1ZFL-es'
+slug: 'B07P2F1ZFL-es FITTOO Mallas Pantalones Deportivos Mujer Elásticos Transpirables para Yoga Running Fitness670'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

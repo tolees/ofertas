@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MSBX9YMbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N43HXTC-es'
+slug: 'B07N43HXTC-es Tommy Hilfiger Pima Cotton Cashmere Crew Neck Suéter  Gris  Silver Fog Heather P9w   Small para Hombre'
 actualPrice: 69.56 EUR
 currency: EUR
 price: 69.56

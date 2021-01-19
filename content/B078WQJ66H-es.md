@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nvzkiFzrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WQJ66H-es'
+slug: 'B078WQJ66H-es SD2VITA Pro - Adaptador Pro 5.0 para tarjeta de memoria PS VITA 3.60 Henkaku Micro SD PSVITA  cobertura completa '
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

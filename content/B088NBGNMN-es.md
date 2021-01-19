@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eFz0fZv3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088NBGNMN-es'
+slug: 'B088NBGNMN-es WEWAK Actualizado Dispensador Automático de Jabón Espuma 12 oz / 350 ml  Eléctrico con Batería sin Contacto  Dispensador de Jabón Manos Libres para Baño Cocina Inodoro Oficina'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

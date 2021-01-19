@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u8--cmcKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IVIIJSM-es'
+slug: 'B01IVIIJSM-es Ariel 3en1 Pods Detergente En Cápsulas  Sensaciones  Limpieza Increíble  Limpia  Quita Manchas  Ilumina - 38 Lavados'
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

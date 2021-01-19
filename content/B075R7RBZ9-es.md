@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31g+mNU611L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R7RBZ9-es'
+slug: 'B075R7RBZ9-es Zapatillas New Balance – Lifestyle Retro 90s Negro/Rosa/Gris Talla: 45 5'
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IhsDCcsYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PPZZFF-es'
+slug: 'B077PPZZFF-es Disfraz de Cowboy a hombros de Caballo para adultos'
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

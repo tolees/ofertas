@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mmwP480tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYRZK73-es'
+slug: 'B07CYRZK73-es Calvin Klein Reloj Analógico para Hombre de Cuarzo con Correa en Cuero K8Q311C1'
 actualPrice: 127.91 EUR
 currency: EUR
 price: 127.91

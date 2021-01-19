@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ax-y6mJQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHQN2D6-es'
+slug: 'B07DHQN2D6-es Lacoste Lerond 119 737cma0045042  Zapatillas para Hombre  Blanco  Wht/Nvy 042   42 EU'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

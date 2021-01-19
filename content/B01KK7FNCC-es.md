@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uvMFUDlcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KK7FNCC-es'
+slug: 'B01KK7FNCC-es NIVEA Hyaluron Cellular Filler + Volumen y Contorno Serum Pearls  1 x 30 ml   sérum facial antiarrugas  sérum antiedad para mejorar el volumen  sérum de ácido hialurónico'
 actualPrice: 11.41 EUR
 currency: EUR
 price: 11.41

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iQsHr9s1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSKYLXD-es'
+slug: 'B07MSKYLXD-es HKT by Hackett Hkt SS Str Rby Polo   Ink 591   X-Large para Hombre'
 actualPrice: 38.88 EUR
 currency: EUR
 price: 38.88

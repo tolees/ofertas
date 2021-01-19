@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PKRNo-tJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016KOGWNS-es'
+slug: 'B016KOGWNS-es Mate Top Coat Gel Sensationail 7 39 ml'
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

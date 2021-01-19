@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51cuccV2NhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDVZZ3M-es'
+slug: 'B07WDVZZ3M-es Garfield Kart Furious Racing'
 actualPrice: 21.48 EUR
 currency: EUR
 price: 21.48

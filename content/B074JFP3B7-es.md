@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419SU6zrG6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074JFP3B7-es'
+slug: 'B074JFP3B7-es Blade Runner 2049 Blade Runner 2049-Funko Pop Figura de Vinilo Deckard  Multicolor  Standard  Funko 21589 '
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

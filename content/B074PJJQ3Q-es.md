@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZcBQWRs9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PJJQ3Q-es'
+slug: 'B074PJJQ3Q-es Osram Smart + Apple homekit Classic A RGBW  LED Bombilla En Forma De La Bombilla  control del color y regulable mediante Apple homekit  10 W  mate  blanco cálido – 2700 Kelvin  1er Pack'
 actualPrice: 33.69 EUR
 currency: EUR
 price: 33.69

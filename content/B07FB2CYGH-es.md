@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31GWRdjVnzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FB2CYGH-es'
+slug: 'B07FB2CYGH-es Eucerin Filtro solar corporal - 200 ml'
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

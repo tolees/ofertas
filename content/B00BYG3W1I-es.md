@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QIUyOjCWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BYG3W1I-es'
+slug: 'B00BYG3W1I-es Nike T-Lite 11  Zapatillas de Cross Training para Hombre  Blanco  White/Black/Obsidian   46 EU'
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VgxO96jiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0818MD2QZ-es'
+slug: 'B0818MD2QZ-es BEE’S TREND Bee Wrap Envoltorio Cera Abejas Reutilizable - Rollo 100% Algodón  Cera Natural  Resina Árbol y Aceite Jojoba - Lavable  Duradero - Cortable para Sobras y Comida - Abejas Beige  1 2m'
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

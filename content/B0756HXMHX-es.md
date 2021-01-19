@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PQTY4KL7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756HXMHX-es'
+slug: 'B0756HXMHX-es Tiny Love 3 in 1 Close to Me Bouncer - Balancín'
 actualPrice: 112.89 EUR
 currency: EUR
 price: 112.89

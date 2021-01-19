@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+++7FX8WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KJ8TWG-es'
+slug: 'B071KJ8TWG-es West Ham United FC Gorra básica oficial  Talla Única/Vino '
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

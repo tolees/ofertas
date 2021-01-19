@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zjv3pOxeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086XC4NT6-es'
+slug: 'B086XC4NT6-es ZHBRE Humidificador USB Mini humidificador silencioso pequeño con atomizador de luz Nocturna se Puede Utilizar para el hogar Dormitorio Oficina Coche-White 57 × 72 × 150 mm'
 actualPrice: 30.36 EUR
 currency: EUR
 price: 30.36

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51b2WkLR-WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JW7YLZ-es'
+slug: 'B072JW7YLZ-es White Day: A Labyrinth Named School'
 actualPrice: 16.07 EUR
 currency: EUR
 price: 16.07

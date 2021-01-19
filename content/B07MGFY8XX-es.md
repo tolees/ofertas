@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U2hiDzGfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFY8XX-es'
+slug: 'B07MGFY8XX-es Antimosquitos Repelente Ultrasónico de Control de Plagas Repelente Ultrasonidos Control de Plagas para Interiores para Cucarachas Roedores Moscas Hormigas  Arañas Ratones-No Tóxico Paquete de 2 '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

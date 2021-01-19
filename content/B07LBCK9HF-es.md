@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K0CrMzRgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBCK9HF-es'
+slug: 'B07LBCK9HF-es Kappa Monteba OC  Zapatillas Unisex Adulto  Black 1111  36 EU'
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

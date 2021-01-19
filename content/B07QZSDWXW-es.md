@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l5epXdLYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZSDWXW-es'
+slug: 'B07QZSDWXW-es Baby Einstein 11311  Andador y Centro de Actividades Multilingue 4-en-1 Around We Grow  6-36 Meses'
 actualPrice: 97.49 EUR
 currency: EUR
 price: 97.49

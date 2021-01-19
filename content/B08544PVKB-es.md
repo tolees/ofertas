@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51moSaPGjLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08544PVKB-es'
+slug: 'B08544PVKB-es Fuentes de Alimentación Regulables  HANMATEK HM305 Fuentes de Alimentación Laboratorio DC Variable 30 V / 5 A  LED Display de 4 Dígitos  Para Laboratorio  Hogar  Reparación General'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

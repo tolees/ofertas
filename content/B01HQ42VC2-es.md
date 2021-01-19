@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nfngkj+dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HQ42VC2-es'
+slug: 'B01HQ42VC2-es Bolero Bebida Instantánea sin Azúcar  Sabor Guanabana - Paquete de 24 x 9 gr - Total: 216 gr'
 actualPrice: 6.23 EUR
 currency: EUR
 price: 6.23

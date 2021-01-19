@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BHhpQdntL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JBZM9J-es'
+slug: 'B071JBZM9J-es Garnier Protector Tacto Seco Bruma Seca FPS 50 - 200 ml'
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

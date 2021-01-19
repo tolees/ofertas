@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51VM-plpsiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D6JQUFQ-es'
+slug: 'B00D6JQUFQ-es Agua Brava 492-040191 Colonia - 200 ml'
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

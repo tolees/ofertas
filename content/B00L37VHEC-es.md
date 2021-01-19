@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310jfW2LycL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L37VHEC-es'
+slug: 'B00L37VHEC-es Artero Acondicionador y desenredante para Perros y Gatos Matt-x'
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

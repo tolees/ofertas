@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RRdg-4zmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NYTJQGN-es'
+slug: 'B07NYTJQGN-es Skechers Men s DYNA-AIR Trainers  Grey  Charcoal Mesh/Black Trim Ccbk   8  42 EU '
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

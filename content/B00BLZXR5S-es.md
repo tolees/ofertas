@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DKS3cvVDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BLZXR5S-es'
+slug: 'B00BLZXR5S-es Einhell 4419169 Multiherramienta TH-MG 135 E con 189 accesorios  maletín  eje flexible  135 W  230 V  color rojo'
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

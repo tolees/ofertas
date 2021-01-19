@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AiwNzz9cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPK63Y8-es'
+slug: 'B07KPK63Y8-es Pop! Bobble: Avengers Endgame: Nebula'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

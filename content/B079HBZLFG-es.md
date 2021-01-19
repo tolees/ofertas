@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TZpNvpaZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079HBZLFG-es'
+slug: 'B079HBZLFG-es Philips Sonicare ProtectiveClean HX6856/17 - Cepillo de dientes eléctrico recargable con 2 cabezales de Cuidado de las encías  3 modos de limpieza  2 cabezales y estuche de viaje  cargador  rosa'
 actualPrice: 92.99 EUR
 currency: EUR
 price: 92.99

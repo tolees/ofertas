@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y6xwcJYUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZ2HLPG-es'
+slug: 'B01LZ2HLPG-es Denivit Anti-manchas Intensivo Dentífrico con Flour de Uso Diario - 50 ml'
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

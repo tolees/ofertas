@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jgf1mQ6bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNR5TS8-es'
+slug: 'B07NNR5TS8-es Riuty Faros Delanteros Searchlight，Outdoor Night Waterproof LED Bike Luz Delantera Brillante Luz Trasera Trasera Rojo '
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

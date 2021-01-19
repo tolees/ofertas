@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tQ+56D5LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQN875K-es'
+slug: 'B07JQN875K-es Crema De Cacahuete Loaded Nuts | Crema De Cacahuete Con Chocolate Premium | Sin Aceite De Palma | Fuente De Proteínas | Brownie Deep Choc Dive | THE PROTEIN WORKS | 500 g'
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

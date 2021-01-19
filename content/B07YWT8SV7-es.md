@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y3G+xZWyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YWT8SV7-es'
+slug: 'B07YWT8SV7-es CXZC Cojín de silla de salón de patio de 120 cm  cojines de interior/exterior Chaise Lounge Cojín de silla mecedora para jardín  colchón para silla de gravedad cero'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

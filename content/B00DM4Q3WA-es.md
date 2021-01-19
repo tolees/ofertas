@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AKZXepNFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DM4Q3WA-es'
+slug: 'B00DM4Q3WA-es Redskins Toniko - Zapatillas de Deporte de Cuero para Hombre Negro Negro 40'
 actualPrice: 15.56 EUR
 currency: EUR
 price: 15.56

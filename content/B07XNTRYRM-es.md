@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LZR8pnLwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XNTRYRM-es'
+slug: 'B07XNTRYRM-es GORWRICH - Soporte para teléfono móvil  soporte de escritorio y tablet con ángulo ajustable'
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

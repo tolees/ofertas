@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412GfIuU4tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WPYFXFX-es'
+slug: 'B07WPYFXFX-es Lebze Bebé Muselina Swaddle Manta "Diseño de Oso polar" Bambú Algodon Muselinas 120x120 cm Mantitas para Bebes'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

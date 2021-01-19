@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AwYP14z2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GR2AEK0-es'
+slug: 'B01GR2AEK0-es ENKEEO Candado U Retorcible Cerradura Antirobo con Capa de Corrosión Resistente para Bicicletas  Motos  U Lock Montura  2 Reversibles Llaves  Arco con Alta Resistencia  Negro'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

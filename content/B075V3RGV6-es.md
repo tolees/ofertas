@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51m3tfJhu8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075V3RGV6-es'
+slug: 'B075V3RGV6-es L.A. Noire'
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9

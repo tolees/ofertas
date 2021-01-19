@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c6J6phvQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000ZBUY78-es'
+slug: 'B000ZBUY78-es Seiko Reloj Analógico Automático para Mujer con Correa de Acero Inoxidable – SYMC07K1'
 actualPrice: 110.89 EUR
 currency: EUR
 price: 110.89

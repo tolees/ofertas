@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417kgSMJJFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00904MSHA-es'
+slug: 'B00904MSHA-es Sesderma Acglicolic Classic Leche Corporal Hidratante 200 ml'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Rvpu2112L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQMM737-es'
+slug: 'B07FQMM737-es Clarks Landry Edge  Mocasines para Hombre  Negro  Black Combination Suede-   41 EU'
 actualPrice: 38.57 EUR
 currency: EUR
 price: 38.57

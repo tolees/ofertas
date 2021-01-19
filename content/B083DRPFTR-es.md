@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-inSD+3yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DRPFTR-es'
+slug: 'B083DRPFTR-es estante Gourmet Kitchen Rail con ganchos Montado en la pared Soporte de utensilios para colgar en acero inoxidable Rack con plata para baño Dormitorio Sala de estar 50 cm'
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

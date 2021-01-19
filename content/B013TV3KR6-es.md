@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QHMNCzMFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013TV3KR6-es'
+slug: 'B013TV3KR6-es Dainese-MANIS D1 49  Negro  Talla M'
 actualPrice: 113.66 EUR
 currency: EUR
 price: 113.66

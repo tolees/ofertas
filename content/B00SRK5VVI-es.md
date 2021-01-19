@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xV3C1PE+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SRK5VVI-es'
+slug: 'B00SRK5VVI-es Rimmel London Scandaleyes XXtreme Máscara de Pestañas Tono Negro Extremo - 26 gr'
 actualPrice: 3.71 EUR
 currency: EUR
 price: 3.71

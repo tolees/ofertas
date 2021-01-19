@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/517dKOcAeiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K43QZP1-es'
+slug: 'B07K43QZP1-es JUMTOP 12V DC Bomba de inflado de neumáticos digital  Bomba de compresor de Aire portátil eléctrica de 150 PSI con indicador para automóviles  Camiones  Bicicletas o básquetbol  colchones de Aire'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

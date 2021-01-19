@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yEVxLsFEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPVD9ZK-es'
+slug: 'B07TPVD9ZK-es Superdry Core Cargo Shorts Pantalones Cortos  Beige  Dress Beige L3l   48  Talla del Fabricante: 32  para Hombre'
 actualPrice: 31.76 EUR
 currency: EUR
 price: 31.76

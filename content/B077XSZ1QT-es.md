@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XieOVojrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XSZ1QT-es'
+slug: 'B077XSZ1QT-es Under Armour Coldgear Run Tight Leggings  Mujer  Negro  Black/Black/Reflective 001   M'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41en9%2BElOXL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B000XJ28IA-es'
+slug: 'B000XJ28IA-es Bosch Professional GAL 1230 CV Cargador Baterías  12 V  Negro'
 actualPrice: 35.8 EUR
 currency: EUR
 price: 35.8

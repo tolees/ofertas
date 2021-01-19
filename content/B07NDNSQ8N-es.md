@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ts9zo1UkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNSQ8N-es'
+slug: 'B07NDNSQ8N-es G-STAR RAW Halite Polo  Gris  Asfalt 995   Small para Hombre'
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

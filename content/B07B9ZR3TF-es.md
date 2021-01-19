@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GEuEVJA+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9ZR3TF-es'
+slug: 'B07B9ZR3TF-es Hugo BOSS Reloj Multiesfera para Mujer de Cuarzo con Correa en Cuero 1502419'
 actualPrice: 160.36 EUR
 currency: EUR
 price: 160.36

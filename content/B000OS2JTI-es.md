@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413jTgMv82L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OS2JTI-es'
+slug: 'B000OS2JTI-es Kärcher Presostato electrónico  6.997-357.0 '
 actualPrice: 77.44 EUR
 currency: EUR
 price: 77.44

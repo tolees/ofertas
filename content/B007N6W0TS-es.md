@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-BnButAkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007N6W0TS-es'
+slug: 'B007N6W0TS-es BIODERMA Atoderm Crema Duo 2X500 ml'
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05

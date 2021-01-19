@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oFvNzdMIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088JTFWRT-es'
+slug: 'B088JTFWRT-es First - Lote de 50 máscaras de protección para la boca  3 capas  vellón '
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

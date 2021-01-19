@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OUKPLA90L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072FVK6KP-es'
+slug: 'B072FVK6KP-es New Balance 574v2 Core Velcro  Zapatillas Unisex Niños  Azul Navy Grey GV  23 EU'
 actualPrice: 33 EUR
 currency: EUR
 price: 33

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DSKUHRkiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D1LSCH2-es'
+slug: 'B01D1LSCH2-es Lékué Cubitera de Caucho  Natural  Azul  14 cavidades  Rectangular'
 actualPrice: 3.36 EUR
 currency: EUR
 price: 3.36

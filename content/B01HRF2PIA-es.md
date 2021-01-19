@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ep5LL68iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HRF2PIA-es'
+slug: 'B01HRF2PIA-es Kelme - Zapatillas Precision'
 actualPrice: 18.94 EUR
 currency: EUR
 price: 18.94

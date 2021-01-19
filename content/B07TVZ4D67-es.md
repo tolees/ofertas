@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lR0k-cshL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVZ4D67-es'
+slug: 'B07TVZ4D67-es Fenteer Papel Garland Colgando Banner Boda Cumpleaños Prom Luau Party Decor Multicolor 4 Formas - D'
 actualPrice: 3.82 EUR
 currency: EUR
 price: 3.82

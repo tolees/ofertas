@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tnrquXiLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083G56RGN-es'
+slug: 'B083G56RGN-es Tablet Funda para Samsung Galaxy Note 10.1 2014 SM-P600 P601 T520 T525 Funda Soporte Cuero Case Cover T-56'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XmP9DgIIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B003WUGR6G-es'
+slug: 'B003WUGR6G-es Munchkin - Cubierto'
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

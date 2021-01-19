@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4145KHaMKrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFJTCFC-es'
+slug: 'B07HFJTCFC-es ATHENA Basic Color Bañador  Multicolor  Noir Gris Noir 1920   Small  Talla del Fabricante: 2   Pack de 3  para Hombre'
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

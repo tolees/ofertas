@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51xKfDoK-OL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XQPYTM-es'
+slug: 'B082XQPYTM-es Zapatillas de Baloncesto para Hombres Damas Deportes al Aire Libre Correr Fitness Transpirable Resistente al Desgaste Antideslizante 35-45'
 actualPrice: 29.26 EUR
 currency: EUR
 price: 29.26

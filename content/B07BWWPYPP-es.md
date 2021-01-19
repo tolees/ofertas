@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413Nzwx8GgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BWWPYPP-es'
+slug: 'B07BWWPYPP-es CMP Ahto  Náuticos Unisex Niños  Gris  Antracite U423   25 EU'
 actualPrice: 9.68 EUR
 currency: EUR
 price: 9.68

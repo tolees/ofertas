@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PJKR2nq0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAD57V6-es'
+slug: 'B00XAD57V6-es Durex Play Lubricante Base Agua Sabor Cereza - 50 ml'
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

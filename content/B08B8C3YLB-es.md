@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tOTnZz3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B8C3YLB-es'
+slug: 'B08B8C3YLB-es Head Pala de Padel Alpha Speed 2020'
 actualPrice: 114.95 EUR
 currency: EUR
 price: 114.95

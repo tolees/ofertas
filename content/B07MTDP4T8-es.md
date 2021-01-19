@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XgZlb-Q1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTDP4T8-es'
+slug: 'B07MTDP4T8-es TWBB Pantalones de chándal con cordón Casual para Hombre Pantalones'
 actualPrice: 1.78 EUR
 currency: EUR
 price: 1.78

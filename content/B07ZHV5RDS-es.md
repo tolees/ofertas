@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51o2V-qA+xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHV5RDS-es'
+slug: 'B07ZHV5RDS-es F1 2019'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

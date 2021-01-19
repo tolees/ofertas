@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ETDW6Sh2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZBXRPB-es'
+slug: 'B079ZBXRPB-es BRA Efficient Iron Parrilla Redonda con Rayas  Fabricada En Hierro Fu'
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D+TF106ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H94VC2T-es'
+slug: 'B07H94VC2T-es YAZILIND Encaje Flor Halloween Masquerade Disfraces Fiesta máscara Mardi Gras Noche Prom Fiesta máscaras  Amarillo 1 '
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

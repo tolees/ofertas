@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FrPY9a-oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071X9DM3T-es'
+slug: 'B071X9DM3T-es Palette Intense Cream Coloration Intensive Coloración del Cabello 5.5 Castaño Luminoso - Pack de 3'
 actualPrice: 7.17 EUR
 currency: EUR
 price: 7.17

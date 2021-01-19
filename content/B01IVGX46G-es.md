@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3165uJoyoUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IVGX46G-es'
+slug: 'B01IVGX46G-es Calvin Klein Reloj Analogico para Hombre de Cuarzo con Correa en Tela K7B211WL'
 actualPrice: 163.23 EUR
 currency: EUR
 price: 163.23

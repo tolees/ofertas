@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OosoZi2tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BMKLVJ6-es'
+slug: 'B00BMKLVJ6-es LEGO Mindstorms - EV3  Set de Robots de Juguete 5 en 1 Programables con Servo Motor y Bluetooth  Kit para Aprender a Programar para Niñas y Niños  31313 '
 actualPrice: 295.0 EUR
 currency: EUR
 price: 295.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z4zreMV6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6GWB6D-es'
+slug: 'B07S6GWB6D-es Amerigo Whisky Stones Gift Set - ¿Aguar tu Whisky? Nunca más! Juego de 9 Piedras Whisky - Regalos Hombre - Cubitos de Hielo Reutilizables - Whiskey Rocks Marble - Regalos Dia del Padre - Gratis EBOOK'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

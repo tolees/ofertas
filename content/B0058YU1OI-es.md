@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411ncfb9xcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0058YU1OI-es'
+slug: 'B0058YU1OI-es Columbia Bora Bora Booney  Sombrero unisex  Fibra sintética  Color: Verde  Sage   Talla Universal  Ajustable   Art. 1447091'
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

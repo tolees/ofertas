@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313eHolL18L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8LRJ8P-es'
+slug: 'B07K8LRJ8P-es FeliSun Impermeable Memorias USB 3.0 Metal USB Stick USB Flash Drive-16GB/32GB/64GB/ 128GB-Velocidad de Lectura de hasta 100 MB/s  16GB  Plata '
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

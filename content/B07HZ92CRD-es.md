@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eTzAMWw0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HZ92CRD-es'
+slug: 'B07HZ92CRD-es Amazon Essentials 4-Pack Seamless Bonded Stretch Thong Panty Novelty Underwear  Color Piel  Nude   US XL  EU 2XL '
 actualPrice: 3.72 EUR
 currency: EUR
 price: 3.72

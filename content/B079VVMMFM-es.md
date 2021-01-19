@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AArF2EyCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VVMMFM-es'
+slug: 'B079VVMMFM-es Desigual - Bols_brilli Cuenca  Shoppers y bolsos de hombro Mujer  Rojo  Carmin   16.5x30x37.5 cm  B x H T '
 actualPrice: 39.39 EUR
 currency: EUR
 price: 39.39

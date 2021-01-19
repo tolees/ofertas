@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317-m-l4qlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV66PSS-es'
+slug: 'B07MV66PSS-es Occitop Mujer Unisex    No metálico'
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

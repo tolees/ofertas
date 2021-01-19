@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IXW85ZucL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0754LZJMD-es'
+slug: 'B0754LZJMD-es Easton Marlowe 6 PR Calcetines de Vestir Homber - 6pk #38 - estampados sutiles - 39-42 EU shoe size'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

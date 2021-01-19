@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nPEfl6TqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFB34MP-es'
+slug: 'B07QFB34MP-es Pablosky 334320  Merceditas para Niñas  Azul Azul Azul  24 EU'
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

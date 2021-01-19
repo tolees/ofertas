@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sTpJSMnuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y1WR16D-es'
+slug: 'B07Y1WR16D-es ROCKPALS Calefactor Cerámico de Torre PTC con Mando a Distancia  1500W Calentador Ventilador de Espacio Portátil Eléctrico para Cuarto Baño Oficina  Oscilación Automática  Protección contra Volcado'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

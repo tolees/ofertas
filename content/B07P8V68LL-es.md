@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41u9MMETlIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8V68LL-es'
+slug: 'B07P8V68LL-es Toy Story-GGH40 - Figura de acción Infantil'
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

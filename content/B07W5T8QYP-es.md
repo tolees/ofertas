@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p1qcAafpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5T8QYP-es'
+slug: 'B07W5T8QYP-es GLOBE Sabre  Zapatillas de Skateboard para Hombre  Multicolor  Grey/Black Split 14316   37 EU'
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

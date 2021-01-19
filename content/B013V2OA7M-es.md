@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yQmFqq9WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013V2OA7M-es'
+slug: 'B013V2OA7M-es Dark Souls III - Edición Apocalypse'
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OIe0K38+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IPSE1R6-es'
+slug: 'B01IPSE1R6-es The Walking Dead - Temporada 6 [Blu-ray]'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

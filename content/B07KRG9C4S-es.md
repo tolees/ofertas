@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311qk7DHKTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRG9C4S-es'
+slug: 'B07KRG9C4S-es adidas W E 3s Tight - Mallas  Mujer  Black/White  S'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

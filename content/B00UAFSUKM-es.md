@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/2162qESGqQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UAFSUKM-es'
+slug: 'B00UAFSUKM-es Philips Sonicare AirFloss Ultra HX8332/01 - Irrigador Dental  inalambrico  Recargable  Color Blanco'
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AphFAe5TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006I31QCY-es'
+slug: 'B006I31QCY-es Pez Payaso Hinchable Bestway'
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KqjVAqEpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YD9ZSNJ-es'
+slug: 'B07YD9ZSNJ-es MOSOTECH Microfono Solapa  Omnidireccional Lavalier Microfono de Condensador con 2m  79"  Cable de Extensión  Micro para Movil  Grabación Entrevista/Videoconferencia/Podcast/Dicción de Voz/Phone'
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OCGu0tUtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTIUTG7-es'
+slug: 'B01MTIUTG7-es Speedo Girls Boom Allover  Bañador para niña  Multicolor  Electric Pink/Black   140 cm  Talla del Fabricante: 28 '
 actualPrice: 19.33 EUR
 currency: EUR
 price: 19.33

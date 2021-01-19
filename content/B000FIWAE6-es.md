@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317dAG3IRiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000FIWAE6-es'
+slug: 'B000FIWAE6-es Shimano Fx Spinning 70Mb2 210M'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

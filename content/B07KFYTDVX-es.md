@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-qfeH28UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFYTDVX-es'
+slug: 'B07KFYTDVX-es PUMA Cell Venom Hypertech Wn s  Zapatillas para Mujer  Black  36 EU'
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

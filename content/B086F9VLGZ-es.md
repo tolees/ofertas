@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xR18TKOQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086F9VLGZ-es'
+slug: 'B086F9VLGZ-es Marvel LOKI-Carpeta Anillas'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

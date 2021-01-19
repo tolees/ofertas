@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zC5QuHL4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGDBC1S-es'
+slug: 'B07HGDBC1S-es New Balance Numeric Nm255 Black 9'
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

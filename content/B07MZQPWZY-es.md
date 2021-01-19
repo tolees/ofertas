@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CBW7ejrhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQPWZY-es'
+slug: 'B07MZQPWZY-es Pepe Jeans London Porter Boot  Botas Desert para Hombre  Tan 869  42 EU'
 actualPrice: 38.09 EUR
 currency: EUR
 price: 38.09

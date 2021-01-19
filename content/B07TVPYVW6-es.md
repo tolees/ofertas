@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417hHVtisDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVPYVW6-es'
+slug: 'B07TVPYVW6-es KiplingBaroeMujerMonederosRojo  Metallic Rust  20.5x10x7.5 Centimeters  B x H x T '
 actualPrice: 13.32 EUR
 currency: EUR
 price: 13.32

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hyh1X-iiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DM8JVFQ-es'
+slug: 'B01DM8JVFQ-es Close Parent Bambú Pañales De Tela  Tamaño Único  Pack de 10'
 actualPrice: 136.8 EUR
 currency: EUR
 price: 136.8

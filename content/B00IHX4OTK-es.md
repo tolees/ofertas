@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YD7qoS1bL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IHX4OTK-es'
+slug: 'B00IHX4OTK-es Wild Stylers by Tecni.art - Depolish - Pasta desestructurante  efecto mate - 100 ml'
 actualPrice: 7.08 EUR
 currency: EUR
 price: 7.08

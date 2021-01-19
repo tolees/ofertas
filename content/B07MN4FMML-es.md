@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xazHsM64L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN4FMML-es'
+slug: 'B07MN4FMML-es Wrangler Larston  Pantalones  Azul  Navy   30W / 34L para Hombre'
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

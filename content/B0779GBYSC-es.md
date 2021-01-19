@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41W4TsaEX5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779GBYSC-es'
+slug: 'B0779GBYSC-es adidas Ask SPRT Lst M Long Sleeved T-Shirt  Hombre  Dark Blue  2XL'
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

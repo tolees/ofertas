@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-PWdWYDsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K74K6TX-es'
+slug: 'B07K74K6TX-es Asics Gel-Fujitrabuco 7 M G-TX 1011a209  Zapatillas de Running para Hombre  Rojo  Red 1011a209/600   46.5 EU'
 actualPrice: 98.91 EUR
 currency: EUR
 price: 98.91

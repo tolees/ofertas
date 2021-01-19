@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kaczf1ihL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004OJ7ILC-es'
+slug: 'B004OJ7ILC-es Holzstar 5900009 Lijadora de disco'
 actualPrice: 47.6 EUR
 currency: EUR
 price: 47.6

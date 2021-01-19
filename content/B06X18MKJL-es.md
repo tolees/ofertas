@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kkh6zUugL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X18MKJL-es'
+slug: 'B06X18MKJL-es Ron Millonario 10º aniversario'
 actualPrice: 23.05 EUR
 currency: EUR
 price: 23.05

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51be2PduRbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C1WPYVJ-es'
+slug: 'B07C1WPYVJ-es Escomdp i Flash Drives USB 3.0 Pendrive 3 en 1 OTG Memory Stick Expansión de Almacenamiento Externo para Andriod  Todos los teléfonos celulares y Computadoras Inteligentes  64 GB  Oro '
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

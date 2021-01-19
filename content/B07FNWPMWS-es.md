@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y0uWnBXeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNWPMWS-es'
+slug: 'B07FNWPMWS-es EXZACT EX17019S3Juego De 3 Maletas Premium De Viaje – 28”  24”  20” Color Plateado  Incluye Una Maleta Grande  Una Mediana Y Un Equipaje De Mano/Bolsa De Mano. Maleta Rígida / 4 Ruedas 360° Spinner'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418VNTUypbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FK7P9ZM-es'
+slug: 'B07FK7P9ZM-es hummel Nile Canvas Low  Zapatillas Unisex Adulto  Azul  Vintage Indigo 8588   36 EU'
 actualPrice: 25.83 EUR
 currency: EUR
 price: 25.83

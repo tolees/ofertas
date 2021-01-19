@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sG2FxDtIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YVKQ7K3-es'
+slug: 'B07YVKQ7K3-es Pack 1-2: Star Trek Discovery  BD  [Blu-ray]'
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

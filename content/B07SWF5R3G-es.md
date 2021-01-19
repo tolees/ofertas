@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jd-jYOaaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWF5R3G-es'
+slug: 'B07SWF5R3G-es Philips Avent SCF376/11 - Pack de 2 chupetes Ultra Air Nocturno que brilla en la oscuridad  tetina suave para 0-6 m  apta para la piel sensible  con estuche de esterilización  color azul claro'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

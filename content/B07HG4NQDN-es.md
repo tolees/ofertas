@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qtViqqnsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG4NQDN-es'
+slug: 'B07HG4NQDN-es New Balance Calzado Deportivo NM213 Tim para Hombre Beige 43 EU'
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

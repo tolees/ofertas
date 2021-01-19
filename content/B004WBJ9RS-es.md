@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QnNsWdd0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004WBJ9RS-es'
+slug: 'B004WBJ9RS-es Compex Electrodos Wire Wire 5X10 Cable Dual Azul'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

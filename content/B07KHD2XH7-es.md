@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F4dSU8RSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KHD2XH7-es'
+slug: 'B07KHD2XH7-es Under Armour Warp Knit High Impact Bra Sujetador Deportivo  Mujer  Rosa  Impulse Pink/Ash Taupe/Reflective 671   34D'
 actualPrice: 30.8 EUR
 currency: EUR
 price: 30.8

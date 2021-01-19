@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pDXLF-kcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005ZAJS6C-es'
+slug: 'B005ZAJS6C-es Feplast Jaula para hámsteres FAVOLA  para pequeños roedores  Plástico Robusto y Metal  Dos Pisos  Accesorios incluidos 60 x 36 5 x h 30 cm Negro'
 actualPrice: 56.1 EUR
 currency: EUR
 price: 56.1

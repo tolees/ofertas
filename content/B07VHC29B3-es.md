@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XBctLlDtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHC29B3-es'
+slug: 'B07VHC29B3-es JACK & JONES Jcostanford Crew Neck Noos suéter  Verde  Rosin Fit: Knit Fit   Medium para Hombre'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MPMr8VSJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SY2XZU8-es'
+slug: 'B00SY2XZU8-es Lotus Reloj Analógico para Niños de Cuarzo con Correa en Tela 18171/3'
 actualPrice: 47.81 EUR
 currency: EUR
 price: 47.81

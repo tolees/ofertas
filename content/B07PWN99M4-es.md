@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21n36FhKacL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWN99M4-es'
+slug: 'B07PWN99M4-es Precision Elite 2.0'
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

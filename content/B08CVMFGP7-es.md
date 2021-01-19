@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iDjsrk6kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVMFGP7-es'
+slug: 'B08CVMFGP7-es Reloj Deportivo Inteligente Edición para jóvenes Posicionamiento GPS 1S 30 días Duración de la batería Notificación de información de monitoreo del sueño-Negro'
 actualPrice: 74.62 EUR
 currency: EUR
 price: 74.62

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ci5gk%2B4BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LAO95DC-es'
+slug: 'B01LAO95DC-es Pikolinos Sandalia Mykonos para Mujer'
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

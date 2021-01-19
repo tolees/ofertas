@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jgev3kxoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYX946C-es'
+slug: 'B07PYX946C-es Cepillo para llantas El cepillo de ruedas de limpia las llantas y los radios de manera óptima  además de quitar el polvo del freno'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

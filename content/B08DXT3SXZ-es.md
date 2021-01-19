@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oEulkpxvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DXT3SXZ-es'
+slug: 'B08DXT3SXZ-es Auriculares inalámbricos Bluetooth  Auriculares inalámbricos 3D estéreo HD  emparejamiento automático para Llamadas binaurales  con Estuche de Carga portátil para Dispositivos Bluetooth - Blanco'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

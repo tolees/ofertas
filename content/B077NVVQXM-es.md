@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zveg+nyWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NVVQXM-es'
+slug: 'B077NVVQXM-es Vans Ward Hi  Zapatillas Altas para Mujer Negro   Suede/Canvas  Black/White Iju  36.5 EU'
 actualPrice: 55.93 EUR
 currency: EUR
 price: 55.93

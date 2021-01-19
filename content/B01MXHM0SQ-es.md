@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gW4mZ2hWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXHM0SQ-es'
+slug: 'B01MXHM0SQ-es Oral-B Genius 8900 – Cepillo de dientes eléctrico con 2ª mango'
 actualPrice: 143.82 EUR
 currency: EUR
 price: 143.82

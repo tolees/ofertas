@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oUfLasE1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011IO7OEQ-es'
+slug: 'B011IO7OEQ-es Tommy Hilfiger Hombre Reloj de Pulsera analógico Cuarzo Piel 1791164'
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

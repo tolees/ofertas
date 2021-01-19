@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51J8NGZCSwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0828NN3NZ-es'
+slug: 'B0828NN3NZ-es Pincel de Pintura Set de Pinceles Cepillos de Pintura Profesional Art Multi-Forma Nylon Pincel de Pintura para Acrílico Acuarela Óleo Pincel de Crafts Pintura Artesanal de Roca y Rostro  12 Piezas '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

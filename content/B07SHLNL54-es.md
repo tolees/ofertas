@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YP20kyVfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHLNL54-es'
+slug: 'B07SHLNL54-es CY Figuras de Super Mario Toys Mario y Luigi Figuras Yoshi y Mario Bros  Conjunto de 3 Figuras Mario en PVC para niños y Adultos 2 Porte-clés'
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

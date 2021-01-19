@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3190x79fj-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BN7XJ5M-es'
+slug: 'B00BN7XJ5M-es L Oréal Paris Barra de Labios Color Riche Accords Naturels 231 Sépia'
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

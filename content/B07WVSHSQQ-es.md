@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nLYJTz4TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVSHSQQ-es'
+slug: 'B07WVSHSQQ-es Deporte Rodilleras  Lepfun PR555/PR900  1 Unid  Rodillera de Neopreno con Estabilizadores Laterales y Almohadillas de Rótula en Gel One Size Fits All  PR555 Black '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

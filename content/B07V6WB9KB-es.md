@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HzA66P+eL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6WB9KB-es'
+slug: 'B07V6WB9KB-es J.Endéar Pulsera Forma de Inicial A  Plata de Ley 925 Circonita Cúbica Pulseras Iniciales  Regalo de Amistad 24cm Trenzado Hecho a Mano Ajustable'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QemcAdHPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HGSZVBN-es'
+slug: 'B08HGSZVBN-es KUTOOK Pantalones Softshell Mujer Invierno Pantalones Deporte Impermeables para Montaña Trekking Senderismo Escalada con Forro Polar Negro S '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

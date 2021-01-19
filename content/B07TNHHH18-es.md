@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ttvgv6FBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNHHH18-es'
+slug: 'B07TNHHH18-es Twinz up - Sacacorchos Eléctrico Inalámbrico - Estuche Premium con Cortador de Cápsulas y Base de Recarga - Profesional Automatico Abrelatas de Vino - El Regalo Ideal - Abridor Botellas - Negro'
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

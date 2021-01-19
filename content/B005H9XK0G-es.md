@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21nz2JyenXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005H9XK0G-es'
+slug: 'B005H9XK0G-es Westinghouse Ceiling Fans Industrial Ventilador de Techo  62 W  Acabado en plata con aspas plateadas'
 actualPrice: 74.47 EUR
 currency: EUR
 price: 74.47

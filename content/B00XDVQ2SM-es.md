@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QZcjg1N+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XDVQ2SM-es'
+slug: 'B00XDVQ2SM-es NIVEA SUN Protege & Refresca Spray Bruma Solar FP50  1 x 200 ml   protector solar en spray transparente  bruma refrescante y resistente al agua'
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

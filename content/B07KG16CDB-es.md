@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yiWaaKDqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG16CDB-es'
+slug: 'B07KG16CDB-es PUMA LQDCELL Tension Rave  Zapatillas Deportivas para Interior para Hombre  Castlerock Black  44 EU'
 actualPrice: 30.35 EUR
 currency: EUR
 price: 30.35

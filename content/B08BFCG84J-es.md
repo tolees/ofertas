@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OUYIzMG1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BFCG84J-es'
+slug: 'B08BFCG84J-es Elyco Botones analógico  Amortiguador Premium Aim Assist Motion Control Accesorios  Precision Ring Controlador Juego thumbstick Joystick para Mando thumbstick PS4/Pro/Xbox/Switch'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

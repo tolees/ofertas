@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412Le0oTjSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFY5PYM-es'
+slug: 'B07KFY5PYM-es PUMA LQDCELL Optic Sheer  Zapatillas de Running para Hombre  Gray Violet Black  44.5 EU'
 actualPrice: 58.78 EUR
 currency: EUR
 price: 58.78

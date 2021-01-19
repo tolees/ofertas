@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XQxUY86oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X6FYVSW-es'
+slug: 'B06X6FYVSW-es Wire Strippers  Drillpro Alicates Pelacables Autoajustable Automática Wire Crimpers Profesional Multifuncional Alambre & Cable Crimping Stripping Cutting Pliers Strippers Cutters Rango 0.08-4mm2 Negro'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

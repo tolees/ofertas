@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rnKIba7wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZRMSSJ-es'
+slug: 'B07CZRMSSJ-es Under Armour Armour Fly Fast Crop Leggings Capri  Mujer  Gris  Jet Gray/Purple Prime/Reflective 010   L'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PwReYaykL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHQ8LBW-es'
+slug: 'B07RHQ8LBW-es Columbia IVO Trail Breeze  Zapatillas Deportivas para Hombre  Azul  Carbon  Rust Red 469   44.5 EU'
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410K9ImNYmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQTRP63-es'
+slug: 'B07PQTRP63-es New Balance 574  Zapatillas para Hombre  Negro  Black Black   36 EU'
 actualPrice: 33.32 EUR
 currency: EUR
 price: 33.32

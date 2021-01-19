@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41exIVNzUSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GHMK95-es'
+slug: 'B075GHMK95-es fanola Violet bleac de conmutación Powder – blondier polvo púrpura deshumidificación  500 g'
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

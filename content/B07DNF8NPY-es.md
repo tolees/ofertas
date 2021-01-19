@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310u1i7U3BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNF8NPY-es'
+slug: 'B07DNF8NPY-es DANISH ENDURANCE Calcetines de Algodón  para Hombre y Mujer  Calcetines Clásicos de Vestir  Cómodos  Transpirables  para el Uso Diario  Negro  Gris  Rojo  Pack de 3  Negro  EU 39-42 '
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

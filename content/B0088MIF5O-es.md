@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51grRn6S5GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0088MIF5O-es'
+slug: 'B0088MIF5O-es Auna CS-Red-4 - Pack de Altavoces para Coche  400 W'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

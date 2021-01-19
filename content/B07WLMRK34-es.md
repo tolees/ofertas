@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dXjdBauVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLMRK34-es'
+slug: 'B07WLMRK34-es ISOPHO Colchoneta Inflable  colchón de Camping Ultraligero con Almohada  colchoneta de Aire portátil de 191 * 56 * 6 cm  colchonetas Impermeables y a Prueba de Humedad  Almohadilla de Dormir cosible'
 actualPrice: 34.07 EUR
 currency: EUR
 price: 34.07

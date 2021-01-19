@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wdU+nzQNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHQ7UTG-es'
+slug: 'B00KHQ7UTG-es Rust-Oleum RO0070002G1 - Pintura De Chalky Finalizar Muebles - Blanco Antiguo - 750Ml'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

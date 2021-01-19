@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510pzL-YBmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y4TN64F-es'
+slug: 'B06Y4TN64F-es Doodle agua /Tablero de Escritura de Agua Mat  xhforever 4 Color Mat dibujo del agua; Magic Pen Doodle de juguete de regalo 29X19cm'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

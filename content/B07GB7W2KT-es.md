@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GJO1ZOmXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GB7W2KT-es'
+slug: 'B07GB7W2KT-es Pulsar Reloj analogico para Mujer de Energía Solar con Correa en Piel PY5044X1'
 actualPrice: 52.13 EUR
 currency: EUR
 price: 52.13

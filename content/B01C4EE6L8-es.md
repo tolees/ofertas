@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413nlGCnSBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C4EE6L8-es'
+slug: 'B01C4EE6L8-es ASUS ROG Sica - Ratón óptico ambidiestro de 5000 DPI  color blanco'
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

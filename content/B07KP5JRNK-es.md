@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b3ya2IYTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP5JRNK-es'
+slug: 'B07KP5JRNK-es Espejo de Maquillaje de Doble Cara con Luces LED  Espejo Maquillaje de Aumento 1x/7x con Rotación de 360°  Pantalla Táctil Ajustable de Brillo  Recargable  Espejo iluminador Portátil para Viajes'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

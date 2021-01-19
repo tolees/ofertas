@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JuWksnXJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VX5XJDB-es'
+slug: 'B07VX5XJDB-es Bonio Silla de coche grupo 1/2/3  9-36 kg  ISOFIX Reclinable ECE R44/04 Azul'
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

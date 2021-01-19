@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IoPCUlWqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y1NKDQN-es'
+slug: 'B06Y1NKDQN-es Puma Sport Junior 3P  Calcetines Unisex para Niños  pink lady 035 Pack de 3'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

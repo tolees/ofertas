@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OESRPvblL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NQ0KW5E-es'
+slug: 'B00NQ0KW5E-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Titanio CA4010-58E'
 actualPrice: 208.6 EUR
 currency: EUR
 price: 208.6

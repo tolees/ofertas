@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nsIYKNsDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHH6WWF-es'
+slug: 'B07RHH6WWF-es El clip del oído de las Estrellas  Ninguna Perforación Geométrica Cuelga la mini Joyería Libre de la Alergia para las Mujeres'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

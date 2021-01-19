@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511T4Txfi2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DGTT7M-es'
+slug: 'B081DGTT7M-es FNBK Funda para iPhone 11 Pro Max Case  Funda Móvil PU en iPhone 11 Pro Max  Magnético Carcasa con Soporte y Ranuras para Tarjetas Marrón'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

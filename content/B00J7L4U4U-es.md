@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r9qG1qpwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J7L4U4U-es'
+slug: 'B00J7L4U4U-es Buff Solid Calentador Polar  Unisex Adulto  Black  Talla única'
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

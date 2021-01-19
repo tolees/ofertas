@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TjKQZoTPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNSR61R-es'
+slug: 'B07CNSR61R-es Minar by Homemania Homemania - Escritorio Snap  Color Blanco'
 actualPrice: 104.84 EUR
 currency: EUR
 price: 104.84

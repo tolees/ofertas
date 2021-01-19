@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qKkR-HhHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XBBMCYD-es'
+slug: 'B06XBBMCYD-es NEW C Funda para iPhone 7  iPhone 8  Anti- Choques y Anti- Arañazos  Silicona TPU  HD Clara'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

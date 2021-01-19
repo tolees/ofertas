@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lz39jZn5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAZV2Q7-es'
+slug: 'B01NAZV2Q7-es Nixon Reloj Analogico para Unisex de Cuarzo con Correa en Acero Inoxidable A1072-2730-00'
 actualPrice: 102.0 EUR
 currency: EUR
 price: 102.0

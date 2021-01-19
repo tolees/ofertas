@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LJWZ9mCgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3V5H8H-es'
+slug: 'B07S3V5H8H-es New Balance MA33  Zapatillas Deportivas para Interior para Hombre  Negro  Black Cm1   42 EU'
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

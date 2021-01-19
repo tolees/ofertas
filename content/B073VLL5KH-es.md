@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T+mnKn1DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073VLL5KH-es'
+slug: 'B073VLL5KH-es Garnier Fructis Acondicionador Adios Daños - 250 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

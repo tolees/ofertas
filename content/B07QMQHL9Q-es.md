@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VnsPBw3fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QMQHL9Q-es'
+slug: 'B07QMQHL9Q-es HoneyHolly Botella de Agua Deportes 350ml/500ml/800ml/1000ml/1500ml Sin Bpa & Apertura con un Solo botón Reutilizable Filtro Botella Gimnasio Tritan Plástico para Niños  Sport  Gimnasio  Trekking'
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

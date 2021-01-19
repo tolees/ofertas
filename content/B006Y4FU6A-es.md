@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310qWV5o+1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006Y4FU6A-es'
+slug: 'B006Y4FU6A-es Gigaset SL910 - Teléfono Inalámbrico con Pantalla táctil  Manos Libres  Bluetooth'
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

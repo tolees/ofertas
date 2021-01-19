@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GqsvgiwML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y7VJHFS-es'
+slug: 'B07Y7VJHFS-es Ballery Almohadillas de Lactancia  12 Piezas Discos de Lactancia Lavables de Bambú  con Bolsa para Lavandería y Bolsa de Viaje'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

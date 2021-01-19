@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PufrZzQML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WW8BVOM-es'
+slug: 'B00WW8BVOM-es Braun Series 3 ProSkin 3030 S Afeitadora Eléctrica Hombre  para la Barba  con Recortadora de Precisión Extraíble  Recargable  Resistente al Agua  Negro/Rojo'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QfYQE+JFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SH1VM58-es'
+slug: 'B07SH1VM58-es Levi s Woodward L  Zapatillas para Hombre  Blanco  R White 51   46 EU'
 actualPrice: 30.77 EUR
 currency: EUR
 price: 30.77

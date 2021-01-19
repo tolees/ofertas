@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yB0Mv4S8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ3JZL5-es'
+slug: 'B07TZ3JZL5-es Iams refrigerios para gatos liofilizados  sin granos  paquete de 4X25 g'
 actualPrice: 7.77 EUR
 currency: EUR
 price: 7.77

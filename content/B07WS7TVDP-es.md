@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HPnAMqLoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WS7TVDP-es'
+slug: 'B07WS7TVDP-es Note D Espresso - Cápsulas de tisana de ciruela y canela exclusivamente compatibles con cafeteras Nespresso*  3 g  caja de 40 unidades '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

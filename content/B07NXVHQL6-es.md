@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4148BcRxmjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXVHQL6-es'
+slug: 'B07NXVHQL6-es Helly Hansen Active Duffel Bag 33l Bolsa De Deporte  Unisex Adulto  Black'
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

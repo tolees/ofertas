@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319d239WdHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BI7CUI4-es'
+slug: 'B00BI7CUI4-es Julbo Vermont Classic - J010-20125'
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

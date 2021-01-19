@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v-Xty1sWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TRMHW7-es'
+slug: 'B083TRMHW7-es Kasfam Máscara Facial  máscara de carbón Activado Anti PM2.5 Máscaras de Filtro con válvula de respiración 3.0 para Ciclismo MTB'
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

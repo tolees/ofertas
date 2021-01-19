@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51T714GgHML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085T9CMJH-es'
+slug: 'B085T9CMJH-es J TOHLO 2pcs Aloe Vera Gel -Puro Gel Calmante 100% Natural Para la Cara Crema idratante naturale calmante e nutriente Cabello Cuidado de las Cuerpo Para Pieles Secas y Quemadas Por el Sol-500ml'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

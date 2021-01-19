@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nzWPdEOWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJ2LD14-es'
+slug: 'B07KJ2LD14-es UniqueMe Funda para Huawei Mate 20 Pro  Ultra [Slim Thin] TPU Funda Protectora TPU de Silicona Suave para Mate 20 Pro - Negro'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

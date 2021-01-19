@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gPcDHng7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJDL27X-es'
+slug: 'B07CJDL27X-es ORICO 60W 13 Puertos Aluminio Hub USB 3.0 de alimentación Externa - 2 Puertos para Cargar con Pantalla LED Luz- Computadora de Escritorio de Alta Velocidad MacBook portátil - Plateado'
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

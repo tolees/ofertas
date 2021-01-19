@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ygda4QJjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076NHN89G-es'
+slug: 'B076NHN89G-es Adidas Terrex Swift R2 GTX  Zapatillas de Running para Asfalto para Hombre  Negro  Core Black/Core Black/Core Black 0   43 1/3 EU'
 actualPrice: 95.45 EUR
 currency: EUR
 price: 95.45

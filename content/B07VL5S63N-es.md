@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R5nC2E1EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VL5S63N-es'
+slug: 'B07VL5S63N-es YAMAMAY® Traje de baño Push up - Mirage'
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

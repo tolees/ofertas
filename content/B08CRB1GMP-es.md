@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410A7IpY6zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRB1GMP-es'
+slug: 'B08CRB1GMP-es Yoga portátil Pilates Mat Bolsa de Nylon Carrier Mesh Center Correa Ajustable Llevar Almacenamiento Tipo de Rodadura Bolsas comprimidas al vacío - Negro'
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

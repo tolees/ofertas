@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SXRTtJgJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYEMFWH-es'
+slug: 'B01LYEMFWH-es Victor Toallitas Perfumadas - 10 Unidades'
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

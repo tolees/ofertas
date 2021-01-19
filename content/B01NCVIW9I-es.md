@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FnX5pQwsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCVIW9I-es'
+slug: 'B01NCVIW9I-es Errea Maillot Junior Heat'
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

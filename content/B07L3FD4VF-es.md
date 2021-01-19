@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410-jwogSyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3FD4VF-es'
+slug: 'B07L3FD4VF-es Tommy Hilfiger TH Patch Espadrille  Alpargata para Mujer  Azul  Midnight 403   39 EU'
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

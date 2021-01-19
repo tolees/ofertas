@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31-IOyFCPaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNQ4LK2-es'
+slug: 'B07JNQ4LK2-es Nike M NK ZNL AROSHLD JKT Jacket  Hombre  Reflect Black  L'
 actualPrice: 56.4 EUR
 currency: EUR
 price: 56.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oXhxB07IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077QQ86YH-es'
+slug: 'B077QQ86YH-es New Balance 500 Core  Zapatillas para Hombre  Negro Black Silver Black Silver  46.5 EU'
 actualPrice: 49.57 EUR
 currency: EUR
 price: 49.57

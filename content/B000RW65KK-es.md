@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VrW5vSwmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RW65KK-es'
+slug: 'B000RW65KK-es Dyson - Kit de accesorios para aspiradora de mano'
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZzO-sI0vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3DKBCH-es'
+slug: 'B07X3DKBCH-es Vbiger Mochilas Escolares Impermeable para Estudiante  Rosa1 '
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p-Np6xTNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5IAOXE-es'
+slug: 'B01N5IAOXE-es ICZI Hub USB 3.0 7 Puertos USB 3.0 Alimentacion Externa Rapida Velocidad de 5Gbps + 1* Adaptador de Corriente  Concentrador USB 3.0 para Windows  Mac OS  Linux  Negro'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

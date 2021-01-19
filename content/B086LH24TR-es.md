@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L3xa-JUTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086LH24TR-es'
+slug: 'B086LH24TR-es Bandas compatibles con Inspire/Inspire HR/Ace2  Kitway-my Correa de repuesto de silicona sin rastreador para Fitbit Inspire/Inspire HR Fitness  color gris'
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

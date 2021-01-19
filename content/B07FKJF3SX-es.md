@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zvM9ez8QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKJF3SX-es'
+slug: 'B07FKJF3SX-es Darksiders III - Edición Estándar'
 actualPrice: 10.61 EUR
 currency: EUR
 price: 10.61

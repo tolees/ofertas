@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CiB0nKcqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SC7ZGB-es'
+slug: 'B077SC7ZGB-es CITIZEN Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable AN3600-59E'
 actualPrice: 105.41 EUR
 currency: EUR
 price: 105.41

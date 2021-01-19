@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XZ0L-DPfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFJDWJK-es'
+slug: 'B07LFJDWJK-es New Balance Suede 996  Zapatillas para Mujer  Rosa  Pink Yd   40 EU'
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

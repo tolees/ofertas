@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FWtNozPuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTTXX7L-es'
+slug: 'B07KTTXX7L-es adidas Adilette Shower  Slide Sandal Mens  Core Black/Footwear White/Core Black  39 1/3 EU'
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

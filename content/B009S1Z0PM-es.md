@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+tlBO7VLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009S1Z0PM-es'
+slug: 'B009S1Z0PM-es Vans Atwood Canvas  Zapatillas para Hombre  Azul  Navy/White 4k1   49 EU'
 actualPrice: 47.0 EUR
 currency: EUR
 price: 47.0

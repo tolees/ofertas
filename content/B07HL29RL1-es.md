@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WryLXFMEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HL29RL1-es'
+slug: 'B07HL29RL1-es Amazon Essentials - Pack de 3 sacos de dormir de bebé para niño  color fantasía  Colorblock   US 0-6M  EU 56-68 '
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

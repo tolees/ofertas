@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZXTZfrZKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZR1T3T-es'
+slug: 'B07MZR1T3T-es Vans Ward Hi Platform  Sneaker para Mujer  Negro   Canvas  Black/True White 1wx   42.5 EU'
 actualPrice: 45.02 EUR
 currency: EUR
 price: 45.02

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51k4kqiYvhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHJSSTJ-es'
+slug: 'B07XHJSSTJ-es jerryvon Juego de Pista de Madera Circuito Coches con 2 Tren Magnética Pistas de Coches Bloques Construccion para Niños 3 4 + Años'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

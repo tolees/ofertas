@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tj9iBl3TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTNHF3G-es'
+slug: 'B07TTNHF3G-es BRIKSMAX Kit de Iluminación Led para Lego Technic Camión de Huida  Compatible con Ladrillos de Construcción Lego Modelo 42090  Juego de Legos no Incluido'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

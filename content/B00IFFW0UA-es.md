@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41thrn+EdWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IFFW0UA-es'
+slug: 'B00IFFW0UA-es dcasa - Mesa cuadrado plegable blanca 48x48x65 cm'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

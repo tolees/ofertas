@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PRf13Rj2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004KVWRNI-es'
+slug: 'B004KVWRNI-es M2 Beauté Ceja Renovación de 5 ml de suero  1er Pack  1 x 5 ml '
 actualPrice: 85.78 EUR
 currency: EUR
 price: 85.78

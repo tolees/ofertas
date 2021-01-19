@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318NK7zLimL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3FQ2FG-es'
+slug: 'B07F3FQ2FG-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable W1145L3'
 actualPrice: 92.98 EUR
 currency: EUR
 price: 92.98

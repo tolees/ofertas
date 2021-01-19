@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3139Z6ObEoL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PDRGGSU-es'
+slug: 'B00PDRGGSU-es Liderpapel - 100024 Plantillas Curvas 3 Piezas'
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vNLYA6hEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XFY11DJ-es'
+slug: 'B06XFY11DJ-es 50 Palos'
 actualPrice: 21.81 EUR
 currency: EUR
 price: 21.81

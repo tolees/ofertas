@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516xvPgnk7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJVKKPW-es'
+slug: 'B07WJVKKPW-es HOTLIKE Bolsa de Pañales  3PCS Bebé Reutilizable Impermeabilizan Bolsa con Cremallera Impermeable para Mamá  Wetbag Portátil Organizador de Viaje  Playa  Gym  Estilo 2 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

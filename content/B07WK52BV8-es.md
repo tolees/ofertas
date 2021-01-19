@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NTv2cE2gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WK52BV8-es'
+slug: 'B07WK52BV8-es Bowers & Wilkins PX5 Auriculares Supraurales Bluetooth con Cancelación Adaptativa de Ruido - Space Grey'
 actualPrice: 199.95 EUR
 currency: EUR
 price: 199.95

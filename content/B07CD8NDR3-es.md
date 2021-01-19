@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IGE8xW3+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CD8NDR3-es'
+slug: 'B07CD8NDR3-es Bullet - Reloj monitor de actividad/podómetro modelo Get-Fit  25.5 x 2.7 x 1.5 cm   Naranja '
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

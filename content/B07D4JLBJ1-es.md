@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61WQshbhqqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4JLBJ1-es'
+slug: 'B07D4JLBJ1-es S&R Disco de corte 125 mm para Metal y Hierro 125 x2  0x22  23 mm A30 S-BF para uso profesional. Juego de 25 discos 125 metal para amoladora angular.'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yJxvZwZ6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01765JIBI-es'
+slug: 'B01765JIBI-es JACK & JONES Jjspider Canvas Sneaker Anthracite Men s Shoes  Azul  Light Blue Denim   40'
 actualPrice: 12.86 EUR
 currency: EUR
 price: 12.86

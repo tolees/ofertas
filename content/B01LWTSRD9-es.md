@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f3sgVCUZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWTSRD9-es'
+slug: 'B01LWTSRD9-es Cybex Silver Juno 2-Fix 517000961 Silla de Coche  Grupo 1  con Isofix  Morado  Purple Rain '
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

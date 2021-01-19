@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+5MCb3FKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8PCFN1-es'
+slug: 'B07S8PCFN1-es PUMA Ralph Sampson Mid  Zapatillas Altas Unisex Adulto  Blanco White/Plein Air White  42 EU'
 actualPrice: 39.81 EUR
 currency: EUR
 price: 39.81

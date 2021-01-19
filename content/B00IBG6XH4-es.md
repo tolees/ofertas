@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d2Q4nXZ7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IBG6XH4-es'
+slug: 'B00IBG6XH4-es NUK 10750796 – detergente en espuma para biberón con enzimas orgánicas'
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

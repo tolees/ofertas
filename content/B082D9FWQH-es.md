@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YY06IVCKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082D9FWQH-es'
+slug: 'B082D9FWQH-es YuanLey 8 Port Gigabit PoE Switch  8 PoE+ Port 1000Mbps  120W 802.3af/at  Metal sin Ventilador Plug and Play no Administrado'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

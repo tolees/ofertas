@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3135rgqlelL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN8NRR1-es'
+slug: 'B07VN8NRR1-es LÄSSIG Maleta para niños a partir de 3 años/Trolley About Friends  Bo Pig'
 actualPrice: 48.7 EUR
 currency: EUR
 price: 48.7

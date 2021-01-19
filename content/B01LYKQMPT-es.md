@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GbVnASn7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYKQMPT-es'
+slug: 'B01LYKQMPT-es HERMA 7188 Surtido cartón diseño carpeta estrellas DIN A4  70 mm de ancho  varios motivos  Juego con 10 unidades '
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

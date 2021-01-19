@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Rna%2B8OjaL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQS1N6N-es'
+slug: 'B07FQS1N6N-es Clarks Un Abode Strap  Mocasines para Hombre  Negro  Black Leather-   42 EU'
 actualPrice: 55 EUR
 currency: EUR
 price: 55

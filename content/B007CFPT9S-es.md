@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4139mJVlomL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007CFPT9S-es'
+slug: 'B007CFPT9S-es Superga 2750 Cotu Classic  Zapatillas Unisex  Rojo  Dark Boredeaux   37.5 EU  4.5 UK '
 actualPrice: 32.26 EUR
 currency: EUR
 price: 32.26

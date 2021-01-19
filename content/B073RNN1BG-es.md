@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416gfAxsEYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RNN1BG-es'
+slug: 'B073RNN1BG-es Columbia Drainmaker IV  Zapatillas de Senderismo para Mujer  Beige  Monument  White   41.5 EU'
 actualPrice: 33.6 EUR
 currency: EUR
 price: 33.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512cVRKKZSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CWZLZEQ-es'
+slug: 'B00CWZLZEQ-es Titanlux - Esmalte-Laca poliuretano satinada Titanlak  Negro  750ML  ref. 011140134 '
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

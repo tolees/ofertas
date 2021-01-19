@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tcWPUOzAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6BNNK6-es'
+slug: 'B07M6BNNK6-es Nike The Premier II FG  Zapatillas de Fútbol Unisex Adulto  Negro  Obsidian/Lt Current Blue/Black 440   42 1/2 EU'
 actualPrice: 20.98 EUR
 currency: EUR
 price: 20.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qWsaVU9sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWKQFXJ-es'
+slug: 'B07VWKQFXJ-es Skechers Arya Sweet Glitz  Zapatillas sin Cordones para Mujer  Negro Negro Negro Metálico Knit Negro Gunmetal Trim BBK  35 EU'
 actualPrice: 46.62 EUR
 currency: EUR
 price: 46.62

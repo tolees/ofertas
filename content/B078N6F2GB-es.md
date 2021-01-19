@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414-tm8nyaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078N6F2GB-es'
+slug: 'B078N6F2GB-es Numan Unison Reference - Radio por Internet   Receptor Todo en uno   Amplificador   CD   Dab +   FM   Bluetooth   Puerto USB   2 x 40 vatios RMS   Connect Spotify   Negro'
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

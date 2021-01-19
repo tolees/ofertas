@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PEMncnIcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YVFTV42-es'
+slug: 'B07YVFTV42-es Regalo Botella de Acero Inoxidable de Aislamiento al vacío Pot Doble Caldera de Hogares Cafetera Agua Fría - Plata'
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78

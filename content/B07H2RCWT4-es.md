@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EEJ66+0fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2RCWT4-es'
+slug: 'B07H2RCWT4-es ESR Auriculares inalámbricos con Controladores duales  Auriculares Bluetooth Ligeros  Sonido HD con micrófono  Auriculares Deportivos de Ajuste Seguro para Correr y Entrenar'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

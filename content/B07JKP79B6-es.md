@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oNeVLRuYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKP79B6-es'
+slug: 'B07JKP79B6-es Amy&Benton Coches de Juguete  Surtido 4PCS Figuras Coches Vehículos De Juguete Coches Camiones De Juguete Regalos para bebés 1 2 3 4 años de Edad'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

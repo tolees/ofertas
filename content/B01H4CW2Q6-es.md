@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b+ggHy-TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H4CW2Q6-es'
+slug: 'B01H4CW2Q6-es PUMA Tazon 6 FM  Zapatillas para Correr de Carretera para Hombre  Blanco White Black Silver  44 EU'
 actualPrice: 40.7 EUR
 currency: EUR
 price: 40.7

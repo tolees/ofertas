@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415LViNILVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYD296D-es'
+slug: 'B07DYD296D-es Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Marrón  Burnt Henna   43.5 EU'
 actualPrice: 75.49 EUR
 currency: EUR
 price: 75.49

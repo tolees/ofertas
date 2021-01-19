@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21fVhKMYt7L._SL500_._AC_._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G7G6OM8-es'
+slug: 'B01G7G6OM8-es Freedog FD6000018 - Zapatos/Deportivas  para Perro  Color Tejano'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

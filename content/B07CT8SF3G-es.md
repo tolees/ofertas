@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XgHX+JRTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CT8SF3G-es'
+slug: 'B07CT8SF3G-es Orient Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable FEM75003B9'
 actualPrice: 172.97 EUR
 currency: EUR
 price: 172.97

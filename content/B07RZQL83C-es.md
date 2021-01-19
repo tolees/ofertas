@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hDxNTfp6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZQL83C-es'
+slug: 'B07RZQL83C-es Facial Massager Moon Gua Sha  PRETTY SEE masajeador facial   máquina de estiramiento facial  antienvejecimiento  micro-vibración  modos de luz azul y roja'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

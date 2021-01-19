@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PKSZHuEuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FGSYLG8-es'
+slug: 'B07FGSYLG8-es Under Armour Favorite Graphic Legging-WM Pantalones  Mujer  Charcoal Light Heather/Green Typhoon  XS'
 actualPrice: 19.23 EUR
 currency: EUR
 price: 19.23

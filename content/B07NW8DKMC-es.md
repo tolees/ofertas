@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ba3tS8x7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW8DKMC-es'
+slug: 'B07NW8DKMC-es Skechers Street Cleats-Luckier  Zapatillas para Mujer  Blanco  White Canvas/Duraleather Trim Wht   37.5 EU'
 actualPrice: 27.04 EUR
 currency: EUR
 price: 27.04

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419pvRKiErL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXTZG7M-es'
+slug: 'B07PXTZG7M-es Under Armour UA W Charged Pursuit 2  Zapatillas de Running para Mujer  Rosa  Dash Pink/White/Jet Gray   41 EU'
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

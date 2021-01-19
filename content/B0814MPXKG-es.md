@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kGZzEiK5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814MPXKG-es'
+slug: 'B0814MPXKG-es PICTEK Teclado y Raton Gaming RGB  Teclado Gaming RGB USB con Luz con Teclas Multimedia  Alfombrilla  25 Teclas Anti-Ghosting'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

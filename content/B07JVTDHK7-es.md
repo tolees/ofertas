@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31e1XVha1NL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVTDHK7-es'
+slug: 'B07JVTDHK7-es Asics Gel-Odyssey  Walking Shoe Womens  Black/Black  38 EU'
 actualPrice: 72.74 EUR
 currency: EUR
 price: 72.74

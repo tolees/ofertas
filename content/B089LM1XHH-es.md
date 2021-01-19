@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31whcrFHZ2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089LM1XHH-es'
+slug: 'B089LM1XHH-es Firoya 50pcs Lila  Triple Capa Transpirable Cómodo para la Salud Facial'
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

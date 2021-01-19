@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41II3inQQQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5YSX7Q-es'
+slug: 'B07V5YSX7Q-es Pendientes de plata de ley 925 de conjunto de dos piezas para mujeres y niñas - Pendientes aros pequeñas de flores de cristal de circonita cúbica de 14 mm & Pendientes stud de bola pequeña de 4 mm'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

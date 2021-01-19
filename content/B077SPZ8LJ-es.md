@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31b9zI0stfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SPZ8LJ-es'
+slug: 'B077SPZ8LJ-es PUMA 655307 03 Capucha  Hombre  Negro  Puma Black/Puma White   M'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

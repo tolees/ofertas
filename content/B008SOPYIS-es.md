@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515sQ80u29L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008SOPYIS-es'
+slug: 'B008SOPYIS-es Targus AWE77EU - Soporte para Tableta de 7-10" para reposacabezas  Color Negro'
 actualPrice: 14.29 EUR
 currency: EUR
 price: 14.29

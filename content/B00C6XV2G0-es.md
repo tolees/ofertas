@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TFQK5WMTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C6XV2G0-es'
+slug: 'B00C6XV2G0-es Elizabeth Arden Eight Hour Crema protectora para la piel sin perfume 50 ml'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412Db27FocL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRYYF8N-es'
+slug: 'B07VRYYF8N-es Calvin Klein Short Drawstring Bañador  Negro  PVH Black BEH   Medium para Hombre'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

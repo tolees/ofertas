@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41J24oq4i3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072K4XGXB-es'
+slug: 'B072K4XGXB-es Decyam Comedero de Perros para ralentizar la Comida  Divertida búsqueda de alimento'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

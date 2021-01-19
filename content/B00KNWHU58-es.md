@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hIsTiQWML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KNWHU58-es'
+slug: 'B00KNWHU58-es Orlane Oligo Vit-A-Min Crema Anti Oxydante 50 ml'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-pwj3ZWML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JHCPB1-es'
+slug: 'B071JHCPB1-es adidas Campus  Zapatillas de Deporte para Hombre  Gris  Grey Three F17/ftwr White/chalk White   44 EU'
 actualPrice: 56.61 EUR
 currency: EUR
 price: 56.61

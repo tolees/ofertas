@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tKNLU-dqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLXY253-es'
+slug: 'B07GLXY253-es Tile Pro con pila reemplazable - Buscador de llaves. Buscador de teléfonos. Buscador de cualquier cosa - paquete de 1'
 actualPrice: 25.37 EUR
 currency: EUR
 price: 25.37

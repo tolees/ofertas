@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LXgHWFHlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DSKSEZC-es'
+slug: 'B00DSKSEZC-es Cybex - Silla de coche grupo 1/2/3 Pallas  silla de coche 2 en 1 para niños  sin ISOFIX  9-36 kg  desde los 9 meses hasta los 12 años aprox.  color Azul  Blue moon '
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

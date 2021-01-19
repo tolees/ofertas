@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YxPpLUElL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG4CLLL-es'
+slug: 'B07JG4CLLL-es Crocs Crocband Rain Boot Kids  Botas de Agua Unisex Niños  Amarillo  Yellow/Navy 734   27/28 EU'
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

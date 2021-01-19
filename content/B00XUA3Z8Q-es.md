@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FSeeTP8ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XUA3Z8Q-es'
+slug: 'B00XUA3Z8Q-es Oxford 100430206 - Recambio hojas sueltas  4 taladros para archivo compatibles con Europeanbider  Tamaño A5  155 x 215 mm'
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

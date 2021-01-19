@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eWSoOFWOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRL2LXG-es'
+slug: 'B07KRL2LXG-es New Balance Fresh Foam Roav  Zapatillas de Running para Mujer  Rosa  Oxygen Oxygen   40 EU'
 actualPrice: 41.52 EUR
 currency: EUR
 price: 41.52

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BW6tN-bcL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DZXCMQ8-es'
+slug: 'B01DZXCMQ8-es marckonfort Colchón Visco-Gel Feran Ice 120x190 cm  22 cm Altura con 1 cm de Visco-Gel de 65 kg/m3 + Independencia de lechos + Firmeza: Media + Extremadamente Durable'
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3162jJwQMnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQBCLJ1-es'
+slug: 'B07NQBCLJ1-es SAMSUNG SM-R375NZKADBT Reloj Inteligente Negro 1 88 cm  0.74"  Móvil - Relojes Inteligentes  1 88 cm  0.74"   Pantalla táctil  Móvil  144 h  15 g  Negro '
 actualPrice: 31.91 EUR
 currency: EUR
 price: 31.91

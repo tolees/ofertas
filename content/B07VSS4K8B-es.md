@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zt+xcRLRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSS4K8B-es'
+slug: 'B07VSS4K8B-es Funko- Pop Games: Apex Legends-Mirage Collectible Toy  Multicolor  43284 '
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

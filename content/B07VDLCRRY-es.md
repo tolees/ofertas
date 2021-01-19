@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d3O9hUiCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDLCRRY-es'
+slug: 'B07VDLCRRY-es 00119 XuanPad'
 actualPrice: 45.66 EUR
 currency: EUR
 price: 45.66

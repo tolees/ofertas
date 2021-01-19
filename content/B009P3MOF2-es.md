@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416dZ6BH3PL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009P3MOF2-es'
+slug: 'B009P3MOF2-es SRAM Soporte Quick View  31.8  Carretera  Computer Tachos Pulsmes Halterung  Schwarz  31 8mm Klemmung  00.7918.020.000  Multicolor  M'
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

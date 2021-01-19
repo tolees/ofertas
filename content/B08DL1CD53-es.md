@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lKzz08I3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DL1CD53-es'
+slug: 'B08DL1CD53-es XINFULUK Eco-Friendly Kids Baby Write Draw Paint Water Magic Doodle Mat Niños Jugar Mat con Magic Pen Painting Multi Color'
 actualPrice: 1.62 EUR
 currency: EUR
 price: 1.62

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xo-5m3rzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H6MYTBP-es'
+slug: 'B07H6MYTBP-es FTVOGUE SOS - Reloj inteligente para niños y niñas  con GPS y rastreador de actividad English-pink'
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

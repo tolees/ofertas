@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L5z-pP3iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQ1XQ4X-es'
+slug: 'B07RQ1XQ4X-es Tommy Hilfiger - Th Corporate Camera Bag  Bolsos bandolera Mujer  Multicolor  Barbados Cherry   7.5x0.1x17.5 cm  W x H L '
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

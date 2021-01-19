@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qi8Bz9KaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FJMHD4-es'
+slug: 'B088FJMHD4-es StillCool Aire Acondicionado Portátil  3 en 1 Ventilador Aire Acondicionado  Humidificador y Purificador  Ventilador USB  3 Velocidade  90 ° oscilación  para Hogar Oficina'
 actualPrice: 21.65 EUR
 currency: EUR
 price: 21.65

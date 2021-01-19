@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Eerd4u9YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085YCMT9P-es'
+slug: 'B085YCMT9P-es YAMAMAY® Bralette with bow - Charlize'
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iGOHQWP5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VAH9YIQ-es'
+slug: 'B00VAH9YIQ-es Manfrotto Lumimuse 8 LED  color negro'
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

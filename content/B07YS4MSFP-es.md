@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hmy9ONj8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YS4MSFP-es'
+slug: 'B07YS4MSFP-es ZoneYan Gorras Bebé Recién Nacido Sombreros Bebé Invierno Sombrero de Punto para Niñas y Niños Gorra Calentar para Otoño Invierno Gorros De Punto Bebe Niños Invierno'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JYYdpvT7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N292ZRY-es'
+slug: 'B07N292ZRY-es Maleta de cabina rígida 55cm Movom Trafalgar Amarilla'
 actualPrice: 48.93 EUR
 currency: EUR
 price: 48.93

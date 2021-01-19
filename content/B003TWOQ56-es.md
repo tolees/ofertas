@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/213uB3x6GvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003TWOQ56-es'
+slug: 'B003TWOQ56-es Bosch 2 608 690 124 - Cincel plano RTec Sharp  SDS-max - 400 mm  pack de 1 '
 actualPrice: 17.15 EUR
 currency: EUR
 price: 17.15

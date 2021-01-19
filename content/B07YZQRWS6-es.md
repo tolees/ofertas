@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f-eI7W62L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZQRWS6-es'
+slug: 'B07YZQRWS6-es Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Capucha  Amarillo  Gelb   Small para Hombre'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

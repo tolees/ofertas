@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518FDFX0E8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0815TDL8D-es'
+slug: 'B0815TDL8D-es Luz de noche  lámpara de noche Smart Touch  Luz blanca cálida regulable de 3 niveles y seis colores que cambian de color RGB   DT-2 '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-uVdNyQfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RHHX9D-es'
+slug: 'B073RHHX9D-es Adidas Terrex Swift R2 Mid GTX  Zapatillas de Marcha Nórdica para Hombre  Negro  Core Black/Core Black/Core Black 0   45 1/3 EU'
 actualPrice: 118.48 EUR
 currency: EUR
 price: 118.48

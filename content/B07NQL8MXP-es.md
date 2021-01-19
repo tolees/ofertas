@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xEs%2BdzgGL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQL8MXP-es'
+slug: 'B07NQL8MXP-es Springfield Tren Tricolor Cinturón  Azul  Blue 11   Tamaño del Fabricante: 75 para Hombre'
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

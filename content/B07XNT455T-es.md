@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513c52WLVgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XNT455T-es'
+slug: 'B07XNT455T-es Foto Clip Cadena de Luces LED - Elegear Cadena Luces de Clip para Fotos 3m 20 LED Garland Light Clamp Batería 8 Modos Iluminación Decoración para Colgar Fotos  Memos  Obras de Arte  3M 20LED '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

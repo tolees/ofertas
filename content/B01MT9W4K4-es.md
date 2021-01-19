@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417ZWIMyvuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT9W4K4-es'
+slug: 'B01MT9W4K4-es adidas Stan Smith  Zapatillas Unisex bebé  Blanco  Footwear White/Footwear White/Green 0   23 EU'
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

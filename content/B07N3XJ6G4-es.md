@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zO4VFLt+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3XJ6G4-es'
+slug: 'B07N3XJ6G4-es Diadermine - Hydralist Crema Hidratante de Día - Textura sedosa y sensación refrescante no grasa - 2 unidades de 50ml'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

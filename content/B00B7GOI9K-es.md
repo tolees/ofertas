@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NgTTziduL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B7GOI9K-es'
+slug: 'B00B7GOI9K-es Eukanuba Adulto Raza pequeña y mediana Rico en cordero y arroz [12 Kg]'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

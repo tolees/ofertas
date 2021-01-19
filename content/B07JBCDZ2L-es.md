@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EsyoYtJ7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBCDZ2L-es'
+slug: 'B07JBCDZ2L-es Logitech Advanced Combo Wireless Keyboard and Mouse - N/A - ESP - 2.4GHZ - N/A - MEDITER'
 actualPrice: 43.5 EUR
 currency: EUR
 price: 43.5

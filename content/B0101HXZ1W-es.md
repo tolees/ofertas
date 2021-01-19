@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YDCUrM-ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0101HXZ1W-es'
+slug: 'B0101HXZ1W-es Bote 3 unidades Pelotas Nox'
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

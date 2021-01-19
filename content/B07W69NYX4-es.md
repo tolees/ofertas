@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iiFht9uEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W69NYX4-es'
+slug: 'B07W69NYX4-es Remington Stylist Classic HC450 - Máquina de Cortar Pelo  Cuchillas de Acero Inoxidable  con Cable o Recargable  14 Accesorios  Gris'
 actualPrice: 47.88 EUR
 currency: EUR
 price: 47.88

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BvgB3yfIL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FM33FL2-es'
+slug: 'B07FM33FL2-es Operación Triunfo 2017'
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

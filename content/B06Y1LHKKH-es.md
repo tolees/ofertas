@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41js63givYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y1LHKKH-es'
+slug: 'B06Y1LHKKH-es Wrangler ARIZONA DENIM PANTS Pantalones  Bright Stroke  35W / 34L para Hombre'
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

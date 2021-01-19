@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fUftgw2VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC2LL9M-es'
+slug: 'B07DC2LL9M-es PUMA Vista  Zapatillas Unisex Adulto  Negro Black White/Charcoal Gray  38.5 EU'
 actualPrice: 34.35 EUR
 currency: EUR
 price: 34.35

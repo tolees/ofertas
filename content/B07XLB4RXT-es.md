@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q82yZoXKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLB4RXT-es'
+slug: 'B07XLB4RXT-es Alyoen Escalera de Agilidad  Escalera de Entrenamiento Ajustable de 6 m con 12 peldaños y Bolsa de Transporte Gratuita'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CXhyYaYGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6CQSGM-es'
+slug: 'B07N6CQSGM-es 3/8"1700 RPM  Taladro Neumático de Alta Velocidad  Rotación Reversible  Herramienta de Perforación de Aire para Taladrado'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

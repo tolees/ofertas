@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BIaWJFTyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTR2ZYK-es'
+slug: 'B07KTR2ZYK-es Hugo BOSS Reloj de pulsera 1513704'
 actualPrice: 279.3 EUR
 currency: EUR
 price: 279.3

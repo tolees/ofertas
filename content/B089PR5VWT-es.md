@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fC7ci5k-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089PR5VWT-es'
+slug: 'B089PR5VWT-es Pendientes Mujer con piedra de nacimiento  Plata de Ley 925 Con Zirconia Cúbico joyería regalo de joyería para niñas'
 actualPrice: 22.34 EUR
 currency: EUR
 price: 22.34

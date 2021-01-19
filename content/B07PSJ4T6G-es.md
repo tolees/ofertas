@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ifTMiaFhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJ4T6G-es'
+slug: 'B07PSJ4T6G-es Hurley Prem Enjoy tee SS Geo Camisetas  Hombre  White  S'
 actualPrice: 7.66 EUR
 currency: EUR
 price: 7.66

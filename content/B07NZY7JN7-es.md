@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P7nv+rvpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZY7JN7-es'
+slug: 'B07NZY7JN7-es Skechers Men s Metco-Parken Trainers  Gris  Gray Black Mesh Gybk   7 UK  41 EU '
 actualPrice: 42.32 EUR
 currency: EUR
 price: 42.32

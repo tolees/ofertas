@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61siTUj6qCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BR3TK7-es'
+slug: 'B083BR3TK7-es MENGH Küchen teppiche 140x220cm  Dekoration Teppich Farbecht Pflegeleicht für Wohnzimmer Schlafzimmer Sofa Grau'
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

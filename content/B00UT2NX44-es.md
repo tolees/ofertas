@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XLMzx4lAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UT2NX44-es'
+slug: 'B00UT2NX44-es Tommy Hilfiger Bralette Corsetto  Gris  GREY HEATHER 004   36  talla del fabricante: MD  para Mujer'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

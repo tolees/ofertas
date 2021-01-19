@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e-OjqjvvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N35SYF7-es'
+slug: 'B07N35SYF7-es Mizuno Wave Rider 23  Zapatillas de Running para Mujer  Rosa  Hibiscus/VaporBlue/AstralAura 3   37 EU'
 actualPrice: 66.79 EUR
 currency: EUR
 price: 66.79

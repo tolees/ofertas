@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jTczf2Q5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF56CRF-es'
+slug: 'B07KF56CRF-es Levi s 501 Long Pantalones Cortos  Azul  Montgomery Stone Wash Short 0012   W32  Talla del Fabricante: 32  para Mujer'
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

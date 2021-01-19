@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XfTa-oA0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0767VT7WH-es'
+slug: 'B0767VT7WH-es Jamo - Altavoces Estéreo S-801  60 W  85 Db  Negro'
 actualPrice: 102.85 EUR
 currency: EUR
 price: 102.85

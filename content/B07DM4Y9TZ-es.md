@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FeTYpk9IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DM4Y9TZ-es'
+slug: 'B07DM4Y9TZ-es Salter BW06667W - Cubo de Basura Rectangular con Pedal de baño  5 L   Color Blanco'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

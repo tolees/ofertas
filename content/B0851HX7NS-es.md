@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316M42ej4RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0851HX7NS-es'
+slug: 'B0851HX7NS-es Atashi Fresh & Pure - Bruma Oxigenante Matificante | Refresca  Hidrata  Calma y Equilibra la piel | Rápida absorción | 60ml'
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21jLY8XY5rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRCT50P-es'
+slug: 'B01MRCT50P-es Samsung Dream Silicone Cover  Funda para smartphone Samsung Galaxy S8  Azul'
 actualPrice: 10.34 EUR
 currency: EUR
 price: 10.34

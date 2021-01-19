@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qaitE9xVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082CWZRD3-es'
+slug: 'B082CWZRD3-es Masajeador Masajeador Eléctrico de Masaje Corporal Inalámbrica 10 Modos de Vibración Recargable'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

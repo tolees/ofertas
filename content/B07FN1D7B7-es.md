@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NFbWex0NL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FN1D7B7-es'
+slug: 'B07FN1D7B7-es adidas Galaxy 11  Zapatillas de Running para Hombre  Negro  Core Black   39 1/3 EU'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

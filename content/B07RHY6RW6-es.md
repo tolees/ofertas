@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YtbwZVLTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHY6RW6-es'
+slug: 'B07RHY6RW6-es New Balance Fresh Foam Arishi v3  Zapatillas para Correr de Carretera para Mujer  Negro  Black Lk3   40.5 EU'
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

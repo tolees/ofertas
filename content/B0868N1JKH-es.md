@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51juuYZVQ2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868N1JKH-es'
+slug: 'B0868N1JKH-es Suhctup Transparente Funda Compatible con Xiaomi Mi Mix 3 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para Xiaomi Mi Mix 3 7 '
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

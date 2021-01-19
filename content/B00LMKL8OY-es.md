@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JW6F1lKrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LMKL8OY-es'
+slug: 'B00LMKL8OY-es Quiksilver Carver Suede M Sndl Tkd0 - Chancletas para hombre  color Multicolor  Tan - Solid   talla 40'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

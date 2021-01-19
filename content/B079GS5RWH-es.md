@@ -6,7 +6,7 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079GS5RWH-es'
+slug: 'B079GS5RWH-es 1home Soporte portátil ergónomico Adjustable Curvo para computadora portátil y MacBook'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

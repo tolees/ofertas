@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bcdE-w4pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7TMGPS-es'
+slug: 'B07R7TMGPS-es Liberex Máquina de Cortar Pelo Profesional - Barbero Electrico Recargable  Cortapelos Afeitadora Corporal Máquina de Afeitar  Peine de 4 Posiciones  Base de Carga Inalámbrica para Hombres  Niños'
 actualPrice: 24.29 EUR
 currency: EUR
 price: 24.29

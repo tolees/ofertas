@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UK-HK7Z7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9CJRPM-es'
+slug: 'B07T9CJRPM-es Lepfun SS154/SS155 Tobilleras Deportivas de Compresión Tobillera Estabilizadora para Esguince de Tobillo Fascitis Plantar  Soporte de Tobillos Tobillera Proteccion  L/XL  SS155 Black '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

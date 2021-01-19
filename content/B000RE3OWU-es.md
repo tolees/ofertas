@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316PVVCy-jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RE3OWU-es'
+slug: 'B000RE3OWU-es Brabantia 365225 - Cucharón sopero  Nylon  Color Negro'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

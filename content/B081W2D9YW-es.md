@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OfvF6Vp1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081W2D9YW-es'
+slug: 'B081W2D9YW-es Carpeta Clasificadora - ABClife Archivador acordeón 12 Bolsillos de gran Capacidad soporte Extensible portátil acordeón Clasificador Documentos  Archivador A4 para Office School  12 Bolsillos Tapa '
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

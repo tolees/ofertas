@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qWWA1BUhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ679WM-es'
+slug: 'B07JQ679WM-es Champion Performance Crew Calcetines de deporte  Multicolor  Blanc Logo Colore 8lv   35/38  Pack de 6  para Hombre'
 actualPrice: 10.87 EUR
 currency: EUR
 price: 10.87

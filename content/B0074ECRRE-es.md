@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EXvhEag4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0074ECRRE-es'
+slug: 'B0074ECRRE-es Walimex 17626 - Lámpara anular con Soporte Flexible  Potencia 75 W  diámetro Interior de 37 cm   Transparente'
 actualPrice: 54.96 EUR
 currency: EUR
 price: 54.96

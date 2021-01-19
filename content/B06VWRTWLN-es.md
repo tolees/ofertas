@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61iiCGh7JkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VWRTWLN-es'
+slug: 'B06VWRTWLN-es Lock S Quest'
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

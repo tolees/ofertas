@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GjhLBUneL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016AWG0UA-es'
+slug: 'B016AWG0UA-es ASUS BE249QLB 23.8" Full HD IPS Mate Negro Pantalla para PC - Monitor  60 5 cm  23.8"   1920 x 1080 Pixeles  Full HD  5 ms  250 CD/m²  Negro '
 actualPrice: 129.93 EUR
 currency: EUR
 price: 129.93

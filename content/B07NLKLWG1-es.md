@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51taSB4kK1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLKLWG1-es'
+slug: 'B07NLKLWG1-es Versace Jeans CouturePortafoglioMujerCarterasMorado  Accademi  0 5x22x31 centimeters  W x H x L '
 actualPrice: 75.51 EUR
 currency: EUR
 price: 75.51

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PMKNLtioL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAS3A5U-es'
+slug: 'B01NAS3A5U-es CAMPER Hoops  Damen Low-top  Weiß  White Natural 100   36 EU'
 actualPrice: 73.73 EUR
 currency: EUR
 price: 73.73

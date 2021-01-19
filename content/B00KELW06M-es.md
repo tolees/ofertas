@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41by92G1HeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KELW06M-es'
+slug: 'B00KELW06M-es Elbe Socket para Mesa Empotrado con Interruptor  Enchufe múltiple de 3 Tomas  Enchufe alemán  Aluminio con Cable de 1 5 m  Apto para Oficina  Estudio y Cocina_EL1803K'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

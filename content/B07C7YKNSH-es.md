@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/517fuAeu4cL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C7YKNSH-es'
+slug: 'B07C7YKNSH-es Ao International Tennis'
 actualPrice: 18 EUR
 currency: EUR
 price: 18

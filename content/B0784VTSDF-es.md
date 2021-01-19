@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415jLiGM54L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784VTSDF-es'
+slug: 'B0784VTSDF-es Asics Chaussures Gecko XT'
 actualPrice: 44.79 EUR
 currency: EUR
 price: 44.79

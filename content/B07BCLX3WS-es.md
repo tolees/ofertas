@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21UT+xEIf+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BCLX3WS-es'
+slug: 'B07BCLX3WS-es Tefal Ingenio Ice Cuchillo pelador  acero cepillado  cuchillo de una sola pieza  mango remachado  negro  7 cm'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

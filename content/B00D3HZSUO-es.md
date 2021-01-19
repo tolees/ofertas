@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41a0JbG136L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D3HZSUO-es'
+slug: 'B00D3HZSUO-es Lutsine Xeramance  Emulsión Reestructurante para Piel Muy Seca y Atópica  400 ml'
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

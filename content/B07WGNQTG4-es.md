@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yqPjScnmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGNQTG4-es'
+slug: 'B07WGNQTG4-es JACK & JONES JORFRANKIE Crew Neck Suéter  Multicolor  Sea Moss Fit: Knit Fit   M para Hombre'
 actualPrice: 7.3 EUR
 currency: EUR
 price: 7.3

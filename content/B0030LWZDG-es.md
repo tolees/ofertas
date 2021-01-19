@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ks24WRE9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0030LWZDG-es'
+slug: 'B0030LWZDG-es Stagg STC3PCM - Cable jack a RCA  3 m   color negro  negro'
 actualPrice: 3.32 EUR
 currency: EUR
 price: 3.32

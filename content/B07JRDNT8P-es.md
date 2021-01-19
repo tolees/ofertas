@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zNoHWtH4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JRDNT8P-es'
+slug: 'B07JRDNT8P-es Tommy Hilfiger Coco Legging Leggings  Morado  Beet Red 840   W38  Talla del Fabricante: Large  para Mujer'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

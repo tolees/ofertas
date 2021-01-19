@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sKWFz7+5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LVVF90V-es'
+slug: 'B01LVVF90V-es Apple iPhone 7 - Smartphone de 4.7"  32 GB  oro rosa'
 actualPrice: 309.99 EUR
 currency: EUR
 price: 309.99

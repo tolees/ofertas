@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CmT1TIvoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC91KYR-es'
+slug: 'B07MC91KYR-es Cat Footwear Overview  Botas para Hombre  Marrón  Sudan Brown Brown   43 EU'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

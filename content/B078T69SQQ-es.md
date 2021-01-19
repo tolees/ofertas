@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hM-DsAkrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T69SQQ-es'
+slug: 'B078T69SQQ-es Tommy Hilfiger Tommy Star Metallic Sneaker  Zapatillas para Mujer  Rojo  RWB 020   40 EU'
 actualPrice: 67.5 EUR
 currency: EUR
 price: 67.5

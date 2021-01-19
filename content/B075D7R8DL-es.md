@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ptWA-unxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075D7R8DL-es'
+slug: 'B075D7R8DL-es ASUS PB LGA1151 B250 Mining Expert 2DDR4 32GB HDMI 18 X PCIEXPRESS'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

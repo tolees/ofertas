@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p9gISR6KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3JBYMH-es'
+slug: 'B07R3JBYMH-es Ultimate Ears Megaboom Altavoz Portátil Inalámbrico Bluetooth  Graves Profundos  Impermeable  Flotante  Conexión Múltiple  Batería de 20 h - Gris Oscuro'
 actualPrice: 122.99 EUR
 currency: EUR
 price: 122.99

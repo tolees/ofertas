@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cbW38X9sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW21YSF-es'
+slug: 'B07KW21YSF-es Masajeador de ojos sónico de varita galvanica antienvejecimiento  aniones importadas  removedor de arrugas recargable para ojeras y hinchazón  vers mejorados'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

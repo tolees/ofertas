@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61A79HIo0ZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBP4D64-es'
+slug: 'B01NBP4D64-es Aquabeads- Disney Princess playset  Epoch para Imaginar 30228 '
 actualPrice: 15.2 EUR
 currency: EUR
 price: 15.2

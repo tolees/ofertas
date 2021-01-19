@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g-NA0XtSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M87ZMLD-es'
+slug: 'B07M87ZMLD-es PETEMOO Asiento del Coche de Seguridad para Mascotas Perro Plegable Lavable Viaje Bolsas y Otra Mascota Pequeña con Cremallera Bolsillo'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

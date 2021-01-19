@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EVLYFpcjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBWBV6B-es'
+slug: 'B07JBWBV6B-es Natural Honey Loción Corporal Extra Hidratante 700ml'
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

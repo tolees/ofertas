@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31k6fv69v3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001FZCVTM-es'
+slug: 'B001FZCVTM-es Wilson Champ Extra Duty Pelotas de tenis  tubo con 3 pelotas  para todas las superficies  amarillo'
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

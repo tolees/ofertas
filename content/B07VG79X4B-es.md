@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W38-VobgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VG79X4B-es'
+slug: 'B07VG79X4B-es JACK & JONES Jcostanford Crew Neck Noos suéter  Azul  Black Navy Fit: Knit Fit   XX-Large para Hombre'
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

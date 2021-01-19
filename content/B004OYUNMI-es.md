@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rlRGY3nqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004OYUNMI-es'
+slug: 'B004OYUNMI-es Casio G-SHOCK Reloj Analógico-Digital  20 BAR  Azul/Negro  para Hombre  GA-110-1BER'
 actualPrice: 76.8 EUR
 currency: EUR
 price: 76.8

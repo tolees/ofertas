@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+h2-svk3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008DCFSGS-es'
+slug: 'B008DCFSGS-es Safta - Carro Portamochilas Pequeño 67x22cm Color Negro'
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

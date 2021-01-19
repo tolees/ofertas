@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BfbLD7sfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNFTGNW-es'
+slug: 'B07DNFTGNW-es Limpiador de Cepillo de Acero Inoxidable con Mango Usar con Aceite de Trementina Limpiador de Pinceles'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

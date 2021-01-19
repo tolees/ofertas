@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MYDiaW6DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHR72MJ-es'
+slug: 'B07PHR72MJ-es Sandalia Tipo Chancla Masaje de Hombre Mujer Unisex  Tira Ancha Suela con Agujero  Zapatillas de Casa Playa para Verano Interior/Exterior  Rosa  36/37 EU'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

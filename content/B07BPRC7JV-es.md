@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UJADXIVyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPRC7JV-es'
+slug: 'B07BPRC7JV-es Homyl 1 Par Sonido de Sistema de Audio Estéreo de Coche Altavoz Dual Color Mezclado'
 actualPrice: 15.22 EUR
 currency: EUR
 price: 15.22

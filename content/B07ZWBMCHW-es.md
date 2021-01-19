@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PeLXM+oSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZWBMCHW-es'
+slug: 'B07ZWBMCHW-es The Mind - Extreme'
 actualPrice: 6.86 EUR
 currency: EUR
 price: 6.86

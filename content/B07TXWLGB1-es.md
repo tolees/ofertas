@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BLEGqX-LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXWLGB1-es'
+slug: 'B07TXWLGB1-es Kipling Creativity S  Cartera para Mujer  Multicolor  Speckled   14.5x9.5x5 cm'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

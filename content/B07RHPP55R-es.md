@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Rt2RntioL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHPP55R-es'
+slug: 'B07RHPP55R-es Salomon Sense Feel  Zapatillas de Trail Running para Hombre  Blanco  White/White/White   42 EU'
 actualPrice: 32.87 EUR
 currency: EUR
 price: 32.87

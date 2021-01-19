@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DJUz4LTUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBR4YOC-es'
+slug: 'B01NBR4YOC-es Sony MDR-XB550AP - Auriculares de Diadema Extra Bass  Micrófono Integrado Compatible con Smartphones  Diadema Metálica Adaptable  Color Rojo  Talla Única'
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

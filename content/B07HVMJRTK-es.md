@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312iHjX2jbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HVMJRTK-es'
+slug: 'B07HVMJRTK-es Botella de aerosol perfume portátil 12ml Mini bala Forma Niebla Botella de pulverización vacía Viaje atomizador recargable para aceites esenciales aromas baño lavandería Rojo '
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

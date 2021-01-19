@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51B-cakq+AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074HMVTC9-es'
+slug: 'B074HMVTC9-es Blade Runner 2049-Funko Pop Blade Runner 2049 Figura de vinilo Sapper  Multicolor  Standard  Funko 21596    color/modelo surtido'
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Fa2YrGTTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCQU738-es'
+slug: 'B01NCQU738-es TurnRaise Niños Pretend Play Alimentos Juguete Set - 75 PC Pastel de cumpleaños  Azul '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

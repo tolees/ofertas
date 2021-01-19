@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RJo7CT+aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CNQWV4-es'
+slug: 'B071CNQWV4-es Star Wars: Battlefront II - Edición estándar  La caja contiene un código de descarga - Origin '
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313mJNo5jyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VTVGSDW-es'
+slug: 'B06VTVGSDW-es Logitech Spotlight Presentador Inalámbrico  2.4 GHz y Bluetooth  Receptor USB  Puntero Láser Digital  Distancia de 30 Metros  Cronometro  PC/Mac/Android/iOS  Dorado/Blanco'
 actualPrice: 80.53 EUR
 currency: EUR
 price: 80.53

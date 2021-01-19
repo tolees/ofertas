@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vEWa7SAzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9ZNQCD-es'
+slug: 'B07Y9ZNQCD-es Eva López Botín Piel Cowboy Negro Mujer'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

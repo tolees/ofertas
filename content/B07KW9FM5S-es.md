@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415slwCXdGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW9FM5S-es'
+slug: 'B07KW9FM5S-es Salomon Speedcross 4 W  Zapatillas de Trail Running para Mujer  Turquesa  Meadowbrook/Black/Exotic Orange   36 2/3 EU'
 actualPrice: 87.98 EUR
 currency: EUR
 price: 87.98

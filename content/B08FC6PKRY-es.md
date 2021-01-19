@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418mgrjdZvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FC6PKRY-es'
+slug: 'B08FC6PKRY-es Longspeed A5 Draw with Light Fun Tablero de Dibujo Tablero Luminoso Pizarra mágica Brillante para niños Pintura de Graffiti Tablero de Dibujo para niños - Aleatorio'
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

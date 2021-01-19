@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vk5KM9VzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006VCU7V8-es'
+slug: 'B006VCU7V8-es Lancaster Suractif Volume Contorno Day Cream 50 ml'
 actualPrice: 39.31 EUR
 currency: EUR
 price: 39.31

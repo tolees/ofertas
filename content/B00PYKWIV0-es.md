@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31skZvsX5EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PYKWIV0-es'
+slug: 'B00PYKWIV0-es Nike Court Royale  Zapatillas de Gimnasia para Hombre  Negro  Black/White   42 EU'
 actualPrice: 30.01 EUR
 currency: EUR
 price: 30.01

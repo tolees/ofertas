@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ou+KpQQwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813YGW7D-es'
+slug: 'B0813YGW7D-es adidas Duramo Lite 2.0  Zapatillas para Correr para Hombre  Tech Indigo/Matte Silver/Legend Ink  42 2/3 EU'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

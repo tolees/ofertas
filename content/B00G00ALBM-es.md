@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B77yp1F9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G00ALBM-es'
+slug: 'B00G00ALBM-es Komono Reloj Analógico de Cuarzo Unisex con Correa de Cuero – KOM-W2000'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

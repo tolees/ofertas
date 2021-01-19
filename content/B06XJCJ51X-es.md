@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DHpvQMVzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XJCJ51X-es'
+slug: 'B06XJCJ51X-es Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Amarillo/Azul Royal   6XS-5XS'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

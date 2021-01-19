@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51MMvhdLJ-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJQN4P7-es'
+slug: 'B07GJQN4P7-es ATOYX Mini Drone  AT-66 RC Drone Niños 3D Flips  Modo sin Cabeza  Estabilización de Altitud  3 Modos de Velocidad  4 Canales 6-Ejes  2 Baterías  Regalo para Niños y Principiantes  Azul'
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

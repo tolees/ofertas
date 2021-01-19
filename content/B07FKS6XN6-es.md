@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31FIx5v%2BxtL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKS6XN6-es'
+slug: 'B07FKS6XN6-es Trangoworld Goym Pant. Largo  Hombre  Negro  S'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

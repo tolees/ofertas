@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413WC7fQRZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQ1M5C2-es'
+slug: 'B07HQ1M5C2-es Funko Pop: Fortnite: Tower Recon Specialist  multicolor  34463    color/modelo surtido'
 actualPrice: 7.76 EUR
 currency: EUR
 price: 7.76

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pc4gqjs2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC1P8YS-es'
+slug: 'B07DC1P8YS-es PUMA Vista  Zapatillas Unisex-Adulto  Azul  Peacoat White/High Risk Red   41 EU'
 actualPrice: 33.61 EUR
 currency: EUR
 price: 33.61

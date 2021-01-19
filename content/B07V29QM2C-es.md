@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A+WfHmvTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V29QM2C-es'
+slug: 'B07V29QM2C-es KAPORAL Mura Polo  Multicolor  Medgrm Medgrm   Small para Hombre'
 actualPrice: 9.57 EUR
 currency: EUR
 price: 9.57

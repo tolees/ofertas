@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51QqUsD3BUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HTZR3X-es'
+slug: 'B083HTZR3X-es K9CK Luces LED para Ideas La casa del árbol 21318  Kit de Iluminación Luz Compatible con Bloques de construcción  NO Incluido en el Modelo '
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

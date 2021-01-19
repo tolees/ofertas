@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qgosez0uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084BZ24JY-es'
+slug: 'B084BZ24JY-es IKOHS Aspirador Vertical CYCLONIC DC-Flux 25 9V - Aspirador sin Cable ni Bolsa 3 en 1  Tecnología Ciclónica  Cepillo Central rotativo  Aspirador Vertical y de Mano  180W  500 ml  Blanco - 25 9V '
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

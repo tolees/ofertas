@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WtG%2Bptk6L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L06LV5K-es'
+slug: 'B01L06LV5K-es Pulsar Reloj Digital para Unisex de Analogico con Correa en Chapado en Acero Inoxidable PQ2056X1'
 actualPrice: 122.49 EUR
 currency: EUR
 price: 122.49

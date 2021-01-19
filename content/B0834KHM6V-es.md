@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZElz4vryL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0834KHM6V-es'
+slug: 'B0834KHM6V-es Proyector BOMAKER 5000 Lúmenes Soporta 1080p Full HD  Mini Proyector Portátil Cine en Casa 720p Nativo  con Trípode & Bolsa de Transporte  HDMI/VGA/AV/USB/SD GC555 [2020 Actualizado]'
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZPHm+QMZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C7L4UHI-es'
+slug: 'B01C7L4UHI-es Capucha negra tela'
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

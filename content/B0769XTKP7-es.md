@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J2lGuG9lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0769XTKP7-es'
+slug: 'B0769XTKP7-es Altavoz Autoamplificado 400W 12" ThunderSound Biwond'
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315dWI5CxdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007IUEFRE-es'
+slug: 'B007IUEFRE-es Stendhal Recette Merveilleuse Crema Revitalisante Nuit Ultra 50 ml'
 actualPrice: 40.56 EUR
 currency: EUR
 price: 40.56

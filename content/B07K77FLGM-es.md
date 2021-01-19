@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qw7ZjrehL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K77FLGM-es'
+slug: 'B07K77FLGM-es Asics Patriot 10  Zapatillas de Running para Mujer  Rosa  Baked Pink/Steel Blue 700   39.5 EU'
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

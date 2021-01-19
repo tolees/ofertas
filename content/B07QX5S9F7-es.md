@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BzefNnNKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QX5S9F7-es'
+slug: 'B07QX5S9F7-es Wrangler Larston Slim Jeans  Dark Rinse  32W / 32L para Hombre'
 actualPrice: 47.51 EUR
 currency: EUR
 price: 47.51

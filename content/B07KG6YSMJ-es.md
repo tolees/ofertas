@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m4f1n7huL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG6YSMJ-es'
+slug: 'B07KG6YSMJ-es PUMA Ralph Sampson LO  Zapatillas Unisex Adulto  Blanco White Peacoat White  48.5 EU'
 actualPrice: 42.4 EUR
 currency: EUR
 price: 42.4

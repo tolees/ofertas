@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uPhwd4b1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QS74C1T-es'
+slug: 'B07QS74C1T-es Nautica Reloj Cronógrafo para Hombre de Cuarzo con Correa en Caucho NAI19506G'
 actualPrice: 124.08 EUR
 currency: EUR
 price: 124.08

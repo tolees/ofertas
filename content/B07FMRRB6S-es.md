@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BMIVsZNmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMRRB6S-es'
+slug: 'B07FMRRB6S-es Adidas Terrex AX2R CP K  Zapatillas de Senderismo Unisex niño  Negro  Negbás/Negbás/Naalre 000   29 EU'
 actualPrice: 28.24 EUR
 currency: EUR
 price: 28.24

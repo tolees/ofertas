@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-I13ru0OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNV7GX9-es'
+slug: 'B07NNV7GX9-es Under Armour UA Charged Impulse  Zapatillas de Running para Hombre  Blanco  White/Halo Gray/Academy   42.5 EU'
 actualPrice: 41.79 EUR
 currency: EUR
 price: 41.79

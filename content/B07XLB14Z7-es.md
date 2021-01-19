@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51H8YeN%2BuHL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLB14Z7-es'
+slug: 'B07XLB14Z7-es LeYi Funda Xiaomi Redmi Note 8 Silicona Purpurina Carcasa con HD Protectores de Pantalla  Transparente Cristal Bumper Telefono Gel TPU Fundas Case Cover para Movil Redmi Note 8 ZX Oro Rosa'
 actualPrice: 3 EUR
 currency: EUR
 price: 3

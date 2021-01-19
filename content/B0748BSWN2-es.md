@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51z0gS4MZML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0748BSWN2-es'
+slug: 'B0748BSWN2-es Suministros para mascotas suave y acogedor algodón cubierta al aire libre Cama portable de la casa del animal doméstico del animal doméstico mascota perrera  M: 45x35x35cm  retro de la pared '
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

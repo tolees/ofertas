@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hHrRpfJnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVJB2W9-es'
+slug: 'B07NVJB2W9-es Libertroy Longitud del Tobillo de Invierno Polainas Delgadas Cachemira cálido Grueso sin pies Delgados elásticos Pantalones elásticos para Mujeres'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

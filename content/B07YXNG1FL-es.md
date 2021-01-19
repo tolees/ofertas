@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312lE+rZhnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXNG1FL-es'
+slug: 'B07YXNG1FL-es Under Armour Challenger III Jacket Hombre para Hacer  Ropa De Deporte Inspirada En Las Chaquetas Bomber  Azul  L'
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

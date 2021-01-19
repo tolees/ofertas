@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q+HyzNh1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M4GIW6F-es'
+slug: 'B01M4GIW6F-es New Balance ML373  Zapatillas para Hombre  Verde  Olive OLV   42.5 EU'
 actualPrice: 46.86 EUR
 currency: EUR
 price: 46.86

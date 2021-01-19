@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51l9yCZ4qxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J5G2GZW-es'
+slug: 'B00J5G2GZW-es HARTMANN - TIRITAS PLASTIC 20 UN'
 actualPrice: 0.47 EUR
 currency: EUR
 price: 0.47

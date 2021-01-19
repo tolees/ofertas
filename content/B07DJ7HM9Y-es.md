@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412F-g1mZrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ7HM9Y-es'
+slug: 'B07DJ7HM9Y-es New Balance 574S v2  Zapatillas para Mujer  Negro  Black/Black Teal Black   41 EU'
 actualPrice: 58.4 EUR
 currency: EUR
 price: 58.4

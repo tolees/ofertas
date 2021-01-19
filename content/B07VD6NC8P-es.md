@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uDAfLd2ML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD6NC8P-es'
+slug: 'B07VD6NC8P-es Geekworm Carcasa para disipador térmico Raspberry Pi 4 Modelo B con Doble Ventilador  Caja de aleación de Aluminio Raspberry Pi 4B  con Ventilador-Negro '
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

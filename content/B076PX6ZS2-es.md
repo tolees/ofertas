@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51F8CyhMxaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PX6ZS2-es'
+slug: 'B076PX6ZS2-es Skechers Graceful-Get Connected  Zapatillas para Mujer  Gris  Pink   37 EU'
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

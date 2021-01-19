@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61yKBk0bKIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1YBCKZ-es'
+slug: 'B07V1YBCKZ-es Azur Lane: Crosswave'
 actualPrice: 40.86 EUR
 currency: EUR
 price: 40.86

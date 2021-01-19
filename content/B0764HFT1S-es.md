@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413H2P-A+zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0764HFT1S-es'
+slug: 'B0764HFT1S-es Philips Sonicare - CleanCare Cepillo dental eléctrico sónico HX3212/61  Batería  110-220 V  2 pieza s '
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

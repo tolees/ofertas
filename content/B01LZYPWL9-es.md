@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gnzPSspLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZYPWL9-es'
+slug: 'B01LZYPWL9-es Brabantia Newicon Cubo de Basura con Pedal  Acero Inoxidable  Negro Mate  12 l'
 actualPrice: 29.29 EUR
 currency: EUR
 price: 29.29

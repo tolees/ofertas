@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41op2cWfpRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KRSQ9K-es'
+slug: 'B082KRSQ9K-es Parches Faciales Parches Antiarrugas Anti-Arrugas Parches Arrugas Faciales Para Alisar Arrugas Parches para la frente 1 paquete de 15 parches'
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

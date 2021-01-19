@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21qmYtvnY6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD3LBQ6-es'
+slug: 'B07VD3LBQ6-es Samsung EF-ZN970CPEGWW Clear View - Funda para Galaxy Note10  Galaxy Note 5G  Gris'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

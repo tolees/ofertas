@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BIh8Xw9eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781VKCPX-es'
+slug: 'B0781VKCPX-es Habitdesign - Estantería librería  estanteria despacho  Comedor o Salon  Medidas: 192x96x25 cm de Fondo  Roble Canadian - '
 actualPrice: 105.99 EUR
 currency: EUR
 price: 105.99

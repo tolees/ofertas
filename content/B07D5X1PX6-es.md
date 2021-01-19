@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Oj4qhzGAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5X1PX6-es'
+slug: 'B07D5X1PX6-es AZGIANT Toalla De Deporte  De Enfriamiento  Toalla De RefrigeracióN  Azul '
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518wncNfwqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1QJD22-es'
+slug: 'B07T1QJD22-es Cerradura de puerta portátil  Cerradura de viaje  Agregar cerradura adicional para mayor seguridad y privacidad  Cerradura sólida de servicio pesado para viajar  AirBNB  Hotel  Hogar  Apartamento'
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

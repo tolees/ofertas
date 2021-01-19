@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61R0BA4PumL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJPKKZH-es'
+slug: 'B07XJPKKZH-es PUMA SPIN Ball Balón de Fútbol  Unisex-Adult  Black-Ultra Yellow-Orange Alert  3'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

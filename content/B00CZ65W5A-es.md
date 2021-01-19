@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l-aSGCphL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CZ65W5A-es'
+slug: 'B00CZ65W5A-es whiskas Anti-Hairball de 60g para Bolas de Pelo de Uso Diario para Gatos  Pack de 8 '
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

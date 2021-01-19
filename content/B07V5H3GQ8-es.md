@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZlhGrIAVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5H3GQ8-es'
+slug: 'B07V5H3GQ8-es Jata MP423 CORTAPELOS  Gris  PEQUEÑO'
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

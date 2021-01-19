@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rUfwwxd6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JG96KQ-es'
+slug: 'B087JG96KQ-es Sawera Generador de Ozono portátil O3 Generador de Ozono purificador de Aire Ozono Máquina de Ozono + Acero Inoxidable'
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

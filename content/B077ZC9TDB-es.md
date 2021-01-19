@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BDuI+Fr3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZC9TDB-es'
+slug: 'B077ZC9TDB-es Pioneer TS-WX300A Subwoofer  Negro'
 actualPrice: 143.95 EUR
 currency: EUR
 price: 143.95

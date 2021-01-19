@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vibFaioUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZNRVMD-es'
+slug: 'B07NZNRVMD-es BRIKSMAX Kit de Iluminación Led para Fire Brigade-Compatible con Ladrillos de Construcción Lego Modelo 10197-Juego de Legos no Incluido'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

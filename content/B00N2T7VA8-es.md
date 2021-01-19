@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WVkW-c1uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N2T7VA8-es'
+slug: 'B00N2T7VA8-es Sikasil Pool  Sellante silicona neutra para sellados en piscinas  Blanco  300ml'
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

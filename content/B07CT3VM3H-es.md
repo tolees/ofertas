@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51W6OKsYVlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CT3VM3H-es'
+slug: 'B07CT3VM3H-es Echo Plus  2.ª generación  - Sonido de alta calidad y controlador de Hogar digital integrado  tela de color gris oscuro'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

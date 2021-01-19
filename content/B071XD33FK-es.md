@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rOuFsTEXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071XD33FK-es'
+slug: 'B071XD33FK-es Funko Pop! - Figura de Vinilo Watcher  22613 '
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

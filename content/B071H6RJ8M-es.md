@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41594kYRVDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071H6RJ8M-es'
+slug: 'B071H6RJ8M-es Antena GSM 3G de alta ganancia de pared interior  antena direccional para panel interior de 824-2500MHz para repetidor de repetidor de teléfono móvil con 5m de cable'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

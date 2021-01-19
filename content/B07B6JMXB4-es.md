@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RkE-1zS9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B6JMXB4-es'
+slug: 'B07B6JMXB4-es Tommy Hilfiger X Sujetador estilo bralette  Negro  Black 990   XS para Mujer'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

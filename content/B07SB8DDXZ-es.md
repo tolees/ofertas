@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t2EDsyPhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB8DDXZ-es'
+slug: 'B07SB8DDXZ-es Purina DentaLife Snack Dental para Gato con Sabor a Salmón 8 x 40 g - 1 Pack'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

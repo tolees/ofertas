@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XYlM1lSsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QRTKW-es'
+slug: 'B07V5QRTKW-es Tommy Hilfiger LowCut Essential Sneaker  Zapatillas para Mujer  Blanco  White Ybs   38 EU'
 actualPrice: 53.22 EUR
 currency: EUR
 price: 53.22

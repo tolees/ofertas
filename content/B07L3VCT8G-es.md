@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ICgL5EHqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3VCT8G-es'
+slug: 'B07L3VCT8G-es Aomekie Correa de hombro con cuello de cámara  correa de hombro doble'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

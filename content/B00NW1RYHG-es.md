@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lkm6f6LrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NW1RYHG-es'
+slug: 'B00NW1RYHG-es Kenwood KAH647PL Accesorio procesador de alimentos compatible con robot de cocina Chef y Major  color gris transparente'
 actualPrice: 107.06 EUR
 currency: EUR
 price: 107.06

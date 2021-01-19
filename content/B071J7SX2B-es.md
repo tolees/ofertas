@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zNG3sYWqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071J7SX2B-es'
+slug: 'B071J7SX2B-es Vampyr'
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

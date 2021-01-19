@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u-c1APnQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDDLXYH-es'
+slug: 'B07MDDLXYH-es Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 18630/4'
 actualPrice: 63.4 EUR
 currency: EUR
 price: 63.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pCrtNutOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3FTQY6-es'
+slug: 'B08B3FTQY6-es Aire Acondicionado Portátil Mini Enfriador de Aire con 3 Niveles de Potencia 7 Colores Luz 4 en 1 Air Cooler Ventilador Humidificador y Purificador para Trabajo y Hogar'
 actualPrice: 42.98 EUR
 currency: EUR
 price: 42.98

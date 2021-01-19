@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zLQBDk18L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VCZU8O-es'
+slug: 'B000VCZU8O-es Stanley 1-51-937 Martillo de carpintero'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

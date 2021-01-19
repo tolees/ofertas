@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IAULf-FLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5CH3SS-es'
+slug: 'B07S5CH3SS-es Love MoschinoJc4054pp1aMujerBolsos bandoleraMarfil  Avorio 5x13x20 centimeters  W x H x L '
 actualPrice: 69.51 EUR
 currency: EUR
 price: 69.51

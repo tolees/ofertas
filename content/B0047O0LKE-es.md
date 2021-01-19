@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PbKM4-qlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0047O0LKE-es'
+slug: 'B0047O0LKE-es Medisana Humidificador UHW  32 W  plástico  Plateado'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

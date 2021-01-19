@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41t3U1-MfwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDH1TLW-es'
+slug: 'B07SDH1TLW-es adidas I Lin Jogg FL Tracksuit  Unisex niños  Real Blue/Medium Grey Heather/Blue  3-4Y'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-iGuYcT-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078NMBHS8-es'
+slug: 'B078NMBHS8-es NIX Advance Marco Digital Fotos y Videos 8 Pulgadas HD. Pantalla IPS  16:10 . Calendario  Reloj. Auto On/Off. Rotación automática'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

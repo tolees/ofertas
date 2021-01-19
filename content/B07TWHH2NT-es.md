@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MWYelzO2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWHH2NT-es'
+slug: 'B07TWHH2NT-es Funko- Pop Marvel: Fantastic Four-Super-Skrull Collectible Toy  Multicolor  44994 '
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

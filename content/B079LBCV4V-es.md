@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EQwjP98hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LBCV4V-es'
+slug: 'B079LBCV4V-es Gifts Treat Turbante de Secado de Pelo Toalla de Secado de Pelo de Dibujos Animados en 3D Encantadora Envoltura Absorbente de Cabello Absorbente para Adultos y niños  Conejo '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

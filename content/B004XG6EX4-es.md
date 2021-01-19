@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410-A1w302L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004XG6EX4-es'
+slug: 'B004XG6EX4-es Max factor - Lipfinity  bálsamo y brillo de labios  color 130 delicioso  2 ml '
 actualPrice: 5.22 EUR
 currency: EUR
 price: 5.22

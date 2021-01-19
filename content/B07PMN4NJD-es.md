@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511F1u5Cm4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMN4NJD-es'
+slug: 'B07PMN4NJD-es Giochi Preziosi LLU93000 LOL Surprise - Sorpresa   color/modelo surtido'
 actualPrice: 122.03 EUR
 currency: EUR
 price: 122.03

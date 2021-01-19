@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31H2DVylFsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLDZXPG-es'
+slug: 'B07RLDZXPG-es AUKEY Batería Externa de 5000 mAh  Cargadores portátiles compactos con Modo a Corriente Baja  Cargador de batería para Phones  Auriculares Bluetooth  Pulsera de Actividad y más'
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

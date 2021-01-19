@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oiJM9RH8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ27D5X-es'
+slug: 'B07TZ27D5X-es Wrangler High Rise Skinny Jeans  Negro  Black Sea 45a   29W / 32L para Mujer'
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

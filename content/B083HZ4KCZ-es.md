@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zxvf91DXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HZ4KCZ-es'
+slug: 'B083HZ4KCZ-es J9503-Yt Anti-Fall Cartoon Cute Elk Snowflake Pattern Teléfono móvil Soft Shell TPU Phone Case Funda Protectora para iPhone'
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

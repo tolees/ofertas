@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417+tSreDpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DMH7GC-es'
+slug: 'B081DMH7GC-es Colmanda Cerveza Abrebotellas  4 Piezas Forma de Pistola Creativa Abridor de Botellas Abridor de Botellas de Cerveza para Inicio Bar Fiesta Beber'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

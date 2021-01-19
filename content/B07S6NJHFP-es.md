@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s8t5UKeaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NJHFP-es'
+slug: 'B07S6NJHFP-es PUMA NRGY Neko Retro  Zapatillas de Running para Hombre  Negro Black White/Green Glimmer  45 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

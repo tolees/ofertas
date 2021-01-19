@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411KFM83gwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK2D1HX-es'
+slug: 'B07RK2D1HX-es New Balance Fresh Foam Arishi V3  Zapatillas de Running para Hombre  Rojo  Neo Crimson Cr3   415 EU'
 actualPrice: 43.39 EUR
 currency: EUR
 price: 43.39

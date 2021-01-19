@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512xZu0A+bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7EIQ32-es'
+slug: 'B01N7EIQ32-es Mayting 3 pcs Pulsera de Piedra Natural de Ojo de Tigre Pulsera de Lava de curación Reiki Charme Chakra Hombres Mujeres Pulsera'
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

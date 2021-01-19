@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410AocSPiRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBX766L-es'
+slug: 'B07MBX766L-es GlobaLink Espejo Antivaho Redondo Espejo Ideal para Afeitar Maquillaje Cosméticos Ducha Cuarto de Baño Pared con Gancho Fijación Adhesiva Agente Anti-Niebla Color Plateado Acero Inoxidable Regalo'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31uByyZ8YyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LD94ZBG-es'
+slug: 'B07LD94ZBG-es Perla de agua dulce genuina 925 hecho a mano de plata esterlina sólida anillo tamaño 4 a 29 ES'
 actualPrice: 18 EUR
 currency: EUR
 price: 18

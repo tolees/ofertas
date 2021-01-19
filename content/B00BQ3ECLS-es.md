@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31IYZyrzXcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BQ3ECLS-es'
+slug: 'B00BQ3ECLS-es Easy-Macro - Macro + 4 - Objetivo Macro + 4 montado sobre un Pulsera para Smartphone/Tablet - Azul'
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

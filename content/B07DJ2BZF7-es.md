@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MLQ-rtxrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ2BZF7-es'
+slug: 'B07DJ2BZF7-es New Balance 997H Core  Zapatillas para Hombre  Gris  Team Away Grey/Pigment   36 EU'
 actualPrice: 37.56 EUR
 currency: EUR
 price: 37.56

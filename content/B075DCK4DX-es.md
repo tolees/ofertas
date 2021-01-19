@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pob4erETL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DCK4DX-es'
+slug: 'B075DCK4DX-es EIS  Aceite de masaje cálido prémium  Excitante efecto calor  olor choco  250ml'
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

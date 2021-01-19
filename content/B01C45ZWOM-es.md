@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5153vuk8+DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C45ZWOM-es'
+slug: 'B01C45ZWOM-es DIM Sublim Dentelle Sujetador  Negro  Black   90B para Mujer'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

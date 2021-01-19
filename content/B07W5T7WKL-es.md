@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H9SSmf4OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5T7WKL-es'
+slug: 'B07W5T7WKL-es GLOBE GS Chukka  Zapatillas de Skateboard para Hombre  Verde  Green Stone 29046   40 EU'
 actualPrice: 32.19 EUR
 currency: EUR
 price: 32.19

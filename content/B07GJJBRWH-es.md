@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LJTe95mBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJJBRWH-es'
+slug: 'B07GJJBRWH-es LKXHarleya Baby Anniversary Monthly Milestone Blanket Age Blanket Baby Mantas Newborn Photo Prop'
 actualPrice: 17.54 EUR
 currency: EUR
 price: 17.54

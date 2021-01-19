@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gqvIgCgsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8JMB5F-es'
+slug: 'B07V8JMB5F-es BOSS Serge-va sz40 Cinturón  Marrón  Medium Brown 212   95  Talla del fabricante: 80  para Hombre'
 actualPrice: 40.65 EUR
 currency: EUR
 price: 40.65

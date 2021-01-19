@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411bzfGzE8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H1KWEQY-es'
+slug: 'B01H1KWEQY-es Michael Kors Pendiente MK6176'
 actualPrice: 204.5 EUR
 currency: EUR
 price: 204.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EoY-GchyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4MW87Q-es'
+slug: 'B07N4MW87Q-es Tommy Hilfiger Bleecker TH Flex Satin Chino Gmd  Pantalones para Hombre  Gris  Twill Pf5   W30/L32  Talla del fabricante: 3230 '
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

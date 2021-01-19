@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GP5ImHKWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0058YRYJ8-es'
+slug: 'B0058YRYJ8-es Columbia Schooner Bank Gorra Cachalot  Unisex Adulto  Beige  Fossil   One Size  Adjustable '
 actualPrice: 16.35 EUR
 currency: EUR
 price: 16.35

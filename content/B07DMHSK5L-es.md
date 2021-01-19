@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ncdwL5hsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DMHSK5L-es'
+slug: 'B07DMHSK5L-es Philips Avent SCF043/27-2 - Tetinas natural flujo medio  3m+  con 2 agujeros'
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

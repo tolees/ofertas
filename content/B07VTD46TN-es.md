@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wF01XJLcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTD46TN-es'
+slug: 'B07VTD46TN-es Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones  Verde  Mystic Mint Heather MQ7   Medium para Hombre'
 actualPrice: 49.1 EUR
 currency: EUR
 price: 49.1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xS-S9+FxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0873NHJD2-es'
+slug: 'B0873NHJD2-es Giraffe and Annika - Limited Edition'
 actualPrice: 37.18 EUR
 currency: EUR
 price: 37.18

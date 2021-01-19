@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51npPqDMGIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PP8PN8S-es'
+slug: 'B07PP8PN8S-es The Blues'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

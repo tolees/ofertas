@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ln0OO2qxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPBYB2D-es'
+slug: 'B07SPBYB2D-es Teabelle Reloj Inteligente a Prueba de Agua Pantalla a Color Presión Arterial Pulsera Inteligente Mujer Recordatorio del Ciclo Menstrual Rosa'
 actualPrice: 19.12 EUR
 currency: EUR
 price: 19.12

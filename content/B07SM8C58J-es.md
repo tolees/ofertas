@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rdzmh46WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SM8C58J-es'
+slug: 'B07SM8C58J-es Funko Pop Games: PUBG - Hawaiian Shirt Guy  Multicolor  Estándar'
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67

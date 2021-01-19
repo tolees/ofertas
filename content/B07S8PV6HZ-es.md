@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f+govlM7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8PV6HZ-es'
+slug: 'B07S8PV6HZ-es PUMA Smash V2  Zapatillas Unisex Adulto  Negro Black/Hot Coral Team Gold White  42 EU'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

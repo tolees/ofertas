@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uLLrVywaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK4FR48-es'
+slug: 'B07RK4FR48-es Nike Pico 5  PSV   Zapatillas de Tenis Unisex Niños  Blanco  White/White/Pure Platinum 100   32 EU'
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

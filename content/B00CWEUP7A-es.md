@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kutpJj3aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CWEUP7A-es'
+slug: 'B00CWEUP7A-es Xylazel M88985 - Aceite teca 750 ml miel'
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

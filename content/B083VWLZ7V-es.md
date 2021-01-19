@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TCkaLn5vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083VWLZ7V-es'
+slug: 'B083VWLZ7V-es PULEN [3 Unidades] Protector de Pantalla Compatible con Xiaomi Redmi Note 9S Cristal Templado con [Sin Burbujas] [antihuellas] 9H Dureza HD Resistente a los arañazo'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

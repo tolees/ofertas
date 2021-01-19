@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51d0xmSbsbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQ8T35Q-es'
+slug: 'B07PQ8T35Q-es Playtex Soutien-Gorge Emboitant Avec Armatures Essential Elegance Sujetador con Aros  Negro  Noir 001   90B para Mujer'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

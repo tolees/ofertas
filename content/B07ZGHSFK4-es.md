@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61oGjZqEM6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZGHSFK4-es'
+slug: 'B07ZGHSFK4-es SUPRBIRD Juguete de Cuentas de Niños DIY  Cuentas Coloridas para Hacer Joyas para Niños Pulseras de Bricolaje Cuentas de Collares  550pcs '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

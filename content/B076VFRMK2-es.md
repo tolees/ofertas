@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SZ3w-Wh+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076VFRMK2-es'
+slug: 'B076VFRMK2-es WETOO Gorra de Béisbol de Lana de Invierno para Hombre  Orejeras Plegables'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

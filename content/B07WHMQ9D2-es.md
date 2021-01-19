@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414dmpo9bmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHMQ9D2-es'
+slug: 'B07WHMQ9D2-es Tubbz - Destiny Sweeperbot'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

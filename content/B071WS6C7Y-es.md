@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TABIZZxfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WS6C7Y-es'
+slug: 'B071WS6C7Y-es Colnatur Sport sabor Neutro  330grs. Proteína hidrolizada de colágeno Colnatur y Vitamina C  Magnesio  Manganeso  Zinc y vitaminas B2 y B3  11grs al día.'
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

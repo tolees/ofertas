@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Dh8+dmUVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ERC8DTG-es'
+slug: 'B01ERC8DTG-es L Oréal Paris - False Lash Mariposa  Máscara de Pestañas  Tono Sculpt'
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

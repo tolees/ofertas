@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HW-RxR4wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084YRTMXJ-es'
+slug: 'B084YRTMXJ-es Auriculares Bluetooth  Auriculares inalámbricos Bluetooth In-Ear Mini Auriculares Auriculares emparejamiento automático emergente Deportivos para Android/iPhone Apple Airpods'
 actualPrice: 19.77 EUR
 currency: EUR
 price: 19.77

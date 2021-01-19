@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qZqTFAhxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XG575YK-es'
+slug: 'B06XG575YK-es Albero Bambino SET12016CB - Set de minicuna  edredón + parachoques   color blanco'
 actualPrice: 47.54 EUR
 currency: EUR
 price: 47.54

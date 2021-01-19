@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EyY48bu8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D8RVL9K-es'
+slug: 'B07D8RVL9K-es Famhome - Cinturón elástico de cintura para mujer  estilo vintage Dorado Bright Belt-beige 90'
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

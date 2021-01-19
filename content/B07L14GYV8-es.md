@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GZ-AMZaEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L14GYV8-es'
+slug: 'B07L14GYV8-es Under Armour Rival Parte Superior del Calentamiento  Mujer  Negro  MD'
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EJw6CCFiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XMNDSHK-es'
+slug: 'B07XMNDSHK-es TEEHON Cartera Hombre  Cartera RFID  Cartera Cuero Hombre con 10 Tarjetas  Incluye 1 ID   2 Compartimentos para Billetes  1 Bolsillo para Monedas con Botón  Llavero y Regalo de Caja - Naranja Negro'
 actualPrice: 13.08 EUR
 currency: EUR
 price: 13.08

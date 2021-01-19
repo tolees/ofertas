@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KsfzPeL2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BFRQVKJ-es'
+slug: 'B08BFRQVKJ-es Kepae Juegos de Construcción Kit de Iluminación LED para Lego Speed Champion - 1974 Porsche 911 Turbo 3.0  Luces Luz LED Compatible con Lego 75895'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

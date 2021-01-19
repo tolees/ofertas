@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412zMLLveKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NT7YN-es'
+slug: 'B07S6NT7YN-es PUMA R78  Zapatillas Unisex Adulto  Grey  37.5 EU'
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

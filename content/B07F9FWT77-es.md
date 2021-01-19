@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u-GGwtrvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9FWT77-es'
+slug: 'B07F9FWT77-es Festina Reloj de Pulsera F20365/3'
 actualPrice: 178.12 EUR
 currency: EUR
 price: 178.12

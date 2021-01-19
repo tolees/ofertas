@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LeMD6qpFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078LLD5M5-es'
+slug: 'B078LLD5M5-es Maybelline New York - Color Sensational  Pintalabios Mate Hidratante  Tono 10 Nocturnal Rose'
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

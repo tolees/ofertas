@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oeTHhXjIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081GPHVV5-es'
+slug: 'B081GPHVV5-es FLYLINKTECH 3500mAh Batería de Repuesto para Dyson V8  21.6V Li-Ion Compatible con Dyson V8 Absolute Fluffy Animal Series Aspirador con 1 x Pre Filtro'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

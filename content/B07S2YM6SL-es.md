@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51d7VlUFfrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2YM6SL-es'
+slug: 'B07S2YM6SL-es Inscrok Tira 12V Luces 5M 150 Leds Non Impermeab 5050 SMD RGB Tiras de LED Kit Completo'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

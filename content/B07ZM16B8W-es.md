@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IRzp5sw+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZM16B8W-es'
+slug: 'B07ZM16B8W-es NMDD Ornament Modernen Minimalistischen Keramik Wassertropfen Handwerk Dekoration Wohnzimmer Restaurant Cafe Eingerichtet  Größe: 18 * 28 cm '
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

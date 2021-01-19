@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zsecLcqCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004Q1QKGW-es'
+slug: 'B004Q1QKGW-es Kelo-Cote Gel de silicona para el tratamiento de cicatrices'
 actualPrice: 23.02 EUR
 currency: EUR
 price: 23.02

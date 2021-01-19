@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ntQnLSTBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKX5DZN-es'
+slug: 'B07JKX5DZN-es Columbia Caldorado III Outdry  Zapatillas de Running para Asfalto para Hombre  Negro  Black  Zour 010   41 EU'
 actualPrice: 50.06 EUR
 currency: EUR
 price: 50.06

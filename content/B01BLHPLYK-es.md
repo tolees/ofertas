@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CHNlZyIJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BLHPLYK-es'
+slug: 'B01BLHPLYK-es Clarins  Crema diurna facial - 50 gr.'
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

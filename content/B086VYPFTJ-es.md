@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bvamuPwNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086VYPFTJ-es'
+slug: 'B086VYPFTJ-es Flauno Sacacorchos Eléctrico Inalámbrico  Profesional Automatico Abrelatas de Vino  Abridor Botellas Recargable con Corta Cápsulas  Vertedor de Vino  Tapón de Vino Silicona de Vacío  Caja de Regalo'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

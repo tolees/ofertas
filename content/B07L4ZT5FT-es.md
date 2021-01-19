@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LdX5nid1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4ZT5FT-es'
+slug: 'B07L4ZT5FT-es Adidas Terrex Eastrail GTX  Zapatillas de Deporte para Hombre  Multicolor  Gricua/Negbás/Gritre 000   46 EU'
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

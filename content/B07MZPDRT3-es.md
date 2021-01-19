@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LpG7GBohL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPDRT3-es'
+slug: 'B07MZPDRT3-es Gioseppo 56898  Zapatillas para Mujer  Plateado Plomo  41 EU'
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

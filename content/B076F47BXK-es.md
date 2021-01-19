@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mDVJ82sqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076F47BXK-es'
+slug: 'B076F47BXK-es Guess Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero W0970G2'
 actualPrice: 127.94 EUR
 currency: EUR
 price: 127.94

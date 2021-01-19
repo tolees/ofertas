@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZJpfZEBjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZP23WQ-es'
+slug: 'B07MZP23WQ-es Funko- Pop Vinilo: Gears of War S3: Queen Myrrah Figura Coleccionable  Multicolor  39055 '
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

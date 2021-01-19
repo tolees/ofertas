@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31S+mSCgrWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQTYH95-es'
+slug: 'B07SQTYH95-es Adidas Tensaur C  Zapatillas de Running Unisex niño  Noir Blanc Noir  33.5 EU'
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

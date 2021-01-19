@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418w0PdgUIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JN5C2ZW-es'
+slug: 'B07JN5C2ZW-es Tural - Protector de Colchón de Cuna Impermeable con Tratamiento de Aceite de Argán | Transpirable | Ajustable | Rizo 100% Algodón. Talla 60x120 cm'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

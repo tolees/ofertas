@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51f+VtDdnXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q5XV17R-es'
+slug: 'B07Q5XV17R-es Manijas de Inclinación para Asiento Delantero Derecho e Izquierdo para F-ord Fiesta MK6 2002-2008  1 par '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kn6+afRqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5VDBJ6-es'
+slug: 'B07V5VDBJ6-es HUGO - Record ns Zip  Bolsa de tela y playa Hombre  Azul  Navy   5x21x16.5 cm  B x H T '
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

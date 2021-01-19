@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wBtAAj7aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6LYLJM-es'
+slug: 'B07L6LYLJM-es Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable SKW2751'
 actualPrice: 118.95 EUR
 currency: EUR
 price: 118.95

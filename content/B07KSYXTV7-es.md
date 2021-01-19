@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sJFH0pQ1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSYXTV7-es'
+slug: 'B07KSYXTV7-es adidas Adilette Aqua K - Zapatillas  Unisex Niños  Negro Negbás/Ftwbla/Negbás  36 1/3 EU'
 actualPrice: 5.01 EUR
 currency: EUR
 price: 5.01

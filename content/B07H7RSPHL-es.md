@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41izcryNirL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H7RSPHL-es'
+slug: 'B07H7RSPHL-es Sereney Mujer Sexy Criada Disfraz Lace Lencería Hot Halter Picardias Camisón Transparente Cuello V Bata Maid Costume Cosplay Medium'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

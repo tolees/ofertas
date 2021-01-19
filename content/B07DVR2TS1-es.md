@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vJ0vlR62L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVR2TS1-es'
+slug: 'B07DVR2TS1-es Edifier W860NB Auriculares Bluetooth aptX con Smart Touch con cancelación Activa de Ruido - Negro'
 actualPrice: 59.68 EUR
 currency: EUR
 price: 59.68

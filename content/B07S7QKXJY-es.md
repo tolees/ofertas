@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r9zHj5y7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QKXJY-es'
+slug: 'B07S7QKXJY-es PUMA LQDCELL Hydra FM  Zapatillas Deportivas para Interior para Hombre  Gris  Tapioca/Yellow Alert   39 EU'
 actualPrice: 28.78 EUR
 currency: EUR
 price: 28.78

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D2ltOeWFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7WITHL-es'
+slug: 'B01N7WITHL-es Nautica Reloj de Pulsera NAPPRH001'
 actualPrice: 267.45 EUR
 currency: EUR
 price: 267.45

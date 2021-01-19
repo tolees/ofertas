@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r5eF6gJ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPW384C-es'
+slug: 'B07KPW384C-es Max Factor  Base de maquillaje  Matificante y minimizador de poros - 1 Unidad  30 ml  99240012252 '
 actualPrice: 6.64 EUR
 currency: EUR
 price: 6.64

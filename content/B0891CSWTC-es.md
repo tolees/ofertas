@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eyqDMQ1zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0891CSWTC-es'
+slug: 'B0891CSWTC-es Xiaomi Redmi Note 9 - Smartphone con Pantalla FHD+ de 6.53" DotDisplay  4 GB+128 GB  Cámara cuádruple de 48 MP con IA  MediaTek Helio G85  Batería de 5020 mAh  18 W de Carga rápida   Gris  VEspañola'
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gy2Eo1DJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076V93BMV-es'
+slug: 'B076V93BMV-es Telémetro Láser 60m Profesional Digital Multifuncional alta Precisión Medida Distancia Surface Volume contra el Polvo con LCD Retroiluminación para Exterior y Interior Tuercas'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510ZVkdAiUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVDBNZC-es'
+slug: 'B07TVDBNZC-es DISUPPO Bandas de Resistencia  Set de 3 ，Bandas Elasticas de Fitness para Yoga  Pilates  Estiramientos Bandas Antideslizantes de Ejercicios para Fuerza de Piernas y Glúteos'
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

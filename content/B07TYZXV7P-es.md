@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wphSBsTCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYZXV7P-es'
+slug: 'B07TYZXV7P-es Max Factor Perfect Gel Shine; Laca de Uñas  Tono 101 - 12 ml'
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

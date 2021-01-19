@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VC+0zrXqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JG7YAG8-es'
+slug: 'B00JG7YAG8-es Estee Lauder 56928 - Barra de labios'
 actualPrice: 12.32 EUR
 currency: EUR
 price: 12.32

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dyNC5uz7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OBBUBSU-es'
+slug: 'B00OBBUBSU-es Bosch Professional BT 150 - Trípode de construcción  55 – 157 cm  rosca 1/4"  en caja '
 actualPrice: 36.33 EUR
 currency: EUR
 price: 36.33

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31cSHuA5BBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQRBS5P-es'
+slug: 'B07KQRBS5P-es Salomon Alphacross  Zapatillas de Trail Running para Hombre  Blanco  White/White/White   40 2/3 EU'
 actualPrice: 36.09 EUR
 currency: EUR
 price: 36.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KQwlgO0tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071X9DZY1-es'
+slug: 'B071X9DZY1-es Palette Intense Cream Coloration Intensive Coloración del Cabello L4 Avellana Luminoso - Pack de 3'
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

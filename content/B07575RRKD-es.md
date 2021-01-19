@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411XsN2CbRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07575RRKD-es'
+slug: 'B07575RRKD-es Chicco Echo - Silla de paseo  ligera y compacta  soporta hasta 22kg  color azul  Mr Blue '
 actualPrice: 87.2 EUR
 currency: EUR
 price: 87.2

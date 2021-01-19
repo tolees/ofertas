@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41d3jaMpVZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076F4P3KK-es'
+slug: 'B076F4P3KK-es Safety 1st TIMBA con cojín  White/Red Line  - Trona de madera con cojín  color blanco y rojo'
 actualPrice: 61.48 EUR
 currency: EUR
 price: 61.48

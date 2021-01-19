@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aSlFDXpjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R88YMLX-es'
+slug: 'B07R88YMLX-es Grupo Erik Carpeta 4 anillas troquelada premium Glitter gold dreams'
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

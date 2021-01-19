@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xbQmR0riL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLQ4P8W-es'
+slug: 'B07NLQ4P8W-es Panasonic RP-HTX90NE-K - Auriculares Inalámbricos  Noise Cancelling  200 gr  24 H de Batería  Carga Rápida  Unidad Control 40 mm  Cable Extraíble  Control Voz  Bluetooth  Diseño Clásico  Color Negro'
 actualPrice: 77.68 EUR
 currency: EUR
 price: 77.68

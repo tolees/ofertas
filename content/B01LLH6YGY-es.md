@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q8vTfIykL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LLH6YGY-es'
+slug: 'B01LLH6YGY-es Monix Mineral - Cacerola alta 24 cm aluminio forjado con antiadherente  tipo piedra  sin PFOA  aptas inducción'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

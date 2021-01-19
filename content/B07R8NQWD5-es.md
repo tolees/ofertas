@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JgM2P9WrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R8NQWD5-es'
+slug: 'B07R8NQWD5-es Máscara de bricolaje para DJ PVC Casco Festival de música Malvavisco Sombrero Discoteca Bar Máscara Fiesta Disfraz Prestaciones Prestaciones - Blanco'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

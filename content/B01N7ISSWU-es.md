@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lGxWt1qWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7ISSWU-es'
+slug: 'B01N7ISSWU-es Yoffee - Gel de Ducha Antibacteriano y antiséptico  para Cuerpo  Manos y Pies  Jabón de Ducha  Previene y Elimina las bacterias  Hidrata  Calma y Elimina los malos olores  Sin Parabenos  Vegano  300ml'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

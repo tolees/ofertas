@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+6dYid44L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BWTCCDF-es'
+slug: 'B07BWTCCDF-es Nike Nk Acdmy Team L Hdcs Gym Duffel Bag  Unisex Adulto  Black/Black/White  MISC'
 actualPrice: 27.65 EUR
 currency: EUR
 price: 27.65

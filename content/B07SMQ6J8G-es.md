@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XUNG0Fk-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMQ6J8G-es'
+slug: 'B07SMQ6J8G-es Telémetro láser 40m  GALAX PRO Medidor Láser  Precisión ±2 mm  LCD Retroiluminación  Medición de distancia  Área Batería Incluida/MKL-C02'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

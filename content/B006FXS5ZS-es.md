@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iiR-+zzRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006FXS5ZS-es'
+slug: 'B006FXS5ZS-es Philips Bombilla de bajo consumo en forma de espiral de 8 W equivalente a 45 W en incandescencia  casquillo gordo E27  luz blanca cálida'
 actualPrice: 12.83 EUR
 currency: EUR
 price: 12.83

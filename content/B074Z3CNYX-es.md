@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310cTBRx7uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074Z3CNYX-es'
+slug: 'B074Z3CNYX-es Nespresso EN500BW De Longhi Lattissima One - Cafetera monodosis de cápsulas Nespresso con depósito de leche compacto  19 bares  apagado automático  color moccha marrón'
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Nu0JWG%2BOL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K369BFP-es'
+slug: 'B07K369BFP-es Adidas Vs Advantage Cl K  Zapatillas de Deporte Unisex Adulto  Multicolor Blapur/Ftwbla 000  38 2/3 EU'
 actualPrice: 24.6 EUR
 currency: EUR
 price: 24.6

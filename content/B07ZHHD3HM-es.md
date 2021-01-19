@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411-aVRnOkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHHD3HM-es'
+slug: 'B07ZHHD3HM-es Melissa Hilo Acrílico Ovillo de Lana Premium para DIY Tejer y Ganchillo  1u * 100g   Beige 35  Mediana'
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

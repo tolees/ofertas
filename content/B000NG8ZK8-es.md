@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sp7pNu5EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NG8ZK8-es'
+slug: 'B000NG8ZK8-es Casio Collection Despetador TQ140  Blanco'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

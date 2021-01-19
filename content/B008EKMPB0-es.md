@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nzpgoHRGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008EKMPB0-es'
+slug: 'B008EKMPB0-es B+W 1071068 - Filtro polarizador Circular MRC de 82 mm'
 actualPrice: 119.92 EUR
 currency: EUR
 price: 119.92

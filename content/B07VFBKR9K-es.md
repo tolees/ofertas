@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31saAC5ue8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFBKR9K-es'
+slug: 'B07VFBKR9K-es CARPISA ® Porta documentos mujer - Soya Wallet'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

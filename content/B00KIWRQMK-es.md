@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OrPb6p4ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KIWRQMK-es'
+slug: 'B00KIWRQMK-es Gigandet Reloj de Hombre Automático Sea Ground Reloj de Buceo Analógico Cuero Marrón G2-019'
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

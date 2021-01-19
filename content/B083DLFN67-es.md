@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EhSJ-u+rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DLFN67-es'
+slug: 'B083DLFN67-es Cubierta Webcam JEANGO 9pcs Ultradelgado Webcam Cover Slider Cubierta protectora de la cámara frontal Adecuado para teléfonos móviles tabletas computadoras portátiles 6 Negro 3 blanco 0.7mm'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

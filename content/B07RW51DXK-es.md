@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GNTI9-l+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RW51DXK-es'
+slug: 'B07RW51DXK-es Estera Para Parrilla de Yawao  Forro del Horno Teflon que Cocina las Esteras  Negro- 6 '
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

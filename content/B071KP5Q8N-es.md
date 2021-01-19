@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417kWVW3MyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KP5Q8N-es'
+slug: 'B071KP5Q8N-es Tommy Hilfiger Demi Lift Sujetador  Negro  Black 001   70D  Talla del Fabricante: 0D32  para Mujer'
 actualPrice: 20.21 EUR
 currency: EUR
 price: 20.21

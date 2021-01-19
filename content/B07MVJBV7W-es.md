@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QTGooBc8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJBV7W-es'
+slug: 'B07MVJBV7W-es Kipling - Imagine Pack  Bolsos totes Mujer  Multicolor  Tile Print   57x49x18 cm  B x H T '
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

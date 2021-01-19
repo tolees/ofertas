@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O2SO-lDdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085WRSNVQ-es'
+slug: 'B085WRSNVQ-es NOBRAND Baumwolle Seil Korb  Wäschekorb Baumwollseilkorb Geflochtene Körbe  Haltbar mit Griff Spielzeug Storage-Home Vorratsdosen aus Baumwolle Seil zur Organisation Von Wäsch Aufbewahrungskorb'
 actualPrice: 3.16 EUR
 currency: EUR
 price: 3.16

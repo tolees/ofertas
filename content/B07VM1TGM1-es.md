@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wkyCdRsHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VM1TGM1-es'
+slug: 'B07VM1TGM1-es Hackett London Slim Fit Logo Polo  Azul  593royal Blue 593   X-Large para Hombre'
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

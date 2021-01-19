@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51S+RR0eKkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HBYMRG-es'
+slug: 'B082HBYMRG-es ART VVIES Wandbild 24x24 Zoll Kunst Malerei mit Haken Leinwand Büro für Wohndekorationen Holzrahmen Berge Alpen Berchtesgaden Bayern Hintergrund'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

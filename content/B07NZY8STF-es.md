@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U4aDpNUpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZY8STF-es'
+slug: 'B07NZY8STF-es Skechers Ultra Flex 2.0-Kelmer  Zapatillas para Hombre  Verde  Olive Engineered Mesh/Synthetic/Trim Old   45.5 EU'
 actualPrice: 33.19 EUR
 currency: EUR
 price: 33.19

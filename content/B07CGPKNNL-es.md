@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51AUz-sX%2BHL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGPKNNL-es'
+slug: 'B07CGPKNNL-es Reloj Deportivos para Niños Niño Niña Resistente al Agua Digital Analógico Militares Impermeabl Deportivos Especiales al Aire Libre LED Despertador Multifuncionales  RojoAzul '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

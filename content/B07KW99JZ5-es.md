@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41onXM1EsAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW99JZ5-es'
+slug: 'B07KW99JZ5-es Salomon XA Pro 3D GTX W  Zapatillas de Trail Running para Mujer  Rojo  Deep Claret/Syrah/Coral Almond   45 1/3 EU'
 actualPrice: 54.04 EUR
 currency: EUR
 price: 54.04

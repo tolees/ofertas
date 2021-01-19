@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Krd+GkbvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JF8T64D-es'
+slug: 'B07JF8T64D-es Linterna LED Recargable 3500mAh  Linterna Tactica Impermeable IPX-6 con 5 Modos Super Brillante 800LM 6000K Zoom Ajustable T6 LED y Luz Lateral COB para Inspecciones  Camping  Ciclismo  trekking'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

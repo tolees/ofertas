@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qxXgHn6KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YYW8KD-es'
+slug: 'B079YYW8KD-es Flipping Death - Edición Estándar'
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

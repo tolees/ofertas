@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y43tuZ+WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FD2YQ40-es'
+slug: 'B01FD2YQ40-es prorelax TENS y EMS SuperDuo PLUS - Aparato de estimulación eléctrica'
 actualPrice: 82.69 EUR
 currency: EUR
 price: 82.69

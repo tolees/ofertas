@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IdjjmX2RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQBYJ8Q-es'
+slug: 'B07QQBYJ8Q-es MonQi 28 Piezas Juguete de Buceo Incluir Anillos de Buceo*4  Torpedos Bandidos*4  Palo de Buceo*5  Bolas de Buceo*3 Tesoro de Buceo*8 Tiburón*4'
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

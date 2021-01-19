@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GXFgJ8VlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2FY7WK-es'
+slug: 'B07D2FY7WK-es Dim Generous D4D58 Braguita  Rojo  Burdeos 6na     Tamaño del Fabricante:L  para Mujer'
 actualPrice: 7.73 EUR
 currency: EUR
 price: 7.73

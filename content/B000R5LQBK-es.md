@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51C6VxJ1duL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000R5LQBK-es'
+slug: 'B000R5LQBK-es Bosch Professional 2607010146 Bosch 2607010146-Cuchilla de Sierra caladora  Pack  Set de 10 Piezas'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

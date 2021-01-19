@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vv12lsHVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758KSWZK-es'
+slug: 'B0758KSWZK-es Star Wars: The Last Jedi  Digi Limitada '
 actualPrice: 3.87 EUR
 currency: EUR
 price: 3.87

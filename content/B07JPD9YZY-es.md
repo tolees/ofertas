@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JWf8Bdj-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPD9YZY-es'
+slug: 'B07JPD9YZY-es Weekend Peninsula 5 Pares Calcetines de Running Deportivos Compresión Ligera Hombres Mujer de Deporte Transpirables  EU 39-42  3X Negro + 2X Azul '
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

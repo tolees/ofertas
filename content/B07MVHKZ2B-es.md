@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ai2a1VRGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVHKZ2B-es'
+slug: 'B07MVHKZ2B-es Napapijri Semiury WOM Gorro de Punto  Morado  Purple Wine V01   Única  Talla del Fabricante: OS  para Mujer'
 actualPrice: 29.4 EUR
 currency: EUR
 price: 29.4

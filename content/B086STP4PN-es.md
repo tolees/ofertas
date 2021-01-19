@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3133oGQ8RrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086STP4PN-es'
+slug: 'B086STP4PN-es Bullpadel BEWER 19 Rojo Negro Naranja'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

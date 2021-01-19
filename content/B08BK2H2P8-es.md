@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mxyj7zdZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BK2H2P8-es'
+slug: 'B08BK2H2P8-es Kepae Juegos de Construcción Kit de Iluminación LED para Lego Lamborghini Sián FKP 37  Control Remoto Multiefectos Luces Luz LED Compatible con Lego 42115'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

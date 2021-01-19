@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CA7HG3w9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HT94CVS-es'
+slug: 'B00HT94CVS-es Einhell GC-ET 3023 - Recortabordes eléctrico  300W  230V  corte de hilo único  ancho de corte: 23cm   ref.3402050 '
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

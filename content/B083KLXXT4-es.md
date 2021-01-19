@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XbhciisSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083KLXXT4-es'
+slug: 'B083KLXXT4-es Scholl Plantillas Gelactiv Uso Diario Mujer + Crema de Pies para Durezas - 2 plantillas  Talla 35.5-40.5  + Crema 60ml'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

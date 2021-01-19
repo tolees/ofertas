@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cerL8EplL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSO6NZW-es'
+slug: 'B01BSO6NZW-es Philips Sonicare HX6322/04 - Cepillo de dientes eléctrico para niños con Bluetooth y App divertida'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31myxL3sitL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08531GNMF-es'
+slug: 'B08531GNMF-es Kasimir Espejo Maquillaje con Luz LED Aumento 5X Espejo de Maquillaje Táctil Ultra Alta Definición Profesional Espejo Cosmético Plegable Espejos - Rotación Ajustable de 360°blanco'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

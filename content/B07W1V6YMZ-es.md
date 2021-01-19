@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q7j2D5xML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1V6YMZ-es'
+slug: 'B07W1V6YMZ-es Skechers Skech-Air Stratus Super Galaxy  Zapatillas para Mujer  Beige Natural Mesh Negro Hot Melt Rojo Leopard Ntbk  38 EU'
 actualPrice: 37.41 EUR
 currency: EUR
 price: 37.41

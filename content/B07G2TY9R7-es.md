@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FKCa6j+GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2TY9R7-es'
+slug: 'B07G2TY9R7-es SPREEY Colchón Hinchable de aire-Cama de aire individual portátil:196X97X56cm colchon inflable individual eléctrico personal con bomba eléctrica incorporada bolsa de parche y bolsa de almacenamiento'
 actualPrice: 55.02 EUR
 currency: EUR
 price: 55.02

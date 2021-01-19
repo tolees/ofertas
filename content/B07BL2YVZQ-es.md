@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/319x9zeQusL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL2YVZQ-es'
+slug: 'B07BL2YVZQ-es New Balance 220  Zapatillas para Mujer  Negro  Black/White Tpb   41.5 EU'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

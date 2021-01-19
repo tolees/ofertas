@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418Zvo5wbWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNGS7PP-es'
+slug: 'B08BNGS7PP-es Feagar Lima Pies para quitar Dureza y Callo Duro  Kit Pedicura Lija para Durezas Pies  Raspador para Talones Secos y Agrietados'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

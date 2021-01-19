@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31v-mafxShL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08J6VPKCZ-es'
+slug: 'B08J6VPKCZ-es DEtasyXworld Funda para portátil de 15 Pulgadas Funda Protectora Repelente a Prueba de Golpes Funda para portátil y Tableta Funda para Macbook-Negro'
 actualPrice: 4.01 EUR
 currency: EUR
 price: 4.01

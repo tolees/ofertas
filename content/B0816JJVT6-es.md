@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Yc4Q3mu0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0816JJVT6-es'
+slug: 'B0816JJVT6-es DaMohony - Bebé Cuna Nido Portátil Recién Nacidos Reductora de Cama Cómodo Desmontable Transpirable Tumbona Algodón Suave Bebés Infantiles 0-3 Años'
 actualPrice: 25.4 EUR
 currency: EUR
 price: 25.4

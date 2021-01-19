@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DGwn+QeDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR7S25T-es'
+slug: 'B07FR7S25T-es Clarks Tri Spark  Zapatillas para Hombre  Blanco  White Leather-   46 EU'
 actualPrice: 30.14 EUR
 currency: EUR
 price: 30.14

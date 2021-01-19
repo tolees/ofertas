@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EhzkxsUOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000P4IQN4-es'
+slug: 'B000P4IQN4-es Bosch X-Line Titanio - Maletín de 70 unidades para taladrar y atornillar'
 actualPrice: 27.59 EUR
 currency: EUR
 price: 27.59

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51pFoGoyvAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVGY5GN-es'
+slug: 'B07SVGY5GN-es The Fisherman: Fishing Planet - Day One Edition [Versión Española]'
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31K7ha2k28L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPZ471T-es'
+slug: 'B07JPZ471T-es adidas Tastigo19 SHO Pantalones Cortos de Deporte  Hombre  Bold Blue/White  M'
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

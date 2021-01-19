@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315znnKNlsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XWVN3FG-es'
+slug: 'B07XWVN3FG-es Cuchara de Oreja Visible con LED Iluminado para Niños Kit de Cuidado de Oído'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

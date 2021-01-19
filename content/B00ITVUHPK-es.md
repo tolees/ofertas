@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ty7H4snKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ITVUHPK-es'
+slug: 'B00ITVUHPK-es Wd-40 - Lubricante Doble Accion  500 Ml'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

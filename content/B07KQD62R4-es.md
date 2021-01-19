@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L5mTzyflL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQD62R4-es'
+slug: 'B07KQD62R4-es Salomon ALPHACROSS W  Zapatillas de Trail Running para Mujer  Gris India Ink White Black  45 1/3 EU'
 actualPrice: 62.71 EUR
 currency: EUR
 price: 62.71

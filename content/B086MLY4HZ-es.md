@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YKwLTWS9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086MLY4HZ-es'
+slug: 'B086MLY4HZ-es YO-HAPPY Albornoces recién Nacidas  Cuidado del bebé  Suave'
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

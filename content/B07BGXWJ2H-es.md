@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RNS+zHigL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGXWJ2H-es'
+slug: 'B07BGXWJ2H-es Mochilas Antirrobo Ordenador 15.6 Pulgadas Adolescentes Escolares Computadora Portátil Impermeable con Puerto de Carga USB para Viajar  Escuela  Estudiantes  Negro'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

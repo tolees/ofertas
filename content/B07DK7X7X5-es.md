@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dLPcgBLyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK7X7X5-es'
+slug: 'B07DK7X7X5-es AZDOME Cámara de Visión Trasera para Coche con 120° Ángulo de Visión 640 x 480 Píxeles y 4 LED IPX67 Impermeable  Cámara Trasera para Dashcam GS63H'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XqUDs8sDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071GKYYKW-es'
+slug: 'B071GKYYKW-es adidas X_PLR  Zapatillas para Hombre  Negro  Core Black/Trace Grey Metallic/Core Black 0   46 2/3 EU'
 actualPrice: 46.02 EUR
 currency: EUR
 price: 46.02

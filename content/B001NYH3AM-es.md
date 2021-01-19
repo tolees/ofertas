@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PAHl+yCCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001NYH3AM-es'
+slug: 'B001NYH3AM-es Reebok Classic Lthr 2214  Zapatillas de Trail Running para Hombre  Blanco  Intense White/Light Grey   43 EU'
 actualPrice: 57.97 EUR
 currency: EUR
 price: 57.97

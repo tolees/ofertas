@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LXR+QoSEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000ET7F8C-es'
+slug: 'B000ET7F8C-es Crayola - 24 Crayolas variedad de colores'
 actualPrice: 4.71 EUR
 currency: EUR
 price: 4.71

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sqVxi0mmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084KS3TBC-es'
+slug: 'B084KS3TBC-es Proyector YABER Mini Portátil Proyector Cine en Casa 5000 Lúmenes Resolución Nativa 1280*720p  Vídeo Proyector con HiFi Altavoces Incorporados  Cubierta de Metal  Soporte HDMI/USB/VGA/AV'
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

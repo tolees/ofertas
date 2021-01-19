@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KEWMTvUCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZP2H71-es'
+slug: 'B07PZP2H71-es Taurus fresko 5b ventilador de techo con luz y mando a distancia  70 w  función verano/invierno  3 velocidades  120 cm de diámetro y 5 aspas'
 actualPrice: 116.0 EUR
 currency: EUR
 price: 116.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51e-QRo1NwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P64KZLX-es'
+slug: 'B07P64KZLX-es Lexar Tarjeta Lexar Professional 633x 1TB SDXC UHS-I'
 actualPrice: 216.16 EUR
 currency: EUR
 price: 216.16

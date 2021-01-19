@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NAp06lVHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWNLB1J-es'
+slug: 'B07PWNLB1J-es Under Armour Charged Bandit 5  Zapatillas para Correr para Hombre  Negro  Black/Halo Gray/Beta  004  004   40 EU'
 actualPrice: 59.06 EUR
 currency: EUR
 price: 59.06

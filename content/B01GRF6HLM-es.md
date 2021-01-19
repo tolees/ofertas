@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312Hg9cHrGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GRF6HLM-es'
+slug: 'B01GRF6HLM-es Bourjois Contour Clubbing; Delineador de Ojos. Tono 61 Denim pulse - 5 gr.'
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vwc9e28QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YB5JS1T-es'
+slug: 'B07YB5JS1T-es Taurus ETNA INOX 2 en 1 Grill plancha de asar'
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

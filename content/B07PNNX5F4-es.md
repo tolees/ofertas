@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OqWRfUvuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNNX5F4-es'
+slug: 'B07PNNX5F4-es Zenacolor - Set de 10 Canvas - Lienzos para Pintar 20x20cm - Todos los Tipos de Pintura sobre Tela - 100% Algodón sin Ácidos'
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21kPnzGN7pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5W90KS-es'
+slug: 'B01N5W90KS-es Samsung Clear View Standing  Funda para smartphone Samsung Galaxy S8 Plus  Negro'
 actualPrice: 35.47 EUR
 currency: EUR
 price: 35.47

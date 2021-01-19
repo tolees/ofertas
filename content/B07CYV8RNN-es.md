@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41321GUFtvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYV8RNN-es'
+slug: 'B07CYV8RNN-es Skechers Flex Appeal 3.0-Endless Glamo  Zapatillas para Mujer  Negro  Black Mint Bkmt   37.5 EU'
 actualPrice: 28.3 EUR
 currency: EUR
 price: 28.3

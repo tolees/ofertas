@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jCJmLoLaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRZCGVS-es'
+slug: 'B07PRZCGVS-es New Balance 373  Zapatillas para Hombre  Azul  Navy Navy   37 EU'
 actualPrice: 23.57 EUR
 currency: EUR
 price: 23.57

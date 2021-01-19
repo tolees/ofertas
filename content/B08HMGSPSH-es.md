@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411qNUutmXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HMGSPSH-es'
+slug: 'B08HMGSPSH-es 10 PCS Salvaorejas Mascarillas Extensor  Protectores de Orejas  Sujeta Mascarillas ó Enganche para Mascarillas  Extender Ganchos para Máscara  Despídete del Dolor en las Orejas'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

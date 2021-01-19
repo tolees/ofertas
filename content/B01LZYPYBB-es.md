@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ebdcXJl5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZYPYBB-es'
+slug: 'B01LZYPYBB-es Brabantia Cubo de Basura con Pedal  Inoxidable  Acero Mate Anti-Huellas  5 l'
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

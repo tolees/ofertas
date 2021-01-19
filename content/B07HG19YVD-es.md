@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nron+fH0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG19YVD-es'
+slug: 'B07HG19YVD-es Zenph Tiendas de campaña Familiares  Tienda de campaña instantánea Impermeable a Prueba de Lluvia para 2 Personas  automático  emergente  Carpa  Verano al Aire Libre'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

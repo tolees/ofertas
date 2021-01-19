@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HTlkf1IZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBWF3RY-es'
+slug: 'B07LBWF3RY-es IPOTCH 1 Piezas De Pinceles De Pintura De Arte  Aceite Acrílico  Pincel De Artista De Acuarela  Pinceles Negros para Suministros De Pintura De Arte  Herramie - 20mm'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

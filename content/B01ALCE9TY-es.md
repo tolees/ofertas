@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61tj3yJh+oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ALCE9TY-es'
+slug: 'B01ALCE9TY-es Forestry 2017'
 actualPrice: 18.67 EUR
 currency: EUR
 price: 18.67

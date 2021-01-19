@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51o0IoK2zDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XO24JB2-es'
+slug: 'B00XO24JB2-es Fostprint Complemento EnergÃ©tico con AminoÃ¡cidos - 300 ml'
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

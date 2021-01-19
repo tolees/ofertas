@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41axYOtoNLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3NFGWP-es'
+slug: 'B07Q3NFGWP-es Axe Collision Bodyspray Desodorante Leather & Cookies para hombre - Pack de 6 x 150 ml  Total: 900 ml '
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

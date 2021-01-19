@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Om-X5J1pL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYQXZGX-es'
+slug: 'B07JYQXZGX-es Tommy Hilfiger TJM Tommy Classics Solid Polo  Rojo  Flame Scarlet 667   Medium para Hombre'
 actualPrice: 27 EUR
 currency: EUR
 price: 27

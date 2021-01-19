@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wib+cdRSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001DXKGKM-es'
+slug: 'B001DXKGKM-es HP 304 - Cartucho de tóner Original HP 304A Amarillo para HP Color LaserJet CP2025  CM2320mfp'
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

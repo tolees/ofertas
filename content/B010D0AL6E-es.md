@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HQHjdqgHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010D0AL6E-es'
+slug: 'B010D0AL6E-es Bosch PCM 8 - Ingletadora en caja de cartón  Pinza  disco de sierra Optiline Wood  saco para polvo  1.200 W '
 actualPrice: 133.45 EUR
 currency: EUR
 price: 133.45

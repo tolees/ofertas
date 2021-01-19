@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uj5Uqd7fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RDFFBHW-es'
+slug: 'B00RDFFBHW-es Durex Lubricante de Base Agua Efecto Frío - 50 ml'
 actualPrice: 7.46 EUR
 currency: EUR
 price: 7.46

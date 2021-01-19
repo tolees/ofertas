@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Yf7I7vqcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079C6KRTW-es'
+slug: 'B079C6KRTW-es Jack & Jones Jjepaulos Polo SS Noos  Azul  Bright Cobalt Detail: Slim Fit   X-Large para Hombre'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

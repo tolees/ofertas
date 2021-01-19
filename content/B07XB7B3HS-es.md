@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51E+jFbT3dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XB7B3HS-es'
+slug: 'B07XB7B3HS-es ERIK - Calendario de pared 2020 La Casa de Papel  30 x 30 cm'
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

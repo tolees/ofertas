@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kPqN8nTrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9MQ48T-es'
+slug: 'B06X9MQ48T-es Garnier Skin Active Rescue Mask - Mascarilla Reparadora de Miel y Ceramida'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

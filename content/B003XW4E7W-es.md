@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s7EafMz3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003XW4E7W-es'
+slug: 'B003XW4E7W-es HP CE323A 128A Cartucho de Tóner Original  1 unidad  magenta'
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

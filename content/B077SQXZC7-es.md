@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WZsPqOg-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SQXZC7-es'
+slug: 'B077SQXZC7-es Iimpiador de cera de oídos  Salud Cerumen Entferner para el cuidado Baby para niño niña + 5 pcs Acero Inoxidable cerumen Distancia unicon Irisette Tool Health Ear Care Juego para niños adultos mayores'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

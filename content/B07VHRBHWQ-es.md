@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hyk1JfLwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHRBHWQ-es'
+slug: 'B07VHRBHWQ-es Desigual Foul Midnight Bufanda  Azul  Navy 5000   Talla única  Talla del fabricante: U  para Mujer'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

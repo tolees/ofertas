@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MdX1cQ17L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YMLXDD-es'
+slug: 'B077YMLXDD-es Maidenform Love The Lift Push-up and In Strapless Sujetador  Negro  Black Xbk   95B  Talla del Fabricante: 36B  para Mujer'
 actualPrice: 32.65 EUR
 currency: EUR
 price: 32.65

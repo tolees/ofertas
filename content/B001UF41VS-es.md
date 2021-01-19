@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tBDIivE0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001UF41VS-es'
+slug: 'B001UF41VS-es Lékué Duo Redondo Rojo Molde Pastel  Silicona  23 x 7 x 23 cm'
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

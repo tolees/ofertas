@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410gFckHsWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KPJN3H-es'
+slug: 'B072KPJN3H-es Salewa WS Ultra Train 2  Zapatillas de Running para Asfalto para Mujer  Azul  Capri/Poseidon 3395   36.5 EU'
 actualPrice: 61.13 EUR
 currency: EUR
 price: 61.13

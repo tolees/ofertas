@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61PHc19MV1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJY5GST-es'
+slug: 'B07BJY5GST-es BOSHUN Pintar por Numeros para Adultos Niños Pintura por Números con Pinceles y Pinturas Decoraciones para el Hogar Choza de Campo  16 * 20 Pulgadas  Sin Marco '
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

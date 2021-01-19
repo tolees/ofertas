@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cDoazj2rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016C2APSG-es'
+slug: 'B016C2APSG-es Maybelline New York - Lash Sensational Intense Black  Máscara de Pestañas  Tono Negro Intenso - 9 5 ml'
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21lyyF71oyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSDQNGL-es'
+slug: 'B07SSDQNGL-es Eristoff Vodka Pack 3 x 1000 ml - Total: 3L'
 actualPrice: 17.93 EUR
 currency: EUR
 price: 17.93

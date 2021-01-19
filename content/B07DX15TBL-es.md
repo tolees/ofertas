@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XGN-DW69L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DX15TBL-es'
+slug: 'B07DX15TBL-es New Balance Core Fleece Capucha  Mujer  Pigment  Small'
 actualPrice: 22.59 EUR
 currency: EUR
 price: 22.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nUImuFTGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTDKWFN-es'
+slug: 'B07TTDKWFN-es Skechers Skech-Air Dynamight-Fast Brak  Zapatillas para Mujer  Morado  Mauve Mesh/Off White Trim MVE   38 EU'
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

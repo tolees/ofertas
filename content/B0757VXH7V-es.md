@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R2xsYxX3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757VXH7V-es'
+slug: 'B0757VXH7V-es Carcasa con certificación militar para Apple iPhone'
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

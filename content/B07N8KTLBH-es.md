@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31P1sd47RRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8KTLBH-es'
+slug: 'B07N8KTLBH-es BOSS Tylir-Stripe_sz35 Cinturón  Azul  Navy 410   120 para Hombre'
 actualPrice: 23.47 EUR
 currency: EUR
 price: 23.47

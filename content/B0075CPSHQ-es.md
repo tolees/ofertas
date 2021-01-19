@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Req542dEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0075CPSHQ-es'
+slug: 'B0075CPSHQ-es POP! Vinilo - Disney: Minnie Mouse'
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

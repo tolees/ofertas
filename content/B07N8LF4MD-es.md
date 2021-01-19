@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j1IQIJ99L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8LF4MD-es'
+slug: 'B07N8LF4MD-es Tommy Hilfiger POPPY BACKPACKMujerBolsos bandoleraNegro  Black  13x40x31 centimeters  B x H x T '
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

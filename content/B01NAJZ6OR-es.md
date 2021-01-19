@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319AFkF6xpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAJZ6OR-es'
+slug: 'B01NAJZ6OR-es Bourjois Healthy Mix Concealer Corrector Tono 53 Dark - 29 gr.'
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

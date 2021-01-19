@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ge69ZK-DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077K7ZFTT-es'
+slug: 'B077K7ZFTT-es Lenovo 120S-14IAP - Ordenador portátil de 14" HD  Intel Celeron N3350  4 GB de RAM  128 GB de SSD  Windows Home 10 Home   color Mineral Grey - Teclado QWERTY español'
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

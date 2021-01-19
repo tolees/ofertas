@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5142TXia0aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPDFCZ8-es'
+slug: 'B07FPDFCZ8-es LEMCASE Tijeras de Cocina  Scissors Multiuso - Cuchilla de Acero Inoxidable con Cubierta Protectora | Azul'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

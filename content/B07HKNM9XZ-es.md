@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41v%2BoUzJxBL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKNM9XZ-es'
+slug: 'B07HKNM9XZ-es Under Armour UA W Aura Trainer  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White/White  002  002   38 EU'
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

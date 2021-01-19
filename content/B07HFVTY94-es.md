@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hz2i1-2VL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFVTY94-es'
+slug: 'B07HFVTY94-es Autmor OBD II Auto Diagnóstico de Coches OBD2  OBD Lector de Código con Pantalla LCD Escáner de Códigos de Vehículos para Lecturar y Borrar de DTC  Herramienta de Diagnostico de Coches Portátil'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

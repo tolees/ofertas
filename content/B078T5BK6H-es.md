@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413Z0hf5fML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T5BK6H-es'
+slug: 'B078T5BK6H-es Tommy Hilfiger Tommy Jeans Textile Sneaker  Zapatillas para Hombre  Gris  Ink 006   40 EU'
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

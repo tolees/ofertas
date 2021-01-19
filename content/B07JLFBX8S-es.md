@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410X8GIPMtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLFBX8S-es'
+slug: 'B07JLFBX8S-es Lee Breese Pantalones para Mujer  Azul  Jaded Eu   30W / 35L'
 actualPrice: 27.07 EUR
 currency: EUR
 price: 27.07

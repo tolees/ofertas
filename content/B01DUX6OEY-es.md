@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51euzq5SBsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DUX6OEY-es'
+slug: 'B01DUX6OEY-es Knorr - Ligeresa - Crema de Verduras de la Huerta - 500 ml'
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

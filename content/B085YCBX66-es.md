@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512xMRbPHhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085YCBX66-es'
+slug: 'B085YCBX66-es YAMAMAY® Push up Bra - Whatever The Weather'
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

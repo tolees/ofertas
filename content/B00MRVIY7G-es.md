@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WZbuAFglL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MRVIY7G-es'
+slug: 'B00MRVIY7G-es Big Boy Golden XXL Capsulas - 45 Tabletas'
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

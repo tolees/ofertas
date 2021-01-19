@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yKuTLrz4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFZV96L-es'
+slug: 'B07HFZV96L-es New Balance Solvi h  Zapatillas de Running para Hombre  Azul  Blue Blue   46.5 EU'
 actualPrice: 60.7 EUR
 currency: EUR
 price: 60.7

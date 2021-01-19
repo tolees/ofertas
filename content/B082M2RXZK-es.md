@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ueR+wM62L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082M2RXZK-es'
+slug: 'B082M2RXZK-es Aigital Transmisor Receptor Bluetooth 5.0  2 en 1 Adaptador Bluetooth de Audio Soporte aptX Baja latencia en Modo TX  Adaptador RX  Jack Jack 3 5mm para TV PC MP3/MP4 Tablet Altavoz Estéreo'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

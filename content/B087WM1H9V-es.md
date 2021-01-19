@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZMCv0omRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WM1H9V-es'
+slug: 'B087WM1H9V-es FirstE Altavoz Portatil Bluetooth Luces LED Cambian Color  Impermeable IPX7 Flotante Altavoces Piscina Construido en Micrófono Sonido Estéreo Altavoz Inalámbrico para Bañera de Hidromasaje SPA Ducha'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

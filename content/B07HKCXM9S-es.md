@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61pO71YaiWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKCXM9S-es'
+slug: 'B07HKCXM9S-es WOSTOO Purpurinas Polvo Chunky Glitter Purpurina para el Rostro  Cara y Cuerpo Maquillaje Glitter Paillette Brillante Decoración para Pelo  Uñas y Mejilla -10 Cajas'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bBKE8dXzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVB2HRD-es'
+slug: 'B06WVB2HRD-es Princess 201852 Exprimidor Champion Juicer – Brazo de palanca extrafuerte profesional – Motor potente'
 actualPrice: 38.25 EUR
 currency: EUR
 price: 38.25

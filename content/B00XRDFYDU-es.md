@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f3NjjTpyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XRDFYDU-es'
+slug: 'B00XRDFYDU-es Swiss Military 6-4251.04.007'
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

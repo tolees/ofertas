@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eSehutwGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYTB23I-es'
+slug: 'B01LYTB23I-es EUCERIN PH5 Skin Protection Bálsamo Nutritivo 450 ml'
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

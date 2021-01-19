@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4122OUjSGbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTT5VM7-es'
+slug: 'B07CTT5VM7-es Marca Amazon - Happy Belly Café molido "Espresso Forte"  4 x 250g '
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

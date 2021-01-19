@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3163TW+0yeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VH8IHT0-es'
+slug: 'B00VH8IHT0-es Butterfly Pro Afeitadora Eléctrica para Mujer Afeitadora Rotativa Máquina de Afeitar Eléctrica Afeitadora Corporal de Skull Shaver'
 actualPrice: 43.16 EUR
 currency: EUR
 price: 43.16

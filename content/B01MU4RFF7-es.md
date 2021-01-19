@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51O8+l6ZRJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU4RFF7-es'
+slug: 'B01MU4RFF7-es Intex 56640EU - Manguitos hinchables Licencia Frozen'
 actualPrice: 1.83 EUR
 currency: EUR
 price: 1.83

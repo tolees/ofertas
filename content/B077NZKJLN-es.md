@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Sc1nqGU%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NZKJLN-es'
+slug: 'B077NZKJLN-es Inception  4K Ultra Hd+Blu Ray  [Italia] [Blu-ray]'
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

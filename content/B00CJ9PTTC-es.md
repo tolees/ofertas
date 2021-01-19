@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21uaXb0+wuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CJ9PTTC-es'
+slug: 'B00CJ9PTTC-es TATAY 4431401 - Standard Escobilla De Baño Wc  PP  Blanco  12.00X12.00X38.00 Cm'
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

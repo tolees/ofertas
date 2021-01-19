@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VfZ9CNCpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083PNSQT9-es'
+slug: 'B083PNSQT9-es VALSOLE Plantillas Ortopédicas soportes de arco y talones la absorción de choque- para el dolor de talón  pie plano  Fascitis Plantar  dolor de rodilla y espalda  40-41 EU  260mm   red-v7a '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

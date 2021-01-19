@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j-DPO0YGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YB1RZ8R-es'
+slug: 'B07YB1RZ8R-es WinWonder Kit de Arcilla de Modelado 24 Colores de Arcilla de Bricolaje Secado al Aire Arcilla Mágica Ultraligera con Herramientas de Modelado no Pegajosas Gran Regalo para Niños y Adultos'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

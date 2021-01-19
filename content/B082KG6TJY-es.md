@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ghz4D6yWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KG6TJY-es'
+slug: 'B082KG6TJY-es Rocontrip Funda de Silicona para Teléfono con el Cordón Manos Libres para el iPhone 6 6S 6 Plus iPhone 6S Plus  iPhone 7 y 7 Plus  Samsung  de 4.7-5.5 Pulgadas  Negro + Naranja '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

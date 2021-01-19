@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51645plEVYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XRGJ2V-es'
+slug: 'B085XRGJ2V-es BESTBOMG Cortapelos Profesional Hombre Máquina de Cortar con batería Li-ion 2500 mAh funcionamiento más prolongado durante 5-6 horas Pelo Cortador de Pelo Recargable Recortador de Barba Inalámbrico'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

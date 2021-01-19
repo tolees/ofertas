@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vXq937AoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9JY9HQ-es'
+slug: 'B01N9JY9HQ-es Disfraz de Can Can Madcap para Mujer'
 actualPrice: 13.47 EUR
 currency: EUR
 price: 13.47

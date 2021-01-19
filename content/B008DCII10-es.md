@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wuZE6BWPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008DCII10-es'
+slug: 'B008DCII10-es Faibo 607-2 - Pizarra de corcho'
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

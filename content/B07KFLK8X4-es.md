@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zEZkTSSoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFLK8X4-es'
+slug: 'B07KFLK8X4-es adidas RUNFALCON  Running Shoe Mens  Blanco Ftwbla Ftwbla Ftwbla 000  40 EU'
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

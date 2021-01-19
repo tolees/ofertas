@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PTUQDW2mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XBY42Q-es'
+slug: 'B005XBY42Q-es Helly Hansen Calshot Trunk  Bañador para Hombre  Azul  Azul Navy 597   Medium'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

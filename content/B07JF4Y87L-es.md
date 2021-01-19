@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iZkevIT4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JF4Y87L-es'
+slug: 'B07JF4Y87L-es Abanderado Lote X4 Slip de Algodón Calzoncillos  Azul  Marino 0m9   Large  Tamaño del Fabricante:52   Pack de 4  para Hombre'
 actualPrice: 13.32 EUR
 currency: EUR
 price: 13.32

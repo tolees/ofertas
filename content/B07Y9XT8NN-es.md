@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ckhm3XF8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9XT8NN-es'
+slug: 'B07Y9XT8NN-es María Barceló Sneaker Alta Piel Burdeos Mujer'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

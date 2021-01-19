@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qtpi+8D3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2WP9VJ-es'
+slug: 'B07K2WP9VJ-es Máquina picadora de carne manual  máquina trituradora de alimentos Picadora de salchichas Máquina multifuncional Picadora de verduras Procesador de alimentos de aleación de aluminio'
 actualPrice: 25.09 EUR
 currency: EUR
 price: 25.09

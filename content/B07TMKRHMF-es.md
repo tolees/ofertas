@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YN-W9zXLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMKRHMF-es'
+slug: 'B07TMKRHMF-es upHere LED Azul GPU Brace Soporte de Tarjeta gráfica  Un Soporte para Tarjeta de Video  GL28BE '
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

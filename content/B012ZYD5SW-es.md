@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41usAT51IGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012ZYD5SW-es'
+slug: 'B012ZYD5SW-es ZOEREA Uno-Pedazos de los bebés Romper el Smoking con el Bowknot para el Bautismo Boda'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nN4ypBj7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGLFTFG-es'
+slug: 'B07XGLFTFG-es Skechers Flex Advantage 3.0 Landess  Zapatillas para Hombre  Azul  Navy Knit/Synthetic/Trim NVY   45.5 EU'
 actualPrice: 26.57 EUR
 currency: EUR
 price: 26.57

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cuJi+lTcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082CWV6TR-es'
+slug: 'B082CWV6TR-es 20 Ml Perfume De Mujer Elegante Original  Fragancia De Flores Duradero Flor Refrescante Fabulosas Frutas Señora Perfume Eternity Euphoria'
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

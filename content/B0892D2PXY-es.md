@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21tPLa6OtuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0892D2PXY-es'
+slug: 'B0892D2PXY-es XILOSIN Blanco 30 del Pin Femenino a 5 Adaptador de Clavija Macho Longitud del Cable 11 cm Micro-USB para el iPhone'
 actualPrice: 3.13 EUR
 currency: EUR
 price: 3.13

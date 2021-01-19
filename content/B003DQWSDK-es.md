@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YHxJlSh3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003DQWSDK-es'
+slug: 'B003DQWSDK-es Gembird 1.8m USB 2.0 A/Micro-B M - Cable USB 2.0 a Micro USB  1.8m  Color Negro'
 actualPrice: 1.04 EUR
 currency: EUR
 price: 1.04

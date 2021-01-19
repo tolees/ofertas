@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wdzJS5JqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872VGQC7-es'
+slug: 'B0872VGQC7-es Webcam Full HD 1080p  Cámara Web USB con Micrófono Incorporado  Plug & Play/Ajustable  para PC/Computadora Portátil para Transmisión en Vivo  Videollamadas  Grabación de Video  Videoconferencia'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

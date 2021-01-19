@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21wfrImMX4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQCBH3F-es'
+slug: 'B07HQCBH3F-es Fujitsu Scansnap IX 1500  Escáner de documentos'
 actualPrice: 395.0 EUR
 currency: EUR
 price: 395.0

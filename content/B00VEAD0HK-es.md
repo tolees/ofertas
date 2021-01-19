@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414RTB6JjOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VEAD0HK-es'
+slug: 'B00VEAD0HK-es Andador Caminador de aluminio con rueda doble y sin asiento'
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

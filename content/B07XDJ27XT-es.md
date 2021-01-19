@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vtczQ4ouL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDJ27XT-es'
+slug: 'B07XDJ27XT-es Creative Kitchen - Bandeja de drenaje de fregadero retráctil Cesta de drenaje Filtro de fregadero de plástico multifunción Cesta de agua - Biege'
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

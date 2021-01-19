@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WnS8YEESL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4NP4I0-es'
+slug: 'B01N4NP4I0-es POP! Vinilo - Twin Peaks: Bob'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

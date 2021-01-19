@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41whGrtWmGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z7T0VWQ-es'
+slug: 'B00Z7T0VWQ-es OtterBox Defender - Funda anticaídas para Apple iPad Pro 11"  Color Negro'
 actualPrice: 54.62 EUR
 currency: EUR
 price: 54.62

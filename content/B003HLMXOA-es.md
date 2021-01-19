@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412ATL3ym7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003HLMXOA-es'
+slug: 'B003HLMXOA-es Revlon Super Lustrous - Pintalabios'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

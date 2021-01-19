@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414i0UJomBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NJ73Z-es'
+slug: 'B07S6NJ73Z-es PUMA Flyer Runner  Zapatillas de Running para Hombre  Azul  Dark Denim/Yellow Alert White 21   37.5 EU'
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

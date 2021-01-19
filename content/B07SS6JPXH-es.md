@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QH8L6GTeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SS6JPXH-es'
+slug: 'B07SS6JPXH-es Skin Scrubber Ultrasónico  WOWGO Exfoliación Facial Ultrasonica Pantalla LCD Limpiador de Poros Facial Masajeador y Elevación'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

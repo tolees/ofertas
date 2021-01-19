@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412lsH0Ip3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGK277W-es'
+slug: 'B07QGK277W-es Adidas Tensaur C  Unisex Niño  Multicolor  Azuosc/Ftwbla/Rojact 000   33 EU'
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VJ2C0DKVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DRERSJ2-es'
+slug: 'B00DRERSJ2-es BRA Bella - Vinagrera  4 Piezas  Acero Inoxidable 18/10 y Vidrio'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

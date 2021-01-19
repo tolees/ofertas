@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416dAZWgdZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN3QCJG-es'
+slug: 'B07VN3QCJG-es JACK JONES Jorflash Crew Neck Hombre  Azul  Sea Mossno Badge Knit Fit   Medium'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

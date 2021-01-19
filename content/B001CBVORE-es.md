@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413ewLD6E1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001CBVORE-es'
+slug: 'B001CBVORE-es Singer Tradition 2263 Máquina de Coser  Blanco'
 actualPrice: 121.66 EUR
 currency: EUR
 price: 121.66

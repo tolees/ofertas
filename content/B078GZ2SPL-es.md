@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sO2KAwsgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GZ2SPL-es'
+slug: 'B078GZ2SPL-es find. Bailarinas Planas con Empeine Alto Mujer  Beige  Sand   37 EU'
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

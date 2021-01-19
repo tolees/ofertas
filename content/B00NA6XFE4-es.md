@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21Z12xxmotL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NA6XFE4-es'
+slug: 'B00NA6XFE4-es Flexson SONOS Play:1 - Soporte de pie para SONOS Play:1  Negro'
 actualPrice: 44.61 EUR
 currency: EUR
 price: 44.61

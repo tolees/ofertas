@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-aCf3rtRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0888K4SGK-es'
+slug: 'B0888K4SGK-es Awroutdoor Push up Board  14 en 1 Equipo Multifuncional Plegable para Ejercicios en el hogar  Marco de Entrenamiento portátil Push-up  Utilizado para Hombres  Mujeres  Entrenamiento en el Hogar'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

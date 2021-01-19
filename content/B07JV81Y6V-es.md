@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ke-0K9jXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JV81Y6V-es'
+slug: 'B07JV81Y6V-es 5 Star: Fortnite: Omega Full Armor'
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

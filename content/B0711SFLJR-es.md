@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pXDCJmJrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711SFLJR-es'
+slug: 'B0711SFLJR-es Candado Fortlocks – Candado De Combinación De 4 Dígitos Para Casilleros  Ventanas  Estuches Y Cobertizos  Resistente  Combinación Reajustable  Resistente Al Agua Y A La Intemperie  1  plateado '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

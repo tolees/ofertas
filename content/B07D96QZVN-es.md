@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61ElQenF%2BCL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D96QZVN-es'
+slug: 'B07D96QZVN-es Animal Crossing New Leaf Welcome Amiibo SELECTS'
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

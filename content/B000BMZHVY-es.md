@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ylLkp1B6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BMZHVY-es'
+slug: 'B000BMZHVY-es HP Q6471A - Cartucho de tóner'
 actualPrice: 50 EUR
 currency: EUR
 price: 50

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WIvtVmz9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPT1H2W-es'
+slug: 'B07KPT1H2W-es Funko Bobble Captain Marvel: Pop 1 Figura Coleccionable  Multicolor  Talla única  37685 '
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

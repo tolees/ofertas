@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r6JFCYQJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HPFH99V-es'
+slug: 'B07HPFH99V-es Cartera Pepe Jeans Deadline vertical con cierre de clic Marrón'
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

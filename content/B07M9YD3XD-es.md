@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TdECoKggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9YD3XD-es'
+slug: 'B07M9YD3XD-es Lacoste HH9553 Pantalones  Beige  Viennois   36  Talla del Fabricante: 36/32  para Hombre'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

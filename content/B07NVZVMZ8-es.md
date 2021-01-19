@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g4IHT35fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVZVMZ8-es'
+slug: 'B07NVZVMZ8-es PLUMIER Triple Giotto Premium Toy Story'
 actualPrice: 15.3 EUR
 currency: EUR
 price: 15.3

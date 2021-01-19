@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i3t1HczsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0751RPVZ4-es'
+slug: 'B0751RPVZ4-es New Balance 574 Core Plus  Zapatillas para Hombre  Azul  Navy/Red   40 EU  Talla Fabricante: 6.5 UK '
 actualPrice: 58.35 EUR
 currency: EUR
 price: 58.35

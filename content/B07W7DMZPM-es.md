@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SF5Y2XbvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7DMZPM-es'
+slug: 'B07W7DMZPM-es Ganchos para silla de ruedas Silla de ruedas Cochecito Cochecito de niño Cochecito para colgar Gancho Cochecitos de bebé Bolsa de la compra Clip Cochecito Accesorios'
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

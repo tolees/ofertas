@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hAYQcKYPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XWXP9NT-es'
+slug: 'B07XWXP9NT-es Ens-ḁnc-hḁdṎr tḁ-po-n ure-trḁl dḮlḁtḁ-dṎr enc-hufe del pene pḁ-rḁ hṎm-bres jugu-etes pḁrḁ prḮ-ncḮpḮḁntes gḁy sṎ-nḮdṎ ensḁnc-hḁdṎr cṎnju-ntṎ de sṎndḁs pṎt-encḮ-ḁdṎr ext-ensṎr ḁc-erṎ hue-cṎ'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

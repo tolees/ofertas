@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411nKpCkTiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QRSGLK-es'
+slug: 'B073QRSGLK-es Mimosín Creaciones Flor de Lirio y Lima Suavizante Concentrado para 58 lavados - 9 Suavizantes'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

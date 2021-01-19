@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L4VsxbtbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WEIQR0I-es'
+slug: 'B00WEIQR0I-es Sony Handycam FDR-AX33 4KUHD - Videocámara  pantalla de 3"  zoom óptico 10x  estabilizador óptico   negro'
 actualPrice: 424.15 EUR
 currency: EUR
 price: 424.15

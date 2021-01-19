@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51acxdyQTkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFR7DG3-es'
+slug: 'B07GFR7DG3-es Pioneer TS-A1370-F - Altavoz coaxial de 3 vías  Color Negro'
 actualPrice: 61.52 EUR
 currency: EUR
 price: 61.52

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MKx9jTVWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HY0HUFQ-es'
+slug: 'B01HY0HUFQ-es Burrito Blanco Juego de Sábanas Blanco de Hostelería para Cama de Matrimonio de 135 cm x 190/200 cm  Disponible en más Medidas '
 actualPrice: 18.18 EUR
 currency: EUR
 price: 18.18

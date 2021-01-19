@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z0pzapO8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGYDPKZ-es'
+slug: 'B07QGYDPKZ-es NUBILY Cinturon Hombre Cuero Negro Marrón Jeans Reversible Piel Cinturón para Hombres Clásico Negocios Casual Trabajo Traje Hebilla Cinturones 125CM'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

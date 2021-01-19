@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311cMW1Q4xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8PLJJP-es'
+slug: 'B07B8PLJJP-es PUMA St Runner V2 Mesh  Zapatillas de Deporte Unisex Adulto  Black White  43 EU'
 actualPrice: 32.01 EUR
 currency: EUR
 price: 32.01

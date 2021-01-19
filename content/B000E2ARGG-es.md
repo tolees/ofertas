@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UWvfe9+tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000E2ARGG-es'
+slug: 'B000E2ARGG-es K&N KN-113 Filtro de aceite Oil Filter Powersport Cartridge Moto'
 actualPrice: 5.43 EUR
 currency: EUR
 price: 5.43

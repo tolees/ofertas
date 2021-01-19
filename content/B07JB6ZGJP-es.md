@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w3xoTWDeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JB6ZGJP-es'
+slug: 'B07JB6ZGJP-es Hackett London Aston Martin Racing Knitted Hzip Suéter  Azul  Blue 551   XL para Hombre'
 actualPrice: 57.55 EUR
 currency: EUR
 price: 57.55

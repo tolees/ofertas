@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O3oOZYLpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK1X94N-es'
+slug: 'B07MK1X94N-es KFD - Cargador de 65 W 19 V para ASUS ROG Swift PG278Q PG279Q 27 LCD Monitor Toshiba N193 V85 R33030 65W Intel NUC Kit D34010WYK / D54250WYK ASUS'
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

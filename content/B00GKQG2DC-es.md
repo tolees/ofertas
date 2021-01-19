@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ToopxTzwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GKQG2DC-es'
+slug: 'B00GKQG2DC-es Wilson Pro Feel Antivibrador Raqueta-Unisex  Amarillo/Dorado  NS'
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

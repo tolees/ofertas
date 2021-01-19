@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518tDQIv79L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLH8BPJ-es'
+slug: 'B07GLH8BPJ-es Luces de Botella de Vino con Corcho  10 Unidades  Funciona con Pilas  LED en Forma de Corcho Alambre de Cobre Plateado Luces de hada para Bricolaje  Fiesta  Decoración  Boda  Interior  Blanco Frío '
 actualPrice: 10.7 EUR
 currency: EUR
 price: 10.7

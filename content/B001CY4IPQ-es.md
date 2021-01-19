@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BTTLMZK3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001CY4IPQ-es'
+slug: 'B001CY4IPQ-es Vans Old Skool  Zapatillas Unisex Adulto  Negro  Black/White   36'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

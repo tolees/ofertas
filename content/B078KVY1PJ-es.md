@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RxLfTSnhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078KVY1PJ-es'
+slug: 'B078KVY1PJ-es Juguete para niños Ice Cream Trolley  Juega House Toy  Juego de simulación Toy Set  Juguete de rol de niños  Mini Trolley Shop Toy con luz y música'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-1VdKS0YL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XY167XQ-es'
+slug: 'B00XY167XQ-es Albal - Papel horno vegetal  estructura anti-adherente  impermeable  16 hojas  42 x 38 centímetros'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0
