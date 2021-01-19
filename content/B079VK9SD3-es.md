@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VK9SD3-es Casio G-SHOCK Reloj Digital Contador de pasos Sensor de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 96.0 EUR
 currency: EUR
 price: 96.0

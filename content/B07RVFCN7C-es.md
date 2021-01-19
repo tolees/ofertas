@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RVFCN7C-es Pepe Jeans Sloane Pantalones Beige Malt 845 Talla única...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

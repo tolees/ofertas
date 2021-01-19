@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00903LFMU-es LAYEN i-SYNC Adaptador de audio inalámbrico Bluetooth...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

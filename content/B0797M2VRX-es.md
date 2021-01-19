@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797M2VRX-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer White/Black/...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

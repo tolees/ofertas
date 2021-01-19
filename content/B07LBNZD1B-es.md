@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBNZD1B-es Helly Hansen Duffel 2 Bolsa De Viaje Deporte Unisex Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 58.87 EUR
 currency: EUR
 price: 58.87

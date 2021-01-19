@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ44LC0-es Nike Classic Cortez Leather Zapatillas para Mujer Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.45 EUR
 currency: EUR
 price: 59.45

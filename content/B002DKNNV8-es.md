@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002DKNNV8-es Hunters Original Tall Gloss Botas altas Mujer Morado...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.22 EUR
 currency: EUR
 price: 55.22

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGV1J38-es Cable guy Black Panther soporte de sujeción y carga para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

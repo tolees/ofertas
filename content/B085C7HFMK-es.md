@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085C7HFMK-es Yaspark Fenix 5X Correa Silicona Bandas 26mm Repuesto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

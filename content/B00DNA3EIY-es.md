@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DNA3EIY-es Terry - Armario plástico exterior 89.7 x 53.7 x 180 cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 90.3 EUR
 currency: EUR
 price: 90.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087WMB5QW-es Gually Une Fois-l Higienne - 50 piezas color azul'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

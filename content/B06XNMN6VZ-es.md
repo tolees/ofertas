@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XNMN6VZ-es Natural madera relojes MUJUZE Japón Movt reloj de cuarzo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.69 EUR
 currency: EUR
 price: 25.69

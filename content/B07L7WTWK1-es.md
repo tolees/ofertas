@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L7WTWK1-es Casio Reloj de Pulsera DW-5900-1ER'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

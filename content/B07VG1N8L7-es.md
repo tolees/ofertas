@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VG1N8L7-es ivencase Funda para iPhone 11 Pro Carcasa Transparente...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

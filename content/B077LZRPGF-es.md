@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077LZRPGF-es Timex Reloj Analógico para Mujer de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

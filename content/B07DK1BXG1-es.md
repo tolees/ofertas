@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK1BXG1-es Gola Aka202 Zapatillas Deportivas para Interior Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.38 EUR
 currency: EUR
 price: 11.38

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLQ6SWN-es J.Rosée Collares Mujer Colgante Plata de Ley 925 Circonita...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

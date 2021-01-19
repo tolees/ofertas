@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q7GG8BD-es Umi. Essentials - Auriculares de botón inalámbricos TWS W9...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.57 EUR
 currency: EUR
 price: 21.57

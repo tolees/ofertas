@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB4WJYJ-es Parasol Coche Bebe Infantil Lateral cortinilla Accesorio...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.83 EUR
 currency: EUR
 price: 5.83

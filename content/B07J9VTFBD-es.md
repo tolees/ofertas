@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J9VTFBD-es Lsnisni aspirador robótico Aspiradora automatica con un...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 98.88 EUR
 currency: EUR
 price: 98.88

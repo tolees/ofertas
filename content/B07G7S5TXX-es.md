@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G7S5TXX-es Beauty Glazed 63 Colores De Sombra De Ojos Polvo De...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

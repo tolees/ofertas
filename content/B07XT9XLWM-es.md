@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XT9XLWM-es ANKENGS Protector de Pantalla para Xiaomi Redmi Note 8 Pro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

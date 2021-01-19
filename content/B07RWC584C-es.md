@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWC584C-es Cadena Colgante de Silla de Peluquero Dorada para Ropa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

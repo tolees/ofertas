@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J3T1I3G-es Philips Avent Classic - Set de 2 chupetes decorados para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.82 EUR
 currency: EUR
 price: 4.82

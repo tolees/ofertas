@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV5YFC3-es NOVOO - Batería Externa 20000mAh Powerbank con 3 Puertos 1...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

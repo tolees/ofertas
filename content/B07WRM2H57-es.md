@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRM2H57-es The Yakuza Remastered Collection'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.64 EUR
 currency: EUR
 price: 44.64

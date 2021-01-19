@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PKY41NS-es New Balance 574v2 Zapatillas para Hombre Black Velocity...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 58.95 EUR
 currency: EUR
 price: 58.95

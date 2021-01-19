@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCF1PLR-es adidas Chaussures Advantage'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

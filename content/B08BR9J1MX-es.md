@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BR9J1MX-es Beforya Paris** – Pendientes largos Square – * Moonlight *...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YB1CR6M-es FORMIZON 3 Pack Bombas de Globo Manual Bombas de Globos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

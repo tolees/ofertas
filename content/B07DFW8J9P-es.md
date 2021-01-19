@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFW8J9P-es New Balance 500 Zapatillas para Hombre Negro Black/Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

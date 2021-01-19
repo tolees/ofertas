@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HY7N6MK-es Rowenta Perfect Steam Pro DG8626 Centro de Planchado...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

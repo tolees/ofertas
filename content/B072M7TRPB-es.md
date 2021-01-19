@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072M7TRPB-es Levi s Batwing Hoodie Capucha Mujer Gris Sportswear Hoodie...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

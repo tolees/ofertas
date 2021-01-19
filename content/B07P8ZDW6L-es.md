@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8ZDW6L-es Dove Loción Coporal Té Matcha - Pack de 3 x 400 ml Total:...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

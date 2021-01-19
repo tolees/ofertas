@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPW4LD-es Pepe Jeans Dom suéter Dulwich 594 Medium para Hombre'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.61 EUR
 currency: EUR
 price: 20.61

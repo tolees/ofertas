@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004S9EO4M-es Cudié Catànies - 80 gr.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.14 EUR
 currency: EUR
 price: 1.14

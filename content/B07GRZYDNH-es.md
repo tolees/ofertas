@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GRZYDNH-es Max Factor LipFinity Velvet Matte Pintalabios Tono 005...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

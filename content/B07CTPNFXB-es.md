@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTPNFXB-es FIND - Fab-mania Líquido de labios mate n.4 + Brillo de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

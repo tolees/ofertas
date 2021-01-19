@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007JIN77O-es Korres Crema De Manos Hidratante Almendra y Caléndula - 75...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

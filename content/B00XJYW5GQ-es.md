@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XJYW5GQ-es Reebok Classic Leather - Zapatillas de cuero para hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.31 EUR
 currency: EUR
 price: 43.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XX4KYCT-es New Balance 574 Zapatillas Hombre Verde Olive EGO 42 EU 8 UK'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

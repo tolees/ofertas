@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LXHN3O-es Rimmel London Exaggerate Automatic Lipliner. Perfilador de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.94 EUR
 currency: EUR
 price: 1.94

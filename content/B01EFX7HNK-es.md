@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EFX7HNK-es Ultratec Power 2 - Licuadora sin BPA 1500 W 32.000 rpm con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.83 EUR
 currency: EUR
 price: 55.83

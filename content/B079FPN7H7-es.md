@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FPN7H7-es Otterbox Symmetry - Funda Anti caídas Fina y Elegante para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

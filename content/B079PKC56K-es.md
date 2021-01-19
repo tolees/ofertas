@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PKC56K-es Brabantia Recipiente para Residuos Orgánicos Gris Oscuro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

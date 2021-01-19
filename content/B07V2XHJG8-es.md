@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2XHJG8-es VIMOV Bandas de Resistencia de Tela Booty Bands/Bandas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

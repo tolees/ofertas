@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PNUCE60-es Gardena 18291-20 Kit Negro Gris Naranja Plata'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.54 EUR
 currency: EUR
 price: 12.54

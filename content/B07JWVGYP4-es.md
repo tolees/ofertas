@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWVGYP4-es Columbia Nikiski Botas Bajas para Mujer Verde Nori...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 76.92 EUR
 currency: EUR
 price: 76.92

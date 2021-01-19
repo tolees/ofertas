@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9V3DYF-es Skechers Elite Flex Zapatillas para Hombre Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.53 EUR
 currency: EUR
 price: 30.53

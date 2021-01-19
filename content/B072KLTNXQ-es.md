@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KLTNXQ-es Vans Old Skool Zapatillas Unisex Niños Rosa Suede/Canvas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.35 EUR
 currency: EUR
 price: 35.35

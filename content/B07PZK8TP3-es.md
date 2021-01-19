@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZK8TP3-es Amzdeal Alcachofa de Ducha Cabezal de Ducha con 5 modos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.23 EUR
 currency: EUR
 price: 6.23

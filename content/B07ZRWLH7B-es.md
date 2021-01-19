@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRWLH7B-es Tom Ford FT0754 52N Dark Havana FT0754 Pilot Sunglasses...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 194.0 EUR
 currency: EUR
 price: 194.0

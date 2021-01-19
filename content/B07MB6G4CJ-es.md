@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MB6G4CJ-es Lacoste'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

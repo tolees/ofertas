@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DS1FG46-es Salomon Xview Access Máscara de esquí unisex Negro-...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXJWP5X-es Skechers Dyna-Lights Zapatillas para Niños Azul Navy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

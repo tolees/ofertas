@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQX7PQQ-es GANT MD. Extrafine Lambswool V-Neck suéter Gris Dk...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.07 EUR
 currency: EUR
 price: 49.07

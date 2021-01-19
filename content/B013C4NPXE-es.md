@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013C4NPXE-es adidas Stan Smith S75104 Zapatillas para Hombre Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 60.54 EUR
 currency: EUR
 price: 60.54

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M79D4RH-es Fossil Reloj de Bolsillo Digital FTW4019'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 149.4 EUR
 currency: EUR
 price: 149.4

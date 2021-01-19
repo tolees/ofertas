@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CHNV3S-es LNIEGE - Asiento de Seguridad para Coche con Ventosa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.43 EUR
 currency: EUR
 price: 2.43

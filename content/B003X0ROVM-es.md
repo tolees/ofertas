@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003X0ROVM-es Chloe 22810 Loción corporal - 200 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

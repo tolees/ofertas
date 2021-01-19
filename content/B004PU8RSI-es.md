@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004PU8RSI-es Grohe - Flexo de conexión flexible para Zedra color cromo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

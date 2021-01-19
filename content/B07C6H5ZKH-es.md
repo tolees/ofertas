@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C6H5ZKH-es Marca Amazon - IRIS & LILLY Braguita de Bikini Crochet...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.76 EUR
 currency: EUR
 price: 3.76

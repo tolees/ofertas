@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FBDD37B-es Rybozen 4K HDMI KVM Switch Caja de 2 Puertos Teclado Mouse...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

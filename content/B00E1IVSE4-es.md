@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E1IVSE4-es BioTechUSA Iso Whey Zero Premium Protein Isolat Pulver...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.91 EUR
 currency: EUR
 price: 19.91

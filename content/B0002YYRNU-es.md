@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002YYRNU-es FISCHER 052389 - Taco autoperforante GK Envase de 100 ud.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.71 EUR
 currency: EUR
 price: 23.71

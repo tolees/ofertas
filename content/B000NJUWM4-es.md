@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NJUWM4-es Fellowes 53062 Pack de 100 fundas para plastificar brillo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFKR59Y-es Adidas Runfalcon Zapatillas de trail running Hombre Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

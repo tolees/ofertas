@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081FSHHWZ-es Pack: Frozen + Frozen 2 BD [Blu-ray]'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

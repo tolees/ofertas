@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077L6PLT9-es Bourjois Velvet The Lipstick Barra de Labios Tono 13...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2 EUR
 currency: EUR
 price: 2

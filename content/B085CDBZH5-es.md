@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CDBZH5-es FMPC Carcasa con Cuerda Samsung Galaxy J6 Plus Cristal TPU...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

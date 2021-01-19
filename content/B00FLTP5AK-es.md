@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FLTP5AK-es H.Koenig V 85 Centro de Planchado 2400 W Cerámica Negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

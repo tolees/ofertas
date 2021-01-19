@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HSB5ZM2-es SHARP PS-940 Altavoces Bluetooth Karaoke Party con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

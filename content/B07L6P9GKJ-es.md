@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6P9GKJ-es FitFlop Lena Mocasines para Mujer Black All Black 090 39 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

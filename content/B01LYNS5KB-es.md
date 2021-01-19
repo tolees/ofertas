@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYNS5KB-es AGPTEK G02 Mini-Clip Reproductor de MP3 8 GB de Capacidad...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HZ3PGM-es UnitedheartES Banco de energía Caja de batería Cargador de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.47 EUR
 currency: EUR
 price: 2.47

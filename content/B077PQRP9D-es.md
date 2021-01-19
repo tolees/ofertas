@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PQRP9D-es Superga 2750 COTU Classic Zapatillas Unisex Rosa Pink Skin...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.68 EUR
 currency: EUR
 price: 24.68

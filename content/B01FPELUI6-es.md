@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FPELUI6-es "6 Especialidades de Cerveza Alemana" Colección de la...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

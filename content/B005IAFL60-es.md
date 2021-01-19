@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005IAFL60-es Ray-Ban Justin RB4165 - Gafas de sol Unisex Gris...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 83.51 EUR
 currency: EUR
 price: 83.51

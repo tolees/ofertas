@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9R9QPG-es SunneSolar - Panel Solar de Policristalino con 60 células...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 125.52 EUR
 currency: EUR
 price: 125.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0838XWFDG-es Grifo de Cocina Dalmo DBKF09KY Grifo Cocina Giratorio a...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

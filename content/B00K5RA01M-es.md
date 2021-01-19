@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K5RA01M-es Tommy Hilfiger 3p Brief Calzoncillos Blanco Blanco 100...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

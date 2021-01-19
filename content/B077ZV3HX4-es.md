@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZV3HX4-es Localizador de llaves'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

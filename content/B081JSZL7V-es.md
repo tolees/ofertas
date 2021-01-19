@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JSZL7V-es adidas Fef H Mini Equipamento de Fútbol Unisex niños...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.37 EUR
 currency: EUR
 price: 47.37

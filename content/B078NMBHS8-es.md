@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NMBHS8-es NIX Advance Marco Digital Fotos y Videos 8 Pulgadas HD....'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

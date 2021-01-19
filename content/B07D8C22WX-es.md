@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D8C22WX-es Dove Loción corporal - 6 de 190 ml. Total 1140 ml.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.17 EUR
 currency: EUR
 price: 18.17

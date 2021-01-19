@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079C4HPCW-es Birkenstock Rio Sandalia con Pulsera para Niñas Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.93 EUR
 currency: EUR
 price: 35.93

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M2BRYAT-es Festina Reloj Análogo clásico para Hombre de Cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

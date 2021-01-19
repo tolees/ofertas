@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014EBM3KA-es Osprey Farpoint 40 Men s Travel Pack - Volcanic Grey M/L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQBCLJ1-es SAMSUNG SM-R375NZKADBT Reloj Inteligente Negro 1 88 cm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.91 EUR
 currency: EUR
 price: 31.91

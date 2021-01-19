@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004IZOAFO-es Nespresso Krups Pixie XN3005 - Cafetera monodosis de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 88.72 EUR
 currency: EUR
 price: 88.72

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFTZZ6F-es Burton Tinder Mochilas Unisex Adulto Keef Heather'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.89 EUR
 currency: EUR
 price: 43.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JN2DS5F-es Buffalo Corin Zapatillas Altas para Mujer Negro Black 000...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 70.49 EUR
 currency: EUR
 price: 70.49

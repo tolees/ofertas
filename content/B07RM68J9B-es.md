@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM68J9B-es LolaPix Cojín Personalizado Comunión con tu Nombre y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

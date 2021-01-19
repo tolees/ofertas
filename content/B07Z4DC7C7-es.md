@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4DC7C7-es Controladora DMX Lixada 192 Canales DMX 512 Consola para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EGCX6ZI-es Columbia Peakfreak Nomad Chukka WP Omni-Heat Botas de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

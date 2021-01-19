@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087VH7KFX-es Columbia Lake 22 Chaquetas Hombre Bright Indigo M'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

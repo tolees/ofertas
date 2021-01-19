@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KZJERAE-es SAILUN® 48W LED Cristal Lámpara de Araña Moderna Lámpara...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.62 EUR
 currency: EUR
 price: 53.62

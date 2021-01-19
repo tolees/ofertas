@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLSVLDJ-es Clarks Clarkdale Gobi Botas Chelsea para Hombre Grau Taupe...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

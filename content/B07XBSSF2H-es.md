@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBSSF2H-es PUMA CB Retro Suit Woven Cl Chándal Hombre Black-Palace...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 52.46 EUR
 currency: EUR
 price: 52.46

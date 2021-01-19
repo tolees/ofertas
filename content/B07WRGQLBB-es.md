@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRGQLBB-es Black Shark 2 8GB+128GB Negro con Pro Kit Black Shark...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 459.0 EUR
 currency: EUR
 price: 459.0

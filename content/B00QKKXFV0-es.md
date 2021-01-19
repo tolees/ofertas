@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QKKXFV0-es Timberland Earthkeepers Oak Bluffs - Sandalias de cuero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30 EUR
 currency: EUR
 price: 30

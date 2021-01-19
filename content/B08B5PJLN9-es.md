@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5PJLN9-es Widamin 6Pack Protector de Pantalla para Mi Band 5 TPU...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

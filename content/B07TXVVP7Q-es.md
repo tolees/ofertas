@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXVVP7Q-es BRIKSMAX Kit de Iluminación Led para Lego City Tren De...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

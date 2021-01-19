@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CR6CP3E-es HBL Cruze Junior Shiny'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

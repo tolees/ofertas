@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IC0G6K2-es Original Buff Zelig Mineral Tubular Unisex Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

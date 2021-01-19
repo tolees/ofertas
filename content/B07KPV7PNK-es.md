@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPV7PNK-es Brazalete Deportivo Brazalete Running Armband Movil...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

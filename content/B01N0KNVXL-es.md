@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0KNVXL-es Easton Marlowe 6 PR Calcetines Estampados Hombre - 6pk #22...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

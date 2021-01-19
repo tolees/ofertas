@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0828RF8RM-es ivencase Funda para Samsung Galaxy A71 Ultra Fina Silicona...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

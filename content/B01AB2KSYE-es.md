@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AB2KSYE-es Einhell 4511396 Power X-Change - Batería de repuesto 18 V...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

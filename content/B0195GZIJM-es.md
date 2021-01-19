@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0195GZIJM-es Funko POP! Marvel Deadpool Two Swords - Figurina de vinilo'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

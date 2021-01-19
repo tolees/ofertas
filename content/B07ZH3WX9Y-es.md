@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZH3WX9Y-es L Oréal Brilliant Signature 305 Be Captivating Brillo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

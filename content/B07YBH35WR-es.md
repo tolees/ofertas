@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBH35WR-es Vans Full Patched Po II Capucha Morado Heliotrope/White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

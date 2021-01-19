@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00005NPSA-es Varta CR2430 - Pack de 1 pila Litio 3V 300 mAh'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.18 EUR
 currency: EUR
 price: 1.18

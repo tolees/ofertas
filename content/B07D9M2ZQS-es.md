@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9M2ZQS-es Sensor de nivel de agua ultrasónico con pantalla LCD de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.79 EUR
 currency: EUR
 price: 32.79

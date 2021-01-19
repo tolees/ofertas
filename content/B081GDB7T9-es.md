@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081GDB7T9-es BLU Ray 4k Grabadora DVD Reproductor Externo Portatil USB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

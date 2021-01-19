@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016MUBYVA-es Los Vengadores Temporada 6 Vol 1 The Avengers TV [DVD]'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

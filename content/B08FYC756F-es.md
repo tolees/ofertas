@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FYC756F-es EC67-R11 Módulo CMOS Red de Internet Cámara de Video HD...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.7 EUR
 currency: EUR
 price: 21.7

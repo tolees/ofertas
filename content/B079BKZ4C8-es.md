@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079BKZ4C8-es B Blesiya Disquete de Unidad Flash USB de Emuladores para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.82 EUR
 currency: EUR
 price: 18.82

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MS3WLB8-es Quinny 76909230 - Cuco plegable color rosa'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 98.0 EUR
 currency: EUR
 price: 98.0

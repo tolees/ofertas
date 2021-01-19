@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSZ1NDD-es Celio Pegetop Polo Azul Navy Blue 02 Navy Blue 02 Large...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.56 EUR
 currency: EUR
 price: 7.56

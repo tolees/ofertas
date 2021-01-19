@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJBYS1-es Kipling - Imagine Pack Bolsos totes Mujer Morado Dark Plum...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

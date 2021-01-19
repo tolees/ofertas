@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XVUQJ9M-es Orlane Crema diurna facial - 130 ml.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 65.22 EUR
 currency: EUR
 price: 65.22

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVX2M3N-es Superdry Orange Label Jogger Pantalones de deporte Gris...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RSXPRPH-es American Tourister Summerfunk Equipaje de Mano 55...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.97 EUR
 currency: EUR
 price: 53.97

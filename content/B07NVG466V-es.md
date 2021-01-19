@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVG466V-es 20 piezas de sombreros de spa transparentes desechables...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

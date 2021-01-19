@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HH9I6BM-es Adaptador VGA DB9 hembra a HD15 pines macho adaptador de'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZ6GZXJ-es ITECHNIK Recambios Cepillo Compatible Oral B Cabezal de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

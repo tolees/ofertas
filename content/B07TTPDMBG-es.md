@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPDMBG-es Kipling Abanu Bolsos con Bandolera para Mujer Negro Carbon...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.45 EUR
 currency: EUR
 price: 33.45

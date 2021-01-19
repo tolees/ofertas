@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2S3S5L-es Helly Hansen W Crew Midlayer Jacket Chaqueta Deportiva...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 110.99 EUR
 currency: EUR
 price: 110.99

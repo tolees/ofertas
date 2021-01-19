@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SY2XZU8-es Lotus Reloj Analógico para Niños de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.81 EUR
 currency: EUR
 price: 47.81

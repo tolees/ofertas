@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2ZR7HC-es WOSTOO Faja Reductora Adelgazante Hombre Mujer Neopreno...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

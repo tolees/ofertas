@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5TGNVX-es WMF Perfect Premium - Olla ultra rápida/a presión de acero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 126.99 EUR
 currency: EUR
 price: 126.99

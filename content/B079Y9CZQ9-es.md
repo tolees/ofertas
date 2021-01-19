@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Y9CZQ9-es Braun Facespa Pro 921 - Sistema para Depilación y Limpieza...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99

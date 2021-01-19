@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1J7TVC-es Clarks Step Weltfree Zapatillas para Mujer Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.39 EUR
 currency: EUR
 price: 21.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01596GLHU-es Suéter de Gasolina Industrias FW15-KWC283 591 PROFUNDO de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24 EUR
 currency: EUR
 price: 24

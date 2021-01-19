@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNZQ6N7-es Micrófono de cámara Emiral Micrófono de entrevista estéreo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MAUUE5T-es DC Heathrow M Zapatillas Hombre Negro Black 39 EU 6 UK'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

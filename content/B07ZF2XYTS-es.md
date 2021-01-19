@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZF2XYTS-es JK-2 Sacos de Yute 10pcs / Bolsa de Yute línea Impresa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

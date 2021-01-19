@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FD2YQ40-es prorelax TENS y EMS SuperDuo PLUS - Aparato de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 82.69 EUR
 currency: EUR
 price: 82.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY4HQF3-es Under Armour UA Remix 2.0 Zapatillas de Running Deportivas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.14 EUR
 currency: EUR
 price: 35.14

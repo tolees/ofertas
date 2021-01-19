@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AS6QCVG-es Swatch Reloj Digital para Hombre de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 86.1 EUR
 currency: EUR
 price: 86.1

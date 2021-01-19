@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BYNSB3L-es Pantalones Deportivos para Mujer para Yoga Running Fitness...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

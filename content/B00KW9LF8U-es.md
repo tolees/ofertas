@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KW9LF8U-es AUSONIA - 72007 ABRELATAS PROFESIONAL DE MESA'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 93.0 EUR
 currency: EUR
 price: 93.0

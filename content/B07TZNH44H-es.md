@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZNH44H-es Skechers Skech-Air Dynamight-Fast Brak Zapatillas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJTBKC2-es Columbia IVO Trail Breeze Zapatillas Deportivas para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.04 EUR
 currency: EUR
 price: 47.04

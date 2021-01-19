@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BCHCNLN-es Kayboo Memoria USB 512GB Pendrive Mental USB Memory Stick...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

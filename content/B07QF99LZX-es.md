@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF99LZX-es PUMA Prime Street Large Shopper Bandolera Mujeres Bridal...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

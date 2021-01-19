@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CJ9PTTC-es TATAY 4431401 - Standard Escobilla De Baño Wc PP Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAGZN2X-es Pulsera Hombre Acero Inoxidable Silicona Punk Rock...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

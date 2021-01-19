@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJXZCVS-es Konesky Fabricante de Fideos de Acero Inoxidable Máquina...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

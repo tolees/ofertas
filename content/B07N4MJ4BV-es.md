@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4MJ4BV-es Levi s Jax Botas Clasicas para Hombre Amarillo Medium...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.07 EUR
 currency: EUR
 price: 35.07

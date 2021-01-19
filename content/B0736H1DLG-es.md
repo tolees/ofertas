@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0736H1DLG-es Podofo Kit de cámara de respaldo inalámbrico DC 12V-24V...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

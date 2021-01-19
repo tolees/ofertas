@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDQ38RQ-es American Tourister Sunside Spinner 55/20 Equipaje de Mano...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 77.35 EUR
 currency: EUR
 price: 77.35

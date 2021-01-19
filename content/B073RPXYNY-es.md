@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RPXYNY-es Helly Hansen Classic Duffel Bag Bolsa Deportiva versátil y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.71 EUR
 currency: EUR
 price: 41.71

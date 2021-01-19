@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WRS8SH-es Lenny Sky EG.Liberty.PYV.MZ Conjunto Ropa Deportiva Gris...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W21Y4NQ-es Jack & Jones Jormastul Sweat Hood Capucha Azul Navy Blazer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.66 EUR
 currency: EUR
 price: 9.66

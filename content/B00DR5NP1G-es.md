@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DR5NP1G-es Lee Luke Jeans Clean Black 28W / 34L para Hombre'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.98 EUR
 currency: EUR
 price: 41.98

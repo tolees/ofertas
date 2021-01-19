@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJVDVGC-es Pro Breeze Digital Radiador de Aceite 2500W - 10 Elementos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

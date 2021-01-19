@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9YY9VY-es Extractor de Puntos Negro 3 Modos de Succión Eliminar...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

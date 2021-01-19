@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZRKGZ3-es J. Kersten BV WER-8347 Jarrón cerámica azul'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.38 EUR
 currency: EUR
 price: 14.38

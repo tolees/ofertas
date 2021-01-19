@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV8DK7F-es Tommy Hilfiger Th Baby Sock 3p Giftbox Newborn Calcetines...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.73 EUR
 currency: EUR
 price: 8.73

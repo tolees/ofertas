@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811PWTZ6-es Tamaño portátil Round Airplay 1080P Wireless WiFi Display...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.32 EUR
 currency: EUR
 price: 15.32

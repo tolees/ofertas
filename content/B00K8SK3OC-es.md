@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K8SK3OC-es Yazilind deslumbrante Oro plateado alrojoedor Pear cortada...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.76 EUR
 currency: EUR
 price: 3.76

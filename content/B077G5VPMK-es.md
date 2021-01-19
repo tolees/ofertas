@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077G5VPMK-es Brother HLL2370DN - Impresora láser monocromo con red y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

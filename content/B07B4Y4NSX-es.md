@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4Y4NSX-es TOUCHBeauty Limpiador Facial Sónico 2 en 1 con Masaje...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

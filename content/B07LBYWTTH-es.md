@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBYWTTH-es Etrogo Bombilla Crepuscular Led Sensor Luz E27 10W...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

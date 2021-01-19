@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TLJLZQ-es Funda iPhone 11 Pro 5.8" Silicona Anti-Golpes Detalles...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

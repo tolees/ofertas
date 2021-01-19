@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCC65M5-es Helly Hansen Feathering Náuticos para Hombre Azul Navy/Off...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.24 EUR
 currency: EUR
 price: 45.24

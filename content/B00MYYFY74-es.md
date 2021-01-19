@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MYYFY74-es Sennheiser Momentum in-Ear G Auriculares 3.5 mm 1/8"...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.29 EUR
 currency: EUR
 price: 48.29

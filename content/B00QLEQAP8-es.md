@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QLEQAP8-es NuPro - Kit de protectores de pantalla para Kindle y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

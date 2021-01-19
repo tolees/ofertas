@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZTDFRN-es PartyWoo Globos Oro Rosas Globos 44 Unidades de Globos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.7 EUR
 currency: EUR
 price: 10.7

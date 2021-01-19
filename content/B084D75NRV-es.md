@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084D75NRV-es Bisoo - 70x140 cm Protector de Colchón Bebé + Sabana...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

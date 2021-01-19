@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WCFT5J7-es Lámpara de techo LED Lámpara de sala de estar regulable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.72 EUR
 currency: EUR
 price: 49.72

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W3RD2BC-es Joma Gala Sudadera Hombre Rojo M'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

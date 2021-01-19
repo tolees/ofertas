@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXC9NZM-es TOUS colgante de mujer en Vermeil 18kt con perlas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.71 EUR
 currency: EUR
 price: 38.71

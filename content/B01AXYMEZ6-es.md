@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AXYMEZ6-es MASERATI Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 122.41 EUR
 currency: EUR
 price: 122.41

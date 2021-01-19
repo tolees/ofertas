@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWWZ6HH-es Antena de TV Antena de TV Digital HD para Interiores...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

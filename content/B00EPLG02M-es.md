@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EPLG02M-es ANDR.SECCHIELLO CUP CAKE 21 C/ACCES 1290 Modelos/colores...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSWY4X3-es Womanizer +Size Vibrator Potente estimulador del clítoris...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

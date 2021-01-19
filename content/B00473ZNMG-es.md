@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00473ZNMG-es Amefa Modelo Actual Cubertería 24 Piezas Acero Inoxidable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.46 EUR
 currency: EUR
 price: 31.46

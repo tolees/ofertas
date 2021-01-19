@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFXSPTW-es BYDT HP 593553-001 Laptop Baterías para HP 593554-001 MU06...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

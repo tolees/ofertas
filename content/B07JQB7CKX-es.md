@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQB7CKX-es ATZEBE Cable HDMI Fibra Óptica - 50m Cable HDMI 4k...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

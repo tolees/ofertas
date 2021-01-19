@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B1WJNFP-es Tottenham Hotspur FC - Pack de dos chupetes oficiales...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

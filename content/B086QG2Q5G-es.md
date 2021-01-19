@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QG2Q5G-es Agger Transparente bebé de Silicona Mam Anillo Chupete...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

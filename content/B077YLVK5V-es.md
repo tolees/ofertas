@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YLVK5V-es The North Face W HH Hike II GTX Zapatillas de Senderismo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 60.59 EUR
 currency: EUR
 price: 60.59

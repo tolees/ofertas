@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793JTWT5-es Darkest Dungeon - Ancestral Edition'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

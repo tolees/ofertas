@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC7M3DV-es BATTLEFIELD 1 - Standard | Código Origin para PC'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

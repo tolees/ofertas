@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNPFNV-es G-STAR RAW Graphic 24 Loose Round Neck Sudadera Beige Milk...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.31 EUR
 currency: EUR
 price: 25.31

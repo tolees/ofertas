@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R7NFP6-es Intex 57254EU - Colchoneta hinchable emoji 173 x 27 cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

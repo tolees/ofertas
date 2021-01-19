@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAIGK0Q-es KRISP 6252-GRY-18 Vestido Corto Patinadora Vuelo Fruncido...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

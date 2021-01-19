@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008OFEPBI-es NANOCABLE 10.01.0500 - Cable USB 2.0 a Micro USB Uso...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.03 EUR
 currency: EUR
 price: 1.03

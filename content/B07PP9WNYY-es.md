@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PP9WNYY-es BenQ W1720 - Proyector DLP con auténtica resolucion 4K UHD...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 715.0 EUR
 currency: EUR
 price: 715.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFPZPDM-es DIY Taladro Completo 5D Kits de Pintura de Diamantes...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

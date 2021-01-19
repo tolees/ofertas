@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VVZPO3G-es Belkin B2A075-C00 - Funda Estuche para Chromebook de 11"...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

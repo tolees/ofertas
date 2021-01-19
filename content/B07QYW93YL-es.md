@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYW93YL-es Calvin Klein Formal Plaque Belt 3.5cm Cinturón Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

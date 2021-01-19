@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2PPP83-es Magic Wand Massager James love Masajeador Eléctrica...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.69 EUR
 currency: EUR
 price: 26.69

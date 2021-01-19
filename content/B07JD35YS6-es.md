@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JD35YS6-es HUAWEI 55030353 - Cargador inalambrico 10V/4A conexión...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.23 EUR
 currency: EUR
 price: 42.23

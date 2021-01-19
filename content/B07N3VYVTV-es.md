@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3VYVTV-es SYOSS - Oleo Intense Coloración Permanente Sin Amoníaco -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

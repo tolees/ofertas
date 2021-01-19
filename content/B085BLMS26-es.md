@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BLMS26-es YIMINYUER Cómodas alfombras para niños Juego para niños...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075TXK2TR-es MLG Tools Trampa para Ratas. XXL * 6 Unidades faciles de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

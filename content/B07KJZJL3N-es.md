@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJZJL3N-es Sorel Glacy Explorer Shortie Botas para Mujer Gris Quarry...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

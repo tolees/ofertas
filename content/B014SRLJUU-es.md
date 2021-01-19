@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014SRLJUU-es Garmin Montana 680T - Navegador GPS 10.2 cm 4" 272 x 480...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 345.0 EUR
 currency: EUR
 price: 345.0

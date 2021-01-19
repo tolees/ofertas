@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQ5WYNR-es DesigualBols brown Sugar RotterdamMujerBolsos mochilaBeige...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.66 EUR
 currency: EUR
 price: 41.66

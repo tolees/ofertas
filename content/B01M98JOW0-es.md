@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M98JOW0-es Manduca by MAM 199–41–13–003 Deluxe Cover Flex Pluie Cover...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

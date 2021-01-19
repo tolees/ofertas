@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UAFSUKM-es Philips Sonicare AirFloss Ultra HX8332/01 - Irrigador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

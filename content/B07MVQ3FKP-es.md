@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVQ3FKP-es PJ Masks - Megarover Bandai 95380'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

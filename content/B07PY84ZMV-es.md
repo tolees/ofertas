@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY84ZMV-es Philips MUE4088RT - Bombilla Wi-Fi E27 Led Controlada de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

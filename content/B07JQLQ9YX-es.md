@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQLQ9YX-es Under Armour Cinch Printed Tote Bolsa Deportiva Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IDM58TE-es Cuca Berberecho Grande - 63 gr'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.03 EUR
 currency: EUR
 price: 6.03

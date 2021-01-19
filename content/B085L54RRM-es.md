@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085L54RRM-es B Blesiya Decoración De Paisaje De Vivarium Reptil Box...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

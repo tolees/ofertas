@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6MWP5G-es DUNLOP Sting 360 2.0 2019 Adultos Unisex Multicolor Talla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.18 EUR
 currency: EUR
 price: 43.18

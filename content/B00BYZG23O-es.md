@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BYZG23O-es Superga 2790Cotw Linea Up And Down Zapatillas Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.48 EUR
 currency: EUR
 price: 41.48

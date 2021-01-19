@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1YHBN-es PUMA RS 9.8 Cosmic Zapatillas Unisex Adulto White-Peacoat...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.68 EUR
 currency: EUR
 price: 19.68

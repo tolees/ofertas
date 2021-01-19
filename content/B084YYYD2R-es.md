@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084YYYD2R-es Baby Teething Toys Silicona suave Mordedor de frutas sin...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X84IBEW-es CleanStream Ducha Shot Enema Sistema Limpieza Anal - 1 Unidad'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.51 EUR
 currency: EUR
 price: 10.51

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H1X7ZME-es Panama Jack Piola Botas Altas para Mujer Marrón Cuero B8...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 117.95 EUR
 currency: EUR
 price: 117.95

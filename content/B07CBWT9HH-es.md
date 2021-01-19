@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBWT9HH-es JACK & JONES Jjebasic Knit Crew Neck Noos suéter Azul Navy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

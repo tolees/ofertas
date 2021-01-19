@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQJ3VCN-es Rybozen Hub USB 3.0 7-Puertos SuperSpeed 5 Gbps Hub...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

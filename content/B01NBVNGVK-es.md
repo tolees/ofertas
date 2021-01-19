@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBVNGVK-es Campingaz 2000031416 Barbacoa Universal Negro 105 x 61 x...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.94 EUR
 currency: EUR
 price: 27.94

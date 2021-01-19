@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005JD1XY0-es Epson C13T08954010 - Juego De 4 Tinta Epson Multipack...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

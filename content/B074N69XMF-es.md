@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074N69XMF-es Clarks Cotrell Edge Zapatos de Cordones Derby para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.8 EUR
 currency: EUR
 price: 45.8

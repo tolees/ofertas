@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZPWGVCB-es NYZ - Auriculares inalámbricos con Bluetooth 5.0 Sonido...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

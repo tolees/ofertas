@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KF1TA3W-es Pepe Jeans Eggo Camiseta Para Hombre Azul Navy X-Small'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

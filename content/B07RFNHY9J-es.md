@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFNHY9J-es Salomon Speedcross Bungee K Zapatillas de Trail Running...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.49 EUR
 currency: EUR
 price: 49.49

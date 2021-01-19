@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SS5G6X-es Desigual Sweat Daniela suéter Negro 2000 Large para Mujer'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.7 EUR
 currency: EUR
 price: 41.7

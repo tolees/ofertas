@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CGNFF6-es Universal Candy Color 3USB Cargador Travel Wall Charger...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.54 EUR
 currency: EUR
 price: 1.54

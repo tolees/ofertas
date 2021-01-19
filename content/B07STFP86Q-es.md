@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STFP86Q-es adidas EQT Gazelle W Zapatillas de Gimnasia para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.61 EUR
 currency: EUR
 price: 35.61

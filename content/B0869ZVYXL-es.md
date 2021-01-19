@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869ZVYXL-es Durex Preservativos Mutual Clímax con Puntos y Estrías...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.12 EUR
 currency: EUR
 price: 7.12

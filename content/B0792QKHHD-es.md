@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792QKHHD-es HOMCOM Coberizo de Madera de Jardín Caseta para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 144.49 EUR
 currency: EUR
 price: 144.49

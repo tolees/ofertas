@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SGLSBD-es Desigual Abrig Collin Mujer Negro 2000 40 Talla del...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.38 EUR
 currency: EUR
 price: 44.38

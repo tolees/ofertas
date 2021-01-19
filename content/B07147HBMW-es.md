@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07147HBMW-es Asics Gel-Rocket 8 Zapatillas de Voleibol para Mujer Rosa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.48 EUR
 currency: EUR
 price: 41.48

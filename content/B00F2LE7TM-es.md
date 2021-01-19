@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F2LE7TM-es SOGO SS-5245 Heladera Maquina de helado Máquina para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

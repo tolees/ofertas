@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJD9RC5-es H.Koenig RP328 Raclette 8 Personas Plancha de Piedra...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

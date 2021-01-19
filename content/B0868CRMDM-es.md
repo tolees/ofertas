@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0868CRMDM-es amzdeal Ventilador de Turbo Ventilador de Sobremesa para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.89 EUR
 currency: EUR
 price: 39.89

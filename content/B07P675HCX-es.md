@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P675HCX-es Loewe Solo Edt Vapo 125 ml - 125 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.48 EUR
 currency: EUR
 price: 34.48

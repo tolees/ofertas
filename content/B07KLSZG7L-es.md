@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KLSZG7L-es Crema hidratante antiarrugas con ácido hialurónico...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

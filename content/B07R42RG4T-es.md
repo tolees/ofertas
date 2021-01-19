@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R42RG4T-es kitteny Juegos Suelo Juego de Piso Familiar Tapete de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

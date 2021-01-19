@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL4F9HK-es RECAMBIOS DREYMA Filtro METÁLICO Campana Extractor BALAY...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.85 EUR
 currency: EUR
 price: 18.85

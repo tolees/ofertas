@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WF7N25W-es Libershine Madejas de Hilos 100 Madejas 100 Colores Hilos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

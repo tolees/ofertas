@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFDFS86-es E·Durable 5pcs 125mm Alicates tenaza Para el mantenimiento...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

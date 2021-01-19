@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NG3GYY-es Maybelline New York - Superstay Matte Ink The Nudes Barra...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.94 EUR
 currency: EUR
 price: 6.94

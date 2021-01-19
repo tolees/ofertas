@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0836W2GPK-es TEECY Wallet Tarjeteros para Tarjetas de Crédito Bloqueo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

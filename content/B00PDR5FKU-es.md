@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PDR5FKU-es Liderpapel PA03 - Papel'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.03 EUR
 currency: EUR
 price: 3.03

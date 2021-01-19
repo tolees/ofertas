@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003N8GSTI-es Triumph True Shape Sensation Maxi Culotte Verde 40 Talla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

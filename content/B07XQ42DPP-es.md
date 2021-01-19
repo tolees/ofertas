@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQ42DPP-es Sloggi Zero Feel Ex Sujetador Estilo Bralette Morado...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

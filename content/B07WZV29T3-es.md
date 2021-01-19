@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZV29T3-es Almohada de Viaje Viscoelástica de Espuma de Memoria...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

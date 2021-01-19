@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZL78LD-es Polti Vaporella Simply VS20.20 Plancha Generadora de Vapor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQQERZE-es Woxter Stinger Hub Red- Hub multipuerto retroiluminado 4...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

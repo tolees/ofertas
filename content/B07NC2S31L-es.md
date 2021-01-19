@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC2S31L-es camel active Houston 488385/2511 Pantalones Grün Khaki 36...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.86 EUR
 currency: EUR
 price: 55.86

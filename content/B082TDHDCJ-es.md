@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082TDHDCJ-es SPC Opal teléfono móvil con Tapa y Dual SIM'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.82 EUR
 currency: EUR
 price: 25.82

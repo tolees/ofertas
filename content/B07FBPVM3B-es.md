@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FBPVM3B-es Skechers Flex Appeal 3.0-First Insight Zapatillas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.85 EUR
 currency: EUR
 price: 44.85

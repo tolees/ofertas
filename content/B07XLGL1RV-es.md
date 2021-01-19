@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLGL1RV-es Limpiador de Poros Succionador de Puntos Negros y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

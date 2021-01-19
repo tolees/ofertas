@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQYD2L1-es TRESemmé Laca Extra Fuerte - 400 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.3 EUR
 currency: EUR
 price: 2.3

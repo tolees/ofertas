@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G5MKW1S-es NANOSTAD Estadio Camp NOU LED Edition FC Barcelona Puzzle...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

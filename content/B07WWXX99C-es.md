@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWXX99C-es Funko- Pop NBA: Lakers-Lebron James Figura Coleccionable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

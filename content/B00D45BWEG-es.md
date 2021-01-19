@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D45BWEG-es Mousehouse Gifts Caja Mediana con Juego de libreta y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

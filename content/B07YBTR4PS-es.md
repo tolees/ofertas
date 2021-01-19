@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBTR4PS-es Máscara para pelo Crecimiento del cabell Tratamiento para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

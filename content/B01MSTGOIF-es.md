@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSTGOIF-es Reebok Club C 85 Zapatillas Hombre Negro Int / Black /...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.42 EUR
 currency: EUR
 price: 55.42

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CH3HPTB-es PUTUO Mujer cinco dedos calcetines de deporte Calcetines...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

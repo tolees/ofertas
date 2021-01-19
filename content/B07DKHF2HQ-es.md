@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKHF2HQ-es Kipling - Inami S Monederos Mujer Multicolor Dynamic Dots'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

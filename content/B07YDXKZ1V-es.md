@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDXKZ1V-es LeYi Funda Xiaomi Redmi Note 8 con HD Protector Pantalla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.87 EUR
 currency: EUR
 price: 8.87

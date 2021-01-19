@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NTN8VUQ-es Diesel Reloj Hombre de Analogico con Correa en Cuero DZ4343'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 134.48 EUR
 currency: EUR
 price: 134.48

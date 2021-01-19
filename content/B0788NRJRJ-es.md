@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788NRJRJ-es Salomon Quest 4D 3 GTX W Botas de Senderismo para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 145.99 EUR
 currency: EUR
 price: 145.99

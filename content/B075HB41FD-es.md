@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075HB41FD-es Master Of Puppets Remastered 2016'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

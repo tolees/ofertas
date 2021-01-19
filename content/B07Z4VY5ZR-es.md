@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4VY5ZR-es SALAKA Peine Plegable de plástico Negro de Doble Cabeza...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.33 EUR
 currency: EUR
 price: 2.33

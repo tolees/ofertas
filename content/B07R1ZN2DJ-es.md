@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R1ZN2DJ-es Under Armour Challenger III Training Pant Pantalones de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRCJ7F6-es New Balance 574v2 Zapatillas Hombre Rojo Red/White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.21 EUR
 currency: EUR
 price: 53.21

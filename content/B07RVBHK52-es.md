@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RVBHK52-es HAMSWAN Oxímetro de Dedo con Pantalla OLED [Regalos]...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

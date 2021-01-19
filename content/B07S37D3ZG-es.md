@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S37D3ZG-es Gillette Venus Swirl - Set Maquinilla para Mujer con 2...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

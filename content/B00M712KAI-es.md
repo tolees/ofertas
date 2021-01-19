@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M712KAI-es Adler AD 4437 - Pimentero Cerámico Color rojo'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.96 EUR
 currency: EUR
 price: 4.96

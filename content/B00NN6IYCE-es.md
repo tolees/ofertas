@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NN6IYCE-es Panasonic Lumix DMC-LX100 - Cámara Compacta Premium de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 435.2 EUR
 currency: EUR
 price: 435.2

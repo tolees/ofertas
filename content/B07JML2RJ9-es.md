@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JML2RJ9-es Ever-Pretty A-línea Vestito de Gala Cuello Redondo sin...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

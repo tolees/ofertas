@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BTRM9BS-es Molyflower C6T Smart Bracelet Watch Información de TPU...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

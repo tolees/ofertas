@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PUDU7DW-es Rexona Maximum Protection Crema Antitranspirante Stress...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

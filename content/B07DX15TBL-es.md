@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX15TBL-es New Balance Core Fleece Capucha Mujer Pigment Small'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.59 EUR
 currency: EUR
 price: 22.59

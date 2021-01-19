@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002ZHREGO-es Optimum Nutrition ON Platinum Hydro Whey Proteinas en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.26 EUR
 currency: EUR
 price: 59.26

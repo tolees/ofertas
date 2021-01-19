@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QBPCT-es PUMA RS 9.8 Grid Zapatillas Unisex-Adulto Blanco White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.94 EUR
 currency: EUR
 price: 23.94

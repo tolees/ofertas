@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088WKVFS5-es Femometer Copa Menstrual 1 Piezas Pequeña y 1 Piezas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

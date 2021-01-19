@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTT15NF-es Women s Secret Daily Bees Db Bee Stripes PJ Conjuntos de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

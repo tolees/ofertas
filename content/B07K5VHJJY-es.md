@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K5VHJJY-es Monrodbitt Black Durable Lightweight Plug & Play USB 2.0 a...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.31 EUR
 currency: EUR
 price: 1.31

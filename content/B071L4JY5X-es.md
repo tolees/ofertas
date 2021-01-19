@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071L4JY5X-es caja del anillo LED - ALLEU caja joyero de para compromiso...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

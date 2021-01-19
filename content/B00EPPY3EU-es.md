@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EPPY3EU-es Samsung SF-765P - Impresora multifunción láser con fax...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

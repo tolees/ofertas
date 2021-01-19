@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ6HTWV-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.08 EUR
 currency: EUR
 price: 55.08

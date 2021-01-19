@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFSYZZ3-es HUANUO Soporte Monitor para 13-27 Pulgadas PC y Ordenador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

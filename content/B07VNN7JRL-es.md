@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNN7JRL-es Tommy Hilfiger Essential Cycling Shorts Short Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.08 EUR
 currency: EUR
 price: 7.08

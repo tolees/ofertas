@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XMVVJ4-es DIM Generous Sujetador Blanco 105D para Mujer'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

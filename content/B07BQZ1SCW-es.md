@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQZ1SCW-es Taurus Striker 2.0 Robot Aspirador Compacto con Sensor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

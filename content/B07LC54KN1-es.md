@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LC54KN1-es Z-Man Games-Más allá de Baker Street-Español Color ZM7670ES'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

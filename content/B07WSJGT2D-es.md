@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSJGT2D-es Ligero a Prueba de Polvo a Prueba de arañazos de Cuero de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

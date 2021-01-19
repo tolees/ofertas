@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZHJ77Q-es Western Digital My Book Disco Duro Externo de Sobremesa de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 91.74 EUR
 currency: EUR
 price: 91.74

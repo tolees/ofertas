@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HGRPH9-es 2XU Women s Reflect Run Medias de compresión Ajustadas –...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.79 EUR
 currency: EUR
 price: 34.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M2YRSET-es Roxy Endless Summer Pantalones Cortos Mujer Negro Antracite M'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.59 EUR
 currency: EUR
 price: 27.59

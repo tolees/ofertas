@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DG6J42K-es Gioseppo Zapatillas para Hombre Verde Kaki 45574-P 41 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.19 EUR
 currency: EUR
 price: 18.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TBWS8W-es Trespass unificar de la Mujer Manga Larga Top/Camiseta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRBQD48-es GANT Footwear Portland Zapatillas para Hombre Multi Green...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

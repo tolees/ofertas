@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGWCD4S-es FITTOO Mallas Leggings Mujer Yoga de Alta Cintura...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

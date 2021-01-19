@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNVRGK3-es NIVEA Q10 3en1 Cushion Perfeccionador Facial Hidratante y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

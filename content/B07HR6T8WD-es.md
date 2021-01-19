@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HR6T8WD-es Radio de Coche Rixow Autoradio FM Estéreo Bluetooth 60W*4...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

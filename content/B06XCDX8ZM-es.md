@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCDX8ZM-es STANLEY FATMAX FMST1-80149 - Bolsa para ordenador y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.44 EUR
 currency: EUR
 price: 32.44

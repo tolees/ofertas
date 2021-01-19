@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HZ6XRR6-es BOWFU Funda para Xiaomi Poco X3 NFC [Ranuras de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

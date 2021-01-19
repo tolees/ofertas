@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DOJIFTQ-es KITCHENATICS Rejilla para Enfriar y Hornear de Acero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.53 EUR
 currency: EUR
 price: 19.53

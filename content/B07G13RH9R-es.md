@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G13RH9R-es Asmuse Melodica 32 Teclas Con boquilla y manguera de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QG9KP3Y-es Wesimplelife 3en1 Madera Caballete de para Niños Pizarra...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

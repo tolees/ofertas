@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB72Z5B-es BOPAI - Mochila unisex para hombre impermeable ligera...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.79 EUR
 currency: EUR
 price: 49.79

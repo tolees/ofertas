@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0YZVQE-es Sandisk SDCZ800-128G-G46 Memoria Flash Usb Sandisk Extreme...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

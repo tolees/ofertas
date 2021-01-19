@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHPB6B9-es JACK & JONES Jfwvision Classic Chambray Anthraci Noos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

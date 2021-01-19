@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RE3ORU-es Brabantia 365102 - Espumadera Nylon Color Negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

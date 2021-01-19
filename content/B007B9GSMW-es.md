@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007B9GSMW-es Ulysse - Juego de Tabla de multiplicar 10x10'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

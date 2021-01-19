@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F3ZV5-es Wrangler Logo Hoodie Capucha Gris Dark Grey Mel X06 Large...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36 EUR
 currency: EUR
 price: 36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW89VTL-es Valentino Rossi Vr46 Classic-Sol e Luna Hoodie Hombre Azul S'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 52.4 EUR
 currency: EUR
 price: 52.4

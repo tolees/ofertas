@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMZWC18-es Casio Reloj Mujer de Digital con Correa en Acero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.51 EUR
 currency: EUR
 price: 48.51

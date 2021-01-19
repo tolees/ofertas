@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZFP4LK-es Under Armour Favorite Legging WM Ar Leggings Mujer Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.82 EUR
 currency: EUR
 price: 24.82

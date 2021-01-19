@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWD59LB-es JACK & JONES NOS Jcojonah Sweat Hood STS. Capucha Marrón...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.66 EUR
 currency: EUR
 price: 16.66

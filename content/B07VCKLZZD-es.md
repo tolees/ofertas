@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCKLZZD-es Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 99.34 EUR
 currency: EUR
 price: 99.34

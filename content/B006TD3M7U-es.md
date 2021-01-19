@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006TD3M7U-es Garnier Niños Sensitive Advanced - Protector Solar para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

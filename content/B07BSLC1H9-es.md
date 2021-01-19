@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSLC1H9-es Nike SB Portmore II Solar Zapatillas de Skateboard Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.47 EUR
 currency: EUR
 price: 30.47

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRWBJRC-es Antony Morato Cintura In Pelle H.30mm Cinturón Negro NERO...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.77 EUR
 currency: EUR
 price: 35.77

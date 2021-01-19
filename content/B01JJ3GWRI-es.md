@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JJ3GWRI-es Rayen 6154.02-Protector para Planchar sobremesa Color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.74 EUR
 currency: EUR
 price: 3.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVC168V-es Under Armour Remix Zapatillas de Running para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.4 EUR
 currency: EUR
 price: 33.4

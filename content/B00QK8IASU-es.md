@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QK8IASU-es Aqua Dragons- Viaje EGGspedition al Periodo Jurásico...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.21 EUR
 currency: EUR
 price: 21.21

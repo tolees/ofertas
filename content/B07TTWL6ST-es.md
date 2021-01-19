@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTWL6ST-es Cámara de acción 2 en 1 portátil + Kit de vídeo para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

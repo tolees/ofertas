@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0816CYCRH-es LNIEGE Bolsa de pañales para bebés Multibolsillos Bolsa de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

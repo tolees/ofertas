@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNSQ8N-es G-STAR RAW Halite Polo Gris Asfalt 995 Small para Hombre'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

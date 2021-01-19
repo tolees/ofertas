@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1WVQPF-es Brooks Launch 6 Zapatillas de Running para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.08 EUR
 currency: EUR
 price: 45.08

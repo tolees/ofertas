@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00005RKOE-es OXO Good Grips INOXO.1050586ML 500 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

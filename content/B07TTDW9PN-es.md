@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTDW9PN-es Gant Hightown Zapatillas para Hombre Rojo Bright Red G518...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

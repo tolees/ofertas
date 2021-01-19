@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6JP8N2-es Logitech G502 HERO Ratón Gaming con Cable Alto Rendimiento...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

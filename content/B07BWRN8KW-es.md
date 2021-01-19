@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BWRN8KW-es Homyl 1.44mb 3.5"USB Unidad de Disquete Externa con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

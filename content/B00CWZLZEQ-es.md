@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CWZLZEQ-es Titanlux - Esmalte-Laca poliuretano satinada Titanlak...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

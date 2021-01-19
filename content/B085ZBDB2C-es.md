@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZBDB2C-es por nanda 200 unids/caja Bastoncillo de algodón desechable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.61 EUR
 currency: EUR
 price: 3.61

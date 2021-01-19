@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJ1D7TK-es Levi s Woodward L Zapatillas para Hombre Gris R Grey 55 40 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.42 EUR
 currency: EUR
 price: 32.42

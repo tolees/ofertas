@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0148LS7DS-es Anita Maternity Still-BH Miss Cotton - Sujetador Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

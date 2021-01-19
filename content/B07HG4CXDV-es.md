@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG4CXDV-es New Balance 247v2 Zapatillas para Hombre Blanco Pigment...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.77 EUR
 currency: EUR
 price: 42.77

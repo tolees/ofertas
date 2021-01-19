@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZH4LTQ-es Siux Cajon DE 24 Botes con 3 Bolas Match Pro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

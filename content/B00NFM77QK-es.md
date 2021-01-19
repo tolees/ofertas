@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NFM77QK-es Bestway 68005 - Tienda de Campaña Nucamp 235x190x100 cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

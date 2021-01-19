@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07111XSPK-es Reloj Scuderia Ferrari para Hombre 0830435 Marrón Azul/Marrón'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 148.29 EUR
 currency: EUR
 price: 148.29

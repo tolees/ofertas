@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PBWNQV-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer Tour...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PVY2LR-es Marca Amazon - TRUTH & FABLE Vestido Midi Ajustado de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

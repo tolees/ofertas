@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9N2T3D-es LG XBOOM CK43 - Equipo de Sonido de Alta Potencia Potencia...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 133.0 EUR
 currency: EUR
 price: 133.0

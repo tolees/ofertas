@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9K6RTU-es Gant Classic Leather Belt Cinturón Marrón Dark Brown 205...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.34 EUR
 currency: EUR
 price: 28.34

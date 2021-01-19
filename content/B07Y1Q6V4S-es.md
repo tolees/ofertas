@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y1Q6V4S-es WateLves Leggings de yoga para mujer pantalones de deporte...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

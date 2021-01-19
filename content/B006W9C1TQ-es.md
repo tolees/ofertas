@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006W9C1TQ-es Rayen - Funda para tabla de planchar Universal funda de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.58 EUR
 currency: EUR
 price: 6.58

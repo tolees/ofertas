@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQ3KBH8-es INTEY Silla de Oficina Silla Ergonómica Ajustables...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

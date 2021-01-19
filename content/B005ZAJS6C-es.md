@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005ZAJS6C-es Feplast Jaula para hámsteres FAVOLA para pequeños roedores...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 56.1 EUR
 currency: EUR
 price: 56.1

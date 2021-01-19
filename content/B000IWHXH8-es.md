@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000IWHXH8-es Krups GVX242 Molinillo de café profesional con sistema de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

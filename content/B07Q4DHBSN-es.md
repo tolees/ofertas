@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4DHBSN-es Chronotech Reloj Analógico para Mujer de Cuarzo con Correa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.51 EUR
 currency: EUR
 price: 39.51

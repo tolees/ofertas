@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXVJGFW-es upHere 300mm Cable con Manguito - Extensión de Cable para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.16 EUR
 currency: EUR
 price: 20.16

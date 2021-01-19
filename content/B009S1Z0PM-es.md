@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009S1Z0PM-es Vans Atwood Canvas Zapatillas para Hombre Azul Navy/White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.0 EUR
 currency: EUR
 price: 47.0

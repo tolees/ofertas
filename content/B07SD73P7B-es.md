@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SD73P7B-es Dodot Activity Pants Pañal-Braguita Talla 3 156 Pañales...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

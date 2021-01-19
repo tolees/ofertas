@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGPJRQD-es Buff R-Jayla Cinta de Cabeza Fastwick Mujer Rose Pink...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.21 EUR
 currency: EUR
 price: 11.21

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076H8BXPQ-es Tuc Tuc 05789 - Trona'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.1 EUR
 currency: EUR
 price: 36.1

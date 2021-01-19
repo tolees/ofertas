@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1TZTX7-es Relojes Hombre Relojes Grandes de Pulsera Militares...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.72 EUR
 currency: EUR
 price: 26.72

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDZM63S-es PUMA Smash WNS V2 L Zapatillas para Mujer Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.18 EUR
 currency: EUR
 price: 25.18

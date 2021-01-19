@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9FWT77-es Festina Reloj de Pulsera F20365/3'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 178.12 EUR
 currency: EUR
 price: 178.12

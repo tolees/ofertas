@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0198KU8PY-es POP! Vinilo - One Piece: Portgas D. Ace'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084BZ24JY-es IKOHS Aspirador Vertical CYCLONIC DC-Flux 25 9V -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

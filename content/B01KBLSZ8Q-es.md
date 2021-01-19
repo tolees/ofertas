@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KBLSZ8Q-es Quinny Zapp Xpress - Silla de paseo color all black'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 112.86 EUR
 currency: EUR
 price: 112.86

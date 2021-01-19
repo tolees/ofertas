@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQYKNLN-es Zapatillas New Balance GS574 Lifestyle Cordon 39'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FN4TFBB-es Saucony Xodus ISO 3 Zapatillas de Trail Running para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 75.3 EUR
 currency: EUR
 price: 75.3

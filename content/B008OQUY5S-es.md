@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008OQUY5S-es Lowepro POKROWIEC DASHPOINT 10 Slate Grey'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

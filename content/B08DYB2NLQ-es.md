@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DYB2NLQ-es yideng Fiesta de Halloween Globos Conjunto Grande de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

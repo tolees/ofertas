@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000X1OOBW-es Reebok F/S Hi Zapatillas de Deporte para Mujer Blanco INT-...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

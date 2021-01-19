@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018NMTBOC-es Bizak-5025123225111 Color 61952511'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

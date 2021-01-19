@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGTGZHS-es We Happy Few'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

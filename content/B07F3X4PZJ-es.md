@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3X4PZJ-es AmazonBasics - Juego de cama de franela con funda nórdica...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.74 EUR
 currency: EUR
 price: 24.74

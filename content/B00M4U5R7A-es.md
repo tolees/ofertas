@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M4U5R7A-es Shimano Deore SMBB52B - Juego De Cazoletas Pedalier'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

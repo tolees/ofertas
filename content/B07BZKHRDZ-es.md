@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZKHRDZ-es AmazonBasics - Aro de fitness y pilates para entrenamiento...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.88 EUR
 currency: EUR
 price: 21.88

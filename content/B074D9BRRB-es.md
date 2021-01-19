@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074D9BRRB-es Victoria Deportivo PU Contraste Zapatillas para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.15 EUR
 currency: EUR
 price: 24.15

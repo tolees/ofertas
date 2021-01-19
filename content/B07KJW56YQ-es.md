@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJW56YQ-es LoveOlvidoE Soporte de plástico para Almacenamiento de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

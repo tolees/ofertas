@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0044AHBAE-es POP! Vinilo - DC: The Flash'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

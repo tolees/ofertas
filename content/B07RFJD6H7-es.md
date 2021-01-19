@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFJD6H7-es Herramientas de pulido de la joyería de la regla del papel...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072BYH88Q-es Crocs Crocband U Zuecos Unisex Adulto Blanco White-Blue...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.57 EUR
 currency: EUR
 price: 28.57

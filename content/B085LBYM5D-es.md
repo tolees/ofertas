@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085LBYM5D-es Safety – Pantalla Facial Cocina cocinar Aceite de Doble...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

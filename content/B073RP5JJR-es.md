@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP5JJR-es Helly Hansen Crew Gorra Unisex Adulto Negro Única'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKP1PWQ-es Under Armour UA GS Infinity 2 Zapatillas de Running Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

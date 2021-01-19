@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078KVTJ1W-es PUMA Liga Training Core Chándal Hombre Peacoat/White 3XL'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.21 EUR
 currency: EUR
 price: 17.21

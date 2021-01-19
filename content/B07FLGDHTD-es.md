@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLGDHTD-es Philips Avent SCD287/25 - Set de regalo natural unicornio...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

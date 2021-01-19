@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7WTXYB-es Love MoschinoJc4253pp0aMujerShoppers y bolsos de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 71.66 EUR
 currency: EUR
 price: 71.66

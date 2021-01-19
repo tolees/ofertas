@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JR8R4M-es HP OMEN 100 - Alfombrilla para ratón Negra 360 mm x 300 mm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

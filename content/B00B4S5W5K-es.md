@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B4S5W5K-es Rowenta Steamforce DW9240D1 - Plancha ropa vapor 3.100 W...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

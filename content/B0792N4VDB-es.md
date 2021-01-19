@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792N4VDB-es Trust Gaming GXT 180 Kusan - Ratón Pro Gaming con Peso...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

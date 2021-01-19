@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DH7DDGF-es adidas V Racer 2.0 Zapatillas de Running para Hombre Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.01 EUR
 currency: EUR
 price: 38.01

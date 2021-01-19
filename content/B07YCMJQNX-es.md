@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCMJQNX-es TACKLIFE Cortabordes Eléctrico 350W Cortabordes Ancho de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.17 EUR
 currency: EUR
 price: 42.17

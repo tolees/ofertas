@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKF8HZV-es Kipling - Inami M Monederos Mujer Azul Active Blue Bl'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

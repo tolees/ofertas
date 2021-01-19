@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AAJP9GK-es Columbia Cascades Explorer Pantalones Convertibles para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 40.89 EUR
 currency: EUR
 price: 40.89

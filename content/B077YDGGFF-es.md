@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YDGGFF-es HIKARO Pantalón Deportivo Estilo Jogger Hombre Gris Light...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.92 EUR
 currency: EUR
 price: 18.92

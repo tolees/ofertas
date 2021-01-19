@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MCSW96Q-es Remington Your Style D5219 - Secador de Pelo Secador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.14 EUR
 currency: EUR
 price: 30.14

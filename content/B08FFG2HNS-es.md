@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FFG2HNS-es Flysee Eléctrica Juguete Pez para Gato，Peluche de Juguete...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

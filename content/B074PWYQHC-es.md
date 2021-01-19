@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PWYQHC-es Skechers Skech Appeal 2.0-Bold Move Zapatillas para Niñas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7YYFV4-es Always Control Juguetes Eróticos 1 Unidad 250 g'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.36 EUR
 currency: EUR
 price: 12.36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B5NCMRE-es Superga 2750-cotmetu Zapatillas de Gimnasia para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.54 EUR
 currency: EUR
 price: 21.54

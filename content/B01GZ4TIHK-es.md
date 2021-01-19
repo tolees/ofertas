@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GZ4TIHK-es Licor del Polo - Pasta de dientes 2 en 1 Blanqueador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

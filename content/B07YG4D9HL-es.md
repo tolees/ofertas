@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YG4D9HL-es Precision Kids V'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

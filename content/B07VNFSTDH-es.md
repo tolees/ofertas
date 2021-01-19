@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNFSTDH-es Anself 18 pcs Kit de Manicura Pedicura Profesional Kit de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

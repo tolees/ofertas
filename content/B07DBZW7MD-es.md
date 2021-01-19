@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBZW7MD-es Puma RS-150 Nylon Wn s Zapatillas para Mujer Rosa Coral...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.92 EUR
 currency: EUR
 price: 29.92

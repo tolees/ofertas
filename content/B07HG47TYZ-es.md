@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG47TYZ-es New Balance 373 Zapatillas para Mujer Negro Black/White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.78 EUR
 currency: EUR
 price: 25.78

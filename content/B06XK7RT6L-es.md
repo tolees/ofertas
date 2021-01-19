@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XK7RT6L-es Pasito a pasito 73748 - Bolsa canastilla acolchada Inés...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

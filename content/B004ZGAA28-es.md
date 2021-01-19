@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004ZGAA28-es HifloFiltro HFA3615 Filtro para Moto'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

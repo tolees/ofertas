@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018HAV95O-es Tommee Tippee - Kit de iniciación para recién nacido...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

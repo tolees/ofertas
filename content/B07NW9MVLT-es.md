@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW9MVLT-es Skechers On-the-go Joy Botas Altas Mujer Marrón Chocolate...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.02 EUR
 currency: EUR
 price: 34.02

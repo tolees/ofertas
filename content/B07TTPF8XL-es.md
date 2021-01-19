@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPF8XL-es KiplingCity Pack SMujerMochilasMulticolor Speckled...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.41 EUR
 currency: EUR
 price: 27.41

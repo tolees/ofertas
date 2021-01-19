@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY3P36T-es Superdry Orange Label Classic Jogger Pantalones de Deporte...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

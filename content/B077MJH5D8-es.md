@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MJH5D8-es PUMA Smash V2 L Zapatillas Unisex-Adulto Negro Black White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.48 EUR
 currency: EUR
 price: 36.48

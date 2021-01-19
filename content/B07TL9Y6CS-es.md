@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TL9Y6CS-es Negro Cepillo y Recogedor para Ventana de Seguimiento...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 0.52 EUR
 currency: EUR
 price: 0.52

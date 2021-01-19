@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG755CB-es Black+Decker BXMM1000E Picadora de Carne 1000 W Acero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.59 EUR
 currency: EUR
 price: 53.59

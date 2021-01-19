@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F119XFS-es LA HAUTE - Paréo - Bustier - Femme - Noir - 38'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.32 EUR
 currency: EUR
 price: 15.32

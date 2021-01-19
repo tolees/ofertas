@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BR5LHGT-es L Oreal Paris Colorista Hair Make Up Metallic Blue'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

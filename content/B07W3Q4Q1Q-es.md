@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W3Q4Q1Q-es TOUS Dorp Monedero Women s U'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

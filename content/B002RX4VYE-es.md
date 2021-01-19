@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002RX4VYE-es Fissler vitavit premium / Olla a presión 10 litros Ø 26 cm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 169.32 EUR
 currency: EUR
 price: 169.32

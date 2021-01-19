@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E5AC3BE-es BRA Tekna - Olla a presión rápida 4 litros de fácil uso...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 66.69 EUR
 currency: EUR
 price: 66.69

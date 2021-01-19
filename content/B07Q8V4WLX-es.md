@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q8V4WLX-es Dockers by Gerli 43fa307 Botas Militar para Mujer Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.59 EUR
 currency: EUR
 price: 22.59

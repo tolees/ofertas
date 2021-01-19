@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDFGHHN-es UniqueMe Funda para Huawei P30 Pro Ultra [Slim Thin] TPU...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

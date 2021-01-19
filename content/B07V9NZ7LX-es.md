@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9NZ7LX-es Reebok Royal Cljog 2 KC Zapatillas de Trail Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S456WLX-es BOSS Trunk 24 Print Calzón para Hombre Rojo Small'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.3 EUR
 currency: EUR
 price: 15.3

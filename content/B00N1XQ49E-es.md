@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N1XQ49E-es ASUS Strix Glide Control - Alfombrilla Gaming Acabado...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

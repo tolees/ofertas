@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CDIYD9K-es Victoria Botin Basket Autoclave Zapatillas Altas Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

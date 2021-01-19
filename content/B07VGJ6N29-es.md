@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGJ6N29-es JACK & JONES Jcowill Puffer Chaqueta Gris Light Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.43 EUR
 currency: EUR
 price: 15.43

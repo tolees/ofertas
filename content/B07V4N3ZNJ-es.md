@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4N3ZNJ-es Tommy Hilfiger Iconic Material Mix Runner Zapatillas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

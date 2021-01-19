@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMDVHNV-es GARDENA 750 B 12007-20 Cortarramas EnergyCut la podadera...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.36 EUR
 currency: EUR
 price: 44.36

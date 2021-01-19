@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085NGTRV8-es Aire Acondicionado Móvil Enfriador de Aire Portátil con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 199.89 EUR
 currency: EUR
 price: 199.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9D8W1W-es Easton Marlowe 6 PR Calcetines Sutilmente Estampados...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

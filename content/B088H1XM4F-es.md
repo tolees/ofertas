@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088H1XM4F-es Docooler Cámara Web USB A870 Cámara Web 1080P Sonido...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

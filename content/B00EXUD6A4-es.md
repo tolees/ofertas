@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EXUD6A4-es Legrand 694656 Bases Múltiples Confort y Seguridad -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8XRNTP-es Funko Pop! Marvel: Marvel Venom S3 - Ultron Multicolor'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.78 EUR
 currency: EUR
 price: 9.78

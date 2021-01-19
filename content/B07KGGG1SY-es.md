@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGGG1SY-es Buff Shady Gorra Treck Mujer Brindle Browm S'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

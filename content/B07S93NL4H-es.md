@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S93NL4H-es Encendedor USB TECCPO Encendedor Electrico sin Llama...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

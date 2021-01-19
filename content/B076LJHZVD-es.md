@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076LJHZVD-es Pisen Ultrafino Banco de la energía 10000 mAh de Capacidad...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

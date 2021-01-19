@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777F2ZZW-es Sillita plegable bebé negra Omnio - Desde los 6 meses...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 145.0 EUR
 currency: EUR
 price: 145.0

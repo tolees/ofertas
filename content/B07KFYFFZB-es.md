@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYFFZB-es PUMA Cell Plasmic Fluo Wn s Zapatillas Deportivas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.74 EUR
 currency: EUR
 price: 22.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004X4JRJO-es Braun BN0035WHBKG - Reloj cronógrafo de caballero de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 145.69 EUR
 currency: EUR
 price: 145.69

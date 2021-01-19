@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8GNSBF-es Fossil Pulsera para Hombre JF03171040'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.7 EUR
 currency: EUR
 price: 20.7

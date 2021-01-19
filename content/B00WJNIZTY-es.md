@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WJNIZTY-es Philips Avent SCF551/05 - Vaso con boquilla de silicona...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089XX6WG7-es Opret Cubiteras para Hielo Silicona 2 pcs Cubitos de Hielo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

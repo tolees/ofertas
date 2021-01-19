@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFN2B57-es Salomon RX Break 4.0 W Zapatillas Deportivas para Interior...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.65 EUR
 currency: EUR
 price: 24.65

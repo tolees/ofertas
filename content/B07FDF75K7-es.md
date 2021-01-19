@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDF75K7-es Nike Air Jordan First Class Bg Zapatillas de Deporte para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 61.69 EUR
 currency: EUR
 price: 61.69

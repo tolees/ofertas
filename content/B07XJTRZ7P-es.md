@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJTRZ7P-es Young & Ming Funda para Xiaomi Redmi Note 8 Pro 3 Pack...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

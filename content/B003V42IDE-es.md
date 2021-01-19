@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003V42IDE-es Reebok EX-O-FIT High Zapatillas altas Hombre Blanco Int-...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 62.49 EUR
 currency: EUR
 price: 62.49

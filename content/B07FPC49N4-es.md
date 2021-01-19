@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPC49N4-es Rowenta HQ7111 Air Force Hot & Cool Calefactor y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 141.99 EUR
 currency: EUR
 price: 141.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZHFBXMP-es Karactermania Villanas Disney -Saco de Cuerdas Storm Negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.4 EUR
 currency: EUR
 price: 9.4

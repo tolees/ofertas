@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C1WPYVJ-es Escomdp i Flash Drives USB 3.0 Pendrive 3 en 1 OTG Memory...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077K34CLJ-es Banda Elástica Kit Bandas de Resistencia 10 / 15uds...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

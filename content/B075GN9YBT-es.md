@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GN9YBT-es Citizen Reloj Analogico para Hombre de Energía Solar con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 195.41 EUR
 currency: EUR
 price: 195.41

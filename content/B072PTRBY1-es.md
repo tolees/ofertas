@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072PTRBY1-es Manchester City FC - Pulsera de silicona oficial de v...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

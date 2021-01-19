@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T7CB46L-es Skechers Bobs Squad-Glitz Maker Zapatillas para Mujer Rosa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

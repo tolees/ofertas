@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBPH1JG-es Foco LED con Sensor de Movimiento Negro 50W Proyector LED...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

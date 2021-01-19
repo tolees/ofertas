@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NVMSJT8-es Mantona 20142 - Bolsa para cámara Color Rojo'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.55 EUR
 currency: EUR
 price: 16.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R8NQWD5-es Máscara de bricolaje para DJ PVC Casco Festival de música...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

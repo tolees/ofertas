@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STFPGNM-es adidas EQT Gazelle Zapatillas de Gimnasia para Hombre Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.38 EUR
 currency: EUR
 price: 29.38

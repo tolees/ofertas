@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I0QGMBW-es RICOO Soporte de Techo TV Inclinable y Giratorio D0122...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PN1N3WB-es non-brand EL357N-C Placa de Aislamiento de Optoacoplador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99
@@ -26,8 +26,8 @@ En este momento está [non-brand EL357N-C Placa de Aislamiento de Optoacoplador 
 
 🔎:
 
-- Un mini aislamiento optoacoplador, módulo de conversión de nivel de señal.
 - Adecuado para la conversión de nivel general, como 24V.
+- Un mini aislamiento optoacoplador, módulo de conversión de nivel de señal.
 - El lado de 24 V se puede conectar con un botón de cable largo, el lado de salida conectado al pin de IO de la MCU.
 - Con luz indicadora de señal de entrada.
 

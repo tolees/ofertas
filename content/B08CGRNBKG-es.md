@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CGRNBKG-es Colmanda Bolsa de Dulces de Dinosaurio 24pcs Bolsa de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQ3DNH5-es Lee Daren Zip Fly Jeans Azul Time out Dn 28W / 32L para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.81 EUR
 currency: EUR
 price: 36.81

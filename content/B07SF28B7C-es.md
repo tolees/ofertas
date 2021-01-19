@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SF28B7C-es PUMA St Activate Zapatillas Unisex Adulto Gris Castlerock...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

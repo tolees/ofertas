@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SWQXYY8-es Campingaz Nevera Portatil Icetime Plus Caja Térmica Nevera...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.05 EUR
 currency: EUR
 price: 23.05

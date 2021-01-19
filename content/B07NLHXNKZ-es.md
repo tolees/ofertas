@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLHXNKZ-es Versace Jeans CoutureBorsaMujerShoppers y bolsos de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 83.38 EUR
 currency: EUR
 price: 83.38

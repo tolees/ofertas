@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FK66MPB-es Seiko Reloj Analogico para Hombre de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 97.0 EUR
 currency: EUR
 price: 97.0

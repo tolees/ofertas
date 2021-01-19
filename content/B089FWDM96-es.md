@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089FWDM96-es NDANH9896 Patrón de asta de Estilo Simple La Tela de Lino...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0742P1ZJP-es Camper Uno Zapatillas para Mujer Blanco White Natural 100...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 60.96 EUR
 currency: EUR
 price: 60.96

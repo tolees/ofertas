@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYZHZAJ-es Handy Bag Bolsas de Basura 50L Extra Resistentes No Gotean...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.1 EUR
 currency: EUR
 price: 1.1

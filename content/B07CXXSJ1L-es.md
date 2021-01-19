@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXXSJ1L-es Salomon Trailster GTX W Zapatillas de Trail Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

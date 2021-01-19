@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1F1J4Z-es SUPEWOLD - Soporte para barra de cortina autoadhesiva...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67

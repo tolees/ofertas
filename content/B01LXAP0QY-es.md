@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXAP0QY-es Philips Azur Performer Plus GC4516/40 - Plancha de vapor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

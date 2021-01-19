@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EAV8FT2-es Bica - Conjunto de jardín Nebraska de 4 plazas Antracita'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 197.5 EUR
 currency: EUR
 price: 197.5

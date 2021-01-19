@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TJ5R7W-es ELEHOT Bascula Baño Digital Escala de Peso Multifunción...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

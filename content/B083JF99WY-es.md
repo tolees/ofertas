@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083JF99WY-es Pistola de Masaje Muscular ACTION Pistola Masajeadora...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 85.95 EUR
 currency: EUR
 price: 85.95

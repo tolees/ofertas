@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07234VBWJ-es Manguera de jardín manguera Flexi sailun® Flexible incluye...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

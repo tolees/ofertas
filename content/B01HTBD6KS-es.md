@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HTBD6KS-es HAMSWAN Termómetro de Frente Sin Contacto Termómetro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.89 EUR
 currency: EUR
 price: 49.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G1HHZ3D-es Ocobudbxw Moda Mujer Lona Crossbody Messenger Cremallera...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.3 EUR
 currency: EUR
 price: 11.3

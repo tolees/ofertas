@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVD8R2M-es Arealer Masajeador de Hombros Eléctrico para el Cuello...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.59 EUR
 currency: EUR
 price: 37.59

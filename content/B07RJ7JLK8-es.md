@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJ7JLK8-es Tommy Hilfiger Big Flag Cap Gorra de béisbol Azul Blue Cjm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.58 EUR
 currency: EUR
 price: 20.58

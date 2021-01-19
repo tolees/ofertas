@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0778JZRRS-es Pro Breeze Calefactor Eléctrico Cerámico 500W - con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

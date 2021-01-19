@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0742XFHTH-es Skechers Women s RETROS-OG 85-GOLDN GURL Trainers Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.69 EUR
 currency: EUR
 price: 33.69

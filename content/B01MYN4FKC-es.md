@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYN4FKC-es Hero Baby Trocitos Tarrito de Puré de Espaguetis con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

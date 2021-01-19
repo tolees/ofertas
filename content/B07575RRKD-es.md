@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07575RRKD-es Chicco Echo - Silla de paseo ligera y compacta soporta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 87.2 EUR
 currency: EUR
 price: 87.2

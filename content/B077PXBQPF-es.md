@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PXBQPF-es Pala NOX Attraction A.4'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

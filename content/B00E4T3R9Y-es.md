@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E4T3R9Y-es NUK 10256342 - Dosificador de leche en polvo 3...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IX0LD9A-es Triumph My Perfect Shaper WP Sujetador Mujer Beige NUDE...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

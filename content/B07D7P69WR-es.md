@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7P69WR-es HBselect 6 Piezas Multicolor Cepillo Dientes Bebe Silicona...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

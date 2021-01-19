@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQSZBD-es Pepe Jeans Marissa suéter Candle 806 Small para Mujer'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.26 EUR
 currency: EUR
 price: 16.26

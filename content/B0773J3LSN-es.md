@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773J3LSN-es Montse Interiors Saco Nórdico Princesas Little Princess...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

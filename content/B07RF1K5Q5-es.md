@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RF1K5Q5-es MODAUTO Alerón Trasero para Coche Longitud 1.45cm Ancho...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

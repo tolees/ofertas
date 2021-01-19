@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXD1ZXY-es Keter Duotech M Maceta Sequoia Tamaño M'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

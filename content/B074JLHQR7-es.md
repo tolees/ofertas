@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074JLHQR7-es Bulova Reloj Analógico para Hombre de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 446.25 EUR
 currency: EUR
 price: 446.25

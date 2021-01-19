@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X18MKJL-es Ron Millonario 10º aniversario'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.05 EUR
 currency: EUR
 price: 23.05

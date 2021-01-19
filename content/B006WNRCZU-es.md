@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006WNRCZU-es Grohe Cosmopolitan - Dispensador de jabón líquido con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.85 EUR
 currency: EUR
 price: 39.85

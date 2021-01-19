@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00429KKMI-es Herradura Reposado Tequila - 700 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

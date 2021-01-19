@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFPGLYX-es Razer Mouse Bungee V2 - Accesorios de Controlador de Juego...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

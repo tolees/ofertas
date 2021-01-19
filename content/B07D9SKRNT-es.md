@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9SKRNT-es BSN All In One Weight Gainer Polvo de Proteína de Suero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.87 EUR
 currency: EUR
 price: 39.87

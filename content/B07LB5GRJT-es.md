@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LB5GRJT-es Nike W NSW LEGASEE HW JDI - Leggings Mujer Black/White M'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0055ZOURO-es Balay 3WMX1918 - Microondas Acero INOX 800 W 17 litros Plata'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

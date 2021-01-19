@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CENTNO-es Rowenta ZR005501 Juego De Filtros Para Aspiradora Sin...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

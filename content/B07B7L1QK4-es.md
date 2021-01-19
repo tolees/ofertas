@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B7L1QK4-es VASAGLE Carrito de Servicio de 3 Niveles Estantería...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

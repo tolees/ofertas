@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZF8FSK-es [1-Pack]para Samsung Galaxy S9 Protector de Pantalla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.03 EUR
 currency: EUR
 price: 1.03

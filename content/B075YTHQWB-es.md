@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075YTHQWB-es 4UMOR Báscula Digital para Maleta Viaje de Mano de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

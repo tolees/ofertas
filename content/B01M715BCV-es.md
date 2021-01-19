@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M715BCV-es KLIM™ Wind + Base de refrigeración para portátil + La más...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

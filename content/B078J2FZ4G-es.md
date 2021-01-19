@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078J2FZ4G-es D-Link COVR-C1203 - Kit WiFi Mesh/Malla con 3 Puntos de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 156.09 EUR
 currency: EUR
 price: 156.09

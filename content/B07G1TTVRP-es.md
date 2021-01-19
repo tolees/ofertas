@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1TTVRP-es Suizo Digital Dulect IP66 Caja de Sonido a Prueba de Agua...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.69 EUR
 currency: EUR
 price: 26.69

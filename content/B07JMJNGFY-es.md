@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMJNGFY-es Adidas Falcon Zapatillas de Trail Running para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.96 EUR
 currency: EUR
 price: 35.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTUZXK-es G-STAR RAW Midge Saddle Mid Waist Straight Jeans Azul Dk...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HCMJ3G8-es Wuree Doble Cara Brillo Negro Harry Potter Inspirado Feliz...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

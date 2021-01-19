@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9DR8QG-es Logitech G703 Lightspeed Ratón Gaming Inalámbrico Captor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008X3RW3O-es Geox U Federico W Zapatos Derby para Hombre Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

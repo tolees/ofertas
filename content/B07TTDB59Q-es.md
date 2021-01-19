@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTDB59Q-es Superga 2750-cotcontrastu Zapatillas de Gimnasia para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.41 EUR
 currency: EUR
 price: 12.41

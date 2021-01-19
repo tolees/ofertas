@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKMQNBC-es Clarks Sharon Dolly Mocasines Mujer Negro Black Sde Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.08 EUR
 currency: EUR
 price: 25.08

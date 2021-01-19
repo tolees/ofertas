@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003DZ13JG-es Bosch PST 900 PEL - Sierra de calar 620 W en maletín'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 73.57 EUR
 currency: EUR
 price: 73.57

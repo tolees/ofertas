@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZT39KQ-es PURLINE HOTI F20 Calefactor cerámico con termostato...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DZW6HF9-es Rimmel London Magnifeyes Palette Paleta de Sombras Jewel...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

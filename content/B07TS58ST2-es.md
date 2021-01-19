@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS58ST2-es 24x Color de la mezcla Lámina impresa 2d PEGATINAS lisas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

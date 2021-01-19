@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LCU6TBK-es Kinder Bueno Mini Barritas con Relleno de Leche y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

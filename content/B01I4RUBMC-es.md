@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I4RUBMC-es Breville DuraCeramic VST074X - Sandwichera con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

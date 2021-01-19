@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F3U9N2S-es Iron Man 2 [DVD]'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

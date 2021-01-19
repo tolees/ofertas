@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXK5DT4-es TAZEMAT 36 Hojas Plantillas para Pintar Diseño de Mandala...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LLT7AKG-es NYK1 Champu Sin Sulfatos Y Acondicionador - Champu Sin...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.96 EUR
 currency: EUR
 price: 29.96

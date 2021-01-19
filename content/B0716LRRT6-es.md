@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0716LRRT6-es Levi s The Perfect Tee Camiseta para Mujer Gris Better...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

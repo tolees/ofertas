@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NFPPH7-es Sotor 76 x 67 x 110 CM Funda Barbacoa Pequeña Impermeable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016OBVI0E-es Msi DS B1 Ratón Black'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.86 EUR
 currency: EUR
 price: 17.86

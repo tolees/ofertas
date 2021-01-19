@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSSH9U6-es Samsung S View Cover - Funda para Samsung Galaxy S7 Edge...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

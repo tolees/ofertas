@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NMXKW2-es LoveOlvido Suéter Peine Manual Cepillo de Ropa Bola de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.1 EUR
 currency: EUR
 price: 1.1

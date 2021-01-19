@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4RZW2K-es Camiseta de Baloncesto NBA Chicago Bulls para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.75 EUR
 currency: EUR
 price: 10.75

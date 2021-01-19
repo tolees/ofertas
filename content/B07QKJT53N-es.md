@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKJT53N-es MS Windows 10 Pro 32 Bits y 64 Bits - Clave de Licencia...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

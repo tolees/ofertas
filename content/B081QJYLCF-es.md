@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QJYLCF-es Deik Juego de 5 Utensilios Antiadherentes para Horno-...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

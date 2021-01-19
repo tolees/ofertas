@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CUJQ7UG-es Samsung HS130 - Auriculares de botón con micrófono control...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

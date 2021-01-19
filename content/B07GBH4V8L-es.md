@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBH4V8L-es Duracell Powerbank 3350 mAh - Cargador universal portátil...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

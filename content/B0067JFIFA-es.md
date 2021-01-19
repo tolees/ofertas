@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0067JFIFA-es Rimmel London Lasting Finish Barra De Labios Tono 264...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.77 EUR
 currency: EUR
 price: 2.77

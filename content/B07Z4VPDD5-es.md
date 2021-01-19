@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4VPDD5-es SONARIN Saco Silla de Paseo universal Protección...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00005LADI-es Hama Cubo Cartón 10000 Perlas'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.45 EUR
 currency: EUR
 price: 15.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ64QX4-es Laguiole 6050/51 - Cuchillo de carne'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 73.13 EUR
 currency: EUR
 price: 73.13

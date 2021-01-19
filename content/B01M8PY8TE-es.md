@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M8PY8TE-es G-STAR RAW Duko Belt Cinturón Marrón Dk Cognac/antic...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.41 EUR
 currency: EUR
 price: 8.41

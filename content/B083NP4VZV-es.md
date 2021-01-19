@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NP4VZV-es Brace Master Colchón de Aire tamaño Doble y Almohada:...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

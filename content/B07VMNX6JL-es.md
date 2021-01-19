@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMNX6JL-es Calvin Klein Medium Drawstring Bañador Blanco PVH Classic...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.6 EUR
 currency: EUR
 price: 36.6

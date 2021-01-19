@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009RHOFQW-es Ghostbusters Silicone Tray'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

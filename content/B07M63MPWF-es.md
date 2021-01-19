@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M63MPWF-es SINOES Hombre Zapatillas de Baloncesto Calzado Deportivo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.58 EUR
 currency: EUR
 price: 22.58

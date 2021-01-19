@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IBG6XH4-es NUK 10750796 – detergente en espuma para biberón con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

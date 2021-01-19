@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WL7BB43-es Epson Workforce WF-2850 - Impresora Multifunción Color'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 94.9 EUR
 currency: EUR
 price: 94.9

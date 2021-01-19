@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0195BLWJW-es Calypso K5698/6 - Reloj de Pulsera Unisex Plástico Color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.87 EUR
 currency: EUR
 price: 23.87

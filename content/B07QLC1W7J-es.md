@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLC1W7J-es Sierra Circular GALAX PRO 1400W 5500RPM Sierra Eléctrica...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

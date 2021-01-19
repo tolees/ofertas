@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OUWQYO0-es adidas Superstar Zapatillas de deporte Unisex Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.12 EUR
 currency: EUR
 price: 59.12

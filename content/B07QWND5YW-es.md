@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWND5YW-es Under Armour Metallic Woven FZ Parte Superior del...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

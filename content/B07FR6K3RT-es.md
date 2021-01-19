@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR6K3RT-es Clarks Triactive Up Zapatillas para Hombre Verde Olive...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.02 EUR
 currency: EUR
 price: 31.02

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WS5M5FB-es Videocamara Videocámara Cámara de Video Full HD 1080p...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

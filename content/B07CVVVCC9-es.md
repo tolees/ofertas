@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVVVCC9-es Samsung muf-64be4/eu 64gb 3.0 3.1 Gen 1 Conector USB Tipo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.81 EUR
 currency: EUR
 price: 15.81

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BVH1Y00-es Physionics Mini trampolín en Varias tamaños - Peso máximo:...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

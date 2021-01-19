@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMP8P14-es adidas E 3s Chelsea Pantalones Cortos de Deporte Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.69 EUR
 currency: EUR
 price: 10.69

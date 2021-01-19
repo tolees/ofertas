@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H7SFKZ4-es Nike Downshifter 9 Zapatillas de Running para Asfalto para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.89 EUR
 currency: EUR
 price: 37.89

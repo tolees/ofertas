@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073YSWBRX-es Skechers-111 41'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

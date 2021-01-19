@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRWLKZ-es Waterpik Complete Care 9.5 - Cepillo de dientes eléctrico...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

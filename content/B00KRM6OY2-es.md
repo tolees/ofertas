@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KRM6OY2-es Amazon - Funda protectora para Kindle 7ª generación -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

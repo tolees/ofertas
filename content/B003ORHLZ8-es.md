@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ORHLZ8-es 3 5 mm Estéreo Conector Jack Divisor Adaptador Cable Cable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

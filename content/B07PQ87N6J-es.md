@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQ87N6J-es Kipling - Creativity S Monederos Mujer Multicolor Navy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

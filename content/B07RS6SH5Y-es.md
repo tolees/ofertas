@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RS6SH5Y-es Tommy Hilfiger - Th Core Mini Bucket Bolsos bandolera...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

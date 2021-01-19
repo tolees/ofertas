@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073GWGQV1-es Monederos Mujer Piel Carteras Mujer RFID Gran Capacidad...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

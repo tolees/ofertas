@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K8SJNP2-es Yazilind deslumbrante plata Plated princesa cortada Gancho...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.81 EUR
 currency: EUR
 price: 2.81

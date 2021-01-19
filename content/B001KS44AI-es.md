@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001KS44AI-es Vans Authentic Zapatillas de Tela Unisex Rojo Red 36.5 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 40.39 EUR
 currency: EUR
 price: 40.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8Y11RK-es Alpina 295441044/A19 Cortacesped Gasolina BL 410 123 CC...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.58 EUR
 currency: EUR
 price: 69.58

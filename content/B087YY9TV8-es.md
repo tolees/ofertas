@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087YY9TV8-es Conjunto De Bikini Acolchado De Malla Cruzada para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.56 EUR
 currency: EUR
 price: 11.56

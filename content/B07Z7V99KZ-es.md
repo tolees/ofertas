@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7V99KZ-es IXROAD Cámara Deportiva 4K WiFi 24MP Camara Acuatica...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

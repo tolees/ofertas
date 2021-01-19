@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004JNXLX2-es TBS Globek Mocasines para Hombre Negro 45 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 71.94 EUR
 currency: EUR
 price: 71.94

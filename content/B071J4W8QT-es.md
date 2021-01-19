@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071J4W8QT-es Dc Shoes Magnolia Se Zapatillas para Mujer Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

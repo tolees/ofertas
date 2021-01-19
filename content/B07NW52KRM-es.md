@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW52KRM-es Skechers Women s Skech-AIR Stratus-Sparkling W Trainers...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 52.69 EUR
 currency: EUR
 price: 52.69

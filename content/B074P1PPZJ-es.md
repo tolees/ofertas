@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074P1PPZJ-es adidas Stan Smith I Zapatillas Unisex Niños Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGLDFRY-es Skechers Go Run Pulse Zapatillas para Hombre Negro Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

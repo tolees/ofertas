@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LDJWKM-es TACKLIFE Cúter UKH01 Cuchillo con 5 Hojas Extra...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

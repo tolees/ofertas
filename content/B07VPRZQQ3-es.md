@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPRZQQ3-es SINOES Hombre 720 Caña Baja Gimnasia Ligero Transpirable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

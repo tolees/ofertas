@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0045WNGTQ-es Calvados Boulard Calvados Pays d Auge XO mit...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.69 EUR
 currency: EUR
 price: 25.69

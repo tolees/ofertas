@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDDC9M7-es Zinmuwa Mujer Pendientes Bola Colgante Perla Artificial...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0822W5BXX-es GRÜNTEK Tijera de podar de 1 Mano Bussard 20 cm. Podadora...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

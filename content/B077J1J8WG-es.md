@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077J1J8WG-es Casio Reloj Digital para Mujer de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.6 EUR
 currency: EUR
 price: 79.6

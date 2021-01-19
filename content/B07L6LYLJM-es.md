@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6LYLJM-es Skagen Reloj Analógico para Mujer de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 118.95 EUR
 currency: EUR
 price: 118.95

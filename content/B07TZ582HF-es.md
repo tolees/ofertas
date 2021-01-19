@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ582HF-es Women s Secret Print Flower Mesh Pink Sujetador básico...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.18 EUR
 currency: EUR
 price: 12.18

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K7Y7ROQ-es Beissier M109055 - Aguaplast express de 1 kg'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

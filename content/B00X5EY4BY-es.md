@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X5EY4BY-es Armani Exchange Reloj Analógico para Hombre de Cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 142.15 EUR
 currency: EUR
 price: 142.15

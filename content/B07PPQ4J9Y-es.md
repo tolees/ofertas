@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPQ4J9Y-es New Balance 500 h Zapatillas para Hombre Gris Grey Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.73 EUR
 currency: EUR
 price: 47.73

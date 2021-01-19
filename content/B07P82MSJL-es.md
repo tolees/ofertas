@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P82MSJL-es Pop! Figura de Vinilo: Harry Potter S7 - Viktor Krum Yule'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.71 EUR
 currency: EUR
 price: 9.71

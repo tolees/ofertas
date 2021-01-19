@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHY76TH-es Kickers Tyl Botas Slouch para Mujer Negro Noir 81 41 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.8 EUR
 currency: EUR
 price: 48.8

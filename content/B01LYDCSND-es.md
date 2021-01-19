@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYDCSND-es Parker Urban 1931596 - Pluma estilográfica negro London...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.61 EUR
 currency: EUR
 price: 41.61

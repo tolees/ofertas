@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088D1W7PY-es Younsea Correa Galaxy Watch Active 2 Correas de Acero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

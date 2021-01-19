@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K9SZVB9-es Pearl Garland – Carrete redondo de perlas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.57 EUR
 currency: EUR
 price: 11.57

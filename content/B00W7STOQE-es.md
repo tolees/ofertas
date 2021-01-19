@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W7STOQE-es ROC KEOPS - Desodorante Roll On Piel Normal 30 ml x2'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

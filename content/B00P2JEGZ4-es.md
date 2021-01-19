@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P2JEGZ4-es Memoria USB 16GB 10 Piezas Pen Drives - Portátil Pendrive...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

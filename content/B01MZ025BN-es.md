@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ025BN-es find. Floral Wide Leg Pantalones para Mujer Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12 EUR
 currency: EUR
 price: 12

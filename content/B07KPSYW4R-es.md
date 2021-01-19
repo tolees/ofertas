@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPSYW4R-es Pop! Vinilo: Spider-Man Far from Home: Molten Man'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

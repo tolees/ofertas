@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HXVK676-es Wilson Pro Overgrip Empuñadura 30 unidades unisex blanco'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.67 EUR
 currency: EUR
 price: 36.67

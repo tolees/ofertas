@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RK2HGVZ-es Licuadora Prensado en Frio Jocuu Licuadora Frutas Verduras...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 58.37 EUR
 currency: EUR
 price: 58.37

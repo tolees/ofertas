@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F2NKL4U-es Bellota 4539-24 Sierra Arco'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3 EUR
 currency: EUR
 price: 3

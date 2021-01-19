@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000V6STJW-es Speedo Endurance Traje de natación para mujer Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.82 EUR
 currency: EUR
 price: 21.82

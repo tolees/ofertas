@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M75LV2W-es Relec Infantil Loción Repelente Eficaz Antimosquitos....'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.85 EUR
 currency: EUR
 price: 7.85

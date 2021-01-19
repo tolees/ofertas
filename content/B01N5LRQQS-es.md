@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5LRQQS-es Alluflon Tradizione Italia Crepera aluminio negro 22 cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

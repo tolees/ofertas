@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K148XNH-es Adidas Altasport K Zapatillas de Entrenamiento Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

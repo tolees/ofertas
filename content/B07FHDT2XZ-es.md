@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHDT2XZ-es SALOMON Agile 2In1 Short M Pantalones Cortos Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

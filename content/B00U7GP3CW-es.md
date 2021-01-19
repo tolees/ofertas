@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U7GP3CW-es BLACK+DECKER GW2500-QS - Aspirador soplador y triturador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 71.82 EUR
 currency: EUR
 price: 71.82

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTZFH38-es Asics Gel-Nimbus 21 Zapatillas de Running para Mujer Gris...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.16 EUR
 currency: EUR
 price: 59.16

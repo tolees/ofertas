@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J7L4U4U-es Buff Solid Calentador Polar Unisex Adulto Black Talla única'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

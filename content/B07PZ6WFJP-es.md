@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZ6WFJP-es FREDI Cámara espía Wireless Mini cámara de Seguridad HD...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

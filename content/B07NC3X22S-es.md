@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC3X22S-es AXE Ice Chill - Desodorante Bodyspray para hombre 48 horas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

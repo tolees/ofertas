@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MFBW91-es OBEEII Vestido de Fiesta Niña Disfraz para Ninas para Boda...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

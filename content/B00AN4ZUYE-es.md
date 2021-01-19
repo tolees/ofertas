@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AN4ZUYE-es Sangean DDR3-1BT - Radio DAB Reloj digital DAB+ FM 4 W...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.6 EUR
 currency: EUR
 price: 79.6

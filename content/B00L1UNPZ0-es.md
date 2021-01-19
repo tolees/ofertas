@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L1UNPZ0-es Skechers Equalizer Persistent Zapatillas para Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

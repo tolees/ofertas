@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004E9TXBK-es GANT Solid Pique SS Rugger Polo para Hombre Negro Black 48...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.48 EUR
 currency: EUR
 price: 46.48

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079B7FLLV-es PUMA LIGA Shorts Pants Hombre Cordovan White XL'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

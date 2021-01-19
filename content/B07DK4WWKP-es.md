@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK4WWKP-es Levi s Graphic Po Hoodie-B suéter Gris Hm Pop Oscuro Mid...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

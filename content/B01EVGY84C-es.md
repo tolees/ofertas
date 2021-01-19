@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EVGY84C-es Diesel 00ST1N0CAND Pantalones Deportivos Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

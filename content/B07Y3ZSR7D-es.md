@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y3ZSR7D-es HUAWEI 4G Mobile WiFi - Mobile WiFi 4G LTE CAT4 Piunto de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

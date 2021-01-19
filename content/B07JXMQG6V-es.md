@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JXMQG6V-es Chantelle DE Pyramide Sujetador Beige Champagner NL 85D...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.27 EUR
 currency: EUR
 price: 30.27

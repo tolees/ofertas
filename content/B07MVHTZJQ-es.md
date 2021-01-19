@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVHTZJQ-es Kipling - Card Keeper Carteras Mujer Morado Dark Plum...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.53 EUR
 currency: EUR
 price: 14.53

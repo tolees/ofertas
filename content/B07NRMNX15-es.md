@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRMNX15-es Cámara IP Exterior Camara IP WiFi 1080p Cámara Vigilancia...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

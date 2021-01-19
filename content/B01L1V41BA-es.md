@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L1V41BA-es Nilox - Spray Aria-Gas leggeri-400ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.38 EUR
 currency: EUR
 price: 3.38

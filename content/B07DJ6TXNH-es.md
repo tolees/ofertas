@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ6TXNH-es New Balance 574S v2 Zapatillas para Mujer Rosa Cashmere...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.57 EUR
 currency: EUR
 price: 48.57

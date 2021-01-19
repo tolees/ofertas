@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH3KFFL-es Reebok Nano 9 Zapatillas de Deporte para Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 84.02 EUR
 currency: EUR
 price: 84.02

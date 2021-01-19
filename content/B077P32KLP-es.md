@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077P32KLP-es BaByliss ST500E - Plancha de pelo inteligente profesional...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 68.9 EUR
 currency: EUR
 price: 68.9

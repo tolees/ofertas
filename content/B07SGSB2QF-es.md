@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGSB2QF-es Nike ATM NK PRSTG Soccer Ball Adultos Unisex White/Sport...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

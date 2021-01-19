@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086MXGLQV-es KFAWON Ring Pilates Yoga Magic Fitness Circle -Equipo de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2SN29S-es New Balance 997H m Zapatillas para Mujer Morado Purple Haq...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.94 EUR
 currency: EUR
 price: 49.94

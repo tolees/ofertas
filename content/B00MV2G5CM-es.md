@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MV2G5CM-es Sisley Phyto-Teint Expert #3-Natural 30 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 50.34 EUR
 currency: EUR
 price: 50.34

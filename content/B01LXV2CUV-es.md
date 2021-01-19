@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXV2CUV-es Vernel Aromaterapia Secretos de Bienestar Suavizante...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

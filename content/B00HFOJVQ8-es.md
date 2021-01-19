@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HFOJVQ8-es TATAY 7738001 Carrito auxiliar de cocina con 3 cestas y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CR6D92U-es Kripton Halley Zapatillas Unisex Niños Azul Marino 23 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.52 EUR
 currency: EUR
 price: 4.52

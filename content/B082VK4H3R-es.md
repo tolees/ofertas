@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VK4H3R-es Icons Corner Pack 4 sillas Negro IMS Modelo Eiffel Patas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DEICO1I-es Marvel Character World Disney Comics - Juego de Funda de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.39 EUR
 currency: EUR
 price: 30.39

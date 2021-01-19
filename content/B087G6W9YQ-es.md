@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087G6W9YQ-es Fifet Papel Mano de Scrapbooking Herramienta de Papel...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

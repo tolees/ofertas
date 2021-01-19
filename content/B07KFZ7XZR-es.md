@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZ7XZR-es Puma Icra Trainer Sd V Inf Zapatillas Unisex Niños Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.57 EUR
 currency: EUR
 price: 12.57

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PNUI6A8-es adidas Originals Superstar Zapatillas de deporte Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 73.43 EUR
 currency: EUR
 price: 73.43

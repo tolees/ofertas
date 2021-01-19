@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XKDCCGZ-es Epson DURABrite Ultra Ink Cartucho de Tinta para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

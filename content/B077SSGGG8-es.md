@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SSGGG8-es Adaptador de Viaje Cargador de Pared con Doble Puerto de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

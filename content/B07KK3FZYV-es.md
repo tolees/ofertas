@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK3FZYV-es Columbia Peakfreak X2 Mid Outdry Zapatos de Senderismo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.18 EUR
 currency: EUR
 price: 39.18

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DQV11SO-es Twins Looney Tunes 1 127 67-Camiseta Bebé Bebé unisex Weiß...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

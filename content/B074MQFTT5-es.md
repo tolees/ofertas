@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074MQFTT5-es Cámara de acción Sansnail H9 Outdoor mini 30 metros de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

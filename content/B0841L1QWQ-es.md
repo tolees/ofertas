@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0841L1QWQ-es Panamami 2018 New Water Guns Pool Toys para niños Squirt...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.57 EUR
 currency: EUR
 price: 3.57

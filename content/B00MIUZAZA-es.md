@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MIUZAZA-es Bosch Professional GLI 12V-330 - Linterna a batería 12V...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

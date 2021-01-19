@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WRQZRZ9-es Waldhausen X-Line Trensenzaum Crowncaps'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.39 EUR
 currency: EUR
 price: 47.39

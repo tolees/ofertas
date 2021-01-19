@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KD6QRTP-es Repuhand 300 Piezas Hojas de Arce Otoño Papeles...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

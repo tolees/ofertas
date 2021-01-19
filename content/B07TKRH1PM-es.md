@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKRH1PM-es Clarks Sharon Dasher Mocasines para Mujer Beige Sand Suede...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.79 EUR
 currency: EUR
 price: 38.79

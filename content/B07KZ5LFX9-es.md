@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZ5LFX9-es PBN - Proteína de suero de leche en polvo 2.27 kg sabor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

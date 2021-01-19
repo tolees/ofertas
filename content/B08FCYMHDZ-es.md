@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FCYMHDZ-es Captain Tsubasa: Rise Of New Champions - Special Edition'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.75 EUR
 currency: EUR
 price: 48.75

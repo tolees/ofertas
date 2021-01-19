@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C9Z7JC6-es Toomax 162R Baùl Plástico Antracita'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 92.71 EUR
 currency: EUR
 price: 92.71

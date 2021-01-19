@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HXM2WX-es HP ENVY Photo 6234 - Impresora multifunción Inyección de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.68 EUR
 currency: EUR
 price: 51.68

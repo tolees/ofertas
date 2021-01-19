@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CFYKG3V-es Rimmel London Stay Matte Liquid Lip Colour Nude Barra De...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

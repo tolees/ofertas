@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KRXSJW6-es HP C2P24AE 935XL Cartucho de Tinta Original de alto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

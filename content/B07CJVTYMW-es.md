@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJVTYMW-es D-Link DCS-8300LH – Cámara de vigilancia/Seguridad WiFi...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 85.88 EUR
 currency: EUR
 price: 85.88

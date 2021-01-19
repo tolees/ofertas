@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EPC6Q3E-es Guess Reloj Análogo clásico para Mujer de Cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 133.58 EUR
 currency: EUR
 price: 133.58

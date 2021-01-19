@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZZFDBW-es TRESemmé Champú Hidratación Intensa - Paquete de 4 x 900...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.41 EUR
 currency: EUR
 price: 14.41

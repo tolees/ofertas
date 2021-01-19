@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYP15DS-es Reebok Speed TR FLEXWEAVE Zapatillas de Deporte Interior...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 65.5 EUR
 currency: EUR
 price: 65.5

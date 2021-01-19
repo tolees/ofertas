@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9D9SVN-es Bolso de Fiesta Noche Hard Shell Clutch Pequeña Diamantes...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

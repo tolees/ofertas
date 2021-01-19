@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGGZ5TH-es Manta Dragón Bebe Personalizada con Nombre. Regalo Bebé...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

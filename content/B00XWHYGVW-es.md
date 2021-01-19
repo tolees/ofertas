@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XWHYGVW-es T-EQUIP PSC-130MSRT - Carro de armario utilitario de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 94.9 EUR
 currency: EUR
 price: 94.9

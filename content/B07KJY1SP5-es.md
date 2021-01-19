@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJY1SP5-es Nike W Nk Gym Club Bolsa de Gimnasio para Mujer Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0827TLDK9-es Caja de proyectos de electrónica caja de aluminio fundida...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

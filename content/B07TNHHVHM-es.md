@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNHHVHM-es WIN.MAX Diana Electrónica Diana Dardos Las diana se...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

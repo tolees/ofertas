@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9RXF43-es PUMA Nrgy Neko Retro Wns Zapatillas de Running para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

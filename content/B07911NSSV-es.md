@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07911NSSV-es culiclean Pinza Flor 48 Piezas Azul-Amarillo-Verde-Rosa'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

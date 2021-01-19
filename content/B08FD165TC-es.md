@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FD165TC-es Doaraha Pantalones Deportivos Mujer Algodón Pantalón de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

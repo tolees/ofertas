@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VX4PZS-es Vans Ward Canvas Zapatillas para Hombre Gris Pewter/White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

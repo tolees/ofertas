@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G6NK5DM-es Evergreenweb - Colchones matrimonial 160x190 Espuma de 20...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

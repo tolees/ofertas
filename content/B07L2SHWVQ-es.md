@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2SHWVQ-es Asics Gel-Contend 5 SL Walking Shoe Mens Black/Graphite...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

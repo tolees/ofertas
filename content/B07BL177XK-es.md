@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL177XK-es New Balance Fresh Foam 1080v9 Zapatillas de Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 92.73 EUR
 currency: EUR
 price: 92.73

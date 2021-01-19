@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KVK7VDV-es Tela de proyección Lux-Screen Formato 100" 16:9 2 12cm x 1...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

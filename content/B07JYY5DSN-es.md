@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYY5DSN-es Tommy Hilfiger TH Essential Flex Pleated Pullon Pantalones...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OXPT5RM-es Reality Luster Apliques y plafones E14 4 W Transparente...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.4 EUR
 currency: EUR
 price: 32.4

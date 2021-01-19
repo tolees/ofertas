@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGTY26D-es New Balance Hombre Fresh Foam Arishi v3 Scarpe Running...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.85 EUR
 currency: EUR
 price: 34.85

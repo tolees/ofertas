@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0816QFMN6-es Corax Games Tudor juego de tablero'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

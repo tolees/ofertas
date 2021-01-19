@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJG6KPD-es YSense 20 Piezas de Pulsera Antimosquitos Impermeable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DF972NZ-es Godmorn Molinillo de Café Eléctrico Molinillo Compacto de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

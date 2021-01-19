@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N15GP1V-es G-STAR RAW ARC 3D Vaqueros Authentic Faded Blue 34W / 30L...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 56.49 EUR
 currency: EUR
 price: 56.49

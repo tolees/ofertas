@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MJQR6M-es Curren hombres reloj de cuarzo analógico reloj de pulsera...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

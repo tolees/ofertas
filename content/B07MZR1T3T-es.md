@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZR1T3T-es Vans Ward Hi Platform Sneaker para Mujer Negro Canvas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.02 EUR
 currency: EUR
 price: 45.02

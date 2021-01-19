@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CKXJHS4-es Hogar Lavado portátil Lavado de artefactos de cara...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

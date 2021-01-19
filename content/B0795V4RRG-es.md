@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0795V4RRG-es Desigual BOLS Ginebra Lilac Bolso a mano 33 cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.22 EUR
 currency: EUR
 price: 55.22

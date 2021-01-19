@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000JTIX3S-es MASTER LOCK Caja fuerte para llaves [Mediana] [Montaje...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

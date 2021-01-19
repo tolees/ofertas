@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNYJFR8-es Biutee 6 pcs Esmalte para Stamping 8ml Seca por Secador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

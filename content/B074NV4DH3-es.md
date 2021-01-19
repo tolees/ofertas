@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074NV4DH3-es Cortapelos Nariz y Oreja - Liberex Recortador Eléctrico...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

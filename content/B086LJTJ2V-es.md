@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086LJTJ2V-es Mascarilla facial OptiPro para partículas KN95 / FFP2...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

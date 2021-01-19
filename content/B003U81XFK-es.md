@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003U81XFK-es IBRA® Master Gold - 1m Metros Cable óptico de Audio...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

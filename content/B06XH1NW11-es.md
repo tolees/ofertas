@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XH1NW11-es Element Carrier II Beanie Gorro Hombre Gris Charcoal...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

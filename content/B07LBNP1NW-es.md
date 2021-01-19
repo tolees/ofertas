@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBNP1NW-es Kappa Klasen Zapatillas Unisex Adulto Coral/White 2910 36 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

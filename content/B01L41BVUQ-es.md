@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L41BVUQ-es Havaianas Origine III Alpargatas Unisex Adulto Azul Navy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

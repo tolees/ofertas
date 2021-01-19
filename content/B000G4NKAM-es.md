@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000G4NKAM-es Adidas Samba Classic Schwarz-weiÃ Zapatillas de Fútbol...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

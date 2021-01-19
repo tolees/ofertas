@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075DG3LBZ-es EIS Lubricante Deluxe Aqua chocolate efecto de larga...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

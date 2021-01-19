@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003L1AASW-es Hawaiian Tropic - Protective Dry Oil Spray - Aceite...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

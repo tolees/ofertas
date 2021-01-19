@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KNTD1W-es Remington Compact Control IPL3500 - Depiladora de Luz...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 93.92 EUR
 currency: EUR
 price: 93.92

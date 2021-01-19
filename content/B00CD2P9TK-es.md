@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CD2P9TK-es N/a - Nescafe dolce gusto marrakesh style tea pack of 3 by na'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

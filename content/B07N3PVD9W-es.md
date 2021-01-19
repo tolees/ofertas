@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3PVD9W-es Gliss - Mascarilla Ultimate Oil Elixir - 2 uds de 300ml -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

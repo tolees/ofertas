@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EIN8NTY-es Victoria Deportivo Basket Piel - Zapatillas de Deporte...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.29 EUR
 currency: EUR
 price: 37.29

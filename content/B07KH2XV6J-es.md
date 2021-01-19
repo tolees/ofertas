@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KH2XV6J-es Under Armour UA Rush Tank Tanque Mujer Gris Ash...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

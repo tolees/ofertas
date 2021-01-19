@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KOC3QIG-es Beurer MP 55 Máquina para Callos Recargable Eliminador de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

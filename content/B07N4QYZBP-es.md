@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4QYZBP-es Under Armour Tech Pant 2.0 Pantalones Deportivos Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.87 EUR
 currency: EUR
 price: 17.87

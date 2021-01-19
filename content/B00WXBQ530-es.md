@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WXBQ530-es San Ignacio Galaxy - Sartén diámetro de 18 cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

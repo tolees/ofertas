@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083T42DFT-es San Ignacio PK1790 3 sartenes 20 24 28 cms alumino...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

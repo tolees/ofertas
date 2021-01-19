@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYXVNYN-es Vacío Envasado Máquina Envasadora Alimentos Conservación...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

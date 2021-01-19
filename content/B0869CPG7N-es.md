@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869CPG7N-es Controlador de control remoto universal Regulación de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

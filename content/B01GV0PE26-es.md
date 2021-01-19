@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GV0PE26-es Emuca - Regleta multienchufe retráctil con 3 enchufes...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

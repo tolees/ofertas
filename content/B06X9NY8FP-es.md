@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9NY8FP-es Paletero Bullpadel 17004 Yellow'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

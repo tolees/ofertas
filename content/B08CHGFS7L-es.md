@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CHGFS7L-es GZ Caja De Almacenamiento De Máscara A Prueba De Polvo A...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.84 EUR
 currency: EUR
 price: 1.84

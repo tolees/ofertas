@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1HRMKN-es Kipling ART ON WHEELS M - Maleta 41 liters Negro BLACK INDIGO'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 65.47 EUR
 currency: EUR
 price: 65.47

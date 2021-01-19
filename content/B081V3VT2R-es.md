@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081V3VT2R-es Arbily Auriculares Inalámbricos Auriculares Estéreo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

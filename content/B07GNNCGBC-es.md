@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNNCGBC-es i-eX Puf para Videojuegos y reposapiés Negro 91cm x 88cm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

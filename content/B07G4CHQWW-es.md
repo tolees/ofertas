@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4CHQWW-es Sharplace Juguete de Vehículo de Imitación Modelo de Barco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.07 EUR
 currency: EUR
 price: 9.07

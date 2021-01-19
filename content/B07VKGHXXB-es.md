@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKGHXXB-es NIKE M NSW Swoosh Hbr SS tee T-Shirt Hombre White/ Black M'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

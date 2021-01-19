@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V69YPH8-es Jack & Jones Jcocloud Crew Neck suéter Marrón Fudge Fit:...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

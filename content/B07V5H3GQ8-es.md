@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5H3GQ8-es Jata MP423 CORTAPELOS Gris PEQUEÑO'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

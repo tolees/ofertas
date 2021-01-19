@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMHB23T-es Clarins 57923 Joli Rouge Lacquer Pintalabios N.732L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.48 EUR
 currency: EUR
 price: 13.48

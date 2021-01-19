@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F2O0W6G-es Einhell Expert Taladro atornillador sin cable TE-CD 12...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HSF4BNM-es KUHN RIKON Molinillo con Palanca Rojo Centimeters'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.17 EUR
 currency: EUR
 price: 13.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0785WWVM9-es Under Armour Tech 2.0 1/2 Zip Parte Superior del...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

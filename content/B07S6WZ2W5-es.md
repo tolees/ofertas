@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6WZ2W5-es Vivesoy Fusión Almendra y Anacardo pack de 6 x 1L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.07 EUR
 currency: EUR
 price: 7.07

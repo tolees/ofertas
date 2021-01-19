@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMX4WZ4-es Clarks Tri Amelia Bar Zapatillas sin Cordones para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.62 EUR
 currency: EUR
 price: 44.62

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004RHVJYS-es Keter - Mini huerto en casa Raised Garden Ben con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.97 EUR
 currency: EUR
 price: 27.97

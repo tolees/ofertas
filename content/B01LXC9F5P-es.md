@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXC9F5P-es Saint Seiya Box 8 [DVD]'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.8 EUR
 currency: EUR
 price: 22.8

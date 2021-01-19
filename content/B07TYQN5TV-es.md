@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYQN5TV-es Gant Preptown Zapatillas para Mujer Rosa Blossom Pink G583...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

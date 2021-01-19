@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXXBP5R-es GLOBE Encore-2 Zapatillas de Skateboard para Hombre Marrón...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.72 EUR
 currency: EUR
 price: 19.72

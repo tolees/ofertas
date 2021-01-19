@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRCN2YR-es adidas EQT Gazelle Hombre Azul Collegiate Navy/Gold...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.42 EUR
 currency: EUR
 price: 30.42

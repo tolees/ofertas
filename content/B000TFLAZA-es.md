@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000TFLAZA-es Baby Eistein - Pulpo 3 Idiomas Baby Einstein'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

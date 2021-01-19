@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OVSYRTW-es Camano 3003 Ca-Soft Sneaker 7 Paar Calcetines cortos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

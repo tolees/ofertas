@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXVN33T-es Skechers Go Run 600 Zapatillas para Hombre Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.85 EUR
 currency: EUR
 price: 36.85

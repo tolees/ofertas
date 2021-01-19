@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZMXP5R-es Pepe Jeans London Dean Warm Zapatillas Altas para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.33 EUR
 currency: EUR
 price: 34.33

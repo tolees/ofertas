@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZYHL9Q-es Kipling KiplingDrawpackMujerBolsos totesVerde Fro Mint...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

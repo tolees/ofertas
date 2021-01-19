@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B8C3YLB-es Head Pala de Padel Alpha Speed 2020'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 114.95 EUR
 currency: EUR
 price: 114.95

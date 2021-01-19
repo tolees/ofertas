@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JQTDKWK-es Amazon Essentials Drawstring Walk Short Azul Navy Small'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

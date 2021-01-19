@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2SK4J4-es New Balance 997h Zapatillas para Hombre Gris Grey/Navy Heq...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.45 EUR
 currency: EUR
 price: 53.45

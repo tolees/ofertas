@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJTZXFW-es Libertroy USB Splitter 3usb Multifunción 3a Conversor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.7 EUR
 currency: EUR
 price: 1.7

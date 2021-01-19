@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0035LCW3O-es Ardell Tratamiento para pestañas 109 Black - 25 gr.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

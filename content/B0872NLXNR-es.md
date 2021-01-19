@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872NLXNR-es Funda Transparente Compatible para Xiaomi Redmi S2/Y2...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

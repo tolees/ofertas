@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T6FCZN6-es Auriculares inalámbricos auténticos resistentes al sudor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

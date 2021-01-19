@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0769T9GCF-es B Blesiya 48pcs Topper Vintage Cupcake Flor Fairy Cowboy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.33 EUR
 currency: EUR
 price: 12.33

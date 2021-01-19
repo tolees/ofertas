@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0888CZCTB-es GONGFF Archivadores Armario Armario Cosmético Caja de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

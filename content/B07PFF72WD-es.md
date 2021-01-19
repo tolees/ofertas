@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFF72WD-es Disney Bañador para Mujer Minnie Mouse Blanco Medium'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

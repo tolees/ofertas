@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833CLWP9-es Pendientes de tuerca de bola de oro amarillo de 14...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.12 EUR
 currency: EUR
 price: 46.12

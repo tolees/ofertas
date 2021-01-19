@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBL5SMN-es Kappa Bonfire Botas Clasicas Unisex Adulto Brown 5050 36 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

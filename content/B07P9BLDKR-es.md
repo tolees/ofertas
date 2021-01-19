@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9BLDKR-es Amazon Echo 3.ª generación - Altavoz inteligente con Alexa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

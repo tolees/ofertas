@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4N5KF6-es Tommy Hilfiger Corporate Flatform Sneaker Zapatillas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.85 EUR
 currency: EUR
 price: 36.85

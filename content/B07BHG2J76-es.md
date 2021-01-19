@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHG2J76-es Suhu Taburete De Almacenamiento Banco Puff Asiento Lino...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

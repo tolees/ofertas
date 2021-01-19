@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012GSPON6-es Original Buff - Knitted & Polar Hat Solid Unisex Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

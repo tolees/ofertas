@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M64ST5V-es Nike Wmns Air Heights Zapatillas de Running para Asfalto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.72 EUR
 currency: EUR
 price: 31.72

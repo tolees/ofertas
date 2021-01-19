@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2HV87J-es TMISHION Ortesis para el Hombro Corrector de Postura del...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

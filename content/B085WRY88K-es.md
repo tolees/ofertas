@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085WRY88K-es Diadema de Flores Corona 5 piezas Corona de Flores Girasol...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

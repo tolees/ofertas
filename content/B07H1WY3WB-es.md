@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H1WY3WB-es Rizador Pelo Profesional 6 en 1 Plancha Pelo Curling Iron...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

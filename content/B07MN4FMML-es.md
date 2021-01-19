@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN4FMML-es Wrangler Larston Pantalones Azul Navy 30W / 34L para Hombre'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

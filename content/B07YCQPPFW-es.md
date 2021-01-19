@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCQPPFW-es LeYi Funda Xiaomi Mi A3 / Mi CC9e con HD Protector...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.77 EUR
 currency: EUR
 price: 8.77

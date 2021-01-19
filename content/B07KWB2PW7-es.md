@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWB2PW7-es Salomon XA Pro 3D W Zapatillas de trail running Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.21 EUR
 currency: EUR
 price: 59.21

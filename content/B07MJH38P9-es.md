@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJH38P9-es Birkenstock Rio Sandalia con Pulsera para Niñas Rosa Coral...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

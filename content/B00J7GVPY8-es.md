@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J7GVPY8-es Zwilling Plus Asador Acero Inoxidable 1 cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 62.41 EUR
 currency: EUR
 price: 62.41

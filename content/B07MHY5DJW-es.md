@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHY5DJW-es Kickers Swibo Botas Clasicas para Hombre Verde Kaki 20 46 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

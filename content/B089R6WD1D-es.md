@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089R6WD1D-es LJP Funda Huawei Y9S Funda Huawei Honor 9X Antigolpes...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

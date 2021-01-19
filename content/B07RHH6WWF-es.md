@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHH6WWF-es El clip del oído de las Estrellas Ninguna Perforación...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

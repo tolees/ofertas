@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BLFO2NY-es American Crew Superglue Gel Fijador Fijación Extrema y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

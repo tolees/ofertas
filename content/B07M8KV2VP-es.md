@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8KV2VP-es Salewa WS Speed Beat GTX Zapatillas de Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46

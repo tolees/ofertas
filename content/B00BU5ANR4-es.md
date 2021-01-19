@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BU5ANR4-es Medipaq Rodillera Protectora de Rótula y Ligamientos –...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

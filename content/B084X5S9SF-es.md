@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084X5S9SF-es Niños Puzzle Memory Game Console LED Light Sound...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.43 EUR
 currency: EUR
 price: 5.43

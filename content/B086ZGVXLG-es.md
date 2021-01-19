@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZGVXLG-es M30 6.0 Pulgadas Smartphone 512M + 4Gb ROM Dual Sim...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.59 EUR
 currency: EUR
 price: 53.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071P3FRR5-es Mando a Distancia para Philips UHD LED TV 43PUH4900/88...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

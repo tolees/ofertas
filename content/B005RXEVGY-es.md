@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005RXEVGY-es Eddie Bauer - Pantalones Mujer Color Marfil Talla 38/30 US: 8'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

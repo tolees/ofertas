@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DEID79G-es CTEK MXS 5.0 Cargador de Batería Totalmente Automático...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

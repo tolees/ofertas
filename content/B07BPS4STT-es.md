@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPS4STT-es Baoblaze 1 Par de Altavoces Accesorios de Audio Música...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.14 EUR
 currency: EUR
 price: 17.14

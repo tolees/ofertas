@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHRFCFK-es Shenmue I & II - PS4'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

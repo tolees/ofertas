@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRTD77M-es Schwarzkopf Gliss - Reparador de puntas Ultimate Repair 2...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

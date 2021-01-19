@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GTJ2Y2J-es 3 M 9312pro10 Máscara para mano lazos 10 unidades'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.09 EUR
 currency: EUR
 price: 18.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C8YCQB8-es Vans Ward Platform Canvas Zapatillas Mujer Negro Canvas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.71 EUR
 currency: EUR
 price: 51.71

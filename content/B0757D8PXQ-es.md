@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0757D8PXQ-es 1 Par 7/8" Motocicleta Perillas Motocicleta Universal Puño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

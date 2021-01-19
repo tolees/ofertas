@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2JBKY6-es Dim Generous Ed. Limitada Capacidad Sujetador básico Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.61 EUR
 currency: EUR
 price: 19.61

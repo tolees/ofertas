@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2RPNH0-es Gigandet Minimalism Reloj Caballero Dual Time Watch...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

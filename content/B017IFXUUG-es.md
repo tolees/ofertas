@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017IFXUUG-es DELL UltraSharp UP3216Q LED Display 80 cm 31.5" 4K Ultra...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 587.0 EUR
 currency: EUR
 price: 587.0

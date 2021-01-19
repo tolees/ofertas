@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKQTA4A-es Daniel Wellington Reloj con Correa de Acero para Mujer 0608DW'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 85.47 EUR
 currency: EUR
 price: 85.47

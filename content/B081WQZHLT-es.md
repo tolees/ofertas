@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081WQZHLT-es Agenda Esther Gili 2020 Fondo Marino'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

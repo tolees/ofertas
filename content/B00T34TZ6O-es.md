@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T34TZ6O-es Emsa Clip&Close - Set de 9 Herméticos de Plástico...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

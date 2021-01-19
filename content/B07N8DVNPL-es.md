@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8DVNPL-es Orient Reloj Analógico para Hombre de Automático con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 91.51 EUR
 currency: EUR
 price: 91.51

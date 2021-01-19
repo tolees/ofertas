@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDV78L8-es PUTORSEN® Soporte Monitor Doble PC Brazo para Monitor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.87 EUR
 currency: EUR
 price: 59.87

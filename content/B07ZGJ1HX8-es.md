@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZGJ1HX8-es TW1000 Hub USB C 6-en-1 Adaptador MacBook Pro/MacBook Air...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

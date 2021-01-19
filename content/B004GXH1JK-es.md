@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004GXH1JK-es Maybelline New York Barra de Labios Superstay 24H Larga...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

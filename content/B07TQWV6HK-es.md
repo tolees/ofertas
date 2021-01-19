@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQWV6HK-es Clarks Originals Boot Botas Desert Verde Dark Olive SDE...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.46 EUR
 currency: EUR
 price: 42.46

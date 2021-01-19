@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZYRNKX-es Domestos Axe Desodorante Spray 2012 Final Edition sin...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

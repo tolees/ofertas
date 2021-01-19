@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YC1GSG-es Shantae: Half Genie Hero Ultimate Day One'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.82 EUR
 currency: EUR
 price: 30.82

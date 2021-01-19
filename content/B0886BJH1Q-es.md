@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0886BJH1Q-es Niños Desechables de Filtro de Tres Capas con Pendientes...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

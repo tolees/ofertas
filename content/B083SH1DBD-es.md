@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SH1DBD-es K9CK Vitrina para 21319 Ideas Friends Central Perk Caja de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

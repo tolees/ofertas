@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077BVV61R-es Papi Max 4 Piezas X Large Baseplate 32x32 Studs 25.4cm X...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

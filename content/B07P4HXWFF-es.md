@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4HXWFF-es Superdry Superstate Classic Polo Azul Techno Navy Marl Ss7...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.66 EUR
 currency: EUR
 price: 22.66

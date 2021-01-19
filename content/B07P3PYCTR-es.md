@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3PYCTR-es Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

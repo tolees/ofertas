@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0045XQ5IO-es Bering Ceramic - Reloj analógico de mujer de cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 148.84 EUR
 currency: EUR
 price: 148.84

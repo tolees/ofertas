@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2QPM2V-es Mizuno Wave Ultima 11 Zapatillas de Running para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 94.5 EUR
 currency: EUR
 price: 94.5

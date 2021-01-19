@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7BH2W4-es CARE OF by PUMA Zapatillas bajas informales en cuero para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.7 EUR
 currency: EUR
 price: 13.7

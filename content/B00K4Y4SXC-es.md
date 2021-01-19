@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K4Y4SXC-es Tomodachi Life'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.8 EUR
 currency: EUR
 price: 29.8

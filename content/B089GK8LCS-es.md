@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089GK8LCS-es FLZONE Gorros de Ducha 4 Piezas Gorro de Ducha Impermeable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

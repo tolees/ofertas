@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009IJJMIA-es PLA Gamuza Atrapapolvo Set de 20 Unidades'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.4 EUR
 currency: EUR
 price: 1.4

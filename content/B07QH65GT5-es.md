@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH65GT5-es Chicco Lamparita Dulces Sueños - Lámpara quita miedos anti...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.84 EUR
 currency: EUR
 price: 11.84

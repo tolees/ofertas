@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LWYCKV-es Chromecast de Google Timoom 5G/2.4G WiFi Display Dongle...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

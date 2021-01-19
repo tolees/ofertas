@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X5CY1JH-es Narcos: Rise of The Cartels'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084JS1SJX-es REFRESH - Sandalia Plana BIOS Casual - Color Camel - Talla 39'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

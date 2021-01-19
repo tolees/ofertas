@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTXKV19-es adidas W E Lin Tight Tights Mujer Black/White 2XLS'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

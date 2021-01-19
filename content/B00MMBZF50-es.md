@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MMBZF50-es Samsonite S Cure Spinner- Maleta de equipaje XL 81 cm -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 126.0 EUR
 currency: EUR
 price: 126.0

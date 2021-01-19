@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N5L6PWH-es Banpresto Blood of Saiyans Dragon Ball Estatua Super...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQNWFPV-es Levi s Azul Hm Patch Housemark Polo Riverside 0110 Large...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

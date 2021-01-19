@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083Z7DDBK-es Panamami Auricular Individual de 3 5 mm Auricular con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.68 EUR
 currency: EUR
 price: 3.68

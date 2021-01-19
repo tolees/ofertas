@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IW02I4U-es NYX Professional Makeup Paleta de sombra de ojos Ultimate...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

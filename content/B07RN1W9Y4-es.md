@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RN1W9Y4-es Calvin Klein - Revealed 2g Mini Reporter Organizadores de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

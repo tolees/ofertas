@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3Y5J5T-es DataOcean 2 Piezas USB 2.0 64GB Memorias USB PenDrives...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

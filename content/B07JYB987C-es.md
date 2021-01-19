@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYB987C-es 28 Palms 9" Inseam Cotton Tencel Chino Short Shorts Marino 31'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

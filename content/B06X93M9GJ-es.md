@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X93M9GJ-es Pierre Cardin PC106042S01 - Reloj de cuarzo para mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.69 EUR
 currency: EUR
 price: 48.69

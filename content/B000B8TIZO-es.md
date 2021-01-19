@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000B8TIZO-es Canon PG-40 Cartucho de tinta original Negro para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.58 EUR
 currency: EUR
 price: 19.58

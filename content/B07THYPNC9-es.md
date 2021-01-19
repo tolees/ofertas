@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THYPNC9-es ASRock X570 Phantom Gaming X AM4 ATX Mainboard...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PL3D8SS-es Nike Todos Zapatillas de Entrenamiento para Hombre Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.82 EUR
 currency: EUR
 price: 32.82

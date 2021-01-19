@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089RFG6DQ-es Pistola de Masaje Muscular ANFLAG Premium Masajeador de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 109.97 EUR
 currency: EUR
 price: 109.97

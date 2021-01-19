@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003OSUIRK-es IEC 10a C14 3 Pines Chasis Panel Montar Clavija Pines...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.08 EUR
 currency: EUR
 price: 2.08

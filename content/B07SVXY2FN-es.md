@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVXY2FN-es Geox D Sandal Hiver A Sandalias con Punta Abierta para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.7 EUR
 currency: EUR
 price: 33.7

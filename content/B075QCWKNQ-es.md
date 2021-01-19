@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QCWKNQ-es Klarstein Winehouse Minibar - Vinoteca Nevera de bebidas y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

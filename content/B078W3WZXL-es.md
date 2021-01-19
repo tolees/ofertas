@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078W3WZXL-es fundas Samsung Galaxy S7 protector pantalla bateria 9x...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSIHWLC-es Columbus Misti 60 L Saco de Dormir Unisex Adulto Amarillo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZRD7J5O-es Trust Mico - Micrófono USB con trípode'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.47 EUR
 currency: EUR
 price: 18.47

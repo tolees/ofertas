@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMQWDMQ-es Biotherm Sun Brume Solaire Dry Touch SPF50 Protector Solar...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

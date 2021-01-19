@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKKG8NC-es VeagleFly Shiatsu Masajeador de cuello con Calor Cervical...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

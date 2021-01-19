@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XPV2HL-es Under Armour Men s Braided 2.0 Belt Cinturón Hombre Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.03 EUR
 currency: EUR
 price: 23.03

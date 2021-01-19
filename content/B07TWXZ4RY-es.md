@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXZ4RY-es Lee Rider Vaqueros Slim Negro Black Helen Kj W32/L30 Talla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.78 EUR
 currency: EUR
 price: 25.78

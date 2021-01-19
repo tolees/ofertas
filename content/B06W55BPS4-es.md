@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W55BPS4-es Procos - Vaso de plástico 200 ml Avengers Mighty...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

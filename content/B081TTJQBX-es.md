@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TTJQBX-es adidas Trefoil tee T-Shirt Mujer White/Black 40'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.68 EUR
 currency: EUR
 price: 13.68

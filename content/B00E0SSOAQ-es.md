@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E0SSOAQ-es Repsol RP172X51 Moto Fork Oil 10W Aceite de Motor 1 L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

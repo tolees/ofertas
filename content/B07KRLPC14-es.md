@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLPC14-es New Balance Msx90tv1 Zapatillas para Hombre Gris Grey Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.63 EUR
 currency: EUR
 price: 48.63

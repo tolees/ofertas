@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRRR5WV-es ANSIO Calefactor Oscilante Calentador de Torre PTC con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

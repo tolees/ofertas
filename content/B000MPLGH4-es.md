@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000MPLGH4-es BIC 371664 - Bolígrafo retráctil color negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.42 EUR
 currency: EUR
 price: 6.42

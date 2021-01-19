@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGH1J35-es Dreaming Kamahaus Damas Colchón 67 5x190'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 50.73 EUR
 currency: EUR
 price: 50.73

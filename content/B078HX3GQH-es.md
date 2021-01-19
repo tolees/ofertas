@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HX3GQH-es Tommy Hilfiger Painted Flag Loop 4.0 Cinturón Marrón Testi...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

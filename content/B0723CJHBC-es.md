@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0723CJHBC-es Di4 Stiro Plancha de vapor con suela acero inoxidable y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

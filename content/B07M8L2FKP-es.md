@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8L2FKP-es Lee Chino Corduroy Pantalones Azul Dark Marine 21 33W /...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

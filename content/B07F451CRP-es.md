@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F451CRP-es Mr; Wonderful Woa09057Es Organizador Semanal De Sobremesa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F2T89CO-es Reebok Royal Glide Zapatillas de deporte Hombre Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

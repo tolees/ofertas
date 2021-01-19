@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0725PK8HL-es Calcetines de Deporte Low Cut Pack de 1 Azul EU 43-47'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2J46VQ-es Tommy Hilfiger Corporate Leather Wedge Sandal Sandalias...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 60.71 EUR
 currency: EUR
 price: 60.71

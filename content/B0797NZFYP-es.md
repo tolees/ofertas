@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797NZFYP-es Sabrent El hub USB de 10 Puertos y 60W con interruptores...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

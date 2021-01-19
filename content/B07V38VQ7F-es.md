@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V38VQ7F-es Sanetta Badehose Bañador de natación Azul Blau 50150 92 cm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

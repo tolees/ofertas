@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKN8T2Y-es Clarks Step Allena Go Zapatillas para Mujer Beige White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.54 EUR
 currency: EUR
 price: 24.54

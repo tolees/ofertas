@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J1A1E0Y-es Rimmel London Fresher Skin Base de Maquillaje Tono 103...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.13 EUR
 currency: EUR
 price: 5.13

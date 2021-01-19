@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YHQLXFX-es Character World Disney Frozen Juego de Ropa de Cama...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.26 EUR
 currency: EUR
 price: 24.26

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RKCVJ4-es POVO Soporte de Portátil Ajustable Soporte Plegable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

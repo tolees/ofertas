@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B6GKT7H-es Kellogg s KG30683 - Caja Cereales Metal Blanco Negro 18 5...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

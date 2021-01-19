@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CAUJHRA-es Estee Lauder Perfectly Clean Limpiador Frío Multi-Action...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.6 EUR
 currency: EUR
 price: 18.6

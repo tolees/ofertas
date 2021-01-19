@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012D57CBE-es NITROPC - PC Gamer VX *Rebajas de marzo 2020* CPU Ryzen 4...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 704.21 EUR
 currency: EUR
 price: 704.21

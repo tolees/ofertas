@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IR0NTK2-es Philips Airfryer HD9621/90 - Freidora sin Aceite...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 141.99 EUR
 currency: EUR
 price: 141.99

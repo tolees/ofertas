@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2YYGRR-es New Balance 373v2 Zapatillas para Mujer Rosa Pink Cc2 37.5 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

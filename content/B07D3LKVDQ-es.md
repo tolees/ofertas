@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3LKVDQ-es Buluri 84 Piezas Fondant Cortadores - Bricolaje Fondant...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.77 EUR
 currency: EUR
 price: 14.77

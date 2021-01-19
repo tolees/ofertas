@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VRV9RYQ-es HENDI Bandejas para comida rápida grande - Verde -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.42 EUR
 currency: EUR
 price: 4.42

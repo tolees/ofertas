@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825WKR6S-es Funda protectora para Moto E6 Plus E6 con anillo de metal...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

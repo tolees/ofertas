@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7RWFG1-es Durex Preservativos Dame Placer + Preservativos Sensitivo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.82 EUR
 currency: EUR
 price: 22.82

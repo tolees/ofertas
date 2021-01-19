@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XTV53K4-es MagiDeal Kit Herramientas de Pintura Flor Pincel Sello de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

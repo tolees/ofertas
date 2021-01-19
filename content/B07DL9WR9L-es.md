@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DL9WR9L-es Calypso Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

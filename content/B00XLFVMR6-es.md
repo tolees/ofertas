@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XLFVMR6-es Assassin s Creed: Syndicate'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

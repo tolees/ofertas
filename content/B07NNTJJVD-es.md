@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNTJJVD-es Under Armour Women s Charged Pursuit 2 Laufschuhe...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.1 EUR
 currency: EUR
 price: 44.1

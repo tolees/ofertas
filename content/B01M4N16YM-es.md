@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4N16YM-es MyKronoz MKZESPORT - Reloj de Actividad y sueño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 89.27 EUR
 currency: EUR
 price: 89.27

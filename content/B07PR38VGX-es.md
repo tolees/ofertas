@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PR38VGX-es MIROCOO V6 Auriculares Bluetooth 5.0 TWS Mini In Ear...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.11 EUR
 currency: EUR
 price: 21.11

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831HG4ST-es Marca Amazon - AURIQUE Low Impact Strappy - Sujetador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

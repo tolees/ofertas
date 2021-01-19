@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5QR7LT-es Tommy Hilfiger Lightweight Signature Colour-Blocked Trn...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.78 EUR
 currency: EUR
 price: 28.78

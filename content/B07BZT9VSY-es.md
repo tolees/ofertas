@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZT9VSY-es Triumph Infinite Sensation W01 Sujetador con Aros Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

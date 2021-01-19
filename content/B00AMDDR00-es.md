@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AMDDR00-es Nayeco P100001 - Caseta para Perro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.79 EUR
 currency: EUR
 price: 35.79

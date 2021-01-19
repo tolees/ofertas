@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJZFDFL-es NOVECASA Pantalones Cortos Suana Deportivos Mujer de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.96 EUR
 currency: EUR
 price: 13.96

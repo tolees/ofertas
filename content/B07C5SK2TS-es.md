@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5SK2TS-es IntimaTe WM Heart Set de 2 x Taburetes de Bar Cuadrado y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

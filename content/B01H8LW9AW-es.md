@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H8LW9AW-es Under Armour Men s Shadow Cap 4.0 Gorra Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.78 EUR
 currency: EUR
 price: 15.78

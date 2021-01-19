@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKYB3P4-es Tritton - Auricular Gaming Tritton Kunai Pro 7.1 Dirac...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

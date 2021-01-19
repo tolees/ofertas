@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZBPFLR-es KFD - Adaptador de Corriente DC 19 V para Intel NUC...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.61 EUR
 currency: EUR
 price: 23.61

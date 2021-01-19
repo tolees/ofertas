@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0816R8MQF-es CERDÁ LIFE S LITTLE MOMENTS 2200005545 Conjunto Polaina y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

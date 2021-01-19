@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006GLDYLO-es Energy Sistem DJ 700 Porta Edition - Auriculares de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.33 EUR
 currency: EUR
 price: 27.33

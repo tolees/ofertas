@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW9MTBX-es Skechers Women s Solar Fuse-Brisk Escape Trainers Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.89 EUR
 currency: EUR
 price: 47.89

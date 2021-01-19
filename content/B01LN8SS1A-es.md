@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LN8SS1A-es Britax Römer Evolva 123 SL SICT - Silla de coche grupo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

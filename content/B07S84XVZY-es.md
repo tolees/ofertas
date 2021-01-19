@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S84XVZY-es adidas Strngr Swim Top Traje de Baño Mujer Black 4B'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.27 EUR
 currency: EUR
 price: 27.27

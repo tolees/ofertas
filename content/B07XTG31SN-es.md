@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTG31SN-es Xti Botas Mujer 49363X para Mujer Verde 38 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.18 EUR
 currency: EUR
 price: 21.18

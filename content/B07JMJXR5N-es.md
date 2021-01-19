@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMJXR5N-es Safta - f.c; barcelona oficial bolsa de deporte.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.83 EUR
 currency: EUR
 price: 22.83

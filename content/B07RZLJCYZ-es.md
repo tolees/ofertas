@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLJCYZ-es Levi s Barstow Western Standard Camisa Azul Archer Cloud...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.57 EUR
 currency: EUR
 price: 19.57

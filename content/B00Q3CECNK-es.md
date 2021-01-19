@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q3CECNK-es SMEG BLF01BLEU Batidora 150 W 0.45 litros Metal plástico 4...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 119.22 EUR
 currency: EUR
 price: 119.22

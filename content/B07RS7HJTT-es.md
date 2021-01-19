@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RS7HJTT-es Calvin Klein - Winged Trifold On String Carteras Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 40.8 EUR
 currency: EUR
 price: 40.8

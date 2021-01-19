@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FFN8YK-es DIGITNOW! Convertidor de captura de vídeo USB Scart o VHS...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

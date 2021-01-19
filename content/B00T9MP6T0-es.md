@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T9MP6T0-es Guess W0366G4 - Reloj de pulsera para hombre color azul /...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 168.52 EUR
 currency: EUR
 price: 168.52

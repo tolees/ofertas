@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLQ5NYV-es Nike Court Borough Low 2 Sneaker Baby-Boys White White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

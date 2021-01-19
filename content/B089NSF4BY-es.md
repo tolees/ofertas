@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NSF4BY-es Funda de Gel de sílice Funda de Silicona con Tapa para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.03 EUR
 currency: EUR
 price: 1.03

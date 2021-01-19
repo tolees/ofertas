@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UGWRPA-es Singer BSM 203 Quita pelusas Plastic Azul Gris Color Blanco'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

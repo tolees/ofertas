@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002YYTVU-es Wolfcraft 1573000 1573000-1 Atornillador Manual con diseño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N9HMJPY-es Philips Serie 7000 S7970/26 Máquina de afeitar cuhillas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 147.2 EUR
 currency: EUR
 price: 147.2

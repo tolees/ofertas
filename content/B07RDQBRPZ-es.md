@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDQBRPZ-es adidas Altarun CF K Zapatillas de Running Unisex Niños...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

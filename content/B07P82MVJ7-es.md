@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P82MVJ7-es Pop! Figura de Vinilo: Música: The Struts - Luke Spiller'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRKF8VN-es Nuevo Cable de Cable de liberación de Obturador de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

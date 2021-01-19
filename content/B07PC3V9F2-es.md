@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PC3V9F2-es Hollow Knight'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

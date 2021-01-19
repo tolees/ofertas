@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU3BHEX-es Reebok Royal Cljog 2 2v Zapatillas de Trail Running Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78

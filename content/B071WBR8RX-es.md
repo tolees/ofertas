@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WBR8RX-es ammoon Mezclador de Sonido Ultra Compacto Ruido Bajo 8...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.49 EUR
 currency: EUR
 price: 35.49

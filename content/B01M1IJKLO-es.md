@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1IJKLO-es Trust GXT 105 - Ratón Gaming con 6 Botones e iluminación...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

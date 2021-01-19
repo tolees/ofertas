@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBRXPL8-es dc comics Pato de baño de Goma Batman Color Negro Paladone...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

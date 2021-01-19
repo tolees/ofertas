@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRN386-es Geox D Calinda Mid C Botas Altas para Mujer Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 78.73 EUR
 currency: EUR
 price: 78.73

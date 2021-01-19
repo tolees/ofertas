@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073S3PS4G-es Medidor de Sonido Tacklife MLM02 Decibelímetro 30-130dB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MX72ZXC-es Conjunto de luces Lightailing para Star Wars Destructor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC9Y6CZ-es Pepe Jeans Lulu suéter Rojo Francois Red 240 X-Small para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRC7XYD-es Kipling - Creativity Xl Monederos Mujer Azul Stone Blue...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

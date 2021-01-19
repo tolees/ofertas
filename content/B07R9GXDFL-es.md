@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R9GXDFL-es Amazon Essentials French Terry Jogger Sweatpant Athletic-...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

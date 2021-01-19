@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNB7PR9-es Hpybest - Cadena para chupete cadena antipérdida diseño de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

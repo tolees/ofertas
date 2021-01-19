@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Y3RUFG-es Wrangler Texas Contrast Jeans Azul Blue Black 001 30W /...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.05 EUR
 currency: EUR
 price: 53.05

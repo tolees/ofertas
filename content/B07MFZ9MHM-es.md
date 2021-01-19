@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFZ9MHM-es Fitbit Versa Lite - Reloj Deportivo Smartwatch Adultos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 95.96 EUR
 currency: EUR
 price: 95.96

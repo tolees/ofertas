@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VA8UN6C-es Joma Nobel Pantalón de equipación Naranja M'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

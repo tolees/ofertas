@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMP1BXS-es Mr. Wonderful 8436557692085 - Batería Externa de 10.000...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.08 EUR
 currency: EUR
 price: 23.08

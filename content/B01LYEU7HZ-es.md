@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYEU7HZ-es Skechers Women 12615 Low-Top Trainers Black Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

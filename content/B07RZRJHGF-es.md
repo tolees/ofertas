@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZRJHGF-es Lacoste - Polo de Manga Corta para Mujer King pq8 . 34 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

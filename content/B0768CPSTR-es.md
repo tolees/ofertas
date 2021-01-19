@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0768CPSTR-es Coche Cinturón De Seguridad Ajustador Cinturón de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

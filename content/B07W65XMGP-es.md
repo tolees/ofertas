@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W65XMGP-es Tefal Optigrill Elite GC750D Grill parrilla eléctrica...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 159.2 EUR
 currency: EUR
 price: 159.2

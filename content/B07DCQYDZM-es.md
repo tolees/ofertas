@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCQYDZM-es Babolat Viper Jr 2019 Adultos Unisex Multicolor Talla Unica'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.85 EUR
 currency: EUR
 price: 39.85

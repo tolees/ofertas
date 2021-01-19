@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BNAQ6RW-es Sensai Cellular Eye Contour Balm Contorno de Ojos - 15 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 72.91 EUR
 currency: EUR
 price: 72.91

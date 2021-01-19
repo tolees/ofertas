@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3QQ7BB-es HP 14-dk0017ns - Ordenador portátil de 14" FullHD AMD...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 508.28 EUR
 currency: EUR
 price: 508.28

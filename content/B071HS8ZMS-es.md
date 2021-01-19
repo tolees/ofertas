@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HS8ZMS-es Samsonite Flux - Spinner 68/25 Expandable Equipaje de Mano...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 117.26 EUR
 currency: EUR
 price: 117.26

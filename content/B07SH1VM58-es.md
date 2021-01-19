@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SH1VM58-es Levi s Woodward L Zapatillas para Hombre Blanco R White 51...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.77 EUR
 currency: EUR
 price: 30.77

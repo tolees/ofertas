@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ4HKCR-es Valentino by Mario - Audrey Carteras de mano Mujer Rosa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.18 EUR
 currency: EUR
 price: 28.18

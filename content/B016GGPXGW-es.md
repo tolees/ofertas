@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016GGPXGW-es Victoria S Secret Hombres 1 Unidad 200 g'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

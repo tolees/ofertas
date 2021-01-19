@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KX2CXGG-es ZARRS Pegatina de Espuma Brillo 100 Pack Pegatina de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

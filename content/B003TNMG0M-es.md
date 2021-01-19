@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003TNMG0M-es Wahl Groomsman - Cortapelos recargable color gris'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

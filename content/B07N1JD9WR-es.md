@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JD9WR-es Clarks Sharon Gracie Mocasines para Mujer Plateado...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.26 EUR
 currency: EUR
 price: 25.26

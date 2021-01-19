@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q42CMJY-es Toyvian Succión Bullet Gun Revolver Kids Divertido Juego...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

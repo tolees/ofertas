@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPP2DMM-es Marshall Stanmore II Altavoz Bluetooth - Blanco EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 208.25 EUR
 currency: EUR
 price: 208.25

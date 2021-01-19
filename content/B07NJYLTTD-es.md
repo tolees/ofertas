@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJYLTTD-es Bergner Q3020 Sartén 20 x 4.5cm Aluminio Forjado Inducción...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

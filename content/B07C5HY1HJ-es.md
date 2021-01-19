@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5HY1HJ-es Polaroid Originals - 9008 - Nuevo One Step 2 ViewFinder -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

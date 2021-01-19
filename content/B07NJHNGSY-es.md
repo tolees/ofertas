@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJHNGSY-es Brabantia Tasty + Espátula repostería de silicona color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

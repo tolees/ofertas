@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPX9KZP-es Homyl - Recambio de cartucho de tinta de 69 ml para 500 ps...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

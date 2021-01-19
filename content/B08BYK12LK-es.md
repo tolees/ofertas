@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BYK12LK-es Limpiador de Oídos Limpia Cera Oidos Q grips Cera Oidos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

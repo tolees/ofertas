@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HM71AJ8-es Ferrari 0830339 RedRev Evo - Reloj analógico de pulsera...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 117.02 EUR
 currency: EUR
 price: 117.02

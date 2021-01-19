@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYL546B-es New Balance 500 Zapatillas para Mujer Rosa Pink Hhe 37.5 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.49 EUR
 currency: EUR
 price: 49.49

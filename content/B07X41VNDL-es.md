@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X41VNDL-es Munchkin Set De Alimentación Para Niños Grandes Food...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

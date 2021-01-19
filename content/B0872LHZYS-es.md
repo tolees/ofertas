@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872LHZYS-es NMBC Cojín de Seda de Hielo 1 Cojín de Asiento de Coche de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

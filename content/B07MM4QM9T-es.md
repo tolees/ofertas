@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM4QM9T-es EECOO 1200W LED Cultivo Interior Plantas Led Grow Light...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 96.69 EUR
 currency: EUR
 price: 96.69

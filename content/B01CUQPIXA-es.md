@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CUQPIXA-es Edge Entertainment- Stormtroopers Sw Imperial Assault:...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

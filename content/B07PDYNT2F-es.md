@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDYNT2F-es BLACK+DECKER SVB520JW-QW - Aspirador escoba sin cable 2 en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 85.98 EUR
 currency: EUR
 price: 85.98

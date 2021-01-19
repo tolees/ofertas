@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KDFJQH8-es adidas T19 TRK Pnt Y Pantalones de Deporte Unisex niños...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.16 EUR
 currency: EUR
 price: 26.16

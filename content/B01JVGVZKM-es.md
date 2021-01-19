@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JVGVZKM-es Juego de pinceles con estuche de viaje: 5 cepillos de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.69 EUR
 currency: EUR
 price: 33.69

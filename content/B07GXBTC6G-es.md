@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXBTC6G-es Candy GVSW 486T/5S - Lavasecadora 8+6Kgs NFC display...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 367.99 EUR
 currency: EUR
 price: 367.99

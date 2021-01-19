@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CHH1DPU-es Habitdesign - Mesa de Centro elevable Salon Comedor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

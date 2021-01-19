@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1K5MQR-es Clarks Linvale Jerica Zapatos de tacón con Punta Cerrada...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.3 EUR
 currency: EUR
 price: 33.3

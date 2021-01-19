@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVK2M57-es touchbeauty ag-0676 3-en-1 Set Manicura y Pedicura...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

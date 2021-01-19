@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZXSD8F-es Tonysa SU-668 1.5KM Sistema de Llamadas Restaurante...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 128.09 EUR
 currency: EUR
 price: 128.09

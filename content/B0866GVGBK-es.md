@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0866GVGBK-es GHONLZIN Ventilador Sin Cuchilla USB Portátil 2020 Nuevo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

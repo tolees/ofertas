@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C27LP6H-es Pro Indoor Mini Canasta de Baloncesto para Niños – 16 x 12...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

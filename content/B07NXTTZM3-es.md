@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXTTZM3-es Dickies Belfry Camiseta Negro X-Large Talla del...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

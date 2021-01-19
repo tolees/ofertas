@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5HQWNI-es Car&Gus Disfraz de Samba para Mujer'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G5Y4W4O-es Funko - POP! Vinilo Colección Rocks - Figura Axl Rose 10688'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

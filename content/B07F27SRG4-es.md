@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F27SRG4-es Levi s Original Hm Zipup Hoodie Capucha Azul Indigo 0001...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

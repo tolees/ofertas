@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N85GC7F-es COSORI Deshidratador Alimentos 500W de 5 Bandejas sin BPA...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017R6HIVS-es Superga 2750 COTU Classic Zapatillas Unisex Verde 905 Tot...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42 EUR
 currency: EUR
 price: 42

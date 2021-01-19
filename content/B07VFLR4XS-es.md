@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFLR4XS-es Optimum Nutrition Optimum Protein Shakes Vanilla Listo a...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.65 EUR
 currency: EUR
 price: 18.65

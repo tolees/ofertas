@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXPTTUS-es muveacoustics A-Star Resistente al Agua portátil...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.53 EUR
 currency: EUR
 price: 22.53

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FLADSW0-es Lowcy skarbow'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.34 EUR
 currency: EUR
 price: 24.34

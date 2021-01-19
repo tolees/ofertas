@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4SCDM7-es Nike Women s Revolution 4 Running Shoe Mujer Azul Half...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.81 EUR
 currency: EUR
 price: 26.81

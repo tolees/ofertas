@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MRH7V4L-es Black Diamond Astro 175 Lampe Frontale Unisex Adulto Verde...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.13 EUR
 currency: EUR
 price: 12.13

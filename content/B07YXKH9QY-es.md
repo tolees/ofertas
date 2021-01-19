@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXKH9QY-es Secador de pelo profesional – 2000 W secador de pelo Manli...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.85 EUR
 currency: EUR
 price: 44.85

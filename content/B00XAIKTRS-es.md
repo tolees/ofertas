@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAIKTRS-es Baldosinín 8410952001802 Productos de Limpieza para el Hogar'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

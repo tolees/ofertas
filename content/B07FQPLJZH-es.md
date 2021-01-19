@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQPLJZH-es Clarks Un Adorn Zip Mocasines Negro Black Combi- 37 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 75.74 EUR
 currency: EUR
 price: 75.74

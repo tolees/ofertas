@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DPBCVTI-es DSstyles Reloj Hombre 5 ATM Resistente al agua Reloj...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

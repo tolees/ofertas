@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V5FMTW-es Canadian Peak Anorak'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

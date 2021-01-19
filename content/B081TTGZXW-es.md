@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TTGZXW-es adidas Drst Ask Bra Sujetador de Deporte Mujer White XS'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

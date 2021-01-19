@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8PV2HC-es Sebago Classic Dan Náuticos para Hombre Negro 902 39 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 139.95 EUR
 currency: EUR
 price: 139.95

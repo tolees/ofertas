@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSYJRLF-es EKKONG 24 Piezas Ganchos Adhesivos Adhesivo Fuerte uñas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXSYBD8-es Hakeeta Molinillo de café eléctrico Molino de Granos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

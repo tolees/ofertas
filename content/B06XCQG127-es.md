@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCQG127-es Roberto Verino Agua fresca - 75 ml.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

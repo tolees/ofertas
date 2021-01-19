@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6SXGWF-es Funko Rugrats Pop Angelica Multicolor 35574'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

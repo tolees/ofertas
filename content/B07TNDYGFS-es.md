@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNDYGFS-es Yizhet 10uds Universal Stylus de la Pluma del Tacto de la...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

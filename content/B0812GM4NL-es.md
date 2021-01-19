@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0812GM4NL-es Asics Gel-Nimbus 22 Lite - Show Running Shoe Womens Sheet...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 90.47 EUR
 currency: EUR
 price: 90.47

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHVKRML-es Bloodstained: Ritual of the night'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M6Z0Y3Q-es Barkey - Panama Lentes Marrones - Gafas De Madera De Alta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

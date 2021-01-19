@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9UQ9BD-es Fossil Pulsera de Mujer con Acero Inoxidable ágata Redonda'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

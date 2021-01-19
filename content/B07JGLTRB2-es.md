@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGLTRB2-es L Oréal Men Expert Cofre Vitalift Crema antiedad para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

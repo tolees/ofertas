@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLMRQBP-es Carioca Set Baby 2+ | 53222 - Kit Colores: Rotuladores...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.42 EUR
 currency: EUR
 price: 19.42

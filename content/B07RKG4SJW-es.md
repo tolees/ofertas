@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RKG4SJW-es MILAN Portatodo Mini Net&Lit Rosa Estuches 20 cm Rosa'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

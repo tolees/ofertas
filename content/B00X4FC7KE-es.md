@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X4FC7KE-es Capicua - Preparado graso Especial para cocinar - 5 litros'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

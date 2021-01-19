@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPRXB62-es Asics Patriot 10 SP 1012a236-101 Zapatillas de Running...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

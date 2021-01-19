@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RB5CV3V-es PUMA Originals Gym Sack Bolsa De Cuerdas Adultos Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

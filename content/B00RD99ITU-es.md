@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RD99ITU-es Crocs Crocband Zuecos Unisex Adulto Pearl Pink/Wild Orchid...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

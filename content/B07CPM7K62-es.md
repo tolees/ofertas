@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPM7K62-es Jimmy Choo Agua fresca - 100 ml.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.13 EUR
 currency: EUR
 price: 37.13

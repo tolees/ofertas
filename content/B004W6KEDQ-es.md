@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004W6KEDQ-es Navigator Expression - Paquete de 2500 folios de papel...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

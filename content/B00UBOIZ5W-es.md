@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UBOIZ5W-es Tommy Hilfiger 3p Trunk Blanco White/Tango Red/Peacoat 611...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

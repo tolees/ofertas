@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8NPR4H-es Samsonite Maleta Oro Amarillo Amarillo - 115518/1371'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 112.61 EUR
 currency: EUR
 price: 112.61

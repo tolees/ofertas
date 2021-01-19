@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6SV8N3-es KHOMO - Carcasa Trasera Transparente para iPad de 9 7...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.09 EUR
 currency: EUR
 price: 10.09

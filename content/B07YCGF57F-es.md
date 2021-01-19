@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCGF57F-es Vans Classic Camiseta Multicolor Ash Heather/Heliotrope...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

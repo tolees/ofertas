@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CG6JMRW-es BIC Marking Ultra Fine Marcador Permanente Tejidos -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XN9MRG-es Kenwood FDM301 Procesador de Alimentos 800 W 2.1 litros...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

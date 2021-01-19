@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXL4GVT-es BtDuck - Funda de piel con tapa para Samsung Galaxy A5...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

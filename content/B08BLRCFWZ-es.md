@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLRCFWZ-es HAVERLAND PUREAIRBOX - Purificador Desinfectador de Aire y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

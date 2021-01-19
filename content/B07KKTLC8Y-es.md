@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKTLC8Y-es Joseph Joseph Juego de Tablas para Cortar Index tamaño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.75 EUR
 currency: EUR
 price: 46.75

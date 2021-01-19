@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJYFV7B-es Quiksilver Everyday Ev Sr Pantalones Cortos Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.94 EUR
 currency: EUR
 price: 34.94

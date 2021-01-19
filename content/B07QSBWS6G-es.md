@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QSBWS6G-es Funko - Pop! Disney: Frozen 2 - Anna Figurina Multicolor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.26 EUR
 currency: EUR
 price: 11.26
@@ -26,10 +26,10 @@ Está [Funko - Pop! Disney: Frozen 2 - Anna Figurina  Multicolor  40886 ](https:
 
 ℹ️:
 
-- Descúbre otras figuras de la colección disney y colecciónalas todas
-- Disney frozen 2
-- De la colección frozen 2, anna como figura de vinilo pop de funko
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Disney frozen 2
 - Anna
+- Descúbre otras figuras de la colección disney y colecciónalas todas
+- De la colección frozen 2, anna como figura de vinilo pop de funko
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QSBWS6G/?tag=tolees-21)

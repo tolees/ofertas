@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKKT27C-es Kipling - Silen Bolsos bandolera Mujer Gris Active Grey Bl'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

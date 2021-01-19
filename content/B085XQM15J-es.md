@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XQM15J-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

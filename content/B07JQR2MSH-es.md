@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQR2MSH-es LeYi Funda Huawei Mate 20 Lite Silicona Purpurina Carcasa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.37 EUR
 currency: EUR
 price: 7.37

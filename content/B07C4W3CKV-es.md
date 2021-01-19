@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C4W3CKV-es Kelme - Zapatillas Flamenco Sala'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

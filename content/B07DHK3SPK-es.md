@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHK3SPK-es Desconocido Nike Swoosh Headband Cinta para la Cabeza...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

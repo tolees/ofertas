@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z9GCPKH-es Klarstein Bella Elegance robot de cocina - 1300W/1 7PS en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

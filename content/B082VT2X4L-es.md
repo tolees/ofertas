@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VT2X4L-es Diyife Báscula Digital de Cocina 0.01g/500g Báscula...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FG2C4N-es Tristar VE-5890 – Ventilador de pie 40 centímetros color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.75 EUR
 currency: EUR
 price: 22.75

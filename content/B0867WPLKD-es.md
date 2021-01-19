@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0867WPLKD-es Hatteker Barbero Electrico Cortapelos Profesional Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

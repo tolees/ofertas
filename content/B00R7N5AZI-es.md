@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R7N5AZI-es Maidenform Strapless Extra Coverage Sujetador Bandeau...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

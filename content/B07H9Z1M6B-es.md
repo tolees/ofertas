@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9Z1M6B-es Pop! Romeo & Juliet - Figura de Vinilo Juliet'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.56 EUR
 currency: EUR
 price: 7.56

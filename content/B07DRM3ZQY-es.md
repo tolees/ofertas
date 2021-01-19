@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRM3ZQY-es Kipling ART M Bolsa de tela y playa 58 cm 26 liters Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.46 EUR
 currency: EUR
 price: 54.46

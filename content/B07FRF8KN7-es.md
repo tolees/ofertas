@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FRF8KN7-es ZCHI 4 Piezas Bolsa de Almacenamiento Debajo de la Cama de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SLVVMP-es San Ignacio Q3245 Asador 35.5x28.3cm Aluminio Forjado Apta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

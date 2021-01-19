@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IF3KDT2-es Casio WAVE CEPTOR Reloj Radiocontrolado y solar Cristal de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 254.15 EUR
 currency: EUR
 price: 254.15

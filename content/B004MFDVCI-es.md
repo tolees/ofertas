@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004MFDVCI-es Hama Battery Tester - Medidor de energía y batería'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89
@@ -26,9 +26,9 @@ Tienes [Hama Battery Tester - Medidor de energía y batería](https://www.amazon
 
 🔎:
 
-- Muestra el voltaje residual.
 - Verifica si las baterías o pilas todavía funcionan o si se deben recargar o cambiar.
-- Las pilas o baterías se prueban bajo carga para que tengas una medición más realista.
+- Muestra el voltaje residual.
 - Fácil de utilizar.
+- Las pilas o baterías se prueban bajo carga para que tengas una medición más realista.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004MFDVCI/?tag=tolees-21)

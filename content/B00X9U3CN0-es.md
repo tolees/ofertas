@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9U3CN0-es Garnier Nutrisse Creme Coloración permanente con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

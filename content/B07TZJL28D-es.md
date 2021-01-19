@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZJL28D-es eXtremeRate Carcasa para Nintendo Switch Pro Funda...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

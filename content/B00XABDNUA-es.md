@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XABDNUA-es HARIBO - Pasta Basta - Geles dulces con sabor a manzana -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.42 EUR
 currency: EUR
 price: 8.42

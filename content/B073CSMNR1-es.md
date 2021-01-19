@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073CSMNR1-es MEDION E2221t - Ordenador convertible de 11.6" Intel Atom...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

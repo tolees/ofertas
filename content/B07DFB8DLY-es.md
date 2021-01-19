@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFB8DLY-es Pop! Wrek - It Ralph 2 - Figura de Vinilo Shank'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

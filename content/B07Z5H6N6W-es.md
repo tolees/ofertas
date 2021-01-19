@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z5H6N6W-es Salomon ALPHACROSS Blast Zapatillas de Trail Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 63.49 EUR
 currency: EUR
 price: 63.49

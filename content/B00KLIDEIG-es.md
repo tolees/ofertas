@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KLIDEIG-es Calvin Klein 0000F3785E Sujetador Deportivo para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

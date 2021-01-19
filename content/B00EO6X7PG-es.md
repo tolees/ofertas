@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EO6X7PG-es Creative Sound Blaster Audigy 5/RX - Tarjeta de sonido...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

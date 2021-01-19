@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0784GHNNX-es Doble llavero de pareja 2 piezas que encajan con figura de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.21 EUR
 currency: EUR
 price: 2.21

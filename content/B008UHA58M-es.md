@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008UHA58M-es Beurer FM60 - Masajeador 50 W función calor color blanco y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

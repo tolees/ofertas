@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001QDR2D8-es NECA 49503 Coraline Fashion - Muñeca Color Amarillo Azul'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.85 EUR
 currency: EUR
 price: 23.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Q3BMZS-es CHANEL ANTAEUS DEODORANT STICK 60 g Hombres Desodorante en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

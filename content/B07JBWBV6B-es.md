@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBWBV6B-es Natural Honey Loción Corporal Extra Hidratante 700ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

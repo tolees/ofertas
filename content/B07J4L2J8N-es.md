@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J4L2J8N-es Misfit Smartwatch MIS7104'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 93.9 EUR
 currency: EUR
 price: 93.9

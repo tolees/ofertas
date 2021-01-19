@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BUDIY2G-es Wagner Wood&Metal Sprayer Pulverizador eléctrico de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 70.79 EUR
 currency: EUR
 price: 70.79

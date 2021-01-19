@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGVQSF7-es G-STAR RAW Vetar Slim Chino Pantalones Azul Mazarine Blue...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084M6SLRY-es Cabezales de cepillo de dientes eléctrico y accesorio de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.26 EUR
 currency: EUR
 price: 11.26

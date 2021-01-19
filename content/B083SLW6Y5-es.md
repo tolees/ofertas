@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SLW6Y5-es 2020 Auriculares inalámbricos Bluetooth actualizados con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXV2XP7-es Under Armour Men s Tribase Thrive Hallenschuhe Zapatillas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.56 EUR
 currency: EUR
 price: 37.56

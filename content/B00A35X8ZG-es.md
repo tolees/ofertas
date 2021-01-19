@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A35X8ZG-es Sigma 340306 35 mm / F 1 4 DG HSM - Objetivo para Nikon...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 473.0 EUR
 currency: EUR
 price: 473.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FVC4ZZ-es MUEBLES MARIETA OLD STYLE NOW Sofa Beverly 5 plazas Dark...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 492.0 EUR
 currency: EUR
 price: 492.0

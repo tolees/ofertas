@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MH1QMW4-es Only NOS Onlpoptrash Easy Colour Pant Pnt Noos Pantalones...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

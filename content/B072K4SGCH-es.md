@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072K4SGCH-es SportPlus SP-ALB-011 Entrenador Abdominal Plegable para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

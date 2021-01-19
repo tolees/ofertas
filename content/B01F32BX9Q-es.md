@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F32BX9Q-es Maybelline New York - Color Sensational Vivid Matte Liquid...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

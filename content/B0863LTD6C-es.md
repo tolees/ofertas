@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0863LTD6C-es Máscara KN95 Paquete de 10 respirador FFP2 máscaras...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.18 EUR
 currency: EUR
 price: 15.18

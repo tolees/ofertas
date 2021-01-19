@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LNH9CLW-es Shimano Alivio CSHG4009134 - Cassette Hg400 12/36 9V....'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

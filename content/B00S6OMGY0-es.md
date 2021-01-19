@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S6OMGY0-es MAKITA DGA504Z Herramienta'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 117.79 EUR
 currency: EUR
 price: 117.79

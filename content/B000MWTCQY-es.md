@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000MWTCQY-es Leifheit 55111 - Mopa de Secado Profesional'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.1 EUR
 currency: EUR
 price: 13.1

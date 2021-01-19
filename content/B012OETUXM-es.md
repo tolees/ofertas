@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012OETUXM-es PCCASE EP-500 Unidad de - Fuente de alimentación 500 W 220...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.35 EUR
 currency: EUR
 price: 9.35

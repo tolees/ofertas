@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPRG98-es Gioseppo 56156 Merceditas para Niñas Negro 36 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

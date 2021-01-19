@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XY167XQ-es Albal - Papel horno vegetal estructura anti-adherente...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

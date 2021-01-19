@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHD4YC8-es TRUUA 100PCS de Goma Tubo de 802 830 815 816 810 835...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

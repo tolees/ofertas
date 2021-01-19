@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076NHN89G-es Adidas Terrex Swift R2 GTX Zapatillas de Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 95.45 EUR
 currency: EUR
 price: 95.45

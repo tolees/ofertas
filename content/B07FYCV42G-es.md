@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYCV42G-es Champion Freedom Seamless Soutien-Gorge de Sport Femme...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

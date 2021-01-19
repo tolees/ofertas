@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VC5U5C-es Bosch 2 602 317 031 - Carril guía FSN 140 1400 mm pack de 1'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.93 EUR
 currency: EUR
 price: 59.93

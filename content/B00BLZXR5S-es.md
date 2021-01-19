@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BLZXR5S-es Einhell 4419169 Multiherramienta TH-MG 135 E con 189...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

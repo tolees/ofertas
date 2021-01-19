@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2J5R9F-es Control Lub Chocolate - Gel lubricante sin azúcar ni...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

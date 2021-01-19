@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08627ZKMS-es Wimypet Alfombra Refrescante para Perro Alfombrilla para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

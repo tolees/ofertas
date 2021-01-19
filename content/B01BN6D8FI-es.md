@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BN6D8FI-es Reloj Komono Estelle Royale para Mujer KOM-W2863'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

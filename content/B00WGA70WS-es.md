@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WGA70WS-es Plantillas de Talón Correctoras de Postura tipo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

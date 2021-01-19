@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C1NKXM7-es Oxford School - Recambio para cuaderno A4 5 x 5 cm color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

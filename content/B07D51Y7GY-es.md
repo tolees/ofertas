@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D51Y7GY-es Veet Bandas de Cera Depilatoria -Easy Gelwax Pieles...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

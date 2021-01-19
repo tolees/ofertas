@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTSE2SA-es New Balance ML373 Zapatillas para Hombre Gris Light Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

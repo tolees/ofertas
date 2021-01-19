@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TGDQVWR-es Skechers Melson Raymon Zapatillas para Hombre Verde Khaki...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.96 EUR
 currency: EUR
 price: 28.96

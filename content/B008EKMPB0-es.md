@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008EKMPB0-es B+W 1071068 - Filtro polarizador Circular MRC de 82 mm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 119.92 EUR
 currency: EUR
 price: 119.92

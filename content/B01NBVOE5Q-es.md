@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBVOE5Q-es Unique Party - Vasos de Papel - 266 ml - Diseño de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.15 EUR
 currency: EUR
 price: 2.15

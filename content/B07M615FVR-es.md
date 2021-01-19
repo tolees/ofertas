@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M615FVR-es AWESAFE GPS para Coches con 5 Pulgadas Pantalla LCD...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

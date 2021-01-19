@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003AK3XA6-es RÖSLE 12844 - Soplete flambeador'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.36 EUR
 currency: EUR
 price: 34.36

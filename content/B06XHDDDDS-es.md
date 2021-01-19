@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHDDDDS-es Helly Hansen Jr HH LIFA Merino Conjunto Termico de Ropa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

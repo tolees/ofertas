@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897KNXFB-es NA Organizador de Maquillaje de lápiz Organizador de lápiz...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

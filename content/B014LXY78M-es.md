@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014LXY78M-es TY - Beanie Boos Asia Tigre 15 cm Color Blanco / Rosa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

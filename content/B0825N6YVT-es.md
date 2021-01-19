@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825N6YVT-es Quiksilver All Time - Licra De Manga Larga con Protección...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C26OQMI-es NRS Healthcare M66613 - Asiento para inodoro altura ajustable'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

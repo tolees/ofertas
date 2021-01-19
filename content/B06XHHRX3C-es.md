@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHHRX3C-es Naipo Respaldo de Masaje Shiatsu Asiento Masajeador para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

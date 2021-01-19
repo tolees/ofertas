@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZT2R7LC-es Redpawz R13 LED RTF Drone Para Niños RC Quadcopter con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

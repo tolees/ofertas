@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0764FBWL2-es Funko Pop!-24981 Dragonball Super: Zamasu Multicolor Standard'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

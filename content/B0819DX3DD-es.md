@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0819DX3DD-es PUTORSEN® Soporte de Monitor pc - Elevador de Monitor 8cm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.87 EUR
 currency: EUR
 price: 27.87

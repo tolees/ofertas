@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YAZHRZM-es Rode VideoMic Pro R - Micrófono Externo para videocámara...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

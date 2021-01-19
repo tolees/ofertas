@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X5RP6HW-es Disney Frozen - Cuerda de Saltar Smoby 27244'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

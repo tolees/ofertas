@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK5QSNH-es Saucony Jazz Original Vitnage Zapatillas para Hombre Verde...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.52 EUR
 currency: EUR
 price: 69.52

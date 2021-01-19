@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NL4BVYM-es Bombillas LED MR16 GU5.3 3000K Blanco Cálido AC/DC 12V 5W...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

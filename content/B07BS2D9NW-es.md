@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BS2D9NW-es Salomon XA Pro 3D Winter TS CSWP J Calzado de Invierno...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.48 EUR
 currency: EUR
 price: 54.48

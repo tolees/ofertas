@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EICDZIK-es Ushuaia Polynésie Aceite de ducha con flor monoi y tiare...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

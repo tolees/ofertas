@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EY7I1W4-es Calvin Klein Reloj de Cuarzo para Hombre con Correa de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 157.0 EUR
 currency: EUR
 price: 157.0

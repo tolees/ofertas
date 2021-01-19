@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY3RQ6K-es Superdry Core Sport Small Logo tee Top de Deporte Gris...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.81 EUR
 currency: EUR
 price: 8.81

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXLHK7T-es Funko- Pop Animation: Speed Racer X Collectible Toy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.54 EUR
 currency: EUR
 price: 6.54

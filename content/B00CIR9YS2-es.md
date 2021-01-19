@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CIR9YS2-es Polesie Wader - Vehículo de Juguete 38166'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

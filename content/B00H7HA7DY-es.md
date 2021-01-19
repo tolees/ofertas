@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H7HA7DY-es BOSS - Arezzo Carteras Hombre Negro Schwarz 1x1x1 cm B x H T'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

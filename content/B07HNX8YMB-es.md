@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNX8YMB-es Reloj - Menton Ezil - para - TMEUWA9333B01'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.06 EUR
 currency: EUR
 price: 16.06

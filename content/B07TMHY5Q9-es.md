@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMHY5Q9-es Philips AVENT SCF746/01 vaso de aprendizaje con boquilla -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.53 EUR
 currency: EUR
 price: 8.53

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081YBPXCZ-es Luces solares Luces con sensor de movimiento solar para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

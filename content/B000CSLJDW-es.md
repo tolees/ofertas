@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CSLJDW-es ghd original - Plancha de pelo profesional tecnología...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 108.99 EUR
 currency: EUR
 price: 108.99

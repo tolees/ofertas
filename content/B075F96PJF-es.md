@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075F96PJF-es Wrangler Arizona Corduroy Pantalones Verde Dusty Olive 275...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

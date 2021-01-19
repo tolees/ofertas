@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKZBWJ6-es adidas Club Tank Top de Tenis Mujer Blanco XS'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.26 EUR
 currency: EUR
 price: 22.26

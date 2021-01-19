@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012VKX9K4-es Targus TSS865EU City Gear - Maletín para portátiles y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

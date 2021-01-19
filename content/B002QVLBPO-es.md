@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002QVLBPO-es ARCTIC F9 PWM PST – 99 mm Ventilador de Caja para CPU con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

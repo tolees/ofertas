@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDLFGJ7-es Vans Atwood Canvas Zapatillas para Hombre Gris Enzyme Wash...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.75 EUR
 currency: EUR
 price: 46.75

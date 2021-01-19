@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N4G5LRE-es BANDAI Tamashii Nations Movie Realization Samurai General...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

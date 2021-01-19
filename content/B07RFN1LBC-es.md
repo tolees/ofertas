@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFN1LBC-es Salomon Alphacross Zapatillas de Trail Running para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.66 EUR
 currency: EUR
 price: 37.66

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCVIW9I-es Errea Maillot Junior Heat'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

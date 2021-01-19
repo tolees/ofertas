@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KBWBWIQ-es Oral-B Crossaction - Cabezal de Recambio Set de 3...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

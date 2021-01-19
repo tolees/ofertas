@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8LBNFJ-es Castellanísimos Mocasines de Mujer con Antifaz en Piel...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

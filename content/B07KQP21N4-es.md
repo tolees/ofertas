@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQP21N4-es Salomon ALPHACROSS GTX W Zapatillas de Trail Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.77 EUR
 currency: EUR
 price: 46.77

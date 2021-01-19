@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZV4G9B-es HyAdierTech Almohadilla De Cuna Impermeable para Bebé...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

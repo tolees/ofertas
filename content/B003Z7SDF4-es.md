@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003Z7SDF4-es Cosmos Versión Extendida [DVD]'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

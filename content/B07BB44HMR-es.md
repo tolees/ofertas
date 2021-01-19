@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BB44HMR-es Helly Hansen TSUGA Zapatillas de Deporte para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.78 EUR
 currency: EUR
 price: 51.78

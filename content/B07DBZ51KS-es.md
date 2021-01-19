@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBZ51KS-es LTPAG Bombilla H7 LED Coche 2pcs 72W 12000LM Lampara H7...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

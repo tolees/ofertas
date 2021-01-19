@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL62DM-es G-STAR RAW Graphic 17 Loose V-Neck Camiseta Azul Imperial...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

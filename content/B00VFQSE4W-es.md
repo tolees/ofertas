@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VFQSE4W-es Samsonite Lite-Shock - Spinner M Maleta 69 cm 73 L Color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 345.31 EUR
 currency: EUR
 price: 345.31

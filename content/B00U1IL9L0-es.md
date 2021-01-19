@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U1IL9L0-es Reebok Cl Lthr Zapatillas de Deporte para Hombre Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 62.44 EUR
 currency: EUR
 price: 62.44

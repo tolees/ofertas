@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHRZFM7-es GC Pro Cargador para Portátil ASUS F553 F553M F553MA R540L...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

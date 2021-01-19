@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNZ6LW7-es adidas Stan Smith Zapatillas de Gimnasia para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

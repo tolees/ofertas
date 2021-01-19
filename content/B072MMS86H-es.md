@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MMS86H-es PraNaturals Manteca de Karité Hidratante 100% Orgánica...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CB8SYBC-es JEVX Megafono Portatil 4 en 1 con BATERIA Recargable +...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.41 EUR
 currency: EUR
 price: 27.41

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CSZTNM-es Cámara web Full HD 1080P con micrófono cámara web USB 2.0...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

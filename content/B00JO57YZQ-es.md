@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JO57YZQ-es Biosilk Mascarilla de pelo - 118 ml.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

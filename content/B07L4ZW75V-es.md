@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4ZW75V-es Adidas Terrex AX3 GTX W Zapatillas de Deporte para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RK1XYPM-es New Balance 574v2 Zapatillas para Hombre Gris Grey/Red Scj...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.88 EUR
 currency: EUR
 price: 59.88

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PN82G3D-es Super Mario Cuello Redondo Carta ImpresiÓN Manga Corta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.94 EUR
 currency: EUR
 price: 9.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFWQC2K-es PUMA Cilia SD Zapatillas para Mujer Vineyard Wine-Pastel...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.16 EUR
 currency: EUR
 price: 26.16

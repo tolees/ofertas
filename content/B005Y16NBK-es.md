@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005Y16NBK-es Chuckit! 170015 Ultra Ball 1 Pelota para Perros Compatible...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

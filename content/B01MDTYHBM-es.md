@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDTYHBM-es G-STAR RAW Zed Cinturón Negro Black/black 406 90 para Hombre'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

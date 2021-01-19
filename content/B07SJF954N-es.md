@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJF954N-es Asics Fujitrabuco Pro Running Shoe Womens Metropolis/Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 97.77 EUR
 currency: EUR
 price: 97.77

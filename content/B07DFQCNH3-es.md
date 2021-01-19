@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFQCNH3-es PUMA Ignite Woven Chándal Hombre Black L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.56 EUR
 currency: EUR
 price: 35.56

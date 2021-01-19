@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076X2DP1R-es H.Koenig Sopera Eléctrica y Licuadora Máquina para hacer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

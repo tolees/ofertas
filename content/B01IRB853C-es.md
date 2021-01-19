@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IRB853C-es ISSA Mikro De FOREO Es El Cepilo De Dientes Infantil...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

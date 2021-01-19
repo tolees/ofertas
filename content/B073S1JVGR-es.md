@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073S1JVGR-es Finether-Chimenea Eléctrica de la Pared Estufa Eléctrica...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JL2GVH-es FOGAWA 50 PCS Papiroflexia 50 Colores Creativo Origami...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

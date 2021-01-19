@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD2CF69-es GUANTE DE NITRILO AQL 1.5 5gr SIN POLVO COLOR NEGRO...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

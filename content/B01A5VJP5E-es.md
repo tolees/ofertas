@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A5VJP5E-es Grohe Rainshower SmartControl 360 DUO - Sistema de ducha...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 937.66 EUR
 currency: EUR
 price: 937.66

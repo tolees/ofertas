@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQVQVB7-es GANT FOOTWEAR New Haven Zapatillas para Mujer Bright White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.92 EUR
 currency: EUR
 price: 22.92

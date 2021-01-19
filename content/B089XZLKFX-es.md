@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089XZLKFX-es Dispensador de jabón automático dispensadores de jabón de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

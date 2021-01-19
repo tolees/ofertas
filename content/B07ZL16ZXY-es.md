@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZL16ZXY-es perfk 14-42"LCD LED Soporte Flexible Estante De Hierro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.79 EUR
 currency: EUR
 price: 27.79

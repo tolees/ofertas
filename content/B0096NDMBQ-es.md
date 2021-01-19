@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0096NDMBQ-es Lampa - 90139 - Adaptador para Espejo Accesorio de Moto'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

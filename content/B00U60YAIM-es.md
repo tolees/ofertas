@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U60YAIM-es Bellota 5308-A CF - Maceta albañil mango de fibra de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

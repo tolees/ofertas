@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNFK8KW-es Calcetines de Tenis Performance Crew 3 Pares Azul EU 35-38'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

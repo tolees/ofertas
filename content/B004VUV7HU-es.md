@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004VUV7HU-es 5 Star 424410 Mini Dispensador de cinta Negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.72 EUR
 currency: EUR
 price: 3.72

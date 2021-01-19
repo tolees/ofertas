@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D8RVL9K-es Famhome - Cinturón elástico de cintura para mujer estilo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

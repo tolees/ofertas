@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF3PC7Y-es Pegatinas de espuma – 700 piezas autoadhesivas formas de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.05 EUR
 currency: EUR
 price: 15.05

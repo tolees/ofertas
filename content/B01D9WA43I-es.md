@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D9WA43I-es BLACK+DECKER BDCHD18K-QW - Taladro percutor 18V 2...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 86.7 EUR
 currency: EUR
 price: 86.7

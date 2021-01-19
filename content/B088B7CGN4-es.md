@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088B7CGN4-es Oihxse Cristal Compatible con Samsung Galaxy S10 Funda...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFJRK62-es Skechers Flex Advantage 3.0 Landess Zapatillas para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

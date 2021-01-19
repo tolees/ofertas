@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XTVBYNZ-es Yazubi Pantalon Chino Hombre Slim fit Verano - Simon...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

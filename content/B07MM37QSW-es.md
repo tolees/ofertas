@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM37QSW-es The Legend of Zelda - Master Sword Lamp PP4934NN'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008YQPZN4-es Remington Titanium-X Dual Foil F7800 Afeitadora de Láminas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.58 EUR
 currency: EUR
 price: 47.58

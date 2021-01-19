@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JM35RG-es Powerextra Sony NP-FW50 Cargador Inteligente Pantalla LCD...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

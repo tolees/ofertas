@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08514SYMT-es Mascarillas mascarillas desechables antivirus corta saliva...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

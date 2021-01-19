@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ5BKWN-es Women s Secret Soft Touch 2 St Special Nd Grey Camisón...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

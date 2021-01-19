@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKDFB3G-es Nike W NP Tight Sport Trousers Mujer Gunsmoke/htr/Black/...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.22 EUR
 currency: EUR
 price: 28.22

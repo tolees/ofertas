@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074JF32NW-es Air Wick Essential Mist - Aparato y recambio de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

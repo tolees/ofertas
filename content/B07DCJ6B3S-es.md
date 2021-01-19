@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCJ6B3S-es Puma Zeta Suede Zapatillas Unisex Adulto Blanco White-...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.29 EUR
 currency: EUR
 price: 27.29

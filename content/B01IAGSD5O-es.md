@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IAGSD5O-es Crucial MX300 CT275MX300SSD1 - Disco Duro sólido Interno...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 63.05 EUR
 currency: EUR
 price: 63.05

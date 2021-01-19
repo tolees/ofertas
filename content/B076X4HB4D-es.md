@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076X4HB4D-es Gardena NatureUp Set vertical grifo sistema de riego...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

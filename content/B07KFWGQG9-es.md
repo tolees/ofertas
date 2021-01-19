@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFWGQG9-es PUMA Speed SUTAMINA Zapatillas de Running Unisex Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

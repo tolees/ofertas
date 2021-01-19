@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXZ23K3-es Champion the Curvy Soutien-Gorge de Sport Femme Noir Noir...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

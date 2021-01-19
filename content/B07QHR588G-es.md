@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHR588G-es NYX Professional Makeup Paleta de correctores y contouring...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

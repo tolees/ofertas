@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHK8N35-es PUMA One Strap Ball Balón de Fútbol Adultos Unisex Black-...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

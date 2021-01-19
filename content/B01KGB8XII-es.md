@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KGB8XII-es Lorus Reloj de Pulsera R2387KX9'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

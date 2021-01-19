@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CBCJYXE-es Nike 905211 001 Zapatillas de Deporte para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N9BLXCJ-es BOSS Schino-Regular D Pantalones Azul Navy 413 34W/34L...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

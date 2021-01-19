@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M77JFFF-es BANDAI- Severus Snape Figura 12 CM Harry Potter SH...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

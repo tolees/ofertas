@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829HMBR8-es adidas Tan Training Pants Pantalon Hombre DGH Solid Grey M'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.76 EUR
 currency: EUR
 price: 22.76

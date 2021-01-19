@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KGSYLL-es DEVOLO 08140 dLAN 1000 Mini Power Line Adaptador'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.56 EUR
 currency: EUR
 price: 18.56

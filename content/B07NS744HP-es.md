@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NS744HP-es Marco Tozzi 2-2-25112-33 Botas Chukka para Mujer Gris...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.41 EUR
 currency: EUR
 price: 12.41

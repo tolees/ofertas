@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S43MYKG-es New Balance 373v2 Zapatillas para Hombre Gris Grey/White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

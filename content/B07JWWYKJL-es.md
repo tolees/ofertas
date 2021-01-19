@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWWYKJL-es Columbia Ivo Trail Zapatillas para Hombre Verde Peatmoss...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

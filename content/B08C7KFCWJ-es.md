@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C7KFCWJ-es Longspeed Dibujar con luz Tablero de Dibujo Divertido...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.67 EUR
 currency: EUR
 price: 5.67

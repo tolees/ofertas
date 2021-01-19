@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XWYQH2-es Luz Lámpara de pared Pájaro pastoral fresco Nordic Little...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DY11QNL-es Casio G-SHOCK Reloj Digital Reloj radiocontrolado y solar...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 57.75 EUR
 currency: EUR
 price: 57.75

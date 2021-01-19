@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCXKSQQ-es Manteca de Karité Bio Hidratante Ecológica con Aceite de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.33 EUR
 currency: EUR
 price: 17.33

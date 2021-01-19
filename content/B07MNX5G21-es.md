@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNX5G21-es Palladium 75156 - Botas de Otra Piel Unisex Adulto Marrón...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.11 EUR
 currency: EUR
 price: 21.11

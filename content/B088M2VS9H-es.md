@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088M2VS9H-es Suhctup Funda Compatible con Samsung Galaxy A30s...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

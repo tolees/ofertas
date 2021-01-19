@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G3BGL8E-es MAKITA DEAADP06 - Adaptador para usb 10.8v'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.02 EUR
 currency: EUR
 price: 21.02

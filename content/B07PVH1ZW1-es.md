@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVH1ZW1-es KLIM™ Talk – Micrófono USB de Escritorio para PC y Mac –...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.43 EUR
 currency: EUR
 price: 22.43

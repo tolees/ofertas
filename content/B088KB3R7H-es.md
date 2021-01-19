@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088KB3R7H-es Remescar - Reparación Nocturna - Contorno De Ojos -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

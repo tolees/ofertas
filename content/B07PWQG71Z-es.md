@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWQG71Z-es Nike Air MAX Graviton Zapatillas para Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.01 EUR
 currency: EUR
 price: 34.01

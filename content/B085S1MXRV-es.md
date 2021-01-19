@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085S1MXRV-es Cudy WR1300 AC1200 Mbps Router inalámbrico Gigabit WiFi...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

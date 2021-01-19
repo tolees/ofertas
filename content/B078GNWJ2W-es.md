@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GNWJ2W-es CASEBOT Funda para Kindle Oasis 2019/2017 10.ª y 9.ª...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

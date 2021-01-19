@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N97LQKX-es BOSS Prime Polo Azul Medium Blue 428 XX-Large para Hombre'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

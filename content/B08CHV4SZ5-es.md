@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CHV4SZ5-es Lagarto Suavizante Talco Concentrado 70 Lavados 1 5l -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

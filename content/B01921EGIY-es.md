@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01921EGIY-es POP! Vinilo - Tokyo Ghoul: Ken Kaneki'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

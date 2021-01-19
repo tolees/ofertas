@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHCH537-es Columbia Redmond V2 Zapatillas de Senderismo para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.49 EUR
 currency: EUR
 price: 51.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DPDQQKR-es Cargador Mando para Switch 4 en 1 Estación de Carga para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.35 EUR
 currency: EUR
 price: 16.35

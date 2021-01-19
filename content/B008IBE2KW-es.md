@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008IBE2KW-es Woxter UPS 800 VA - Sistema SAI de alimentación...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

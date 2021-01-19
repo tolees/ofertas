@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GUXJTVC-es Columbia Peakfreak Nomad Botas de Senderismo para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

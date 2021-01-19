@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ESXN4IK-es Generic PB20586 Adaptador de Cable Mini HDMI HDMI Negro -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.63 EUR
 currency: EUR
 price: 1.63

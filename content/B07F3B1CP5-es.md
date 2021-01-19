@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3B1CP5-es adidas M Pantalones Cortos de Deporte Hombre zne htr/Black'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.6 EUR
 currency: EUR
 price: 29.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000YS06JI-es Exo Terra Bombilla Bajo Consumo UVB 100 Compacto Repti 13...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.02 EUR
 currency: EUR
 price: 14.02

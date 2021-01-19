@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CDF3SJ-es FMPC Carcasa con Cuerda Samsung Galaxy S20 Ultra Cristal...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

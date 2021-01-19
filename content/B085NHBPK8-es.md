@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085NHBPK8-es LEADSTAR Toalla Facial Infantil Muselinas Bebe Algodon...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

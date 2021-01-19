@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXQF3FM-es Vans Filmore Decon Zapatillas para Hombre Rojo Canvas Port...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.34 EUR
 currency: EUR
 price: 38.34

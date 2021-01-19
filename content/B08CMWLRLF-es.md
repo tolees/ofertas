@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CMWLRLF-es atFoliX Lámina Protectora de Pantalla Compatible con TCL...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

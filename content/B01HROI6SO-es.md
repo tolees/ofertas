@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HROI6SO-es Onitsuka Tiger Mexico 66 Zapatillas de Entrenamiento...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.45 EUR
 currency: EUR
 price: 49.45

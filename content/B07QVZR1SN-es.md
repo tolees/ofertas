@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVZR1SN-es Asics Gel-Cumulus 21 Zapatillas de Running para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

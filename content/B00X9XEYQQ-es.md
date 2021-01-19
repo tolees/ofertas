@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9XEYQQ-es Maybelline New York - Superstay 7 Días Esmalte de Uñas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.1 EUR
 currency: EUR
 price: 2.1

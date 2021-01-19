@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZCH8MM-es Under Armour Performance Polo 2.0 Niños Azul Academy/Mod...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

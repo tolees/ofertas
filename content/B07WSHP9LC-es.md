@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSHP9LC-es Griffin Technology Funda Survivor Endurance para iPhone 11...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

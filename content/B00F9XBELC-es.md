@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F9XBELC-es DeLOCK 65508 Adaptador de Cable HDMI Negro - Adaptador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

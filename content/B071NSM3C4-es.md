@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NSM3C4-es Jack & Jones Jjicody Jjspencer WW Noos Pantalones Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

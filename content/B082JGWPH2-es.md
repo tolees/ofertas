@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082JGWPH2-es Persona 5 - Royal Phantom Thieves Edition'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

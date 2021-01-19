@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W68P4SM-es Dickies Slim Fit Work Pant Pantalones Negro Black BK...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.59 EUR
 currency: EUR
 price: 38.59

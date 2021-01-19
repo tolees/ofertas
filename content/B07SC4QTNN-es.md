@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SC4QTNN-es Helly Hansen Loke Backpack Mochila Unisex adulto Oxblood 25L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

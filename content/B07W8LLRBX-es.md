@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8LLRBX-es Le llamaban Trinidad 1 y 2 [Blu-ray]'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

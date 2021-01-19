@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVJG444-es Máscara para adultos N95 / FFP2 paquete de 10 unidades...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

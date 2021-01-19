@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5YYDY4-es Skechers Flex Appeal 3.0 Zapatillas para Mujer Gris Light...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MCYDDQI-es Blood Rage Bogowie Asgardu'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

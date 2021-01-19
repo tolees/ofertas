@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9GNVG1-es Under Armour Accelerate Off-Pitch Pant Pantalones Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

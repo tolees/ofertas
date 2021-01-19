@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777VY9CQ-es Tommy Jeans Hombre SLIM TAPERED STEVE COBCO Jeans Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.52 EUR
 currency: EUR
 price: 30.52

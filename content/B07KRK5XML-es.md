@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRK5XML-es New Balance Cm997hv1 Zapatillas para Hombre Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.8 EUR
 currency: EUR
 price: 42.8

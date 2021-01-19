@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087LTD4J3-es Fuutuu Mini Máquinas de coser Portátil Herramienta de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

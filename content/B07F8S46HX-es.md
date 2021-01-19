@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8S46HX-es Samsung - Funda de silicona para Galaxy Note 9 color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.97 EUR
 currency: EUR
 price: 4.97

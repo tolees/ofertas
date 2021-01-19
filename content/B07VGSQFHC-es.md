@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGSQFHC-es Vans Atwood Canvas Zapatillas para Hombre Multicolor Otw...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

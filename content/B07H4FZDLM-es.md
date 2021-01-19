@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4FZDLM-es AOC 24B1XHS - Monitor de 24” FHD IPS VGA HDMI Sin Bordes...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 89.24 EUR
 currency: EUR
 price: 89.24

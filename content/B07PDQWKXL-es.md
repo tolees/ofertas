@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDQWKXL-es New Balance 997h Zapatillas para Hombre Marfil Off White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.13 EUR
 currency: EUR
 price: 24.13

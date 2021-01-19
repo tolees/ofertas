@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083K3ZPJ2-es Teddy Bear Gift Teddy Bear 3D Lámpara de ilusión óptica...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

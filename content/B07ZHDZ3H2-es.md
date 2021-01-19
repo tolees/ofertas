@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZHDZ3H2-es Fossil Pulsera de Hombre con Acero inoxidable Metal Cuero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

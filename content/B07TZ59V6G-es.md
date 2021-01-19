@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ59V6G-es Women s Secret Trendy Tapestry TT Flower Burg Nd FR...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T7MDFL1-es OfficeWorld 29XL Alta Capacidad Cartuchos de Tinta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

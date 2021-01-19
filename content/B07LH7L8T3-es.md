@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LH7L8T3-es The North Face 24/7 Short Pantalones Cortos para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZ83NNY-es DMAR Escudo del Capitán América + Soporte De Madera 60cm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 239.98 EUR
 currency: EUR
 price: 239.98

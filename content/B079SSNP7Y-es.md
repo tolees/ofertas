@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SSNP7Y-es Kappa SALCITO TKS Chándal Hombre Negro/Amarillo M'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

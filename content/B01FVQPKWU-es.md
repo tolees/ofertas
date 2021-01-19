@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FVQPKWU-es Vaessen Creative Plástico Mágico Blanco 4 Hojas Tamaño 21...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

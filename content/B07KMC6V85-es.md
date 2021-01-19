@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMC6V85-es Nike Nk Heritage Bkpk-2.0 AOP Hombre Black/University...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UB70K8Y-es Einhell GC-EM 1030 - Cortacésped eléctrico 1000 W altura...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 52.15 EUR
 currency: EUR
 price: 52.15

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0812H8MYM-es Asics JOLT 2 GS Running Shoe Unisex-Child Black/Directoire...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

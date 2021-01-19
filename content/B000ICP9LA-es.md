@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000ICP9LA-es Emsa Superline Jarra medidora Transparente 0 5 L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MAY30W9-es Legrand Marco interruptor Marco enchufe NILOE Blanco'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.05 EUR
 currency: EUR
 price: 2.05

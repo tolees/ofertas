@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BNBEKE6-es Hugo Boss Orange Reloj analógico para Hombre con cuarzo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 93.8 EUR
 currency: EUR
 price: 93.8

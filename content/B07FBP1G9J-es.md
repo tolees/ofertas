@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FBP1G9J-es Skechers Women s Flex Appeal 3.0-first Insight Trainers...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.58 EUR
 currency: EUR
 price: 42.58

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007NYSLJI-es Papstar 17981 Set de diámetro 50 x 100 mm 8 pcs crema'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.87 EUR
 currency: EUR
 price: 7.87

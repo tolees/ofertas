@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NP2DL4-es Macallan Triple Cask 15 Años Single Malt Whisky Escoces...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.15 EUR
 currency: EUR
 price: 47.15

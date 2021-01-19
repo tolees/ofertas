@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQXK8SP-es YOSICIL Zapatos de la Princesa Elsa niñas con Lentejuela...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

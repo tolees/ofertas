@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AZHSCHU-es New Balance 500 Core Zapatillas para Hombre Azul Navy Navy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.55 EUR
 currency: EUR
 price: 47.55

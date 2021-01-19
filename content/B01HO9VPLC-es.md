@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HO9VPLC-es Asics Unisex Adults Gel-Kayano Trainer Evo Zapatillas de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.82 EUR
 currency: EUR
 price: 26.82

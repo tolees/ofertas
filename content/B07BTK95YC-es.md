@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BTK95YC-es Razer Abyssus Essential - Gaming Raton color negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

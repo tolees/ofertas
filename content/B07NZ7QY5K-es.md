@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ7QY5K-es Chatham Grampian Botas Clasicas para Hombre Khaki Nubuck...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.68 EUR
 currency: EUR
 price: 20.68

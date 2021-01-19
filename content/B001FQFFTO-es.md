@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FQFFTO-es Merrell Zapatillas J73703 Smooth Black'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 72.86 EUR
 currency: EUR
 price: 72.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQWVB8T-es Look by Crewcut - Camisola de cambray para niña Chambray 8'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

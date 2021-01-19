@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081MYWK48-es BLU Ray 4k Grabadora DVD Reproductor Externo Portatil USB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 77.39 EUR
 currency: EUR
 price: 77.39

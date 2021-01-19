@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7BJMJ8-es CARE OF by PUMA 372883 Low-Top Sneakers Negro Black Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.71 EUR
 currency: EUR
 price: 19.71

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK6BGTH-es JXD Nueva Consola de Videojuegos Retro de 5.1 Pulgadas y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.8 EUR
 currency: EUR
 price: 69.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SUE9FD6-es Tuc Tuc 6550 - Mini saco niños'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.48 EUR
 currency: EUR
 price: 43.48

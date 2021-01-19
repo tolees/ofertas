@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLHKZL-es adidas Countryxkamanda Zapatillas de Gimnasia para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 63.46 EUR
 currency: EUR
 price: 63.46

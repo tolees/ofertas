@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFZSPWQ-es New Balance 220 Zapatillas Unisex Niños Rosa Pink/Pink...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.74 EUR
 currency: EUR
 price: 22.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRH1X9D-es New Balance 574v2 Zapatillas para Mujer Blanco White/Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.04 EUR
 currency: EUR
 price: 46.04

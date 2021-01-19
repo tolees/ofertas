@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXLGRPT-es New Balance 500 h Zapatillas para Hombre Azul Blue TSB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.73 EUR
 currency: EUR
 price: 51.73

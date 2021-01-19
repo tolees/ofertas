@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NJFKXQ-es Termómetro Infrarrojo Termómetro Láser Digital Pistola de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

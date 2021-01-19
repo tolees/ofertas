@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1NR3PF-es Reserva Yzaguirre Vermouth Rojo - 1 l'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

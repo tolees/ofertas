@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLDZXPG-es AUKEY Batería Externa de 5000 mAh Cargadores portátiles...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

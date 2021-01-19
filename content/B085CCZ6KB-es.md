@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CCZ6KB-es FMPC Carcasa con Cuerda Samsung Galaxy A50 Cristal TPU...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

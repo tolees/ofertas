@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V51YBFJ-es Libertroy DC-DC Step Down Converter 5-36V to 1.25-32V 5A...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.17 EUR
 currency: EUR
 price: 3.17

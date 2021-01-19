@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M8HXIZG-es Arcopal - Vajilla con 18 Piezas Blanco'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VIXRB6O-es PetSafe PFD19-15521 Comedero para Mascotas con Programador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 122.95 EUR
 currency: EUR
 price: 122.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJ5LVLN-es Lenovo Ideapad 330-15IKBR Ordenador Platinum Grey'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYYNH2R-es Elite Bags Botiquín Riñonera Funcional y Cómodo'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.94 EUR
 currency: EUR
 price: 26.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XP5D48V-es Trust GXT 313 Nero - Auriculares Gaming con micrófono con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

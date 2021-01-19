@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HN4JPDE-es Anillo Rimous clásico ajustable con bonita flor tibetana...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 0.48 EUR
 currency: EUR
 price: 0.48

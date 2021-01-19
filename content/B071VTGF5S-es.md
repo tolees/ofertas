@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VTGF5S-es Star Wars-Funko SW-EP8 Figura de Vinilo Pop 9: A Character...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

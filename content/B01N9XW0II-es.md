@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9XW0II-es Philips Sonicare AirFloss HX8432/03 - Irrigador dental...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 68.98 EUR
 currency: EUR
 price: 68.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GKP3LW1-es MAOIMOR Niños Desechables de Filtro de 3 Capas con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7SKU47-es Limitless equipment Mark 1 kit de supervivencia: Mil-Spec...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

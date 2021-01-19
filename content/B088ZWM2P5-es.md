@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088ZWM2P5-es Rosa 24 K Chapado en Oro Rosa La flor Rosa Artificial es...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

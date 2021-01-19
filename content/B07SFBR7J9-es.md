@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFBR7J9-es Helly Hansen Daybreaker 1/2 Zip Fleece Forro Polar Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.94 EUR
 currency: EUR
 price: 35.94

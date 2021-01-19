@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ1LRY2-es Kipling Baroe S Monederos para Mujer Plateado Metallic...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

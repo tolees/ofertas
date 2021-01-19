@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYTPN8C-es New Balance 997H m Zapatillas para Mujer Azul Navy/Pink...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.12 EUR
 currency: EUR
 price: 33.12

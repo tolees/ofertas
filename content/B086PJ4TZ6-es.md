@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PJ4TZ6-es Golden Goose Casual Zapatillas de piel Super Star para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 420.86 EUR
 currency: EUR
 price: 420.86

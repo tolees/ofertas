@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ27HKK-es Smart Sir 4 Pares de Calcetines para Hombre y Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.24 EUR
 currency: EUR
 price: 14.24

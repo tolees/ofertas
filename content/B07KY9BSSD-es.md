@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KY9BSSD-es Eastpak SPRINGER Riñonera interior 23 cm 2 liters Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

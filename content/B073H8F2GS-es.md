@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073H8F2GS-es Cybex Silla de coche grupo 2/3 Solution M-Fix SL Para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

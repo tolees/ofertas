@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G3GWJ9F-es Funda de cáscara dura mCover para los NUEVOS 14" Yoga 530...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

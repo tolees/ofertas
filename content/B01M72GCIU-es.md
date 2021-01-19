@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M72GCIU-es Cole Haan Herren Zerogrand Stitchlite Oxfords Grau...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.82 EUR
 currency: EUR
 price: 20.82

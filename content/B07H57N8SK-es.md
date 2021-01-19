@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H57N8SK-es Cooler Master MasterBox MB520 RGB ATX Mid-Tower con Panel...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 58.47 EUR
 currency: EUR
 price: 58.47

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6NF9D5-es Homyl Unidad Disquete USB Externa Sfrm72-du26 Accesorios...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.79 EUR
 currency: EUR
 price: 29.79

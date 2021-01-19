@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0819XGZLR-es Botella Agua Acero Inoxidable 750 ml Botella Termoaislada...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

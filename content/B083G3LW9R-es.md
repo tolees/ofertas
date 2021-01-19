@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083G3LW9R-es Fisen ColorPower Pro - Batería portátil 10000 mAh'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

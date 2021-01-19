@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MNDNP6-es Bourjois Healthy Mix Powder Polvos Tono 03 Beige foncé /...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.48 EUR
 currency: EUR
 price: 4.48

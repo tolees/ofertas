@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZUXTGO-es Reloj Casio para Hombre EF-558D-1AVEF'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 137.16 EUR
 currency: EUR
 price: 137.16

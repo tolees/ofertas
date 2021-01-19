@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K1XBHDU-es Hunter Original Tall Classic Botas de Agua para Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 83.78 EUR
 currency: EUR
 price: 83.78

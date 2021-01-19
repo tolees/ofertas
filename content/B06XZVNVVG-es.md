@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XZVNVVG-es Baby Jogger BJ2011982 - Banqueta'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

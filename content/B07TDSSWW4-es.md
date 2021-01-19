@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDSSWW4-es Finocam - Agenda 2020 Semana Vista Apaisada Espiral You...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

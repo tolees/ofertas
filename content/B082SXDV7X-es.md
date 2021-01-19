@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SXDV7X-es READ Reloj Digital Deportivos 3D Podómetro Digital...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

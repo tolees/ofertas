@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGHN7Z3-es Buff R-Equilateral Visera Pack Run Unisex Adulto Cape Blue...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.78 EUR
 currency: EUR
 price: 8.78

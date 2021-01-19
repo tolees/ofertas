@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXSXLSC-es Aogled LED Lámpara de Techo 24W 2400LM 4000K Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

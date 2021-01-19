@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079C8DDD6-es Paladone lámpara Call of Duty'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.25 EUR
 currency: EUR
 price: 18.25

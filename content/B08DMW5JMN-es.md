@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DMW5JMN-es Panamar NE555 + CD4017 Rojo Azul Doble Color Juego de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

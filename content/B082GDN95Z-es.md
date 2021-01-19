@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082GDN95Z-es Pgige Funda Universal de 7 Pulgadas con patrón de Cristal...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

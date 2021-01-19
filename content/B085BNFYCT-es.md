@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BNFYCT-es Kit de Iluminación para Fotografía: 3X Ventana de Luz 3X...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

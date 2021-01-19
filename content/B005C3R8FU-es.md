@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005C3R8FU-es Vodka belvedere 40º 700 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

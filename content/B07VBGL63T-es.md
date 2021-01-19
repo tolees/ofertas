@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBGL63T-es Lee Extreme Motion Short Pantalones Cortos Azul Navy 09 58...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

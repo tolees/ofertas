@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGZGXVL-es Strellson Premium Mercer2.0 12 Pantalones de Traje Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.58 EUR
 currency: EUR
 price: 15.58

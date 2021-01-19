@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872NL4NN-es Funda Transparente Compatible para Xiaomi Mi 8 Carcasa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

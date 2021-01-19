@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHWDTKS-es IKERLEX LED Linternas Tácticas Militares LED Antorcha Alta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

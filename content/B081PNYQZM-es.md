@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081PNYQZM-es Babacom Soporte Movil Coche Magnético 360 Grados Rotación...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073JGTXNK-es Marca Amazon - find. Blusa Mujer Azul Blau 44 Label: XL'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

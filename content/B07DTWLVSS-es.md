@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DTWLVSS-es Taurus AC 2600 RVKT - Aire acondicionado port?til 4 en 1:...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

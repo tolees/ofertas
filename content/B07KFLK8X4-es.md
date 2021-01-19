@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFLK8X4-es adidas RUNFALCON Running Shoe Mens Blanco Ftwbla Ftwbla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

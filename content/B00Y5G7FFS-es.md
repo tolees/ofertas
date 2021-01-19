@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y5G7FFS-es Aceite de Rosa Mosqueta 120ml . Aceite orgánico...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

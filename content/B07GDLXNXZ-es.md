@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDLXNXZ-es Xiaomi MI A2 - Smartphone DE 5.9" Qualcomm Snapdragon 660...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

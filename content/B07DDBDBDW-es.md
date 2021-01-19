@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDBDBDW-es Mundo Monstruos - Laboratorio Zombie Ball Bizak 35001918'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

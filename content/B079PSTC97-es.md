@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PSTC97-es Adidas by Nixon Reloj Mujer de Digital con Correa en Acero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 81.0 EUR
 currency: EUR
 price: 81.0

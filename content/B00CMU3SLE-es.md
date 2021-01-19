@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CMU3SLE-es Revlon Super Lustrous Brillo de Labial Pink Pop'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003KOK9EK-es Olimp Sport Nutrition HMB Mega Anticatabólico - 120 Cápsulas'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

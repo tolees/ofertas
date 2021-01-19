@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCL8MBL-es 8x Almohadillas de Pies para Controlador de Playstation 4'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7CW9QY-es Go-Tcha Evolve LED-Touch Wristband Watch For Pokemon Go...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.38 EUR
 currency: EUR
 price: 34.38

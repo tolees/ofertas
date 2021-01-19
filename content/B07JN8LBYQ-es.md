@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JN8LBYQ-es Powerlegs – Ejercita Tus Piernas Sin Esfuerzo Con Mando A...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

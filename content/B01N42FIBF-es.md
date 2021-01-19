@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N42FIBF-es Puma Roma Basic Zapatillas para Hombre Negro Black-black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.21 EUR
 currency: EUR
 price: 27.21

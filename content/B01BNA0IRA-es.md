@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BNA0IRA-es Tommy Hilfiger Mujer-Reloj de Deporte analógico Everyday...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 78.82 EUR
 currency: EUR
 price: 78.82

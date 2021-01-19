@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJK4H5-es Kipling - Card Keeper Carteras Mujer Gris Night Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

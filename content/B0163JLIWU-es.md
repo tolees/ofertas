@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0163JLIWU-es AOC U2879VF - Monitor de 28" 4K UHD 3840 x 2160 60 Hz TN 1...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

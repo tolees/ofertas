@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UCC2VQ2-es Vitroclen Limpiador de Vitrocerámica en crema acción...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

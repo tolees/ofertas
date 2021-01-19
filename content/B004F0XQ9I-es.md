@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004F0XQ9I-es Cressi Light Aletas Unisex-Youth Blanco 43/44'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

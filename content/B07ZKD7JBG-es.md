@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKD7JBG-es ZOZOSEP Decoración para el hogar Colgante Adorno-Nube...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.31 EUR
 currency: EUR
 price: 4.31

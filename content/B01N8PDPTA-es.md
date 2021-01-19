@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N8PDPTA-es Plantronics BackBeat Go 3 - Auriculares y Estuche de Carga'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 78.95 EUR
 currency: EUR
 price: 78.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ASNGVDY-es Merc Harrington Abrigos de Manga Larga Para Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 73.64 EUR
 currency: EUR
 price: 73.64

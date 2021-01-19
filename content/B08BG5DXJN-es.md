@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BG5DXJN-es NECULAMAT Cable Audio vídeo AV RCA Macho Jack 3 5 mm 1...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

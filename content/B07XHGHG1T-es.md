@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XHGHG1T-es JRD&BS WINL Regalo para Niños De 4-15 Años Pizarra...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

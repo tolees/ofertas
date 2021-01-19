@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTA0GO9-es MSI Nightblade 3 VR7RC-008EU - Ordenador de sobremesa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 688.97 EUR
 currency: EUR
 price: 688.97

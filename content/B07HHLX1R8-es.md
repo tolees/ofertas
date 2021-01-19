@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHLX1R8-es Intel bx80684i59600k - CPU intel Core i5-9600k 3.70ghz 9m...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 230.92 EUR
 currency: EUR
 price: 230.92

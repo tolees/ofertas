@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBSRXS5-es PUMA Logo Elastic 3/4 Tight Mallas Deporte Mujer Black XS'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.35 EUR
 currency: EUR
 price: 22.35

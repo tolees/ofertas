@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDRBVR7-es Prada Luna Rossa Carbon Vaporizador Agua de Colonia - 50 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7K5GXF-es Libartly Translúcido Color sólido Hilado de Vidrio Ventana...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.37 EUR
 currency: EUR
 price: 1.37

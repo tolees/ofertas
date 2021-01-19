@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HAVJUNO-es Songmics OBG71B Racing -Silla de Escritorio/ Computadora...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 141.19 EUR
 currency: EUR
 price: 141.19

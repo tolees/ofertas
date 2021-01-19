@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z1QQ15W-es NAPATEK Lámpara Escritorio LED Lámpara De Mesa Para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

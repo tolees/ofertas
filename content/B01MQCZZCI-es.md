@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQCZZCI-es Cáncer de Mama Pasadores Broche de Conciencia Caridad...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.08 EUR
 currency: EUR
 price: 4.08

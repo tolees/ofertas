@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O4B1QKE-es Zotal Parasital Blíster con 4 Pipetas de 5 ml para Perros...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

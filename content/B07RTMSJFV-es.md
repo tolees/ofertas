@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTMSJFV-es ZHENROG Electroestimulador Muscular Abdominales...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

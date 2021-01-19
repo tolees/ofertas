@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVQNL3C-es Under Armour UA W Charged Aurora Zapatillas Deportivas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.32 EUR
 currency: EUR
 price: 36.32

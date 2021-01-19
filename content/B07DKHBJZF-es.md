@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKHBJZF-es Kipling - City Pack Mini Mochilas Mujer Azul Active Denim'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

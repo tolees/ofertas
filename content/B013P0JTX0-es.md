@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013P0JTX0-es Belkin F2CD079bt - Adaptador de Mini DisplayPort a HDMI 4K...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.82 EUR
 currency: EUR
 price: 13.82

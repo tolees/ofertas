@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X5J6SSQ-es IGLOO Nevera Portátil Transformer 56 litros con Ruedas y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 61.18 EUR
 currency: EUR
 price: 61.18

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LFVKUBW-es Luminarc Set 6 Piezas Modelo Fiesta Combinados Juegos de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

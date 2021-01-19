@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKKZ1BR-es Globo Flotante de levitación magnética gira del mapa del...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

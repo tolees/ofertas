@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W7K6E5Q-es Scitec Nutrition Proteína De Suero Professional con Sabor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

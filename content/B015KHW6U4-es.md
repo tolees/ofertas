@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015KHW6U4-es Nike Air Max Command Leather - Zapatillas de running...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 89.18 EUR
 currency: EUR
 price: 89.18

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3CQ3GT-es Bruni Película Protectora Compatible con Garmin Vivoactive...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

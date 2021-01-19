@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N7VMIKY-es Control Chocolate Addiction Preservativos - 12 Unidades'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

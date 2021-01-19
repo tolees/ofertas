@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMGYGVX-es AmazonBasics - Toallas de uso diario 2 de baño y 4 de mano...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.44 EUR
 currency: EUR
 price: 16.44

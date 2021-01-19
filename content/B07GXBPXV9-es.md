@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXBPXV9-es PNI ZN101 - Ordenador portátil de 10.6" Intel Z8350 2 GB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 219.26 EUR
 currency: EUR
 price: 219.26

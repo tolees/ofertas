@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSJHJBM-es Filtro de admisión de aire Kit de filtro de admisión de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X6LLL1K-es Braun MQ 3025 Spaghetti - Licuadora 600 L 0 35 L Botones...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35 EUR
 currency: EUR
 price: 35

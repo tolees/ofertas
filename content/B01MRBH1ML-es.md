@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRBH1ML-es Russell Hobbs Ultimate - Espiralizador de Verduras y Fruta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

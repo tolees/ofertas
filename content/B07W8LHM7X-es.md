@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8LHM7X-es Dc Colección 7 Películas 2019 Blu-Ray [Blu-ray]'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.4 EUR
 currency: EUR
 price: 35.4

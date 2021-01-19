@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0001IWAS6-es STANLEY 1-92-066 - Caja de herramientas Milenium 48.9 x 26...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.32 EUR
 currency: EUR
 price: 14.32

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5BW1N5-es Love MoschinoJc4043pp1aMujerBolso de manoRojo Rosso...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 83.02 EUR
 currency: EUR
 price: 83.02

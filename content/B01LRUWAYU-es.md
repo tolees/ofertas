@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LRUWAYU-es Hauck Shopper Neo II - Silla de paseo con respaldo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.92 EUR
 currency: EUR
 price: 51.92

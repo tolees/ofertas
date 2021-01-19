@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0823MNPJR-es Colmanda 2 Piezas Juguete Mágico de Hombre Wooden Man...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

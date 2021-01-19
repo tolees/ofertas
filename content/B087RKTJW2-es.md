@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RKTJW2-es Paquete de 100 Unidades – se suministra en Bolsa sellada...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.12 EUR
 currency: EUR
 price: 27.12

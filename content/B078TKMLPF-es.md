@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078TKMLPF-es Pepe Jeans Vincent Polo Azul Navy 595 XX-Large para Hombre'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

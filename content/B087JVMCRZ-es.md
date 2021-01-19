@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JVMCRZ-es 10 unidades – Protector bucal para nariz con soporte nasal...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

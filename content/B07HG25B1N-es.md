@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG25B1N-es New Balance 420 m Zapatillas para Mujer Rosa Pink Pink...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.17 EUR
 currency: EUR
 price: 30.17

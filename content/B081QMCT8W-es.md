@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QMCT8W-es HP OMEN 15-dh0017ns - Ordenador portátil de 15.6" FullHD...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1099.99 EUR
 currency: EUR
 price: 1099.99

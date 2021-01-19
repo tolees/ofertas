@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B96JFYA-es ESI PROPOLAID PROPOLGOLA Spray 20ml voz de la garganta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

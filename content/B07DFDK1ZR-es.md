@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDK1ZR-es Pop! The Predator - Figura de Vinilo Predator Hound X6...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

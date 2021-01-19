@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CSTWDQK-es Braun 40B - Recambio para afeitadora eléctrica hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.22 EUR
 currency: EUR
 price: 29.22

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772ZBJST-es Columbia Ventrailia 3 Low Outdry Zapatillas de Senderismo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 60.89 EUR
 currency: EUR
 price: 60.89

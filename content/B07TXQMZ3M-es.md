@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXQMZ3M-es Legend COMO-A - Bolsa de Cuero Mujer color Negro talla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.18 EUR
 currency: EUR
 price: 53.18

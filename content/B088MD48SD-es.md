@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088MD48SD-es Foto Clip Cadena de Luces LED Guirnalda de Luces para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

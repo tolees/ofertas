@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079BS1JTG-es JACK & JONES Jjepaulos Polo SS Noos Gris Light Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPD8W4Z-es Skechers Men s DYNAMIGHT 2.0-FALLFORD Trainers Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

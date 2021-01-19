@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VK1S9DS-es Zhiyun Crane M2 Gimbal Estabilizador de cardán de Mano de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

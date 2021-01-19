@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084T2RJLW-es AngLink Ventilador Cuello Ventilador Portatil USB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

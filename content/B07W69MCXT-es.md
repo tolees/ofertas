@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W69MCXT-es TOUS Urban Capazo Women s U'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 75.76 EUR
 currency: EUR
 price: 75.76

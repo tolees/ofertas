@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QY3ZBV-es yaoyan Funda Universal para Tableta portátil Funda Ultra...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.38 EUR
 currency: EUR
 price: 1.38

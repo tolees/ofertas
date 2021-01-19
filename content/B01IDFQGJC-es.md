@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IDFQGJC-es adidas Gazelle Zapatillas de deporte Unisex Adulto Varios...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

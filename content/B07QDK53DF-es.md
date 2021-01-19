@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDK53DF-es Test de embarazo 3 Pruebas - Prueba de Embarazo Resultado...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014QLGE7Q-es Manfrotto Holster XS - Bolsa para cámara'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

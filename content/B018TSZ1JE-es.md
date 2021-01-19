@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018TSZ1JE-es Pedigree Dentastix Fresh Snacks para Higiene Oral Perro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBVR5NV-es PUMA JARO Zapatillas para Correr de Carretera para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.63 EUR
 currency: EUR
 price: 36.63

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQHK8YC-es Piz Buin Allergy Protector Solar en Spray SPF 50+...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N9BGG1Z-es THE NORTH FACE M TB TRCTN Mule V Zapatillas de Senderismo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

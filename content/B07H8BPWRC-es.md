@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8BPWRC-es DORRISO Linda Sombrero y Bufanda Niño Niña Primavera Otoño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

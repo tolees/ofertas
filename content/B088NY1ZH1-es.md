@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088NY1ZH1-es Lumemery Piscina Inflable Familia Niños Adultos Fiesta de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

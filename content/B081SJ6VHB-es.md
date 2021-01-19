@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081SJ6VHB-es adidas CON20 TR PNT Pantalones de Deporte Hombre Team Navy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

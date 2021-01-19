@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CT7L4V4-es Ocobudbxw Útil Profesional Kit de Artista de Dibujo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.77 EUR
 currency: EUR
 price: 25.77

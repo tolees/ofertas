@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDHDPKL-es Greenworks Optimow 15 Robot cortacésped para 1.500m2'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 515.0 EUR
 currency: EUR
 price: 515.0

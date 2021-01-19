@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BLYZG7-es YIMINYUER Juego de Alfombrillas de Espuma EVA para niños...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

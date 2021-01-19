@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D3J4Q4G-es Bosch TDA5024010 Sensixx x DA50 Plancha de vapor 2400 W...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

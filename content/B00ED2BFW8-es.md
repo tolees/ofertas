@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ED2BFW8-es Grupo Erik Editores Poster Breaking Bad- I Am The One Who...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.28 EUR
 currency: EUR
 price: 4.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXQFJPL-es Hot One Cambios De Color Monederos y Bolsos Luminosos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.71 EUR
 currency: EUR
 price: 35.71

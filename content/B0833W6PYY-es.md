@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833W6PYY-es Peradix Splash Pad Tapete de Juegos de Agua 170CM...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.69 EUR
 currency: EUR
 price: 20.69

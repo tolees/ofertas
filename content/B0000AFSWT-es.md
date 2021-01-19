@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000AFSWT-es Converse Chuck Taylor All Star Ox Zapatillas Unisex Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

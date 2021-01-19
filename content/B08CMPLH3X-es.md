@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CMPLH3X-es Disco Duro Externo 2 TB USB-C Disco Duro Externo para PC...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

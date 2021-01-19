@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4FXY9I-es Netgear ReadyNAS RN42200-100NES - Dispositivo de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 322.36 EUR
 currency: EUR
 price: 322.36

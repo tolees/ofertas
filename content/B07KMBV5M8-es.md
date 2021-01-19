@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMBV5M8-es Clarks Un Rio Lace Zapatillas Negro Black Leather Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 75.78 EUR
 currency: EUR
 price: 75.78

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SRRJPK-es COVVY Cable LED Tira de Luces de Neon Flexible de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

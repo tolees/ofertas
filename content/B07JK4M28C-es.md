@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JK4M28C-es Puntos Negros Mascarilla Mascarilla Exfoliante Black Mask-...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

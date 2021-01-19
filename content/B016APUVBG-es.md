@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016APUVBG-es POP! Vinilo - Disney: Toy Story Buzz'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

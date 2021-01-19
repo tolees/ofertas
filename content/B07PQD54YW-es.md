@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQD54YW-es Relaxdays Verde-Marrón 80 cm de Altura Palmera Hinchable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

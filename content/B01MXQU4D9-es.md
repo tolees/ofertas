@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXQU4D9-es Tommy Hilfiger K1285esha 6d Zapatillas para Mujer Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.8 EUR
 currency: EUR
 price: 35.8

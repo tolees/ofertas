@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLTR3HK-es VERSACE JEANS COUTURE Pantaloni Sportivi Pantalones de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017XHVGPU-es Levi s Circle Buckle Core Cinturón Mujer Marrón Brown 75...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

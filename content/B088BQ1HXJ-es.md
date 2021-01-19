@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BQ1HXJ-es Sekey Soporte para Hamaca Soporte de Hamaca de Acero para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

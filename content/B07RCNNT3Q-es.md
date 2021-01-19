@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCNNT3Q-es Columbia Fast Trek II forro polar con cremallera completa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.61 EUR
 currency: EUR
 price: 35.61

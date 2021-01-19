@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CWKGZ4G-es Salki - Pistola Ec-360 8500360'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.83 EUR
 currency: EUR
 price: 5.83

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5QR74V-es Tommy Hilfiger Tommy Sequins Flat Sandal Sandalias Punta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

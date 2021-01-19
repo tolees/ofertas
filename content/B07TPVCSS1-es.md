@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPVCSS1-es Superdry International Chino Short Pantalones Cortos Beige...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.24 EUR
 currency: EUR
 price: 25.24

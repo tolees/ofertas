@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VRSLMC-es La Vecina Rubia Funda Smartphone - Plateada y Compatible...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.05 EUR
 currency: EUR
 price: 9.05

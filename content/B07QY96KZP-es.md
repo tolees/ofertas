@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QY96KZP-es 60W Smart Wifi Lámpara de techo Luz de pan Luz LED de Wifi...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.59 EUR
 currency: EUR
 price: 32.59

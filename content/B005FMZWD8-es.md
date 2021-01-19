@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005FMZWD8-es Invicta 1513 I-Force Reloj para Hombre acero inoxidable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

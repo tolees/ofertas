@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BR8TMTD-es Péptidos Colágeno Marino de Peces Salvajes del Atlántico...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

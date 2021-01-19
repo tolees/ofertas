@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7RFVDF-es PUMA STEPFLEEX 2 SL VE V INF Zapatillas Unisex niños Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

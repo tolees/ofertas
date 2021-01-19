@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYBWJGN-es American Tourister Equipaje Infantil Logotipo de Marvel S...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 84.03 EUR
 currency: EUR
 price: 84.03

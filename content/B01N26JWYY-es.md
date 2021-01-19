@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N26JWYY-es Ozone Neon M50 USB Óptico 5000DPI Mano Derecha Blanco -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

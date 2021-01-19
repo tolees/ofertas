@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P2JIHZ4-es Pendrive 2 GB 10 Piezas Memorias USB 2.0 - Portátil 2GB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.66 EUR
 currency: EUR
 price: 36.66

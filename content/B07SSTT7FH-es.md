@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSTT7FH-es Doom'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JNQGN-es Clarks Sheer Flora Botas Chelsea para Mujer Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.02 EUR
 currency: EUR
 price: 30.02

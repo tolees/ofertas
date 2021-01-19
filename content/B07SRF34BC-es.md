@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRF34BC-es Mr. Wonderful WOA09851ES Calendario de Sobremesa 2020...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

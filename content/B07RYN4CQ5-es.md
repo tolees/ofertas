@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYN4CQ5-es New Balance FuelCell Propel m Zapatillas de Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 52.12 EUR
 currency: EUR
 price: 52.12

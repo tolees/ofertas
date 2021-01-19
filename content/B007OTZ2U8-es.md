@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007OTZ2U8-es Sierra Reposado Tequila 70 cl - 700 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.73 EUR
 currency: EUR
 price: 10.73

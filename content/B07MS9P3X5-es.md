@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MS9P3X5-es Kickers Layton Botas Clasicas para Hombre Marrón Marron...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.6 EUR
 currency: EUR
 price: 29.6

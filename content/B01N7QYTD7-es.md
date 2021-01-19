@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7QYTD7-es Kappa - Pagino Pants Color Negro Talla 14 Years'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

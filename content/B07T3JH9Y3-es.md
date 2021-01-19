@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3JH9Y3-es BESTEK Inversor de Corriente 12V a 220V Inversor Onda...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

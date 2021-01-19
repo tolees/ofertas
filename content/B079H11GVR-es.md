@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079H11GVR-es PUMA NRGY Neko Knit Zapatillas de Entrenamiento para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.51 EUR
 currency: EUR
 price: 28.51

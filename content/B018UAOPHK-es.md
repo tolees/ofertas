@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018UAOPHK-es Cometa espantapájaros de calidad profesional'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

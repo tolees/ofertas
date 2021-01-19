@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B24YWSK-es TACKLIFE Carrete para Manguera 20+2m Manguera de Riego...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077CQ8F8P-es Adidas Power III Zapatillas de Deporte para Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

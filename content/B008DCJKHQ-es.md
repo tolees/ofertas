@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008DCJKHQ-es Kaicut PT-0017 - Blister Tijera Escolar surtido'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

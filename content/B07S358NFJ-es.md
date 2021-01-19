@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S358NFJ-es Love MoschinoJc4001pp1aMujerBolsos totesMarfil Avorio...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 132.25 EUR
 currency: EUR
 price: 132.25

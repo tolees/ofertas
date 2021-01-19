@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078B2BWCW-es atFoliX Antichoque Película Protectora para Suunto EON...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

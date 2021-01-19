@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJPQHG5-es PUMA ftblNXT Team Sleeve Espinillera Futbol Unisex-Adult...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.21 EUR
 currency: EUR
 price: 11.21

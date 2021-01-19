@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C53HFSR-es San Ignacio Set de Cuchillos Chuleteros Acero Inoxidable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.52 EUR
 currency: EUR
 price: 14.52

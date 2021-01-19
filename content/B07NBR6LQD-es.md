@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBR6LQD-es ASICS Chaussures Gel Quantum 180 4'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 117.6 EUR
 currency: EUR
 price: 117.6

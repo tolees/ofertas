@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0050I7QLS-es Skechers Diameter Vassell Diameter Vassell - Zapatillas de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.78 EUR
 currency: EUR
 price: 24.78

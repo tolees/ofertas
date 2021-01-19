@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XN3LZ6-es Under Armour Rival Fleece Jogger Pantalones Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.67 EUR
 currency: EUR
 price: 35.67

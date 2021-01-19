@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GDFU56A-es Makita HP457DWE - Taladro Percutor A Bateria 18V Litio-Ion...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 152.5 EUR
 currency: EUR
 price: 152.5

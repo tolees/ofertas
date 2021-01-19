@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J9LPS4S-es Russell Hobbs Retro - Tostadora Vintage 2 Ranuras Cortas y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.29 EUR
 currency: EUR
 price: 46.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DV5A0E2-es Superga 2750-cotu Classic Zapatillas de Estar por casa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

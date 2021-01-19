@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MAQF4EE-es Fujifilm Instax Mini Brillo - Pack de 40 Películas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.3 EUR
 currency: EUR
 price: 28.3

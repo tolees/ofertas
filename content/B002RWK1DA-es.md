@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002RWK1DA-es Pedigree Dentastix de uso diario para higiene oral para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

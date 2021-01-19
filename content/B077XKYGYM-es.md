@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XKYGYM-es LW Cable de tendido electrónico de alta calidad Cable de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 68.79 EUR
 currency: EUR
 price: 68.79

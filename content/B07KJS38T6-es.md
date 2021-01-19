@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJS38T6-es Lenor Unstoppables Spring Perlas Impulsoras De Fragancia -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.57 EUR
 currency: EUR
 price: 15.57

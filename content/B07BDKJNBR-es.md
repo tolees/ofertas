@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDKJNBR-es Experobot EX501 - Robot aspirador silencioso para todo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 114.62 EUR
 currency: EUR
 price: 114.62

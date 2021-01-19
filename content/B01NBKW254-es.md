@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBKW254-es Nacon Revolution Pro Controller para PS4 [Importación...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RKY8YY1-es Nike Revolution 5 GS Zapatillas de Running para Niñas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

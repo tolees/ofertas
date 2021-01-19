@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGWB8TW-es DURAGADGET Cable De Audio Portátil Medion MD61338 HP...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

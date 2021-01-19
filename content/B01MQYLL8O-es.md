@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQYLL8O-es adidas 6Pcap Ltwgt Emb Gorra de Tenis Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

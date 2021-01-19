@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYDHQ1C-es American Tourister Disney Legends Spinner M Maleta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 74.76 EUR
 currency: EUR
 price: 74.76

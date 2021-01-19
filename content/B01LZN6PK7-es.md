@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZN6PK7-es Resident Evil 4 HD'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

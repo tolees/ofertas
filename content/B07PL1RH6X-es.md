@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PL1RH6X-es New Balance Trail Nitrel m Zapatillas de Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.83 EUR
 currency: EUR
 price: 53.83

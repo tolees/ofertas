@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811XXBHT-es 8CM / 15CM FPV Cámara Cable FPC Cable para Hawkeye Firefly...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.17 EUR
 currency: EUR
 price: 1.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002GT7Y0M-es Bosch T-Disc - Pieza de Repuesto para Tassimo T20 Color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.53 EUR
 currency: EUR
 price: 2.53

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7XJ9CW-es Skechers You Zapatillas sin cordones para Mujer Blanco Wbk...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.1 EUR
 currency: EUR
 price: 35.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q15PFYF-es L Oreal Paris Color Queen Mono Sombra de Ojos Alta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

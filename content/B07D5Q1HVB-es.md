@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5Q1HVB-es PUMA Active WV TR Pantalones Cortos Hombre Azul Peacoat M'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

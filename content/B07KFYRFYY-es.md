@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYRFYY-es PUMA Ralph Sampson LO Zapatillas Deportivas Unisex-Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.51 EUR
 currency: EUR
 price: 30.51

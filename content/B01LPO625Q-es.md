@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LPO625Q-es Twins Sarah Polaina Bebé-Niñas Multicolor Mehrfarbig 50'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

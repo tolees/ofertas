@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TB8TQ3-es Oihxse Case Transparente Suave TPU Compatible con Huawei...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

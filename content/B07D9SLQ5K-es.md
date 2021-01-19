@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9SLQ5K-es Levi s Graphic Po Hoodie-B Capucha Gris Hm Pop Oscuro Mid...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

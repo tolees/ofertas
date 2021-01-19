@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C8RYBPM-es Police Reloj Multiesfera para Hombre de Cuarzo con Correa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 89.28 EUR
 currency: EUR
 price: 89.28

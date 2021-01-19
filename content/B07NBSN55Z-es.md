@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBSN55Z-es Famosa- Pinypon Muñeca coleccionable Emoji Multicolor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

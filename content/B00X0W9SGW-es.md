@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X0W9SGW-es Tommy Hilfiger Eton Trifold Catera para Hombre Black 2...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.85 EUR
 currency: EUR
 price: 49.85

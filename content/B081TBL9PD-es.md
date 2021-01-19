@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TBL9PD-es Vaporizador Facial Profesional Sauna Facial...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

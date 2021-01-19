@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PIF4FLW-es Schwarzkopf Professional BC Moisture Kick Shampoo Champú -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

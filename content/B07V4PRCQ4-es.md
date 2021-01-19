@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4PRCQ4-es WinArrow Cabezal Ducha Filtro Vitamina C Iones KDF55...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.27 EUR
 currency: EUR
 price: 32.27

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ARVMTKA-es KitchenCraft Master Class Escurreplatos Horizontal pequeño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.73 EUR
 currency: EUR
 price: 20.73

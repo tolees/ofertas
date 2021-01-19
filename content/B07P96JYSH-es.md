@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P96JYSH-es Pop! Figura de Vinilo: Películas: The Nun - Demonic Nun'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.77 EUR
 currency: EUR
 price: 10.77

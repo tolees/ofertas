@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4LXYKS-es 60 x 85cm Almohadilla Térmica Eléctrica para la Espalda...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

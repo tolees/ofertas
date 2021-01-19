@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBDRLKZ-es Cartera Pepe Jeans Fair Vertical con Cierre de Clic Negra'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

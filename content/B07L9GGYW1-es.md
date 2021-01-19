@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9GGYW1-es Under Armour Whisperlight Tie Back Tank Tanque Mujer Negro MD'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.27 EUR
 currency: EUR
 price: 13.27

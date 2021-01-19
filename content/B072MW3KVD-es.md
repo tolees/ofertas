@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MW3KVD-es Apple iMac 27 pulgadas pantalla Retina 5k procesador Intel...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1499.99 EUR
 currency: EUR
 price: 1499.99

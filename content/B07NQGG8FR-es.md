@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQGG8FR-es New Balance 574v2 Core Zapatillas para Mujer Azul Navy 37 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 61.81 EUR
 currency: EUR
 price: 61.81

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DCRC3J5-es JOYUE 40 Pcs Bolsas de Fiesta Dinosaurios Bolsas de Papel...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

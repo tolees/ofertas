@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XH2NPTW-es Helly Hansen HH LIFA Merino Crew LS Baselayer Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

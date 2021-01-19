@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OG0ORR2-es JVC HA-SR185-W-E - Auriculares de diadema con controlador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

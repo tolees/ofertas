@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSC9QSG-es classic Family Game Mini Consola HDMI - con 621 Videojuego...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 50.9 EUR
 currency: EUR
 price: 50.9

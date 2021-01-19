@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015SWWZ52-es S&R Alicate corte diagonal electricista 180mm VDE-series...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

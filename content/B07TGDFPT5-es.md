@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TGDFPT5-es Corrector de Postura Espalda y Hombros Para Hombre y Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

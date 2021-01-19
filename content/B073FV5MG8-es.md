@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073FV5MG8-es Tamron T81065 - Objetivo para cámara Canon SP 24-70mm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1011.95 EUR
 currency: EUR
 price: 1011.95

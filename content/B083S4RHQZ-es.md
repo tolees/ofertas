@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083S4RHQZ-es Reproductor MP3 Wodgreat MP4 Player 8GB Reproductor de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGXNSXD-es LG CineBeam HF65LSR - Proyector TV de Tiro Corto hasta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 807.99 EUR
 currency: EUR
 price: 807.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XVQLN2W-es Esprit 119EE1G007 Torera Negro Black 001 M para Mujer'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

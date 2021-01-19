@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R0AEWRU-es Jump Suede & Nubuck Brush 338734'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.31 EUR
 currency: EUR
 price: 3.31

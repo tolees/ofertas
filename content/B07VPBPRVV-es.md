@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPBPRVV-es Pinko Love Classic Simply 1 Cl Pelle Bolsa de mensajero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 169.38 EUR
 currency: EUR
 price: 169.38

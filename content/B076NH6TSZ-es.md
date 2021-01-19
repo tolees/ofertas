@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076NH6TSZ-es Fellowes - Platinum Series - Soporte De Monitor Individual...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 95.1 EUR
 currency: EUR
 price: 95.1

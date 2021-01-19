@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079BW9Q3S-es perfk Manija de Maleta con Asa de 22.7cm Suministros de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.74 EUR
 currency: EUR
 price: 11.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X4LEVMA-es Adidas 3AA2297 Calcetines Unisex Blanco 43 - 46 EU Paquete...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QM9N67C-es Kärcher T 350T-Racer Surface Cleaner 2.643-252.0'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49 EUR
 currency: EUR
 price: 49

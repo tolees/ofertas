@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CUGXWLK-es Remington MB4130 Máquinas de Afeitar Negro y Gris 4.1 cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18 EUR
 currency: EUR
 price: 18

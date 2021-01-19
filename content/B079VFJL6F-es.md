@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VFJL6F-es Juego de 2 Almohadas Ajustables 50 x 75 cm Sin Productos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

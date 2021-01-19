@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHNT7JT-es ARCTIC Alpine AM4 Series - Procesador Enfriador Ventilador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

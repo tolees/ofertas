@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088F9KJ4M-es AOLUXLM Maquina de Burbujas Juguete para Niños Soplador de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

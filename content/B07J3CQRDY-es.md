@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J3CQRDY-es Under Armour Playoff 2.0 Polo Hombre Azul Academy/Optic...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.36 EUR
 currency: EUR
 price: 12.36

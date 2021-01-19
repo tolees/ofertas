@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0019QLTMW-es Philips HD4646/20 - Calentador de agua Negro/Plata'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

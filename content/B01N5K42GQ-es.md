@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5K42GQ-es Fred Perry M6000 Polo para Hombre'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.57 EUR
 currency: EUR
 price: 46.57

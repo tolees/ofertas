@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J3CQZN7-es Under Armour Play Up Pantalón Corto Mujer Rosa MD'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

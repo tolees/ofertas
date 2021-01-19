@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BK2VGMH-es Riñonera Running Riñonera Deportiva Mujer Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

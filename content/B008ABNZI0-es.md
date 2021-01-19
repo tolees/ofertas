@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008ABNZI0-es StarTech.com USB110EXT2 - Extensor de 1 Puerto USB por...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 80.04 EUR
 currency: EUR
 price: 80.04

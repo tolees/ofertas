@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BNKSKP5-es LEDKIA LIGHTING Lámpara de Techo Orientable Ates 4 Focos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

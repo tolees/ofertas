@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0854RJ6KF-es Beurer EM-26 Electroestimulador para hombro TENS alivia...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

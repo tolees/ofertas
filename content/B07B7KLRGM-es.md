@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B7KLRGM-es Huarisi Brazilian Deep Wave With Frontal Free Part 3...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 194.99 EUR
 currency: EUR
 price: 194.99

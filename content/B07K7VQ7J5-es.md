@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7VQ7J5-es Britax Römer Kidfix² S Blue Marble'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 196.12 EUR
 currency: EUR
 price: 196.12

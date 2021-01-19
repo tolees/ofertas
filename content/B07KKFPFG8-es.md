@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKFPFG8-es Lioncast LX60 USB Auriculares para Juegos para PC PS4 Xbox...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

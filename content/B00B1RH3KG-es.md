@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B1RH3KG-es Bosch Professional GBA 12V 2.0Ah - Batería de litio 1...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

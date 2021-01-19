@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N35SYF7-es Mizuno Wave Rider 23 Zapatillas de Running para Mujer Rosa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 66.79 EUR
 currency: EUR
 price: 66.79

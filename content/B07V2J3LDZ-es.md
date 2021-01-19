@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2J3LDZ-es Tommy Hilfiger High Cleated Flag Sneaker Zapatillas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.23 EUR
 currency: EUR
 price: 35.23

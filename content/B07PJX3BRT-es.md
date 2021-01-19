@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJX3BRT-es New Balance Fresh Foam Trail Roav Zapatillas de Running...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.46 EUR
 currency: EUR
 price: 38.46

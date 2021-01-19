@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPXW6F-es Geox D Vega A Zapatillas para Mujer Blanco Off White and...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 83.93 EUR
 currency: EUR
 price: 83.93

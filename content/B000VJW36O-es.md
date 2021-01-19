@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VJW36O-es Ferplast 66005017 - Estante para Fondo de Acuario 52 x 28...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 57.53 EUR
 currency: EUR
 price: 57.53

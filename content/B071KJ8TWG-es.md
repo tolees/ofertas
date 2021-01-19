@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KJ8TWG-es West Ham United FC Gorra básica oficial Talla Única/Vino'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JJAT3I6-es Ballon de hand Kid Hummel Soft'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

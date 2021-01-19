@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4HZ8KB-es Tommy Hilfiger Tommy Tipped Slim Polo Blanco White Large...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C7YZSRR-es Ariete 4615 - Mini freidora saludable Airy sin aceite...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.1 EUR
 currency: EUR
 price: 39.1

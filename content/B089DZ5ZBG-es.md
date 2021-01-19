@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DZ5ZBG-es Niluoya Bandas Elásticas Fitness 4-Pack 1.5M+2M Cintas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

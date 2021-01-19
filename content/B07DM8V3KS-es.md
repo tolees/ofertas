@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DM8V3KS-es Philips Avent SCF044/27-2 - Tetinas natural flujo rápido...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

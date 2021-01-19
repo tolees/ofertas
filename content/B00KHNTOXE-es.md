@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KHNTOXE-es L-Arginina PURA 99.7% Vegavero® Sport | TESTADO EN...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

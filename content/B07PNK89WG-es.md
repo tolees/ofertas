@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNK89WG-es New Balance 373 Zapatillas para Mujer Gris Grey Grey 43.5 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.08 EUR
 currency: EUR
 price: 33.08

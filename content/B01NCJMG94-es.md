@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCJMG94-es Columbia Childrens Firecamp™ Sledder II WP Zapatillas de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.17 EUR
 currency: EUR
 price: 28.17

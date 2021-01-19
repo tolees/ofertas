@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XMJCWC-es DIM Generous Invisible Sujetador Blanco Nacre 100B para Mujer'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

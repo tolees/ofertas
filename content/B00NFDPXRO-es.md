@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NFDPXRO-es Zwilling Quadro Set batería de Cocina 5 Piezas Acero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

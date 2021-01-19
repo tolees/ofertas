@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9SRW57-es PUMA Cilia Zapatillas para Mujer Rosa Black/Pink Rosewater...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.24 EUR
 currency: EUR
 price: 27.24

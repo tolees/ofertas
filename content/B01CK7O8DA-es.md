@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CK7O8DA-es Energy Sistem Music Box B2 Bluetooth Bluetooth Entrada de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

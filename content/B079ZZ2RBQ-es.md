@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZZ2RBQ-es VAIRO Short Columns XXL'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

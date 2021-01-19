@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQ43NVZ-es Lee Scarlett Jeans Azul Rinse 36 32W / 33L para Mujer'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 50.37 EUR
 currency: EUR
 price: 50.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006FXS5ZS-es Philips Bombilla de bajo consumo en forma de espiral de 8...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.83 EUR
 currency: EUR
 price: 12.83

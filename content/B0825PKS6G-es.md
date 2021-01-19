@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825PKS6G-es Roxy Favorite Song - Mono Corto con Tiras para Mujer Mono...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.94 EUR
 currency: EUR
 price: 32.94

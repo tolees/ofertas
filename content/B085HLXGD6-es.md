@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HLXGD6-es Vivir sin permiso - Serie completa [DVD]'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

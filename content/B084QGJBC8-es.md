@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084QGJBC8-es Tooth Instant Perfect Smile Flex Blanqueamiento de dientes...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.6 EUR
 currency: EUR
 price: 1.6

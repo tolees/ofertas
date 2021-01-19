@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WWCM1Q-es Silla de paseo Globetrotter de Maclaren: ligera compacta y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 105.11 EUR
 currency: EUR
 price: 105.11

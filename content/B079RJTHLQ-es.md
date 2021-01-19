@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RJTHLQ-es Philips BT3226/14 Barbero Recortadora de Barba y Pelo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

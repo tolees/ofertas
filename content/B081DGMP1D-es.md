@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DGMP1D-es FNBK Funda para Samsung Galaxy S8 Funda de Piel con Stand...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

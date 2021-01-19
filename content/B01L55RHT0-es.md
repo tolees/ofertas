@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L55RHT0-es Beurer MG 520 To Go - Almohada de masaje Shiatsu'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

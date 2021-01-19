@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5CB6HY-es Belkin Thunderbolt 3 - Minibase Dock con Cable Integrado...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

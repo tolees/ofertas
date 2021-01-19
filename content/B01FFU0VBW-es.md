@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFU0VBW-es True Instinct Original Pienso para Perros Medium Adult con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.54 EUR
 currency: EUR
 price: 8.54

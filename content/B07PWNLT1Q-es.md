@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWNLT1Q-es Under Armour UA GS Charged Rogue 2 Zapatillas para Correr...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.5 EUR
 currency: EUR
 price: 28.5

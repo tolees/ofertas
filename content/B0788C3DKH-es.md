@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788C3DKH-es Tommy Hilfiger X Sujetador Estilo Bralette Gris Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

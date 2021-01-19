@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGY6MFF-es UMI. Essentials Marco para Fotos y Diplomas De pie o para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

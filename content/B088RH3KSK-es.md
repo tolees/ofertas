@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088RH3KSK-es Alfombrilla De Planchar Portátil Manta De Planchar Lana...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

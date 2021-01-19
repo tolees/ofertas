@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZGCNMF-es Molyflower 18L Nordic Garbage Bag Storage Box Baño Estante...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.23 EUR
 currency: EUR
 price: 4.23

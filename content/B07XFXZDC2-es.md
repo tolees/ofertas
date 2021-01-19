@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFXZDC2-es ERIK - Agenda 2020 semana vista Harry Potter A5'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

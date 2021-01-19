@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RKL6PK9-es SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 1 TB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 344.99 EUR
 currency: EUR
 price: 344.99

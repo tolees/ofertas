@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFHPRGY-es Bébé Confort TITÁN Nomad Black Silla de auto grupo 1/2/3...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

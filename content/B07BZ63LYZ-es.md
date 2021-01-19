@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZ63LYZ-es Sotech - Juego de Herramientas de Pinzas de Freno Kit de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

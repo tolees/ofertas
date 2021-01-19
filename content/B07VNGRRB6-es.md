@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNGRRB6-es Nike Court Borough Low 2 Niño para Niños Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

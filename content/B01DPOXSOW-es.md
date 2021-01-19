@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DPOXSOW-es ION Audio Max LP - Tocadiscos de vinilo de 3 Velocidades...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

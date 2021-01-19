@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085V6FX9M-es Syoss Oleo Intense - Coloración Permanente Tono 5-92 Rojo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

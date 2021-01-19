@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BVRH3VD-es ZARLLE CláSico Mujer Damas Chica Unisex Reloj De Pulsera...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

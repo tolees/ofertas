@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HZX3VJ-es Caja del teléfono Triángulo Cubierta Resistente a roturas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FDI6OKS-es motorola TLKR T92 H2O PMR - Walkie-Talkie IP67 Resistente...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

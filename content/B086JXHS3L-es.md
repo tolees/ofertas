@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086JXHS3L-es iMiMi Kraft Arts rollo de papel para pinturas 1 pieza de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

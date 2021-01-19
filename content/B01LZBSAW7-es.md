@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZBSAW7-es hummel Stadil RMX High Sneaker Hombres Zapatillas Casual -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.79 EUR
 currency: EUR
 price: 79.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFX5NCG-es PUMA ESS+ Drapy Pants Chándal Mujer Black S'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.72 EUR
 currency: EUR
 price: 26.72

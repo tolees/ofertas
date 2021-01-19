@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TFDDVV4-es Tristar KA-5215 Calefactor eléctrico mica – 3 ajustes –...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.37 EUR
 currency: EUR
 price: 23.37

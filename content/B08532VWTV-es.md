@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08532VWTV-es Mesa de aleación de aluminio de 35 mm Abrazadera de banco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

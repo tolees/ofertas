@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DMH7GC-es Colmanda Cerveza Abrebotellas 4 Piezas Forma de Pistola...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

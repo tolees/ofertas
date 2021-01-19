@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ENSZBWG-es Panasonic EW1411H845 - Irrigador Bucal Eléctrico Portátil...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

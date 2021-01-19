@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T6ZMB89-es HAISSKY Riñonera de Correr con 2 x 175 ml Botellas de Agua...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

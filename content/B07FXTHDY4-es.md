@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXTHDY4-es Adidas Nemeziz Tango 18.4 In Zapatillas de fútbol Sala...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.01 EUR
 currency: EUR
 price: 30.01

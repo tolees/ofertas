@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719GM9NW-es Index CKBB48290 Bridas de Nylon Blanco 4 8 x 290 mm Set de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11 EUR
 currency: EUR
 price: 11

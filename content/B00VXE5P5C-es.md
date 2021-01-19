@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VXE5P5C-es Moma Bikes Patinete Electrico Plegable Infantil Scooter...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 119.98 EUR
 currency: EUR
 price: 119.98

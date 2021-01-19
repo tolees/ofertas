@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004TQD7YW-es Beurer LB12 Mini humidificador ultrasónico óptimo para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.89 EUR
 currency: EUR
 price: 27.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U95QU9Q-es Carita Haute Beaute Corps Sérum Expert Réducteur Contours...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

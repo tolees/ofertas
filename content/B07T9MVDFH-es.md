@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9MVDFH-es Calcetines de Bambú 3 Pares Negro EU 43-47'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

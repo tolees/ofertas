@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB3LMB8-es Fallout - Pop Sentry BOT 6"'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

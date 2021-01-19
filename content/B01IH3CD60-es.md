@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IH3CD60-es Nike Court Borough Mid Zapatillas de Baloncesto para Niños...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

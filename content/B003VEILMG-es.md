@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003VEILMG-es Bosch Professional Bosch GSR 12V-15 Professional-...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.75 EUR
 currency: EUR
 price: 64.75

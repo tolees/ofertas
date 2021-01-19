@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0886KFKCY-es Enchufe de pared inteligente 15A con 2 USB Wifi Si Smart...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.11 EUR
 currency: EUR
 price: 17.11

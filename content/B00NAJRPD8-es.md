@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NAJRPD8-es Compex Fit 1.0 Electroestimulador Unisex Azul'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PHEAV80-es caseable - Funda para Kindle y Kindle Paperwhite diseño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

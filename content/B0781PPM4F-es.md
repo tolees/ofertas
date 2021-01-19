@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781PPM4F-es Portarrollos de MEZOOM de 304 acero inoxidable de 3m...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

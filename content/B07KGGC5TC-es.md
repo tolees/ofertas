@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGGC5TC-es Buff Aralia Cinta de Cabeza Coolnet Mujer Multi Talla única'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

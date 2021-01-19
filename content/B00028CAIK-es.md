@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00028CAIK-es StarTech SCREW6-32 - Tornillos de fijación para PCs pack...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.38 EUR
 currency: EUR
 price: 8.38

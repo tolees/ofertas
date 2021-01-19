@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6DBJ66-es Reloj para Hombre Impermeable Deportivo Reloj cronógrafo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.28 EUR
 currency: EUR
 price: 24.28

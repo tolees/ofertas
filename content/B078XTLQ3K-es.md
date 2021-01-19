@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XTLQ3K-es Kitchen Emperor Cuchillo de Cocina Cuchillos Damasco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.89 EUR
 currency: EUR
 price: 79.89

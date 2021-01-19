@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHM5R4K-es Ventilador Personal Portáti Ventilador de Cuello Colgante...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

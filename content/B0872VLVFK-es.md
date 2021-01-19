@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872VLVFK-es PopHMN Kit de sushi Kit de fabricación de sushi 5PCS Kit...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYC2A66-es Ritchey WCS Puños Manillar Unisex Adulto Naranja Talla Única'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086Z2MMN9-es 1pcs electrodomésticos de Cocina de Acero Inoxidable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

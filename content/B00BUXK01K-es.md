@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BUXK01K-es POP! Vinilo - DC: Dark Knight Joker'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

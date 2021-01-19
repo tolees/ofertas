@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KVMT6M7-es Xiaomi Redmi Note 8t Tim Blue 6.3" 4gb/64gb Dual Sim'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

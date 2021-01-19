@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P973FRY-es World Rally Championship 8 WRC 8 Versión española'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

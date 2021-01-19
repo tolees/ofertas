@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0722TTFD7-es Lebze Muselina Manta Bebé -"Diente de Plumas" Bambú...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

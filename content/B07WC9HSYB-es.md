@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC9HSYB-es TQmate 6Pack Protector de Pantalla Compatible con Xiaomi...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

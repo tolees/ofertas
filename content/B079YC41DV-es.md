@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YC41DV-es Funko Pop!- Bad Dinosaur Figura de Vinilo Multicolor 30984'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003HUSM8M-es Tigi 57432 - Champú 300 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

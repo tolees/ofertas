@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBP31R5-es Under Armour Men s Remix 2.0 Laufschuhe Zapatillas de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 52.97 EUR
 currency: EUR
 price: 52.97

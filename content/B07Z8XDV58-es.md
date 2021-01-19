@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z8XDV58-es 2019 Nuevo Auriculares Bluetooth inalámbricos BT5.0 Touch...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59 EUR
 currency: EUR
 price: 59

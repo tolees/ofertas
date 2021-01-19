@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HVWJDP-es Withings Steel Reloj Unisex Adulto Negro/Silver 36 mm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

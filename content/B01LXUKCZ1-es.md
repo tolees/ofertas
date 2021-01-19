@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXUKCZ1-es Mercurio Distribuciones- Juego de Habilidad con Tema...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.56 EUR
 currency: EUR
 price: 13.56

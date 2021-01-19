@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H051CYU-es Forticoll Colágeno Piel y Cabello-Complemento alimenticio...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

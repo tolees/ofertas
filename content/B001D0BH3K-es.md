@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001D0BH3K-es Sebastian Tratamiento Capilar - 150 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

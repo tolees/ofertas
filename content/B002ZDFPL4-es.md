@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002ZDFPL4-es HP AU656AA - Cable antirrobo Negro Metálico 250g HP...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.62 EUR
 currency: EUR
 price: 34.62

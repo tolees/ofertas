@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QC5TL1W-es La Toja Selection - Gel de Baño Esencia de Madera de Cedro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

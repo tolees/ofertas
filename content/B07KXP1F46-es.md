@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXP1F46-es Mini vaporizador facial de la niebla del aerosol nano del...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

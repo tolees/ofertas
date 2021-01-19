@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGGJ7VY-es JBL Xtreme 2 - Altavoz Bluetooth portátil resistente al...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

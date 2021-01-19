@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GRK5RP7-es Khanomak Slip Llano de la Alta Subida de la Mujer sobre el...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

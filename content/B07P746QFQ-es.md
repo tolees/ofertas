@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P746QFQ-es Munich G-3 Jeans 28 Zapatillas de Deporte para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

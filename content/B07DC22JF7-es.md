@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC22JF7-es PUMA Cali-0 Zapatillas deportivas de piel Unisex adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.33 EUR
 currency: EUR
 price: 42.33

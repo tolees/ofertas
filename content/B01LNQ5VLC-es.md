@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LNQ5VLC-es L Oréal Paris Elvive Total Repair 5 Champú Reconstituyente...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

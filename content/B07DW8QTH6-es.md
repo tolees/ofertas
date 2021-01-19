@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DW8QTH6-es Salewa MS Wildfire GTX Zapatillas de Senderismo para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

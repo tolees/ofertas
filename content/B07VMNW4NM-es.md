@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMNW4NM-es Calvin Klein Medium Drawstring Bañador Verde Dark Green...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

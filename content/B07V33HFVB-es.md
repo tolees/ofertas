@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V33HFVB-es BOSS Trunk 3p Co/El Bóxer Multicolor Open Miscellaneous...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

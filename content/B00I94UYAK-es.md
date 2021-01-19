@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I94UYAK-es Trio Lighting 603900302 Lámpara de techo Stoffschirm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 61.87 EUR
 currency: EUR
 price: 61.87

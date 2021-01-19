@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2CV72M-es find. Edwin Mocasines Hombres Azul Blue 44 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

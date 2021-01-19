@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXYBGT2-es Dragon Ball Z: Kakarot'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9
@@ -26,9 +26,9 @@ Ahora mismo tienes [Dragon Ball Z: Kakarot](https://www.amazon.es/dp/B07QXYBGT2/
 
 🔎:
 
-- 80 gramos
-- Muy conveniente
 - Fácil de usar
 - 17.02 x 13.46 x 0.25 cm
+- 80 gramos
+- Muy conveniente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QXYBGT2/?tag=tolees-21)

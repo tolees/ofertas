@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RG6CY4L-es Tea Tree Essential Oil 100% puro y natural grado...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRMSYPD-es Levi s Plus Size Pl 501 Original Pantalones Cortos Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.84 EUR
 currency: EUR
 price: 21.84

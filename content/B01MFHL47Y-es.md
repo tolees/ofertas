@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MFHL47Y-es Under NY Sky Delantal Verde - Sarga Profesional - Correas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

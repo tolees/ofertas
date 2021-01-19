@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6LZVMW-es Tommy Hilfiger Tommy Fun Square Bufanda Multi 0hi Talla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.51 EUR
 currency: EUR
 price: 22.51

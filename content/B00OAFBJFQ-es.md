@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OAFBJFQ-es STANLEY XTHT0-33501 - Flexómetro AutoLock 8 metros x 32mm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.84 EUR
 currency: EUR
 price: 23.84

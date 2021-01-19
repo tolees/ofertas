@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2ZLRDR-es adidas CLAS BP Bos Mochilla de Deporte Unisex Adulto Real...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

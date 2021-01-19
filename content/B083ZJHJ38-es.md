@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZJHJ38-es ghd curve soft curl - Tenacilla profesional 32mm para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

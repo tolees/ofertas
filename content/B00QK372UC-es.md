@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QK372UC-es AUKEY Bluetooth Receptor portátil inalámbrico Bluetooth...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.31 EUR
 currency: EUR
 price: 15.31

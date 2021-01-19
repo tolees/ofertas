@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0798PVWMN-es 2018 Wedding Planner Book for Wedding Schedule Organize...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

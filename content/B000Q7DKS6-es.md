@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Q7DKS6-es Beurer MG70 - Masajeador 22 W presión por golpeteo para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

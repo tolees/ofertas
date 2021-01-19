@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J3KHQ9G-es Moleskine - Agenda Diaria de 12 Meses 2020 Tamaño Grande...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

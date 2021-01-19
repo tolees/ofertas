@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HA4YCM6-es Rubie s 620019-L Avengers - Disfraz Capitán América para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRYTQGK-es HP Color Laser 150a - Impresora láser 18 ppm/4 ppm Bandeja...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 121.9 EUR
 currency: EUR
 price: 121.9

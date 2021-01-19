@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MOK72N2-es Microplane 48709 Cortador en Espiral Verde 7.62x5.72x13.34 cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

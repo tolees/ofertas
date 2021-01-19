@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002DGTH4O-es Zwilling Twin Choice - Sartén acero inoxidable 20 cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.06 EUR
 currency: EUR
 price: 51.06

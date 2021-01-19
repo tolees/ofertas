@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSQDLSK-es little live pets 28617 Light Up Songbirds S9-Estilos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

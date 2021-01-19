@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSJ81R2-es Kipling Firefly Up Mochilas para Mujer Dorado Cloud Metal...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.61 EUR
 currency: EUR
 price: 64.61

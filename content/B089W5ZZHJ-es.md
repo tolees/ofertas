@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089W5ZZHJ-es Aotlet Bañador para Hombre Pantalones Cortos de los...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082P2DWJP-es RenFox Aire Acondicionado Portátil Air Cooler...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

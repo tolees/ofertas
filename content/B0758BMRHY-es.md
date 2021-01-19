@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758BMRHY-es EXERZ Juego de 5 Lienzos preestirados/Paquete de 5 Lienzos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

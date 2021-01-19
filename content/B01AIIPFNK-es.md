@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AIIPFNK-es UGG W Bailey Bow II Botas para Mujer Gris Grey 41 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 158.09 EUR
 currency: EUR
 price: 158.09

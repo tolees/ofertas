@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071X9FDFJ-es Palette Intense Cream Coloration Intensive Coloración del...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

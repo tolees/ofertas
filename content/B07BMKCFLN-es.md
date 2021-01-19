@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMKCFLN-es Arcos 233554 Cuchillo Santoku Riviera Rose Metal Rosa'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.75 EUR
 currency: EUR
 price: 27.75

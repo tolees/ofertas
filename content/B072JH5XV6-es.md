@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JH5XV6-es Under Armour UA Speedpocket Run Crop Leggings Capri Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.29 EUR
 currency: EUR
 price: 34.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFYLQ1C-es La Toja Selection - Gel esencia de Moringa y aceite de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

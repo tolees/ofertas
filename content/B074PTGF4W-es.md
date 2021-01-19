@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PTGF4W-es Saucony Jazz O Vintage Zapatillas de Cross para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.07 EUR
 currency: EUR
 price: 51.07

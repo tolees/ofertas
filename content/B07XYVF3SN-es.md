@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYVF3SN-es Lavibelle - Zapatillas de Deporte Unisex Ligeras de Malla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.06 EUR
 currency: EUR
 price: 34.06

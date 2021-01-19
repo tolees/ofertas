@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJGZZJC-es Adidas Deerupt Runner I Zapatillas de Deporte Unisex niño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.2 EUR
 currency: EUR
 price: 35.2

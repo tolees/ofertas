@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFSSUF8-es Nosaprotect Spray triple acción Melocotón. Protección...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

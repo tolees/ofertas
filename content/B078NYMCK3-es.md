@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NYMCK3-es HongYH 2-Pack Ropa para Perros Perros Gatos Onesie Pijamas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

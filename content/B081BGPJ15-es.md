@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BGPJ15-es Asics Gel Quantum 180 5 Sr Zapatillas de Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.79 EUR
 currency: EUR
 price: 45.79

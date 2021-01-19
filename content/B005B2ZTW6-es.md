@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005B2ZTW6-es Caterpillar Haycox Zapatillas para Hombre Marrón Beaned 0...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.96 EUR
 currency: EUR
 price: 34.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00007JQQP-es Classic Color Pack Crayons 96 Colors/Box'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.35 EUR
 currency: EUR
 price: 10.35

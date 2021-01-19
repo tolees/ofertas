@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VTFPB7-es Vintage Rectangle Mantel de lino de algodón Yanyi Brand...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

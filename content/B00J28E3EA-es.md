@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J28E3EA-es Joma Combi Camiseta Manga Corta Hombre Rojo L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771WMQ2M-es Art 1351 Memphis Pedrera Zapatillas para Mujer Naranja...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.33 EUR
 currency: EUR
 price: 39.33

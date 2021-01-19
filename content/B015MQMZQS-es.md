@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015MQMZQS-es Moulinex Accesorios XF383110 - Accesorio cortador de 3...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 65.89 EUR
 currency: EUR
 price: 65.89

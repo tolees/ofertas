@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EXUYNT2-es SUPER EGO SEH003300 Cocina cartucho gas portátil Gris...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

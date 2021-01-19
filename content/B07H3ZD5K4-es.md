@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3ZD5K4-es 10XDIEZ Relleno COJIN 2 Unidades - Relleno Suave y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

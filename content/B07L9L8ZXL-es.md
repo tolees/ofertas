@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9L8ZXL-es Lacoste Sideline 319 1 Cfa Zapatillas para Mujer Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.53 EUR
 currency: EUR
 price: 31.53

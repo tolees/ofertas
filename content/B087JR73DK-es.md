@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JR73DK-es CLTYQ Tire de la Cuerda de Rodillos Bandas de Resistencia...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.63 EUR
 currency: EUR
 price: 9.63

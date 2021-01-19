@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFBJRBK-es Funko Pop! Animated Spider-Man - Keychain Miles Morales'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

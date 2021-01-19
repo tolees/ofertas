@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XR9Q6NV-es Devir FanHunter Urban Warfare Juego de Mesa Miscelanea BGFHUW'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.8 EUR
 currency: EUR
 price: 36.8
@@ -26,10 +26,10 @@ Está [Devir FanHunter Urban Warfare  Juego de Mesa  Miscelanea  BGFHUW ](https:
 
 ℹ️:
 
-- Número de jugadores: 2
-- Duración aproximada de la partida: 45 minutos
-- Juego adecuado para pasar el tiempo libre
-- Edad recomendada: 14 años y más
 - Tipo de producto: juego de mesa
+- Juego adecuado para pasar el tiempo libre
+- Número de jugadores: 2
+- Edad recomendada: 14 años y más
+- Duración aproximada de la partida: 45 minutos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XR9Q6NV/?tag=tolees-21)

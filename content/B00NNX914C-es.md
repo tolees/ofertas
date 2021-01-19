@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NNX914C-es Blend Jeans - Noos Cirrus - Parte de arriba para hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.13 EUR
 currency: EUR
 price: 28.13

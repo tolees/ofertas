@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KCCRLY-es LAYJOY Funda Xiaomi Redmi 8A Ligera Carcasa Silicona Suave...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

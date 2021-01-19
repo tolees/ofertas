@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017DB2Q8C-es L Oréal Paris Infalible Gel Laca de Uñas Tono 042'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

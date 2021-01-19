@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q7WMCS8-es Columbia Bugaboot Plus III Omni-Heat Botas Altas de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.48 EUR
 currency: EUR
 price: 51.48

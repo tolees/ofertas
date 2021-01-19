@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075HBLB1X-es Relojes deportivos digitales para niñas Yesure. Reloj...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

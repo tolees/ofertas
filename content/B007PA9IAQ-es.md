@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007PA9IAQ-es Elli Pendientes Círculo de damas Geo Trend básico en plata...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

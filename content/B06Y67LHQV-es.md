@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y67LHQV-es Hosaire Funda para Disco Duro Externo 2.5" para WD Western...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.4 EUR
 currency: EUR
 price: 2.4

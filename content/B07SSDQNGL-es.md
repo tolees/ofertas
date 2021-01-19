@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSDQNGL-es Eristoff Vodka Pack 3 x 1000 ml - Total: 3L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.93 EUR
 currency: EUR
 price: 17.93

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KGDX8AU-es Wc Net Turbo Desatascador - 500 ml Multicolor'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

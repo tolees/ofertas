@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZTCX4K-es Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 199.95 EUR
 currency: EUR
 price: 199.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SNM8HMU-es Samsung BT-EPLN915UB - Cargador de coche con Micro USB 2A...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

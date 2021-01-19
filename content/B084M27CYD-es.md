@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084M27CYD-es 4 dígitos portátil Conveniente plástico + Metal Contador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

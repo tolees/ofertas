@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X04EJVO-es BSN Nutrition Syntha 6 Edge Whey Protein Isolate Proteinas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

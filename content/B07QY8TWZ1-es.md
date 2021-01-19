@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QY8TWZ1-es Marca Amazon - IRIS & LILLY Asw-018 - Pijama de dos piezas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

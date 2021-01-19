@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VNSCHO-es Faber-Castell Castell 9000 Graphite Pencil - HB - Lápiz...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

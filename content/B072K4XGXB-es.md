@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072K4XGXB-es Decyam Comedero de Perros para ralentizar la Comida...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

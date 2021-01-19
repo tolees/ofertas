@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZY8STF-es Skechers Ultra Flex 2.0-Kelmer Zapatillas para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.19 EUR
 currency: EUR
 price: 33.19

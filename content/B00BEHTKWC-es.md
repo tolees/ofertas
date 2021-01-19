@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BEHTKWC-es Sonos Playbar barra de sonido HiFi - sonido envolvente...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 598.0 EUR
 currency: EUR
 price: 598.0

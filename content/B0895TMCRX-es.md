@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895TMCRX-es FSXMPL Pintura por NúMeros NiñOs para Adultos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

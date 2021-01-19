@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TGWW1K4-es Finocam 623531020 Agenda Tamaño Único Multicolor'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

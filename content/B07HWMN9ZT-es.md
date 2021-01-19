@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HWMN9ZT-es Apple iPhone XS Max de 512GB - Plata'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1089.0 EUR
 currency: EUR
 price: 1089.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813KG3DF-es SHUIBIAN Kits de pintura diamante 5D cuadro diamantes 5d...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779GBYSC-es adidas Ask SPRT Lst M Long Sleeved T-Shirt Hombre Dark...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQS1N6N-es Clarks Un Abode Strap Mocasines para Hombre Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55 EUR
 currency: EUR
 price: 55

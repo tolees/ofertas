@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY2KC37-es Vans Ward Canvas Zapatillas Unisex Niños Rosa Canvas Sepia...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.67 EUR
 currency: EUR
 price: 22.67

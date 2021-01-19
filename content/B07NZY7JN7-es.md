@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZY7JN7-es Skechers Men s Metco-Parken Trainers Gris Gray Black Mesh...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.32 EUR
 currency: EUR
 price: 42.32

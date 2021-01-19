@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NNNK1Z-es Viaje al Aire Libre Carga USB Hombres Mujeres Mochila...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

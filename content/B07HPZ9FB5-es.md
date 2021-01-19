@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPZ9FB5-es Neutrogena Radiance Boost Mascarilla Iluminadora - 4...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

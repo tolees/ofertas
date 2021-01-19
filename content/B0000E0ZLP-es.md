@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000E0ZLP-es Zwilling TWIN POLLUX - Juego 3 piezas puntilla carne y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

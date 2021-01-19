@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005VS6DRK-es Converse Chuck Taylor All Star Hi Top Zapatillas Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.8 EUR
 currency: EUR
 price: 51.8

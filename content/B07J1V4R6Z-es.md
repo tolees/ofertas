@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1V4R6Z-es Petusco - Naomi Pistacho Piel de vacuno tipo grano y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 120.0 EUR
 currency: EUR
 price: 120.0

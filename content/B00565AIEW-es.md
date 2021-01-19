@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00565AIEW-es Apli 2412 - Etiquetas 100 hojas'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.29 EUR
 currency: EUR
 price: 16.29

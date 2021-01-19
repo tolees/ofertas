@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079HSGZVW-es Bestron Refrigerador/Purificador móvil con Mando a...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.55 EUR
 currency: EUR
 price: 34.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079LBCV4V-es Gifts Treat Turbante de Secado de Pelo Toalla de Secado de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

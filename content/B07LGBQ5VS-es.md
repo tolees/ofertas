@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGBQ5VS-es Nike Wmns Legend React 2 Zapatillas de Running para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

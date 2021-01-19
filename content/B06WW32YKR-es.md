@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WW32YKR-es Balvi Felpudo Van Color marrón Goma/Nylon 47 x 70 cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

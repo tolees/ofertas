@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWYK966-es Asics Jolt 2 GS Zapatillas de Running Unisex Niños Gris...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GRF6HLM-es Bourjois Contour Clubbing; Delineador de Ojos. Tono 61...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

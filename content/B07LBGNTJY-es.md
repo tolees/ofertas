@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBGNTJY-es Value Pack Recién Nacido Bebé LANSKIRT 11PCS Bebé Niña...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

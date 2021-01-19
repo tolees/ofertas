@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771RV2MX-es Funko Pop!- Games: Marvel Contest of Champions Venompool...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

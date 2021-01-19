@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZVW9QR-es Moulinex Principio LS160111 - Tostadora de una ranura...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

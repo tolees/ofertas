@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GN7QCYW-es LEE DAREN - Pantalones para hombre Azul 31W x 34L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

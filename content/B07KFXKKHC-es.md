@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFXKKHC-es PUMA Thunder Fashion 2.0 Zapatillas Deportivas Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

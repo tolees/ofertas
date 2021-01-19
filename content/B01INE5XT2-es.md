@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01INE5XT2-es Sparco SPC1111KAZ Almohadillas y Funda de Volante Negro/Azul'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

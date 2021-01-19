@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YS8Z66K-es Proyector TOPTRO 6500 Lúmenes Proyector Cine en Casa Full...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

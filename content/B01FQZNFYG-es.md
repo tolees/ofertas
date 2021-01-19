@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FQZNFYG-es Artistry Set de Niré: brochas de maquillaje veganas con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.71 EUR
 currency: EUR
 price: 33.71

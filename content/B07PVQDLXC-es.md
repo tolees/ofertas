@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVQDLXC-es Under Armour UA Spieth Washed Cotton Cap Algodón Gorra...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

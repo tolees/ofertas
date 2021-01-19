@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NTN8TU8-es Hombre-Reloj diesel MR Daddy 2.0 cronógrafo de Cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 170.66 EUR
 currency: EUR
 price: 170.66

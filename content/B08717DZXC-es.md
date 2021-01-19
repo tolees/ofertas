@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08717DZXC-es B Blesiya Cargador Inalámbrico Qi Pad 10W Base De Carga...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

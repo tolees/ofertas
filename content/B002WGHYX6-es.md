@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002WGHYX6-es Superga 2750 COTU Classic Zapatillas Unisex Rojo Red 975...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.4 EUR
 currency: EUR
 price: 35.4

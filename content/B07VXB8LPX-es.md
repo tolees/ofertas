@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXB8LPX-es Plastimyr 5970077 Bañera con Cajones y Cambiador de 0 a 12...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 112.15 EUR
 currency: EUR
 price: 112.15

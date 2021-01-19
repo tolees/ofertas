@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KX1BJ7H-es Brooks Addiction Walker 2 Zapatillas de Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.58 EUR
 currency: EUR
 price: 30.58

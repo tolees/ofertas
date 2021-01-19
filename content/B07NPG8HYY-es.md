@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPG8HYY-es Ultimate Ears Boom 3 Altavoz Portátil Inalámbrico...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

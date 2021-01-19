@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078MHFGBC-es HOREVO 24W Ø 38cm Cuadrada Lámpara plafón de techo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

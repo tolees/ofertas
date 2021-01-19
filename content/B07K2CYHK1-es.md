@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2CYHK1-es adidas Superstar J Zapatillas de Gimnasia Unisex Niños...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

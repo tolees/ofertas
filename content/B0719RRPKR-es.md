@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719RRPKR-es Finether Armario de Cultivo Interior 120x120x200 cm Grow...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 93.99 EUR
 currency: EUR
 price: 93.99

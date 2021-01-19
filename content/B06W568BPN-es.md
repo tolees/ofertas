@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W568BPN-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 84.54 EUR
 currency: EUR
 price: 84.54

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005DLX71A-es Casio Reloj de Pulsera MRW-200H-1B2VEF'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

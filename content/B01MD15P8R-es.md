@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MD15P8R-es G-STAR RAW ZED Cinturón Marrón Dk Cognac/antic Silver 8128...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

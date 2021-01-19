@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005UOPX5I-es Berghoff Set de Pasta 20 Piezas'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.16 EUR
 currency: EUR
 price: 18.16

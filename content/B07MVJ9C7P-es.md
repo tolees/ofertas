@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJ9C7P-es Kipling Creativity S Monedero para Mujer Multicolor Music...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKQT6B2-es Daniel Wellington 0505DW - Reloj con correa para mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

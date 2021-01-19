@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZNH464-es Skechers Summits Zapatillas para Mujer Gris Gray Mesh/Hot...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

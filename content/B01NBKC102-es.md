@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBKC102-es Reebok Club C 85 Zapatillas para Hombre Blanco INT...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.96 EUR
 currency: EUR
 price: 47.96

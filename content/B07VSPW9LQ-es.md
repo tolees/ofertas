@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSPW9LQ-es jerryvon Cocina Infantil Madera Pequeña Portatil con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

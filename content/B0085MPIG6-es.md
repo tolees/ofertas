@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0085MPIG6-es Lenovo 0A36307 batería Recargable - Batería/Pila...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 78.13 EUR
 currency: EUR
 price: 78.13

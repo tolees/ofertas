@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GNWP7NO-es Nike Revolution 4 TDV Zapatillas de Marcha Nórdica Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

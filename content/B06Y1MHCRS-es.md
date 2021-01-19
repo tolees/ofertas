@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y1MHCRS-es Makeup Revolution Iconic Matte Nude Lipstick Inclination...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

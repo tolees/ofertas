@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1VVXJV-es Diesel UFSB-BRAS Sujetador Deportivo para Mujer Multicolor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.6 EUR
 currency: EUR
 price: 19.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZH9JJ5Y-es FBLWT Smartwatches Reloj Inteligente para Mujer Kw10 Color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.4 EUR
 currency: EUR
 price: 31.4

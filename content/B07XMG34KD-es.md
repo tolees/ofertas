@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XMG34KD-es Skechers Go Run Pulse Zapatillas para Hombre Cclm Tela de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.84 EUR
 currency: EUR
 price: 37.84

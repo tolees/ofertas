@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTIO5XK-es Final Fantasy TCG Mazo FF X'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

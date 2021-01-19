@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008DCII10-es Faibo 607-2 - Pizarra de corcho'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

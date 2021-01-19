@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNYSPWC-es Vagisil Vagisil Higiene Intima Diaria Sensitive 250 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

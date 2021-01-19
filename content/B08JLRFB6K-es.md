@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JLRFB6K-es OUTTUO Carrera teledirigido anfibia 2.4GHz 4WD Carreras de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

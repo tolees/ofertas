@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MW23ZCC-es EBTOOLS Sistema de Detección de Aparcamiento de Reserva...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

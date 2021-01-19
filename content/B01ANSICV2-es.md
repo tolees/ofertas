@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ANSICV2-es Trio Lighting Embassy Trio 603800487-Plafón LED Cuadrado...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 83.65 EUR
 currency: EUR
 price: 83.65

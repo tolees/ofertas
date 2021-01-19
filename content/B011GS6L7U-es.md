@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011GS6L7U-es Devolo dLAN 500 duo Sarter KIT- Kit de inicio de adaptador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.82 EUR
 currency: EUR
 price: 54.82

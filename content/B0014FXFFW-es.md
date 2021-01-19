@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0014FXFFW-es Casio Reloj de Pulsera BEM-116L-1AVEF'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.84 EUR
 currency: EUR
 price: 41.84

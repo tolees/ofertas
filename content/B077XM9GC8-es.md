@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XM9GC8-es Funko Pop!- 27032 Games: God of War: Atreus Multicolor'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

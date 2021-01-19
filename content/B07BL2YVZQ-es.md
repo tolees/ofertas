@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL2YVZQ-es New Balance 220 Zapatillas para Mujer Negro Black/White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

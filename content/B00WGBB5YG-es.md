@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WGBB5YG-es Kerastase Suero de pelo - 30 ml.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

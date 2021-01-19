@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD5D91T-es Miracle Tunes- Vestido/Disfraz Jasmine Color blanco/azul S...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.29 EUR
 currency: EUR
 price: 27.29

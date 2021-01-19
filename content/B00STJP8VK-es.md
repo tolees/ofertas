@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00STJP8VK-es Vision Xiam 1.5 - Pala de Nivel Medio Alto de Juego'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

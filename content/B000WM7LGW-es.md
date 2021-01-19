@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WM7LGW-es Philips Avent SCF152/01 - Pezonera para curar pezones...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

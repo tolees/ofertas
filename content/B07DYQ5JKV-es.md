@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYQ5JKV-es Superga 2730-cotropew Zapatillas de Gimnasia para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

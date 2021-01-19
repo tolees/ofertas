@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3GP5CN-es Tommy Hilfiger Elevated Leather Heeled Sandal Sandalias...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.85 EUR
 currency: EUR
 price: 34.85

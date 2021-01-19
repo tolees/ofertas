@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2MFRL8-es Tommy Hilfiger Iconic Slip On Sneaker Zapatillas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

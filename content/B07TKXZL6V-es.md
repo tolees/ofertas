@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKXZL6V-es Vans Ward Suede/Canvas Zapatillas para Hombre Verde Otw...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.65 EUR
 currency: EUR
 price: 32.65

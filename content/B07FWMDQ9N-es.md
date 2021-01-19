@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FWMDQ9N-es Seiko Reloj analogico para Mujer de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 155.92 EUR
 currency: EUR
 price: 155.92

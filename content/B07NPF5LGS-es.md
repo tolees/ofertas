@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPF5LGS-es Tom Tailor 7980801 Botas Clasicas para Hombre Marrón...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.82 EUR
 currency: EUR
 price: 18.82

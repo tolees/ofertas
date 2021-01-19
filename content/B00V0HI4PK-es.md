@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V0HI4PK-es Cargador rápido modular Samsung – 2 amperios con cable de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

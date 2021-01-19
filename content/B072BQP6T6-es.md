@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072BQP6T6-es MagiDeal DIY 5D Diamante de Imitación Bordado Pintura...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.06 EUR
 currency: EUR
 price: 3.06

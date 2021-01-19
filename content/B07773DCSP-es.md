@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07773DCSP-es Black+Decker 9045853BND Accesorios para Compresor de Aire...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.73 EUR
 currency: EUR
 price: 28.73

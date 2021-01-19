@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0052VXJGO-es Fackelmann Espumadera alambre de acero inoxidable. Color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

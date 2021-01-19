@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT4XR49-es Grip BE-TOOL - Juego de bolígrafos de punta redonda de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

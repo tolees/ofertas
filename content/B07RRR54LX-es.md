@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRR54LX-es Casio Reloj Analógico-Digital para Hombre de Cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 97.8 EUR
 currency: EUR
 price: 97.8

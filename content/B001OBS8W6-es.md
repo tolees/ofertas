@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001OBS8W6-es HP C4906AE 940XL Cartucho de Tinta Original de alto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33 EUR
 currency: EUR
 price: 33

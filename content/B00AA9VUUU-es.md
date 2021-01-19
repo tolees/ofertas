@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AA9VUUU-es Advance Sensitive Pienso para Gato Esterilizado Adulto con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.82 EUR
 currency: EUR
 price: 16.82

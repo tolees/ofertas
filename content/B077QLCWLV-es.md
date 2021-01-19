@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QLCWLV-es Lotus Watches Reloj Análogo clásico para Hombre de Cuarzo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.63 EUR
 currency: EUR
 price: 35.63

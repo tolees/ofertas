@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077WR69NZ-es Funda impermeable de Kayond para ordenador portátil de 11...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

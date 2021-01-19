@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y6BHTV3-es Manicura Eléctrico Pulidor de Uñas Aparatos Eléctricos y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

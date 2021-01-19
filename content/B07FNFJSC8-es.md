@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNFJSC8-es HOMCOM 3 EN 1 Triciclo para Niños +18 Meses Triciclo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

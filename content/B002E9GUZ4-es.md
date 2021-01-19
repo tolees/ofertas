@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002E9GUZ4-es Winsor & Newton- Winton Set de 10 Tubos de 37 ml de óleo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.4 EUR
 currency: EUR
 price: 30.4

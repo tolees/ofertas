@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BVB12G-es GLEADING Cepillo Quitar Pelos de Mascotas Rodillo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

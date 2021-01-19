@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG5STZY-es Panel Solar Fuente de Alimentación Compatible con Cámara...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.02 EUR
 currency: EUR
 price: 35.02

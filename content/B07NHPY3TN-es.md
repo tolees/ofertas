@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHPY3TN-es Veet for Men Crema Depilatoria para Hombre Piel Sensible...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

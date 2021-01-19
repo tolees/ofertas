@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078KG88BW-es Puma Leader Vt SL Zapatillas de Running Unisex Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

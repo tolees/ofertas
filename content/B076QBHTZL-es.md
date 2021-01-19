@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QBHTZL-es Mondial A10 Placa de Calefacción 1500 W Gris'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.58 EUR
 currency: EUR
 price: 53.58

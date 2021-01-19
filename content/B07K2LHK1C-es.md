@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2LHK1C-es adidas Adilette Aqua Zapatillas de Deporte Unisex niño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4RVD4J-es Calvin Klein - Primary L 5cc W/Coin Carteras Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.2 EUR
 currency: EUR
 price: 42.2

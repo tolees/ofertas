@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K1WAPPM-es Hunter Original Short Botas de Agua Unisex Adulto Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 83.85 EUR
 currency: EUR
 price: 83.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SWGQSH-es Ratón inalámbrico de 2.4GHz Ratón Inteligente portátil...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083JS7ZTK-es seenlast Raqueta Mosca Antimosquitos Matamoscas Eléctrico...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

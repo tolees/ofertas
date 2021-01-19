@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRKX5J3-es New Balance 373 Zapatillas Hombre Rojo Red Red 39.5 EU 6 UK'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

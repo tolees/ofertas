@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4ZT5FT-es Adidas Terrex Eastrail GTX Zapatillas de Deporte para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

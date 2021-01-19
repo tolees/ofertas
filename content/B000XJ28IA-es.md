@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000XJ28IA-es Bosch Professional GAL 1230 CV Cargador Baterías 12 V Negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.8 EUR
 currency: EUR
 price: 35.8

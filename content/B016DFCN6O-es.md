@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016DFCN6O-es URAQT Cartera Delgada De Cuero Delgado Minimalista...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

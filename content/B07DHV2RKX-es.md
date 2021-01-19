@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHV2RKX-es AmazonBasics - Juego de ropa de cama con funda de edredón...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.17 EUR
 currency: EUR
 price: 17.17

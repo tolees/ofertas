@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000PJAF4M-es Draper 90086 - Lote de rollos de cinta aislante 10 m x 19...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

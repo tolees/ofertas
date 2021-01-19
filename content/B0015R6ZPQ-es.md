@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0015R6ZPQ-es Optimum Nutrition ON Serious Mass Proteína en Polvo Mass...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

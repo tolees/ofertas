@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9B2BWG-es Under Armour Unstoppable Move Light FZ Parte Superior del...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.68 EUR
 currency: EUR
 price: 22.68

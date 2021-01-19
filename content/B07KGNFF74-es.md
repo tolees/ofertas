@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGNFF74-es BOSS Schino-Regular Short Pantalones Cortos Beige Medium...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.19 EUR
 currency: EUR
 price: 41.19

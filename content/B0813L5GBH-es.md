@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0813L5GBH-es Rytaki Surface Pro Cargador 15V 2.58A 44W Surface Pro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

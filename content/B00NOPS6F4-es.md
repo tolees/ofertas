@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NOPS6F4-es Lacoste L1312 Polo Azul Rabane Z1g 2XL Talla del...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 50.75 EUR
 currency: EUR
 price: 50.75

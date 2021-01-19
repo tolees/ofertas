@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKJZDR2-es X-TIGER Hombres de Bicicleta con 5D Gel Acolchado MTB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.78 EUR
 currency: EUR
 price: 37.78

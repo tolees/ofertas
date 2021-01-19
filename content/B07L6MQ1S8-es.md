@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6MQ1S8-es Skagen Reloj Analógico para Unisex Adultos de Cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 65.2 EUR
 currency: EUR
 price: 65.2

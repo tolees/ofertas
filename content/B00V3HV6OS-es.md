@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V3HV6OS-es Buff Solid Calentador Lana Merino Heavy Unisex Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

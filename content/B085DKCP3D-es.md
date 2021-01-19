@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085DKCP3D-es Paquete de 10 máscaras Desechables máscara de Filtro de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.17 EUR
 currency: EUR
 price: 2.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BWQJX1S-es Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

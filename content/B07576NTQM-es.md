@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07576NTQM-es Garmin Forerunner 30 - Reloj de carrera con GPS y sensor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

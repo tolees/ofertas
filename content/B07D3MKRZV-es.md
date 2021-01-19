@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3MKRZV-es Science4you - La Ciencia del Slime - Brilla en la...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08H2JKL1X-es LJP Funda Samsung Galaxy Note 20 Ultra Anti-arañazos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

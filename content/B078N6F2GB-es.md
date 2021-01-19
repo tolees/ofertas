@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078N6F2GB-es Numan Unison Reference - Radio por Internet Receptor Todo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

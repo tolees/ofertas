@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K4SMFMY-es Pack Sileu Go: Copa menstrual Rose - Modelo de iniciación...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

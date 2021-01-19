@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZRRN73-es B Blesiya Mini Adaptador De Audio Inalámbrico Portátil...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

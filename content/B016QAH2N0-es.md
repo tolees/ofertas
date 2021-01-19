@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016QAH2N0-es Transcend JetFlash 710S - Memoria USB 3.0 de 64GB 90 MB/s...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NIAARK2-es NYX Professional Makeup Base de Maquillaje Can t Stop Won...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

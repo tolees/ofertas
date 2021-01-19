@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WV86QQ7-es Bama Tris Poker-Trío de Juego de Cubos de Basura...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

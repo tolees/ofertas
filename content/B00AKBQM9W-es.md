@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AKBQM9W-es NanoCable 10.15.0903 - Cable HDMI a Mini HDMI alta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

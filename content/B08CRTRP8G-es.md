@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRTRP8G-es Ocobudbxw 10 Piezas SMA-JB3 Conector RF RP-SMA Macho Jack...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.85 EUR
 currency: EUR
 price: 7.85

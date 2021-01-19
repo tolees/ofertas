@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O39RE7Q-es Ramón Bilbao Vino Viñedos de Altura - 750 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

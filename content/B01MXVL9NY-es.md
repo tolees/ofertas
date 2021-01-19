@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXVL9NY-es Tribe Marvel Avengers - Funda para Apple iPhone 6 diseño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

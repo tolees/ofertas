@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I4QYPIY-es SELECT – Rodillera para Balonmano Vendaje Hombre Color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

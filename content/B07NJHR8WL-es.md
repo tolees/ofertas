@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJHR8WL-es Tamaris 1-1-25537-23 Botas Mosqueteras para Mujer Rojo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.71 EUR
 currency: EUR
 price: 18.71

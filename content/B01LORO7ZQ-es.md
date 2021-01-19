@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LORO7ZQ-es Tarjeta de Memoria SanDisk Extreme SDXC de 256 GB con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.45 EUR
 currency: EUR
 price: 54.45

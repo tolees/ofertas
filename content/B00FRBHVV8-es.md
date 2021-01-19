@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FRBHVV8-es PURLINE SIRIUS Biochimenea con tamaño compacto y vidrio...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

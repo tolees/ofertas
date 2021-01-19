@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005CU9AAO-es Lorus Sport - Reloj de Cuarzo para Hombre con Correa de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

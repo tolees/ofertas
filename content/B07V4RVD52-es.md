@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4RVD52-es Calvin Klein - Neat Hobo Md Shoppers y bolsos de hombro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 67.86 EUR
 currency: EUR
 price: 67.86

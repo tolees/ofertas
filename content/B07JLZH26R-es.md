@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLZH26R-es Wrangler Arizona Jeans Azul Fuse Blue 40d 34W / 34L para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.48 EUR
 currency: EUR
 price: 42.48

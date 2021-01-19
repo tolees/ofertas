@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG1X46K-es New Balance Hombre U420 Sneaker Vino tinto 37 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.39 EUR
 currency: EUR
 price: 39.39

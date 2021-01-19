@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0747W2XFX-es Philips Sonicare DiamondClean Smart HX9924/03 - Cepillo de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

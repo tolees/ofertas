@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N94SLCW-es BENETTON PINK COL WOM 80V'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

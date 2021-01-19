@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074HN36PB-es Funko Pop! - Figura de Vinilo Sailor Saturn 13756'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

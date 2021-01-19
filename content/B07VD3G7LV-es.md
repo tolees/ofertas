@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD3G7LV-es Calvin Klein CK Essential Tipping Slim Polo Blanco Bright...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.62 EUR
 currency: EUR
 price: 28.62

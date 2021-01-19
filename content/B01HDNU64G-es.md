@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HDNU64G-es Columbia Cascade Pass Waterproof Botas de Senderismo para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.06 EUR
 currency: EUR
 price: 47.06

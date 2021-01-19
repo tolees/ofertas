@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0155YQGE4-es Slendertone Connect Abs - Cinturón de tonificación...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 118.3 EUR
 currency: EUR
 price: 118.3

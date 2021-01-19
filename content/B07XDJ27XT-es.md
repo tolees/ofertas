@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDJ27XT-es Creative Kitchen - Bandeja de drenaje de fregadero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

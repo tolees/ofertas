@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9M6JL6-es Moreplus Báscula digital de cocina multifunción con botón...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.84 EUR
 currency: EUR
 price: 12.84

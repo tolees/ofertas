@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004GEBMUS-es Helly Hansen Jacke Packable Pants Pantalón Hombre Negro XXL'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

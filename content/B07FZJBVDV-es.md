@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZJBVDV-es Star Ibaby - Parque de bebés plegable color natural'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

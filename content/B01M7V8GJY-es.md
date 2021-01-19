@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7V8GJY-es Underground Toys- Moldes para Galletas Star Wars Color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.65 EUR
 currency: EUR
 price: 8.65

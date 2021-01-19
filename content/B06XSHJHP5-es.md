@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSHJHP5-es Pasito a pasito 73759 - Maleta acolchada Inés color beige'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.89 EUR
 currency: EUR
 price: 49.89

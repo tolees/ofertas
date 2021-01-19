@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BJO7SM4-es Folat Guirnalda "Fanática del Fútbol" Ø 22 cm y longitud...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

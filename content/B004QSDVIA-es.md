@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004QSDVIA-es BELCILS - VIÑAS BELCILS Corrector Invisible 4 g'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.83 EUR
 currency: EUR
 price: 5.83

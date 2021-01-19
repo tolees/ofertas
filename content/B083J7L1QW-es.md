@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083J7L1QW-es Idocolrs - Funda transparente para Airpods 1 y 2 Kawaii...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

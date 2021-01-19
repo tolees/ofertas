@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UN5NUS6-es Biotherm Homme Aquapower 72H Hidratante Glacial Concentré...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

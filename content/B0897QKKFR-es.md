@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897QKKFR-es ZXYAN Wind Up mecánica Ballena de plástico con la Rueda...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP4TLCS-es Neutrogena Hydro Boost Loción Corporal En Gel - 750 ml.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

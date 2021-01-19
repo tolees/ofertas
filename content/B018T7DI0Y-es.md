@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018T7DI0Y-es LUNA mini 2 de FOREO es el limpiador facial con modo anti-...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 95.2 EUR
 currency: EUR
 price: 95.2

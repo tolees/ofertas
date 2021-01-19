@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078Y1MM9S-es HBF Multicolor 50 Clips Pelo Niña Metal Pinzas Pelo Bebe...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

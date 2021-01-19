@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HBMR1S-es ART VVIES Wandbild für Hauptdekorationen mit Haken Holz...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

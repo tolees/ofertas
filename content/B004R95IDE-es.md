@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004R95IDE-es Tuscany Silver 8.43.7594 - Cadena con colgante de plata de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGJYX37-es The North Face Mallas en Mezcla de algodón con Logotipo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

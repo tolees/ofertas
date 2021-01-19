@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY1GHD8-es Women s Secret Feminine 1 Guipur Lace Berry Sujetador con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.77 EUR
 currency: EUR
 price: 11.77

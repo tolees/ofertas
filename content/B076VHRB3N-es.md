@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VHRB3N-es Objetivo Tamron 100-400mm F/4.5-6.3 Di VC y Ultrasonic...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 643.54 EUR
 currency: EUR
 price: 643.54

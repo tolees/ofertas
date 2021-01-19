@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYX34W8-es Kelme Precision Elite 2.0 Zapatillas de fútbol Sala Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

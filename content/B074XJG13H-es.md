@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074XJG13H-es Sharplace 2 Pares CW CCW Piezas de Recambio Portátiles...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.77 EUR
 currency: EUR
 price: 7.77

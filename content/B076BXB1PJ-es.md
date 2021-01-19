@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076BXB1PJ-es Natura Essenziale Valeriana Leo - 90 Comprimidos - La...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

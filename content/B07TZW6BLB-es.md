@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZW6BLB-es Kipling Creativity L Monederos para Mujer Verde Light Aloe...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKQT85G-es Daniel Wellington - Reloj analógico para caballero correa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 78.66 EUR
 currency: EUR
 price: 78.66

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVBSGMK-es Skechers Men s Expected 2.0 Oxfords Brown Brown Leather...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.97 EUR
 currency: EUR
 price: 55.97

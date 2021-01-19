@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGDCS6K-es Columbia Ivo Trail Zapatillas para Hombre Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.65 EUR
 currency: EUR
 price: 39.65

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009HO1G5S-es Superga Classic Zapatillas para Hombre Gris Mushroom C26...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.61 EUR
 currency: EUR
 price: 38.61

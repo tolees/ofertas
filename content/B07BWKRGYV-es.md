@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BWKRGYV-es Mocasines Planos cómodos para Mujer - Los Negros Mocasines...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

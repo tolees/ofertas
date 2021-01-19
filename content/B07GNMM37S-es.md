@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNMM37S-es D DOLITY Herramientas de Taladro Hand Tool Drill para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.27 EUR
 currency: EUR
 price: 13.27

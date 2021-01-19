@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTGCYV5-es 1Life Auriculares SoundOne Micrófono Ultra Ligero'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

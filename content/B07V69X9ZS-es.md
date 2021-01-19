@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V69X9ZS-es JACK & JONES Jorrafael Sweat Hood Capucha Azul Navy Blazer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.83 EUR
 currency: EUR
 price: 12.83

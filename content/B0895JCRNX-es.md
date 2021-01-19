@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895JCRNX-es 1200X Conector de crimpado de alambre Pin de cable Pin de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GQPPY5-es Muscletech Hydroxycut Pro Clinical 72 caps 72 Unidades 40 g'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.33 EUR
 currency: EUR
 price: 27.33

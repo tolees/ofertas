@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0733FDCLL-es find. Pantalones Estilo Jogger de Tacto Suave para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11 EUR
 currency: EUR
 price: 11

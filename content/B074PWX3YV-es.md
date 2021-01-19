@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PWX3YV-es Renberg Cubiertos Diseño Liso y Plano Acero Inoxidable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

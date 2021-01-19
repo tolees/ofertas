@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BTLY2UM-es Bresser MyTime-Reloj de Cocina Retro Acero Inoxidable Dorado'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.81 EUR
 currency: EUR
 price: 16.81

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5MTT1F-es Skechers Flex Appeal 3.0 Zapatillas para Mujer Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 40.57 EUR
 currency: EUR
 price: 40.57

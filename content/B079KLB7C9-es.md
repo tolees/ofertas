@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KLB7C9-es Fossil Reloj Analógico de Cuarzo FTW1162'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 101.4 EUR
 currency: EUR
 price: 101.4

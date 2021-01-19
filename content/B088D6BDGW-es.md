@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088D6BDGW-es Suhctup Funda Compatible para Xiaomi Mi 8 SE Carcasa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

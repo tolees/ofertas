@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006MPZKCA-es Roberto Cavalli Agua de Perfume - 75 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

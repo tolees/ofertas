@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TM1V6J9-es Sneakers Donna FILA 1010748 Autunno/Inverno 37'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 77.94 EUR
 currency: EUR
 price: 77.94

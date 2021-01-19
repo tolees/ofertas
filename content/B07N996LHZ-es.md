@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N996LHZ-es ASUS ROG Strix GL704GM-EV009 - Portátil Gaming 17.3" FHD...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 999.99 EUR
 currency: EUR
 price: 999.99

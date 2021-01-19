@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQZ2J1Y-es Skechers Relven-Velton Zapatillas Deportivas para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.29 EUR
 currency: EUR
 price: 41.29

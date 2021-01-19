@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQ3CQHG-es TedGem Ventilador Ventilador USB Ventilador de Mesa Mini...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

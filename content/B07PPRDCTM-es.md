@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPRDCTM-es RUNCCI-YUN 12-24 V Encendedor de Cigarrillos Plug DC 5521...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.68 EUR
 currency: EUR
 price: 8.68

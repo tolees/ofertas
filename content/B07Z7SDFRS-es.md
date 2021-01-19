@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7SDFRS-es 6ml 12 colores Acrílico profesional Pinturas pintadas a...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.53 EUR
 currency: EUR
 price: 4.53

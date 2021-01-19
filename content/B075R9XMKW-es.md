@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R9XMKW-es Dymatize Super Mass Gainer Rich Chocolate 2 9kg - Polvo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.79 EUR
 currency: EUR
 price: 25.79

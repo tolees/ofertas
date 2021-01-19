@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAAEPBU-es Reloj Fossil para Hombre FTW1114'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 135.66 EUR
 currency: EUR
 price: 135.66

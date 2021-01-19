@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T97T9LJ-es The North Face M Sur-EU Forro Polar Hombre Black Camo PRT'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

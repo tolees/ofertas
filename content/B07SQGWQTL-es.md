@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGWQTL-es Geox Vega W Zapatillas para Mujer Blanco Off White and...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

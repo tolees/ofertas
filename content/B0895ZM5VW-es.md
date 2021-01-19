@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895ZM5VW-es Donci La cortina de malla de la puerta con pantalla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

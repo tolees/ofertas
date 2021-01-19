@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IR9XLG0-es Maclaren AM1Y031872 Union Jack Princess Blue Forro de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.1 EUR
 currency: EUR
 price: 21.1

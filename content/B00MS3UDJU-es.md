@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MS3UDJU-es Maxi-Cosi CabrioFix Silla de auto reclinable y seguro para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 117.0 EUR
 currency: EUR
 price: 117.0

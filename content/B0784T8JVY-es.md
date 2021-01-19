@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0784T8JVY-es PUMA Liga Casuals Chándal Hombre Negro Puma Black-Puma...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

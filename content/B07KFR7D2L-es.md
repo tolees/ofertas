@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFR7D2L-es Lenovo Legion Y530 Ordenador portátil gaming 15.6" FullHD...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

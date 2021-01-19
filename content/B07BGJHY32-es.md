@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGJHY32-es Maleta grande Pepe Jeans Cambridge Celeste rígida 70cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79 EUR
 currency: EUR
 price: 79

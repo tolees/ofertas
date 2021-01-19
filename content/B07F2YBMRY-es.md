@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2YBMRY-es Palladium Pallabrouse Baggy Zapatillas Altas para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

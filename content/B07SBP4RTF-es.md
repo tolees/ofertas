@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBP4RTF-es Under Armour UA W Ripple 2.0 NM1 Zapatillas de Running...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.01 EUR
 currency: EUR
 price: 39.01

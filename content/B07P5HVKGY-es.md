@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5HVKGY-es Gb Gold Pockit+ All-City 619000245 Silla de Paseo 6 meses...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

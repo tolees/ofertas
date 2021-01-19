@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTV6S37-es Columbia Urban Uplift - Bolsa Cruzada Unisex Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.47 EUR
 currency: EUR
 price: 11.47

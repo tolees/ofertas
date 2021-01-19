@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0168UDVVA-es Clint Eastwood - Pack 10 [Blu-ray]'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

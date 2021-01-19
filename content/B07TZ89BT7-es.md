@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ89BT7-es RASPBERRY Fuente DE ALIMENTACION USB-C 5.1V 3A - Blanco -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.05 EUR
 currency: EUR
 price: 10.05

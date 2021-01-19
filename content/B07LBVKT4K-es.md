@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBVKT4K-es Calvin Klein Unlined Sujetador estilo bralette Azul Blue...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.64 EUR
 currency: EUR
 price: 15.64

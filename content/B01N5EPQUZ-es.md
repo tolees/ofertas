@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5EPQUZ-es Under Armour UA W Thrill 3 Zapatillas de Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.32 EUR
 currency: EUR
 price: 19.32

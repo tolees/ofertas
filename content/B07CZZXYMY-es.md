@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZZXYMY-es Hi Young - Colgante de plata de ley 925 bañado en oro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

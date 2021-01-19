@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077KXGQXH-es VicTsing Ratón Inalámbrico Bluetooth 4.0 & 2.4G 5 dpi...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

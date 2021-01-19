@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4JXKWJ-es Nixon Reloj Analógico para Unisex Adultos de Cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 58.33 EUR
 currency: EUR
 price: 58.33

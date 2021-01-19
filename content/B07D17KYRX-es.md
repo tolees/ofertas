@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D17KYRX-es BOLSA MERIENDA PATRULLA CANINA COLORS'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

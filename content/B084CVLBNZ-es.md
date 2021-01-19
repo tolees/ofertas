@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084CVLBNZ-es Aquatic Planet - Pilares Romanos de Coliseo gladiadores...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.51 EUR
 currency: EUR
 price: 19.51

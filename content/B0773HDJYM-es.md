@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773HDJYM-es AmazonBasics – Cargador USB de pared de dos puertos 2 4...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084PB48MY-es 4 en 1 4 x 1 DiSEqc Interruptor de Banda Ancha de 4 vías...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.01 EUR
 currency: EUR
 price: 2.01

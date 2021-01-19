@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WT8D5K-es Llave Usb 32 Gb Darth Vader Tlj - Memoria Flash Drive 2.0...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

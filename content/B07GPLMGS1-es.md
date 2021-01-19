@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GPLMGS1-es Skechers Status 2.0 Lorano Náuticos para Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.47 EUR
 currency: EUR
 price: 45.47

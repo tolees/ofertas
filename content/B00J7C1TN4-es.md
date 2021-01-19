@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J7C1TN4-es Schwarzkopf Professional Igora Royal Loción Activa Vol 20...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

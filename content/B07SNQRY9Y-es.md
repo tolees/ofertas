@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNQRY9Y-es Asics Gel-Nimbus 22 Running Shoe Mens Tuna Blue/Pure...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 135.0 EUR
 currency: EUR
 price: 135.0

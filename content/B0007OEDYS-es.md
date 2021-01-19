@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0007OEDYS-es STABILO BOSS Original Marcador fluorescente multicolor -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.05 EUR
 currency: EUR
 price: 4.05

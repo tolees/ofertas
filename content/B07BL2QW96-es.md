@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL2QW96-es New Balance 373 Zapatillas para Mujer Rosa Pink Sand/White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.72 EUR
 currency: EUR
 price: 48.72

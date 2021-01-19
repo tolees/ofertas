@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0886JPML1-es aZengear Calcetines de Compresión para Hombres y Mujeres -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

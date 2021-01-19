@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MRB8LZ1-es Nike Phantom Venom Academy FG Zapatillas de Fútbol Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.97 EUR
 currency: EUR
 price: 55.97

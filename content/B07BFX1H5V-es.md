@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFX1H5V-es Doble Consolador Double Consolador en color rosa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

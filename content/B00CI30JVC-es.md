@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CI30JVC-es NANOCABLE 10.31.0102 - Tenaza Metalica de carraca para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XXDYGYW-es SONGMICS Cubo de Basura de Acero Inoxidable Basurero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

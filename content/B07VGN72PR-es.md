@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGN72PR-es Desigual Foul Jirafa Bufanda Multicolor Multicolor Fucsia...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.37 EUR
 currency: EUR
 price: 24.37

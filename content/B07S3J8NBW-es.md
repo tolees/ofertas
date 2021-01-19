@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3J8NBW-es Finish Todo en 1 Max Limón Pastillas para Lavavajillas -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

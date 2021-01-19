@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6N8FC6-es Tommy Hilfiger BB Cap Gorra de béisbol Pink Tf6 Talla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

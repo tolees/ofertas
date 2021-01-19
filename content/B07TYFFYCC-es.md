@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYFFYCC-es BOSS Leaffish Bañador Rosa Open Pink 695 Small para Hombre'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

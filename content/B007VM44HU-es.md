@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007VM44HU-es Makita 195584-2 - Cargador rápido 18V DC18RC Litio-Ion'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.19 EUR
 currency: EUR
 price: 64.19

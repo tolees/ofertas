@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078Y77XMM-es Pro Breeze Ventilador de Torre Oscilante 45W. con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

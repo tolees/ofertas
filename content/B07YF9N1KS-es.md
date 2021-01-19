@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YF9N1KS-es Fitfiu Remo RA-100 Resistencia magnética y de Aire...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

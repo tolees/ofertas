@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009NBP4M6-es BIC Marking marcadores permanentes punta media Cónica –...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

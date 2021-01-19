@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBZ8F34-es MSI GE63 Raider RGB 8SG-029ES - Ordenador portátil Gaming...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1910.0 EUR
 currency: EUR
 price: 1910.0

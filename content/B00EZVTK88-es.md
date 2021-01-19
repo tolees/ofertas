@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EZVTK88-es Intex 29040NP - Dispensador químico para piscinas y Spa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

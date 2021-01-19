@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTJGND4-es Skechers Be-Lux-Daylights Merceditas para Mujer Azul Navy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.96 EUR
 currency: EUR
 price: 31.96

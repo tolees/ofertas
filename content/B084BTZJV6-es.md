@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084BTZJV6-es PEKITAS LOTE 2 Sábanas Bajera Ajustable Protectora...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

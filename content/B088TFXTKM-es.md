@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TFXTKM-es 200 almohadillas de filtro desechables almohadillas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.78 EUR
 currency: EUR
 price: 6.78

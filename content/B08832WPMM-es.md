@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08832WPMM-es Lector de Tarjetas de Memoria Secure Digital USB Micro USB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.43 EUR
 currency: EUR
 price: 11.43

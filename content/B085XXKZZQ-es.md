@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XXKZZQ-es Mini Ventiladores de Sobremesa Ventilador USB de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

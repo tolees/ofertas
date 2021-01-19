@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D8HSJGR-es Aigostar - Bombilla LED B5 T3 3U E27 9 W equivalente a 80...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWLSRTX-es New Balance Fresh Foam Vero Racer m Zapatillas de Running...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.3 EUR
 currency: EUR
 price: 35.3

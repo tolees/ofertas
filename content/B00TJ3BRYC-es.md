@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TJ3BRYC-es GBC 4400556 - Encuadernadora'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 117.26 EUR
 currency: EUR
 price: 117.26

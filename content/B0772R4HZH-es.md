@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772R4HZH-es Marca Amazon - MERAKI Pantalones Chinos Regular Fit Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

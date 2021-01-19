@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000AM7SJO-es Cullmann Alpha 1000 - Trípode Completo hasta 106 cm Negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.74 EUR
 currency: EUR
 price: 10.74

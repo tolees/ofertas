@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2KQBG4-es SALOMON XA Tank Mujer Amarillo Lemon Chrome XL'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.54 EUR
 currency: EUR
 price: 9.54

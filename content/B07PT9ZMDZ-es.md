@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT9ZMDZ-es Sekey 220x100cm Cortina magnética ideal para puerta de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JY3BYPX-es Adidas Powerlift 4 Zapatillas de Deporte para Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.97 EUR
 currency: EUR
 price: 69.97

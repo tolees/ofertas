@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B1WF75Q-es WINMI para Huawei Y5p Funda Color Degradado Silicona TPU...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.02 EUR
 currency: EUR
 price: 6.02

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08H1B1DW3-es Ajcoflt 3 Pcs Toallas de enfriamiento de Playa Manta de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.67 EUR
 currency: EUR
 price: 5.67

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VFXDJK4-es Akileine NOK - Crema anti rozamientos Anti-rozaduras para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.38 EUR
 currency: EUR
 price: 20.38

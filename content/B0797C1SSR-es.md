@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797C1SSR-es Guess Reloj Analógico para Hombre de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 86.67 EUR
 currency: EUR
 price: 86.67

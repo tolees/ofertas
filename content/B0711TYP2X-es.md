@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711TYP2X-es Funko - Pop! Vinilo Colección DC - Figura Aquaman 13486'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.42 EUR
 currency: EUR
 price: 10.42

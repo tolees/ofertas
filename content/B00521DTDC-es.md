@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00521DTDC-es Mascot 05279 Faro - Pantalones de trabajo bolsillos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.78 EUR
 currency: EUR
 price: 13.78

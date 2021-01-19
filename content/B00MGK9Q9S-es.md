@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MGK9Q9S-es Rimmel London Brown This way Kit esculpidor de cejas Tono...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0146L4IKQ-es Clinique Smart Night - Crema antiarrugas 50 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.35 EUR
 currency: EUR
 price: 47.35

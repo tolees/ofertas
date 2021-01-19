@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYCTMNF-es ORYX 5071005 Fiambrera para Tortillas Redonda plástico'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.54 EUR
 currency: EUR
 price: 3.54

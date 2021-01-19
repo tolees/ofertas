@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBR4YOC-es Sony MDR-XB550AP - Auriculares de Diadema Extra Bass...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

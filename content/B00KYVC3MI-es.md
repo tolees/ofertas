@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KYVC3MI-es Campingaz - Cartucho De Gas Perforable C206'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLR8ZGP-es Béaba - Vaso silicona unisex color azul'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FP91HV-es Reloj Festina - Mujer F20336/1'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 93.57 EUR
 currency: EUR
 price: 93.57

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFJTCFC-es ATHENA Basic Color Bañador Multicolor Noir Gris Noir 1920...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

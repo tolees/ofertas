@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PMUXR6W-es RHA 201044 MA750i Intra-auriculares con aislamiento de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.14 EUR
 currency: EUR
 price: 39.14

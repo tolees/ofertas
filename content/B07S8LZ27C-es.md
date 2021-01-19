@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8LZ27C-es AXE gel de ducha gold bote 400 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

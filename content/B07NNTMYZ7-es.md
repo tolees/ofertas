@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNTMYZ7-es Under Armour Men s Charged Bandit 5 Laufschuhe Zapatillas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

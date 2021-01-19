@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLDJLHF-es Nike Revolution 5 Zapatillas de Atletismo para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

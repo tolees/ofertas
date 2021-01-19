@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004YSD2OU-es Epson C13T15934010 - Cartucho de tinta magenta Ya...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

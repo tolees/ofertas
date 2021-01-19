@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CSYUQUU-es Hacienda Zorita Natural Reserve Syrah Vino tinto - 750 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N7LNN3Q-es Calvin Klein Reloj Analógico-Digital para Unisex Adultos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.14 EUR
 currency: EUR
 price: 69.14

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003JAKNHI-es PowerBar Ride Energy Peanut Caramel 18x55g - Barra de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.48 EUR
 currency: EUR
 price: 18.48

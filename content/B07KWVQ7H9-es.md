@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWVQ7H9-es 7 CM Electrostática Eliminación de lavandería Bolas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.22 EUR
 currency: EUR
 price: 5.22

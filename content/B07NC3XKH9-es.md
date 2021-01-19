@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC3XKH9-es AXE Adrenaline Charge Up - Desodorante antitranspirante en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

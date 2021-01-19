@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NYP7JG-es BaByliss 2735E - Cepillo rotativo de aire caliente 4...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.85 EUR
 currency: EUR
 price: 46.85

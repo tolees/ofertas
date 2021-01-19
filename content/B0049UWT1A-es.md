@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0049UWT1A-es Waterpik 450- Irrigador bucal inalámbrico 62.24'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 56.7 EUR
 currency: EUR
 price: 56.7

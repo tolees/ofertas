@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMFYLFN-es IPOTCH Cámara de Cazar Rastro HC-300M 12MP 2G MMS GPRS HD...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 82.49 EUR
 currency: EUR
 price: 82.49

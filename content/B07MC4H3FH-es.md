@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC4H3FH-es Scotch & Soda Nos Oxford Shirt Relaxed Fit Button Down...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

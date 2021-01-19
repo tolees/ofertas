@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HX4NDC-es G-Star RAW Rovulc Mid Wmn Zapatillas para Mujer Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YDVRQR-es Vidal y Vidal Pendiente chapados en oro con piedras de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

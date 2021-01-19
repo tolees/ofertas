@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP94FR2-es Trials Rising - Gold Edition'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

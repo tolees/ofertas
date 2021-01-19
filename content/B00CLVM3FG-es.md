@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CLVM3FG-es Vans M ASHER - Zapatillas para hombre Negro canvas Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.01 EUR
 currency: EUR
 price: 38.01

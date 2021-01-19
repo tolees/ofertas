@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZWIYXY-es Tommy Hilfiger H2285ARLOW 1D Zapatillas para Hombre Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.74 EUR
 currency: EUR
 price: 36.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0767D8HLY-es Festina Reloj Análogo clásico para Hombre de Cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 77.93 EUR
 currency: EUR
 price: 77.93

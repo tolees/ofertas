@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3Z1T8W-es Skechers Energy Lights Entrenadores para Niñas Rosa Rose...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.42 EUR
 currency: EUR
 price: 39.42

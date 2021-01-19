@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SR6T5QL-es YIWER 24 unidades LED Velas CR2032 pilas velas sin llama...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

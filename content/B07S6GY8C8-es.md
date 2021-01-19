@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6GY8C8-es Under Armour UA W Charged Assert 8 LTD Zapatillas de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.91 EUR
 currency: EUR
 price: 30.91

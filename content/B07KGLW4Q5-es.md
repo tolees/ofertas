@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGLW4Q5-es BOSS Authentic Shorts Pantalones Cortos Azul Bright Blue...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.58 EUR
 currency: EUR
 price: 27.58

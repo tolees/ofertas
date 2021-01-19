@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVHTTVF-es Kipling - Money Keeper Carteras Mujer Gris Chalk Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.42 EUR
 currency: EUR
 price: 9.42

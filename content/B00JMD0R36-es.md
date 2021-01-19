@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMD0R36-es Canson 400787 - Papel Vegetal 12 Hojas'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

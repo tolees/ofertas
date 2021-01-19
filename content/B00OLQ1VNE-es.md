@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OLQ1VNE-es SOGO SS-5150 Batidora de Vaso Uso Profesional Licuadora...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

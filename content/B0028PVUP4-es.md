@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0028PVUP4-es Leifheit Teleclip 74 Extendable - Tendedero de Pared de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

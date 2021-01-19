@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001UHO8O6-es Bosch AVR 1100 - Escarificador cesta colectora en caja de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 159.15 EUR
 currency: EUR
 price: 159.15

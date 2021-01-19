@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SM8C58J-es Funko Pop Games: PUBG - Hawaiian Shirt Guy Multicolor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67

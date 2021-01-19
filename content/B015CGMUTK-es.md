@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015CGMUTK-es Calvin Klein Bari SLIM FIT FTC-Camisa Hombre Blanco WHITE...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

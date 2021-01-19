@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AJLZPC2-es TATAY 6632101 - Olympia Set de baño completo: Toallero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

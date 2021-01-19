@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SR1PGW4-es Skechers GO Walk 5 PRIZED Zapatillas para Mujer Beige...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.43 EUR
 currency: EUR
 price: 43.43

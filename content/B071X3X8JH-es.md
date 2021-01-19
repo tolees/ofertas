@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071X3X8JH-es find. Gabardina Larga Oversize para Mujer Beige Stone 44...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05

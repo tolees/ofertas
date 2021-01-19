@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RHHX9D-es Adidas Terrex Swift R2 Mid GTX Zapatillas de Marcha...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 118.48 EUR
 currency: EUR
 price: 118.48

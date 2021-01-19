@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ3JZL5-es Iams refrigerios para gatos liofilizados sin granos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.77 EUR
 currency: EUR
 price: 7.77

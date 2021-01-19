@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V9WMND-es DANISH ENDURANCE Calcetines de Senderismo y Trekking de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

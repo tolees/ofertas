@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG5F2XM-es JACK & JONES Jfwtrent PU Anthracite 19 Noos Zapatillas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

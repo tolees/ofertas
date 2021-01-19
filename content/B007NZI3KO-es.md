@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007NZI3KO-es Suavinex – Crema antiestrías para embarazadas. Previene La...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

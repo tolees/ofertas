@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYWVNZL-es Columbia Pantalón Impermeable para Hombre Maxtrail II...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

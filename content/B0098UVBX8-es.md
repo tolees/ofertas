@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0098UVBX8-es Metaltex Golf - Soporte 4 tapaderas Banderas o Tablas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

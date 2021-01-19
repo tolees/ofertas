@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JD2AR6C-es Bulova 98A167 - Reloj de Pulsera de Diseño para Hombre -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 102.0 EUR
 currency: EUR
 price: 102.0

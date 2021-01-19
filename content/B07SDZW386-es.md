@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDZW386-es PUMA Nova 2 WN S Zapatillas Deportivas para Mujer Rosa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.01 EUR
 currency: EUR
 price: 35.01

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079J5GT2K-es Asics Roadhawk FF 2 Zapatillas de Entrenamiento para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

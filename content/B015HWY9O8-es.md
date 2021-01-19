@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015HWY9O8-es Ron Appleton Estate 1 x 0.7 l'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

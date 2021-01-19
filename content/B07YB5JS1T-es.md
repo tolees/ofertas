@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YB5JS1T-es Taurus ETNA INOX 2 en 1 Grill plancha de asar'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MUIM6RK-es D-Link DNR-312L - Dispositivo de Almacenamiento en Red Negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 197.12 EUR
 currency: EUR
 price: 197.12

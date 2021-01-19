@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FKWK639-es Cordón que cubre la cara de longitud ajustable conveniente...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.68 EUR
 currency: EUR
 price: 2.68

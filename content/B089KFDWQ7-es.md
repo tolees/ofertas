@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089KFDWQ7-es Peine alisador de barba rápido para hombres plancha de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

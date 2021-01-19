@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HMGSPSH-es 10 PCS Salvaorejas Mascarillas Extensor Protectores de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

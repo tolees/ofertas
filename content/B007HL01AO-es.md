@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007HL01AO-es Max Factor Colour Elixir Lipliner Perfilador de Labios...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

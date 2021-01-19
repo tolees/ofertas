@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002T9VRX4-es Makita BO3711 - Lijadora Orbital Electronica 190W...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 82.57 EUR
 currency: EUR
 price: 82.57

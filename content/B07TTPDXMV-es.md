@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPDXMV-es Kipling KiplingTotepackMujerBolsos maletínMulticolor Camo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.23 EUR
 currency: EUR
 price: 18.23

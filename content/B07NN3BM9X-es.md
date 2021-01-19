@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NN3BM9X-es Digimon Data Squad Vol. 3 [Alemania] [DVD]'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.72 EUR
 currency: EUR
 price: 13.72

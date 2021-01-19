@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H44LBDO-es Universo DC - Robin Carrie Kelley vinyl pop heroes The...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HZK3M3-es Charms Bling Glitter Funda ultradelgada para teléfono...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

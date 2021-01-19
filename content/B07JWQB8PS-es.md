@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWQB8PS-es Pepe Jeans Pixlette High Pg201164 Jeans Black Wiser Wash...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.13 EUR
 currency: EUR
 price: 19.13

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073HGLWR1-es Calgon Antical para lavadora en Gel - 1 5L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

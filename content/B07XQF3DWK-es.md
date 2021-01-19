@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQF3DWK-es DESIGUAL Letras Abrigos Femmes Negro - EU 36 - Plumas'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 124.97 EUR
 currency: EUR
 price: 124.97

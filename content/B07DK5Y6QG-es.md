@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK5Y6QG-es Festina Reloj de Pulsera F20398/1'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 126.49 EUR
 currency: EUR
 price: 126.49

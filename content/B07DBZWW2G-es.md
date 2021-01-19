@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBZWW2G-es Puma Hybrid NX Zapatillas de Running para Hombre Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

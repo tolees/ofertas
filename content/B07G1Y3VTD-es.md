@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1Y3VTD-es find. Lace Up Leather Botas Estilo Motero Negro Black 36 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.61 EUR
 currency: EUR
 price: 36.61

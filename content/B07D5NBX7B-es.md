@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5NBX7B-es Ordesa Omegakids Gummies Masticables- 54 Unidades - El...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ULI8PGM-es Samsonite Neopulse - Spinner XL Maleta 81 cm 124 L Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 308.0 EUR
 currency: EUR
 price: 308.0

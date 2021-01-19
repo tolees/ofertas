@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3VPJFB-es Tommy Hilfiger Reloj Multiesfera para Mujer de Cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 114.73 EUR
 currency: EUR
 price: 114.73

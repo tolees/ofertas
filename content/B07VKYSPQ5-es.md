@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKYSPQ5-es Asiento del automóvil Asiento trasero Protector de la...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

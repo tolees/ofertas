@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3QYBSS-es koulate Luz De Gabinete Led 2 Piezas De Gabinete...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

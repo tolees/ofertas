@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCCDKH4-es Montibel-Lo Finalfine Laca Ultra Extra Fuerte Sin Gas 400 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

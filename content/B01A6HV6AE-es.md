@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A6HV6AE-es MR. SIGA Dual Action Scrubbing Sponge Pack of 6...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

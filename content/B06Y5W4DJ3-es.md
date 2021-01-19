@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y5W4DJ3-es WENGER Reloj Analogico para Unisex de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 106.88 EUR
 currency: EUR
 price: 106.88

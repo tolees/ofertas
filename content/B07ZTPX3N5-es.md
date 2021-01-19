@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZTPX3N5-es Frozen Wind-Bolso Redondo 3D'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

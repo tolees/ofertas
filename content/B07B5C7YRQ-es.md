@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B5C7YRQ-es Logitech M238 Fan Collection - Wireless Mouse - France -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.29 EUR
 currency: EUR
 price: 14.29

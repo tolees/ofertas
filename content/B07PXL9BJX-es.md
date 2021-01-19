@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXL9BJX-es Calvin Klein Ckj 026 Vaqueros Slim Azul Antwerp Mid 911...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.37 EUR
 currency: EUR
 price: 36.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6VGYQQ-es Flores Mediterráneas A.G F. Mediterráneas Lilas y Mimosas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

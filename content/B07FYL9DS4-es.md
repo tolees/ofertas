@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYL9DS4-es Ladrón con interruptor múltiple Maclean MCE217 adaptador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

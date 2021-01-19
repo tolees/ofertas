@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCCZ3J3-es PUMA Smash v2 L Zapatillas Unisex Adulto Black-Gum 44.5 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.3 EUR
 currency: EUR
 price: 35.3

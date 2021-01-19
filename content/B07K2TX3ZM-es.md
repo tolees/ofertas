@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2TX3ZM-es adidas Continental 80 C Zapatillas de Deporte Unisex niño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

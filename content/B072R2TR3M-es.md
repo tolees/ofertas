@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072R2TR3M-es Columbia Chaqueta Impermeable para Mujer Largo Medio...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.68 EUR
 currency: EUR
 price: 79.68

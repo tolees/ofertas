@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HT94CVS-es Einhell GC-ET 3023 - Recortabordes eléctrico 300W 230V...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

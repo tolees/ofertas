@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCF1J18-es PUMA Vista Zapatillas Unisex-Adulto Azul Peacoat...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.54 EUR
 currency: EUR
 price: 30.54

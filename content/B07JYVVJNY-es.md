@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYVVJNY-es Tommy Hilfiger Rosha Pull On Cropped Pant Pantalones Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.82 EUR
 currency: EUR
 price: 44.82

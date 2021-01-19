@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHQ8K8V-es Columbia Vitesse Zapatillas de Deporte para Mujer Rojo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 50.78 EUR
 currency: EUR
 price: 50.78

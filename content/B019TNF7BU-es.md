@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019TNF7BU-es E-PRANCE Balanza Ergonómica LCD Báscula / Báscula Pesca...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

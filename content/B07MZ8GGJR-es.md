@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ8GGJR-es Head Promotion Cap Gorra Adultos Unisex Navy Talla única'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.08 EUR
 currency: EUR
 price: 11.08

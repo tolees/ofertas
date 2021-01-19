@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWX5SBT-es Teclado para Juegos Teclados Profesionales con Cable USB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

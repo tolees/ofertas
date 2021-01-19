@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNKKRWC-es RLTech Funda Carcasa para Teclast P80X Slim Smart Carcasa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

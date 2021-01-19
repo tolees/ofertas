@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6XGF9K-es FitFlop Anni Flex Zapatillas sin Cordones para Mujer Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.01 EUR
 currency: EUR
 price: 27.01

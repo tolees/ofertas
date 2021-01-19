@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0132J3REG-es Brennenstuhl 1508180 Enchufe Adaptador de 2 Tomas con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

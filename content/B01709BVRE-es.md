@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01709BVRE-es San Ignacio Masterpro Asador 36 x 24 cm Aluminio Gris...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

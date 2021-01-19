@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWC3NFM-es New Balance Ml574 D Zapatillas para Hombre Negro Egn Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.51 EUR
 currency: EUR
 price: 54.51

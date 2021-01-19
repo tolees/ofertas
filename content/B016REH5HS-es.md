@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016REH5HS-es adidas Parma 16 Sho - Pantalón corto para Niños Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

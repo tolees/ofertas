@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C7NHKGQ-es Go Swing abrelatas de latas potente abrebotellas de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

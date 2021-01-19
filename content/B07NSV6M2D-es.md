@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSV6M2D-es Duokon Luz LED de ojo de ángel para automóvil 150W 7...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.73 EUR
 currency: EUR
 price: 37.73

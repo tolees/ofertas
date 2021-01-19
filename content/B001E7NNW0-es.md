@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001E7NNW0-es Bausch & Lomb - Soflens Daily Esféricas - Lentes de Contacto'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

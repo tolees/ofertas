@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AH4USY6-es Cruzado Azul - M/L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086GSVZH1-es Oihxse Compatible con Huawei Nova 6SE Funda Suave Gel TPU...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

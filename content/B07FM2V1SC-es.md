@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FM2V1SC-es Pastillas limpiadoras para dentaduras Y-Kelin 90 tabletas'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.87 EUR
 currency: EUR
 price: 10.87

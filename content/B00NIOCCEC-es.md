@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NIOCCEC-es Panasonic ER-GB80-S503 - Cortapelos impermeable con Peine-...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 62.34 EUR
 currency: EUR
 price: 62.34

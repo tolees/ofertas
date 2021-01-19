@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJWQJCS-es Lenovo Legion Y27gq-20 27.0 " QHD TN G-Sync Pro Gaming...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 485.9 EUR
 currency: EUR
 price: 485.9

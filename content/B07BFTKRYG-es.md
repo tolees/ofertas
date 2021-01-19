@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFTKRYG-es Karactermania 37063 Frozen Sister Queens Estuches 22 cm Azul'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

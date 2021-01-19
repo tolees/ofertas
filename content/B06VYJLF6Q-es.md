@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VYJLF6Q-es INTEY Plastificador A4 / A5 / A6 : Función ABS / 3 minutos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.63 EUR
 currency: EUR
 price: 26.63

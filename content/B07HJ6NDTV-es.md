@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJ6NDTV-es Funko- Pop Vinyl: Animation: Rick & Morty: Unity Rick and...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.28 EUR
 currency: EUR
 price: 6.28

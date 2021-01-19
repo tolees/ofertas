@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JHRLL8-es BACKTURE Bandas Elásticas de Resistencia 11Pcs Juego de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYZXV7P-es Max Factor Perfect Gel Shine; Laca de Uñas Tono 101 - 12 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

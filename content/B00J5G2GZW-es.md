@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J5G2GZW-es HARTMANN - TIRITAS PLASTIC 20 UN'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 0.47 EUR
 currency: EUR
 price: 0.47

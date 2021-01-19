@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4TQ8M5-es Kappa Follow OC Zapatillas Unisex adulto Rojo Red/White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.12 EUR
 currency: EUR
 price: 22.12

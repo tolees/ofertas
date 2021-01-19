@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSDSPP5-es Pandiki Reemplazo para HP Pavilion dv6000 dv6500 18.5V...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.28 EUR
 currency: EUR
 price: 9.28

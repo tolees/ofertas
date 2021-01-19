@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002JVJ2C-es Armani Acqua Di Gio Homme Agua de Colonia 200 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 58.75 EUR
 currency: EUR
 price: 58.75

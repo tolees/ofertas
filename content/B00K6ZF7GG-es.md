@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K6ZF7GG-es Transcend JetDrive 500 - Kit de Disco Duro sólido Interno...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 440.23 EUR
 currency: EUR
 price: 440.23

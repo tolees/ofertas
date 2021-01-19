@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001DH7Z4I-es Dremel SC545 Disco de Corte de Diamante EZ SpeedClic...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

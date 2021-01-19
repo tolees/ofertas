@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG1X6MM-es New Balance 574v2 Zapatillas para Mujer Rosa Pink/Blue...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54 EUR
 currency: EUR
 price: 54

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMXCBT1-es [12-Unidades]Bolsas al Vacío para Ropa Mantas 50x70cm 3 ud...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

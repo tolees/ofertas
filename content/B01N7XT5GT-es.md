@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7XT5GT-es Remington Power Series PR1330 - Máquina de Afeitar...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

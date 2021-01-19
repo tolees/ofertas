@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYWBP6Y-es VPASS Pantalones Hombre Verano Casuales Moda Deportivos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

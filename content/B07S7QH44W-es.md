@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QH44W-es PUMA Ralph Sampson LO Zapatilla Baja Unisex-Adulto White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.01 EUR
 currency: EUR
 price: 35.01

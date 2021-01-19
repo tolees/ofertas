@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0892D2PXY-es XILOSIN Blanco 30 del Pin Femenino a 5 Adaptador de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.13 EUR
 currency: EUR
 price: 3.13

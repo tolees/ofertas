@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVX1ZS3-es GFF Moderno Cerámica Escultura Einfaches Wohnzimmer Pers...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

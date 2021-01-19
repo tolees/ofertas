@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHXN4MX-es ranrann Chal Larga de Boda Fiesta para Mujer Estola de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZQ5PLR-es Mujer Pantalones Largos deportivos SMARTLADY Patrón de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

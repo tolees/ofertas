@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK276PD-es Columbia Fairbanks Omni-Heat Bota de Invierno para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.65 EUR
 currency: EUR
 price: 44.65

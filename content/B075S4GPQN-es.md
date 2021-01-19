@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S4GPQN-es MERAKI Sudadera con Capucha y Cremallera Mujer Gris Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

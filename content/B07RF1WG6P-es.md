@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RF1WG6P-es Reebok Rush Runner Zapatillas de Entrenamiento para Niñas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.62 EUR
 currency: EUR
 price: 16.62

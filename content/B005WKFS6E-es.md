@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005WKFS6E-es Peter Thomas Roth Peter Thomas Roth Mega Rich Conditioner...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.72 EUR
 currency: EUR
 price: 17.72

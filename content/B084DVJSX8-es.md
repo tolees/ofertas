@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084DVJSX8-es Cartera Caballero en Piel Modelo Americano'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

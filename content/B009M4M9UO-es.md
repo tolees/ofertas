@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009M4M9UO-es Rhinomer Baby - Narhinel Confort Aspirador Nasal+ 2...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.53 EUR
 currency: EUR
 price: 6.53

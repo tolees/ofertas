@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072C4X2BJ-es Di4 Jet Pressing Centro de Planchado Doble Sistema de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 63.43 EUR
 currency: EUR
 price: 63.43

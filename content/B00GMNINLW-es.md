@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GMNINLW-es Sourcingmap A13051000UX0426 - Pack de 10 cables marcadores...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.51 EUR
 currency: EUR
 price: 11.51

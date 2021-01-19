@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L745TFH-es Duttek 5 pies / 1 5 m Hembra del USB 2.0 a 3 RCA Video...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.32 EUR
 currency: EUR
 price: 2.32

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082TNYG3C-es Aspiradora inalámbrica 150 W 13 kPa potente aspiradora con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 78.34 EUR
 currency: EUR
 price: 78.34

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5LYYXM-es Morgan Pull Fin Col roulé MENTOS Pullover Sweater Rojo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.06 EUR
 currency: EUR
 price: 13.06

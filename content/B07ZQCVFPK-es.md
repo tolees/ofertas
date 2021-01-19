@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQCVFPK-es ONEMIX - Zapatillas de correr para hombre Air color Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 58.18 EUR
 currency: EUR
 price: 58.18

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075WXB24M-es Cecotec Tostadora Acero Steel&Toast 1L. 6 Niveles de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

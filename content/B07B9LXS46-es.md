@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9LXS46-es JAIMIE JACOBS ® Cartera Mágica Flap Boy Slim el Original...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

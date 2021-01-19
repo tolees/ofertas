@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074GTSNR4-es Color Technik Water Colouring Brush Pens Set of 6 Premium...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

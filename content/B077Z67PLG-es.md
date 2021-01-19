@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Z67PLG-es ONTA® Auriculares para Niños Plegable Cómodos Auriculares...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

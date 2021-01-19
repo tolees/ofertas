@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYTRTJS-es OSRAM NIGHT BREAKER LASER H1 Gen 2 +150% más luz bombilla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.38 EUR
 currency: EUR
 price: 10.38

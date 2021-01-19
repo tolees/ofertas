@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWX4JT8-es ranrann Chaleco Sin Mangas para Niña Suave Camiseta de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

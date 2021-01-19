@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYLCZLH-es Termómetro Digital para la Fiebre Termómetro Médico Oral...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

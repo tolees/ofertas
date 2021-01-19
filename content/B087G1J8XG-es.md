@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087G1J8XG-es TOUS Pulsera Good Vibes Mama de Plata Vermeil y shungitas'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

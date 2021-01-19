@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XK38XY6-es Asiento de coche Reposacabezas Niños Niños Soporte de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.23 EUR
 currency: EUR
 price: 4.23

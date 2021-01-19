@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SF72QJC-es GREAT ART Foto Mural de Cascada en el Bosque Poster...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

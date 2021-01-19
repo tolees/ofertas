@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RGKK9FI-es Bosch Professional - Bolsa para herramrientas talla Medium...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.3 EUR
 currency: EUR
 price: 35.3

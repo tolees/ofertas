@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GJK03BU-es Aodoor Microfibra De Coche 2 Unidades Chenille Limpieza...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

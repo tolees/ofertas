@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003QZ2NYM-es adidas Originals Samba Zapatillas de Fútbol para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.1 EUR
 currency: EUR
 price: 44.1

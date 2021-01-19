@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0843S6ZHQ-es NHUAIYINSHUGUOGUANGGAOJINGY 1/3"Color CMOS 1200TVL 24 LED...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.75 EUR
 currency: EUR
 price: 22.75

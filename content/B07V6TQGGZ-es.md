@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6TQGGZ-es Pour Moi? Suspense Suspender Suspensores Rojo Red Red XXL...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

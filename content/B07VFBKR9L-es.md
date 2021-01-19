@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFBKR9L-es CARPISA ® Cartera mujer con cierre de clip - Soya Wallet'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

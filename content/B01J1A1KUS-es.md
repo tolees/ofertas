@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J1A1KUS-es Rimmel London Royal Blush Colorete en crema Tono 3 3.5 g'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

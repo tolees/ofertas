@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JAIQETE-es GreenBlue GB104 - Programador eléctrico digital diario...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

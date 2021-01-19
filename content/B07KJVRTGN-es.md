@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJVRTGN-es Columbia Peakfreak Venture S II Mid Botas de Senderismo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.34 EUR
 currency: EUR
 price: 24.34

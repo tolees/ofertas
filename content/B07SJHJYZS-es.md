@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJHJYZS-es adidas VL Court 2.0 Zapatillas para Mujer Rosa Glow...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.87 EUR
 currency: EUR
 price: 47.87

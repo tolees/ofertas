@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08915WQHZ-es B Blesiya Electrónica 8.5 LCD Escritura Tabletas De...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

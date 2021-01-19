@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJHRWYR-es Calvin Klein Reloj Analógico para Mujer de Cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 109.97 EUR
 currency: EUR
 price: 109.97

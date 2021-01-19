@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DRN55T-es Agoky Bolero de Boda Fiesta para Niña Abrigo Satinado...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

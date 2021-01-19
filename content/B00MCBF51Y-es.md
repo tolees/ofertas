@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MCBF51Y-es Seiko Reloj Analógico para Hombre de Energía Solar con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 129.42 EUR
 currency: EUR
 price: 129.42

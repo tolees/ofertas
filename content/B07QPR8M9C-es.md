@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPR8M9C-es Nivel Láser Autonivelante Verde LOMVUM LL-DR2-G2 Nivelador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

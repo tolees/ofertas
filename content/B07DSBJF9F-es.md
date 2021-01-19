@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DSBJF9F-es L Oréal Paris Make-up designer Infalible 24H Fresh Wear...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081XD3TSP-es Babaria Crema Intensiva Antimanchas Noche Dobre Efecto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

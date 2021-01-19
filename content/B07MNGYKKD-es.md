@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNGYKKD-es Le Coq Sportif COURTSTAR Sport Zapatillas para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.21 EUR
 currency: EUR
 price: 31.21

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJHJBW3-es 10 Uniwork Cartuchos de tinta Compatibles para Brother...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

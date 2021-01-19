@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002ATRPY8-es Navigator Eco-Logical - Papel de impresión 2500 hojas A4 5...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.48 EUR
 currency: EUR
 price: 23.48

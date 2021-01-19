@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S355DHD-es Love MoschinoJc4027pp1aMujerBolsos bandoleraBlanco Bianco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 86.25 EUR
 currency: EUR
 price: 86.25

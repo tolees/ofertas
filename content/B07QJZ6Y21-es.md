@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJZ6Y21-es LuckyGirls ❤️• •❤️ Men s Solid Casual Anti-Slip SpOrot...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.06 EUR
 currency: EUR
 price: 4.06

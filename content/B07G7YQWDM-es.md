@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G7YQWDM-es IPOTCH 2 Piezas Medallón De Medalla De Uniforme Militar...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.76 EUR
 currency: EUR
 price: 11.76

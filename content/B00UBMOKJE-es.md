@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UBMOKJE-es HP CF361X 508X Cartucho de Tóner Original de alto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 239.5 EUR
 currency: EUR
 price: 239.5

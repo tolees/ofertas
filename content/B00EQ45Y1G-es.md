@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EQ45Y1G-es Trípode para altavoces de poliamida con bolsa de transporte'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.02 EUR
 currency: EUR
 price: 38.02

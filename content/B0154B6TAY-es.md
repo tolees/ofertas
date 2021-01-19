@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0154B6TAY-es Lorus Reloj Analógico de Cuarzo para Hombre con Correa de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 61.02 EUR
 currency: EUR
 price: 61.02

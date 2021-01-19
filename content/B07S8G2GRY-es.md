@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8G2GRY-es Vicloon Arnes Bebes Correa Bebe Para Caminar Arnés de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

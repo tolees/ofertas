@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084LJZR3F-es Rimmel London Pack look ojos Incluye Paleta de Sombras...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

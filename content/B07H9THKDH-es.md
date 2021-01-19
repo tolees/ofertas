@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9THKDH-es Apple Funda Leather Folio para el iPhone XS Max - Azul cabo'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.63 EUR
 currency: EUR
 price: 33.63

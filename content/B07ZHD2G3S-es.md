@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZHD2G3S-es Electirc Mini Máquina del Vacío con Paquete de 8 Bolsas de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.89 EUR
 currency: EUR
 price: 27.89

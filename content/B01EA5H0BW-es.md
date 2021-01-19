@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EA5H0BW-es BaByliss AS81E - Cepillo de aire caliente 800 W cabezal...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.23 EUR
 currency: EUR
 price: 17.23

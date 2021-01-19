@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S858WNB-es adidas Crop Tank Tank Top Mujer Ice Yellow 42'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

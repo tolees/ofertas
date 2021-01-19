@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0887W3FQC-es LNIEGE Por Rod del Carril de Soporte zócalo 2pcs Montaje...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.72 EUR
 currency: EUR
 price: 5.72

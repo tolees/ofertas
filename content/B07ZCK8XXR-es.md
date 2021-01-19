@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCK8XXR-es Aigital [Versión Español] Bluetooth Manos Libres Coche Kit...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

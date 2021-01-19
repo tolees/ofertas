@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QF5FTR-es Suhctup Funda Compatible con Huawei Mate 20X Carcasa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

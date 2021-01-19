@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT24SMV-es New Balance 574v2 Zapatillas para Hombre Verde...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.81 EUR
 currency: EUR
 price: 43.81

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074TL4CGJ-es AmazonBasics - Balón medicinal 7 kg'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.74 EUR
 currency: EUR
 price: 27.74

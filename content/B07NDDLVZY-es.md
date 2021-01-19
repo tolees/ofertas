@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDDLVZY-es Samsung Galaxy S10e - Smartphone 128GB Dual SIM Pantalla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 569.0 EUR
 currency: EUR
 price: 569.0

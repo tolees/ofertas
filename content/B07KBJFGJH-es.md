@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBJFGJH-es Funko- 5 Star: Aladdin: Jasmine 5 Estrellas Multicolor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WNZC8GS-es MEGALITH Relojes Hombre Relojes Grandes de Pulsera...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

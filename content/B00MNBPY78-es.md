@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MNBPY78-es Krups The Sub Vainilla VB650810 -Tirador de cerveza...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 100.0 EUR
 currency: EUR
 price: 100.0

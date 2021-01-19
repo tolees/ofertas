@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3DD31X-es Trudi Muñeca Chiara Ferragni Limited Edition S 69061'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

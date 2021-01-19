@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MWN3D8L-es Clarks Cloud Air T Zapatillas Altas para Niños Marrón...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

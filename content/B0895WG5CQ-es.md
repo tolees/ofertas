@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895WG5CQ-es LEILEI Cámara Web de Video USB Cámara de Video HD de 12MP...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

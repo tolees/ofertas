@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JJRXPP-es PUMA Urban SL Zapatillas Unisex Adulto Black White 42 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.01 EUR
 currency: EUR
 price: 22.01

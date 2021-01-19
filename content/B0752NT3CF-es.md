@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0752NT3CF-es Havaianas Brasil Logo Chanclas Unisex adulto Amarillo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

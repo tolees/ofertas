@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1YLM3-es PUMA Ralph Sampson Lo Zapatillas Unisex Adulto Rosa Pastel...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.71 EUR
 currency: EUR
 price: 23.71

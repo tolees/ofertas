@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZJXGF8-es Avène Aceite corporal - 250 ml.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

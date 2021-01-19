@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Z5W2ZM-es Elizabeth Arden Liquid Lip Gloss Finish Pintalabios Pretty...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

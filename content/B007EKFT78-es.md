@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007EKFT78-es Buiten speel Pulpo Waterparty'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.43 EUR
 currency: EUR
 price: 12.43

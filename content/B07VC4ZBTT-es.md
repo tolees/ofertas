@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC4ZBTT-es Calvin Klein Monogram Sweater Sudadera Blanco CK Black 0k4...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

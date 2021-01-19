@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ARRTHPO-es HP 364XL N9J74AE Pack de 4 Negro Cian Magenta y Amarillo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 76.37 EUR
 currency: EUR
 price: 76.37

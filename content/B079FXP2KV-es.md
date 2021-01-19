@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FXP2KV-es Samsung Clear View Standing Cover - Funda para Galaxy S9...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

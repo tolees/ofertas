@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2WMRK9-es Bosch MSM89160 MaxoMixx Batidora de Mano Con 3 accesorios...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 62.0 EUR
 currency: EUR
 price: 62.0

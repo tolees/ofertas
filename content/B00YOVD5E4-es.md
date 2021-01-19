@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YOVD5E4-es Thrustmaster T3PA Pro 3 Pedals Add-On - Classics...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 122.77 EUR
 currency: EUR
 price: 122.77

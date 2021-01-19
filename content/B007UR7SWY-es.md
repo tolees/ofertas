@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007UR7SWY-es Máscara de payaso monstruo Halloween'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.93 EUR
 currency: EUR
 price: 35.93

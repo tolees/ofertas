@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZYMH5M-es Jack & Jones Jorpannel Crew Neck. suéter Azul Light Grey...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.46 EUR
 currency: EUR
 price: 12.46

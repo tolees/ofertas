@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4NEG9E-es Epson ECOTANK ET2600 3IN1 Impresora de inyección de Tinta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 165.0 EUR
 currency: EUR
 price: 165.0

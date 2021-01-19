@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08766WSXN-es MWPO Cortinas de Cuentas Azules Cuerdas Colgantes de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 184.99 EUR
 currency: EUR
 price: 184.99

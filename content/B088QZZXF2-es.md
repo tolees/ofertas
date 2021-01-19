@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088QZZXF2-es king do way Funda para Barbacoa Impermeable 183x66x130cm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

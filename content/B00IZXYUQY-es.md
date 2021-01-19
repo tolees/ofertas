@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IZXYUQY-es Braun PLANCHA TS725 VAPOR 2400W ELOXAL AZUL BLAqc 2400 W 0...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.87 EUR
 currency: EUR
 price: 54.87

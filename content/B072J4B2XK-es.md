@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072J4B2XK-es LifeTree Cubiertas De Enfermería | Poncho de Enfermería |...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

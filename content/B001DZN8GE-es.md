@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001DZN8GE-es Epson Durabrite Ultra Ink para Stylus SX600/B40W/BX600FW...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.15 EUR
 currency: EUR
 price: 21.15

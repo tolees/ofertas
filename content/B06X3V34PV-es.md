@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X3V34PV-es Bosch Professional 2608615065 Bosch 2608615065-Disco de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.46 EUR
 currency: EUR
 price: 20.46

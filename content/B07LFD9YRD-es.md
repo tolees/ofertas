@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFD9YRD-es SWIM ELITE Gorro Piscina - Gorro Natación Mujer y Hombre -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.85 EUR
 currency: EUR
 price: 13.85

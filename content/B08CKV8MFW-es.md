@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CKV8MFW-es NINGNETI Adultos Reutilizables Pañuelos con banda Elástico...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

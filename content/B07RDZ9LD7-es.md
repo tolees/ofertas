@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDZ9LD7-es ASUS ROG Zephyrus M GU502GV-ES004T - Ordenador portátil...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1399.99 EUR
 currency: EUR
 price: 1399.99

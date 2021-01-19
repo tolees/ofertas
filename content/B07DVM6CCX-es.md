@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVM6CCX-es New Balance 574v2 Entrenadores para Hombre Turquesa Dark...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.66 EUR
 currency: EUR
 price: 51.66

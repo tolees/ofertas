@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7VKTGH-es Axe Dark Temptation Pack Duplo Ahorro - 2 Paquetes de 2 x...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HB5YTJ-es Panasonic SC-HTB488 - Barra De Sonido Cine 2.1 Canales 200...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

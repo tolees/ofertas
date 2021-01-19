@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXLFA76-es Cruzcampo Cerveza - Paquete de 24 x 250 ml - Total: 6000 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.07 EUR
 currency: EUR
 price: 2.07

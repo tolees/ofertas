@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FQKNR4-es Imanes Neodimio FEYG imanes pequeños potentes Imanes...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

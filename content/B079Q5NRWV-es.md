@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Q5NRWV-es Finca La Estacada Vino 12 Meses - 750 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

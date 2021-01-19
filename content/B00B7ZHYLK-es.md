@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B7ZHYLK-es Televes - Conector"f rapido" acodado blindado'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.8 EUR
 currency: EUR
 price: 1.8

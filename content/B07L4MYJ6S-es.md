@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4MYJ6S-es Lenovo L27m - 28 27.0 Inch FHD IPS FreeSync Gaming Monitor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

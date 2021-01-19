@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WH272ND-es RITUALS The Ritual of Sakura Exfoliante corporal 250 g'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

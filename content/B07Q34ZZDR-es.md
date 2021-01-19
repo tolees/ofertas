@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q34ZZDR-es Libertroy Gel de Sílice Galactorrhea Colección de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.52 EUR
 currency: EUR
 price: 1.52

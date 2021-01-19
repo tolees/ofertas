@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJRQJWB-es Oihxse Funda Compatible para Samsung Galaxy J4 2018 Ultra...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

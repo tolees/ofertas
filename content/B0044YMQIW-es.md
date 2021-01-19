@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0044YMQIW-es VonHaus 05/024 - Soporte de Pared para TV de 13-27...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX5J84Z-es Cybex Silver Juno 2-Fix 517000955 Silla de Coche Grupo 1...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 169.95 EUR
 currency: EUR
 price: 169.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5OYIII-es keeeper Caja de Almacenaje con Tapa Cars 39 x 29 x 27 cm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGBXYRX-es ghd curve soft curl - Tenacilla profesional con barril de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 130.99 EUR
 currency: EUR
 price: 130.99

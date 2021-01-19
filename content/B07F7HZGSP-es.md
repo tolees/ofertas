@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7HZGSP-es BRA Profesional Batería 5 Piezas Apta para Todo Tipo De...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

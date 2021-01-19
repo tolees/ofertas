@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M66QDXJ-es Badabulle B022002 - Anillo de baño plegable montaña'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

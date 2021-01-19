@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J5G5JUG-es Fotoprotector ISDIN Fusion Fluid Color SPF 50+ | Protector...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

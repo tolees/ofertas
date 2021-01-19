@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D1IZ1UQ-es LEABAGS Springfield Monedero de auténtico Cuero búfalo en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

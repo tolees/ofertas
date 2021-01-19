@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002WGIY1C-es Superga 2750 COTU Classic Zapatillas Unisex Negro Full...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.72 EUR
 currency: EUR
 price: 35.72

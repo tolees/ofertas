@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WIM8U3W-es Tratto Video 830201 - Marcadores fluorescente color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

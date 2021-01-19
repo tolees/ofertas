@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CKLLHRW-es DeWalt DWST17888 - TSTAK Trolley'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

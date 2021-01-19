@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075Q6SJYJ-es Crosstour Cámara de Coche Dash CAM 1080P Full HD...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

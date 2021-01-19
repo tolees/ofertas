@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J49R9CT-es Misfit Smartwatch MIS7203'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 117.66 EUR
 currency: EUR
 price: 117.66

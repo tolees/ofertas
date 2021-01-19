@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0749Q6LRQ-es Bosch TAS6004 Tassimo My Way Cafetera de cápsulas 1500 W...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 57.58 EUR
 currency: EUR
 price: 57.58

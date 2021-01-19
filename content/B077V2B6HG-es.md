@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077V2B6HG-es TROTEC Convector Cristal de Diseño TCH 2011 E 2000 W...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

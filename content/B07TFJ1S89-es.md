@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TFJ1S89-es The North Face M Merak 1/4 Forro Polar Hombre Yellow/TNF L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.16 EUR
 currency: EUR
 price: 55.16

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZCBEPD0-es Party Fiesta Cubo Golosinas 1 5 Kg'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

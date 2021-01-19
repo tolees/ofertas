@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0746QNCJQ-es Plantronics Blackwire 5220 - Auriculares con micrófono...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

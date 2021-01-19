@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0786M9QTZ-es PUMA Liga Training Pants Core Jr Pantalones Unisex Niños...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

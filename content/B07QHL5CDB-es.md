@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHL5CDB-es Pablosky 334510 Mocasines Unisex niño Negro Negro Negro 25 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

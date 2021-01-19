@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y5SQTJ-es Tuc Tuc Biscuit - Bolsa maternidad y cambiador color gris'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.15 EUR
 currency: EUR
 price: 41.15

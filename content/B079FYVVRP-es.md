@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FYVVRP-es Sveon SAC140 - Cargador de portátil Color Negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

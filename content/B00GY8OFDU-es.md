@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GY8OFDU-es Puma Suede Classic + Zapatillas Unisex Adulto Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 56 EUR
 currency: EUR
 price: 56

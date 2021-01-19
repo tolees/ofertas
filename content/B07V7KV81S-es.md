@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7KV81S-es Death Stranding'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.2 EUR
 currency: EUR
 price: 41.2

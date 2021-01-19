@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JD1MT-es Clarks Un Maui Lace Zapatillas para Mujer Azul Navy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.91 EUR
 currency: EUR
 price: 30.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCNN2TN-es find. 16563 vestido fiesta mujer Rosa Old Rose/gold 44...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

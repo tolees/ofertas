@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ9BBH8-es Under Armour Streaker 2.0 Racer Tanque Mujer Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.91 EUR
 currency: EUR
 price: 13.91

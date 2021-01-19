@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWRH5C8-es riou Bikini Conjuntos de Bikinis para Mujer Push Up...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.97 EUR
 currency: EUR
 price: 1.97

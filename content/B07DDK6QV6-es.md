@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDK6QV6-es Marca Amazon - find. Rose Print Sudadera Mujer Multicolor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

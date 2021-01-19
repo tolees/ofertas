@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BHL2WB0-es Police 14536JSB/12A - Reloj mecánico para hombre con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 134.95 EUR
 currency: EUR
 price: 134.95

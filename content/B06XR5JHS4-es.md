@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XR5JHS4-es Nike Revolution 4 PSV Zapatillas de Entrenamiento Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.65 EUR
 currency: EUR
 price: 22.65

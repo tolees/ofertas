@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L136WCD-es Under Armour AF Po Big Logo Graphic Sudadera Hombre Negro LG'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.17 EUR
 currency: EUR
 price: 36.17

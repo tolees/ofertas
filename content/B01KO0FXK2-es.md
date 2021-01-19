@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KO0FXK2-es Chasen Bambú Herramienta Batidor de Polvo Matcha Té...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.76 EUR
 currency: EUR
 price: 2.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085DFSKXV-es PUTUO Calcetines de Dedos Hombre Calcetines Cortos de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

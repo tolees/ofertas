@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SABYO1M-es Nike Everyday Lightweight Crew Trainings Socks 3 Pairs...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

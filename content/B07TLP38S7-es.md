@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLP38S7-es Clarks Sift Lace Zapatillas para Mujer Blanco White Combi...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.04 EUR
 currency: EUR
 price: 30.04

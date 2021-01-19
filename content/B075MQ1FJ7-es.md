@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075MQ1FJ7-es Belkin Cable de Carga USB 2.0 USB-A a USB Type C USB-C de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

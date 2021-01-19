@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084JSHQG7-es Krups Dolce Gusto Lumio KP130810 15 Bares de presión -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

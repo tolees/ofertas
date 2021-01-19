@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0796LKBLY-es RELIFE REBUILD YOUR LIFE Banco Musculación Abdominales...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

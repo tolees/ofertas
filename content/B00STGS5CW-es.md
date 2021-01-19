@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00STGS5CW-es Energy Tower 5 Torre de Sonido con Bluetooth y Mando a...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 63.92 EUR
 currency: EUR
 price: 63.92

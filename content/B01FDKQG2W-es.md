@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FDKQG2W-es Faber-Castell 111260 - Estuche-soporte de cartón con 60...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

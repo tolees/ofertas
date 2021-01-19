@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002W5GM9O-es Verbatim Store N Go Pinstripe - Memoria USB de 32 GB 60...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

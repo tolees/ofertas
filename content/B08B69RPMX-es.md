@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B69RPMX-es Nuevo 20PCS NE555P NE555 DIP-8 TEMPORIZADORES BIPOLARES...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.51 EUR
 currency: EUR
 price: 1.51

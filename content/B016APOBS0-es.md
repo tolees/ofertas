@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016APOBS0-es Twistshake 78012 - Biberón color Blanco'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

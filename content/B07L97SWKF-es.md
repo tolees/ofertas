@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L97SWKF-es Under Armour Armour Mid Crossback Sujetador Deportivo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.67 EUR
 currency: EUR
 price: 26.67

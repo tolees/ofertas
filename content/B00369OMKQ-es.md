@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00369OMKQ-es Mannesmann M53255 - Juego de herramientas para roscar de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 122.16 EUR
 currency: EUR
 price: 122.16

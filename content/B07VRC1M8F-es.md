@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRC1M8F-es Tommy Hilfiger Organic Cotton Silk V Neck Pantalones Rosa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.29 EUR
 currency: EUR
 price: 28.29

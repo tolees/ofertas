@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TDTI3Y4-es L Oréal Paris Perfilador de Cejas Brow Artist Genius Kit 001'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.22 EUR
 currency: EUR
 price: 4.22

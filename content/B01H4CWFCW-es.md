@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H4CWFCW-es PUMA Tazon 6 FM Zapatillas para Correr de Carretera para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

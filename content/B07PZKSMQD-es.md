@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZKSMQD-es NWOUIIAY Cargador de Batería Coche Mantenimiento...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

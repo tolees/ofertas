@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DCKTWDK-es [casa.pro] Set de 2 tumbonas plegables 190cm blancas con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.79 EUR
 currency: EUR
 price: 59.79

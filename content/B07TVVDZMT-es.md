@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVVDZMT-es Skechers Moreno Zapatillas para Hombre Azul Navy Mesh Nvy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.76 EUR
 currency: EUR
 price: 44.76

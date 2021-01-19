@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JCKBCDQ-es Tarjeta Micro SD 1024GB de alta velocidad Clase 10 Micro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

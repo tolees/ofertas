@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085Y2GN4F-es Milacolato 8 Pares de Aretes de Plata de ley 925 Circle...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

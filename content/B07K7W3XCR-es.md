@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7W3XCR-es Reebok Rapide Mu Zapatillas de Gimnasia para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.25 EUR
 currency: EUR
 price: 26.25

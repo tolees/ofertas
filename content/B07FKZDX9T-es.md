@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKZDX9T-es Trangoworld PC008106 Pantalón Largo Mujer Azul Profundo XS'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

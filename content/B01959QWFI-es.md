@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01959QWFI-es Intex 57181NP - Piscina hinchable rectangular 229 x 147 x...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

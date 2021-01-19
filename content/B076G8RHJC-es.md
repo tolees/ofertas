@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076G8RHJC-es PUMA Smash V2 L JR Zapatillas Unisex niños Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

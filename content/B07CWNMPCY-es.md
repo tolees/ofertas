@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CWNMPCY-es Bveyzi Mujeres RFID Bloqueo Billetera Cuero Zip Alrededor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.46 EUR
 currency: EUR
 price: 32.46

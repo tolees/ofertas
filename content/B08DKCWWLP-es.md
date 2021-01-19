@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DKCWWLP-es Sauber - Frigorífico Combi SERIE 3-176B - Eficiencia...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 259.0 EUR
 currency: EUR
 price: 259.0

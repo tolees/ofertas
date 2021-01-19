@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWRPG55-es Tamaris 1-1-28339-24 Sandalia con Pulsera para Mujer Rosa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.02 EUR
 currency: EUR
 price: 15.02

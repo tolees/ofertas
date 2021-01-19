@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVTMHMW-es Women s Secret Bralettes 1 Deep Crop Top Corto Negro Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.86 EUR
 currency: EUR
 price: 10.86

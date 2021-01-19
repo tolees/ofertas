@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKLG2WC-es Armani ExchangeShiny Liz - Small Shoulder...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BYG3VC8-es Nike T-Lite 11 Zapatillas de Cross Training para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.6 EUR
 currency: EUR
 price: 33.6

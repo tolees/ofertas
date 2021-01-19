@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYZV4H-es PUMA Storm Pulse Zapatillas Unisex Adulto Black-Castlerock...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.11 EUR
 currency: EUR
 price: 23.11

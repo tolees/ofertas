@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0728DCBGS-es Reishi Neo Defensas Complemento Alimenticio 30 Cápsulas'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

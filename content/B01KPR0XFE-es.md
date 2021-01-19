@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KPR0XFE-es Candy CMXC30DCS Horno Microondas con Grill Capacidad 30L...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 152.15 EUR
 currency: EUR
 price: 152.15

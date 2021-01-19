@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KTGI4UW-es Tangle Teezer Compact Styler Hello Kitty Peine Rosa - 150 gr'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.35 EUR
 currency: EUR
 price: 9.35

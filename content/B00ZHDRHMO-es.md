@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZHDRHMO-es GoPro ABSSC-001 Casey - Estuche Impermeable para Cámara +...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.45 EUR
 currency: EUR
 price: 43.45

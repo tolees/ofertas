@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B03ADXE-es Panasonic Lumix DC-TZ80 - Cámara Compacta de 18 1 MP Super...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 285.76 EUR
 currency: EUR
 price: 285.76

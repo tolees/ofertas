@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1GLB2L-es Clarks Un Maui Mid Zapatillas Altas para Mujer Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.76 EUR
 currency: EUR
 price: 15.76

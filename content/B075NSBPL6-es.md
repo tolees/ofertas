@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NSBPL6-es Trangoworld Trx2 Stretch Pro Pullover Hombre Naranja...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

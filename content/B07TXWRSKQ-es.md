@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXWRSKQ-es Kipling Cindy Carteras para Mujer Rojo Metallic Rust...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.16 EUR
 currency: EUR
 price: 21.16

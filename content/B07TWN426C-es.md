@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWN426C-es Wrangler Skinny Vaqueros Blue Powder 15L 30W / 30L para Mujer'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.8 EUR
 currency: EUR
 price: 32.8

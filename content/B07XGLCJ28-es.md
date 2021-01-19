@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGLCJ28-es Skechers DARLOW REMEGO Zapatillas para Hombre Tela Vaquera...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAGL1HX-es Dymatize Elite Whey Strawberry Blast 2 1Kg - Pulverizador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.63 EUR
 currency: EUR
 price: 34.63

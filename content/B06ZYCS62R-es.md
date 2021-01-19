@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZYCS62R-es Nikkon D7500 - Cámara réflex Digital de 20.9 MP Pantalla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1239.0 EUR
 currency: EUR
 price: 1239.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9RWRH6-es PUMA JARO Metal WNS Zapatillas de Running para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.63 EUR
 currency: EUR
 price: 25.63

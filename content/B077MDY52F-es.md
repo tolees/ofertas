@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MDY52F-es Puma Basket Heart Patent Wn s Zapatillas para Mujer Beige...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

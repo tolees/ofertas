@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085QL3VZG-es Gel hidroalcoholico para la limpieza y desinfección de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.4 EUR
 currency: EUR
 price: 12.4

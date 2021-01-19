@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07741VXTR-es Adidas Stan Smith Zapatillas de Deporte para Hombre Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

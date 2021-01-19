@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008L16QMQ-es Poldark - La Serie Completa [DVD]'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10 EUR
 currency: EUR
 price: 10

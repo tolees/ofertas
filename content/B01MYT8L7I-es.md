@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYT8L7I-es Audio Pro Addon T5 - Altavoz inalámbrico Color Blanco'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

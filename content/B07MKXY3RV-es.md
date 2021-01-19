@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKXY3RV-es Automático Dispensador de Pasta de Dientes y Conjunto de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

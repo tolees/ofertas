@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNVPM7M-es Clarks Jillian Rise Sandalia con Pulsera para Mujer Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.27 EUR
 currency: EUR
 price: 33.27

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004UDLUWU-es Master Lock 1551 Mosquetón Ajustable 0.90m Cable En...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

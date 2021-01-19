@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YY4P2J-es Adidas Samba OG Zapatillas de Gimnasia para Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

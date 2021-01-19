@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVQL1R8-es Artpad Nordic Modern Milky Glass Ball Lámpara de pared Luz...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.54 EUR
 currency: EUR
 price: 27.54

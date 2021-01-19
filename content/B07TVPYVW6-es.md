@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVPYVW6-es KiplingBaroeMujerMonederosRojo Metallic Rust 20.5x10x7.5...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.32 EUR
 currency: EUR
 price: 13.32

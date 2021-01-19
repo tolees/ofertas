@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LUIKK3I-es Adidas Stan Smith Zapatillas de Deporte Unisex Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 66.49 EUR
 currency: EUR
 price: 66.49

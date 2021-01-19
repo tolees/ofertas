@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7SF67S-es Cif - Crema de limpieza - 750 ml - [Pack de 7]'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.46 EUR
 currency: EUR
 price: 12.46

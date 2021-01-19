@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2FG1BM-es HP 27MX - Monitor 27" velocidad de 144 Hz Tecnología AMD...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 249.01 EUR
 currency: EUR
 price: 249.01

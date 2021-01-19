@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q82YB6R-es Universal Solar LLEVÓ el Coche Portavasos Estera...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.38 EUR
 currency: EUR
 price: 3.38

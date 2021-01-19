@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759HQHGD-es Funko Pop!- Rick & Morty Jerry Figura de Vinilo 22962'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6NCKTG-es Lico Cathrin Botas de Nieve para Niñas Rosa Pink/Silber 25 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

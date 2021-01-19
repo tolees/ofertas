@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYMHGV6-es San Ignacio Q2837 Set 3 Piezas sartenes Ø20 Ø24 Ø28 cms...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7RS5DS-es MEDION ERAZER P6689 - Portátil gaming 15.6" FullHD Intel...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 599.99 EUR
 currency: EUR
 price: 599.99

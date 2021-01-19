@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AK22GJU-es NIKE Swoosh - Diadema para Mujer Mujer N.JN.D6.010.OS...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

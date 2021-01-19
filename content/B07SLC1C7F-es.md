@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLC1C7F-es New Balance Fresh Foam Evare Zapatillas para Correr de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.53 EUR
 currency: EUR
 price: 45.53

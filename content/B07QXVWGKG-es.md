@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXVWGKG-es Taladro G★LAXIA 510W Taladro Eléctrico 0-3000RPM Velocidad...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

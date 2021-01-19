@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPD8GX-es Kipling Baroe S Monederos para Mujer Negro Carbon Metallic...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.81 EUR
 currency: EUR
 price: 8.81

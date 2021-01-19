@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081HFLBNN-es Ibergrif M22115W-2 - Grifo Mezclador de Cocina Profesional...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.59 EUR
 currency: EUR
 price: 49.59

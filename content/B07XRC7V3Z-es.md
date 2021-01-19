@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRC7V3Z-es DANISH ENDURANCE Slip para Hombre en Coton Pack de 6 2 x...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

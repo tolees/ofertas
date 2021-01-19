@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW7JY8K-es Skechers Breathe-easy - Sole-full Zapatillas sin cordones...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 33.26 EUR
 currency: EUR
 price: 33.26

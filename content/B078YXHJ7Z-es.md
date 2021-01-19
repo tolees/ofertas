@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YXHJ7Z-es Calzoncillo tanga sexi sensual erotico para hombres. TALLA...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

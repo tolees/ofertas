@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FJJMYX-es PC Webcam USB Cámara Web con Micrófono Incorporado Que...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

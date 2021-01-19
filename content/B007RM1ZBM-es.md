@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007RM1ZBM-es Grohe Concetto - Grifo de lavabo mural 1/2"Tamaño S color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 120.99 EUR
 currency: EUR
 price: 120.99

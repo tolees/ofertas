@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB85K2B-es PUMA BND Long Tight Mallas Deporte Hombre Black L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

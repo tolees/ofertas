@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0006SRS5G-es Remington Stylist HC363C - Máquina de Cortar Pelo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49
@@ -26,9 +26,9 @@ Tienes [Remington Stylist HC363C - Máquina de Cortar Pelo Profesional  Kit 8 Ac
 
 ℹ️:
 
-- Incluye maletín, 3 pinzas separadoras, capa de peluquero, peine, tijeras y cepillo para el cuello
 - Dispone de 8 peines para distintas longitudes de 3 a 25 milímetros
 - Funciona tanto con cable como inalámbrico
 - Cortapelos con cuchillas autoafilables
+- Incluye maletín, 3 pinzas separadoras, capa de peluquero, peine, tijeras y cepillo para el cuello
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0006SRS5G/?tag=tolees-21)

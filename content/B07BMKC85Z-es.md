@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMKC85Z-es Fantasy Flight Games- AT-RT FFSWL04'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

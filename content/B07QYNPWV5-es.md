@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYNPWV5-es Speedo Minnie Placement con Espalda en U Bañador Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

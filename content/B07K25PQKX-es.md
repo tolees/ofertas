@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K25PQKX-es Hurley M Icon Stretch Volley 17 Bermudas Hombre Obsidian'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.06 EUR
 currency: EUR
 price: 23.06

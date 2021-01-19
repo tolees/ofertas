@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5PXGD4-es Merrell Bare Access Flex Zapatillas Deportivas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.79 EUR
 currency: EUR
 price: 34.79

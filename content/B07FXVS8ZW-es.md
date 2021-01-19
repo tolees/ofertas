@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXVS8ZW-es Brother HL-L3270CDW - Impresora láser color Wifi USB 2.0...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

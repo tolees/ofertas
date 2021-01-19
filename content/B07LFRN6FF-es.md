@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRN6FF-es Geox D New ANNYA Mid A Zapatos de Tacón para Mujer Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.48 EUR
 currency: EUR
 price: 35.48

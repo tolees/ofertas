@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BDT7VJ-es Grsta Botella de Agua Acero Inoxidable sin BPA Pared...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

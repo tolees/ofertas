@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDJMDWS-es VistaMax | Potente optimizante y protector de la visión |...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

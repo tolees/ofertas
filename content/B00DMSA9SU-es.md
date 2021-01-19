@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DMSA9SU-es Trixie 13171 - Rejilla Seguridad para Coche Ancho: 96–163...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 56.85 EUR
 currency: EUR
 price: 56.85

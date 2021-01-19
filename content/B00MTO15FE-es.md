@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MTO15FE-es Max Factor Skin Luminizer Base de Maquillaje Líquida Tono...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.09 EUR
 currency: EUR
 price: 4.09

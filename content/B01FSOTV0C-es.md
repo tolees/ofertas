@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FSOTV0C-es BABY HEROE - Cinturón de seguridad embarazada. Cinturón de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

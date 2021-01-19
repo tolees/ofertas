@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005FJSVHK-es Epson C13T70124010 - Cartucho de tinta cian Ya disponible...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HZGRVM4-es Maybelline New York City Bronzer Polvos Bronceadores Mate...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0047O0LKE-es Medisana Humidificador UHW 32 W plástico Plateado'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

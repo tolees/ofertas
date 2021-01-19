@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GD6QXCS-es E-concept Stormtrooper Edition.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.83 EUR
 currency: EUR
 price: 38.83

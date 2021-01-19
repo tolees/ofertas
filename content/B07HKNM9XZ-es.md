@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKNM9XZ-es Under Armour UA W Aura Trainer Zapatillas Deportivas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

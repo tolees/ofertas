@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WMMG2TG-es Crucial Ballistix Tactical Tracer BLT2K8G4D32AET4K RGB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

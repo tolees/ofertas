@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDTSI2X-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros 3D Dark Aged...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

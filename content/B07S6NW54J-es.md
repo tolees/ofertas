@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6NW54J-es PUMA X-Ray Game Zapatillas Unisex-Adulto Blanco White/Gray...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.01 EUR
 currency: EUR
 price: 38.01

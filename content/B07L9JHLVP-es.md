@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9JHLVP-es Caja de Paternina Reserva D.O. Rioja Vino tinto - 6...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.82 EUR
 currency: EUR
 price: 31.82

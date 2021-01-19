@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0052EDC8Q-es STERADENT - STERADENT 60+30 TRIPLE AC'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.11 EUR
 currency: EUR
 price: 9.11

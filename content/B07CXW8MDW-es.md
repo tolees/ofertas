@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXW8MDW-es Salomon Ellipse 2 GTX W Zapatillas de Trail Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 58.81 EUR
 currency: EUR
 price: 58.81

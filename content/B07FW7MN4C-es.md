@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FW7MN4C-es SD Toys- Data Llavero Cabezon Goma Pokis The Goonies...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

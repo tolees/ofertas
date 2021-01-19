@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB5FZ99-es Lebze Muselina Manta Bebé -"Diseño de Zorro" Muselinas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

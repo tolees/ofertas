@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9RST68-es Michael Kors MKT5046 - Smartwatch'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 230.0 EUR
 currency: EUR
 price: 230.0

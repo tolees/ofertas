@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078KVY1PJ-es Juguete para niños Ice Cream Trolley Juega House Toy Juego...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

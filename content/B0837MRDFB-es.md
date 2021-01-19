@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0837MRDFB-es TANBURO Grifo de cocina Mezclador de cocina giratorio de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

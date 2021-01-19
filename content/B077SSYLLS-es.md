@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SSYLLS-es Puma Liga Baselayer Short Tight Pantalones Cortos Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.36 EUR
 currency: EUR
 price: 18.36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00004SUJT-es HP 23 - Cartucho de impresión - 1 x Amarillo Cian Magenta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.25 EUR
 currency: EUR
 price: 47.25

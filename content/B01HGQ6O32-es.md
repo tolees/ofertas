@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HGQ6O32-es duehome Nordik - Pack 4 sillas Color Blanco Silla réplica...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

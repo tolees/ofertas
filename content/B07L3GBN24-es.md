@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3GBN24-es Tommy Hilfiger Tommy Stripe Retro Sneaker Zapatillas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

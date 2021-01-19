@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLKCRP6-es Pegatinas de pared de imitación de ladrillo tridimensional...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

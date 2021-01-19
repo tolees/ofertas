@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T2KHB5-es Puma LIGA Casuals Shorts Pantalones Cortos Hombre Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072M3GJBG-es Silver HT 17119 - Adaptador tipo-C GN30H a Ethernet y HUB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

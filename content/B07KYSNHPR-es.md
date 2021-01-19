@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYSNHPR-es Nike Star Runner 2 Zapatillas de Atletismo Unisex niño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

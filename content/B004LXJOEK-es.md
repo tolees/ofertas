@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LXJOEK-es NYX Professional Makeup Pintalabios Soft Matte Lip Cream...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRK1M3H-es Valencia F.C. - Pulsera Valencia Club De Fútbol Fashion...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

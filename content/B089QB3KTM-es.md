@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089QB3KTM-es Extensor para mascarilla para sujetar la mascarilla sin...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

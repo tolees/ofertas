@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZWNGW5-es Salomon X Radiant Zapatillas de Senderismo para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

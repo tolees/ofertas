@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWRSCSK-es Philips Avent SCF798/02 - Vaso con pajita flexible 300 ml...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.04 EUR
 currency: EUR
 price: 7.04

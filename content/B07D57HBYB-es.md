@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D57HBYB-es COMVIP Mujer cobre'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

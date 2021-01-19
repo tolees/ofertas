@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M6DRQMO-es Jata Hogar 762 Balanza electrónica dietética Capacidad 5kg...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

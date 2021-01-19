@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR7F44B-es Under Armour UA I Will 2.0 SS - Camiseta Hombre Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GUXUS7U-es Targus TSS93311EU Pro-tek - Funda para Dispositivos de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

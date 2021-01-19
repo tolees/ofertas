@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N179LNL-es Helly Hansen Outdoor Aire Libre 10l Colegio Escuela...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.64 EUR
 currency: EUR
 price: 20.64
@@ -26,8 +26,8 @@ Tienes [Helly Hansen Outdoor Aire Libre 10l Colegio Escuela Mochilla  Unisex ni�
 
 🔎:
 
+- Correa de pecho ajustable con hebilla
 - Gran compartimento principal accesible con cremallera
 - Volumen 10L - 30cm x 13cm x 20cm
-- Correa de pecho ajustable con hebilla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N179LNL/?tag=tolees-21)

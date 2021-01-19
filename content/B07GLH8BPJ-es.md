@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLH8BPJ-es Luces de Botella de Vino con Corcho 10 Unidades Funciona...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.7 EUR
 currency: EUR
 price: 10.7

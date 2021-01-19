@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018EMSYG2-es Silver HT 111932940199 - Mini Teclado Universal...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084XPWQHV-es Bergner PK1783 3 Piezas Ø20/Ø24/Ø28 sartenes de Aluminio...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

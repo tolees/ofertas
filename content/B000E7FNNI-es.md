@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000E7FNNI-es K&N RC-4650DR funda para filtro de aire Coche y Moto'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.69 EUR
 currency: EUR
 price: 31.69

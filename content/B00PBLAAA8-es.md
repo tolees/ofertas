@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PBLAAA8-es Mercedes-Benz M1039 Hombre Negro Schwarz 58'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.67 EUR
 currency: EUR
 price: 25.67

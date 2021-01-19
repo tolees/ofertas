@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V27WWWC-es Juego de herramientas de perforación 4 piezas/juego de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

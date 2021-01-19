@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088D4YVKH-es Suhctup Funda Compatible para Xiaomi Mi Note 10/Note 10...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

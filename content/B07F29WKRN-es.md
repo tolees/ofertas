@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F29WKRN-es NEWHEY Bolsa Deporte Bolsa Gimnasio de Viaje Impermeable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.86 EUR
 currency: EUR
 price: 29.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005L8YXYA-es Madison U4167-10 - Reloj de Pulsera para Hombre Verde'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

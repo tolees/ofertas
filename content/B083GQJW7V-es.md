@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083GQJW7V-es 2 piezas de Cubierta de Cinturón de Seguridad para Bebé...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

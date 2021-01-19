@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y1L1NZ7-es Wrangler Arizona Jeans Azul Bright Stroke 1Q 31W / 34L...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.28 EUR
 currency: EUR
 price: 37.28

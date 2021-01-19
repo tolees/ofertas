@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9HXD26-es Under Armour Qualifier Pantalón Hombre Negro LG'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.19 EUR
 currency: EUR
 price: 53.19

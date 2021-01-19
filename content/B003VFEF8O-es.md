@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003VFEF8O-es SRAM 89.2711.114.105 Cadena 1071 Hollowpin 114 eslabones...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

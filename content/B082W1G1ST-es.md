@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082W1G1ST-es Ruichenxi Metal USB Pen Drive 256GB Mini Memorias USB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

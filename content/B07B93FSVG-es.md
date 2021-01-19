@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B93FSVG-es Clarks Original Desert - Botas para Hombre Marrón Beeswax...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

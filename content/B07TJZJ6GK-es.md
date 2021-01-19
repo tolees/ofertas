@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJZJ6GK-es Bestway 56681 | Steel Pro – Piscina exterior redonda 366 x...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 147.0 EUR
 currency: EUR
 price: 147.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ1QH61-es Relaxdays Set de 500 Palitos Helado Palos Manualidades...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

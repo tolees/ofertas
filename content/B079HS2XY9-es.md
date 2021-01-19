@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079HS2XY9-es El Reloj de Niños de Vinmori Reloj de Cuarzo con Dibujos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

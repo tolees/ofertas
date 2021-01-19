@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829JLPRF-es Guess GUESSTangey Girlfriend CarryallMujerNegroTaglia Unica'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.15 EUR
 currency: EUR
 price: 39.15

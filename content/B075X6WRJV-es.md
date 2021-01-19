@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075X6WRJV-es WMF Küchenminis Cocedor 1 Huevo 55 W con Tritan libre de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.26 EUR
 currency: EUR
 price: 16.26

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGG48R6-es Pablosky 064644 Botas para Bebés Amarillo Amarillo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

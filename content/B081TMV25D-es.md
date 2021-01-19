@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TMV25D-es adidas Predator TRN Balón de Fútbol Men s Black/Active...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

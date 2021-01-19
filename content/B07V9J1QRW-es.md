@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9J1QRW-es Seiko UK Limited - EU Pulsar Solar M Sport - Reloj...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 102.74 EUR
 currency: EUR
 price: 102.74

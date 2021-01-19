@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0PTTXE-es GoPro AWALC-002-ES - Cargador rápido de Puerto Dual...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

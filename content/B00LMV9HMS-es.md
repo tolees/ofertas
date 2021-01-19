@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LMV9HMS-es Skip Hop Zoo Dog - Tarro aislado del alimento 325ml 12m+'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

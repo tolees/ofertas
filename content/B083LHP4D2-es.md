@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LHP4D2-es Almohada de Viaje Cervical Viscolástica Ortopédica -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

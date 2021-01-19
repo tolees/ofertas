@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K16WJ2D-es adidas DQ1071 - Bolsa deportiva Unisex Adulto Black/White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

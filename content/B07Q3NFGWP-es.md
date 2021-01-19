@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3NFGWP-es Axe Collision Bodyspray Desodorante Leather & Cookies para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

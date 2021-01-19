@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQX16HN-es Clarks Sift Speed Zapatillas para Hombre Marrón British...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 60.28 EUR
 currency: EUR
 price: 60.28

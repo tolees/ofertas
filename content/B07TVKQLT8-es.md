@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVKQLT8-es Wrangler Texas Contrast Hombre Pantalones Beige Sand 58n...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.16 EUR
 currency: EUR
 price: 44.16

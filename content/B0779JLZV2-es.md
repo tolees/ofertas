@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779JLZV2-es Skechers Litebeams-Gleam N dream Zapatillas para Niñas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

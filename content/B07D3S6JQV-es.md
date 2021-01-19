@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3S6JQV-es Teclado de Unidad de Disco Flojo de Memoria USB de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

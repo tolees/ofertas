@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCM31QV-es Dye Hair Comb 5 piezas Professional Hair Dying Tool...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

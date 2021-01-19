@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082CVVJGM-es KISME para Espejo Flip Funda Samsung Galaxy A51 Funda...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

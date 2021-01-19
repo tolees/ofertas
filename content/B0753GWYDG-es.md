@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0753GWYDG-es ADIDAS Daily 2.0 Db0271 Zapatillas para Hombre Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

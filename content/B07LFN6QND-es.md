@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFN6QND-es Levi s LS Baby tee Camiseta Gris Smokestack Heather 0004...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016D55WPS-es Anne Moller ADN40 Belage Yeux Creme Antirides Contour Des...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

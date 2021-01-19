@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XKTRCMH-es PUMA Deck Waist Bag Riñonera Unisex-Adult Black OSFA'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

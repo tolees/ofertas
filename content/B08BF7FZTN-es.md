@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BF7FZTN-es NICEAO Almohadas Piernas Dormir Almohada Piernas Dormir...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.31 EUR
 currency: EUR
 price: 6.31

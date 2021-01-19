@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BK15X3W-es BOSHUN Pintar por Numeros para Adultos Niños Pintura por...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.11 EUR
 currency: EUR
 price: 8.11

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HFACY2Y-es Merrell Moab 2 GTX Zapatillas de Senderismo para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 88.68 EUR
 currency: EUR
 price: 88.68

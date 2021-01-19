@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DHDP9X-es Sandalia Plana para Mujer Nude 37 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.4 EUR
 currency: EUR
 price: 32.4

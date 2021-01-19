@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MRXFJ40-es INCREÍBLE Lima Pies Removedor De Piel Dura - MEJORES...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.21 EUR
 currency: EUR
 price: 11.21

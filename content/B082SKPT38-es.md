@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SKPT38-es Flamingueo Zapatillas Casa - Zapatillas de Casa para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

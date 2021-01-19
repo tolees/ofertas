@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01COUVYRQ-es BAMOER Plata de ley 925/1000'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

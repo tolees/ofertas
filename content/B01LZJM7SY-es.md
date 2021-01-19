@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZJM7SY-es Sigma F4 DG AF HSM Art - Objetivo para cámara para réflex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 911.16 EUR
 currency: EUR
 price: 911.16

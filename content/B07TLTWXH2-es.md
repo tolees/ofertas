@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLTWXH2-es Clarks Un Cosmo Strap Sandalia con Pulsera para Mujer Gris...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.28 EUR
 currency: EUR
 price: 43.28

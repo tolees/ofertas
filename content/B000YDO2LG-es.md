@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000YDO2LG-es OXO Good Grips Mandolina rodajas c/mango'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

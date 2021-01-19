@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C7OW3PG-es CAMPER Wabi Damen Flache Hausschuhe Grau Dark Gray 061 35...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.45 EUR
 currency: EUR
 price: 48.45

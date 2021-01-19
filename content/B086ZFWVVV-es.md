@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZFWVVV-es Artibetter 10 Piezas Máscara Extensión Gancho Boca Máscara...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.58 EUR
 currency: EUR
 price: 3.58

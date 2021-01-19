@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VB0C6U-es LE CREUSET Zen Tetera Acero Inoxidable Rojo Cereza 1 6 L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 61.0 EUR
 currency: EUR
 price: 61.0

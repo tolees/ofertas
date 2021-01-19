@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HPSG4X-es Under Armour Heatgear Armour Middy Corto Mujer Gris MD'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

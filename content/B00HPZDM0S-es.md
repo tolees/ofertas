@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HPZDM0S-es PUMA Basket Classic LFS Zapatillas para Hombre Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

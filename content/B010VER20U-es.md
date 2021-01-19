@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010VER20U-es Savic Paleta Gato Macro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

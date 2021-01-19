@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6M1JB6-es Tommy Hilfiger Urban D-ring Webbing Belt 3.5 Cinturón Blue...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

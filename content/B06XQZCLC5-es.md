@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XQZCLC5-es 7 Enanitos - Estuche portatodo Cuadrado Karactermanía...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XH5HWY-es MSI MAG FORGE 101M Mid-Tower - Caja de PC Gaming 3 x 120...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

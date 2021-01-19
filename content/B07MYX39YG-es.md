@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYX39YG-es Skechers Women s Stretch Flat Laced Slip Trainers Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.91 EUR
 currency: EUR
 price: 51.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8NPRZV-es Baseus Cable USB Tipo C Cargador Quick Charge 3.0 Tipo c...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

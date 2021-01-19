@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08923CJSM-es Cordón Goma Elástico Bandas Cordón Elástico Para Costura y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SX0TOOW-es Calvin Klein Modern Cotton Ropa Interior Gris Grey Heather...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

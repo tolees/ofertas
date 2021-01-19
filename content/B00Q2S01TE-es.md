@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q2S01TE-es Gigandet G6-015 - Reloj Correa de Acero Inoxidable Color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

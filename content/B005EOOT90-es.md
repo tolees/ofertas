@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005EOOT90-es Turtle Beach Ear Force XL - Auriculares de diadema...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

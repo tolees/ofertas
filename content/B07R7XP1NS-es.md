@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7XP1NS-es Columbia Buga Conjunto para la Nieve Niños Mezclar rosa /...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 56.66 EUR
 currency: EUR
 price: 56.66

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MUEDDGL-es Bestway 43140 - Isla Hinchable Sandía Φ188 cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

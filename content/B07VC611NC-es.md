@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC611NC-es PPXID - Zapatillas para Hombre Mokassin Slipper clásicas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.41 EUR
 currency: EUR
 price: 45.41

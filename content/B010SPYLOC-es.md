@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010SPYLOC-es Elizabeth Arden Always Red - Agua de toilette 50 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

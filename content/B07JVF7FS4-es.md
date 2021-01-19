@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVF7FS4-es Moleskine - Agenda Semanal de 12 meses para 2020 El...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.7 EUR
 currency: EUR
 price: 13.7

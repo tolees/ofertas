@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0851FQFVL-es Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.93 EUR
 currency: EUR
 price: 11.93

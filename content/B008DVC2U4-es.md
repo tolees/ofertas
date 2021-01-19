@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008DVC2U4-es Absorbente Universal 3 unid'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8 EUR
 currency: EUR
 price: 8

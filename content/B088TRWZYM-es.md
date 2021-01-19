@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TRWZYM-es IDEASY Tableta de Escritura LCD de 12 Pulgadas Tableta de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

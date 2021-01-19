@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00140VYBE-es Salter Báscula de Cocina Digital de Acero Inoxidable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

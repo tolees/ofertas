@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M8C7ZF6-es Kodak Cám. FZ201 Negra'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 110.1 EUR
 currency: EUR
 price: 110.1

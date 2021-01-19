@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1SG1N6-es [2 pack] Funda Apple Watch 40mm Series 4/Series 5...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

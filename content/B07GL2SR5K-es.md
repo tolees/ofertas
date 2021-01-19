@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GL2SR5K-es Cybex Gold - Silla de coche Solution S-Fix para coches con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 144.86 EUR
 currency: EUR
 price: 144.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BHLY8Z-es Camicia Dottore/Dottoressa Accessori Valigetta Dottore...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

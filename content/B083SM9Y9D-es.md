@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SM9Y9D-es Masajeador Portátil 10 modos ricaricabile'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

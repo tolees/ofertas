@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNXPQXQ-es Buff Lyne Calentador Tricot Y Polar Hombre Night Blue...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HTQRTC9-es adidas Campus ADV Zapatillas de Skateboard Unisex Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.85 EUR
 currency: EUR
 price: 54.85

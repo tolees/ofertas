@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0843ZPXLD-es Skip Liquido Ultimate Triple Poder Máxima Eficacia 2750 g'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

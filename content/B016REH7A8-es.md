@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016REH7A8-es adidas Parma 16 Kinder Sport Shorts Hombre Black/White 5-6Y'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

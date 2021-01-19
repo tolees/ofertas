@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQOL29A-es adidas Zx Flux Zapatillas de Entrenamiento Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

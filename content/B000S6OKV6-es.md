@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000S6OKV6-es Sorel Caribou Botas de Invierno para Hombre Marrón Bruno...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 84.2 EUR
 currency: EUR
 price: 84.2

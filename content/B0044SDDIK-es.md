@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0044SDDIK-es Seiko Reloj Analógico de Cuarzo para Hombre con Correa de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 115.57 EUR
 currency: EUR
 price: 115.57

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZS8KF4K-es Happy Home Designer + 1 Carte Amiibo Animal Crossing'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.21 EUR
 currency: EUR
 price: 9.21

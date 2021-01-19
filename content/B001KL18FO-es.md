@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001KL18FO-es Moulinex Vitae JU200045 - Licuadoras para Verduras y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPM9NWW-es LolaPix Toalla Surf Personalizada con Nombre o Texto |...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

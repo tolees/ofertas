@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C895GLL-es Diesel Pendiente DZ1864'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 91.71 EUR
 currency: EUR
 price: 91.71

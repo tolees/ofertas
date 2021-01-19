@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071XCCKK2-es Nautica Reloj Analogico para Hombre de Cuarzo con Correa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 78.73 EUR
 currency: EUR
 price: 78.73

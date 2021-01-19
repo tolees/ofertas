@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081W2D9YW-es Carpeta Clasificadora - ABClife Archivador acordeón 12...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

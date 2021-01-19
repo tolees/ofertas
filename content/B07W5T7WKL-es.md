@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5T7WKL-es GLOBE GS Chukka Zapatillas de Skateboard para Hombre Verde...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.19 EUR
 currency: EUR
 price: 32.19

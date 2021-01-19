@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001N2MLZG-es Helly Hansen HH LIFA Stripe Crew Ropa Interior Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.76 EUR
 currency: EUR
 price: 17.76

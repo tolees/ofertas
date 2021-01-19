@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYNGJ1-es PUMA Cali Wn s Zapatillas para Mujer Black-Teal Green 36 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.8 EUR
 currency: EUR
 price: 64.8

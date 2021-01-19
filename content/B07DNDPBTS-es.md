@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNDPBTS-es adidas Advantage Sneaker Mens Footwear White/Footwear...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.75 EUR
 currency: EUR
 price: 49.75

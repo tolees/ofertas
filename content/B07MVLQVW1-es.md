@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVLQVW1-es Napapijri Eils SS Polo Verde Green Forest 2 GE3 Small para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

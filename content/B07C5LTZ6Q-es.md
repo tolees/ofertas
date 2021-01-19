@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5LTZ6Q-es Removedor espinilla Chuangmeida Limpiador de Poros...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FC3HA12-es Gran Hotel - Serie Completa [DVD]'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

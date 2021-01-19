@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MN6YMR-es Bewater™ Corrector de Postura Espalda - Nueva versión 3.0...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.94 EUR
 currency: EUR
 price: 15.94

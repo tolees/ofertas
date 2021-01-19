@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XZVGZ31-es Tous Baby Lámpara de Noche en Forma de Oso 3 watts Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.3 EUR
 currency: EUR
 price: 55.3

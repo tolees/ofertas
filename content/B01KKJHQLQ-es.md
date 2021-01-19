@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KKJHQLQ-es HP 24o - Monitor Full HD de 24 1920x1080 panel TN 16:9...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 109.57 EUR
 currency: EUR
 price: 109.57

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD29QJ8-es MTNG Attitude 69867 Zapatillas para Mujer Blanco Zebro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.12 EUR
 currency: EUR
 price: 28.12

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WJDRMWK-es Taurus VB 02 Ventilador climatizador nebulizador 90 W 0...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

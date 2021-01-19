@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJMSL23-es Dularf Masajeador de Percusión Mano Portátil Masajeador de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.65 EUR
 currency: EUR
 price: 22.65

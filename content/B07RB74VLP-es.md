@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RB74VLP-es Star Wars - Electronic Mask Rp E9 Hasbro E5547EU4'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.28 EUR
 currency: EUR
 price: 32.28

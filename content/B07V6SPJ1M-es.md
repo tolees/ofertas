@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6SPJ1M-es Love MoschinoJc4247pp0aMujerCarteras de manoMarfil Ivory...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.96 EUR
 currency: EUR
 price: 69.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013PH9D5M-es 5 Piezas Memorias USB 8GB Pendrive Práctico USB 2.0 Flash...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.59 EUR
 currency: EUR
 price: 18.59

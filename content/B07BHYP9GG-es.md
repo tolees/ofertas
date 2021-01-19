@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHYP9GG-es Maleta de cabina Pepe Jeans Cambridge Roja rígida 55cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 78.7 EUR
 currency: EUR
 price: 78.7

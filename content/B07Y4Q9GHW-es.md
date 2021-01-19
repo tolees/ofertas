@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4Q9GHW-es Mycartridge 5 Compatibles Epson 603XL 603 XL Cartuchos de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

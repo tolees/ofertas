@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081KRXDK2-es ZXL Adornos Modernes Cerámica Escultura Einfaches...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 112.99 EUR
 currency: EUR
 price: 112.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRL1SNX-es Kipling Brush Pouch Neceser 20 cm 0.5 Liters Gris Metallic...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

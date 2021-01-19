@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FAO6HIA-es Cybex - Silla de coche grupo 1/2/3 Pallas silla de coche 2...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 174.99 EUR
 currency: EUR
 price: 174.99

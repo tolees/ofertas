@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NSIMFE-es Vans Old Skool Zapatillas Unisex Adulto Negro Black/White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

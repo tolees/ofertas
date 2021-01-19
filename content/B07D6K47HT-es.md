@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6K47HT-es Crock-Pot CSC051X Olla Multicooker Express para todo tipo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 74.25 EUR
 currency: EUR
 price: 74.25

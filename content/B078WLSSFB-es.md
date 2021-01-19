@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WLSSFB-es Relojes para Hombres LIGE Correa de Cuero Marrón Deportivo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FNON4EM-es Biosilk Volumizing Therapy Root Lift - lacas para el...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

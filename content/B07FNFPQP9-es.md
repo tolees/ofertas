@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNFPQP9-es Clarks Cloud Air T Zapatillas Altas para Niños Azul Navy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.29 EUR
 currency: EUR
 price: 16.29

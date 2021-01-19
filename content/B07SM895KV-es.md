@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SM895KV-es Funko- Pop Star Wars The Rise of Skywalker-Kylo REN Lights...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

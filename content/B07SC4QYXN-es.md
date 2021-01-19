@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SC4QYXN-es Helly Hansen Crew Insulator Chaqueta Hombre Grey Fog M'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 93.99 EUR
 currency: EUR
 price: 93.99

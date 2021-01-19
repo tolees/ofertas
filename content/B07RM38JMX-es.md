@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM38JMX-es Under Armour Undeniable 4.0 Duffle SM Deportes Bolsa De...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

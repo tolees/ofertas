@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0857YY2LP-es Zombie Army Trilogy'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

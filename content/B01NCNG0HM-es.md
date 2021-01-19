@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCNG0HM-es Tomshine 16 pcs Luz Foco Empotrable al Suelo IP67...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.39 EUR
 currency: EUR
 price: 34.39

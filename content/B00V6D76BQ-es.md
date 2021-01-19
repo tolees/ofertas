@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V6D76BQ-es YARDLEY English Rose Talco perfumado 200 g'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P1D11TK-es Gommy s Factory Golosina Coca colas - 12 de 90 gr. Total...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.51 EUR
 currency: EUR
 price: 8.51

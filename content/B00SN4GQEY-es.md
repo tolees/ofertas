@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SN4GQEY-es Chicco Steril Natural 3en1 - Esterilizador eléctrico de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

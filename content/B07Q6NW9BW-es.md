@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q6NW9BW-es Dockers by Gerli 45sp001 Zapatillas para Hombre Gris Grau...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

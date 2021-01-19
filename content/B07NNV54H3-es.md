@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNV54H3-es Under Armour UA W Charged Intake 4 Zapatillas de Running...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.86 EUR
 currency: EUR
 price: 42.86

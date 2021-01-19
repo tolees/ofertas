@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001V1RDXO-es Gum Cepillo de Dientes 40 unidades'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.55 EUR
 currency: EUR
 price: 3.55

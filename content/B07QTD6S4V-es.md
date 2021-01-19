@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTD6S4V-es Funko- Pop Star Wars The Rise of Skywalker-PoE Dameron...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

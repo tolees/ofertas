@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2FY7WK-es Dim Generous D4D58 Braguita Rojo Burdeos 6na Tamaño del...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.73 EUR
 currency: EUR
 price: 7.73

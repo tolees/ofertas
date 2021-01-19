@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0857DF1TG-es CHIKA10 Amira 06 Nude/LG.Pink Talla 39'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

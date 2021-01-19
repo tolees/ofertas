@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZQA9U9-es Vents TT-100 TT - Extractor en línea con flujo mixto 100...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.82 EUR
 currency: EUR
 price: 22.82

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WW1CGFZ-es Klarstein KonfiStar 40 olla para confituras - caldera de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

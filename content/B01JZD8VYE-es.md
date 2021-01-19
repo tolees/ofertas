@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JZD8VYE-es BOSS Trunk CO/EL Bóxer Negro Black 001 XX-Large Pack de 3...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.31 EUR
 currency: EUR
 price: 18.31

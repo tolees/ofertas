@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKM7NQ1-es Imperial Confort Helsinki - Colchón Viscoelástico de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 185.04 EUR
 currency: EUR
 price: 185.04

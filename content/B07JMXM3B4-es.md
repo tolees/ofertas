@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMXM3B4-es Timberland Splitrock 2 Waterproof Zapatillas Chukka para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 96.54 EUR
 currency: EUR
 price: 96.54

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0012RW0VC-es Bosch Professional GLI 12V-80 - Linterna a batería sin...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

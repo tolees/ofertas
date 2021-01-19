@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017SL6C6E-es Tommy Hilfiger Core Hilfiger Regular Polo Azul Sky Captain...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

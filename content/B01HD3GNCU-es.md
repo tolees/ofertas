@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HD3GNCU-es Pósteres Muestra Lata Arte de Cartel Café Placa Vintage...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC7TZ8T-es Hackett London Garment Dye Texture Pantalones Marrón Taupe...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.22 EUR
 currency: EUR
 price: 27.22

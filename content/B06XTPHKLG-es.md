@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XTPHKLG-es Pepe Jeans Original Basic L/S PM503803 Top de manga larga...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFVBT4Q-es L´Oreal París Dermo Expertise - Set de Regalo Incluye...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ID4TYEI-es Semillas Hortícolas - Zanahoria Nantesa 5 sel. Cilindro -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078BP58QB-es Superga 2750-cotbumpstrapj Zapatillas de Gimnasia Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.35 EUR
 currency: EUR
 price: 28.35

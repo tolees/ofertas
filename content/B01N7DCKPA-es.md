@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7DCKPA-es Barbecook 2235925000 Barbacoa PORTATIL Carlo Amarillo 43 5...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 104.06 EUR
 currency: EUR
 price: 104.06

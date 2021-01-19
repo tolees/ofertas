@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001CQY0M0-es Reebok F/S Hi 2431 Zapatillas de Deporte para Mujer Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

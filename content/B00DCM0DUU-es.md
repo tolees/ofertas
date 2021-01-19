@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DCM0DUU-es Fujifilm XF 27mm f/2.8 - Objetivo Apertura f/16-2.8 MILC...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 295.35 EUR
 currency: EUR
 price: 295.35

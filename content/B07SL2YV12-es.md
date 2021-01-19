@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SL2YV12-es adidas SPT 3s Short Pantalones Cortos de Deporte Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

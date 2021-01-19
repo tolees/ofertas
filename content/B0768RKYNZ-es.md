@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0768RKYNZ-es Hoover Jazz SM156WDP4 - Aspirador de mano sin cable hasta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.46 EUR
 currency: EUR
 price: 26.46

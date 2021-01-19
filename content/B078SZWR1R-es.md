@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SZWR1R-es Joseph Joseph Index 3 piezas Juego de tabla de cortar...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 63.03 EUR
 currency: EUR
 price: 63.03

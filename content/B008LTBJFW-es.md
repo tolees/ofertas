@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008LTBJFW-es Crucial CT2K8G3S160BM - Kit de Memoria para Mac de 16 GB 8...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 76.84 EUR
 currency: EUR
 price: 76.84

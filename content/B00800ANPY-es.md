@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00800ANPY-es No Name -30 - Delantal de algodón tamaño King Size Color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

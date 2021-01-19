@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCPKXFQ-es LIGHTAILING Conjunto de Luces Technic Porsche 911 GT3 RS...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

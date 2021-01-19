@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D7OKNCQ-es Maybelline New York - El Borrador Instant Anti Age...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.57 EUR
 currency: EUR
 price: 5.57

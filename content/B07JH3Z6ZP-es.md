@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH3Z6ZP-es Pepe Jeans Jose Pm701939 suéter Sailor 580 Medium para Hombre'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

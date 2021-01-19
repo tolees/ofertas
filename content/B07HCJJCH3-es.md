@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HCJJCH3-es P Prettyia 1 Par Cuernos Tornillos de Fijación Sonido para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

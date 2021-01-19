@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078Y4BZPD-es BRA Advanced Grill con rayas 28 cm aluminio fundido con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

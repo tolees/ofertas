@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018S1ODI2-es Orbegozo GDB 3600-Plancha Grill 36 cm Negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.93 EUR
 currency: EUR
 price: 21.93

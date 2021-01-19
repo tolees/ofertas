@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ2DGP8-es Superdry Orange Label Cotton Vee suéter Azul Darkest Navy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.19 EUR
 currency: EUR
 price: 21.19

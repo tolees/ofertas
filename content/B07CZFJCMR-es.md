@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZFJCMR-es Under Armour Performance 2.0 Polo Hombre Negro Black/Pitch...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.44 EUR
 currency: EUR
 price: 32.44

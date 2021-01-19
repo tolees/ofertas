@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4RRTJJ-es Tommy Hilfiger - Soft Turnlock Cc Holder Carteras Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.86 EUR
 currency: EUR
 price: 24.86

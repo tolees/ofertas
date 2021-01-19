@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPJC3ZF-es Ledger Nano S - V1.4 - Monedero Hardware de criptomonedas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.25 EUR
 currency: EUR
 price: 44.25

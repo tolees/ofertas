@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7Q5Q4Y-es American Tourister Soundbox - Spinner Large Expandable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 107.22 EUR
 currency: EUR
 price: 107.22

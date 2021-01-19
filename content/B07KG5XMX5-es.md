@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG5XMX5-es PUMA LQDCELL Origin Tech Zapatillas de Running para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 52.12 EUR
 currency: EUR
 price: 52.12

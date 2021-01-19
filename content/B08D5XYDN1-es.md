@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D5XYDN1-es Haberdashery Online Kit Mascarilla higiénica textil...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

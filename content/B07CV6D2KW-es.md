@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CV6D2KW-es JACK & JONES JFWALBANY Leather STS Biker Boots para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

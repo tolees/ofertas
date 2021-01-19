@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGZ7LKF-es Miquelrius 17284 - Cubilete Rosa Bella Garden'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

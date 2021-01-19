@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0743L1WYH-es Rowenta XD9060E0 Cartucho antical para generadores Easy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

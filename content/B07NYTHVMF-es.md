@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYTHVMF-es Skechers Solar Fuse Zapatillas para Hombre Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

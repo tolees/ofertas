@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081N4XHVH-es Decoración para tarta de cumpleaños de acrílico 6 Stück...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

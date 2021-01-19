@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VT24NSF-es Minutus Manta Fina de Punto para Verano Algodón 80 Cm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

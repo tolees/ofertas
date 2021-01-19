@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016MFI0LW-es Medisana FS 881 bañera de hidromasaje para pies con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.28 EUR
 currency: EUR
 price: 34.28

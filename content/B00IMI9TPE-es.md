@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IMI9TPE-es Atosa - Disfraz de rambo para mujer talla XL 22937'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.45 EUR
 currency: EUR
 price: 21.45

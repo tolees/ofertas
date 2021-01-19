@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZDNZKY-es Hummel Blade Plus Mini 9808 - Zapatillas de deporte Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

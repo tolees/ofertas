@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ61L9M-es New Balance Cm997hce Zapatillas para Hombre Plateado...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

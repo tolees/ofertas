@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YL3KNR1-es MTNG Attitude 84361B Zapatillas para Hombre Azul Wax Suede...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JPNYGNA-es ROC Pro Renove - Crema Anti Edad Unificante Textura Rica...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

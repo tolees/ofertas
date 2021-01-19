@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2LCW1Q-es Don Algodon Beach Edition Bolsa de Tela y de Playa para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.32 EUR
 currency: EUR
 price: 15.32

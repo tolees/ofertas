@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G6F8TOM-es Gant Contrast Color Pique - Polo con manga corta para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.28 EUR
 currency: EUR
 price: 45.28

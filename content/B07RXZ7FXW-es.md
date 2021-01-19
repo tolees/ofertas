@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXZ7FXW-es Pepe Jeans Sloane Pantalones Azul Chatham Blue 586 Talla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.56 EUR
 currency: EUR
 price: 30.56

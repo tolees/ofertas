@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071DW6FBC-es SELECTED HOMME Shnstraight-Scott 1001 St JNS Noos Jeans...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.21 EUR
 currency: EUR
 price: 26.21

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXCF51-es Women s Secret Concept Essentials Cordovan Sujetador de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.35 EUR
 currency: EUR
 price: 11.35

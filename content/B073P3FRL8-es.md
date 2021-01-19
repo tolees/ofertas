@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073P3FRL8-es Dreamzie - Protector de Colchón 90 x 190/200 cm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

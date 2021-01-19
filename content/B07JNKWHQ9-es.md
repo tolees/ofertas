@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNKWHQ9-es Cecotec Ready Warm 6600 Turbo Convection Plus - Convector...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.78 EUR
 currency: EUR
 price: 25.78

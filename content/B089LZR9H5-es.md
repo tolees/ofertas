@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089LZR9H5-es Dihope - Pantalón de deporte informal para hombre diseño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

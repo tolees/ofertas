@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NGBYGB4-es Anita Still-BH Fleur - Sujetador básico para mujer Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.31 EUR
 currency: EUR
 price: 26.31

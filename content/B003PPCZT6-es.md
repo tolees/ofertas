@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003PPCZT6-es Eastpak Provider Mochila 44 cm 33 L Gris Sunday Grey'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

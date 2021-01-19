@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007UZPNXM-es Lacoste L1230 Polo de Manga Corta para Hombre Blanco Blanc...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

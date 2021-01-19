@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSKWPK9-es KiplingDuo PouchMujerMonederosVerde Frozen Mint 20x14x1...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

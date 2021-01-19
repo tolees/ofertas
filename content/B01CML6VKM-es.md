@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CML6VKM-es Valentino Rossi VRKFL353102005 Sudadera Responder Casco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.57 EUR
 currency: EUR
 price: 11.57

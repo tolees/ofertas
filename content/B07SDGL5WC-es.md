@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDGL5WC-es Got2b - Perfume de cabello Ocean Vibe - 5 unidades de 75ml...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.61 EUR
 currency: EUR
 price: 9.61

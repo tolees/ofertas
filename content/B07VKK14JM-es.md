@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKK14JM-es Calvin Klein Trunk 2pk Bañador Negro Black with/White WB...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.74 EUR
 currency: EUR
 price: 19.74

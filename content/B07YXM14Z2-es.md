@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXM14Z2-es CRZ YOGA Mujer Naked Feeling Deportivos 7/8 Leggings Yoga...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079M59MSH-es American Tourister - Soundbox Spinner 55/20 Expansible 35...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 97.3 EUR
 currency: EUR
 price: 97.3

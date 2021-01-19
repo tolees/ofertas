@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RB7TRTJ-es Columbia Horizon Explorer Chaqueta Térmica Impermeable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 116.44 EUR
 currency: EUR
 price: 116.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087M2B5MM-es Bichiro Dispensador de jabón automático 450 ml...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

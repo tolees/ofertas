@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLXXWD-es Geox D Rubidia A Zapatillas para Mujer Gris Off White...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.81 EUR
 currency: EUR
 price: 45.81

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001ECR3A8-es Lékué coccion Blanca Malla Elástica para Cocer Los...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

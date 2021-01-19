@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRBNH9M-es Oral-B Genius 10000N - Cepillo Eléctrico Blanco con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 147.86 EUR
 currency: EUR
 price: 147.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZX86Y6-es adidas W C90 Tight Tights Mujer Black/White M/S'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

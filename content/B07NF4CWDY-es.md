@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NF4CWDY-es Olympus Objetivo M.Zuiko Digital ED 12-200 mm F3.5-6.3...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 669.99 EUR
 currency: EUR
 price: 669.99

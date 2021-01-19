@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K369BFP-es Adidas Vs Advantage Cl K Zapatillas de Deporte Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.6 EUR
 currency: EUR
 price: 24.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZUXTUU-es Casio Reloj de Pulsera W-S210H-1AVEF'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 35.67 EUR
 currency: EUR
 price: 35.67

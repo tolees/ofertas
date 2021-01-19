@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWF6V18-es Helly Hansen Tokyo Hoodie Hombre White 2XL'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.5 EUR
 currency: EUR
 price: 30.5

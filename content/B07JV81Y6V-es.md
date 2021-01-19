@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JV81Y6V-es 5 Star: Fortnite: Omega Full Armor'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SD1FPN7-es PUMA Future 5.3 Netfit FG/AG Botas de fútbol para Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.08 EUR
 currency: EUR
 price: 53.08

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001TMZDD2-es Brabantia 401084 - Cubo de Basura Touch Bin 2 x 20 litros...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 170.5 EUR
 currency: EUR
 price: 170.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K9YRGWW-es Original Album Classics. 5cd Slipcase'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

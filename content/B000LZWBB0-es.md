@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LZWBB0-es CLARINS Desodorante roll-on 50 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

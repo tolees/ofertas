@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089CPC34Y-es WXQ Tapa de Basura de Acero Inoxidable de Tipo Pedal...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

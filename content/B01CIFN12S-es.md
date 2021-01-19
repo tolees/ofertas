@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CIFN12S-es Tefal Expertise - Sartén de aluminio de 32 cm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

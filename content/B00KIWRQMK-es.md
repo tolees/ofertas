@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KIWRQMK-es Gigandet Reloj de Hombre Automático Sea Ground Reloj de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

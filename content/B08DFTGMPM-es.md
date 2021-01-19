@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFTGMPM-es 50 colores 100 colores hilo de punto de cruz hilo de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.37 EUR
 currency: EUR
 price: 3.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086GVW2T6-es Oihxse Transparente Funda para Xiaomi Redmi Note 5A...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

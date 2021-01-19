@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IHX4OTK-es Wild Stylers by Tecni.art - Depolish - Pasta...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.08 EUR
 currency: EUR
 price: 7.08

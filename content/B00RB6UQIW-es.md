@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RB6UQIW-es Sena SMH5D-UNIV Kit de auriculares e intercomunicador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 170.1 EUR
 currency: EUR
 price: 170.1

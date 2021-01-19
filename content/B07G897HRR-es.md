@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G897HRR-es New Balance Fuell Cell Propel Zapatillas de Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 60 EUR
 currency: EUR
 price: 60

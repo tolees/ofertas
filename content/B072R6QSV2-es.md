@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072R6QSV2-es White Shark GP de 2028 PC USB Game Pad Rojo'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.77 EUR
 currency: EUR
 price: 10.77

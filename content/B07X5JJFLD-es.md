@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X5JJFLD-es Funda para Xiaomi Redmi Note 8 Pro + Protector de Pantalla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

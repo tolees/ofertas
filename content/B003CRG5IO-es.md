@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003CRG5IO-es Wolfcraft 4868000 4868000-1 Cascos Anti-Ruido Standard SNR...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.11 EUR
 currency: EUR
 price: 6.11

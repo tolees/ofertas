@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8PGY23-es Huawei Y6 2019 - Smartphone de 6.09" RAM de 2GB Memoria de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

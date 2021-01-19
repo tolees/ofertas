@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074D9CHTP-es Casio Reloj Analogico-Digital para Mujer de Cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 62.97 EUR
 currency: EUR
 price: 62.97

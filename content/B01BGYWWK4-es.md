@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGYWWK4-es Magno - Gel de ducha Marine Fresh - 550ml pack de 6 Total:...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

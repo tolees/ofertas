@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY5IZ6A-es Rimmel London Oh My Gloss Tint Brillo de Labios Tono 100 -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

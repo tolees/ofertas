@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FT2P2Z-es LQLQO Mini humidificador Personal USB portátil ultrasónico...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

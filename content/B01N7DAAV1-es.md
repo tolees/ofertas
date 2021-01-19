@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7DAAV1-es The North Face Outerwear TNF Chaqueta Mujer Negro Tnf...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 78.62 EUR
 currency: EUR
 price: 78.62

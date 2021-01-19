@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MJLB55-es Klarstein Speed Iron V2 plancha de vapor - 2100 W depósito...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

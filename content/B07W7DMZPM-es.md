@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7DMZPM-es Ganchos para silla de ruedas Silla de ruedas Cochecito...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

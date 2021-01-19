@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SB0JUUW-es Serum Facial Acido Hialuronico Puro - Enriquecido con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

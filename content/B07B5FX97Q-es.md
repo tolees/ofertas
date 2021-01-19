@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B5FX97Q-es Trabanco Sidra Natural. Caja de 6 Botellas de 70 cl.'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

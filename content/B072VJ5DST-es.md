@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072VJ5DST-es Buff Fizz Tricot Calentador Polar Mujer Rosa Honeysuckle...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.73 EUR
 currency: EUR
 price: 11.73

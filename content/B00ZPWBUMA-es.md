@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZPWBUMA-es Roca - Brazo de pared para rociador de 400 mm . Duchas y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 40.6 EUR
 currency: EUR
 price: 40.6

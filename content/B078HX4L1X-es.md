@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HX4L1X-es Monix Siena - Set de cubiertos de 24 piezas con cuchillo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

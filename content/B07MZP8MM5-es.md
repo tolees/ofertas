@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZP8MM5-es Gioseppo 56139 Botas Clasicas para Niños Negro 26 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

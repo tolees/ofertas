@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKLZJTB-es Under Armour UA Ripple 2.0 Zapatillas de Running para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.26 EUR
 currency: EUR
 price: 28.26

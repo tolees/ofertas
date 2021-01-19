@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYWNV1R-es Lol Surprise - Disfraz Diva para niñas 5-6 años Rubies...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

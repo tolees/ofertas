@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FILJHIW-es Piscina Hinchable Infantil Bestway Deluxe Octagon Family...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

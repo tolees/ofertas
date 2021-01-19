@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HD9LY1O-es Instax Mini 70 Cámara instantánea analógica ISO 800 0.37x...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

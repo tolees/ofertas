@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I3LUY68-es Sony MDR-ZX310R - Auriculares de diadema cerrados sin...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79
@@ -27,12 +27,12 @@ En este momento está [Sony MDR-ZX310R - Auriculares de diadema cerrados  sin mi
 🔎:
 
 - Rango de frecuencia 10-24.000 Hz
+- connectivity_technology: Alámbrico
+- Diafragmas de neodimio de 30 mm
 - display_size: 1.0 inches
-- Cascos acolchados para una escucha cómoda
 - output_wattage: 1015.0 watts
 - Auriculares tipo diadema con sensibilidad de 98 dB/mW
-- connectivity_technology: Alámbrico
 - Diseño plegable compacto
-- Diafragmas de neodimio de 30 mm
+- Cascos acolchados para una escucha cómoda
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00I3LUY68/?tag=tolees-21)

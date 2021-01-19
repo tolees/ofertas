@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMZL2J7-es Athletic Club B-04-AC Botella Aluminio 500 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

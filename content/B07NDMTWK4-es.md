@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMTWK4-es Pepe Jeans MC Queen Short para Hombre Naranja Spice 193...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.85 EUR
 currency: EUR
 price: 28.85

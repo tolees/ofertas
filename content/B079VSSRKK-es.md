@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VSSRKK-es Weider Vegan Diet Meal Choco 540 Gr. Sutituto de comida...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

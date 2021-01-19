@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVB69PS-es adidas Superstar J Unisex niños Blanco Cloud White/Core...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

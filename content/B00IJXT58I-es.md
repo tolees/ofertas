@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IJXT58I-es Calvin Klein Endless Euphoria Agua de perfume Vaporizador...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 66.19 EUR
 currency: EUR
 price: 66.19

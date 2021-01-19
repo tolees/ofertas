@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082TQ55LT-es Amor Jirafa Pony Piel Genuina Pasaporte Titular Portada...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

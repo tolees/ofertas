@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D2QY77K-es CHRONOWATCH Reloj automático Man Camara HA5310C2GBCT 44 mm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 175.0 EUR
 currency: EUR
 price: 175.0

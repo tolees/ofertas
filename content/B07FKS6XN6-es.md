@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKS6XN6-es Trangoworld Goym Pant. Largo Hombre Negro S'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

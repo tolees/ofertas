@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MB2V4WL-es Nike The Premier II FG Zapatillas de Fútbol Unisex Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.94 EUR
 currency: EUR
 price: 15.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HS94QT2-es Oral-B Smart 4 4000N CrossAction - Cepillo Eléctrico 1...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

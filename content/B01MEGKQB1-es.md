@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MEGKQB1-es Guerlain Homme Agua de Perfume para Hombres - 100 gr'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.56 EUR
 currency: EUR
 price: 59.56

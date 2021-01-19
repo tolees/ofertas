@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071Z3HPN8-es Asics B756Y 1990 Zapatillas de Deporte Unisex Adulto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.79 EUR
 currency: EUR
 price: 30.79

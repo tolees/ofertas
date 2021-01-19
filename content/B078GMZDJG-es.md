@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GMZDJG-es Monix Mineral Lote de Sartenes Aluminio Forjado con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

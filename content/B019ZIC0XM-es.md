@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019ZIC0XM-es Under Armour Sportswear Stirnband UA Mini Headband 6 Pack...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

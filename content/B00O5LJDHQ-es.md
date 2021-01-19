@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O5LJDHQ-es Only Onlroyal High Sk Jeans Pim600 Noos Jeans Skinny para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0
@@ -26,8 +26,8 @@ Tienes [Only Onlroyal High Sk Jeans Pim600 Noos  Jeans Skinny para Mujer  Negro 
 
 ℹ️:
 
-- Skinny
 - Recomendamos adquirir la talla más grande
+- Skinny
 - Cierre: Cremallera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00O5LJDHQ/?tag=tolees-21)

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FANJSSC-es Cybex Silver - Portabebé Aton en contra de la marcha...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

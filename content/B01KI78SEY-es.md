@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KI78SEY-es Nintendo Selects: Super Mario 3D World'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.87 EUR
 currency: EUR
 price: 15.87

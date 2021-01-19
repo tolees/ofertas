@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJWG62F-es Triumph Amourette 300 W X Sujetador con Aros Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.25 EUR
 currency: EUR
 price: 22.25

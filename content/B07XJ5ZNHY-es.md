@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJ5ZNHY-es Skechers UNO Zapatillas para Hombre Gris carbón de Malla...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.78 EUR
 currency: EUR
 price: 32.78

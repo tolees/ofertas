@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005LDLUW8-es Crucial CT51264BD160B - Memoria RAM de 4 GB DDR3L 1600...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 21.94 EUR
 currency: EUR
 price: 21.94

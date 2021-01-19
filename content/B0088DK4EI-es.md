@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0088DK4EI-es D-Link DWR-730 - Router móvil 3G para SIM de Datos HSPA+...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.09 EUR
 currency: EUR
 price: 26.09

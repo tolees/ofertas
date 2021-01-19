@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JG1JYMS-es Ingersoll Men s The Grafton Quartz Watch with Grey Dial...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 103.23 EUR
 currency: EUR
 price: 103.23

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006OP3K7K-es Puma 205203001 Calcetines Para Bebés Multicolor Powder...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

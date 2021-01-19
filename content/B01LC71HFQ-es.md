@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LC71HFQ-es 10pcs Juegos de Mesa Dados de Seis Caras D & D TRPG - Negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

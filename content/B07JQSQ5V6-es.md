@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQSQ5V6-es AUKEY Auriculares inalámbricos Auriculares Bluetooth 5 de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 65.42 EUR
 currency: EUR
 price: 65.42

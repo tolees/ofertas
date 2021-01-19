@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MD8L9T-es Metaltex Copper- Carro multiuso con ruedas Dorado 3 Cestos'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

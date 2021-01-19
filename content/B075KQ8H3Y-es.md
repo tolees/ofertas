@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075KQ8H3Y-es Star Ibaby Oxford Cloth - Parque de bebés ultraligero'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

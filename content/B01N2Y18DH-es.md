@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2Y18DH-es Intex 56265NP - Rueda hinchable Donut de fresa 107 x 99 cm'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

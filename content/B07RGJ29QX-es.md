@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGJ29QX-es Monix Siena Set de 75 Piezas de Acero Inoxidable con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 112.99 EUR
 currency: EUR
 price: 112.99

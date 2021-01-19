@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076BFNTZZ-es Tytoo Kit de Tatuaje de Purpurina para Chicas con 15...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

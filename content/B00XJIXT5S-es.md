@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XJIXT5S-es Philips myLiving Hailton - Lámpara colgante iluminación...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

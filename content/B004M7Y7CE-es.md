@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004M7Y7CE-es JVC HA-S160-W - HAS160W Auricular Flat White'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

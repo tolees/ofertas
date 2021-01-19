@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M87QYN9-es REPLAY ReplayFu3062.000.a0021bUnisex adultoMochilasNegro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.61 EUR
 currency: EUR
 price: 43.61

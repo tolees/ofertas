@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4RLJY2-es Rubies - Disfraz Oficial de Los Vengadores Endgame Thanos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 46.85 EUR
 currency: EUR
 price: 46.85

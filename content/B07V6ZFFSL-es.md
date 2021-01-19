@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6ZFFSL-es 52mm 58mm 2.0X Teleobjetivo para Nikon D90 D80 D700 D300...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

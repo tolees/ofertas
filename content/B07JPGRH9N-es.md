@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPGRH9N-es Under Armour Men s Truckstop Beanie 2.0 Gorrita Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.86 EUR
 currency: EUR
 price: 13.86

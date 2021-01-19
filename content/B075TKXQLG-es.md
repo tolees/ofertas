@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075TKXQLG-es VOVEES Theia – Contorno ojos – Emulsión Gel – 30 ml –...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.42 EUR
 currency: EUR
 price: 22.42

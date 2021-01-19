@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGDTVC8-es Tbest 1 Par Compresión de Rodillera Manga para Pierna...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

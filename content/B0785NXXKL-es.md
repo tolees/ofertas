@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0785NXXKL-es Öuesen LED 24W lámpara de techo resistente al agua moderna...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

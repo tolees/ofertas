@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HN67WN-es Lacoste Pf7841 Polo Negro Noir 34 Talla del Fabricante: 34...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 57.33 EUR
 currency: EUR
 price: 57.33

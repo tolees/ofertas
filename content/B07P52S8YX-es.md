@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P52S8YX-es Boulevard - Zapatos/Bailarinas diseño Flor y Puntera...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.45 EUR
 currency: EUR
 price: 15.45

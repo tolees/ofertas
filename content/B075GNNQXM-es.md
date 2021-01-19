@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GNNQXM-es Falda de Tenis Skort Golf Mujer Niña Negra Pantalón Ropa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

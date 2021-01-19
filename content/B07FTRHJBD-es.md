@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTRHJBD-es Yonanas 1600 Heladera Aluminio Plateada'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJY7K66-es Lenor Unstoppables Dreams Perlas Impulsoras De Fragancia -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0722YKB8J-es Fossil ES4331 - Reloj analógico para mujer de cuarzo con...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 72.89 EUR
 currency: EUR
 price: 72.89

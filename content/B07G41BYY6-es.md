@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G41BYY6-es iGutech Planchas de Pelo de Vapor Plancha de pelo de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.75 EUR
 currency: EUR
 price: 48.75

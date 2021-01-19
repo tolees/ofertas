@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017A1NKAI-es Mercurio Distribuciones- Juego de Estrategia A0036'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.4 EUR
 currency: EUR
 price: 32.4

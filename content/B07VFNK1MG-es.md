@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFNK1MG-es SELECTED HOMME Slhcolor Block Jacket W Chaqueta Turtle...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.44 EUR
 currency: EUR
 price: 17.44

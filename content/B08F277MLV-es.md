@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F277MLV-es NKare - Dispensador de Jabón automático de Pie 1L Sensor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089JY4HRP-es EasySMX 2.4G Teclado inalámbrico / cable teclado gamer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 59.56 EUR
 currency: EUR
 price: 59.56

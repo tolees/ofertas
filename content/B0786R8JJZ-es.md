@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0786R8JJZ-es PUMA Liga Training Shorts W Chándal Mujer Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

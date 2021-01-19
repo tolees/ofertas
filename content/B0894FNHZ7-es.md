@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894FNHZ7-es Juego de 2 cucharas de decoración de dibujo culinario de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

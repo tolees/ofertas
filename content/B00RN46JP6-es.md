@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RN46JP6-es Zefal Piel Armour M Protectores Adhesivos Cuadro Transparente'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

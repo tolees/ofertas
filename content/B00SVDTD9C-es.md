@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SVDTD9C-es GREAT ART Mural De Pared Cuarto De Los Niños – Cascada...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

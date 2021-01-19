@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJYQNHK-es Digital Mini Timer Loud Alarm Clock Self Standing Magnetic...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

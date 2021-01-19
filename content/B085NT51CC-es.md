@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085NT51CC-es Jeslon Mandolina Rebanador Frutas cortadas & Vegetales 5...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

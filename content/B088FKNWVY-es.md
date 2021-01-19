@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FKNWVY-es ARRYNN Funda Huawei P40 Lite Cover Huawei P40 Lite Premium...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

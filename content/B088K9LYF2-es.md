@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088K9LYF2-es Repelente Ultrasónico Mosquitos Repelente Ultrasónico de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

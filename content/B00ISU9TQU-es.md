@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ISU9TQU-es Casio Collection TP-1154PQ-7B Reloj Redondo para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 22.14 EUR
 currency: EUR
 price: 22.14

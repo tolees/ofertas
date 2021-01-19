@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XRHV5QT-es Trueno Sala'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

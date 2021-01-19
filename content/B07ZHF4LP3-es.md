@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZHF4LP3-es Mydours Almohadilla Teclado y Alfombrilla de Ratón...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

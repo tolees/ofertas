@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXTZ7XF-es Under Armour UA Charged Escape 3 Zapatillas para Correr...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.46 EUR
 currency: EUR
 price: 48.46

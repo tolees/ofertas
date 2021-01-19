@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SNLE8VU-es Mars Gaming MSB1 altavoces bluetooth 8W Jack 3.5...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

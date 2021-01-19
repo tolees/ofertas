@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J7SDTHM-es Millet Friction - Calzado de senderismo para hombre color...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 97.95 EUR
 currency: EUR
 price: 97.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BF4K1YF-es LAMURO Kit para Colgantes Columpios de árboles Correas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.19 EUR
 currency: EUR
 price: 24.19

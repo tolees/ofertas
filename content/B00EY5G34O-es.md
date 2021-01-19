@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EY5G34O-es Taurus Tasty Ncream Heladera 12 W 1.5 litros Plástico...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

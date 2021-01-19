@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081H6HFHJ-es Finether Dispensador de Jabón Automático Espuma...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

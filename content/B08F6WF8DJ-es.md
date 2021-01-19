@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F6WF8DJ-es DEJIMAX 2800mAh Batería S4 para Samsung Galaxy S4 2800mAh...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

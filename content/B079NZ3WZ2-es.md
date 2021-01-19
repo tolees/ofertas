@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NZ3WZ2-es Hapilife Grifo 360° Giratorio Grifo de Cocina Grifo de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

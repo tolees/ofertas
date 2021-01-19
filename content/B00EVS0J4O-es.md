@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EVS0J4O-es Rimmel London Lasting Finish Mono Blush Colorete Tono 190...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

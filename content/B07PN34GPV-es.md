@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PN34GPV-es VSADEY Aceite de Ricino Orgánico 100% Natural Castor Oil...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

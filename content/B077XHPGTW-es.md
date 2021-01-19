@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XHPGTW-es Marca Amazon - Presto! Pañuelos de 3 capas - 12 cajas 12 x...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

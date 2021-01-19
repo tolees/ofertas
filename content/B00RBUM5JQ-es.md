@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RBUM5JQ-es BIO Moringa Oleifera Vegavero® | Ahora Dosis Diaria Mayor:...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

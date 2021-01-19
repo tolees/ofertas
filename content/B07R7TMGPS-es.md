@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7TMGPS-es Liberex Máquina de Cortar Pelo Profesional - Barbero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.29 EUR
 currency: EUR
 price: 24.29

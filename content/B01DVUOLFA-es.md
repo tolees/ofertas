@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DVUOLFA-es NZI 150262G860 Capital Visor Graphics Bloom Casco de Moto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 43.33 EUR
 currency: EUR
 price: 43.33

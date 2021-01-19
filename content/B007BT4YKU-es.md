@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007BT4YKU-es Nike Core Items 3.0 Bolsa de Hombro Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZSJNF5-es Skechers Reggae Fest-Rooted Bailarinas con Punta Cerrada...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.33 EUR
 currency: EUR
 price: 19.33

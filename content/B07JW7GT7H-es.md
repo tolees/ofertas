@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW7GT7H-es Adaptador USB C a HDMI QGeeM 4K USB C HDMI Cable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSPP93Z-es POP OFFICE PAM BEESLY VINYL FI'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

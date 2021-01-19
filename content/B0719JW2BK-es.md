@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719JW2BK-es Under Armour Men s Heathered Blitzing 3.0 Gorra Hombre...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

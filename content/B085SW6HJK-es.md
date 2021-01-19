@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085SW6HJK-es Transmisor Bluetooth con Pantalla Visual Transmisor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

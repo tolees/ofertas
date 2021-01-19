@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1I3VAH-es Indoor Copa'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

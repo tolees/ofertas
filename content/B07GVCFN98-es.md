@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVCFN98-es Zephyrr - Pendientes de gota para mujer diseño moderno de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

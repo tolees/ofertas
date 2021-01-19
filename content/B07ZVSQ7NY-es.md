@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVSQ7NY-es PC Gaming - Megaport Ordenador Gaming PC AMD Ryzen 3 3200G...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

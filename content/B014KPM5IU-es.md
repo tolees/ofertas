@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014KPM5IU-es Reebok Pesos de la Muñeca - 1.5 kg'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

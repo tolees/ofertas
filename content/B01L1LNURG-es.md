@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L1LNURG-es Tefal Fry Delight FX100015 - Freidora sin Aceite de 1400 W...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 92.69 EUR
 currency: EUR
 price: 92.69

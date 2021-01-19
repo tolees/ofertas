@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079N52SGS-es Mommore Bolsa Almuerzo para bolsa aislante independiente...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZDYF6W-es Mobiclinic modelo Alcazaba Silla de ruedas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 49.18 EUR
 currency: EUR
 price: 49.18

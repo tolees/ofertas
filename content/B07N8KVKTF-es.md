@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8KVKTF-es HOMYBABY Ganchos Carrito Bebé 2 pcs | Diseño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

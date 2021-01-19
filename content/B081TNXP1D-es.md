@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081TNXP1D-es adidas Tights Mallas Mujer Black 44'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

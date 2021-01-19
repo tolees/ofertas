@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X3ZWVZ7-es De longhi Dedica - Cafetera de Bomba de Acero Inoxidable...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 169.51 EUR
 currency: EUR
 price: 169.51

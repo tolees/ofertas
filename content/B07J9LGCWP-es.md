@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J9LGCWP-es Skechers Side Street-Sunset Walks Zapatillas para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.4 EUR
 currency: EUR
 price: 28.4

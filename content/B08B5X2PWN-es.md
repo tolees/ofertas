@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5X2PWN-es Mango de metal profesional Cristal de acero Diamante de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.46 EUR
 currency: EUR
 price: 1.46

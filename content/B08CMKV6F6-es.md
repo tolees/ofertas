@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CMKV6F6-es Reloj Digital Deportivo para Niños Reloj de Pulsera Niña...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

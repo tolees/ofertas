@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CLZD3VZ-es Set Pintura Acrílica Nazca para Trabajo Artístico y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

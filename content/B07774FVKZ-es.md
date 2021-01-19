@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07774FVKZ-es Tommy Jeans Hombre Original Slim Fit Chino Pantalones Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 64.49 EUR
 currency: EUR
 price: 64.49

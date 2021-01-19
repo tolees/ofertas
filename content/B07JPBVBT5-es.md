@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPBVBT5-es DAM. DMZ038BL. Smartwatch L2 Plus con Monitor Cardíaco Y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

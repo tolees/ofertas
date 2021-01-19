@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8BVLY2-es OBEEII Blancanieves Disfraz con Capa Snow White Carnaval...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.36 EUR
 currency: EUR
 price: 13.36

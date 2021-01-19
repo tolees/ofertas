@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8C7F4P-es Desigual Skirt Denver Leggings Negro Negro 2000 4 años...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.02 EUR
 currency: EUR
 price: 6.02

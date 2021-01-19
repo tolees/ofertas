@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3PVDB8-es Gliss - Mascarilla Ultimate Repair para Cabellos Muy...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

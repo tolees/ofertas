@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083L6Z2QH-es Ballet Girl Night Light para Niños Luces de Lámpara de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

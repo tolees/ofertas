@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQT1M2C-es Springfield Básico Piel Cinturón Dark Brown 105 para Hombre'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9 EUR
 currency: EUR
 price: 9

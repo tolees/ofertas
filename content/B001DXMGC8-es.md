@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001DXMGC8-es HP 304 - Cartucho de tóner Original HP 304A Cian para HP...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 95.0 EUR
 currency: EUR
 price: 95.0

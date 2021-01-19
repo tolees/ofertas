@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBGWBDF-es Nike M SB Dri-FIT Camiseta Hombre Blanco White/Black'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

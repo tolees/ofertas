@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078VGPLFL-es Sony WHCH400H - Auriculares inalámbricos Bluetooth NFC...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

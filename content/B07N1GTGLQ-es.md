@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1GTGLQ-es Clarks Un Rio Lace Zapatillas Gris Dark Grey Dark Grey 36 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

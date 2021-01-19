@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1RHZ6B-es Regalos Originales Hombre Muñequera magnética - Regalo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

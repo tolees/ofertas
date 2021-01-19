@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHS5N3M-es Raid - Recambio para Difusor Eléctrico Anti Mosquitos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.71 EUR
 currency: EUR
 price: 5.71

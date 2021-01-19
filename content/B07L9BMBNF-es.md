@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9BMBNF-es Under Armour Baseline Fleece Jogger Pantalón Hombre Negro XL'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.03 EUR
 currency: EUR
 price: 27.03

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG7SMT6-es oneConcept Woodpecker Equipo de Sonido 5.1 - Equipo para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

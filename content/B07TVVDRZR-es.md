@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVVDRZR-es Skechers Bounder Zapatillas para Hombre Gris Gray...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.82 EUR
 currency: EUR
 price: 34.82

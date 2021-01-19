@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MURQ151-es Nike Court Borough Low PSV Zapatillas para Niñas Blanco...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.15 EUR
 currency: EUR
 price: 25.15

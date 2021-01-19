@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087NJGDG9-es TOMSHOO Rueda Abdominales Fitness Kit AB Roller y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 18.64 EUR
 currency: EUR
 price: 18.64

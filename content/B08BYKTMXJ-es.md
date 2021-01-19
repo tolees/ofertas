@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BYKTMXJ-es LNIEGE Aspirador Motor del Cepillo de carbón...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.54 EUR
 currency: EUR
 price: 6.54

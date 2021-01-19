@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074J7KW1G-es FLEXI Design M Cinta 5M. Azul'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

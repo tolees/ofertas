@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GQZ36LY-es Piy Painting Cuadro en Lienzo en Orquidea Elegante La Flor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

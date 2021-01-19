@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072K5PXL5-es Apple MacBook de 12 pulgadas Intel Core i5 de doble núcleo...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1199.0 EUR
 currency: EUR
 price: 1199.0

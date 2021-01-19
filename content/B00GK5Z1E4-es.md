@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GK5Z1E4-es Dell 470-13630 - Cable DisplayPort a VGA Negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076PLKV5W-es Cecotec Rollos Gofrados Set de 2 Rollos Grandes 28 x 600...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

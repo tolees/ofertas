@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSGKQNZ-es Under Armour UA Baseline Performance Tank Tanque de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.58 EUR
 currency: EUR
 price: 20.58

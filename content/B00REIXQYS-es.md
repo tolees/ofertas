@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00REIXQYS-es Reifen-Markt Funda de la Almohada 40x40cm Balonmano Fútbol...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

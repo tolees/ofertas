@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FM7VQF9-es Joseph Joseph Delta Pasapuré plegable - Gris / Verde'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

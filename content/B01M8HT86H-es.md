@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M8HT86H-es Shunga Geishas Secret Collection Strawberry Aceite de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.93 EUR
 currency: EUR
 price: 19.93

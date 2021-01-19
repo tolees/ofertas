@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DY66FYZ-es Orient Reloj Analógico para Unisex Adultos de Automático...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 110.59 EUR
 currency: EUR
 price: 110.59

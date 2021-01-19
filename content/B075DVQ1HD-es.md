@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075DVQ1HD-es Tucano Guscio - Funda tipo libro con tapa extraíble...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

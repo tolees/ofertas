@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000W9FS2Y-es Revlon Pintalabios Lustrous Fire & Ice 720 4.2 gr'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.65 EUR
 currency: EUR
 price: 2.65

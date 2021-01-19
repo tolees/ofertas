@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQNRRHF-es KESOTO 3 Piezas Barril de Cerveza Modelo Accesorios de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G31WK8O-es SueH Design Juego de Manteles Individuales de 8 Unidades...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

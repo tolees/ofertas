@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G6S8MFE-es Amzdeal Softbox 50 x 70 cm Kit de lluminación Ventana de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071S27SCJ-es Cinta Métrica - Fléxometro 20M /66 FT de doble cara mm y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073PZS7TL-es Panasonic SC-UA3E-K 300W Negro Sistema de Audio para el...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 97.67 EUR
 currency: EUR
 price: 97.67

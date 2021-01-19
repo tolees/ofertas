@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074KLJQR9-es Denon D-M41 Home audio mini system 60W Negro Plata -...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 297.0 EUR
 currency: EUR
 price: 297.0

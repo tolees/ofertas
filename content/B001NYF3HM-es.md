@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NYF3HM-es Reebok Classic Leather Zapatillas Mujer Blanco 38.5 EU /...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 31.96 EUR
 currency: EUR
 price: 31.96

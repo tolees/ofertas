@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJLNQ2D-es Jack & Jones Jcocharming Polo SS Noos Negro Grande Tamaño...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.46 EUR
 currency: EUR
 price: 7.46

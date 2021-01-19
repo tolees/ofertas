@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7SVGF6-es Orient Reloj de Pulsera RA-AP0003S10B'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 189.47 EUR
 currency: EUR
 price: 189.47

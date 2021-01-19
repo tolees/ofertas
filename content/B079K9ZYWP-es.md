@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079K9ZYWP-es Lee Rider Contrast Jeans Blue Waters 28W / 34L para Hombre'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 24.29 EUR
 currency: EUR
 price: 24.29

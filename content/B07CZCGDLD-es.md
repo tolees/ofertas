@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZCGDLD-es ieGeek Reproductor de DVD rosso N'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 58.35 EUR
 currency: EUR
 price: 58.35

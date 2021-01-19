@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDYQZKX-es Tommy Hilfiger Adan Leather 3.5 Cinturón Marrón Testa Di...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

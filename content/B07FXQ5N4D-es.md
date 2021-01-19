@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FXQ5N4D-es Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene Verde...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

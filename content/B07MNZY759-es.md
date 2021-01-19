@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNZY759-es Nike Air MAX Infuriate III Low Zapatillas de Baloncesto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

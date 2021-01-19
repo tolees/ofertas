@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T6KQNB-es PUMA Liga Casuals Jr Chándal Unisex niños Medium Gray...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

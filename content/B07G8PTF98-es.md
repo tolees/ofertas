@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8PTF98-es L ATELIER DU SOURIRE Kit de blanqueamiento dental...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

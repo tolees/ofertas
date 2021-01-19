@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788H7WRY-es Soporte de teléfono celular COOLBROS Porta-lápiz de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

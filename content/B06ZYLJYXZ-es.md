@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZYLJYXZ-es Rampow Adaptador Micro USB a Tipo C Aluminio Duradero...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JLDDFQ-es Crocs LiteRide Slide Sandalias de Punta Descubierta Unisex...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.13 EUR
 currency: EUR
 price: 27.13

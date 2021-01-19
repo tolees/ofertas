@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CDK15D-es Just Stationery - 24 Fundas de plástico transparentes...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

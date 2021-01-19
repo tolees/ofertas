@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081SQW66M-es perfk T10 2in1 Bluetooth4.2 Receptor De Audio/Transmisor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.81 EUR
 currency: EUR
 price: 14.81

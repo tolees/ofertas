@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0044UEXPU-es HP CE312A 126A Cartucho de Tóner Original 1 unidad amarillo'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

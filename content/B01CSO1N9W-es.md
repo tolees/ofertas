@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CSO1N9W-es Forty Seven B-Brans17Ctp-Bk Gorra Hombre Negro Talla única'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

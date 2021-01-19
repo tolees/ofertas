@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSYXTV7-es adidas Adilette Aqua K - Zapatillas Unisex Niños Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.01 EUR
 currency: EUR
 price: 5.01

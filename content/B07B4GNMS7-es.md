@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4GNMS7-es Corsair Vengeance LPX - Módulo de Memoria XMP 2.0 de Alto...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 284.6 EUR
 currency: EUR
 price: 284.6

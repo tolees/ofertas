@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4NKDZ8-es La Toja Selection - Sales de Baño con Minerales Termales...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

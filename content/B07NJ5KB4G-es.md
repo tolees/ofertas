@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ5KB4G-es BABARIA SEMILLA DE Cannabis Gel DE BAÑO 1000ML 1L Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.73 EUR
 currency: EUR
 price: 1.73

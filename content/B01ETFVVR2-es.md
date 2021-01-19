@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ETFVVR2-es Imperial Confort Oslo - Colchón Viscoelástico acolchado...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 104.49 EUR
 currency: EUR
 price: 104.49

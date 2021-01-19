@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CZ6U6LA-es Fablon Fine Décor Rollo de plástico Adhesivo 45 x 200 cm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

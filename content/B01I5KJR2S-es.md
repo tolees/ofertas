@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I5KJR2S-es Diset Soy Luna - Set con ovillos de lana aro para tejer y...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

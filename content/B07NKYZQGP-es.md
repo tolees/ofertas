@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKYZQGP-es ZIPRINT 2 Pack Negro Toner MIT Chip Compatible Brother...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 30.9 EUR
 currency: EUR
 price: 30.9

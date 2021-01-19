@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVM6CHZ-es New Balance W1400V6 Zapatillas de Running para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.93 EUR
 currency: EUR
 price: 34.93

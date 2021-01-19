@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD4H1M1-es UniqueMe [6 Pack] Protector de Pantalla para Apple Watch...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

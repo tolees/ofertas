@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000J0L5IW-es Converse Chuck Taylor Ct A/S Seasnl Hi Zapatillas altas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 52.45 EUR
 currency: EUR
 price: 52.45

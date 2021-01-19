@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMFCNS5-es upHere PWM Ventilador PC 120mm 5V ARGB LED Ventilador para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 23.63 EUR
 currency: EUR
 price: 23.63

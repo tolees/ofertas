@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXLXVWG-es GANT Kelly Mocasines para Mujer Negro Black G00 39 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 72.09 EUR
 currency: EUR
 price: 72.09

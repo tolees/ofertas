@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793MG6TP-es Vikenner 6 Pcs Mini Macaron Jewelry Storage Box Pill...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 0.57 EUR
 currency: EUR
 price: 0.57

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTWS6D1-es Lotus Reloj Analógico para Niñas de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.51 EUR
 currency: EUR
 price: 28.51

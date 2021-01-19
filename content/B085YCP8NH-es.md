@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085YCP8NH-es YAMAMAY® Pyjamas - Ultimi arrivi'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

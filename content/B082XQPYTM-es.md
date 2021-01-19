@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XQPYTM-es Zapatillas de Baloncesto para Hombres Damas Deportes al...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 29.26 EUR
 currency: EUR
 price: 29.26

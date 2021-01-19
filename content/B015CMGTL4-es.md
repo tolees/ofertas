@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015CMGTL4-es Rimmel London The Only One Lipstick Barra De Labios Mate...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.22 EUR
 currency: EUR
 price: 4.22

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BWVD02K-es Pasta de dientes blanqueadora Colgate Sensation dientes...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

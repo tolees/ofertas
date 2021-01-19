@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004VQXPK6-es Kitchen Craft - Papelera a Pedal para Compost 3 L'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.52 EUR
 currency: EUR
 price: 14.52

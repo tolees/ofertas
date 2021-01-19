@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G171XGB-es Just For Chefs Q2903 Sarten Forjado Inducción Infinity...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

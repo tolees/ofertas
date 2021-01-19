@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q5YT8J9-es Superdry Label Sport Trunk Triple Bañador Naranja Orange...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.24 EUR
 currency: EUR
 price: 15.24

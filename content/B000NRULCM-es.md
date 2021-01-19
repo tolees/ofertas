@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NRULCM-es Converse Chuck Taylor Hi Zapatillas Unisex Blanco Optical...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.85 EUR
 currency: EUR
 price: 45.85

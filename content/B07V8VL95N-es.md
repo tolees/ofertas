@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8VL95N-es Tommy Hilfiger Causal Tommy Jeans Sneaker Zapatillas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 38.19 EUR
 currency: EUR
 price: 38.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZH5MXY-es Superligero LED Touch Design Sport Running Pulsera Digital...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 1.12 EUR
 currency: EUR
 price: 1.12

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076F47BXK-es Guess Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 127.94 EUR
 currency: EUR
 price: 127.94

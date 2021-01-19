@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075LFHKN8-es Beurer IH55 Inhalador silencioso con membrana oscilante...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 68.66 EUR
 currency: EUR
 price: 68.66

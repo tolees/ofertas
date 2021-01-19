@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBZQ89N-es Jack & Jones Jjiace Jjworker WW Pantalones Negro Black...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

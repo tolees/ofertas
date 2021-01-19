@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6B15WW-es Overwatch - D.VA & Meka figura de vinilo Funko 13090'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

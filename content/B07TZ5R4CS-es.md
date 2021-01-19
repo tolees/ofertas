@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ5R4CS-es Skechers Delson 2.0 Kemper Zapatillas para Hombre Azul...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 42.47 EUR
 currency: EUR
 price: 42.47

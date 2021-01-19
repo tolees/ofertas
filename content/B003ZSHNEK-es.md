@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZSHNEK-es Nikon AF-S 24-120mm F4 ED VR - Objetivo para Nikon...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 899.0 EUR
 currency: EUR
 price: 899.0

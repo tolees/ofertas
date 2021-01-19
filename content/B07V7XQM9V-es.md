@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7XQM9V-es Tommy Hilfiger Essential Nautical Sneaker Zapatillas para...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016Q1Q0XC-es Maybelline New York Barra de Labios Color Drama 110'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

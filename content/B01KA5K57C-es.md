@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KA5K57C-es Thumbs Up!- 1001473 Retro Mini Arcade Machine Multicolor...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000JF9Q1U-es Redken 54461 - Cuidado capilar 150 ml'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 12.41 EUR
 currency: EUR
 price: 12.41

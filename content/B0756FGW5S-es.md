@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0756FGW5S-es Calcetines de Compresión de Algodón Orgánico Pack de 1...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008FIFFY0-es Columbia Bora Bora Booney Sombrero unisex Fibra sintética...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.74 EUR
 currency: EUR
 price: 17.74

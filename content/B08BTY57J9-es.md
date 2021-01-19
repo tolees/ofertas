@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BTY57J9-es ZNE - Carcasa para iPhone SE 2020 diseño de flores de...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 9.93 EUR
 currency: EUR
 price: 9.93

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V4COUHC-es Twins Sweathose mit Knieflicken - Pantalones deportivos...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

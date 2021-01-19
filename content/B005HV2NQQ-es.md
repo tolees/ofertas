@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005HV2NQQ-es Crocs Baya Flip Unisex Adulto Sandalia Negro Black 37-38 EU'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 17.17 EUR
 currency: EUR
 price: 17.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ3MRZY-es Springfield 4.2.Pc.Mono Liso Navy Pantalones para Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LWCPV4-es Snazaroo - Pintura facial y corporal 18 ml color negro'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

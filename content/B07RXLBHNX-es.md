@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXLBHNX-es Asics Gel-BND Zapatillas de Balonmano para Hombre Negro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

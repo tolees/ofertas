@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OHW3Q4E-es Valueline VLAP22255B02 Adaptador de Cable 2 x RCA 3 5mm...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6BS7P3-es EMPIRE GAMING - Micrófono Gamer PC Mac Consolas – Micro...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

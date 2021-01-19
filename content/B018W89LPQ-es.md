@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018W89LPQ-es Superga 2790-COTROPEW Zapatillas Mujer Azul Marineblau 40...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 34.76 EUR
 currency: EUR
 price: 34.76

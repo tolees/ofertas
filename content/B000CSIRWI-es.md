@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CSIRWI-es NGK CR9E - Bujía'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

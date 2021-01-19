@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WWCS2X-es Maclaren Triumph Silla de paseo - ligera de los 6 meses...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 122.26 EUR
 currency: EUR
 price: 122.26

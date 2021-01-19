@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CCW6PR-es Geographical Norway Polar Hombre Upload Negro M'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

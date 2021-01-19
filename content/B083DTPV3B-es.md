@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DTPV3B-es Welinks - Cepillo para polvo de mesita de noche mango...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

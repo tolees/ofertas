@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077GXBJ5V-es Medisana RC 410 Sillón de Relax con función de Masaje...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 249.71 EUR
 currency: EUR
 price: 249.71

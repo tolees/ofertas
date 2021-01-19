@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NV9LTFW-es Transcend TS1TSJM500 - Disco Duro sólido SSD de 1 TB Blanco'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 278.95 EUR
 currency: EUR
 price: 278.95

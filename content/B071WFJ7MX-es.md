@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WFJ7MX-es Adidas Campus Zapatillas para Hombre Negro Core...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 53.97 EUR
 currency: EUR
 price: 53.97

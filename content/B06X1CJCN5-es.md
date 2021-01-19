@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X1CJCN5-es Cluse Reloj Digital de Cuarzo Unisex con Correa de Cuero –...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 62.91 EUR
 currency: EUR
 price: 62.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YMGT4B4-es TW Steel Reloj Analógico para Unisex de Cuarzo con Correa...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 160.06 EUR
 currency: EUR
 price: 160.06

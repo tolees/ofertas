@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39P9SY-es Belmont Plus: Maleta DE Cabina 4 Ruedas Dobles 55 CM'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 54.94 EUR
 currency: EUR
 price: 54.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CV5Z4T-es Cámara Web con micrófono cámara Web Full HD 1296P cámara...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

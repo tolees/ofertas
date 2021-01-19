@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9JNQJ7-es Under Armour Recovery Sleepwear Pantalones Cortos Mujer...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

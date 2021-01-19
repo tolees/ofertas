@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077L6GPJL-es Bourjois Fard Joues Colorete Tono 54 Rose frisson - 2.5 gr'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 5.1 EUR
 currency: EUR
 price: 5.1

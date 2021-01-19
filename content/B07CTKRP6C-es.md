@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTKRP6C-es JACK & JONES Jfwalbany Leather Brown Stone STS Botas...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

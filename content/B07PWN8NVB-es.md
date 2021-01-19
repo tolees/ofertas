@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWN8NVB-es GABOL L Atlanta Maleta 52x75x29 cm 90 liters Turquesa'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 45.36 EUR
 currency: EUR
 price: 45.36

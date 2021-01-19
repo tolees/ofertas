@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781Z5RGZ-es adidas Gazelle J Zapatillas Unisex Niños Rojo Red Cq2874...'
-tags: tole.es
+tags: [ 'tole.es', ]
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97
