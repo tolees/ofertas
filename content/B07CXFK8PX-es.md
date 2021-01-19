@@ -25,8 +25,8 @@ En este momento está [Monster Hunter Generations Ultimate - Edición Estándar]
 
 🔎:
 
+- Jugabilidad altamente customizable
 - Profundo sistema de crafting
 - ¡Juega en cualquier parte!
-- Jugabilidad altamente customizable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CXFK8PX/?tag=tolees-21)

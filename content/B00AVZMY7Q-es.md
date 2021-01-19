@@ -25,10 +25,10 @@ Ahora mismo tienes [Vans Atwood  Sneaker Hombre  Negro  Black/White Canvas 187  
 
 🔎:
 
-- Anchura del zapato: Normal
-- Tipo de talla: Talla estándar
 - Composición: Textil
 - Tipo de tacón: Plano
+- Tipo de talla: Talla estándar
 - Cierre: Cordones
+- Anchura del zapato: Normal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00AVZMY7Q/?tag=tolees-21)

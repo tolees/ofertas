@@ -25,11 +25,11 @@ En este momento está [Nestlé Papillas NESTUM - Cereales para bebé  crema de a
 
 🔎:
 
-- Nuevo formato más práctico, ahora en lata
+- Puede contener leche
 - El hierro, zinc y vitaminas A y C de las papillas de cereales NESTUM para bebé ayudan a la función normal del sistema inmunitario El hierro ayuda al desarrollo cognitivo normal
 - Una papilla sin gluten óptimo para cuando el bebé inicia la alimentación complementaria, a partir de los 4 meses
 - Ingredientes: Harinas (97%) (arroz y arroz hidrolizada), aceite de girasol, sales minerales (carbonato cálcico, fumarato ferroso, sulfato de zinc y yoduro potásico), vitaminas (ácido L-ascórbico, DL-alfa acetato de tocoferol, nicotinamida, mononitrato de tiamina, acetato de retinol, clorhidrato de piridoxina, ácido fólico y colecalciferol), aroma (vainillina) y bifidobacterias
-- Puede contener leche
+- Nuevo formato más práctico, ahora en lata
 - Mantener en un lugar fresco y seco y una vez abierto consumir el producto antes de 1 mes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DY8KLFC/?tag=tolees-21)

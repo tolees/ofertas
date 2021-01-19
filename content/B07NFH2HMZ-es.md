@@ -25,8 +25,8 @@ Ahora mismo tienes [Casio Reloj Analógico para Unisex Adultos de Cuarzo con Cor
 
 🔎:
 
-- Clasificación de resistencia al agua (5 bar)
 - Caja de resina
 - Pantalla de neón
+- Clasificación de resistencia al agua (5 bar)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NFH2HMZ/?tag=tolees-21)

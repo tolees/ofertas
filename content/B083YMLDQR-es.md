@@ -26,7 +26,7 @@ En este momento está [Geomag Rainbow - Juego de construcción magnética  72 Pi
 🔎:
 
 - Juego de construcción magnética
-- Modelo: Rainbow
 - Marca: Geomag
+- Modelo: Rainbow
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YMLDQR/?tag=tolees-21)

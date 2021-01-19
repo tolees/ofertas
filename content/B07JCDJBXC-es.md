@@ -25,8 +25,8 @@ Ahora mismo tienes [IDC COLOR Wild Safari Edición Perfect Traveler  Talla Únic
 
 🔎:
 
+- Producto de alta calidad
 - Producto Nuevo
 - Magic studio fabulous colors metallic assorted
-- Producto de alta calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JCDJBXC/?tag=tolees-21)

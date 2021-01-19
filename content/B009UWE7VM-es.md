@@ -25,10 +25,10 @@ Ahora mismo tienes [White Label Whisky - 1000 ml](https://www.amazon.es/dp/B009U
 
 🔎:
 
-- Dewars es el titular de la Orden Real para whisky consecutiva más longeva desde 1893
 - El blended Scotch whisky Dewars White Label tiene un doble envejecimiento para darle extra suavidad, un proceso iniciado por Dewars
+- Dewars es el titular de la Orden Real para whisky consecutiva más longeva desde 1893
+- El whisky escocés mezclado Dewars White Label tiene un doble envejecimiento para extra suavidad
 - El blended Scotch whisky Dewars es conocido por su compromiso con las declaraciones de año de la gama prémium
 - Dewars es el blended Scotch whisky más premiado del mundo, habiendo ganado más de 1000 medallas
-- El whisky escocés mezclado Dewars White Label tiene un doble envejecimiento para extra suavidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B009UWE7VM/?tag=tolees-21)

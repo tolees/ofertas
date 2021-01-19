@@ -26,8 +26,8 @@ Está [Taurus 968419000 Grill & Toast - Sandwichera con placas grill antiadheren
 ℹ️:
 
 - Superficie de cocción: 23 x 14.5
-- Se puede guardar en posición vertical
 - Tapa basculante que se adapta según el grosor del alimento
+- Se puede guardar en posición vertical
 - Gancho fijo de cierre
 - Indicadores luminosos
 

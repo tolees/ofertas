@@ -25,10 +25,10 @@ Ahora mismo tienes [Bourjois Velvet Barra de Labios Líquida Tono 01 Personne ne
 
 🔎:
 
-- Hasta 24 horas de duración, sin sensación de sequedad
-- Fórmula enriquecida con un 25% de pigmentos lacados que proporcionan color e intensidad
-- Labial líquido para un intenso acabado mate aterciopelado
-- Contiene aceites esenciales que dan a los labios una sensación natural y saludable
 - Textura suave y fundente que proporciona unos labios aterciopelados
+- Fórmula enriquecida con un 25% de pigmentos lacados que proporcionan color e intensidad
+- Hasta 24 horas de duración, sin sensación de sequedad
+- Contiene aceites esenciales que dan a los labios una sensación natural y saludable
+- Labial líquido para un intenso acabado mate aterciopelado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00J8K7JNY/?tag=tolees-21)
