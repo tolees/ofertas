@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Gingilacer Duplo - Pasta de Dientes  2 x al 30.37 % de rebaja'
-date: 2021-01-18 18:15:45
+date: 2021-01-19 19:29:42
 image: 'https://m.media-amazon.com/images/I/31dj72-qybL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGC18T9-es'
+slug: 'B07KGC18T9-es Gingilacer Duplo - Pasta de Dientes 2 x 125 ml'
+tags: [  ]
 actualPrice: 9.4 EUR
 currency: EUR
 price: 9.4
@@ -16,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGC18T9/?tag=tolees-21'
 descuento: '30.37'
-average: '11.342857142857143'
+average: '10.911111111111113'
 ---
 
 Tienes [Gingilacer Duplo - Pasta de Dientes  2 x 125 ml](https://www.amazon.es/dp/B07KGC18T9/?tag=tolees-21) con precio final de  9.4 EUR (original: 13.5 EUR) (30.37 %  de rebaja) aqui!

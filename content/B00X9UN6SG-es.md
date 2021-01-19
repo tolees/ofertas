@@ -26,9 +26,9 @@ Está [Licor del Polo - Pasta de Dientes 2 en 1 Menta Fresca - 75 ml](https://ww
 
 ℹ️:
 
-- Para unos dientes y encías sanas, una higiene bucal profunda y un aliento fresco
-- Fórmula probada científicamente
 - Actúa contra la placa y proporciona una limpieza eficaz
+- Fórmula probada científicamente
 - Su fórmula con esencia de menta proporciona una acción de limpieza eficaz y un frescor en toda la boca
+- Para unos dientes y encías sanas, una higiene bucal profunda y un aliento fresco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00X9UN6SG/?tag=tolees-21)

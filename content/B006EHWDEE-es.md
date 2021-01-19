@@ -26,10 +26,10 @@ Está [Rimmel London Stay Matte Powder Polvos de maquillaje Tono 5 - 14 gr](http
 
 ℹ️:
 
-- Hasta 9 horas de duración
-- Ayuda a minimizar la apariencia de los poros
-- Polvo compacto matificante con minerales naturales
 - Acabado mate sin brillos
+- Polvo compacto matificante con minerales naturales
 - Dermatológicamente testado
+- Ayuda a minimizar la apariencia de los poros
+- Hasta 9 horas de duración
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006EHWDEE/?tag=tolees-21)
