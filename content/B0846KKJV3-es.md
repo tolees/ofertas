@@ -26,7 +26,7 @@ En este momento está [Tommy Hilfiger Royal 12C  Zapatillas Hombre  Negro  43 EU
 
 🔎:
 
-- Genuine Product
 - Authorised Stockist
+- Genuine Product
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0846KKJV3/?tag=tolees-21)

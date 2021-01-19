@@ -26,9 +26,9 @@ Ahora mismo tienes [MSI WS75 9TL-609ES - Ordenador portátil de 17.3 " FHD  Inte
 
 🔎:
 
-- Memoria ram de 32 gb (16gb2) ddr iv, 2666mhz
-- Disco ssd de 1 tb
 - Procesador coffeelake refresh i7-9750h+hm370 (6 núcleos, 12 mb cache, 2.6 ghz hasta 4.5 ghz)
+- Disco ssd de 1 tb
+- Memoria ram de 32 gb (16gb2) ddr iv, 2666mhz
 - Sistema operativo windows 10 pro
 - Tarjeta gráfica nvidia quadro rtx4000 de 8 gb gddr6
 

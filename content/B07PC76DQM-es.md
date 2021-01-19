@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Lenovo T530-28ICB - Ordenador sobremesa  al 42.00 % de descuento'
-date: 2021-01-18 22:10:30
+date: 2021-01-19 22:40:04
 image: 'https://m.media-amazon.com/images/I/414rWUrLoAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PC76DQM-es'
+slug: 'B07PC76DQM-es Lenovo T530-28ICB - Ordenador sobremesa Intel Core i5-8400...'
+tags: [  ]
 actualPrice: 579.99 EUR
 currency: EUR
 price: 579.99
@@ -16,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PC76DQM/?tag=tolees-21'
 descuento: '42.00'
-average: '620.2716666666666'
+average: '614.5171428571429'
 ---
 
 Está [Lenovo T530-28ICB - Ordenador sobremesa  Intel Core i5-8400  8GB RAM  1TB HDD  Tarjeta gráfica Nvidia GTX1060-3GB  Windows 10  Negro](https://www.amazon.es/dp/B07PC76DQM/?tag=tolees-21) con 42.00 de descuento por 579.99 EUR (original: 999.99 EUR) en el siguiente enlace!
@@ -25,10 +26,10 @@ Está [Lenovo T530-28ICB - Ordenador sobremesa  Intel Core i5-8400  8GB RAM  1TB
 
 ℹ️:
 
-- Memoria RAM de 8GB, DDR4
-- Procesador Intel Core i5-8400, 6 nucleos, 2.8Ghz hasta 4Ghz
-- Tarjeta grafica NVIDIA GeForce GTX1060-3GB GDDR5
-- Sistema operativo: Windows10
 - Almacenamiento HDD de 1TB, 7200rpm
+- Sistema operativo: Windows10
+- Memoria RAM de 8GB, DDR4
+- Tarjeta grafica NVIDIA GeForce GTX1060-3GB GDDR5
+- Procesador Intel Core i5-8400, 6 nucleos, 2.8Ghz hasta 4Ghz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PC76DQM/?tag=tolees-21)

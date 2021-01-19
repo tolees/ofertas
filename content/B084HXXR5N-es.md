@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Descuento del 51.98 % en Tommy Hilfiger Th Women Sock 3p Giftbox '
-date: 2021-01-17 19:24:56
+date: 2021-01-19 22:05:51
 image: 'https://m.media-amazon.com/images/I/41zQwLr7DXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084HXXR5N-es'
+slug: 'B084HXXR5N-es Tommy Hilfiger Th Women Sock 3p Giftbox Lurex calcetines...'
+tags: [  ]
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

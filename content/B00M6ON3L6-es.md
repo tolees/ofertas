@@ -26,11 +26,11 @@ Está [Pata Negra Crianza - Vino Tinto D.O. Rioja - Caja de 3 Botellas x 750 ml]
 
 ℹ️:
 
-- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 16 ºC y conservarlo en un lugar fresco y seco
-- Maridaje: Este vino es perfecto para acompañar ibéricos, chuletón a la brasa, surtido de quesos
-- Apariencia: Vino tinto de poderoso color rojo picota cubierto, con ribete violáceo, limpio y brillante
-- Aroma: En nariz, una vez oxigenado, aparecen claramente aromas a frutos rojos y negro acompañados de aromas balsámicos, francos y sutilmente especiados, con ligeros matices de roble
 - Gusto: En boca se muestra redondo y distinguido, y al mismo tiempo poderoso y estructurado, con un completo equilibrio entre vino y madera, dejando tras de sí, una persistente sensación aterciopelada
+- Apariencia: Vino tinto de poderoso color rojo picota cubierto, con ribete violáceo, limpio y brillante
 - Tipo de uva: Elaborado a partir de una selección de uvas Tempranillo, Graciano y Mazuelo, tres variedades de uva autóctonas de la Rioja
+- Maridaje: Este vino es perfecto para acompañar ibéricos, chuletón a la brasa, surtido de quesos
+- Aroma: En nariz, una vez oxigenado, aparecen claramente aromas a frutos rojos y negro acompañados de aromas balsámicos, francos y sutilmente especiados, con ligeros matices de roble
+- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 16 ºC y conservarlo en un lugar fresco y seco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00M6ON3L6/?tag=tolees-21)
