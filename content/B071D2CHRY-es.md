@@ -26,10 +26,10 @@ Ahora mismo tienes [jiamiaoi Pendientes de Plata  Pendientes para hombre  Pendie
 
 🔎:
 
-- ❤ Jiamiaoi aretes de plata, aretes de plata, aretes de circonio de diamante para hombres, aretes, 4mm-8mm
 - ❤ Ocasiones: uso diario, oficina, fiesta, para cualquier ocasión. Idea de regalo perfecto para niñas, damas, hombres.
-- ❤ Circonia brillante: AAAAA + circonia cúbica de alta calidad, corte perfecto, sin rayones.
-- ❤ Política de reembolso: envío rápido, 30 días sin motivo para el reembolso y la devolución. Si tiene algún problema, por favor contáctenos. Te ayudaremos a resolver el problema.
 - ❤ Material: auténticos pendientes de plata de ley 925, pendientes chapados en oro blanco (sin níquel, hipoalergénicos)
+- ❤ Política de reembolso: envío rápido, 30 días sin motivo para el reembolso y la devolución. Si tiene algún problema, por favor contáctenos. Te ayudaremos a resolver el problema.
+- ❤ Circonia brillante: AAAAA + circonia cúbica de alta calidad, corte perfecto, sin rayones.
+- ❤ Jiamiaoi aretes de plata, aretes de plata, aretes de circonio de diamante para hombres, aretes, 4mm-8mm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071D2CHRY/?tag=tolees-21)

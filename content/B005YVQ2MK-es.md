@@ -26,7 +26,7 @@ Ahora mismo tienes [Tommy Hilfiger TH CHILDREN SNEAKER 2P Calcetines de Ribetes 
 
 🔎:
 
-- Algodón peinado para proporcionar una sensación de suavidad.
 - Puntera terminada a mano para evitar molestias.
+- Algodón peinado para proporcionar una sensación de suavidad.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005YVQ2MK/?tag=tolees-21)

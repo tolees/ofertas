@@ -26,10 +26,10 @@ Ahora mismo tienes [SanDisk Extreme Pro - Portable SSD de 2 TB y hasta 1050 MB/s
 
 🔎:
 
-- Gracias a una capacidad de hasta 2tb, los profesionales creativos tienen suficiente espacio para bibliotecas completas de contenidos
-- Compatibilidad universal con pc y ordenadores mac con conexiones ustype-c y type-a, para que tengas la seguridad de que funcionará sin importar tu forma de trabajar
-- El diseño compacto y de tamaño de bolsillo no te pesará cuando viajes
-- Ahorra tiempo moviendo y editando tus archivos con nuestra rapidísima tecnología nvme interna que aumenta espectacularmente las velocidades de transferencia hasta 1050mb/s
 - El diseño con cuerpo de aluminio protege la ssd y disipa el calor; la clasificación ip55 la hace resistente al agua y al polvo y su revestimiento de silicona ofrece resistencia a los impactos
+- Ahorra tiempo moviendo y editando tus archivos con nuestra rapidísima tecnología nvme interna que aumenta espectacularmente las velocidades de transferencia hasta 1050mb/s
+- Compatibilidad universal con pc y ordenadores mac con conexiones ustype-c y type-a, para que tengas la seguridad de que funcionará sin importar tu forma de trabajar
+- Gracias a una capacidad de hasta 2tb, los profesionales creativos tienen suficiente espacio para bibliotecas completas de contenidos
+- El diseño compacto y de tamaño de bolsillo no te pesará cuando viajes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TNR2CXJ/?tag=tolees-21)

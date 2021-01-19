@@ -30,8 +30,8 @@ Está [Castellblanch - Cava Brut Zero Reserva Botella - 75 cl - Pack de 6 botell
 - 0
 - 0
 - 0
-- Peso neto de 750 ml
 - 0
+- Peso neto de 750 ml
 - Contiene sulfitos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088MM1XTV/?tag=tolees-21)
