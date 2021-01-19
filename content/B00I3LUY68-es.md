@@ -26,13 +26,13 @@ En este momento está [Sony MDR-ZX310R - Auriculares de diadema cerrados  sin mi
 
 🔎:
 
-- Rango de frecuencia 10-24.000 Hz
-- connectivity_technology: Alámbrico
-- Diafragmas de neodimio de 30 mm
-- display_size: 1.0 inches
-- output_wattage: 1015.0 watts
 - Auriculares tipo diadema con sensibilidad de 98 dB/mW
-- Diseño plegable compacto
+- Rango de frecuencia 10-24.000 Hz
+- display_size: 1.0 inches
 - Cascos acolchados para una escucha cómoda
+- Diafragmas de neodimio de 30 mm
+- output_wattage: 1015.0 watts
+- Diseño plegable compacto
+- connectivity_technology: Alámbrico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00I3LUY68/?tag=tolees-21)

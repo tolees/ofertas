@@ -26,9 +26,9 @@ En este momento está [Mannesmann - M 1190-07-GS - Destornillador 7 piezas](http
 
 🔎:
 
-- Materiales para trabajar: metal, material sintético.
-- Certificaciones y normas: CE.
-- Uso: electricidad (aislada).
 - Color principal: rojo.
+- Materiales para trabajar: metal, material sintético.
+- Uso: electricidad (aislada).
+- Certificaciones y normas: CE.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003XDU8LM/?tag=tolees-21)

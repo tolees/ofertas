@@ -26,9 +26,9 @@ Tienes [MARTISAN Atril para Partitura Plegable Portátil Musica Metalico Soporte
 
 🔎:
 
+- Soporte de metal resistente a la presión: MARTISAN estante de música está hecho de metal resistente a la presión, robusto y práctico，cada de los trípodes tiene un diámetro de 16 mm, tres postes de apoyo de 19 mm / 16 mm / 13 mm, y puede soportar un peso máximo de 1.5 kg
 - Espacio suficiente,bolso portátil fácil de llevar a cabo: La placa de sujección para libros mide 29 cm x 50 cm, lo suficiente para sus libros, partituras musicales, fácil de montar y desmontar, portátil y conveniente
 - Múltiples Usos: Un atril de partituras para muchos instrumentos, ideal para guitarra, ukelele, violin,batería / percusión espera , además, también puede ser utilizado como para concierto,bares， restaurantes，hoteles, salones menú
-- Soporte de metal resistente a la presión: MARTISAN estante de música está hecho de metal resistente a la presión, robusto y práctico，cada de los trípodes tiene un diámetro de 16 mm, tres postes de apoyo de 19 mm / 16 mm / 13 mm, y puede soportar un peso máximo de 1.5 kg
 - Diseño único antideslizante: hay 2 brazos de resorte en el Plegable Funda atril del estante, que pueden fijar su partitura musica o libros en su lugar para evitar resbalones y la parte inferior del atril tiene una funda de plástico antideslizante que se puede arreglar para evitar que se caiga
 - Fácil y ajustable altura: MARTISAN atril de música cuenta con perillas flexibles,alta calidad y bien diseñadas, que pueden ajustarse fácilmente a sus necesidades，puede la altura de 41 a 107 cm para que pueda sentarse o pararse
 

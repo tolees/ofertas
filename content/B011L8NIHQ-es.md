@@ -27,9 +27,9 @@ En este momento está [Dainese Soft Flex Hybrid Man Protecciones de Esquí  Homb
 🔎:
 
 - Malla Jersey Hole Altamente Transpirable Y Resistente Al Deslizamiento
-- Cintura Ajustable
-- Ce En 1621.2 Niv 2
-- Protector De Espalda Con Tecnología Flex
 - Protector De Espalda Con Tecnología Hybrid
+- Cintura Ajustable
+- Protector De Espalda Con Tecnología Flex
+- Ce En 1621.2 Niv 2
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B011L8NIHQ/?tag=tolees-21)

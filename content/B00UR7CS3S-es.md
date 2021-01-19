@@ -27,7 +27,7 @@ En este momento está [Only Onlroyal High Sk Jeans Pim600 Noos  Jeans Skinny par
 🔎:
 
 - Cierre: Cremallera
-- Skinny
 - Recomendamos adquirir la talla más grande
+- Skinny
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00UR7CS3S/?tag=tolees-21)

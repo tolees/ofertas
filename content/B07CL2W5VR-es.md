@@ -26,10 +26,10 @@ Tienes [10pcs 2 Canal 3 W x3W Mini Digital Power Pam 8403 Clase-D-Audio Estereo 
 
 ℹ️:
 
+- Filtro único Clase D, placa de alimentación digital sin LC, y se puede usar directamente con el USB de la computadora
 - El cableado de doble panel resuelve correctamente la diafonía entre el balance de potencial de tierra y el cableado del canal
 - Dos canales estéreo, fuente de alimentación de 5V puede producir 3W + 3 W de potencia, puede conducir directamente 4Ω y 8Ω de potencia de salida de altavoz pequeño, lleno de energía, buena calidad de sonido y gran capacidad de supresión de ruido
-- Diseño mini y compacto, puede colocarse fácilmente en el espacio interno de una variedad de productos digitales
-- Filtro único Clase D, placa de alimentación digital sin LC, y se puede usar directamente con el USB de la computadora
 - Voltaje de funcionamiento nominal 2.5-5V, límite de voltaje de funcionamiento 5.5V
+- Diseño mini y compacto, puede colocarse fácilmente en el espacio interno de una variedad de productos digitales
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CL2W5VR/?tag=tolees-21)
