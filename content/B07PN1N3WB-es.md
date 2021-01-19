@@ -28,7 +28,7 @@ En este momento está [non-brand EL357N-C Placa de Aislamiento de Optoacoplador 
 
 - Un mini aislamiento optoacoplador, módulo de conversión de nivel de señal.
 - Adecuado para la conversión de nivel general, como 24V.
-- Con luz indicadora de señal de entrada.
 - El lado de 24 V se puede conectar con un botón de cable largo, el lado de salida conectado al pin de IO de la MCU.
+- Con luz indicadora de señal de entrada.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PN1N3WB/?tag=tolees-21)

@@ -26,10 +26,10 @@ Está [GEOX B RISHON BOY B NAVY/DK RED Baby Boys  First Walking Shoes Low-Top Tr
 
 ℹ️:
 
-- Material de la suela: Caucho
-- Cierre: Strap
 - Material exterior: Ante
-- Altura del tacón: 2 centímetros
 - Revestimiento: Sintético
+- Cierre: Strap
+- Altura del tacón: 2 centímetros
+- Material de la suela: Caucho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0825PK6DK/?tag=tolees-21)

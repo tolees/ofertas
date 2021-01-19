@@ -26,9 +26,9 @@ Ahora mismo tienes [Dragon Ball Z: Kakarot](https://www.amazon.es/dp/B07QXYBGT2/
 
 🔎:
 
+- 80 gramos
 - Muy conveniente
 - Fácil de usar
-- 80 gramos
 - 17.02 x 13.46 x 0.25 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QXYBGT2/?tag=tolees-21)

@@ -27,7 +27,7 @@ Está [Figura Pop! Vinyl Trollhunters Blinkous](https://www.amazon.es/dp/B06XGX1
 ℹ️:
 
 - Standard
-- Jimi Hendrix Figura de colección Figura Vinilo Jimi Hendrix Rocks (Monterey) 53 para Sin clasificar
 - Vinilo
+- Jimi Hendrix Figura de colección Figura Vinilo Jimi Hendrix Rocks (Monterey) 53 para Sin clasificar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XGX1DYC/?tag=tolees-21)

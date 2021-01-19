@@ -26,8 +26,8 @@ Tienes [Helly Hansen Outdoor Aire Libre 10l Colegio Escuela Mochilla  Unisex ni�
 
 🔎:
 
+- Gran compartimento principal accesible con cremallera
 - Volumen 10L - 30cm x 13cm x 20cm
 - Correa de pecho ajustable con hebilla
-- Gran compartimento principal accesible con cremallera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N179LNL/?tag=tolees-21)

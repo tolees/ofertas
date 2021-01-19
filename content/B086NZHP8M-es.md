@@ -26,8 +26,8 @@ En este momento está [PUMA Studio Porcelain Ultra Rise Full Tight Mallas Deport
 
 🔎:
 
-- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 - Corte ceñido
+- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 - Flatlock Stitching: La solución de PUMA para reducir la fricción y aumentar la comodidad
 - Estampado colocado estratégicamente para más soporte
 - Tejido repelente de la humedad

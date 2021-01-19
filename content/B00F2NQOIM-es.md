@@ -26,9 +26,9 @@ Ahora mismo tienes [Bellota 6464-8 llave ajustable moleta lateral - 8](https://w
 
 🔎:
 
+- Tratamiento térmico de temple y revenido para mayor resistencia
 - Sección del mango en doble T para mayor robustez, resistencia y ergonomía
 - Bocas largas y delgadas para llegar a lugares difíciles y mejor sujeción de la tuerca
-- Tratamiento térmico de temple y revenido para mayor resistencia
 - Perfecto rectificado, ajuste total suave y sin holguras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00F2NQOIM/?tag=tolees-21)

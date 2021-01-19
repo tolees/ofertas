@@ -26,8 +26,8 @@ Está [Angel Schlesser Eau Fraiche Citrus Marino Edt Vapo 150 Ml - 150 ml](https
 
 ℹ️:
 
-- Producto de la marca Angel Schlesser
 - Eau Fraiche Citrus Marino Edt Vapo, 150 ml
+- Producto de la marca Angel Schlesser
 - De alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07T1DXYCC/?tag=tolees-21)
