@@ -26,9 +26,9 @@ Ahora mismo tienes [Mozart Liqueur Chocolate Cream - 700 ml](https://www.amazon.
 🔎:
 
 - Volumen: 700 ml
-- Crema de chocolate Mozart
-- Contenido de alcohol: 17 %
 - Región de producción: Salzburg
 - País de origen: Austria
+- Crema de chocolate Mozart
+- Contenido de alcohol: 17 %
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B009T4VE7G/?tag=tolees-21)

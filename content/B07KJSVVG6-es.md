@@ -25,7 +25,7 @@ Está [Esprit Accessoires 999ea1s803 Cinturón  Azul  Navy 400   105  Talla del 
 
 ℹ️:
 
-- Hebilla de diseño atractivo con la marca Esprit
 - Piel auténtica
+- Hebilla de diseño atractivo con la marca Esprit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KJSVVG6/?tag=tolees-21)

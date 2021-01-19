@@ -25,15 +25,15 @@ Tienes [Colnatur Complex - Colágeno Natural para Músculos y Articulaciones  Vi
 
 🔎:
 
-- DISMINUIR EL CANSANCIO Y LA FATIGA: EL magnesio y la vitamina C ayudan a disminuir el cansancio y la fatiga
-- CARTÍLAGOS: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los cartílagos
-- Sabor vainilla, formato en polvo
-- HUESOS: Las proteínas contribuyen al mantenimiento de huesos en condiciones normales. La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los huesos
 - Sin grasas, azúcares, edulcorantes artificiales, colorantes, conservantes, gluten ni otros alérgenos
-- Complemento alimenticio a base de proteína de colágeno hidrolizada (natural, muy asimilable y pura) enriquecida con magnesio, vitamina C y ácido hialurónico
 - Se requiere un mínimo de tres meses para apreciar resultados
 - MÚSCULOS: Las proteínas contribuyen a conservar la masa muscular
-- PIEL: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de la piel. La vitamina C contribuye a la protección de las células frente al daño oxidativo
 - Envase para 30 días
+- Complemento alimenticio a base de proteína de colágeno hidrolizada (natural, muy asimilable y pura) enriquecida con magnesio, vitamina C y ácido hialurónico
+- HUESOS: Las proteínas contribuyen al mantenimiento de huesos en condiciones normales. La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los huesos
+- Sabor vainilla, formato en polvo
+- PIEL: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de la piel. La vitamina C contribuye a la protección de las células frente al daño oxidativo
+- CARTÍLAGOS: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los cartílagos
+- DISMINUIR EL CANSANCIO Y LA FATIGA: EL magnesio y la vitamina C ayudan a disminuir el cansancio y la fatiga
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SW29FM4/?tag=tolees-21)

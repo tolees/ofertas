@@ -25,10 +25,10 @@ Ahora mismo tienes [Bresser 7000020CM - Termómetro e higrómetro Temeo Hygro Qu
 
 🔎:
 
-- Estación base: 10,4 x 11,9 x 2,5 cm de tamaño y 152 gramos de peso.
 - La estación base muestra la temperatura y la humedad relativa de 4 puntos de medida.
+- Estación base: 10,4 x 11,9 x 2,5 cm de tamaño y 152 gramos de peso.
+- Incluye 3 sensores adicionales con pantalla, de mesa o de pared.
 - El paquete incluye: estación base y 3 sensores.
 - Necesita 9 pilas AAA (3 para la estación principal y 2 para cada sensor), que no están incluidas.
-- Incluye 3 sensores adicionales con pantalla, de mesa o de pared.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01JS4I17M/?tag=tolees-21)

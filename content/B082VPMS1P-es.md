@@ -25,10 +25,10 @@ Está [Lenor Unstoppable Fresh  Perlas de Perfume para la Ropa  510 gr](https://
 
 ℹ️:
 
-- Personaliza la intensidad de la fragancia echando más o menos perlas
-- Vierte las perlas directamente en el tambor vacío de la lavadora antes de hacer la colada
-- Perlas de perfume para la ropa con aromas de cítricos refrescantes y frutas jugosas envueltos en notas florales
 - Las perlas Lenor Unstoppables están disponibles en diferentes aromas
+- Perlas de perfume para la ropa con aromas de cítricos refrescantes y frutas jugosas envueltos en notas florales
+- Personaliza la intensidad de la fragancia echando más o menos perlas
 - Una explosión de perfume en cada lavado
+- Vierte las perlas directamente en el tambor vacío de la lavadora antes de hacer la colada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082VPMS1P/?tag=tolees-21)
