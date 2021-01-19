@@ -26,8 +26,8 @@ Tienes [Ternua Enko Shirt Men Camiseta de Manga Larga  Hombre  Azul  Faience   S
 🔎:
 
 - Dryshell/Active Flex
-- Camiseta Enko T-Shirt
-- Regula la temperatura corporal
 - Transpirable
+- Regula la temperatura corporal
+- Camiseta Enko T-Shirt
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YM4QKXL/?tag=tolees-21)

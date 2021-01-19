@@ -25,10 +25,10 @@ Está [Geographical Norway Chaqueta Mujer Anson Negro M](https://www.amazon.es/d
 
 ℹ️:
 
-- Puños ajustables
-- Media cremallera
 - Capucha fija
-- Bolsillo tipo canguro en la parte delantera
+- Media cremallera
+- Puños ajustables
 - Bordados en la manga
+- Bolsillo tipo canguro en la parte delantera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081CDHNHQ/?tag=tolees-21)

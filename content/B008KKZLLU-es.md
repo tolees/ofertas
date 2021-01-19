@@ -25,8 +25,8 @@ En este momento está [Innovaciones MS Progress - Trona de madera  color natural
 
 🔎:
 
-- Trona de madera evolutiva con bandeja extraíble
-- Producto evolutivo en fases
 - Bebé de más de 4 meses, bebé de más de 16 meses, Niño de más de 4 años, Adolescente o adulto de más de 13 años
+- Producto evolutivo en fases
+- Trona de madera evolutiva con bandeja extraíble
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008KKZLLU/?tag=tolees-21)
