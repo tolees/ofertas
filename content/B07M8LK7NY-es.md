@@ -26,8 +26,8 @@ Ahora mismo tienes [Wrangler Logo tee Camiseta  Gris  Mid Grey Mel X37   Large p
 
 🔎:
 
-- Estampado frontal con el logo de Wrangler
 - Corte cómodo e informal
+- Estampado frontal con el logo de Wrangler
 - Tejido ligero primaveral
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07M8LK7NY/?tag=tolees-21)

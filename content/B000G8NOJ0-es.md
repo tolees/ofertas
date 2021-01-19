@@ -26,12 +26,12 @@ Tienes [Alessi LCD01/4 Caccia - Cucharilla para postre  6 unidades ](https://www
 
 ℹ️:
 
-- Contenido del paquete: 1
+- Dimensiones: 18,8 x 3,8 x 4,7 cm
+- Lavavajillas lavadora
+- Acero inoxidable 18/10 brillante
 - Cucharadita
 - Diseñador: Luigi Caccia Dominioni
-- Acero inoxidable 18/10 brillante
-- Lavavajillas lavadora
-- Dimensiones: 18,8 x 3,8 x 4,7 cm
+- Contenido del paquete: 1
 - colección Caccia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000G8NOJ0/?tag=tolees-21)
