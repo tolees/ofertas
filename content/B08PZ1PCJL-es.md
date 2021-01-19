@@ -26,10 +26,10 @@ Está [Titanwolf - Alfombrilla para ratón Gaming RGB - Mouse Pad 800 x 300 mm -
 
 ℹ️:
 
-- Funciones de los botones: con el botón se puede pasar de un color a otro: rojo, amarillo, verde, turquesa, azul, púrpura y blanco. Si sigues pulsando llegarás a los modos de efecto: "breathe" (los colores se iluminan uno tras otro) | transición de color aleatoria: lenta y rápida | parpadeante (secuencia aleatoria). ¡Elige tu favorito!
-- Gracias al revestimiento de goma en la parte inferior la almohadilla se mantiene inmóvil, incluso sobre el cristal y durante movimientos fuertes de juego.
 - ¡ Disfruta de un colorido y de unos efectos sorprendentes en tu propio escritorio ! La alfombrilla para ratón de 800 x 300 mm ofrece una iluminación en 7 colores vivos RGB. Tus amigos se quedarán boquiabiertos. Solo tienes que conectar la alfombrilla en tu ordenador con el cable USB incluido y serás el centro de atención en cada torneo LAN multiplayer | Número de modelo : 304775
-- La superficie lisa y microestructurada del tejido proporciona la resistencia exacta al deslizamiento para manejar el ratón con precisión. | La banda luminosa está cuidadosamente cosida para que aguante muchos años
+- Gracias al revestimiento de goma en la parte inferior la almohadilla se mantiene inmóvil, incluso sobre el cristal y durante movimientos fuertes de juego.
 - ¡ Combina la almohadilla con los teclados de luces y ratones Gaming de Titanwolf y únete a la cuadrilla de lobos de titanio !
+- Funciones de los botones: con el botón se puede pasar de un color a otro: rojo, amarillo, verde, turquesa, azul, púrpura y blanco. Si sigues pulsando llegarás a los modos de efecto: "breathe" (los colores se iluminan uno tras otro) | transición de color aleatoria: lenta y rápida | parpadeante (secuencia aleatoria). ¡Elige tu favorito!
+- La superficie lisa y microestructurada del tejido proporciona la resistencia exacta al deslizamiento para manejar el ratón con precisión. | La banda luminosa está cuidadosamente cosida para que aguante muchos años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PZ1PCJL/?tag=tolees-21)
