@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timker Fiambrera Electrica 24v 12v 220v  al 31.09 % de rebaja'
-date: 2021-01-17 23:43:54
+date: 2021-01-19 00:36:44
 image: 'https://m.media-amazon.com/images/I/41CrTI4CKnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08C4TVGXR/?tag=tolees-21'
 descuento: '31.09'
-average: '31.126363636363642'
+average: '30.65666666666667'
 ---
 
 Tienes [Timker Fiambrera Electrica 24v 12v 220v 3 In 1 Fiambrera Electrica Camion Coche y Trabajo Termo Comida Fiambrera Calentador Comida Portatil Oficina 40w Acero Extraíble De Acero Inoxidable 1.5l](https://www.amazon.es/dp/B08C4TVGXR/?tag=tolees-21) con precio final de  25.49 EUR (original: 36.99 EUR) (31.09 %  de rebaja) aqui!

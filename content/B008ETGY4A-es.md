@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tayg Caja herramientas plástico n. 25  n al 26.26 % de rebaja'
-date: 2021-01-17 12:26:46
+date: 2021-01-19 00:13:24
 image: 'https://m.media-amazon.com/images/I/410l4kqnfFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Tienes [Tayg Caja herramientas plástico n. 25  negro  400 X 206 X 188 mm](https
 
 🔎:
 
-- Material: pp
-- Bandeja-rojo
-- Color:caja-azul
 - Estuche-transparente
+- Color:caja-azul
+- Bandeja-rojo
+- Material: pp
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B008ETGY4A/?tag=tolees-21)

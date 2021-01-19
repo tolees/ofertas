@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'Samsung MZ-V7S500BW 970 EVO Plus - Unida al 44.96 % de descuento'
-date: 2021-01-17 23:52:17
+title: 'Samsung MZ-V7S500BW 970 EVO Plus - Unida al 33.57 % de descuento'
+date: 2021-01-19 00:14:20
 image: 'https://m.media-amazon.com/images/I/416rM0BbODL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07MFBLN7K-es'
-actualPrice: 82.0 EUR
+actualPrice: 98.98 EUR
 currency: EUR
-price: 82.0
+price: 98.98
 comparePrice: 148.99 EUR
 prodname: 'Samsung MZ-V7S500BW 970 EVO Plus - Unidad SSD  500 GB  M.2  NVMe  tamaño 2.5 "  Interfaz SATA 6 GB/s  Color Negro/Naranja'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MFBLN7K/?tag=tolees-21'
-descuento: '44.96'
-average: '101.98695121951222'
+descuento: '33.57'
+average: '101.95072289156629'
 ---
 
-Ahora mismo tienes [Samsung MZ-V7S500BW 970 EVO Plus - Unidad SSD  500 GB  M.2  NVMe  tamaño 2.5 "  Interfaz SATA 6 GB/s  Color Negro/Naranja](https://www.amazon.es/dp/B07MFBLN7K/?tag=tolees-21) a 82.0 EUR (original: 148.99 EUR) (44.96 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Samsung MZ-V7S500BW 970 EVO Plus - Unidad SSD  500 GB  M.2  NVMe  tamaño 2.5 "  Interfaz SATA 6 GB/s  Color Negro/Naranja](https://www.amazon.es/dp/B07MFBLN7K/?tag=tolees-21) a 98.98 EUR (original: 148.99 EUR) (33.57 %  de descuento) en el siguiente enlace!
 
 [![Samsung MZ-V7S500BW 970 EVO Plus - Unida](https://m.media-amazon.com/images/I/416rM0BbODL._SL200_.jpg)](https://www.amazon.es/dp/B07MFBLN7K/?tag=tolees-21)
 
 🔎:
 
-- Ssd con tecnología v-nand samsung
-- Lectura al azar (4kb, qd32) hasta 600000.iops y escritura aleatorio (4kb, qd32) hasta 550000.iops
-- Factor de forma 2.5.pulgadas excelente tanto para ordenadores portátiles que fijos
+- Formato M.2 para equipos ultraligeros o pc de sobremesa
 - Velocidad de lectura secuencial hasta 3.500.mb/seg y velocidad de escritura secuencial hasta 3.300.mb/seg.
+- Lectura al azar (4kb, qd32) hasta 600000.iops y escritura aleatorio (4kb, qd32) hasta 550000.iops
 - Interfaz sata 6.gb/s y retrocompatible con sata 3.gbps y sata 1.5.gbps
+- Ssd con tecnología v-nand samsung
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MFBLN7K/?tag=tolees-21)

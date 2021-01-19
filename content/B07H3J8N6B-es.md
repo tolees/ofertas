@@ -25,10 +25,10 @@ Está [Jakks Pacific Super Mario-Set de Figuras Mundo Dungeon  Multicolor  6 cm 
 
 ℹ️:
 
-- Cada figura tiene aprox. 6 cm de altura.
-- Recrea increíbles aventuras con este set de figuras de super mario bross.
 - El mundo nintendo en tus manos.
+- Cada figura tiene aprox. 6 cm de altura.
 - Colecciona todas las figuras para hacerte con los personajes del mundo de super mario bros al completo.
 - Incluye 5 figuras del mundo dungeon, adéntrate en la mazmorra de browser.
+- Recrea increíbles aventuras con este set de figuras de super mario bross.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H3J8N6B/?tag=tolees-21)
