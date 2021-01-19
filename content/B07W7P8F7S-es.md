@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PE-9afOxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7P8F7S-es B Baosity 2 Pack Maleta Correa Mango Accesorio De Viaje Equipaje Correa Mango Agarre'
+slug: 'B07W7P8F7S-es B Baosity 2 Pack Maleta Correa Mango Accesorio De Viaje...'
+tags: 
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

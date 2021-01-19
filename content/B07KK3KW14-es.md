@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HqQLVN6NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK3KW14-es Columbia Fire Venture L Mid II WP  Botas de Senderismo para Mujer  Marrón  Dark Truffle  W 206   36 EU'
+slug: 'B07KK3KW14-es Columbia Fire Venture L Mid II WP Botas de Senderismo para...'
+tags: 
 actualPrice: 26.42 EUR
 currency: EUR
 price: 26.42

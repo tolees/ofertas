@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X14aTczTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LRS29SO-es Bébé Confort MILOFIX - Silla de auto de 0 a 4 años  R44/04  0-18 kg  gr 0+/1  color azul  Nomad Blue '
+slug: 'B01LRS29SO-es Bébé Confort MILOFIX - Silla de auto de 0 a 4 años R44/04...'
+tags: 
 actualPrice: 175.56 EUR
 currency: EUR
 price: 175.56

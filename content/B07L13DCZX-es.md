@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QH4Kf4DoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L13DCZX-es Under Armour  UNDKU Rival Parte Superior del Calentamiento  Mujer  Negro  XS'
+slug: 'B07L13DCZX-es Under Armour UNDKU Rival Parte Superior del Calentamiento...'
+tags: 
 actualPrice: 34.17 EUR
 currency: EUR
 price: 34.17

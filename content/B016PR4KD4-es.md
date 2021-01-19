@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31l8GyaVHzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016PR4KD4-es LIFETIME 80471 - Mesa plegable multiusos ultrarresistente 184x76x73 5 cm UV100'
+slug: 'B016PR4KD4-es LIFETIME 80471 - Mesa plegable multiusos ultrarresistente...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

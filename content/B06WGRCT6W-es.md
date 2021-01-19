@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HHhrI5lML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WGRCT6W-es Dcasa DC-2430192 - Cubos de basura para pañales y recambios  unisex'
+slug: 'B06WGRCT6W-es Dcasa DC-2430192 - Cubos de basura para pañales y...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

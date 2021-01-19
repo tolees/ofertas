@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JX3G3ZFDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9S5L3X-es PUMA Cilia Mode  Zapatillas para Mujer  Blanco White/Rosewater/Castlerock/Sun Kissed Coral 04  38 EU'
+slug: 'B07S9S5L3X-es PUMA Cilia Mode Zapatillas para Mujer Blanco...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

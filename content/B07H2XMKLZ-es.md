@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EUVAocYnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2XMKLZ-es Smeg 770926334 Tostador  2000 W  Beige'
+slug: 'B07H2XMKLZ-es Smeg 770926334 Tostador 2000 W Beige'
+tags: 
 actualPrice: 110.97 EUR
 currency: EUR
 price: 110.97

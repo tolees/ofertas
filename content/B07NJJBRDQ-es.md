@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mmzCf41ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJJBRDQ-es Tamaris 1-1-25283-23  Botas Militar para Mujer  Marrón  Nut 440   36 EU'
+slug: 'B07NJJBRDQ-es Tamaris 1-1-25283-23 Botas Militar para Mujer Marrón Nut...'
+tags: 
 actualPrice: 31.14 EUR
 currency: EUR
 price: 31.14

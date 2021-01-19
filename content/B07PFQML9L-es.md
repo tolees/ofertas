@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417mAJC1bkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFQML9L-es American Tourister Disney Legends Spinner L Maleta Infantil  75 cm  88 L  Azul  Take Me Away Mickey London '
+slug: 'B07PFQML9L-es American Tourister Disney Legends Spinner L Maleta...'
+tags: 
 actualPrice: 87.77 EUR
 currency: EUR
 price: 87.77

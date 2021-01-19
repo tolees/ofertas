@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Cmj8u58oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007VNB79C-es Bosch - Siemens - Neff - Aceite de Limpieza y Cuidado para Superficies de Acero Inoxidable'
+slug: 'B007VNB79C-es Bosch - Siemens - Neff - Aceite de Limpieza y Cuidado para...'
+tags: 
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

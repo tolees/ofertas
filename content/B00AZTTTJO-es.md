@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PDqVQYZzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AZTTTJO-es HP CN627AE 971XL Cartucho de Tinta Original de alto rendimiento  1 unidad  magenta'
+slug: 'B00AZTTTJO-es HP CN627AE 971XL Cartucho de Tinta Original de alto...'
+tags: 
 actualPrice: 102.0 EUR
 currency: EUR
 price: 102.0

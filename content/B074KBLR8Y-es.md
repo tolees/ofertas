@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+lSXP2R9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074KBLR8Y-es Fitbit Ionic  El Smartwatch Deportivo  Azulado/Gris Plateado'
+slug: 'B074KBLR8Y-es Fitbit Ionic El Smartwatch Deportivo Azulado/Gris Plateado'
+tags: 
 actualPrice: 159.95 EUR
 currency: EUR
 price: 159.95

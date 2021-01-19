@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51qYJAY4jlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MCDJ4UK-es Epson Workforce WF-2630WF - Impresora multifunción de Tinta  WiFi  Pantalla LCD Monocroma retroiluminada de 5 6 cm   Color Negro  Ya Disponible en Amazon Dash Replenishment'
+slug: 'B00MCDJ4UK-es Epson Workforce WF-2630WF - Impresora multifunción de...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31esnBFog2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KPPXWJ6-es MAKITA DTL061Z Herramienta  18 V'
+slug: 'B00KPPXWJ6-es MAKITA DTL061Z Herramienta 18 V'
+tags: 
 actualPrice: 153.82 EUR
 currency: EUR
 price: 153.82

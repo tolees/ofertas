@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4174RxBN9DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVJ1QRD-es Safety 1st Travel Booster Trona de viaje portátil  Asiento de bebés blando y acolchado  trona plegable y portátil  Red Lines'
+slug: 'B06WVJ1QRD-es Safety 1st Travel Booster Trona de viaje portátil Asiento...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

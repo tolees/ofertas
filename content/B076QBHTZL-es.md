@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g1uDmOsKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076QBHTZL-es Mondial A10 Placa de Calefacción  1500 W  Gris'
+slug: 'B076QBHTZL-es Mondial A10 Placa de Calefacción 1500 W Gris'
+tags: 
 actualPrice: 53.58 EUR
 currency: EUR
 price: 53.58

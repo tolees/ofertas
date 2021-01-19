@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wQjaBGtSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MWORLOU-es Orient Reloj Analógico para Hombre de Automático con Correa en Cuero FEV0U002WH'
+slug: 'B00MWORLOU-es Orient Reloj Analógico para Hombre de Automático con...'
+tags: 
 actualPrice: 123.47 EUR
 currency: EUR
 price: 123.47

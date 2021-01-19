@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51j4c00x0DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGQ437W-es Desigual Foul Galaxy Bufanda  Rojo  Red Ocre 3069   Talla Única  talla del fabricante: U  para Mujer'
+slug: 'B07WGQ437W-es Desigual Foul Galaxy Bufanda Rojo Red Ocre 3069 Talla...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

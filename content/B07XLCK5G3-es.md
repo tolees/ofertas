@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41okb1LSIYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLCK5G3-es ecomed HP-46E Almohada eléctrica para el cuello  almohada eléctrica de 3 fases  almohada eléctrica para la espalda con protección contra sobrecalentamiento  desconexión automática  lavable'
+slug: 'B07XLCK5G3-es ecomed HP-46E Almohada eléctrica para el cuello almohada...'
+tags: 
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

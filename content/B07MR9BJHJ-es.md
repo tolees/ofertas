@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318tqXSP5FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR9BJHJ-es Lee Austin Jeans  Negro  Moto Black HL   33W / 32L para Hombre'
+slug: 'B07MR9BJHJ-es Lee Austin Jeans Negro Moto Black HL 33W / 32L para Hombre'
+tags: 
 actualPrice: 39.63 EUR
 currency: EUR
 price: 39.63

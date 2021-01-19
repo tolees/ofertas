@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Rhh1XQvwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BCNZ9L6-es Moulinex Wizzo Robot De Repostería Con Kit Para Masas  700 W  4 litros  Acero Inoxidable  Negro'
+slug: 'B07BCNZ9L6-es Moulinex Wizzo Robot De Repostería Con Kit Para Masas 700...'
+tags: 
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419dQ6jPp7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CLK73XE-es Head Promotion - Gorra Unisex  Color Azul Marino  Talla única'
+slug: 'B00CLK73XE-es Head Promotion - Gorra Unisex Color Azul Marino Talla única'
+tags: 
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

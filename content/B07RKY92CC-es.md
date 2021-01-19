@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31T682vPeJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKY92CC-es adidas Stan Smith  Zapatillas para Hombre  Blanco  Footwear White/Core Black/Footwear White 0   41 1/3 EU'
+slug: 'B07RKY92CC-es adidas Stan Smith Zapatillas para Hombre Blanco Footwear...'
+tags: 
 actualPrice: 43.9 EUR
 currency: EUR
 price: 43.9

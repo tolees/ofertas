@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41apNq4i7fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTTRRVT-es Skechers Solar Fuse  Zapatillas sin Cordones para Hombre  Azul  Black Knit/PU/Gold Trim Bkgd   43 EU'
+slug: 'B07TTTRRVT-es Skechers Solar Fuse Zapatillas sin Cordones para Hombre...'
+tags: 
 actualPrice: 40.61 EUR
 currency: EUR
 price: 40.61

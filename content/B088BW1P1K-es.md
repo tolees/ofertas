@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mK5eeYIkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BW1P1K-es Zeen Papel Xuan Pintura 35x25cm 30 Hojas Duradero Papel de arroz Blanco'
+slug: 'B088BW1P1K-es Zeen Papel Xuan Pintura 35x25cm 30 Hojas Duradero Papel de...'
+tags: 
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

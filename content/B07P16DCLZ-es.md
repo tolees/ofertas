@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413xnVJJ9OL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P16DCLZ-es Superdry Classic Lite Micro Pique Polo  Amarillo  Sulphur Yellow 22k   X-Large para Hombre'
+slug: 'B07P16DCLZ-es Superdry Classic Lite Micro Pique Polo Amarillo Sulphur...'
+tags: 
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

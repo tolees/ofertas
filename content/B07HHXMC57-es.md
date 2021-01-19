@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GASSpdCJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHXMC57-es Nike Team Hustle D 9  PS   Zapatillas de Baloncesto Unisex niño  Blanco  White/Black/Volt 000   28 EU'
+slug: 'B07HHXMC57-es Nike Team Hustle D 9 PS Zapatillas de Baloncesto Unisex...'
+tags: 
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

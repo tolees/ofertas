@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416+RFHRnTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GHJDHG9-es Espejo retrovisor para coche de bebé para interior  espejo de coche con ventosa  360 grados parte trasera del asiento trasero del coche espejo retrovisor para niños negro'
+slug: 'B07GHJDHG9-es Espejo retrovisor para coche de bebé para interior espejo...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FRwCL293L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Z92KTA-es Solgar 40+ Acidophilus Avanzado  Probiótico para el Mantenimiento de una Flora Intestinal Sana  Apto para Veganos  60 Cápsulas Vegetales'
+slug: 'B000Z92KTA-es Solgar 40+ Acidophilus Avanzado Probiótico para el...'
+tags: 
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

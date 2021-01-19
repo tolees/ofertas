@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t1r5CrQ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015HL6AOG-es New Balance 500  Zapatillas para Hombre  Marrón  Brown/Grey Sgg   40.5 EU'
+slug: 'B015HL6AOG-es New Balance 500 Zapatillas para Hombre Marrón Brown/Grey...'
+tags: 
 actualPrice: 34.8 EUR
 currency: EUR
 price: 34.8

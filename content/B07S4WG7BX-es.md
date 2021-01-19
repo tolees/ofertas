@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-YduzNLJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4WG7BX-es New Balance 997H h  Zapatillas para Hombre  Marfil  Off Hbp   40 EU'
+slug: 'B07S4WG7BX-es New Balance 997H h Zapatillas para Hombre Marfil Off Hbp...'
+tags: 
 actualPrice: 42.84 EUR
 currency: EUR
 price: 42.84

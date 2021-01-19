@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QaxEhXONL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNB9BQ9-es Adidas Vs Switch 2 CMF C  Zapatillas de Running Unisex niño  Multicolor  Azuosc/Ftwbla/Azul 000   34 EU'
+slug: 'B07SNB9BQ9-es Adidas Vs Switch 2 CMF C Zapatillas de Running Unisex niño...'
+tags: 
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

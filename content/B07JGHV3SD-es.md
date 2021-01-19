@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ip+3yobgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGHV3SD-es Pepe Jeans Lena Pl800863 Bañador   Multi Bleu 0aa   W32  Talla del Fabricante: X-Large  para Mujer'
+slug: 'B07JGHV3SD-es Pepe Jeans Lena Pl800863 Bañador Multi Bleu 0aa W32 Talla...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rmmoeFROL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793KHL5R-es Educa Borrás- Mickey and The Roadster Racers 2 Puzzles Infantiles de Madera ecológica  25 Piezas  Minnie Happy Helpers  a Partir de 36 Meses  Multicolor  17625 '
+slug: 'B0793KHL5R-es Educa Borrás- Mickey and The Roadster Racers 2 Puzzles...'
+tags: 
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

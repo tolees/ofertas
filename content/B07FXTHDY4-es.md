@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pTbuHN+sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXTHDY4-es Adidas Nemeziz Tango 18.4 In  Zapatillas de fútbol Sala para Hombre  Azul Ftwbla/Fooblu 001  44 EU'
+slug: 'B07FXTHDY4-es Adidas Nemeziz Tango 18.4 In Zapatillas de fútbol Sala...'
+tags: 
 actualPrice: 30.01 EUR
 currency: EUR
 price: 30.01

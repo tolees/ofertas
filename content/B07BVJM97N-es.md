@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gqm642xFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVJM97N-es WisFox Ajustable Antiadherente Fondant Rolling Pins con Discos Ajustables y Marcado de Medición + Silicona para Hornear Rolling Mat para Pastelería Rolling Baking Dough Pizza Pastel Cookies'
+slug: 'B07BVJM97N-es WisFox Ajustable Antiadherente Fondant Rolling Pins con...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

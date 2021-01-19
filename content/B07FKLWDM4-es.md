@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+VQscfriL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKLWDM4-es Apple Funda de piel  para el MacBook de 12 pulgadas  - Negro'
+slug: 'B07FKLWDM4-es Apple Funda de piel para el MacBook de 12 pulgadas - Negro'
+tags: 
 actualPrice: 133.09 EUR
 currency: EUR
 price: 133.09

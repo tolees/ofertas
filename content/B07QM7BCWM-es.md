@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413alxWy-BL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QM7BCWM-es TAOCOCO 1080P Cámaras de Vigilancia  Cámara IP WiFi FHD Detección de Movimiento/Sonar  Audio Bidireccional  Visión Nocturna para Bebés/Personas Mayores/Mascotas/Pan/Tilt'
+slug: 'B07QM7BCWM-es TAOCOCO 1080P Cámaras de Vigilancia Cámara IP WiFi FHD...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

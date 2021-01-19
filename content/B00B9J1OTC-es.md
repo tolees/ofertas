@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mgIIEBcLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B9J1OTC-es Roca A5A6125C00 A5A3125C00 Monomando Lavabo  Colección Victoria-N  Cromado  Cromo'
+slug: 'B00B9J1OTC-es Roca A5A6125C00 A5A3125C00 Monomando Lavabo Colección...'
+tags: 
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

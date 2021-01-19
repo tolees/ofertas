@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CwvMj8jbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QSQFX17-es Amzchef Picadora de Carne Eléctrica con alta y baja velocidad función de frenado  recipiente de vidrio de 1  8L para carnes verduras y frutas  4 cuchillas de acero inoxidable Picadora Múltiples  300W'
+slug: 'B07QSQFX17-es Amzchef Picadora de Carne Eléctrica con alta y baja...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

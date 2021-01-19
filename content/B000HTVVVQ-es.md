@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A+VA+shBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000HTVVVQ-es Saucony Jazz Original-W  Zapatillas para Mujer  Azul  Navy/Silver   40.5 EU'
+slug: 'B000HTVVVQ-es Saucony Jazz Original-W Zapatillas para Mujer Azul...'
+tags: 
 actualPrice: 43.9 EUR
 currency: EUR
 price: 43.9

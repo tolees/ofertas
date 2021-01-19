@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51i56tVNy2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVXDR8P-es TAIFU - Adaptador de alimentación CA  65 W  Chargeur Universel 65W'
+slug: 'B07WVXDR8P-es TAIFU - Adaptador de alimentación CA 65 W Chargeur...'
+tags: 
 actualPrice: 5.08 EUR
 currency: EUR
 price: 5.08

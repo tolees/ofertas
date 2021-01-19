@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61uqosbiEyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0885ZTCJY-es Auihiay 221 piezas de plástico retráctil incluye 20 hojas transparentes de papel artístico encogido  perforador y llaveros accesorios para manualidades infantiles'
+slug: 'B0885ZTCJY-es Auihiay 221 piezas de plástico retráctil incluye 20 hojas...'
+tags: 
 actualPrice: 19.35 EUR
 currency: EUR
 price: 19.35

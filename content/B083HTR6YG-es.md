@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Mp2C8D2JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HTR6YG-es K9CK Luces LED para Ideas Friends Central Perk 21319  Kit de Iluminación Luz con Control Remoto Compatible con Bloques de construcción  NO Incluido en el Modelo '
+slug: 'B083HTR6YG-es K9CK Luces LED para Ideas Friends Central Perk 21319 Kit...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

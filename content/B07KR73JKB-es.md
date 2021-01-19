@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EcX7ZLyKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR73JKB-es Under Armour Unstoppable Move Lightjogger Pantalones  Hombre  Marrón  Silt Brown Full Heather/Black 221   L'
+slug: 'B07KR73JKB-es Under Armour Unstoppable Move Lightjogger Pantalones...'
+tags: 
 actualPrice: 28.42 EUR
 currency: EUR
 price: 28.42

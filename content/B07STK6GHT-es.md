@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419QNGmXziL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STK6GHT-es ZARRS 180 Piezas Ojos de Seguridad de Juguete Plástico  6-12 mm con Arandelas Hacer Muñecas Marioneta DIY Manualidades（ Negro）'
+slug: 'B07STK6GHT-es ZARRS 180 Piezas Ojos de Seguridad de Juguete Plástico...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

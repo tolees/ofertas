@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414fLDtwLnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B005LU5U4K-es HP CN045AE 950XL Cartucho de Tinta Original de alto rendimiento  1 unidad  negro'
+slug: 'B005LU5U4K-es HP CN045AE 950XL Cartucho de Tinta Original de alto...'
+tags: 
 actualPrice: 34 EUR
 currency: EUR
 price: 34

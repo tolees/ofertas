@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q+4vCnIXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M2QDKNO-es SODIAL R  Soporte base de mesa universal ajustable plegable blanco para iPhone iPad'
+slug: 'B00M2QDKNO-es SODIAL R Soporte base de mesa universal ajustable plegable...'
+tags: 
 actualPrice: 2.61 EUR
 currency: EUR
 price: 2.61

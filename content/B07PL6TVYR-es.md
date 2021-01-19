@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kIYvaxw8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PL6TVYR-es SikaWall 08 Fijador  Imprimación para fijar superficies porosas  2kg  Blanco'
+slug: 'B07PL6TVYR-es SikaWall 08 Fijador Imprimación para fijar superficies...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

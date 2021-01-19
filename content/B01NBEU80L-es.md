@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bFZhX-4+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBEU80L-es Ecotools Brochas para Definir e Iluminar El Rostro  21 g'
+slug: 'B01NBEU80L-es Ecotools Brochas para Definir e Iluminar El Rostro 21 g'
+tags: 
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

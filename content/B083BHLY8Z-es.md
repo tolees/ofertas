@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t3IOACz+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BHLY8Z-es Camicia Dottore/Dottoressa Accessori Valigetta Dottore Bambini Costume da Dottore per Giocattoli Bambino 3 4 5 Anni BUON Materiale  …'
+slug: 'B083BHLY8Z-es Camicia Dottore/Dottoressa Accessori Valigetta Dottore...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

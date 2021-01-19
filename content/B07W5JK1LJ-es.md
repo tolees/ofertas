@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415FyMJbnBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5JK1LJ-es Logitech G512 SE Teclado Gaming Mecánico  Retroiluminado RGB LIGHTSYNC  Interruptores GX Blue  Aleación de Aluminio 5052  Teclas de Función  Conexión de Paso de USB  Disposición AZERTY Francés  Negro'
+slug: 'B07W5JK1LJ-es Logitech G512 SE Teclado Gaming Mecánico Retroiluminado...'
+tags: 
 actualPrice: 85.62 EUR
 currency: EUR
 price: 85.62

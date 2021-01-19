@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Id2YeoGAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZM532FC-es Repelente ultrasonico  antimosquitos antimosquitos electrico control de plagas anti cucarachas  moscas  mosquitos  ratones  arañas 100% Inofensivo'
+slug: 'B07ZM532FC-es Repelente ultrasonico antimosquitos antimosquitos...'
+tags: 
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

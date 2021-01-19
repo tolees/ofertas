@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oJZCJGKLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EYIZ3P0-es Yazilind oro 18K plateado cuelga los pendientes de aro circonio cúbico aros multicolores con encanto para la Mujer rojo'
+slug: 'B01EYIZ3P0-es Yazilind oro 18K plateado cuelga los pendientes de aro...'
+tags: 
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

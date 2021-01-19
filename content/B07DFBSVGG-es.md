@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFBSVGG-es Pop! Crash Bandicoot - Aku Aku'
+tags: 
 actualPrice: 11.93 EUR
 currency: EUR
 price: 11.93

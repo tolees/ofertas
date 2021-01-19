@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OYCY4JwLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R25H5ND-es Banpresto - Disney Character Scar  Bandai 85652 '
+slug: 'B07R25H5ND-es Banpresto - Disney Character Scar Bandai 85652'
+tags: 
 actualPrice: 19.38 EUR
 currency: EUR
 price: 19.38

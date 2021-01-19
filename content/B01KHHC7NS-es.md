@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415NkrLHdKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KHHC7NS-es Yamaha MusicCast WX-010 - Altavoz Amplificado en Red  Inalámbrico  WiFi  Bluetooth  Color Blanco'
+slug: 'B01KHHC7NS-es Yamaha MusicCast WX-010 - Altavoz Amplificado en Red...'
+tags: 
 actualPrice: 73.66 EUR
 currency: EUR
 price: 73.66

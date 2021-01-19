@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BQawK7DYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FZSLXJ-es Salomon Wings Flyte 2 GTX  Zapatillas de Running para Asfalto para Hombre  Azul  Night Sky/Snorkel Blue/Graphite Night Sky/Snorkel Blue/Graphite   43 1/3 EU'
+slug: 'B075FZSLXJ-es Salomon Wings Flyte 2 GTX Zapatillas de Running para...'
+tags: 
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

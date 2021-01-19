@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311Rs5lPhdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085YG9PP3-es HR-International - 2 rollos de paño desechable para limpieza de cocina húmeda y seca  toallas de papel de cocina para baño o ventana  100 unidades  blanco '
+slug: 'B085YG9PP3-es HR-International - 2 rollos de paño desechable para...'
+tags: 
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

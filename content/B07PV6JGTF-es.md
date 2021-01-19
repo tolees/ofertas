@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+rXnMlSFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PV6JGTF-es KEXIN 32GB Memoria USB Tipo C y USB 3.0 OTG Flash Drive Impermeable 2 en 1 Memory Stick para Portátil  Teléfono y Otras Dispositivos USB o Tipo C [Resistente al Agua]'
+slug: 'B07PV6JGTF-es KEXIN 32GB Memoria USB Tipo C y USB 3.0 OTG Flash Drive...'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

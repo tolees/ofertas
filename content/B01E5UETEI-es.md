@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FBl16nwJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E5UETEI-es Lacoste Sport Carnaby EVO BL 1 SPW  Zapatillas para Mujer  Azul  Nvy   35.5 EU'
+slug: 'B01E5UETEI-es Lacoste Sport Carnaby EVO BL 1 SPW Zapatillas para Mujer...'
+tags: 
 actualPrice: 59.85 EUR
 currency: EUR
 price: 59.85

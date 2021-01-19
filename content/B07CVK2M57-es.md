@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31t6ievBIoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVK2M57-es touchbeauty ag-0676 3-en-1 Set Manicura y Pedicura Eléctrica mujeres limage y el pulido de las uñas'
+slug: 'B07CVK2M57-es touchbeauty ag-0676 3-en-1 Set Manicura y Pedicura...'
+tags: 
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

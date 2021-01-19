@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411mNrhMaLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DV44QMK-es Columbia Wayfinder  Zapatillas de Senderismo para Mujer  Gris  Graphite  Jade Lime 053   40.5 EU'
+slug: 'B07DV44QMK-es Columbia Wayfinder Zapatillas de Senderismo para Mujer...'
+tags: 
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

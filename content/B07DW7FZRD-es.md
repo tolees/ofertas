@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G2Oi1CT0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DW7FZRD-es Eono Essentials - Soporte con Total Movimiento para Monitor de sobremesa con Pantalla de 15–27 Pulgadas'
+slug: 'B07DW7FZRD-es Eono Essentials - Soporte con Total Movimiento para...'
+tags: 
 actualPrice: 34.39 EUR
 currency: EUR
 price: 34.39

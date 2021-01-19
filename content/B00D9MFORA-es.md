@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31F2a+02d7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D9MFORA-es Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Ivory  42 EU'
+slug: 'B00D9MFORA-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Ivory...'
+tags: 
 actualPrice: 43.23 EUR
 currency: EUR
 price: 43.23

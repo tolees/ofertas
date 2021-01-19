@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41niYA87Y3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BBWMGNK-es Sony SELP18200 - Objetivo para Sony  Distancia Focal 27-300mm  Apertura f/3.5-40  Zoom óptico 11x estabilizador  Negro'
+slug: 'B00BBWMGNK-es Sony SELP18200 - Objetivo para Sony Distancia Focal...'
+tags: 
 actualPrice: 703.31 EUR
 currency: EUR
 price: 703.31

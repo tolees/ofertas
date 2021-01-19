@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nDzq1KqEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085VF9GQP-es TONGJI Vitrina de Acrílico Compatible con Lego 42096 Technic Porsche 911 RSR  Vitrina A Prueba De Polvo  Modelo No Incluido '
+slug: 'B085VF9GQP-es TONGJI Vitrina de Acrílico Compatible con Lego 42096...'
+tags: 
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

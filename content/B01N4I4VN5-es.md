@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4I4VN5-es Intex 56286EU - Patito mega hinchable 221X221x122 cm'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

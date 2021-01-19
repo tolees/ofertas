@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oCzFnfSuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797M2VRX-es Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mujer  White/Black/ Black   S'
+slug: 'B0797M2VRX-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer White/Black/...'
+tags: 
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dz+9iEGOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G6F8TOM-es Gant Contrast Color Pique - Polo con manga corta para hombre  Blanco  White   Small'
+slug: 'B00G6F8TOM-es Gant Contrast Color Pique - Polo con manga corta para...'
+tags: 
 actualPrice: 45.28 EUR
 currency: EUR
 price: 45.28

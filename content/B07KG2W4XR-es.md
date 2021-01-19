@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kPWRFU3NL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG2W4XR-es PUMA Nova Wn s  Zapatillas Deportivas para Mujer  Blanco White Black  37.5 EU'
+slug: 'B07KG2W4XR-es PUMA Nova Wn s Zapatillas Deportivas para Mujer Blanco...'
+tags: 
 actualPrice: 27.11 EUR
 currency: EUR
 price: 27.11

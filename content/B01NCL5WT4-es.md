@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mi8ZmjxZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCL5WT4-es Helly Hansen W Pier 2 Pant Bib  Mujer  Navy  XS'
+slug: 'B01NCL5WT4-es Helly Hansen W Pier 2 Pant Bib Mujer Navy XS'
+tags: 
 actualPrice: 83.5 EUR
 currency: EUR
 price: 83.5

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51uU52PgAbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MD5KTP-es Fantasy Flight Games- Caja de Inicio para Dos Jugadores  colección Destiny  FFSWD08 '
+slug: 'B075MD5KTP-es Fantasy Flight Games- Caja de Inicio para Dos Jugadores...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EosIc7GPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M3J2PUY-es Nixon Reloj con Movimiento Cuarzo japonés Man A3772001 38.0 mm'
+slug: 'B00M3J2PUY-es Nixon Reloj con Movimiento Cuarzo japonés Man A3772001...'
+tags: 
 actualPrice: 77.07 EUR
 currency: EUR
 price: 77.07

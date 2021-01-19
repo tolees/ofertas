@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cqysEOx-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2Q8QGR-es Gant Cotton Pique Crew  suéter Hombre  Gris  Dark Grey Melange   X-Large'
+slug: 'B07D2Q8QGR-es Gant Cotton Pique Crew suéter Hombre Gris Dark Grey...'
+tags: 
 actualPrice: 84 EUR
 currency: EUR
 price: 84

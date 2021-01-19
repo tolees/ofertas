@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31haPtObxTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK3GWNF-es Quiksilver Everyday Shorts  Hombre  Safety Yellow  L'
+slug: 'B07KK3GWNF-es Quiksilver Everyday Shorts Hombre Safety Yellow L'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

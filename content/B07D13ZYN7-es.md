@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IlLga5FFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D13ZYN7-es Adaptador Cargador Nuevo Compatible para Portátil ASUS F540Y F540YA 19v 2 37a 4.0mm * 1.35mm // Protección contra Cortocircuitos  sobrecorriente y sobrecalentamiento'
+slug: 'B07D13ZYN7-es Adaptador Cargador Nuevo Compatible para Portátil ASUS...'
+tags: 
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

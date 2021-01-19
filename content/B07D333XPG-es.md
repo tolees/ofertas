@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/513zYHHQxcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D333XPG-es Luces Solares Con 82 LED Para Exteriores Mejoradas  Seguridad con Sensor de Movimiento Neloodony-2 Pack'
+slug: 'B07D333XPG-es Luces Solares Con 82 LED Para Exteriores Mejoradas...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

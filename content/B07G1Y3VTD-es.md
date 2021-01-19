@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T6DfxrMYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1Y3VTD-es find. Lace Up Leather Botas Estilo Motero  Negro Black  36 EU'
+slug: 'B07G1Y3VTD-es find. Lace Up Leather Botas Estilo Motero Negro Black 36 EU'
+tags: 
 actualPrice: 36.61 EUR
 currency: EUR
 price: 36.61

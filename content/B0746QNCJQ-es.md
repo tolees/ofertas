@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PqwhxqGIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0746QNCJQ-es Plantronics Blackwire 5220 - Auriculares con micrófono  Centro de llamadas/Oficina  Binaural  Diadema  Negro  Rojo  Skype for Business  Alámbrico '
+slug: 'B0746QNCJQ-es Plantronics Blackwire 5220 - Auriculares con micrófono...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

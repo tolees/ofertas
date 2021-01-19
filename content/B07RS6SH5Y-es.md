@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DFtdoLqYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS6SH5Y-es Tommy Hilfiger - Th Core Mini Bucket  Bolsos bandolera Mujer  Negro  Black   10x21x20.5 cm  W x H L '
+slug: 'B07RS6SH5Y-es Tommy Hilfiger - Th Core Mini Bucket Bolsos bandolera...'
+tags: 
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

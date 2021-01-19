@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xQESfkEEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP2JR4W-es SALOMON Evasion 2-Pack 2 Pares de Calcetines Tobilleros  Unisex Adulto  Verde  Urban Chic/Balsam Green   M  39-41 '
+slug: 'B07KP2JR4W-es SALOMON Evasion 2-Pack 2 Pares de Calcetines Tobilleros...'
+tags: 
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

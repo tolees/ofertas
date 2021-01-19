@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yQQGFhEzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMQ9RMB-es GRIDINLUX. Aparato de Radiofrecuencia Facial. Tecnología LED  Efecto Lifting  Belleza Profesional  5 programas. Hidrata y Reafirma la piel'
+slug: 'B07TMQ9RMB-es GRIDINLUX. Aparato de Radiofrecuencia Facial. Tecnología...'
+tags: 
 actualPrice: 79.98 EUR
 currency: EUR
 price: 79.98

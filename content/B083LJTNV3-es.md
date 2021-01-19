@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+7zReG4wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083LJTNV3-es QHOHQ Funda Samsung Galaxy A51 4G  No 5G +2 Pack Cristal Templado Protector de Pantalla Samsung Galaxy A51 4G  Ultra Fina Silicona Transparente TPU Cases Anti-Caíd'
+slug: 'B083LJTNV3-es QHOHQ Funda Samsung Galaxy A51 4G No 5G +2 Pack Cristal...'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

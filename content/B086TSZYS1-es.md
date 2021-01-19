@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4133CYLHtTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086TSZYS1-es AIORNIY 1/5/10 piezas polvo antipolvo Nebelnebel-Verschmutzungs'
+slug: 'B086TSZYS1-es AIORNIY 1/5/10 piezas polvo antipolvo Nebelnebel-...'
+tags: 
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

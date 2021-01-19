@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mpp15EGvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088ZWM2P5-es Rosa 24 K Chapado en Oro Rosa  La flor Rosa Artificial es un Regalo para la Novia y la Esposa  día de San Valentín  día de la Madre  Aniversario  Cumpleaños  Boda '
+slug: 'B088ZWM2P5-es Rosa 24 K Chapado en Oro Rosa La flor Rosa Artificial es...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

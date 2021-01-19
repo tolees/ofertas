@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315B8k-owpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KX2Z24G-es Brooks Addiction Walker 2  Zapatillas de Running para Hombre  Blanco  White/White 142   45 EU'
+slug: 'B07KX2Z24G-es Brooks Addiction Walker 2 Zapatillas de Running para...'
+tags: 
 actualPrice: 33.3 EUR
 currency: EUR
 price: 33.3

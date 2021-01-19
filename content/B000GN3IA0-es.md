@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510HKTzefsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GN3IA0-es Kempa Needle Agujas para Hinchar Balones  Hombre  Transparente  Talla Única'
+slug: 'B000GN3IA0-es Kempa Needle Agujas para Hinchar Balones Hombre...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

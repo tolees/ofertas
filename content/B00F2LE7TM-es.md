@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vghSH8LSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F2LE7TM-es SOGO SS-5245 Heladera  Maquina de helado  Máquina para postres de frutas heladas de 150W  Con Libro de Recetas  Helados Sanos - Color Rojo'
+slug: 'B00F2LE7TM-es SOGO SS-5245 Heladera Maquina de helado Máquina para...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

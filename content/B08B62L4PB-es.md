@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y-eDQyR0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B62L4PB-es Pulsera de joyería Inteligente Multifuncional 18K Gold Plating Sleep Monitor D1 Nuevos Accesorios de Venta - Negro'
+slug: 'B08B62L4PB-es Pulsera de joyería Inteligente Multifuncional 18K Gold...'
+tags: 
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

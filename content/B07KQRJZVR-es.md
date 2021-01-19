@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PDXw56oKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQRJZVR-es Salomon ALPHACROSS GTX W  Zapatillas de Trail Running para Mujer  Negro Black Ebony Black  36 EU'
+slug: 'B07KQRJZVR-es Salomon ALPHACROSS GTX W Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

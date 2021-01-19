@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UAn2SBULL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKZWSHH-es adidas Gymsack SP Bolsa de Deporte  Unisex Adulto  Black/Black/White  NS'
+slug: 'B07KKZWSHH-es adidas Gymsack SP Bolsa de Deporte Unisex Adulto...'
+tags: 
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

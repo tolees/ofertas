@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+zJK3NQGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0723CJHBC-es Di4 Stiro Plancha de vapor con suela acero inoxidable y doble sistema antical  2200 W  Blanco/Rojo/Negro'
+slug: 'B0723CJHBC-es Di4 Stiro Plancha de vapor con suela acero inoxidable y...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

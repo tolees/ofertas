@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ygVC-YXnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8G8P5J-es Raid - Espirales antimosquitos   pack de 6 x 10 uds  Total 60 uds '
+slug: 'B01M8G8P5J-es Raid - Espirales antimosquitos pack de 6 x 10 uds Total 60...'
+tags: 
 actualPrice: 11.77 EUR
 currency: EUR
 price: 11.77

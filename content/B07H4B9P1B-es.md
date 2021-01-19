@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61IHg8ZQg+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4B9P1B-es DINOKA Cadena de Nieve  6er Universal Cadenas Coche Antideslizante de Neumático de Nieve Chains para la Mayoría de Automóvil/SUV/Camión Ancho del Neumático 165mm-265mmm / 7"-11"'
+slug: 'B07H4B9P1B-es DINOKA Cadena de Nieve 6er Universal Cadenas Coche...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

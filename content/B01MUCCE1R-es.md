@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-baq85NOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUCCE1R-es Hapilife Grifo Cocina Pared Monomando Mezclador Fregadero  Caño Giratorio Horizontal  MEDIDA ESTÁNDAR  10 Años Garantía'
+slug: 'B01MUCCE1R-es Hapilife Grifo Cocina Pared Monomando Mezclador Fregadero...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

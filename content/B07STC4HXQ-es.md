@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RtHuzGMwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STC4HXQ-es Zapatillas Converse Chuck Taylor All Stars para mujer  Mujer  1009188380019  gris  35 EU'
+slug: 'B07STC4HXQ-es Zapatillas Converse Chuck Taylor All Stars para mujer...'
+tags: 
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

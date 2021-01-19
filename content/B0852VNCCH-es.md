@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XHLnyiytL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0852VNCCH-es Wodgreat Transmisor FM Bluetooth Manos Libres para Coche Bluetooth Coche Mechero Adaptador Bluetooth Coche Reproductor MP3 Coche con Luz de Anillo Azul Dual USB Soporte Tarjetas TF/U Disk'
+slug: 'B0852VNCCH-es Wodgreat Transmisor FM Bluetooth Manos Libres para Coche...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

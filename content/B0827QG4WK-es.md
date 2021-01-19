@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51cKIWp830L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0827QG4WK-es Cadena de Luces LED  1.5M 10 Luces LED para Pascua Pollito de Pascua  Decoración para Pascua Fiesta de Cumpleaños Patio Hogar Jardín'
+slug: 'B0827QG4WK-es Cadena de Luces LED 1.5M 10 Luces LED para Pascua Pollito...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

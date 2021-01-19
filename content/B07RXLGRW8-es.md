@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419956AcoPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXLGRW8-es New Balance 574v2  Zapatillas para Hombre  Negro  Black/Grey SPT   40 EU'
+slug: 'B07RXLGRW8-es New Balance 574v2 Zapatillas para Hombre Negro Black/Grey...'
+tags: 
 actualPrice: 53.72 EUR
 currency: EUR
 price: 53.72

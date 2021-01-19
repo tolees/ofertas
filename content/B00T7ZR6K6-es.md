@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ucIqsR7ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T7ZR6K6-es Shock Absorber Active Shaped Support  Sujetador Deportivo para Mujer  Negro/Azul Neon  75B'
+slug: 'B00T7ZR6K6-es Shock Absorber Active Shaped Support Sujetador Deportivo...'
+tags: 
 actualPrice: 25.42 EUR
 currency: EUR
 price: 25.42

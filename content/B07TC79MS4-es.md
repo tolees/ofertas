@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415MyyFv6vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TC79MS4-es Rodillera Menisco y Ligamentos Deportiva Rodillera de Compresión 2 Piezas de Tejido 3D Flexible Transpirable Antideslizante Previene Lesiones Alivia Dolor para Hombres y Mujeres MUBYTREE  S '
+slug: 'B07TC79MS4-es Rodillera Menisco y Ligamentos Deportiva Rodillera de...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

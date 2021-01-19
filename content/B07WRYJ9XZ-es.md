@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KLMHSo4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRYJ9XZ-es Gricol Estante para Ducha Sin Taladrar de Aluminio Aeronáutico Estanteria Antioxidante Autoadhesivo para Artículos de Baño  Negro '
+slug: 'B07WRYJ9XZ-es Gricol Estante para Ducha Sin Taladrar de Aluminio...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

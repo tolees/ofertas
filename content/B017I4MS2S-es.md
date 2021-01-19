@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21j+--68zHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017I4MS2S-es HOMCOM Puerta Corredera 205x77.5cm Puertas Correderas Satinada Deslizantes Cristal Sin Obra'
+slug: 'B017I4MS2S-es HOMCOM Puerta Corredera 205x77.5cm Puertas Correderas...'
+tags: 
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

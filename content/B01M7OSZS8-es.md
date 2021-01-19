@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cKbVuOCKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M7OSZS8-es New Balance ML373  Zapatillas para Hombre  Negro  Black Grey   43 EU'
+slug: 'B01M7OSZS8-es New Balance ML373 Zapatillas para Hombre Negro Black Grey...'
+tags: 
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

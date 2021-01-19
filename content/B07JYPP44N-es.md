@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31TGjcpB0uL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYPP44N-es Tommy Hilfiger Essential Craft Vulc  Zapatillas para Hombre  Azul  Chambray Blue 458   41 EU'
+slug: 'B07JYPP44N-es Tommy Hilfiger Essential Craft Vulc Zapatillas para Hombre...'
+tags: 
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418mD5SA8XL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076SJCWZL-es Marco Tozzi 23750  Zapatillas para Mujer  Negro  Black Comb   40 EU'
+slug: 'B076SJCWZL-es Marco Tozzi 23750 Zapatillas para Mujer Negro Black Comb...'
+tags: 
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41x9pPypg0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KL3LH5Y-es adidas D2m tee 3s T-Shirt  Hombre  White  L'
+slug: 'B07KL3LH5Y-es adidas D2m tee 3s T-Shirt Hombre White L'
+tags: 
 actualPrice: 13.77 EUR
 currency: EUR
 price: 13.77

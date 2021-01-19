@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UYzFCbs8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPT6NT9-es ranninao Gofrera Europea de 350W | Máquina de Hacer gofres para el hogar - Mini máquina de Hacer gofres para el hogar Máquina de Pastel para panqueques Galletas'
+slug: 'B07ZPT6NT9-es ranninao Gofrera Europea de 350W | Máquina de Hacer gofres...'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

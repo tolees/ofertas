@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Wq2FtpN-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P154JHQ-es deAO Cocinita Mi Pequeño Chef con Características de Sonidos y Agua Incluye Accesosrios de Cocina  Rojo '
+slug: 'B07P154JHQ-es deAO Cocinita Mi Pequeño Chef con Características de...'
+tags: 
 actualPrice: 15.09 EUR
 currency: EUR
 price: 15.09

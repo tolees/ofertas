@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DvhMO6tOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YW5YH3N-es Funda compatible con Huawei Mate 20 Lite  ultrafina  suave  flexible  de silicona TPU  con diseño de mármol  antigolpes  color amarillo 8 Talla única'
+slug: 'B07YW5YH3N-es Funda compatible con Huawei Mate 20 Lite ultrafina suave...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

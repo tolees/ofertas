@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cp-bbXOcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ENRAQUO-es Safta Maletín Minions Oficial Para Ordenador 380x60x280mm'
+slug: 'B01ENRAQUO-es Safta Maletín Minions Oficial Para Ordenador 380x60x280mm'
+tags: 
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

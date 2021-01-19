@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510M-8+8XTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4XTP42-es Towinle Gomitas para Hacer Pulseras  15000 Cintas en Caja de almacenamiento con 3 Capas con Marcos y Ganchos Rainbow Loom Bands Lujoso Set para Pulseras'
+slug: 'B07R4XTP42-es Towinle Gomitas para Hacer Pulseras 15000 Cintas en Caja...'
+tags: 
 actualPrice: 27.89 EUR
 currency: EUR
 price: 27.89

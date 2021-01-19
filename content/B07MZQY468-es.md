@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sP4g5j5BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQY468-es Pepe Jeans Misshine suéter   Light Khaki 715   Large para Mujer'
+slug: 'B07MZQY468-es Pepe Jeans Misshine suéter Light Khaki 715 Large para Mujer'
+tags: 
 actualPrice: 40.5 EUR
 currency: EUR
 price: 40.5

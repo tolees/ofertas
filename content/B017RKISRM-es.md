@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aD5tUu2UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017RKISRM-es KS Tools 714.0241 Composición de 241 herramientas 4 cajones para carro'
+slug: 'B017RKISRM-es KS Tools 714.0241 Composición de 241 herramientas 4...'
+tags: 
 actualPrice: 892.01 EUR
 currency: EUR
 price: 892.01

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ra30X3K7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5VZ3CK-es Micoke Cámara de Caza 16MP 1080P IP65 Impermeable 36 LED de IR Invisible 2.4   LCD 3 Sensores PIR Visión Nocturna hasta 25m para Vigilancia de monitores de Vida Silvestre Seguridad en el Hogar'
+slug: 'B07M5VZ3CK-es Micoke Cámara de Caza 16MP 1080P IP65 Impermeable 36 LED...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

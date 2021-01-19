@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21g41evgWAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZGCNMF-es Molyflower 18L Nordic Garbage Bag Storage Box Baño Estante de Almacenamiento Colgante de Pared con Cubierta Rack Storage Rack Organizador de Cocina - Beige'
+slug: 'B08BZGCNMF-es Molyflower 18L Nordic Garbage Bag Storage Box Baño Estante...'
+tags: 
 actualPrice: 4.23 EUR
 currency: EUR
 price: 4.23

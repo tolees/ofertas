@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hoZu18B4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVLBM1Q-es J&C 18W Plafón LED Techo Blanco Natural - IP44 Ultra-fino Lámpara de Techo Led Cuadrado  Luz de Baño  Cocina  Salon  Dormitorio  4000K  1550Lm '
+slug: 'B07QVLBM1Q-es J&C 18W Plafón LED Techo Blanco Natural - IP44 Ultra-fino...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

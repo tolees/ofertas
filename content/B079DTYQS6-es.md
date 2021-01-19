@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411MjanWj3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DTYQS6-es Regalo del día de la madre  un AAA platino plateado transparente colgante de óxido de circonio Pendientes regalos para mamá  para mujeres  YE-001'
+slug: 'B079DTYQS6-es Regalo del día de la madre un AAA platino plateado...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vXDUzI6SL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079P7CRJJ-es Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mujer  lt Green Spark/Pine Green/ White   M'
+slug: 'B079P7CRJJ-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer lt Green...'
+tags: 
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

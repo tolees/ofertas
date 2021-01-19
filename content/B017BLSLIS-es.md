@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rBxykF2JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017BLSLIS-es Silverline 360375 - Polipasto de tracción resistente  3.500 kg '
+slug: 'B017BLSLIS-es Silverline 360375 - Polipasto de tracción resistente 3.500 kg'
+tags: 
 actualPrice: 30.68 EUR
 currency: EUR
 price: 30.68

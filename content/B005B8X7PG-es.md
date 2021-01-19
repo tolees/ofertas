@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kb6X9LEwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005B8X7PG-es Saucony Ride ISO  Zapatillas de Running para Hombre  Naranja  Orange/Blue 36   44 EU'
+slug: 'B005B8X7PG-es Saucony Ride ISO Zapatillas de Running para Hombre Naranja...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YF7B0c3OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089DHRNK7-es luosh Rodillo de Pintura  4 Piezas de Esponja para niños  Cepillo de Pintura  Rodillo  Bricolaje  niño  niño  Herramienta de Pintura  Juguete  Arte Preescolar  Actividad'
+slug: 'B089DHRNK7-es luosh Rodillo de Pintura 4 Piezas de Esponja para niños...'
+tags: 
 actualPrice: 7.21 EUR
 currency: EUR
 price: 7.21

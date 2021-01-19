@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qHd3ZWH-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNQ4CH2-es Linterna LED Recargable Zoomable Ajustable Linterna - King-Pin Impermeable Portátil Linterna 5 Modos 1000 Lumen para Casa  Apagón  Garaje  Emergencia  Acampar  Pesca Actividades al Aire Libre'
+slug: 'B07CNQ4CH2-es Linterna LED Recargable Zoomable Ajustable Linterna -...'
+tags: 
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

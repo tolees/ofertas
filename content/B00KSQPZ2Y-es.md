@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315oVBlpAwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KSQPZ2Y-es BaByliss Diamond Slim ST325E - Plancha de pelo con placas flotantes  temperatura hasta 230° C  voltaje dual 100/240 V y bloqueo de placas'
+slug: 'B00KSQPZ2Y-es BaByliss Diamond Slim ST325E - Plancha de pelo con placas...'
+tags: 
 actualPrice: 15.73 EUR
 currency: EUR
 price: 15.73

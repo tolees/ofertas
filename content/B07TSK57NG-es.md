@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wSE2Fv0LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSK57NG-es Qkiss Cepillo de Pelo de Lana  Suave y Cómodo  Cepillo de Pelo Multifunción Cepillo de Aceite Retro Cepillo de la Manija Larga Peine de Barba Cepillo de Pelo Multifunción'
+slug: 'B07TSK57NG-es Qkiss Cepillo de Pelo de Lana Suave y Cómodo Cepillo de...'
+tags: 
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

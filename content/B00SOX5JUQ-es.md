@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZiX6yv5UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SOX5JUQ-es Guess W0289L2 - Reloj de Pulsera para Mujer  Color Blanco/Plata'
+slug: 'B00SOX5JUQ-es Guess W0289L2 - Reloj de Pulsera para Mujer Color...'
+tags: 
 actualPrice: 135.95 EUR
 currency: EUR
 price: 135.95

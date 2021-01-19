@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Yg3mnfGwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LNVF7PW-es Philips Lumea Essential BRI861/00 - Depiladora luz pulsada para la depilación permanente del vello visible en casa con 1 cabezal  Color rosa'
+slug: 'B01LNVF7PW-es Philips Lumea Essential BRI861/00 - Depiladora luz pulsada...'
+tags: 
 actualPrice: 137.0 EUR
 currency: EUR
 price: 137.0

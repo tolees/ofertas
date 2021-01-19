@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qI8td6a5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QR68ZR9-es Lámpara colgante vintage  E27 Lámparas de techo Lámpara Jaula de hierro Accesorio Iluminación para el hogar Plafonnier 90-250V  Bombilla no incluida   4# '
+slug: 'B07QR68ZR9-es Lámpara colgante vintage E27 Lámparas de techo Lámpara...'
+tags: 
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

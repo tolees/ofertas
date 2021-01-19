@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EOLN1RU-es Makita RP0900J router eléctrico - Power routers'
+tags: 
 actualPrice: 109.92 EUR
 currency: EUR
 price: 109.92

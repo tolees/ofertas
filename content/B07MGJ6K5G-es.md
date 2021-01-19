@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PIV4sy+7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGJ6K5G-es Spike Volleyball  Versión Española '
+slug: 'B07MGJ6K5G-es Spike Volleyball Versión Española'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

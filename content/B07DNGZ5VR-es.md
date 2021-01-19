@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zzb1FpP5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNGZ5VR-es Reebok Rapide Mu  Zapatillas de Deporte para Hombre  Multicolor  Skull Grey/Vital Blue/Twisted Berry/Chal 000   40 EU'
+slug: 'B07DNGZ5VR-es Reebok Rapide Mu Zapatillas de Deporte para Hombre...'
+tags: 
 actualPrice: 53.09 EUR
 currency: EUR
 price: 53.09

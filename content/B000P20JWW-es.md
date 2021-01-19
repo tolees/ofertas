@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/2168jMxS2pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000P20JWW-es Rimmel London Soft Khol Kajal Eyeliner Pencil Liners Tono 071 Pure White - 4 gr'
+slug: 'B000P20JWW-es Rimmel London Soft Khol Kajal Eyeliner Pencil Liners Tono...'
+tags: 
 actualPrice: 2.06 EUR
 currency: EUR
 price: 2.06

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419LQYuJk7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5LGN6Q-es Tommy Hilfiger E3578A1208  Cinturón Para Hombre  Marrón  DARK TAN 257   95 cm'
+slug: 'B01N5LGN6Q-es Tommy Hilfiger E3578A1208 Cinturón Para Hombre Marrón DARK...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

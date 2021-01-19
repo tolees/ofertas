@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uz4m37Q7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T7VFQ8-es Columbia Childrens Rope Tow III Waterproof  Botas de Nieve para Niñas  Azul  Iceberg  Camellia Rose   26 EU'
+slug: 'B078T7VFQ8-es Columbia Childrens Rope Tow III Waterproof Botas de Nieve...'
+tags: 
 actualPrice: 21.45 EUR
 currency: EUR
 price: 21.45

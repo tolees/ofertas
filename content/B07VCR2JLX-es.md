@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411sfViXP3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCR2JLX-es Linterna de trabajo 1000Lumen Alta Potencia  Lámpara de Inspección 5 Modos  Linterna LED Recargable 1800mAh  Luz de trabajo COB LED con Base magnética giratoria de 360 °  Linterna Tactica Impermeable'
+slug: 'B07VCR2JLX-es Linterna de trabajo 1000Lumen Alta Potencia Lámpara de...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

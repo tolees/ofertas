@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UnJZuEXPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9B2BWG-es Under Armour Unstoppable Move Light FZ Parte Superior del Calentamiento  Hombre  Negro  SM'
+slug: 'B07L9B2BWG-es Under Armour Unstoppable Move Light FZ Parte Superior del...'
+tags: 
 actualPrice: 22.68 EUR
 currency: EUR
 price: 22.68

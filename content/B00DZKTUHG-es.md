@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GkI5LroSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DZKTUHG-es Organizador universal de Maclaren: Tenga lo esencial siempre a mano.Se adapta a Maclarens y mayoría de las marcas. Accesorio ideal para sillas de paseo.'
+slug: 'B00DZKTUHG-es Organizador universal de Maclaren: Tenga lo esencial...'
+tags: 
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

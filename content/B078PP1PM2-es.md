@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311C-BIfl0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078PP1PM2-es Saucony Ride ISO  Zapatillas de Running para Hombre  Negro  Black 2   45 EU'
+slug: 'B078PP1PM2-es Saucony Ride ISO Zapatillas de Running para Hombre Negro...'
+tags: 
 actualPrice: 74.5 EUR
 currency: EUR
 price: 74.5

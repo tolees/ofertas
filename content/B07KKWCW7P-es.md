@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xvzDR66qL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKWCW7P-es adidas D2m tee 3s T-Shirt  Hombre  Grey Six  2XL'
+slug: 'B07KKWCW7P-es adidas D2m tee 3s T-Shirt Hombre Grey Six 2XL'
+tags: 
 actualPrice: 12.47 EUR
 currency: EUR
 price: 12.47

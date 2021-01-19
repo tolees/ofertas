@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41abXm1zF3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YTP0FZC-es Piz Buin Tan & Protect Protector Solar Acelerador del Bronceado  Aceite en Spray SPF 30  Protección Alta - 150 ml'
+slug: 'B00YTP0FZC-es Piz Buin Tan & Protect Protector Solar Acelerador del...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41f2OKIJwhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK48VSY-es SIMBR Soporte TV de Pared para 30"-85" Pantalla LED/LCD/Plasma y Curva Televisión Carga Máxima 80kg VESA Máxima 700x400mm Inclinable y Dobles Brazos Giratorios'
+slug: 'B07KK48VSY-es SIMBR Soporte TV de Pared para 30"-85" Pantalla...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

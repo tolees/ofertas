@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Mzt84PWnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2CZV73-es adidas Handball Spezial  Zapatillas de Gimnasia Hombre  Negro  Core Black/FTWR White/Gum5   42 EU'
+slug: 'B07K2CZV73-es adidas Handball Spezial Zapatillas de Gimnasia Hombre...'
+tags: 
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

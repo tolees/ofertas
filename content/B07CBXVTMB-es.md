@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qm7zfIHNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CBXVTMB-es Calledelregalo Regalo Personalizable para Mujer: Rosa de Oro Personalizada con el Texto Que tú Quieras.  Rosa de Oro Personalizada '
+slug: 'B07CBXVTMB-es Calledelregalo Regalo Personalizable para Mujer: Rosa de...'
+tags: 
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

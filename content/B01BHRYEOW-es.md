@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PEf9gJddL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BHRYEOW-es Rimmel London Magnifeyes Mono Sombra de Ojos Tono 014 Black Fender - 22 2 gr'
+slug: 'B01BHRYEOW-es Rimmel London Magnifeyes Mono Sombra de Ojos Tono 014...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

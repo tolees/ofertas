@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ROjBBxDbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPDDC61-es DAM TEKKIWEAR. DMZ009BK. Pulsera Inteligente Bluetooth Ak-Y2S Pantalla A Color  Monitor Cardíaco  O2 En Sangre  Notificaciones para iOS Y Android. Negro'
+slug: 'B07JPDDC61-es DAM TEKKIWEAR. DMZ009BK. Pulsera Inteligente Bluetooth...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

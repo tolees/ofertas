@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W6W0P2T1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HOFPAJE-es Gigandet Reloj Hombre Cuarzo Minimalism Analógico Correa de Acero Nero G42-007'
+slug: 'B01HOFPAJE-es Gigandet Reloj Hombre Cuarzo Minimalism Analógico Correa...'
+tags: 
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

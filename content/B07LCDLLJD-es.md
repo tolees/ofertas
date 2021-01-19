@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gBCLIU-gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LCDLLJD-es BRIKSMAX Kit de Iluminación Led para Restaurante Paris-Compatible con Ladrillos de Construcción Lego Modelo 10243-Juego de Legos no Incluido'
+slug: 'B07LCDLLJD-es BRIKSMAX Kit de Iluminación Led para Restaurante Paris-...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

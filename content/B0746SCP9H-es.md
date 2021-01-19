@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31UV2uOlPhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0746SCP9H-es L Oréal Paris Make-up designer Accord Parfait Base maquillaje acabado natural Tono de piel bronceado 8R Noisette 30 ml'
+slug: 'B0746SCP9H-es L Oréal Paris Make-up designer Accord Parfait Base...'
+tags: 
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

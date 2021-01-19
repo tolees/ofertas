@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p3dc1LNaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MJJ1XL-es Klarstein Beer Baron nevera de bebidas - 46 litros de volumen  eficiencia energética de clase A+  temperatura de 0 a 10 °C  panel táctil  estante de rejilla regulable  negro'
+slug: 'B082MJJ1XL-es Klarstein Beer Baron nevera de bebidas - 46 litros de...'
+tags: 
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

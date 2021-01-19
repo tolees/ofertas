@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SgvRWPU0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6J41HE-es KDP Casquillo G4 Bombilla LED - 2W/200LM  equivalente a 20W  Blanco Cálido 3000K  DC/AC 12V  no regulable  Pack de 10'
+slug: 'B01N6J41HE-es KDP Casquillo G4 Bombilla LED - 2W/200LM equivalente a 20W...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51tUHF3ZGqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D99MDP5-es Portátil Estuche de Viaje para Cepillo Eléctrico de Dientes 3 Piezas  URAQT Bolsa Caja Protectora de Azul para Oral-B y Philips（Azul）'
+slug: 'B07D99MDP5-es Portátil Estuche de Viaje para Cepillo Eléctrico de...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

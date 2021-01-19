@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VH3nOKg7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMVZQ2H-es Liveinu - Red de insectos para bebés con cierre de cremallera  elástica  para cochecito de bebé  sillas de paseo  cuna y mosquitera negro negro Talla:talla única'
+slug: 'B07CMVZQ2H-es Liveinu - Red de insectos para bebés con cierre de...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

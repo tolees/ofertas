@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nXgYGADBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GY2IEKG-es ISDIN Spray Anti Mosquitos - Repelente de Mosquitos para la Prevención de Picaduras  Eficaz Mosquito Tigre  Amarillo  1 x 100 ml'
+slug: 'B00GY2IEKG-es ISDIN Spray Anti Mosquitos - Repelente de Mosquitos para...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ODzqk8ynL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY9G68L-es Llongueras Advance Tinte de Cabello Permanente Tono #6.1 Rubio Oscuro Ceniza'
+slug: 'B01MY9G68L-es Llongueras Advance Tinte de Cabello Permanente Tono #6.1...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

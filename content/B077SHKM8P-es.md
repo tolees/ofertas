@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41at4WyHBSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SHKM8P-es Aicok Batidora de vaso  Batidora para Smoothie 1200W  7 niveles de Potencia+Turbo Vidrio Resistente al Calor 1.5L  3 Programas  24000rpm  sin BPA   6 Cuchillas de Acero Inoxidable'
+slug: 'B077SHKM8P-es Aicok Batidora de vaso Batidora para Smoothie 1200W 7...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

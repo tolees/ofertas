@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E-MKjvO4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLS6Y92-es Jack & Jones Jorpannel Crew Neck. Suéter  Azul  Navy Blazer Fit: Knit Fit   S para Hombre'
+slug: 'B07WLS6Y92-es Jack & Jones Jorpannel Crew Neck. Suéter Azul Navy Blazer...'
+tags: 
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

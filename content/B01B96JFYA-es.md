@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YdnCy8wlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B96JFYA-es ESI PROPOLAID PROPOLGOLA Spray 20ml voz de la garganta propóleos erisimo miel por manuka'
+slug: 'B01B96JFYA-es ESI PROPOLAID PROPOLGOLA Spray 20ml voz de la garganta...'
+tags: 
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

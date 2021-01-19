@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rrLqMof+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VUQ8LTA-es Kappa Trust 241981-1110  Zapatillas Unisex Adulto  Negro-Schwarz  1110 Black/White   45 EU'
+slug: 'B00VUQ8LTA-es Kappa Trust 241981-1110 Zapatillas Unisex Adulto Negro-...'
+tags: 
 actualPrice: 21.96 EUR
 currency: EUR
 price: 21.96

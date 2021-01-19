@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tTMSwuTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088WKVFS5-es Femometer Copa Menstrual  1 Piezas Pequeña y 1 Piezas Grande - Silicona suave reutilizable de grado medicinal - Menstrual Cup  Rosa y morado '
+slug: 'B088WKVFS5-es Femometer Copa Menstrual 1 Piezas Pequeña y 1 Piezas...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

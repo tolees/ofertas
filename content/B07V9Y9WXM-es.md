@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h02HWMRVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9Y9WXM-es BOSS Carmello Cinturón  Azul  Navy 410   120 para Hombre'
+slug: 'B07V9Y9WXM-es BOSS Carmello Cinturón Azul Navy 410 120 para Hombre'
+tags: 
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

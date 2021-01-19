@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uW5Oy9mrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FSOTV0C-es BABY HEROE - Cinturón de seguridad embarazada. Cinturón de uso obligatorio durante el embarazo  ajustable a cualquier asiento y coche'
+slug: 'B01FSOTV0C-es BABY HEROE - Cinturón de seguridad embarazada. Cinturón de...'
+tags: 
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

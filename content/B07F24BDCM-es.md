@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FW6tsjauL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F24BDCM-es JIANYE Calcetines Ciclismo Transpirable Que Absorbe Running Deporte Bicicletas Calcetines Hombre Mujer'
+slug: 'B07F24BDCM-es JIANYE Calcetines Ciclismo Transpirable Que Absorbe...'
+tags: 
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

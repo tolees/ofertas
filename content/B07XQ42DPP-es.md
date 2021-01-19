@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T0+EnpySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQ42DPP-es Sloggi Zero Feel Ex Sujetador Estilo Bralette  Morado  Kaluha 00qn   75A  Talla del Fabricante: X-Small  para Mujer'
+slug: 'B07XQ42DPP-es Sloggi Zero Feel Ex Sujetador Estilo Bralette Morado...'
+tags: 
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

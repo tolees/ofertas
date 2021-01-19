@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PDXikODqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6LZVMW-es Tommy Hilfiger Tommy Fun Square Bufanda   Multi 0hi   Talla única  Talla del fabricante: OS  para Mujer'
+slug: 'B07N6LZVMW-es Tommy Hilfiger Tommy Fun Square Bufanda Multi 0hi Talla...'
+tags: 
 actualPrice: 22.51 EUR
 currency: EUR
 price: 22.51

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SJ6YVX-es Stretch 06575 Elastigirl - Figura de acción'
+tags: 
 actualPrice: 12.53 EUR
 currency: EUR
 price: 12.53

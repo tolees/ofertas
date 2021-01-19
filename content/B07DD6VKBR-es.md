@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bS77vYXWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD6VKBR-es Gormiti GRM05000  Hyperbeast Animal con Sonidos y Figura de Acción Articulada  modelo surtido  1 unidad'
+slug: 'B07DD6VKBR-es Gormiti GRM05000 Hyperbeast Animal con Sonidos y Figura de...'
+tags: 
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

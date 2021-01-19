@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412ZfxFHq0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8G81WM-es 2015 PVC Pasaporte Titular Cubierta Identidad ID Tarjeta de crédito Bolsas Bolsas Carpeta de documentos Viaje Pasaporte Bolsas Caso Envío gratis'
+slug: 'B07M8G81WM-es 2015 PVC Pasaporte Titular Cubierta Identidad ID Tarjeta...'
+tags: 
 actualPrice: 2.46 EUR
 currency: EUR
 price: 2.46

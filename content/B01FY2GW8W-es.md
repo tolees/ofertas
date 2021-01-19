@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21mMR8W-lZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FY2GW8W-es Green2Print Tóner Negro 4000 páginas sustituye a Lexmark 80C0H10  800H1  80C2HK0  802HK  80C2HKE  802HKE Tóner Apto para la Lexmark CX410DE  CX410DTE  CX410E  CX510DE  CX510DHE  CX510DTHE'
+slug: 'B01FY2GW8W-es Green2Print Tóner Negro 4000 páginas sustituye a Lexmark...'
+tags: 
 actualPrice: 46.71 EUR
 currency: EUR
 price: 46.71

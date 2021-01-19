@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lAO4xmBDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085Y4WN8P-es AYUN - Funda Protectora Impermeable para Asiento de Coche  58 x 44 cm  4 Piezas'
+slug: 'B085Y4WN8P-es AYUN - Funda Protectora Impermeable para Asiento de Coche...'
+tags: 
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

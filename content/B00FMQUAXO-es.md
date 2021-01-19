@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31e3ZS6ZHaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FMQUAXO-es Dickies - Pantalones cortos para hombre  Gris  Charcoal Grey   W38  Talla del fabricante: 38 '
+slug: 'B00FMQUAXO-es Dickies - Pantalones cortos para hombre Gris Charcoal Grey...'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Sk3jpItLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HLYQKYX-es Bolsas Reutilizables PEVA 15 Pack  KEEHOM Bolsa Congelación con Cremallera sin BPA para Almacenamiento de Alimentos  Bolsas de Conservación  para Fruta Sándwich Verdura  Viaje y Organización de Cocina'
+slug: 'B08HLYQKYX-es Bolsas Reutilizables PEVA 15 Pack KEEHOM Bolsa Congelación...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ojtoAQKyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9P1VL8-es Lacoste Carnaby EVO 319 3 SMA  Zapatillas para Hombre  Negro Black 02h  42 EU'
+slug: 'B07L9P1VL8-es Lacoste Carnaby EVO 319 3 SMA Zapatillas para Hombre Negro...'
+tags: 
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

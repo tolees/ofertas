@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D6Hr3MAtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQFFRL7-es PUMA SF Drift Cat 5 Ultra  Zapatillas Unisex Adulto  Negro Black-Rosso Corsa Black 02  42 EU'
+slug: 'B01MQFFRL7-es PUMA SF Drift Cat 5 Ultra Zapatillas Unisex Adulto Negro...'
+tags: 
 actualPrice: 50.01 EUR
 currency: EUR
 price: 50.01

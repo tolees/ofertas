@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6MSTZN-es Aquabeads - 31331 - Flip Tray®'
+tags: 
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v-BHRA-OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084P6QPCM-es Motherly Love Play Boca Chupete Boca Silicona Cierre automático Tipo de pulgar Chupete infantil a prueba de polvo Chupete para bebés - Azul'
+slug: 'B084P6QPCM-es Motherly Love Play Boca Chupete Boca Silicona Cierre...'
+tags: 
 actualPrice: 1.43 EUR
 currency: EUR
 price: 1.43

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fjZ1TGZRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q6MR0UO-es Logitech G300s Ratón Gaming con Cable  Ambidiestro  RGB  Peso Reducido  9 Botones Programables  Memoria Integrada  PC/Mac  Versión Alemana  Negro'
+slug: 'B00Q6MR0UO-es Logitech G300s Ratón Gaming con Cable Ambidiestro RGB Peso...'
+tags: 
 actualPrice: 35.04 EUR
 currency: EUR
 price: 35.04

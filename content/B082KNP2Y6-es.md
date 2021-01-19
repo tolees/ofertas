@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416UkO9O4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KNP2Y6-es YuanLey 26 Port PoE Switch  24 PoE+ Port 100Mbps  2 Uplink Gigabit  802.3af/at 400W de Alta Potencia  Montaje en Bastidor no Administrado Plug and Play'
+slug: 'B082KNP2Y6-es YuanLey 26 Port PoE Switch 24 PoE+ Port 100Mbps 2 Uplink...'
+tags: 
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

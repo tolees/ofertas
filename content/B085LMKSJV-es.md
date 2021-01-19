@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NObZx3QLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LMKSJV-es MKTOSASA - Altavoz Bluetooth y 3W de Potencia. Función Manos Libres  Ranura para Tarjetas Micro SD de hasta 32 GB de Capacidad  Reproductor USB y función Radio FM- 11.1x8.3x4.1 Gris/Negro…'
+slug: 'B085LMKSJV-es MKTOSASA - Altavoz Bluetooth y 3W de Potencia. Función...'
+tags: 
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51gEjqMAZiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGD5BRC-es Roc Soleil - Pack Ahorro con Neceser de Regalo  Incluye Protector Solar SPF50 200 ml + Aftersun 200 ml '
+slug: 'B07QGD5BRC-es Roc Soleil - Pack Ahorro con Neceser de Regalo Incluye...'
+tags: 
 actualPrice: 14 EUR
 currency: EUR
 price: 14

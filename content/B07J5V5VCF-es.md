@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mJkf16bWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5V5VCF-es Black+Decker BXJB800E Batidora de Vaso  800 W  1.5 litros  Acero Inoxidable  Gris'
+slug: 'B07J5V5VCF-es Black+Decker BXJB800E Batidora de Vaso 800 W 1.5 litros...'
+tags: 
 actualPrice: 31.24 EUR
 currency: EUR
 price: 31.24

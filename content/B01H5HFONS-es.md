@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q4mN5wpEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H5HFONS-es WOXTER i-Headphone PC 780  Auriculares Diadema con micrófono y reducción de Ruido  Color Blanco y Negro'
+slug: 'B01H5HFONS-es WOXTER i-Headphone PC 780 Auriculares Diadema con...'
+tags: 
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

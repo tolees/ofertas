@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TpKLPkWeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6QX5V8-es Hackett Aston Martin Racing Polo  Blanco  White/Multi 8aj   XXX-Large para Hombre'
+slug: 'B07J6QX5V8-es Hackett Aston Martin Racing Polo Blanco White/Multi 8aj...'
+tags: 
 actualPrice: 60.5 EUR
 currency: EUR
 price: 60.5

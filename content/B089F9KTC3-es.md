@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P6uRDze0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089F9KTC3-es MagiDeal Mando A Distancia De Repuesto para 2 PCS Apto para El Sistema Wave Music para AWRC-C1 AWRC-C2 AWRC-C3 AWRC-C4'
+slug: 'B089F9KTC3-es MagiDeal Mando A Distancia De Repuesto para 2 PCS Apto...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eibf29sSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK1XYPM-es New Balance 574v2  Zapatillas para Hombre  Gris  Grey/Red Scj   44 EU'
+slug: 'B07RK1XYPM-es New Balance 574v2 Zapatillas para Hombre Gris Grey/Red Scj...'
+tags: 
 actualPrice: 59.88 EUR
 currency: EUR
 price: 59.88

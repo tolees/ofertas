@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CS4er25vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872VLVFK-es PopHMN Kit de sushi  Kit de fabricación de sushi 5PCS Kit de fabricación de sushi de bambú para palillos familiares Cuchara de arroz Cortador de sushi Kit de enrollado de sushi  Estilo2 '
+slug: 'B0872VLVFK-es PopHMN Kit de sushi Kit de fabricación de sushi 5PCS Kit...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

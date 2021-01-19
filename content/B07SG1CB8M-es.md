@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+xbKaZ8eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SG1CB8M-es Levi s Mile High Super Skinny Jeans  En Aumento  23 28 para Mujer'
+slug: 'B07SG1CB8M-es Levi s Mile High Super Skinny Jeans En Aumento 23 28 para...'
+tags: 
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

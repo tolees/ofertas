@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zjdaIw84L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G8JA7EU-es Bañador para hombre de Gwell  con rayas  de secado rápido  para verano y playa azul L'
+slug: 'B01G8JA7EU-es Bañador para hombre de Gwell con rayas de secado rápido...'
+tags: 
 actualPrice: 7.62 EUR
 currency: EUR
 price: 7.62

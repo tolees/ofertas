@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411uH3l6FeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FZL78LD-es Polti Vaporella Simply VS20.20 Plancha Generadora de Vapor con Bomba de 6.5 Bar  Gris/Blanco'
+slug: 'B07FZL78LD-es Polti Vaporella Simply VS20.20 Plancha Generadora de Vapor...'
+tags: 
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wbLRVVjkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKD1FT1-es Energy Music Box 5+ Yall Edition  Bluetooth 4.1  10 W  microSD  FM Radio  Festival Bag  Lanyard '
+slug: 'B07DKD1FT1-es Energy Music Box 5+ Yall Edition Bluetooth 4.1 10 W...'
+tags: 
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

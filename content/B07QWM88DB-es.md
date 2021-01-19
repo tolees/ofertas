@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZbPe199aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWM88DB-es Under Armour Launch Compression Pantalones Cortos  Mujer  Negro  LG'
+slug: 'B07QWM88DB-es Under Armour Launch Compression Pantalones Cortos Mujer...'
+tags: 
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

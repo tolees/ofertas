@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nRO3dDZpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCY4GTG-es Saucony Triumph ISO 5  Zapatillas de Running para Mujer  Purple/Peach  39 EU'
+slug: 'B07MCY4GTG-es Saucony Triumph ISO 5 Zapatillas de Running para Mujer...'
+tags: 
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

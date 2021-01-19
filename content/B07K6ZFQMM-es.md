@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eI5HDYZQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6ZFQMM-es 8PCS/Set Multi-Purposes Car Wire Cable Holder Easy To Install Multifunctional Car Charger Line Earphone Cable Clip Organizer'
+slug: 'B07K6ZFQMM-es 8PCS/Set Multi-Purposes Car Wire Cable Holder Easy To...'
+tags: 
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411ecnHzF8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGBMZSB-es Monitor de Presión Arterial JUMPER en la Parte Superior del Brazo  2 Usuarios  2 Módulos de Fuente de Alimentación  198 Memoria de datos  Gran pantalla LCD  Brazalete Ajustable Grande  Blanco '
+slug: 'B07VGBMZSB-es Monitor de Presión Arterial JUMPER en la Parte Superior...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QdKjYC5XL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6TRLTF-es Sangean DDR-66BT  SmartLink 9  Minicadena de música para Uso doméstico Negro 14 W - Microcadena  Minicadena de música para Uso doméstico  Negro  14 W  De 2 vías  7 62 cm  8 Ω '
+slug: 'B07K6TRLTF-es Sangean DDR-66BT SmartLink 9 Minicadena de música para Uso...'
+tags: 
 actualPrice: 439 EUR
 currency: EUR
 price: 439

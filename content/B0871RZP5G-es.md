@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/613S86dxjhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0871RZP5G-es MWyanlan Película de Ventana Colorida Opaca privacidad película de privacidad autoadhesiva Anti-UV para Dormitorio baño hogar decorativo-40x100cm 16x39inch '
+slug: 'B0871RZP5G-es MWyanlan Película de Ventana Colorida Opaca privacidad...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

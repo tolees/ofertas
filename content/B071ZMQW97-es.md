@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+xRjRaNfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZMQW97-es Hyundai HYBC5080AV Desbrozadora con Motor a 2 Tiempos Pro  Azul  182 x 75 x 50 cm'
+slug: 'B071ZMQW97-es Hyundai HYBC5080AV Desbrozadora con Motor a 2 Tiempos Pro...'
+tags: 
 actualPrice: 159.7 EUR
 currency: EUR
 price: 159.7

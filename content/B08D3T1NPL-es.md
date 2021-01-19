@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IK5vel5IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3T1NPL-es Panamar Negro Diseño portátil USB Hembra a Mini 5P USB B Adaptador de conversión Macho Cable OTG hacia Arriba - Negro'
+slug: 'B08D3T1NPL-es Panamar Negro Diseño portátil USB Hembra a Mini 5P USB B...'
+tags: 
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

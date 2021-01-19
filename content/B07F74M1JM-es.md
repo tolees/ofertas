@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51DQ1%2BPRTEL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F74M1JM-es Godagoda T244D - Juego de 5 hojas de sierra para sierra de cortar de aleación de acero para hoja de madera'
+slug: 'B07F74M1JM-es Godagoda T244D - Juego de 5 hojas de sierra para sierra de...'
+tags: 
 actualPrice: 0.1 EUR
 currency: EUR
 price: 0.1

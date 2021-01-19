@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CE0fu5p7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5ZGGJW-es QITAYO Protector de Pantalla Huawei P30 Lite  [0.3mm  2.5D] [Libre de Burbujas] [Dureza 9H] [Fácil instalación] [HD Clear] Protector de Pantalla de Vidrio Templado para Huawei P30 Lite  Negro '
+slug: 'B07N5ZGGJW-es QITAYO Protector de Pantalla Huawei P30 Lite [0.3mm 2.5D]...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

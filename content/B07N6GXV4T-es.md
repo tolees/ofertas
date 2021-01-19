@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rjKctSdyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6GXV4T-es Homelody Tapa y AsientoTapadera WC Universal en Forma de U Cierre Suave Descenso Silencioso Tapa Robusto Sencillo de Instalar Taza de vater Taza para Inodoro'
+slug: 'B07N6GXV4T-es Homelody Tapa y AsientoTapadera WC Universal en Forma de U...'
+tags: 
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

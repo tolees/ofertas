@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K1cHYI72L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCQVZMX-es Compatible con la funda de iPhoneX  silicona flexible ultrafina 2 en 1  protección extrema  soporte para teléfono móvil  funda antiarañazos  doble capa para iPhoneX azul Talla única'
+slug: 'B07ZCQVZMX-es Compatible con la funda de iPhoneX silicona flexible...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

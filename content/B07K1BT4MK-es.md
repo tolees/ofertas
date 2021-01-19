@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/318jnQORnvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1BT4MK-es adidas Estro 19 JSY T-Shirt  Niños  White  L'
+slug: 'B07K1BT4MK-es adidas Estro 19 JSY T-Shirt Niños White L'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qmKLXty8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YL6PLQT-es Alpina 240271000/A18 Motosierra de gasolina AC 27 T  26.9 cc  Blanco  Espada de 25 cm  10" '
+slug: 'B07YL6PLQT-es Alpina 240271000/A18 Motosierra de gasolina AC 27 T 26.9...'
+tags: 
 actualPrice: 127.74 EUR
 currency: EUR
 price: 127.74

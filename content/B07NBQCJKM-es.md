@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x6iycOSIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBQCJKM-es Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Cuero PXHA73X1'
+slug: 'B07NBQCJKM-es Seiko Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 52.19 EUR
 currency: EUR
 price: 52.19

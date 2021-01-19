@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51v2nuo33ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4VFHKR-es flintronic Medidor de Contornos  5"/127MM Herramienta de Medición de Perfil Irregular  para la medición precisa de baldosas en madera laminada Marcado  RED '
+slug: 'B07V4VFHKR-es flintronic Medidor de Contornos 5"/127MM Herramienta de...'
+tags: 
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

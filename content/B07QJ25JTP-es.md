@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31g3L3Srj5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ25JTP-es Funko Pop! Figura De Vinil Football: PSG - Kylian Mbappé  Away Kit '
+slug: 'B07QJ25JTP-es Funko Pop! Figura De Vinil Football: PSG - Kylian Mbappé...'
+tags: 
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

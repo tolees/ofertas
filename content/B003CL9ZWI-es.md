@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rqhSI4u2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003CL9ZWI-es HP C9363EE 344 Cartucho de Tinta Original  1 unidad  tricolor  cian  magenta  amarillo '
+slug: 'B003CL9ZWI-es HP C9363EE 344 Cartucho de Tinta Original 1 unidad...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

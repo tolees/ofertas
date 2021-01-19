@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dSAomVk2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FPDPYC-es CAHAYA Atril Musica Plegable  80-145 cm  con Bolsa de Transporte Soporte para Partituras Plegable con Altura y Pestañas de Sujeción Ajustables  Incluye bolsa de transporte y Coleccionista de Musica'
+slug: 'B083FPDPYC-es CAHAYA Atril Musica Plegable 80-145 cm con Bolsa de...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

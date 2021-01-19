@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ykxPE4iDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC11GQ3-es Puma Icra Trainer SD Zapatillas  Unisex adulto  Marrón  Fossil-Puma White-Puma Team Gold   42 EU'
+slug: 'B07DC11GQ3-es Puma Icra Trainer SD Zapatillas Unisex adulto Marrón...'
+tags: 
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

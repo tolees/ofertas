@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21EVBFV0MgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A5VJP5E-es Grohe Rainshower SmartControl 360 DUO - Sistema de ducha con termostato incorporado  Ref. 26250000 '
+slug: 'B01A5VJP5E-es Grohe Rainshower SmartControl 360 DUO - Sistema de ducha...'
+tags: 
 actualPrice: 937.66 EUR
 currency: EUR
 price: 937.66

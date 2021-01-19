@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IEsiV7F+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXSP2PC-es SAFETYON Mosquitera Puerta Magnetica  100 x 220cm  Corredera Cortina Mosquitera Magnética para Puertas de Salón/Balcón/Corredor  Negro '
+slug: 'B07TXSP2PC-es SAFETYON Mosquitera Puerta Magnetica 100 x 220cm Corredera...'
+tags: 
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

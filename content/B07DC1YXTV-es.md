@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41U6TWsEtDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC1YXTV-es Puma Turin Ii Zapatillas Unisex adulto  Azul  Peacoat-Puma White 5   42 EU  8 UK '
+slug: 'B07DC1YXTV-es Puma Turin Ii Zapatillas Unisex adulto Azul Peacoat-Puma...'
+tags: 
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

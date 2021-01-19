@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yJYE2nLLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXTS8K6-es Under Armour Men s Printed Blitzing 3.0 Gorra  Hombre  Negro  M/L'
+slug: 'B07PXTS8K6-es Under Armour Men s Printed Blitzing 3.0 Gorra Hombre Negro...'
+tags: 
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

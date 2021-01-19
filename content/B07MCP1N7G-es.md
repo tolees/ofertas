@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rctu3HAPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCP1N7G-es Funko- Pocket Pop Keychain: Avengers Endgame: Thanos Collectible Figure  Multicolor  Estándar  36680 '
+slug: 'B07MCP1N7G-es Funko- Pocket Pop Keychain: Avengers Endgame: Thanos...'
+tags: 
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

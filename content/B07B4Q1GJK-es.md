@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wEYwo8UWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4Q1GJK-es Eastpak Traf Ik Light L Maleta  85 cm  101 L  Negro'
+slug: 'B07B4Q1GJK-es Eastpak Traf Ik Light L Maleta 85 cm 101 L Negro'
+tags: 
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

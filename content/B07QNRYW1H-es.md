@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q0JMz-l6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QNRYW1H-es O³ Crema Anticelulítica 200 ml | Crema Reductora Abdomen Mujer – Tonifica – Reafirma – Hidrata – Relaja | Anticelulitico Reductor – Crema Reductora Para Piernas – Glúteos – Abdomen'
+slug: 'B07QNRYW1H-es O³ Crema Anticelulítica 200 ml | Crema Reductora Abdomen...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

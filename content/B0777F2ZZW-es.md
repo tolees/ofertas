@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zGLVNUd4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777F2ZZW-es Sillita plegable bebé negra Omnio - Desde los 6 meses hasta los 4 años - Carrito plegable'
+slug: 'B0777F2ZZW-es Sillita plegable bebé negra Omnio - Desde los 6 meses...'
+tags: 
 actualPrice: 145.0 EUR
 currency: EUR
 price: 145.0

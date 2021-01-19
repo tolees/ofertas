@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ghIpmBTML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VRXZG1-es adidas VL Court 2.0  Zapatillas para Hombre  Azul  Collegiate Navy/Footwear White/Footwear White 0   40 EU'
+slug: 'B077VRXZG1-es adidas VL Court 2.0 Zapatillas para Hombre Azul Collegiate...'
+tags: 
 actualPrice: 39.56 EUR
 currency: EUR
 price: 39.56

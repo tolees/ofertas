@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q8yyMiGcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFK6BJL-es Arbily Auriculares Bluetooth  Auriculares Inalámbricos Bluetooth 5.0 Estéreo Hi-Fi Sonido IPX7 Resistentes al Agua  90 Horas Autonomía 3000mAH Estuche de Carga'
+slug: 'B07TFK6BJL-es Arbily Auriculares Bluetooth Auriculares Inalámbricos...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

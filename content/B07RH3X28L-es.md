@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314WbFIT7EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RH3X28L-es Tommy Hilfiger Formal Reversbile Adjustable 3.5 Cinturón  Negro  Black 0Gj    Talla del fabricante: 85  para Hombre'
+slug: 'B07RH3X28L-es Tommy Hilfiger Formal Reversbile Adjustable 3.5 Cinturón...'
+tags: 
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

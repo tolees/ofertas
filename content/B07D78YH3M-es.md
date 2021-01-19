@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xDyZ-RD5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D78YH3M-es Glamorise Full Figure MagicLift Moisture Control Bra #1264 Sujetador con Copa Completa  Beige  Café Heather 211   120H  Talla del Fabricante: 46G  para Mujer'
+slug: 'B07D78YH3M-es Glamorise Full Figure MagicLift Moisture Control Bra #1264...'
+tags: 
 actualPrice: 25.46 EUR
 currency: EUR
 price: 25.46

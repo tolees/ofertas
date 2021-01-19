@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zmD8o5dQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085F3XKX9-es DOUBLE M  Calzoncillos Slip Ropa Interior De Algodon  Cinturilla Elastica Vista Ajustada  para hombres  Pack de 3  Azul Oscuro  Negro  Gris XL'
+slug: 'B085F3XKX9-es DOUBLE M Calzoncillos Slip Ropa Interior De Algodon...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

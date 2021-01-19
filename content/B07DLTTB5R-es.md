@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oc+mbCB-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLTTB5R-es LOSMILE Bolsa de Viaje la Lona.  Marrón '
+slug: 'B07DLTTB5R-es LOSMILE Bolsa de Viaje la Lona. Marrón'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

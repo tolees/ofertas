@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nqqpIvxtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MB7HJ8-es Oacvien Transmisor Bluetooth Receptor 5.0  2 en 1 Adaptador Bluetooth Inalámbrico Portátil  RCA & 3.5mm AUX  Baja Latencia Audio Estéreo para TV  PC  Audio  Música Inalámbrico en Coche'
+slug: 'B082MB7HJ8-es Oacvien Transmisor Bluetooth Receptor 5.0 2 en 1 Adaptador...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

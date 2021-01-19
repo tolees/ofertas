@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eo46OlSvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RTFZYXC-es Grohe Eurosmart - Grifo de lavabo  con vaciador automático  caño estándar  con limitador ecológico de caudal y temperatura  Ref. 32926002 '
+slug: 'B00RTFZYXC-es Grohe Eurosmart - Grifo de lavabo con vaciador automático...'
+tags: 
 actualPrice: 81.08 EUR
 currency: EUR
 price: 81.08

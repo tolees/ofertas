@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419aG4X4ARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LSTVC0-es Cressi Mettalite Escarpines Neopreno Metallite  Unisex Adulto  Negro  M  2.5 mm '
+slug: 'B004LSTVC0-es Cressi Mettalite Escarpines Neopreno Metallite Unisex...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

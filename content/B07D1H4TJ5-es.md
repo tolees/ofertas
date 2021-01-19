@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D1H4TJ5-es Disney Baby 11520 - Hamaca mecedora'
+tags: 
 actualPrice: 36.44 EUR
 currency: EUR
 price: 36.44

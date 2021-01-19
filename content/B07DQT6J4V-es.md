@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lpnTkUX8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQT6J4V-es Dodot - Pañales desechables  unisex'
+slug: 'B07DQT6J4V-es Dodot - Pañales desechables unisex'
+tags: 
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NGWPqZ28L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ2JCQX-es New Balance 997H Core h  Zapatillas para Hombre  Morado  Dark Currant/Silver   44.5 EU'
+slug: 'B07DJ2JCQX-es New Balance 997H Core h Zapatillas para Hombre Morado Dark...'
+tags: 
 actualPrice: 37.43 EUR
 currency: EUR
 price: 37.43

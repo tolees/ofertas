@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516jVEPZPLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085NVSFKK-es DoGeek Zapato Seguridad Camo Calzado Seguridad Hombre con Punta de Acero  Antideslizante Transpirables  Unisex  Negro  44'
+slug: 'B085NVSFKK-es DoGeek Zapato Seguridad Camo Calzado Seguridad Hombre con...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

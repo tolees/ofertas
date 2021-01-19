@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413RHmDiKOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X67QXXX-es Mini Chupa Chups Caramelo con Palo de Sabores Variados - Bolsa de 20 unidades de 6 gr/ud'
+slug: 'B07X67QXXX-es Mini Chupa Chups Caramelo con Palo de Sabores Variados -...'
+tags: 
 actualPrice: 1.41 EUR
 currency: EUR
 price: 1.41

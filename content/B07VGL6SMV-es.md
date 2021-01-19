@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416fZ1y6ovL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGL6SMV-es DURAGADGET Cable De Audio Compatible con Portátil Acer SF514-52T Swift 5  LG gram 15Z990-V  LG gram 14Z990-V - con Conexión de 3.5mm Y Bañado En Oro'
+slug: 'B07VGL6SMV-es DURAGADGET Cable De Audio Compatible con Portátil Acer...'
+tags: 
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

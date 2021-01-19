@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iVzKpGvtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DTMRTH-es UGREEN Alfombrillas de Ratón Aluminio  Impermeable Alfombrilla Ratón Ordenador con Base PU Goma Antideslizante  Alfombrilla Ratón Metalica para Gaming Oficina PC Portátil  Doble Cara Mouse Pad Plata'
+slug: 'B083DTMRTH-es UGREEN Alfombrillas de Ratón Aluminio Impermeable...'
+tags: 
 actualPrice: 8.28 EUR
 currency: EUR
 price: 8.28

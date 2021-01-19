@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iQzVoLx-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1MM7LM-es New Balance Ryval Run  Zapatillas para Correr de Carretera para Hombre  Gris  Grey/Yellow Lc1   47.5 EU'
+slug: 'B07S1MM7LM-es New Balance Ryval Run Zapatillas para Correr de Carretera...'
+tags: 
 actualPrice: 36.17 EUR
 currency: EUR
 price: 36.17

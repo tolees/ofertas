@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41h0TbFk2eL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07733LLNF-es Columbia Peakfreak XCRSN II XCEL Low Outdry Mujer Zapatillas Multideporte Impermeable Negro  Blackwhite  Talla 38 EU'
+slug: 'B07733LLNF-es Columbia Peakfreak XCRSN II XCEL Low Outdry Mujer...'
+tags: 
 actualPrice: 44.66 EUR
 currency: EUR
 price: 44.66

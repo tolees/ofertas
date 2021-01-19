@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/312VG1N8ZUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCCZ3J3-es PUMA Smash v2 L  Zapatillas Unisex Adulto  Black-Gum  44.5 EU'
+slug: 'B07DCCZ3J3-es PUMA Smash v2 L Zapatillas Unisex Adulto Black-Gum 44.5 EU'
+tags: 
 actualPrice: 35.3 EUR
 currency: EUR
 price: 35.3

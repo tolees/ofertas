@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41apnJXmnVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKTKH68-es Memory Matching Game Pairs Juego Brain Entrenamiento Desk Juguete para niños regalo favorito'
+slug: 'B07MKTKH68-es Memory Matching Game Pairs Juego Brain Entrenamiento Desk...'
+tags: 
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

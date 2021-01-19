@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IuIBF50GL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYNT13R-es Tommy Hilfiger Essential Craft Vulc  Zapatillas para Hombre  Azul  Midnight 403   43 EU'
+slug: 'B07JYNT13R-es Tommy Hilfiger Essential Craft Vulc Zapatillas para Hombre...'
+tags: 
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

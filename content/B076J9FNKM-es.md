@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BpLQkSHEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076J9FNKM-es adidas SST TP Sport Trousers  Hombre  Black  XL'
+slug: 'B076J9FNKM-es adidas SST TP Sport Trousers Hombre Black XL'
+tags: 
 actualPrice: 42.05 EUR
 currency: EUR
 price: 42.05

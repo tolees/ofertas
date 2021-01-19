@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413JaPPBApL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVP2FC9-es BRIKSMAX Kit de Iluminación Led para Lego Creator Furgoneta de Playa  Compatible con Ladrillos de Construcción Lego Modelo 31079  Juego de Legos no Incluido'
+slug: 'B07TVP2FC9-es BRIKSMAX Kit de Iluminación Led para Lego Creator...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

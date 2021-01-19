@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hHpEfGgaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002T9VRX4-es Makita BO3711 - Lijadora Orbital Electronica  190W   4000-11000 Rpm  93 x 185 mm'
+slug: 'B002T9VRX4-es Makita BO3711 - Lijadora Orbital Electronica 190W...'
+tags: 
 actualPrice: 82.57 EUR
 currency: EUR
 price: 82.57

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hmEtl705L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V31SZ1T-es Zellar Fuente De Agua para Mascotas  Fuente para Beber para Perros  Fuente Dispensadora Automática De Agua para Gatos  2L  Blanco '
+slug: 'B07V31SZ1T-es Zellar Fuente De Agua para Mascotas Fuente para Beber para...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

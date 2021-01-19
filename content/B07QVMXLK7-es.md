@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Iv3ticilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVMXLK7-es Under Armour UA Heatgear Crew Calcetines  Unisex  Blanco  XL'
+slug: 'B07QVMXLK7-es Under Armour UA Heatgear Crew Calcetines Unisex Blanco XL'
+tags: 
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LPifAIO6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMWJVLV-es Wrangler High Rise Skinny Jeans  Azul  Blue Black 51l   26W / 32L para Mujer'
+slug: 'B07MMWJVLV-es Wrangler High Rise Skinny Jeans Azul Blue Black 51l 26W /...'
+tags: 
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

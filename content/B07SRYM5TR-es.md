@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YU7SeXg8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRYM5TR-es Amy & Benton Juego de Mini Dinosaurios  72 Piezas Dinosaurios de Juguete Dinosaurio Jurásico Mundo Dinosaurio del Mundo Zoológico para 3-6 Niños  Adornos para Pasteles  Favoritos para Fiesta'
+slug: 'B07SRYM5TR-es Amy & Benton Juego de Mini Dinosaurios 72 Piezas...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YnhehcOOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076VJFR59-es G-STAR RAW ARC Mid Waist Ripped Pantalones Cortos  Azul  Medium Aged 9436-071   32W para Mujer'
+slug: 'B076VJFR59-es G-STAR RAW ARC Mid Waist Ripped Pantalones Cortos Azul...'
+tags: 
 actualPrice: 29.31 EUR
 currency: EUR
 price: 29.31

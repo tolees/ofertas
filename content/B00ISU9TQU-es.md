@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415tyMq3sbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ISU9TQU-es Casio Collection TP-1154PQ-7B  Reloj Redondo para Mujer  Análogo Clásico  Negro'
+slug: 'B00ISU9TQU-es Casio Collection TP-1154PQ-7B Reloj Redondo para Mujer...'
+tags: 
 actualPrice: 22.14 EUR
 currency: EUR
 price: 22.14

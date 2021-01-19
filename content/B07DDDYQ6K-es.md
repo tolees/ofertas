@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cwVYmnl7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDDYQ6K-es Organizador de escritorio multifuncional con tableta de escritura LCD para bolígrafo/tarjeta de visita/teléfono móvil'
+slug: 'B07DDDYQ6K-es Organizador de escritorio multifuncional con tableta de...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

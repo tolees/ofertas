@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x3d85ux+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YC41DV-es Funko Pop!- Bad Dinosaur Figura de Vinilo  Multicolor  30984 '
+slug: 'B079YC41DV-es Funko Pop!- Bad Dinosaur Figura de Vinilo Multicolor 30984'
+tags: 
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

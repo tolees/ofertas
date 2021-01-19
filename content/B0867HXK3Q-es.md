@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S+1TSAQKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0867HXK3Q-es Masajeador facial LED  dispositivos reafirmantes con forma de V de la cara del cuello  45 ℃ ± 5 ℃ Arrugas antienvejecimiento por calor  3 modos  USB recargable'
+slug: 'B0867HXK3Q-es Masajeador facial LED dispositivos reafirmantes con forma...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

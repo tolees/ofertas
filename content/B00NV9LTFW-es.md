@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qFavDcykL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NV9LTFW-es Transcend TS1TSJM500 - Disco Duro sólido SSD de 1 TB  Blanco'
+slug: 'B00NV9LTFW-es Transcend TS1TSJM500 - Disco Duro sólido SSD de 1 TB Blanco'
+tags: 
 actualPrice: 278.95 EUR
 currency: EUR
 price: 278.95

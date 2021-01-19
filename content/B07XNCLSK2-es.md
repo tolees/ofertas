@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JvvuOieFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XNCLSK2-es [Versión Nuevo]Dilatador Nasal Anti Ronquidos Dyroe  Nose Clip Silicona con Imán Mejora la Respiración Nariz Clip para Ayudar a Dormir Mejor Antironquidos para el Ejercicio'
+slug: 'B07XNCLSK2-es [Versión Nuevo]Dilatador Nasal Anti Ronquidos Dyroe Nose...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

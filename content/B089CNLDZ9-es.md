@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S9m5q4-QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089CNLDZ9-es WXQ Bote de Basura de Acero Inoxidable Tipo Pedal Duradero Antideslizante Diseño de manija Antideslizante Silenciar Oficina doméstica cilíndrica Negro 12l 01'
+slug: 'B089CNLDZ9-es WXQ Bote de Basura de Acero Inoxidable Tipo Pedal Duradero...'
+tags: 
 actualPrice: 165.99 EUR
 currency: EUR
 price: 165.99

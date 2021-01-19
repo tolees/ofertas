@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VNuY3cWGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3N36RN-es Tommy Hilfiger Tommy Jeans Summer Shoe  Mocasines para Hombre  Negro  Black Bds   41 EU'
+slug: 'B07V3N36RN-es Tommy Hilfiger Tommy Jeans Summer Shoe Mocasines para...'
+tags: 
 actualPrice: 28.58 EUR
 currency: EUR
 price: 28.58

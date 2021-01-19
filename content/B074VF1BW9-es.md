@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ppl8zT5xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074VF1BW9-es Sony WHH900N - Auriculares de Diadema inalámbricos  H.Ear  Hi-Res Audio  cancelación de Ruido  Sense Engine  Bluetooth  Compatible con aplicación Headphones Connect  Azul'
+slug: 'B074VF1BW9-es Sony WHH900N - Auriculares de Diadema inalámbricos H.Ear...'
+tags: 
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

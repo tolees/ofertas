@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31r5p0rSXjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWPI8G1-es Brabantia NewIcon Cubo de Basura con Pedal  Acero Inoxidable  Blanco  12 l'
+slug: 'B01LWPI8G1-es Brabantia NewIcon Cubo de Basura con Pedal Acero...'
+tags: 
 actualPrice: 28.57 EUR
 currency: EUR
 price: 28.57

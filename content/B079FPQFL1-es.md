@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vlKsG8SAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FPQFL1-es Base de Refrigeración para Ordenador Portátil 12"-17.3"  Base Portatil Gaming de enfriamiento Rápido con LED Rojo  5 Ventiladores Ultra Silenciosos  2 Puertos USB  7 Niveles de Diseño Ajustable'
+slug: 'B079FPQFL1-es Base de Refrigeración para Ordenador Portátil 12"-17.3"...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

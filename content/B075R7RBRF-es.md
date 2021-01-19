@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DJHiY8KmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R7RBRF-es New Balance 247v1  Zapatillas para Mujer  Morado  Elderberry/Arctic Sky Eo   39 EU'
+slug: 'B075R7RBRF-es New Balance 247v1 Zapatillas para Mujer Morado...'
+tags: 
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

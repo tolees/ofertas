@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MesOTt9IL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8X1W5X-es Calcetines de Algodón 6 Pares  Multicolor: 4 x negro  2 x gris  EU 43-47 '
+slug: 'B07N8X1W5X-es Calcetines de Algodón 6 Pares Multicolor: 4 x negro 2 x...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

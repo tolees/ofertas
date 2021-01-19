@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jxw6wi2SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F9XHWFO-es JewelryWe Anillo de Hombre Mujer Anillo de craneo Acero Inoxidable Anillo de Calavera Grande para el Compromiso y la Boda de Plata Talla 7 Americana  ES#30=US#13 '
+slug: 'B00F9XHWFO-es JewelryWe Anillo de Hombre Mujer Anillo de craneo Acero...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

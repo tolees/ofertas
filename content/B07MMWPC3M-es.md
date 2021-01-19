@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31NRUe5X2JL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMWPC3M-es Wrangler Skinny Jeans  Azul  Dark Indigo X1e   32W / 30L para Mujer'
+slug: 'B07MMWPC3M-es Wrangler Skinny Jeans Azul Dark Indigo X1e 32W / 30L para...'
+tags: 
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

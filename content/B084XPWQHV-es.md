@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dCL2KbArL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084XPWQHV-es Bergner PK1783 3 Piezas Ø20/Ø24/Ø28 sartenes de Aluminio Forjado  inducción  en Negro + Set 3pc Utensilios de Cocina en Nylon'
+slug: 'B084XPWQHV-es Bergner PK1783 3 Piezas Ø20/Ø24/Ø28 sartenes de Aluminio...'
+tags: 
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

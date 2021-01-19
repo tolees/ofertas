@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414FY4cwQiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYJN3FG-es On Paws ‘Sleep Well Lounger’ Marron  tamaño M  65 x 50 cm '
+slug: 'B01LYJN3FG-es On Paws ‘Sleep Well Lounger’ Marron tamaño M 65 x 50 cm'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ASJx0UbHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085MCJFXB-es MZY1188 Cielo Azul Molde Rectangular de Silicona  Molde para Hornear de Silicona Resistente a la Temperatura  Molde para tostar Dulces Molde para Hornear DIY Suministros de Cocina Pastel'
+slug: 'B085MCJFXB-es MZY1188 Cielo Azul Molde Rectangular de Silicona Molde...'
+tags: 
 actualPrice: 2.54 EUR
 currency: EUR
 price: 2.54

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gSRlmju5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FZ3TSJ1-es MEDION AKOYA PCC722 - Ordenador de sobremesa  Intel Core i3-8100  8 GB RAM  1 TB HDD  Intel UHD Graphics 630  Sin Sistema operativo  Negro'
+slug: 'B07FZ3TSJ1-es MEDION AKOYA PCC722 - Ordenador de sobremesa Intel Core...'
+tags: 
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

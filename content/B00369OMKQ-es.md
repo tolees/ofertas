@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BgXxIjHlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00369OMKQ-es Mannesmann M53255 - Juego de herramientas para roscar de 110 piezas'
+slug: 'B00369OMKQ-es Mannesmann M53255 - Juego de herramientas para roscar de...'
+tags: 
 actualPrice: 122.16 EUR
 currency: EUR
 price: 122.16

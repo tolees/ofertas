@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3191RZdf6FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTN8RTL-es FIND - Effortless Look  Perfilador de labios n.1 + Líquido de labios brillante n.1 '
+slug: 'B07CTN8RTL-es FIND - Effortless Look Perfilador de labios n.1 + Líquido...'
+tags: 
 actualPrice: 2.78 EUR
 currency: EUR
 price: 2.78

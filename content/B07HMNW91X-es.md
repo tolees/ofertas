@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X6Ce+Q7CL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMNW91X-es Skechers Men s Verrado- Brogen Hi-Top Trainers  Brown  Brown Olive Brol   6 UK  39.5 EU '
+slug: 'B07HMNW91X-es Skechers Men s Verrado- Brogen Hi-Top Trainers Brown Brown...'
+tags: 
 actualPrice: 20.6 EUR
 currency: EUR
 price: 20.6

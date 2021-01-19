@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315+K5SDFDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCG288G-es TOPBATHY 2pcs de acero inoxidable fregadero filtros de alcantarilla fregadero colador desagüe de basura filtro de malla alcantarilla colector de pelo para baño de cocina'
+slug: 'B07YCG288G-es TOPBATHY 2pcs de acero inoxidable fregadero filtros de...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517rMFSH+HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LKWKAQK-es Epson WFDS570W - Escáner de Documentos en Color A4  Capacidad de USB  Blanco y Negro'
+slug: 'B01LKWKAQK-es Epson WFDS570W - Escáner de Documentos en Color A4...'
+tags: 
 actualPrice: 329.64 EUR
 currency: EUR
 price: 329.64

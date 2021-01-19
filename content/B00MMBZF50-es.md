@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OyX7V7m8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MMBZF50-es Samsonite S Cure Spinner- Maleta de equipaje  XL  81 cm - 138 L   Negro  Black '
+slug: 'B00MMBZF50-es Samsonite S Cure Spinner- Maleta de equipaje XL 81 cm -...'
+tags: 
 actualPrice: 126.0 EUR
 currency: EUR
 price: 126.0

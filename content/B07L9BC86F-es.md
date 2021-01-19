@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FMMI4O6GL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9BC86F-es Under Armour Speedpocket Linerless 7   Pantalones Cortos  Hombre  Negro  LG'
+slug: 'B07L9BC86F-es Under Armour Speedpocket Linerless 7 Pantalones Cortos...'
+tags: 
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

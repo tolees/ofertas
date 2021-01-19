@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GhXQ+5i8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW7G6VB-es Ping Pop Pijamas para niños Necesito Espacio Ajuste Ceñido Multicolor 2-3 Años'
+slug: 'B07JW7G6VB-es Ping Pop Pijamas para niños Necesito Espacio Ajuste Ceñido...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

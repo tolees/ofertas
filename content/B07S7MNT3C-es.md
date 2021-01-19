@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7MNT3C-es Rage 2'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

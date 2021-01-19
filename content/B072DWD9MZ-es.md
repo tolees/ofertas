@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HMit-iM1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072DWD9MZ-es JACK & JONES Jfworca Leather  Botas Clasicas para Hombre  Marrón  Brown Stone   40 EU'
+slug: 'B072DWD9MZ-es JACK & JONES Jfworca Leather Botas Clasicas para Hombre...'
+tags: 
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

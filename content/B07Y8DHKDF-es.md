@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513+S5IIbmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8DHKDF-es Konesky Portátil Podómetro Digital para Caminar 3D Mosquetón Deportivo Clip en el Paso y Contador de Calorías Rastreador de Actividad Física'
+slug: 'B07Y8DHKDF-es Konesky Portátil Podómetro Digital para Caminar 3D...'
+tags: 
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

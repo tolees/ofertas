@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jzZSE8E3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071L5YRQS-es ASUS VA326H 31.5" Full HD Mate Negro Pantalla para PC - Monitor  80 cm  31.5"   300 CD/m²  1920 x 1080 Pixeles  4 ms  Full HD  3000:1 '
+slug: 'B071L5YRQS-es ASUS VA326H 31.5" Full HD Mate Negro Pantalla para PC -...'
+tags: 
 actualPrice: 284 EUR
 currency: EUR
 price: 284

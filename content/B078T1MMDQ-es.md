@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MBf4uFnHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T1MMDQ-es Clarks Brixby Cove  Sandalia con Pulsera para Hombre  Negro  Black Leather-   40 EU'
+slug: 'B078T1MMDQ-es Clarks Brixby Cove Sandalia con Pulsera para Hombre Negro...'
+tags: 
 actualPrice: 23.93 EUR
 currency: EUR
 price: 23.93

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jey0ypuFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WT4B8DX-es HONCENMAX Funda Asiento Coche  Suave Cojín de Asiento  Protección del Asiento de Coche Universales [Sin Respaldo] - 1 Paquete de Cubierta de Asiento Trasera'
+slug: 'B07WT4B8DX-es HONCENMAX Funda Asiento Coche Suave Cojín de Asiento...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

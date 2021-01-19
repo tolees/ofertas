@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41RK2KwYedL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VVHV56-es Crocs Handle It Rain Boot K  Botas de Agua Unisex Niños  Azul  Navy   23/24 EU'
+slug: 'B071VVHV56-es Crocs Handle It Rain Boot K Botas de Agua Unisex Niños...'
+tags: 
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

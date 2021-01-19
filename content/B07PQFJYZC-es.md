@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UNvpy-PqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQFJYZC-es Newseego Compatible con el Protector de Lente de cámara Huawei P30 Pro [4 Pack] Protector de Vidrio Flexible Transparente - Alta definición con Borde Redondo 2.5D Protector [Anti-Scratch] - Clear'
+slug: 'B07PQFJYZC-es Newseego Compatible con el Protector de Lente de cámara...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FzEyseF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797TLSGC-es VENTILADOR Digital Dardaruga WFD NEBULIZADOR  tanque XXL de 3.10 litros  Ionizador  Antimosquitos y Repelente de Insectos  Compartimento AROMA  Temporizador  Control Remoto  Oscilación  Ruedas  PLATA '
+slug: 'B0797TLSGC-es VENTILADOR Digital Dardaruga WFD NEBULIZADOR tanque XXL de...'
+tags: 
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

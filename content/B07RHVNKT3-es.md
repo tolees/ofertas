@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nB5sCah2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHVNKT3-es PATO® - Active Clean Colgador para Inodoro  frescor Intenso  perfuma y desinfecta  Aroma Lima - Pack de 8 Unidades'
+slug: 'B07RHVNKT3-es PATO® - Active Clean Colgador para Inodoro frescor Intenso...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

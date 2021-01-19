@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FzNX3GCgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0827XNNCH-es Montse Interiors  S.L. Juego de sábanas Estampado Rayas de Colores  sín Bajera   Dubai  para Cama de 135x190/200 '
+slug: 'B0827XNNCH-es Montse Interiors S.L. Juego de sábanas Estampado Rayas de...'
+tags: 
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

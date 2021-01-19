@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tox6dCWiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WCWNFR9-es Sternitz - Bloque de Yoga - Eco-Friendly - No Tóxico - Liviano y Duradero - Yoga Block  23cm x 15cm x 10cm  Negro - Gris  2 Pack  '
+slug: 'B07WCWNFR9-es Sternitz - Bloque de Yoga - Eco-Friendly - No Tóxico -...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

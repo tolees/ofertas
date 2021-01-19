@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31STpxWyY7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GB97Z4M-es GLOGLOW 2pcs Tactical Helmet Headset Support  Plastic + Casco de Acero ARC Rail Suspension Tactical Casco Accesorio ARC Rail Adapter para Peltor Comtac  Tostado '
+slug: 'B07GB97Z4M-es GLOGLOW 2pcs Tactical Helmet Headset Support Plastic +...'
+tags: 
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

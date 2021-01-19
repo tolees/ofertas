@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SqFzhoEnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074DWXFG8-es Versace 19V69 Funda Nórdico Y Almohada para Cama  Algodón-Poliéster  Dorado  Camas 1 35'
+slug: 'B074DWXFG8-es Versace 19V69 Funda Nórdico Y Almohada para Cama Algodón-...'
+tags: 
 actualPrice: 49.13 EUR
 currency: EUR
 price: 49.13

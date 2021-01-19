@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pw36xicPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082LW6S6Y-es Aigostar Benno 30QUJ - Cafetera de goteo  filtro reutilizable  pantalla LCD  800W  programador 24 horas  capacidad 1 5 litros  sistema anti-goteo  función mantener caliente. Libre de BPA'
+slug: 'B082LW6S6Y-es Aigostar Benno 30QUJ - Cafetera de goteo filtro...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

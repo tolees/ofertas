@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-rAOo4ryL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJ5TZBY-es Craft Creator Soporte de Vasos de chupito de Marca de Cuerno de búfalo: Juego de 6 Vasos de chupito de asta de 57 ml  2 onzas  con Soporte de Madera Premium Personalizada para sostener los Vasos.'
+slug: 'B07VJ5TZBY-es Craft Creator Soporte de Vasos de chupito de Marca de...'
+tags: 
 actualPrice: 23.94 EUR
 currency: EUR
 price: 23.94

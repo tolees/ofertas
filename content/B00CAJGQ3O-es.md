@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41C1Q10u0nL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CAJGQ3O-es Beckham David Beckham Classic Agua de toilette con vaporizador - 40 ml'
+slug: 'B00CAJGQ3O-es Beckham David Beckham Classic Agua de toilette con...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

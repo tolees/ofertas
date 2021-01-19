@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dYecfiOyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P96KR2H-es Funko- Pop Bobble: Marvel: Venom S2-Groot Figura coleccionable  Multicolor  41693 '
+slug: 'B07P96KR2H-es Funko- Pop Bobble: Marvel: Venom S2-Groot Figura...'
+tags: 
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

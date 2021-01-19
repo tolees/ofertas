@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-3ISlPBkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJLZB2Q-es FORMIZON Equilibrar Juego de Matemáticas  Juguete Animal Balanza  Juguete Educativo Niños Balanza de Equilibrio Números Tarjetas  Juego Divertido Regalo Educativo para Niñas Niños  Monos '
+slug: 'B07YJLZB2Q-es FORMIZON Equilibrar Juego de Matemáticas Juguete Animal...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

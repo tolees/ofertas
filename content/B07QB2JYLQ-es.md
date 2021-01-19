@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+qAgXabyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB2JYLQ-es Sotor Funda de Barbacoa  600D Oxford Impermeable Resistente al Desgarro  con Hebilla Doble  Cordón Ajustable  Doble Asa y Bolsa  Protección Solar/Lluvia/Polvo/Viento/UV  152 x 75 x 124 cm - Negro'
+slug: 'B07QB2JYLQ-es Sotor Funda de Barbacoa 600D Oxford Impermeable Resistente...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

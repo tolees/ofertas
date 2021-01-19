@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RaCl-nabL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHW99LT-es Columbia Five Forks Mid  Botas de Senderismo Impermeables para Hombre  Gris  Dark Grey  Flam 089   45 EU'
+slug: 'B07JHW99LT-es Columbia Five Forks Mid Botas de Senderismo Impermeables...'
+tags: 
 actualPrice: 41.04 EUR
 currency: EUR
 price: 41.04

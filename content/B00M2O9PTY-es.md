@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lP9gyr8hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M2O9PTY-es Cybex Silver Pallas 2-Fix 515111001 Silla de Coche 2 en 1  Grupo 1/2/3  Colección de Color 2019  Gris  Gray Rabbit '
+slug: 'B00M2O9PTY-es Cybex Silver Pallas 2-Fix 515111001 Silla de Coche 2 en 1...'
+tags: 
 actualPrice: 207.84 EUR
 currency: EUR
 price: 207.84

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41peZe5Q3YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BU9DLZ0-es Lacoste Reloj Analógico para Mujer de Cuarzo con Correa en Silicona 2020107'
+slug: 'B01BU9DLZ0-es Lacoste Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 50.65 EUR
 currency: EUR
 price: 50.65

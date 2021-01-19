@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087WZPK6X-es Pretty See 100Pcs Tamaño de Cara Libre desechable Azul 3-PLY'
+tags: 
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MK5w4sF-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825PKS6G-es Roxy Favorite Song - Mono Corto con Tiras para Mujer Mono Corto con Tiras  Mujer  Snow White Tropic Call  S'
+slug: 'B0825PKS6G-es Roxy Favorite Song - Mono Corto con Tiras para Mujer Mono...'
+tags: 
 actualPrice: 32.94 EUR
 currency: EUR
 price: 32.94

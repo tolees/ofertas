@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GD0ZjCyQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFBHLMW-es FAMTOP Purificador de Aire para Hogar  Air Purifier 4 en 1 hasta 99.97%  con Filtro HEPA Catalizador Frío  No Ozono  CADR 120m³/h  Captura Polvo  Humo  Caspa de Mascotas'
+slug: 'B07RFBHLMW-es FAMTOP Purificador de Aire para Hogar Air Purifier 4 en 1...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

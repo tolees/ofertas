@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c2VbMbWGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017EW5TG6-es ORICO USB Adaptador Bluetooth 4.0 Adaptador Bluetooth USB Plug & Play Compatible Windows XP/Vista/ 7/8/10 Negro'
+slug: 'B017EW5TG6-es ORICO USB Adaptador Bluetooth 4.0 Adaptador Bluetooth USB...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

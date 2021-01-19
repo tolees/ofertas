@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ufWAXF61L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N98XRGS-es BOSS Schino-Regular D Pantalones  Azul  Navy 413   29W/34L para Hombre'
+slug: 'B07N98XRGS-es BOSS Schino-Regular D Pantalones Azul Navy 413 29W/34L...'
+tags: 
 actualPrice: 40.8 EUR
 currency: EUR
 price: 40.8

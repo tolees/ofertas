@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21pGZtISjYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077C9WGQY-es Converse Taylor Chuck 70 Hi  Sneaker Unisex-Adult  Parchment/Garnet/Egret  41 EU'
+slug: 'B077C9WGQY-es Converse Taylor Chuck 70 Hi Sneaker Unisex-Adult...'
+tags: 
 actualPrice: 64.53 EUR
 currency: EUR
 price: 64.53

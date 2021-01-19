@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HuNMT3yQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006M6AYXO-es Converse Chuck Taylor Core Lea Ox  Zapatillas De Cuero Unisex Adulto  Blanco  41 EU'
+slug: 'B006M6AYXO-es Converse Chuck Taylor Core Lea Ox Zapatillas De Cuero...'
+tags: 
 actualPrice: 48.08 EUR
 currency: EUR
 price: 48.08

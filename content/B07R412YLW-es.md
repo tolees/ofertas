@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AFxbSuUBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R412YLW-es JACK & JONES Jfwalbany Leather  Botas Estilo Motero para Hombre  Marrón  Coffee Bean Coffee Bean   40 EU'
+slug: 'B07R412YLW-es JACK & JONES Jfwalbany Leather Botas Estilo Motero para...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

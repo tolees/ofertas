@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3162Gx1Oo1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GHQPGQ4-es Intex 29002 - Cartucho para filtros para piscinas  2 unidades'
+slug: 'B00GHQPGQ4-es Intex 29002 - Cartucho para filtros para piscinas 2 unidades'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

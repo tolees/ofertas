@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zwhWu76rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081F3TBCV-es LoveOlvido Transparente Antiadherente acrílico Fondant Rodillo de impresión Rodillo de acrílico Tallado Rodillo en Relieve Rodillo - Multicolor'
+slug: 'B081F3TBCV-es LoveOlvido Transparente Antiadherente acrílico Fondant...'
+tags: 
 actualPrice: 1.66 EUR
 currency: EUR
 price: 1.66

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XCDNhI6AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGG1GCT-es Funko Pop! - Warden Figura de Vinilo  seria The Elder Scrolls Online  ESO  Morrowind  14331 '
+slug: 'B06XGG1GCT-es Funko Pop! - Warden Figura de Vinilo seria The Elder...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

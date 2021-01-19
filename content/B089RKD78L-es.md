@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61vuumYvZAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089RKD78L-es RuiDaXiang Friends-Casa del árbol Conjunto de Bloques de construcción creativos de City Street View Sakura  Architecture Inari Shrine Building Bricks Toy 1103 Piezas '
+slug: 'B089RKD78L-es RuiDaXiang Friends-Casa del árbol Conjunto de Bloques de...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

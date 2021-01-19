@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51R9PWGwQHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8LRC27-es Reloj para Hombre  Colección Traguardo  con Movimiento de Cuarzo y función cronógrafo  en Acero y pvd Oro Rosa - R8873612011'
+slug: 'B07H8LRC27-es Reloj para Hombre Colección Traguardo con Movimiento de...'
+tags: 
 actualPrice: 177.3 EUR
 currency: EUR
 price: 177.3

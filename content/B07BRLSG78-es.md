@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AfEabRlGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRLSG78-es Bostanten Cinturón Cuero Para Hombres Piel Cinturones hebilla automática Men s Belt Café'
+slug: 'B07BRLSG78-es Bostanten Cinturón Cuero Para Hombres Piel Cinturones...'
+tags: 
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

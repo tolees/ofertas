@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412i+q7pCrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082CCGPD1-es 100 Ml Original Mujer Elegante Perfume Señora Perfume Natural De Larga Duración Fruta Fragancia De Flores Eternidad Euforia Cumpleaños Regalos De Vacaciones'
+slug: 'B082CCGPD1-es 100 Ml Original Mujer Elegante Perfume Señora Perfume...'
+tags: 
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

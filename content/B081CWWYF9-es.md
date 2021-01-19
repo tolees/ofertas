@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wA3gOumkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CWWYF9-es Gillette Platinum  Cuchillas de afeitar de doble filo para maquinillas de afeitar clásicas  50 recambios'
+slug: 'B081CWWYF9-es Gillette Platinum Cuchillas de afeitar de doble filo para...'
+tags: 
 actualPrice: 7.33 EUR
 currency: EUR
 price: 7.33

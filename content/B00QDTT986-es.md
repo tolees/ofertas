@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TYV+ycRKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QDTT986-es Bosch BER634GS1 Serie 8 - Microondas integrable / encastre  21 L  900 W  color negro con acero inoxidable'
+slug: 'B00QDTT986-es Bosch BER634GS1 Serie 8 - Microondas integrable / encastre...'
+tags: 
 actualPrice: 491.0 EUR
 currency: EUR
 price: 491.0

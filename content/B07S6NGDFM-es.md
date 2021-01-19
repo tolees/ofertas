@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D393kPJmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NGDFM-es PUMA Zone XT WNS  Zapatillas Deportivas para Interior para Mujer  Blanco White Black  36 EU'
+slug: 'B07S6NGDFM-es PUMA Zone XT WNS Zapatillas Deportivas para Interior para...'
+tags: 
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

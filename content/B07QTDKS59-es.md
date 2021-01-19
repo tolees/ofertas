@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413r7QDca1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTDKS59-es Focusrite Scarlett Solo Studio 3rd Gen  Interfaz de Audio  Micrófono de Condensador y Auriculares  USB'
+slug: 'B07QTDKS59-es Focusrite Scarlett Solo Studio 3rd Gen Interfaz de Audio...'
+tags: 
 actualPrice: 146.61 EUR
 currency: EUR
 price: 146.61

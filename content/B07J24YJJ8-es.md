@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XtqXr9hnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J24YJJ8-es Michael Kors Reloj Cronógrafo para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable MK8666'
+slug: 'B07J24YJJ8-es Michael Kors Reloj Cronógrafo para Unisex Adultos de...'
+tags: 
 actualPrice: 229.12 EUR
 currency: EUR
 price: 229.12

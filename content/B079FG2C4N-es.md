@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TWcN7ERIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FG2C4N-es Tristar VE-5890 – Ventilador de pie  40 centímetros  color blanco'
+slug: 'B079FG2C4N-es Tristar VE-5890 – Ventilador de pie 40 centímetros color...'
+tags: 
 actualPrice: 22.75 EUR
 currency: EUR
 price: 22.75

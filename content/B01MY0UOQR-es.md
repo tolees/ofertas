@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tis8wU4KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY0UOQR-es Safety 1st Wall Fix Extending Barrera de seguridad extensible de 62 cm hasta 102 cm  barrera perros y niños  puerta con montaje a pared  color blanco'
+slug: 'B01MY0UOQR-es Safety 1st Wall Fix Extending Barrera de seguridad...'
+tags: 
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

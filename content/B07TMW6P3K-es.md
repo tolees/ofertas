@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kZR16USjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMW6P3K-es Clarks Un Rio Step  Zapatillas sin Cordones para Mujer  Azul  Blush Leather Blush Leather   38 EU'
+slug: 'B07TMW6P3K-es Clarks Un Rio Step Zapatillas sin Cordones para Mujer Azul...'
+tags: 
 actualPrice: 46.06 EUR
 currency: EUR
 price: 46.06

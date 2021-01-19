@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41++2CKqo6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DV5CNQA-es Superga Classic  Zapatillas Unisex Adulto  Marrón Brown Dk Chocolate  35.5 EU'
+slug: 'B00DV5CNQA-es Superga Classic Zapatillas Unisex Adulto Marrón Brown Dk...'
+tags: 
 actualPrice: 38.8 EUR
 currency: EUR
 price: 38.8

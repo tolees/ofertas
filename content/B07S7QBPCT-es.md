@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WLJYaanGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QBPCT-es PUMA RS 9.8 Grid  Zapatillas Unisex-Adulto  Blanco White White  42 EU'
+slug: 'B07S7QBPCT-es PUMA RS 9.8 Grid Zapatillas Unisex-Adulto Blanco White...'
+tags: 
 actualPrice: 23.94 EUR
 currency: EUR
 price: 23.94

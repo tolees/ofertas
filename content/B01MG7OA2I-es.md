@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oxFpQ6ZwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MG7OA2I-es Carl Victor - Sartén Honda de Hierro Fundido con Mango de Madera y tapadera de Hierro Fundido  25 cm  Apta para inducción  Negro'
+slug: 'B01MG7OA2I-es Carl Victor - Sartén Honda de Hierro Fundido con Mango de...'
+tags: 
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

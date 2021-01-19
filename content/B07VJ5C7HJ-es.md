@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41feywlUrsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJ5C7HJ-es Real Madrid CF- Estuche  Multicolor  SAFTA 811954635 '
+slug: 'B07VJ5C7HJ-es Real Madrid CF- Estuche Multicolor SAFTA 811954635'
+tags: 
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

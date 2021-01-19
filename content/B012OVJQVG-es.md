@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PX-xxHC1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012OVJQVG-es DC Figura de Vinilo Batman  colección Arkham Knight  Funko 6383 '
+slug: 'B012OVJQVG-es DC Figura de Vinilo Batman colección Arkham Knight Funko 6383'
+tags: 
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

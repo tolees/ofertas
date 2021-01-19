@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UxQTMke6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RD67SB-es Princess 182021 - Aerofryer XL Freidora  Panel de Control Digital Táctil  Fácil de Limpiar  1400 W  3.2 Litros  Acero Inoxidable  Negro'
+slug: 'B071RD67SB-es Princess 182021 - Aerofryer XL Freidora Panel de Control...'
+tags: 
 actualPrice: 84.8 EUR
 currency: EUR
 price: 84.8

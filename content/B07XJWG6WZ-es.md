@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TUs6HSJeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJWG6WZ-es TOMLOV Mini Cámara 140 Grados HD 1080P Mini Cámara Espia Oculta Videocámara con Visión Nocturna y Detección de Movimiento Camaras de Seguridad para el Hogar/Garaje/Jardín y ect'
+slug: 'B07XJWG6WZ-es TOMLOV Mini Cámara 140 Grados HD 1080P Mini Cámara Espia...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

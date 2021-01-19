@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SBY5pkygL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y24SPLG-es SPC Epic - Teléfono móvil   Números y letras grandes  Agenda hasta 300 contactos  cámara  radio  alarma y multi-idioma  – Color Rojo'
+slug: 'B07Y24SPLG-es SPC Epic - Teléfono móvil Números y letras grandes Agenda...'
+tags: 
 actualPrice: 23.91 EUR
 currency: EUR
 price: 23.91

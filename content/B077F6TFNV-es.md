@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IeeBGv2xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077F6TFNV-es Aigostar Koud 33JTL - Climatizador evaporativo con mando a distancia  55W  oscilante  3 modos y 3 velocidades  temporizador 7 h  humidificador de aire  2 cajas hielo  depósito 5 l. Diseño exclusivo'
+slug: 'B077F6TFNV-es Aigostar Koud 33JTL - Climatizador evaporativo con mando a...'
+tags: 
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

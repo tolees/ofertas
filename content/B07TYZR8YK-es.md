@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x3VqicmvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYZR8YK-es Max Factor Skin Match Blush  Colorete Tono 0075- 8.25 gr'
+slug: 'B07TYZR8YK-es Max Factor Skin Match Blush Colorete Tono 0075- 8.25 gr'
+tags: 
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

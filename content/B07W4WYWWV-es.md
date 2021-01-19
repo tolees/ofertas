@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FCsgNvMZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4WYWWV-es Springfield tachas.fino-c/01 Cinturón  Negro  Black 1   85  Tamaño del fabricante: 85  para Mujer'
+slug: 'B07W4WYWWV-es Springfield tachas.fino-c/01 Cinturón Negro Black 1 85...'
+tags: 
 actualPrice: 5.16 EUR
 currency: EUR
 price: 5.16

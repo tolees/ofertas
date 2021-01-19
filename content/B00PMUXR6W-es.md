@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419fnMXQKbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PMUXR6W-es RHA 201044 MA750i  Intra-auriculares con aislamiento de ruido  mando de control y micrófono'
+slug: 'B00PMUXR6W-es RHA 201044 MA750i Intra-auriculares con aislamiento de...'
+tags: 
 actualPrice: 39.14 EUR
 currency: EUR
 price: 39.14

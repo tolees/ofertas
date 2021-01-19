@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312ZBmyKdtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SWY5GY-es Grborn Micrófono de sobremesa USB 360° Soporte de micrófono Ajustable micrófono de grabación de Voz Hablar para PC Mac con un Puerto USB'
+slug: 'B089SWY5GY-es Grborn Micrófono de sobremesa USB 360° Soporte de...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

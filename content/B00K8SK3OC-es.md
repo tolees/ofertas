@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hbzdg8ntL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K8SK3OC-es Yazilind deslumbrante Oro plateado alrojoedor Pear cortada Colorful cúbico Circonita perfecto semental Pendientes'
+slug: 'B00K8SK3OC-es Yazilind deslumbrante Oro plateado alrojoedor Pear cortada...'
+tags: 
 actualPrice: 3.76 EUR
 currency: EUR
 price: 3.76

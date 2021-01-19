@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515OBdUHREL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRL8NY5-es Ferilinso Funda para Xiaomi Redmi Note 8 Funda [Reforzar la versión con Cuatro Esquinas][Funda Protectora de la cámara] Funda Protectora de Silicona de Piel de Goma TPU a Prueba de Goma  Azul '
+slug: 'B07XRL8NY5-es Ferilinso Funda para Xiaomi Redmi Note 8 Funda [Reforzar...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

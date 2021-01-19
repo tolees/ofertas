@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z5hQfKzXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZHYL4G-es Superdry Classic Superstate Pique Polo  Rosa  Pink Fluro Grit S2w   Large para Hombre'
+slug: 'B07MZHYL4G-es Superdry Classic Superstate Pique Polo Rosa Pink Fluro...'
+tags: 
 actualPrice: 33.45 EUR
 currency: EUR
 price: 33.45

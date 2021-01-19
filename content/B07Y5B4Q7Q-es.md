@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pNE9zdwDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y5B4Q7Q-es GRIDINLUX. Batería de Cocina 22 Piezas. Incluye Accesorios  Materiales Calidad Premium. Resistente  Cerámica y Antiadherente  Utensilios  Set Cacerolas  Apta para todo tipo de Cocinas  Fácil limpieza'
+slug: 'B07Y5B4Q7Q-es GRIDINLUX. Batería de Cocina 22 Piezas. Incluye Accesorios...'
+tags: 
 actualPrice: 139.97 EUR
 currency: EUR
 price: 139.97

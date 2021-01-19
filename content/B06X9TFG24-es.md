@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SCHhOBcGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9TFG24-es AEG WX7-90A2B Limpiador de Ventanas  Batería hasta 90min  3 Indicadores LED carga  Cepillo Aspiradora de 29cm y 17cm  Función Rascador  Pulverizador de 250ml  Paño Microfibras  Depósito 110ml  Azul'
+slug: 'B06X9TFG24-es AEG WX7-90A2B Limpiador de Ventanas Batería hasta 90min 3...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

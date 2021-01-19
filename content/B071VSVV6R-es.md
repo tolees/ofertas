@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xcE7Qc0xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VSVV6R-es Under Armour UA Launch AV Cap Gorras de béisbol  Gorrapara Hombre  Blanco  OSFA'
+slug: 'B071VSVV6R-es Under Armour UA Launch AV Cap Gorras de béisbol Gorrapara...'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

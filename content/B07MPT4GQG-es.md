@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+ggTow+YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MPT4GQG-es Mardozon Correas para Xiaomi Mi Band 3  14 Piezas Pulsera de Doble Color Silicona de Recambio Brazalete Extensibles Coloridos Reemplazo Wireless Inteligente para Mi Banda 3  14 Colors '
+slug: 'B07MPT4GQG-es Mardozon Correas para Xiaomi Mi Band 3 14 Piezas Pulsera...'
+tags: 
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

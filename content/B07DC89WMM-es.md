@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AR9AcsRbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC89WMM-es Sloggi Zero Feel Top Ex Corsé  Azul  Cool Ice 00iu   38  Talla del Fabricante: Small  para Mujer'
+slug: 'B07DC89WMM-es Sloggi Zero Feel Top Ex Corsé Azul Cool Ice 00iu 38 Talla...'
+tags: 
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

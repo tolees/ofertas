@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41D11vyOaJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMR38L8-es JACK & JONES Jcomondo Sweat Hood Capucha  Gris Light Grey Melange  Medium para Hombre'
+slug: 'B07RMR38L8-es JACK & JONES Jcomondo Sweat Hood Capucha Gris Light Grey...'
+tags: 
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

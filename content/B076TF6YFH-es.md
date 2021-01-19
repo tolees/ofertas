@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WeTmQRcAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076TF6YFH-es Skechers Elite Flex  Zapatillas para Hombre  Azul  Navy/Grey   43 EU'
+slug: 'B076TF6YFH-es Skechers Elite Flex Zapatillas para Hombre Azul Navy/Grey...'
+tags: 
 actualPrice: 30.53 EUR
 currency: EUR
 price: 30.53

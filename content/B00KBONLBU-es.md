@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wpo0NOdvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KBONLBU-es BRA Efficient - Set de 3 sartenes  18-22-26 cm  aluminio fundido con antiadherente Platinum Plus  apta para inducción'
+slug: 'B00KBONLBU-es BRA Efficient - Set de 3 sartenes 18-22-26 cm aluminio...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

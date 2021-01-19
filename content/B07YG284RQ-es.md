@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wDq1MrQZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YG284RQ-es SONARIN Silla Asiento de mesa para bebé trona de mesa portátil para el hogar y los viajes con bolsa de transporte Gancho fácil en la mesa Azul '
+slug: 'B07YG284RQ-es SONARIN Silla Asiento de mesa para bebé trona de mesa...'
+tags: 
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

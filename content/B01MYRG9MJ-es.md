@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wfp9cuMpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYRG9MJ-es Puma Suede Classic+  Zapatillas Unisex Adulto  Turquesa  Navigate White-Gold 18   41 EU'
+slug: 'B01MYRG9MJ-es Puma Suede Classic+ Zapatillas Unisex Adulto Turquesa...'
+tags: 
 actualPrice: 25.43 EUR
 currency: EUR
 price: 25.43

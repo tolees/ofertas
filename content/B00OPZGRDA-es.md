@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wtT15RytL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OPZGRDA-es B&W 77mm F-Pro - Filtro para cámara  7 7 cm  Negro  F-Pro  XS-Pro '
+slug: 'B00OPZGRDA-es B&W 77mm F-Pro - Filtro para cámara 7 7 cm Negro F-Pro XS-Pro'
+tags: 
 actualPrice: 94.5 EUR
 currency: EUR
 price: 94.5

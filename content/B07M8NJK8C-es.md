@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GMmwZh0kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8NJK8C-es Braun 9 En 1 Recortadora todo en uno MGK5080  Máquina recortadora barba  cortapelos  recortador de vello de nariz y orejas  para detalles  afeitadora corporal'
+slug: 'B07M8NJK8C-es Braun 9 En 1 Recortadora todo en uno MGK5080 Máquina...'
+tags: 
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

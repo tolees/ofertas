@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gVdXhVIbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F24SYV3-es Válvula de drenaje automática  G1 / 2 DN15 Válvula de drenaje temporizada electrónica automática para la gestión del condensado del compresor de aire AC110V '
+slug: 'B07F24SYV3-es Válvula de drenaje automática G1 / 2 DN15 Válvula de...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

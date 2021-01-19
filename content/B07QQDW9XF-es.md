@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IGotgealL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQDW9XF-es Bourjois Velvet The Pencil - Pintalabios Tono 13 Framboise Griffée  3g'
+slug: 'B07QQDW9XF-es Bourjois Velvet The Pencil - Pintalabios Tono 13 Framboise...'
+tags: 
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

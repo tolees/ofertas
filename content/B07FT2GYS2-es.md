@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rhemOh-HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FT2GYS2-es Aceite Orgánico de Rosa Mosqueta 100% Puro y Natural  para Piel  las uñas  el cabello  60ml '
+slug: 'B07FT2GYS2-es Aceite Orgánico de Rosa Mosqueta 100% Puro y Natural para...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

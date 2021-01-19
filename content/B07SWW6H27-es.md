@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ujkvKMnaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWW6H27-es Mommy Hook Stroller Hanger  Houkiper Ganchos Multiusos Antideslizantes más Grandes para Bolsas de pañales  Bolsas de Compras  comestibles  Ropa  Acampar en Bolsos  excursiones  Silver'
+slug: 'B07SWW6H27-es Mommy Hook Stroller Hanger Houkiper Ganchos Multiusos...'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

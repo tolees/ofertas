@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319tv-1HsuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CAUJHRA-es Estee Lauder Perfectly Clean Limpiador Frío Multi-Action para Pieles Grasas  150 gr'
+slug: 'B00CAUJHRA-es Estee Lauder Perfectly Clean Limpiador Frío Multi-Action...'
+tags: 
 actualPrice: 18.6 EUR
 currency: EUR
 price: 18.6

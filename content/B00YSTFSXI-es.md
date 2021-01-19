@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ARuokhm1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YSTFSXI-es Adidas AA2299  Calcetines Unisex  Negro  Negro/Gris/Blanco   23 - 26 EU  Paquete de 3'
+slug: 'B00YSTFSXI-es Adidas AA2299 Calcetines Unisex Negro Negro/Gris/Blanco 23...'
+tags: 
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

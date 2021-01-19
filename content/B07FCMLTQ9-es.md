@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31sA9UkPSGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCMLTQ9-es ETNAB|#Etnies Marana Vulc  Zapatillas de Skateboard para Hombre  White/Grey/Gum 133  10 UK EU'
+slug: 'B07FCMLTQ9-es ETNAB|#Etnies Marana Vulc Zapatillas de Skateboard para...'
+tags: 
 actualPrice: 35.11 EUR
 currency: EUR
 price: 35.11

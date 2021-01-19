@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Dlpv7fFIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T8NBH6L-es 【136 LED/3 modos】Luz Solar Exterior  Luz de Seguridad Inalámbrica del Sensor de Movimiento Solar Luces Solares de 270°Aplique de Pared Solar para Puerta de Entrada Patio Garaje Jardín Paquete de 2 '
+slug: 'B07T8NBH6L-es 【136 LED/3 modos】Luz Solar Exterior Luz de Seguridad...'
+tags: 
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

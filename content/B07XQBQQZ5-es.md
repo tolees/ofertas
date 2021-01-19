@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31vwX3gLNwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQBQQZ5-es Montse Interiors  S.L. Cuadrante o Cojín Decoración Rústico 45x45 + Relleno  Portofino Granate '
+slug: 'B07XQBQQZ5-es Montse Interiors S.L. Cuadrante o Cojín Decoración Rústico...'
+tags: 
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

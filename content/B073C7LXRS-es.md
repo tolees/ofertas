@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+Q0v1cCEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073C7LXRS-es Converse Chuck Taylor CTAS Lift Ox Canvas  Zapatillas para Mujer  Negro  Black/White/White 001   36.5 EU'
+slug: 'B073C7LXRS-es Converse Chuck Taylor CTAS Lift Ox Canvas Zapatillas para...'
+tags: 
 actualPrice: 50.01 EUR
 currency: EUR
 price: 50.01

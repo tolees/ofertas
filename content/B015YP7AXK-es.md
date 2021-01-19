@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411OfMeZmuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015YP7AXK-es Beurer MP100  Set Manicura Y Pedicura  Multicolor'
+slug: 'B015YP7AXK-es Beurer MP100 Set Manicura Y Pedicura Multicolor'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51W67ZlDaaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRR9GWA-es Easton Marlowe 6 PR Calcetines Estampados Hombre - 6pk #17  mixed - neutral main colors  39-42 EU shoe size'
+slug: 'B01MRR9GWA-es Easton Marlowe 6 PR Calcetines Estampados Hombre - 6pk #17...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

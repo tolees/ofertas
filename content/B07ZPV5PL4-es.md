@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TE1+vw33L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPV5PL4-es Yageshark - Pantalones de deporte para hombre  de algodón  ajustados marine M'
+slug: 'B07ZPV5PL4-es Yageshark - Pantalones de deporte para hombre de algodón...'
+tags: 
 actualPrice: 26.75 EUR
 currency: EUR
 price: 26.75

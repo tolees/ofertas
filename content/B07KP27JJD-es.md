@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312OdMoHKsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP27JJD-es SALOMON Compression 1 Par de Calcetines compresión  Unisex Adulto  Azul/Negro  Nautical Blue/Black   L  42-44 '
+slug: 'B07KP27JJD-es SALOMON Compression 1 Par de Calcetines compresión Unisex...'
+tags: 
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

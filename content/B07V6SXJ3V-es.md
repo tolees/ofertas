@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sD6g81--L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6SXJ3V-es Kipling Deny Bolsa de Viaje  44 cm  26 Liters  Plateado  Metallic Glow '
+slug: 'B07V6SXJ3V-es Kipling Deny Bolsa de Viaje 44 cm 26 Liters Plateado...'
+tags: 
 actualPrice: 52.01 EUR
 currency: EUR
 price: 52.01

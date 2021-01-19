@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hWMvpBQoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4LLD6V-es G-STAR RAW Lanc 3D Tapered Jeans  Azul  lt Aged Heavy Stone 9438-9399   32W / 32L para Hombre'
+slug: 'B07B4LLD6V-es G-STAR RAW Lanc 3D Tapered Jeans Azul lt Aged Heavy Stone...'
+tags: 
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

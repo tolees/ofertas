@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eeaxulNEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZV29T3-es Almohada de Viaje Viscoelástica de Espuma de Memoria  Almohada de Cuello  Almohadas de Acampada  Almohada Ortopédica Cervica  Soporte de Cuello  con Máscara de Ojos y Tapones  Black '
+slug: 'B07WZV29T3-es Almohada de Viaje Viscoelástica de Espuma de Memoria...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

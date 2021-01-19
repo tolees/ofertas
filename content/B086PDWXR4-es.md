@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k6piPD+gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086PDWXR4-es GoolRC Compatible con Nintend Switch Joy-con Ring Fit Adventure Game Correa de Pierna Elástica Ajustable Sport Band Ring-con Grips Leg  El Producto no Contiene Juegos '
+slug: 'B086PDWXR4-es GoolRC Compatible con Nintend Switch Joy-con Ring Fit...'
+tags: 
 actualPrice: 42.98 EUR
 currency: EUR
 price: 42.98

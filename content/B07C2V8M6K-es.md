@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51veiTaZlZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2V8M6K-es Brica by Munchkin Espejo de coche Baby In-Sight Luciérnagas  4 melodías para entretener y 4 melodías relajantes  sincronizadas con espectáculo de luciérnagas y luces LEDluciérnaga'
+slug: 'B07C2V8M6K-es Brica by Munchkin Espejo de coche Baby In-Sight...'
+tags: 
 actualPrice: 43.19 EUR
 currency: EUR
 price: 43.19

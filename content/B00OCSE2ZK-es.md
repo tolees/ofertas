@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hkBYeUvML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OCSE2ZK-es Columbia Silver Ridge Short AM4283 Shorts  Hombre  Gris  Grill   30'
+slug: 'B00OCSE2ZK-es Columbia Silver Ridge Short AM4283 Shorts Hombre Gris...'
+tags: 
 actualPrice: 14.64 EUR
 currency: EUR
 price: 14.64

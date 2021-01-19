@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U04azotXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RDKSTT-es DELSEY Paris TURENNE Maleta  75 cm  102 Liters  Beige'
+slug: 'B075RDKSTT-es DELSEY Paris TURENNE Maleta 75 cm 102 Liters Beige'
+tags: 
 actualPrice: 130.54 EUR
 currency: EUR
 price: 130.54

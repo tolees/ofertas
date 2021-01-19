@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x5DCdd94L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002WGIY1W-es Superga 2750 COTU Classic  Zapatillas de Gimnasia Unisexo  Gris  Full Grey Sage   43 EU'
+slug: 'B002WGIY1W-es Superga 2750 COTU Classic Zapatillas de Gimnasia Unisexo...'
+tags: 
 actualPrice: 41.06 EUR
 currency: EUR
 price: 41.06

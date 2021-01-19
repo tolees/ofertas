@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kGFfAS7NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YXYQRG-es Adidas Samba OG  Zapatillas de Gimnasia para Hombre  Blanco  Footwear White/Core Black/Clear Granite 0   46 EU'
+slug: 'B079YXYQRG-es Adidas Samba OG Zapatillas de Gimnasia para Hombre Blanco...'
+tags: 
 actualPrice: 63.0 EUR
 currency: EUR
 price: 63.0

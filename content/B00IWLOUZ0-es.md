@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XFNX9GjVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IWLOUZ0-es Bosch TDI903239A Sensixx x DI90 - Plancha de inyección  3200 W  200 g de supervapor  65 g/min  Negro'
+slug: 'B00IWLOUZ0-es Bosch TDI903239A Sensixx x DI90 - Plancha de inyección...'
+tags: 
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

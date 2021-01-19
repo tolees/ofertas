@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511MDSnqexL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BM3UCRA-es LAYEN BS-1 Adaptador de Audio del Receptor Bluetooth Dongle para Bose SoundDock Series 1'
+slug: 'B00BM3UCRA-es LAYEN BS-1 Adaptador de Audio del Receptor Bluetooth...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ljK3nk-rL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW686MG-es Skechers Summits-Lovely Sky  Zapatillas para Mujer  Negro  Black Knit/Pink Trim BKHP   38.5 EU'
+slug: 'B07NW686MG-es Skechers Summits-Lovely Sky Zapatillas para Mujer Negro...'
+tags: 
 actualPrice: 38.4 EUR
 currency: EUR
 price: 38.4

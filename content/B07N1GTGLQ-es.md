@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S67JZNY3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GTGLQ-es Clarks Un Rio Lace  Zapatillas  Gris  Dark Grey Dark Grey   36 EU'
+slug: 'B07N1GTGLQ-es Clarks Un Rio Lace Zapatillas Gris Dark Grey Dark Grey 36 EU'
+tags: 
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L7FQ-WtCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008OI0Z7I-es Atosa-10420 Disfraz Policía  color negro  M-L  10420 '
+slug: 'B008OI0Z7I-es Atosa-10420 Disfraz Policía color negro M-L 10420'
+tags: 
 actualPrice: 14.46 EUR
 currency: EUR
 price: 14.46

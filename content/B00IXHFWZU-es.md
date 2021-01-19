@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IXHFWZU-es Cep 9709 - Armario bajo de 2 puertas'
+tags: 
 actualPrice: 98.33 EUR
 currency: EUR
 price: 98.33

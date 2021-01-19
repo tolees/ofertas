@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IPJpSvhIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD35W7Q-es HOMCOM Chimenea Eléctrica de Pie Movible y Decorativo Calefactor Estufa 750/1500W Llama LED con Termostato 41x25.4x52cm'
+slug: 'B07XD35W7Q-es HOMCOM Chimenea Eléctrica de Pie Movible y Decorativo...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

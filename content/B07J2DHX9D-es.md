@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312INMVn9lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J2DHX9D-es SCSpecial 20 Unids Surtido Conjunto de Herramientas de Pintura Conjunto de Espuma de Pintura Redonda Conjunto de 4 Tamaños Esponja Cepillo para Niños Pintura Artesanía y Bricolaje'
+slug: 'B07J2DHX9D-es SCSpecial 20 Unids Surtido Conjunto de Herramientas de...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

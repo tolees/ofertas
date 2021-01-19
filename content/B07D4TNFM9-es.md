@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41g4Fxm4xLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4TNFM9-es Kappa Follow OC  Zapatillas Unisex adulto Rojo  Red/White 2010  41 EU'
+slug: 'B07D4TNFM9-es Kappa Follow OC Zapatillas Unisex adulto Rojo Red/White...'
+tags: 
 actualPrice: 25.41 EUR
 currency: EUR
 price: 25.41

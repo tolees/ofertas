@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51H4tQ65E+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRHLGPX-es 100 Etiquetas Termoadhesivas Personalizadas con Icono para marcar la ropa.  Blanco '
+slug: 'B07PRHLGPX-es 100 Etiquetas Termoadhesivas Personalizadas con Icono para...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

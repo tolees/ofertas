@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51mhQIWxbeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVQ3FKP-es PJ Masks - Megarover  Bandai 95380 '
+slug: 'B07MVQ3FKP-es PJ Masks - Megarover Bandai 95380'
+tags: 
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jLzySOs-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRH9KCK-es New Balance 373  Zapatillas para Mujer  Gris  Grey Grey   36.5 EU'
+slug: 'B07KRH9KCK-es New Balance 373 Zapatillas para Mujer Gris Grey Grey 36.5 EU'
+tags: 
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

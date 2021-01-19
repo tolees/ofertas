@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bKSdk4efL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ACTOHXY-es Dek Kids - Zapatillas Unisex de tela de cordones para niños/jóvenes  34 EU/Negro '
+slug: 'B01ACTOHXY-es Dek Kids - Zapatillas Unisex de tela de cordones para...'
+tags: 
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

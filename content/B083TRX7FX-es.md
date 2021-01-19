@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ceg-5dP8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TRX7FX-es Crucial Ballistix BL2K8G36C16U4W 3600 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  16GB  8GB x2   CL16  Blanco'
+slug: 'B083TRX7FX-es Crucial Ballistix BL2K8G36C16U4W 3600 MHz DDR4 DRAM...'
+tags: 
 actualPrice: 76.22 EUR
 currency: EUR
 price: 76.22

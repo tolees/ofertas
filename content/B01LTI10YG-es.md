@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oi65ZWqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LTI10YG-es Exclusivo Nescafé Dolce Gusto  Café con Leche  Pack de 3 x 16 Cápsulas - Total: 48 Cápsulas de Café'
+slug: 'B01LTI10YG-es Exclusivo Nescafé Dolce Gusto Café con Leche Pack de 3 x...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413ix7OwDhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073WNBHRS-es Sennheiser Momentum Free - Auriculares inalámbricos  Negro'
+slug: 'B073WNBHRS-es Sennheiser Momentum Free - Auriculares inalámbricos Negro'
+tags: 
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fdl5nBrwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXN5FX8-es Seiko Reloj analogico para Mujer de Cuarzo con Correa en Piel SXDG95P1'
+slug: 'B07FXN5FX8-es Seiko Reloj analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 94.0 EUR
 currency: EUR
 price: 94.0

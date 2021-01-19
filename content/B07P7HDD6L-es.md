@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T8tWVNrOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7HDD6L-es Aigle Alten Leather  Zapatillas para Hombre  Marrón  Brown 001   42 EU'
+slug: 'B07P7HDD6L-es Aigle Alten Leather Zapatillas para Hombre Marrón Brown...'
+tags: 
 actualPrice: 18.91 EUR
 currency: EUR
 price: 18.91

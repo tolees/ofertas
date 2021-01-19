@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414zS4g61WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YTVNVR8-es AJOXEL Afilador de Cuchillos Profesional  4 en 1 Manual Cocina Afilador Cuchillos  Knife Sharpener Afiladores Manuales para Cuchillos de Todo tamaño del hogar  Diseño Antideslizante'
+slug: 'B07YTVNVR8-es AJOXEL Afilador de Cuchillos Profesional 4 en 1 Manual...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

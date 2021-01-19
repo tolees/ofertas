@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ljZRn2+4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4VY5ZR-es SALAKA Peine Plegable de plástico Negro de Doble Cabeza Peine Plegable de Viaje Peine Plegable Plegable DIY Peluquería Belleza Peine Cepillo'
+slug: 'B07Z4VY5ZR-es SALAKA Peine Plegable de plástico Negro de Doble Cabeza...'
+tags: 
 actualPrice: 2.33 EUR
 currency: EUR
 price: 2.33

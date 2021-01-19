@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61fnE57Iu3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MH1RKN6-es CubicFun National Geographic Puzzle 3D España Barcelona Sagrada Familia Kit de Gaudí Rompecabezas 3D Modelo Arquitectónico con Folleto de Regalo para Adults y Niños  184 Piezas'
+slug: 'B07MH1RKN6-es CubicFun National Geographic Puzzle 3D España Barcelona...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

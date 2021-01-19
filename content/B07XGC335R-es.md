@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31n70CQuXkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGC335R-es Cosmopolitan Rainbow Shine Hair Waver Tong - Rizos sueltos en minutos - Pinzas para barril - Cable giratorio de 3 m y guante de protección contra el calor gratis'
+slug: 'B07XGC335R-es Cosmopolitan Rainbow Shine Hair Waver Tong - Rizos sueltos...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

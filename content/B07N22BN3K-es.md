@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312dyyTvBlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N22BN3K-es Sennheiser HD 300 Auriculares Circumaurales  Ligeros y Plegables  Color Negro  Talla Única'
+slug: 'B07N22BN3K-es Sennheiser HD 300 Auriculares Circumaurales Ligeros y...'
+tags: 
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

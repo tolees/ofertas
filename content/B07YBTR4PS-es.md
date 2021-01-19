@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xsQ7YkhdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBTR4PS-es Máscara para pelo  Crecimiento del cabell  Tratamiento para el Cabello Hair Mask  para acelerar el crecimiento del cabello  promueve más cabello ticker  más completo y más rápido crecimiento'
+slug: 'B07YBTR4PS-es Máscara para pelo Crecimiento del cabell Tratamiento para...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

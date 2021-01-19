@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LbEEgFmBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R74T5XC-es JACK & JONES Jfwduston PU Combo Anthracite  Botas Chukka para Hombre  Gris  45 EU'
+slug: 'B07R74T5XC-es JACK & JONES Jfwduston PU Combo Anthracite Botas Chukka...'
+tags: 
 actualPrice: 22.56 EUR
 currency: EUR
 price: 22.56

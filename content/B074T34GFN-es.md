@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cd8o6d1RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074T34GFN-es Seiko Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable SUT323P1'
+slug: 'B074T34GFN-es Seiko Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 140.22 EUR
 currency: EUR
 price: 140.22

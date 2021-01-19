@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eJiLh9kXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FXO8WO4-es BLACK+DECKER GWC3600L20-QW - Soplador  aspirador  triturador 36V  incluye batería litio 2Ah'
+slug: 'B00FXO8WO4-es BLACK+DECKER GWC3600L20-QW - Soplador aspirador triturador...'
+tags: 
 actualPrice: 159.29 EUR
 currency: EUR
 price: 159.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b+-Y6MS2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019ISGUX0-es Intex 28456 - Spa hinchable Jet y Burbujas octogonal 1.098 litros'
+slug: 'B019ISGUX0-es Intex 28456 - Spa hinchable Jet y Burbujas octogonal 1.098...'
+tags: 
 actualPrice: 340.0 EUR
 currency: EUR
 price: 340.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rQNL6sL+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BF9N8TT-es Garnier Delial UV Water Spray Protector Solar Transparente  Alta Protección para Cuerpo y Rostro IP30 - 150 ml'
+slug: 'B07BF9N8TT-es Garnier Delial UV Water Spray Protector Solar Transparente...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

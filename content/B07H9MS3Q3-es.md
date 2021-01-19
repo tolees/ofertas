@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31malq+GaEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9MS3Q3-es perfk 1 pc Protector de Cables de Carga Animal Ardilla Rayada Cargador USB Anti Rotura Duradero'
+slug: 'B07H9MS3Q3-es perfk 1 pc Protector de Cables de Carga Animal Ardilla...'
+tags: 
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

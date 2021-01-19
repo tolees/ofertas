@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KgBdxeBBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYA4MS1-es Bosch Professional GBH 2-28 F - Martillo perforador  3 2 J  máx. hormigón 28 mm  portabrocas SDS plus + cilíndrico  Kick Back Control  en maletín '
+slug: 'B01LYA4MS1-es Bosch Professional GBH 2-28 F - Martillo perforador 3 2 J...'
+tags: 
 actualPrice: 226.82 EUR
 currency: EUR
 price: 226.82

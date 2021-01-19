@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lU-n2QZJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLNDC8W-es Cable USB C Para Xiaomi Pocophone F1 Mi A1 A2 A3 9T Redmi 8 Note 7/8 Pro/8T/9 Pro Max Samsung S20 S20+ S10 S9 A20E A51 A71 A8 A9 2018 Motorola Moto G7 G8 Plus Power Play Tipo C Carga Rápida 2M 2Metros'
+slug: 'B08BLNDC8W-es Cable USB C Para Xiaomi Pocophone F1 Mi A1 A2 A3 9T Redmi...'
+tags: 
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

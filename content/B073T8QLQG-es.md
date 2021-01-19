@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bwLa5YI8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073T8QLQG-es Hugo BOSS Reloj Análogo clásico para Mujer de Cuarzo con Correa en Cuero 1502411'
+slug: 'B073T8QLQG-es Hugo BOSS Reloj Análogo clásico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 173.6 EUR
 currency: EUR
 price: 173.6

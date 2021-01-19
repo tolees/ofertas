@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SUipcg1bL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PC3F8PV-es Set Cuidado Facial | 6 productos | Agua Micelar  Active Serum Hialuronico  Comfort Mask  Expert Cream  Gold Eye Contour  Pearl Peeling | Sin Parabenos | Elaborado en España.'
+slug: 'B07PC3F8PV-es Set Cuidado Facial | 6 productos | Agua Micelar Active...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

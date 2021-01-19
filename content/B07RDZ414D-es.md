@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c5x+7aylL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDZ414D-es Acer Swift 3 - Ordenador portátil de 15.6" FullHD AMD Ryzen 7 2700U  8GB de RAM  256GB SSD  Radeon RX Vega 10 Graphics  Windows 10 Home  Plata - Teclado QWERY Español'
+slug: 'B07RDZ414D-es Acer Swift 3 - Ordenador portátil de 15.6" FullHD AMD...'
+tags: 
 actualPrice: 599.99 EUR
 currency: EUR
 price: 599.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31d-dwFwjuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLLDPLR-es Cybex - Silla de coche grupo 0+/1 Sirona M2 i-size  desde el nacimiento hasta los 4 años  de 45 cm hasta 105 cm aproximadamente  19 kg máximo  con base M  Azul  Indigo Blue '
+slug: 'B07GLLDPLR-es Cybex - Silla de coche grupo 0+/1 Sirona M2 i-size desde...'
+tags: 
 actualPrice: 270.48 EUR
 currency: EUR
 price: 270.48

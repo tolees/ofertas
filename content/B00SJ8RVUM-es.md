@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jbqdmg7kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SJ8RVUM-es Bosch barras de pegamento 2609256D29 7 mm Diámetro  30 barras'
+slug: 'B00SJ8RVUM-es Bosch barras de pegamento 2609256D29 7 mm Diámetro 30 barras'
+tags: 
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

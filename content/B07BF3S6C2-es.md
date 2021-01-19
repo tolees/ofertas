@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q8FgdGayL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BF3S6C2-es RockPet Soporte para Perros con Manija para la Ayuda Canina  Aprobado por los Veterinarios. Arnés para Levantar Perros Durante la Rehabilitación  L Gris '
+slug: 'B07BF3S6C2-es RockPet Soporte para Perros con Manija para la Ayuda...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

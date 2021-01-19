@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411OePTwGGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZFL7M-es Puma Icra Trainer Sd V Inf Zapatillas Unisex Niños  Azul  Peacoat-Gray Violet-Nrgy Yellow-Puma White 28   21 EU'
+slug: 'B07KFZFL7M-es Puma Icra Trainer Sd V Inf Zapatillas Unisex Niños Azul...'
+tags: 
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

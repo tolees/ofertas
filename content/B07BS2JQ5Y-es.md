@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W16-+EeVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BS2JQ5Y-es Levi s LEVIS FOOTWEAR AND ACCESSORIES CALYPSO Cinturón  Negro  R Black 59   90 para Mujer'
+slug: 'B07BS2JQ5Y-es Levi s LEVIS FOOTWEAR AND ACCESSORIES CALYPSO Cinturón...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

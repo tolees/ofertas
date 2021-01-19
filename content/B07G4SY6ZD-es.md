@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UiIZPWDwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4SY6ZD-es Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 1513641'
+slug: 'B07G4SY6ZD-es Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 195.3 EUR
 currency: EUR
 price: 195.3

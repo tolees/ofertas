@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316u702ZJ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002ZHEL2Y-es Zeller 13130 Reposapiés  Madera  Marrón  39x19x21 cm'
+slug: 'B002ZHEL2Y-es Zeller 13130 Reposapiés Madera Marrón 39x19x21 cm'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

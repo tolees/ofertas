@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mH7-mdldL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TMRWS8-es AnamSafdarButt59 Estante de Secado portátil Desmontable multifunción Secadora de biberones Estante de Limpieza Soporte de Soporte para biberones Color sólido'
+slug: 'B088TMRWS8-es AnamSafdarButt59 Estante de Secado portátil Desmontable...'
+tags: 
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DUmL3A2vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NONXHVY-es Tommy Hilfiger New Denton Belt 4.0 Cinturón  Negro  NEGRO 090   85 cm  talla fabricante: 85  para Hombre'
+slug: 'B00NONXHVY-es Tommy Hilfiger New Denton Belt 4.0 Cinturón Negro NEGRO...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

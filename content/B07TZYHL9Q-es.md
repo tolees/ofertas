@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lm7IGhRDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZYHL9Q-es Kipling KiplingDrawpackMujerBolsos totesVerde  Fro Mint Light  39x43x1 Centimeters  B x H x T '
+slug: 'B07TZYHL9Q-es Kipling KiplingDrawpackMujerBolsos totesVerde Fro Mint...'
+tags: 
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

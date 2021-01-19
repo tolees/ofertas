@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VV2SAy07L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDDBX9G-es 30W Bombilla LED Sumergible Iluminación de Piscinas 300 LED  Luz LED Piscina con Control Remoto  Submersible Luz con Mando a Distancia Cambio de Color RGB LED Luz Sumergible'
+slug: 'B07DDDBX9G-es 30W Bombilla LED Sumergible Iluminación de Piscinas 300...'
+tags: 
 actualPrice: 24.09 EUR
 currency: EUR
 price: 24.09

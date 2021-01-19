@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51fHW0T8z6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFQB75B-es DAZAKA Juego de Destornilladores de Precisión Profesional 115 en 1 Kit de destornillador magnético Kit de Herramientas para teléfono móvil'
+slug: 'B07XFQB75B-es DAZAKA Juego de Destornilladores de Precisión Profesional...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

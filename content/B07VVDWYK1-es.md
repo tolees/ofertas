@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TBNpPAZjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVDWYK1-es Skechers Ultra Groove Pure Vision  Zapatillas para Mujer  Blanco Malla Multi Trim Wmlt  40 EU'
+slug: 'B07VVDWYK1-es Skechers Ultra Groove Pure Vision Zapatillas para Mujer...'
+tags: 
 actualPrice: 34.64 EUR
 currency: EUR
 price: 34.64

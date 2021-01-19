@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516mBwwfe0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083LHP4D2-es Almohada de Viaje Cervical Viscolástica Ortopédica - Almohada de Cuello Almohadas de Acampada Soporte de Cuello con Máscara de Ojos 3D y Tapones para los oídos Adecuada para Viajes Oficina  Gris .'
+slug: 'B083LHP4D2-es Almohada de Viaje Cervical Viscolástica Ortopédica -...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

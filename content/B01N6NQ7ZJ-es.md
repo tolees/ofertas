@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31k2HGP+2EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6NQ7ZJ-es Magno - Gel de Ducha Black - Energizante con toque cítrico- 1 unidad de 550ml'
+slug: 'B01N6NQ7ZJ-es Magno - Gel de Ducha Black - Energizante con toque...'
+tags: 
 actualPrice: 1.6 EUR
 currency: EUR
 price: 1.6

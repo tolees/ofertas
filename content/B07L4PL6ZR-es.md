@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n-MVzI12L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4PL6ZR-es Adidas Terrex AX3 Mid GTX  Zapatillas de Deporte para Hombre  Multicolor  Gricin/Negbás/Mesa 000   44 EU'
+slug: 'B07L4PL6ZR-es Adidas Terrex AX3 Mid GTX Zapatillas de Deporte para...'
+tags: 
 actualPrice: 100.76 EUR
 currency: EUR
 price: 100.76

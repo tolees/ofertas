@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NlHAVff8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0100REZ6C-es Superga 2750-cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Rosa  Pink Begonia V28   35.5 EU'
+slug: 'B0100REZ6C-es Superga 2750-cotu Classic Zapatillas de Gimnasia Unisex...'
+tags: 
 actualPrice: 22.56 EUR
 currency: EUR
 price: 22.56

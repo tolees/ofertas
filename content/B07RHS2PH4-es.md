@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412s5GScpGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHS2PH4-es New Balance 997h  Zapatillas para Hombre  Azul  Navy Hay   45 EU'
+slug: 'B07RHS2PH4-es New Balance 997h Zapatillas para Hombre Azul Navy Hay 45 EU'
+tags: 
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

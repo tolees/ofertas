@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WmjL-Tt1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BFB8Y8W-es LoveOlvidoF Carga portátil Carga USB Cable de alimentación Cable 110 cm Cargador Negro para Nintend 3DS para DSi para NDSI XL - Negro'
+slug: 'B08BFB8Y8W-es LoveOlvidoF Carga portátil Carga USB Cable de alimentación...'
+tags: 
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15

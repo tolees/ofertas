@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wC8+JBZQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFBRF8T-es Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK6642'
+slug: 'B07MFBRF8T-es Michael Kors Reloj Analógico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 165.03 EUR
 currency: EUR
 price: 165.03

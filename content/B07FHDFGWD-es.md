@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RsPa+qpKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHDFGWD-es PUMA Puma Vikky v2 Ribbon P Zapatillas Mujer  Negro  Puma Black-Puma Silver 1   37 EU'
+slug: 'B07FHDFGWD-es PUMA Puma Vikky v2 Ribbon P Zapatillas Mujer Negro Puma...'
+tags: 
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

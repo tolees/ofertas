@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ruwslpv0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078KWXRYP-es adidas Originals X_PLR  Zapatillas para Hombre  Negro  Core Black/Core Black/Gum 3 001   44 2/3 EU'
+slug: 'B078KWXRYP-es adidas Originals X_PLR Zapatillas para Hombre Negro Core...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

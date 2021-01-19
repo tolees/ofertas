@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qR3R%2BRPQL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDMJHXG-es JACK & JONES PREMIUM Jprpaulos Play Stripe Blu. Ss Polo  Polo Hombre  Multicolor  Light Grey Melange Fit: Slim Fit   Large'
+slug: 'B07PDMJHXG-es JACK & JONES PREMIUM Jprpaulos Play Stripe Blu. Ss Polo...'
+tags: 
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

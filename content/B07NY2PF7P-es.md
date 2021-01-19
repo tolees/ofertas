@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY2PF7P-es Volumax Velvet Golden Nude - 7.5 ml'
+tags: 
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

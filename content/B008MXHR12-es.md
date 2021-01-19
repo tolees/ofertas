@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Tngswi+hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008MXHR12-es Premier Housewares - Cubo para compost  color púrpura'
+slug: 'B008MXHR12-es Premier Housewares - Cubo para compost color púrpura'
+tags: 
 actualPrice: 22.21 EUR
 currency: EUR
 price: 22.21

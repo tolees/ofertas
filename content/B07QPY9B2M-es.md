@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51vI-5pm%2BhL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPY9B2M-es 200 palos luminosos  equipo para festivales  luces festivas con bastoncitos luminosos incl.200 conector 2D  5 conectores circulares  mezcla de 6 colores  427piezas '
+slug: 'B07QPY9B2M-es 200 palos luminosos equipo para festivales luces festivas...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

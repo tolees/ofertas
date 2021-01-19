@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412vH4vbDBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9NCW7S-es LParkin - Llavero para Parejas con Texto en inglés I Love You I Know Keychain Girlfriend Boyfriend Husband Wife'
+slug: 'B07M9NCW7S-es LParkin - Llavero para Parejas con Texto en inglés I Love...'
+tags: 
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

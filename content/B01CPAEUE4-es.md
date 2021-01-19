@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JSFtgV+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CPAEUE4-es Juan Lopez  Dulce de caramelo - 150 unidades'
+slug: 'B01CPAEUE4-es Juan Lopez Dulce de caramelo - 150 unidades'
+tags: 
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

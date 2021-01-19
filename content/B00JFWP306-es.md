@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vmXYYPdDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JFWP306-es Brabantia 298240 Bote de Cristal 1.9 L  Gris/Transparente  1 9 l'
+slug: 'B00JFWP306-es Brabantia 298240 Bote de Cristal 1.9 L Gris/Transparente 1...'
+tags: 
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

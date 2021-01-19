@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3183dkyoOSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q34ZZDR-es Libertroy Gel de Sílice Galactorrhea Colección de Cobertura Colector de Leche Materna Masaje de Pecho Postparto Suave Pezón Cojín de Succión Cojín'
+slug: 'B07Q34ZZDR-es Libertroy Gel de Sílice Galactorrhea Colección de...'
+tags: 
 actualPrice: 1.52 EUR
 currency: EUR
 price: 1.52

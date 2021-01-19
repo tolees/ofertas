@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ak8ximGdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CDWNRVC-es Roger & Gallet 65882 - Gel de ducha  200 ml'
+slug: 'B00CDWNRVC-es Roger & Gallet 65882 - Gel de ducha 200 ml'
+tags: 
 actualPrice: 4.47 EUR
 currency: EUR
 price: 4.47

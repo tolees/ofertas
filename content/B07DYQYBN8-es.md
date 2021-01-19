@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515GhXmBWHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYQYBN8-es Txyk Cabañas de Madera de Bricolaje Casa de muñecas en Miniatura con Muebles Hechos a Mano Dormitorio de Princesa con LED para niños y Adolescentes 15.1 x 11.6 x 13.1cm'
+slug: 'B07DYQYBN8-es Txyk Cabañas de Madera de Bricolaje Casa de muñecas en...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

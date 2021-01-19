@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51djsbphjXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFD9YRD-es SWIM ELITE Gorro Piscina - Gorro Natación Mujer y Hombre - Gorro Natación Pelo Largo y Dreadlocks  Turq  XL '
+slug: 'B07LFD9YRD-es SWIM ELITE Gorro Piscina - Gorro Natación Mujer y Hombre -...'
+tags: 
 actualPrice: 13.85 EUR
 currency: EUR
 price: 13.85

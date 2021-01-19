@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21-t0eOMH2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA1IOXG-es BabyVip - Body para niño y niña  Estilo Abotonado  100% algodón  Hilo escocés - Blanco - 18-24 Meses'
+slug: 'B00XA1IOXG-es BabyVip - Body para niño y niña Estilo Abotonado 100%...'
+tags: 
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

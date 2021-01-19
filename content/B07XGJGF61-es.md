@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CwQkUeTjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGJGF61-es Bolsa Isotermica Porta Alimentos  Luxuvee Bolsa Termica Porta Alimentos con Correa Ajustable para Adultos  Grande Bolsa Portaalimentos Termica para Picnic Acampar Pesca Trabajo de viaje  Azul'
+slug: 'B07XGJGF61-es Bolsa Isotermica Porta Alimentos Luxuvee Bolsa Termica...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

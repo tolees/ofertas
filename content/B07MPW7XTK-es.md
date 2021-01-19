@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ldvxtNHoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MPW7XTK-es HP OMEN Gaming 875-0013ns - Ordenador de sobremesa  Intel Core i7-8700  16GB RAM  2TB HDD + 256GB SSD  NVIDIA GTX 1060-6GB  Windows 10   Color Negro'
+slug: 'B07MPW7XTK-es HP OMEN Gaming 875-0013ns - Ordenador de sobremesa Intel...'
+tags: 
 actualPrice: 1049.99 EUR
 currency: EUR
 price: 1049.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411NOCL06sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTPCZ79-es Kipling KiplingDrawpackMujerBolsos totesMulticolor  Camo Map  39x43x1 Centimeters  B x H x T '
+slug: 'B07TTPCZ79-es Kipling KiplingDrawpackMujerBolsos totesMulticolor Camo...'
+tags: 
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

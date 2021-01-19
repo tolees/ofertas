@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413kV3syNyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0874HRF2Z-es AYIYO - Pantalones cortos unisex para recién nacidos con volantes  diseño floral Rojo rosso 90 cm 12-24 meses '
+slug: 'B0874HRF2Z-es AYIYO - Pantalones cortos unisex para recién nacidos con...'
+tags: 
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

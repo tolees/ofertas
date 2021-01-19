@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RS5cJ63FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZZ3HB7S-es Helly Hansen HH Scout Duffel M Bolsa De Deporte  Unisex Adulto  Ebony  50L'
+slug: 'B07ZZ3HB7S-es Helly Hansen HH Scout Duffel M Bolsa De Deporte Unisex...'
+tags: 
 actualPrice: 50.3 EUR
 currency: EUR
 price: 50.3

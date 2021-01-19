@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iPxBHg9rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MM2K5L-es Thermaltake Riing Plus 20 RGB TT Premium Edition - Ventilador de Caja RGB de Alto Rendimiento con Software  Color Negro'
+slug: 'B079MM2K5L-es Thermaltake Riing Plus 20 RGB TT Premium Edition -...'
+tags: 
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

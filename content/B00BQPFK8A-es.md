@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31wWv2E7AdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BQPFK8A-es Rimmel London Lasting Finish by Kate Barra De Labios Tono 5 - 4 gr'
+slug: 'B00BQPFK8A-es Rimmel London Lasting Finish by Kate Barra De Labios Tono...'
+tags: 
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

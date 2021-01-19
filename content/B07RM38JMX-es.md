@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c8m1wIDrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM38JMX-es Under Armour Undeniable 4.0 Duffle SM Deportes  Bolsa De Entrenamiento  Unisex  Rosa  One Size'
+slug: 'B07RM38JMX-es Under Armour Undeniable 4.0 Duffle SM Deportes Bolsa De...'
+tags: 
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

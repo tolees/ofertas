@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KYfGwcF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OHVWPWO-es HP Omen X9000 - Ratón con Cable Gaming 8200 PPP  Negro y Rojo'
+slug: 'B00OHVWPWO-es HP Omen X9000 - Ratón con Cable Gaming 8200 PPP Negro y Rojo'
+tags: 
 actualPrice: 36.91 EUR
 currency: EUR
 price: 36.91

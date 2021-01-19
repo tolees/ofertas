@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JGJAaPNLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3X42ZB-es New Balance 997H m  Zapatillas para Mujer  Gris  Grey Hag   35 EU'
+slug: 'B07S3X42ZB-es New Balance 997H m Zapatillas para Mujer Gris Grey Hag 35 EU'
+tags: 
 actualPrice: 31.56 EUR
 currency: EUR
 price: 31.56

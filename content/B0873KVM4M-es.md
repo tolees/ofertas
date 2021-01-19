@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412IZLL3zUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0873KVM4M-es Acer Aspire 5 - Ordenador portátil de 14" FullHD  Intel Core i5 - 10210U  8GB RAM  256GB SSD  UMA  Windows 10 Home  Plata  QWERTY Español'
+slug: 'B0873KVM4M-es Acer Aspire 5 - Ordenador portátil de 14" FullHD Intel...'
+tags: 
 actualPrice: 559.99 EUR
 currency: EUR
 price: 559.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412w++Uv5hL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZGDDHB-es YWLINK Mezcla de algodón sin mangas del verano cómodo botón de color sólido para Y - Dark Blue 0- 3 meses / 60 cm'
+slug: 'B07SZGDDHB-es YWLINK Mezcla de algodón sin mangas del verano cómodo...'
+tags: 
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+NAwbbNPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2RXYZL-es ammoon Inalámbrico Guitarra Receptor Transmisor de Guitarra Sistema de Guitarra Cable Inalámbrico  2.4G '
+slug: 'B07L2RXYZL-es ammoon Inalámbrico Guitarra Receptor Transmisor de...'
+tags: 
 actualPrice: 37.89 EUR
 currency: EUR
 price: 37.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51emZXTdoFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CM6N54H-es Dermacol DC Base Makeup Cover Total | Maquillaje Corrector Waterproof SPF 30 | Cubre Tatuajes  Cicatrices  Acné  Imperfecciones  Manchas en la Piel de la Cara y Cuerpo | Liquido - Mate Natural - 30g'
+slug: 'B07CM6N54H-es Dermacol DC Base Makeup Cover Total | Maquillaje Corrector...'
+tags: 
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

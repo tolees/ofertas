@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513qkB4pCdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJ4F7CR-es TACKLIFE Cinturón para Herramientas  Profesionales  Tela Impermeable  Tejido de Tres Capas  Costura de Cifrado  Con Tira Fluorescente  Acomodar los Martillos  Alicates  Cuchillos  Llaves  etc - PTB01'
+slug: 'B07JJ4F7CR-es TACKLIFE Cinturón para Herramientas Profesionales Tela...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

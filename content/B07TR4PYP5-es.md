@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NUZe-4ohL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TR4PYP5-es Cocoty-store Pantalones 2019 Hombre Pantalones Jogger Deportivo Entrenamiento Fitness Motivo Rojo L '
+slug: 'B07TR4PYP5-es Cocoty-store Pantalones 2019 Hombre Pantalones Jogger...'
+tags: 
 actualPrice: 3.41 EUR
 currency: EUR
 price: 3.41

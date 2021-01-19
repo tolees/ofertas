@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZM2mQgPiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RMBC65C-es Juvena  Aceite corporal - 100 ml.'
+slug: 'B00RMBC65C-es Juvena Aceite corporal - 100 ml.'
+tags: 
 actualPrice: 17.74 EUR
 currency: EUR
 price: 17.74

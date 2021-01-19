@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oZZc-1SEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XFBKLJ-es Doble verde esmeralda rodillo elíptico masajeador ojo cuello cuidado de la salud cara delgada herramientas de belleza OPP embalaje/verde'
+slug: 'B082XFBKLJ-es Doble verde esmeralda rodillo elíptico masajeador ojo...'
+tags: 
 actualPrice: 4.31 EUR
 currency: EUR
 price: 4.31

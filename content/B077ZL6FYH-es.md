@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416MVQz7tfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZL6FYH-es Kärcher Aspirador Multiuso Wd 3 Baterías Premium  67 W  17 litros  Sin batería y con control de encendido  Metal  Negro  Amarillo  Model nuevo'
+slug: 'B077ZL6FYH-es Kärcher Aspirador Multiuso Wd 3 Baterías Premium 67 W 17...'
+tags: 
 actualPrice: 58.7 EUR
 currency: EUR
 price: 58.7

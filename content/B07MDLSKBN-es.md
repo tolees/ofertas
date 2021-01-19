@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nxbOdoRxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDLSKBN-es LIGHTAILING Conjunto de Luces  Ghostbusters Ecto-1  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21108  NO Incluido en el Modelo '
+slug: 'B07MDLSKBN-es LIGHTAILING Conjunto de Luces Ghostbusters Ecto-1 Modelo...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

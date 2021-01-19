@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U+2vGaM-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYQNP1X-es Gazechimp Interruptor de Encendido Tercer Engranaje Pin de Tres Pies Posición de Conmutador Torcer Negro/Rojo - Rojo'
+slug: 'B06ZYQNP1X-es Gazechimp Interruptor de Encendido Tercer Engranaje Pin de...'
+tags: 
 actualPrice: 2.05 EUR
 currency: EUR
 price: 2.05

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SwVD082kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086KDMT6P-es Bullpadel Hack Knit 2019 Gris Num 41  Zapatillas Deportivas Adultos Unisex  Multicolor'
+slug: 'B086KDMT6P-es Bullpadel Hack Knit 2019 Gris Num 41 Zapatillas Deportivas...'
+tags: 
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414drfhU0rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EZPSBJ8-es Merc Of London Card  Polo Shirt - Polo para hombre  Negro  Medium'
+slug: 'B00EZPSBJ8-es Merc Of London Card Polo Shirt - Polo para hombre Negro...'
+tags: 
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

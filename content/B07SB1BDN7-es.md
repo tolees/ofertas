@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61xJIdVtDFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB1BDN7-es GREAT ART Foto Mural Infantil Animales de la Selva Decoracion Jungla Poster para Ninos 210 x 140 cm - Papel Pintado 5 Piezas incluye Pasta para pegar'
+slug: 'B07SB1BDN7-es GREAT ART Foto Mural Infantil Animales de la Selva...'
+tags: 
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

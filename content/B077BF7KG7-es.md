@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qd2jWALYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077BF7KG7-es Kodak Mini Shot - Impresiones Inalámbricas de 5 X 7.6 cm con 4 Pass  Tecnología de Impresión Patentada  Cámara Digital de Impresión Instantánea 2 en 1  Negro  Basic'
+slug: 'B077BF7KG7-es Kodak Mini Shot - Impresiones Inalámbricas de 5 X 7.6 cm...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

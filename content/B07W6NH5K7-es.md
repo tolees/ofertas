@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sPiqPQGVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6NH5K7-es Tommy Hilfiger Hilfiger Slim Polo  Azul  Blue Ink   Small  Talla del Fabricante:  para Hombre'
+slug: 'B07W6NH5K7-es Tommy Hilfiger Hilfiger Slim Polo Azul Blue Ink Small...'
+tags: 
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

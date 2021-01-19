@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31r2pFvW0nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDLHB53-es Wet n Wild  Máscara - 30 gr.'
+slug: 'B07QDLHB53-es Wet n Wild Máscara - 30 gr.'
+tags: 
 actualPrice: 2.34 EUR
 currency: EUR
 price: 2.34

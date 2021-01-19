@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Bt1+gWZ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1MNB2D-es Twozies - Pack Siempre Uni-Dos con 6 Babies y 6 Mascotas  Giochi Preziosi TW001000 '
+slug: 'B01N1MNB2D-es Twozies - Pack Siempre Uni-Dos con 6 Babies y 6 Mascotas...'
+tags: 
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

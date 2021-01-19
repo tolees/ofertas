@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d89CNUniL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HD1PBXB-es Termometro Infrarrojos ℃ y ℉ Conmutable Termometro Sin Contacto medico termometro para Niños  Adultos Termometro Infrarrojos Sin Contacto'
+slug: 'B08HD1PBXB-es Termometro Infrarrojos ℃ y ℉ Conmutable Termometro Sin...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

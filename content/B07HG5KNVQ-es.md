@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG5KNVQ-es New Balance 997h  Zapatillas para Mujer  Blanco  Off White Off White   36 EU'
+slug: 'B07HG5KNVQ-es New Balance 997h Zapatillas para Mujer Blanco Off White...'
+tags: 
 actualPrice: 54 EUR
 currency: EUR
 price: 54

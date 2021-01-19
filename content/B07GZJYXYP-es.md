@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Jjh5tLVnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZJYXYP-es Camfosy - Botas de Cuero para mujer  color Azul  talla 40 EU'
+slug: 'B07GZJYXYP-es Camfosy - Botas de Cuero para mujer color Azul talla 40 EU'
+tags: 
 actualPrice: 74.94 EUR
 currency: EUR
 price: 74.94

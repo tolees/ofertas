@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k2X1zKurL._SL500_._AC_._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IVJL0PK-es Pack Quitamanchas Sinmanchas 750Ml + Sinmanchas Coloreadas 750Ml'
+slug: 'B01IVJL0PK-es Pack Quitamanchas Sinmanchas 750Ml + Sinmanchas Coloreadas...'
+tags: 
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

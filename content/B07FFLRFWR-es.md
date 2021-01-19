@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SsaAti32L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFLRFWR-es Saucony Xodus ISO 3  Zapatillas de Trail Running para Hombre   Gris Y Negro 3   40 EU'
+slug: 'B07FFLRFWR-es Saucony Xodus ISO 3 Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

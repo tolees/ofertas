@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b-6qYC-vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792YCSDD-es Beautifive Espejo de Maquillaje  Espejo de Mano con Doble Cara de Aumento 1X/7X  Espejo de Vanidad con Soporte  Espejos Compactos para Viajar  Color Ámbar'
+slug: 'B0792YCSDD-es Beautifive Espejo de Maquillaje Espejo de Mano con Doble...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

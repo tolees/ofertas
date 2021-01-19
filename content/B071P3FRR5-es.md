@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415i0kwynFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071P3FRR5-es Mando a Distancia para Philips UHD LED TV 43PUH4900/88 43PUK4900/12 43PUT4900/12 49PUH4900/88 49PUK4900/12 49PUT4900/12 55PUH4900/88'
+slug: 'B071P3FRR5-es Mando a Distancia para Philips UHD LED TV 43PUH4900/88...'
+tags: 
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

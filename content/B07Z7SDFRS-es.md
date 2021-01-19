@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516OnlVF4PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7SDFRS-es 6ml 12 colores Acrílico profesional Pinturas pintadas a mano Pintura de pared Color brillante Pintura textil Suministros de arte Pincel gratis - Multicolor'
+slug: 'B07Z7SDFRS-es 6ml 12 colores Acrílico profesional Pinturas pintadas a...'
+tags: 
 actualPrice: 4.53 EUR
 currency: EUR
 price: 4.53

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UhKIu+BuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGD5TPG-es New Balance Trail Nitrel  Zapatillas de Running para Asfalto para Hombre  Azul  Blue/Black Blue/Black   44 EU'
+slug: 'B07HGD5TPG-es New Balance Trail Nitrel Zapatillas de Running para...'
+tags: 
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

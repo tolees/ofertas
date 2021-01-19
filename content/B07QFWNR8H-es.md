@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jkEjc7lyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFWNR8H-es Simpeak Funda Compatible con Kindle 2019 [5 años de garantía]  Funda Compatible con 10th generacion Kindle 2019 con el Soporte Carcasa Compatible con Nuevo Kindle - Negro'
+slug: 'B07QFWNR8H-es Simpeak Funda Compatible con Kindle 2019 [5 años de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

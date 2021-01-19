@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PIeQbttJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXWRLS4-es Kipling Creativity S  Cartera para Mujer  Negro  Charcoal   14.5x9.5x5 cm'
+slug: 'B07TXWRLS4-es Kipling Creativity S Cartera para Mujer Negro Charcoal...'
+tags: 
 actualPrice: 10.35 EUR
 currency: EUR
 price: 10.35

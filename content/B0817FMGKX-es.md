@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B6pvVNwfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817FMGKX-es Columbia Fast Trek Light Forro Polar con Cremallera  Mujer  Naranja  Bright Poppy   M'
+slug: 'B0817FMGKX-es Columbia Fast Trek Light Forro Polar con Cremallera Mujer...'
+tags: 
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

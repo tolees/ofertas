@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/216E+wpPdWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087D7NSJB-es Juego de Mueble de Baño Modelo ESPACE  Conjunto formado por Mueble de Baño Dos Puertas Lacado en Blanco  Medidas  60x45x80   Lavabo Encimera y Espejo. Compacto no precisa montaje'
+slug: 'B087D7NSJB-es Juego de Mueble de Baño Modelo ESPACE Conjunto formado por...'
+tags: 
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

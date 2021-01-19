@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rcinntFvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9HXCGP-es Under Armour Rival Parte Superior del Calentamiento  Mujer  Rosa  MD'
+slug: 'B07L9HXCGP-es Under Armour Rival Parte Superior del Calentamiento Mujer...'
+tags: 
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

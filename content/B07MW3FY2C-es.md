@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUuMu23tL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MW3FY2C-es Adidas YATRA  Zapatillas de Deporte para Mujer  Multicolor  Multicolor 000   36 EU'
+slug: 'B07MW3FY2C-es Adidas YATRA Zapatillas de Deporte para Mujer Multicolor...'
+tags: 
 actualPrice: 27.48 EUR
 currency: EUR
 price: 27.48

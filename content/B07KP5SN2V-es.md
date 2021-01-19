@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417lZnf4aIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP5SN2V-es Lámpara Secador de Uñas  NAVANINO LED/UV Gel Esmalte de Uñas Curado Luz Máquina  4 Modos con Sensor Automático y Pantalla LCD Para Manicura/Pedicure Nail Art en el Hogar y el Salón  54W'
+slug: 'B07KP5SN2V-es Lámpara Secador de Uñas NAVANINO LED/UV Gel Esmalte de...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

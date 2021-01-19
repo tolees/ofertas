@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zjq8UgKIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZXP237-es Fresadora  2 Pinzas 1/4"  1/8"  Compatible Fresa de 6mm  6 Velocidad 10000~30000RPM  1M Cable Flexible para Varios Accesorios de 1/8"  Tacklife 600W Fresadora de Madera  6 Niveles de Fresar  PTR01A'
+slug: 'B07CZXP237-es Fresadora 2 Pinzas 1/4" 1/8" Compatible Fresa de 6mm 6...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VKGPDdZYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRHNSFZ-es New Balance Msx90tv1  Zapatillas para Hombre  Azul  Navy Navy   38.5 EU'
+slug: 'B07KRHNSFZ-es New Balance Msx90tv1 Zapatillas para Hombre Azul Navy Navy...'
+tags: 
 actualPrice: 31.05 EUR
 currency: EUR
 price: 31.05

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51-Yaf%2BymHL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NYD2SFM-es AVIWIS Cable Magnético Tipo C  [2Pack 1M] Cargador Tipo C Magnético Carga y Sincronización Datos Cargador iman para Samsung S10/S9/S8/Note9 Huawei P20/Mate20 Xiaomi Mi 9/A2  LG G7 OnePlus 6T'
+slug: 'B07NYD2SFM-es AVIWIS Cable Magnético Tipo C [2Pack 1M] Cargador Tipo C...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

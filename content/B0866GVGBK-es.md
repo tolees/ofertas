@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416LUimzqNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0866GVGBK-es GHONLZIN Ventilador Sin Cuchilla USB Portátil  2020 Nuevo Mini Cuello Ventilador de Rechargeable  3 Velocidades y Cabeza Ajustable para Oficina  Deportes al Aire Libre  Rosado '
+slug: 'B0866GVGBK-es GHONLZIN Ventilador Sin Cuchilla USB Portátil 2020 Nuevo...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

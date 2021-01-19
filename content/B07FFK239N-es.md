@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aEClDH+eL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFK239N-es Amazon Essentials Studio Relaxed-Fit Crewneck T-Shirt fashion-t-shirts  Blanco  Medium'
+slug: 'B07FFK239N-es Amazon Essentials Studio Relaxed-Fit Crewneck T-Shirt...'
+tags: 
 actualPrice: 8.76 EUR
 currency: EUR
 price: 8.76

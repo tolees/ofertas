@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41edoOYrAwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8B6VQZ-es Pala de Pádel Piton Attack | Black Crown | Nivel: Avanzado  Competición  Profesional | Potencia 90%  Control 90%'
+slug: 'B07P8B6VQZ-es Pala de Pádel Piton Attack | Black Crown | Nivel: Avanzado...'
+tags: 
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

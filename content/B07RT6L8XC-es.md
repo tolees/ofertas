@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uz5YKi3FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT6L8XC-es Diesel ShoesZippy Hiresh SHombreCarterasAzul  Blue Nights  2x9.5x11.5 centimeters  W x H x L '
+slug: 'B07RT6L8XC-es Diesel ShoesZippy Hiresh SHombreCarterasAzul Blue Nights...'
+tags: 
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

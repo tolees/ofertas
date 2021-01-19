@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I7Ir7y2LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071NSM3C4-es Jack & Jones Jjicody Jjspencer WW Noos Pantalones  Azul  Navy Blazer   W31/L32  Talla del Fabricante: 31  para Hombre'
+slug: 'B071NSM3C4-es Jack & Jones Jjicody Jjspencer WW Noos Pantalones Azul...'
+tags: 
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

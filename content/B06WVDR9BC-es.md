@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61aDpYewKrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVDR9BC-es HEY JOE - Genuine Hair Pomade MATT 100 ml | Pomada para el cabello MATE FIJACIÓN MEDIA 100 ml'
+slug: 'B06WVDR9BC-es HEY JOE - Genuine Hair Pomade MATT 100 ml | Pomada para el...'
+tags: 
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

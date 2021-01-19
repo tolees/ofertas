@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61OmtJalFnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EIPTLDE-es Dragon Ball Z. Tv Special 1:Batalla Final Solitaria + Tv Special 2: ¡Resistencia Hasta La Desesperación! [Blu-ray]'
+slug: 'B01EIPTLDE-es Dragon Ball Z. Tv Special 1:Batalla Final Solitaria + Tv...'
+tags: 
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

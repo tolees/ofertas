@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k1e8w-imL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2NPB24-es Adidas Terrex Free Hiker  Zapatillas de Deporte para Hombre  Multicolor  Negbás/Grisei/Naract 000   47 1/3 EU'
+slug: 'B07P2NPB24-es Adidas Terrex Free Hiker Zapatillas de Deporte para Hombre...'
+tags: 
 actualPrice: 118.96 EUR
 currency: EUR
 price: 118.96

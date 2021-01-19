@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Z3tmRJFCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTMKPPM-es Bqeel Mini PC 【4GB+64GB】 Procesador Intel® Cherry Trail Z8350 soporta Windows 10 Home Dual WiFi 5G/2.4G Gráfico Intel HD 4K BT 4.0 Gigabit Ethernet Salida/USB/SD/VGA Ordenador de Sobremesa'
+slug: 'B07VTMKPPM-es Bqeel Mini PC 【4GB+64GB】 Procesador Intel® Cherry Trail...'
+tags: 
 actualPrice: 138.0 EUR
 currency: EUR
 price: 138.0

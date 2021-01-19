@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jjNqMuKGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00004SUJT-es HP 23 - Cartucho de impresión - 1 x Amarillo  Cian  Magenta - 649 páginas'
+slug: 'B00004SUJT-es HP 23 - Cartucho de impresión - 1 x Amarillo Cian Magenta...'
+tags: 
 actualPrice: 47.25 EUR
 currency: EUR
 price: 47.25

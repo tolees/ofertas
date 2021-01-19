@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AEUl4FeaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079D4MN6L-es Globe Tilt  Zapatillas de Deporte para Hombre  Multicolor  Ebony/Grey/Winter 000   40 EU'
+slug: 'B079D4MN6L-es Globe Tilt Zapatillas de Deporte para Hombre Multicolor...'
+tags: 
 actualPrice: 44.58 EUR
 currency: EUR
 price: 44.58

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31HIZ%2B1AHiL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRW2VJK-es PowerLocus Auriculares Bluetooth Inalámbricos  35h Autonomía  Auriculares Bluetooth con Micrófonos TWS Mini Twins Estéreo Auriculares Bluetooth 5.0 Impermeable Auriculares Deportivos In-Ear'
+slug: 'B07TRW2VJK-es PowerLocus Auriculares Bluetooth Inalámbricos 35h...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uy8MJJsLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWY7CVR-es New Balance WL574EB  Zapatillas Mujer  Negro  Black   41 EU'
+slug: 'B06XWY7CVR-es New Balance WL574EB Zapatillas Mujer Negro Black 41 EU'
+tags: 
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

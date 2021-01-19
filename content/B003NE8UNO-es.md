@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21AE+lKYbnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003NE8UNO-es HELLA 6PT 009 107-141 Sensor  temperatura del refrigerante  Número de conexiones 4  con junta  con circlip'
+slug: 'B003NE8UNO-es HELLA 6PT 009 107-141 Sensor temperatura del refrigerante...'
+tags: 
 actualPrice: 11.66 EUR
 currency: EUR
 price: 11.66

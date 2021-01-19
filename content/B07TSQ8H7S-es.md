@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41abQjvIBgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ8H7S-es Skechers Ultra Groove  Zapatillas para Hombre  Azul  Navy Flat Knit/Trim Nvy   43 EU'
+slug: 'B07TSQ8H7S-es Skechers Ultra Groove Zapatillas para Hombre Azul Navy...'
+tags: 
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

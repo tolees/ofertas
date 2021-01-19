@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Od19b+sBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TB8TQ3-es Oihxse Case Transparente Suave TPU Compatible con Huawei Mate 20 Funda [Lindo Caricatura Flor Serie Dibujos] Cristal Protector Carcasa Anti Rasguños Bumper Cover-Florales'
+slug: 'B083TB8TQ3-es Oihxse Case Transparente Suave TPU Compatible con Huawei...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

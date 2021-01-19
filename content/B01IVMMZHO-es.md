@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z6fdpEDLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IVMMZHO-es Skechers Synergy-Case Closed  Zapatillas de Entrenamiento para Mujer  Rosa  Pink   36 EU'
+slug: 'B01IVMMZHO-es Skechers Synergy-Case Closed Zapatillas de Entrenamiento...'
+tags: 
 actualPrice: 42.28 EUR
 currency: EUR
 price: 42.28

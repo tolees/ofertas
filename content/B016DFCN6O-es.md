@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TS+acNmRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016DFCN6O-es URAQT Cartera Delgada De Cuero  Delgado Minimalista Carteras Del Bolsillo Del Frente Para Los Hombres Tarjeta De Crédito Caso  Bloqueo Del RFID  Negro '
+slug: 'B016DFCN6O-es URAQT Cartera Delgada De Cuero Delgado Minimalista...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

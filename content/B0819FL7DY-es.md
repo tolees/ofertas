@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NoOWY9GPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0819FL7DY-es PUTORSEN® Soporte de impresora debajo del escritorio con ruedas  carro de impresora con ruedas  carro de máquina de oficina apilado de altura ajustable con tableta y soporte para teléfono  hasta 20 kg'
+slug: 'B0819FL7DY-es PUTORSEN® Soporte de impresora debajo del escritorio con...'
+tags: 
 actualPrice: 34.87 EUR
 currency: EUR
 price: 34.87

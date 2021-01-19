@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aB07CbvSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BVH1Y00-es Physionics Mini trampolín en Varias tamaños - Peso máximo: 100 kg - Fitness Trampoline  Trampolín Elástico para jardín y Uso doméstico  Cama Elástica'
+slug: 'B01BVH1Y00-es Physionics Mini trampolín en Varias tamaños - Peso máximo:...'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

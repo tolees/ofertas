@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hpFR4TaCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHCGXCK-es Columbia Nikiski 503  Botas Bajas para Mujer  Negro  Black  Graphite   36 EU'
+slug: 'B07JHCGXCK-es Columbia Nikiski 503 Botas Bajas para Mujer Negro Black...'
+tags: 
 actualPrice: 30.73 EUR
 currency: EUR
 price: 30.73

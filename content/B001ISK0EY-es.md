@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t2NtLXm+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001ISK0EY-es Canon LC-E6E - Cargador para batería Canon LP-E6  Negro'
+slug: 'B001ISK0EY-es Canon LC-E6E - Cargador para batería Canon LP-E6 Negro'
+tags: 
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

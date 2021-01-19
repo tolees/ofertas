@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DoOc-pSrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDLQNND-es Salomon RX Moc 4.0 W  Calzado de recuperación para Mujer  Azul  Meadowbrook/Icy Morn/White   38 EU'
+slug: 'B07RDLQNND-es Salomon RX Moc 4.0 W Calzado de recuperación para Mujer...'
+tags: 
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

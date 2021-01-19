@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51OSRG-TXzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0828D4MSN-es Searchyou True Blue Mini Ultradrive Pack con 813 Juegos para Genesis / MegaDrive Mini'
+slug: 'B0828D4MSN-es Searchyou True Blue Mini Ultradrive Pack con 813 Juegos...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

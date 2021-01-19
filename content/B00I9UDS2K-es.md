@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bwKr+232L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I9UDS2K-es Icicles Hand Blown Glass Massager  No. 62-1 Unidad'
+slug: 'B00I9UDS2K-es Icicles Hand Blown Glass Massager No. 62-1 Unidad'
+tags: 
 actualPrice: 29.17 EUR
 currency: EUR
 price: 29.17

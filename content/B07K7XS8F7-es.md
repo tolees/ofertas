@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/310lJzY1JzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7XS8F7-es Reebok Rapide Mu  Zapatillas de Gimnasia para Hombre  Multicolor White/Solar Pink/Neon Blue  45 EU'
+slug: 'B07K7XS8F7-es Reebok Rapide Mu Zapatillas de Gimnasia para Hombre...'
+tags: 
 actualPrice: 30.09 EUR
 currency: EUR
 price: 30.09

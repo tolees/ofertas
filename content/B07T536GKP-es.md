@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TsA0BzqBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T536GKP-es Cartuchos de Filtro para Todos Los Filtros de Agua BRITA MAXTRA+ con Carbón Activo para Reducir la Cal  iTrunk Paquete de 4 Cartuchos de Resina de Intercambio de Iones de Carbón Activo'
+slug: 'B07T536GKP-es Cartuchos de Filtro para Todos Los Filtros de Agua BRITA...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

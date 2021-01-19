@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0040LRLE8-es Davines Authentic Fórmulas Cleansing Nectar C&C - 280 ml'
+tags: 
 actualPrice: 15.73 EUR
 currency: EUR
 price: 15.73

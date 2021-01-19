@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rExpVS75L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPG6WF1-es  1  - B.Catcher Silver Necklace Pearl Jewellery 925 Freshwater Pearl Heart Pendant Nekclaces'
+slug: 'B06XPG6WF1-es 1 - B.Catcher Silver Necklace Pearl Jewellery 925...'
+tags: 
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

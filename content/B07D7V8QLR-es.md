@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7V8QLR-es TACKLIFE-GLB01A-DC Aspirador-soplador'
+tags: 
 actualPrice: 141.99 EUR
 currency: EUR
 price: 141.99

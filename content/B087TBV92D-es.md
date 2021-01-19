@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bPw8+8V1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087TBV92D-es qingqingR Mujeres Niñas Viaje Mármol de Viaje Cosmético Bolsa de Maquillaje Cosmético Organizador de Almacenamiento de artículos de tocador'
+slug: 'B087TBV92D-es qingqingR Mujeres Niñas Viaje Mármol de Viaje Cosmético...'
+tags: 
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

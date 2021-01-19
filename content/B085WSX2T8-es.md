@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LD0yFTnJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085WSX2T8-es DOUBLX Cara M-A-S-K-S  Boca desechable M-a-s-k Anti PM2.5 Anti-neblina Transpirable -Máscara de Bolsa con Polvo sellada Azul 100PCS'
+slug: 'B085WSX2T8-es DOUBLX Cara M-A-S-K-S Boca desechable M-a-s-k Anti PM2.5...'
+tags: 
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

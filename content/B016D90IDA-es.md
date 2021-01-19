@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ojzMnTS7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016D90IDA-es Jamara- Flyscout AHP+ Quadrocopter Brújula LED Camara Drone de Control Remoto  Color Negro  38540 '
+slug: 'B016D90IDA-es Jamara- Flyscout AHP+ Quadrocopter Brújula LED Camara...'
+tags: 
 actualPrice: 52.33 EUR
 currency: EUR
 price: 52.33

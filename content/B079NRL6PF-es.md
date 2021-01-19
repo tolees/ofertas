@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c5Dr+zvLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NRL6PF-es Bosch BGC05AAA1 GS05 Cleann n Serie | 2 Aspirador sin bolsa  700 W  color violeta y gris'
+slug: 'B079NRL6PF-es Bosch BGC05AAA1 GS05 Cleann n Serie | 2 Aspirador sin...'
+tags: 
 actualPrice: 71.46 EUR
 currency: EUR
 price: 71.46

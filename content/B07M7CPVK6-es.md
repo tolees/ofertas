@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OJQDyXUBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7CPVK6-es Skechers Dynamight 2.0- Rayhill  Men s Trainers  Black  Black/Black   8 UK  42 EU '
+slug: 'B07M7CPVK6-es Skechers Dynamight 2.0- Rayhill Men s Trainers Black...'
+tags: 
 actualPrice: 27.48 EUR
 currency: EUR
 price: 27.48

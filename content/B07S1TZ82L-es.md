@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+IPOu5IXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1TZ82L-es OurLeeme Scooter Bolsa de Almacenamiento  Bolsa Delantera de Gran Capacidad Bolsa para Scooter eléctrico Bolsa Colgante para XiaoMi  Pequeño '
+slug: 'B07S1TZ82L-es OurLeeme Scooter Bolsa de Almacenamiento Bolsa Delantera...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

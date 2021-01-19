@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hV0uLqmgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGX4BHX-es Funko Pop! - Vivec Figura de Vinilo  seria The Elder Scrolls Online  ESO  Morrowind  14332 '
+slug: 'B06XGX4BHX-es Funko Pop! - Vivec Figura de Vinilo seria The Elder...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

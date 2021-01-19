@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yPvQIuCxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000UJF6U0-es BAUSCH + LOMB - SofLens® 38 - Lentes de contacto de reemplazo mensual - Pack de 6'
+slug: 'B000UJF6U0-es BAUSCH + LOMB - SofLens® 38 - Lentes de contacto de...'
+tags: 
 actualPrice: 11.44 EUR
 currency: EUR
 price: 11.44

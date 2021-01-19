@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AZIV6-LFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PTY1WBC-es FREDI Cámara de Vigilancia para exteriore  1080P HD Inalámbrica Seguridad/Cámara Impermeable IP Sistema de cámara con Audio bidireccional  visión Nocturna  detección de Movimiento-Blanco'
+slug: 'B07PTY1WBC-es FREDI Cámara de Vigilancia para exteriore 1080P HD...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

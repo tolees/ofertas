@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51i1qkvzIOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088WJNSJ5-es FIGROL Ventilador Cuello  Ventilador Portatil  USB Recargable Mini Ventilador de Manos Libres  3 velocidades  rotación Libre de 360 °  luz LED  para Mascotas Viajes Interior Exterior  Black '
+slug: 'B088WJNSJ5-es FIGROL Ventilador Cuello Ventilador Portatil USB...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

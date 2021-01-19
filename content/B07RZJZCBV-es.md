@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-Rh8CbdBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZJZCBV-es Mizuno Wave Daichi 5  Zapatillas de Running para Asfalto para Hombre  Rojo  Cred/Cred/Biking Red 60   44.5 EU'
+slug: 'B07RZJZCBV-es Mizuno Wave Daichi 5 Zapatillas de Running para Asfalto...'
+tags: 
 actualPrice: 59.07 EUR
 currency: EUR
 price: 59.07

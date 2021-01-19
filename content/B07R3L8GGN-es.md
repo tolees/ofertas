@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zuIAIExcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3L8GGN-es Banpresto - The Grandline Men Vol.4  Bandai 85626 '
+slug: 'B07R3L8GGN-es Banpresto - The Grandline Men Vol.4 Bandai 85626'
+tags: 
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

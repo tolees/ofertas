@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xQbLUGwcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073K2YZKK-es Casio Reloj Analogico para Unisex de Cuarzo con Correa en Acero Inoxidable LTP-E140B-1AEF'
+slug: 'B073K2YZKK-es Casio Reloj Analogico para Unisex de Cuarzo con Correa en...'
+tags: 
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

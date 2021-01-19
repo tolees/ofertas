@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xbi6nPuEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYF7S6N-es Lenor Unstoppables Fresh Perlas Impulsoras De Fragancia - 1 x 210 gr  15 lavados'
+slug: 'B07HYF7S6N-es Lenor Unstoppables Fresh Perlas Impulsoras De Fragancia -...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

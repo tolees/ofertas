@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gAtC9ccaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JYFSX-es Clarks Griffin Plaza  Botas Chelsea para Mujer  Gris Pardo de Serpiente  42 EU'
+slug: 'B07N1JYFSX-es Clarks Griffin Plaza Botas Chelsea para Mujer Gris Pardo...'
+tags: 
 actualPrice: 35.56 EUR
 currency: EUR
 price: 35.56

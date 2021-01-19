@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jd7Zg8UmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9VUP54-es Pack 5 x Bombilla LED esférica 6W  equivalente a 40W  Luz neutra  no dimmable  E27  470 Lm  25000 horas de vida'
+slug: 'B01K9VUP54-es Pack 5 x Bombilla LED esférica 6W equivalente a 40W Luz...'
+tags: 
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

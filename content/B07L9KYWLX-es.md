@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+vu7jzEkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9KYWLX-es Caja de Paternina Banda Azul Crianza D.O. Rioja Vino tinto - 6 botellas x 750 ml.'
+slug: 'B07L9KYWLX-es Caja de Paternina Banda Azul Crianza D.O. Rioja Vino tinto...'
+tags: 
 actualPrice: 23.13 EUR
 currency: EUR
 price: 23.13

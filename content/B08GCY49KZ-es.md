@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DXMOuBYKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GCY49KZ-es JARNING Fundas para Xiaomi Redmi 9C  Cuero Flip Leather Wallet Case Painting Cover con Ranura de Tarjeta Cierre Magnético  Mariposa melocotón '
+slug: 'B08GCY49KZ-es JARNING Fundas para Xiaomi Redmi 9C Cuero Flip Leather...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

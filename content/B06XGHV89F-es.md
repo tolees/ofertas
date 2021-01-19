@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wNfSE36ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGHV89F-es Vinilos para Cristales Zindoo Vinilo Ventana Vinilo Translucido Vinilos Decorativos Cristales Laminas para Ventanas Proteger la Privacidad del Bano 45 X 200 cm'
+slug: 'B06XGHV89F-es Vinilos para Cristales Zindoo Vinilo Ventana Vinilo...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

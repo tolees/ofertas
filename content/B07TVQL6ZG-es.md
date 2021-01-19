@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oiJM9RH8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVQL6ZG-es Wrangler High Rise Skinny Jeans  Negro  Black Sea 45a   29W / 34L para Mujer'
+slug: 'B07TVQL6ZG-es Wrangler High Rise Skinny Jeans Negro Black Sea 45a 29W /...'
+tags: 
 actualPrice: 47.23 EUR
 currency: EUR
 price: 47.23

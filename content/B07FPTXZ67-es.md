@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Q4JlSAXPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPTXZ67-es PUMA Cilia  Zapatillas para Mujer  Blanco White/Gray Violet Silver  38.5 EU'
+slug: 'B07FPTXZ67-es PUMA Cilia Zapatillas para Mujer Blanco White/Gray Violet...'
+tags: 
 actualPrice: 30.74 EUR
 currency: EUR
 price: 30.74

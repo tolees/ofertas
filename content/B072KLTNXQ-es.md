@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IvHdW5pzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KLTNXQ-es Vans Old Skool  Zapatillas Unisex Niños  Rosa  Suede/Canvas   34 EU'
+slug: 'B072KLTNXQ-es Vans Old Skool Zapatillas Unisex Niños Rosa Suede/Canvas...'
+tags: 
 actualPrice: 35.35 EUR
 currency: EUR
 price: 35.35

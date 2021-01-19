@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mn2mQ+4RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086SWLM97-es Color&Geometry Alfombrilla de Cocina de 2 Piezas  Alfombra Antideslizante  PVC Lavable y Resistente al Aceite  45 x 75 cm + 45 x 150 cm  Rojo óxido '
+slug: 'B086SWLM97-es Color&Geometry Alfombrilla de Cocina de 2 Piezas Alfombra...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

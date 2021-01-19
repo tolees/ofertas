@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d3O9hUiCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W71QBR6-es BC-02ppAuricolare Bluetooth XuanPad  Auricolari 5.0 Auricolari Bluetooth 5.0 Senza fili  Auricolari con microfono Stereo  15 Ore di riproduzione impermeabile IPX6'
+slug: 'B07W71QBR6-es BC-02ppAuricolare Bluetooth XuanPad Auricolari 5.0...'
+tags: 
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

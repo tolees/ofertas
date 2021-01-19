@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512-eHgJZAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BTMV9WB-es Autan - Spray Family Care repelente de insectos y antimosquitos tigre y comunes  pack con 2 envases de 100 ml'
+slug: 'B07BTMV9WB-es Autan - Spray Family Care repelente de insectos y...'
+tags: 
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

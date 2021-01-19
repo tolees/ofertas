@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BubAtBWqL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY7DSQC-es Sotech 108 Piezas Juego de Llaves de Vaso  Llave de Carraca Reversible de 1/2"y 1/4"  Manija Giratoria  Barra de Extensión  Kit de Herramientas Mecánicas para el Automóvil  Profesionales  Azul'
+slug: 'B07NY7DSQC-es Sotech 108 Piezas Juego de Llaves de Vaso Llave de Carraca...'
+tags: 
 actualPrice: 49.69 EUR
 currency: EUR
 price: 49.69

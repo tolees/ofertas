@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PMTU-Q-CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KT45DTL-es Mini Altavoz con Forma de Coche Colorido LED Luz de Flash Bluetooth para Coche Altavoces inalámbricos TF Tarjeta FM Radio Manos Libres Subwoofer ML63 - Azul'
+slug: 'B07KT45DTL-es Mini Altavoz con Forma de Coche Colorido LED Luz de Flash...'
+tags: 
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8

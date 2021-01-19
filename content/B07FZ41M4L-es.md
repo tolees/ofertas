@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419Q%2B4IEyLL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FZ41M4L-es Plancha de pelo  herramientas de estilo eléctrico de cerámica Cierre automático  Professional Classic Styler  Titanium Tecnología Iónica Negativa  Crear Rizos y Ondas Hermosos EU '
+slug: 'B07FZ41M4L-es Plancha de pelo herramientas de estilo eléctrico de...'
+tags: 
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AXjQA1yzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DCRC3J5-es JOYUE 40 Pcs Bolsas de Fiesta Dinosaurios  Bolsas de Papel de Caramelos  Bolsa de Regalo Ambiental con 72 Pegatinas de Dinosaurios  Bolsas de Kraft Colores para Niños Suministros Fiesta de Cumpleaños'
+slug: 'B08DCRC3J5-es JOYUE 40 Pcs Bolsas de Fiesta Dinosaurios Bolsas de Papel...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

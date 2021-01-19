@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CmTPn9SAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MED145E-es Dr Brown  s prevent chupete  6 A 12 meses  color azul  pack de 2 '
+slug: 'B01MED145E-es Dr Brown s prevent chupete 6 A 12 meses color azul pack de 2'
+tags: 
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

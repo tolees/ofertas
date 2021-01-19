@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411uQBddN+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076VTKDT7-es Nixon Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable A1206-502-00'
+slug: 'B076VTKDT7-es Nixon Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 121.13 EUR
 currency: EUR
 price: 121.13

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bCmAaESdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7RWFG1-es Durex Preservativos Dame Placer + Preservativos Sensitivo Suave + Lubricante Naturals H20 - Total 24 condones + Gel 100ml'
+slug: 'B07W7RWFG1-es Durex Preservativos Dame Placer + Preservativos Sensitivo...'
+tags: 
 actualPrice: 22.82 EUR
 currency: EUR
 price: 22.82

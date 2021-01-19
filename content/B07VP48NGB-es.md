@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41afXw7r3DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VP48NGB-es SKY LIGHT Cacerola Aluminio 24cm / 5.2L con Tapa de Vidrio  Embalaje Caja de Regalo  sin PFOA  Todas Las Luces Incluyendo inducción  aptas para lavavajillas'
+slug: 'B07VP48NGB-es SKY LIGHT Cacerola Aluminio 24cm / 5.2L con Tapa de Vidrio...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

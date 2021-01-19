@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PB7bqpIDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089D27BNH-es TACKLIFE Juego de Llaves Combinadas - 16 Piezas  7-22mm  Llaves Combinadas Profesionales Métricas  Material CV  con Rollo de Herramienta - HCW2A'
+slug: 'B089D27BNH-es TACKLIFE Juego de Llaves Combinadas - 16 Piezas 7-22mm...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

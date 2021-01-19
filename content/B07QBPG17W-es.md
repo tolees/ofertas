@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AOEJVwNUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QBPG17W-es G-STAR RAW Vetar Slim Chino Pantalones  Beige  Sahara 5126-436   W33/L34  Talla del Fabricante: 33W/ 34L  para Hombre'
+slug: 'B07QBPG17W-es G-STAR RAW Vetar Slim Chino Pantalones Beige Sahara...'
+tags: 
 actualPrice: 49.63 EUR
 currency: EUR
 price: 49.63

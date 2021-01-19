@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lHLyNiSQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0742GZNVY-es Pack Galería Nocturna - 86 Historias Macabras  Night Gallery  1970 [DVD]'
+slug: 'B0742GZNVY-es Pack Galería Nocturna - 86 Historias Macabras Night...'
+tags: 
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

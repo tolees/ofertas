@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319-LLFcubL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZPSYRX-es Under Armour Sportstyle Wind Parte Superior del Calentamiento  Hombre  Negro  MD'
+slug: 'B07CZPSYRX-es Under Armour Sportstyle Wind Parte Superior del...'
+tags: 
 actualPrice: 43.11 EUR
 currency: EUR
 price: 43.11

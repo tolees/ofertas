@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YCMd38PdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JQDOANK-es Sennheiser Game Zero - Auriculares de Diadema Cerrados Gaming  reducción de Ruido  Importado  Color Negro'
+slug: 'B00JQDOANK-es Sennheiser Game Zero - Auriculares de Diadema Cerrados...'
+tags: 
 actualPrice: 181.97 EUR
 currency: EUR
 price: 181.97

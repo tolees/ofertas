@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p00S3yzGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P16DT1T-es Superdry Retro Sport Hood Capucha  Gris  Grey Marl 07q   Small para Hombre'
+slug: 'B07P16DT1T-es Superdry Retro Sport Hood Capucha Gris Grey Marl 07q Small...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

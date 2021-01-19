@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/216QzJbwocL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MX892VV-es Apple Smart Battery Case  for iPhone XR  - Black'
+slug: 'B07MX892VV-es Apple Smart Battery Case for iPhone XR - Black'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zdhZAsYUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCGF4B1-es Braun Series 9 9292 Clean&Charge Afeitadora Eléctrica Hombre  Afeitadora Barba  Estación de Limpieza y Carga Clean&Charge y Funda para Viaje  Plata'
+slug: 'B07HCGF4B1-es Braun Series 9 9292 Clean&Charge Afeitadora Eléctrica...'
+tags: 
 actualPrice: 266.1 EUR
 currency: EUR
 price: 266.1

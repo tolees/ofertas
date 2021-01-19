@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hT0NX0QJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDQYP2M-es American Tourister Disney Wavebreaker - Maleta Infantil  Spinner L  77 cm - 96 L   Multicolor  Mickey Comics Red '
+slug: 'B07BDQYP2M-es American Tourister Disney Wavebreaker - Maleta Infantil...'
+tags: 
 actualPrice: 82.71 EUR
 currency: EUR
 price: 82.71

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005EVT4Z2-es Cars 2'
+tags: 
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

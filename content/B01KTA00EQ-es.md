@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KTA00EQ-es Reloj Orla Kiely - Mujer OK2137'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

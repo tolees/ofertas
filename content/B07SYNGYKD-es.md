@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p+EeQviZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYNGYKD-es COOLMAN Herradura Pulsera de Hombre con Acero Inoxidable en Cierre Ajustable Negro Brazalete para Hombre 8 5-9"'
+slug: 'B07SYNGYKD-es COOLMAN Herradura Pulsera de Hombre con Acero Inoxidable...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

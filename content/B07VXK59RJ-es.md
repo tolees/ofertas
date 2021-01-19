@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fXxwRguQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXK59RJ-es Skechers Solar Fuse Cosmic View  Zapatillas para Mujer  Gris Gris Gris Malla Rosa Mint Trim Gypk  39.5 EU'
+slug: 'B07VXK59RJ-es Skechers Solar Fuse Cosmic View Zapatillas para Mujer Gris...'
+tags: 
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

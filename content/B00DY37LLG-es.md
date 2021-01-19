@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PuDYqjdsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DY37LLG-es PUMA Suede Classic+  Zapatillas para Hombre  Rojo  Cabernet/White   42.5 EU'
+slug: 'B00DY37LLG-es PUMA Suede Classic+ Zapatillas para Hombre Rojo...'
+tags: 
 actualPrice: 48.33 EUR
 currency: EUR
 price: 48.33

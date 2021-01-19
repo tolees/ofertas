@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PQZ-Vgk0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LQ4BLUG-es Razer Goliathus - Suave Alfombrilla de Ratón para Juegos   control  fissure  small '
+slug: 'B01LQ4BLUG-es Razer Goliathus - Suave Alfombrilla de Ratón para Juegos...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4123ZGnQcQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EY6AU6K-es Olympus OM-D E-M1 - Cámara Evil de 16 MP  Pantalla de 3"  estabilizador de Imagen  grabación de vídeo  WiFi   Negro'
+slug: 'B00EY6AU6K-es Olympus OM-D E-M1 - Cámara Evil de 16 MP Pantalla de 3"...'
+tags: 
 actualPrice: 736.35 EUR
 currency: EUR
 price: 736.35

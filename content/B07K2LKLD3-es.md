@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wVGws9ZPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2LKLD3-es Adidas Continental 80 C  Zapatillas de Deporte Unisex niño  Blanco  Ftwbla/Escarl/Maruni 000   33 EU'
+slug: 'B07K2LKLD3-es Adidas Continental 80 C Zapatillas de Deporte Unisex niño...'
+tags: 
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

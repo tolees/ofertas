@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TXvxqUsNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868GL8LX-es ORIA Termómetro Infrarrojo Digital  Termómetro sin Contacto con Alarma de Alta Temperatura y Lectura Instantánea  Termómetro de Frente y Oído con Función de Memoria para Adultos  Bebés  Niños'
+slug: 'B0868GL8LX-es ORIA Termómetro Infrarrojo Digital Termómetro sin Contacto...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

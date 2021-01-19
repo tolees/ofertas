@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WrslaoSNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZW89RQ-es Kipling Abanu  Bolsos con Bandolera para Mujer  Amarillo  Vivid Yellow   20x13.5x7.5 cm'
+slug: 'B07TZW89RQ-es Kipling Abanu Bolsos con Bandolera para Mujer Amarillo...'
+tags: 
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TAwIOYI5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9FIYCI-es CLP Estantería de Madera de 3 hasta 5 Niveles | Estantería de Baño  Zapatero  Librería | Estantería Multifuncional I Tamaño: Lindel 36 x 36 x 112 cm  4 baldas'
+slug: 'B01N9FIYCI-es CLP Estantería de Madera de 3 hasta 5 Niveles | Estantería...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

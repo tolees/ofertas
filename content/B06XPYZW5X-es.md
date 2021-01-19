@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418tp9Iw9PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPYZW5X-es 3 5 mm Macho a 2 5 mm Hembra Adaptador de Audio Chapado en Oro micrófono Adaptador de Audio Extensor de Conector Jack para Smartphones  Altavoces  micrófonos y lectores de Tarjetas 2 Pack'
+slug: 'B06XPYZW5X-es 3 5 mm Macho a 2 5 mm Hembra Adaptador de Audio Chapado en...'
+tags: 
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

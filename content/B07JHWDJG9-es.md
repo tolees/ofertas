@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rMoWv-JjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHWDJG9-es Columbia Ivo Trail  Zapatillas para Hombre  Gris  Graphite  Dark 053   44 EU'
+slug: 'B07JHWDJG9-es Columbia Ivo Trail Zapatillas para Hombre Gris Graphite...'
+tags: 
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Xnl7knQEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YHMQFJS-es Radio de Emergencia NOAA  Radio de Manivela  Radio Solar  Radio Meteorológica para Senderismo y Exteriores con Am/FM/SW  Alarma SOS  Puerto de Carga USB  Linterna LED  Lámpara de Lectura  Brújula'
+slug: 'B07YHMQFJS-es Radio de Emergencia NOAA Radio de Manivela Radio Solar...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

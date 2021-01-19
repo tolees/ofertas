@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZNP9lRvXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017NR9Q7A-es Moulinex XF384B10 - Accesorio para cocinar al vapor Cuisine Companion  capacidad de 3.7 L  suficiente para 6 personas  aporta 2 niveles de cocción adicionales a tu Cuisine Companion  asas aislantes'
+slug: 'B017NR9Q7A-es Moulinex XF384B10 - Accesorio para cocinar al vapor...'
+tags: 
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

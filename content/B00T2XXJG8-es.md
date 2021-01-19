@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZzlSx5CBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T2XXJG8-es Remington AS800 Dry & Style - Moldeador de Aire Caliente  Cepillo Térmico de 21 - 38 mm  800 W  Cerámica  Turmalina  Iónico  3 Accesorios'
+slug: 'B00T2XXJG8-es Remington AS800 Dry & Style - Moldeador de Aire Caliente...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

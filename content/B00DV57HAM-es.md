@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VLUjJ1AtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DV57HAM-es Superga Classic  Zapatillas para Mujer  Amarillo  Yellow Sunflower 176   41.5 EU'
+slug: 'B00DV57HAM-es Superga Classic Zapatillas para Mujer Amarillo Yellow...'
+tags: 
 actualPrice: 12.12 EUR
 currency: EUR
 price: 12.12

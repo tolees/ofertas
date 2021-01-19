@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41klOtMPaCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SN4VFKJ-es Pepe Jeans Liberty - Maleta de cabina rígida  55 cm  Rosa'
+slug: 'B07SN4VFKJ-es Pepe Jeans Liberty - Maleta de cabina rígida 55 cm Rosa'
+tags: 
 actualPrice: 80.5 EUR
 currency: EUR
 price: 80.5

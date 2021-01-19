@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ATQfHMZ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F92LFDL-es Tommy Hilfiger Boys Slim Chino Ostw PD Pantalones  Azul  Sky Captain 420   116  Talla del Fabricante: 6  para Niños'
+slug: 'B07F92LFDL-es Tommy Hilfiger Boys Slim Chino Ostw PD Pantalones Azul Sky...'
+tags: 
 actualPrice: 38.68 EUR
 currency: EUR
 price: 38.68

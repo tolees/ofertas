@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21WHR2hUOZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H5K0J5I-es Pikolin Home - Pack de 2 fundas protector de almohada lyocell  impermeables  40x90cm  Todas las medidas '
+slug: 'B01H5K0J5I-es Pikolin Home - Pack de 2 fundas protector de almohada...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dnjqPGiJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2LDQXG-es adidas Galaxy 4  Zapatillas de Running para Mujer  Negro  Core Black/Core Black/True Pink Core Black/Core Black/True Pink   38 2/3 EU'
+slug: 'B07K2LDQXG-es adidas Galaxy 4 Zapatillas de Running para Mujer Negro...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

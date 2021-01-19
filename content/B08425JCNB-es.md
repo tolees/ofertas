@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311t+GT+kBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08425JCNB-es Cámara Domo de Seguridad CCTV de vigilancia de imitación simulada para Interiores con luz LED Guardia de Seguridad IP-1800 - Negro'
+slug: 'B08425JCNB-es Cámara Domo de Seguridad CCTV de vigilancia de imitación...'
+tags: 
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

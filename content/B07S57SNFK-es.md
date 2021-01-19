@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VSplg04qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S57SNFK-es Columbia Ivo Trail  Zapatillas para Hombre  Gris  Monument  Golden Yellow 036   40 EU'
+slug: 'B07S57SNFK-es Columbia Ivo Trail Zapatillas para Hombre Gris Monument...'
+tags: 
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

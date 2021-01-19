@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VtfZhxOlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GJQL8VS-es Domoclip DOP156 para Máquina para hacer Yogurt y Queso Gris 1 2 L'
+slug: 'B01GJQL8VS-es Domoclip DOP156 para Máquina para hacer Yogurt y Queso...'
+tags: 
 actualPrice: 25.77 EUR
 currency: EUR
 price: 25.77

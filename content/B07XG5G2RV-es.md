@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rgDPKs30L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XG5G2RV-es Mesa Coche para Niños lenbest  Mesa de Viaje para Niños  Bandeja de Viaje  Gato Modelage  Patrón de Fondo de Cuento de Hadas  con 5 Papeles de Dibujo Temáticos para Gatos  Fácil de Usar - Rosa y Azul'
+slug: 'B07XG5G2RV-es Mesa Coche para Niños lenbest Mesa de Viaje para Niños...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

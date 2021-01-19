@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413zTqNROUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019ZIC0XM-es Under Armour Sportswear Stirnband UA Mini Headband 6 Pack Minicintas para el Pelo  Mujer  Negro  Black 002   Taglia Unica'
+slug: 'B019ZIC0XM-es Under Armour Sportswear Stirnband UA Mini Headband 6 Pack...'
+tags: 
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

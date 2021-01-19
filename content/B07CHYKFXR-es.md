@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZaWFSLVrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHYKFXR-es El Naturalista NG24 Lux Suede YUGEN  Botas Chelsea para Hombre  Marrón  Camel Camel   46 EU'
+slug: 'B07CHYKFXR-es El Naturalista NG24 Lux Suede YUGEN Botas Chelsea para...'
+tags: 
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

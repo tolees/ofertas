@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RtfvYP-FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYTV6M-es Under Armour GS Charged Rogue 2  Zapatillas para Correr Unisex Adulto  Negro  Black/Versa Red/Versa Red   36 EU'
+slug: 'B07PYYTV6M-es Under Armour GS Charged Rogue 2 Zapatillas para Correr...'
+tags: 
 actualPrice: 33.32 EUR
 currency: EUR
 price: 33.32

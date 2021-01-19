@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZhGL1cOnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSGKQNZ-es Under Armour UA Baseline Performance Tank Tanque de Baloncesto  Hombre  Blanco  White/Mod Gray/Black 100   M'
+slug: 'B07KSGKQNZ-es Under Armour UA Baseline Performance Tank Tanque de...'
+tags: 
 actualPrice: 20.58 EUR
 currency: EUR
 price: 20.58

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cuqk75hZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPWHR8T-es HUGO Henfords Pantalones  Negro  Charcoal 010   94 para Hombre'
+slug: 'B07PPWHR8T-es HUGO Henfords Pantalones Negro Charcoal 010 94 para Hombre'
+tags: 
 actualPrice: 65.52 EUR
 currency: EUR
 price: 65.52

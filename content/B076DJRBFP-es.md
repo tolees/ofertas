@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Dse+ZzyRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076DJRBFP-es Mavala Científico K+ Endurecedor de Uñas Tratamiento para Evitar que las Uñas se Rompan o se Separen  5 ml'
+slug: 'B076DJRBFP-es Mavala Científico K+ Endurecedor de Uñas Tratamiento para...'
+tags: 
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uGb8tnC6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC67WCY-es PUMA Challenger Duffel Bag M Bolsa Deporte  Adultos Unisex  Black  OSFA'
+slug: 'B07RC67WCY-es PUMA Challenger Duffel Bag M Bolsa Deporte Adultos Unisex...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51cgXz4YRnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HWRCLR-es find. MDR 40621 vestidos mujer  Azul  Blue   42  Talla del fabricante: Large '
+slug: 'B077HWRCLR-es find. MDR 40621 vestidos mujer Azul Blue 42 Talla del...'
+tags: 
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

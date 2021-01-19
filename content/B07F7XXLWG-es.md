@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51o0rHVZd-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7XXLWG-es Trust Gaming GXT 764 - Refrigerador líquido para CPU  Color Negro'
+slug: 'B07F7XXLWG-es Trust Gaming GXT 764 - Refrigerador líquido para CPU Color...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

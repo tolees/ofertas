@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DGqXoPA0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4PHN5R-es Goodthreads Packable Down Jacket Outerwear-Jackets  Dorado  US XXL  EU XXXL-4XL '
+slug: 'B07P4PHN5R-es Goodthreads Packable Down Jacket Outerwear-Jackets Dorado...'
+tags: 
 actualPrice: 53.2 EUR
 currency: EUR
 price: 53.2

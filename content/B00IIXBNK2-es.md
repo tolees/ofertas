@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wMiIG80xL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IIXBNK2-es Satechi ReadMate Lupa de escritorio LED  Negro '
+slug: 'B00IIXBNK2-es Satechi ReadMate Lupa de escritorio LED Negro'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

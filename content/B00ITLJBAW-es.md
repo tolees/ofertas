@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314ID+MJKoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ITLJBAW-es Quasar FOBOS - Ratón  Óptico  USB  3200 DPI  Negro '
+slug: 'B00ITLJBAW-es Quasar FOBOS - Ratón Óptico USB 3200 DPI Negro'
+tags: 
 actualPrice: 3.36 EUR
 currency: EUR
 price: 3.36

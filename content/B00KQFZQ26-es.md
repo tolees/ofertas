@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nkxe3n0UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KQFZQ26-es Sensodyne Repair & Protect - Pasta de dientes con flúor  alivia la sensibilidad dental - 75 ml'
+slug: 'B00KQFZQ26-es Sensodyne Repair & Protect - Pasta de dientes con flúor...'
+tags: 
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

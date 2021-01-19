@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MwO12DV0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8JKD42-es Salomon Agile 2 Set Mochila para Carrera de montaña  Unisex Adulto  Amarilla  Citronnelle /Amarilla  Sulphur Spring   Talla única'
+slug: 'B07F8JKD42-es Salomon Agile 2 Set Mochila para Carrera de montaña Unisex...'
+tags: 
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

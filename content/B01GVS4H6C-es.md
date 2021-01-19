@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zFXeHHsqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GVS4H6C-es KLARSTEIN Biggie Digital - Conservadora  Olla eléctrica  Pasteurizadora  Dispensador de bebidas  Temperatura regulable  Temporizador  Indicador digital  Acero inox  Plateado'
+slug: 'B01GVS4H6C-es KLARSTEIN Biggie Digital - Conservadora Olla eléctrica...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

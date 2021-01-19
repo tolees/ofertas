@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kOAVS9IEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009SM7P5Y-es ISDIN Nutraisdin Crema Protectora Facial Diaria Para Bebé SPF 30'
+slug: 'B009SM7P5Y-es ISDIN Nutraisdin Crema Protectora Facial Diaria Para Bebé...'
+tags: 
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

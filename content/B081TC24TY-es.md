@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315BhZLMsRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TC24TY-es Entil 5400mAH Calentador de Manos Recargable de  Calentadores de Manos de calefacción de Doble  Calentamiento rápido Reutilizable  los Mejores Regalos para Hombres y Mujeres en el frío Invierno'
+slug: 'B081TC24TY-es Entil 5400mAH Calentador de Manos Recargable de...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

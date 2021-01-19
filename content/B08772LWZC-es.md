@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EO2rIfqsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08772LWZC-es fgdjfhsdfgsdfh Negro SFR1M44-U100K 5V 3.5 1.44MB 1000 Unidad de Disquete a emulador USB Simulación Enchufe Simple para Teclado Musical - Negro'
+slug: 'B08772LWZC-es fgdjfhsdfgsdfh Negro SFR1M44-U100K 5V 3.5 1.44MB 1000...'
+tags: 
 actualPrice: 23.34 EUR
 currency: EUR
 price: 23.34

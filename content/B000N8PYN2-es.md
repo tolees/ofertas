@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lnehjQv4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000N8PYN2-es Dickies Hose D/knee Work Pants - Pantalones para hombre  Negro   Talla del fabricante: 40/32 '
+slug: 'B000N8PYN2-es Dickies Hose D/knee Work Pants - Pantalones para hombre...'
+tags: 
 actualPrice: 29.04 EUR
 currency: EUR
 price: 29.04

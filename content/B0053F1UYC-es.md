@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318h+JxvdbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0053F1UYC-es Gembird spg5-c-5 - regleta de 5 Tomas con protección antipicos  250 j  250 v  50/60 hz  16 a  1. 5 m   Color Negro.'
+slug: 'B0053F1UYC-es Gembird spg5-c-5 - regleta de 5 Tomas con protección...'
+tags: 
 actualPrice: 10.61 EUR
 currency: EUR
 price: 10.61

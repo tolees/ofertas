@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rVvZf2yZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYSVXYX-es NZXT Kraken X52 240 mm - Refrigerador líquido de CPU RGB todo en uno - Con tecnología CAM - Bomba de alto rendimiento -  Ventilador de radiador Aer P 120 mm  se incluyen 2 '
+slug: 'B06XYSVXYX-es NZXT Kraken X52 240 mm - Refrigerador líquido de CPU RGB...'
+tags: 
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WYn1+XxKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D3J4Q4G-es Bosch TDA5024010 Sensixx x DA50 Plancha de vapor  2400 W  5.5 bares de presión  color morado y blanco'
+slug: 'B00D3J4Q4G-es Bosch TDA5024010 Sensixx x DA50 Plancha de vapor 2400 W...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

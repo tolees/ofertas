@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51a-kKxRERL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD6V13I-es Salomon Evasion 2 Aero  Zapatillas de Senderismo para Hombre  Marrón  Vintage Kaki/Bungee Cord/Honey   40 EU'
+slug: 'B01HD6V13I-es Salomon Evasion 2 Aero Zapatillas de Senderismo para...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

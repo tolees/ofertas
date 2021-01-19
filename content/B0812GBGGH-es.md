@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZaqRGPcRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0812GBGGH-es Asics Gel-Cumulus 21  Running Shoe Mens - Midnight/Midnight - 41.5 EU'
+slug: 'B0812GBGGH-es Asics Gel-Cumulus 21 Running Shoe Mens - Midnight/Midnight...'
+tags: 
 actualPrice: 97.65 EUR
 currency: EUR
 price: 97.65

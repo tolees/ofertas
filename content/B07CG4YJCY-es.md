@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414cYWLrVRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CG4YJCY-es SOYAR® mordedor bebé - Pulpo juguete y el 100% BPA de silicona de mordedor gratis  Verde '
+slug: 'B07CG4YJCY-es SOYAR® mordedor bebé - Pulpo juguete y el 100% BPA de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

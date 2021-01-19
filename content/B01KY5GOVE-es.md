@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WKfamSs1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KY5GOVE-es Fantasy Flight Games- Star Wars Imperial Assault  Princesa Leia  Comandante Rebelde  Edge Entertainment EDGSWI22 '
+slug: 'B01KY5GOVE-es Fantasy Flight Games- Star Wars Imperial Assault Princesa...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

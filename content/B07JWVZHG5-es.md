@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41N5LVoX48L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWVZHG5-es Columbia Fairbanks Omni-Heat  Bota de Invierno para Hombre  Negro  Shark  Peatmoss   43 1/2 EU'
+slug: 'B07JWVZHG5-es Columbia Fairbanks Omni-Heat Bota de Invierno para Hombre...'
+tags: 
 actualPrice: 33.04 EUR
 currency: EUR
 price: 33.04

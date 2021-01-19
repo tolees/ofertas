@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61fzhu3Uq0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007Y4NWSW-es Case Logic TBC-404 - Funda para cámara compacta  Negro'
+slug: 'B007Y4NWSW-es Case Logic TBC-404 - Funda para cámara compacta Negro'
+tags: 
 actualPrice: 10.52 EUR
 currency: EUR
 price: 10.52

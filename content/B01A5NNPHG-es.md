@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Lg2+ERm2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A5NNPHG-es Maybelline New York Brow Drama  Máscara De Cejas  Medium Brown 002 - 1 Máscara De Cejas'
+slug: 'B01A5NNPHG-es Maybelline New York Brow Drama Máscara De Cejas Medium...'
+tags: 
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JsUaSFBwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGPJRQD-es Buff R-Jayla Cinta de Cabeza Fastwick  Mujer  Rose Pink  Talla única'
+slug: 'B07KGPJRQD-es Buff R-Jayla Cinta de Cabeza Fastwick Mujer Rose Pink...'
+tags: 
 actualPrice: 11.21 EUR
 currency: EUR
 price: 11.21

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61KdbuX0wQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C77GW2J-es Aissimio Placas Insonorizantes para Automóviles  Superficie-50X100cm  10mm  Placas de Aislante Acustico para Automóvil  Aislamiento y Amortiguamiento de Ruidos'
+slug: 'B07C77GW2J-es Aissimio Placas Insonorizantes para Automóviles...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

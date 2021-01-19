@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NcqslxvZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0079WCPFU-es Orbegozo HO232 Horno eléctrico de sobremesa  1500 W  23 litros  Gris'
+slug: 'B0079WCPFU-es Orbegozo HO232 Horno eléctrico de sobremesa 1500 W 23...'
+tags: 
 actualPrice: 58.44 EUR
 currency: EUR
 price: 58.44

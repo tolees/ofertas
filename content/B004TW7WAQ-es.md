@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004TW7WAQ-es Autoleads PC5-27 - Adaptador de Antena ISO-DIN'
+tags: 
 actualPrice: 1.81 EUR
 currency: EUR
 price: 1.81

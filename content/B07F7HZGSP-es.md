@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xvP89712L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7HZGSP-es BRA Profesional Batería 5 Piezas  Apta para Todo Tipo De Cocinas Incluida Inducción  Acero Inoxidable  18/10  20-24-16 Cm'
+slug: 'B07F7HZGSP-es BRA Profesional Batería 5 Piezas Apta para Todo Tipo De...'
+tags: 
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

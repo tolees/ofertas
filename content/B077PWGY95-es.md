@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GH-hBdTQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PWGY95-es Emma Colchón 135x190 cm - Viscoelástico Premium - Transpirable  Adaptable  Color Blanco  Todas Las Medidas '
+slug: 'B077PWGY95-es Emma Colchón 135x190 cm - Viscoelástico Premium -...'
+tags: 
 actualPrice: 384.3 EUR
 currency: EUR
 price: 384.3

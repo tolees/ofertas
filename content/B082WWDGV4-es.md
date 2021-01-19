@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51h0MetTisL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WWDGV4-es Cartridgeify 603XL Compatible con Epson 603 603XL Cartucho de Tinta  para Expression Home XP-2100 XP-2105 XP-3100 XP-3105 XP-4100 XP-4105  Workforce WF-2810 WF-2830 WF-2835 WF-2850'
+slug: 'B082WWDGV4-es Cartridgeify 603XL Compatible con Epson 603 603XL Cartucho...'
+tags: 
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

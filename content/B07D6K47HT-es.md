@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41flF4IcnvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6K47HT-es Crock-Pot CSC051X  Olla Multicooker Express para todo tipo de recetas: cocción lenta  cocción rápida a presión con varios ajustes  sellar/saltear  vapor y yogur  5.7 litros  Negro'
+slug: 'B07D6K47HT-es Crock-Pot CSC051X Olla Multicooker Express para todo tipo...'
+tags: 
 actualPrice: 74.25 EUR
 currency: EUR
 price: 74.25

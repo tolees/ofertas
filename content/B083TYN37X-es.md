@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LkCNnhAOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TYN37X-es MarinoBIRD H6 Patrón Agrietado Auriculares Luminosos para Videojuegos Auriculares súper Bajos con micrófono Luz LED Colorida para PC para teléfono - Blanco'
+slug: 'B083TYN37X-es MarinoBIRD H6 Patrón Agrietado Auriculares Luminosos para...'
+tags: 
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

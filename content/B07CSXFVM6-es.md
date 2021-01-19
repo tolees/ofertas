@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61nO--bjqhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CSXFVM6-es JBL Go Plus  Altavoz Inalámbrico Portátil con Bluetooth  Manos Libres con Reducción de Ruido  Hasta 5 h de Reproducción con Sonido  Inalámbrico y Alámbrico MicroUSB  Negro'
+slug: 'B07CSXFVM6-es JBL Go Plus Altavoz Inalámbrico Portátil con Bluetooth...'
+tags: 
 actualPrice: 24.17 EUR
 currency: EUR
 price: 24.17

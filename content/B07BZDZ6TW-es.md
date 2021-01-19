@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UAlML5KrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZDZ6TW-es Grupo Erik Editores Rick & Morty - Carpeta con 4 anillas troquelada  32 x 27.5 cm'
+slug: 'B07BZDZ6TW-es Grupo Erik Editores Rick & Morty - Carpeta con 4 anillas...'
+tags: 
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

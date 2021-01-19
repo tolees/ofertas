@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zt54dHyPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DMWDS54-es Panamar S485 a TTL Módulo TTL a RS485 Convertidor de señal 3V 5.5V Puerto Serie Aislado de un Solo Chip Módulo de Grado Industrial UART - Azul'
+slug: 'B08DMWDS54-es Panamar S485 a TTL Módulo TTL a RS485 Convertidor de señal...'
+tags: 
 actualPrice: 1.52 EUR
 currency: EUR
 price: 1.52

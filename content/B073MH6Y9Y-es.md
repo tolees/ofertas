@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kxo87whWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073MH6Y9Y-es SELECTED FEMME Sfgaia HR Jegging New Black Noos Pantalones  Negro Denim  34 para Mujer'
+slug: 'B073MH6Y9Y-es SELECTED FEMME Sfgaia HR Jegging New Black Noos Pantalones...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

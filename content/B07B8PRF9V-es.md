@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xwuAmTJ2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8PRF9V-es Purina Gourmet Gold Mousse comida para gatos de Pescado del Oceano 8 x [12 x 85 g]'
+slug: 'B07B8PRF9V-es Purina Gourmet Gold Mousse comida para gatos de Pescado...'
+tags: 
 actualPrice: 40.64 EUR
 currency: EUR
 price: 40.64

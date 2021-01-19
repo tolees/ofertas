@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GlrDqxh6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QV2M7WW-es LightHUB Lámpara de pared de yeso inferior interior  Moderno  G9  lámpara de pared decorativa  color blanco  dormitorio  cocina  oficina  cuarto de baño  iluminación de pasillo  Comedor'
+slug: 'B07QV2M7WW-es LightHUB Lámpara de pared de yeso inferior interior...'
+tags: 
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

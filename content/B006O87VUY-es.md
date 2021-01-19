@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rQwX0wvUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006O87VUY-es K&N AL-1010 Filtro de Aire para Aprilia RSV4R FACTORY 2009-2013 Moto'
+slug: 'B006O87VUY-es K&N AL-1010 Filtro de Aire para Aprilia RSV4R FACTORY...'
+tags: 
 actualPrice: 54.69 EUR
 currency: EUR
 price: 54.69

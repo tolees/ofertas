@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kBxHd0dFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DW1D62G-es Tommy Hilfiger Original Basic Polo  Blanco  Classic White 100   Medium para Mujer'
+slug: 'B07DW1D62G-es Tommy Hilfiger Original Basic Polo Blanco Classic White...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

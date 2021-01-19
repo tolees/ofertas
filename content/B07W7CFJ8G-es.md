@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7CFJ8G-es Feline 7.0'
+tags: 
 actualPrice: 32.7 EUR
 currency: EUR
 price: 32.7

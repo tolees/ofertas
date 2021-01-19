@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f8uPuQ1DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07921SVGS-es Nike Park18 Knit Pantalónes de Entrenamiento  Hombre  Negro  Black/White   M'
+slug: 'B07921SVGS-es Nike Park18 Knit Pantalónes de Entrenamiento Hombre Negro...'
+tags: 
 actualPrice: 22.7 EUR
 currency: EUR
 price: 22.7

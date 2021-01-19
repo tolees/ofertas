@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FsmVxOLqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0854H8VMT-es Mamá Lactancia materna Con una sola mano Extractor de leche manual Biberón Saver Biberón de silicona Artefacto Recipiente de succión del pezón - Blanco'
+slug: 'B0854H8VMT-es Mamá Lactancia materna Con una sola mano Extractor de...'
+tags: 
 actualPrice: 5.64 EUR
 currency: EUR
 price: 5.64

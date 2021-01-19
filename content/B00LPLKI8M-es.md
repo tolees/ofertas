@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TAgTPTqkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LPLKI8M-es Bella Aurora Gel Exfoliante Facial Anti-Manchas | Limpia la Piel en Profundidad | Peeling Facial Enzimático para la Cara  75 ml  4098310 '
+slug: 'B00LPLKI8M-es Bella Aurora Gel Exfoliante Facial Anti-Manchas | Limpia...'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

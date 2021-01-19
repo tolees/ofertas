@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410KtLCbcPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TY9DWHR-es INNObeta KlyN 7 litros Neceser Mujer Hombre de Viaje para Colgar Bolsas de Aseo Cosméticos Neceseres Maquillaje （Negro）'
+slug: 'B07TY9DWHR-es INNObeta KlyN 7 litros Neceser Mujer Hombre de Viaje para...'
+tags: 
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

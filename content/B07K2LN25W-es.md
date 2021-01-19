@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415TMan6ULL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2LN25W-es adidas Vl Court 2.0  Zapatillas de Skateboard para Hombre  Verde  Raw Khaki/Ftwr White/Ftwr White   36.5 EU'
+slug: 'B07K2LN25W-es adidas Vl Court 2.0 Zapatillas de Skateboard para Hombre...'
+tags: 
 actualPrice: 26.61 EUR
 currency: EUR
 price: 26.61

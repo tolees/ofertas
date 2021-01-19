@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PBRwNHYoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD76K1C-es Dekora Hucha Infantil de Cars Rayo McQueen con Billetes de Oblea Comestible Color rojo 204012'
+slug: 'B07QD76K1C-es Dekora Hucha Infantil de Cars Rayo McQueen con Billetes de...'
+tags: 
 actualPrice: 21.23 EUR
 currency: EUR
 price: 21.23

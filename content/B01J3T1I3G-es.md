@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PqxDkoibL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J3T1I3G-es Philips Avent Classic - Set de 2 chupetes decorados  para niños de 0 a 6 meses  multicolor'
+slug: 'B01J3T1I3G-es Philips Avent Classic - Set de 2 chupetes decorados para...'
+tags: 
 actualPrice: 4.82 EUR
 currency: EUR
 price: 4.82

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Hy1QjlxaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXMX4CV-es Shackcom 4pcs Alarma para Puertas y Ventanas de 120 dB para casa con Sensor Magnético Inalámbrico para Sistema de Seguridad para el hogar y Seguridad Infantil - Antirrobo Detectores Sirenas con Pilas'
+slug: 'B07QXMX4CV-es Shackcom 4pcs Alarma para Puertas y Ventanas de 120 dB...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

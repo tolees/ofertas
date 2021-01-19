@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QaAoSJfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5PKKRY-es Victory Endurance Oxy Storm 90 capsulas. Nitratos estandarizados. Efecto Pump y Vasodilatador'
+slug: 'B07J5PKKRY-es Victory Endurance Oxy Storm 90 capsulas. Nitratos...'
+tags: 
 actualPrice: 13.7 EUR
 currency: EUR
 price: 13.7

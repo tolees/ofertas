@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wayRbF8JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VJSOZE4-es Imetec Bellissima Face Cleansing Pro Spazzola para la limpieza del rostro  tecnología sónica para la limpieza del rostro  cabezales intercambiables para un tratamiento facial personalizado'
+slug: 'B00VJSOZE4-es Imetec Bellissima Face Cleansing Pro Spazzola para la...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

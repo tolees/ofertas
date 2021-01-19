@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-k277Q7gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N98WQBY-es Milton Mini Tabletas Esterilizadoras - Pastillas para esterilizar y desinfectar la Copa Menstrual Sileu - Ideales para usar con el Esterilizador Plegable Sileu - 50 Mini Tabletas'
+slug: 'B01N98WQBY-es Milton Mini Tabletas Esterilizadoras - Pastillas para...'
+tags: 
 actualPrice: 4.72 EUR
 currency: EUR
 price: 4.72

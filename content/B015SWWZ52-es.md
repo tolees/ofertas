@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a4+GqT4aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015SWWZ52-es S&R Alicate corte diagonal electricista 180mm VDE-series  1000 V  acero de cromo-vanadio fosfatado.'
+slug: 'B015SWWZ52-es S&R Alicate corte diagonal electricista 180mm VDE-series...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

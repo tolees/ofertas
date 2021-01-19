@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WO+ke1PNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBZZ8RX-es Nike Pico 5 TDV  Zapatillas Unisex Niños  Azul  Deep Royal Blue/White   18.5 EU'
+slug: 'B07WBZZ8RX-es Nike Pico 5 TDV Zapatillas Unisex Niños Azul Deep Royal...'
+tags: 
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

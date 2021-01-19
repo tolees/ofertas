@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MeLaREJJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000PDFJTO-es Amazonas AZ-3027000 - Cuerda para hamaca  Resistencia 120 kg por cuerda '
+slug: 'B000PDFJTO-es Amazonas AZ-3027000 - Cuerda para hamaca Resistencia 120...'
+tags: 
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

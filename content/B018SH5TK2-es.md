@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g2wuseRoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018SH5TK2-es Reebok Royal Cl Jogger 2  Zapatillas de Running para Hombre  Negro  Black/White/Baseball Grey 0   44.5 EU'
+slug: 'B018SH5TK2-es Reebok Royal Cl Jogger 2 Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

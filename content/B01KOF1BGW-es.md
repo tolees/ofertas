@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317hPE4YyML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KOF1BGW-es BaByliss C903PE - Rizador automático  dos posiciones de temperatura  hasta 205° C  color rosa'
+slug: 'B01KOF1BGW-es BaByliss C903PE - Rizador automático dos posiciones de...'
+tags: 
 actualPrice: 58.75 EUR
 currency: EUR
 price: 58.75

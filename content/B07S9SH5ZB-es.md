@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419gurehyoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9SH5ZB-es PUMA Future 5.3 Netfit FG/AG  Zapatillas de fútbol para Hombre  Negro Black/Asphalt  42.5 EU'
+slug: 'B07S9SH5ZB-es PUMA Future 5.3 Netfit FG/AG Zapatillas de fútbol para...'
+tags: 
 actualPrice: 35.24 EUR
 currency: EUR
 price: 35.24

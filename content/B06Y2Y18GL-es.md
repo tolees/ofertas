@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418I0F433UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2Y18GL-es New Balance 574v2-core Trainers  Zapatillas para Hombre  Rojo  Burgundy   42.5 EU'
+slug: 'B06Y2Y18GL-es New Balance 574v2-core Trainers Zapatillas para Hombre...'
+tags: 
 actualPrice: 45.87 EUR
 currency: EUR
 price: 45.87

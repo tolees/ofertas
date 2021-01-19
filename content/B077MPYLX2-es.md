@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31y7F2VGUxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MPYLX2-es PUMA Smash v2 L  Zapatillas Unisex Adulto  White White  44.5 EU'
+slug: 'B077MPYLX2-es PUMA Smash v2 L Zapatillas Unisex Adulto White White 44.5 EU'
+tags: 
 actualPrice: 36.24 EUR
 currency: EUR
 price: 36.24

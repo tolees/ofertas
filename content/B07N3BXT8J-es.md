@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h7H3Cvy8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3BXT8J-es Ecco St.1 M  Zapatillas para Hombre  Gris  Titanium 2244   45 EU'
+slug: 'B07N3BXT8J-es Ecco St.1 M Zapatillas para Hombre Gris Titanium 2244 45 EU'
+tags: 
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

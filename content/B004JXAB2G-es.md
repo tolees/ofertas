@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51lk2NYaP0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B004JXAB2G-es Pilot 1108/12  Cartucho de Tinta  Paquete de 12  Multicolor'
+slug: 'B004JXAB2G-es Pilot 1108/12 Cartucho de Tinta Paquete de 12 Multicolor'
+tags: 
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

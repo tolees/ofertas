@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HZiWknmIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VRV9RYQ-es HENDI Bandejas para comida rápida  grande  - Verde - 350x450x H 20 mm'
+slug: 'B00VRV9RYQ-es HENDI Bandejas para comida rápida grande - Verde -...'
+tags: 
 actualPrice: 4.42 EUR
 currency: EUR
 price: 4.42

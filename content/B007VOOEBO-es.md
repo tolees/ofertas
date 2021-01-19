@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007VOOEBO-es Lacor - 60386 - Cuchillo Para Corta Verduras 18 cm- VerDe'
+tags: 
 actualPrice: 1.13 EUR
 currency: EUR
 price: 1.13

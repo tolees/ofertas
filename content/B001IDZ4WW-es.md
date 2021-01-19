@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uPTjGHcIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001IDZ4WW-es Max Factor LipFinity Classic Pintalabios Tono 020 Angelic  - 31 gr'
+slug: 'B001IDZ4WW-es Max Factor LipFinity Classic Pintalabios Tono 020 Angelic...'
+tags: 
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

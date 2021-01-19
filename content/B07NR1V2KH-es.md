@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cIdPVo6CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NR1V2KH-es Skechers Equalizer 3.0-Aquablast  Zapatillas para Niños  Azul  Navy & Gray Textile/Navy & Orange Trim Nvgy   29 EU'
+slug: 'B07NR1V2KH-es Skechers Equalizer 3.0-Aquablast Zapatillas para Niños...'
+tags: 
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

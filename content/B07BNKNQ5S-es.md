@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UponBvu1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BNKNQ5S-es Estuche para Sony SRS-XB10  Estuche rígido para Viaje para Sony SRS-XB10 Estuche portátil Compacto Inalã¡Mbrico.  Solo Estuche  Altavoz y Accesorios no incluidos  - Negro'
+slug: 'B07BNKNQ5S-es Estuche para Sony SRS-XB10 Estuche rígido para Viaje para...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

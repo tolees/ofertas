@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Evg6n8ENL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019M0AY3Q-es Trust Urban - Palo para Selfie  Bluetooth  plegable   negro'
+slug: 'B019M0AY3Q-es Trust Urban - Palo para Selfie Bluetooth plegable negro'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

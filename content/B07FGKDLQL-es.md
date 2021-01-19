@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BhTg+P4zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FGKDLQL-es find. Leather Cleated Brogue Botas Estilo Motero  Marrón Brown  40 EU'
+slug: 'B07FGKDLQL-es find. Leather Cleated Brogue Botas Estilo Motero Marrón...'
+tags: 
 actualPrice: 16.56 EUR
 currency: EUR
 price: 16.56

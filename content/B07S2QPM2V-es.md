@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fc+sCG-YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2QPM2V-es Mizuno Wave Ultima 11  Zapatillas de Running para Hombre  Azul  Blue/Wht/Dress Blue 08   42.5 EU'
+slug: 'B07S2QPM2V-es Mizuno Wave Ultima 11 Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 94.5 EUR
 currency: EUR
 price: 94.5

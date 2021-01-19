@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cb5GktFIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTDB59Q-es Superga 2750-cotcontrastu  Zapatillas de Gimnasia para Hombre  Blanco  White/Pink Extase A0e   39 EU'
+slug: 'B07TTDB59Q-es Superga 2750-cotcontrastu Zapatillas de Gimnasia para...'
+tags: 
 actualPrice: 12.41 EUR
 currency: EUR
 price: 12.41

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417mBdHFf-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ3PJBP-es Puma Vikky Platform VT  Zapatillas para Mujer  Negro Black White  40 EU'
+slug: 'B07CZ3PJBP-es Puma Vikky Platform VT Zapatillas para Mujer Negro Black...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iYHelJenL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2NTNB5-es adidas Runfalcon  Zapatillas de Running para Hombre  Gris  Grey Six/ Footwear White/ Core Black   42 2/3 EU'
+slug: 'B07K2NTNB5-es adidas Runfalcon Zapatillas de Running para Hombre Gris...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

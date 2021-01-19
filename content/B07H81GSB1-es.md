@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W4wkCPGCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H81GSB1-es Nike Downshifter 9  Zapatillas de Running para Hombre  Azul  Midnight Navy/Pure Platinum/Dk Obsidian/Black/White 401   38.5 EU'
+slug: 'B07H81GSB1-es Nike Downshifter 9 Zapatillas de Running para Hombre Azul...'
+tags: 
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

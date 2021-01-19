@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EJXDFEW-es Skagen Reloj de Pulsera SKW2076'
+tags: 
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

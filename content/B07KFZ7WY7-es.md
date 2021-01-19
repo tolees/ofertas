@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zxu0DX2XL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZ7WY7-es Puma Flyer Runner  Zapatillas de Running Unisex Adulto  Azul  Rhubarb White   38 EU'
+slug: 'B07KFZ7WY7-es Puma Flyer Runner Zapatillas de Running Unisex Adulto Azul...'
+tags: 
 actualPrice: 31.72 EUR
 currency: EUR
 price: 31.72

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yiB5OrW0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H5CJJZ7-es i12-TWS Auriculares inalámbricos Bluetooth 5.0  Toque Inteligente  Auriculares estéreo intrauditivos  emparejamiento emergente automático  Compatible con Todos los teléfonos Inteligentes - Blanco'
+slug: 'B08H5CJJZ7-es i12-TWS Auriculares inalámbricos Bluetooth 5.0 Toque...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

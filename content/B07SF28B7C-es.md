@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412FdQiEnlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SF28B7C-es PUMA St Activate  Zapatillas Unisex Adulto  Gris  Castlerock White/Hot Coral 15   42 EU'
+slug: 'B07SF28B7C-es PUMA St Activate Zapatillas Unisex Adulto Gris Castlerock...'
+tags: 
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

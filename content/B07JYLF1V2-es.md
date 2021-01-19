@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wq8oQ8g+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYLF1V2-es Tommy Hilfiger 1985 Straight Mmst Jeans  Azul  Denim 911   95  Talla del Fabricante: 80  para Bebés'
+slug: 'B07JYLF1V2-es Tommy Hilfiger 1985 Straight Mmst Jeans Azul Denim 911 95...'
+tags: 
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

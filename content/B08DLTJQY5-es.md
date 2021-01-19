@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KsKoIZCdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DLTJQY5-es USB C Auriculares Tipo C con Cable y Micrófono para Google Pixel  Samsung  Huawei  Xiaomi  iPad Pro  MacBook Pro | Air  Blanco '
+slug: 'B08DLTJQY5-es USB C Auriculares Tipo C con Cable y Micrófono para Google...'
+tags: 
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

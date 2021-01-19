@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ldJ5SVVML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTXTMMN-es Adidas 3MC  Zapatillas de Skateboarding para Hombre  Azul  Maruni/Maruni/Ftwbla 000   38 2/3 EU'
+slug: 'B07FTXTMMN-es Adidas 3MC Zapatillas de Skateboarding para Hombre Azul...'
+tags: 
 actualPrice: 40.51 EUR
 currency: EUR
 price: 40.51

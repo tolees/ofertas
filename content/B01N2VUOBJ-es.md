@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fm712y+8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2VUOBJ-es HyperX Impact DDR4 HX426S15IB2K2/16 Memoria RAM 2666MHz CL15 SODIMM 16GB Kit  2x8GB '
+slug: 'B01N2VUOBJ-es HyperX Impact DDR4 HX426S15IB2K2/16 Memoria RAM 2666MHz...'
+tags: 
 actualPrice: 78.8 EUR
 currency: EUR
 price: 78.8

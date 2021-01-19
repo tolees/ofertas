@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/6156gEH-M6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BWH3Q2W-es deAO Soldados en Battalla Fuerzas Armadas Unidad de Defensa Militar Figuras de Acción Coleccionable Set Más de 100 Piezas en Total'
+slug: 'B07BWH3Q2W-es deAO Soldados en Battalla Fuerzas Armadas Unidad de...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OpdQWgX4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0117DM4MA-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable EQ0608-55EE'
+slug: 'B0117DM4MA-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 56.02 EUR
 currency: EUR
 price: 56.02

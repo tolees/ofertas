@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fsDbBuKGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EOS1VGK-es Skechers Flex Appeal 2.0 Break Free  Zapatillas De Deporte para Mujer  Negro  Bbk   35.5 EU  Talla del fabricante: 2.5 UK '
+slug: 'B01EOS1VGK-es Skechers Flex Appeal 2.0 Break Free Zapatillas De Deporte...'
+tags: 
 actualPrice: 35.08 EUR
 currency: EUR
 price: 35.08

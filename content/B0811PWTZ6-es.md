@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RUsdlmnrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811PWTZ6-es Tamaño portátil Round Airplay 1080P Wireless WiFi Display TV Dongle Receptor HDMI TV Stick DLNA Miracast para teléfonos Inteligentes PC - Negro'
+slug: 'B0811PWTZ6-es Tamaño portátil Round Airplay 1080P Wireless WiFi Display...'
+tags: 
 actualPrice: 15.32 EUR
 currency: EUR
 price: 15.32

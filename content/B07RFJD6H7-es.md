@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411sKhpNX4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFJD6H7-es Herramientas de pulido de la joyería de la regla del papel de lija  pulido abrasivo multifuncional Pulido y accesorio de pulido Uso Para Herramientas de pulido de la joyería Accesorios de la herramien'
+slug: 'B07RFJD6H7-es Herramientas de pulido de la joyería de la regla del papel...'
+tags: 
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

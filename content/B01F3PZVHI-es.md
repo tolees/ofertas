@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414jD6-Be8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F3PZVHI-es Ice-Watch - ICE duo Ombre orange - Reloj blu para Hombre con Correa de silicona - 001494  Medium '
+slug: 'B01F3PZVHI-es Ice-Watch - ICE duo Ombre orange - Reloj blu para Hombre...'
+tags: 
 actualPrice: 60.67 EUR
 currency: EUR
 price: 60.67

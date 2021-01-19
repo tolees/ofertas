@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41W-esBqJIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQDD727-es Dove Desodorante Original Ahorro - Paquetes de 2 x 200 ml  Total: 400 ml'
+slug: 'B07BQDD727-es Dove Desodorante Original Ahorro - Paquetes de 2 x 200 ml...'
+tags: 
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wyteMVv0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BP23J1B-es STANLEY STHT77498-1 Nivel Láser Rojo Cubix De Líneas Cruzadas  12 M De Alcance  Autonivelante'
+slug: 'B07BP23J1B-es STANLEY STHT77498-1 Nivel Láser Rojo Cubix De Líneas...'
+tags: 
 actualPrice: 41.25 EUR
 currency: EUR
 price: 41.25

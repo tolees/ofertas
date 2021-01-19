@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IGIjk-8PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8P6R7N-es B Blesiya Juguete de Peonza Ráfaga Gyro Burst de Lucha Maestro de Rapidez - Spriggan/Spryzen Requiem B-111-6'
+slug: 'B07K8P6R7N-es B Blesiya Juguete de Peonza Ráfaga Gyro Burst de Lucha...'
+tags: 
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

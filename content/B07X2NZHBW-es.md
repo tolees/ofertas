@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414ZYHbpluL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2NZHBW-es laamei  Sacacorchos para Botellas con Tapones Reutilizables Abrebotellas de Vino de Acero Inoxidable Multifunción Winged Sacacorchos para Botellas para Los Amantes del Vino o Camareros'
+slug: 'B07X2NZHBW-es laamei Sacacorchos para Botellas con Tapones Reutilizables...'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

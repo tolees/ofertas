@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t3P68l2JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084X2D6GP-es Rettos - Zapatillas Bajas  Hombre  Afelpado  Color: Brandy  Caucho  Talla: 39'
+slug: 'B084X2D6GP-es Rettos - Zapatillas Bajas Hombre Afelpado Color: Brandy...'
+tags: 
 actualPrice: 54.6 EUR
 currency: EUR
 price: 54.6

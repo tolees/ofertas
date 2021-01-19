@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZDiDZ+PSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZYLNBF-es VAIRO Short Columns Negro  XXL '
+slug: 'B079ZYLNBF-es VAIRO Short Columns Negro XXL'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

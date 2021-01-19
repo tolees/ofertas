@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KiZoZmAXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJHP2GX-es Tamaris 1-1-25242-23  Botas Militar para Mujer  Gris  Anthracite 214   37 EU'
+slug: 'B07NJHP2GX-es Tamaris 1-1-25242-23 Botas Militar para Mujer Gris...'
+tags: 
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

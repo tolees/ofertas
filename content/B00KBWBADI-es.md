@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41N0+BfAJLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KBWBADI-es Oral-B SmartSeries 6000 Cepillo de Dientes Eléctrico con Tecnología Braun'
+slug: 'B00KBWBADI-es Oral-B SmartSeries 6000 Cepillo de Dientes Eléctrico con...'
+tags: 
 actualPrice: 82.73 EUR
 currency: EUR
 price: 82.73

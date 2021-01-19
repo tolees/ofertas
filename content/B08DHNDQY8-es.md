@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S4WmovOgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DHNDQY8-es VPbao - 50 hojas de papel de origami para álbumes de recortes  tarjetas  decoración del hogar  fiestas y manualidades  papel  15 x 15 cm  10 colores/50 unidades.  talla única'
+slug: 'B08DHNDQY8-es VPbao - 50 hojas de papel de origami para álbumes de...'
+tags: 
 actualPrice: 5.47 EUR
 currency: EUR
 price: 5.47

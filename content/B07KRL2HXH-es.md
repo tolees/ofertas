@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y3u6GVO9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRL2HXH-es New Balance Yc373v1  Zapatillas para Niñas  Dorado  Classic Gold Classic Gold   28 EU'
+slug: 'B07KRL2HXH-es New Balance Yc373v1 Zapatillas para Niñas Dorado Classic...'
+tags: 
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

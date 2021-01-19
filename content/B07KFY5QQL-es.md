@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eBO0o1-OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFY5QQL-es PUMA LQDCELL Tension  Zapatillas Deportivas para Interior para Hombre  Negro Black White  47 EU'
+slug: 'B07KFY5QQL-es PUMA LQDCELL Tension Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 34.87 EUR
 currency: EUR
 price: 34.87

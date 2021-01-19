@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41teRWQx-QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P746QFQ-es Munich G-3 Jeans 28  Zapatillas de Deporte para Hombre  Marrón  Marrón 028   40 EU'
+slug: 'B07P746QFQ-es Munich G-3 Jeans 28 Zapatillas de Deporte para Hombre...'
+tags: 
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518kvC5jirL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E85JRZ6-es DEWALT DCB115-QW - Cargador XR para baterias de 10 8V - 14 4V - 18V carril Li-Ion'
+slug: 'B01E85JRZ6-es DEWALT DCB115-QW - Cargador XR para baterias de 10 8V - 14...'
+tags: 
 actualPrice: 32.61 EUR
 currency: EUR
 price: 32.61

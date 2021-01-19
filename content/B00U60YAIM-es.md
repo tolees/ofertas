@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31y3rYTViCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U60YAIM-es Bellota 5308-A CF - Maceta albañil  mango de fibra de carbono  1000 gramos'
+slug: 'B00U60YAIM-es Bellota 5308-A CF - Maceta albañil mango de fibra de...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

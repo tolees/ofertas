@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419xZjT+p4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VH154FR-es Cafés Baqué - 10 Capsulas Compatibles Nespresso  Ristretto - Intensidad 8 De 10 - Capsulas Compostables 50 g'
+slug: 'B07VH154FR-es Cafés Baqué - 10 Capsulas Compatibles Nespresso Ristretto...'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

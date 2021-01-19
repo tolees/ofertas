@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hNDbbry8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2Q9KV4-es Aibrou Pijama Hombre Verano Corto de 100% Algodón Pijamas de Hombre Verano con Pantalón Talla Grande'
+slug: 'B07N2Q9KV4-es Aibrou Pijama Hombre Verano Corto de 100% Algodón Pijamas...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

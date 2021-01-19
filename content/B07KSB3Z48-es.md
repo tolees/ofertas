@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KoHHKFuVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSB3Z48-es EMS Hips Electroestimulador Muscular  Masajeador Inalámbrico de Cadera  para Adelgazar de Cadera/Pierna/Cintura/Cuerpo Estimulador Muscular Ejercitar Gluteos naranja '
+slug: 'B07KSB3Z48-es EMS Hips Electroestimulador Muscular Masajeador...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

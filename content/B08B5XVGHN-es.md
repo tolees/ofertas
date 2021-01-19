@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MDRN3EvML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5XVGHN-es Novokart-Mountain Bike Unisex  Bicicletas montaña 21/24/27 Pulgadas  MTB para Hombre  Mujer  con Asiento Ajustable  Frenos de Doble Disco  Negro  27-Speed Shift Rueda de radios'
+slug: 'B08B5XVGHN-es Novokart-Mountain Bike Unisex Bicicletas montaña 21/24/27...'
+tags: 
 actualPrice: 120.0 EUR
 currency: EUR
 price: 120.0

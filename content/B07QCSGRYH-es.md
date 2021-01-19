@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hTlCK3hpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCSGRYH-es L Oréal Men Expert - Hydra Energetic 2 en 1 aftershave y cuidado hidratante  para hombres - 125 ml'
+slug: 'B07QCSGRYH-es L Oréal Men Expert - Hydra Energetic 2 en 1 aftershave y...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

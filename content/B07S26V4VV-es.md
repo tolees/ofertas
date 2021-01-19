@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vZcowNd2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S26V4VV-es KangaROOS Raceyard Ev  Zapatillas Unisex Adulto  Negro  Jet Black/White 5012   41 EU'
+slug: 'B07S26V4VV-es KangaROOS Raceyard Ev Zapatillas Unisex Adulto Negro Jet...'
+tags: 
 actualPrice: 11.87 EUR
 currency: EUR
 price: 11.87

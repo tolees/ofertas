@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CLqLesy-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P56HSWX-es Interruptor de límite micro  10pcs Interruptor de límite momentáneo micro Acción rápida 250VAC 15A y 250VDC 0.3A y 125V 0.6A BM-15-1C25 '
+slug: 'B07P56HSWX-es Interruptor de límite micro 10pcs Interruptor de límite...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

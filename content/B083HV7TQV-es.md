@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eZ62akAOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HV7TQV-es Aiglam Sistema de Enfriamiento por Nebulización Kit Nebulizadores para Terrazas  Sistema de Nebulizacion para Exteriores  Kits de Riego por Goteo para Invernaderos 12 Boquilla   Negro '
+slug: 'B083HV7TQV-es Aiglam Sistema de Enfriamiento por Nebulización Kit...'
+tags: 
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

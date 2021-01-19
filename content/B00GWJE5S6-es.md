@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l3vDSA8GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GWJE5S6-es ¡Novedad! – El primero cargador de batería con conexión micro USB · adecuado para la batería NP-FH30  NP-FH40  NP-FH60  NP-FH70  NP-FH90  NP-FH100  NP-FH120 para Sony DCR-DVD | DCR-DVD92 | DCR-DVD103 | DCR-DVD105 | DCR-DVD106 | DCR-DVD108 | DCR-DVD109 | DCR-DVD110 | DCR-DVD115 | DCR-DVD150 | CR-DVD202 | DCR-DVD203 | DCR-DVD205 | DCR-DVD304 | DCR-DVD305 | DCR-DVD306 | DCR-DVD308 | DCR-DVD310 | DCR-DVD403 y mucho más…'
+slug: 'B00GWJE5S6-es ¡Novedad! – El primero cargador de batería con conexión...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

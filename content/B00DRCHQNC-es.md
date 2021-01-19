@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KIoWTudOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DRCHQNC-es KENSINGTON K67822WW - Estación de bloqueo SafeStand para iMac® con ClickSafe®'
+slug: 'B00DRCHQNC-es KENSINGTON K67822WW - Estación de bloqueo SafeStand para...'
+tags: 
 actualPrice: 106.99 EUR
 currency: EUR
 price: 106.99

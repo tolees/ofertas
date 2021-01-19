@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YPGvYMLtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SV42BVL-es Diyeeni Ratón para Juegos con Cable  Metal USB USB Computadora óptica Ratón para Computadora Portátil Ratones Ergonómicos 1200/1600 dpi Ajustable  Rueda de Cuatro Direcciones Blanco '
+slug: 'B07SV42BVL-es Diyeeni Ratón para Juegos con Cable Metal USB USB...'
+tags: 
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

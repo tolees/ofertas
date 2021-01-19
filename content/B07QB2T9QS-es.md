@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VJvBWdoFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB2T9QS-es Cuna portátil  Capazos Cuna de Viaje tela Oxford Plegable Multi-bolsillo Bolsa de viaje reutilizable de gran tamaño de asas para bebés recién nacidos Dark Blue '
+slug: 'B07QB2T9QS-es Cuna portátil Capazos Cuna de Viaje tela Oxford Plegable...'
+tags: 
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

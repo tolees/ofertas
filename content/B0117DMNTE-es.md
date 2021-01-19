@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RPE1jTcXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0117DMNTE-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Cuero EQ0601-03EE'
+slug: 'B0117DMNTE-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 44.4 EUR
 currency: EUR
 price: 44.4

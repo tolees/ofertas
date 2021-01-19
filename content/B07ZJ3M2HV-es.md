@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aXZSP2CYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJ3M2HV-es NETVIP WiFi USB Adaptador 1200Mpbs Receptor WiFi Inalámbrico Dual Band 2.4G / 5.8G WiFi Dongle con Antena de 5dBi Receptor Soporte Windows 10/8/8.1/7/Vista/XP Mac OS'
+slug: 'B07ZJ3M2HV-es NETVIP WiFi USB Adaptador 1200Mpbs Receptor WiFi...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

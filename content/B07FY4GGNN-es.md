@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A9YiWnr0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY4GGNN-es Vans Ward Canvas Zapatillas Unisex Niños  Rojo   Canvas  Port Royale/White 8j7   39'
+slug: 'B07FY4GGNN-es Vans Ward Canvas Zapatillas Unisex Niños Rojo Canvas Port...'
+tags: 
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

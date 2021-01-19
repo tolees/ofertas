@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31a9x8do9SL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXZQLCK-es New Look Iris Utility Paperbag Pantalones  Negro  Black 1   40  Talla del Fabricante: 12  para Mujer'
+slug: 'B07TXZQLCK-es New Look Iris Utility Paperbag Pantalones Negro Black 1 40...'
+tags: 
 actualPrice: 6 EUR
 currency: EUR
 price: 6

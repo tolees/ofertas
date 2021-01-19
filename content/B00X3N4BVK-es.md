@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X3N4BVK-es Optimum Nutrition Pro BCAA Suplemento para Deportistas  Sabor de Melocotón y Mango - 390 gr'
+slug: 'B00X3N4BVK-es Optimum Nutrition Pro BCAA Suplemento para Deportistas...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

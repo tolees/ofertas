@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QqAygeeOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CQB6J8-es Nixon Reloj Analogico para Mujer de Cuarzo con Correa en Cuero A1172-001-00'
+slug: 'B076CQB6J8-es Nixon Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 45.74 EUR
 currency: EUR
 price: 45.74

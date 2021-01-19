@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+RHeLBPyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FLBLT54-es BROTECT Protector Pantalla Cristal Compatible con Doogee S55 Protector Pantalla Vidrio Dureza 9H AirGlass'
+slug: 'B07FLBLT54-es BROTECT Protector Pantalla Cristal Compatible con Doogee...'
+tags: 
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QfnftSsdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N996LHZ-es ASUS ROG Strix GL704GM-EV009 - Portátil Gaming  17.3" FHD  Intel Core i7-8750H  16 GB RAM  1TB HDD y 256 GB SSD  GeForce GTX1060 6 GB  Sin sistema op  Negro Gunmetal-Teclado QWERTY Español'
+slug: 'B07N996LHZ-es ASUS ROG Strix GL704GM-EV009 - Portátil Gaming 17.3" FHD...'
+tags: 
 actualPrice: 999.99 EUR
 currency: EUR
 price: 999.99

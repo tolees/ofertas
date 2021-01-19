@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/211ByoQsbiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000V3NBIO-es Emsa Basic Tapa  Blanco  33 cm'
+slug: 'B000V3NBIO-es Emsa Basic Tapa Blanco 33 cm'
+tags: 
 actualPrice: 11.15 EUR
 currency: EUR
 price: 11.15

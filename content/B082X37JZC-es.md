@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TRUc5OKAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082X37JZC-es Cinturón de la cámara  Uonner Hebilla del cinturón de liberación rápida Aleación de Aluminio Ultraligero Correa Camara de Carga para Cámara Réflex Digital Nikon Canon Sony SLR Gopro  Negro '
+slug: 'B082X37JZC-es Cinturón de la cámara Uonner Hebilla del cinturón de...'
+tags: 
 actualPrice: 24.67 EUR
 currency: EUR
 price: 24.67

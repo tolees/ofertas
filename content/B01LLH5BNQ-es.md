@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PXq5P76xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LLH5BNQ-es Orbegozo CM 2360 - Crepera eléctrica  superficie antiadherente de 30 cm de diámetro   temperatura regulable  1000 W de potencia'
+slug: 'B01LLH5BNQ-es Orbegozo CM 2360 - Crepera eléctrica superficie...'
+tags: 
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

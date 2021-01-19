@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p1Fl3u6uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KW1ZIFY-es CSL - Ventilador USB - Ventilador de Mesa Ventilador - Carcasa aspas de plastico- PC portátil - en Negro'
+slug: 'B00KW1ZIFY-es CSL - Ventilador USB - Ventilador de Mesa Ventilador -...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

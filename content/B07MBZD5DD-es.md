@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B7a+1KgsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBZD5DD-es TODOHOME Escoba y recogedor con Tapa—121 cm de Altura Total Postes de Acero Inoxidable  2 Cabezales de Escoba Disponibles  Negro '
+slug: 'B07MBZD5DD-es TODOHOME Escoba y recogedor con Tapa—121 cm de Altura...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

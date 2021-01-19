@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SoUB7iXhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008FX5VSK-es Magefesa Black Sartén 18 cm de acero esmaltado  antiadherente bicapa reforzado  color negro exterior. Apto para todo tipo de cocinas  incluida inducción.'
+slug: 'B008FX5VSK-es Magefesa Black Sartén 18 cm de acero esmaltado...'
+tags: 
 actualPrice: 7.37 EUR
 currency: EUR
 price: 7.37

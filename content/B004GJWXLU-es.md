@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21hMZlFt3SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004GJWXLU-es ESPRIT Leggings Para Mujer  Azul  Marine   40/42 EU  14/16 UK '
+slug: 'B004GJWXLU-es ESPRIT Leggings Para Mujer Azul Marine 40/42 EU 14/16 UK'
+tags: 
 actualPrice: 7.81 EUR
 currency: EUR
 price: 7.81

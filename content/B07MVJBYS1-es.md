@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418XvjPoXgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJBYS1-es Kipling - Imagine Pack  Bolsos totes Mujer  Morado  Dark Plum   57x49x18 cm  B x H T '
+slug: 'B07MVJBYS1-es Kipling - Imagine Pack Bolsos totes Mujer Morado Dark Plum...'
+tags: 
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

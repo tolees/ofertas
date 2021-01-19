@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB3HW9W-es Pop! Modern Family - Figura de Vinilo Claire'
+tags: 
 actualPrice: 7.03 EUR
 currency: EUR
 price: 7.03

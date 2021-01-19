@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y9T9CdJJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XS7RQ5R-es Apple Watch Series 5  GPS + Cellular  40 mm  Aluminio en Gris Espacial - Correa Deportiva Negro'
+slug: 'B07XS7RQ5R-es Apple Watch Series 5 GPS + Cellular 40 mm Aluminio en Gris...'
+tags: 
 actualPrice: 364.59 EUR
 currency: EUR
 price: 364.59

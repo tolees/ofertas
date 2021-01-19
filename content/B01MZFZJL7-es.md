@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Qe2fOFT4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZFZJL7-es Dickies New York Short Pantalones Cortos Deportivos  Beige  Khaki KH    Tamaño del Fabricante:46  para Hombre'
+slug: 'B01MZFZJL7-es Dickies New York Short Pantalones Cortos Deportivos Beige...'
+tags: 
 actualPrice: 11.12 EUR
 currency: EUR
 price: 11.12

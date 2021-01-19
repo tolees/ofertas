@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nHIzni6fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXB7P66-es Jack & Jones Jjehill Knit Crew Neck Noos suéter  Verde  Olive Night Detail: Melange   Large para Hombre'
+slug: 'B07TXB7P66-es Jack & Jones Jjehill Knit Crew Neck Noos suéter Verde...'
+tags: 
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

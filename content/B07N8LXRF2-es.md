@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ixo1D-E8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8LXRF2-es Izod Performance Pique Polo  Azul  True Blue 426   L para Hombre'
+slug: 'B07N8LXRF2-es Izod Performance Pique Polo Azul True Blue 426 L para Hombre'
+tags: 
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87

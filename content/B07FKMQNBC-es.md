@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31w5ryUr+fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKMQNBC-es Clarks Sharon Dolly Mocasines Mujer  Negro  Black Sde Black Sde   38 EU'
+slug: 'B07FKMQNBC-es Clarks Sharon Dolly Mocasines Mujer Negro Black Sde Black...'
+tags: 
 actualPrice: 25.08 EUR
 currency: EUR
 price: 25.08

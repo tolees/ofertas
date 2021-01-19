@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51RoifnNOFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P882MXP-es deAO Conjunto Aéreo de Juguete a Fricción 12 Figuras Coleccionables a Pequeña Escala Surtido de Aviones y Helicópteros Incluidos'
+slug: 'B07P882MXP-es deAO Conjunto Aéreo de Juguete a Fricción 12 Figuras...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

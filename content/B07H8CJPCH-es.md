@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VuOjvRyxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8CJPCH-es DROCON Bugs 3 Motor Quadcopter sin escobillas Drone  Drone de Alta Velocidad para Adultos y Aficionados  Support Gopro HD Cámara 4K  18 Minutos de Vuelo 300 Metros Control de Largo Alcance  Azul'
+slug: 'B07H8CJPCH-es DROCON Bugs 3 Motor Quadcopter sin escobillas Drone Drone...'
+tags: 
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

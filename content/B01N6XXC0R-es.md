@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CyGiau0VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6XXC0R-es Seiko Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable SXDG89P1'
+slug: 'B01N6XXC0R-es Seiko Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 140.59 EUR
 currency: EUR
 price: 140.59

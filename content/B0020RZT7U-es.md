@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J73Y5y6zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0020RZT7U-es Bosch Professional 061123A000 Martillo perforador  peso de 3.6 kg  800 W  230 V'
+slug: 'B0020RZT7U-es Bosch Professional 061123A000 Martillo perforador peso de...'
+tags: 
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

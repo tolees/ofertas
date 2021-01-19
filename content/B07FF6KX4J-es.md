@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4122Ar3sfKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FF6KX4J-es DESCHE para Funda Xiaomi Redmi Note 5  Hard PC Soft TPU 2 en 1 360 Armadura Protectora Funda Resistente a los arañazos a Prueba de Golpes Funda Duradera para teléfono + Vidrio Templado -Rojo'
+slug: 'B07FF6KX4J-es DESCHE para Funda Xiaomi Redmi Note 5 Hard PC Soft TPU 2...'
+tags: 
 actualPrice: 4.72 EUR
 currency: EUR
 price: 4.72

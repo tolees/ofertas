@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51c5XjjNKjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088HHDR8F-es HAPPY - 10 para nin@s productos  el efecto alcanza el 95%  CE'
+slug: 'B088HHDR8F-es HAPPY - 10 para nin@s productos el efecto alcanza el 95% CE'
+tags: 
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

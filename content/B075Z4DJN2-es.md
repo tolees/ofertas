@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-7+tmdc-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Z4DJN2-es find. Botas Chelsea Mujer  Marrón  Tan   38 EU'
+slug: 'B075Z4DJN2-es find. Botas Chelsea Mujer Marrón Tan 38 EU'
+tags: 
 actualPrice: 16.56 EUR
 currency: EUR
 price: 16.56

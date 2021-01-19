@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rqcqOR6vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X69Y9WL-es HP OMEN 15-dc1017ns - Portátil Gaming de 15.6" FullHD  Intel Core i5-9300H  16GB RAM  1TB HDD + 256GB SSD  NVIDIA GeForce GTX 1650-4GB  FreeDOS  negro - teclado QWERTY Español'
+slug: 'B07X69Y9WL-es HP OMEN 15-dc1017ns - Portátil Gaming de 15.6" FullHD...'
+tags: 
 actualPrice: 899.99 EUR
 currency: EUR
 price: 899.99

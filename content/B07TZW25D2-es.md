@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y9aRRvwfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZW25D2-es Merrell Terran Lattice II  Sandalia con Pulsera para Mujer  Rojo  Chilli Chilli   37 EU'
+slug: 'B07TZW25D2-es Merrell Terran Lattice II Sandalia con Pulsera para Mujer...'
+tags: 
 actualPrice: 44.79 EUR
 currency: EUR
 price: 44.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61U7ncTLoeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01608LYMS-es Playmobil-6858 Playset  Color  6858 '
+slug: 'B01608LYMS-es Playmobil-6858 Playset Color 6858'
+tags: 
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31C6iu2dVpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00405RLBM-es Kenwood CH580 Picadora  4 cuchillas  con accesorio mayonnesa  500 W  Plástico  2 Velocidades  Blanco'
+slug: 'B00405RLBM-es Kenwood CH580 Picadora 4 cuchillas con accesorio mayonnesa...'
+tags: 
 actualPrice: 33.54 EUR
 currency: EUR
 price: 33.54

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4131tEPi1IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DX7KQ39-es Energy Sistem Box 1+ Altavoz inalámbrico portátil con Bluetooth  5 W  microSD MP3  FM Radio  Audio-In  - Grape'
+slug: 'B07DX7KQ39-es Energy Sistem Box 1+ Altavoz inalámbrico portátil con...'
+tags: 
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

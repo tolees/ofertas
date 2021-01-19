@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51WlK8Uu3CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NPYJJT-es NUOLUX Jumbo Foil Love Balloon romántica boda nupcial ducha aniversario de compromiso fiesta decoración  rosa '
+slug: 'B075NPYJJT-es NUOLUX Jumbo Foil Love Balloon romántica boda nupcial...'
+tags: 
 actualPrice: 1.09 EUR
 currency: EUR
 price: 1.09

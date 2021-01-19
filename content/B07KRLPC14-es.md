@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pmJV0456L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRLPC14-es New Balance Msx90tv1  Zapatillas para Hombre  Gris  Grey Grey   45.5 EU'
+slug: 'B07KRLPC14-es New Balance Msx90tv1 Zapatillas para Hombre Gris Grey Grey...'
+tags: 
 actualPrice: 48.63 EUR
 currency: EUR
 price: 48.63

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AuDgzVk7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZQZYC-es PUMA LQDCELL Optic  Zapatillas de Running para Hombre  White-Blue Turquoise  41 EU'
+slug: 'B07KFZQZYC-es PUMA LQDCELL Optic Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 35.93 EUR
 currency: EUR
 price: 35.93

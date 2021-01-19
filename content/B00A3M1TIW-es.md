@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EpUWA1KgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A3M1TIW-es WELEDA Skin Food Original 75 Ml  1x 75 ml '
+slug: 'B00A3M1TIW-es WELEDA Skin Food Original 75 Ml 1x 75 ml'
+tags: 
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

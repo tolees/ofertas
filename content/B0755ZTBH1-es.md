@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zrqOUegsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0755ZTBH1-es Skechers Classic Fit-Delson-Camden  Men’s Sneakers  Taupe  8 UK  9 US '
+slug: 'B0755ZTBH1-es Skechers Classic Fit-Delson-Camden Men’s Sneakers Taupe 8...'
+tags: 
 actualPrice: 29.3 EUR
 currency: EUR
 price: 29.3

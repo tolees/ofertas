@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G2BxZ0icL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00194XKXA-es TP-Link Adaptador wifi USB inalámbrico Compatible con Raspberry Pi  N 300Mbps  MI-MO  WPS  AP soft  TL-WN821N '
+slug: 'B00194XKXA-es TP-Link Adaptador wifi USB inalámbrico Compatible con...'
+tags: 
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

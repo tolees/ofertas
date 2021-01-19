@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51dl4gaNMAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073PB9QHV-es Filamento PLA Plus de la impresora SUNLU 3D  filamento PLA de 1.75 mm  filamento de impresión 3D de bajo olor  precisión dimensional +/- 0.02 mm  filamento 3D del carrete 3D azul PLA +'
+slug: 'B073PB9QHV-es Filamento PLA Plus de la impresora SUNLU 3D filamento PLA...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

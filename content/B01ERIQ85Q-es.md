@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wYWm1RKQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ERIQ85Q-es Calcetines de Compresión 1 par  Amarillo  EU 35-38 '
+slug: 'B01ERIQ85Q-es Calcetines de Compresión 1 par Amarillo EU 35-38'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

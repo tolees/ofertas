@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wivS-ZRkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBL19O0-es Merrell Moab Adventure Lace  Zapatillas de Senderismo para Hombre  Marrón  Dark Earth   43 EU'
+slug: 'B01NBL19O0-es Merrell Moab Adventure Lace Zapatillas de Senderismo para...'
+tags: 
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

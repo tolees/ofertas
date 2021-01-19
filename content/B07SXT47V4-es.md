@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Utq3UjD8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXT47V4-es adidas Ultraboost 19 W  Zapatillas de Running para Mujer  Gris  Grey Three F17/Grey Two F17/Core Black Grey Three F17/Grey Two F17/Core Black   44 EU'
+slug: 'B07SXT47V4-es adidas Ultraboost 19 W Zapatillas de Running para Mujer...'
+tags: 
 actualPrice: 112 EUR
 currency: EUR
 price: 112

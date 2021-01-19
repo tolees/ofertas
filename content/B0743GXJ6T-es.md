@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61ppc5YJ+9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0743GXJ6T-es Iberitos - Crema de Iberico al Pedro Ximénez - Bandeja de 18 x 23 gr'
+slug: 'B0743GXJ6T-es Iberitos - Crema de Iberico al Pedro Ximénez - Bandeja de...'
+tags: 
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

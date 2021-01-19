@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418mdPYX-1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0012VI7QU-es Delonghi ESAM 5500.M Máquina De Espresso Automática  1350 W  1.8 Litros  Acero Inoxidable  Gris'
+slug: 'B0012VI7QU-es Delonghi ESAM 5500.M Máquina De Espresso Automática 1350 W...'
+tags: 
 actualPrice: 492.26 EUR
 currency: EUR
 price: 492.26

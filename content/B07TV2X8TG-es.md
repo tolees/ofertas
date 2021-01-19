@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nsrk1RdYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV2X8TG-es AICOK Deshidratador de Alimentos  250W Temporizador Deshidratador de Frutas y Verduras  5 Bandejas  Ajustables Deshidratador Temporizador de hasta 72 h  Pantalla LCD  sin BPA'
+slug: 'B07TV2X8TG-es AICOK Deshidratador de Alimentos 250W Temporizador...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

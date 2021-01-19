@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y2KDxH+tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQ996SB-es L Oréal Men Expert  gel de lavado de carbón puro  contra las impurezas de la piel de los hombres  grano  espinillas  piel grasa y grasa   2 x 100 ml '
+slug: 'B07YQ996SB-es L Oréal Men Expert gel de lavado de carbón puro contra las...'
+tags: 
 actualPrice: 7.26 EUR
 currency: EUR
 price: 7.26

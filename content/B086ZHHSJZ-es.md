@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31R+P-IWSWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZHHSJZ-es Moliies 1PCS Tamaño portátil Cubierta de cámara Web Obturador Imán Control Deslizante Cubierta de cámara de plástico para computadora portátil Web para PC Tableta Privacidad - Negro'
+slug: 'B086ZHHSJZ-es Moliies 1PCS Tamaño portátil Cubierta de cámara Web...'
+tags: 
 actualPrice: 3.16 EUR
 currency: EUR
 price: 3.16

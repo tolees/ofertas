@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312aoGAJWqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8YPLDR-es ISDIN BodySenses Loción Corporal  Gama Refrescante con Flor de Edelweiss Alpina  Hidrata tu piel de sensaciones - 500ml'
+slug: 'B07X8YPLDR-es ISDIN BodySenses Loción Corporal Gama Refrescante con Flor...'
+tags: 
 actualPrice: 14.11 EUR
 currency: EUR
 price: 14.11

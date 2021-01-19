@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gAK1okRvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZYS1CT-es Love MoschinoJc4004pp1aMujerBolsos mochilaBeige  Naturale 14x29x37 centimeters  W x H x L '
+slug: 'B07RZYS1CT-es Love MoschinoJc4004pp1aMujerBolsos mochilaBeige Naturale...'
+tags: 
 actualPrice: 138.47 EUR
 currency: EUR
 price: 138.47

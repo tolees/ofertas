@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mKwofx+uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDCJWV4-es Purplert Gorro De Dormir De Capó De Seda Satinada Grande De 45 Cm  Gorro De Ducha Impermeable Cuidado del Cabello Femenino Proteger con Banda Elástica'
+slug: 'B07YDCJWV4-es Purplert Gorro De Dormir De Capó De Seda Satinada Grande...'
+tags: 
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

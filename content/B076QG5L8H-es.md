@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31omTXN2YnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076QG5L8H-es Chicco Baby Hug 4en1 Sistema multifunción: moisés  hamaca  trona y silla  regulable en altura  color gris  Glacial '
+slug: 'B076QG5L8H-es Chicco Baby Hug 4en1 Sistema multifunción: moisés hamaca...'
+tags: 
 actualPrice: 179 EUR
 currency: EUR
 price: 179

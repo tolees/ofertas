@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nqwo1fmBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6JP8N2-es Logitech G502 HERO Ratón Gaming con Cable Alto Rendimiento  Sensor HERO16K  16 000 DPI  RGB  Peso Personalizable  11 Botones Programables  Memoria Integrada  PC/Mac - Versión Allemana - Blanco y Negro'
+slug: 'B07W6JP8N2-es Logitech G502 HERO Ratón Gaming con Cable Alto Rendimiento...'
+tags: 
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

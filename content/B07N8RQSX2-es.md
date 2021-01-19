@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BljJP0npL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8RQSX2-es Wonderbra Ultimate Backless Soutien-Gorge Avec Armatures Sujetador con Aros  Noir  Noir 001   100C para Mujer'
+slug: 'B07N8RQSX2-es Wonderbra Ultimate Backless Soutien-Gorge Avec Armatures...'
+tags: 
 actualPrice: 20.05 EUR
 currency: EUR
 price: 20.05

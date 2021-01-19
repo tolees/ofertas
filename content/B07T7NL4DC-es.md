@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Lo-vGyv5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T7NL4DC-es Uverbon Esterillas Inflables  Esterilla Acampada Camping  Ultraligera Colchon Acampada Diseño de compresión único Inflado rápido para Viajes Senderismo Camping Playa Piscina'
+slug: 'B07T7NL4DC-es Uverbon Esterillas Inflables Esterilla Acampada Camping...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

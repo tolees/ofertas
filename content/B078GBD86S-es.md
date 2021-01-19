@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314KxSr-OJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GBD86S-es Maybelline New York Dream Radiant Liquid  Base de Maquillaje Líquida con Sérum Hidratante  Tono 030 Sand'
+slug: 'B078GBD86S-es Maybelline New York Dream Radiant Liquid Base de...'
+tags: 
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

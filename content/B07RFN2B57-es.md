@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yxVfKDi8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFN2B57-es Salomon RX Break 4.0 W  Zapatillas Deportivas para Interior para Mujer  Azul  Meadowbrook/Icy Morn/White   36 2/3 EU'
+slug: 'B07RFN2B57-es Salomon RX Break 4.0 W Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 24.65 EUR
 currency: EUR
 price: 24.65

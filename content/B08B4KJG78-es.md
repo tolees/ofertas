@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fDBTjvfNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B4KJG78-es Luces solares Jardín Exterior 【2020 Más Reciente-4 Pcs】 MOOB 8 LED Lamparas solares Jardín/Paisaje IP65 Impermeable Focos Solares Suelo Decoracion Jardin  Luz Solar de Césped para Pasillo  Césped'
+slug: 'B08B4KJG78-es Luces solares Jardín Exterior 【2020 Más Reciente-4 Pcs】...'
+tags: 
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

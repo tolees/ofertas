@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qBNCUASLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SG4N9R4-es RUNCCI Kit Conectores Tiras LED RGB 5050 con Cable Divisor LED de 4 Pines  led 5050 extensión Cable  Puente de Tira a Tira de LED  Conectores en Forma de L  Conectores Gapless'
+slug: 'B07SG4N9R4-es RUNCCI Kit Conectores Tiras LED RGB 5050 con Cable Divisor...'
+tags: 
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

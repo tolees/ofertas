@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313WKmC3CxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF5FZ7H-es Luchild Dispensador Portátil de Leche en Polvo  Caja con Nivelador y Cuchara Hermética de Almacenamiento de Leche en Polvo y Refrigerios  Artículos Esenciales de Viaje para Bebé - Capacidad 380 g'
+slug: 'B07KF5FZ7H-es Luchild Dispensador Portátil de Leche en Polvo Caja con...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31G6wf31cUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CLMHDK4-es Bourjois City Radiance Base de Maquillaje Tono 03 Light Beige  - 51 gr.'
+slug: 'B01CLMHDK4-es Bourjois City Radiance Base de Maquillaje Tono 03 Light...'
+tags: 
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

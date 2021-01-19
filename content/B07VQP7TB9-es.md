@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uFyuHDM+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQP7TB9-es Nike Ebernon Low Premium  Zapatillas de Baloncesto para Mujer  Negro Gridiron/Sail 2  36 EU'
+slug: 'B07VQP7TB9-es Nike Ebernon Low Premium Zapatillas de Baloncesto para...'
+tags: 
 actualPrice: 28.18 EUR
 currency: EUR
 price: 28.18

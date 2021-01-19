@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jZJcUHk5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K13VF3N-es Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños  Azul  Legend Marine/Ftwr White/Legend Marine Legend Marine/Ftwr White/Legend Marine   38 2/3 EU'
+slug: 'B07K13VF3N-es Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños Azul...'
+tags: 
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

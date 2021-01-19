@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075K9H5GH-es New Balance Hombre 574v2-core Trainers Zapatillas  Negro  Triple Black   39.5 EU'
+slug: 'B075K9H5GH-es New Balance Hombre 574v2-core Trainers Zapatillas Negro...'
+tags: 
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

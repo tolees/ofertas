@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-Ukk0PFFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HXYX77Y-es ESPRIT Maternity Legging OTB Pantalones de deporte premamá  Negro  Black 001 - N1984103    XL/XXL'
+slug: 'B07HXYX77Y-es ESPRIT Maternity Legging OTB Pantalones de deporte premamá...'
+tags: 
 actualPrice: 36.36 EUR
 currency: EUR
 price: 36.36

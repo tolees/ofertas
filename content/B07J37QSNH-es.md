@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EDmwtEsSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J37QSNH-es Under Armour Mid Keyhole Sujetador Deportivo  Mujer  Gris  Level Purple/Nocturne Purple/Metallic Silver 014   M'
+slug: 'B07J37QSNH-es Under Armour Mid Keyhole Sujetador Deportivo Mujer Gris...'
+tags: 
 actualPrice: 13.67 EUR
 currency: EUR
 price: 13.67

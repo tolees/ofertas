@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VnSme2dsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0079FCBBK-es Natural History Museum The Linterna con proyector de imágenes de Dinosaurios'
+slug: 'B0079FCBBK-es Natural History Museum The Linterna con proyector de...'
+tags: 
 actualPrice: 10.67 EUR
 currency: EUR
 price: 10.67

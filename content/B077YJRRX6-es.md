@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dkdbWSI+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YJRRX6-es HIKARO AMA HAYAND camisetas  Verde  Khaki   36  Talla del fabricante: X-Small '
+slug: 'B077YJRRX6-es HIKARO AMA HAYAND camisetas Verde Khaki 36 Talla del...'
+tags: 
 actualPrice: 4.91 EUR
 currency: EUR
 price: 4.91

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418P5FQk7ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMY12S6-es Syoss Acondicionador Hidratación+  500 ml  Pack de 1'
+slug: 'B07WMY12S6-es Syoss Acondicionador Hidratación+ 500 ml Pack de 1'
+tags: 
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

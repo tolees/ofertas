@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ruw3xFyxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNW1GR1-es Microsoft Surface Pro 6 - Ordenador portátil 2 en 1  12.3    Intel Core i7-8650U  16GB RAM  1TB SSD  Intel Graphics  Windows 10  Color Plata'
+slug: 'B07MNW1GR1-es Microsoft Surface Pro 6 - Ordenador portátil 2 en 1 12.3...'
+tags: 
 actualPrice: 1539.61 EUR
 currency: EUR
 price: 1539.61

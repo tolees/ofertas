@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vGl2nN7-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1J1PH5-es Clarks Sillian2.0dusk  Botas Slouch para Mujer  Rojo  Maroon Maroon   41.5 EU'
+slug: 'B07N1J1PH5-es Clarks Sillian2.0dusk Botas Slouch para Mujer Rojo Maroon...'
+tags: 
 actualPrice: 32.27 EUR
 currency: EUR
 price: 32.27

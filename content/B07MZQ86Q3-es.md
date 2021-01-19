@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QI+++ZzaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ86Q3-es Pepe Jeans Bretona suéter   Dulwich 594   Large para Mujer'
+slug: 'B07MZQ86Q3-es Pepe Jeans Bretona suéter Dulwich 594 Large para Mujer'
+tags: 
 actualPrice: 31.55 EUR
 currency: EUR
 price: 31.55

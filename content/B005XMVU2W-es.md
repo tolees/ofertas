@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oReIYzhwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XMVU2W-es DIM Generous Sujetador  Blanco  100E para Mujer'
+slug: 'B005XMVU2W-es DIM Generous Sujetador Blanco 100E para Mujer'
+tags: 
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

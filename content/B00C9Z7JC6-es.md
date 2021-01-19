@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EfwSPMWmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C9Z7JC6-es Toomax 162R Baùl  Plástico  Antracita'
+slug: 'B00C9Z7JC6-es Toomax 162R Baùl Plástico Antracita'
+tags: 
 actualPrice: 92.71 EUR
 currency: EUR
 price: 92.71

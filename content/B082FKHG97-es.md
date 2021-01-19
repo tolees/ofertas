@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KXx3mpmrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082FKHG97-es Nuevos Hombres Mujeres Cabello Champú Cuero cabelludo Masaje corporal Masajeador Cepillo Peine - Mezclar'
+slug: 'B082FKHG97-es Nuevos Hombres Mujeres Cabello Champú Cuero cabelludo...'
+tags: 
 actualPrice: 1.54 EUR
 currency: EUR
 price: 1.54

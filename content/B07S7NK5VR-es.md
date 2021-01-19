@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7NK5VR-es Leiyer - Auriculares Bluetooth'
+tags: 
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

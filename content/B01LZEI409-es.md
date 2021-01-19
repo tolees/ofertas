@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gtxc92rKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZEI409-es StarTech.com HDMM2MP - Cable HDMI de 2 m  color negro'
+slug: 'B01LZEI409-es StarTech.com HDMM2MP - Cable HDMI de 2 m color negro'
+tags: 
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

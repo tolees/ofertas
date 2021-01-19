@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WbUpNgdIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAJ2OPA-es Jata QP398N Quitapelusas  Cuchillas de acero inoxidable  Diámetro: 5 cm  Contenedor de pelusas desmontable  Funciona con 2 pilas AA  Accesorios: cepillo para limpieza y para nivel de rasurado alto'
+slug: 'B01NAJ2OPA-es Jata QP398N Quitapelusas Cuchillas de acero inoxidable...'
+tags: 
 actualPrice: 6.61 EUR
 currency: EUR
 price: 6.61

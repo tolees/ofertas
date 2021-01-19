@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Nv+H+3nJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1GT9F-es PUMA NRGY Neko Retro  Zapatillas de Running para Hombre  Black-Rhubarb  39 EU'
+slug: 'B07KG1GT9F-es PUMA NRGY Neko Retro Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 29.4 EUR
 currency: EUR
 price: 29.4

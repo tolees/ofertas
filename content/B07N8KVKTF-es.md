@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wiBs7PpaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8KVKTF-es HOMYBABY Ganchos Carrito Bebé  2 pcs  | Diseño Antideslizante y Antivuelco | Velcro  Nylon  Mosquetón de Alta Resistencia | Enganches Carro Bebe para Colgar Bolsas y Bolsos del Cochecito | Universal'
+slug: 'B07N8KVKTF-es HOMYBABY Ganchos Carrito Bebé 2 pcs | Diseño...'
+tags: 
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

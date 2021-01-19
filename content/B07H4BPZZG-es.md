@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WQyHS3InL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4BPZZG-es SanDisk Extreme - Tarjeta de Memoria SD UHS-I  256 GB  hasta 150MB/s'
+slug: 'B07H4BPZZG-es SanDisk Extreme - Tarjeta de Memoria SD UHS-I 256 GB hasta...'
+tags: 
 actualPrice: 56.16 EUR
 currency: EUR
 price: 56.16

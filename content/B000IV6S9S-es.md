@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41STvOAgQ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000IV6S9S-es StarTech.com USBMBADAPT - Cable Adaptador Extensor USB 2.0 a IDC 4 Pines  15 cm'
+slug: 'B000IV6S9S-es StarTech.com USBMBADAPT - Cable Adaptador Extensor USB 2.0...'
+tags: 
 actualPrice: 3.06 EUR
 currency: EUR
 price: 3.06

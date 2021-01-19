@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511ebPDV+eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076VQTJGK-es Zelite Infinity Cuchillo de Trinchar 30 cm - Serie Comfort-Pro - Acero inoxidable  alto carbono  X50 Cr MOV 15'
+slug: 'B076VQTJGK-es Zelite Infinity Cuchillo de Trinchar 30 cm - Serie...'
+tags: 
 actualPrice: 59.7 EUR
 currency: EUR
 price: 59.7

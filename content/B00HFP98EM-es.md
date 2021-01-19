@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41omvWL1whL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HFP98EM-es Zwilling Twin Nova - Juego de 113 cubiertos de mesa  acero inoxidable  plateado  para 12 comensales'
+slug: 'B00HFP98EM-es Zwilling Twin Nova - Juego de 113 cubiertos de mesa acero...'
+tags: 
 actualPrice: 179.49 EUR
 currency: EUR
 price: 179.49

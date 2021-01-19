@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nLRkDC-2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8T7KMZ-es VNOX de Acero Inoxidable y Chapado en Oro 3A Cubic Zirconia Que Empareja el Anillo de La Pareja de Compromiso de Boda para Hombres Tamaño 22'
+slug: 'B07F8T7KMZ-es VNOX de Acero Inoxidable y Chapado en Oro 3A Cubic...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

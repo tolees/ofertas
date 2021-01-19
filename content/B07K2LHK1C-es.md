@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317Jq-VWeZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2LHK1C-es adidas Adilette Aqua  Zapatillas de Deporte Unisex niño  Multicolor  Multicolor 000   36.5 EU'
+slug: 'B07K2LHK1C-es adidas Adilette Aqua Zapatillas de Deporte Unisex niño...'
+tags: 
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

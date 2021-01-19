@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519NxRldYLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VB6HPV-es LIUMY Pelota de Juguete al Aire Libre para Perros  Juguete Multifuncional para mordedura de Molar para Mascotas con Ventosa para Masticar  Limpiar los Dientes  Adecuado para Perros y Gatos Azul'
+slug: 'B082VB6HPV-es LIUMY Pelota de Juguete al Aire Libre para Perros Juguete...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

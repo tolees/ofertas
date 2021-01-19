@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/311owFN58KL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073S1JVGR-es Finether-Chimenea Eléctrica de la Pared Estufa Eléctrica Calentador de 3D Llama  2000W  con Mando a Distancia  Temperatura Ajustable  7 Colores de Retroiluminación LED  Negro '
+slug: 'B073S1JVGR-es Finether-Chimenea Eléctrica de la Pared Estufa Eléctrica...'
+tags: 
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-7hDXADdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07478KCVV-es Miyare 2pcs Perchas Pinzas Faldas Antideslizantes de Acero Inoxidable Perchas Plegables Pantalones de Metal'
+slug: 'B07478KCVV-es Miyare 2pcs Perchas Pinzas Faldas Antideslizantes de Acero...'
+tags: 
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

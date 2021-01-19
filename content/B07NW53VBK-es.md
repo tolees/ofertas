@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Eq93A-ZQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW53VBK-es Skechers Street Cleats 2  Zapatillas para Mujer  Olive Suede/Duraleather Trim #Flash Old  5 EU'
+slug: 'B07NW53VBK-es Skechers Street Cleats 2 Zapatillas para Mujer Olive...'
+tags: 
 actualPrice: 26.35 EUR
 currency: EUR
 price: 26.35

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UHhQ1cYmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRBQGYR-es Papel de Lija de 60 Piezas 40  60  80  120  180  240 Granos Surtidos 125mm Tacklife ASD03C Papeles de Lija Abrasivos con 8 Agujeros  Velcro Durable para Lijadora Excéntrica  Seco  Cambio Rápido'
+slug: 'B07DRBQGYR-es Papel de Lija de 60 Piezas 40 60 80 120 180 240 Granos...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

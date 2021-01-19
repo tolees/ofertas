@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078B27ZBY-es Camiseta/UNDER ARMOUR:Boxed Sportstyle L Negro'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

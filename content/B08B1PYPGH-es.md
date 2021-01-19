@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+BYb8iCVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B1PYPGH-es Cámara de Conferencia USB sin Disco con micrófono HD Beauty Face Net Class Clase de enseñanza Cámara en Vivo 1080P / Negro'
+slug: 'B08B1PYPGH-es Cámara de Conferencia USB sin Disco con micrófono HD...'
+tags: 
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XVFNmXLPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B007CFTGB0-es Orbegozo HO 810 A Mini horno- tostador multifunción  800 W  8 litros  Gris'
+slug: 'B007CFTGB0-es Orbegozo HO 810 A Mini horno- tostador multifunción 800 W...'
+tags: 
 actualPrice: 25 EUR
 currency: EUR
 price: 25

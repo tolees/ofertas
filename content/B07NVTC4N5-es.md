@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+llPIDfnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVTC4N5-es non-brand Caja de 300 Pcs Hisopos de Algodón Moderna Accesorio para Limpio de Oídos Maquillaje - Rosa Amarillo'
+slug: 'B07NVTC4N5-es non-brand Caja de 300 Pcs Hisopos de Algodón Moderna...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

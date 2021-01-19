@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aaloT+ruL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072N8CVN6-es Funko Pop! - Figura de Vinilo Erend  22606 '
+slug: 'B072N8CVN6-es Funko Pop! - Figura de Vinilo Erend 22606'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

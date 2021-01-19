@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MK5RlykyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2J3LLJ-es Tommy Hilfiger Technical Flexi Runner  Zapatillas para Mujer  Negro  Black Bds   39 EU'
+slug: 'B07V2J3LLJ-es Tommy Hilfiger Technical Flexi Runner Zapatillas para...'
+tags: 
 actualPrice: 46.29 EUR
 currency: EUR
 price: 46.29

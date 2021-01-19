@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316NLrC+p7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F82YKJY-es Superga 2750 COTU Classic  Zapatillas Unisex  Verde  Green Aqua 611   46 EU'
+slug: 'B07F82YKJY-es Superga 2750 COTU Classic Zapatillas Unisex Verde Green...'
+tags: 
 actualPrice: 10.56 EUR
 currency: EUR
 price: 10.56

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mWiHJNEYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MJP18UK-es Sunstech RPR4000  Radio de Sobremesa  Madera'
+slug: 'B00MJP18UK-es Sunstech RPR4000 Radio de Sobremesa Madera'
+tags: 
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

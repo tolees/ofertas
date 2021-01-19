@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g8VxI-K2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HSXTDV7-es Lepfun Laxuri Calcetines de Compresión Medias de Compresión  20 – 30 mmHg  para Deporte  Trotar  Correr  Volar  Viajar  Varicosas，Embarazo y Médicos  Medium '
+slug: 'B07HSXTDV7-es Lepfun Laxuri Calcetines de Compresión Medias de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

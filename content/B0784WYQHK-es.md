@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vfs1dcWxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784WYQHK-es Panasonic RP-HTX80BE-C Auriculares Bluetooth Diadema  24h de Reproducción  Micrófono y Manos Libres  Hi-Fi Sonido  Cascos Inalámbricos  Carga Rápida  Cascos Diadema Premium Móviles  TV  PC   Ocre'
+slug: 'B0784WYQHK-es Panasonic RP-HTX80BE-C Auriculares Bluetooth Diadema 24h...'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

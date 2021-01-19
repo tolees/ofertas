@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aq05HDDoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RPHZ8N-es Columbia Drainmaker IV  Zapatillas para Hombre  Negro  Black  Lux 010   43.5 EU'
+slug: 'B073RPHZ8N-es Columbia Drainmaker IV Zapatillas para Hombre Negro Black...'
+tags: 
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

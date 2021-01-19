@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GnFJRUCIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PMX5DG-es Pasito a Pasito 74026 - Bolsa panera Inés  Gris'
+slug: 'B076PMX5DG-es Pasito a Pasito 74026 - Bolsa panera Inés Gris'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

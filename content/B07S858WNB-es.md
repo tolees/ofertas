@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gw5Rd1oaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S858WNB-es adidas Crop Tank Tank Top  Mujer  Ice Yellow  42'
+slug: 'B07S858WNB-es adidas Crop Tank Tank Top Mujer Ice Yellow 42'
+tags: 
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

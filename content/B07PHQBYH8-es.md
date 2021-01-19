@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e06wpzLXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHQBYH8-es Sandalia Tipo Chancla Masaje de Hombre Mujer Unisex  Tira Ancha Suela con Agujero  Zapatillas de Casa Playa para Verano Interior/Exterior  Negro  38/39 EU'
+slug: 'B07PHQBYH8-es Sandalia Tipo Chancla Masaje de Hombre Mujer Unisex Tira...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GyNSIxsVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W91VCY7-es Tommy Hilfiger Hombre Slim Layton Pstr Clute Blue Loose Fit Jeans  Azul  Clute Blue   W34/L30'
+slug: 'B07W91VCY7-es Tommy Hilfiger Hombre Slim Layton Pstr Clute Blue Loose...'
+tags: 
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

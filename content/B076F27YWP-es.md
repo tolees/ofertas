@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31dB%2BWlwLGL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B076F27YWP-es HDML-Cloner Box Turbo  1080p Dispositivo de Captura de HDMI de próxima generación y Caja de grabadora de vídeo. Grabación con Puerto de comunicación de Alta Velocidad. Unidad Flash de 16GB incluida.'
+slug: 'B076F27YWP-es HDML-Cloner Box Turbo 1080p Dispositivo de Captura de HDMI...'
+tags: 
 actualPrice: 141.29 EUR
 currency: EUR
 price: 141.29

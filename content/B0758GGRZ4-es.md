@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NI3filxzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758GGRZ4-es BOSS Prime Polo  Blanco  White 100   X-Large para Hombre'
+slug: 'B0758GGRZ4-es BOSS Prime Polo Blanco White 100 X-Large para Hombre'
+tags: 
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rlx0d56lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7NYLG9-es Hamaca portátil para acampar - Hamaca de árbol para exteriores e interior / doble con insecto insecticida  2 correas colgantes  hamacas ligeras de paracaídas de nylon para mochileros  viajes  patio'
+slug: 'B07S7NYLG9-es Hamaca portátil para acampar - Hamaca de árbol para...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

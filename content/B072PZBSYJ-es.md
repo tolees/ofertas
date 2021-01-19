@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51hrHsQE7HL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072PZBSYJ-es Finether 4 1M Escalera Telescópica de Aluminio  Escalera Extensible Multifuncional Portátil  Certificada por EN131  profesionales y Plegables  Carga 150kg Color Negro'
+slug: 'B072PZBSYJ-es Finether 4 1M Escalera Telescópica de Aluminio Escalera...'
+tags: 
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

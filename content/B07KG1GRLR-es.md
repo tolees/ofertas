@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-XO%2BH4tnL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1GRLR-es PUMA NRGY Comet  Zapatillas de Running Unisex Adulto  Peacoat-Yellow Alert  44 EU'
+slug: 'B07KG1GRLR-es PUMA NRGY Comet Zapatillas de Running Unisex Adulto...'
+tags: 
 actualPrice: 35.71 EUR
 currency: EUR
 price: 35.71

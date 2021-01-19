@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hEG722-fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NTWTP26-es Skechers Men s Ultra Flex 2.0 KELMER Trainers  Blue  Black Engineered Mesh/Synthetic/Gray Trim Bkgy   10  45 EU '
+slug: 'B07NTWTP26-es Skechers Men s Ultra Flex 2.0 KELMER Trainers Blue Black...'
+tags: 
 actualPrice: 38.44 EUR
 currency: EUR
 price: 38.44

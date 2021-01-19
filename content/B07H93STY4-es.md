@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517ctLQvQzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H93STY4-es 30000RPM Herramienta de manicura de Torno máquina de pulido de uña eléctrica Aparatos eléctricos con 3 uñas bits de oro y cepillo de limpieza y 300 bandas de lijado'
+slug: 'B07H93STY4-es 30000RPM Herramienta de manicura de Torno máquina de...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317AWX30ICL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7GH94B-es adidas Tiro19 WOV PNTY Pantalones de Deporte  Unisex niños  Black/White  9-10Y'
+slug: 'B07K7GH94B-es adidas Tiro19 WOV PNTY Pantalones de Deporte Unisex niños...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

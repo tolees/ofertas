@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WsjSbznIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MTMNMV-es Puma Basket Satin EP Wn s  Zapatillas para Mujer  Negro Black White  40.5 EU'
+slug: 'B077MTMNMV-es Puma Basket Satin EP Wn s Zapatillas para Mujer Negro...'
+tags: 
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

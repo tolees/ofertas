@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413olalKlWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JY8K8T-es NEW C 2 Unidades  Protector de Pantalla para Huawei P8 Lite 2017  Vidrio Cristal Templado'
+slug: 'B071JY8K8T-es NEW C 2 Unidades Protector de Pantalla para Huawei P8 Lite...'
+tags: 
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

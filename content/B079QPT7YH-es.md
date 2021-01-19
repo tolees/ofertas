@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pUYHrFTRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QPT7YH-es McAfee Total Protection 2020 - Antivirus | 5 Dispositivos | Suscripción de 1 año | PC/Mac/Android/Smartphones| Código de activación por correo'
+slug: 'B079QPT7YH-es McAfee Total Protection 2020 - Antivirus | 5 Dispositivos...'
+tags: 
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

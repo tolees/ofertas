@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p9mn0fmIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NH12R1O-es AmazonBasics - Cable USB 3.0 A macho a Micro B  1 8 m '
+slug: 'B00NH12R1O-es AmazonBasics - Cable USB 3.0 A macho a Micro B 1 8 m'
+tags: 
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

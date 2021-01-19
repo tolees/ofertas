@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51w5bx7anNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFCM5RX-es Funko- Pop Bobble Marvel Studios 10: Iron Man  Chrome  Figura Coleccionable  Multicolor  33434 '
+slug: 'B07DFCM5RX-es Funko- Pop Bobble Marvel Studios 10: Iron Man Chrome...'
+tags: 
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pK7wXpAUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTRNRD4-es FIND - Sunkissed radiance duo - medio  Bronceador n.2 + Colorete n.2 '
+slug: 'B07CTRNRD4-es FIND - Sunkissed radiance duo - medio Bronceador n.2 +...'
+tags: 
 actualPrice: 4.16 EUR
 currency: EUR
 price: 4.16

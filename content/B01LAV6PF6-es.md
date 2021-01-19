@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iae8FZG8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LAV6PF6-es LG Cinebeam Ph150G - Proyector con Batería Integrada hasta 100"  Autonomía 2.5 Horas  Fuente Led  130 Lúmenes  1280 X 720  Color Blanco y Dorado'
+slug: 'B01LAV6PF6-es LG Cinebeam Ph150G - Proyector con Batería Integrada hasta...'
+tags: 
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

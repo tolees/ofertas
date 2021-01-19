@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ogElVE8gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2FG1BM-es HP 27MX - Monitor  27"  velocidad de 144 Hz  Tecnología AMD FreeSync  iluminación ambiental  1920 x 1080 a 60 Hz  color negro'
+slug: 'B07Q2FG1BM-es HP 27MX - Monitor 27" velocidad de 144 Hz Tecnología AMD...'
+tags: 
 actualPrice: 249.01 EUR
 currency: EUR
 price: 249.01

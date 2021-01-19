@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zM2LkX6dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013C5RXK4-es Bolero Bebida Instantánea sin Azúcar  Sabor Limón - Paquete de 24 x 9 gr - Total: 216 gr'
+slug: 'B013C5RXK4-es Bolero Bebida Instantánea sin Azúcar Sabor Limón - Paquete...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

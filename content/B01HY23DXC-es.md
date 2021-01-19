@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KSZCEhtAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HY23DXC-es Lee Rider Tonal Jeans  Noir  Black Rinse 47   34W / 34L para Hombre'
+slug: 'B01HY23DXC-es Lee Rider Tonal Jeans Noir Black Rinse 47 34W / 34L para...'
+tags: 
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

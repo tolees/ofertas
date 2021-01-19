@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Qk3hyYy+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V35TDKX-es PHONECT Hervidor de Agua Eléctrico 2200W Hervidor de Cristal rápido  con Iluminación Led de 1 7 litros de Capacidad  Libre de BPA  Doble Sistema de Seguridad Filtro Antical.Acero Inoxidable.'
+slug: 'B07V35TDKX-es PHONECT Hervidor de Agua Eléctrico 2200W Hervidor de...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dq6qz1XNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HSHFPD0-es Sony Fe 28-70Mm F/3.5-5.6 OSS - Objetivo para Sony  Distancia Focal 28-70Mm  Apertura F/3.5-36  Zoom Óptico 2.5X Estabilizador Óptico  Diámetro: 55Mm  Negro'
+slug: 'B00HSHFPD0-es Sony Fe 28-70Mm F/3.5-5.6 OSS - Objetivo para Sony...'
+tags: 
 actualPrice: 289.0 EUR
 currency: EUR
 price: 289.0

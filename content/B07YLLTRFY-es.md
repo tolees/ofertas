@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41r-1jAakFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YLLTRFY-es Maletas de Cabina 55x40x20 con USB de Carga Equipaje de Mano Trolley rigida 4 Ruedas giratorias 360º candado TSA Maleta Ryanair  American tourister Sulema'
+slug: 'B07YLLTRFY-es Maletas de Cabina 55x40x20 con USB de Carga Equipaje de...'
+tags: 
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

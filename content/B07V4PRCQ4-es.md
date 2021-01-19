@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514XUD128IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4PRCQ4-es WinArrow Cabezal Ducha Filtro  Vitamina C Iones KDF55 Alcachofa Ducha Filtro Elimina Cloro y Flúor  Suaviza el Agua con Panel Microporoso 304 Inox de 80mm 200% de Alta Presión y 40% de Ahorro Agua'
+slug: 'B07V4PRCQ4-es WinArrow Cabezal Ducha Filtro Vitamina C Iones KDF55...'
+tags: 
 actualPrice: 32.27 EUR
 currency: EUR
 price: 32.27

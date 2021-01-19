@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iFs7yp8pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OG5SBOW-es Komono Reloj Analógico de Cuarzo para Hombre con Correa de Acero Inoxidable – KOM-W2352'
+slug: 'B00OG5SBOW-es Komono Reloj Analógico de Cuarzo para Hombre con Correa de...'
+tags: 
 actualPrice: 62.7 EUR
 currency: EUR
 price: 62.7

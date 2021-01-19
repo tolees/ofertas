@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-RBybx4aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001WAKQF6-es Skagen Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable 358XSSLBC'
+slug: 'B001WAKQF6-es Skagen Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

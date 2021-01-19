@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kjVbZ4fhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086MCPNBT-es Oihxse Funda para OPPO Realme 3/Realme 3i Transparente  Estuche con OPPO Realme 3/Realme 3i Ultra-Delgado Silicona TPU Suave Protectora Carcasa Océano Animal Serie Bumper  C1 '
+slug: 'B086MCPNBT-es Oihxse Funda para OPPO Realme 3/Realme 3i Transparente...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

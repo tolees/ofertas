@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V83DT5D-es Halloween Tatuajes Temporales Halloween Zombie Tattoo  3 Grande +6 Pequeño 75 Estilos Horror Cicatrices Heridas Tatuajes Pegatinas  Realista Horror Tatuaje temporal  Maquillaje Halloween Hombre Mujer'
+slug: 'B07V83DT5D-es Halloween Tatuajes Temporales Halloween Zombie Tattoo 3...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

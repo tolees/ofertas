@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JJ2+HHcxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0867T5JXH-es lámpara de mesa  juego de 2 lámparas de noche Lámpara de mesa pequeña para dormitorio  oficina  habitación infantil con base de metal mini y pantalla de tela de lino'
+slug: 'B0867T5JXH-es lámpara de mesa juego de 2 lámparas de noche Lámpara de...'
+tags: 
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/513lO3BfSRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HF128KW-es UniqueMe [2 Pack] Protector de Pantalla para Huawei Mate 20 Lite  9H Dureza Vidrio Templado [Garantía de por Vida] - Balu'
+slug: 'B07HF128KW-es UniqueMe [2 Pack] Protector de Pantalla para Huawei Mate...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

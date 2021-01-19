@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51r+3j6XnzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZ4CM4R-es Bolsa de Dulces de Dinosaurio，KATOOM，24pcs，Bolsa de Regalo de Papel，Pegatina Dinosaurio Decoración de Día Carnaval  las Fallas Cumpleaños para Niños Baby Shower  Pasteles de Almacenamiento Pasteles'
+slug: 'B07XZ4CM4R-es Bolsa de Dulces de Dinosaurio，KATOOM，24pcs，Bolsa de Regalo...'
+tags: 
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

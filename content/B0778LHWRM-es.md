@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SnKj4pulL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0778LHWRM-es WAVLINK Tipo-A USB 3.0 a 4 Puertos de USB 3.0 Hub Alta Velocidad Soporta Hot Swapping Diseño de Aluminio  Azul '
+slug: 'B0778LHWRM-es WAVLINK Tipo-A USB 3.0 a 4 Puertos de USB 3.0 Hub Alta...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

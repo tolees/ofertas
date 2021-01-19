@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rvgwpRkeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KMZZJWC-es MICHELIN 9519 Compresor de aire portatil programable  12 V'
+slug: 'B00KMZZJWC-es MICHELIN 9519 Compresor de aire portatil programable 12 V'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

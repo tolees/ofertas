@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vc3Cx2R2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085BLSJLR-es YIMINYUER Colchonetas de Espuma para Yoga Gimnasio - Diferentes tamaños - Diferente Grosor - Estilos Variados Blanco Naranja Azul R01R02R07G301020'
+slug: 'B085BLSJLR-es YIMINYUER Colchonetas de Espuma para Yoga Gimnasio -...'
+tags: 
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

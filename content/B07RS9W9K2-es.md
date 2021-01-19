@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jmEISMmNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS9W9K2-es DaMei Anillo Plata Pareja Personalizados Pare Mujer Hombre Compromiso Acero Inoxidable Joyeria Mujer Grabado Personalizado Regalo Novia BFF Boda Aniversario  14 5 '
+slug: 'B07RS9W9K2-es DaMei Anillo Plata Pareja Personalizados Pare Mujer Hombre...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

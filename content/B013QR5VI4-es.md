@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X86bqPbgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013QR5VI4-es Tamron AF 18-200 mm F/3.5-6.3 XR Di II - Objetivo para cámara Sony Alpha DSLR  A-Mount   distancia focal 18-200 mm  apertura f/3.5-6.3  diámetro filtro: 62mm   color negro'
+slug: 'B013QR5VI4-es Tamron AF 18-200 mm F/3.5-6.3 XR Di II - Objetivo para...'
+tags: 
 actualPrice: 139.97 EUR
 currency: EUR
 price: 139.97

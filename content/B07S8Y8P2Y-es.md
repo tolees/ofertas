@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411agNQLdfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8Y8P2Y-es Helly Hansen HH Wash Bag 2 Neceser  Unisex Adulto  Cherry Tomato/Ebony  STD'
+slug: 'B07S8Y8P2Y-es Helly Hansen HH Wash Bag 2 Neceser Unisex Adulto Cherry...'
+tags: 
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

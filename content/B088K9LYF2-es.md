@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51euuLxtA0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088K9LYF2-es Repelente Ultrasónico Mosquitos Repelente Ultrasónico de Plagas Repelente Ultrasónico Control de Plagas para Cucarachas  Mosquitos  Moscas  Arañas  Hormigas  Ratas y Ratones 4 Pack'
+slug: 'B088K9LYF2-es Repelente Ultrasónico Mosquitos Repelente Ultrasónico de...'
+tags: 
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

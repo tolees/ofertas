@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41my10dYYdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0861WNKC8-es LG gram 15Z90N-V-AP72B - Ordenador portátil ultraligero de 15.6" FullHD IPS  Intel Core i7-1065G7  8GB RAM  256GB SSD  Windows 10 Pro  Plata - Teclado QWERTY Español'
+slug: 'B0861WNKC8-es LG gram 15Z90N-V-AP72B - Ordenador portátil ultraligero de...'
+tags: 
 actualPrice: 959.2 EUR
 currency: EUR
 price: 959.2

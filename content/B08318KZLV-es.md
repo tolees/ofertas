@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R5maLkvvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08318KZLV-es Funda De Silicona Masculino Extendido Juguetes ḔxtêṈṧióṈ Dêl ḔxtêṈṧôr Dêl PêṈê PêṈê Ḁmpliḁdôrêṧ ḾḁṈgḁṧ Cùbiêrtḁ PêṈiṧêxtêṈdêrṧ Pḁrḁ PêṈiṧêxtêṈdêrṧ 9 Pùlgḁdḁṧ Bômbḁ Pḁrḁ Hômbrêṧ Cḁmillḁ'
+slug: 'B08318KZLV-es Funda De Silicona Masculino Extendido Juguetes ḔxtêṈṧióṈ...'
+tags: 
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

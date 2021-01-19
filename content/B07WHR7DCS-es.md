@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L06bbN+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHR7DCS-es SELECTED FEMME Slfanna LS X-mas Knit O-Neck B suéter  Multicolor  Lemon Curry Lemon Curry   42  Talla del Fabricante: Large  para Mujer'
+slug: 'B07WHR7DCS-es SELECTED FEMME Slfanna LS X-mas Knit O-Neck B suéter...'
+tags: 
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

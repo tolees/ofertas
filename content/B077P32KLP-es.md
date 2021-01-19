@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jKz6QSmVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077P32KLP-es BaByliss ST500E - Plancha de pelo inteligente profesional con sensor digital para proteger el cabello  12 ajustes de temperatura de 180° C a 235° C  recubrimiento de cerámica  función iónica'
+slug: 'B077P32KLP-es BaByliss ST500E - Plancha de pelo inteligente profesional...'
+tags: 
 actualPrice: 68.9 EUR
 currency: EUR
 price: 68.9

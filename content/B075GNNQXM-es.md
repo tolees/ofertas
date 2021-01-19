@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314QIwoZbpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GNNQXM-es Falda de Tenis Skort Golf Mujer Niña Negra Pantalón Ropa Padel Running Corta Moda Deportivas Short XL'
+slug: 'B075GNNQXM-es Falda de Tenis Skort Golf Mujer Niña Negra Pantalón Ropa...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

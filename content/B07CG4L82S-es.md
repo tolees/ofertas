@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XTjzxshfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CG4L82S-es Filtro para Ducha Universal  AUELEK 10 Etapas Filtro Reemplazable Purificador Ducha de Alta Salida para Cuide su Piel Cabello y Cuerpo Salud'
+slug: 'B07CG4L82S-es Filtro para Ducha Universal AUELEK 10 Etapas Filtro...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

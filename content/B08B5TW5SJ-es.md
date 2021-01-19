@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yYo3al7WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5TW5SJ-es LCTXDY El diseño ergonómico le Brinda la sensación más cómoda-owo666'
+slug: 'B08B5TW5SJ-es LCTXDY El diseño ergonómico le Brinda la sensación más...'
+tags: 
 actualPrice: 26.43 EUR
 currency: EUR
 price: 26.43

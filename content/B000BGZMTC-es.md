@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o7I6x7poL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BGZMTC-es Hoya Pro1 Digital - Filtro de protección UV para Objetivo de 72 mm  Montura Negra'
+slug: 'B000BGZMTC-es Hoya Pro1 Digital - Filtro de protección UV para Objetivo...'
+tags: 
 actualPrice: 22.88 EUR
 currency: EUR
 price: 22.88

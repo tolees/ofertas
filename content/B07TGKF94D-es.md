@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zNylNVoHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TGKF94D-es find. Alto HS01 Mocasines  Azul  Navy Navy   39'
+slug: 'B07TGKF94D-es find. Alto HS01 Mocasines Azul Navy Navy 39'
+tags: 
 actualPrice: 31.34 EUR
 currency: EUR
 price: 31.34

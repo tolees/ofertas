@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/6165e2s+6rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086KZGGDM-es Toallas refrigerantes de toalla  toalla fría  toalla  juego de toallas de bambú  toalla de microfibra  toalla de playa  gimnasio  100 x 30 cm  Azul  púrpura  gris.  100x30cm'
+slug: 'B086KZGGDM-es Toallas refrigerantes de toalla toalla fría toalla juego...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

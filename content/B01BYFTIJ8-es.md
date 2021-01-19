@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZsUGltiOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BYFTIJ8-es S&R Disco Diamante 125 mm para corte de Porcelanico  Cerámica dura  Azulejos  Mármol  Granito  Piedra caliza y otros materiales duros. Calidad Profesional'
+slug: 'B01BYFTIJ8-es S&R Disco Diamante 125 mm para corte de Porcelanico...'
+tags: 
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

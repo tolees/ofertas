@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IjpdPn19L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGHTZQ9-es Pepe Jeans Callen Chino Archive Pm211266 Pantalones   Sailor 580   W31/L34  Talla del Fabricante: W31/Long  para Hombre'
+slug: 'B07JGHTZQ9-es Pepe Jeans Callen Chino Archive Pm211266 Pantalones Sailor...'
+tags: 
 actualPrice: 52.25 EUR
 currency: EUR
 price: 52.25

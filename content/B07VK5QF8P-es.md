@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A3TYgBTcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VK5QF8P-es Camisetas Tirantes Basicas para Mujer Verano LuckyGirls • • Tank Top Tirantes Fiesta Mujer Tallas Grandes Sin Manga Blusas Elegante Vestir Sexy Cuello V Vest'
+slug: 'B07VK5QF8P-es Camisetas Tirantes Basicas para Mujer Verano LuckyGirls •...'
+tags: 
 actualPrice: 4.21 EUR
 currency: EUR
 price: 4.21

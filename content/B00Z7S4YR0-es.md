@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vRcfFRZbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z7S4YR0-es Under Armour Gs Pace  Zapatillas de Running Unisex Adulto  Negro Black  38 EU  5 UK'
+slug: 'B00Z7S4YR0-es Under Armour Gs Pace Zapatillas de Running Unisex Adulto...'
+tags: 
 actualPrice: 15.07 EUR
 currency: EUR
 price: 15.07

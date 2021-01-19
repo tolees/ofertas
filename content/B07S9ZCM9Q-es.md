@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31idfbhzrkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9ZCM9Q-es adidas Powerlift 4  Zapatillas para Hombre  Core Black/Night Met./Signal Coral  42 EU'
+slug: 'B07S9ZCM9Q-es adidas Powerlift 4 Zapatillas para Hombre Core Black/Night...'
+tags: 
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

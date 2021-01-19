@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e+pvNEq2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0154O8DXC-es Daga Vendaje Térmico Muñeca - Neopreno  Calor y compresión  Autonomía 90 Min  Cargador'
+slug: 'B0154O8DXC-es Daga Vendaje Térmico Muñeca - Neopreno Calor y compresión...'
+tags: 
 actualPrice: 23.37 EUR
 currency: EUR
 price: 23.37

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dQdnuQdsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0851FQFVL-es Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos Bluetooth Headphone Deportivos Estéreo con Mic y Cancelación de Ruido Caja de Carga - Auriculares Compatible con iPhone Airpods/Samsung'
+slug: 'B0851FQFVL-es Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos...'
+tags: 
 actualPrice: 11.93 EUR
 currency: EUR
 price: 11.93

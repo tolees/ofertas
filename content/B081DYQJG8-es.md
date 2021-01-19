@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IFrszNbYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DYQJG8-es Yocktec Funda+Protector de Pantalla de la Cámara para Xiaomi Mi Note 10/CC9 Pro  9H Templado cámara Trasera  Funda Transparente teléfono Soft TPU Funda para Mi Note 10'
+slug: 'B081DYQJG8-es Yocktec Funda+Protector de Pantalla de la Cámara para...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

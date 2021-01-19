@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rgfL-D-gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK4WWKP-es Levi s Graphic Po Hoodie-B suéter  Gris  Hm Pop Oscuro Mid Tone Heather Grey 0037   X-Small para Hombre'
+slug: 'B07DK4WWKP-es Levi s Graphic Po Hoodie-B suéter Gris Hm Pop Oscuro Mid...'
+tags: 
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

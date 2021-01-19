@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FsmXSui0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VXC99LK-es G-STAR RAW 3301 Straight Classic Jeans  Azul  Dk Aged 4639-89   28W / 34L para Hombre'
+slug: 'B00VXC99LK-es G-STAR RAW 3301 Straight Classic Jeans Azul Dk Aged...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

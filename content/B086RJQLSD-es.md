@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VFmW1PCQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086RJQLSD-es Equipaje  Maletas y Bolsas de Viaje - Premium Designer Maleta Rígida Set 3 Piezas - Heys Crown Superlite Gris Equipaje de Mano + Trolley con 4 Ruedas Media + Trolley con 4 Ruedas Grande'
+slug: 'B086RJQLSD-es Equipaje Maletas y Bolsas de Viaje - Premium Designer...'
+tags: 
 actualPrice: 714.91 EUR
 currency: EUR
 price: 714.91

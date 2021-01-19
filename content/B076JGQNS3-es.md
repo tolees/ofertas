@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412ThimFlKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076JGQNS3-es adidas Trefoil T-Shirt T-Shirt  Hombre  White  M'
+slug: 'B076JGQNS3-es adidas Trefoil T-Shirt T-Shirt Hombre White M'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xleIlZUyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHTB4L5-es Lacoste Carnaby EVO Light-WT 1193 SFA  Zapatillas para Mujer  Blanco  Wht/Slv 108   36 EU'
+slug: 'B07DHTB4L5-es Lacoste Carnaby EVO Light-WT 1193 SFA Zapatillas para...'
+tags: 
 actualPrice: 56.7 EUR
 currency: EUR
 price: 56.7

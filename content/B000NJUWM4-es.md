@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519HPoVjTIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NJUWM4-es Fellowes 53062  Pack de 100 fundas para plastificar  brillo formato A3  80 micras  surtido: modelos aleatorios'
+slug: 'B000NJUWM4-es Fellowes 53062 Pack de 100 fundas para plastificar brillo...'
+tags: 
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

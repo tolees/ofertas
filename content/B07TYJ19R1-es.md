@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yyZ5wZ+oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYJ19R1-es Mini Camara Espia Oculta Video Cámara  FREDI 1080P HD Cámara Portátil Interior/Camaras de Seguridad Pequeña Interior/Exterior/IR Visión Nocturna'
+slug: 'B07TYJ19R1-es Mini Camara Espia Oculta Video Cámara FREDI 1080P HD...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

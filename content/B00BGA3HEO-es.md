@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R0aFNgE-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BGA3HEO-es Coleman 48 Qt Nevera Rígida  Unisex  Azul  M'
+slug: 'B00BGA3HEO-es Coleman 48 Qt Nevera Rígida Unisex Azul M'
+tags: 
 actualPrice: 52.45 EUR
 currency: EUR
 price: 52.45

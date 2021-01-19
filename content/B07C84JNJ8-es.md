@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C84JNJ8-es Mr. Wonderful WOA09211EM - Organizador de oficina'
+tags: 
 actualPrice: 13.17 EUR
 currency: EUR
 price: 13.17

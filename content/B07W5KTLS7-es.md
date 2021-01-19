@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JqhGIU8oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5KTLS7-es WERNNSAI Unicornio Manta de Hito Bebé - 150 x 100 cm Manta de Fotografía de Vellón Semanal Mensual Niñas Bebé Recién Nacido Regalo de cumpleaños Baby Shower'
+slug: 'B07W5KTLS7-es WERNNSAI Unicornio Manta de Hito Bebé - 150 x 100 cm Manta...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

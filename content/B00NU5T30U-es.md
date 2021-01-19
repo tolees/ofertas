@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uXETxpp8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NU5T30U-es Polly Super Conjunto para el supermercado Infantil Espana 31 Pc'
+slug: 'B00NU5T30U-es Polly Super Conjunto para el supermercado Infantil Espana...'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

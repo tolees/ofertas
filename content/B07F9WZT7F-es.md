@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lw0UDqveL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9WZT7F-es Oriware Adhesivo Estantes Cesta para Ducha Estanteria Organizador Baño SUS304 Acero Inoxidable Sin Taladro - 3 Piezas'
+slug: 'B07F9WZT7F-es Oriware Adhesivo Estantes Cesta para Ducha Estanteria...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

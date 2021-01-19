@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51YWjcZcVsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G3XR8LM-es Baby Jogger City Mini Gemelar - Silla de paseo  color rojo/gris'
+slug: 'B00G3XR8LM-es Baby Jogger City Mini Gemelar - Silla de paseo color...'
+tags: 
 actualPrice: 359 EUR
 currency: EUR
 price: 359

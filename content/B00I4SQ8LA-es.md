@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kfcX1uUTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I4SQ8LA-es Lavacabezas hinchable con tubo de drenaje  Blanco  Mobiclinic'
+slug: 'B00I4SQ8LA-es Lavacabezas hinchable con tubo de drenaje Blanco Mobiclinic'
+tags: 
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

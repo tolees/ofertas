@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hTthdlkWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3VZKKT-es Desigual Belts Indian Pasley Cinturón  Negro  NEGRO 2000   90 para Mujer'
+slug: 'B07N3VZKKT-es Desigual Belts Indian Pasley Cinturón Negro NEGRO 2000 90...'
+tags: 
 actualPrice: 15.94 EUR
 currency: EUR
 price: 15.94

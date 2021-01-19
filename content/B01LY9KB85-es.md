@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51i5a2HlOQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY9KB85-es Amzdeal Incubadora Digital 9/12 de Polluelo Huevos Incubadora Automática Control De Temperatura para Aves de Corral'
+slug: 'B01LY9KB85-es Amzdeal Incubadora Digital 9/12 de Polluelo Huevos...'
+tags: 
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

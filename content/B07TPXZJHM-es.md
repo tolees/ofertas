@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410hqGBo3yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPXZJHM-es Clarks Jillian Rise  Sandalia con Pulsera para Mujer  Azul  Blush Leather Blush Leather   42 EU'
+slug: 'B07TPXZJHM-es Clarks Jillian Rise Sandalia con Pulsera para Mujer Azul...'
+tags: 
 actualPrice: 43.54 EUR
 currency: EUR
 price: 43.54

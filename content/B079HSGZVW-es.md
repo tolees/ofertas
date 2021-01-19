@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317xjd123QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079HSGZVW-es Bestron Refrigerador/Purificador móvil con Mando a Distancia  Uso continuo hasta 20h  70 W  Negro'
+slug: 'B079HSGZVW-es Bestron Refrigerador/Purificador móvil con Mando a...'
+tags: 
 actualPrice: 34.55 EUR
 currency: EUR
 price: 34.55

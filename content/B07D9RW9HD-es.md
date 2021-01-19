@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IQ5beZJfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9RW9HD-es adidas Caflaire Zapatillas Hombre  Negro  Core Black/Core Black/Ftwr White   41 1/3 EU'
+slug: 'B07D9RW9HD-es adidas Caflaire Zapatillas Hombre Negro Core Black/Core...'
+tags: 
 actualPrice: 35.29 EUR
 currency: EUR
 price: 35.29

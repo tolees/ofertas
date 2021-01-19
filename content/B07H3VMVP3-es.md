@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ai9iMFvML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3VMVP3-es Coolbell Bolsa de mensajero convertible multifuncional para laptop de 17.3 pulgadas 17.3 pulgadas Gris oscuro'
+slug: 'B07H3VMVP3-es Coolbell Bolsa de mensajero convertible multifuncional...'
+tags: 
 actualPrice: 37.91 EUR
 currency: EUR
 price: 37.91

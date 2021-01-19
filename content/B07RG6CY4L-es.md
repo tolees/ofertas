@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HFQSX9g3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RG6CY4L-es Tea Tree Essential Oil 100% puro y natural grado terapéutico: el mejor paquete de regalo para hombres y mujeres 120ml  4 oz '
+slug: 'B07RG6CY4L-es Tea Tree Essential Oil 100% puro y natural grado...'
+tags: 
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

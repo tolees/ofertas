@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C7WqYpOBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XACWNLY-es Durex Preservativos Saboreame con Sabores Afrutados - 12 Condones'
+slug: 'B00XACWNLY-es Durex Preservativos Saboreame con Sabores Afrutados - 12...'
+tags: 
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

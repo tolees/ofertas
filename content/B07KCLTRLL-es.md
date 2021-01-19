@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CIefM9S5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCLTRLL-es ETEREAUTY Rosa de Oro de 24 Quilates para Siempre  Rosa chapada en Oro Eterno con Exquisito Titular y Tarjeta de Regalo  Regalo de Mujer para el día de la Madre  Aniversario  cumpleaños'
+slug: 'B07KCLTRLL-es ETEREAUTY Rosa de Oro de 24 Quilates para Siempre Rosa...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

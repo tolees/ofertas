@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/518gCrIQmcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFP9G21-es Woo Well Bolsas de vegetales reutilizables de algodón bolsas de frutas y vegetales  bolsas de malla transpirables  hermosas bolsas de algodón natural 6 piezas - 2x S  2x M  2x L'
+slug: 'B07FFP9G21-es Woo Well Bolsas de vegetales reutilizables de algodón...'
+tags: 
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

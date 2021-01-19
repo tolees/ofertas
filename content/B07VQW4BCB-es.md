@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JpBUEIi2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQW4BCB-es Tommy Hilfiger Tjw Tommy Classics Polo  Blanco  White Ybr   36  Talla del Fabricante: Small  para Mujer'
+slug: 'B07VQW4BCB-es Tommy Hilfiger Tjw Tommy Classics Polo Blanco White Ybr 36...'
+tags: 
 actualPrice: 17.28 EUR
 currency: EUR
 price: 17.28

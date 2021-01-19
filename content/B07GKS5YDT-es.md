@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TDhSan8DL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKS5YDT-es BlueXP4 Pieza Ámbar Botellas 10ml 20ml Marrón Boston de Botellas de Cristal y Pipeta para Aromaterapia Aceites Esenciales y Perfume Medicina Líquidos'
+slug: 'B07GKS5YDT-es BlueXP4 Pieza Ámbar Botellas 10ml 20ml Marrón Boston de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

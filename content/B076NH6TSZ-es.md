@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31buHi2ea6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076NH6TSZ-es Fellowes - Platinum Series - Soporte De Monitor Individual con Brazo Flexible Ajustable para Colocar La Pantalla A La Altura Adecuada  Compatible con Vesa  Negro'
+slug: 'B076NH6TSZ-es Fellowes - Platinum Series - Soporte De Monitor Individual...'
+tags: 
 actualPrice: 95.1 EUR
 currency: EUR
 price: 95.1

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YIajbosFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001HRY7YK-es Converse 015860_Blanc optical - Zapatillas de tela para niños  color blanco  talla 33'
+slug: 'B001HRY7YK-es Converse 015860_Blanc optical - Zapatillas de tela para...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

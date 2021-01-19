@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yi7c%2BPCnL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJX92J-es Napapijri Eils SS Polo  Verde  Green Forest 2 GE3   Large para Hombre'
+slug: 'B07MVJX92J-es Napapijri Eils SS Polo Verde Green Forest 2 GE3 Large para...'
+tags: 
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

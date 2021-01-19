@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JF4YFJY-es Satisfyer Estimulador de Clítoris Pro 2 Vibration - 1 Unidad'
+tags: 
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

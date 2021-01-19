@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iBmZCFuRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQRDGXV-es Hangsun Irrigador Bucal Portátil de 300ml Irrigador Dental Profesional IPX7 Impermeable con 4 Boquillas y 3 Modos de Limpieza'
+slug: 'B07VQRDGXV-es Hangsun Irrigador Bucal Portátil de 300ml Irrigador Dental...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

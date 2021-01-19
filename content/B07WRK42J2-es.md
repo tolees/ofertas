@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wrx-K88CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRK42J2-es Black Shark 2 8GB+128GB Azul con Switch Kit  Black Shark Soporte Original Gamepad 2.0 + Mandos de Gamepad Versiones Izquierda/Derecha  Dual SIM  Snapdragon 855  Nuevo  Móvil  Teléfono de Juego'
+slug: 'B07WRK42J2-es Black Shark 2 8GB+128GB Azul con Switch Kit Black Shark...'
+tags: 
 actualPrice: 425.0 EUR
 currency: EUR
 price: 425.0

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AVG4GU2-es Master Series Caña Espada de Energía Eléctrico - 1 Unidad'
+tags: 
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

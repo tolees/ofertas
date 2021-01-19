@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vGvBLNxiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M87QYN9-es REPLAY ReplayFu3062.000.a0021bUnisex adultoMochilasNegro  Black  14x41x30 centimeters  B x H x T '
+slug: 'B07M87QYN9-es REPLAY ReplayFu3062.000.a0021bUnisex adultoMochilasNegro...'
+tags: 
 actualPrice: 43.61 EUR
 currency: EUR
 price: 43.61

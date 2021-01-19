@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41va+xWIYcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ93FV4-es Under Armour Armour Heatgear Legging Leggings  Niños  Negro  Black/Pitch Gray 001   L'
+slug: 'B07CZ93FV4-es Under Armour Armour Heatgear Legging Leggings Niños Negro...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PVET4OSBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H3BROXU-es Rimmel London Stay Matte Base de Maquillaje Tono 300 Sand - 41 545 gr'
+slug: 'B00H3BROXU-es Rimmel London Stay Matte Base de Maquillaje Tono 300 Sand...'
+tags: 
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

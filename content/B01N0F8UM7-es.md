@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qOY8AFsXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0F8UM7-es MONTEMAGGI - Mueble de planchado con tabla y 3 cestas de mimbre. De 54 x 36 x 86 cm'
+slug: 'B01N0F8UM7-es MONTEMAGGI - Mueble de planchado con tabla y 3 cestas de...'
+tags: 
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

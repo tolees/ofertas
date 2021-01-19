@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HDpS-kb0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTHNN5T-es WSTOO Máscara de Snorkel Máscara de Buceo Plegable 180 Vista panorámica para Adultos y niños'
+slug: 'B07QTHNN5T-es WSTOO Máscara de Snorkel Máscara de Buceo Plegable 180...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

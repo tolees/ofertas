@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLSZ337-es SPECIAL MAGIC - Pantalón Deportivo - para Mujer Gris Gris S'
+tags: 
 actualPrice: 18.09 EUR
 currency: EUR
 price: 18.09

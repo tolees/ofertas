@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CPGeLoXOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KOC3QIG-es Beurer MP 55 Máquina para Callos Recargable  Eliminador de Durezas  Blanco  Rosa  16 8 x 7 3 x 5 0 cm'
+slug: 'B01KOC3QIG-es Beurer MP 55 Máquina para Callos Recargable Eliminador de...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

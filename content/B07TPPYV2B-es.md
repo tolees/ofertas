@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IE4+Um2iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPPYV2B-es Levi s XX Std II Pantalones  Beige  True Chino Shady GD Ccu B 0011   W31/L34  Talla del Fabricante: 31 34  para Hombre'
+slug: 'B07TPPYV2B-es Levi s XX Std II Pantalones Beige True Chino Shady GD Ccu...'
+tags: 
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

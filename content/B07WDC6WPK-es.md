@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51POKqFiDML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDC6WPK-es Medidor pH  Digital Medidor TDS de Prueba PH Medidor TDS/PH/CE Temperatura 4 en 1 Set'
+slug: 'B07WDC6WPK-es Medidor pH Digital Medidor TDS de Prueba PH Medidor...'
+tags: 
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UXojIQJVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NLYX42-es RioRiva En caja de regalo  los calcetines para hombre con pedrería en 90% algodón  bonito diseño en la pantorrilla  estilo colorido  6 Pares -Calcetines argyle hombres coloridos  XL: EU 47-50 '
+slug: 'B082NLYX42-es RioRiva En caja de regalo los calcetines para hombre con...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

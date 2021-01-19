@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uL559HO9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J37RVPQ-es Under Armour Playoff 2.0 Polo  Hombre  Morado  Optic Purple/Pitch Gray 665   M'
+slug: 'B07J37RVPQ-es Under Armour Playoff 2.0 Polo Hombre Morado Optic...'
+tags: 
 actualPrice: 18.59 EUR
 currency: EUR
 price: 18.59

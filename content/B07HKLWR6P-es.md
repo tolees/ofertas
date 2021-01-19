@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wAjh3D+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKLWR6P-es Vitamina E Natural 400 UI | 200 perlas   Más de 6 meses de suministro  | Potente antioxidante que protege las células del estrés oxidativo  mejora el sistema inmune y favorece la salud cardiovascular.'
+slug: 'B07HKLWR6P-es Vitamina E Natural 400 UI | 200 perlas Más de 6 meses de...'
+tags: 
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

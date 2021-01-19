@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GTYB38-es Asalvo 15549 - Andador'
+tags: 
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EH44pYPFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQXCZDS-es Helly Hansen KOS Polo  Hombre  Rojo  Rojo 147   L'
+slug: 'B07KQXCZDS-es Helly Hansen KOS Polo Hombre Rojo Rojo 147 L'
+tags: 
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

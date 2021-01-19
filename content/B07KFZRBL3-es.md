@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-TU1n-VpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZRBL3-es PUMA Future 4.3 Netfit FG/AG  Botas de fútbol para Hombre  Glacial Blue-Nrgy Red  44 EU'
+slug: 'B07KFZRBL3-es PUMA Future 4.3 Netfit FG/AG Botas de fútbol para Hombre...'
+tags: 
 actualPrice: 47.49 EUR
 currency: EUR
 price: 47.49

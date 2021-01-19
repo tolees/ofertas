@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+Ss7Y8T-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LA138KC-es Calvin Klein 0000F3785E  Sujetador Deportivo para Mujer  Blanco  White 100   S'
+slug: 'B00LA138KC-es Calvin Klein 0000F3785E Sujetador Deportivo para Mujer...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

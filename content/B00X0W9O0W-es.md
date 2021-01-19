@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RtDxWPc-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X0W9O0W-es Tommy Hilfiger Johnson Mini CC Wallet  Cartera Hombre^Mujer  Black  OS'
+slug: 'B00X0W9O0W-es Tommy Hilfiger Johnson Mini CC Wallet Cartera Hombre^Mujer...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

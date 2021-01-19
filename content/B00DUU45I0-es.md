@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61OD-K2sUkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DUU45I0-es TRIXIE 2 Botas Protectoras Walker Active  Extra  XL  Negro  Perro'
+slug: 'B00DUU45I0-es TRIXIE 2 Botas Protectoras Walker Active Extra XL Negro Perro'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

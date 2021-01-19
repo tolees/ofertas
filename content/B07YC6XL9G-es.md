@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A1a4YpkoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YC6XL9G-es MISKQ Funda giratoria Universal para teléfono de 360 Grados  Paquete de la Cintura para: Xiaomi Redmi Note 8 Pro/Note 8/Xiaomi Mi 9/Mi 9 Pro 5G etc. teléfono móvil Xiaomi - 6.3" Negro '
+slug: 'B07YC6XL9G-es MISKQ Funda giratoria Universal para teléfono de 360...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

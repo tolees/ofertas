@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wJndhr9CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC45S1F-es Pioneer DJ HDJ-X5BT-W Auriculares Bluetooth  Blanco'
+slug: 'B07JC45S1F-es Pioneer DJ HDJ-X5BT-W Auriculares Bluetooth Blanco'
+tags: 
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

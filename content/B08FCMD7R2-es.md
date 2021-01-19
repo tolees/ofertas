@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51llWjNfSmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FCMD7R2-es Auriculares Bluetooth Auriculares inalámbricos Bluetooth5.0 In-Ear Mini Auriculares Auriculares emparejamiento automático emergente para Auriculares/Samsung/Huawei Xiaomi'
+slug: 'B08FCMD7R2-es Auriculares Bluetooth Auriculares inalámbricos...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

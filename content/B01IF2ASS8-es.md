@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n+uD7krfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IF2ASS8-es Dispensador de Formula  Kidsmile apilable On-the-Go BPA del dispensador de leche en polvo y almacenamiento de contenedores de aperitivos - no hay fugas en polvo'
+slug: 'B01IF2ASS8-es Dispensador de Formula Kidsmile apilable On-the-Go BPA del...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

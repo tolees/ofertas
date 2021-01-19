@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aVKUZLMlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBP4RTF-es Under Armour UA W Ripple 2.0 NM1  Zapatillas de Running para Mujer  Rosa  Hushed Pink/Dash Pink/Hushed Pink   40.5 EU'
+slug: 'B07SBP4RTF-es Under Armour UA W Ripple 2.0 NM1 Zapatillas de Running...'
+tags: 
 actualPrice: 39.01 EUR
 currency: EUR
 price: 39.01

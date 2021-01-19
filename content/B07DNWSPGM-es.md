@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNWSPGM-es Bennigiry - Shorts - para Mujer Multicolor Medium'
+tags: 
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NThQ-qMBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PWYQHC-es Skechers Skech Appeal 2.0-Bold Move  Zapatillas para Niñas  Negro  Black/Rose Gold   33.5 EU'
+slug: 'B074PWYQHC-es Skechers Skech Appeal 2.0-Bold Move Zapatillas para Niñas...'
+tags: 
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

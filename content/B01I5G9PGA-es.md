@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MhFyPtqRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I5G9PGA-es adidas Real Wallet Cartera  Unisex Adulto  Negro/Blanco  Talla Única'
+slug: 'B01I5G9PGA-es adidas Real Wallet Cartera Unisex Adulto Negro/Blanco...'
+tags: 
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

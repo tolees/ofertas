@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517CqPdqPeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2TZ6X4-es COMLIFE Mini Ventilador USB de Mano Portátil Batería Recargable para Oficina  Hogar  Viajes  Ejercicio al Aire Libre  etc.  HF318 '
+slug: 'B07F2TZ6X4-es COMLIFE Mini Ventilador USB de Mano Portátil Batería...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

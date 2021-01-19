@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z5gu55IaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6CERTE-es Medisana MCN Pro Funda de asiento de masaje Shiatsu  asiento de masaje con vibración  desconexión automática  masaje de cuello regulable  3 intensidades  con función de calentamiento'
+slug: 'B01N6CERTE-es Medisana MCN Pro Funda de asiento de masaje Shiatsu...'
+tags: 
 actualPrice: 126.08 EUR
 currency: EUR
 price: 126.08

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eQSORfNxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014JWTHLM-es Lancaster 365 Skin Repair Serum Youth Renewal Tratamiento Facial - 30 ml'
+slug: 'B014JWTHLM-es Lancaster 365 Skin Repair Serum Youth Renewal Tratamiento...'
+tags: 
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

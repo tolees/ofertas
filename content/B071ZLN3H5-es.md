@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eL7TUTnJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZLN3H5-es Motorola Moto E4 - Smartphone Libre de 5" HD  2.800 mAh de batería  cámara de 8 MP  2 GB de RAM + 16 GB de Almacenamiento  procesador Quad-Core de 1.3 GHz  Color Dorado'
+slug: 'B071ZLN3H5-es Motorola Moto E4 - Smartphone Libre de 5" HD 2.800 mAh de...'
+tags: 
 actualPrice: 95.0 EUR
 currency: EUR
 price: 95.0

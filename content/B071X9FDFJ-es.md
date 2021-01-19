@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PTuzBW0UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071X9FDFJ-es Palette Intense Cream Coloration Intensive Coloración del Cabello 8.1 Rubio Claro Ceniza - Pack de 3'
+slug: 'B071X9FDFJ-es Palette Intense Cream Coloration Intensive Coloración del...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L1Hvr6JQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK2JXVP-es Levi s Woodward  Zapatillas para Hombre  Marrón  Medium Brown 27   43 EU'
+slug: 'B07SK2JXVP-es Levi s Woodward Zapatillas para Hombre Marrón Medium Brown...'
+tags: 
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

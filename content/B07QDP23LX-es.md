@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ckDyRrSVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDP23LX-es Funko Pop Figura De Vinil TV: Mad Men-Roger Coleccionable  Multicolor  Talla única  43406 '
+slug: 'B07QDP23LX-es Funko Pop Figura De Vinil TV: Mad Men-Roger Coleccionable...'
+tags: 
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

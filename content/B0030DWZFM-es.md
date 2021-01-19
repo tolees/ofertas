@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31++UxYXMKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0030DWZFM-es Rubies Buzz Lightyear Toy Story  Classic  Costume - Child s Fancy Dress - Medium  disfraz '
+slug: 'B0030DWZFM-es Rubies Buzz Lightyear Toy Story Classic Costume - Child s...'
+tags: 
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

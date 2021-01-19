@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21sp+pY4JKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJGVYBJ-es Brabantia Tasty + Pincel repostería de silicona  color fir green'
+slug: 'B07NJGVYBJ-es Brabantia Tasty + Pincel repostería de silicona color fir...'
+tags: 
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

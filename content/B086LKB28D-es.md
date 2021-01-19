@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510emlDHedL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086LKB28D-es Fundas Amazon Kindle 2019 10ma Generación Flip Pintado Carcasa Cuero PC 360° Proteccion Ultra-Delgado Magnética Automático Despertar o Dormir Función Estuche para Kindle 2019  Patrón 03 '
+slug: 'B086LKB28D-es Fundas Amazon Kindle 2019 10ma Generación Flip Pintado...'
+tags: 
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

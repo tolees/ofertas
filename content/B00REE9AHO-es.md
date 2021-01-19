@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jnsplskEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00REE9AHO-es Piquadro BV3148OS/G Trolley para portátiles  38 x 21 x 53 cm  color Amarillo'
+slug: 'B00REE9AHO-es Piquadro BV3148OS/G Trolley para portátiles 38 x 21 x 53...'
+tags: 
 actualPrice: 214.82 EUR
 currency: EUR
 price: 214.82

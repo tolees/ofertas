@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rv3fAQC7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078MQ4VXJ-es Adidas Nizza  Zapatillas para Hombre  Negro  Core Black/Footwear White/Footwear White 0   44 2/3 EU'
+slug: 'B078MQ4VXJ-es Adidas Nizza Zapatillas para Hombre Negro Core...'
+tags: 
 actualPrice: 40.48 EUR
 currency: EUR
 price: 40.48

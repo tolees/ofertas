@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417yz6+TnJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SWQXYY8-es Campingaz Nevera Portatil Icetime Plus  Caja Térmica  Nevera Para Camping  Playa y Picnic  30 L'
+slug: 'B00SWQXYY8-es Campingaz Nevera Portatil Icetime Plus Caja Térmica Nevera...'
+tags: 
 actualPrice: 23.05 EUR
 currency: EUR
 price: 23.05

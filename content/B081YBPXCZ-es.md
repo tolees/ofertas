@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZdC5LbQTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081YBPXCZ-es Luces solares Luces con sensor de movimiento solar para exteriores  [42 LED / 3 Modos ] SEZAC Luces de seguridad inalámbricas a prueba de agua para el garaje del jardín Camino  paquete de 10 '
+slug: 'B081YBPXCZ-es Luces solares Luces con sensor de movimiento solar para...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

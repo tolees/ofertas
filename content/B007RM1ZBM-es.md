@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uKhEgWbNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007RM1ZBM-es Grohe Concetto - Grifo de lavabo mural 1/2"Tamaño S  color cromo  Ref.19575001 '
+slug: 'B007RM1ZBM-es Grohe Concetto - Grifo de lavabo mural 1/2"Tamaño S color...'
+tags: 
 actualPrice: 120.99 EUR
 currency: EUR
 price: 120.99

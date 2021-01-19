@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dn5cm0gcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BNAOV5Q-es ESTÉE LAUDER  CP+R Lifting Serum para Arrugas  30 ml'
+slug: 'B00BNAOV5Q-es ESTÉE LAUDER CP+R Lifting Serum para Arrugas 30 ml'
+tags: 
 actualPrice: 52.95 EUR
 currency: EUR
 price: 52.95

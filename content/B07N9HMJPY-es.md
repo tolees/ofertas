@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZcYIl5frL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N9HMJPY-es Philips Serie 7000 S7970/26 Máquina de afeitar  cuhillas confort para la piel sensible  uso en seco/húmedo  sistema SmartClean  50 min de batería  recortador de precisión y funda de viaje  gris/negro'
+slug: 'B07N9HMJPY-es Philips Serie 7000 S7970/26 Máquina de afeitar cuhillas...'
+tags: 
 actualPrice: 147.2 EUR
 currency: EUR
 price: 147.2

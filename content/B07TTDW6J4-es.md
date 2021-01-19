@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G+Uvt1RPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTDW6J4-es Gant Leisha  Zapatillas para Mujer  Amarillo  Light Yellow G301   40 EU'
+slug: 'B07TTDW6J4-es Gant Leisha Zapatillas para Mujer Amarillo Light Yellow...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

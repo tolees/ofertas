@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31kHp4YQvKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YDGGF6-es Cybex Gold Pallas S-Fix - Silla de coche 2 en 1  para coches con y sin Isofix  Grupo 1/2/3  9-36 kg   Desde los 9 meses hasta los 12 años aprox.  Colección Color 2018  Negri  Lavastone Black '
+slug: 'B077YDGGF6-es Cybex Gold Pallas S-Fix - Silla de coche 2 en 1 para...'
+tags: 
 actualPrice: 173.61 EUR
 currency: EUR
 price: 173.61

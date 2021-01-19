@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31o6ozg3qdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BTK95YC-es Razer Abyssus Essential - Gaming Raton  color negro'
+slug: 'B07BTK95YC-es Razer Abyssus Essential - Gaming Raton color negro'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

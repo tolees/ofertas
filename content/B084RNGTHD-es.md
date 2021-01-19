@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JFo++8U1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084RNGTHD-es Precioso lindo oso patrón de dibujos animados almohada recién nacido bebé soporte cojín almohadilla prevenir cabeza plana almohada de algodón para bebé - amarillo'
+slug: 'B084RNGTHD-es Precioso lindo oso patrón de dibujos animados almohada...'
+tags: 
 actualPrice: 1.66 EUR
 currency: EUR
 price: 1.66

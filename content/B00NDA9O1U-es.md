@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418RnEueUCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NDA9O1U-es Compex SP 6.0. - Electroestimulador  Negro  23 cm'
+slug: 'B00NDA9O1U-es Compex SP 6.0. - Electroestimulador Negro 23 cm'
+tags: 
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

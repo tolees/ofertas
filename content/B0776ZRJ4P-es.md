@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CmYx8vNzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776ZRJ4P-es Tommy Hilfiger Original Fine Pique Polo  Blanco  Classic White 100   Small para Hombre'
+slug: 'B0776ZRJ4P-es Tommy Hilfiger Original Fine Pique Polo Blanco Classic...'
+tags: 
 actualPrice: 27.73 EUR
 currency: EUR
 price: 27.73

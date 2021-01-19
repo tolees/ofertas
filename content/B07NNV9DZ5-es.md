@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q3xQjaIdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNV9DZ5-es Under Armour UA TriBase Thrive  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Versa Blue/Pitch Gray   46 EU'
+slug: 'B07NNV9DZ5-es Under Armour UA TriBase Thrive Zapatillas Deportivas para...'
+tags: 
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gHDc8qo6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2RNG8S-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable EL3041-87X'
+slug: 'B07H2RNG8S-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

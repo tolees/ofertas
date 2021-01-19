@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4189CgTTVsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H8LUN3M-es Under Armour Shinguard Sleeves Espinillera  Hombre  Negro  Black/High Vis Yellow 001   L'
+slug: 'B01H8LUN3M-es Under Armour Shinguard Sleeves Espinillera Hombre Negro...'
+tags: 
 actualPrice: 7.14 EUR
 currency: EUR
 price: 7.14

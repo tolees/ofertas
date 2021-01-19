@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IyrZ9fAIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4ATC05-es Kit Original de Tatuajes con Brillantina: Tatuajes temporales para niños y Adolescentes con 6 brillantinas Grandes y Plantillas Reutilizables'
+slug: 'B01N4ATC05-es Kit Original de Tatuajes con Brillantina: Tatuajes...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

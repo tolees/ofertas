@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k-ah-68YL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RBKA2EQ-es Stayer 1200D Aspirador de Ceniza  1200 W  230 V  Verde  0'
+slug: 'B00RBKA2EQ-es Stayer 1200D Aspirador de Ceniza 1200 W 230 V Verde 0'
+tags: 
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

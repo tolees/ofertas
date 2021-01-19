@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-F13XBIJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC1Z12G-es Hackett Army Polo  Beige  837chalk 837   L para Hombre'
+slug: 'B07VC1Z12G-es Hackett Army Polo Beige 837chalk 837 L para Hombre'
+tags: 
 actualPrice: 35.64 EUR
 currency: EUR
 price: 35.64

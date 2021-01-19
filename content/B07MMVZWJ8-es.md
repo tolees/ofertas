@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-SUcIicJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMVZWJ8-es Lee Scarlett Corduroy Pantalones  Rosa  Cameo Pink 94   29W / 33L para Mujer'
+slug: 'B07MMVZWJ8-es Lee Scarlett Corduroy Pantalones Rosa Cameo Pink 94 29W /...'
+tags: 
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

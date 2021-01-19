@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512QUJFXYtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AYZZP5U-es Audio-Technica ATH-ADG1X Auriculares  de Diadema  Micro Gaming  Color Negro'
+slug: 'B01AYZZP5U-es Audio-Technica ATH-ADG1X Auriculares de Diadema Micro...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

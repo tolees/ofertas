@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x1l3PekbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003AKXH7K-es AVENE Solar Crema con Color SPF-50  Naranja 50 ml'
+slug: 'B003AKXH7K-es AVENE Solar Crema con Color SPF-50 Naranja 50 ml'
+tags: 
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

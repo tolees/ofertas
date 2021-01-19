@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WmSgQpjzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBP3K57-es Under Armour Men s Remix 2.0 Laufschuhe  Zapatillas de Running para Hombre  Blanco  White/Versa Blue/Versa Blue  104  104   45 EU'
+slug: 'B07SBP3K57-es Under Armour Men s Remix 2.0 Laufschuhe Zapatillas de...'
+tags: 
 actualPrice: 52.97 EUR
 currency: EUR
 price: 52.97

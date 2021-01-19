@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZbV7K-fRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SYRBQW-es Salomon Trailster W  Zapatillas de Trail Running para Mujer  Azul  Crown Blue/Navy Blazer/Purple Opulence   40 EU'
+slug: 'B078SYRBQW-es Salomon Trailster W Zapatillas de Trail Running para Mujer...'
+tags: 
 actualPrice: 62.49 EUR
 currency: EUR
 price: 62.49

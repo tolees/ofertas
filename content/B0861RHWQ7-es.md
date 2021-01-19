@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RTZAD7L5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0861RHWQ7-es GEREE Cámara de seguridad interior 1080P Pan/Inclinación/Zoom Cámara Wifi Monitor Bebé con Almacenamiento en la nube  Detección de movimiento  audio bidireccional  visión nocturna IR'
+slug: 'B0861RHWQ7-es GEREE Cámara de seguridad interior 1080P...'
+tags: 
 actualPrice: 24.44 EUR
 currency: EUR
 price: 24.44

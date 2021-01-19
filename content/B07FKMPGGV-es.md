@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+7xD2OyyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKMPGGV-es The Gourmet Collection - Mezcla de especias - Orégano  Tomate y Albahaca'
+slug: 'B07FKMPGGV-es The Gourmet Collection - Mezcla de especias - Orégano...'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315kyZHsJML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L38KCGK-es Rimmel London Exaggerate Automatic Eyeliner Waterproof - Delineador de Ojos Retráctil  Tono 263- Negro  Starlit Black   0.28 gr'
+slug: 'B00L38KCGK-es Rimmel London Exaggerate Automatic Eyeliner Waterproof -...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

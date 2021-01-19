@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ctljrFrkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SKMCS8-es TONGJI Vitrina de Acrílico Compatible con Lego 21319 Ideas - Central Perk  Vitrina A Prueba De Polvo  Modelo No Incluido '
+slug: 'B083SKMCS8-es TONGJI Vitrina de Acrílico Compatible con Lego 21319 Ideas...'
+tags: 
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

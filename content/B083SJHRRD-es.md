@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uHeFaJPQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SJHRRD-es Home Fleek - Envases de Vidrio para Alimentos | 6 Piezas | 3 Envases + 3 Tapas | Herméticos | Sin BPA | Verde | Cuadrado'
+slug: 'B083SJHRRD-es Home Fleek - Envases de Vidrio para Alimentos | 6 Piezas |...'
+tags: 
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411BAgWKW0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HF631DJ-es AUTSCA Mechero Eléctrico  Encendedor USB Doble Arco Eléctrico con luz LED Azul  Carga Rápida  Resistente al Viento sin Llama  Cable USB y Caja de Regalo Incluidos '
+slug: 'B07HF631DJ-es AUTSCA Mechero Eléctrico Encendedor USB Doble Arco...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

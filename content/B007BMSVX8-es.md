@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fUg23u2kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007BMSVX8-es Orbegozo MIG 2330 - Microondas con grill integrable full INOX  23 litros  6 niveles de potencia  8 menús de cocción automática  display digital  potencia 1400 W microondas y 1000 W grill'
+slug: 'B007BMSVX8-es Orbegozo MIG 2330 - Microondas con grill integrable full...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

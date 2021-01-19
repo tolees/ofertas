@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Z+CqaSJhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YHY9BB-es Manfrotto MKBFRLA-BH Befree Advanced - Trípode de Viaje  Bloqueo por Palanca con rótula de Bola y Bolsa para cámaras sin Espejo Sony  DSLR  CSC  Carga máxima 8 kg  Aluminio Ligero  Negro'
+slug: 'B079YHY9BB-es Manfrotto MKBFRLA-BH Befree Advanced - Trípode de Viaje...'
+tags: 
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

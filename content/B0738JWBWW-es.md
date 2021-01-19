@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L9F1f8ULL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0738JWBWW-es Pinza gancho broche de cochecito para sostener sabanas muselinas cubierta de maternidad mantos de sol – Negros – Cuatro en cada paquete'
+slug: 'B0738JWBWW-es Pinza gancho broche de cochecito para sostener sabanas...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IOMC9rDUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKHBJZF-es Kipling - City Pack Mini  Mochilas Mujer  Azul  Active Denim '
+slug: 'B07DKHBJZF-es Kipling - City Pack Mini Mochilas Mujer Azul Active Denim'
+tags: 
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WKVDWnlbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NGVZV-es Quiksilver All Time - Licra De Manga Corta con Protección Solar UPF 50 para Hombre S/SL Surf tee  Hombre  Sleet Heather  L'
+slug: 'B0825NGVZV-es Quiksilver All Time - Licra De Manga Corta con Protección...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

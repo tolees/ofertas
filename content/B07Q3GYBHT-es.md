@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41StYkLygML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3GYBHT-es Dockers by Gerli 45pa040  Botas Militar para Hombre  Amarillo  Golden Tan 910   45 EU'
+slug: 'B07Q3GYBHT-es Dockers by Gerli 45pa040 Botas Militar para Hombre...'
+tags: 
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

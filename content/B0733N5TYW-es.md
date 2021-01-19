@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315eu9zLT9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0733N5TYW-es Neatec EUM12B - Escoba y limpaidor porttil profesional Insecticida con accesorios  azul '
+slug: 'B0733N5TYW-es Neatec EUM12B - Escoba y limpaidor porttil profesional...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

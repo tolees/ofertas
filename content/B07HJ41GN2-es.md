@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NNDTDMJDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJ41GN2-es FONDBERYL Conjuntos de lencería Mujer Sexy Lencería Babydoll Ropa de Dormir Mujer lencería de Capa de Dormir Lencería y Ropa Interior'
+slug: 'B07HJ41GN2-es FONDBERYL Conjuntos de lencería Mujer Sexy Lencería...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

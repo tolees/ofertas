@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HiRSBSJDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VT9LTML-es Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Azul  Sail Blue Heather DVC   Small para Hombre'
+slug: 'B07VT9LTML-es Tommy Hilfiger Organic Cotton Silk V Neck Pantalones Azul...'
+tags: 
 actualPrice: 23.13 EUR
 currency: EUR
 price: 23.13

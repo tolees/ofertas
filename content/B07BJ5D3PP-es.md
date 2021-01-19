@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ES7qMx-PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJ5D3PP-es autsca Caja Fuerte Candado para llaves  Candado de Seguridad con Combinación 4 dígitos Se puede colgar y se puede clavar en la pareds  Adecuada para el Hogar  el Garaje y la Granja ect'
+slug: 'B07BJ5D3PP-es autsca Caja Fuerte Candado para llaves Candado de...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

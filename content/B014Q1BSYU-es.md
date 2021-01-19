@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uy2AmVWJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B014Q1BSYU-es Sunstech ARGOS4GBBL - Reproductor MP3 deportivo resistente al agua  Negro y Azul  4 GB'
+slug: 'B014Q1BSYU-es Sunstech ARGOS4GBBL - Reproductor MP3 deportivo resistente...'
+tags: 
 actualPrice: 31.53 EUR
 currency: EUR
 price: 31.53

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KEOUS3tqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y3CKG5Z-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F6861/2'
+slug: 'B06Y3CKG5Z-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 110.01 EUR
 currency: EUR
 price: 110.01

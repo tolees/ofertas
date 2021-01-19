@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31twpx8m0cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCXHVRR-es adidas DX7301 Pantalones Cortos de Deporte  Niños  Rojo  Power Red/White   11-12'
+slug: 'B07KCXHVRR-es adidas DX7301 Pantalones Cortos de Deporte Niños Rojo...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

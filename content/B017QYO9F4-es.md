@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vicl2WmPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017QYO9F4-es Superga 2790acotw Linea Up and Down  Zapatillas de Gimnasia para Mujer  Beige  Taupe 949   35 EU'
+slug: 'B017QYO9F4-es Superga 2790acotw Linea Up and Down Zapatillas de Gimnasia...'
+tags: 
 actualPrice: 30.3 EUR
 currency: EUR
 price: 30.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412g8+cIBYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7YR67R-es Waternymph 2 in 1 Faucet Aerator with Adapter to Connect Garden Hose/Other 3/4’’ Thread Hose  Big Angle Swivel Kitchen Sink Aerator with Movable Lid to Cover the 3/4’’ Thread -Polished Chrome'
+slug: 'B07P7YR67R-es Waternymph 2 in 1 Faucet Aerator with Adapter to Connect...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

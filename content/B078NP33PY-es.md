@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kVgU0GSrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078NP33PY-es Girona FC Oficial Polo Paseo 2019-20  Hombre  Rojo  XL'
+slug: 'B078NP33PY-es Girona FC Oficial Polo Paseo 2019-20 Hombre Rojo XL'
+tags: 
 actualPrice: 10.72 EUR
 currency: EUR
 price: 10.72

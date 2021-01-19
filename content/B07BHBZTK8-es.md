@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51v5+z514QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHBZTK8-es Arteza Cuadernos de dibujo de tapa dura | Pack de 2 | 100 hojas por cuaderno | Tamaño 21 6 x 27  9 cm | Papel grueso de 130 gsm'
+slug: 'B07BHBZTK8-es Arteza Cuadernos de dibujo de tapa dura | Pack de 2 | 100...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

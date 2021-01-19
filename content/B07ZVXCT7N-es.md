@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313hysDxIvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVXCT7N-es KKBSTR Repetidores de Señal de Móviles  Amplificador de Señal de Teléfono Celular Tri-Band 900/1800/2100MHz'
+slug: 'B07ZVXCT7N-es KKBSTR Repetidores de Señal de Móviles Amplificador de...'
+tags: 
 actualPrice: 219.99 EUR
 currency: EUR
 price: 219.99

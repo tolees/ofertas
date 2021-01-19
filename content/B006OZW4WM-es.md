@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31My8A0djmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006OZW4WM-es Speedo Solid Leisure - Bañador de natación para hombre  color azul marino  talla M'
+slug: 'B006OZW4WM-es Speedo Solid Leisure - Bañador de natación para hombre...'
+tags: 
 actualPrice: 13.47 EUR
 currency: EUR
 price: 13.47

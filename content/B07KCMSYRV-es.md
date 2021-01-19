@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H2lN9Bs1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCMSYRV-es adidas T19 WOV Pnt W Pantalones de Deporte  Mujer  Black/White  2XS'
+slug: 'B07KCMSYRV-es adidas T19 WOV Pnt W Pantalones de Deporte Mujer...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

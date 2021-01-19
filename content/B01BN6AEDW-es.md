@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vtSC0wIZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BN6AEDW-es Solac PC1500 Niagara -Plancha Vertical  elimina el 99 999999% de virus y bacterias  1200W  incluye 2 accesorios  supervapor 25g/min  2200 cc  rápida puesta en marcha  auto-off  antigoteo  cable 2 m'
+slug: 'B01BN6AEDW-es Solac PC1500 Niagara -Plancha Vertical elimina el 99...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

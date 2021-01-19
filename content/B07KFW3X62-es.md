@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hQtkvNyeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFW3X62-es PUMA Speed SUTAMINA Wns  Zapatillas de Running para Mujer  Black-Milky Blue-Pink Alert  36 EU'
+slug: 'B07KFW3X62-es PUMA Speed SUTAMINA Wns Zapatillas de Running para Mujer...'
+tags: 
 actualPrice: 25.86 EUR
 currency: EUR
 price: 25.86

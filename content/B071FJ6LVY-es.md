@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61bO8djhk6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FJ6LVY-es Piratas Del Caribe: La Venganza De Salazar - Edición Metálica  2D + 3D  [Blu-ray]'
+slug: 'B071FJ6LVY-es Piratas Del Caribe: La Venganza De Salazar - Edición...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

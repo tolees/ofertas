@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mHhyhpxnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJFPZTC-es Rowenta Access Steam Care DR9100D1 - Cepillo de vapor 1600 W  depósito 200 ml  elimina arrugas  olores y desinfecta  calentamiento 40 segundos  tabla vertical  Reacondicionado Certificado '
+slug: 'B07NJFPZTC-es Rowenta Access Steam Care DR9100D1 - Cepillo de vapor 1600...'
+tags: 
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

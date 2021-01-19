@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SgEuguJuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NPDNC-es 40 x Copas de vino desechable de plástico  40 unidades | Sin BPA  robusta y con un elegante aspecto de cristal | Tallo rojo'
+slug: 'B07S6NPDNC-es 40 x Copas de vino desechable de plástico 40 unidades |...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

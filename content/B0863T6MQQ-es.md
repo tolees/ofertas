@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OiApDNXOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0863T6MQQ-es FitBeast Esterilla de Yoga  Esterilla de Yoga Antiderrapante con Grosor de 6mm  Incluye Correa– Esterilla Deporte para Pilates y Gimnasia 183x61x0.6CM  Compacto  Liviano  Portátil'
+slug: 'B0863T6MQQ-es FitBeast Esterilla de Yoga Esterilla de Yoga...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dDV91XT6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYCXZL2-es Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Mujer  Azul  Velvet Morning   42 EU'
+slug: 'B07DYCXZL2-es Merrell Vapor Glove 4 Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

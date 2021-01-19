@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ot4JJUd2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTOFLOB-es Superga 2750 COTU Classic  Zapatillas de Gimnasia Unisexo  Verde  Green Aqua   39 EU'
+slug: 'B01MTOFLOB-es Superga 2750 COTU Classic Zapatillas de Gimnasia Unisexo...'
+tags: 
 actualPrice: 26.59 EUR
 currency: EUR
 price: 26.59

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JOXgsdENL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4SBAAS-es Emuca - Barra de armario abatible  perchero basculante  colgador abatible para armario  anchura regulable 830-1150mm  acabado color moka'
+slug: 'B01N4SBAAS-es Emuca - Barra de armario abatible perchero basculante...'
+tags: 
 actualPrice: 30.65 EUR
 currency: EUR
 price: 30.65

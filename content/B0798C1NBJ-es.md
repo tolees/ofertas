@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ItV5ZdjwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0798C1NBJ-es Dim AD0062P Sujetador con Copa Completa  Negro  Negro 127   95  Tamaño del Fabricante:95 C  para Mujer'
+slug: 'B0798C1NBJ-es Dim AD0062P Sujetador con Copa Completa Negro Negro 127 95...'
+tags: 
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

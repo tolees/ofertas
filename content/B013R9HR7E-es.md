@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gGsOeSIVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013R9HR7E-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Cuero A105-513-00'
+slug: 'B013R9HR7E-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

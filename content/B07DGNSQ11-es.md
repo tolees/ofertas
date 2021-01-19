@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uvMeFoyPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGNSQ11-es Dreaming Kamahaus Damas Colchón  120 x 200'
+slug: 'B07DGNSQ11-es Dreaming Kamahaus Damas Colchón 120 x 200'
+tags: 
 actualPrice: 82.28 EUR
 currency: EUR
 price: 82.28

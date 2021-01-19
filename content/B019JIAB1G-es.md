@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JQnpqZ1fL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B019JIAB1G-es Funko-6560 Triwizard Tournament Figura de Vinilo  colección de Pop  seria Harry Potter  6560 '
+slug: 'B019JIAB1G-es Funko-6560 Triwizard Tournament Figura de Vinilo colección...'
+tags: 
 actualPrice: 9.39 EUR
 currency: EUR
 price: 9.39

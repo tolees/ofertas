@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07571RHJZ-es Super Mario 3D'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l9SoJQJsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0123ZHKA2-es Compo Universal para Frutas  Verduras  Plantas aromáticas y de Interior  Apto para Agricultura ecológica  Substrato de Cultivo  20 L  56 x 32 x 8 cm'
+slug: 'B0123ZHKA2-es Compo Universal para Frutas Verduras Plantas aromáticas y...'
+tags: 
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

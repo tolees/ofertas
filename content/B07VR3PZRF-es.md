@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dpd0-Ta8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VR3PZRF-es Tommy Hilfiger Short Sleeve Slim Polo de Manga Corta  Amarillo  Sunny Zek   32  Talla del Fabricante: XX-Small  para Mujer'
+slug: 'B07VR3PZRF-es Tommy Hilfiger Short Sleeve Slim Polo de Manga Corta...'
+tags: 
 actualPrice: 24.08 EUR
 currency: EUR
 price: 24.08

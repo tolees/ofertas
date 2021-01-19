@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wkqxxWS1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EAP3IK4-es Pantalones de chándal para hombre  de la marca Lonsdale  hombre  Black - Black  Medium'
+slug: 'B01EAP3IK4-es Pantalones de chándal para hombre de la marca Lonsdale...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

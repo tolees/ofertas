@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418xKHdancL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT6Z4PX-es Levi s 501 Short Long Pantalones Cortos  Blanco  Beg Two Differ 0017   W27  Talla del Fabricante: 27  para Mujer'
+slug: 'B07TT6Z4PX-es Levi s 501 Short Long Pantalones Cortos Blanco Beg Two...'
+tags: 
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

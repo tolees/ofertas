@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414mOvdWneL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGPK7XC-es Crucial Ballistix Sport LT BLS16G4D32AESE 3200 MHz  DDR4  DRAM  Memoria Gamer para ordenadores de sobremesa  16 GB  CL16  Rojo '
+slug: 'B07MGPK7XC-es Crucial Ballistix Sport LT BLS16G4D32AESE 3200 MHz DDR4...'
+tags: 
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

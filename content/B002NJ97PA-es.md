@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002NJ97PA-es Captain Morgan Private Stock - 1 x 1 l'
+tags: 
 actualPrice: 42.01 EUR
 currency: EUR
 price: 42.01

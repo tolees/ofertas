@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SBLP3HJCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR9K4LS-es New Balance Fresh Foam Roav  Zapatillas de Running para Hombre  Blanco  Light Aluminum Light Aluminum   45.5 EU'
+slug: 'B07KR9K4LS-es New Balance Fresh Foam Roav Zapatillas de Running para...'
+tags: 
 actualPrice: 31.47 EUR
 currency: EUR
 price: 31.47

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y-EM158uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8ZNDF1-es ASUS ROG Zephyrus G GA502DU-BQ015 - Portátil Gaming de 15 6" FullHD  Ryzen 7 3750H  8GB RAM  512GB SSD  GeForce GTX1660Ti 6GB  Sin sistema operativo  Metal Negro - Teclado QWERTY español'
+slug: 'B07V8ZNDF1-es ASUS ROG Zephyrus G GA502DU-BQ015 - Portátil Gaming de 15...'
+tags: 
 actualPrice: 971.93 EUR
 currency: EUR
 price: 971.93

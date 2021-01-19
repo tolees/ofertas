@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+BlfTIKgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0762XPSM1-es Weider Mega Mass 4000 Sabor Chocolate  4000 g . 69% de hidratos.Enriquecido con Vitaminas y Minerales.  Con menos azúcares'
+slug: 'B0762XPSM1-es Weider Mega Mass 4000 Sabor Chocolate 4000 g . 69% de...'
+tags: 
 actualPrice: 37.96 EUR
 currency: EUR
 price: 37.96

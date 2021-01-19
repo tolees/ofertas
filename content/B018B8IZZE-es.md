@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018B8IZZE-es AXE Colonia Adrenaline - 100 ml'
+tags: 
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

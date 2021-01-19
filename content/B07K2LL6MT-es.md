@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DRa9GU7kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2LL6MT-es adidas Galaxy 4  Zapatillas de Running para Hombre  Gris  Grey Five   42 2/3 EU'
+slug: 'B07K2LL6MT-es adidas Galaxy 4 Zapatillas de Running para Hombre Gris...'
+tags: 
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519hJJaQiML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWG4PZH-es Aceite de Ricino Orgánico Presionado en Frío Eclat - Aceite de Jojoba Orgánico 100% Puro con Cepillo Aplicador sin Rellenos ni Aditivos para un Aceite de Ricino'
+slug: 'B07PWG4PZH-es Aceite de Ricino Orgánico Presionado en Frío Eclat -...'
+tags: 
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

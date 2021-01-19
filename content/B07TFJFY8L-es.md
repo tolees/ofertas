@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412n8pQLQ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFJFY8L-es Helly Hansen Ahiga V4 Hydropower  Náuticos para Hombre  Negro  Jet Black/White/Silver Grey 991   44.5 EU'
+slug: 'B07TFJFY8L-es Helly Hansen Ahiga V4 Hydropower Náuticos para Hombre...'
+tags: 
 actualPrice: 51.8 EUR
 currency: EUR
 price: 51.8

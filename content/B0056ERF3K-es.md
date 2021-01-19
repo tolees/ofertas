@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31USG1A%2BJjL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0056ERF3K-es Nike M Nk Dry Acdmy Top SS T-Shirt  Hombre  Black/White/ White '
+slug: 'B0056ERF3K-es Nike M Nk Dry Acdmy Top SS T-Shirt Hombre Black/White/ White'
+tags: 
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

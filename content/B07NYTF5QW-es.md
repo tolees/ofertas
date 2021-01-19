@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W1OrV13aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NYTF5QW-es adidas U Path Run  Zapatillas de Gimnasia para Hombre  Negro  Cblack/Ash Gre/Cblack Cblack/Ash Gre/Cblack   43 1/3 EU'
+slug: 'B07NYTF5QW-es adidas U Path Run Zapatillas de Gimnasia para Hombre Negro...'
+tags: 
 actualPrice: 67.45 EUR
 currency: EUR
 price: 67.45

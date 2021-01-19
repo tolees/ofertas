@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RfdNdtXtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RW5Q28Z-es find. Mellor Botas Chukka  Gris Charcoal  42 EU'
+slug: 'B07RW5Q28Z-es find. Mellor Botas Chukka Gris Charcoal 42 EU'
+tags: 
 actualPrice: 20.82 EUR
 currency: EUR
 price: 20.82

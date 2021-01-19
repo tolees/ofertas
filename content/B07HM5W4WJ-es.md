@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418ibVgmqdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HM5W4WJ-es LS LOVELY STORY REGALA HISTORIAS BONITAS LD0629 PACK 2 TAZAS CON MENSAJE: UNICORNIO JUNTOS PODEMOS SOÑARLO  Cerámica'
+slug: 'B07HM5W4WJ-es LS LOVELY STORY REGALA HISTORIAS BONITAS LD0629 PACK 2...'
+tags: 
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

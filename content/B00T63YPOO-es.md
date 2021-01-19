@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51SHbFkY15L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T63YPOO-es Yazilind Joyas de plata esterlina corazón diseño anillo ajustable para las mujeres'
+slug: 'B00T63YPOO-es Yazilind Joyas de plata esterlina corazón diseño anillo...'
+tags: 
 actualPrice: 1.38 EUR
 currency: EUR
 price: 1.38

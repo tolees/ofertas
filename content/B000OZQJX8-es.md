@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000OZQJX8-es Set pelotas playa'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

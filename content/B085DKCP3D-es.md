@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EkAVZL9kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DKCP3D-es Paquete de 10 máscaras Desechables  máscara de Filtro de Triple Capa con bucles para los oídos  máscara Antipolvo  máscara de Pintura  Media máscara.'
+slug: 'B085DKCP3D-es Paquete de 10 máscaras Desechables máscara de Filtro de...'
+tags: 
 actualPrice: 2.17 EUR
 currency: EUR
 price: 2.17

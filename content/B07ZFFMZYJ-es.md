@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n32ZdnUAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFFMZYJ-es SONARIN Saco Silla de Paseo universal  Impermeable y a prueba de viento Protección antideslizante Cosy Toes  Forro Polar térmico Deluxe para Sillas de paseo Cochecito Gris '
+slug: 'B07ZFFMZYJ-es SONARIN Saco Silla de Paseo universal Impermeable y a...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413aw8sjKBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZBRXGM-es XCYYOO [1-Pack]para Samsung Galaxy S8 Plus Protector de Pantalla  Cristal Vidrio Templado [Alta Definicion] [Cobertura Completa] Premium Protector Vidrio Templado'
+slug: 'B07GZBRXGM-es XCYYOO [1-Pack]para Samsung Galaxy S8 Plus Protector de...'
+tags: 
 actualPrice: 1.03 EUR
 currency: EUR
 price: 1.03

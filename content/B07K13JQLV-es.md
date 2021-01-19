@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31E2RdCJpUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K13JQLV-es adidas Tastigo19 SHO Pantalones Cortos de Deporte  Hombre  White/Black  XS'
+slug: 'B07K13JQLV-es adidas Tastigo19 SHO Pantalones Cortos de Deporte Hombre...'
+tags: 
 actualPrice: 18.32 EUR
 currency: EUR
 price: 18.32

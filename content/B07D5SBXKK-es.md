@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AnDjO8IwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5SBXKK-es PUMA Essentials Logo W Legging Deportivo de Talle Alto  Mujer  Negro  Cotton Black   S'
+slug: 'B07D5SBXKK-es PUMA Essentials Logo W Legging Deportivo de Talle Alto...'
+tags: 
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

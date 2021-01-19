@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Dg3nhWuLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDWBBFS-es Adidas by Nixon Reloj Analógico para de con Correa en Acero Inoxidable Z02-1604-00'
+slug: 'B07NDWBBFS-es Adidas by Nixon Reloj Analógico para de con Correa en...'
+tags: 
 actualPrice: 93.33 EUR
 currency: EUR
 price: 93.33

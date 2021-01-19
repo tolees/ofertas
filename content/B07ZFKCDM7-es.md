@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Minq48FWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFKCDM7-es Amzdeal Grifo de Cocina Grifo de Fregadero con agua caliente y fría ajustable Grifo Cocina giratorio de 360 °  Latón cromado'
+slug: 'B07ZFKCDM7-es Amzdeal Grifo de Cocina Grifo de Fregadero con agua...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

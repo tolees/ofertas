@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415XVduChsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KDKW1KK-es adidas Regi18 Pre Jkt Sport Jacket  Hombre  Power Red/Black  S'
+slug: 'B07KDKW1KK-es adidas Regi18 Pre Jkt Sport Jacket Hombre Power Red/Black S'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

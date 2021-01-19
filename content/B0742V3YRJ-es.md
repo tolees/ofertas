@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411CcCmTBZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0742V3YRJ-es Russell Hobbs Colours Plus - Hervidor de Agua Eléctrico  2400 W  1 7l  Acero Inoxidable  Azul Cielo  - ref. 20417-70'
+slug: 'B0742V3YRJ-es Russell Hobbs Colours Plus - Hervidor de Agua Eléctrico...'
+tags: 
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

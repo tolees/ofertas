@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PDOIv8kkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJM7FLD-es Tapa de WC TACKLIFE  TBTS03B Asiento de Inodoro en Forma de D con Liberación Rápida Tapa de Inodoro con Cierra Suave y Silencioso Fácil de Instalación y Limpieza'
+slug: 'B07ZJM7FLD-es Tapa de WC TACKLIFE TBTS03B Asiento de Inodoro en Forma de...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

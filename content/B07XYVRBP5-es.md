@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qPrOx5smL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYVRBP5-es 2 * 12W Lámpara de pared blanco cálido moderno apliques pared interior aplique pared exterior para la sala de estar Dormitorio Baño Cocina Comedor'
+slug: 'B07XYVRBP5-es 2 * 12W Lámpara de pared blanco cálido moderno apliques...'
+tags: 
 actualPrice: 37.59 EUR
 currency: EUR
 price: 37.59

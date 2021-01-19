@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JvnZ-IEiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B008O0IE2Y-es Canon EF-EOS M - Adaptador para Objetivos de cámaras Canon  Montura EF-M  Compatible con EOS M   Color Negro'
+slug: 'B008O0IE2Y-es Canon EF-EOS M - Adaptador para Objetivos de cámaras Canon...'
+tags: 
 actualPrice: 87.58 EUR
 currency: EUR
 price: 87.58

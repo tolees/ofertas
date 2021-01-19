@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412igo9ru5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086LJTJ2V-es Mascarilla facial OptiPro para partículas  KN95 / FFP2   sistema multicapa no tejido con alta capacidad de filtración  filtra más del 95% de las partículas en el aire  paquete de 10 '
+slug: 'B086LJTJ2V-es Mascarilla facial OptiPro para partículas KN95 / FFP2...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

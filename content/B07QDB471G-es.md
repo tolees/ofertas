@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rAKs6-WBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDB471G-es Esprit Broome Fashion UW Bra Sujetador  Rosa  Blush 665   105D  Talla del Fabricante: 90 D  para Mujer'
+slug: 'B07QDB471G-es Esprit Broome Fashion UW Bra Sujetador Rosa Blush 665 105D...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

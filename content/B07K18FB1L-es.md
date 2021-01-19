@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4131opdp6eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K18FB1L-es Nixon Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable A1249-2879-00'
+slug: 'B07K18FB1L-es Nixon Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 65.75 EUR
 currency: EUR
 price: 65.75

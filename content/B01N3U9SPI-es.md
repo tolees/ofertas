@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CQDfKBmwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3U9SPI-es KLIM™ Fusion - Auriculares con micrófono para móvil + Garantía 5 años + Innovadora Espuma de Memoria + Jack 3 5 mm + Compatibles con Smartphone  Tablet  Consola  PC - Nueva Versión 2020 - Rojo'
+slug: 'B01N3U9SPI-es KLIM™ Fusion - Auriculares con micrófono para móvil +...'
+tags: 
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

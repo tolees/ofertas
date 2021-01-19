@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5112QL8tfeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9QZ34C-es upHere 4 Heatpipes Ventilador de CPU ARGB LED Ventiladores PWM de 2 * 120mm Apoyo Intel y AMD CCF150ARGB '
+slug: 'B07T9QZ34C-es upHere 4 Heatpipes Ventilador de CPU ARGB LED Ventiladores...'
+tags: 
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

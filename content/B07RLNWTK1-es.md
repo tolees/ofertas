@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HdGq+c8ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLNWTK1-es Tommy Hilfiger Basic Badge Regular LS Polo  Azul  Blue Dw5   Medium para Hombre'
+slug: 'B07RLNWTK1-es Tommy Hilfiger Basic Badge Regular LS Polo Azul Blue Dw5...'
+tags: 
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

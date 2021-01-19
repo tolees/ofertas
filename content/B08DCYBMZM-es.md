@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31po5CVJHeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DCYBMZM-es Mellerware Aspirador Vertical Inalámbrico Rider Pro 400 W Motor Brushless 22KPA de succión  Rider Pro Full Set '
+slug: 'B08DCYBMZM-es Mellerware Aspirador Vertical Inalámbrico Rider Pro 400 W...'
+tags: 
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

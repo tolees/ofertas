@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gVUGaokcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PV8JXN6-es KATOOM Cuerda de cañamo Natural de Hoja  arpillera con Hoja 20m Adorno de Multiuso para hogar fiastas y Bodas Material ecológico y Seguro marrón'
+slug: 'B07PV8JXN6-es KATOOM Cuerda de cañamo Natural de Hoja arpillera con Hoja...'
+tags: 
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

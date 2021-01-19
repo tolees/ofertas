@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416Wj8zl3QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTD6S4V-es Funko- Pop Star Wars The Rise of Skywalker-PoE Dameron Disney Figura Coleccionable  Multicolor  39891 '
+slug: 'B07QTD6S4V-es Funko- Pop Star Wars The Rise of Skywalker-PoE Dameron...'
+tags: 
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

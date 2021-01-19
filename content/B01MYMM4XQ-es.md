@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/213xyJdE56L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYMM4XQ-es L Oreal Paris Brow Artist Xpert Liner de Cejas Automático Rellena y Fija 107 Castaño Claro'
+slug: 'B01MYMM4XQ-es L Oreal Paris Brow Artist Xpert Liner de Cejas Automático...'
+tags: 
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

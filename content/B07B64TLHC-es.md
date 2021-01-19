@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/616x9U-D4IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B64TLHC-es GOTOTOP Militar Impermeable Ejército Encapuchado Capa de Lluvia Camuflaje Poncho para Cámping Excursionismo Deportes al Aire Libre  Camuflaje de Hojas de Arce '
+slug: 'B07B64TLHC-es GOTOTOP Militar Impermeable Ejército Encapuchado Capa de...'
+tags: 
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

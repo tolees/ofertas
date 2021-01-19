@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uWtbWDAUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFDYSQQ-es Funko Little Shop of Horrors - Figura de Vinilo Orin Scivello D.D.S.'
+slug: 'B07DFDYSQQ-es Funko Little Shop of Horrors - Figura de Vinilo Orin...'
+tags: 
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

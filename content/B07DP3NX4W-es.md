@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hytjDoGCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP3NX4W-es Eastpak Stand + Bolsa de viaje  53 cm  34 L  Azul  Cloud Navy '
+slug: 'B07DP3NX4W-es Eastpak Stand + Bolsa de viaje 53 cm 34 L Azul Cloud Navy'
+tags: 
 actualPrice: 40.72 EUR
 currency: EUR
 price: 40.72

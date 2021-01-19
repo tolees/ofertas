@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fgqQl9LCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0854G7GSK-es HERSITY Camión de Basura Coches de Friccion con Luces y Sonidos Vehiculos Juguete Regalos para Niños'
+slug: 'B0854G7GSK-es HERSITY Camión de Basura Coches de Friccion con Luces y...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

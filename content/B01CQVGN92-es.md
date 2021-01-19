@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K8+W5EJLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CQVGN92-es Intex 57107NP - Piscina hinchable 3 aros +base hinchable 61 x 22 cm  28 l'
+slug: 'B01CQVGN92-es Intex 57107NP - Piscina hinchable 3 aros +base hinchable...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

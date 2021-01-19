@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31r4Bze3feL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089VWVV4M-es Universal Múltiple 3 Puertos USB-C 3.0 Hub con Kit de conexión de Lector de Tarjetas para PC Computadora portátil Plástico Blanco - Blanco'
+slug: 'B089VWVV4M-es Universal Múltiple 3 Puertos USB-C 3.0 Hub con Kit de...'
+tags: 
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

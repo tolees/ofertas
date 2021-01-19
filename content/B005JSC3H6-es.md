@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312LSiU8YZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005JSC3H6-es Panasonic LUMIX H-PS45175 - Objetivo Servo Zoom para cámaras de montura M4/3  Focal 45-175 mm  F4-F5.6  tamaño filtro 46 mm  lentes asféricas  POWER O.I.S   negro'
+slug: 'B005JSC3H6-es Panasonic LUMIX H-PS45175 - Objetivo Servo Zoom para...'
+tags: 
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

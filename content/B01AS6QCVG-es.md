@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413IUVigEiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AS6QCVG-es Swatch Reloj Digital para Hombre de Cuarzo con Correa en Acero Inoxidable YOS452G'
+slug: 'B01AS6QCVG-es Swatch Reloj Digital para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 86.1 EUR
 currency: EUR
 price: 86.1

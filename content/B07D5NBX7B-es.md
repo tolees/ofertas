@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Nwsy65oAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5NBX7B-es Ordesa Omegakids Gummies Masticables- 54 Unidades - El Omega-3 para tus hijos  4 gominolas al día'
+slug: 'B07D5NBX7B-es Ordesa Omegakids Gummies Masticables- 54 Unidades - El...'
+tags: 
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

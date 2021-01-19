@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21mr+cKjQKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K6ZF7GG-es Transcend JetDrive 500 - Kit de Disco Duro sólido Interno SSD 960 GB para MacBook Air 11"  13"'
+slug: 'B00K6ZF7GG-es Transcend JetDrive 500 - Kit de Disco Duro sólido Interno...'
+tags: 
 actualPrice: 440.23 EUR
 currency: EUR
 price: 440.23

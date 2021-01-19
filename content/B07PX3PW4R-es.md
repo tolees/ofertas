@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SZfQ7XY8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PX3PW4R-es Funko- Pop Figura De Vinil: Disney Clause-Santa Coleccionable  Multicolor  42600 '
+slug: 'B07PX3PW4R-es Funko- Pop Figura De Vinil: Disney Clause-Santa...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

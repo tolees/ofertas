@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TBHegX8+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7D6S6X-es Cojín para Silla Oficina  Cojín Ortopédico y Ergonómico  Cojín Coxis  Cojín Silla de Ruedas y Coches  Alivia Presión y Fatiga  Dolores de Ciática  Hemorroides  Espalda  Dimensión Grande'
+slug: 'B07V7D6S6X-es Cojín para Silla Oficina Cojín Ortopédico y Ergonómico...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

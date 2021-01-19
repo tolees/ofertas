@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qL+JiBAzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMFCNS5-es upHere PWM Ventilador PC 120mm 5V ARGB LED Ventilador para Ordenador apoyar el ASUS Aura Sync/GIGABYTE ARGB Fusion/MSI Mystic Light Sync/AsRock Polychrome Sync Paquete de 3 T7SYC7-3 '
+slug: 'B07MMFCNS5-es upHere PWM Ventilador PC 120mm 5V ARGB LED Ventilador para...'
+tags: 
 actualPrice: 23.63 EUR
 currency: EUR
 price: 23.63

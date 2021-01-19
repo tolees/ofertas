@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4116ZRY2bwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FM2XP2G-es Manfrotto Advanced Tri - Funda para cámara DSLR  negro'
+slug: 'B00FM2XP2G-es Manfrotto Advanced Tri - Funda para cámara DSLR negro'
+tags: 
 actualPrice: 69.12 EUR
 currency: EUR
 price: 69.12

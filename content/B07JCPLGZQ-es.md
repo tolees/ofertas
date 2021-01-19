@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zKz+jOD3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCPLGZQ-es Unitedheart Caja del Banco de la energía  2600MAH Tamaño portátil 1 * 18650 Batería Banco de la energía Externa Batería de Reserva del Banco de la energía del Caso Banco para teléfonos Inteligentes'
+slug: 'B07JCPLGZQ-es Unitedheart Caja del Banco de la energía 2600MAH Tamaño...'
+tags: 
 actualPrice: 2.34 EUR
 currency: EUR
 price: 2.34

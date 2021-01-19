@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KkmY4I9kL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2GPS8C-es Transya B530 - Auriculares inalámbricos Bluetooth 5.0 con Control táctil  6 – 8 Horas de reproducción Continua  60 Horas de Tiempo de reproducción Total con Funda de Carga'
+slug: 'B07V2GPS8C-es Transya B530 - Auriculares inalámbricos Bluetooth 5.0 con...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

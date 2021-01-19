@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SEtmTTGtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MHPC7A2-es adidas Originals Stan Smith Zapatillas de Deporte Unisex adulto  Blanco  Core White/Running White/New Navy   41 1/3 EU  7.5 UK '
+slug: 'B00MHPC7A2-es adidas Originals Stan Smith Zapatillas de Deporte Unisex...'
+tags: 
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

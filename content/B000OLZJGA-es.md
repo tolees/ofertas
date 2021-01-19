@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rgfLqNQ1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OLZJGA-es Trixie 5355 Noria con Pelotas Jaula y Cascabel  10 cm'
+slug: 'B000OLZJGA-es Trixie 5355 Noria con Pelotas Jaula y Cascabel 10 cm'
+tags: 
 actualPrice: 2.74 EUR
 currency: EUR
 price: 2.74

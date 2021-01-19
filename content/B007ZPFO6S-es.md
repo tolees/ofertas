@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ltufVbS7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007ZPFO6S-es Philips Avent SCF330/20 - Sacaleches  extractor de leche manual  con cojín masajeador  incluye biberón'
+slug: 'B007ZPFO6S-es Philips Avent SCF330/20 - Sacaleches extractor de leche...'
+tags: 
 actualPrice: 29.82 EUR
 currency: EUR
 price: 29.82

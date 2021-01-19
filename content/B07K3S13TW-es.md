@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Yp5xsXXVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3S13TW-es BOSS Schino-Slim D Pantalones  Beige  Open Beige 280   W30/L34  Talla del Fabricante: 3034  para Hombre'
+slug: 'B07K3S13TW-es BOSS Schino-Slim D Pantalones Beige Open Beige 280 W30/L34...'
+tags: 
 actualPrice: 36.72 EUR
 currency: EUR
 price: 36.72

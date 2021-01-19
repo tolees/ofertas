@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nm397l9GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFYF74Z-es PUMA Carina Lux L  Zapatillas para Mujer  Black Black  40 EU'
+slug: 'B07KFYF74Z-es PUMA Carina Lux L Zapatillas para Mujer Black Black 40 EU'
+tags: 
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

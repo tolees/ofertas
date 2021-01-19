@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51L-ktPNEsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0732XQXQ3-es TONZE Ajedrez Magnetico Juegos de Mesa Tablero de Ajedrez con Caja Set Ajedrez Magnetico Plegable Fácil Llevar para Viajar Juego Ajedrez para Niños Infantil Adulto  25 x 25 cm'
+slug: 'B0732XQXQ3-es TONZE Ajedrez Magnetico Juegos de Mesa Tablero de Ajedrez...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

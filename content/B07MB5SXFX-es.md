@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518pfsTHTlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MB5SXFX-es FANDINIER Cartera hombre  billeteras hombre cartera hombre pequeña  Cartera Piel Hombre con Clip y RFID Bloqueo para Varias Tarjetas personales con Caja de Regalo  Negro y Naranja '
+slug: 'B07MB5SXFX-es FANDINIER Cartera hombre billeteras hombre cartera hombre...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

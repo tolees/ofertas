@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JuW6wbnFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074GZFC3Y-es Willful Pulsera Inteligente con Pulsómetro  Pulsera de Actividad para Deporte  Monitor de Ritmo Cardíaco  Sueño Calorías  Notificación de Mensajes  Podómetro  Impermeable IP67 para Teléfono'
+slug: 'B074GZFC3Y-es Willful Pulsera Inteligente con Pulsómetro Pulsera de...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

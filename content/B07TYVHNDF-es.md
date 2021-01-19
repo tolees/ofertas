@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mxRQ6ErVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYVHNDF-es Giow Papel Pintado  Thicken Square Bedroom Non-Wove Wall Paper Backdrop para Sala de Estar Moderno e Industrial con imitación de Viento de Piedra  Color: 2 '
+slug: 'B07TYVHNDF-es Giow Papel Pintado Thicken Square Bedroom Non-Wove Wall...'
+tags: 
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

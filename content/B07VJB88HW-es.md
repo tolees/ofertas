@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AkmnejdJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJB88HW-es Max Power Digital Funda para Xiaomi Mi 9  6.39"  con Soporte - Carcasa híbrida antigolpes Resistente  Xiaomi Mi 9  Azul '
+slug: 'B07VJB88HW-es Max Power Digital Funda para Xiaomi Mi 9 6.39" con Soporte...'
+tags: 
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

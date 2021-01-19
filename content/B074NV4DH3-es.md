@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mWB+WhK+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074NV4DH3-es Cortapelos Nariz y Oreja - Liberex Recortador Eléctrico para Nariz Oreja con LED  Cuchilla Impermeable de 360° Rotación  Negro'
+slug: 'B074NV4DH3-es Cortapelos Nariz y Oreja - Liberex Recortador Eléctrico...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

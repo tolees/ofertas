@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iJg%2BBeDbL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B079G1D4XS-es find. Botín de Ante con Tacón Mujer  Beige  Taupe Taupe   39 EU'
+slug: 'B079G1D4XS-es find. Botín de Ante con Tacón Mujer Beige Taupe Taupe 39 EU'
+tags: 
 actualPrice: 18 EUR
 currency: EUR
 price: 18

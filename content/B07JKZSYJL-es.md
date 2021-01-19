@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jn+JXEjCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKZSYJL-es NIVEA Pack Hyalurron Cellular Filler Crema Antiedad Día y 2 Ampollas de Ácido Hialurónico - Estuche'
+slug: 'B07JKZSYJL-es NIVEA Pack Hyalurron Cellular Filler Crema Antiedad Día y...'
+tags: 
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yHpDFIMpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088LHQR14-es Altavoz Bluetooth Portátil Altavoces Bluetooth Portatiles ZEALOT S32 Mini Waterproof  Impermeable 24 Horas Reproducción  TWS Sonido Estéreo Apoya TF Card Memoria USB Inalámbrico（Camuflaje Negro）'
+slug: 'B088LHQR14-es Altavoz Bluetooth Portátil Altavoces Bluetooth Portatiles...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

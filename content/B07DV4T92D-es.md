@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41U3FmaPqBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DV4T92D-es Columbia Backpedal Outdry  Zapatillas de Cross para Mujer  Negro  Shark  White 011   40 EU'
+slug: 'B07DV4T92D-es Columbia Backpedal Outdry Zapatillas de Cross para Mujer...'
+tags: 
 actualPrice: 37.33 EUR
 currency: EUR
 price: 37.33

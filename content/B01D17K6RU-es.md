@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h1QHHZKTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D17K6RU-es Samsonite Paradiver Light - Bolsa de viaje con ruedas  L  79 cm - 121.5 L   Negro  Black '
+slug: 'B01D17K6RU-es Samsonite Paradiver Light - Bolsa de viaje con ruedas L 79...'
+tags: 
 actualPrice: 109.5 EUR
 currency: EUR
 price: 109.5

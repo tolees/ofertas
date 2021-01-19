@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BAGZgS0AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081Z39YKT-es SALAKA 1 unid Botella de Silicona para bebés biberón Blanco Botella de Cereal de arroz biberón con Cubierta Antipolvo'
+slug: 'B081Z39YKT-es SALAKA 1 unid Botella de Silicona para bebés biberón...'
+tags: 
 actualPrice: 2.57 EUR
 currency: EUR
 price: 2.57

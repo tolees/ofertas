@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z1EtZFx6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QKNQ2G-es Asiento trasero Reposacabezas Creative Hook Organizador multifunción Gancho para colgar Asiento Reposacabezas Soporte para coche universal SUV/Negro'
+slug: 'B083QKNQ2G-es Asiento trasero Reposacabezas Creative Hook Organizador...'
+tags: 
 actualPrice: 3.04 EUR
 currency: EUR
 price: 3.04

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wA3bxNGYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCSA2WK-es Lima de uñas eléctrica para manicura y pedicura  limas eléctricas para el brillo y cuidado de las uñas. Pulidor de uñas y set de manicura  elimina piel muerta uñas'
+slug: 'B01NCSA2WK-es Lima de uñas eléctrica para manicura y pedicura limas...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gRYdzxvML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPDGWX4-es Dihope  zapatillas deportivas para mujer  de malla  transpirables  zapatillas de deporte rosa 35 EU'
+slug: 'B07RPDGWX4-es Dihope zapatillas deportivas para mujer de malla...'
+tags: 
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

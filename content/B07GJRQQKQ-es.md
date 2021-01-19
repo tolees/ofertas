@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sONA7w7UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJRQQKQ-es Foreo - Cepillo Inteligente De Limpieza Facial Luna Fofo Aquamarine Foreo'
+slug: 'B07GJRQQKQ-es Foreo - Cepillo Inteligente De Limpieza Facial Luna Fofo...'
+tags: 
 actualPrice: 64.97 EUR
 currency: EUR
 price: 64.97

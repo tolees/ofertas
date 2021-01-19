@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cEhfW8fzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KHN23GR-es UniqueMe Funda Huawei Mate 20 X  Ultra [Slim Thin] TPU Funda Protectora TPU de Silicona Suave para Mate 20 X - Transparente'
+slug: 'B07KHN23GR-es UniqueMe Funda Huawei Mate 20 X Ultra [Slim Thin] TPU...'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

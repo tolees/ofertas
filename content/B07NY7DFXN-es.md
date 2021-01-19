@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mplK5z2cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY7DFXN-es Superdry Urban Athletic Classic Zip Hood Capucha  Negro  Oxide Black Feeder U4e   X-Small para Hombre'
+slug: 'B07NY7DFXN-es Superdry Urban Athletic Classic Zip Hood Capucha Negro...'
+tags: 
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

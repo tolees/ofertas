@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WQ0AKcOXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5TV6YM-es Funko- Pop Vinilo: NSYNC: JC Chasez Figura Coleccionable  Multicolor  34540 '
+slug: 'B07N5TV6YM-es Funko- Pop Vinilo: NSYNC: JC Chasez Figura Coleccionable...'
+tags: 
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

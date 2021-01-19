@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31x0pZQw4pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB5VH7D-es PrimeMatik - Cubierta de Asiento de Coche. Funda Protectora para Perro y Mascota 135 x 130 cm'
+slug: 'B07RB5VH7D-es PrimeMatik - Cubierta de Asiento de Coche. Funda...'
+tags: 
 actualPrice: 8.05 EUR
 currency: EUR
 price: 8.05

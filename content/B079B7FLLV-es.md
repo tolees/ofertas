@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31w7duTOztL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079B7FLLV-es PUMA LIGA Shorts Pants  Hombre  Cordovan White  XL'
+slug: 'B079B7FLLV-es PUMA LIGA Shorts Pants Hombre Cordovan White XL'
+tags: 
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

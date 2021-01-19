@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4115e1fF79L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWQG71Z-es Nike Air MAX Graviton  Zapatillas para Hombre  Negro  Black/White 001   45.5 EU'
+slug: 'B07PWQG71Z-es Nike Air MAX Graviton Zapatillas para Hombre Negro...'
+tags: 
 actualPrice: 34.01 EUR
 currency: EUR
 price: 34.01

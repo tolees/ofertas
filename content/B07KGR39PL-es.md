@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aKsCp9VFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGR39PL-es Sabrent Lector de Tarjetas USB 3.0 USB Tipo-C. El Lector de Tarjetas USB 3.0 y USB Tipo-C OTG Compatible con SD  SDHC  SDXC  MMC/MicroSD  T-Flash  CR-BCA2 '
+slug: 'B07KGR39PL-es Sabrent Lector de Tarjetas USB 3.0 USB Tipo-C. El Lector...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

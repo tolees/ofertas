@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oEebwyZAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NJGXV4Y-es Acuvue Oasys - Lentes de contacto esféricas quincenales  R 8.4 / D 14 / -1.25 Diop   Pack de 12 uds.'
+slug: 'B00NJGXV4Y-es Acuvue Oasys - Lentes de contacto esféricas quincenales R...'
+tags: 
 actualPrice: 37.3 EUR
 currency: EUR
 price: 37.3

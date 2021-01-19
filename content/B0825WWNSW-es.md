@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zgGvOY2sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825WWNSW-es Compatible con Moto One Zoom/One Pro  funda de metal  anillo Kickstand 360 grados  protección de amortiguación TPU + PC 2 en 1  funda magnética dorado Talla única'
+slug: 'B0825WWNSW-es Compatible con Moto One Zoom/One Pro funda de metal anillo...'
+tags: 
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

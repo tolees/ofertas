@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FFPsLJ3FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJGZZJC-es Adidas Deerupt Runner I  Zapatillas de Deporte Unisex niño  Blanco  Blanco 000   27 EU'
+slug: 'B07NJGZZJC-es Adidas Deerupt Runner I Zapatillas de Deporte Unisex niño...'
+tags: 
 actualPrice: 35.2 EUR
 currency: EUR
 price: 35.2

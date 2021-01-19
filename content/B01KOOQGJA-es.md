@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PjgFNwSmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KOOQGJA-es Weider Vegan Protein. Sabor Cappuccino. Proteína 100% vegetal de guisante  PISANE  y arroz. Sin gluten. Sin lactosa. Sin aceite de palma  750 g '
+slug: 'B01KOOQGJA-es Weider Vegan Protein. Sabor Cappuccino. Proteína 100%...'
+tags: 
 actualPrice: 16.67 EUR
 currency: EUR
 price: 16.67

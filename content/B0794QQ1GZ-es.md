@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31D+NEh5EEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0794QQ1GZ-es Skechers Women s Sure Track Erath - Ii Lace-up Sneakers  White  White Leather Wht   8 UK  41 EU '
+slug: 'B0794QQ1GZ-es Skechers Women s Sure Track Erath - Ii Lace-up Sneakers...'
+tags: 
 actualPrice: 57.98 EUR
 currency: EUR
 price: 57.98

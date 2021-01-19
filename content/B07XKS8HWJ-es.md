@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Te1Lnn8VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKS8HWJ-es LileZbox - Soporte Expositor de acrílico para Figuras Funko Pops Amiibo  Estante Grande de 4 Pasos para postres  12 x 11 x 8 8 Pulgadas  2 Unidades'
+slug: 'B07XKS8HWJ-es LileZbox - Soporte Expositor de acrílico para Figuras...'
+tags: 
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

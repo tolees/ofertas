@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31N+vtWxrrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7LM75W-es Paladone Reloj Digital para Adultos Unisex de Automático con Correa en Goma PP4925PS'
+slug: 'B07M7LM75W-es Paladone Reloj Digital para Adultos Unisex de Automático...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

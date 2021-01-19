@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GXn+A9+vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GL1B4VQ-es Isdin Isdinceutics Pigment Expert Serum corrector despigmentante facial | Previene y Trata las Manchas en la Piel Monodosis 30 x 2ml'
+slug: 'B07GL1B4VQ-es Isdin Isdinceutics Pigment Expert Serum corrector...'
+tags: 
 actualPrice: 33.53 EUR
 currency: EUR
 price: 33.53

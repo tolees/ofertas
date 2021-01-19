@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HYkHVdkBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXBXFKR-es Bronchotos Pediátrico – Jarabe tos seca y productiva. Niños partir de 1 año. Sin Lactosa. Sin Gluten. Sabor fresa.'
+slug: 'B07KXBXFKR-es Bronchotos Pediátrico – Jarabe tos seca y productiva....'
+tags: 
 actualPrice: 6.84 EUR
 currency: EUR
 price: 6.84

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s5Kr2Gl4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9XEYQQ-es Maybelline New York - Superstay 7 Días  Esmalte de Uñas Efecto Gel  Tono 255 Mauve On'
+slug: 'B00X9XEYQQ-es Maybelline New York - Superstay 7 Días Esmalte de Uñas...'
+tags: 
 actualPrice: 2.1 EUR
 currency: EUR
 price: 2.1

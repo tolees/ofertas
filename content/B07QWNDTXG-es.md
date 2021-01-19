@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kEU6VPmgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWNDTXG-es Under Armour  UNDKU Heatgear Locut Calcetines  Unisex adulto  Negro  MD'
+slug: 'B07QWNDTXG-es Under Armour UNDKU Heatgear Locut Calcetines Unisex adulto...'
+tags: 
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

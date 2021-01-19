@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TT33I3A-es Bahco 2485 BH2485'
+tags: 
 actualPrice: 5.82 EUR
 currency: EUR
 price: 5.82

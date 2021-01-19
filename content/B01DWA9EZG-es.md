@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-7aeb64yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DWA9EZG-es Mugig Guitarra Cable Patch-1/4" Silencioso 6.35 mm para Guitarra/Bajo Pedales de Efectos  15cm  Pack de 3  Negro '
+slug: 'B01DWA9EZG-es Mugig Guitarra Cable Patch-1/4" Silencioso 6.35 mm para...'
+tags: 
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

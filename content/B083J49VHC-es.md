@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31JQb-UvObL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B083J49VHC-es CRZ YOGA Mujer Deportivos Leggings Mallas Fitness Pantalones de Cintura Alta -71cm Negro-28 XXS 36 '
+slug: 'B083J49VHC-es CRZ YOGA Mujer Deportivos Leggings Mallas Fitness...'
+tags: 
 actualPrice: 25 EUR
 currency: EUR
 price: 25

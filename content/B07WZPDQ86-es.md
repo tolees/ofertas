@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ywSiFvnPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZPDQ86-es Eastpak Springer Riñonera  23 cm  2 L  Azul  Nep Gulf '
+slug: 'B07WZPDQ86-es Eastpak Springer Riñonera 23 cm 2 L Azul Nep Gulf'
+tags: 
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

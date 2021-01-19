@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LmN5BkGuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000R27EKK-es Bosch Professional GSH 16-30 - Martillo demoledor  41 J  Hex 30 mm  Vibration Control  en maletín con ruedas '
+slug: 'B000R27EKK-es Bosch Professional GSH 16-30 - Martillo demoledor 41 J Hex...'
+tags: 
 actualPrice: 1026.75 EUR
 currency: EUR
 price: 1026.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kggi4W0eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FQTAOKA-es NETUM Handheld Laser Barcode Scanner 1D Lector de Escáner de Código de Barras con Cable USB aplicaciones en supermercados  farmacias  panaderías  bibliotecas  tiendas  NT-M1'
+slug: 'B01FQTAOKA-es NETUM Handheld Laser Barcode Scanner 1D Lector de Escáner...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

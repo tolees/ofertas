@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PHO3zcHNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJZJL3N-es Sorel Glacy Explorer Shortie  Botas para Mujer  Gris  Quarry 054   40 EU'
+slug: 'B07KJZJL3N-es Sorel Glacy Explorer Shortie Botas para Mujer Gris Quarry...'
+tags: 
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E2ioDw0QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BMVV9K-es Kickers Kick Hi Core  Botas para Hombre  Negro  46 EU'
+slug: 'B001BMVV9K-es Kickers Kick Hi Core Botas para Hombre Negro 46 EU'
+tags: 
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

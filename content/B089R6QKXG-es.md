@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l8LL+X8EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089R6QKXG-es LJP Funda LG Stylo 6  Diamante Cristal Brillante Antigolpes 2 en 1 Carcasa Combinada PC Híbrido y TPU Silicona Suave Resistente PC Bumper Cubierta Protectora Funda para LG Stylo 6'
+slug: 'B089R6QKXG-es LJP Funda LG Stylo 6 Diamante Cristal Brillante Antigolpes...'
+tags: 
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

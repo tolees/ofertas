@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313hVydgLGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DC5ZRR-es perfk LED Luz de Navegación 12V para Barcos Bombilla  Accesorios Náuticos  para Iluminación Marinos'
+slug: 'B083DC5ZRR-es perfk LED Luz de Navegación 12V para Barcos Bombilla...'
+tags: 
 actualPrice: 50.59 EUR
 currency: EUR
 price: 50.59

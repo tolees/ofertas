@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51R14m0LMDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6M19BK-es Tommy Hilfiger Tommy Patch Square Bufanda   Green Lj5   Talla única  Talla del fabricante: OS  para Mujer'
+slug: 'B07N6M19BK-es Tommy Hilfiger Tommy Patch Square Bufanda Green Lj5 Talla...'
+tags: 
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

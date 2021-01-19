@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AwJMmnKjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LAO0YSM-es Castellanisimos C00102 Mocasines Piel Florentic Borlas Hombre Hecho en España Cómodo y Elegante'
+slug: 'B01LAO0YSM-es Castellanisimos C00102 Mocasines Piel Florentic Borlas...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

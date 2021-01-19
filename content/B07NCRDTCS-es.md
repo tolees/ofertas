@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s852aJlRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCRDTCS-es Naturalia Somier Dreams  Tubo de Acero y láminas de chopo  105 X 180 Cm'
+slug: 'B07NCRDTCS-es Naturalia Somier Dreams Tubo de Acero y láminas de chopo...'
+tags: 
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

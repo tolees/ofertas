@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UdTMIHokL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0845YRM7B-es Jamon Iberico de Bellota 100% Iberico Reserva Pata Negra – Sobre Loncheado de Jamon Iberico Cortado a Mano y Envasado al Vacio - Embutidos Ibericos de Bellota Patanegra - EXQUISITO - 100 gr'
+slug: 'B0845YRM7B-es Jamon Iberico de Bellota 100% Iberico Reserva Pata Negra –...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WOENdeAiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0763VSZS6-es Funko Pop!- Sonic: Shadow Figura de Vinilo  20148 '
+slug: 'B0763VSZS6-es Funko Pop!- Sonic: Shadow Figura de Vinilo 20148'
+tags: 
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

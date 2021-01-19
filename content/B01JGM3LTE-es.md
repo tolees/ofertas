@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZOjH4xgtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JGM3LTE-es Rowenta RH8897W0 Air Force Extreme Power Pro - Aspirador sin bolsa ciclónico  32.4 V  autonomía 75 min  batería de litio y cepillo motorizado  sin cable  3 potencias ajustables  Blanco Nieve'
+slug: 'B01JGM3LTE-es Rowenta RH8897W0 Air Force Extreme Power Pro - Aspirador...'
+tags: 
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41orcuYaL2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3CG7NV-es Bugaboo Cameleon 3 Plus  Cochecito y Silla de Paseo 2 en 1  Negro'
+slug: 'B07R3CG7NV-es Bugaboo Cameleon 3 Plus Cochecito y Silla de Paseo 2 en 1...'
+tags: 
 actualPrice: 732.83 EUR
 currency: EUR
 price: 732.83

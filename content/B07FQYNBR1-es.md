@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ioOmUpN6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQYNBR1-es Clarks Maritsa Lara  Sandalia con Pulsera Tira de Tobillo  Blanco  White Leather -   41 EU'
+slug: 'B07FQYNBR1-es Clarks Maritsa Lara Sandalia con Pulsera Tira de Tobillo...'
+tags: 
 actualPrice: 48.93 EUR
 currency: EUR
 price: 48.93

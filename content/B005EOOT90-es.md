@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fnt+2zO0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005EOOT90-es Turtle Beach Ear Force XL - Auriculares de diadema cerrados USB  con micrófono  control remoto integrado  USB   negro y verde'
+slug: 'B005EOOT90-es Turtle Beach Ear Force XL - Auriculares de diadema...'
+tags: 
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

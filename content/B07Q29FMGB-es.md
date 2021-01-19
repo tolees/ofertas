@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419fXGAjGbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q29FMGB-es Cepillo de Dientes Eléctrico  Homever Cepillo de Dientes Sónico con Soporte de Carga Inductivo Inalámbrico  3 Cabezales de Repuesto  5 Modos de Limpieza  IPX7 a Prueba de Agua  Carga Rápida'
+slug: 'B07Q29FMGB-es Cepillo de Dientes Eléctrico Homever Cepillo de Dientes...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

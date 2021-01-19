@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WKe1o6i0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CF6LF5-es BRTLX Tira LED RGB LED Luz de Atmósfera del Interior de Coche 12V 4 x 9 LED Bombillas Activación de Sonido Decoración Kit de Iluminación con Control Remoto'
+slug: 'B076CF6LF5-es BRTLX Tira LED RGB LED Luz de Atmósfera del Interior de...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

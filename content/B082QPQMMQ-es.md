@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5151wAH3DVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082QPQMMQ-es SEELOK Lentejuelas Redondas Planas 24 bolsas Lentejuelas Iridiscentes 6mm Lentejuelas Sueltas para DIY Manualidades Bordado Tarjetas de Felicitación Decoración de Huevos de Lentejuelas para Pascua'
+slug: 'B082QPQMMQ-es SEELOK Lentejuelas Redondas Planas 24 bolsas Lentejuelas...'
+tags: 
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

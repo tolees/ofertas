@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fR+tqxxxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NTZFBTT-es Skechers Ultra Flex 2.0 Kelmer  Zapatillas para Hombre  Azul  Navy Engineered Mesh/Synthetic/Trim Nvy   45.5 EU'
+slug: 'B07NTZFBTT-es Skechers Ultra Flex 2.0 Kelmer Zapatillas para Hombre Azul...'
+tags: 
 actualPrice: 36.71 EUR
 currency: EUR
 price: 36.71

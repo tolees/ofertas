@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KS4VleHjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJP3KFB-es Surplex 2 pza Soporte Seguridad de la Cabeza para Bebe en el Coche  Soporte de Cabeza del Cochecito para Bebé Niños'
+slug: 'B07FJP3KFB-es Surplex 2 pza Soporte Seguridad de la Cabeza para Bebe en...'
+tags: 
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

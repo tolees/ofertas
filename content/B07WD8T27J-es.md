@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NLvVhuNrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WD8T27J-es Relaxdays  Marrón  Pasamanos Escalera Redondo para Interior y Exterior Ø 42mm  Aluminio  200 cm  2000 mm'
+slug: 'B07WD8T27J-es Relaxdays Marrón Pasamanos Escalera Redondo para Interior...'
+tags: 
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

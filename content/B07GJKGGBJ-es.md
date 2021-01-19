@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HXUiiVvXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJKGGBJ-es MODERN LIFE Soporte de Pared para TV 14-42 Pulgadas 35-107cm   Fijo Ultra Delgado  Máx Vesa 300x300  Carga 15KG  para Televisores de Pantalla Plana LED LCD Plasma 4K 3D  con Nivel de Burbujas'
+slug: 'B07GJKGGBJ-es MODERN LIFE Soporte de Pared para TV 14-42 Pulgadas...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

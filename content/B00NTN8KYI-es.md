@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A1K5sMNNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NTN8KYI-es Diesel Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable DZ7331'
+slug: 'B00NTN8KYI-es Diesel Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 158.56 EUR
 currency: EUR
 price: 158.56

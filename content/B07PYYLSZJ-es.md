@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VNOHJv9cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYLSZJ-es Under Armour UA Charged Rogue 2  Zapatillas para Correr  Calzado cómodo para Hombre  Negro  Black/Versa Red/Black   43 EU'
+slug: 'B07PYYLSZJ-es Under Armour UA Charged Rogue 2 Zapatillas para Correr...'
+tags: 
 actualPrice: 40.16 EUR
 currency: EUR
 price: 40.16

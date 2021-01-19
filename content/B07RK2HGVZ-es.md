@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517u3NGET-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK2HGVZ-es Licuadora Prensado en Frio  Jocuu Licuadora Frutas Verduras  Extractor de zumos con Función inversa  Regulación de Dos Velocidades y Motor Silencioso  Fácil de Limpiar con Cepillo de Limpieza extra'
+slug: 'B07RK2HGVZ-es Licuadora Prensado en Frio Jocuu Licuadora Frutas Verduras...'
+tags: 
 actualPrice: 58.37 EUR
 currency: EUR
 price: 58.37

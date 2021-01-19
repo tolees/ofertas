@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31D6tykqIlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ6M73Q-es Scotch & Soda Mott-Classic Garment-dyed Twill Chino Pantalones   Olive 0456   W33/L36  Talla del Fabricante: 33/36  para Hombre'
+slug: 'B07MQ6M73Q-es Scotch & Soda Mott-Classic Garment-dyed Twill Chino...'
+tags: 
 actualPrice: 22.34 EUR
 currency: EUR
 price: 22.34

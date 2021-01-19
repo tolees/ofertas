@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019H2HLH6-es Wurko - Colador Manga Tipo Cono Plástico 12 cm'
+tags: 
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

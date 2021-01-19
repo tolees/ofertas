@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JPt+715CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHPZ953-es Jack & Jones Jprdax Knit Crew Neck suéter  Gris  Grey Melange Grey Melange   Small para Hombre'
+slug: 'B07VHPZ953-es Jack & Jones Jprdax Knit Crew Neck suéter Gris Grey...'
+tags: 
 actualPrice: 7.71 EUR
 currency: EUR
 price: 7.71

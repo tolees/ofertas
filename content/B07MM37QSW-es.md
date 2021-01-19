@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51deg-PDcgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MM37QSW-es The Legend of Zelda - Master Sword Lamp  PP4934NN '
+slug: 'B07MM37QSW-es The Legend of Zelda - Master Sword Lamp PP4934NN'
+tags: 
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51sQf9USVWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T76CCG-es Homelody 38ºC Termostatica 3 Funciones Columna de Ducha Conjunto de Ducha Ducha con Barra Adjustable Sistema de Ducha Ducha de Mano Ducha de Lluvia Set de Ducha Sistema de Ducha Grifos de Ducha'
+slug: 'B078T76CCG-es Homelody 38ºC Termostatica 3 Funciones Columna de Ducha...'
+tags: 
 actualPrice: 192.99 EUR
 currency: EUR
 price: 192.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bBWPiKaXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMPYF8Q-es Nuevo 8 Cnady Colors Stylus Pen Crystal 2 in1 Pantalla táctil Stylus Ballpoint Pen para iPhone iPad Samsung Galaxy Tablet Teléfono para PC - Rosa'
+slug: 'B07TMPYF8Q-es Nuevo 8 Cnady Colors Stylus Pen Crystal 2 in1 Pantalla...'
+tags: 
 actualPrice: 0.14 EUR
 currency: EUR
 price: 0.14

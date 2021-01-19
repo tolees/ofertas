@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HrzeSxKhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G4VNZ1Z-es Pack de 6 cajas de almacenamiento de mascarillas + Llave de no contacto de regalo. Estuches de Almacenaje de Plástico Portátiles con Tapas  Clip de Almacenajede Máscara de Prevención Contaminación'
+slug: 'B08G4VNZ1Z-es Pack de 6 cajas de almacenamiento de mascarillas + Llave...'
+tags: 
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

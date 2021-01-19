@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PS9smiOiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLR64CC-es DragonSwordlinsu COOSUN - Cortinas opacas para perros  oscurecimiento con aislamiento térmico de poliéster  ojales superiores para dormitorio  sala de estar  2 paneles  55 x 213 cm '
+slug: 'B07QLR64CC-es DragonSwordlinsu COOSUN - Cortinas opacas para perros...'
+tags: 
 actualPrice: 72.38 EUR
 currency: EUR
 price: 72.38

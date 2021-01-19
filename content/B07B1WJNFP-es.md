@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HTgS3-HmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B1WJNFP-es Tottenham Hotspur FC - Pack de dos chupetes oficiales  Talla Única   Azul marino/Blanco '
+slug: 'B07B1WJNFP-es Tottenham Hotspur FC - Pack de dos chupetes oficiales...'
+tags: 
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

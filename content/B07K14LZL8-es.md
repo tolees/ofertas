@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410adk2H0hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K14LZL8-es Ban presto Figura Dragon Ball GT Master Stars Piece The Super Saiyan 4 Son Goku  Adultos Unisex  Multicolor  25'
+slug: 'B07K14LZL8-es Ban presto Figura Dragon Ball GT Master Stars Piece The...'
+tags: 
 actualPrice: 61.79 EUR
 currency: EUR
 price: 61.79

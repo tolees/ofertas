@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513BmvAZRHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8C1S2K-es WARDBES EMS Masajeador de Pie Plegable 2019 Nuevo Control Remoto inalámbrico EMS masajeador de pies Carga USB cojín de Masaje de pie Plegable masajeador de Pulso para Oficina en casa'
+slug: 'B07Y8C1S2K-es WARDBES EMS Masajeador de Pie Plegable 2019 Nuevo Control...'
+tags: 
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

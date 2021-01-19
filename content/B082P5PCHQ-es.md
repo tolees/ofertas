@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416MaI9L0UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082P5PCHQ-es EShine Acabado Blanco 3 paneles de luz LED de 30 cm para colocar debajo de los muebles  regulables y activados con movimiento manual - control de atenuación sin contacto  Blanco Cálido  3000K '
+slug: 'B082P5PCHQ-es EShine Acabado Blanco 3 paneles de luz LED de 30 cm para...'
+tags: 
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

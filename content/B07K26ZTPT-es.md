@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-cmIda--L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K26ZTPT-es Hurley M Phantom Bird 18  Bañadores  Hombre  Azul  Blue Fury   34'
+slug: 'B07K26ZTPT-es Hurley M Phantom Bird 18 Bañadores Hombre Azul Blue Fury 34'
+tags: 
 actualPrice: 38.36 EUR
 currency: EUR
 price: 38.36

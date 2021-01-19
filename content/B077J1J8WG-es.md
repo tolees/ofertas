@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VwZAyZ-aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077J1J8WG-es Casio Reloj Digital para Mujer de Cuarzo con Correa en Resina BGD-560-4ER'
+slug: 'B077J1J8WG-es Casio Reloj Digital para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 79.6 EUR
 currency: EUR
 price: 79.6

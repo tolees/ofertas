@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZzdBtIiDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M2WITNY-es Helly Hansen THE FORESTER  Botas de nieve para Hombre  Negro  Jet Black   46.5 EU'
+slug: 'B00M2WITNY-es Helly Hansen THE FORESTER Botas de nieve para Hombre Negro...'
+tags: 
 actualPrice: 57.27 EUR
 currency: EUR
 price: 57.27

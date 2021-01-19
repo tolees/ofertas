@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bm8s9VXeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072PYBVF7-es Sortija Tommy Hilfiger 3 piezas acero inoxidable talla 13 baño oro 2700581B [AB9893]'
+slug: 'B072PYBVF7-es Sortija Tommy Hilfiger 3 piezas acero inoxidable talla 13...'
+tags: 
 actualPrice: 46.9 EUR
 currency: EUR
 price: 46.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LoeSAqkML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YL3KNR1-es MTNG Attitude 84361B  Zapatillas para Hombre  Azul  Wax Suede Marino C49102   44 EU'
+slug: 'B07YL3KNR1-es MTNG Attitude 84361B Zapatillas para Hombre Azul Wax Suede...'
+tags: 
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h6EXMxo8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0075D8KDY-es Fiskars Bloque de cuchillos con 5 cuchillos  Ancho: 15 5 cm  Alto: 37 cm  Madera de abedul  Negro  Edge  1003099'
+slug: 'B0075D8KDY-es Fiskars Bloque de cuchillos con 5 cuchillos Ancho: 15 5 cm...'
+tags: 
 actualPrice: 82.5 EUR
 currency: EUR
 price: 82.5

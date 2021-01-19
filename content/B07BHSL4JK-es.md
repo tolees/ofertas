@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mnrb78aOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHSL4JK-es HAIROXOL-Cápsulas tratamiento anti-caída de cabello | Bitoina  Zinc  vitaminas  Selenio  L-Carnitina | Crecepelo | crecimiento capilar en hombres y mujeres | piel  barba  uñas | 60 pastillas'
+slug: 'B07BHSL4JK-es HAIROXOL-Cápsulas tratamiento anti-caída de cabello |...'
+tags: 
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

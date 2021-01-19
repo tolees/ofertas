@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CQN2QH8-es Spontex - Bayeta Microfibra economic 1+1'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

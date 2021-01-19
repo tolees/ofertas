@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+0DuFwNPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6B8DFS-es Bergner Infinity Chef Set de Cuchillos y Barra magnética  Acero Inoxidable  Bronce  20 cm'
+slug: 'B01M6B8DFS-es Bergner Infinity Chef Set de Cuchillos y Barra magnética...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

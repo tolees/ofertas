@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nZjFk+v8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZZMNDO-es Levi s 502 Regular Taper Jeans  Azul  City Park 0011   31W / 34L para Hombre'
+slug: 'B01LZZMNDO-es Levi s 502 Regular Taper Jeans Azul City Park 0011 31W /...'
+tags: 
 actualPrice: 54.67 EUR
 currency: EUR
 price: 54.67

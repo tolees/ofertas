@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x2f9zaP3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGYC72V-es Bolsas de Cuero con Clip de Cinturón Hombre - 5.2"/6.3" In Funda de Piel Funda para Cinturón Clip Cinturón Caso  Case Protectora Pouch Bag para Teléfono Móvil  Teléfonos Inferiores 5.2IN  Marrón '
+slug: 'B07LGYC72V-es Bolsas de Cuero con Clip de Cinturón Hombre - 5.2"/6.3" In...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

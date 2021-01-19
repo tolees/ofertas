@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q-cNuY1KL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M4M4DG2-es Relaxdays Pala Pizza Horno XXL  Tabla  Espátula con Mango Largo  Pan  Madera de Pino  1 Ud  1 x 30 x 78 cm  Marrón'
+slug: 'B01M4M4DG2-es Relaxdays Pala Pizza Horno XXL Tabla Espátula con Mango...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

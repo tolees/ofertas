@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410DMwo%2BIPL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBNDJNJ-es National Geographic - Telescopio y microscopio para Principiantes'
+slug: 'B07NBNDJNJ-es National Geographic - Telescopio y microscopio para...'
+tags: 
 actualPrice: 69.2 EUR
 currency: EUR
 price: 69.2

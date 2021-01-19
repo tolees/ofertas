@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MwV9MEQAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ST8QPG3-es Lebze Bebé Muselina Swaddle Manta "Diseño de Elefante" Bambú Algodon Muselinas 120x120 cm Mantitas para Bebes'
+slug: 'B07ST8QPG3-es Lebze Bebé Muselina Swaddle Manta "Diseño de Elefante"...'
+tags: 
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

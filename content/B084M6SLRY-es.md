@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zO6O+RL0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084M6SLRY-es Cabezales de cepillo de dientes eléctrico y accesorio de cepillo de rostro compatible con cabezales de cepillo de dientes Oral B para cabezal de cepillo de dientes Oral-B'
+slug: 'B084M6SLRY-es Cabezales de cepillo de dientes eléctrico y accesorio de...'
+tags: 
 actualPrice: 11.26 EUR
 currency: EUR
 price: 11.26

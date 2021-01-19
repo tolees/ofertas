@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KII9OOC-es Manguitos Hinchables Bestway Spiderman'
+tags: 
 actualPrice: 5.91 EUR
 currency: EUR
 price: 5.91

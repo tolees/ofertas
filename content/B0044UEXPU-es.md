@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415vd8dKI6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0044UEXPU-es HP CE312A 126A Cartucho de Tóner Original  1 unidad  amarillo'
+slug: 'B0044UEXPU-es HP CE312A 126A Cartucho de Tóner Original 1 unidad amarillo'
+tags: 
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

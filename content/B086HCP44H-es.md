@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sWxwYJl9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086HCP44H-es Ausonia Discreet Compresas Para Pérdidas De Orina Mini Para Vejigas Hiperactivas x 160'
+slug: 'B086HCP44H-es Ausonia Discreet Compresas Para Pérdidas De Orina Mini...'
+tags: 
 actualPrice: 18.4 EUR
 currency: EUR
 price: 18.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k3slaiV2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDGXRYP-es Helly Hansen Scurry V3  Zapatillas para Hombre  Turquesa  Deep Lagoon/Off White 497   43 EU'
+slug: 'B07TDGXRYP-es Helly Hansen Scurry V3 Zapatillas para Hombre Turquesa...'
+tags: 
 actualPrice: 55.86 EUR
 currency: EUR
 price: 55.86

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TBY23YJEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS8X1ZC-es Varita masajeadora de ojos  con calor de 42 ° C y vibración sónica para ojeras  hinchazón y fatiga ocular  arrugas  dispositivo de masaje facial para el cuidado de la piel'
+slug: 'B07VS8X1ZC-es Varita masajeadora de ojos con calor de 42 ° C y vibración...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YEtBtbTqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084WS4DZG-es LxTek Reemplazo Compatible para Epson 29 29XL Multipack Cartuchos de tinta para Epson Expression Home XP-235 XP-245 XP-247 XP-255 XP-342 XP-332 XP-335 XP-345 XP-355 XP-352 XP-432 XP-435 XP-442 XP-445'
+slug: 'B084WS4DZG-es LxTek Reemplazo Compatible para Epson 29 29XL Multipack...'
+tags: 
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514qrfL1ZKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XB7PP9V-es ViVidLife Bolsa de Pañales  2 PCS Bolsa Pañales Impermeable Reutilizable Lavable Bolsa Organizador de Maquillaje  Viajes  Playa  Piscina  Gym con 2 Cremallera para Mamá Bebé'
+slug: 'B07XB7PP9V-es ViVidLife Bolsa de Pañales 2 PCS Bolsa Pañales Impermeable...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

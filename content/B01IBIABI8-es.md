@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qPzTlrLhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IBIABI8-es JACK & JONES JJIPAUL JJLEATHER BELT NOOS  Cinturón Hombre  Marrón  Mocha Bisque   80 cm  Talla del fabricante: 80 '
+slug: 'B01IBIABI8-es JACK & JONES JJIPAUL JJLEATHER BELT NOOS Cinturón Hombre...'
+tags: 
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

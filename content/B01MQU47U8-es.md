@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WkGoqgbNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQU47U8-es Braun BT3040 - Máquina Cortar Pelo  Recortadora Barba y Cortapelos  con Cuchillas Afiladas de Larga Duración  Negro/Azul  Incluye Maquinilla Gillete Fusion5'
+slug: 'B01MQU47U8-es Braun BT3040 - Máquina Cortar Pelo Recortadora Barba y...'
+tags: 
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

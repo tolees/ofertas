@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tZpznsPmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004ZLAGLS-es OXO Good Grips 1312480V1MLNYK Cepillo Eléctrico para Parrilla y Panini  Plastic  Negro'
+slug: 'B004ZLAGLS-es OXO Good Grips 1312480V1MLNYK Cepillo Eléctrico para...'
+tags: 
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

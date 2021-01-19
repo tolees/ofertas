@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418QOS3gqlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076MTNJCR-es Bella Aurora Splendor 10 Crema Facial Hidratante Anti-Edad Mujer Día Tratamiento Anti-Arrugas para la Cara Sin Parabenos  50 ml'
+slug: 'B076MTNJCR-es Bella Aurora Splendor 10 Crema Facial Hidratante Anti-Edad...'
+tags: 
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

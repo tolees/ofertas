@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tb+mke4lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CFZZN3Q-es Keter -  Mesa nevera para jardín Cool Stool  Capacidad 39 litros  Color capuchino'
+slug: 'B01CFZZN3Q-es Keter - Mesa nevera para jardín Cool Stool Capacidad 39...'
+tags: 
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

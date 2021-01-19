@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NEjW5NrIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08549XVXY-es Baoblaze 20 Piezas/Set Ganchos De Encaje De Bota Chapados En Metal Hebillas con Remaches para Reparación/Campamento/Caminata/Escalada Accesorios Oro An'
+slug: 'B08549XVXY-es Baoblaze 20 Piezas/Set Ganchos De Encaje De Bota Chapados...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

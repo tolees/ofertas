@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wLFBiEC5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLLJRH-es Napapijri TALY 2 LS Polo  Rojo  Red Scarlet R01   M para Hombre'
+slug: 'B07MMLLJRH-es Napapijri TALY 2 LS Polo Rojo Red Scarlet R01 M para Hombre'
+tags: 
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

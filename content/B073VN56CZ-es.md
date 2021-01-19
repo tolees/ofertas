@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31boXn8YK3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073VN56CZ-es Maybelline New York - SuperStay 24H  Base de Maquillaje Semi-Mate de Alta Cobertura  Tono 30 Sand'
+slug: 'B073VN56CZ-es Maybelline New York - SuperStay 24H Base de Maquillaje...'
+tags: 
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xNyoEMRKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXON3HQ-es Brabantia Bin newIcon Cubo de Basura con Pedal  Acero Inoxidable  Rojo pasión  5 l'
+slug: 'B01LXON3HQ-es Brabantia Bin newIcon Cubo de Basura con Pedal Acero...'
+tags: 
 actualPrice: 21.42 EUR
 currency: EUR
 price: 21.42

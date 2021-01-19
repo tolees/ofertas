@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ufUBrzLHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FYG4NZY-es Wanme Correas Compatible con Xiaomi Mi Band 5 Pulsera Reloj Silicona Banda Original para Xiaomi Mi Smart Band 5 Recambio Pulsera Correa  6 Pack '
+slug: 'B08FYG4NZY-es Wanme Correas Compatible con Xiaomi Mi Band 5 Pulsera...'
+tags: 
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

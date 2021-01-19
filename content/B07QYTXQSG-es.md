@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kxc0Eks6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QYTXQSG-es BANLVS 1080P Cámara IP WiFi  Cámara de Vigilancia WiFi Interior FHD con Visión Nocturna  Detección de Movimiento  Audio de 2 Vías  Vigilancia de Seguridad para Hogar/Bebé/Mascotas'
+slug: 'B07QYTXQSG-es BANLVS 1080P Cámara IP WiFi Cámara de Vigilancia WiFi...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

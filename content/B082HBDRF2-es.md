@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OUDEU-acL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HBDRF2-es ART VVIES mit Haken für hauptdekorationen Vintage kätzchen schule kätzchen Katze Charmant lernen vorstellen wandbild 24x24 zoll leinwand Holz gerahmt'
+slug: 'B082HBDRF2-es ART VVIES mit Haken für hauptdekorationen Vintage kätzchen...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

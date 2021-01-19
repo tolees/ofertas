@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411NdLEaiyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGQG5FG-es Salomon out Day 20+4 Mochila  Capacidad 24 L  Mujer  Azul  Canton   S/M'
+slug: 'B07LGQG5FG-es Salomon out Day 20+4 Mochila Capacidad 24 L Mujer Azul...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

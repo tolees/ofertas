@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31TZYxdMNUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B005X5IKN6-es Ted Lapidus Black Soul Imperial - Agua de toilette  50 ml'
+slug: 'B005X5IKN6-es Ted Lapidus Black Soul Imperial - Agua de toilette 50 ml'
+tags: 
 actualPrice: 20.58 EUR
 currency: EUR
 price: 20.58

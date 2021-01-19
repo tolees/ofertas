@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qy8DBB9kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZNTNSS-es Magic Memory Iron Wire Card Magic Trick Permitir Que El Cable Se Forme En Una Selección'
+slug: 'B07KZNTNSS-es Magic Memory Iron Wire Card Magic Trick Permitir Que El...'
+tags: 
 actualPrice: 10.3 EUR
 currency: EUR
 price: 10.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YkEHyr74L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMTQW3Q-es Ghassoul Rhassoul Gránulos 800g | Arcilla roja marroquí para usar como mascarilla para la limpieza facial | Peeling natural para la cara y el cabello | Arcilla limpiadora para el cuidado personal.'
+slug: 'B07JMTQW3Q-es Ghassoul Rhassoul Gránulos 800g | Arcilla roja marroquí...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

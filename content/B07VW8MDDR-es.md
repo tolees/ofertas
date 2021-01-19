@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Oo2L-6bYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VW8MDDR-es Bugatti 321720016950  Zapatillas para Hombre  Azul  Dark Blue/Cognac 4163   40 EU'
+slug: 'B07VW8MDDR-es Bugatti 321720016950 Zapatillas para Hombre Azul Dark...'
+tags: 
 actualPrice: 15.93 EUR
 currency: EUR
 price: 15.93

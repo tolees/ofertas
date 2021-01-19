@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313JNKPydRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWHH2NQ-es Funko- Pop Marvel: Fantastic Four-Silver Surfer Collectible Toy  Multicolor  44992 '
+slug: 'B07TWHH2NQ-es Funko- Pop Marvel: Fantastic Four-Silver Surfer...'
+tags: 
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67

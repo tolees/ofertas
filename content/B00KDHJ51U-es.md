@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316QKIHYrML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KDHJ51U-es Lacor - 68601 - Botella Para Sifón CO2  1 Litro'
+slug: 'B00KDHJ51U-es Lacor - 68601 - Botella Para Sifón CO2 1 Litro'
+tags: 
 actualPrice: 29.31 EUR
 currency: EUR
 price: 29.31

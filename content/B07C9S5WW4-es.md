@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eAekdd6NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C9S5WW4-es Skechers Women s Squad-Team BOBS Trainers  Beige  Dk.Taupe Durasuede Dktp   8  41 EU '
+slug: 'B07C9S5WW4-es Skechers Women s Squad-Team BOBS Trainers Beige Dk.Taupe...'
+tags: 
 actualPrice: 27.15 EUR
 currency: EUR
 price: 27.15

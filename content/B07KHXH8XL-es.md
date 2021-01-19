@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vGyczM7iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KHXH8XL-es ECO-WORTHY 12 voltios 5 vatios 10 vatios 120 vatios Energía del Panel Solar portátil Cargador de batería de Respaldo para la Potencia del Motor del automóvil  10W Panel Solar '
+slug: 'B07KHXH8XL-es ECO-WORTHY 12 voltios 5 vatios 10 vatios 120 vatios...'
+tags: 
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

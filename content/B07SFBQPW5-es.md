@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WtRjfWN3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFBQPW5-es Helly Hansen HH Duffel Bag 2 50l Bolsa de Viaje  Unisex Adulto  Ebony/Cherry Tomato'
+slug: 'B07SFBQPW5-es Helly Hansen HH Duffel Bag 2 50l Bolsa de Viaje Unisex...'
+tags: 
 actualPrice: 63.5 EUR
 currency: EUR
 price: 63.5

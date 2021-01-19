@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DnWI2BODL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075CRSZLT-es El Padrino 1-3  Edición 2017  [Blu-ray]'
+slug: 'B075CRSZLT-es El Padrino 1-3 Edición 2017 [Blu-ray]'
+tags: 
 actualPrice: 22.31 EUR
 currency: EUR
 price: 22.31

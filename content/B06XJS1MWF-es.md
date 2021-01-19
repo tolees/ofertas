@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Whq9J-4dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XJS1MWF-es Hot Mom - barandillas de la cama 150 cm para bebés  portátil y estable  barrera de seguridad color gris  2020 new'
+slug: 'B06XJS1MWF-es Hot Mom - barandillas de la cama 150 cm para bebés...'
+tags: 
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

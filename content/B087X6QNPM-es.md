@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mFOdTczjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087X6QNPM-es Suhctup Funda Transparent Compatible para Samsung Galaxy Note 9 Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Galaxy Note 9 A4'
+slug: 'B087X6QNPM-es Suhctup Funda Transparent Compatible para Samsung Galaxy...'
+tags: 
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

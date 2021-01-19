@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31bcrQWnPkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFHC392-es Tommy Hilfiger Long Sleeve Slim Polo  Rojo  Haute Red Xbe   XL para Mujer'
+slug: 'B07NFHC392-es Tommy Hilfiger Long Sleeve Slim Polo Rojo Haute Red Xbe XL...'
+tags: 
 actualPrice: 34 EUR
 currency: EUR
 price: 34

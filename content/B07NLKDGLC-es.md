@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419WMWfWJ0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLKDGLC-es Versace Jeans CoutureBorsaMujerBolso de manoRojo  Rosso  5 5x16x16 centimeters  W x H x L '
+slug: 'B07NLKDGLC-es Versace Jeans CoutureBorsaMujerBolso de manoRojo Rosso 5...'
+tags: 
 actualPrice: 93.39 EUR
 currency: EUR
 price: 93.39

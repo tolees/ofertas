@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HfyJOfcOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1YG9XJ-es TACKLIFE Llaves de Vaso Hexagonales Profesional  14 Piezas  Aleado S2  Alta Precisión  Herramientas Manuales  Para Reparar Motocicletas  Coche  Electrodomésticos - HBS1A'
+slug: 'B07G1YG9XJ-es TACKLIFE Llaves de Vaso Hexagonales Profesional 14 Piezas...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

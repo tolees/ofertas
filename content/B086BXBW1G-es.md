@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41coENn6FrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BXBW1G-es Oihxse Funda Compatible con Samsung Galaxy S20 Plus 5G  Carcasa Transparente TPU Silicona Gel Ultra Fina Suave Protección Flexible Lindo Dibujos Anti-rasguños Caso Cubierta  A10 '
+slug: 'B086BXBW1G-es Oihxse Funda Compatible con Samsung Galaxy S20 Plus 5G...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

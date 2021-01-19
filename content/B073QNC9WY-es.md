@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315GyM1msWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QNC9WY-es Levi s Batwing Hoodie  Capucha Mujer  Marfil  Sportswear Hoodiee White 0001   X-Large'
+slug: 'B073QNC9WY-es Levi s Batwing Hoodie Capucha Mujer Marfil Sportswear...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

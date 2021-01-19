@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KXDBj-UtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6LPG79-es Tommy Hilfiger Formal Belt 3.0 Cinturón   Brown 0im   100  Talla del fabricante: 85.0  para Hombre'
+slug: 'B07N6LPG79-es Tommy Hilfiger Formal Belt 3.0 Cinturón Brown 0im 100...'
+tags: 
 actualPrice: 28.77 EUR
 currency: EUR
 price: 28.77

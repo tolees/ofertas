@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z49yrbt1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PTGF4W-es Saucony Jazz O Vintage  Zapatillas de Cross para Hombre  Azul  Blue/Navy/ Silver 4   37 EU'
+slug: 'B074PTGF4W-es Saucony Jazz O Vintage Zapatillas de Cross para Hombre...'
+tags: 
 actualPrice: 51.07 EUR
 currency: EUR
 price: 51.07

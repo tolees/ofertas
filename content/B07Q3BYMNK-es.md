@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51DqbshiiML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3BYMNK-es Ferilinso Cristal Templado para Xiaomi Mi 9 Lite  Redmi Note 8  Redmi 7  Redmi S3 Protector de Pantalla [4 Pack] Protector de Pantalla Screen Protector'
+slug: 'B07Q3BYMNK-es Ferilinso Cristal Templado para Xiaomi Mi 9 Lite Redmi...'
+tags: 
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

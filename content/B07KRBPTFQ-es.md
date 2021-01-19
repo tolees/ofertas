@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ttv3YpTSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRBPTFQ-es GANT FOOTWEAR Atlanta  Zapatillas para Hombre  Azul  Marine G69   42 EU'
+slug: 'B07KRBPTFQ-es GANT FOOTWEAR Atlanta Zapatillas para Hombre Azul Marine...'
+tags: 
 actualPrice: 62.46 EUR
 currency: EUR
 price: 62.46

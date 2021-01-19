@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4136KMwIgHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYB7VZ5-es Scimitar - Deportivas Casuales de Cierre Adhesivo para Chico Hombre  42 EU   Negro '
+slug: 'B07ZYB7VZ5-es Scimitar - Deportivas Casuales de Cierre Adhesivo para...'
+tags: 
 actualPrice: 28.7 EUR
 currency: EUR
 price: 28.7

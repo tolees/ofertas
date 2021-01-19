@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21UZiqBwDsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QLTQIUA-es Rayen Barra Extra de Armario  Acero  Gris  77 x 85 x 2'
+slug: 'B00QLTQIUA-es Rayen Barra Extra de Armario Acero Gris 77 x 85 x 2'
+tags: 
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

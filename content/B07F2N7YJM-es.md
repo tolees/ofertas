@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ylWHAP43L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2N7YJM-es Amazon Essentials - Pantalones deportivos ajustados para hombre  Gris oscuro  US M  EU M '
+slug: 'B07F2N7YJM-es Amazon Essentials - Pantalones deportivos ajustados para...'
+tags: 
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

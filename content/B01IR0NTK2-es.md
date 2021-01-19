@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318+H2SJcWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IR0NTK2-es Philips Airfryer HD9621/90 - Freidora sin Aceite  Tecnología TurboStar  1425 W  0 8 kg  Diseño Compacto  Negro'
+slug: 'B01IR0NTK2-es Philips Airfryer HD9621/90 - Freidora sin Aceite...'
+tags: 
 actualPrice: 141.99 EUR
 currency: EUR
 price: 141.99

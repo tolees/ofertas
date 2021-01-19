@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41d8%2Bwhao-L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9K47KG-es Reebok Club C 85  Zapatillas Deportivas para Interior Hombre  Blanco  Int / White / Green   44 EU'
+slug: 'B01N9K47KG-es Reebok Club C 85 Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 57.49 EUR
 currency: EUR
 price: 57.49

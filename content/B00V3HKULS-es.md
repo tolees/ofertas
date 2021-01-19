@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31u72atH8dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V3HKULS-es AmazonBasics - Protector de colchón de moletón impermeable para cuna 70 x 140 cm'
+slug: 'B00V3HKULS-es AmazonBasics - Protector de colchón de moletón impermeable...'
+tags: 
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

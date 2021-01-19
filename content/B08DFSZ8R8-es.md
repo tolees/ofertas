@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lM93nqmkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DFSZ8R8-es Kaishuai Alfombrilla de Ratón Grande Gaming Mouse Pad Impermeable con Base de Goma Antideslizante Patrón de Conejo de Hadas de -Textured Superficie para Gamers Ordenador  Laptop Trabajo de Oficina'
+slug: 'B08DFSZ8R8-es Kaishuai Alfombrilla de Ratón Grande Gaming Mouse Pad...'
+tags: 
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

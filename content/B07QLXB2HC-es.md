@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BRSVlNhzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLXB2HC-es BERSIGAR 100 medidor de Resistencia al Agua Reloj analógico automático para Hombres con Correa de Acero Inoxidable  Dorado-Negro '
+slug: 'B07QLXB2HC-es BERSIGAR 100 medidor de Resistencia al Agua Reloj...'
+tags: 
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

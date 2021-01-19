@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414MkwHdKHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018D8YZU6-es Vizaro - Cambiador Bebé Textil Acolchado - Portátil - Muy cálido - Viaje 70x75cm - Algodón Puro - Hecho UE  OekoTex - Búhos'
+slug: 'B018D8YZU6-es Vizaro - Cambiador Bebé Textil Acolchado - Portátil - Muy...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

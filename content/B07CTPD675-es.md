@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tBnNPL6pL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTPD675-es Vieta Pro Power Pro - Altavoz inalámbrico portátil  Bluetooth  Reproductor USB  Radio FM  Manos Libres  Cargador USB  aux-in  Micro SD  8 Horas de autonomía   Negro'
+slug: 'B07CTPD675-es Vieta Pro Power Pro - Altavoz inalámbrico portátil...'
+tags: 
 actualPrice: 64.54 EUR
 currency: EUR
 price: 64.54

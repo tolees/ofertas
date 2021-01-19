@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512ofamRTiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0738FHB9Q-es Amazon Essentials Fleece-Outerwear-Jackets  Jaspeado Gris carbón  S'
+slug: 'B0738FHB9Q-es Amazon Essentials Fleece-Outerwear-Jackets Jaspeado Gris...'
+tags: 
 actualPrice: 8.91 EUR
 currency: EUR
 price: 8.91

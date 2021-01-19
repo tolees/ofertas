@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gZ+wKlhEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB5VQV6-es AUNA IR-120 Radio de Internet - MP3  WMA  Acc  Wi-Fi  conexión USB y AUX  Alarma  Autoapagado  15000 emisoras  Mando a Distancia  Blanco'
+slug: 'B07HB5VQV6-es AUNA IR-120 Radio de Internet - MP3 WMA Acc Wi-Fi conexión...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

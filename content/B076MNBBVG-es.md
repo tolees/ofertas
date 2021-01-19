@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xEaqVolvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076MNBBVG-es Toalla de Microfibra Sternitz- Compacta - Absorbente - Secado Rápido Natación  Gym  Running  Ciclismo  Senderismo  Yoga  Pilates  etc. - Microfiber Towel  Aqua  80cm x 180cm '
+slug: 'B076MNBBVG-es Toalla de Microfibra Sternitz- Compacta - Absorbente -...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nJMVskw7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AR3ITXO-es SmugPets 315 Bolsas biodegradables para excrementos con dispensador y Clip para Correa - Extragrandes y perfumadas'
+slug: 'B01AR3ITXO-es SmugPets 315 Bolsas biodegradables para excrementos con...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

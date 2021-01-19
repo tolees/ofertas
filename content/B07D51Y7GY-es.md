@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eeFWt5o5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D51Y7GY-es Veet Bandas de Cera Depilatoria -Easy Gelwax  Pieles Normales 20 bandas  Pack de 3uds '
+slug: 'B07D51Y7GY-es Veet Bandas de Cera Depilatoria -Easy Gelwax Pieles...'
+tags: 
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

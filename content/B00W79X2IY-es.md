@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21ZyjMA7QLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W79X2IY-es iap PHARMA PARFUMS nº 51 - Perfume Floral con vaporizador para Hombre - 150 ml'
+slug: 'B00W79X2IY-es iap PHARMA PARFUMS nº 51 - Perfume Floral con vaporizador...'
+tags: 
 actualPrice: 5.24 EUR
 currency: EUR
 price: 5.24

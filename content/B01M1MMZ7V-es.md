@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CG34auUKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1MMZ7V-es Einhell 4512040 Kit con Cargador batería de Repuesto de 18 V  2  0 W  21 V  Negro  Rojo  2.0 Ah  duración de carga: 30 minutos'
+slug: 'B01M1MMZ7V-es Einhell 4512040 Kit con Cargador batería de Repuesto de 18...'
+tags: 
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95

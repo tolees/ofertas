@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414SiL1NawL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YTP55MX-es Safety 1st Ever Safe Plus Silla Coche grupo 1 2 3  crece con el niño 9 meses - 12 años  9-36 kg   con cojín reductor extraíble  color Negro'
+slug: 'B07YTP55MX-es Safety 1st Ever Safe Plus Silla Coche grupo 1 2 3 crece...'
+tags: 
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

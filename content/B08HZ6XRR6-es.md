@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-xqH+jn9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HZ6XRR6-es BOWFU Funda para Xiaomi Poco X3 NFC [Ranuras de Tarjeta][Soporte Plegable][Cierre Magnético] Cartera Cuero PU Mandala Gofrado Cover para Xiaomi Poco X3 NFC-Verde'
+slug: 'B08HZ6XRR6-es BOWFU Funda para Xiaomi Poco X3 NFC [Ranuras de...'
+tags: 
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jvgWPVcIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001KL18FO-es Moulinex Vitae JU200045 - Licuadoras para Verduras y Frutas  200 W  Velocidad 12.800 rpm  Tapa y Contenedor Pulpa Transparente  Extractor de Jugos con Filtro de Inoxidable Compatible Lavavajillas'
+slug: 'B001KL18FO-es Moulinex Vitae JU200045 - Licuadoras para Verduras y...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41quhL02OKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072LQGWBD-es REARAND Relaja la Almohada ， Es una Increíble solución para aliviar de Forma Natural y Segura los Dolores de Cuello y Hombros'
+slug: 'B072LQGWBD-es REARAND Relaja la Almohada ， Es una Increíble solución...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

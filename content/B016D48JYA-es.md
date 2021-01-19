@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CyCVO5WSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016D48JYA-es PUMA Gorra ESS  White  OSFA  052919 10'
+slug: 'B016D48JYA-es PUMA Gorra ESS White OSFA 052919 10'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

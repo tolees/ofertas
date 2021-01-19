@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fEMx-X9dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMC8SW4-es Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Hombre  Gris  Granite   47 EU'
+slug: 'B07KMC8SW4-es Merrell Vapor Glove 4 Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 57.62 EUR
 currency: EUR
 price: 57.62

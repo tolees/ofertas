@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DC9SK3K-es Metal Gear Solid V : The Phantom Pain'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

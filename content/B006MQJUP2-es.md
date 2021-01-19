@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lgGyYCSTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006MQJUP2-es Carissima Gold Pendientes de mujer con oro bicolor de 9 quilates  375/1000   1.5 cm'
+slug: 'B006MQJUP2-es Carissima Gold Pendientes de mujer con oro bicolor de 9...'
+tags: 
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

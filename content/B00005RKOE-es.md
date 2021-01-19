@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jn87CM6cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00005RKOE-es OXO Good Grips INOXO.1050586ML  500 ml'
+slug: 'B00005RKOE-es OXO Good Grips INOXO.1050586ML 500 ml'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

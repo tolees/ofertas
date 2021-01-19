@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYS12WY-es Calvin Klein Reloj para de con Correa en Caucho K8R114D1'
+tags: 
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

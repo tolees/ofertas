@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gQXQ1JbGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01709BVRE-es San Ignacio Masterpro Asador  36 x 24 cm  Aluminio  Gris  Plancha 36'
+slug: 'B01709BVRE-es San Ignacio Masterpro Asador 36 x 24 cm Aluminio Gris...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

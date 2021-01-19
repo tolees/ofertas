@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HbchUXFPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AKAE9JM-es Kingston DataTraveler 2000 DT2000/32GB - Memoria USB 3.0 de 32 GB cifrada con Teclado  Tipo Llave'
+slug: 'B01AKAE9JM-es Kingston DataTraveler 2000 DT2000/32GB - Memoria USB 3.0...'
+tags: 
 actualPrice: 89.03 EUR
 currency: EUR
 price: 89.03

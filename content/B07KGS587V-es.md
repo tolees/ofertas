@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417pL88AilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGS587V-es BILLABONG Walled Trucker Gorra de béisbol  Morado  Maroon 973   One Size  Tamaño del Fabricante:U  para Hombre'
+slug: 'B07KGS587V-es BILLABONG Walled Trucker Gorra de béisbol Morado Maroon...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

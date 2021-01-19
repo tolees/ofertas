@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qxbnOw1cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5VPBN3-es Jack & Jones Jorfame Crew Neck Suéter  Azul  Sunflower Fit: Knit Fit Gradient   S para Hombre'
+slug: 'B07W5VPBN3-es Jack & Jones Jorfame Crew Neck Suéter Azul Sunflower Fit:...'
+tags: 
 actualPrice: 9.13 EUR
 currency: EUR
 price: 9.13

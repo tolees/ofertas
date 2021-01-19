@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pxRUK3nEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNNQMD5-es Calvin Klein Thong 3pk Tanga  Blanco  Bubble Gum/White/Grey Heather Xy3    Talla del Fabricante: Small  para Mujer'
+slug: 'B07VNNQMD5-es Calvin Klein Thong 3pk Tanga Blanco Bubble Gum/White/Grey...'
+tags: 
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UQlY12HbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5QHXBK-es Triumph Lace Spotlight W Sujetador con Aros  Negro  Black 0004   90C  Talla del Fabricante: 75  para Mujer'
+slug: 'B07J5QHXBK-es Triumph Lace Spotlight W Sujetador con Aros Negro Black...'
+tags: 
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

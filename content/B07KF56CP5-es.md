@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KBxTxCcML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF56CP5-es Levi s 501 High Rise Short Pantalones Cortos  Azul  Weak In The Knees 0013   W27  Talla del Fabricante: 27  para Mujer'
+slug: 'B07KF56CP5-es Levi s 501 High Rise Short Pantalones Cortos Azul Weak In...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

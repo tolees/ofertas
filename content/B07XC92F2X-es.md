@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UAvS9wKmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XC92F2X-es Hauck Stop N Safe 2 puerta de seguridad incluido extensión de 21cm  puerta de seguridad para escaleras  96 – 101 cm  ampliación con extensiones a 122cm  con apertura a ambos lados  hierro  plata'
+slug: 'B07XC92F2X-es Hauck Stop N Safe 2 puerta de seguridad incluido extensión...'
+tags: 
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

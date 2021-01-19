@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uZYegGPEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZSMTRB-es Opriox Protector Bucal Profesional Deportivo  para Boxeo  Rugby  MMA Muay Thai  Hockey  Judo  Karate Artes Marciales  Blanco '
+slug: 'B07TZSMTRB-es Opriox Protector Bucal Profesional Deportivo para Boxeo...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

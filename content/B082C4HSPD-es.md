@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fMRH9W0ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082C4HSPD-es Moliies Ligas de Hombre 1 par de Liguero Individual Liguero Masculino Gancho Ajustable Liguero de Calcetines Liguero elástico Alto Accesorios Negro '
+slug: 'B082C4HSPD-es Moliies Ligas de Hombre 1 par de Liguero Individual...'
+tags: 
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

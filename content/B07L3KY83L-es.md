@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LPZJoqsZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3KY83L-es WowPrint - Bolsa de maquillaje  diseño de frutas  sandía  piña  limón  viaje  bolsa de cosméticos  bolsa de maquillaje para mujeres y niñas'
+slug: 'B07L3KY83L-es WowPrint - Bolsa de maquillaje diseño de frutas sandía...'
+tags: 
 actualPrice: 12.16 EUR
 currency: EUR
 price: 12.16

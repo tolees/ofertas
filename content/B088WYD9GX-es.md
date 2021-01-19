@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VLh0MmdpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088WYD9GX-es Agger MicroUSB Conector Macho de 5 Pines Micro USB Tipo B Macho del Conector enchufable w Cubierta de plástico'
+slug: 'B088WYD9GX-es Agger MicroUSB Conector Macho de 5 Pines Micro USB Tipo B...'
+tags: 
 actualPrice: 2.78 EUR
 currency: EUR
 price: 2.78

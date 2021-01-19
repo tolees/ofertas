@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51m-bIJPPIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088RH3KSK-es Alfombrilla De Planchar Portátil Manta De Planchar Lana Soporte De Plancha para Planchar A Vapor sobre La Mesa O La Cama'
+slug: 'B088RH3KSK-es Alfombrilla De Planchar Portátil Manta De Planchar Lana...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

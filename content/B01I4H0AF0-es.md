@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LLCBixS5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I4H0AF0-es Urban Classics Hibi Mid Shoe  Zapatillas para Hombre  Braun  Toffee/White   36 EU'
+slug: 'B01I4H0AF0-es Urban Classics Hibi Mid Shoe Zapatillas para Hombre Braun...'
+tags: 
 actualPrice: 13.47 EUR
 currency: EUR
 price: 13.47

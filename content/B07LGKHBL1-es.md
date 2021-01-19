@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wFAd3SxEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGKHBL1-es Mycartridge Tóner Compatible para HP 203x 203A cf540x-cf543x para HP Color Laserjet Pro MFP m281fdw m280nw m281fdn HP Laserjet m254nw m254dw  Negro Cian Magenta Giallo '
+slug: 'B07LGKHBL1-es Mycartridge Tóner Compatible para HP 203x 203A...'
+tags: 
 actualPrice: 94.9 EUR
 currency: EUR
 price: 94.9

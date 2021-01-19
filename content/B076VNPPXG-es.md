@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4105q4eeIbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076VNPPXG-es G-STAR RAW 5620 3D S Tapered Jeans  Azul  Medium Vintage Aged 9436-4970   32W / 32L para Hombre'
+slug: 'B076VNPPXG-es G-STAR RAW 5620 3D S Tapered Jeans Azul Medium Vintage...'
+tags: 
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

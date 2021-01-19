@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ubGotHw5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JZAID2W-es Gembird JPD-UDV2-01  Conjunto de 2 Gamepads USB con Vibración para PC'
+slug: 'B01JZAID2W-es Gembird JPD-UDV2-01 Conjunto de 2 Gamepads USB con...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yAoLxwL4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PAJNQES-es PUMA Suede Classic +  Zapatillas para Hombre  Azul  Peacoat/White   36 EU'
+slug: 'B00PAJNQES-es PUMA Suede Classic + Zapatillas para Hombre Azul...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

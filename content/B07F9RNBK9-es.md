@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9RNBK9-es Festina Reloj de Pulsera F20399/1'
+tags: 
 actualPrice: 153.09 EUR
 currency: EUR
 price: 153.09

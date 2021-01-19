@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316mMJylyUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CCJJ95V-es JACK & JONES Jjeholmen Sweat Hood Noos  Capucha Hombre  Negro  Black Fit:Reg Fit   X-Small'
+slug: 'B07CCJJ95V-es JACK & JONES Jjeholmen Sweat Hood Noos Capucha Hombre...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

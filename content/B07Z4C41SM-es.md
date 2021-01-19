@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C6Ur1SiSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4C41SM-es Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Capucha  Verde  Verdant Green Detail: Reg/Melange   Small para Hombre'
+slug: 'B07Z4C41SM-es Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Capucha...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

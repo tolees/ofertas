@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Wzby78sVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYEYR2B-es Beurer MG850 - Bastón de Masaje intenso con 2 intensidades  reequilibrador de fa scia  color nogal'
+slug: 'B01MYEYR2B-es Beurer MG850 - Bastón de Masaje intenso con 2 intensidades...'
+tags: 
 actualPrice: 144.99 EUR
 currency: EUR
 price: 144.99

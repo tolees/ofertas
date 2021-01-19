@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51c93mpVSQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083PY7R4Z-es Espejo de coche para bebé Espejo automático Espejo retrovisor para bebé para monitorizar al bebé en el asiento trasero para seguridad de viaje Perrito '
+slug: 'B083PY7R4Z-es Espejo de coche para bebé Espejo automático Espejo...'
+tags: 
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

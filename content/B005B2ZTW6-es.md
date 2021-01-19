@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XfllhhcTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005B2ZTW6-es Caterpillar Haycox  Zapatillas para Hombre  Marrón  Beaned 0   42 EU'
+slug: 'B005B2ZTW6-es Caterpillar Haycox Zapatillas para Hombre Marrón Beaned 0...'
+tags: 
 actualPrice: 34.96 EUR
 currency: EUR
 price: 34.96

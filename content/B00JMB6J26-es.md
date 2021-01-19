@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412s4rvplTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JMB6J26-es Yazilind elegante 14K Gold Filled embutido cúbico del diseño del corazón de los pendientes del perno prisionero del Circonita para Pequeñas Idea regalo de las mujeres'
+slug: 'B00JMB6J26-es Yazilind elegante 14K Gold Filled embutido cúbico del...'
+tags: 
 actualPrice: 1.31 EUR
 currency: EUR
 price: 1.31

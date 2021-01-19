@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RHJhx5B1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B94GQRM-es Purina Friskies Vitafit Omega Pienso para Perro Adulto Buey y Pescado 4 x 3 Kg'
+slug: 'B07B94GQRM-es Purina Friskies Vitafit Omega Pienso para Perro Adulto...'
+tags: 
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

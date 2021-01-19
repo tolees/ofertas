@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314fqUASitL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HWCLK-es Clarks Step Weltfree  Zapatillas para Mujer  Negro  Black Black   38 EU'
+slug: 'B07N1HWCLK-es Clarks Step Weltfree Zapatillas para Mujer Negro Black...'
+tags: 
 actualPrice: 18.23 EUR
 currency: EUR
 price: 18.23

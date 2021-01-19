@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rubhuuc6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001KS44AI-es Vans Authentic  Zapatillas de Tela Unisex  Rojo  Red   36.5 EU'
+slug: 'B001KS44AI-es Vans Authentic Zapatillas de Tela Unisex Rojo Red 36.5 EU'
+tags: 
 actualPrice: 40.39 EUR
 currency: EUR
 price: 40.39

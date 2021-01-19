@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Hq91Nvi+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KKKKTW-es FUKTSYSM Cortador de Verdura Mandolina - 8 en 1 Rebanador de Verdura Cortador de Verdura Mandolina de Verduras  Cocina Slicer Rallador de Cuchillas Acero Inoxidable  Pelador  Protector de Manos'
+slug: 'B082KKKKTW-es FUKTSYSM Cortador de Verdura Mandolina - 8 en 1 Rebanador...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x8GfJfJYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016R0KR9U-es Skechers Women s D Lites-Biggest Fan Trainers  Blue  Navy Trubuck/White Mesh/Carolina Blue Trim NVW   3.5 UK 36.5 EU'
+slug: 'B016R0KR9U-es Skechers Women s D Lites-Biggest Fan Trainers Blue Navy...'
+tags: 
 actualPrice: 28.94 EUR
 currency: EUR
 price: 28.94

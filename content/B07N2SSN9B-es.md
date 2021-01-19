@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3171t-Ip04L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2SSN9B-es CRZ YOGA Mujer Naked Feeling Deportivos 7/8 Leggings Yoga Fitness Pantalon de Cintura Alta con Bolsillos-63cm True Navy-R009 46'
+slug: 'B07N2SSN9B-es CRZ YOGA Mujer Naked Feeling Deportivos 7/8 Leggings Yoga...'
+tags: 
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

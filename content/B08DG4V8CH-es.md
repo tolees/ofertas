@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aV0L3Cf7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DG4V8CH-es SUNNSEAN Banda para la Cabeza Diadema con Botones  Color Liso  Deportes  Set 1+10 pcs'
+slug: 'B08DG4V8CH-es SUNNSEAN Banda para la Cabeza Diadema con Botones Color...'
+tags: 
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

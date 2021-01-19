@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DzYILf1RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9KT75R-es casa pura Alfombras de Goma Escaleras - Peldaños de Goma | Santiago - 5pz | 100% Impermeables | Antideslizantes  Resistencia UV | Excelente adherencia  Negra 25x75 cm '
+slug: 'B07Q9KT75R-es casa pura Alfombras de Goma Escaleras - Peldaños de Goma |...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

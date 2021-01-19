@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V6qF5S91L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LNAO66E-es Powerextra 2 X Batería Canon LP-E8 1800mAh Reemplazon Batería Rercargable para Canon LP E8 Rebel T3i T2i T4i T5i EOS 600D 550D 650D 700D Kiss X5 X4 Kiss X6 LC-E8E'
+slug: 'B01LNAO66E-es Powerextra 2 X Batería Canon LP-E8 1800mAh Reemplazon...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

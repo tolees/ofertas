@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51suNCZkrzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088LT1SG7-es qingqingR Estuche dispensador automático de bastoncillos de algodón con bastoncillos de algodón Decoración del hogar del Hotel'
+slug: 'B088LT1SG7-es qingqingR Estuche dispensador automático de bastoncillos...'
+tags: 
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

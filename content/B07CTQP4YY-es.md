@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31keJg8Nb3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTQP4YY-es FIND - Midnight Queen - Paleta de sombras de ojos de 10 tonos n.1'
+slug: 'B07CTQP4YY-es FIND - Midnight Queen - Paleta de sombras de ojos de 10...'
+tags: 
 actualPrice: 3.64 EUR
 currency: EUR
 price: 3.64

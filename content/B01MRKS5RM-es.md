@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DA-PbvHDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRKS5RM-es Hellmann s Salsa Patatas Deluxe Bocabajo - Pack de 8 x 250 ml  Total: 2000 ml '
+slug: 'B01MRKS5RM-es Hellmann s Salsa Patatas Deluxe Bocabajo - Pack de 8 x 250...'
+tags: 
 actualPrice: 8 EUR
 currency: EUR
 price: 8

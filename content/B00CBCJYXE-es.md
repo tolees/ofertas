@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ronHf1SsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CBCJYXE-es Nike 905211 001  Zapatillas de Deporte para Mujer  Multicolor  Blanco 000   35.5 EU'
+slug: 'B00CBCJYXE-es Nike 905211 001 Zapatillas de Deporte para Mujer...'
+tags: 
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

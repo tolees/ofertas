@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zmM+xNa6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814T3CGH-es Under Armour UA HG Armour Graphic Swerve WM Leggings Legging Deportivo  Mallas para Mujer  Gris  XS'
+slug: 'B0814T3CGH-es Under Armour UA HG Armour Graphic Swerve WM Leggings...'
+tags: 
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

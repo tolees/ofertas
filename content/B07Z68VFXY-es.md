@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513Abu6XU2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z68VFXY-es Aigostar 30IMX - Licuadora y extractor de frutas y verduras Potencia de 850 W con bajo nivel de ruido. Semiprofesional 1 25 l. Acero inoxidable Sin bisfenol A.'
+slug: 'B07Z68VFXY-es Aigostar 30IMX - Licuadora y extractor de frutas y...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

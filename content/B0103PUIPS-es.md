@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pFvVjniFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0103PUIPS-es Apace Vision Luces de Seguridad LED  Paquete de 2  con Artículos Extra – Acoplable Estroboscópica / Luz para Correr Deporte Perros Bicicletas Andar y Más'
+slug: 'B0103PUIPS-es Apace Vision Luces de Seguridad LED Paquete de 2 con...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

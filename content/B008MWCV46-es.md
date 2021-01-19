@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nyNl%2BS89L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B008MWCV46-es S.Oliver Reloj Analógico de Cuarzo Unisex con Correa de Silicona - SO-2570-PQ'
+slug: 'B008MWCV46-es S.Oliver Reloj Analógico de Cuarzo Unisex con Correa de...'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

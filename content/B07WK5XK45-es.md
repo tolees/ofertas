@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qft+mwXnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WK5XK45-es MATT SAGA Botella de Agua para Perros Portatil Envase de Comida para Perros con 2 Plegable Tazones para Perros Gatos Mascotas Adecuado para al Aire Libre Caminar Viajar  Blanco '
+slug: 'B07WK5XK45-es MATT SAGA Botella de Agua para Perros Portatil Envase de...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3196eRiuzpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085SQR1HL-es Jack & Jones JJIARUBA JJSWIM Shorts AKM STS Bañador para Hombre  Amarillo neón  S'
+slug: 'B085SQR1HL-es Jack & Jones JJIARUBA JJSWIM Shorts AKM STS Bañador para...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

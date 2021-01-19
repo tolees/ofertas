@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Vwq0m0KzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2QXDW4-es Vans Herren Left Chest Logo Tee T-Shirt  Schwarz  Black White Grey Melange   Small'
+slug: 'B07F2QXDW4-es Vans Herren Left Chest Logo Tee T-Shirt Schwarz Black...'
+tags: 
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

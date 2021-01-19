@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416RzjIGMyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088LWQ9BB-es KRY Ear Wax Remover  Limpiadores de oídos Soft Tips Herramienta eléctrica de selección de orejas para bebés adultos'
+slug: 'B088LWQ9BB-es KRY Ear Wax Remover Limpiadores de oídos Soft Tips...'
+tags: 
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

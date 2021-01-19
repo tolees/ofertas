@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P5SpNJkKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RM2C4S-es Taylor Swoden Eddy - Ventilador de mesa digital  oscilante  mando a distancia. Pantalla LED  4 velocidades  3 modos  70W  oscilación vertical y horizontal  temporizador 8 horas. Diseño retro'
+slug: 'B081RM2C4S-es Taylor Swoden Eddy - Ventilador de mesa digital oscilante...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

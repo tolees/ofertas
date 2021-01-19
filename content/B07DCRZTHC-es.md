@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519AVgi+fHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCRZTHC-es LIGHTAILING Conjunto de Luces  Creator Series Volkswagen T1 Camper Van  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 10220  NO Incluido en el Modelo .'
+slug: 'B07DCRZTHC-es LIGHTAILING Conjunto de Luces Creator Series Volkswagen T1...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

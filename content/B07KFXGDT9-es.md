@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41au5MzLfVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFXGDT9-es PUMA ST Activate Mid WTR  Zapatillas Altas Unisex Adulto  Taffy-Taffy  40.5 EU'
+slug: 'B07KFXGDT9-es PUMA ST Activate Mid WTR Zapatillas Altas Unisex Adulto...'
+tags: 
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

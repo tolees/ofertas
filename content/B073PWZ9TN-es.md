@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wi-p3-5TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073PWZ9TN-es Anself Kit de Pie Escofina Doble Cara + 10pcs Papel de Lija Pedicura Eliminador de Piel Muerta Removedor del Callo'
+slug: 'B073PWZ9TN-es Anself Kit de Pie Escofina Doble Cara + 10pcs Papel de...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414w4KmPehL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079H8LMY9-es Philips Sonicare ProtectiveClean 6100 HX6871/47 - Cepillo de dientes eléctrico  Cepillo de dientes eléctrico con sensor de presión  3 modos de limpieza  3 intensidades  tecnología BrushSync y estuche'
+slug: 'B079H8LMY9-es Philips Sonicare ProtectiveClean 6100 HX6871/47 - Cepillo...'
+tags: 
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

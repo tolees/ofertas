@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YwvSkYqEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ3MRZY-es Springfield 4.2.Pc.Mono Liso Navy  Pantalones para Mujer  Multicolor  Multicolor 18   Talla única  Talla del fabricante: Large '
+slug: 'B07NJ3MRZY-es Springfield 4.2.Pc.Mono Liso Navy Pantalones para Mujer...'
+tags: 
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

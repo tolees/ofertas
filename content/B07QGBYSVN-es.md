@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K4x6iYE3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGBYSVN-es PUTORSEN® Pesado Soporte de Escritorio para Monitor de Las Pantallas de TV  LCD y computadora de17”-35”/43-89cm  Brazo de Monitor con Resorte de Gas  Aluminio  Capacidad de Carga es 15kg'
+slug: 'B07QGBYSVN-es PUTORSEN® Pesado Soporte de Escritorio para Monitor de Las...'
+tags: 
 actualPrice: 84.88 EUR
 currency: EUR
 price: 84.88

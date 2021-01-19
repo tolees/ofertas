@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mq38KljRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXAP0QY-es Philips Azur Performer Plus GC4516/40 - Plancha de vapor  2400W  golpe de vapor 190g  vapor de 45g/min  0.3 litros  Suela StreamGlide Plus  Acero Inoxidable  Rojo'
+slug: 'B01LXAP0QY-es Philips Azur Performer Plus GC4516/40 - Plancha de vapor...'
+tags: 
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

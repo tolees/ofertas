@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5118mnZ-ECL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CHN4FT-es BRTLX Interior de la luz del coche Atmósfera LED decorativa Kit de luz de tira RGB 12V 4 x 18 LED con sonido Función activa Universal Fitment'
+slug: 'B076CHN4FT-es BRTLX Interior de la luz del coche Atmósfera LED...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

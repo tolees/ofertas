@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511ztfzYV3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZ9GY8K-es Masajeadores eléctricos para pies  Pulsos de Baja Frecuencia Estimulación Muscular Eléctrica EMS Cojín de Masaje de Pies Fisioterapia Inteligente para Mejorar la Circulación Sanguínea'
+slug: 'B07XZ9GY8K-es Masajeadores eléctricos para pies Pulsos de Baja...'
+tags: 
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

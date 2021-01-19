@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hYea+oZPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV6YQYG-es Levi s 502 Regular Taper Jeans  Azul  Hawthorne Fog Adapt 0749   W28/L32  Talla del Fabricante: 28 32  para Hombre'
+slug: 'B07TV6YQYG-es Levi s 502 Regular Taper Jeans Azul Hawthorne Fog Adapt...'
+tags: 
 actualPrice: 45.67 EUR
 currency: EUR
 price: 45.67

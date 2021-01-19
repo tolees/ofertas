@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tJMK+fWfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGTMMD6-es Luz Interior Coche bedee Tira LED Iluminación 72 Led  Auto Interior Atmósfera Led Iluminación Interior del Coche Llevaron  el Color de la Decoración de la Lámpara para coche  Impermeable'
+slug: 'B07LGTMMD6-es Luz Interior Coche bedee Tira LED Iluminación 72 Led Auto...'
+tags: 
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VK9NC3N-es toys'
+tags: 
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

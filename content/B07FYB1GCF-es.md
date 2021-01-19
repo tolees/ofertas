@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uw5y7SImL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYB1GCF-es Nuevo té verde Dongting Biluochun Tea fragante primavera 250g  0.55LB  conservado verde biluochun primavera nueva la comida verde'
+slug: 'B07FYB1GCF-es Nuevo té verde Dongting Biluochun Tea fragante primavera...'
+tags: 
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

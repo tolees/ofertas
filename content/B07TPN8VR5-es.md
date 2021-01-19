@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4149cHVJm6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPN8VR5-es Arena W V Back One Piece Bañador Deportivo Mujer Daydreamer  Black-Yellow Star  36'
+slug: 'B07TPN8VR5-es Arena W V Back One Piece Bañador Deportivo Mujer...'
+tags: 
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

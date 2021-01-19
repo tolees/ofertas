@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pNhDqntsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2W1N4V-es Adidas FOREST GROVE C  Zapatillas de deporte Unisex niños  Negro  Core Black/Core Black/Core Black   30 EU'
+slug: 'B07K2W1N4V-es Adidas FOREST GROVE C Zapatillas de deporte Unisex niños...'
+tags: 
 actualPrice: 37.4 EUR
 currency: EUR
 price: 37.4

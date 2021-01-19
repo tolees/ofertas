@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C82Ne9poL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TRXZ9N-es Crucial Ballistix BL2K16G36C16U4R 3600 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  32GB  16GB x2   CL16  Rojo'
+slug: 'B083TRXZ9N-es Crucial Ballistix BL2K16G36C16U4R 3600 MHz DDR4 DRAM...'
+tags: 
 actualPrice: 153.66 EUR
 currency: EUR
 price: 153.66

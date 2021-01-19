@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31dw8ABib5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CMH0HG-es Rimmel London 3 The Only One Lipstick Barra De Labios Mate Tono 810 - 19 gr'
+slug: 'B015CMH0HG-es Rimmel London 3 The Only One Lipstick Barra De Labios Mate...'
+tags: 
 actualPrice: 2.01 EUR
 currency: EUR
 price: 2.01

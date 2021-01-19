@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c5KUMgw3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J5FZLAK-es Atopic Piel Crema Corporal Extreme para el tratamiento de la piel atópica en periodos de brote 150 Ml'
+slug: 'B00J5FZLAK-es Atopic Piel Crema Corporal Extreme para el tratamiento de...'
+tags: 
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

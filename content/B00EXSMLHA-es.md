@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jbAeJPOHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EXSMLHA-es Grohe BauEdge - Grifo para ducha y baño con sistema de montaje en pared e inversor automático. Incluye sistema de ahorro de agua y limitador de caudal ajustable  23334000 '
+slug: 'B00EXSMLHA-es Grohe BauEdge - Grifo para ducha y baño con sistema de...'
+tags: 
 actualPrice: 54.04 EUR
 currency: EUR
 price: 54.04

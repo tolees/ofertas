@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31voYAfqG9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078VGJ3LB-es Sony WI-C300W - Auriculares Inalámbricos  Bluetooth  NFC  Manos Libres   Color Blanco  Talla Única'
+slug: 'B078VGJ3LB-es Sony WI-C300W - Auriculares Inalámbricos Bluetooth NFC...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

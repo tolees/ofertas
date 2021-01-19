@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vsdJVA+fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW328WV-es RFIVER 2 Taburetes Altos de Bar Cafe en Cuero para Comedor Salón Cocina Marrón Vintage BS1004'
+slug: 'B07KW328WV-es RFIVER 2 Taburetes Altos de Bar Cafe en Cuero para Comedor...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

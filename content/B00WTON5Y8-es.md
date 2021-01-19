@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dIlmseKgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WTON5Y8-es FLOSO - Chanclas/Sandalias Diseño Bandera de Reino Unido - Verano/Playa/Piscina  43-44 EUR   Azul Marino/Gris '
+slug: 'B00WTON5Y8-es FLOSO - Chanclas/Sandalias Diseño Bandera de Reino Unido -...'
+tags: 
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

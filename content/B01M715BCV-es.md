@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517W4tkiuUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M715BCV-es KLIM™ Wind + Base de refrigeración para portátil + La más Potente + Refrigerador portátil de 4 Ventiladores a 1200 RPM con Soporte + Compatible con Todos los tamaños + Roja + Nueva VERSIÓN 2020'
+slug: 'B01M715BCV-es KLIM™ Wind + Base de refrigeración para portátil + La más...'
+tags: 
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

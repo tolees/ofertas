@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51D+QYmcxKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JOMPAFE-es Tommee Tippee - Kit de iniciación para recién nacido  transparente'
+slug: 'B01JOMPAFE-es Tommee Tippee - Kit de iniciación para recién nacido...'
+tags: 
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

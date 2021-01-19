@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fmedf3zZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZGS1LP-es Netgear Nighthawk GS810EMX-100PES - Switch Pro Gaming SX10  8 Puertos Gigabit Ethernet con 2 Puertos de 10G/Multi-Gigabit '
+slug: 'B077ZGS1LP-es Netgear Nighthawk GS810EMX-100PES - Switch Pro Gaming SX10...'
+tags: 
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

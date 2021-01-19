@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZF51RVG6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F451CQX-es Mr; Wonderful Woa09072Em Carpeta Archivadora Rockstar In Study Mood'
+slug: 'B07F451CQX-es Mr; Wonderful Woa09072Em Carpeta Archivadora Rockstar In...'
+tags: 
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

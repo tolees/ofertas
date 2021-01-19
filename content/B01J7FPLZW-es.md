@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51afbXpYTrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J7FPLZW-es Chibis Star Trek 50th Anniversary Complete Mini Collectible Figure Set'
+slug: 'B01J7FPLZW-es Chibis Star Trek 50th Anniversary Complete Mini...'
+tags: 
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

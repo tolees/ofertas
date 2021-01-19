@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ku7vVyOgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BYSPKPG-es Fantasy Flight Games- Star Wars Imperial Assault  Boba Fett  Color  Edge Entertainment EDGSWI11 '
+slug: 'B01BYSPKPG-es Fantasy Flight Games- Star Wars Imperial Assault Boba Fett...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

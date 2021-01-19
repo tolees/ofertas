@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317DANUR3PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079BW9Q3S-es perfk Manija de Maleta con Asa de 22.7cm Suministros de Viaje para Portatil Netbooks'
+slug: 'B079BW9Q3S-es perfk Manija de Maleta con Asa de 22.7cm Suministros de...'
+tags: 
 actualPrice: 11.74 EUR
 currency: EUR
 price: 11.74

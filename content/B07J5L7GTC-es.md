@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WAURexaOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5L7GTC-es Optimum Nutrition Gold Standard 100% Plant Proteína Vegana Vainilla - 684 gr'
+slug: 'B07J5L7GTC-es Optimum Nutrition Gold Standard 100% Plant Proteína Vegana...'
+tags: 
 actualPrice: 19.65 EUR
 currency: EUR
 price: 19.65

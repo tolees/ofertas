@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QeATtzp3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VL7MG21-es Deeplee Bomba de Aire Eléctrica  Inflador Eléctrico 150W de Alta Potencia Colchones Inflables/deflactor para Piscinas  Barcos  Juguete Inflado  3 Boquillas Incluidas'
+slug: 'B07VL7MG21-es Deeplee Bomba de Aire Eléctrica Inflador Eléctrico 150W de...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

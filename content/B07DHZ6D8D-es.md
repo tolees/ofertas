@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TS3zKbbrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHZ6D8D-es New Balance 574S v2  Zapatillas para Mujer  Rosa  Cashmere/Cashmere Tea   36.5 EU'
+slug: 'B07DHZ6D8D-es New Balance 574S v2 Zapatillas para Mujer Rosa...'
+tags: 
 actualPrice: 47.23 EUR
 currency: EUR
 price: 47.23

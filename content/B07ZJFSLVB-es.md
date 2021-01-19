@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eW-vh7l5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJFSLVB-es TENMOS T85 Raton Inalambrico Gaming 2.4G USB LED Recargable Inalámbrico silencioso óptico  Sleep Automático  Mango Ergonómico  3 dpi Ajustable  6 Botones para Mac/PC/Portatil/Ordenador  Plata '
+slug: 'B07ZJFSLVB-es TENMOS T85 Raton Inalambrico Gaming 2.4G USB LED...'
+tags: 
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

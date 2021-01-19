@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BbJNne0HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001PHBQHI-es Superga 2750 COTU Classic  Zapatillas de Gimnasia Unisexo  Blanco  Total White 901   42 EU'
+slug: 'B001PHBQHI-es Superga 2750 COTU Classic Zapatillas de Gimnasia Unisexo...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

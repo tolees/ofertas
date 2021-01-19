@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PpjXCyDlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GHEY040-es McCulloch 00096-72.078.01 B26 PS Desbrozadora con un ancho de trabajo de 40 cm  cabezal de corte  interruptor de arranque y parada automático  750 W'
+slug: 'B00GHEY040-es McCulloch 00096-72.078.01 B26 PS Desbrozadora con un ancho...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

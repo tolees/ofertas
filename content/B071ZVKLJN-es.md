@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f0+dikG0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZVKLJN-es adidas Campus  Zapatillas de Deporte para Hombre  Azul  Azuosc / Ftwbla / Blatiz   45 1/3 EU'
+slug: 'B071ZVKLJN-es adidas Campus Zapatillas de Deporte para Hombre Azul...'
+tags: 
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

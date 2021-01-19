@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b9eQqSfUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW4C1PG-es INTEY 3 N1 Detector de Pared  Metal Stud Pinpoint  Madera y AC Cable  Detector de Metales Detector Escáner de Pared Clásico Rojo y Multifuncional  Retroiluminación LCD  Indicación de Distancia'
+slug: 'B07KW4C1PG-es INTEY 3 N1 Detector de Pared Metal Stud Pinpoint Madera y...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

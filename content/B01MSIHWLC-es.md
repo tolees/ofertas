@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dTWmGf2JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSIHWLC-es Columbus Misti 60 L Saco de Dormir  Unisex Adulto  Amarillo  210 x 80/50 cm'
+slug: 'B01MSIHWLC-es Columbus Misti 60 L Saco de Dormir Unisex Adulto Amarillo...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

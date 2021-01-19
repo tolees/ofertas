@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vIA2lyzxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQX2W69-es Clarks Sift Lace  Zapatillas para Mujer  Gris  Grey Snake Grey Snake   40 EU'
+slug: 'B07TQX2W69-es Clarks Sift Lace Zapatillas para Mujer Gris Grey Snake...'
+tags: 
 actualPrice: 41.69 EUR
 currency: EUR
 price: 41.69

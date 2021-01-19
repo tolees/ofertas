@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H+A-07r5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V3HV6OS-es Buff Solid Calentador Lana Merino Heavy  Unisex Adulto  Black  Talla única'
+slug: 'B00V3HV6OS-es Buff Solid Calentador Lana Merino Heavy Unisex Adulto...'
+tags: 
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dE6T8Uz9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J0PG9GK-es Super Sand Giant Gigante  Color Natural  Goliath 83221 '
+slug: 'B00J0PG9GK-es Super Sand Giant Gigante Color Natural Goliath 83221'
+tags: 
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

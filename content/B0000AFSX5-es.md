@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xUTF9UxhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000AFSX5-es Converse Chuck Taylor All Star Season Ox  Zapatillas de Tela Unisex Adulto  Blanco  53 EU'
+slug: 'B0000AFSX5-es Converse Chuck Taylor All Star Season Ox Zapatillas de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

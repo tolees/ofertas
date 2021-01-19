@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yy8vh5tML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPP8HB-es Pepe Jeans Anabella Pantalones   Black 999   17-18 años de Edad  Talla del Fabricante: 17/18 años  para Niñas'
+slug: 'B07MZPP8HB-es Pepe Jeans Anabella Pantalones Black 999 17-18 años de...'
+tags: 
 actualPrice: 24.52 EUR
 currency: EUR
 price: 24.52

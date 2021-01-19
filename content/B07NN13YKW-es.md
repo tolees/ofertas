@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316dX1hlgOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NN13YKW-es Nike Court Vision LO  Zapatillas para Hombre  Negro  Black/White/Photon Dust 100   44.5 EU'
+slug: 'B07NN13YKW-es Nike Court Vision LO Zapatillas para Hombre Negro...'
+tags: 
 actualPrice: 48.25 EUR
 currency: EUR
 price: 48.25

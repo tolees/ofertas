@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Evlnsjo5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3M7YG5-es Kipling Spontaneous S Equipaje de Mano  53 cm  37.5 litros  Verde  Light Aloe '
+slug: 'B07V3M7YG5-es Kipling Spontaneous S Equipaje de Mano 53 cm 37.5 litros...'
+tags: 
 actualPrice: 89.5 EUR
 currency: EUR
 price: 89.5

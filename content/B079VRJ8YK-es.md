@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61dbRh3-LeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VRJ8YK-es Bizak-61921455 Día de Playa   61921455 '
+slug: 'B079VRJ8YK-es Bizak-61921455 Día de Playa 61921455'
+tags: 
 actualPrice: 13.2 EUR
 currency: EUR
 price: 13.2

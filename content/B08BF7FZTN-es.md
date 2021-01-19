@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418Sm28aW3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BF7FZTN-es NICEAO Almohadas Piernas Dormir  Almohada Piernas Dormir OrtopéDicas para Durmientes de Lado  Alivie La CiáTica  Material de Rebote 100% Lento  Almohada para Rodillas  Almohada Piernas'
+slug: 'B08BF7FZTN-es NICEAO Almohadas Piernas Dormir Almohada Piernas Dormir...'
+tags: 
 actualPrice: 6.31 EUR
 currency: EUR
 price: 6.31

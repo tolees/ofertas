@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411IuHJelcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O8XF2VC-es Philips Avent SCF751/05 - Vaso con boquilla blanda  diseño pingüino  para 6 meses  200 ml  color azul'
+slug: 'B00O8XF2VC-es Philips Avent SCF751/05 - Vaso con boquilla blanda diseño...'
+tags: 
 actualPrice: 5.73 EUR
 currency: EUR
 price: 5.73

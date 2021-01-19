@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BcdJ-UK1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGM3F6R-es Columbia Ivo Trail  Zapatillas para Hombre  Marrón  Oatmeal  Light Brown 241   40 EU'
+slug: 'B07RGM3F6R-es Columbia Ivo Trail Zapatillas para Hombre Marrón Oatmeal...'
+tags: 
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

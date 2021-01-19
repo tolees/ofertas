@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UWom0dInL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQNPDU4-es Energy Sistem Tower 1  Torre de Sonido Bluetooth 4.1  30 W Potencia  RCA  3 5 mm Audio-in  - Blanca'
+slug: 'B01MQNPDU4-es Energy Sistem Tower 1 Torre de Sonido Bluetooth 4.1 30 W...'
+tags: 
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

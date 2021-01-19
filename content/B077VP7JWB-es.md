@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zyV7GuVGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VP7JWB-es BaByliss C1500E – Rizador de pelo automático con Sensor Digital  ajusta automáticamente las opciones de temperatura y tiempo  todo tipo de rizos y ondas  selector de la dirección del rizo  iónico'
+slug: 'B077VP7JWB-es BaByliss C1500E – Rizador de pelo automático con Sensor...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

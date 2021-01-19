@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3197PE30TRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01APX1TKQ-es NYX Professional Makeup Pintalabios Lip Lingerie Liquid Lipstick  Acabado cremoso y mate  Larga duración  Fórmula vegana  Tono: Satin Ribbon'
+slug: 'B01APX1TKQ-es NYX Professional Makeup Pintalabios Lip Lingerie Liquid...'
+tags: 
 actualPrice: 5.53 EUR
 currency: EUR
 price: 5.53

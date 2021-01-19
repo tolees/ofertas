@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V2EamMd2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007CFSRVA-es Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Sunflower 176  35.5 EU'
+slug: 'B007CFSRVA-es Superga 2750 COTU Classic Zapatillas Unisex Adulto...'
+tags: 
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

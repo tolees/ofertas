@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NdUznSiLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0058E9ANQ-es Farmacell 302  Negro  M/L  Mini Pantalon Corto masajeador  Moldeador y con Efecto Push-up en los gluteos'
+slug: 'B0058E9ANQ-es Farmacell 302 Negro M/L Mini Pantalon Corto masajeador...'
+tags: 
 actualPrice: 15.15 EUR
 currency: EUR
 price: 15.15

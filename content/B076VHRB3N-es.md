@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Af1cn8plL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076VHRB3N-es Objetivo Tamron 100-400mm F/4.5-6.3 Di VC y Ultrasonic Silent Drive para Canon'
+slug: 'B076VHRB3N-es Objetivo Tamron 100-400mm F/4.5-6.3 Di VC y Ultrasonic...'
+tags: 
 actualPrice: 643.54 EUR
 currency: EUR
 price: 643.54

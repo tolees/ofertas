@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oxRA3uaEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFY5L9D-es PUMA King Hero FG  Zapatillas de fútbol Unisex Adulto  Negro Black White  42 EU'
+slug: 'B07KFY5L9D-es PUMA King Hero FG Zapatillas de fútbol Unisex Adulto Negro...'
+tags: 
 actualPrice: 31.34 EUR
 currency: EUR
 price: 31.34

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/314SbY6EJZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBK3J68-es Levi s 502 True Chino Short Pantalones Cortos  Azul  Nightwatch Blue Soft Wash Twill Ccu B 0019   Talla única  Talla del Fabricante: 30  para Hombre'
+slug: 'B07GBK3J68-es Levi s 502 True Chino Short Pantalones Cortos Azul...'
+tags: 
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

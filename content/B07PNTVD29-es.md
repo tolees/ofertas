@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nHGUER4tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNTVD29-es Awroutdoor Dardos de Acero 12 Piezas Dardos con Puntas Acero  Barrilles Acero de Latón  Ejes de Aluminio  Aletas de Estilo  Plumas y 12 Acero Puntos Dardos'
+slug: 'B07PNTVD29-es Awroutdoor Dardos de Acero 12 Piezas Dardos con Puntas...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

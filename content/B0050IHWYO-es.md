@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418QVw2hWoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0050IHWYO-es Balanza de cocina mecánica con BOL Laica K 711 pesa hasta 1kg. color blanco  diseño clásico.'
+slug: 'B0050IHWYO-es Balanza de cocina mecánica con BOL Laica K 711 pesa hasta...'
+tags: 
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

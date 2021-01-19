@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516p4rJLeyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZM9D4TK-es HYMY Funda para LG K40S Smartphone + 2 x Cristal Templado - Transparente Tapa TPU Silicona [Refuerzo de Cuatro Esquinas  Absorción de Golpes] Caso Carcasa para LG K40S  6.1" '
+slug: 'B07ZM9D4TK-es HYMY Funda para LG K40S Smartphone + 2 x Cristal Templado...'
+tags: 
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tQkt6B3uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MOIX2WO-es Beurer IPL9000 + - Depiladora de luz  pulsada con base  incluye cartucho de 100.000 pulsaciones  color blanco'
+slug: 'B00MOIX2WO-es Beurer IPL9000 + - Depiladora de luz pulsada con base...'
+tags: 
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

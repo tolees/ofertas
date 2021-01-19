@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eerpSaOuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCK3BDH-es OurLeeme Cepillos para uñas  Nail Art Esponja Cepillo Cabeza 6 UNIDS Reutilizable Nail Art UV Gel Blooming Dotting Pintura Cepillo Esponja Cabezas de repuesto'
+slug: 'B07FCK3BDH-es OurLeeme Cepillos para uñas Nail Art Esponja Cepillo...'
+tags: 
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

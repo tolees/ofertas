@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TkTPDfETL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N16FTD7-es Desigual Bag Gemini Colorado  Bandolera para Mujer  Negro  36x16x31 centimeters  B x H x T '
+slug: 'B07N16FTD7-es Desigual Bag Gemini Colorado Bandolera para Mujer Negro...'
+tags: 
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

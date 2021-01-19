@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/514nDZVmGLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MO7XFXQ-es Assassin s Creed: Rogue - Collector s Limited Edition [Importación Italiana]'
+slug: 'B00MO7XFXQ-es Assassin s Creed: Rogue - Collector s Limited Edition...'
+tags: 
 actualPrice: 46.8 EUR
 currency: EUR
 price: 46.8

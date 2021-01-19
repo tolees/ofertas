@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZiegOzHvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYSMR3D-es Wrangler Boyfriend Short Pantalones cortos  Gris  Icy Grey 28c   Small para Mujer'
+slug: 'B07FYSMR3D-es Wrangler Boyfriend Short Pantalones cortos Gris Icy Grey...'
+tags: 
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

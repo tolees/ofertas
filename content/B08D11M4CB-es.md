@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uKx+ikCvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D11M4CB-es BlauBär Pulsera de Actividad Inteligente  El Ganador 2020  | Un Reloj Cuenta Pasos  Deportivo | Podometro Mujer y Hombre | Smart Band Contador de Pasos'
+slug: 'B08D11M4CB-es BlauBär Pulsera de Actividad Inteligente El Ganador 2020 |...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFBFWWQ-es Pop! Crash Bandicoot - Figura de Vinilo Coco Bandicoot'
+tags: 
 actualPrice: 9.71 EUR
 currency: EUR
 price: 9.71

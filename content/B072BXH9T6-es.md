@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ISODSiRUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BXH9T6-es Under Armour Men s Webbing 2.0 Belt Cinturón  Hombre  Blanco  100   Talla Única'
+slug: 'B072BXH9T6-es Under Armour Men s Webbing 2.0 Belt Cinturón Hombre Blanco...'
+tags: 
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

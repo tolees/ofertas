@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nF5gzTl3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ4LQKV-es Parasol de Coche  otumixx 2 Unidades Visera para Ventana lateral de Coche Reduce Calor Aislado y la Radiación UVA para Niño Bebé Mascotas Fácil Instalación Compatible con la mayoría de Coches 126x52cm'
+slug: 'B07NZ4LQKV-es Parasol de Coche otumixx 2 Unidades Visera para Ventana...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

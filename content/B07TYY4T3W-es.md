@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NuqqP8-cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYY4T3W-es Merrell Moab 2 Vent  Zapatillas de Senderismo para Hombre  Gris  Boulder   43 EU'
+slug: 'B07TYY4T3W-es Merrell Moab 2 Vent Zapatillas de Senderismo para Hombre...'
+tags: 
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

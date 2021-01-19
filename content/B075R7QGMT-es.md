@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31sxgW7MTKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R7QGMT-es New Balance 420  Zapatillas para Hombre  Rojo  Classic Burgundy/Castelrock Bug   38.5 EU'
+slug: 'B075R7QGMT-es New Balance 420 Zapatillas para Hombre Rojo Classic...'
+tags: 
 actualPrice: 29.06 EUR
 currency: EUR
 price: 29.06

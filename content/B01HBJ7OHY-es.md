@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51y8HtfmtQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HBJ7OHY-es Tommy Hilfiger 1791269 - Reloj análogico de cuarzo con correa de cuero para hombre  color marrón/negro'
+slug: 'B01HBJ7OHY-es Tommy Hilfiger 1791269 - Reloj análogico de cuarzo con...'
+tags: 
 actualPrice: 101.1 EUR
 currency: EUR
 price: 101.1

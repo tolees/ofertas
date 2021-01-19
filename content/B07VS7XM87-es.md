@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y-8Aa-FBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS7XM87-es Laelr Dual Reloj Despertador Digital con Formato con luz de Fondo de Tiempo  Modo de Fin de Semana  Calendario de Fechas  Temperatura  Reloj Despertador Junto a la Cama para Viajes de Oficina'
+slug: 'B07VS7XM87-es Laelr Dual Reloj Despertador Digital con Formato con luz...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510wPevACML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD2S8Z6-es Salomon XA Pro 3D W Zapatillas de trail running Mujer  Negro  Black/Magnet/Fair Aqua   37 1/3 EU  4.5 UK '
+slug: 'B01HD2S8Z6-es Salomon XA Pro 3D W Zapatillas de trail running Mujer...'
+tags: 
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

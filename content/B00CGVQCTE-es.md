@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GBFGVRg-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CGVQCTE-es Nike Air Max 90 Essential - Zapatillas de running  Hombre  Blanco  White / White-White-White   40.5 EU'
+slug: 'B00CGVQCTE-es Nike Air Max 90 Essential - Zapatillas de running Hombre...'
+tags: 
 actualPrice: 90.01 EUR
 currency: EUR
 price: 90.01

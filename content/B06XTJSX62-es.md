@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BOD0IuZ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTJSX62-es Dolphin Carrera 30 - Robot limpiafondos para piscinas  fondo  paredes y línea de flotación '
+slug: 'B06XTJSX62-es Dolphin Carrera 30 - Robot limpiafondos para piscinas...'
+tags: 
 actualPrice: 450.0 EUR
 currency: EUR
 price: 450.0

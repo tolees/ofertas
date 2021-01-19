@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DCFhbvNOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVDD6SN-es Funda XiaoMi Mi 9 SE con Cristal Templado  AChris 3 en 1 Hard Caja Caso Skin Case Cover Carcasa Ultra Fina Anti-rasguños Choque Resistente Case [Compatible con Carga Inalámbrica]- Rosado'
+slug: 'B07QVDD6SN-es Funda XiaoMi Mi 9 SE con Cristal Templado AChris 3 en 1...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

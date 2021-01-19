@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iZU9uQdVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVHTZ8B-es 5200mAh 593553-001 Batería del ordenador portátil para HP Pavilion DV6-3000 DV6-4000 DV6-6000 DV7-4000 DV7-5000 DV7-6000  G4 G6 G7 G4-1000 G6-1000 COMPAQ Presario CQ32 CQ42 CQ56 CQ62 CQ72 593554-001'
+slug: 'B07PVHTZ8B-es 5200mAh 593553-001 Batería del ordenador portátil para HP...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

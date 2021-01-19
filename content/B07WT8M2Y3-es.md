@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uGoMVBSeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WT8M2Y3-es Samsung Galaxy Watch Active 2 - Smartwatch de Acero  40mm  color Plata  LTE [Versión española]'
+slug: 'B07WT8M2Y3-es Samsung Galaxy Watch Active 2 - Smartwatch de Acero 40mm...'
+tags: 
 actualPrice: 247.11 EUR
 currency: EUR
 price: 247.11

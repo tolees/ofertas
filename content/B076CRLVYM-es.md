@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413jPNt-znL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CRLVYM-es American Tourister - Bon Air - Spinner Maleta 75 cm  91 L  Rojo  Magma Red '
+slug: 'B076CRLVYM-es American Tourister - Bon Air - Spinner Maleta 75 cm 91 L...'
+tags: 
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

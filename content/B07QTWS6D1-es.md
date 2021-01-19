@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D6Cqf4oxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTWS6D1-es Lotus Reloj Analógico para Niñas de Cuarzo con Correa en Cuero 18409/A'
+slug: 'B07QTWS6D1-es Lotus Reloj Analógico para Niñas de Cuarzo con Correa en...'
+tags: 
 actualPrice: 28.51 EUR
 currency: EUR
 price: 28.51

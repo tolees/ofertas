@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lO2gZn+SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XKXBWM-es Under Armour UA TAC Patrol Pant II Pantalones  Hombre  Negro  Ultimate Black/Ultimate Black 008   40W / 32L'
+slug: 'B077XKXBWM-es Under Armour UA TAC Patrol Pant II Pantalones Hombre Negro...'
+tags: 
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

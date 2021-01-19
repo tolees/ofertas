@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kzBHxnCWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLNS443-es FRIENDS MS65091 Imanes  Multicolor  18 x 24 cm'
+slug: 'B07TLNS443-es FRIENDS MS65091 Imanes Multicolor 18 x 24 cm'
+tags: 
 actualPrice: 6.73 EUR
 currency: EUR
 price: 6.73

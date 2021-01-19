@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aSrdo9lcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLLBQG2-es Antipodes Merino Saco de Dormir para bebé niño y niña - Invierno  Cualquier Temporada  Hecho de Lana y algodón – tamaño Universal  3 a 24 Meses  Gris '
+slug: 'B07NLLBQG2-es Antipodes Merino Saco de Dormir para bebé niño y niña -...'
+tags: 
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

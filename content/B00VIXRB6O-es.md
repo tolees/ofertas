@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aEIVgt2qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VIXRB6O-es PetSafe PFD19-15521 Comedero para Mascotas con Programador Digital Healthy Pet Simply Feed'
+slug: 'B00VIXRB6O-es PetSafe PFD19-15521 Comedero para Mascotas con Programador...'
+tags: 
 actualPrice: 122.95 EUR
 currency: EUR
 price: 122.95

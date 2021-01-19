@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415OFkCUW0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D55JQJR-es D DOLITY Indicador de Presión de Aire de Balones con Protector de Goma para Pelotas Inflables Herramienta de Deportes al Aire Libre - Negro  4.5cm'
+slug: 'B07D55JQJR-es D DOLITY Indicador de Presión de Aire de Balones con...'
+tags: 
 actualPrice: 8.58 EUR
 currency: EUR
 price: 8.58

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NfExGDm4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKVHCTJ-es TINYAT Riñonera Mujer Cinturón Riñonera Sling - Bolsillo Súper Ligero para Correr Travel Seaside Bum Bag T2011.'
+slug: 'B07SKVHCTJ-es TINYAT Riñonera Mujer Cinturón Riñonera Sling - Bolsillo...'
+tags: 
 actualPrice: 9.43 EUR
 currency: EUR
 price: 9.43

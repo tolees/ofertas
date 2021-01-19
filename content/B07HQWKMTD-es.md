@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yS4NLWYsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQWKMTD-es Superga 2802-cotw  Zapatillas de Gimnasia para Mujer  Blanco  White 901   35 EU'
+slug: 'B07HQWKMTD-es Superga 2802-cotw Zapatillas de Gimnasia para Mujer Blanco...'
+tags: 
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

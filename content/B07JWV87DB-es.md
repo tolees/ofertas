@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4153A2Y2jYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWV87DB-es Columbia Heavenly Omni-Heat  Botas de Invierno para Mujer  Rojo  Rich Wine  Dare   36 EU'
+slug: 'B07JWV87DB-es Columbia Heavenly Omni-Heat Botas de Invierno para Mujer...'
+tags: 
 actualPrice: 30.18 EUR
 currency: EUR
 price: 30.18

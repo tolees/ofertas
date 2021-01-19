@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oJghEcaoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRGLSXQ-es New Balance Yc373v1 n  Zapatillas para Niñas  Plateado  Silver Silver   37 EU'
+slug: 'B07KRGLSXQ-es New Balance Yc373v1 n Zapatillas para Niñas Plateado...'
+tags: 
 actualPrice: 24.4 EUR
 currency: EUR
 price: 24.4

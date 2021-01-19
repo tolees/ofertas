@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eKr6AK3vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XJHYHRY-es Targus 360 Perimeter - Funda para tabletas de 14"  Color Gris'
+slug: 'B06XJHYHRY-es Targus 360 Perimeter - Funda para tabletas de 14" Color Gris'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

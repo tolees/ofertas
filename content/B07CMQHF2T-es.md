@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+tZQ7RtEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMQHF2T-es THEE Alfombrilla de Planchar Esterilla de Planchar Lavadora Secadora Cubierta Tablero Manta Resistente al Calor'
+slug: 'B07CMQHF2T-es THEE Alfombrilla de Planchar Esterilla de Planchar...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

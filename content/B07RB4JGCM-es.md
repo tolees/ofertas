@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31jaFn8I6OL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB4JGCM-es Bombilla de maíz de cerámica  lámpara de ahorro de energía regulable  lámpara de maíz 76LED 5W 220V LED para luces de disco  lámparas de escritorio  1 # '
+slug: 'B07RB4JGCM-es Bombilla de maíz de cerámica lámpara de ahorro de energía...'
+tags: 
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

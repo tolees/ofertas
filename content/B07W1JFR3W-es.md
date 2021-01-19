@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MRKJTAJTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1JFR3W-es CUAgain Funda Compatible con Xiaomi Redmi 7A Silicona Unicornio 3D Dibujos Motivo Mate Kawaii Ultrafina One Piece Carcasa Case Antigolpes Bumper Protección Resistente Cover Rosa'
+slug: 'B07W1JFR3W-es CUAgain Funda Compatible con Xiaomi Redmi 7A Silicona...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

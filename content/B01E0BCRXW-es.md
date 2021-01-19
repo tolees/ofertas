@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419l7KyN7mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E0BCRXW-es Superga 2750 COTU Classic  Zapatillas Unisex  Gris  Grau 908   41 EU'
+slug: 'B01E0BCRXW-es Superga 2750 COTU Classic Zapatillas Unisex Gris Grau 908...'
+tags: 
 actualPrice: 41.73 EUR
 currency: EUR
 price: 41.73

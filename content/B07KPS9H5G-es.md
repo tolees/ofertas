@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QLjpzDp2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPS9H5G-es Funko Vinyl: Disney: Dumbo: Pop 1 Fireman Figura de Vinilo  Multicolor  Talla única  34216 '
+slug: 'B07KPS9H5G-es Funko Vinyl: Disney: Dumbo: Pop 1 Fireman Figura de Vinilo...'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

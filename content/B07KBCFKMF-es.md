@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hrAcR-f9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBCFKMF-es Nyx Professional Makeup Corrector No Comedogénico  Waterproof Y De Larga Duración Can T Stop Won T Stop 24H Tono  10.3  Neutral Buff Para Pieles Medio Claras'
+slug: 'B07KBCFKMF-es Nyx Professional Makeup Corrector No Comedogénico...'
+tags: 
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

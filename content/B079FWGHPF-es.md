@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31oZ6fU4R-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FWGHPF-es find. Botín de Ante con Tacón Western Mujer  Azul  Navy Navy   37 EU'
+slug: 'B079FWGHPF-es find. Botín de Ante con Tacón Western Mujer Azul Navy Navy...'
+tags: 
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

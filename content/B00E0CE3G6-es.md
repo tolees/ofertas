@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LrhU1PUaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E0CE3G6-es S.Oliver Reloj Analógico de Cuarzo para Mujer con Correa de Cuero – SO-2773-LQ'
+slug: 'B00E0CE3G6-es S.Oliver Reloj Analógico de Cuarzo para Mujer con Correa...'
+tags: 
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

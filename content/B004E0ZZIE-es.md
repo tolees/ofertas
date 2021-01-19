@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310gwcrKZpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004E0ZZIE-es Columbia Sun Ridge  Polo  Hombre  Negro  S'
+slug: 'B004E0ZZIE-es Columbia Sun Ridge Polo Hombre Negro S'
+tags: 
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

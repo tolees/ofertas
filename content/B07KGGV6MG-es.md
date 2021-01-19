@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311sHkLWa9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGGV6MG-es Buff R-Solid Gorra One Touch  Unisex Adulto  Black  Talla única'
+slug: 'B07KGGV6MG-es Buff R-Solid Gorra One Touch Unisex Adulto Black Talla única'
+tags: 
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

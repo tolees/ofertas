@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sPG4bhMsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EQB0F2C-es Braun TS715 - Plancha ropa vapor  2300 W  140 gr/min golpe de vapor  acero inoxidable  blanco y lila'
+slug: 'B00EQB0F2C-es Braun TS715 - Plancha ropa vapor 2300 W 140 gr/min golpe...'
+tags: 
 actualPrice: 44.17 EUR
 currency: EUR
 price: 44.17

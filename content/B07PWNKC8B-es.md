@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41clhO4whbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWNKC8B-es Under Armour UA W Charged Intake 4  Zapatillas de Running para Mujer  Negro  Black/Halo Gray/Lipstick   38 EU'
+slug: 'B07PWNKC8B-es Under Armour UA W Charged Intake 4 Zapatillas de Running...'
+tags: 
 actualPrice: 38.82 EUR
 currency: EUR
 price: 38.82

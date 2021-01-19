@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4141NKjZMWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP725MT-es Adidas Falcon W  Zapatillas de Gimnasia para Mujer  Multicolor  Black Cblack/Cblack/Ftwwht   40 2/3 EU'
+slug: 'B07DP725MT-es Adidas Falcon W Zapatillas de Gimnasia para Mujer...'
+tags: 
 actualPrice: 62.91 EUR
 currency: EUR
 price: 62.91

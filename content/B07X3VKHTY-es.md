@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51N77N5LGAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3VKHTY-es GSOTTA Calcetines premium 10 paquetes  calcetines de negocios para mujeres y hombres  unisex  calcetines de algodón  calcetines de trabajo con una pretina suave  5 x azul y 5 x gris  talla 39-42'
+slug: 'B07X3VKHTY-es GSOTTA Calcetines premium 10 paquetes calcetines de...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZuO-FgebL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076MQBZ2L-es Cooler Master Hyper H412R - Ventilador CPU Cooler Aire  Color Negro'
+slug: 'B076MQBZ2L-es Cooler Master Hyper H412R - Ventilador CPU Cooler Aire...'
+tags: 
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

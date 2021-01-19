@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31W8do0WzeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BTFSJ9E-es Belkin - Cargador doméstico  5V  1A  compatible con Phone 11  11 Pro/Pro Max  XS  XS Max  XR  X  SE  8/8 Plus y otros'
+slug: 'B00BTFSJ9E-es Belkin - Cargador doméstico 5V 1A compatible con Phone 11...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BAxb7BiKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Y5G7FFS-es Aceite de Rosa Mosqueta  120ml . Aceite orgánico certificado. Prensado en frío y sin refinar. 100% puro y natural.'
+slug: 'B00Y5G7FFS-es Aceite de Rosa Mosqueta 120ml . Aceite orgánico...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

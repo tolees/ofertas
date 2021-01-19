@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418xFTNiSxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5HNWML-es Tom Tailor Leichter suéter  Multicolor  Multi Color Melange 19637   XXX-Large para Hombre'
+slug: 'B07V5HNWML-es Tom Tailor Leichter suéter Multicolor Multi Color Melange...'
+tags: 
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WtHMXZRyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DLWGNC-es Alfombrilla de Baño  Extralargo Alfombra para Bañera Antideslizante con 200 Potentes Ventosas  Antibacterial Resistente al Moho  Lavable a Máquina  para Niños Ancianos  100*40cm  Blanco transparente '
+slug: 'B085DLWGNC-es Alfombrilla de Baño Extralargo Alfombra para Bañera...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

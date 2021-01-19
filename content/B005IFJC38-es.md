@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517CScT-0UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005IFJC38-es Disney Store The Lion King 14 Pumbaa Plush Stuffed Animal Toy by Disney'
+slug: 'B005IFJC38-es Disney Store The Lion King 14 Pumbaa Plush Stuffed Animal...'
+tags: 
 actualPrice: 24.43 EUR
 currency: EUR
 price: 24.43

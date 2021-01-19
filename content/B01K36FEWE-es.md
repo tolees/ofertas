@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tlbvgVGQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K36FEWE-es Desconocido USB 2.0 MP3 Reproductor de Música Grabación con Función FM Radio Ebook Capacidad Memoria 8GB / 4GB - Rojo  4GB'
+slug: 'B01K36FEWE-es Desconocido USB 2.0 MP3 Reproductor de Música Grabación...'
+tags: 
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VKR4WsWvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5SHK18-es Triumph Lace Spotlight W Sujetador con Aros  Naranja  Dusty Pink 6237   90E  Talla del Fabricante: 75  para Mujer'
+slug: 'B07J5SHK18-es Triumph Lace Spotlight W Sujetador con Aros Naranja Dusty...'
+tags: 
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Id1IAvCAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WCC24N-es MASERATI Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable R8823118006'
+slug: 'B078WCC24N-es MASERATI Reloj Analógico para Hombre de Automático con...'
+tags: 
 actualPrice: 244.18 EUR
 currency: EUR
 price: 244.18

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WZ91eJCiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZW89S6-es KiplingAbanu MultiMujerBolsos bandoleraRojo  Metallic Rust 19x13x8 Centimeters  B x H x T '
+slug: 'B07TZW89S6-es KiplingAbanu MultiMujerBolsos bandoleraRojo Metallic Rust...'
+tags: 
 actualPrice: 31.46 EUR
 currency: EUR
 price: 31.46

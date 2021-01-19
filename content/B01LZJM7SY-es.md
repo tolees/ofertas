@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419K8vSlMUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZJM7SY-es Sigma F4 DG AF HSM Art - Objetivo para cámara para réflex  12-24 mm   Negro'
+slug: 'B01LZJM7SY-es Sigma F4 DG AF HSM Art - Objetivo para cámara para réflex...'
+tags: 
 actualPrice: 911.16 EUR
 currency: EUR
 price: 911.16

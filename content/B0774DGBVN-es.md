@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XOmI8HY2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0774DGBVN-es Calcetines antideslizantes de algodón  3 pares  para pilates  barra  yoga y ballet  talla 5 a 10'
+slug: 'B0774DGBVN-es Calcetines antideslizantes de algodón 3 pares para pilates...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

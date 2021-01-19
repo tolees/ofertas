@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417Og5EWeJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XRDFGWF-es Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con Correa en Acero Inoxidable 1513501'
+slug: 'B06XRDFGWF-es Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 194.01 EUR
 currency: EUR
 price: 194.01

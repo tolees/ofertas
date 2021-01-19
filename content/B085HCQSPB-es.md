@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I+AnlODrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085HCQSPB-es Total Safe 500ml Spray | Ideal para una higiene profunda de manos - Hidroalcoholico Liquido envase con Aerosol Blue'
+slug: 'B085HCQSPB-es Total Safe 500ml Spray | Ideal para una higiene profunda...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

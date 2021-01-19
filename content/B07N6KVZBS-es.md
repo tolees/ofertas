@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KiigT+0XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6KVZBS-es Tommy Hilfiger Flag Knit Scarf Bufanda   Pink Tf6   Talla única  Talla del fabricante: OS  para Mujer'
+slug: 'B07N6KVZBS-es Tommy Hilfiger Flag Knit Scarf Bufanda Pink Tf6 Talla...'
+tags: 
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

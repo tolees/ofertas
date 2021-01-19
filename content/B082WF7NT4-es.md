@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AOX7d5PCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WF7NT4-es 40g Bola de baño Tamaño pequeño Hogar Hotel Baño SPA Bubble Fizzer Bath Bomb - Verde'
+slug: 'B082WF7NT4-es 40g Bola de baño Tamaño pequeño Hogar Hotel Baño SPA...'
+tags: 
 actualPrice: 1.17 EUR
 currency: EUR
 price: 1.17

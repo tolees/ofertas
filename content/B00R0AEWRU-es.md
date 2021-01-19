@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lHXHdTTdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R0AEWRU-es Jump Suede & Nubuck Brush  338734 '
+slug: 'B00R0AEWRU-es Jump Suede & Nubuck Brush 338734'
+tags: 
 actualPrice: 3.31 EUR
 currency: EUR
 price: 3.31

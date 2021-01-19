@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oBb1+y-lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD5D8WD-es Nella The Knight - Disfraz de la Princesa Nella para niña  infantil 3-4 años  Rubie s 640987-S '
+slug: 'B07DD5D8WD-es Nella The Knight - Disfraz de la Princesa Nella para niña...'
+tags: 
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

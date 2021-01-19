@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Tk8C7FG4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084HLVX6K-es CHIKA10 Lily 06 Nude/LG.Pink  Talla 38'
+slug: 'B084HLVX6K-es CHIKA10 Lily 06 Nude/LG.Pink Talla 38'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

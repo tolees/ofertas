@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418v4gW3v+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L7JK1VF-es RUNCCI 3528 2835 2 pines  8 mm Kit de conector de barra de luz LED  5X Puente de conector  5X LED conector  5 Conectores en forma de L  2 Interruptores de CC  2 Conectores completos'
+slug: 'B07L7JK1VF-es RUNCCI 3528 2835 2 pines 8 mm Kit de conector de barra de...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

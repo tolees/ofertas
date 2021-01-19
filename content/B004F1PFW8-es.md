@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310-DsTsO-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004F1PFW8-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Caucho A139-871-00'
+slug: 'B004F1PFW8-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 108.0 EUR
 currency: EUR
 price: 108.0

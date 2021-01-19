@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-pkL6kMwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V48GPH7-es BOSS Identity Pants Pantalones de Deporte  Azul  Dark Blue 403   58  Talla del Fabricante: XX-Large  para Hombre'
+slug: 'B07V48GPH7-es BOSS Identity Pants Pantalones de Deporte Azul Dark Blue...'
+tags: 
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

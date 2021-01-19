@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QRE5T2cQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QF5FTR-es Suhctup Funda Compatible con Huawei Mate 20X Carcasa Transparente Dibujo Diseño Flor [Protección Caídas] Ultra-Delgado Flexible Silicona TPU Estuche Cover para Huawei Mate 20X Mandala 10'
+slug: 'B086QF5FTR-es Suhctup Funda Compatible con Huawei Mate 20X Carcasa...'
+tags: 
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

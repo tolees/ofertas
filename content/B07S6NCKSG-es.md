@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ia92voUOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NCKSG-es PUMA Ralph Sampson LO Perf  Zapatillas Unisex-Adulto  Blanco White White White  41 EU'
+slug: 'B07S6NCKSG-es PUMA Ralph Sampson LO Perf Zapatillas Unisex-Adulto Blanco...'
+tags: 
 actualPrice: 47.65 EUR
 currency: EUR
 price: 47.65

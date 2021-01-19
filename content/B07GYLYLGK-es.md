@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gvF4cl9gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GYLYLGK-es AOQUSSQOA Mujer Shapewear Faja Reductora Abdomen con Gancho Adelgazantes Elástico de Alta Body Shape  L  Beige2 '
+slug: 'B07GYLYLGK-es AOQUSSQOA Mujer Shapewear Faja Reductora Abdomen con...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

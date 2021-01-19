@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UaaaLWvoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087CSNDRT-es FitBeast Banda de Resistencia con Anclaje para Puerta Almohadilla de Mano（5 Pcs ），para Pilates  Entrenamiento  Fisioterapia  Estiramiento  Yoga  Gimnasio en Casa para Hombres y Mujeres'
+slug: 'B087CSNDRT-es FitBeast Banda de Resistencia con Anclaje para Puerta...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

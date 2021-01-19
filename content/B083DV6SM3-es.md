@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DV6SM3-es Potente acabado de manga 8x48mm - Plata 8x48mm'
+tags: 
 actualPrice: 1.07 EUR
 currency: EUR
 price: 1.07

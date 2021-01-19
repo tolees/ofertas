@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G-ZET4+uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG16TJ6-es Puma Future Runner Premium  Zapatillas Unisex Adulto  Azul  Galaxy Blue-Puma White-High Risk Red-Puma Black 06   36 EU'
+slug: 'B07KG16TJ6-es Puma Future Runner Premium Zapatillas Unisex Adulto Azul...'
+tags: 
 actualPrice: 21.02 EUR
 currency: EUR
 price: 21.02

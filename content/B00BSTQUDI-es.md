@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41quiQPFKkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BSTQUDI-es Lotus Reloj Analógico para Nios de Cuarzo con Correa en Acero Inoxidable 15833/1'
+slug: 'B00BSTQUDI-es Lotus Reloj Analógico para Nios de Cuarzo con Correa en...'
+tags: 
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mRzm-wu+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDRK2W8-es L Oréal Paris Botanicals Champú para Cabellos Frágiles  Jengibre y Cilantro - 400 ml'
+slug: 'B06XDRK2W8-es L Oréal Paris Botanicals Champú para Cabellos Frágiles...'
+tags: 
 actualPrice: 5.42 EUR
 currency: EUR
 price: 5.42

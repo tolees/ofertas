@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MpsGLjorL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB85K2B-es PUMA BND Long Tight Mallas Deporte  Hombre  Black  L'
+slug: 'B07QB85K2B-es PUMA BND Long Tight Mallas Deporte Hombre Black L'
+tags: 
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

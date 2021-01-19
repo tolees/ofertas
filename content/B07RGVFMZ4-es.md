@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411L7DNj7lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGVFMZ4-es Hawiton Camisón Mujer Verano Camisones de Algodon Ropa de Dormir Manga Corta Pijamas Vestir Camisónes Loungewear Elegante'
+slug: 'B07RGVFMZ4-es Hawiton Camisón Mujer Verano Camisones de Algodon Ropa de...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

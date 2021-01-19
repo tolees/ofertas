@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+ZHc0W-0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CL9KDPV-es LOL Surprise - Under Wraps  Modelo Surtido  1 Pieza'
+slug: 'B07CL9KDPV-es LOL Surprise - Under Wraps Modelo Surtido 1 Pieza'
+tags: 
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

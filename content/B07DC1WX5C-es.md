@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zwH5Nvt+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC1WX5C-es Puma Leader Vt SL  Zapatillas de Running Unisex Adulto  Negro  Puma Black- Puma White - Indigo Bunting   44 EU'
+slug: 'B07DC1WX5C-es Puma Leader Vt SL Zapatillas de Running Unisex Adulto...'
+tags: 
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

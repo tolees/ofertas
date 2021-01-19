@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41odeAyRFXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077QLCWLV-es Lotus Watches Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero 18498/2'
+slug: 'B077QLCWLV-es Lotus Watches Reloj Análogo clásico para Hombre de Cuarzo...'
+tags: 
 actualPrice: 35.63 EUR
 currency: EUR
 price: 35.63

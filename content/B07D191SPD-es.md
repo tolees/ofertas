@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dIXq2RBAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D191SPD-es Garmin Smartwatch Vivoactive 3 GPS Mano Ciclismo Unisex Adulto  Blanco  Rose Gold/White Band   Talla única'
+slug: 'B07D191SPD-es Garmin Smartwatch Vivoactive 3 GPS Mano Ciclismo Unisex...'
+tags: 
 actualPrice: 208.5 EUR
 currency: EUR
 price: 208.5

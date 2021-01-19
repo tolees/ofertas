@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lAgqtZ5+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0899LHMY3-es TrekPow Piscina Hinchable Rectangular  Piscina Inflable Familiar 305 x 183 x 56cm  2 Adultos + 3 Niños  Azul  3 Cámara de Aire Individuales  Piscina Duradera para Patio  Jardín  Fiesta al Aire Libre'
+slug: 'B0899LHMY3-es TrekPow Piscina Hinchable Rectangular Piscina Inflable...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

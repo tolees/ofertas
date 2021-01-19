@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TO2buha7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8S2G4M-es ICONIC TOMMY TOTEMujerBolsos bandoleraAzul  Sky Captain 15.3x30.5x43.2 centimeters  B x H x T '
+slug: 'B07N8S2G4M-es ICONIC TOMMY TOTEMujerBolsos bandoleraAzul Sky Captain...'
+tags: 
 actualPrice: 77.9 EUR
 currency: EUR
 price: 77.9

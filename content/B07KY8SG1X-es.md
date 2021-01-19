@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vQisXhC5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KY8SG1X-es Eastpak Springer Riñonera Interior  23 cm  2 Liters  Morado  Little Stripe '
+slug: 'B07KY8SG1X-es Eastpak Springer Riñonera Interior 23 cm 2 Liters Morado...'
+tags: 
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

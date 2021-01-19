@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lYh1SdoAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K5VCP86-es 1 Par Imán Perder Peso Nueva Tecnología Pegatina del Pezón de Pérdida Delgada Saludable Pecho de Silicona Masaje Pies Pérdida Peso Reducir'
+slug: 'B07K5VCP86-es 1 Par Imán Perder Peso Nueva Tecnología Pegatina del Pezón...'
+tags: 
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

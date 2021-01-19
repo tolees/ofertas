@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P1xVNf8fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LUIKWKY-es adidas Originals Adidas Stan Smith M20324  Zapatillas de Deporte Unisex Adulto  Blanco  Running White Footwear/Running White/Fairway   46 2/3 EU'
+slug: 'B00LUIKWKY-es adidas Originals Adidas Stan Smith M20324 Zapatillas de...'
+tags: 
 actualPrice: 60.8 EUR
 currency: EUR
 price: 60.8

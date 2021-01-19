@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jnfcAyq2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2CKB57-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter  Verde  Olive Night Detail: Melange   Small para Hombre'
+slug: 'B07C2CKB57-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter Verde...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

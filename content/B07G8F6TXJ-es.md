@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IrP3PkB+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G8F6TXJ-es Russell Hobbs Retro 25230-56 - Batidora de mano 700 W  cuchilla y cuerpo acero inoxidable Infinity  2 velocidades  color rojo'
+slug: 'B07G8F6TXJ-es Russell Hobbs Retro 25230-56 - Batidora de mano 700 W...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

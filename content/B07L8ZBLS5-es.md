@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OT5p4hpXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8ZBLS5-es Victoria Barcelona Doble Lona Monocromo  Zapatillas Unisex Adulto  Blanco  Blanco 20   39 EU'
+slug: 'B07L8ZBLS5-es Victoria Barcelona Doble Lona Monocromo Zapatillas Unisex...'
+tags: 
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

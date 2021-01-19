@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31W-Tx9Ra4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PRCH6D-es Gant Lambswool V-Neck suéter  Rojo  Dark Burgundy Mel   Medium para Hombre'
+slug: 'B074PRCH6D-es Gant Lambswool V-Neck suéter Rojo Dark Burgundy Mel Medium...'
+tags: 
 actualPrice: 73.49 EUR
 currency: EUR
 price: 73.49

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPRDW8S-es Bulldog Skincare for Men Exfoliante facial original – 125 ml'
+tags: 
 actualPrice: 7.07 EUR
 currency: EUR
 price: 7.07

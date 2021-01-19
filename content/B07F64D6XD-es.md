@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511RTWVr5PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F64D6XD-es TELMU Microscopio de bolsillo para niños y principiantes  pequeño y brillante  set de accesorios de 70 piezas  300X-600X-1200X  con iluminación LED y cuchillas  maleta y preparación incluidos'
+slug: 'B07F64D6XD-es TELMU Microscopio de bolsillo para niños y principiantes...'
+tags: 
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

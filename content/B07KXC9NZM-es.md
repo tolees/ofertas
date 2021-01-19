@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wnucCYxJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXC9NZM-es TOUS colgante de mujer en Vermeil 18kt  con perlas cultivadas de agua dulce - Tamaño 2 2 cm'
+slug: 'B07KXC9NZM-es TOUS colgante de mujer en Vermeil 18kt con perlas...'
+tags: 
 actualPrice: 38.71 EUR
 currency: EUR
 price: 38.71

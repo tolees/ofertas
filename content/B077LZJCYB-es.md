@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wWt6O3P3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077LZJCYB-es HelpCuisine infusor de te/infusionador/colador te/filtro te/infusores de te  hecho de silicona 100% alimentaria libre de BPA  infusor en forma de hombrecito  Juego de 2 infusores + caja de regalo '
+slug: 'B077LZJCYB-es HelpCuisine infusor de te/infusionador/colador te/filtro...'
+tags: 
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lifRPQQDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNMDL4V-es Jack & Jones Jjepaulos Polo SS Plus  Azul  Bright Cobalt Detail: PS   XXXXX-Large para Hombre'
+slug: 'B07CNMDL4V-es Jack & Jones Jjepaulos Polo SS Plus Azul Bright Cobalt...'
+tags: 
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

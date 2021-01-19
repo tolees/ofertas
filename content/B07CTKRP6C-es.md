@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415x-j88YJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTKRP6C-es JACK & JONES Jfwalbany Leather Brown Stone STS  Botas Estilo Motero para Hombre  Marrón  44 EU'
+slug: 'B07CTKRP6C-es JACK & JONES Jfwalbany Leather Brown Stone STS Botas...'
+tags: 
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

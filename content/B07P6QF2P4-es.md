@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gCzI56JjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6QF2P4-es Parasol Coche Infantil Lateral UV Parasol Coche Bebe- Parasoles Autoadhesivos Para Proteger del Sol a Bebés y Mascotas  3 unidades '
+slug: 'B07P6QF2P4-es Parasol Coche Infantil Lateral UV Parasol Coche Bebe-...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

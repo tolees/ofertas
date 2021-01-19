@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/513D69SqjPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BNL26YB-es deAO Juego de Herramientas y Accessorios Taller de Bricolaje Play Set Infantil Conjunto de Herramientas  28 Piezas en Total '
+slug: 'B07BNL26YB-es deAO Juego de Herramientas y Accessorios Taller de...'
+tags: 
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

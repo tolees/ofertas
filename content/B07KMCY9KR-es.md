@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51h+GVixXxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMCY9KR-es MOISO SEBS Plantillas Alivio de Pies Dolorosos Soles de Zapato Insertos Cojín para Trabajo  ocio y Cómodo'
+slug: 'B07KMCY9KR-es MOISO SEBS Plantillas Alivio de Pies Dolorosos Soles de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-juHpqNQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9QN59S-es Monix Mineral-Set de 3 sartenes  20-24-28 cm  Aluminio Forjado con Antiadherente  Acabado Efecto Piedra  sin PFOA  aptas para Todo Tipo de cocinas  inlcuida Inducción  Negro  20-24-28'
+slug: 'B07H9QN59S-es Monix Mineral-Set de 3 sartenes 20-24-28 cm Aluminio...'
+tags: 
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

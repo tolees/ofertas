@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41O6fh1I6lL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T8HHM23-es Finocam Chic Morado  Calendario de Pared 2020 Escribir Español'
+slug: 'B07T8HHM23-es Finocam Chic Morado Calendario de Pared 2020 Escribir Español'
+tags: 
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

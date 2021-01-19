@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D+tYYXfzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J7SDTHM-es Millet Friction - Calzado de senderismo para hombre  color antracita  anthracite   talla 40'
+slug: 'B00J7SDTHM-es Millet Friction - Calzado de senderismo para hombre color...'
+tags: 
 actualPrice: 97.95 EUR
 currency: EUR
 price: 97.95

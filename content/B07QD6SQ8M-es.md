@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31wlYjcfPtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD6SQ8M-es PUMA Alpha Leggings G Mallas Deporte  Niñas  Light Gray Heather  116'
+slug: 'B07QD6SQ8M-es PUMA Alpha Leggings G Mallas Deporte Niñas Light Gray...'
+tags: 
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

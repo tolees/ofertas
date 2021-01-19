@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31pnkpmdw0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8S2RTG-es BOSS Paule 4  Polo Hombre  Blanco  Natural   XX-Large'
+slug: 'B07N8S2RTG-es BOSS Paule 4 Polo Hombre Blanco Natural XX-Large'
+tags: 
 actualPrice: 36.02 EUR
 currency: EUR
 price: 36.02

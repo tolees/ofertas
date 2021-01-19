@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41j-0oEUU3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMB5QJV-es Buffalo Corin  Zapatillas Altas para Mujer  Blanco  White 000   38 EU'
+slug: 'B07JMB5QJV-es Buffalo Corin Zapatillas Altas para Mujer Blanco White 000...'
+tags: 
 actualPrice: 60.12 EUR
 currency: EUR
 price: 60.12

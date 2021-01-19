@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gz2IHFR9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WYHGY9-es Plugable Docking Station con Triple Pantalla 4K USB-C con Suministro de Carga para Sistemas específicos de Windows USB C y Thunderbolt 3  1 HDMI y 2 DisplayPort++  5 Puertos de USB  60W USB PD '
+slug: 'B078WYHGY9-es Plugable Docking Station con Triple Pantalla 4K USB-C con...'
+tags: 
 actualPrice: 232.27 EUR
 currency: EUR
 price: 232.27

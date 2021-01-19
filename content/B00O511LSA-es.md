@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E1jWj1S9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O511LSA-es Bébé Confort Rodi AirProtect - Silla de coche para niños  alzador ligero de respaldo alto  3.5-12 años  15-36 kg  color marrón'
+slug: 'B00O511LSA-es Bébé Confort Rodi AirProtect - Silla de coche para niños...'
+tags: 
 actualPrice: 84.92 EUR
 currency: EUR
 price: 84.92

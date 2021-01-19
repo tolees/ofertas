@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WFGK6fKcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004VUV7HU-es 5 Star 424410  Mini Dispensador de cinta  Negro'
+slug: 'B004VUV7HU-es 5 Star 424410 Mini Dispensador de cinta Negro'
+tags: 
 actualPrice: 3.72 EUR
 currency: EUR
 price: 3.72

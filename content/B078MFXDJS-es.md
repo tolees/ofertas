@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VAW+eRsAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078MFXDJS-es SONGMICS Carrito de Cocina con Ruedas  Estantería con 3 Niveles para Cocina  Oficina y Baño  61 cm de Altura  Blanco KSC03WT'
+slug: 'B078MFXDJS-es SONGMICS Carrito de Cocina con Ruedas Estantería con 3...'
+tags: 
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05

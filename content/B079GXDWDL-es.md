@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419-g6TNOOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079GXDWDL-es PUMA NRGY Neko Knit  Zapatillas de Entrenamiento para Hombre  Black Black  39 EU'
+slug: 'B079GXDWDL-es PUMA NRGY Neko Knit Zapatillas de Entrenamiento para...'
+tags: 
 actualPrice: 22.44 EUR
 currency: EUR
 price: 22.44

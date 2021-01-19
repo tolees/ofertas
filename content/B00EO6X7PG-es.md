@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41flY9Y59EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EO6X7PG-es Creative Sound Blaster Audigy 5/RX - Tarjeta de sonido interna'
+slug: 'B00EO6X7PG-es Creative Sound Blaster Audigy 5/RX - Tarjeta de sonido...'
+tags: 
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

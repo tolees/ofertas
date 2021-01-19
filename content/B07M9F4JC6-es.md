@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31f4CIzkLEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9F4JC6-es Cojín Almohada LED Estrella  laamei Felpa Juguetes Muñecas Decorativo con Forma de Estrella Luminoso Almohadas Cojines Infantiles Luz Nocturna para Ñiños y Niñas'
+slug: 'B07M9F4JC6-es Cojín Almohada LED Estrella laamei Felpa Juguetes Muñecas...'
+tags: 
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

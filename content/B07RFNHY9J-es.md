@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+r2zv2knL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFNHY9J-es Salomon Speedcross Bungee K  Zapatillas de Trail Running Unisex Niños  Verde  Green Gables/Icy Morn/Patina Green   29 EU'
+slug: 'B07RFNHY9J-es Salomon Speedcross Bungee K Zapatillas de Trail Running...'
+tags: 
 actualPrice: 49.49 EUR
 currency: EUR
 price: 49.49

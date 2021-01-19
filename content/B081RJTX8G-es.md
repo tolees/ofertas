@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oeqBli15L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RJTX8G-es BRIKSMAX Kit de Iluminación Led para Lego Technic Land Rover Defender Compatible con Ladrillos de Construcción Lego Modelo 42110  Juego de Legos no Incluido'
+slug: 'B081RJTX8G-es BRIKSMAX Kit de Iluminación Led para Lego Technic Land...'
+tags: 
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

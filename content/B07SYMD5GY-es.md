@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hGj7NxDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYMD5GY-es Charles Wilson Lote 12 Pares Calcetines Básicos  6-8.5  Assorted Stripe  0619  '
+slug: 'B07SYMD5GY-es Charles Wilson Lote 12 Pares Calcetines Básicos 6-8.5...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

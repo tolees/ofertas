@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rgrqxxb3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8XP1CK-es Jack & Jones Jcomilla Sweat Hood Capucha  Multicolor  Sky Captain Detail: W. New Lgm   X-Large para Hombre'
+slug: 'B07W8XP1CK-es Jack & Jones Jcomilla Sweat Hood Capucha Multicolor Sky...'
+tags: 
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

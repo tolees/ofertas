@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gK87LsmUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGLW4Q5-es BOSS Authentic Shorts Pantalones Cortos  Azul  Bright Blue 438   W40  Talla del Fabricante: Medium  para Hombre'
+slug: 'B07KGLW4Q5-es BOSS Authentic Shorts Pantalones Cortos Azul Bright Blue...'
+tags: 
 actualPrice: 27.58 EUR
 currency: EUR
 price: 27.58

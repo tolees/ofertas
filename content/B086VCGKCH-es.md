@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m0k+vTu3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086VCGKCH-es Enjoyee - Visera protectora para la cara  de plástico ligero  ajustable  transparente  para evitar la saliva  gotas  polen y polvo  azul '
+slug: 'B086VCGKCH-es Enjoyee - Visera protectora para la cara de plástico...'
+tags: 
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

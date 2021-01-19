@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317nq2yVnJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VX98Z5L-es TOYANDONA Cuatro juegos de protección para bebés con arenas gruesas tapones de mesa.'
+slug: 'B07VX98Z5L-es TOYANDONA Cuatro juegos de protección para bebés con...'
+tags: 
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

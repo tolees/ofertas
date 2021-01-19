@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414K992h9aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PYDWBXC-es Nike MD Runner 2  Zapatillas de Running Hombre  Azul  Midnight Navy/White-Wolf Grey   42.5 EU'
+slug: 'B00PYDWBXC-es Nike MD Runner 2 Zapatillas de Running Hombre Azul...'
+tags: 
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

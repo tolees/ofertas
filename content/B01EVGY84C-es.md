@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31d+rWHMmEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EVGY84C-es Diesel 00ST1N0CAND Pantalones Deportivos  Negro  Black    Tamaño del Fabricante:S  para Hombre'
+slug: 'B01EVGY84C-es Diesel 00ST1N0CAND Pantalones Deportivos Negro Black...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

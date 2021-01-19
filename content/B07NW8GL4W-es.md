@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vJbsfMqvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW8GL4W-es SYOSIN Corrector de Postura  Abrazadera de Respaldo Ajustable de Alta Elasticidad para Mujeres y Hombres  Entrenador de Postura cómodo para el Alivio del Dolor de Cuello  Espalda y Hombro'
+slug: 'B07NW8GL4W-es SYOSIN Corrector de Postura Abrazadera de Respaldo...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gbjUYpVSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D1HKCAQ-es Samsonite Neopulse - Spinner M Maleta  69 cm  74 L  Negro  Matte Black '
+slug: 'B01D1HKCAQ-es Samsonite Neopulse - Spinner M Maleta 69 cm 74 L Negro...'
+tags: 
 actualPrice: 188.55 EUR
 currency: EUR
 price: 188.55

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41a2cREISKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYNZ4H3-es Tommy Hilfiger Core Corporate High Vulc Sneaker  Zapatillas para Hombre  Azul  Midnight 403   40 EU'
+slug: 'B07JYNZ4H3-es Tommy Hilfiger Core Corporate High Vulc Sneaker Zapatillas...'
+tags: 
 actualPrice: 62 EUR
 currency: EUR
 price: 62

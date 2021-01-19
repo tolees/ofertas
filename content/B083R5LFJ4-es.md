@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41psWUEEbIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083R5LFJ4-es RECCI - Topper Colchón de Espuma 120x190cm  Topper Viscoelástica con Alivio de la Presión  Sobrecolchón Hipoalergénico de Bambú - Extraíble y Lavable en Lavadora  CertiPUR-EU  120 x 190 x 6cm '
+slug: 'B083R5LFJ4-es RECCI - Topper Colchón de Espuma 120x190cm Topper...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hvmBwuHnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CNH4P45-es Yosoo Health Gear Esponja de Balas Suaves de Cabeza Redonda  Recargable Mega Esponja EVA Balas Suaves de Cabeza Redonda Dardos de Recarga'
+slug: 'B08CNH4P45-es Yosoo Health Gear Esponja de Balas Suaves de Cabeza...'
+tags: 
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

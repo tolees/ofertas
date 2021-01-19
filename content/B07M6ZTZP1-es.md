@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417V7nzKuzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6ZTZP1-es Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Correa en Acero Inoxidable MK6651'
+slug: 'B07M6ZTZP1-es Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 228.3 EUR
 currency: EUR
 price: 228.3

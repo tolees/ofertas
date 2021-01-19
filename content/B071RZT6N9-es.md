@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NHmbEX4cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RZT6N9-es ANNKE Sistema de Seguridad 1080P CCTV Kit de 8 Cámaras de Vigilancia  DVR Onvif H.264 P2P 8CH TVI 1080P IP66 Impermeable -2TB Disco Duro de Vigilancia'
+slug: 'B071RZT6N9-es ANNKE Sistema de Seguridad 1080P CCTV Kit de 8 Cámaras de...'
+tags: 
 actualPrice: 199.79 EUR
 currency: EUR
 price: 199.79

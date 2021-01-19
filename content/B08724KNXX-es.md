@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qPia0+TzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08724KNXX-es Mono de bebé Promini para bebé  con texto en inglés "My Uncle Loves me to The Moon and Back" para bebé  de una pieza  el mejor regalo para bebé'
+slug: 'B08724KNXX-es Mono de bebé Promini para bebé con texto en inglés "My...'
+tags: 
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

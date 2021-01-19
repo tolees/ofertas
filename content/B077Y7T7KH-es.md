@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EGphPgnDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y7T7KH-es HP Pavilion  Monitor  1  Plata Mineral'
+slug: 'B077Y7T7KH-es HP Pavilion Monitor 1 Plata Mineral'
+tags: 
 actualPrice: 255.0 EUR
 currency: EUR
 price: 255.0

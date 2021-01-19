@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ppRwxZdSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDCLYJW-es Napapijri Elbas 3 Polo  Turquesa  Reef Turquoise I711   Large para Hombre'
+slug: 'B07VDCLYJW-es Napapijri Elbas 3 Polo Turquesa Reef Turquoise I711 Large...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Hojmtt3aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013T5I2HA-es Lacoste PH4012  Polo Para Hombre  Rojo  Rouge   Medium  Talla del fabricante: 4 '
+slug: 'B013T5I2HA-es Lacoste PH4012 Polo Para Hombre Rojo Rouge Medium Talla...'
+tags: 
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

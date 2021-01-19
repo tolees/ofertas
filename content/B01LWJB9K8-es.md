@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iZoCjkoKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWJB9K8-es Edge Entertainment - Misión: Planeta rojo  juego de mesa  EDGVA93    color/modelo surtido'
+slug: 'B01LWJB9K8-es Edge Entertainment - Misión: Planeta rojo juego de mesa...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

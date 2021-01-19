@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/313UXppIzYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BQTJ0PA-es HP CF373AM 125A Cartucho de Tóner Original  3 unidades  cian  magenta  amarillo'
+slug: 'B00BQTJ0PA-es HP CF373AM 125A Cartucho de Tóner Original 3 unidades cian...'
+tags: 
 actualPrice: 179 EUR
 currency: EUR
 price: 179

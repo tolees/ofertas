@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417HXV7rm6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZS69MF-es Depilación sin dolor en forma de corazón Depilación Esponja Almohadilla de doble cara Depilación Pulido Cara Brazo Pierna Herramienta de depilación - Verde  rosa y amarillo'
+slug: 'B08CZS69MF-es Depilación sin dolor en forma de corazón Depilación...'
+tags: 
 actualPrice: 1.36 EUR
 currency: EUR
 price: 1.36

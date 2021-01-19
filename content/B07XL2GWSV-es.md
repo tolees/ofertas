@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R2WIZqo7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL2GWSV-es FIND Tie Up Flat Espadrille Alpargata  Azul  Denim   39 EU'
+slug: 'B07XL2GWSV-es FIND Tie Up Flat Espadrille Alpargata Azul Denim 39 EU'
+tags: 
 actualPrice: 14.46 EUR
 currency: EUR
 price: 14.46

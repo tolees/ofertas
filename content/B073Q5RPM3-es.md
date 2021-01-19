@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/316Qi9rJuYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073Q5RPM3-es Real Madrid Funda Tablet Universal de 10.1" Pulgadas - Tipo Libro con Escudo Oficial y de Color Blanco'
+slug: 'B073Q5RPM3-es Real Madrid Funda Tablet Universal de 10.1" Pulgadas -...'
+tags: 
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

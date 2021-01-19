@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5175CC5zZqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KK32LDU-es K NEX - Montaña Rusa Infinite Journey  347 piezas  41211-15407 '
+slug: 'B01KK32LDU-es K NEX - Montaña Rusa Infinite Journey 347 piezas 41211-15407'
+tags: 
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

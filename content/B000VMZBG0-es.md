@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317dfLFLI6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VMZBG0-es Wentronic Goobay 10m RJ-11/RJ-45 Cable Negro - Adaptador para Cable  RJ-11  RJ-45  Male Connector/Male Connector  10 m  Negro '
+slug: 'B000VMZBG0-es Wentronic Goobay 10m RJ-11/RJ-45 Cable Negro - Adaptador...'
+tags: 
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CMdauohyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TLKTQ3-es Splash Pad Tapete de Juegos de Agua 170CM Aspersor Niños de Juego Piscina para Niño Aspersor Juego de Salpicaduras y Salpicaduras Colchoneta de los Chorros de Agua Juguete al Aire Libre para Jardín'
+slug: 'B088TLKTQ3-es Splash Pad Tapete de Juegos de Agua 170CM Aspersor Niños...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

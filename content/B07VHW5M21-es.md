@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kk+AaFJ7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHW5M21-es HUGO Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 1540027'
+slug: 'B07VHW5M21-es HUGO Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

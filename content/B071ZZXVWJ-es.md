@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51sw4FgdElL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZZXVWJ-es Tasty Bites Cheesy carne y queso de 140g para educar |  [Pack de 6]'
+slug: 'B071ZZXVWJ-es Tasty Bites Cheesy carne y queso de 140g para educar |...'
+tags: 
 actualPrice: 6 EUR
 currency: EUR
 price: 6

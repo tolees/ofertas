@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ly-KIX3iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007OWXTCI-es Garnier Skin Active - BB Cream Clásica  Crema Hidratante Todo en 1 para Pieles Normales  SPF15 con Vitamina C  Tono Medio  50 ml'
+slug: 'B007OWXTCI-es Garnier Skin Active - BB Cream Clásica Crema Hidratante...'
+tags: 
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

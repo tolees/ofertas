@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51D3maqjHWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087NR7TQ7-es Set de Regalo de Piedras Refrigerantes para Whisky - 6 Piedras de Granito  Hechas a Mano - 2 Vasos de Cristal de Calidad - Bandeja de Madera Noble - Caja Elegante con Adornos de Oro de R.O.C.K.S.'
+slug: 'B087NR7TQ7-es Set de Regalo de Piedras Refrigerantes para Whisky - 6...'
+tags: 
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

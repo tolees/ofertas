@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FTav-1kkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CI29NHI-es Tefal Optigrill GC712D12 - Plancha Grill 2000 W  6 modos de cocción y 4 temperaturas ajustables con indicador del progreso  sensor de grosor  bandejas extraíbles y desmontables aptas para lavavajillas'
+slug: 'B01CI29NHI-es Tefal Optigrill GC712D12 - Plancha Grill 2000 W 6 modos de...'
+tags: 
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

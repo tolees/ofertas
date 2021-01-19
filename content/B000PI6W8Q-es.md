@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HsAJq62iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000PI6W8Q-es Converse AS Ox Can 1Q112 - Zapatillas de lona unisex  Marron  37 EU'
+slug: 'B000PI6W8Q-es Converse AS Ox Can 1Q112 - Zapatillas de lona unisex...'
+tags: 
 actualPrice: 33.2 EUR
 currency: EUR
 price: 33.2

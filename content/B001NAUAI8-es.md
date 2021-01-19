@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iJyJ88JTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001NAUAI8-es K&N HD-0900 Filtro de Aire para Harley Davidson Sportster Screamin  Eagle Element 88-12 Moto'
+slug: 'B001NAUAI8-es K&N HD-0900 Filtro de Aire para Harley Davidson Sportster...'
+tags: 
 actualPrice: 54.47 EUR
 currency: EUR
 price: 54.47

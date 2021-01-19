@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GivOZttTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CV7VX1V-es Amplificador Señal WiFi  300Mbps/2.4 GHz Repetidores WiFi Amplificador Extensor de WiFi con Largo Alcance Modo Punto de Acceso/Repeater/Router/Cliente 2 Puerto LAN / WAN  4 Antenas Externas  WPS '
+slug: 'B08CV7VX1V-es Amplificador Señal WiFi 300Mbps/2.4 GHz Repetidores WiFi...'
+tags: 
 actualPrice: 16.6 EUR
 currency: EUR
 price: 16.6

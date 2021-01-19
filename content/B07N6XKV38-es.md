@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GHXBhqkdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6XKV38-es Calvin Klein 3.5cm New Essential Belt Cinturón  Marrón  Brown Baw   105  Talla del fabricante: 90  para Hombre'
+slug: 'B07N6XKV38-es Calvin Klein 3.5cm New Essential Belt Cinturón Marrón...'
+tags: 
 actualPrice: 28.35 EUR
 currency: EUR
 price: 28.35

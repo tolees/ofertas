@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415cCzNTYOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J96Q4ZG-es Soporte para Móvil BESTEK Soporte para Teléfono Móvil Ajustable detro de 7cm de Ancho con Pinza y Brazo Soporte Universal para Smartphones'
+slug: 'B00J96Q4ZG-es Soporte para Móvil BESTEK Soporte para Teléfono Móvil...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

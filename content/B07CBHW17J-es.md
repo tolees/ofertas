@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/2107dqLRHAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CBHW17J-es Yves Saint Laurent DESSIN DES SOURCILS eyebrow pencil #pink 1 02 gr - kilograms'
+slug: 'B07CBHW17J-es Yves Saint Laurent DESSIN DES SOURCILS eyebrow pencil...'
+tags: 
 actualPrice: 6.68 EUR
 currency: EUR
 price: 6.68

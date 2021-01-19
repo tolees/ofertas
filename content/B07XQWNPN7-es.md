@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sAfSHKj8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQWNPN7-es D-Link DUB-M610 - Hub USB tipo C  6 en 1  adaptador USB C con HDMI 4K y 1080p  2 puertos USB3.0/USB2.0  lector de tarjetas SD y microSD  1 x USB C de carga hasta 100W'
+slug: 'B07XQWNPN7-es D-Link DUB-M610 - Hub USB tipo C 6 en 1 adaptador USB C...'
+tags: 
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

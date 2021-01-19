@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ILw2WnCWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TBHVJ2-es BaByliss AS500E – Cepillo de aire con sensor digital ajusta automáticamente la temperatura según el cabezal  4 cabezales  base cerámica  aerodinámica térmica  iónico  2 velocidades y aire frío'
+slug: 'B077TBHVJ2-es BaByliss AS500E – Cepillo de aire con sensor digital...'
+tags: 
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

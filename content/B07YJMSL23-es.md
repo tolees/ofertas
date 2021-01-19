@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K3oZweEwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJMSL23-es Dularf Masajeador de Percusión Mano Portátil  Masajeador de Tejido Profundo para Cuello  Hombro  Cintura  Pierna  Pie  Espalda  6 Modos y 6 Velocidades  Relajar los Músculos  Alivio del Dolor'
+slug: 'B07YJMSL23-es Dularf Masajeador de Percusión Mano Portátil Masajeador de...'
+tags: 
 actualPrice: 22.65 EUR
 currency: EUR
 price: 22.65

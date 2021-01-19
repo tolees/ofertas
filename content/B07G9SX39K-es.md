@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31lVWkyGRwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9SX39K-es Joy Toy 62124 Mickey Mouse 3d taza de cerámica  13 5 x 12 x 8 5 cm   color blanco'
+slug: 'B07G9SX39K-es Joy Toy 62124 Mickey Mouse 3d taza de cerámica 13 5 x 12 x...'
+tags: 
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

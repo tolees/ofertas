@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kjApt22EL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRZLPDM-es Salomon XA Pro 3D Winter TS CSWP J  Calzado de Invierno Unisex Niños  Morado  Dark Purple/Potent Purple/Atlantis   33 EU'
+slug: 'B07BRZLPDM-es Salomon XA Pro 3D Winter TS CSWP J Calzado de Invierno...'
+tags: 
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

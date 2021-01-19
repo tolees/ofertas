@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lpBiA754L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083LGFDCV-es 100pcs Discos de Madera Rebanada SEELOK Rodajas de Madera Círculos con 100 pcs Argollas para Llaveros Pedazo de Madera Redondo Madera Manualidades Formas para Pintura Escritura Tallado'
+slug: 'B083LGFDCV-es 100pcs Discos de Madera Rebanada SEELOK Rodajas de Madera...'
+tags: 
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

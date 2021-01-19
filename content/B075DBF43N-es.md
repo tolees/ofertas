@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L-B6V23WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DBF43N-es Epson EcoTank ET-7700 - Impresora  color negro'
+slug: 'B075DBF43N-es Epson EcoTank ET-7700 - Impresora color negro'
+tags: 
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31uyRJ0BeBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LIXTM6G-es Smokies Hombres Zapato de Novia Charlie sintético  41 EU  Negro '
+slug: 'B00LIXTM6G-es Smokies Hombres Zapato de Novia Charlie sintético 41 EU Negro'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

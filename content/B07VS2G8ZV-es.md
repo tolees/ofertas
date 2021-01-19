@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WFo9fOPPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS2G8ZV-es Luces De Jardin Solares Qomolo 30 LED Luz Jardín IP65 Impermeable Exterior Solar Decoración Lámpara Jar Lampara Iluminación Para Terraza  Césped  Patio  Fiesta Camino de Entrada  Escaleras'
+slug: 'B07VS2G8ZV-es Luces De Jardin Solares Qomolo 30 LED Luz Jardín IP65...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

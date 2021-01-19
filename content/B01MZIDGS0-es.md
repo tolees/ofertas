@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eBLR62WeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZIDGS0-es Serum contorno ojos 30ml con ácido hialurónico y colágeno. Crema Anti edad con pantenol vitamina B5 para una piel suave y tersa. Antiarrugas hidratante con Elastina  glicerina para Bolsas y ojeras'
+slug: 'B01MZIDGS0-es Serum contorno ojos 30ml con ácido hialurónico y colágeno....'
+tags: 
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

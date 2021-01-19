@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517ZoI7gvrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXQGV1Z-es Desigual 19WGXW01 - Cartera para mujer de Sintético Niñas Rosa Pink  Rosa  20x4x24 cm  B x H x T '
+slug: 'B07MXQGV1Z-es Desigual 19WGXW01 - Cartera para mujer de Sintético Niñas...'
+tags: 
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78

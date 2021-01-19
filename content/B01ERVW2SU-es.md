@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZWhfdzREL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ERVW2SU-es Braun Oral-B Stages Power Kids Batería de Cepillo de Dientes Niños 3 + Años Disney Frozen la Reina de Hielo + MAGIC temporizador  Modelos Aleatorios'
+slug: 'B01ERVW2SU-es Braun Oral-B Stages Power Kids Batería de Cepillo de...'
+tags: 
 actualPrice: 7.52 EUR
 currency: EUR
 price: 7.52

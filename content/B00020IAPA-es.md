@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gFZtGnuwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00020IAPA-es Solgar Comprimidos Masticables Sublinguales Vitamina B 12 1.000 mcg  Equilibrio psicológico  Reduce el Cansancio  Sabor Cereza Natural  Apto para Veganos  250 Tabletas'
+slug: 'B00020IAPA-es Solgar Comprimidos Masticables Sublinguales Vitamina B 12...'
+tags: 
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

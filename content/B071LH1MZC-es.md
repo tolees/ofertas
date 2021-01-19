@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t40wGzF8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LH1MZC-es Under Armour Woven Graphic Wordmark Shorts Pantalones de hombre  pantalón corto ultraligero y transpirable  cómodo y ancho pantalón de deporte  Red/Black  600   LG'
+slug: 'B071LH1MZC-es Under Armour Woven Graphic Wordmark Shorts Pantalones de...'
+tags: 
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

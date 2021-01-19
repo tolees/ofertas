@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hYay1e0SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4Q69WQ-es Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable MK8642'
+slug: 'B07G4Q69WQ-es Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 181.95 EUR
 currency: EUR
 price: 181.95

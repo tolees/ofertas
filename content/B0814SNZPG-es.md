@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L0TqEljRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814SNZPG-es Under Armour Armour Mid Keyhole Graphic Sujetador Deportivo  Mujer  Blanco  MD'
+slug: 'B0814SNZPG-es Under Armour Armour Mid Keyhole Graphic Sujetador...'
+tags: 
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

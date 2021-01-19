@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413nHD3NRUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC5FF5R-es Saucony Clarion  Zapatillas de Running para Hombre  Verde  Verde 37   40 EU'
+slug: 'B07NC5FF5R-es Saucony Clarion Zapatillas de Running para Hombre Verde...'
+tags: 
 actualPrice: 37.65 EUR
 currency: EUR
 price: 37.65

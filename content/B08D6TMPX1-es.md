@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uTUHC05cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D6TMPX1-es Cama Perro  Cama de Perros Grandes  Cama para Perros  Cama para Mascotas Desmontable y Extraíble Lavable 70 x 50 x 11 cm M  Gris '
+slug: 'B08D6TMPX1-es Cama Perro Cama de Perros Grandes Cama para Perros Cama...'
+tags: 
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418BZa4BVzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K36DHCC-es Under Armour UA HOVR Sonic 2  Zapatillas de Running para Hombre  Azul  Baroque Green/Range Khaki/Baroque Green  301  301   48.5 EU'
+slug: 'B07K36DHCC-es Under Armour UA HOVR Sonic 2 Zapatillas de Running para...'
+tags: 
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

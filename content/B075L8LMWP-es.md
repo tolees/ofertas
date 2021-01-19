@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eiWF93GXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075L8LMWP-es Memoria Flash USB 128MB 10 Piezas Pen Drives - Pequeña Capacidad Económico Pendrive Almacenamiento de Datos Externo - Datarm Mini Metal Portatil Azul USB 2.0 Flash Drive para Música/Fotos/Vídeo'
+slug: 'B075L8LMWP-es Memoria Flash USB 128MB 10 Piezas Pen Drives - Pequeña...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

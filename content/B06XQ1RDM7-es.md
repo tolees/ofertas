@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rSopXsepL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XQ1RDM7-es Moza Mini C - Estabilizador portátil para Smartphones  Color Negro'
+slug: 'B06XQ1RDM7-es Moza Mini C - Estabilizador portátil para Smartphones...'
+tags: 
 actualPrice: 89.05 EUR
 currency: EUR
 price: 89.05

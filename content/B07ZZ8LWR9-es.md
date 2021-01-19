@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YVGXr8XHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZZ8LWR9-es Kayhan Originals - Pantalones Cortos de Deporte para Hombre  con Bolsillos y Cremallera  para Entrenamiento  Fitness  Jogging  Pantalones Cortos Antracita XL'
+slug: 'B07ZZ8LWR9-es Kayhan Originals - Pantalones Cortos de Deporte para...'
+tags: 
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

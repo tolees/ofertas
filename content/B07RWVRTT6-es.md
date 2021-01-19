@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qjI+kz18L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWVRTT6-es Diesel ShoesDiscover-me OderzoHombreCarterasMulticolor  Black/White/Blue  1x22x18 centimeters  W x H x L '
+slug: 'B07RWVRTT6-es Diesel ShoesDiscover-me OderzoHombreCarterasMulticolor...'
+tags: 
 actualPrice: 29.91 EUR
 currency: EUR
 price: 29.91

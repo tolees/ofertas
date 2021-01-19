@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QoikExoML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHDBQCN-es CIVO Relojes Mujer Oro Rosa Reloj de Pulsera Mujer Impermeable de Malla de Acero Inoxidable Relojes Estrellados Cielo para Mujer Vestir Elegantes Negocios'
+slug: 'B07WHDBQCN-es CIVO Relojes Mujer Oro Rosa Reloj de Pulsera Mujer...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

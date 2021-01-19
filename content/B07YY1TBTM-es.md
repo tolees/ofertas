@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zjuigto7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YY1TBTM-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars PORG Compatible con Ladrillos de Construcción Lego Modelo 75230  Juego de Legos no Incluido'
+slug: 'B07YY1TBTM-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars PORG...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413fA612ihL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK41GPK-es Columbia Meadows Omni  Botas para Mujer  Blanco Roto  Heat 3D-Sea Salt  Rosew   39 1/2 EU'
+slug: 'B07KK41GPK-es Columbia Meadows Omni Botas para Mujer Blanco Roto Heat...'
+tags: 
 actualPrice: 58.8 EUR
 currency: EUR
 price: 58.8

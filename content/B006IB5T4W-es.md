@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+fDoZdacL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006IB5T4W-es Curación Ungüento  protector de la piel 14 oz  396 g  - Aquaphor'
+slug: 'B006IB5T4W-es Curación Ungüento protector de la piel 14 oz 396 g - Aquaphor'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

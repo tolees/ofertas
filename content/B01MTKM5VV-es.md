@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XZFIIZJNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTKM5VV-es Under NY Sky Delantal Azul - Tela Vaquera Profesional - Correas de Espalda Cruzada - Multi Bolsillos - Ajustable  Hombres  Mujeres  Chef  Barista  Barbero  Barman  Dependiente Tenda  Artista Tatuaje'
+slug: 'B01MTKM5VV-es Under NY Sky Delantal Azul - Tela Vaquera Profesional -...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

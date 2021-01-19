@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zyO4WHA8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DB538QB-es HP EliteBook x360 1030 G3 - Ordenador Portátil Profesional 13.3" FullHD  Intel Core i5-8250  8GB RAM  256GB SSD  Intel Graphics  Windows 10 Pro  Plata - Teclado QWERTY Español'
+slug: 'B07DB538QB-es HP EliteBook x360 1030 G3 - Ordenador Portátil Profesional...'
+tags: 
 actualPrice: 1513.51 EUR
 currency: EUR
 price: 1513.51

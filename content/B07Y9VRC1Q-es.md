@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Li+aPzLbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9VRC1Q-es edc by Esprit 129cc2i004 suéter  Naranja  Rust Orange 5 814   Medium para Hombre'
+slug: 'B07Y9VRC1Q-es edc by Esprit 129cc2i004 suéter Naranja Rust Orange 5 814...'
+tags: 
 actualPrice: 31.57 EUR
 currency: EUR
 price: 31.57

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rctUfQ6lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076TNGXSV-es Funko Pop!- Comics: Saga Marko W/Sword Figura de Vinilo  27414 '
+slug: 'B076TNGXSV-es Funko Pop!- Comics: Saga Marko W/Sword Figura de Vinilo 27414'
+tags: 
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KkwPELo8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVRGLM5-es Lámpara LED de Armario  10 LED USB Recargable Barra de Luz Làmpara con Sensor de Movimiento Inalámbrico para Armario  Gabinete  Pasillo  Baño  Cajón [Clase de eficiencia energética A]  1pack '
+slug: 'B07TVRGLM5-es Lámpara LED de Armario 10 LED USB Recargable Barra de Luz...'
+tags: 
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

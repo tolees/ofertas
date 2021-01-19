@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nenEMQlwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085WR6M6P-es Juego de 10 brochas de maquillaje de cerdas sintéticas de primera calidad para base de maquillaje  correctores en polvo  sombras de ojos  brochas de maquillaje profesional  dorado champán '
+slug: 'B085WR6M6P-es Juego de 10 brochas de maquillaje de cerdas sintéticas de...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

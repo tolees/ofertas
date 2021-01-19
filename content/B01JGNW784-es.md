@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AdNnWca6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JGNW784-es MutecPower 1m Sat Cable coaxial de la Antena Conector Angular de 90 ° F en F Conector para el Cable por satélite Cable de Audio y vídeo HDTV Full HD Digital - Negro 1 Metro'
+slug: 'B01JGNW784-es MutecPower 1m Sat Cable coaxial de la Antena Conector...'
+tags: 
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IICFOIY-es Sujetador Nature Rosa albaricoque 80A'
+tags: 
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OXdB7UCeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STVFYPH-es DC Shoes Pure High-Top WC TX Se  Zapatillas de Skateboard para Hombre  Rojo  Grey/Grey/White Xssw   42 EU'
+slug: 'B07STVFYPH-es DC Shoes Pure High-Top WC TX Se Zapatillas de Skateboard...'
+tags: 
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

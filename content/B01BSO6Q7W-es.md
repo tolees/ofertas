@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D0UTYKIQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSO6Q7W-es Philips HP6548/01 - Set con depiladora  perfilador y bolsa para guardar'
+slug: 'B01BSO6Q7W-es Philips HP6548/01 - Set con depiladora perfilador y bolsa...'
+tags: 
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

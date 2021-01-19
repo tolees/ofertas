@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412IfSjGJsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHR617T-es 100Pcs CD DVD Funda de Almacenamiento de Doble Cara Funda de Bolsa de PP El sobre Proporciona Almacenamiento y protección para su CD y DVD - Aleatorio'
+slug: 'B07WHR617T-es 100Pcs CD DVD Funda de Almacenamiento de Doble Cara Funda...'
+tags: 
 actualPrice: 2.51 EUR
 currency: EUR
 price: 2.51

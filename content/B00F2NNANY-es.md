@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hL50bPdbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F2NNANY-es Bellota 5825-16x300 CP Cincel  Cromo vanadio  Cuerpo Octogonal  16x300 mm  con Protector  16 mm x 300 mm'
+slug: 'B00F2NNANY-es Bellota 5825-16x300 CP Cincel Cromo vanadio Cuerpo...'
+tags: 
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

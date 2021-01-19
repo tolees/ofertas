@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413Nt5c9W1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YWKZP9H-es Madeb La Bolsa de Basura con cordón de es fácil de Usar  Limpia y se Puede Usar en Bolsas de Basura de Cocina y Bolsas de Basura Interiores  15-20 litros  Negro  60 Bolsas'
+slug: 'B07YWKZP9H-es Madeb La Bolsa de Basura con cordón de es fácil de Usar...'
+tags: 
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

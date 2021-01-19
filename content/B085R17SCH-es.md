@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FhTxLoSBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085R17SCH-es Finocam - Agenda Curso 2020-2021 Cuarto-155x212 1 Día Página Secundaria Magia Catalán'
+slug: 'B085R17SCH-es Finocam - Agenda Curso 2020-2021 Cuarto-155x212 1 Día...'
+tags: 
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

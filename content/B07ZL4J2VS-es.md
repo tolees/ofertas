@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tws1np4cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZL4J2VS-es Maxi-Cosi Axissfix Silla de coche giratoria 360° isofix  silla auto reclinable y contramarcha para bebés 4 meses - 4 años  color authentic black'
+slug: 'B07ZL4J2VS-es Maxi-Cosi Axissfix Silla de coche giratoria 360° isofix...'
+tags: 
 actualPrice: 288.19 EUR
 currency: EUR
 price: 288.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x0PG+qy0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD1FPN7-es PUMA Future 5.3 Netfit FG/AG  Botas de fútbol para Hombre  Azul  Luminous Blue/Nrgy Blue Black/Pink Alert   44 EU'
+slug: 'B07SD1FPN7-es PUMA Future 5.3 Netfit FG/AG Botas de fútbol para Hombre...'
+tags: 
 actualPrice: 53.08 EUR
 currency: EUR
 price: 53.08

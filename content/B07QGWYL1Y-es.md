@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31F9ph0c89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGWYL1Y-es Funko Pop Bobble Vinyle Marvel: Holiday-Groot Figura Coleccionable  Multicolor  43333 '
+slug: 'B07QGWYL1Y-es Funko Pop Bobble Vinyle Marvel: Holiday-Groot Figura...'
+tags: 
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bgui-6MUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087CXFJDN-es Coolcept Women Casual Slip On Court Shoes Flat Pumps Shoes Office Party Summer Shoes Claret-Rongli Size 31 Asian'
+slug: 'B087CXFJDN-es Coolcept Women Casual Slip On Court Shoes Flat Pumps Shoes...'
+tags: 
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

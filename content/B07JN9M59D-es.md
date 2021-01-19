@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KAMuTWC0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JN9M59D-es Cloudnola Botanical Magnolia - Reloj de Pared  Talla única   Color Madera de Pino'
+slug: 'B07JN9M59D-es Cloudnola Botanical Magnolia - Reloj de Pared Talla única...'
+tags: 
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

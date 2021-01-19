@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n25T5pdnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L72ZFVK-es Adidas Lite Racer RBN  Zapatillas de Deporte para Mujer  Blanco  Ftwbla/Ftwbla/Grinat 000   36 1/3 EU'
+slug: 'B07L72ZFVK-es Adidas Lite Racer RBN Zapatillas de Deporte para Mujer...'
+tags: 
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

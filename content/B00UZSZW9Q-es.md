@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UZSZW9Q-es Jako Polyesterjacke Pro Junior Jacke Blue-Navy-Citro - 152'
+tags: 
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

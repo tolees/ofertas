@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CGgH7mPoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087P9FR7B-es Anpro 220 PCS Kit de Costura  Kit Coser Costurero  Estuche Oxfords Portátil para Principiantes  Mini Kit de Costura Para el Hogar  Viajes  Negro'
+slug: 'B087P9FR7B-es Anpro 220 PCS Kit de Costura Kit Coser Costurero Estuche...'
+tags: 
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

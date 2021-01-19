@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61LRFNAyopL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872LNKWG-es NMBC Cojín de Asiento de Coche con Cuentas de Madera 1 con Masaje Cojín Lumbar Asiento de Coche Transpirable Protector de cojín de Asiento de coche-48x98 cm A'
+slug: 'B0872LNKWG-es NMBC Cojín de Asiento de Coche con Cuentas de Madera 1 con...'
+tags: 
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

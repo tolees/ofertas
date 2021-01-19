@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Tx5nSqY3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNGTL9L-es Pablosky Merceditas para Niñas   Negro 328210   34 EU'
+slug: 'B07DNGTL9L-es Pablosky Merceditas para Niñas Negro 328210 34 EU'
+tags: 
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

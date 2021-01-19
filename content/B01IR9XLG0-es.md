@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JxeQM3+cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IR9XLG0-es Maclaren AM1Y031872 Union Jack Princess Blue Forro de asiento Accesorio para silla de paseo'
+slug: 'B01IR9XLG0-es Maclaren AM1Y031872 Union Jack Princess Blue Forro de...'
+tags: 
 actualPrice: 21.1 EUR
 currency: EUR
 price: 21.1

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RP6BohioL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL6KZFG-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Clone Scout Walker Compatible con Ladrillos de Construcción Lego Modelo 75261  Juego de Legos no Incluido'
+slug: 'B07XL6KZFG-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Clone...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rXsrE9I2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QS34HH-es find. 18137 camisetas  Rosa Oscuro  Pink   36  Talla del Fabricante: X-Small '
+slug: 'B073QS34HH-es find. 18137 camisetas Rosa Oscuro Pink 36 Talla del...'
+tags: 
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

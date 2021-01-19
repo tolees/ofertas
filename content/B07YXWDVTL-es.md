@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VtSu-cAPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXWDVTL-es Mansso Cámara para Niños con Tarjeta TF 16GB Cámara Digitale Selfie para Niños Video cámara Infantil con Pantalla de 2 Pulgadas HD 1080P Doble Objetivo a Prueba de Golpes Carcasa de Silicona'
+slug: 'B07YXWDVTL-es Mansso Cámara para Niños con Tarjeta TF 16GB Cámara...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

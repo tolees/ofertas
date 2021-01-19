@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410ETq3YsTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5MZBLW-es American Tourister - Modern Dream - Spinner Equipaje de mano 55 cm  35 L  Azul  Skydust '
+slug: 'B07J5MZBLW-es American Tourister - Modern Dream - Spinner Equipaje de...'
+tags: 
 actualPrice: 92.08 EUR
 currency: EUR
 price: 92.08

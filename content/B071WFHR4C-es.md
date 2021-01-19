@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f0+dikG0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WFHR4C-es adidas Campus  Zapatillas de Deporte para Hombre  Azul  Azuosc / Ftwbla / Blatiz   40 EU'
+slug: 'B071WFHR4C-es adidas Campus Zapatillas de Deporte para Hombre Azul...'
+tags: 
 actualPrice: 57.05 EUR
 currency: EUR
 price: 57.05

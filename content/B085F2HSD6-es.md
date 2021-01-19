@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uq5bR+cnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085F2HSD6-es Compuesto Pasta para afilado BACHER con acondicionador para el cuero 100g - Ultrafino'
+slug: 'B085F2HSD6-es Compuesto Pasta para afilado BACHER con acondicionador...'
+tags: 
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

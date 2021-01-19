@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j9-P2V4oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UBOITO4-es Tommy Hilfiger 3p Trunk Tanga  Negro  Black/Grey Heather/White 004   Large  Pack de 3  para Hombre'
+slug: 'B00UBOITO4-es Tommy Hilfiger 3p Trunk Tanga Negro Black/Grey...'
+tags: 
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

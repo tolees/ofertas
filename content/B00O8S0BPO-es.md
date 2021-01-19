@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lxo1diraL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O8S0BPO-es Portavasos de plástico Intex PureSpa Beige  26 x 22 x 18 cm'
+slug: 'B00O8S0BPO-es Portavasos de plástico Intex PureSpa Beige 26 x 22 x 18 cm'
+tags: 
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

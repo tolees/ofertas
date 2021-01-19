@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/219nPuhGGlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XD38MGQ-es Maybelline New York Colossal Kajal Lápiz de Ojos Ultra Intenso'
+slug: 'B06XD38MGQ-es Maybelline New York Colossal Kajal Lápiz de Ojos Ultra...'
+tags: 
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

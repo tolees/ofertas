@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/217R1DHZzdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ25CHZ-es VicTsing Lámpara de Mesa 18 LEDs Recargable con 60 Horas de Autonomía  Lampara de Escritorio con Brillo Regulable 20%-100%  Función de Memoria  Control Táctil y Cuidado de Ojos'
+slug: 'B07KQ25CHZ-es VicTsing Lámpara de Mesa 18 LEDs Recargable con 60 Horas...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

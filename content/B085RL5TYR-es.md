@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515xAWoyPIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085RL5TYR-es Libershine Cubierta De La Lactancia Del Bebé  Gran calidad 100% algodón Mantas de Lactancia  Manta para bebés niños Ducha delantal mantón de la bufanda'
+slug: 'B085RL5TYR-es Libershine Cubierta De La Lactancia Del Bebé Gran calidad...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

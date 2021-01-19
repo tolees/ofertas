@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bafY-i-rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ULI8PMQ-es Samsonite Neopulse - Spinner XL Maleta  81 cm  124 L  Negro  Metallic Black '
+slug: 'B00ULI8PMQ-es Samsonite Neopulse - Spinner XL Maleta 81 cm 124 L Negro...'
+tags: 
 actualPrice: 261.09 EUR
 currency: EUR
 price: 261.09

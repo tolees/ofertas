@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wIuHf4qOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XJLCNZ-es Masajeador Portátil  10 Modos de Frecuencia  Silicona Suave  Impermeable  Carga USB'
+slug: 'B083XJLCNZ-es Masajeador Portátil 10 Modos de Frecuencia Silicona Suave...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

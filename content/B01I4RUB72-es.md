@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411EV+JzA9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I4RUB72-es Breville DuraCeramic VST071X Sandwichera de tamaño mediano con revestimiento  1000 W  0 db  cerámica  Inox  planchas lisas  color gris'
+slug: 'B01I4RUB72-es Breville DuraCeramic VST071X Sandwichera de tamaño mediano...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

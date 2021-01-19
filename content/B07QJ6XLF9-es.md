@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YxAsUtrlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ6XLF9-es Hackett Aston Martin Racing T544 Polo  Blanco  White/Multi 8aj   Large para Hombre'
+slug: 'B07QJ6XLF9-es Hackett Aston Martin Racing T544 Polo Blanco White/Multi...'
+tags: 
 actualPrice: 53.28 EUR
 currency: EUR
 price: 53.28

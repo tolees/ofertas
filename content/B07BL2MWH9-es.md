@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41H-O4YnsHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL2MWH9-es New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Hombre  Azul  Deep Ozone Blue/Eclipse Do   45 EU'
+slug: 'B07BL2MWH9-es New Balance Fresh Foam Zante Pursuit Zapatillas de Running...'
+tags: 
 actualPrice: 60 EUR
 currency: EUR
 price: 60

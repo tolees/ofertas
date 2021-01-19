@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uCfXdvo8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5R5ZFZ-es Banpresto Dragon Ball  Match Makers  Super Saiyan Broly  Multicolor  Bandai 39650 '
+slug: 'B07S5R5ZFZ-es Banpresto Dragon Ball Match Makers Super Saiyan Broly...'
+tags: 
 actualPrice: 27.07 EUR
 currency: EUR
 price: 27.07

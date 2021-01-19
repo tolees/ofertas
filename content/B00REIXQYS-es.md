@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wLL6eBq5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00REIXQYS-es Reifen-Markt Funda de la Almohada 40x40cm Balonmano Fútbol Voleibol Baloncesto Deporte Microfibra Regalo Ideal y la decoración de Buen Gusto para Cada salón o el Dormitorio'
+slug: 'B00REIXQYS-es Reifen-Markt Funda de la Almohada 40x40cm Balonmano Fútbol...'
+tags: 
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51x7a9sktKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPNTFVT-es Stranger Things Minde Flayer - Cuaderno de notas en espiral  tamaño A5   diseño de flores'
+slug: 'B07RPNTFVT-es Stranger Things Minde Flayer - Cuaderno de notas en...'
+tags: 
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

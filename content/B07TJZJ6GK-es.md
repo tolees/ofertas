@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VSDatJ2sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJZJ6GK-es Bestway 56681 | Steel Pro – Piscina exterior redonda 366 x 76 cm  bomba de filtrado incluida'
+slug: 'B07TJZJ6GK-es Bestway 56681 | Steel Pro – Piscina exterior redonda 366 x...'
+tags: 
 actualPrice: 147.0 EUR
 currency: EUR
 price: 147.0

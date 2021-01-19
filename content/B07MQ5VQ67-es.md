@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414K5z1rJpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ5VQ67-es Scotch & Soda Nos Mott-Classic Slim Fit Chino Pantalones  Gris  Grey 97   52  Talla del Fabricante: 33/30  para Hombre'
+slug: 'B07MQ5VQ67-es Scotch & Soda Nos Mott-Classic Slim Fit Chino Pantalones...'
+tags: 
 actualPrice: 60.17 EUR
 currency: EUR
 price: 60.17

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jWeri8JbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2FN2SS-es Superdry Core Sport Graphic tee Top de Deporte  Azul  Dark Navy 24s   Medium para Hombre'
+slug: 'B07P2FN2SS-es Superdry Core Sport Graphic tee Top de Deporte Azul Dark...'
+tags: 
 actualPrice: 10.26 EUR
 currency: EUR
 price: 10.26

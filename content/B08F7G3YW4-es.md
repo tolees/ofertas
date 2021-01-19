@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X6CoqT-VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F7G3YW4-es Transmisor FM Bluetooth 5.0  Reproductor MP3 Coche QC3.0 Carga rápida Adaptador de Radio Dual USB 5V/1A Manos Libres inalámbrico para iOS/Android'
+slug: 'B08F7G3YW4-es Transmisor FM Bluetooth 5.0 Reproductor MP3 Coche QC3.0...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hldoB-u2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD9LY1O-es Instax Mini 70  Cámara instantánea analógica  ISO 800  0.37x  f 60 mm  1:12.7  Flash automático   Tamaño Único  Negro'
+slug: 'B01HD9LY1O-es Instax Mini 70 Cámara instantánea analógica ISO 800 0.37x...'
+tags: 
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

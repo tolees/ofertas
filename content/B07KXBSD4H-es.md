@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51i4ypQVimL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXBSD4H-es Apisérum Vitamax Viales Bebibles- Aporte de Energía Extra y Vitalidad Favorece el rendimiento físico e intelectual Con Jalea Real  Vitaminas  Minerales  Aminoácidos  Ginseng  Tratamiento para 18 días'
+slug: 'B07KXBSD4H-es Apisérum Vitamax Viales Bebibles- Aporte de Energía Extra...'
+tags: 
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

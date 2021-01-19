@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R4z6y0LmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HWLLVM-es Monix Pisa - Set de cubiertos de 24 piezas con cuchillo chuletero  acero inoxidable 18/10  diseño contemporaneo  acabado pulido brillante  espesor 3 mm  6 comensales '
+slug: 'B078HWLLVM-es Monix Pisa - Set de cubiertos de 24 piezas con cuchillo...'
+tags: 
 actualPrice: 36.32 EUR
 currency: EUR
 price: 36.32

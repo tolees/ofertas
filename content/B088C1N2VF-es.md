@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C8aMNETNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088C1N2VF-es P Prettyia Mini Combo De Teclado Y Mouse Inalámbricos Super-Slim 2.4G para Computadora De Escritorio - Negro'
+slug: 'B088C1N2VF-es P Prettyia Mini Combo De Teclado Y Mouse Inalámbricos...'
+tags: 
 actualPrice: 22.06 EUR
 currency: EUR
 price: 22.06

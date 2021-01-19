@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dXjQobYaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DN7XSF-es Ever-Pretty A-línea Vestito de Gala Gasa Cuello en V sin Mangas Largo para Mujer Sonrojo 42'
+slug: 'B079DN7XSF-es Ever-Pretty A-línea Vestito de Gala Gasa Cuello en V sin...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

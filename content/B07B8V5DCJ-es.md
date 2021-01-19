@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514X1NdwhDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8V5DCJ-es JBL GO 2 - Altavoz inalámbrico portátil con Bluetooth  resistente al agua  IPX7   hasta 5 h de reproducción con sonido de alta fidelidad  menta'
+slug: 'B07B8V5DCJ-es JBL GO 2 - Altavoz inalámbrico portátil con Bluetooth...'
+tags: 
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

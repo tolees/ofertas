@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sFULAKbJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XQR5ZM-es Under Armour Seamless Longline Sujetador Deportivo  Mujer  Negro  Black/Black/Black 001   S'
+slug: 'B077XQR5ZM-es Under Armour Seamless Longline Sujetador Deportivo Mujer...'
+tags: 
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

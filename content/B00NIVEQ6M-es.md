@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/318S8tNRK2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NIVEQ6M-es Mustard M 16028 - Soporte magnético para clips con diseño de Einstein'
+slug: 'B00NIVEQ6M-es Mustard M 16028 - Soporte magnético para clips con diseño...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

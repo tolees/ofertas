@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wOUxcw+XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZNVDXC-es Superga 2750 Cotu Classic  Zapatillas Unisex Adulto  Blanco  White/Gold A15   35 EU'
+slug: 'B07TZNVDXC-es Superga 2750 Cotu Classic Zapatillas Unisex Adulto Blanco...'
+tags: 
 actualPrice: 30.68 EUR
 currency: EUR
 price: 30.68

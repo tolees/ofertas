@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411xs+BNI0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F6HHW1T-es HP 27xq - Monitor gaming con pantalla Quad HD  2560 x 1440 a 60 Hz   TN 1ms  AMD FreeSync  144 Hz  Negro/Verde  27"'
+slug: 'B07F6HHW1T-es HP 27xq - Monitor gaming con pantalla Quad HD 2560 x 1440...'
+tags: 
 actualPrice: 288.15 EUR
 currency: EUR
 price: 288.15

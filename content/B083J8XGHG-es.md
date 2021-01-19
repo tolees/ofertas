@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uZYswyMfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083J8XGHG-es TOUCHBeauty Masajeador facial con modo sónico vibración  Infusión iónica Masajeador facial dispositivo  Limpieza Profunda  Cuidado Facial AG-1681A'
+slug: 'B083J8XGHG-es TOUCHBeauty Masajeador facial con modo sónico vibración...'
+tags: 
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

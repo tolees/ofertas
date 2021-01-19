@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51d3XD7nj+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HBH5D2L-es WiCareYo 1.8M 6ft Audio Video Cable AV 9 Pines para Genesis Mega Drive 2 y 3'
+slug: 'B07HBH5D2L-es WiCareYo 1.8M 6ft Audio Video Cable AV 9 Pines para...'
+tags: 
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

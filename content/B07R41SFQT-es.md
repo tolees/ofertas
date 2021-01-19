@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NH4m-gKfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R41SFQT-es PARTU Purificador de Aire con Filtro HEPA  Filtro de Nivel 3 Purificador de Aire para Hogar con Luz Nocturna Coloreada  Indicador de Reemplazo del Filtro  para Eliminador PM2.5  Polen  Bacterias'
+slug: 'B07R41SFQT-es PARTU Purificador de Aire con Filtro HEPA Filtro de Nivel...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z2FLNS1PL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F6V4MF5-es Salomon Trailblazer Mochila para Carrera de montaña  Cómoda y Ligera  Capacidad 30 L  Unisex Adulto  Negro  Talla única'
+slug: 'B07F6V4MF5-es Salomon Trailblazer Mochila para Carrera de montaña Cómoda...'
+tags: 
 actualPrice: 39.04 EUR
 currency: EUR
 price: 39.04

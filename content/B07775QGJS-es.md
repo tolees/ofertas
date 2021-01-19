@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31r8j0I83HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07775QGJS-es Tommy Jeans Mujer Mid Rise Nora Jeans  Azul  Boogie Blue Stretch 980   W24/L30'
+slug: 'B07775QGJS-es Tommy Jeans Mujer Mid Rise Nora Jeans Azul Boogie Blue...'
+tags: 
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/2177RxSXkqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8V9W4X-es Tommy Hilfiger Corporate Premium Sneaker  Zapatillas para Hombre  Blanco  White Ybs   41 EU'
+slug: 'B07V8V9W4X-es Tommy Hilfiger Corporate Premium Sneaker Zapatillas para...'
+tags: 
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

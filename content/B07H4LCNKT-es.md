@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Nzj1W1sqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4LCNKT-es Preciva CT480300 Crimpadora Terminales Electricos  0.5-1.5 mm² de Trinquete Ajustable con 300 Terminal Para Conector de Cable'
+slug: 'B07H4LCNKT-es Preciva CT480300 Crimpadora Terminales Electricos 0.5-1.5...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

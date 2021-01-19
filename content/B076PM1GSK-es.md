@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5164gKLN2IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PM1GSK-es Scholl Lima Electrónica de Pies Rosa y 2 Pintauñas de Color Rojo y Transparente - Pack Regalo'
+slug: 'B076PM1GSK-es Scholl Lima Electrónica de Pies Rosa y 2 Pintauñas de...'
+tags: 
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

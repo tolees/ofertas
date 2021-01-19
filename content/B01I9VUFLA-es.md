@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gcpw33pbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I9VUFLA-es New Balance Gw500v1  Zapatillas de Deporte para Mujer  Azul  Navy/Light Blue Pt   37 EU'
+slug: 'B01I9VUFLA-es New Balance Gw500v1 Zapatillas de Deporte para Mujer Azul...'
+tags: 
 actualPrice: 48.26 EUR
 currency: EUR
 price: 48.26

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UYHpnrVFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRCQ41P-es Skechers 13278-MVE  Zapatillas para Mujer  Morado  38 EU'
+slug: 'B07WRCQ41P-es Skechers 13278-MVE Zapatillas para Mujer Morado 38 EU'
+tags: 
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B9bo93I+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0054JR5NM-es Alessi Officina Tiffany Bandeja  Plateado'
+slug: 'B0054JR5NM-es Alessi Officina Tiffany Bandeja Plateado'
+tags: 
 actualPrice: 61.73 EUR
 currency: EUR
 price: 61.73

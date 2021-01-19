@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jfjHtsa6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB4WJYJ-es Parasol Coche Bebe Infantil Lateral cortinilla  Accesorio Coche ventanilla Trasera  Cortina Interior Lamina Cubre Sol niño  protección Rayos UV  colocación electrostática Autoadhesivo  DINOSAURIO '
+slug: 'B07SB4WJYJ-es Parasol Coche Bebe Infantil Lateral cortinilla Accesorio...'
+tags: 
 actualPrice: 5.83 EUR
 currency: EUR
 price: 5.83

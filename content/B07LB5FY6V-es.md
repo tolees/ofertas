@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LOPTvfzTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LB5FY6V-es TOOHUI 6Pcs Acoplador HDMI  HDMI Acoplador Hembra a Hembra  Empalme HDMI Hembra  Chapado en Oro de Alta Velocidad HDMI Hembra Acoplador'
+slug: 'B07LB5FY6V-es TOOHUI 6Pcs Acoplador HDMI HDMI Acoplador Hembra a Hembra...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

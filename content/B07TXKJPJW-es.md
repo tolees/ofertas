@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+wD8tNyfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXKJPJW-es Kit de cuidado de la barba para hombres  kit de cuidado de la barba La herramienta de aseo de la limpieza de la barba ayuda a suavizar y acondicionar los bigotes'
+slug: 'B07TXKJPJW-es Kit de cuidado de la barba para hombres kit de cuidado de...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

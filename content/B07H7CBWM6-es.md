@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ltv3kKZpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H7CBWM6-es HP Sprocket 200 1AS85A  Impresora  Bluetooth  Tamaño Único  Blanco'
+slug: 'B07H7CBWM6-es HP Sprocket 200 1AS85A Impresora Bluetooth Tamaño Único...'
+tags: 
 actualPrice: 84.31 EUR
 currency: EUR
 price: 84.31

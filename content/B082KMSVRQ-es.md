@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BNP8s+dEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KMSVRQ-es LABISTS Impresora 3D  Impresora Mini y Portátil con Filamento PLA de 10 m  Placa de Construcción Extraíble  Impresión en Línea/Fuera de Línea Impresora 3D Tamaño de Impresión 100mm x 100mm x 100mm'
+slug: 'B082KMSVRQ-es LABISTS Impresora 3D Impresora Mini y Portátil con...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

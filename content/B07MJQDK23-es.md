@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418Un2c4gWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJQDK23-es Medidor de Perfil de Contorno  Wysgvazgv 5   120MM Calibre de Medición Irregular Plástico Duplicador Copia Tallar Bordes Laminados Regla de Medición Manualidades Herramientas de Carpintería  1 PACK '
+slug: 'B07MJQDK23-es Medidor de Perfil de Contorno Wysgvazgv 5 120MM Calibre de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

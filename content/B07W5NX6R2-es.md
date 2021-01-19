@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zRP7CCdGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5NX6R2-es Neewer App Control Anillo Luz LED 41cm Táctil Manual Soporte con Pantalla LCD Control Luces Múltiples 3200-5600K Soporte Luz Incluido para Maquillaje Youtube Video Blogger Negro '
+slug: 'B07W5NX6R2-es Neewer App Control Anillo Luz LED 41cm Táctil Manual...'
+tags: 
 actualPrice: 44.09 EUR
 currency: EUR
 price: 44.09

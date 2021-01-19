@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LRUA90fHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTP9L49-es Skechers Flex Advantage 3.0-Jection  Zapatillas Deportivas para Hombre  Azul  Navy Black Nvbk   41.5 EU'
+slug: 'B07CTP9L49-es Skechers Flex Advantage 3.0-Jection Zapatillas Deportivas...'
+tags: 
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

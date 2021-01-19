@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511wj0FZrYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076DFY62W-es Metronic 477144 - Radio CD-mp3 y Reproductor de CD portátil con Toma USB/SD  Radio FM  con Salida Jack 3.5mm  3w  Jungle Blanco/Verde.'
+slug: 'B076DFY62W-es Metronic 477144 - Radio CD-mp3 y Reproductor de CD...'
+tags: 
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

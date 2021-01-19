@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YBqwKG28L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0822KCRYN-es HOLULO 3X 10X Lámpara Lupa  Lámpara de Aumento con Luz y Pinza - para leer  hobbies  manualidades  Negro  3X 10X '
+slug: 'B0822KCRYN-es HOLULO 3X 10X Lámpara Lupa Lámpara de Aumento con Luz y...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

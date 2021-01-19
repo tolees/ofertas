@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jFvCpaeFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZLJ6H7-es Under Armour Boxerjocks 15 cm Ropa Interior Elástica  3 Unidades  Hombre  Blanco  White 100   S'
+slug: 'B07CZLJ6H7-es Under Armour Boxerjocks 15 cm Ropa Interior Elástica 3...'
+tags: 
 actualPrice: 22.46 EUR
 currency: EUR
 price: 22.46

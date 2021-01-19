@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nrBbg0kAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TV00I1G-es G-STAR RAW 3301 Tapered Jeans  Azul  dk aged 6576-89   31W / 36L para Hombre'
+slug: 'B00TV00I1G-es G-STAR RAW 3301 Tapered Jeans Azul dk aged 6576-89 31W /...'
+tags: 
 actualPrice: 42.66 EUR
 currency: EUR
 price: 42.66

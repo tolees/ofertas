@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pg0lC+NAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002RX4VYE-es Fissler vitavit premium / Olla a presión  10 litros  Ø 26 cm  de acero inoxidable  2 niveles de cocción  apta para cocinas de inducción  gas  vitrocerámica y eléctricas'
+slug: 'B002RX4VYE-es Fissler vitavit premium / Olla a presión 10 litros Ø 26 cm...'
+tags: 
 actualPrice: 169.32 EUR
 currency: EUR
 price: 169.32

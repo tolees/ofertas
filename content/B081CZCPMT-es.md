@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qFgyj0DiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CZCPMT-es SaponinTree Microfono Inalámbrico Karaoke  Micrófono Karaoke Bluetooth Portátil con Altavoz con Luces de Baile LED para Niños Canta Partido Musica Reproductor'
+slug: 'B081CZCPMT-es SaponinTree Microfono Inalámbrico Karaoke Micrófono...'
+tags: 
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

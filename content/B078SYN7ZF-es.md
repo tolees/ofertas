@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41crqsr61rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SYN7ZF-es Salomon Speedcross 4 GTX  Zapatillas de Trail Running para Hombre  Azul  Poseidon/Navy Blazer/Lime Green   42 EU'
+slug: 'B078SYN7ZF-es Salomon Speedcross 4 GTX Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 82.87 EUR
 currency: EUR
 price: 82.87

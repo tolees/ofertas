@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JTBQOcLeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076H9D7ZJ-es Daniel Wellington DW00100217 -  Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable'
+slug: 'B076H9D7ZJ-es Daniel Wellington DW00100217 - Reloj Analógico para Mujer...'
+tags: 
 actualPrice: 68.0 EUR
 currency: EUR
 price: 68.0

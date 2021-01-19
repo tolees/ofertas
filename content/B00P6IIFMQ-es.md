@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lsUdUYjtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P6IIFMQ-es MC N-079 Patilla de Aluminio  Unisex Adulto  Negro  Única'
+slug: 'B00P6IIFMQ-es MC N-079 Patilla de Aluminio Unisex Adulto Negro Única'
+tags: 
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

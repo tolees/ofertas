@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fYt0nlU6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KV6E5HG-es MiroPure Cepillo Limpiador Eléctrico Facial y corporal   Cepillo Cara Cepillo limpiador sónico facial impermeable para limpieza profunda  4 configuraciones de velocidad 2 cabezales de cepillo'
+slug: 'B01KV6E5HG-es MiroPure Cepillo Limpiador Eléctrico Facial y corporal...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

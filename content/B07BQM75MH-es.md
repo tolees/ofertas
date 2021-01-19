@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Jmkkg5ulL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQM75MH-es ONEVER Bolsa De Bloqueo De Señal  GPS RFID Faraday Bolsa De Protección De Jaula  Funda para Teléfono Móvil Protección De La Privacidad Y Llave De Coche Fob  Anti-rastreo Antispying  2pcs '
+slug: 'B07BQM75MH-es ONEVER Bolsa De Bloqueo De Señal GPS RFID Faraday Bolsa De...'
+tags: 
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

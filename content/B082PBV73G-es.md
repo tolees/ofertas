@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nfBRw3dkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PBV73G-es JACK & JONES Jacsolid Bso Trunks 5 Pack Calzoncillos  Black  Large para Hombre'
+slug: 'B082PBV73G-es JACK & JONES Jacsolid Bso Trunks 5 Pack Calzoncillos Black...'
+tags: 
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

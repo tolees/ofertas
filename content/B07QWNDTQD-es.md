@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418A8MRRBLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWNDTQD-es Under Armour Sportstyle Terry Logo Parte Superior del Calentamiento  Hombre  Azul  XL'
+slug: 'B07QWNDTQD-es Under Armour Sportstyle Terry Logo Parte Superior del...'
+tags: 
 actualPrice: 34.22 EUR
 currency: EUR
 price: 34.22

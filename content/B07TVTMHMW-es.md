@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qu9SkQQ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVTMHMW-es Women s Secret Bralettes 1 Deep Crop Top Corto  Negro  Negro 1   X-Large  Tamaño del Fabricante: XL  para Mujer'
+slug: 'B07TVTMHMW-es Women s Secret Bralettes 1 Deep Crop Top Corto Negro Negro...'
+tags: 
 actualPrice: 10.86 EUR
 currency: EUR
 price: 10.86

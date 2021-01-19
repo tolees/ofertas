@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MKVlNey1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LFXHO0-es Silverline TB05 - Banco de trabajo resistente y plegable  150 kg '
+slug: 'B000LFXHO0-es Silverline TB05 - Banco de trabajo resistente y plegable...'
+tags: 
 actualPrice: 30.65 EUR
 currency: EUR
 price: 30.65

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31y9ZAOgV4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895PG2TF-es KUPVALON Repelente Ultrasónico  Control Ultrasónico de Plagas  Plugin de Control Interior para Repeler Araña  Pulga  Mosquitos  Hormigas  Cucarachas  Mosca No-Tóxicos - Blanco 2pack '
+slug: 'B0895PG2TF-es KUPVALON Repelente Ultrasónico Control Ultrasónico de...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lV53VCF4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFZXN25-es New Balance Fresh Foam Vongo  Zapatillas de Running para Mujer  Rojo  Red Red   43 EU'
+slug: 'B07HFZXN25-es New Balance Fresh Foam Vongo Zapatillas de Running para...'
+tags: 
 actualPrice: 62.51 EUR
 currency: EUR
 price: 62.51

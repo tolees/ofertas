@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k9Pvihf9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNFY1N7-es Anyutai Hermosa Starfish Beach Crafts Garden Decoration Hand Picking Party 50 Piezas Mini'
+slug: 'B07WNFY1N7-es Anyutai Hermosa Starfish Beach Crafts Garden Decoration...'
+tags: 
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

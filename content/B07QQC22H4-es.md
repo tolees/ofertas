@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DfNRxYAOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQC22H4-es Ferilinso Cristal Templado para Xiaomi Mi A3 Protector de Pantalla  [3 Pack] Protector de Pantalla Screen Protector con para Cristal Templado Xiaomi Mi A3'
+slug: 'B07QQC22H4-es Ferilinso Cristal Templado para Xiaomi Mi A3 Protector de...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z797TG84L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NAJRQ6E-es Compex Fit 3.0 Electroestimulador  Unisex  Azul'
+slug: 'B00NAJRQ6E-es Compex Fit 3.0 Electroestimulador Unisex Azul'
+tags: 
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

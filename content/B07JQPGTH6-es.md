@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EKIiZAgwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQPGTH6-es NYX Professional Makeup Base de maquillaje Can t Stop Won t Stop Full Coverage Foundation  Larga duración  Waterproof  Fórmula vegana  Acabado mate  Tono: Chestnut'
+slug: 'B07JQPGTH6-es NYX Professional Makeup Base de maquillaje Can t Stop Won...'
+tags: 
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NuHJEkecL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YES7Y2Q-es Calvin Klein Reloj Digital para Mujer de Cuarzo con Correa en Acero Inoxidable K5N2M121'
+slug: 'B00YES7Y2Q-es Calvin Klein Reloj Digital para Mujer de Cuarzo con Correa...'
+tags: 
 actualPrice: 134.5 EUR
 currency: EUR
 price: 134.5

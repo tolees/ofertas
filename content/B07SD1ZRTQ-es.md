@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZcWjlLpML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD1ZRTQ-es Playtex Sujetador C/A Absolute Lift Aros  Beige  Piel 313   95  Tamaño del Fabricante:95B  para Mujer'
+slug: 'B07SD1ZRTQ-es Playtex Sujetador C/A Absolute Lift Aros Beige Piel 313 95...'
+tags: 
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

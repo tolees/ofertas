@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IV36HTARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087VJDZTC-es Columbia Fast Trek II Forro Polar con Cremallera  Hombre  Azul  Bluestone  Collegiate Navy   S'
+slug: 'B087VJDZTC-es Columbia Fast Trek II Forro Polar con Cremallera Hombre...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

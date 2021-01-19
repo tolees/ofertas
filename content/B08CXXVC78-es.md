@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41keTGY1HuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CXXVC78-es LvShui Stranger Things Samsung Galaxy A9 Stae Pro Funda Suave Carcasa Silicona Case Cover Series de Televisión Populares para Samsung Galaxy A9 Stae Pro'
+slug: 'B08CXXVC78-es LvShui Stranger Things Samsung Galaxy A9 Stae Pro Funda...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

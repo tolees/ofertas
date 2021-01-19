@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qd4AOC+zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTWTKXJ-es G-STAR RAW Rackam Core Low  Zapatillas para Hombre  Multicolor  Black/White A940-964   43 EU'
+slug: 'B07VTWTKXJ-es G-STAR RAW Rackam Core Low Zapatillas para Hombre...'
+tags: 
 actualPrice: 46.86 EUR
 currency: EUR
 price: 46.86

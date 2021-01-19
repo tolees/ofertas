@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pjq74bDbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003CLSNX0-es FoodSaver FSR2802 Rollos de Envasado al Vacío FoodSaver  2 Rollos de 5.5 Metros'
+slug: 'B003CLSNX0-es FoodSaver FSR2802 Rollos de Envasado al Vacío FoodSaver 2...'
+tags: 
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

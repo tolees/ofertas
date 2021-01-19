@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uxnCSvpzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M756XRU-es Resalim Plus 10 Cápsulas - Suplemento Natural | Anti-Resaca y Digestiones Pesadas Para Levantarse Bien | Disminuir Cansancio y Fatiga | Con Extractos Vegetales | Vitaminas B1 y B6'
+slug: 'B00M756XRU-es Resalim Plus 10 Cápsulas - Suplemento Natural | Anti-...'
+tags: 
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

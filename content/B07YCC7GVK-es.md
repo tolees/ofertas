@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xHEJHb0bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCC7GVK-es XX-JX  FW-150W'
+slug: 'B07YCC7GVK-es XX-JX FW-150W'
+tags: 
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

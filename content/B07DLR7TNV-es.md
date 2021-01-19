@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mwib-jGdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLR7TNV-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Cuero CL40010'
+slug: 'B07DLR7TNV-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

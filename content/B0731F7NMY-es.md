@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TPBW1kQvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0731F7NMY-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F20329/1'
+slug: 'B0731F7NMY-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

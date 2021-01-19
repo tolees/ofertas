@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7RJ83R-es B07W7RJ83R'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

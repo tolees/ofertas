@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413Rq+iPolL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LMPTVV-es Poligono Calcetines Cortos para Hombre y Mujer  Medias Deportivas de Algodón  Calcetines Tobilleros Transpirables  Gris  Paquete de 12  EU 35-40'
+slug: 'B085LMPTVV-es Poligono Calcetines Cortos para Hombre y Mujer Medias...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

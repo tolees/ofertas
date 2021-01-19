@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bk+Vap89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKLTRPV-es 6 Pares 7mm Pendientes pour Hombre Mujer Chico Unisex  Bisuteria Pendientes Tornillo Negro  Pendientes Hombres Plata Pequeños Pendientes de Tous Plata Oro Redondos Piercing Oreja'
+slug: 'B07CKLTRPV-es 6 Pares 7mm Pendientes pour Hombre Mujer Chico Unisex...'
+tags: 
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

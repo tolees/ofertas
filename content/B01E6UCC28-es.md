@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hkJ93z8-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E6UCC28-es Brabantia Sort & Go Cubo Integrado de Basura  Menta y Gris  Pack de 2 x 12 L  2 Unidades'
+slug: 'B01E6UCC28-es Brabantia Sort & Go Cubo Integrado de Basura Menta y Gris...'
+tags: 
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

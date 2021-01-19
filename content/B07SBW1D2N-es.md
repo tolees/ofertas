@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hVvOU-EEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBW1D2N-es PUMA Smash WNS V2 SD  Zapatillas para Mujer  Gris  Silver Cloud/Mist Green Team Gold/Whisper White   38 EU'
+slug: 'B07SBW1D2N-es PUMA Smash WNS V2 SD Zapatillas para Mujer Gris Silver...'
+tags: 
 actualPrice: 17.75 EUR
 currency: EUR
 price: 17.75

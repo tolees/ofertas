@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eQrYLNrNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTXLRR8-es Crema para las pecas  Crema de eliminación de pecas  Crema hidratante blanqueadora antiarrugas para el cuidado de la piel  Control del aceite Nutritiva Reparación Eliminación de manchas'
+slug: 'B07RTXLRR8-es Crema para las pecas Crema de eliminación de pecas Crema...'
+tags: 
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

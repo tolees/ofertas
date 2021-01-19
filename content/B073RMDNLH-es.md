@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lb5zLbN4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RMDNLH-es Columbia SANTIAM 2 Strap  Zapatillas para Hombre  Gris  Dark Grey  Rusty 089   41 EU'
+slug: 'B073RMDNLH-es Columbia SANTIAM 2 Strap Zapatillas para Hombre Gris Dark...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

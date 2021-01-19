@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ustWDW6XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7ST62Q-es Trust GXT 101P GAV - Ratón Gaming de 4800 PPP con 6 Botones e iluminación  Rosa'
+slug: 'B07K7ST62Q-es Trust GXT 101P GAV - Ratón Gaming de 4800 PPP con 6...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

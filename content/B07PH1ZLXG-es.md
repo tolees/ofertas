@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518WRd0+jtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PH1ZLXG-es Juego de 3 Bolsas de Almacenaje Plegable Caja de Tela de Fibra de Carbón de Bambú para Almacenamiento y Organización de Edredón  Sábanas Fundas Mantas y Ropa Fuera de Temporada'
+slug: 'B07PH1ZLXG-es Juego de 3 Bolsas de Almacenaje Plegable Caja de Tela de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

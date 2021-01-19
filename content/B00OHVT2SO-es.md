@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EYC5PtiaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OHVT2SO-es Marshall Mode EQ - Auriculares in-ear  color negro'
+slug: 'B00OHVT2SO-es Marshall Mode EQ - Auriculares in-ear color negro'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BB8TM46-es ZAPATILLAS SIUX TSUNAMI ROYAL AMARILLO'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

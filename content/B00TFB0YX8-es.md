@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ma3axfOgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TFB0YX8-es Optimum Nutrition Gold Standard Pre Workout en Polvo  Bebida Energética con Creatina Monohidratada  Beta Alanina  Cafeína y Vitamina B Complex  Sandía  30 Porciones  330g  Embalaje Puede Variar'
+slug: 'B00TFB0YX8-es Optimum Nutrition Gold Standard Pre Workout en Polvo...'
+tags: 
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HqKUlSJzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGVF49W-es Navaja táctica de BGT  plegable  con sistema de cojinete  funda  con mango antideslizante'
+slug: 'B07BGVF49W-es Navaja táctica de BGT plegable con sistema de cojinete...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

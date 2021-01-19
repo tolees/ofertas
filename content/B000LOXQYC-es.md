@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EdlBMcfFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LOXQYC-es Paulmann 77029 Pinja-Lámpara de Mesa de 3 encendidos táctil E14  0 W  Cromo  Blanco  11 x 11 x 24 cm'
+slug: 'B000LOXQYC-es Paulmann 77029 Pinja-Lámpara de Mesa de 3 encendidos...'
+tags: 
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

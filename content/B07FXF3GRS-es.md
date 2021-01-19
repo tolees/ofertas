@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l7SuqCLzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXF3GRS-es COSORI Hervidor de Agua Eléctrico de Acero Inoxidable  Capacidad 1 7 Litros  Calentador de Agua de Ahorrar Energía  Libre de BPA  Apagado Automático y Protección de Ebullición en Seco  Negro Elegante'
+slug: 'B07FXF3GRS-es COSORI Hervidor de Agua Eléctrico de Acero Inoxidable...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

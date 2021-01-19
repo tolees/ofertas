@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GSsZ6dn3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZBFG7W-es efluky Ventilador Portatil  Mini Ventilador USB  Ventilador Recargable con Banco de Potencia Extraíble 2600mAh  5 Velocidades Ajustables  3-9 Horas de Tiempo de Trabajo Negro '
+slug: 'B07BZBFG7W-es efluky Ventilador Portatil Mini Ventilador USB Ventilador...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

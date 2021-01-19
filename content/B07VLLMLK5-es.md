@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/6120iwOx8bL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLLMLK5-es Ebanku 40 Diseños Foil para Uñas Transfer  Transferencia Pegatinas Calcomanías Uñas Holográfico Nail Art accesorios transferencia papel Nail Stickers Tips Wraps Foil Transfer Sticker'
+slug: 'B07VLLMLK5-es Ebanku 40 Diseños Foil para Uñas Transfer Transferencia...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

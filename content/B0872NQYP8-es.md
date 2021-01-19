@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NhAEr6rlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872NQYP8-es Funda Transparente Compatible para Huawei Nova 5 Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Huawei Nova 5 A4'
+slug: 'B0872NQYP8-es Funda Transparente Compatible para Huawei Nova 5 Carcasa...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

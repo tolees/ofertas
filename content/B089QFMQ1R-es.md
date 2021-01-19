@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ksJoPxA6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089QFMQ1R-es VPCOK Mini Ventilador USB Silencioso 2 en 1 Ventiladores de Sobremesa Ventilador Portátil con 3 Velocidades de Viento Potentes  Plegable 180° y Rotación de 60°  para Escritorio  Oficina  Viaje'
+slug: 'B089QFMQ1R-es VPCOK Mini Ventilador USB Silencioso 2 en 1 Ventiladores...'
+tags: 
 actualPrice: 10.77 EUR
 currency: EUR
 price: 10.77

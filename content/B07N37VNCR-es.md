@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419n4MKUVSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N37VNCR-es The North Face M LW Fp II Mid GTX  Botas de Senderismo para Hombre  Negro  TNF Black/Ebony Grey Ca0   39 EU'
+slug: 'B07N37VNCR-es The North Face M LW Fp II Mid GTX Botas de Senderismo para...'
+tags: 
 actualPrice: 45.56 EUR
 currency: EUR
 price: 45.56

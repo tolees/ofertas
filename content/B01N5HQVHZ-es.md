@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5HQVHZ-es Knorr Pasta con Salsa Carbonara - 62 g'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

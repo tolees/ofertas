@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513kuGzvCIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V475JCJ-es Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 1791640'
+slug: 'B07V475JCJ-es Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 125.3 EUR
 currency: EUR
 price: 125.3

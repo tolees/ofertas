@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VsG7WGA9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FNVQCT-es Qomolo Barbacoa Cepillo  3 En 1 BBQ Grill Cepillo con El Acero Inoxidable Cerdas De Alambre De Acero para Carbón Vegetal y Parrilla Eléctrica Barbacoas Al Aire Libre  Jardín  Camping y De Sobremesa'
+slug: 'B083FNVQCT-es Qomolo Barbacoa Cepillo 3 En 1 BBQ Grill Cepillo con El...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

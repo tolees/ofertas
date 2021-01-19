@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757QY9MS-es BOSS Prime Polo  Blanco  White 100   Large para Hombre'
+slug: 'B0757QY9MS-es BOSS Prime Polo Blanco White 100 Large para Hombre'
+tags: 
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

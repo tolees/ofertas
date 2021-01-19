@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IGpU-FolL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FSNDH39-es Auriculares Bluetooth Auriculares inalámbricos 5.0 Auriculares Bluetooth en Oreja Auricular Estéreo inalámbrico en Oreja Manos Libres para Todos los Dispositivos Bluetooth'
+slug: 'B08FSNDH39-es Auriculares Bluetooth Auriculares inalámbricos 5.0...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KXzqrstuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00166WSLQ-es HP CB386A Original Trommel 824A Gelb Bildtrommel CP6015 CM6040 CM6030 gebraucht'
+slug: 'B00166WSLQ-es HP CB386A Original Trommel 824A Gelb Bildtrommel CP6015...'
+tags: 
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TLKj+q8EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0839JQTRW-es Mardozon Correa para Xiaomi Mi Band 3/4 Pulseras Reloj Coloridos Silicona Banda Reemplazo para Mi Band 3 Compatible con Mi Smart Band 4'
+slug: 'B0839JQTRW-es Mardozon Correa para Xiaomi Mi Band 3/4 Pulseras Reloj...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

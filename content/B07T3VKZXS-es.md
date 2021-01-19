@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZgWFrfbeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3VKZXS-es Matris - Colchón Viscoelástico Muelles Ensacados Espuma Nature - 135 x 190 x 30 - Todas Las Medidas'
+slug: 'B07T3VKZXS-es Matris - Colchón Viscoelástico Muelles Ensacados Espuma...'
+tags: 
 actualPrice: 255 EUR
 currency: EUR
 price: 255

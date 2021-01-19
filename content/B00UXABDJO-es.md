@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lOf9EtboL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UXABDJO-es Dräger X-pect 8110 | Cubregafas Protectoras | Lentes de Seguridad antivaho | para Laboratorio  Agricultura  Industria'
+slug: 'B00UXABDJO-es Dräger X-pect 8110 | Cubregafas Protectoras | Lentes de...'
+tags: 
 actualPrice: 4.94 EUR
 currency: EUR
 price: 4.94

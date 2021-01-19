@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yGj08vj+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJVGRPL-es LAST LEVEL- Keychain Llavero Pop Toy Story 4 BO Beep  Color Mulitcolor  Funko 1 '
+slug: 'B07PJVGRPL-es LAST LEVEL- Keychain Llavero Pop Toy Story 4 BO Beep Color...'
+tags: 
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n6nr+hTsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLLFZW2-es Superdry OL Classic Raglan Ziphood Capucha  Azul  Rich Blue Marl Bif   XL para Hombre'
+slug: 'B07TLLFZW2-es Superdry OL Classic Raglan Ziphood Capucha Azul Rich Blue...'
+tags: 
 actualPrice: 47.44 EUR
 currency: EUR
 price: 47.44

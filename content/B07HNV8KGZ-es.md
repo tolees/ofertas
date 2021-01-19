@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415khw8hjDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNV8KGZ-es 100 hojas 4x6in Papel fotográfico para impresión láser a ambos lados  adecuado para imprimir fotos/invitaciones/tarjetas postales/tarjetas de índice/cartulina/stock de portadas'
+slug: 'B07HNV8KGZ-es 100 hojas 4x6in Papel fotográfico para impresión láser a...'
+tags: 
 actualPrice: 7.32 EUR
 currency: EUR
 price: 7.32

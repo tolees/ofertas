@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51EYWYUKp8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QMW1JQQ-es Primux Ioxbook - Portatil 1402MC 14.1" N3350 4G 120GB SSD + 32GB EMMC W10H Minecraft'
+slug: 'B07QMW1JQQ-es Primux Ioxbook - Portatil 1402MC 14.1" N3350 4G 120GB SSD...'
+tags: 
 actualPrice: 164.46 EUR
 currency: EUR
 price: 164.46

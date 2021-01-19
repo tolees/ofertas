@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z2fKYq7SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085WP9MDT-es FlowerDas Termometro Infrarrojo Termómetro De Frente Digital Resultados Inmediatos Termómetro Sin Contacto para Bebés  Niños  Adulto Doméstico'
+slug: 'B085WP9MDT-es FlowerDas Termometro Infrarrojo Termómetro De Frente...'
+tags: 
 actualPrice: 46.29 EUR
 currency: EUR
 price: 46.29

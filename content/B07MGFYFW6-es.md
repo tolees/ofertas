@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314RSQGFckL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFYFW6-es Vans Doheny  Zapatillas para Hombre  Negro Lona Negro Negro 186  42 EU'
+slug: 'B07MGFYFW6-es Vans Doheny Zapatillas para Hombre Negro Lona Negro Negro...'
+tags: 
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

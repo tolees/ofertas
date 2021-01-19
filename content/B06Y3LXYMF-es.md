@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZHVPwTUML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y3LXYMF-es L Oréal Professionnel - Champú experto Silver Series para cabello gris y blanco  300 ml'
+slug: 'B06Y3LXYMF-es L Oréal Professionnel - Champú experto Silver Series para...'
+tags: 
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

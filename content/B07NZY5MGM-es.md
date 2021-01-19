@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411UxUaYksL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZY5MGM-es Skechers Dyna-Air  Zapatillas para Hombre  Azul  Navy Mesh/Trim Nvy   45.5 EU'
+slug: 'B07NZY5MGM-es Skechers Dyna-Air Zapatillas para Hombre Azul Navy...'
+tags: 
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

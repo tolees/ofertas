@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414wlyFX9jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCCHD5S-es Tommee Tippee Juguete transpirable  Eddy el Elefante'
+slug: 'B07GCCHD5S-es Tommee Tippee Juguete transpirable Eddy el Elefante'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

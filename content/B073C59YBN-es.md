@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iXOXRf5jL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073C59YBN-es Caterpillar Deplete WP  Botas Clasicas para Hombre  Negro  Black Black   40 EU'
+slug: 'B073C59YBN-es Caterpillar Deplete WP Botas Clasicas para Hombre Negro...'
+tags: 
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

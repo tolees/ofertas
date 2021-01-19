@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AVeviB8oL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072NH27PC-es Nike M Nk Short Hbr Sport Shorts  Hombre  Blanco  White/ Black   L'
+slug: 'B072NH27PC-es Nike M Nk Short Hbr Sport Shorts Hombre Blanco White/ Black L'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

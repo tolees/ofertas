@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eOXwks2vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MC7DL8-es 24pcs Purpurina Etiquetas Engomadas de Papel Flameco para Botella Vaso Calco Maña'
+slug: 'B079MC7DL8-es 24pcs Purpurina Etiquetas Engomadas de Papel Flameco para...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

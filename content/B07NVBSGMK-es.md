@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3129e5SAZwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVBSGMK-es Skechers Men s Expected 2.0 Oxfords  Brown  Brown Leather BRN   6.5  40 EU '
+slug: 'B07NVBSGMK-es Skechers Men s Expected 2.0 Oxfords Brown Brown Leather...'
+tags: 
 actualPrice: 55.97 EUR
 currency: EUR
 price: 55.97

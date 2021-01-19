@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sC9FEECcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F5N1N8C-es Unidad Flash USB 2.0 Memoria USB Stick USB Pen Memory Stick Flash Drives de Alta Velocidad - 64m'
+slug: 'B07F5N1N8C-es Unidad Flash USB 2.0 Memoria USB Stick USB Pen Memory...'
+tags: 
 actualPrice: 2.04 EUR
 currency: EUR
 price: 2.04

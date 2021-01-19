@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bjUYMB-iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DC7DIJ8-es Samsung EHS64AVFBE - Auriculares para Samsung Galaxy S4 i9505  botón de encendido/apagado   color negro'
+slug: 'B00DC7DIJ8-es Samsung EHS64AVFBE - Auriculares para Samsung Galaxy S4...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

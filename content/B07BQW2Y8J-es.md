@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41KXpmS3HKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQW2Y8J-es Wonyered Caja de Seguridad Cerradura Fuerte con 4 Numeros de Códigos para Guardar las Llaves Joyas o Tarjeta bancaria en Pared o Mirilla'
+slug: 'B07BQW2Y8J-es Wonyered Caja de Seguridad Cerradura Fuerte con 4 Numeros...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

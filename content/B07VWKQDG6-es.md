@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cBA5dXfnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWKQDG6-es Skechers ROVINA Clean Sheen  Zapatillas para Mujer  Negro Black Mesh Leather Durapatent Trim Blk  37 EU'
+slug: 'B07VWKQDG6-es Skechers ROVINA Clean Sheen Zapatillas para Mujer Negro...'
+tags: 
 actualPrice: 39.61 EUR
 currency: EUR
 price: 39.61

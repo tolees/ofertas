@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y7QYsmryL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTLV8HY-es Merrell Choprock Leather Shandal  Zapatillas Impermeables para Hombre  Marrón  Cloudy/Gold   47 EU'
+slug: 'B07TTLV8HY-es Merrell Choprock Leather Shandal Zapatillas Impermeables...'
+tags: 
 actualPrice: 41.27 EUR
 currency: EUR
 price: 41.27

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vbWfGVhrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D61SIO4-es Trangoworld Ghawdex SN Pantalón Largo  Hombre  Rojo Volcán/Antracita  L'
+slug: 'B01D61SIO4-es Trangoworld Ghawdex SN Pantalón Largo Hombre Rojo...'
+tags: 
 actualPrice: 67.49 EUR
 currency: EUR
 price: 67.49

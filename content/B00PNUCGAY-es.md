@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O9dX1IPBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PNUCGAY-es Gardena 18311-20 Pistola  Gris  Naranja  embalado'
+slug: 'B00PNUCGAY-es Gardena 18311-20 Pistola Gris Naranja embalado'
+tags: 
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

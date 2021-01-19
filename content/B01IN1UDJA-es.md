@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DTGviZReL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IN1UDJA-es Rinat Kit Hypernova Conjunto de Portero  Unisex Adulto  Morado/Neón/Fucsia  YS'
+slug: 'B01IN1UDJA-es Rinat Kit Hypernova Conjunto de Portero Unisex Adulto...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cDq4YmiZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DNSDBDS-es Suunto - Traverse Alpha - Reloj GPS Outdoor para pesca  caza y excursionismo - Sumergible - Negro Stealth - Talla única'
+slug: 'B01DNSDBDS-es Suunto - Traverse Alpha - Reloj GPS Outdoor para pesca...'
+tags: 
 actualPrice: 259.98 EUR
 currency: EUR
 price: 259.98

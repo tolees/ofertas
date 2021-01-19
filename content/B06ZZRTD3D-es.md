@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xswluIufL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZRTD3D-es Tommy Hilfiger M2285Axwell 11C1  Zapatillas para Hombre  Azul  Midnight   44 EU'
+slug: 'B06ZZRTD3D-es Tommy Hilfiger M2285Axwell 11C1 Zapatillas para Hombre...'
+tags: 
 actualPrice: 64.49 EUR
 currency: EUR
 price: 64.49

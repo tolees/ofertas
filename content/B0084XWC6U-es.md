@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IkiRLzjaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0084XWC6U-es Yamaha YWA-10 - Adaptador USB para red Wi-Fi  color negro'
+slug: 'B0084XWC6U-es Yamaha YWA-10 - Adaptador USB para red Wi-Fi color negro'
+tags: 
 actualPrice: 49.88 EUR
 currency: EUR
 price: 49.88

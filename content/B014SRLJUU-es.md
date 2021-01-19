@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r-nJO8LpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014SRLJUU-es Garmin Montana 680T - Navegador GPS  10.2 cm  4"   272 x 480 Píxeles  TFT  Vertical  65536 Colores'
+slug: 'B014SRLJUU-es Garmin Montana 680T - Navegador GPS 10.2 cm 4" 272 x 480...'
+tags: 
 actualPrice: 345.0 EUR
 currency: EUR
 price: 345.0

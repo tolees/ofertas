@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410xr3bGF0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L97TTQF-es Under Armour  UNDKU Rival Fleece FZ Parte Superior del Calentamiento  Hombre  Gris  XL'
+slug: 'B07L97TTQF-es Under Armour UNDKU Rival Fleece FZ Parte Superior del...'
+tags: 
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

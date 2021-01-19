@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317vyN4IDlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC1QTYX-es Puma Cali Nubuck  Zapatillas Deportivas para Mujer  Rosa  Peach Bud-Peach Bud   38 EU'
+slug: 'B07DC1QTYX-es Puma Cali Nubuck Zapatillas Deportivas para Mujer Rosa...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cwQ2zIQOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078KPWQVK-es Urban Classics Canvas Belts Cinturón  Negro  Talla Única Unisex Adulto'
+slug: 'B078KPWQVK-es Urban Classics Canvas Belts Cinturón Negro Talla Única...'
+tags: 
 actualPrice: 7.21 EUR
 currency: EUR
 price: 7.21

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nNVDdftDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0071T3MFI-es Bosch Professional GST 90 E - Sierra de calar  650 W  500 - 3100 cpm  profundidad de corte 90 mm  en maletín '
+slug: 'B0071T3MFI-es Bosch Professional GST 90 E - Sierra de calar 650 W 500 -...'
+tags: 
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

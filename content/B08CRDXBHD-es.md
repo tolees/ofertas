@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yqOdMkn-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRDXBHD-es Auriculares inalámbricos de diadema para TV  con estación de carga digital de 2 4 GHz para TV  Hi-Fi  DVD  emisor con puerto óptico y auxiliar'
+slug: 'B08CRDXBHD-es Auriculares inalámbricos de diadema para TV con estación...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

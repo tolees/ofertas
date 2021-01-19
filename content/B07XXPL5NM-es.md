@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tXPw6DQgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XXPL5NM-es BENYAR Cuarzo cronógrafo Impermeable Relojes Business Casual Deporte Banda Correa de Piel Reloj de Pulsera'
+slug: 'B07XXPL5NM-es BENYAR Cuarzo cronógrafo Impermeable Relojes Business...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

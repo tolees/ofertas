@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61sNLy8+CzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WD7QXDM-es Jojoin Bandejas de Viaje  Mesa Coche para Niños  Bandeja Plegable para Coche  Cochecito  Avión ect...   con 5 Papel de Dibujo Educativo  6 Plumas de Pintura'
+slug: 'B07WD7QXDM-es Jojoin Bandejas de Viaje Mesa Coche para Niños Bandeja...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

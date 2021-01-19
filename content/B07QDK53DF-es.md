@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rWigFYSFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDK53DF-es Test de embarazo 3 Pruebas - Prueba de Embarazo Resultado Rápido Formato Económico 20 mIU/ml'
+slug: 'B07QDK53DF-es Test de embarazo 3 Pruebas - Prueba de Embarazo Resultado...'
+tags: 
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

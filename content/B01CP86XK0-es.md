@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515tbkpTTDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CP86XK0-es Tirma PT042010 - Ambrosías con Relleno Cubiertas de Chocolate con Leche  1 x 35 Barritas'
+slug: 'B01CP86XK0-es Tirma PT042010 - Ambrosías con Relleno Cubiertas de...'
+tags: 
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

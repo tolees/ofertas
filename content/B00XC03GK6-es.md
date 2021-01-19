@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hG9n8SvyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XC03GK6-es Wetbrush Detangle Professional Cepillo para El Pelo  Color Negro'
+slug: 'B00XC03GK6-es Wetbrush Detangle Professional Cepillo para El Pelo Color...'
+tags: 
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

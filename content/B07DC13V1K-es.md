@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xUJjoAqbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC13V1K-es Puma RS-150 Satin Wn s  Zapatillas para Mujer  Rosa  Peach Bud-Peach Bud   36 EU'
+slug: 'B07DC13V1K-es Puma RS-150 Satin Wn s Zapatillas para Mujer Rosa Peach...'
+tags: 
 actualPrice: 26.53 EUR
 currency: EUR
 price: 26.53

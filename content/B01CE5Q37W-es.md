@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uiJLdbuUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CE5Q37W-es Fajiabao Ajedrez Magnetico Plegable con Tablero Ajedrez Plastico Juego de Ajedrez Portatil para Niños Infantil'
+slug: 'B01CE5Q37W-es Fajiabao Ajedrez Magnetico Plegable con Tablero Ajedrez...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

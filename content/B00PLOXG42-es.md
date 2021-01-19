@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31T6xJP%2Bf5L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PLOXG42-es Western Digtal - Disco Duro De 2Tb - Wd Elements  2.5 Pulgadas'
+slug: 'B00PLOXG42-es Western Digtal - Disco Duro De 2Tb - Wd Elements 2.5 Pulgadas'
+tags: 
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ijqNjcBTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XK81TPK-es Perixx PERIMICE-718 - Ratón  Izquierda  Diseño vertical  Óptico  RF Wireless  1600 DPI  Black  Rojo '
+slug: 'B06XK81TPK-es Perixx PERIMICE-718 - Ratón Izquierda Diseño vertical...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

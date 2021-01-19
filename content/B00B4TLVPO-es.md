@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B4TLVPO-es Essie Esmalte de Uñas 073 Cute As a Button'
+tags: 
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

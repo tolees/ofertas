@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U9Xzh+38L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000JUF98Y-es SEVERIN Raclette Partygrill con Piedra Natural y Plancha Reversible  1.500 W aprox.  Incl. 8 Mini-Sartenes  RG 2341'
+slug: 'B000JUF98Y-es SEVERIN Raclette Partygrill con Piedra Natural y Plancha...'
+tags: 
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

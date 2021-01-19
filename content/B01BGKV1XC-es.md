@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21IhPp6gIwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGKV1XC-es Pikolin Home - Almohada Fibra antiácaros  firmeza media-baja  40x70cm  altura 15cm  Todas las medidas '
+slug: 'B01BGKV1XC-es Pikolin Home - Almohada Fibra antiácaros firmeza media-...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

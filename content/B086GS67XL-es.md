@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415bJ62l0kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086GS67XL-es Oihxse Transparente Funda para Xiaomi Redmi 6A Ultrafina Silicona Suave TPU Carcasa Interesante Perro Patrón Flexible Protectora Estuche Antigolpes Anti-Choque  A4 '
+slug: 'B086GS67XL-es Oihxse Transparente Funda para Xiaomi Redmi 6A Ultrafina...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

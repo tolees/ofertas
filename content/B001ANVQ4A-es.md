@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GsI9SrCvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001ANVQ4A-es Maped M244304 - Juego de regla  escuadra  cartabón y transportador de ángulos'
+slug: 'B001ANVQ4A-es Maped M244304 - Juego de regla escuadra cartabón y...'
+tags: 
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jz26dYbqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BR4M1WV-es HUIJ Aspiradora  Aspiradoras de Mano para Piscinas  Aspiradora de Chorro de Piscina portátil para bañera de hidromasaje de Fuente de SPA de Piscina  para Hojas  Tierra y Arena y Limo  Azul '
+slug: 'B08BR4M1WV-es HUIJ Aspiradora Aspiradoras de Mano para Piscinas...'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

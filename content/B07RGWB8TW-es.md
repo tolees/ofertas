@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mxE7d5qFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGWB8TW-es DURAGADGET Cable De Audio Portátil Medion MD61338  HP Pavilion 14-bf013ns - con Conexión de 3.5mm Y Bañado En Oro'
+slug: 'B07RGWB8TW-es DURAGADGET Cable De Audio Portátil Medion MD61338 HP...'
+tags: 
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

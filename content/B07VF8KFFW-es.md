@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lx5-0m+IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VF8KFFW-es PremiumTech - HUB USB C HDMI 7 en 1 con Cable USB 3.1 y Cargador Inalambrico Wireless Integrado  Base Dock para Mac y portátiles Windows '
+slug: 'B07VF8KFFW-es PremiumTech - HUB USB C HDMI 7 en 1 con Cable USB 3.1 y...'
+tags: 
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

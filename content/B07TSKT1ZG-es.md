@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GYN9lnbSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSKT1ZG-es Kipling KiplingKiryasMujerMochilasRojo  Lively Red  32.5x44x12.5 Centimeters  B x H x T '
+slug: 'B07TSKT1ZG-es Kipling KiplingKiryasMujerMochilasRojo Lively Red...'
+tags: 
 actualPrice: 33.24 EUR
 currency: EUR
 price: 33.24

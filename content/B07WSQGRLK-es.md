@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rUjMAm9eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSQGRLK-es Nuevo Versión Transmisor FM Manos Libres Bluetooth Coche con 2 USB 5V 2.4A&QC 3.0 Carga Rápida Cargador Coche  7 Colores Reproductor MP3 Coche Soporte USB Flash Drive &Tarjeta TF 64G  SIRI/Google'
+slug: 'B07WSQGRLK-es Nuevo Versión Transmisor FM Manos Libres Bluetooth Coche...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

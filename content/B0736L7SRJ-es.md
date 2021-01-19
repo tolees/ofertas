@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MjPJBLhTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0736L7SRJ-es 3 en 1 Faja Postparto Reductora Mujer Recuperación después del Parto   Cinturón cómoda de vientre/cintura/pelvis para Mujer y Maternidad  talla única '
+slug: 'B0736L7SRJ-es 3 en 1 Faja Postparto Reductora Mujer Recuperación después...'
+tags: 
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

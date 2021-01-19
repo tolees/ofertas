@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417jVbSB-sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKHG8Y3-es Under Armour UA W Charged Escape 3  Zapatillas de Running para Mujer  Negro  Black/Black/Black  002  002   42 EU'
+slug: 'B07HKHG8Y3-es Under Armour UA W Charged Escape 3 Zapatillas de Running...'
+tags: 
 actualPrice: 22.05 EUR
 currency: EUR
 price: 22.05

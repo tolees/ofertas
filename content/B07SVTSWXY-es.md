@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61fj-7kGC-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVTSWXY-es Maneki Neko Feng Shui Colgante con gato Japonés Porcelana tradicional Lucky Charm Gift Rojo '
+slug: 'B07SVTSWXY-es Maneki Neko Feng Shui Colgante con gato Japonés Porcelana...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

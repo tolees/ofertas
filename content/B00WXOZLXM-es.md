@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b-zhxZoDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WXOZLXM-es Skechers Synergy-Winter Nights  Botas para Mujer  Negro  Black   38 EU'
+slug: 'B00WXOZLXM-es Skechers Synergy-Winter Nights Botas para Mujer Negro...'
+tags: 
 actualPrice: 30.38 EUR
 currency: EUR
 price: 30.38

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bMMhq0jxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0044SDDIK-es Seiko Reloj Analógico de Cuarzo para Hombre con Correa de Acero Inoxidable – SNE032P1'
+slug: 'B0044SDDIK-es Seiko Reloj Analógico de Cuarzo para Hombre con Correa de...'
+tags: 
 actualPrice: 115.57 EUR
 currency: EUR
 price: 115.57

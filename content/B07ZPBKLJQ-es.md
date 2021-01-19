@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b-W5laclL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPBKLJQ-es San Ignacio Set 5pc  16 20 24 28cm  sartenes + espátula  aluminio prensado Laredo  Morado'
+slug: 'B07ZPBKLJQ-es San Ignacio Set 5pc 16 20 24 28cm sartenes + espátula...'
+tags: 
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

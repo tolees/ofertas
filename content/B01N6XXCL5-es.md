@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gaubcqVOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6XXCL5-es Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina SGW-600H-1BER'
+slug: 'B01N6XXCL5-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 58.9 EUR
 currency: EUR
 price: 58.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MlHkxoCrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K5RA01M-es Tommy Hilfiger 3p Brief Calzoncillos  Blanco  Blanco 100   X-Large para Hombre'
+slug: 'B00K5RA01M-es Tommy Hilfiger 3p Brief Calzoncillos Blanco Blanco 100...'
+tags: 
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GYry3rY4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXQ731Q-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18631/1'
+slug: 'B07MXQ731Q-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 49.12 EUR
 currency: EUR
 price: 49.12

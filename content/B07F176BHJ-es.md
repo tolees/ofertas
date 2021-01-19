@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NvfXyecJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F176BHJ-es LEVIS FOOTWEAR AND ACCESSORIES Webb  Zapatillas para Hombre  Negro  Regular Black 59   43 EU'
+slug: 'B07F176BHJ-es LEVIS FOOTWEAR AND ACCESSORIES Webb Zapatillas para Hombre...'
+tags: 
 actualPrice: 43.71 EUR
 currency: EUR
 price: 43.71

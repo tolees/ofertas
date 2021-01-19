@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QvU09-FZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S84XLBY-es adidas Outline TRF tee T-Shirt  Hombre  White  L'
+slug: 'B07S84XLBY-es adidas Outline TRF tee T-Shirt Hombre White L'
+tags: 
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

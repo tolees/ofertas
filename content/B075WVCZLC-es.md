@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519tU60GJvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WVCZLC-es Vigilabebes con Camara  Bebé Monitor Inalambrico con 3 5" LCD Pantalla  Intercomunicador  Vision Nocturna  Monitoreo de Temperatura  Cancion de Cuna  Autoconecxion Rapido Sin Necesidad de Internet'
+slug: 'B075WVCZLC-es Vigilabebes con Camara Bebé Monitor Inalambrico con 3 5"...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

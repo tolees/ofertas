@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418tsB5QbYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVPGS85-es adidas Terrex Agravic Flow W  Zapatillas de Cross para Mujer  Gris  Ash Grey S18/Core Black/Glow Green Ash Grey S18/Core Black/Glow Green   36 EU'
+slug: 'B07SVPGS85-es adidas Terrex Agravic Flow W Zapatillas de Cross para...'
+tags: 
 actualPrice: 31.91 EUR
 currency: EUR
 price: 31.91

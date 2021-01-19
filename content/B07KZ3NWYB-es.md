@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LwT6fQHUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZ3NWYB-es FurReal Friends JJ  mein hopsender Mops'
+slug: 'B07KZ3NWYB-es FurReal Friends JJ mein hopsender Mops'
+tags: 
 actualPrice: 21.83 EUR
 currency: EUR
 price: 21.83

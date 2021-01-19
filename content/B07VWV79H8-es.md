@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nfT2AuWpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWV79H8-es FORMIZON Loom Bands  4400 Kit Completo  22 Colores  Kit de CREA de Brazaletes y Loom Juguetes  Juego Creativo para Niños  4400 '
+slug: 'B07VWV79H8-es FORMIZON Loom Bands 4400 Kit Completo 22 Colores Kit de...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

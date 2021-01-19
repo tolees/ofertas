@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61zlDGehZVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJFMVL-es Kipling Cindy  Cartera para Mujer  Multicolor  Navy Stick Print   11.5x8x1 centimeters  B x H x T '
+slug: 'B07PSJFMVL-es Kipling Cindy Cartera para Mujer Multicolor Navy Stick...'
+tags: 
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

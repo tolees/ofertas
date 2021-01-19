@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I3apEX8FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZLZWGKY-es NMDD Ornament Modernen Minimalistischen Mode Mädchen Band Harz Skulptur Handwerk Retro Wohnzimmer TV Schrank Büro Dekorationen Geschenk  Größe: 14 * 10 5 * 54 cm '
+slug: 'B07ZLZWGKY-es NMDD Ornament Modernen Minimalistischen Mode Mädchen Band...'
+tags: 
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

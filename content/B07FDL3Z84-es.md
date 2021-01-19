@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YBPNGbCSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDL3Z84-es Polaroid Snap Touch 2.0 - Cámara digital portátil instantánea de 13 Mp  Bluetooth  pantalla táctil LCD  tecnología Zink sin tinta y nueva aplicación  copias adhesivas de 5 x 7.6 cm  blanco'
+slug: 'B07FDL3Z84-es Polaroid Snap Touch 2.0 - Cámara digital portátil...'
+tags: 
 actualPrice: 134.09 EUR
 currency: EUR
 price: 134.09

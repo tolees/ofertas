@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Tdt2K7knL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZQ23YH-es Fossil Smartwatch Pantalla táctil para Hombre de Connected con Correa en Acero Inoxidable FTW4040'
+slug: 'B083ZQ23YH-es Fossil Smartwatch Pantalla táctil para Hombre de Connected...'
+tags: 
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZcBqqL41L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RR79J3Q-es Aozzy PVC Aislante Ajustable para Ventanas Correderas Aires Acondicionados Portátiles y Secadoras - Frena La Entrada de Aire Caliente - de Tamaño Máximo 55" x 6.4"-Universal - con Conector 13CM 5.12" '
+slug: 'B07RR79J3Q-es Aozzy PVC Aislante Ajustable para Ventanas Correderas...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

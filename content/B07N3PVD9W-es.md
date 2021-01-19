@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qh4JX7J3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3PVD9W-es Gliss - Mascarilla Ultimate Oil Elixir - 2 uds de 300ml - Schwarzkopf'
+slug: 'B07N3PVD9W-es Gliss - Mascarilla Ultimate Oil Elixir - 2 uds de 300ml -...'
+tags: 
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

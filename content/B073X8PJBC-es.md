@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bUQavLZSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073X8PJBC-es Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable 18561/3'
+slug: 'B073X8PJBC-es Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo...'
+tags: 
 actualPrice: 82.24 EUR
 currency: EUR
 price: 82.24

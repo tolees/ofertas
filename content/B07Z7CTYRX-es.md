@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t5BtXAMpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7CTYRX-es Alfombrilla de ratón para juegos RGB ampliada  extra grande para juegos  alfombrilla de ratón para jugador  resistente al agua  para oficina DEST con 10 modos de iluminación  para PC Ordenador RGB Teclado Ratón MacBook  800 x 400 x 4 mm  mapa de dibujos animados '
+slug: 'B07Z7CTYRX-es Alfombrilla de ratón para juegos RGB ampliada extra grande...'
+tags: 
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

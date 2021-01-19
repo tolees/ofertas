@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ahNRRQDFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HPXY114-es Olay Regenerist 3 Areas Sistema de Limpieza Facial Profesional'
+slug: 'B00HPXY114-es Olay Regenerist 3 Areas Sistema de Limpieza Facial...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

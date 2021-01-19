@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007ZPACD8-es Goloka Juego de Varillas de Incienso - 1 pack'
+tags: 
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

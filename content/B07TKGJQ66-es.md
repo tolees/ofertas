@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h4ET1cwRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKGJQ66-es BESTWAY 58424 - Cobertor Invierno para Piscina Desmontable 300x200 cm Ovalada'
+slug: 'B07TKGJQ66-es BESTWAY 58424 - Cobertor Invierno para Piscina Desmontable...'
+tags: 
 actualPrice: 16.02 EUR
 currency: EUR
 price: 16.02

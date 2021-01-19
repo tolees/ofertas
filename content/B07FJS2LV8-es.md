@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YRQFXsz6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJS2LV8-es Mars Gaming MRK0  teclado gaming  iluminación RGB  capacidad Anti-ghosting  PT'
+slug: 'B07FJS2LV8-es Mars Gaming MRK0 teclado gaming iluminación RGB capacidad...'
+tags: 
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

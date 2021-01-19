@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41raWg1OAwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWKTYQP-es SkinXmed Crema Glúteos y Muslos | Reafirmante + Remodeladora | Tonificante e Hidratante | PUSH-UP nalgas | ayuda piernas cansadas | piel firme sin ESTRÍAS | Kigelia Africana  lipopéptidos |100ml'
+slug: 'B07VWKTYQP-es SkinXmed Crema Glúteos y Muslos | Reafirmante +...'
+tags: 
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

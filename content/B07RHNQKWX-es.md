@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413fmGARJoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHNQKWX-es YWLINK Verano Mezcla De Algodon CóModo Sin Mangas De Color SóLido BotóN A Rayas Mameluco Mamelucos Lindo FáCil De Poner Y Quitar Negro 0-3 meses/60 '
+slug: 'B07RHNQKWX-es YWLINK Verano Mezcla De Algodon CóModo Sin Mangas De Color...'
+tags: 
 actualPrice: 3.07 EUR
 currency: EUR
 price: 3.07

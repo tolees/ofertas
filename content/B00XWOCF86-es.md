@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qM6QZ3GqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XWOCF86-es Nike Court Royale  Zapatillas Hombre  Blanco  White/White   44 EU'
+slug: 'B00XWOCF86-es Nike Court Royale Zapatillas Hombre Blanco White/White 44 EU'
+tags: 
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

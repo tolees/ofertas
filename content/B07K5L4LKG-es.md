@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41omdRfgdiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K5L4LKG-es Levi s 502 Regular Taper Jeans  Azul  Crocodile Adapt 0160   31W / 34L para Hombre'
+slug: 'B07K5L4LKG-es Levi s 502 Regular Taper Jeans Azul Crocodile Adapt 0160...'
+tags: 
 actualPrice: 60.95 EUR
 currency: EUR
 price: 60.95

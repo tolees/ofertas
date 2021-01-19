@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qpiSRFmJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B54L2ZQ-es Astan Hogar Confort Plus Sillón Relax con Reclinación Manual  Tela  Chocolate  Compacto'
+slug: 'B07B54L2ZQ-es Astan Hogar Confort Plus Sillón Relax con Reclinación...'
+tags: 
 actualPrice: 118.8 EUR
 currency: EUR
 price: 118.8

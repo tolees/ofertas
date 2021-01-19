@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Hu1b6htcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009S2IMDS-es Max Factor FaceFinity 3 en 1 All Day Flawless Base de Maquillaje Tono 075 Golden - 119 gr'
+slug: 'B009S2IMDS-es Max Factor FaceFinity 3 en 1 All Day Flawless Base de...'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

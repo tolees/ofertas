@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mjbhjPKVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQTW78Z-es Superdry Core Logo Tag Hood Capucha  Blanco  Optic 01c   L para Hombre'
+slug: 'B07TQTW78Z-es Superdry Core Logo Tag Hood Capucha Blanco Optic 01c L...'
+tags: 
 actualPrice: 30.58 EUR
 currency: EUR
 price: 30.58

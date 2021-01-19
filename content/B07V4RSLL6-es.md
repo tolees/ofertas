@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315yZynKKsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4RSLL6-es Tommy Hilfiger - Poppy Tote  Bolsos totes Mujer  Amarillo  Sunny   1x1x1 cm  W x H L '
+slug: 'B07V4RSLL6-es Tommy Hilfiger - Poppy Tote Bolsos totes Mujer Amarillo...'
+tags: 
 actualPrice: 45.49 EUR
 currency: EUR
 price: 45.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UASdrVmBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5PXGD4-es Merrell Bare Access Flex  Zapatillas Deportivas para Interior para Hombre  Naranja  Tropical Punch   46.5 EU'
+slug: 'B07D5PXGD4-es Merrell Bare Access Flex Zapatillas Deportivas para...'
+tags: 
 actualPrice: 34.79 EUR
 currency: EUR
 price: 34.79

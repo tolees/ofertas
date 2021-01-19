@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51s9l5jsIKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFJ3T5K-es EACLL Bombillas LED GU10 2700K Blanco Cálido 5W 450 Lúmenes Equivalente 50W Halógena. 36 ° Luz Blanca Cálida Lámpara Reflectoras Spotlight LED  6 Pack'
+slug: 'B07PFJ3T5K-es EACLL Bombillas LED GU10 2700K Blanco Cálido 5W 450...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

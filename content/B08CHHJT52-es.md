@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/615FgQyVkiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CHHJT52-es Joyjoz Tatuajes Temporales de Disfraz Halloween niña  niño  Mujer  Hombre  48 Piezas Maquillaje Pegatinas de Cara Sangre Falsa para Decoraciones de Carnaval Fiesta de Cosplay'
+slug: 'B08CHHJT52-es Joyjoz Tatuajes Temporales de Disfraz Halloween niña niño...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

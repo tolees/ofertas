@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HvMMmjzVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4XW2JJ-es New Balance 997h  Zapatillas para Hombre  Verde  Green/Gold Hez   40.5 EU'
+slug: 'B07S4XW2JJ-es New Balance 997h Zapatillas para Hombre Verde Green/Gold...'
+tags: 
 actualPrice: 56.12 EUR
 currency: EUR
 price: 56.12

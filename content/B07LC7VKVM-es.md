@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31so4HDZHnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LC7VKVM-es Moneta Stratomax  Juego de Sartenes 24 + 28 cm  Aluminio  Color Negro  para todo tipo de cocinas incluida inducción'
+slug: 'B07LC7VKVM-es Moneta Stratomax Juego de Sartenes 24 + 28 cm Aluminio...'
+tags: 
 actualPrice: 23.82 EUR
 currency: EUR
 price: 23.82

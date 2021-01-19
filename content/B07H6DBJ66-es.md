@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/5107m-tEFtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H6DBJ66-es Reloj para Hombre Impermeable Deportivo Reloj cronógrafo Top Marca Luxury LIGE Negocio Reloj Negro Caso Correa Reloj'
+slug: 'B07H6DBJ66-es Reloj para Hombre Impermeable Deportivo Reloj cronógrafo...'
+tags: 
 actualPrice: 24.28 EUR
 currency: EUR
 price: 24.28

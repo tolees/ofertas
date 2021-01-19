@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51y3oXk02LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCZQKP8-es SHAN ZU Cuchillo de Cocina de Damasco de 20cm AUS10 Cuchillo de Cocina de 67 Capas de Acero de Damasco Profesional Cuchillos Afilados de Alto Carbono Profesionales con manija G10 - GYO Series'
+slug: 'B07HCZQKP8-es SHAN ZU Cuchillo de Cocina de Damasco de 20cm AUS10...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

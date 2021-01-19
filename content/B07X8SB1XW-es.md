@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41injgfW2oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8SB1XW-es UCMDA Funda para Huawei Mate 30 Lite con Protector de Pantalla  Fundas Transparente Suave TPU Carcasa para Huawei Mate 30 Lite con Cristal Templado'
+slug: 'B07X8SB1XW-es UCMDA Funda para Huawei Mate 30 Lite con Protector de...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

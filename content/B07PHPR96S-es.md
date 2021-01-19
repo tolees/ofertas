@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KueMKD-jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHPR96S-es SweetLF Afeitadora Electrica Hombre Máquina de Afeitar Eléctrica IPX7 Impermeable Húmedo & Seco USB Quick Recargable con Pop-up Trimmer'
+slug: 'B07PHPR96S-es SweetLF Afeitadora Electrica Hombre Máquina de Afeitar...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

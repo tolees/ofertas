@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Yw0s189XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719RCW4P-es Beoplay E4 de Bang & Olufsen - Auriculares con cancelación de ruido activa avanzada'
+slug: 'B0719RCW4P-es Beoplay E4 de Bang & Olufsen - Auriculares con cancelación...'
+tags: 
 actualPrice: 139.45 EUR
 currency: EUR
 price: 139.45

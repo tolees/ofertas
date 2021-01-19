@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iVysi-G-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F98NJZN-es Trust Urban Ula - Cargador portátil con batería integrada de 8000 mAh  Color Plata'
+slug: 'B07F98NJZN-es Trust Urban Ula - Cargador portátil con batería integrada...'
+tags: 
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

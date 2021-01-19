@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s3nF6b5jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083R7JP2G-es Ganchos Adhesivos  Wodgreat 18 Piezas Toallero Perchero Pared de Cocina Baño  Autoadhesivo Perchero de Acero Inoxidable Gancho Autoadhesivo Perchero Paños  Colgar Prendas  Toallas del Baño Max 5KG'
+slug: 'B083R7JP2G-es Ganchos Adhesivos Wodgreat 18 Piezas Toallero Perchero...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

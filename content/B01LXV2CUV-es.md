@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516egnVH6gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXV2CUV-es Vernel Aromaterapia Secretos de Bienestar Suavizante Concentrado Aceite de Argán y Jazmín - 1311 ml'
+slug: 'B01LXV2CUV-es Vernel Aromaterapia Secretos de Bienestar Suavizante...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pR9E0oudL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001XSBLLK-es Reebok Classic Leather  Zapatillas de Running Niños  Negro  Black   36 EU'
+slug: 'B001XSBLLK-es Reebok Classic Leather Zapatillas de Running Niños Negro...'
+tags: 
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

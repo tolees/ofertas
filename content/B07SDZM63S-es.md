@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zs1LNte-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDZM63S-es PUMA Smash WNS V2 L  Zapatillas para Mujer  Blanco White/Rosewater  39 EU'
+slug: 'B07SDZM63S-es PUMA Smash WNS V2 L Zapatillas para Mujer Blanco...'
+tags: 
 actualPrice: 25.18 EUR
 currency: EUR
 price: 25.18

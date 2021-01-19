@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRENW1V-es Luengo - Garbanzo Blanco Lechoso En Paquetes De 1 Kg - [Pack de 2]'
+slug: 'B01MRENW1V-es Luengo - Garbanzo Blanco Lechoso En Paquetes De 1 Kg -...'
+tags: 
 actualPrice: 4.32 EUR
 currency: EUR
 price: 4.32

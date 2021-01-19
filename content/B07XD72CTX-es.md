@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Frx5TLyUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD72CTX-es Bedsure Bombilla Inteligente WiFi 2-Pack  - Bombilla RGB E27 10W  con Luz Frías/Cálidas 2700K-6500K - Led Regulable con 160 Millones de Colores'
+slug: 'B07XD72CTX-es Bedsure Bombilla Inteligente WiFi 2-Pack - Bombilla RGB...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dtstbZ3xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5HVKGY-es Gb Gold Pockit+ All-City 619000245 Silla de Paseo  6 meses hasta 17 kg  Approx. 4 Años   Beige  Vanilla 2019 Fashion Collection '
+slug: 'B07P5HVKGY-es Gb Gold Pockit+ All-City 619000245 Silla de Paseo 6 meses...'
+tags: 
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

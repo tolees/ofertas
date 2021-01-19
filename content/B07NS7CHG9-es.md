@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c7UkZRWKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NS7CHG9-es Marco Tozzi 2-2-25112-33  Botas Chukka para Mujer  Beige  Pepper Comb 301   39 EU'
+slug: 'B07NS7CHG9-es Marco Tozzi 2-2-25112-33 Botas Chukka para Mujer Beige...'
+tags: 
 actualPrice: 26.44 EUR
 currency: EUR
 price: 26.44

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416kcGk4vBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKFNPQ6-es Clarks Step Urban Mix  Zapatillas para Hombre  Verde Khaki  42.5 EU'
+slug: 'B07FKFNPQ6-es Clarks Step Urban Mix Zapatillas para Hombre Verde Khaki...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tTsmWTH2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPWBPPW-es Anoopsyche Hombrera Ajustable  Hombro Apoyo Transpirable de Neopreno  Dolor en el Hombro  Hombros Artríticos  Prevenir y Restaurar Lesiones Deportivas  para el Hombro Izquierdo/Derecho  Hombre/Mujer'
+slug: 'B07PPWBPPW-es Anoopsyche Hombrera Ajustable Hombro Apoyo Transpirable de...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

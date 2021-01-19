@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mIfxPoM6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2QLLFS-es New Balance 574  Zapatillas Clásicas para Mujer  Morado  Canyon Violet with White   35 EU'
+slug: 'B07S2QLLFS-es New Balance 574 Zapatillas Clásicas para Mujer Morado...'
+tags: 
 actualPrice: 32.84 EUR
 currency: EUR
 price: 32.84

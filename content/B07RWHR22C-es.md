@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41USr41vW3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWHR22C-es Hub USB 3.0  de 4 Puertos de Datos iAmotus Adaptador usb 3.0 con Tipo C Conector de Alta Velocidade de Transmisión Compatible con USB2.0 para Macbook Windows 10/8 /7 XP Linux - Negro'
+slug: 'B07RWHR22C-es Hub USB 3.0 de 4 Puertos de Datos iAmotus Adaptador usb...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FsI9wgBEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2YDDSP-es Ergocar Creativo Lindo Dibujos Animados Organizador del Asiento de Coche con Bolsas de Aislamiento para Niños Impermeable del Coche Almacenamiento Plegable Kick Mat  Familia Rosa - 1 Pack '
+slug: 'B07K2YDDSP-es Ergocar Creativo Lindo Dibujos Animados Organizador del...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

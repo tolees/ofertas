@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410FZYGAjjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K21LFN7-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable CLG015'
+slug: 'B07K21LFN7-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

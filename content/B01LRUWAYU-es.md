@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X6G6UCP6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LRUWAYU-es Hauck Shopper Neo II - Silla de paseo con respaldo reclinable  de 0 meses a 25 kg  plegado fácil y compacto  plegable con una mano  ligera  con botellero  negro azul'
+slug: 'B01LRUWAYU-es Hauck Shopper Neo II - Silla de paseo con respaldo...'
+tags: 
 actualPrice: 51.92 EUR
 currency: EUR
 price: 51.92

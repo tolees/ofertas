@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nZRBVNOPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078NBZYNV-es Catherine Lansfield - Juego de Funda de edredón de fácil Cuidado  diseño de Mariposas  poliéster y algodón  Color Azulado  Azul Pastel  Set edredón Doble'
+slug: 'B078NBZYNV-es Catherine Lansfield - Juego de Funda de edredón de fácil...'
+tags: 
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78

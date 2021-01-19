@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417pKXcvTSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075YTHQWB-es 4UMOR Báscula Digital para Maleta Viaje de Mano de Ergonómica LCD para Equipaje 50KG de Precisión con Función de Tara'
+slug: 'B075YTHQWB-es 4UMOR Báscula Digital para Maleta Viaje de Mano de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

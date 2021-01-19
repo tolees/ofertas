@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s0g1bk2lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNSQ66M-es AGPTEK Reproductor Mp3 Bluetooth 8GB  HD Pantalla 2.4   a Colores con Botones Táctiles  Mp3 Player de Metalico con Radio FM Grabador de Voz  Ampliable hasta 128GB  Color Negro C2'
+slug: 'B07FNSQ66M-es AGPTEK Reproductor Mp3 Bluetooth 8GB HD Pantalla 2.4 a...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

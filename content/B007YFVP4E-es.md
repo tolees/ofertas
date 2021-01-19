@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FNnrQ29hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007YFVP4E-es Faro Barcelona 70754 - AGRA Baliza  bombilla incluida  LED  6W  aluminio inyectado y cristal transparente'
+slug: 'B007YFVP4E-es Faro Barcelona 70754 - AGRA Baliza bombilla incluida LED...'
+tags: 
 actualPrice: 105.76 EUR
 currency: EUR
 price: 105.76

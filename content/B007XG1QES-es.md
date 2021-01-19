@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007XG1QES-es Ducha Solar Bestway Solar-Pro Shower'
+tags: 
 actualPrice: 10.68 EUR
 currency: EUR
 price: 10.68

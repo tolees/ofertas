@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-2wFWM7jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BFSZRSP-es Ellaao 50 Piezas 3 Capas  Azul  Protege La Boca Y La Boca  Evita El Contacto De Polvo Y La TransmisióN  Limpia/Exterior/Para NiñAs Mujer  Ninguna Caja '
+slug: 'B08BFSZRSP-es Ellaao 50 Piezas 3 Capas Azul Protege La Boca Y La Boca...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

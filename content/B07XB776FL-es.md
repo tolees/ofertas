@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413aLCP15gL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XB776FL-es QHOHQ Funda para Xiaomi Redmi Note 8 Pro  Cases Silicona Thin Slim TPU Cuatro Esquinas Anti-caída para Xiaomi Redmi Note 8 Pro  Transparente '
+slug: 'B07XB776FL-es QHOHQ Funda para Xiaomi Redmi Note 8 Pro Cases Silicona...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

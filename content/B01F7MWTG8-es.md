@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31z-d8ky7cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F7MWTG8-es Luxana Phyto Nature Tónico Azul Cabellos Grises y Blancos Tratamiento Capilar - 500 ml'
+slug: 'B01F7MWTG8-es Luxana Phyto Nature Tónico Azul Cabellos Grises y Blancos...'
+tags: 
 actualPrice: 8.65 EUR
 currency: EUR
 price: 8.65

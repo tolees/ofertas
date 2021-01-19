@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513CFdjSHaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWM8W51-es Under Armour Men s Train Spacer Mesh Gorra  Hombre  Gris  M/L'
+slug: 'B07QWM8W51-es Under Armour Men s Train Spacer Mesh Gorra Hombre Gris M/L'
+tags: 
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

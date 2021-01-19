@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GJ5c6G+XL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O1XD98W-es WIDMANN 23945 Hinchable Rock Guitarra  One Size'
+slug: 'B00O1XD98W-es WIDMANN 23945 Hinchable Rock Guitarra One Size'
+tags: 
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

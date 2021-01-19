@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cHo0sUreL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYBB2VR-es AUKEY Hub USB C 3 Porte USB 3.0 e Lettori di Scheda SD & Micro SD Adattatore USB C per MacBook Pro 2017/2016  Google Chromebook Pixel  DELL XPS 13  ASUS ZenBook e Altri dispositivi USB C'
+slug: 'B06XYBB2VR-es AUKEY Hub USB C 3 Porte USB 3.0 e Lettori di Scheda SD &...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

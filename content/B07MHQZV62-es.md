@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHQZV62-es JBL 104 One Series Monitores de Referencia Pareja'
+tags: 
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

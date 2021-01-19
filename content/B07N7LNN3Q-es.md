@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VPjwS9BNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N7LNN3Q-es Calvin Klein Reloj Analógico-Digital para Unisex Adultos de Cuarzo con Correa en Cuero K7B231CY'
+slug: 'B07N7LNN3Q-es Calvin Klein Reloj Analógico-Digital para Unisex Adultos...'
+tags: 
 actualPrice: 69.14 EUR
 currency: EUR
 price: 69.14

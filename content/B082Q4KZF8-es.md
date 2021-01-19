@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fseW8zz4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082Q4KZF8-es HUAWEI FreeBuds 3 - Auriculares inalámbricos con cancelación de Ruido Activa  Chip Kirin A1  Baja latencia  conexión Bluetooth ultrarrápida  Altavoz de 14.2 mm  Carga inalámbrica   Color Rojo'
+slug: 'B082Q4KZF8-es HUAWEI FreeBuds 3 - Auriculares inalámbricos con...'
+tags: 
 actualPrice: 103.2 EUR
 currency: EUR
 price: 103.2

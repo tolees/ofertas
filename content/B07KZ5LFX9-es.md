@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IaEelKrNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZ5LFX9-es PBN - Proteína de suero de leche en polvo  2.27 kg  sabor vainilla '
+slug: 'B07KZ5LFX9-es PBN - Proteína de suero de leche en polvo 2.27 kg sabor...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

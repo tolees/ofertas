@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o1-8GGOFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJZ6Y21-es LuckyGirls ❤️• •❤️ Men s Solid Casual Anti-Slip SpOrot Walking Sneakers Loafers Soft Shoes'
+slug: 'B07QJZ6Y21-es LuckyGirls ❤️• •❤️ Men s Solid Casual Anti-Slip SpOrot...'
+tags: 
 actualPrice: 4.06 EUR
 currency: EUR
 price: 4.06

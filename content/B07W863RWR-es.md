@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ao9yPWqaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W863RWR-es BaByliss ST397E Planchas de pelo profesionales  placas extra anchas para alisar más rápido  peine extraíble para un alisado más pulido. 6 temperaturas de 140ºC a 235ºC  tecnología Advanced Ceramic'
+slug: 'B07W863RWR-es BaByliss ST397E Planchas de pelo profesionales placas...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

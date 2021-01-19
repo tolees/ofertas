@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ELv85ipQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H7RSGJB-es Pioneer MVH-S110UB Autoradio  Negro'
+slug: 'B07H7RSGJB-es Pioneer MVH-S110UB Autoradio Negro'
+tags: 
 actualPrice: 45.39 EUR
 currency: EUR
 price: 45.39

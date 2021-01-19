@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F8oav4RIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9KGMBF-es Odlo Sports Bra Blackcomb Seamless Medium Sujetador  Mujer  Chrysanthemum  M'
+slug: 'B07K9KGMBF-es Odlo Sports Bra Blackcomb Seamless Medium Sujetador Mujer...'
+tags: 
 actualPrice: 6.36 EUR
 currency: EUR
 price: 6.36

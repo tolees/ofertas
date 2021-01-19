@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41arlmFPN-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00772CHAA-es Now Foods Eve Múltiples Vitaminas Para Mujeres 90 Unidades 230 g'
+slug: 'B00772CHAA-es Now Foods Eve Múltiples Vitaminas Para Mujeres 90 Unidades...'
+tags: 
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

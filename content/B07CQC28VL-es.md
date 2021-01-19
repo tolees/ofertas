@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41N9ZCWa8-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQC28VL-es Bosch Unlimited Serie 8 BCS1TOPNC - Aspirador escoba sin cable  hasta 60 minutos de duración  incluye 2 Baterías Extraíbles  Power for ALL   18 V  Color Grafito'
+slug: 'B07CQC28VL-es Bosch Unlimited Serie 8 BCS1TOPNC - Aspirador escoba sin...'
+tags: 
 actualPrice: 288.41 EUR
 currency: EUR
 price: 288.41

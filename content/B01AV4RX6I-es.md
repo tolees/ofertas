@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AV4RX6I-es Hugo Boss - Reloj para hombre - 1513327'
+tags: 
 actualPrice: 150.12 EUR
 currency: EUR
 price: 150.12

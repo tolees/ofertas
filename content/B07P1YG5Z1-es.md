@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OZ5ypfnGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P1YG5Z1-es Himylife HQKJ 160 Bar 2300 PSI 10 Metros Manguera de Limpieza de Tuberías para Limpiadores Comunes Incluir Adaptador para Kärcher'
+slug: 'B07P1YG5Z1-es Himylife HQKJ 160 Bar 2300 PSI 10 Metros Manguera de...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

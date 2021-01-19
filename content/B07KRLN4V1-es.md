@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EeRyhPILL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRLN4V1-es New Balance 373  Zapatillas para Mujer  Verde  Green Green   35 EU'
+slug: 'B07KRLN4V1-es New Balance 373 Zapatillas para Mujer Verde Green Green 35 EU'
+tags: 
 actualPrice: 40.97 EUR
 currency: EUR
 price: 40.97

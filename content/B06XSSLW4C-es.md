@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21rxFTxcrBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XSSLW4C-es Neutrogena Visibly Renew Loción Corporal Elasticidad Intensa - 750 ml.'
+slug: 'B06XSSLW4C-es Neutrogena Visibly Renew Loción Corporal Elasticidad...'
+tags: 
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

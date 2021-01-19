@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31J8l4-UoSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MDJ7Z36-es Tesa Assa Abloy  1930908NV  Barra Antipánico Universal 1930 con dos puntos de cierre  Picaportes de Acero Basculante  Negro y Verde'
+slug: 'B00MDJ7Z36-es Tesa Assa Abloy 1930908NV Barra Antipánico Universal 1930...'
+tags: 
 actualPrice: 98.81 EUR
 currency: EUR
 price: 98.81

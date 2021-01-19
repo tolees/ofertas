@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4180X4IxbnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3M3XG4-es Superdry Hombre Storm Hybrid Jacket  Negro  X-Large'
+slug: 'B07F3M3XG4-es Superdry Hombre Storm Hybrid Jacket Negro X-Large'
+tags: 
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

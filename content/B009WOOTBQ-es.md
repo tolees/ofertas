@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Stl4Ztc1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009WOOTBQ-es Máscara de Pestañas Volumen Millón de Pestañas Volume Excess Noir de L Oréal Paris'
+slug: 'B009WOOTBQ-es Máscara de Pestañas Volumen Millón de Pestañas Volume...'
+tags: 
 actualPrice: 5.26 EUR
 currency: EUR
 price: 5.26

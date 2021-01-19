@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZZe-kaNTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTVBYNZ-es Yazubi Pantalon Chino Hombre Slim fit Verano - Simon Skinny Marino Cielo Agua Cyan Celeste  Azul  Brunnera Blue 163922   W29/L34'
+slug: 'B06XTVBYNZ-es Yazubi Pantalon Chino Hombre Slim fit Verano - Simon...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

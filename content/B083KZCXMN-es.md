@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jg3DOgCcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083KZCXMN-es Riñonera Pepe Jeans Sail Pequeña  Negro'
+slug: 'B083KZCXMN-es Riñonera Pepe Jeans Sail Pequeña Negro'
+tags: 
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

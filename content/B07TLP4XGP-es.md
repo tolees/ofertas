@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wUJ2FGFTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLP4XGP-es Clarks Un Rio Lace  Zapatillas para Mujer  Azul  Dark Blush Combi Dark Blush Combi   39.5 EU'
+slug: 'B07TLP4XGP-es Clarks Un Rio Lace Zapatillas para Mujer Azul Dark Blush...'
+tags: 
 actualPrice: 49.62 EUR
 currency: EUR
 price: 49.62

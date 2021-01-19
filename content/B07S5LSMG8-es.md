@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41viYARlYtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5LSMG8-es New Balance 574v2  Zapatillas para Mujer  Azul  Navy Soc   36 EU'
+slug: 'B07S5LSMG8-es New Balance 574v2 Zapatillas para Mujer Azul Navy Soc 36 EU'
+tags: 
 actualPrice: 59.71 EUR
 currency: EUR
 price: 59.71

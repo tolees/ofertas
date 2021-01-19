@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mYDn2pvLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9Y7JYQ-es WILDKEN Pantalones Cortos de Protección para Niños Infantil Hip Equipo Acolchados de Protección para Cadera para Esquiar Skate Ski Snowboard  Rosa  L '
+slug: 'B07X9Y7JYQ-es WILDKEN Pantalones Cortos de Protección para Niños...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

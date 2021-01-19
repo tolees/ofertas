@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IRnd-+TrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2RH59N-es Gigabyte GeForce GV-N208-TAORUSX W-11GC - Tarjeta gráfica  3X DisplayPort/3x HDMI/USB-C'
+slug: 'B07L2RH59N-es Gigabyte GeForce GV-N208-TAORUSX W-11GC - Tarjeta gráfica...'
+tags: 
 actualPrice: 600.0 EUR
 currency: EUR
 price: 600.0

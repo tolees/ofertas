@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JTCIYgmyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHS88Y9-es Depiladora Eléctrica  Afeitadora Electrica  Eléctrica Máquina de Afeitar  Depiladora Facial Mujer 5 en 1 USB Recargable  Depilador Sin Dolor Maquinilla Afeitador para Cejas Nariz Pierna'
+slug: 'B07RHS88Y9-es Depiladora Eléctrica Afeitadora Electrica Eléctrica...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gM8gcnyRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FRDA27Q-es Microsoft – Bluetooth Mobile Mouse 3600  Inalámbrico  Azul'
+slug: 'B00FRDA27Q-es Microsoft – Bluetooth Mobile Mouse 3600 Inalámbrico Azul'
+tags: 
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CyZ6cEezL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X6M4BRN-es LIGE Reloj Hombres Negocio Clásico Impermeable Deportes Analógico Cuarzo Relojes Cronógrafo Reloj de Pulsera de Acero Inoxidable'
+slug: 'B07X6M4BRN-es LIGE Reloj Hombres Negocio Clásico Impermeable Deportes...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

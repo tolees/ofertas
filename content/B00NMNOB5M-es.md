@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SveviKmUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NMNOB5M-es ORICO Tarjeta de expansión PCI-E de 4 puertos USB 3.0 Superspeed 5Gbps para PC de Windows - NO hay necesidad de conector de alimentación SATA / Molex'
+slug: 'B00NMNOB5M-es ORICO Tarjeta de expansión PCI-E de 4 puertos USB 3.0...'
+tags: 
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

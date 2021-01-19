@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41juq2jUhrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003TCSYJU-es Chupa Chups Original  Caramelo con Palo de Sabores Variados  Mega Chups de 10 unidades de 12 gr.  Total 120 gr. '
+slug: 'B003TCSYJU-es Chupa Chups Original Caramelo con Palo de Sabores Variados...'
+tags: 
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

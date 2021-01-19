@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pXy9tzbYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCX3CB3-es Decdeal Grifos de Cocina/Baño Extraíbles con 3 Modos de Rociado Grifo Giratorio de 360 ° con Arco Alto de una Sola Manija Mezclador de Agua Fría y Caliente Grifo de Agua  Black '
+slug: 'B07ZCX3CB3-es Decdeal Grifos de Cocina/Baño Extraíbles con 3 Modos de...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

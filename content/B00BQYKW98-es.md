@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-I5x9lKSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BQYKW98-es 3 x 10 original Bosch Siemens Neff Gaggenau pastillas de limpieza'
+slug: 'B00BQYKW98-es 3 x 10 original Bosch Siemens Neff Gaggenau pastillas de...'
+tags: 
 actualPrice: 16.35 EUR
 currency: EUR
 price: 16.35

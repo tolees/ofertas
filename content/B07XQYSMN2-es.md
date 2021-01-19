@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YeqhmXqHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQYSMN2-es Espirógrafo multifuncional Gobernante geométrico Niños estudiantes que aprenden a dibujar Dibujo Papelería Útiles de oficina - Amarillo'
+slug: 'B07XQYSMN2-es Espirógrafo multifuncional Gobernante geométrico Niños...'
+tags: 
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

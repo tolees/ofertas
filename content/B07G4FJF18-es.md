@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rSw1jS+aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4FJF18-es Hugo Boss Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 1513653'
+slug: 'B07G4FJF18-es Hugo Boss Reloj Cronógrafo para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 195.14 EUR
 currency: EUR
 price: 195.14

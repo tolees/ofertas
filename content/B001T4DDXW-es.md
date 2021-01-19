@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pR9E0oudL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001T4DDXW-es Reebok Classic Leather  Zapatillas de Trail Running para Niños  Negro  Black 0   27 EU'
+slug: 'B001T4DDXW-es Reebok Classic Leather Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

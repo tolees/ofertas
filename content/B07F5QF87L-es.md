@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31M4U7YT9TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F5QF87L-es Baoblaze Thickkened Gel Shoe Volver Insertos Del Talón Plantillas Almohadillas Delineador De Manos Cuidado De Los Pies'
+slug: 'B07F5QF87L-es Baoblaze Thickkened Gel Shoe Volver Insertos Del Talón...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

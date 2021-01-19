@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U81tPHLRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L745TFH-es Duttek 5 pies / 1 5 m Hembra del USB 2.0 a 3 RCA Video Masculino A/V Adaptador práctico videocámara Grande para el Equipo de AV'
+slug: 'B07L745TFH-es Duttek 5 pies / 1 5 m Hembra del USB 2.0 a 3 RCA Video...'
+tags: 
 actualPrice: 2.32 EUR
 currency: EUR
 price: 2.32

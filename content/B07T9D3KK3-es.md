@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MTkdY2bJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9D3KK3-es Aspiradora de Coche  VOONEEN 7KPa Aspiradora para Automóvil Portátil de Gran Alcance  Aspiradora Inalámbrica Seca y Húmeda Recargable Succión Fuerte para el Hogar / Automóvil'
+slug: 'B07T9D3KK3-es Aspiradora de Coche VOONEEN 7KPa Aspiradora para Automóvil...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

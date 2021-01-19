@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lXr9Jo44L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FQTLZ5-es Festina Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable F16864/5'
+slug: 'B074FQTLZ5-es Festina Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

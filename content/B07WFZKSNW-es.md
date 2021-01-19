@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BUhefPAFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFZKSNW-es SPTwj - Mecha para desoldar  3 mm de ancho  1 5 m de largo  sin desoldar  de cobre  con 2 esponjas de soldadura para trabajos de soldadura y desoldadura'
+slug: 'B07WFZKSNW-es SPTwj - Mecha para desoldar 3 mm de ancho 1 5 m de largo...'
+tags: 
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

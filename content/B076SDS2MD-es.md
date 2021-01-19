@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41r%2Bkuj58JL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B076SDS2MD-es Bose SoundSport Free - Auriculares intraurales inalámbricos  Naranja  Bright Orange/Azul Marino '
+slug: 'B076SDS2MD-es Bose SoundSport Free - Auriculares intraurales...'
+tags: 
 actualPrice: 131.4 EUR
 currency: EUR
 price: 131.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DYa7b55cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0744LZKCT-es ARDITEX FP10016 Bolsa Mamá multifuncional de 39x14x30.5cm de MATTEL-Fisher-Price'
+slug: 'B0744LZKCT-es ARDITEX FP10016 Bolsa Mamá multifuncional de 39x14x30.5cm...'
+tags: 
 actualPrice: 36.05 EUR
 currency: EUR
 price: 36.05

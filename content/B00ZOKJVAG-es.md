@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411Bjd-ZcJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZOKJVAG-es Parasol Kinder Fluff  4 x  - El único parasol certificado de bloquear el 99 79% de los rayos UVA y el 99 95% UVB. Para parabrisas de coche  camión  furgoneta  SUV'
+slug: 'B00ZOKJVAG-es Parasol Kinder Fluff 4 x - El único parasol certificado de...'
+tags: 
 actualPrice: 15.8 EUR
 currency: EUR
 price: 15.8

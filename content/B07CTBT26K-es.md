@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sfopkOaGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTBT26K-es Sierra de Calar  TECCPO 800W 3000SPM  Corte45°  6 Velocidades  4 Posiciones Orbitales  Maletín  Sierra de Calar Potente  Luz Láser  Adecuada para Cortar Madera y Metal -TAJS01P'
+slug: 'B07CTBT26K-es Sierra de Calar TECCPO 800W 3000SPM Corte45° 6 Velocidades...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SONWyTQ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4WWV5R-es New Balance 997H m  Zapatillas para Mujer  Gris  Grey/Blue HAP   36.5 EU'
+slug: 'B07S4WWV5R-es New Balance 997H m Zapatillas para Mujer Gris Grey/Blue...'
+tags: 
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

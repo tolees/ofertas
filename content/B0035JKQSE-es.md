@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jMPG831xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0035JKQSE-es VAUDE Bike Essential Kits Primeros Auxilios  Unisex Adulto  Red/White  Talla Única'
+slug: 'B0035JKQSE-es VAUDE Bike Essential Kits Primeros Auxilios Unisex Adulto...'
+tags: 
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

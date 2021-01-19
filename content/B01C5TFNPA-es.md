@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JsEkKcvLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C5TFNPA-es Playskool Sesame Street Collector Pack 5 Figures by Sesame Street'
+slug: 'B01C5TFNPA-es Playskool Sesame Street Collector Pack 5 Figures by Sesame...'
+tags: 
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

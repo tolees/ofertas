@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+-QG11kjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0885WGJJV-es Vaporizador de Tela portátil Fast-Heat 1200W Potente vaporizador de Ropa Vaporizador portátil para Viajar en casa Plancha de Vapor portátil - Multicolor'
+slug: 'B0885WGJJV-es Vaporizador de Tela portátil Fast-Heat 1200W Potente...'
+tags: 
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

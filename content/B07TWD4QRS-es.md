@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IrNt0gzCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWD4QRS-es loud + proud Striped Shorts Organic Cotton Pantalones Cortos  Verde  Mint Min   62/68 para Bebés'
+slug: 'B07TWD4QRS-es loud + proud Striped Shorts Organic Cotton Pantalones...'
+tags: 
 actualPrice: 9.27 EUR
 currency: EUR
 price: 9.27

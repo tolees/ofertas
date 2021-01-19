@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RbJG7yl5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXLHK7T-es Funko- Pop Animation: Speed Racer X Collectible Toy  Multicolor  45100 '
+slug: 'B07TXLHK7T-es Funko- Pop Animation: Speed Racer X Collectible Toy...'
+tags: 
 actualPrice: 6.54 EUR
 currency: EUR
 price: 6.54

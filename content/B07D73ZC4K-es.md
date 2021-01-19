@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nSweieheL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D73ZC4K-es adidas Gazelle  Zapatillas para Hombre  Rojo  Collegiate Burgundy/Footwear White/Footwear White 0   46 2/3 EU'
+slug: 'B07D73ZC4K-es adidas Gazelle Zapatillas para Hombre Rojo Collegiate...'
+tags: 
 actualPrice: 59.58 EUR
 currency: EUR
 price: 59.58

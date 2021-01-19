@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gnzlCj6ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085R1DJW2-es Finocam - Agenda Curso 2020-2021 E3  79 x 127 Semana Vista Apaisada Espir Label  Azul Cobalto  Español'
+slug: 'B085R1DJW2-es Finocam - Agenda Curso 2020-2021 E3 79 x 127 Semana Vista...'
+tags: 
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

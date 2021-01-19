@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Y18f9ThSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D57TM2R-es COMVIP Mujer    metal común'
+slug: 'B07D57TM2R-es COMVIP Mujer metal común'
+tags: 
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

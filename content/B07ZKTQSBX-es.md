@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JDUEq8RuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKTQSBX-es Lixada Cuerda de Saltar Ajustable—Manijas de Espuma Suave Fitness sin Enredos  Adecuadas para Entrenamiento Deportivo de Resistencia a la Velocidad'
+slug: 'B07ZKTQSBX-es Lixada Cuerda de Saltar Ajustable—Manijas de Espuma Suave...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

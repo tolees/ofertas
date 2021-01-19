@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DitNZwexL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZ3R4S4-es Powcan Ratón Gaming con Cable Profesional USB 16400 DPI con 5 Colores Ajustable RGB y 10 Botón Compatible con Windows 7  8  10  XP  Vista  ME  2000 y Mac OS'
+slug: 'B07XZ3R4S4-es Powcan Ratón Gaming con Cable Profesional USB 16400 DPI...'
+tags: 
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aVwcaoRgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXND6YY-es Under Armour Elevated Golf Visera  Mujer  Blanco  OSFA'
+slug: 'B07YXND6YY-es Under Armour Elevated Golf Visera Mujer Blanco OSFA'
+tags: 
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qgqQDdSTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797VVVQM-es MODAUTO Asiento Deportivo Coche  Semibaquet Ajustable  de Tela  con Ríeles incluidos  Conductor y Pasajero  Universal para Coche y Simulador de Conducción  Modelo N190L  Negro y Cosutra Roja U'
+slug: 'B0797VVVQM-es MODAUTO Asiento Deportivo Coche Semibaquet Ajustable de...'
+tags: 
 actualPrice: 140.0 EUR
 currency: EUR
 price: 140.0

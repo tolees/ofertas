@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Tfjrw3nML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THYPNC9-es ASRock X570 Phantom Gaming X AM4 ATX Mainboard M.2/HDMI/USB3.2 Gen2 /WLAN/BT'
+slug: 'B07THYPNC9-es ASRock X570 Phantom Gaming X AM4 ATX Mainboard...'
+tags: 
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

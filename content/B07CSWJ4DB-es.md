@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iwg5S4LsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CSWJ4DB-es Cecotec Ventilador de Pie ForceSilence 500. 5 Aspas  Oscilante  3 Velocidades  Ajustable 115-135cm   Motor de Cobre  40W'
+slug: 'B07CSWJ4DB-es Cecotec Ventilador de Pie ForceSilence 500. 5 Aspas...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

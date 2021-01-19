@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513GVeBy5zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083Q5ZMPP-es Gillette SkinGuard Sensitive Maquinillas Para Hombre  8 Recambios'
+slug: 'B083Q5ZMPP-es Gillette SkinGuard Sensitive Maquinillas Para Hombre 8...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

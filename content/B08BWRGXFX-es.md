@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510gl+xmWRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BWRGXFX-es LXHGrowH Funda para Huawei P40 Lite E - Carcasa Completa Anti-Shock [360°] Full Body Protección [Silicona TPU Frente] y [Duro PC Back] para Huawei P40 Lite E - Cover Doble [Transparente]'
+slug: 'B08BWRGXFX-es LXHGrowH Funda para Huawei P40 Lite E - Carcasa Completa...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4133zVHJHRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBT67WW-es Pulsar Reloj analogico para Hombre de Cuarzo con Correa en Acero Inoxidable PG8283X1'
+slug: 'B07GBT67WW-es Pulsar Reloj analogico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 68.41 EUR
 currency: EUR
 price: 68.41

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31F5yQo9WHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008E8SIZY-es Lacoste L1230  Polo de Manga Corta para Hombre  Blanco  Blanc   3XL  Talla del fabricante: 8 '
+slug: 'B008E8SIZY-es Lacoste L1230 Polo de Manga Corta para Hombre Blanco Blanc...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

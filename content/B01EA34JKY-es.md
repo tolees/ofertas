@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SiToRdqVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EA34JKY-es American Tourister WaveBreaker Spinner 55/20 - Equipaje de Mano  36 Litros  Color Rosa  Hot Lips Pink '
+slug: 'B01EA34JKY-es American Tourister WaveBreaker Spinner 55/20 - Equipaje de...'
+tags: 
 actualPrice: 66.78 EUR
 currency: EUR
 price: 66.78

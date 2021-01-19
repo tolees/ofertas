@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Rh5dcaw2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081V9XVZF-es Disfraz Familiar Carnaval Trajes Super Mario Luigi para Niños Adultos Disfraces Fiesta de Carnaval de Halloween Cosplay Sombrero + Ropa + Barba 3 Piezas'
+slug: 'B081V9XVZF-es Disfraz Familiar Carnaval Trajes Super Mario Luigi para...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

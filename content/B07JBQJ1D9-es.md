@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Czg9goFbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBQJ1D9-es AMD Ryzen Threadripper 2970WX - Procesador  24 cores/48 Threads  4.2 GHz Boost  64 MB L3 Cache  DDR4 2933 MHz '
+slug: 'B07JBQJ1D9-es AMD Ryzen Threadripper 2970WX - Procesador 24 cores/48...'
+tags: 
 actualPrice: 936.45 EUR
 currency: EUR
 price: 936.45

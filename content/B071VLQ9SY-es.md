@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DwRe3QD5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VLQ9SY-es Bourjois Velvet Barra de Labios Líquida Tono 21 Saperliprunette ! - 28 gr.'
+slug: 'B071VLQ9SY-es Bourjois Velvet Barra de Labios Líquida Tono 21...'
+tags: 
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65

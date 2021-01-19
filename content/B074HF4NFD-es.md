@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nt-Q3jkJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074HF4NFD-es G-STAR RAW Rovulc Denim Low Sneakers  Zapatillas para Hombre  Azul  Blue  Dk Navy 881   41 EU'
+slug: 'B074HF4NFD-es G-STAR RAW Rovulc Denim Low Sneakers Zapatillas para...'
+tags: 
 actualPrice: 24.77 EUR
 currency: EUR
 price: 24.77

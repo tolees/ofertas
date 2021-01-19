@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WXGBHUFsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0030BQ4LU-es Calvin Klein Hombre - Pack de 3 bóxers de tiro medio - Cotton Stretch  Multicolor  I03 White/Red Ginger/Pyro Blue   L   Pack de 3 '
+slug: 'B0030BQ4LU-es Calvin Klein Hombre - Pack de 3 bóxers de tiro medio -...'
+tags: 
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

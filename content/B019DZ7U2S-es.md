@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sqMq4PX2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019DZ7U2S-es Sabrent Cable de extensión 22AWG USB 3.0 - A-Macho a A-Hembra [Negro] 10 pies  CB-3010 '
+slug: 'B019DZ7U2S-es Sabrent Cable de extensión 22AWG USB 3.0 - A-Macho a...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

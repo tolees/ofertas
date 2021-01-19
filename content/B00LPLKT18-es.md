@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MACxfkj3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LPLKT18-es Lullage acneXpert Renovador Celular Concentrado exfoliante en gel para la piel grasa con imperfecciones o propensa al acné  Efecto Peeling  Ácido Azelaico | Ácido Salicílico | Ácido Glicólico  30 ml'
+slug: 'B00LPLKT18-es Lullage acneXpert Renovador Celular Concentrado exfoliante...'
+tags: 
 actualPrice: 9.72 EUR
 currency: EUR
 price: 9.72

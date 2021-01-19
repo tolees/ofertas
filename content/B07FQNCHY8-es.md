@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PE1N5A7yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQNCHY8-es Adidas V Racer 2.0  Zapatillas de Deporte para Hombre  Blanco  Ftwbla/Negbás/Negbás 000   38 EU'
+slug: 'B07FQNCHY8-es Adidas V Racer 2.0 Zapatillas de Deporte para Hombre...'
+tags: 
 actualPrice: 37.66 EUR
 currency: EUR
 price: 37.66

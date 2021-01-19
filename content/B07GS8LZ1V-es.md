@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mO2ij1hjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GS8LZ1V-es Max Factor LipFinity Velvet Matte Pintalabios Tono 055 Oran glow'
+slug: 'B07GS8LZ1V-es Max Factor LipFinity Velvet Matte Pintalabios Tono 055...'
+tags: 
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

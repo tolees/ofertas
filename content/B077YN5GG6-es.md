@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dkdbWSI%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YN5GG6-es HIKARO AMA HAYAND camisetas  Verde  Khaki   40  Talla del fabricante: Medium '
+slug: 'B077YN5GG6-es HIKARO AMA HAYAND camisetas Verde Khaki 40 Talla del...'
+tags: 
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

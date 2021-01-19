@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rMAnLlvxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1H9JYD-es Angelady  Timeline  Brazaletes de Oro Rosa Pulseras para Mujeres Joyería de niñas San Valentín para Miss  Presente para mamá  Rose Golden  Cobre '
+slug: 'B07N1H9JYD-es Angelady Timeline Brazaletes de Oro Rosa Pulseras para...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

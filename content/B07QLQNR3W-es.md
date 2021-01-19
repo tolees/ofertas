@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413Y5NYjW9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLQNR3W-es Hombres Sombrero de Safari Bucket Hat Verano Protección UV al Aire Libre Plegable Pesca Hat'
+slug: 'B07QLQNR3W-es Hombres Sombrero de Safari Bucket Hat Verano Protección UV...'
+tags: 
 actualPrice: 12.68 EUR
 currency: EUR
 price: 12.68

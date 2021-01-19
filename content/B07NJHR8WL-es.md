@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31k45YFBhoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJHR8WL-es Tamaris 1-1-25537-23  Botas Mosqueteras para Mujer  Rojo  Vino 558   38 EU'
+slug: 'B07NJHR8WL-es Tamaris 1-1-25537-23 Botas Mosqueteras para Mujer Rojo...'
+tags: 
 actualPrice: 18.71 EUR
 currency: EUR
 price: 18.71

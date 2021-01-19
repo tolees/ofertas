@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZY93VMG-es Nuxe Nuxuriance Ultra Mascarilla Roll-on Redensifiante 50ml'
+tags: 
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

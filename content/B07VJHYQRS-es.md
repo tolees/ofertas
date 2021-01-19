@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bX6qJ1UhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJHYQRS-es Hackett London Army Hackett Polo  Rojo  255red 255   Medium para Hombre'
+slug: 'B07VJHYQRS-es Hackett London Army Hackett Polo Rojo 255red 255 Medium...'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

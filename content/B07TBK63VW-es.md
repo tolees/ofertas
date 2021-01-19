@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lxZz6zQ7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBK63VW-es Toyvian Largo Clip Recto Trenza Horquillas para El Cabello Cuerda Precioso Falso Trenzado Personalidad Fresca Clips de Pelo Peluquería para Niños Niños Niñas 12 unids'
+slug: 'B07TBK63VW-es Toyvian Largo Clip Recto Trenza Horquillas para El Cabello...'
+tags: 
 actualPrice: 3.13 EUR
 currency: EUR
 price: 3.13

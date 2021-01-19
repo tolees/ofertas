@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Fq7vupepL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9TVDC8-es Garnier Olia - Coloración Permanente sin Amoniaco  con Aceites Florales de Origen Natural - Tono 5.5 Caoba'
+slug: 'B00X9TVDC8-es Garnier Olia - Coloración Permanente sin Amoniaco con...'
+tags: 
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

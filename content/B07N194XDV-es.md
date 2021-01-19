@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rPi538tFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N194XDV-es Neutrogena T/Gel Champú Anticaspa  Cuero Cabelludo Sensible  - 125 ml.'
+slug: 'B07N194XDV-es Neutrogena T/Gel Champú Anticaspa Cuero Cabelludo Sensible...'
+tags: 
 actualPrice: 6.21 EUR
 currency: EUR
 price: 6.21

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k5haqKxEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074TC3YWH-es 1home Soporte TV con Ruedas  Móvil Carro de exhibición Trole Portátil  TV Soporte de Suelo para Pantalla Plana 30”-65" Plasm'
+slug: 'B074TC3YWH-es 1home Soporte TV con Ruedas Móvil Carro de exhibición...'
+tags: 
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

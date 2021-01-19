@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LjfkUEltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK1DB9M-es Neceser de Viaje  Neceser Maquillaje Grande para Hombre y Mujer  Carttiya Bolsa de Aseo Impermeable para Colgar  Negro'
+slug: 'B07SK1DB9M-es Neceser de Viaje Neceser Maquillaje Grande para Hombre y...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

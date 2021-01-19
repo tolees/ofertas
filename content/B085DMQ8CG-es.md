@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gUYfcutkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DMQ8CG-es Crema anticelulítica  crema anticelulítica  crema de masaje anticelulítico  mejora del contorno de la piel  crema quemagrasas para abdomen  glúteos  piernas 120g'
+slug: 'B085DMQ8CG-es Crema anticelulítica crema anticelulítica crema de masaje...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

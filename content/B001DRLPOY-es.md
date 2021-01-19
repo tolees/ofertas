@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k6-7vVKbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001DRLPOY-es MANN-FILTER HU 711/51 X  Set de Filtro de aceite  juego de juntas  para automóviles  multicolor'
+slug: 'B001DRLPOY-es MANN-FILTER HU 711/51 X Set de Filtro de aceite juego de...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

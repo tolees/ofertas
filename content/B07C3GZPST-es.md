@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413b4CRZZaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C3GZPST-es Movaty Bote para café con cuchara  Café hermética  contenedor de café de acero inoxidable  aroma lata  bote  vacío lata'
+slug: 'B07C3GZPST-es Movaty Bote para café con cuchara Café hermética...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

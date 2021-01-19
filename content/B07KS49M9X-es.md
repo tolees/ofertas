@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h1Q+U3yKL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KS49M9X-es Bajo sistema de sujeción de esclavitud de cama con puños de mano Colección de esclavitud de puño de tobillo  Juguetes Sexuales Bondage para la Cama con Cómodas Esposas Ajustables para los Tobillos'
+slug: 'B07KS49M9X-es Bajo sistema de sujeción de esclavitud de cama con puños...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

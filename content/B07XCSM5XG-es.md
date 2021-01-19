@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCSM5XG-es FIFA 20 - Edición Estándar'
+tags: 
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4102Fpy--bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9DW78T-es Asics Gel-Contend 6  Sneaker Mens  Negro  42 EU'
+slug: 'B07S9DW78T-es Asics Gel-Contend 6 Sneaker Mens Negro 42 EU'
+tags: 
 actualPrice: 47.32 EUR
 currency: EUR
 price: 47.32

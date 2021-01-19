@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/313ajPpY4aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRFVBX4-es Barnängen - Loción Hidratante corporal con baya Cloudberry Nutritive para piel seca y muy seca - 2 unidades de 400ml'
+slug: 'B07NRFVBX4-es Barnängen - Loción Hidratante corporal con baya Cloudberry...'
+tags: 
 actualPrice: 6.31 EUR
 currency: EUR
 price: 6.31

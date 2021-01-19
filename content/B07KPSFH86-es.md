@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gz6l7ou-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPSFH86-es Funko X-Men Pop Dark Phoenix  Multicolor  Talla única  37063 '
+slug: 'B07KPSFH86-es Funko X-Men Pop Dark Phoenix Multicolor Talla única 37063'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

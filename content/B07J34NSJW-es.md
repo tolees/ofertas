@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fZdA8YjSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J34NSJW-es Moleskine - Agenda Semanal de 18 Meses Alicia en el País de las Maravillas Edición Limitada  Color Púrpura  con Tapa Dura y Cierre Elástico  Tamaño de Bolsillo 9 x 14 cm  208 Páginas'
+slug: 'B07J34NSJW-es Moleskine - Agenda Semanal de 18 Meses Alicia en el País...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

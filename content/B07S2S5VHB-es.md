@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LbgMjECpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2S5VHB-es Levi s Graphic Sport Hoodie Capucha  Azul  Goodie Box Taba Baby Blue 0165   S para Mujer'
+slug: 'B07S2S5VHB-es Levi s Graphic Sport Hoodie Capucha Azul Goodie Box Taba...'
+tags: 
 actualPrice: 23.03 EUR
 currency: EUR
 price: 23.03

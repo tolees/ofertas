@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jRyjwzDgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GT5LF51-es Desigual - Bag Orangina Capri Zipper Women  Shoppers y bolsos de hombro Mujer  Azul  Navy   13x28x30 cm  B x H T '
+slug: 'B07GT5LF51-es Desigual - Bag Orangina Capri Zipper Women Shoppers y...'
+tags: 
 actualPrice: 44.28 EUR
 currency: EUR
 price: 44.28

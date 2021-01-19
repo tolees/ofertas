@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318mH6UUV-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PN82G3D-es Super Mario Cuello Redondo Carta ImpresiÓN Manga Corta T-Shirt Sencillas Ocasionales Camisetas Adecuado para niños y niñas'
+slug: 'B07PN82G3D-es Super Mario Cuello Redondo Carta ImpresiÓN Manga Corta...'
+tags: 
 actualPrice: 9.94 EUR
 currency: EUR
 price: 9.94

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JW4-JjOFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPX5NPK-es Anbber Aire Acondicionado móvil 4 en 1 multifunción USB portátil  Mini Aire Acondicionado  humidificador y purificador de Aire con luz Nocturna  3 Niveles de Potencia para Camping en el hogar'
+slug: 'B07SPX5NPK-es Anbber Aire Acondicionado móvil 4 en 1 multifunción USB...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

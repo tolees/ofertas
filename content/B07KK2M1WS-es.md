@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ppYSC2QXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK2M1WS-es GEKER Aspirador Mano de coche  Aspiradora Automotriz 6 KPA  120 W Uso dual seco y húmedo  Carga Rápida  filtro HEPA fácil de limpiar  el cable de alimentación de 4 5 m y la bolsa Oxford'
+slug: 'B07KK2M1WS-es GEKER Aspirador Mano de coche Aspiradora Automotriz 6 KPA...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

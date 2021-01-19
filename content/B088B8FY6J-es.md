@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419Cs17juxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088B8FY6J-es Carrito de almacenamiento  carrito de almacenamiento de 3 niveles  organizador multiuso con ruedas  carrito de metal con ruedas  carrito de utilidad  organizador con ruedas para baño  cocina  dormitorio'
+slug: 'B088B8FY6J-es Carrito de almacenamiento carrito de almacenamiento de 3...'
+tags: 
 actualPrice: 25.48 EUR
 currency: EUR
 price: 25.48

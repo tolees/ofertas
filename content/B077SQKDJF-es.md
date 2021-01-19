@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eTfZmJD+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SQKDJF-es Numark Party Mix Pro - Controlador de DJ con Luces Reactivas al Sonido  Altavoz Portátil de Larga Duración Recargable  Conectividad Bluetooth de Fácil Emparejamiento y Software de DJ para Mac/PC/iOS'
+slug: 'B077SQKDJF-es Numark Party Mix Pro - Controlador de DJ con Luces...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

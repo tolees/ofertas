@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TcIYO7kyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCGPP2V-es Tommy Hilfiger Algodón Tanga de Cintura Elástica Distintiva con Inserción De Malla  Azul  Navy Blazer   32  Talla del Fabricante: X-Small  para Mujer'
+slug: 'B06XCGPP2V-es Tommy Hilfiger Algodón Tanga de Cintura Elástica...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

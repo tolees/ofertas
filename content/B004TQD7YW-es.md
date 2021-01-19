@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iNBafRpzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004TQD7YW-es Beurer LB12 Mini humidificador ultrasónico óptimo para viaje  micro nebulización  hasta 20m2  silencioso  máxima nebulización 80 ml/h  12 W  adaptadores para 2 botellas  color blanco'
+slug: 'B004TQD7YW-es Beurer LB12 Mini humidificador ultrasónico óptimo para...'
+tags: 
 actualPrice: 27.89 EUR
 currency: EUR
 price: 27.89

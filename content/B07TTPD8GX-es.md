@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51j9QSQkPyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTPD8GX-es Kipling Baroe S  Monederos para Mujer  Negro  Carbon Metallic   11.5x7x3 cm'
+slug: 'B07TTPD8GX-es Kipling Baroe S Monederos para Mujer Negro Carbon Metallic...'
+tags: 
 actualPrice: 8.81 EUR
 currency: EUR
 price: 8.81

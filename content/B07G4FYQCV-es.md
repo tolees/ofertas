@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414CMCnNMmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4FYQCV-es Tommy Hilfiger Reloj Multiesfera para Mujer de Cuarzo con Correa en Cuero 1781992'
+slug: 'B07G4FYQCV-es Tommy Hilfiger Reloj Multiesfera para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 72.39 EUR
 currency: EUR
 price: 72.39

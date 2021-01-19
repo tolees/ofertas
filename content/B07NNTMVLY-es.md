@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413yynr9L1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNTMVLY-es Under Armour UA W Charged Rogue 2  Zapatillas de Running para Mujer  Azul  Rift Blue/Rift Blue/Blue Haze   36 EU'
+slug: 'B07NNTMVLY-es Under Armour UA W Charged Rogue 2 Zapatillas de Running...'
+tags: 
 actualPrice: 33.8 EUR
 currency: EUR
 price: 33.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qy404ZihL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFBNKS3-es Funko- Pop Movies: The Lost Boys-Sam Emerson  Multicolor  Standard  21779 '
+slug: 'B07DFBNKS3-es Funko- Pop Movies: The Lost Boys-Sam Emerson Multicolor...'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

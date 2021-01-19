@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GJjanE%2BWL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B005RXEVGY-es Eddie Bauer - Pantalones Mujer  Color Marfil  Talla 38/30  US: 8 '
+slug: 'B005RXEVGY-es Eddie Bauer - Pantalones Mujer Color Marfil Talla 38/30 US: 8'
+tags: 
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

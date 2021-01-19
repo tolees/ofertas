@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NNUMI86-es LIPIKAR BAUME AP+ ROCHE POSAY 200 ML'
+tags: 
 actualPrice: 11.84 EUR
 currency: EUR
 price: 11.84

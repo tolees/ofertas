@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AjxsdyO3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SMHSW8-es Cinta Métrica Láser 2 En 1  Meterk Telémetro láser 131.2Ft/40M y de Cinta Métrica 16.5Ft/5M  Medidor de Distancia Láser Digital LED Medición de Distancia  Área/Volumen/Pitágoras.'
+slug: 'B083SMHSW8-es Cinta Métrica Láser 2 En 1 Meterk Telémetro láser...'
+tags: 
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

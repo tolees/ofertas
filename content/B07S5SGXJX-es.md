@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g1ngSZHuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5SGXJX-es Love MoschinoJc4021pp1aMujerCarteras de mano con asaPlateado  Argento 1x17x23 centimeters  W x H x L '
+slug: 'B07S5SGXJX-es Love MoschinoJc4021pp1aMujerCarteras de mano con...'
+tags: 
 actualPrice: 62.72 EUR
 currency: EUR
 price: 62.72

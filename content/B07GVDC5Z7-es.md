@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m4uq7fByL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVDC5Z7-es Xiaomi Mix 2S - Smartphone con Pantalla de 5.99"  Memoria 6 + 64 GB  cámara Dual de 12+12 MP   Color Blanco'
+slug: 'B07GVDC5Z7-es Xiaomi Mix 2S - Smartphone con Pantalla de 5.99" Memoria 6...'
+tags: 
 actualPrice: 270.9 EUR
 currency: EUR
 price: 270.9

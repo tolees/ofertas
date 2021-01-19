@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+pXG8zIgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHBPV7P-es Kipling Gabbie S  Bolsos Bandolera para Mujer  Rojo  Lively Red   29x22x16.5 cm'
+slug: 'B07BHBPV7P-es Kipling Gabbie S Bolsos Bandolera para Mujer Rojo Lively...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

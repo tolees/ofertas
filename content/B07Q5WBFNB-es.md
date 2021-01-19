@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lre9pcfeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q5WBFNB-es My Lovely Bed - Almohada Cervical Viscoelástica | Memory Foam 60x40 cm - Ergonómica : Mantiene la posición de la Nuca y Las cervicales - Ortopédica y terapéutica - Ultra Confort'
+slug: 'B07Q5WBFNB-es My Lovely Bed - Almohada Cervical Viscoelástica | Memory...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

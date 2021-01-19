@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-twAqh96L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085M1XPJG-es Adoric Cortador de Verdura 4 en 1 Rallador de Verduras Calabacin Pasta Espiralizador Vegetal Veggetti Slicer Pepino  Espaguetis de Calabacin  Cortador Espiral Manual  Verde '
+slug: 'B085M1XPJG-es Adoric Cortador de Verdura 4 en 1 Rallador de Verduras...'
+tags: 
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

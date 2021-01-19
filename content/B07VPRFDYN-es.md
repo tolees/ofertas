@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Unut45QNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPRFDYN-es Calvin Klein Thong Tanga  Negro  Black 001    Talla del Fabricante: Large  para Mujer'
+slug: 'B07VPRFDYN-es Calvin Klein Thong Tanga Negro Black 001 Talla del...'
+tags: 
 actualPrice: 9.81 EUR
 currency: EUR
 price: 9.81

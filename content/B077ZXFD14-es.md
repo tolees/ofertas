@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i-vnyTMJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZXFD14-es JANABEBE Funda para Coche Stokke Xplori y Stokke Crusi  BLUE SPARKLES '
+slug: 'B077ZXFD14-es JANABEBE Funda para Coche Stokke Xplori y Stokke Crusi...'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

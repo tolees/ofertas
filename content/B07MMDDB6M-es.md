@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411D8DFcSKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMDDB6M-es upHere Alto Rendemento LED Blanco Ventilador de PC 120mm - Ventilador para Ordenador  Paquete de 3/T3WT3-3'
+slug: 'B07MMDDB6M-es upHere Alto Rendemento LED Blanco Ventilador de PC 120mm -...'
+tags: 
 actualPrice: 9.16 EUR
 currency: EUR
 price: 9.16

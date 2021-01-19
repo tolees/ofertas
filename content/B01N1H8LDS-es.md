@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KoOdoovFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1H8LDS-es Asics T722N 2301  Zapatillas de Deporte Unisex Adulto   Royal/Black/White   41.5 EU'
+slug: 'B01N1H8LDS-es Asics T722N 2301 Zapatillas de Deporte Unisex Adulto...'
+tags: 
 actualPrice: 56.63 EUR
 currency: EUR
 price: 56.63

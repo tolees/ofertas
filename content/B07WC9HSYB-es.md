@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41418eUGXLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC9HSYB-es TQmate 6Pack  Protector de Pantalla Compatible con Xiaomi Mi Smart Band 4  TPU Suave Bordes Redondeados 3D 【Cobertura Completa】 Pantalla de Cubierta de Borde a Borde'
+slug: 'B07WC9HSYB-es TQmate 6Pack Protector de Pantalla Compatible con Xiaomi...'
+tags: 
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

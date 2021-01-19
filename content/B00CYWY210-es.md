@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t1qWOHI9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CYWY210-es Fellowes I-Spire - Alfombrilla con reposamuñecas Flexible para ratón  Color Blanco y Gris'
+slug: 'B00CYWY210-es Fellowes I-Spire - Alfombrilla con reposamuñecas Flexible...'
+tags: 
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Xe7zAbXRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G8JZWG7-es TRESemmé - Acondicionador Botanique Coco - 700 ml  Paquete de 1 '
+slug: 'B07G8JZWG7-es TRESemmé - Acondicionador Botanique Coco - 700 ml Paquete...'
+tags: 
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

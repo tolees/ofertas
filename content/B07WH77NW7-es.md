@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sUaMcdqLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WH77NW7-es Artesania Cerda Deportiva Suela Ligera Avengers Capitan America  Zapatillas para Niños  Gris  Gris C13   27 EU'
+slug: 'B07WH77NW7-es Artesania Cerda Deportiva Suela Ligera Avengers Capitan...'
+tags: 
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

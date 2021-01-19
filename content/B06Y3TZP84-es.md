@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51G-tdj1kVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y3TZP84-es ELEGOO Mega 2560 R3 Tarjeta Placa Compatible con Arduino IDE con Microcontrolador Basada en el ATmega2560 ATmega16U2 con USB Cable Negro Versión Mega Kit'
+slug: 'B06Y3TZP84-es ELEGOO Mega 2560 R3 Tarjeta Placa Compatible con Arduino...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

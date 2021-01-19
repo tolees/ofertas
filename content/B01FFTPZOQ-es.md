@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41awUCObVvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFTPZOQ-es Philips SCF753/02 - Taza con caño decorado  colores surtios'
+slug: 'B01FFTPZOQ-es Philips SCF753/02 - Taza con caño decorado colores surtios'
+tags: 
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

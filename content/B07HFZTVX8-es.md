@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31moLaLf8RL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFZTVX8-es New Balance Hombre U420 Sneaker  Vino tinto   38.5 EU'
+slug: 'B07HFZTVX8-es New Balance Hombre U420 Sneaker Vino tinto 38.5 EU'
+tags: 
 actualPrice: 41.51 EUR
 currency: EUR
 price: 41.51

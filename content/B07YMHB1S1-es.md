@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QM-HIGxhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YMHB1S1-es Terminator Salvation  4K Ultra HD + BD  [Blu-ray]'
+slug: 'B07YMHB1S1-es Terminator Salvation 4K Ultra HD + BD [Blu-ray]'
+tags: 
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

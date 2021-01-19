@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J6izy5KCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Z9HHS5-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Cuero ES4340'
+slug: 'B077Z9HHS5-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 92.35 EUR
 currency: EUR
 price: 92.35

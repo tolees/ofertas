@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HKlR3h-LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHDDDDS-es Helly Hansen Jr HH LIFA Merino Conjunto Termico de Ropa Interior  Unisex niños  Negro  8 años'
+slug: 'B06XHDDDDS-es Helly Hansen Jr HH LIFA Merino Conjunto Termico de Ropa...'
+tags: 
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

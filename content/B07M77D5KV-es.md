@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wDGrgedhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M77D5KV-es Emporio Armani Connected - Smartwatch con pantalla táctil  Negro'
+slug: 'B07M77D5KV-es Emporio Armani Connected - Smartwatch con pantalla táctil...'
+tags: 
 actualPrice: 110.7 EUR
 currency: EUR
 price: 110.7

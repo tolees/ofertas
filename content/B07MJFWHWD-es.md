@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oMwo+7C6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJFWHWD-es MaGeek® [Paquete de 5] 0 3m Corto Cables USB Tipo C  USB-C  a USB 2.0 para Samsung Galaxy S9  S8  Nexus 6P  LG G6  Nuevo MacBook  Google Pixel XL  OnePlus2 y más  Blanco '
+slug: 'B07MJFWHWD-es MaGeek® [Paquete de 5] 0 3m Corto Cables USB Tipo C USB-C...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

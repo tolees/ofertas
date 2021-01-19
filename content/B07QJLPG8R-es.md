@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31XRRcRFT2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJLPG8R-es Puma Always On Solid 7/8 TR Lgg Mallas Deporte  Mujer  Negro Black  M'
+slug: 'B07QJLPG8R-es Puma Always On Solid 7/8 TR Lgg Mallas Deporte Mujer Negro...'
+tags: 
 actualPrice: 24.6 EUR
 currency: EUR
 price: 24.6

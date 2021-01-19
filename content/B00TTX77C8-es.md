@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31bpLzecyzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTX77C8-es Multidermol Champú - Vitamina B5 - Extracto de Tila - Aporta Flexibilidad y Suavidad - 400 ml'
+slug: 'B00TTX77C8-es Multidermol Champú - Vitamina B5 - Extracto de Tila -...'
+tags: 
 actualPrice: 7 EUR
 currency: EUR
 price: 7

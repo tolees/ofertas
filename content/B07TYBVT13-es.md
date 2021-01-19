@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nr+0YQ2VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYBVT13-es S.Lux Hombres Cinturón de Lona  YKK Hebilla de Plástico Cinturón de Secado Rápido Transpirable Hipoalergénico no Metal Cinturón Recreación al aire libre Fitness Ejercicio  Negro Y Azul '
+slug: 'B07TYBVT13-es S.Lux Hombres Cinturón de Lona YKK Hebilla de Plástico...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

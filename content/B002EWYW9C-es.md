@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51QkwJc2PjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B002EWYW9C-es Bosch Home and Garden 0.603.502.002 Sierra circular portátil  1600 W  240 V'
+slug: 'B002EWYW9C-es Bosch Home and Garden 0.603.502.002 Sierra circular...'
+tags: 
 actualPrice: 109 EUR
 currency: EUR
 price: 109

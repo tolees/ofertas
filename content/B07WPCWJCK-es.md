@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-PaVykCYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WPCWJCK-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Episode VIII First Order Assault Walker Compatible con Ladrillos de Construcción Lego Modelo 75189  Juego de Legos no Incluido'
+slug: 'B07WPCWJCK-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zi%2BQSQXlL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B001NYP7JG-es BaByliss 2735E - Cepillo rotativo de aire caliente  4 cabezales  base cerámica  con tecnología iónica  1000 W  2 velocidades/temperaturas y neceser incluido'
+slug: 'B001NYP7JG-es BaByliss 2735E - Cepillo rotativo de aire caliente 4...'
+tags: 
 actualPrice: 46.85 EUR
 currency: EUR
 price: 46.85

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21AbH70D60L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9M8M1M-es RECCI Breeze Almohada de Fibra 40x80 cm  Altura Ajustable con Peso de llenado Aprox. 1150 g  Almohada de Cama Almohada de Pluma de Ganso con Rebote Lento'
+slug: 'B07L9M8M1M-es RECCI Breeze Almohada de Fibra 40x80 cm Altura Ajustable...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

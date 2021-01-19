@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OIda09QFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DN6RGTQ-es XUNXI DIY Taladro Completo 5D Kits de Pintura de Diamantes Pintar por número Kits de Imagen Artesanía para el hogar Decoración de Pared Punto de Cruz Kits de Bricolaje -- Lindo Erizo  22  Sin Marco '
+slug: 'B08DN6RGTQ-es XUNXI DIY Taladro Completo 5D Kits de Pintura de Diamantes...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

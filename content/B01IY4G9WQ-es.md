@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LTCe0AzZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IY4G9WQ-es Reebok Ex-o-Fit Clean Logo Int  Zapatillas para Hombre  Blanco  AR3169 39 EU White/Royal Blue/Royal Blue   44'
+slug: 'B01IY4G9WQ-es Reebok Ex-o-Fit Clean Logo Int Zapatillas para Hombre...'
+tags: 
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

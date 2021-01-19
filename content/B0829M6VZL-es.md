@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ni07J1-xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829M6VZL-es Moliies USB 2.0 A Hembra A RS232 DB9 Hembra Convertidor de Adaptador de Cable en Serie Construido con adaptadores confiables FTDI Chipset Negro '
+slug: 'B0829M6VZL-es Moliies USB 2.0 A Hembra A RS232 DB9 Hembra Convertidor de...'
+tags: 
 actualPrice: 2.15 EUR
 currency: EUR
 price: 2.15

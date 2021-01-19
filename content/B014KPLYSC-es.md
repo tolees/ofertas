@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014KPLYSC-es Reebok Tube de Resistencia - Pesado'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

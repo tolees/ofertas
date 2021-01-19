@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NeRchh6VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD2SF5R-es COOAU Palo Flotante para Selfie Palo Flotante de Agarre Palo Impermeable para Selfie'
+slug: 'B07XD2SF5R-es COOAU Palo Flotante para Selfie Palo Flotante de Agarre...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

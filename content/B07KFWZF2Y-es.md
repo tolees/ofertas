@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31JNvXkQROL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFWZF2Y-es PUMA Aeon Heritage Wn s  Zapatillas Deportivas para Mujer  White-Sulphur  37 EU'
+slug: 'B07KFWZF2Y-es PUMA Aeon Heritage Wn s Zapatillas Deportivas para Mujer...'
+tags: 
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

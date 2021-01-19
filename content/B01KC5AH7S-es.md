@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aYXPwdL+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KC5AH7S-es Auriculares Inalámblicos  Auriculares Bluetooth in Ear con Mic Reducción Del Ruido Estéreo 3D HD  Auriculares Deportivos Bluetooth de Nivel IP7  30 Horas de Reproducción  Pantalla LCD y Control Tactil'
+slug: 'B01KC5AH7S-es Auriculares Inalámblicos Auriculares Bluetooth in Ear con...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

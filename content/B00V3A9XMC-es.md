@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W4m3wujjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V3A9XMC-es Arcos Riviera Blanc - Taco de 4 cuchillos y tijera  5piezas '
+slug: 'B00V3A9XMC-es Arcos Riviera Blanc - Taco de 4 cuchillos y tijera 5piezas'
+tags: 
 actualPrice: 142.0 EUR
 currency: EUR
 price: 142.0

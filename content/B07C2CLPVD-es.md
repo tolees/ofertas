@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417bmEUeYCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2CLPVD-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter  Rojo  Port Royale Detail: Twisted with Black   Small para Hombre'
+slug: 'B07C2CLPVD-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter Rojo Port...'
+tags: 
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

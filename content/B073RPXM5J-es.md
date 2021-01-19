@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ro3Hi6fcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RPXM5J-es Helly Hansen TRANSAT Polo Polo  Hombre  Negro  Negro 990   Small  Tamaño del Fabricante:S '
+slug: 'B073RPXM5J-es Helly Hansen TRANSAT Polo Polo Hombre Negro Negro 990...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

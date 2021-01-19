@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lU5qrFjcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSH6MT3-es BESTBOMG Plancha de pelo barba flequillo para Los hombres Peine alisador barba alisar funciona fijador peinar Rizador de pelo Multifuncional La rápida enderezadora  Oval '
+slug: 'B07TSH6MT3-es BESTBOMG Plancha de pelo barba flequillo para Los hombres...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

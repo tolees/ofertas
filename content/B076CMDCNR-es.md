@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iWaCYzpxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CMDCNR-es American Tourister Bon Air - Equipaje de mano  Rojo  Magma Red   M  66cm-57.5L '
+slug: 'B076CMDCNR-es American Tourister Bon Air - Equipaje de mano Rojo Magma...'
+tags: 
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

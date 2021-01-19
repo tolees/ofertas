@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/319IzI7dFIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFXQCC4-es PUMA Smash Wns v2 L  Zapatillas para Mujer  White-Rhubarb  42.5 EU'
+slug: 'B07KFXQCC4-es PUMA Smash Wns v2 L Zapatillas para Mujer White-Rhubarb...'
+tags: 
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

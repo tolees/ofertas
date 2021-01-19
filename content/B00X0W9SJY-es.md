@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TGbtB02AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X0W9SJY-es Tommy Hilfiger Eton Mini CC Wallet  Cartera para Hombre  Brown  OS'
+slug: 'B00X0W9SJY-es Tommy Hilfiger Eton Mini CC Wallet Cartera para Hombre...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

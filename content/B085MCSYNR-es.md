@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SS0IB603L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085MCSYNR-es Agger Silicona Biberón Botella de alimentación a Prueba de Polvo de la Botella de alimentación del bebé Botella de alimentación SIDA'
+slug: 'B085MCSYNR-es Agger Silicona Biberón Botella de alimentación a Prueba de...'
+tags: 
 actualPrice: 2.57 EUR
 currency: EUR
 price: 2.57

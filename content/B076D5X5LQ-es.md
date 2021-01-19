@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tTCC9--bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076D5X5LQ-es 4 Piezas Gorras de Peluca  URAQT Redecillas Casquillo de Peluca de Nylon  Desnudo Beige Natural y Negro Malla'
+slug: 'B076D5X5LQ-es 4 Piezas Gorras de Peluca URAQT Redecillas Casquillo de...'
+tags: 
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

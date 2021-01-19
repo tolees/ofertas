@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DFcg0OXdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X5EHLZA-es Star Wars - Disfraz de Storm Trooper para niños  talla L infantil 7-8 años  Rubie s 620267-L '
+slug: 'B00X5EHLZA-es Star Wars - Disfraz de Storm Trooper para niños talla L...'
+tags: 
 actualPrice: 21.82 EUR
 currency: EUR
 price: 21.82

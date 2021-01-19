@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Rsi+D6BWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087YW4JSG-es Golden Goose Zapatillas deportivas antideslizantes para hombre Super Star Casual  color Amarillo  talla 42 2/3 EU'
+slug: 'B087YW4JSG-es Golden Goose Zapatillas deportivas antideslizantes para...'
+tags: 
 actualPrice: 385.7 EUR
 currency: EUR
 price: 385.7

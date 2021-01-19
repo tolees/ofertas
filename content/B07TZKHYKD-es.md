@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zOTSWCXbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZKHYKD-es QHOHQ Protector de Pantalla para Xiaomi Mi A3  [3 Unidades] Cristal Templado Screen Protector 9H [Versión Mejorada] para Xiaomi Mi A3'
+slug: 'B07TZKHYKD-es QHOHQ Protector de Pantalla para Xiaomi Mi A3 [3 Unidades]...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

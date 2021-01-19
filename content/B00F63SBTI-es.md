@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rV-CRmccL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F63SBTI-es Chloe 22812 - Desodorante  100 ml'
+slug: 'B00F63SBTI-es Chloe 22812 - Desodorante 100 ml'
+tags: 
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

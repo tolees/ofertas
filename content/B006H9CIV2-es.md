@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006H9CIV2-es Clinique 36567 - Gel de ducha'
+tags: 
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

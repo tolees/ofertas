@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zLXk84BrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000J6HYKO-es HP 51A - Cartucho de tóner original LaserJet para HP Laserjet series P3005  M3027mfp y M3035mfp  color negro'
+slug: 'B000J6HYKO-es HP 51A - Cartucho de tóner original LaserJet para HP...'
+tags: 
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

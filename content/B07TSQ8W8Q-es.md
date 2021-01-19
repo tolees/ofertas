@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z0ZZankmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ8W8Q-es Skechers Equalizer 4.0  Zapatillas sin Cordones para Hombre  Azul  Navy Engineered Mesh/Orange Trim Nvor   45.5 EU'
+slug: 'B07TSQ8W8Q-es Skechers Equalizer 4.0 Zapatillas sin Cordones para Hombre...'
+tags: 
 actualPrice: 34.05 EUR
 currency: EUR
 price: 34.05

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31haWvWV4NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKGDCYG-es Under Armour UA Charged Bandit 5  Zapatillas para Correr  Calzado Deportivo para Hombre  Negro  Black/Black/Black  002  002   42 EU'
+slug: 'B07HKGDCYG-es Under Armour UA Charged Bandit 5 Zapatillas para Correr...'
+tags: 
 actualPrice: 50.39 EUR
 currency: EUR
 price: 50.39

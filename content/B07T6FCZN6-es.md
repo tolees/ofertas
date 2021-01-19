@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wbaLWvsAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T6FCZN6-es Auriculares inalámbricos auténticos resistentes al sudor Creative Outlier Gold con software Super X-Fi  Bluetooth 5.0  aptX/AAC  39 horas de autonomía con 14 horas por cada carga de batería'
+slug: 'B07T6FCZN6-es Auriculares inalámbricos auténticos resistentes al sudor...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

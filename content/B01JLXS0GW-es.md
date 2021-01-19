@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31id1MjIqYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JLXS0GW-es Levi s 512 Slim Taper Jeans  Negro  Nightshade X 0013   32W / 30L para Hombre'
+slug: 'B01JLXS0GW-es Levi s 512 Slim Taper Jeans Negro Nightshade X 0013 32W /...'
+tags: 
 actualPrice: 43.39 EUR
 currency: EUR
 price: 43.39

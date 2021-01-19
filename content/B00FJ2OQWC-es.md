@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IDjGA1SFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FJ2OQWC-es ST-23 elástico ajustable Cabeza Casco de la correa de la correa para GoPro HD Hero / 1/2/3 de la cámara'
+slug: 'B00FJ2OQWC-es ST-23 elástico ajustable Cabeza Casco de la correa de la...'
+tags: 
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

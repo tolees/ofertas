@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414VHX+64vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HXBROLC-es Fujifilm XF 56 mm f:1.2 R - Objetivo para Fujifilm X  diámetro: 62 mm   Negro'
+slug: 'B00HXBROLC-es Fujifilm XF 56 mm f:1.2 R - Objetivo para Fujifilm X...'
+tags: 
 actualPrice: 314.0 EUR
 currency: EUR
 price: 314.0

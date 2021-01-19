@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hN1TLswHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C3HF8MS-es Rowenta CV5022 Powerline Plus Elite - Secador de 2200 W potente  función Ionic  boquilla concentradora de aire y difusor  3 velocidades y 2 temperaturas  botón de aire frío'
+slug: 'B00C3HF8MS-es Rowenta CV5022 Powerline Plus Elite - Secador de 2200 W...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

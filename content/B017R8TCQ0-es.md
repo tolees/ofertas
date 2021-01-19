@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZL6e9yGxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017R8TCQ0-es Tatkraft Frogs Gancho Toallero Adhesivo Colgador Infantil para Pared Acero Inoxidable 2 Unidades'
+slug: 'B017R8TCQ0-es Tatkraft Frogs Gancho Toallero Adhesivo Colgador Infantil...'
+tags: 
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

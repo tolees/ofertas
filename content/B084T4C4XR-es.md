@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hTKbdZPFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084T4C4XR-es Baoblaze Gran Pincel De Escritura Acuarela Pincel De Caligrafía China Kanji Japonés Sumi Pintura Dibujo Pincel Pluma para Calígrafo - Blanco  Tal como se Describe'
+slug: 'B084T4C4XR-es Baoblaze Gran Pincel De Escritura Acuarela Pincel De...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

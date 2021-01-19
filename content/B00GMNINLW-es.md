@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lO-VL4HHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GMNINLW-es Sourcingmap A13051000UX0426 - Pack de 10 cables marcadores  cuarzo  1.5 mm  color amarillo'
+slug: 'B00GMNINLW-es Sourcingmap A13051000UX0426 - Pack de 10 cables marcadores...'
+tags: 
 actualPrice: 11.51 EUR
 currency: EUR
 price: 11.51

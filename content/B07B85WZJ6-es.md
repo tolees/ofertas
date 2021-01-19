@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WvBCr8bxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B85WZJ6-es Qoosea Ventilador de Mesa con Dos Hojas Turbo Muy Silenciosas Smart Touch Ventilador USB Pequeño Ventilador para Escritorio  Computadoras de Escritorio'
+slug: 'B07B85WZJ6-es Qoosea Ventilador de Mesa con Dos Hojas Turbo Muy...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

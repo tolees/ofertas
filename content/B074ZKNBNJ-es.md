@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+9qs5ahnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZKNBNJ-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Cuero ES4352'
+slug: 'B074ZKNBNJ-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

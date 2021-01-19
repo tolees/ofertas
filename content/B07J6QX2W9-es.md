@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kq0a4Yz2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6QX2W9-es Hackett London Archive Ujk Clr Polo  Gris  Grey Marl 933   X-Large para Hombre'
+slug: 'B07J6QX2W9-es Hackett London Archive Ujk Clr Polo Gris Grey Marl 933...'
+tags: 
 actualPrice: 32.13 EUR
 currency: EUR
 price: 32.13

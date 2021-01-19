@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411Qsg+nVbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DQEAYZS-es MANN-FILTER HU 7008 Z Original Filtro de Aceite  Set de filtro de aceite con junta / juego de juntas  Para automóviles'
+slug: 'B00DQEAYZS-es MANN-FILTER HU 7008 Z Original Filtro de Aceite Set de...'
+tags: 
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

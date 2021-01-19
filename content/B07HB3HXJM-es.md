@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419RnvU8WpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB3HXJM-es Funko- Pop Vinyl: The Lion King-Luau Timon Disney Figura  Multicolor  889698364133 '
+slug: 'B07HB3HXJM-es Funko- Pop Vinyl: The Lion King-Luau Timon Disney Figura...'
+tags: 
 actualPrice: 10.77 EUR
 currency: EUR
 price: 10.77

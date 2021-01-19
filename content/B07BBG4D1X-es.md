@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318A0hQOqZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBG4D1X-es Philips Avent Scf813/14 - Biberón Anti Cólicos con Sistema Patentado Airfree  260 Ml  Silicona  Transparente'
+slug: 'B07BBG4D1X-es Philips Avent Scf813/14 - Biberón Anti Cólicos con Sistema...'
+tags: 
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

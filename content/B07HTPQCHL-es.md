@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sGRitbZ6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HTPQCHL-es Luchild Nido Bebé Recién Nacido  Reductor de Cuna Nidos  Cama cana nido de viaje Doble Caras para bebe dormir'
+slug: 'B07HTPQCHL-es Luchild Nido Bebé Recién Nacido Reductor de Cuna Nidos...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

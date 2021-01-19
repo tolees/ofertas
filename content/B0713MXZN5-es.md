@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418FDr97niL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0713MXZN5-es Tommy Hilfiger HMT-W PNTSLD99002 Pantalones  Beige  203   Talla única  Talla del Fabricante: 94  para Hombre'
+slug: 'B0713MXZN5-es Tommy Hilfiger HMT-W PNTSLD99002 Pantalones Beige 203...'
+tags: 
 actualPrice: 41.54 EUR
 currency: EUR
 price: 41.54

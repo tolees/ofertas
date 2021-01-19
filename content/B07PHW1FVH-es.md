@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/3195gLFI00L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHW1FVH-es Nike Todos  Zapatillas para Hombre  Negro  Black/White 002   44.5 EU'
+slug: 'B07PHW1FVH-es Nike Todos Zapatillas para Hombre Negro Black/White 002...'
+tags: 
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

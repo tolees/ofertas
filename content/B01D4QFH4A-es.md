@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fytgt0ZbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D4QFH4A-es Revell- Star Wars Naboo Starfighter  Kit modele  Escala 1:109  03611 '
+slug: 'B01D4QFH4A-es Revell- Star Wars Naboo Starfighter Kit modele Escala...'
+tags: 
 actualPrice: 11.17 EUR
 currency: EUR
 price: 11.17

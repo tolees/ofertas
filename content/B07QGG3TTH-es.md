@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RnCSeywoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGG3TTH-es Pablosky 064554  Botas para Bebés  Gris  Gris Gris   22 EU'
+slug: 'B07QGG3TTH-es Pablosky 064554 Botas para Bebés Gris Gris Gris 22 EU'
+tags: 
 actualPrice: 14.75 EUR
 currency: EUR
 price: 14.75

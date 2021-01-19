@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p9RN7lQ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5TV7D6-es Funko- Pop Vinilo: SLOP 2: Snowball in Superhero Suit Figura Coleccionable  Multicolor  Talla única  37890 '
+slug: 'B07N5TV7D6-es Funko- Pop Vinilo: SLOP 2: Snowball in Superhero Suit...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

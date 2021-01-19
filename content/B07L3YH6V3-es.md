@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41772D6zXaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3YH6V3-es IPOTCH Calcomanías de Soplador Protector Pegatinas Adhesivas para Secador de Pelo - A5'
+slug: 'B07L3YH6V3-es IPOTCH Calcomanías de Soplador Protector Pegatinas...'
+tags: 
 actualPrice: 5.48 EUR
 currency: EUR
 price: 5.48

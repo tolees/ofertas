@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LbOt36ygL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WX6SRZ-es AUELEK Linterna LED  P50 Linterna LED Alta Potencia 5 Modos/ 1200 LM/Zoom / IPX6 Impermeable/ 4200mAh 18650 Batería Recargable para Ciclismo  Camping  Montañismo  Caza  Pesca  Outdoor Activities'
+slug: 'B082WX6SRZ-es AUELEK Linterna LED P50 Linterna LED Alta Potencia 5...'
+tags: 
 actualPrice: 13.31 EUR
 currency: EUR
 price: 13.31

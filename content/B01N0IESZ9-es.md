@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c3NjWCZIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0IESZ9-es Skagen Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable SKW2614'
+slug: 'B01N0IESZ9-es Skagen Reloj Análogo clásico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 92.0 EUR
 currency: EUR
 price: 92.0

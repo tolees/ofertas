@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cmNw4+9ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4M4HP3-es Love MoschinoJc4247pp0aMujerCarteras de manoRosa  Powder 7x14x22 Centimeters  W x H x L '
+slug: 'B07V4M4HP3-es Love MoschinoJc4247pp0aMujerCarteras de manoRosa Powder...'
+tags: 
 actualPrice: 60.46 EUR
 currency: EUR
 price: 60.46

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21t4Q2bLdbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T2XXJCW-es Remington Dual Curl CI63E1 - Rizador de pelo  Pinza de 19 a 31 mm  Cerámica  Hasta 200 ˚C  Morado y Negro'
+slug: 'B00T2XXJCW-es Remington Dual Curl CI63E1 - Rizador de pelo Pinza de 19 a...'
+tags: 
 actualPrice: 27.42 EUR
 currency: EUR
 price: 27.42

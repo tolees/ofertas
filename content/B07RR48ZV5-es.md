@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31J64MMdwtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RR48ZV5-es Tommy Hilfiger - Th Nylon Tote  Bolsos totes Mujer  Negro  Black   14x0.1x47 cm  W x H L '
+slug: 'B07RR48ZV5-es Tommy Hilfiger - Th Nylon Tote Bolsos totes Mujer Negro...'
+tags: 
 actualPrice: 42.91 EUR
 currency: EUR
 price: 42.91

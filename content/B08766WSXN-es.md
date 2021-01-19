@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zb8G8m+aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08766WSXN-es MWPO Cortinas de Cuentas Azules Cuerdas Colgantes de plástico Puerta Divisor de la habitación Decoración Panel Pantalla Entrada Puerta Balcón  Personalizable  Tamaño: 120x200cm-160 Hilos '
+slug: 'B08766WSXN-es MWPO Cortinas de Cuentas Azules Cuerdas Colgantes de...'
+tags: 
 actualPrice: 184.99 EUR
 currency: EUR
 price: 184.99

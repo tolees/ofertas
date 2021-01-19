@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VYhv-KnbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XDYNPN4-es Tommy Hilfiger New Danny Belt Cinturón  Masters Black  85 cm para Hombre'
+slug: 'B00XDYNPN4-es Tommy Hilfiger New Danny Belt Cinturón Masters Black 85 cm...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

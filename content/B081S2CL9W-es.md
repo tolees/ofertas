@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gV++tBh-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081S2CL9W-es Moliies Animal Toys Skeleton Simulation Model Set Mini Figura de Acción Jurásico Decoración de Fiesta de Halloween Niños Niños'
+slug: 'B081S2CL9W-es Moliies Animal Toys Skeleton Simulation Model Set Mini...'
+tags: 
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

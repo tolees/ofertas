@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+p3iXqB-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001FFL3ZU-es Weider Victory Endurance  Amino Recovery - 120 Capsulas'
+slug: 'B001FFL3ZU-es Weider Victory Endurance Amino Recovery - 120 Capsulas'
+tags: 
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

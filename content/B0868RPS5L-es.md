@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313xSQ5HJzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868RPS5L-es DeoMeat 2 mm HSS Acero de Alta Velocidad a 3 mm dañado Tornillo Extractor Remover'
+slug: 'B0868RPS5L-es DeoMeat 2 mm HSS Acero de Alta Velocidad a 3 mm dañado...'
+tags: 
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

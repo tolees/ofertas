@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+OMmha+QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XGRGR6-es SATECHI Adaptador Multi-Puertos Tipo-C Delgado con Ethernet – 4K HDMI  Gigabit Ethernet  Cargador USB-C PD – Compatible con 2020/2019/2018 MacBook Pro  2020/2018 MacBook Air  Microsoft Laptop 3'
+slug: 'B083XGRGR6-es SATECHI Adaptador Multi-Puertos Tipo-C Delgado con...'
+tags: 
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

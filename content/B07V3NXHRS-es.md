@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EH-aL2E2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3NXHRS-es Triumph Amourette Charm W Sujetador con Aros  Azul  Peacock 1512   90B  Talla del Fabricante: 75B  para Mujer'
+slug: 'B07V3NXHRS-es Triumph Amourette Charm W Sujetador con Aros Azul Peacock...'
+tags: 
 actualPrice: 29.84 EUR
 currency: EUR
 price: 29.84

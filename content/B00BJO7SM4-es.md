@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wcyYsroeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BJO7SM4-es Folat  Guirnalda "Fanática del Fútbol"  Ø 22 cm y longitud 10 metros   color/modelo surtido'
+slug: 'B00BJO7SM4-es Folat Guirnalda "Fanática del Fútbol" Ø 22 cm y longitud...'
+tags: 
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

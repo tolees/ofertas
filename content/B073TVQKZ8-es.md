@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DxwO05z+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073TVQKZ8-es Maxesla Mini Bomba de Agua Ultra Silencioso 220 GPH  1000L/H  Bomba Sumergible 21W Bomba de Circulación para Pecera Acuario Jardín  Estanque  Fuente'
+slug: 'B073TVQKZ8-es Maxesla Mini Bomba de Agua Ultra Silencioso 220 GPH...'
+tags: 
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

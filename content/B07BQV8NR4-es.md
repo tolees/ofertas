@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GGvWBmKjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQV8NR4-es New Balance Fuel Core NERGIZE  Zapatillas Deportivas para Interior para Mujer  Rosa  Cashmere/Munsell Pearlized White Hp1   41.5 EU'
+slug: 'B07BQV8NR4-es New Balance Fuel Core NERGIZE Zapatillas Deportivas para...'
+tags: 
 actualPrice: 31.62 EUR
 currency: EUR
 price: 31.62

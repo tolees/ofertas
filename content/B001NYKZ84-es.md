@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412t5r87ogL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B001NYKZ84-es Reebok Classic Leather Zapatillas  Mujer  Negro  Int / Black   38 EU'
+slug: 'B001NYKZ84-es Reebok Classic Leather Zapatillas Mujer Negro Int / Black...'
+tags: 
 actualPrice: 43.49 EUR
 currency: EUR
 price: 43.49

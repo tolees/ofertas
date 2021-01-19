@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314t-kKeq1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EO4R8IA-es Philips myBathroom Pool - Plafón  casquillo E27  luz blanca  forma redonda  bombilla fluorescente  color blanco'
+slug: 'B00EO4R8IA-es Philips myBathroom Pool - Plafón casquillo E27 luz blanca...'
+tags: 
 actualPrice: 36.87 EUR
 currency: EUR
 price: 36.87

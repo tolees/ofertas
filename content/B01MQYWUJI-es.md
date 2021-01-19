@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wHJ1osF7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQYWUJI-es DAONLY Levadura Cerveza fortalece el Cabello y Evita la caida de Pelo en Perros'
+slug: 'B01MQYWUJI-es DAONLY Levadura Cerveza fortalece el Cabello y Evita la...'
+tags: 
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

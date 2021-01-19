@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31XURd-BdGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVDGDG1-es Under Armour UA W TriBase Reign  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White/White  001  001   41 EU'
+slug: 'B07CVDGDG1-es Under Armour UA W TriBase Reign Zapatillas Deportivas para...'
+tags: 
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HDsSForTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYR17PL-es TOSING Despertador luces Lámpara de sueño Reloj Altavoz Bluetooth para niños/adultos Durmiente pesado  Sonidos de la naturaleza Luces LED/Snooze/5 Brillo Lámpara de ayuda para dormir  Blanco '
+slug: 'B07ZYR17PL-es TOSING Despertador luces Lámpara de sueño Reloj Altavoz...'
+tags: 
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UUJlPbwvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E0IVZM0-es Bosch 2607017180 - Atornillador manual con puntas de atornillar'
+slug: 'B00E0IVZM0-es Bosch 2607017180 - Atornillador manual con puntas de...'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

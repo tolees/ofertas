@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HSA40CavL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PY7BQNP-es JOJOR Cuerda para Saltar Ajustable para Niños y Adultos Cuerda de con Mangos Cómodos y Contador  Azul '
+slug: 'B07PY7BQNP-es JOJOR Cuerda para Saltar Ajustable para Niños y Adultos...'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

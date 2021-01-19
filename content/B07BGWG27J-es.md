@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317r4QzlTDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGWG27J-es Balay 3CG5172B0 Integrado -  Microondas integrable / encastre con grill  800 W / 1000 W   color blanco'
+slug: 'B07BGWG27J-es Balay 3CG5172B0 Integrado - Microondas integrable /...'
+tags: 
 actualPrice: 205.0 EUR
 currency: EUR
 price: 205.0

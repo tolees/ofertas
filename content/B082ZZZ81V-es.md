@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZvqpYdusL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082ZZZ81V-es 2PCS Dispensador de pulverizador Oliva Aceite 100ml  Rociador de vinagre  Botella de Vidrio para cocinar/Ensalada/Hornear Pan/BBQ/Cocina'
+slug: 'B082ZZZ81V-es 2PCS Dispensador de pulverizador Oliva Aceite 100ml...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jEzy5kfsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9R9QPG-es SunneSolar - Panel Solar de Policristalino con 60 células 280W 24V ideal para vivienda habitual chalets e instalaciones en casas de campo. Fabricado en Europa'
+slug: 'B07V9R9QPG-es SunneSolar - Panel Solar de Policristalino con 60 células...'
+tags: 
 actualPrice: 125.52 EUR
 currency: EUR
 price: 125.52

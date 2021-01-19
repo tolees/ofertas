@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5121sVS6y0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07575WFLT-es Garmin Forerunner 30 - Reloj de carrera con GPS y sensor de frecuencia cardiaca en la muñeca  Morado  Amethyst '
+slug: 'B07575WFLT-es Garmin Forerunner 30 - Reloj de carrera con GPS y sensor...'
+tags: 
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

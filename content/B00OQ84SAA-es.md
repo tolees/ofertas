@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411RvXVnfJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OQ84SAA-es Vaseline Essential Moisture Cocoa Radiant Lotion 200ml Pack of 3'
+slug: 'B00OQ84SAA-es Vaseline Essential Moisture Cocoa Radiant Lotion 200ml...'
+tags: 
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

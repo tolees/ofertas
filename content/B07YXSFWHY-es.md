@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51w0Cqv+x9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXSFWHY-es LolaPix Cartera Personalizada con tu Foto/Diseño/Texto. Regalo Original y Exclusivo. Tejido en Cartera Símil Piel. Smartphone'
+slug: 'B07YXSFWHY-es LolaPix Cartera Personalizada con tu Foto/Diseño/Texto....'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318N4f5wIrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079HJRCD2-es Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Cuero MK2741'
+slug: 'B079HJRCD2-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410zaE3bDGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2F3LFC-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Piel FS5503'
+slug: 'B07N2F3LFC-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 94.0 EUR
 currency: EUR
 price: 94.0

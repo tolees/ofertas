@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TRgyOQb5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFXK29K-es PUMA Vikky Platform Glitz Jr  Zapatillas para Niñas  Bridal Rose-Bridal Rose  38 EU'
+slug: 'B07KFXK29K-es PUMA Vikky Platform Glitz Jr Zapatillas para Niñas Bridal...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

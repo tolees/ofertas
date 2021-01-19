@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tsK9S3vXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NYYXPR-es DOHUI Funda Samsung Galaxy S20 5G UW  2 en 1 Robusta Carcasa Híbrida TPU + PC de Doble Capa Anti-arañazos Caso con Soporte para Samsung Galaxy S20 5G UW  Negro '
+slug: 'B089NYYXPR-es DOHUI Funda Samsung Galaxy S20 5G UW 2 en 1 Robusta...'
+tags: 
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

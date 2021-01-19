@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XDlDnFGzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHW9LP5-es Columbia Ivo Trail  Zapatillas para Hombre  Verde  Peatmoss  Rich 213   42.5 EU'
+slug: 'B07JHW9LP5-es Columbia Ivo Trail Zapatillas para Hombre Verde Peatmoss...'
+tags: 
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

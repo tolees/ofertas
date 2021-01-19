@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WbheMUCBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCNG0HM-es Tomshine 16 pcs Luz Foco Empotrable al Suelo  IP67 Impermeable Alta Brillante para Escalera Patio Jardín Sauna Cuarto de Baño Blanco Cálido'
+slug: 'B01NCNG0HM-es Tomshine 16 pcs Luz Foco Empotrable al Suelo IP67...'
+tags: 
 actualPrice: 34.39 EUR
 currency: EUR
 price: 34.39

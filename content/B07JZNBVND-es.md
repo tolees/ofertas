@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31f95O+dpGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZNBVND-es 28 Palms Tropical Hawaiian Print Halter Shift Dress  Black/Blue Midnight  US  EU XS-S '
+slug: 'B07JZNBVND-es 28 Palms Tropical Hawaiian Print Halter Shift Dress...'
+tags: 
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dRySFLobL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5H6N6W-es Salomon ALPHACROSS Blast  Zapatillas de Trail Running para Hombre  Color: Azul  Ashley Blue/Ebony/Ashley Blue   44 EU'
+slug: 'B07Z5H6N6W-es Salomon ALPHACROSS Blast Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 63.49 EUR
 currency: EUR
 price: 63.49

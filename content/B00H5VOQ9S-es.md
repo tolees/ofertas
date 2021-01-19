@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AkYfGp4LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H5VOQ9S-es Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto  Azul  933 Navy   42 EU'
+slug: 'B00H5VOQ9S-es Superga 2790Cotw Linea Up And Down Zapatillas Unisex...'
+tags: 
 actualPrice: 42.47 EUR
 currency: EUR
 price: 42.47

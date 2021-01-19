@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDL4Z5K-es Pulsar Reloj de Pulsera PZ4035X1'
+tags: 
 actualPrice: 101.3 EUR
 currency: EUR
 price: 101.3

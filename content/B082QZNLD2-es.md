@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zgSpMPVBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082QZNLD2-es Pulsera de Actividad Inteligente  IP67 Impermeable Reloj Inteligente Pulsera Actividad Inteligente para Deporte  Reloj de Fitness con Podómetro Smartwatch-BL12'
+slug: 'B082QZNLD2-es Pulsera de Actividad Inteligente IP67 Impermeable Reloj...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

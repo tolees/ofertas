@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jqBSYv2sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRJH2JM-es Tirol Nuevo Espejo ajustable para el asiento trasero del automóvil Bebé mirando hacia atrás Vista trasera del reposacabezas Montura del espejo cuadrado Seguridad para bebés Monitor para niños - Negro'
+slug: 'B07ZRJH2JM-es Tirol Nuevo Espejo ajustable para el asiento trasero del...'
+tags: 
 actualPrice: 3.31 EUR
 currency: EUR
 price: 3.31

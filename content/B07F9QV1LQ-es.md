@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cvr9rvmJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9QV1LQ-es Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK6587'
+slug: 'B07F9QV1LQ-es Michael Kors Reloj Analógico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 163.44 EUR
 currency: EUR
 price: 163.44

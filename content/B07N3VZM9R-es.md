@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o5Ram9gTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3VZM9R-es Desigual Scarves TARS Bufanda  Blanco  Crudo 1001   Talla única para Mujer'
+slug: 'B07N3VZM9R-es Desigual Scarves TARS Bufanda Blanco Crudo 1001 Talla...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

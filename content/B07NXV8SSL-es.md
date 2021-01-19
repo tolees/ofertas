@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Xk2BrHaxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXV8SSL-es San Ignacio Navy Black Set de 3 sartenes + 4 recipientes herméticos + 3 Utensilios de Cocina  Aluminio Prensado  Negro'
+slug: 'B07NXV8SSL-es San Ignacio Navy Black Set de 3 sartenes + 4 recipientes...'
+tags: 
 actualPrice: 42.61 EUR
 currency: EUR
 price: 42.61

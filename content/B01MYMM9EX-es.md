@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RHaD6mMyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYMM9EX-es L Oreal Paris Colorista Coloración Temporal Colorista Spray - Pink Hair'
+slug: 'B01MYMM9EX-es L Oreal Paris Colorista Coloración Temporal Colorista...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nAkS4JPML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2BD1NW-es Superdry OL Elite Joggers Pantalones de Deporte  Negro  Black 02a   XS  Talla del Fabricante:8  para Mujer'
+slug: 'B07P2BD1NW-es Superdry OL Elite Joggers Pantalones de Deporte Negro...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

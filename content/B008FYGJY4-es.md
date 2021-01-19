@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tGYPxifDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008FYGJY4-es Calvin Klein Reloj Analógico de Cuarzo para Hombre con Correa de Acero Inoxidable – K3M21124'
+slug: 'B008FYGJY4-es Calvin Klein Reloj Analógico de Cuarzo para Hombre con...'
+tags: 
 actualPrice: 101.69 EUR
 currency: EUR
 price: 101.69

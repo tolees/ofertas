@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+8dWVWT2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NL4ZHHM-es Lenovo ideapad 530S-15IKB Ordenador Portátil 15.6" FullHD  Intel Core i7-8550U  RAM de 8GB  512GB SSD  Intel Graphics  Windows 10  Gris - Teclado QWERTY Español'
+slug: 'B07NL4ZHHM-es Lenovo ideapad 530S-15IKB Ordenador Portátil 15.6" FullHD...'
+tags: 
 actualPrice: 799.99 EUR
 currency: EUR
 price: 799.99

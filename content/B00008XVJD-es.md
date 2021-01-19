@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31--46vyZuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00008XVJD-es WMF Profi Plus Tenedor para Carne  Acero Inoxidable Pulido'
+slug: 'B00008XVJD-es WMF Profi Plus Tenedor para Carne Acero Inoxidable Pulido'
+tags: 
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

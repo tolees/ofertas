@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DIVynEudL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY6GUPR-es Petdentist polvo probiótico para perros y gatos con 17 cepas bacterianas beneficiosas Ayuda a la inmunidad a la digestión La salud dental incluye 73 millones de bacterias buenas por porción'
+slug: 'B01LY6GUPR-es Petdentist polvo probiótico para perros y gatos con 17...'
+tags: 
 actualPrice: 36.36 EUR
 currency: EUR
 price: 36.36

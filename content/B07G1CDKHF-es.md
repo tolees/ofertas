@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KBJ7Q1qfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1CDKHF-es ghd curve classic curl - Tenacilla profesional con barril de 26mm  ultra-zone'
+slug: 'B07G1CDKHF-es ghd curve classic curl - Tenacilla profesional con barril...'
+tags: 
 actualPrice: 130.99 EUR
 currency: EUR
 price: 130.99

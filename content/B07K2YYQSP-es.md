@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/510qCG4dgOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2YYQSP-es SmugPets - 315 Bolsas biodegradables para excrementos - Extragrandes y sin Perfume - 15 Bolsas/Rollo'
+slug: 'B07K2YYQSP-es SmugPets - 315 Bolsas biodegradables para excrementos -...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

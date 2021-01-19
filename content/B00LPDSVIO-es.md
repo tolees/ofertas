@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dJEIy5IFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LPDSVIO-es AUNA MG-TT-82B - estéreo  Tocadiscos  accionamiento por Correa  máx. 45 RPM  Altavoces estéreo  diseño de los años 50  Play/Stop automático  sintonizador de Radio  Receptor de FM  Negro'
+slug: 'B00LPDSVIO-es AUNA MG-TT-82B - estéreo Tocadiscos accionamiento por...'
+tags: 
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

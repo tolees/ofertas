@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41izVKT0nrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757ZNMK7-es find. Skinny Jeans  Azul  Indigo Raw   W30/L32'
+slug: 'B0757ZNMK7-es find. Skinny Jeans Azul Indigo Raw W30/L32'
+tags: 
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

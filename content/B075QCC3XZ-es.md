@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U3c7AajRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QCC3XZ-es Hewlett Packard CF543X - Tóner  color Magenta'
+slug: 'B075QCC3XZ-es Hewlett Packard CF543X - Tóner color Magenta'
+tags: 
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

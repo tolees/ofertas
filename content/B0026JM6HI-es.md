@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JCPvlvdjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0026JM6HI-es Calvin Klein Seductive Comfort-Customized Lift Sujetador  Beige   I45 Dune   70D para Mujer'
+slug: 'B0026JM6HI-es Calvin Klein Seductive Comfort-Customized Lift Sujetador...'
+tags: 
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VlbVaj4zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IQ8BH0A-es Astralpool 11390 Floculante en Cartuchos para Piscinas  Blanco  10x20x7 cm'
+slug: 'B00IQ8BH0A-es Astralpool 11390 Floculante en Cartuchos para Piscinas...'
+tags: 
 actualPrice: 18.84 EUR
 currency: EUR
 price: 18.84

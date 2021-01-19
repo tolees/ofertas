@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417OIJ01slL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M72GCIU-es Cole Haan Herren Zerogrand Stitchlite Oxfords  Grau  Ironstone Irnstn Knit/Ivory   40 EU'
+slug: 'B01M72GCIU-es Cole Haan Herren Zerogrand Stitchlite Oxfords Grau...'
+tags: 
 actualPrice: 20.82 EUR
 currency: EUR
 price: 20.82

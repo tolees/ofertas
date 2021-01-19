@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CPuE5s-6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FKEBI4C-es Polar A360 - Pulsómetro  Color Blanco  Talla M'
+slug: 'B01FKEBI4C-es Polar A360 - Pulsómetro Color Blanco Talla M'
+tags: 
 actualPrice: 112.03 EUR
 currency: EUR
 price: 112.03

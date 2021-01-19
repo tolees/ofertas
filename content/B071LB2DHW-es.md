@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418AomlDleL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LB2DHW-es Mesa auxiliar de cama plegable  reclinable y con ruedas y freno color blanco'
+slug: 'B071LB2DHW-es Mesa auxiliar de cama plegable reclinable y con ruedas y...'
+tags: 
 actualPrice: 73.92 EUR
 currency: EUR
 price: 73.92

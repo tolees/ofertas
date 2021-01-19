@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51c3he9VWcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2JGGM3-es Tvird Máscara de Buceo  Máscara de Snorkel 180 ° Vista Panorámica  Anti-Vaho Anti-Fugas Mascara de Buceo Doble Vía Aérea  Correa Ajustable y Cámara Impermeable Extraíble L/XL-2020 Más Reciente'
+slug: 'B07Q2JGGM3-es Tvird Máscara de Buceo Máscara de Snorkel 180 ° Vista...'
+tags: 
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

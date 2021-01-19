@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YYU2VbU3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QL3TN6-es Tamaño pequeño Jasen Power Splitter Satellite Two Power Splitter Divisor de 2 vías Divisor de Potencia Ligero  Plata'
+slug: 'B083QL3TN6-es Tamaño pequeño Jasen Power Splitter Satellite Two Power...'
+tags: 
 actualPrice: 3.86 EUR
 currency: EUR
 price: 3.86

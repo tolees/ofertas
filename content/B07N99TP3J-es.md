@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JpMHqeTeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N99TP3J-es THE NORTH FACE M Storm Strike 2 WP  Botas de Senderismo para Hombre  Negro TNF Negro Ébano Gris Ca0  40 EU'
+slug: 'B07N99TP3J-es THE NORTH FACE M Storm Strike 2 WP Botas de Senderismo...'
+tags: 
 actualPrice: 39.66 EUR
 currency: EUR
 price: 39.66

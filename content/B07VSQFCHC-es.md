@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iIrV9jstL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSQFCHC-es LUDOS Clamor Auriculares con Micrófono y Cable  Espuma de Memoria Generación  Cable Reforzado  Graves y Control de Volumen para Mi  Xiaomi  iPhone  Samsung  Sony  Huawei'
+slug: 'B07VSQFCHC-es LUDOS Clamor Auriculares con Micrófono y Cable Espuma de...'
+tags: 
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

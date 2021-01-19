@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417RAkezjOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFXG2D2-es PUMA Tarrenz SB  Zapatillas Unisex Adulto  Castlerock Black  40 EU'
+slug: 'B07KFXG2D2-es PUMA Tarrenz SB Zapatillas Unisex Adulto Castlerock Black...'
+tags: 
 actualPrice: 28.56 EUR
 currency: EUR
 price: 28.56

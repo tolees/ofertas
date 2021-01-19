@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X6XMo1lgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IYEESUW-es Einhell TH-CS 1200/1 - Sierra circular  5000 rpm  diámetro de 160 mm  1230 W  230 V  color negro y rojo'
+slug: 'B00IYEESUW-es Einhell TH-CS 1200/1 - Sierra circular 5000 rpm diámetro...'
+tags: 
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

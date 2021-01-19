@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NHIfE-RaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2K3J1Z-es PUMA Axis  Zapatillas Unisex Adulto  Black White  41 EU'
+slug: 'B07F2K3J1Z-es PUMA Axis Zapatillas Unisex Adulto Black White 41 EU'
+tags: 
 actualPrice: 41.15 EUR
 currency: EUR
 price: 41.15

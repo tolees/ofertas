@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g65hrPrWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DS2WBVM-es NIVEA SUN Protege & Hidrata Leche Solar FP50+  1 x 400 ml   protector solar hidratante y resistente al agua con protección UVA/UVB  protección solar muy alta'
+slug: 'B01DS2WBVM-es NIVEA SUN Protege & Hidrata Leche Solar FP50+ 1 x 400 ml...'
+tags: 
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

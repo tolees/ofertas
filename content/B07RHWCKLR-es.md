@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c71k5ccdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHWCKLR-es Columbia Youth Gorra Ajustable para jóvenes  Unisex niños  Gris  City Grey   One Size  Adjustable '
+slug: 'B07RHWCKLR-es Columbia Youth Gorra Ajustable para jóvenes Unisex niños...'
+tags: 
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

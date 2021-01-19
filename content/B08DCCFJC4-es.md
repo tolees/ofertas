@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l5+bJQyZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DCCFJC4-es Jooheli Cámara Digital para Niños  Cámara Infantil con Tarjeta de Memoria Micro SD 32GB Digital Video Cámara Cumpleaños Regalos para Niños y Niñas de 3 a 12 Años  Verde Claro '
+slug: 'B08DCCFJC4-es Jooheli Cámara Digital para Niños Cámara Infantil con...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

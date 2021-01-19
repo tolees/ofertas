@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BJy6NWN4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BZYABSK-es Reebok Classic Leather  Zapatillas de Deporte para Hombre  Negros  43 EU'
+slug: 'B01BZYABSK-es Reebok Classic Leather Zapatillas de Deporte para Hombre...'
+tags: 
 actualPrice: 56.02 EUR
 currency: EUR
 price: 56.02

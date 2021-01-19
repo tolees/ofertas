@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KWOPmQBxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083KLMKCZ-es Scholl Plantillas Gelactiv Uso Diario Hombre + Crema de Pies para Durezas - 2 plantillas  Talla 40-46.5  + Crema 60ml'
+slug: 'B083KLMKCZ-es Scholl Plantillas Gelactiv Uso Diario Hombre + Crema de...'
+tags: 
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

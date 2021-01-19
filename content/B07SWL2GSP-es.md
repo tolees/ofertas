@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518No-i6E4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWL2GSP-es Pack de 56 Dentastix de uso diario para la limpieza dental de perros grandes  Pack de 1 '
+slug: 'B07SWL2GSP-es Pack de 56 Dentastix de uso diario para la limpieza dental...'
+tags: 
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

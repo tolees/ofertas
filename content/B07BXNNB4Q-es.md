@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-UX0NWowL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXNNB4Q-es Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 2010951'
+slug: 'B07BXNNB4Q-es Lacoste Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 73.23 EUR
 currency: EUR
 price: 73.23

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A450PqXrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WT1DNR7-es Onnea 7 Pares de Pendientes con Clip para Ni?as Bebes Flor Animales Unicornio Sirena  Sirena Girasol Fresa '
+slug: 'B07WT1DNR7-es Onnea 7 Pares de Pendientes con Clip para Ni?as Bebes Flor...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

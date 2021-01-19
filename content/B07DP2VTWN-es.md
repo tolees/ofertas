@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51U5x8O0PUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP2VTWN-es Doom Eternal  Windows  - Caja con Código de Descarga'
+slug: 'B07DP2VTWN-es Doom Eternal Windows - Caja con Código de Descarga'
+tags: 
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

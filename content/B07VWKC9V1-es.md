@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YbblAxzHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWKC9V1-es REYLEO Maleta Cabina Rígida 100% Polipropileno Equipaje de Mano con Puerto de Carga USB  Candado TSA  4 Ruedas Silenciosas  57CM - 31.5L   Rojo '
+slug: 'B07VWKC9V1-es REYLEO Maleta Cabina Rígida 100% Polipropileno Equipaje de...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

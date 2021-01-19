@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Oc2nj5UVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPSJTV2-es LAST LEVEL- Figura Pop Warhammer 40K: ULTRAMARINES INTERCESOR  Multicolor  FFK38324 '
+slug: 'B07KPSJTV2-es LAST LEVEL- Figura Pop Warhammer 40K: ULTRAMARINES...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

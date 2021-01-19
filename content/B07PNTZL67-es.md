@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410xrngy0JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNTZL67-es TZLong Sofá Hinchable con reposapiés otomano y Bomba eléctrica  Sillon Hinchable Puff Inflable Relajante Tumbona Hinchable Sillón portátil para la Siesta  el hogar y los Viajes'
+slug: 'B07PNTZL67-es TZLong Sofá Hinchable con reposapiés otomano y Bomba...'
+tags: 
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

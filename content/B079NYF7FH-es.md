@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314lUsqRg0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NYF7FH-es Hapilife Grifo Cocina Momomando de Encimera Fregadero Estilo Retro Estético 360 Giratorio Cromado Elegante Inoxidable Anti-ruido'
+slug: 'B079NYF7FH-es Hapilife Grifo Cocina Momomando de Encimera Fregadero...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

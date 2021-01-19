@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JYOhBcB2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SY9CW9Z-es Roxy Happy At Home-Mochila Mediana para Chicas 8-16  Niñas  Anthracite s Crystal Flower  1SZ'
+slug: 'B07SY9CW9Z-es Roxy Happy At Home-Mochila Mediana para Chicas 8-16 Niñas...'
+tags: 
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416uzr+y3hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X4PG5F7-es Eastpak Springer Riñonera  23 cm  2 L  Gris  Melange Print V '
+slug: 'B07X4PG5F7-es Eastpak Springer Riñonera 23 cm 2 L Gris Melange Print V'
+tags: 
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

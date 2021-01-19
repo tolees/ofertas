@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WTA2GNPHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CGP75BQ-es AYIYO - Pantalones cortos para bebé  niños y niñas  mezcla de lino y algodón suave  con volantes de 0-3T Verde verde 6-12 Meses'
+slug: 'B08CGP75BQ-es AYIYO - Pantalones cortos para bebé niños y niñas mezcla...'
+tags: 
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

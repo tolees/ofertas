@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e5j7QbBQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0844MR7HT-es adidas bolsita  Azul'
+slug: 'B0844MR7HT-es adidas bolsita Azul'
+tags: 
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

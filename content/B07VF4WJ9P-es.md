@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31H1cgElW2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VF4WJ9P-es mama stadt Peluca de Cosplay  Peluca para Adultos y Niños  Pelucas para Carnaval Halloween Fiesta de Disfraces'
+slug: 'B07VF4WJ9P-es mama stadt Peluca de Cosplay Peluca para Adultos y Niños...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

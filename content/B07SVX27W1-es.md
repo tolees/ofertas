@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UhgJbHbjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVX27W1-es ORICO Funda para Disco Duro con Asa  Impermeable  Resistente al Desgaste Bolsa de Almacenamiento Digital（19 * 15 * 5cm）'
+slug: 'B07SVX27W1-es ORICO Funda para Disco Duro con Asa Impermeable Resistente...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

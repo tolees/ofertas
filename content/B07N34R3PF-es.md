@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TfWyCIjhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N34R3PF-es Diesel Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable DZ7421'
+slug: 'B07N34R3PF-es Diesel Reloj Analogico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 262.22 EUR
 currency: EUR
 price: 262.22

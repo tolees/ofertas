@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410byOW6EGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUNT1CI-es Uuhome Maletín Vacío para Maquillaje Portátil Impermeable Caja Estuche Organizador Naceser de Viaje Cosmético para Mujer con Separadores Rígidos Ajustables Tamaño Grande Negro'
+slug: 'B01MUNT1CI-es Uuhome Maletín Vacío para Maquillaje Portátil Impermeable...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

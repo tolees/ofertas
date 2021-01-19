@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51loodpXI4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM5JQ25-es HyAdierTech Cucharas Siliconas Bebé  2 Piezas Cucharillas de Silicona Suaves de Bebe  Utensilios de la Serie de Entrenamiento Cuchara para Bebés Antideslizante Facilidad Manija'
+slug: 'B07RM5JQ25-es HyAdierTech Cucharas Siliconas Bebé 2 Piezas Cucharillas...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

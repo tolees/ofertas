@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gLvabaMyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077T6Z7HT-es Panasonic RP-HTX80BE-R Auriculares Bluetooth Diadema  24 h de Reproducción  Micrófono y Manos Libres  Hi-Fi Sonido  Cascos Inalámbricos  Carga Rápida  Cascos Diadema Premium Moviles  TV  PC  Borgoña'
+slug: 'B077T6Z7HT-es Panasonic RP-HTX80BE-R Auriculares Bluetooth Diadema 24 h...'
+tags: 
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

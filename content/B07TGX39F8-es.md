@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/512JxfaBxGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TGX39F8-es Finocam - Agenda 2020 1 día página Espiral Futura Gris Oscuro español'
+slug: 'B07TGX39F8-es Finocam - Agenda 2020 1 día página Espiral Futura Gris...'
+tags: 
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

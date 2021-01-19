@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pF3CdEIwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYQB7G-es Clarks Un Maui Strap  Zapatillas para Mujer  Azul  Blush Leather Blush Leather   41 EU'
+slug: 'B07TPYQB7G-es Clarks Un Maui Strap Zapatillas para Mujer Azul Blush...'
+tags: 
 actualPrice: 31.7 EUR
 currency: EUR
 price: 31.7

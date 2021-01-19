@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZkPFlLnLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O8ZWTA2-es H.Koenig TRT180 Tart Express  1800 W  Acero Inoxidable  Rojo'
+slug: 'B00O8ZWTA2-es H.Koenig TRT180 Tart Express 1800 W Acero Inoxidable Rojo'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

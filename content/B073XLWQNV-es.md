@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bAesTsEuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XLWQNV-es Youngdo 1 Par Muñequeras Deportivas Ajustables más Anchas y Gruesas Soportes de muñeca para Izquierda y Derecha para Padel  Deportes  Trabajo  Uso Diario  Dolores de Muñecas Negro  SM/MD  12.7-18 CM  '
+slug: 'B073XLWQNV-es Youngdo 1 Par Muñequeras Deportivas Ajustables más Anchas...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

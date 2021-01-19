@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412eL4ZGmoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FD9K3FT-es Cortapelos para Hombres  Juego de Recortador Eléctrico sin Cable con Batería de Litio Recargable  Pantalla LED  Base de Carga  con Aceite de peluquería  PC1010'
+slug: 'B07FD9K3FT-es Cortapelos para Hombres Juego de Recortador Eléctrico sin...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

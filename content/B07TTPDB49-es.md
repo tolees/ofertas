@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I9gqOtR6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTPDB49-es KiplingAbanu MultiMujerBolsos bandoleraNegro  Black Noir 19x13x8 Centimeters  B x H x T '
+slug: 'B07TTPDB49-es KiplingAbanu MultiMujerBolsos bandoleraNegro Black Noir...'
+tags: 
 actualPrice: 33.7 EUR
 currency: EUR
 price: 33.7

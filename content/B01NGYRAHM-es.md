@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NGYRAHM-es Car&Gus Disfraz de Africano para Hombre'
+tags: 
 actualPrice: 21.34 EUR
 currency: EUR
 price: 21.34

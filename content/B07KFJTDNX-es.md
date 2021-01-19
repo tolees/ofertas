@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h8YWzBEPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFJTDNX-es G-Star Raw Dunda Slim Polo S\\s  sartho blue 6067  Large para Hombre'
+slug: 'B07KFJTDNX-es G-Star Raw Dunda Slim Polo S\\s sartho blue 6067 Large...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

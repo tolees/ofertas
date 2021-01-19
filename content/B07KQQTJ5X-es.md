@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41int119hLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQQTJ5X-es Salomon ALPHACROSS GTX W  Zapatillas de Trail Running para Mujer  Rojo  Garnet Rose/White/Gum1a   44 EU'
+slug: 'B07KQQTJ5X-es Salomon ALPHACROSS GTX W Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 36.7 EUR
 currency: EUR
 price: 36.7

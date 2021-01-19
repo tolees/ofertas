@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ljm25XRML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTVRO6-es G-STAR RAW Rovic Zip 3D Tapered  Pantalones para Hombre  Gris  Gs Grey 1260   W40/L32'
+slug: 'B01BGTVRO6-es G-STAR RAW Rovic Zip 3D Tapered Pantalones para Hombre...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

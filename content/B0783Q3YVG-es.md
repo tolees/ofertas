@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iAbDOz1EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0783Q3YVG-es PUMA ST RUNNER V2 NL  Zapatillas Unisex adulto  Negro Black White  38.5 EU'
+slug: 'B0783Q3YVG-es PUMA ST RUNNER V2 NL Zapatillas Unisex adulto Negro Black...'
+tags: 
 actualPrice: 33.76 EUR
 currency: EUR
 price: 33.76

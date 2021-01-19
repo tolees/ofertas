@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314Do4kj14L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FL36YNH-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Cerámica 1781957'
+slug: 'B07FL36YNH-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 121.6 EUR
 currency: EUR
 price: 121.6

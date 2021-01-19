@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RE71UmtTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0832GG6DT-es Yoowei Funda para Xiaomi Air 2  3in1 Silicona Funda + Cable de Auriculares + Gancho de Msetal  Protectora para Auriculares Estuche en Lavanda Gris para Xiaomi AirDots Pro 2'
+slug: 'B0832GG6DT-es Yoowei Funda para Xiaomi Air 2 3in1 Silicona Funda + Cable...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

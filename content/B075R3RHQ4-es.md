@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dNyzvFa3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R3RHQ4-es New Balance Trail Kaymin Gore Tex  Zapatillas de Running para Asfalto para Mujer  Negro  Black/Grey Black/Grey   37 EU'
+slug: 'B075R3RHQ4-es New Balance Trail Kaymin Gore Tex Zapatillas de Running...'
+tags: 
 actualPrice: 47.7 EUR
 currency: EUR
 price: 47.7

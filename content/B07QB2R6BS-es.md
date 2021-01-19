@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518m1l15LqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB2R6BS-es Lámparas de Mesa Lampop LED Luz Mesita de Noche Lámpara Mesita de Noche Para Dormitorio  Estudio  Salon  Habitación de Bebé'
+slug: 'B07QB2R6BS-es Lámparas de Mesa Lampop LED Luz Mesita de Noche Lámpara...'
+tags: 
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

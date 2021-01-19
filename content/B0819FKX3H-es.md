@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hIeXpZ3CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0819FKX3H-es PUTORSEN® Soporte TV de Pared para la Mayoría de los Televisores LED  LCD  OLED  Plasma Plana y Curvada de 32-55 Pulgadas - Soporte de TV con VESA Máxima de 400x400mm Peso de hasta 40kg'
+slug: 'B0819FKX3H-es PUTORSEN® Soporte TV de Pared para la Mayoría de los...'
+tags: 
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

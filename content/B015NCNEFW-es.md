@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/614RYgCc5VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015NCNEFW-es DCCN Carcasa para portátiles Alfombrilla de ratón de Neopreno Impermeable 2 en 1 para Pantallas de 15-15.6"; Adecuado para laptops  computadoras portátiles  ultrabooks  MacBooks  ECCs.'
+slug: 'B015NCNEFW-es DCCN Carcasa para portátiles Alfombrilla de ratón de...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

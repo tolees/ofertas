@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515YUebK9qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B1W4WT-es Fallout Wasteland Warfare Institute Core Box Juego de miniaturas'
+slug: 'B081B1W4WT-es Fallout Wasteland Warfare Institute Core Box Juego de...'
+tags: 
 actualPrice: 24.47 EUR
 currency: EUR
 price: 24.47

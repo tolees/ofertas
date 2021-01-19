@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kNCuzkizL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002GT7Y0M-es Bosch T-Disc - Pieza de Repuesto para Tassimo T20  Color Amarillo'
+slug: 'B002GT7Y0M-es Bosch T-Disc - Pieza de Repuesto para Tassimo T20 Color...'
+tags: 
 actualPrice: 2.53 EUR
 currency: EUR
 price: 2.53

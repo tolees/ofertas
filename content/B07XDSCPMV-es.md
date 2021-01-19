@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NCOhw4%2BYL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDSCPMV-es UMIDIGI Reloj Inteligente Pulsera Actividad con Pulsómetro Mujer Hombre Monitor de Actividad Deportiva Ritmo Cardíaco Impermeable IP67 Reloj Fitness con Dos Correas Pulsera Deporte [Rosa]'
+slug: 'B07XDSCPMV-es UMIDIGI Reloj Inteligente Pulsera Actividad con Pulsómetro...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

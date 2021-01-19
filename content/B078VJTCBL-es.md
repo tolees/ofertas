@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3153xtp7Q3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078VJTCBL-es ASUS Lyra Mini - Kit de 2 Sistemas Wi-Fi Mesh Doble Banda AC1300 Gigabit  App de gestión  Smart Connect  única Red  compatible con Ai Mesh wifi '
+slug: 'B078VJTCBL-es ASUS Lyra Mini - Kit de 2 Sistemas Wi-Fi Mesh Doble Banda...'
+tags: 
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

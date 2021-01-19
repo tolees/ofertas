@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316roOpdZ0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDDDDQQ-es Samsung Galaxy S10+ - Smartphone de 6.4" QHD+ Curved Dynamic AMOLED  16 MP  Exynos 9820  Wireless & Fast & Reverse Charging  1 TB  Blanco Ceramica  Ceramic White '
+slug: 'B07NDDDDQQ-es Samsung Galaxy S10+ - Smartphone de 6.4" QHD+ Curved...'
+tags: 
 actualPrice: 899.0 EUR
 currency: EUR
 price: 899.0

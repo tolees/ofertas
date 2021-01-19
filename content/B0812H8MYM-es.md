@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NkIFNbHpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0812H8MYM-es Asics JOLT 2 GS  Running Shoe Unisex-Child  Black/Directoire Blue  39 EU'
+slug: 'B0812H8MYM-es Asics JOLT 2 GS Running Shoe Unisex-Child Black/Directoire...'
+tags: 
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

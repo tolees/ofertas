@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nrnklBGCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NRULCM-es Converse Chuck Taylor Hi  Zapatillas Unisex  Blanco  Optical White   40 EU'
+slug: 'B000NRULCM-es Converse Chuck Taylor Hi Zapatillas Unisex Blanco Optical...'
+tags: 
 actualPrice: 45.85 EUR
 currency: EUR
 price: 45.85

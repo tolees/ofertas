@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qDlznCSFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D0BREKE-es Conjunto de Muebles Poli Ratán para Jardín Terraza Patio - 3 Cojines Blancos 1 Mesa de Café 1 Sofá Biplaza 2 Sillas / Negro'
+slug: 'B01D0BREKE-es Conjunto de Muebles Poli Ratán para Jardín Terraza Patio -...'
+tags: 
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

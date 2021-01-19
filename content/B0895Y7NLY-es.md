@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61i6pBrRvsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895Y7NLY-es GREAT ART set de 2 posters XXL – Nueva York Graffiti - City & Comic Street Art USA Gran Manzana rascacielos East River deoración para la habitación de niños deco de pared  140 x 100cm '
+slug: 'B0895Y7NLY-es GREAT ART set de 2 posters XXL – Nueva York Graffiti -...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

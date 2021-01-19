@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nrWThHBfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FD95R8N-es BLEND 20708180 Polo  Rojo  Mineral Red 73817   X-Large para Hombre'
+slug: 'B07FD95R8N-es BLEND 20708180 Polo Rojo Mineral Red 73817 X-Large para...'
+tags: 
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

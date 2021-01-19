@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OZX2+-7fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJH5YBF-es Tamaris 1-1-25561-23  Botas Altas para Mujer  Rojo  Vino 558   37 EU'
+slug: 'B07NJH5YBF-es Tamaris 1-1-25561-23 Botas Altas para Mujer Rojo Vino 558...'
+tags: 
 actualPrice: 26.08 EUR
 currency: EUR
 price: 26.08

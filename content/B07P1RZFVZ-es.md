@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MvsrnJR8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P1RZFVZ-es Alambre de soldadura sin plomo 0.8mm Hilo de estaño para soldar Con núcleo de colofonia cable 100g 97Sn 2Colofonia 0 3Ag 0 7Cu '
+slug: 'B07P1RZFVZ-es Alambre de soldadura sin plomo 0.8mm Hilo de estaño para...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

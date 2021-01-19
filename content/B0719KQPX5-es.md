@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ILtClXFzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719KQPX5-es Funko - POP! Bobble Colección Star Wars - Figura Porg  14742    color/modelo surtido'
+slug: 'B0719KQPX5-es Funko - POP! Bobble Colección Star Wars - Figura Porg...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AGuSHk0ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6SYHPL-es MODAUTO Estructura para Videojuego  Estructura Simulador de Conducción con Asiento SemiBaquet Ajustable  de Tela  Modelo N810B-N300  Color Negro y Costura Roja'
+slug: 'B07D6SYHPL-es MODAUTO Estructura para Videojuego Estructura Simulador de...'
+tags: 
 actualPrice: 270.0 EUR
 currency: EUR
 price: 270.0

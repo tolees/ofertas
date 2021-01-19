@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EwHppC5CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086SXX8D2-es ZHBRE Humidificador de 400 ml de Gran Capacidad  Apagado automático sin Agua con luz Nocturna para el hogar  Dormitorio para bebés  Oficina  Blanco'
+slug: 'B086SXX8D2-es ZHBRE Humidificador de 400 ml de Gran Capacidad Apagado...'
+tags: 
 actualPrice: 39.52 EUR
 currency: EUR
 price: 39.52

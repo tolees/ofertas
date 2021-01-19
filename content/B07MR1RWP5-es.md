@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ECf2Sja%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR1RWP5-es Skechers Go Run Focus-Athos  Zapatillas para Hombre  Negro  Black Textile/Blue Trim Bkbl   42 EU'
+slug: 'B07MR1RWP5-es Skechers Go Run Focus-Athos Zapatillas para Hombre Negro...'
+tags: 
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

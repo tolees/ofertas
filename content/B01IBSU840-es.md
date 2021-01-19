@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51M2hmiGXyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IBSU840-es Bishilin Acero Inoxidable 6Mm Wedding Anillos de Compromiso Parejas Juego Mujeres Talla 9 5 & Hombres Talla 22'
+slug: 'B01IBSU840-es Bishilin Acero Inoxidable 6Mm Wedding Anillos de...'
+tags: 
 actualPrice: 26.94 EUR
 currency: EUR
 price: 26.94

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21AxrNEYzoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088ZTPM4J-es P Prettyia Película Protectora De Pantalla Templada Anti-Aceite De 0.3 Mm con Herramientas para Teclast T30'
+slug: 'B088ZTPM4J-es P Prettyia Película Protectora De Pantalla Templada Anti-...'
+tags: 
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

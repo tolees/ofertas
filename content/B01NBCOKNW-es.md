@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315lqG9p5IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBCOKNW-es Tommy Hilfiger Iconic Slip on Sneaker  Zapatillas para Hombre  Negro  Black 990   44 EU'
+slug: 'B01NBCOKNW-es Tommy Hilfiger Iconic Slip on Sneaker Zapatillas para...'
+tags: 
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31y11X7Z7sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDDC46Y-es N300 Repetidor Extensor de Red WiFi Enrutador Inalámbrico Señal Amplificador Modo Extensor/Mini Ap/Router Modem Dos Antenas  2.4GHz  Modo Multi  fácil de Usar  2 Puertos LAN/WAN  WPS '
+slug: 'B07BDDC46Y-es N300 Repetidor Extensor de Red WiFi Enrutador Inalámbrico...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YuzTD6iML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CHNV3S-es LNIEGE - Asiento de Seguridad para Coche con Ventosa Interior y Espejo retrovisor para bebé  Cuidado de Cara Trasera para niños  Seguro e inastillable'
+slug: 'B081CHNV3S-es LNIEGE - Asiento de Seguridad para Coche con Ventosa...'
+tags: 
 actualPrice: 2.43 EUR
 currency: EUR
 price: 2.43

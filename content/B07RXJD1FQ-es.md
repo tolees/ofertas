@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419RoOqzWkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXJD1FQ-es New Balance 997H h  Zapatillas para Hombre  Amarillo  Yellow Hbr   47.5 EU'
+slug: 'B07RXJD1FQ-es New Balance 997H h Zapatillas para Hombre Amarillo Yellow...'
+tags: 
 actualPrice: 53.12 EUR
 currency: EUR
 price: 53.12

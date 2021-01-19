@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AH6K8yduL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4RY6JT-es BOSS Prime Polo  Azul  Light/Pastel Blue 456   Large para Hombre'
+slug: 'B07K4RY6JT-es BOSS Prime Polo Azul Light/Pastel Blue 456 Large para Hombre'
+tags: 
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

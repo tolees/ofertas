@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419jZtAevfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007TS6GI6-es Arcos Universal - Set de 2 Cuchillos  Negro'
+slug: 'B007TS6GI6-es Arcos Universal - Set de 2 Cuchillos Negro'
+tags: 
 actualPrice: 27.48 EUR
 currency: EUR
 price: 27.48

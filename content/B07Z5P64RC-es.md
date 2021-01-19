@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gMsraPvGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5P64RC-es LIGE Relojes Hombre Acero Inoxidable Impermeable Deportes Analógico Cuarzo Reloj Negocios Cronógrafo Relojes Hombre  Steel Green '
+slug: 'B07Z5P64RC-es LIGE Relojes Hombre Acero Inoxidable Impermeable Deportes...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

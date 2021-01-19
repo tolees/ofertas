@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516-aMojPRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FW03BDK-es Philips Stormtrooper - Iluminación infantil LED integrado  0.2 W  con sensor de movimiento  color blanco'
+slug: 'B01FW03BDK-es Philips Stormtrooper - Iluminación infantil LED integrado...'
+tags: 
 actualPrice: 27.52 EUR
 currency: EUR
 price: 27.52

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DHYA809tL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GS8Y2XX-es Yayuu Gear S3 Frontier/Classic Correa de Reloj  Reemplazo de Banda de Silicona Suave Deportiva Pulsera de Repuesto para Samsung Galaxy Watch 46mm/Samsung Gear S3/Moto 360 2nd Gen 46mm Smart Watch'
+slug: 'B07GS8Y2XX-es Yayuu Gear S3 Frontier/Classic Correa de Reloj Reemplazo...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

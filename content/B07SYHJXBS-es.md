@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KNxze1T0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYHJXBS-es Auriculares Inalámbricos Deportivos  AIWONS Audífonos Bluetooth 5.0 con Micrófono  Estéreo Auricular  7 Horas de Reproducción Auriculares Impermeables IPX7  para el Deporte  Correr  Hacer Ejercicio'
+slug: 'B07SYHJXBS-es Auriculares Inalámbricos Deportivos AIWONS Audífonos...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

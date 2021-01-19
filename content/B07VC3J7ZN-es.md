@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511Xdx99n0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC3J7ZN-es Foundation Color Changing Make Up Corrector 30ml & SIGHTLING Brocha de Maquillaje Kabuki Cepillo de Maquillaje'
+slug: 'B07VC3J7ZN-es Foundation Color Changing Make Up Corrector 30ml &...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

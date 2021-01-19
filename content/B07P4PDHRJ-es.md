@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rT9FH269L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4PDHRJ-es Art Marina  Botas Clasicas Unisex Adulto  Negro  Black Black   37 EU'
+slug: 'B07P4PDHRJ-es Art Marina Botas Clasicas Unisex Adulto Negro Black Black...'
+tags: 
 actualPrice: 28.35 EUR
 currency: EUR
 price: 28.35

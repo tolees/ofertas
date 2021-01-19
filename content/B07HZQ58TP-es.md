@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HZQ58TP-es Timex Reloj Mujer de Digital con Correa en Silicona TW5M23600'
+tags: 
 actualPrice: 34.89 EUR
 currency: EUR
 price: 34.89

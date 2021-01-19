@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ywHEz0oBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072HDGST5-es Mujer Pendientes Azul Joyería Circonita Lágrima con blanco oro plateado Día de la Madre Regalo de la para Niña Dama'
+slug: 'B072HDGST5-es Mujer Pendientes Azul Joyería Circonita Lágrima con blanco...'
+tags: 
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

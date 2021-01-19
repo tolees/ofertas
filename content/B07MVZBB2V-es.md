@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VLNAPxU0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVZBB2V-es Masajeador facial de barra de oro  masajeador de bolsa de ojo oscuro  reafirmante antiarrugas  reduce las arrugas de los ojos  suaviza los poros  mejora la aspereza'
+slug: 'B07MVZBB2V-es Masajeador facial de barra de oro masajeador de bolsa de...'
+tags: 
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

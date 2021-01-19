@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c0Ot8H-WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRPM8N9-es Nike Internationalist  Zapatillas para Mujer  Blanco  White/White-White-Gum Light Brown 103   38 EU'
+slug: 'B07BRPM8N9-es Nike Internationalist Zapatillas para Mujer Blanco...'
+tags: 
 actualPrice: 50.36 EUR
 currency: EUR
 price: 50.36

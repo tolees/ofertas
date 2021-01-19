@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hXXSSD6+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B144PDQ-es Skechers Women s Flex Appeal 3.0 Trainers  Grey  Slate & Pink Knit Mesh/White Trim Sltp   3.5 UK  36.5 EU'
+slug: 'B07B144PDQ-es Skechers Women s Flex Appeal 3.0 Trainers Grey Slate &...'
+tags: 
 actualPrice: 44.37 EUR
 currency: EUR
 price: 44.37

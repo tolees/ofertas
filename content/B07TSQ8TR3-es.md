@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SbBQM+QlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ8TR3-es Skechers Delson 2.0 Larwin  Zapatillas sin Cordones para Hombre  Gris  Gray Canvas Gry   41 EU'
+slug: 'B07TSQ8TR3-es Skechers Delson 2.0 Larwin Zapatillas sin Cordones para...'
+tags: 
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

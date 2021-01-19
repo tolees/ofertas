@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415cu4kBVGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STW3SSN-es Quiksilver Espadrilled  Alpargata para Hombre  Verde  Green/Green/Green Xggg   39 EU'
+slug: 'B07STW3SSN-es Quiksilver Espadrilled Alpargata para Hombre Verde...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

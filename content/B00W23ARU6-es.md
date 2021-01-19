@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I6a61yGrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W23ARU6-es Pack 2 Kajal delineador de ojos arabe / curativo/natural/sin plomo/autentico...kohl'
+slug: 'B00W23ARU6-es Pack 2 Kajal delineador de ojos arabe /...'
+tags: 
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

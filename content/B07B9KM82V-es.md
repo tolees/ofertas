@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418SIjlcD0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9KM82V-es Broche Pin simulado Azabache Figa Hand Evil Eye Protection Charm para bebés'
+slug: 'B07B9KM82V-es Broche Pin simulado Azabache Figa Hand Evil Eye Protection...'
+tags: 
 actualPrice: 21.06 EUR
 currency: EUR
 price: 21.06

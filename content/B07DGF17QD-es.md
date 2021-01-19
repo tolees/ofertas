@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MlZGvAMJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGF17QD-es Skechers Women s Flex Appeal 3.0-Billow Trainers  Black  Taupe Mesh/Duraleather/Trim Bbk   2.5 UK  35.5 EU '
+slug: 'B07DGF17QD-es Skechers Women s Flex Appeal 3.0-Billow Trainers Black...'
+tags: 
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

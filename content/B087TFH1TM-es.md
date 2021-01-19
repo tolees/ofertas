@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41litLZjcQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087TFH1TM-es LIFEBEE Smartwatch  Reloj Inteligente Impermeable 5ATM Pantalla Táctil Completa con Pulsómetro Monitor de Sueño Podómetro Caloría Cronómetros  Pulsera Actividad Inteligente para Hombre Mujer niños'
+slug: 'B087TFH1TM-es LIFEBEE Smartwatch Reloj Inteligente Impermeable 5ATM...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

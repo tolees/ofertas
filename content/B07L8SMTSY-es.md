@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TotuxqEeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8SMTSY-es Medisana FM 883 Masajeador de pies Shiatsu  masajeador eléctrico de espalda  18 cabezales de masaje  función de luz roja  función de calor  2 velocidades  masaje estimulante de la circulación'
+slug: 'B07L8SMTSY-es Medisana FM 883 Masajeador de pies Shiatsu masajeador...'
+tags: 
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

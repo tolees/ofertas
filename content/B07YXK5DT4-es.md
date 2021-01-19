@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dPD9uJJAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXK5DT4-es TAZEMAT 36 Hojas Plantillas para Pintar Diseño de Mandala Tarjetas de Plantilla para Manualidades DIY Artesanía para Pintar sobre Mueble Pared Diferentes Patrones Reutilizable 13 × 13cm'
+slug: 'B07YXK5DT4-es TAZEMAT 36 Hojas Plantillas para Pintar Diseño de Mandala...'
+tags: 
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tBBbaDKsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPQTX7D-es Pistola de Aire Caliente  GALAX PRO 2000W Dos Niveles de Temperaturay Tlujo de Aire Ajustables  Ⅰ: 350 ℃ 250L / min  Ⅱ: 550 ℃ 500L / min  con 4 Boquillas  Doble Protección'
+slug: 'B07QPQTX7D-es Pistola de Aire Caliente GALAX PRO 2000W Dos Niveles de...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

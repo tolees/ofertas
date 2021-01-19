@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JMQuCwjoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y7RVDPZ-es WOSTOO Estantería de Esquina para Baño Estantería Ducha sin Perforaciones Aluminio Estanteria Baño Ducha con 2 Ganchos Accesorios de Baño y Cocina -2 piezas'
+slug: 'B07Y7RVDPZ-es WOSTOO Estantería de Esquina para Baño Estantería Ducha...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

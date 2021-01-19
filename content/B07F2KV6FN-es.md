@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BXgigeyqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2KV6FN-es SALOMON XA Short  Mujer  Gris  Urban Chic   XL'
+slug: 'B07F2KV6FN-es SALOMON XA Short Mujer Gris Urban Chic XL'
+tags: 
 actualPrice: 23.46 EUR
 currency: EUR
 price: 23.46

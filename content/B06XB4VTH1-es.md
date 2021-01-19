@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mP7pd8AhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XB4VTH1-es Skechers Men Elite Flex-Hartnell Trainers  Blue  Navy/Blue   47.5 EU  12 UK '
+slug: 'B06XB4VTH1-es Skechers Men Elite Flex-Hartnell Trainers Blue Navy/Blue...'
+tags: 
 actualPrice: 50.48 EUR
 currency: EUR
 price: 50.48

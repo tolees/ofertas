@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RVHdVyCcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2QMG5S-es New Balance 411  Zapatillas Deportivas para Interior para Hombre  Gris  Grey Cc1   44.5 EU'
+slug: 'B07S2QMG5S-es New Balance 411 Zapatillas Deportivas para Interior para...'
+tags: 
 actualPrice: 30.04 EUR
 currency: EUR
 price: 30.04

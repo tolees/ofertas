@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oo1cv0gxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QR562DQ-es Joligrace Bolsa de Maquillaje Profesional de tela Oxford Grande Correa Posterior Extraíble Estuche Cosmético Caja de Belleza Organizador  Grande  Púrpura '
+slug: 'B07QR562DQ-es Joligrace Bolsa de Maquillaje Profesional de tela Oxford...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

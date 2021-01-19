@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UN3+zW2NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FFWFWT-es VENUS ComfortGlide Spa Breeze Maquinilla 2 en 1 + 3 Recambios  con Barras de Gel de Depilación  sin Necesidad de Gel de Depilación'
+slug: 'B079FFWFWT-es VENUS ComfortGlide Spa Breeze Maquinilla 2 en 1 + 3...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

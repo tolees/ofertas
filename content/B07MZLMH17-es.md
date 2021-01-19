@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xE6SGd4mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZLMH17-es Kickers Jawa  Zapatillas para Bebés  Azul  Marine 10   18 EU'
+slug: 'B07MZLMH17-es Kickers Jawa Zapatillas para Bebés Azul Marine 10 18 EU'
+tags: 
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

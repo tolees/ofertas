@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gl2UtLPjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG21JGX-es New Balance 420  Zapatillas para Mujer  Rosa  Pink Pink   41.5 EU'
+slug: 'B07HG21JGX-es New Balance 420 Zapatillas para Mujer Rosa Pink Pink 41.5 EU'
+tags: 
 actualPrice: 27.65 EUR
 currency: EUR
 price: 27.65

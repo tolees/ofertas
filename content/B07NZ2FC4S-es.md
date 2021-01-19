@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gVb6uobYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ2FC4S-es Superdry Track & Field Col Block Hood Capucha  Negro  Black 02a   Small para Mujer'
+slug: 'B07NZ2FC4S-es Superdry Track & Field Col Block Hood Capucha Negro Black...'
+tags: 
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

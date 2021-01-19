@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ddgbWFxGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076BNC1HS-es Selente Love & Fun tentadora Ropa Interior de 4 Piezas - Sujetador  cinturón de Ligas  Tanga y Venda de satén  Negro  Talla L/XL'
+slug: 'B076BNC1HS-es Selente Love & Fun tentadora Ropa Interior de 4 Piezas -...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

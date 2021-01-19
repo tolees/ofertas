@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q-ImrRGVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074J8PK8R-es CLOCOLOR Halloween Cosplay Peluca de Pelo Natural Largo Rizado para Mujer Cosplay Fiesta Peluca de Disfraz Peluca de Colores Disfraz Brillante Verde'
+slug: 'B074J8PK8R-es CLOCOLOR Halloween Cosplay Peluca de Pelo Natural Largo...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

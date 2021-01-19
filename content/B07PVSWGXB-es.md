@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yh3GlrYsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVSWGXB-es SoftSocks SNEAKER LOW CUT Calcetines para mujeres  hombres y adolescentes  varios tamaños  6 pares: ¡Negro  blanco o mixto! Calidad de algodón!  Blanco  35-38 '
+slug: 'B07PVSWGXB-es SoftSocks SNEAKER LOW CUT Calcetines para mujeres hombres...'
+tags: 
 actualPrice: 9.33 EUR
 currency: EUR
 price: 9.33

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31o+CaWns5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRL5W79-es FITTOO Mallas Leggings Mujer Pantalones Deportivos Yoga Alta Cintura Elásticos y Transpirables 2050 Largo-Rosa M'
+slug: 'B07VRL5W79-es FITTOO Mallas Leggings Mujer Pantalones Deportivos Yoga...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31I-7%2B-t5zL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1F7WMZ-es JACK & JONES Jjeholmen Sweat Crew Neck Noos  Suéter para Hombre  Negro  Black   X-Large'
+slug: 'B07F1F7WMZ-es JACK & JONES Jjeholmen Sweat Crew Neck Noos Suéter para...'
+tags: 
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

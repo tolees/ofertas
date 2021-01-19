@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LhLZC0GjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DOY0O0O-es TOPELEK Termometro Carne Digital  Termómetro de Cocina de 5S Lectura Instantánea con 4.8   Sonda Larga  Pantalla LCD Retroiluminada Para Comida La Carne Barbacoa Leche Líquido'
+slug: 'B01DOY0O0O-es TOPELEK Termometro Carne Digital Termómetro de Cocina de...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

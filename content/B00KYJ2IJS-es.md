@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sj399WwbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KYJ2IJS-es K&N YA-9514 Filtro de Aire para Yamaha XVS950 BOLT 950 2014 Moto'
+slug: 'B00KYJ2IJS-es K&N YA-9514 Filtro de Aire para Yamaha XVS950 BOLT 950...'
+tags: 
 actualPrice: 51.92 EUR
 currency: EUR
 price: 51.92

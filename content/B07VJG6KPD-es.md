@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51md3CUwhoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJG6KPD-es YSense 20 Piezas de Pulsera Antimosquitos Impermeable Adjustable con Sustancias Natural No Tóxicas para Adultos y Niños'
+slug: 'B07VJG6KPD-es YSense 20 Piezas de Pulsera Antimosquitos Impermeable...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LKka4u2LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BK1FSL-es Grsta Botella de Agua  Botella Agua Acero Inoxidable sin BPA 500ml/Cielo Azul Completo Botellas de Frío/Caliente Termo Botellas Termica Prueba de Fugas para Niños  Adultos  Deporte  Yoga  Ciclismo'
+slug: 'B083BK1FSL-es Grsta Botella de Agua Botella Agua Acero Inoxidable sin...'
+tags: 
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

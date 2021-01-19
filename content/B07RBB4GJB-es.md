@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/5115seNhbOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RBB4GJB-es deAO Tienda de Campaña Tipi Castillo con Luces LED Casita de Juegos Infantil Carpa para Niños y Niñas Actividades Recreativas al Interior y Exterior Área de Recreo  Azul '
+slug: 'B07RBB4GJB-es deAO Tienda de Campaña Tipi Castillo con Luces LED Casita...'
+tags: 
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

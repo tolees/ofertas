@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AAghiKhYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3Y5J5T-es DataOcean 2 Piezas USB 2.0 64GB Memorias USB PenDrives Giratoria Pen Drive 32 GB Unidad Flash  2 X 64GB Negro Plata '
+slug: 'B07Q3Y5J5T-es DataOcean 2 Piezas USB 2.0 64GB Memorias USB PenDrives...'
+tags: 
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

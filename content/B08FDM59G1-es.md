@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418VtO0YF5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FDM59G1-es Gentai - Tarjeta de memoria micro SD SDXC de 1024 GB con adaptador gratuito'
+slug: 'B08FDM59G1-es Gentai - Tarjeta de memoria micro SD SDXC de 1024 GB con...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

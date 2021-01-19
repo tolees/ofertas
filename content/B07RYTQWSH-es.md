@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QpzqNftYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYTQWSH-es New Balance 997H m  Zapatillas para Mujer  Negro  Black/Yellow Hai   35 EU'
+slug: 'B07RYTQWSH-es New Balance 997H m Zapatillas para Mujer Negro...'
+tags: 
 actualPrice: 35.38 EUR
 currency: EUR
 price: 35.38

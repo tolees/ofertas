@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vq764o+YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4JCSXJ-es Superdry Jacob Henley suéter  Gris  Concrete Twist THU   XS para Hombre'
+slug: 'B07P4JCSXJ-es Superdry Jacob Henley suéter Gris Concrete Twist THU XS...'
+tags: 
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Lv3jhbLvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4J6RV4-es Amazon Essentials Long-Sleeve Lightweight French Terry Fleece Quarter-Zip Top Outerwear-Jackets  Coral  US L  EU L - XL '
+slug: 'B07W4J6RV4-es Amazon Essentials Long-Sleeve Lightweight French Terry...'
+tags: 
 actualPrice: 13.33 EUR
 currency: EUR
 price: 13.33

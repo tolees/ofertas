@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EvzxgQo+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GT8SX-es Clarks Un Rio Lace  Zapatillas  Marrón  Aubergine Lea Aubergine Lea   36 EU'
+slug: 'B07N1GT8SX-es Clarks Un Rio Lace Zapatillas Marrón Aubergine Lea...'
+tags: 
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

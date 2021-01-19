@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418KvJpoj3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PD71LVM-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 11435-262'
+slug: 'B00PD71LVM-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 98.0 EUR
 currency: EUR
 price: 98.0

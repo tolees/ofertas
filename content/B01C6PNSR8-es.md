@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j+6KJVMwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C6PNSR8-es DEWALT DCD796NT-XJ - Taladro percutor sin escobillas XR 18V de 70 Nm  con maletin TSTAK'
+slug: 'B01C6PNSR8-es DEWALT DCD796NT-XJ - Taladro percutor sin escobillas XR...'
+tags: 
 actualPrice: 128.87 EUR
 currency: EUR
 price: 128.87

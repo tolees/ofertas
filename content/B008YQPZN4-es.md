@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yPaRjalBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008YQPZN4-es Remington Titanium-X Dual Foil F7800 Afeitadora de Láminas Inalámbrica  Tecnología de Afeitado Triple'
+slug: 'B008YQPZN4-es Remington Titanium-X Dual Foil F7800 Afeitadora de Láminas...'
+tags: 
 actualPrice: 47.58 EUR
 currency: EUR
 price: 47.58

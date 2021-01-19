@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pi4Em00AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GRK5RP7-es Khanomak Slip Llano de la Alta Subida de la Mujer sobre el algodón Largo del Motorista Bermudas  Grande  la Marina de Guerra '
+slug: 'B07GRK5RP7-es Khanomak Slip Llano de la Alta Subida de la Mujer sobre el...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

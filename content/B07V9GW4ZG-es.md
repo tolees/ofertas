@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sXyr8pVlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9GW4ZG-es JACK & JONES Jorrafael Sweat Hood Capucha  Gris  Light Grey Melange Fit: Slim/JJ   Small para Hombre'
+slug: 'B07V9GW4ZG-es JACK & JONES Jorrafael Sweat Hood Capucha Gris Light Grey...'
+tags: 
 actualPrice: 10.64 EUR
 currency: EUR
 price: 10.64

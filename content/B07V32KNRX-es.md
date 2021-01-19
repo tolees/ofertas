@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nl13a-wbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V32KNRX-es American Tourister Disney Legends Spinner L Maleta Infantil  75 cm  88 L  Rosa  Take Me Away Mickey Venice '
+slug: 'B07V32KNRX-es American Tourister Disney Legends Spinner L Maleta...'
+tags: 
 actualPrice: 99.11 EUR
 currency: EUR
 price: 99.11

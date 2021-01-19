@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411ziQAhLBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRLPWBT-es New Balance 373  Zapatillas para Mujer  Azul  Blue Blue   36.5 EU'
+slug: 'B07KRLPWBT-es New Balance 373 Zapatillas para Mujer Azul Blue Blue 36.5 EU'
+tags: 
 actualPrice: 27.03 EUR
 currency: EUR
 price: 27.03

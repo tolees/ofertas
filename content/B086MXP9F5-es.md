@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wRCiSWWUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086MXP9F5-es Slabo Lámina de Vidrio Premium para MacBook Pro 13"  2018  | Pro 13"  2019  Protectora Protector de Pantalla Templado Tempered Glass Claro dureza 9H'
+slug: 'B086MXP9F5-es Slabo Lámina de Vidrio Premium para MacBook Pro 13" 2018 |...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

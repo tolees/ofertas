@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RUJXZfh1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYRKJK5-es Queta 3Pcs Pulsera de Plata Pulsera para niña Kit de fabricación de Joyas para niña con Cuentas Juego de Regalo para niña 8-12 años'
+slug: 'B07ZYRKJK5-es Queta 3Pcs Pulsera de Plata Pulsera para niña Kit de...'
+tags: 
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

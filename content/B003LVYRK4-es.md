@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41T%2BPAYIopL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B003LVYRK4-es Compactor Bolsa para la Colada  Blanco  Polipropileno  Diámetro 38.5 x H.70 cm  RAN4401  Non Woven 75G  38.5 cm'
+slug: 'B003LVYRK4-es Compactor Bolsa para la Colada Blanco Polipropileno...'
+tags: 
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316XxrZhsVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XF7TVX6-es Funko- Pop Ride: Frozen 2-Elsa Riding Nokk Figura Coleccionable  Multicolor  46586 '
+slug: 'B07XF7TVX6-es Funko- Pop Ride: Frozen 2-Elsa Riding Nokk Figura...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

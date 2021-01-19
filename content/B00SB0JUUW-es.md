@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sWQeH5PXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SB0JUUW-es Serum Facial Acido Hialuronico Puro - Enriquecido con Péptidos eficaces y Vitamina C - Gel antiedad concentrado para rostro  cuello y escote- Probado dermatológicamente fabricado en Alemania'
+slug: 'B00SB0JUUW-es Serum Facial Acido Hialuronico Puro - Enriquecido con...'
+tags: 
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

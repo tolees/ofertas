@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413vG7SjBQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK1XX86-es New Balance Fresh Foam Roav  Zapatillas de Running para Hombre  Azul  Natural TB   40 EU'
+slug: 'B07RK1XX86-es New Balance Fresh Foam Roav Zapatillas de Running para...'
+tags: 
 actualPrice: 41.45 EUR
 currency: EUR
 price: 41.45

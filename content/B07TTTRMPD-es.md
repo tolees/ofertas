@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LGwAKHCPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTTRMPD-es Skechers Delson 2.0 Larwin  Zapatillas sin Cordones para Hombre  Azul  Blue Canvas BLU   46 EU'
+slug: 'B07TTTRMPD-es Skechers Delson 2.0 Larwin Zapatillas sin Cordones para...'
+tags: 
 actualPrice: 41.54 EUR
 currency: EUR
 price: 41.54

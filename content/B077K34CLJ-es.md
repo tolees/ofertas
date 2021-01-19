@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UpkyDE3-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077K34CLJ-es Banda Elástica Kit Bandas de Resistencia  10 / 15uds Cuerdas de Ejercicio Cintas de Látex para Entrenamiento   Color : 10pcs  '
+slug: 'B077K34CLJ-es Banda Elástica Kit Bandas de Resistencia 10 / 15uds...'
+tags: 
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

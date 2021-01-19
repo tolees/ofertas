@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iF7TYn4-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSS2JYH-es Samsung SM-N960F/DS Galaxy Note9  6.4"  8 GB RAM  512GB Memoria  8MP Camara  Azul  Ocean Blue '
+slug: 'B07FSS2JYH-es Samsung SM-N960F/DS Galaxy Note9 6.4" 8 GB RAM 512GB...'
+tags: 
 actualPrice: 769.0 EUR
 currency: EUR
 price: 769.0

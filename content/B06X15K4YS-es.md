@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51n-YcHUmjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X15K4YS-es Nautica Reloj Analógico para Hombre de Cuarzo con Correa en Silicona NAPMAU008'
+slug: 'B06X15K4YS-es Nautica Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

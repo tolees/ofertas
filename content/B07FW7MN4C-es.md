@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cJsfrKsqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FW7MN4C-es SD Toys- Data Llavero Cabezon Goma Pokis The Goonies Blister  Multicolor  SDTWRN21305    color/modelo surtido'
+slug: 'B07FW7MN4C-es SD Toys- Data Llavero Cabezon Goma Pokis The Goonies...'
+tags: 
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pSptSbb0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FX921MN-es Antena de TV Interior/Exterior Antena per DVB-T/DVB-T2 de TV Digital para Interiores de 200miles con Amplificador Inteligente de Señal Adecuada para Canales de TV Gratis 1080P 4K Cable Coaxial de 10M'
+slug: 'B08FX921MN-es Antena de TV Interior/Exterior Antena per DVB-T/DVB-T2 de...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

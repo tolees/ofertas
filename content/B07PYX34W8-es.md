@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311-ywE0d1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYX34W8-es Kelme Precision Elite 2.0  Zapatillas de fútbol Sala Unisex Adulto  Rosa  Rosa Neon 9929   39 EU'
+slug: 'B07PYX34W8-es Kelme Precision Elite 2.0 Zapatillas de fútbol Sala Unisex...'
+tags: 
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

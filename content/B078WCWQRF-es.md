@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Fvln8WxPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WCWQRF-es Palladium Pampa Hi Mono U  Zapatillas Altas para Hombre  Negro Black 315  36 EU'
+slug: 'B078WCWQRF-es Palladium Pampa Hi Mono U Zapatillas Altas para Hombre...'
+tags: 
 actualPrice: 37.43 EUR
 currency: EUR
 price: 37.43

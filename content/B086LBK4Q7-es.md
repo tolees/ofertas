@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jfm2fADML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086LBK4Q7-es Auriculares Bluetooth  Estéreo Auriculares Inalámbricos Bluetooth 5.0 con Micrófono Integrado Incorporado  IP7 Impermeable In-Ear Auriculares con 2000mAh LED Caja de Carga Portátil'
+slug: 'B086LBK4Q7-es Auriculares Bluetooth Estéreo Auriculares Inalámbricos...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

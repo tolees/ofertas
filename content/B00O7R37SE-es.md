@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4169-eJffNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O7R37SE-es Komono Reloj Analógico de Cuarzo Unisex con Correa de Acero Inoxidable – KOM-W2350'
+slug: 'B00O7R37SE-es Komono Reloj Analógico de Cuarzo Unisex con Correa de...'
+tags: 
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

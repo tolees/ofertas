@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qDx%2BN8U2L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8GTMWF-es Superdry Sweat Shirt Shop Duo Hood suéter  Azul  Eclipse Navy 98T   Small para Hombre'
+slug: 'B07F8GTMWF-es Superdry Sweat Shirt Shop Duo Hood suéter Azul Eclipse...'
+tags: 
 actualPrice: 49.3 EUR
 currency: EUR
 price: 49.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31urxm9lQhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RTG01FM-es Grohe Eurosmart  - Grifo de lavabo con vaciador automático  caño estándar  tecnología Grohe SilkMove  tecnología Grohe EcoJoy  Ref. 33265002 '
+slug: 'B00RTG01FM-es Grohe Eurosmart - Grifo de lavabo con vaciador automático...'
+tags: 
 actualPrice: 65.42 EUR
 currency: EUR
 price: 65.42

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cS+A6s7tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZV2M5XG-es Helly Hansen HH Scout Wash Bag Neceser  Unisex Adulto  Glacier Blue  STD'
+slug: 'B07ZV2M5XG-es Helly Hansen HH Scout Wash Bag Neceser Unisex Adulto...'
+tags: 
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

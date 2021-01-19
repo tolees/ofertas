@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uOGop7LvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYL61H8-es New Balance 373v2  Zapatillas para Hombre  Negro  Black/Blue Ab2   41.5 EU'
+slug: 'B07RYL61H8-es New Balance 373v2 Zapatillas para Hombre Negro Black/Blue...'
+tags: 
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

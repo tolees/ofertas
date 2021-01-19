@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415XyBbPiUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076MKX4CZ-es Sticker Adhesivos para Macbook  Desprendibles Creativo Color Mapa La Ciudad Art Calcomanía Pegatina para MacBook Pro/Air 13 Pulgadas Portátil  F '
+slug: 'B076MKX4CZ-es Sticker Adhesivos para Macbook Desprendibles Creativo...'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

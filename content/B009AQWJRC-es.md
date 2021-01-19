@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311mFi4gGpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009AQWJRC-es Essie Esmalte de Uñas  Tono: 009 Vanity Fairest'
+slug: 'B009AQWJRC-es Essie Esmalte de Uñas Tono: 009 Vanity Fairest'
+tags: 
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

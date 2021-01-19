@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413g-94ESvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9X5FDU-es Be Cool Zas Silla de Paseo Plegable  Uso desde Recién Nacido  Ligera con Chasis de Aluminio  Color Wave'
+slug: 'B01N9X5FDU-es Be Cool Zas Silla de Paseo Plegable Uso desde Recién...'
+tags: 
 actualPrice: 86.31 EUR
 currency: EUR
 price: 86.31

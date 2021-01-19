@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4174PaH3qpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MYXBMR-es Lee Luke Jeans  True Authentic Gcby  32W / 32L para Hombre'
+slug: 'B072MYXBMR-es Lee Luke Jeans True Authentic Gcby 32W / 32L para Hombre'
+tags: 
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MyNaQ-0rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KX0TCQE-es Gloss - caja de maquillaje  caja de regalo para mujeres - Malette maquillaje esencial'
+slug: 'B01KX0TCQE-es Gloss - caja de maquillaje caja de regalo para mujeres -...'
+tags: 
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

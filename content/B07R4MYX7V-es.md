@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TaV6Ew9dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4MYX7V-es AL OFA Vibrador Rabbit G-punto Clitoris Vibrante Estimulador 10 Modos USB Recargable Impermeable Juguetes Sexuales  Morado'
+slug: 'B07R4MYX7V-es AL OFA Vibrador Rabbit G-punto Clitoris Vibrante...'
+tags: 
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

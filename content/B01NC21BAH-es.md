@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51BnwdY6d%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NC21BAH-es BabyMoments Cards by Mimuselina  Bilingüe: Español-English  Regalo recien nacido.Tarjeta logros e hitos del bebé'
+slug: 'B01NC21BAH-es BabyMoments Cards by Mimuselina Bilingüe: Español-English...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

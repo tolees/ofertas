@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Evf29tz8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007ZPWIQC-es Melissa & Doug- Box of Rainbow Mini Tarjetas para Dibujar  Multicolor  15945 '
+slug: 'B007ZPWIQC-es Melissa & Doug- Box of Rainbow Mini Tarjetas para Dibujar...'
+tags: 
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

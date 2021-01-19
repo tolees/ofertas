@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ou5vNBViL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0A3L2L-es New Balance 410 m  Zapatillas para Mujer  Plateado  Silver Mink/Black Blue   39 EU'
+slug: 'B01M0A3L2L-es New Balance 410 m Zapatillas para Mujer Plateado Silver...'
+tags: 
 actualPrice: 41.73 EUR
 currency: EUR
 price: 41.73

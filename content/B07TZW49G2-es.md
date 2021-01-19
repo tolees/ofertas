@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413GL3XF7hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZW49G2-es Merrell Terran Cross II  Sandalia con Pulsera para Mujer  Azul  Thistle   36 EU'
+slug: 'B07TZW49G2-es Merrell Terran Cross II Sandalia con Pulsera para Mujer...'
+tags: 
 actualPrice: 27.69 EUR
 currency: EUR
 price: 27.69

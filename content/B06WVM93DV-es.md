@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UJ+cognyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVM93DV-es Tommy Hilfiger Sujetador Deportivo de Estilo Bralette de Algodón y Panel de Malla Rematado y Cuello Redondo  Blanco  White   M para Mujer'
+slug: 'B06WVM93DV-es Tommy Hilfiger Sujetador Deportivo de Estilo Bralette de...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

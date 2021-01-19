@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wIPNa8K7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CMGTL4-es Rimmel London The Only One Lipstick Barra De Labios Mate Tono 510 - 3.4 gr'
+slug: 'B015CMGTL4-es Rimmel London The Only One Lipstick Barra De Labios Mate...'
+tags: 
 actualPrice: 4.22 EUR
 currency: EUR
 price: 4.22

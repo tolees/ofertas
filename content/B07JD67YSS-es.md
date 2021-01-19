@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MOkhAJwML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JD67YSS-es G-STAR RAW Rebel Cinturón  Multicolor  Sage/Antic Silver A542   120 para Hombre'
+slug: 'B07JD67YSS-es G-STAR RAW Rebel Cinturón Multicolor Sage/Antic Silver...'
+tags: 
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

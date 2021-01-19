@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21JqjMfCoHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001HZ3YZA-es Grundig MA 5820 - Set de manicura y pedicura  eléctrico '
+slug: 'B001HZ3YZA-es Grundig MA 5820 - Set de manicura y pedicura eléctrico'
+tags: 
 actualPrice: 28.19 EUR
 currency: EUR
 price: 28.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314NlUc9d1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CUFX0IG-es SIK KIS Moby Xl - Armario  color antracita'
+slug: 'B01CUFX0IG-es SIK KIS Moby Xl - Armario color antracita'
+tags: 
 actualPrice: 69.93 EUR
 currency: EUR
 price: 69.93

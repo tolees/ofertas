@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hrn2fpFuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TBWS8W-es Trespass unificar de la Mujer Manga Larga Top/Camiseta Interior térmica para Mujer  Mujer  Color Azul Marino  tamaño L'
+slug: 'B077TBWS8W-es Trespass unificar de la Mujer Manga Larga Top/Camiseta...'
+tags: 
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

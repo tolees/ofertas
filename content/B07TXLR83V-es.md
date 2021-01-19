@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZeaFjHPyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXLR83V-es Superga 2750-cotcontrastu  Zapatillas de Gimnasia Unisex Adulto  Blanco  White/Blue Lt Crysta A0a   37 EU'
+slug: 'B07TXLR83V-es Superga 2750-cotcontrastu Zapatillas de Gimnasia Unisex...'
+tags: 
 actualPrice: 29.85 EUR
 currency: EUR
 price: 29.85

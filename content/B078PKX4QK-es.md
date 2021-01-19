@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VNFeVSi3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078PKX4QK-es D-Link DAP-1610 - Repetidor WiFi AC1200  1200 Mbps  Puerto de Red 10/100 Mbps  botón WPS  Antenas externas   Blanco'
+slug: 'B078PKX4QK-es D-Link DAP-1610 - Repetidor WiFi AC1200 1200 Mbps Puerto...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JgP9vwFuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0PTTXE-es GoPro AWALC-002-ES - Cargador rápido de Puerto Dual Internacional  Color Negro'
+slug: 'B01M0PTTXE-es GoPro AWALC-002-ES - Cargador rápido de Puerto Dual...'
+tags: 
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

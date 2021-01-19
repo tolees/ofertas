@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R8hzjqviL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079XWLVKN-es Bergner Q2655 Sarten 20x4.3cm aluminio forjado inducción Neon silver  Alumino'
+slug: 'B079XWLVKN-es Bergner Q2655 Sarten 20x4.3cm aluminio forjado inducción...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

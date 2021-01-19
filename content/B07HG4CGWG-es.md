@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FS+B8ShkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG4CGWG-es New Balance 247v2  Zapatillas para Hombre  Negro  Black Black   36 EU'
+slug: 'B07HG4CGWG-es New Balance 247v2 Zapatillas para Hombre Negro Black Black...'
+tags: 
 actualPrice: 40.64 EUR
 currency: EUR
 price: 40.64

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31D1175MIgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVKMZLW-es Receptor Bluetooth Jack 3.5 MM  ieGeek Adaptador de Audio Inalámbrico Mini  Kit Manos Libres para Llamada Salida Estéreo Admite para Auriculares  Teléfono  PC  Vehículo'
+slug: 'B07QVKMZLW-es Receptor Bluetooth Jack 3.5 MM ieGeek Adaptador de Audio...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31n7ajcHXzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014Z6NGOQ-es G-STAR RAW 3301 Slim Fit Jeans  Raw Denim 6245-001  29W / 34L para Hombre'
+slug: 'B014Z6NGOQ-es G-STAR RAW 3301 Slim Fit Jeans Raw Denim 6245-001 29W /...'
+tags: 
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

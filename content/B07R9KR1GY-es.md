@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41N403j7m6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R9KR1GY-es Exerz Huchas Globo Diámetro 16 CM/Caja De Dinero Alcancía  Aspecto Metal Apariencia Contemporáneo -Mapa de Ingles - Mapa Destacado Físico  Educativo  Decorativo. Escuela  Hogar - Plata'
+slug: 'B07R9KR1GY-es Exerz Huchas Globo Diámetro 16 CM/Caja De Dinero Alcancía...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

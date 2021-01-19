@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Sfq4HOxJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGFTF2R-es Vermouth Myrrha Reserva   100 cl - 1000 ml'
+slug: 'B07QGFTF2R-es Vermouth Myrrha Reserva 100 cl - 1000 ml'
+tags: 
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PTAlXUtVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GH2R45H-es Skechers Men s Stamina-CONTIC Trainers  Grey  Gray & Red Gray Leather/Pu/Blue Mesh/Black Trim Gymt   5.5  39 EU '
+slug: 'B07GH2R45H-es Skechers Men s Stamina-CONTIC Trainers Grey Gray & Red...'
+tags: 
 actualPrice: 37.91 EUR
 currency: EUR
 price: 37.91

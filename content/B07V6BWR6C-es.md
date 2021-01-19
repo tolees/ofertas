@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cXFe+f7VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6BWR6C-es BOSS Schino-Slim D Pantalones  Verde  Medium Green 311   W32/L32  Talla del Fabricante: 3232  para Hombre'
+slug: 'B07V6BWR6C-es BOSS Schino-Slim D Pantalones Verde Medium Green 311...'
+tags: 
 actualPrice: 16.51 EUR
 currency: EUR
 price: 16.51

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kkhX1gyJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPCFYZR-es Cabello fuerte uñas y piel con BIOTIN + ZINC  ortiga  vitamina B5 B6 B7 B8  magnesio  L-cisteína  L-Cytin Cápsulas vegetales'
+slug: 'B07BPCFYZR-es Cabello fuerte uñas y piel con BIOTIN + ZINC ortiga...'
+tags: 
 actualPrice: 24.77 EUR
 currency: EUR
 price: 24.77

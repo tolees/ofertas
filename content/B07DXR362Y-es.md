@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Lzp979BZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXR362Y-es Quinua Real  Barrita de cereal  Coco  - 20 de 20 gr.  Total 400 gr. '
+slug: 'B07DXR362Y-es Quinua Real Barrita de cereal Coco - 20 de 20 gr. Total...'
+tags: 
 actualPrice: 12.28 EUR
 currency: EUR
 price: 12.28

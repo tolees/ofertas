@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vkx6xl15L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KPN9K2A-es De Longhi Molinillo de café Delonghi Dedica kg 521.M 150W acero inoxidable  150 W  Plata'
+slug: 'B01KPN9K2A-es De Longhi Molinillo de café Delonghi Dedica kg 521.M 150W...'
+tags: 
 actualPrice: 162.8 EUR
 currency: EUR
 price: 162.8

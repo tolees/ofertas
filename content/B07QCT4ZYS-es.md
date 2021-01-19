@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YVIBlVF4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCT4ZYS-es NGS Matrix Kit Teclado + RATÓN INALÁMBRICOS Ultra Plano Teclas SILENCIOSAS QWERTY Español'
+slug: 'B07QCT4ZYS-es NGS Matrix Kit Teclado + RATÓN INALÁMBRICOS Ultra Plano...'
+tags: 
 actualPrice: 12.32 EUR
 currency: EUR
 price: 12.32

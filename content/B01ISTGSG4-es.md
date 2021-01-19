@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zablm0xRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ISTGSG4-es Bosch Serie | 6 EasyComfort TDS6040 - Centro de planchado  2.400 W  5.8 bares de presión  color blanco y negro'
+slug: 'B01ISTGSG4-es Bosch Serie | 6 EasyComfort TDS6040 - Centro de planchado...'
+tags: 
 actualPrice: 142.0 EUR
 currency: EUR
 price: 142.0

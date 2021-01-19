@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412PcczWBQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CQOL29A-es adidas Zx Flux  Zapatillas de Entrenamiento Hombre  Negro  Cblack/Cblack/Dkgrey   42 EU'
+slug: 'B01CQOL29A-es adidas Zx Flux Zapatillas de Entrenamiento Hombre Negro...'
+tags: 
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aF0a9uw7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M693HVG-es Auna iAdapt 280 - Adaptador de Radio Digital  Módulo de Expansión  para Sistemas de Sonido y HiFi  WLAN  Bluetooth  FM  Función RDS  Pantalla TFT Color 2 8"  Luz Atenuable  Negro'
+slug: 'B01M693HVG-es Auna iAdapt 280 - Adaptador de Radio Digital Módulo de...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AcN+GSaKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVX1MPV-es Columbia Bajada III  Zapatillas de Running para Asfalto para Hombre  Gris  Monument  Zour 36   43.5 EU'
+slug: 'B07DVX1MPV-es Columbia Bajada III Zapatillas de Running para Asfalto...'
+tags: 
 actualPrice: 65.89 EUR
 currency: EUR
 price: 65.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S6ohnPG5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXLPQDH-es Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 1513588'
+slug: 'B07BXLPQDH-es Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 162.57 EUR
 currency: EUR
 price: 162.57

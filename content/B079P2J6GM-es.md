@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QtgHYdVdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079P2J6GM-es Fitbit Ionic Adidas Edition   El Smartwatch Deportivo  Azul  Tinta  / Gris  Hielo '
+slug: 'B079P2J6GM-es Fitbit Ionic Adidas Edition El Smartwatch Deportivo Azul...'
+tags: 
 actualPrice: 184.95 EUR
 currency: EUR
 price: 184.95

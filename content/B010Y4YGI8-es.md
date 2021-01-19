@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tNUnws8OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010Y4YGI8-es Cúrcuma orgánica 745mg + Jengibre + Pimienta negra. Suplemento alimenticio a base de cúrcuma ecológica Bioperine. Potente antioxidante natural. 120 cápsulas vegetales. Vegano y sin gluten.'
+slug: 'B010Y4YGI8-es Cúrcuma orgánica 745mg + Jengibre + Pimienta negra....'
+tags: 
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

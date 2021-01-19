@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415ZpvAbrQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089S34NVS-es SP-Cow Adaptador Bluetooth 4.2 USB Dongle  WiFi Antena 650Mbps Emisor Receptor  para Ordenador/Portatil/Auriculares  compatible con Windows10/8/8.1/7'
+slug: 'B089S34NVS-es SP-Cow Adaptador Bluetooth 4.2 USB Dongle WiFi Antena...'
+tags: 
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

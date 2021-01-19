@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31GuUlFHNPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5TON3O-es NYX Professional Makeup Base de maquillaje Total Control Drop Foundation  Dosificación precisa  Cobertura modulable  Larga duración  Fórmula vegana  Acabado mate  Tono: Mocha'
+slug: 'B01N5TON3O-es NYX Professional Makeup Base de maquillaje Total Control...'
+tags: 
 actualPrice: 8.17 EUR
 currency: EUR
 price: 8.17

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511RHa+0Q-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY5NGBK-es JASHKE Disfraz Dinosaurio Inflable Adulto Traje Dinosaurio Disfraz Trex Disfraces Hombre Divertidas Traje'
+slug: 'B07NY5NGBK-es JASHKE Disfraz Dinosaurio Inflable Adulto Traje Dinosaurio...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

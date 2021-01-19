@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YN46jp5oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WTWRJK-es Sony SRSXB41R - Altavoz portátil Bluetooth  Extra Bass  Modo Sonido Live  Party Booster  Luces de Fiesta llamativas  Conector USB para Cargar Smartphone   Color Rojo'
+slug: 'B078WTWRJK-es Sony SRSXB41R - Altavoz portátil Bluetooth Extra Bass Modo...'
+tags: 
 actualPrice: 103.2 EUR
 currency: EUR
 price: 103.2

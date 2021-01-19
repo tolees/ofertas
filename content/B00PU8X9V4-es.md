@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GVS1zkj-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PU8X9V4-es Homyl Adaptador Soporte de Extension Vastago Accesorio de Deportes de Cicicleta Reempalzable para Garmin Edge'
+slug: 'B00PU8X9V4-es Homyl Adaptador Soporte de Extension Vastago Accesorio de...'
+tags: 
 actualPrice: 21.43 EUR
 currency: EUR
 price: 21.43

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bUPoOIzvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XSM3FP3-es Samblo S9915 Senchi - Armario Bajo de Cocina con 2 Puertas  Blanco  34 x 60 x 80 cm'
+slug: 'B06XSM3FP3-es Samblo S9915 Senchi - Armario Bajo de Cocina con 2 Puertas...'
+tags: 
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

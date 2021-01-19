@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N484WJJ-es POP! Vinilo - Kingdom Hearts: Pete'
+tags: 
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CyliIrDkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SZWR1R-es Joseph Joseph Index 3 piezas Juego de tabla de cortar  madera de bambú  35 x 9 5 x 29 5 cm'
+slug: 'B078SZWR1R-es Joseph Joseph Index 3 piezas Juego de tabla de cortar...'
+tags: 
 actualPrice: 63.03 EUR
 currency: EUR
 price: 63.03

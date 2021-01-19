@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319RvvNN4GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHKBJKD-es VEIERSIA Calentador de Mano Recargable Portátil con USB Power Bank 6000mAh  Calentamiento de Doble Cara  Valentín  Negro '
+slug: 'B07XHKBJKD-es VEIERSIA Calentador de Mano Recargable Portátil con USB...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k9OY4KOqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FVKSRWQ-es Lotus Reloj para de Cuarzo con Correa en Acero Inoxidable 18620/1'
+slug: 'B07FVKSRWQ-es Lotus Reloj para de Cuarzo con Correa en Acero Inoxidable...'
+tags: 
 actualPrice: 78.19 EUR
 currency: EUR
 price: 78.19

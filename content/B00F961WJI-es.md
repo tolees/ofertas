@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51mN0hu0MWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F961WJI-es deAO Vehículo Correpasillos Camión de Construcción con Excavadora Manual Inlcuye 2 Extensiones Diferentes'
+slug: 'B00F961WJI-es deAO Vehículo Correpasillos Camión de Construcción con...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

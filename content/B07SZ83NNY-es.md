@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+cuNu0XrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZ83NNY-es DMAR Escudo del Capitán América + Soporte De Madera  60cm Captain America Shield 1: 1 Escudo De Metal  7050 Aluminio De Grado De Aviones  Legends Series Replica Marvel Prop'
+slug: 'B07SZ83NNY-es DMAR Escudo del Capitán América + Soporte De Madera 60cm...'
+tags: 
 actualPrice: 239.98 EUR
 currency: EUR
 price: 239.98

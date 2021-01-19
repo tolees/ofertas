@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xBaRm61XL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZT2R7LC-es Redpawz R13 LED RTF Drone Para Niños RC Quadcopter con Toss/Shake Take Off Control Gestos Evitación de obstáculos Modo sin Cabeza 3Modos de Velocidad Estabilización de Altitud Principiantes-2 Baterías'
+slug: 'B07ZT2R7LC-es Redpawz R13 LED RTF Drone Para Niños RC Quadcopter con...'
+tags: 
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

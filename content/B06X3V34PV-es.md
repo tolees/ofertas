@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ludIhQW+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X3V34PV-es Bosch Professional 2608615065 Bosch 2608615065-Disco de Diamante Standard Universal: 230mm'
+slug: 'B06X3V34PV-es Bosch Professional 2608615065 Bosch 2608615065-Disco de...'
+tags: 
 actualPrice: 20.46 EUR
 currency: EUR
 price: 20.46

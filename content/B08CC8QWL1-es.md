@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qLF7c8dFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CC8QWL1-es XINFULUK Portátil Plegable Bolsillo magnético plástico ajedrez ajedrez Entretenimiento para Fiesta - Negro + Blanco'
+slug: 'B08CC8QWL1-es XINFULUK Portátil Plegable Bolsillo magnético plástico...'
+tags: 
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

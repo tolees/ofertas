@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WaaFPecVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXX5PL7-es LEWOTE Airpods Carcasa de Silicona Compatible con Airpods de Apple 1 y 2 [Diseño de Dibujos][Niñas o Parejas]  Batman Badge '
+slug: 'B07YXX5PL7-es LEWOTE Airpods Carcasa de Silicona Compatible con Airpods...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

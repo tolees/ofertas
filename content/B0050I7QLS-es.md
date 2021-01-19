@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418DdrFFHHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0050I7QLS-es Skechers Diameter Vassell Diameter Vassell - Zapatillas de Cuero para Hombre  Color marrón  Talla 40'
+slug: 'B0050I7QLS-es Skechers Diameter Vassell Diameter Vassell - Zapatillas de...'
+tags: 
 actualPrice: 24.78 EUR
 currency: EUR
 price: 24.78

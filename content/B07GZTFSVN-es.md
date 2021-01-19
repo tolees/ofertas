@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fyq0CFeIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZTFSVN-es RECCI Cubre Colchón 135x190/200 - Cubrecolchón Impermeable 135x190/200  100% Bambú Fundas de Colchón  Protector de Colchón  Ultra Suave  Transpirable  Anti-Ácaros  Silencioso [ 135 x 190/200 cm ]'
+slug: 'B07GZTFSVN-es RECCI Cubre Colchón 135x190/200 - Cubrecolchón Impermeable...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

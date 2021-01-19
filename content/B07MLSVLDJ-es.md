@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K-HzasjSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLSVLDJ-es Clarks Clarkdale Gobi  Botas Chelsea para Hombre  Grau  Taupe Suede Taupe Suede   43 EU'
+slug: 'B07MLSVLDJ-es Clarks Clarkdale Gobi Botas Chelsea para Hombre Grau Taupe...'
+tags: 
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

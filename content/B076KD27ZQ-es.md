@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rlTY8CI+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076KD27ZQ-es ORICO Funda Disco Duro Externo 3.5 para Western Digital WD Seagate Toshiba Samsung Naranja'
+slug: 'B076KD27ZQ-es ORICO Funda Disco Duro Externo 3.5 para Western Digital WD...'
+tags: 
 actualPrice: 9.47 EUR
 currency: EUR
 price: 9.47

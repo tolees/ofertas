@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TLuTzIH+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHD232T-es Helly Hansen W HH LIFA Merino Basleayer Pant  Mujer  Black  XS'
+slug: 'B06XHD232T-es Helly Hansen W HH LIFA Merino Basleayer Pant Mujer Black XS'
+tags: 
 actualPrice: 46.5 EUR
 currency: EUR
 price: 46.5

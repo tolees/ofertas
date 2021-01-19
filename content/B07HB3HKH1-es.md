@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB3HKH1-es Pop! Fallout - Figura de Vinilo Nerd Rage'
+tags: 
 actualPrice: 10.61 EUR
 currency: EUR
 price: 10.61

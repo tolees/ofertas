@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xXKN8Kf2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LIEXSPG-es MAKITA UC4041A Herramienta  1800 W  240 V  Negro  Azul  40cm'
+slug: 'B00LIEXSPG-es MAKITA UC4041A Herramienta 1800 W 240 V Negro Azul 40cm'
+tags: 
 actualPrice: 125.76 EUR
 currency: EUR
 price: 125.76

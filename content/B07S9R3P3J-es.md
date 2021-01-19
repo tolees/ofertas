@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XMo9NwqDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9R3P3J-es WHRZ Huohou - Abrebotellas eléctrico  abridor de botellas automático inalámbrico  recargable  cortador de láminas de aluminio  abrebotellas de acero inoxidable  negro '
+slug: 'B07S9R3P3J-es WHRZ Huohou - Abrebotellas eléctrico abridor de botellas...'
+tags: 
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

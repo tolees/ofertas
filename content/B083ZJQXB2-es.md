@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h-YfsVBwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZJQXB2-es ghd curve classic curl - Tenacilla profesional de 26mm  para crear rizos clásicos  tecnología ultra-zone  color negro'
+slug: 'B083ZJQXB2-es ghd curve classic curl - Tenacilla profesional de 26mm...'
+tags: 
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

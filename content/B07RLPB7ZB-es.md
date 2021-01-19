@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zrQ6BBJdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLPB7ZB-es J.Rosée Collana Donna Argento Sterling 925 Pendente Ciondolo Infinito'
+slug: 'B07RLPB7ZB-es J.Rosée Collana Donna Argento Sterling 925 Pendente...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

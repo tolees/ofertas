@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZL8YokACL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077QF2GX7-es Aigostar Fighter 32JVT – 2400W Secador de pelo profesional iónico  2 velocidades y 3 temperaturas  botón de aire frío. Incluye difusor y boquilla concentradora de calor. Motor de AC.'
+slug: 'B077QF2GX7-es Aigostar Fighter 32JVT – 2400W Secador de pelo profesional...'
+tags: 
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

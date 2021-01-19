@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZNXaQ6YiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086TSZHDN-es Aorula 48 Colores Air Dry Clay  Arcilla de Modelado Ultraligero  Magic Clay Artist Studio Toy  Arcilla y Masa de Modelado no tóxico  Arte Creativo DIY Crafts  Regalo para niños  48 Colores '
+slug: 'B086TSZHDN-es Aorula 48 Colores Air Dry Clay Arcilla de Modelado...'
+tags: 
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

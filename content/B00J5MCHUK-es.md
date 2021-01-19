@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V7d8ZFCSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J5MCHUK-es Bourjois Velvet  Barra de Labios Líquida  Tono 03 Hot pepper  7.7ml'
+slug: 'B00J5MCHUK-es Bourjois Velvet Barra de Labios Líquida Tono 03 Hot pepper...'
+tags: 
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51T4gt0lFAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5DT7XR-es SUPERMOM Pants Utb Tropical Pantalones premamá  Multicolor  Multicolour AOP P184   36  Talla del Fabricante: X-Small  para Mujer'
+slug: 'B07J5DT7XR-es SUPERMOM Pants Utb Tropical Pantalones premamá Multicolor...'
+tags: 
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

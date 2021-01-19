@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XNLNg4K1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNNRF8C-es Calvin Klein Medium Drawstring Bañador  Azul  Snorkel Blue CJR   Small para Hombre'
+slug: 'B07VNNRF8C-es Calvin Klein Medium Drawstring Bañador Azul Snorkel Blue...'
+tags: 
 actualPrice: 33.19 EUR
 currency: EUR
 price: 33.19

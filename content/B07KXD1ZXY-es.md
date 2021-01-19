@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EdzuiushL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXD1ZXY-es Keter Duotech M Maceta Sequoia  Tamaño M'
+slug: 'B07KXD1ZXY-es Keter Duotech M Maceta Sequoia Tamaño M'
+tags: 
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

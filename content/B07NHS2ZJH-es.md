@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZJPrWnDNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NHS2ZJH-es Tamaris 1-1-23720-33  Zapatillas para Mujer  Negro  Black/Pewter 94   37 EU'
+slug: 'B07NHS2ZJH-es Tamaris 1-1-23720-33 Zapatillas para Mujer Negro...'
+tags: 
 actualPrice: 16.27 EUR
 currency: EUR
 price: 16.27

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rHLgBGqmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1DXYCC-es Angel Schlesser Eau Fraiche Citrus Marino Edt Vapo 150 Ml - 150 ml'
+slug: 'B07T1DXYCC-es Angel Schlesser Eau Fraiche Citrus Marino Edt Vapo 150 Ml...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

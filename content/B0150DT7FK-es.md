@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KcpD2JEUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0150DT7FK-es Libratone Zipp - Altavoz inalámbrico con Bluetooth  Multiroom  SoundSpaces  AirPlay  Bluetooth  DLNA  WiFi   Rojo'
+slug: 'B0150DT7FK-es Libratone Zipp - Altavoz inalámbrico con Bluetooth...'
+tags: 
 actualPrice: 165.03 EUR
 currency: EUR
 price: 165.03

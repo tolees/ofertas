@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HKV1QXWLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087FG79WT-es Libershine Bandas Elásticas Musculación Fitness  Cintas Elásticas Musculación Fitness  11 pcs Bandas de Resistencia - 5 Tubos de látex  2 Manijas  2 Correa de Tobillo  Ancla de Puerta  Bolsa'
+slug: 'B087FG79WT-es Libershine Bandas Elásticas Musculación Fitness Cintas...'
+tags: 
 actualPrice: 8.63 EUR
 currency: EUR
 price: 8.63

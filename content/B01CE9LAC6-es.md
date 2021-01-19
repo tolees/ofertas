@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QXVFoB3mL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CE9LAC6-es Italian Bed Linen Più Bello Protector de Asiento para Sofá  Poliéster  Fucsia  160x50x1 cm'
+slug: 'B01CE9LAC6-es Italian Bed Linen Più Bello Protector de Asiento para Sofá...'
+tags: 
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

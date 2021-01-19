@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r311fpT-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018NKPZVW-es DeLOCK 0.15m SATA 15p / 4p 0 15 m - Cables de alimentación interna  0 15 m  SATA de 15 pines  4-pin PWM  Male connector/Male connector  Derecho  Derecho '
+slug: 'B018NKPZVW-es DeLOCK 0.15m SATA 15p / 4p 0 15 m - Cables de alimentación...'
+tags: 
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

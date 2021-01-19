@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gnbDhcJbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IKI6K08-es Bosch Professional GBH 18 V-EC - Martillo perforador  combinadoa batería  1 7 J  2 baterías x 5 0 Ah  18V  Ø máx. hormigón 18 mm  SDS plus  en L-BOXX '
+slug: 'B00IKI6K08-es Bosch Professional GBH 18 V-EC - Martillo perforador...'
+tags: 
 actualPrice: 425.0 EUR
 currency: EUR
 price: 425.0

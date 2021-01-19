@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JhHE3Jj0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4XZPKJ-es New Balance 500 h  Zapatillas para Hombre  Azul  Blue TSB   43 EU'
+slug: 'B07S4XZPKJ-es New Balance 500 h Zapatillas para Hombre Azul Blue TSB 43 EU'
+tags: 
 actualPrice: 44.23 EUR
 currency: EUR
 price: 44.23

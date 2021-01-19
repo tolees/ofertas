@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MBNYmPfAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003UWRYBI-es TP-Link TL-SG1016D - Gigabit Ethernet con 16 Puertos  Conmutador no Gestionado  Plug and Play  Metal  Escritorio  montaje en bastidor  sin Ventilador  Vida Útil Limitada '
+slug: 'B003UWRYBI-es TP-Link TL-SG1016D - Gigabit Ethernet con 16 Puertos...'
+tags: 
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

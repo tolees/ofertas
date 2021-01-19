@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fo1WgQLML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPX9KZP-es Homyl - Recambio de cartucho de tinta de 69 ml para 500 ps / 500 ps / 510 amarillo'
+slug: 'B07QPX9KZP-es Homyl - Recambio de cartucho de tinta de 69 ml para 500 ps...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

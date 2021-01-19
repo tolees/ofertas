@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YGBsW67eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGWMLNX-es Calcetines de Senderismo de Lana Merino 3 pares  Multicolor: Marrón  Verde  Rojo  EU 31-34 '
+slug: 'B07QGWMLNX-es Calcetines de Senderismo de Lana Merino 3 pares...'
+tags: 
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

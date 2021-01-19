@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31N7ZNAdf0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AKBQM9W-es NanoCable 10.15.0903 - Cable HDMI a Mini HDMI alta velocidad V1.3B  A/M-C/M  macho-macho  negro  3mts'
+slug: 'B00AKBQM9W-es NanoCable 10.15.0903 - Cable HDMI a Mini HDMI alta...'
+tags: 
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

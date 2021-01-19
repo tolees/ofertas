@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51AANbqBGgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXQH5ZZ-es deAO Coches 2en1 para Montar y Desmontar Conjunto de 2 Vehículos Puzle de 55 Piezas Incluye Taladro Eléctrico Kit de Montaje con Luces y Sonidos'
+slug: 'B07TXQH5ZZ-es deAO Coches 2en1 para Montar y Desmontar Conjunto de 2...'
+tags: 
 actualPrice: 10.61 EUR
 currency: EUR
 price: 10.61

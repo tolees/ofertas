@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Y5RgB5n+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086HKSGFX-es American Tourister Upbeat - Mochila  42 cm  20.5 L  Rosa  Paradise Pink '
+slug: 'B086HKSGFX-es American Tourister Upbeat - Mochila 42 cm 20.5 L Rosa...'
+tags: 
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

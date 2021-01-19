@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31izzOmcICL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRBTYR6-es FKANT Batería Externa Movil  Powerbank 25000mAh Carga Rápida Cargador Portátil Universal con Ultra Alta Capacidad  Puertos Dobles USB y Linterna LED para iPhone Samsung Huawei y Otros Dispositivos'
+slug: 'B07PRBTYR6-es FKANT Batería Externa Movil Powerbank 25000mAh Carga...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

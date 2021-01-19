@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5159pXr79NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFCHJ2N-es incarpo Zapatillas Casa Mujer Lana de Coral Zapatillas de Estar por Casa Antideslizante Pantuflas de Interior y Exterior Cálido y Confortable'
+slug: 'B07YFCHJ2N-es incarpo Zapatillas Casa Mujer Lana de Coral Zapatillas de...'
+tags: 
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

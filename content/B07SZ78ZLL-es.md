@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YoRtrilKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZ78ZLL-es ieGeek Autoradio Bluetooth  Estéreo RDS  Soporta 60W X 4 MP3/FM/AM/SD/AUX/USB con Dos Botones  para controlar el Volumen y Tiempo de visualización Independiente  Llamadas Manos Libres'
+slug: 'B07SZ78ZLL-es ieGeek Autoradio Bluetooth Estéreo RDS Soporta 60W X 4...'
+tags: 
 actualPrice: 29.96 EUR
 currency: EUR
 price: 29.96

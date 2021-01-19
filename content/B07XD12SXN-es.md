@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lVU22XvZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD12SXN-es BLAVOR - Cargador Solar inalámbrico  batería Externa de 20000 mAh con 5 Paneles solares extraíbles  Cargador portátil Qi  Linterna SOS Tipo C y Salida Dual'
+slug: 'B07XD12SXN-es BLAVOR - Cargador Solar inalámbrico batería Externa de...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319gTH3AO7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FWYQJN-es Samsung Clear View Standing Cover - Funda para Galaxy S9+  color negro'
+slug: 'B079FWYQJN-es Samsung Clear View Standing Cover - Funda para Galaxy S9+...'
+tags: 
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

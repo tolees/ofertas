@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TeCwZiuwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079K85TZJ-es ORICO USB 3.0 2.5 Inch Caja Disco Duro Externo  SATA 3.0 a USB 3.0 5 GB/s  Transparente para HDD/SSD de 7mm y 9.5mm  Sopporta UASP   Libre de Herramienta  LED Indicador'
+slug: 'B079K85TZJ-es ORICO USB 3.0 2.5 Inch Caja Disco Duro Externo SATA 3.0 a...'
+tags: 
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dHzBTGWUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R1KXYX-es 50x56cm Manta Electrica Espalda y Cuello  Almohadilla Eléctrica Cervical 100W de 45-65°C Calentar Rápido  Manta Electrica Lumbar Lavable  Aliviar Dolores  Anti-Sobrecalentamiento  Auto-Apagado'
+slug: 'B075R1KXYX-es 50x56cm Manta Electrica Espalda y Cuello Almohadilla...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

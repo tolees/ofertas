@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IYbWUlMML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LLT7AKG-es NYK1 Champu Sin Sulfatos Y Acondicionador - Champu Sin Sulfatos Ni Parabenos ni Siliconas  500ml x2  Post Keratina Alisado Brasileño Tratamiento Keratina Y Un Cabello De Colores Champu Sin Sal'
+slug: 'B01LLT7AKG-es NYK1 Champu Sin Sulfatos Y Acondicionador - Champu Sin...'
+tags: 
 actualPrice: 29.96 EUR
 currency: EUR
 price: 29.96

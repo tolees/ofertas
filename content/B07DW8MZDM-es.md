@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412pGswaKAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DW8MZDM-es Salewa WS Speed Beat GTX  Zapatillas de Running para Asfalto para Mujer  Verde  Shaded Spruce/Fluo Coral 8631   36 EU'
+slug: 'B07DW8MZDM-es Salewa WS Speed Beat GTX Zapatillas de Running para...'
+tags: 
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h2JkFxWyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074QTBVGY-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Cuero FTW5007'
+slug: 'B074QTBVGY-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 114.36 EUR
 currency: EUR
 price: 114.36

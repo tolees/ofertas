@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CRc+KN-QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHMNSGJ-es Inventor EVA II Pro Wifi 20 litros/día  Deshumidificador con Acceso Remoto  Secador de Ropa y Deshumidificación Inteligente para Máximo Ahorro de Energía - 2 Años de Garantía'
+slug: 'B07XHMNSGJ-es Inventor EVA II Pro Wifi 20 litros/día Deshumidificador...'
+tags: 
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

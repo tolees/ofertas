@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61SF7KCiatL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BK15X3W-es BOSHUN Pintar por Numeros para Adultos Niños Pintura por Números con Pinceles y Pinturas Decoraciones para el Hogar Lluvia neblinosa  16 * 20 Pulgadas  Sin Marco '
+slug: 'B07BK15X3W-es BOSHUN Pintar por Numeros para Adultos Niños Pintura por...'
+tags: 
 actualPrice: 8.11 EUR
 currency: EUR
 price: 8.11

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gJCnv57iL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079C7XT5S-es Call of Duty Taza  cerámica  Multicolor  8 x 12 x 9 cm'
+slug: 'B079C7XT5S-es Call of Duty Taza cerámica Multicolor 8 x 12 x 9 cm'
+tags: 
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

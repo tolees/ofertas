@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OefWfE2wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWWZ6HH-es Antena de TV  Antena de TV Digital HD para Interiores  Antena de TV de Alcance de 130KM con Amplificador de Señal Gratuita con Cable Coaxial de 5M  4K 1080P  Antena de TV más Potente  Estilo-2 '
+slug: 'B07QWWZ6HH-es Antena de TV Antena de TV Digital HD para Interiores...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FgNEMz5hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPJTBZZ-es 6PC Juego de Barbacoa de Acero Inoxidable - Heavy Duty Kit de Accesorios de Herramienta de Barbacoa para Barbacoa Profesional Profesional - Regalo Ideal para Hombres papá'
+slug: 'B06XPJTBZZ-es 6PC Juego de Barbacoa de Acero Inoxidable - Heavy Duty Kit...'
+tags: 
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

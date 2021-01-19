@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VRs2DNtDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XQJ1XQ-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible con Huawei Honor V30/V30 Pro Funda TPU Silicona Suave Protector Ultra Slim Anti-Rasguño Transparente Carcasa  A18 '
+slug: 'B085XQJ1XQ-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

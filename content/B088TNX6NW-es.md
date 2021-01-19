@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BdZfksObL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TNX6NW-es Phipuds Webcam PC Full HD 1080P con Micrófono  Webcam Portátil para PC  Webcam USB 2.0  Streaming Cámara Reducción de Ruido para Videollamadas  Grabación  Conferencias con Clip Giratorio'
+slug: 'B088TNX6NW-es Phipuds Webcam PC Full HD 1080P con Micrófono Webcam...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

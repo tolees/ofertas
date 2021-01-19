@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qEnJtjqyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBZ8F34-es MSI GE63 Raider RGB 8SG-029ES - Ordenador portátil Gaming 15.6" FullHD 144Hz  Intel Core i7-8750H  16GB RAM  1TB HDD + 512GB SSD  Nvidia RTX 2080 8GB  Windows 10  Teclado QWERTY Español'
+slug: 'B07MBZ8F34-es MSI GE63 Raider RGB 8SG-029ES - Ordenador portátil Gaming...'
+tags: 
 actualPrice: 1910.0 EUR
 currency: EUR
 price: 1910.0

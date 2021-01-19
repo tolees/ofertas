@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hQWLkV8YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GCF7AT6-es Fournier- Nº 1-40 Cartas Set de baraja Española y tapete con Reglamento de Mus y Tute   F36790 '
+slug: 'B00GCF7AT6-es Fournier- Nº 1-40 Cartas Set de baraja Española y tapete...'
+tags: 
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

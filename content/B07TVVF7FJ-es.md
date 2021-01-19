@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31n9UHCSv2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVVF7FJ-es Skechers Arch Fit  Zapatillas para Hombre  Azul  Navy Textile/Synthetic/Trim Nvy   42 EU'
+slug: 'B07TVVF7FJ-es Skechers Arch Fit Zapatillas para Hombre Azul Navy...'
+tags: 
 actualPrice: 55.46 EUR
 currency: EUR
 price: 55.46

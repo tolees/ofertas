@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IoplUIyRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y6DKVBX-es BaronHong Sport Bra Chest Binder Transpirable Mesh Corset para Tomboy Trans Lesbian  Blanco  M '
+slug: 'B06Y6DKVBX-es BaronHong Sport Bra Chest Binder Transpirable Mesh Corset...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

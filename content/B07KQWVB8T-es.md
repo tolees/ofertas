@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sBA-tdYJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQWVB8T-es Look by Crewcut - Camisola de cambray para niña  Chambray  8'
+slug: 'B07KQWVB8T-es Look by Crewcut - Camisola de cambray para niña Chambray 8'
+tags: 
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

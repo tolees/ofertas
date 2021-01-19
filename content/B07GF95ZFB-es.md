@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Id+JHg3VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GF95ZFB-es Festina Reloj Analógico para Mujer de Cuarzo con Correa en Cuero F20407/1'
+slug: 'B07GF95ZFB-es Festina Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 85.4 EUR
 currency: EUR
 price: 85.4

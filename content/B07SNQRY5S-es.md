@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cC7mpS+cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNQRY5S-es Asics Gel-Nimbus 22  Running Shoe Mens  Tuna Blue/Pure Silver  42.5 EU'
+slug: 'B07SNQRY5S-es Asics Gel-Nimbus 22 Running Shoe Mens Tuna Blue/Pure...'
+tags: 
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

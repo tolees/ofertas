@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IQlpGJtsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CK5RV59-es Calvin Klein Strapless Lift Multiway Sujetador de múltiples vías  Marfil  Ivory 101   90E  Talla del Fabricante: DD34  Mujer'
+slug: 'B07CK5RV59-es Calvin Klein Strapless Lift Multiway Sujetador de...'
+tags: 
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

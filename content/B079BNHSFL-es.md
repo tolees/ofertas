@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xy3IKZOyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079BNHSFL-es XP-Pen 16 Pro HD IPS Tableta Gráfica con Pantalla con Teclas Express y Soporte ajustable Viene con el Último Software de Dibujo de OpenCanvas 7 o ArtRage 5'
+slug: 'B079BNHSFL-es XP-Pen 16 Pro HD IPS Tableta Gráfica con Pantalla con...'
+tags: 
 actualPrice: 459.0 EUR
 currency: EUR
 price: 459.0

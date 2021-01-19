@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uSyGeuX6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DL2QX9-es Ato Bea Pistola Masaje Muscular  Pistola de Masaje Massage Gun Pantalla táctil de 20 Velocidades Djustable con 6 Mensajes en la Pantalla LED para músculos  Cuello  Espalda  Pierna  Hombro  Mano'
+slug: 'B083DL2QX9-es Ato Bea Pistola Masaje Muscular Pistola de Masaje Massage...'
+tags: 
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

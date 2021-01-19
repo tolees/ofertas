@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HfiOB-MML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8RNL6P-es Samsung Led View - Funda para Galaxy Note 9  color azul- Version española'
+slug: 'B07F8RNL6P-es Samsung Led View - Funda para Galaxy Note 9 color azul-...'
+tags: 
 actualPrice: 30.98 EUR
 currency: EUR
 price: 30.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4140YD6srOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HTHZN3-es Piquadro BV3849MO Modus Trolley para portátil  40 x 20 x 55 cm  color Negro'
+slug: 'B071HTHZN3-es Piquadro BV3849MO Modus Trolley para portátil 40 x 20 x 55...'
+tags: 
 actualPrice: 358.45 EUR
 currency: EUR
 price: 358.45

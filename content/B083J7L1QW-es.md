@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QmgwBhdAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083J7L1QW-es Idocolrs - Funda transparente para Airpods 1 y 2 Kawaii  diseño de dinosaurio  ballena  gato  jirafa  abeja'
+slug: 'B083J7L1QW-es Idocolrs - Funda transparente para Airpods 1 y 2 Kawaii...'
+tags: 
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

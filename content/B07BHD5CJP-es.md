@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PiVGz6itL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHD5CJP-es Ringke Funda Xiaomi REDMI 5 Plus  [Fusion] Claro PC TPU Back Actualizado Ligera TPU Transparente Protección de Caída Protectora Cover para Redmi 5 Plus - Clear  Claro '
+slug: 'B07BHD5CJP-es Ringke Funda Xiaomi REDMI 5 Plus [Fusion] Claro PC TPU...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-WX9pnsKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005JZ4KDO-es Moulinex Toast & Grill TL6008 - Tostador y horno  2 en 1  potencia 1300 W  1 ranura larga  temporizador 10 min  termostato regulable hasta 220 C  Incluye libro de recetas  bandeja recogemigas'
+slug: 'B005JZ4KDO-es Moulinex Toast & Grill TL6008 - Tostador y horno 2 en 1...'
+tags: 
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

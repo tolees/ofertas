@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518xiknwCHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NCVBZ9-es HUAWEI Sonido Stone Portable Bluetooth Speaker CM51  Red'
+slug: 'B079NCVBZ9-es HUAWEI Sonido Stone Portable Bluetooth Speaker CM51 Red'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

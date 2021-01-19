@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419M1UKSP-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGS6DPW-es Almohadilla Eléctrica Térmica Calentamiento Rápido con Función de Apagado Automático Lavable a Máquina Alivia Dolor Muscular para Espalda Cuello Hombros Piernas'
+slug: 'B07WGS6DPW-es Almohadilla Eléctrica Térmica Calentamiento Rápido con...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

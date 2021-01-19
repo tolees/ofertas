@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Bbpnp1zrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XT9XLWM-es ANKENGS Protector de Pantalla para Xiaomi Redmi Note 8 Pro [3 Unidades]  Xiaomi Redmi Note 8 Pro Cristal Templado [dureza 9H][Anti-Arañazos]Xiaomi Redmi Note 8 Pro Vidrio Templado película Protectora'
+slug: 'B07XT9XLWM-es ANKENGS Protector de Pantalla para Xiaomi Redmi Note 8 Pro...'
+tags: 
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

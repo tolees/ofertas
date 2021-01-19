@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511VRakWVRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BLGS0P4-es Beurer BC31 Tensiómetro muñeca  para la medición de la presión arterial  pantalla LCD  indicador OMS  detección arritmia  memoria 60 espacios  color plata'
+slug: 'B00BLGS0P4-es Beurer BC31 Tensiómetro muñeca para la medición de la...'
+tags: 
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rcl6GU7BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013R93XCM-es 8GB Pendrive 10 Piezas Memoria USB - Portátil Pen Drive 8 GB Giratoria Negro Práctico y Económico Flash Drives - FEBNISCTE Giratoria Llaves USB 2.0 para Almacenamiento Datos con 10 Unidades Cordones'
+slug: 'B013R93XCM-es 8GB Pendrive 10 Piezas Memoria USB - Portátil Pen Drive 8...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

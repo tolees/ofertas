@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410YGSWfdpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG4LGSC-es New Balance Ypariv2 n  Zapatillas Deportivas para Interior para Niñas  Gris  Light Grey Light Grey   29 EU'
+slug: 'B07HG4LGSC-es New Balance Ypariv2 n Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

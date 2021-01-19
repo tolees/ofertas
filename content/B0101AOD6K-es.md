@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BvvEqoJIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0101AOD6K-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FS5088'
+slug: 'B0101AOD6K-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 106.87 EUR
 currency: EUR
 price: 106.87

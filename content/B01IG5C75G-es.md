@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Aa1Z1i7rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IG5C75G-es Camper Herren Beetle Sneaker  Braun  Medium Brown 210   39 EU'
+slug: 'B01IG5C75G-es Camper Herren Beetle Sneaker Braun Medium Brown 210 39 EU'
+tags: 
 actualPrice: 56.31 EUR
 currency: EUR
 price: 56.31

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hJeS+ZDfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKKF87L-es Nike W NP Shrt 3in Pantalones Cortos  Mujer  Negro  Black/Black/White   S'
+slug: 'B07FKKF87L-es Nike W NP Shrt 3in Pantalones Cortos Mujer Negro...'
+tags: 
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

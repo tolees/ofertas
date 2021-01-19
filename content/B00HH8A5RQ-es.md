@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vyu8Bk12L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HH8A5RQ-es Sony DSC-W830 - Cámara compacta de 20.1 Mp  pantalla de 2.7"  zoom óptico 8x  estabilizador óptico   negro'
+slug: 'B00HH8A5RQ-es Sony DSC-W830 - Cámara compacta de 20.1 Mp pantalla de...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

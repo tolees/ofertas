@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-hAtfEXxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JF5XP9B-es Férula del Pulgar  Muñequera de Neopreno  Ajustable Pulgar Férula para Dolor  Sprained  Artritis  Tendonitis- Mejor Disparador Inmovilizador de Pulgar para el Pulgar Restricción  Apoyo para el Pulgar'
+slug: 'B07JF5XP9B-es Férula del Pulgar Muñequera de Neopreno Ajustable Pulgar...'
+tags: 
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

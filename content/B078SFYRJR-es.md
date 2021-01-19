@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C2UASWwqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SFYRJR-es Michael Kors Reloj Analogico para Unisex de Cuarzo con Correa en Cuero MKT4025'
+slug: 'B078SFYRJR-es Michael Kors Reloj Analogico para Unisex de Cuarzo con...'
+tags: 
 actualPrice: 179.4 EUR
 currency: EUR
 price: 179.4

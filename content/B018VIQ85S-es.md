@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eVfAdFlCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018VIQ85S-es QIYUN.Z Mujeres del Lazo De La Cintura De Algodon Pantalones Cortos De Playa Al Aire Libre Ocasionales De Los Deportes Pantalones Cortos'
+slug: 'B018VIQ85S-es QIYUN.Z Mujeres del Lazo De La Cintura De Algodon...'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31L4CJCaKjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I94UYAK-es Trio Lighting 603900302 Lámpara de techo Stoffschirm Schwarz  Negro  50 cm'
+slug: 'B00I94UYAK-es Trio Lighting 603900302 Lámpara de techo Stoffschirm...'
+tags: 
 actualPrice: 61.87 EUR
 currency: EUR
 price: 61.87

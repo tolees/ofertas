@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EaNH3ADZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZBPFLR-es KFD - Adaptador de Corriente DC 19 V para Intel NUC FSP065-10AABA Mini PC NUC8I7BEH NUC8i5BEH NUC8i5BEK NUC7I7BNH NUC7I5BNK NUC7i5BNH NUC5CPYH NUC5i5RYH NUC6CAYH NUC6i5SYH'
+slug: 'B07PZBPFLR-es KFD - Adaptador de Corriente DC 19 V para Intel NUC...'
+tags: 
 actualPrice: 23.61 EUR
 currency: EUR
 price: 23.61

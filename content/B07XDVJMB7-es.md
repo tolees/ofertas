@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31be2xxU+ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDVJMB7-es TOUCHBeauty Rizador de Pestañas Eléctrico  Rizador de Pestañas con Calefacción con almohadillas calefactoras de silicona inteligentes  calentamiento rápido'
+slug: 'B07XDVJMB7-es TOUCHBeauty Rizador de Pestañas Eléctrico Rizador de...'
+tags: 
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31L4CXUhiOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0853PQY9K-es Renberg Papelera con Pedal 3.0l Acero Inoxidable bodø  Metal  Cromado  3 litros'
+slug: 'B0853PQY9K-es Renberg Papelera con Pedal 3.0l Acero Inoxidable bodø...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

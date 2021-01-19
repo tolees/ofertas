@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wA1XeHtrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CVNY9K-es Balvi Bandeja Caramel Color Amarillo bandejas Antideslizantes para Servir Comida En Forma de barrita de Chocolate Soporte recangular Diseño Americano Vintage Melamina 2x45x31 5 cm'
+slug: 'B015CVNY9K-es Balvi Bandeja Caramel Color Amarillo bandejas...'
+tags: 
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

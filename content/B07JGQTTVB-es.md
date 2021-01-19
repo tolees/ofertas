@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nD45m0EAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGQTTVB-es Skechers Girls  DYNA-AIR-JUMP BRIGHTS Trainers  Black  Black Hot Pink BKHP   11  28.5 EU '
+slug: 'B07JGQTTVB-es Skechers Girls DYNA-AIR-JUMP BRIGHTS Trainers Black Black...'
+tags: 
 actualPrice: 25.76 EUR
 currency: EUR
 price: 25.76

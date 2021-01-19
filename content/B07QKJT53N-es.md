@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pf3JlmAHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKJT53N-es MS Windows 10 Pro 32 Bits y 64 Bits - Clave de Licencia Original por Correo Postal y Electrónico + Instrucciones de TPFNet® - Envío Máximo 60min'
+slug: 'B07QKJT53N-es MS Windows 10 Pro 32 Bits y 64 Bits - Clave de Licencia...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

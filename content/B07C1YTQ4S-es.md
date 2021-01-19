@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nUjXwzKIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C1YTQ4S-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Cuero CL30056'
+slug: 'B07C1YTQ4S-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

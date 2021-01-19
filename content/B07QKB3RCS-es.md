@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zbR00K17L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKB3RCS-es LENBEST Cojín de Agua Inflable para Bebé  Alfombra Inflable con Agua  Juego de Esterilla de Agua de PVC  Estera Inflable del Agua del Bebé de Tortuga  con Martillo Inflable de Juguete - Verde'
+slug: 'B07QKB3RCS-es LENBEST Cojín de Agua Inflable para Bebé Alfombra Inflable...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

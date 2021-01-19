@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZTt2xNmQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXKZTZF-es Levi s 502 Regular Taper Jeans  Azul  Biologia ADV 0548   W30/L30  Talla del Fabricante: 30 30  para Hombre'
+slug: 'B07RXKZTZF-es Levi s 502 Regular Taper Jeans Azul Biologia ADV 0548...'
+tags: 
 actualPrice: 32.24 EUR
 currency: EUR
 price: 32.24

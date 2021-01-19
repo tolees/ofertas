@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zeN+gODZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4SZRD2-es Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable 1791546'
+slug: 'B07G4SZRD2-es Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 127.81 EUR
 currency: EUR
 price: 127.81

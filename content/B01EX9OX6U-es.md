@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Tfj2AfL-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EX9OX6U-es LEDKIA LIGHTING Placa LED Circular SuperSlim 18W Silver Blanco Frío 6000K - 6500K'
+slug: 'B01EX9OX6U-es LEDKIA LIGHTING Placa LED Circular SuperSlim 18W Silver...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

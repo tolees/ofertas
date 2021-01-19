@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Vy5gGbE-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZKF8DP-es Swatch Reloj Analógico para Mujer de Cuarzo con Correa en Cuero YLS212'
+slug: 'B07TZKF8DP-es Swatch Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 56.05 EUR
 currency: EUR
 price: 56.05

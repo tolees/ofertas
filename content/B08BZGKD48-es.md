@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S2ozuLXLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZGKD48-es FSXMPL Pintura por NúMeros NiñOs para Adultos Principiantes Bricolaje  Cebra de colorDecoracióN Artesanal para El Hogar 40x50cm  Sin Marco '
+slug: 'B08BZGKD48-es FSXMPL Pintura por NúMeros NiñOs para Adultos...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

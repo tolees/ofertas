@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CV+3JBuPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0774LTHS1-es Herramienta de Espaciador de Cuero Puntada de Costura de Cuero Rueda de Aguja de Manija para Artesanía de Cuero'
+slug: 'B0774LTHS1-es Herramienta de Espaciador de Cuero Puntada de Costura de...'
+tags: 
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

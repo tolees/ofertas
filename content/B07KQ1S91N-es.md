@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hcM0JWJKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ1S91N-es LoveOlvidoE MC31 Photo Frame Camera DV Un Tipo de cámara Oculta de Seguridad para el hogar MIN DV de Gama Alta con Estilo de Almacenamiento móvil'
+slug: 'B07KQ1S91N-es LoveOlvidoE MC31 Photo Frame Camera DV Un Tipo de cámara...'
+tags: 
 actualPrice: 14.24 EUR
 currency: EUR
 price: 14.24

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aw6hf7nlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NYTJ998-es Skechers Metco  Botas Clasicas para Hombre  Marrón  Brown Leather W/Mesh BR OL   44 EU'
+slug: 'B07NYTJ998-es Skechers Metco Botas Clasicas para Hombre Marrón Brown...'
+tags: 
 actualPrice: 37.76 EUR
 currency: EUR
 price: 37.76

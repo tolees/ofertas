@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YHiDwpT9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9MC1JX-es Onlyoily Lápiz labial  5 colores mate de larga duración hidratante lápiz lápiz labial lápiz labial brillo Set'
+slug: 'B07Y9MC1JX-es Onlyoily Lápiz labial 5 colores mate de larga duración...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

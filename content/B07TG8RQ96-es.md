@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hfxodJizL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TG8RQ96-es Syllable Hub USB Tipo C 10 en 1  Hub de Aluminio Tipo C con 4 USB 3.0 HDMI 4K Gigabit Ethernet RJ45 1080P VGA 3.5mm de Salida de Audio Lector de Tarjetas SD/TF con Carga Rápida PD USB-C'
+slug: 'B07TG8RQ96-es Syllable Hub USB Tipo C 10 en 1 Hub de Aluminio Tipo C con...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

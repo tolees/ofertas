@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419UjFvOhFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVCCTJQ-es Ácido Hialurónico puro 400 mg | 120 cápsulas veganas  Suministro para 4 meses  | Alta dosis  concentración y biodisponibilidad que mantiene los cartílagos  articulaciones  huesos y piel sanos'
+slug: 'B07TVCCTJQ-es Ácido Hialurónico puro 400 mg | 120 cápsulas veganas...'
+tags: 
 actualPrice: 17.02 EUR
 currency: EUR
 price: 17.02

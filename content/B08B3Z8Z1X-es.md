@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uVcscaX+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3Z8Z1X-es WIFORT Dispensador de Jabón Automático  400ML Dispensador de Líquido Sin Contacto con Sensor de Infrarrojos  Interruptor Ajustable & Base Impermeable para Baño/Cocina'
+slug: 'B08B3Z8Z1X-es WIFORT Dispensador de Jabón Automático 400ML Dispensador...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

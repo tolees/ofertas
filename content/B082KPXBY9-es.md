@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zkxMzQzpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KPXBY9-es Perfume Elegante Original De 100 Ml Para Hombres Incienso Fresco De Larga Duración Perfume De Fragancia De Madera Eternity Classic Regalos De Cumpleanos'
+slug: 'B082KPXBY9-es Perfume Elegante Original De 100 Ml Para Hombres Incienso...'
+tags: 
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

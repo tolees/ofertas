@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JrU09mGpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5DBSP1-es Wrangler Straight Jeans  Negro  Blueblack 51L   27W / 30L para Mujer'
+slug: 'B01M5DBSP1-es Wrangler Straight Jeans Negro Blueblack 51L 27W / 30L para...'
+tags: 
 actualPrice: 16.54 EUR
 currency: EUR
 price: 16.54

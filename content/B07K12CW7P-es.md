@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31LWiIJta9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K12CW7P-es adidas Forest Grove C  Zapatillas de Gimnasia Unisex Niños  Naranja  Clear Orange/FTWR White/Clear Orange Clear Orange/FTWR White/Clear Orange   31.5 EU'
+slug: 'B07K12CW7P-es adidas Forest Grove C Zapatillas de Gimnasia Unisex Niños...'
+tags: 
 actualPrice: 22.82 EUR
 currency: EUR
 price: 22.82

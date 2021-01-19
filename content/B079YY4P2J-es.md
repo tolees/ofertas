@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41punizQPBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YY4P2J-es Adidas Samba OG  Zapatillas de Gimnasia para Hombre  Negro  Core Black/Footwear White/Gum 0   46 EU'
+slug: 'B079YY4P2J-es Adidas Samba OG Zapatillas de Gimnasia para Hombre Negro...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

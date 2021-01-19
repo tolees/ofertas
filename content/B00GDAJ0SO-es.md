@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4147H9DFqDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GDAJ0SO-es YAZILIND Joyería Hecha a Mano con Encanto étnica de Plata tibetana Rimous Turquesa Lindo Brazalete de la Pulsera de Regalo para Mujeres'
+slug: 'B00GDAJ0SO-es YAZILIND Joyería Hecha a Mano con Encanto étnica de Plata...'
+tags: 
 actualPrice: 0.48 EUR
 currency: EUR
 price: 0.48

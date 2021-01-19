@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XIxgL3hcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZZWYHG-es Elite Bags  EMS  Riñonera botiquín de primeros auxilios  Básica  Rojo'
+slug: 'B075ZZWYHG-es Elite Bags EMS Riñonera botiquín de primeros auxilios...'
+tags: 
 actualPrice: 12.51 EUR
 currency: EUR
 price: 12.51

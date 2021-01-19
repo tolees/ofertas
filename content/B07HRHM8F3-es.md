@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WR7hG-0BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRHM8F3-es Sennheiser  MOMENTUM True Wireless  - Auriculares intraurales inalámbricos  con control táctil  audición transparente y estuche de carga'
+slug: 'B07HRHM8F3-es Sennheiser MOMENTUM True Wireless - Auriculares...'
+tags: 
 actualPrice: 174.99 EUR
 currency: EUR
 price: 174.99

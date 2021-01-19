@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gq7+CRDEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC3Q52Z-es HUGO Abaco  Pantalones cortos Hombre  Negro  Black 001   X-Large'
+slug: 'B07NC3Q52Z-es HUGO Abaco Pantalones cortos Hombre Negro Black 001 X-Large'
+tags: 
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

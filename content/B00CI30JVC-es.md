@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gjWwtqD9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CI30JVC-es NANOCABLE 10.31.0102 - Tenaza Metalica de carraca para crimpar Cables RJ10/RJ11/RJ12/RJ45'
+slug: 'B00CI30JVC-es NANOCABLE 10.31.0102 - Tenaza Metalica de carraca para...'
+tags: 
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

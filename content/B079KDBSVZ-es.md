@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HdWnguMzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KDBSVZ-es 12W LED Apliques de Pared Interior/exterior  Lamparas de salon Dormitorio  Jardín De Iluminacion con ángulo ajustable Diseño impermeable IP65 3000K Blanco Cálido  Blanco '
+slug: 'B079KDBSVZ-es 12W LED Apliques de Pared Interior/exterior Lamparas de...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K1-DYTgQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T34TZ6O-es Emsa Clip&Close - Set de 9 Herméticos de Plástico Rectangular de 0.15  0.25  2x0.55/0.55  1  1.10  2.30 L   higiénico  no retiene olores ni sabores 100% libre de BPA'
+slug: 'B00T34TZ6O-es Emsa Clip&Close - Set de 9 Herméticos de Plástico...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rInZuv4tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FK53MLF-es Revlon  Accesorio de coloración - 60 ml.'
+slug: 'B07FK53MLF-es Revlon Accesorio de coloración - 60 ml.'
+tags: 
 actualPrice: 3.53 EUR
 currency: EUR
 price: 3.53

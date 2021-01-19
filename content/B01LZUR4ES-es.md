@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yBTeOl8tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZUR4ES-es VAUDE ROM II Bolsas  Unisex Adulto  Marine  S'
+slug: 'B01LZUR4ES-es VAUDE ROM II Bolsas Unisex Adulto Marine S'
+tags: 
 actualPrice: 29.04 EUR
 currency: EUR
 price: 29.04

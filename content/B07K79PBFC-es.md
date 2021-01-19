@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DWOruCPkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K79PBFC-es CMP Hamal  Sandalia con Pulsera Unisex Niños  Rosa  Geranio-Bamboo 14hc   29 EU'
+slug: 'B07K79PBFC-es CMP Hamal Sandalia con Pulsera Unisex Niños Rosa Geranio-...'
+tags: 
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

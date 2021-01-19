@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VGT8MgRWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2YS5ZR-es HandFan Ventilador de Mano Recargable Cargo Base 2600mAh batería 4 Modos Mudo estupendo pequeño Escritorio del USB del Ventilador del Viento Naturaleza 22H Tiempo de Trabajo para el hogar/Viajes'
+slug: 'B07P2YS5ZR-es HandFan Ventilador de Mano Recargable Cargo Base 2600mAh...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

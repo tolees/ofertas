@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NvTtJt1WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKXC26X-es Memoria USB Universal de 64 GB  Pen Drive Tipo C Micro USB Unidad de Almacenamiento Externo U Disk para iPhone/iPad/iPod/Mac/iOS/Android teléfono móvil y Ordenador Negro '
+slug: 'B07JKXC26X-es Memoria USB Universal de 64 GB Pen Drive Tipo C Micro USB...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

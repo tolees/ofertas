@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EFmNS1d2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XY96JDR-es LELO SORAYA 2 Conejito masajeador Aqua para placer interno y externo. Sumergible e inalámbrico'
+slug: 'B07XY96JDR-es LELO SORAYA 2 Conejito masajeador Aqua para placer interno...'
+tags: 
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

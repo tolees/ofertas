@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519R1d1Kn3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBJ27X3-es LIGE Relojes Hombre Militare Deportivos Impermeable Acero Inoxidable Analógico Cuarzo Relojes de Pulsera para Hombre Negro'
+slug: 'B07XBJ27X3-es LIGE Relojes Hombre Militare Deportivos Impermeable Acero...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

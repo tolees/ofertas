@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qfrdDMwQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FVZGYRF-es Nuevo 5A + Chinese Top Grade Lago Oeste Spring Longjing Té Verde Dragon Well Tea Long Jing Gift Packing China Green Food Gift Embalaje té'
+slug: 'B07FVZGYRF-es Nuevo 5A + Chinese Top Grade Lago Oeste Spring Longjing Té...'
+tags: 
 actualPrice: 12.11 EUR
 currency: EUR
 price: 12.11

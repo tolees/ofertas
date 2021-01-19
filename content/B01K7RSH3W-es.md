@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lPyFC8XRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7RSH3W-es Sanex Dermo Extra Control  Desodorante Spray - 200 ml'
+slug: 'B01K7RSH3W-es Sanex Dermo Extra Control Desodorante Spray - 200 ml'
+tags: 
 actualPrice: 2.38 EUR
 currency: EUR
 price: 2.38

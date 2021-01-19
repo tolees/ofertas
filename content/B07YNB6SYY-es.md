@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pzB6dK+dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNB6SYY-es Philips Reloj Despertador Digital PR702/12 con Cargador inalámbrico  Cargador inalámbrico  Temporizador de Reposo  Alarma  Negro'
+slug: 'B07YNB6SYY-es Philips Reloj Despertador Digital PR702/12 con Cargador...'
+tags: 
 actualPrice: 42.84 EUR
 currency: EUR
 price: 42.84

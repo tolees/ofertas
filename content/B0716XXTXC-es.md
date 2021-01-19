@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jHwBcA9pL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0716XXTXC-es ONTA® Auriculares para Niños Plegable Cómodos Auriculares Niños con Seguro Material Auriculares Infantiles con Ligera Diadema Estéreo Cerrados Cascos para Niños -Rosa'
+slug: 'B0716XXTXC-es ONTA® Auriculares para Niños Plegable Cómodos Auriculares...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

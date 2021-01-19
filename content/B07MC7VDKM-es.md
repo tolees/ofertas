@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3189GxxeZ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC7VDKM-es Microsoft Surface Laptop 2 - Ordenador portátil ultrafino táctil 13.5"  Intel Core i5-8250U  8GB RAM  128GB SSD  Intel Graphics  Windows 10  Color Plata - Teclado QWERTY Español'
+slug: 'B07MC7VDKM-es Microsoft Surface Laptop 2 - Ordenador portátil ultrafino...'
+tags: 
 actualPrice: 788.02 EUR
 currency: EUR
 price: 788.02

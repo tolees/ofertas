@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31D0GXZGYvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L45D6KW-es Adidas Terrex Skychaser LT  Zapatillas de Deporte para Hombre  Negro  Negbás/Negbás/Gricua 000   39 1/3 EU'
+slug: 'B07L45D6KW-es Adidas Terrex Skychaser LT Zapatillas de Deporte para...'
+tags: 
 actualPrice: 64.37 EUR
 currency: EUR
 price: 64.37

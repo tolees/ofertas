@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4157zIA0kPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D8LXJHR-es Receptor Bluetooth Coche Amplificador HiFi 4.1 Manos Libres Kits Estéreo per Audio Adaptador con Salida Estéreo DE 3 5 mm Aux Jack para Casa y Sistema de Audio Estéreo de Coche Tarjeta del TF'
+slug: 'B07D8LXJHR-es Receptor Bluetooth Coche Amplificador HiFi 4.1 Manos...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

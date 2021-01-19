@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QyonpQo6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DH7DDGF-es adidas V Racer 2.0  Zapatillas de Running para Hombre  Azul Dark Blue FTWR White FTWR White Dark Blue FTWR White FTWR White  40 2/3 EU'
+slug: 'B07DH7DDGF-es adidas V Racer 2.0 Zapatillas de Running para Hombre Azul...'
+tags: 
 actualPrice: 38.01 EUR
 currency: EUR
 price: 38.01

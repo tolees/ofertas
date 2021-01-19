@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HW2Dew5FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ6HTWV-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en Cuero LTS-100L-2AVEF'
+slug: 'B07NJ6HTWV-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 55.08 EUR
 currency: EUR
 price: 55.08

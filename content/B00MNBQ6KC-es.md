@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xqTj6SRaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MNBQ6KC-es Moulinex Fresh Express DJ753500 Rallador Eléctrico Con 3 Conos  200 W  Blanco/Rojo'
+slug: 'B00MNBQ6KC-es Moulinex Fresh Express DJ753500 Rallador Eléctrico Con 3...'
+tags: 
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

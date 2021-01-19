@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31abRv7womL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGTSZ2J-es Lenovo D24f - Monitor de 23.6"  Pantalla Full HD  1920 x 1080 pixeles  tiempo de respuesta de 3ms   Color negro'
+slug: 'B07PGTSZ2J-es Lenovo D24f - Monitor de 23.6" Pantalla Full HD 1920 x...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

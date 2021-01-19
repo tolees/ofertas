@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/11yuBCz4WvL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2F2LXX-es ZHANGSHUQI - Bolsa de Moto Retro Estilo Steampunk para Halloween  Estilo gótico  Estilo Retro'
+slug: 'B07X2F2LXX-es ZHANGSHUQI - Bolsa de Moto Retro Estilo Steampunk para...'
+tags: 
 actualPrice: 55.13 EUR
 currency: EUR
 price: 55.13

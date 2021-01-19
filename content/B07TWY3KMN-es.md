@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QLAtxRoRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWY3KMN-es Skechers Equalizer 4.0  Zapatillas para Hombre  Azul  Black Engineered Mesh/Hot Melt/Red Trim B Rd   41.5 EU'
+slug: 'B07TWY3KMN-es Skechers Equalizer 4.0 Zapatillas para Hombre Azul Black...'
+tags: 
 actualPrice: 31.88 EUR
 currency: EUR
 price: 31.88

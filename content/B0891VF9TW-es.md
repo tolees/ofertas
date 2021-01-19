@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412D5U3esJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0891VF9TW-es Sweetmini Pantalones deportivos para hombre con cordón de color en contraste con bolsillo Gris gris oscuro XL'
+slug: 'B0891VF9TW-es Sweetmini Pantalones deportivos para hombre con cordón de...'
+tags: 
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

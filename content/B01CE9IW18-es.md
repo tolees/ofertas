@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31XpgzRnenL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CE9IW18-es Italian Bed Linen Più Bello Funda Cubre Sofá  Poliéster  NEGRO  3 PLAZAS'
+slug: 'B01CE9IW18-es Italian Bed Linen Più Bello Funda Cubre Sofá Poliéster...'
+tags: 
 actualPrice: 27.56 EUR
 currency: EUR
 price: 27.56

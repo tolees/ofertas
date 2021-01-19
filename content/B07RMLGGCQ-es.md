@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UZb9DnQ2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMLGGCQ-es Calvin Klein - Worked Shopper  Bolsos totes Mujer  Negro  Black   13x27x47 cm  W x H L '
+slug: 'B07RMLGGCQ-es Calvin Klein - Worked Shopper Bolsos totes Mujer Negro...'
+tags: 
 actualPrice: 89.94 EUR
 currency: EUR
 price: 89.94

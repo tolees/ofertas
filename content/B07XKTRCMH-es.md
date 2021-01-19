@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Is6mhdJLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKTRCMH-es PUMA Deck Waist Bag Riñonera  Unisex-Adult  Black  OSFA'
+slug: 'B07XKTRCMH-es PUMA Deck Waist Bag Riñonera Unisex-Adult Black OSFA'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

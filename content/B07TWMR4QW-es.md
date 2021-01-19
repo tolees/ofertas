@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XP0AMkAGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWMR4QW-es Casio Reloj Analógico-Digital para Hombre Correa en Resina GA-140-1A4ER'
+slug: 'B07TWMR4QW-es Casio Reloj Analógico-Digital para Hombre Correa en Resina...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

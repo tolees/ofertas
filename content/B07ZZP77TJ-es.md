@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HPPYtiyEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZZP77TJ-es Funko- Pop Potter-Dumbledore w/Baby Harry Figura Coleccionable  Multicolor  48067 '
+slug: 'B07ZZP77TJ-es Funko- Pop Potter-Dumbledore w/Baby Harry Figura...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

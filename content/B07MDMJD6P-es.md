@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41msSQnom1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDMJD6P-es Cocoda Soporte para Echo Dot 3.ª Generación  Solución de Ahorrar Espacio para Asistentes de Voz Doméstico  Inteligentes Dot Accesorios con Gestión de Cables  2 Unidades Sin Desorden de Cables'
+slug: 'B07MDMJD6P-es Cocoda Soporte para Echo Dot 3.ª Generación Solución de...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

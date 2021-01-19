@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/612TKP5vjnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DEICO1I-es Marvel Character World Disney Comics - Juego de Funda de edredón Doble  Reversible  Multicolor'
+slug: 'B00DEICO1I-es Marvel Character World Disney Comics - Juego de Funda de...'
+tags: 
 actualPrice: 30.39 EUR
 currency: EUR
 price: 30.39

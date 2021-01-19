@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sfr1yNf0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBZL81C-es BOSS Plisy 1 Polo  Azul  Navy 410   Medium para Hombre'
+slug: 'B07VBZL81C-es BOSS Plisy 1 Polo Azul Navy 410 Medium para Hombre'
+tags: 
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

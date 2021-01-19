@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WAsog+vXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RR5DNTG-es American Tourister Flylife Equipaje de Mano 67 Centimeters 82.5 Gris  Sky Silver '
+slug: 'B07RR5DNTG-es American Tourister Flylife Equipaje de Mano 67 Centimeters...'
+tags: 
 actualPrice: 77.5 EUR
 currency: EUR
 price: 77.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bfouV0bTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F298HVY-es Homever Vaporizador vertical para prendas de vestir con tanque de agua grande de 1.1L  cepillo de tela  férula y 2 ganchos  1750W  vaporizador de ropa de calentamiento rápido 45s'
+slug: 'B07F298HVY-es Homever Vaporizador vertical para prendas de vestir con...'
+tags: 
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

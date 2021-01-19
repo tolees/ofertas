@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NMIcltuxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017SZWMBE-es Newskill Atami Speed Tamaño XL - Alfombrilla Gaming Profesional  Borde Cortado a Laser  Superficie Speed   Negro'
+slug: 'B017SZWMBE-es Newskill Atami Speed Tamaño XL - Alfombrilla Gaming...'
+tags: 
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

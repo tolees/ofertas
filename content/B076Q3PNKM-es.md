@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jlkIW2iVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076Q3PNKM-es Juego de 12 pasadores Dooppa  para niña  con cierre de cocodrillo'
+slug: 'B076Q3PNKM-es Juego de 12 pasadores Dooppa para niña con cierre de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31arU3R97CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756Z1XTW-es Razer Basilisk  Ratón con Cable para Juegos FPS  con Sensor Óptico de 16000 DPI  5G  Interruptor DPI Extraíble y Rueda de Desplazamiento Personalizable  USB  Negro'
+slug: 'B0756Z1XTW-es Razer Basilisk Ratón con Cable para Juegos FPS con Sensor...'
+tags: 
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

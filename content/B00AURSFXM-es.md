@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AURSFXM-es Narciso Rodriguez Narciso Rodriguez For Her Hair Mist 30 ml'
+tags: 
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

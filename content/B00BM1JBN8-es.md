@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aiVSrWFyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BM1JBN8-es BaByliss Multigroom 8 en 1 E835E - Cortapelos multifunción cabello y barba  cabezal de afeitado hombre  cabezal para nariz y orejas  cuchilla de precisión  40 min autonomía'
+slug: 'B00BM1JBN8-es BaByliss Multigroom 8 en 1 E835E - Cortapelos multifunción...'
+tags: 
 actualPrice: 34.6 EUR
 currency: EUR
 price: 34.6

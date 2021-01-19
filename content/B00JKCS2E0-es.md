@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qqDe+KlPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JKCS2E0-es Memoria Flash USB 128MB 10 Piezas Pen Drives - Pequeña Capacidad Pendrive Almacenamiento Unidad USB 128 MB - FEBNISCTE Verde Giratoria Portátil y Económico Llave USB 2.0 con 10 Unidades Cuerdas'
+slug: 'B00JKCS2E0-es Memoria Flash USB 128MB 10 Piezas Pen Drives - Pequeña...'
+tags: 
 actualPrice: 21.56 EUR
 currency: EUR
 price: 21.56

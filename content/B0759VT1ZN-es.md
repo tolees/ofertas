@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314dW9u6ouL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0759VT1ZN-es LG CineBeam PH30JG - Proyector con batería integrada  hasta 100"  autonomía 4 horas  fuente LED  250 lúmenes  1280 x 720  Color Blanco'
+slug: 'B0759VT1ZN-es LG CineBeam PH30JG - Proyector con batería integrada hasta...'
+tags: 
 actualPrice: 319.98 EUR
 currency: EUR
 price: 319.98

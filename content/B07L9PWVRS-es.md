@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319cwgmzBtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9PWVRS-es Under Armour Hombre Challenger III Training Pant  Pantalones de chándal para Hombre  Pantalones Largos Muy Ligeros'
+slug: 'B07L9PWVRS-es Under Armour Hombre Challenger III Training Pant...'
+tags: 
 actualPrice: 28.7 EUR
 currency: EUR
 price: 28.7

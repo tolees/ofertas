@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TXJECxDXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077C5LFN7-es Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero AR11105'
+slug: 'B077C5LFN7-es Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 179.21 EUR
 currency: EUR
 price: 179.21

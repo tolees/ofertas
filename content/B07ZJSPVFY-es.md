@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kbXUsYcbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJSPVFY-es Toscaf 70232 Cápsulas Compostables Intenso Compatibles Nespresso 20 Unidades 189 g'
+slug: 'B07ZJSPVFY-es Toscaf 70232 Cápsulas Compostables Intenso Compatibles...'
+tags: 
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419-g6TNOOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079GY9GMR-es PUMA NRGY Neko Knit  Zapatillas de Running para Hombre  Black Black  44.5 EU'
+slug: 'B079GY9GMR-es PUMA NRGY Neko Knit Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 28.19 EUR
 currency: EUR
 price: 28.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ADqmy9m+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ8G3C-es Skechers Bounder  Zapatillas para Hombre  Azul  Navy Mesh/Synthetic/Trim Nvy   42 EU'
+slug: 'B07TSQ8G3C-es Skechers Bounder Zapatillas para Hombre Azul Navy...'
+tags: 
 actualPrice: 36.51 EUR
 currency: EUR
 price: 36.51

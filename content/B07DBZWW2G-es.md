@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HBvCQcOKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBZWW2G-es Puma Hybrid NX  Zapatillas de Running para Hombre  Azul  Peacoat-High Risk Red White   43 EU'
+slug: 'B07DBZWW2G-es Puma Hybrid NX Zapatillas de Running para Hombre Azul...'
+tags: 
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

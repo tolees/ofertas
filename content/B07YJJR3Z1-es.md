@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51a9Cbjm-6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJJR3Z1-es Incarpo - Zapatillas de Estar por casa para Hombre  con Memoria de Espuma  Tejido de Coral  Forro Polar Suave Forrado  Pantuflas Antideslizantes para Interior y Exterior  Color Marrón  Talla 40/41 EU'
+slug: 'B07YJJR3Z1-es Incarpo - Zapatillas de Estar por casa para Hombre con...'
+tags: 
 actualPrice: 20.56 EUR
 currency: EUR
 price: 20.56

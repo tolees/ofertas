@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316aE9wN3ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7WTXXF-es Love MoschinoJc4253pp0aMujerShoppers y bolsos de hombroRosa  Powder 6x17x22 Centimeters  W x H x L '
+slug: 'B07V7WTXXF-es Love MoschinoJc4253pp0aMujerShoppers y bolsos de...'
+tags: 
 actualPrice: 49.21 EUR
 currency: EUR
 price: 49.21

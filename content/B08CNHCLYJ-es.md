@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PwEw-AsfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CNHCLYJ-es Aspiradora de Mano Sin Cable Potente 9000PA/120W  con Luz LED  2600mAh Batería Aspirador de Coche（Mojado y Seco  Lnflable y Soplado de Polvo  Ruido Bajo 70db  Carga Rápida  Filtro Reutilizable Hodekt'
+slug: 'B08CNHCLYJ-es Aspiradora de Mano Sin Cable Potente 9000PA/120W con Luz...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

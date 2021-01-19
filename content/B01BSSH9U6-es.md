@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zA9PN1m5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSSH9U6-es Samsung S View Cover - Funda para Samsung Galaxy S7 Edge  color Dorado'
+slug: 'B01BSSH9U6-es Samsung S View Cover - Funda para Samsung Galaxy S7 Edge...'
+tags: 
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

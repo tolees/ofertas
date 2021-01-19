@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31M8eQQ9W-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087SNZVC1-es Bruni Película Protectora Compatible con BOOX Nova2 Protector Película  Claro Lámina Protectora  2X '
+slug: 'B087SNZVC1-es Bruni Película Protectora Compatible con BOOX Nova2...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

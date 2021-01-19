@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BVBEQci0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AJGCOU8-es Teenloveme Mujer cinco dedos calcetines  calcetines invisibles mujer calcetines cortos con silicona antideslizante  6 pares'
+slug: 'B01AJGCOU8-es Teenloveme Mujer cinco dedos calcetines calcetines...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

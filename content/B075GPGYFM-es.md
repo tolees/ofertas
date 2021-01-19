@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315hM19U9cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GPGYFM-es Adidas VL Court 2.0 CMF I  Zapatillas de Gimnasia Unisex bebé  Blanco  FTWR White/Core Black/FTWR White FTWR White/Core Black/FTWR White   25 EU'
+slug: 'B075GPGYFM-es Adidas VL Court 2.0 CMF I Zapatillas de Gimnasia Unisex...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

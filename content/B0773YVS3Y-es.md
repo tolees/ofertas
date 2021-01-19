@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wH7bLw7WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0773YVS3Y-es adidas Stan Smith  Sneaker Mens  Blanco  Footwear White/Footwear White/Collegiate Green 0   41 1/3 EU'
+slug: 'B0773YVS3Y-es adidas Stan Smith Sneaker Mens Blanco Footwear...'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

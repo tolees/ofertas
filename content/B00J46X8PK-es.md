@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lPZPYMssL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J46X8PK-es Vichy Capital Soleil Brume Hydratante Invisible SPF50 Protector Solar - 200 ml'
+slug: 'B00J46X8PK-es Vichy Capital Soleil Brume Hydratante Invisible SPF50...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NigVhX6SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFS4HVH-es Import - Consola - Retro Blast Legends Space Invaders  12 Juegos '
+slug: 'B07FFS4HVH-es Import - Consola - Retro Blast Legends Space Invaders 12...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

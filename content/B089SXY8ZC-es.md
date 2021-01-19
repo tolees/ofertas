@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hwuDqEggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SXY8ZC-es Faux Gemstones Naturales Colgante de Reiki Puntiagudo Hexagonal sin Cadena'
+slug: 'B089SXY8ZC-es Faux Gemstones Naturales Colgante de Reiki Puntiagudo...'
+tags: 
 actualPrice: 1.04 EUR
 currency: EUR
 price: 1.04

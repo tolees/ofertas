@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gr8tNrWlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CY6MFKG-es Drift DR150BG - Silla Gaming Profesional   Poilipiel Alta Calidad  Ergonómica   Color Negro/Verde'
+slug: 'B07CY6MFKG-es Drift DR150BG - Silla Gaming Profesional Poilipiel Alta...'
+tags: 
 actualPrice: 148.76 EUR
 currency: EUR
 price: 148.76

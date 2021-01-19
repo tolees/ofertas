@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FgSpkqvVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGYWWK4-es Magno - Gel de ducha Marine Fresh - 550ml  pack de 6  Total: 3300ml'
+slug: 'B01BGYWWK4-es Magno - Gel de ducha Marine Fresh - 550ml pack de 6 Total:...'
+tags: 
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21Z2SGvNW1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VHKUAGQ-es King Cock Pene de 22.56 cm  Color Natural - 100 gr'
+slug: 'B00VHKUAGQ-es King Cock Pene de 22.56 cm Color Natural - 100 gr'
+tags: 
 actualPrice: 17.01 EUR
 currency: EUR
 price: 17.01

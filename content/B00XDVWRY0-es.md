@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XDVWRY0-es Kéranove Champú Aclarante a la Camomila - 250 ml'
+tags: 
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

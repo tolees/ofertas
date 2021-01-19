@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ihgMN7veL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D92W2ZL-es Mono Azul Atrevido Bolsa de Mano de Compra Reutilizable Portátil Bolsa al Hombro ecológica para viajes Mujeres Niñas'
+slug: 'B08D92W2ZL-es Mono Azul Atrevido Bolsa de Mano de Compra Reutilizable...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

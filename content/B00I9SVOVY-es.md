@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41U7Bm%2BWMrL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I9SVOVY-es The Big Bang Theory SDTWRN02581 - Taza de cerámica con diseño"Bazinga"  color azul  SD Toys SDTWRN02581  - Taza Bazinga Big Bang Theory'
+slug: 'B00I9SVOVY-es The Big Bang Theory SDTWRN02581 - Taza de cerámica con...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

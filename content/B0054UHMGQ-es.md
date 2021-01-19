@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NCuAa7WxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0054UHMGQ-es Durex Lubricante Play Massage 2 en 1 Gel de Masaje Corporal Erótico y Estimulante con Guaraná - 200 ml'
+slug: 'B0054UHMGQ-es Durex Lubricante Play Massage 2 en 1 Gel de Masaje...'
+tags: 
 actualPrice: 9.24 EUR
 currency: EUR
 price: 9.24

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S9I0jcOeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ANXDJWE-es Daga 2PH - Almohadilla Eléctrica  46 x 34cm  Conexión Fija  Mando Electrónico  4 Niveles de Temperatura  Acabado Textil Acolchado  3 Tiempos Programables  Autostop de Seguridad  Calentamiento Rápido'
+slug: 'B01ANXDJWE-es Daga 2PH - Almohadilla Eléctrica 46 x 34cm Conexión Fija...'
+tags: 
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

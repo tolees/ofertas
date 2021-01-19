@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZkRnyj6LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0053CBPDG-es Gladiator  Edición especial  [Blu-ray]'
+slug: 'B0053CBPDG-es Gladiator Edición especial [Blu-ray]'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

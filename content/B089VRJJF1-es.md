@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517RYY39f4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089VRJJF1-es 3 Modos y 3 Capas Filtración Cabezal Ducha  Ainkedin Alcachofa de Ducha con Alta Presiòn Ahorro de Agua Desmontable Portátil  Viene con Tres Paquetes de Bolas Minerales'
+slug: 'B089VRJJF1-es 3 Modos y 3 Capas Filtración Cabezal Ducha Ainkedin...'
+tags: 
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

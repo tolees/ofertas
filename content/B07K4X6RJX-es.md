@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519z7N3i9rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4X6RJX-es Conjunto de luces Lightailing para  Creator El Puente De Londres  Modelo de Construcción de Bloques - Luz Intermitente - Kit de luz LED compatible con Lego 10214  NO incluido en el modelo '
+slug: 'B07K4X6RJX-es Conjunto de luces Lightailing para Creator El Puente De...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

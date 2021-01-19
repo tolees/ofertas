@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p4jbWTeLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFWG2ZZ-es PUMA Amplified Shorts 9` TR Pantalones Cortos  Hombre  Dark Denim  L'
+slug: 'B07XFWG2ZZ-es PUMA Amplified Shorts 9` TR Pantalones Cortos Hombre Dark...'
+tags: 
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

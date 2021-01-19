@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fZye-eP1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078H89XFZ-es Wilson WTX0523KIT Set de Pelota de Voleibol Playa y Frisbee AVP Summer Kit Exterior Uso recreativo  Unisex Adulto  Blanco/Amarillo  Talla Única'
+slug: 'B078H89XFZ-es Wilson WTX0523KIT Set de Pelota de Voleibol Playa y...'
+tags: 
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

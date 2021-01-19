@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GB0EaKmyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKLG2WC-es Armani ExchangeShiny Liz - Small Shoulder StrapMujerShoppers y bolsos de hombroRosa  Rosa/Pink 13x5x19 Centimeters  B x H x T '
+slug: 'B07TKLG2WC-es Armani ExchangeShiny Liz - Small Shoulder...'
+tags: 
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eiQEhApNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3N63TD-es Dioche Medidor de Presion Balones  Mini Utilidad de Aire Barómetro de Presión Herramienta de Barómetro Válvula Americana para Balonmano Fútbol Voleibol'
+slug: 'B07L3N63TD-es Dioche Medidor de Presion Balones Mini Utilidad de Aire...'
+tags: 
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

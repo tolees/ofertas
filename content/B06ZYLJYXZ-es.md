@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CX15aFK5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYLJYXZ-es Rampow Adaptador Micro USB a Tipo C Aluminio Duradero  Adaptador Micro USB C-Garantía de por Vida-Compatible para HTC 10U11LG G6OnePlus 235 Sony Xperia XZ Samsung Galaxy S8/S9 Gris Espacial-2 Unidades'
+slug: 'B06ZYLJYXZ-es Rampow Adaptador Micro USB a Tipo C Aluminio Duradero...'
+tags: 
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vJK+ToCUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H1X7XRG-es Panama Jack Piola  Botas Altas para Mujer  Marrón  Cuero B8   37 EU'
+slug: 'B01H1X7XRG-es Panama Jack Piola Botas Altas para Mujer Marrón Cuero B8...'
+tags: 
 actualPrice: 124.14 EUR
 currency: EUR
 price: 124.14

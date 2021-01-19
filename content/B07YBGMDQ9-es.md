@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBGMDQ9-es Cartera Pepe Jeans Fair Vertical con Cierre de Clic Camel'
+tags: 
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

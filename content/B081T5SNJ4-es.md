@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081T5SNJ4-es Iberitos - Cachuela - 6 Latas x 250 Gramos'
+tags: 
 actualPrice: 11.7 EUR
 currency: EUR
 price: 11.7

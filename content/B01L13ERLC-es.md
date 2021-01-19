@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51mTR0cVy7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L13ERLC-es CRAPHY Kit de Iluminación para Fotografía: 3X Ventana de Luz  3X Fondos de Tela Algodón  1x Soporte de Fondo  12x Bombilla 45W  2X Trípode de Luz  1x Soporte Jirafa  2X Bolsa Portátil'
+slug: 'B01L13ERLC-es CRAPHY Kit de Iluminación para Fotografía: 3X Ventana de...'
+tags: 
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

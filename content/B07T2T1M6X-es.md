@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317zXChxbcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T2T1M6X-es MSI PS42 Modern 8RA-280XES - Ordenador portátil de 14" FHD  Intel i7-8565U  16 GB RAM  512GB SSD  Nvidia GeForce MX250-2GB  sin sistema operativo  plata - Teclado QWERTY Español'
+slug: 'B07T2T1M6X-es MSI PS42 Modern 8RA-280XES - Ordenador portátil de 14" FHD...'
+tags: 
 actualPrice: 849.99 EUR
 currency: EUR
 price: 849.99

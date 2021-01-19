@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IXCbCmubL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBNZD1B-es Helly Hansen Duffel 2 Bolsa De Viaje Deporte  Unisex Adulto  Blue Tint  30L'
+slug: 'B07LBNZD1B-es Helly Hansen Duffel 2 Bolsa De Viaje Deporte Unisex Adulto...'
+tags: 
 actualPrice: 58.87 EUR
 currency: EUR
 price: 58.87

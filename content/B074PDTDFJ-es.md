@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21bERQSaJgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PDTDFJ-es Grohe 27421002 Euphoria 260 - Sistema de ducha con inversor  Ducha de techo SmartControl de 260 mm con tres chorros  función de ahorro de agua y teleducha de 110 mm con tres chorros'
+slug: 'B074PDTDFJ-es Grohe 27421002 Euphoria 260 - Sistema de ducha con...'
+tags: 
 actualPrice: 340.9 EUR
 currency: EUR
 price: 340.9

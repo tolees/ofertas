@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RMaY85QRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NABMIKG-es Beurer MG147 - Almohada de Masaje Shiatsu  con función calor  color marrón'
+slug: 'B00NABMIKG-es Beurer MG147 - Almohada de Masaje Shiatsu con función...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

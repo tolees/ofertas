@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/618QptCwPGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0LXNPL-es New Fashion Notebook Gift Box Creative Resin Decoration Staionary Set Totoro Notebook and Pen One Piece Notebook Set for Collectors  Totoro set  by Jolly Girl'
+slug: 'B01N0LXNPL-es New Fashion Notebook Gift Box Creative Resin Decoration...'
+tags: 
 actualPrice: 21.3 EUR
 currency: EUR
 price: 21.3

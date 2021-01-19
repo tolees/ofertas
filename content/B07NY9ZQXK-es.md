@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31PG%2BkEkXGL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY9ZQXK-es Skechers Heston-Regano  Botas Clasicas para Hombre  Marrón  Dark Brown Leather CDB   42.5 EU'
+slug: 'B07NY9ZQXK-es Skechers Heston-Regano Botas Clasicas para Hombre Marrón...'
+tags: 
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

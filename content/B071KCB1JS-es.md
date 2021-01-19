@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Knq-I+82L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KCB1JS-es Palette Intense Cream Coloration Intensive Coloración del Cabello 8.55 Rubio Dorado Miel - Pack de 3'
+slug: 'B071KCB1JS-es Palette Intense Cream Coloration Intensive Coloración del...'
+tags: 
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

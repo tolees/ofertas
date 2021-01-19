@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eX1iK9QKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08424QZNX-es Triamisu Adaptador de dongle USB 2.0 CSR 4.0 sin Unidad Plug and Play Receptor de Audio estéreo inalámbrico portátil HD para PC portátil - Negro'
+slug: 'B08424QZNX-es Triamisu Adaptador de dongle USB 2.0 CSR 4.0 sin Unidad...'
+tags: 
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

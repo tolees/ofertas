@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310X3eK96YL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0067JFIFA-es Rimmel London Lasting Finish Barra De Labios Tono 264 Coffee Shimmer- 18 gr'
+slug: 'B0067JFIFA-es Rimmel London Lasting Finish Barra De Labios Tono 264...'
+tags: 
 actualPrice: 2.77 EUR
 currency: EUR
 price: 2.77

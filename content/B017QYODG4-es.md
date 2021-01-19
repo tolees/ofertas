@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VUuX45qHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017QYODG4-es Superga 2790-COTROPEW  Zapatillas Mujer  Negro  Nero 999   38 EU  5 UK '
+slug: 'B017QYODG4-es Superga 2790-COTROPEW Zapatillas Mujer Negro Nero 999 38...'
+tags: 
 actualPrice: 43.6 EUR
 currency: EUR
 price: 43.6

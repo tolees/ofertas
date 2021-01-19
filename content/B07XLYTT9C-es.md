@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314soIy6KzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLYTT9C-es Natural Honey Loción Corporal Elixir de Argán Reparadora 700ml'
+slug: 'B07XLYTT9C-es Natural Honey Loción Corporal Elixir de Argán Reparadora...'
+tags: 
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

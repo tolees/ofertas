@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31MKP2Ua0yL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B001LNJKYW-es Samsung MLT-D2082L/ELS - Tóner AC SCX-5635FN/5835FN  color negro'
+slug: 'B001LNJKYW-es Samsung MLT-D2082L/ELS - Tóner AC SCX-5635FN/5835FN color...'
+tags: 
 actualPrice: 76.97 EUR
 currency: EUR
 price: 76.97

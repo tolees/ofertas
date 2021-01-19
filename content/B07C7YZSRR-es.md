@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zogcfnuPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C7YZSRR-es Ariete 4615 - Mini freidora saludable Airy  sin aceite  temporizador  amarillo y blanco'
+slug: 'B07C7YZSRR-es Ariete 4615 - Mini freidora saludable Airy sin aceite...'
+tags: 
 actualPrice: 39.1 EUR
 currency: EUR
 price: 39.1

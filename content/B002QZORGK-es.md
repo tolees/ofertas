@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zfCEdAb5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B002QZORGK-es Optimum Nutrition Suplemento Dietético en Polvo "Platinum HydroWhey"  Sabor Vainilla - 1.58 kg'
+slug: 'B002QZORGK-es Optimum Nutrition Suplemento Dietético en Polvo "Platinum...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

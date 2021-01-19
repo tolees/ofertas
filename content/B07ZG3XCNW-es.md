@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QZGACRaCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZG3XCNW-es TRESemmé Botanique Pack Champú + Protector y Rizador de Cabello'
+slug: 'B07ZG3XCNW-es TRESemmé Botanique Pack Champú + Protector y Rizador de...'
+tags: 
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

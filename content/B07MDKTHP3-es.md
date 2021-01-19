@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SYpNQY-1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDKTHP3-es Michael Kors Reloj Mujer de Digital con Correa en Silicona MKT5055'
+slug: 'B07MDKTHP3-es Michael Kors Reloj Mujer de Digital con Correa en Silicona...'
+tags: 
 actualPrice: 209.4 EUR
 currency: EUR
 price: 209.4

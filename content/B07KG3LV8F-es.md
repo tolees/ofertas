@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tGZbFMOML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG3LV8F-es Conjunto de luces Lightailing para  Bugatti Chiron  Modelo de Construcción de Bloques - Kit de luz LED compatible con Lego 42083  NO incluido en el modelo '
+slug: 'B07KG3LV8F-es Conjunto de luces Lightailing para Bugatti Chiron Modelo...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

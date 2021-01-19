@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VM9bdzx2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG46XN5-es Crocs 205827  Botas de Agua Unisex Niños  Azul  Navy/Bright Cobalt 4kb   27/28 EU'
+slug: 'B07JG46XN5-es Crocs 205827 Botas de Agua Unisex Niños Azul Navy/Bright...'
+tags: 
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415CfaqtslL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000UJ9ZE8-es BAUSCH + LOMB  - SofLens® 38 - Lentes de contacto - Pack de 6'
+slug: 'B000UJ9ZE8-es BAUSCH + LOMB - SofLens® 38 - Lentes de contacto - Pack de 6'
+tags: 
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

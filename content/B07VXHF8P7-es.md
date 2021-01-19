@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ruXmUnq7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXHF8P7-es Qkiss Depiladora Luz Pulsada  Depiladora Luz Pulsada para la Depilación Permanente  Sistema de Depilación para Mujeres y Hombres Depilación Indolora  Depiladora Portátil con 2 Lámparas  Azul '
+slug: 'B07VXHF8P7-es Qkiss Depiladora Luz Pulsada Depiladora Luz Pulsada para...'
+tags: 
 actualPrice: 46.89 EUR
 currency: EUR
 price: 46.89

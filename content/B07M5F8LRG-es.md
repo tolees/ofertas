@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41SjD3LVfbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5F8LRG-es Baby Jogger City Tour LUX DUO Cochecito de Bebé Desde Nacimiento hasta 20 5 kg  Berenjena'
+slug: 'B07M5F8LRG-es Baby Jogger City Tour LUX DUO Cochecito de Bebé Desde...'
+tags: 
 actualPrice: 211.41 EUR
 currency: EUR
 price: 211.41

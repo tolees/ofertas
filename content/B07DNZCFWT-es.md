@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31hoMOlMXNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNZCFWT-es Termómetro Digital Frente y Oído  4 in 1 Termómetro Infrarrojo Médico Alta Precisión Para Bebe Niños y Adultos Alarma De Fiebre Temperatura Ambiente'
+slug: 'B07DNZCFWT-es Termómetro Digital Frente y Oído 4 in 1 Termómetro...'
+tags: 
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tgI-rsWpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJGS89W-es Reloj de pulsera para hombre  de cuarzo  resistente al agua  de piel  con diseño de mariposas  color marrón'
+slug: 'B07TJGS89W-es Reloj de pulsera para hombre de cuarzo resistente al agua...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

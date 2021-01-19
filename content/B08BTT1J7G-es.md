@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41snXgsZbkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BTT1J7G-es Relojes electrónicos para Hombre Reloj Deportivo Aire Libre Reloj Inteligente a Prueba de Agua Pantalla LED Relojes de Pulsera para Hombres Ocasionales - Negro'
+slug: 'B08BTT1J7G-es Relojes electrónicos para Hombre Reloj Deportivo Aire...'
+tags: 
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419-N2+U60L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08832WPMM-es Lector de Tarjetas de Memoria Secure Digital USB Micro USB Tipo C Lector de Tarjetas Lectores de Tarjetas de Memoria Lectores de Tarjetas Micro - Blanco'
+slug: 'B08832WPMM-es Lector de Tarjetas de Memoria Secure Digital USB Micro USB...'
+tags: 
 actualPrice: 11.43 EUR
 currency: EUR
 price: 11.43

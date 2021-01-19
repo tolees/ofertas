@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HbqAcPfJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CWP94BP-es Rizador de Pestañas Eléctrico  TOUCHBeauty Recargable Rizador de Pestañas con Calefacción  Rotativo Rizador de Pestañas Térmico para Maquillaje Herramientas de Rizado de Belleza AG-1218N'
+slug: 'B07CWP94BP-es Rizador de Pestañas Eléctrico TOUCHBeauty Recargable...'
+tags: 
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

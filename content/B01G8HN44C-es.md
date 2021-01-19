@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fo15nrz4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G8HN44C-es Superga2754 Lamew - Zapatillas de Deporte Mujer   Gris  Gris  Gris 980    talla 38'
+slug: 'B01G8HN44C-es Superga2754 Lamew - Zapatillas de Deporte Mujer Gris Gris...'
+tags: 
 actualPrice: 34.86 EUR
 currency: EUR
 price: 34.86

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-i3OlnEHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMRPN5Z-es Clarks Stepstrolllace  Zapatillas para Hombre  Marrón  Brown Brown   41 EU'
+slug: 'B07TMRPN5Z-es Clarks Stepstrolllace Zapatillas para Hombre Marrón Brown...'
+tags: 
 actualPrice: 19.48 EUR
 currency: EUR
 price: 19.48

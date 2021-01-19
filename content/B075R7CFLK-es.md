@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Azw5K2F2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R7CFLK-es New Balance Minimus 40  Zapatillas de Cross para Mujer  Turquesa  Ocean Air/Mineral Sage/Gum Rubber Ss1   36 EU'
+slug: 'B075R7CFLK-es New Balance Minimus 40 Zapatillas de Cross para Mujer...'
+tags: 
 actualPrice: 36.87 EUR
 currency: EUR
 price: 36.87

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sqH0KabBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XTLQ3K-es Kitchen Emperor Cuchillo de Cocina  Cuchillos Damasco  Cuchillos Cocina Profesional de Acero de Damasco 67 Capas con la Manija G10'
+slug: 'B078XTLQ3K-es Kitchen Emperor Cuchillo de Cocina Cuchillos Damasco...'
+tags: 
 actualPrice: 79.89 EUR
 currency: EUR
 price: 79.89

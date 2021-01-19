@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316f0gPYteL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VL29ZTH-es laamei  Paño Muselinas Multifunción para Bebé de Algodón Toallas Reutilizable para Sensible Piel de Recién nacido Bebé Trapo Alimentación Limpiar Toallitas Faciales Infantiles Absorbentes'
+slug: 'B07VL29ZTH-es laamei Paño Muselinas Multifunción para Bebé de Algodón...'
+tags: 
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

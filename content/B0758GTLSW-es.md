@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aXVbSFMEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758GTLSW-es Horquillas para el pelo de Miaoo  40 piezas de cristal con perlas y diamantes de imitación en forma de flor  accesorio perfecto para uso diario'
+slug: 'B0758GTLSW-es Horquillas para el pelo de Miaoo 40 piezas de cristal con...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

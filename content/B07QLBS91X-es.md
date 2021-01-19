@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tnRMBAV4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLBS91X-es VLIKE Estación meteorológica con 2PCS sensores Estación meteorológica al Aire Libre Radio Control Reloj Círculo Pantalla Temperatura y Humedad'
+slug: 'B07QLBS91X-es VLIKE Estación meteorológica con 2PCS sensores Estación...'
+tags: 
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

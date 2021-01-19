@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nbj3bOXwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW2NSF3-es Baseus Cargador de Coche Quick Charge 3.0 5A 30W Carga Rapida Doble Puertos USB Adaptador para Samsung Galaxy S10E/S9/S8/Note 8 LG G6 Huawei P20/Mate10'
+slug: 'B07KW2NSF3-es Baseus Cargador de Coche Quick Charge 3.0 5A 30W Carga...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+89GPCxsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CIFMX5O-es Tefal Expertise - Sartén de aluminio de 24 cm  antiadherente con extra de titanio  aptas para todo tipo de cocinas incluido inducción'
+slug: 'B01CIFMX5O-es Tefal Expertise - Sartén de aluminio de 24 cm...'
+tags: 
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ML2MMp6aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCBM1HV-es Pepe Jeans James Pantalones  Azul  Blueing 565   W32/L30 para Hombre'
+slug: 'B07NCBM1HV-es Pepe Jeans James Pantalones Azul Blueing 565 W32/L30 para...'
+tags: 
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

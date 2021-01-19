@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41calGkizHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788LQYH2-es Salomon Cami seta deportiva de manga larga  agile ls tee  mezcla de sintéticos  azul  Night Sky   hombre  talla: M'
+slug: 'B0788LQYH2-es Salomon Cami seta deportiva de manga larga agile ls tee...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4159kynVzCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000QYNSSG-es Garcima 5020073 Paellera Valenciana de 60 cm. Pulida para 19 Personas  Acero  Gris'
+slug: 'B000QYNSSG-es Garcima 5020073 Paellera Valenciana de 60 cm. Pulida para...'
+tags: 
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

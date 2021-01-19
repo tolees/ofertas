@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MXIvhl0iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XK8DNLF-es find. Alpargata Destalonada de Ante Mujer  Amarillo  Yellow   38 EU'
+slug: 'B06XK8DNLF-es find. Alpargata Destalonada de Ante Mujer Amarillo Yellow...'
+tags: 
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

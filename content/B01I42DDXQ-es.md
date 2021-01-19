@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W4+d-K9NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I42DDXQ-es TATAY Urban Food Casual  - Bolsa térmica porta alimentos  con 4 tapers herméticos incluidos  3 litros de capacidad  Burdeos  22.5 x 10 x 22 cm'
+slug: 'B01I42DDXQ-es TATAY Urban Food Casual - Bolsa térmica porta alimentos...'
+tags: 
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

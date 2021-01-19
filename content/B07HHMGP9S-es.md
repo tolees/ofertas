@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FWyNa0S3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHMGP9S-es Chicco Good Night - Vigilabebés de audio con panel de cuna y luz antioscuridad  activación por voz  330 metros alcance  color rosa'
+slug: 'B07HHMGP9S-es Chicco Good Night - Vigilabebés de audio con panel de cuna...'
+tags: 
 actualPrice: 57.01 EUR
 currency: EUR
 price: 57.01

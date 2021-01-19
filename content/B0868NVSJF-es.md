@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519KQPFOgWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868NVSJF-es Suhctup Transparente Funda Compatible con Samsung Galaxy Note 10 Pro Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para Galaxy Note 10 Pro 2 '
+slug: 'B0868NVSJF-es Suhctup Transparente Funda Compatible con Samsung Galaxy...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D2T-pgNOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDTNGVS-es Pikolin Leah  colchón viscoelástico y espuma HR  160x200 gama alta  firmeza alta  confort visco  calidad máxima  protección higiénica total'
+slug: 'B07YDTNGVS-es Pikolin Leah colchón viscoelástico y espuma HR 160x200...'
+tags: 
 actualPrice: 475.0 EUR
 currency: EUR
 price: 475.0

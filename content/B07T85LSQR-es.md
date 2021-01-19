@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j6YHOGHVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T85LSQR-es Helly Hansen Vardapeak V2  Zapatillas de Running para Asfalto para Hombre  Negro  Black/Ebony/Light Grey 990   42 EU'
+slug: 'B07T85LSQR-es Helly Hansen Vardapeak V2 Zapatillas de Running para...'
+tags: 
 actualPrice: 48.46 EUR
 currency: EUR
 price: 48.46

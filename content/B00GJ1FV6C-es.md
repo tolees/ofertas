@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51chnOwkqjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GJ1FV6C-es Amazon - Funda Origami para Kindle Voyage  Negro'
+slug: 'B00GJ1FV6C-es Amazon - Funda Origami para Kindle Voyage Negro'
+tags: 
 actualPrice: 28.13 EUR
 currency: EUR
 price: 28.13

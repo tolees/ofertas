@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hiebUOx5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073HDCTYY-es Cybex Silla de coche grupo 2/3  Solution M-Fix SL  Para coches con y sin Isofix  Grupo 2/3  15-36 kg   Desde los 3 hasta los 12 años  Negro  Pure Black '
+slug: 'B073HDCTYY-es Cybex Silla de coche grupo 2/3 Solution M-Fix SL Para...'
+tags: 
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

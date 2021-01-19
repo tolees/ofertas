@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ga7jvSoaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NH1BJ3-es Adidas Duramo Lite 2.0  Zapatillas de Entrenamiento para Hombre  Azul  Noble Indigo/Footwear White/Collegiate Navy 0   44 EU'
+slug: 'B077NH1BJ3-es Adidas Duramo Lite 2.0 Zapatillas de Entrenamiento para...'
+tags: 
 actualPrice: 22.48 EUR
 currency: EUR
 price: 22.48

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lyOkTFnzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XPVQ21C-es [3 Pack] UniqueMe protector de pantalla para Samsung Galaxy S7 [9H Dureza] [HD Film] [Anti-mancha]Cristal Vidrio Templado Premium para Samsung Galaxy S7'
+slug: 'B07XPVQ21C-es [3 Pack] UniqueMe protector de pantalla para Samsung...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

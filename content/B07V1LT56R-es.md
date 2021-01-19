@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412Tsm39I3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1LT56R-es BRA Advanced - Batería de 3 piezas de aluminio fundido con antiadherente  para todo tipo de cocinas incluso inducción  negro'
+slug: 'B07V1LT56R-es BRA Advanced - Batería de 3 piezas de aluminio fundido con...'
+tags: 
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

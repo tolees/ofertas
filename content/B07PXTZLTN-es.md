@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nvamr9tRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXTZLTN-es Under Armour UA W Skylar 2  Zapatillas de Running para Mujer  Gris  Jet Gray/Black/Jet Gray   41 EU'
+slug: 'B07PXTZLTN-es Under Armour UA W Skylar 2 Zapatillas de Running para...'
+tags: 
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

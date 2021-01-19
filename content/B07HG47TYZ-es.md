@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YQySEYE9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG47TYZ-es New Balance 373  Zapatillas para Mujer  Negro  Black/White Black/White   35 EU'
+slug: 'B07HG47TYZ-es New Balance 373 Zapatillas para Mujer Negro Black/White...'
+tags: 
 actualPrice: 25.78 EUR
 currency: EUR
 price: 25.78

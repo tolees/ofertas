@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Y3pLjmo3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07576NTQM-es Garmin Forerunner 30 - Reloj de carrera con GPS y sensor de frecuencia cardiaca en la muñeca  Turquesa'
+slug: 'B07576NTQM-es Garmin Forerunner 30 - Reloj de carrera con GPS y sensor...'
+tags: 
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

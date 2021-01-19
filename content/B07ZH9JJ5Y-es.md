@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SCXZ8tCFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZH9JJ5Y-es FBLWT Smartwatches Reloj Inteligente para Mujer Kw10 Color Ip68 Señoras Fitness Tracker Pantalla Táctil Redonda - Correa De Acero Plateado'
+slug: 'B07ZH9JJ5Y-es FBLWT Smartwatches Reloj Inteligente para Mujer Kw10 Color...'
+tags: 
 actualPrice: 31.4 EUR
 currency: EUR
 price: 31.4

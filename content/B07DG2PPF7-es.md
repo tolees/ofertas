@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G1ZwMd93L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DG2PPF7-es Only Onlsedona Boucle Wool Coat Otw Noos Abrigo  Negro  Black Detail:Melange   38  Talla del fabricante: Small  para Mujer'
+slug: 'B07DG2PPF7-es Only Onlsedona Boucle Wool Coat Otw Noos Abrigo Negro...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

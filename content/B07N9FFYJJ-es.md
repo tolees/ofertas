@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N9FFYJJ-es Timex Reloj de Pulsera TW2R96300'
+tags: 
 actualPrice: 106.61 EUR
 currency: EUR
 price: 106.61

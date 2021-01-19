@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uZbz7-OIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GQPPY5-es Muscletech Hydroxycut Pro Clinical  72 caps  72 Unidades 40 g'
+slug: 'B078GQPPY5-es Muscletech Hydroxycut Pro Clinical 72 caps 72 Unidades 40 g'
+tags: 
 actualPrice: 27.33 EUR
 currency: EUR
 price: 27.33

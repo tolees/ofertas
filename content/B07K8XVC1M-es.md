@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21VD-jhz4qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8XVC1M-es Crocs Classic Slipper  Zapatillas Bajas Unisex Adulto  Azul  Mineral Blue/Mineral Blue 4jz   42/43 EU'
+slug: 'B07K8XVC1M-es Crocs Classic Slipper Zapatillas Bajas Unisex Adulto Azul...'
+tags: 
 actualPrice: 15.37 EUR
 currency: EUR
 price: 15.37

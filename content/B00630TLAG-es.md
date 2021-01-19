@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418OS5jVdiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00630TLAG-es Naturtint. Tinte Sin Amoniaco. Ingredientes Vegetales. 10N Rubio Alba. 170ml'
+slug: 'B00630TLAG-es Naturtint. Tinte Sin Amoniaco. Ingredientes Vegetales. 10N...'
+tags: 
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RX+c4AX7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002RL8FBQ-es Kirkland Signature Calcium  600 mg+D3  500-Count Tablets'
+slug: 'B002RL8FBQ-es Kirkland Signature Calcium 600 mg+D3 500-Count Tablets'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

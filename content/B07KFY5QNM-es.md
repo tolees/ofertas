@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418nlXjohRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFY5QNM-es Puma Future Runner Premium  Zapatillas Unisex Adulto  Gris  Castlerock-Blue Turquoise-Puma Black-Puma White 05   40 EU'
+slug: 'B07KFY5QNM-es Puma Future Runner Premium Zapatillas Unisex Adulto Gris...'
+tags: 
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

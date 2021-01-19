@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318OthgoPGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ13GV4-es Ever-Pretty Vestidos de Noche Encaje Gasa Cuello Redondo Corte Imperio A-línea para Mujer Azul Marino 52'
+slug: 'B07KQ13GV4-es Ever-Pretty Vestidos de Noche Encaje Gasa Cuello Redondo...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

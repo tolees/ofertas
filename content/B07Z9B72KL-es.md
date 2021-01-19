@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qZ6q7nKnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z9B72KL-es SOOPSON Alfombrilla de ratón para Juegos  de Gel  para Ordenador y portátil  precisión y Velocidad  Mejora en la Alfombrilla de ratón'
+slug: 'B07Z9B72KL-es SOOPSON Alfombrilla de ratón para Juegos de Gel para...'
+tags: 
 actualPrice: 1.27 EUR
 currency: EUR
 price: 1.27

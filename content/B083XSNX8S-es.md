@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YoHzjuhTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XSNX8S-es Manfrotto Befree Advanced Camo  Trípode de Viaje con Cabeza Esférica y Controles Ergonómicos  Cierres de Bloqueo con Giro  Trípode para Cámaras de Fotografía y Vídeo - Verde'
+slug: 'B083XSNX8S-es Manfrotto Befree Advanced Camo Trípode de Viaje con Cabeza...'
+tags: 
 actualPrice: 135.0 EUR
 currency: EUR
 price: 135.0

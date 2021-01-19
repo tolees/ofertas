@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ba3tS8x7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW6P2NM-es Skechers Women s Street Cleats-LUCKIER Trainers  White White Canvas Duraleather Trim Wht  3  36 EU '
+slug: 'B07NW6P2NM-es Skechers Women s Street Cleats-LUCKIER Trainers White...'
+tags: 
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311DeEGYTVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002VSS5QA-es Converse Chuck Taylor All Star  Zapatillas Unisex  Negro  Black Mono   40 EU'
+slug: 'B002VSS5QA-es Converse Chuck Taylor All Star Zapatillas Unisex Negro...'
+tags: 
 actualPrice: 50.05 EUR
 currency: EUR
 price: 50.05

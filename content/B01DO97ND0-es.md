@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Yucre8GML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DO97ND0-es Klarstein Grill eléctrico multifunción  1600W  Parrilla de pie o Mesa  Tapa termómetro  Incluye Olla Acero INOX para freir  escurridor fritos  Barbacoa Jardin  terraza  Hierro Fundido '
+slug: 'B01DO97ND0-es Klarstein Grill eléctrico multifunción 1600W Parrilla de...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

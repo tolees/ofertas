@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s-JXP7liL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQOS8KA-es Ewent EW1280 - Soporte para monitor con elvación regulable y cajón organizador'
+slug: 'B01MQOS8KA-es Ewent EW1280 - Soporte para monitor con elvación regulable...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

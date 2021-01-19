@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aUzIFPcbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J65Z2LK-es FUNTOK Búho Espejo Kinders Chminken Face Paint Cara  Schminkf Soluble en Agua Blanca 12 Colores Schminkp Alette 1 Purpurina Plantillas Purpurina Cara Colores Basado Agua y No Tóxico'
+slug: 'B07J65Z2LK-es FUNTOK Búho Espejo Kinders Chminken Face Paint Cara...'
+tags: 
 actualPrice: 11.66 EUR
 currency: EUR
 price: 11.66

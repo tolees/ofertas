@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31QZb5QfK0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVV94P8-es TOUS BRIGHT - Pendientes amatista hidrotermal con base de nácar'
+slug: 'B07TVV94P8-es TOUS BRIGHT - Pendientes amatista hidrotermal con base de...'
+tags: 
 actualPrice: 69 EUR
 currency: EUR
 price: 69

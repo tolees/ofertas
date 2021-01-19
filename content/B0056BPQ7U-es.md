@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GX28ioAdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0056BPQ7U-es Velleman WIK01N - Cable  715 m  Cobre '
+slug: 'B0056BPQ7U-es Velleman WIK01N - Cable 715 m Cobre'
+tags: 
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

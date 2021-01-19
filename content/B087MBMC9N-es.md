@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lwc6Y-v9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087MBMC9N-es XILOSIN Asiento Trasero del Coche 4PCS Mats Barro Cubierta del Protector | Kick Impermeable Protector para Cubrir niños Kid  Transparente '
+slug: 'B087MBMC9N-es XILOSIN Asiento Trasero del Coche 4PCS Mats Barro Cubierta...'
+tags: 
 actualPrice: 6.84 EUR
 currency: EUR
 price: 6.84

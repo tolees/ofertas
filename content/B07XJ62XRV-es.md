@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dXzk4O1mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJ62XRV-es Skechers Flex Advantage 3.0 Landess  Zapatillas para Hombre  Negro Black Knit Synthetic Trim Blk  40 EU'
+slug: 'B07XJ62XRV-es Skechers Flex Advantage 3.0 Landess Zapatillas para Hombre...'
+tags: 
 actualPrice: 41.36 EUR
 currency: EUR
 price: 41.36

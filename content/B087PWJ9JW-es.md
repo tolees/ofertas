@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PWJ9JW-es Termómetro sin contacto por infrarrojos JPD-FR202'
+tags: 
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

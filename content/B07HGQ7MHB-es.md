@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51D3HdMtyVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGQ7MHB-es UMI. Essentials Marco de Fotos 15 x 10 cm Set de 12  Negro'
+slug: 'B07HGQ7MHB-es UMI. Essentials Marco de Fotos 15 x 10 cm Set de 12 Negro'
+tags: 
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

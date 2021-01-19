@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/514qN9CZ8ML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LDC9C53-es Un Tranvia Llamado Deseo Blu-Ray  - Col Oscars [Blu-ray]'
+slug: 'B07LDC9C53-es Un Tranvia Llamado Deseo Blu-Ray - Col Oscars [Blu-ray]'
+tags: 
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31SN1vdH7oL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQVQVB7-es GANT FOOTWEAR New Haven  Zapatillas para Mujer   Bright White G290   36 EU'
+slug: 'B07FQVQVB7-es GANT FOOTWEAR New Haven Zapatillas para Mujer Bright White...'
+tags: 
 actualPrice: 22.92 EUR
 currency: EUR
 price: 22.92

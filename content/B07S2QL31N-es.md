@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JwznKI5XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2QL31N-es New Balance Fresh Foam Tempo h  Zapatillas de Running para Hombre  Negro  Black B   42.5 EU'
+slug: 'B07S2QL31N-es New Balance Fresh Foam Tempo h Zapatillas de Running para...'
+tags: 
 actualPrice: 70.47 EUR
 currency: EUR
 price: 70.47

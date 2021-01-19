@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ph5sypFHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GHGGY6A-es Gardena THS Li-18/42 Tijeras Cortasetos  Incluye batería y Cargador  hasta 3 m'
+slug: 'B00GHGGY6A-es Gardena THS Li-18/42 Tijeras Cortasetos Incluye batería y...'
+tags: 
 actualPrice: 138.82 EUR
 currency: EUR
 price: 138.82

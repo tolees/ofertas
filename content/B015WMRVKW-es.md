@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XfSbVhfDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B015WMRVKW-es Optimum Nutrition ON Serious Mass Proteina en Polvo Mass Gainer Alto en Proteína  con Vitaminas  Creatina y Glutamina  Chocolate Mantequilla de Cacahuete  16 Porciones  5.45 kg'
+slug: 'B015WMRVKW-es Optimum Nutrition ON Serious Mass Proteina en Polvo Mass...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

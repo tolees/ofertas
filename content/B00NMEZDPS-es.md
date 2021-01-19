@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kiTKNhrYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NMEZDPS-es One For All URC1911 - Mando a distancia de reemplazo para Televisores LG – Control remoto universal para todo tipo de TVs de la marca LG - negro'
+slug: 'B00NMEZDPS-es One For All URC1911 - Mando a distancia de reemplazo para...'
+tags: 
 actualPrice: 12.09 EUR
 currency: EUR
 price: 12.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41svulRR7HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GWVLPXW-es Aerku Cámara Trasera Lente Protector de Pantalla para Samsung Galaxy Z Fold 2[3 Piezas] [Cobertura Completa] HD Sin Burbujas Cristal Templado Cámara Protector para Galaxy Z Fold 2[Transparente]'
+slug: 'B08GWVLPXW-es Aerku Cámara Trasera Lente Protector de Pantalla para...'
+tags: 
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

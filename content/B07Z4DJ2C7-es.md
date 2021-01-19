@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w76-+X+WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4DJ2C7-es Funda compatible con Huawei P30 Pro  ultrafina  suave  flexible  de silicona TPU  con patrón de mármol  antigolpes  color amarillo 2 Talla única'
+slug: 'B07Z4DJ2C7-es Funda compatible con Huawei P30 Pro ultrafina suave...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

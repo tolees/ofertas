@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pLiJdGdgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Z3LK9G-es Logitech MX900 - Teclado  Estándar  Inalámbrico  Bluetooth  QWERTY  Black  Ratón Incluido '
+slug: 'B079Z3LK9G-es Logitech MX900 - Teclado Estándar Inalámbrico Bluetooth...'
+tags: 
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

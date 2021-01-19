@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tJ+lI6brL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R10ZUWU-es Gillette Fusion ProGlide - Cuchillas de recambio para maquinilla de afeitar  8 unidades'
+slug: 'B00R10ZUWU-es Gillette Fusion ProGlide - Cuchillas de recambio para...'
+tags: 
 actualPrice: 24.09 EUR
 currency: EUR
 price: 24.09

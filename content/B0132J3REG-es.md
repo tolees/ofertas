@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xtXgn7WIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0132J3REG-es Brennenstuhl 1508180 Enchufe Adaptador de 2 Tomas con Conector de Tierra  240 V  Blanco'
+slug: 'B0132J3REG-es Brennenstuhl 1508180 Enchufe Adaptador de 2 Tomas con...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

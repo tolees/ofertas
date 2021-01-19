@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41agWQmaxLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBKH7QN-es Luces Solares 【1200lm 5200mAh Potente Versión 2 Piezas】 100 LED Luz Solar Exterior 3 Modos Foco Solar con Sensor de Movimiento 120° Lámparas Solares Para Jardin  Garaje  Pared - Blanco Frío 6000K'
+slug: 'B07SBKH7QN-es Luces Solares 【1200lm 5200mAh Potente Versión 2 Piezas】...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

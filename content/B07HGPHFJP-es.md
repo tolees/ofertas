@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3113daopcgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGPHFJP-es Adidas Continental 80 J  Zapatillas de Deporte Unisex Adulto  Negro  Negbás/Escarl/Maruni 000   38 2/3 EU'
+slug: 'B07HGPHFJP-es Adidas Continental 80 J Zapatillas de Deporte Unisex...'
+tags: 
 actualPrice: 40.45 EUR
 currency: EUR
 price: 40.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DUEF6WsfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D1FVL8A-es PenDrives 8GB 5 Piezas Memorias USB - Portátil Pen Drive 8 GB Práctico 5 Unidades Multicolor Unidad Flash USB 2.0 - FEBNISCTE Nuevo Giratoria Llave USB Almacenamiento para Música Fotos Vídeo Películas'
+slug: 'B01D1FVL8A-es PenDrives 8GB 5 Piezas Memorias USB - Portátil Pen Drive 8...'
+tags: 
 actualPrice: 20.56 EUR
 currency: EUR
 price: 20.56

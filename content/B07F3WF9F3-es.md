@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3WF9F3-es Casio Reloj de Pulsera A158WEAD-1EF'
+tags: 
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

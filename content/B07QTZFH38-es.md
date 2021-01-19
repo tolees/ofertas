@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MvnIdsslL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTZFH38-es Asics Gel-Nimbus 21  Zapatillas de Running para Mujer  Gris  Lavender Grey/Dive Blue 500   37.5 EU'
+slug: 'B07QTZFH38-es Asics Gel-Nimbus 21 Zapatillas de Running para Mujer Gris...'
+tags: 
 actualPrice: 59.16 EUR
 currency: EUR
 price: 59.16

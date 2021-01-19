@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51j95yJ5exL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U7HUY7K-es Smile Pin Up Style - Bolsa reversible para cámara réflex  DSLR   mirrorless  compacta  Multicolor  tamaño S'
+slug: 'B00U7HUY7K-es Smile Pin Up Style - Bolsa reversible para cámara réflex...'
+tags: 
 actualPrice: 22.88 EUR
 currency: EUR
 price: 22.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hytk8GeyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5YY39D-es 500x Negro Sujetacables profesional Cable Sujetacables Velcro Bridas de cable Estancias UV Resistente al calor Duradero Grado industrial 5 tama?os: 100/150 / 200/300 / 400 mm'
+slug: 'B07W5YY39D-es 500x Negro Sujetacables profesional Cable Sujetacables...'
+tags: 
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cGoHj+kPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BLHP3O8-es Biotherm Biocils Waterproof Eye Make Up Remover Desmaquillante - 100 ml'
+slug: 'B01BLHP3O8-es Biotherm Biocils Waterproof Eye Make Up Remover...'
+tags: 
 actualPrice: 13.32 EUR
 currency: EUR
 price: 13.32

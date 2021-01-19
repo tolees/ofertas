@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pBOU3mCsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868NT9CM-es Suhctup Transparente Funda Compatible con LG K4 2017 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para LG K4 2017 4 '
+slug: 'B0868NT9CM-es Suhctup Transparente Funda Compatible con LG K4 2017...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qM8lD23VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG755CB-es Black+Decker BXMM1000E Picadora de Carne  1000 W  Acero Inoxidable  Gris'
+slug: 'B07KG755CB-es Black+Decker BXMM1000E Picadora de Carne 1000 W Acero...'
+tags: 
 actualPrice: 53.59 EUR
 currency: EUR
 price: 53.59

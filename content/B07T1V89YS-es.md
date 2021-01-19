@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516+7da22cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1V89YS-es VTech-80-177822 Barco Pirata  cazatesoros transformable en Isla  SPB  Color Verde  80-177877 '
+slug: 'B07T1V89YS-es VTech-80-177822 Barco Pirata cazatesoros transformable en...'
+tags: 
 actualPrice: 26.38 EUR
 currency: EUR
 price: 26.38

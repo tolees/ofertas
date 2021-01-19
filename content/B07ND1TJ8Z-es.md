@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ND1TJ8Z-es EXCITE Gel lubricante a base de agua. Neutro. 100ml.'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

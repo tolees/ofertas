@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415bC0W5lLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ELRLUJ2-es Suecos Alma  Zapatillas de Deporte Unisex Adulto  Blanco  White   36 EU'
+slug: 'B01ELRLUJ2-es Suecos Alma Zapatillas de Deporte Unisex Adulto Blanco...'
+tags: 
 actualPrice: 46.07 EUR
 currency: EUR
 price: 46.07

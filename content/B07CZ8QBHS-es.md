@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UlQNqtqZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ8QBHS-es Skechers Women s Flex Appeal 3.0-INSIDERS Trainers  Black  Black & Gray Mesh/Black Trim BKHP   3.5 UK 36.5 EU'
+slug: 'B07CZ8QBHS-es Skechers Women s Flex Appeal 3.0-INSIDERS Trainers Black...'
+tags: 
 actualPrice: 32.35 EUR
 currency: EUR
 price: 32.35

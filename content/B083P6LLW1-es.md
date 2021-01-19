@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51trM4mbEOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B083P6LLW1-es Luz De Trabajo Led Portátil Recargable  Lámpara De Trabajo Al Aire Libre A Prueba De Agua De 30w 1500lm Para Reparación De Automóviles  Camping  Senderismo  Luces De Seguridad De Emergencia  3 Modos'
+slug: 'B083P6LLW1-es Luz De Trabajo Led Portátil Recargable Lámpara De Trabajo...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

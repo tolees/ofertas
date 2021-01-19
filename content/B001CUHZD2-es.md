@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+78rjmLcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001CUHZD2-es MANN-FILTER W 719/30 Filtro de Aceite  para automóviles y vehículos de utilidad'
+slug: 'B001CUHZD2-es MANN-FILTER W 719/30 Filtro de Aceite para automóviles y...'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

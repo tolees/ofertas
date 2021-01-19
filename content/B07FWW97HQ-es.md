@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ne7q-wPuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FWW97HQ-es Enchufe A Prueba de Polvo/Antipolvo Para Macbook Pro/Air/Retina de Cuaderno - Claro'
+slug: 'B07FWW97HQ-es Enchufe A Prueba de Polvo/Antipolvo Para Macbook...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

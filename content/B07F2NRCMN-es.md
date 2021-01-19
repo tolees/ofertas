@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wgZKwxBaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2NRCMN-es Walser Car Comfort 11652 Cubierta del Asiento del Coche Almohadillas de Asiento S-Race in Antracit/Negro'
+slug: 'B07F2NRCMN-es Walser Car Comfort 11652 Cubierta del Asiento del Coche...'
+tags: 
 actualPrice: 9.44 EUR
 currency: EUR
 price: 9.44

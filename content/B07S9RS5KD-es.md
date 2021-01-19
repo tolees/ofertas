@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4199WMNdzmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9RS5KD-es PUMA Nova 2 WN S  Zapatillas Deportivas para Mujer  Negro Black/Mist Green  37 EU'
+slug: 'B07S9RS5KD-es PUMA Nova 2 WN S Zapatillas Deportivas para Mujer Negro...'
+tags: 
 actualPrice: 20.84 EUR
 currency: EUR
 price: 20.84

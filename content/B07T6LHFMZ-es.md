@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417mL8RjqTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T6LHFMZ-es Saucony Jazz 21  Zapatillas de Running para Hombre  Azul Aguamarina  42.5 EU'
+slug: 'B07T6LHFMZ-es Saucony Jazz 21 Zapatillas de Running para Hombre Azul...'
+tags: 
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

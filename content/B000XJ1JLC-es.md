@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41woGJhrXsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000XJ1JLC-es Bosch 2 608 628 403 - Fresas de disco para ranurar  8 mm  D1 32 mm  L 5 mm  G 51 mm '
+slug: 'B000XJ1JLC-es Bosch 2 608 628 403 - Fresas de disco para ranurar 8 mm D1...'
+tags: 
 actualPrice: 19.83 EUR
 currency: EUR
 price: 19.83

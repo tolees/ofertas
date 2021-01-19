@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZuYGB8N+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MPZ5BSL-es Plancha de vapor - Cecotec GoForce 8000 Folding Titanium  De viaje  1200 W  53 g/min  Negro'
+slug: 'B07MPZ5BSL-es Plancha de vapor - Cecotec GoForce 8000 Folding Titanium...'
+tags: 
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

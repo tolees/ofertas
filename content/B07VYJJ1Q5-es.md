@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FA+yuggaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYJJ1Q5-es Vibrador Parejas  FIDECH Estimulador de Clítoris Impermeable con 12 Modos de vibracion y Dual Motor Con control remoto de 10M  Recargable y Silencioso Juguetes eróticos para solitario o parejas'
+slug: 'B07VYJJ1Q5-es Vibrador Parejas FIDECH Estimulador de Clítoris...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61KnFBm8ZsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H1B1DW3-es Ajcoflt 3 Pcs Toallas de enfriamiento de Playa Manta de Yoga Ultrafina para Entrenamiento Deportivo Fitness Gimnasio Pilates Viajes Toallas para Acampar  Gris '
+slug: 'B08H1B1DW3-es Ajcoflt 3 Pcs Toallas de enfriamiento de Playa Manta de...'
+tags: 
 actualPrice: 5.67 EUR
 currency: EUR
 price: 5.67

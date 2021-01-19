@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418i-ojrOTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MCBF51Y-es Seiko Reloj Analógico para Hombre de Energía Solar con Correa en Acero Inoxidable SNE363P1'
+slug: 'B00MCBF51Y-es Seiko Reloj Analógico para Hombre de Energía Solar con...'
+tags: 
 actualPrice: 129.42 EUR
 currency: EUR
 price: 129.42

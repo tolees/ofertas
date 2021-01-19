@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bNsAAi84L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8DVNPL-es Orient Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable FAB0B001D9'
+slug: 'B07N8DVNPL-es Orient Reloj Analógico para Hombre de Automático con...'
+tags: 
 actualPrice: 91.51 EUR
 currency: EUR
 price: 91.51

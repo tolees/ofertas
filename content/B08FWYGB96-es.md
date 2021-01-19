@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F9kMhvKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FWYGB96-es Funda universal para tableta portátil Funda ultra suave a prueba de agua con protección completa a prueba de golpes para PC portátil - Negro - 7 "'
+slug: 'B08FWYGB96-es Funda universal para tableta portátil Funda ultra suave a...'
+tags: 
 actualPrice: 1.44 EUR
 currency: EUR
 price: 1.44

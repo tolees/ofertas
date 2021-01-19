@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416VRzRWSfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OXPT5RM-es Reality Luster Apliques y plafones E14  4 W  Transparente claro  32 x 27 cm'
+slug: 'B00OXPT5RM-es Reality Luster Apliques y plafones E14 4 W Transparente...'
+tags: 
 actualPrice: 32.4 EUR
 currency: EUR
 price: 32.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516PBDQLeRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894MXDQZ-es BOWFU Funda para Samsung Galaxy A51 5G Case 【Silicona Suave TPU Bumper】【Transparente Duro PC】【Anillo de Metal Integrado】 Hybrid Cover para Samsung Galaxy A51 5G-Gris'
+slug: 'B0894MXDQZ-es BOWFU Funda para Samsung Galaxy A51 5G Case 【Silicona...'
+tags: 
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

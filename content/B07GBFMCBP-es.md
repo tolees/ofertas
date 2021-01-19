@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yKD2O41UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBFMCBP-es Casio G-SHOCK Reloj Digital  Contador de pasos  Sensor de movimiento  Aplicación de deporte gratuita para descargar  20 BAR  Blanco  para Hombre  GBD-800-7ER'
+slug: 'B07GBFMCBP-es Casio G-SHOCK Reloj Digital Contador de pasos Sensor de...'
+tags: 
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UozXNc5PL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRC7V3Z-es DANISH ENDURANCE Slip para Hombre en Coton Pack de 6  2 x Negro  2 x Blanco  1 x Gris  1 x Negro/línea roja   Medium'
+slug: 'B07XRC7V3Z-es DANISH ENDURANCE Slip para Hombre en Coton Pack de 6 2 x...'
+tags: 
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

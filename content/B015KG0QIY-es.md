@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015KG0QIY-es King Cock Dildo Correa - 1 unidad'
+tags: 
 actualPrice: 25.75 EUR
 currency: EUR
 price: 25.75

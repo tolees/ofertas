@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31EPSGohIJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RQ1ZNS-es Helly Hansen Crew Gorra  Unisex Adulto  Blanco  Talla Única'
+slug: 'B073RQ1ZNS-es Helly Hansen Crew Gorra Unisex Adulto Blanco Talla Única'
+tags: 
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

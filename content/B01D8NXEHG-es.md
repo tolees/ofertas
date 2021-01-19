@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418NDBH-9AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D8NXEHG-es Esponja Konjac Facial 100% Naturales  Esponja Exfoliante Facial  3PCS Esponja Konjac Cuidado de la Piel Facial y Limpieza Profundamente a la Piel Facial  Negro Carbón  Blanco y Verde）'
+slug: 'B01D8NXEHG-es Esponja Konjac Facial 100% Naturales Esponja Exfoliante...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

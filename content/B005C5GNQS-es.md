@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DBoXV-k1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005C5GNQS-es Cooler Master XDream i117 - Ventiladores de CPU  Cross Shape Heat Dissipating Design  1800RPM +/-10%  Ventilador de 95mm  RR-X117-18FP-R1'
+slug: 'B005C5GNQS-es Cooler Master XDream i117 - Ventiladores de CPU Cross...'
+tags: 
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

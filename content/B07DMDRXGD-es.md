@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DMDRXGD-es Forza Horizon 4 [Importación italiana]'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

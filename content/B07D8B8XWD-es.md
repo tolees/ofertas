@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fHVt8mP7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D8B8XWD-es New Balance Fresh Foam Cruz Sockfit  Zapatillas para Hombre  Gris Arctic Fox/Light Shale Lp2  46.5 EU'
+slug: 'B07D8B8XWD-es New Balance Fresh Foam Cruz Sockfit Zapatillas para Hombre...'
+tags: 
 actualPrice: 45.84 EUR
 currency: EUR
 price: 45.84

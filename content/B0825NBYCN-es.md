@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mAFVd4SzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NBYCN-es Quiksilver Word Block 17" - Short De Natación para Hombre Jam/Volley  Hombre  Blithe  M'
+slug: 'B0825NBYCN-es Quiksilver Word Block 17" - Short De Natación para Hombre...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

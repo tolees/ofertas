@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418E%2BzmLXsL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719KNBJ7-es Adidas Terrex Tracerocker  Zapatillas de Senderismo para Hombre  Negro  Negbas/Neguti 000   44 EU'
+slug: 'B0719KNBJ7-es Adidas Terrex Tracerocker Zapatillas de Senderismo para...'
+tags: 
 actualPrice: 51.14 EUR
 currency: EUR
 price: 51.14

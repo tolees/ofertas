@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c1w0vtu-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7YFHHR-es Ferilinso Funda para Xiaomi Redmi Note 6 Pro  Híbrido Armadura Holster Defender Protección Corporal Completa Heavy Duty Hard Bumper Case con Kickstand y Soporte （Negro）'
+slug: 'B07F7YFHHR-es Ferilinso Funda para Xiaomi Redmi Note 6 Pro Híbrido...'
+tags: 
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LRHPysSLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ANQUXE8-es Toner Kingdom Cartuchos de Tinta HP 903 903L 903XL compatibles con Alto Rendimiento para Las impresoras HP OfficeJet 6950  HP OfficeJet Pro 6960 6970  1 Negro  1 Cian  1 Magenta  1 Amarillo '
+slug: 'B01ANQUXE8-es Toner Kingdom Cartuchos de Tinta HP 903 903L 903XL...'
+tags: 
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

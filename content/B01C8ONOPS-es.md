@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PyrUrIKNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C8ONOPS-es Pikolin Home - Edredón/Relleno nórdico  de fibra antiácaros  otoño-invierno  300gr/m²  color blanco  240x220cm-Cama 150/160  Todas las medidas '
+slug: 'B01C8ONOPS-es Pikolin Home - Edredón/Relleno nórdico de fibra antiácaros...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

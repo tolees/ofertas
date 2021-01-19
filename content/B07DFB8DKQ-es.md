@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TtP0uGstL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFB8DKQ-es Funko Pop Power Rangers Figura de Vinilo Zack sin Casco  Multicolor  32808 '
+slug: 'B07DFB8DKQ-es Funko Pop Power Rangers Figura de Vinilo Zack sin Casco...'
+tags: 
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

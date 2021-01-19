@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ocj7KzeUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NDQNG-es Quiksilver Tijuana Hombre Gorra Trucker de 5 Paneles con Espuma  Multicolor  Dazzling Blue   1SZ'
+slug: 'B0825NDQNG-es Quiksilver Tijuana Hombre Gorra Trucker de 5 Paneles con...'
+tags: 
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

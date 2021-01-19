@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NO6ntoZ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVSQ7NY-es PC Gaming - Megaport Ordenador Gaming PC AMD Ryzen 3 3200G 4X 3.60 GHz • Windows 10 • 120GB SSD • 1TB HDD • 8GB DDR4 2400 • Vega 8 • PC Gamer • Ordenador de sobremesa'
+slug: 'B07ZVSQ7NY-es PC Gaming - Megaport Ordenador Gaming PC AMD Ryzen 3 3200G...'
+tags: 
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

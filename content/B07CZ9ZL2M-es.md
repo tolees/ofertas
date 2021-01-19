@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YSF8GoISL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ9ZL2M-es Under Armour Golf Headline 3.0 C Gorra con Logo Frontal  Hombre  Azul  Navy 408   L/XL'
+slug: 'B07CZ9ZL2M-es Under Armour Golf Headline 3.0 C Gorra con Logo Frontal...'
+tags: 
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

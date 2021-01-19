@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DL2YGBI-es Zwilling Kellnermesser Classic'
+tags: 
 actualPrice: 36.02 EUR
 currency: EUR
 price: 36.02

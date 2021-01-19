@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OQrIcgNeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y39HK6D-es Soul Projekt x 10 Almohadillas desmaquillantes reutilizables  Almohadillas faciales orgánicas ecológicas de algodón de bambú  Bolsa de lavandería de algodón'
+slug: 'B07Y39HK6D-es Soul Projekt x 10 Almohadillas desmaquillantes...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

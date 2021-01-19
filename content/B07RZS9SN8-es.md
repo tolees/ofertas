@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HzD2JPZFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZS9SN8-es Diesel UMBX-DAMIENTHREEPACK  Calzoncillo para Hombre  Multicolor  Black/Bright White/Racing Red E4024/0aaxx   S  Pack de 3'
+slug: 'B07RZS9SN8-es Diesel UMBX-DAMIENTHREEPACK Calzoncillo para Hombre...'
+tags: 
 actualPrice: 18.24 EUR
 currency: EUR
 price: 18.24

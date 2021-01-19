@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Nh9sPtwWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0783RFHLR-es PUMA Ignite Flash Evoknit  Zapatillas para Correr de Carretera para Hombre  Schwarz Black Asphalt White  45 EU'
+slug: 'B0783RFHLR-es PUMA Ignite Flash Evoknit Zapatillas para Correr de...'
+tags: 
 actualPrice: 31.47 EUR
 currency: EUR
 price: 31.47

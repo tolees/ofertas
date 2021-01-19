@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e+tiGjn9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B59HS9C-es Camin Sidra Natural de 6º - Paquete de 6 botellas de 70 - Total 420 cl'
+slug: 'B07B59HS9C-es Camin Sidra Natural de 6º - Paquete de 6 botellas de 70 -...'
+tags: 
 actualPrice: 12.72 EUR
 currency: EUR
 price: 12.72

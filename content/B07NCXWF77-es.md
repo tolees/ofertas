@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51KLmgOuOrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCXWF77-es Controlslim -Aquisana | Quema Grasas Potente Para Adelgazar | Quemagrasas Natural | Pastillas para Adelgazar | Fat Burner | Termogénico Adelgazante | Libre de alérgenos'
+slug: 'B07NCXWF77-es Controlslim -Aquisana | Quema Grasas Potente Para...'
+tags: 
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31L-1s9ws2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X7GMN7J-es SELECTED HOMME 16049517 Polo  Verde  Hemlock Hemlock   M para Hombre'
+slug: 'B07X7GMN7J-es SELECTED HOMME 16049517 Polo Verde Hemlock Hemlock M para...'
+tags: 
 actualPrice: 13.27 EUR
 currency: EUR
 price: 13.27

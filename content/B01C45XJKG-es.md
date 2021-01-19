@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41norz5v4%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C45XJKG-es DIM Generous Sujetador  Beige  New Skin   105B para Mujer'
+slug: 'B01C45XJKG-es DIM Generous Sujetador Beige New Skin 105B para Mujer'
+tags: 
 actualPrice: 16 EUR
 currency: EUR
 price: 16

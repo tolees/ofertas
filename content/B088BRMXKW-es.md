@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jtttAJUvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BRMXKW-es havit Teclados mecánico Gaming de una Mano y Ratón Teclado Gaming con Azul Anti-Efecto Fantasma de 36 Teclas Ratón Gaming programable con Cable  Negro'
+slug: 'B088BRMXKW-es havit Teclados mecánico Gaming de una Mano y Ratón Teclado...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

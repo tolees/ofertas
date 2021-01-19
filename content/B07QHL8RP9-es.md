@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411yMxdVOZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHL8RP9-es PUMA ACM Away Shirt Replica SS with Sponsor Logo Maillot  Hombre  White-Tango Red  M'
+slug: 'B07QHL8RP9-es PUMA ACM Away Shirt Replica SS with Sponsor Logo Maillot...'
+tags: 
 actualPrice: 57.07 EUR
 currency: EUR
 price: 57.07

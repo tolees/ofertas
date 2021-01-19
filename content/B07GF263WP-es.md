@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kAgSi9tEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GF263WP-es Levi s 501 Short Long Pantalones Cortos  Azul  Blue Clue 0006   W29  Talla del Fabricante: 29  para Mujer'
+slug: 'B07GF263WP-es Levi s 501 Short Long Pantalones Cortos Azul Blue Clue...'
+tags: 
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

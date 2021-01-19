@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cmoKxCWCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBHWJJ4-es Topsale-ycld 4.3"1080P Dual Lens Car Auto DVR Mirror Dash CAM Recorder + Kit de cámara de visión Trasera'
+slug: 'B07TBHWJJ4-es Topsale-ycld 4.3"1080P Dual Lens Car Auto DVR Mirror Dash...'
+tags: 
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GNAGVfQNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SGLSBD-es Desigual Abrig Collin  Mujer    Negro 2000  40  Talla del fabricante: 42 '
+slug: 'B079SGLSBD-es Desigual Abrig Collin Mujer Negro 2000 40 Talla del...'
+tags: 
 actualPrice: 44.38 EUR
 currency: EUR
 price: 44.38

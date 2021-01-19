@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E1j9fNG0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F82H3BS-es Superga 2750 COTU Classic  Zapatillas Unisex  Beige  Beige Wbt   36 EU'
+slug: 'B07F82H3BS-es Superga 2750 COTU Classic Zapatillas Unisex Beige Beige...'
+tags: 
 actualPrice: 36.76 EUR
 currency: EUR
 price: 36.76

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zko06p5LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6TKW4W-es Tommy Hilfiger Iconic Long Lace Sneaker  Zapatillas para Hombre  Beige  Stone Aep   44 EU'
+slug: 'B07V6TKW4W-es Tommy Hilfiger Iconic Long Lace Sneaker Zapatillas para...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

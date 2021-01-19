@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gpTOwAj-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZWTH5CA-es Bolsa Termica Comida Trabajo Porta Alimentos Isotermica Iris Neveras Portatil Desayuno Almuerzo Pequeñas'
+slug: 'B00ZWTH5CA-es Bolsa Termica Comida Trabajo Porta Alimentos Isotermica...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

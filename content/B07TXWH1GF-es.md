@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rSdf2jYjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXWH1GF-es Skechers Boys  ELITE FLEX HYDROX Trainers  Brown  Chocolate Synthetic/Black & Brown Trim Chocolate   4  37 EU '
+slug: 'B07TXWH1GF-es Skechers Boys ELITE FLEX HYDROX Trainers Brown Chocolate...'
+tags: 
 actualPrice: 37.11 EUR
 currency: EUR
 price: 37.11

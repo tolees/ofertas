@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L-xhZ9rgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF45PHP-es Levi s 502 Regular Taper Jeans  Azul  Baltic Adapt 0472   32W / 32L para Hombre'
+slug: 'B07KF45PHP-es Levi s 502 Regular Taper Jeans Azul Baltic Adapt 0472 32W...'
+tags: 
 actualPrice: 70.63 EUR
 currency: EUR
 price: 70.63

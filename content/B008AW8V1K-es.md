@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QLv+sgqlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008AW8V1K-es Lacoste L1230  Polo de Manga Corta para Hombre  Negro  Noir   L  Talla del fabricante: 5 '
+slug: 'B008AW8V1K-es Lacoste L1230 Polo de Manga Corta para Hombre Negro Noir L...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

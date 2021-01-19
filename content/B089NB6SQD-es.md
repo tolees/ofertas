@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xJsme0fbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NB6SQD-es FirstE Altavoz Portátil Inalámbrico Bluetooth con Luz  Altavoz Bluetooth Ducha Impermeable IPX7  Sonido Estéreo  Micrófono  Altavoz Flotante Piscina para Bañera Hidromasaje SPA Fiesta Playa Viajes'
+slug: 'B089NB6SQD-es FirstE Altavoz Portátil Inalámbrico Bluetooth con Luz...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xb4ZqQtuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087M2B5MM-es Bichiro Dispensador de jabón automático 450 ml dispensadores de jabón de Espuma infrarroja sin Contacto de  Botellas de Bomba  dispensador de jabón Ajustable para baño  Cocina  Oficina'
+slug: 'B087M2B5MM-es Bichiro Dispensador de jabón automático 450 ml...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

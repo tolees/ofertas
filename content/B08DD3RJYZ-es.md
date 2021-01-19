@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NPTkZ-0qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DD3RJYZ-es Bochee Juego de Sushi 14 Pcs  Kit para Hacer Sushi y Sushi Plato - Caja de Regalo  Tutoriales en Video y Ebook  2 Esterillas para Sushi  Sushi Maker  Palillos x 5  Bandeja para Sushi  Plato  Paleta'
+slug: 'B08DD3RJYZ-es Bochee Juego de Sushi 14 Pcs Kit para Hacer Sushi y Sushi...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

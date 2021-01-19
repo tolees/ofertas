@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qZtKwH1kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBH4V8L-es Duracell Powerbank 3350 mAh - Cargador universal portátil para iPhone  Samsung y otros dispositivos alimentados por USB'
+slug: 'B07GBH4V8L-es Duracell Powerbank 3350 mAh - Cargador universal portátil...'
+tags: 
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

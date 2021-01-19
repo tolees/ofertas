@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bbeockLnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKB5L3M-es Kipling - Izellah  Bolsos bandolera Mujer  Gris  Active Grey Bl '
+slug: 'B07DKB5L3M-es Kipling - Izellah Bolsos bandolera Mujer Gris Active Grey Bl'
+tags: 
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

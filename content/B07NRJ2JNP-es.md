@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CvJblqELL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRJ2JNP-es Gliss - Acondicionador Express Fiber Therapy - Sin Aclarado Para cabello Sobreprocesado  Plancha y/o Tinte  - 3 uds de 200 ml - Schwarzkopf'
+slug: 'B07NRJ2JNP-es Gliss - Acondicionador Express Fiber Therapy - Sin...'
+tags: 
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

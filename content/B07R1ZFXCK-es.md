@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410VEjPWfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R1ZFXCK-es Under Armour  UNDKU Heatgear Calcetines  Unisex adulto  Gris  MD'
+slug: 'B07R1ZFXCK-es Under Armour UNDKU Heatgear Calcetines Unisex adulto Gris MD'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

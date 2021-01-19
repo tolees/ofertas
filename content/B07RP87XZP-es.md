@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nUB5GUaCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RP87XZP-es Calvin Klein CK Rev.Adj. New Mono Belt 3.5cm Cinturón  Negro  Black Monogram 0gj   130  Talla del fabricante: 115  para Hombre'
+slug: 'B07RP87XZP-es Calvin Klein CK Rev.Adj. New Mono Belt 3.5cm Cinturón...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

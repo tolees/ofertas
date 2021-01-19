@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/611dYzSvhvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HHLM5HA-es Puzle coloreable 20 piezas. Frozen  Puzle coloreable frozen '
+slug: 'B01HHLM5HA-es Puzle coloreable 20 piezas. Frozen Puzle coloreable frozen'
+tags: 
 actualPrice: 2.12 EUR
 currency: EUR
 price: 2.12

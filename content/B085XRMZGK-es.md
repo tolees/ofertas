@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ExQ-fpVhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XRMZGK-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible con Realme 5 Funda TPU Silicona Suave Protector Ultra Slim Anti-Rasguño Transparente Carcasa  A17 '
+slug: 'B085XRMZGK-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

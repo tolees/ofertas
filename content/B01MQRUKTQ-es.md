@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GK7UjLiKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQRUKTQ-es Cecotec Power Titanium 850 Batidora Americana de Vaso  5 Velocidades + Turbo  Cristal Fundido Termorresistente  Cuchillas de Titanio  850W  Capacidad 1L'
+slug: 'B01MQRUKTQ-es Cecotec Power Titanium 850 Batidora Americana de Vaso 5...'
+tags: 
 actualPrice: 27.92 EUR
 currency: EUR
 price: 27.92

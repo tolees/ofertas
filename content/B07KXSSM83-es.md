@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xtRs6qz7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXSSM83-es 5pcs Niños Pinceles Cepillo De Mango De Plástico para Niños Suministros De Arte Artesanal'
+slug: 'B07KXSSM83-es 5pcs Niños Pinceles Cepillo De Mango De Plástico para...'
+tags: 
 actualPrice: 10.72 EUR
 currency: EUR
 price: 10.72

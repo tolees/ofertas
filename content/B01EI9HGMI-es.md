@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fB3HYU+iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EI9HGMI-es adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Collegiate Navy/White/Gold Metalic   43 1/3 EU'
+slug: 'B01EI9HGMI-es adidas Gazelle Zapatillas de deporte Unisex Adulto Varios...'
+tags: 
 actualPrice: 62.45 EUR
 currency: EUR
 price: 62.45

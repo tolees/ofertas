@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NEx-ajV7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0732Z3ZNX-es Murtra Estor Plegable loneta Lisa autofrenado 090 x 175 Tostado'
+slug: 'B0732Z3ZNX-es Murtra Estor Plegable loneta Lisa autofrenado 090 x 175...'
+tags: 
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

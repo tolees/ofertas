@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QTQbk+d4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084Q8L5LJ-es Formulaone Borradores de ajedrez y Damas de Madera Natural y Pieza de ajedrez de Backgammon para niños Juego de Mesa Aprendizaje Camping con Disco — Madera y Negro'
+slug: 'B084Q8L5LJ-es Formulaone Borradores de ajedrez y Damas de Madera Natural...'
+tags: 
 actualPrice: 2.13 EUR
 currency: EUR
 price: 2.13

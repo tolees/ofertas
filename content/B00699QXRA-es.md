@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414DP9sQmYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00699QXRA-es INJUSA Triciclo Infantil Body Sport Evolutivo de Color Rosa  12m+  3252 '
+slug: 'B00699QXRA-es INJUSA Triciclo Infantil Body Sport Evolutivo de Color...'
+tags: 
 actualPrice: 67.78 EUR
 currency: EUR
 price: 67.78

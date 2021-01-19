@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mK1tXWBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8MJPFH-es iSwim Pulsera Actividad  Pulsera Inteligente con Pulsómetro Pulsera Deportiva y Monitor de Ritmo Cardíaco Monitor de Actividad  Rojo de sílice '
+slug: 'B07K8MJPFH-es iSwim Pulsera Actividad Pulsera Inteligente con Pulsómetro...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

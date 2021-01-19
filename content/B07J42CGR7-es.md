@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BPf-JrN9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J42CGR7-es Dim Soutien-Gorge Sans Armature Invisififree Sujetador sin Aros  Negro  Noir 0Hz   90C para Mujer'
+slug: 'B07J42CGR7-es Dim Soutien-Gorge Sans Armature Invisififree Sujetador sin...'
+tags: 
 actualPrice: 12 EUR
 currency: EUR
 price: 12

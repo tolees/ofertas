@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31N6jC6p8IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001V9LAWG-es Rimmel London Exaggerate Automatic Lipliner. Perfilador de Labios Tono 018 Addiction - 3 9 gr'
+slug: 'B001V9LAWG-es Rimmel London Exaggerate Automatic Lipliner. Perfilador de...'
+tags: 
 actualPrice: 2.26 EUR
 currency: EUR
 price: 2.26

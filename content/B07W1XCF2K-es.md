@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pzNkuhUFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1XCF2K-es Cocoarm Secador de Pelo Caja de Piel sintética con Suave Forro Interior para Guardar el secador de Pelo Dyson portátil Viaje Carry Case Caja de Regalo para Dyson secadores'
+slug: 'B07W1XCF2K-es Cocoarm Secador de Pelo Caja de Piel sintética con Suave...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

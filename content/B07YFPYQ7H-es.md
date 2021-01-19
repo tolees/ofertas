@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51166dsj9gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFPYQ7H-es Bolsa de Maquillaje Mármol PU Bolsa de Cosméticos de Viaje Grande Impermeable para Mujer  19 x 7 x 9 cm  LOCN'
+slug: 'B07YFPYQ7H-es Bolsa de Maquillaje Mármol PU Bolsa de Cosméticos de Viaje...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

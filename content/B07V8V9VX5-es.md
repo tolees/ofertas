@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bIxVNBTOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8V9VX5-es Tommy Hilfiger Corporate Material Mix Runner  Zapatillas para Hombre  Azul  Desert Sky Dw5   43 EU'
+slug: 'B07V8V9VX5-es Tommy Hilfiger Corporate Material Mix Runner Zapatillas...'
+tags: 
 actualPrice: 34.39 EUR
 currency: EUR
 price: 34.39

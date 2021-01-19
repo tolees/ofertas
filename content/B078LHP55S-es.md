@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31118pBMb5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078LHP55S-es Maybelline New York - Color Sensational  Pintalabios Mate Hidratante  Tono 15 Smokey Taupe'
+slug: 'B078LHP55S-es Maybelline New York - Color Sensational Pintalabios Mate...'
+tags: 
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

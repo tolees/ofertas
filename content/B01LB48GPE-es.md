@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/314b0JeUUCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LB48GPE-es Taurus Vilna 1200W Emisor Térmico Digital  Tecnología Seca  sin Fluidos  6 elementos  programación diaria-semanal  3 modos  temperatura ajustable  incluye patas y soporte pared  1200W  multicolor'
+slug: 'B01LB48GPE-es Taurus Vilna 1200W Emisor Térmico Digital Tecnología Seca...'
+tags: 
 actualPrice: 115 EUR
 currency: EUR
 price: 115

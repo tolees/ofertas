@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-Kp95cbfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSHNVDF-es Oral-B Genius 10000N CrossAction - Cepillo Eléctrico  1 Negro Noche Mango Conectado  6 Modos Blanqueado  Sensible  Encías  4 Cabezales  Funda de Viaje con Puerto USB'
+slug: 'B07FSHNVDF-es Oral-B Genius 10000N CrossAction - Cepillo Eléctrico 1...'
+tags: 
 actualPrice: 103.99 EUR
 currency: EUR
 price: 103.99

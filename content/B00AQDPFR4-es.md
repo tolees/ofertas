@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uSJHQYSkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AQDPFR4-es L Oréal Paris Infalible 24h pintalabios permanente rosa 213 Toujours Teaberry'
+slug: 'B00AQDPFR4-es L Oréal Paris Infalible 24h pintalabios permanente rosa...'
+tags: 
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4125FlbZTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHRMY4T-es ZOEON Juegos de Recipientes para Alimentos  Apta para Lavavajillas y Microondas  Recipientes para Cereales Sin BPA  Set de 17'
+slug: 'B07MHRMY4T-es ZOEON Juegos de Recipientes para Alimentos Apta para...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

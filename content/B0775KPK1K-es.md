@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HHtcHAH1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0775KPK1K-es Armani Exchange Double Stripe Polo  Blanco  White 1100   Large para Hombre'
+slug: 'B0775KPK1K-es Armani Exchange Double Stripe Polo Blanco White 1100 Large...'
+tags: 
 actualPrice: 31.71 EUR
 currency: EUR
 price: 31.71

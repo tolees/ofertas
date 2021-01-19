@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31i5B7pKG+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFQPCGM-es HOMEYU 925 Sterling Silver Sin Perforaciones Ear Cuffs Líneas Dobles Ear Cuff para el cartílago del oído Superior  Fake Conch Earring 1 Pair'
+slug: 'B07GFQPCGM-es HOMEYU 925 Sterling Silver Sin Perforaciones Ear Cuffs...'
+tags: 
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AgS7h1h7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFX52BM-es 24x Gris blanco Lámina impresa 2D 10x10cm PEGATINAS lisas para pegar sobre azulejos cuadrados de 10cm en cocina  baños resistentes al agua y aceite'
+slug: 'B07ZFX52BM-es 24x Gris blanco Lámina impresa 2D 10x10cm PEGATINAS lisas...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fUHBuy7nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4CQVFT-es Abalorios para Hacer Collares  Abalorios para Hacer Pulseras  Vidrio de 3mm Perlas de Potro Hechas a Mano para Hacer Joyas Collares Pulseras Pendiente Bisutería Regalo DIY 7000-7500 Piezas'
+slug: 'B07V4CQVFT-es Abalorios para Hacer Collares Abalorios para Hacer...'
+tags: 
 actualPrice: 15.66 EUR
 currency: EUR
 price: 15.66

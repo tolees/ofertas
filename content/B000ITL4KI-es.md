@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H0dWoA7VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000ITL4KI-es Gembird CC-PSU-1 - Cable de alimentación para CD/HDD/DVD  Y > 2x 4Pin Molex'
+slug: 'B000ITL4KI-es Gembird CC-PSU-1 - Cable de alimentación para CD/HDD/DVD Y...'
+tags: 
 actualPrice: 1.97 EUR
 currency: EUR
 price: 1.97

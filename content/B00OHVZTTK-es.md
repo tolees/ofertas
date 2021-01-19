@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OHVZTTK-es Marshall MODE - Auriculares Mode - Negro/Blanco'
+tags: 
 actualPrice: 35.89 EUR
 currency: EUR
 price: 35.89

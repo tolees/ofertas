@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Dtr-bjJXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9DCNNC-es Máscara para los ojos del sueño - Máscara para los ojos del sueño para hombres y mujeres - Máscara para los ojos que duerme  Máscara para los ojos transpirable  Gris '
+slug: 'B07V9DCNNC-es Máscara para los ojos del sueño - Máscara para los ojos...'
+tags: 
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

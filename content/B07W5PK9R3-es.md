@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BPuy20dcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5PK9R3-es JACK & JONES Jcomilla Sweat Hood Capucha  Multicolor  China Blue Detail: W. Sky Captain   Small para Hombre'
+slug: 'B07W5PK9R3-es JACK & JONES Jcomilla Sweat Hood Capucha Multicolor China...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

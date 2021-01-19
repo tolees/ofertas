@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nRI27y2VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFLR4XS-es Optimum Nutrition Optimum Protein Shakes Vanilla Listo a Consumir 25G de Proteína sin Azúcar Añadido  Carbohidratos 10 Unidades 330 ml'
+slug: 'B07VFLR4XS-es Optimum Nutrition Optimum Protein Shakes Vanilla Listo a...'
+tags: 
 actualPrice: 18.65 EUR
 currency: EUR
 price: 18.65

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ru28xSpqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076RWLVJN-es Bebé Luz nocturna musical USB recargable 4 modos Proyector estrella con luz cálida Romántico Cosmos giratorio Cielo estrellado Proyección de luna para bebés Cumpleaños Día de los niños Regalo'
+slug: 'B076RWLVJN-es Bebé Luz nocturna musical USB recargable 4 modos Proyector...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

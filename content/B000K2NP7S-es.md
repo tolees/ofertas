@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZFP4bFbQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000K2NP7S-es Mannesmann - M11242 - Juego de destornilladores  42 piezas.'
+slug: 'B000K2NP7S-es Mannesmann - M11242 - Juego de destornilladores 42 piezas.'
+tags: 
 actualPrice: 15.74 EUR
 currency: EUR
 price: 15.74

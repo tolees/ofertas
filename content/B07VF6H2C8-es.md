@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PZpTscpCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VF6H2C8-es Hackett London Sanderson Chino Pantalones  Azul  Navy 595   W48  Talla del Fabricante: 38  para Hombre'
+slug: 'B07VF6H2C8-es Hackett London Sanderson Chino Pantalones Azul Navy 595...'
+tags: 
 actualPrice: 81.09 EUR
 currency: EUR
 price: 81.09

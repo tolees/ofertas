@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B8-1eGzLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BQ1HXJ-es Sekey Soporte para Hamaca  Soporte de Hamaca de Acero para Interiores y Exteriores Jardín  con Bolsa de Transporte Portátil  270 x 100 x 105 cm  Capacidad de Carga máx. 150 KG  Negro  Solo Estructura '
+slug: 'B088BQ1HXJ-es Sekey Soporte para Hamaca Soporte de Hamaca de Acero para...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wggY77GjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7WTXYB-es Love MoschinoJc4253pp0aMujerShoppers y bolsos de hombroMarfil  Ivory 6x17x22 Centimeters  W x H x L '
+slug: 'B07V7WTXYB-es Love MoschinoJc4253pp0aMujerShoppers y bolsos de...'
+tags: 
 actualPrice: 71.66 EUR
 currency: EUR
 price: 71.66

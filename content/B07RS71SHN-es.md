@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31poYK84YWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS71SHN-es Tommy Hilfiger - Classic Saffiano cartera para mujeres  azul'
+slug: 'B07RS71SHN-es Tommy Hilfiger - Classic Saffiano cartera para mujeres azul'
+tags: 
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

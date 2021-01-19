@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RHOs7ryeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQGZV1J-es Montse Interiors  S.L. Cuadrante o Cojín Decoración Terciopelo 45x45 + Relleno  Capri Azul '
+slug: 'B07XQGZV1J-es Montse Interiors S.L. Cuadrante o Cojín Decoración...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

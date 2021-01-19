@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vQD5-ywqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0823MNPJR-es Colmanda 2 Piezas Juguete Mágico de Hombre Wooden Man Daruma Stage Magic Props Halloween Magic Tricks Estilo Japonés Inmortal Marioneta para Niños y Adultos'
+slug: 'B0823MNPJR-es Colmanda 2 Piezas Juguete Mágico de Hombre Wooden Man...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

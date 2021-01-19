@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iLnUqN0xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000R9QHWY-es Vallejo 028011 - Espray de prelacado  400 ml  Gris'
+slug: 'B000R9QHWY-es Vallejo 028011 - Espray de prelacado 400 ml Gris'
+tags: 
 actualPrice: 9.51 EUR
 currency: EUR
 price: 9.51

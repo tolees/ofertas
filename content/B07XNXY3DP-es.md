@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sCUyJNyTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XNXY3DP-es ngzhongtuhengtongjianzhugongchen- Clip de cinturón de diseño liviano para fácil Uso Mini Digital LCD Run Step Podómetro Distancia a pie Contador ABS hasta 99999 Pasos - Azul'
+slug: 'B07XNXY3DP-es ngzhongtuhengtongjianzhugongchen- Clip de cinturón de...'
+tags: 
 actualPrice: 1.32 EUR
 currency: EUR
 price: 1.32

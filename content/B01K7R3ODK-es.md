@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7R3ODK-es Evax Salvaslip Normal Protegeslips - 50 unidades'
+tags: 
 actualPrice: 1.07 EUR
 currency: EUR
 price: 1.07

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/6128hu5SjvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PTNM72-es NMBC Película de Ventana Película de Ventana de privacidad 45 cm de Ancho Película de Ventana de Vidrio Esmerilado autoadhesiva Película estática Anti-UV Reutilizable 45X100cm-60X100cm A'
+slug: 'B087PTNM72-es NMBC Película de Ventana Película de Ventana de privacidad...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

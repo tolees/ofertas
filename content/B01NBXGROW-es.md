@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516Me+gH6lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBXGROW-es Garmin DriveSmart 51 Western EU LMT-D - Navegador GPS con mapas de por Vida y tráfico Digital  Pantalla de 5"  Mapa Oeste Europa '
+slug: 'B01NBXGROW-es Garmin DriveSmart 51 Western EU LMT-D - Navegador GPS con...'
+tags: 
 actualPrice: 114.68 EUR
 currency: EUR
 price: 114.68

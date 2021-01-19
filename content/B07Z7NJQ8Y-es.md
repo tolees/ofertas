@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SmUR+ZWFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7NJQ8Y-es ZHENROG EMS Masajeador de Pie  Estimulador de Pie Recargable con Remoto Control 6 Modos15 Niveles Intensidad Ajustable para Mejorar la Circulación Sanguínea y Relajación del Dolor'
+slug: 'B07Z7NJQ8Y-es ZHENROG EMS Masajeador de Pie Estimulador de Pie...'
+tags: 
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

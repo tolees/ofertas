@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414O9kU9PtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZ5VFL1-es adidas Altasport CF K  Zapatillas de Gimnasia Unisex Niños  Blanco  FTWR White/Blue/Blue FTWR White/Blue/Blue   38 2/3 EU'
+slug: 'B07JZ5VFL1-es adidas Altasport CF K Zapatillas de Gimnasia Unisex Niños...'
+tags: 
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

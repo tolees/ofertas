@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FocS+E64L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UYJF0BQ-es Rimmel London Oh My Gloss! Brillo de Labios Tono 150 Glossaholic - 22 6 gr'
+slug: 'B00UYJF0BQ-es Rimmel London Oh My Gloss! Brillo de Labios Tono 150...'
+tags: 
 actualPrice: 3.8 EUR
 currency: EUR
 price: 3.8

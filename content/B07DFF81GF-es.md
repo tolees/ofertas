@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZxSIz9YZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFF81GF-es Funko- 5 Star: Horror: Chucky  Multicolor  34011'
+slug: 'B07DFF81GF-es Funko- 5 Star: Horror: Chucky Multicolor 34011'
+tags: 
 actualPrice: 7.82 EUR
 currency: EUR
 price: 7.82

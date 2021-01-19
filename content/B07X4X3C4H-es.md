@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513gK8TuDLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X4X3C4H-es GSOTTA Calcetines deportivos 6 paquetes  calcetines para mujeres y hombres  calcetines de algodón transpirables  unisex  medias impermeables con una pretina suave  negro'
+slug: 'B07X4X3C4H-es GSOTTA Calcetines deportivos 6 paquetes calcetines para...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aefrhapdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TB52GSZ-es Symiu Juegos de Mesa Niñas Juego de Pesca Música Ajustable Juegos Educativos Regalo para Niños 3 4 5 6 Años con 45 Peces de Juguete'
+slug: 'B07TB52GSZ-es Symiu Juegos de Mesa Niñas Juego de Pesca Música Ajustable...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

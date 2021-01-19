@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4198G7in+UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZ2LQ4H-es Bable Calienta Biberones 丨 Esterilizador Biberon 丨 Calentador de Alimentos con Control Remoto y Pantalla LCD de Temperatura en Tiempo Real y Objetivo'
+slug: 'B07JZ2LQ4H-es Bable Calienta Biberones 丨 Esterilizador Biberon 丨...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

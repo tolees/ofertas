@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KEAZ8nCOL._SL500_._AC_._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RL36WRQ-es J.Rosée Collares Mujer Colgante Plata de Ley 925 Circonita Regalos Originales Regalos para Mujer'
+slug: 'B07RL36WRQ-es J.Rosée Collares Mujer Colgante Plata de Ley 925 Circonita...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

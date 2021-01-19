@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hTLWu5VLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0069ZUWU8-es Dickies Original 874 Work Pant Pantalones  Marina Oscuro   Tamaño del Fabricante:42/34  para Hombre'
+slug: 'B0069ZUWU8-es Dickies Original 874 Work Pant Pantalones Marina Oscuro...'
+tags: 
 actualPrice: 26.63 EUR
 currency: EUR
 price: 26.63

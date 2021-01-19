@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YYUnjMCQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJ7X37Y-es SPIRIT OF GAMER - MY-JOY PLUS - Controlador Bluetooth Switch Y Switch Lite - Inalámbrico - Soporte Incluido - Autonomía 20 Horas * - 2 Cables USB-C Suministrados'
+slug: 'B08BJ7X37Y-es SPIRIT OF GAMER - MY-JOY PLUS - Controlador Bluetooth...'
+tags: 
 actualPrice: 47.27 EUR
 currency: EUR
 price: 47.27

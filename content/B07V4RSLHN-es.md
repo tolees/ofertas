@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+BU1h4loL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4RSLHN-es Tommy Hilfiger - Poppy Small Tote  Bolsos totes Mujer  Rojo  Barbados Cherry   1x1x1 cm  W x H L '
+slug: 'B07V4RSLHN-es Tommy Hilfiger - Poppy Small Tote Bolsos totes Mujer Rojo...'
+tags: 
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

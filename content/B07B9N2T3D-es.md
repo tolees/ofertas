@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410vF8QqCxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9N2T3D-es LG XBOOM CK43 - Equipo de Sonido de Alta Potencia  Potencia 300 W  Bluetooth  USB Dual  Entrada AUX  Radio FM  Reproductor CD  Auto DJ  Wireless Party Link  EZ File Search  TV Sound Sync  Color Negro'
+slug: 'B07B9N2T3D-es LG XBOOM CK43 - Equipo de Sonido de Alta Potencia Potencia...'
+tags: 
 actualPrice: 133.0 EUR
 currency: EUR
 price: 133.0

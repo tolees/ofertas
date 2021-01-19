@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CsS3yzQ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QRLW8G-es Queta Juego 12 Pinceles para Pintar Artistas Pinceles Acrílicos Sujetan una punta fina y una pluma para óleo  acuarela  acrílico  uñas y modelos  pinceles de detalle '
+slug: 'B086QRLW8G-es Queta Juego 12 Pinceles para Pintar Artistas Pinceles...'
+tags: 
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

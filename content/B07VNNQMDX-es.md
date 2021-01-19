@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ov15D1UnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNNQMDX-es Calvin Klein Short Drawstring Bañador  Azul  Bluefish DW9   Medium para Hombre'
+slug: 'B07VNNQMDX-es Calvin Klein Short Drawstring Bañador Azul Bluefish DW9...'
+tags: 
 actualPrice: 38.84 EUR
 currency: EUR
 price: 38.84

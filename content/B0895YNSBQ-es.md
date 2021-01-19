@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UccxRXzrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895YNSBQ-es GREAT ART set de 2 posters XXL – Galaxia - Vía Láctea y planeta tierra América de día universo imagen satélite estrellas decoración foto decoración de la pared  140 x 100 cm '
+slug: 'B0895YNSBQ-es GREAT ART set de 2 posters XXL – Galaxia - Vía Láctea y...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

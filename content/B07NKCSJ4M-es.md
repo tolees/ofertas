@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+e1JNkZIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NKCSJ4M-es Calienta Biberones  Eccomum 6 en 1  Calentamiento Ultrarrápido  Descongelado y Esterilizador para Leche Materna/Fórmula/Potitos  LED  Temporizador  Apagado Automático'
+slug: 'B07NKCSJ4M-es Calienta Biberones Eccomum 6 en 1 Calentamiento...'
+tags: 
 actualPrice: 24.58 EUR
 currency: EUR
 price: 24.58

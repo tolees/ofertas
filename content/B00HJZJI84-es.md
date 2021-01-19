@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419ZyUW0XnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HJZJI84-es StarTech.com USB3S2SAT3CB - Adaptador USB 3.0-2.5" SATA III  Color Negro'
+slug: 'B00HJZJI84-es StarTech.com USB3S2SAT3CB - Adaptador USB 3.0-2.5" SATA...'
+tags: 
 actualPrice: 10.12 EUR
 currency: EUR
 price: 10.12

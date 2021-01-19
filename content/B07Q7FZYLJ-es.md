@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kyg3Q5sTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q7FZYLJ-es Widamin 2Pack  Compatible con Redmi 7 Cristal Templado  Pantalla protección， Protector Pantalla  [dureza de 9H]  [De Alta Definición]  [Ninguno-Burbuja] para Xiaomi Redmi 7'
+slug: 'B07Q7FZYLJ-es Widamin 2Pack Compatible con Redmi 7 Cristal Templado...'
+tags: 
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

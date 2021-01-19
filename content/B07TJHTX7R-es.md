@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Nnxl6lriL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJHTX7R-es SimpleLife Los Huevos de Pascua llenan con un Mini Robot deformable  un Juguete Divertido para niños Sorpresa de una Bola Sorpresa de la muñeca'
+slug: 'B07TJHTX7R-es SimpleLife Los Huevos de Pascua llenan con un Mini Robot...'
+tags: 
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

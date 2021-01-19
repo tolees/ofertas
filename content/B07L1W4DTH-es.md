@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4144KcIHgpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L1W4DTH-es YIY Bandeja de Viaje para Asiento de Coche para niños - Bandeja de Viaje y Aprendizaje Impermeable para Comer y Jugar con Bolsillos Laterales de Malla'
+slug: 'B07L1W4DTH-es YIY Bandeja de Viaje para Asiento de Coche para niños -...'
+tags: 
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

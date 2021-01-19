@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mmUe31M-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0774QFHTF-es Pikolin Home - Protector de colchón  tejido rizo  algodón  impermeable y transpirable  antiácaros  80x190/200cm-Cama 80  Todas las medidas '
+slug: 'B0774QFHTF-es Pikolin Home - Protector de colchón tejido rizo algodón...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

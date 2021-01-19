@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lPADRwF8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPX4VJ3-es bugatti 431846045059  Zapatillas para Mujer  Blanco  Blanco y Amarillo 2050  37 EU'
+slug: 'B07VPX4VJ3-es bugatti 431846045059 Zapatillas para Mujer Blanco Blanco y...'
+tags: 
 actualPrice: 23.87 EUR
 currency: EUR
 price: 23.87

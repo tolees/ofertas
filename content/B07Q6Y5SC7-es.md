@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wQAjruKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q6Y5SC7-es Scottonelle - Papel higiénico de 14 paquetes  6 rollos por paquete'
+slug: 'B07Q6Y5SC7-es Scottonelle - Papel higiénico de 14 paquetes 6 rollos por...'
+tags: 
 actualPrice: 32.2 EUR
 currency: EUR
 price: 32.2

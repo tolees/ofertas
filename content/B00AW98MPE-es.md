@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31995PXiOHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AW98MPE-es Revlon ColorStay Corrector 24h  #050 Medium Deep  - 6.2ml'
+slug: 'B00AW98MPE-es Revlon ColorStay Corrector 24h #050 Medium Deep - 6.2ml'
+tags: 
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

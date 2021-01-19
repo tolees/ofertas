@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311S5tpBGxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPDKF4D-es Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Silicona SKW2822'
+slug: 'B07SPDKF4D-es Skagen Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 29.7 EUR
 currency: EUR
 price: 29.7

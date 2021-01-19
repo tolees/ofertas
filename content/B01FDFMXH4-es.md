@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sG63KmvEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FDFMXH4-es Suaoki - Mini Compresor de aire portátil  bomba inflador con luz LED  12V  120 PSI  3 adaptadores boquilla  4" aire manguera  3m cable con mechero  para neumáticos  objetos inflables '
+slug: 'B01FDFMXH4-es Suaoki - Mini Compresor de aire portátil bomba inflador...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

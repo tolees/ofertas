@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4111ok40lUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKHVJ5C-es American Tourister Wavebreaker Barbie - Spinner M  color negro  Shimmer Power Barbie '
+slug: 'B07TKHVJ5C-es American Tourister Wavebreaker Barbie - Spinner M color...'
+tags: 
 actualPrice: 80.75 EUR
 currency: EUR
 price: 80.75

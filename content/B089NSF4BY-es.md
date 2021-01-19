@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ExvsWRtDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NSF4BY-es Funda de Gel de sílice Funda de Silicona con Tapa para teléfono OSMO Pocket con Accesorio para cámara de Cuerda Manual'
+slug: 'B089NSF4BY-es Funda de Gel de sílice Funda de Silicona con Tapa para...'
+tags: 
 actualPrice: 1.03 EUR
 currency: EUR
 price: 1.03

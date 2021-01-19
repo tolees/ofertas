@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R+zX9V1GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S375MNG-es Plastificadora A4 A5 A7  ABOX OL145 Máquina para Plastificar Térmica con Función ABS  Cortador  Esquina Redondeado y 12 Fundas  300 mm/min para el Uso en Colegio  Oficina y Hogar  Blanco'
+slug: 'B07S375MNG-es Plastificadora A4 A5 A7 ABOX OL145 Máquina para...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

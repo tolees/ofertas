@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k0FwQptiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS6C9WK-es Tommy Hilfiger - Classic Saffiano Bumbag  Bolsos bandolera Mujer  Negro  Black   4x0.1x16 cm  W x H L '
+slug: 'B07RS6C9WK-es Tommy Hilfiger - Classic Saffiano Bumbag Bolsos bandolera...'
+tags: 
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

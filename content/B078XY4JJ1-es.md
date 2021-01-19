@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313NQfmf46L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XY4JJ1-es BRA Advanced Sartén  28 cm  aluminio fundido con  antiadherente  sin PFOA  súper reforzado de rendimiento superior y alta resistencia a los arañazos y a la abrasión  apta para Inducción'
+slug: 'B078XY4JJ1-es BRA Advanced Sartén 28 cm aluminio fundido con...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

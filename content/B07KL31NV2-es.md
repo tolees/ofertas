@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41x9pPypg0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KL31NV2-es adidas D2m tee 3s T-Shirt  Hombre  White  XL'
+slug: 'B07KL31NV2-es adidas D2m tee 3s T-Shirt Hombre White XL'
+tags: 
 actualPrice: 13.77 EUR
 currency: EUR
 price: 13.77

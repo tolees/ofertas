@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jEQIdrivL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085R1GZSZ-es Finocam - Agenda Curso 2020-2021 para Secundaria Octavo  120 x 169  1 Día Página  sept-jun  Mini Institut Vuela  Español'
+slug: 'B085R1GZSZ-es Finocam - Agenda Curso 2020-2021 para Secundaria Octavo...'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hR29I-yyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK76DVL-es Consola de juegos portátil JXD de 4.3 pulgadas y doble consola Consola de videojuegos de 16GB incorporada en 3000 CPS/NEOGEO/GBA/GBC/GB/SFC/MD/FC/SMS/GG MpS Player DV DC  Negro '
+slug: 'B07SK76DVL-es Consola de juegos portátil JXD de 4.3 pulgadas y doble...'
+tags: 
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

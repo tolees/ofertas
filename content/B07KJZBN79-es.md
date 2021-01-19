@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JARLqDQKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJZBN79-es Toyvian Scratch Draw  10 unids Papel de rascar Arte Scratch Papel Scratch tableros Negro para niños'
+slug: 'B07KJZBN79-es Toyvian Scratch Draw 10 unids Papel de rascar Arte Scratch...'
+tags: 
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

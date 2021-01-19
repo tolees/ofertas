@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fctU0f8lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079X7NPKW-es Taurus Professional 3 MAX Freidora de Aceite de 3 Litros  Multicolor'
+slug: 'B079X7NPKW-es Taurus Professional 3 MAX Freidora de Aceite de 3 Litros...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

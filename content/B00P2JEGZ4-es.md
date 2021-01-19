@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411hxTk5eKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P2JEGZ4-es Memoria USB 16GB 10 Piezas Pen Drives - Portátil Pendrive 16 GB Práctico USB 2.0 Flash Drive Multicolor Pulsera - Almacenamiento de Datos Económico Llaves USB para Regalo de Cumpleaños by FEBNISCTE'
+slug: 'B00P2JEGZ4-es Memoria USB 16GB 10 Piezas Pen Drives - Portátil Pendrive...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

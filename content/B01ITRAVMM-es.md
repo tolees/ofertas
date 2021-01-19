@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FCWONVDUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ITRAVMM-es bonmedico Kubo Codera Elástica  Coderas para Articulaciones para Hombre y Mujer para Tenista  Padel  Golfista'
+slug: 'B01ITRAVMM-es bonmedico Kubo Codera Elástica Coderas para Articulaciones...'
+tags: 
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

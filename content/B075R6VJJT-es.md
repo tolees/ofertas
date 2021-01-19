@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hDqt5AY5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R6VJJT-es New Balance Fresh Foam Cruz v2 m  Zapatillas para Mujer  Azul  Smoke Blue/Light Petrol Ns2   39 EU'
+slug: 'B075R6VJJT-es New Balance Fresh Foam Cruz v2 m Zapatillas para Mujer...'
+tags: 
 actualPrice: 39.89 EUR
 currency: EUR
 price: 39.89

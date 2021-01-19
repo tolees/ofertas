@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pEyLe6irL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3GJPZF-es Fanvans Premamá Algodón Briefs Ropa Interior Bragas De Maternidad Madre Embarazada Grey One Size'
+slug: 'B07G3GJPZF-es Fanvans Premamá Algodón Briefs Ropa Interior Bragas De...'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

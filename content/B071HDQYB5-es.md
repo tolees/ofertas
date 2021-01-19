@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51-gxXaKdbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HDQYB5-es Lebze Muselina Manta Bebé -"Diseño de Conejo" Bambú Algodón Grande 120x120 cm - Mantas Envolventes Regalo Perfecto para Bebés'
+slug: 'B071HDQYB5-es Lebze Muselina Manta Bebé -"Diseño de Conejo" Bambú...'
+tags: 
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

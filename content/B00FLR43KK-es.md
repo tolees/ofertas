@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41T3VB43AZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FLR43KK-es Hummel Slimmer Stadil Low  Zapatillas Unisex Adulto  Negro-Schwarz  Black/White KH 2113   37 EU'
+slug: 'B00FLR43KK-es Hummel Slimmer Stadil Low Zapatillas Unisex Adulto Negro-...'
+tags: 
 actualPrice: 24.54 EUR
 currency: EUR
 price: 24.54

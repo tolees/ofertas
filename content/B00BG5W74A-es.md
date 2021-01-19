@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VSx9lzSFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BG5W74A-es Bosch ErgoMixx MSM66150 - Batidora de mano  600 W  con vaso de mezclas  picador y varilla batidora  color blanco y gris'
+slug: 'B00BG5W74A-es Bosch ErgoMixx MSM66150 - Batidora de mano 600 W con vaso...'
+tags: 
 actualPrice: 38.3 EUR
 currency: EUR
 price: 38.3

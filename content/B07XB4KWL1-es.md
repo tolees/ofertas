@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yjh7jWaRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XB4KWL1-es Hawiton Pantalones de Pijama Hombre Algodón Largo Pantalones de Dormir Hombre Invierno de Cuadros Pantalón Pijama de Estar por Casa'
+slug: 'B07XB4KWL1-es Hawiton Pantalones de Pijama Hombre Algodón Largo...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

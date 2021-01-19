@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AgE4H3JML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THRJX26-es Relojes Infantiles para niños  Reloj Deportivo Digital al Aire Libre a Prueba de Agua con Alarma/Cronómetro  Resistencia al Agua Reloj Infantil Aprendizaje para Niños  Verde '
+slug: 'B07THRJX26-es Relojes Infantiles para niños Reloj Deportivo Digital al...'
+tags: 
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

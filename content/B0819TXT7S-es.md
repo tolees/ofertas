@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5108fYJ2XBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0819TXT7S-es Young & Min Funda para Xiaomi Mi Note 10 / Note 10 Pro   3 Pack  Transparente TPU Silicona Carcasa Delgado Antigolpes Resistente  Amor'
+slug: 'B0819TXT7S-es Young & Min Funda para Xiaomi Mi Note 10 / Note 10 Pro 3...'
+tags: 
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

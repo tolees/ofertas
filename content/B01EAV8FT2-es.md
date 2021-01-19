@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418lIafXF8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EAV8FT2-es Bica - Conjunto de jardín Nebraska de 4 plazas  Antracita'
+slug: 'B01EAV8FT2-es Bica - Conjunto de jardín Nebraska de 4 plazas Antracita'
+tags: 
 actualPrice: 197.5 EUR
 currency: EUR
 price: 197.5

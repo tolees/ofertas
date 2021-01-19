@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DqutnlL2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WRBL3L-es tanggo Cycling Face Half Cover Carbono Antipolvo al Aire Libre Running Faire Shield Faire con Cuatro filtros Negro '
+slug: 'B087WRBL3L-es tanggo Cycling Face Half Cover Carbono Antipolvo al Aire...'
+tags: 
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OMiExgVbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q47Q2RK-es Spotted Zebra 2-Pack Long-Sleeve Novelty T-Shirts Fashion  Mad Skills  S'
+slug: 'B07Q47Q2RK-es Spotted Zebra 2-Pack Long-Sleeve Novelty T-Shirts Fashion...'
+tags: 
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

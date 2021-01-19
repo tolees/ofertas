@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tY8ZS28UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTPDT2F-es KiplingGleam SMujerMonederosMulticolor  Urban Jungle  14x9.5x5.5 Centimeters  B x H x T '
+slug: 'B07TTPDT2F-es KiplingGleam SMujerMonederosMulticolor Urban Jungle...'
+tags: 
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+Sz2JUkcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N06GCOG-es CAJA REGALO de etiquetas personalizadas. INCLUYE código para personalizar y recibir las etiquetas. Etiquetas termoadhesivas y adhesivas para marcar ropa y objetos.'
+slug: 'B01N06GCOG-es CAJA REGALO de etiquetas personalizadas. INCLUYE código...'
+tags: 
 actualPrice: 8.91 EUR
 currency: EUR
 price: 8.91

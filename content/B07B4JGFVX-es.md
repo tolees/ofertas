@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iaPpUC5zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4JGFVX-es Nixon Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable A1057-010-00'
+slug: 'B07B4JGFVX-es Nixon Reloj Analógico para Unisex Adultos de Cuarzo con...'
+tags: 
 actualPrice: 94.68 EUR
 currency: EUR
 price: 94.68

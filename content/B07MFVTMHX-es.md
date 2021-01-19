@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412uRyZBgzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFVTMHX-es Superdry Reloj Analógico para Hombre de Cuarzo con Correa en Silicona SYG253BE'
+slug: 'B07MFVTMHX-es Superdry Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 21.75 EUR
 currency: EUR
 price: 21.75

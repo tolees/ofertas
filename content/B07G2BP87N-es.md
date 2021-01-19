@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NU8fLoWgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2BP87N-es TACKLIFE Juego de Destornilladores de Precisión  Profesionales  12 Piezas  Ubicación Cruciforme  Estrellas  Hexagonal  Puntas Magnéticas  para IPhone  Reloj  Joyería  Lentes  Reparación de PC - HSS2B'
+slug: 'B07G2BP87N-es TACKLIFE Juego de Destornilladores de Precisión...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

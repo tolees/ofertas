@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NQGL5T-es Royal Padel EFE Carbon Attack 2020 Amarilla-Azul'
+tags: 
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-EgMIApAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7RH56K-es BOSS Passerby Polo  Gris  Light/Pastel Grey 051   XXX-Large para Hombre'
+slug: 'B07D7RH56K-es BOSS Passerby Polo Gris Light/Pastel Grey 051 XXX-Large...'
+tags: 
 actualPrice: 27.17 EUR
 currency: EUR
 price: 27.17

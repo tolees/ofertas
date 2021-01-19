@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yixJCoayL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK46MNY-es Columbia Conspiracy V Outdry  Zapatillas de Senderismo para Mujer  Negro  Black  Daredevi 013   36 EU'
+slug: 'B07KK46MNY-es Columbia Conspiracy V Outdry Zapatillas de Senderismo para...'
+tags: 
 actualPrice: 24.82 EUR
 currency: EUR
 price: 24.82

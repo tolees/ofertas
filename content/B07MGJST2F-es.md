@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KFDuCmZML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGJST2F-es Saucony Kinvara 10  Zapatillas de Running para Hombre  Amarillo  Amarillo 37   43 EU'
+slug: 'B07MGJST2F-es Saucony Kinvara 10 Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

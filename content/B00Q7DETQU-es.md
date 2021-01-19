@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sy1KL+wAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q7DETQU-es Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3294'
+slug: 'B00Q7DETQU-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 115.01 EUR
 currency: EUR
 price: 115.01

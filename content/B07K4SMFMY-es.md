@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iD7BwxYXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4SMFMY-es Pack Sileu Go: Copa menstrual Rose - Modelo de iniciación - Alternativa ecológica  natural a tampones y compresas - Talla S  Transparente  Flexibilidad Standard + Estuche de Flor Transparente'
+slug: 'B07K4SMFMY-es Pack Sileu Go: Copa menstrual Rose - Modelo de iniciación...'
+tags: 
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

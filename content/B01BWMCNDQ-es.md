@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aaahWFjaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BWMCNDQ-es Llave USB 16 GB Kylo Ren - Memoria Flash Drive 2.0 Original Star Wars  Tribe FD030503'
+slug: 'B01BWMCNDQ-es Llave USB 16 GB Kylo Ren - Memoria Flash Drive 2.0...'
+tags: 
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

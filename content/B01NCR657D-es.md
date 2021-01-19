@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51TUDBmIktL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCR657D-es Wilson Roger Federer Raquetas  Unisex niños  Rojo/Negro  25'
+slug: 'B01NCR657D-es Wilson Roger Federer Raquetas Unisex niños Rojo/Negro 25'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

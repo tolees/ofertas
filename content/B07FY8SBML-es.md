@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RHRvNpesL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY8SBML-es NaturGreen Semillas de Sésamo natural -  Pack de 6 unidades de 450 gr'
+slug: 'B07FY8SBML-es NaturGreen Semillas de Sésamo natural - Pack de 6 unidades...'
+tags: 
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

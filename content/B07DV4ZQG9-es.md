@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+MkF1dSgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DV4ZQG9-es Columbia Backpedal Outdry  Zapatillas de Cross para Mujer  Gris  Steam  White   41.5 EU'
+slug: 'B07DV4ZQG9-es Columbia Backpedal Outdry Zapatillas de Cross para Mujer...'
+tags: 
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

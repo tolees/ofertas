@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073X3L3WH-es PDP - Pixel Pals DC Comics Superman'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

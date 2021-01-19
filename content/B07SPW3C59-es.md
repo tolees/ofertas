@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Grs45J0ZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPW3C59-es Funko- Pop Books: Where s Waldo Collectible Figure  Multicolor  41164 '
+slug: 'B07SPW3C59-es Funko- Pop Books: Where s Waldo Collectible Figure...'
+tags: 
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

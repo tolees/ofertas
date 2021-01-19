@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W93YW6cSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYSFGS-es Under Armour UA W Charged Rogue 2  Zapatillas de Running para Mujer  Gris  Halo Gray/Halo Gray/Lipstick   36 EU'
+slug: 'B07PYYSFGS-es Under Armour UA W Charged Rogue 2 Zapatillas de Running...'
+tags: 
 actualPrice: 40.52 EUR
 currency: EUR
 price: 40.52

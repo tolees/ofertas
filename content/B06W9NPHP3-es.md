@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31juwu9z3GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W9NPHP3-es Rimmel Nail Polish SuperGel Kate 82 Purple Splash Żelowy lakier do paznokci 12ml'
+slug: 'B06W9NPHP3-es Rimmel Nail Polish SuperGel Kate 82 Purple Splash Żelowy...'
+tags: 
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

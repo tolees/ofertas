@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31w1O-KGGVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YTPLUD8-es Sonline Nail 2 X acero inoxidable del arte del clavo de las pinzas de herramientas Piedras Gems pestanas herramienta Picking Acrilico Gel Arte'
+slug: 'B00YTPLUD8-es Sonline Nail 2 X acero inoxidable del arte del clavo de...'
+tags: 
 actualPrice: 0.65 EUR
 currency: EUR
 price: 0.65

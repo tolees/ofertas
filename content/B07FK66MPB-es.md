@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VzSDT6MbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FK66MPB-es Seiko Reloj Analogico para Hombre de Cuarzo con Correa en Nailon SGEH83P1'
+slug: 'B07FK66MPB-es Seiko Reloj Analogico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 97.0 EUR
 currency: EUR
 price: 97.0

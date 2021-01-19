@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31urSKB5W4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R2K5PXF-es Soporte Vertical Portátil Dual CouHap Aluminium Laptop Stand Ajustable Soporte para PC y MacBook'
+slug: 'B07R2K5PXF-es Soporte Vertical Portátil Dual CouHap Aluminium Laptop...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

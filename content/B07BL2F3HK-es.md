@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UIQrPelLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL2F3HK-es New Balance Fresh Foam LAZR v2 Hypoknit  Zapatillas para Hombre  Negro  Black/Neon Emerald Lb2   41.5 EU'
+slug: 'B07BL2F3HK-es New Balance Fresh Foam LAZR v2 Hypoknit Zapatillas para...'
+tags: 
 actualPrice: 75.6 EUR
 currency: EUR
 price: 75.6

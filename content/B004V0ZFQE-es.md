@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31o01jxWzuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004V0ZFQE-es FISCHER 087490 - Brida UBN 2 5x200 negra  Envase de 100 ud. '
+slug: 'B004V0ZFQE-es FISCHER 087490 - Brida UBN 2 5x200 negra Envase de 100 ud.'
+tags: 
 actualPrice: 1.37 EUR
 currency: EUR
 price: 1.37

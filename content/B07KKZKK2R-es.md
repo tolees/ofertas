@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412Yq8UESwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKZKK2R-es s.Oliver Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SO-3779-LQ'
+slug: 'B07KKZKK2R-es s.Oliver Reloj Analógico para Mujer de Cuarzo con Correa...'
+tags: 
 actualPrice: 41.79 EUR
 currency: EUR
 price: 41.79

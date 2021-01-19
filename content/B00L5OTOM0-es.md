@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dUqYMcCIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L5OTOM0-es Bioderma Photoderm Mineral Spf 50+ Fluide - Protección solar  100 ml'
+slug: 'B00L5OTOM0-es Bioderma Photoderm Mineral Spf 50+ Fluide - Protección...'
+tags: 
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

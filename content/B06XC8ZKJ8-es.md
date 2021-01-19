@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vNbRVqltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC8ZKJ8-es Nobleza - Rascador para Gatos de cartón. Soporte de Descanso con Forma de Gato con Catnip.'
+slug: 'B06XC8ZKJ8-es Nobleza - Rascador para Gatos de cartón. Soporte de...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

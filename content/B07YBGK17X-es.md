@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBGK17X-es Billetero Pepe Jeans Fair Camel'
+tags: 
 actualPrice: 15.09 EUR
 currency: EUR
 price: 15.09

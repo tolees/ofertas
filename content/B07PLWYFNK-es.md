@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dDZlCl1PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLWYFNK-es 1 en 2 Salida Hdmi Convertidor Conecte el Cable del Cable 2 Puerto Doble Y Splitter 1080p - Negro'
+slug: 'B07PLWYFNK-es 1 en 2 Salida Hdmi Convertidor Conecte el Cable del Cable...'
+tags: 
 actualPrice: 1.36 EUR
 currency: EUR
 price: 1.36

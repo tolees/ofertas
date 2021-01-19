@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51b9pLXBI9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQY1PSC-es Funda para Xiaomi Mi A2 Lite - Carcasa Completa Anti-Shock [360°] Full Body Protección [Silicona TPU Frente] y [Duro PC Back] para Xiaomi Mi A2 Lite - Cover Doble [Transparente]'
+slug: 'B07QQY1PSC-es Funda para Xiaomi Mi A2 Lite - Carcasa Completa Anti-Shock...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

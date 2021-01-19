@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMKBBK7-es Bestway 91082 - Tucán Hinchable Minnie Mouse 207x150 cm'
+tags: 
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

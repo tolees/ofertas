@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Lf359HDFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFTQKVH-es Auriculares verdaderamente inalámbricos  Giaride V4.1 Auriculares intrauditivos Bluetooth Auriculares con cancelación de Ruido Auriculares con Estuche de Carga  micrófono Incorporado'
+slug: 'B07FFTQKVH-es Auriculares verdaderamente inalámbricos Giaride V4.1...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

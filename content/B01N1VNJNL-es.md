@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VWClQPIxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1VNJNL-es Maybelline New York - Fit Me  Base de Maquillaje Mate Afina Poros  Tono 360 Mocha - 30 ml'
+slug: 'B01N1VNJNL-es Maybelline New York - Fit Me Base de Maquillaje Mate Afina...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

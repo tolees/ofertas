@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dFtCpNTwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHBLC7V-es Kipling - New Hiphurray  Bolsos totes Mujer  Rojo  Lively Red   1x4x44.5 cm  B x H T '
+slug: 'B07BHBLC7V-es Kipling - New Hiphurray Bolsos totes Mujer Rojo Lively Red...'
+tags: 
 actualPrice: 12.64 EUR
 currency: EUR
 price: 12.64

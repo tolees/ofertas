@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31k+f9TdyDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W68P4SM-es Dickies Slim Fit Work Pant Pantalones  Negro  Black BK    Tamaño del Fabricante:40/34  para Hombre'
+slug: 'B00W68P4SM-es Dickies Slim Fit Work Pant Pantalones Negro Black BK...'
+tags: 
 actualPrice: 38.59 EUR
 currency: EUR
 price: 38.59

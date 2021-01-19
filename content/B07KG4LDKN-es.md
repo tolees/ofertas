@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415aHGH9ksL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG4LDKN-es PUMA ST Runner v2 Full L  Zapatillas Unisex Adulto  White-Gray Violet  42 EU'
+slug: 'B07KG4LDKN-es PUMA ST Runner v2 Full L Zapatillas Unisex Adulto White-...'
+tags: 
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VQIE6pT4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081BG3SGX-es Asics Gel Quantum 180 5 Sr  Zapatillas de Running para Hombre  Negro  Black/Black   46.5 EU'
+slug: 'B081BG3SGX-es Asics Gel Quantum 180 5 Sr Zapatillas de Running para...'
+tags: 
 actualPrice: 71.16 EUR
 currency: EUR
 price: 71.16

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31XWyqmeWkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG17TMR-es PUMA Ralph Sampson Lo  Zapatillas Unisex Adulto  Blanco  Puma White-Puma White-Bridal Rose 06   42 EU'
+slug: 'B07KG17TMR-es PUMA Ralph Sampson Lo Zapatillas Unisex Adulto Blanco Puma...'
+tags: 
 actualPrice: 27.14 EUR
 currency: EUR
 price: 27.14

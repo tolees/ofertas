@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uKNg9aybL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLH53TV-es Smartphone Oferta del día  ofertas móviles 3 GB RAM 32 GB ROM - 6 2 pulgadas HD+ pantalla - Dual SIM'
+slug: 'B08BLH53TV-es Smartphone Oferta del día ofertas móviles 3 GB RAM 32 GB...'
+tags: 
 actualPrice: 76.71 EUR
 currency: EUR
 price: 76.71

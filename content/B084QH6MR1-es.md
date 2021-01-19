@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SrLfxArDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084QH6MR1-es 1 unid Etiqueta engomada de la Historieta del termómetro del bebé desechable Pantalla LCD termómetro de la Frente Banda para la Cabeza termómetro clínico para bebé niños termómetro termómetro clínico'
+slug: 'B084QH6MR1-es 1 unid Etiqueta engomada de la Historieta del termómetro...'
+tags: 
 actualPrice: 1.21 EUR
 currency: EUR
 price: 1.21

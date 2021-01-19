@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31x8q5MvspL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SWGQSH-es Ratón inalámbrico de 2.4GHz Ratón Inteligente portátil para Juegos Ratón óptico para Juegos Ratón Receptor USB para PC Computadora portátil-Naranja'
+slug: 'B082SWGQSH-es Ratón inalámbrico de 2.4GHz Ratón Inteligente portátil...'
+tags: 
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

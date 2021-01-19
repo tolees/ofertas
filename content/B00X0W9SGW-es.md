@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FM5Odwj5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X0W9SGW-es Tommy Hilfiger Eton Trifold  Catera para Hombre  Black 2  OneSize'
+slug: 'B00X0W9SGW-es Tommy Hilfiger Eton Trifold Catera para Hombre Black 2...'
+tags: 
 actualPrice: 49.85 EUR
 currency: EUR
 price: 49.85

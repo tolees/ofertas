@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417HwPmyusL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C3TF69L-es Cocina SolThermic F9LT50G2-I INOX PORTABOMBONA de color INOX compuesta por 5 Quemadores y Horno Incorporado.'
+slug: 'B07C3TF69L-es Cocina SolThermic F9LT50G2-I INOX PORTABOMBONA de color...'
+tags: 
 actualPrice: 144.99 EUR
 currency: EUR
 price: 144.99

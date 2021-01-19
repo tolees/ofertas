@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wsLG57HwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKKGVCL-es JDC Anclaje Al Suelo De Acero Endurecido De Alta Resistencia para Motocicleta - Sphere - Negro'
+slug: 'B07HKKGVCL-es JDC Anclaje Al Suelo De Acero Endurecido De Alta...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

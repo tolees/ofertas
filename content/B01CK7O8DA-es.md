@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aaFdODqCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CK7O8DA-es Energy Sistem Music Box B2 Bluetooth  Bluetooth  Entrada de Audio  Manos Libres  Batería - Verde Mint'
+slug: 'B01CK7O8DA-es Energy Sistem Music Box B2 Bluetooth Bluetooth Entrada de...'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

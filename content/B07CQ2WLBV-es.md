@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4188GhN5C2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQ2WLBV-es Braun BT3022 BeardTrimmer - Recortadora Barba  con Cuchillas Afiladas de Larga Duración  Color Negro'
+slug: 'B07CQ2WLBV-es Braun BT3022 BeardTrimmer - Recortadora Barba con...'
+tags: 
 actualPrice: 27.71 EUR
 currency: EUR
 price: 27.71

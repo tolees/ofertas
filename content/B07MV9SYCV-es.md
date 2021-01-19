@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51RgMb6spJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV9SYCV-es Kipling - Amiel  Bolsos maletín Mujer  Negro  Black Indigo   27x24.5x14.5 cm  B x H T '
+slug: 'B07MV9SYCV-es Kipling - Amiel Bolsos maletín Mujer Negro Black Indigo...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

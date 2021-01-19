@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+RD4OZpLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NLNSRN-es BACKTURE Lámpara Antimosquitos Electrico  18W UV Lámpara Anti Mosquitos Interior con Caja de Recogida  Tubo de Repuesto y Cepillo Limpio  para Mata Mosquitos  Insectos  Polillas  Moscas  Efecto 40㎡'
+slug: 'B082NLNSRN-es BACKTURE Lámpara Antimosquitos Electrico 18W UV Lámpara...'
+tags: 
 actualPrice: 26.32 EUR
 currency: EUR
 price: 26.32

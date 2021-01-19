@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ArsFJD5OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D75ZTM9-es Brewsly Botella de Agua - 500ML de Doble Pared con Aislamiento Botella Térmica  Acero Inoxidable 18/8  Proceso de Recubrimiento en Polvo  Resistencia al Rayado  Fácil de Limpiar  Blanco'
+slug: 'B07D75ZTM9-es Brewsly Botella de Agua - 500ML de Doble Pared con...'
+tags: 
 actualPrice: 5.38 EUR
 currency: EUR
 price: 5.38

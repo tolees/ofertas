@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qD-2lsP6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BQXNY2Q-es Taurus TodoPan - Tostadora para cualquier tipo de pan  tuesta en ambos lados  práctico sistema de fijación  varillas de soporte del pan con goma en el extremo de toque frío  700 W'
+slug: 'B00BQXNY2Q-es Taurus TodoPan - Tostadora para cualquier tipo de pan...'
+tags: 
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

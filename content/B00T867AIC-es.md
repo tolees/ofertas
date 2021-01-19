@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3171f-gJQ1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T867AIC-es JINX- Minecraft Llavero Diamond Pickaxe  3784 '
+slug: 'B00T867AIC-es JINX- Minecraft Llavero Diamond Pickaxe 3784'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YHFkaB6UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K1XBHDU-es Hunter Original Tall Classic  Botas de Agua para Unisex Adulto  Rojo  Military Red   40/41 EU'
+slug: 'B00K1XBHDU-es Hunter Original Tall Classic Botas de Agua para Unisex...'
+tags: 
 actualPrice: 83.78 EUR
 currency: EUR
 price: 83.78

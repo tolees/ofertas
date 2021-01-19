@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61fqkuMZddL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WF12KFH-es Tiras LED 3M  Hually Impermeable Tira LED USB con Control Remoto  Sincronizar con música 5050 RGB LED Strip con 4 Modos y 8 Colores  Luces LED para Habitacion  Hogar  Bar  Fiesta  Restaurante y Coche'
+slug: 'B07WF12KFH-es Tiras LED 3M Hually Impermeable Tira LED USB con Control...'
+tags: 
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

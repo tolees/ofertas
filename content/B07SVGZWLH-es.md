@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VTkoMiaCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVGZWLH-es Black Tornado Tools Bobina de Hilo para desbrozadora - Doble - Cuadrado - 2 4mm - 210m - Calidad Ultra Professional - Embalaje Premium  2 4 mm x 210 '
+slug: 'B07SVGZWLH-es Black Tornado Tools Bobina de Hilo para desbrozadora -...'
+tags: 
 actualPrice: 51.1 EUR
 currency: EUR
 price: 51.1

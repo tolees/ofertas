@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SoyMI+l8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBG9XS5-es Calvin Klein Mid Rise Short  Azul  Da037 Light Blue Cut Hem 1aa   Talla Única  Talla del Fabricante: Ni30  para Mujer'
+slug: 'B07VBG9XS5-es Calvin Klein Mid Rise Short Azul Da037 Light Blue Cut Hem...'
+tags: 
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

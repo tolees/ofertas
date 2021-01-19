@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vJbsfMqvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4W18SF-es SYOSIN Corrección de Postura  Entrenador de Postura  Entrenador de Espalda  fijador de Espalda Recta  Postura para Corregir el Soporte del Hombro Trasero'
+slug: 'B07T4W18SF-es SYOSIN Corrección de Postura Entrenador de Postura...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

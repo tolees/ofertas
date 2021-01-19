@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hvyUUxvUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CB2CVJR-es TOPERSUN Cargador de Baterías Coche 12V/24V 8A Automática Protección Portátil Inteligente Coche Cargador Rápid con Pantalla LCD Digital para Motos Automóviles Barco'
+slug: 'B08CB2CVJR-es TOPERSUN Cargador de Baterías Coche 12V/24V 8A Automática...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

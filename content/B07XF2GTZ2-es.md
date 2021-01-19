@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415o0NK9AqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XF2GTZ2-es POWEROWL Cargador de Pilas AA AAA con 16 Ranuras para Ni-MH Ni-CD Baterías Recargables'
+slug: 'B07XF2GTZ2-es POWEROWL Cargador de Pilas AA AAA con 16 Ranuras para Ni-...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

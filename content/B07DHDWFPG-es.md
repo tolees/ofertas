@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cOc-9Q6LL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHDWFPG-es Panegy - 4 pares Calcetines de Dedos para Hombres Calcetines Largos de Algodón Deportivos para Running Ciclismo - 39-45'
+slug: 'B07DHDWFPG-es Panegy - 4 pares Calcetines de Dedos para Hombres...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

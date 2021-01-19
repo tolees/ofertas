@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qFm5JLcTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCRX8KP-es Bluetooth 5.0 Transmisor y Receptor | TV Bluetooth Transmisor | Bluetooth Adaptador De Audio | aptX Low Latency | Digital óptica Toslink y 3 5 mm Audio  Conector RCA  Dos Conexiones'
+slug: 'B07DCRX8KP-es Bluetooth 5.0 Transmisor y Receptor | TV Bluetooth...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rcPxlvMkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVH896N-es Kipling Women s KI4219  3 x Wallet Grey Grey  NIGHT GREY BL N85 '
+slug: 'B07MVH896N-es Kipling Women s KI4219 3 x Wallet Grey Grey NIGHT GREY BL N85'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

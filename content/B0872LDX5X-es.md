@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51T-QSCJhnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872LDX5X-es NMBC Fundas de Asiento Protector de cojín de Asiento de automóvil Asiento de cojín de Asiento de automóvil Funda con Calefacción y Función de ventilación Portátil Transpirable-1 Beige'
+slug: 'B0872LDX5X-es NMBC Fundas de Asiento Protector de cojín de Asiento de...'
+tags: 
 actualPrice: 143.99 EUR
 currency: EUR
 price: 143.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lEEjqc5fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DGMP1D-es FNBK Funda para Samsung Galaxy S8 Funda de Piel con Stand Función con Ranura para Tarjetas Flip Case Cover Caso Compatible con Samsung Galaxy S8 Blanco'
+slug: 'B081DGMP1D-es FNBK Funda para Samsung Galaxy S8 Funda de Piel con Stand...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

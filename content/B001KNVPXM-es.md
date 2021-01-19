@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31nabmA-xbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B001KNVPXM-es Max Factor LipFinity Colour & Gloss Lip Gloss Pintalabios Gloss Tono 570 Coral - 18 gr'
+slug: 'B001KNVPXM-es Max Factor LipFinity Colour & Gloss Lip Gloss Pintalabios...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

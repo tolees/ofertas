@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rNyHwX2HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDJ4DLL-es Afeitadora eléctrica para mujer  depilación facial para mujeres  resistente al agua  para labios  barbilla  bigote  pelo corporal en las piernas y axilas'
+slug: 'B07FDJ4DLL-es Afeitadora eléctrica para mujer depilación facial para...'
+tags: 
 actualPrice: 8.78 EUR
 currency: EUR
 price: 8.78

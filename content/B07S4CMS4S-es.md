@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XxfAA1lbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4CMS4S-es FitFlop Uberknit F-Sporty Sneaker  Zapatillas para Mujer  Rojo  Ss20 High Risk Red 002   36 EU'
+slug: 'B07S4CMS4S-es FitFlop Uberknit F-Sporty Sneaker Zapatillas para Mujer...'
+tags: 
 actualPrice: 24.1 EUR
 currency: EUR
 price: 24.1

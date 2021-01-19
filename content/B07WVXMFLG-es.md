@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rYrGvT84L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVXMFLG-es Xnuoyo Cepillo de Limpieza Facial 5 en 1 Masajeador Facial Eléctrico  para Remover los Lípidos Adicionales  Puntos Negros y Maquillaje con 5 Cabezales de Limpieza'
+slug: 'B07WVXMFLG-es Xnuoyo Cepillo de Limpieza Facial 5 en 1 Masajeador Facial...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

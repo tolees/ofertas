@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c0UY79upL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002AQI7M-es Marina 11061 Limpiador de Grava Easy Clean  S'
+slug: 'B0002AQI7M-es Marina 11061 Limpiador de Grava Easy Clean S'
+tags: 
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

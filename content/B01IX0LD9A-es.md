@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31glWhxCbDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IX0LD9A-es Triumph My Perfect Shaper WP  Sujetador Mujer  Beige  NUDE BEIGE   95C'
+slug: 'B01IX0LD9A-es Triumph My Perfect Shaper WP Sujetador Mujer Beige NUDE...'
+tags: 
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

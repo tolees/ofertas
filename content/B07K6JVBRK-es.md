@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31o-2G1QxlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6JVBRK-es Moliies BENETECH GM1311 Digital Food Thermometer Küche Speiseöl Süßigkeiten Wasser BBQ Fleischofen Temperatur Edelstahl Sonde Test'
+slug: 'B07K6JVBRK-es Moliies BENETECH GM1311 Digital Food Thermometer Küche...'
+tags: 
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M5saSuVhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW9QR1D-es Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Azul Lyons Blue Navy Blazer Lunar Rock  45 1/3 EU'
+slug: 'B07KW9QR1D-es Salomon XA Pro 3D GTX Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

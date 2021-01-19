@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uaYtOUl9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8PWT1T-es PUMA St Runner V2 NL  Zapatillas Unisex Adulto  Rosa  Rosewater White/Gray Violet   47 EU'
+slug: 'B07S8PWT1T-es PUMA St Runner V2 NL Zapatillas Unisex Adulto Rosa...'
+tags: 
 actualPrice: 27.41 EUR
 currency: EUR
 price: 27.41

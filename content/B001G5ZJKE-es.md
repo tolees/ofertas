@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nUpv-YJsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001G5ZJKE-es Tuscany Silver Cadena con plata con colgante  con circonita  46 cm'
+slug: 'B001G5ZJKE-es Tuscany Silver Cadena con plata con colgante con circonita...'
+tags: 
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

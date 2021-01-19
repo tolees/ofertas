@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iF6EBvqmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPRDCTM-es RUNCCI-YUN 12-24 V Encendedor de Cigarrillos Plug  DC 5521 Cigarette Lighter Socket Encendedor de Cigarillo Macho a Macho DC 5.5 mm x 2.1 mm  1.2 m/47.24in para Dispositivo de DVD portátil'
+slug: 'B07PPRDCTM-es RUNCCI-YUN 12-24 V Encendedor de Cigarrillos Plug DC 5521...'
+tags: 
 actualPrice: 8.68 EUR
 currency: EUR
 price: 8.68

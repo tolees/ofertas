@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-euNSmNAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Y67XMG-es Mr. Tronic 50m Cable de Instalación Red Ethernet Bobina | CAT6  AWG24  CCA  UTP  50 Metros  Gris '
+slug: 'B079Y67XMG-es Mr. Tronic 50m Cable de Instalación Red Ethernet Bobina |...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

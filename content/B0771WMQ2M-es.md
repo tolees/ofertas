@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VfaIGV3dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771WMQ2M-es Art 1351 Memphis Pedrera  Zapatillas para Mujer  Naranja  Mandarin   39 EU'
+slug: 'B0771WMQ2M-es Art 1351 Memphis Pedrera Zapatillas para Mujer Naranja...'
+tags: 
 actualPrice: 39.33 EUR
 currency: EUR
 price: 39.33

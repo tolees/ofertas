@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jLVlBQvPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F28DY1W-es BAUSCH + LOMB - Renu® MultiPlus Solución de Mantenimiento - Kit viaje Pack 2 botellas x 60 ml'
+slug: 'B07F28DY1W-es BAUSCH + LOMB - Renu® MultiPlus Solución de Mantenimiento...'
+tags: 
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

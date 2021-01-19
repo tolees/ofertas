@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DXiTaY3eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4D5JPB-es Funda compatible con Huawei Honor 10 funda ultrafina suave flexible de silicona TPU hanyhülle con Marmormuster Stoßfest Anti-amarillo Bumper Case para Huawei Honor 10 6 talla única'
+slug: 'B07Z4D5JPB-es Funda compatible con Huawei Honor 10 funda ultrafina suave...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

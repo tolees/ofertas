@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4173ra1pX1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z1JV43G-es Bolsas de Transporte  Bolsa Viaje para Asiento Bebé  Acomon Bolsa de Asiento Infantil para Avión  Universal Bebé Cochecito Transporte Bolsa para Asientos de Automóvil  Asiento para Niños'
+slug: 'B07Z1JV43G-es Bolsas de Transporte Bolsa Viaje para Asiento Bebé Acomon...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

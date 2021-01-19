@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v-aOXxskL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZ45DJ-es PUMA RS 9.8 Space  Zapatillas Unisex Adulto  White-High Risk Red  45 EU'
+slug: 'B07KFZ45DJ-es PUMA RS 9.8 Space Zapatillas Unisex Adulto White-High Risk...'
+tags: 
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

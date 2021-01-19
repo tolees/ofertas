@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aYZvnOUwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008ET5RCK-es Grohe Recambios - Recambio de Teleducha para grifos de cocina  Ref. 46312IE0 '
+slug: 'B008ET5RCK-es Grohe Recambios - Recambio de Teleducha para grifos de...'
+tags: 
 actualPrice: 64.3 EUR
 currency: EUR
 price: 64.3

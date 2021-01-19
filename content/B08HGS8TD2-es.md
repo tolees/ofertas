@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41srAa6uxsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HGS8TD2-es #N/A 2 Kits de Ropa de Baño en Miniatura para Muñecas Chicas Americanas 18 Inch'
+slug: 'B08HGS8TD2-es #N/A 2 Kits de Ropa de Baño en Miniatura para Muñecas...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

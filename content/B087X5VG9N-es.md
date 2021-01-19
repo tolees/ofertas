@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tDH6L3upL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087X5VG9N-es Suhctup Funda Transparent Compatible para Huawei P Smart Z/Y9 Prime 2019 Carcasa Protectora [Antigolpes] Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Huawei P Smart Z A2'
+slug: 'B087X5VG9N-es Suhctup Funda Transparent Compatible para Huawei P Smart...'
+tags: 
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

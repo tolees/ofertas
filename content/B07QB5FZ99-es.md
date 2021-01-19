@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tE8drXl1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB5FZ99-es Lebze Muselina Manta Bebé -"Diseño de Zorro" Muselinas Bebé Algodón Bambú Chica o Baby Boy Mantas 120x120 cm Swaddle'
+slug: 'B07QB5FZ99-es Lebze Muselina Manta Bebé -"Diseño de Zorro" Muselinas...'
+tags: 
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

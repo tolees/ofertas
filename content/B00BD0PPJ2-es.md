@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3193do-+-JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BD0PPJ2-es BRA Terra - Sartén Grill asador Liso  22 cm  Aluminio Fundido con Antiadherente Teflon Select'
+slug: 'B00BD0PPJ2-es BRA Terra - Sartén Grill asador Liso 22 cm Aluminio...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

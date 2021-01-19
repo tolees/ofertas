@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410v+tkZMgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJPNRH4-es Clarks Step Allena Go  Zapatillas para Mujer  Beige  Blue Grey Blue Grey   35.5 EU'
+slug: 'B07TJPNRH4-es Clarks Step Allena Go Zapatillas para Mujer Beige Blue...'
+tags: 
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

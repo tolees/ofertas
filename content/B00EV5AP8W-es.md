@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AJXGoNOLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EV5AP8W-es Seiko Reloj Cronógrafo para Hombre de Energía Solar con Correa en Acero Inoxidable SSC147P1'
+slug: 'B00EV5AP8W-es Seiko Reloj Cronógrafo para Hombre de Energía Solar con...'
+tags: 
 actualPrice: 220.0 EUR
 currency: EUR
 price: 220.0

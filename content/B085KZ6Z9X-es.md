@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B7HDPbjTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085KZ6Z9X-es GreceMonday No FFP3 -FFP2 Protección facial desechable antipolvo  antivaho y antipolución'
+slug: 'B085KZ6Z9X-es GreceMonday No FFP3 -FFP2 Protección facial desechable...'
+tags: 
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

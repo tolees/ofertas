@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z-0r6G-aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8PQQ9G-es Diesel UFST-STARS-THREEPACK  Tanga para Mujer  Negro  Black/Black/Black E4953/0jawe   40  Talla del fabricante: Large   Pack de 3'
+slug: 'B07P8PQQ9G-es Diesel UFST-STARS-THREEPACK Tanga para Mujer Negro...'
+tags: 
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

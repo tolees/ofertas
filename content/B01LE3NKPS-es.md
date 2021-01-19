@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LE3NKPS-es Testosterol 250 - 30 caps by MEGABOL'
+tags: 
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

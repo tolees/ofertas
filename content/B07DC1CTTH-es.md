@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413JS105IGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC1CTTH-es PUMA Vista  Zapatillas Unisex Adulto  Negro Black White/Charcoal Gray  42 EU'
+slug: 'B07DC1CTTH-es PUMA Vista Zapatillas Unisex Adulto Negro Black...'
+tags: 
 actualPrice: 38.01 EUR
 currency: EUR
 price: 38.01

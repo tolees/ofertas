@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416prtHRVQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5N36KZ-es Tommy Hilfiger Hilfiger Slim Polo  Azul  Blue Quartz   X-Large  Talla del Fabricante:  para Hombre'
+slug: 'B07W5N36KZ-es Tommy Hilfiger Hilfiger Slim Polo Azul Blue Quartz X-Large...'
+tags: 
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

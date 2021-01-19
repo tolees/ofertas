@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jPNL6-arL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CEVRCR2-es Vanguard Endeavor HD 82A - Telescopio Terrestre ED  Angular 82 mm  Negro'
+slug: 'B00CEVRCR2-es Vanguard Endeavor HD 82A - Telescopio Terrestre ED Angular...'
+tags: 
 actualPrice: 382.42 EUR
 currency: EUR
 price: 382.42

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mYEzndn4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NT57BJM-es De Longhi Pac AN98 Aire Acondicionado portátil  capacidad refrigeración 10.700 BTU  tecnología Real Feel comfort óptimo  función ventilador y deshumidificación  control LED  Blanco'
+slug: 'B07NT57BJM-es De Longhi Pac AN98 Aire Acondicionado portátil capacidad...'
+tags: 
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

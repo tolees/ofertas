@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ieWDOB+0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089XZLKFX-es Dispensador de jabón automático  dispensadores de jabón de espuma infrarroja sin contacto Botellas de bomba  desinfectante de manos ajustable Dispensador de jabón de espuma para baño Cocina Oficina'
+slug: 'B089XZLKFX-es Dispensador de jabón automático dispensadores de jabón de...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

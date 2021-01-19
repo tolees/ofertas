@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MRkwWddqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B001PGVY62-es Vans Classic Patch Trucker - Gorra para hombre  Negro/Blanco  Black/White   Talla única'
+slug: 'B001PGVY62-es Vans Classic Patch Trucker - Gorra para hombre...'
+tags: 
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

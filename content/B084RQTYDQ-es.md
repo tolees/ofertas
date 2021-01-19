@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zWzWYF2kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084RQTYDQ-es MSI Pro MP221 - Monitor de 22" FHD 60 Hz  1920 x 1080 Pixeles  Ratio 16:9  5 ms de repuesta  Negro'
+slug: 'B084RQTYDQ-es MSI Pro MP221 - Monitor de 22" FHD 60 Hz 1920 x 1080...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

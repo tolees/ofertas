@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KHZ8clj6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FKVTSE2-es Paquete de 4 bloqueos de bloqueo de cadena de bloqueo de cadena SRAM  negro'
+slug: 'B01FKVTSE2-es Paquete de 4 bloqueos de bloqueo de cadena de bloqueo de...'
+tags: 
 actualPrice: 15.56 EUR
 currency: EUR
 price: 15.56

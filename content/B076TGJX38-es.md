@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21uxRGV4hhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076TGJX38-es BRA Prior Pincel de Cocina Apta para el Contacto con los Alimentos  Acero INOX  Nailon y Silicona  Verde  28.5 cm'
+slug: 'B076TGJX38-es BRA Prior Pincel de Cocina Apta para el Contacto con los...'
+tags: 
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

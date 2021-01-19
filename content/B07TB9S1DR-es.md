@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vqI2IWv1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TB9S1DR-es Helly Hansen Ahiga V4 Hydropower  Náuticos para Hombre  Blanco  Off White/Racer Blue 012   40.5 EU'
+slug: 'B07TB9S1DR-es Helly Hansen Ahiga V4 Hydropower Náuticos para Hombre...'
+tags: 
 actualPrice: 56.42 EUR
 currency: EUR
 price: 56.42

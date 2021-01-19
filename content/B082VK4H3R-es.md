@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZAh81iX7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VK4H3R-es Icons Corner Pack 4 sillas Negro IMS Modelo Eiffel Patas cromadas'
+slug: 'B082VK4H3R-es Icons Corner Pack 4 sillas Negro IMS Modelo Eiffel Patas...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

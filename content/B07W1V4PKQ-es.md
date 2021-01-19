@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w-bWg92vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1V4PKQ-es Skechers Ultra Groove Pure Vision  Zapatillas para Mujer  Azul Marino Malla Rosa Caliente Borde Nvhp  36.5 EU'
+slug: 'B07W1V4PKQ-es Skechers Ultra Groove Pure Vision Zapatillas para Mujer...'
+tags: 
 actualPrice: 29.44 EUR
 currency: EUR
 price: 29.44

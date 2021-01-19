@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41em7RI3MSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X425JKF-es Tommy Hilfiger Bra Sujetador Push-up  Negro  Black 990   75D para Mujer'
+slug: 'B06X425JKF-es Tommy Hilfiger Bra Sujetador Push-up Negro Black 990 75D...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

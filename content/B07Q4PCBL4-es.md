@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fMn6XMOpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4PCBL4-es Amzdeal Alcachofa de ducha Cabezal de Ducha de Agua Ahorro Mano de Ducha 3 Modos  Cromo'
+slug: 'B07Q4PCBL4-es Amzdeal Alcachofa de ducha Cabezal de Ducha de Agua Ahorro...'
+tags: 
 actualPrice: 6.23 EUR
 currency: EUR
 price: 6.23

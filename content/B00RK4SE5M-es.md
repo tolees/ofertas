@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IvcfESqGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RK4SE5M-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Piel ES3708'
+slug: 'B00RK4SE5M-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 58.0 EUR
 currency: EUR
 price: 58.0

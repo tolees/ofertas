@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s0iY9AZvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FBAF93W-es Lacoste L1230  Polo de Manga Corta para Hombre  Azul  Marine   M  Talla del fabricante: 4 '
+slug: 'B00FBAF93W-es Lacoste L1230 Polo de Manga Corta para Hombre Azul Marine...'
+tags: 
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

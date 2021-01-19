@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FSQFjknrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GEEB1VS-es Columbia Tech Shade Hat Gorra  Unisex Adulto  Beige  Fossil   One Size  Adjustable '
+slug: 'B00GEEB1VS-es Columbia Tech Shade Hat Gorra Unisex Adulto Beige Fossil...'
+tags: 
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

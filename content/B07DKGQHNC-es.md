@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LK7RG1mKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKGQHNC-es Relaxdays Silla Oficina Ergonómica Regulable  Rosa  102 x 55 x 55 cm'
+slug: 'B07DKGQHNC-es Relaxdays Silla Oficina Ergonómica Regulable Rosa 102 x 55...'
+tags: 
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

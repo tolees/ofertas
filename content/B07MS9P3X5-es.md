@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312EysmDjsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MS9P3X5-es Kickers Layton  Botas Clasicas para Hombre  Marrón  Marron Kaki 93   42 EU'
+slug: 'B07MS9P3X5-es Kickers Layton Botas Clasicas para Hombre Marrón Marron...'
+tags: 
 actualPrice: 29.6 EUR
 currency: EUR
 price: 29.6

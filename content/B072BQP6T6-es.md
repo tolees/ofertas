@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kTl4QQAkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BQP6T6-es MagiDeal DIY 5D Diamante de Imitación Bordado Pintura Decoración para Hogar Peacock Cross Stitch Craft'
+slug: 'B072BQP6T6-es MagiDeal DIY 5D Diamante de Imitación Bordado Pintura...'
+tags: 
 actualPrice: 3.06 EUR
 currency: EUR
 price: 3.06

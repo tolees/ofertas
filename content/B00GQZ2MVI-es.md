@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wapKiaYoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GQZ2MVI-es Reticare 352T-3500-B - Protector de ojos para tablets de 18 x 25 cm  intensive'
+slug: 'B00GQZ2MVI-es Reticare 352T-3500-B - Protector de ojos para tablets de...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

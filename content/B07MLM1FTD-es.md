@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nYbrXPrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLM1FTD-es L3 Tech Estuche rígido para SanDisk SSD portátil SDSSDE60 de 250GB / 500GB / 1TB / 2TB  Bolsa de Almacenamiento portátil - Negro  Forro Negro '
+slug: 'B07MLM1FTD-es L3 Tech Estuche rígido para SanDisk SSD portátil SDSSDE60...'
+tags: 
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

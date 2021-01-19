@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51D7jGi-ySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPG8HYY-es Ultimate Ears Boom 3 Altavoz Portátil Inalámbrico Bluetooth  Graves Profundos  Impermeable  Flotante  Conexión Múltiple  Batería de 15 h  color Gris'
+slug: 'B07NPG8HYY-es Ultimate Ears Boom 3 Altavoz Portátil Inalámbrico...'
+tags: 
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A56BivChL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005FVZUHW-es TRIXES 2 x Almohadas Inflables - para Viajar  la Playa o Cámping - Tacto Suave - Pequeño Tamaño Portátil - Azul Oscuro'
+slug: 'B005FVZUHW-es TRIXES 2 x Almohadas Inflables - para Viajar la Playa o...'
+tags: 
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

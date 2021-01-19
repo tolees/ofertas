@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kIkDmHWoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N03X0AP-es Beschoi - 77mm Filtro de Camára Lente  Packs de Filtros Fotográficos para Nikon Canon EOS DSLR Cámaras  11 PCS Incluye CPL ND4 ND8 + Ultra Delgado Graduado Naranja Azul Gris Filtros + Aceesorios '
+slug: 'B01N03X0AP-es Beschoi - 77mm Filtro de Camára Lente Packs de Filtros...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

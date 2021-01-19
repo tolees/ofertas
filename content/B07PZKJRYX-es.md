@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vhwqh125L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZKJRYX-es Levoit Jarra de Agua Filtrada 2 5L con 1 Filtro hasta 60 Días  Libre de BPA con Indicador de Cambio de Filtro  5-Etapa de Filtración para Atrapar Cloro  Fluoruro  Plomo  Metales Pesados y Olores'
+slug: 'B07PZKJRYX-es Levoit Jarra de Agua Filtrada 2 5L con 1 Filtro hasta 60...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bJ3I+ZmQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZF3X36-es Reloj de Cuarzo con cronógrafo de Acero Inoxidable y Metal  Resistente al Agua  con Fecha automática en manecillas Coloridas  Gris Oscuro '
+slug: 'B08BZF3X36-es Reloj de Cuarzo con cronógrafo de Acero Inoxidable y Metal...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

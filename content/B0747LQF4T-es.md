@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U-TeGFtrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0747LQF4T-es Antorcha de hormigón con “mecha permanente”  Tamaño 13x13x13  Antorcha de jardín rellenable  Tiempo de combustión “infinito” gracias al reciclado ecológico de la cera de las velas  Antorcha de mesa'
+slug: 'B0747LQF4T-es Antorcha de hormigón con “mecha permanente” Tamaño...'
+tags: 
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

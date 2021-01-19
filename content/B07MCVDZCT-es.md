@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SKb-uTnWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCVDZCT-es Gant D1.2-Pack Barstripe and Solid Sock Calcetines  Naranja  Blood Orange 818   única  Talla del Fabricante: Oversize  para Hombre'
+slug: 'B07MCVDZCT-es Gant D1.2-Pack Barstripe and Solid Sock Calcetines Naranja...'
+tags: 
 actualPrice: 6.37 EUR
 currency: EUR
 price: 6.37

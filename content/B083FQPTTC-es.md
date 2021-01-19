@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lcT7ys1tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FQPTTC-es Camara de Fotos Camara Fotos Full HD 2.7K 24MP Videocámaras Camara de Fotos Digital Camara Fotos Compacta con Luz de Flash Retráctil'
+slug: 'B083FQPTTC-es Camara de Fotos Camara Fotos Full HD 2.7K 24MP...'
+tags: 
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

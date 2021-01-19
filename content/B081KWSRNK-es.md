@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513In8prUyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081KWSRNK-es QYiD Funda para iPad 10.2 / iPad 7th Gen Plegables Soporte Protectora Cubierta con Bolsillo & Auto-Sueño/Estela para Apple iPad 10.2  2019  / A2200  A2198  A2232  Oscuro Azul '
+slug: 'B081KWSRNK-es QYiD Funda para iPad 10.2 / iPad 7th Gen Plegables Soporte...'
+tags: 
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

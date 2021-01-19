@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yeK6bj5SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000BZL5B-es B+W Circular MRC - Filtro polarizador para  58 mm '
+slug: 'B0000BZL5B-es B+W Circular MRC - Filtro polarizador para 58 mm'
+tags: 
 actualPrice: 60.38 EUR
 currency: EUR
 price: 60.38

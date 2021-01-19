@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Sw+UYM4gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WPS2KN-es BelleStyle Alfombra Musical - Musical Canto Teclado Estera de Alfombra Bebé Niño Actividad Juego De Gimnasio Colchonetas Alfombra Animal para El Regalo del Bebé  Púrpura '
+slug: 'B075WPS2KN-es BelleStyle Alfombra Musical - Musical Canto Teclado Estera...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

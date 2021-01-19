@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51z1B7-l4WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK2NBGD-es UPF50+ Sombrero de Sol con Cubrenuca para Bebé Niños Niñas Anti-UV Gorro Verano Gorrito para Playa  Natación  Pesca  Viaje  Excursión  Escuela Ajustable con Barbijo'
+slug: 'B07RK2NBGD-es UPF50+ Sombrero de Sol con Cubrenuca para Bebé Niños Niñas...'
+tags: 
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419pAZnf3vL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFFRDW9-es Aitsite Multi herramienta copo de nieve Tarjeta de la herramienta del copo de nieve Destornillador multi-herramienta de acero Llavero Abrebotellas Tarjeta  Negro '
+slug: 'B07KFFRDW9-es Aitsite Multi herramienta copo de nieve Tarjeta de la...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

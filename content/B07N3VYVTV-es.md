@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DzmhQux9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3VYVTV-es SYOSS - Oleo Intense Coloración Permanente Sin Amoníaco  - Tono 5.92 Rojo Intenso - 2 uds'
+slug: 'B07N3VYVTV-es SYOSS - Oleo Intense Coloración Permanente Sin Amoníaco -...'
+tags: 
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

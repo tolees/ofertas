@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GIVL1xtPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DHJL9B0-es TRIXES Protector elástico para dedos  apoyo artritis ayuda en deportes x 10'
+slug: 'B00DHJL9B0-es TRIXES Protector elástico para dedos apoyo artritis ayuda...'
+tags: 
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

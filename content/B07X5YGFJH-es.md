@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EjRGHE0ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5YGFJH-es Wonderbra Glamour Raffine Triangle Padde Sujetador de triángulo  Multicolor  Imprime Animal 0bs   95H para Mujer'
+slug: 'B07X5YGFJH-es Wonderbra Glamour Raffine Triangle Padde Sujetador de...'
+tags: 
 actualPrice: 10.86 EUR
 currency: EUR
 price: 10.86

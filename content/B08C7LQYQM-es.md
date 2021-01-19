@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61Xqbm5SetL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C7LQYQM-es COOLAPA LED Strip Lights  Impermeable IP65  Color Changing Rope Lights 32.8ft 10m  SMD 5050 RGB Light Strips with Bluetooth Controller Sync to Music Apply for TV  Habitación  Bar  Cocina'
+slug: 'B08C7LQYQM-es COOLAPA LED Strip Lights Impermeable IP65 Color Changing...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

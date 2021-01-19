@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bZ6EmUmNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFZV8VK-es New Balance Fresh Foam Roav  Zapatillas de Running para Mujer  Negro  Black Black   44 EU'
+slug: 'B07HFZV8VK-es New Balance Fresh Foam Roav Zapatillas de Running para...'
+tags: 
 actualPrice: 33.43 EUR
 currency: EUR
 price: 33.43

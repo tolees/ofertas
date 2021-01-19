@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K8W0ATebL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IRKRUNO-es NIXON Reloj Analógico para Hombre de Cuarzo con Correa en Tela A9452548'
+slug: 'B01IRKRUNO-es NIXON Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 154.86 EUR
 currency: EUR
 price: 154.86

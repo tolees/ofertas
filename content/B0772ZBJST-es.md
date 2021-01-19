@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m9JXlbRqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772ZBJST-es Columbia Ventrailia 3 Low Outdry  Zapatillas de Senderismo para Hombre  Negro  BlackLux 010   42 EU'
+slug: 'B0772ZBJST-es Columbia Ventrailia 3 Low Outdry Zapatillas de Senderismo...'
+tags: 
 actualPrice: 60.89 EUR
 currency: EUR
 price: 60.89

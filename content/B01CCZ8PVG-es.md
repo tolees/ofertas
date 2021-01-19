@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ibaX4bTHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CCZ8PVG-es Urban Classics Canvas Belt Cinturón  Charcoal  Talla Única Unisexo'
+slug: 'B01CCZ8PVG-es Urban Classics Canvas Belt Cinturón Charcoal Talla Única...'
+tags: 
 actualPrice: 11.38 EUR
 currency: EUR
 price: 11.38

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21FBw4ne9IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002VYP5QW-es TP-LINK TL-ANT2408CL 2 4 GHz de Interior omnidireccional Antena'
+slug: 'B002VYP5QW-es TP-LINK TL-ANT2408CL 2 4 GHz de Interior omnidireccional...'
+tags: 
 actualPrice: 5.72 EUR
 currency: EUR
 price: 5.72

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lRURORGKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0026JIKIM-es Calvin Klein Seductive Comfort-Customized Lift Sujetador  Negro  Black 001   70D para Mujer'
+slug: 'B0026JIKIM-es Calvin Klein Seductive Comfort-Customized Lift Sujetador...'
+tags: 
 actualPrice: 16.73 EUR
 currency: EUR
 price: 16.73

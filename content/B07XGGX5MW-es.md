@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y-mb3Ng1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGGX5MW-es Baño Stick Wall Hanging Slippers Rackhelf Hanger para uso doméstico - Azul'
+slug: 'B07XGGX5MW-es Baño Stick Wall Hanging Slippers Rackhelf Hanger para uso...'
+tags: 
 actualPrice: 4.36 EUR
 currency: EUR
 price: 4.36

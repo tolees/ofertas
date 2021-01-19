@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sXWz6z17L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H1E4MPQ-es LG OM5560 - Microcadena  500 W  con Bluetooth 4.0 y USB   Multicolor'
+slug: 'B01H1E4MPQ-es LG OM5560 - Microcadena 500 W con Bluetooth 4.0 y USB...'
+tags: 
 actualPrice: 209.41 EUR
 currency: EUR
 price: 209.41

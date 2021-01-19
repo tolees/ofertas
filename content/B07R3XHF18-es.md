@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q-NWp1ieL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3XHF18-es HALUM Cámara IP WiFi  1080P Home Security Vigilancia  cámara inalámbrica para Interiores con visión Nocturna HD  Audio de Dos vías  detección de Movimiento Pan/Tilt  para bebés  Padres y Mascotas'
+slug: 'B07R3XHF18-es HALUM Cámara IP WiFi 1080P Home Security Vigilancia cámara...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

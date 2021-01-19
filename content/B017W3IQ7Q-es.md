@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LQmv+dSNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017W3IQ7Q-es Trust Atlanta - Maletín para portátiles de hasta 17.3"  negro'
+slug: 'B017W3IQ7Q-es Trust Atlanta - Maletín para portátiles de hasta 17.3" negro'
+tags: 
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

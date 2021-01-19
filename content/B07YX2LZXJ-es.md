@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YX2LZXJ-es Trueno Sala Elite'
+tags: 
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

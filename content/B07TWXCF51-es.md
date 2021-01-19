@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EfaNVf0kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWXCF51-es Women s Secret Concept Essentials Cordovan Sujetador de triángulo  Beige  Tostado 50   90  Tamaño del Fabricante: 90B  para Mujer'
+slug: 'B07TWXCF51-es Women s Secret Concept Essentials Cordovan Sujetador de...'
+tags: 
 actualPrice: 11.35 EUR
 currency: EUR
 price: 11.35

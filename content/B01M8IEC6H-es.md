@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vk56w7gWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8IEC6H-es Razer Gigantus - Alfombrilla de ratón con superficie extra grande  adecuado para juegos de baja sensibilidad  control y velocidad'
+slug: 'B01M8IEC6H-es Razer Gigantus - Alfombrilla de ratón con superficie extra...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

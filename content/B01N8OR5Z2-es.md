@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41k2lUKTSTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N8OR5Z2-es Gre CPROV510 - Cobertor de Verano para Piscina Ovalada de 485 x 335 cm  Color Azul'
+slug: 'B01N8OR5Z2-es Gre CPROV510 - Cobertor de Verano para Piscina Ovalada de...'
+tags: 
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

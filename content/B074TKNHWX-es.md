@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xEENek3SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074TKNHWX-es Parrot Mambo Mission - Dron cuadricóptero  30 Km/h  10 minutos de vuelo  100 metros de alcance  + Mando Flypad + Soporte smartphone + Cañon + 50 bolas + Pinza Grabber'
+slug: 'B074TKNHWX-es Parrot Mambo Mission - Dron cuadricóptero 30 Km/h 10...'
+tags: 
 actualPrice: 93.85 EUR
 currency: EUR
 price: 93.85

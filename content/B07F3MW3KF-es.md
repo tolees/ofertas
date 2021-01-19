@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nMJBm4TeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3MW3KF-es GUESS Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 0091661488184'
+slug: 'B07F3MW3KF-es GUESS Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 140.86 EUR
 currency: EUR
 price: 140.86

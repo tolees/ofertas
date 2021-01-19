@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31E6cmWKXkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SS4J9KZ-es Hobaca® E27 Oro Cobre Hierro de lujo Lámpara colgante nórdica moderna LED Lámpara colgante Lámparas para las luces del sitio de la cocina de la isla de la cocina'
+slug: 'B07SS4J9KZ-es Hobaca® E27 Oro Cobre Hierro de lujo Lámpara colgante...'
+tags: 
 actualPrice: 24.32 EUR
 currency: EUR
 price: 24.32

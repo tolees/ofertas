@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wKWOZ4tVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FVLSDD6-es Destornillador Eléctrico  TECCPO 4Nm Atornillador Inalámbrico  2000mAh Batería de Litio  11 Accesorios  Incluye Broca de taladro y Varilla de extensión  Cable USB  Luz LED - TDSC02P'
+slug: 'B07FVLSDD6-es Destornillador Eléctrico TECCPO 4Nm Atornillador...'
+tags: 
 actualPrice: 25.58 EUR
 currency: EUR
 price: 25.58

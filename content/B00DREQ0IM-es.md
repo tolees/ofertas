@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414Jd3HAIHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DREQ0IM-es Bosch Miniamoladora PWS 750-115  con disco de diamante  750 W y Ø 115 mm '
+slug: 'B00DREQ0IM-es Bosch Miniamoladora PWS 750-115 con disco de diamante 750...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

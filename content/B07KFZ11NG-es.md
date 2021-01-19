@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LHb2N8reL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZ11NG-es PUMA Vikky v2 Mid WTR  Zapatillas Altas para Mujer  Overcast-Rose Gold White  36 EU'
+slug: 'B07KFZ11NG-es PUMA Vikky v2 Mid WTR Zapatillas Altas para Mujer...'
+tags: 
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

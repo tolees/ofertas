@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415ZvGKCbjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DWKKGG2-es Bourjois Velvet Barra de Labios Líquida Tono 15 Red-volution - 28 gr'
+slug: 'B01DWKKGG2-es Bourjois Velvet Barra de Labios Líquida Tono 15 Red-...'
+tags: 
 actualPrice: 4.48 EUR
 currency: EUR
 price: 4.48

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31oX5L-5RJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078N5GM6R-es Protector Trasero para iPhone X + Lente Protector de Pantalla  EUGO Ultra Delgado 9H Tempered Glass Protector de Pantalla Cristal Templado Trasero para iPhone X'
+slug: 'B078N5GM6R-es Protector Trasero para iPhone X + Lente Protector de...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

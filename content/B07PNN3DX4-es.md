@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41teeyVcshL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNN3DX4-es BONTEC Smart Plug WiFi Outlet Mini Interruptor de conexión del temporizador de Smart Socket inalámbrico  control remoto  sin necesidad de concentrador 4 paquetes'
+slug: 'B07PNN3DX4-es BONTEC Smart Plug WiFi Outlet Mini Interruptor de conexión...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21YvUt6OOqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DKCWWLP-es Sauber - Frigorífico Combi SERIE 3-176B - Eficiencia energética: A+ - 176x55 5 cm - ENTREGA EN DOMICILIO'
+slug: 'B08DKCWWLP-es Sauber - Frigorífico Combi SERIE 3-176B - Eficiencia...'
+tags: 
 actualPrice: 259.0 EUR
 currency: EUR
 price: 259.0

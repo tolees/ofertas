@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dTPp14OuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0833WHQDJ-es DONPEREGRINO Maleta Cabina Avión 55x40x20 Rígida  Ligera y Resistente  Maleta de Viaje Equipaje de Mano Full Forrada con 4 Doble-Ruedas 360° Giratorias'
+slug: 'B0833WHQDJ-es DONPEREGRINO Maleta Cabina Avión 55x40x20 Rígida Ligera y...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

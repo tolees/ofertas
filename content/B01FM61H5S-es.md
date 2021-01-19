@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cMvPUOltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FM61H5S-es HBF 5 Pares Calcetines Cortos Hombre Algodon Calcetines Invisibles Hombre Multicolor Calcetines Barco'
+slug: 'B01FM61H5S-es HBF 5 Pares Calcetines Cortos Hombre Algodon Calcetines...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

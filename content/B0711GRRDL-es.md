@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41l6BIRmV3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711GRRDL-es Philips SHB3075RD - Auriculares Inalambricos  Bluetooth  con micrófono  aislantes de Ruido  Plegables  12 h de reproducción  Rojo'
+slug: 'B0711GRRDL-es Philips SHB3075RD - Auriculares Inalambricos Bluetooth con...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

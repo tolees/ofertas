@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GYkDuZIaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0GM4YQ-es Weider Whey Protein White Spread 250 g. Crema de chocolate Blanco con 22% de proteínas Baja en azúcares Sin aceite de palma y sin gluten.'
+slug: 'B01M0GM4YQ-es Weider Whey Protein White Spread 250 g. Crema de chocolate...'
+tags: 
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

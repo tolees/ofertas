@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w3Y7tdGLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVK9L9J-es Kipling - Baroe  Monederos Mujer  Rosa  Metallic Rose   20.5x10x7.5 cm  B x H T '
+slug: 'B07MVK9L9J-es Kipling - Baroe Monederos Mujer Rosa Metallic Rose...'
+tags: 
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

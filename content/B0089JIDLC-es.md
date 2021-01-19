@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XzeXH4PpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0089JIDLC-es Kingston KVR16N11/8 - Memoria RAM de 8 GB  1600 MHz DDR3 Non-ECC CL11 DIMM  240-pin  1.5V '
+slug: 'B0089JIDLC-es Kingston KVR16N11/8 - Memoria RAM de 8 GB 1600 MHz DDR3...'
+tags: 
 actualPrice: 43.8 EUR
 currency: EUR
 price: 43.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AJ9epEuFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZRDAMXK-es Purina Pro Plan Small & Mini Puppy  Salmón para cachorros de piel sensible  4 x 3 Kg'
+slug: 'B00ZRDAMXK-es Purina Pro Plan Small & Mini Puppy Salmón para cachorros...'
+tags: 
 actualPrice: 29.16 EUR
 currency: EUR
 price: 29.16

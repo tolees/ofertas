@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SDCMHNEXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013SJZVIU-es Manfrotto 290 Xtra - Kit trípode de 3 Secciones y rótula 3 Way  Aluminio '
+slug: 'B013SJZVIU-es Manfrotto 290 Xtra - Kit trípode de 3 Secciones y rótula 3...'
+tags: 
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

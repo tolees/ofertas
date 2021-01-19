@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4144yX+CK8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMHGV8L-es Levi s Original Batwing  Multicolor  Hm Patch Polo Dress Blues/Riverside/ 0003   X-Small para Hombre'
+slug: 'B07TMHGV8L-es Levi s Original Batwing Multicolor Hm Patch Polo Dress...'
+tags: 
 actualPrice: 27.22 EUR
 currency: EUR
 price: 27.22

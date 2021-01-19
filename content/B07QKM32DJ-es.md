@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BeRTsqTcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKM32DJ-es Taladro Percutor  LOMVUM 810W Taladro Eléctrico 3000RPM  Martillo Taladro 2 Funciones en 1  Portabroca de 13mm  Motor de Cobre Puro  WD3181'
+slug: 'B07QKM32DJ-es Taladro Percutor LOMVUM 810W Taladro Eléctrico 3000RPM...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

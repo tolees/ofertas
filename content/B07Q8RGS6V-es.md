@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fK3jInYRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q8RGS6V-es deAO Coche de Muñecas Convertible Conjunto 2en1 Vehículo para Muñecas Incluye Muebles  Accesorios y Muñeca a Medida'
+slug: 'B07Q8RGS6V-es deAO Coche de Muñecas Convertible Conjunto 2en1 Vehículo...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

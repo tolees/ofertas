@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416o%2B1GEZUL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFZ7WYC-es Quemagrasas NATURAL Vegavero® | Cetonas de Frambuesa + Pimienta Cayena + Té Verde + Cafeína Pura + Zinc | 120 Cápsulas | Quemagrasas Potente Para Adelgazar + Perder Grasa + Peso | Body Control'
+slug: 'B07JFZ7WYC-es Quemagrasas NATURAL Vegavero® | Cetonas de Frambuesa +...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VAwA7dEBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3GBHPD-es The Indian Face Windsurf Gorra Born to Windsurf Hombre y Mujer  Color Azul y Blanca'
+slug: 'B07Q3GBHPD-es The Indian Face Windsurf Gorra Born to Windsurf Hombre y...'
+tags: 
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

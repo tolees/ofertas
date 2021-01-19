@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B5BgVKD1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJWG62F-es Triumph Amourette 300 W X Sujetador con Aros  Negro  Black 0004   90C  Talla del Fabricante: 75C  para Mujer'
+slug: 'B07CJWG62F-es Triumph Amourette 300 W X Sujetador con Aros Negro Black...'
+tags: 
 actualPrice: 22.25 EUR
 currency: EUR
 price: 22.25

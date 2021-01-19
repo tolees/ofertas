@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-EH86yAoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8TL39B-es RUNCCI-YUN potenciómetro 10k kit de potenciómetro rotativo de cono cónico  eje WH148 3Pin 15mm con tuerca y anillo de hierro y pinzas antiestáticas'
+slug: 'B07L8TL39B-es RUNCCI-YUN potenciómetro 10k kit de potenciómetro rotativo...'
+tags: 
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

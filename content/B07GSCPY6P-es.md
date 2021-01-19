@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41USfMP8IRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSCPY6P-es Yayuu Compatible con Forerunner 235 Correa de Reloj  Banda de Reemplazo Silicona Suave Sports Pulsera para Forerunner 235/220/230/620/630/735XT Smart Watch'
+slug: 'B07GSCPY6P-es Yayuu Compatible con Forerunner 235 Correa de Reloj Banda...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qewDOXRCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M2X0OH9-es Scholl Velvet Smooth Diamond Crystals - Lima electrónica de uñas  color rosa'
+slug: 'B01M2X0OH9-es Scholl Velvet Smooth Diamond Crystals - Lima electrónica...'
+tags: 
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

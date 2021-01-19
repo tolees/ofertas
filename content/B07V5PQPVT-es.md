@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31meubm5z2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5PQPVT-es Love Moschino Jc4260pp0a  Bolsa de mensajero para Mujer  Blanco  White Pu   10x18x27.5 Centimeters  W x H x L '
+slug: 'B07V5PQPVT-es Love Moschino Jc4260pp0a Bolsa de mensajero para Mujer...'
+tags: 
 actualPrice: 129.08 EUR
 currency: EUR
 price: 129.08

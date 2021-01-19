@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EBEVz5yVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBFCKPW-es Adidas Altarun Cf K Zapatillas de Running Unisex Niños  Azul  Blue/Ftwr White/Blue   28'
+slug: 'B07GBFCKPW-es Adidas Altarun Cf K Zapatillas de Running Unisex Niños...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

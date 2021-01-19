@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fk0nonR2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GKLH333-es yaoyan Nuevo Inalámbrico 2.4G Modo Dual Azul Rosa Personalidad Tendencia Tecla Redonda Teclado-Blanco'
+slug: 'B08GKLH333-es yaoyan Nuevo Inalámbrico 2.4G Modo Dual Azul Rosa...'
+tags: 
 actualPrice: 33.43 EUR
 currency: EUR
 price: 33.43

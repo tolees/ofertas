@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TO4PDTdLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076FHTW27-es Hurley M DRI-FIT Breathe 19  Bermudas  Hombre  Negro  31'
+slug: 'B076FHTW27-es Hurley M DRI-FIT Breathe 19 Bermudas Hombre Negro 31'
+tags: 
 actualPrice: 28.47 EUR
 currency: EUR
 price: 28.47

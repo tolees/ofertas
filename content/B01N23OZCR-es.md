@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51M+JNogeXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N23OZCR-es Radio de Transistor portátil pequeña  L-218 Radio Am/FM Digital de Bolsillo con Tarjeta Micro TF Reproductor de MP3 de Entrada Auxiliar de Disco USB  por PRUNUS Dorado '
+slug: 'B01N23OZCR-es Radio de Transistor portátil pequeña L-218 Radio Am/FM...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

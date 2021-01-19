@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AjGxmVnWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N99QT9J-es Max Factor Polvos Miracle Veil  Polvos sueltos  - 4 gr.'
+slug: 'B07N99QT9J-es Max Factor Polvos Miracle Veil Polvos sueltos - 4 gr.'
+tags: 
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

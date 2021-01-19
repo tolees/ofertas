@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KFMtOOXyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004YD2GQK-es Candy MIC25GDFX Microondas integrable con grill sin marco  plato giratorio 31 5 cm  10 programas  900 W-1000 W  25 litros  acero inoxidable antihuellas'
+slug: 'B004YD2GQK-es Candy MIC25GDFX Microondas integrable con grill sin marco...'
+tags: 
 actualPrice: 183.64 EUR
 currency: EUR
 price: 183.64

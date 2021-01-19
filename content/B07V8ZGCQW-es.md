@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sBOthettL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8ZGCQW-es L Oreal Paris Men Expert Hydra Sensitive Gel de Ducha Calmante para Hombre - 300 ml'
+slug: 'B07V8ZGCQW-es L Oreal Paris Men Expert Hydra Sensitive Gel de Ducha...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

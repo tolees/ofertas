@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yPI3d94rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009GJZESE-es WIDMANN Disfraz para Adulto  Talla única  9438M '
+slug: 'B009GJZESE-es WIDMANN Disfraz para Adulto Talla única 9438M'
+tags: 
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4178Tj3AzfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SH1DBD-es K9CK Vitrina para 21319 Ideas Friends Central Perk  Caja de Presentación Protegidas del Polvo Vehículos Vitrinas de Exposición Compatible con Bloques de construcción  NO Incluido en el Modelo '
+slug: 'B083SH1DBD-es K9CK Vitrina para 21319 Ideas Friends Central Perk Caja de...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

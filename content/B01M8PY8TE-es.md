@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kiH8FRo8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8PY8TE-es G-STAR RAW Duko Belt Cinturón  Marrón  Dk Cognac/antic Silver 8128   80 para Hombre'
+slug: 'B01M8PY8TE-es G-STAR RAW Duko Belt Cinturón Marrón Dk Cognac/antic...'
+tags: 
 actualPrice: 8.41 EUR
 currency: EUR
 price: 8.41

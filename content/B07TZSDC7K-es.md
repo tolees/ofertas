@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kuFoD40TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZSDC7K-es Samsonite Disney Ultimate 2.0 - Maleta Infantil  46.5 cm  20.5 l  Azul  Toy Story Take-Off '
+slug: 'B07TZSDC7K-es Samsonite Disney Ultimate 2.0 - Maleta Infantil 46.5 cm...'
+tags: 
 actualPrice: 71.85 EUR
 currency: EUR
 price: 71.85

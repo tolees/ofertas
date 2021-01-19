@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BQOslJhOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDP811-es Levi s XX Chino Std II Pantalones  Rosa  Rose Tan Shady GD Ccu B 0009   W32/L30  Talla del Fabricante: 32 30  para Hombre'
+slug: 'B07TKDP811-es Levi s XX Chino Std II Pantalones Rosa Rose Tan Shady GD...'
+tags: 
 actualPrice: 26.36 EUR
 currency: EUR
 price: 26.36

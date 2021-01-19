@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412vvZZp2FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNMYG6G-es Cocinita de juguete Studio BBQ con accesorios  Smoby 311041 '
+slug: 'B07DNMYG6G-es Cocinita de juguete Studio BBQ con accesorios Smoby 311041'
+tags: 
 actualPrice: 52.8 EUR
 currency: EUR
 price: 52.8

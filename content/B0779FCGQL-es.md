@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DaTydCbeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779FCGQL-es adidas Entrada 18 JSY T-Shirt  Hombre  Bold Blue/White  M'
+slug: 'B0779FCGQL-es adidas Entrada 18 JSY T-Shirt Hombre Bold Blue/White M'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

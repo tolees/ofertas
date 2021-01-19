@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TVkgr4kQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJY768G-es Qedertek Guirnaldas Luces Exterior Solar  Cadena de Bola Cristal Luz para Exterior  9M 50 LED  Guirnalda Luminosa Impermeable  Luces Decoración para Jardín  Casa  Bodas  Jardine  Blanco Calido '
+slug: 'B07BJY768G-es Qedertek Guirnaldas Luces Exterior Solar Cadena de Bola...'
+tags: 
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

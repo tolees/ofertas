@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HqYb-sjRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2N3TT9-es PUMA Axis  Zapatillas Unisex Adulto  White High Rise  41 EU'
+slug: 'B07F2N3TT9-es PUMA Axis Zapatillas Unisex Adulto White High Rise 41 EU'
+tags: 
 actualPrice: 23.32 EUR
 currency: EUR
 price: 23.32

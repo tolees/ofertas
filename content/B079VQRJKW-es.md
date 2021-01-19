@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512c6WzL-GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VQRJKW-es Meccano Ducati Moto GP - Juegos de construcción  Juego de construcción de Varios Modelos de vehículos  10 año s   358 Pieza s   Negro  Rojo  Blanco  China  430 g '
+slug: 'B079VQRJKW-es Meccano Ducati Moto GP - Juegos de construcción Juego de...'
+tags: 
 actualPrice: 24.62 EUR
 currency: EUR
 price: 24.62

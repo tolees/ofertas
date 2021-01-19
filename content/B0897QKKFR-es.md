@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uERwvIjIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0897QKKFR-es ZXYAN Wind Up mecánica Ballena de plástico con la Rueda del bebé baño con niños de Juguete de Agua Que arroja a chorros'
+slug: 'B0897QKKFR-es ZXYAN Wind Up mecánica Ballena de plástico con la Rueda...'
+tags: 
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vUGyhYhXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002W5S2IS-es Converse M9166C - Zapatillas de lona /canvas para mujer  color negro  talla 37'
+slug: 'B002W5S2IS-es Converse M9166C - Zapatillas de lona /canvas para mujer...'
+tags: 
 actualPrice: 32.01 EUR
 currency: EUR
 price: 32.01

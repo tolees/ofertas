@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Jtj9kHd9L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008BT28VQ-es Samsung CLT-M406S - Tóner para Samsung CLP-360/365/368  CLX-3300/3305  magenta'
+slug: 'B008BT28VQ-es Samsung CLT-M406S - Tóner para Samsung CLP-360/365/368...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

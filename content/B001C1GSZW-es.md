@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001C1GSZW-es Wahl ColorPro - Cortapelos con estuche de almacenaje'
+tags: 
 actualPrice: 34.45 EUR
 currency: EUR
 price: 34.45

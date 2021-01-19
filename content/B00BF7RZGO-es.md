@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31W6EYk8XUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BF7RZGO-es Piz Buin - Protección Solar  After Sun Loción Hidratante  Calmante y Refrescante After Sun - Bote 400 ml'
+slug: 'B00BF7RZGO-es Piz Buin - Protección Solar After Sun Loción Hidratante...'
+tags: 
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

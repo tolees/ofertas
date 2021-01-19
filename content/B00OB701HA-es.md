@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PAQDAtF-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OB701HA-es Puma PUMA UNISEX SNEAKER PLAIN 3P  Calcetines Unisex adulto  pack de 3  Multicolor  Black/Red 232   43/46  Talla del fabricante: 043 '
+slug: 'B00OB701HA-es Puma PUMA UNISEX SNEAKER PLAIN 3P Calcetines Unisex adulto...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

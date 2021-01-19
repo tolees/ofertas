@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51V6j4XzdzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8RZBBK-es ZIGJOY Strangers TV Unisex Students School Bookbags para Niños RF16S01'
+slug: 'B07V8RZBBK-es ZIGJOY Strangers TV Unisex Students School Bookbags para...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

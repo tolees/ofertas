@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51YElvdinZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTPCWHN-es Frozen Believe-Mochila Dual  Pequeña '
+slug: 'B07ZTPCWHN-es Frozen Believe-Mochila Dual Pequeña'
+tags: 
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

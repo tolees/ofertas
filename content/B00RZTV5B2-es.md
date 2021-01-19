@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aS3Hm1FaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RZTV5B2-es Wilson Tour Slam - Raqueta de Tenis para Adulto - WRT32200U3  4 3/8"  Verde'
+slug: 'B00RZTV5B2-es Wilson Tour Slam - Raqueta de Tenis para Adulto -...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

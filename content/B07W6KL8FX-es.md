@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UQzxBAfPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6KL8FX-es Fivejoy Coche Teledirigido  1:28 RC Coche  15km/h Stunt Coche Teledirigido  2.4GHz Coche de Control Remoto Doble Lado Rotación Volteo de 360 Grados de Alta Velocidad con Batería Recargable  para Niños'
+slug: 'B07W6KL8FX-es Fivejoy Coche Teledirigido 1:28 RC Coche 15km/h Stunt...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

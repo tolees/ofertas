@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hEqYQWk7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HPMD5-es Clarks Un Adorn Zip  Mocasines para Mujer  Beige  Pebble Metalic Pebble Metalic   41 EU'
+slug: 'B07N1HPMD5-es Clarks Un Adorn Zip Mocasines para Mujer Beige Pebble...'
+tags: 
 actualPrice: 40.33 EUR
 currency: EUR
 price: 40.33

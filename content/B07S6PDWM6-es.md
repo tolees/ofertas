@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SgXw4KKWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6PDWM6-es PUMA Smash V2 L  Zapatillas Unisex Adulto  Weiß White High Risk Red Team Gold  40 EU'
+slug: 'B07S6PDWM6-es PUMA Smash V2 L Zapatillas Unisex Adulto Weiß White High...'
+tags: 
 actualPrice: 25.01 EUR
 currency: EUR
 price: 25.01

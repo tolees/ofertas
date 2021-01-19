@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tJ6EHslxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CES5A60-es Logitech C930e Business Webcam  Video-Llamadas Full HD 1080p/30fps  Corrección y Enfoque Automáticos  Zoom 4X  Tapa de Privacidad  Skype Business  WebEx  Lync  Cisco  PC/Mac/Portátil/Macbook/Chrome'
+slug: 'B00CES5A60-es Logitech C930e Business Webcam Video-Llamadas Full HD...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

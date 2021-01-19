@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31leCOrJvLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKXKX7J-es Joseph Joseph Grandes Nest Juego de 3 Tablas para Cortar con Soporte de Almacenamiento  tamaño Gris'
+slug: 'B07KKXKX7J-es Joseph Joseph Grandes Nest Juego de 3 Tablas para Cortar...'
+tags: 
 actualPrice: 48.16 EUR
 currency: EUR
 price: 48.16

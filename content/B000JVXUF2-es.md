@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21sn+TOBJ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000JVXUF2-es Nuby ID91164  Set De Recipientes Herméticos  Multicolor  300 ml  Pack de 6'
+slug: 'B000JVXUF2-es Nuby ID91164 Set De Recipientes Herméticos Multicolor 300...'
+tags: 
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

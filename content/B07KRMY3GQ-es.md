@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MY2dtL9YL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRMY3GQ-es New Balance 373 Zapatillas Hombre  Azul  Blue Blue   39.5 EU  6 UK '
+slug: 'B07KRMY3GQ-es New Balance 373 Zapatillas Hombre Azul Blue Blue 39.5 EU 6 UK'
+tags: 
 actualPrice: 28.47 EUR
 currency: EUR
 price: 28.47

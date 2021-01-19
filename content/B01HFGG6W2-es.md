@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/516C7bTgrcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HFGG6W2-es Columbia Vapor Vent  Zapatillas de Senderismo para Mujer  Negro  Black  Dark Mirage   41 EU'
+slug: 'B01HFGG6W2-es Columbia Vapor Vent Zapatillas de Senderismo para Mujer...'
+tags: 
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

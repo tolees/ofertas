@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FC7m0fjZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N8YO5OS-es BabyVip - Body para niño y niña  Estilo Abotonado  100% algodón  algodón cálido  Ideal para el Invierno - Rojo - 24-36 Meses'
+slug: 'B01N8YO5OS-es BabyVip - Body para niño y niña Estilo Abotonado 100%...'
+tags: 
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

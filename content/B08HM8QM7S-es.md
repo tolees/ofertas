@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31V68WDWjFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HM8QM7S-es CHS Caja de Almacenamiento de máscara portátil  Caja de Almacenamiento de máscara a Prueba de Polvo y Humedad  Caja de Almacenamiento de máscara Resistente al Agua y a la contaminación  Black '
+slug: 'B08HM8QM7S-es CHS Caja de Almacenamiento de máscara portátil Caja de...'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

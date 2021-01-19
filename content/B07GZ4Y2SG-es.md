@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hQpws1axL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZ4Y2SG-es Tamron T81140 - Objetivo SP 15-30mm F/2.8 Di VC USD G2 para Canon'
+slug: 'B07GZ4Y2SG-es Tamron T81140 - Objetivo SP 15-30mm F/2.8 Di VC USD G2...'
+tags: 
 actualPrice: 1018.36 EUR
 currency: EUR
 price: 1018.36

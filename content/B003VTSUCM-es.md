@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417sYr41uTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003VTSUCM-es Giesswein Villach  Pantuflas Unisex  Gris  35 EU'
+slug: 'B003VTSUCM-es Giesswein Villach Pantuflas Unisex Gris 35 EU'
+tags: 
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LFXB50-es Silverline 245017 - Alicates'
+tags: 
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

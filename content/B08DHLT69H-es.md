@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fo5wlyA+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DHLT69H-es Tesecu luz Nocturna-USB de Carga LED de Inducción del Cuerpo Humano luz Cálida Inteligente luz de Noche Portátil Magnética  Se puede Utilizar en Gabinetes  Habitaciones Infantiles  Dormitorios'
+slug: 'B08DHLT69H-es Tesecu luz Nocturna-USB de Carga LED de Inducción del...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

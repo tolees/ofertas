@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TCYK5qy5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N31JJ5L-es Superga 2750 COTU Classic  Zapatillas Unisex  Gris  Grey Ash 04y   37 EU'
+slug: 'B07N31JJ5L-es Superga 2750 COTU Classic Zapatillas Unisex Gris Grey Ash...'
+tags: 
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

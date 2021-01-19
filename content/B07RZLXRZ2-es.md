@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414ZEDZ7S+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLXRZ2-es New Balance 574v2  Zapatillas para Mujer  Negro  Black SAU   40 EU'
+slug: 'B07RZLXRZ2-es New Balance 574v2 Zapatillas para Mujer Negro Black SAU 40 EU'
+tags: 
 actualPrice: 49.19 EUR
 currency: EUR
 price: 49.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51icXoXSsmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011XCY7TI-es Vengadores: La Era De Ultrón  BD 3D + 2D  [Blu-ray]'
+slug: 'B011XCY7TI-es Vengadores: La Era De Ultrón BD 3D + 2D [Blu-ray]'
+tags: 
 actualPrice: 15.44 EUR
 currency: EUR
 price: 15.44

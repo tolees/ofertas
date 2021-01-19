@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JXbK2yRGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVC931F-es Under Armour  UNDKU Armour Heatgear Sujetador Deportivo  Niñas  Negro  YXL'
+slug: 'B07JVC931F-es Under Armour UNDKU Armour Heatgear Sujetador Deportivo...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

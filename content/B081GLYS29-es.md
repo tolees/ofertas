@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gqCfMRqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081GLYS29-es Purificador de Aire Alergia con Filtro HEPA y Carbón Activado  con Filtración de 4 Capas y Función de Temporizador Aromaterapia  Luz Nocturna y Temporización para Mascotas/Humo/Gérmenes/Polvo'
+slug: 'B081GLYS29-es Purificador de Aire Alergia con Filtro HEPA y Carbón...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

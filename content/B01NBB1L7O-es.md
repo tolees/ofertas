@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I6z0Y4eBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBB1L7O-es Metal Earth- Tren Expresso Hogwarts  Harry Potter Series  Fascinations MMS440 '
+slug: 'B01NBB1L7O-es Metal Earth- Tren Expresso Hogwarts Harry Potter Series...'
+tags: 
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

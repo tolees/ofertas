@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-7FlxNWJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VNM6TW-es Asics Gel-Pulse 9 G-TX T7d9n-3390  Zapatillas de Entrenamiento para Mujer  Morado  Purple T7d9n/3390   37.5 EU'
+slug: 'B071VNM6TW-es Asics Gel-Pulse 9 G-TX T7d9n-3390 Zapatillas de...'
+tags: 
 actualPrice: 61.91 EUR
 currency: EUR
 price: 61.91

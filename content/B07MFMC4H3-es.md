@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ffJg3EmXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFMC4H3-es Funko- VYNL 4" 2-Pack: Kingdom Hearts 3: Sora & Heartless Paquete de 2  Multicolor  Talla única  37017 '
+slug: 'B07MFMC4H3-es Funko- VYNL 4" 2-Pack: Kingdom Hearts 3: Sora & Heartless...'
+tags: 
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uiq-Q5yDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DCDM47L-es TIBEK Licuadora Prensado Frío  Licuadoras Para Verduras y Frutas  extractor de zumos con Función inversa  Slow Juicer Motor Silencioso  Libre de BPA'
+slug: 'B08DCDM47L-es TIBEK Licuadora Prensado Frío Licuadoras Para Verduras y...'
+tags: 
 actualPrice: 43.34 EUR
 currency: EUR
 price: 43.34

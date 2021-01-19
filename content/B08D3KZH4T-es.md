@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G95cqCHSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3KZH4T-es yaoyan Trampa de Red de Pesca portátil Cuenta Luminosa Cobre Spring Shoal Netting Fishnet Tackle Sin Necesidad de Gancho Herramienta de Pesca de Pescado'
+slug: 'B08D3KZH4T-es yaoyan Trampa de Red de Pesca portátil Cuenta Luminosa...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

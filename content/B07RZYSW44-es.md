@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sRySjjplL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZYSW44-es Love MoschinoJc4009pp1aMujerBolsos mochilaRojo  Rosso 10x21x26 centimeters  W x H x L '
+slug: 'B07RZYSW44-es Love MoschinoJc4009pp1aMujerBolsos mochilaRojo Rosso...'
+tags: 
 actualPrice: 117.3 EUR
 currency: EUR
 price: 117.3

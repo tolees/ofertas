@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hmEL8UEQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKKVPCV-es IK Multimedia iKlip 3 - Soporte de micrófono Universal para iPad y tabletas  flexible  resistente  portátil'
+slug: 'B07JKKVPCV-es IK Multimedia iKlip 3 - Soporte de micrófono Universal...'
+tags: 
 actualPrice: 42.97 EUR
 currency: EUR
 price: 42.97

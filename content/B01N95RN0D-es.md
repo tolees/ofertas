@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kJ97cXLcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N95RN0D-es Braun Series 3 3010 BT W&D Afeitadora Eléctrica  Afeitadora Barba 3 en 1 con recortadora de precisión para Hombre  Azul'
+slug: 'B01N95RN0D-es Braun Series 3 3010 BT W&D Afeitadora Eléctrica Afeitadora...'
+tags: 
 actualPrice: 64 EUR
 currency: EUR
 price: 64

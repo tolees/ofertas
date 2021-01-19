@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/617rW8FXF4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0747MF4SY-es Tomshine Clip Cadena de Luces LED  40LEDs 5m Fotoclips Guirnalda de Luces para Decoración de Fotos'
+slug: 'B0747MF4SY-es Tomshine Clip Cadena de Luces LED 40LEDs 5m Fotoclips...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

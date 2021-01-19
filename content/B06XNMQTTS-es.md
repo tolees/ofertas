@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VZ3VB1Q3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XNMQTTS-es Bosch Serie 4 DFT63AC50 - Campana  360 m³/h  Canalizado/Recirculación  E  D  D  68 dB '
+slug: 'B06XNMQTTS-es Bosch Serie 4 DFT63AC50 - Campana 360 m³/h...'
+tags: 
 actualPrice: 75.69 EUR
 currency: EUR
 price: 75.69

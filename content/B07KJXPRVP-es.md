@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BuA4P1SEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJXPRVP-es Guirnalda Luces Exterior  Kenlita Cadena de Luces 15m IP65 Impermeable  16pcs S14 E27 LED Filamento Bombilla Interior Guirnalda Luminosa para Fiesta Boda Jardín Decoración'
+slug: 'B07KJXPRVP-es Guirnalda Luces Exterior Kenlita Cadena de Luces 15m IP65...'
+tags: 
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

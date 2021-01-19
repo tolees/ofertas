@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CU1TGTKZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEVAPSO-es Michael Kors Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable MK8507'
+slug: 'B01HEVAPSO-es Michael Kors Reloj Analogico para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 94.9 EUR
 currency: EUR
 price: 94.9

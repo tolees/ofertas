@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413WuBw8XWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQQP89M-es Msi Infinite s 8rb-015xes - Ordenador de sobremesa  Intel Core i5-8400  8 GB de ram  HDD de 1 TB  nvidia geforce GTX 1050ti  sin Sistema operativo  Negro.'
+slug: 'B07PQQP89M-es Msi Infinite s 8rb-015xes - Ordenador de sobremesa Intel...'
+tags: 
 actualPrice: 599.99 EUR
 currency: EUR
 price: 599.99

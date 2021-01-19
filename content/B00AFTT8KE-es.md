@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v0y9vRtYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AFTT8KE-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES3284'
+slug: 'B00AFTT8KE-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 90.3 EUR
 currency: EUR
 price: 90.3

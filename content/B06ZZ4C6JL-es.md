@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412vi2xthwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZ4C6JL-es UV Luz Lámpara  Ahome Ultravioleta 395nm LED Linterna  Detector de Manchas de Orina  Buscador de Chinches  Perro/Gato Quitamanchas'
+slug: 'B06ZZ4C6JL-es UV Luz Lámpara Ahome Ultravioleta 395nm LED Linterna...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

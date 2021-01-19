@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41V7VxuTqdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KVZV8KX-es Cámara DV180 16MP Mini vídeo Digital con 1 5" TFT Zoom Digital de 8X'
+slug: 'B07KVZV8KX-es Cámara DV180 16MP Mini vídeo Digital con 1 5" TFT Zoom...'
+tags: 
 actualPrice: 17.18 EUR
 currency: EUR
 price: 17.18

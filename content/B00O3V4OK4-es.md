@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41di6O7FWwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O3V4OK4-es JVC HA-S180-B - Auriculares de diadema abiertos  estructura Ring  plegables  10 - 22000 Hz   color negro'
+slug: 'B00O3V4OK4-es JVC HA-S180-B - Auriculares de diadema abiertos estructura...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

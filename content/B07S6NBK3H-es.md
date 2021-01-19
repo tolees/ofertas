@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412ZtgM6XoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NBK3H-es PUMA Nova 2 WN S  Zapatillas Deportivas para Mujer  Rosa  Rosewater White   36 EU'
+slug: 'B07S6NBK3H-es PUMA Nova 2 WN S Zapatillas Deportivas para Mujer Rosa...'
+tags: 
 actualPrice: 44.51 EUR
 currency: EUR
 price: 44.51

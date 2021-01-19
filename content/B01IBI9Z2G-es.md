@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YLId71B9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IBI9Z2G-es JACK & JONES JJIPAUL JJLEATHER BELT NOOS  Cinturón Hombre  Negro  Black   95 cm  Talla del fabricante: 95 '
+slug: 'B01IBI9Z2G-es JACK & JONES JJIPAUL JJLEATHER BELT NOOS Cinturón Hombre...'
+tags: 
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

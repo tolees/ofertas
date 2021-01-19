@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CnhZCOm0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMBN9TJ-es Dockers by Gerli 46bl001-706660  Zapatillas para Hombre  Azul  Navy 660   43 EU'
+slug: 'B07WMBN9TJ-es Dockers by Gerli 46bl001-706660 Zapatillas para Hombre...'
+tags: 
 actualPrice: 21.77 EUR
 currency: EUR
 price: 21.77

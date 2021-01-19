@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lg9tK149L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BWRN8KW-es Homyl 1.44mb 3.5"USB Unidad de Disquete Externa con Interfaz USB Accesorios de Electronico de Consumo'
+slug: 'B07BWRN8KW-es Homyl 1.44mb 3.5"USB Unidad de Disquete Externa con...'
+tags: 
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

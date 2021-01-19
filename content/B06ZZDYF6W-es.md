@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+WB2g6hzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZDYF6W-es Mobiclinic  modelo Alcazaba  Silla de ruedas para minusválidos  premium  manual  plegable  ortopédica  de aluminio  freno en manetas  reposapiés  reposabrazos  color Negro  asiento  ultraligera'
+slug: 'B06ZZDYF6W-es Mobiclinic modelo Alcazaba Silla de ruedas para...'
+tags: 
 actualPrice: 49.18 EUR
 currency: EUR
 price: 49.18

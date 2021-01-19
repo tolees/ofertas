@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416anlzfQkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CPLQ7GI-es Objetivo Olympus M.Zuiko Digital 45 mm F1.8  longitud focal fija rápida  apto para todas las cámaras MFT  modelos Olympus OM-D & PEN  serie G de Panasonic   negro'
+slug: 'B00CPLQ7GI-es Objetivo Olympus M.Zuiko Digital 45 mm F1.8 longitud focal...'
+tags: 
 actualPrice: 197.99 EUR
 currency: EUR
 price: 197.99

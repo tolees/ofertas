@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+CdyLFBmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGLCN8H-es Skechers Equalizer 4.0 SERASA  Zapatillas para Hombre  Marrón Marrón Marrón PU Trim Brn  41 EU'
+slug: 'B07XGLCN8H-es Skechers Equalizer 4.0 SERASA Zapatillas para Hombre...'
+tags: 
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

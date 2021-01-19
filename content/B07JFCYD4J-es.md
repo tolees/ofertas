@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/515IQ0Z-eBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFCYD4J-es towinle 3 m 20 leds luz cadena marroquí LED Luz Blanco Cálido bolas con motivos orientales Plata LED cadena funciona con pilas'
+slug: 'B07JFCYD4J-es towinle 3 m 20 leds luz cadena marroquí LED Luz Blanco...'
+tags: 
 actualPrice: 14.17 EUR
 currency: EUR
 price: 14.17

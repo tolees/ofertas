@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AZ+Zd+IaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A6HV6AE-es MR. SIGA Dual Action Scrubbing Sponge  Pack of 6  Size:17x10x2.3cm'
+slug: 'B01A6HV6AE-es MR. SIGA Dual Action Scrubbing Sponge Pack of 6...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

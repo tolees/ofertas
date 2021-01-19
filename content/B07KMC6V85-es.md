@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51TyscE-K7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMC6V85-es Nike Nk Heritage Bkpk-2.0 AOP Hombre  Black/University Red/University Red  Talla Única'
+slug: 'B07KMC6V85-es Nike Nk Heritage Bkpk-2.0 AOP Hombre Black/University...'
+tags: 
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

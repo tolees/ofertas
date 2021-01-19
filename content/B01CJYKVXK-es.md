@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ymZEI-uwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CJYKVXK-es Casio Reloj Analogico para Hombre de Cuarzo con Correa en Resina MRW-200H-2B2VEF'
+slug: 'B01CJYKVXK-es Casio Reloj Analogico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yXuwaFUtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFYRWK1-es PUMA NRGY Neko Retro Wns  Zapatillas de Running para Mujer  Pastel Parchment White  38 EU'
+slug: 'B07KFYRWK1-es PUMA NRGY Neko Retro Wns Zapatillas de Running para Mujer...'
+tags: 
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

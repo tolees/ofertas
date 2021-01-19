@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-cFjzJMoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JG5T2A8-es Sisley Crema para el cuello  la fórmula enriquecida - 50 ml'
+slug: 'B01JG5T2A8-es Sisley Crema para el cuello la fórmula enriquecida - 50 ml'
+tags: 
 actualPrice: 81.9 EUR
 currency: EUR
 price: 81.9

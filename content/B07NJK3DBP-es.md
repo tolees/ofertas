@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PeA1OGknL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJK3DBP-es Funnyrunstore Herramienta de eliminación de la espinilla Suave silicona Retráctil Poro Limpieza Facial Almohadilla de limpieza Cuidado de la piel Belleza Cepillo facial Cosmetic Pad  azul'
+slug: 'B07NJK3DBP-es Funnyrunstore Herramienta de eliminación de la espinilla...'
+tags: 
 actualPrice: 0.02 EUR
 currency: EUR
 price: 0.02

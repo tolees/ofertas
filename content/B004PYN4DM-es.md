@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51C81jTQ33L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004PYN4DM-es Optimum Nutrition Amino Energy  Naranja - 270g'
+slug: 'B004PYN4DM-es Optimum Nutrition Amino Energy Naranja - 270g'
+tags: 
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

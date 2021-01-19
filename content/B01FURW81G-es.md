@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415WldZFD2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FURW81G-es Colgate 1032-39773  Maximum Protection Pasta Dentífrica  100 ml'
+slug: 'B01FURW81G-es Colgate 1032-39773 Maximum Protection Pasta Dentífrica 100 ml'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

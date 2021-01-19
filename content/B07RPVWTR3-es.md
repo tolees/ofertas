@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IOcheLzjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPVWTR3-es Wahl Detailer Afro - Cortapelos  Negro'
+slug: 'B07RPVWTR3-es Wahl Detailer Afro - Cortapelos Negro'
+tags: 
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

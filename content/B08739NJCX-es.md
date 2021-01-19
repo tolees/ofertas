@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oCkheJ9RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08739NJCX-es Anillo de Luz LED Fotografia de Escritorio  8" Ring Light con Soporte Giratorio de teléfono  Movil Trípode y Wireless Control Remoto  Aro de Luz para Selfie  Maquillaje  Youtube  TIK Tok etc'
+slug: 'B08739NJCX-es Anillo de Luz LED Fotografia de Escritorio 8" Ring Light...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

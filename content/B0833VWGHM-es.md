@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mQSlm9-QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0833VWGHM-es Cudy AX3000 WiFi 6 Adaptador PCIe  Tarjeta WiFi pc  Bluetooth 5.0 PCIe  2402Mbps + 574Mbps  Intel AX200  802.11ax/AC/a/b/g/n  Bluetooth 5.0/4.2/4.0  Windows 10 Solo'
+slug: 'B0833VWGHM-es Cudy AX3000 WiFi 6 Adaptador PCIe Tarjeta WiFi pc...'
+tags: 
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

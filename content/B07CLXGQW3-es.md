@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BL3Z4A5dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLXGQW3-es Adidas Gazelle C  Zapatillas de Deporte Unisex niño  Verde  Aerver/Aerver/Ftwbla 000   30 EU'
+slug: 'B07CLXGQW3-es Adidas Gazelle C Zapatillas de Deporte Unisex niño Verde...'
+tags: 
 actualPrice: 36.41 EUR
 currency: EUR
 price: 36.41

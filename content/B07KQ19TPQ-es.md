@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u84OXkanL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ19TPQ-es MeaMae Care esterilizadora caja ultravioleta con cable USB un equipo profesional de desinfección para teléfonos móviles  ropa  cepillos de dientes y otros artículos pequeños'
+slug: 'B07KQ19TPQ-es MeaMae Care esterilizadora caja ultravioleta con cable USB...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x2l5axfCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016ACESVS-es Palancas de neumáticos Schwalbe  juego de 3 piezas  - Azul'
+slug: 'B016ACESVS-es Palancas de neumáticos Schwalbe juego de 3 piezas - Azul'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

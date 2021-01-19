@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P7hOqWDRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3M7LQZ-es Kipling Distance S Equipaje de Mano  52 cm  30 Liters  Negro  Lively Black '
+slug: 'B07V3M7LQZ-es Kipling Distance S Equipaje de Mano 52 cm 30 Liters Negro...'
+tags: 
 actualPrice: 68.31 EUR
 currency: EUR
 price: 68.31

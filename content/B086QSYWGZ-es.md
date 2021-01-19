@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G4cVMLDoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QSYWGZ-es Fesjoy V-111 Altavoz de computadora Cableado USB Barra Potente Subwoofer estéreo Altavoz de Graves Caja de Sonido Envolvente Compatible with PC Laptop Teléfono Tableta MP3 MP4'
+slug: 'B086QSYWGZ-es Fesjoy V-111 Altavoz de computadora Cableado USB Barra...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BC7mlDH6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5KM7T7-es Funda nórdica estampada  para cama de 105x190/200  Nórdico de 180  '
+slug: 'B07G5KM7T7-es Funda nórdica estampada para cama de 105x190/200 Nórdico...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

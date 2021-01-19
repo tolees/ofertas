@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nD5QREmQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B37TT7C-es Goula- Maxi cosí Jungla  Multicolor  52045 '
+slug: 'B07B37TT7C-es Goula- Maxi cosí Jungla Multicolor 52045'
+tags: 
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

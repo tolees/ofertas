@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RTZ6Y7mCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FB3R1MG-es Viaman Plus - Fórmula Natural Para El Rendimiento Masculino - Disfruta De Relaciones Íntimas Más Duraderas E Intensas  Potencia los Niveles de Testosterona - 800mg 60 Cápsulas Para 1 Mes'
+slug: 'B07FB3R1MG-es Viaman Plus - Fórmula Natural Para El Rendimiento...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

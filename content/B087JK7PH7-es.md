@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31A7DXscpxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JK7PH7-es LNIEGE 1PC plástico 800ml Gel Bolas Carga de Botellas de plástico con Perlas de 7-8m m 10000PCS'
+slug: 'B087JK7PH7-es LNIEGE 1PC plástico 800ml Gel Bolas Carga de Botellas de...'
+tags: 
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

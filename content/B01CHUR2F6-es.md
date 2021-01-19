@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z7cuyHnyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CHUR2F6-es Wilkinson Sword Hydro – Maquinilla de afeitar con 8 recambios'
+slug: 'B01CHUR2F6-es Wilkinson Sword Hydro – Maquinilla de afeitar con 8 recambios'
+tags: 
 actualPrice: 9.66 EUR
 currency: EUR
 price: 9.66

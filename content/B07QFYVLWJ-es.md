@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IYCtWr+UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFYVLWJ-es Emporio Armani Reloj Analógico para Mujer de Cuarzo con Correa en Cuero AR11224'
+slug: 'B07QFYVLWJ-es Emporio Armani Reloj Analógico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 163.44 EUR
 currency: EUR
 price: 163.44

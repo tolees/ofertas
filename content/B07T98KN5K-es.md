@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qLeJqYlxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T98KN5K-es Blusea Piscina Perros y Gatos  Piscina Bañera Plegable PVC Antideslizante y Resistente al Desgaste  Drenaje Lateral en Espiral  Regalo  Adecuado para Interior Exterior'
+slug: 'B07T98KN5K-es Blusea Piscina Perros y Gatos Piscina Bañera Plegable PVC...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

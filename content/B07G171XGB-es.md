@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BVMF2BtwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G171XGB-es Just For Chefs Q2903 Sarten Forjado Inducción Infinity  Cobre  24X4.8Cm'
+slug: 'B07G171XGB-es Just For Chefs Q2903 Sarten Forjado Inducción Infinity...'
+tags: 
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

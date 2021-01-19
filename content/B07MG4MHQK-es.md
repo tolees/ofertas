@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RWG9GRw6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MG4MHQK-es Memoria flash USB 2 en 1 de Escomdp Memorias de animales Unidad de memoria USB pendrive Almacenamiento memoria expandible externa para todos los teléfonos inteligentes  computadoras portátiles  16 GB '
+slug: 'B07MG4MHQK-es Memoria flash USB 2 en 1 de Escomdp Memorias de animales...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

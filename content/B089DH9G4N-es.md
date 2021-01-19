@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513HIZhffAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089DH9G4N-es DEIK Hot&Hot Parrilla Eléctrica de Asar 1400W Parrilla en Minutos  Fácil Limpieza Antiadherente Revestimiento  Superficie 24*19 CM para 2-3 Personas  incluye Espátula y Bandeja de Goteo Extraíble'
+slug: 'B089DH9G4N-es DEIK Hot&Hot Parrilla Eléctrica de Asar 1400W Parrilla en...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

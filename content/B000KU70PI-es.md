@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KU70PI-es Clarins Demaquillant Express Ojos 125 ml'
+tags: 
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xWfyBh7vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081QGSVGT-es Neutrogena Cellular Boost Anti-Edad  Contorno De Ojos Anti-Arrugas Rejuvenecedor con Ácido Hialurónico y Retinol 1 Unidad 15 ml'
+slug: 'B081QGSVGT-es Neutrogena Cellular Boost Anti-Edad Contorno De Ojos Anti-...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

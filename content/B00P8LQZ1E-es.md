@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31L8uMrOlGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P8LQZ1E-es Canterbury - Calcetines/medias de deporte/entrenamiento para hombre/caballero - Medias Rugby/Fútbol/Hockey  Pequeña  S    Blanco '
+slug: 'B00P8LQZ1E-es Canterbury - Calcetines/medias de deporte/entrenamiento...'
+tags: 
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

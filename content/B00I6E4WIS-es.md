@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HCM9JlRQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I6E4WIS-es L Oreal Paris Make-up Designer Polvo Bronceador Glam Bronze La Terra 04 Taormina de L Oreal Paris Make-up Designer'
+slug: 'B00I6E4WIS-es L Oreal Paris Make-up Designer Polvo Bronceador Glam...'
+tags: 
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

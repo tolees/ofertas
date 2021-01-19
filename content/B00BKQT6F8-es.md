@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pmh1-Z2vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKQT6F8-es Daniel Wellington Reloj con Correa de Acero para Hombre 0109DW'
+slug: 'B00BKQT6F8-es Daniel Wellington Reloj con Correa de Acero para Hombre...'
+tags: 
 actualPrice: 69.33 EUR
 currency: EUR
 price: 69.33

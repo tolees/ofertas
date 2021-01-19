@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51fCg7aEUjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L1TZTX7-es Relojes Hombre Relojes Grandes de Pulsera Militares Cronografo Diseñador Luminosos Impermeable Reloj Hombre Deportivos de Acero Inoxidable Plata Analogicos Fecha'
+slug: 'B07L1TZTX7-es Relojes Hombre Relojes Grandes de Pulsera Militares...'
+tags: 
 actualPrice: 26.72 EUR
 currency: EUR
 price: 26.72

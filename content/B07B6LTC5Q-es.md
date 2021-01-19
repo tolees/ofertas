@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416Hpl7-CNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B6LTC5Q-es Marvel Avengers: Infinity War Hero Vision Iron Man AR Experience'
+slug: 'B07B6LTC5Q-es Marvel Avengers: Infinity War Hero Vision Iron Man AR...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

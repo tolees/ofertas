@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SMK14WK-es Nippon Marathon'
+tags: 
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

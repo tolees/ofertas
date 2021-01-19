@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iKMaBGgjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DOHEAK6-es Trango SHANGU IP  Zapatillas de Deporte Exterior Unisex Adulto  Negro  Negro/Naranja 004   44 EU'
+slug: 'B01DOHEAK6-es Trango SHANGU IP Zapatillas de Deporte Exterior Unisex...'
+tags: 
 actualPrice: 57.23 EUR
 currency: EUR
 price: 57.23

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IAG9-5YJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G6DGSB4-es Utensilios barbacoa  Blusmart Juego de utensilios para barbacoa de acero inoxidable kit 5 piezas'
+slug: 'B01G6DGSB4-es Utensilios barbacoa Blusmart Juego de utensilios para...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

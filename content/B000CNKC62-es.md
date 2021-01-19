@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CNKC62-es Cartier Declaration Eau de Toilette Vaporizador 100 ml'
+tags: 
 actualPrice: 43.2 EUR
 currency: EUR
 price: 43.2

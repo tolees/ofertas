@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41s920I2vCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDMKKSX-es Palladium Pampa Sport Cuff Wpr  Botas Clásicas para Hombre  Verde  Olive Night/Beluga J42   43 EU'
+slug: 'B07FDMKKSX-es Palladium Pampa Sport Cuff Wpr Botas Clásicas para Hombre...'
+tags: 
 actualPrice: 71.28 EUR
 currency: EUR
 price: 71.28

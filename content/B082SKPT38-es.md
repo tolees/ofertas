@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OFW-2XSVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SKPT38-es Flamingueo Zapatillas Casa - Zapatillas de Casa para Mujer  Pantuflas Mujer con Forma de Conejo  Zapatillas Acolchadas con Pelo  Zapatillas de Animales  Regalos Originales para Mujer  Rosa  39/40 EU '
+slug: 'B082SKPT38-es Flamingueo Zapatillas Casa - Zapatillas de Casa para Mujer...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5154hTXNrsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4RTWZ3-es Tommy Hilfiger - Honey Lrg Ew  Carteras Mujer  Negro  Black   1x1x1 cm  W x H L '
+slug: 'B07V4RTWZ3-es Tommy Hilfiger - Honey Lrg Ew Carteras Mujer Negro Black...'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

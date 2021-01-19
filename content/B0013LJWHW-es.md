@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mv29MtPdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0013LJWHW-es Dewalt DT2294-QZ Juego de 10 hojas de sierra calar con 5 para madera y 5 para metal'
+slug: 'B0013LJWHW-es Dewalt DT2294-QZ Juego de 10 hojas de sierra calar con 5...'
+tags: 
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

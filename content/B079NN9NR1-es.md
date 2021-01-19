@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aHWyjOBjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NN9NR1-es iMagicBox- Street Edition  Cife Spain 41374 '
+slug: 'B079NN9NR1-es iMagicBox- Street Edition Cife Spain 41374'
+tags: 
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

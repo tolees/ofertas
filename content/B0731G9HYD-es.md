@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ABZaiiSRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0731G9HYD-es modamoda de - cuero italiano de embrague T151 Pequeño Gamuza  Color:camello'
+slug: 'B0731G9HYD-es modamoda de - cuero italiano de embrague T151 Pequeño...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

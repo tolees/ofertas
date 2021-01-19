@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414JoJ9PhJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XP5D48V-es Trust GXT 313 Nero - Auriculares Gaming con micrófono con iluminación  Color Negro'
+slug: 'B06XP5D48V-es Trust GXT 313 Nero - Auriculares Gaming con micrófono con...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

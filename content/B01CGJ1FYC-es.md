@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-xJcAdghL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CGJ1FYC-es Taurus TC 600 Exprimidor 40 W  0.7 litros  0 Decibelios  PU  Naranja  Blanco'
+slug: 'B01CGJ1FYC-es Taurus TC 600 Exprimidor 40 W 0.7 litros 0 Decibelios PU...'
+tags: 
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

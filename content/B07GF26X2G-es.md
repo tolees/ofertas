@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412mMZZ8pYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GF26X2G-es YaYuu Garmin Fenix 3/Fenix 5 x Reloj Banda  Suave Silicona Reloj Accesorio Correa de Repuesto para Smart Garmin Fenix 3/Fenix 3 HR/Fenix 5 x Reloj  Blanco  B  Black + Mignight '
+slug: 'B07GF26X2G-es YaYuu Garmin Fenix 3/Fenix 5 x Reloj Banda Suave Silicona...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

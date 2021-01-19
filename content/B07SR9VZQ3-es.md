@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m7DWQ3beL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SR9VZQ3-es Altavoz inalámbrico  Altavoces LED inalámbricos Bluetooth Barra de Sonido Admite Control de Volumen  Tarjeta TF  Altavoz portátil Recargable de 2000mAh incorporada para computadora. Blanco '
+slug: 'B07SR9VZQ3-es Altavoz inalámbrico Altavoces LED inalámbricos Bluetooth...'
+tags: 
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

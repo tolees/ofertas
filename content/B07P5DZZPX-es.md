@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4174jRUVnNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5DZZPX-es HandFan Ventilador de Mano Mini Ventilador portátil de Mano con Interruptor magnético Batería Recargable/Diseño de Manos Libres/Modo de 3 velocidades para Viajes en casa'
+slug: 'B07P5DZZPX-es HandFan Ventilador de Mano Mini Ventilador portátil de...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

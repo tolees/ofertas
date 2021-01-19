@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IzlErmskL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQKVT8L-es HJ Dispensador de Jabón Automático de Acero Inoxidable  Sensor de Movimiento por Infrarrojos  Base Impermeable  Interruptor Ajustable  para Baño  Cocinas  Hotel  Jabón Líquido  Champú  Loción  etc.'
+slug: 'B07VQKVT8L-es HJ Dispensador de Jabón Automático de Acero Inoxidable...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

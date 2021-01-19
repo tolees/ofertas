@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311V4Ov7RqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083G3LW9R-es Fisen ColorPower Pro - Batería portátil  10000 mAh '
+slug: 'B083G3LW9R-es Fisen ColorPower Pro - Batería portátil 10000 mAh'
+tags: 
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

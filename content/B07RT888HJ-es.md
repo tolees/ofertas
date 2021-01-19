@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vvcu8kA1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT888HJ-es Pepe Jeans Rick suéter  Gris  Light Grey Marl 913   Talla única  Talla del Fabricante: Small  para Hombre'
+slug: 'B07RT888HJ-es Pepe Jeans Rick suéter Gris Light Grey Marl 913 Talla...'
+tags: 
 actualPrice: 31.41 EUR
 currency: EUR
 price: 31.41

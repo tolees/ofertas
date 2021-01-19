@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416xcEO3TFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFZ2L29-es Theefun Máquina de Burbujas automática Dispensador de Burbujas por Corriente o baterías para Uso en Exteriores e Interiores – Consigue Efectos Impresionantes'
+slug: 'B07HFZ2L29-es Theefun Máquina de Burbujas automática Dispensador de...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

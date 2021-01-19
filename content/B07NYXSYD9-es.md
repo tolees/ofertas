@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419-0ttwErL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NYXSYD9-es Cecotec EnergySilence 790 FreshEssence Ionic Nebulizador digital con funci—n ionizador  difusor de aromas y anti-mosquitos  5 aspas  90 W  3 velocidades  Temporizador 12h  Dep—sito 3.1L'
+slug: 'B07NYXSYD9-es Cecotec EnergySilence 790 FreshEssence Ionic Nebulizador...'
+tags: 
 actualPrice: 114.0 EUR
 currency: EUR
 price: 114.0

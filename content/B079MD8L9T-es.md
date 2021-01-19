@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4189Dte2rRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MD8L9T-es Metaltex  Copper- Carro multiuso con ruedas  Dorado  3 Cestos'
+slug: 'B079MD8L9T-es Metaltex Copper- Carro multiuso con ruedas Dorado 3 Cestos'
+tags: 
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

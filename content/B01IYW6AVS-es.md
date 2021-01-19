@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IYW6AVS-es Bolsa reutilizable Squooshi para comida | Pack con 6 animales'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

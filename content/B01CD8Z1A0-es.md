@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4137TrpkHhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CD8Z1A0-es Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15  #300 Golden Beige  30ml'
+slug: 'B01CD8Z1A0-es Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15...'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

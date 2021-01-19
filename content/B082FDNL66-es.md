@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xR6iOHASL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082FDNL66-es 2020 Nueva Cámara para Niños  Cámara de Fotos/Video HD 1080p Cámara Digital para Piños  Pantalla LCD de 2 Pulgadas/Tarjeta 32G  ROSE-18 '
+slug: 'B082FDNL66-es 2020 Nueva Cámara para Niños Cámara de Fotos/Video HD...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

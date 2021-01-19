@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T98G0ryDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVF73SD-es Moleskine - Agenda Semanal de 12 Meses 2020  Tapa Dura y Goma Elástica  Color Negro  Tamaño Pequeño 9 x 14 cm  144 Páginas  AGENDA 12 MOIS '
+slug: 'B07JVF73SD-es Moleskine - Agenda Semanal de 12 Meses 2020 Tapa Dura y...'
+tags: 
 actualPrice: 5.37 EUR
 currency: EUR
 price: 5.37

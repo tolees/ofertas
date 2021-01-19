@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ktQTjhxLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRK35Q8-es 1 par de imán Pierde peso Nueva tecnología Adelgazamiento saludable Adelgazamiento del anillo Etiqueta de silicona Masaje de pies Pies Pérdida Peso Reducir - Blanco'
+slug: 'B07XRK35Q8-es 1 par de imán Pierde peso Nueva tecnología Adelgazamiento...'
+tags: 
 actualPrice: 3.21 EUR
 currency: EUR
 price: 3.21

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LxuEGyvHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHTKSRY-es DC Shoes The Locker 23l-Mochila Mediana para Hombre  Black  1SZ'
+slug: 'B07DHTKSRY-es DC Shoes The Locker 23l-Mochila Mediana para Hombre Black 1SZ'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

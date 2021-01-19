@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hDw-e2QbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KL8VH4E-es INOXIBAR Tapa volteadora de Tortilla  30 cm  Centimeters'
+slug: 'B00KL8VH4E-es INOXIBAR Tapa volteadora de Tortilla 30 cm Centimeters'
+tags: 
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

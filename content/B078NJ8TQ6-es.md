@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qai5GyA6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078NJ8TQ6-es Modeen 40W Lámpara de mesa LED espiral lámpara de escritorio moderna del LED lámpara de cabecera del dormitorio acrílico elegante perfecto para la sala de estar del dormitorio  Silver '
+slug: 'B078NJ8TQ6-es Modeen 40W Lámpara de mesa LED espiral lámpara de...'
+tags: 
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bpyyKu6zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PY17VHR-es B Blesiya Kit de Mantenimiento Piscinas Masaje Jet Boquilla Accesorio Manualidad Vehículo Reparar Bricolaje - 2'
+slug: 'B07PY17VHR-es B Blesiya Kit de Mantenimiento Piscinas Masaje Jet...'
+tags: 
 actualPrice: 51.69 EUR
 currency: EUR
 price: 51.69

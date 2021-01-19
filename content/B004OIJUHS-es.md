@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MQEj5PTIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004OIJUHS-es Mirak - Zapatillas/Zapatos sin Cordones Estilo Marinero Modelo Yachtmaster  Facil Quita y pon - Verano  45 EUR/Azul Marino '
+slug: 'B004OIJUHS-es Mirak - Zapatillas/Zapatos sin Cordones Estilo Marinero...'
+tags: 
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

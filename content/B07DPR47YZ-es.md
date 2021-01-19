@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DPR47YZ-es Overcooked 2'
+tags: 
 actualPrice: 28.35 EUR
 currency: EUR
 price: 28.35

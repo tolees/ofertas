@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aAanz3DkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6XFYLV-es Benq TH550 Video - Proyector  3500 lúmenes ANSI  DLP  1080p  1920x1080   20000:1  16:9  762 - 7620 mm  30 - 300"  '
+slug: 'B07L6XFYLV-es Benq TH550 Video - Proyector 3500 lúmenes ANSI DLP 1080p...'
+tags: 
 actualPrice: 353.0 EUR
 currency: EUR
 price: 353.0

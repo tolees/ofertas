@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oLyeGgnUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HRYF2F1-es Akuoly Juego de Tornillos M.2 SSD para M.2 SSD NVMe Montaje para Placa Base de ASUS  Tornillos SSD M2 Standoffs  22 Piezas'
+slug: 'B08HRYF2F1-es Akuoly Juego de Tornillos M.2 SSD para M.2 SSD NVMe...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

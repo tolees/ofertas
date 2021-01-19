@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BTTLMZK3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000R3QPDG-es Vans Old Skool  Zapatillas Unisex Adulto  Negro  Black/White   39'
+slug: 'B000R3QPDG-es Vans Old Skool Zapatillas Unisex Adulto Negro Black/White 39'
+tags: 
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZvvZ8qRQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007AAC9DE-es Triumph Body Make-Up - Sujetador sin Aros para Mujer  Color Blanco  White   Talla 90B'
+slug: 'B007AAC9DE-es Triumph Body Make-Up - Sujetador sin Aros para Mujer Color...'
+tags: 
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

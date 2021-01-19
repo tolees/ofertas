@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51P0cK1zMRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CNM1EDY-es FREETOO Prensa de ajo Prensa profesional de ajo Práctico Sólido - Fácil limpieza para la cocina'
+slug: 'B01CNM1EDY-es FREETOO Prensa de ajo Prensa profesional de ajo Práctico...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

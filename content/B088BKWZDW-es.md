@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ee+LeuXfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BKWZDW-es OfficeWorld 603XL Cartucho Tinta para Epson 603 Compatible con Expression Home XP-2100 XP-2105 XP-3100 XP-3105 XP-4100 XP-4105 Workforce WF-2810 WF-2830 WF-2835 WF-2850  2 Cian 2 Magenta 2 Amarillo '
+slug: 'B088BKWZDW-es OfficeWorld 603XL Cartucho Tinta para Epson 603 Compatible...'
+tags: 
 actualPrice: 18.88 EUR
 currency: EUR
 price: 18.88

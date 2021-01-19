@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21xflWTPbNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH5T7BB-es AmazonBasics – Auriculares de botón con micrófono  Rosa'
+slug: 'B07HH5T7BB-es AmazonBasics – Auriculares de botón con micrófono Rosa'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

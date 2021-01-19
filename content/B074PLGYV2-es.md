@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sXco47L5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PLGYV2-es fullmark multiusos pegamento  lavable  escuela  oficina  no tóxico  fuerte adhesivo transparente  0.53oz/15 g  20 Count  Jumbo Bulk Pack  apto para niños'
+slug: 'B074PLGYV2-es fullmark multiusos pegamento lavable escuela oficina no...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

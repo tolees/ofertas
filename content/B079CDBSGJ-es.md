@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LohGtFr4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079CDBSGJ-es JACK & JONES Jjepaulos Polo SS Noos  Blanco  White Detail: Slim Fit   X-Large para Hombre'
+slug: 'B079CDBSGJ-es JACK & JONES Jjepaulos Polo SS Noos Blanco White Detail:...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

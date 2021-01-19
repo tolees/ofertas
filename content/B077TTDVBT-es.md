@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jJHgf4XfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TTDVBT-es Reebok Work N Cushion 3.0  Zapatillas para Mujer  Negro  Black 0   37.5 EU'
+slug: 'B077TTDVBT-es Reebok Work N Cushion 3.0 Zapatillas para Mujer Negro...'
+tags: 
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

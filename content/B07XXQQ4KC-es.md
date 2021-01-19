@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61bhf2a+tFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XXQQ4KC-es Cooljoy Agua Dibujo Pintura  Esteras de Agua Doodle  Alfombra de Agua Doodle para Niños  con Libro Magico Agua  9 Plantilla de EVA  5 la Pluma  Materiales de Alta Calidad  no Tóxicos  Reutilizable'
+slug: 'B07XXQQ4KC-es Cooljoy Agua Dibujo Pintura Esteras de Agua Doodle...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Yx3rtM0yL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTYHN25-es TATAFUN Máscaras de Superhéroe Suministros de Fiesta de Superhéroes  Máscaras de Cosplay de Superhéroe con Cuerda Elástica Máscaras de Ojos para Niños Mayores de 3 años 35 Piezas'
+slug: 'B07QTYHN25-es TATAFUN Máscaras de Superhéroe Suministros de Fiesta de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

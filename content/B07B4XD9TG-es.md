@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51xKfcN32jL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4XD9TG-es Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 1513558'
+slug: 'B07B4XD9TG-es Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 143.9 EUR
 currency: EUR
 price: 143.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cx-EIme2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3GD4V2-es Samsung Galaxy Fit e - Smartwatch  color Negro'
+slug: 'B07P3GD4V2-es Samsung Galaxy Fit e - Smartwatch color Negro'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

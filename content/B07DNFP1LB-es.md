@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jz0iIyVwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNFP1LB-es Weider Peanut Butter - 1000 gr. 100% cacahuete triturado. 100% natural. 100% vegano.'
+slug: 'B07DNFP1LB-es Weider Peanut Butter - 1000 gr. 100% cacahuete triturado....'
+tags: 
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

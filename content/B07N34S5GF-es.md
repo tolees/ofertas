@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F-ljHwrmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N34S5GF-es Emporio Armani Reloj Analógico para Hombre de Cuarzo con Correa en Silicona AR11217'
+slug: 'B07N34S5GF-es Emporio Armani Reloj Analógico para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 79.6 EUR
 currency: EUR
 price: 79.6

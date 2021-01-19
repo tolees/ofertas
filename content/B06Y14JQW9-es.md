@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y14JQW9-es Baby Jogger BJ2012299 - Kit de capazo'
+tags: 
 actualPrice: 107.51 EUR
 currency: EUR
 price: 107.51

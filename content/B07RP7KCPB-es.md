@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bj6tsDEyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RP7KCPB-es wirarpa Bragas Mujer Algodón de Cintura Alta Ropa Interior Pack de 5 Talla 48 50'
+slug: 'B07RP7KCPB-es wirarpa Bragas Mujer Algodón de Cintura Alta Ropa Interior...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

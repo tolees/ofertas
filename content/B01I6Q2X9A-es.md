@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510fS5ZA3-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I6Q2X9A-es Casa de perro suave de productos para animales de cama del perro del refugio casa del animal doméstico del gato del perrito lavable  M  Marrón '
+slug: 'B01I6Q2X9A-es Casa de perro suave de productos para animales de cama del...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

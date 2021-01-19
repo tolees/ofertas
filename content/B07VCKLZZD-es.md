@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sX075A0LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCKLZZD-es Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1513726'
+slug: 'B07VCKLZZD-es Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 99.34 EUR
 currency: EUR
 price: 99.34

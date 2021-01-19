@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Wb206PEaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015WJR4FW-es Wenger Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 01-1041-125'
+slug: 'B015WJR4FW-es Wenger Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 72.46 EUR
 currency: EUR
 price: 72.46

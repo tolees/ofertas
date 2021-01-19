@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411KuGAulUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RBNP5VG-es Meinkind Silla de Coche Niños Grupo 1 2 3 Isofix  9-36 kg   Crece con el Niño  Desde los 9 Mes Hasta los 12 Edad de Año Aprox  Normativa ECE R44/4  Negro'
+slug: 'B07RBNP5VG-es Meinkind Silla de Coche Niños Grupo 1 2 3 Isofix 9-36 kg...'
+tags: 
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

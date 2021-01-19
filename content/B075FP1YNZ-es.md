@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xPaMmU8NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FP1YNZ-es Maxmer Lámpara Vintage Colgante Luz Industrial Lámpara de Techo Retro Cocina Comedor Restaurante Color Negro'
+slug: 'B075FP1YNZ-es Maxmer Lámpara Vintage Colgante Luz Industrial Lámpara de...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

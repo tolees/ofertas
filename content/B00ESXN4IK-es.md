@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415PLCW6BjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ESXN4IK-es Generic PB20586 Adaptador de Cable Mini HDMI HDMI Negro - Adaptador para Cable  Mini HDMI  HDMI  Male Connector/Female Connector  Negro '
+slug: 'B00ESXN4IK-es Generic PB20586 Adaptador de Cable Mini HDMI HDMI Negro -...'
+tags: 
 actualPrice: 1.63 EUR
 currency: EUR
 price: 1.63

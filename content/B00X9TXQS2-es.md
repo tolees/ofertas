@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fNmNC+TyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9TXQS2-es Garnier Delial BB Sun Crema Protector Solar con Color Especial Rostro y Escote IP50+ y con Vitamina E - 50 ml'
+slug: 'B00X9TXQS2-es Garnier Delial BB Sun Crema Protector Solar con Color...'
+tags: 
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

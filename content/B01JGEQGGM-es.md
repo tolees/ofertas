@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WJOwl7M3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JGEQGGM-es Foodsaver FFC003X Recipiente para envasar al vacío  700 ml  0.7 litros  0 Decibelios  Plástico  Transparente y verde'
+slug: 'B01JGEQGGM-es Foodsaver FFC003X Recipiente para envasar al vacío 700 ml...'
+tags: 
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41khdYd9MlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BKGJHK-es Oihxse Funda Compatible con Huawei Y5 2018/honor 7s  Carcasa Transparente TPU Silicona Gel Ultra Fina Suave Protección Flexible Lindo Dibujos Anti-rasguños Caso Cubierta  A2 '
+slug: 'B086BKGJHK-es Oihxse Funda Compatible con Huawei Y5 2018/honor 7s...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31t3ghgHBTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9ZEBGW-es NIVEA SUN After Sun Loción Hidratante  1 x 400 ml   loción calmante para el cuidado de la piel tras la exposición al sol  cuidado solar con aloe vera'
+slug: 'B00X9ZEBGW-es NIVEA SUN After Sun Loción Hidratante 1 x 400 ml loción...'
+tags: 
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tCpWHon3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB4Q2VS-es The North Face Edgewood  Botas Chukka para Hombre  Negro  Tnf Black/Tnf White Ky4   47 EU'
+slug: 'B07BB4Q2VS-es The North Face Edgewood Botas Chukka para Hombre Negro Tnf...'
+tags: 
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

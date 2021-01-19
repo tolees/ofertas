@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nGYilDavL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4CPHWW-es AGPTEK Z05 Micrófono de Solapa  Omnidireccional Micrófono de Condensador con 6M Cable para Móvil  PC  Cámara  Grabadora'
+slug: 'B07P4CPHWW-es AGPTEK Z05 Micrófono de Solapa Omnidireccional Micrófono...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

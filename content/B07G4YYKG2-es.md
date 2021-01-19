@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZRWLDDzaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4YYKG2-es Pop! Avengers Infinity War - Figura de Vinilo Bucky Barnes with Weapon'
+slug: 'B07G4YYKG2-es Pop! Avengers Infinity War - Figura de Vinilo Bucky Barnes...'
+tags: 
 actualPrice: 11.38 EUR
 currency: EUR
 price: 11.38

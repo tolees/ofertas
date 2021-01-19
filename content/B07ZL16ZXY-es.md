@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PG3CtSdTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZL16ZXY-es perfk 14-42"LCD LED Soporte Flexible Estante De Hierro para TV Soporte De Pantalla Giratoria para Computadora'
+slug: 'B07ZL16ZXY-es perfk 14-42"LCD LED Soporte Flexible Estante De Hierro...'
+tags: 
 actualPrice: 27.79 EUR
 currency: EUR
 price: 27.79

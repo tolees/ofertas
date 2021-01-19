@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61Z4VFTweuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVHTTVF-es Kipling - Money Keeper  Carteras Mujer  Gris  Chalk Grey   11x7.5x1 cm  B x H T '
+slug: 'B07MVHTTVF-es Kipling - Money Keeper Carteras Mujer Gris Chalk Grey...'
+tags: 
 actualPrice: 9.42 EUR
 currency: EUR
 price: 9.42

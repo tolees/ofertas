@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21bDx7OV+TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JD35YS6-es HUAWEI 55030353 - Cargador inalambrico 10V/4A  conexión Cable Tipo C'
+slug: 'B07JD35YS6-es HUAWEI 55030353 - Cargador inalambrico 10V/4A conexión...'
+tags: 
 actualPrice: 42.23 EUR
 currency: EUR
 price: 42.23

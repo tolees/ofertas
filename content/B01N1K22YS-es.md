@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WeB3k8XEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1K22YS-es New Balance ML373  Zapatillas para Hombre  Rojo  Burgundy/Silver   40.5 EU'
+slug: 'B01N1K22YS-es New Balance ML373 Zapatillas para Hombre Rojo...'
+tags: 
 actualPrice: 47.04 EUR
 currency: EUR
 price: 47.04

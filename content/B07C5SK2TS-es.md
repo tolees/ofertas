@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41npccYtBJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5SK2TS-es IntimaTe WM Heart Set de 2 x Taburetes de Bar Cuadrado y Moderno  Cuero de PU Telesilla con Respaldo Medialuna Altura Ajustable Giratoria para Bar Cocina  Blanco '
+slug: 'B07C5SK2TS-es IntimaTe WM Heart Set de 2 x Taburetes de Bar Cuadrado y...'
+tags: 
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

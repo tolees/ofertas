@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bxVUjFZSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MS93YPV-es Kickers Hobbytwo  Botas Slouch para Mujer   Gris Taupe 123   36 EU'
+slug: 'B07MS93YPV-es Kickers Hobbytwo Botas Slouch para Mujer Gris Taupe 123 36 EU'
+tags: 
 actualPrice: 22.04 EUR
 currency: EUR
 price: 22.04

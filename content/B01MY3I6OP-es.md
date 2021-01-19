@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s5eX41rLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY3I6OP-es Veet Bandas de Cera Fria Depilatoria para Depilación Facial con Manteca de Karité y Bayas de Açaí  Easy Gelwax  Pieles Normales  20 Bandas'
+slug: 'B01MY3I6OP-es Veet Bandas de Cera Fria Depilatoria para Depilación...'
+tags: 
 actualPrice: 4.28 EUR
 currency: EUR
 price: 4.28

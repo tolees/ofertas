@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PLR9v8aPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBLJVCH-es Tommy Hilfiger TJM Reversible Short Bañador  Azul  Black Iris/Multi 002   M para Hombre'
+slug: 'B07LBLJVCH-es Tommy Hilfiger TJM Reversible Short Bañador Azul Black...'
+tags: 
 actualPrice: 26.79 EUR
 currency: EUR
 price: 26.79

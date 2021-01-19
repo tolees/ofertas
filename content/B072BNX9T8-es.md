@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eAR7AUZ0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BNX9T8-es Gigandet Chrono King Reloj Hombres Cronógrafo Analógico Quarzo Plata Negro G28-006'
+slug: 'B072BNX9T8-es Gigandet Chrono King Reloj Hombres Cronógrafo Analógico...'
+tags: 
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

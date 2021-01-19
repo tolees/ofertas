@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316lQxn6OQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0847PKGLR-es FactorLED ¡NOVEDAD! Downlight Panel Superficie LED Circular 20W  Plafón redondo para techo y pared  Placa interior   3000K-4000K-6000K   [Clase de eficiencia energética A++]  Luz Cálida  3000K  '
+slug: 'B0847PKGLR-es FactorLED ¡NOVEDAD! Downlight Panel Superficie LED...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

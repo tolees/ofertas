@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KPdY86E9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHL644J-es Pablosky  Mocasines para niño para Niños  Marrón  24 EU'
+slug: 'B07QHL644J-es Pablosky Mocasines para niño para Niños Marrón 24 EU'
+tags: 
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

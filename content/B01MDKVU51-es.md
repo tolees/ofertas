@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41moSmKthxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MDKVU51-es SSLR Pantalones para Hombre Slim Fit Largos Casuales Negocios a Lunares  W31  Negro '
+slug: 'B01MDKVU51-es SSLR Pantalones para Hombre Slim Fit Largos Casuales...'
+tags: 
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

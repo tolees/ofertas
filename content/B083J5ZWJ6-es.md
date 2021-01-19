@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083J5ZWJ6-es Luces solares de pared para exteriores'
+tags: 
 actualPrice: 18.21 EUR
 currency: EUR
 price: 18.21

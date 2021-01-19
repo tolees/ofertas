@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pK0KWsVgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MDU9QAO-es Skechers You  Zapatillas sin cordones para Mujer  Blanco  Wbk   37 EU'
+slug: 'B01MDU9QAO-es Skechers You Zapatillas sin cordones para Mujer Blanco Wbk...'
+tags: 
 actualPrice: 35.72 EUR
 currency: EUR
 price: 35.72

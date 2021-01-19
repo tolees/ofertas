@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zQx-DR+mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMHY5Q9-es Philips AVENT SCF746/01 vaso de aprendizaje con boquilla - Vasos de aprendizaje con boquilla  0 1 g '
+slug: 'B07TMHY5Q9-es Philips AVENT SCF746/01 vaso de aprendizaje con boquilla -...'
+tags: 
 actualPrice: 8.53 EUR
 currency: EUR
 price: 8.53

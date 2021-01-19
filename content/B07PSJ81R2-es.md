@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kzn084ooL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJ81R2-es Kipling Firefly Up  Mochilas para Mujer  Dorado  Cloud Metal   22x31x14 cm'
+slug: 'B07PSJ81R2-es Kipling Firefly Up Mochilas para Mujer Dorado Cloud Metal...'
+tags: 
 actualPrice: 64.61 EUR
 currency: EUR
 price: 64.61

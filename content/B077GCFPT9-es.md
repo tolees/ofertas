@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419b9iGDEKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077GCFPT9-es Diesel S-Clever Low W  Zapatillas para Mujer  Blanco H1527 H1527  35 EU'
+slug: 'B077GCFPT9-es Diesel S-Clever Low W Zapatillas para Mujer Blanco H1527...'
+tags: 
 actualPrice: 16.68 EUR
 currency: EUR
 price: 16.68

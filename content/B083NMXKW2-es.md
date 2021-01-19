@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YepEqFIUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083NMXKW2-es LoveOlvido Suéter Peine Manual Cepillo de Ropa Bola de Pelo Trimmer Removedor de Pelusa Afeitadora Lana de Cachemir Cepillos de Limpieza del hogar - Azul'
+slug: 'B083NMXKW2-es LoveOlvido Suéter Peine Manual Cepillo de Ropa Bola de...'
+tags: 
 actualPrice: 1.1 EUR
 currency: EUR
 price: 1.1

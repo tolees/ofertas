@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lxs+2veeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L2IFPGS-es Garhe - Mesa Auxiliar Plegable 10Kg 6Alturas 3 Pos.Bandeja 18600'
+slug: 'B00L2IFPGS-es Garhe - Mesa Auxiliar Plegable 10Kg 6Alturas 3 Pos.Bandeja...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

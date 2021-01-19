@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UQX9gCFTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVBQZN6-es FIND - Deep Dusk  Perfilador de labios n.3 + Líquido de labios brillante n.3 '
+slug: 'B07CVBQZN6-es FIND - Deep Dusk Perfilador de labios n.3 + Líquido de...'
+tags: 
 actualPrice: 2.51 EUR
 currency: EUR
 price: 2.51

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LHU3A-t1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJZSQR4-es Sorel Winter Carnival  Botas de Invierno para Mujer  Negro  Black/Stone 011   37 EU'
+slug: 'B07KJZSQR4-es Sorel Winter Carnival Botas de Invierno para Mujer Negro...'
+tags: 
 actualPrice: 19.77 EUR
 currency: EUR
 price: 19.77

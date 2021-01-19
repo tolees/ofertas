@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Pzh5YPDKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBMNYKS-es HD101 2.5"USB 3.0 Disco Duro Externo Extract Box LED Instalación fácil de Alta Velocidad para Windows 98SE / ME / 2000 / XP/Vista'
+slug: 'B07JBMNYKS-es HD101 2.5"USB 3.0 Disco Duro Externo Extract Box LED...'
+tags: 
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

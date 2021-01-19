@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31NXEjvS48L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2BCNQB-es Superdry Superstate Classic Polo  Blanco  Optic 01c   X-Large para Hombre'
+slug: 'B07P2BCNQB-es Superdry Superstate Classic Polo Blanco Optic 01c X-Large...'
+tags: 
 actualPrice: 22.6 EUR
 currency: EUR
 price: 22.6

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mX7K0Cr4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WLVFX8-es Depiladora Facial Mujer Electrica Sin dolor  2 en 1 USB recargable afeitadora portátil Impermeable Luz LED incorporada  para Recortadora de Cabello para Cejas y Cuerpo'
+slug: 'B087WLVFX8-es Depiladora Facial Mujer Electrica Sin dolor 2 en 1 USB...'
+tags: 
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

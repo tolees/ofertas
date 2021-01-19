@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qWmKktBML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFPR4JF-es Sekey 200X 80cm Cortina Magnética de Puerta a Prueba de Mosquito para Puertas de Madera  Puertas de Hierro  Puertas Metálicas  Puertas del Balcón  Puertas de RV  Cierre Magnético Automático  Negro'
+slug: 'B07PFPR4JF-es Sekey 200X 80cm Cortina Magnética de Puerta a Prueba de...'
+tags: 
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

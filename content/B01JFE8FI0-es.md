@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZYX0QqZmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JFE8FI0-es Hugo Boss  The Scent for Her  50 ml'
+slug: 'B01JFE8FI0-es Hugo Boss The Scent for Her 50 ml'
+tags: 
 actualPrice: 49.19 EUR
 currency: EUR
 price: 49.19

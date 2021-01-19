@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41USJJpMJNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003UGVLPY-es Nixon Reloj Unisex de Digital con Correa en Acero Inoxidable Chapado A158-001-00'
+slug: 'B003UGVLPY-es Nixon Reloj Unisex de Digital con Correa en Acero...'
+tags: 
 actualPrice: 72.21 EUR
 currency: EUR
 price: 72.21

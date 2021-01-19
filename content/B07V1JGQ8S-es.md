@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gudLHa+yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1JGQ8S-es Nike Pico 5  TDV   Gymnastics Shoe Unisex-Baby  Black/Black  26 EU'
+slug: 'B07V1JGQ8S-es Nike Pico 5 TDV Gymnastics Shoe Unisex-Baby Black/Black 26 EU'
+tags: 
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XwuYa9U2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M2BRYAT-es Festina Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero F20249/3'
+slug: 'B01M2BRYAT-es Festina Reloj Análogo clásico para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4196PybvsoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ6QWW7-es Espirulina ecológica en Comprimidos Premium Carefood para 100 días | 300 comprimidos de Alga Spirulina Bio Natural | Tratamiento para más de 3 meses | Superalimento calidad Carefood'
+slug: 'B07NJ6QWW7-es Espirulina ecológica en Comprimidos Premium Carefood para...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

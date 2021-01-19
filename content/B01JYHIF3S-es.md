@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KNqYDVk0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JYHIF3S-es Loverly gatos adhesivo decorativo para pared casa de vinilo extraíble papel pintado de salón dormitorio cocina arte imagen PVC Murales de ventana puerta decoración + 3d rana coche adhesivo regalo'
+slug: 'B01JYHIF3S-es Loverly gatos adhesivo decorativo para pared casa de...'
+tags: 
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

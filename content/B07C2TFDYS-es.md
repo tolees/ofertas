@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2TFDYS-es A'
+tags: 
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

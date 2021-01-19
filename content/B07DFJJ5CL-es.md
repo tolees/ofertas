@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n-9kwuMSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFJJ5CL-es LAST LEVEL- Funko Pop: Kingdom Hearts 3: Goofy  Monsters Inc.  Figura  Multicolor  FFK34058 '
+slug: 'B07DFJJ5CL-es LAST LEVEL- Funko Pop: Kingdom Hearts 3: Goofy Monsters...'
+tags: 
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

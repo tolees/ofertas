@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gyeCGEk0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHMTTNR-es ANLAN Electroestimulador Muscular Abdominales  EMS Estimulador  Abdomen/Brazo/Piernas Entrenador Muscular con USB Recargable  6 Modos y 10 Niveles de Intensidad  Hombres/Mujeres '
+slug: 'B07MHMTTNR-es ANLAN Electroestimulador Muscular Abdominales EMS...'
+tags: 
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

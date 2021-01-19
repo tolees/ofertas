@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312+yDevoNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BN7XHPY-es Atkinsons  Desodorante - 200 ml.'
+slug: 'B00BN7XHPY-es Atkinsons Desodorante - 200 ml.'
+tags: 
 actualPrice: 4.39 EUR
 currency: EUR
 price: 4.39

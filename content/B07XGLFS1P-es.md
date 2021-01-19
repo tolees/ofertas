@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YF4tWYwyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGLFS1P-es Skechers GO Run 400 V2  Zapatillas para Hombre  Negro  Textil Negro/Sintético/Borde Gris Bkgy   43.5 EU'
+slug: 'B07XGLFS1P-es Skechers GO Run 400 V2 Zapatillas para Hombre Negro Textil...'
+tags: 
 actualPrice: 33.31 EUR
 currency: EUR
 price: 33.31

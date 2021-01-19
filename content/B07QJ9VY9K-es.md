@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/619ErbdeP4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ9VY9K-es Tatuer Pegatinas Album Fotos Bricolaje Esquinas Adhesivas para Fotos Plantilla Scrapbooking Manualidades Cintas Decorativas'
+slug: 'B07QJ9VY9K-es Tatuer Pegatinas Album Fotos Bricolaje Esquinas Adhesivas...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

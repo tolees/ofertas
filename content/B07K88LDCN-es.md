@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EVXSsRu7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K88LDCN-es AYAMAYA Newsboy Gorra Gatsby Baker Boy Gorra Plana de Tweed Ajustable Shelby Caps para Hombres y Mujeres'
+slug: 'B07K88LDCN-es AYAMAYA Newsboy Gorra Gatsby Baker Boy Gorra Plana de...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

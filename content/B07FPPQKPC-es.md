@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21dMR241crL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPPQKPC-es Zafferano Poldina Lámpara de Mesa LED Recargable  Regulable  Cuerpo de Aluminio  H 38cm  Protección IP54  Adecuada para Uso Exterior/Interior  Enchufe UE - Blanco  2.2 W'
+slug: 'B07FPPQKPC-es Zafferano Poldina Lámpara de Mesa LED Recargable Regulable...'
+tags: 
 actualPrice: 88.0 EUR
 currency: EUR
 price: 88.0

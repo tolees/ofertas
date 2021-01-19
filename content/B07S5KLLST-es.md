@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ePF9GIh+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5KLLST-es Aigostar Mini Sunshine 30MPX - Tostadora de 2 rebanadas  900W  7 niveles de tostado  ranura extra ancha  bandeja recogemigas extraíble  acero inoxidable. Función de recalentar  descongelar.'
+slug: 'B07S5KLLST-es Aigostar Mini Sunshine 30MPX - Tostadora de 2 rebanadas...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

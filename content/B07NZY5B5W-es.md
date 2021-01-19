@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410M3YUPtTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZY5B5W-es Skechers Uno- Stacre  Zapatillas para Hombre  Marfil  Off/White Leather/PU/Mesh/Trim Ofwt   43 EU'
+slug: 'B07NZY5B5W-es Skechers Uno- Stacre Zapatillas para Hombre Marfil...'
+tags: 
 actualPrice: 33.39 EUR
 currency: EUR
 price: 33.39

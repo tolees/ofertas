@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/213nHOBMXcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5PDW23-es MERIGLARE Cepillo De Eléctrico Con Batería De Limpieza Profunda Para Adultos Con Cabezal De Repuesto - Rosado'
+slug: 'B08B5PDW23-es MERIGLARE Cepillo De Eléctrico Con Batería De Limpieza...'
+tags: 
 actualPrice: 10.77 EUR
 currency: EUR
 price: 10.77

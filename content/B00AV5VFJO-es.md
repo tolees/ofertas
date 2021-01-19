@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31c1htX1+iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AV5VFJO-es Nike Lightweight No-Show  Calcetines  Hombre  Blanco  42-46 Pack de 3'
+slug: 'B00AV5VFJO-es Nike Lightweight No-Show Calcetines Hombre Blanco 42-46...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

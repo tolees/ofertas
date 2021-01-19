@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A8mRIcKBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G5MKW1S-es NANOSTAD Estadio Camp NOU LED Edition  FC Barcelona  Puzzle 3D  Producto Oficial Licenciado '
+slug: 'B01G5MKW1S-es NANOSTAD Estadio Camp NOU LED Edition FC Barcelona Puzzle...'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

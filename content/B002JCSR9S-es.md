@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314GwAb4NQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002JCSR9S-es Crocs Crocband Jaunt Women  Mujer Bota  Negro  Black   34-35 EU'
+slug: 'B002JCSR9S-es Crocs Crocband Jaunt Women Mujer Bota Negro Black 34-35 EU'
+tags: 
 actualPrice: 23.33 EUR
 currency: EUR
 price: 23.33

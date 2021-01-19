@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pcEa6t3GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M797QTY-es Clarks Un Larvik Peak  Botas clásicas. para Hombre  Piel Negra Negra  41 EU'
+slug: 'B07M797QTY-es Clarks Un Larvik Peak Botas clásicas. para Hombre Piel...'
+tags: 
 actualPrice: 57.31 EUR
 currency: EUR
 price: 57.31

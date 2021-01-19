@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WLNDT33-es La Ciudad De Las Estrellas: La La Land [Blu-ray]'
+tags: 
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

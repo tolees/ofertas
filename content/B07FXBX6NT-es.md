@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XTd5CL1kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXBX6NT-es Plantronics RIG 500 Pro Headset PC/Win 10 E+A 211223-05 RIG 500 Pro  PC/Juegos  BINAURAL  Diadema  Negro  Oro  ALÁMBRICO  1 3 M'
+slug: 'B07FXBX6NT-es Plantronics RIG 500 Pro Headset PC/Win 10 E+A 211223-05...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

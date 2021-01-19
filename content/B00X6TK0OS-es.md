@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n08cWZBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X6TK0OS-es Phenovo 100pcs 5.5cm Díametro Tarjetas Redondas Decorativas de Papel Etiquetas de Regalo Cuerda Color Marrón'
+slug: 'B00X6TK0OS-es Phenovo 100pcs 5.5cm Díametro Tarjetas Redondas...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

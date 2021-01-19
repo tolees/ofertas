@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Om-X5J1pL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JR9PQ62-es Tommy Hilfiger TJM Tommy Classics Solid Polo  Rojo  Flame Scarlet 667   Small para Hombre'
+slug: 'B07JR9PQ62-es Tommy Hilfiger TJM Tommy Classics Solid Polo Rojo Flame...'
+tags: 
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

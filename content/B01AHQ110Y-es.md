@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oVnIJUtfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AHQ110Y-es TP-Link T1600G-28PS TL-SG2424P  Switch Smart Gigabit PoE+ de 24 Puertos 10/100/1000Mbps con Ranuras SFP JetSteam  Montaje en Rack'
+slug: 'B01AHQ110Y-es TP-Link T1600G-28PS TL-SG2424P Switch Smart Gigabit PoE+...'
+tags: 
 actualPrice: 217.33 EUR
 currency: EUR
 price: 217.33

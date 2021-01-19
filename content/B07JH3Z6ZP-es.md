@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-bjsZscwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH3Z6ZP-es Pepe Jeans Jose Pm701939 suéter   Sailor 580   Medium para Hombre'
+slug: 'B07JH3Z6ZP-es Pepe Jeans Jose Pm701939 suéter Sailor 580 Medium para Hombre'
+tags: 
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AbgdFUlaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FR1TGNZ-es Sellador de Silicona  Bst4U Aplicador de Pegamento y Removedor de Pegamento Esquinas Interiores  Herramienta de Eliminación de Sellador de Múltiples ángulos para Baño  Cocina  Esquina del Piso  10PCS '
+slug: 'B08FR1TGNZ-es Sellador de Silicona Bst4U Aplicador de Pegamento y...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

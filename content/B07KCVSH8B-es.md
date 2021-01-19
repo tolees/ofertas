@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P8SicD0YL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCVSH8B-es Hurley Frame Work PRM tee SS Camisetas  Hombre  iglu  XXL'
+slug: 'B07KCVSH8B-es Hurley Frame Work PRM tee SS Camisetas Hombre iglu XXL'
+tags: 
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

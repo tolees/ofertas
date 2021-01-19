@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zh10zsvsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPDMCG7-es Bose SoundLink Revolve+ - Altavoz portátil con Bluetooth  Color Gris'
+slug: 'B06XPDMCG7-es Bose SoundLink Revolve+ - Altavoz portátil con Bluetooth...'
+tags: 
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

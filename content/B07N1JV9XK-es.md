@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311ehT8jz0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JV9XK-es Clarks Sillian2.0dusk  Botas Slouch para Mujer  Negro Black  35.5 EU'
+slug: 'B07N1JV9XK-es Clarks Sillian2.0dusk Botas Slouch para Mujer Negro Black...'
+tags: 
 actualPrice: 33.24 EUR
 currency: EUR
 price: 33.24

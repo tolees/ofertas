@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4180hQFkpgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S23S2FH-es Viedouce Baberos Bebe Bandanas con 2 Ajustables Botón a Presión 100% Algodón Orgánico Suave & Absorbente Baberos Drool para Niños Niñas  Color-01  9 Packs '
+slug: 'B07S23S2FH-es Viedouce Baberos Bebe Bandanas con 2 Ajustables Botón a...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

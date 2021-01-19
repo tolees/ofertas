@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zatFyoraL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2Y91SS-es GEKER Compresor de Aire Portátil 12V 150 PSI con LED Luz Emergencia Inflador de Neumáticos Digital para Vehículos'
+slug: 'B07D2Y91SS-es GEKER Compresor de Aire Portátil 12V 150 PSI con LED Luz...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

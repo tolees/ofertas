@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wBq-8Z2DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CU54IDM-es LEORX Candy Bottle Gift Box Baby Shower Favors 12pcs  Blue '
+slug: 'B01CU54IDM-es LEORX Candy Bottle Gift Box Baby Shower Favors 12pcs Blue'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

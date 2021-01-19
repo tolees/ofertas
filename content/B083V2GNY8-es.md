@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Od9r8H-BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083V2GNY8-es Buyger 2 en 1 Maletin Medicos Juguete Doctora Enfermeras Accesorios Juego de Imitación para 3+ Años Niños'
+slug: 'B083V2GNY8-es Buyger 2 en 1 Maletin Medicos Juguete Doctora Enfermeras...'
+tags: 
 actualPrice: 25.86 EUR
 currency: EUR
 price: 25.86

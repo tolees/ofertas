@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gVoPrM3lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWVYNBK-es [4-Pack] SPARIN Protector Pantalla Redmi Note 7/Note 8  Cristal Templado Redmi Note 7/Note 8  Vidrio Templado con [Sin Cobertura Toda Pantalla] [Alta Definición] [9H Dureza] [Anti-Huella]'
+slug: 'B07PWVYNBK-es [4-Pack] SPARIN Protector Pantalla Redmi Note 7/Note 8...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

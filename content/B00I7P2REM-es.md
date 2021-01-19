@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GZcukH9UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I7P2REM-es Sunburst Snacks Sunburst cacahuetes tostados y salados mar  no transgénica y no aromatizantes  aditivos ni conservantes  500 g'
+slug: 'B00I7P2REM-es Sunburst Snacks Sunburst cacahuetes tostados y salados mar...'
+tags: 
 actualPrice: 6.78 EUR
 currency: EUR
 price: 6.78

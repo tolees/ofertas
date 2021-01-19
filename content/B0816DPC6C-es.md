@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MzZA9hceL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0816DPC6C-es otumixx Bolsas de Almacenaje al Vacío  6 Unidades  3 * 80x100cm & 3 * 60x80cm  Ahorro Espacio Bolsas Vacio Ropa  Bolsa para Vacío de Ropa para Guardar Ropa  Ropa de Cama  Edredones  Almohadas  Mantas'
+slug: 'B0816DPC6C-es otumixx Bolsas de Almacenaje al Vacío 6 Unidades 3 *...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yoHyCBQeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG93DZQ-es New Balance 574v2 Zapatillas Hombre  Gris  Grey/Blue Grey/Blue   38 EU'
+slug: 'B07KG93DZQ-es New Balance 574v2 Zapatillas Hombre Gris Grey/Blue...'
+tags: 
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

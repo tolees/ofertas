@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mopLZ7-tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0828RF8RM-es ivencase Funda para Samsung Galaxy A71  Ultra Fina Silicona Transparente TPU Carcasa Protector Airbag Anti-Choque Anti-arañazos Case Cover para Samsung Galaxy A71'
+slug: 'B0828RF8RM-es ivencase Funda para Samsung Galaxy A71 Ultra Fina Silicona...'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

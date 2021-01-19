@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d4KH6eBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XV4PLBH-es 3 Piezas Baberos Bebés Impermeables Manga Larga De Dibujos Animados Suave Material Para Niños Niñas 1-3 Años'
+slug: 'B06XV4PLBH-es 3 Piezas Baberos Bebés Impermeables Manga Larga De Dibujos...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

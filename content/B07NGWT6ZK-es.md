@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PoZjClrRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGWT6ZK-es Primigi Gore-Tex Pbz 43660  Botas para Bebés  Ner/Mar.Blurosso 4366000  20 EU'
+slug: 'B07NGWT6ZK-es Primigi Gore-Tex Pbz 43660 Botas para Bebés...'
+tags: 
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

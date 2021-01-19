@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314iXYpVsuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8V9X4Z-es Tommy Hilfiger Wmns Retro Flag Sneaker  Zapatillas para Mujer  Rojo  RWB 020   41 EU'
+slug: 'B07V8V9X4Z-es Tommy Hilfiger Wmns Retro Flag Sneaker Zapatillas para...'
+tags: 
 actualPrice: 32.28 EUR
 currency: EUR
 price: 32.28

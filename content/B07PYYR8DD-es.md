@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pyh34X0sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYR8DD-es Under Armour UA W HOVR Sonic 3  Zapatillas de Running para Mujer  Negro  Black/White/Jet Gray   40.5 EU'
+slug: 'B07PYYR8DD-es Under Armour UA W HOVR Sonic 3 Zapatillas de Running para...'
+tags: 
 actualPrice: 48.45 EUR
 currency: EUR
 price: 48.45

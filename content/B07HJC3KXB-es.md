@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vPFt+jAfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJC3KXB-es Funko- Pop Movie Daniel Craig 007-James Bond Figura Coleccionable  Multicolor  Talla única  35678 '
+slug: 'B07HJC3KXB-es Funko- Pop Movie Daniel Craig 007-James Bond Figura...'
+tags: 
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

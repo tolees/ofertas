@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31LuCj1UljL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8KJJ8J-es Castellanísimos Mocasines de Mujer en Piel Florentic Burdeos con Borlas'
+slug: 'B07H8KJJ8J-es Castellanísimos Mocasines de Mujer en Piel Florentic...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

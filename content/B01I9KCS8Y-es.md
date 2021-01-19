@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SYH3LJWEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I9KCS8Y-es Lancardo Reloj Analógico Cuadrado Movimiento de Cuarzo Original Dial de Números Romanos Pulsera Electrónica Retra con Correa de Cuero Juego de Relojes Casuales para Hombre/Mujer/Pareja Marrón – 2PCS'
+slug: 'B01I9KCS8Y-es Lancardo Reloj Analógico Cuadrado Movimiento de Cuarzo...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

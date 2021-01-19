@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NANB99TvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FC7W32H-es Integral INMSDX128G-100/90V30 Ultimapro Micro SDXC Class 10 UHS-I U3 - microSDXC'
+slug: 'B07FC7W32H-es Integral INMSDX128G-100/90V30 Ultimapro Micro SDXC Class...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

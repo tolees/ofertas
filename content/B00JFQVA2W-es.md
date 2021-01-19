@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LnAULYsRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JFQVA2W-es Cata TN 604 604-Placa Vitrocerámica Tn604 con 4 Zonas High Light  1200 W  Cerámico  Negro'
+slug: 'B00JFQVA2W-es Cata TN 604 604-Placa Vitrocerámica Tn604 con 4 Zonas High...'
+tags: 
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

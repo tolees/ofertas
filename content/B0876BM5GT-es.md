@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31t2kNY+5wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876BM5GT-es Mampara de Protección para mostradores  Policarbonato/Metacrilato Compacto 3-4 mm  Varias medidas  60cm x 40cm '
+slug: 'B0876BM5GT-es Mampara de Protección para mostradores...'
+tags: 
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

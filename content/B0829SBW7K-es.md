@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51M1JgYYGzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829SBW7K-es Longsing Juego Tema Decoración de Fiesta Videojuegos Decoración Videojuegos de 20 Piezas Fiesta Temática para Suministros de Fiesta para Niños y Adultos'
+slug: 'B0829SBW7K-es Longsing Juego Tema Decoración de Fiesta Videojuegos...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

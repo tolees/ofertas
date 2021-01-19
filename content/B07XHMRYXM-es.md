@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eEbEb4VkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHMRYXM-es GUIFIER 12 Piezas Candelabros de Velas en Cristal Soporte para Portavelas para Velas Rojo Moteado LED de té Portavelas 2 67"H Candelita Candelero Rojo para Bodas  Fiestas y decoración del hogar'
+slug: 'B07XHMRYXM-es GUIFIER 12 Piezas Candelabros de Velas en Cristal Soporte...'
+tags: 
 actualPrice: 21.14 EUR
 currency: EUR
 price: 21.14

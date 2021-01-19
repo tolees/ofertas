@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i9qD7hipL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KKJHQLQ-es HP 24o - Monitor Full HD de 24    1920x1080  panel TN  16:9  HMDI  VGA  DVI-D  1 ms  60 Hz  antirreflejo   color negro'
+slug: 'B01KKJHQLQ-es HP 24o - Monitor Full HD de 24 1920x1080 panel TN 16:9...'
+tags: 
 actualPrice: 109.57 EUR
 currency: EUR
 price: 109.57

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415pGCe2izL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FC4EW80-es Contour XT  Glucómetro'
+slug: 'B00FC4EW80-es Contour XT Glucómetro'
+tags: 
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

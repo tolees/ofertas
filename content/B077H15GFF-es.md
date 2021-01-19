@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51eYLK84ZtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077H15GFF-es Chantelle Champs Elysees Balconette  Marfil  Dune 97     Talla del Fabricante: 70D  para Mujer'
+slug: 'B077H15GFF-es Chantelle Champs Elysees Balconette Marfil Dune 97 Talla...'
+tags: 
 actualPrice: 25.18 EUR
 currency: EUR
 price: 25.18

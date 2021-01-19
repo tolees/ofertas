@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NfO5uZ01L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFHS667-es Kalokelvin Fregona Giratoria  Juego de Fregona  Cubo con Ruedas y Fregona de Microfibra Set de Limpieza  Fácil de Escurrir y Limpiar  Color Rojo y Negro '
+slug: 'B07DFHS667-es Kalokelvin Fregona Giratoria Juego de Fregona Cubo con...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

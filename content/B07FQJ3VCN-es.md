@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WqvTMsAKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQJ3VCN-es Rybozen Hub USB 3.0 7-Puertos SuperSpeed 5 Gbps  Hub Aluminio con 5V/4A 20W Alimentacion y Cable USB  para iOS Macbook PC Laptop Windows'
+slug: 'B07FQJ3VCN-es Rybozen Hub USB 3.0 7-Puertos SuperSpeed 5 Gbps Hub...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

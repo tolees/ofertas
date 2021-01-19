@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412-YCnhFgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UHCJOHQ-es Anillo De Boda De La Flor Cojín Almohada Chica Cesta Sorteo Banquete De Boda Blanco De Liga'
+slug: 'B00UHCJOHQ-es Anillo De Boda De La Flor Cojín Almohada Chica Cesta...'
+tags: 
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bbcguz-lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5EPQUZ-es Under Armour UA W Thrill 3  Zapatillas de Running para Mujer  Negro  Black/Rhino Gray/White 001   35.5 EU'
+slug: 'B01N5EPQUZ-es Under Armour UA W Thrill 3 Zapatillas de Running para...'
+tags: 
 actualPrice: 19.32 EUR
 currency: EUR
 price: 19.32

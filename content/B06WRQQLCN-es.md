@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q83HbJr3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WRQQLCN-es Tijeras de Cocina de Alta Resistencia – Galardonadas como las Mejores Tijeras Multiusos  para Pollo  Carnes  Pescado  Aves  Verduras  Hierbas y Barbacoas – Afiladas como un Cuchillo'
+slug: 'B06WRQQLCN-es Tijeras de Cocina de Alta Resistencia – Galardonadas como...'
+tags: 
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TiV8MKqEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMBB1R5-es Merrell Bare Access XTR  Zapatillas Deportivas para Interior para Hombre  Negro  Black   40 EU'
+slug: 'B07KMBB1R5-es Merrell Bare Access XTR Zapatillas Deportivas para...'
+tags: 
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

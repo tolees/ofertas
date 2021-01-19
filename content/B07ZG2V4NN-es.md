@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414PIRMV3zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZG2V4NN-es Oliceydress DS0010 Vestidos de Noche  Negro  Black   XXS'
+slug: 'B07ZG2V4NN-es Oliceydress DS0010 Vestidos de Noche Negro Black XXS'
+tags: 
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

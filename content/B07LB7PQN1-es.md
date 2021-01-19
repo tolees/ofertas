@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jlxa1BNDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LB7PQN1-es adidas Terrex Ax3 GTX W  Zapatillas de Trail Running para Mujer  Gris  Grey/Core Black/Clear Mint 0   42 EU'
+slug: 'B07LB7PQN1-es adidas Terrex Ax3 GTX W Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

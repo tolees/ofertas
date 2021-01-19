@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ide42Zx0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2MB75Z-es LTGEM Funda para WD My Passport Go 500 GB 1 TB Disco Duro sólido Externo  Bolsa de Transporte de Viaje EVA Dura'
+slug: 'B07X2MB75Z-es LTGEM Funda para WD My Passport Go 500 GB 1 TB Disco Duro...'
+tags: 
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

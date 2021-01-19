@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TqOjTpghL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4NXXVR-es OrgaWise Neceser Maquillaje Impermeable de Gran Capacidad con Gancho Colgante  Viaje Camping Cosas Necesarias  Envía un Lindo Neceser Viaje Pequeño'
+slug: 'B07T4NXXVR-es OrgaWise Neceser Maquillaje Impermeable de Gran Capacidad...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

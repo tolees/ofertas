@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xv3z+cH5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S63XDX2-es Charles Wilson Paquete 5 Camisetas Cuello Redondo Lisas  Small  Navy Type 19 '
+slug: 'B07S63XDX2-es Charles Wilson Paquete 5 Camisetas Cuello Redondo Lisas...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416goKO%2BrqL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQQFX78-es Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Rojo Syrah Ebony Red Dahlia  40 2/3 EU'
+slug: 'B07KQQFX78-es Salomon XA Pro 3D GTX Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 94.2 EUR
 currency: EUR
 price: 94.2

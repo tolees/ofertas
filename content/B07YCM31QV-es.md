@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413fX1odpPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCM31QV-es Dye Hair Comb  5 piezas Professional Hair Dying Tool Peluquería Gel Salon Coloring Brush Brush para tintes de cabello y usos de salón'
+slug: 'B07YCM31QV-es Dye Hair Comb 5 piezas Professional Hair Dying Tool...'
+tags: 
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UtGnk16AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007QSAKF4-es Dainese Action Vest Pro Protector  Hombre  Blanco/Negro  S'
+slug: 'B007QSAKF4-es Dainese Action Vest Pro Protector Hombre Blanco/Negro S'
+tags: 
 actualPrice: 73.2 EUR
 currency: EUR
 price: 73.2

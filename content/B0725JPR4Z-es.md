@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wXrxflgmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0725JPR4Z-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Piel ES4274'
+slug: 'B0725JPR4Z-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

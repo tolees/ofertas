@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418SCgh+2kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ARHFJM4-es Conceptronic CSPKBTBASSPARTY 20 W Negro  Rojo - Altavoces portátiles  20 W  100-20000 Hz  80 dB  Inalámbrico y alámbrico  USB Tipo A  Negro  Rojo '
+slug: 'B01ARHFJM4-es Conceptronic CSPKBTBASSPARTY 20 W Negro Rojo - Altavoces...'
+tags: 
 actualPrice: 35.21 EUR
 currency: EUR
 price: 35.21

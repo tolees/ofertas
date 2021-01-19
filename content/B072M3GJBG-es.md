@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OWrZ3vHZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072M3GJBG-es Silver HT 17119 - Adaptador tipo-C GN30H a Ethernet y HUB 5 en 1  color gris oscuro'
+slug: 'B072M3GJBG-es Silver HT 17119 - Adaptador tipo-C GN30H a Ethernet y HUB...'
+tags: 
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

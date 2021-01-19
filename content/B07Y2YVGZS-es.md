@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vImJ0FRnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y2YVGZS-es Dustgo 【Promoción】 Esterilla Yoga Colchoneta de Yoga Antideslizante con Material ecológico TPE con líneas corporales Yoga Mat diseñado para Entrenamiento y Entrenamiento físico'
+slug: 'B07Y2YVGZS-es Dustgo 【Promoción】 Esterilla Yoga Colchoneta de Yoga...'
+tags: 
 actualPrice: 26.71 EUR
 currency: EUR
 price: 26.71

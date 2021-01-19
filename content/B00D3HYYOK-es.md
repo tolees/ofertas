@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D3HYYOK-es Le Dieci Erb Alim 100Tav Esi'
+tags: 
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

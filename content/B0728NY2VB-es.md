@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51203ffnHVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0728NY2VB-es New Balance 574v2 Core Velcro  Entrenadores Unisex Niños  Gris Grey  20 EU'
+slug: 'B0728NY2VB-es New Balance 574v2 Core Velcro Entrenadores Unisex Niños...'
+tags: 
 actualPrice: 33 EUR
 currency: EUR
 price: 33

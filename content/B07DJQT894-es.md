@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+Qsvh6n+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJQT894-es FITTOO Pantalones Deportivos Mujer Yoga Leggings de Alta Cintura Elásticos y Transpirables para Running Fitness490'
+slug: 'B07DJQT894-es FITTOO Pantalones Deportivos Mujer Yoga Leggings de Alta...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

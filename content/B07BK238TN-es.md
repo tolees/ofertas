@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/611tHlZ5SkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BK238TN-es BOSHUN Pintar por Numeros para Adultos Niños Pintura por Números con Pinceles y Pinturas Decoraciones para el Hogar Parque de Flores de Cerezo  16 * 20 Pulgadas  Sin Marco '
+slug: 'B07BK238TN-es BOSHUN Pintar por Numeros para Adultos Niños Pintura por...'
+tags: 
 actualPrice: 8.18 EUR
 currency: EUR
 price: 8.18

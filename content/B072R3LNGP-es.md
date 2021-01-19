@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HvPADRGeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072R3LNGP-es Vibram Fivefingers V-Train  Zapatillas de Deporte para Mujer  Gris  Grey/Black/Aqua Grey/Black/Aqua   43 EU'
+slug: 'B072R3LNGP-es Vibram Fivefingers V-Train Zapatillas de Deporte para...'
+tags: 
 actualPrice: 67.54 EUR
 currency: EUR
 price: 67.54

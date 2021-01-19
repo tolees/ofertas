@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SW5GZwE-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D8YP83Z-es Rimmel London Stay Satin Liquid Lip Colour Barra De Labios  Tono 600 Scrunchie - 21 gr'
+slug: 'B07D8YP83Z-es Rimmel London Stay Satin Liquid Lip Colour Barra De Labios...'
+tags: 
 actualPrice: 3.71 EUR
 currency: EUR
 price: 3.71

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31beGZ0bk-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PWQUDCC-es Lacoste Eau De Lacoste L.12.12 Blanc - Agua de toilette  175 ml'
+slug: 'B00PWQUDCC-es Lacoste Eau De Lacoste L.12.12 Blanc - Agua de toilette...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

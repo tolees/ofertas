@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51K-IIjF8BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7SYS4P-es Charminer Pelota de Juguete al Aire Libre para Perros  Juguete Multifuncional para mordedura de Molar para Mascotas  Juguete de Bola de Perro de Estilo de Ventosa Resistente a la masticación'
+slug: 'B07Z7SYS4P-es Charminer Pelota de Juguete al Aire Libre para Perros...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

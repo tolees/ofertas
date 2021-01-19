@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NRN4fBMQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KL1XSK3-es Safety 1st TIMBA con Cojín  Petrol Blue  - Trona evolutiva de madera color azul  cojín beige  de 6 meses a 10 años  hasta los 30Kg.'
+slug: 'B07KL1XSK3-es Safety 1st TIMBA con Cojín Petrol Blue - Trona evolutiva...'
+tags: 
 actualPrice: 66.93 EUR
 currency: EUR
 price: 66.93

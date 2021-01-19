@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412bUB-2MeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC9B2BH-es Mr. Tronic 30m Cable de Red Ethernet Latiguillo | CAT5e  AWG24  CCA  UTP  RJ45 | Color Gris  30 Metros '
+slug: 'B07NC9B2BH-es Mr. Tronic 30m Cable de Red Ethernet Latiguillo | CAT5e...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

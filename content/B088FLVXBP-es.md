@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Uiusvb37L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FLVXBP-es LNIEGE Clips Chupete Chupete Titular niños Superiores de la Calidad del bebé Chupete Chupete Clip'
+slug: 'B088FLVXBP-es LNIEGE Clips Chupete Chupete Titular niños Superiores de...'
+tags: 
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

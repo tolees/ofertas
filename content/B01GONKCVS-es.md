@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GONKCVS-es Hollister Wave U Edt 100 Vapo'
+tags: 
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

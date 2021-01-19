@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WdC8gbN7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894T4TKW-es Enotepad Gráfico Electrónico Portátil  eWriter Digital Dibujo Colorido 9 Pulgadas LCD Doodle Pad Tableta Gráfica LCD para Niños Rosado'
+slug: 'B0894T4TKW-es Enotepad Gráfico Electrónico Portátil eWriter Digital...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

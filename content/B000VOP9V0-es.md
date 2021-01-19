@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uBhLD9otL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VOP9V0-es Charlie Bleu  Agua Fresca para Mujer con vaporizador  100 ml'
+slug: 'B000VOP9V0-es Charlie Bleu Agua Fresca para Mujer con vaporizador 100 ml'
+tags: 
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

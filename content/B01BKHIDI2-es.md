@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f5bSwvhsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BKHIDI2-es Versa 19500757 Silla acolchada tapizada Bl/Gr Patchwork  73x64x50 cm  Verde'
+slug: 'B01BKHIDI2-es Versa 19500757 Silla acolchada tapizada Bl/Gr Patchwork...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

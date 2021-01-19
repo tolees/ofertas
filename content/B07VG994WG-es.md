@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qBh1rcLcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VG994WG-es Hackett London New Classic Polo  Rojo  238strawberry 238   Small para Hombre'
+slug: 'B07VG994WG-es Hackett London New Classic Polo Rojo 238strawberry 238...'
+tags: 
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

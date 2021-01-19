@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UXCzgD5SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XY7VCVC-es Melissa & Doug- Chef s Kitchen  Color Charcoal  Talla Única  4010 '
+slug: 'B06XY7VCVC-es Melissa & Doug- Chef s Kitchen Color Charcoal Talla Única...'
+tags: 
 actualPrice: 142.58 EUR
 currency: EUR
 price: 142.58

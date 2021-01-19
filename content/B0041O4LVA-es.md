@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WqXajLSoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0041O4LVA-es Lékué - Decomax - Manga pastelera de Silicona 6 boquillas  marrón'
+slug: 'B0041O4LVA-es Lékué - Decomax - Manga pastelera de Silicona 6 boquillas...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

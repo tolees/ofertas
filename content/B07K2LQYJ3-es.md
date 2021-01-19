@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c9SRqJrPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2LQYJ3-es Adidas Falcon Zapatillas de Running Hombre  Negro  Core Black/Shock Yellow/Ftwr White Core Black/Shock Yellow/Ftwr White   43 1/3 EU'
+slug: 'B07K2LQYJ3-es Adidas Falcon Zapatillas de Running Hombre Negro Core...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

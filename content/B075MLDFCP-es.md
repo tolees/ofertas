@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LviHCiG3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MLDFCP-es Tefal A702S885 Intuition Set 4 piezas incluye cazo 16 cm y tapa  cacerola 20/24 cm y tapas  olla 28 cm con tapa  acero inoxidable  marcas medición  tapas cristal  aptas para del horno y lavavajillas'
+slug: 'B075MLDFCP-es Tefal A702S885 Intuition Set 4 piezas incluye cazo 16 cm y...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

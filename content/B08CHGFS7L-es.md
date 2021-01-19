@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31x2Vw3+ChL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CHGFS7L-es GZ Caja De Almacenamiento De Máscara A Prueba De Polvo A Prueba De Agua Caja De Cubierta Facial Desechable  Azul '
+slug: 'B08CHGFS7L-es GZ Caja De Almacenamiento De Máscara A Prueba De Polvo A...'
+tags: 
 actualPrice: 1.84 EUR
 currency: EUR
 price: 1.84

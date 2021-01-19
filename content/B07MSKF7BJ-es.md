@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31T+YKi7ioL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSKF7BJ-es Clarks Tri Solar  Zapatillas para Hombre  Negro  Black Leather Black Leather   42 EU'
+slug: 'B07MSKF7BJ-es Clarks Tri Solar Zapatillas para Hombre Negro Black...'
+tags: 
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

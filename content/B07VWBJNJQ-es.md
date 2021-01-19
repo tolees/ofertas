@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YGvOhlQUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWBJNJQ-es Recambios Cepillo Compatible  Aiemok 16 Cabezales de cepillo incluidos 4 Floss Action  4 Precision Clean  4 3D White y 4 Cross Action  Cabezal de recambio para cepillo de dientes eléctrico'
+slug: 'B07VWBJNJQ-es Recambios Cepillo Compatible Aiemok 16 Cabezales de...'
+tags: 
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

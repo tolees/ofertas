@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IBcr7WDAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR91VFX-es New Balance 624v5  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Black Black/Black   39 EU'
+slug: 'B07KR91VFX-es New Balance 624v5 Zapatillas Deportivas para Interior para...'
+tags: 
 actualPrice: 22.61 EUR
 currency: EUR
 price: 22.61

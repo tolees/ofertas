@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51E7tR9jZ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFDW2RG-es Funko - Figurine Smallfoot - Stonekeeper Pop 10cm - 0889698310079'
+slug: 'B07DFDW2RG-es Funko - Figurine Smallfoot - Stonekeeper Pop 10cm -...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

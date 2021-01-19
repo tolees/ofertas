@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51V0eJK1sWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4GBCPY-es MaiJin Funda para OPPO Realme 5 Pro  6 3 Pulgadas  2 en 1 Híbrida Rugged Armor Case Choque Absorción Protección Dual Layer Bumper Carcasa con Pata de Cabra  Plateado '
+slug: 'B07Z4GBCPY-es MaiJin Funda para OPPO Realme 5 Pro 6 3 Pulgadas 2 en 1...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OlrpEgcPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ816QS-es Under Armour Men s Core Golf Visor Gorras Con Visera De Corte Clásico  Gorra De Hombre Hombre Negro OSFA'
+slug: 'B07CZ816QS-es Under Armour Men s Core Golf Visor Gorras Con Visera De...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

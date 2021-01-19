@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XBXApiy5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ8W35-es Skechers Ingram Streetway  Zapatillas sin Cordones para Hombre  Gris  Black Knitted Mesh Black   39.5 EU'
+slug: 'B07TSQ8W35-es Skechers Ingram Streetway Zapatillas sin Cordones para...'
+tags: 
 actualPrice: 32.51 EUR
 currency: EUR
 price: 32.51

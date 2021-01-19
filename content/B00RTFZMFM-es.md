@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DCIYOJknL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RTFZMFM-es Grohe Eurosmart  - Grifo de bidé con cadena retráctil 1/2"  tecnología Grohe EcoJoy  tamaño S  Ref.32927002 '
+slug: 'B00RTFZMFM-es Grohe Eurosmart - Grifo de bidé con cadena retráctil 1/2"...'
+tags: 
 actualPrice: 70.51 EUR
 currency: EUR
 price: 70.51

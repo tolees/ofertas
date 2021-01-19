@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZQiG8+OiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MM4QM9T-es EECOO 1200W LED Cultivo Interior  Plantas Led Grow Light 120LED  Lámpara de Plantas Espectro Completo Ligero Lampara con IR Rojo Azul  Lampara de Cultivo para Jardín de Interior Greenhouse Hydroponics'
+slug: 'B07MM4QM9T-es EECOO 1200W LED Cultivo Interior Plantas Led Grow Light...'
+tags: 
 actualPrice: 96.69 EUR
 currency: EUR
 price: 96.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qicUkHZtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y3M3FKR-es American Tourister Soundbox Spinner Equipaje de mano M  67 cm 81 L   Negro  Bass Black '
+slug: 'B06Y3M3FKR-es American Tourister Soundbox Spinner Equipaje de mano M 67...'
+tags: 
 actualPrice: 60.38 EUR
 currency: EUR
 price: 60.38

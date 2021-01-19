@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sB0-C+yVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY3PY3Y-es Superdry Core Utility Pant Pantalones  Negro  Black 02a   50  Talla del Fabricante: 31/32  para Hombre'
+slug: 'B07NY3PY3Y-es Superdry Core Utility Pant Pantalones Negro Black 02a 50...'
+tags: 
 actualPrice: 21.39 EUR
 currency: EUR
 price: 21.39

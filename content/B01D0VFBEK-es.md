@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M9AniDDjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D0VFBEK-es Princess 102210 Mini Table Chef  Plancha Pequeña y Cuadrada  Termostato regulable  Alta potencia  28 x 28 cm'
+slug: 'B01D0VFBEK-es Princess 102210 Mini Table Chef Plancha Pequeña y Cuadrada...'
+tags: 
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

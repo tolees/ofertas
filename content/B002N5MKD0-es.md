@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002N5MKD0-es Clarins - Gentle Crema Noche'
+tags: 
 actualPrice: 7.41 EUR
 currency: EUR
 price: 7.41

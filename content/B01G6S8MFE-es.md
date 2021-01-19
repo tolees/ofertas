@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VzaBchZ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G6S8MFE-es Amzdeal Softbox 50 x 70 cm Kit de lluminación Ventana de luz para fotográfico  Lluminación Continua Estudio Fotografía - 1x 135W Bombilla+ 1x Softbox + 1x Trípode Montaje Universal + Bolsa de Tela versión'
+slug: 'B01G6S8MFE-es Amzdeal Softbox 50 x 70 cm Kit de lluminación Ventana de...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

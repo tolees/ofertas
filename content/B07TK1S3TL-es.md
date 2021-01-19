@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CS+Eub1EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TK1S3TL-es Durex Vibrador Intense Orgasmic Pure Fantasy + Lubricante Perfect Connection base silicona 50ml'
+slug: 'B07TK1S3TL-es Durex Vibrador Intense Orgasmic Pure Fantasy + Lubricante...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

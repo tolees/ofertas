@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4138TG+5uRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087D3KKJ7-es PM 2.5 Filter Replacement for Bandana  Activated Carbon Protective Filter 5 Layers Anti Haze Filters Replaceable  100 Children '
+slug: 'B087D3KKJ7-es PM 2.5 Filter Replacement for Bandana Activated Carbon...'
+tags: 
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

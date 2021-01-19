@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QuB1posVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N8RC0MG-es Funko Pop!-Son of Zorn: Business  Color Blanco  100g  12297 '
+slug: 'B01N8RC0MG-es Funko Pop!-Son of Zorn: Business Color Blanco 100g 12297'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vqZwfVnbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LF9RKQC-es Brabantia 380020 - Pincel de repostería Grande  Acero y Silicona  Color Gris y Negro'
+slug: 'B00LF9RKQC-es Brabantia 380020 - Pincel de repostería Grande Acero y...'
+tags: 
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

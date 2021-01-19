@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vx1luynpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9D8YDC-es adidas RUN80S  Zapatillas para Hombre  Gris  Grey/Grey/Hi-Res Aqua 0   44 2/3 EU'
+slug: 'B07D9D8YDC-es adidas RUN80S Zapatillas para Hombre Gris Grey/Grey/Hi-Res...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

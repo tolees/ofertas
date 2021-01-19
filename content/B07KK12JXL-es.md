@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zVeNlWk+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK12JXL-es 10 Unids Lavado Facial Soplo Limpiador de Cara Esponjas de Limpieza y Cuidado de Piel - Amarillo'
+slug: 'B07KK12JXL-es 10 Unids Lavado Facial Soplo Limpiador de Cara Esponjas de...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

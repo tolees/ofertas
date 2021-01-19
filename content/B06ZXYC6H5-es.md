@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DuOJoDrLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZXYC6H5-es Mercer Culinary Cuchara chapada en acero inoxidable  acero inoxidable'
+slug: 'B06ZXYC6H5-es Mercer Culinary Cuchara chapada en acero inoxidable acero...'
+tags: 
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W9JXK4G-es AMD RYZEN 7 1800X 16 MB 4.0GHz Octa Core AMD'
+tags: 
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vntwtt4ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083YQP8G7-es Panamami Borradores y fichas de ajedrez de Madera Natural y Pieza de ajedrez de Backgammon para niños Aprendizaje de Juegos de Mesa Camping-Wood & Black'
+slug: 'B083YQP8G7-es Panamami Borradores y fichas de ajedrez de Madera Natural...'
+tags: 
 actualPrice: 3.62 EUR
 currency: EUR
 price: 3.62

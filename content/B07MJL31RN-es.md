@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o7CsvHSfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJL31RN-es Adidas Fortagym CF Jr  Zapatillas de Competición Unisex Niños  Multicolor  Magrea/Ftwbla/Semcor 000   35 EU'
+slug: 'B07MJL31RN-es Adidas Fortagym CF Jr Zapatillas de Competición Unisex...'
+tags: 
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

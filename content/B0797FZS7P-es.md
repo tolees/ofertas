@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51F-K-TkEWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797FZS7P-es Chicos- Futbolín Strategic Champion 2018  72458 '
+slug: 'B0797FZS7P-es Chicos- Futbolín Strategic Champion 2018 72458'
+tags: 
 actualPrice: 41.97 EUR
 currency: EUR
 price: 41.97

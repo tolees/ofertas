@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zl8ppmM4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W53Q5DD-es Alfombras de Playa Manta de Picnic para Playa - Alfombrilla de Playa Impermeable Anti arena de 210x200 cm con 4 estacas fijas  Manta de Picnic para Playa  Picnic  Senderismo  Camping y más'
+slug: 'B07W53Q5DD-es Alfombras de Playa Manta de Picnic para Playa -...'
+tags: 
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

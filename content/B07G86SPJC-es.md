@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xhWzDyefL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G86SPJC-es TRESemmé Champú Botanique Coco  Negro -700 ml'
+slug: 'B07G86SPJC-es TRESemmé Champú Botanique Coco Negro -700 ml'
+tags: 
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

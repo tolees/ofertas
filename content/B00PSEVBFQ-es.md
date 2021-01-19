@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PSEVBFQ-es Adaptador de candado para el Mac Pro de Apple'
+tags: 
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415+PK5iWtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KKCFLQ-es Xnuoyo Cepillo de Limpieza Facial Set Completo de Spa Facial Cepillo Facial al Agua con 5 Cabezas de Cepillo Exfoliante para Exfoliación Suave y Limpieza Profunda'
+slug: 'B082KKCFLQ-es Xnuoyo Cepillo de Limpieza Facial Set Completo de Spa...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

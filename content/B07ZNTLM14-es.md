@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ciaAkPh2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNTLM14-es Hurley M Phtm Block Party 18  Bañador  Hombre  Iron Grey  36'
+slug: 'B07ZNTLM14-es Hurley M Phtm Block Party 18 Bañador Hombre Iron Grey 36'
+tags: 
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

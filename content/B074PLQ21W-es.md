@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oS5BuDxKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PLQ21W-es Epson WFDS410 - Escáner de Documentos en Color A4  Capacidad de USB  Blanco y Negro'
+slug: 'B074PLQ21W-es Epson WFDS410 - Escáner de Documentos en Color A4...'
+tags: 
 actualPrice: 288.86 EUR
 currency: EUR
 price: 288.86

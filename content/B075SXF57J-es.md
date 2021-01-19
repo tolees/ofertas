@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TsCrYZNBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075SXF57J-es Rhodesy Funda Impermeable de Coche para Perros con Solapas Laterales y Cremalleras - Resistente al Agua y antideslizamiento y Prueba de rasguño'
+slug: 'B075SXF57J-es Rhodesy Funda Impermeable de Coche para Perros con Solapas...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

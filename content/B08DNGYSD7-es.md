@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61o2SCBydiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNGYSD7-es Leaum Galaxy A5 2017 - Funda de piel con función atril para Samsung Galaxy A5 2017  color verde'
+slug: 'B08DNGYSD7-es Leaum Galaxy A5 2017 - Funda de piel con función atril...'
+tags: 
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

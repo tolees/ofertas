@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DYgcTdlwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q5YQJH3-es Superdry Keystone Crew suéter  Azul  Tuscan Blue Twist 1sl   Small para Hombre'
+slug: 'B07Q5YQJH3-es Superdry Keystone Crew suéter Azul Tuscan Blue Twist 1sl...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

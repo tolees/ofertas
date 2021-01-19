@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BLu5QynQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z53BQXW-es Ropa de cama impresa  microfibra suave y transpirable Ropa de cama impresa Funda de edredón Funda de almohada Funda nórdica  patrón de plumas  paquete King: pillowcase 51*92*2 quilt cover 264*228 '
+slug: 'B07Z53BQXW-es Ropa de cama impresa microfibra suave y transpirable Ropa...'
+tags: 
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

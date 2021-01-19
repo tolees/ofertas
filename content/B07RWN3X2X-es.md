@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PnlK-U7IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWN3X2X-es American Tourister Matchup Equipaje de Mano  55 centimetros  42 l  Azul  City Map Blue '
+slug: 'B07RWN3X2X-es American Tourister Matchup Equipaje de Mano 55 centimetros...'
+tags: 
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

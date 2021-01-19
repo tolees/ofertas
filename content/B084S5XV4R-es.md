@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4111GpW0Z3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084S5XV4R-es Lam Hub Fong Pulsera Mujer Pulsera con Nombre Personalizado Pulsera Acero Inoxidable Mujer Pulsera Amistad Mujer  Dorado '
+slug: 'B084S5XV4R-es Lam Hub Fong Pulsera Mujer Pulsera con Nombre...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PxfOIa3JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PN6CGLC-es Bourjois  Velvet the Pencil  Barra de labios Tono 06  3g'
+slug: 'B07PN6CGLC-es Bourjois Velvet the Pencil Barra de labios Tono 06 3g'
+tags: 
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

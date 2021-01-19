@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4188qEVkaKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZBSKXQ-es 2x200ML Comedero para Perros y Gatode Acero Inoxidable 2 Cuencos Comedero para Mascotas con Base de Silicona Antideslizante Pon Comida y Agua Negro '
+slug: 'B08CZBSKXQ-es 2x200ML Comedero para Perros y Gatode Acero Inoxidable 2...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41li7odHsCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR9SW1C-es Clarks Blake Jewel  Sandalia con Pulsera para Mujer  Marrón  Tan-   37 EU'
+slug: 'B07FR9SW1C-es Clarks Blake Jewel Sandalia con Pulsera para Mujer Marrón...'
+tags: 
 actualPrice: 37.44 EUR
 currency: EUR
 price: 37.44

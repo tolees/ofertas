@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qps2RpGTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0852Y9MYS-es TPU Soft Cover Gel Skin Case Accesorios para teléfono Celular para LG Optimus P760 Exquisitamente diseñado Durable-Blanco'
+slug: 'B0852Y9MYS-es TPU Soft Cover Gel Skin Case Accesorios para teléfono...'
+tags: 
 actualPrice: 1.05 EUR
 currency: EUR
 price: 1.05

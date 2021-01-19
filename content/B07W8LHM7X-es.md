@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51T+KoObu1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8LHM7X-es Dc Colección 7 Películas  2019  Blu-Ray [Blu-ray]'
+slug: 'B07W8LHM7X-es Dc Colección 7 Películas 2019 Blu-Ray [Blu-ray]'
+tags: 
 actualPrice: 35.4 EUR
 currency: EUR
 price: 35.4

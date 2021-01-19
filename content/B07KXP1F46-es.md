@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cuW1-VF7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXP1F46-es Mini vaporizador facial de la niebla del aerosol nano del recorrido de la oficina - rosa'
+slug: 'B07KXP1F46-es Mini vaporizador facial de la niebla del aerosol nano del...'
+tags: 
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

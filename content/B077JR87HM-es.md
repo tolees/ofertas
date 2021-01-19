@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hZtm8It4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077JR87HM-es Makita DTD152Z - Destornillador de impacto inalámbrico LXT de 18 V con 1 batería de 4 0 Ah y cargador'
+slug: 'B077JR87HM-es Makita DTD152Z - Destornillador de impacto inalámbrico LXT...'
+tags: 
 actualPrice: 95.56 EUR
 currency: EUR
 price: 95.56

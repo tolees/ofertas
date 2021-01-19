@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ec4JfVKlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKJRGL4-es Under Armour UA W Charged Escape 3  Zapatillas de Running para Mujer  Rosa  Pink Fog/Halo Gray/Pink Fog  602  602   40 EU'
+slug: 'B07HKJRGL4-es Under Armour UA W Charged Escape 3 Zapatillas de Running...'
+tags: 
 actualPrice: 53.27 EUR
 currency: EUR
 price: 53.27

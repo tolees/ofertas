@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312RgT7gZqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBY1P6Q-es Rimmel Super Gel Esmalte de Uñas  30g  Pack de 1'
+slug: 'B07WBY1P6Q-es Rimmel Super Gel Esmalte de Uñas 30g Pack de 1'
+tags: 
 actualPrice: 2.63 EUR
 currency: EUR
 price: 2.63

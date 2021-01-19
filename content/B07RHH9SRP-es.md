@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ckrmLyJFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHH9SRP-es Funme USB Mini Ventilador de Escritorio Ventilador Silencioso de Dos Táctil Ventilador para Hogar Oficina - Negro'
+slug: 'B07RHH9SRP-es Funme USB Mini Ventilador de Escritorio Ventilador...'
+tags: 
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LBIzbPtGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PCJ849B-es Memoria USB 2GB 2.0  KOOTION Flash Drive USB Pendrives  Pack de 10 Unidades  Pen Drive Pen USB Stick  Negro y Plata'
+slug: 'B07PCJ849B-es Memoria USB 2GB 2.0 KOOTION Flash Drive USB Pendrives Pack...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

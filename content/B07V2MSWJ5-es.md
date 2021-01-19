@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lqAIuJ3PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2MSWJ5-es Tommy Hilfiger - Elevated Nylon Slingpack  Mochilas Hombre  Azul  Sky Captain   1x1x1 cm  W x H L '
+slug: 'B07V2MSWJ5-es Tommy Hilfiger - Elevated Nylon Slingpack Mochilas Hombre...'
+tags: 
 actualPrice: 64.53 EUR
 currency: EUR
 price: 64.53

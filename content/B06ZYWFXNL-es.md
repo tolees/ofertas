@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fwka3uhVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYWFXNL-es Speedo Teamster 35L Mochilas y Bolsas  Unisex Adulto  navy/red/white  M'
+slug: 'B06ZYWFXNL-es Speedo Teamster 35L Mochilas y Bolsas Unisex Adulto...'
+tags: 
 actualPrice: 40.37 EUR
 currency: EUR
 price: 40.37

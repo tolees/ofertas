@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gVLBLrIeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HF5C4SB-es Fiambreras de Plástico Nuobk 5 Piezas Contenedores Plástico para Comida con Tapas Smart Lock Conjunto apilable de 5 piezas aptas para Microondas  Congelador y Lavavajillas'
+slug: 'B07HF5C4SB-es Fiambreras de Plástico Nuobk 5 Piezas Contenedores...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

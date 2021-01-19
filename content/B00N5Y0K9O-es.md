@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41agcmjP8jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N5Y0K9O-es Compactor Bolsa para la Colada  Marinero  Polipropileno  Diámetro 35 x H.70 cm  RAN5300  Non Woven 75Gm  Blanco/Azul  35 cm'
+slug: 'B00N5Y0K9O-es Compactor Bolsa para la Colada Marinero Polipropileno...'
+tags: 
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

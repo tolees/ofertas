@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410Ufe9tR8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011UMD60M-es CABLEDECONN Mini Displayport  Puerto Thunderbolt Compatible  a HDMI/DVI/VGA Macho a Hembra 3-en-1 Cable Adaptador Conventor para Mac  iMac  Mac Book Air  Mac Book Pro  White '
+slug: 'B011UMD60M-es CABLEDECONN Mini Displayport Puerto Thunderbolt Compatible...'
+tags: 
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

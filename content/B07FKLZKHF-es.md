@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z0GO-4y6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKLZKHF-es Rubies- Disfraz Scream Ad  Multicolor  Talla única  S8364 '
+slug: 'B07FKLZKHF-es Rubies- Disfraz Scream Ad Multicolor Talla única S8364'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

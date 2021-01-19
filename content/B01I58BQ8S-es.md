@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HGwSgMExL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I58BQ8S-es Silver HT Messenger - Bolsa para Laptop de hasta 15"  Color Verde'
+slug: 'B01I58BQ8S-es Silver HT Messenger - Bolsa para Laptop de hasta 15" Color...'
+tags: 
 actualPrice: 26.44 EUR
 currency: EUR
 price: 26.44

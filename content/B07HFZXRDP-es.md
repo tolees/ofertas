@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319L64AiyEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFZXRDP-es New Balance 420  Zapatillas para Mujer  Negro  Black Black   35 EU'
+slug: 'B07HFZXRDP-es New Balance 420 Zapatillas para Mujer Negro Black Black 35 EU'
+tags: 
 actualPrice: 42.3 EUR
 currency: EUR
 price: 42.3

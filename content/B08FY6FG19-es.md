@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v+tPpYUqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FY6FG19-es XINFULUK Cable USB 2.0 Am-TO-BM de Alta Velocidad  Cable A a B Largo  Negro  blindado  impresoras compatibles  escáneres  Disco Duro  transmisión Estable  Negro  1 5 m'
+slug: 'B08FY6FG19-es XINFULUK Cable USB 2.0 Am-TO-BM de Alta Velocidad Cable A...'
+tags: 
 actualPrice: 1.66 EUR
 currency: EUR
 price: 1.66

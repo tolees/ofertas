@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QkF8MRabL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNJTQF5-es Desigual Blus Venecia  Rojo  Borgoña 3007   Medium para Mujer'
+slug: 'B07WNJTQF5-es Desigual Blus Venecia Rojo Borgoña 3007 Medium para Mujer'
+tags: 
 actualPrice: 20.92 EUR
 currency: EUR
 price: 20.92

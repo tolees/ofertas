@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FGUeujvUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3PVDB8-es Gliss - Mascarilla Ultimate Repair para Cabellos Muy Dañados - 2 uds de 300ml - Schwarzkopf'
+slug: 'B07N3PVDB8-es Gliss - Mascarilla Ultimate Repair para Cabellos Muy...'
+tags: 
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

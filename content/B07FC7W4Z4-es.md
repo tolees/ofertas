@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41n3p5CwkZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FC7W4Z4-es HUION Kamvas Pro 13 HD 13.3 in Tableta Monitor con función de inclinación Pluma sin batería con 8192 sensibilidad a la presión y 4 Express Keys 1 Touch Bars Tableta gráfica con Pantalla'
+slug: 'B07FC7W4Z4-es HUION Kamvas Pro 13 HD 13.3 in Tableta Monitor con función...'
+tags: 
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

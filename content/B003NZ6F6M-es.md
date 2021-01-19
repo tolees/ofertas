@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516eWfD9x7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003NZ6F6M-es DiMarzio EP1104 - Selector de pastilla para guitarra  5 posiciones'
+slug: 'B003NZ6F6M-es DiMarzio EP1104 - Selector de pastilla para guitarra 5...'
+tags: 
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518eE6dOm5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFJJ5FZ-es SUMMONERS War - Pop Paladin Light  Jeanne '
+slug: 'B07DFJJ5FZ-es SUMMONERS War - Pop Paladin Light Jeanne'
+tags: 
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

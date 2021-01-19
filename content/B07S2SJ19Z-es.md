@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wNboNT1mL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2SJ19Z-es Asics Gel-Bondi  Zapatillas de Running para Hombre  Negro  Black/Black 001   46.5 EU'
+slug: 'B07S2SJ19Z-es Asics Gel-Bondi Zapatillas de Running para Hombre Negro...'
+tags: 
 actualPrice: 34.68 EUR
 currency: EUR
 price: 34.68

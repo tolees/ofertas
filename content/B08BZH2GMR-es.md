@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41smhtSzQ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZH2GMR-es 4Pcs / Vtc6 3.7V 2500Mah Batería recargable de iones de litio 18650 para Sony Us18650 C6 30A Herramienta de cigarrillo electrónico + Cargador 18650 - Púrpura'
+slug: 'B08BZH2GMR-es 4Pcs / Vtc6 3.7V 2500Mah Batería recargable de iones de...'
+tags: 
 actualPrice: 20.09 EUR
 currency: EUR
 price: 20.09

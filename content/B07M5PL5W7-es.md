@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KTSSDa1uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5PL5W7-es StarBlue Churrera Máquina para Hacer Churros Fácil Herramienta para Hacer Churros en 8 Formas Diferentes'
+slug: 'B07M5PL5W7-es StarBlue Churrera Máquina para Hacer Churros Fácil...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

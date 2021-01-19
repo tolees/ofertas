@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFG4KTM-es Intex 57266EU - Unicornio Hinchable Gigante'
+tags: 
 actualPrice: 137.95 EUR
 currency: EUR
 price: 137.95

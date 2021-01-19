@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JqD8cIdcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3X2DN9-es New Balance FuelCell Propel  Zapatillas de Running para Hombre  Multicolor  Neo CT   47.5 EU'
+slug: 'B07S3X2DN9-es New Balance FuelCell Propel Zapatillas de Running para...'
+tags: 
 actualPrice: 83.49 EUR
 currency: EUR
 price: 83.49

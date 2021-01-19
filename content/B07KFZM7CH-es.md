@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YIn7EyxWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZM7CH-es PUMA Hybrid Astro Wns  Zapatillas de Running para Mujer  Black-Pink Alert  40 EU'
+slug: 'B07KFZM7CH-es PUMA Hybrid Astro Wns Zapatillas de Running para Mujer...'
+tags: 
 actualPrice: 53.83 EUR
 currency: EUR
 price: 53.83

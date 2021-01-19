@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TOAG45HxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2QNLD6-es New Balance Draft  Zapatillas para Correr de Carretera para Hombre  Negro  Black Lk1   40 EU'
+slug: 'B07S2QNLD6-es New Balance Draft Zapatillas para Correr de Carretera para...'
+tags: 
 actualPrice: 28.32 EUR
 currency: EUR
 price: 28.32

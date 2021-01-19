@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0168UDHO6-es El Mentalista Temporada 1-7 [DVD]'
+tags: 
 actualPrice: 55.43 EUR
 currency: EUR
 price: 55.43

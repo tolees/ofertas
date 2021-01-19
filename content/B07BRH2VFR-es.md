@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VxrqI-xML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRH2VFR-es TACKLIFE Pistola de Riego  Pistola de Agua para Manguera de Jardín  de Material ABS  10 Modos Diferentes para Pulverizar  Caudal de Agua Regulable  Anillo de Metal para Fijar el Caudal - GHN1A'
+slug: 'B07BRH2VFR-es TACKLIFE Pistola de Riego Pistola de Agua para Manguera de...'
+tags: 
 actualPrice: 8.76 EUR
 currency: EUR
 price: 8.76

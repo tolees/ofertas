@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z5NyulUML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC3XSQC-es Taladro Atornillador 2 Baterías  GOXAWEE 100Pcs Kit Taladro Bateria/Destornillador Eléctrico  2 Baterías de Litio 1500mAh  30N.m Par Máx  2 Velocidades  10mm Portabrocas Automático '
+slug: 'B07MC3XSQC-es Taladro Atornillador 2 Baterías GOXAWEE 100Pcs Kit Taladro...'
+tags: 
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

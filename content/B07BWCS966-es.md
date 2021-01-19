@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416RSeu145L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BWCS966-es Detector de Voltaje sin Contacto  Meterk 12V-1000V Detector De Tension  Electrico Comprobador De Tensión con Linterna LED Juicio de Cable vivo / nulo Modo de Alarma'
+slug: 'B07BWCS966-es Detector de Voltaje sin Contacto Meterk 12V-1000V Detector...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

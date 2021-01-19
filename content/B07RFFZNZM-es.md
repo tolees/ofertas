@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S+g53SARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFFZNZM-es eufy  BoostIQ  RoboVac 15C MAX  Robot Aspirador con conexión Wi-Fi  Ultrafino  con aspiración de 2000 Pa  silencioso  Carga automática  Limpia Desde Suelos Duros hasta alfombras de Pelo Medio'
+slug: 'B07RFFZNZM-es eufy BoostIQ RoboVac 15C MAX Robot Aspirador con conexión...'
+tags: 
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

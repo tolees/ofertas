@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Uw5aVka-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNV8X8-es G-STAR RAW Drego Belt Cinturón  Multicolor  Natural/Antic Silver A067   90  Talla del fabricante: 70  para Hombre'
+slug: 'B07NDNV8X8-es G-STAR RAW Drego Belt Cinturón Multicolor Natural/Antic...'
+tags: 
 actualPrice: 33.82 EUR
 currency: EUR
 price: 33.82

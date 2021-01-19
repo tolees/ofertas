@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vK77cWVPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVHSHX7-es Weideworld [2 Pack Protector de Pantalla para Realme X2  Cristal Templado HD Film Protector de Pantalla Screen Protector para Realme X2 [9H Dureza] Transparente'
+slug: 'B07ZVHSHX7-es Weideworld [2 Pack Protector de Pantalla para Realme X2...'
+tags: 
 actualPrice: 7.22 EUR
 currency: EUR
 price: 7.22

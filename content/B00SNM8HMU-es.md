@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lgkibsONL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SNM8HMU-es Samsung BT-EPLN915UB - Cargador de coche con Micro USB  2A  color negro- Versión española'
+slug: 'B00SNM8HMU-es Samsung BT-EPLN915UB - Cargador de coche con Micro USB 2A...'
+tags: 
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PkYccSoAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CGKQAIC-es St. Moriz  Autobronceador corporal  piel seca  - 200 ml.'
+slug: 'B01CGKQAIC-es St. Moriz Autobronceador corporal piel seca - 200 ml.'
+tags: 
 actualPrice: 7.87 EUR
 currency: EUR
 price: 7.87

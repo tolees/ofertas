@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q1txjWD9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Z8B4TJ-es Samsonite Happy Sammies Upright Maleta Infantil 45 cm  24 L Verde  Dino Rex '
+slug: 'B079Z8B4TJ-es Samsonite Happy Sammies Upright Maleta Infantil 45 cm 24 L...'
+tags: 
 actualPrice: 66.5 EUR
 currency: EUR
 price: 66.5

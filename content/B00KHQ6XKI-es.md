@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cDFG8DzuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHQ6XKI-es Descanso Tamaño de Funda de edredón 50 por ciento algodón/50 por ciento de Funda de edredón y Bordado poliéster  marrón'
+slug: 'B00KHQ6XKI-es Descanso Tamaño de Funda de edredón 50 por ciento...'
+tags: 
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

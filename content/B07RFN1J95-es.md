@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wnF8paQcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFN1J95-es Salomon Sense Feel W  Zapatillas para Correr para Mujer  Morado  Mauve Shadows/White/Flint Stone   40 2/3 EU'
+slug: 'B07RFN1J95-es Salomon Sense Feel W Zapatillas para Correr para Mujer...'
+tags: 
 actualPrice: 39.47 EUR
 currency: EUR
 price: 39.47

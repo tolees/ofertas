@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VTsyCQcSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001E7NTS8-es BAUSCH + LOMB  - SofLens® Daily Disposable - Lentes de contacto de reemplazo diario'
+slug: 'B001E7NTS8-es BAUSCH + LOMB - SofLens® Daily Disposable - Lentes de...'
+tags: 
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

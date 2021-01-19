@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410AlA46QLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BRVTBK-es Cala para Look con tornillos Look Keo-Grip negro  juego '
+slug: 'B001BRVTBK-es Cala para Look con tornillos Look Keo-Grip negro juego'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

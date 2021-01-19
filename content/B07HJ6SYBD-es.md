@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nd4uH4imL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJ6SYBD-es Funko- Pop Vinyl: Disney: Aladdin: Jasmine in Disguise w/Chase Figura de vinilo Iago  Multicolor  talla única  35754    color/modelo surtido'
+slug: 'B07HJ6SYBD-es Funko- Pop Vinyl: Disney: Aladdin: Jasmine in Disguise...'
+tags: 
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

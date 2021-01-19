@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CQZAI+hWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTVXRBP-es Peine Eléctrico para Hombres - AKIMO Plancha de Pelo con Cepillo Caliente  Alisadora de Pelo para Alisar y Modelar Cabello Barba sin Engancharse y Tirón'
+slug: 'B07RTVXRBP-es Peine Eléctrico para Hombres - AKIMO Plancha de Pelo con...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

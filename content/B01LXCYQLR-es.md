@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DT7CRpsrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXCYQLR-es Brabantia 112126 Cubo de Basura con Pedal  Acero Inoxidable  Blanco  3 l'
+slug: 'B01LXCYQLR-es Brabantia 112126 Cubo de Basura con Pedal Acero Inoxidable...'
+tags: 
 actualPrice: 14.84 EUR
 currency: EUR
 price: 14.84

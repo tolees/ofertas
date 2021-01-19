@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e5rz43yGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BWVD02K-es Pasta de dientes blanqueadora Colgate Sensation  dientes más blancos en 14 días 75 ml'
+slug: 'B01BWVD02K-es Pasta de dientes blanqueadora Colgate Sensation dientes...'
+tags: 
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

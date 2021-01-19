@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dfGDHWFAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077S2NC5C-es Amzdeal Soporte de Fondo 2 * 3m con 3 Fondos Fotográficos 1.6 * 2m  NegroBlancoVerde  y 2 Pinzas para Fotografía versión  Traje pequeño '
+slug: 'B077S2NC5C-es Amzdeal Soporte de Fondo 2 * 3m con 3 Fondos Fotográficos...'
+tags: 
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

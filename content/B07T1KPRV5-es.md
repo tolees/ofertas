@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vhXnaL6vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1KPRV5-es San Ignacio Q2955 Cuchillo deshuesador 13.75cm acer inox TOLEDO  Inoxidable'
+slug: 'B07T1KPRV5-es San Ignacio Q2955 Cuchillo deshuesador 13.75cm acer inox...'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

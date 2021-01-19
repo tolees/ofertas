@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jLue-bYTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MS3WT0G-es Quinny 72409140 - Sombrilla para silla de paseo y cochecito  color gris'
+slug: 'B00MS3WT0G-es Quinny 72409140 - Sombrilla para silla de paseo y...'
+tags: 
 actualPrice: 25.71 EUR
 currency: EUR
 price: 25.71

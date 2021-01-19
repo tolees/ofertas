@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tFykkCmqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781ZSP8J-es ADIDAS X PLR  Zapatillas para Hombre  Negro  Core Black/Footwear White/Core Black 0   42 2/3 EU'
+slug: 'B0781ZSP8J-es ADIDAS X PLR Zapatillas para Hombre Negro Core...'
+tags: 
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qC8BF0ddL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB7TS5V-es Columbia Buga Conjunto para la Nieve  Niños  Azul  Super Blue   Talla: 4T'
+slug: 'B07RB7TS5V-es Columbia Buga Conjunto para la Nieve Niños Azul Super Blue...'
+tags: 
 actualPrice: 53.19 EUR
 currency: EUR
 price: 53.19

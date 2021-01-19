@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B9+xHuAeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018URIN76-es Shiseido Bio-Performance Glow Revival Crema - 50 ml  0768614119562 '
+slug: 'B018URIN76-es Shiseido Bio-Performance Glow Revival Crema - 50 ml...'
+tags: 
 actualPrice: 72.48 EUR
 currency: EUR
 price: 72.48

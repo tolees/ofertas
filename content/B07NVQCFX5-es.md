@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UVpcWHNdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVQCFX5-es Louviva Masajeador  10 Modos de Frecuencia  Silicona Suave  Impermeable'
+slug: 'B07NVQCFX5-es Louviva Masajeador 10 Modos de Frecuencia Silicona Suave...'
+tags: 
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

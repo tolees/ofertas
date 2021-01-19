@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nof3x6WoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089FWDM96-es NDANH9896 Patrón de asta de Estilo Simple La Tela de Lino Nunca se desvanece 45X45 cm'
+slug: 'B089FWDM96-es NDANH9896 Patrón de asta de Estilo Simple La Tela de Lino...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

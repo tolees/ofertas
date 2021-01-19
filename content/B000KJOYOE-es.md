@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AVTahaJJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KJOYOE-es Edding 950 - Marcador permanente de pasta opaca  trazo de 10 mm  color azul'
+slug: 'B000KJOYOE-es Edding 950 - Marcador permanente de pasta opaca trazo de...'
+tags: 
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/511VQ3%2BIklL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009IEYGY-es Anita Active Momentum - Sujetador deportivo para mujer  Negro  Schwarz 001   75C EU'
+slug: 'B0009IEYGY-es Anita Active Momentum - Sujetador deportivo para mujer...'
+tags: 
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

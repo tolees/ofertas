@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-+0xTYerL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZK8TP3-es Amzdeal Alcachofa de Ducha  Cabezal de Ducha con 5 modos  Mano la Cabeza de Ducha de baja presión de 0.03Mpa  Cromo / AZ009R'
+slug: 'B07PZK8TP3-es Amzdeal Alcachofa de Ducha Cabezal de Ducha con 5 modos...'
+tags: 
 actualPrice: 6.23 EUR
 currency: EUR
 price: 6.23

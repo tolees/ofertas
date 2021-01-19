@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Id6bBbecL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLTWXH2-es Clarks Un Cosmo Strap  Sandalia con Pulsera para Mujer  Gris  Stone Combi Stone Combi   37.5 EU'
+slug: 'B07TLTWXH2-es Clarks Un Cosmo Strap Sandalia con Pulsera para Mujer Gris...'
+tags: 
 actualPrice: 43.28 EUR
 currency: EUR
 price: 43.28

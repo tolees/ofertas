@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hWdqNcHGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FB3J1PM-es Superdry M70001ns  Pantalones de deporte Hombre  Gris  Flint Grey Grit Xje   X-Large  Talla fabricante: 36 '
+slug: 'B07FB3J1PM-es Superdry M70001ns Pantalones de deporte Hombre Gris Flint...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

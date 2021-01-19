@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WEbZossXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JKEZCFK-es Yazilind Elegante diseño único 14K Gold Filled Inlay Teardrop púrpura pendientes de gota del Circonita cúbico cuelga para la Mujer'
+slug: 'B00JKEZCFK-es Yazilind Elegante diseño único 14K Gold Filled Inlay...'
+tags: 
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

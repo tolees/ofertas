@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dSseEUfDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRH4KT4-es Fa - Desodorante Spray Fiji Dream -  2 uds de 200 ml'
+slug: 'B07NRH4KT4-es Fa - Desodorante Spray Fiji Dream - 2 uds de 200 ml'
+tags: 
 actualPrice: 3.16 EUR
 currency: EUR
 price: 3.16

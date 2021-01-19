@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R-vXXuZDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P49HBXG-es Skechers Elite Flex  Zapatillas para Hombre  Gris  Charcoal Premium Wool/Synthetic/Metal/Trim Ccl   45.5 EU'
+slug: 'B07P49HBXG-es Skechers Elite Flex Zapatillas para Hombre Gris Charcoal...'
+tags: 
 actualPrice: 26.73 EUR
 currency: EUR
 price: 26.73

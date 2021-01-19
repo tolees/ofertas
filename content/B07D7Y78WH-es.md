@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UzZxKoqRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7Y78WH-es Topmo-plus 12w lámpara de pared LED impermeable IP65 moderno apliques aluminio apliques llevó exterior Arriba y Abajo Diseño Bañadore de vestíbulo 1320LM  Blanco natural/blanco '
+slug: 'B07D7Y78WH-es Topmo-plus 12w lámpara de pared LED impermeable IP65...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

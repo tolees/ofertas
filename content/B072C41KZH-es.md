@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316SkWpSCbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072C41KZH-es Crock-Pot CSC038X DuraCeramic - Olla de Cocción Lenta Manual con Tapa Abatible  Recipiente Compatible con Fuego e Inducción  para Preparar todo Tipo de Recetas  4.5 litros  Acero Inoxidable  Blanco'
+slug: 'B072C41KZH-es Crock-Pot CSC038X DuraCeramic - Olla de Cocción Lenta...'
+tags: 
 actualPrice: 63.63 EUR
 currency: EUR
 price: 63.63

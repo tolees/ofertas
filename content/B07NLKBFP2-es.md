@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rQODaRTfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLKBFP2-es Versace Jeans CouturePortafoglioMujerCarterasMorado  Glicine  0 5x16x25 5 centimeters  W x H x L '
+slug: 'B07NLKBFP2-es Versace Jeans CouturePortafoglioMujerCarterasMorado...'
+tags: 
 actualPrice: 57.07 EUR
 currency: EUR
 price: 57.07

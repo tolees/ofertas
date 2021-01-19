@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OraI3idcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWNKXTK-es Under Armour UA GS Assert 8  Zapatillas de Running Unisex Adulto  Negro  Black/Steel/X-Ray   36 EU'
+slug: 'B07PWNKXTK-es Under Armour UA GS Assert 8 Zapatillas de Running Unisex...'
+tags: 
 actualPrice: 20.15 EUR
 currency: EUR
 price: 20.15

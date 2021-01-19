@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nwfVc+3HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0058VDTO0-es Jabra Drive – Altavoz Bluetooth para Automóvil  Micrófono y Altavoz Manos Libres con Cancelación de Ruido para Llamadas  Música y GPS  Conexión Rápida con Jabra Tour  Negro'
+slug: 'B0058VDTO0-es Jabra Drive – Altavoz Bluetooth para Automóvil Micrófono y...'
+tags: 
 actualPrice: 25.29 EUR
 currency: EUR
 price: 25.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Zw7DifIRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781PPM4F-es Portarrollos de MEZOOM de 304 acero inoxidable de 3m pegamento fuerte para colgar papel del higiene  toalla en baño o cocina o retaurante'
+slug: 'B0781PPM4F-es Portarrollos de MEZOOM de 304 acero inoxidable de 3m...'
+tags: 
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

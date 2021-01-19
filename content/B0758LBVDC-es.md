@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J6gJGXvUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758LBVDC-es Clarks Maritsa Lara  Sandalia con Pulsera Tira de Tobillo  Verde  Olive Suede-   39 EU'
+slug: 'B0758LBVDC-es Clarks Maritsa Lara Sandalia con Pulsera Tira de Tobillo...'
+tags: 
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wFxjAIQHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL6L3S-es G-STAR RAW Fascia Polo  Multicolor  Milk/Imperial Blue Stripe 8340   Large para Hombre'
+slug: 'B07NDL6L3S-es G-STAR RAW Fascia Polo Multicolor Milk/Imperial Blue...'
+tags: 
 actualPrice: 21.88 EUR
 currency: EUR
 price: 21.88

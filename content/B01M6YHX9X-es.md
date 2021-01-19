@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iqToO9IVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6YHX9X-es Skechers Women s s Sure Track-TRICKEL Work Shoes  Black  Black Leather Blk   4 UK'
+slug: 'B01M6YHX9X-es Skechers Women s s Sure Track-TRICKEL Work Shoes Black...'
+tags: 
 actualPrice: 63.19 EUR
 currency: EUR
 price: 63.19

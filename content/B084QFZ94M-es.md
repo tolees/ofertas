@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SoffH9TvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084QFZ94M-es Maksexy Masajeador para Mujer  12 Modos para Relajación de Fatiga en Casa  Oficina  Material de Silicona Medicalizado  Impermeable  Recargable USB  Violeta '
+slug: 'B084QFZ94M-es Maksexy Masajeador para Mujer 12 Modos para Relajación de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

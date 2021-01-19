@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514dORO4vkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8KHFVJ-es MOSNOVO Ultra Hybrid Funda iPhone XR Funda protección híbrida de la Gota Transparente para Apple iPhone XR - Wolf'
+slug: 'B07K8KHFVJ-es MOSNOVO Ultra Hybrid Funda iPhone XR Funda protección...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

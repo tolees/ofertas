@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cKV8+ERrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6TNHS8-es Tommy Hilfiger Classic Low Tommy Jeans Sneaker  Zapatillas para Hombre  Negro  Black Bds   43 EU'
+slug: 'B07V6TNHS8-es Tommy Hilfiger Classic Low Tommy Jeans Sneaker Zapatillas...'
+tags: 
 actualPrice: 28.69 EUR
 currency: EUR
 price: 28.69

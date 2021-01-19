@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412q81x1nAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYTV8M-es Under Armour UA GS Charged Rogue 2  Zapatillas para Correr  Calzado Deportivo de Calidad Unisex Adulto  Negro  Black/Halo Gray/White   40 EU'
+slug: 'B07PYYTV8M-es Under Armour UA GS Charged Rogue 2 Zapatillas para Correr...'
+tags: 
 actualPrice: 23.87 EUR
 currency: EUR
 price: 23.87

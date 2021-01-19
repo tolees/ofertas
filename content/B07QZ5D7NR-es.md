@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ySTe9JMJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZ5D7NR-es Asics Gel-Sonoma 4  Zapatillas de Running para Mujer  Gris  Carrier Grey/Black 020   37 EU'
+slug: 'B07QZ5D7NR-es Asics Gel-Sonoma 4 Zapatillas de Running para Mujer Gris...'
+tags: 
 actualPrice: 60.48 EUR
 currency: EUR
 price: 60.48

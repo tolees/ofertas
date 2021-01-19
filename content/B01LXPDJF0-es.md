@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310+7TIld+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXPDJF0-es Orbegozo PCE 5000 - Placa vitrocerámica portatil  2000 W de potencia  cuerpo de acero inoxidable  termostato regulable'
+slug: 'B01LXPDJF0-es Orbegozo PCE 5000 - Placa vitrocerámica portatil 2000 W de...'
+tags: 
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AWYB3DHdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TB7HBT9-es Max Factor Colour Elixir Lipstick  Barra de labios Tono 25  29 ml'
+slug: 'B07TB7HBT9-es Max Factor Colour Elixir Lipstick Barra de labios Tono 25...'
+tags: 
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

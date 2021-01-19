@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417wXw3HfWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ3C2V9-es Simpeak Ventilador Mini USB Silencioso de 3 Velocidades Mini Fan  360 Grados Rotation Fan USB Ventilador Portátil para Biblioteca  Oficina  Camping  Picnic  Excursiones Blanco '
+slug: 'B07TQ3C2V9-es Simpeak Ventilador Mini USB Silencioso de 3 Velocidades...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

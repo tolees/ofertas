@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mDtKmv8wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ2C2GK-es New Balance Fresh Foam Cruz v2 Silent Rave Pack  Zapatillas para Hombre  Negro  Black/Raincloud/Deep Ozone Blue Dk2   42 EU'
+slug: 'B07DJ2C2GK-es New Balance Fresh Foam Cruz v2 Silent Rave Pack Zapatillas...'
+tags: 
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xBTRTcr4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTM8MHZ-es Tiny Love Rocker Napper Balancin para bebès  hamaca con Vibraciones relajantes  música y luces calmante  color Gris'
+slug: 'B07RTM8MHZ-es Tiny Love Rocker Napper Balancin para bebès hamaca con...'
+tags: 
 actualPrice: 89.4 EUR
 currency: EUR
 price: 89.4

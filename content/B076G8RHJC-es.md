@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XW8xKvQYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076G8RHJC-es PUMA Smash V2 L JR  Zapatillas Unisex niños  Negro Black White  39 EU'
+slug: 'B076G8RHJC-es PUMA Smash V2 L JR Zapatillas Unisex niños Negro Black...'
+tags: 
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

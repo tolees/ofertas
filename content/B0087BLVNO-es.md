@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G0oCsG+NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0087BLVNO-es Zeno Watch Basel 6569-a1 - Reloj analógico automático para Hombre con Correa de Piel  Color Negro'
+slug: 'B0087BLVNO-es Zeno Watch Basel 6569-a1 - Reloj analógico automático para...'
+tags: 
 actualPrice: 341.94 EUR
 currency: EUR
 price: 341.94

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xRKy3P4bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076D9MRB8-es Finether Grifo para Fregadero de Cocina 360° Caño Giratorio  Grifo de Cuenca Monomando Cromado  Agua Frío y Caliente  con Espita Elevable'
+slug: 'B076D9MRB8-es Finether Grifo para Fregadero de Cocina 360° Caño...'
+tags: 
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

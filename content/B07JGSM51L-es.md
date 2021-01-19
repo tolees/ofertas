@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41VUo0urCpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGSM51L-es Pepe Jeans Fidall Pm541220 Polo   Optic White 802   Large para Hombre'
+slug: 'B07JGSM51L-es Pepe Jeans Fidall Pm541220 Polo Optic White 802 Large para...'
+tags: 
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/317yv7gMdDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076JSCNBB-es Varlion Hexagon Azul - Paletero de pádel  Unisex Adulto  Azul/Negro'
+slug: 'B076JSCNBB-es Varlion Hexagon Azul - Paletero de pádel Unisex Adulto...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31C4iyqp-ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYRFH3D-es Beko BWH50EUC - Termo eléctrico / calentador  50 litros  2000 W  color blanco'
+slug: 'B06ZYRFH3D-es Beko BWH50EUC - Termo eléctrico / calentador 50 litros...'
+tags: 
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

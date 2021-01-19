@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iZFGlWQwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQQT1PH-es Salomon Alphacross  Zapatillas de Trail Running para Hombre  Azul  Sargasso Sea/Navy Blazer/India Ink   40 EU'
+slug: 'B07KQQT1PH-es Salomon Alphacross Zapatillas de Trail Running para Hombre...'
+tags: 
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

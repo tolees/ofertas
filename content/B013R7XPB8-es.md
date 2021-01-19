@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41COKmjRQdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013R7XPB8-es AmazonBasics - Bayeta de microfibra  6 unidades   color blanco  azul y amarillo'
+slug: 'B013R7XPB8-es AmazonBasics - Bayeta de microfibra 6 unidades color...'
+tags: 
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

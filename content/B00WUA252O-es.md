@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416TcgrwE4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WUA252O-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable A468-632-00'
+slug: 'B00WUA252O-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 137.07 EUR
 currency: EUR
 price: 137.07

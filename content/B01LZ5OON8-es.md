@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21WaCgCy3RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZ5OON8-es GoPro Karma Replacement Arm - Brazo de Repuesto Delantero Derecho para dron Karma  Color Negro'
+slug: 'B01LZ5OON8-es GoPro Karma Replacement Arm - Brazo de Repuesto Delantero...'
+tags: 
 actualPrice: 39.93 EUR
 currency: EUR
 price: 39.93

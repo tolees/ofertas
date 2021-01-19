@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Y9fC77MYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSKW8JX-es KiplingTopsMujerCarterasNegro  Carbon Metallic  7.5x10x2.5 Centimeters  B x H x T '
+slug: 'B07TSKW8JX-es KiplingTopsMujerCarterasNegro Carbon Metallic 7.5x10x2.5...'
+tags: 
 actualPrice: 14.74 EUR
 currency: EUR
 price: 14.74

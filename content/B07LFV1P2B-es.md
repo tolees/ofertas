@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41muPuO1H3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFV1P2B-es Micrófono Gaming Voice USB de escritorio  Luz LED  Micrófono Compatible con PC/Windows/Mac/PS4   para Radio  Skype  YouTube  Juegos'
+slug: 'B07LFV1P2B-es Micrófono Gaming Voice USB de escritorio Luz LED Micrófono...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

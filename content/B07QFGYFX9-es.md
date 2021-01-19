@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mKHVOSJRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFGYFX9-es Skagen Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable SKW6525'
+slug: 'B07QFGYFX9-es Skagen Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 80.16 EUR
 currency: EUR
 price: 80.16

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415xj3DbIrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXE590O-es Aigostar Black Pearl 30IMV - Hervidor de agua Premium con 7 niveles de temperatura  termostato profesional Strix  1 7 litros y 2200 W. Libre de BPA. Acero inoxidable de grado 304. Diseño exclusivo.'
+slug: 'B01MXE590O-es Aigostar Black Pearl 30IMV - Hervidor de agua Premium con...'
+tags: 
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

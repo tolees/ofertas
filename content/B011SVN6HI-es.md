@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011SVN6HI-es The Blacklist Temporada 2 Blu-Ray [Blu-ray]'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

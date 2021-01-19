@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aue4gJeuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LMCWAYE-es Joseph Joseph Palm Scrub Cepillo Dispensador  Verde  8.8x9.5x13.5 cm'
+slug: 'B00LMCWAYE-es Joseph Joseph Palm Scrub Cepillo Dispensador Verde...'
+tags: 
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

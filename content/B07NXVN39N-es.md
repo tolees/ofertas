@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31N-EzSmdZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXVN39N-es Skechers Elite Flex  Zapatillas para Hombre  Negro  Black Premium Wool/Synthetic/Metal/Trim Black   40 EU'
+slug: 'B07NXVN39N-es Skechers Elite Flex Zapatillas para Hombre Negro Black...'
+tags: 
 actualPrice: 43.09 EUR
 currency: EUR
 price: 43.09

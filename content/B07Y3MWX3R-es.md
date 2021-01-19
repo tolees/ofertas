@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31t8we+GK9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y3MWX3R-es SAMSUNG Galaxy Watch Active 2 SM-R830NSKAPHE - Smartwatch de Acero  40 mm  color Oro Rosa  Bluetooth [Versión española]  40 mm'
+slug: 'B07Y3MWX3R-es SAMSUNG Galaxy Watch Active 2 SM-R830NSKAPHE - Smartwatch...'
+tags: 
 actualPrice: 254.91 EUR
 currency: EUR
 price: 254.91

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V29NSG6-es Chinchón Seco - Anís - 1000 ml'
+tags: 
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

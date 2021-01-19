@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G+0pAVKRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JM35RG-es Powerextra Sony NP-FW50 Cargador Inteligente Pantalla LCD Cargador Doble Canal para Batería y Sony Alpha a6500 a6300 a6000 a7s a7 a7s II a7s a5100 a5000 a7r a7 II Digital Cámara'
+slug: 'B071JM35RG-es Powerextra Sony NP-FW50 Cargador Inteligente Pantalla LCD...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

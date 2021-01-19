@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410daTC63TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXGRZCL-es Rizador de Pelo 6 en 1 Profesional  con Conos Temperatura Ajustable Cerámicas de Turmalinas Intercambiables Planchas rizadoras no Dañar el Pelo  con Guante Hurquilla'
+slug: 'B07TXGRZCL-es Rizador de Pelo 6 en 1 Profesional con Conos Temperatura...'
+tags: 
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

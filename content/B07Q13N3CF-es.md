@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TWblFpEkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q13N3CF-es Under Armour UA W Skylar 2  Zapatillas de Running para Mujer  Blanco  White/Halo Gray/Halo Gray   36 EU'
+slug: 'B07Q13N3CF-es Under Armour UA W Skylar 2 Zapatillas de Running para...'
+tags: 
 actualPrice: 31.83 EUR
 currency: EUR
 price: 31.83

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LtsoxTPJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGFZ2BF-es PUMA Ribbed Classic Beanie Gorro  Unisex Adulto  Jaffa Orange'
+slug: 'B07QGFZ2BF-es PUMA Ribbed Classic Beanie Gorro Unisex Adulto Jaffa Orange'
+tags: 
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

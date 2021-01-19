@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CMpguFKUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLS168J-es KUTOP por charge2 Correa  Charge 2 TPU Silicona Suave Especial Deporte Banda de Reloj Ajustable Accesorios para Charge 2 Grande pequeño'
+slug: 'B07DLS168J-es KUTOP por charge2 Correa Charge 2 TPU Silicona Suave...'
+tags: 
 actualPrice: 9.84 EUR
 currency: EUR
 price: 9.84

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jdENrUwnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005IEH67I-es Bourjois Healthy Mix Serum Base de Maquillaje Tono 53 Light Beige  - 30 ml'
+slug: 'B005IEH67I-es Bourjois Healthy Mix Serum Base de Maquillaje Tono 53...'
+tags: 
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

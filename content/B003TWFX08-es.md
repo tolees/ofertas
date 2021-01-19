@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41F36n1y60L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B003TWFX08-es Oregon Scientific RMR391P - Reloj proyector despertador con termómetro interior y exterior  fecha  alarma con repetición snooze  negro'
+slug: 'B003TWFX08-es Oregon Scientific RMR391P - Reloj proyector despertador...'
+tags: 
 actualPrice: 38.66 EUR
 currency: EUR
 price: 38.66

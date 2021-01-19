@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OJ05XZpPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DN9R7OW-es HiPP Biológico Tarrito Manzana y Plátano con Galletas - 250 gr'
+slug: 'B00DN9R7OW-es HiPP Biológico Tarrito Manzana y Plátano con Galletas -...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

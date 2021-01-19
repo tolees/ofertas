@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31A1G5Vt+SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5VGKCV-es Tommy Hilfiger - Poppy Lrg Za Solid  Carteras Mujer  Rojo  Barbados Cherry   1x1x1 cm  W x H L '
+slug: 'B07V5VGKCV-es Tommy Hilfiger - Poppy Lrg Za Solid Carteras Mujer Rojo...'
+tags: 
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

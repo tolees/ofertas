@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/214j4FLsBuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHDRMH8-es Salomon XA Cap Gorra de Malla Impermeable  Unisex Adulto  Blanco  M/L'
+slug: 'B07FHDRMH8-es Salomon XA Cap Gorra de Malla Impermeable Unisex Adulto...'
+tags: 
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

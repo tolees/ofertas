@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wkQ91hzmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OVSYRQU-es Camano 3003 Ca-Soft Sneaker 7 Paar Calcetines cortos  Gris  grey combi 49   35/38  35/38   Pack de 7  para Hombre'
+slug: 'B00OVSYRQU-es Camano 3003 Ca-Soft Sneaker 7 Paar Calcetines cortos Gris...'
+tags: 
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

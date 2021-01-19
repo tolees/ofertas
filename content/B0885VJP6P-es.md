@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e7NI8KgtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0885VJP6P-es Olisicht Webcam Full HD 1080P con micrófono Webkamera para PC portátil Live-Streaming conferencias'
+slug: 'B0885VJP6P-es Olisicht Webcam Full HD 1080P con micrófono Webkamera para...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u-2rMd5cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDBWX2X-es Desigual 19WAYP07 - Cartera para mujer de Sintético Mujer Negro Negro  NEGRO 2000  3x9.5x20.2 cm  B x H x T '
+slug: 'B07NDBWX2X-es Desigual 19WAYP07 - Cartera para mujer de Sintético Mujer...'
+tags: 
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

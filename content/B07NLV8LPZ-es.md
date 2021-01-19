@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319sjrwx7VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLV8LPZ-es Nike Revolution 5  Zapatillas de Running para Hombre  Multicolor Black White Anthracite 002  44.5 EU'
+slug: 'B07NLV8LPZ-es Nike Revolution 5 Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

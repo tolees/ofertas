@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4190mapcI5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPXH68Z-es Fantasyworld SJ60 Impermeable 2.0" LCD 4K Ultra HD 1080P WiFi Deportes de Movimiento Acción de la cámara DVR videocámara de la Leva HDMI 32GB HD 170 ° de ángulo Amplio'
+slug: 'B07KPXH68Z-es Fantasyworld SJ60 Impermeable 2.0" LCD 4K Ultra HD 1080P...'
+tags: 
 actualPrice: 17.23 EUR
 currency: EUR
 price: 17.23

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51KFtztuzlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKFDNRB-es Kipling Gabbie S  Bolsos Bandolera para Mujer  Azul  Dynamic Blue   29x22x16.5 centimeters  B x H x T '
+slug: 'B07DKFDNRB-es Kipling Gabbie S Bolsos Bandolera para Mujer Azul Dynamic...'
+tags: 
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

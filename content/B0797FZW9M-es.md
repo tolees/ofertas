@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zuxQJcmQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797FZW9M-es Guess Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable W1106G1'
+slug: 'B0797FZW9M-es Guess Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 157.14 EUR
 currency: EUR
 price: 157.14

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317q9aexCBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXWS126-es Khanomak - Body de Manga Larga con Cut out en la Parte de Delante - Large - Azul Marino'
+slug: 'B01LXWS126-es Khanomak - Body de Manga Larga con Cut out en la Parte de...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

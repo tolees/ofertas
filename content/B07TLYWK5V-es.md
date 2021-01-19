@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413xVqZyTGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLYWK5V-es Vans Ward Suede/Canvas  Zapatillas para Hombre  Verde   Otw Scatter  Forest Night/White Syk   45 EU'
+slug: 'B07TLYWK5V-es Vans Ward Suede/Canvas Zapatillas para Hombre Verde Otw...'
+tags: 
 actualPrice: 36.73 EUR
 currency: EUR
 price: 36.73

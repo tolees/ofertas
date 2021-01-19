@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SuPVzjj5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRK5WJW-es New Balance 624v5  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Black Black/Black   43 EU'
+slug: 'B07KRK5WJW-es New Balance 624v5 Zapatillas Deportivas para Interior para...'
+tags: 
 actualPrice: 35.63 EUR
 currency: EUR
 price: 35.63

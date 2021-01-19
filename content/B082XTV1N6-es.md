@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zHrWwPdNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XTV1N6-es Luz de Cortina JINPX Luz Cadena con 300 LED 8 Modos 3 * 3M Multicolor Perfecto para Fiestas Bodas Festivales Presentaciones Bares  Restaurantes  Hoteles  Conciertos'
+slug: 'B082XTV1N6-es Luz de Cortina JINPX Luz Cadena con 300 LED 8 Modos 3 * 3M...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

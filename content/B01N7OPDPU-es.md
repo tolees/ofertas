@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413rgcfjZHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7OPDPU-es MOROFAST pastillas para adelgazar I quemagrasas natural con Garcinia Gambogia  Morosil I reduce peso abdomen  glúteos  muslos I Ingredientes naturales y veganos I hombres y mujeres I 60 cápsulas'
+slug: 'B01N7OPDPU-es MOROFAST pastillas para adelgazar I quemagrasas natural...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

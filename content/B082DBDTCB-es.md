@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61rx6bXRl5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082DBDTCB-es A4 tamaño niños dibujo 3D copia placa molde de papel para impresión 3D pluma dibujo plantillas y Doodle XP mejor regalo para niños blanco '
+slug: 'B082DBDTCB-es A4 tamaño niños dibujo 3D copia placa molde de papel para...'
+tags: 
 actualPrice: 3.36 EUR
 currency: EUR
 price: 3.36

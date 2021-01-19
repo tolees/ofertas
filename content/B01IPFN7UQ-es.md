@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514Qr96mDlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IPFN7UQ-es ASUS DUAL-GTX1060-O6G - Tarjeta gráfica  Dual  NVIDIA GeForce GTX 1060  6 GB  GDDR5  HDMI  DVI  DP  Color Blanco'
+slug: 'B01IPFN7UQ-es ASUS DUAL-GTX1060-O6G - Tarjeta gráfica Dual NVIDIA...'
+tags: 
 actualPrice: 199.01 EUR
 currency: EUR
 price: 199.01

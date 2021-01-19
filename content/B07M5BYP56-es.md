@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pYDAr-RBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5BYP56-es FITTOO Mallas Pantalones Deportivos Leggings Mujer Yoga de Alta Cintura Elásticos Yoga Running Fitness  Amarillo M'
+slug: 'B07M5BYP56-es FITTOO Mallas Pantalones Deportivos Leggings Mujer Yoga de...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

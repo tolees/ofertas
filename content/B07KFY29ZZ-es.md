@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFY29ZZ-es Puma Unisex Adulto Axis Zapatillas  Azul  Peacoat-Puma White 07   38.5 EU'
+slug: 'B07KFY29ZZ-es Puma Unisex Adulto Axis Zapatillas Azul Peacoat-Puma White...'
+tags: 
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

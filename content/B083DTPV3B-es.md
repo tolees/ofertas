@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X4KzhEeyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DTPV3B-es Welinks - Cepillo para polvo de mesita de noche  mango largo  para fregona y sofá o cama  limpieza de microfibra mágica  limpiador de polvo multiusos  cepillo de limpieza para el hogar y la habitación'
+slug: 'B083DTPV3B-es Welinks - Cepillo para polvo de mesita de noche mango...'
+tags: 
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

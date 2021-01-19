@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CtzHxFtpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1ML9H8-es New Balance 411  Zapatillas de Running para Hombre  Azul  Navy CT   42 EU'
+slug: 'B07S1ML9H8-es New Balance 411 Zapatillas de Running para Hombre Azul...'
+tags: 
 actualPrice: 30.25 EUR
 currency: EUR
 price: 30.25

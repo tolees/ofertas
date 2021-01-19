@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515WNAxinhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7YRW91-es Joyspot Cuchillos Cocina  Patrón de Damasco Cuchillo Cocina Profesionales 20 cm  8 Pulgadas Cuchillo de Cocinero de Acero Inoxidable Alemán  Hoja Durable y Afilada para Verduras  Frutas y Carne …'
+slug: 'B07P7YRW91-es Joyspot Cuchillos Cocina Patrón de Damasco Cuchillo Cocina...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

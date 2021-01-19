@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GsDWAEubL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHZ54F7-es Minnie Mouse- Centro Comercial con luz y Sonidos  40 x 29 cm  Propio 182554 '
+slug: 'B06XHZ54F7-es Minnie Mouse- Centro Comercial con luz y Sonidos 40 x 29...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

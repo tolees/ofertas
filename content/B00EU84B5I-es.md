@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EU84B5I-es What Am I?'
+tags: 
 actualPrice: 4.37 EUR
 currency: EUR
 price: 4.37

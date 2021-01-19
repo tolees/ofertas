@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pqQH93xeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STD9Z1K-es Sartén de 22 cm con 3 5mm de espesor  Full Induction   Antiadherente bicapa'
+slug: 'B07STD9Z1K-es Sartén de 22 cm con 3 5mm de espesor Full Induction...'
+tags: 
 actualPrice: 26.45 EUR
 currency: EUR
 price: 26.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519YR4JoCdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD5VSCC-es Borrás 18057 Ot  El Juego De Mesa  Multicolor   color/modelo surtido'
+slug: 'B07DD5VSCC-es Borrás 18057 Ot El Juego De Mesa Multicolor color/modelo...'
+tags: 
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

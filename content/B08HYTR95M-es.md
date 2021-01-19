@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41swxzM9idL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HYTR95M-es Your Vip Skin bastoncillos de algodón de silicona  reutilizables  lavables para limpieza de oídos y para maquillaje.  Rosa '
+slug: 'B08HYTR95M-es Your Vip Skin bastoncillos de algodón de silicona...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

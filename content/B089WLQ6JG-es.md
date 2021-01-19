@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316wyg1y1rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089WLQ6JG-es Auriculares Inalámbricos Auriculares Bluetooth 5.0  Auriculares con Reducción de Ruido estéreo 3D  Auricular Inalambrico Impermeables IPX7 Micrófono Incorporado y Cajas de Carga'
+slug: 'B089WLQ6JG-es Auriculares Inalámbricos Auriculares Bluetooth 5.0...'
+tags: 
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

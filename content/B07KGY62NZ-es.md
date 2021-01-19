@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cE-10gcaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGY62NZ-es Under Armour Blitzing II - Gorra  Hombre  Azul  Midnight Navy/White 417   L/XL'
+slug: 'B07KGY62NZ-es Under Armour Blitzing II - Gorra Hombre Azul Midnight...'
+tags: 
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

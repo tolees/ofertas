@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LVXEB78-es Creed Iris Tubereuse Agua de Perfume - 100 ml'
+tags: 
 actualPrice: 57.88 EUR
 currency: EUR
 price: 57.88

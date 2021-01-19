@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pIuJRAbwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXDVMT6-es Levi s 502 Taper Shorts 10" Pantalones Cortos  Azul  Rainshower Short 0065   W28  Talla del Fabricante: 28  para Hombre'
+slug: 'B07TXDVMT6-es Levi s 502 Taper Shorts 10" Pantalones Cortos Azul...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

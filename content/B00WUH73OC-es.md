@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ejbyVPUAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WUH73OC-es EUROHIKE Avon Tienda de campaña Camping Gear Rojo  Rojo  Talla Ãšnica'
+slug: 'B00WUH73OC-es EUROHIKE Avon Tienda de campaña Camping Gear Rojo Rojo...'
+tags: 
 actualPrice: 72.62 EUR
 currency: EUR
 price: 72.62

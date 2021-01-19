@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bX14qDtnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY3P36T-es Superdry Orange Label Classic Jogger Pantalones de Deporte  Azul  Midnight Blue Feeder V6t   46  Talla del Fabricante: X-Small  para Hombre'
+slug: 'B07NY3P36T-es Superdry Orange Label Classic Jogger Pantalones de Deporte...'
+tags: 
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

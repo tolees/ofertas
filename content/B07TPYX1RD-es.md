@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41beX1KDeqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYX1RD-es TUBBZ Oficial Borderlands 3 Mercancías Pato psico Carácter Figurita'
+slug: 'B07TPYX1RD-es TUBBZ Oficial Borderlands 3 Mercancías Pato psico Carácter...'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

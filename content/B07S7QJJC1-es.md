@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zBo1ICC9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QJJC1-es PUMA Cell Ultimate Point  Zapatillas de Running para Hombre  Blanco White/High Rise/Palace Blue 10  43 EU'
+slug: 'B07S7QJJC1-es PUMA Cell Ultimate Point Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 41.53 EUR
 currency: EUR
 price: 41.53

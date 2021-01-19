@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pAXM874fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MW46SZM-es ANEWSIR [2 Pack] Protector de Pantalla para Xiaomi Redmi Note 7 / xiaomi redmi Note 7 Pro Cristal Vidrio Templado Premium 9H definición.'
+slug: 'B07MW46SZM-es ANEWSIR [2 Pack] Protector de Pantalla para Xiaomi Redmi...'
+tags: 
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tv5e85sPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M660ITM-es Wrangler SLIM Jeans  Azul  Authentic Blue 85U   26W / 32L para Mujer'
+slug: 'B01M660ITM-es Wrangler SLIM Jeans Azul Authentic Blue 85U 26W / 32L para...'
+tags: 
 actualPrice: 54.59 EUR
 currency: EUR
 price: 54.59

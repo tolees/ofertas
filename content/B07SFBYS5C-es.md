@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+qvXhlpYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFBYS5C-es Homvik Mosquitera Universal Antimosquitos para Bebé Red Antiinsectos con Cremallera para Capazo Silla de Paseo Cuna de viaje Carrito Cochecito Etc.'
+slug: 'B07SFBYS5C-es Homvik Mosquitera Universal Antimosquitos para Bebé Red...'
+tags: 
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

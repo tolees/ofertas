@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Bx1fAVoYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPS5VL4-es Sierra Circular  TECCPO 3500RPM 480W Mini Sierra Circular  Guía Láser  3 Cuchillas Ø 85 mm  Profundidad de Corte: 27 mm  Cortar Madera  Plastica  Metal Blando y Azulejos -TAPS22P'
+slug: 'B07FPS5VL4-es Sierra Circular TECCPO 3500RPM 480W Mini Sierra Circular...'
+tags: 
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

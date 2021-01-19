@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r0HDPjl2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZZ2DZP-es Under Armour Playoff 2.0 Polo  Hombre  Blanco  White/Mod Gray 107   XXL'
+slug: 'B07CZZ2DZP-es Under Armour Playoff 2.0 Polo Hombre Blanco White/Mod Gray...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

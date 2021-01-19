@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317fif+-9XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FJB1WZS-es MAGIC SELECT 4Estuche para mascarillas/Caja para mascarillas  Multicolor   Rosa Verde Azul Blanco'
+slug: 'B08FJB1WZS-es MAGIC SELECT 4Estuche para mascarillas/Caja para...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

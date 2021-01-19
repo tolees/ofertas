@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tZ4VmcwDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZPF1RS-es Camfosy - Botas de Cuero para mujer  color Verde  talla 39.5 EU'
+slug: 'B07GZPF1RS-es Camfosy - Botas de Cuero para mujer color Verde talla 39.5 EU'
+tags: 
 actualPrice: 78.69 EUR
 currency: EUR
 price: 78.69

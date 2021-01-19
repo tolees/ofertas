@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gLLiabBeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T239DQJ-es Simpeak Funda Compatible con Xiaomi Mi 9T / Mi 9T Pro + Cristal Vidrio Templado  Funda Compatible con Xiaomi Mi 9T TPU Silicona Ultra Fino Protector de Pantalla y Carcasa Case de Cristal  Transparente'
+slug: 'B07T239DQJ-es Simpeak Funda Compatible con Xiaomi Mi 9T / Mi 9T Pro +...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

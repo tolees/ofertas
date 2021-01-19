@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zyCAI+lqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7V99KZ-es IXROAD Cámara Deportiva 4K WiFi 24MP Camara Acuatica Sumergible Agua de 40M con Gyro Anti-Vibración Pantalla Táctil Control Remoto 2 Baterías 1350mAh y Múltiples Accesorios'
+slug: 'B07Z7V99KZ-es IXROAD Cámara Deportiva 4K WiFi 24MP Camara Acuatica...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

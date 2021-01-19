@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yKzRzymbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS4KLRX-es bugatti 431846015550  Zapatillas para Mujer  Amarillo Yellow Gold 5051  36 EU'
+slug: 'B07VS4KLRX-es bugatti 431846015550 Zapatillas para Mujer Amarillo Yellow...'
+tags: 
 actualPrice: 15.34 EUR
 currency: EUR
 price: 15.34

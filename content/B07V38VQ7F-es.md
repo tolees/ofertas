@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aoth8HbFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V38VQ7F-es Sanetta Badehose Bañador de natación  Azul  Blau 50150   92 cm para Niños'
+slug: 'B07V38VQ7F-es Sanetta Badehose Bañador de natación Azul Blau 50150 92 cm...'
+tags: 
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

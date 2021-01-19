@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31A9rfpb-RL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MJM8MF-es Fyasa 706571-t04 disfraz de pollito  grande'
+slug: 'B075MJM8MF-es Fyasa 706571-t04 disfraz de pollito grande'
+tags: 
 actualPrice: 18.64 EUR
 currency: EUR
 price: 18.64

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G2cK13qWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLP9HBP-es TUBBZ Oficial Borderlands 3 Mercancías Tina Figurita Carácter del Pato'
+slug: 'B07TLP9HBP-es TUBBZ Oficial Borderlands 3 Mercancías Tina Figurita...'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nBa81V6zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2M3QYZ-es Adidas Adilette Aqua  Zapatillas de Cross Unisex Adulto  Blanco  Ftwbla/Negbás/Ftwbla 000   42 EU'
+slug: 'B07K2M3QYZ-es Adidas Adilette Aqua Zapatillas de Cross Unisex Adulto...'
+tags: 
 actualPrice: 5.01 EUR
 currency: EUR
 price: 5.01

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SZksk9sJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCSS74V-es Mellerware Bari Legend cafetera espresso programable 20 bares y filtro extracream. Acero inoxidable'
+slug: 'B07VCSS74V-es Mellerware Bari Legend cafetera espresso programable 20...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

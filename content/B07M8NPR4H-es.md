@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PGoQk3acL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8NPR4H-es Samsonite Maleta  Oro Amarillo  Amarillo  - 115518/1371'
+slug: 'B07M8NPR4H-es Samsonite Maleta Oro Amarillo Amarillo - 115518/1371'
+tags: 
 actualPrice: 112.61 EUR
 currency: EUR
 price: 112.61

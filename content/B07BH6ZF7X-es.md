@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Uy-nmi12L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BH6ZF7X-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Cuero CL60004'
+slug: 'B07BH6ZF7X-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

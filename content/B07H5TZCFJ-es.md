@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XRSpZdhML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5TZCFJ-es Fujifilm Instax Mini 9 - Cámara instantanea  solo cámara  Rosa Suave'
+slug: 'B07H5TZCFJ-es Fujifilm Instax Mini 9 - Cámara instantanea solo cámara...'
+tags: 
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

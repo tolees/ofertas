@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Kv1jGziTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVVGF9P-es Proficare BHT 3015 - Set de Cortapelo  afeitadora corporal  recortador de precisión  cortador oido y nariz  batería recargable  azul'
+slug: 'B07BVVGF9P-es Proficare BHT 3015 - Set de Cortapelo afeitadora corporal...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

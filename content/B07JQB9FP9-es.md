@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qm2sTyiwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQB9FP9-es Jack & Jones Jjimarco Jjbowie Sa Noos Pantalones  Negro  Black Black   W36/L34  Talla del Fabricante: 36  para Hombre'
+slug: 'B07JQB9FP9-es Jack & Jones Jjimarco Jjbowie Sa Noos Pantalones Negro...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51o8UTUzJwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00137UGIA-es Intex 68324NP - Barca Hinchable Excursion 4 con 2 Remos 315 x 165 x 43 cm'
+slug: 'B00137UGIA-es Intex 68324NP - Barca Hinchable Excursion 4 con 2 Remos...'
+tags: 
 actualPrice: 107.07 EUR
 currency: EUR
 price: 107.07

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51GyzqncBSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P75RNQN-es deAO Unidad de Defensa Base Militar Vehículos de Fuerzas Armadas Coleccionables Conjunto de 12 Piezas'
+slug: 'B07P75RNQN-es deAO Unidad de Defensa Base Militar Vehículos de Fuerzas...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C8UYFqTtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DSBBCX8-es 1 Unidad de Etiqueta Protectora de Raqueta de Tenis para Prácticas y Entrenamientos Hecho de Poliéster - Blanco'
+slug: 'B07DSBBCX8-es 1 Unidad de Etiqueta Protectora de Raqueta de Tenis para...'
+tags: 
 actualPrice: 8.17 EUR
 currency: EUR
 price: 8.17

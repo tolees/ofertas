@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311m+ah4SDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OJ3UJ2S-es Sabrent Caja de Disco Duro Externo sin Herramientas SATA a USB 3.0 de 2.5 Pulgadas [Optimizado para SSD  Soporte UASP SATA III] Negro  EC-UASP '
+slug: 'B00OJ3UJ2S-es Sabrent Caja de Disco Duro Externo sin Herramientas SATA a...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

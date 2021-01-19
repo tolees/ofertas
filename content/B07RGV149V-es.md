@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wq5TAX1KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGV149V-es New Balance Hombre Fresh Foam Arishi v3 Scarpe Running  Negro  Black/White   44.5 EU'
+slug: 'B07RGV149V-es New Balance Hombre Fresh Foam Arishi v3 Scarpe Running...'
+tags: 
 actualPrice: 45.05 EUR
 currency: EUR
 price: 45.05

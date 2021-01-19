@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ep3kQ+msL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4P24SP-es De Longhi Dolce Gusto Infinissima EDG260.R - Cafetera de cápsulas  15 bares de presión  color rojo'
+slug: 'B07G4P24SP-es De Longhi Dolce Gusto Infinissima EDG260.R - Cafetera de...'
+tags: 
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

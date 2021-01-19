@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aMR8LuXFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000G04LWM-es Juwel 88049 - Algodón Filtro del Acuario bioflow 3.0 / Compacto'
+slug: 'B000G04LWM-es Juwel 88049 - Algodón Filtro del Acuario bioflow 3.0 /...'
+tags: 
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

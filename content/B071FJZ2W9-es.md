@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s7veuqepL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FJZ2W9-es QUEEN ROSE Tendedero Tipo Torre  para Interior y Exterior  con alas Plegables'
+slug: 'B071FJZ2W9-es QUEEN ROSE Tendedero Tipo Torre para Interior y Exterior...'
+tags: 
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

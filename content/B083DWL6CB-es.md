@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61umSBgAIZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DWL6CB-es Caja para pilas ignífuga  bolsa de transporte con probador  mantiene 216 pilas de diferentes tamaños para AAA  AA  9 V  C y D  tamaño y comprobador  sin pilas '
+slug: 'B083DWL6CB-es Caja para pilas ignífuga bolsa de transporte con probador...'
+tags: 
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

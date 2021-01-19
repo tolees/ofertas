@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+7AhBBAxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y5YD5M5-es Moleskine - Agenda Semanal de 18 Meses  Agenda Semanal 2020/2021  Agenda Semana Vista con Tapa Dura y Cierre Elástico  Tamaño Grande 13 x 21 cm  Color Negro  208 Páginas'
+slug: 'B07Y5YD5M5-es Moleskine - Agenda Semanal de 18 Meses Agenda Semanal...'
+tags: 
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

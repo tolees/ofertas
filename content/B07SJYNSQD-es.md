@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jItDH2YyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJYNSQD-es Bonsenkitchen Bolsas de Vacio para Alimentos  Rollos al Vacio Gofradas para para Conservación de Alimentos y Sous Vide Cocina & Boilable  50 Bolsas 15x25cm  - VB8905'
+slug: 'B07SJYNSQD-es Bonsenkitchen Bolsas de Vacio para Alimentos Rollos al...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

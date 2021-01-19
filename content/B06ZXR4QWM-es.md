@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eJ78GC4JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZXR4QWM-es ZTE A610 Plus - Smartphone Libre de 5.5"  Cámara Principal de 13 MP  Almacenamiento Interno de 32 GB  Color Gris'
+slug: 'B06ZXR4QWM-es ZTE A610 Plus - Smartphone Libre de 5.5" Cámara Principal...'
+tags: 
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

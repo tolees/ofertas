@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HsIz8sg5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075XQH8HN-es Orbegozo VT 2410 Vinoteca de 24 Botellas  Dos Zonas de Temperatura  140 W de Potencia  52 litros de Volumen  Display Digital  Panel de Control táctil  iluminación LED  68 litros  Metal  Negro'
+slug: 'B075XQH8HN-es Orbegozo VT 2410 Vinoteca de 24 Botellas Dos Zonas de...'
+tags: 
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

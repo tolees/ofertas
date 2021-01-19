@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QgjmmeE3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008F8C8AE-es Singer 1409 Promise - Máquina de Coser Mecánica  9 puntadas  120 V  color Blanco'
+slug: 'B008F8C8AE-es Singer 1409 Promise - Máquina de Coser Mecánica 9 puntadas...'
+tags: 
 actualPrice: 100.63 EUR
 currency: EUR
 price: 100.63

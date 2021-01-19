@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VamE+CpdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N7F5YQW-es EMPIRE GAMING – Nuevo – Ratón Gamer por Cable Hellhounds – 7200 dpi – 7 Botones programables con Software – Retroiluminación RGB – Forma ergonómica'
+slug: 'B07N7F5YQW-es EMPIRE GAMING – Nuevo – Ratón Gamer por Cable Hellhounds –...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

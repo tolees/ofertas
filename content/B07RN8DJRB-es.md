@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rAGmPFoFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RN8DJRB-es Funko Pop Movies: Us-Pluto w/Mask Chase  Stlyes May Vary  Figura Coleccionable  Multicolor  44315 '
+slug: 'B07RN8DJRB-es Funko Pop Movies: Us-Pluto w/Mask Chase Stlyes May Vary...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

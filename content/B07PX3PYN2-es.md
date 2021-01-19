@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SfMjXFq6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PX3PYN2-es Todocama - Almohada viscoelástica Cervical con diseño ergonómico terapéutico. Doble Funda extraíble y Lavable. Fabricada íntegramente en España. Almohada Premium.  67x35x13cm '
+slug: 'B07PX3PYN2-es Todocama - Almohada viscoelástica Cervical con diseño...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

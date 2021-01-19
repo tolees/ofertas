@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eTeiRcX2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07989VXRW-es Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable FTW1158'
+slug: 'B07989VXRW-es Fossil Reloj Analogico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 126.89 EUR
 currency: EUR
 price: 126.89

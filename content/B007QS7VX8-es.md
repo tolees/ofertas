@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fz+iTfnOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007QS7VX8-es Pierre Lannier 295C488 - Reloj analógico de Cuarzo para Hombre con Correa de Piel  Color Gris'
+slug: 'B007QS7VX8-es Pierre Lannier 295C488 - Reloj analógico de Cuarzo para...'
+tags: 
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Df-9jYjVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5MZB7G-es Tommy Hilfiger Tommy Tipped Slim Polo  Azul  Desert Sky   Large  Talla del Fabricante:  para Hombre'
+slug: 'B07W5MZB7G-es Tommy Hilfiger Tommy Tipped Slim Polo Azul Desert Sky...'
+tags: 
 actualPrice: 31.96 EUR
 currency: EUR
 price: 31.96

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YoM77VFZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R2X2MZY-es MAGEFESA Star Olla a presión rápida  fácil Uso  Acero Inoxidable 18/10  Apta para inducción. Fondo termodifusor  3 Sistemas de Seguridad  Recta  14L '
+slug: 'B00R2X2MZY-es MAGEFESA Star Olla a presión rápida fácil Uso Acero...'
+tags: 
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

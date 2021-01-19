@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YornnjWUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTNM9X5-es United Colors of Benetton Jeans Pantalones  Azul  BLU Scuro 911   82  Talla del Fabricante: 1Y  para Bebés'
+slug: 'B07KTNM9X5-es United Colors of Benetton Jeans Pantalones Azul BLU Scuro...'
+tags: 
 actualPrice: 6.43 EUR
 currency: EUR
 price: 6.43

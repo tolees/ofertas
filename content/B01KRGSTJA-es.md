@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bjhPNQ0QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KRGSTJA-es Beurer IPL 7500 - Depiladora de luz  pulsada compacta  con cartucho de 150.000 pulsaciones  color blanco'
+slug: 'B01KRGSTJA-es Beurer IPL 7500 - Depiladora de luz pulsada compacta con...'
+tags: 
 actualPrice: 98.89 EUR
 currency: EUR
 price: 98.89

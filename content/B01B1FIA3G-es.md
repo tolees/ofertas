@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511FpEm4l3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B1FIA3G-es San Miguel Cerveza Sin Alcohol - Paquete de 24 x 250 ml - Total: 6000 ml'
+slug: 'B01B1FIA3G-es San Miguel Cerveza Sin Alcohol - Paquete de 24 x 250 ml -...'
+tags: 
 actualPrice: 10.26 EUR
 currency: EUR
 price: 10.26

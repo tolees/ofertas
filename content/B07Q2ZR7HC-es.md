@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZXMML5fHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2ZR7HC-es WOSTOO Faja Reductora Adelgazante  Hombre Mujer Neopreno Cintura Entrenador  Faja Lumbar de Trabajo Ajustable Ayuda a Reducir Cintura y Abdomen Cinturón Transpirable Cintura para Deporte Fitness'
+slug: 'B07Q2ZR7HC-es WOSTOO Faja Reductora Adelgazante Hombre Mujer Neopreno...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

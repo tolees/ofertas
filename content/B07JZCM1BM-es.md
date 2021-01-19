@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hLAmrq-ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZCM1BM-es adidas Tastigo19 SHO Pantalones Cortos de Deporte  Niños  Negro  Black/White   9-10 años  Talla del Fabricante: 140 '
+slug: 'B07JZCM1BM-es adidas Tastigo19 SHO Pantalones Cortos de Deporte Niños...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

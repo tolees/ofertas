@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41c7JewQ5uL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVKVKNH-es New Balance Fresh Foam Roav   Zapatillas de Running para Hombre  Negro  Magnet Magnet   46.5 EU'
+slug: 'B07DVKVKNH-es New Balance Fresh Foam Roav Zapatillas de Running para...'
+tags: 
 actualPrice: 54 EUR
 currency: EUR
 price: 54

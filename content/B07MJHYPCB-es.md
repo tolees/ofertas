@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nnnMq-AxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJHYPCB-es molezu Máscara de Veneno con Cara de fusión de la Lengua  Casco látex Cosplay Accesorios de Disfraces Halloween Prop Film'
+slug: 'B07MJHYPCB-es molezu Máscara de Veneno con Cara de fusión de la Lengua...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

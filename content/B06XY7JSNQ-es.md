@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oeaZ4hvCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XY7JSNQ-es DoGeek Bolsas de Malla de Lavandería Bolsas de Lavado para Ropa Interior  Calcetines Sujetadores  Camiseta，Ropa de Bebé  Blanco  2 pcs '
+slug: 'B06XY7JSNQ-es DoGeek Bolsas de Malla de Lavandería Bolsas de Lavado para...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

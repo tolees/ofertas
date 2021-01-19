@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k-AekpEkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9ZRBHN-es Twinzee Picadora de Carne Eléctrica 1500W  Blanco - para Carne y Salchichas - Robot Cocina  Picador de Carne con 3 Placas de Corte y 3 Boquillas para Salchichas - Picadora Profesional'
+slug: 'B07T9ZRBHN-es Twinzee Picadora de Carne Eléctrica 1500W Blanco - para...'
+tags: 
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

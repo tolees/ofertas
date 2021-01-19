@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GIgPrAwSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G7DQ95W-es Lacoste Ah3467 suéter  Azul Farine-Marine Multicolore M65  X-Small  Talla del Fabricante: 2  para Hombre'
+slug: 'B07G7DQ95W-es Lacoste Ah3467 suéter Azul Farine-Marine Multicolore M65...'
+tags: 
 actualPrice: 56.42 EUR
 currency: EUR
 price: 56.42

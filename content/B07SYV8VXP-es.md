@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JjyDNTdqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYV8VXP-es Duérmete Online Duérmete Gran Confort-Colchón Muelles Ensacados + Viscoelástica Iron Pro con 7 Zonas de Descanso  Libertad de Movimientos  150 x 190'
+slug: 'B07SYV8VXP-es Duérmete Online Duérmete Gran Confort-Colchón Muelles...'
+tags: 
 actualPrice: 253.16 EUR
 currency: EUR
 price: 253.16

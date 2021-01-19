@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511EuKH3BYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HHL451U-es Citizen Super Titanium - Reloj de Cuarzo para Hombre  con Correa de Titanio  Color Plateado'
+slug: 'B00HHL451U-es Citizen Super Titanium - Reloj de Cuarzo para Hombre con...'
+tags: 
 actualPrice: 179.22 EUR
 currency: EUR
 price: 179.22

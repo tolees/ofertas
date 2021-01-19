@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NUHnxY15L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895K1RXT-es AnamSafdarButt59 Negro y Plata Aleación de Aluminio USB Externo 2.0 7.1 CH Virtual Audio Tarjeta de Sonido Adaptador Convertidor Portátil Promoción'
+slug: 'B0895K1RXT-es AnamSafdarButt59 Negro y Plata Aleación de Aluminio USB...'
+tags: 
 actualPrice: 5.21 EUR
 currency: EUR
 price: 5.21

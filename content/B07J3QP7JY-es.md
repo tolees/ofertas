@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J3QP7JY-es K-GOLEIRO 18'
+tags: 
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

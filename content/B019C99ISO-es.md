@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gv8r94tyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019C99ISO-es Opticum 9184 QA Antena de satélite con 80 monobloque de Aluminio Doble LNB - LMTP 04 A/H Gris Claro'
+slug: 'B019C99ISO-es Opticum 9184 QA Antena de satélite con 80 monobloque de...'
+tags: 
 actualPrice: 24.24 EUR
 currency: EUR
 price: 24.24

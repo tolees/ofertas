@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y3kp7LwlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BF16JS-es Canon Cartucho de tinta Negro para MX850-MP500-MP530-MP600-MP600R-MP610-MP800-MP800R-MP810-MP830-iP4200-iP4200x-iP4300-iP4500-iP4500x-iP5200-iP5200R-iP5300-iP6600D-iP6700D-PRO9000-PRO9000MarkII'
+slug: 'B000BF16JS-es Canon Cartucho de tinta Negro para...'
+tags: 
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

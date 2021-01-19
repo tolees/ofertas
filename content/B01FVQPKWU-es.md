@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51swRI9USGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FVQPKWU-es Vaessen Creative Plástico Mágico  Blanco  4 Hojas  Tamaño 21 x 30 cm  Divertidos Proyectos de Arte y Manualidades para Todas Las Edades'
+slug: 'B01FVQPKWU-es Vaessen Creative Plástico Mágico Blanco 4 Hojas Tamaño 21...'
+tags: 
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

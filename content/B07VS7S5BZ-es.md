@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OynJ7yuSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS7S5BZ-es Almohada de Viaje  Almohada Cervical de Viaje  Almohada de Cuello Espuma de Memoria  con Mascaras y Tapones para Los Oídos por Viajes  Hogar y Oficina-Azul'
+slug: 'B07VS7S5BZ-es Almohada de Viaje Almohada Cervical de Viaje Almohada de...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

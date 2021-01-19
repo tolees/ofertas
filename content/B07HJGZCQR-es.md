@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NpL1ot0sL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJGZCQR-es Pop! Stranger Things S2 - Figura de Vinilo Eleven  Snowball Dance '
+slug: 'B07HJGZCQR-es Pop! Stranger Things S2 - Figura de Vinilo Eleven Snowball...'
+tags: 
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kcAu3VJeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SU494CI-es Todeco - Bouncer para Bebés  Cuna Bouncer - Tamaño: 80 x 51 x 60 cm - Carga máxima: 10 kg - Patrón de mar'
+slug: 'B00SU494CI-es Todeco - Bouncer para Bebés Cuna Bouncer - Tamaño: 80 x 51...'
+tags: 
 actualPrice: 34.09 EUR
 currency: EUR
 price: 34.09

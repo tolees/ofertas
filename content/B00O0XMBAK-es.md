@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Juh9TM0nL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O0XMBAK-es Superga 2750 COTU Classic  Zapatillas Unisex  Gris  Grey Vapor Sx8V   35 EU'
+slug: 'B00O0XMBAK-es Superga 2750 COTU Classic Zapatillas Unisex Gris Grey...'
+tags: 
 actualPrice: 30.81 EUR
 currency: EUR
 price: 30.81

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416CAYamgML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F5OPRG2-es Muévete | Potente antiinflamatorio con acción analgésica | Reduce y elimina eolores | Regenerador articular | Potente cúrcuma + colágeno + magnesio + condroitina + MSM + vitamina C | 50 unidades'
+slug: 'B01F5OPRG2-es Muévete | Potente antiinflamatorio con acción analgésica |...'
+tags: 
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

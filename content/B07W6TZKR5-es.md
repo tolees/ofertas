@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VtMUGtOHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6TZKR5-es Scratch Art LANMOK Rascar Creativas Papel Manualidades con Rabados Dibujo scratch láminas decoración DIY para niños pintar rascando dibujos infántiles coloridos con plantillas y pencil de madera'
+slug: 'B07W6TZKR5-es Scratch Art LANMOK Rascar Creativas Papel Manualidades con...'
+tags: 
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8LYZ67-es Azzaro Wanted Girl Edp Vapo 80 ml - 80 ml'
+tags: 
 actualPrice: 72.62 EUR
 currency: EUR
 price: 72.62

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ir-aAaRVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T6JB3ZN-es Orbegozo ADR 126 – Aire Acondicionado portátil con Bomba clasificación energética A/A+  frío/Calor   Mando a Distancia  deshumidificador  Pantalla LCD  Blanco'
+slug: 'B07T6JB3ZN-es Orbegozo ADR 126 – Aire Acondicionado portátil con Bomba...'
+tags: 
 actualPrice: 429.25 EUR
 currency: EUR
 price: 429.25

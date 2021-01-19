@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K1a0FpKlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005FJSVHK-es Epson C13T70124010 - Cartucho de tinta  cian  Ya disponible en Amazon Dash Replenishment'
+slug: 'B005FJSVHK-es Epson C13T70124010 - Cartucho de tinta cian Ya disponible...'
+tags: 
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

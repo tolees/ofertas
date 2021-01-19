@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OEokCA++L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYW85CZ-es Triumph Amourette 300 W X Sujetador con Aros  Morado  95B  Talla del Fabricante: 80B  para Mujer'
+slug: 'B07MYW85CZ-es Triumph Amourette 300 W X Sujetador con Aros Morado 95B...'
+tags: 
 actualPrice: 27.04 EUR
 currency: EUR
 price: 27.04

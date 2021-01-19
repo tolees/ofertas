@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sBMRSvnxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0744KPYVP-es Calcetines de Senderismo de Lana Merino 3 pares  Marrón  EU 43-47 '
+slug: 'B0744KPYVP-es Calcetines de Senderismo de Lana Merino 3 pares Marrón EU...'
+tags: 
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

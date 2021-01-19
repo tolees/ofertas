@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XUFIdSkcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQSRGJF-es deAO Conjunto de Herramientas 3 en 1 de Juguete Play Set Juego Taller de Bricolaje Infantil Taladro y Sierras de Plástico con Función de Movimiento y Sonidos Reales'
+slug: 'B07PQSRGJF-es deAO Conjunto de Herramientas 3 en 1 de Juguete Play Set...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

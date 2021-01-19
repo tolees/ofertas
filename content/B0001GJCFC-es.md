@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0001GJCFC-es B+W Clear Haze SC 010 - Filtro UV de 95 mm'
+tags: 
 actualPrice: 34.74 EUR
 currency: EUR
 price: 34.74

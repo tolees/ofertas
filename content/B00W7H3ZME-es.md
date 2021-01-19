@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41L62SXxy-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W7H3ZME-es LEABAGS Fort Wayne Estuche de auténtico Cuero búfalo en el Estilo Vintage - Muskat'
+slug: 'B00W7H3ZME-es LEABAGS Fort Wayne Estuche de auténtico Cuero búfalo en el...'
+tags: 
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

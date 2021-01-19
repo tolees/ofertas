@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l4L4EoEjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HS3GQAU-es Hama 00101219 maletines para portátil 43 9 cm  17.3"  Maletín Negro - Funda  Maletín  43 9 cm  17.3"   Tirante para Hombro  1 14 kg  Negro '
+slug: 'B00HS3GQAU-es Hama 00101219 maletines para portátil 43 9 cm 17.3"...'
+tags: 
 actualPrice: 36.69 EUR
 currency: EUR
 price: 36.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ofyrh6ulL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T8HK35K-es Finocam Espiral You Floral  Agenda 2020  Mediano - E5-117 x 181 mm'
+slug: 'B07T8HK35K-es Finocam Espiral You Floral Agenda 2020 Mediano - E5-117 x...'
+tags: 
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

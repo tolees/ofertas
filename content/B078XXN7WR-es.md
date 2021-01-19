@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41acQO1hRnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XXN7WR-es adidas SST Windbreaker Cortavientos  Hombre  AMATRI  XS'
+slug: 'B078XXN7WR-es adidas SST Windbreaker Cortavientos Hombre AMATRI XS'
+tags: 
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

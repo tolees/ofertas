@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iNH5kjAOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YWTM28P-es NUK Chupete espacial de silicona  forma adaptada a la mandíbula  18 – 36 meses  gato y oso polar'
+slug: 'B07YWTM28P-es NUK Chupete espacial de silicona forma adaptada a la...'
+tags: 
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

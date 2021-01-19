@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XgU5NTQaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082D1J7FX-es 50ml Original Perfume Para Hombres  Perfume Estilo Líquido De Colonia  Perfume Duradero Para Caballeros'
+slug: 'B082D1J7FX-es 50ml Original Perfume Para Hombres Perfume Estilo Líquido...'
+tags: 
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

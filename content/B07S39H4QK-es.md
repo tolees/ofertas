@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QHa7S25LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S39H4QK-es LA Active Tobillera Calcetines Antideslizantes - 6 Pares - para Bebé Niños Niñas Infantil Recién Nacido  Niñas  3-6 Meses '
+slug: 'B07S39H4QK-es LA Active Tobillera Calcetines Antideslizantes - 6 Pares -...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

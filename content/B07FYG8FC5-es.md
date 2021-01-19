@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z7AwS5ZEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYG8FC5-es Smart MAX My First Farm Animals  Multicolor  25cm x 25cm x 6cm  Smart Toys and Games GmbH SMX 221 '
+slug: 'B07FYG8FC5-es Smart MAX My First Farm Animals Multicolor 25cm x 25cm x...'
+tags: 
 actualPrice: 19.34 EUR
 currency: EUR
 price: 19.34

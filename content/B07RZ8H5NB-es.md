@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31USCJGqbCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ8H5NB-es Levi s Graphic Sport Hoodie Capucha  Blanco  Photo Film BRW White+ 0143   Small para Mujer'
+slug: 'B07RZ8H5NB-es Levi s Graphic Sport Hoodie Capucha Blanco Photo Film BRW...'
+tags: 
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

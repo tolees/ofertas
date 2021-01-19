@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VhqKqZoIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003OSUIRK-es IEC 10a C14 3 Pines Chasis Panel Montar Clavija Pines Conector 6 35 mm TABS'
+slug: 'B003OSUIRK-es IEC 10a C14 3 Pines Chasis Panel Montar Clavija Pines...'
+tags: 
 actualPrice: 2.08 EUR
 currency: EUR
 price: 2.08

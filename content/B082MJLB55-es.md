@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IyocxWaGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MJLB55-es Klarstein Speed Iron V2 plancha de vapor - 2100 W depósito extraíble de 1100 ml  EasyGlide: tabla de aluminio y nanocerámica  temperatura regulable en 4 niveles  vapor de 30-40 g/min  blanco/azul'
+slug: 'B082MJLB55-es Klarstein Speed Iron V2 plancha de vapor - 2100 W depósito...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

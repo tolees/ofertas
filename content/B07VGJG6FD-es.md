@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UywDuwCtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGJG6FD-es Qkiss Cepillo Redondo  Cepillo Redondo Cerámico Profesional Iones Negativos Portátil Antiestático Cepillo de Salón de Belleza Herramientas para el Cabello Peine Masajeador Dorado 25mm '
+slug: 'B07VGJG6FD-es Qkiss Cepillo Redondo Cepillo Redondo Cerámico Profesional...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

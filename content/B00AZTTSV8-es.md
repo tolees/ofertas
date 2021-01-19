@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413WoKgVehL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AZTTSV8-es HP CN626AE 971XL Cartucho de Tinta Original de alto rendimiento  1 unidad  cian'
+slug: 'B00AZTTSV8-es HP CN626AE 971XL Cartucho de Tinta Original de alto...'
+tags: 
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

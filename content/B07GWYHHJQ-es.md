@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4139+iFs1mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWYHHJQ-es auna Ultrasonic BT Boombox - Bluetooth hasta 10 m   Puerto USB   Entrada AUX   Potencia: 2 x 20 W   Pantalla LCD   Función Karaoke   Micrófono Incluido   Negro'
+slug: 'B07GWYHHJQ-es auna Ultrasonic BT Boombox - Bluetooth hasta 10 m Puerto...'
+tags: 
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

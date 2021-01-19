@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ENBXeot6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1WVQPF-es Brooks Launch 6  Zapatillas de Running para Hombre  Multicolor  Bluebird/Peacoat/Shade 435   40.5 EU'
+slug: 'B07S1WVQPF-es Brooks Launch 6 Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 45.08 EUR
 currency: EUR
 price: 45.08

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ya75427DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G77Y0UK-es KabelDirekt 1m Cable Micro USB   USB 2.0  Conector USB A al Conector Micro USB B  Sincronización y Carga   PRO Series'
+slug: 'B01G77Y0UK-es KabelDirekt 1m Cable Micro USB USB 2.0 Conector USB A al...'
+tags: 
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

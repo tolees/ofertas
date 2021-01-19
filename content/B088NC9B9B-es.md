@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A-1L0b5VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088NC9B9B-es Junio1 Cubierta de Techo con Dosel Giratorio para Patio Exterior Jardinería'
+slug: 'B088NC9B9B-es Junio1 Cubierta de Techo con Dosel Giratorio para Patio...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

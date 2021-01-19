@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41N9TpCkJ8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4B4DBP-es Piz Buin - Protector Solar  Hydro Infusion Crema Solar Facial en Gel SPF 30 Protección Alta'
+slug: 'B07N4B4DBP-es Piz Buin - Protector Solar Hydro Infusion Crema Solar...'
+tags: 
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

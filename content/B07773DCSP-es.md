@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FBE8nJd6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07773DCSP-es Black+Decker 9045853BND Accesorios para Compresor de Aire  BD KIT 5 PCS METAL'
+slug: 'B07773DCSP-es Black+Decker 9045853BND Accesorios para Compresor de Aire...'
+tags: 
 actualPrice: 28.73 EUR
 currency: EUR
 price: 28.73

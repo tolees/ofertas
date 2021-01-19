@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ej3dKECFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZMGLYL-es Under Armour Sc30 Sleeveless tee Tanque  Niños  Negro  Black/Red Rage 001   XS'
+slug: 'B07CZMGLYL-es Under Armour Sc30 Sleeveless tee Tanque Niños Negro...'
+tags: 
 actualPrice: 19.42 EUR
 currency: EUR
 price: 19.42

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WxU62IT2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZ2BF5-es PUMA Cali Bold Wn s  Zapatillas Deportivas para Mujer  White-Metallic Gold  40 EU'
+slug: 'B07KFZ2BF5-es PUMA Cali Bold Wn s Zapatillas Deportivas para Mujer...'
+tags: 
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

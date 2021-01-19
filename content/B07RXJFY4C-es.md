@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pC7BrbKkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXJFY4C-es New Balance 373v2  Zapatillas para Hombre  Marfil  Off AC   43 EU'
+slug: 'B07RXJFY4C-es New Balance 373v2 Zapatillas para Hombre Marfil Off AC 43 EU'
+tags: 
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

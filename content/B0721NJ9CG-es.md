@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hBOkTOzXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0721NJ9CG-es Superga Damen 2790 Lamew Sneaker  Grau  Grey   39'
+slug: 'B0721NJ9CG-es Superga Damen 2790 Lamew Sneaker Grau Grey 39'
+tags: 
 actualPrice: 41.42 EUR
 currency: EUR
 price: 41.42

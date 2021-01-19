@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41orjnOJApL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003V5KWWM-es Australian Gold  Aceite corporal acelerador del bronceado - 237 ml.'
+slug: 'B003V5KWWM-es Australian Gold Aceite corporal acelerador del bronceado -...'
+tags: 
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JumKhIjNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UYYZWXC-es HOMCOM Remolque para Niños DOS PLAZAS con Amortiguadores Carro para Bicicleta CON BARRA INCLUIDA y Kit de Footing COLOR VERDE y NEGRO'
+slug: 'B00UYYZWXC-es HOMCOM Remolque para Niños DOS PLAZAS con Amortiguadores...'
+tags: 
 actualPrice: 90.94 EUR
 currency: EUR
 price: 90.94

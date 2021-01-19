@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xk2nf4jSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ24GS7-es Fdit Perros Clipper Eléctrico Profesional Pet Grooming Pelo  Recargable Cordless Cats para máquina de Afeitar de bajo Ruido Heavy Duty Clippers Tool Kit para Cachorro Horses and Kids'
+slug: 'B07JQ24GS7-es Fdit Perros Clipper Eléctrico Profesional Pet Grooming...'
+tags: 
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517bbcMmR1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MED7LTG-es 5BILLION Fortalecedor de Mano & Estiramiento de Dedo - Entrenador de Fuerza para Ejercicio de Antebrazo  Fortalezas de Dedo de Guitarra y Escalada de Roca  Hand & Finger Set '
+slug: 'B01MED7LTG-es 5BILLION Fortalecedor de Mano & Estiramiento de Dedo -...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

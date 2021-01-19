@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31obzrNo1vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVQNHK3-es Adidas Daily 2.0  Zapatillas para Hombre  Negro  Black F34468   46 2/3 EU'
+slug: 'B07MVQNHK3-es Adidas Daily 2.0 Zapatillas para Hombre Negro Black F34468...'
+tags: 
 actualPrice: 34.74 EUR
 currency: EUR
 price: 34.74

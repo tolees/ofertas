@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OtAzJLC+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MLPGRN-es PUMA Smash WNS V2 L  Zapatillas para Mujer  Negro Black White  37.5 EU'
+slug: 'B077MLPGRN-es PUMA Smash WNS V2 L Zapatillas para Mujer Negro Black...'
+tags: 
 actualPrice: 32.96 EUR
 currency: EUR
 price: 32.96

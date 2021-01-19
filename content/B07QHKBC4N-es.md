@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51thR7tMGeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHKBC4N-es PUMA Campus Grip Bag Retro Bolsa Deporte  Adultos Unisex  Black  OSFA'
+slug: 'B07QHKBC4N-es PUMA Campus Grip Bag Retro Bolsa Deporte Adultos Unisex...'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zELIhK-YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVLCC7D-es DYNASONIC - Dynapro 10 - Altavoz Inalámbrico Sistema Audio Profesional Megafonia Portátil | Lector USB Bluetooth Radio FM y Micrófonos  Color Negro  DYNAPRO 10 '
+slug: 'B07QVLCC7D-es DYNASONIC - Dynapro 10 - Altavoz Inalámbrico Sistema Audio...'
+tags: 
 actualPrice: 104.0 EUR
 currency: EUR
 price: 104.0

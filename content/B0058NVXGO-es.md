@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wWJKtEj9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0058NVXGO-es Veet Tarro Cera Depilatoria Tibia de Resultados Profesional sin Bandas con Cera Natural de Abeja  300 ml'
+slug: 'B0058NVXGO-es Veet Tarro Cera Depilatoria Tibia de Resultados...'
+tags: 
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

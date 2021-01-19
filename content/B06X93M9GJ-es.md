@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LWIBmwGeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X93M9GJ-es Pierre Cardin PC106042S01 - Reloj de cuarzo para mujer  Swiss Made'
+slug: 'B06X93M9GJ-es Pierre Cardin PC106042S01 - Reloj de cuarzo para mujer...'
+tags: 
 actualPrice: 48.69 EUR
 currency: EUR
 price: 48.69

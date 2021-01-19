@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315eTgCW4XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQ78VH5-es Rimmel London Lasting Radiance Concealer  Corrector de maquillaje. Tono 50'
+slug: 'B07NQ78VH5-es Rimmel London Lasting Radiance Concealer Corrector de...'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

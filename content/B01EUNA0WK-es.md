@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519GJaqk8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EUNA0WK-es Bright Starts  Disney Baby Hamaca Minnie Garden Delights'
+slug: 'B01EUNA0WK-es Bright Starts Disney Baby Hamaca Minnie Garden Delights'
+tags: 
 actualPrice: 83.75 EUR
 currency: EUR
 price: 83.75

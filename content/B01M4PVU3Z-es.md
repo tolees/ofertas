@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aOSKFKP+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M4PVU3Z-es Justfwater Deporte Botella de Agua de Cristal con Funda de Silicona 350ml'
+slug: 'B01M4PVU3Z-es Justfwater Deporte Botella de Agua de Cristal con Funda de...'
+tags: 
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

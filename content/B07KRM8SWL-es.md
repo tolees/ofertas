@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRM8SWL-es New Balance 373 Zapatillas Hombre  Marrón  Brown   44.5 EU'
+slug: 'B07KRM8SWL-es New Balance 373 Zapatillas Hombre Marrón Brown 44.5 EU'
+tags: 
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

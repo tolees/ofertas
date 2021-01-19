@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SUGTScAAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WP55ZZ9-es Mascarilla para los ojos  Máscaras antiarrugas para los ojos  Ojos Parches  Máscara para ojos de colágeno  Con colágeno de vitamina C  Anti edad para ojeras bolsas patas de gallo e hinchazón  30 pcs'
+slug: 'B07WP55ZZ9-es Mascarilla para los ojos Máscaras antiarrugas para los...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

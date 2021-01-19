@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51it9QS2fIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088MD48SD-es Foto Clip Cadena de Luces LED  Guirnalda de Luces para Decoración de Fotos I 40 LEDs 6m I Pinzas fotos I Fotoclips I Clip Cadena de Luces'
+slug: 'B088MD48SD-es Foto Clip Cadena de Luces LED Guirnalda de Luces para...'
+tags: 
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

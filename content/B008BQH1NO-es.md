@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YgOuV00EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008BQH1NO-es Amazon - Funda de cuero para Kindle Paperwhite  color negro ónix - no es compatible con la versión del 2018  10.ª generación '
+slug: 'B008BQH1NO-es Amazon - Funda de cuero para Kindle Paperwhite color negro...'
+tags: 
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414bkqLdnKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH1TJL9-es Skechers VERRADO BROGEN  Zapatillas Altas para Hombre  Multicolor  Blue Red Black Brbk   40 EU'
+slug: 'B07JH1TJL9-es Skechers VERRADO BROGEN Zapatillas Altas para Hombre...'
+tags: 
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

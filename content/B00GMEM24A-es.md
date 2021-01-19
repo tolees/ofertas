@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T6ygbx+JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GMEM24A-es Belkin F8J054btBLK - Cargador para coche 12 W  para smartphones y tabletas  compatible con iPhone 7/7+ y iPhone 6s/6s+   negro'
+slug: 'B00GMEM24A-es Belkin F8J054btBLK - Cargador para coche 12 W para...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

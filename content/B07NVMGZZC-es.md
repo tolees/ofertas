@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4187vLnbDuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVMGZZC-es Relaxdays Set de cubertería de bambú  10x Cuchillo  Tenedor  Cuchara  Cucharilla  Soporte de madera  Reutilizable  Marrón'
+slug: 'B07NVMGZZC-es Relaxdays Set de cubertería de bambú 10x Cuchillo Tenedor...'
+tags: 
 actualPrice: 30.75 EUR
 currency: EUR
 price: 30.75

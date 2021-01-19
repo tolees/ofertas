@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YV23nKlIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001LF1KGG-es Grohe Minta - Grifo de fregadero 1/2"  caño en L  cromo  Ref. 32168000 '
+slug: 'B001LF1KGG-es Grohe Minta - Grifo de fregadero 1/2" caño en L cromo Ref....'
+tags: 
 actualPrice: 145.86 EUR
 currency: EUR
 price: 145.86

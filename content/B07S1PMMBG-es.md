@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q3q-9o3tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1PMMBG-es New Balance 574v2  Zapatillas para Mujer  Gris  Grey Eq   36 EU'
+slug: 'B07S1PMMBG-es New Balance 574v2 Zapatillas para Mujer Gris Grey Eq 36 EU'
+tags: 
 actualPrice: 45.33 EUR
 currency: EUR
 price: 45.33

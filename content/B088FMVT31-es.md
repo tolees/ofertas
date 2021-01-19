@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zcKH2VwcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FMVT31-es Nuevo 1 par 1 Canal transceptor de Video pasivo para cámara CCTV Balun Conector Utp promoción Caliente Color Negro - Negro'
+slug: 'B088FMVT31-es Nuevo 1 par 1 Canal transceptor de Video pasivo para...'
+tags: 
 actualPrice: 2.34 EUR
 currency: EUR
 price: 2.34

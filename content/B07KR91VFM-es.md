@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eWSoOFWOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR91VFM-es New Balance Fresh Foam Roav  Zapatillas de Running para Mujer  Rosa  Oxygen Oxygen   42.5 EU'
+slug: 'B07KR91VFM-es New Balance Fresh Foam Roav Zapatillas de Running para...'
+tags: 
 actualPrice: 45 EUR
 currency: EUR
 price: 45

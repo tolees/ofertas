@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k9nO9ANLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TQ4QVB-es IDEASY Tableta de Escritura LCD de 8.5 Pulgadas  Tableta de Dibujo de un Solo Color  Tablero de Escritura LCD Electrónico para Niños  Escuela  el Hogar y la Oficina  Rojo '
+slug: 'B088TQ4QVB-es IDEASY Tableta de Escritura LCD de 8.5 Pulgadas Tableta de...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

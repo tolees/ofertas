@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3145FaVbMnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KZ8JWGE-es 10 "12" 16 " Barra De Apoyo De Seguridad De Soporte De Carril Manillar Baño De Acero Inoxidable - Plata  40 cm'
+slug: 'B01KZ8JWGE-es 10 "12" 16 " Barra De Apoyo De Seguridad De Soporte De...'
+tags: 
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

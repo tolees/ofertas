@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HZ-D%2BAMTL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZJ4X7W-es Kickers Lohan  Zapatillas Altas Unisex Niños  Rojo  Noir Bordeaux 81   33 EU'
+slug: 'B07MZJ4X7W-es Kickers Lohan Zapatillas Altas Unisex Niños Rojo Noir...'
+tags: 
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

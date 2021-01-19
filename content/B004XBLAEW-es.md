@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bbFm3-g2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004XBLAEW-es Maped 197512 - Pack de compás  abrazadera y estuche de minas'
+slug: 'B004XBLAEW-es Maped 197512 - Pack de compás abrazadera y estuche de minas'
+tags: 
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-RDqIchGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KPR0XFE-es Candy CMXC30DCS Horno  Microondas con Grill  Capacidad 30L  Plato Giratorio 31 5cm  40 programas automáticos  Potencia 900W/110/2500 W  Color Silver  900 W  30 litros'
+slug: 'B01KPR0XFE-es Candy CMXC30DCS Horno Microondas con Grill Capacidad 30L...'
+tags: 
 actualPrice: 152.15 EUR
 currency: EUR
 price: 152.15

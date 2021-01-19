@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZqVG+J8WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S81WQNB-es Vibrador Sexual Femenino Recargable con USB Sweet&Hot – Juguete Erótico para Mujeres y Parejas Ideal para Estimular Punto G y Clítoris – Masajeador de silicona 8 Velocidades Silencioso e Impermeable'
+slug: 'B07S81WQNB-es Vibrador Sexual Femenino Recargable con USB Sweet&Hot –...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

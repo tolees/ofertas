@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EIgJGQ8ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R6TRKVK-es Nike Y Nk H86 Cap Metal Swoosh Hat  Unisex niños  Azul  Obsidian/Metallic Silver   Talla única'
+slug: 'B00R6TRKVK-es Nike Y Nk H86 Cap Metal Swoosh Hat Unisex niños Azul...'
+tags: 
 actualPrice: 2.01 EUR
 currency: EUR
 price: 2.01

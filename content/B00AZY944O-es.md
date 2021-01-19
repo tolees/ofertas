@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LMJHpjRFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AZY944O-es BLACK+DECKER FSM1630-QS - Mopa a vapor 1600W  500 ml  incluye 3 mopas y accesorio para alfombras'
+slug: 'B00AZY944O-es BLACK+DECKER FSM1630-QS - Mopa a vapor 1600W 500 ml...'
+tags: 
 actualPrice: 108.0 EUR
 currency: EUR
 price: 108.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412h3N0ElnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MD3ZP1B-es Skechers GO Walk 5 Qualify  Zapatillas para Hombre  Azul Navy Textile Synthetic Trim Nvy  50 EU'
+slug: 'B07MD3ZP1B-es Skechers GO Walk 5 Qualify Zapatillas para Hombre Azul...'
+tags: 
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

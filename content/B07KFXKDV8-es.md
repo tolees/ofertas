@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fxUqyDUaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFXKDV8-es PUMA Tarrenz SB Puretex  Zapatillas Unisex Adulto  Moss Green Black  46 EU'
+slug: 'B07KFXKDV8-es PUMA Tarrenz SB Puretex Zapatillas Unisex Adulto Moss...'
+tags: 
 actualPrice: 40.41 EUR
 currency: EUR
 price: 40.41

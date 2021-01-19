@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nT3Gv4xqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0734DH4NX-es Asus ROG Pugio - Ratón óptico por cable diseño ambidiestro  botones laterales personalizables  interruptores desmontables fijación por encaje  iluminación Asus Aura RGB  soporte Aura Sync'
+slug: 'B0734DH4NX-es Asus ROG Pugio - Ratón óptico por cable diseño ambidiestro...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

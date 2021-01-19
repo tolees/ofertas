@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21-hzD5fvHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JX8HT3-es Blindecor Ara Estor Enrollable translúcido Liso  Poliéster  Blanco Optico  100 X 250 cm'
+slug: 'B087JX8HT3-es Blindecor Ara Estor Enrollable translúcido Liso Poliéster...'
+tags: 
 actualPrice: 32.85 EUR
 currency: EUR
 price: 32.85

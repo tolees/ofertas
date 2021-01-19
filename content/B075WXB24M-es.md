@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SfJjExQUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WXB24M-es Cecotec Tostadora Acero Steel&Toast 1L. 6 Niveles de Potencia  Capacidad para 2 Tostadas  3 Funciones  Tostar  Recalentar  Descongelar   Incluye Soporte Panecillos  con Bandeja Recogemigas  1000 W'
+slug: 'B075WXB24M-es Cecotec Tostadora Acero Steel&Toast 1L. 6 Niveles de...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

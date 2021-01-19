@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qOugtt6IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CZDBQH6-es Spirella 5PCS Set  Negro colección Pingy  Alfombrilla de Ducha  PVC'
+slug: 'B00CZDBQH6-es Spirella 5PCS Set Negro colección Pingy Alfombrilla de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

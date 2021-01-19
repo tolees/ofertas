@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419MN1w-6fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6BS7P3-es EMPIRE GAMING - Micrófono Gamer PC  Mac  Consolas – Micro Ideal Podcast Youtube  Streaming Twitch  Charlas  Canciones - Retroiluminación LED RGB 15 Modos – Cable USB - Negro Rojo'
+slug: 'B07S6BS7P3-es EMPIRE GAMING - Micrófono Gamer PC Mac Consolas – Micro...'
+tags: 
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

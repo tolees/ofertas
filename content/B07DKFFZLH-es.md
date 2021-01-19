@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bAspz+SIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKFFZLH-es Kipling - Multiple  Shoppers y bolsos de hombro Mujer  Gris  Active Grey Bl '
+slug: 'B07DKFFZLH-es Kipling - Multiple Shoppers y bolsos de hombro Mujer Gris...'
+tags: 
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

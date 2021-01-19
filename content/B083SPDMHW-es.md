@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+nfCK1YPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SPDMHW-es TedGem Ventilador USB  Ventilador PC Mini Ventilador USB Batería 2000mAh Silencioso Ventilador USB Portátil Ventilador PC  para Oficina/Hogar/Viajar/Acampar  USB Alimentado 3 Velocidad   Negro '
+slug: 'B083SPDMHW-es TedGem Ventilador USB Ventilador PC Mini Ventilador USB...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

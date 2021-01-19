@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mFPD0m2xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9NPQNB-es VULKKANO Blast el Altavoz Bluetooth más potente con 30W Resiste agua y arena  perfecto en playa  piscina  ducha  Altavoz inalámbrico portátil estéreo compatible con móvil  ordenador  TV  etc...'
+slug: 'B01N9NPQNB-es VULKKANO Blast el Altavoz Bluetooth más potente con 30W...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

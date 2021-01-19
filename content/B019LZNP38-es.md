@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rILljiQKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019LZNP38-es Candy CDH30 Encimera Vitrocerámica Dominó Integrada  30 cm  2 zonas de cocción  3000 W'
+slug: 'B019LZNP38-es Candy CDH30 Encimera Vitrocerámica Dominó Integrada 30 cm...'
+tags: 
 actualPrice: 114.69 EUR
 currency: EUR
 price: 114.69

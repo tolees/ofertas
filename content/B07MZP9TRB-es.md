@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vwzdu5ocL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZP9TRB-es Pepe Jeans Kim suéter   Black 999   Large para Mujer'
+slug: 'B07MZP9TRB-es Pepe Jeans Kim suéter Black 999 Large para Mujer'
+tags: 
 actualPrice: 22.23 EUR
 currency: EUR
 price: 22.23

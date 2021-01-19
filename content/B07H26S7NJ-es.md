@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313ytyQmxUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H26S7NJ-es COMVIP - Calcetines hasta la rodilla - Liso - para hombre  Hombre  color Style3 White Black  tamaño Talla única'
+slug: 'B07H26S7NJ-es COMVIP - Calcetines hasta la rodilla - Liso - para hombre...'
+tags: 
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

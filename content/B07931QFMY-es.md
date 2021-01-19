@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CUgaPMOlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07931QFMY-es Mr; Wonderful Woa08921Es Vela Con Mensaje "Eres La Coincidencia Más Genial De Mi Vida"  Multicolor'
+slug: 'B07931QFMY-es Mr; Wonderful Woa08921Es Vela Con Mensaje "Eres La...'
+tags: 
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

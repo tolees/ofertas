@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jmdTKl7YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814S2YVH-es Under Armour UA Driver Highlight Cap Gorra con Visera  Funcional Gorrapara Hombre  Negro  OSFA'
+slug: 'B0814S2YVH-es Under Armour UA Driver Highlight Cap Gorra con Visera...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

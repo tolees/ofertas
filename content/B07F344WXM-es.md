@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UDsUR-zHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F344WXM-es Helly Hansen - HH Racing Bag  Shoppers y Bolsos de Hombro Unisex Adulto  Negro  Black   25x55x31 cm  B x H T '
+slug: 'B07F344WXM-es Helly Hansen - HH Racing Bag Shoppers y Bolsos de Hombro...'
+tags: 
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

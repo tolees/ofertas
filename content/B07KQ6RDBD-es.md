@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eyGvbptAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ6RDBD-es B Blesiya 2 Pcs Disquetes USB Tornillos con Jumpers Adecuada para Textiles Reemplazo Interfraz Compatibilidad'
+slug: 'B07KQ6RDBD-es B Blesiya 2 Pcs Disquetes USB Tornillos con Jumpers...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

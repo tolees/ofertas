@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iEvGURtQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4TMWMJ-es White Patchwork Quilt  King Size quilts for sale  Patchwork Comforter  Soft Throw Blanket House warming gifts  FREE SHIPPING'
+slug: 'B07Q4TMWMJ-es White Patchwork Quilt King Size quilts for sale Patchwork...'
+tags: 
 actualPrice: 237.0 EUR
 currency: EUR
 price: 237.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31b9zI0stfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SPZ21X-es PUMA 655307 03 Capucha  Hombre  Rojo  Red/White   S'
+slug: 'B077SPZ21X-es PUMA 655307 03 Capucha Hombre Rojo Red/White S'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

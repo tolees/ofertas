@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413w-PMo4qL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYYSLPT-es Smilodox Shorts  Pantalones Cortos para Hombre  multicolor  S'
+slug: 'B01LYYSLPT-es Smilodox Shorts Pantalones Cortos para Hombre multicolor S'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

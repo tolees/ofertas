@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cE1m-9YFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081F6MC9N-es Taurus R850 Ventilador humidificador  3 velocidades y modos  temporizador 7h  7 L  mando a distancia  Plastic'
+slug: 'B081F6MC9N-es Taurus R850 Ventilador humidificador 3 velocidades y modos...'
+tags: 
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

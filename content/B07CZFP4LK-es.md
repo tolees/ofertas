@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Bfu2nVVsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZFP4LK-es Under Armour Favorite Legging WM Ar Leggings  Mujer  Negro  Black/Onyx White 001   L'
+slug: 'B07CZFP4LK-es Under Armour Favorite Legging WM Ar Leggings Mujer Negro...'
+tags: 
 actualPrice: 24.82 EUR
 currency: EUR
 price: 24.82

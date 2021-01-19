@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+TqATNIRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086JXHS3L-es iMiMi Kraft Arts rollo de papel para pinturas  1 pieza de arte de pared blanca  caballete  papel de pizarra de anuncios sin decoloración'
+slug: 'B086JXHS3L-es iMiMi Kraft Arts rollo de papel para pinturas 1 pieza de...'
+tags: 
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

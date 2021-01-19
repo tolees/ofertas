@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41II-L0s8lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N5TXTQK-es Bausch & Lomb - PureVision 2 Multifocales - Lentes de Contacto Para Presbicia'
+slug: 'B00N5TXTQK-es Bausch & Lomb - PureVision 2 Multifocales - Lentes de...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

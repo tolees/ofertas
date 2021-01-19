@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0187YRQSO-es Pandora Abalorios Mujer plata - 791443ENMX'
+tags: 
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

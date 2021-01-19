@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mCSZTz8dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JSZ9YK-es Optimum Nutrition ON Amino Energy pre workout powder keto friendly con beta alanina  cafeína  vitamina C  aminoacidos micronizados incluyendo BCAA  té helado  30 porciones  270 g'
+slug: 'B072JSZ9YK-es Optimum Nutrition ON Amino Energy pre workout powder keto...'
+tags: 
 actualPrice: 16.03 EUR
 currency: EUR
 price: 16.03

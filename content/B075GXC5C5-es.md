@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gTo7Cj-5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GXC5C5-es Adidas VL Court 2.0 K Db1827  Zapatillas Unisex Niños  Negro Negbas Ftwbla 000  38 EU'
+slug: 'B075GXC5C5-es Adidas VL Court 2.0 K Db1827 Zapatillas Unisex Niños Negro...'
+tags: 
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

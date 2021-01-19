@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YkZd0JdOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGH259Y-es Winsor & Newton Cotman Set regalo acuarela  multicolor  12 piezas  10 colores  1 pincel  1 almohadilla '
+slug: 'B07HGH259Y-es Winsor & Newton Cotman Set regalo acuarela multicolor 12...'
+tags: 
 actualPrice: 25.82 EUR
 currency: EUR
 price: 25.82

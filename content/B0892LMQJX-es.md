@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Z-LIfBZiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0892LMQJX-es luosh 10 Hojas de Papel de calco de vitela translúcido A4 para Dibujar bocetos de impresión de Dibujos Animados de Dibujo cómico'
+slug: 'B0892LMQJX-es luosh 10 Hojas de Papel de calco de vitela translúcido A4...'
+tags: 
 actualPrice: 6.51 EUR
 currency: EUR
 price: 6.51

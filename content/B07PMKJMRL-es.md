@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51a2SwZ0wDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMKJMRL-es deAO Juego de Tiro al Blanco Conjunto de Ballesta Juguete Playset Infantil Incluye Diana con Soporte y Cinturón para Flechas de Plástico'
+slug: 'B07PMKJMRL-es deAO Juego de Tiro al Blanco Conjunto de Ballesta Juguete...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

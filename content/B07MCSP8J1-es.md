@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yms4YqI0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSP8J1-es Napapijri ERBER Polo  Negro  Black 041   S para Hombre'
+slug: 'B07MCSP8J1-es Napapijri ERBER Polo Negro Black 041 S para Hombre'
+tags: 
 actualPrice: 31.6 EUR
 currency: EUR
 price: 31.6

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CbOs-H+aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVKCBP9-es Zer one Ventilador de refrigeración de la CPU  portátil de bajo Ruido Ventilador de la CPU Disipación rápida del Calor Laptop Ventilador de refrigeración de la CPU para portátil HP EliteBook'
+slug: 'B07NVKCBP9-es Zer one Ventilador de refrigeración de la CPU portátil de...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

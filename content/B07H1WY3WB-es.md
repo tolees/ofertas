@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pwltlw1+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H1WY3WB-es Rizador Pelo Profesional 6 en 1  Plancha Pelo Curling Iron Juego de varillas de hierro curling negro con turmalina de cerámica Barril de hierro con guante resistente al calor'
+slug: 'B07H1WY3WB-es Rizador Pelo Profesional 6 en 1 Plancha Pelo Curling Iron...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

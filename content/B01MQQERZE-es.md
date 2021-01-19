@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51umfYrP+LL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQQERZE-es Woxter Stinger Hub Red- Hub multipuerto retroiluminado  4 Puertos  USB  soporte para teléfono y compartimento para tarjetas SD   Color Rojo'
+slug: 'B01MQQERZE-es Woxter Stinger Hub Red- Hub multipuerto retroiluminado 4...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

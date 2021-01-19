@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411dPyHAkAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CFLJ27-es Nurana Cosmetics  Crema diurna facial con factor de protección 50- 50 ml.'
+slug: 'B071CFLJ27-es Nurana Cosmetics Crema diurna facial con factor de...'
+tags: 
 actualPrice: 4.71 EUR
 currency: EUR
 price: 4.71

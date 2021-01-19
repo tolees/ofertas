@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071YD14BJ-es Cowboy Bebop Blu-Ray Edición Coleccionistas [Blu-ray]'
+tags: 
 actualPrice: 45.54 EUR
 currency: EUR
 price: 45.54

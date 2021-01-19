@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tUvai4DAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZZP9D3G-es Funko- Pop Harry Potter-Malfoy w/Whip Spider Figura Coleccionable  Multicolor  Estándar  48069 '
+slug: 'B07ZZP9D3G-es Funko- Pop Harry Potter-Malfoy w/Whip Spider Figura...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

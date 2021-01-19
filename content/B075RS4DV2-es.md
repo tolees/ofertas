@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZQxFEKwkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RS4DV2-es Ayotu Estuche de Colores para Kindle Paperwhite-Se Adapta a Todas Las Generaciones de Paperwhite anteriores a 2018 No se Ajusta a la 10ª generación de Paperwhite  K5-09 The Boy and Fox'
+slug: 'B075RS4DV2-es Ayotu Estuche de Colores para Kindle Paperwhite-Se Adapta...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

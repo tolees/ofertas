@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31leZj+hiCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HSCY96Q-es Tatay Baobab Cesta para la Colada  Plástico polipropileno  Blanco  35 litros de capacidad. 52 x 42 5 x 26 5'
+slug: 'B07HSCY96Q-es Tatay Baobab Cesta para la Colada Plástico polipropileno...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

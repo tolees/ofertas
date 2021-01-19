@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DCDGCXG-es Caterpillar Colorado  Botas Hombre  Beige  Honey Mariner   45 EU'
+slug: 'B00DCDGCXG-es Caterpillar Colorado Botas Hombre Beige Honey Mariner 45 EU'
+tags: 
 actualPrice: 73.47 EUR
 currency: EUR
 price: 73.47

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OpPvZFjdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008BT1GBE-es Philips 12258LLECOS2 LongLife EcoVision - Bombillas para faros delanteros  H1  2 unidades '
+slug: 'B008BT1GBE-es Philips 12258LLECOS2 LongLife EcoVision - Bombillas para...'
+tags: 
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

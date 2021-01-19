@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41680jtTvIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRSKT5S-es Brooks Mach 18  Zapatillas de Cross para Hombre   Orange/Pink/Black 861   49.5 EU'
+slug: 'B07DRSKT5S-es Brooks Mach 18 Zapatillas de Cross para Hombre...'
+tags: 
 actualPrice: 34.79 EUR
 currency: EUR
 price: 34.79

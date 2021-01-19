@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wyKCIc8NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000IWHXH8-es Krups GVX242 Molinillo de café profesional con sistema de muelas con torno-molido y 17 ajustes de triturado  de más fino a más grueso  potencia 100 W  Negro'
+slug: 'B000IWHXH8-es Krups GVX242 Molinillo de café profesional con sistema de...'
+tags: 
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

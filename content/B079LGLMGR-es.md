@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413LIADlP5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LGLMGR-es American Tourister - Bon Air - Spinner Equipaje de mano 55 cm  32 L  Rosa  Azalea Pink '
+slug: 'B079LGLMGR-es American Tourister - Bon Air - Spinner Equipaje de mano 55...'
+tags: 
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

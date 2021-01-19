@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e7oEVvxiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015Q8BYW8-es Lotus 18208/2 - Reloj para Hombre  Cuarzo  analógico  Correa de Piel  Color Negro'
+slug: 'B015Q8BYW8-es Lotus 18208/2 - Reloj para Hombre Cuarzo analógico Correa...'
+tags: 
 actualPrice: 101.85 EUR
 currency: EUR
 price: 101.85

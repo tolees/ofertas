@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FEJC1KO-es Kit de Reparación Bestway Parche Extra Fuerte'
+tags: 
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

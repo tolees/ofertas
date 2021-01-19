@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hS-GCAmvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086C5WLYH-es Funda para Samsung Galaxy Note 10 Lite 360°Full Body Protección [Suave TPU Silicona Delantero] [PC dura Atrás] Transparente Flip Protectora Carcasa para Samsung Galaxy Note 10 Lite  6.7 Pulgadas '
+slug: 'B086C5WLYH-es Funda para Samsung Galaxy Note 10 Lite 360°Full Body...'
+tags: 
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

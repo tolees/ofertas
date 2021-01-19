@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413cpOOAoeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0823MLHQ8-es Amzdeal Grifo de Cocina Giratorio de 360°  Grifo para Fregadero con Cartucho Cerámico y Caño Alto  Grifería Monomando con Aireador  Agua Fría/Caliente Opcionales  Diseño Clásico para Cocina y Baño'
+slug: 'B0823MLHQ8-es Amzdeal Grifo de Cocina Giratorio de 360° Grifo para...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

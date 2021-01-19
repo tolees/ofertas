@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41V1jSk3k9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7TFJKJ-es HXDZFX Barra de cristal transparente con revestimiento de resina epoxi para mesa de madera  kit de 9.7 onzas'
+slug: 'B07V7TFJKJ-es HXDZFX Barra de cristal transparente con revestimiento de...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

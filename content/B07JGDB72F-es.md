@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P4GU+WtOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGDB72F-es Columbia Redmond V2 Mid  Botas de Senderismo Impermeables para Mujer  Gris  Steam  Daredevi 088   42 EU'
+slug: 'B07JGDB72F-es Columbia Redmond V2 Mid Botas de Senderismo Impermeables...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

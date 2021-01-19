@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AZqqfkwEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHN91BB-es Swimways 6038062 - Pelota de fútbol Luminosa reactorz  Colores Surtidos'
+slug: 'B06XHN91BB-es Swimways 6038062 - Pelota de fútbol Luminosa reactorz...'
+tags: 
 actualPrice: 8 EUR
 currency: EUR
 price: 8

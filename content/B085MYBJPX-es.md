@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61ZxgT1N9qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085MYBJPX-es CT Aspersor Trampolín Set Cama elástica de Jardín Water Play Sprinklers Pipe  Hechos para Sujetar en la Caja de Red de Seguridad del trampolín  8 m '
+slug: 'B085MYBJPX-es CT Aspersor Trampolín Set Cama elástica de Jardín Water...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

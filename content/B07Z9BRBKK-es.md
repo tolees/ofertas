@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jkRcLfyCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z9BRBKK-es B Baosity Filtro de Aire para Cabina de Polen para Coche  Automóvil 28x25x8cm'
+slug: 'B07Z9BRBKK-es B Baosity Filtro de Aire para Cabina de Polen para Coche...'
+tags: 
 actualPrice: 16.57 EUR
 currency: EUR
 price: 16.57

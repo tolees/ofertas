@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wRAnV6iPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVD8R2M-es Arealer Masajeador de Hombros Eléctrico para el Cuello  Cervical Shiatsu Masajeador con Calor de Cuello  con Rotación 3D Masaje y 3 Velocidades Ajustables  para el Automóvil de la Oficina en Casa'
+slug: 'B07JVD8R2M-es Arealer Masajeador de Hombros Eléctrico para el Cuello...'
+tags: 
 actualPrice: 37.59 EUR
 currency: EUR
 price: 37.59

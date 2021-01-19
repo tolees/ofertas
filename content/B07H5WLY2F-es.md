@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mwXpOCjSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5WLY2F-es Skechers Sepulveda Blvd-A La Mode  Zapatillas sin Cordones para Mujer  Morado  Lilac Microfiber/Off White Trim Lila   41 EU'
+slug: 'B07H5WLY2F-es Skechers Sepulveda Blvd-A La Mode Zapatillas sin Cordones...'
+tags: 
 actualPrice: 27.17 EUR
 currency: EUR
 price: 27.17

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lx2pwQf8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HR52VV-es adidas Con18 PES Jkt Sport Jacket  Hombre  Blanco/Negro  XS'
+slug: 'B076HR52VV-es adidas Con18 PES Jkt Sport Jacket Hombre Blanco/Negro XS'
+tags: 
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

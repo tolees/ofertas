@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sXKrVq7dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVJ3QLQ-es Kaisi Kit Herramienta movil Destornillador Apertura de Pantalla LCD Desmontar moviles reparación para reemplazar la batería y Abrir teléfono para iPhone7 7plus iPhone Series  iPads  iPad Air Samsung'
+slug: 'B07NVJ3QLQ-es Kaisi Kit Herramienta movil Destornillador Apertura de...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

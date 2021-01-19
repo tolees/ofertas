@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LIQF7JOuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GKDVWHQ-es 2 Pares Calcetines Mujer Hombre Senderismo Calcetines para Trekking Transpirable  Alto Rendimiento Térmicos  Transpirables  Acolchados y Antiampollas  Calcetines de Montaña  2 Pares Azul  EU 39-42 '
+slug: 'B08GKDVWHQ-es 2 Pares Calcetines Mujer Hombre Senderismo Calcetines para...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

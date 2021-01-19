@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Mft-mxk0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HXH7DYD-es LEXIBOOK Powerman: el Robot Educativo Inteligente para Jugar y Aprender  Baila  Canta  Cuenta Chistes  Mando a distanc Distancia  Color Blanco  ROB50ES '
+slug: 'B07HXH7DYD-es LEXIBOOK Powerman: el Robot Educativo Inteligente para...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

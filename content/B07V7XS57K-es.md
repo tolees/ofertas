@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316JuY2MwqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7XS57K-es Tommy Hilfiger Core Corporate Textile Sneaker  Zapatillas para Hombre  Negro  Black Bds   46 EU'
+slug: 'B07V7XS57K-es Tommy Hilfiger Core Corporate Textile Sneaker Zapatillas...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

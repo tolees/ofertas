@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51g570UWZ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWLQKZD-es Slypnos - Estera de la Silla de PVC  Estera de Protección para el Suelo Transparente  Alfombrilla para Silla para Suelos Duros  Protector de Suelo  Rectangular  sin BPA  122 cm x 76 cm'
+slug: 'B07RWLQKZD-es Slypnos - Estera de la Silla de PVC Estera de Protección...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

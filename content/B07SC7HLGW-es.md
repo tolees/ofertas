@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FsVafdyML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SC7HLGW-es Cooko Decantador de Vino  Decantador de Aireación de Vino de Cristal Premium  Jarra de Vino Sin Plomo  Hecho a Mano Accesorios de Vino con 1200ml'
+slug: 'B07SC7HLGW-es Cooko Decantador de Vino Decantador de Aireación de Vino...'
+tags: 
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

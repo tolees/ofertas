@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BymgiO7rL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B001ANYYBC-es Clairefontaine 3999C - Lote de 25 Cuadernos grapados CLAIRENFANTINE A5 MAXI rayado francés  Séyès 2mm IV  de 32 páginas  colores surtidos'
+slug: 'B001ANYYBC-es Clairefontaine 3999C - Lote de 25 Cuadernos grapados...'
+tags: 
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

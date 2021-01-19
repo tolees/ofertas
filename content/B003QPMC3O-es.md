@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mcRgnyPxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B003QPMC3O-es Samsung  CLT-C4072S/ELS Tóner Láser Cian 1.000 Páginas'
+slug: 'B003QPMC3O-es Samsung CLT-C4072S/ELS Tóner Láser Cian 1.000 Páginas'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zwV99MkcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDGK7JG-es Xnuoyo Limpiador de poros  Extractor Puntos Negros Blackhead Removers Limpiador Puntos Negros Acne Vacuum Remover con Recargable Electric para Facial Nose Pore Cleanser'
+slug: 'B07TDGK7JG-es Xnuoyo Limpiador de poros Extractor Puntos Negros...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

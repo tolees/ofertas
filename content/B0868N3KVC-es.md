@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51U+AV8EQRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868N3KVC-es Suhctup Transparente Funda Compatible con OnePlus 6 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para OnePlus 6 5 '
+slug: 'B0868N3KVC-es Suhctup Transparente Funda Compatible con OnePlus 6...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

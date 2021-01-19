@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-6LzBoPZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYHLNDK-es Linterna Frontal LED Recargable de Trabajo  6000 Lúmenes Función de Zoom 4 Modos de Luz con Flash  Ligera Elástica  Impermeable para Ciclismo  Correr  Deportes Nocturnos'
+slug: 'B07ZYHLNDK-es Linterna Frontal LED Recargable de Trabajo 6000 Lúmenes...'
+tags: 
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

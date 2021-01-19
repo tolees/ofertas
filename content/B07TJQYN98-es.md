@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31LIxKA82GL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJQYN98-es secador de uñas 36W Anself 36 W Lámpara de uñas Inteligente de LED/UV con Pantalla LCD 3 Temporizadores Secadora de Uñas con Carga USB'
+slug: 'B07TJQYN98-es secador de uñas 36W Anself 36 W Lámpara de uñas...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CSmGDfgBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXTBDZ4-es Bolsa de Cochecito de Landau Impermeable Diseñado con Suspensión de Viaje Organizador de Transporte Bolsa de Almacenamiento Portátil Cochecito de Pañales Bolsa Nero '
+slug: 'B07FXTBDZ4-es Bolsa de Cochecito de Landau Impermeable Diseñado con...'
+tags: 
 actualPrice: 10.68 EUR
 currency: EUR
 price: 10.68

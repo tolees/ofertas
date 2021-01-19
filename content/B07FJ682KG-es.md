@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FdoisPeML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJ682KG-es Clip Cadena de Luces LED  otumixx 40 Fotoclips 4 2M Foto Clips Cadena de luces LED Blanco Cálido Batería Adorno Guirnalda Luminosa LED para la ración decorativos colgantes de fotos notas ilustraciones'
+slug: 'B07FJ682KG-es Clip Cadena de Luces LED otumixx 40 Fotoclips 4 2M Foto...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

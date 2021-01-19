@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J2WsSm-BL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Z17XPP-es Tommee Tippee 42257975 - Biberón anticólico  340 ml  rosa'
+slug: 'B079Z17XPP-es Tommee Tippee 42257975 - Biberón anticólico 340 ml rosa'
+tags: 
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cMAS9LDhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ3MT2K-es New Balance 570  Zapatillas Deportivas para Interior Unisex Niños  Rosa  Pink/White Pink   38.5 EU'
+slug: 'B07DJ3MT2K-es New Balance 570 Zapatillas Deportivas para Interior Unisex...'
+tags: 
 actualPrice: 27.93 EUR
 currency: EUR
 price: 27.93

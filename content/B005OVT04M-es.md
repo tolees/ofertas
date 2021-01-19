@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Uig+0SK1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005OVT04M-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 11429-754'
+slug: 'B005OVT04M-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 118.52 EUR
 currency: EUR
 price: 118.52

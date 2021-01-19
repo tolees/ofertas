@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RKfgGbhkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9UQ9BD-es Fossil Pulsera de Mujer con Acero Inoxidable  ágata Redonda'
+slug: 'B01N9UQ9BD-es Fossil Pulsera de Mujer con Acero Inoxidable ágata Redonda'
+tags: 
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

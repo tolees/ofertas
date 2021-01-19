@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v59gEz08L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ7H84S-es Salomon RX Moc 4.0  Calzado de recuperación para Hombre  Azul  Poseidon/White/Taos Taupe   40 EU'
+slug: 'B07CZ7H84S-es Salomon RX Moc 4.0 Calzado de recuperación para Hombre...'
+tags: 
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

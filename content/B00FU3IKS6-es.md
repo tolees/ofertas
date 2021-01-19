@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gmLO3MjGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FU3IKS6-es De longhi Dragon TRD40 0615 - Radiador de aceite  1500 w  función anti heladas  3 ajustes potencia  asa y ruedas  almacenamiento cable  blanco'
+slug: 'B00FU3IKS6-es De longhi Dragon TRD40 0615 - Radiador de aceite 1500 w...'
+tags: 
 actualPrice: 94.9 EUR
 currency: EUR
 price: 94.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IgcdTkbmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWY6G8P-es OTraki Cepillo Electrico Dientes para Niños Cepillo Dientes Infantil Impermeable Temporizador Inteligente con LED Luz  Limpieza Dental Toothbrush con 2 Reemplazable Cabezas para Edad 3+  Verde '
+slug: 'B07KWY6G8P-es OTraki Cepillo Electrico Dientes para Niños Cepillo...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

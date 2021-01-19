@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T5YNpzsML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DV55B3C-es Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Verde  Green Sherwood 102   41.5 EU'
+slug: 'B00DV55B3C-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Verde...'
+tags: 
 actualPrice: 23.42 EUR
 currency: EUR
 price: 23.42

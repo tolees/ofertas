@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iYHelJenL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2V4QRB-es Adidas Falcon Zapatillas de Running Hombre  Gris  Grey Six/Ftwr White/Core Black Grey Six/Ftwr White/Core Black   40 EU'
+slug: 'B07K2V4QRB-es Adidas Falcon Zapatillas de Running Hombre Gris Grey...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

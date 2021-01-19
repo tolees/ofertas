@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410c2idDlnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NA8WG9H-es Marco Tozzi 2-2-24215-28 514  Bailarinas Mujer  Rosa  Pink Comb 514   37 EU'
+slug: 'B01NA8WG9H-es Marco Tozzi 2-2-24215-28 514 Bailarinas Mujer Rosa Pink...'
+tags: 
 actualPrice: 12.22 EUR
 currency: EUR
 price: 12.22

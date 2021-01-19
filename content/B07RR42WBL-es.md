@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C1xImt5WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RR42WBL-es s.Oliver 03.899.61.5232 suéter  Negro  Black 9999   Small para Hombre'
+slug: 'B07RR42WBL-es s.Oliver 03.899.61.5232 suéter Negro Black 9999 Small para...'
+tags: 
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

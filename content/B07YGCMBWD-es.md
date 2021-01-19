@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bgvikD9KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGCMBWD-es Mr. Wonderful  Agenda Annual 2020'
+slug: 'B07YGCMBWD-es Mr. Wonderful Agenda Annual 2020'
+tags: 
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

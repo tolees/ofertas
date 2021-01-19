@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yY7Se9MgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKH8BWY-es Adidas Tensaur C  Zapatillas de Running Unisex niño  Noir Noir Gris Foncã  29 EU'
+slug: 'B07SKH8BWY-es Adidas Tensaur C Zapatillas de Running Unisex niño Noir...'
+tags: 
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-DHGr0iaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6BNKNP-es adidas CONDIVO18 SHO Pantalones Cortos de Deporte  Hombre  Collegiate Gold/Black  S'
+slug: 'B07K6BNKNP-es adidas CONDIVO18 SHO Pantalones Cortos de Deporte Hombre...'
+tags: 
 actualPrice: 23.75 EUR
 currency: EUR
 price: 23.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y6bIgvtuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077J4P3SF-es Novex Aceite de Argán  Mascarilla Capilar - 400g'
+slug: 'B077J4P3SF-es Novex Aceite de Argán Mascarilla Capilar - 400g'
+tags: 
 actualPrice: 2.84 EUR
 currency: EUR
 price: 2.84

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V-T2cOGkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4FD67V-es Myprotein Vegan Protein Pancake Mix  1000g  1 Unidad 1000 g'
+slug: 'B07Q4FD67V-es Myprotein Vegan Protein Pancake Mix 1000g 1 Unidad 1000 g'
+tags: 
 actualPrice: 15.41 EUR
 currency: EUR
 price: 15.41

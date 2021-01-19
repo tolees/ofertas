@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KVY3CNG-es Bresser Binoculares Digitales de Visión Nocturna 3X20'
+tags: 
 actualPrice: 127.04 EUR
 currency: EUR
 price: 127.04

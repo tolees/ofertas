@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ywND1ExPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WMAQOHE-es MaGeek® [Pack de 5] 0 3m Cables Micro USB Sincroniza y Carga para Samsung  HTC  Sony  Motorola  LG  Google  Nokia etc. Blanco '
+slug: 'B00WMAQOHE-es MaGeek® [Pack de 5] 0 3m Cables Micro USB Sincroniza y...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

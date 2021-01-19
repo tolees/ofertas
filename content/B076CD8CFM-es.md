@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tuK7JxDNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CD8CFM-es TACKLIFE Carrete para Manguera  30+2m PVC Manguera Enrollable de 1/2  Rotación de 180°  24 Bar  Retirar Automáticamente  Bloquear en Cualquier Posición  Boquilla Ajustable y Soporte - GHR2A'
+slug: 'B076CD8CFM-es TACKLIFE Carrete para Manguera 30+2m PVC Manguera...'
+tags: 
 actualPrice: 88.57 EUR
 currency: EUR
 price: 88.57

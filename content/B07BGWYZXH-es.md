@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61wVto9IpcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGWYZXH-es Máscara para los ojos  Parches para los ojos  Ojos Parches  Contorno de Ojos Antiarrugas  Anti edad para ojeras bolsas patas de gallo e hinchazón  30 pares'
+slug: 'B07BGWYZXH-es Máscara para los ojos Parches para los ojos Ojos Parches...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

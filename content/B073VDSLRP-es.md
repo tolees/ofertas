@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Fuv61HHGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073VDSLRP-es Alimentador antiahogo bebe  chupete fruta bebe de NatureBond  2 piezas   mordedores bebes | Además incluye bolsitas de silicona de todos los tamaños'
+slug: 'B073VDSLRP-es Alimentador antiahogo bebe chupete fruta bebe de...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

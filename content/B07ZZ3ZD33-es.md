@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AEhQv-nPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZZ3ZD33-es Helly Hansen HH Scout Duffel L Bolsa De Deporte  Unisex Adulto  Black  90L'
+slug: 'B07ZZ3ZD33-es Helly Hansen HH Scout Duffel L Bolsa De Deporte Unisex...'
+tags: 
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

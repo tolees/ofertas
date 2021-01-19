@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4166LObQdHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072K2G5XQ-es Philips SHQ1255TBK Auriculares para Deporte con Cable micrófono  Gancho  3 Juegos de Almohadillas  Negro'
+slug: 'B072K2G5XQ-es Philips SHQ1255TBK Auriculares para Deporte con Cable...'
+tags: 
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

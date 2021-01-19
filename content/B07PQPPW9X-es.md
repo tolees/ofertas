@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MCxTSMxcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQPPW9X-es TOROCAT 1080P - Sistema de cámara de vigilancia  4 x 1080p  resistente a la intemperie  cámara HD Au?en y 8 canales DVR con disco duro de 1 TB  4 cámaras  sistema de televisión Closed-Circuit  detector de movimiento  visión nocturna  Negro'
+slug: 'B07PQPPW9X-es TOROCAT 1080P - Sistema de cámara de vigilancia 4 x 1080p...'
+tags: 
 actualPrice: 103.1 EUR
 currency: EUR
 price: 103.1

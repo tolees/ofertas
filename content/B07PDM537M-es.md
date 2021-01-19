@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hkqsOLjYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDM537M-es Maybelline New York Fit Me Blush Colorete en Polvo Mate  para Todo Tipo de Pieles  Tono 25 Pink'
+slug: 'B07PDM537M-es Maybelline New York Fit Me Blush Colorete en Polvo Mate...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

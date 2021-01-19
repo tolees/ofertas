@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415M0AsCdKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYZ2Q98-es IPOTCH Juego de Viaje de Madera Plegable 3 en 1 con Damas Ajedrez y Backgammon - 44 x 44 cm'
+slug: 'B07SYZ2Q98-es IPOTCH Juego de Viaje de Madera Plegable 3 en 1 con Damas...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

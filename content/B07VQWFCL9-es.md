@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JNnD5dLyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQWFCL9-es Calvin Klein Medium Drawstring Bañador  Rojo  High Risk XBG   X-Large para Hombre'
+slug: 'B07VQWFCL9-es Calvin Klein Medium Drawstring Bañador Rojo High Risk XBG...'
+tags: 
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

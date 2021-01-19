@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417dpJx4AxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BYROCG-es Vacu Vin 38855626-Enfriador rápido  Estampado Color Platino Enfriador para Botellas de Cava  plástico y Gel  Plateado  cm'
+slug: 'B001BYROCG-es Vacu Vin 38855626-Enfriador rápido Estampado Color Platino...'
+tags: 
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

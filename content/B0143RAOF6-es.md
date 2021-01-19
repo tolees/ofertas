@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IPAHdZQPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0143RAOF6-es Matrix Total Results High Amplify Wonder Boost - Cuidado capilar  250 ml'
+slug: 'B0143RAOF6-es Matrix Total Results High Amplify Wonder Boost - Cuidado...'
+tags: 
 actualPrice: 7.28 EUR
 currency: EUR
 price: 7.28

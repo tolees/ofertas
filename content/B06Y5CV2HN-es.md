@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KPECSUklL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y5CV2HN-es Vans Herren Classic T - Shirt  Blau  Navy/white   Medium'
+slug: 'B06Y5CV2HN-es Vans Herren Classic T - Shirt Blau Navy/white Medium'
+tags: 
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ue9Rwn3oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q5GPDTB-es The Indian Face Escalada Gorra Born to Climb Hombre y Mujer  Color Verde y Beige'
+slug: 'B07Q5GPDTB-es The Indian Face Escalada Gorra Born to Climb Hombre y...'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

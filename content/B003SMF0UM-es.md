@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51enAPNxcDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003SMF0UM-es Prym - Agujas para Coser a Mano  tamaños de 1 a 5   Color Plateado con Ojo Dorado'
+slug: 'B003SMF0UM-es Prym - Agujas para Coser a Mano tamaños de 1 a 5 Color...'
+tags: 
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

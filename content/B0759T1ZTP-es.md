@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OAYWCLljL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0759T1ZTP-es TUXWANG Bol de Acero Inoxidable Ensaladera de Acero Inoxidable Acero Inoxidable Bol Set 5in1 de Acero Inoxidable con Tapa y Medidas graduadas  apilable para un Almacenamiento mínimo'
+slug: 'B0759T1ZTP-es TUXWANG Bol de Acero Inoxidable Ensaladera de Acero...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

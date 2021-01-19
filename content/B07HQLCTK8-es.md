@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ve+TrXAjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQLCTK8-es MOBOREST Acoplador Coaxial TV Antena Coaxial T/F Tipo Antena Distribuidor Completamente Blindado Bidireccional para Adaptadores TV/T Acoplamiento Coaxial Screw 3Female-Gold'
+slug: 'B07HQLCTK8-es MOBOREST Acoplador Coaxial TV Antena Coaxial T/F Tipo...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

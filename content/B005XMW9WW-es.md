@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41VS4brCRcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XMW9WW-es DIM Generous Sujetador  Negro  90D para Mujer'
+slug: 'B005XMW9WW-es DIM Generous Sujetador Negro 90D para Mujer'
+tags: 
 actualPrice: 16 EUR
 currency: EUR
 price: 16

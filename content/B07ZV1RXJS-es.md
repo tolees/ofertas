@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51C+5uyURwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZV1RXJS-es MIKAMEE Botella de Agua Acero Inoxidable 350/500/650/750ml | Aislamiento de Vacío de Doble Pared airBottle | sin bpa Botella termica | Mantiene 24h frías/12h Calientes | para Niños  Deporte  Oficina'
+slug: 'B07ZV1RXJS-es MIKAMEE Botella de Agua Acero Inoxidable 350/500/650/750ml...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

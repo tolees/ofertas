@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Uh2iV1zFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001LFHQYG-es Revlon ColorSilk Tinte de Cabello Permanente Tono #60 Rubio Cenizo Oscuro'
+slug: 'B001LFHQYG-es Revlon ColorSilk Tinte de Cabello Permanente Tono #60...'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

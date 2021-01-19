@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FRJ09Y8dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PM99YTC-es BRIKSMAX Kit de Iluminación Led para Mini Cooper-Compatible con Ladrillos de Construcción Lego Modelo 10242-Juego de Legos no Incluido'
+slug: 'B07PM99YTC-es BRIKSMAX Kit de Iluminación Led para Mini Cooper-...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

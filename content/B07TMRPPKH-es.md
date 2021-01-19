@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eaklKXbRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMRPPKH-es Clarks Step Isle Base  Zapatillas para Hombre  Beige  Sand Canvas Sand Canvas   43 EU'
+slug: 'B07TMRPPKH-es Clarks Step Isle Base Zapatillas para Hombre Beige Sand...'
+tags: 
 actualPrice: 28.66 EUR
 currency: EUR
 price: 28.66

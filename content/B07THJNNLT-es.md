@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RHpqt2rqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THJNNLT-es 2 toallas blancas suaves de Elli y Raff Baby con capucha para el baño 100% algodón  regalo para bebé  gris '
+slug: 'B07THJNNLT-es 2 toallas blancas suaves de Elli y Raff Baby con capucha...'
+tags: 
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

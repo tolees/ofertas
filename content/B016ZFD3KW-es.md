@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5119alGdNAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016ZFD3KW-es Kepuch Custer Funda para Kindle Paperwhite 1/2/3 2012 2013 2015 2016 Slim Smart Cover Fundas Carcasa Case Protectora de PU-Cuero para Kindle Paperwhite 1/2/3 2012 2013 2015 2016 - Rojo'
+slug: 'B016ZFD3KW-es Kepuch Custer Funda para Kindle Paperwhite 1/2/3 2012 2013...'
+tags: 
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

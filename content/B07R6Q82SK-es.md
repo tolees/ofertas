@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hQBWgtx7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R6Q82SK-es Humidificador dodocool  Humidificadores Ultrasónicos de 310ML con 7-Color LED para Coche  Casa  Oficina  Bebé  Baño y Spa  Cierre Automático'
+slug: 'B07R6Q82SK-es Humidificador dodocool Humidificadores Ultrasónicos de...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

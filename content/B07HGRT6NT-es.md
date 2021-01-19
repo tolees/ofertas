@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lppDj-cKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGRT6NT-es UMI. Essentials Marco de Fotos 13 x 18 cm Set de 12  Negro'
+slug: 'B07HGRT6NT-es UMI. Essentials Marco de Fotos 13 x 18 cm Set de 12 Negro'
+tags: 
 actualPrice: 26.39 EUR
 currency: EUR
 price: 26.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eOFjgM3uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NLDJZT-es LUDOS Ultra Auriculares con Micrófono y Cable  Máxima Comodidad  Sonido Cristalino  Agudos y Graves Equilibrados  Nueva Espuma Viscoelástica  Cable Duradero  Graves  Control de Volumen'
+slug: 'B082NLDJZT-es LUDOS Ultra Auriculares con Micrófono y Cable Máxima...'
+tags: 
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

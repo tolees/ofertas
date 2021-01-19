@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xdk6Xh3+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVSWQFT-es Valentino by Mario - Summer Memento  Bolsos bandolera Mujer  Naranja  Arancione   8x15x23 cm  B x H T '
+slug: 'B07TVSWQFT-es Valentino by Mario - Summer Memento Bolsos bandolera Mujer...'
+tags: 
 actualPrice: 79.05 EUR
 currency: EUR
 price: 79.05

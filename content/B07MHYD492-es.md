@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414usNKWSHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHYD492-es Adidas Terrex Eastrail  Zapatillas de Deporte para Hombre  Multicolor  Gricua/Negbás/Gritre 000   44 EU'
+slug: 'B07MHYD492-es Adidas Terrex Eastrail Zapatillas de Deporte para Hombre...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

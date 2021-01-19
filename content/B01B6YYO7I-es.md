@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B6YYO7I-es Puma Suede Classic Mono Ref Iced Calzado desert flower'
+tags: 
 actualPrice: 35 EUR
 currency: EUR
 price: 35

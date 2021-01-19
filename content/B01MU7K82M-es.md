@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dgcQgRmzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU7K82M-es Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15  #240 Medium Beige  30ml'
+slug: 'B01MU7K82M-es Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15...'
+tags: 
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

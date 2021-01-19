@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dWyR+pyzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4QYZBP-es Under Armour Tech Pant 2.0  Pantalones Deportivos Mujer  Negro  Black/Metallic Silver   XS'
+slug: 'B07N4QYZBP-es Under Armour Tech Pant 2.0 Pantalones Deportivos Mujer...'
+tags: 
 actualPrice: 17.87 EUR
 currency: EUR
 price: 17.87

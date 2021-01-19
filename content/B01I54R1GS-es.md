@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MvjNwmaPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I54R1GS-es DIGITNOW! 22MP Escáner de negativos y diapositivas   Convertidor digital con 2 4"LCD para 35 mm/ Super 8/ 110/ 126 película'
+slug: 'B01I54R1GS-es DIGITNOW! 22MP Escáner de negativos y diapositivas...'
+tags: 
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

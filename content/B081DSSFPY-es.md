@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EAX865pEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DSSFPY-es Antena Interior TV  Antena de TV de Rango Amplificado de 120 Millas Antena TDT con Amplificador de Señal y Cable Coaxial de 12.1 FT  Digital HDTV Antena Portatil para DVB-T'
+slug: 'B081DSSFPY-es Antena Interior TV Antena de TV de Rango Amplificado de...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513cjZ7MUgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T5WR76F-es GLEGLE 16XL Cartuchos Tinta 12 Multipack Reemplazo para Compatible con EPSON Workforce WF-2630WF WF-2510WF WF-2750DWF WF-2530WF WF-2540WF WF-2760DWF WF-2650DWF WF-2660DWF WF-2520NF WF-2010W'
+slug: 'B07T5WR76F-es GLEGLE 16XL Cartuchos Tinta 12 Multipack Reemplazo para...'
+tags: 
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

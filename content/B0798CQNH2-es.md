@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qgDx1DP0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0798CQNH2-es Smoby- Spielhaus Doorbell Timbre electrónico Casitas  810900 '
+slug: 'B0798CQNH2-es Smoby- Spielhaus Doorbell Timbre electrónico Casitas 810900'
+tags: 
 actualPrice: 7.17 EUR
 currency: EUR
 price: 7.17

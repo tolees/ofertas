@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e7TiIn3gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SHX1BL-es Home Fleek - Envases de Vidrio para Alimentos | 6 Recipientes + 6 Tapas | Herméticos | Sin BPA  Set 6  Mixto Verde '
+slug: 'B083SHX1BL-es Home Fleek - Envases de Vidrio para Alimentos | 6...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

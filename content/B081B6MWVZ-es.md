@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aznkXBfvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B6MWVZ-es Columbia Windgates Polar con Cremallera Completa  Mujer  Rojo  Bright Poppy   XS'
+slug: 'B081B6MWVZ-es Columbia Windgates Polar con Cremallera Completa Mujer...'
+tags: 
 actualPrice: 48.39 EUR
 currency: EUR
 price: 48.39

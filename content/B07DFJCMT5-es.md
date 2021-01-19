@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hvKmG-FrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFJCMT5-es Funko-Pop Heroes: Aquaman-Arthur Curry  as Gladiator  DC  Multicolor  Standard  889698311762 '
+slug: 'B07DFJCMT5-es Funko-Pop Heroes: Aquaman-Arthur Curry as Gladiator DC...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

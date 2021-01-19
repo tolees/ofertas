@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ySasJCPkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X5J6SSQ-es IGLOO Nevera Portátil Transformer 56 litros con Ruedas y Asa Telescópica  Camping  Deportes  Playa  Azul  53 x 48 x 53'
+slug: 'B00X5J6SSQ-es IGLOO Nevera Portátil Transformer 56 litros con Ruedas y...'
+tags: 
 actualPrice: 61.18 EUR
 currency: EUR
 price: 61.18

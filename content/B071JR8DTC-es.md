@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31BA6bMINbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JR8DTC-es find. HWCAP0002  Pantalones Para Hombre  Beige  Tan   Large'
+slug: 'B071JR8DTC-es find. HWCAP0002 Pantalones Para Hombre Beige Tan Large'
+tags: 
 actualPrice: 9 EUR
 currency: EUR
 price: 9

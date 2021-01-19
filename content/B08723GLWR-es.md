@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IHOs-9yYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08723GLWR-es Mono de bebé Promini para bebé con texto en inglés «Future Carpenter Just Like My Uncle»  de una pieza  el mejor regalo para el bebé'
+slug: 'B08723GLWR-es Mono de bebé Promini para bebé con texto en inglés «Future...'
+tags: 
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

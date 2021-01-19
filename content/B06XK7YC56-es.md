@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51VdBHjt9gL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XK7YC56-es Playtex Ideal Beauty Lace  Sujetador de Encaje Sin Aros para Mujer  Negro  Black Grey   100C  Talla del Fabricante: 38C '
+slug: 'B06XK7YC56-es Playtex Ideal Beauty Lace Sujetador de Encaje Sin Aros...'
+tags: 
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

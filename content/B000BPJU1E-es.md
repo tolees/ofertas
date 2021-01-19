@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Au0cezmuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BPJU1E-es Staub - Olla Cocotte redonda  hierro fundido  negro mate  24 cm'
+slug: 'B000BPJU1E-es Staub - Olla Cocotte redonda hierro fundido negro mate 24 cm'
+tags: 
 actualPrice: 106.09 EUR
 currency: EUR
 price: 106.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3171Y6yvo5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078KG88BW-es Puma Leader Vt SL  Zapatillas de Running Unisex Adulto  Blanco  Puma White - Puma Black - Flame Scarlet   39 EU'
+slug: 'B078KG88BW-es Puma Leader Vt SL Zapatillas de Running Unisex Adulto...'
+tags: 
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

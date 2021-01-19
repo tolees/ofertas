@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wtbtILXHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6E5UZQ-es Avaner Rosa Reloj para Mujer La Torre Eiffel con Diamantes Reloj de Pulsera para Chica  Diseño Vintage Romantico Regalo Dia de la Madre'
+slug: 'B01N6E5UZQ-es Avaner Rosa Reloj para Mujer La Torre Eiffel con Diamantes...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

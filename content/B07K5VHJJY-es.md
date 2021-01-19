@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tYAPLYSNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K5VHJJY-es Monrodbitt Black Durable Lightweight Plug & Play USB 2.0 a 3D para Mic Speaker Audio Headset Adaptador de Tarjeta de Sonido 5.1 Canales para PC Portátil'
+slug: 'B07K5VHJJY-es Monrodbitt Black Durable Lightweight Plug & Play USB 2.0 a...'
+tags: 
 actualPrice: 1.31 EUR
 currency: EUR
 price: 1.31

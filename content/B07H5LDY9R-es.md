@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Mh3PFBxTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5LDY9R-es Atomizador de Aftershave de Botella de Aerosol de Perfume de Viaje 6ml Rellenable - Dorado'
+slug: 'B07H5LDY9R-es Atomizador de Aftershave de Botella de Aerosol de Perfume...'
+tags: 
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

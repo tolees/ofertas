@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s2QJ-W5bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BR1QTR7-es Beforya Paris** – Pendientes largos de plata de ley 925 – Pendientes con Swarovski® – Bonitos pendientes para mujer con caja de regalo'
+slug: 'B08BR1QTR7-es Beforya Paris** – Pendientes largos de plata de ley 925 –...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rrJ31ohQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000F39MZG-es Canon BCI-3e 3 Cartuchos Multipack de tinta original Cian/Magenta/Amarillo para Impresora de Inyeccion de tinta Pixma iP3000-iP4000-iP4000R-iP5000'
+slug: 'B000F39MZG-es Canon BCI-3e 3 Cartuchos Multipack de tinta original...'
+tags: 
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

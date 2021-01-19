@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DtDzwSpBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YLPVNNC-es Cecotec Cafetera Express con Manómetro Cafelizzia 790 Shiny Pro. Brazo con doble salida y dos filtros  20bares de Presión  Depósito extraíble de 1 2L  1350W  Rojo'
+slug: 'B07YLPVNNC-es Cecotec Cafetera Express con Manómetro Cafelizzia 790...'
+tags: 
 actualPrice: 84.9 EUR
 currency: EUR
 price: 84.9

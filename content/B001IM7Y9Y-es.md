@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lhnDha6SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001IM7Y9Y-es Versele-laga A-16540 Prestige Premium Loro Peri Australiano - 1 kg'
+slug: 'B001IM7Y9Y-es Versele-laga A-16540 Prestige Premium Loro Peri...'
+tags: 
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

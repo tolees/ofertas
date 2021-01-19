@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JOB76OY-es Casio Reloj de Pulsera MTP-1314PL-7AVEF'
+tags: 
 actualPrice: 33.62 EUR
 currency: EUR
 price: 33.62

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-fJx1KGOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VM8PBS-es Relaxdays Estantería y Toallero Escalera para Baño  Bambú  Beige  184 x 48 5 x 21 cm'
+slug: 'B079VM8PBS-es Relaxdays Estantería y Toallero Escalera para Baño Bambú...'
+tags: 
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510oIvXNbjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074GTSNR4-es Color Technik Water Colouring Brush Pens  Set of 6 Premium Brush Tips for Watercolor Painting  Calligraphy  Water Soluble Pencils  Brush Pen Markers  Solid Colors or Powdered Pigment  Perfect Gift'
+slug: 'B074GTSNR4-es Color Technik Water Colouring Brush Pens Set of 6 Premium...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

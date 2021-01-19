@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SiKGxK1mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZXGD6H-es Dickies Adairville suéter  Azul  X-Small  Talla del Fabricante:  para Hombre'
+slug: 'B07NZXGD6H-es Dickies Adairville suéter Azul X-Small Talla del...'
+tags: 
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

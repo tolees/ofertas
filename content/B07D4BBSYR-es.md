@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513ND96kFSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4BBSYR-es Yizhet 5 Piezas de Lámpara Super Brillante de 6 LEDs UEB Tarjeta de bolsillo Bombilla USB Tipo Llavero Regulador Táctil Ajustable Luz Blanca'
+slug: 'B07D4BBSYR-es Yizhet 5 Piezas de Lámpara Super Brillante de 6 LEDs UEB...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

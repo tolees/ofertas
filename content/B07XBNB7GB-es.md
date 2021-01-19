@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51CJ2cLPaML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBNB7GB-es Martina D Antiochia  La Diversión de Martina  Pink-Mochila HS'
+slug: 'B07XBNB7GB-es Martina D Antiochia La Diversión de Martina Pink-Mochila HS'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

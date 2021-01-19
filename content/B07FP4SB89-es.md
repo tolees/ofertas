@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HgxLy9HWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP4SB89-es PUMA Carson 2 Knit NM  Zapatillas de Running para Hombre  Black Black  43 EU'
+slug: 'B07FP4SB89-es PUMA Carson 2 Knit NM Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 19.82 EUR
 currency: EUR
 price: 19.82

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NBHCRIytL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJXZCVS-es Konesky Fabricante de Fideos de Acero Inoxidable  Máquina Manual de Prensa de Pasta Fresco Espagueti de Pasta Tagliatelle Maker Prensa de Fideos de Cocina Que Hace Herramientas  2 Mold heads '
+slug: 'B07XJXZCVS-es Konesky Fabricante de Fideos de Acero Inoxidable Máquina...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

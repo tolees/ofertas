@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YhX6TWl5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076H3MJCQ-es 4pcs 70�x 51�mm al aire libre deporte monopat�n skateboard Cruiser de cojinete de rueda de skate board Longboard Eje  negro'
+slug: 'B076H3MJCQ-es 4pcs 70�x 51�mm al aire libre deporte monopat�n skateboard...'
+tags: 
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

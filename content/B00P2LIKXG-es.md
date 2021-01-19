@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gpNqJQcnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P2LIKXG-es Gigandet G38-005 - Reloj para Mujeres  Correa de Acero Inoxidable Color Plateado'
+slug: 'B00P2LIKXG-es Gigandet G38-005 - Reloj para Mujeres Correa de Acero...'
+tags: 
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

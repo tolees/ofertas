@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L1FpG0+8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016OBVI0E-es Msi DS B1 Ratón  Black'
+slug: 'B016OBVI0E-es Msi DS B1 Ratón Black'
+tags: 
 actualPrice: 17.86 EUR
 currency: EUR
 price: 17.86

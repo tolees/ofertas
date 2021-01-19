@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z7WBaLARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SL53WC5-es Funko- Pop TV: La Casa de Papel-Professor O Clown Collectible Figure  Multicolor  44196 '
+slug: 'B07SL53WC5-es Funko- Pop TV: La Casa de Papel-Professor O Clown...'
+tags: 
 actualPrice: 9.91 EUR
 currency: EUR
 price: 9.91

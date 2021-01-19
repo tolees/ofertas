@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LSJApS9LL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X6GYPJZ-es Spalding NBA Rookie Gear out 83-419Z Balón de Baloncesto  Unisex niños  5'
+slug: 'B06X6GYPJZ-es Spalding NBA Rookie Gear out 83-419Z Balón de Baloncesto...'
+tags: 
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Co20UJKiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMN134L-es Calentador de Cera Eléctrico Profesional 500 ML  Kit de Depilación de Cera con LCD Pantalla  Botones Tactiles  Función de Memoria  4 Bolsitas de Cera  20 Palitos de Madera para Mujeres y Hombres'
+slug: 'B07PMN134L-es Calentador de Cera Eléctrico Profesional 500 ML Kit de...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

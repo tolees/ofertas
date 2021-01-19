@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oSY4SurDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CRAE9MQ-es Samyang F1110901101 - Objetivo fotográfico DSLR para Canon EF  Distancia Focal Fija 24mm  Apertura f/3.5-22 T/S ED AS UMC  diámetro Filtro: 82mm   Negro'
+slug: 'B00CRAE9MQ-es Samyang F1110901101 - Objetivo fotográfico DSLR para Canon...'
+tags: 
 actualPrice: 691.95 EUR
 currency: EUR
 price: 691.95

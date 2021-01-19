@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZATv+eybL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7V7HD3-es Tamaño 3 puertos HDMI Adaptador divisor Cable HDMI Interruptor 4K * 2K 1080P Switcher 3 en 1 puerto de salida para HDTV - Negro'
+slug: 'B07V7V7HD3-es Tamaño 3 puertos HDMI Adaptador divisor Cable HDMI...'
+tags: 
 actualPrice: 7.73 EUR
 currency: EUR
 price: 7.73

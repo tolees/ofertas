@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-iSorhqKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GB4JMWF-es Pulsera Hombre Classic Series Men Pulsera Coolman Stainless Steel Pulsera Practical and Elegant Men s Pulsera Simple Pulsera ajustable 21-22.3 cm con Gift Box  Plata '
+slug: 'B07GB4JMWF-es Pulsera Hombre Classic Series Men Pulsera Coolman...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

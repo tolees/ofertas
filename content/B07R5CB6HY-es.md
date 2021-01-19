@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dGqvQLX3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5CB6HY-es Belkin Thunderbolt 3 - Minibase Dock con Cable Integrado para Ordenadores Mac OS y con USB-C'
+slug: 'B07R5CB6HY-es Belkin Thunderbolt 3 - Minibase Dock con Cable Integrado...'
+tags: 
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zgUUzhTCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B96LXLM-es Tommy Hilfiger Core Hilfiger Regular Polo  Gris  Cloud Htr 501   Small para Hombre'
+slug: 'B07B96LXLM-es Tommy Hilfiger Core Hilfiger Regular Polo Gris Cloud Htr...'
+tags: 
 actualPrice: 57.15 EUR
 currency: EUR
 price: 57.15

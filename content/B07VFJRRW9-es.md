@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416K9ArzLaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFJRRW9-es Skechers Arch FIT  Zapatillas para Hombre  Negro Negro Negro Textil Borde Sintético BBK  41 EU'
+slug: 'B07VFJRRW9-es Skechers Arch FIT Zapatillas para Hombre Negro Negro Negro...'
+tags: 
 actualPrice: 38.73 EUR
 currency: EUR
 price: 38.73

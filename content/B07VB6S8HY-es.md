@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p-ur7bcwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB6S8HY-es Cuzit Engraved Music Box - You Are My Sunshine  Gift for Daughter from Mom - You Are Stronger Than You Seem  Smarter Than You Think - from Dad'
+slug: 'B07VB6S8HY-es Cuzit Engraved Music Box - You Are My Sunshine Gift for...'
+tags: 
 actualPrice: 6.41 EUR
 currency: EUR
 price: 6.41

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I9H5draFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWTZPRQ-es New Balance WL574EB  Zapatillas Mujer  Azul  WL574EN   35 EU'
+slug: 'B06XWTZPRQ-es New Balance WL574EB Zapatillas Mujer Azul WL574EN 35 EU'
+tags: 
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

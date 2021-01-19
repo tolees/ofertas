@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U7msFwY2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL2PZH2-es New Balance Fuel Cell Impulse  Zapatillas de Running para Hombre  Blanco  White/Deep Ozone Blue/Black Wg   40 EU'
+slug: 'B07BL2PZH2-es New Balance Fuel Cell Impulse Zapatillas de Running para...'
+tags: 
 actualPrice: 38.9 EUR
 currency: EUR
 price: 38.9

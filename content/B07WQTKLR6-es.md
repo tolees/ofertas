@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/514LdvjnbRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQTKLR6-es Juguete alternativo de silicona médica para juegos de roles para hombres y mujeres'
+slug: 'B07WQTKLR6-es Juguete alternativo de silicona médica para juegos de...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

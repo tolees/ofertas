@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SfUQMaMSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0842GRNB7-es Kit De Funda Transparente: Un Estado Emocionante Y Duradero Te Convierte En Un Perpetuo Motor De Amor'
+slug: 'B0842GRNB7-es Kit De Funda Transparente: Un Estado Emocionante Y...'
+tags: 
 actualPrice: 12.91 EUR
 currency: EUR
 price: 12.91

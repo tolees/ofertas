@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sBrFsNZAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVLQPZL-es Garmin Vivomove 3 sport 44 - Reloj inteligente  color gris'
+slug: 'B07VVLQPZL-es Garmin Vivomove 3 sport 44 - Reloj inteligente color gris'
+tags: 
 actualPrice: 170.25 EUR
 currency: EUR
 price: 170.25

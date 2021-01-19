@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/516cXConfrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HNLQZXA-es Einhell  4513495 RT-SD 3 6/2 Li Kit  -  Atornillador inalámbrico con  caja de puntas de 32 piezas  bateria ión de litio  5.4 W  3.6 V  Rojo'
+slug: 'B00HNLQZXA-es Einhell 4513495 RT-SD 3 6/2 Li Kit - Atornillador...'
+tags: 
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

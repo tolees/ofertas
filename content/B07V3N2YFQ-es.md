@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K0147M-dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3N2YFQ-es Tommy Hilfiger LowCut Essential Sneaker  Zapatillas para Mujer  Negro  Black Bds   37 EU'
+slug: 'B07V3N2YFQ-es Tommy Hilfiger LowCut Essential Sneaker Zapatillas para...'
+tags: 
 actualPrice: 36.92 EUR
 currency: EUR
 price: 36.92

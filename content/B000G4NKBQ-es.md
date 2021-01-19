@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dRpjxrPeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000G4NKBQ-es adidas Samba Classic  Schwarz-weiÃ  Zapatillas de Fútbol para Hombre  Negro  Black/Running White   47 1/3 EU'
+slug: 'B000G4NKBQ-es adidas Samba Classic Schwarz-weiÃ Zapatillas de Fútbol...'
+tags: 
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

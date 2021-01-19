@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EJXqRS2OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHLK8WQ-es Montse Interiors Saco Nórdico Estrellas y Lunas  Moon Gris  para Cama de 90x190/200 '
+slug: 'B07MHLK8WQ-es Montse Interiors Saco Nórdico Estrellas y Lunas Moon Gris...'
+tags: 
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

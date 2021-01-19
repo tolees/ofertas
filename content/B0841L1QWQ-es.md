@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MZA4uRKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0841L1QWQ-es Panamami 2018 New Water Guns Pool Toys para niños Squirt Guns Pull-out Super Water Guns Party Beach Game Orange & Green/Orange & Greem/15.5cm'
+slug: 'B0841L1QWQ-es Panamami 2018 New Water Guns Pool Toys para niños Squirt...'
+tags: 
 actualPrice: 3.57 EUR
 currency: EUR
 price: 3.57

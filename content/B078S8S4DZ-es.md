@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513blXKLQsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078S8S4DZ-es TEXTURAS HOME - Pack de 6 Paños de Cocina Rizo Algodón 100% MULTIESTAMPADO 45X45 cms'
+slug: 'B078S8S4DZ-es TEXTURAS HOME - Pack de 6 Paños de Cocina Rizo Algodón...'
+tags: 
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

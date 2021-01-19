@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hDSI5dFrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017A1NKAI-es Mercurio Distribuciones- Juego de Estrategia  A0036 '
+slug: 'B017A1NKAI-es Mercurio Distribuciones- Juego de Estrategia A0036'
+tags: 
 actualPrice: 32.4 EUR
 currency: EUR
 price: 32.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319mvp0rTmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LLH5YQK-es BRA Prior - Wok con mango  Aluminio Fundido con Antiadherente Teflon Classic  Negro  Diámetro superior 24 cm  Diámetro base 13.2 cm'
+slug: 'B01LLH5YQK-es BRA Prior - Wok con mango Aluminio Fundido con...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

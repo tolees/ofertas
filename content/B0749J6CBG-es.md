@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uK5+VBySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0749J6CBG-es TedGem Bebé Espejo Retrovisor  Universal de Coche Asiento Trasero Vista Espejo Monitor de Coches de Bebé Niño Seguridad con Clip y con Ventosa'
+slug: 'B0749J6CBG-es TedGem Bebé Espejo Retrovisor Universal de Coche Asiento...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

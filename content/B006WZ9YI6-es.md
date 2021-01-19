@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314yyEY-BmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006WZ9YI6-es Rimmel London Lasting  Barra de Labios Tono 8  Dusty Rose   4 g'
+slug: 'B006WZ9YI6-es Rimmel London Lasting Barra de Labios Tono 8 Dusty Rose 4 g'
+tags: 
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

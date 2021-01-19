@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ISOd44NOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FY5TBY-es BEFANS Kit de Barra de Pilates portátil con Banda de Resistencia para Yoga  Pilates  Yoga  Pilates  Barra de Ejercicio con Lazo para el pie para Yoga  Estiramiento  Esculpir y Sentarse  1 Morado.'
+slug: 'B083FY5TBY-es BEFANS Kit de Barra de Pilates portátil con Banda de...'
+tags: 
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

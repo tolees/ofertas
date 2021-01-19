@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31fBPLU9vgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9W2SXX-es Garmin Vivosmart 4 Pulsera de Actividad  Adultos Unisex  Negro  Talla Única'
+slug: 'B07G9W2SXX-es Garmin Vivosmart 4 Pulsera de Actividad Adultos Unisex...'
+tags: 
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

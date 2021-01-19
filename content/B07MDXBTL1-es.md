@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31F2H5cuB7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDXBTL1-es SanDisk Cruzer Fit  Memoria Flash  50  Negro/Plata'
+slug: 'B07MDXBTL1-es SanDisk Cruzer Fit Memoria Flash 50 Negro/Plata'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

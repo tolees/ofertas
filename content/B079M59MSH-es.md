@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tA0-v252L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079M59MSH-es American Tourister - Soundbox Spinner 55/20 Expansible 35 5/41 L - 2 6 KG Golden Yellow'
+slug: 'B079M59MSH-es American Tourister - Soundbox Spinner 55/20 Expansible 35...'
+tags: 
 actualPrice: 97.3 EUR
 currency: EUR
 price: 97.3

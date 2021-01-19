@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x1cgLUIQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5RX36D-es AIMILAR Temporizador visual de 60 minutos  herramienta de gestión de tiempo silenciosa  para aula o reuniones  reloj de cuenta atrás para niños y adultos verde'
+slug: 'B07R5RX36D-es AIMILAR Temporizador visual de 60 minutos herramienta de...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

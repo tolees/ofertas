@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eh7CRyCWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHYDLZ4-es Lacoste Ziane BL 2 CFA  Zapatillas para Mujer  Blanco  White/White   35 1/2 EU'
+slug: 'B07DHYDLZ4-es Lacoste Ziane BL 2 CFA Zapatillas para Mujer Blanco...'
+tags: 
 actualPrice: 25.37 EUR
 currency: EUR
 price: 25.37

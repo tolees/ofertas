@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P1lunn5bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ7MX8J-es XINFULUK Ratón óptico inalámbrico de 2 4 GHz para Juegos y Receptor USB para computadora portátil Pc - Gris'
+slug: 'B08DJ7MX8J-es XINFULUK Ratón óptico inalámbrico de 2 4 GHz para Juegos y...'
+tags: 
 actualPrice: 1.47 EUR
 currency: EUR
 price: 1.47

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DaKigw7lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJYRBB1-es LED Tira De TV  Diyife 2.5M 75 Leds Multicolor RetroiluminacióN con FR Remoto de TV 5050RGB Bias LluminacióN para HDTV de 40-60 Pulgadas  Alimentado por USB para TV/PC'
+slug: 'B07VJYRBB1-es LED Tira De TV Diyife 2.5M 75 Leds Multicolor...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

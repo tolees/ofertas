@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31R3WJJcqVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVVFW8X-es Skechers Ultra Flex 2.0  Zapatillas sin Cordones para Hombre  Azul  Navy Knit/Trim Nvy   46 EU'
+slug: 'B07TVVFW8X-es Skechers Ultra Flex 2.0 Zapatillas sin Cordones para...'
+tags: 
 actualPrice: 43.8 EUR
 currency: EUR
 price: 43.8

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411blffG%2BuL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B005OVT0RY-es BERING Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 11939-078'
+slug: 'B005OVT0RY-es BERING Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 127.91 EUR
 currency: EUR
 price: 127.91

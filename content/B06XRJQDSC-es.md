@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J-3rD5kkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XRJQDSC-es ESDDI CPL 58mm  Filtro Cicular Polarizador  Filtro CPL para Objetivos de Canon  Nikon  Sony  Pentax  Olympus  etc. con Revestimiento Múltiple'
+slug: 'B06XRJQDSC-es ESDDI CPL 58mm Filtro Cicular Polarizador Filtro CPL para...'
+tags: 
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

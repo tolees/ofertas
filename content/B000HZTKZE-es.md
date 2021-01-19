@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412kvOuXgQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000HZTKZE-es Timex Classic T2H371 - Reloj de Cuarzo para Mujeres  Correa de Acero Inoxidable  Color Plata'
+slug: 'B000HZTKZE-es Timex Classic T2H371 - Reloj de Cuarzo para Mujeres Correa...'
+tags: 
 actualPrice: 38.73 EUR
 currency: EUR
 price: 38.73

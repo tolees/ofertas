@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eItJzBh-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSHC5BI-es Pediatopic Cuidado Facial 50ml  crema emoliente e hidratante específica para pieles atópicas y/o altamente secas.'
+slug: 'B01MSHC5BI-es Pediatopic Cuidado Facial 50ml crema emoliente e...'
+tags: 
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZNkYfeoxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K15CW8W-es adidas Superstar El I  Zapatillas de Deporte Unisex niño  Multicolor  Ftwbla/Ftwbla/Marley 000   26 EU'
+slug: 'B07K15CW8W-es adidas Superstar El I Zapatillas de Deporte Unisex niño...'
+tags: 
 actualPrice: 27.48 EUR
 currency: EUR
 price: 27.48

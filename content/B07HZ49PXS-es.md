@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31POgiT6BDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HZ49PXS-es Petusco - Ana Blanco y Azul Piel de Vacuno tipo grano y grabado logotipo + detalle serpiente'
+slug: 'B07HZ49PXS-es Petusco - Ana Blanco y Azul Piel de Vacuno tipo grano y...'
+tags: 
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

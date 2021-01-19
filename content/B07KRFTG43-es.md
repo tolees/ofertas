@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/318bT4vtcPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRFTG43-es adidas Essential Linear Medias  Mujer  Negro/Blanco  L'
+slug: 'B07KRFTG43-es adidas Essential Linear Medias Mujer Negro/Blanco L'
+tags: 
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

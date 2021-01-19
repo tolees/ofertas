@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41L4f%2BJvNaL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXCP5X9-es LOBKIN Auriculares Bluetooth Deportivos  Resistentes Al Sudor  con Una Autonomia de hasta 6 Horas Sonido. con Tecnologia CVC 6.0 de Eliminacion de Ruido Rojo '
+slug: 'B01LXCP5X9-es LOBKIN Auriculares Bluetooth Deportivos Resistentes Al...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

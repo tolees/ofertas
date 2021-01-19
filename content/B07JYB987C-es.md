@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ddTy5yapL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYB987C-es 28 Palms 9" Inseam Cotton Tencel Chino Short Shorts  Marino  31'
+slug: 'B07JYB987C-es 28 Palms 9" Inseam Cotton Tencel Chino Short Shorts Marino 31'
+tags: 
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

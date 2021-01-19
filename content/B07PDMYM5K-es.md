@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519st9M8JkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDMYM5K-es HP Pavilion 32 QHD - Monitor de 31.5" QHD  2560 x 1440  300 CD/m²  USB-C  HDMI  DisplayPort  Color Negro'
+slug: 'B07PDMYM5K-es HP Pavilion 32 QHD - Monitor de 31.5" QHD 2560 x 1440 300...'
+tags: 
 actualPrice: 279.65 EUR
 currency: EUR
 price: 279.65

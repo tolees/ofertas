@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51crVF+u-0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4KJHXK-es Deerbird® Hucha - Creativo Bronce Egipcio Pirámide Metal Figurilla Cajas de Dinero Decoración Manualidades para Casa Decoración Cumpleaños Regalo'
+slug: 'B07V4KJHXK-es Deerbird® Hucha - Creativo Bronce Egipcio Pirámide Metal...'
+tags: 
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

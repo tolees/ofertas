@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BE4tc2-0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMS77FD-es SALOMON Side 25 Mochila de montañismo  Espaciosa y práctica  Capacidad 30 l  Unisex Adulto  Caqui Oscuro  Avocado /Negro  Night Sky   One Size'
+slug: 'B07WMS77FD-es SALOMON Side 25 Mochila de montañismo Espaciosa y práctica...'
+tags: 
 actualPrice: 38.17 EUR
 currency: EUR
 price: 38.17

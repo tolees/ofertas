@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51leuyIzztL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HSBX5SS-es Sharp DR-P355 Radio despertador Digital Estéreo Dab/Dab+ y Fm con Rds  Alarma con Función despertador y Repetición  Carcasa de Madera'
+slug: 'B07HSBX5SS-es Sharp DR-P355 Radio despertador Digital Estéreo Dab/Dab+ y...'
+tags: 
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

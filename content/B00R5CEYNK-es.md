@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fL8zQKIML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R5CEYNK-es Reebok Classic Leather - Zapatillas de cuero para hombre  color negro  int-black   talla 42'
+slug: 'B00R5CEYNK-es Reebok Classic Leather - Zapatillas de cuero para hombre...'
+tags: 
 actualPrice: 57.32 EUR
 currency: EUR
 price: 57.32

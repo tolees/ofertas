@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NRJL0d42L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HP84Y-es Kipling ONALO PACKABLE - Bolsa de viaje  25 liters  Morado  PLUM LIGHT '
+slug: 'B07N1HP84Y-es Kipling ONALO PACKABLE - Bolsa de viaje 25 liters Morado...'
+tags: 
 actualPrice: 32.66 EUR
 currency: EUR
 price: 32.66

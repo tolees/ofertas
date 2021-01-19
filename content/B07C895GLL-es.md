@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C895GLL-es Diesel Pendiente DZ1864'
+tags: 
 actualPrice: 91.71 EUR
 currency: EUR
 price: 91.71

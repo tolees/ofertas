@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dZNfjXJ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AHW471Y-es GBC Fusion 3000L - Plastificadora para oficina y hogar  A3  color negro'
+slug: 'B00AHW471Y-es GBC Fusion 3000L - Plastificadora para oficina y hogar A3...'
+tags: 
 actualPrice: 101.72 EUR
 currency: EUR
 price: 101.72

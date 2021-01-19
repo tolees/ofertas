@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3197hKbUTjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E4T3R9Y-es NUK 10256342 - Dosificador de leche en polvo  3 compartimentos  sin BPA   color azul y blanco translúcido'
+slug: 'B00E4T3R9Y-es NUK 10256342 - Dosificador de leche en polvo 3...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

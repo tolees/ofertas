@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cxrtxM03L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N41AC2W-es Ybarra - La clásica Rosa - Salsa Cocktail - 225 ml -   Pack de 6'
+slug: 'B01N41AC2W-es Ybarra - La clásica Rosa - Salsa Cocktail - 225 ml - Pack...'
+tags: 
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

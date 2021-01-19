@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NyO3Gz5wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000QJBYJ6-es Merrell Waterpro Maipo 2  Zapatillas Impermeables para Hombre  Gris  Henna/Charcoal   41 EU'
+slug: 'B000QJBYJ6-es Merrell Waterpro Maipo 2 Zapatillas Impermeables para...'
+tags: 
 actualPrice: 57.11 EUR
 currency: EUR
 price: 57.11

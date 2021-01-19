@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-y8j96aGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T8HH35X-es Finocam - Agenda 2020 semana vista apaisada Espiral Year Turquesa español'
+slug: 'B07T8HH35X-es Finocam - Agenda 2020 semana vista apaisada Espiral Year...'
+tags: 
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519g5aaQkfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083GQCYG5-es TEENO 10 Pulgadas 4G Tablet con Ranuras para Tarjetas SIM Dobles  Procesador de Cuatro Núcleos  1.5GHz  2G + 16GB  Doble Cámara  WiFi  Bluetooth  GPS'
+slug: 'B083GQCYG5-es TEENO 10 Pulgadas 4G Tablet con Ranuras para Tarjetas SIM...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

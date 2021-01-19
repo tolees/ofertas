@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGM29BZ-es VGA MSI RTX2080S 8GB Gaming X Trio GDDR6 HDMI 3*DP USB-C 2S'
+tags: 
 actualPrice: 378.0 EUR
 currency: EUR
 price: 378.0

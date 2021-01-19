@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/717Lfp98cxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IPCB602-es Marvel bpwfa-100 Vengadores mesa juego para 16'
+slug: 'B01IPCB602-es Marvel bpwfa-100 Vengadores mesa juego para 16'
+tags: 
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zCAcILIYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8IB1XW-es Superga 2750-cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Rosa  Pink 915   50 EU'
+slug: 'B01M8IB1XW-es Superga 2750-cotu Classic Zapatillas de Gimnasia Unisex...'
+tags: 
 actualPrice: 18.3 EUR
 currency: EUR
 price: 18.3

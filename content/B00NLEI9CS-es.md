@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jteRgyglL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NLEI9CS-es INCREÍBLE Serum Pestañas Crecimiento  8ml  Suero De Crecimiento Pestañas Para Hacer Crecer Las Pestañas MEJOR VENDEDOR Crece Pestañas Para Ser Más Grueso Natural Y Más Largo REALMENTE FUNCIONA'
+slug: 'B00NLEI9CS-es INCREÍBLE Serum Pestañas Crecimiento 8ml Suero De...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

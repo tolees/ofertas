@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tYtAVPzxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SV4KW1L-es S&R Disco Tronzador Diamante 230 mm x22 2 para Hormigón  Piedra natural  piedra  Ladrillo. Turbo Disco Diamantado Universal para cortar todo tipo de materiales de construcción'
+slug: 'B07SV4KW1L-es S&R Disco Tronzador Diamante 230 mm x22 2 para Hormigón...'
+tags: 
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

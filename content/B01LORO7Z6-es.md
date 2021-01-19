@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518ExAu9z+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LORO7Z6-es SanDisk Extreme 32GB SDHC Memory Card up to 90MB/s  Class 10  U3  V30'
+slug: 'B01LORO7Z6-es SanDisk Extreme 32GB SDHC Memory Card up to 90MB/s Class...'
+tags: 
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

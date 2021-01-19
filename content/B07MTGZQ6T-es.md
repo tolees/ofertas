@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413y4uf1d%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTGZQ6T-es Gant 3-Pack Trunk Seasonal Solid Calzoncillos  Azul  Mid Blue 437   Small para Hombre'
+slug: 'B07MTGZQ6T-es Gant 3-Pack Trunk Seasonal Solid Calzoncillos Azul Mid...'
+tags: 
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

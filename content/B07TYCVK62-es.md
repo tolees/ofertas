@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316XhqwbwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYCVK62-es Bearbelly Gigante súper pene Ventosa simulación pene Falso Doble líquido Silicona pene masturbación Femenina Equipo Adulto para Mujeres  17.5 cm x 3.4 cm '
+slug: 'B07TYCVK62-es Bearbelly Gigante súper pene Ventosa simulación pene Falso...'
+tags: 
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

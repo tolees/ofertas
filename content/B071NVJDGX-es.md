@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JsiXi1gsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071NVJDGX-es TACKLIFE Alicates Multiusos Plegables  Profesionales  13 en 1 Multi-alicate  Acero Inoxidable 420 Grueso  Con una Bolsa de Nylon  para Reparar Muebles  Corte  Supervivencia Exterior - MPY07'
+slug: 'B071NVJDGX-es TACKLIFE Alicates Multiusos Plegables Profesionales 13 en...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

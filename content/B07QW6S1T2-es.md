@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BzefNnNKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QW6S1T2-es Wrangler Larston Jeans  Dark Rinse  29W / 34L para Hombre'
+slug: 'B07QW6S1T2-es Wrangler Larston Jeans Dark Rinse 29W / 34L para Hombre'
+tags: 
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

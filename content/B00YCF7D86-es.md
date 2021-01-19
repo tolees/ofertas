@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Gdh-TlB1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YCF7D86-es Max Factor Skin Luminizer Foundation 47 Nude Podkład do twarzy rozświetlający'
+slug: 'B00YCF7D86-es Max Factor Skin Luminizer Foundation 47 Nude Podkład do...'
+tags: 
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

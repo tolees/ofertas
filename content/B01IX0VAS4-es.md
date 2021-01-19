@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RIcPfKXkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IX0VAS4-es Triumph Amourette 300 WHP X  Sujetador Mujer  Beige  SKIN   80C'
+slug: 'B01IX0VAS4-es Triumph Amourette 300 WHP X Sujetador Mujer Beige SKIN 80C'
+tags: 
 actualPrice: 23.11 EUR
 currency: EUR
 price: 23.11

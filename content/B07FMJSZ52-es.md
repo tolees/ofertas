@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MSKc90B8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMJSZ52-es WEOFUN Galaxy Tab S3/S2 9.7 Protector de Pantalla  Cristal Templado para Samsung Galaxy Tab S3/S2 9.7   Vidrio Templado [0.33mm  9H  Alta Definicion]'
+slug: 'B07FMJSZ52-es WEOFUN Galaxy Tab S3/S2 9.7 Protector de Pantalla Cristal...'
+tags: 
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

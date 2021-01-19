@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61Lj9hRptjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084CVLBNZ-es Aquatic Planet - Pilares Romanos de Coliseo  gladiadores  Adorno para Acuario  decoración de peceras'
+slug: 'B084CVLBNZ-es Aquatic Planet - Pilares Romanos de Coliseo gladiadores...'
+tags: 
 actualPrice: 19.51 EUR
 currency: EUR
 price: 19.51

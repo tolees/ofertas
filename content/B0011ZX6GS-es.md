@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-hYZzQ8qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0011ZX6GS-es Anita Maternity 5068  Sujetador de Lactancia Para Mujer  Beige  Skin 722   80E'
+slug: 'B0011ZX6GS-es Anita Maternity 5068 Sujetador de Lactancia Para Mujer...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

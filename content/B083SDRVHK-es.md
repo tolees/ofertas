@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-aFzzNVRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SDRVHK-es Aparato de masaje Icetek para hombros  espalda  cuello  Shiatsu con función de calor  velocidad ajustable  amasado profundo  cojín de masaje eléctrico  16 cabezales de masaje  regalos  mujeres  hombres  oficina  coche  casa'
+slug: 'B083SDRVHK-es Aparato de masaje Icetek para hombros espalda cuello...'
+tags: 
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

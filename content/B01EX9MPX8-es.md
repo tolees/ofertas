@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21rOG39da4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EX9MPX8-es LEDKIA LIGHTING Plafón LED Cuadrado 24W Blanco Cálido 2800K - 3200K'
+slug: 'B01EX9MPX8-es LEDKIA LIGHTING Plafón LED Cuadrado 24W Blanco Cálido...'
+tags: 
 actualPrice: 13.86 EUR
 currency: EUR
 price: 13.86

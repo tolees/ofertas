@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410iVS6XugL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DMGTHGJ-es Philips Avent SCF041/27-2 - Tetinas natural flujo recién nacido  0m+  con 1 agujero'
+slug: 'B07DMGTHGJ-es Philips Avent SCF041/27-2 - Tetinas natural flujo recién...'
+tags: 
 actualPrice: 4.34 EUR
 currency: EUR
 price: 4.34

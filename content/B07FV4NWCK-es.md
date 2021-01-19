@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UhPDWXIAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FV4NWCK-es Asmodee- Colt Express: Bandits Pack Django Expansion en Castellano  Color  LUCOEX07NA '
+slug: 'B07FV4NWCK-es Asmodee- Colt Express: Bandits Pack Django Expansion en...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

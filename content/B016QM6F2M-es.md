@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a-4NAQ7AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016QM6F2M-es Tommy Hilfiger New ALY Belt Cinturón  Braun  DARK TAN 257   100 cm para Hombre'
+slug: 'B016QM6F2M-es Tommy Hilfiger New ALY Belt Cinturón Braun DARK TAN 257...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

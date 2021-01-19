@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sdvEyqMHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017UW5Y6K-es Sorel Childrens Yoot Pac Nylon  Botas de Nieve para Niños  Gris  City Grey   26 EU'
+slug: 'B017UW5Y6K-es Sorel Childrens Yoot Pac Nylon Botas de Nieve para Niños...'
+tags: 
 actualPrice: 31.7 EUR
 currency: EUR
 price: 31.7

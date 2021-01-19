@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wwamj3ALL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792N4VDB-es Trust Gaming GXT 180 Kusan - Ratón Pro Gaming con Peso optimizado y Software avanzado  Gris'
+slug: 'B0792N4VDB-es Trust Gaming GXT 180 Kusan - Ratón Pro Gaming con Peso...'
+tags: 
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

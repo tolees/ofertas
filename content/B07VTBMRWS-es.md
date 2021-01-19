@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RZYqvpgkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTBMRWS-es Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones  Azul  Blue Ink C7H   X-Large para Hombre'
+slug: 'B07VTBMRWS-es Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones...'
+tags: 
 actualPrice: 23.34 EUR
 currency: EUR
 price: 23.34

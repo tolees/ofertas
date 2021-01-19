@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q5xGAR9fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TL3W1DX-es BRA Advanced Cacerola 24 cm  Aluminio Fundido con Antiadherente  sin PFOA súper Reforzado de Rendimiento Superior y Alta Resistencia a los arañazos y a la abrasión  Apta para Inducción'
+slug: 'B07TL3W1DX-es BRA Advanced Cacerola 24 cm Aluminio Fundido con...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

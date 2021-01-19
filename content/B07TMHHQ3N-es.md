@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416U48e-oUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMHHQ3N-es Levi s 511 Slim Shorts Pantalones Cortos  Azul  Baguette Short 0111   W30  Talla del Fabricante: 30  para Hombre'
+slug: 'B07TMHHQ3N-es Levi s 511 Slim Shorts Pantalones Cortos Azul Baguette...'
+tags: 
 actualPrice: 34.32 EUR
 currency: EUR
 price: 34.32

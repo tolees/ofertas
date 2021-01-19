@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rE1zCpnIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQBYBRN-es Paladone 43AB882063 Taza 3D Super Mario Yoshi  330 milliliters  cerámica'
+slug: 'B07MQBYBRN-es Paladone 43AB882063 Taza 3D Super Mario Yoshi 330...'
+tags: 
 actualPrice: 10.68 EUR
 currency: EUR
 price: 10.68

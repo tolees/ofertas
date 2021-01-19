@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pYeYuphnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2CYHK1-es adidas Superstar J Zapatillas de Gimnasia Unisex Niños  Blanco  Ftwr White/Ftwr White/Legend Marine   36 2/3 EU  4 UK '
+slug: 'B07K2CYHK1-es adidas Superstar J Zapatillas de Gimnasia Unisex Niños...'
+tags: 
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

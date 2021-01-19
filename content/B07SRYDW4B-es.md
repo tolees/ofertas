@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mb9y8crdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRYDW4B-es Lacoste 739CMA00111B4  Zapatillas para Hombre  Negro  40 EU'
+slug: 'B07SRYDW4B-es Lacoste 739CMA00111B4 Zapatillas para Hombre Negro 40 EU'
+tags: 
 actualPrice: 70.95 EUR
 currency: EUR
 price: 70.95

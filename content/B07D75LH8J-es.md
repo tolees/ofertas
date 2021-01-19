@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ngFDDjtVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D75LH8J-es adidas Gazelle  Zapatillas de Gimnasia para Hombre  Rojo  Collegiate Burgundy/Footwear White/Footwear White 0   36 2/3 EU'
+slug: 'B07D75LH8J-es adidas Gazelle Zapatillas de Gimnasia para Hombre Rojo...'
+tags: 
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

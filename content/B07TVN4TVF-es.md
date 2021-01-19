@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NtkY70HRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVN4TVF-es SHAN ZU Cuchillo de Cocina Nakiri  16.5cm Cuchillo Japones para Verduras  Cuchillo Chef de Acero Inoxidable Alemán  Cuchillo de Cocinero Profesional con el Mango Madera Pakka'
+slug: 'B07TVN4TVF-es SHAN ZU Cuchillo de Cocina Nakiri 16.5cm Cuchillo Japones...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

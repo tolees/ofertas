@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412c5KcUTCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZCH8MM-es Under Armour Performance Polo 2.0  Niños  Azul  Academy/Mod Gray Light Heather/Pitch Gray Fade Heather 408   S'
+slug: 'B07CZCH8MM-es Under Armour Performance Polo 2.0 Niños Azul Academy/Mod...'
+tags: 
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

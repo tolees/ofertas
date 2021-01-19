@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313D0u9qoRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C4QL57E-es SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 64 GB  con Lector USB 3.0 hasta 275 MB/s  UHS-II  Clase 10 y U3 '
+slug: 'B01C4QL57E-es SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 64...'
+tags: 
 actualPrice: 63.8 EUR
 currency: EUR
 price: 63.8

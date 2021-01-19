@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GJQyjcr8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB9YWKD-es edc by Esprit 099cc1i020 suéter  Gris  Gunmetal 5 019   Medium para Mujer'
+slug: 'B07VB9YWKD-es edc by Esprit 099cc1i020 suéter Gris Gunmetal 5 019 Medium...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

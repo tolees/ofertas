@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aysrXFldL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6NBCJ7-es BRIKSMAX Kit de Iluminación Led para Harry Potter-Gran Comedor de Hogwarts-Compatible con Ladrillos de Construcción Lego Modelo 75954-Juego de Legos no Incluido'
+slug: 'B07M6NBCJ7-es BRIKSMAX Kit de Iluminación Led para Harry Potter-Gran...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FEfdXrDTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CBCDY2T-es Manta de Bebé Lactancia Alimentación Paños de Muselina Fulares Portabebé Ropa - Pato'
+slug: 'B07CBCDY2T-es Manta de Bebé Lactancia Alimentación Paños de Muselina...'
+tags: 
 actualPrice: 12.82 EUR
 currency: EUR
 price: 12.82

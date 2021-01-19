@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CUKBHZMUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXC47LW-es Apisérum Intelecto Viales Bebibles - Favorece el rendimiento intelectual  concentración y memoria - Multivitamínico con Jalea Real  Vitamina B  Aminoacidos y Ginkgo Biloba - Tratamiento para 18 días'
+slug: 'B07KXC47LW-es Apisérum Intelecto Viales Bebibles - Favorece el...'
+tags: 
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

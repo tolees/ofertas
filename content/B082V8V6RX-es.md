@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VGufjLkIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082V8V6RX-es Rucae - Juego de tornillos para ordenador portátil  500 piezas  para IBM HP  Dell  Samsung  Sony  Toshiba Gateway  Acer Lenovo'
+slug: 'B082V8V6RX-es Rucae - Juego de tornillos para ordenador portátil 500...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

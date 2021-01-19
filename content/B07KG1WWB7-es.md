@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31b5wF-DNfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1WWB7-es Puma Flyer Runner  Zapatillas de Running Unisex Adulto  Gris  Glacier Gray-Milky Blue   44 EU'
+slug: 'B07KG1WWB7-es Puma Flyer Runner Zapatillas de Running Unisex Adulto Gris...'
+tags: 
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

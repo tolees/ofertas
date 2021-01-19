@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pjpd3+ZNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0767D8HLY-es Festina Reloj Análogo clásico para Hombre de Cuarzo con Correa en Acero Inoxidable F20276/4'
+slug: 'B0767D8HLY-es Festina Reloj Análogo clásico para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 77.93 EUR
 currency: EUR
 price: 77.93

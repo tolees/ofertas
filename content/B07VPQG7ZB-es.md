@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FX4RZzeUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPQG7ZB-es G-STAR RAW ARC 3D Sport Bañador  Azul  Worn in Deep Ocean 9136-B183   28 W para Hombre'
+slug: 'B07VPQG7ZB-es G-STAR RAW ARC 3D Sport Bañador Azul Worn in Deep Ocean...'
+tags: 
 actualPrice: 47.57 EUR
 currency: EUR
 price: 47.57

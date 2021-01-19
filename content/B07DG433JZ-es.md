@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GJW3bV1aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DG433JZ-es Aicook Palomitero  Máquina de Palomitas con Plato Calentamiento Antiadherente  Almacenamiento Conveniente  Silencioso & Rápido  5 Litros'
+slug: 'B07DG433JZ-es Aicook Palomitero Máquina de Palomitas con Plato...'
+tags: 
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

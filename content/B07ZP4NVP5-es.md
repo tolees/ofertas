@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517KbFzmwcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZP4NVP5-es BANLVS Smartwatch  1.4 Inch Reloj Inteligente IP67 con Pulsómetro Presión Arterial  Monitor de Sueño Podómetro Contador de Caloría  Smartwatch Mujer Reloj Inteligente para Hombre Mujer Niños'
+slug: 'B07ZP4NVP5-es BANLVS Smartwatch 1.4 Inch Reloj Inteligente IP67 con...'
+tags: 
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KzLr7QH8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZFKCTY-es Nike Benassi  Sandalia de Diapositivas para Hombre  Hierro Gris/Whitetrack Red  40 EU'
+slug: 'B07SZFKCTY-es Nike Benassi Sandalia de Diapositivas para Hombre Hierro...'
+tags: 
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

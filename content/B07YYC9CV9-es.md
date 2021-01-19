@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VSilOjKcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYC9CV9-es CRZ YOGA Sujetador Deportivo Yoga para Mujer Ejercicio Fitness Ropa Interior Leafy Multi 1 XL'
+slug: 'B07YYC9CV9-es CRZ YOGA Sujetador Deportivo Yoga para Mujer Ejercicio...'
+tags: 
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

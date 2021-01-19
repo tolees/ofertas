@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4126yDmlFvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002QF7LZE-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES2362'
+slug: 'B002QF7LZE-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

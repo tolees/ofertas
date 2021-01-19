@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UBkD5N4lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07147HBMW-es Asics Gel-Rocket 8  Zapatillas de Voleibol para Mujer  Rosa  Rouge Red/Black/White 1990   39 EU'
+slug: 'B07147HBMW-es Asics Gel-Rocket 8 Zapatillas de Voleibol para Mujer Rosa...'
+tags: 
 actualPrice: 41.48 EUR
 currency: EUR
 price: 41.48

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510jh6HL+FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087Q5VBVK-es Cámara Digital para Niños  8MP Digital Cámaras Fotos Infantil Digitales Selfie  1080P HD Video Pantalla de 2 Pulgadas con Tarjeta TF 32GB Regalos Juego Cámara para niños de 3 a 12 años  Azul '
+slug: 'B087Q5VBVK-es Cámara Digital para Niños 8MP Digital Cámaras Fotos...'
+tags: 
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

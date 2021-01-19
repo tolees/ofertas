@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41znAAqKrgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFDXDB6-es Dremel Versa Limpiador de Alta Velocidad - Kit de Limpieza con 9 Almohadillas Multifunción  1 Cepillo de Cerdas y 1 Protector Antisalpicaduras para Limpieza y Fregado más Rápidos y Fáciles'
+slug: 'B07YFDXDB6-es Dremel Versa Limpiador de Alta Velocidad - Kit de Limpieza...'
+tags: 
 actualPrice: 46.14 EUR
 currency: EUR
 price: 46.14

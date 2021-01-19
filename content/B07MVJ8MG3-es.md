@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519cW3V+cKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJ8MG3-es Kipling - Card Keeper  Carteras Mujer  Azul  Aqua Frost   7x10x1 cm  B x H T '
+slug: 'B07MVJ8MG3-es Kipling - Card Keeper Carteras Mujer Azul Aqua Frost...'
+tags: 
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

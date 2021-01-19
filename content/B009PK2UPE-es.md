@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y4EjA-VgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009PK2UPE-es Woxter Cooling Pad 1560 R – Base refrigeradora para portátiles  5 ventiladores desconectables  luz led azul y 2 puertos USB  especialmente diseñado para gamers   silencioso 30dBA  base iluminada  alimentado por USB  control de velocidad y compatible con portátiles de 10”-17”   color negro'
+slug: 'B009PK2UPE-es Woxter Cooling Pad 1560 R – Base refrigeradora para...'
+tags: 
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31W7fcTumYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ2DTV-es Vans Filmore Decon  Zapatillas para Mujer  Rosa   Suede  Lilac Snow/True White Xof   40 EU'
+slug: 'B07MZQ2DTV-es Vans Filmore Decon Zapatillas para Mujer Rosa Suede Lilac...'
+tags: 
 actualPrice: 26.84 EUR
 currency: EUR
 price: 26.84

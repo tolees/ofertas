@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZD8QR+URL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXBW1DK-es Vicloon Espátula Flexible de Silicona  Cocina Gadget y Herramientas para Hornear  4 Pcs'
+slug: 'B01LXBW1DK-es Vicloon Espátula Flexible de Silicona Cocina Gadget y...'
+tags: 
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

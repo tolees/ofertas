@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eSuQaRwqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSJGT2D-es Ligero a Prueba de Polvo a Prueba de arañazos de Cuero de la PU con Auto Despertar/Dormir Flip Folio Funda de Tableta para Amazon Kindle 558'
+slug: 'B07WSJGT2D-es Ligero a Prueba de Polvo a Prueba de arañazos de Cuero de...'
+tags: 
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

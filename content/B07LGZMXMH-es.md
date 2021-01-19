@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318ov0-j7BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGZMXMH-es Salomon out Night 30+5 Mochila  Capacidad 35 L  Unisex Adulto  Gris Oscuro  Ebony   M/L'
+slug: 'B07LGZMXMH-es Salomon out Night 30+5 Mochila Capacidad 35 L Unisex...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

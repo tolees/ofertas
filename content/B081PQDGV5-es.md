@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415tfzzJv0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081PQDGV5-es Kingston DataTraveler 100 G3 -DT100G3/32GB-2P  2 Piezas  USB 3.0  Flash Drive  32 GB  Negro'
+slug: 'B081PQDGV5-es Kingston DataTraveler 100 G3 -DT100G3/32GB-2P 2 Piezas USB...'
+tags: 
 actualPrice: 7.71 EUR
 currency: EUR
 price: 7.71

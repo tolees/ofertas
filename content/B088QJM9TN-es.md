@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lZOB3c-9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088QJM9TN-es Fiween Clips 4pcs Niños Chupete Chupete Titular de bebé Chupete Chupete Clip'
+slug: 'B088QJM9TN-es Fiween Clips 4pcs Niños Chupete Chupete Titular de bebé...'
+tags: 
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

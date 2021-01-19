@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vzdl6medL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY4OY3J-es Samyang DSLR - Objetivo fotográfico para Sony E  20 mm  F1.8 ED  AS UMC   Negro'
+slug: 'B01LY4OY3J-es Samyang DSLR - Objetivo fotográfico para Sony E 20 mm F1.8...'
+tags: 
 actualPrice: 342.67 EUR
 currency: EUR
 price: 342.67

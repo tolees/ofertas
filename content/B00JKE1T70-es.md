@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tgdUVJfHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JKE1T70-es Repuesto de bombilla Foxnovo  en forma de U  de 9 W y 365 nanómetros  para lámpara de secado de uñas  4 unidades '
+slug: 'B00JKE1T70-es Repuesto de bombilla Foxnovo en forma de U de 9 W y 365...'
+tags: 
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

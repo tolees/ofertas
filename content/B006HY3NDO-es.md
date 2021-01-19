@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Qxwk-MV-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006HY3NDO-es Floso – Calcetines antideslizantes para hombre  gris  EUR 40-47'
+slug: 'B006HY3NDO-es Floso – Calcetines antideslizantes para hombre gris EUR 40-47'
+tags: 
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

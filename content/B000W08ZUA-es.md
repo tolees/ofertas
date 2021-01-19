@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pUm0WxLhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000W08ZUA-es Bormioli Bote con Tapa  1.5l'
+slug: 'B000W08ZUA-es Bormioli Bote con Tapa 1.5l'
+tags: 
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

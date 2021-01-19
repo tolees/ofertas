@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CpOh0KQvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K148XNH-es Adidas Altasport K  Zapatillas de Entrenamiento Unisex Niños  Blanco  FTWR White/Grey Two F17   33.5 EU'
+slug: 'B07K148XNH-es Adidas Altasport K Zapatillas de Entrenamiento Unisex...'
+tags: 
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

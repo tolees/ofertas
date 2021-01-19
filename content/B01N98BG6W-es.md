@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pkXmaDF6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N98BG6W-es PawHut Inodoro de Bandeja para Perros Césped Artificial 3 Capas Lavable Hacer PIS Pipi Orinar Mascota'
+slug: 'B01N98BG6W-es PawHut Inodoro de Bandeja para Perros Césped Artificial 3...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

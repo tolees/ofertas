@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bAJLEpIwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYN3PHX-es FMPC Funda Compatible con Samsung Galaxy J4 2018  Caso Carcasa Samsung Galaxy J4 2018 Slim Fit 360 Grados 3 in 1 Todo Incluido Protección Cover Anti-Rasguño con HD Protector de Pantalla-Negro'
+slug: 'B07XYN3PHX-es FMPC Funda Compatible con Samsung Galaxy J4 2018 Caso...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

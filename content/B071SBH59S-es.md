@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-CBK8329L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071SBH59S-es Buscador de Llaves  Esky 4 en 1 Key Finder Control remoto Localizador de artículos inalámbricos Key Finder para Key / Pet / Wallet / Cell Phone'
+slug: 'B071SBH59S-es Buscador de Llaves Esky 4 en 1 Key Finder Control remoto...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

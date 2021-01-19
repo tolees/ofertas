@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ym886yR9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5XSZVR-es OurLeeme 15 unids Pincel de pintura profesional Nail Art Painting Pen Brush Pinceles de detalle y pinceles de uñas Nail Art Brushes'
+slug: 'B07P5XSZVR-es OurLeeme 15 unids Pincel de pintura profesional Nail Art...'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

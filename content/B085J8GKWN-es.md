@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fHj1fPrDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085J8GKWN-es Jack & Jones JJIRICK JJICON Shorts AMA STS Pantalones Cortos  Azul Marino  S para Hombre'
+slug: 'B085J8GKWN-es Jack & Jones JJIRICK JJICON Shorts AMA STS Pantalones...'
+tags: 
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

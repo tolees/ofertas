@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51cMxqTKFcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757GNNWF-es URCERI Telémetro Láser 60m  Medidor Láser de Distancia，precisión ±2mm  Impermeabilidad IP54  Niveles de Burbuja  Medición de Distancia  Área  Volumen  Continua  Pitágoras  Modelo Mudo  Suma/Resta'
+slug: 'B0757GNNWF-es URCERI Telémetro Láser 60m Medidor Láser de...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

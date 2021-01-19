@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312r-ALrBrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4LYR4X-es Levi s Twain  Zapatillas para Hombre  Negro  Shoes 59   42 EU'
+slug: 'B07N4LYR4X-es Levi s Twain Zapatillas para Hombre Negro Shoes 59 42 EU'
+tags: 
 actualPrice: 29.17 EUR
 currency: EUR
 price: 29.17

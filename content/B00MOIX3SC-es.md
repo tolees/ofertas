@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lmWmLsPIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MOIX3SC-es Beurer IPL-10000 + - Depiladora de luz  pulsada con base  incluye cartucho de 250.000 pulsaciones'
+slug: 'B00MOIX3SC-es Beurer IPL-10000 + - Depiladora de luz pulsada con base...'
+tags: 
 actualPrice: 234.99 EUR
 currency: EUR
 price: 234.99

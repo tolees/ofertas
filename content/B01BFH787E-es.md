@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41emMlFKUKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BFH787E-es Tribe Warner Bros DC Comics Wonder Woman - Memoria USB 2.0 de 16 GB Pendrive Flash Drive de Goma con Llavero  Multicolor'
+slug: 'B01BFH787E-es Tribe Warner Bros DC Comics Wonder Woman - Memoria USB 2.0...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

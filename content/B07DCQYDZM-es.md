@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B-pqZOyfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCQYDZM-es Babolat Viper Jr 2019  Adultos Unisex  Multicolor  Talla Unica'
+slug: 'B07DCQYDZM-es Babolat Viper Jr 2019 Adultos Unisex Multicolor Talla Unica'
+tags: 
 actualPrice: 39.85 EUR
 currency: EUR
 price: 39.85

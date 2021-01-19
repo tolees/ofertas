@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fmSYzFDWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW52SJD-es Skechers Stamina  Zapatillas para Mujer  Charcoal & Black Suede/Gray Mesh/White Trim Gyor  2.5 EU'
+slug: 'B07NW52SJD-es Skechers Stamina Zapatillas para Mujer Charcoal & Black...'
+tags: 
 actualPrice: 35.82 EUR
 currency: EUR
 price: 35.82

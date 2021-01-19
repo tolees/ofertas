@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KvsLECmNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQBMNNR-es Uten Batidoras Multifuncional  Máquina de Batidos de Elétrica de Acero Inocidable Picadora  Exprimidor  Batidora de Frutas y Verduras 4 en 1 con Botellas   220W  22 000 RPM/Minutos '
+slug: 'B07KQBMNNR-es Uten Batidoras Multifuncional Máquina de Batidos de...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

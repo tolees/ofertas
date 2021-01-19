@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KnlJDr5nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I459SDI-es Cojín antiescaras cuadrado y con agujero  44x44x9 cm'
+slug: 'B00I459SDI-es Cojín antiescaras cuadrado y con agujero 44x44x9 cm'
+tags: 
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

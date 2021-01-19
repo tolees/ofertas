@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417PPmsvJNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC8MJXB-es 32GB Grabadora de Voz Digital  ADOKEY Grabadora Audio con Reproductor de MP3  Portatil Grabadora Sonido Grabadora Estereo Grabadora para Reuniones  Musica Micrófono Incorporado  Baterías Recargables'
+slug: 'B07VC8MJXB-es 32GB Grabadora de Voz Digital ADOKEY Grabadora Audio con...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hhcrSQf-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M95B5MC-es Lee 5 Pocket Wide Leg Corduroy  Pantalones para Mujer  Rosa  Cameo Pink 94   W29/L33'
+slug: 'B07M95B5MC-es Lee 5 Pocket Wide Leg Corduroy Pantalones para Mujer Rosa...'
+tags: 
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

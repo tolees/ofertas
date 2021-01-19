@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+OkSFbpAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078TP4W6S-es Puma LIGA Casuals Shorts  Pantalones Cortos  Hombre  Gris  Medium Gray Heather-Puma Black   3XL'
+slug: 'B078TP4W6S-es Puma LIGA Casuals Shorts Pantalones Cortos Hombre Gris...'
+tags: 
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

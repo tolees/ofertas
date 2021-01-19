@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+43DoDaHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJF537K-es PURINA alimento PPVD Féina en St Ox Gastro Gallina  10 x 85 g'
+slug: 'B07CJF537K-es PURINA alimento PPVD Féina en St Ox Gastro Gallina 10 x 85 g'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

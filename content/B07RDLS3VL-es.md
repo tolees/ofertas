@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mwPsj-9UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDLS3VL-es Salomon Sense Feel W  Zapatillas para Correr para Mujer  Azul  India Ink/White/Flint Stone   45 EU'
+slug: 'B07RDLS3VL-es Salomon Sense Feel W Zapatillas para Correr para Mujer...'
+tags: 
 actualPrice: 39.84 EUR
 currency: EUR
 price: 39.84

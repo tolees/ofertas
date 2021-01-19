@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31KF73SGT2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QM9N67C-es Kärcher T 350T-Racer Surface Cleaner  2.643-252.0 '
+slug: 'B00QM9N67C-es Kärcher T 350T-Racer Surface Cleaner 2.643-252.0'
+tags: 
 actualPrice: 49 EUR
 currency: EUR
 price: 49

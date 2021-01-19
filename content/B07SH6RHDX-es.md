@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iPWQhQkmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SH6RHDX-es Laminas Para Ventanas Aislantes Vinilo Para Ventana Efecto Espejo Privacidad Autoadhesivo Laminas Para Ventanas Cortina Proteccion Solar Anti 98% UV  ProteccióN De Privacidad 44.5*200 CM'
+slug: 'B07SH6RHDX-es Laminas Para Ventanas Aislantes Vinilo Para Ventana Efecto...'
+tags: 
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

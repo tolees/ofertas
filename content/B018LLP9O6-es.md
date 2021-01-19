@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rVe6SX6WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018LLP9O6-es Tommy Hilfiger New Danny Belt Cinturón  Azul  NIGHT SKY 421   85 cm para Mujer'
+slug: 'B018LLP9O6-es Tommy Hilfiger New Danny Belt Cinturón Azul NIGHT SKY 421...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

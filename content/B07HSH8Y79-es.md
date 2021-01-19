@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ID14v7ynL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HSH8Y79-es Baby Art MY LITTLE STEPS - Recuerdo de bebé  Grey  Huella de mano o pie de su bebé  multicolor'
+slug: 'B07HSH8Y79-es Baby Art MY LITTLE STEPS - Recuerdo de bebé Grey Huella de...'
+tags: 
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

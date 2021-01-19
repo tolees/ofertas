@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416enm3UZbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HVA4DPE-es PJ Masks - Pack de 5 figuras  Bandai 24580   surtido: modelos aleatorios'
+slug: 'B01HVA4DPE-es PJ Masks - Pack de 5 figuras Bandai 24580 surtido: modelos...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

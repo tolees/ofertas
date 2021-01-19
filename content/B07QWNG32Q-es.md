@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jZfKoym-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWNG32Q-es Under Armour Unstoppable Essential Bomber Parte Superior del Calentamiento  Hombre  Verde  XXL'
+slug: 'B07QWNG32Q-es Under Armour Unstoppable Essential Bomber Parte Superior...'
+tags: 
 actualPrice: 23.03 EUR
 currency: EUR
 price: 23.03

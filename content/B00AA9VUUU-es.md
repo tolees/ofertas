@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pnfpVkwCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AA9VUUU-es Advance Sensitive Pienso para Gato Esterilizado Adulto con Salmón - 3000 gr'
+slug: 'B00AA9VUUU-es Advance Sensitive Pienso para Gato Esterilizado Adulto con...'
+tags: 
 actualPrice: 16.82 EUR
 currency: EUR
 price: 16.82

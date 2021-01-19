@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51G7mFjh+TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085BLKGNT-es YIMINYUER Juego de Alfombrillas de Espuma EVA para niños   12 Azulejos de Espuma  conectan Entre sí Blanco Azul Beige R01R07R10G301020'
+slug: 'B085BLKGNT-es YIMINYUER Juego de Alfombrillas de Espuma EVA para niños...'
+tags: 
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

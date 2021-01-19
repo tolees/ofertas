@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+8-oxHYSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YN5XVQ2-es Blindecor Estor enrollable translúcido digital  Zen W-Z-14991 160X180 cm'
+slug: 'B07YN5XVQ2-es Blindecor Estor enrollable translúcido digital Zen...'
+tags: 
 actualPrice: 72.1 EUR
 currency: EUR
 price: 72.1

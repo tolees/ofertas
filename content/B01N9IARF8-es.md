@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41886-2QuiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9IARF8-es Kappa Kickoff  Zapatillas de Deporte Interior Unisex Niños  Amarillo  Yellow/Black 4011   35 EU'
+slug: 'B01N9IARF8-es Kappa Kickoff Zapatillas de Deporte Interior Unisex Niños...'
+tags: 
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414NK91qtNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9VNCV2-es Auriculares Inalámbricos Verdaderos  iHaper TWS Audífonos Wireless 5.0  12H Playtime  Auriculares Sonido HiFi Estéreo con IPX5 a Prueba de Agua con Estuche de Carga Negro'
+slug: 'B07L9VNCV2-es Auriculares Inalámbricos Verdaderos iHaper TWS Audífonos...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

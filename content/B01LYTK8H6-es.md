@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4177r--OKhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYTK8H6-es Olympus M.Zuiko Digital ED - Objectivo  25 mm  ángulo de visión 47°  Apertura máxima 1:1.2  Efecto Bokeh  19 Elementos / 14 Grupos  Negro'
+slug: 'B01LYTK8H6-es Olympus M.Zuiko Digital ED - Objectivo 25 mm ángulo de...'
+tags: 
 actualPrice: 879.99 EUR
 currency: EUR
 price: 879.99

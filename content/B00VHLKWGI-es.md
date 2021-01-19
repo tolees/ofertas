@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VHLKWGI-es 1/12 Casa De Munecas Muebles En Miniatura Nevera Refrigerador'
+tags: 
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

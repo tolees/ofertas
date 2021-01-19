@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41J7iEeX18L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074H5LYTZ-es Russell Hobbs Light & Easy Brights - Plancha de Ropa de Vapor  2400W  Suela de Cerámica  Amarillo Mango  -ref. 24800-56'
+slug: 'B074H5LYTZ-es Russell Hobbs Light & Easy Brights - Plancha de Ropa de...'
+tags: 
 actualPrice: 22.72 EUR
 currency: EUR
 price: 22.72

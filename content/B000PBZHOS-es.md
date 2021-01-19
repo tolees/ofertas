@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410SCRwy2ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000PBZHOS-es Wilton Gomas para Mangas pasteleras  12 Unidades  Morado  Centimeters'
+slug: 'B000PBZHOS-es Wilton Gomas para Mangas pasteleras 12 Unidades Morado...'
+tags: 
 actualPrice: 3.53 EUR
 currency: EUR
 price: 3.53

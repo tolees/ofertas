@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yAZB0i7YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085VX2XR7-es QHOHQ Protector de Pantalla Compatible para Xiaomi Redmi Note 9 Pro y Redmi Note 9 Pro MAX  [3 Unidades]  Cristal Templado con [9H Dureza] [Sin Burbujas] [Anti-Huella] [Anti-Arañazos]'
+slug: 'B085VX2XR7-es QHOHQ Protector de Pantalla Compatible para Xiaomi Redmi...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

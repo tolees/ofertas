@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51419CuPR1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01709DSGG-es Bergner Red Stone Plancha-asador en Aluminio Fundido  Silicona  Negro  36 x 23 cm'
+slug: 'B01709DSGG-es Bergner Red Stone Plancha-asador en Aluminio Fundido...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

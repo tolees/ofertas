@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519ZutuHpuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BTTBC0S-es KidKraft- Set de pista de carreras de madera Mega Ramp con helicóptero  5 coches y luces  compatible con Hot Wheels y coches de juguete  63267 '
+slug: 'B00BTTBC0S-es KidKraft- Set de pista de carreras de madera Mega Ramp con...'
+tags: 
 actualPrice: 93.99 EUR
 currency: EUR
 price: 93.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H76SkfX5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084P7LVHC-es USB portátil 3.1 Tipo-C Macho a USB 3.0 A Hembra Convertidor Adaptador de Cable USB Carcasa de aleación de Aluminio Duradera Ultra Ligera - Negro'
+slug: 'B084P7LVHC-es USB portátil 3.1 Tipo-C Macho a USB 3.0 A Hembra...'
+tags: 
 actualPrice: 1.11 EUR
 currency: EUR
 price: 1.11

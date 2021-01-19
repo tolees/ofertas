@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21riF2-yr9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MX2TYMT-es Apple Smart Battery Case  for iPhone XS MAX  - White'
+slug: 'B07MX2TYMT-es Apple Smart Battery Case for iPhone XS MAX - White'
+tags: 
 actualPrice: 57.07 EUR
 currency: EUR
 price: 57.07

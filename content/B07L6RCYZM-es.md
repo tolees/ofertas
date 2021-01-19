@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RO6wogbKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6RCYZM-es Kärcher 1.633-510.0 - Limpiador Eléctrico Ventana WV 6 Plus  100 min de autonomía'
+slug: 'B07L6RCYZM-es Kärcher 1.633-510.0 - Limpiador Eléctrico Ventana WV 6...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ETIKKl-ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D8ZZVKC-es Asmuse Multi Efecto Pedal Guitarra Eléctrica MG100 Procesador de Pedalera Multiefectos Guitarra para Bajo Principiante Looper EQ Mezclador Instrumento con Adaptador de Energía  Enchufe de la UE '
+slug: 'B07D8ZZVKC-es Asmuse Multi Efecto Pedal Guitarra Eléctrica MG100...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

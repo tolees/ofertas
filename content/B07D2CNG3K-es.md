@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BNxlOZuwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2CNG3K-es TESMED Cinturón Electroestimulador 7.7 extra Belt para abdominales'
+slug: 'B07D2CNG3K-es TESMED Cinturón Electroestimulador 7.7 extra Belt para...'
+tags: 
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

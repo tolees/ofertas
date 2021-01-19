@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HMwWBEROL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJ9KW6D-es [2019 NEW] Pulseras magnéticas  los mejores regalos para hombres  con 10 poderosos imanes de neodimio para herramientas de sujeción  ideas de regalos para el marido  papá  novio  mujer  Manitas'
+slug: 'B07GJ9KW6D-es [2019 NEW] Pulseras magnéticas los mejores regalos para...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

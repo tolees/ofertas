@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hY5EXIIuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5FF4MN-es Pulsera Repelente de Mosquitos -12 Paquetes Todo Pulsera Anti Mosquito Natural Bandas Repelentes de Insectos Pulseras Repelentes de Viaje Ingrediente Químico No Tóxico Para Niños y Adultos'
+slug: 'B07C5FF4MN-es Pulsera Repelente de Mosquitos -12 Paquetes Todo Pulsera...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

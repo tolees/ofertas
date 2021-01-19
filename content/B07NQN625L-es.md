@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UZPuWEnlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQN625L-es Bimar Silente VPS40 - Ventilador de Pie Silencioso  Mado a distancia  4 Velocidades  Oscilación Automática  40 cm  Pantalla LCD  Temporizador 7 5h  Orientación y altura ajustable  Portatil'
+slug: 'B07NQN625L-es Bimar Silente VPS40 - Ventilador de Pie Silencioso Mado a...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

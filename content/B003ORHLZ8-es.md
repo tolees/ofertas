@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nazR0irQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ORHLZ8-es 3 5 mm Estéreo Conector Jack Divisor Adaptador Cable Cable Oro 20 cm'
+slug: 'B003ORHLZ8-es 3 5 mm Estéreo Conector Jack Divisor Adaptador Cable Cable...'
+tags: 
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

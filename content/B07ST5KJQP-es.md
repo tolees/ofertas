@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eyTRRppbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ST5KJQP-es LG Tone HBS-835S - Auriculares con Altavoz Externo  Sonido JBL  Bluetooth 5.0  Doble micrófono MEMS  Auriculares retráctiles  Tone & Talk  Advanced Quad Layer  Color Negro'
+slug: 'B07ST5KJQP-es LG Tone HBS-835S - Auriculares con Altavoz Externo Sonido...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

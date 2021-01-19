@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WsaaN2cML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYYNH2R-es Elite Bags  Botiquín Riñonera  Funcional y Cómodo'
+slug: 'B07SYYNH2R-es Elite Bags Botiquín Riñonera Funcional y Cómodo'
+tags: 
 actualPrice: 26.94 EUR
 currency: EUR
 price: 26.94

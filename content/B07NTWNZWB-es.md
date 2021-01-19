@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vdRAM8UDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NTWNZWB-es Under Armour Rush Heatgear Compression SL Tanque  Hombre  Gris  LG'
+slug: 'B07NTWNZWB-es Under Armour Rush Heatgear Compression SL Tanque Hombre...'
+tags: 
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

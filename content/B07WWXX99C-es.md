@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417VKmEWIhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWXX99C-es Funko- Pop NBA: Lakers-Lebron James Figura Coleccionable  Multicolor  46549 '
+slug: 'B07WWXX99C-es Funko- Pop NBA: Lakers-Lebron James Figura Coleccionable...'
+tags: 
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fMwcJvQEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SL2YV12-es adidas SPT 3s Short Pantalones Cortos de Deporte  Hombre  Black/White  XL'
+slug: 'B07SL2YV12-es adidas SPT 3s Short Pantalones Cortos de Deporte Hombre...'
+tags: 
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

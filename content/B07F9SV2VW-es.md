@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B4TpEgwuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9SV2VW-es Unidad Flash Lexar JumpDrive S75 USB 3.0 64 GB [Embalaje ecológico]'
+slug: 'B07F9SV2VW-es Unidad Flash Lexar JumpDrive S75 USB 3.0 64 GB [Embalaje...'
+tags: 
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

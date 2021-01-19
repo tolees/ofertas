@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k6hcz0XZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJR25X1-es Hauck Rapid 4X Silla de paseo ligera desde nacimiento hasta 25 kg  Niños  Gris'
+slug: 'B07FJR25X1-es Hauck Rapid 4X Silla de paseo ligera desde nacimiento...'
+tags: 
 actualPrice: 102.0 EUR
 currency: EUR
 price: 102.0

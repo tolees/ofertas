@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lX6F9+j6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKL3J3P-es Motivational Posters for Office  Room  Home  Classroom Decorations Chalkboard 15 Set - Inspirational Quotes Wall Decor Black White Pictures 13" x 19" - Inspiring Students  Women  Men  Teachers Gifts'
+slug: 'B07RKL3J3P-es Motivational Posters for Office Room Home Classroom...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vEGR0XzyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0160ROO6M-es STANLEY FATMAX FME720-QS - Ingletadora telescópica 2.000W  Ø disco 255mm  bisel 47°'
+slug: 'B0160ROO6M-es STANLEY FATMAX FME720-QS - Ingletadora telescópica 2.000W...'
+tags: 
 actualPrice: 279.3 EUR
 currency: EUR
 price: 279.3

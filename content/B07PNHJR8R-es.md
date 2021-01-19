@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414Hcti7y3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNHJR8R-es Champú reestructurante para cabello rizado con aceite de argán con biotina  vitamina E y extractos de plantas - 250 ml'
+slug: 'B07PNHJR8R-es Champú reestructurante para cabello rizado con aceite de...'
+tags: 
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

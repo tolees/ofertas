@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sA3Eg0geL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQSQ5V6-es AUKEY Auriculares inalámbricos  Auriculares Bluetooth 5 de Key Series con Controlador Híbrido  aptX Low Latency  Resistencia al Agua del Nivel IPX6  Duración de Batería de 8 Horas'
+slug: 'B07JQSQ5V6-es AUKEY Auriculares inalámbricos Auriculares Bluetooth 5 de...'
+tags: 
 actualPrice: 65.42 EUR
 currency: EUR
 price: 65.42

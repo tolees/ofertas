@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/513w3n0NiVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBPK528-es WOSTOO Coches de Animales  6 Paquetes Tire hacia atrás de los Coches de Dinosaurios  Vehículos de Animales Creatividad Juguete para Niños Regalo de cumpleaños'
+slug: 'B07MBPK528-es WOSTOO Coches de Animales 6 Paquetes Tire hacia atrás de...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QeV9fTxiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000JTMOVA-es Kensington 56146 Reposapiés Ergonómico Ajustable SoleMate Plus  Mejora la Postura y Alivia Dolores Relacionados con la Ciática y otros Problemas Ortopédicos  Negro/Gris'
+slug: 'B000JTMOVA-es Kensington 56146 Reposapiés Ergonómico Ajustable SoleMate...'
+tags: 
 actualPrice: 36.97 EUR
 currency: EUR
 price: 36.97

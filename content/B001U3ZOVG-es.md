@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MrmUC-G1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001U3ZOVG-es Cables To Go Mini Gender Changer - Cambiador hembra /hembra  Para Serie - Db-9  H  - Db-9  H '
+slug: 'B001U3ZOVG-es Cables To Go Mini Gender Changer - Cambiador hembra...'
+tags: 
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

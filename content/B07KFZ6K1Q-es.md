@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BOmG2OINL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZ6K1Q-es PUMA Caracal  Zapatillas Unisex Adulto  Black White  43 EU'
+slug: 'B07KFZ6K1Q-es PUMA Caracal Zapatillas Unisex Adulto Black White 43 EU'
+tags: 
 actualPrice: 25.11 EUR
 currency: EUR
 price: 25.11

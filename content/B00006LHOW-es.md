@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sH-oP4veL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00006LHOW-es HP 38A - Cartucho de tóner original LaserJet para Laserjet series 4200 y 4200L  color negro'
+slug: 'B00006LHOW-es HP 38A - Cartucho de tóner original LaserJet para Laserjet...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

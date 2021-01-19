@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FEeyqdqBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z7RZ7JA-es Otterbox Alpha Flex Protector de Pantalla Flexible y Resistente para Samsung S10+ Transparente  Pro Pack'
+slug: 'B00Z7RZ7JA-es Otterbox Alpha Flex Protector de Pantalla Flexible y...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

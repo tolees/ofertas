@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VFog0nMnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRC7XYD-es Kipling - Creativity Xl  Monederos Mujer  Azul  Stone Blue Block   21.5x13.5x4 cm  B x H T '
+slug: 'B07PRC7XYD-es Kipling - Creativity Xl Monederos Mujer Azul Stone Blue...'
+tags: 
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

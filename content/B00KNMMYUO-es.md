@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZB9o86j9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KNMMYUO-es Onitsuka Tiger Mexico 66  Zapatillas Unisex  Blanco  White/Blue 146   45 EU'
+slug: 'B00KNMMYUO-es Onitsuka Tiger Mexico 66 Zapatillas Unisex Blanco...'
+tags: 
 actualPrice: 57.6 EUR
 currency: EUR
 price: 57.6

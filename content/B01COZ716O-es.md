@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jf9p28jsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01COZ716O-es Clarks Originals Boot  Botas Desert para Mujer  Azul  Dark Navy Suede   39.5 EU'
+slug: 'B01COZ716O-es Clarks Originals Boot Botas Desert para Mujer Azul Dark...'
+tags: 
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

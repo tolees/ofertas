@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I5OJ+BM1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RTFZNEW-es Grohe Eurosmart - Grifo de bidé con vaciador automático  tecnología Grohe EcoJoy  tamaño S  con limitador ecológico de caudal  32929002 '
+slug: 'B00RTFZNEW-es Grohe Eurosmart - Grifo de bidé con vaciador automático...'
+tags: 
 actualPrice: 74.24 EUR
 currency: EUR
 price: 74.24

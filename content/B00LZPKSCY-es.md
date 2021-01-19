@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31C7Y5CtziL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LZPKSCY-es Braun 80 Face - Set de 2 recambios de cepillo facial de limpieza para depiladora facial  color blanco'
+slug: 'B00LZPKSCY-es Braun 80 Face - Set de 2 recambios de cepillo facial de...'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

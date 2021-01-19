@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51khmO1B4UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FF9GVNG-es Pack Friends Temporada 1-10 Colección Completa Blu-Ray [Blu-ray]'
+slug: 'B00FF9GVNG-es Pack Friends Temporada 1-10 Colección Completa Blu-Ray...'
+tags: 
 actualPrice: 59.79 EUR
 currency: EUR
 price: 59.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dt2Z+gdVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XRDPKK-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible con Samsung Galaxy J7 2017/J730/J7 Pro Funda TPU Silicona Suave Protector Ultra Slim Anti-Rasguño Transparente Carcasa  A13 '
+slug: 'B085XRDPKK-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

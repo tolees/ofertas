@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cglgPIouL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPJ9TKW-es [Nueva versión de 136 LED] Luces solares para exteriores  SEZAC Luces solares para seguridad para exteriores Luces con sensor de movimiento solar para patio  garaje  camino  paquete de 4 '
+slug: 'B07SPJ9TKW-es [Nueva versión de 136 LED] Luces solares para exteriores...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

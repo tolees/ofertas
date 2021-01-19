@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WWLjrT7UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C7HWXJT-es oodji Ultra Mujer Calcetines con Elástico Doble  Pack de 6   Multicolor  ES 38-40 / M'
+slug: 'B07C7HWXJT-es oodji Ultra Mujer Calcetines con Elástico Doble Pack de 6...'
+tags: 
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

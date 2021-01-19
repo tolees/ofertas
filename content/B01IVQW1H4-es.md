@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZgCiE5W-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IVQW1H4-es One For All WM4621  Soporte de pared para TV de 32 a 84” Inclinable 15° Peso máx. 100kg  Para todo tipo de TVs LED  LCD  Plasma  negro'
+slug: 'B01IVQW1H4-es One For All WM4621 Soporte de pared para TV de 32 a 84”...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

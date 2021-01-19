@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q8NI-KYOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085FV33XX-es Concise Home and Insect Killer 20w/30w/40w luz UV atraer a Zap insectos voladores plata  con 2 tubos de regalo'
+slug: 'B085FV33XX-es Concise Home and Insect Killer 20w/30w/40w luz UV atraer a...'
+tags: 
 actualPrice: 16.24 EUR
 currency: EUR
 price: 16.24

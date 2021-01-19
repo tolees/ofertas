@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m9LpP-peL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLPNVV4-es Panasonic RP-HTX90NE-W Auriculares Inalámbricos  Noise Cancelling  200 gr  24 hrs de Batería  Carga Rápida  Unidad Control 40 mm  Cable Extraíble  Control Voz  Bluetooth  Diseño Clásico  Color Blanco'
+slug: 'B07NLPNVV4-es Panasonic RP-HTX90NE-W Auriculares Inalámbricos Noise...'
+tags: 
 actualPrice: 80.63 EUR
 currency: EUR
 price: 80.63

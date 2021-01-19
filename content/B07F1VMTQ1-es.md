@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KGFwUNe7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1VMTQ1-es Columbia Sombrero trenzado Mujer  Bella Falls Straw Hat  Orgánico  papel   Beige  Fossil/Nocturnal   Talla: S/M  1768411'
+slug: 'B07F1VMTQ1-es Columbia Sombrero trenzado Mujer Bella Falls Straw Hat...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

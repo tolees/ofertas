@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31re7%2BflLsL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTKQ998-es Lee Pique Polo  Gris  Sharp Grey Mele 03   X-Large para Hombre'
+slug: 'B07FTKQ998-es Lee Pique Polo Gris Sharp Grey Mele 03 X-Large para Hombre'
+tags: 
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

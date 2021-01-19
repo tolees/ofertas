@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DtnM6bycL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BEAWXY-es Calvin Klein Hombre - Pack de 3 bóxers de tiro medio - Cotton Stretch  Negro  M   Pack de 3 '
+slug: 'B001BEAWXY-es Calvin Klein Hombre - Pack de 3 bóxers de tiro medio -...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

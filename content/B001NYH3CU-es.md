@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HInix87lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001NYH3CU-es Reebok Classic Leather - Zapatillas de cuero para hombre  color blanco  int-white / lt. grey   talla 42'
+slug: 'B001NYH3CU-es Reebok Classic Leather - Zapatillas de cuero para hombre...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

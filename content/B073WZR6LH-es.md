@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kT3oPGKtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073WZR6LH-es find. Mdr 40444  vestidos mujer Mujer  Rojo  Red Mehrfarbig   40  Talla del fabricante: Medium '
+slug: 'B073WZR6LH-es find. Mdr 40444 vestidos mujer Mujer Rojo Red Mehrfarbig...'
+tags: 
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

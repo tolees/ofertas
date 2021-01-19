@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41stLvTRrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9RX5J7-es PUMA LQDCELL Hydra  Zapatillas Deportivas para Interior para Hombre  Negro Black/Yellow Alert  41 EU'
+slug: 'B07S9RX5J7-es PUMA LQDCELL Hydra Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

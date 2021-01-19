@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+4htZWDmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUHUSYS-es Tommy Hilfiger 3p Lr Trunk Calcetines  Multicolor  Multi/Peacoat 904   Medium  Pack de 3  para Hombre'
+slug: 'B01MUHUSYS-es Tommy Hilfiger 3p Lr Trunk Calcetines Multicolor...'
+tags: 
 actualPrice: 30.05 EUR
 currency: EUR
 price: 30.05

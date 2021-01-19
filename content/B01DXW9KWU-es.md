@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wYWm1RKQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DXW9KWU-es Calcetines de Compresión 1 par  Amarillo  EU 43-47 '
+slug: 'B01DXW9KWU-es Calcetines de Compresión 1 par Amarillo EU 43-47'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

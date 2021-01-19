@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/3169UKXhN5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HZUQL8C-es G-STAR RAW Bronson Low Waist Boyfriend Chino Pantalones  Negro  rinsed pressed 6960-7410   30W / 34L para Mujer'
+slug: 'B01HZUQL8C-es G-STAR RAW Bronson Low Waist Boyfriend Chino Pantalones...'
+tags: 
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

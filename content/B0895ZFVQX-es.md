@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21lniolBylL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895ZFVQX-es NHOUYAO 2pcs Hueso de Papel Manualidades Carpeta para la Tarjeta de Papel Que Hace la Herramienta de Scrapbooking Elaboración de la encuadernación de Papel Plegable Hendido'
+slug: 'B0895ZFVQX-es NHOUYAO 2pcs Hueso de Papel Manualidades Carpeta para la...'
+tags: 
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

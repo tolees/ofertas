@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416esuoysNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FFN8YK-es DIGITNOW! Convertidor de captura de vídeo USB  Scart o VHS a DVD Digital Grabber Grabador   Capturadora Digitalizadora de vídeo'
+slug: 'B083FFN8YK-es DIGITNOW! Convertidor de captura de vídeo USB Scart o VHS...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

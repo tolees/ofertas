@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61hOo9cnfzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078R4M2HN-es 3 x 70m de cuerda de algodón cinta cordel Bakers regalo  diseño de cuerda bola para floristería  regalos y jardín y decoración del hogar 2 mm en diámetro  1 rojo  1 azul  1 negro '
+slug: 'B078R4M2HN-es 3 x 70m de cuerda de algodón cinta cordel Bakers regalo...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yGr4-+06L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXYBQXK-es Bolsa de Herramientas  TECCPO Professional Bolsa de Trabajo Pesado  Almacenamiento de Bolsa Resistente con Base de Goma Resistente al Desgaste  Correa de Hombro Ajustable - THTB02B'
+slug: 'B07FXYBQXK-es Bolsa de Herramientas TECCPO Professional Bolsa de Trabajo...'
+tags: 
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

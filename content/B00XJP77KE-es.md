@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n7h8qsFpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XJP77KE-es NIVEA Desmaquillador de Ojos Doble Acción  1 x 125 ml   líquido desmaquillante para el contorno de ojos sensible  limpieza facial rápida y suave'
+slug: 'B00XJP77KE-es NIVEA Desmaquillador de Ojos Doble Acción 1 x 125 ml...'
+tags: 
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

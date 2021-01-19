@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nQan1wxbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015GZJ8EC-es HoMedics BMSC-4600H-EU - Respaldo masajeador Shiatsu SensaTouch  tres programas  calor infrarrojo  cervical  color gris negro'
+slug: 'B015GZJ8EC-es HoMedics BMSC-4600H-EU - Respaldo masajeador Shiatsu...'
+tags: 
 actualPrice: 132.09 EUR
 currency: EUR
 price: 132.09

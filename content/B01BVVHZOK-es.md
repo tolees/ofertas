@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RXx0WqrfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BVVHZOK-es Astor Eyeartist Luxury Palette Paleta de Sombras Tono 100 Cosy Nude - 55 gr'
+slug: 'B01BVVHZOK-es Astor Eyeartist Luxury Palette Paleta de Sombras Tono 100...'
+tags: 
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

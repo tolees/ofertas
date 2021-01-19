@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w0dqpYMWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TW4F4GH-es Lenovo S145-15IWL - Ordenador portátil 15.6" HD  Intel Celeron  4GB de RAM  128GB SSD  Windows 10  Gris- Teclado QWERTY español'
+slug: 'B07TW4F4GH-es Lenovo S145-15IWL - Ordenador portátil 15.6" HD Intel...'
+tags: 
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

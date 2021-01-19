@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KG8GVE-es Pyrex Classic - Bol de vidrio para mezclas de 3 litros'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

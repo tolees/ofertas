@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416W81eHIHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B03ADXE-es Panasonic Lumix DC-TZ80 - Cámara Compacta de 18 1 MP  Super Zoom  Objetivo F3.3-F6.4 de 24-720mm  Estabilizador Híbrido  Zoom de 30X  4K  WiFi  Raw   Color Plata'
+slug: 'B01B03ADXE-es Panasonic Lumix DC-TZ80 - Cámara Compacta de 18 1 MP Super...'
+tags: 
 actualPrice: 285.76 EUR
 currency: EUR
 price: 285.76

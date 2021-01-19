@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-xLt006xL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRWLKZ-es Waterpik Complete Care 9.5 - Cepillo de dientes eléctrico oscilante y irrigador bucal'
+slug: 'B07LFRWLKZ-es Waterpik Complete Care 9.5 - Cepillo de dientes eléctrico...'
+tags: 
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

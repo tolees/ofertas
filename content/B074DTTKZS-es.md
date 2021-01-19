@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4186FTPdrkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074DTTKZS-es Ringke Fusion Compatible con Funda Samsung Galaxy Note 8 Transparente al Dorso del PC y Frente TPU [Tecnologia para Proteccion a la caida] protectiva con Armadura Mejorada para Note8 - Clear'
+slug: 'B074DTTKZS-es Ringke Fusion Compatible con Funda Samsung Galaxy Note 8...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518A97i7L1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL1Q14H-es KPCB Máquina de Coser para Principiantes con Material de Bolsa de Bricolaje'
+slug: 'B07XL1Q14H-es KPCB Máquina de Coser para Principiantes con Material de...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519fD8jXXKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005YWEMQM-es Lip Smacker Coca Cola Lip Gloss  paquete de 6   sabores variados'
+slug: 'B005YWEMQM-es Lip Smacker Coca Cola Lip Gloss paquete de 6 sabores variados'
+tags: 
 actualPrice: 9.42 EUR
 currency: EUR
 price: 9.42

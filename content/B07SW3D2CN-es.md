@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412Kz6xdHoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SW3D2CN-es Aerku Protector de Pantalla para Echó Show 5 9H Dureza Alta Sensibilidad 2.5D[Sin Burbujas] Cristal Templado Protector de Pantalla para Echó Show 5[Transparente]'
+slug: 'B07SW3D2CN-es Aerku Protector de Pantalla para Echó Show 5 9H Dureza...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

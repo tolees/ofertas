@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31d0odH21EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFRV1VJ-es PUMA Active Leggings Pants  Mujer  Puma Black  XS'
+slug: 'B07DFRV1VJ-es PUMA Active Leggings Pants Mujer Puma Black XS'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

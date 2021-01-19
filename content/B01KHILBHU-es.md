@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q5wMzAZuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KHILBHU-es Philips - bombilla E27  rosca Edison  LED  230 V – blanco cálido  efecto escarchado  sintético  E27  5.5 wattsW 240 voltsV'
+slug: 'B01KHILBHU-es Philips - bombilla E27 rosca Edison LED 230 V – blanco...'
+tags: 
 actualPrice: 14.62 EUR
 currency: EUR
 price: 14.62

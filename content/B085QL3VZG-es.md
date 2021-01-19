@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BtboaDBjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085QL3VZG-es Gel hidroalcoholico para la limpieza y desinfección de manos Formato 250 ml'
+slug: 'B085QL3VZG-es Gel hidroalcoholico para la limpieza y desinfección de...'
+tags: 
 actualPrice: 12.4 EUR
 currency: EUR
 price: 12.4

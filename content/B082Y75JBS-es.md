@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H7lwBNcgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082Y75JBS-es perfk Protector para Asiento de Coche  Antideslizante  Fácil de Limpiar y Transpirable  Felpa  Ideal para Turismos/SUV - Crema'
+slug: 'B082Y75JBS-es perfk Protector para Asiento de Coche Antideslizante Fácil...'
+tags: 
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51V2BvGwwCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWDHP71-es STLOVe Ventilador USB Mini Ventilador Doble Cabeza 360° Rotación Rotación Horizontal 180 ° 3 Velocidades Ventilador Portatil Adecuado para Coche/Mesa/Oficina/Camping/La Pesca etc - Negro  Fans 3 '
+slug: 'B07NWDHP71-es STLOVe Ventilador USB Mini Ventilador Doble Cabeza 360°...'
+tags: 
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

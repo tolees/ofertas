@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316uwSXlMAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AGIVI16-es Victoria S Secret  Brillo corporal - 0.25 l'
+slug: 'B00AGIVI16-es Victoria S Secret Brillo corporal - 0.25 l'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

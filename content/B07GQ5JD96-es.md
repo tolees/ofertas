@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QRVIkwmcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GQ5JD96-es Garmin Vívofit Jr. 2 - Monitor de actividad para niños  Disney Princess Pink  Banda ajustable   Edad 6+'
+slug: 'B07GQ5JD96-es Garmin Vívofit Jr. 2 - Monitor de actividad para niños...'
+tags: 
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

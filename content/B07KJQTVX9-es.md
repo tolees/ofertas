@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31vhqrdiH1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJQTVX9-es AmazonBasics - Ganchos para cortinas de ducha  bola redonda  amarillo'
+slug: 'B07KJQTVX9-es AmazonBasics - Ganchos para cortinas de ducha bola redonda...'
+tags: 
 actualPrice: 4 EUR
 currency: EUR
 price: 4

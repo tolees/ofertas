@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31D-aMo-8rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBLQJPY-es Napapijri Nakuro 2 Pantalones Cortos  Blanco  Bright White 002   W33  Talla del Fabricante: 29  para Hombre'
+slug: 'B07LBLQJPY-es Napapijri Nakuro 2 Pantalones Cortos Blanco Bright White...'
+tags: 
 actualPrice: 20.01 EUR
 currency: EUR
 price: 20.01

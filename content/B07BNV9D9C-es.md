@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513L7EVljEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BNV9D9C-es Jurassic Park Poster Classic Logo  Multicolor  61 x 91.5cm'
+slug: 'B07BNV9D9C-es Jurassic Park Poster Classic Logo Multicolor 61 x 91.5cm'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

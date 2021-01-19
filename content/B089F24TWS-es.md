@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HYl4iJOKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089F24TWS-es SUAVINEX 306811 - Pack 2 Chupetes Nocturnos para bebés 6-18 meses Con Anilla Luminiscente Tetina Anatómica de Silicona Brilla en la Oscuridad  Verde'
+slug: 'B089F24TWS-es SUAVINEX 306811 - Pack 2 Chupetes Nocturnos para bebés...'
+tags: 
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

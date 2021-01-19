@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412pur8ieTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNS4KB2-es Superdry Orange Label Cotton Crew suéter  Verde  Fresh Mint Grit Bt7   XS para Hombre'
+slug: 'B07TNS4KB2-es Superdry Orange Label Cotton Crew suéter Verde Fresh Mint...'
+tags: 
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

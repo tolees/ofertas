@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gPa9WnBpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHHRX3C-es Naipo Respaldo de Masaje Shiatsu Asiento Masajeador para la Espalda y Caderas con Amasamiento Intenso  Masaje Vibratorio  Función Calor en Casa  Oficina o Coche  Básico '
+slug: 'B06XHHRX3C-es Naipo Respaldo de Masaje Shiatsu Asiento Masajeador para...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

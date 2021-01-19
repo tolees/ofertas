@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zbxekQT4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJZVJXX-es Sorel Madson Hiker Waterproof  Botas para Hombre  Marrón  Oatmeal  Quarry 241   45 EU'
+slug: 'B07KJZVJXX-es Sorel Madson Hiker Waterproof Botas para Hombre Marrón...'
+tags: 
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

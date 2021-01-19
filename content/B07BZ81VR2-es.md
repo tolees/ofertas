@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517HOHogRLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZ81VR2-es TACKLIFE Carrete de Manguera de Aire  Enrollador de Manguera de Aire 15m+1.5m  Manguera 3/8"  2 Juegos de Tornillos  Rotación de 180 °  Soporte de Pared  Presión Máxima 24 Bar-GAHR2A'
+slug: 'B07BZ81VR2-es TACKLIFE Carrete de Manguera de Aire Enrollador de...'
+tags: 
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

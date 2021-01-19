@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DQeBlIkeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RLB6WD-es Converse Taylor Chuck 70 Hi  Sneaker para Hombre  Sunflower/Black/Egret  43 EU'
+slug: 'B079RLB6WD-es Converse Taylor Chuck 70 Hi Sneaker para Hombre...'
+tags: 
 actualPrice: 49.82 EUR
 currency: EUR
 price: 49.82

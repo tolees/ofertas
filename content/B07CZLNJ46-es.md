@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UXstD8YkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZLNJ46-es Under Armour Playoff 2.0 Polo  Hombre  Negro  Black/Black/Black 002   L'
+slug: 'B07CZLNJ46-es Under Armour Playoff 2.0 Polo Hombre Negro...'
+tags: 
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

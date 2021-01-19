@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X5ZmlwlFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756XY6PR-es Reloj - Menton Ezil - Para  - MEWAEU9333'
+slug: 'B0756XY6PR-es Reloj - Menton Ezil - Para - MEWAEU9333'
+tags: 
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

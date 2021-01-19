@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-LLx9Xb4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCC2QH8-es Pepe Jeans Saturn Crop Bañador  Blanco  Optic White Denim Ta2   W26  Talla del Fabricante: 26  para Mujer'
+slug: 'B07NCC2QH8-es Pepe Jeans Saturn Crop Bañador Blanco Optic White Denim...'
+tags: 
 actualPrice: 4.87 EUR
 currency: EUR
 price: 4.87

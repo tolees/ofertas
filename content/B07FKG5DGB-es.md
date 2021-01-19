@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Oaj64dwML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKG5DGB-es Nike Sunray Adjust 5  TD   Zapatillas de Gimnasia para Niños  Rosa  Psychic Pink/Laser Fuchsia 601   25 EU'
+slug: 'B07FKG5DGB-es Nike Sunray Adjust 5 TD Zapatillas de Gimnasia para Niños...'
+tags: 
 actualPrice: 17.73 EUR
 currency: EUR
 price: 17.73

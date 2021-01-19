@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f8jJwr+hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082L5VNKS-es Neutrogena Spot Controlling Acne Crema Hidratante Oil Free - 50 ml'
+slug: 'B082L5VNKS-es Neutrogena Spot Controlling Acne Crema Hidratante Oil Free...'
+tags: 
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

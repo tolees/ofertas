@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A+HxrqiIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081Q5ZZ2D-es Depiladora de Luz Pulsada  ACTION 2 Modos Depilación Definitiva Profesional de IPL  990 000 Pulsaciones  la Depilación Permanente del Vello Visible para Hombres y Mujeres  Blanco'
+slug: 'B081Q5ZZ2D-es Depiladora de Luz Pulsada ACTION 2 Modos Depilación...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

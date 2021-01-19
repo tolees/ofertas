@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y2Eu7joYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDLVN36-es Westt Torque X - Casco De Moto Modular Integral con Doble Visera -Negro Mate - Motocicleta Scooter Absorbe Impacto - certificado ECE'
+slug: 'B07BDLVN36-es Westt Torque X - Casco De Moto Modular Integral con Doble...'
+tags: 
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

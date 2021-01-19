@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zyb0qQVRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0833WRFB9-es Filtro de ducha - Filtro de cabezal de ducha de 16 etapas Filtro de agua universal Eliminar cloro y metales pesados - Purificador de agua reemplazable para cualquier cabezal de ducha  M '
+slug: 'B0833WRFB9-es Filtro de ducha - Filtro de cabezal de ducha de 16 etapas...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

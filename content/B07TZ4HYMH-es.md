@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31u3L4J2ARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ4HYMH-es Valentino by Mario - Doxy  Shoppers y bolsos de hombro Mujer  Amarillo  Limone   13x25x33 cm  B x H T '
+slug: 'B07TZ4HYMH-es Valentino by Mario - Doxy Shoppers y bolsos de hombro...'
+tags: 
 actualPrice: 47.3 EUR
 currency: EUR
 price: 47.3

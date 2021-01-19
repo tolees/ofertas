@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Vfyzyyp8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0869CSQTC-es Longspeed Honeycomb - Puertos de Carga USB Individuales Carcasa del Banco de energía del teléfono móvil Ultra Ligera con indicador LED Carcasa del Banco de energía - Azul'
+slug: 'B0869CSQTC-es Longspeed Honeycomb - Puertos de Carga USB Individuales...'
+tags: 
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

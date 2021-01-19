@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oR53d-g+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IBGUF2I-es Tuscany Silver 8.43.6544 - Cadena con colgante de plata de ley  925/1000 '
+slug: 'B00IBGUF2I-es Tuscany Silver 8.43.6544 - Cadena con colgante de plata de...'
+tags: 
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51m94XcqprL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3WZQPQ-es Cortapelos Profesional Hombre Cortadora de Pelo Eléctrico con Cuchilla de Cerámica  Cortapelo de Barba Maquina Cortar Pelo Recargable Recortadora de Pelos for Hombres'
+slug: 'B07F3WZQPQ-es Cortapelos Profesional Hombre Cortadora de Pelo Eléctrico...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

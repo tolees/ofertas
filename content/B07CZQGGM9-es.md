@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T9+kywoXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZQGGM9-es Under Armour Sportstyle Terry Pantalones  Hombre  Blanco  Onyx White/Onyx White 112   XXL'
+slug: 'B07CZQGGM9-es Under Armour Sportstyle Terry Pantalones Hombre Blanco...'
+tags: 
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

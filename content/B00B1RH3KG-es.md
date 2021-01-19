@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IvJMXBhxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B1RH3KG-es Bosch Professional GBA 12V 2.0Ah - Batería de litio  1 batería x 2.0 Ah  compatible 10 8V / 12V '
+slug: 'B00B1RH3KG-es Bosch Professional GBA 12V 2.0Ah - Batería de litio 1...'
+tags: 
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

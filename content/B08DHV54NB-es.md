@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516J5zUD3FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DHV54NB-es JCKSimpleLife DIY Pintura por NúMeros Ciervo de Nieve Pintura Pinturas Dibujo con Pinceles Decoración navideña Decoraciones Regalos  sin Marco  40x50cm'
+slug: 'B08DHV54NB-es JCKSimpleLife DIY Pintura por NúMeros Ciervo de Nieve...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k8pjbahjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9JOPXP-es Gillette Mach3 Irritation Defense Espuma de Afeitado Suave - 250 ml'
+slug: 'B01N9JOPXP-es Gillette Mach3 Irritation Defense Espuma de Afeitado Suave...'
+tags: 
 actualPrice: 1.71 EUR
 currency: EUR
 price: 1.71

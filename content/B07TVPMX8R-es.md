@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417ZzqtTZTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVPMX8R-es Skechers Boys  Elite Flex HYDROX Trainers  Grey  Stone Synthetic/Black & Chocolate Trim STN   11  28.5 EU '
+slug: 'B07TVPMX8R-es Skechers Boys Elite Flex HYDROX Trainers Grey Stone...'
+tags: 
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

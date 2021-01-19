@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51g5LnViDOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LAW2LIU-es Tenswall Humidificador Ultrasónico 400ml  Difusor de Aromaterapia  Difusor de Aceites Esenciales  purificador de aire con LED de 7 colores de para luminoterapia en el Hogar  Oficina  Spa  Bebé'
+slug: 'B01LAW2LIU-es Tenswall Humidificador Ultrasónico 400ml Difusor de...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

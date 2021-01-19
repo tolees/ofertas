@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JXUo7X-wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YVD68W-es Mono de bebé Promini para bebé  superhéroe futuro justo como mamá  body de bebé de una sola pieza  el mejor regalo para bebé'
+slug: 'B086YVD68W-es Mono de bebé Promini para bebé superhéroe futuro justo...'
+tags: 
 actualPrice: 13.66 EUR
 currency: EUR
 price: 13.66

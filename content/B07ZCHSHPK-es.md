@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r0u1B+HBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCHSHPK-es CD16 Smart Fashion Pantalla en Color Monitorización del Ritmo cardíaco Contador de Pasos Cámara Deportiva Reloj Inteligente - Negro'
+slug: 'B07ZCHSHPK-es CD16 Smart Fashion Pantalla en Color Monitorización del...'
+tags: 
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XNCfWpV%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GD6J7X-es Triumph Amourette Charm WHP Sujetador  Blanco  White 03   90A para Mujer'
+slug: 'B075GD6J7X-es Triumph Amourette Charm WHP Sujetador Blanco White 03 90A...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

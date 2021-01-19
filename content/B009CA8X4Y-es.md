@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MbsJtdeXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B009CA8X4Y-es Hydor 104I-HY/C01103 Filtro Exterior Prime 10 con Carga Filtrante para Acuario'
+slug: 'B009CA8X4Y-es Hydor 104I-HY/C01103 Filtro Exterior Prime 10 con Carga...'
+tags: 
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

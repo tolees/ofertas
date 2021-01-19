@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31N3OLEHCQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K42KJFL-es Columbia Hombre Mallas técnicas  M Engineered Tight  Nailon  Azul  Mountain   Talla S  1820791'
+slug: 'B07K42KJFL-es Columbia Hombre Mallas técnicas M Engineered Tight Nailon...'
+tags: 
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

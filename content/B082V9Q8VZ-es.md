@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413sLr6mP2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082V9Q8VZ-es ventilador silencioso USB  RATEL ventilador de Escritorio portátil mini  180° velocidad variable & Ángulo de rotación de 20 °  Con cable de 1 2 m  adecuado para el hogar  la oficina  Azul '
+slug: 'B082V9Q8VZ-es ventilador silencioso USB RATEL ventilador de Escritorio...'
+tags: 
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

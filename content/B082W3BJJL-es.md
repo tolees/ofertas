@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fzkNQmN7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082W3BJJL-es Pistola de Masaje  Electrónica Masajeador de Tejido Profundo con 6 Niveles Ajustables  4 Cabezas de Masaje y Ultra Silenciosos  Negro'
+slug: 'B082W3BJJL-es Pistola de Masaje Electrónica Masajeador de Tejido...'
+tags: 
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

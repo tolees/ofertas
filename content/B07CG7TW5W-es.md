@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I3pxwXK9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CG7TW5W-es amison 8 pieza automático de riego  dispensador de agua para habitaciones de cerámica Planta pinchos de riego  Bonsai  plantas  flores'
+slug: 'B07CG7TW5W-es amison 8 pieza automático de riego dispensador de agua...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

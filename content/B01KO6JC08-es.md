@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A56jO31dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KO6JC08-es Vileda VR 101 - Robot aspirador y escoba para suelos duros y alfombras de pelo corto  2 programas de limpieza  sensores de desnivel  depósito de suciedad de 0 37 litros  65 decibles  color rojo'
+slug: 'B01KO6JC08-es Vileda VR 101 - Robot aspirador y escoba para suelos duros...'
+tags: 
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

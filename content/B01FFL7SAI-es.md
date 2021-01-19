@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31JF%2BA9u8mL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFL7SAI-es Under Armour Heatgear - Pantalones Cortos de compresión para Hombre  Hombre  1289566-100001  White/Graphite  XS'
+slug: 'B01FFL7SAI-es Under Armour Heatgear - Pantalones Cortos de compresión...'
+tags: 
 actualPrice: 30.83 EUR
 currency: EUR
 price: 30.83

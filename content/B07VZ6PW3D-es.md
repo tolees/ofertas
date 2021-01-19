@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/518PO%2Bh2q7L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZ6PW3D-es Showyoo Fitness Pulsera de Actividad Inteligente Impermeable IP68 con Pantalla Color  Reloj Inteligente Pulsómetro  Cronómetros  Monitor de Sueño Podómetro GPS Reloj Deportivo Mujeres Hombres Niños'
+slug: 'B07VZ6PW3D-es Showyoo Fitness Pulsera de Actividad Inteligente...'
+tags: 
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

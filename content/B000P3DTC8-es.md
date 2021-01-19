@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Vl7RuSG4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000P3DTC8-es Wolfcraft 2133000 2133000-1 Juego compuesta Disco 75x10 mm  Copa 75 mm  cilindrico 28x60x90 mm  Cepillo Pincel diam. 25 mm'
+slug: 'B000P3DTC8-es Wolfcraft 2133000 2133000-1 Juego compuesta Disco 75x10 mm...'
+tags: 
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EBKiHzDpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5WW8L0-es Philips Avent SCF169/27 - Set de 2 chupetes Gama Safari  de 6 a 18 meses  diseño mono o rinoceronte  para niño'
+slug: 'B01N5WW8L0-es Philips Avent SCF169/27 - Set de 2 chupetes Gama Safari de...'
+tags: 
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

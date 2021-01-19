@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MTyf8kC8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075VNGBZM-es AUKEY Bateria Externa 20000mAh  Cargador Portatil con 2 Ports  Power Bank para iPhone 8/ Plus/ 7/ 6s  Samsung Galaxy S8/ S8+  iPad y más'
+slug: 'B075VNGBZM-es AUKEY Bateria Externa 20000mAh Cargador Portatil con 2...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

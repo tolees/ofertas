@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QZRtRyVeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KLL8P6-es Quiksilver Mission V-Shoes For Men  Botas de Nieve para Hombre  Beige  Tan-Solid Tkd0   40 EU'
+slug: 'B072KLL8P6-es Quiksilver Mission V-Shoes For Men Botas de Nieve para...'
+tags: 
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

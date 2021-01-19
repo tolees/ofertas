@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pglwK3t8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0168IAEN0-es Beurer FC 76 - Exfoliador profesional de microdermoabrasión  2 niveles de intensidad'
+slug: 'B0168IAEN0-es Beurer FC 76 - Exfoliador profesional de...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

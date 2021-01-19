@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-xN+MeIcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074L4KBXJ-es Skechers Women 12615 Low-Top Trainers  Blue  Navy Mesh/Hot Pink Trim Nvhp   8 UK  41 EU '
+slug: 'B074L4KBXJ-es Skechers Women 12615 Low-Top Trainers Blue Navy Mesh/Hot...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

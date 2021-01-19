@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZbPTBSkoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P74JPDP-es Seiko Reloj Analógico para Hombre de Energía Solar con Correa en Nailon PZ5089X1'
+slug: 'B07P74JPDP-es Seiko Reloj Analógico para Hombre de Energía Solar con...'
+tags: 
 actualPrice: 98.48 EUR
 currency: EUR
 price: 98.48

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019ZSNTXW-es Atrayente de micciones 125 ml educador de perros cachorros'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

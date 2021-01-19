@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311hppX1RzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JCH38JC-es Ratón Vertical ergonómico inalámbrico de 2 4G  6 Botones  Ratones ópticos para Juegos de 1600 dpi con luz LED Colorida  ratón para Ordenador  Color Negro'
+slug: 'B08JCH38JC-es Ratón Vertical ergonómico inalámbrico de 2 4G 6 Botones...'
+tags: 
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

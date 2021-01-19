@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51HsA3gR2nL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFS2DQL-es Ventvinal 1/4 a 3/8 Tornillo Adaptadores de Rosca  16 Piezas de Tornillos Convertidores Adaptadores para Camara  Trípodes  Placas de Abrazadera de Liberación  Rig de Hombro  Soporte de Luz  Monopod'
+slug: 'B07LFS2DQL-es Ventvinal 1/4 a 3/8 Tornillo Adaptadores de Rosca 16...'
+tags: 
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

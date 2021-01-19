@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YA4tpNz0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9R9BMR-es EIVOTOR Smart Watch Sport Fitness Activity Tracker Pulsera Pantalla conectada Touch Podometer Climate Alarm Clock para Mujer Hombre Niño'
+slug: 'B07X9R9BMR-es EIVOTOR Smart Watch Sport Fitness Activity Tracker Pulsera...'
+tags: 
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

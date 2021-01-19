@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G6qN2dagL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SUZWGHM-es [Total 2Pcs] The Face Shop Rice Water Bright Cleansing Oil + Foam SET by Thinkpichaidai'
+slug: 'B00SUZWGHM-es [Total 2Pcs] The Face Shop Rice Water Bright Cleansing Oil...'
+tags: 
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

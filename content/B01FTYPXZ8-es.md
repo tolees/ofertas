@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411Z-mqe7CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FTYPXZ8-es Skechers Boy s Energy Lights Trainers  White  White   5 UK  38 EU '
+slug: 'B01FTYPXZ8-es Skechers Boy s Energy Lights Trainers White White 5 UK 38 EU'
+tags: 
 actualPrice: 40.53 EUR
 currency: EUR
 price: 40.53

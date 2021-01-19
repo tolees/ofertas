@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-8aCmBH5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0079JHHTM-es Arena Classic Gorro de Natación  Unisex Adulto  Azul  Denim/Silver   Talla Única'
+slug: 'B0079JHHTM-es Arena Classic Gorro de Natación Unisex Adulto Azul...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gEyGTly3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LAX2RIY-es HENDI Bandejas para comida rápida  mediana  - Rojo - 305x415x H 20 mm'
+slug: 'B00LAX2RIY-es HENDI Bandejas para comida rápida mediana - Rojo -...'
+tags: 
 actualPrice: 3.57 EUR
 currency: EUR
 price: 3.57

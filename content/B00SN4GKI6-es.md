@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31eIm9lppFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SN4GKI6-es Chicco - Esterilizador microondas de hasta 5 biberones en 3 minutos'
+slug: 'B00SN4GKI6-es Chicco - Esterilizador microondas de hasta 5 biberones en...'
+tags: 
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

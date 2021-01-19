@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tUbFaUiNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK5P7P3-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18631/3'
+slug: 'B07MK5P7P3-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

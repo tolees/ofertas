@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-vHIBxQYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPSYW51-es LAST LEVEL- Funko Figura Pop Warhammer 40K: Dark Angels Veteran  Multicolor  FFK38326 '
+slug: 'B07KPSYW51-es LAST LEVEL- Funko Figura Pop Warhammer 40K: Dark Angels...'
+tags: 
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

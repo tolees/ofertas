@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51D0TWn5SFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WY4TVCC-es jerryvon Dinosaurios Juguetes Bebe - Electronico Caminando Figuras Dinosaurio Luz y Sonido Juguete Animal Set Juego con Increíble LED Intermitente Realista Juegos Pascua para Niños Niñas 3 4 5 Año'
+slug: 'B07WY4TVCC-es jerryvon Dinosaurios Juguetes Bebe - Electronico Caminando...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

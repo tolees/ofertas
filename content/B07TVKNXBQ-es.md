@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OjgdxoXVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVKNXBQ-es Fanilife - Mesa de comedor rectangular  de 110 cm  diseño retro moderno  con patas de madera  ideal para salón  comedor  cocina  oficina  sala de estar  color blanco'
+slug: 'B07TVKNXBQ-es Fanilife - Mesa de comedor rectangular de 110 cm diseño...'
+tags: 
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

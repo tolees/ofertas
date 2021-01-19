@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512+ATJ-8XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L13LNKH-es Fontee 2PCS Alta Calidad Almohadillas para cinturón de seguridad Auto de seguridad Cinturón Correa para el hombro Protector Pads para niños y adultos Perro dálmata'
+slug: 'B07L13LNKH-es Fontee 2PCS Alta Calidad Almohadillas para cinturón de...'
+tags: 
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

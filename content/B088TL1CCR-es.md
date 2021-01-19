@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Tsy+7Eq2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TL1CCR-es Anillo de luz LED  10" Ring Light 3 Colores 10 Brillos Regulables Control Remoto Bluetooth  Aro De Luz LED Regulable con Trípode para Fotografia  Teléfono  Maquillaje  Selfie  Youtube  Vlog'
+slug: 'B088TL1CCR-es Anillo de luz LED 10" Ring Light 3 Colores 10 Brillos...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

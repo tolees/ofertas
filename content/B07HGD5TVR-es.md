@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eFaTFZxPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGD5TVR-es New Balance Fresh Foam Roav  Zapatillas de Running para Hombre  Negro  Black Black   49 EU'
+slug: 'B07HGD5TVR-es New Balance Fresh Foam Roav Zapatillas de Running para...'
+tags: 
 actualPrice: 41.39 EUR
 currency: EUR
 price: 41.39

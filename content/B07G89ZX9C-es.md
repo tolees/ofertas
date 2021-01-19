@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31t3AaquLDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G89ZX9C-es Giorgi Sublime Cream Antiencrespamiento Melena Bajo Control 150 Ml - 150 Mililitros'
+slug: 'B07G89ZX9C-es Giorgi Sublime Cream Antiencrespamiento Melena Bajo...'
+tags: 
 actualPrice: 2.36 EUR
 currency: EUR
 price: 2.36

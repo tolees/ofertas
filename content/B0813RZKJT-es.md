@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31i+UFF+IXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813RZKJT-es adidas Adilette Comfort  Slide Sandal Womens  Core Black/Silver Metallic/Core Black  38 EU'
+slug: 'B0813RZKJT-es adidas Adilette Comfort Slide Sandal Womens Core...'
+tags: 
 actualPrice: 19.22 EUR
 currency: EUR
 price: 19.22

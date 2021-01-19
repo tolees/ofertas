@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q7fdXS7LL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CIVUTLE-es Ultrasport Rts flicka - Forro  Color Gris  Talla XL'
+slug: 'B00CIVUTLE-es Ultrasport Rts flicka - Forro Color Gris Talla XL'
+tags: 
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51P+cZK82TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073P3FRL8-es Dreamzie - Protector de Colchón 90 x 190/200 cm Impermeable - Tela 100% Algodón Oeko Tex - Cubre Colchón Hipoalergénico  Anti-Bacteriano  Anti-Acaros - Elásticos de hasta 28cm - Made in EU'
+slug: 'B073P3FRL8-es Dreamzie - Protector de Colchón 90 x 190/200 cm...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

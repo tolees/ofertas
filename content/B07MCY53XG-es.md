@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hSLxkGUGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCY53XG-es Saucony Freedom ISO 2  Zapatillas de Running para Mujer  Naranja Blanco  39 EU'
+slug: 'B07MCY53XG-es Saucony Freedom ISO 2 Zapatillas de Running para Mujer...'
+tags: 
 actualPrice: 89.4 EUR
 currency: EUR
 price: 89.4

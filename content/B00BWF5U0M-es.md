@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-ZIHiFS1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BWF5U0M-es Sabrent Concentrador de USB 2.0 con 4 salidas  interuptores de potencia individuales y LED  HB-UMLS '
+slug: 'B00BWF5U0M-es Sabrent Concentrador de USB 2.0 con 4 salidas interuptores...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O3mgyG-nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPB17DQ-es Qhui Protector Asiento Coche Silla Bebe  Fundas Asiento Coche Universal  Con Bolsillos de Malla  Fundas de Asiento de Auto Con Respaldo Antideslizante para Tipos  Asientos de Bebé y mascotas'
+slug: 'B07KPB17DQ-es Qhui Protector Asiento Coche Silla Bebe Fundas Asiento...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bY+vJhHCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMXC48-es G-STAR RAW Motac Slim Tapered Pantalones de Deporte  Gris  Granite Htr A612/2522   40  Talla del Fabricante: X-Small  para Hombre'
+slug: 'B07NDMXC48-es G-STAR RAW Motac Slim Tapered Pantalones de Deporte Gris...'
+tags: 
 actualPrice: 34.55 EUR
 currency: EUR
 price: 34.55

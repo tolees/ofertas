@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rL1T6cLhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N66NRJB-es Puma St Trainer EVO AC Jr  Zapatillas Infantil  Rosa  Knockout Pink White 03   38 EU'
+slug: 'B01N66NRJB-es Puma St Trainer EVO AC Jr Zapatillas Infantil Rosa...'
+tags: 
 actualPrice: 13.56 EUR
 currency: EUR
 price: 13.56

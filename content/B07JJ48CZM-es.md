@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5130P3clcvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJ48CZM-es Paquete de 5 parches de lentejuelas bordados con diseño de unicornio para coser o planchar 5 Uicorn'
+slug: 'B07JJ48CZM-es Paquete de 5 parches de lentejuelas bordados con diseño de...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

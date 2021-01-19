@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYC0TKC-es Gourmet Yemas Espárragos Blancos - 110 g'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

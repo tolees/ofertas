@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c83CNpp8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVMNSR6-es PEKITAS Pack 3 Muselinas Extra Grandes Mantas de Muselina de 100% Algodón Suave y Sedoso Envolventes transpirables  Pack 3 mantas 115 x 115 cm  45 inches  Colección blanco negro '
+slug: 'B07DVMNSR6-es PEKITAS Pack 3 Muselinas Extra Grandes Mantas de Muselina...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

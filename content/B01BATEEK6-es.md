@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31mNPF4GSQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BATEEK6-es Black+Decker GWC1820PC-QW - Soplador PowerCommand 18V  2 Ah   209 Km/h'
+slug: 'B01BATEEK6-es Black+Decker GWC1820PC-QW - Soplador PowerCommand 18V 2 Ah...'
+tags: 
 actualPrice: 76.29 EUR
 currency: EUR
 price: 76.29

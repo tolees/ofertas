@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cUZaROV0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNTLNNN-es Dilwe 7 en 1 Kit Herramientas de Guitarra Mantenimiento de Reparación de Limpieza'
+slug: 'B07DNTLNNN-es Dilwe 7 en 1 Kit Herramientas de Guitarra Mantenimiento de...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

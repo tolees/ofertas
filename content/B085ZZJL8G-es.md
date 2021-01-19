@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VgXAayHeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZZJL8G-es Pijamas Dos Piezas para Niño Impresión de Excavadora Manga Corta Algodón Top y Pantalon Cortos Conjunto Verano Ropa de Dormir/120'
+slug: 'B085ZZJL8G-es Pijamas Dos Piezas para Niño Impresión de Excavadora Manga...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

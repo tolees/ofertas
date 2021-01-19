@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4137ywzyhML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BKT9H8N-es KYG Robot de Cocina al Vapor Procesador de Alimentos para Bebés 5 en 1 Máquina para Hacer Puré Smoothie Sopa y Zumo para Bebés  430w  Color Blanco y Gris'
+slug: 'B07BKT9H8N-es KYG Robot de Cocina al Vapor Procesador de Alimentos para...'
+tags: 
 actualPrice: 46.17 EUR
 currency: EUR
 price: 46.17

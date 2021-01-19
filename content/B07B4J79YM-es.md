@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EYlAC6DhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4J79YM-es Nixon Reloj Analógico para Mujer de Cuarzo con Correa en Policarbonato A1215-309-00'
+slug: 'B07B4J79YM-es Nixon Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 45.24 EUR
 currency: EUR
 price: 45.24

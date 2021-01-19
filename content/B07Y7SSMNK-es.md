@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mBT5CcVbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y7SSMNK-es Funda compatible con Samsung Galaxy Note 9  diseño de Halloween  de silicona suave  antihuellas  ultrafina  transparente 7 Talla única'
+slug: 'B07Y7SSMNK-es Funda compatible con Samsung Galaxy Note 9 diseño de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

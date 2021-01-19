@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DIDI6BM7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L38KCGA-es Rimmel London Exaggerate Automatic Eyeliner Waterproof - Delineador de Ojos Retráctil  Tono 212- Marrón  Rich Brown   0.28 gr'
+slug: 'B00L38KCGA-es Rimmel London Exaggerate Automatic Eyeliner Waterproof -...'
+tags: 
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+6PLew68L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MJ1KVV-es Metaltex Aquatex Copper - Escurreplatos con Bandeja  Color Cobre'
+slug: 'B079MJ1KVV-es Metaltex Aquatex Copper - Escurreplatos con Bandeja Color...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

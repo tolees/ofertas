@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QmphUM7gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RH2LK6C-es G-STAR RAW 3301 Slim Fit Jeans  Antic Faded Ripped Marine  26W / 32L para Hombre'
+slug: 'B07RH2LK6C-es G-STAR RAW 3301 Slim Fit Jeans Antic Faded Ripped Marine...'
+tags: 
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

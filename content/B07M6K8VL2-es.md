@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cv5NkcSzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6K8VL2-es Alcachofa de Ducha con 5 Modos de Spray  Cabezal de Ducha Alta Presiòn Ahorro de Agua  Alcachofa Ducha Universal  Fácil de Limpiar e Instalar'
+slug: 'B07M6K8VL2-es Alcachofa de Ducha con 5 Modos de Spray Cabezal de Ducha...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eqQKjIdFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCNV9DY-es Columbia Powder Lite Forro Polar  Mujer  Color: Azul  Nocturnal   Talla: L'
+slug: 'B07RCNV9DY-es Columbia Powder Lite Forro Polar Mujer Color: Azul...'
+tags: 
 actualPrice: 54.73 EUR
 currency: EUR
 price: 54.73

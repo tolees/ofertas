@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31pqrby7JsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2HZT6W-es Reebok Royal Glide LX  Zapatillas de Trail Running para Hombre  Multicolor  Collegiate Navy/Classic White/SS 000   39 EU'
+slug: 'B07P2HZT6W-es Reebok Royal Glide LX Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

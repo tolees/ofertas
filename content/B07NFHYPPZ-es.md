@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zSax+mQtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFHYPPZ-es U.S. Polo Assn. Cree  Zapatillas de Gimnasia para Hombre  Marrón  Dk BR 028   42 EU'
+slug: 'B07NFHYPPZ-es U.S. Polo Assn. Cree Zapatillas de Gimnasia para Hombre...'
+tags: 
 actualPrice: 47.97 EUR
 currency: EUR
 price: 47.97

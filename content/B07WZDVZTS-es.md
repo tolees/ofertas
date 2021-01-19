@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cyWNSvq-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZDVZTS-es Kafuty 4G Lector de Libros Electrónicos Portátil Tinta Electrónica de 6 Pulgadas Resolución de Pantalla 800 x 600'
+slug: 'B07WZDVZTS-es Kafuty 4G Lector de Libros Electrónicos Portátil Tinta...'
+tags: 
 actualPrice: 65.79 EUR
 currency: EUR
 price: 65.79

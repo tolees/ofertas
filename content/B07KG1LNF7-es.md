@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RNGIw8K8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1LNF7-es PUMA Rebound Layup Lo Mesh  Zapatillas Unisex Adulto  White Black-Jaffa Orange-Gum  47 EU'
+slug: 'B07KG1LNF7-es PUMA Rebound Layup Lo Mesh Zapatillas Unisex Adulto White...'
+tags: 
 actualPrice: 22.92 EUR
 currency: EUR
 price: 22.92

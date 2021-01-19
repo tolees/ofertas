@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519gleVEMdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNWLK1C-es Gorra de béisbol para niños Gorra de béisbol Gorra de béisbol Plegable Suave Protección Solar Gorra de Pescador Playa Al Aire Libre'
+slug: 'B07CNWLK1C-es Gorra de béisbol para niños Gorra de béisbol Gorra de...'
+tags: 
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

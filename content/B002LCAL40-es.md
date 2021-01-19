@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LU89fgV8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002LCAL40-es Bosch Professional BT 300 HD Trípode para nivel láser y óptico  295 cm  Rosca 5/8"  En caja'
+slug: 'B002LCAL40-es Bosch Professional BT 300 HD Trípode para nivel láser y...'
+tags: 
 actualPrice: 140.8 EUR
 currency: EUR
 price: 140.8

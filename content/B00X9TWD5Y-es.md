@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51efix1Zy5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9TWD5Y-es Garnier Olia coloración permanente sin amoniaco para un olor agradable con aceites florales de origen natural - Rubio Muy Claro Dorado 9.3'
+slug: 'B00X9TWD5Y-es Garnier Olia coloración permanente sin amoniaco para un...'
+tags: 
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

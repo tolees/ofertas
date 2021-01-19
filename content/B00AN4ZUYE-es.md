@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ysPMsk4EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AN4ZUYE-es Sangean DDR3-1BT - Radio DAB  Reloj  digital  DAB+  FM  4 W  76.2 mm  3 "   LCD   color madera y plata  importado '
+slug: 'B00AN4ZUYE-es Sangean DDR3-1BT - Radio DAB Reloj digital DAB+ FM 4 W...'
+tags: 
 actualPrice: 79.6 EUR
 currency: EUR
 price: 79.6

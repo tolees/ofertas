@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m1urcUzLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMVVHVZ-es Biotina 10.000 mcg  Vitamina B7  | 365 comprimidos  Suministro anual  | Estimula el crecimiento del cabello  ayuda a mantener la piel y las uñas sanas  y activa el metabolismo | Apto para Veganos.'
+slug: 'B07JMVVHVZ-es Biotina 10.000 mcg Vitamina B7 | 365 comprimidos...'
+tags: 
 actualPrice: 13.02 EUR
 currency: EUR
 price: 13.02

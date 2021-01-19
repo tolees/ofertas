@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411ttaJGdNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DV2BZKR-es SYROKAN - Sujetador Deportivo de Alto Impacto con Aros y Fina Espuma para Mujer Blanco ES:105C  EU 90C '
+slug: 'B07DV2BZKR-es SYROKAN - Sujetador Deportivo de Alto Impacto con Aros y...'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

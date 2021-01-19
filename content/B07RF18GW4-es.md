@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tuEpsUPvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RF18GW4-es G-STAR RAW Premium Basic Type C Sweat Pant Pantalones de Deporte  Negro  Dk Black C235-6484   42  Talla del Fabricante: Small  para Hombre'
+slug: 'B07RF18GW4-es G-STAR RAW Premium Basic Type C Sweat Pant Pantalones de...'
+tags: 
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

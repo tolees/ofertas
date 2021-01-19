@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bKEr9dK8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FHV36V-es LAYJOY Funda Samsung Galaxy A71  Ligera Silicona Carcasa Suave TPU Gel Bumper Slim Case de Protectora [Antideslizante] [Anti-Golpes] Cover para Samsung Galaxy A71  2020  6.7 Pulgadas -Negro'
+slug: 'B088FHV36V-es LAYJOY Funda Samsung Galaxy A71 Ligera Silicona Carcasa...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

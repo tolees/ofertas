@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OJpEJwetL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M6NAG12-es Linksys RE6500-EJ - Extensor de Red Wi-Fi AC1200  N300 + AC867 Mbps  Cross-Band  4 Puertos Gigabit Ethernet  Doble Banda 2 4 + 5 GHz  Audio por Streaming  compatibilidad Universal   Negro'
+slug: 'B00M6NAG12-es Linksys RE6500-EJ - Extensor de Red Wi-Fi AC1200 N300 +...'
+tags: 
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

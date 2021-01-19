@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xPDWXwzzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z9UY65G-es Anker PowerCore 13000  Batería externa Universal  Micro-USB  13000 mAh  USB  46 8 Wh  color negro'
+slug: 'B00Z9UY65G-es Anker PowerCore 13000 Batería externa Universal Micro-USB...'
+tags: 
 actualPrice: 21.39 EUR
 currency: EUR
 price: 21.39

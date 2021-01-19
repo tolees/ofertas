@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jj9PcwVYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829HWNDM-es Reloj de Pulsera para Hombre  Luminoso  Casual  Delgado  de Cuarzo  Resistente al Agua  con Fecha  Correa de Acero Inoxidable  Color Azul'
+slug: 'B0829HWNDM-es Reloj de Pulsera para Hombre Luminoso Casual Delgado de...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

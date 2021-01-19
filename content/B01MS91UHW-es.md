@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mnZgH6jmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MS91UHW-es Lancardo Reloj Deportivo de Energía Solar de Multifunción Dual Tiempo Pulsera Digital de Silicona Batería Integrada Impermeable de 50M para Actividad Deportes Exteriores para Hombre  Negro '
+slug: 'B01MS91UHW-es Lancardo Reloj Deportivo de Energía Solar de Multifunción...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

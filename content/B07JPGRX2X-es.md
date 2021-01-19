@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nbR1+kSfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPGRX2X-es VSADEY Aceites Esenciales Aromaterapia Aceites Esenciales para Humidificador Essential Oils Set 6 x 10ml 100% Puro y Naturales  Naranja Dulce  Lavanda  Arból de Té  Menta  Limoncillo  Eucalipto '
+slug: 'B07JPGRX2X-es VSADEY Aceites Esenciales Aromaterapia Aceites Esenciales...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

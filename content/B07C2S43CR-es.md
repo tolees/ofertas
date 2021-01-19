@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pJaZrd1gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2S43CR-es ARDITEX AV11918 Gorro de baño-Piscina de poliéster de Marvel-Vengadores'
+slug: 'B07C2S43CR-es ARDITEX AV11918 Gorro de baño-Piscina de poliéster de...'
+tags: 
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

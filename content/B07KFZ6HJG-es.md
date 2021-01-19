@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L33AwF1LL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZ6HJG-es PUMA Vista Mid WTR  Zapatillas Altas Unisex Adulto  Taffy-Moss Green White  37 EU'
+slug: 'B07KFZ6HJG-es PUMA Vista Mid WTR Zapatillas Altas Unisex Adulto Taffy-...'
+tags: 
 actualPrice: 25.54 EUR
 currency: EUR
 price: 25.54

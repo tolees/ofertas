@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51frOL1WyEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5TSXGN-es Calvin Klein ENFOLD CARD HOLDER WALLETMujerBolsos bandoleraNegro  Black  3x8.5x11 centimeters  B x H x T '
+slug: 'B07N5TSXGN-es Calvin Klein ENFOLD CARD HOLDER WALLETMujerBolsos...'
+tags: 
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

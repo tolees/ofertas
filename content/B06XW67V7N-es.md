@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XW67V7N-es Silencio [DVD]'
+tags: 
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

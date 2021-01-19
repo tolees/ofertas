@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gTT2FZnjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXSXLSC-es Aogled LED Lámpara de Techo 24W 2400LM 4000K Blanco Natural Plafón de Techo Redondo 28cm No-Regulable Luz de Techo Permeable IP54 180 Ángulo LED Plafón Para Dormitorio Baño Cocina Pasillo Comedor'
+slug: 'B07TXSXLSC-es Aogled LED Lámpara de Techo 24W 2400LM 4000K Blanco...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

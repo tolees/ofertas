@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41L2soAr2aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6MWP5G-es DUNLOP Sting 360 2.0 2019  Adultos Unisex  Multicolor  Talla Unica'
+slug: 'B07N6MWP5G-es DUNLOP Sting 360 2.0 2019 Adultos Unisex Multicolor Talla...'
+tags: 
 actualPrice: 43.18 EUR
 currency: EUR
 price: 43.18

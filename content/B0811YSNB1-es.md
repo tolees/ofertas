@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XA0dmU5PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811YSNB1-es UniqueMe [3 Pack Protector de Pantalla para Huawei Nova 5T  Vidrio Templado [ 9H Dureza ] HD Film Cristal Templado para Huawei Nova 5T'
+slug: 'B0811YSNB1-es UniqueMe [3 Pack Protector de Pantalla para Huawei Nova 5T...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

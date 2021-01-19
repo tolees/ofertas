@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4113Fbx05sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JLQ1RBV-es Webcam con micrófono  cámara Web de transmisión HD 1080P con trípode para computadora portátil PC Mac Webcam giratoria Plug and Play USB para videoconferencias grabación conferencias'
+slug: 'B08JLQ1RBV-es Webcam con micrófono cámara Web de transmisión HD 1080P...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

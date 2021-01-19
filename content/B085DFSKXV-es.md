@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SO4677VgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DFSKXV-es PUTUO Calcetines de Dedos Hombre Calcetines Cortos de Algodón  Calcetines 5 Dedos Hombre Calcetines Invisibles con Silicona Antideslizante  6 pares'
+slug: 'B085DFSKXV-es PUTUO Calcetines de Dedos Hombre Calcetines Cortos de...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

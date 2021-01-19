@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OJ7NRQZFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAH31RX-es OrthoCare S.Fitness - Rodillera Soporte y compresión para vida diaria y deporte. Perfecta para correr  Crossfit  Halterofilia  Esquí y toda clase de deportes. UNISEX.  XL '
+slug: 'B01NAH31RX-es OrthoCare S.Fitness - Rodillera Soporte y compresión para...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

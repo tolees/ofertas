@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tQ1ez5r1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ6W5SZ-es Hackett Aston Martin Racing T544 Polo  Negro  Blk/Multi 9eg   X-Small para Hombre'
+slug: 'B07QJ6W5SZ-es Hackett Aston Martin Racing T544 Polo Negro Blk/Multi 9eg...'
+tags: 
 actualPrice: 29.53 EUR
 currency: EUR
 price: 29.53

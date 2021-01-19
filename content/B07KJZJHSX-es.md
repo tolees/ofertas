@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41590j+0BrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJZJHSX-es Safety 1st Rainbow Silla de Paseo ultraligera pesa solo 6 6 kg  Plegable y compacta  Reclinable de multi posiciónes  reposapiés adjustable  color blue Chic'
+slug: 'B07KJZJHSX-es Safety 1st Rainbow Silla de Paseo ultraligera pesa solo 6...'
+tags: 
 actualPrice: 46.75 EUR
 currency: EUR
 price: 46.75

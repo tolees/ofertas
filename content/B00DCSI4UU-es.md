@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Nyx0Sj7eL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DCSI4UU-es Orbegozo CT 12105 Ventilador de techo con luz  5 palas reversibles  diámetro 105 cm  potencia de 55 W y 3 velocidades'
+slug: 'B00DCSI4UU-es Orbegozo CT 12105 Ventilador de techo con luz 5 palas...'
+tags: 
 actualPrice: 59.39 EUR
 currency: EUR
 price: 59.39

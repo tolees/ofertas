@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DZuXfe2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XMDY3NZ-es Skechers Flex Advantage 3.0 Landess  Zapatillas para Hombre  Verde  Olive Knit/Synthetic/Trim OLV   45 EU'
+slug: 'B07XMDY3NZ-es Skechers Flex Advantage 3.0 Landess Zapatillas para Hombre...'
+tags: 
 actualPrice: 26.5 EUR
 currency: EUR
 price: 26.5

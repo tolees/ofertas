@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mGzbok3pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8MCDNK-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FS5132IE'
+slug: 'B07L8MCDNK-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 106.94 EUR
 currency: EUR
 price: 106.94

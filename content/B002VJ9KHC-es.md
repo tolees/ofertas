@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416uOUHlgvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002VJ9KHC-es Fellowes Helios 30 - Encuadernadora térmica  uso frecuente  hasta 300 hojas'
+slug: 'B002VJ9KHC-es Fellowes Helios 30 - Encuadernadora térmica uso frecuente...'
+tags: 
 actualPrice: 107.68 EUR
 currency: EUR
 price: 107.68

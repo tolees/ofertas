@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51APVBAjrTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HZX3VJ-es Caja del teléfono Triángulo Cubierta Resistente a roturas Carcasa Piezas de protección del teléfono móvil Accesorios para el automóvil del vehículo móvil'
+slug: 'B083HZX3VJ-es Caja del teléfono Triángulo Cubierta Resistente a roturas...'
+tags: 
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

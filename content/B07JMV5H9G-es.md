@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tBceimdjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMV5H9G-es HiFi Walker A6 Triple Driver Auriculares intrauditivos Auriculares de Alta resolución  Bajos estéreo y Sonido de Cristal  micrófono y Control Remoto en línea con Control de Volumen'
+slug: 'B07JMV5H9G-es HiFi Walker A6 Triple Driver Auriculares intrauditivos...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

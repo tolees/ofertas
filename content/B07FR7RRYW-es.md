@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p-QCFl2JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR7RRYW-es Clarks Step Urban Mix  Zapatillas para Hombre  Negro Black  46 EU'
+slug: 'B07FR7RRYW-es Clarks Step Urban Mix Zapatillas para Hombre Negro Black...'
+tags: 
 actualPrice: 40.88 EUR
 currency: EUR
 price: 40.88

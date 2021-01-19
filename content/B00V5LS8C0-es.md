@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51X6jjbddcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V5LS8C0-es Kempa Emotion Cazadora con Capucha  Hombre  Azur/Blanco  XXXL'
+slug: 'B00V5LS8C0-es Kempa Emotion Cazadora con Capucha Hombre Azur/Blanco XXXL'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

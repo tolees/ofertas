@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-38prx6DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0832MPQVB-es Wakana Trampa para Ratones 2 Pcs Ratonera Ratas Vivos Trampa para Ratas Ratonera de Plástico Reutilizable con Diseño de Cola Anti-Roto y Agujeros de Aire para Cocina Jardín Hogar Cocina Ático Garaje'
+slug: 'B0832MPQVB-es Wakana Trampa para Ratones 2 Pcs Ratonera Ratas Vivos...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

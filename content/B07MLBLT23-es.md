@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51F6GTJCw6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLBLT23-es 7 Unids UV Gel Nail Art Pluma Cepillos de Pintura Punteada DIY Kit de Herreamientas de Manicura'
+slug: 'B07MLBLT23-es 7 Unids UV Gel Nail Art Pluma Cepillos de Pintura Punteada...'
+tags: 
 actualPrice: 0.24 EUR
 currency: EUR
 price: 0.24

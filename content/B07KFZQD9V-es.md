@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41alHie7XzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZQD9V-es Puma Future Runner Premium  Zapatillas Unisex Adulto  Blanco  Puma White-Puma Black 04   41 EU'
+slug: 'B07KFZQD9V-es Puma Future Runner Premium Zapatillas Unisex Adulto Blanco...'
+tags: 
 actualPrice: 38.56 EUR
 currency: EUR
 price: 38.56

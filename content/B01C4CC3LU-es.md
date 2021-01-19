@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414XLY4azxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C4CC3LU-es adidas Stan Smith J  Zapatillas de Deporte Unisex Niños  Blanco  Ftwbla/Ftwbla/Ftwbla   36 EU  3.5 UK '
+slug: 'B01C4CC3LU-es adidas Stan Smith J Zapatillas de Deporte Unisex Niños...'
+tags: 
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

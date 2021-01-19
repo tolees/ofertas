@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WpSHpz-DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD4GMMF-es La Toja Selection - Gel de ducha Exfoliante con Sales Minerales - 200 ml'
+slug: 'B07QD4GMMF-es La Toja Selection - Gel de ducha Exfoliante con Sales...'
+tags: 
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

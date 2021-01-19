@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tUR-VR8rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DV8ZPV-es GOXAWEE Mini Disco Corte Diamante & Mini Hoja de Sierra Circular HSS & Mini Disco de Corte de Resina （3mm Mandril）para Cortar Madera Piedra Metal - Paquete de 30 Piezas'
+slug: 'B075DV8ZPV-es GOXAWEE Mini Disco Corte Diamante & Mini Hoja de Sierra...'
+tags: 
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

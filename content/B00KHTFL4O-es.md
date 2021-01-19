@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VIOJorNtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHTFL4O-es S&R LLAVES TORX Juego de 15 llaves allen Torx cortas hexagonales EXTRA RESISTENTES TX6-TX60. Llaves non perforadas.'
+slug: 'B00KHTFL4O-es S&R LLAVES TORX Juego de 15 llaves allen Torx cortas...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

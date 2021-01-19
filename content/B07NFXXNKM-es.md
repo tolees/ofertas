@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xMI2q+O9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFXXNKM-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18652/4'
+slug: 'B07NFXXNKM-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 76.12 EUR
 currency: EUR
 price: 76.12

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41esqksPFgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LFGUA4I-es Mizuno Morelia Neo CL AG Zapatillas  Hombre  Azul  40'
+slug: 'B01LFGUA4I-es Mizuno Morelia Neo CL AG Zapatillas Hombre Azul 40'
+tags: 
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

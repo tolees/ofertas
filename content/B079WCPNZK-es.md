@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vz-ZD-WpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079WCPNZK-es Lenovo 120S-11IAP - Ordenador portátil de 11.6" HD  Intel Celeron N3350  2 GB RAM  32 GB EMMC  Intel HD 500  Windows 10 Home  blanco - Teclado QWERTY Español'
+slug: 'B079WCPNZK-es Lenovo 120S-11IAP - Ordenador portátil de 11.6" HD Intel...'
+tags: 
 actualPrice: 183.11 EUR
 currency: EUR
 price: 183.11

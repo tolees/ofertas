@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eWWlYjDxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZTF6XN-es Gant Hightown  Zapatillas para Hombre  Rojo  Bright Red G518   40 EU'
+slug: 'B07TZTF6XN-es Gant Hightown Zapatillas para Hombre Rojo Bright Red G518...'
+tags: 
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

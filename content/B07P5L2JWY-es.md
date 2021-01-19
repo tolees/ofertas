@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fdOu0PhLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5L2JWY-es RioRiva En calcetines para hombre de envoltura de regalos con rayas de algodón 90%  bonito diseño de media pantorrilla  estilo colorido'
+slug: 'B07P5L2JWY-es RioRiva En calcetines para hombre de envoltura de regalos...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

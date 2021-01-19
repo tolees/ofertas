@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NTcfBUqqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZWX9UM-es Polti Unico MCV80 Total Clean & Turbo Aspirador multifunción 3 en 1  aspira  higieniza y seca  6 Bar'
+slug: 'B01LZWX9UM-es Polti Unico MCV80 Total Clean & Turbo Aspirador...'
+tags: 
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

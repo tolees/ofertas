@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qLYWflauL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XMG34KD-es Skechers Go Run Pulse  Zapatillas para Hombre  Cclm Tela de Carbón Sintético con Ribete de Lima  40 EU'
+slug: 'B07XMG34KD-es Skechers Go Run Pulse Zapatillas para Hombre Cclm Tela de...'
+tags: 
 actualPrice: 37.84 EUR
 currency: EUR
 price: 37.84

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GcB3bv5DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGGJMT-es adidas Predator 19.1 FG  Zapatillas de Fútbol para Hombre  Azul  Bright Cyan/Core Black/Solar Yellow Bright Cyan/Core Black/Solar Yellow   39 1/3 EU'
+slug: 'B07SQGGJMT-es adidas Predator 19.1 FG Zapatillas de Fútbol para Hombre...'
+tags: 
 actualPrice: 142.95 EUR
 currency: EUR
 price: 142.95

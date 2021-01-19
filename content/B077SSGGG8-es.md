@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51xlZKUq2HL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SSGGG8-es Adaptador de Viaje  Cargador de Pared con Doble Puerto de Carga USB y convertidor de enchufes Universal Valido para USA  EU  UK  AUS  Azul '
+slug: 'B077SSGGG8-es Adaptador de Viaje Cargador de Pared con Doble Puerto de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

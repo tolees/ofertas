@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BC-G7usYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0798TGN2M-es LG 34WK95U-W - Monitor Profesional UltraWide 5K WUHD de 86.4 cm  34"  con Panel NanoIPS  5120 x 2160 píxeles  21:9  450 cd/m²  DCI-P3 >98%  1200:1  5 ms GtG  60 Hz  DPx1  HDMIx2  USBx3  Color Blanco'
+slug: 'B0798TGN2M-es LG 34WK95U-W - Monitor Profesional UltraWide 5K WUHD de...'
+tags: 
 actualPrice: 908.26 EUR
 currency: EUR
 price: 908.26

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s4tOtW0xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZLXGZH9-es NMDD Ornament Schöne Harz Ballon Hund Handwerk Zimmer Desktop Handwerk  26 * 9 * 20 cm  Farbe: Rosa '
+slug: 'B07ZLXGZH9-es NMDD Ornament Schöne Harz Ballon Hund Handwerk Zimmer...'
+tags: 
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oqhBa+ViL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7PWTTK-es VPCOK Envasadora al vacío automático 110W Máquina del Vacío en Acero Inoxidable Sellador al vacío de Alimentos Secos y Húmedos con 10 Bolsas al vacío Conector de Succión Cuchillo de Corte y Marcador'
+slug: 'B07S7PWTTK-es VPCOK Envasadora al vacío automático 110W Máquina del...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

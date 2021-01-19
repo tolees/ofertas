@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415C18LBS-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY3F5X5-es Otterbox Symmetry - Funda Anti caídas Fina para iPhone XS MAX  Negro'
+slug: 'B07FY3F5X5-es Otterbox Symmetry - Funda Anti caídas Fina para iPhone XS...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

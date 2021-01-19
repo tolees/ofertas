@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51dIksIzgCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B017SQU6JS-es Salomon Speedcross 4 GTX W  Zapatillas de Trail Running para Mujer  Negro  Black/Black/Metallic Bubble Blue   39 1/3 EU'
+slug: 'B017SQU6JS-es Salomon Speedcross 4 GTX W Zapatillas de Trail Running...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

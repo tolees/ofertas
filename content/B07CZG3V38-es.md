@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QDKdAXg8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZG3V38-es Under Armour Tech Mesh 6in 2 Pack Ropa Interior  Hombre  Naranja  Orange 860   MD'
+slug: 'B07CZG3V38-es Under Armour Tech Mesh 6in 2 Pack Ropa Interior Hombre...'
+tags: 
 actualPrice: 22.32 EUR
 currency: EUR
 price: 22.32

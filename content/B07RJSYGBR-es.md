@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YqoISSucL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJSYGBR-es Salomon Tech Lite  Zapatillas de Senderismo acuáticas para Hombre  Gris  Quiet Shade/Black/Alloy   42 EU'
+slug: 'B07RJSYGBR-es Salomon Tech Lite Zapatillas de Senderismo acuáticas para...'
+tags: 
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

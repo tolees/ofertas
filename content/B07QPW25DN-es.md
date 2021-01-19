@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UOH+CBHlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPW25DN-es Asics Gel-Quantum Infinity  Zapatillas de Running para Hombre  Amarillo  Sour Yuzu/Black 750   44.5 EU'
+slug: 'B07QPW25DN-es Asics Gel-Quantum Infinity Zapatillas de Running para...'
+tags: 
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

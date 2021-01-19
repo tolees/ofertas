@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zWjVpy6UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZT39KQ-es PURLINE HOTI F20 Calefactor cerámico con termostato Regulable 750-1500W  Sensor antivuelco. Calefactor para Cocina  Comedor  Dormitorio  Oficina etc.'
+slug: 'B075ZT39KQ-es PURLINE HOTI F20 Calefactor cerámico con termostato...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

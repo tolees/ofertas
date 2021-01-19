@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ryNmP9qZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ1ZJ66-es KitGarden - Armario Camping con Paraviento  88x47x80 cm  Negro  Cabinet BBQ'
+slug: 'B07NZ1ZJ66-es KitGarden - Armario Camping con Paraviento 88x47x80 cm...'
+tags: 
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

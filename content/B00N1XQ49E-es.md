@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q0fJGYLYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N1XQ49E-es ASUS Strix Glide Control - Alfombrilla Gaming  Acabado precisión   Color Negro y Naranja'
+slug: 'B00N1XQ49E-es ASUS Strix Glide Control - Alfombrilla Gaming Acabado...'
+tags: 
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

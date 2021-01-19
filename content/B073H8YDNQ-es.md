@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51winQeFgYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073H8YDNQ-es Air Wick Ambientador Freshmatic Completo Life Scents Delicias de Verano nuevo aparato'
+slug: 'B073H8YDNQ-es Air Wick Ambientador Freshmatic Completo Life Scents...'
+tags: 
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

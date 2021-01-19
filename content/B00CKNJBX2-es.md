@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21G4LzMGdJL._SL500_._AC_._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CKNJBX2-es Microsoft – Sculpt Mobile Mouse  Inalámbrico  Negro'
+slug: 'B00CKNJBX2-es Microsoft – Sculpt Mobile Mouse Inalámbrico Negro'
+tags: 
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

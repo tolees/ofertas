@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aab7MFiEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SV3YQ5-es Cortador de pan Faminess  hecho a mano  cortador para masa de pan  con 5 cuchillas y cubierta protectora de cuero auténtico  para hacer pan y hornear'
+slug: 'B089SV3YQ5-es Cortador de pan Faminess hecho a mano cortador para masa...'
+tags: 
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

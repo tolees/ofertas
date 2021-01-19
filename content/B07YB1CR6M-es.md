@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RwvAOqQjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YB1CR6M-es FORMIZON 3 Pack Bombas de Globo  Manual Bombas de Globos  Inflador de Globo  Bombas de Globos de Mano Inflador Manual Ligero Durable para Globos  Bolas de Yoga  Flotadores de Piscina'
+slug: 'B07YB1CR6M-es FORMIZON 3 Pack Bombas de Globo Manual Bombas de Globos...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

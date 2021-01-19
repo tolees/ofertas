@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LTA8o99EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YWRG8SN-es Fundas Sillas Oficina Elasticas Modernas Fundas para sillas Oficina Cubierta de Sillas Oficina Universales Extraíbles y Lavables Funda Protector para Sillas de Giratorias u Ordenador'
+slug: 'B07YWRG8SN-es Fundas Sillas Oficina Elasticas Modernas Fundas para...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51113CiPSLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H6BBRYN-es Medias de Compresión Gradual Para Mujer  15-20mmHg 3Pares Calcetines SET4 L/XL '
+slug: 'B07H6BBRYN-es Medias de Compresión Gradual Para Mujer 15-20mmHg 3Pares...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

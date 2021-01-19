@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hG0PtisxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076STWCPQ-es Tucano-Bolsa para Ordenador Hombre y Mujer con Bolsillo para Ordenador Portátil de 13 Pulgadas MacBook de 13"  iPad y Tableta Universal. Bolsa de Oficina y Universidad con Compartimento para PC.'
+slug: 'B076STWCPQ-es Tucano-Bolsa para Ordenador Hombre y Mujer con Bolsillo...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

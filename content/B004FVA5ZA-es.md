@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jHJHZ8bUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004FVA5ZA-es Emsa Clip & Close Conservador Hermético de Plástico Rectangular de 1 6 L  Transparente y azul'
+slug: 'B004FVA5ZA-es Emsa Clip & Close Conservador Hermético de Plástico...'
+tags: 
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

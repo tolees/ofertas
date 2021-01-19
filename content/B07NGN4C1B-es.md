@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sycyj+qIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGN4C1B-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable A1245-3165-00'
+slug: 'B07NGN4C1B-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 86.2 EUR
 currency: EUR
 price: 86.2

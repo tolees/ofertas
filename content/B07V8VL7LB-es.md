@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ujZGEmksL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8VL7LB-es Tommy Hilfiger Corporate Material Mix Runner  Zapatillas para Hombre  Negro  Black Bds   42 EU'
+slug: 'B07V8VL7LB-es Tommy Hilfiger Corporate Material Mix Runner Zapatillas...'
+tags: 
 actualPrice: 47.0 EUR
 currency: EUR
 price: 47.0

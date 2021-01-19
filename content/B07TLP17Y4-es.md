@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jUmDqeYEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLP17Y4-es Clarks Sift Lace  Zapatillas para Mujer  Amarillo  Rose Gold Rose Gold   37 EU'
+slug: 'B07TLP17Y4-es Clarks Sift Lace Zapatillas para Mujer Amarillo Rose Gold...'
+tags: 
 actualPrice: 47.73 EUR
 currency: EUR
 price: 47.73

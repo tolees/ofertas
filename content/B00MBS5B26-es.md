@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jW5zff70L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MBS5B26-es Clatronic WK 3445 Hervidor de Agua eléctrico con Apagado automático  inalámbrico  Filtro de Cal extraíble  2200 W  1.7 litros  Acero Inoxidable  Verde'
+slug: 'B00MBS5B26-es Clatronic WK 3445 Hervidor de Agua eléctrico con Apagado...'
+tags: 
 actualPrice: 12 EUR
 currency: EUR
 price: 12

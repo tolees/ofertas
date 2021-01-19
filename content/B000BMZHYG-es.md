@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E4xaLutsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BMZHYG-es HP 503A Cartucho de tóner original LaserJet para CP3505/3800  magenta'
+slug: 'B000BMZHYG-es HP 503A Cartucho de tóner original LaserJet para...'
+tags: 
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

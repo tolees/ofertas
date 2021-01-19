@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s+ANzlPbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BBTLDQ-es Hagibis Soporte refrigerador enfriador de portátil ergonómico y cómodo. Base magnética y redonda para ordenador. Diseño elegante. Para portátiles y ordenadores calientes. Base enfriadora PC.  Plata '
+slug: 'B088BBTLDQ-es Hagibis Soporte refrigerador enfriador de portátil...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

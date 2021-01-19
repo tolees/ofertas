@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419ZjaH8aLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQC13MK-es Bañador Reductor de Mujer Traje de Baño de Una Pieza de Rayas Floral XL CL0984-1'
+slug: 'B07PQC13MK-es Bañador Reductor de Mujer Traje de Baño de Una Pieza de...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

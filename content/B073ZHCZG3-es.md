@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LHSHATtYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZHCZG3-es Brabantia Bo Touch Bin Cubo de Basura  11 + 23 litros  Rojo  Passion Red '
+slug: 'B073ZHCZG3-es Brabantia Bo Touch Bin Cubo de Basura 11 + 23 litros Rojo...'
+tags: 
 actualPrice: 93.05 EUR
 currency: EUR
 price: 93.05

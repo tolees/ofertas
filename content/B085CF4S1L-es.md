@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EdoYKecrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085CF4S1L-es 10pcs Mascarillas Médicas Desechables 3 Capas con Clip de Nariz Ajustable'
+slug: 'B085CF4S1L-es 10pcs Mascarillas Médicas Desechables 3 Capas con Clip de...'
+tags: 
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

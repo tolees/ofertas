@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o9IQdDGTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P52S8YX-es Boulevard - Zapatos/Bailarinas diseño Flor y Puntera Abierta para Mujer señora  36 EU   Brillante Plateado Claro '
+slug: 'B07P52S8YX-es Boulevard - Zapatos/Bailarinas diseño Flor y Puntera...'
+tags: 
 actualPrice: 15.45 EUR
 currency: EUR
 price: 15.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZdtSRZc7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0865J1KZN-es Oxímetro de Pulso Oxímetro de Dedo Digital  Monitor de Oxígeno Portátil  Monitor de Frecuencia Cardíaca para Adultos  Niños  Mayores'
+slug: 'B0865J1KZN-es Oxímetro de Pulso Oxímetro de Dedo Digital Monitor de...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cDHFP4g+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HTH8F3K-es Anker Altavoz Bluetooth  Soundcore Mini  Super Altavoz portátil con 15 Horas de reproducción  Rango de 20 Metros Bluetooth  Bajos mejorados  Funciona con iPhone  iPad  Samsung  Nexus  HTC y más'
+slug: 'B01HTH8F3K-es Anker Altavoz Bluetooth Soundcore Mini Super Altavoz...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

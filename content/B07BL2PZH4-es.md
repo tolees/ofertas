@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zxph8+IbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL2PZH4-es New Balance 997H Core  Zapatillas para Hombre  Negro  Black/Silver Charcoal   40 EU'
+slug: 'B07BL2PZH4-es New Balance 997H Core Zapatillas para Hombre Negro...'
+tags: 
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

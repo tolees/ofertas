@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KIyep69cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CM9HVMZ-es STANLEY STHT77502-1 Nivel láser rojo cubix cruzadas y linea adicional de 90º  12 m de alcance  autonivelante  incluye bolsa de transporte  2 pilas AA y soporte Quicklink'
+slug: 'B07CM9HVMZ-es STANLEY STHT77502-1 Nivel láser rojo cubix cruzadas y...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

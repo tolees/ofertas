@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L29oQrSyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LAVE1SO-es Shepa Banador Shorts De Deporte Liso Clásico - Hecho En La UE  Azul Marino L'
+slug: 'B01LAVE1SO-es Shepa Banador Shorts De Deporte Liso Clásico - Hecho En La...'
+tags: 
 actualPrice: 7.85 EUR
 currency: EUR
 price: 7.85

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51P6DMzokML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IUDMYRU-es Dakine Penelope Dinero Bolsa  Color Sand Dollar  tamaño Talla única  Volumen Liters 1.0'
+slug: 'B01IUDMYRU-es Dakine Penelope Dinero Bolsa Color Sand Dollar tamaño...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516ByE5zgSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CH3DY12-es Dolity 6 Hojas de Pegatinas Transparentes de Conejo Gordo Accesorios para Hacer Manualidades de Bricolaje'
+slug: 'B07CH3DY12-es Dolity 6 Hojas de Pegatinas Transparentes de Conejo Gordo...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417FpcMONXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RP9W7J-es Helly Hansen Salt Light Jacket  Hombre  Azul  Marino   L'
+slug: 'B073RP9W7J-es Helly Hansen Salt Light Jacket Hombre Azul Marino L'
+tags: 
 actualPrice: 111.17 EUR
 currency: EUR
 price: 111.17

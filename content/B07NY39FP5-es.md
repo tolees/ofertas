@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BcI8C4RYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY39FP5-es Skechers Men s Heston Classic Boots  Black  Black Leather Blk   6 UK  39.5 EU '
+slug: 'B07NY39FP5-es Skechers Men s Heston Classic Boots Black Black Leather...'
+tags: 
 actualPrice: 32.16 EUR
 currency: EUR
 price: 32.16

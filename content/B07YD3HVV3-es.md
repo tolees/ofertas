@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21A6QjTECkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YD3HVV3-es Formulaioue Adaptador de Tarjeta de Sonido Externo para portátil 7.1 USB con Tarjeta de Sonido Externa Independiente  Blanco - Blanco'
+slug: 'B07YD3HVV3-es Formulaioue Adaptador de Tarjeta de Sonido Externo para...'
+tags: 
 actualPrice: 1.22 EUR
 currency: EUR
 price: 1.22

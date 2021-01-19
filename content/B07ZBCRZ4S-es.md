@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hnDmGCcxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZBCRZ4S-es Suero de Retinol para Cara y Cuello  con Retinol Encapsulado al 3%  Ácido Hialurónico y Vitamina C  Hidratante de Alta Dosis Antienvejecimiento y Antiarrugas  Reduce Arrugas y Líneas Finas  20ml '
+slug: 'B07ZBCRZ4S-es Suero de Retinol para Cara y Cuello con Retinol...'
+tags: 
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

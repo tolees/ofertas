@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VKuoOcRpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LLH75X0-es Monix Mineral - Cazo 16 cm aluminio forjado con antiadherente  tipo piedra  sin PFOA  aptas inducción'
+slug: 'B01LLH75X0-es Monix Mineral - Cazo 16 cm aluminio forjado con...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

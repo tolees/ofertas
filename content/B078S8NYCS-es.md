@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SSEN-TJSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078S8NYCS-es Chlorella Espirulina.Spirulina Potente DETOX Antioxidante-Sistema Inmunitario-Proteinas Vegetales-Hierro-Elimina Metales-Probiotico-180 Capsulas Vegetal.1250mg.Certificado Vegano.N2 Natural Nutrition'
+slug: 'B078S8NYCS-es Chlorella Espirulina.Spirulina Potente DETOX Antioxidante-...'
+tags: 
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

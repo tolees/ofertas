@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GW5jDMQVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084BT27LL-es Lubricante Intimo Durex Cherry 2 x 100 ml | Lubricante al agua Durex'
+slug: 'B084BT27LL-es Lubricante Intimo Durex Cherry 2 x 100 ml | Lubricante al...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

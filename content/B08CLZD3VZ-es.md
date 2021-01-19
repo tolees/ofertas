@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HoqMr-p6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CLZD3VZ-es Set Pintura Acrílica Nazca para Trabajo Artístico y Manualidades - 16 Colores x 30ml - Acrílicos Perfectos para usar en Lienzo  Madera  Papel  Cartón  Dry Clay  Uñas – Para Artistas de cualquier Nivel'
+slug: 'B08CLZD3VZ-es Set Pintura Acrílica Nazca para Trabajo Artístico y...'
+tags: 
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

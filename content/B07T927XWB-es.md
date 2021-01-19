@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m8Du6s3sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T927XWB-es Belkin ScreenForce TemperedGlass - Protector de Pantalla para iPad Pro y iPad Pro 11'
+slug: 'B07T927XWB-es Belkin ScreenForce TemperedGlass - Protector de Pantalla...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411M0k-zkTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FLG8VFK-es Philips Avent Biberón Natural SCF070/22 - Biberón de 260 ml con tetina con flujo para recién nacidos  diseñada para imitar el tacto del pecho  0% BPA  1m+  Safari Hipo'
+slug: 'B07FLG8VFK-es Philips Avent Biberón Natural SCF070/22 - Biberón de 260...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

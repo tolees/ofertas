@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31D9Volk70L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZKJPL1-es ghd curve classic wave - Rizador de pelo profesional para ondas suaves y glamurosas  tecnología ultra-zone  color negro'
+slug: 'B083ZKJPL1-es ghd curve classic wave - Rizador de pelo profesional para...'
+tags: 
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

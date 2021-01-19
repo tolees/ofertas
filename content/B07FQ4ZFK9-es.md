@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQ4ZFK9-es Little Dragons Café - Edición Estándar'
+tags: 
 actualPrice: 14.84 EUR
 currency: EUR
 price: 14.84

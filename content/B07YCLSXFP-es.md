@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LmN01X4ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCLSXFP-es Windgoo Patinete Eléctrico Plegable E Scooter  hasta 25 km/h  Batería de Largo Alcance de 20-22km 36V 6AH  Neumático de 8.5 Pulgadas  Gris Oscuro Mate '
+slug: 'B07YCLSXFP-es Windgoo Patinete Eléctrico Plegable E Scooter hasta 25...'
+tags: 
 actualPrice: 259.98 EUR
 currency: EUR
 price: 259.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21BQ+sXHLAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HB5YTJ-es Panasonic SC-HTB488 - Barra De Sonido Cine  2.1 Canales 200 W  Subwoofer Inalámbrico  Dolby Digital  HDMI  Bluetooth  Entrada Audio Digital  Montable En Pared -Color Negro'
+slug: 'B071HB5YTJ-es Panasonic SC-HTB488 - Barra De Sonido Cine 2.1 Canales 200...'
+tags: 
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

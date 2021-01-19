@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41POVyOXUYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFZXSY7-es Tommy Hilfiger Tjm Explorer Belt 3.5 Cinturón  Multicolor  Multi Cbk    Talla del fabricante: 95  para Hombre'
+slug: 'B07RFZXSY7-es Tommy Hilfiger Tjm Explorer Belt 3.5 Cinturón Multicolor...'
+tags: 
 actualPrice: 21.63 EUR
 currency: EUR
 price: 21.63

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LOneEVOqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D83DLQC-es Bizak- Modelos Aleatorios Dragones Berk  Multicolor  61926549 '
+slug: 'B07D83DLQC-es Bizak- Modelos Aleatorios Dragones Berk Multicolor 61926549'
+tags: 
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

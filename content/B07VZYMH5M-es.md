@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411MJyGirzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZYMH5M-es Jack & Jones Jorpannel Crew Neck. suéter  Azul  Light Grey Melange Fit: Knit Fit   Medium para Hombre'
+slug: 'B07VZYMH5M-es Jack & Jones Jorpannel Crew Neck. suéter Azul Light Grey...'
+tags: 
 actualPrice: 12.46 EUR
 currency: EUR
 price: 12.46

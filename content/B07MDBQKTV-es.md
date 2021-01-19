@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31M9FtRgnBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDBQKTV-es Lee Luke Jeans  Moto Grey Hga  30W / 34L para Hombre'
+slug: 'B07MDBQKTV-es Lee Luke Jeans Moto Grey Hga 30W / 34L para Hombre'
+tags: 
 actualPrice: 51.02 EUR
 currency: EUR
 price: 51.02

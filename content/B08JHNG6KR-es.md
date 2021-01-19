@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51O5ew9vboL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JHNG6KR-es Grifo de Filtro de Salpicaduras Universal  Boquilla de Pulverización de Grifo de Salida de Agua Giratoria de 720 °  Cabezal de Grifo de Burbuja de Cocina con Filtro de Red de 4 Capas  1 piezas '
+slug: 'B08JHNG6KR-es Grifo de Filtro de Salpicaduras Universal Boquilla de...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

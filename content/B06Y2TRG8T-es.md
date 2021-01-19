@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2TRG8T-es New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   40 EU  6.5 UK '
+slug: 'B06Y2TRG8T-es New Balance 574 Core Zapatillas Hombre Rojo Burgundy 40 EU...'
+tags: 
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

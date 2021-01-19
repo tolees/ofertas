@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31O6+bBjxYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005PQOOP6-es Lékué Protection - Pinza para Cocina  Silicona  Color Rojo/Negro'
+slug: 'B005PQOOP6-es Lékué Protection - Pinza para Cocina Silicona Color...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

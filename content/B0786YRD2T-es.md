@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nzGCuiF8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0786YRD2T-es Puma Liga Small Bag Bag  Sin género  Puma Royal  UA'
+slug: 'B0786YRD2T-es Puma Liga Small Bag Bag Sin género Puma Royal UA'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

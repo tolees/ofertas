@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EXWd1W7EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SN95JKR-es adidas Real PES Suit Y Chándal  Unisex niños  Negro/Orfúos  152'
+slug: 'B07SN95JKR-es adidas Real PES Suit Y Chándal Unisex niños Negro/Orfúos 152'
+tags: 
 actualPrice: 53.97 EUR
 currency: EUR
 price: 53.97

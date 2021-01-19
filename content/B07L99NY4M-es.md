@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VOyuRO9CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L99NY4M-es Nike Legend React 2  Zapatillas de Trail Running para Hombre  Blanco  White/Pure Platinum 100   46 EU'
+slug: 'B07L99NY4M-es Nike Legend React 2 Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 64.49 EUR
 currency: EUR
 price: 64.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51i12bRf6FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFTRSNW-es Ejercitador de Mano  JUMPFISCH Ejercitador de Mano 3 en 1 con Ejercitador de Mano Ajustable  Anillo de Entrenamiento de Mano  Extensor de Dedo con Bolsa de Malla para rehabilitación de dedos y muñecas  fortalecimiento y entrenamiento de flexibilidad de manos  10-40KG/22-88LB   Gris'
+slug: 'B07BFTRSNW-es Ejercitador de Mano JUMPFISCH Ejercitador de Mano 3 en 1...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rkl5gXHVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8VL95N-es Tommy Hilfiger Causal Tommy Jeans Sneaker  Zapatillas para Hombre  Blanco  White Ybs   42 EU'
+slug: 'B07V8VL95N-es Tommy Hilfiger Causal Tommy Jeans Sneaker Zapatillas para...'
+tags: 
 actualPrice: 38.19 EUR
 currency: EUR
 price: 38.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eAT6N4oVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W55BPS4-es Procos - Vaso de plástico 200 ml Avengers Mighty  multicolor  5PR87964'
+slug: 'B06W55BPS4-es Procos - Vaso de plástico 200 ml Avengers Mighty...'
+tags: 
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

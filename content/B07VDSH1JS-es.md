@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aVjKzYJaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDSH1JS-es Mellerware City Lite Robot Aspirador con Mando a Distancia programable. Motor de aspiración 1400PA. Autonomía 160 Minutos. Friega hasta 135 m2'
+slug: 'B07VDSH1JS-es Mellerware City Lite Robot Aspirador con Mando a Distancia...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

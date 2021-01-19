@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Tu0ITu5hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005LDLUW8-es Crucial CT51264BD160B - Memoria RAM de 4 GB  DDR3L  1600 MT/s  PC3L-12800  DIMM  240-Pin '
+slug: 'B005LDLUW8-es Crucial CT51264BD160B - Memoria RAM de 4 GB DDR3L 1600...'
+tags: 
 actualPrice: 21.94 EUR
 currency: EUR
 price: 21.94

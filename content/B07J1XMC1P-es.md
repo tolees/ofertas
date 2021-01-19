@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h2Xmq8tnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J1XMC1P-es Greylags Prima Calzoncillos Retro | Boxershorts | Tubo Largo | Ropa Interior para Hombres | 95% Algodón - 5% Spandex | Paquete de 6'
+slug: 'B07J1XMC1P-es Greylags Prima Calzoncillos Retro | Boxershorts | Tubo...'
+tags: 
 actualPrice: 26.21 EUR
 currency: EUR
 price: 26.21

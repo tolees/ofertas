@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311DuSIIU9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PWX3YV-es Renberg Cubiertos  Diseño Liso y Plano  Acero Inoxidable  Cromado  17.5x6x25.5 cm  24 Unidades'
+slug: 'B074PWX3YV-es Renberg Cubiertos Diseño Liso y Plano Acero Inoxidable...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

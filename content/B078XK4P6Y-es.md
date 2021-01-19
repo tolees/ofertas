@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pT0xLw71L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XK4P6Y-es Hp USB-c Universal Dock w/4.5mm Adapter USB 3.0  3.1 Gen 1 .'
+slug: 'B078XK4P6Y-es Hp USB-c Universal Dock w/4.5mm Adapter USB 3.0 3.1 Gen 1 .'
+tags: 
 actualPrice: 213.57 EUR
 currency: EUR
 price: 213.57

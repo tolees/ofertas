@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311FKmf7cSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZVMXCK-es PUMA Clean Sw St Cl Chándal  Hombre  Gris  Medium Gray Heather   L'
+slug: 'B07RZVMXCK-es PUMA Clean Sw St Cl Chándal Hombre Gris Medium Gray Heather L'
+tags: 
 actualPrice: 41.93 EUR
 currency: EUR
 price: 41.93

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317umn76BeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZV2JYFY-es Helly Hansen Transat Polo  Hombre  Royal Blue  2XL'
+slug: 'B07ZV2JYFY-es Helly Hansen Transat Polo Hombre Royal Blue 2XL'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

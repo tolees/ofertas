@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eN9YwBcWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z7T6F4Y-es OtterBox Defender - Funda de protección triple capa para Apple iPad Pro 10.5"  negro'
+slug: 'B00Z7T6F4Y-es OtterBox Defender - Funda de protección triple capa para...'
+tags: 
 actualPrice: 67.49 EUR
 currency: EUR
 price: 67.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ESp+ewtvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6WQPY1-es Original Buff 115177  Gorro Unisex Adulto  Multicolor  Talla Única'
+slug: 'B01N6WQPY1-es Original Buff 115177 Gorro Unisex Adulto Multicolor Talla...'
+tags: 
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

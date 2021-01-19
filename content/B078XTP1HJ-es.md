@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Na69hD7iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XTP1HJ-es Kitchen Emperor Cuchillo de Cocina  Profesional Cuchillo de Cocinero Acero al Carbono Inoxidable de Alta Calidad  20 cm para Cocina'
+slug: 'B078XTP1HJ-es Kitchen Emperor Cuchillo de Cocina Profesional Cuchillo de...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

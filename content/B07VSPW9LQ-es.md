@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41B-t51dIrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSPW9LQ-es jerryvon Cocina Infantil Madera Pequeña Portatil con Accesorios Grifo de Agua Little Chef Juego de Imitación para Niñas Niños 2 3 4 5 Años'
+slug: 'B07VSPW9LQ-es jerryvon Cocina Infantil Madera Pequeña Portatil con...'
+tags: 
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

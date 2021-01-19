@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41piQ3nS7uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FG7EVFQ-es Nk NK-AC3091-36D WIFI - Cámara de Acción Doble Óptica  Wifi  USB  360º X2  Negro'
+slug: 'B01FG7EVFQ-es Nk NK-AC3091-36D WIFI - Cámara de Acción Doble Óptica Wifi...'
+tags: 
 actualPrice: 76.64 EUR
 currency: EUR
 price: 76.64

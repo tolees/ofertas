@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510GEpenRUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RV3P1YL-es Bikinis Mujer 2020 Push up Sexy de Lunares de Playa Conjunto de Traje de BañO Estampado Bohemio BañAdores con Relleno Sujetador Tops y Braguitas Ropa de Playa vikinis riou'
+slug: 'B07RV3P1YL-es Bikinis Mujer 2020 Push up Sexy de Lunares de Playa...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

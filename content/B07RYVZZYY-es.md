@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31T1pMBSHgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYVZZYY-es Otterbox Slim bundle. Pack Funda anti caídas fina + Protector de pantalla Cristal templado. Trasera transparente iPhone 8/7 Beige'
+slug: 'B07RYVZZYY-es Otterbox Slim bundle. Pack Funda anti caídas fina +...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

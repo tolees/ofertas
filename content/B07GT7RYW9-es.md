@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZHTGmEnUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GT7RYW9-es Devolo Magic 2 LAN - Starter Kit de Powerline Rápido para una Red Doméstica Fiable a Través de Techos y Paredes Mediante los Cables de Corriente  Innovadora Tecnología G.hn  Blanco'
+slug: 'B07GT7RYW9-es Devolo Magic 2 LAN - Starter Kit de Powerline Rápido para...'
+tags: 
 actualPrice: 71.97 EUR
 currency: EUR
 price: 71.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+Vk+MQj-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074QQQ51L-es RHA S500 Universal: Auriculares Intrauditivos Compactos con Aislamiento de Ruido con Micrófono y Control Remoto Universal'
+slug: 'B074QQQ51L-es RHA S500 Universal: Auriculares Intrauditivos Compactos...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

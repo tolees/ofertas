@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NGK6PKK-es Cumlaude Rilastil Sunlaude Spf50 y Compacto Medium - 10 gr'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

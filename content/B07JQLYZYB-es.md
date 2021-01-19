@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RFjv9911L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQLYZYB-es Under Armour UA Spieth Washed Cotton Cap Algodón  Gorra para Hombre  Negro  OSFA'
+slug: 'B07JQLYZYB-es Under Armour UA Spieth Washed Cotton Cap Algodón Gorra...'
+tags: 
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rgSrZfm6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDQWLLH-es Garnier Fructis Crece Fuerte Champú Pelo Frágil  con tendencia a caerse - 360 ml'
+slug: 'B06XDQWLLH-es Garnier Fructis Crece Fuerte Champú Pelo Frágil con...'
+tags: 
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

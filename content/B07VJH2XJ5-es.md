@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ND-eoX30L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJH2XJ5-es Camisetas Tirantes para Mujer Deporte Fitness Verano LuckyGirls ❤️• •❤️ Top Tirantes Corto Basicas Gym Sexy Sin Manga Fiesta Ropa Interior Vest Camisolas'
+slug: 'B07VJH2XJ5-es Camisetas Tirantes para Mujer Deporte Fitness Verano...'
+tags: 
 actualPrice: 1.13 EUR
 currency: EUR
 price: 1.13

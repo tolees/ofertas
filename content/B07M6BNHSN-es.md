@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bKOFzs2RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6BNHSN-es Salomon Supercross GTX  Zapatillas de Running para Hombre  Negro  Black/Black/Black 000   42 2/3 EU'
+slug: 'B07M6BNHSN-es Salomon Supercross GTX Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

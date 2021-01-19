@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kDeysnejL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDM93QN-es Columbia IVO Trail Breeze  Zapatillas Deportivas para Hombre  Blanco  White  Black 100   42 EU'
+slug: 'B07RDM93QN-es Columbia IVO Trail Breeze Zapatillas Deportivas para...'
+tags: 
 actualPrice: 62.49 EUR
 currency: EUR
 price: 62.49

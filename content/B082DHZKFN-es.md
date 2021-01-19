@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411eb7ZKZ3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082DHZKFN-es DANISH ENDURANCE Sujetador Mujer en Coton organico Pack de 3  Negro  Large '
+slug: 'B082DHZKFN-es DANISH ENDURANCE Sujetador Mujer en Coton organico Pack de...'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

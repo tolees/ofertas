@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fzeb3xarL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YL3N5ZG-es MTNG Attitude 84086  Zapatillas para Hombre  Negro  Cato Negro/Texnew Gris C49024   42 EU'
+slug: 'B07YL3N5ZG-es MTNG Attitude 84086 Zapatillas para Hombre Negro Cato...'
+tags: 
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

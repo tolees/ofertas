@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zChAfLIIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M872WMX-es adidas Galaxy 4  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Core Black/Footwear White 0   42 EU'
+slug: 'B07M872WMX-es adidas Galaxy 4 Zapatillas de Entrenamiento para Hombre...'
+tags: 
 actualPrice: 32.01 EUR
 currency: EUR
 price: 32.01

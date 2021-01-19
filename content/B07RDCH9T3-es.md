@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FfNMGsrCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDCH9T3-es Tommy Hilfiger Cozy 3D  Zapatillas Bajas para Mujer  Azul  Desert Sky Dw5   37/38 EU'
+slug: 'B07RDCH9T3-es Tommy Hilfiger Cozy 3D Zapatillas Bajas para Mujer Azul...'
+tags: 
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

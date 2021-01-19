@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oiAch9RnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BM2WTCQ-es Calcifort-D niños | Calcio puro microencapsulado con Vitamina D3 de alta biodisponibilidad | Huesos sanos y fuertes para el crecimiento saludable de los niños | 60 comprimidos sabor cereza'
+slug: 'B07BM2WTCQ-es Calcifort-D niños | Calcio puro microencapsulado con...'
+tags: 
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

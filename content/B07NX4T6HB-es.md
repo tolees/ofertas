@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41biRD5fzRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NX4T6HB-es Igi&Co Uomo Gore-tex-41367  Zapatillas de Gimnasia para Hombre  Negro 4136700  43 EU'
+slug: 'B07NX4T6HB-es Igi&Co Uomo Gore-tex-41367 Zapatillas de Gimnasia para...'
+tags: 
 actualPrice: 38.83 EUR
 currency: EUR
 price: 38.83

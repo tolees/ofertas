@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QbPClZVeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQRTQXG-es Levi s LEVIS FOOTWEAR AND ACCESSORIES Calypso Cinturón  Beige  Écru 21   80 para Mujer'
+slug: 'B07SQRTQXG-es Levi s LEVIS FOOTWEAR AND ACCESSORIES Calypso Cinturón...'
+tags: 
 actualPrice: 23.65 EUR
 currency: EUR
 price: 23.65

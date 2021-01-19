@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31K7+DScw+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKDRF1K-es Colcolo Tarjetas De Plumas Hechas A Mano para Saludos De Invitaciones De Cumpleaños De Boda  - E'
+slug: 'B08CKDRF1K-es Colcolo Tarjetas De Plumas Hechas A Mano para Saludos De...'
+tags: 
 actualPrice: 4.37 EUR
 currency: EUR
 price: 4.37

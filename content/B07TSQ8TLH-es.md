@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fJKJCfB+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ8TLH-es Skechers Bounder Verkona  Zapatillas para Hombre  Gris  White Mesh/Black Synthetic/Trim WBK   39 EU'
+slug: 'B07TSQ8TLH-es Skechers Bounder Verkona Zapatillas para Hombre Gris White...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eospvC3aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2X8YQF-es New Balance 574v2-core Trainers  Zapatillas para Hombre  Gris  Grey   42 EU'
+slug: 'B06Y2X8YQF-es New Balance 574v2-core Trainers Zapatillas para Hombre...'
+tags: 
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

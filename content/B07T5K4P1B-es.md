@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51N3Ru65+mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T5K4P1B-es Toozey Reja Coche Perro Automóvil  SUV Universal - Rejilla Protectora con fijación para reposacabezas - Libro electrónico Ajustable y Gratuito'
+slug: 'B07T5K4P1B-es Toozey Reja Coche Perro Automóvil SUV Universal - Rejilla...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

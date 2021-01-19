@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gmoyQlXWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFQ81Z6-es LIGE Relojes para Hombre Cronógrafo Impermeable Dorado Acero Inoxidable Reloj de Pulsera Vestir Negocio Analógicos Relojes'
+slug: 'B07XFQ81Z6-es LIGE Relojes para Hombre Cronógrafo Impermeable Dorado...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

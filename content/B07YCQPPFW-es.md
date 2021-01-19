@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oxn2af1SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCQPPFW-es LeYi Funda Xiaomi Mi A3 / Mi CC9e con HD Protector Pantalla  Carcasa Libro Tapa Silicona TPU Bumper Leather Soporte Cartera Case Flip Cuero Wallet Slim Antigolpes Cover para Movil Mi A3 Negro'
+slug: 'B07YCQPPFW-es LeYi Funda Xiaomi Mi A3 / Mi CC9e con HD Protector...'
+tags: 
 actualPrice: 8.77 EUR
 currency: EUR
 price: 8.77

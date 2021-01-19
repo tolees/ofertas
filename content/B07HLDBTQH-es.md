@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z8fb580vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HLDBTQH-es READ Reloj para Hombre  Reloj de Cuarzo  Marca de fábrica Superior  Relojes de Pulsera ultrafinos  Metálico '
+slug: 'B07HLDBTQH-es READ Reloj para Hombre Reloj de Cuarzo Marca de fábrica...'
+tags: 
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

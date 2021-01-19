@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mLtd6Ju9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072VBKZ8T-es Oral-B Sensi Ultrathin head - Cabezales de Recambio  Blanco  Pack de 3 Unidades'
+slug: 'B072VBKZ8T-es Oral-B Sensi Ultrathin head - Cabezales de Recambio Blanco...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517JErqBetL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJ2BMN2-es Bolsa de pañales de tela  la bolsa de pañales de doble cremallera impermeable para bebés Lavable seca con pañales húmedos bolsa de viaje 15.8 × 27.6in  EF240 '
+slug: 'B07PJ2BMN2-es Bolsa de pañales de tela la bolsa de pañales de doble...'
+tags: 
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

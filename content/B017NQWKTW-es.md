@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017NQWKTW-es Pocket POP! Keychain - Harry Potter: Harry Potter'
+tags: 
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

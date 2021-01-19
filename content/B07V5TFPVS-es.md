@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4101d2640EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5TFPVS-es Juego de 5 pulseras de plata para mujer  con símbolo de infinito  pulsera de bola  pulsera ajustable'
+slug: 'B07V5TFPVS-es Juego de 5 pulseras de plata para mujer con símbolo de...'
+tags: 
 actualPrice: 15.81 EUR
 currency: EUR
 price: 15.81

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51s6zf8ez4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0161Q2OHI-es Beurer BC57 - Tensiómetro de muñeca  función Bluetooth  medición automática  detección arritmia  2 x 60 mediciones  aplicación Health Manager  blanco'
+slug: 'B0161Q2OHI-es Beurer BC57 - Tensiómetro de muñeca función Bluetooth...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

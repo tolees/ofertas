@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QAnm7b71L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCNHR13-es Nike W Nk Dry Get Fit FLC HD FZ JDI Long Sleeved T-Shirt  Mujer  Black/White  XS'
+slug: 'B07RCNHR13-es Nike W Nk Dry Get Fit FLC HD FZ JDI Long Sleeved T-Shirt...'
+tags: 
 actualPrice: 25.82 EUR
 currency: EUR
 price: 25.82

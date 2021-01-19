@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aO36vkgSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QYXDDT-es Lámpara de esterilización UV Lámpara germicida ultravioleta portátil Índice Antibacteriano 99% De Esterilización Lámpara de desinfección germicida de mano para el Hogar Hotel Coche Mascota Viaje Baño'
+slug: 'B086QYXDDT-es Lámpara de esterilización UV Lámpara germicida...'
+tags: 
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

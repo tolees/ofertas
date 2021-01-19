@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4142eJ8kzSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084PB48MY-es 4 en 1 4 x 1 DiSEqc Interruptor de Banda Ancha de 4 vías DS-04C Conexión de Alto Aislamiento 4 Platos satelitales 4 LNB para Receptor satelital - Plateado'
+slug: 'B084PB48MY-es 4 en 1 4 x 1 DiSEqc Interruptor de Banda Ancha de 4 vías...'
+tags: 
 actualPrice: 2.01 EUR
 currency: EUR
 price: 2.01

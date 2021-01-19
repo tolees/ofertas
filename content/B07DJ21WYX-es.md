@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u1N891QKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ21WYX-es New Balance 997H Core  Zapatillas para Hombre  Plateado  Pigment/Silver   42.5 EU'
+slug: 'B07DJ21WYX-es New Balance 997H Core Zapatillas para Hombre Plateado...'
+tags: 
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GMy-bZDKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYC944Y-es McFarlane Nave Espacial y Garaje Set de construccion Rick & Morty  Multicolor  Large  12884-0 '
+slug: 'B06ZYC944Y-es McFarlane Nave Espacial y Garaje Set de construccion Rick...'
+tags: 
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

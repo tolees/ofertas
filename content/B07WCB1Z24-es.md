@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HOtsu81vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WCB1Z24-es Awenia Calcetines de Compresión Deportivos Medias Transpirables para Hombres y Mujeres  Evitan el Sudor y la Fatiga  Protegen Las Articulaciones del Pie y la Pantorrilla  para Crossfit Fútbol Negro'
+slug: 'B07WCB1Z24-es Awenia Calcetines de Compresión Deportivos Medias...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BQj1kfg9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CH14K3L-es Uniqueheart Home Kitchen Baking Accessories Easy Clean Nonstick Cooling Rack Mesh Grid Baking Cookie Biscuit Cake Drying Stand'
+slug: 'B08CH14K3L-es Uniqueheart Home Kitchen Baking Accessories Easy Clean...'
+tags: 
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

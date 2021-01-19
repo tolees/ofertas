@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M8fSUA92L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082TTGMH5-es Manga De Vibración De Doble Dedo Vïbradörès Dèdö Cönsöladör Anal Rèalïsta Nègrö Sùccïón Dè Cönèjö Varïta Mágïca Hïtachï Masajèadör Sèxö Jùgùètè Sèxùal Lïmpïadör Mascùlïnös Parèja Cönjùntö Prïmè Dïck'
+slug: 'B082TTGMH5-es Manga De Vibración De Doble Dedo Vïbradörès Dèdö...'
+tags: 
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

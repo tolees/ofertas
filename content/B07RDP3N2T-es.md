@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xZGFnl7cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDP3N2T-es New Balance Draft  Zapatillas para Correr de Carretera para Mujer  Bali Blue  36 EU'
+slug: 'B07RDP3N2T-es New Balance Draft Zapatillas para Correr de Carretera para...'
+tags: 
 actualPrice: 37.08 EUR
 currency: EUR
 price: 37.08

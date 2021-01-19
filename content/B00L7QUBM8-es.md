@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411Bk2uSw5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L7QUBM8-es Panasonic KX-TGB212SPB - Teléfono fijo digital  DECT Dúo  función alarma/despertador  6 melodías de timbre  Identificación de llamada entrante   Negro  TGB21 Duo'
+slug: 'B00L7QUBM8-es Panasonic KX-TGB212SPB - Teléfono fijo digital DECT Dúo...'
+tags: 
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

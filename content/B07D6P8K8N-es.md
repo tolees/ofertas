@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iFdRfgWiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6P8K8N-es LOFIR Calcetines Cortos de Algodón para Hombres Calcetines Invisibles con Dedos Separados  Cortes Bajos Tobilleros Calcetines de Cinco 5 Dedos de Deporte para Hombre  talla 39-48  6 pares'
+slug: 'B07D6P8K8N-es LOFIR Calcetines Cortos de Algodón para Hombres Calcetines...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

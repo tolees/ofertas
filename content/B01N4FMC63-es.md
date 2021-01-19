@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OivHAysxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4FMC63-es Ocean Digital DBA-03R Dab/Dab + Wi-Fi Radio de Internet Sintonizador de FM/Bluetooth con Salida óptica/Salida de Audio a Altavoces de Alta fidelidad Pantalla a Color-Negro'
+slug: 'B01N4FMC63-es Ocean Digital DBA-03R Dab/Dab + Wi-Fi Radio de Internet...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

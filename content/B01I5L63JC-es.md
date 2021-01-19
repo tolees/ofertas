@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GXjtdRJIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I5L63JC-es KLARSTEIN Hotrod 145 Olla de Hierro Fundido  12 qt/11 4 litros  Tapa hermética  Ideal para Cocina sobre Fuego o brasas  óptima distribución del Calor  cazuela de Barbacoa Negra '
+slug: 'B01I5L63JC-es KLARSTEIN Hotrod 145 Olla de Hierro Fundido 12 qt/11 4...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

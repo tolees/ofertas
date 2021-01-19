@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21XL0VjM0oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K34LJGX-es Bolsas de plástico resellables  bolsa sellada  bolsa de almacenamiento  7X10cm 240pcs  engrosamiento y duradero  se aplican a diversos artículos del hogar/almacenamiento de la cocina/ropa sellada'
+slug: 'B07K34LJGX-es Bolsas de plástico resellables bolsa sellada bolsa de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41n0oqSZeOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PK1S4YN-es G-STAR RAW Tach Trunk 3-Pack Bañador  Multicolor  Hudson Blue/gurin Green/Deep Flame A394   Small para Hombre'
+slug: 'B07PK1S4YN-es G-STAR RAW Tach Trunk 3-Pack Bañador Multicolor Hudson...'
+tags: 
 actualPrice: 24.05 EUR
 currency: EUR
 price: 24.05

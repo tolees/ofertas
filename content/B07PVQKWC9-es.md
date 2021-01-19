@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JUzdcS0vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVQKWC9-es Under Armour Women s Tribase Edge Trainer Hallenschuhe  Zapatillas Deportivas para Interior para Mujer  Gris  French Gray/White/Beta  602  602   35.5 EU'
+slug: 'B07PVQKWC9-es Under Armour Women s Tribase Edge Trainer Hallenschuhe...'
+tags: 
 actualPrice: 52.97 EUR
 currency: EUR
 price: 52.97

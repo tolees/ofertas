@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ESHQLIIyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6KJDG5-es Mini Vibrador Neo Plus super potente/Masajeador perfecto para uso externo/Ideal para jugar por todo el cuerpo  para hombre y mujer  Lila '
+slug: 'B07K6KJDG5-es Mini Vibrador Neo Plus super potente/Masajeador perfecto...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

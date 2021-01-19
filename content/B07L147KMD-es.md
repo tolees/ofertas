@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eovvKT--L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L147KMD-es Cecotec Barbacoa eléctrica PerfectSteak 4250 Stand con 2400 W  Parrilla de Acero Inoxidable  Soportes con Gran Superficie  3 Niveles de Altura y Panel Cortavientos.'
+slug: 'B07L147KMD-es Cecotec Barbacoa eléctrica PerfectSteak 4250 Stand con...'
+tags: 
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

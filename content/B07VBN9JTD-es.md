@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kOi3VyeSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBN9JTD-es Pepe Jeans Adams Logo  Zapatillas para Mujer  Color Blanco 800  40 EU'
+slug: 'B07VBN9JTD-es Pepe Jeans Adams Logo Zapatillas para Mujer Color Blanco...'
+tags: 
 actualPrice: 39.3 EUR
 currency: EUR
 price: 39.3

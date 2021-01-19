@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31O7Lu0waHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXZK99F-es NANAMI  Fast Wireless Charging Stand  M220'
+slug: 'B06XXZK99F-es NANAMI Fast Wireless Charging Stand M220'
+tags: 
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

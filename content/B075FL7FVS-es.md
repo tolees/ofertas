@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZacaKj9AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FL7FVS-es Imanes Neodimio  FEYG Imanes Nevera Extrem Imán Fuerte 2 2 kg de fuerza Imanes de disco de tierra rara para artesanías  manualidades  hobbies 6mm 8mm 10mm   60pc '
+slug: 'B075FL7FVS-es Imanes Neodimio FEYG Imanes Nevera Extrem Imán Fuerte 2 2...'
+tags: 
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

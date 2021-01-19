@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51zPk0VDidL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I9GDDTG-es Ceva Feliway Friends - Recambio  kit de iniciación para gatos  48 ml'
+slug: 'B01I9GDDTG-es Ceva Feliway Friends - Recambio kit de iniciación para...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

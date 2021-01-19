@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YUGSplPgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UBOIZ5W-es Tommy Hilfiger 3p Trunk  Blanco  White/Tango Red/Peacoat 611   Large  Pack de 3  para Hombre'
+slug: 'B00UBOIZ5W-es Tommy Hilfiger 3p Trunk Blanco White/Tango Red/Peacoat 611...'
+tags: 
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312mgOE0ajL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JY8BBL2-es Lee Malone Jeans  Black Rinse 47  31W / 32L para Hombre'
+slug: 'B07JY8BBL2-es Lee Malone Jeans Black Rinse 47 31W / 32L para Hombre'
+tags: 
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

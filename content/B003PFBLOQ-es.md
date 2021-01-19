@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nFbVtLGLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003PFBLOQ-es Hama pp-245 - Reloj de pared digital  color negro  plástico'
+slug: 'B003PFBLOQ-es Hama pp-245 - Reloj de pared digital color negro plástico'
+tags: 
 actualPrice: 25.68 EUR
 currency: EUR
 price: 25.68

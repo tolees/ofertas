@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iLqsF4jXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084M27CYD-es 4 dígitos portátil Conveniente plástico + Metal Contador de Mano de Mano Manual Palm Clicker número de conteo de Golf/Rojo'
+slug: 'B084M27CYD-es 4 dígitos portátil Conveniente plástico + Metal Contador...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

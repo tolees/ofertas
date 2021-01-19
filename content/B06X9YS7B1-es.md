@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L+YIox+cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9YS7B1-es Reebok Club C 85  Zapatillas para Hombre  Blanco Intense White Green 0  37.5 EU'
+slug: 'B06X9YS7B1-es Reebok Club C 85 Zapatillas para Hombre Blanco Intense...'
+tags: 
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

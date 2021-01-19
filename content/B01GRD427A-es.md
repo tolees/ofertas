@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311VnRrM3KL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GRD427A-es Columbia Childrens Newton Ridge  Botas de Senderismo Infantil  Negro  Black/ Mountain Red   31 EU'
+slug: 'B01GRD427A-es Columbia Childrens Newton Ridge Botas de Senderismo...'
+tags: 
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

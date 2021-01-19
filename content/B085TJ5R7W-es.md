@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416PMGoty-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085TJ5R7W-es ELEHOT Bascula Baño Digital Escala de Peso Multifunción Balanza Baño Electrónica Sensor Automático Almacena 10 Usuarios Medida Precisa'
+slug: 'B085TJ5R7W-es ELEHOT Bascula Baño Digital Escala de Peso Multifunción...'
+tags: 
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

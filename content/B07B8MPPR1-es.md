@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B27c9z7HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8MPPR1-es Lacoste Ph5522 Polo  Rojo  Bordeaux 476   X-Small para Hombre'
+slug: 'B07B8MPPR1-es Lacoste Ph5522 Polo Rojo Bordeaux 476 X-Small para Hombre'
+tags: 
 actualPrice: 60.34 EUR
 currency: EUR
 price: 60.34

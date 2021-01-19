@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HKqa1nb9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQTYMQZ-es Clarks Blake Jewel  Sandalia con Pulsera para Mujer  Negro  Black Leather-   37 EU'
+slug: 'B07FQTYMQZ-es Clarks Blake Jewel Sandalia con Pulsera para Mujer Negro...'
+tags: 
 actualPrice: 39.25 EUR
 currency: EUR
 price: 39.25

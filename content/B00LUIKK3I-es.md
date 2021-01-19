@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FpnuzA81L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LUIKK3I-es Adidas Stan Smith  Zapatillas de Deporte Unisex Adulto  Blanco  Running White Footwear/Running White/Fairway   41 1/3 EU'
+slug: 'B00LUIKK3I-es Adidas Stan Smith Zapatillas de Deporte Unisex Adulto...'
+tags: 
 actualPrice: 66.49 EUR
 currency: EUR
 price: 66.49

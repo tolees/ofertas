@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KiJIga1ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B16RDMS-es Multímetro De Mano Multímetro Luminoso Pantalla LCD Digital Durable Resistente A Caídas Multímetro De Alta Precisión Para Electricista'
+slug: 'B08B16RDMS-es Multímetro De Mano Multímetro Luminoso Pantalla LCD...'
+tags: 
 actualPrice: 5.56 EUR
 currency: EUR
 price: 5.56

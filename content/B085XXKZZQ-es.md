@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ueR5rZv-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XXKZZQ-es Mini Ventiladores de Sobremesa  Ventilador USB de Escritorio  Ventilador 360 ° Rotación Ventilador de Mesa Silencioso  Ventilador USB 3 Ajustable para Oficina  Hogar  Viaje（Negro）'
+slug: 'B085XXKZZQ-es Mini Ventiladores de Sobremesa Ventilador USB de...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

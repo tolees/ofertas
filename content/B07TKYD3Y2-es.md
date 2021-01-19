@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qW7uDy0+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKYD3Y2-es The North Face B Glacier Full Zip H Unisex Niños  TNF Blue  L'
+slug: 'B07TKYD3Y2-es The North Face B Glacier Full Zip H Unisex Niños TNF Blue L'
+tags: 
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

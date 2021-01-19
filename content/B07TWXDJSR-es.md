@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SkLAlHCgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWXDJSR-es Women s Secret Print Flower Mesh Pink Sujetador básico  Multicolor  Gama Rosas/Morados 71   95  Tamaño del Fabricante: 95B  para Mujer'
+slug: 'B07TWXDJSR-es Women s Secret Print Flower Mesh Pink Sujetador básico...'
+tags: 
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

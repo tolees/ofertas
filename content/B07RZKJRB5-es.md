@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JC2m3xJpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZKJRB5-es Destornillador Eléctrico Inalámbrico  LOMVUM LV401 4V Taladros Atornilladores  2000mAh Batería de Litio Par Máximo: 4 N.m  Cable de carga USB'
+slug: 'B07RZKJRB5-es Destornillador Eléctrico Inalámbrico LOMVUM LV401 4V...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

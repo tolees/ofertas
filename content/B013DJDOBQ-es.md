@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gZA6AimIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013DJDOBQ-es Skylanders SuperCharges - Figura Smash Hit  Driver '
+slug: 'B013DJDOBQ-es Skylanders SuperCharges - Figura Smash Hit Driver'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

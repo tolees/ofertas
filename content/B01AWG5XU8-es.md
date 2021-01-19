@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pVW-cOpfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AWG5XU8-es LG 34UM88-P - Monitor Profesional UltraWide QHD de 86 36 cm  34"  con Panel IPS  3440 x 1440 píxeles  21:9  300 cd/m²  sRGB >99%  1000:1  5 ms  75 Hz  Color Negro'
+slug: 'B01AWG5XU8-es LG 34UM88-P - Monitor Profesional UltraWide QHD de 86 36...'
+tags: 
 actualPrice: 334.18 EUR
 currency: EUR
 price: 334.18

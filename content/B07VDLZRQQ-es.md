@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E4ddQ7UvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDLZRQQ-es Lee Extreme Motion Skinny Jeans  Azul  Blue Prodigy AB   34W / 30L para Hombre'
+slug: 'B07VDLZRQQ-es Lee Extreme Motion Skinny Jeans Azul Blue Prodigy AB 34W /...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

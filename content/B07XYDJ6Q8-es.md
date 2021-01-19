@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51m8HAiitBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYDJ6Q8-es Piccalilly - Body para bebé  algodón orgánico Suave  Unisex  diseño de Elefante   Color Rojo Rojo Rosso 24 Meses'
+slug: 'B07XYDJ6Q8-es Piccalilly - Body para bebé algodón orgánico Suave Unisex...'
+tags: 
 actualPrice: 9.23 EUR
 currency: EUR
 price: 9.23

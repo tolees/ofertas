@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TYyqC-spL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OK3MKDS-es Termix Slim- Plancha de pelo con Nano Titanio  que ayuda a generar iones negativos beneficiosos para el cabello.'
+slug: 'B00OK3MKDS-es Termix Slim- Plancha de pelo con Nano Titanio que ayuda a...'
+tags: 
 actualPrice: 25.46 EUR
 currency: EUR
 price: 25.46

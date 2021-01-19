@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511Jw6UEdfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGN72PR-es Desigual Foul Jirafa Bufanda  Multicolor  Multicolor Fucsia 9021   Talla única  Talla del fabricante: U  para Mujer'
+slug: 'B07VGN72PR-es Desigual Foul Jirafa Bufanda Multicolor Multicolor Fucsia...'
+tags: 
 actualPrice: 24.37 EUR
 currency: EUR
 price: 24.37

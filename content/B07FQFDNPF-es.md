@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bw8q1DDSL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQFDNPF-es Buff Adventure Junior Frozen Tubular Polar  Unisex Adulto  Azul  Scuba   Talla Única'
+slug: 'B07FQFDNPF-es Buff Adventure Junior Frozen Tubular Polar Unisex Adulto...'
+tags: 
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

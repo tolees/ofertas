@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5139bXauE5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077RYYYQY-es UGEARS Coche Grand Prix U-9 - Kit de Montaje Coche de carreras - 3D Rompecabezas de Madera DIY'
+slug: 'B077RYYYQY-es UGEARS Coche Grand Prix U-9 - Kit de Montaje Coche de...'
+tags: 
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

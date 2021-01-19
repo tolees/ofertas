@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NKOkM70aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C1QKRNX-es Bird - Anclaje de pared  suelo  punto de seguridad para cadena de alta seguridad'
+slug: 'B07C1QKRNX-es Bird - Anclaje de pared suelo punto de seguridad para...'
+tags: 
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

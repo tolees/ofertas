@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419BgvuZZoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089QGXVFK-es YFish HD Webcam Autofocus PC con Micrófono Incorporado  USB 2.0/3.0  720P Cámara Web de Alta Definición para Ordenadores  Laptop  Computadoras Desktop  Video Conferencia  Llamadas y Juegos'
+slug: 'B089QGXVFK-es YFish HD Webcam Autofocus PC con Micrófono Incorporado USB...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

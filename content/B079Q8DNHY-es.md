@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ENWZQYeuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Q8DNHY-es KidKraft- Juguete de vías de tren y mesa  de madera  para niños  juego clásico de actividades ferroviarias con accesorios incluidos  120 piezas  My Own City Vehicle  Color Multicolor  18026 '
+slug: 'B079Q8DNHY-es KidKraft- Juguete de vías de tren y mesa de madera para...'
+tags: 
 actualPrice: 174.99 EUR
 currency: EUR
 price: 174.99

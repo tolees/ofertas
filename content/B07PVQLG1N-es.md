@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411CXLrv6IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVQLG1N-es Under Armour UA W Charged Rogue 2  Zapatillas de Running para Mujer  Negro  Black/Halo Gray/White   40 EU'
+slug: 'B07PVQLG1N-es Under Armour UA W Charged Rogue 2 Zapatillas de Running...'
+tags: 
 actualPrice: 26.94 EUR
 currency: EUR
 price: 26.94

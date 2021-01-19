@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WDJWv82GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DS1FG46-es Salomon  Xview Access  Máscara de esquí unisex  Negro-Blanco/Naranja  Universal Tonic   L40518600'
+slug: 'B07DS1FG46-es Salomon Xview Access Máscara de esquí unisex Negro-...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

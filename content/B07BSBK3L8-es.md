@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QKGZw3Z6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSBK3L8-es BLESSUME Mujer Cordón infinito católico Capilla Velo latín Masa Mantilla Cabeza Cubierta  Negro '
+slug: 'B07BSBK3L8-es BLESSUME Mujer Cordón infinito católico Capilla Velo latín...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

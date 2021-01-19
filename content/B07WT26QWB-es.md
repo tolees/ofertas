@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Th+f-Y5OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WT26QWB-es AOQUSSQOA Mujer Trajes de baño de una Pieza con Volantes Trajes de baño con Cuello en V Monokinis Trajes de baño Estilo cambiante Traje de baño de Playa  EU 34-36  S   Raya Verde '
+slug: 'B07WT26QWB-es AOQUSSQOA Mujer Trajes de baño de una Pieza con Volantes...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m1vlJRWKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K16SWL3-es adidas Estro 19 JSY T-Shirt  Boys  Black  5-6 años'
+slug: 'B07K16SWL3-es adidas Estro 19 JSY T-Shirt Boys Black 5-6 años'
+tags: 
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

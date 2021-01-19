@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419ALbZP5sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJ1DSPN-es Levi s 502 Taper Shorts 10" Pantalones Cortos  Azul  Shooting Star Short 0047   W36  Talla del Fabricante: 36  para Hombre'
+slug: 'B07RJ1DSPN-es Levi s 502 Taper Shorts 10" Pantalones Cortos Azul...'
+tags: 
 actualPrice: 33.24 EUR
 currency: EUR
 price: 33.24

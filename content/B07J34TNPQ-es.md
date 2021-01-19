@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kUnGpAA5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J34TNPQ-es Funko- Pop Bobble Marvel Studios 10: Doctor Strange  Chrome  Figura Coleccionable  Multicolor  38481 '
+slug: 'B07J34TNPQ-es Funko- Pop Bobble Marvel Studios 10: Doctor Strange Chrome...'
+tags: 
 actualPrice: 9.56 EUR
 currency: EUR
 price: 9.56

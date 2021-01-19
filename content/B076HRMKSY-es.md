@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316cVVWrMkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HRMKSY-es adidas CORE18 TR PNT Pantalones de Deporte  Hombre  Black/White  3XL'
+slug: 'B076HRMKSY-es adidas CORE18 TR PNT Pantalones de Deporte Hombre...'
+tags: 
 actualPrice: 22.01 EUR
 currency: EUR
 price: 22.01

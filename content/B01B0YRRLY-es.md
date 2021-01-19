@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41njiTviS7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B0YRRLY-es Russell Hobbs Textures Plus - Tostadora  2 Ranuras Anchas  de Plástico con Detalles Acero Inox  Negro  - ref. 22601-56'
+slug: 'B01B0YRRLY-es Russell Hobbs Textures Plus - Tostadora 2 Ranuras Anchas...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

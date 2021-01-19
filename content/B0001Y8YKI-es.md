@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41La4g2sSfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0001Y8YKI-es Converse Chuck C Taylor A/S Hi  Zapatillas Unisex  Negro  53 EU'
+slug: 'B0001Y8YKI-es Converse Chuck C Taylor A/S Hi Zapatillas Unisex Negro 53 EU'
+tags: 
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

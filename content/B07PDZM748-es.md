@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tETTrk2JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDZM748-es Samsung Galaxy A50 - Smartphone de 6.4" FHD sAmoled Infinity U Display  4 GB RAM  128 GB ROM  25 MP  Exynos 9610  Carga rápida   Azul [versión española]'
+slug: 'B07PDZM748-es Samsung Galaxy A50 - Smartphone de 6.4" FHD sAmoled...'
+tags: 
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

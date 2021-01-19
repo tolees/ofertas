@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f8P3yq3KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NK7N58S-es Famgizmo Soporte de Pared para TV 14-37 Pulgadas 35-94cm   Inclinable y Giratorio  Máx Vesa 200x200mm  Carga 45KG 99lbs   para Televisores de Pantalla Plana LED LCD Plasma 4K 3D '
+slug: 'B07NK7N58S-es Famgizmo Soporte de Pared para TV 14-37 Pulgadas 35-94cm...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

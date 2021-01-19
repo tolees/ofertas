@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p0z34i3FL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WLKL85S-es  AL  Fliegenohren Esperia  rosenholz/smaragd  Pony  rosenholz/smaragd  Pony'
+slug: 'B06WLKL85S-es AL Fliegenohren Esperia rosenholz/smaragd Pony...'
+tags: 
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

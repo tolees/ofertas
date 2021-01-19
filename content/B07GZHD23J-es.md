@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51n-0PJ6E1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZHD23J-es Peluca para disfraz de Capitán América con soldado de invierno para mujer  color naranja  de fibra resistente al calor'
+slug: 'B07GZHD23J-es Peluca para disfraz de Capitán América con soldado de...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

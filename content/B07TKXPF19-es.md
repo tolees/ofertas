@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41miDqpybFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKXPF19-es Superdry State Volley Swim Short Pantalones Cortos  Negro  Black 02a   M para Hombre'
+slug: 'B07TKXPF19-es Superdry State Volley Swim Short Pantalones Cortos Negro...'
+tags: 
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41viTX3zpmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089FY3XNW-es morpilot Correa de Perro  Correa de Nylon Resistente para Perros  Correa Adiestramiento Cuerda Ajustable con Mango Suave  Correa para Perro Grande Mediano Pequeño  Talla S + Bolsa de Basura'
+slug: 'B089FY3XNW-es morpilot Correa de Perro Correa de Nylon Resistente para...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tMNf1rlkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XA315KS-es Respiral Caramelos  Sabor Mentol - 1000 gr'
+slug: 'B00XA315KS-es Respiral Caramelos Sabor Mentol - 1000 gr'
+tags: 
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

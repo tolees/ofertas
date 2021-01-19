@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eDg0UgnRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C26OQMI-es NRS Healthcare M66613 - Asiento para inodoro  altura ajustable'
+slug: 'B00C26OQMI-es NRS Healthcare M66613 - Asiento para inodoro altura ajustable'
+tags: 
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

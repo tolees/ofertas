@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MvWGy6LmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082D1RGN2-es Kit de Rosas  ASANMU Bella y la Bestia Rosa de Seda Roja y luz LED con Pétalos Caídos en Cúpula de Cristal Sobre una Base de Madera Mejor Regalo para día de San Valentín  Boda  Aniversario  Cumpleaños'
+slug: 'B082D1RGN2-es Kit de Rosas ASANMU Bella y la Bestia Rosa de Seda Roja y...'
+tags: 
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

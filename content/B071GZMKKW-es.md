@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UbiEPFuaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071GZMKKW-es TATAY Urban Food Prime Gris - Bolsa térmica Porta Alimentos con 2 tápers incluidos  4 7 litros de capacidad  Tela  Gris  11 x 25.5 x 24.5 cm'
+slug: 'B071GZMKKW-es TATAY Urban Food Prime Gris - Bolsa térmica Porta...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

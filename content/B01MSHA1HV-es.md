@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xxODb0pYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSHA1HV-es Pediatopic Cuidado Corporal 500ml   loción emoliente e hidratante específica para pieles atópicas y/o altamente secas.'
+slug: 'B01MSHA1HV-es Pediatopic Cuidado Corporal 500ml loción emoliente e...'
+tags: 
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZaQK5lWEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JZLBNU6-es BLACK+DECKER PV1820L-QW - Aspirador de mano sin cable 18V 1.5Ah   cabezal pivotante ya cción ciclónica.'
+slug: 'B00JZLBNU6-es BLACK+DECKER PV1820L-QW - Aspirador de mano sin cable 18V...'
+tags: 
 actualPrice: 74.35 EUR
 currency: EUR
 price: 74.35

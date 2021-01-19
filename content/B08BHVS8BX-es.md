@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512BkbKgtIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHVS8BX-es Falechay Calcetines Deportivos para Hombre y Mujer 3 Pares Running Tobillo Bajo Calcetines Cortos Unisex Algodón Transpirables Azul M 39-42 '
+slug: 'B08BHVS8BX-es Falechay Calcetines Deportivos para Hombre y Mujer 3 Pares...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

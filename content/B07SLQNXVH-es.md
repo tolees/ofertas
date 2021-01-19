@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yPOYF4XNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLQNXVH-es FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalon Deportivo Alta Cintura Yoga Elásticos Fitness Seamless Negro-4 Large'
+slug: 'B07SLQNXVH-es FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalon...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

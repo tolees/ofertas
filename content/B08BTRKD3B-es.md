@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h6-1PqRsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BTRKD3B-es Bandas de Silicona Antideslizantes Soporte para Montaje en Cuna para Manillar de Motocicleta/Bicicleta Clip Seguro Soporte para teléfono móvil Enviado al Azar-Negro'
+slug: 'B08BTRKD3B-es Bandas de Silicona Antideslizantes Soporte para Montaje en...'
+tags: 
 actualPrice: 17.29 EUR
 currency: EUR
 price: 17.29

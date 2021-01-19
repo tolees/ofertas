@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/513lynm1uvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHK54F8-es Qshare - Platos de silicona para bebé  una pieza  para bebés y niños  portátil  sin BPA  aprobado por la FDA  fuertes placas de succión para niños pequeños  aptos para lavavajillas y microondas'
+slug: 'B07MHK54F8-es Qshare - Platos de silicona para bebé una pieza para bebés...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

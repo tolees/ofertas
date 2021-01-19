@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m5HCF+sOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRF34BC-es Mr. Wonderful WOA09851ES  Calendario de Sobremesa 2020  Talla Única  Multicolor'
+slug: 'B07SRF34BC-es Mr. Wonderful WOA09851ES Calendario de Sobremesa 2020...'
+tags: 
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

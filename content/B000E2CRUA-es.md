@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GzXSkqb2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000E2CRUA-es K&N AL-1004 Filtro de Aire para Aprilia RSV MILLE 2004 RSV 1000 05-12 Moto'
+slug: 'B000E2CRUA-es K&N AL-1004 Filtro de Aire para Aprilia RSV MILLE 2004 RSV...'
+tags: 
 actualPrice: 63.93 EUR
 currency: EUR
 price: 63.93

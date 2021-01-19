@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gAdDaGEML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y59YHWB-es Sesderma Repaskin Protector Solar Facial SPF 50 Tacto Seda - 50 gr'
+slug: 'B06Y59YHWB-es Sesderma Repaskin Protector Solar Facial SPF 50 Tacto Seda...'
+tags: 
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

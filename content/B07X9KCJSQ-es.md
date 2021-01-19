@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fwb8pg7DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9KCJSQ-es IPOTCH El Soporte del Porta Bolsas De Lona Enrolla El Soporte del Cepillo De La Caligrafía Enrolla La Protección'
+slug: 'B07X9KCJSQ-es IPOTCH El Soporte del Porta Bolsas De Lona Enrolla El...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

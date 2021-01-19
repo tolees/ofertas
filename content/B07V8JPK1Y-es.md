@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ijA3nI7AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8JPK1Y-es deAO Lanzador de Cohetes Infantil Salta y Lanza Cohetes Playset Conjunto Juego de Ciencia Incluye Cohetes de Goma Espuma para Interiores y Exteriores'
+slug: 'B07V8JPK1Y-es deAO Lanzador de Cohetes Infantil Salta y Lanza Cohetes...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

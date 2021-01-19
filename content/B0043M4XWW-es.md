@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410I-Hc8o2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0043M4XWW-es Oral-B Pulsonic - Pack de 3 cabezales de recambio para cepillo de dientes recargable'
+slug: 'B0043M4XWW-es Oral-B Pulsonic - Pack de 3 cabezales de recambio para...'
+tags: 
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

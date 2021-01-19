@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/311iPn1P4gL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP2YGKH-es adidas 6P 3S Cap Cotto - Gorra  Unisex Adulto  Black/White  OSFL'
+slug: 'B07KP2YGKH-es adidas 6P 3S Cap Cotto - Gorra Unisex Adulto Black/White OSFL'
+tags: 
 actualPrice: 10.77 EUR
 currency: EUR
 price: 10.77

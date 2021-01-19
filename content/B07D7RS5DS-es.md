@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316bH9NWoXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7RS5DS-es MEDION ERAZER P6689 - Portátil gaming 15.6" FullHD  Intel Core i7-8550U-QC  8GB RAM  1TB HDD + 128GB SSD  NVIDIA GTX-1050-4GB  Sin sistema operativo   color negro - Teclado QWERTY español'
+slug: 'B07D7RS5DS-es MEDION ERAZER P6689 - Portátil gaming 15.6" FullHD Intel...'
+tags: 
 actualPrice: 599.99 EUR
 currency: EUR
 price: 599.99

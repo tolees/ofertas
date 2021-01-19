@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kaTjjfqwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQX16HN-es Clarks Sift Speed  Zapatillas para Hombre  Marrón  British Tan Lea British Tan Lea   43 EU'
+slug: 'B07TQX16HN-es Clarks Sift Speed Zapatillas para Hombre Marrón British...'
+tags: 
 actualPrice: 60.28 EUR
 currency: EUR
 price: 60.28

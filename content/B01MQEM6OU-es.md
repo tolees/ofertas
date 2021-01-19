@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3110qxBwDeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQEM6OU-es Intex 28602 - Depuradora cartucho tipo H Krystal Clear 1.250 litros/hora'
+slug: 'B01MQEM6OU-es Intex 28602 - Depuradora cartucho tipo H Krystal Clear...'
+tags: 
 actualPrice: 21.08 EUR
 currency: EUR
 price: 21.08

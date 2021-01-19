@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LcFQJFUaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089VMDH38-es Jojoin 2 pcs Walkie Talkie Niños con 8/20/22 Canales de Banda Estrecha  Larga Distancia 3KM  Función Vox  10 Tonos de Llamada  con Linterna y Brújula  Regalo y Juguete para Niños o Niñas de 3+años'
+slug: 'B089VMDH38-es Jojoin 2 pcs Walkie Talkie Niños con 8/20/22 Canales de...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

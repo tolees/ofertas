@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41J73U2Ta8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7VZB8X-es BOSS Saturn_lowp_Meth  Zapatillas para Hombre  Gris  Light Grey 50   39 EU'
+slug: 'B07K7VZB8X-es BOSS Saturn_lowp_Meth Zapatillas para Hombre Gris Light...'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

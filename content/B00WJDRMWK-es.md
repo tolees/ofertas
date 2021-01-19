@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-gAaJn2uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WJDRMWK-es Taurus VB 02 Ventilador climatizador  nebulizador  90 W  0 Decibeles  Acero'
+slug: 'B00WJDRMWK-es Taurus VB 02 Ventilador climatizador nebulizador 90 W 0...'
+tags: 
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

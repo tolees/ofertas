@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xBOBgNLVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WG8VR2G-es Dockers by Gerli 46rb002-100100  Zapatillas para Hombre  Negro  Schwarz 100   46 EU'
+slug: 'B07WG8VR2G-es Dockers by Gerli 46rb002-100100 Zapatillas para Hombre...'
+tags: 
 actualPrice: 19.69 EUR
 currency: EUR
 price: 19.69

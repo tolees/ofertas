@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419ASXN9nmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHX6TZX-es Columbia Fairbanks Omni-Heat Bota de invierno para hombre   Verde Nori  Canyon Gold   40 EU'
+slug: 'B07JHX6TZX-es Columbia Fairbanks Omni-Heat Bota de invierno para hombre...'
+tags: 
 actualPrice: 58.42 EUR
 currency: EUR
 price: 58.42

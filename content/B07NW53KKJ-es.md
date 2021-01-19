@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417JMI4S-1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW53KKJ-es Skechers Women s STAMINA-CLASSY TRAIL Trainers  Black  Black Suede/Mesh/White & Gum Trim BKW   5  38 EU '
+slug: 'B07NW53KKJ-es Skechers Women s STAMINA-CLASSY TRAIL Trainers Black Black...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

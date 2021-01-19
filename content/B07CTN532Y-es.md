@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FUbkLKnML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTN532Y-es Under Armour UA HOVR Sonic 2  Zapatillas de Running para Hombre  Blanco  Onyx White/Mod Gray/Mod Gray 101   42 EU'
+slug: 'B07CTN532Y-es Under Armour UA HOVR Sonic 2 Zapatillas de Running para...'
+tags: 
 actualPrice: 76.16 EUR
 currency: EUR
 price: 76.16

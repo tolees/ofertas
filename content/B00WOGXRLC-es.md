@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3199xczYfBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WOGXRLC-es Halls - Caramelos Extra Fuerte  sin Azúcar - 20 unidades'
+slug: 'B00WOGXRLC-es Halls - Caramelos Extra Fuerte sin Azúcar - 20 unidades'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

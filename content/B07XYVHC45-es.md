@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S6sfpHyjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYVHC45-es Veehoo Plegable Transportín para Perros  Blando  Caja para Mascotas abatible  transportable y Suave'
+slug: 'B07XYVHC45-es Veehoo Plegable Transportín para Perros Blando Caja para...'
+tags: 
 actualPrice: 23.63 EUR
 currency: EUR
 price: 23.63

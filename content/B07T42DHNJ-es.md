@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ngLL445gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T42DHNJ-es GoPro HERO7 Black - Cámara de acción  sumergible hasta 10 m  pantalla táctil  vídeo 4K HD  fotos de 12 MP  transmisión en directo y estabilizador  negro + Kit de accesorios para cámara  color negro'
+slug: 'B07T42DHNJ-es GoPro HERO7 Black - Cámara de acción sumergible hasta 10 m...'
+tags: 
 actualPrice: 347.0 EUR
 currency: EUR
 price: 347.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YG3JwZ3FL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J8ZJRFW-es Set de 8 cabezales de recambio Compatible para cepillo Philips Sonicare ProResults / DiamondClean  EasyClean  FlexCare  HealthyWhite'
+slug: 'B00J8ZJRFW-es Set de 8 cabezales de recambio Compatible para cepillo...'
+tags: 
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

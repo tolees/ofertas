@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XC2P6LT-es Beholder CE'
+tags: 
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

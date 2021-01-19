@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/612X0heuWNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ERF2FW4-es The Body Source Pulseras Repelentes de Mosquitos  10 Piezas  No Contiene DEET y Libres de Sustancias Tóxicas o Nocivas  con Citronela e Impermeables  para Adultos y Niños'
+slug: 'B01ERF2FW4-es The Body Source Pulseras Repelentes de Mosquitos 10 Piezas...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

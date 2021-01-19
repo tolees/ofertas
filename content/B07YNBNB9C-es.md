@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jbvLTpCFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNBNB9C-es Braun Hogar Multi Quick 7 Batidora de Mano  1000 W  plástico  Negro'
+slug: 'B07YNBNB9C-es Braun Hogar Multi Quick 7 Batidora de Mano 1000 W plástico...'
+tags: 
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

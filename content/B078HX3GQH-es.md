@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bPRdOlXtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HX3GQH-es Tommy Hilfiger Painted Flag Loop 4.0 Cinturón  Marrón  Testi Di Moro 254   105  Talla del fabricante: 90  para Hombre'
+slug: 'B078HX3GQH-es Tommy Hilfiger Painted Flag Loop 4.0 Cinturón Marrón Testi...'
+tags: 
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

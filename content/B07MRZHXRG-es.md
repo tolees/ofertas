@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wB1-UeDqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MRZHXRG-es Herefun Funda para Barbacoa Impermeable  210D Oxford Funda Protector para Barbacoa de Gas  Cubierta BBQ Parrilla Funda Protectora  170 x 61 x 117cm '
+slug: 'B07MRZHXRG-es Herefun Funda para Barbacoa Impermeable 210D Oxford Funda...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

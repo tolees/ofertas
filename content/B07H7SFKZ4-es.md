@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41W4wkCPGCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H7SFKZ4-es Nike Downshifter 9  Zapatillas de Running para Asfalto para Hombre  Multicolor  Midnight Navy/Pure Platinum 401   41 EU'
+slug: 'B07H7SFKZ4-es Nike Downshifter 9 Zapatillas de Running para Asfalto para...'
+tags: 
 actualPrice: 37.89 EUR
 currency: EUR
 price: 37.89

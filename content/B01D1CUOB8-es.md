@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518ZWrj2ZZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D1CUOB8-es Pack de 12 filtros bi-flux que mejoran el sabor del agua  reducen la cal y el cloro  compatibles con las jarras Laica y Brita entre otras. Cada filtro dura 150 litros o 1 mes.'
+slug: 'B01D1CUOB8-es Pack de 12 filtros bi-flux que mejoran el sabor del agua...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

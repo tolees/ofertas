@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+betA6ULL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077C6NN3Z-es Emporio Armani Reloj Analogico para Hombre de Cuarzo con Correa en Cuero AR11106'
+slug: 'B077C6NN3Z-es Emporio Armani Reloj Analogico para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 230.0 EUR
 currency: EUR
 price: 230.0

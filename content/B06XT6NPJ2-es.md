@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y4nAWP64L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XT6NPJ2-es Pepe Jeans Original Basic L/S  Top de Manga Larga Para Hombre  Azul  Navy   XX-Large'
+slug: 'B06XT6NPJ2-es Pepe Jeans Original Basic L/S Top de Manga Larga Para...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

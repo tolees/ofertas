@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YrABqpEiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRCQ8LY-es adidas Deerupt Runner  Zapatillas de Gimnasia para Hombre  Negro  Core Black/Core Black/Hi/Res Aqua Core Black/Core Black/Hi/Res Aqua   40 2/3 EU'
+slug: 'B07SRCQ8LY-es adidas Deerupt Runner Zapatillas de Gimnasia para Hombre...'
+tags: 
 actualPrice: 59.94 EUR
 currency: EUR
 price: 59.94

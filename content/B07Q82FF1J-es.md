@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414ULpR-RVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q82FF1J-es ABOX Plancha de Vapor para Viaje  4 en 1 Modo de Vapor y Modo Seco de 1300W  Base de Cerámica Antiquemadura  Caliente en 30 Segundos  Bolsa de Transporte Portátil para Uso en Viaje y Hogar'
+slug: 'B07Q82FF1J-es ABOX Plancha de Vapor para Viaje 4 en 1 Modo de Vapor y...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

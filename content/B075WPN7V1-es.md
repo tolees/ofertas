@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uLlDGh+VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WPN7V1-es 【Versión mejorada】TEC.BEAN Masajeador eléctrico de Mano Portátil con función de calor  ajuste de velocidad  6 nodos intercambiables  para Relajar los Músculos  aliviar los dolor  estrés'
+slug: 'B075WPN7V1-es 【Versión mejorada】TEC.BEAN Masajeador eléctrico de Mano...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

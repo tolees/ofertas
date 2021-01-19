@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SWhzYvsEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XVZ6S7G-es Harissa mezcla de especias 250g de polvo picante de especias I especialidad norteafricana de alta calidad para la producción de pasta Harissa'
+slug: 'B06XVZ6S7G-es Harissa mezcla de especias 250g de polvo picante de...'
+tags: 
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

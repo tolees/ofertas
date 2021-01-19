@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LBsJzQ+8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LQD5TH-es Lacoste Sport GH353T Bañador  Blanco  Blanc   W40  Talla del Fabricante: 9  para Hombre'
+slug: 'B079LQD5TH-es Lacoste Sport GH353T Bañador Blanco Blanc W40 Talla del...'
+tags: 
 actualPrice: 26.84 EUR
 currency: EUR
 price: 26.84

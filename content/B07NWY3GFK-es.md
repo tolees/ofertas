@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31bEj3Ct0DL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWY3GFK-es Joma Combi Polos Caballero  Hombre  Marino/Royal  M'
+slug: 'B07NWY3GFK-es Joma Combi Polos Caballero Hombre Marino/Royal M'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

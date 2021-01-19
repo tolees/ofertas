@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dmjrfgdhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084X5S9SF-es Niños Puzzle Memory Game Console LED Light Sound Interactive Toy Training Hand Brain Coordination - Colorido'
+slug: 'B084X5S9SF-es Niños Puzzle Memory Game Console LED Light Sound...'
+tags: 
 actualPrice: 5.43 EUR
 currency: EUR
 price: 5.43

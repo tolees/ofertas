@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418RpbNompL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872QXRD8-es fgdjfhsdfgsdfh SQ11 Mini Micro HD Cámara Dice Video Night Vision HD 1080P 960P Videocámara Sensor de Movimiento Cámara Monitores WiFi Remoto'
+slug: 'B0872QXRD8-es fgdjfhsdfgsdfh SQ11 Mini Micro HD Cámara Dice Video Night...'
+tags: 
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

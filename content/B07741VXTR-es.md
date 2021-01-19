@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pFCRPHieL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07741VXTR-es Adidas Stan Smith  Zapatillas de Deporte para Hombre  Blanco  Ftwbla/Ftwbla/Tinnob 000   42 2/3 EU'
+slug: 'B07741VXTR-es Adidas Stan Smith Zapatillas de Deporte para Hombre Blanco...'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

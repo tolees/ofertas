@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DutITBWZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJGF1L-es Kipling - Creativity S  Monederos Mujer  Dorado  Cloud Metal   14.5x9.5x5 cm  B x H T '
+slug: 'B07PSJGF1L-es Kipling - Creativity S Monederos Mujer Dorado Cloud Metal...'
+tags: 
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

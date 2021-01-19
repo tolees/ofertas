@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GySgffRpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IMI9TPE-es Atosa - Disfraz de rambo para mujer  talla XL  22937 '
+slug: 'B00IMI9TPE-es Atosa - Disfraz de rambo para mujer talla XL 22937'
+tags: 
 actualPrice: 21.45 EUR
 currency: EUR
 price: 21.45

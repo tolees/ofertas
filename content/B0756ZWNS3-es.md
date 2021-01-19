@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vOt0tPyJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756ZWNS3-es Ventilador Tomersun con 3 aspas para estufa y chimenea  3 aspas '
+slug: 'B0756ZWNS3-es Ventilador Tomersun con 3 aspas para estufa y chimenea 3...'
+tags: 
 actualPrice: 29.59 EUR
 currency: EUR
 price: 29.59

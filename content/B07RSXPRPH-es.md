@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CXJ+bOh-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RSXPRPH-es American Tourister Summerfunk Equipaje de Mano  55 Centimeters  40 litros  Beige'
+slug: 'B07RSXPRPH-es American Tourister Summerfunk Equipaje de Mano 55...'
+tags: 
 actualPrice: 53.97 EUR
 currency: EUR
 price: 53.97

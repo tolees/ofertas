@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z5mvsq-HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JDX9D1H-es Dek - Deportivas de Cordones Dakota para Chico Hombre  39 EU   Blanco '
+slug: 'B07JDX9D1H-es Dek - Deportivas de Cordones Dakota para Chico Hombre 39...'
+tags: 
 actualPrice: 31.7 EUR
 currency: EUR
 price: 31.7

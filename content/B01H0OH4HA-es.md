@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q4DrloTYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H0OH4HA-es LEDKIA LIGHTING Pack Placas LED Circular SuperSlim 18W  2 un  Blanco Cálido 2800K - 3200K'
+slug: 'B01H0OH4HA-es LEDKIA LIGHTING Pack Placas LED Circular SuperSlim 18W 2...'
+tags: 
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

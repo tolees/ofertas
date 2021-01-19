@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r9eDpIreL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1K3CXC-es Clarks Orinoco Dusk  Botas Estilo Motero para Mujer  Marrón  Tan Leather Tan Leather   41 EU'
+slug: 'B07N1K3CXC-es Clarks Orinoco Dusk Botas Estilo Motero para Mujer Marrón...'
+tags: 
 actualPrice: 25.25 EUR
 currency: EUR
 price: 25.25

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BF1TlgGAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZHXHZC-es Oral-B 3D White Luxe Brillo Seductor  Pasta Dentífrica  75 ml  Paquete de 4'
+slug: 'B079ZHXHZC-es Oral-B 3D White Luxe Brillo Seductor Pasta Dentífrica 75...'
+tags: 
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

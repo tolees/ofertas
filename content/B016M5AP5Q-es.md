@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ujWidv-QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016M5AP5Q-es OililyOilily Carry All - Shopper Mujer  Color Rosa  Talla 38x31x15 cm  B x H x T '
+slug: 'B016M5AP5Q-es OililyOilily Carry All - Shopper Mujer Color Rosa Talla...'
+tags: 
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Th03THTbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGGJ7VY-es JBL Xtreme 2 - Altavoz Bluetooth portátil resistente al agua  IPX7  con manos libres y radiador de bajos JBL  JBL Connect+  batería 15h  camuflaje'
+slug: 'B07HGGJ7VY-es JBL Xtreme 2 - Altavoz Bluetooth portátil resistente al...'
+tags: 
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

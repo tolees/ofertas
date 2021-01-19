@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hqNzHFqvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y34HSJB-es Powerextra Pantalla LCD Flash Speedlite  2.4G Kit de Transmisor de Disparador de Flash Inalámbrico para Canon Nikon Pentax Panasonic Olympus y Sony DSLR Cámara  Cámaras Digitales con Zapata Estándar'
+slug: 'B07Y34HSJB-es Powerextra Pantalla LCD Flash Speedlite 2.4G Kit de...'
+tags: 
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

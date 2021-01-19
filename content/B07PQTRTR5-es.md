@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U4S80cluL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQTRTR5-es New Balance 373 n  Zapatillas para Niños  Verde  Green/Yellow Green/Yellow   37 EU'
+slug: 'B07PQTRTR5-es New Balance 373 n Zapatillas para Niños Verde Green/Yellow...'
+tags: 
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

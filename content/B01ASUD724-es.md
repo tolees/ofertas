@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51O+jZ8bM2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ASUD724-es Melissa & Doug- On The Farm Juego con Pegatines Reutilizables  Multicolor  19408 '
+slug: 'B01ASUD724-es Melissa & Doug- On The Farm Juego con Pegatines...'
+tags: 
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

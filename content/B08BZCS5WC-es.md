@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417v+-tLSRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZCS5WC-es Poyet 21XL Remanufacturado Cartucho de tinta Reemplazo para HP 21XL HP21 XL HP 21 Alto rendimiento Cartucho de tinta  2 Negro  C9351A Compatible con HP Deskjet 3940 D1530 F2280 D2360 D2460 D1460 F2180'
+slug: 'B08BZCS5WC-es Poyet 21XL Remanufacturado Cartucho de tinta Reemplazo...'
+tags: 
 actualPrice: 23.59 EUR
 currency: EUR
 price: 23.59

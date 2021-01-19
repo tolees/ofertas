@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DvICzx+eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BYOMXA-es TRIXIE Pelota Mentolada Denta Fun  Caucho Natural  ø5 cm  Perro'
+slug: 'B001BYOMXA-es TRIXIE Pelota Mentolada Denta Fun Caucho Natural ø5 cm Perro'
+tags: 
 actualPrice: 2.87 EUR
 currency: EUR
 price: 2.87
@@ -26,7 +27,7 @@ Está [TRIXIE Pelota Mentolada Denta Fun  Caucho Natural  ø5 cm  Perro](https:/
 ℹ️:
 
 - caucho natural
-- masajea las encías
 - sabor menta
+- masajea las encías
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001BYOMXA/?tag=tolees-21)

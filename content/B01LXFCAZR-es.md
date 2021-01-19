@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/310N7NW0KuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXFCAZR-es Samsonite - Base Boost - Spinner Maleta 78 cm  113 L  Negro'
+slug: 'B01LXFCAZR-es Samsonite - Base Boost - Spinner Maleta 78 cm 113 L Negro'
+tags: 
 actualPrice: 97.3 EUR
 currency: EUR
 price: 97.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xlew-Km6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQDN5KH-es Jiali Trigo plegable taza de viaje plegable  creativo  portátil  pajita de trigo expansible  juego de vasos de bebida sin BPA para casa  oficina  viajes azul'
+slug: 'B07RQDN5KH-es Jiali Trigo plegable taza de viaje plegable creativo...'
+tags: 
 actualPrice: 2.63 EUR
 currency: EUR
 price: 2.63

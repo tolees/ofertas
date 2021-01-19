@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bhZF6RyKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TOGC72U-es RSPCA fleaaway Spot On solución para gatos  50 mg'
+slug: 'B00TOGC72U-es RSPCA fleaaway Spot On solución para gatos 50 mg'
+tags: 
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

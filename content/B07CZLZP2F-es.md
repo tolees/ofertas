@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ervfv5L1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZLZP2F-es Glowz Glow Sticks Glow In The Dark Pulseras Premium  Colores Mezclados  100 Pack - Accesorios de neón para niñas o niños'
+slug: 'B07CZLZP2F-es Glowz Glow Sticks Glow In The Dark Pulseras Premium...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

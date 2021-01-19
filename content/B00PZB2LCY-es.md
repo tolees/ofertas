@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PrTxx9UUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PZB2LCY-es Nike Court Royale  Zapatillas para Mujer  Blanco  White / Metallic Silver   39 EU'
+slug: 'B00PZB2LCY-es Nike Court Royale Zapatillas para Mujer Blanco White /...'
+tags: 
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

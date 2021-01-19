@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21hhInFiFZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LFTQUY-es Silverline WR40 Llave Inglesa Ajustable  Longitud 300 mm  Apertura 32 mm'
+slug: 'B000LFTQUY-es Silverline WR40 Llave Inglesa Ajustable Longitud 300 mm...'
+tags: 
 actualPrice: 9.08 EUR
 currency: EUR
 price: 9.08

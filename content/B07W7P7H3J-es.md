@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZDv8EPtCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7P7H3J-es Tapas de Silicona Elásticas DYROE  12 Tapas silicona ajustables cocina Sin BPA Reutilizable Fundas para Alimentos Tapa Tazas  Boles o Tarros  uso en Lavavajillas  Microondas  Horno o Refrigerador'
+slug: 'B07W7P7H3J-es Tapas de Silicona Elásticas DYROE 12 Tapas silicona...'
+tags: 
 actualPrice: 9.88 EUR
 currency: EUR
 price: 9.88

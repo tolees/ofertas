@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/11I76lu0yJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B010DH3E4S-es Zwilling Motion - Cuchillo jamonero  26 cm de hoja  acero Inoxidable  plateado'
+slug: 'B010DH3E4S-es Zwilling Motion - Cuchillo jamonero 26 cm de hoja acero...'
+tags: 
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414tYookGAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG6YQ5M-es PUMA Rebound Layup LO SL  Zapatillas Unisex Adulto  Negro Black White/High Rise  44 EU'
+slug: 'B07KG6YQ5M-es PUMA Rebound Layup LO SL Zapatillas Unisex Adulto Negro...'
+tags: 
 actualPrice: 39.11 EUR
 currency: EUR
 price: 39.11

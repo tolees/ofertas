@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313km80T57L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XPBPW1-es Under Armour Enduro Pant Pantalones  Hombre  Negro  Black/Black 001   34W / 30L'
+slug: 'B077XPBPW1-es Under Armour Enduro Pant Pantalones Hombre Negro...'
+tags: 
 actualPrice: 52.06 EUR
 currency: EUR
 price: 52.06

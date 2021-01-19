@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTX2EH6-es Fontactiv Forte Vainilla - 14 Sobres de 30gr'
+tags: 
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

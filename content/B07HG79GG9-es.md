@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JX35Jz85L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG79GG9-es New Balance 373  Zapatillas para Mujer  Azul  Navy Navy   37.5 EU'
+slug: 'B07HG79GG9-es New Balance 373 Zapatillas para Mujer Azul Navy Navy 37.5 EU'
+tags: 
 actualPrice: 41.52 EUR
 currency: EUR
 price: 41.52

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YFXeGKHzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFHPRGY-es Bébé Confort TITÁN  Nomad Black   Silla de auto  grupo 1/2/3  9-36 Kg  convertible  reclinable  ISOFIX  9 meses-12 años  color negro'
+slug: 'B07BFHPRGY-es Bébé Confort TITÁN Nomad Black Silla de auto grupo 1/2/3...'
+tags: 
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

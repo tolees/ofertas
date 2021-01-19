@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wct+ZHDpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FWW265M-es non-brand 5X Bandera China del Dragón Al Aire Libre WindsHerramientas de Jardinería Decoración Exterior'
+slug: 'B07FWW265M-es non-brand 5X Bandera China del Dragón Al Aire Libre...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

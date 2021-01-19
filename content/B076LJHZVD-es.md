@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X2JHwMevL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076LJHZVD-es Pisen Ultrafino Banco de la energía  10000 mAh de Capacidad con Smart Salida 2 4 A Alta Velocidad de Carga para iPhone  iPad  iPod  Samsung Galaxy Y Más'
+slug: 'B076LJHZVD-es Pisen Ultrafino Banco de la energía 10000 mAh de Capacidad...'
+tags: 
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

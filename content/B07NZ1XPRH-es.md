@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PG+kEkXGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ1XPRH-es Skechers Men s Heston Classic Boots  Brown  Dark Brown Leather Cdb   10 UK  45 EU '
+slug: 'B07NZ1XPRH-es Skechers Men s Heston Classic Boots Brown Dark Brown...'
+tags: 
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

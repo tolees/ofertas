@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BbJNne0HL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001PH5SBS-es Superga 2750 COTU Classic  Zapatillas Unisex  Blanco  Total White 901   45 EU'
+slug: 'B001PH5SBS-es Superga 2750 COTU Classic Zapatillas Unisex Blanco Total...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

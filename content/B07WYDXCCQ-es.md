@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41165iE4x6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WYDXCCQ-es COOLMAN Pulsera de Cuero Trenzado con Acero Inoxidable Herradura Brazalete Cuerda Negro para Hombre 20-21 5 cm'
+slug: 'B07WYDXCCQ-es COOLMAN Pulsera de Cuero Trenzado con Acero Inoxidable...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4115uL0ubML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M3IWF7S-es Nixon Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable A045-1931-00'
+slug: 'B00M3IWF7S-es Nixon Reloj Analógico para Unisex Adultos de Cuarzo con...'
+tags: 
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

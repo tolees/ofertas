@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fXEupFvaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UBFXMXG-es UCEC Panel Frontal USB 3.0  Panel Hub Metal de 5.23 Pulgadas  con 2 Puertos USB 3.0 y 2 Puertos 2.0 HD de Audio'
+slug: 'B00UBFXMXG-es UCEC Panel Frontal USB 3.0 Panel Hub Metal de 5.23...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

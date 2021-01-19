@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ewb2TtocL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079BKWFYW-es KELITCH Damen Sexy Camisón Lencería Conjunto Rose Rojo Chest Cordón Conjunto Sin Forro Babydoll Transparente Exposed Pecho Ropa De Dormir con Tangas G-string - M'
+slug: 'B079BKWFYW-es KELITCH Damen Sexy Camisón Lencería Conjunto Rose Rojo...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

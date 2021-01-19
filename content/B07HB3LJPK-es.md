@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i+1r95YsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB3LJPK-es LAST LEVEL- Funko Figura Pop Dragon Ball: Videl  Multicolor  Talla única  FFK36389 '
+slug: 'B07HB3LJPK-es LAST LEVEL- Funko Figura Pop Dragon Ball: Videl Multicolor...'
+tags: 
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

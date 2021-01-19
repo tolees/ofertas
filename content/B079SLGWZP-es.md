@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rusrpohtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SLGWZP-es NUNCAD Anillo Mujer Hombre Unisex de Tungsteno con Chapado en Oro 4mm Mate para Boda Compromiso Regalo Talla 49  15 7 mm '
+slug: 'B079SLGWZP-es NUNCAD Anillo Mujer Hombre Unisex de Tungsteno con Chapado...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

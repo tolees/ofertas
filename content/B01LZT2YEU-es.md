@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xtSUOnp1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZT2YEU-es Intenso 6021512 4000GB Negro - Disco Duro Externo  4000 GB  2.5"  USB Tipo C  3.0  3.1 Gen 1   5400 RPM  Negro '
+slug: 'B01LZT2YEU-es Intenso 6021512 4000GB Negro - Disco Duro Externo 4000 GB...'
+tags: 
 actualPrice: 121.08 EUR
 currency: EUR
 price: 121.08

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419t-yD+9qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SYXDSR-es Seiko Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable SRPB81K1'
+slug: 'B078SYXDSR-es Seiko Reloj Analógico para Hombre de Automático con Correa...'
+tags: 
 actualPrice: 188.62 EUR
 currency: EUR
 price: 188.62

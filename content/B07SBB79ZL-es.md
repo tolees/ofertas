@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31T2hWbap6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBB79ZL-es Crocs Swiftwater Expedition Sandal Kids  Sandalia con Pulsera Unisex Niños  Negro  Black/Slate Grey 0dd   22/23 EU'
+slug: 'B07SBB79ZL-es Crocs Swiftwater Expedition Sandal Kids Sandalia con...'
+tags: 
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

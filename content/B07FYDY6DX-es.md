@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EzfpaoYVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYDY6DX-es Naipo Masajeador de Piernas Compression para Pierna Inalámbrico Masaje Pie Presoterapiacon con Controlador de Mano para Casa  Oficina y Viaje'
+slug: 'B07FYDY6DX-es Naipo Masajeador de Piernas Compression para Pierna...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

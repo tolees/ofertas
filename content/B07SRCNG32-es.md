@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313k1HSFR5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRCNG32-es adidas Stan Smith W  Zapatillas de Gimnasia para Mujer  Blanco  FTWR White/Collegiate Burgundy/FTWR White FTWR White/Collegiate Burgundy/FTWR White   36 2/3 EU'
+slug: 'B07SRCNG32-es adidas Stan Smith W Zapatillas de Gimnasia para Mujer...'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

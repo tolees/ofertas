@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511gd9h7SIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPWBJB9-es 1100lm luces exteriores solares 4500mAh aluminio 120 ° sensor de movimiento infrarrojo impermeable IP65 luz de seguridad inalámbrica con 4 modos para jardín  patio  puerta  pared- luz blanca cálida'
+slug: 'B07BPWBJB9-es 1100lm luces exteriores solares 4500mAh aluminio 120 °...'
+tags: 
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

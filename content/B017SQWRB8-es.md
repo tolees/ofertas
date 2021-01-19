@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jfeOwoYqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017SQWRB8-es Salomon Speedcross 4  Zapatillas de Trail Running para Hombre  Negro  Black/Black/Black Metallic   41 1/3 EU'
+slug: 'B017SQWRB8-es Salomon Speedcross 4 Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

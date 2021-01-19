@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Dzkj9Vu5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RR7PNGS-es Deyard Sistema de Riego Micro Flow para Refrigeración por Nieblas de Patio para Trampolín de Invernadero para Parque Acuático con Sistema de Distribución Automática de Jardín de 32.8 pies  10 M '
+slug: 'B07RR7PNGS-es Deyard Sistema de Riego Micro Flow para Refrigeración por...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

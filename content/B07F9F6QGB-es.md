@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ncWP7zQLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9F6QGB-es Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina W-218H-3AVEF'
+slug: 'B07F9F6QGB-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 23.78 EUR
 currency: EUR
 price: 23.78

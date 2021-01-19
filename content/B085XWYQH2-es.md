@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rq0n9P7yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XWYQH2-es Luz Lámpara de pared Pájaro pastoral fresco Nordic Little Angel Habitación infantil Moderna sala de estar minimalista Dormitorio Iluminación de cabecera  Color: Blanco Forma: C '
+slug: 'B085XWYQH2-es Luz Lámpara de pared Pájaro pastoral fresco Nordic Little...'
+tags: 
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

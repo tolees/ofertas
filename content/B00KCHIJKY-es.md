@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L7h4rQ2DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KCHIJKY-es BLEND Jeans-Noos Cirrus Parte de Arriba  Blau  Fane 76119-L32   W29/ L32  29  para Hombre'
+slug: 'B00KCHIJKY-es BLEND Jeans-Noos Cirrus Parte de Arriba Blau Fane...'
+tags: 
 actualPrice: 33.82 EUR
 currency: EUR
 price: 33.82

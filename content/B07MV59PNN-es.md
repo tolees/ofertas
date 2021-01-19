@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV59PNN-es TWBB Hombres Inicio Yoga Tie-up Pantalones cómodos'
+tags: 
 actualPrice: 1.29 EUR
 currency: EUR
 price: 1.29

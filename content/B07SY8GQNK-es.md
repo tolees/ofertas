@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GLEdqOmaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SY8GQNK-es Pulidor Esmeril limas de uñas profesionales eléctricas Máquina lijadora Pedicura lijadora eléctrica con 6 Brocas Pulidor Broca y 150 bandas de lijado Torno para uñas para Manicura y Pedicura'
+slug: 'B07SY8GQNK-es Pulidor Esmeril limas de uñas profesionales eléctricas...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

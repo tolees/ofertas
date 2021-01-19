@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bTJBNgMLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813KG3DF-es SHUIBIAN Kits de pintura diamante 5D  cuadro diamantes 5d  taladro completo diamante de imitación bordado de diamante para el hogar decoración de la pared 30 x 30 cm'
+slug: 'B0813KG3DF-es SHUIBIAN Kits de pintura diamante 5D cuadro diamantes 5d...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

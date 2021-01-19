@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hL4s7Gq8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKTL5GV-es Beko - TAM4201B – Tostador para 2 rebanadas  850W potencia  color negro. Función descongelar  calentar y cancelar tostado. 7 Niveles de tostado. Botón expulsar tostada'
+slug: 'B07KKTL5GV-es Beko - TAM4201B – Tostador para 2 rebanadas 850W potencia...'
+tags: 
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

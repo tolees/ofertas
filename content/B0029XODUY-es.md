@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31O7IrqBkVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0029XODUY-es Reebok Workout Plus  Zapatillas de Deporte para Hombre  Blanco  white/royal   44 EU  9.5 UK '
+slug: 'B0029XODUY-es Reebok Workout Plus Zapatillas de Deporte para Hombre...'
+tags: 
 actualPrice: 58.44 EUR
 currency: EUR
 price: 58.44

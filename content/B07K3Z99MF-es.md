@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S64uWQE4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3Z99MF-es Adidas Continental 80 W  Zapatillas de Deporte para Mujer  Multicolor  Ftwbla/Rosaut/Ros Cl A 000  37 1/3 EU'
+slug: 'B07K3Z99MF-es Adidas Continental 80 W Zapatillas de Deporte para Mujer...'
+tags: 
 actualPrice: 58.06 EUR
 currency: EUR
 price: 58.06

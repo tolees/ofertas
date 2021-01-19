@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YdbRLi+CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EVPRTSG-es Calvin Klein Bottoms UP-Bikini Ropa interior  Azul  Purity Print - Aurora Ri4   36 para Mujer'
+slug: 'B00EVPRTSG-es Calvin Klein Bottoms UP-Bikini Ropa interior Azul Purity...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

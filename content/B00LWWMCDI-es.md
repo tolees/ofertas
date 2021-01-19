@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NazNNTwwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LWWMCDI-es Supertrip Bombas de baño  9PCS Set de regalo de bolas de baño hecho de aceites esenciales orgánicos naturales Regalos de San Valentín/Navidad/Cumpleaños para novias  madres  esposas  niñas'
+slug: 'B00LWWMCDI-es Supertrip Bombas de baño 9PCS Set de regalo de bolas de...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

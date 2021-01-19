@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mXFw6cJ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F5WJFR2-es Bestron Gofrera para Gofres en forma de Corazón  Diseño Retro  Sweet Dreams  700 Vatios  Rosa'
+slug: 'B00F5WJFR2-es Bestron Gofrera para Gofres en forma de Corazón Diseño...'
+tags: 
 actualPrice: 24.2 EUR
 currency: EUR
 price: 24.2

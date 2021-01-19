@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SnMUyTvkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8BPSWW-es Justdodo Bolsa de cosméticos de Gran Capacidad Las Mujeres componen una Bolsa de Almacenamiento portátil multifunción Bolsa de Mano con Espejo para Viajes-Negro'
+slug: 'B07S8BPSWW-es Justdodo Bolsa de cosméticos de Gran Capacidad Las Mujeres...'
+tags: 
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

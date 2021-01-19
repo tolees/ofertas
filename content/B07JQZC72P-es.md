@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LZQ9M+qpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQZC72P-es Marca Amazon - 28 Palms - Polo de golf de piqué con estampado tropical  algodón de calidad  corte holgado  Negro Sólido  US M  EU M '
+slug: 'B07JQZC72P-es Marca Amazon - 28 Palms - Polo de golf de piqué con...'
+tags: 
 actualPrice: 6.31 EUR
 currency: EUR
 price: 6.31

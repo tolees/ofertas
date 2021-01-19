@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u9UZzJ4oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A8XGF3U-es Thrustmaster - USB Joystick  PC  MAC '
+slug: 'B00A8XGF3U-es Thrustmaster - USB Joystick PC MAC'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

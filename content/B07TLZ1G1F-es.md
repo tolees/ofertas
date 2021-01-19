@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414iiXo2UZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLZ1G1F-es Vans Atwood Textile  Zapatillas para Hombre  Azul   Corduroy  Dress Blue/White SSX   40.5 EU'
+slug: 'B07TLZ1G1F-es Vans Atwood Textile Zapatillas para Hombre Azul Corduroy...'
+tags: 
 actualPrice: 26.11 EUR
 currency: EUR
 price: 26.11

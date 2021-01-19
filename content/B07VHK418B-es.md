@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ffm1CVq2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHK418B-es Cartucho de Tinta Original 912XL  825 páginas  21 7 ml'
+slug: 'B07VHK418B-es Cartucho de Tinta Original 912XL 825 páginas 21 7 ml'
+tags: 
 actualPrice: 24.14 EUR
 currency: EUR
 price: 24.14

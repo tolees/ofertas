@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41stHvnqDDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813XFPHD-es adidas Duramo Lite 2.0  Zapatillas para Correr para Mujer  Dove Grey/FTWR White/Glory Pink  40 EU'
+slug: 'B0813XFPHD-es adidas Duramo Lite 2.0 Zapatillas para Correr para Mujer...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

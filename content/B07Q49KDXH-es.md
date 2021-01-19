@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CSfOMZ0kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q49KDXH-es Selighting Bolsa Tactica Grande Funda Móvil MOLLE Táctico Riñonera Smartphone Funda Multifunción para Teléfono hasta 5.8" para Correr Senderismo Camping Caza  Negro '
+slug: 'B07Q49KDXH-es Selighting Bolsa Tactica Grande Funda Móvil MOLLE Táctico...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vIAecybJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4GNMS7-es Corsair Vengeance LPX - Módulo de Memoria XMP 2.0 de Alto Rendimiento de 64 GB  4 x 16 GB  DDR4  3000 MHz  C16   Color Negro'
+slug: 'B07B4GNMS7-es Corsair Vengeance LPX - Módulo de Memoria XMP 2.0 de Alto...'
+tags: 
 actualPrice: 284.6 EUR
 currency: EUR
 price: 284.6

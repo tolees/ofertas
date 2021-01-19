@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51I5aQTgXiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9SKRNT-es BSN All In One Weight Gainer Polvo de Proteína de Suero con Creatina  Glutamina y Vitamina D  Fresa - 4.2 kg  25 porciones'
+slug: 'B07D9SKRNT-es BSN All In One Weight Gainer Polvo de Proteína de Suero...'
+tags: 
 actualPrice: 39.87 EUR
 currency: EUR
 price: 39.87

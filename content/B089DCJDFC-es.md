@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51m-szDrwKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089DCJDFC-es VATOS Juegos de Lógica Niños Adultos Stem Juguete Policías & Ladrones Juego de Mesa Educativo Juegos Inteligentes para el Desarrollo del Cerebro 120 desafíos para Niños y Niñas de 3 Años Adelante'
+slug: 'B089DCJDFC-es VATOS Juegos de Lógica Niños Adultos Stem Juguete Policías...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

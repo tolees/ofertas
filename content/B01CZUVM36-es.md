@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411dPFJH-AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CZUVM36-es American Tourister- Funshine spinner 4 ruedas  55/20 equipaje de mano  azul  orion blue   S  55cm-36L '
+slug: 'B01CZUVM36-es American Tourister- Funshine spinner 4 ruedas 55/20...'
+tags: 
 actualPrice: 59.12 EUR
 currency: EUR
 price: 59.12

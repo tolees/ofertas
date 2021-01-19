@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4162Twa+TdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4TTS99-es NIKE BA5819 Mochilla de Deporte  Unisex Adulto  Deep Royal Azul/Noble Rojo  Talla Única'
+slug: 'B07T4TTS99-es NIKE BA5819 Mochilla de Deporte Unisex Adulto Deep Royal...'
+tags: 
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wVIwMIPRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NG3GYY-es Maybelline New York - Superstay Matte Ink The Nudes  Barra de Labios Mate  Tono 95 Visionary'
+slug: 'B077NG3GYY-es Maybelline New York - Superstay Matte Ink The Nudes Barra...'
+tags: 
 actualPrice: 6.94 EUR
 currency: EUR
 price: 6.94

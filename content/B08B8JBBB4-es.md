@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mHlsQQJnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B8JBBB4-es Portátil Creativo Único Cobre Clave Forma USB2.0 Interfaz Stick Mini USB Flash Drive con Anillo Colgante Pulgar Stick-Coppery'
+slug: 'B08B8JBBB4-es Portátil Creativo Único Cobre Clave Forma USB2.0 Interfaz...'
+tags: 
 actualPrice: 9.36 EUR
 currency: EUR
 price: 9.36

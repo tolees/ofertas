@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wmyjVQi1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKQT85G-es Daniel Wellington - Reloj analógico para caballero correa de cuero negro  dial blanco'
+slug: 'B00BKQT85G-es Daniel Wellington - Reloj analógico para caballero correa...'
+tags: 
 actualPrice: 78.66 EUR
 currency: EUR
 price: 78.66

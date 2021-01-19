@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4158rE9Hd5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8GR1G6-es VITN Auricular Bluetooth 4.2 Invisible Mini Auricular In Ear Control Táctil Auricular Inalámbricos con Micrófono Cancelacion de Ruido 2 USB Magnéticos Manos Libres para Coche y Negocio con Estuche'
+slug: 'B07S8GR1G6-es VITN Auricular Bluetooth 4.2 Invisible Mini Auricular In...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

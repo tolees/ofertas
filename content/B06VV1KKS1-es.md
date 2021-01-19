@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zv5ORFALL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VV1KKS1-es Fanvans Vestidos de Playa Elegante de Encaje de la Mujer White M'
+slug: 'B06VV1KKS1-es Fanvans Vestidos de Playa Elegante de Encaje de la Mujer...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316+ZGHAuJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CQ5T3LI-es San Ignacio PK128 Bandeja Grill 35 x 26 cm  Aluminio Fundido  Negro'
+slug: 'B01CQ5T3LI-es San Ignacio PK128 Bandeja Grill 35 x 26 cm Aluminio...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

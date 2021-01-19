@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415tv-k21hL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PX1N6Z-es Zak Storm Playset Maritoga  Bandai 41580 '
+slug: 'B077PX1N6Z-es Zak Storm Playset Maritoga Bandai 41580'
+tags: 
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hELZ+gY5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081W7FT8C-es QHOHQ Funda para Samsung Galaxy A51  Cases Silicona Slim TPU Cuatro Esquinas Anti-caíd  Transparente '
+slug: 'B081W7FT8C-es QHOHQ Funda para Samsung Galaxy A51 Cases Silicona Slim...'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

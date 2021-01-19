@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tFVhDnoQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW9JQ5R-es AOQUSSQOA - Bañador para mujer  diseño de leopardo  cuello en V  monokini con control de barriga  talla grande  traje de baño de malla sin espalda para mujer Leopard2 38'
+slug: 'B07NW9JQ5R-es AOQUSSQOA - Bañador para mujer diseño de leopardo cuello...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

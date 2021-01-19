@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31J2cBiXmaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSD3PFX-es Bourjois Velvet The Lipstick Barra De Labios Tono 023 Taupe of Paris - 23 gr'
+slug: 'B07GSD3PFX-es Bourjois Velvet The Lipstick Barra De Labios Tono 023...'
+tags: 
 actualPrice: 2.93 EUR
 currency: EUR
 price: 2.93

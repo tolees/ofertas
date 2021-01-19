@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mpuvE48QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1J7ZH1-es Clarks Un Maui Lace  Zapatillas para Mujer  Gris  Grey Textile Grey Textile   40 EU'
+slug: 'B07N1J7ZH1-es Clarks Un Maui Lace Zapatillas para Mujer Gris Grey...'
+tags: 
 actualPrice: 19.53 EUR
 currency: EUR
 price: 19.53

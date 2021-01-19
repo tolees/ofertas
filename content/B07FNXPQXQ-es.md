@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41U%2BkYnIXdL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNXPQXQ-es Buff Lyne Calentador Tricot Y Polar  Hombre  Night Blue  Talla única'
+slug: 'B07FNXPQXQ-es Buff Lyne Calentador Tricot Y Polar Hombre Night Blue...'
+tags: 
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

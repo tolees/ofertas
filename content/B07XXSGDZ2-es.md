@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rC6zTlyeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XXSGDZ2-es FitBeast Kit de Entrenamiento para Ejercitar el Agarre – Paquete de 5 Piezas  Pinzas para Manos Ajustables  Ejercicio para Dedos  para Estirar los Dedos  Anillo para Entrenar y Pelota Anti Estrés'
+slug: 'B07XXSGDZ2-es FitBeast Kit de Entrenamiento para Ejercitar el Agarre –...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

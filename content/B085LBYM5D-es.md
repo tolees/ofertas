@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OwwO2ilYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085LBYM5D-es Safety – Pantalla Facial  Cocina cocinar  Aceite de Doble Cara Anti-Fog Anti Splash Transparente  protección máscara Facial Visera  Ojo Protección Con 10 parasoles protección máscara Facial Visera'
+slug: 'B085LBYM5D-es Safety – Pantalla Facial Cocina cocinar Aceite de Doble...'
+tags: 
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

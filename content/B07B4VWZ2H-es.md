@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51xQCWBb45L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4VWZ2H-es Timbre Inalámbrico  VOXON Impermeable Doble de Pared Plug-in Kit de Campanas Inalámbricas para Puerta IP44  Azul LED Estroboscópico  58 Melodías'
+slug: 'B07B4VWZ2H-es Timbre Inalámbrico VOXON Impermeable Doble de Pared Plug-...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

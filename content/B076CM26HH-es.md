@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iBJvE3B6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CM26HH-es Britax Römer Silla de coche 9 meses - 12 años  9 - 36 kg  EVOLVA 1-2-3 SL SICT  ISOFIX  Grupo 1/2/3  Storm Grey'
+slug: 'B076CM26HH-es Britax Römer Silla de coche 9 meses - 12 años 9 - 36 kg...'
+tags: 
 actualPrice: 170.99 EUR
 currency: EUR
 price: 170.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JTYGCk2pL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3NNSZ3-es PLA Plus Filament 1.75mm  Tidy Winding 3D Printer Filament  Tangle-Free Filament  PLA Plus  PLA+  negro*2 and blanco Dimensional Accuracy +/- 0.02 mm  PLA Plus 1.5 KG 3.3lbs '
+slug: 'B07L3NNSZ3-es PLA Plus Filament 1.75mm Tidy Winding 3D Printer Filament...'
+tags: 
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

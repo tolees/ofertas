@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vQoJQBEUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKW7D3D-es Nikon COOLPIX P1000 - Cámara compacta tipo Bridge  16 MP  pantalla de 3.2 "  color negro'
+slug: 'B07FKW7D3D-es Nikon COOLPIX P1000 - Cámara compacta tipo Bridge 16 MP...'
+tags: 
 actualPrice: 782.0 EUR
 currency: EUR
 price: 782.0

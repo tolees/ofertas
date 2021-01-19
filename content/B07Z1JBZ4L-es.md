@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zVwvYqcfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z1JBZ4L-es HengBO Barbacoa Grill Eléctrica de Mesa  Superficie de Grill 44 x 22 cm  2000W  Negro'
+slug: 'B07Z1JBZ4L-es HengBO Barbacoa Grill Eléctrica de Mesa Superficie de...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

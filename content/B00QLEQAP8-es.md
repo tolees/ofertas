@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cmSVTnwnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QLEQAP8-es NuPro - Kit de protectores de pantalla para Kindle y Kindle Paperwhite  pack de 3  —no es compatible con el modelo del 2019  10.ª generación '
+slug: 'B00QLEQAP8-es NuPro - Kit de protectores de pantalla para Kindle y...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

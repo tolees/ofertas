@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31js+jFA2XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSFN514-es Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Azul  Faded Indigo Heather DVD   Small para Hombre'
+slug: 'B07VSFN514-es Tommy Hilfiger Organic Cotton Silk V Neck Pantalones Azul...'
+tags: 
 actualPrice: 35.29 EUR
 currency: EUR
 price: 35.29

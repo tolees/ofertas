@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411DjPBHWrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LC6PDQT-es BOSS Prime Polo  Azul  Light/Pastel Blue 454   XX-Large para Hombre'
+slug: 'B07LC6PDQT-es BOSS Prime Polo Azul Light/Pastel Blue 454 XX-Large para...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

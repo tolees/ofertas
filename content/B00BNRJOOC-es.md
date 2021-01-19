@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413Z8zOV-AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BNRJOOC-es Superga Classic  Zapatillas Unisex Adulto  gris  gris claro  Wbt  37 EU'
+slug: 'B00BNRJOOC-es Superga Classic Zapatillas Unisex Adulto gris gris claro...'
+tags: 
 actualPrice: 33.2 EUR
 currency: EUR
 price: 33.2

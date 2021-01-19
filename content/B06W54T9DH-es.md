@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SVfpSWWHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W54T9DH-es Braun FaceSpa 851 - Sistema 3 en 1 de depiladora facial  cepillo limpiador y masaje  color blanco'
+slug: 'B06W54T9DH-es Braun FaceSpa 851 - Sistema 3 en 1 de depiladora facial...'
+tags: 
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

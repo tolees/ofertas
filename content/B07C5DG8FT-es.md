@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VHjiWsVjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5DG8FT-es JACK & JONES Jjeholmen Sweat Pants Noos Pantalones  Gris  Light Grey Melange Fit: Melange-Comfort Fit   W38  Talla del Fabricante: X-Large  para Hombre'
+slug: 'B07C5DG8FT-es JACK & JONES Jjeholmen Sweat Pants Noos Pantalones Gris...'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

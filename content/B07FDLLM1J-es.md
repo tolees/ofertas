@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31A6rkgAAKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDLLM1J-es adidas 3Mc  Zapatillas de Skateboard Unisex Adulto  Negro  Core Black/Core Black/FTWR White Core Black/Core Black/FTWR White   46 EU'
+slug: 'B07FDLLM1J-es adidas 3Mc Zapatillas de Skateboard Unisex Adulto Negro...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

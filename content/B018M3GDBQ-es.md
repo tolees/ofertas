@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018M3GDBQ-es Gillette Fusion ProShield Chill Recambios - 6 Unidades'
+tags: 
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

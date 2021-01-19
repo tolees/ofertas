@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51jNmR7SdXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N7JKNQD-es V7 SB2526-USB-6E Altavoz soundbar Negro - Barra de Sonido  2 5 W  50000 Ω  58 dB  1 m  335 mm  77 mm '
+slug: 'B07N7JKNQD-es V7 SB2526-USB-6E Altavoz soundbar Negro - Barra de Sonido...'
+tags: 
 actualPrice: 6.91 EUR
 currency: EUR
 price: 6.91

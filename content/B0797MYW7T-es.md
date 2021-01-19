@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i+5USYgQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797MYW7T-es Funko Pop!- 889698299138 Atomic Blonde Figura de vinilo  Multicolor  29913    color/modelo surtido'
+slug: 'B0797MYW7T-es Funko Pop!- 889698299138 Atomic Blonde Figura de vinilo...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

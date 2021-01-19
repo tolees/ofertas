@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hRNcpQ7uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG3SHRF-es Puma Future Runner Premium  Zapatillas Unisex Adulto  Blanco  Puma White-Galaxy Blue-High Risk Red 07   39 EU'
+slug: 'B07KG3SHRF-es Puma Future Runner Premium Zapatillas Unisex Adulto Blanco...'
+tags: 
 actualPrice: 36.65 EUR
 currency: EUR
 price: 36.65

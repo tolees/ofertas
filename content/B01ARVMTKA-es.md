@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412tpv4MEIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ARVMTKA-es KitchenCraft Master Class Escurreplatos Horizontal pequeño de Acero Inoxidable  41 x 22 x 13 cm'
+slug: 'B01ARVMTKA-es KitchenCraft Master Class Escurreplatos Horizontal pequeño...'
+tags: 
 actualPrice: 20.73 EUR
 currency: EUR
 price: 20.73

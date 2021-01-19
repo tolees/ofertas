@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mCEGKePCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073P8SPTP-es FIRENZE ARTEGIANI.Bolso Tote de Mujer Piel auténtica.Bolso Mujer Cuero Genuino Dollaro Grabado Trenzado geométrico Lacado. Made IN Italy. Vera Pelle Italiana. 37x27x14 cm. Color: Rojo Granate'
+slug: 'B073P8SPTP-es FIRENZE ARTEGIANI.Bolso Tote de Mujer Piel auténtica.Bolso...'
+tags: 
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

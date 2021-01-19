@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513-y26XGjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BWKRGYV-es Mocasines Planos cómodos para Mujer - Los Negros Mocasines de Suela Gruesa para Mujer Son Aptos para Caminar  Trabajar y para la Vida Diaria SH004-BLACK-38'
+slug: 'B07BWKRGYV-es Mocasines Planos cómodos para Mujer - Los Negros Mocasines...'
+tags: 
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

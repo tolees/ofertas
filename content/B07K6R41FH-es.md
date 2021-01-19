@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vdAGpap9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6R41FH-es Keto Plus Actives AM  60 CAPS  - Quemagrasas potente para adelgazar y rapido  Quema grasas & Detox  Aceite MCT C8 + Vinagre de Sidra de Manzana  Fat Burner Reductor  Kit Dieta  PERSONALIZADO +MEDICOS'
+slug: 'B07K6R41FH-es Keto Plus Actives AM 60 CAPS - Quemagrasas potente para...'
+tags: 
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

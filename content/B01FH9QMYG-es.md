@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GJchkJaGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FH9QMYG-es Casals VDSLI36AC - Atornillador plegable con batería de litio de 3.6 V  1 3 A-h  180 rpm  3 N-m  con maletín  color verde y negro'
+slug: 'B01FH9QMYG-es Casals VDSLI36AC - Atornillador plegable con batería de...'
+tags: 
 actualPrice: 17.37 EUR
 currency: EUR
 price: 17.37

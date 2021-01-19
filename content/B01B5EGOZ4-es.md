@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nIrbMN+zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B5EGOZ4-es Wilson Baseball Hat Co - Gorra Unisex  Color Negro  Talla OSFA'
+slug: 'B01B5EGOZ4-es Wilson Baseball Hat Co - Gorra Unisex Color Negro Talla OSFA'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

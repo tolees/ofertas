@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/618xuNegOQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZY6W6HT-es Kraumi Faro Trabajo LED Focos de Coche 12V Square Faros Led Tractor IP67 Impermeable Off-road Foco de Trabajo LED para Moto ATV SUV Tractor Camión Barco  42W Ronda  4 piezas '
+slug: 'B07ZY6W6HT-es Kraumi Faro Trabajo LED Focos de Coche 12V Square Faros...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

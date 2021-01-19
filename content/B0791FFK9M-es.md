@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-P2FmA4BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0791FFK9M-es King internacional acero inoxidable redondo Rado salero y pimentero con ver a través de tapa'
+slug: 'B0791FFK9M-es King internacional acero inoxidable redondo Rado salero y...'
+tags: 
 actualPrice: 10.78 EUR
 currency: EUR
 price: 10.78

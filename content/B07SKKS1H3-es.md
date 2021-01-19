@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WO+ke1PNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKKS1H3-es Nike Pico 5  TDV   Gymnastics Shoe Unisex-Baby  Deep Royal Blue/White  22 EU'
+slug: 'B07SKKS1H3-es Nike Pico 5 TDV Gymnastics Shoe Unisex-Baby Deep Royal...'
+tags: 
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

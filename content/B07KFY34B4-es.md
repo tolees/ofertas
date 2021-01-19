@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31qLlyD039L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFY34B4-es PUMA Source Mid Buzzer  Zapatillas Altas Unisex Adulto  White-Yellow Alert-High Rise  40.5 EU'
+slug: 'B07KFY34B4-es PUMA Source Mid Buzzer Zapatillas Altas Unisex Adulto...'
+tags: 
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

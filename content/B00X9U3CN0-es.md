@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jRZD-tl9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9U3CN0-es Garnier Nutrisse Creme Coloración permanente con mascarilla nutritiva de cuatro aceites - Marrón Intenso 6.41'
+slug: 'B00X9U3CN0-es Garnier Nutrisse Creme Coloración permanente con...'
+tags: 
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

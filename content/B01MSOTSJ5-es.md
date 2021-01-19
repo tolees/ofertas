@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I7gBdrQ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSOTSJ5-es iSmart Alarm Paquete inteligente de seguridad para el estudios y apartamentos de 1 dormitorio  Blanco'
+slug: 'B01MSOTSJ5-es iSmart Alarm Paquete inteligente de seguridad para el...'
+tags: 
 actualPrice: 65.68 EUR
 currency: EUR
 price: 65.68

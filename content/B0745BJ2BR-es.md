@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TqynV5-kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0745BJ2BR-es Brabantia Código Y Bolsas de Basura Formato Rollo  Blanco  20 L  20 Unidades'
+slug: 'B0745BJ2BR-es Brabantia Código Y Bolsas de Basura Formato Rollo Blanco...'
+tags: 
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

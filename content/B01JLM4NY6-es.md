@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bD4SqYZFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JLM4NY6-es L Oréal Paris Make-up designer Millón de Pestañas Fatale Máscara de Pestañas volumen definido - 9.4 ml'
+slug: 'B01JLM4NY6-es L Oréal Paris Make-up designer Millón de Pestañas Fatale...'
+tags: 
 actualPrice: 4.92 EUR
 currency: EUR
 price: 4.92

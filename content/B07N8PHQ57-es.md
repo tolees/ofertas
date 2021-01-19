@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317XsDzGtLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8PHQ57-es Lacoste Riberac 119 Jr  Zapatillas Unisex Niños  Blanco  White 737cuj0020wn1   37 EU'
+slug: 'B07N8PHQ57-es Lacoste Riberac 119 Jr Zapatillas Unisex Niños Blanco...'
+tags: 
 actualPrice: 36.94 EUR
 currency: EUR
 price: 36.94

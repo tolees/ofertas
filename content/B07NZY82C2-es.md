@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qn85YKoYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZY82C2-es Skechers Solar Fuse  Zapatillas para Hombre  Azul  Navy Mesh/PU/Red Trim Nvrd   47.5 EU'
+slug: 'B07NZY82C2-es Skechers Solar Fuse Zapatillas para Hombre Azul Navy...'
+tags: 
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

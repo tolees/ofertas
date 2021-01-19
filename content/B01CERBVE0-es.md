@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418JoN39uYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CERBVE0-es American Tourister Air Force 1 - Maleta  Turquesa  Aero Turquoise   M  66cm-69L '
+slug: 'B01CERBVE0-es American Tourister Air Force 1 - Maleta Turquesa Aero...'
+tags: 
 actualPrice: 83.4 EUR
 currency: EUR
 price: 83.4

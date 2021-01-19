@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AlZdvYv-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRR42F4-es Suhctup Espejo Funda Reemplazo para Huawei Mate 10 Caso PC + PU Mirror Brillante Flip Tapa Libro Case Carcasa Espejo Caja Soporte de Maquillaje con Marco de Cuero Anti-Scratch Cover Oro Rosa '
+slug: 'B07ZRR42F4-es Suhctup Espejo Funda Reemplazo para Huawei Mate 10 Caso PC...'
+tags: 
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

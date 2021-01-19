@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512gZc-Ai4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4XXWF5-es Juego de sabanas Invierno Tejido CORALINA SAVA Azul Cama de 90 x 190/200 - Color Azul'
+slug: 'B07Z4XXWF5-es Juego de sabanas Invierno Tejido CORALINA SAVA Azul Cama...'
+tags: 
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

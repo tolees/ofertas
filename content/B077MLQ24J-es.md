@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pvb4b-LAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MLQ24J-es PUMA Smash V2 L  Zapatillas Unisex Adulto  Negro Black Black  42.5 EU'
+slug: 'B077MLQ24J-es PUMA Smash V2 L Zapatillas Unisex Adulto Negro Black Black...'
+tags: 
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

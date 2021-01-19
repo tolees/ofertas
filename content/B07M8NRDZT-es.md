@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EV4qteLxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8NRDZT-es NUK 10177124 Genius Color - Chupete de silicona  forma adaptada a la mandíbula  18-36 meses  2 unidades   color azul y verde'
+slug: 'B07M8NRDZT-es NUK 10177124 Genius Color - Chupete de silicona forma...'
+tags: 
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

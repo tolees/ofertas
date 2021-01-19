@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-ykA9RR4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0886BJH1Q-es Niños Desechables de Filtro de Tres Capas con Pendientes Elásticos  50pcs  Azul'
+slug: 'B0886BJH1Q-es Niños Desechables de Filtro de Tres Capas con Pendientes...'
+tags: 
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

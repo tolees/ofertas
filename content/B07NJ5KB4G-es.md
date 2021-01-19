@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312eb807+oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ5KB4G-es BABARIA SEMILLA DE Cannabis Gel DE BAÑO 1000ML 1L  Negro  Estándar'
+slug: 'B07NJ5KB4G-es BABARIA SEMILLA DE Cannabis Gel DE BAÑO 1000ML 1L Negro...'
+tags: 
 actualPrice: 1.73 EUR
 currency: EUR
 price: 1.73

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yOJyU1lUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KD6QRTP-es Repuhand 300 Piezas Hojas de Arce Otoño Papeles Artificiales Multicolor Decoración para Fiesta Decoración de la Boda del Jardín de 6 Colores'
+slug: 'B07KD6QRTP-es Repuhand 300 Piezas Hojas de Arce Otoño Papeles...'
+tags: 
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

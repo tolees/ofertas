@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CSzfyvX9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTC974D-es George Foreman - Grill  Barbacoa  Parrilla Eléctrica  2400 W  Negro  15 Raciones  Interior y Exterior  - ref. 22460-56'
+slug: 'B01MTC974D-es George Foreman - Grill Barbacoa Parrilla Eléctrica 2400 W...'
+tags: 
 actualPrice: 90.58 EUR
 currency: EUR
 price: 90.58

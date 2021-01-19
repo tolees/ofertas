@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317FlOUafRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKWKQCS-es Nike B Dri-FIT Academy Wpz Pantalones  Niños  Azul  Obsidian/Obsidian   XS'
+slug: 'B07KKWKQCS-es Nike B Dri-FIT Academy Wpz Pantalones Niños Azul...'
+tags: 
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

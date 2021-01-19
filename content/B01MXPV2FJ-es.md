@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31gKut3TC7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXPV2FJ-es Energy Sistem Tower 1 -  Sistema de altavoces en torre con Bluetooth 4.1  30 W Potencia  RCA  3.5 mm Audio-in  negro'
+slug: 'B01MXPV2FJ-es Energy Sistem Tower 1 - Sistema de altavoces en torre con...'
+tags: 
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZIXMQC-es Project Cars 2'
+tags: 
 actualPrice: 18.19 EUR
 currency: EUR
 price: 18.19

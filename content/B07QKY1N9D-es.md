@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pz1+iB6WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKY1N9D-es HAMSWAN Despertadores  [Regalos] Reloi Alarma  Clock  Despertadores Cambiado Entre 7 Colores con 8 Tonos  Tempreatura para Padres Estudios y Niños ect.'
+slug: 'B07QKY1N9D-es HAMSWAN Despertadores [Regalos] Reloi Alarma Clock...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

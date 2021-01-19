@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zlm1kBO5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TNX83K-es Reebok Princess  Zapatillas para Mujer  Negro  Black 001   35.5 EU'
+slug: 'B077TNX83K-es Reebok Princess Zapatillas para Mujer Negro Black 001 35.5 EU'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

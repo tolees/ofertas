@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31c2ry7UczL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811WBVW3-es TACKLIFE- 10 Pulgadas Alicates Extensibles  Tenaza de Tipo V Multidentado  Alicates de Lengüeta y Ranura con Botón de Ajuste Rápido  Tamaño Máximo de Apertura con Una Mano 1.77" 45MM  - TGP1B'
+slug: 'B0811WBVW3-es TACKLIFE- 10 Pulgadas Alicates Extensibles Tenaza de Tipo...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

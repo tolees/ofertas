@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414H0PMf85L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDF9P6Y-es Head 811904 Calcetín  Unisex Adulto  Gris  43  46'
+slug: 'B07YDF9P6Y-es Head 811904 Calcetín Unisex Adulto Gris 43 46'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

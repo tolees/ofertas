@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KReiHGfoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0836CVMPY-es Otto Koning - Dortmund- Set 42 cubiertos para 6 comensales  acero inoxidable 18/10 - pulido espejo- con tenedor  cuchara  cuchillo  tenedor postre  cuchara postre  cuchillo postre y cuchara moka.'
+slug: 'B0836CVMPY-es Otto Koning - Dortmund- Set 42 cubiertos para 6 comensales...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

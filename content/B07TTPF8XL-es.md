@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51E9KPI7mfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTPF8XL-es KiplingCity Pack SMujerMochilasMulticolor  Speckled 27x33.5x19 Centimeters  B x H x T '
+slug: 'B07TTPF8XL-es KiplingCity Pack SMujerMochilasMulticolor Speckled...'
+tags: 
 actualPrice: 27.41 EUR
 currency: EUR
 price: 27.41

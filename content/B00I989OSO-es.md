@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319Zk9RDKkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I989OSO-es L Oréal Paris Men Expert Hydra Energetic Roll-On - Ojos Antibags y Anti-Caps  con extracto de guaraná y vitamina C  10 ml'
+slug: 'B00I989OSO-es L Oréal Paris Men Expert Hydra Energetic Roll-On - Ojos...'
+tags: 
 actualPrice: 8.54 EUR
 currency: EUR
 price: 8.54

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517IAVEEqDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLTGGTN-es Camela - Rebobinando  3CD+DVD '
+slug: 'B07NLTGGTN-es Camela - Rebobinando 3CD+DVD'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

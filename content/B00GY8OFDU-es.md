@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31QMrrkQ68L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GY8OFDU-es Puma Suede Classic +  Zapatillas Unisex Adulto  Negro  Black/Team Gold/White   38 EU'
+slug: 'B00GY8OFDU-es Puma Suede Classic + Zapatillas Unisex Adulto Negro...'
+tags: 
 actualPrice: 56 EUR
 currency: EUR
 price: 56

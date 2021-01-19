@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QDE8Pdo7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RW7XL2T-es AMX Cesta organizadora de Almacenamiento Plegable con Tapa en estanterías  gabinetes  escaleras  armarios  etc  Gris Oscuro'
+slug: 'B07RW7XL2T-es AMX Cesta organizadora de Almacenamiento Plegable con Tapa...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21XbeHwYeIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZVW9QR-es Moulinex Principio LS160111 - Tostadora de una ranura larga de 25  cm  bandeja recoge-migas con 7 niveles de tueste  modo de descongelación y botón apagado  para gran variedad de pan'
+slug: 'B075ZVW9QR-es Moulinex Principio LS160111 - Tostadora de una ranura...'
+tags: 
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

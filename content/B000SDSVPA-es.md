@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vATfUwI-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000SDSVPA-es Moldex MOL6401 - Tapón para los oídos  pack de 50 '
+slug: 'B000SDSVPA-es Moldex MOL6401 - Tapón para los oídos pack de 50'
+tags: 
 actualPrice: 8.68 EUR
 currency: EUR
 price: 8.68

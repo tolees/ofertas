@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r8FU4vTTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K8QR8VK-es Panama Jack Panama 03 Aviator  Botas Militar para Hombre  Marrón  Marron C1   46 EU'
+slug: 'B00K8QR8VK-es Panama Jack Panama 03 Aviator Botas Militar para Hombre...'
+tags: 
 actualPrice: 107.95 EUR
 currency: EUR
 price: 107.95

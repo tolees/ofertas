@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ouMd35heL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H54MSN6-es WOWLIVE - Cesta para la Ropa Sucia  tamaño Grande  con Ruedas   Color Beige'
+slug: 'B07H54MSN6-es WOWLIVE - Cesta para la Ropa Sucia tamaño Grande con...'
+tags: 
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

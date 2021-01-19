@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YnFnuheeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781Z5RGZ-es adidas Gazelle J  Zapatillas Unisex Niños  Rojo  Red Cq2874   38 2/3 EU'
+slug: 'B0781Z5RGZ-es adidas Gazelle J Zapatillas Unisex Niños Rojo Red Cq2874...'
+tags: 
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

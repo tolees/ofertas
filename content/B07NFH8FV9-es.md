@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MKxJ62-GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFH8FV9-es Casio Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable MQ-24M-1EEF'
+slug: 'B07NFH8FV9-es Casio Reloj Analógico para Unisex Adultos de Cuarzo con...'
+tags: 
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

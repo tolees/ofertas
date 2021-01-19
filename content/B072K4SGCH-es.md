@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jSBiDPwhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072K4SGCH-es SportPlus SP-ALB-011 Entrenador Abdominal Plegable para Uso Doméstico con Ordenador de Entrenamiento-Varios Niveles de Dificultad  Adultos Unisex  Negro/Rojo  102x51x90cm'
+slug: 'B072K4SGCH-es SportPlus SP-ALB-011 Entrenador Abdominal Plegable para...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

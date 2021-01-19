@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518i7vBXe2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813SMZVQ-es BESTKEE Cinturón táctico para hombres 1.5 pulgadas  estilo militar Cinturón con hebilla Cobra con cierre rápido de hebilla de metal  regalo con bolsa táctica Molle y gancho  Negro + Azul '
+slug: 'B0813SMZVQ-es BESTKEE Cinturón táctico para hombres 1.5 pulgadas estilo...'
+tags: 
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

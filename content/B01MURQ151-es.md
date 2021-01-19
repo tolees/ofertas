@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WnKg-ZT-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MURQ151-es Nike Court Borough Low  PSV   Zapatillas para Niñas  Blanco  White/White 100   30 EU'
+slug: 'B01MURQ151-es Nike Court Borough Low PSV Zapatillas para Niñas Blanco...'
+tags: 
 actualPrice: 25.15 EUR
 currency: EUR
 price: 25.15

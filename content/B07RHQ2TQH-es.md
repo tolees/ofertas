@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ilYOo2fML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHQ2TQH-es adidas Ultraboost 19 W  Zapatillas de Running para Mujer  Blanco  FTWR White/FTWR White/Real Blue FTWR White/FTWR White/Real Blue   42 EU'
+slug: 'B07RHQ2TQH-es adidas Ultraboost 19 W Zapatillas de Running para Mujer...'
+tags: 
 actualPrice: 108.49 EUR
 currency: EUR
 price: 108.49

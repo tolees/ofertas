@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qU4gag2jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGWQ8FJ-es Primigi Gore-Tex Pfz 43820  Botas para Bebés  Azu/Jeans 4382000  26 EU'
+slug: 'B07NGWQ8FJ-es Primigi Gore-Tex Pfz 43820 Botas para Bebés Azu/Jeans...'
+tags: 
 actualPrice: 18.86 EUR
 currency: EUR
 price: 18.86

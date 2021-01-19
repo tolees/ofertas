@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GlKNTzWUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3V57GX-es New Balance 500  Zapatillas Mujer  Rosa  Gw500Hha   39 EU'
+slug: 'B07S3V57GX-es New Balance 500 Zapatillas Mujer Rosa Gw500Hha 39 EU'
+tags: 
 actualPrice: 43.22 EUR
 currency: EUR
 price: 43.22

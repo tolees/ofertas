@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416K0MbLnCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004VKHIA0-es OPI Natural Nail Strengthener – Endurecedor para Uñas Naturales  Efecto Manicura Profesional - 15 ml'
+slug: 'B004VKHIA0-es OPI Natural Nail Strengthener – Endurecedor para Uñas...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kYxRZ7pbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LN8SS1A-es Britax Römer Evolva 123 SL SICT - Silla de coche  grupo 1/2/3  9-36 kg   color Black Marble'
+slug: 'B01LN8SS1A-es Britax Römer Evolva 123 SL SICT - Silla de coche grupo...'
+tags: 
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311hTaaGjaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E5MWSXA-es JACK & JONES Jjiliam Jjoriginal Am 014 Lid Noos  Jeans Hombre  Azul  Blue Denim   W32/L30  Talla del fabricante: 32 '
+slug: 'B01E5MWSXA-es JACK & JONES Jjiliam Jjoriginal Am 014 Lid Noos Jeans...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

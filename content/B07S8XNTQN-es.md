@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jLS2f3y6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8XNTQN-es GREAT ART Foto Mural La Tierra desde La Luna Imagen Espacio Poster Planeta 210 x 140 cm - Papel Pintado 5 Piezas incluye Pasta para pegar'
+slug: 'B07S8XNTQN-es GREAT ART Foto Mural La Tierra desde La Luna Imagen...'
+tags: 
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

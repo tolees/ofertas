@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P2GhphsUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKF5G59-es Wenko 23615100 Vetro-Dispensador de jabón líquido  Rectangular  0 52 L  Cristal  7 5 x 19 x 7 5 cm   Color marrón  7.5 x 19 x 7.5 cm'
+slug: 'B07PKF5G59-es Wenko 23615100 Vetro-Dispensador de jabón líquido...'
+tags: 
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

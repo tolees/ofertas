@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xMjjKHs7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCX5FJ6-es Victoria Tribu Doble Botin Lona  Zapatillas Unisex Adulto  Blanco  Blanco 20 '
+slug: 'B07DCX5FJ6-es Victoria Tribu Doble Botin Lona Zapatillas Unisex Adulto...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

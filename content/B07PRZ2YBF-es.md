@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EDqm6prtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRZ2YBF-es New Balance 373  Zapatillas para Hombre  Verde  Green/Black Green/Black   38 EU'
+slug: 'B07PRZ2YBF-es New Balance 373 Zapatillas para Hombre Verde Green/Black...'
+tags: 
 actualPrice: 30.22 EUR
 currency: EUR
 price: 30.22

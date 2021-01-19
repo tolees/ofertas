@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fnDFE-SPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZV4G9B-es HyAdierTech Almohadilla De Cuna Impermeable para Bebé  Cambiadores De Pañales y Ropa Impermeables Acolchado Bebe  Plegables  Portatil  Colchón Bebé Lavables Cama Para Bebés'
+slug: 'B07QZV4G9B-es HyAdierTech Almohadilla De Cuna Impermeable para Bebé...'
+tags: 
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

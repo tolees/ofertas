@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B56y3X4rL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B078VRJZRG-es Volcom Miter II Cargo Bermudas  Hombre  Verde  Khaki   31'
+slug: 'B078VRJZRG-es Volcom Miter II Cargo Bermudas Hombre Verde Khaki 31'
+tags: 
 actualPrice: 38.47 EUR
 currency: EUR
 price: 38.47

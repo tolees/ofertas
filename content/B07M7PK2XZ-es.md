@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nEGIVW7UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7PK2XZ-es GANT Fay  Botas de Motorista para Mujer  Braun Tobacco Brown G42  41 EU'
+slug: 'B07M7PK2XZ-es GANT Fay Botas de Motorista para Mujer Braun Tobacco Brown...'
+tags: 
 actualPrice: 35.18 EUR
 currency: EUR
 price: 35.18

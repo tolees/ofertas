@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wAmc58RiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077P6V6LV-es Puma Suede Heart Bubble  Zapatillas para Mujer  Marrón  Bungee Cord-Bungee Cord   41 EU'
+slug: 'B077P6V6LV-es Puma Suede Heart Bubble Zapatillas para Mujer Marrón...'
+tags: 
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

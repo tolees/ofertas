@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TzmP+gPnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWRF7YL-es Suunto 9 Reloj con GPS para Multideporte  Unisex  Blanco  Talla Única'
+slug: 'B07GWRF7YL-es Suunto 9 Reloj con GPS para Multideporte Unisex Blanco...'
+tags: 
 actualPrice: 286.98 EUR
 currency: EUR
 price: 286.98

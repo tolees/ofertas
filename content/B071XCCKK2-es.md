@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lVd3zsEGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071XCCKK2-es Nautica Reloj Analogico para Hombre de Cuarzo con Correa en Silicona NAPFRB004'
+slug: 'B071XCCKK2-es Nautica Reloj Analogico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 78.73 EUR
 currency: EUR
 price: 78.73

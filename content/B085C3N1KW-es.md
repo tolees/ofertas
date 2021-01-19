@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kla9j69JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085C3N1KW-es HONOR Smart Watch Magic Watch 2  42 mm   Fitness Tracker Watch Hombre Mujer Smart Watch  5 ATM Monitor de frecuencia cardíaca de muñeca  Pantalla a Color de 1.20 Pulgadas  GPS  Negro Mate'
+slug: 'B085C3N1KW-es HONOR Smart Watch Magic Watch 2 42 mm Fitness Tracker...'
+tags: 
 actualPrice: 119.9 EUR
 currency: EUR
 price: 119.9

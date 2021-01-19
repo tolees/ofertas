@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e1XsgEehL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N7P84DJ-es Fila Strada Low Wmn  Zapatillas Altas para Mujer  Blanco  White 1fg   37 EU'
+slug: 'B07N7P84DJ-es Fila Strada Low Wmn Zapatillas Altas para Mujer Blanco...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

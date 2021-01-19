@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fyq5DaqxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHDHLYQ-es AVerMedia Live Gamer Ultra  Capturadora de vídeo y de streaming USB3.1  pass-through 4 KP60 hdr  muy débil latence  ENREGISTRE hasta 120 fps  gc553 '
+slug: 'B07DHDHLYQ-es AVerMedia Live Gamer Ultra Capturadora de vídeo y de...'
+tags: 
 actualPrice: 179.9 EUR
 currency: EUR
 price: 179.9

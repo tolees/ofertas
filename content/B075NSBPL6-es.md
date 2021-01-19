@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31q5bE3XmlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NSBPL6-es Trangoworld Trx2 Stretch Pro Pullover  Hombre  Naranja Intenso/Calabaza  L'
+slug: 'B075NSBPL6-es Trangoworld Trx2 Stretch Pro Pullover Hombre Naranja...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

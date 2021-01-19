@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DNQq6sPAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019O9BAGU-es Under Armour UA TAC Performance Polo  Hombre  Negro  Black/Black 001   M'
+slug: 'B019O9BAGU-es Under Armour UA TAC Performance Polo Hombre Negro...'
+tags: 
 actualPrice: 25.27 EUR
 currency: EUR
 price: 25.27

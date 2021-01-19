@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TlqJkY8NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072VJF12S-es Buff Margo Calentador Tricot Y Polar  Unisex Adulto  Blue  Talla única'
+slug: 'B072VJF12S-es Buff Margo Calentador Tricot Y Polar Unisex Adulto Blue...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

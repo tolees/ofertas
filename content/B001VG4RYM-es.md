@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BweBmTBbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001VG4RYM-es Calvin Klein 3P Hip Brief  Calzoncillos para Hombre  3 unidades   Negro  Black   Large'
+slug: 'B001VG4RYM-es Calvin Klein 3P Hip Brief Calzoncillos para Hombre 3...'
+tags: 
 actualPrice: 25.8 EUR
 currency: EUR
 price: 25.8

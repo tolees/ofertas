@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31k3+ukdtXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSNFSTP-es Clarks Un Adorn Strap  Mocasines para Mujer  Negro  Black Combi-   37.5 EU'
+slug: 'B07FSNFSTP-es Clarks Un Adorn Strap Mocasines para Mujer Negro Black...'
+tags: 
 actualPrice: 54.42 EUR
 currency: EUR
 price: 54.42

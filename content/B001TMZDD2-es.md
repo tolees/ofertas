@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wWBc5dwIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001TMZDD2-es Brabantia 401084 - Cubo de Basura  Touch Bin  2 x 20 litros  Dos compartimientos para Reciclaje  Acero Mate Anti-Huellas'
+slug: 'B001TMZDD2-es Brabantia 401084 - Cubo de Basura Touch Bin 2 x 20 litros...'
+tags: 
 actualPrice: 170.5 EUR
 currency: EUR
 price: 170.5

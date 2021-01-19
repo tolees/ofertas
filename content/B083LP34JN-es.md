@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RkfkQZBzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083LP34JN-es K9CK Luces LED para Lego Technic Coche de Rally 42077  Kit de Iluminación Luz Compatible con Bloques de Construcción  NO Incluido en el Modelo '
+slug: 'B083LP34JN-es K9CK Luces LED para Lego Technic Coche de Rally 42077 Kit...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kL5zhtX0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQDBHBW-es BCHE Electroestimulador Muscular Abdominales Masajeador Eléctrico Cinturón  10 Niveles & 6 Modos  Estimulador Muscular Ejercitar Abdomen/Brazo/Piernas/Cintura  Hombre/Mujer '
+slug: 'B07MQDBHBW-es BCHE Electroestimulador Muscular Abdominales Masajeador...'
+tags: 
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pQZ4Doh3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FFKT47-es Goodde Convertidor Captura Vídeo USB  Video Capture Card  HDMI a USB 3.0 Capturadora Digitalizadora de Juegos Video Capturador de Pantalla para reuniones - 1080P a 60 fps HD - Plug and Play'
+slug: 'B088FFKT47-es Goodde Convertidor Captura Vídeo USB Video Capture Card...'
+tags: 
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

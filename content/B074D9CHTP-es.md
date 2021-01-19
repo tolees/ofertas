@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+dYkYaQpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074D9CHTP-es Casio Reloj Analogico-Digital para Mujer de Cuarzo con Correa en Resina BGS-100-1AER'
+slug: 'B074D9CHTP-es Casio Reloj Analogico-Digital para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 62.97 EUR
 currency: EUR
 price: 62.97

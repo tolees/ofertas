@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HKk584ucL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073VDWFMQ-es Nacon - Controlador Gaming  Color Gris  Windows XP  Vista  7  8  10 '
+slug: 'B073VDWFMQ-es Nacon - Controlador Gaming Color Gris Windows XP Vista 7 8 10'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

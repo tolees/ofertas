@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-V6w0gytL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MW23ZCC-es EBTOOLS Sistema de Detección de Aparcamiento de Reserva Inversa de Transmisión de Voz en Inglés de Automóvil con Sensor de 4 Radares azul '
+slug: 'B07MW23ZCC-es EBTOOLS Sistema de Detección de Aparcamiento de Reserva...'
+tags: 
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

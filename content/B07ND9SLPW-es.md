@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AU-OHdIfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND9SLPW-es Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 2011020'
+slug: 'B07ND9SLPW-es Lacoste Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 96.0 EUR
 currency: EUR
 price: 96.0

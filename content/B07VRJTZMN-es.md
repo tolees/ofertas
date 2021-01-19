@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FE-50Z3CL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRJTZMN-es ZHENROG Electroestimulador Muscular Abdominales Cinturón  EMS Estimulación Muscular Masajeador Eléctrico Cinturón Abdomen/Brazo/Piernas/Glúteos  Hombre/Mujer   Negro '
+slug: 'B07VRJTZMN-es ZHENROG Electroestimulador Muscular Abdominales Cinturón...'
+tags: 
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

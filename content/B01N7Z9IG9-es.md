@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ILkeaiJiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7Z9IG9-es Harry Potter Caja De Selección De Dulces Y Chocolates Americanos - Ranas De Chocolate  Jelly Belly Bertie Bott s Grajeas Y Babosas De Gelatina - Cesta Exclusiva Para Burmont s'
+slug: 'B01N7Z9IG9-es Harry Potter Caja De Selección De Dulces Y Chocolates...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

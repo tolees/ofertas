@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UK+xNepOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8HT86H-es Shunga Geishas Secret Collection Strawberry Aceite de Masaje - 1 Pack'
+slug: 'B01M8HT86H-es Shunga Geishas Secret Collection Strawberry Aceite de...'
+tags: 
 actualPrice: 19.93 EUR
 currency: EUR
 price: 19.93

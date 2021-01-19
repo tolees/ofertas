@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EJ5ENoaoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3J1BWL-es 10 Piezas Salvaorejas para Mascarillas  Extender Ganchos para Máscara  Fijador Antideslizante Ajustable de 4 Engranajes'
+slug: 'B08D3J1BWL-es 10 Piezas Salvaorejas para Mascarillas Extender Ganchos...'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

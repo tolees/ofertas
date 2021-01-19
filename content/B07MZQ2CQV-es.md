@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413UOYQlZHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ2CQV-es Pepe Jeans Helaia suéter   Écru 814   Small para Mujer'
+slug: 'B07MZQ2CQV-es Pepe Jeans Helaia suéter Écru 814 Small para Mujer'
+tags: 
 actualPrice: 16.37 EUR
 currency: EUR
 price: 16.37

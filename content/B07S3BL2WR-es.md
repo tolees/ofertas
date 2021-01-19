@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xrqfnQG7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3BL2WR-es KangaROOS Raceyard Ev  Zapatillas Unisex Adulto  Naranja  Neon Orange/Jet Black 7950   41 EU'
+slug: 'B07S3BL2WR-es KangaROOS Raceyard Ev Zapatillas Unisex Adulto Naranja...'
+tags: 
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

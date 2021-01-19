@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r5L9Dg2gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDLXTCN-es Nixon Reloj Hombre de Digital con Correa en Acero Inoxidable A1266-502-00'
+slug: 'B07NDLXTCN-es Nixon Reloj Hombre de Digital con Correa en Acero...'
+tags: 
 actualPrice: 112.53 EUR
 currency: EUR
 price: 112.53

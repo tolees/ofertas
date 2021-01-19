@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZzQ2BV0yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJX3GVW-es Columbia Backpedal Clime Outdry  Zapatillas de Cross para Mujer  Negro  Shark  011   42 EU'
+slug: 'B07KJX3GVW-es Columbia Backpedal Clime Outdry Zapatillas de Cross para...'
+tags: 
 actualPrice: 33.91 EUR
 currency: EUR
 price: 33.91

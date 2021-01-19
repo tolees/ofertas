@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QVo9oOhaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RN1W9Y4-es Calvin Klein - Revealed 2g Mini Reporter  Organizadores de bolsos Hombre  Negro  Black   0.1x0.1x0.1 cm  W x H L '
+slug: 'B07RN1W9Y4-es Calvin Klein - Revealed 2g Mini Reporter Organizadores de...'
+tags: 
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

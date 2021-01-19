@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JWDxMXKrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0YZVQE-es Sandisk SDCZ800-128G-G46 Memoria Flash Usb Sandisk Extreme Go  128 Gb  Negro'
+slug: 'B01N0YZVQE-es Sandisk SDCZ800-128G-G46 Memoria Flash Usb Sandisk Extreme...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

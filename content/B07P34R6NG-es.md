@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qkoe3PdrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P34R6NG-es Princess 142389 - Tostadora de doble ranura larga  1500 W  6 grados de tostado  Función de descongelado  Bandeja migas extraíble  Acero inoxidable  color plata [Clase de eficiencia energética A+++]'
+slug: 'B07P34R6NG-es Princess 142389 - Tostadora de doble ranura larga 1500 W 6...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

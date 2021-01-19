@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419SdnEICFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9H9DM8-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero F20344/3'
+slug: 'B07B9H9DM8-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 117.71 EUR
 currency: EUR
 price: 117.71

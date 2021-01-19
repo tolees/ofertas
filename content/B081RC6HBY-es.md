@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51T9qXDJVYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RC6HBY-es BRIKSMAX Kit de Iluminación Led para Lego Hidden Side Camión Acrobático de El Fuego Compatible con Ladrillos de Construcción Lego Modelo 70421  Juego de Legos no Incluido'
+slug: 'B081RC6HBY-es BRIKSMAX Kit de Iluminación Led para Lego Hidden Side...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

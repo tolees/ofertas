@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LapFa0zsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088D7GCDM-es Suhctup Funda Compatible para Samsung Galaxy A9 Star Lite Carcasa Transparente Dibujos Animal Suave Silicona TPU Gel Bumper Ultra Pulgada Antigolpes Crystal Clear Protector Piel Case Cover Panda 8'
+slug: 'B088D7GCDM-es Suhctup Funda Compatible para Samsung Galaxy A9 Star Lite...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

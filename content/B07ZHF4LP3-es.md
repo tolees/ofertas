@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61jkODiGgVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHF4LP3-es Mydours Almohadilla Teclado y Alfombrilla de Ratón Ergonómico Cojín de Muñeca con Reposamuñecas de Memoria  Base de Goma no Deslizante   para Trabajadores  Oficinas  Jugadores'
+slug: 'B07ZHF4LP3-es Mydours Almohadilla Teclado y Alfombrilla de Ratón...'
+tags: 
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ7MFZV-es SAMSUNG LED View Cover Note 10+ Black'
+tags: 
 actualPrice: 48.49 EUR
 currency: EUR
 price: 48.49

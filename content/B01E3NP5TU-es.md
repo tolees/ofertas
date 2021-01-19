@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WFHCjDcwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E3NP5TU-es Chicco Wellbeing - Set de regalo con biberón  chupete y clip de silicona  color azul'
+slug: 'B01E3NP5TU-es Chicco Wellbeing - Set de regalo con biberón chupete y...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

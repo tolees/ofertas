@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317mE7fHwoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PA0ABUO-es American Crew Cera Liquida  Fijación Media y Brillo Medio  150 ml'
+slug: 'B00PA0ABUO-es American Crew Cera Liquida Fijación Media y Brillo Medio...'
+tags: 
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

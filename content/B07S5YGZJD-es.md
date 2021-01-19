@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YdnEngUwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5YGZJD-es Bandas Elasticas Fitness Glúteos Bandas de Resistencia de la Cadera Bandas Antideslizantes de Ejercicios Piernas'
+slug: 'B07S5YGZJD-es Bandas Elasticas Fitness Glúteos Bandas de Resistencia de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

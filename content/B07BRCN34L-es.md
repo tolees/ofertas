@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vSXmREqmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRCN34L-es Naipo Respaldo de Masaje Cojín Asiento Masajeador Portátil para Toda la Espalda y Cuello con 8 Motores de Vibración 2 Pads de Calor en Coche Casa Oficina'
+slug: 'B07BRCN34L-es Naipo Respaldo de Masaje Cojín Asiento Masajeador Portátil...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

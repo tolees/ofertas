@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HTaeIzijL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD174BZ-es PUMA Smash v2  Zapatillas Unisex Adulto  Negro Black-Dark Shadow 38  42 EU'
+slug: 'B07SD174BZ-es PUMA Smash v2 Zapatillas Unisex Adulto Negro Black-Dark...'
+tags: 
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xIuQ0-QLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Q5P6FD-es FOSITAN Anillo de Luz LED 55W 5500K 18" Exterior de Iluminación de Anillo de Foto de Cámara LED de Regulable con 2M Soporte de Luz and Receptor Bluetooth para Estudio de Vlogging de Youtube Video'
+slug: 'B075Q5P6FD-es FOSITAN Anillo de Luz LED 55W 5500K 18" Exterior de...'
+tags: 
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

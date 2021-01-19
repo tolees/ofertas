@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EVRIuQ5FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VQYVDT-es Targus TSS959GL 14" Gris maletines para Portátil - Funda  35 6 cm  14"   Tirante para Hombro  480 g  Gris '
+slug: 'B079VQYVDT-es Targus TSS959GL 14" Gris maletines para Portátil - Funda...'
+tags: 
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

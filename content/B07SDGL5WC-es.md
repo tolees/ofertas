@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312ZTowYt5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDGL5WC-es Got2b - Perfume de cabello Ocean Vibe - 5 unidades de 75ml - Schwarzkopf'
+slug: 'B07SDGL5WC-es Got2b - Perfume de cabello Ocean Vibe - 5 unidades de 75ml...'
+tags: 
 actualPrice: 9.61 EUR
 currency: EUR
 price: 9.61

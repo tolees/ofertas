@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T74Pbc7TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G8BJ3L1-es INTEY Silla Gaming  Silla de Oficina Ergonómica  PU y Ajustables Apoyabrazos  Reposacabezas y Soporte Lumbar  Carga Máx.125kg - Amarillo'
+slug: 'B07G8BJ3L1-es INTEY Silla Gaming Silla de Oficina Ergonómica PU y...'
+tags: 
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TEDxyaE1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4FN48X-es Autel MaxiCOM MK908 OBD2 Coche Herramienta de Escáner con MV108 Cámara de Inspección  Codificación ECU  Control Bidireccional  Diagnóstico de Nivel OE  Actualizado de MS908 MS906 MK808'
+slug: 'B07V4FN48X-es Autel MaxiCOM MK908 OBD2 Coche Herramienta de Escáner con...'
+tags: 
 actualPrice: 1879.0 EUR
 currency: EUR
 price: 1879.0

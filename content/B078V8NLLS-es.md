@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410ZgqWnv1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078V8NLLS-es 100 Papeles Multicolores de Origami Ideal para Hacer Formas Grúas Flores Conveniente para Artesanías Proyectos de Arte - 10x10cm'
+slug: 'B078V8NLLS-es 100 Papeles Multicolores de Origami Ideal para Hacer...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

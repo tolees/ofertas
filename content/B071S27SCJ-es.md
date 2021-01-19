@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51T9Z4GlUcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071S27SCJ-es Cinta Métrica - Fléxometro 20M /66 FT de doble cara  mm y Pulgadas  en Fibra de Vidrio. Profesional'
+slug: 'B071S27SCJ-es Cinta Métrica - Fléxometro 20M /66 FT de doble cara mm y...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

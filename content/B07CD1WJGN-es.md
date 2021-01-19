@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pcdVzmMNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CD1WJGN-es Skechers Men s RELVEN-VELTON-65659 Trainers  Black  Black BBK   9 UK 43 EU'
+slug: 'B07CD1WJGN-es Skechers Men s RELVEN-VELTON-65659 Trainers Black Black...'
+tags: 
 actualPrice: 38.88 EUR
 currency: EUR
 price: 38.88

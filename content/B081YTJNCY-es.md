@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k7KwWipsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081YTJNCY-es para GoPro Domo Puerto  para Gopro Hero Negro Domo GoPro Accesorios Lente de cúpula subacuática Caja de Carcasa Impermeable Súper Traje de Buceo con Pistola gatillo para acción cámara'
+slug: 'B081YTJNCY-es para GoPro Domo Puerto para Gopro Hero Negro Domo GoPro...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

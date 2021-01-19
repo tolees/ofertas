@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314wlmDAOGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AU4C6RA-es Einhell GC-ET 4530 Set - Recortabordes eléctrico  450W  230V  corte de doble hilo  ancho de corte: 30cm   ref.3402022 '
+slug: 'B01AU4C6RA-es Einhell GC-ET 4530 Set - Recortabordes eléctrico 450W 230V...'
+tags: 
 actualPrice: 28.67 EUR
 currency: EUR
 price: 28.67

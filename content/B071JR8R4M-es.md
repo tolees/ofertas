@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BoLsnjmiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JR8R4M-es HP OMEN 100 - Alfombrilla para ratón  Negra  360 mm x 300 mm x 4 mm '
+slug: 'B071JR8R4M-es HP OMEN 100 - Alfombrilla para ratón Negra 360 mm x 300 mm...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

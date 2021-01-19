@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OgrATkb+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVCKZKT-es Molyflower Black Remote Take Picture 240 * 240 píxeles Reloj Inteligente Teléfono King-Wear KW18 Tarjeta SIM y TF Smartwatch de frecuencia cardíaca - Negro'
+slug: 'B08CVCKZKT-es Molyflower Black Remote Take Picture 240 * 240 píxeles...'
+tags: 
 actualPrice: 57.49 EUR
 currency: EUR
 price: 57.49

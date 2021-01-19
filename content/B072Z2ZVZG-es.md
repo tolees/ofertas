@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BAPFIjWuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072Z2ZVZG-es Marvel- Figura de Vinilo Hela  Multicolor  Funko 13768 '
+slug: 'B072Z2ZVZG-es Marvel- Figura de Vinilo Hela Multicolor Funko 13768'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

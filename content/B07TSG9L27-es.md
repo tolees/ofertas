@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XqdIlyEML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSG9L27-es Gant Prepville  Zapatillas para Hombre  Beige  Dry Sand G22   40 EU'
+slug: 'B07TSG9L27-es Gant Prepville Zapatillas para Hombre Beige Dry Sand G22...'
+tags: 
 actualPrice: 27.57 EUR
 currency: EUR
 price: 27.57

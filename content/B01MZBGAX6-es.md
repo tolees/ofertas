@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kUkdR+QyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZBGAX6-es Apolyne Portable Juego de Mesa Portátil Ping Pongtable  Unisex niños  Talla Única'
+slug: 'B01MZBGAX6-es Apolyne Portable Juego de Mesa Portátil Ping Pongtable...'
+tags: 
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

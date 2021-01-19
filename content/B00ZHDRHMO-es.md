@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c0IqKW8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZHDRHMO-es GoPro ABSSC-001 Casey - Estuche Impermeable  para Cámara + Soportes + Accesorios   Color Negro'
+slug: 'B00ZHDRHMO-es GoPro ABSSC-001 Casey - Estuche Impermeable para Cámara +...'
+tags: 
 actualPrice: 43.45 EUR
 currency: EUR
 price: 43.45

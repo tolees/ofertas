@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GjldhyLlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2SR7Q1-es Asics Patriot 11  Running Shoe Womens  Black/White  39 EU'
+slug: 'B07L2SR7Q1-es Asics Patriot 11 Running Shoe Womens Black/White 39 EU'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

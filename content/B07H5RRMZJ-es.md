@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5RRMZJ-es Geographical Norway Agada Men 068 - Size XL'
+tags: 
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

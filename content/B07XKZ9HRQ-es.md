@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414JV9+3YCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKZ9HRQ-es Medidor EMF  TACKLIFE Detector de Radiación  5HZ - 3500MHz con LCD Digital  Alarma de Luz y Sonido  para Probar Radiación de Campo Magnético  Campo Eléctrico y Temperatura Ambiente - MET01'
+slug: 'B07XKZ9HRQ-es Medidor EMF TACKLIFE Detector de Radiación 5HZ - 3500MHz...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

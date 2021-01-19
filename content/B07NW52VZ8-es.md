@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416XRu33QaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW52VZ8-es Skechers Women s Flex Appeal 3.0-Satellites Trainers  Grey  Black Mesh/White Trim Ccpk   3.5  36.5 EU '
+slug: 'B07NW52VZ8-es Skechers Women s Flex Appeal 3.0-Satellites Trainers Grey...'
+tags: 
 actualPrice: 23.21 EUR
 currency: EUR
 price: 23.21

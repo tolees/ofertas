@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DhvKXcynL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4GWUWY-es San Ignacio PK332 Set Tres sartenes + Batería 5 Piezas + Juego de Utensilios de Cocina  Cromado'
+slug: 'B01N4GWUWY-es San Ignacio PK332 Set Tres sartenes + Batería 5 Piezas +...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

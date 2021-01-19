@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RBAEMp2PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2MSKR7-es Tommy Hilfiger - Th Modern Satchel  Bolsos maletín Mujer  Azul  Sky Captain   1x1x1 cm  W x H L '
+slug: 'B07V2MSKR7-es Tommy Hilfiger - Th Modern Satchel Bolsos maletín Mujer...'
+tags: 
 actualPrice: 49.26 EUR
 currency: EUR
 price: 49.26

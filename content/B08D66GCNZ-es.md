@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k2HmiyGcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D66GCNZ-es Shayson Teclado Electrónico Piano 37 Teclas Teclado de Piano Portátil para niños con Fuente de Alimentación  Música Digital  Educativa Regalo para Niños/Principiante Negro'
+slug: 'B08D66GCNZ-es Shayson Teclado Electrónico Piano 37 Teclas Teclado de...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

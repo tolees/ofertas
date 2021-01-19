@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL5TL3S-es Skagen Smartwatch SKT5100'
+tags: 
 actualPrice: 179.4 EUR
 currency: EUR
 price: 179.4

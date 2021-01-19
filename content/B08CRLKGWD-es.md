@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415W0tcf7lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRLKGWD-es Panamar USB portátil 3.1 Tipo-C Macho a USB 3.0 A Hembra Convertidor Adaptador de Cable USB Carcasa Duradera de aleación de Aluminio Ultra Claro-Negro'
+slug: 'B08CRLKGWD-es Panamar USB portátil 3.1 Tipo-C Macho a USB 3.0 A Hembra...'
+tags: 
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

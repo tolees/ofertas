@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Hqv1JoX9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHDD5X2-es Salomon XA Gap Gorra  para Entrenamientos  Protección UV  Unisex  Negro/Negro/Gris  Reflective  Negro  Charcoal   Talla Ajustable L/XL'
+slug: 'B07FHDD5X2-es Salomon XA Gap Gorra para Entrenamientos Protección UV...'
+tags: 
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

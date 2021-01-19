@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tCV9QTdsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8PDZRG-es Magic Studio Matte Vs Metallic Lip Colors  Talla Única  Pack de 1'
+slug: 'B07Y8PDZRG-es Magic Studio Matte Vs Metallic Lip Colors Talla Única Pack...'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

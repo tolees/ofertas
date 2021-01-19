@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5157ltQzHbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MB465CZ-es KiplingMoney PowerMujerMonederosNegro  True Black  9.5x12.5x3 Centimeters  B x H x T '
+slug: 'B07MB465CZ-es KiplingMoney PowerMujerMonederosNegro True Black...'
+tags: 
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

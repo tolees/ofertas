@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jLdDP0JaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D8VRJYM-es Himalaya Herbals  Mascarilla de Almendra y Pepino  75 ml'
+slug: 'B01D8VRJYM-es Himalaya Herbals Mascarilla de Almendra y Pepino 75 ml'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

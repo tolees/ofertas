@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M4vqi9pkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGZHSJS-es Kingston Canvas Select Plus Tarjeta microSD  SDCS2/16GB Class 10 con Adaptador SD'
+slug: 'B07YGZHSJS-es Kingston Canvas Select Plus Tarjeta microSD SDCS2/16GB...'
+tags: 
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

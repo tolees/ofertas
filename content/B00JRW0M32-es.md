@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uGr9GVuZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JRW0M32-es Trust Leto - Set de Altavoces  2.0  6 W  alimentados por USB   Negro'
+slug: 'B00JRW0M32-es Trust Leto - Set de Altavoces 2.0 6 W alimentados por USB...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

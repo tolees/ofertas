@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e0rAAjOXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BKA9F4U-es Festina Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable F16907/2'
+slug: 'B01BKA9F4U-es Festina Reloj Analógico para Unisex de Cuarzo con Correa...'
+tags: 
 actualPrice: 34.63 EUR
 currency: EUR
 price: 34.63

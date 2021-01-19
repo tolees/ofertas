@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ub6-Ta8+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJYL6TN-es CLA Ácido Linoleico Conjugado 3000 mg por dosis | 180 perlas de Aceite Vegetal de Cártamo  Suministro para 2 meses  | Para Perder peso  Aumentar la musculatura  Quemar grasa y Adelgazar.'
+slug: 'B07JJYL6TN-es CLA Ácido Linoleico Conjugado 3000 mg por dosis | 180...'
+tags: 
 actualPrice: 14.77 EUR
 currency: EUR
 price: 14.77

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f2hZW4jqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWSRPSW-es KiplingAbanu MultiMujerBolsos bandoleraGris  Curiosity Grey 19x13x8 Centimeters  B x H x T '
+slug: 'B07TWSRPSW-es KiplingAbanu MultiMujerBolsos bandoleraGris Curiosity Grey...'
+tags: 
 actualPrice: 31.28 EUR
 currency: EUR
 price: 31.28

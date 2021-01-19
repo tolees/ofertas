@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yLp9RCU2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WGXF4PT-es Vans Herren Colorblock Tee T - Shirt  Schwarz  Black/athletic Heather   XX-Large'
+slug: 'B06WGXF4PT-es Vans Herren Colorblock Tee T - Shirt Schwarz...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

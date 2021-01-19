@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SRVGorTGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MRH7V4L-es Black Diamond Astro 175 Lampe Frontale  Unisex Adulto  Verde  Dark Olive   Talla única'
+slug: 'B07MRH7V4L-es Black Diamond Astro 175 Lampe Frontale Unisex Adulto Verde...'
+tags: 
 actualPrice: 12.13 EUR
 currency: EUR
 price: 12.13

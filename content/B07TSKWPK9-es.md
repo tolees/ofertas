@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41beUr9-01L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSKWPK9-es KiplingDuo PouchMujerMonederosVerde  Frozen Mint 20x14x1 Centimeters  B x H x T '
+slug: 'B07TSKWPK9-es KiplingDuo PouchMujerMonederosVerde Frozen Mint 20x14x1...'
+tags: 
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

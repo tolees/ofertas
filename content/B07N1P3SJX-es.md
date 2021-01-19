@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4124G2Fd+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1P3SJX-es AH Kalkaire - Blanqueamiento dental - Carbón activo de coco para dientes blancos - Polvo blanqueador - Limpieza de dientes - Blanqueamiento dental - Blanqueamiento de dientes - Dientes blanqueados'
+slug: 'B07N1P3SJX-es AH Kalkaire - Blanqueamiento dental - Carbón activo de...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

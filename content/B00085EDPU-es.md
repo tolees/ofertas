@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eF2OA2WBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00085EDPU-es Dyson Accesorio de Aspirador 908032-09 Flexi Crevice Tool  Cepillo Rincon  500 W  0 Decibelios  ABS  Gris'
+slug: 'B00085EDPU-es Dyson Accesorio de Aspirador 908032-09 Flexi Crevice Tool...'
+tags: 
 actualPrice: 28.87 EUR
 currency: EUR
 price: 28.87

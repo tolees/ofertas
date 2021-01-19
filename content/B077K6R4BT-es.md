@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G3tOUBUjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077K6R4BT-es La Vecina Rubia Pendrive USB 16 GB - con Forma de Pintalabios  Tacto Suave y Correa de Sujección'
+slug: 'B077K6R4BT-es La Vecina Rubia Pendrive USB 16 GB - con Forma de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

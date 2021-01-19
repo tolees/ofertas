@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Imv006FnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B004KSDHKS-es Seiko Reloj Analógico para Hombre de Energía Solar con Correa en Tela SNE095P2'
+slug: 'B004KSDHKS-es Seiko Reloj Analógico para Hombre de Energía Solar con...'
+tags: 
 actualPrice: 101 EUR
 currency: EUR
 price: 101

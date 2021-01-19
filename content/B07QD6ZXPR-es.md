@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dtA7DdpWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD6ZXPR-es Pablosky 590821  Botas Slouch para Niños  Azul  Azul Azul   21 EU'
+slug: 'B07QD6ZXPR-es Pablosky 590821 Botas Slouch para Niños Azul Azul Azul 21 EU'
+tags: 
 actualPrice: 9.41 EUR
 currency: EUR
 price: 9.41

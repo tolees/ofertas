@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416EJgAnSNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC79CV7-es Puma Cali-0 Summer  Zapatillas Unisex Adulto  Azul  Fair Aqua White White   39 EU'
+slug: 'B07DC79CV7-es Puma Cali-0 Summer Zapatillas Unisex Adulto Azul Fair Aqua...'
+tags: 
 actualPrice: 28.29 EUR
 currency: EUR
 price: 28.29

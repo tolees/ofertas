@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D5MGLQ6-es Scitec Nutrition Plant Protien Chocolate Praline - 900 gr'
+tags: 
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

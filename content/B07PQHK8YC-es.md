@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Nz0X-vRVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQHK8YC-es Piz Buin Allergy Protector Solar en Spray  SPF 50+  Protección Muy Alta para Pieles Sensibles - 200 ml'
+slug: 'B07PQHK8YC-es Piz Buin Allergy Protector Solar en Spray SPF 50+...'
+tags: 
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

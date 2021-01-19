@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YEeDNDNhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MD3WDLS-es Crucial Ballistix Sport LT BLS2K16G4D30AESC 3000 MHz  DDR4  DRAM  Memoria Gamer Kit para ordenadores de sobremesa  32 GB  16 GB x 2   CL15  Blanco '
+slug: 'B07MD3WDLS-es Crucial Ballistix Sport LT BLS2K16G4D30AESC 3000 MHz DDR4...'
+tags: 
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

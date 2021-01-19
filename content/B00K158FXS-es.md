@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-G2Rh7BuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K158FXS-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable LTP-1260PD-1BEF'
+slug: 'B00K158FXS-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 29.05 EUR
 currency: EUR
 price: 29.05

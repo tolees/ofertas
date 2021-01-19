@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XnEffiP8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG1V69W-es New Balance FuelCell Propel h  Zapatillas de Running para Hombre  Negro  Black/Lead Black/Lead   49 EU'
+slug: 'B07HG1V69W-es New Balance FuelCell Propel h Zapatillas de Running para...'
+tags: 
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

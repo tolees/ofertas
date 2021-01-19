@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UXJUt3AdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHLZ8QS-es Set De Baberos Bandana Cadenas Chupetes Toallas Bebe Suave Gasas Algodon Para Bebe Recien Nacido Niños Niñas'
+slug: 'B07RHLZ8QS-es Set De Baberos Bandana Cadenas Chupetes Toallas Bebe Suave...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

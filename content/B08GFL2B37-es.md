@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-jDhgimQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GFL2B37-es Auriculares inalámbricos Bluetooth  Auriculares inalámbricos 3D estéreo HD  emparejamiento automático para Llamadas binaurales  con Estuche de Carga portátil para Dispositivos Bluetooth - Blanco'
+slug: 'B08GFL2B37-es Auriculares inalámbricos Bluetooth Auriculares...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZWBucuOOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GKP3LW1-es MAOIMOR Niños Desechables de Filtro de 3 Capas con Pendientes Elásticos  50 Unidades  Dibujos Animados patrón Panda '
+slug: 'B08GKP3LW1-es MAOIMOR Niños Desechables de Filtro de 3 Capas con...'
+tags: 
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

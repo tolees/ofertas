@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eFop7JmAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PBWNQV-es Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mujer  Tour Yellow/Anthracite/ Black   M'
+slug: 'B079PBWNQV-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer Tour...'
+tags: 
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

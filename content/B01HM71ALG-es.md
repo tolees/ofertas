@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y4KrS4VNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HM71ALG-es Ferrari 0830344 Gran Premio - Reloj analógico de pulsera para hombre  cuarzo  correa de silicona '
+slug: 'B01HM71ALG-es Ferrari 0830344 Gran Premio - Reloj analógico de pulsera...'
+tags: 
 actualPrice: 236.36 EUR
 currency: EUR
 price: 236.36

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412IricYVKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXKR4DK-es Testosterona vigorizante  aumento de rendimiento masculino. TESTOFEN + ginseng  zinc y maca. Testosterona natural REGISTRADA y avalada con estudios clínicos. Aumento de potencia sexual. ISO 9001'
+slug: 'B07MXKR4DK-es Testosterona vigorizante aumento de rendimiento masculino....'
+tags: 
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

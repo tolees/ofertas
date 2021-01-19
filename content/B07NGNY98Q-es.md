@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411RPOqqW0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGNY98Q-es MEDION ERAZER P6705 - Portátil gaming 15.6" FullHD  Intel Core i5-8300H  16GB RAM  1TB HDD + 256GB SSD  Nvidia GTX1050Ti-4GB  Windows10  Negro - Teclado QWERTY Español'
+slug: 'B07NGNY98Q-es MEDION ERAZER P6705 - Portátil gaming 15.6" FullHD Intel...'
+tags: 
 actualPrice: 629.99 EUR
 currency: EUR
 price: 629.99

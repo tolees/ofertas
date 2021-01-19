@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fBUbFqrcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0014GUOZK-es Bosch 2 607 002 566 - Set de 12+1 puntas de atornillar Robust Line  M extraduras - 25 mm  12+1tlg.  pack de 13 '
+slug: 'B0014GUOZK-es Bosch 2 607 002 566 - Set de 12+1 puntas de atornillar...'
+tags: 
 actualPrice: 18.96 EUR
 currency: EUR
 price: 18.96

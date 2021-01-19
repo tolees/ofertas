@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cwLcIwxHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGM6NFH-es Inventor EVA II PRO 20 litros/día con R290  Deshumidificador  Secador De Ropa y Deshumidificación Inteligente para Máximo Ahorro de Energía – 2 Años de Garantía'
+slug: 'B07XGM6NFH-es Inventor EVA II PRO 20 litros/día con R290...'
+tags: 
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

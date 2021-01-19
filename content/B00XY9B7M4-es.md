@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u5b7Kf1XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XY9B7M4-es CAMPINGAZ Nuevo CP 250 Cartucho de Gas  Gris  Única'
+slug: 'B00XY9B7M4-es CAMPINGAZ Nuevo CP 250 Cartucho de Gas Gris Única'
+tags: 
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

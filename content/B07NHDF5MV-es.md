@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-+6aLNpfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NHDF5MV-es Adidas Terrex Ax3 Mid GTX W  Zapatillas de Deporte para Mujer  Multicolor  Gricin/Negbás/Mencla 000   43 1/3 EU'
+slug: 'B07NHDF5MV-es Adidas Terrex Ax3 Mid GTX W Zapatillas de Deporte para...'
+tags: 
 actualPrice: 55.31 EUR
 currency: EUR
 price: 55.31

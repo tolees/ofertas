@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SvpBqeI4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UBMO7RY-es HP CF401X 201X Cartucho de Tóner Original de alto rendimiento  1 unidad  cian'
+slug: 'B00UBMO7RY-es HP CF401X 201X Cartucho de Tóner Original de alto...'
+tags: 
 actualPrice: 96.89 EUR
 currency: EUR
 price: 96.89

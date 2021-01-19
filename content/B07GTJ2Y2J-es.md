@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416TbBcjMIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GTJ2Y2J-es 3 M 9312pro10 Máscara para mano lazos  10 unidades '
+slug: 'B07GTJ2Y2J-es 3 M 9312pro10 Máscara para mano lazos 10 unidades'
+tags: 
 actualPrice: 18.09 EUR
 currency: EUR
 price: 18.09

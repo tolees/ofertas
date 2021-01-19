@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+Ge3iCJnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJ66S6C-es Desodorante Mussvital Dermactive Nature Pack 2 Uds x 75ml. Roll-on'
+slug: 'B07BJ66S6C-es Desodorante Mussvital Dermactive Nature Pack 2 Uds x 75ml....'
+tags: 
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

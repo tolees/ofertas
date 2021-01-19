@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41slIiKxS-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGXM8DV-es Salomon SENSIBELT Cinturón PortaBotellas  Incluye Botella de  Unisex Adulto  Negro  600 ml'
+slug: 'B07LGXM8DV-es Salomon SENSIBELT Cinturón PortaBotellas Incluye Botella...'
+tags: 
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

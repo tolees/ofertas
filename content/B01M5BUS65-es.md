@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ogtDXA6LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5BUS65-es JBL E25BT – Auriculares intraurales inalámbricos con micrófono  Batería de hasta 8 horas  Color rojo'
+slug: 'B01M5BUS65-es JBL E25BT – Auriculares intraurales inalámbricos con...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

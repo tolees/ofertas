@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ena3DejxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002ATRPY8-es Navigator Eco-Logical - Papel de impresión 2500 hojas  A4  5 x 500 hojas  75 g/m2 '
+slug: 'B002ATRPY8-es Navigator Eco-Logical - Papel de impresión 2500 hojas A4 5...'
+tags: 
 actualPrice: 23.48 EUR
 currency: EUR
 price: 23.48

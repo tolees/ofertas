@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316GYBBiVfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J3QZ20U-es H2D Professional - Cepillo desenredante para desenredar el cabello H2D-Tangle'
+slug: 'B00J3QZ20U-es H2D Professional - Cepillo desenredante para desenredar el...'
+tags: 
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

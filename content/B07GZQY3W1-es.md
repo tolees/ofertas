@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51r4GFRceXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZQY3W1-es Refrigerador de aire acondicionado  manómetro de presión recargable para R410A R22 R134A R404A.'
+slug: 'B07GZQY3W1-es Refrigerador de aire acondicionado manómetro de presión...'
+tags: 
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

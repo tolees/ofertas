@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lfRPn7vIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NR24K8X-es Versa 15810415 Carro verdulero de Cocina y botellero Rojo de Metal  PVC y Madera con cajones y cestas con 4 Ruedas  82 x 40 x 76 cm'
+slug: 'B07NR24K8X-es Versa 15810415 Carro verdulero de Cocina y botellero Rojo...'
+tags: 
 actualPrice: 53.04 EUR
 currency: EUR
 price: 53.04

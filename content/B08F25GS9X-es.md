@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51N8pFm4sdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F25GS9X-es UniqueMe [3 Pack] Protector de Pantalla para Xiaomi Mi Note 10 / Note 10 Pro/Note 10 Lite  [Instalación sin Agua] [Sin Burbujas] HD Clear TPU Case Friendly Película Flexible de Cobertura Completa'
+slug: 'B08F25GS9X-es UniqueMe [3 Pack] Protector de Pantalla para Xiaomi Mi...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

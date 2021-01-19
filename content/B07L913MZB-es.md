@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OtRtTi3SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L913MZB-es Rubies - Disfraz Oficial de los Vengadores Endgame Thanos  Talla M  Edad 5 – 7  Altura 132 cm'
+slug: 'B07L913MZB-es Rubies - Disfraz Oficial de los Vengadores Endgame Thanos...'
+tags: 
 actualPrice: 28.91 EUR
 currency: EUR
 price: 28.91

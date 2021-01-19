@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M+kDyP+gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BK2VGMH-es Riñonera Running  Riñonera Deportiva Mujer Hombre Impermeable con Correa Elástica Ajustable  Cinturon Running Adecuado para Correr  Fitness  Deportes al Aire Libre  Ciclismo  Viajes  Negro '
+slug: 'B08BK2VGMH-es Riñonera Running Riñonera Deportiva Mujer Hombre...'
+tags: 
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

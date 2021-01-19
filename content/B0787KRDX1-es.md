@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ctip0rmeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0787KRDX1-es Pepe Jeans London Verona W Sequins  Zapatillas Mujer  Rosa  Factory Pink   39 EU'
+slug: 'B0787KRDX1-es Pepe Jeans London Verona W Sequins Zapatillas Mujer Rosa...'
+tags: 
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

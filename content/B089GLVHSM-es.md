@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nSmht8jbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089GLVHSM-es 3.5mm Auriculares Auriculares Auriculares Auriculares Estéreo para iPhone iPod MP3 MP4 PC Tableta Exquisitamente diseñado Duradero Precioso'
+slug: 'B089GLVHSM-es 3.5mm Auriculares Auriculares Auriculares Auriculares...'
+tags: 
 actualPrice: 3.33 EUR
 currency: EUR
 price: 3.33

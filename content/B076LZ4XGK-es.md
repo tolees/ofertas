@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51I8if9HovL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076LZ4XGK-es Diyife Clicker para Adiestramiento Perro  4 Piezas  Multicolor con Correa para la Muñeca para Perro Gato Caballo'
+slug: 'B076LZ4XGK-es Diyife Clicker para Adiestramiento Perro 4 Piezas...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61b1X-L-rFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVWWHS5-es Jojoin Agua Dibujo Pintura 100x100 cm  Alfombra de Agua Doodle para niño  4 Pluma Solo Necesita Llenar de Agua Pura  ect...  Impreso Fórmula Matemática y Respuesta Ejercitar Habilidad Informática'
+slug: 'B07VVWWHS5-es Jojoin Agua Dibujo Pintura 100x100 cm Alfombra de Agua...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

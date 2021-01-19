@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21+uwWbLchL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0149QBQE4-es Corsair MM200 - Alfombrilla de ratón para Juego  Superficie paño  Tela  Tamaño Extendido  Negro'
+slug: 'B0149QBQE4-es Corsair MM200 - Alfombrilla de ratón para Juego Superficie...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417Ub0wrBmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5FBP38-es Stanley 65387 Linterna Led Indestructible De Aluminio 200Lm  Negro/Amarillo  142 x 45.9 mm'
+slug: 'B07S5FBP38-es Stanley 65387 Linterna Led Indestructible De Aluminio...'
+tags: 
 actualPrice: 15.54 EUR
 currency: EUR
 price: 15.54

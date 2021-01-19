@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHMQH4C-es TUBBZ Skyrim Dovahkiin Collectible Duck'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

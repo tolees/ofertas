@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWX386N-es MARTINELLI Mocasín de Piel Pacific 1411'
+tags: 
 actualPrice: 53.82 EUR
 currency: EUR
 price: 53.82

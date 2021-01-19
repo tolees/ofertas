@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418yXjrPlkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083F87QZG-es DC Shoes Snapdripp - Gorra con Ajuste Posterior a Presión - Hombre - One Size'
+slug: 'B083F87QZG-es DC Shoes Snapdripp - Gorra con Ajuste Posterior a Presión...'
+tags: 
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

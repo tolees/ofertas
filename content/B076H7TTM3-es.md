@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B6nWY0NfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076H7TTM3-es Liebeskind Berlin - Piperf8 Core  Mujer Carteras  Beige  Powder Blossom   3x15x11 cm  B x H x T '
+slug: 'B076H7TTM3-es Liebeskind Berlin - Piperf8 Core Mujer Carteras Beige...'
+tags: 
 actualPrice: 72.07 EUR
 currency: EUR
 price: 72.07

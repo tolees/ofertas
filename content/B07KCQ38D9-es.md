@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CecHpM9bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCQ38D9-es Adidas T19 Kn SHO M Pantalones Cortos de Deporte  Hombre  Black/White  XS'
+slug: 'B07KCQ38D9-es Adidas T19 Kn SHO M Pantalones Cortos de Deporte Hombre...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

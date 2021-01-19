@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Az5C43hzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1RHZ6B-es Regalos Originales Hombre Muñequera magnética - Regalo Cumpleaños Padre Carpinteria Herramientas  Cinturón de Herramientas con 15 Imanes para Sujetar Tornillos  Clavos y Brocas Ideal como Regalo'
+slug: 'B07V1RHZ6B-es Regalos Originales Hombre Muñequera magnética - Regalo...'
+tags: 
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

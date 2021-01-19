@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0B2O4P-es Waldhausen Fliegenmaske Premium mit Ohrenschutz'
+tags: 
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

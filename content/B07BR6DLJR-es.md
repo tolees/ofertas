@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lG85MCarL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BR6DLJR-es Levi s Oversized Batwing Beanie Gorro de Punto  Negro  Noir Regular Black 59   única  Talla del Fabricante: UN  para Hombre'
+slug: 'B07BR6DLJR-es Levi s Oversized Batwing Beanie Gorro de Punto Negro Noir...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

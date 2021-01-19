@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s6jAkkRSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZPJ66M-es Hauck Sport Silla de paseo ultra ligera de 5 9kg  sistema de arnés de 5 puntos  respaldo reclinable  plegable  para bebes de 6 meses a 15kg  negro'
+slug: 'B07XZPJ66M-es Hauck Sport Silla de paseo ultra ligera de 5 9kg sistema...'
+tags: 
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

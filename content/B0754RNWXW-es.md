@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bK2NVIddL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0754RNWXW-es Salomon Agile Mid Tight W Mallas 3/4 para Running  Mezcla de sintéticos  Mujer  Negro  S'
+slug: 'B0754RNWXW-es Salomon Agile Mid Tight W Mallas 3/4 para Running Mezcla...'
+tags: 
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

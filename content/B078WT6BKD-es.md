@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jdlFe06dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WT6BKD-es Llave USB 32 GB First Order BB Unit TLJ - Memoria Flash Drive 2.0 Original Star Wars  Tribe FD030712'
+slug: 'B078WT6BKD-es Llave USB 32 GB First Order BB Unit TLJ - Memoria Flash...'
+tags: 
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

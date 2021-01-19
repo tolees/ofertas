@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lNHeFrcZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNBLNZ5-es MIFU Mini Máquinas de coser Portátil Herramienta de Puntada Rápida para Tela Ropa con Set de Costura para Uso de Viaje y Casa'
+slug: 'B08BNBLNZ5-es MIFU Mini Máquinas de coser Portátil Herramienta de...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

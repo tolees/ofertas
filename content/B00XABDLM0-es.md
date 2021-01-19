@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XABDLM0-es Haribo - Pasta Basta Cola - Geles dulces - 200 unidades'
+tags: 
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

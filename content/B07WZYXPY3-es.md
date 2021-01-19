@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LMCZnE0hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZYXPY3-es Ballery Libros Blandos para Bebé  no tóxicos Educación temprana Libro de Tela Desarrollo de Inteligencia Libro de Cognición Aprendizaje y Educación para Bebé Recién Nacido Niños 6 Piezas'
+slug: 'B07WZYXPY3-es Ballery Libros Blandos para Bebé no tóxicos Educación...'
+tags: 
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

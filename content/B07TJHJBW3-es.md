@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51If+whm2SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJHJBW3-es 10 Uniwork Cartuchos de tinta Compatibles para Brother LC223 LC-223 para Brother DCP-J4120DW DCP-J562DW  MFC-J480DW J880DW J4420DW J4625DW J4620DW J5320DW J5620DW J680DW J5720DW J5625DW'
+slug: 'B07TJHJBW3-es 10 Uniwork Cartuchos de tinta Compatibles para Brother...'
+tags: 
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

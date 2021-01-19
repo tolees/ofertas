@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61zx3v9vSOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B42MF7N-es Ravensburger-00.016.099 Puzle Shaped Mickey  Color Amarillo  00.016.099 '
+slug: 'B07B42MF7N-es Ravensburger-00.016.099 Puzle Shaped Mickey Color Amarillo...'
+tags: 
 actualPrice: 21.56 EUR
 currency: EUR
 price: 21.56

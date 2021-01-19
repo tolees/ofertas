@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hIBTlrusL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQGM29H-es Nike Pico 5 TDV  Zapatillas Unisex Niños  Gris  Smoke Grey/Lemon Venom-Laser Blue   27 EU'
+slug: 'B07VQGM29H-es Nike Pico 5 TDV Zapatillas Unisex Niños Gris Smoke...'
+tags: 
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

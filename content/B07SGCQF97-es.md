@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pgWcwusFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGCQF97-es KEXIN 64GB Memoria USB 3.0  2 Pendrives de 64GB Alta Velocidad hasta 80MB/s Memoria Flash Drive USB 3.0  2 Piezas para Computadora de Windows  Mac OS [ Azul Negro]'
+slug: 'B07SGCQF97-es KEXIN 64GB Memoria USB 3.0 2 Pendrives de 64GB Alta...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

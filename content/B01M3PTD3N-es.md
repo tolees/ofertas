@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41adnORCrNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3PTD3N-es Ecus Kids  Colchón de minicuna Ecus Care 80x50 es el colchón de minicuna para bebé Antiasfixia que Ayuda a prevenir La Plagiocefalia'
+slug: 'B01M3PTD3N-es Ecus Kids Colchón de minicuna Ecus Care 80x50 es el...'
+tags: 
 actualPrice: 68.88 EUR
 currency: EUR
 price: 68.88

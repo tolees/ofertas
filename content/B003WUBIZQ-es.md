@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VtD-nX5mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003WUBIZQ-es Case Logic QHDC101K - Estuche compacto para disco duro  color negro'
+slug: 'B003WUBIZQ-es Case Logic QHDC101K - Estuche compacto para disco duro...'
+tags: 
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

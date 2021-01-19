@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F-AIazOHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC1K7QC-es Jack & Jones Jorrafael Sweat Hood Capucha  Rojo  Brick Redslim/Org   XX-Large para Hombre'
+slug: 'B07VC1K7QC-es Jack & Jones Jorrafael Sweat Hood Capucha Rojo Brick...'
+tags: 
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

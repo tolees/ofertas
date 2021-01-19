@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yBrnDj5wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078S1FJT7-es Lentejuelas Portátil - 2 Color Reversible diario de lentejuelas de la Sirenita - Magic - Diario de viaje portátil regalo para niños y adultos'
+slug: 'B078S1FJT7-es Lentejuelas Portátil - 2 Color Reversible diario de...'
+tags: 
 actualPrice: 12.92 EUR
 currency: EUR
 price: 12.92

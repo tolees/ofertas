@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31DmVefEGrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6TWV99-es Tommy Hilfiger Leather Lifestyle Sneaker  Zapatillas para Hombre  Ink Cey  40 EU'
+slug: 'B07N6TWV99-es Tommy Hilfiger Leather Lifestyle Sneaker Zapatillas para...'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

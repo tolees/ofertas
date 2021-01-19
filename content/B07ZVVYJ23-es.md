@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zHmkmdm+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVVYJ23-es Levi s 511 Slim Hemmed Denim Shorts  Rye Short  31 para Hombre'
+slug: 'B07ZVVYJ23-es Levi s 511 Slim Hemmed Denim Shorts Rye Short 31 para Hombre'
+tags: 
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

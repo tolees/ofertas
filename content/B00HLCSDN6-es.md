@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u0hylol7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HLCSDN6-es Vanish Quitamanchas Pretratante alfombras y tapicerías spray – 750ml'
+slug: 'B00HLCSDN6-es Vanish Quitamanchas Pretratante alfombras y tapicerías...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

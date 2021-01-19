@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61CG-fQR+-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX4RZT3-es PLAYMOBIL-Escaladores con Refugio  Multicolor  Sin tañosllaños  9126 '
+slug: 'B01LX4RZT3-es PLAYMOBIL-Escaladores con Refugio Multicolor Sin...'
+tags: 
 actualPrice: 37.51 EUR
 currency: EUR
 price: 37.51

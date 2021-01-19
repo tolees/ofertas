@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Lfylwg5HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYDVNQW-es Tommy Jeans Mujer LOW RISE SKINNY SOPHIE FRSBK Straight Jeans  Negro  Fresno Bk Str 911   W32/L32'
+slug: 'B07JYDVNQW-es Tommy Jeans Mujer LOW RISE SKINNY SOPHIE FRSBK Straight...'
+tags: 
 actualPrice: 54.16 EUR
 currency: EUR
 price: 54.16

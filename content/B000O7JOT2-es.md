@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21fnTzVWsVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000O7JOT2-es Vichy Deo Desodorante Anti-Transpirante Pieles Sensibles Roll-On 48 H - 450 gr'
+slug: 'B000O7JOT2-es Vichy Deo Desodorante Anti-Transpirante Pieles Sensibles...'
+tags: 
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

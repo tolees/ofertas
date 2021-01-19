@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fsGp2qKvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756FGW5S-es Calcetines de Compresión de Algodón Orgánico Pack de 1  Púrpura/Naranja  EU 35-38 '
+slug: 'B0756FGW5S-es Calcetines de Compresión de Algodón Orgánico Pack de 1...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515BTJ+EOvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825WKR6S-es Funda protectora para Moto E6 Plus E6  con anillo de metal  soporte giratorio 360 grados  amortiguación de golpes TPU + PC 2 en 1 E6 rosa'
+slug: 'B0825WKR6S-es Funda protectora para Moto E6 Plus E6 con anillo de metal...'
+tags: 
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

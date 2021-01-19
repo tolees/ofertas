@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QJ2JVW-es Moussel Classique Gel Moussant 900 Ml - 900 ml'
+tags: 
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

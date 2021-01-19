@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7S3IBW-es Timotei Champú Camomila - 400 ml'
+tags: 
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

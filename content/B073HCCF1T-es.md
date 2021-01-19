@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510kUx6aUxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073HCCF1T-es Casio Reloj Analogico para Unisex de Cuarzo con Correa en Acero Inoxidable LTP-E140D-7AEF'
+slug: 'B073HCCF1T-es Casio Reloj Analogico para Unisex de Cuarzo con Correa en...'
+tags: 
 actualPrice: 63.28 EUR
 currency: EUR
 price: 63.28

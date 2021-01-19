@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iwhKX3eaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXQK3Z8-es Lacoste - Polo de Manga Corta para Mujer Fairground Pink  3 dh . 34 EU'
+slug: 'B07RXQK3Z8-es Lacoste - Polo de Manga Corta para Mujer Fairground Pink 3...'
+tags: 
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

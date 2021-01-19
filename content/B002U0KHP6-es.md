@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002U0KHP6-es Casio Reloj para Hombre MTD-1053D-1AVES'
+tags: 
 actualPrice: 47.39 EUR
 currency: EUR
 price: 47.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21Np0XR6fSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PY84ZMV-es Philips MUE4088RT - Bombilla Wi-Fi E27  Led  Controlada de forma inalámbrica  Regulación continua por APP  9 W  Blanco  110X61 mm'
+slug: 'B07PY84ZMV-es Philips MUE4088RT - Bombilla Wi-Fi E27 Led Controlada de...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

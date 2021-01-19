@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sa-4dig8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F0INC6Q-es Philips myBathroom Silk - Lámpara de pared  LED  color gris'
+slug: 'B00F0INC6Q-es Philips myBathroom Silk - Lámpara de pared LED color gris'
+tags: 
 actualPrice: 80.03 EUR
 currency: EUR
 price: 80.03

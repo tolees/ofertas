@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xdgtYs-pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074DWX5HD-es Lorus Reloj Digital para Hombre de Cuarzo con Correa en Silicona R2335LX9'
+slug: 'B074DWX5HD-es Lorus Reloj Digital para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 44.93 EUR
 currency: EUR
 price: 44.93

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TW8Qwo67L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJRNFR4-es RuiDaXiang Casa de muñecas  baño con Muebles  iluminación  Mini muñeca.Juguetes de casa de muñecas para niñas  Baño-Rosado '
+slug: 'B08BJRNFR4-es RuiDaXiang Casa de muñecas baño con Muebles iluminación...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

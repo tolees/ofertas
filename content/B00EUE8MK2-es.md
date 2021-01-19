@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EUE8MK2-es AVÉNE Cicalfate Crema Reparadora de Manos 100 ml'
+tags: 
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

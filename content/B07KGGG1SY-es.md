@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311-UC6gzYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGGG1SY-es Buff Shady Gorra Treck  Mujer  Brindle Browm  S'
+slug: 'B07KGGG1SY-es Buff Shady Gorra Treck Mujer Brindle Browm S'
+tags: 
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

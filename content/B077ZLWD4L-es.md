@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bjFA4Z89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZLWD4L-es Bosch Home and Garden 06008B2000 Tijeras de Podar 3.6 V Integrada  450 Cortes per Carga de Batería  en Blíster  5.4 W'
+slug: 'B077ZLWD4L-es Bosch Home and Garden 06008B2000 Tijeras de Podar 3.6 V...'
+tags: 
 actualPrice: 61.15 EUR
 currency: EUR
 price: 61.15

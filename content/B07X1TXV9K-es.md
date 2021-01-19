@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31k21vrJ68L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1TXV9K-es SIGNATURE PACKAGING Tazas de batido de plástico fuerte con tapas de domos - tazas de batido - ideal para batidos  batidos de leche y bebidas gruesas - 50 paquete de 16 oz'
+slug: 'B07X1TXV9K-es SIGNATURE PACKAGING Tazas de batido de plástico fuerte con...'
+tags: 
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

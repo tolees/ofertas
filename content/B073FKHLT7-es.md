@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RzgTV7FgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073FKHLT7-es Philips SHB4805RG Flite Everlite - Auriculares Bluetooth inalámbricos  Elegante y Plegables  12 Horas de reproducción  Oro Rosa'
+slug: 'B073FKHLT7-es Philips SHB4805RG Flite Everlite - Auriculares Bluetooth...'
+tags: 
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

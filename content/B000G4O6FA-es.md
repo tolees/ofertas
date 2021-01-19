@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yCJHiV79L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000G4O6FA-es Adidas Kaiser 5 Team Botas de fútbol hombre  Multicolor  Negro/Blanco  42 2/3 EU'
+slug: 'B000G4O6FA-es Adidas Kaiser 5 Team Botas de fútbol hombre Multicolor...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

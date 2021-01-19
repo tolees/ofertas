@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412hiKlR-OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087RL7TN4-es RLTech Funda Carcasa para Huawei Matepad 10.4 2020  Silicona TPU Flexible con Soporte Función Funda Protectora Case Cover para Huawei Matepad 10.4 2020  Naranja'
+slug: 'B087RL7TN4-es RLTech Funda Carcasa para Huawei Matepad 10.4 2020...'
+tags: 
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

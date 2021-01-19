@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s+tYHUYpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0085MPIG6-es Lenovo 0A36307 batería Recargable - Batería/Pila Recargable  Notebook/Tablet  5-35 °C  8-95%  Iones de Litio  Negro  Thinkpad '
+slug: 'B0085MPIG6-es Lenovo 0A36307 batería Recargable - Batería/Pila...'
+tags: 
 actualPrice: 78.13 EUR
 currency: EUR
 price: 78.13

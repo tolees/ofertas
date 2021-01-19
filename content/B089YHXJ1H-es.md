@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sKvFeyrBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089YHXJ1H-es Decdeal Piscina de Baño para Mascotas Piscina Plegable PVC Antideslizante y Resistente para Hámster Conejo Animales Pequeños Bebés Recién Nacidos Mascotas'
+slug: 'B089YHXJ1H-es Decdeal Piscina de Baño para Mascotas Piscina Plegable PVC...'
+tags: 
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

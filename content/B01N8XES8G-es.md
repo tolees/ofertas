@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f2j0xnBeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N8XES8G-es UMBRO Speed Chubasquero de Pesca  Hombre  Azul Royal  M'
+slug: 'B01N8XES8G-es UMBRO Speed Chubasquero de Pesca Hombre Azul Royal M'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

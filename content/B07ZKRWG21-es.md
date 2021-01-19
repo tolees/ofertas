@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414lyFiWDEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKRWG21-es CRZ YOGA Mujer Naked Feeling Deportivos 7/8 Leggings Yoga Fitness Pantalon de Cintura Alta con Bolsillos-63cm Ice Flower Multi1-R009 38'
+slug: 'B07ZKRWG21-es CRZ YOGA Mujer Naked Feeling Deportivos 7/8 Leggings Yoga...'
+tags: 
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

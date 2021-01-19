@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FvWal-NJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088M15SYY-es Suhctup Funda Compatible con Xiaomi Redmi Note 6 Transparente Silicona TPU Gel Carcasa Dibujos Flor Crystal Suave Bumper Ultra Delgado [Soporte Carga Inalámbrica] Antigolpes Case Cover Flor 9'
+slug: 'B088M15SYY-es Suhctup Funda Compatible con Xiaomi Redmi Note 6...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

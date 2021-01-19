@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qS4OmAEsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJGN5Z-es Kipling - Multiple  Bolsos bandolera Mujer  Multicolor  Camo Large   20x13x7.5 cm  B x H T '
+slug: 'B07PSJGN5Z-es Kipling - Multiple Bolsos bandolera Mujer Multicolor Camo...'
+tags: 
 actualPrice: 18.37 EUR
 currency: EUR
 price: 18.37

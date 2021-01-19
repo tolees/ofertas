@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31FI%2B2FqwKL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B015QDUEV0-es L Oréal Steampod Styler  Plancha de Pelo - 1810 gr'
+slug: 'B015QDUEV0-es L Oréal Steampod Styler Plancha de Pelo - 1810 gr'
+tags: 
 actualPrice: 150 EUR
 currency: EUR
 price: 150

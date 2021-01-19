@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51g7PDU4OaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QSFM5O0-es Top Race Micro-Drone Quadcopter de 4 canales con ruedas  Fly  Roll y Flip. TR-MQ3'
+slug: 'B00QSFM5O0-es Top Race Micro-Drone Quadcopter de 4 canales con ruedas...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

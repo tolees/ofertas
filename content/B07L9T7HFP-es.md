@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Y-uceIQXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9T7HFP-es Lacoste Carnaby EVO Light-WT 3191 SMA  Zapatillas para Hombre  Blanco White 21g  39.5 EU'
+slug: 'B07L9T7HFP-es Lacoste Carnaby EVO Light-WT 3191 SMA Zapatillas para...'
+tags: 
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

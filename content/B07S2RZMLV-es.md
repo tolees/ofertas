@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BZrmipafL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2RZMLV-es Rowenta Depiladora WET & DRY ELITE EP8002F0 - Sin cable y utilizable bajo el agua  cabezal de 24 pinzas con función masajeadora  autonomía de 40min'
+slug: 'B07S2RZMLV-es Rowenta Depiladora WET & DRY ELITE EP8002F0 - Sin cable y...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

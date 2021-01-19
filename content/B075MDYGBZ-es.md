@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417xrthmeEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MDYGBZ-es LED Superficie del panel Kit de montaje 600x600x50mm Marco blanco'
+slug: 'B075MDYGBZ-es LED Superficie del panel Kit de montaje 600x600x50mm Marco...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

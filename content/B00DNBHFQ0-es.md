@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GRB16AoEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DNBHFQ0-es SELECT Trainigsjacke Ultimate Trainingsjacke - Soft Shell para niño  Color Azul Azul  Talla 16 años  170 cm '
+slug: 'B00DNBHFQ0-es SELECT Trainigsjacke Ultimate Trainingsjacke - Soft Shell...'
+tags: 
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

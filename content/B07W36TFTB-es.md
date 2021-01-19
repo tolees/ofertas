@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41som5vfWTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W36TFTB-es Pepe Jeans Bryan Bañador  Azul  Beat 549   Large para Hombre'
+slug: 'B07W36TFTB-es Pepe Jeans Bryan Bañador Azul Beat 549 Large para Hombre'
+tags: 
 actualPrice: 26.56 EUR
 currency: EUR
 price: 26.56

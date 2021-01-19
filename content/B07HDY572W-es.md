@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rWMUNstRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HDY572W-es CRZ YOGA Mujer Compression Leggings Cintura Alta Deportivos Running Fitness Pantalon con Bolsillo-63cm Azul Marino R424 40'
+slug: 'B07HDY572W-es CRZ YOGA Mujer Compression Leggings Cintura Alta...'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

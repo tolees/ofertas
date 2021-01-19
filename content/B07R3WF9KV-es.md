@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MEAVzYqwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3WF9KV-es JACK & JONES Jfwwalcot Synthetic Suede Navy Blazer  Zapatillas para Hombre  Azul  41 EU'
+slug: 'B07R3WF9KV-es JACK & JONES Jfwwalcot Synthetic Suede Navy Blazer...'
+tags: 
 actualPrice: 18.29 EUR
 currency: EUR
 price: 18.29

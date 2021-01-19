@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ljx348WEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ELUFKTU-es Corsair M65 Pro RGB - Ratón óptico para Juegos  retroiluminación RGB Multicolore  12000 dpi  con Cable   Color Blanco'
+slug: 'B01ELUFKTU-es Corsair M65 Pro RGB - Ratón óptico para Juegos...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

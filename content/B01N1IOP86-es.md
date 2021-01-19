@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eS775WgoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1IOP86-es Life4u 1L/550ml Botella de Cristal con Tapa de Bambú Sin BPA 550 ml'
+slug: 'B01N1IOP86-es Life4u 1L/550ml Botella de Cristal con Tapa de Bambú Sin...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JV8qeEZGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKPKLNK-es Fiambrera de silicona Juego de 4 PCS de Recipientes de Silicona Plegable Silicona Plegable Almacenamiento de Alimentos Plegable de Silicona Recipientes para Alimentos B1-Redondo '
+slug: 'B07PKPKLNK-es Fiambrera de silicona Juego de 4 PCS de Recipientes de...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

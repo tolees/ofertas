@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zb+KiNepL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJL45FQ-es FOHYLOY Eléctrica 3 en 1 Depiladora Cortapelos Recortador de Vello Nariz / Orejas / Ceja Maquinilla de Brows Afeita Reemplazable para Hombre y Mujer Como se ve en la TV'
+slug: 'B07GJL45FQ-es FOHYLOY Eléctrica 3 en 1 Depiladora Cortapelos Recortador...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

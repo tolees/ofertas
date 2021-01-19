@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JhgPtXXjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHYJTRS-es Lacoste Chaymon BL 1 CMA  Zapatillas para Hombre  Azul  Navy/White   44 EU'
+slug: 'B07DHYJTRS-es Lacoste Chaymon BL 1 CMA Zapatillas para Hombre Azul...'
+tags: 
 actualPrice: 83.75 EUR
 currency: EUR
 price: 83.75

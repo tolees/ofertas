@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51K3JqmalCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BP501AS-es Crucial CT2KIT51264BF160BJ Kit de memoria RAM de 8 GB  4 GB x 2   DDR3L  1600 MT/s  PC3L-12800  Single Rank  SODIMM  204-Pin '
+slug: 'B00BP501AS-es Crucial CT2KIT51264BF160BJ Kit de memoria RAM de 8 GB 4 GB...'
+tags: 
 actualPrice: 44.73 EUR
 currency: EUR
 price: 44.73

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CuFzgxQcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F89QQXS-es Seiko Reloj Analogico para Hombre de Automático con Correa en Acero Inoxidable SSA381K1'
+slug: 'B07F89QQXS-es Seiko Reloj Analogico para Hombre de Automático con Correa...'
+tags: 
 actualPrice: 267.14 EUR
 currency: EUR
 price: 267.14

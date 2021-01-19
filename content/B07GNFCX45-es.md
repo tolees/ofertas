@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pflRVK6ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNFCX45-es HyperX Predator - Memoria RAM de 64 GB  DDR4  Kit 4 x 16 GB  3333 MHz  CL16  DIMM XMP  HX433C16PB3K4/64 '
+slug: 'B07GNFCX45-es HyperX Predator - Memoria RAM de 64 GB DDR4 Kit 4 x 16 GB...'
+tags: 
 actualPrice: 321.97 EUR
 currency: EUR
 price: 321.97

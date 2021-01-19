@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uxblcifPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHNT7JT-es ARCTIC Alpine AM4 Series - Procesador Enfriador  Ventilador de PC  Procesador  Enfriador  AMD Socket AM4  92 mm  100-2000 RPM  Aluminio  Negro'
+slug: 'B07PHNT7JT-es ARCTIC Alpine AM4 Series - Procesador Enfriador Ventilador...'
+tags: 
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

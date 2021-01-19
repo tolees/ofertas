@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPSJRT4-es GIGALUMI - Juego de 6 luces colgantes para tarros solares'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418Sz0yxrfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013P0JTX0-es Belkin F2CD079bt - Adaptador de Mini DisplayPort a HDMI  4K  para dispositivos con mini-DP  negro'
+slug: 'B013P0JTX0-es Belkin F2CD079bt - Adaptador de Mini DisplayPort a HDMI 4K...'
+tags: 
 actualPrice: 13.82 EUR
 currency: EUR
 price: 13.82

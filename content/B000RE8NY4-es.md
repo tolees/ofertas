@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21agAG5FKBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RE8NY4-es Brabantia 365249 - Paleta de Corte  Nylon  Color Negro'
+slug: 'B000RE8NY4-es Brabantia 365249 - Paleta de Corte Nylon Color Negro'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

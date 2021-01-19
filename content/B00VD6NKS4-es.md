@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kfAkpWoJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VD6NKS4-es Veopulse Veopulse – Soporte Magnético de Teléfono para Coche –&nbsp Rejilla de ventilación'
+slug: 'B00VD6NKS4-es Veopulse Veopulse – Soporte Magnético de Teléfono para...'
+tags: 
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

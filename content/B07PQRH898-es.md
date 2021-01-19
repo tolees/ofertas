@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mtMpA4iwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQRH898-es Cámaras Espía Oculta HD 1080P 120°Gran Angular Grabadora de mini vídeo Cámara con visión nocturna por infrarrojos/detección de movimiento（No soporta wifi）'
+slug: 'B07PQRH898-es Cámaras Espía Oculta HD 1080P 120°Gran Angular Grabadora...'
+tags: 
 actualPrice: 31.89 EUR
 currency: EUR
 price: 31.89

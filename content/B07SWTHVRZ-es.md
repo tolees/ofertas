@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P1tLqzvSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTHVRZ-es adidas Terrex Agravic Flow GTX W  Zapatillas de Cross para Mujer  Azul  Tech Ink/Glow Blue/Hi/Res Coral Tech Ink/Glow Blue/Hi/Res Coral   38 2/3 EU'
+slug: 'B07SWTHVRZ-es adidas Terrex Agravic Flow GTX W Zapatillas de Cross para...'
+tags: 
 actualPrice: 81.84 EUR
 currency: EUR
 price: 81.84

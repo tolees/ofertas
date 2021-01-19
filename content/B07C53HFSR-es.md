@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/516Y9oXFqyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C53HFSR-es San Ignacio Set de Cuchillos Chuleteros Acero Inoxidable  Negro  6'
+slug: 'B07C53HFSR-es San Ignacio Set de Cuchillos Chuleteros Acero Inoxidable...'
+tags: 
 actualPrice: 14.52 EUR
 currency: EUR
 price: 14.52

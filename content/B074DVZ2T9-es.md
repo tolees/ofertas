@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Bs+QxpUCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074DVZ2T9-es Reposacabezas para coche  apto para tablets de 7 pulgadas  con funda de silicona  de la marca Wanpool'
+slug: 'B074DVZ2T9-es Reposacabezas para coche apto para tablets de 7 pulgadas...'
+tags: 
 actualPrice: 16.3 EUR
 currency: EUR
 price: 16.3

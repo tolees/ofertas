@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mHBybUJKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FX8QW9X-es 3 Pares Calcetines Mujer Hombre Senderismo Calcetines para Trekking Transpirable  Alto Rendimiento Térmicos  Transpirables  Acolchados y Antiampollas  Calcetines de Montaña'
+slug: 'B08FX8QW9X-es 3 Pares Calcetines Mujer Hombre Senderismo Calcetines para...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

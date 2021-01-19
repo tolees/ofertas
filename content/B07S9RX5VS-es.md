@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g2Gb3r4yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9RX5VS-es PUMA Persist XT Knit  Zapatillas Deportivas para Interior para Hombre  Negro Black/High Risk Red  43 EU'
+slug: 'B07S9RX5VS-es PUMA Persist XT Knit Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 25.55 EUR
 currency: EUR
 price: 25.55

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-w8wMxbiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6TKW2K-es Tommy Hilfiger Seasonal Textile Sneaker  Zapatillas para Hombre  Blanco  White Ybs   43 EU'
+slug: 'B07V6TKW2K-es Tommy Hilfiger Seasonal Textile Sneaker Zapatillas para...'
+tags: 
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

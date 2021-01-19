@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Hf4pnri0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWY3DTL-es Skechers D lux Walker  Zapatillas para Hombre  Azul  Black Leather/Mesh/White Trim BKW   39.5 EU'
+slug: 'B07TWY3DTL-es Skechers D lux Walker Zapatillas para Hombre Azul Black...'
+tags: 
 actualPrice: 34.54 EUR
 currency: EUR
 price: 34.54

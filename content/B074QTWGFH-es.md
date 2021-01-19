@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MpPsqt02L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074QTWGFH-es Vans Ultrarange Rapidweld  Zapatillas Unisex Adulto  Negro  Black/White Y28   42 EU'
+slug: 'B074QTWGFH-es Vans Ultrarange Rapidweld Zapatillas Unisex Adulto Negro...'
+tags: 
 actualPrice: 72.98 EUR
 currency: EUR
 price: 72.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Xnifv1KpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XVX27NN-es Cybex Gold 520000545  Sirona S I-Size Silla de Coche Incluye SensorSafe  Negro  Deep Black   de 45 a 105 cm  1'
+slug: 'B07XVX27NN-es Cybex Gold 520000545 Sirona S I-Size Silla de Coche...'
+tags: 
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OAonzSRDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ESZ391K-es Rayen 6151.01 Funda para Tabla de Planchar  Tejido de algodón  Espuma  Gris Claro Metalizado  115x38 cm'
+slug: 'B00ESZ391K-es Rayen 6151.01 Funda para Tabla de Planchar Tejido de...'
+tags: 
 actualPrice: 6.58 EUR
 currency: EUR
 price: 6.58

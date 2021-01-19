@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31taxRBUTdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JNQGN-es Clarks Sheer Flora  Botas Chelsea para Mujer  Negro Black Leather  39.5 EU'
+slug: 'B07N1JNQGN-es Clarks Sheer Flora Botas Chelsea para Mujer Negro Black...'
+tags: 
 actualPrice: 30.02 EUR
 currency: EUR
 price: 30.02

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-Q+YlzDlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYQBDR-es Clarks Jillian Rise  Sandalia con Pulsera para Mujer  Negro  Black Leather Black Leather   36 EU'
+slug: 'B07TPYQBDR-es Clarks Jillian Rise Sandalia con Pulsera para Mujer Negro...'
+tags: 
 actualPrice: 28.68 EUR
 currency: EUR
 price: 28.68

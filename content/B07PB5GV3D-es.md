@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51j2dzob5XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PB5GV3D-es MADE4U [20"] [enmarcado de madera] Kit de pintura por números con pinceles y pinturas'
+slug: 'B07PB5GV3D-es MADE4U [20"] [enmarcado de madera] Kit de pintura por...'
+tags: 
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

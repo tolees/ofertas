@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/610Dw9AVxpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082F2CSQY-es Cobertura de lactancia de algodón Cubiertas de lactancia  mantón de enfermería cubiertas de lactancia  manta de lactancia delantal de lactancia 100% superior bueno  azul cielo 98 * 57 cm  '
+slug: 'B082F2CSQY-es Cobertura de lactancia de algodón Cubiertas de lactancia...'
+tags: 
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

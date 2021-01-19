@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319KmXqRa-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3UWANT-es BabyVip - Body Polo Cuello Alto para niño y niña  Estilo básico  100% algodón  algodón cálido  Ideal para el Invierno - Rojo - 24-36 Meses'
+slug: 'B01N3UWANT-es BabyVip - Body Polo Cuello Alto para niño y niña Estilo...'
+tags: 
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21ew01OU3GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RE3OMA-es Brabantia 363603 Cucharón sopero  Acero Inoxidable  Gris y Negro  0 cm'
+slug: 'B000RE3OMA-es Brabantia 363603 Cucharón sopero Acero Inoxidable Gris y...'
+tags: 
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

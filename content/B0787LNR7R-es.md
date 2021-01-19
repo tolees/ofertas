@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yYm63CTlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0787LNR7R-es Columbia Meadows Slip-on Omni-Heat 3D  Botas de Nieve para Mujer  Beige  Ancient Fossil  Bright Copper 271   41 EU'
+slug: 'B0787LNR7R-es Columbia Meadows Slip-on Omni-Heat 3D Botas de Nieve para...'
+tags: 
 actualPrice: 77.89 EUR
 currency: EUR
 price: 77.89

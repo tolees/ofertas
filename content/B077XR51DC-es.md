@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314htHPmXwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XR51DC-es Lenovo ideapad 520S-14IKB - Ordenador Portátil 14" Full HD  Intel Core i3-7130U  RAM de 4GB  128GB SSD  Intel HD Graphics 620  Windows 10 Home  Bronze - Teclado QWERTY Español'
+slug: 'B077XR51DC-es Lenovo ideapad 520S-14IKB - Ordenador Portátil 14" Full HD...'
+tags: 
 actualPrice: 459.13 EUR
 currency: EUR
 price: 459.13

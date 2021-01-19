@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x4doTLWNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJMGW13-es ADATA SD600Q - Disco Duro Externo de Estado sólido  480 GB   Color Azul'
+slug: 'B07PJMGW13-es ADATA SD600Q - Disco Duro Externo de Estado sólido 480 GB...'
+tags: 
 actualPrice: 55.82 EUR
 currency: EUR
 price: 55.82

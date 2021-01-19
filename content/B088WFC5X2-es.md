@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aOtvBNBwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088WFC5X2-es Oihxse Compatible con Huawei Honor 8 Lite Silicona Funda Transparente Gel TPU Flexible Protectora Carcasa Dibujos Elefante Patrón Ultra Thin Estuche Cover Case D8 '
+slug: 'B088WFC5X2-es Oihxse Compatible con Huawei Honor 8 Lite Silicona Funda...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

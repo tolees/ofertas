@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41w9VIDTgBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082P6FDKX-es Canadian Peak BONETEAK rol Unisex Marino  L '
+slug: 'B082P6FDKX-es Canadian Peak BONETEAK rol Unisex Marino L'
+tags: 
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

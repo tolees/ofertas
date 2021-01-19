@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XtyczXBkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078BJBYLG-es ROSENICE Azulejos de mosaico mezclados para manualidades Cristal Mosaico suministra 10mm 200g'
+slug: 'B078BJBYLG-es ROSENICE Azulejos de mosaico mezclados para manualidades...'
+tags: 
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

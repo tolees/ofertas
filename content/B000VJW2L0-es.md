@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4125fmQyCBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VJW2L0-es Eukanuba Working & Endurance - Comida seca para perros adultos  para perros de trabajo con altas necesidades de energía y nutrientes  para un pico de energía sostenido  15 kg'
+slug: 'B000VJW2L0-es Eukanuba Working & Endurance - Comida seca para perros...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

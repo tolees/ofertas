@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pM4ujlquL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5ZSGYL-es Skechers Sepulveda Blvd-A La Mode  Zapatillas sin Cordones para Mujer  Negro  Black Microfiber/Off White Trim BKW   39 EU'
+slug: 'B07H5ZSGYL-es Skechers Sepulveda Blvd-A La Mode Zapatillas sin Cordones...'
+tags: 
 actualPrice: 36.87 EUR
 currency: EUR
 price: 36.87

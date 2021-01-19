@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316bakw2oJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4MLC4M-es Pop! Avengers Infinity War - Figura de Vinilo Groot with Stormbreaker'
+slug: 'B07G4MLC4M-es Pop! Avengers Infinity War - Figura de Vinilo Groot with...'
+tags: 
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UF5Z76cfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKKZ1BR-es Globo Flotante de levitación magnética gira del mapa del mundo utilizar como decoración del escritorio del hogar o de oficina  un gran regalo que sorprenderá a su familias y amigos  Octágono '
+slug: 'B07HKKZ1BR-es Globo Flotante de levitación magnética gira del mapa del...'
+tags: 
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

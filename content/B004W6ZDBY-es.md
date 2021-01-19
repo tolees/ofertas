@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BKK7anXSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004W6ZDBY-es Babyliss - 3038e - Estuche de 5 rulos términos  tamaño extragrande  40 mm '
+slug: 'B004W6ZDBY-es Babyliss - 3038e - Estuche de 5 rulos términos tamaño...'
+tags: 
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

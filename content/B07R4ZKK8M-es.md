@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4ZKK8M-es Pokèmon Bañador para Niña Pikachu 3 a 4 Años'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

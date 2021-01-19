@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31u2nXhZnGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076G9LYJV-es Pepe Jeans Sloane PM210564 Pantalones  Marrón  Stone 836   33W / 32L para Hombre'
+slug: 'B076G9LYJV-es Pepe Jeans Sloane PM210564 Pantalones Marrón Stone 836 33W...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

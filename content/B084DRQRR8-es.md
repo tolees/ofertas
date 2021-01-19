@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qf1Qva7FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084DRQRR8-es ASUS ROG Zephyrus S GX531GXR-AZ063T - Ordenador portátil Gaming de 15.6" FullHD  Intel Core i7-9750H  24GB RAM  1TB SSD  GeForce RTX 2080-8GB  Windows 10  negro - Teclado QWERTY Español'
+slug: 'B084DRQRR8-es ASUS ROG Zephyrus S GX531GXR-AZ063T - Ordenador portátil...'
+tags: 
 actualPrice: 1999.0 EUR
 currency: EUR
 price: 1999.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31w-4Fn2U+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K3C6GMG-es Legrand  050462 Bases y clavijas - Adaptador de enchufe con una toma de corriente en blanco y gris  potencia máxima de trabajo de 3680W y 16A a 230V'
+slug: 'B00K3C6GMG-es Legrand 050462 Bases y clavijas - Adaptador de enchufe con...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

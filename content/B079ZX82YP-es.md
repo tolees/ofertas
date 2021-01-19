@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hRC8XPdML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZX82YP-es VAIRO Polo Masculino Columns  Blanco  XL '
+slug: 'B079ZX82YP-es VAIRO Polo Masculino Columns Blanco XL'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

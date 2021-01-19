@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mbzaTIHzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M12PKNI-es Guess Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable W0822L2'
+slug: 'B01M12PKNI-es Guess Reloj Análogo clásico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 110.85 EUR
 currency: EUR
 price: 110.85

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nBrcHix7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008HRESU6-es Bosch 2 608 587 009 - Set de 7 brocas fresadoras planas Self Cut Speed - 16; 18; 20; 22; 25; 32 mm  pack de 7 '
+slug: 'B008HRESU6-es Bosch 2 608 587 009 - Set de 7 brocas fresadoras planas...'
+tags: 
 actualPrice: 14.51 EUR
 currency: EUR
 price: 14.51

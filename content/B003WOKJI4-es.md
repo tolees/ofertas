@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417i-V7BrmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003WOKJI4-es Remington Conique Pearl CI95 - Rizador de pelo  Cerámica con Perla  Punta Fría  Digital  Negro'
+slug: 'B003WOKJI4-es Remington Conique Pearl CI95 - Rizador de pelo Cerámica...'
+tags: 
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/516aMr-iu1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072HMFBGM-es Ferplast Espaciosa Jaula para Canarios  periquitos y pájaros exóticos Planeta  con Accesorios y Soporte con Ruedas con repisa portaobjetos  Alambre Pintado Negro y cubeta marrón  97 x 58 x h 173 5 cm'
+slug: 'B072HMFBGM-es Ferplast Espaciosa Jaula para Canarios periquitos y...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

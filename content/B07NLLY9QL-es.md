@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31W2NzlnHeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLLY9QL-es Versace Jeans CouturePortafoglioMujerCarterasRosa  Fuxia  2x12.5x22 centimeters  W x H x L '
+slug: 'B07NLLY9QL-es Versace Jeans CouturePortafoglioMujerCarterasRosa Fuxia...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

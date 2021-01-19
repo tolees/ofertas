@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c8JgmtrcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZK2PFF-es Braun Silk-épil 3 3-410 - Depiladora Eléctrica para mujer con 3 extras  color frambuesa'
+slug: 'B077ZK2PFF-es Braun Silk-épil 3 3-410 - Depiladora Eléctrica para mujer...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

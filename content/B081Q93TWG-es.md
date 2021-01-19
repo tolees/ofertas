@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O53fVzVmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081Q93TWG-es WANSENDA Memoria USB Tipo C 512GB  Unidad Flash USB 3.0 de Doble Puerto & USB C OTG Memory Stick Pendrive para Dispositivos Tipo C Android/Mac/PC'
+slug: 'B081Q93TWG-es WANSENDA Memoria USB Tipo C 512GB Unidad Flash USB 3.0 de...'
+tags: 
 actualPrice: 73.09 EUR
 currency: EUR
 price: 73.09

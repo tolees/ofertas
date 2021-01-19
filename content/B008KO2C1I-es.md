@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008KO2C1I-es Monix VELOCE - Olla a presión rápida de 4 litros'
+tags: 
 actualPrice: 45.19 EUR
 currency: EUR
 price: 45.19

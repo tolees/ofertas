@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aXud+odGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M91WSSL-es adidas Sleek  Zapatillas para Mujer  Color Blanco Footwear White Crystal White 0  38 EU'
+slug: 'B07M91WSSL-es adidas Sleek Zapatillas para Mujer Color Blanco Footwear...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

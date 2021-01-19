@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Bziz+sbAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTPNFXB-es FIND - Fab-mania  Líquido de labios mate n.4 + Brillo de labios n.4 '
+slug: 'B07CTPNFXB-es FIND - Fab-mania Líquido de labios mate n.4 + Brillo de...'
+tags: 
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

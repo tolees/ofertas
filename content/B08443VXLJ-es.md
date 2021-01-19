@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UvRQjfcJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08443VXLJ-es Huawei Matebook D 15 - Ordenador Portátil de 15. 6" FullHD  AMD Ryzen 5 3500u  8gb ram  256gb ssd  Colaboración Multipantalla  Windows 10 Home  Mystic Silver  Teclado QWERTY Español'
+slug: 'B08443VXLJ-es Huawei Matebook D 15 - Ordenador Portátil de 15. 6" FullHD...'
+tags: 
 actualPrice: 471.47 EUR
 currency: EUR
 price: 471.47

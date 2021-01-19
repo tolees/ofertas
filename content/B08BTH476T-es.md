@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412ApTsK7DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BTH476T-es 3pcs Estuche portátil Guarda mascarilla. Bolsa/Caja de Almacenamiento de mascarillas Antipolvo para la prevención de la contaminación. 3 Piezas  no Incluye mascarilla.'
+slug: 'B08BTH476T-es 3pcs Estuche portátil Guarda mascarilla. Bolsa/Caja de...'
+tags: 
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

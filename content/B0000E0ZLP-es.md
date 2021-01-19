@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dRKlGQCgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000E0ZLP-es Zwilling TWIN POLLUX - Juego 3 piezas  puntilla  carne y cebollero'
+slug: 'B0000E0ZLP-es Zwilling TWIN POLLUX - Juego 3 piezas puntilla carne y...'
+tags: 
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

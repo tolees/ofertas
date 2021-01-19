@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fzHFqYlwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QFXHWJ-es Suhctup Funda Compatible con iPhone 11 Pro Carcasa Transparente Dibujo Diseño Flor [Protección Caídas] Ultra-Delgado Flexible Silicona TPU Estuche Cover para iPhone 11 Pro Mandala 3'
+slug: 'B086QFXHWJ-es Suhctup Funda Compatible con iPhone 11 Pro Carcasa...'
+tags: 
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

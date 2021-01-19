@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4147v0MqsWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0842P9DPN-es Panamami 6 Tamaño diferente Forma redonda Práctico Punto de cruz de madera Máquina Anillo de aro de bordado Accesorio de herramienta de costura de bambú'
+slug: 'B0842P9DPN-es Panamami 6 Tamaño diferente Forma redonda Práctico Punto...'
+tags: 
 actualPrice: 4.01 EUR
 currency: EUR
 price: 4.01

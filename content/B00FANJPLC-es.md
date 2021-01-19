@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PjeSs5ceL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FANJPLC-es Cybex Silver - Portabebés Aton  en contra de la marcha  incluye reductor para recién nacido  desde el nacimiento hasta aprox. 18 meses  max. 13 kg  purple rain'
+slug: 'B00FANJPLC-es Cybex Silver - Portabebés Aton en contra de la marcha...'
+tags: 
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FXzvhwlML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AXYLQSC-es Reloj para Hombre  Colección Epoca  Movimiento de Cuarzo  Solo Tiempo con Fecha  en Acero  PVD Oro - R8853118003'
+slug: 'B01AXYLQSC-es Reloj para Hombre Colección Epoca Movimiento de Cuarzo...'
+tags: 
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

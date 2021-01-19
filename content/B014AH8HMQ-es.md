@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319eD10di+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014AH8HMQ-es L Oreal Paris Volume Million Lashes Feline - Mascara  Negro  Feline Black   - 9.2 ml'
+slug: 'B014AH8HMQ-es L Oreal Paris Volume Million Lashes Feline - Mascara Negro...'
+tags: 
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

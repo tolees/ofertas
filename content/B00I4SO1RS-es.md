@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DzXL2p+9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I4SO1RS-es Mobiclinic  Pedalier  Ejercitador de brazos y piernas  Camino'
+slug: 'B00I4SO1RS-es Mobiclinic Pedalier Ejercitador de brazos y piernas Camino'
+tags: 
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

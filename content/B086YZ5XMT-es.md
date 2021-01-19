@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P4whnec-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YZ5XMT-es DeoMeat Cadenas Chupete Clips de Chupete de bebé para niños  4  Que se'
+slug: 'B086YZ5XMT-es DeoMeat Cadenas Chupete Clips de Chupete de bebé para...'
+tags: 
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

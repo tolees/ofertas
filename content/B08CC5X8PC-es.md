@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cauFFJiUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CC5X8PC-es Compatible para Samsung Galaxy Note 10 Lite Silicone Case Flexible Transparente Cristal Suave Ultra Slim TPU Anti-Choque Anti-Scratch Waterproof para Samsung Galaxy Note 10 Lite Carcasa'
+slug: 'B08CC5X8PC-es Compatible para Samsung Galaxy Note 10 Lite Silicone Case...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

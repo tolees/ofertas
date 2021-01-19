@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41setnaieZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVGXYJZ-es Disney Bañador de Dos Piezas para niña Moana Multicolor 3-4 Años'
+slug: 'B07MVGXYJZ-es Disney Bañador de Dos Piezas para niña Moana Multicolor...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

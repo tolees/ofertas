@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419GCFdtsLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPZXQ5D-es Asics Gel-Rocket 9  Zapatillas de Deporte Interior para Mujer  Negro  Black/Silver 002   37 EU'
+slug: 'B07QPZXQ5D-es Asics Gel-Rocket 9 Zapatillas de Deporte Interior para...'
+tags: 
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ruobLxRgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000XULK5Q-es Romika Laser 20002 70 000 - Zapatillas de lona estilo mocasín unisex  Azul  Blau  blau 500    36'
+slug: 'B000XULK5Q-es Romika Laser 20002 70 000 - Zapatillas de lona estilo...'
+tags: 
 actualPrice: 15.36 EUR
 currency: EUR
 price: 15.36

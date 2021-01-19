@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ril9qCLTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXTSP38-es Lacoste Lerond BL 2 CAM  Zapatillas para Hombre  Negro  Black   43 EU'
+slug: 'B01MXTSP38-es Lacoste Lerond BL 2 CAM Zapatillas para Hombre Negro Black...'
+tags: 
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

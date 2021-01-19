@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317z3-4YbPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5L3RJC-es Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Cuero F20254/2'
+slug: 'B01M5L3RJC-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418oD2w-fbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3Z76CD-es Cámara IP HD IP66 Impermeable Cámara Bullet con IR Vision Nocturna Cámara de Seguridad para el Hogar  Bebe  Ancianosal  Aire Libre 1MP 720P '
+slug: 'B07P3Z76CD-es Cámara IP HD IP66 Impermeable Cámara Bullet con IR Vision...'
+tags: 
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318idnfaBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HQ3GKR-es Vogel s WALL 3345 Blanco  Soporte de pared para TV 40 - 65 Pulgadas  Inclinable y Giratorio 180º  Máx 30 kg y con sistema VESA máx. 600x400'
+slug: 'B076HQ3GKR-es Vogel s WALL 3345 Blanco Soporte de pared para TV 40 - 65...'
+tags: 
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

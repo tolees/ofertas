@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JXdFMUIlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0195BLWJW-es Calypso K5698/6 - Reloj de Pulsera Unisex  Plástico  Color Negro'
+slug: 'B0195BLWJW-es Calypso K5698/6 - Reloj de Pulsera Unisex Plástico Color...'
+tags: 
 actualPrice: 23.87 EUR
 currency: EUR
 price: 23.87

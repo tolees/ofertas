@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hqLLACJlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZYS2CZ-es Love MoschinoJc4033pp1aMujerCarteras de mano con asaNegro  Negro 4x16x25 centimeters  W x H x L '
+slug: 'B07RZYS2CZ-es Love MoschinoJc4033pp1aMujerCarteras de mano con asaNegro...'
+tags: 
 actualPrice: 72.98 EUR
 currency: EUR
 price: 72.98

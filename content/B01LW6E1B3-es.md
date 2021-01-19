@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZskniYq5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LW6E1B3-es 5 Pack  Pocketman 1500 Lúmenes CREE XML T6 al aire libre Zoomable Handheld linterna táctica con 5 modos'
+slug: 'B01LW6E1B3-es 5 Pack Pocketman 1500 Lúmenes CREE XML T6 al aire libre...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

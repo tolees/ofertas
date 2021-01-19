@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pIE3-2UoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F2NI0S4-es Bellota 3555 - Tijeras cortacésped  para cortar el césped  tijeras para jardinería'
+slug: 'B00F2NI0S4-es Bellota 3555 - Tijeras cortacésped para cortar el césped...'
+tags: 
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

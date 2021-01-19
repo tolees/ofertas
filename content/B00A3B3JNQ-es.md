@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319sBcuorfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A3B3JNQ-es Essie Esmalte de uñas  color 44  - 13 ml.'
+slug: 'B00A3B3JNQ-es Essie Esmalte de uñas color 44 - 13 ml.'
+tags: 
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

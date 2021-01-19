@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q3moZCOdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017JTHDK4-es Selected SLHSTRAIGHT Paris Pantalones  Gris  Phantom   W36/L32 para Hombre'
+slug: 'B017JTHDK4-es Selected SLHSTRAIGHT Paris Pantalones Gris Phantom W36/L32...'
+tags: 
 actualPrice: 30.56 EUR
 currency: EUR
 price: 30.56

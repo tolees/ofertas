@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31W-xYXgEYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UFS2J06-es WELEDA Leche Corporal de Malva Blanca  1x 200 ml '
+slug: 'B00UFS2J06-es WELEDA Leche Corporal de Malva Blanca 1x 200 ml'
+tags: 
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

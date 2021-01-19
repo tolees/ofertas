@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-BrfZZm6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRG93QT-es Jata Hogar Mod. 773 Balanza de Cocina de Gran precisión  Capacidad 3kg  0 W  3 litros  0 Decibeles  Gris'
+slug: 'B01MRG93QT-es Jata Hogar Mod. 773 Balanza de Cocina de Gran precisión...'
+tags: 
 actualPrice: 18.23 EUR
 currency: EUR
 price: 18.23

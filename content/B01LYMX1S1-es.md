@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZEP-LqwoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYMX1S1-es Mandolina ajustable por Chef  s INSPIRATIONS. Ideal para cortar alimentos  frutas y verduras. Cortador en juliana de grado profesional. Con cepillo de limpieza.Acero inoxidable.'
+slug: 'B01LYMX1S1-es Mandolina ajustable por Chef s INSPIRATIONS. Ideal para...'
+tags: 
 actualPrice: 27.97 EUR
 currency: EUR
 price: 27.97

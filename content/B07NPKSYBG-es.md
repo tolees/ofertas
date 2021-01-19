@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a4v3tRoGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPKSYBG-es Jabra Elite Active 45e – Auriculares Deportivos Bluetooth con Protección Impermeable para Llamadas Inalámbricas y Música  Verde Menta'
+slug: 'B07NPKSYBG-es Jabra Elite Active 45e – Auriculares Deportivos Bluetooth...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

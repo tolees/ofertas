@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WNPyy0kOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKP1PWQ-es Under Armour UA GS Infinity 2  Zapatillas de Running Unisex Niños  Negro  Black 001   39 EU'
+slug: 'B07HKP1PWQ-es Under Armour UA GS Infinity 2 Zapatillas de Running Unisex...'
+tags: 
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DvoifK9iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088D4SCBS-es Suhctup Funda Compatible para iPhone 6+/6S+ Plus Carcasa Transparente Dibujos Animal Suave Silicona TPU Gel Bumper Ultra Pulgada Antigolpes Crystal Clear Protector Piel Case Cover Pereza 5'
+slug: 'B088D4SCBS-es Suhctup Funda Compatible para iPhone 6+/6S+ Plus Carcasa...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411eV8w+JzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK2CXF7-es New Balance Fresh Foam Arishi V3  Zapatillas de Running para Hombre  Gris  Grey Lg3   44 EU'
+slug: 'B07RK2CXF7-es New Balance Fresh Foam Arishi V3 Zapatillas de Running...'
+tags: 
 actualPrice: 48.64 EUR
 currency: EUR
 price: 48.64

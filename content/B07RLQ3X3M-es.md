@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51bUzWy9rUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLQ3X3M-es LEADSTAR Parasol Coche   2 Unidades  Parasol Coche Bebe  Universal Parasol Autoadhesivo Para Proteger del Sol a Bebés Niños y Mascotas  Infantil con UVA Proteccion Reduce Calor  con Bolsa + Pañuelo'
+slug: 'B07RLQ3X3M-es LEADSTAR Parasol Coche 2 Unidades Parasol Coche Bebe...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

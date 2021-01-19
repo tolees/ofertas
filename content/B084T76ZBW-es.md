@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412dK8wX73L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084T76ZBW-es kesoto M10 Timbres Inalambricos para Exterior  Conectar WiFi de Casa y Lograr Intercomunicador Bidireccional Entre Timbre y Teléfono Celular - Plata  Con Jingle Machine'
+slug: 'B084T76ZBW-es kesoto M10 Timbres Inalambricos para Exterior Conectar...'
+tags: 
 actualPrice: 35.19 EUR
 currency: EUR
 price: 35.19

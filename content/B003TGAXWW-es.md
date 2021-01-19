@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vzPIbMR7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003TGAXWW-es Intex - Juego de 6 Cartuchos de Filtro  Tipo de filtración: A '
+slug: 'B003TGAXWW-es Intex - Juego de 6 Cartuchos de Filtro Tipo de filtración: A'
+tags: 
 actualPrice: 17.04 EUR
 currency: EUR
 price: 17.04

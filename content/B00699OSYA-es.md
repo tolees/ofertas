@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NKlAdAkNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00699OSYA-es Lúdilo-678401 Ni si ni no  lúdico  juego de mesa para niños  multicolor  32.5 x 25.7 x 6.1  678401 '
+slug: 'B00699OSYA-es Lúdilo-678401 Ni si ni no lúdico juego de mesa para niños...'
+tags: 
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

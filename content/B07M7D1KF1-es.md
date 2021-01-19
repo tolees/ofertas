@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518jPtaxpLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7D1KF1-es Lifewit 17L Bolsa Térmica Porta Alimentos Bolsa de Compra Reutilizable con 2 Paquetes de Hielo Bolsa de Refrigeración Bolsa de Almuerzo Aislamiento para Aire Libre Senderismo Playa Picnic BBQ Negro'
+slug: 'B07M7D1KF1-es Lifewit 17L Bolsa Térmica Porta Alimentos Bolsa de Compra...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

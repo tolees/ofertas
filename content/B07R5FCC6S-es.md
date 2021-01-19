@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415tQz66u0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5FCC6S-es Pendrive 8GB 3.0 5 Piezas Memorias USB - Metal Aluminio Flash Drive con Llevaro 8 GB Portátil Almacenamiento de Datos Llave USB by Datarm'
+slug: 'B07R5FCC6S-es Pendrive 8GB 3.0 5 Piezas Memorias USB - Metal Aluminio...'
+tags: 
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

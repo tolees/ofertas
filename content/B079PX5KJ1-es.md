@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Yw46U66QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PX5KJ1-es adidas Run tee M T-Shirt  Hombre  Black  L'
+slug: 'B079PX5KJ1-es adidas Run tee M T-Shirt Hombre Black L'
+tags: 
 actualPrice: 15.52 EUR
 currency: EUR
 price: 15.52

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9V5ZPC-es Lacoste Carnaby EVO 319 1 SUI  Zapatillas Unisex Niños  Blanco  White/Green 082   24 EU'
+slug: 'B07L9V5ZPC-es Lacoste Carnaby EVO 319 1 SUI Zapatillas Unisex Niños...'
+tags: 
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

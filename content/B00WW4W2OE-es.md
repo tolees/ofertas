@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OXzGMfafL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WW4W2OE-es Calvin Klein Thong Tanga  Grau  Grey Heather 020   XL para Mujer'
+slug: 'B00WW4W2OE-es Calvin Klein Thong Tanga Grau Grey Heather 020 XL para Mujer'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

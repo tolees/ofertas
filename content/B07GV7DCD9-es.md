@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FSLiz+cSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GV7DCD9-es QUEEN ROSE Almohada de Embarazo con Funda de Lavable  Almohada de Cuerpo Completo en Forma de U para Mujeres Embarazadas  Plush-Azul&Gris '
+slug: 'B07GV7DCD9-es QUEEN ROSE Almohada de Embarazo con Funda de Lavable...'
+tags: 
 actualPrice: 53.79 EUR
 currency: EUR
 price: 53.79

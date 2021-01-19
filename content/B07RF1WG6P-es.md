@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ItCLSptZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RF1WG6P-es Reebok Rush Runner  Zapatillas de Entrenamiento para Niñas  Azul  Indigo/Navy/Pink 0   37 EU'
+slug: 'B07RF1WG6P-es Reebok Rush Runner Zapatillas de Entrenamiento para Niñas...'
+tags: 
 actualPrice: 16.62 EUR
 currency: EUR
 price: 16.62

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4133zZKvROL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVD2XWM-es Ferilinso Funda para Samsung Galaxy M20 Elegante Armadura híbrida Robusta Funda de Doble Capa de Alta Resistencia para PC Duro Caso con Anillo Grip Kickstand para Samsung Galaxy M20  Negro '
+slug: 'B07MVD2XWM-es Ferilinso Funda para Samsung Galaxy M20 Elegante Armadura...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

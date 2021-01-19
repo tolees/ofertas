@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z6GS7v23L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OWGBIO-es adidas Copa Mundial  Zapatillas de Fútbol para Hombre  Negro/Blanco  45 1/3 EU'
+slug: 'B000OWGBIO-es adidas Copa Mundial Zapatillas de Fútbol para Hombre...'
+tags: 
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61X1NGph2-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8Z5QZW-es WERNNSAI Juego Tema Decoración de Fiesta - Set de Party Cubiertos para Jugadores Game Player  Incluye Bolsa de Cubiertos Mantel Platos Tazas Servilletas Pajitas Utensilios para 16 Personas 146 PCS'
+slug: 'B07M8Z5QZW-es WERNNSAI Juego Tema Decoración de Fiesta - Set de Party...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

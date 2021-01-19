@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EDBi0rBpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8Y11RK-es Alpina 295441044/A19 Cortacesped Gasolina BL 410  123 CC  Negro  Ancho de Corte 41 cm  Capacidad de Bolsa 55 L'
+slug: 'B07L8Y11RK-es Alpina 295441044/A19 Cortacesped Gasolina BL 410 123 CC...'
+tags: 
 actualPrice: 69.58 EUR
 currency: EUR
 price: 69.58

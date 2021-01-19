@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51bvju7xzKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD9CQXN-es Smooce Piedras Luminosas  200 Piezas Piedras Decorativas Guijarros  Piedras Decorativas del jardín para Las calzadas Decoración al Aire Libre Tanque de Peces de Acuario Camino Lawn Yard  Color '
+slug: 'B07XD9CQXN-es Smooce Piedras Luminosas 200 Piezas Piedras Decorativas...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

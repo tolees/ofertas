@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vZDm+Nk-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076TBMWBZ-es Skechers Women 12980 Low-Top Trainers  Blue  Navy/Aqua   4 UK   37 EU '
+slug: 'B076TBMWBZ-es Skechers Women 12980 Low-Top Trainers Blue Navy/Aqua 4 UK...'
+tags: 
 actualPrice: 36.6 EUR
 currency: EUR
 price: 36.6

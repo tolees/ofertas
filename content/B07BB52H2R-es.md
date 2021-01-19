@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gmVD7DYOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB52H2R-es Kodak Printomatic - Cámara de impresión instantánea  imprime en Papel Zink 5 x 7.6 cm con respaldo adhesivo  rosado'
+slug: 'B07BB52H2R-es Kodak Printomatic - Cámara de impresión instantánea...'
+tags: 
 actualPrice: 66.93 EUR
 currency: EUR
 price: 66.93

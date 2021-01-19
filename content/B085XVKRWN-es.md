@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4170lN8dL-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XVKRWN-es Vitamina C 1000mg. Vitamina C natural. Complemento Vitamínico útil para mejorar el sistema inmunitario. Reduce el cansancio y la fatiga. Cada bote incluye 90 cápsulas de Vitamina C.'
+slug: 'B085XVKRWN-es Vitamina C 1000mg. Vitamina C natural. Complemento...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MpoTmxqoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNV3MBG-es Under Armour UA Charged Intake 4  Zapatillas de Running para Hombre  Verde  Escape/Halo Gray/Black   42.5 EU'
+slug: 'B07NNV3MBG-es Under Armour UA Charged Intake 4 Zapatillas de Running...'
+tags: 
 actualPrice: 55.48 EUR
 currency: EUR
 price: 55.48

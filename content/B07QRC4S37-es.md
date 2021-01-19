@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417-4p3-rQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QRC4S37-es Fortnite FNT0039 Durrr Burger Felpa '
+slug: 'B07QRC4S37-es Fortnite FNT0039 Durrr Burger Felpa'
+tags: 
 actualPrice: 9.33 EUR
 currency: EUR
 price: 9.33

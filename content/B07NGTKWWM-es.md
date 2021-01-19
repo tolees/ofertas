@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JrWWU1sML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGTKWWM-es Cable guy Buzz Lightyear  soporte de sujeción o carga para mando de consola y/o smartphone de tu personaje favorito con licencia Toy Story 4 de Disney. Producto con licencia oficial. Exquisite Gaming'
+slug: 'B07NGTKWWM-es Cable guy Buzz Lightyear soporte de sujeción o carga para...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

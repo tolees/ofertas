@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PPuN8HwvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B001OBS8W6-es HP C4906AE 940XL Cartucho de Tinta Original de alto rendimiento  1 unidad  negro'
+slug: 'B001OBS8W6-es HP C4906AE 940XL Cartucho de Tinta Original de alto...'
+tags: 
 actualPrice: 33 EUR
 currency: EUR
 price: 33

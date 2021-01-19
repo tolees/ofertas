@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317Eh0XHhgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR9F75W-es Lee Scarlett Jeans  Azul  Dark Ulrich Iy   25W / 29L para Mujer'
+slug: 'B07MR9F75W-es Lee Scarlett Jeans Azul Dark Ulrich Iy 25W / 29L para Mujer'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

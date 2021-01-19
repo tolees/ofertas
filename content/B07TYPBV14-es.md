@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EahNFWcyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYPBV14-es Rodillo de cocina de acero inoxidable  Palo de amasar para panadería pastelería  La mejor fudge  tartas  galletas y pasta! by XENBORG'
+slug: 'B07TYPBV14-es Rodillo de cocina de acero inoxidable Palo de amasar para...'
+tags: 
 actualPrice: 10.62 EUR
 currency: EUR
 price: 10.62

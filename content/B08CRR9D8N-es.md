@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316sd2iQHnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRR9D8N-es Termómetro De Frente  UNTIRE Termómetro Digital con Sensor Infrarrojo  Mide Con Precisión Rapidez Termómetro Infrarrojo Sin Contacto  Adecuado Para Niños  Adultos  Medio Ambiente Objetos'
+slug: 'B08CRR9D8N-es Termómetro De Frente UNTIRE Termómetro Digital con Sensor...'
+tags: 
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o5t2DjdrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G7C5B6B-es MSI WT75 8SM-011ES - Ordenador portátil de 17.3" UHD  Intel Core i7-8700  32 GB RAM  512GB SDD + 1TB HDD  Nvidia Quadro P5200-16GB   Windows 10 Pro  Negro - Teclado QWERTY Español'
+slug: 'B07G7C5B6B-es MSI WT75 8SM-011ES - Ordenador portátil de 17.3" UHD Intel...'
+tags: 
 actualPrice: 2999.99 EUR
 currency: EUR
 price: 2999.99

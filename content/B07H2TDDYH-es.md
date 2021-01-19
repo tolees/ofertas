@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51plHGRde9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2TDDYH-es vidaXL Alfombra Redonda 90cm Yute Trenzado Decoración Casa y Hogar Moquetas'
+slug: 'B07H2TDDYH-es vidaXL Alfombra Redonda 90cm Yute Trenzado Decoración Casa...'
+tags: 
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

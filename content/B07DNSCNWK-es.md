@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41taTJFtwiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNSCNWK-es Mars Gaming MH318 - Auriculares gaming  surround 7.1  iluminación RGB Flow  diadema de suspensión  drivers neodimio 50mm  tecnología SENSUS  micrófono de perfil bajo  color negro'
+slug: 'B07DNSCNWK-es Mars Gaming MH318 - Auriculares gaming surround 7.1...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

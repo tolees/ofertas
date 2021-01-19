@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4192eyJ7LSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W9OYBPU-es Calvin Klein Radiant Cotton-Thong Tanga  Negro  Small para Mujer'
+slug: 'B00W9OYBPU-es Calvin Klein Radiant Cotton-Thong Tanga Negro Small para...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

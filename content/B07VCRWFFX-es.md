@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410+UyU4HYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCRWFFX-es 6 Piezas Étnico Tribal Pulsera Pulseras Cuero para Hombre Mujer Amistad Trenzado Manual De Bohemia De Madera del Grano Pulseras Etnica Tibetana Ajustable Cáñamo Pulseras Hombres Mujeres Unisex'
+slug: 'B07VCRWFFX-es 6 Piezas Étnico Tribal Pulsera Pulseras Cuero para Hombre...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

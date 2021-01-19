@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515oWckaviL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NFW6BZ8-es Hauck Sleep N Play Center - Cuna de viaje 7 piezas hasta 15 kg  altura recién nacido  con apertura lateral  ruedas  colchón  cambiador bebe  bolsa de transporte  plegable y regulable  negro'
+slug: 'B00NFW6BZ8-es Hauck Sleep N Play Center - Cuna de viaje 7 piezas hasta...'
+tags: 
 actualPrice: 63.68 EUR
 currency: EUR
 price: 63.68

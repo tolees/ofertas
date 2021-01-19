@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51gYx1htqQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV71RDG-es Ferilinso Funda para Samsung Galaxy M20  Ultra [Slim Thin] Resistente a los arañazos TPU Caucho Piel Suave Silicona Funda Protectora para Samsung Galaxy M20  Transparente '
+slug: 'B07MV71RDG-es Ferilinso Funda para Samsung Galaxy M20 Ultra [Slim Thin]...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

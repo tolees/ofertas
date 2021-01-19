@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uKTobSusL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075L8JPSV-es Memoria USB 2.0 128 MB 10 Piezas Mini Pendrives - Mini Pen Drive Almacenamiento de Datos Externo Unidad Flash USB - Pequeña Capacidad Práctico Metal Portátil USB 2.0 Flash Drive Rojo de Datarm'
+slug: 'B075L8JPSV-es Memoria USB 2.0 128 MB 10 Piezas Mini Pendrives - Mini Pen...'
+tags: 
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

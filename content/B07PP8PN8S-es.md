@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PP8PN8S-es The Blues'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

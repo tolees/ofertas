@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418smaBYNXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5TLRQD-es American Tourister Jetglam Spinner M Expandible Maleta  67 cm  77.5 L  Azul  Metallic Blue '
+slug: 'B07P5TLRQD-es American Tourister Jetglam Spinner M Expandible Maleta 67...'
+tags: 
 actualPrice: 95.56 EUR
 currency: EUR
 price: 95.56

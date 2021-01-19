@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51glO73q5oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WGA70WS-es Plantillas de Talón Correctoras de Postura tipo Almohadilla de Gel – Plantillas de Talón en Gel con Ángulo Corrector de Pronación y Supinación - Plantillas Ortopédicas para Fascitis Plantar  42-48 '
+slug: 'B00WGA70WS-es Plantillas de Talón Correctoras de Postura tipo...'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

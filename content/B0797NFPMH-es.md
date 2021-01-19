@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ObGNd5ywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797NFPMH-es Avengers - Disfraz de Thor oficial Infinity Wars para niños  infantil 5-7 años  Rubie s 641311-M '
+slug: 'B0797NFPMH-es Avengers - Disfraz de Thor oficial Infinity Wars para...'
+tags: 
 actualPrice: 16.54 EUR
 currency: EUR
 price: 16.54

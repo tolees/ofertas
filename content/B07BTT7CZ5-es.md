@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YPwU-wnGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BTT7CZ5-es Bebé Saco de dormir Con Cremallera Piernas Separadas Mangas Extraíbles 1.5 Tog Manzana Rosa L'
+slug: 'B07BTT7CZ5-es Bebé Saco de dormir Con Cremallera Piernas Separadas...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xn4obPPAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L37KCSW-es Aceite de Krill | Krill puro + EPA + DHA + astaxantina | Mejora y controla el colesterol y triglicéridos | Potente antioxidante | Beneficioso para la piel  la vista y la salud celular | 60 perlas'
+slug: 'B07L37KCSW-es Aceite de Krill | Krill puro + EPA + DHA + astaxantina |...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

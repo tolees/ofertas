@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51c7omNzcZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKJHZ5F-es Hollylife Bandeja Extraible de Papel para Oficina  Organizador de Escritorio de Rejilla con Bandeja Triple  Gran Tamaño para A4 Papel  Documentos  y Material de Oficina  Plateado '
+slug: 'B07ZKJHZ5F-es Hollylife Bandeja Extraible de Papel para Oficina...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

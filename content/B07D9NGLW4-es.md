@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51O1rpkncAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9NGLW4-es Cerdá-2400000410 Paraguas  Color  Rosa 001   One Size  Tamaño del Fabricante:Única   2400000410-001 '
+slug: 'B07D9NGLW4-es Cerdá-2400000410 Paraguas Color Rosa 001 One Size Tamaño...'
+tags: 
 actualPrice: 5.1 EUR
 currency: EUR
 price: 5.1

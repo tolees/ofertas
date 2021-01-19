@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dbiwNvL4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CP4SKME-es Portobello 2.5267 Gin No. 171  70cl'
+slug: 'B00CP4SKME-es Portobello 2.5267 Gin No. 171 70cl'
+tags: 
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31V+AklJRXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRDV6Q3-es Fa Desodorante Spray Limones del Caribe - 48h de protección - 2 uds de 200ml - Anti Manchas Blancas'
+slug: 'B07NRDV6Q3-es Fa Desodorante Spray Limones del Caribe - 48h de...'
+tags: 
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

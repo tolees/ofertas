@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eMoS4AcqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SK81HB-es FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalon Deportivo Alta Cintura Yoga Elásticos Fitness Seamless #2 Gris Claro Medium'
+slug: 'B081SK81HB-es FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalon...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

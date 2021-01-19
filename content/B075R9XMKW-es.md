@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kevMcmY7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R9XMKW-es Dymatize Super Mass Gainer Rich Chocolate 2 9kg - Polvo Para Ganar Peso + Carbohidratos  BCAA y Caseína'
+slug: 'B075R9XMKW-es Dymatize Super Mass Gainer Rich Chocolate 2 9kg - Polvo...'
+tags: 
 actualPrice: 25.79 EUR
 currency: EUR
 price: 25.79

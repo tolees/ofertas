@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hKRskAU7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJ2J95Z-es UGG W Classic Short Rubber Logo  Botas para Mujer  Marrón  Chestnut Che   36 EU'
+slug: 'B07MJ2J95Z-es UGG W Classic Short Rubber Logo Botas para Mujer Marrón...'
+tags: 
 actualPrice: 92.39 EUR
 currency: EUR
 price: 92.39

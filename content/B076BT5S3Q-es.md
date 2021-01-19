@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oxnHqSV1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076BT5S3Q-es La Ormiga Cuadros Marino Conjunto de Ropa  Bebé-Niños  Azul  Marino   80  Tamaño del Fabricante:12M '
+slug: 'B076BT5S3Q-es La Ormiga Cuadros Marino Conjunto de Ropa Bebé-Niños Azul...'
+tags: 
 actualPrice: 10.44 EUR
 currency: EUR
 price: 10.44

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DpxAcs98L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JL2GVH-es FOGAWA 50 PCS Papiroflexia 50 Colores Creativo Origami para Niños de Color de Doble Cara Papel Origami Flor Origami 20x20cm Para Proyectos de Arte y Manualidades - Juego de Origami Animado'
+slug: 'B087JL2GVH-es FOGAWA 50 PCS Papiroflexia 50 Colores Creativo Origami...'
+tags: 
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

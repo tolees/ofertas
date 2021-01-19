@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M49eMjGdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQPX5Q-es Pepe Jeans London Sinyu New Block  Zapatillas para Mujer   White 800   40 EU'
+slug: 'B07MZQPX5Q-es Pepe Jeans London Sinyu New Block Zapatillas para Mujer...'
+tags: 
 actualPrice: 35.54 EUR
 currency: EUR
 price: 35.54

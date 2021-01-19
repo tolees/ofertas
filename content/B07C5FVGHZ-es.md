@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lIAV5icNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5FVGHZ-es Polaroid Originals - 9009 - Nuevo One Step 2 ViewFinder - Cámaras Instantáneas i-Type - Negro'
+slug: 'B07C5FVGHZ-es Polaroid Originals - 9009 - Nuevo One Step 2 ViewFinder -...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

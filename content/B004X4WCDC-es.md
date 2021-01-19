@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mrIhjI6PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004X4WCDC-es Great Gizmos Green Creativity - Juego de creación de Cuentas de Papel'
+slug: 'B004X4WCDC-es Great Gizmos Green Creativity - Juego de creación de...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

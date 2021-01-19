@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tuRU4gZ6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082GDN95Z-es Pgige Funda Universal de 7 Pulgadas con patrón de Cristal Funda Protectora Universal Tableta Funda de Cuero Universal - Negro'
+slug: 'B082GDN95Z-es Pgige Funda Universal de 7 Pulgadas con patrón de Cristal...'
+tags: 
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

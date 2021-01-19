@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517-JHz36oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ5S94N-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable MTS-100D-2AVEF'
+slug: 'B07NJ5S94N-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

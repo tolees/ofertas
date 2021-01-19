@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bto3+erhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC6T83P-es Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Morado  Indigo White   37.5 EU'
+slug: 'B07DC6T83P-es Puma Basket Heart Patent Wn s Zapatillas para Mujer Morado...'
+tags: 
 actualPrice: 38.55 EUR
 currency: EUR
 price: 38.55

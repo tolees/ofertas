@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CyY3Jtu0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DNA3EIY-es Terry - Armario plástico exterior  89.7 x 53.7 x 180 cm'
+slug: 'B00DNA3EIY-es Terry - Armario plástico exterior 89.7 x 53.7 x 180 cm'
+tags: 
 actualPrice: 90.3 EUR
 currency: EUR
 price: 90.3

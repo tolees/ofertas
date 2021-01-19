@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31iDxmi3nRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3FTPWB-es Tommy Hilfiger Core Thick Textile Sneaker  Zapatillas para Hombre  Azul  Midnight 403   42 EU'
+slug: 'B07L3FTPWB-es Tommy Hilfiger Core Thick Textile Sneaker Zapatillas para...'
+tags: 
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

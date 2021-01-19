@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B7taK7v7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BBV08FE-es Conceptronic CNBCOMLOCK18 - Candado de Seguridad para Ordenador portátil  1.8 Metros '
+slug: 'B00BBV08FE-es Conceptronic CNBCOMLOCK18 - Candado de Seguridad para...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

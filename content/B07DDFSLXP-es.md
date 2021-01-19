@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wESKRj2AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDFSLXP-es New Soul Protector de Asientos de Coche para Bebé Universal Antideslizante Impermeable Funda para Asiento de Coche Base Schoner en Forma Universal Dispositivo  1pc '
+slug: 'B07DDFSLXP-es New Soul Protector de Asientos de Coche para Bebé...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

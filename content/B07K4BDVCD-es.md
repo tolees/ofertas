@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yMX3NNW7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4BDVCD-es Exfoliante corporal PraNaturals de Sal rosada del Himalaya 500g  rico en vitaminas y minerales nutritivos  elimina las células cutáneas muertas y rejuvenece la piel  apto para todo tipo de piel.'
+slug: 'B07K4BDVCD-es Exfoliante corporal PraNaturals de Sal rosada del Himalaya...'
+tags: 
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

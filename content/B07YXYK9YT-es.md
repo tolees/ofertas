@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gzbdzUG9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXYK9YT-es GEARGO Corrector de Postura  Ajustar el Peso de la Espalda para Hombre Mujer  Mejorar Postura Espalda y Hombros Posture Corrector Incluye 2X Soportes para Hombreras'
+slug: 'B07YXYK9YT-es GEARGO Corrector de Postura Ajustar el Peso de la Espalda...'
+tags: 
 actualPrice: 6.07 EUR
 currency: EUR
 price: 6.07

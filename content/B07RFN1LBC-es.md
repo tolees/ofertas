@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412SjfvzBfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFN1LBC-es Salomon Alphacross  Zapatillas de Trail Running para Hombre  Beige  Bleached Sand/Vanilla Ice/White   43 1/3 EU'
+slug: 'B07RFN1LBC-es Salomon Alphacross Zapatillas de Trail Running para Hombre...'
+tags: 
 actualPrice: 37.66 EUR
 currency: EUR
 price: 37.66

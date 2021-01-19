@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31C5tKo1PrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCQG127-es Roberto Verino  Agua fresca - 75 ml.'
+slug: 'B06XCQG127-es Roberto Verino Agua fresca - 75 ml.'
+tags: 
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

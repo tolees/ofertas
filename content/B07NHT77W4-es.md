@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xdUh3xsHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NHT77W4-es Jack & Jones Jcobullhead Crew Neck suéter  Multicolor  Cherry Tomato Fit: Knit Fit   Medium para Hombre'
+slug: 'B07NHT77W4-es Jack & Jones Jcobullhead Crew Neck suéter Multicolor...'
+tags: 
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

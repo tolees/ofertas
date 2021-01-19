@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aY6Low4DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082LLS3PL-es Medisana IN 520 Inhalador portátil para viajes  nebulizador de compresor con boquilla y máscara para adultos y niños  para resfriados o asma con amplios accesorios'
+slug: 'B082LLS3PL-es Medisana IN 520 Inhalador portátil para viajes nebulizador...'
+tags: 
 actualPrice: 46.17 EUR
 currency: EUR
 price: 46.17

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+8iVgJFrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2NMT8G-es BRIKSMAX Kit de Iluminación Led para The Big Bang Theory-Compatible con Ladrillos de Construcción Lego Modelo 21302-Juego de Legos no Incluido'
+slug: 'B07N2NMT8G-es BRIKSMAX Kit de Iluminación Led para The Big Bang Theory-...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+ilCLW5LL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D1JQ2YY-es Croci C5055478 Guinz; flexi Giant Prof. 10m  L  Neon'
+slug: 'B01D1JQ2YY-es Croci C5055478 Guinz; flexi Giant Prof. 10m L Neon'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

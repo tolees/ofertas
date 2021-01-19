@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h1RkRvAyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M7RW8MS-es Jata TT610 Tostador Acero Inoxidable Tostador De Cuerpo De Dos Ranuras De 250 mm De Largo Y 30 mm De Ancho Centrado Automático Del Pan Bandeja Recogemigas'
+slug: 'B01M7RW8MS-es Jata TT610 Tostador Acero Inoxidable Tostador De Cuerpo De...'
+tags: 
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

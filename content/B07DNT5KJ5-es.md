@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511GmVL+SWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNT5KJ5-es [Paquete de 2] Surface Laptop 3/ Laptop 2 Protector de Pantalla [Vidrio Templado]  [Tacto Suave] [Respuesta rápida] [Anti-Scratch]-13.5 Pulgadas'
+slug: 'B07DNT5KJ5-es [Paquete de 2] Surface Laptop 3/ Laptop 2 Protector de...'
+tags: 
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

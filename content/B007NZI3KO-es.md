@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319EUpMt5AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007NZI3KO-es Suavinex – Crema antiestrías para embarazadas. Previene La Formación de estrías y Potencia la Elasticidad. Apta para pieles Sensibles. con Olor Agradable. 89% Ingredientes de Origen Natural  500ml'
+slug: 'B007NZI3KO-es Suavinex – Crema antiestrías para embarazadas. Previene La...'
+tags: 
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

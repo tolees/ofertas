@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31myW5VcXaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8S46HX-es Samsung - Funda de silicona para Galaxy Note 9  color negro- Version española'
+slug: 'B07F8S46HX-es Samsung - Funda de silicona para Galaxy Note 9 color...'
+tags: 
 actualPrice: 4.97 EUR
 currency: EUR
 price: 4.97

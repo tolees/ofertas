@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61PQKqOsaLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078THK9WD-es Edge Entertainment- Arcadia Quest: Infierno - Español  Edge Entertaiment EECMAQ18 '
+slug: 'B078THK9WD-es Edge Entertainment- Arcadia Quest: Infierno - Español Edge...'
+tags: 
 actualPrice: 74.96 EUR
 currency: EUR
 price: 74.96

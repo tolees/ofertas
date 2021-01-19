@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510oWl-LUtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6VSXDC-es Office Ink Toner 14 Piezas Reemplazo para Canon PGI-570XL CLI-571XL Cartuchos de tinta compatible para Canon MG5750 TS5050 MG5751 MG5753 MG6850 MG6851 MG6852 TS5053 TS5053 TS5055 TS6050 TS6051 6052'
+slug: 'B07P6VSXDC-es Office Ink Toner 14 Piezas Reemplazo para Canon PGI-570XL...'
+tags: 
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

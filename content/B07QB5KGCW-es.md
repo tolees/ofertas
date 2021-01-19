@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NApGi7TvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB5KGCW-es Laelr Ventilador de Mesa USB Mini Ventilador de Mesa con Doble Cuchillas Turbo 2 velocidades Whisper Quiet Cyclone Air para el hogar  Oficina  Viajes al Aire Libre'
+slug: 'B07QB5KGCW-es Laelr Ventilador de Mesa USB Mini Ventilador de Mesa con...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

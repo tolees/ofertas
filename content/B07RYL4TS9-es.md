@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bD6dzCmsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYL4TS9-es New Balance 373v2 n  Zapatillas para Mujer  Blanco  White/Purple Gw   39 EU'
+slug: 'B07RYL4TS9-es New Balance 373v2 n Zapatillas para Mujer Blanco...'
+tags: 
 actualPrice: 25.96 EUR
 currency: EUR
 price: 25.96

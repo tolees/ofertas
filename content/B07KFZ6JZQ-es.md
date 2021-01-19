@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ywu8Y7i8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZ6JZQ-es PUMA Carina Lux L  Zapatillas para Mujer  White White  41 EU'
+slug: 'B07KFZ6JZQ-es PUMA Carina Lux L Zapatillas para Mujer White White 41 EU'
+tags: 
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

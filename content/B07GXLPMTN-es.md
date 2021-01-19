@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B40gX8Z6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXLPMTN-es Adidas Falcon W  Sneaker Womens  Footwear White/Footwear White/Crystal White  41 1/3 EU'
+slug: 'B07GXLPMTN-es Adidas Falcon W Sneaker Womens Footwear White/Footwear...'
+tags: 
 actualPrice: 69.55 EUR
 currency: EUR
 price: 69.55

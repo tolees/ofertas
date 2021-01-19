@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RUrzncEqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5G1JOR-es Lampara Led Uñas SUNUV 48W  Secador de Uñas UV Led Curado Esmalte Gel con Temporizador en Hogar de Nivel de Salón SUN2C'
+slug: 'B01N5G1JOR-es Lampara Led Uñas SUNUV 48W Secador de Uñas UV Led Curado...'
+tags: 
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

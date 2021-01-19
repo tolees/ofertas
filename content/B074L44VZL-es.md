@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kci3Kw7jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074L44VZL-es SELECTED HOMME Shhoneluca St Pants Noos Pantalones  Azul  Vintage Indigo   W33/L34  Talla del Fabricante: 33  para Hombre'
+slug: 'B074L44VZL-es SELECTED HOMME Shhoneluca St Pants Noos Pantalones Azul...'
+tags: 
 actualPrice: 21.57 EUR
 currency: EUR
 price: 21.57

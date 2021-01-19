@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lz6WAbqOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZJHJ38-es ghd curve soft curl - Tenacilla profesional 32mm para crear rizos y ondas naturales  tecnología ultra-zone  color negro'
+slug: 'B083ZJHJ38-es ghd curve soft curl - Tenacilla profesional 32mm para...'
+tags: 
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

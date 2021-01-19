@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Nj3oYRwBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNW8KXR-es Varlion LW Carbon Ti roja Palas  Adultos Unisex  Rojo  360-365 gr'
+slug: 'B07YNW8KXR-es Varlion LW Carbon Ti roja Palas Adultos Unisex Rojo...'
+tags: 
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

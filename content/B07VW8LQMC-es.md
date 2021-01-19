@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31phtygK9UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VW8LQMC-es Bugatti 311450074141  Zapatillas para Hombre  Marrón  Mid-Brown/Blue 6440   41 EU'
+slug: 'B07VW8LQMC-es Bugatti 311450074141 Zapatillas para Hombre Marrón Mid-...'
+tags: 
 actualPrice: 29.13 EUR
 currency: EUR
 price: 29.13

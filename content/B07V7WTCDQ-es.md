@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xGTTlvbLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7WTCDQ-es Love MoschinoJc4239pp0aMujerCarteras de manoNegro  Black 10x15x24 Centimeters  W x H x L '
+slug: 'B07V7WTCDQ-es Love MoschinoJc4239pp0aMujerCarteras de manoNegro Black...'
+tags: 
 actualPrice: 102.79 EUR
 currency: EUR
 price: 102.79

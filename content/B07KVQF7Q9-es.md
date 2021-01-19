@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k+BcY9YiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KVQF7Q9-es FITUEYES Cristal Soporte de Monitor de Portátil Elevador de Monitor DT103804GC'
+slug: 'B07KVQF7Q9-es FITUEYES Cristal Soporte de Monitor de Portátil Elevador...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

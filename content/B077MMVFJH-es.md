@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k26gXY0cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MMVFJH-es PUMA Smash V2  Zapatillas Unisex-Adulto  Negro Black Black  39 EU'
+slug: 'B077MMVFJH-es PUMA Smash V2 Zapatillas Unisex-Adulto Negro Black Black...'
+tags: 
 actualPrice: 25.74 EUR
 currency: EUR
 price: 25.74

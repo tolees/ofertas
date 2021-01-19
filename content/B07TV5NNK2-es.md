@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EJRJAX3UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV5NNK2-es 24x Gris Cromo Plateado Lámina impresa 2d PEGATINAS lisas para pegar sobre azulejos cuadrados de 15cm en cocina  baños – resistentes al agua y aceite'
+slug: 'B07TV5NNK2-es 24x Gris Cromo Plateado Lámina impresa 2d PEGATINAS lisas...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NjdbtVPiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HRQBKN-es adidas CORE18 tee T-Shirt  Hombre  Black/White  XS'
+slug: 'B076HRQBKN-es adidas CORE18 tee T-Shirt Hombre Black/White XS'
+tags: 
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

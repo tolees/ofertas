@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cB8THeiML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087RH7VGB-es Leepesx Termómetro infrarrojo digital Medidor de temperatura Objeto Dispositivo de medición de temperatura sin contacto 4 Modos de configuración 99 Memorias ℃ y ℉ Conmutable'
+slug: 'B087RH7VGB-es Leepesx Termómetro infrarrojo digital Medidor de...'
+tags: 
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

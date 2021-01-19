@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JEFhuJgOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYQD1W6-es Funko- Pop Disney: Onward-Dad Collectible Toy  Multicolor  45585 '
+slug: 'B07TYQD1W6-es Funko- Pop Disney: Onward-Dad Collectible Toy Multicolor...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

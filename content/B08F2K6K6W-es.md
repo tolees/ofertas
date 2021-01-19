@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GsTw9DFdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F2K6K6W-es Auriculares Bluetooth 5.0  Auriculares inalámbricos  Control táctil  micrófono Incorporado y Caja de Carga  reducción de Ruido estéreo 3D HD  Adecuado para Android/iPhone/AirPods/Samsung'
+slug: 'B08F2K6K6W-es Auriculares Bluetooth 5.0 Auriculares inalámbricos Control...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

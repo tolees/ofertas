@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lBfuXIEYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHYZ9P2-es Levi s Pillsbury  Zapatillas para Hombre  Blanco  R White 51   41 EU'
+slug: 'B07SHYZ9P2-es Levi s Pillsbury Zapatillas para Hombre Blanco R White 51...'
+tags: 
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

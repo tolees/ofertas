@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ntCujDNzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WR99QZ4-es Boao 35 Piezas Decoraciones de Fiesta de Música Rock and Roll de los Años 50 Recorte de Registro Letreros de Decoración de Paredes para Artículos de Fiestas Temáticas de los 50 Favores de Musicales'
+slug: 'B07WR99QZ4-es Boao 35 Piezas Decoraciones de Fiesta de Música Rock and...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

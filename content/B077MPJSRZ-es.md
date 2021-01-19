@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eFaBn8zlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MPJSRZ-es PUMA Smash V2  Zapatillas Unisex Adulto  Azul  Peacoat White   40.5 EU'
+slug: 'B077MPJSRZ-es PUMA Smash V2 Zapatillas Unisex Adulto Azul Peacoat White...'
+tags: 
 actualPrice: 39.27 EUR
 currency: EUR
 price: 39.27

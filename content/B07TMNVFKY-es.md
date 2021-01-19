@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ExKzD4RyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMNVFKY-es Superdry Classic Superstate S/s Polo  Amarillo  Upstate Gold Pg5   L para Hombre'
+slug: 'B07TMNVFKY-es Superdry Classic Superstate S/s Polo Amarillo Upstate Gold...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

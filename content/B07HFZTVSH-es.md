@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uMgS3ThbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFZTVSH-es New Balance 373 Zapatillas Hombre  Negro  Black Black   40.5 EU  7 UK '
+slug: 'B07HFZTVSH-es New Balance 373 Zapatillas Hombre Negro Black Black 40.5...'
+tags: 
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fS-gUzcZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CFHH1QK-es JACK & JONES Jjebasic Knit Crew Neck Noos suéter  Gris Dark Grey Melange  Small para Hombre'
+slug: 'B07CFHH1QK-es JACK & JONES Jjebasic Knit Crew Neck Noos suéter Gris Dark...'
+tags: 
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

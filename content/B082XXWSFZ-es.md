@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nAuPMJqoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XXWSFZ-es Orfeld 13" Remachadora de Tuercas  Remachadora con M3  M4  M5  M6  M8  M10  M12 Tuerca de Remache  Mango de PVC  Ahorra Energía  Apta para Acero de 2-3 mm de Espesor  Llave Incorporada  7 Mandriles'
+slug: 'B082XXWSFZ-es Orfeld 13" Remachadora de Tuercas Remachadora con M3 M4 M5...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

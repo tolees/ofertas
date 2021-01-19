@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411l03ZKgEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT6NK4R-es Levi s Graphic Sport Capucha  Gris  Hoodie T3 90 s Serif Forged Iron 0127   M para Mujer'
+slug: 'B07TT6NK4R-es Levi s Graphic Sport Capucha Gris Hoodie T3 90 s Serif...'
+tags: 
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

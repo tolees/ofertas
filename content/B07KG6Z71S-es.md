@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411TpcPeJdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG6Z71S-es PUMA Ralph Sampson LO  Zapatillas Deportivas Unisex Adulto  Schwarz Black White White  44 EU'
+slug: 'B07KG6Z71S-es PUMA Ralph Sampson LO Zapatillas Deportivas Unisex Adulto...'
+tags: 
 actualPrice: 40.04 EUR
 currency: EUR
 price: 40.04

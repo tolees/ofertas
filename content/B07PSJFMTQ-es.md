@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KBchiMoPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJFMTQ-es Kipling Creativity L  Monederos para Mujer  Multicolor  Camo Large   18.5x11x1.5 Centimeters  B x H x T '
+slug: 'B07PSJFMTQ-es Kipling Creativity L Monederos para Mujer Multicolor Camo...'
+tags: 
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

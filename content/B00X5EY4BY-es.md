@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZbmdCZzoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X5EY4BY-es Armani Exchange Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable AX2169'
+slug: 'B00X5EY4BY-es Armani Exchange Reloj Analógico para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 142.15 EUR
 currency: EUR
 price: 142.15

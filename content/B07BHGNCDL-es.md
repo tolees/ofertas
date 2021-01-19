@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Aafhwc2LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHGNCDL-es ghd mini - Plancha de pelo profesional con placas finas de 12 7 mm para cabello corto y flequillo  Negra'
+slug: 'B07BHGNCDL-es ghd mini - Plancha de pelo profesional con placas finas de...'
+tags: 
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

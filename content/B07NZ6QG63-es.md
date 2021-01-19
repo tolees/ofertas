@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qLX9089yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ6QG63-es Art Cambridge  Botas Clasicas para Hombre  Rojo  Burdeos Burdeos   42 EU'
+slug: 'B07NZ6QG63-es Art Cambridge Botas Clasicas para Hombre Rojo Burdeos...'
+tags: 
 actualPrice: 52.91 EUR
 currency: EUR
 price: 52.91

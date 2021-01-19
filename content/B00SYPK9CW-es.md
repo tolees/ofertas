@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hrjqmIkxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SYPK9CW-es Bourjois Velvet Barra de Labios Líquida Tono 11 So Hap’pink - 29 gr'
+slug: 'B00SYPK9CW-es Bourjois Velvet Barra de Labios Líquida Tono 11 So...'
+tags: 
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

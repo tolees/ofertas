@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518rkgdRgyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B3HXYW-es PIKOLIN  canapé abatible Gran Capacidad de almacenaje Color Gris Glaciar 150x190  Servicio de Entrega Premium Incluido'
+slug: 'B081B3HXYW-es PIKOLIN canapé abatible Gran Capacidad de almacenaje Color...'
+tags: 
 actualPrice: 373.99 EUR
 currency: EUR
 price: 373.99

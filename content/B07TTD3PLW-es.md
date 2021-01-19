@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oVzNGfVNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTD3PLW-es Funko- Pop Disney: Onward-Ian w/Staff Collectible Toy  Multicolor  45584 '
+slug: 'B07TTD3PLW-es Funko- Pop Disney: Onward-Ian w/Staff Collectible Toy...'
+tags: 
 actualPrice: 10.35 EUR
 currency: EUR
 price: 10.35

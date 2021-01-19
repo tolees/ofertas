@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RXZrWHVKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0888CZCTB-es GONGFF Archivadores Armario Armario Cosmético Caja de Almacenamiento Material de protección Ambiental Plástico PP - 35x24x26cm  Color: C1 '
+slug: 'B0888CZCTB-es GONGFF Archivadores Armario Armario Cosmético Caja de...'
+tags: 
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

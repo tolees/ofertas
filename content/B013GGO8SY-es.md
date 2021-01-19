@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fc1ajyjzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013GGO8SY-es De Longhi Dolce Gusto Stelia EDG636.S - Cafetera de cápsulas  15 bares de presión  color plateado'
+slug: 'B013GGO8SY-es De Longhi Dolce Gusto Stelia EDG636.S - Cafetera de...'
+tags: 
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F9kMhvKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SDRHLM-es Funda Universal para Tableta portátil Funda Ultra Suave a Prueba de Agua Funda Protectora a Prueba de Golpes para PC portátil/Negro/8"'
+slug: 'B083SDRHLM-es Funda Universal para Tableta portátil Funda Ultra Suave a...'
+tags: 
 actualPrice: 1.88 EUR
 currency: EUR
 price: 1.88

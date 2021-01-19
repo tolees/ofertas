@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YxZNPOLIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTMT66G-es Juego de 4 Sillas de Comedor Modernas de Medio Siglo Tapizadas  Tapizadas en Tela Lateral con Base de Madera de Pasador; Ideal para Sala de Estar  Comedor  Cafetería  Sala de Espera  etc.  Rojo '
+slug: 'B07TTMT66G-es Juego de 4 Sillas de Comedor Modernas de Medio Siglo...'
+tags: 
 actualPrice: 98.0 EUR
 currency: EUR
 price: 98.0

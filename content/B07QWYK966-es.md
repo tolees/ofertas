@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41RuP6uA5VL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWYK966-es Asics Jolt 2 GS  Zapatillas de Running Unisex Niños  Gris  Sheet Rock/Sun Coral 022   39.5 EU'
+slug: 'B07QWYK966-es Asics Jolt 2 GS Zapatillas de Running Unisex Niños Gris...'
+tags: 
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

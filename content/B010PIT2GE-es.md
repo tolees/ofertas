@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HEgrx9CHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010PIT2GE-es Casio SGW-1000-1AER - Reloj con correa de resina para hombre  color negro / gris'
+slug: 'B010PIT2GE-es Casio SGW-1000-1AER - Reloj con correa de resina para...'
+tags: 
 actualPrice: 98.39 EUR
 currency: EUR
 price: 98.39

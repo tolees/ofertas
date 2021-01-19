@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51U9Lt74JtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBCDGZ3-es TELLW Verano Hombre Dama casa par Interior Lino Zapatillas de Cuero Suelo de Madera Casual Zapatillas'
+slug: 'B07DBCDGZ3-es TELLW Verano Hombre Dama casa par Interior Lino Zapatillas...'
+tags: 
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

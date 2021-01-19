@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HSMN9M-es Rocket League - Edición Coleccionista'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

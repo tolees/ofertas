@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416snQ3K5jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KZUJ0DW-es Moulinex Vitapress PC603D Exprimidor 100W de potencia con vertido directamente en el vaso  3 conos para limones  naranjas  pomelos y tope antigoteo'
+slug: 'B01KZUJ0DW-es Moulinex Vitapress PC603D Exprimidor 100W de potencia con...'
+tags: 
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

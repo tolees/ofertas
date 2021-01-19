@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OSfkwkyuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HRM4B3X-es Lepeuxi Detector de pulso Pulso de la yema del dedo Monitor de operación conveniente de baja potencia Medidor de frecuencia de pulso para viajes deportivos en casa'
+slug: 'B08HRM4B3X-es Lepeuxi Detector de pulso Pulso de la yema del dedo...'
+tags: 
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

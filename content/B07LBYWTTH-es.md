@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-vyaRNc6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBYWTTH-es Etrogo Bombilla Crepuscular Led Sensor Luz E27 10W Equivalencia 100W Blanco Cálido 3000K Encender/Apagar Automático 806Lumens 2 Unidades [Clase de eficiencia energética A]'
+slug: 'B07LBYWTTH-es Etrogo Bombilla Crepuscular Led Sensor Luz E27 10W...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

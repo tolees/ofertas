@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417Aan3fceL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072M79ZVR-es Weider Testo Xtreme. Incrementa los niveles de energía  fuerza y  resistencia. Contiene Ashwagandha  Extracto de Fenogreco y Maca  120 Caps '
+slug: 'B072M79ZVR-es Weider Testo Xtreme. Incrementa los niveles de energía...'
+tags: 
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

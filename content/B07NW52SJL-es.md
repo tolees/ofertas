@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412lfTm98kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW52SJL-es Skechers Women s Stamina Trainers  Grey  Gray Suede/Orange & Yellow Mesh/Black Trim Gyor   8 UK  41 EU '
+slug: 'B07NW52SJL-es Skechers Women s Stamina Trainers Grey Gray Suede/Orange &...'
+tags: 
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

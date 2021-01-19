@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Tt5ta4NnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WJPYITI-es Brabantia 105388 - Juego de 3 bolsas para lavadora  2 de 33 x 25 cm  1 de 45 x 33 cm  blanco'
+slug: 'B00WJPYITI-es Brabantia 105388 - Juego de 3 bolsas para lavadora 2 de 33...'
+tags: 
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

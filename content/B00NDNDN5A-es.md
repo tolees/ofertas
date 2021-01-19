@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413RSPINvNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NDNDN5A-es Beurer FC95 - Cepillo facial sónico  2 intensidades de Masaje  color blanco'
+slug: 'B00NDNDN5A-es Beurer FC95 - Cepillo facial sónico 2 intensidades de...'
+tags: 
 actualPrice: 52.24 EUR
 currency: EUR
 price: 52.24

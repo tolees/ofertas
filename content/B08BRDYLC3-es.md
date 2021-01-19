@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fVp8IOIVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BRDYLC3-es Grapas de Pared para Cables Eléctricos con Adhesivo  Gestión de Cable Eléctrico  Clips de Cables para Cable de USB  TV  Cargador  Audio  para Cables en Hogar  Oficina y Coche'
+slug: 'B08BRDYLC3-es Grapas de Pared para Cables Eléctricos con Adhesivo...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WUUkfBmML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSFMK22-es Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones  Verde  Faded Olive Heather MRF   X-Small para Hombre'
+slug: 'B07VSFMK22-es Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones...'
+tags: 
 actualPrice: 46.97 EUR
 currency: EUR
 price: 46.97

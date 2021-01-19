@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qyIPf53DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQ47NSF-es Brillante Benefit Legumbres Quinoa Verduras 250G - [Pack De 16] - Total 4 Kg'
+slug: 'B07CQ47NSF-es Brillante Benefit Legumbres Quinoa Verduras 250G - [Pack...'
+tags: 
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

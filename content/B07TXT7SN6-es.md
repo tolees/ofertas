@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pl2NF8KhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXT7SN6-es Merrell Waterpro Maipo 2  Zapatillas Impermeables para Hombre  Azul  Cobalt   44 EU'
+slug: 'B07TXT7SN6-es Merrell Waterpro Maipo 2 Zapatillas Impermeables para...'
+tags: 
 actualPrice: 58.29 EUR
 currency: EUR
 price: 58.29

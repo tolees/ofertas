@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UdUpEbipL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FL7WGMS-es Pekitas - Colchón minicuna 50 x 75 cm Funda 3D Erogonómico Transpirable Antiahogo con cremallera lavable  interior espuma blanca Fabricado en España'
+slug: 'B07FL7WGMS-es Pekitas - Colchón minicuna 50 x 75 cm Funda 3D Erogonómico...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QFt24Nh1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F45CW4Y-es Toallero de baño Organizador de baño Toallero de pared de acero inoxidable Estante de pared Home Hotel Accesorio de hardware - plata - 60CM'
+slug: 'B08F45CW4Y-es Toallero de baño Organizador de baño Toallero de pared de...'
+tags: 
 actualPrice: 10.82 EUR
 currency: EUR
 price: 10.82

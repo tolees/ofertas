@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mTJIFxGWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085T42DDV-es Yorbay Mini Ventilador de Mano USB Portátil 2600mAh Bateria Recargable para Oficina  Hogar  Viajes  Ejercicio al Aire Libre'
+slug: 'B085T42DDV-es Yorbay Mini Ventilador de Mano USB Portátil 2600mAh...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

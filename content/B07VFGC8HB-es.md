@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QpYrNyFSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFGC8HB-es Napapijri Elbas 3 Polo  Rosa  Petal Pink P841   L para Hombre'
+slug: 'B07VFGC8HB-es Napapijri Elbas 3 Polo Rosa Petal Pink P841 L para Hombre'
+tags: 
 actualPrice: 29.91 EUR
 currency: EUR
 price: 29.91

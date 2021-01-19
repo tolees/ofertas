@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hnga5nW0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBQWY27-es Kickers Mistic  Botas Clasicas para Hombre  Marrón  Camel Perm 114   44 EU'
+slug: 'B07MBQWY27-es Kickers Mistic Botas Clasicas para Hombre Marrón Camel...'
+tags: 
 actualPrice: 47.25 EUR
 currency: EUR
 price: 47.25

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZSYz+Rd8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHPS4QQ-es SALAKA 1pc 30cm × 5m Portátil PCB Película Seca fotosensible Película fotográfica para producción de circuitos Hoja fotorresistente'
+slug: 'B07XHPS4QQ-es SALAKA 1pc 30cm × 5m Portátil PCB Película Seca...'
+tags: 
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

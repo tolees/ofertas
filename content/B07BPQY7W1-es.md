@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPQY7W1-es Jura Journey Single Malt Scotch Whisky - 0.7 L'
+tags: 
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

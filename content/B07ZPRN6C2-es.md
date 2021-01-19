@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WliTF+6ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPRN6C2-es Hurley M Icon Textures Hat Gorra  Hombre  Deep Royal Blue  S/M'
+slug: 'B07ZPRN6C2-es Hurley M Icon Textures Hat Gorra Hombre Deep Royal Blue S/M'
+tags: 
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

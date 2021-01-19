@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41aHM5niyBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B1C66KH-es Chantelle DE Pyramide Sujetador con Aros  Negro  Schwarz 11   95E  Talla del Fabricante: 80E  para Mujer'
+slug: 'B07B1C66KH-es Chantelle DE Pyramide Sujetador con Aros Negro Schwarz 11...'
+tags: 
 actualPrice: 44.85 EUR
 currency: EUR
 price: 44.85

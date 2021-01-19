@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YndxZLJmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IAGSD5O-es Crucial MX300 CT275MX300SSD1 - Disco Duro sólido Interno SSD de 275 GB  3D NAND  SATA  2.5 Pulgadas '
+slug: 'B01IAGSD5O-es Crucial MX300 CT275MX300SSD1 - Disco Duro sólido Interno...'
+tags: 
 actualPrice: 63.05 EUR
 currency: EUR
 price: 63.05

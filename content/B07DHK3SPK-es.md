@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DIFcjvkmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHK3SPK-es Desconocido Nike Swoosh Headband Cinta para la Cabeza  Unisex Adulto  redbla  Talla Única'
+slug: 'B07DHK3SPK-es Desconocido Nike Swoosh Headband Cinta para la Cabeza...'
+tags: 
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

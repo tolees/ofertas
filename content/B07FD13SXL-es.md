@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y4NF62JIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FD13SXL-es MVMT Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable D-MC02-SBLU'
+slug: 'B07FD13SXL-es MVMT Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 103.77 EUR
 currency: EUR
 price: 103.77

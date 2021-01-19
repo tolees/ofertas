@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vgHt9XR+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRX5QEE-es Reebok Club C 85  Zapatillas para Hombre  Blanco  INT White/Royal Gum   42.5 EU'
+slug: 'B01MRX5QEE-es Reebok Club C 85 Zapatillas para Hombre Blanco INT...'
+tags: 
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

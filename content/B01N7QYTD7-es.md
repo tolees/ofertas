@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31N50Vm-dKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7QYTD7-es Kappa - Pagino Pants  Color Negro  Talla 14 Years'
+slug: 'B01N7QYTD7-es Kappa - Pagino Pants Color Negro Talla 14 Years'
+tags: 
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

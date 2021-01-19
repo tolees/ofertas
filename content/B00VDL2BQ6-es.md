@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kFN9QdfgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VDL2BQ6-es Nike Court Royale  Zapatillas Hombre  Azul/Blanco  Midnight Navy/White   43 EU'
+slug: 'B00VDL2BQ6-es Nike Court Royale Zapatillas Hombre Azul/Blanco Midnight...'
+tags: 
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mqcJipjfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NZ1N7K-es Hapilife Grifo de Cocina Extraible 360° Giratorio Silver Grifo de fregadero Grifería cocina Monomando fregadero Agua Fría y Caliente Goma de grado alimenticio'
+slug: 'B079NZ1N7K-es Hapilife Grifo de Cocina Extraible 360° Giratorio Silver...'
+tags: 
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

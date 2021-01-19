@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rD2lzuQiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZFK1OR-es Cybex Silver Juno 2-Fix 517000957 Silla de Coche  Grupo 1  con Isofix  Gris  Gray Rabbit '
+slug: 'B01LZFK1OR-es Cybex Silver Juno 2-Fix 517000957 Silla de Coche Grupo 1...'
+tags: 
 actualPrice: 169.95 EUR
 currency: EUR
 price: 169.95

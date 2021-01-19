@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w9RcP0XcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQ9BBB9-es Samsung Galaxy Watch Active Reloj Inteligente Negro SAMOLED 2 79 cm  1.1"  GPS  satélite  - Relojes Inteligentes  2 79 cm  1.1"   SAMOLED  Pantalla táctil  GPS  satélite   25 g  Negro '
+slug: 'B07NQ9BBB9-es Samsung Galaxy Watch Active Reloj Inteligente Negro...'
+tags: 
 actualPrice: 165.0 EUR
 currency: EUR
 price: 165.0

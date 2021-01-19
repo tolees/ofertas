@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VoMgFAo3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XK1CBHN-es Ganchos para silla de ruedas Silla de ruedas Cochecito Cochecito de niño Cochecito para colgar Gancho Cochecitos de bebé Bolsa de la compra Clip Cochecito Accesorios'
+slug: 'B07XK1CBHN-es Ganchos para silla de ruedas Silla de ruedas Cochecito...'
+tags: 
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01

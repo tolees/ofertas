@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k3Sg1ZWSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZQ5PLR-es Mujer Pantalones Largos deportivos SMARTLADY Patrón de árbol Leggings para Running  Yoga y Ejercicio  S  Blanco '
+slug: 'B075ZQ5PLR-es Mujer Pantalones Largos deportivos SMARTLADY Patrón de...'
+tags: 
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

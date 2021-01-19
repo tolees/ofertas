@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412MZgInBpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8YLW5Z-es DOWE 137 cm x 38 cm Resistencia al Calor Cubierta metálica de la Tabla de Planchar Material de Fieltro Duradero Tamaño estándar Opciones multicoloras'
+slug: 'B07B8YLW5Z-es DOWE 137 cm x 38 cm Resistencia al Calor Cubierta metálica...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

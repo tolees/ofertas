@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TsmecHiuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HFGFOCA-es Columbia Vapor Vent  Zapatillas de Senderismo para Mujer  Blanco  White  Wild Salmon 100   36.5 EU'
+slug: 'B01HFGFOCA-es Columbia Vapor Vent Zapatillas de Senderismo para Mujer...'
+tags: 
 actualPrice: 31.17 EUR
 currency: EUR
 price: 31.17

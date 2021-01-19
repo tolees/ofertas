@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BtpncgBfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLCF26R-es Nike Revolution 5  Zapatillas de Atletismo para Hombre  Multicolor  Gridiron/Mountain Blue/Black/Vast Grey 009   46 EU'
+slug: 'B07NLCF26R-es Nike Revolution 5 Zapatillas de Atletismo para Hombre...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

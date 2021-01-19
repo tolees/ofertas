@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cuWY0LPhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VCVQ54-es ASUS BRT-AC828 - Router Dual-WAN AC2600 para Empresa  Servidor y Cliente IPsec  VLAN Local  Portal cautivo  Slot M.2 Sata  Servidor Radius '
+slug: 'B071VCVQ54-es ASUS BRT-AC828 - Router Dual-WAN AC2600 para Empresa...'
+tags: 
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

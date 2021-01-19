@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sza-38xLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FTFMRVG-es EXCEART 12 Piezas de Longitud Ajustable Face Mask Máscaras Cadena Titular Máscara Correa de Cordón con Cierre de Seguridad para Mujeres Hombres Niños Adultos'
+slug: 'B08FTFMRVG-es EXCEART 12 Piezas de Longitud Ajustable Face Mask Máscaras...'
+tags: 
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

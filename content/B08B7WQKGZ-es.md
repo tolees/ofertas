@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mBbj-7xfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B7WQKGZ-es Ultra Delgado 7000mAh Banco de energía Externa Tamaño portátil 2USB Aleación de Aluminio Cargador de batería Fuente de alimentación de batería para teléfonos-Negro'
+slug: 'B08B7WQKGZ-es Ultra Delgado 7000mAh Banco de energía Externa Tamaño...'
+tags: 
 actualPrice: 18.84 EUR
 currency: EUR
 price: 18.84

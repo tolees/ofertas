@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uyJgIRdGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXCMD1Z-es WOSAWE - Pantalones deportivos para hombre de secado rápido  Hombre  azul  US M Asiático XL '
+slug: 'B07GXCMD1Z-es WOSAWE - Pantalones deportivos para hombre de secado...'
+tags: 
 actualPrice: 32.43 EUR
 currency: EUR
 price: 32.43

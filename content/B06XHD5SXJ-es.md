@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Kb98aGuML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHD5SXJ-es Helly Hansen Verglas Hooded Down Insulator Jacket  Hombre  Black  M'
+slug: 'B06XHD5SXJ-es Helly Hansen Verglas Hooded Down Insulator Jacket Hombre...'
+tags: 
 actualPrice: 130.0 EUR
 currency: EUR
 price: 130.0

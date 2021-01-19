@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ss13zbO4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RCFQFQ-es BRIKSMAX Kit de Iluminación Led para Lego Hidden Side Camaronero Encallado Compatible con Ladrillos de Construcción Lego Modelo 70419  Juego de Legos no Incluido'
+slug: 'B081RCFQFQ-es BRIKSMAX Kit de Iluminación Led para Lego Hidden Side...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

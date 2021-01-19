@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3146y6Y0NOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012ATLFS4-es KabelDirekt 12cm Cable 3.5mm Jack   Cable de Adaptador 3.5mm Jack  Conector Macho a Conector Hembra  para Auriculares   PRO Series'
+slug: 'B012ATLFS4-es KabelDirekt 12cm Cable 3.5mm Jack Cable de Adaptador 3.5mm...'
+tags: 
 actualPrice: 6.73 EUR
 currency: EUR
 price: 6.73

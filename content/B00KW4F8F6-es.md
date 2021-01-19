@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qp7xNe5zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KW4F8F6-es NUK 10255253 - Biberón con asas  botella de acero inoxidable  125 ml  color: rosa'
+slug: 'B00KW4F8F6-es NUK 10255253 - Biberón con asas botella de acero...'
+tags: 
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51FV1Dz7IWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGKYV4K-es HANPURE Bluetooth Gorro Invierno Hombre Regalos Originales - Gorro con Auriculares Bluetooth 5.0  Gorro de Punto Bluetooth Inalámbrico Música HD  Hombres Mujer Regalos Tecnologicos'
+slug: 'B07VGKYV4K-es HANPURE Bluetooth Gorro Invierno Hombre Regalos Originales...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

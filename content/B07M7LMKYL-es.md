@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GKTSjzSTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7LMKYL-es Paladone Rick & Morty - Lámpara de escritorio para pistola  USB o batería '
+slug: 'B07M7LMKYL-es Paladone Rick & Morty - Lámpara de escritorio para pistola...'
+tags: 
 actualPrice: 28.57 EUR
 currency: EUR
 price: 28.57

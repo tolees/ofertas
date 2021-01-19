@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dulIHgbgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFG9BCD-es VHOME Manguera De Jardín Flexible 30M Juego De Manguera De Agua - Expandible Flexi Manguera De Jardín Mágica Se Puede Estirar para Irrigar Baños De Pet con Lavado De Autos  30M  Negro '
+slug: 'B07SFG9BCD-es VHOME Manguera De Jardín Flexible 30M Juego De Manguera De...'
+tags: 
 actualPrice: 32.24 EUR
 currency: EUR
 price: 32.24

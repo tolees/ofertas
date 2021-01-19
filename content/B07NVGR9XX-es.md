@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FxboHlPOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVGR9XX-es ESR7Gears Termómetro de cocina de lectura instantánea 2-3s  Termómetro digital retroiluminado de lectura ultrarrápida para carne  larga sonda plegable  Calibrable e impermeable  Para cocina y parrilla'
+slug: 'B07NVGR9XX-es ESR7Gears Termómetro de cocina de lectura instantánea 2-3s...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

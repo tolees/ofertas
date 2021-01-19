@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51jegS-e1PL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PY66JPV-es Bascula Cocina  Bascula de Cocina Homever de 15 kg Panel Grande de 9*6.3Pulgadas Bascula Digital Acero Inoxidable 5 unidades de medida lb: oz  fl oz  ml  g  kg  y precisión de 1g'
+slug: 'B07PY66JPV-es Bascula Cocina Bascula de Cocina Homever de 15 kg Panel...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

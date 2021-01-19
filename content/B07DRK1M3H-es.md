@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21nRx+hGG6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRK1M3H-es Valencia F.C. - Pulsera Valencia Club De Fútbol Fashion Negra Junior para Mujer Y Niño'
+slug: 'B07DRK1M3H-es Valencia F.C. - Pulsera Valencia Club De Fútbol Fashion...'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

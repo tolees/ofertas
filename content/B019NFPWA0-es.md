@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vkdl8WevL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019NFPWA0-es HP USB-C to VGA Adapter - Adaptador para cable  USB-C  VGA  Macho/hembra  Negro '
+slug: 'B019NFPWA0-es HP USB-C to VGA Adapter - Adaptador para cable USB-C VGA...'
+tags: 
 actualPrice: 20.88 EUR
 currency: EUR
 price: 20.88

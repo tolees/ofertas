@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qjuRR7-sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872RV6CY-es iVANKY Repetidor HDMI Amplificador HDMI 4K @ 60Hz Hembra a Hembra - Gris'
+slug: 'B0872RV6CY-es iVANKY Repetidor HDMI Amplificador HDMI 4K @ 60Hz Hembra a...'
+tags: 
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

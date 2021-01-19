@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31t+nts76fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078S7DCNN-es Sharplace 1 Par Almohadillas Cómodas Pie Protección Amortiguador Durable Absorpción de Choque Deporte Calzado - Blanco'
+slug: 'B078S7DCNN-es Sharplace 1 Par Almohadillas Cómodas Pie Protección...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

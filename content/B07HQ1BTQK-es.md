@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415uBuVKzlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQ1BTQK-es Neutrogena Radiance Boost Mascarilla  Paquete de 4'
+slug: 'B07HQ1BTQK-es Neutrogena Radiance Boost Mascarilla Paquete de 4'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OlGW1r3cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OG5SDPY-es DURAGADGET Riñonera Ajustable para Samsung HMX-QF30BP/EDC - ¡Sumergible En Agua!'
+slug: 'B00OG5SDPY-es DURAGADGET Riñonera Ajustable para Samsung HMX-QF30BP/EDC...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

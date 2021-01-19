@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L3+OVvpuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2S5SK2-es Levi s Relaxed Graphic Hoodie Capucha  Negro  90 s Serif Logo Pop Mineral Black 0018   X-Large para Hombre'
+slug: 'B07S2S5SK2-es Levi s Relaxed Graphic Hoodie Capucha Negro 90 s Serif...'
+tags: 
 actualPrice: 23.74 EUR
 currency: EUR
 price: 23.74

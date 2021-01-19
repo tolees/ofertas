@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wP4DPvgVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FG49YXE-es BC Lithium Batteries BCTZ14S-FP-S Batería Litio para Moto LiFePO4 HJTZ14S-FP-S / YTX14L-BS /16HL'
+slug: 'B00FG49YXE-es BC Lithium Batteries BCTZ14S-FP-S Batería Litio para Moto...'
+tags: 
 actualPrice: 126.86 EUR
 currency: EUR
 price: 126.86

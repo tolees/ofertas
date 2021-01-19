@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510YhnotfWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ5ZF7F-es Bammax Parque Infantil Bebe Extensible  Parque de Juegos Niños Plegable  Vallas Infantiles Metalicas  Parque para Perros  Centro de Actividades Bebe Interior o Exterior  Blanca'
+slug: 'B07TQ5ZF7F-es Bammax Parque Infantil Bebe Extensible Parque de Juegos...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

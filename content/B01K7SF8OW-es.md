@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pw094zJQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7SF8OW-es Pantene Pro-V Champú Anti-Caspa para Todo Tipo de Cabellos - 270 ml'
+slug: 'B01K7SF8OW-es Pantene Pro-V Champú Anti-Caspa para Todo Tipo de Cabellos...'
+tags: 
 actualPrice: 1.16 EUR
 currency: EUR
 price: 1.16

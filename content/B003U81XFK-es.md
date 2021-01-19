@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Mck60-GZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003U81XFK-es IBRA® Master Gold - 1m  Metros  Cable óptico de Audio Digital Toslink Conectores Toslink | para PS3  Sky  Sky HD  Home Cinema Sistemas  AV Amps.'
+slug: 'B003U81XFK-es IBRA® Master Gold - 1m Metros Cable óptico de Audio...'
+tags: 
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

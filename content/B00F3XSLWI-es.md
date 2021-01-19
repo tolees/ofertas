@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31F232b5+cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F3XSLWI-es Netgear JGS516PE-100EUS - Smart Switch gestionable  16 Puertos Gigabit PoE y Montaje en Bastidor  alimentación a través de Ethernet de 8 Puertos y 85 W '
+slug: 'B00F3XSLWI-es Netgear JGS516PE-100EUS - Smart Switch gestionable 16...'
+tags: 
 actualPrice: 158.0 EUR
 currency: EUR
 price: 158.0

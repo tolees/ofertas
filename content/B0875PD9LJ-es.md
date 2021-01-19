@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bJyoXhhJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0875PD9LJ-es AIKELA V5.0 - Auriculares Bluetooth inalámbricos con tecnología Clear Voice Capture  tecnología Bluetooth  para negocios  oficinas y conducción '
+slug: 'B0875PD9LJ-es AIKELA V5.0 - Auriculares Bluetooth inalámbricos con...'
+tags: 
 actualPrice: 31.05 EUR
 currency: EUR
 price: 31.05

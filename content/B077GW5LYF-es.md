@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NBRtDuk2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077GW5LYF-es find. Sandalia de Tiras con Tacón Mujer  Violeta  Lilac   41'
+slug: 'B077GW5LYF-es find. Sandalia de Tiras con Tacón Mujer Violeta Lilac 41'
+tags: 
 actualPrice: 7.04 EUR
 currency: EUR
 price: 7.04

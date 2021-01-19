@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61F2iLLGANL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8DQX5T-es FOREO UFO - Tratamiento de Mascarilla Inteligente  Color Rosa  Pearl Pink '
+slug: 'B07B8DQX5T-es FOREO UFO - Tratamiento de Mascarilla Inteligente Color...'
+tags: 
 actualPrice: 122.95 EUR
 currency: EUR
 price: 122.95

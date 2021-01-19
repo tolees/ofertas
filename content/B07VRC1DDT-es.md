@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HIIbds6aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRC1DDT-es Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones  Azul  Faded Indigo Heather DVD   Small para Hombre'
+slug: 'B07VRC1DDT-es Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones...'
+tags: 
 actualPrice: 43.61 EUR
 currency: EUR
 price: 43.61

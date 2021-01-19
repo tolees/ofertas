@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xEiptXHEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L1TC27G-es Reebok FLEXAGON FIT  Zapatillas de Deporte para Mujer  Negro  Black/White/True Grey 0   40 EU'
+slug: 'B07L1TC27G-es Reebok FLEXAGON FIT Zapatillas de Deporte para Mujer Negro...'
+tags: 
 actualPrice: 23.59 EUR
 currency: EUR
 price: 23.59

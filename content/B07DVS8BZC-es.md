@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XvpaZKj9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVS8BZC-es New Balance Fresh Foam Roav   Zapatillas de Running para Hombre  Azul  Vintage Indigo Vintage Indigo   44.5 EU'
+slug: 'B07DVS8BZC-es New Balance Fresh Foam Roav Zapatillas de Running para...'
+tags: 
 actualPrice: 45 EUR
 currency: EUR
 price: 45

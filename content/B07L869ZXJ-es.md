@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514GNNHgTEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L869ZXJ-es URCERI Mini Amoladora eléctrica batería  con 60pcs accesorios  batería recargable de 3.7V 2000 mAH  12000rpm  herramienta rotativa para DIY  pulido  grabado  etc.'
+slug: 'B07L869ZXJ-es URCERI Mini Amoladora eléctrica batería con 60pcs...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

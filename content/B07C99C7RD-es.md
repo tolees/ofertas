@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JdPDN-EtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C99C7RD-es Lee Luke Jeans  Rinse DP  33W / 32L para Hombre'
+slug: 'B07C99C7RD-es Lee Luke Jeans Rinse DP 33W / 32L para Hombre'
+tags: 
 actualPrice: 41.98 EUR
 currency: EUR
 price: 41.98

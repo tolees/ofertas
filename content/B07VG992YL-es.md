@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ukCRhnOwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VG992YL-es Hackett London Hibiscus Pantalones Cortos  Naranja  1audeep Coral 1au   Medium para Hombre'
+slug: 'B07VG992YL-es Hackett London Hibiscus Pantalones Cortos Naranja 1audeep...'
+tags: 
 actualPrice: 44.74 EUR
 currency: EUR
 price: 44.74

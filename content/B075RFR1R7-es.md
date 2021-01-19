@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b557RuTAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RFR1R7-es Pioneer SX-10AE-B - Receptor de Audio  Color Negro'
+slug: 'B075RFR1R7-es Pioneer SX-10AE-B - Receptor de Audio Color Negro'
+tags: 
 actualPrice: 176.99 EUR
 currency: EUR
 price: 176.99

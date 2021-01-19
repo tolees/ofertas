@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT7MCQY-es Syoss Espuma Keratin - 250 ml'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

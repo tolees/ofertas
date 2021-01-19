@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YlUHlD1RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0816JKCH9-es QHOHQ Funda para Xiaomi Redmi Note 8T  Cases Silicona Slim TPU Cuatro Esquinas Anti-caíd  Transparente '
+slug: 'B0816JKCH9-es QHOHQ Funda para Xiaomi Redmi Note 8T Cases Silicona Slim...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

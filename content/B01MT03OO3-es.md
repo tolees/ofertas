@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mz41Zw2sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT03OO3-es Bourjois Healthy Mix Base de Maquillaje Tono 53 Light Beige  30 ml'
+slug: 'B01MT03OO3-es Bourjois Healthy Mix Base de Maquillaje Tono 53 Light...'
+tags: 
 actualPrice: 2.1 EUR
 currency: EUR
 price: 2.1

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WYkQMfWJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082LXMMG3-es Anillas para Llavero con Cadena 50 Piezas Anillo de Llavero Aleación Plateada con Cadena y Anillos de Salto para Manualidades Fabricación de Joyas Correas 25mm'
+slug: 'B082LXMMG3-es Anillas para Llavero con Cadena 50 Piezas Anillo de...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

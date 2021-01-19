@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411P6ONIDBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9Z4JP3-es Funko pop Nacho Libre  multicolor  talla única  36347    color/modelo surtido'
+slug: 'B07H9Z4JP3-es Funko pop Nacho Libre multicolor talla única 36347...'
+tags: 
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

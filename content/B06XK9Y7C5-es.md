@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314KwuWsQpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XK9Y7C5-es Happilax Alfombrilla Perro y Gato en Silicona Antideslizante para comedero  Bebedero y arenero  Negro  48 x 30 cm'
+slug: 'B06XK9Y7C5-es Happilax Alfombrilla Perro y Gato en Silicona...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

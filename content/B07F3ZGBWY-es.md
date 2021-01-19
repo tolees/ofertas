@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+MXZfVcIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3ZGBWY-es Bonsenkitchen Termómetro Digital de Cocina para Carne Barbacoa Comida Liquidos Aceite  Termometro Alimentos con Pantalla LCD para Lectura Instantánea  Sonda Larga °C/°F Conmutable Negro ST8730'
+slug: 'B07F3ZGBWY-es Bonsenkitchen Termómetro Digital de Cocina para Carne...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

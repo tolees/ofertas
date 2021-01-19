@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WQ4+MiL1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MR9NRMT-es Té verde menta Té verde marroquí con menta nana Mezcla de té de menta y té Cay Chai de Marruecos ? sin saborizante ? sin aditivos ? sin conservantes ? 1000g sueltos'
+slug: 'B01MR9NRMT-es Té verde menta Té verde marroquí con menta nana Mezcla de...'
+tags: 
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

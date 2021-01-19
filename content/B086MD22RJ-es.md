@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZE43JMpxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086MD22RJ-es 20 máscara de uso civil desechable 3 capas de máscara protectora ordinaria Ventilación segura'
+slug: 'B086MD22RJ-es 20 máscara de uso civil desechable 3 capas de máscara...'
+tags: 
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

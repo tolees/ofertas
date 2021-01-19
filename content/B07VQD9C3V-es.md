@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ipC88y6GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQD9C3V-es Ueleknight Reproductor de MP3 MP4 con Micro SD de 16G  de Música Digital Portátil/de Video/Lector de Libros Electrónicos/Visualización de Imágenes  Pantalla de 1 8 Pulgadas de Música  Azul '
+slug: 'B07VQD9C3V-es Ueleknight Reproductor de MP3 MP4 con Micro SD de 16G de...'
+tags: 
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

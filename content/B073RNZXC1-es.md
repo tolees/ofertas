@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XN9aDXj0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RNZXC1-es Columbia Drainmaker IV  Zapatillas para Hombre  Gris  City Grey  Mountain Red 023   42 EU'
+slug: 'B073RNZXC1-es Columbia Drainmaker IV Zapatillas para Hombre Gris City...'
+tags: 
 actualPrice: 59.89 EUR
 currency: EUR
 price: 59.89

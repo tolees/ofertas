@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4129wkUjqrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSQ94W3-es Columbia Mujer Trenca  Rainy Creek Trenca  Poliéster  Azul  Nocturnal Heather   Talla: M  1773061'
+slug: 'B07KSQ94W3-es Columbia Mujer Trenca Rainy Creek Trenca Poliéster Azul...'
+tags: 
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ahl+uZV9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DSYSNVH-es L Oréal París - Infallible 24H Fresh Wear  Base de Maquillaje de Larga Duración  Tono 290 Ambre Doré - 30 ml'
+slug: 'B07DSYSNVH-es L Oréal París - Infallible 24H Fresh Wear Base de...'
+tags: 
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

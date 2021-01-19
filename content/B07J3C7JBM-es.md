@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31poPeBZrCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3C7JBM-es Under Armour Coldgear Armour Legging  Mujer  Negro  MD'
+slug: 'B07J3C7JBM-es Under Armour Coldgear Armour Legging Mujer Negro MD'
+tags: 
 actualPrice: 25.35 EUR
 currency: EUR
 price: 25.35

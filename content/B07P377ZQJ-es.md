@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yyHGtcGHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P377ZQJ-es Moon and Back de Hanna Andersson - Pack de 3 pantalones de chándal de algodón orgánico para bebé  Gris  0-3 messes  46-56 CM '
+slug: 'B07P377ZQJ-es Moon and Back de Hanna Andersson - Pack de 3 pantalones de...'
+tags: 
 actualPrice: 5.73 EUR
 currency: EUR
 price: 5.73

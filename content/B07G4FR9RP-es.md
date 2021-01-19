@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X065t-6oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4FR9RP-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 1781970'
+slug: 'B07G4FR9RP-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 83.3 EUR
 currency: EUR
 price: 83.3

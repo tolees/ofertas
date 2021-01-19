@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zjEOPOFxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7R9RBK-es Louvra Capazo del Perro Portador del Perro Bolsa del Perro para Viaje que Se Permite para Aerolínea  hasta 4kg  Color Negro-rojo'
+slug: 'B07F7R9RBK-es Louvra Capazo del Perro Portador del Perro Bolsa del Perro...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

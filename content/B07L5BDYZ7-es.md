@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319z-Jj49RL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L5BDYZ7-es BRA Efficient - Batería 3 piezas  de aluminio fundido con antiadherente  apta para todo tipo de cocinas incluso inducción'
+slug: 'B07L5BDYZ7-es BRA Efficient - Batería 3 piezas de aluminio fundido con...'
+tags: 
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

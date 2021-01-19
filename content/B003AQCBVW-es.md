@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rbro7lkoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003AQCBVW-es Birkenstock Boston 160583 - Zapatillas de casa de fieltro  Unisex  Gris  Anthrazite Wool   39 S'
+slug: 'B003AQCBVW-es Birkenstock Boston 160583 - Zapatillas de casa de fieltro...'
+tags: 
 actualPrice: 57.02 EUR
 currency: EUR
 price: 57.02

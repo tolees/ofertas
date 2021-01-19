@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Shq93Op0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2YN89Z-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Cuero FS5540'
+slug: 'B07Q2YN89Z-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 69.35 EUR
 currency: EUR
 price: 69.35

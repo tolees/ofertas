@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PBkyOJpBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKTNJLY-es PUMA Fundamentals Sports Bag S Bolsa Deporte  Unisex-Adult  Dark Denim  Talla Única'
+slug: 'B07XKTNJLY-es PUMA Fundamentals Sports Bag S Bolsa Deporte Unisex-Adult...'
+tags: 
 actualPrice: 18.13 EUR
 currency: EUR
 price: 18.13

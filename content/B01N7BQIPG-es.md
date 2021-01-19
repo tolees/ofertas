@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wQXpZTT5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7BQIPG-es Audio Pro Addon T5 - Altavoz inalámbrico  Color Naranja'
+slug: 'B01N7BQIPG-es Audio Pro Addon T5 - Altavoz inalámbrico Color Naranja'
+tags: 
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

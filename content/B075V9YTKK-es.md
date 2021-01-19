@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075V9YTKK-es Rugby 18 - Versión Española'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

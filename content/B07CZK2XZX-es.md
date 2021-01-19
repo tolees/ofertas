@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KEIBYF0lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZK2XZX-es Under Armour UA Pennant Jacket 2.0 Parte Superior del Calentamiento  Niños  Negro  Black/White 002   M'
+slug: 'B07CZK2XZX-es Under Armour UA Pennant Jacket 2.0 Parte Superior del...'
+tags: 
 actualPrice: 20.94 EUR
 currency: EUR
 price: 20.94

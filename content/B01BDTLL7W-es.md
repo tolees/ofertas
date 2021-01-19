@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kk0Ue4y5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BDTLL7W-es Eritritol 100 % natural 1 kg | Sustituto del azúcar con cero calorías'
+slug: 'B01BDTLL7W-es Eritritol 100 % natural 1 kg | Sustituto del azúcar con...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

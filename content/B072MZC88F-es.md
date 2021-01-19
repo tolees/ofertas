@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XqUDs8sDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MZC88F-es ADIDAS X PLR  Zapatillas para Hombre  Negro  Core Black/Trace Grey Metallic/Core Black 0   40 2/3 EU'
+slug: 'B072MZC88F-es ADIDAS X PLR Zapatillas para Hombre Negro Core Black/Trace...'
+tags: 
 actualPrice: 45.14 EUR
 currency: EUR
 price: 45.14

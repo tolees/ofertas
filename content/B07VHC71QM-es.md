@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PkIbbrF6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHC71QM-es Eono by Amazon - Paraguas de Golf Resistente al Viento con Doble Tela y Sistema de Apertura automático  147 cm'
+slug: 'B07VHC71QM-es Eono by Amazon - Paraguas de Golf Resistente al Viento con...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

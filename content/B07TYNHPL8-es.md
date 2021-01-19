@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AksthM8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYNHPL8-es AKYGA AK-CA-26 - Rejilla Protectora para Ventilador  120 mm   Color Acero'
+slug: 'B07TYNHPL8-es AKYGA AK-CA-26 - Rejilla Protectora para Ventilador 120 mm...'
+tags: 
 actualPrice: 1.48 EUR
 currency: EUR
 price: 1.48

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517rG2aHOWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPJKQJ4-es IEFIEL Vestidos de Princesa Fiesta Bautizo Tutú con Braga Interior Disfraces para Bebés Niñas  12 Meses a 8 Años  Rojo 3 Años'
+slug: 'B06XPJKQJ4-es IEFIEL Vestidos de Princesa Fiesta Bautizo Tutú con Braga...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

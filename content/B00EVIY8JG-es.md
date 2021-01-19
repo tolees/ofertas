@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314EH5GirlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EVIY8JG-es Converse - Zapatillas para mujer  Blanco  EU 39.5'
+slug: 'B00EVIY8JG-es Converse - Zapatillas para mujer Blanco EU 39.5'
+tags: 
 actualPrice: 45.35 EUR
 currency: EUR
 price: 45.35

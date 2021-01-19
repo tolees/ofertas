@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pLGHkvZ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D315GYF-es B Blesiya Trompetas Cornetas Válvula Deslice El Anillo De Tiro para Reparar La Pieza De Plata'
+slug: 'B07D315GYF-es B Blesiya Trompetas Cornetas Válvula Deslice El Anillo De...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

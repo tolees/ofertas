@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TyggmC5iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPBKDDT-es Calvin Klein Reloj Analógico-Digital para Unisex Adultos de Cuarzo con Correa en Cuero K8M211CN'
+slug: 'B07NPBKDDT-es Calvin Klein Reloj Analógico-Digital para Unisex Adultos...'
+tags: 
 actualPrice: 100.0 EUR
 currency: EUR
 price: 100.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41x%2BiKhACUL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B016DMWV50-es Moulinex AF220010 - Freidora  Capacidad de 1 litro de Aceite  para Unos 600 gr de Comida  Acero Inoxidable  Bol Antiadherente  Filtro Metálico Incluido  Termostato Ajustable  1000 W  Plástico  Negro'
+slug: 'B016DMWV50-es Moulinex AF220010 - Freidora Capacidad de 1 litro de...'
+tags: 
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rHIbmuOGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBFARIJ-es Ukelele Redondo de 21” Construido con Funda  Bolsa de Accesorios  Púas  Correa Ajustable  Afinador  Cejilla de Aleación  Llave para Desmontado  Cuerda y Toalla para Limpiar'
+slug: 'B01NBFARIJ-es Ukelele Redondo de 21” Construido con Funda Bolsa de...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

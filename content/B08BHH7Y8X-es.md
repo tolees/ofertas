@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Y-XS5cEWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHH7Y8X-es Soporte Ordenador Portátil Laptop Stand - 7.9-17” Soporte para Portátil Plegable  Aluminio Atril Portátil Soporte PC  Soporte Portátil Mesa para MacBook Air/Lenovo/Otros Portátiles y Tableta  Plata '
+slug: 'B08BHH7Y8X-es Soporte Ordenador Portátil Laptop Stand - 7.9-17” Soporte...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

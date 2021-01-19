@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JoZRKQGpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000XJ3PHI-es Bosch 2 608 640 444 - Hoja de sierra circular Optiline Wood - 254 x 30 x 2 8 mm  60  pack de 1 '
+slug: 'B000XJ3PHI-es Bosch 2 608 640 444 - Hoja de sierra circular Optiline...'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

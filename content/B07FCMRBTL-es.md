@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516m8UM930L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCMRBTL-es SanDisk Extreme PLUS - Tarjeta de memoria microSDXC de 256 GB con adaptador SD  A2  hasta 170 MB/s  Class 10  U3 y V30'
+slug: 'B07FCMRBTL-es SanDisk Extreme PLUS - Tarjeta de memoria microSDXC de 256...'
+tags: 
 actualPrice: 76.53 EUR
 currency: EUR
 price: 76.53

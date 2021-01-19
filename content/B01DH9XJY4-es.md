@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GO7ZP3vlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DH9XJY4-es Victoria Mercedes Terciopelo  Bailarinas con Punta Cerrada para Niñas  Azul  Marino 30   22 EU'
+slug: 'B01DH9XJY4-es Victoria Mercedes Terciopelo Bailarinas con Punta Cerrada...'
+tags: 
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cJTr4WLmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HF5WGV4-es Dulceida Mucho Amor Velvet - Funda para portátil de 13"  Color Rosa'
+slug: 'B07HF5WGV4-es Dulceida Mucho Amor Velvet - Funda para portátil de 13"...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

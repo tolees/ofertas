@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HP3pf+tSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFMKZS7-es Pulsera de mujer  pulsera con cuentas en plata de ley 925  pulsera actual para mujeres  brazalete de cadena  de Amesii.'
+slug: 'B07FFMKZS7-es Pulsera de mujer pulsera con cuentas en plata de ley 925...'
+tags: 
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

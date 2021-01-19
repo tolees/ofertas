@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51io1q4lf6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W12RPGL-es Reparación de Relojes 149 Piezas  Herramientas para Relojero ETEPON'
+slug: 'B07W12RPGL-es Reparación de Relojes 149 Piezas Herramientas para...'
+tags: 
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

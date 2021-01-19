@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jewnHrdyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KH31FKY-es Under Armour Men s Printed Blitzing 3.0 Gorra  Hombre  Rojo  Barn/Barn/Aruba Red 633   S/M'
+slug: 'B07KH31FKY-es Under Armour Men s Printed Blitzing 3.0 Gorra Hombre Rojo...'
+tags: 
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

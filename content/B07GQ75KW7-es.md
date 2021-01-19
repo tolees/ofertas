@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O1vuSHIyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GQ75KW7-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable SKS629P1'
+slug: 'B07GQ75KW7-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 216.1 EUR
 currency: EUR
 price: 216.1

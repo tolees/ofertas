@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T3at0oVkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2YP9M5-es BESCHOI Plancha de Pelo Profesional  Revestimiento de Turmalina y Cerámica  Digital Suspensión 3D Proteína Vegetal Alisados Ondas y Rizos Naturales'
+slug: 'B07S2YP9M5-es BESCHOI Plancha de Pelo Profesional Revestimiento de...'
+tags: 
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

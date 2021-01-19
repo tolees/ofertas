@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51et421k6HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5W9HB6-es ORICO Carcasa Disco Duro Externo 2.5   Caja Externa Disco Duro USB 3.0 a SATA 3.0 con UASP para HDD o SSD SATA I II III de 2.5 Pulgadas y 7-9.5 mm de hasta 4TB  sin Herramientas  Negro '
+slug: 'B08B5W9HB6-es ORICO Carcasa Disco Duro Externo 2.5 Caja Externa Disco...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

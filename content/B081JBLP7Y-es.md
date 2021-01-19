@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XvYNMTZ5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081JBLP7Y-es SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno para Mujer Púrpura nebuloso ES:95C  EU 80C '
+slug: 'B081JBLP7Y-es SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno...'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

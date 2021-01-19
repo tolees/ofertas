@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518Gx8mbDQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078ZZ2CGL-es TRESemmé Champú Cuidado Clásico - Paquete de 4 x 900 ml - Total: 3600 ml'
+slug: 'B078ZZ2CGL-es TRESemmé Champú Cuidado Clásico - Paquete de 4 x 900 ml -...'
+tags: 
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

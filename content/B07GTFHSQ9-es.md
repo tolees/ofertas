@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZHTGmEnUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GTFHSQ9-es Devolo Magic 1 LAN - Starter Kit de Powerline para una Red Doméstica Fiable a Través de Techos y Paredes Mediante los Cables de Corriente  Innovadora Tecnología G.hn  Blanco'
+slug: 'B07GTFHSQ9-es Devolo Magic 1 LAN - Starter Kit de Powerline para una Red...'
+tags: 
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

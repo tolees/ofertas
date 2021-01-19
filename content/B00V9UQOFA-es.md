@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414i6UZmaPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V9UQOFA-es KFD 65W Adaptador Cargador portátil para Intel NUC NUC8i5BEK NUC7I3BNK Mini PC  MSI Cubi N 8GL Ordenador de sobremesa  MSI Modern 14 A10RB-663XES  MEDION Ultrafino S6445 MD61389 E6421 E6424 19V 3 42A'
+slug: 'B00V9UQOFA-es KFD 65W Adaptador Cargador portátil para Intel NUC...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

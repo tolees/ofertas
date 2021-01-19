@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ps8grQrML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT82GZJ-es Sony ICD-PX370  Grabadora De Voz Digital  USB  Si  estándar  Negro'
+slug: 'B01MT82GZJ-es Sony ICD-PX370 Grabadora De Voz Digital USB Si estándar Negro'
+tags: 
 actualPrice: 46.47 EUR
 currency: EUR
 price: 46.47

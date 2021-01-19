@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g30bjvYKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089KGXBLP-es RECCI Cubrecolchón 120x190/200 - Cubre Colchón 120x190/200 Impermeable  100% Bambú Fundas de Colchón  Protector de Colchón  Ultra Suave  Transpirable  Anti-Ácaros  Silencioso [ 120 x 190/200 cm ]'
+slug: 'B089KGXBLP-es RECCI Cubrecolchón 120x190/200 - Cubre Colchón 120x190/200...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T6zp0P5BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TJ1F5R-es Skechers Women s BOBS Squad-Tough Talk Sneakers  Black  Black Engineered Knit/Trim BBK   7 UK 40 EU'
+slug: 'B077TJ1F5R-es Skechers Women s BOBS Squad-Tough Talk Sneakers Black...'
+tags: 
 actualPrice: 36.57 EUR
 currency: EUR
 price: 36.57

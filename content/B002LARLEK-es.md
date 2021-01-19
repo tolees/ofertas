@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rb7nxLG5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B002LARLEK-es Love Hair Extensions Extensiones de Clip de Pelo Natural Color 25 Rubio Claro'
+slug: 'B002LARLEK-es Love Hair Extensions Extensiones de Clip de Pelo Natural...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

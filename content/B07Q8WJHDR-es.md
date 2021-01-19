@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4170BAlF0SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q8WJHDR-es Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable SGEH67P1'
+slug: 'B07Q8WJHDR-es Seiko Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 126.0 EUR
 currency: EUR
 price: 126.0

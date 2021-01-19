@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0845LTBR7-es Middle Moon Apolo 2020'
+tags: 
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

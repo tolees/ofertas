@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uOMHbaF6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKLXQ5Z-es Festnight Mesa para TV Mueble TV Salón Mesa Televisión con 2 Puertas y 2 Compartimentos 120x30x40 cm Madera Maciza de Mango'
+slug: 'B07VKLXQ5Z-es Festnight Mesa para TV Mueble TV Salón Mesa Televisión con...'
+tags: 
 actualPrice: 175.99 EUR
 currency: EUR
 price: 175.99

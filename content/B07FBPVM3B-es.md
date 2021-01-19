@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WyNLwShHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FBPVM3B-es Skechers Flex Appeal 3.0-First Insight  Zapatillas para Mujer - Negro  Black Mesh/Rose Gold Trim Bkrg  - 35 EU'
+slug: 'B07FBPVM3B-es Skechers Flex Appeal 3.0-First Insight Zapatillas para...'
+tags: 
 actualPrice: 44.85 EUR
 currency: EUR
 price: 44.85

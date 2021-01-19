@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-R0Q4PLvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000CSLJDW-es ghd original - Plancha de pelo profesional  tecnología cerámica'
+slug: 'B000CSLJDW-es ghd original - Plancha de pelo profesional tecnología...'
+tags: 
 actualPrice: 108.99 EUR
 currency: EUR
 price: 108.99

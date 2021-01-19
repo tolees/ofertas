@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lkHYroDqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CJOC9TE-es JewelryWe Reloj de Parejas los Enamorados Retro Reloj de Cuarzo con Calendario Tres Ojos de decoración Correa de Cuero marrón Elegante Regalo de San Valentín'
+slug: 'B01CJOC9TE-es JewelryWe Reloj de Parejas los Enamorados Retro Reloj de...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

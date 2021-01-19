@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uspMHQtGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MHS3VT-es S&R Martillo de Cerrajero Carpintero 300 G. Mango de fibra de vidrio anti deslizante y anti vibración.'
+slug: 'B077MHS3VT-es S&R Martillo de Cerrajero Carpintero 300 G. Mango de fibra...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

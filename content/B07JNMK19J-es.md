@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZiEPYaU3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNMK19J-es adidas Trefoil T-Shirt  Hombre  Power Red  M'
+slug: 'B07JNMK19J-es adidas Trefoil T-Shirt Hombre Power Red M'
+tags: 
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

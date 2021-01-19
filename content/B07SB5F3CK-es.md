@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414kTpZDmhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB5F3CK-es Bolsas de Leche Materna 50 Piezas  Bestele Recipientes almacenamiento de leche materna 220ml Sin BPA  Sello de Cremallera  50 Piezas '
+slug: 'B07SB5F3CK-es Bolsas de Leche Materna 50 Piezas Bestele Recipientes...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

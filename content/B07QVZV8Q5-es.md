@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q-zqGcmDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVZV8Q5-es Exprimidor Manual de Acero Inoxidable 304 con Recipiente de 300ML  Ø 12 5 cm  Citrus Juicer de Mano Portátil para Naranja Limón Lima Cítricos Pomelo  Apto para Lavavajillas'
+slug: 'B07QVZV8Q5-es Exprimidor Manual de Acero Inoxidable 304 con Recipiente...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

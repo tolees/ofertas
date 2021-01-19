@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZyyhH7E6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WG1KB99-es COOLJOY Juguete de Excavadora  Excavadora Camión  Camión del Juguete del Excavador para Niños  con Luces y Sonido'
+slug: 'B07WG1KB99-es COOLJOY Juguete de Excavadora Excavadora Camión Camión del...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

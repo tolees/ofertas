@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21fmEVDDpTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B49QDGQ-es Everlast 2260 Punching de Pie  Unisex  Negro  Ajustable hasta 1 65 m de Altura'
+slug: 'B00B49QDGQ-es Everlast 2260 Punching de Pie Unisex Negro Ajustable hasta...'
+tags: 
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

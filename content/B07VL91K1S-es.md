@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519q27kC9SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VL91K1S-es Gimbal Estabilizador para Cámaras de Acción - 3-Axis Gimbal Stabilizer Para GoPro Hero 7/6/5/4/3  DJI Osmo Action  Yi Cam 4K  AEE  modo Deportivo Actualizado  12H de Tiempo de Seguimiento de Objeto'
+slug: 'B07VL91K1S-es Gimbal Estabilizador para Cámaras de Acción - 3-Axis...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

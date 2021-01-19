@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512CpBp2ZrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LCGM2CP-es Tolyneil 36 piezas de acero Punch Alphabet Letter Number Stamper Set herramientas de punzonado de cuero DIY Leather Craft Printing Tools  6mm '
+slug: 'B07LCGM2CP-es Tolyneil 36 piezas de acero Punch Alphabet Letter Number...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

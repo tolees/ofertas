@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q29bLpiRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EU8A49K-es Elizabeth Arden Eight hour Intensive Bálsamo Reparador de Labios - 11 6 ml'
+slug: 'B00EU8A49K-es Elizabeth Arden Eight hour Intensive Bálsamo Reparador de...'
+tags: 
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

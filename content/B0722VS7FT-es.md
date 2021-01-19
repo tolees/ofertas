@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hUz6OFdyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0722VS7FT-es Cuchillo japonés Cuchillo sushi pro Cuchillo Santoku 17cm  Alemania Cuchillo de Acero Inoxidable de Sushi para Cocina y Restaurante'
+slug: 'B0722VS7FT-es Cuchillo japonés Cuchillo sushi pro Cuchillo Santoku 17cm...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

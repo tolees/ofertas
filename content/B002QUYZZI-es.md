@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+IN0v7RgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002QUYZZI-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable BM8434-58AE'
+slug: 'B002QUYZZI-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 114.27 EUR
 currency: EUR
 price: 114.27

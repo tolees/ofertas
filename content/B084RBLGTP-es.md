@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TKGJizHnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084RBLGTP-es 100pcs / Set Hoja conductora Profesional 2.5x0.5CM Pestaña de Soldadura Adecuada para Celdas de batería Recargable 18650 Plata - Plata'
+slug: 'B084RBLGTP-es 100pcs / Set Hoja conductora Profesional 2.5x0.5CM Pestaña...'
+tags: 
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

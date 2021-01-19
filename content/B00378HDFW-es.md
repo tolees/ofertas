@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31P6eycbrzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00378HDFW-es L Oréal Paris Barra de Labios Color Riche Creme 302 Bois de Rose'
+slug: 'B00378HDFW-es L Oréal Paris Barra de Labios Color Riche Creme 302 Bois...'
+tags: 
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

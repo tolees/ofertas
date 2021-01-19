@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410Pv3wVB0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C4QL66Y-es SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 128 GB  con Lector USB 3.0 hasta 275 MB/s  UHS-II  Clase 10 y U3 '
+slug: 'B01C4QL66Y-es SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 128...'
+tags: 
 actualPrice: 130.46 EUR
 currency: EUR
 price: 130.46

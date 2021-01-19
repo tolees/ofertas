@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gyKd8ORSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JPUANAS-es MAKITA DHR263Z Martillo Ligero 26Mm 18Vx2  18 V  Negro  Azul'
+slug: 'B00JPUANAS-es MAKITA DHR263Z Martillo Ligero 26Mm 18Vx2 18 V Negro Azul'
+tags: 
 actualPrice: 236.0 EUR
 currency: EUR
 price: 236.0

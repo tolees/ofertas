@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kV1Mcc6YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRY9PQ5-es feihao Juguetes para Gatos Interactivos Bola de Gato  Juguetes para Gatos Pelotas  Automático Dispensador de Comida para Gatos  4 en 1 Bolas Educativas'
+slug: 'B08CRY9PQ5-es feihao Juguetes para Gatos Interactivos Bola de Gato...'
+tags: 
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

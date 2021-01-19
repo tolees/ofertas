@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cx-QUmBIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G02E4FE-es Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Rojo  Scarlet   43 EU'
+slug: 'B00G02E4FE-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Rojo...'
+tags: 
 actualPrice: 38.93 EUR
 currency: EUR
 price: 38.93

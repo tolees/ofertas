@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410OGmiHWzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRI8HQ1-es Dockers by Gerli 30st027-790200  Zapatillas para Hombre  Gris  Grau 200   44 EU'
+slug: 'B01MRI8HQ1-es Dockers by Gerli 30st027-790200 Zapatillas para Hombre...'
+tags: 
 actualPrice: 29.31 EUR
 currency: EUR
 price: 29.31

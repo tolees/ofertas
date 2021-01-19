@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317CTNV2QtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7CJ5V4-es adidas Cushioned Crew Calcetines Largo Clásico  Unisex Adulto  Blanco  White/Black   XS'
+slug: 'B07S7CJ5V4-es adidas Cushioned Crew Calcetines Largo Clásico Unisex...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rbZqHVeyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9AXIP1-es Silla de paseo compacta iCOO Acrobat hasta 18 kg con función de tumbado desde el nacimiento  plegable con una mano  ligero - chassis de aluminio  manillar regulable en altura  reflectores - verde'
+slug: 'B01M9AXIP1-es Silla de paseo compacta iCOO Acrobat hasta 18 kg con...'
+tags: 
 actualPrice: 203.62 EUR
 currency: EUR
 price: 203.62

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418DtOiCS1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FVT7ZJE-es Soporte Pared Monitor/TV EWENT Easy Pan-Tilt EW1522 13"/42" MAX.20KG Negro Multi-DIRECCIONAL'
+slug: 'B00FVT7ZJE-es Soporte Pared Monitor/TV EWENT Easy Pan-Tilt EW1522...'
+tags: 
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

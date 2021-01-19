@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xPY1C-9LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CP7NGKY-es Relaxdays - Aspersor Riego Regulable  78 metros cuadrados  Negro-Verde'
+slug: 'B07CP7NGKY-es Relaxdays - Aspersor Riego Regulable 78 metros cuadrados...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

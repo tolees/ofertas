@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iQWxI8U4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZCNWK6-es PAAD06015SL Laptop CPU Cooling Fan For GE60 16GA 16GC Series Notebook Cooler 0.55A 3Pin'
+slug: 'B06ZZCNWK6-es PAAD06015SL Laptop CPU Cooling Fan For GE60 16GA 16GC...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

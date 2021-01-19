@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DxrqWP6VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TB87JKY-es BRIKSMAX Kit de Iluminación Led para Lego Ideas NASA Apolo Saturno V  Compatible con Ladrillos de Construcción Lego Modelo 21309  Juego de Legos no Incluido'
+slug: 'B07TB87JKY-es BRIKSMAX Kit de Iluminación Led para Lego Ideas NASA Apolo...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

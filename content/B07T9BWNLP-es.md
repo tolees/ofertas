@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZUNze2HKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9BWNLP-es YESKAMO Kit Cámaras de Vigilancia Wifi Exterior 8 Canales con 4 Cámaras Wifi 1080p Full HD y 2.0 Megapíxele  CCTV Cámaras IP de Videovigilancia con Disco Duro de 2TB'
+slug: 'B07T9BWNLP-es YESKAMO Kit Cámaras de Vigilancia Wifi Exterior 8 Canales...'
+tags: 
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

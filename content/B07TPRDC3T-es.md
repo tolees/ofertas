@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q8O6E8afL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPRDC3T-es Bestway Piscina familiar 54150 - Piscina inflable - 305 x 183 x 46 cm - Paredes laterales extra anchas - 3+'
+slug: 'B07TPRDC3T-es Bestway Piscina familiar 54150 - Piscina inflable - 305 x...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

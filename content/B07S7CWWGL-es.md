@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F1svsj1BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7CWWGL-es Aluminio Pequeños joyeros Hobby Abrazadera en la mesa Banco Vise Mini herramienta Vice Muliti-Funcional Craft Mould Fixed Repair Tool-Silver-1 Tamaño'
+slug: 'B07S7CWWGL-es Aluminio Pequeños joyeros Hobby Abrazadera en la mesa...'
+tags: 
 actualPrice: 3.32 EUR
 currency: EUR
 price: 3.32

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FQfe5cDZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074VD54TS-es AmazonBasics – Cable USB 2.0 A a micro USB B con trenzado doble | 0 9 m  Rojo'
+slug: 'B074VD54TS-es AmazonBasics – Cable USB 2.0 A a micro USB B con trenzado...'
+tags: 
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

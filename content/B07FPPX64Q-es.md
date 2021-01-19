@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nesWTrpUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPPX64Q-es Moulinex XF389010 Accesorios Cuisine Companion  kit repostería  varillas de doble rotación  manga pastelera  espátula  molde 12 muffins  tapete bandeja horno y recetario  molde desmontable 24 cm'
+slug: 'B07FPPX64Q-es Moulinex XF389010 Accesorios Cuisine Companion kit...'
+tags: 
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

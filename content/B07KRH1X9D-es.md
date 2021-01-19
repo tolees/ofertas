@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uu6kIzyYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRH1X9D-es New Balance 574v2  Zapatillas para Mujer  Blanco  White/Grey White/Grey   35 EU'
+slug: 'B07KRH1X9D-es New Balance 574v2 Zapatillas para Mujer Blanco White/Grey...'
+tags: 
 actualPrice: 46.04 EUR
 currency: EUR
 price: 46.04

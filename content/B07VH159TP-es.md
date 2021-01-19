@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5103rW+ifGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VH159TP-es NEW C 2 Unidades  Protector de Pantalla para Huawei Mate 20x Vidrio Cristal Templado'
+slug: 'B07VH159TP-es NEW C 2 Unidades Protector de Pantalla para Huawei Mate...'
+tags: 
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

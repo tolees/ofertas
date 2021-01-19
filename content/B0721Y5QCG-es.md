@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721Y5QCG-es NUTRI COLOR CREME 270ML 000'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WmrLEjhvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MPZV80Z-es Purina Dentalife golosina dental para Perro Grande  Pack de 4  piezas - Total 142 g'
+slug: 'B01MPZV80Z-es Purina Dentalife golosina dental para Perro Grande Pack de...'
+tags: 
 actualPrice: 4.38 EUR
 currency: EUR
 price: 4.38

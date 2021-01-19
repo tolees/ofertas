@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31D0qZrB7yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRSRVD4-es DC Shoes Switch  Zapatillas de Skateboard para Hombre  Negro  White/White/Gum Hwg   45 EU'
+slug: 'B07SRSRVD4-es DC Shoes Switch Zapatillas de Skateboard para Hombre Negro...'
+tags: 
 actualPrice: 40.2 EUR
 currency: EUR
 price: 40.2

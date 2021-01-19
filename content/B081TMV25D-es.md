@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ydIcH8IML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TMV25D-es adidas Predator TRN Balón de Fútbol  Men s  Black/Active Red/White  5'
+slug: 'B081TMV25D-es adidas Predator TRN Balón de Fútbol Men s Black/Active...'
+tags: 
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

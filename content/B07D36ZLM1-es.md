@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416EB1k5ZmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D36ZLM1-es upHere Refrixerador de Memoria RAM - Disipador Térmico De Aluminio para DDR RAM Memoria Negro MBK5-1'
+slug: 'B07D36ZLM1-es upHere Refrixerador de Memoria RAM - Disipador Térmico De...'
+tags: 
 actualPrice: 8.28 EUR
 currency: EUR
 price: 8.28

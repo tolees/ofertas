@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XjlE6ZQmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R7QGGR-es New Balance Fresh Foam Cruz v2  Zapatillas para Mujer  Rosa  Conch Shell/Dark Oxide Na2   37.5 EU'
+slug: 'B075R7QGGR-es New Balance Fresh Foam Cruz v2 Zapatillas para Mujer Rosa...'
+tags: 
 actualPrice: 57 EUR
 currency: EUR
 price: 57

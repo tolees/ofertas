@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X+MYrrTbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QRKZJLH-es Le Creuset 20202320600460 Parrilla Rectangular  Apto para todas las fuentes de calor  incl. inducción  Hierro Fundido  Rojo Cereza '
+slug: 'B07QRKZJLH-es Le Creuset 20202320600460 Parrilla Rectangular Apto para...'
+tags: 
 actualPrice: 66.78 EUR
 currency: EUR
 price: 66.78

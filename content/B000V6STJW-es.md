@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UNZ10y1GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000V6STJW-es Speedo Endurance   Traje de natación para mujer   Negro  Schwarz   Tamaño del fabricante 38'
+slug: 'B000V6STJW-es Speedo Endurance Traje de natación para mujer Negro...'
+tags: 
 actualPrice: 21.82 EUR
 currency: EUR
 price: 21.82

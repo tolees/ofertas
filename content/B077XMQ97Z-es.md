@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hYY2TvYJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XMQ97Z-es Under Armour Rival Fleece Jogger Pantalones  Hombre  Negro  Black/Black 001   XXL'
+slug: 'B077XMQ97Z-es Under Armour Rival Fleece Jogger Pantalones Hombre Negro...'
+tags: 
 actualPrice: 30.4 EUR
 currency: EUR
 price: 30.4

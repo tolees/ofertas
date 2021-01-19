@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DK-pQR6aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MKQMM4O-es Wella Sp  Aceite para el cabello - 100 ml.'
+slug: 'B00MKQMM4O-es Wella Sp Aceite para el cabello - 100 ml.'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EW3Wuyx0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q3CECNK-es SMEG BLF01BLEU Batidora  150 W  0.45 litros  Metal  plástico  4 Velocidades  Negro'
+slug: 'B00Q3CECNK-es SMEG BLF01BLEU Batidora 150 W 0.45 litros Metal plástico 4...'
+tags: 
 actualPrice: 119.22 EUR
 currency: EUR
 price: 119.22

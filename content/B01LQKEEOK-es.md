@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a+Sx1jHiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LQKEEOK-es SD toys - Mug Game of Thrones - Targaryen Verre Noir Logo Rotatif - 8436546897552'
+slug: 'B01LQKEEOK-es SD toys - Mug Game of Thrones - Targaryen Verre Noir Logo...'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

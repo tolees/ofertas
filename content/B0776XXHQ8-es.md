@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dPpe125UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776XXHQ8-es Tommy Hilfiger Original Fine Pique Polo  Gris  Lt Grey Htr 038   X-Small para Hombre'
+slug: 'B0776XXHQ8-es Tommy Hilfiger Original Fine Pique Polo Gris Lt Grey Htr...'
+tags: 
 actualPrice: 31.28 EUR
 currency: EUR
 price: 31.28

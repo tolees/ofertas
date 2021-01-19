@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518VcJ6-tBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MJQR6M-es Curren hombres reloj de cuarzo analógico  reloj de pulsera de estilo militar multifunción  resistente al agua  con correa de cuero y pantalla de fecha 8301  Red '
+slug: 'B077MJQR6M-es Curren hombres reloj de cuarzo analógico reloj de pulsera...'
+tags: 
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

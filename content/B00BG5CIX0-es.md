@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Xn8p5CqaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BG5CIX0-es Philips Lighting Creek Aplique  Blanco  24 cm'
+slug: 'B00BG5CIX0-es Philips Lighting Creek Aplique Blanco 24 cm'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

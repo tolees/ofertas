@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IE4+Um2iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ9SDK2-es Levi s XX Std II Khakis  Beige  True Chino Shady GD Ccu B 0011   W34/L32  Talla del Fabricante: 34 32  para Hombre'
+slug: 'B07TJ9SDK2-es Levi s XX Std II Khakis Beige True Chino Shady GD Ccu B...'
+tags: 
 actualPrice: 36.59 EUR
 currency: EUR
 price: 36.59

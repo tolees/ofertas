@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41N3bqGqSJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSEYUIC-es Philips Avent SCF169/25 - Set de 2 chupetes Gama Safari  de 0 a 6 meses  diseño tigre o hipopótamo  para niño'
+slug: 'B01MSEYUIC-es Philips Avent SCF169/25 - Set de 2 chupetes Gama Safari de...'
+tags: 
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

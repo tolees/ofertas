@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GnCFKOVZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0899L2SSX-es Brewsly Termo Cafe 900ml  6 h Caliente y 12 h Frío  Botella Termica de Acero Inoxidable  Aislamiento de Vacío de Doble Pared Vaso Termico  Sin BPA  Tapa a Prueba de Fugas  para Café  Té  Negro'
+slug: 'B0899L2SSX-es Brewsly Termo Cafe 900ml 6 h Caliente y 12 h Frío Botella...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

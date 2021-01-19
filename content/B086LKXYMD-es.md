@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ATCxtDIdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086LKXYMD-es Sony WFXB700B True Wireless - Auriculares  Totalmente inalámbrico  Bluetooth  Extra Bass  Micro para llamadas Manos Libres  18h de batería  Resistencia IPX4   Negro'
+slug: 'B086LKXYMD-es Sony WFXB700B True Wireless - Auriculares Totalmente...'
+tags: 
 actualPrice: 82.52 EUR
 currency: EUR
 price: 82.52
@@ -26,9 +27,9 @@ Está [Sony WFXB700B True Wireless - Auriculares  Totalmente inalámbrico  Bluet
 ℹ️:
 
 - Hasta 18h de batería con caja (9 h de uso sin caja)
+- Llamadas manos libres
 - Conexión Bluetooth simultánea en ambos auriculares
 - Totalmente inalámbrico
-- Llamadas manos libres
 - Resistencia IPX4
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086LKXYMD/?tag=tolees-21)

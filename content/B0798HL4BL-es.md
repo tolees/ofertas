@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ei3mXuS5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0798HL4BL-es G-STAR RAW Rovulc Low  Zapatillas para Mujer  Rosa  Bright Bazooka 7178   38 EU'
+slug: 'B0798HL4BL-es G-STAR RAW Rovulc Low Zapatillas para Mujer Rosa Bright...'
+tags: 
 actualPrice: 16.23 EUR
 currency: EUR
 price: 16.23

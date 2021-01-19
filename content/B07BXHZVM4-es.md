@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61QYI18O8EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXHZVM4-es WLZP Toalla de Playa  100% algodón Absorbente Manta de Playa - 75 x 150CM  Compacto  Resistente a la Arena. La Mejor Toalla Ligera para Nadar  Deportes  Viajes  Playa e- Regalos Funda Impermeable'
+slug: 'B07BXHZVM4-es WLZP Toalla de Playa 100% algodón Absorbente Manta de...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

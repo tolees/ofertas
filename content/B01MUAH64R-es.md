@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T0NJUqonL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUAH64R-es Diesel UMBX-SHAWNTHREEPACK  Calzoncillo para Hombre  Negro  M  Pack de 3'
+slug: 'B01MUAH64R-es Diesel UMBX-SHAWNTHREEPACK Calzoncillo para Hombre Negro M...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

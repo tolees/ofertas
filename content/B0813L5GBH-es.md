@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xFyth3gwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813L5GBH-es Rytaki Surface Pro Cargador  15V 2.58A 44W Surface Pro Adaptador para Surface Pro 4 / Pro 5/ Pro 6 / Pro 7  Surface Laptop  Surface Go  Surface Book con Puerto del USB y Cable Extensión Alimentación'
+slug: 'B0813L5GBH-es Rytaki Surface Pro Cargador 15V 2.58A 44W Surface Pro...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

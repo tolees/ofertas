@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dP5FAlozL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792BZWY8-es Merrell Moab 2 GTX  Zapatillas de Senderismo para Hombre  Azul  Navy   43 EU'
+slug: 'B0792BZWY8-es Merrell Moab 2 GTX Zapatillas de Senderismo para Hombre...'
+tags: 
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

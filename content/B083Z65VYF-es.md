@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YephRyzWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083Z65VYF-es Panamami Magic Drawing Light Effect Board Sketch Board Tablet Drawing Creative Children Pen Gift Light Art Drawing Toy/Multicolor'
+slug: 'B083Z65VYF-es Panamami Magic Drawing Light Effect Board Sketch Board...'
+tags: 
 actualPrice: 4.37 EUR
 currency: EUR
 price: 4.37

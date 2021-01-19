@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eO2uLfm8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWLG4XR-es Evilandat - Placa metálica de matrícula de la ruta 66 de EE. UU.  estilo vintage y anticuado  para decorar la pared del hogar  tienda  garaje  bar '
+slug: 'B06XWLG4XR-es Evilandat - Placa metálica de matrícula de la ruta 66 de...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

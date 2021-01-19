@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EB6i42YtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GB0HJUM-es Rimmel London Moisture Renew Barra De Labios Tono 200 Latino - 19 gr'
+slug: 'B00GB0HJUM-es Rimmel London Moisture Renew Barra De Labios Tono 200...'
+tags: 
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

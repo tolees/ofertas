@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318BsLQWZjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS6FH6P-es Tommy Hilfiger - Th Nylon Tote  Bolsos totes Mujer  Multicolor  Corporate   14x0.1x47 cm  W x H L '
+slug: 'B07RS6FH6P-es Tommy Hilfiger - Th Nylon Tote Bolsos totes Mujer...'
+tags: 
 actualPrice: 55.94 EUR
 currency: EUR
 price: 55.94

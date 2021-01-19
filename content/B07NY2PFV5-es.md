@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lePlN-5OL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY2PFV5-es 4 0L Humidificador Ultrasónica Bebé Silencioso  Boquilla 360° con Aromaterapia Difusor  Apagado Automático  para Hogar  Habitación para Bebés  Oficina  con Filtro  Fresco y Cálido - WaterFall'
+slug: 'B07NY2PFV5-es 4 0L Humidificador Ultrasónica Bebé Silencioso Boquilla...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

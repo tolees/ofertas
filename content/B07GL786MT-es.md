@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zmgg3cr6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GL786MT-es Isdin Isdinceutics Tratamiento Antimanchas Pigment Expert + Night peel | Serum Corrector Despigmentante Facial y Peeling Exfoliante de Noche Monodosis 10 + 10 x 2ml.'
+slug: 'B07GL786MT-es Isdin Isdinceutics Tratamiento Antimanchas Pigment Expert...'
+tags: 
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51m6k7BRYNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MFPCHD6-es Llave USB 16 GB Iron Man - Memoria Flash Drive 2.0 Original Marvel Avengers  Tribe FD016504'
+slug: 'B00MFPCHD6-es Llave USB 16 GB Iron Man - Memoria Flash Drive 2.0...'
+tags: 
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

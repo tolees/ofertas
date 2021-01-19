@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q6sTbPuKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017RMTYEG-es PET MAGASIN - Huesos de Cuero Crudo Natural – Delicias masticables para Perros Altamente proteicas y Bajas en Grasa para los Dientes y el Comportamiento de los Perros sanos  10 Unidades  Medio '
+slug: 'B017RMTYEG-es PET MAGASIN - Huesos de Cuero Crudo Natural – Delicias...'
+tags: 
 actualPrice: 14.34 EUR
 currency: EUR
 price: 14.34

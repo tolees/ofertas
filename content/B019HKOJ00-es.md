@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jfq6nYbpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019HKOJ00-es EXO Lighting - Aplique de pared modelo IV en aluminio IP20 led'
+slug: 'B019HKOJ00-es EXO Lighting - Aplique de pared modelo IV en aluminio IP20...'
+tags: 
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

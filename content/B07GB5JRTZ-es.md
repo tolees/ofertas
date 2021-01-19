@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ICrGcfYlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GB5JRTZ-es ARCTIC P12 PWM - Ventilador para caja 0 3 Sone  Ventilador de CPU de 120mm  Tecnología Intercambio PWM  200 hasta 1800 RPM - Negro/Negro'
+slug: 'B07GB5JRTZ-es ARCTIC P12 PWM - Ventilador para caja 0 3 Sone Ventilador...'
+tags: 
 actualPrice: 6.55 EUR
 currency: EUR
 price: 6.55

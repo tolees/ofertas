@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-FWaIFmkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D83J4SV-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Caucho F20376/1'
+slug: 'B07D83J4SV-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 113.5 EUR
 currency: EUR
 price: 113.5

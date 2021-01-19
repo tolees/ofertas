@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ViUTDAeHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R515KGH-es Máquina de cortar pelo  maquina cortar pelo  cortador de cabello inalámbrico de precisión  cortador de cabello  4 guías de peine  cortapelos para hombres  mujeres  niños  peluqueros y estilistas'
+slug: 'B07R515KGH-es Máquina de cortar pelo maquina cortar pelo cortador de...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

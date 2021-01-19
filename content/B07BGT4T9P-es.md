@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vNeRezy6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGT4T9P-es BGT Navaja de Bolsillo con Hoja de Acero  Herramientas tácticas con Mango de ébano Rojo  Herramienta múltiple EDC para Acampar y Caza de Supervivencia'
+slug: 'B07BGT4T9P-es BGT Navaja de Bolsillo con Hoja de Acero Herramientas...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

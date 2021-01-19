@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SN7skWgTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BCHCNLN-es Kayboo Memoria USB 512GB Pendrive Mental USB Memory Stick con Llavero portátil  512gb '
+slug: 'B08BCHCNLN-es Kayboo Memoria USB 512GB Pendrive Mental USB Memory Stick...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

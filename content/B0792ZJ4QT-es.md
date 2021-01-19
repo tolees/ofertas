@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GlOOj5DFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792ZJ4QT-es Exprimidor Eléctrico  Aicok Exprimidor Zumo de naranjas  100 W  2 Conos Desmontables  Sistema Antigoteo  Pies Antideslizantes  Acero Inoxidable  Apto para lavavajillas  Sin BPA'
+slug: 'B0792ZJ4QT-es Exprimidor Eléctrico Aicok Exprimidor Zumo de naranjas 100...'
+tags: 
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

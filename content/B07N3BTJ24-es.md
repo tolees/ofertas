@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DXT8hnnDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3BTJ24-es Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK4340'
+slug: 'B07N3BTJ24-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 191.67 EUR
 currency: EUR
 price: 191.67

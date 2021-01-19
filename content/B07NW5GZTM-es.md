@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kjq5EOEaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW5GZTM-es Skechers Street Cleats 2  Zapatillas para Mujer  Olive Suede Duraleather Trim Flash Old  2.5 EU'
+slug: 'B07NW5GZTM-es Skechers Street Cleats 2 Zapatillas para Mujer Olive Suede...'
+tags: 
 actualPrice: 16.65 EUR
 currency: EUR
 price: 16.65

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k9bqfKx3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NMCRJXG-es Cámara Vigilancia WiFi Interior  Apeman 1080P Cámara IP WiFi  Visión Nocturna  Audio de 2 Vías  Detector de Movimiento'
+slug: 'B07NMCRJXG-es Cámara Vigilancia WiFi Interior Apeman 1080P Cámara IP...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

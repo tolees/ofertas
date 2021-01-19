@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sh86GGYFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZZ3DRC-es Nike Air Zoom Pegasus 35  Zapatillas de Running para Hombre  Negro  Black/White-Gunsmoke-Oil Grey 001   42 EU'
+slug: 'B075ZZ3DRC-es Nike Air Zoom Pegasus 35 Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 89.98 EUR
 currency: EUR
 price: 89.98

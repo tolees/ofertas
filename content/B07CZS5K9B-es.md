@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CSbuLda-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZS5K9B-es Under Armour Sportstyle Terry Pantalones  Hombre  Negro  Black/Onyx White 001   XL'
+slug: 'B07CZS5K9B-es Under Armour Sportstyle Terry Pantalones Hombre Negro...'
+tags: 
 actualPrice: 35.5 EUR
 currency: EUR
 price: 35.5

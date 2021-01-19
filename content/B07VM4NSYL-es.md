@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vei+2vZ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VM4NSYL-es KATOOM Bandera Welcome Home 1pcs Banner Bienvenido Bunting Swallowtail Flags arpillera banderines para Celebrar Fiestas Familiares Baby Shower Militar Bienvenida Fiestas Ceremonias decoración hogar'
+slug: 'B07VM4NSYL-es KATOOM Bandera Welcome Home 1pcs Banner Bienvenido Bunting...'
+tags: 
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

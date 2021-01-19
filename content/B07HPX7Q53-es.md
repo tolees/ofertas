@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41esVHTUwzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HPX7Q53-es Barra De Labios Mate Permanente De Pintalabios Impermeable Natural Brillo De Labios 005 rosa frambuesa'
+slug: 'B07HPX7Q53-es Barra De Labios Mate Permanente De Pintalabios Impermeable...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

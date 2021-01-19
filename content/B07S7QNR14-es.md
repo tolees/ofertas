@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31egm4cmC1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QNR14-es PUMA Radiate XT Pattern WN S  Zapatillas Deportivas para Interior para Mujer  Negro Black/Metallic Gold  36 EU'
+slug: 'B07S7QNR14-es PUMA Radiate XT Pattern WN S Zapatillas Deportivas para...'
+tags: 
 actualPrice: 23.52 EUR
 currency: EUR
 price: 23.52

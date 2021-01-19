@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oohuApRtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078C6N2DC-es Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK6559'
+slug: 'B078C6N2DC-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 157.0 EUR
 currency: EUR
 price: 157.0

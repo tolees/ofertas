@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DTK1UJC-es Ozone TRIFX - OZTRIFX - Auriculares in-Ear para Gaming'
+tags: 
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

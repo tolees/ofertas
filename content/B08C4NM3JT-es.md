@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pApmItrFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C4NM3JT-es JSDing Delantal Cocina Mujer 2 Capa con Correa de Cuello Ajustable y Bolsillo Grande Delantal Personalizado para Barbacoa  Cocina  Jornear  Limpieza  Taller  Barra'
+slug: 'B08C4NM3JT-es JSDing Delantal Cocina Mujer 2 Capa con Correa de Cuello...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

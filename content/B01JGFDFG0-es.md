@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qqxCEFUwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JGFDFG0-es Bourjois Boite Ronde Sombra de ojos Tono 13 Extra-vertie  - 16 gr.'
+slug: 'B01JGFDFG0-es Bourjois Boite Ronde Sombra de ojos Tono 13 Extra-vertie -...'
+tags: 
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

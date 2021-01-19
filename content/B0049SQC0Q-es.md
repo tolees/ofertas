@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FVpO5ScSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0049SQC0Q-es Superga 2750 Jcot Classic  Zapatillas Infantil  Gris  M38 Grey Sage   32 EU'
+slug: 'B0049SQC0Q-es Superga 2750 Jcot Classic Zapatillas Infantil Gris M38...'
+tags: 
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JvwcS-E9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711NWXZC-es Puma One 17.4 AG  Zapatillas de Fútbol para Hombre  Azul  Atomic Blue-White-Safety Yellow   44 EU'
+slug: 'B0711NWXZC-es Puma One 17.4 AG Zapatillas de Fútbol para Hombre Azul...'
+tags: 
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

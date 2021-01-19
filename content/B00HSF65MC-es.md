@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pDR7MxZnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HSF65MC-es LE Tira LED  Cadena de Luces  5m 300 LED SMD 2835  Blanco Frío No Impermeable 6000K para Techo  Escaparate  Muebles  etc.'
+slug: 'B00HSF65MC-es LE Tira LED Cadena de Luces 5m 300 LED SMD 2835 Blanco...'
+tags: 
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

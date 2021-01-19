@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21ol--t2FcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDX55FD-es Brabantia Tasty+ Batidora pequeña  color vanilla yellow'
+slug: 'B07NDX55FD-es Brabantia Tasty+ Batidora pequeña color vanilla yellow'
+tags: 
 actualPrice: 4.85 EUR
 currency: EUR
 price: 4.85

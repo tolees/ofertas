@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513AIGTwzOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CDK15D-es Just Stationery - 24 Fundas de plástico transparentes perforadas  Tamaño Único   Transparente '
+slug: 'B076CDK15D-es Just Stationery - 24 Fundas de plástico transparentes...'
+tags: 
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

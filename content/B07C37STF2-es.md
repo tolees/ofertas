@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TW0iF6rsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C37STF2-es GRÜNTEK Rodilleras de Trabajo Profesional SOFT GEL. Rodillera Con 2 Bandas  Cierre con CLIP. Para Solador  Albañil  Jardinero'
+slug: 'B07C37STF2-es GRÜNTEK Rodilleras de Trabajo Profesional SOFT GEL....'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JlqoGA8KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086KYB28Z-es Aigostar Doreen 30LYD - Envasadora al vacío para alimentos secos y húmedos  con cortador de bolsas  piloto indicador luminoso. Incluye bolsas y tubo para botes.'
+slug: 'B086KYB28Z-es Aigostar Doreen 30LYD - Envasadora al vacío para alimentos...'
+tags: 
 actualPrice: 35.19 EUR
 currency: EUR
 price: 35.19

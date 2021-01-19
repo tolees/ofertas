@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lQ1RPzRQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7GN5QR-es Willsence Tostadoras Pan 2 Rebanadas con Pantalla LCD y 9 Niveles de Tostado  Tostadora de Acero Inoxidable con Ranuras Extra Anchas  Función Descongelación y Recalentar  920W'
+slug: 'B07P7GN5QR-es Willsence Tostadoras Pan 2 Rebanadas con Pantalla LCD y 9...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

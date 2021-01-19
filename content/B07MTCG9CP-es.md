@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ONXXTYdFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTCG9CP-es Napapijri Mana WINT Pantalones  Gris  DARK GREY SOLID 198   para Hombre  Tamaño del fabricante: 36 '
+slug: 'B07MTCG9CP-es Napapijri Mana WINT Pantalones Gris DARK GREY SOLID 198...'
+tags: 
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

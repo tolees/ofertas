@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FdChFBrnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQQKQ13-es J.Endéar Tobillera de plata de ley 925 con símbolo de amor para mujeres niñas  cadena ajustable 22 + 4 cm'
+slug: 'B07PQQKQ13-es J.Endéar Tobillera de plata de ley 925 con símbolo de amor...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

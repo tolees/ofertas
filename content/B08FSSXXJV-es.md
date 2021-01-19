@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i4VQreIVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FSSXXJV-es i12-TWS Auriculares Bluetooth 5.0 Auriculares inalámbricos deportivos impermeables IPX7 Sonido estéreo 3D Control táctil Pop-Up Emparejamiento automático Auriculares Micrófono binaural HD Call -Blanco'
+slug: 'B08FSSXXJV-es i12-TWS Auriculares Bluetooth 5.0 Auriculares inalámbricos...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

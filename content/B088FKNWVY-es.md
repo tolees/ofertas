@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51K82I4aiwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FKNWVY-es ARRYNN Funda Huawei P40 Lite Cover Huawei P40 Lite Premium PU Funda de Cuero con para Huawei P40 Lite- Verde'
+slug: 'B088FKNWVY-es ARRYNN Funda Huawei P40 Lite Cover Huawei P40 Lite Premium...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

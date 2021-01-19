@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xBouz1ECL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DU93LMC-es Crocs Jaunt Shorty Boot  Botas de Agua para Mujer  Negro  Black   34/35 EU'
+slug: 'B00DU93LMC-es Crocs Jaunt Shorty Boot Botas de Agua para Mujer Negro...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

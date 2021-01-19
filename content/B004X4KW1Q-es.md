@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iXfIw6fjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004X4KW1Q-es Braun BN0032BKBKG - Reloj análogico de cuarzo con correa de cuero para hombre  color negro'
+slug: 'B004X4KW1Q-es Braun BN0032BKBKG - Reloj análogico de cuarzo con correa...'
+tags: 
 actualPrice: 95.83 EUR
 currency: EUR
 price: 95.83

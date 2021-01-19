@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UB-aRGk-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073DWVVGY-es Detector de Pared  Tacklife DMS03 Detector de Metal  Madera y AC Cable  Escáner de Pared Clásico y Multifuncional  Retroiluminación LCD  Indicación de Distancia  Batería Incluida  Lleva una Bolsa'
+slug: 'B073DWVVGY-es Detector de Pared Tacklife DMS03 Detector de Metal Madera...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

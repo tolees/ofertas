@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HudVwaYvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTT1HVM-es Women s Secret Feminine Lace Off White Sujetador con Push-up  Multicolor  Varios 3   95  Tamaño del Fabricante: 95B  para Mujer'
+slug: 'B07TTT1HVM-es Women s Secret Feminine Lace Off White Sujetador con Push-...'
+tags: 
 actualPrice: 11.12 EUR
 currency: EUR
 price: 11.12

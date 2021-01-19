@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cODuFnG6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8ZDDJ1-es Tommy Hilfiger Damen Heritage Crew Neck Graphic Tee T-Shirt  Grau  Light Grey Htr 039   Medium  Herstellergröße: M '
+slug: 'B07N8ZDDJ1-es Tommy Hilfiger Damen Heritage Crew Neck Graphic Tee...'
+tags: 
 actualPrice: 21.56 EUR
 currency: EUR
 price: 21.56

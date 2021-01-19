@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hW8rwkYnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDQ8HKD-es Vila Clothes Viplace V-Neck Knit Top-Noos suéter  Beige  Natural Melange   42  Talla del Fabricante: Large  para Mujer'
+slug: 'B07DDQ8HKD-es Vila Clothes Viplace V-Neck Knit Top-Noos suéter Beige...'
+tags: 
 actualPrice: 17.72 EUR
 currency: EUR
 price: 17.72

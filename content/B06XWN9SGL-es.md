@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kOV8pQQ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWN9SGL-es Amazon Essentials Fashion-Swim-Trunks  Marino  US S  EU S '
+slug: 'B06XWN9SGL-es Amazon Essentials Fashion-Swim-Trunks Marino US S EU S'
+tags: 
 actualPrice: 12.24 EUR
 currency: EUR
 price: 12.24

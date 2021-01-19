@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61MjxmmcaZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082D5MJS1-es MOZOOSON Pistola de Agua de Juguete para Niñas de Niños  Potente Chorro de Agua con un Alcance Largo 33ft  Water Pistol Gun para Batalla de Agua  Fiestas de Verano al Aire Libre  Capacidad de 650ml'
+slug: 'B082D5MJS1-es MOZOOSON Pistola de Agua de Juguete para Niñas de Niños...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

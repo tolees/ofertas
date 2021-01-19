@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mAxJu1ESL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0721YVYDF-es TATAY Urban Food Roll & Go Bolsa Porta Alimentos Isotérmica Enrollable  Tela  Teja  No incluye tapers  6x22x28 cm'
+slug: 'B0721YVYDF-es TATAY Urban Food Roll & Go Bolsa Porta Alimentos...'
+tags: 
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

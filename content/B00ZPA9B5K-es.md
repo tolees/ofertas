@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZPA9B5K-es DISFRAZ REINA DE CORAZONES'
+tags: 
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D2r89ZKlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD146BC-es PUMA COURTFLEX V2 V INF  Zapatillas Unisex niños  Azul  Peacoat/High Risk Red 01   23 EU'
+slug: 'B07SD146BC-es PUMA COURTFLEX V2 V INF Zapatillas Unisex niños Azul...'
+tags: 
 actualPrice: 10.02 EUR
 currency: EUR
 price: 10.02

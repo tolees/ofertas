@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51v3877eyaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMZS5SB-es Electroestimulador Muscular Abdominales Cinturón Estimulador Muscular Abdominales Masajeador Eléctrico Cinturón con EMS Ejercitador del Abdomen/Brazo/Piernas/Cintura para Hombres y Mujeres  black-1 '
+slug: 'B07VMZS5SB-es Electroestimulador Muscular Abdominales Cinturón...'
+tags: 
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

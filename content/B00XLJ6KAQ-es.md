@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MAEH0p86L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XLJ6KAQ-es Playtex APP01P4 Sujetador  Blanco  95D para Mujer'
+slug: 'B00XLJ6KAQ-es Playtex APP01P4 Sujetador Blanco 95D para Mujer'
+tags: 
 actualPrice: 16.13 EUR
 currency: EUR
 price: 16.13

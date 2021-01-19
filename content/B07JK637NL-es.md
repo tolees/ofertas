@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JK637NL-es TAZA CERAMICA 3D 450 ML | PUÑO HULK'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

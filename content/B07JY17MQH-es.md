@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hZQPwv0TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JY17MQH-es Tommy Hilfiger Modern Rev Leather Belt 3.5 Cinturón  Marrón  95  Talla del fabricante:  para Hombre'
+slug: 'B07JY17MQH-es Tommy Hilfiger Modern Rev Leather Belt 3.5 Cinturón Marrón...'
+tags: 
 actualPrice: 26.54 EUR
 currency: EUR
 price: 26.54

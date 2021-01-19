@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fvCi6Mj3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K6XOU6U-es HOMCOM Chimenea Electrica Vertical 41 5x28x54 8cm 950/1850W Efecto Leña Ardiendo Tipo 5 '
+slug: 'B01K6XOU6U-es HOMCOM Chimenea Electrica Vertical 41 5x28x54 8cm...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

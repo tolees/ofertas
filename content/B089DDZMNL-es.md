@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XanHm29mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089DDZMNL-es Fristone - Colchón de espuma viscoelástica para perro  con funda extraíble y lavable.'
+slug: 'B089DDZMNL-es Fristone - Colchón de espuma viscoelástica para perro con...'
+tags: 
 actualPrice: 31.97 EUR
 currency: EUR
 price: 31.97

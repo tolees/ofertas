@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HwaEvvNYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WR7V2W7-es EKKONG Objetivo de Tiro Eléctrico  Arma de Juguete de reinicio automático  Objetivo Digital Electrónico con Efecto de Sonido Target eléctrico'
+slug: 'B07WR7V2W7-es EKKONG Objetivo de Tiro Eléctrico Arma de Juguete de...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

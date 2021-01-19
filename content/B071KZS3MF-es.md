@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qc6XU1MWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KZS3MF-es Logitech MX Master 2s Ratón inalámbrico  Múltiples Dispositivos  Bluetooth o 2.4GHz  Receptor USB Unifying  4000 DPI Seguimiento en Cualquier Superficie 7 Botones  PC/Mac/i Pad OS Flounder Gris oscuro'
+slug: 'B071KZS3MF-es Logitech MX Master 2s Ratón inalámbrico Múltiples...'
+tags: 
 actualPrice: 76.27 EUR
 currency: EUR
 price: 76.27

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EiNzbf06L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6JR67J-es CapitalSports Alatech CS010 Pulsómetro - Sensor de Pulso  Entrenamiento Cardiovascular  Bluetooth 4.0 Smart  Protección IPX7  Resiste Agua y Sudor  Talla Universal  Correa Textil  Negro'
+slug: 'B07L6JR67J-es CapitalSports Alatech CS010 Pulsómetro - Sensor de Pulso...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

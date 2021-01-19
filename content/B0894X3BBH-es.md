@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jIV-1FSUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894X3BBH-es MagiDeal 1 Par Auriculares con Cable para Juegos de Computadora Portátil PC Tableta - Rojo'
+slug: 'B0894X3BBH-es MagiDeal 1 Par Auriculares con Cable para Juegos de...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

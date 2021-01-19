@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fQ0WML3+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876CTPJD-es Aigostar Emery 33QRT - Ventilador de pie  oscilante 80º  60W  estructura metálica  4 aspas  altura regulable  110-135cm   3 velocidades  cabezal ajustable. Silencioso. Diseño industrial.'
+slug: 'B0876CTPJD-es Aigostar Emery 33QRT - Ventilador de pie oscilante 80º 60W...'
+tags: 
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

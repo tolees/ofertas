@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+AkCsXwDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J7OV4EU-es Candy CMXG22DS Microondas con Grill y Cook In App  40 programas automáticos  plato giratorio 24.5 cm  800 W-1000 W  22 litros  silver'
+slug: 'B01J7OV4EU-es Candy CMXG22DS Microondas con Grill y Cook In App 40...'
+tags: 
 actualPrice: 67.92 EUR
 currency: EUR
 price: 67.92

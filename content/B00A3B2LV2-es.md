@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31x-BXsGiHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A3B2LV2-es Essie Esmalte de Uñas  Tono: 014 Fiji'
+slug: 'B00A3B2LV2-es Essie Esmalte de Uñas Tono: 014 Fiji'
+tags: 
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

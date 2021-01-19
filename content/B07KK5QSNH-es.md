@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Eb1s5OvBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK5QSNH-es Saucony Jazz Original Vitnage  Zapatillas para Hombre  Verde Verde Oliva 88  41 EU'
+slug: 'B07KK5QSNH-es Saucony Jazz Original Vitnage Zapatillas para Hombre Verde...'
+tags: 
 actualPrice: 69.52 EUR
 currency: EUR
 price: 69.52

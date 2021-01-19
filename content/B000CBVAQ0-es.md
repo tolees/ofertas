@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419QZOBFCQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000CBVAQ0-es Toppik Fibras Capilares Castaño Oscuro  Fibras de Queratina para Crear más Densidad en el Cabello de Forma Inmediata  27 5 g'
+slug: 'B000CBVAQ0-es Toppik Fibras Capilares Castaño Oscuro Fibras de Queratina...'
+tags: 
 actualPrice: 14.63 EUR
 currency: EUR
 price: 14.63

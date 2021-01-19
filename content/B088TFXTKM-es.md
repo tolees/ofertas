@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GBGGV9jRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TFXTKM-es 200 almohadillas de filtro desechables  almohadillas internas de filtro de respiración de seguridad  fibra no tejida  hipoalergénicas y transpirables desechables  repuesto para purificar el aire'
+slug: 'B088TFXTKM-es 200 almohadillas de filtro desechables almohadillas...'
+tags: 
 actualPrice: 6.78 EUR
 currency: EUR
 price: 6.78

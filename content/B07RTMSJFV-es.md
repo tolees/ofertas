@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51J-bD4phdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTMSJFV-es ZHENROG Electroestimulador Muscular Abdominales Estimulación Muscular Eléctrico Cinturón con USB EMS Trainer para Abdomen/Brazo/Piernas/Glúteos-Hombre/Mujer'
+slug: 'B07RTMSJFV-es ZHENROG Electroestimulador Muscular Abdominales...'
+tags: 
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fDoqrczLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QS5D7L-es find. 18105 camisetas  Gris  Grau   38  Talla del Fabricante: Small '
+slug: 'B073QS5D7L-es find. 18105 camisetas Gris Grau 38 Talla del Fabricante:...'
+tags: 
 actualPrice: 1.8 EUR
 currency: EUR
 price: 1.8

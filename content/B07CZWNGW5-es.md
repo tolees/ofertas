@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rHOV4TdwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZWNGW5-es Salomon X Radiant  Zapatillas de Senderismo para Hombre  Gris  Stormy Weather/Monument/Green Sulphur   42 EU'
+slug: 'B07CZWNGW5-es Salomon X Radiant Zapatillas de Senderismo para Hombre...'
+tags: 
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

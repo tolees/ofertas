@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41neQxR%2B4yL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQ2KPY5-es Young & Ming  2 Unidades Cristal Templado para Xiaomi Redmi Note 8 Pro  9H Dureza Alta Transparencia Ultra Resistente a Golpes Sin Burbujas'
+slug: 'B07XQ2KPY5-es Young & Ming 2 Unidades Cristal Templado para Xiaomi Redmi...'
+tags: 
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

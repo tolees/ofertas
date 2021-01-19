@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DSo2Dj+8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072HVWJDP-es Withings Steel Reloj  Unisex Adulto  Negro/Silver  36 mm'
+slug: 'B072HVWJDP-es Withings Steel Reloj Unisex Adulto Negro/Silver 36 mm'
+tags: 
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

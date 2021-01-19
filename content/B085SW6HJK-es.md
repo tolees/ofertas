@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CB7Jt4pdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085SW6HJK-es Transmisor Bluetooth con Pantalla Visual Transmisor Bluetooth y Receptor Bluetooth 2-en-1 USB Adaptador Bluetooth 5.0 para PC TV Coche Hogar'
+slug: 'B085SW6HJK-es Transmisor Bluetooth con Pantalla Visual Transmisor...'
+tags: 
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

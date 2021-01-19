@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YFhsMeUqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBMKRRQ-es  BOTÍN DE Mujer XTI Basic con Tacon DE 6 CM con Cierre DE Cremallera Abotinado  - para: Mujer Color: Negro Talla: 36'
+slug: 'B07JBMKRRQ-es BOTÍN DE Mujer XTI Basic con Tacon DE 6 CM con Cierre DE...'
+tags: 
 actualPrice: 21.18 EUR
 currency: EUR
 price: 21.18

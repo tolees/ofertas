@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ug1IhBHKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6PN4TD-es Skechers Ultra Flex-More Tranquility  Zapatillas para Mujer  Azul  Navy Mint Nvmt   36.5 EU'
+slug: 'B07J6PN4TD-es Skechers Ultra Flex-More Tranquility Zapatillas para Mujer...'
+tags: 
 actualPrice: 26.01 EUR
 currency: EUR
 price: 26.01

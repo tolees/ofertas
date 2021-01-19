@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qxtFKNrlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GGHPX30-es Max Factor LipFinity Colour & Gloss Lip Gloss Pintalabios Gloss 2 lados  Tono 550 Ruby  6 ml'
+slug: 'B00GGHPX30-es Max Factor LipFinity Colour & Gloss Lip Gloss Pintalabios...'
+tags: 
 actualPrice: 7.21 EUR
 currency: EUR
 price: 7.21

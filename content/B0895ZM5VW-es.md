@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Dj5E+XzlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895ZM5VW-es Donci La cortina de malla de la puerta con pantalla magnética manos libres mantiene a los insectos afuera Se adapta a puertas de hasta 210 * 100cm'
+slug: 'B0895ZM5VW-es Donci La cortina de malla de la puerta con pantalla...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

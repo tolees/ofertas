@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QlVz7H6yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZZXYMY-es Hi Young - Colgante de plata de ley 925 bañado en oro amarillo de 14 quilates con forma de diamante cuadrado  cadena de clavícula corta con circonita cúbica transparente  longitud 38 5 cm + extensión'
+slug: 'B07CZZXYMY-es Hi Young - Colgante de plata de ley 925 bañado en oro...'
+tags: 
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

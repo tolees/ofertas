@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413vMMA4NiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087LQQLF4-es Tyannan Cortina de Puerta Mantener alejados a los Insectos Dormitorio Pantalla de la Puerta Delantera Mantener alejados a los Mosquitos Balcón de imanes-80x205cm 31x81inch  Gris'
+slug: 'B087LQQLF4-es Tyannan Cortina de Puerta Mantener alejados a los Insectos...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

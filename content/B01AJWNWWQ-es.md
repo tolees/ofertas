@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Cgo+-xNvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AJWNWWQ-es Maxtor STSHX-M401TCBM - Disco Duro Externo de 4 TB  2.5"  USB 3.0/3.1 Gen 1   Color Negro'
+slug: 'B01AJWNWWQ-es Maxtor STSHX-M401TCBM - Disco Duro Externo de 4 TB 2.5"...'
+tags: 
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

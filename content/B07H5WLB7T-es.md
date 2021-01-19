@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3122oHem+fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5WLB7T-es Skechers Women s Flex Appeal 3.0-first Insight Trainers  Black  Slate Leather/Mesh/Lt Pink Trim Bbk   4.5 UK  37.5 EU '
+slug: 'B07H5WLB7T-es Skechers Women s Flex Appeal 3.0-first Insight Trainers...'
+tags: 
 actualPrice: 43.71 EUR
 currency: EUR
 price: 43.71

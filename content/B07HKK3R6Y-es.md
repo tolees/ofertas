@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MBPC+7vnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKK3R6Y-es Under Armour UA HOVR Sonic 2  Zapatillas de Running para Hombre  Gris  Wire/Ash Gray/Ash Gray  400  400   42.5 EU'
+slug: 'B07HKK3R6Y-es Under Armour UA HOVR Sonic 2 Zapatillas de Running para...'
+tags: 
 actualPrice: 88.98 EUR
 currency: EUR
 price: 88.98

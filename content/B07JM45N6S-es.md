@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MWODc62LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JM45N6S-es Formulaone 2600MAH Tamaño portátil 1 * 18650 Batería Banco de alimentación Externa Batería de Respaldo Banco de energía para teléfonos Inteligentes - Verde'
+slug: 'B07JM45N6S-es Formulaone 2600MAH Tamaño portátil 1 * 18650 Batería Banco...'
+tags: 
 actualPrice: 1.09 EUR
 currency: EUR
 price: 1.09

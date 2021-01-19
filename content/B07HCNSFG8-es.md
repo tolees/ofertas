@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y9bG0mzXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCNSFG8-es NOVECASA Sauna Pantalones Neopreno Deportivos Mujer para Adelgazante Piernas Sudoración Quema Grasa Fitness Gimnasio  2XL  Pantalones '
+slug: 'B07HCNSFG8-es NOVECASA Sauna Pantalones Neopreno Deportivos Mujer para...'
+tags: 
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

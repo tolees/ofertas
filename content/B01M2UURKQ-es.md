@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518D0A3juML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M2UURKQ-es Amzdeal Caja de Fotografía Caja de Luz Portátil 50 x 50 x 50 cm para Hacer Fotos con 3 Fondos Blanco/Negro/Naranja + 2 Tiras de LED y Bolsa de Transporte Nueva versión'
+slug: 'B01M2UURKQ-es Amzdeal Caja de Fotografía Caja de Luz Portátil 50 x 50 x...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

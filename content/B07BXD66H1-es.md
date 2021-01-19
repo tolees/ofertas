@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cySjB+RJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXD66H1-es Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 830485'
+slug: 'B07BXD66H1-es Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 70.57 EUR
 currency: EUR
 price: 70.57

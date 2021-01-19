@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tP4WIB3OL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY6VPD9-es Hairfinity Acondicionador Unisex  Negro  Black   6 cm'
+slug: 'B01LY6VPD9-es Hairfinity Acondicionador Unisex Negro Black 6 cm'
+tags: 
 actualPrice: 29.54 EUR
 currency: EUR
 price: 29.54

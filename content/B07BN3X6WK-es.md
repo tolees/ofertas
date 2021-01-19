@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51N6AYfdNEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BN3X6WK-es Brazalete de cuero italiano  curtido vegetal  marrón  tamañao mediano para muñecas de 16.5-18 cm  pulsera  manilla'
+slug: 'B07BN3X6WK-es Brazalete de cuero italiano curtido vegetal marrón tamañao...'
+tags: 
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514F4-0kcrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JF6ZWQV-es Dedo Extensión Férula para Dedo en Gatillo  Tirante Ajustable de la Férula del Dedo  Lanzamiento del Tendón del Dedo y Correa de Fijación del Alivio del Dolor con Ayuda de Aluminio Incorporada'
+slug: 'B07JF6ZWQV-es Dedo Extensión Férula para Dedo en Gatillo Tirante...'
+tags: 
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

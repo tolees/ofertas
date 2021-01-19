@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ni8+Ah98L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075X6WRJV-es WMF Küchenminis Cocedor 1 Huevo  55 W  con Tritan libre de BPA  incluye huevera  medidor de agua y acabados en acero inoxidable de cromargan'
+slug: 'B075X6WRJV-es WMF Küchenminis Cocedor 1 Huevo 55 W con Tritan libre de...'
+tags: 
 actualPrice: 16.26 EUR
 currency: EUR
 price: 16.26

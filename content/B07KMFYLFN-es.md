@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-sMtMhTCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMFYLFN-es IPOTCH Cámara de Cazar Rastro HC-300M 12MP 2G MMS GPRS HD 1080P Agarrar Blando Peces Industria Piscícola'
+slug: 'B07KMFYLFN-es IPOTCH Cámara de Cazar Rastro HC-300M 12MP 2G MMS GPRS HD...'
+tags: 
 actualPrice: 82.49 EUR
 currency: EUR
 price: 82.49

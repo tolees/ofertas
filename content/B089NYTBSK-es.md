@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cc6wNIJGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NYTBSK-es USE Family Bamboo. Escurreplatos de plástico Fregadero con Bandeja Anti- Goteo  escurridor de Platos y Vasos de Cocina  Blanco '
+slug: 'B089NYTBSK-es USE Family Bamboo. Escurreplatos de plástico Fregadero con...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

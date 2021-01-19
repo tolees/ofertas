@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dx8xHy8fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PDR37AU-es Canson 406323 - Papel milimetrado  12 hojas'
+slug: 'B00PDR37AU-es Canson 406323 - Papel milimetrado 12 hojas'
+tags: 
 actualPrice: 1.73 EUR
 currency: EUR
 price: 1.73

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mmc+azguL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MW8HBGY-es Dremel 723 Kit de 100 Accesorios Variados - Juego de Accesorios para Herramienta Rotativa para Tallar  Fresar  Amolar  Limpiar  Pulir  Cortar  Lijar y Grabar'
+slug: 'B00MW8HBGY-es Dremel 723 Kit de 100 Accesorios Variados - Juego de...'
+tags: 
 actualPrice: 23.52 EUR
 currency: EUR
 price: 23.52

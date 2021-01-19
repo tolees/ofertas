@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nz0qTyj7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QC3N4P3-es MTNG Attitude 69859  Zapatillas para Mujer  Verde  Soft Met/Mesh Kaky C47275   36 EU'
+slug: 'B07QC3N4P3-es MTNG Attitude 69859 Zapatillas para Mujer Verde Soft...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

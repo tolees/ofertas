@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514Zz9+NeXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFK1J2Z-es Arkmiido Máscara de Buceo  máscara de Snorkel Full Face 180 ° Visible con Soporte para cámara Deportiva  Fuga submarina Anti-huida  Anti-UV  para Adultos  L/XL '
+slug: 'B07PFK1J2Z-es Arkmiido Máscara de Buceo máscara de Snorkel Full Face 180...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

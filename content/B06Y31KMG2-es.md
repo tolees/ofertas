@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uDi50WA5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y31KMG2-es New Balance 574 Core Zapatillas Hombre  Negro  Black EGK   38.5 EU  5.5 UK '
+slug: 'B06Y31KMG2-es New Balance 574 Core Zapatillas Hombre Negro Black EGK...'
+tags: 
 actualPrice: 54.32 EUR
 currency: EUR
 price: 54.32

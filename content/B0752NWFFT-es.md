@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gbM0MUXWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0752NWFFT-es G-STAR RAW 5620 Elwood 3D Slim Jeans  Azul  medium aged 9118-071   40W / 38L para Hombre'
+slug: 'B0752NWFFT-es G-STAR RAW 5620 Elwood 3D Slim Jeans Azul medium aged...'
+tags: 
 actualPrice: 38.86 EUR
 currency: EUR
 price: 38.86

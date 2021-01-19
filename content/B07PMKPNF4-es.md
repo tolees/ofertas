@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+hE2HFt1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMKPNF4-es Aibrou Pijamas Hombre Verano Corto de 100% Algodón Conjuntos de Pijamas para Hombre Mangas Cortas'
+slug: 'B07PMKPNF4-es Aibrou Pijamas Hombre Verano Corto de 100% Algodón...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314JZNZZ6cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2B6ZGD-es Celio Jopry Pantalones  Azul  Navy Océano Navy Océano   W32  Talla del fabricante: 40  para Hombre'
+slug: 'B07L2B6ZGD-es Celio Jopry Pantalones Azul Navy Océano Navy Océano W32...'
+tags: 
 actualPrice: 27.92 EUR
 currency: EUR
 price: 27.92

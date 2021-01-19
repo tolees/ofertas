@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31L22p86ZIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVQKJ9W-es Belkin Ultra HD  2018  - Cable HDMI de Alta Velocidad  1 m  admite 4K/120 Hz y 8K/60Hz  Compatible con Dolby Vision/HDR 10  transferencias de 48 Gbps'
+slug: 'B07GVQKJ9W-es Belkin Ultra HD 2018 - Cable HDMI de Alta Velocidad 1 m...'
+tags: 
 actualPrice: 42.19 EUR
 currency: EUR
 price: 42.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nOaZC97rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ9BBH8-es Under Armour Streaker 2.0 Racer Tanque  Mujer  Negro  Black/Black/Reflective 001   XL'
+slug: 'B07CZ9BBH8-es Under Armour Streaker 2.0 Racer Tanque Mujer Negro...'
+tags: 
 actualPrice: 13.91 EUR
 currency: EUR
 price: 13.91

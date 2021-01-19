@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/610xd0wKR0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0836QWJNR-es MOSISO Funda Blanda Protectora Compatible con 13-13.3 Pulgadas MacBook Air/MacBook Pro Retina/2019 Surface Laptop 3/Surface Book  Bolsa Patrón de Nubes Cubierta con Pequeña Caja  Azul Serenidad'
+slug: 'B0836QWJNR-es MOSISO Funda Blanda Protectora Compatible con 13-13.3...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

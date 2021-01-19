@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ebUVCQ5RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HC916JV-es Nobleza – Poste rascador para Gatos de sisal con Juguete. Pequeño  Color Marrón. Medidas: 25 * 25 * 35 cm'
+slug: 'B07HC916JV-es Nobleza – Poste rascador para Gatos de sisal con Juguete....'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41erzCJGHOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPZZPRC-es Asics Gel-Rocket 9  Zapatillas de Deporte Interior para Mujer  Azul Blue/White 400  39.5 EU'
+slug: 'B07QPZZPRC-es Asics Gel-Rocket 9 Zapatillas de Deporte Interior para...'
+tags: 
 actualPrice: 36.4 EUR
 currency: EUR
 price: 36.4

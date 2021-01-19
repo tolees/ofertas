@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BgHqXrz-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071XM3VR5-es Targus Click-in - Funda para el iPad Pro de 10.5"  Color Oro Rosa'
+slug: 'B071XM3VR5-es Targus Click-in - Funda para el iPad Pro de 10.5" Color...'
+tags: 
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

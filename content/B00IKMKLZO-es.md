@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AjtXN-NYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IKMKLZO-es Mates Manix Preservativo Masculino en Sexo Seguro 1 Unidad 500 g'
+slug: 'B00IKMKLZO-es Mates Manix Preservativo Masculino en Sexo Seguro 1 Unidad...'
+tags: 
 actualPrice: 57.45 EUR
 currency: EUR
 price: 57.45

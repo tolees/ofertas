@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41czKYf37QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWY3KX9-es Skechers Moreno  Zapatillas para Hombre  Azul  Navy Mesh Nvy   41.5 EU'
+slug: 'B07TWY3KX9-es Skechers Moreno Zapatillas para Hombre Azul Navy Mesh Nvy...'
+tags: 
 actualPrice: 44.76 EUR
 currency: EUR
 price: 44.76

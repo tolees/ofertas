@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ej1Fq6VEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007TS6G9U-es Arcos Universal - Taco de 5 cuchillos y tijera  6pzs '
+slug: 'B007TS6G9U-es Arcos Universal - Taco de 5 cuchillos y tijera 6pzs'
+tags: 
 actualPrice: 112.39 EUR
 currency: EUR
 price: 112.39

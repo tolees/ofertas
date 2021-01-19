@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Cmb-wOyGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNGT932-es BSEED Interruptor de luz Interruptor de pared con Botón Pulsador Cruzado 1 Gang 3 Vías Panel de Vidrio 10A sin Tornillos Interruptor de Palanca Conmutable Blanco'
+slug: 'B07ZNGT932-es BSEED Interruptor de luz Interruptor de pared con Botón...'
+tags: 
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

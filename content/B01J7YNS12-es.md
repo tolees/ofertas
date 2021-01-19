@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4136ePIh0BL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J7YNS12-es Bandas de resistencia ejercicio con asas deportes casa y gimnasio Entrenamiento'
+slug: 'B01J7YNS12-es Bandas de resistencia ejercicio con asas deportes casa y...'
+tags: 
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

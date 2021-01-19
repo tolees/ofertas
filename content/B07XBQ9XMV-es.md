@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518lnujyxKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBQ9XMV-es Opret Tienda para Niños Pop Up Carpa Plegable para Niñas Carpa Auzl con Bolsa de Transporte y Luz de Cadena para Interiores y Exteriores'
+slug: 'B07XBQ9XMV-es Opret Tienda para Niños Pop Up Carpa Plegable para Niñas...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

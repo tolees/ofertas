@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519419xYiDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V6XSOR6-es Scitec Nutrition Protein Pancake comida funcional chocolate blanco-coco 1036 g'
+slug: 'B00V6XSOR6-es Scitec Nutrition Protein Pancake comida funcional...'
+tags: 
 actualPrice: 13.13 EUR
 currency: EUR
 price: 13.13

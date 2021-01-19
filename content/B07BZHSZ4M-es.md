@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zPWSYtbHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZHSZ4M-es Joma Winner Camisetas Equip. M/c  Hombre  Royal/Blanco'
+slug: 'B07BZHSZ4M-es Joma Winner Camisetas Equip. M/c Hombre Royal/Blanco'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

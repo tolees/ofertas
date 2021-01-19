@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nFlkuvYHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBLW3K9-es Kappa Dolomo  Botas Clasicas para Hombre  Black/Grey 1116  41 EU'
+slug: 'B07LBLW3K9-es Kappa Dolomo Botas Clasicas para Hombre Black/Grey 1116 41 EU'
+tags: 
 actualPrice: 20.13 EUR
 currency: EUR
 price: 20.13

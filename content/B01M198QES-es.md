@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e1w8Qt1OL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M198QES-es LEDMO tiras led 12V Blanco 6000K 300led 5m tira led exterior SMD5630 6000LM IP65 Impermeable CRI80 cinta led'
+slug: 'B01M198QES-es LEDMO tiras led 12V Blanco 6000K 300led 5m tira led...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

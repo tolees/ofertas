@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9XKWK3-es Mario Sports Superstars + Tarjeta Amiibo - Edición Limitada'
+tags: 
 actualPrice: 24.8 EUR
 currency: EUR
 price: 24.8

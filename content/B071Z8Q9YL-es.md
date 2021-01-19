@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZTK9AQ3LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071Z8Q9YL-es Under Armour Mid Keyhole Sujetador para Mujer Deportivo  Ropa de Mujer Deportiva de compresión  cómodo Sujetador de sujeción de Secado rápido  Black/Black/Metallic Silver  001   MD'
+slug: 'B071Z8Q9YL-es Under Armour Mid Keyhole Sujetador para Mujer Deportivo...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

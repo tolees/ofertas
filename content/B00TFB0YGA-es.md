@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FRMD1eAeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TFB0YGA-es Optimum Nutrition ON Gold Standard Pre Workout en Polvo con Creatina Monohidrato  Beta Alanina  Cafeína  Citrulina y Vitamina B  Manzana Verde  30 Porciones  330 gr'
+slug: 'B00TFB0YGA-es Optimum Nutrition ON Gold Standard Pre Workout en Polvo...'
+tags: 
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3

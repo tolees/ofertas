@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419MP40yFCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078JTBP4B-es Safta Bolsa De Deporte Real Sporting De Gijon Oficial 400x230x240mm'
+slug: 'B078JTBP4B-es Safta Bolsa De Deporte Real Sporting De Gijon Oficial...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

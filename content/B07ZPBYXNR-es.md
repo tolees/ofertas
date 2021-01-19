@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n+G4AgD3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPBYXNR-es Safety 1st Road Fix Silla Coche Grupo 2 3 Isofix  crece con el niño 3-12 años  15-36 kg   Protección lateral segura  Ajuste fácil y seguro  color Pixel Black'
+slug: 'B07ZPBYXNR-es Safety 1st Road Fix Silla Coche Grupo 2 3 Isofix crece con...'
+tags: 
 actualPrice: 63.75 EUR
 currency: EUR
 price: 63.75

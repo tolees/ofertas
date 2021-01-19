@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Kw6-8IxkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DCHBDR-es BigBen Sound BTLSUNICORN - Altavoz Wireless Luminoso Unicornio portátil  15 W  Puerto USB  Jack 3.5 mm  Bluetooth  Distintos Colores y Efectos Luminosos  Color Blanco'
+slug: 'B075DCHBDR-es BigBen Sound BTLSUNICORN - Altavoz Wireless Luminoso...'
+tags: 
 actualPrice: 33.92 EUR
 currency: EUR
 price: 33.92

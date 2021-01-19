@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316upk7s1nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CG3FHB4-es Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Azul  Navy Blazer   Medium para Hombre'
+slug: 'B07CG3FHB4-es Jack & Jones Jjebasic Knit Crew Neck Noos suéter Azul Navy...'
+tags: 
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

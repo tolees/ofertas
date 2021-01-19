@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P6Old9a3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZGYODH-es Tommy Hilfiger Thong String Tanga  Negro  Black 001   38  Talla del Fabricante: Medium  para Mujer'
+slug: 'B01MZGYODH-es Tommy Hilfiger Thong String Tanga Negro Black 001 38 Talla...'
+tags: 
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05

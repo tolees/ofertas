@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zK0cCAAnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IN8LBS0-es Braun Series 9 9296cc Wet&Dry  - Afeitadora Eléctrica para hombre para Barba  Recortadora de Precisión Extraíble  Recargable Inalámbrica  Clean&Charge  Cromo'
+slug: 'B01IN8LBS0-es Braun Series 9 9296cc Wet&Dry - Afeitadora Eléctrica para...'
+tags: 
 actualPrice: 300.88 EUR
 currency: EUR
 price: 300.88

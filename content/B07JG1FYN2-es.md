@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ynHzf7FQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG1FYN2-es Lacoste PH5522 Polo  Gris  Argent Chine   Small para Hombre'
+slug: 'B07JG1FYN2-es Lacoste PH5522 Polo Gris Argent Chine Small para Hombre'
+tags: 
 actualPrice: 44.26 EUR
 currency: EUR
 price: 44.26

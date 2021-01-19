@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51lRxLoVRTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMGYGVX-es AmazonBasics - Toallas de uso diario  2 de baño y 4 de mano  Marrón topo'
+slug: 'B07HMGYGVX-es AmazonBasics - Toallas de uso diario 2 de baño y 4 de mano...'
+tags: 
 actualPrice: 16.44 EUR
 currency: EUR
 price: 16.44

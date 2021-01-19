@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a30ChUwrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9CFNP3-es ROYAL SLEEP Colchón viscoelástico 90x190 de máxima Calidad  Confort  firmeza y adaptabilidad Alta  Altura 18cm - Colchones Xfresh Plus'
+slug: 'B07L9CFNP3-es ROYAL SLEEP Colchón viscoelástico 90x190 de máxima Calidad...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

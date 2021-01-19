@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dvIKt4yqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0014E7RPC-es Dunlop Protective Footwear  DUO18  380VP.43 Zapatillas de Deporte Exterior  Green  43'
+slug: 'B0014E7RPC-es Dunlop Protective Footwear DUO18 380VP.43 Zapatillas de...'
+tags: 
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

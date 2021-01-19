@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pninA6wyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CX6YZBW-es K&F Concept Bolsa de Filtros  Funda Portátil de Cámara  3 Filtro y 3 Mini-Adaptador  Protección y Portátil'
+slug: 'B08CX6YZBW-es K&F Concept Bolsa de Filtros Funda Portátil de Cámara 3...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51CM8QcU48L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YC41DN-es Funko Pop!- Hermione Herbology Figura de Vinilo  29502 '
+slug: 'B079YC41DN-es Funko Pop!- Hermione Herbology Figura de Vinilo 29502'
+tags: 
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

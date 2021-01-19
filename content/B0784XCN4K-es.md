@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Mf4nqhp6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784XCN4K-es adidas Duramo 8 M  Zapatillas de Running para Hombre  Multicolor  Hi-Res Red/Core Black/Core Black 0   42 2/3 EU'
+slug: 'B0784XCN4K-es adidas Duramo 8 M Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 33.48 EUR
 currency: EUR
 price: 33.48

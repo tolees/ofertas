@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i1u2YBxnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JB9D2R1-es DENGC Ratón inalámbrico para Juegos de 2.4G  4 Botones  Ultra silencioso  1000DPI  liviano  para Jugadores  computadora portátil  ratón para computadora  Color Negro'
+slug: 'B08JB9D2R1-es DENGC Ratón inalámbrico para Juegos de 2.4G 4 Botones...'
+tags: 
 actualPrice: 3.31 EUR
 currency: EUR
 price: 3.31

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YnFnuheeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0786W1XXQ-es adidas Gazelle  Zapatillas de deporte Unisex niños  Rojo  Collegiate Burgundy/Footwear White/Footwear White 0   31 EU'
+slug: 'B0786W1XXQ-es adidas Gazelle Zapatillas de deporte Unisex niños Rojo...'
+tags: 
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

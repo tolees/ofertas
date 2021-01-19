@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rOOXzFF4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004DWWRGG-es Ganchos para Sillas de Paseo GKONGU Pack de 2 Ganchos Carrito Bebé  Ganchos de Cochecitos Giratorios Ganchos para Sostener Bolsas Cuando Está Tomando de Bebé Manos Extra para Los Padres'
+slug: 'B004DWWRGG-es Ganchos para Sillas de Paseo GKONGU Pack de 2 Ganchos...'
+tags: 
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

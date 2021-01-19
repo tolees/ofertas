@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41geFRRRKJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077GWK9BK-es Lente de Cámara de Seguridad 1080P 4mm M12 Lente de Seguridad 1/2.5"3MP IR'
+slug: 'B077GWK9BK-es Lente de Cámara de Seguridad 1080P 4mm M12 Lente de...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

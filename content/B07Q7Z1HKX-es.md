@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31sYu2hBl9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q7Z1HKX-es Erasky Memoria USB De 64GB Pendrive Flash Drive Aluminio USB 2.0 Impermeable con Anillo Colgante  64GB '
+slug: 'B07Q7Z1HKX-es Erasky Memoria USB De 64GB Pendrive Flash Drive Aluminio...'
+tags: 
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

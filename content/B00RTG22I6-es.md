@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hvBuKPtcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RTG22I6-es Grohe Eurodisc - Grifo de lavabo empotrado  color cromo L Ref. 19969000'
+slug: 'B00RTG22I6-es Grohe Eurodisc - Grifo de lavabo empotrado color cromo L...'
+tags: 
 actualPrice: 204.77 EUR
 currency: EUR
 price: 204.77

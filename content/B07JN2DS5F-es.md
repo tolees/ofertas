@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4193PGry3lL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JN2DS5F-es Buffalo Corin  Zapatillas Altas para Mujer  Negro  Black 000   39 EU'
+slug: 'B07JN2DS5F-es Buffalo Corin Zapatillas Altas para Mujer Negro Black 000...'
+tags: 
 actualPrice: 70.49 EUR
 currency: EUR
 price: 70.49

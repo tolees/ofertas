@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GxlKWoOoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ5BKWN-es Women s Secret Soft Touch 2 St Special Nd Grey Camisón  Gris  Gama Grises 46   Small  Tamaño del Fabricante: S  para Mujer'
+slug: 'B07TZ5BKWN-es Women s Secret Soft Touch 2 St Special Nd Grey Camisón...'
+tags: 
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51AaCdzOafL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZDKSN6-es Magnético cerveza soporte  Soporte magnético 2pcs Botelleros de ahorrar espacio y organizar a la nevera techo y redes  Accesorio de cocina flotante'
+slug: 'B07BZDKSN6-es Magnético cerveza soporte Soporte magnético 2pcs...'
+tags: 
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

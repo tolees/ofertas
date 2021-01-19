@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R+AC8ehZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XXDYGYW-es SONGMICS Cubo de Basura de Acero Inoxidable  Basurero Reciclaje  Tres compartimientos con Penal  LTB54L'
+slug: 'B00XXDYGYW-es SONGMICS Cubo de Basura de Acero Inoxidable Basurero...'
+tags: 
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

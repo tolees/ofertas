@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ihniua6JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAH7S5K-es Heno de Pravia - Desodorante roll-on  50 ml'
+slug: 'B00XAH7S5K-es Heno de Pravia - Desodorante roll-on 50 ml'
+tags: 
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

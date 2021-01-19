@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A3zxy5nWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J53ZLXK-es Triumph Amourette Charm W Sujetador con Aros  Multicolor  Blue/Dark Combination M008   115B  Talla del Fabricante: 100  para Mujer'
+slug: 'B07J53ZLXK-es Triumph Amourette Charm W Sujetador con Aros Multicolor...'
+tags: 
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zP3Ptg9XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DNLPSKY-es  Leathario Marca de Portafolio/ Carpeta Plegable de Mano  PU  Diseñado para Negocios y para tomar notas  Marrón-A4-3 '
+slug: 'B01DNLPSKY-es Leathario Marca de Portafolio/ Carpeta Plegable de Mano PU...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

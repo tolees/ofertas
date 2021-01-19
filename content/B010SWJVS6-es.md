@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MM84bHypL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010SWJVS6-es JBL Xtreme - Altavoz Bluetooth portátil  cancelación de ruido y carga USB   Negro'
+slug: 'B010SWJVS6-es JBL Xtreme - Altavoz Bluetooth portátil cancelación de...'
+tags: 
 actualPrice: 149.9 EUR
 currency: EUR
 price: 149.9

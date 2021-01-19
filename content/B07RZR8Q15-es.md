@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MY2klWX0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZR8Q15-es Batidora de Vaso  AICOOK Batidora 3 en 1 con Molinillo y Picadora de Carne  Batidora Smoothie para Batidos y Alimentos para Bebés  Base de Acero Inoxidable  6 Cuchillas de Titanio  1.5 L'
+slug: 'B07RZR8Q15-es Batidora de Vaso AICOOK Batidora 3 en 1 con Molinillo y...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

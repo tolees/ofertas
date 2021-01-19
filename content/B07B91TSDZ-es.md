@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KnNRlNksL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B91TSDZ-es Clarks Rushwaymid GTX  Botas Chelsea para Hombre  Negro  Blk Tumbled Lea   39.5 EU'
+slug: 'B07B91TSDZ-es Clarks Rushwaymid GTX Botas Chelsea para Hombre Negro Blk...'
+tags: 
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+G-nDDgxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJX82D-es Napapijri Eisberg SS Polo  Azul  BLU Marine 176   Large para Hombre'
+slug: 'B07MVJX82D-es Napapijri Eisberg SS Polo Azul BLU Marine 176 Large para...'
+tags: 
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

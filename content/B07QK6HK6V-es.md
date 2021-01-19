@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UTxF8gyEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QK6HK6V-es L Oréal Paris Age Perfect Nutrición Intensa - Crema Rica Reparadora de Noche para Pieles Maduras y Desnutridas - 50 ml'
+slug: 'B07QK6HK6V-es L Oréal Paris Age Perfect Nutrición Intensa - Crema Rica...'
+tags: 
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

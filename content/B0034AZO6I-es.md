@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51MJqePIyUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0034AZO6I-es Silverline 845318 - Herramientas para soldadura eléctrica  9 pzas  100 W / 30 W '
+slug: 'B0034AZO6I-es Silverline 845318 - Herramientas para soldadura eléctrica...'
+tags: 
 actualPrice: 32.74 EUR
 currency: EUR
 price: 32.74

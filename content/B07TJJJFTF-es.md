@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31df9xdqq6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJJJFTF-es Nike U Nk H86 Cap Metal Swoosh Hat  Unisex Adulto  Team Orange  MISC'
+slug: 'B07TJJJFTF-es Nike U Nk H86 Cap Metal Swoosh Hat Unisex Adulto Team...'
+tags: 
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

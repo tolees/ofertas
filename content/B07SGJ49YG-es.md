@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419Mxo6R3NL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGJ49YG-es Jeffergarden Mosquitero electrónico Potencia de batería inalámbrica Batería eléctrica Mosquito Swatter Insecto Zapper Raqueta Insectos Asesino  Verde '
+slug: 'B07SGJ49YG-es Jeffergarden Mosquitero electrónico Potencia de batería...'
+tags: 
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

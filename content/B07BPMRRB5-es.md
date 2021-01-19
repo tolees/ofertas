@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314XZecK+fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPMRRB5-es Camper Damen Alright Pumps  Pink  Black 1   35 EU'
+slug: 'B07BPMRRB5-es Camper Damen Alright Pumps Pink Black 1 35 EU'
+tags: 
 actualPrice: 71.87 EUR
 currency: EUR
 price: 71.87

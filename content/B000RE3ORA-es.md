@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ALe2haAWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RE3ORA-es Brabantia 365263 Espatula de Cocina pequeña  Nailon  Negro  Centimeters'
+slug: 'B000RE3ORA-es Brabantia 365263 Espatula de Cocina pequeña Nailon Negro...'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

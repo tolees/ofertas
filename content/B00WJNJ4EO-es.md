@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S+O82NX9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WJNJ4EO-es Philips Avent SCF553/03 - Vaso con boquilla de silicona para niña  válvula antigoteo  sin BPA  para 9 meses  260 ml  color rosa'
+slug: 'B00WJNJ4EO-es Philips Avent SCF553/03 - Vaso con boquilla de silicona...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

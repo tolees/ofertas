@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X3LIF8ZZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B6GKT7H-es Kellogg s KG30683 - Caja Cereales  Metal  Blanco  Negro  18 5 x 10 3 x 25 cm'
+slug: 'B07B6GKT7H-es Kellogg s KG30683 - Caja Cereales Metal Blanco Negro 18 5...'
+tags: 
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

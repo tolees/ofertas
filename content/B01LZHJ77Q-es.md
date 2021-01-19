@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-aaHcGViL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZHJ77Q-es Western Digital My Book Disco Duro Externo de Sobremesa de 4 TB  3.5"  USB 3.0  Negro'
+slug: 'B01LZHJ77Q-es Western Digital My Book Disco Duro Externo de Sobremesa de...'
+tags: 
 actualPrice: 91.74 EUR
 currency: EUR
 price: 91.74

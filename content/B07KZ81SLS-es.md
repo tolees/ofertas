@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xKJsAzmnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZ81SLS-es AmazonBasics - Sábana ajustable de microfibra premium  135 x 190 cm   morado grisáceo chevrón'
+slug: 'B07KZ81SLS-es AmazonBasics - Sábana ajustable de microfibra premium 135...'
+tags: 
 actualPrice: 6.91 EUR
 currency: EUR
 price: 6.91

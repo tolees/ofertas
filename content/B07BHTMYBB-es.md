@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pl6hnFdxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHTMYBB-es Orient Reloj Analógico para Hombre de Cuarzo con Correa en Caucho FQC0S00BA0'
+slug: 'B07BHTMYBB-es Orient Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 44.63 EUR
 currency: EUR
 price: 44.63

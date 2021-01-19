@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JmRxp78bL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2K8SV6-es Luz Solar Exterior 138 LED  Feob Luces Solares Exterior con Sensor de Movimiento Gran Ángulo 270° 2500mAh Lámpara Solar Exterior Inalámbrico Impermeable 3 Modos Inteligente Foco Solar para Jardín'
+slug: 'B07Q2K8SV6-es Luz Solar Exterior 138 LED Feob Luces Solares Exterior con...'
+tags: 
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

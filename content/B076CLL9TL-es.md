@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CLL9TL-es TECLADO BLUETOOTH UNIVERSAL BLANCO'
+tags: 
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

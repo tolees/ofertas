@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aTWghMeML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXSPR2C-es Terry White Brandy Blanco  36% - 700 ml'
+slug: 'B07PXSPR2C-es Terry White Brandy Blanco 36% - 700 ml'
+tags: 
 actualPrice: 6.55 EUR
 currency: EUR
 price: 6.55

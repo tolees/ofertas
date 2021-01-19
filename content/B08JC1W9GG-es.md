@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512Cz1KQxuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JC1W9GG-es Decdeal Cama de Gato Donut Cama Redonda Felpa para Perros Cómodo Suave Segura Lavable a Máquina Duradera para Mascotas Cachorros Gatitos Tamaño 40cm 50cm 60cm 70cm'
+slug: 'B08JC1W9GG-es Decdeal Cama de Gato Donut Cama Redonda Felpa para Perros...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510gl+xmWRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FZ32XQX-es LXHGrowH Funda para Xiaomi Redmi 9A - Carcasa Completa Anti-Shock [360°] Full Body Protección [Silicona TPU Frente] y [Duro PC Back] para Xiaomi Redmi 9A - Cover Doble [Transparente]'
+slug: 'B08FZ32XQX-es LXHGrowH Funda para Xiaomi Redmi 9A - Carcasa Completa...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

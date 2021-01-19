@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BBChD9ugL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVX6P5N-es TOOBUR Pulsera de Actividad Inteligente  IP68 Impermeable Reloj Inteligente con Pulsómetro Podómetro Calorias Monitor de Sueño  Pulsera Actividad Smartwatch para Mujer Hombre Niños'
+slug: 'B07WVX6P5N-es TOOBUR Pulsera de Actividad Inteligente IP68 Impermeable...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

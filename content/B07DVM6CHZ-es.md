@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QDMy01nlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVM6CHZ-es New Balance W1400V6  Zapatillas de Running para Mujer  Blanco White/Purple  36.5 EU'
+slug: 'B07DVM6CHZ-es New Balance W1400V6 Zapatillas de Running para Mujer...'
+tags: 
 actualPrice: 34.93 EUR
 currency: EUR
 price: 34.93

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mPJHmGmeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081H9BWPY-es InnoTi Bandas Elásticas de Musculación y Fitness - Gomas Elásticas para Crossfit y Gimnasio en Casa - Set de Tubos de Resistencia de Latex - Asas y Cintas de Tobillos Acolchadas y Anclaje de Puerta'
+slug: 'B081H9BWPY-es InnoTi Bandas Elásticas de Musculación y Fitness - Gomas...'
+tags: 
 actualPrice: 29.8 EUR
 currency: EUR
 price: 29.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lybvQ-EHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082CWT11G-es KLIM™ Aurora - Base de refrigeración para portátiles RGB - 11" a 17" + Refrigeración para portátil Gaming + Ventilador USB + Estable y Resistente Base de Aluminio + Gran compatibilidad + Nueva 2020'
+slug: 'B082CWT11G-es KLIM™ Aurora - Base de refrigeración para portátiles RGB -...'
+tags: 
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

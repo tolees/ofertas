@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RDR+RfoWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VYH4BG-es SYROKAN Sujetador Deportivo para Mujer Alto Impacto Sujetador Deportivo con Cremallera Negro ES:95C  EU 80C '
+slug: 'B082VYH4BG-es SYROKAN Sujetador Deportivo para Mujer Alto Impacto...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

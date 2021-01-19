@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q3+QYpqAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NA6JS6Q-es Yimidear Al Aire Libre Respirable Plegable Bolsa para Mascotas para Perro Gato Cómodo Viaje Talla Mediana Portador de Mascotas  Rosa '
+slug: 'B01NA6JS6Q-es Yimidear Al Aire Libre Respirable Plegable Bolsa para...'
+tags: 
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

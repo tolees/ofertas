@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L8ZH9NW-es Pack Los Soprano Temporada 1-6 Blu-Ray [Blu-ray]'
+tags: 
 actualPrice: 73.49 EUR
 currency: EUR
 price: 73.49

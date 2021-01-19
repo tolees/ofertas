@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QtfEIL4NL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CG3S8CZ-es JACK & JONES Jjeholmen Sweat Pants Noos  Pantalones para Hombre  Azul  Navy Blazer Fit:Comfort Fit  W36  Talla del Fabricante: Large '
+slug: 'B07CG3S8CZ-es JACK & JONES Jjeholmen Sweat Pants Noos Pantalones para...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

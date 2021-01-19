@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iHfaH7KXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7NZRF8-es Levi s 501 High Rise Short Pantalones Cortos  Azul  Flat Broke 0011   W26  Talla del Fabricante: 26  para Mujer'
+slug: 'B07K7NZRF8-es Levi s 501 High Rise Short Pantalones Cortos Azul Flat...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

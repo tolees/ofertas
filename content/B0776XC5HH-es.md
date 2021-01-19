@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31X-CEjRbHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776XC5HH-es Tommy Hilfiger Original Slim Fit Chino Pantalones  Beige  Kelp 373    Talla del fabricante: W28/L36  para Hombre'
+slug: 'B0776XC5HH-es Tommy Hilfiger Original Slim Fit Chino Pantalones Beige...'
+tags: 
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

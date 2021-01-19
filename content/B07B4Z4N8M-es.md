@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Uk37e6-RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4Z4N8M-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 1513563'
+slug: 'B07B4Z4N8M-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 161.12 EUR
 currency: EUR
 price: 161.12

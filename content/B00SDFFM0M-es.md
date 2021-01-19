@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iTcJcNWaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SDFFM0M-es Topcom RC-6430 – Walkie-talkie  alcance hasta 3 km  número de canales 6'
+slug: 'B00SDFFM0M-es Topcom RC-6430 – Walkie-talkie alcance hasta 3 km número...'
+tags: 
 actualPrice: 10.81 EUR
 currency: EUR
 price: 10.81

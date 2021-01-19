@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FvoOiZm8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QWPBX-es PUMA Carina L JR  Zapatillas para Niñas  Blanco White/Gulf Stream  37 EU'
+slug: 'B07S7QWPBX-es PUMA Carina L JR Zapatillas para Niñas Blanco White/Gulf...'
+tags: 
 actualPrice: 31.12 EUR
 currency: EUR
 price: 31.12

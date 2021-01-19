@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Zy-nVErYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHL534X-es LCQI Bufanda Real Madrid 2019 2020 Licencia Oficial  por Siempre RM '
+slug: 'B07HHL534X-es LCQI Bufanda Real Madrid 2019 2020 Licencia Oficial por...'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

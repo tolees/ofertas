@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jZmFo+usL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C8RYBPM-es Police Reloj Multiesfera para Hombre de Cuarzo con Correa en Plástico PL14541JSBN.02P'
+slug: 'B01C8RYBPM-es Police Reloj Multiesfera para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 89.28 EUR
 currency: EUR
 price: 89.28

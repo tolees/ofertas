@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BXD7DN6-es Casio Smart Watch Armbanduhr A168WEGM-9EF'
+tags: 
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41flivCS4HL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y1LK7LL-es Soporte de aluminio universal Zice para proyector  para techo o pared  capacidad de 5 kg  para cámara o mini proyector'
+slug: 'B06Y1LK7LL-es Soporte de aluminio universal Zice para proyector para...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

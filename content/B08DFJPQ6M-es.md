@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OndRIibsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DFJPQ6M-es Homgrace Termómetro Infrarrojos Ain Contacto- Pistola Pantalla Termometro Digital Frontal y Corporal a Distancia - para Bebé Niño Adultos Profesional'
+slug: 'B08DFJPQ6M-es Homgrace Termómetro Infrarrojos Ain Contacto- Pistola...'
+tags: 
 actualPrice: 9.57 EUR
 currency: EUR
 price: 9.57

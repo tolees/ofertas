@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3139eMyzlqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0725QTHLG-es Under Armour Classic Mesh Gorra  Hombre  Blanco  L/XL'
+slug: 'B0725QTHLG-es Under Armour Classic Mesh Gorra Hombre Blanco L/XL'
+tags: 
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

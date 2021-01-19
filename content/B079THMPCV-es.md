@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UlBwUj7QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079THMPCV-es Multipower 50g Protein Shake  Sabor Strawberry - 12 Unidades'
+slug: 'B079THMPCV-es Multipower 50g Protein Shake Sabor Strawberry - 12 Unidades'
+tags: 
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

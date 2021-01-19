@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BVNjU8vyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003TOOE0Q-es BRA Sartén para Crepes  26 cm  aptas para todo tipo de cocinas incluida inducción'
+slug: 'B003TOOE0Q-es BRA Sartén para Crepes 26 cm aptas para todo tipo de...'
+tags: 
 actualPrice: 36.93 EUR
 currency: EUR
 price: 36.93

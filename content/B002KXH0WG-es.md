@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51z9FLAB2eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002KXH0WG-es Alligator 3093 Cortador de Fruta  Verdura y Cebolla  Negro/Acero Inoxidable'
+slug: 'B002KXH0WG-es Alligator 3093 Cortador de Fruta Verdura y Cebolla...'
+tags: 
 actualPrice: 80.37 EUR
 currency: EUR
 price: 80.37

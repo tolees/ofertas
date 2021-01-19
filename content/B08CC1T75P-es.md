@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H5hYWyNDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CC1T75P-es Esterilla portátil para práctica de golf 60 x 30 cm  Alfombrilla de práctica con hierba de golf para entrenamiento en interiores y exteriores  Alfombra de Práctica para deportes con tee de golf'
+slug: 'B08CC1T75P-es Esterilla portátil para práctica de golf 60 x 30 cm...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

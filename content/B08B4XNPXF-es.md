@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jtLoEne2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B4XNPXF-es Clip de cinturón de diseño liviano para un Uso fácil Mini LCD Digital Paso de Carrera Podómetro Walking Distance Counter ABS hasta 99999 Pasos/Multicolor'
+slug: 'B08B4XNPXF-es Clip de cinturón de diseño liviano para un Uso fácil Mini...'
+tags: 
 actualPrice: 1.44 EUR
 currency: EUR
 price: 1.44

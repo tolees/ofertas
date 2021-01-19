@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bxHzuNPrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NS8MC23-es Skechers Meridian-Ostwall  Zapatillas para Hombre  Verde  Olive Suede/Mesh/PU/Trim Old   40 EU'
+slug: 'B07NS8MC23-es Skechers Meridian-Ostwall Zapatillas para Hombre Verde...'
+tags: 
 actualPrice: 31.81 EUR
 currency: EUR
 price: 31.81

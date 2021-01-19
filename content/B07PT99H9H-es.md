@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B1CfFHhkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT99H9H-es Traje de baño de Manga Larga para Mujer  Traje de Surf con Cremallera de una Pieza Impreso 2XL '
+slug: 'B07PT99H9H-es Traje de baño de Manga Larga para Mujer Traje de Surf con...'
+tags: 
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

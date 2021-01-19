@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51I-Uzbj-6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKSSR9H-es Pagani Design automático de buceadores Relojes Reloj analógico de los Hombres con Correa de Acero Inoxidable'
+slug: 'B07QKSSR9H-es Pagani Design automático de buceadores Relojes Reloj...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

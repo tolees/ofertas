@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h6hW96ySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B7KWDLW-es TOUCHBeauty TB-1059 - Pinzas LED de precisión para cejas con espejo'
+slug: 'B07B7KWDLW-es TOUCHBeauty TB-1059 - Pinzas LED de precisión para cejas...'
+tags: 
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

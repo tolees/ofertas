@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ky4aPJslL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS7HJTT-es Calvin Klein - Winged Trifold On String  Carteras Mujer  Negro  Black   4x10.5x19 cm  W x H L '
+slug: 'B07RS7HJTT-es Calvin Klein - Winged Trifold On String Carteras Mujer...'
+tags: 
 actualPrice: 40.8 EUR
 currency: EUR
 price: 40.8

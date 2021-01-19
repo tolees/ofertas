@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DGaEI3dJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRJWD6F-es Reebok Flexagon Energy MT  Zapatillas de Gimnasia para Hombre  Azul  Heritage Navy/Collegiate Navy/White Heritage Navy/Collegiate Navy/White   39 EU'
+slug: 'B07SRJWD6F-es Reebok Flexagon Energy MT Zapatillas de Gimnasia para...'
+tags: 
 actualPrice: 19.47 EUR
 currency: EUR
 price: 19.47

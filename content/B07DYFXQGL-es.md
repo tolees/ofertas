@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p8SDdJBsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYFXQGL-es Merrell Siren Edge Q2  Zapatillas de Senderismo para Mujer  Negro  Black 2   37 EU'
+slug: 'B07DYFXQGL-es Merrell Siren Edge Q2 Zapatillas de Senderismo para Mujer...'
+tags: 
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

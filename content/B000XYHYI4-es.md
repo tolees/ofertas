@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xNFPaPZKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000XYHYI4-es Winsor & Newton Cotman - Set studio de acuarela  45 medio godets'
+slug: 'B000XYHYI4-es Winsor & Newton Cotman - Set studio de acuarela 45 medio...'
+tags: 
 actualPrice: 44.45 EUR
 currency: EUR
 price: 44.45

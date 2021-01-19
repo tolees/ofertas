@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a+yZEnp9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016VWADHA-es Jata GR603 Plancha de Asar Eléctrica XXL Superficie XXL 60 x 35 cm Antiadherente Libre de PFOA con Bandeja Colectora de Salsas'
+slug: 'B016VWADHA-es Jata GR603 Plancha de Asar Eléctrica XXL Superficie XXL 60...'
+tags: 
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

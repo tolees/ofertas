@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gkqH-lpDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3X6JML-es New Balance 997h  Zapatillas para Hombre  Gris  Grey/Navy Heq   43 EU'
+slug: 'B07S3X6JML-es New Balance 997h Zapatillas para Hombre Gris Grey/Navy Heq...'
+tags: 
 actualPrice: 55.8 EUR
 currency: EUR
 price: 55.8

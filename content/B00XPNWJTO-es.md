@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SCBkf0EWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XPNWJTO-es GoldNutrition Tribulus 550 mg  - 60 Cápsulas'
+slug: 'B00XPNWJTO-es GoldNutrition Tribulus 550 mg - 60 Cápsulas'
+tags: 
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Yk8yueIDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013AZCPLS-es Anker AK-A2021321 - Cargador de pared con entrada USB  2 x USB  24 W  2.4 A   para iPhone  iPad  Samsung Galaxy  Note  Nexus  HTC  blanco'
+slug: 'B013AZCPLS-es Anker AK-A2021321 - Cargador de pared con entrada USB 2 x...'
+tags: 
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

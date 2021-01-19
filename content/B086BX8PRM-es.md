@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XT7TDVtNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BX8PRM-es Oihxse Funda Compatible con Huawei Nova 5/Nova 5 Pro  Carcasa Transparente TPU Silicona Gel Ultra Fina Suave Protección Flexible Lindo Dibujos Anti-rasguños Caso Cubierta  A9 '
+slug: 'B086BX8PRM-es Oihxse Funda Compatible con Huawei Nova 5/Nova 5 Pro...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

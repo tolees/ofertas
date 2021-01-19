@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nsWt+CKAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084JVVQ7Y-es GRÜNTEK Tijera Recoletora de podar Yunque con Trinquete. Cortarramas Profesional CÓNDOR 20cm'
+slug: 'B084JVVQ7Y-es GRÜNTEK Tijera Recoletora de podar Yunque con Trinquete....'
+tags: 
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

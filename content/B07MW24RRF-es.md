@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nkczbTlrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MW24RRF-es EZDIY-FAB M.2 Estuche USB 3.1 Gen2 para SATA M.2 SSD Key B/B+M   USB-C Gen2 M2 Estuche Externo SSD con Tipo C + Cable Tipo A'
+slug: 'B07MW24RRF-es EZDIY-FAB M.2 Estuche USB 3.1 Gen2 para SATA M.2 SSD Key...'
+tags: 
 actualPrice: 14.62 EUR
 currency: EUR
 price: 14.62

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4124ytueINL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084CX17SZ-es Mellerware Robot Aspirador City Move. 1400 Pa  Tecnología iMovement Gyro  Aspira  Barre  Friega y Pasa la Mopa  7 Modos  160 min Autonomía  Programable'
+slug: 'B084CX17SZ-es Mellerware Robot Aspirador City Move. 1400 Pa Tecnología...'
+tags: 
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

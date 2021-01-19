@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CoJIAHLZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LXJOEK-es NYX Professional Makeup Pintalabios Soft Matte Lip Cream  Acabado cremoso mate  Color ultrapigmentado  Larga duración  Fórmula vegana  Tono: Abu Dhabi'
+slug: 'B004LXJOEK-es NYX Professional Makeup Pintalabios Soft Matte Lip Cream...'
+tags: 
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

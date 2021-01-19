@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NCyfPoRRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829H8ZCD-es Reloj de Pulsera para Hombre  Luminoso  Casual  Delgado  de Cuarzo  Resistente al Agua  con Fecha  Correa de Acero Inoxidable  Color Dorado'
+slug: 'B0829H8ZCD-es Reloj de Pulsera para Hombre Luminoso Casual Delgado de...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

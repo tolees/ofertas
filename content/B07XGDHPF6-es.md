@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EnarYIm3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGDHPF6-es Hauck Autoclose N Stop 2 puerta de segurida 75-80 cm  cierre magnético  autocierre  indicadore visual  apertura a ambos lados  ampliable hasta 122 cm sin agujeros en pared  metal blanco'
+slug: 'B07XGDHPF6-es Hauck Autoclose N Stop 2 puerta de segurida 75-80 cm...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

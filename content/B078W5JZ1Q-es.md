@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CRyCP8JiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078W5JZ1Q-es 9Tong Reloj Inteligente para Niños con GPS  Reloj Inteligente para Niños con Rastreador GPS y Soporte SIM gsm con Pantalla Táctil  Llamadas de Emergencia'
+slug: 'B078W5JZ1Q-es 9Tong Reloj Inteligente para Niños con GPS Reloj...'
+tags: 
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

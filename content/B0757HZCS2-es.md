@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51mo1sfDZEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757HZCS2-es Lebze Muselinas Manta Bebé  Algodón Bambú 120x120 Muselina "Diente de Elefante" Bambú Manta Bebé Chica o Baby Boy Mantas Swaddle'
+slug: 'B0757HZCS2-es Lebze Muselinas Manta Bebé Algodón Bambú 120x120 Muselina...'
+tags: 
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Em5MBCx5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814SQTFV-es Under Armour Armour Mid Keyhole Graphic Ropa Mujer para Correr  Sujetador Deportivo Espalda Cruzada Y Logotipo  Negro  M'
+slug: 'B0814SQTFV-es Under Armour Armour Mid Keyhole Graphic Ropa Mujer para...'
+tags: 
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

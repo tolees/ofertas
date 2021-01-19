@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pdTm6WknL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYD74YB-es Champion the Curvy  Soutien-Gorge de Sport Femme  Noir  Noir 3am   Small  Taille Fabricant: S '
+slug: 'B07FYD74YB-es Champion the Curvy Soutien-Gorge de Sport Femme Noir Noir...'
+tags: 
 actualPrice: 24.55 EUR
 currency: EUR
 price: 24.55

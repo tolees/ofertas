@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gst3KP78L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JL3D47T-es Columbia Mojave Trail II Outdry  Zapatillas de Running para Asfalto para Mujer  Gris  Ti Grey Steel 033   36.5 EU'
+slug: 'B07JL3D47T-es Columbia Mojave Trail II Outdry Zapatillas de Running para...'
+tags: 
 actualPrice: 29.51 EUR
 currency: EUR
 price: 29.51

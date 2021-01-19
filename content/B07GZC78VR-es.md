@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51POEi8a0cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZC78VR-es Vampirina - Pack Deluxe figuras Serie 2  Bandai 78027 '
+slug: 'B07GZC78VR-es Vampirina - Pack Deluxe figuras Serie 2 Bandai 78027'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

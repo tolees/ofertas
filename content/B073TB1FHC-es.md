@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dK2NlE4sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073TB1FHC-es Gigaset E260 - Teléfono inalámbrico teclas grandes  Pantalla 1 8" Alto contraste  Números grandes  Agenda 120 contactos  Compatible con audifonos  Color Blanco'
+slug: 'B073TB1FHC-es Gigaset E260 - Teléfono inalámbrico teclas grandes...'
+tags: 
 actualPrice: 29.66 EUR
 currency: EUR
 price: 29.66

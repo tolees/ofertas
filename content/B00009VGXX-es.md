@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VlV2ThRuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00009VGXX-es D-Link DES-1008D - Switch de Red con 8 Puertos LAN Fast Ethernet 10/100 Mbps RJ-45  no gestionable Layer 2  Negro'
+slug: 'B00009VGXX-es D-Link DES-1008D - Switch de Red con 8 Puertos LAN Fast...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NHKaggUFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002WGHYVI-es Superga 2750 COTU Classic  Zapatillas de Gimnasia Unisexo  Rojo  Red 975   37 EU'
+slug: 'B002WGHYVI-es Superga 2750 COTU Classic Zapatillas de Gimnasia Unisexo...'
+tags: 
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

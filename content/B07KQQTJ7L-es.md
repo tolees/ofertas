@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQQTJ7L-es Salomon ALPHACROSS W Zapatillas de trail running Mujer  Verde  Burnt Olive/White/Gum1a   42 2/3 EU'
+slug: 'B07KQQTJ7L-es Salomon ALPHACROSS W Zapatillas de trail running Mujer...'
+tags: 
 actualPrice: 39.61 EUR
 currency: EUR
 price: 39.61

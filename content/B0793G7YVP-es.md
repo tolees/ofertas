@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31z65Lg+YwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793G7YVP-es Kit Cuidado de Barba Champú  Sérum  Bálsamo  Peine - Regalo Idear para hombres'
+slug: 'B0793G7YVP-es Kit Cuidado de Barba Champú Sérum Bálsamo Peine - Regalo...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

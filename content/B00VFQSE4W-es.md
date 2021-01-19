@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HxwkiH90L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VFQSE4W-es Samsonite Lite-Shock - Spinner M Maleta  69 cm  73 L  Color Azul  Petrol Blue '
+slug: 'B00VFQSE4W-es Samsonite Lite-Shock - Spinner M Maleta 69 cm 73 L Color...'
+tags: 
 actualPrice: 345.31 EUR
 currency: EUR
 price: 345.31

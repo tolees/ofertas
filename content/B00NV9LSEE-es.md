@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qFavDcykL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NV9LSEE-es Transcend StoreJet 500 - 512GB SSD Externo Metálico para Mac con doble conexión: Thunderbold & USB 3.1. Gen 1'
+slug: 'B00NV9LSEE-es Transcend StoreJet 500 - 512GB SSD Externo Metálico para...'
+tags: 
 actualPrice: 203.83 EUR
 currency: EUR
 price: 203.83

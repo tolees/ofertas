@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fd7F0AZGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F14N2FS-es JACK & JONES Jjeholmen Sweat Crew Neck Noos  Suéter para Hombre  Rojo  Port Royale   Small'
+slug: 'B07F14N2FS-es JACK & JONES Jjeholmen Sweat Crew Neck Noos Suéter para...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

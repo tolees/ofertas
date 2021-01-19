@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ke6ZqAR4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7VSFVM-es Tommy Hilfiger Medium Drawstring Bañador  Azul  Large  Talla del Fabricante:  para Hombre'
+slug: 'B07W7VSFVM-es Tommy Hilfiger Medium Drawstring Bañador Azul Large Talla...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

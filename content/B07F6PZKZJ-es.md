@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516f58IVI0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F6PZKZJ-es Sorel Glacy Short  Botas para Mujer  Marrón  Delta/Autumn Bronze 257   36 EU'
+slug: 'B07F6PZKZJ-es Sorel Glacy Short Botas para Mujer Marrón Delta/Autumn...'
+tags: 
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

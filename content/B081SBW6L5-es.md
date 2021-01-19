@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MvKNdn7EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SBW6L5-es Auriculares Inalambricos Bluetooth 5.0  Donerton IPX8 Impermeable Auriculares Bluetooth con 3500mAh Caja de Carga  Estéreo Mini Twins In-Ear Auriculares con micrófono  Pantalla LED & Control Tactil'
+slug: 'B081SBW6L5-es Auriculares Inalambricos Bluetooth 5.0 Donerton IPX8...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

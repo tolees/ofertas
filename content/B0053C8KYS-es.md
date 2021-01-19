@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0053C8KYS-es Notting Hill [Blu-ray]'
+tags: 
 actualPrice: 7.26 EUR
 currency: EUR
 price: 7.26

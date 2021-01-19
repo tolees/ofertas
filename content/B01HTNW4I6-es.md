@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CRxG3REpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HTNW4I6-es adidas Cosmic W  Zapatillas de Running para Mujer  Morado  Pursho/Puruni/Puruni   37 1/3 EU'
+slug: 'B01HTNW4I6-es adidas Cosmic W Zapatillas de Running para Mujer Morado...'
+tags: 
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

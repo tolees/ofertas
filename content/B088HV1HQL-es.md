@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XR2WIlUbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088HV1HQL-es Edge Entertainment- Caja de Inicio: La Llamada de Cthulhu  Color  EECHCT04 '
+slug: 'B088HV1HQL-es Edge Entertainment- Caja de Inicio: La Llamada de Cthulhu...'
+tags: 
 actualPrice: 38.03 EUR
 currency: EUR
 price: 38.03

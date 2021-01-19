@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZnwoJmtFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WBSR9T-es Under Armour UA Raid TR  Zapatillas de Deporte para Hombre  Negro  Black/White/Pierce 005   47.5 EU'
+slug: 'B071WBSR9T-es Under Armour UA Raid TR Zapatillas de Deporte para Hombre...'
+tags: 
 actualPrice: 50.79 EUR
 currency: EUR
 price: 50.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AL8tsvaSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYKSWVY-es King size patchwork Quilt  Handmade Throws  Scrap Quilt  Gift for Mum and Dad  FREE SHIPPING'
+slug: 'B07MYKSWVY-es King size patchwork Quilt Handmade Throws Scrap Quilt Gift...'
+tags: 
 actualPrice: 266.0 EUR
 currency: EUR
 price: 266.0

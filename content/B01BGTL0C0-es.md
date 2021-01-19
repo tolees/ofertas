@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yhEke+0RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTL0C0-es G-STAR RAW 5620 Elwood 3D Skinny Jeans  Gris  dk aged cobler 7863-3143   34W / 32L para Hombre'
+slug: 'B01BGTL0C0-es G-STAR RAW 5620 Elwood 3D Skinny Jeans Gris dk aged cobler...'
+tags: 
 actualPrice: 66.71 EUR
 currency: EUR
 price: 66.71

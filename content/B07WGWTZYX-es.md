@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NyD2Doq0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGWTZYX-es Auriculares Inalámbrico de Diadema  AUSDOM M09 Cascos Bluetooth 5.0  Cascos Inalambricos Plegable con Micrófono Incorporado  Ligero y Cómodo  Apoyo Tarjeta TF  Hi-Fi Estéreo para Moviles  TV  PC'
+slug: 'B07WGWTZYX-es Auriculares Inalámbrico de Diadema AUSDOM M09 Cascos...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

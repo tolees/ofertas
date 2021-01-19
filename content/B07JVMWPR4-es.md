@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419RhE9FDPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVMWPR4-es Mini Cámara Espía Oculta 1080P DIY Portátil Encubierta Niñera Seguridad del Video con Detección de Movimiento para el hogar Coches Aviones no tripulados la Oficina  NO incluir la Tarjeta de Mirco SD '
+slug: 'B07JVMWPR4-es Mini Cámara Espía Oculta 1080P DIY Portátil Encubierta...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

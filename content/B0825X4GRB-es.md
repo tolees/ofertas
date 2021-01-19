@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DNrzixdFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825X4GRB-es Facial Patches  Parches Faciales Antiarrugas  Parches Faciales Antiarrugas  Parches para la Reducción de Arrugas del Entrecejo  Antiarrugas Frente  elimina las arrugas de cejas  5PCS'
+slug: 'B0825X4GRB-es Facial Patches Parches Faciales Antiarrugas Parches...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

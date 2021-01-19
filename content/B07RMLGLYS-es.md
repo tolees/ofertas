@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gAmKlFrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMLGLYS-es Calvin Klein - Revealed Laptop Bag  Organizadores de bolsos Hombre  Negro  Black   0.1x0.1x0.1 cm  W x H L '
+slug: 'B07RMLGLYS-es Calvin Klein - Revealed Laptop Bag Organizadores de bolsos...'
+tags: 
 actualPrice: 57.22 EUR
 currency: EUR
 price: 57.22

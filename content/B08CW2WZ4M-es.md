@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vntwtt4ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CW2WZ4M-es Panamar Borradores y fichas de ajedrez de Madera Natural y Pieza de ajedrez de Backgammon para niños Juego de Mesa Aprendizaje Camping - Madera y Negro'
+slug: 'B08CW2WZ4M-es Panamar Borradores y fichas de ajedrez de Madera Natural y...'
+tags: 
 actualPrice: 1.43 EUR
 currency: EUR
 price: 1.43

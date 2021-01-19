@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AzlTBPSVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0798PVWMN-es 2018 Wedding Planner Book for Wedding Schedule Organize Diary Unique Hardcover Notebook Keepsake Engagement Gift in Pink Color'
+slug: 'B0798PVWMN-es 2018 Wedding Planner Book for Wedding Schedule Organize...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311uLF1hGNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D6M2PC0-es D-Link GO-SW-5E - Switch de Red con 5 Puertos 10/100 Mps  Color Blanco'
+slug: 'B00D6M2PC0-es D-Link GO-SW-5E - Switch de Red con 5 Puertos 10/100 Mps...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

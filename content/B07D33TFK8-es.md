@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hTXaGOWHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D33TFK8-es Sonew 20 Unids Flequillo Pasteles Mágicos Pegamento Cabello Cinta Mágica Fringe Cintas de Pelo Herramienta de Decoraciones'
+slug: 'B07D33TFK8-es Sonew 20 Unids Flequillo Pasteles Mágicos Pegamento...'
+tags: 
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

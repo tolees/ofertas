@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31A5Owdv+DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZ62YZ8-es Mr Wonderful Ratón Inalámbrico Bluetooth con Carcasa Intercambiable - Diseño Flamencos de Colores Amarillo  Rosa y Azul'
+slug: 'B07KZ62YZ8-es Mr Wonderful Ratón Inalámbrico Bluetooth con Carcasa...'
+tags: 
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

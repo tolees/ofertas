@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IrRPlJ7nL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFNC9X6-es adidas Stan Smith J  Zapatillas de Gimnasia Unisex Niños  Blanco  FTWR White/FTWR White/Tech Mineral FTWR White/FTWR White/Tech Mineral   37 1/3 EU'
+slug: 'B07RFNC9X6-es adidas Stan Smith J Zapatillas de Gimnasia Unisex Niños...'
+tags: 
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

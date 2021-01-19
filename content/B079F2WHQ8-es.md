@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Dcu7XhVrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079F2WHQ8-es Vans Ward  Zapatillas para Mujer  Rosa  Canvas/Sepia Rose Oln   38 EU'
+slug: 'B079F2WHQ8-es Vans Ward Zapatillas para Mujer Rosa Canvas/Sepia Rose Oln...'
+tags: 
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

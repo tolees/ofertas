@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313HJfMbNuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073HBZRX3-es Maybelline New York Super Stay Barra de Labios Matte Ink 50 Voyager - 26 gr'
+slug: 'B073HBZRX3-es Maybelline New York Super Stay Barra de Labios Matte Ink...'
+tags: 
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

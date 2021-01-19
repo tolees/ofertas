@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h4syxp6gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLP492-es Napapijri DAIN C Suéter  Gris  Dark Grey Mel 197   XL para Hombre'
+slug: 'B07MMLP492-es Napapijri DAIN C Suéter Gris Dark Grey Mel 197 XL para Hombre'
+tags: 
 actualPrice: 41.29 EUR
 currency: EUR
 price: 41.29

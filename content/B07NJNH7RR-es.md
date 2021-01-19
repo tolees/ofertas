@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3164coRU8hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJNH7RR-es NIKE Club Short JSY Pantalones Cortos  Hombre  Gris  Dk Grey Heather/White   S'
+slug: 'B07NJNH7RR-es NIKE Club Short JSY Pantalones Cortos Hombre Gris Dk Grey...'
+tags: 
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

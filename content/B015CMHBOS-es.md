@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gScyKy5ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CMHBOS-es Rimmel London Match Perfection Foundation Base de Maquillaje Tono 101 Classic Ivory - 30 ml'
+slug: 'B015CMHBOS-es Rimmel London Match Perfection Foundation Base de...'
+tags: 
 actualPrice: 4.76 EUR
 currency: EUR
 price: 4.76

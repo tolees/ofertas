@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vsu-EbqSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XDPSRK-es Funda Universal para Tableta portátil Funda Ultra Suave Impermeable a Prueba de Golpes Funda Protectora a Prueba de Golpes para computadora portátil PC-Negro 8"'
+slug: 'B082XDPSRK-es Funda Universal para Tableta portátil Funda Ultra Suave...'
+tags: 
 actualPrice: 1.81 EUR
 currency: EUR
 price: 1.81

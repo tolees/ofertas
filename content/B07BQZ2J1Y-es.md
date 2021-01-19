@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pcdVzmMNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQZ2J1Y-es Skechers Relven-Velton  Zapatillas Deportivas para Hombre  Negro  Black BBK   40 EU'
+slug: 'B07BQZ2J1Y-es Skechers Relven-Velton Zapatillas Deportivas para Hombre...'
+tags: 
 actualPrice: 41.29 EUR
 currency: EUR
 price: 41.29

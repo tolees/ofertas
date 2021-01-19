@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nxO3j8XCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W9G8CWV-es s.Oliver 53101  Zapatillas para Niños  Azul  Navy   39 EU'
+slug: 'B06W9G8CWV-es s.Oliver 53101 Zapatillas para Niños Azul Navy 39 EU'
+tags: 
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

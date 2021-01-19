@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41KEvCDwDwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFYSVRN-es PUMA Cilia SD  Zapatillas para Mujer  Vineyard Wine-Pastel Parchment Silver White  38.5 EU'
+slug: 'B07KFYSVRN-es PUMA Cilia SD Zapatillas para Mujer Vineyard Wine-Pastel...'
+tags: 
 actualPrice: 30.37 EUR
 currency: EUR
 price: 30.37

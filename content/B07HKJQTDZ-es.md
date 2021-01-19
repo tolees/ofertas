@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414AywDfSoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKJQTDZ-es Under Armour UA W HOVR Sonic 2  Zapatillas de Running para Mujer  Gris  Downpour Gray/Halo Gray/Black  400  400   36 EU'
+slug: 'B07HKJQTDZ-es Under Armour UA W HOVR Sonic 2 Zapatillas de Running para...'
+tags: 
 actualPrice: 60.83 EUR
 currency: EUR
 price: 60.83

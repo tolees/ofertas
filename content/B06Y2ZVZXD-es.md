@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BFZ0xrrBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2ZVZXD-es Joma Olimpia Pantalones Cortos  Hombre  Negro  S'
+slug: 'B06Y2ZVZXD-es Joma Olimpia Pantalones Cortos Hombre Negro S'
+tags: 
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

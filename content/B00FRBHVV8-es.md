@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rWLPXEl6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FRBHVV8-es PURLINE SIRIUS Biochimenea con tamaño compacto y vidrio frontal que protege la llama'
+slug: 'B00FRBHVV8-es PURLINE SIRIUS Biochimenea con tamaño compacto y vidrio...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41asqBTYczL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UBMOKJE-es HP CF361X 508X Cartucho de Tóner Original de alto rendimiento  1 unidad  cian'
+slug: 'B00UBMOKJE-es HP CF361X 508X Cartucho de Tóner Original de alto...'
+tags: 
 actualPrice: 239.5 EUR
 currency: EUR
 price: 239.5

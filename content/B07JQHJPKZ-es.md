@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Do2360GqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQHJPKZ-es AngLink Encendedor Electrico  USB Encendedor Recargable con Cuello Largo Flexible 360 °e Indicación de Batería  ARC Encendedor Antiviento para Cocina Cigarrillos Velas Papel sin Llama ni Olor'
+slug: 'B07JQHJPKZ-es AngLink Encendedor Electrico USB Encendedor Recargable con...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

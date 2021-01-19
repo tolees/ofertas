@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Y3zrwdNZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XT8Z5ZV-es AngLink Mini Ventilador USB Portatil Recargable Bateria Ventilador Clip 4 Modo de Velocidad 360°Ajustable para de Entrenamiento de Cochecito de bebé Autocaravana Oficina en Casa'
+slug: 'B06XT8Z5ZV-es AngLink Mini Ventilador USB Portatil Recargable Bateria...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

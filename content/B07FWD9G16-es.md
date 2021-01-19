@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UuTDaLJyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FWD9G16-es Nike Portmore II Ultralight  GS   Zapatillas de Deporte para Niños  Multicolor  Red Crush/Blue Void/White 601   36 EU'
+slug: 'B07FWD9G16-es Nike Portmore II Ultralight GS Zapatillas de Deporte para...'
+tags: 
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

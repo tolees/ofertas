@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HHLM5GG-es Set de colorear. Frozen'
+tags: 
 actualPrice: 2.47 EUR
 currency: EUR
 price: 2.47

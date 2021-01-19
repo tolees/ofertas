@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fypy1XohL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GQX5QY-es Bresser Optics - Estación Meterológica Bresser 5 En 1 Comfort con Pantalla De Color Negro'
+slug: 'B075GQX5QY-es Bresser Optics - Estación Meterológica Bresser 5 En 1...'
+tags: 
 actualPrice: 77.21 EUR
 currency: EUR
 price: 77.21

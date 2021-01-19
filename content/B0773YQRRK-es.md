@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416R8sfFSAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0773YQRRK-es adidas Stan Smith  Zapatillas para Hombre  Blanco  Footwear White/Footwear White/Collegiate Green 0   42 EU'
+slug: 'B0773YQRRK-es adidas Stan Smith Zapatillas para Hombre Blanco Footwear...'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

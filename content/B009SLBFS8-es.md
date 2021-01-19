@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YS7JWZjfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009SLBFS8-es Lindam Easy Fit Plus Deluxe - Barrera de Seguridad  Blanco  76-82 cm'
+slug: 'B009SLBFS8-es Lindam Easy Fit Plus Deluxe - Barrera de Seguridad Blanco...'
+tags: 
 actualPrice: 34.17 EUR
 currency: EUR
 price: 34.17

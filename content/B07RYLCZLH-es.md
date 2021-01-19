@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vbhtYYwCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYLCZLH-es Termómetro Digital para la Fiebre  Termómetro Médico Oral para una Rápida Medición de la Temperatura Corporal vía Oral  Rectal y en las Axilas para Niños  Adultos y Bebés'
+slug: 'B07RYLCZLH-es Termómetro Digital para la Fiebre Termómetro Médico Oral...'
+tags: 
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

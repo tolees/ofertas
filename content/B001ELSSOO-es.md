@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RtdfECYkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001ELSSOO-es Seiko Reloj Analógico Automático para Hombre con Correa de Acero Inoxidable – SNZF15K1'
+slug: 'B001ELSSOO-es Seiko Reloj Analógico Automático para Hombre con Correa de...'
+tags: 
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

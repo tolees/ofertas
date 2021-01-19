@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wZ4WhOLTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XQ1QFP-es Calcetines deportivos largos de J color  unisex  mitad acolchada  rodilla  de compresión atlética  de fútbol  de compresión deportiva  para adultos  color azul marino + rayas blancas  2 pares'
+slug: 'B085XQ1QFP-es Calcetines deportivos largos de J color unisex mitad...'
+tags: 
 actualPrice: 9.08 EUR
 currency: EUR
 price: 9.08

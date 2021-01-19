@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JfN4EgvCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXT5R8L-es NGS Wild Punk 1- Altavoz Bluetooth con Doble Subwoofer  Efecto de Luces  Varias potencias 700W y 1000W  con entradas SD  USB  AUX IN y Radio FM   300W '
+slug: 'B07GXT5R8L-es NGS Wild Punk 1- Altavoz Bluetooth con Doble Subwoofer...'
+tags: 
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

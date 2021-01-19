@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41klOY-hg+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQNIY77-es Pioneer SE-MS5T-R - Auriculares de tipo diadema  HiRes  power bass  micrófono  control de Smartphone   colo Rojo'
+slug: 'B01MQNIY77-es Pioneer SE-MS5T-R - Auriculares de tipo diadema HiRes...'
+tags: 
 actualPrice: 40.95 EUR
 currency: EUR
 price: 40.95

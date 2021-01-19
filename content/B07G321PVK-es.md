@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qdh-VOx4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G321PVK-es SoccerStarz SOC1059 Barcelona Lionel Messi-Home Kit  2019 Version /Figuras  Verde'
+slug: 'B07G321PVK-es SoccerStarz SOC1059 Barcelona Lionel Messi-Home Kit 2019...'
+tags: 
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

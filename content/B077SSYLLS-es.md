@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IScToexlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SSYLLS-es Puma Liga Baselayer Short Tight Pantalones Cortos  Hombre  Blanco White  L'
+slug: 'B077SSYLLS-es Puma Liga Baselayer Short Tight Pantalones Cortos Hombre...'
+tags: 
 actualPrice: 18.36 EUR
 currency: EUR
 price: 18.36

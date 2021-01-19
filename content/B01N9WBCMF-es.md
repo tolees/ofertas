@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qLsRzI1ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9WBCMF-es Bersuse 100% Algodón - Anatolia XXL Manta Toalla Turca - Multiusos Colcha de Cama  Funda de Sofa - Fouta para Baño y Playa - Oeko-Tex - 155 x 210 cm  Beige  Conjunto de 3 '
+slug: 'B01N9WBCMF-es Bersuse 100% Algodón - Anatolia XXL Manta Toalla Turca -...'
+tags: 
 actualPrice: 73.49 EUR
 currency: EUR
 price: 73.49

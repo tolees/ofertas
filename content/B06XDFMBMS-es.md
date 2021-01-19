@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ANEdIvoPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDFMBMS-es Set de Baño con Cepillo Corporal Exfoliante  Gancho de Ducha  Loción Corporal y Set Bolsa de Viaje'
+slug: 'B06XDFMBMS-es Set de Baño con Cepillo Corporal Exfoliante Gancho de...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

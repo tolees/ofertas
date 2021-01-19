@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fij22aJDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B1WF75Q-es WINMI para Huawei Y5p Funda Color Degradado Silicona TPU Ultrafina Carcasa Reforzar la Cuatro Esquinas Back Case Cover para Huawei Y5p-Oro Negro'
+slug: 'B08B1WF75Q-es WINMI para Huawei Y5p Funda Color Degradado Silicona TPU...'
+tags: 
 actualPrice: 6.02 EUR
 currency: EUR
 price: 6.02

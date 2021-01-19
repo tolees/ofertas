@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WEpgnDQVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K25PQKX-es Hurley M Icon Stretch Volley 17  Bermudas  Hombre  Obsidian'
+slug: 'B07K25PQKX-es Hurley M Icon Stretch Volley 17 Bermudas Hombre Obsidian'
+tags: 
 actualPrice: 23.06 EUR
 currency: EUR
 price: 23.06

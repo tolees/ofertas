@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bRP+D9FLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD3QJ98-es IMC Toys -Fashion Twist Juego Electronico  Multicolor  Imc Toys 1    color/modelo surtido'
+slug: 'B07DD3QJ98-es IMC Toys -Fashion Twist Juego Electronico Multicolor Imc...'
+tags: 
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

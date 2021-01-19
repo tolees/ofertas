@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RyUPvskEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XT5M8N2-es Braga impermeable en PVC  Ayuda a la incontinencia  flexible y lavable  reutilizable  Modelo Cerrado  color blanco  talla 4  45-60 cm de cintura   unisex'
+slug: 'B06XT5M8N2-es Braga impermeable en PVC Ayuda a la incontinencia flexible...'
+tags: 
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

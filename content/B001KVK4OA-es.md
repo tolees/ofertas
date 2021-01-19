@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TsHNjwt2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001KVK4OA-es Bolsas de esterilización reutilizables Quick Clean  Medela'
+slug: 'B001KVK4OA-es Bolsas de esterilización reutilizables Quick Clean Medela'
+tags: 
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

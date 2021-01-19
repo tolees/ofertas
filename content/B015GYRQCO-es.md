@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318L+dBwfdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015GYRQCO-es L Oréal Paris Accord Parfait  Base de maquillaje acabado natural con ácido hialurónico  tono piel medio-oscuro 8D  30 ml'
+slug: 'B015GYRQCO-es L Oréal Paris Accord Parfait Base de maquillaje acabado...'
+tags: 
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

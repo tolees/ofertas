@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412sQ+kSx4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QQLBBT-es GORE WEAR C3 Cubrezapato para ciclismo unisex Partial GORE WINDSTOPPER  Talla: 45-47  Color: amarillo neón/negro'
+slug: 'B075QQLBBT-es GORE WEAR C3 Cubrezapato para ciclismo unisex Partial GORE...'
+tags: 
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

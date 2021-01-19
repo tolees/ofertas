@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kDm0zKeyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DCHG6MS-es Maserati Reloj Cronógrafo de Cuarzo para Hombre con Correa de Cuero – R8871624002'
+slug: 'B01DCHG6MS-es Maserati Reloj Cronógrafo de Cuarzo para Hombre con Correa...'
+tags: 
 actualPrice: 137.75 EUR
 currency: EUR
 price: 137.75

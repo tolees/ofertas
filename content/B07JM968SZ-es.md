@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vCQoEo2cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JM968SZ-es Lee Breese Pantalones para Mujer  Negro  Black Rinse 47   24W / 31L'
+slug: 'B07JM968SZ-es Lee Breese Pantalones para Mujer Negro Black Rinse 47 24W...'
+tags: 
 actualPrice: 34.82 EUR
 currency: EUR
 price: 34.82

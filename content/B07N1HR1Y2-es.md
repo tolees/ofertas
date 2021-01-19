@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P6qn5oHPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HR1Y2-es Clarks Un Elda Hi  Botas Slouch para Mujer  Negro  Black Combi Black Combi   39 EU'
+slug: 'B07N1HR1Y2-es Clarks Un Elda Hi Botas Slouch para Mujer Negro Black...'
+tags: 
 actualPrice: 34.19 EUR
 currency: EUR
 price: 34.19

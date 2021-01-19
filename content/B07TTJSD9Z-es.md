@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41in3eZRVjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTJSD9Z-es Wrangler Texas Contrast Jeans  Azul  Game On 087   35W / 32L para Hombre'
+slug: 'B07TTJSD9Z-es Wrangler Texas Contrast Jeans Azul Game On 087 35W / 32L...'
+tags: 
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95

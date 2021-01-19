@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uy1BRUCRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNTLZYB-es Buff Ebba Cloud Calentador Tricot Y Polar  Mujer  Talla única'
+slug: 'B07FNTLZYB-es Buff Ebba Cloud Calentador Tricot Y Polar Mujer Talla única'
+tags: 
 actualPrice: 16.53 EUR
 currency: EUR
 price: 16.53

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q5wHnRRML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073PB2C1M-es Bourjois Velvet The Lipstick Barra de Labios Tono 02 Flaming’rose - 23 gr.'
+slug: 'B073PB2C1M-es Bourjois Velvet The Lipstick Barra de Labios Tono 02...'
+tags: 
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

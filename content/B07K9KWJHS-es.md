@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518U4KiLQcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9KWJHS-es Extractor de la Espinilla - Extractor del Acné  Kit de la Herramienta de la Eliminación de Whitehead Kit para la Piel del Cuidado Facial'
+slug: 'B07K9KWJHS-es Extractor de la Espinilla - Extractor del Acné Kit de la...'
+tags: 
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

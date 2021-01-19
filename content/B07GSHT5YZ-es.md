@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kuk4HU2sL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSHT5YZ-es HERZO Taladro/Atornillador Configuración de 2 velocidades 300W 23 + 1 Par con 4M de Longitud Del Cable Bueno Para Daily Inicio Los Trabajos de Perforacion'
+slug: 'B07GSHT5YZ-es HERZO Taladro/Atornillador Configuración de 2 velocidades...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

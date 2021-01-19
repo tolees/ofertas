@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t7W3WOLWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KLY1BZR-es Brrnoo Rodillera Deportiva Ajustable  Rodillera de Compresión Transpirable  Banda de Rotuliana Rodilla para Protección de Deportiva y Aliviar el Artritis Rodilla de Menisco Dolor L-Rojo '
+slug: 'B07KLY1BZR-es Brrnoo Rodillera Deportiva Ajustable Rodillera de...'
+tags: 
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

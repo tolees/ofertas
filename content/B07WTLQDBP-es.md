@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31M+aZ952xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTLQDBP-es Adaptador USB C a Ethernet Hub  USB Tipo C  Thunderbolt 3  a Gigabit Ethernet RJ45 10/100/1000 Mbps Adaptador LAN Ethernet para Macbook Pro  Huawei Matebook  Samsung Galaxy y Otros'
+slug: 'B07WTLQDBP-es Adaptador USB C a Ethernet Hub USB Tipo C Thunderbolt 3 a...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

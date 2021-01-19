@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a4pnyZNdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PK7QJ2H-es Swatch Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Silicona SVUR101'
+slug: 'B07PK7QJ2H-es Swatch Reloj Analógico para Unisex Adultos de Cuarzo con...'
+tags: 
 actualPrice: 60.09 EUR
 currency: EUR
 price: 60.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ALCXxm6cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W5JN91Z-es Adidas Vs Advantage  Zapatillas para Hombre  Blanco  White F99256   47 1/3 EU'
+slug: 'B06W5JN91Z-es Adidas Vs Advantage Zapatillas para Hombre Blanco White...'
+tags: 
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

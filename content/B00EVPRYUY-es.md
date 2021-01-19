@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bUYh5sPAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EVPRYUY-es Calvin Klein underwear BOTTOMS UP - THONG - Ropa interior para mujer  Schwarz  Black 001   40'
+slug: 'B00EVPRYUY-es Calvin Klein underwear BOTTOMS UP - THONG - Ropa interior...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

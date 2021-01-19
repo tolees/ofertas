@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711HMJC4-es Reloj Viceroy - Hombre 42295-47'
+tags: 
 actualPrice: 74.5 EUR
 currency: EUR
 price: 74.5

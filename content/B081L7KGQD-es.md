@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bZezUb3GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081L7KGQD-es Camara Espia -Mini Camara -de Llave de Coche Cámara pequeña de Negocios para vigilancia HD1080P 2horas Grabación de Video /4horas Audio 32G Memoria  Grabación en Bucle Soporte 128G'
+slug: 'B081L7KGQD-es Camara Espia -Mini Camara -de Llave de Coche Cámara...'
+tags: 
 actualPrice: 56.78 EUR
 currency: EUR
 price: 56.78

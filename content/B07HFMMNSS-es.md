@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410BnHkO5RL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFMMNSS-es Shock Absorber Ultimate Run Bra Sujetador Deportivo  Azul  Bleu D été 0a7   85H para Mujer'
+slug: 'B07HFMMNSS-es Shock Absorber Ultimate Run Bra Sujetador Deportivo Azul...'
+tags: 
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

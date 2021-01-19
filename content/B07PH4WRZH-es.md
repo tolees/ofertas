@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31e4RdqGWzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PH4WRZH-es Fila Orbit Low  Zapatillas para Hombre  Blanco  White 1010263-98f   40 EU'
+slug: 'B07PH4WRZH-es Fila Orbit Low Zapatillas para Hombre Blanco White...'
+tags: 
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

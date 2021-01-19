@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31o-u-076CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2P4ZLB-es Amazon Essentials – Pantalones cargo elásticos de corte entallado para hombre  Gris oscuro  30W x 30L'
+slug: 'B07F2P4ZLB-es Amazon Essentials – Pantalones cargo elásticos de corte...'
+tags: 
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

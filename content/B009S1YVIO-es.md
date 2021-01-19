@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+tlBO7VLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009S1YVIO-es Vans Atwood Canvas  Sneaker para Hombre  Azul  Navy/White 4k1   39 EU'
+slug: 'B009S1YVIO-es Vans Atwood Canvas Sneaker para Hombre Azul Navy/White 4k1...'
+tags: 
 actualPrice: 40.41 EUR
 currency: EUR
 price: 40.41

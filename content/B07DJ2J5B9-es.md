@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NH5zyc-FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ2J5B9-es New Balance 997H Core  Zapatillas Hombre  Negro  Black   36 EU'
+slug: 'B07DJ2J5B9-es New Balance 997H Core Zapatillas Hombre Negro Black 36 EU'
+tags: 
 actualPrice: 51.84 EUR
 currency: EUR
 price: 51.84

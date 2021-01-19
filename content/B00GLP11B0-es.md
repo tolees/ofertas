@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ziPlUa0WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GLP11B0-es Elbe Regleta Enchufes  Esquina Enchufes multiple con 3 enchufes  2 puertos USB e interruptor  regleta esquina cocina  montaje en pared  acodado  Apto para oficina  cocina y worktops EL4603KU'
+slug: 'B00GLP11B0-es Elbe Regleta Enchufes Esquina Enchufes multiple con 3...'
+tags: 
 actualPrice: 46.56 EUR
 currency: EUR
 price: 46.56

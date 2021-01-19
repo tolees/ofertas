@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hzgl7PSjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGP6RJL-es Buff Keo Gorra Baseball  Unisex Adulto  Green  Talla única'
+slug: 'B07KGP6RJL-es Buff Keo Gorra Baseball Unisex Adulto Green Talla única'
+tags: 
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

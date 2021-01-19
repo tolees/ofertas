@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t7r+HhaSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DU3IKL4-es Balanza de cocina digital Laica KS1029W con diseño de fresas  en vidrio templado peso máximo 5 Kg. Encendido y apagado automático. Función TARA.'
+slug: 'B01DU3IKL4-es Balanza de cocina digital Laica KS1029W con diseño de...'
+tags: 
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

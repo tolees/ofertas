@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TFEp4fjnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0786R8JJZ-es PUMA Liga Training Shorts W Chándal  Mujer  Negro  Black/White   XL'
+slug: 'B0786R8JJZ-es PUMA Liga Training Shorts W Chándal Mujer Negro...'
+tags: 
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

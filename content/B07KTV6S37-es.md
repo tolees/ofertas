@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B6ikAPifL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTV6S37-es Columbia Urban Uplift - Bolsa Cruzada  Unisex Adulto  Mountain  O/S'
+slug: 'B07KTV6S37-es Columbia Urban Uplift - Bolsa Cruzada Unisex Adulto...'
+tags: 
 actualPrice: 11.47 EUR
 currency: EUR
 price: 11.47

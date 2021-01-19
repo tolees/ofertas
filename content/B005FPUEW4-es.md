@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jl42VCTBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005FPUEW4-es S.Oliver Reloj Analógico de Cuarzo Unisex con Correa de Silicona – SO-2291-PQ'
+slug: 'B005FPUEW4-es S.Oliver Reloj Analógico de Cuarzo Unisex con Correa de...'
+tags: 
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

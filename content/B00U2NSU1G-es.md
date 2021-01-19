@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iXzkMr2sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U2NSU1G-es Bruguer - Esmalte Acrlico Satinado Laca Acrylic Blanco Permanente 750 Ml'
+slug: 'B00U2NSU1G-es Bruguer - Esmalte Acrlico Satinado Laca Acrylic Blanco...'
+tags: 
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

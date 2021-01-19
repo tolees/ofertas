@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vPKkXTCtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072V3T1PY-es Aodoor Parasol para Parabrisa  parasoles de Coche Delantero  Protección Auto Frontal Plegable contra el Calor y los Rayos UV del Sol  160 x 86cm'
+slug: 'B072V3T1PY-es Aodoor Parasol para Parabrisa parasoles de Coche Delantero...'
+tags: 
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

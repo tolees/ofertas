@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lUNiKf+cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KR3CZ8K-es Vibram Five Fingers Trek Ascent  Zapatillas de Deporte Exterior Mujer  Negro  Black   36'
+slug: 'B00KR3CZ8K-es Vibram Five Fingers Trek Ascent Zapatillas de Deporte...'
+tags: 
 actualPrice: 58.56 EUR
 currency: EUR
 price: 58.56

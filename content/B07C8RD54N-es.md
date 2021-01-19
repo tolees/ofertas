@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410w59Pl66L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C8RD54N-es VicTsing Linterna Frontal LED Recargable con 50H de Autonomía  Linterna Cabeza Ultra Ligera de Alta Potencia  6 Modos de Luz  Impermeable IPX6  Ajustable 90º para Running  Trabajo  Pesca y Camping'
+slug: 'B07C8RD54N-es VicTsing Linterna Frontal LED Recargable con 50H de...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

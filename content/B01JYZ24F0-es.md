@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E-0s4Fh1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JYZ24F0-es Einhell 1002231 Cargador Bateria CC-BC 6 m con ControlMicro-Processor Voltaje 6/12v  Negro  Rojo'
+slug: 'B01JYZ24F0-es Einhell 1002231 Cargador Bateria CC-BC 6 m con...'
+tags: 
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

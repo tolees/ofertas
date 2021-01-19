@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XT7TDVtNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BVDLXT-es Oihxse Funda Compatible con LG V40  Carcasa Transparente TPU Silicona Gel Ultra Fina Suave Protección Flexible Lindo Dibujos Anti-rasguños Caso Cubierta  A9 '
+slug: 'B086BVDLXT-es Oihxse Funda Compatible con LG V40 Carcasa Transparente...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

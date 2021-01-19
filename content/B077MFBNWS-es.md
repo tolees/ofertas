@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518O87pkyYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MFBNWS-es FIRENZE ARTEGIANI.Bolso de Mujer Piel auténtica.Bolso de Mano Mujer Cuero Genuino Gamuza Grabado Motivo Trenzado en Espiga y Lacado. Made IN Italy. Vera Pelle Italiana. 23x15x4 cm. Color: Marron'
+slug: 'B077MFBNWS-es FIRENZE ARTEGIANI.Bolso de Mujer Piel auténtica.Bolso de...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Eym27LNKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0012RW0VC-es Bosch Professional GLI 12V-80 - Linterna a batería  sin batería  12 V  80 lúmenes  en caja '
+slug: 'B0012RW0VC-es Bosch Professional GLI 12V-80 - Linterna a batería sin...'
+tags: 
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

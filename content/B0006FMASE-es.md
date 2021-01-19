@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I7JAfQEmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0006FMASE-es Converse Youths Chuck Taylor All Star Hi Zapatillas de tela  Unisex - Infantil  Negro  27'
+slug: 'B0006FMASE-es Converse Youths Chuck Taylor All Star Hi Zapatillas de...'
+tags: 
 actualPrice: 34.63 EUR
 currency: EUR
 price: 34.63

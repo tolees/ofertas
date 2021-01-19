@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ELFpl1+wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KK32SOM-es K nex Noria Revolution  344 Piezas  41212 '
+slug: 'B01KK32SOM-es K nex Noria Revolution 344 Piezas 41212'
+tags: 
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

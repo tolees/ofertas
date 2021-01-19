@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GfKyaBGUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW9G7W7-es Salomon Speedcross 4  Zapatillas de Trail Running para Hombre  Azul  Fjord Blue/Navy Blazer/Cherry Tomato   44 2/3 EU'
+slug: 'B07KW9G7W7-es Salomon Speedcross 4 Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

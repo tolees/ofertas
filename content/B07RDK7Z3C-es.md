@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zdF1uvNRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDK7Z3C-es Luz del Sensor de Movimiento  LOFTer Luz de Armario de Batería Recargable 2200 mAh  Con 39 LED Súper Brillantes  Se Puede Pegar en Cualquier Gabinete  Luces de Escalera  Luz Nocturna'
+slug: 'B07RDK7Z3C-es Luz del Sensor de Movimiento LOFTer Luz de Armario de...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

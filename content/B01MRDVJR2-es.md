@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pQzbAJwYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRDVJR2-es i-Buy Funda de Cuero Microfibra PU Resistente al Agua para Apple ordenador portátil Macbook Air y MacBook Pro Retina 13.3 pulgadas - oro rosa'
+slug: 'B01MRDVJR2-es i-Buy Funda de Cuero Microfibra PU Resistente al Agua para...'
+tags: 
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

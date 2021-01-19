@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pxi4mdqzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGNXR4N-es New Balance Draft  Zapatillas de Running para Hombre  Gris Grey Lg1  40.5 EU'
+slug: 'B07RGNXR4N-es New Balance Draft Zapatillas de Running para Hombre Gris...'
+tags: 
 actualPrice: 32.59 EUR
 currency: EUR
 price: 32.59

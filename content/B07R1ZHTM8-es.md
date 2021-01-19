@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mtSsTfSrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R1ZHTM8-es Under Armour Challenger III Training Pant Chándal para Hombre  Pantalones Largos Muy Ligeros  Azul  XL'
+slug: 'B07R1ZHTM8-es Under Armour Challenger III Training Pant Chándal para...'
+tags: 
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

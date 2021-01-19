@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UliiVGCBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y45Z8WG-es American Tourister - Soundbox Spinner Expandible  67cm  71 5/81 L - 3 7 KG  Azul  Midnight Navy '
+slug: 'B06Y45Z8WG-es American Tourister - Soundbox Spinner Expandible 67cm 71...'
+tags: 
 actualPrice: 111.3 EUR
 currency: EUR
 price: 111.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+3mLbZlYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D87W2GD-es Munich Massana  Zapatillas de Deporte para Hombre  Azul  Marino 301   43 EU'
+slug: 'B07D87W2GD-es Munich Massana Zapatillas de Deporte para Hombre Azul...'
+tags: 
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

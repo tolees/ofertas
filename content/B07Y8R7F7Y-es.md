@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414ASxBtiJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8R7F7Y-es Jack & Jones Jorbrandon Sweat Hood Capucha  Azul  Navy Blazer Fit: Slim JJ   Large para Hombre'
+slug: 'B07Y8R7F7Y-es Jack & Jones Jorbrandon Sweat Hood Capucha Azul Navy...'
+tags: 
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

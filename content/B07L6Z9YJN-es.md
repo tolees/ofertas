@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31M7e3KxJlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6Z9YJN-es FitFlop Anni Flex  Zapatillas sin Cordones para Mujer  Blanco  Urban White 194   36 EU'
+slug: 'B07L6Z9YJN-es FitFlop Anni Flex Zapatillas sin Cordones para Mujer...'
+tags: 
 actualPrice: 25.81 EUR
 currency: EUR
 price: 25.81

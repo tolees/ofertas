@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZdCYHWUcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8RTGDB-es Tommy Hilfiger ESSENTIAL MINI REPORTERHombreMonederosNegro  Black  5x20x16 centimeters  B x H x T '
+slug: 'B07N8RTGDB-es Tommy Hilfiger ESSENTIAL MINI REPORTERHombreMonederosNegro...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

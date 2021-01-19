@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xeLaM3v9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HS94QT2-es Oral-B Smart 4 4000N CrossAction - Cepillo Eléctrico 1 Negro Conectado  3 Modos: Blanqueado  Sensible  Cuidado Encías  2 Cabezales Recambio'
+slug: 'B07HS94QT2-es Oral-B Smart 4 4000N CrossAction - Cepillo Eléctrico 1...'
+tags: 
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

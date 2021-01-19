@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cMK3sFl6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHM44N3-es Skechers UNO  Zapatillas para Hombre  Negro  Black PU/Mesh/Red Trim BKRD   43 EU'
+slug: 'B07XHM44N3-es Skechers UNO Zapatillas para Hombre Negro Black...'
+tags: 
 actualPrice: 28.58 EUR
 currency: EUR
 price: 28.58

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SbR4MharL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLJ2LFZ-es Versace Jeans CoutureBorsaMujerBolso de manoMorado  Accademi  7x16x18 centimeters  W x H x L '
+slug: 'B07NLJ2LFZ-es Versace Jeans CoutureBorsaMujerBolso de manoMorado...'
+tags: 
 actualPrice: 106.31 EUR
 currency: EUR
 price: 106.31

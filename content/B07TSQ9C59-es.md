@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VXGEKgybL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ9C59-es Skechers Delson 2.0 Kemper  Zapatillas para Hombre  Azul  Blue Canvas BLU   39.5 EU'
+slug: 'B07TSQ9C59-es Skechers Delson 2.0 Kemper Zapatillas para Hombre Azul...'
+tags: 
 actualPrice: 37.44 EUR
 currency: EUR
 price: 37.44

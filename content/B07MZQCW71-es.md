@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-0eI5MeQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQCW71-es Pepe Jeans Greta Pantalones  Azul  Dulwich 594   S para Mujer'
+slug: 'B07MZQCW71-es Pepe Jeans Greta Pantalones Azul Dulwich 594 S para Mujer'
+tags: 
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

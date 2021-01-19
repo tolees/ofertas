@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uTGFQrjRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVZPPGY-es Reebok Forever FLOATRIDE Energy  Zapatillas de Trail Running para Hombre  Multicolor  Crushed Cobalt/Col Navy/SLR Gld/Wht/Pure 000   40 EU'
+slug: 'B07MVZPPGY-es Reebok Forever FLOATRIDE Energy Zapatillas de Trail...'
+tags: 
 actualPrice: 54.97 EUR
 currency: EUR
 price: 54.97

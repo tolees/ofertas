@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XFG3BgXnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TPLRB16-es Sabrent Funda rígida a prueba de golpes EVA para disco duro externo de 2.5"  EC-CASE '
+slug: 'B00TPLRB16-es Sabrent Funda rígida a prueba de golpes EVA para disco...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

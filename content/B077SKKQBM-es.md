@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P8CHSBkAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SKKQBM-es MTNG Rolling  Zapatillas de Deporte para Mujer  Rosa  Raspe Coral   39 EU'
+slug: 'B077SKKQBM-es MTNG Rolling Zapatillas de Deporte para Mujer Rosa Raspe...'
+tags: 
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

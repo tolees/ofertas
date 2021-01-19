@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PcQiKfGdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TPPF79-es Traje de Gasa de Tres Capas de Espesamiento a Pprueba de Polvo Protección Facial Desechable  50PCS '
+slug: 'B088TPPF79-es Traje de Gasa de Tres Capas de Espesamiento a Pprueba de...'
+tags: 
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

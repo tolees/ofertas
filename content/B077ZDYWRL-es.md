@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tzMZU9bXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZDYWRL-es Auna iTuner 320 - Radio con Internet  Sintonizador HiFi Digital  Spotify Connect  Controlada por aplicación  Dab/Dab  FM RDS  WLAN  WiFi  Pantalla TFT de 8 cm  Mando a Distancia  Negro'
+slug: 'B077ZDYWRL-es Auna iTuner 320 - Radio con Internet Sintonizador HiFi...'
+tags: 
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

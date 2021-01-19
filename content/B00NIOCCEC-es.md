@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JpIxHDO6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NIOCCEC-es Panasonic ER-GB80-S503 - Cortapelos impermeable con Peine-Guía 3 en 1 barba  cabello y cuerpo  recargable  acero inoxidable  lavable  batería larga duración  39 ajustes  3 peines incluidos   plata'
+slug: 'B00NIOCCEC-es Panasonic ER-GB80-S503 - Cortapelos impermeable con Peine-...'
+tags: 
 actualPrice: 62.34 EUR
 currency: EUR
 price: 62.34

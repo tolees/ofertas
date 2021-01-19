@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SIM+cDzPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088LST3R7-es 1pcs Limpiador de orejas Fácil extracción de la cera del oído Orejas de limpiador en espiral suave Prevenir la selección del oído Limpiador de hisopo Herramienta de eliminación de cera del o'
+slug: 'B088LST3R7-es 1pcs Limpiador de orejas Fácil extracción de la cera del...'
+tags: 
 actualPrice: 18.19 EUR
 currency: EUR
 price: 18.19

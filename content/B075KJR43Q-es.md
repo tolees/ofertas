@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AvrnZ-+NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075KJR43Q-es Tristar KA-5087 Radiador eléctrico – Aceite – 7 cuerpos – 1500 W'
+slug: 'B075KJR43Q-es Tristar KA-5087 Radiador eléctrico – Aceite – 7 cuerpos –...'
+tags: 
 actualPrice: 31.41 EUR
 currency: EUR
 price: 31.41

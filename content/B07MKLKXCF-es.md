@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414oAgIYjZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKLKXCF-es Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 18629/1'
+slug: 'B07MKLKXCF-es Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 56.63 EUR
 currency: EUR
 price: 56.63

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PYvy2LCNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL2N3K7-es New Balance Fresh Foam Zante  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Orca/Sea Salt LB   41 EU'
+slug: 'B07BL2N3K7-es New Balance Fresh Foam Zante Zapatillas Deportivas para...'
+tags: 
 actualPrice: 49.22 EUR
 currency: EUR
 price: 49.22

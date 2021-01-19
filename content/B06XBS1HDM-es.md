@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419xhVdskJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XBS1HDM-es KOPEKS Piscina Extra Grande Infantil Ideal para Niños/Mascotas Perros 160 x 30 cm - Azul Marino y Celeste - XL - XXL'
+slug: 'B06XBS1HDM-es KOPEKS Piscina Extra Grande Infantil Ideal para...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

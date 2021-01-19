@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FxD5kL9TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SF2JN9L-es PUMA Love WN S  Zapatillas para Mujer  Blanco White/Marshmallow  42 EU'
+slug: 'B07SF2JN9L-es PUMA Love WN S Zapatillas para Mujer Blanco...'
+tags: 
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

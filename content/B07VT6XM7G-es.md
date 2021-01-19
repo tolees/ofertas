@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iWgIk0r-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VT6XM7G-es Skechers GO Walk Lite  Zapatillas para Mujer  Azul Marino Ribete Textil Nvy  37 EU'
+slug: 'B07VT6XM7G-es Skechers GO Walk Lite Zapatillas para Mujer Azul Marino...'
+tags: 
 actualPrice: 29.54 EUR
 currency: EUR
 price: 29.54

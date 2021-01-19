@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GYtcNTBWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1GN7Y-es PUMA Ralph Sampson Mid  Zapatillas Unisex Adulto  Blanco White/Gray Violet/Peacoat  45 EU'
+slug: 'B07KG1GN7Y-es PUMA Ralph Sampson Mid Zapatillas Unisex Adulto Blanco...'
+tags: 
 actualPrice: 49.02 EUR
 currency: EUR
 price: 49.02

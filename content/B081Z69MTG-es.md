@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cl8XJznXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081Z69MTG-es HONZIN Alicate Multiuso 10-en-1 Alicates Plegables Multiherramienta De Acero Inoxidable Martillo Multifunción Para Acampar Al Supervivencia Exterior'
+slug: 'B081Z69MTG-es HONZIN Alicate Multiuso 10-en-1 Alicates Plegables...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

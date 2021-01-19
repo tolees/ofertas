@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61-shi8JZnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGX4BJ6-es DREAMWIN 38 Piezas Máscaras de Superhéroe  Máscaras de Cosplay de Superhéroe  Accesorio de Fiesta Infantil y Adultos  Máscaras para Niños y Adultos  Suministros de Fiesta de Superhéroes'
+slug: 'B07QGX4BJ6-es DREAMWIN 38 Piezas Máscaras de Superhéroe Máscaras de...'
+tags: 
 actualPrice: 10.34 EUR
 currency: EUR
 price: 10.34

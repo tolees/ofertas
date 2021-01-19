@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GqOPbtfQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TL9Y6CS-es Negro Cepillo y Recogedor para Ventana de Seguimiento Teclado Mini 2 en 1 Multifuncional Desmontable Escoba y Recogedor para Carril de la Puerta Esquina Teclado por SamGreatWorld'
+slug: 'B07TL9Y6CS-es Negro Cepillo y Recogedor para Ventana de Seguimiento...'
+tags: 
 actualPrice: 0.52 EUR
 currency: EUR
 price: 0.52

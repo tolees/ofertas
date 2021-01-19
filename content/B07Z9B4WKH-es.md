@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mWqUqiW8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z9B4WKH-es B Blesiya Cuchara De Arena para Gatos De Metal con Mango - Pala De Limpieza para Mascotas para Perros  Conejos Y Animales Pequeños  34 Cm'
+slug: 'B07Z9B4WKH-es B Blesiya Cuchara De Arena para Gatos De Metal con Mango -...'
+tags: 
 actualPrice: 18.04 EUR
 currency: EUR
 price: 18.04

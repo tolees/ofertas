@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PBggt9D7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9WY5B6-es L Oreal Paris Dermo Expertise - Revitalift Filler Sérum con ácido hialurónico - 16 ml'
+slug: 'B00X9WY5B6-es L Oreal Paris Dermo Expertise - Revitalift Filler Sérum...'
+tags: 
 actualPrice: 11.17 EUR
 currency: EUR
 price: 11.17

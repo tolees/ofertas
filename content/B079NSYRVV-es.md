@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414W+IThxoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NSYRVV-es oasser Alcoholímetro Profesional Electroquímico Respiratorio de Recargable Digital Pantalla LED Incluye Batería de Litio & 4 Boquillas Desechables FDA T3'
+slug: 'B079NSYRVV-es oasser Alcoholímetro Profesional Electroquímico...'
+tags: 
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

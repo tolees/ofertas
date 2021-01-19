@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r4xBRCQIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6SRT4H-es Intel NUC 7I5BNK - Kit ordenador Mini PC  Intel Core i5-7260U  Espacio para hasta 32 GB SODIMM DDR4 RAM  Espacio para disco M.2 SSD '
+slug: 'B01N6SRT4H-es Intel NUC 7I5BNK - Kit ordenador Mini PC Intel Core...'
+tags: 
 actualPrice: 236.68 EUR
 currency: EUR
 price: 236.68
@@ -25,9 +26,9 @@ Tienes [Intel NUC 7I5BNK - Kit ordenador Mini PC  Intel Core i5-7260U  Espacio p
 
 🔎:
 
-- Procesador Intel Core i5-7260U (Hasta 3.40 GHz, 4 MB cache)
 - 2 slots para memoria RAM DDR4-2133 hasta 32 GB
-- WiFi AC + Bluetooth 4.2, ranura para tarjeta microSD
 - Conexión de disco duro M.2 (PCIe x4)
+- Procesador Intel Core i5-7260U (Hasta 3.40 GHz, 4 MB cache)
+- WiFi AC + Bluetooth 4.2, ranura para tarjeta microSD
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N6SRT4H/?tag=tolees-21)

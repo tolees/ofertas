@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vhc7WJRjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4LZQWH-es Levi s Alpine  Botas Desert para Hombre  Marrón  Light Brown 26   45 EU'
+slug: 'B07N4LZQWH-es Levi s Alpine Botas Desert para Hombre Marrón Light Brown...'
+tags: 
 actualPrice: 61.12 EUR
 currency: EUR
 price: 61.12

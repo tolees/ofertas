@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HOEHQrTpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FD85D7J-es Dove Gel de ducha Agua Micelar Anti-Estrés - 4 unidades de 500 ml  Total 2000 ml '
+slug: 'B07FD85D7J-es Dove Gel de ducha Agua Micelar Anti-Estrés - 4 unidades de...'
+tags: 
 actualPrice: 9.57 EUR
 currency: EUR
 price: 9.57

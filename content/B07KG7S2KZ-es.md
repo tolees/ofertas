@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319Zc-y7y0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG7S2KZ-es PUMA NRGY Neko Retro  Zapatillas de Running para Hombre  Peacoat White  40 EU'
+slug: 'B07KG7S2KZ-es PUMA NRGY Neko Retro Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

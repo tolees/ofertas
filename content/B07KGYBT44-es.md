@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31u2ct4Oh0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGYBT44-es Mr. Wonderful - Pendrive de 16 GB  diseño Sorbete  Color Azul'
+slug: 'B07KGYBT44-es Mr. Wonderful - Pendrive de 16 GB diseño Sorbete Color Azul'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

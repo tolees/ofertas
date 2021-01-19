@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a0UH5uUTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N246ZPJ-es Sennheiser CX 300S - Auriculares intraurales con control remoto inteligente universal  color rojo'
+slug: 'B07N246ZPJ-es Sennheiser CX 300S - Auriculares intraurales con control...'
+tags: 
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

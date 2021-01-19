@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415xY1U3g+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TXCWQG-es memumi Delgado para Samsung Galaxy S20 Plus 6.7" Funda Mate Protectora Carcasa para Samsung Galaxy S20 Plus Fundas Translúcido [Ultra Delgado] con Anti-arañazos  S20Plus Blanco Mate '
+slug: 'B083TXCWQG-es memumi Delgado para Samsung Galaxy S20 Plus 6.7" Funda...'
+tags: 
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

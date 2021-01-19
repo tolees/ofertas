@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xh02K6X0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003CRG5IO-es Wolfcraft 4868000 4868000-1 Cascos Anti-Ruido Standard  SNR 19 dB  DIN EN 352-1:2002  CE '
+slug: 'B003CRG5IO-es Wolfcraft 4868000 4868000-1 Cascos Anti-Ruido Standard SNR...'
+tags: 
 actualPrice: 6.11 EUR
 currency: EUR
 price: 6.11

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411l1RV988L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGJR9JD-es Saucony Triumph ISO 5  Zapatillas de Running para Hombre  Gris  Gris 42   42 EU'
+slug: 'B07MGJR9JD-es Saucony Triumph ISO 5 Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 87.5 EUR
 currency: EUR
 price: 87.5

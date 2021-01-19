@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dA+VdsYbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVGWW1G-es Kipling - Hiphurray Packable  Bolsos totes Mujer  Morado  Plum Light   39x43x1 cm  B x H T '
+slug: 'B07MVGWW1G-es Kipling - Hiphurray Packable Bolsos totes Mujer Morado...'
+tags: 
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

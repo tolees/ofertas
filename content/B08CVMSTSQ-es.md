@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lguVe939L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVMSTSQ-es Panamar Juego Entre Padres e Hijos Alfombra no Tejida Serpiente de ajedrez y escaleras disfrutan de la diversión Familiar - Multicolor - S'
+slug: 'B08CVMSTSQ-es Panamar Juego Entre Padres e Hijos Alfombra no Tejida...'
+tags: 
 actualPrice: 1.58 EUR
 currency: EUR
 price: 1.58

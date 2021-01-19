@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gUI3lOuAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088RC9NF3-es COOAU Cámara Web 1080p HD con micrófono con cancelación de Ruido  Webcam  Uso para cámara de Juegos  cámara de Video Conferencia  Video Llamada.Compatible con Windows/Mac/Andriod  Web 1 '
+slug: 'B088RC9NF3-es COOAU Cámara Web 1080p HD con micrófono con cancelación de...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jl12CGJZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDSJLKS-es Mellerware Batidora de mano de 1000W. Velocidad regulable y función Turbo Cuchillas de 4 filos de acero inoxidable de alta resistencia. Acero inoxidable  agarre ergonómico negro.'
+slug: 'B07VDSJLKS-es Mellerware Batidora de mano de 1000W. Velocidad regulable...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ObOikAaLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG5F2WQ-es JACK & JONES Jfwvision Classic Chambray Anthraci Noos  Zapatillas para Hombre  Gris  Anthracite Anthracite   42 EU'
+slug: 'B07JG5F2WQ-es JACK & JONES Jfwvision Classic Chambray Anthraci Noos...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

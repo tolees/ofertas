@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TzscXt4VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BLKKQ6-es AGPTEK 18Pcs Discos Desmaquillantes Reutilizables con 4 Pcs Bastoncillo de Algodón Reutilizable  Bolsa de Lavado  Aptos para todo Tipo de Pieles'
+slug: 'B083BLKKQ6-es AGPTEK 18Pcs Discos Desmaquillantes Reutilizables con 4...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

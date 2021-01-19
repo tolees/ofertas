@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WUQLwfOzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SH3CFC9-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Transformación de Darth Vader  Compatible con Ladrillos de Construcción Lego Modelo 75183  Juego de Legos no Incluido'
+slug: 'B07SH3CFC9-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

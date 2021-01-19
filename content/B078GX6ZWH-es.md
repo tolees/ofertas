@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HpgBo9EiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GX6ZWH-es adidas Duramo 9  Zapatillas de Running para Hombre  Negro  Core Black/Footwear White/Core Black 0   39 1/3 EU'
+slug: 'B078GX6ZWH-es adidas Duramo 9 Zapatillas de Running para Hombre Negro...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

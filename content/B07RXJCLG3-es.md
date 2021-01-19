@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qHdUH17vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXJCLG3-es New Balance 373v2  Zapatillas para Mujer  Morado  Madder KP   40 EU'
+slug: 'B07RXJCLG3-es New Balance 373v2 Zapatillas para Mujer Morado Madder KP...'
+tags: 
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

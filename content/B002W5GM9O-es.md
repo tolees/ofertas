@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31nEQXKlKyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B002W5GM9O-es Verbatim Store  N  Go Pinstripe - Memoria USB de 32 GB  60 MB/s   color negro'
+slug: 'B002W5GM9O-es Verbatim Store N Go Pinstripe - Memoria USB de 32 GB 60...'
+tags: 
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

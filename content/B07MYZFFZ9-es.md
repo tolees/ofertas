@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZvcHxmWmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYZFFZ9-es Skechers Solar Fuse  Zapatillas Deportivas para Mujer  Blanco  White Knit Mesh/Multi Trim Wmlt   35.5 EU'
+slug: 'B07MYZFFZ9-es Skechers Solar Fuse Zapatillas Deportivas para Mujer...'
+tags: 
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

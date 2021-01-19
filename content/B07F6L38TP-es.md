@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sPsRQPEbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F6L38TP-es Spin Master Dragons Deluxe Dragon Toothless - Figuras de Juguete para niños  Multicolor  4 año s   Niño/niña  Dibujos Animados  Animales  Dragon Riders '
+slug: 'B07F6L38TP-es Spin Master Dragons Deluxe Dragon Toothless - Figuras de...'
+tags: 
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

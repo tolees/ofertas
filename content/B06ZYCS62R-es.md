@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aCol7rxQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYCS62R-es Nikkon D7500 - Cámara réflex Digital de 20.9 MP  Pantalla LCD 3.2"  4K/UHD  SnapBridge  Bluetooth  WiFi  Color Negro - Kit con Objetivo AF-S DX 18-140 mm f/3.5-5.6G ED VR'
+slug: 'B06ZYCS62R-es Nikkon D7500 - Cámara réflex Digital de 20.9 MP Pantalla...'
+tags: 
 actualPrice: 1239.0 EUR
 currency: EUR
 price: 1239.0

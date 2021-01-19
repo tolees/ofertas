@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ubovWWPgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758FYY2Q-es BOSS Prime Polo  Azul  Dark Blue 402   XX-Large para Hombre'
+slug: 'B0758FYY2Q-es BOSS Prime Polo Azul Dark Blue 402 XX-Large para Hombre'
+tags: 
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

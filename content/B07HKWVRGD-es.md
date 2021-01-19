@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wkmbHmQTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKWVRGD-es Dolce&Gabbana - Cartera para Mujer  Negro  Negro  - BI0473AI07380999'
+slug: 'B07HKWVRGD-es Dolce&Gabbana - Cartera para Mujer Negro Negro -...'
+tags: 
 actualPrice: 332.5 EUR
 currency: EUR
 price: 332.5

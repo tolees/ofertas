@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WBXmVxmzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082Y2KXF4-es Cocoda Dispensador Jabón Automático 500ml/17oz  Dispensador Jabon Cocina Sin Contacto con 5 Interruptor Ajustable y Tanque de Agua Visible  Dispensador Sensor de Líquidos Manos para Cocina Hotel Baño'
+slug: 'B082Y2KXF4-es Cocoda Dispensador Jabón Automático 500ml/17oz Dispensador...'
+tags: 
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

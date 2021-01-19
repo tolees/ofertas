@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41INDvuxDnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZSOD69-es Symantec Norton AntiVirus Basic Base license 1usuario s  1año s  - Seguridad y antivirus  1  1 año s   Base license  Soporte físico '
+slug: 'B01LZSOD69-es Symantec Norton AntiVirus Basic Base license 1usuario s...'
+tags: 
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

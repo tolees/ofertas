@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-2CP+eBqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW92XH9-es Salomon XA Pro 3D  Zapatillas de Trail Running para Hombre  Azul  Sky Diver/Navy Blazer/Hawaiian Ocean   46 2/3 EU'
+slug: 'B07KW92XH9-es Salomon XA Pro 3D Zapatillas de Trail Running para Hombre...'
+tags: 
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

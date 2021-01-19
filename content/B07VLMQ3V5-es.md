@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aABMjEIgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLMQ3V5-es OrgaWise Joyero Viaje Voyage Plegable Multifuncional  para Joyas  Collares  Pendientes  Anillos  Pulseras  ect'
+slug: 'B07VLMQ3V5-es OrgaWise Joyero Viaje Voyage Plegable Multifuncional para...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

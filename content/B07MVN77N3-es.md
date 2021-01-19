@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31of38rsC6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVN77N3-es Helly Hansen HH Mizu V7 Aislado Botella De Agua Acero Inoxidable  Unisex Adulto  Black  One Size'
+slug: 'B07MVN77N3-es Helly Hansen HH Mizu V7 Aislado Botella De Agua Acero...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

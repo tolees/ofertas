@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XNOdkqY1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004IJ89WK-es Nike Cortez Basic SL  GS   Zapatillas de Deporte Unisex Adulto  Rojo  Rojo 904764 103   39 EU'
+slug: 'B004IJ89WK-es Nike Cortez Basic SL GS Zapatillas de Deporte Unisex...'
+tags: 
 actualPrice: 39.7 EUR
 currency: EUR
 price: 39.7

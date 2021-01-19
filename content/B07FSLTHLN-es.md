@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GKvVJH6KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSLTHLN-es Clarks Un Maui Step  Mocasines para Mujer  Blanco  White Leather-   41.5 EU'
+slug: 'B07FSLTHLN-es Clarks Un Maui Step Mocasines para Mujer Blanco White...'
+tags: 
 actualPrice: 29.41 EUR
 currency: EUR
 price: 29.41

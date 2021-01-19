@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/518EE%2BHbbtL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBC1PHM-es Cordel de Yute 2 Rollo 328 Pies de Cuerda de Cáñamo Natural Vintage de Cuerda de Cáñamo Para Bricolaje Artes Manualidades y Decoración Materiales para Jardinería  2*100 metros  marrón '
+slug: 'B07GBC1PHM-es Cordel de Yute 2 Rollo 328 Pies de Cuerda de Cáñamo...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

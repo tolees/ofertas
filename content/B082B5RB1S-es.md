@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VLxCctIeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082B5RB1S-es 2 Piezas De Perfume Original Para Mujer Perfume De Encaje De Fragancia De Flores De Larga Duración 50 Ml Regalo De Vacaciones De Cumpleaños Clásico De Eternidad 02 '
+slug: 'B082B5RB1S-es 2 Piezas De Perfume Original Para Mujer Perfume De Encaje...'
+tags: 
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

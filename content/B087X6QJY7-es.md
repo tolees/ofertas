@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NbbaNLlEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087X6QJY7-es Suhctup Funda Transparent Compatible para Samsung Galaxy A30S/A50S Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Galaxy A30S/A50S A14'
+slug: 'B087X6QJY7-es Suhctup Funda Transparent Compatible para Samsung Galaxy...'
+tags: 
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

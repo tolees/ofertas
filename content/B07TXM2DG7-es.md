@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31A2IIMZvOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXM2DG7-es Skechers MAX Cushioning Elite-Step Up  Zapatillas para Mujer  Blanco  White Leather/Silver Trim WSL   40 EU'
+slug: 'B07TXM2DG7-es Skechers MAX Cushioning Elite-Step Up Zapatillas para...'
+tags: 
 actualPrice: 39.61 EUR
 currency: EUR
 price: 39.61

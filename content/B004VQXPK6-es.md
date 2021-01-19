@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xx-LIS7UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004VQXPK6-es Kitchen Craft - Papelera a Pedal para Compost  3 L '
+slug: 'B004VQXPK6-es Kitchen Craft - Papelera a Pedal para Compost 3 L'
+tags: 
 actualPrice: 14.52 EUR
 currency: EUR
 price: 14.52

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+tqppPc3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GIWJBLW-es Emblema Piaggio. 6 de Esquina Cascada para Vespa PX T5 etc. – Aluminio  Autoadhesivo  31 x 36 mm'
+slug: 'B01GIWJBLW-es Emblema Piaggio. 6 de Esquina Cascada para Vespa PX T5...'
+tags: 
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

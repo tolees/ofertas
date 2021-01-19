@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x0NFsXW5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0083FNBI2-es Calypso Energy Peeling - Esponja de baño vegetal  exfoliación con partículas de cáscaras de frutos secos  1 unidad'
+slug: 'B0083FNBI2-es Calypso Energy Peeling - Esponja de baño vegetal...'
+tags: 
 actualPrice: 2.15 EUR
 currency: EUR
 price: 2.15

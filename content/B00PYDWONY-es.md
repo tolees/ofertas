@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414K992h9aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PYDWONY-es Nike Md Runner 2 - Zapatillas de correr para Hombre  Azul Marino  Azul Marino/Blanco/Gris   45 EU'
+slug: 'B00PYDWONY-es Nike Md Runner 2 - Zapatillas de correr para Hombre Azul...'
+tags: 
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

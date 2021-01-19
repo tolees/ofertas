@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51T8S394gdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGY6MFF-es UMI. Essentials Marco para Fotos y Diplomas De pie o para Colgar en la Pared  Tamaño A4 Negro  Juego de 4'
+slug: 'B07LGY6MFF-es UMI. Essentials Marco para Fotos y Diplomas De pie o para...'
+tags: 
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

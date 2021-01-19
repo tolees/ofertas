@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31b3ZcN9Y3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B15C4BQ-es Monix Optima 2 Batería de 5 piezas  Acero Inox  Apta para Todo Tipo de Cocina e Inducción  18/10'
+slug: 'B08B15C4BQ-es Monix Optima 2 Batería de 5 piezas Acero Inox Apta para...'
+tags: 
 actualPrice: 72.94 EUR
 currency: EUR
 price: 72.94

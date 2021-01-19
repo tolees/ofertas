@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m48XmHWsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWNFBJQ-es Under Armour Heatgear Armoury Corto  Mujer  Rojo  LG'
+slug: 'B07PWNFBJQ-es Under Armour Heatgear Armoury Corto Mujer Rojo LG'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Xj7Y36YwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CGRNBKG-es Colmanda Bolsa de Dulces de Dinosaurio  24pcs Bolsa de Regalo de Papel con Pegatina Dinosaurio  Papel Regalo Bolsas para Niños Suministros Fiesta de Cumpleaños  4 Colores'
+slug: 'B08CGRNBKG-es Colmanda Bolsa de Dulces de Dinosaurio 24pcs Bolsa de...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

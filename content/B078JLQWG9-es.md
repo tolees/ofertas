@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DBOqMWfCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078JLQWG9-es Timex Reloj Analógico para Hombre de Cuarzo con Correa en Nailon TW2R38500'
+slug: 'B078JLQWG9-es Timex Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

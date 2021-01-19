@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415s5rzl3vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MDTTWZ-es Optimum Nutrition Suplemento Alimenticio Essential Amino Energy  con Sabor de Cereza - 270 gr'
+slug: 'B072MDTTWZ-es Optimum Nutrition Suplemento Alimenticio Essential Amino...'
+tags: 
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

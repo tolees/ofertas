@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SG4DT5O+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC15SHH-es Cecotec Rock n Grill 1500 Take&Clean -  Parrilla Eléctrica  Revestimiento RockStone  Desmontables y Aptas para Lavavajillas  Apertura 180º y Placa Superior Flotante  1500 W  Acero Inoxidable'
+slug: 'B07MC15SHH-es Cecotec Rock n Grill 1500 Take&Clean - Parrilla Eléctrica...'
+tags: 
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

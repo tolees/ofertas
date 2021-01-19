@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317j7CyqcpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JBNSY-es Clarks Boot  Botas Desert para Mujer  Marrón Chestnut Leather  38 EU'
+slug: 'B07N1JBNSY-es Clarks Boot Botas Desert para Mujer Marrón Chestnut...'
+tags: 
 actualPrice: 27.14 EUR
 currency: EUR
 price: 27.14

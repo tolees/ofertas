@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OjDQjhT9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JUUM13K-es MyProtein Flavdrops Saborizante Natural  Sabor Caramelo - 50 ml'
+slug: 'B00JUUM13K-es MyProtein Flavdrops Saborizante Natural Sabor Caramelo -...'
+tags: 
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

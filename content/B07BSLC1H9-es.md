@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kM5wFfPKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSLC1H9-es Nike SB Portmore II Solar  Zapatillas de Skateboard Unisex Adulto  Negro  Black/Black/Gunsmoke 005   36 1/2 EU'
+slug: 'B07BSLC1H9-es Nike SB Portmore II Solar Zapatillas de Skateboard Unisex...'
+tags: 
 actualPrice: 30.47 EUR
 currency: EUR
 price: 30.47

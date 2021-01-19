@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61nVKcE9PSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5N2MT8-es HOMOZE Manguera de Agua expandible de jardín con Conector de latón Macizo  8 Funciones  Pistola de pulverización/Bolsa de Almacenamiento'
+slug: 'B07P5N2MT8-es HOMOZE Manguera de Agua expandible de jardín con Conector...'
+tags: 
 actualPrice: 25.57 EUR
 currency: EUR
 price: 25.57

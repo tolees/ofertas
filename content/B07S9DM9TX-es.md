@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gro7rTcaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9DM9TX-es Lee Rider Tonal Jeans  Moto Worn  38W / 34L para Hombre'
+slug: 'B07S9DM9TX-es Lee Rider Tonal Jeans Moto Worn 38W / 34L para Hombre'
+tags: 
 actualPrice: 43.27 EUR
 currency: EUR
 price: 43.27

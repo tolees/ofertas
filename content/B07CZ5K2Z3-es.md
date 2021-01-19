@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4192F16GdiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ5K2Z3-es Salomon RX Moc 4.0  Calzado de recuperación para Hombre  Negro  Black/Phantom/White   40 EU'
+slug: 'B07CZ5K2Z3-es Salomon RX Moc 4.0 Calzado de recuperación para Hombre...'
+tags: 
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

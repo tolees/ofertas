@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+QV7VVSbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLN52K8-es Nûby 36M+ - Taza de tritan con botón Push y pajita  530 ml  Rosa'
+slug: 'B07TLN52K8-es Nûby 36M+ - Taza de tritan con botón Push y pajita 530 ml...'
+tags: 
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

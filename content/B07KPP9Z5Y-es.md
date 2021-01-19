@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413dtHpdvbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPP9Z5Y-es Ban presto- The Battle Dragon Ball Estatua Androide 18  Multicolor  BANP82731 '
+slug: 'B07KPP9Z5Y-es Ban presto- The Battle Dragon Ball Estatua Androide 18...'
+tags: 
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

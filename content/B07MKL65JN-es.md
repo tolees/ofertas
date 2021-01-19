@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gJEBZKS+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKL65JN-es TK.DILIGARM Look At You Becoming A Medical Coder and Shit Coffee Mug  Programmer Mug - Funny Programming Gift for Men and Women - Gag Coffee Cup for Computer Coding - Best Themed Gift Idea for Coders'
+slug: 'B07MKL65JN-es TK.DILIGARM Look At You Becoming A Medical Coder and Shit...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Hul2gXU+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D8ZF78X-es Adidas LITE RACER CLN I  Zapatillas de deporte Unisex niños  Blanco  Bb7053 Blanco   21 EU'
+slug: 'B07D8ZF78X-es Adidas LITE RACER CLN I Zapatillas de deporte Unisex niños...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

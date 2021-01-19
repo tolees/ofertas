@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zoysY8GOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPXW9S4-es K-Swiss Court Winston  Zapatillas para Hombre  Blanco  White/Vapor Blue 142   44.5 EU'
+slug: 'B07TPXW9S4-es K-Swiss Court Winston Zapatillas para Hombre Blanco...'
+tags: 
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

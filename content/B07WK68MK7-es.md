@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OTL4rbhyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WK68MK7-es Luz Solar Exterior Jardín 12 LED Foco Solar con Sensor de Movimiento Impermeable Lámparas Solares Apliques de pared 2 Modos para Jardín Patio Césped Terraza Calzada'
+slug: 'B07WK68MK7-es Luz Solar Exterior Jardín 12 LED Foco Solar con Sensor de...'
+tags: 
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

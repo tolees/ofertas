@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tiRP+cSPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015HWY9O8-es Ron Appleton Estate  1 x 0.7 l '
+slug: 'B015HWY9O8-es Ron Appleton Estate 1 x 0.7 l'
+tags: 
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

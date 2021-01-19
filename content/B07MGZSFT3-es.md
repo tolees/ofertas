@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HpUMSJYTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGZSFT3-es 1370 hojas 2 estilos 32 colores Origami estrellas tiras de papel luminoso y purpurina Set de papel y 50 hojas de doble cara cuadrado papel 6 x 6 pulgadas con 50 colores para niños  manualidades'
+slug: 'B07MGZSFT3-es 1370 hojas 2 estilos 32 colores Origami estrellas tiras de...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

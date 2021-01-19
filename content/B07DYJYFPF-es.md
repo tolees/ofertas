@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NJJDchEeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYJYFPF-es Storeofbaby Paños de baño de bebé Reutilizable Ultra suave Toalla de mano pequeña 6 paquete de 10"x 10"'
+slug: 'B07DYJYFPF-es Storeofbaby Paños de baño de bebé Reutilizable Ultra suave...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

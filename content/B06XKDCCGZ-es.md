@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51i6-8UgOQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XKDCCGZ-es Epson DURABrite Ultra Ink  Cartucho de Tinta para Impresoras  35XL  Negro  Ya disponible en Amazon Dash Replenishment'
+slug: 'B06XKDCCGZ-es Epson DURABrite Ultra Ink Cartucho de Tinta para...'
+tags: 
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

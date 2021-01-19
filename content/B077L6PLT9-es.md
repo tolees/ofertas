@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31iqF99ykdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077L6PLT9-es Bourjois Velvet The Lipstick Barra de Labios Tono 13 Nohalicious  2.4 gr.'
+slug: 'B077L6PLT9-es Bourjois Velvet The Lipstick Barra de Labios Tono 13...'
+tags: 
 actualPrice: 2 EUR
 currency: EUR
 price: 2

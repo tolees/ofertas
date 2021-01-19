@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316q7kh9eXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S358NFJ-es Love MoschinoJc4001pp1aMujerBolsos totesMarfil  Avorio 11x25x39 centimeters  W x H x L '
+slug: 'B07S358NFJ-es Love MoschinoJc4001pp1aMujerBolsos totesMarfil Avorio...'
+tags: 
 actualPrice: 132.25 EUR
 currency: EUR
 price: 132.25

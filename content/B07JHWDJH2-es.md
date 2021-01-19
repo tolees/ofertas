@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416036rRT+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHWDJH2-es Columbia 100MW Mid Outdry  Botas de Senderismo para Hombre  Negro  Shark  Deep Rus 011   42 EU'
+slug: 'B07JHWDJH2-es Columbia 100MW Mid Outdry Botas de Senderismo para Hombre...'
+tags: 
 actualPrice: 48.41 EUR
 currency: EUR
 price: 48.41

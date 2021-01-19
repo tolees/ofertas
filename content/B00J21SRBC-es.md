@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ug9hxtllL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J21SRBC-es Energy Sport CAM Extreme  Full HD 1080p  30fps  5MP  Accesorios Pro Pack  Waterproof '
+slug: 'B00J21SRBC-es Energy Sport CAM Extreme Full HD 1080p 30fps 5MP...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

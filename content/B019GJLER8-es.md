@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZeoiLkGYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019GJLER8-es Anker PowerCore 10000 mAh - Batería externa Power Bank  cargador portátil pequeño y ligero  batería externa compacta con tecnología de carga rápida para iPhone  Samsung Galaxy y más'
+slug: 'B019GJLER8-es Anker PowerCore 10000 mAh - Batería externa Power Bank...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

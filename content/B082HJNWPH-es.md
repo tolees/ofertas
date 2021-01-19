@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314nR4lW3aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HJNWPH-es LAQI - Herramienta de Corte de Cristal de carburo de Aceite con Mango Antideslizante de Metal Resistente'
+slug: 'B082HJNWPH-es LAQI - Herramienta de Corte de Cristal de carburo de...'
+tags: 
 actualPrice: 3.27 EUR
 currency: EUR
 price: 3.27

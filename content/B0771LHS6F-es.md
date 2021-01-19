@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EUhASJ-5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771LHS6F-es Funko Pop! - Games: Ni No Kuni Roland W/ Higgledy Figura de Vinilo 27016'
+slug: 'B0771LHS6F-es Funko Pop! - Games: Ni No Kuni Roland W/ Higgledy Figura...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

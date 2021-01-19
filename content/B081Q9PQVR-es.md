@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4118P6HJonL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081Q9PQVR-es Masajeador Control Remoto Inalámbrico 15m Para Mujer  con Función de Calefacción y 10 Modos  Masajeador Mando de Dos Motores para Relajar el Cuerpo  Rosa '
+slug: 'B081Q9PQVR-es Masajeador Control Remoto Inalámbrico 15m Para Mujer con...'
+tags: 
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

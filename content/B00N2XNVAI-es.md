@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31l6d+j2SKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N2XNVAI-es Maclean - Mc-628 - Montaje Soporte para Monitor Pantalla LCD led TV  13"-27"  15kg  vesa 75 y 100 '
+slug: 'B00N2XNVAI-es Maclean - Mc-628 - Montaje Soporte para Monitor Pantalla...'
+tags: 
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

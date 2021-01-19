@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T4piOkKHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XB4KGJ8-es FENICAL Gorro quirúrgico Ajustable Perro Impreso médico Enfermera Bouffant Sombrero Gorro de cirugía Absorbente de Sudor'
+slug: 'B07XB4KGJ8-es FENICAL Gorro quirúrgico Ajustable Perro Impreso médico...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

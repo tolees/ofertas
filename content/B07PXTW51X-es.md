@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OE35NRXBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXTW51X-es Under Armour UA Charged Escape 3  Zapatillas para Correr  Calzado Deportivo para Hombre  Gris  Mod Gray/Mod Gray/Mod Gray  105  105   43 EU'
+slug: 'B07PXTW51X-es Under Armour UA Charged Escape 3 Zapatillas para Correr...'
+tags: 
 actualPrice: 50.39 EUR
 currency: EUR
 price: 50.39

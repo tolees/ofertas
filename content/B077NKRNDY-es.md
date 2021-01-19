@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Fk6j7yQFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NKRNDY-es Polaroid Originals 4756 - Bolsa para cámara  Color Negro'
+slug: 'B077NKRNDY-es Polaroid Originals 4756 - Bolsa para cámara Color Negro'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WNufgjDGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVQNMVL-es H.Koenig MSX250 Cortafiambre 25 cm profesional precisión Disco de corte 250 mm Metal Acero inoxidable Jamon Carne Fiambre Pan Queso'
+slug: 'B07NVQNMVL-es H.Koenig MSX250 Cortafiambre 25 cm profesional precisión...'
+tags: 
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

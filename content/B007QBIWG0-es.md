@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lc3pCVkzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007QBIWG0-es Grohe Eurocube- Grifo de Bide de Una Planca  acabado cromado  5.1 cm  tamaño S  Ref. 23138000 '
+slug: 'B007QBIWG0-es Grohe Eurocube- Grifo de Bide de Una Planca acabado...'
+tags: 
 actualPrice: 119.97 EUR
 currency: EUR
 price: 119.97

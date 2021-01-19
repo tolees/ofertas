@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51mGnbHoBfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RBT931D-es G★LAXIA Amoladora Angulare 750W 11000RPM  Discos de 115mm  con 2 Ruedas para Esmerilar/Pulir/Cortar  Mango  Cubiertas Protectoras de Ruedas  Bloqueo Interruptor  Cabeza Metálica'
+slug: 'B07RBT931D-es G★LAXIA Amoladora Angulare 750W 11000RPM Discos de 115mm...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

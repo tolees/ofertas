@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Sjxtxav2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9T1QQ7-es Lacoste Carnaby EVO 419 2 SFA  Zapatillas para Mujer  Blanco  White/Pink B53   37 EU'
+slug: 'B07L9T1QQ7-es Lacoste Carnaby EVO 419 2 SFA Zapatillas para Mujer Blanco...'
+tags: 
 actualPrice: 47.33 EUR
 currency: EUR
 price: 47.33

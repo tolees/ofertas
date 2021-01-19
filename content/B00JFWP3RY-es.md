@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21aRfZacc8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JFWP3RY-es Brabantia 298264 - Tarro de Cristal  1.1 L  Tapa Gris Oscuro'
+slug: 'B00JFWP3RY-es Brabantia 298264 - Tarro de Cristal 1.1 L Tapa Gris Oscuro'
+tags: 
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

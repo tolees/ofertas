@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IOUMfIQZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YZG5DT-es Fifet Chupete Chupete Clips Cadenas x 4  para Bebés y Niños'
+slug: 'B086YZG5DT-es Fifet Chupete Chupete Clips Cadenas x 4 para Bebés y Niños'
+tags: 
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

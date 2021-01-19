@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QjQwTT9uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CQY8EG4-es Gilde Handwerk Fieltro Juego de manteles  trébol  Gris Oscuro  Medio'
+slug: 'B01CQY8EG4-es Gilde Handwerk Fieltro Juego de manteles trébol Gris...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

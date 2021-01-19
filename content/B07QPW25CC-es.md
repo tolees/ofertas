@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QPA1doRaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPW25CC-es Asics Gel-Pulse 11 Winterized 1011a707-0  Zapatillas de Entrenamiento para Hombre  Negro  Black 1011a707/001   42.5 EU'
+slug: 'B07QPW25CC-es Asics Gel-Pulse 11 Winterized 1011a707-0 Zapatillas de...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yvrioWsBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B019CVMIN4-es New Balance Vazee Coast  Zapatillas de Running para Mujer  Azul  Teal 443   37 EU'
+slug: 'B019CVMIN4-es New Balance Vazee Coast Zapatillas de Running para Mujer...'
+tags: 
 actualPrice: 26.52 EUR
 currency: EUR
 price: 26.52

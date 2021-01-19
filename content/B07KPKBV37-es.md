@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fMtEUDjCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPKBV37-es San Ignacio PK661 San Ignacio Set de Cacerolas Ã˜20/24/28 y Tartera Ã˜28 Cms  Color Cobre  Con Tapa de Vidrio  Asas Y  Cobre'
+slug: 'B07KPKBV37-es San Ignacio PK661 San Ignacio Set de Cacerolas Ã˜20/24/28...'
+tags: 
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-2iLQF3OL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL2QW96-es New Balance 373  Zapatillas para Mujer  Rosa  Pink Sand/White Psw   36.5 EU'
+slug: 'B07BL2QW96-es New Balance 373 Zapatillas para Mujer Rosa Pink Sand/White...'
+tags: 
 actualPrice: 48.72 EUR
 currency: EUR
 price: 48.72

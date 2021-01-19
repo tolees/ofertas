@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418CxxAxyQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0714DRTQH-es Under Armour Challenger II Knit Warm-Up Ropa de Deporte de Hombre  chándal Completo  Negro  Black/Graphite 001   XL'
+slug: 'B0714DRTQH-es Under Armour Challenger II Knit Warm-Up Ropa de Deporte de...'
+tags: 
 actualPrice: 56.25 EUR
 currency: EUR
 price: 56.25

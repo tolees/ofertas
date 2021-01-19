@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLCDF2R-es Zapatillas/NIKE:Wmns NIKE Court Vision Low 40 NEGR'
+tags: 
 actualPrice: 41.26 EUR
 currency: EUR
 price: 41.26

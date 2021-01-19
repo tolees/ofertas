@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31-rn91VjYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRCPFKC-es adidas NMD_r1  Zapatillas de Gimnasia para Hombre  Blanco  FTWR White/FTWR White/Vapour Pink FTWR White/FTWR White/Vapour Pink   40 2/3 EU'
+slug: 'B07SRCPFKC-es adidas NMD_r1 Zapatillas de Gimnasia para Hombre Blanco...'
+tags: 
 actualPrice: 69.97 EUR
 currency: EUR
 price: 69.97

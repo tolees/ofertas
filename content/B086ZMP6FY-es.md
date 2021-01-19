@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+3hfTahjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZMP6FY-es B Blesiya 10 Pulgadas Borrando Parcialmente La Escritura A Mano Colorida del LCD para Los Niños Que Escriben El Dibujo'
+slug: 'B086ZMP6FY-es B Blesiya 10 Pulgadas Borrando Parcialmente La Escritura A...'
+tags: 
 actualPrice: 26.57 EUR
 currency: EUR
 price: 26.57

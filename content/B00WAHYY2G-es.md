@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415DaFo9rnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WAHYY2G-es OOTB 93/2072 - Tubos de ensayo de plástico para chupitos  transparente'
+slug: 'B00WAHYY2G-es OOTB 93/2072 - Tubos de ensayo de plástico para chupitos...'
+tags: 
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

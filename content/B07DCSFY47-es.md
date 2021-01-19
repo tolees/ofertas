@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EBKC1PejL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCSFY47-es LEABAGS Fort Grant Estuche de auténtico Cuero búfalo en el Estilo Vintage - Rouge'
+slug: 'B07DCSFY47-es LEABAGS Fort Grant Estuche de auténtico Cuero búfalo en el...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

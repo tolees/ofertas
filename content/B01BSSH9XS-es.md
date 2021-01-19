@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aVf6mEbZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSSH9XS-es Samsung Clear Cover - Funda para Samsung Galaxy S7 Edge  transparente con esquinas metálicas'
+slug: 'B01BSSH9XS-es Samsung Clear Cover - Funda para Samsung Galaxy S7 Edge...'
+tags: 
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

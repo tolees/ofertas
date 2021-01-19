@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+ZH33IN8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSTGOIF-es Reebok Club C 85  Zapatillas Hombre  Negro  Int / Black / White / Gum   42.5 EU'
+slug: 'B01MSTGOIF-es Reebok Club C 85 Zapatillas Hombre Negro Int / Black /...'
+tags: 
 actualPrice: 55.42 EUR
 currency: EUR
 price: 55.42

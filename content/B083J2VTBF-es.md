@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aw-AVNrlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083J2VTBF-es HP Elite Dragonfly - Ordenador portátil convertible de 13.3" FullHD  Intel Core i5-8265U  8GB RAM  256GB SSD + 16GB 3D Xpoint SSD  Intel Graphics  Windows 10 Pro   Azul - Teclado QWERTY Español'
+slug: 'B083J2VTBF-es HP Elite Dragonfly - Ordenador portátil convertible de...'
+tags: 
 actualPrice: 1199.0 EUR
 currency: EUR
 price: 1199.0

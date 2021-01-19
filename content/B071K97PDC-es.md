@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UHkUrpDFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071K97PDC-es Reebok Royal Techque T  Zapatillas para Hombre  Negro  Black / Black   42 EU'
+slug: 'B071K97PDC-es Reebok Royal Techque T Zapatillas para Hombre Negro Black...'
+tags: 
 actualPrice: 46.01 EUR
 currency: EUR
 price: 46.01

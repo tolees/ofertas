@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21FF5s9xZJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00008XVSX-es WMF Classic Line Cuchillo Cocinero 34 cm con Hoja de Acero Templado'
+slug: 'B00008XVSX-es WMF Classic Line Cuchillo Cocinero 34 cm con Hoja de Acero...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

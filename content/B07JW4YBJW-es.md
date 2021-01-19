@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rDEOty7BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW4YBJW-es Hackett London Aston Martin Racing Tip Cllr Polo  Blanco  White 800   Small para Hombre'
+slug: 'B07JW4YBJW-es Hackett London Aston Martin Racing Tip Cllr Polo Blanco...'
+tags: 
 actualPrice: 39.6 EUR
 currency: EUR
 price: 39.6

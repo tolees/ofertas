@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510C054G22L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0832Q4LLV-es Videocámara Videocamara Full HD 1080P 30FPS Videocámara Cámara IR Night Vision 24MP 16X Zoom Vlogging Camera con Control Remoto'
+slug: 'B0832Q4LLV-es Videocámara Videocamara Full HD 1080P 30FPS Videocámara...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

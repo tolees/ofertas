@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31x1pkF7g1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OG0ORR2-es JVC HA-SR185-W-E - Auriculares de diadema  con controlador de llamada '
+slug: 'B00OG0ORR2-es JVC HA-SR185-W-E - Auriculares de diadema con controlador...'
+tags: 
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

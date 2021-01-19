@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sJcLS2CbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8H5FW2-es iWork - L-81-855 - Bomba de Agua de Profundidad 1000 w color Plata Aluminio'
+slug: 'B07L8H5FW2-es iWork - L-81-855 - Bomba de Agua de Profundidad 1000 w...'
+tags: 
 actualPrice: 167.75 EUR
 currency: EUR
 price: 167.75

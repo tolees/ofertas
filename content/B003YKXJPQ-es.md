@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E-UsN1RBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003YKXJPQ-es Westmark Cortador de Verduras  Acero Inoxidable'
+slug: 'B003YKXJPQ-es Westmark Cortador de Verduras Acero Inoxidable'
+tags: 
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

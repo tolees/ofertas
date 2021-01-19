@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i23gBfCsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7R2C1H-es PUMA Future 5.3 Netfit OSG FG/AG  Botas de fútbol para Hombre  Naranja  Nrgy Peach/Fizzy Yellow   40.5 EU'
+slug: 'B07S7R2C1H-es PUMA Future 5.3 Netfit OSG FG/AG Botas de fútbol para...'
+tags: 
 actualPrice: 39.63 EUR
 currency: EUR
 price: 39.63

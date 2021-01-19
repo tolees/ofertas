@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jx4D-or+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRTSL8Q-es Anpro - Micrófono de condensador USB con cable USB de 1 8 m y soporte ajustable para grabación de estudio  juegos  streaming  voz  transmisión en vivo y vídeos de Youtube'
+slug: 'B07XRTSL8Q-es Anpro - Micrófono de condensador USB con cable USB de 1 8...'
+tags: 
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

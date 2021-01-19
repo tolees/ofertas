@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TslZuSTVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMYWKJ2-es Bamamx Parque Infantil Bebe Plegable  Anillas Parque Bebe Portátil  Parque de Juegos Lavable  Vallas Infantiles con Malla Ajustable  Centro de Actividades Bebe Interior Exterior  bebe de 6 a 24 meses'
+slug: 'B07TMYWKJ2-es Bamamx Parque Infantil Bebe Plegable Anillas Parque Bebe...'
+tags: 
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

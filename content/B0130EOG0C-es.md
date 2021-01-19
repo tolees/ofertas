@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZfrJB5n+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0130EOG0C-es Remington Kit Lithium PG6160 - Recortador Multifunción y Cortapelos  Barba  Cabello  Vello Corporal  Nariz  Orejas  Inalámbrico  Titanio  10 Accesorios  Negro y Azul'
+slug: 'B0130EOG0C-es Remington Kit Lithium PG6160 - Recortador Multifunción y...'
+tags: 
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

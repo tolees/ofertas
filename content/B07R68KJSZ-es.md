@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ahljlab1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R68KJSZ-es Cabezal de Recambio para Oral-B Cepillo de Dientes Eléctrico Recargable  16Pzs Recambios para Cepillo de Dientes Compatible con Precision  Floss  Cross  Whitening'
+slug: 'B07R68KJSZ-es Cabezal de Recambio para Oral-B Cepillo de Dientes...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

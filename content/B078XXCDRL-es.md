@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JkOVReJcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XXCDRL-es Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable AR11104'
+slug: 'B078XXCDRL-es Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 147.4 EUR
 currency: EUR
 price: 147.4

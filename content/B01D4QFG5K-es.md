@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51alAgLgMuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D4QFG5K-es Revell Star Wars Boba Fett s Slave I  Kit modele  Escala 1:160  03610 '
+slug: 'B01D4QFG5K-es Revell Star Wars Boba Fett s Slave I Kit modele Escala...'
+tags: 
 actualPrice: 8.17 EUR
 currency: EUR
 price: 8.17

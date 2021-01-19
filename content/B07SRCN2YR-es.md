@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PmV2oEbPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRCN2YR-es adidas EQT Gazelle  Hombre  Azul  Collegiate Navy/Gold Met./Solar Yellow Collegiate Navy/Gold Met./Solar Yellow   45 1/3 EU'
+slug: 'B07SRCN2YR-es adidas EQT Gazelle Hombre Azul Collegiate Navy/Gold...'
+tags: 
 actualPrice: 30.42 EUR
 currency: EUR
 price: 30.42

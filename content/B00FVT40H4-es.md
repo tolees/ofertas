@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BqKTOeGAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FVT40H4-es WP WPN-ABP-1-B Accesorio de Bastidor - Accesorio de Rack  Negro  48 3 cm  19"   483 mm  42 mm '
+slug: 'B00FVT40H4-es WP WPN-ABP-1-B Accesorio de Bastidor - Accesorio de Rack...'
+tags: 
 actualPrice: 2.64 EUR
 currency: EUR
 price: 2.64

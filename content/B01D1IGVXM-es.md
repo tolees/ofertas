@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ctN8nENmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D1IGVXM-es REPEL BITE NATURAL ADULTO pulsera citronela. Pulsera AntImosquitos. Ajustablepara muñeca y tobillo. Resistente al agua. Duración 3 semanas.'
+slug: 'B01D1IGVXM-es REPEL BITE NATURAL ADULTO pulsera citronela. Pulsera...'
+tags: 
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

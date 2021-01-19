@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mmLtVYhDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY36RND-es Audio Pro Addon T5 - Altavoz inalámbrico  Color Rosa empolvado'
+slug: 'B01LY36RND-es Audio Pro Addon T5 - Altavoz inalámbrico Color Rosa empolvado'
+tags: 
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

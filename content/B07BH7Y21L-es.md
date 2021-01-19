@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a8seJvGZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BH7Y21L-es Liposan Bálsamo labial  Sabor Cereza - 4.8 gr'
+slug: 'B07BH7Y21L-es Liposan Bálsamo labial Sabor Cereza - 4.8 gr'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

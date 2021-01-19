@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IUP7NFQ-es Ultima Pienso para Gatos Adulto con Pollo'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/617QiZsI6eL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0748FMJVX-es Emma & Giovanni - Pullover- Mujer  S/M  Burdeos '
+slug: 'B0748FMJVX-es Emma & Giovanni - Pullover- Mujer S/M Burdeos'
+tags: 
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

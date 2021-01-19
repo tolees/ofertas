@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519hX1LRzNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFJDJ6V-es Percetey - Cinturón de natación para niños y adultos  ajustable  cinturón de resistencia sin contracorriente  cinturón acolchado  para entrenamiento'
+slug: 'B07RFJDJ6V-es Percetey - Cinturón de natación para niños y adultos...'
+tags: 
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

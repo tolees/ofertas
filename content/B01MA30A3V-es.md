@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PI5rDqJ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MA30A3V-es Britax Römer Silla de coche Nacimiento - 4 años  hasta 18 kg  FIRST CLASS PLUS Grupo 0+/1  Storm Grey'
+slug: 'B01MA30A3V-es Britax Römer Silla de coche Nacimiento - 4 años hasta 18...'
+tags: 
 actualPrice: 155.57 EUR
 currency: EUR
 price: 155.57

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uisBEFwML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQZQJU0-es New Balance 247v1  Zapatillas para Hombre  Negro  Black/White Ve   46.5 EU'
+slug: 'B01MQZQJU0-es New Balance 247v1 Zapatillas para Hombre Negro Black/White...'
+tags: 
 actualPrice: 65.97 EUR
 currency: EUR
 price: 65.97

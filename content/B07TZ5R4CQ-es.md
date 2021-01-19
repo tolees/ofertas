@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Kig1aBNDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ5R4CQ-es Skechers Moreno  Zapatillas para Hombre  Negro  Black Natural Mesh Bknt   40 EU'
+slug: 'B07TZ5R4CQ-es Skechers Moreno Zapatillas para Hombre Negro Black Natural...'
+tags: 
 actualPrice: 48.5 EUR
 currency: EUR
 price: 48.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q80aCd4gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001GNBVPI-es Max Factor Crème Puff Polvos Compactos Tono 005 Translucent  21 gr.'
+slug: 'B001GNBVPI-es Max Factor Crème Puff Polvos Compactos Tono 005...'
+tags: 
 actualPrice: 7.54 EUR
 currency: EUR
 price: 7.54

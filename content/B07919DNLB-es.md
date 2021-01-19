@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51XHqaKQHVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07919DNLB-es Súper brillante 24V 5m RGBWW  RGB + blanco cálido  4 en 1 Tira de LED Tira de luces LED Bar SMD 5050'
+slug: 'B07919DNLB-es Súper brillante 24V 5m RGBWW RGB + blanco cálido 4 en 1...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

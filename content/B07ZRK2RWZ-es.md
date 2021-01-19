@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-nOpWZ5iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRK2RWZ-es Gel de sílice Galactorrhea Colección Tapa Colector de leche materna Suave Postparto Masaje de mama Cojín del recipiente de succión del pezón - Transparente'
+slug: 'B07ZRK2RWZ-es Gel de sílice Galactorrhea Colección Tapa Colector de...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

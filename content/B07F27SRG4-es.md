@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WClP-18PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F27SRG4-es Levi s Original Hm Zipup Hoodie Capucha  Azul  Indigo 0001   Medium para Hombre'
+slug: 'B07F27SRG4-es Levi s Original Hm Zipup Hoodie Capucha Azul Indigo 0001...'
+tags: 
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

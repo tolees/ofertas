@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411iIm9UcQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SY4P8W-es Cable Ethernet Plano Cable LAN RJ45 Redes LAN Cables Ethernet Cable de conexión para computadora Router Laptop - Azul 5 M'
+slug: 'B082SY4P8W-es Cable Ethernet Plano Cable LAN RJ45 Redes LAN Cables...'
+tags: 
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yPn-zeLFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y62BYB1-es Pikolin Home - Protector de colchón/Cubre colchón acolchado  impermeable  antiácaros  135x190/200cm-Cama 135  Todas las medidas '
+slug: 'B06Y62BYB1-es Pikolin Home - Protector de colchón/Cubre colchón...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

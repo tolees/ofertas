@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lt0ye0tPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MY6YBKK-es P Prettyia Cable Adaptador  2 RCA a 2 Machos RCA  1.5M   Convertidor para Sistema de Equipos'
+slug: 'B07MY6YBKK-es P Prettyia Cable Adaptador 2 RCA a 2 Machos RCA 1.5M...'
+tags: 
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

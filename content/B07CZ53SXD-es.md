@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+2qHFkNPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ53SXD-es Asics Gel-Lyte  Zapatillas Unisex Niños  Negro  Black/Black 001   31.5 EU'
+slug: 'B07CZ53SXD-es Asics Gel-Lyte Zapatillas Unisex Niños Negro Black/Black...'
+tags: 
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

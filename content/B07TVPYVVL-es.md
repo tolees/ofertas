@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418M1DAS9BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVPYVVL-es KiplingImagine PackMujerBolsos totesVerde  Light Aloe 57x37x18 Centimeters  B x H x T '
+slug: 'B07TVPYVVL-es KiplingImagine PackMujerBolsos totesVerde Light Aloe...'
+tags: 
 actualPrice: 23.22 EUR
 currency: EUR
 price: 23.22

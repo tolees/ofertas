@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uRz-3Kh1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M98JOW0-es Manduca by MAM 199–41–13–003 Deluxe Cover Flex  Pluie Cover  Taille unique  Noir'
+slug: 'B01M98JOW0-es Manduca by MAM 199–41–13–003 Deluxe Cover Flex Pluie Cover...'
+tags: 
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

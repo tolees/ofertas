@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZVkdniCML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMB6D4X-es Nike Air MAX Axis  PS   Zapatillas de Running para Niños  Blanco  White/Hyper Pink/Black/Photo Blue 103   28 EU'
+slug: 'B07RMB6D4X-es Nike Air MAX Axis PS Zapatillas de Running para Niños...'
+tags: 
 actualPrice: 26.04 EUR
 currency: EUR
 price: 26.04

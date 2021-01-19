@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414e5HyeiML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D5XYDN1-es Haberdashery Online Kit Mascarilla higiénica textil reutilizable + 50 etiquetas con nombre personalizable  Escudo '
+slug: 'B08D5XYDN1-es Haberdashery Online Kit Mascarilla higiénica textil...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

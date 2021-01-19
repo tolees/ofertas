@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jOa-oh+rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086M7RYKH-es Oihxse Funda para Realme 5 Transparente  Estuche con Realme 5 Ultra-Delgado Silicona TPU Suave Protectora Carcasa Océano Animal Serie Bumper  C10 '
+slug: 'B086M7RYKH-es Oihxse Funda para Realme 5 Transparente Estuche con Realme...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41byVzYLbVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q5FBKB6-es Regleta Enchufes Múltiples Base USB - SAFEMORE - 11 Enchufes y 2 Puertos de Carga USB con Protección de Sobrecarga Contra Subidas y Picos de Tensión  Interruptor Individual y Cable de Extensión de 2 m'
+slug: 'B07Q5FBKB6-es Regleta Enchufes Múltiples Base USB - SAFEMORE - 11...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

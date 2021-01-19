@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yipgVDeYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VG97HPJ-es Hackett London Coral Swim Trim Polo  Blanco  800white 800   X-Large para Hombre'
+slug: 'B07VG97HPJ-es Hackett London Coral Swim Trim Polo Blanco 800white 800...'
+tags: 
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

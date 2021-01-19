@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419nRs-5zHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HDNU64G-es Columbia Cascade Pass Waterproof  Botas de Senderismo para Hombre  Marrón  Major/Bright Copper   40.5 EU'
+slug: 'B01HDNU64G-es Columbia Cascade Pass Waterproof Botas de Senderismo para...'
+tags: 
 actualPrice: 47.06 EUR
 currency: EUR
 price: 47.06

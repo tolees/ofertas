@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21wvG0fqyNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9HWG53-es BOSS Schino-Slim D Pantalones  Plateado  Silver 43   W36/L36  Talla del Fabricante: 3636  para Hombre'
+slug: 'B07V9HWG53-es BOSS Schino-Slim D Pantalones Plateado Silver 43 W36/L36...'
+tags: 
 actualPrice: 59.91 EUR
 currency: EUR
 price: 59.91

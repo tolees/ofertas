@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pjmURR4uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MTO15FE-es Max Factor Skin Luminizer  Base de Maquillaje Líquida Tono 75 Golden - 62 gr'
+slug: 'B00MTO15FE-es Max Factor Skin Luminizer Base de Maquillaje Líquida Tono...'
+tags: 
 actualPrice: 4.09 EUR
 currency: EUR
 price: 4.09

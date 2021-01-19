@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CONYKuZ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SQW66M-es perfk T10 2in1 Bluetooth4.2 Receptor De Audio/Transmisor Adaptador De 3.5 Mm para Auriculares'
+slug: 'B081SQW66M-es perfk T10 2in1 Bluetooth4.2 Receptor De Audio/Transmisor...'
+tags: 
 actualPrice: 14.81 EUR
 currency: EUR
 price: 14.81

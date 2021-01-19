@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51P4dHPfVPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086M7R8JT-es Amzdeal Máscara de buceo - Máscara de snorkel Plegable completa-mascarilla antifugas-sello de silicona a prueba   vista panorámica HD de 180 ° Compatible con soporte para cámara  L/XL '
+slug: 'B086M7R8JT-es Amzdeal Máscara de buceo - Máscara de snorkel Plegable...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

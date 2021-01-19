@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41deN2zbPML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OH4WAOE-es L Oréal Paris Accord Perfect Le Blush - Colorete en Polvo  Tono 90 Luminous Rose'
+slug: 'B00OH4WAOE-es L Oréal Paris Accord Perfect Le Blush - Colorete en Polvo...'
+tags: 
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

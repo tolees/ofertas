@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qbrekpZeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB77KYP-es Vileda Colors Ondattiva milleusi 3 + 1  Esponja  Multicolor  13 x 22 x 2.6 cm  4 Unidad'
+slug: 'B07BB77KYP-es Vileda Colors Ondattiva milleusi 3 + 1 Esponja Multicolor...'
+tags: 
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

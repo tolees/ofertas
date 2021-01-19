@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413FtrnC2wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJLQKK-es Napapijri Semiury 2 Gorro de Punto  Azul  BLU Marine 176   Única  Talla del Fabricante: OS  para Hombre'
+slug: 'B07MVJLQKK-es Napapijri Semiury 2 Gorro de Punto Azul BLU Marine 176...'
+tags: 
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41N0L3CS4CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XLFZW7-es Under Armour Rival Fleece Jogger Pantalones  Hombre  Gris  Charcoal Light Heather/Black 020   L'
+slug: 'B077XLFZW7-es Under Armour Rival Fleece Jogger Pantalones Hombre Gris...'
+tags: 
 actualPrice: 34.28 EUR
 currency: EUR
 price: 34.28

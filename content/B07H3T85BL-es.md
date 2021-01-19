@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/214sKv2mDnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3T85BL-es Lékué - Recipiente hermético para transportar alimentos  600 ml  Plástico  Turquesa'
+slug: 'B07H3T85BL-es Lékué - Recipiente hermético para transportar alimentos...'
+tags: 
 actualPrice: 9.17 EUR
 currency: EUR
 price: 9.17

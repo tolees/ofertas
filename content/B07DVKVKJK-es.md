@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411LrdvOiQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVKVKJK-es New Balance W890V7  Zapatillas de Running para Mujer  Verde  Crystal Sage Crystal Sage   36 EU'
+slug: 'B07DVKVKJK-es New Balance W890V7 Zapatillas de Running para Mujer Verde...'
+tags: 
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

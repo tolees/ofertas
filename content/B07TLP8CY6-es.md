@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317xbJj3vOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLP8CY6-es Clarks Stanford Zip  Botas Chelsea para Hombre  Marrón  Tan Leather Tan Leather   45 EU'
+slug: 'B07TLP8CY6-es Clarks Stanford Zip Botas Chelsea para Hombre Marrón Tan...'
+tags: 
 actualPrice: 54.44 EUR
 currency: EUR
 price: 54.44

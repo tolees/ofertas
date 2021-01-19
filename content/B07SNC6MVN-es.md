@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ytYKxWS4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNC6MVN-es ThickTails Cepillo Alisador De Pelo Ionico - Con bolsa de viaje resistente al calor. Peine Alisador De Cabello con cable eléctrico con pantalla LED  más seguro que el hierro plano'
+slug: 'B07SNC6MVN-es ThickTails Cepillo Alisador De Pelo Ionico - Con bolsa de...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

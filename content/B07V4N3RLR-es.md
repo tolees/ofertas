@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LSZu45zcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4N3RLR-es Tommy Hilfiger Flatform Runner Colour Sneaker  Zapatillas para Mujer  Rojo  RWB 0kp   40 EU'
+slug: 'B07V4N3RLR-es Tommy Hilfiger Flatform Runner Colour Sneaker Zapatillas...'
+tags: 
 actualPrice: 27.43 EUR
 currency: EUR
 price: 27.43

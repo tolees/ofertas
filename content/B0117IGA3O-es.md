@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417lDdYx9lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0117IGA3O-es HP X3000 - Ratón inalámbrico óptico  Color Azul'
+slug: 'B0117IGA3O-es HP X3000 - Ratón inalámbrico óptico Color Azul'
+tags: 
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

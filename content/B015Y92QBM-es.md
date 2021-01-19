@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pRX333CBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015Y92QBM-es Rimmel London Magnifeyes Mono Sombra de Ojos Tono 005 Superstar Sparkle - 22 2 gr'
+slug: 'B015Y92QBM-es Rimmel London Magnifeyes Mono Sombra de Ojos Tono 005...'
+tags: 
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

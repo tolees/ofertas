@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AyxYdONlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0007MF3PS-es Converse Chuck Taylor Ct A/S Seasnl Hi Zapatillas Altas Unisex  Gris  Charcoal   46.5 EU'
+slug: 'B0007MF3PS-es Converse Chuck Taylor Ct A/S Seasnl Hi Zapatillas Altas...'
+tags: 
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

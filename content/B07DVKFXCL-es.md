@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m5tS6RzIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVKFXCL-es New Balance Summit Unknown m  Zapatillas de Running para Asfalto para Mujer  Morado  Purple Purple   38 EU'
+slug: 'B07DVKFXCL-es New Balance Summit Unknown m Zapatillas de Running para...'
+tags: 
 actualPrice: 66.31 EUR
 currency: EUR
 price: 66.31

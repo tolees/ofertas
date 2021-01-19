@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414%2B3qzGV9L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCHT2D4-es Buff Crystal Cinta UV  Unisex Adulto  Multi  Talla única'
+slug: 'B07TCHT2D4-es Buff Crystal Cinta UV Unisex Adulto Multi Talla única'
+tags: 
 actualPrice: 5.48 EUR
 currency: EUR
 price: 5.48

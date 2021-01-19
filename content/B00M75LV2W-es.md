@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XZl8HrC8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M75LV2W-es Relec Infantil Loción Repelente Eficaz Antimosquitos. Niños a partir de 2 años - 125 ml'
+slug: 'B00M75LV2W-es Relec Infantil Loción Repelente Eficaz Antimosquitos....'
+tags: 
 actualPrice: 7.85 EUR
 currency: EUR
 price: 7.85

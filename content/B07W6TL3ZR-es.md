@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hWLV5veuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6TL3ZR-es Proyector portátil Nebula Mars II Pro de 500 lúmenes ANSI de Anker  resolución de 720p  proyector de vídeo  Imagen de 30 a 150 Pulgadas  proyector de televisión/películas  Entretenimiento en el hogar'
+slug: 'B07W6TL3ZR-es Proyector portátil Nebula Mars II Pro de 500 lúmenes ANSI...'
+tags: 
 actualPrice: 436.99 EUR
 currency: EUR
 price: 436.99

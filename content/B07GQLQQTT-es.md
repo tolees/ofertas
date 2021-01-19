@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X8+NlNfCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GQLQQTT-es PUAK523 Luz LED Clip-on  Super Brillante Libro Lectura Luz con Cuello de Goseno Flexible Cuidado de Ojos Luz de Lectura Regulable para Escritorio  Cabecero de Cama  Ordenador  Negro  Tamaño Libre'
+slug: 'B07GQLQQTT-es PUAK523 Luz LED Clip-on Super Brillante Libro Lectura Luz...'
+tags: 
 actualPrice: 2.91 EUR
 currency: EUR
 price: 2.91

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHZWXKY-es LOMVUM 20V 2 0Ah Batería de Litio Adecuado para 8720T'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

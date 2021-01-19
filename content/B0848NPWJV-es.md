@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Fl6VXpIhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0848NPWJV-es BYJIN 50 Unids PM2.5 N95 Filtros de Máscara de Carbón Activado Máscaras faciales  4 Capas Filtros Protectores Filtros de mascarilla respiratoria para diversas Actividades Interiores y Exteriores'
+slug: 'B0848NPWJV-es BYJIN 50 Unids PM2.5 N95 Filtros de Máscara de Carbón...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

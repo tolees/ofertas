@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41KsTSD9wxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GTNIKMG-es POC POCito Retina Máscaras Nieve  Unisex niños  Rosa  Fluorescent Pink   One Size'
+slug: 'B01GTNIKMG-es POC POCito Retina Máscaras Nieve Unisex niños Rosa...'
+tags: 
 actualPrice: 70.95 EUR
 currency: EUR
 price: 70.95

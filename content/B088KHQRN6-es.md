@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Dv5EgMwiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088KHQRN6-es FAGORY Webcam HD 1080p Webcam Digital portátil con micrófono Plug and Play USB Cámara de transmisión en Vivo para Llamadas de Video de grabación de Conferencia'
+slug: 'B088KHQRN6-es FAGORY Webcam HD 1080p Webcam Digital portátil con...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

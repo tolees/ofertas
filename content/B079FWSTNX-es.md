@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31IiM6SadAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FWSTNX-es Woxter Power Bank QC 16000 Silver - Batería portátil con conexión QC de 16.000 mAh'
+slug: 'B079FWSTNX-es Woxter Power Bank QC 16000 Silver - Batería portátil con...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

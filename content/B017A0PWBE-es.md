@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51s+2o-QS5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017A0PWBE-es Norton Security Deluxe 2019 - Antivirus  PC/Mac/iOS/Android  5 dispositivos  1 año'
+slug: 'B017A0PWBE-es Norton Security Deluxe 2019 - Antivirus PC/Mac/iOS/Android...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

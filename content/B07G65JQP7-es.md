@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418ZHZFKkJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G65JQP7-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Cuero FS5500SET'
+slug: 'B07G65JQP7-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 103.85 EUR
 currency: EUR
 price: 103.85

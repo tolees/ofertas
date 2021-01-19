@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OH3OMXJ2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078QRRHBB-es Luz para Correr Running  BraceTek luz led Frontal correr con Recargables USB Impermeable  Muy cómoda y Ligera Tiene una luz Rojo en la Espalda con Seguridad.Perfecto para los Corredores nocturnas'
+slug: 'B078QRRHBB-es Luz para Correr Running BraceTek luz led Frontal correr...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

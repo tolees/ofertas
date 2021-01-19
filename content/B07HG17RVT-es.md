@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21du5r6e8jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG17RVT-es Sharplace Caja de Disco Duro Móvil 2X 2.5 IDE USB 2.0 Externa para Portátil Accesorios'
+slug: 'B07HG17RVT-es Sharplace Caja de Disco Duro Móvil 2X 2.5 IDE USB 2.0...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

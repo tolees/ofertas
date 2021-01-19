@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GY8XqQObL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTQSC3W-es Paternina Verdejo D.O. Rueda Vino blanco - 6 botellas x 750 ml - 4500 ml'
+slug: 'B06XTQSC3W-es Paternina Verdejo D.O. Rueda Vino blanco - 6 botellas x...'
+tags: 
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qxHvgbJqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9NZ7LX-es Reebok Royal Cljog 2 KC  Zapatillas de Trail Running para Niños  Multicolor  White/Collegiate Navy 000   37.5 EU'
+slug: 'B07V9NZ7LX-es Reebok Royal Cljog 2 KC Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

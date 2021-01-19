@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aV8QnWN-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C81JUS2-es SKLZ Bauchtrainer Core Wheels und Rumpf Trainer Pesas rodadas  Unisex  Amarillo/Negro'
+slug: 'B00C81JUS2-es SKLZ Bauchtrainer Core Wheels und Rumpf Trainer Pesas...'
+tags: 
 actualPrice: 34.48 EUR
 currency: EUR
 price: 34.48

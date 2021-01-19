@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e1F0jEz0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLYJRWT-es WERNNSAI Juego Cumpleaños Pancartas - Vídeo Juego Suministros para la Fiesta Feliz cumpleaños Guirnalda para Muchachos Niños Geeks de Jugadores Temas de Juego Decoraciones de Fiesta Ensamblado'
+slug: 'B07RLYJRWT-es WERNNSAI Juego Cumpleaños Pancartas - Vídeo Juego...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

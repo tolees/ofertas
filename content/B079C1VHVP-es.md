@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vqVdkjMiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079C1VHVP-es Gomyhom Rosa 24K  Rosa de Oro Chapada en Oro con Caja de Regalo para Madre para Amor en el Día de San Valentín para Aniversario para Amigos como Un Regalo de Cumpleaños  púrpura '
+slug: 'B079C1VHVP-es Gomyhom Rosa 24K Rosa de Oro Chapada en Oro con Caja de...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

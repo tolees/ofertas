@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+bBGAeMWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDKP8NS-es Skechers Men s Dynamight 2.0-fallford Trainers  Black  Black Leather/Mesh/Pu/Trim Blk   9 UK  43 EU '
+slug: 'B07NDKP8NS-es Skechers Men s Dynamight 2.0-fallford Trainers Black Black...'
+tags: 
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

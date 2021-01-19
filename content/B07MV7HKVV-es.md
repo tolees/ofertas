@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417IrrihV2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV7HKVV-es Pekebaby 01111370000 - Saco entretiempo universal impermeable  niños'
+slug: 'B07MV7HKVV-es Pekebaby 01111370000 - Saco entretiempo universal...'
+tags: 
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

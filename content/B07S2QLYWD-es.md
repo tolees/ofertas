@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AYHyAgH7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2QLYWD-es New Balance 574v2  Zapatillas para Hombre  Gris  Grey/White SPS   40 EU'
+slug: 'B07S2QLYWD-es New Balance 574v2 Zapatillas para Hombre Gris Grey/White...'
+tags: 
 actualPrice: 41.88 EUR
 currency: EUR
 price: 41.88

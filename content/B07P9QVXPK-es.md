@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WOmljtG7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9QVXPK-es Abreventanas de Invernadero automático  Sensible al Calor Solar  termostato automático para Ventana Abierta  Rejilla de ventilación  autoventilación  Caliente'
+slug: 'B07P9QVXPK-es Abreventanas de Invernadero automático Sensible al Calor...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

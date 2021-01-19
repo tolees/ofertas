@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NDcZrW1NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DL9TVRH-es adidas VL Court 2.0  Zapatillas de Skateboard para Mujer  Blanco  FTWR White/FTWR White/Cyber Met. FTWR White/FTWR White/Cyber Met.   42 2/3 EU'
+slug: 'B07DL9TVRH-es adidas VL Court 2.0 Zapatillas de Skateboard para Mujer...'
+tags: 
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

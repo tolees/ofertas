@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eptgzRQ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013WAHFIY-es Bosch Professional GAM 220 - Medidor de ángulos / goniómetro digital  0-220°  en caja '
+slug: 'B013WAHFIY-es Bosch Professional GAM 220 - Medidor de ángulos /...'
+tags: 
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

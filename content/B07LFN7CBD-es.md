@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416rswNwuGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFN7CBD-es Khanomak de Mujeres de Manga Larga de Punto Abierto Frente Cardigan  Malva  Pequeño '
+slug: 'B07LFN7CBD-es Khanomak de Mujeres de Manga Larga de Punto Abierto Frente...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

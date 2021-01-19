@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ru7V8CEGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EHSMRZQ-es Pharmadiet Progen Plactive  Sabor Naranja - 20 Sobres'
+slug: 'B01EHSMRZQ-es Pharmadiet Progen Plactive Sabor Naranja - 20 Sobres'
+tags: 
 actualPrice: 18.47 EUR
 currency: EUR
 price: 18.47

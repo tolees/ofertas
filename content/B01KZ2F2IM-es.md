@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KZ2F2IM-es Beurer LB37 TOFFEE Humidificador de aire'
+tags: 
 actualPrice: 47.0 EUR
 currency: EUR
 price: 47.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Y-VxduaeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XR3PL9-es DEATTI HD Cámara de vigilancia  1080P IR visión nocturna cámara exterior de seguridad  resistente al agua  orientable  para exterior  color negro'
+slug: 'B083XR3PL9-es DEATTI HD Cámara de vigilancia 1080P IR visión nocturna...'
+tags: 
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

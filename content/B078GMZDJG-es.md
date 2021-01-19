@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-juHpqNQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GMZDJG-es Monix Mineral Lote de Sartenes  Aluminio Forjado con Antiadhrente Quantanium Reforzado con partículas de Titanio y sin PFOA  Gris  18-22-26'
+slug: 'B078GMZDJG-es Monix Mineral Lote de Sartenes Aluminio Forjado con...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

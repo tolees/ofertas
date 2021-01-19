@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qbwy9jXhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SJP2IAS-es Columbia Silver Ridge Short AM4283 Shorts  Hombre  Beige  Tusk   38'
+slug: 'B00SJP2IAS-es Columbia Silver Ridge Short AM4283 Shorts Hombre Beige...'
+tags: 
 actualPrice: 21.93 EUR
 currency: EUR
 price: 21.93

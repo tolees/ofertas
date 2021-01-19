@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CaQd04h5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJHSGYC-es Tamaris 1-1-25249-23  Botas Militar para Mujer  Marrón  Taupe 341   40 EU'
+slug: 'B07NJHSGYC-es Tamaris 1-1-25249-23 Botas Militar para Mujer Marrón Taupe...'
+tags: 
 actualPrice: 18.3 EUR
 currency: EUR
 price: 18.3

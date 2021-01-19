@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y21Y0YaZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGSP916-es Adidas Predator 19.3 FG J  Botas de fútbol para Niños  Multicolor  Ciabri/Negbás/Amasol 000   29 EU'
+slug: 'B07VGSP916-es Adidas Predator 19.3 FG J Botas de fútbol para Niños...'
+tags: 
 actualPrice: 40.79 EUR
 currency: EUR
 price: 40.79

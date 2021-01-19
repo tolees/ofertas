@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pO-HuNgiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ST7L1JX-es HP EliteDisplay E223d - Monitor Docking de 21.5" Ajustable en Altura  FHD antirreflejo  1920 x 1080  IPS LED  250cd/m  5 ms  16:9  HDMI  DisplayPort 1.2  1 x USB-C  5 x USB 3.1  RJ-45 '
+slug: 'B07ST7L1JX-es HP EliteDisplay E223d - Monitor Docking de 21.5" Ajustable...'
+tags: 
 actualPrice: 209.3 EUR
 currency: EUR
 price: 209.3

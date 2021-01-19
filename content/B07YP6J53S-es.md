@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51KU9Y%2BbP2L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YP6J53S-es Showyoo Reloj inteligente  Pulsera de Actividad Pantalla a Color 1.3" Reloj Deportivo Monitor de Ritmo Cardíaco Sueño Presión Arterial Oxígeno Pulsera Deportiva Podómetro Impermeable para Hombre Mujer'
+slug: 'B07YP6J53S-es Showyoo Reloj inteligente Pulsera de Actividad Pantalla a...'
+tags: 
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

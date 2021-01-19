@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Kaf6fCe3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYX7RX8-es Case Logic Reflect MacBook Sleeve 13    Funda para MacBook Pro con Pantalla de 13"  Acolchado Memory Foam  Interior de Felpa   Rojo'
+slug: 'B07HYX7RX8-es Case Logic Reflect MacBook Sleeve 13 Funda para MacBook...'
+tags: 
 actualPrice: 16.53 EUR
 currency: EUR
 price: 16.53

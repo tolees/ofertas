@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NwK9eyWML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076WRK3WR-es Gardena NatureUp Clip de conexión  para macetas de esquina verticales  para nuevas posibilidades de configuración del sistema  8 unidades'
+slug: 'B076WRK3WR-es Gardena NatureUp Clip de conexión para macetas de esquina...'
+tags: 
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

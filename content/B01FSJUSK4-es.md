@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i1a6YvLeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FSJUSK4-es Nox H-FAN - NXHUMMERF120LR - Ventilador para Caja PC  12 cm  LED Rojo'
+slug: 'B01FSJUSK4-es Nox H-FAN - NXHUMMERF120LR - Ventilador para Caja PC 12 cm...'
+tags: 
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

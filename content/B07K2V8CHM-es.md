@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312XBC5EwuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2V8CHM-es Jayron JR-LT002 LED Sensor de cuerpo humano Sensor infrarrojo Lámpara de luz nocturna  Blanco '
+slug: 'B07K2V8CHM-es Jayron JR-LT002 LED Sensor de cuerpo humano Sensor...'
+tags: 
 actualPrice: 7.66 EUR
 currency: EUR
 price: 7.66

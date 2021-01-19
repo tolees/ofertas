@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wHgVtvIPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087X6KHGT-es Suhctup Funda Transparent Compatible para Huawei Enjoy 9 Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Huawei Enjoy 9 A5'
+slug: 'B087X6KHGT-es Suhctup Funda Transparent Compatible para Huawei Enjoy 9...'
+tags: 
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

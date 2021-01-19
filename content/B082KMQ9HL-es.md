@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pr7N4C7GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KMQ9HL-es Proyector  WiMiUS 5500 Lúmenes Proyector Portátil Full HD Soporta 1080P Proyector Cine en casa 720P Nativo con Audio Hi-Fi Pantalla 200 " Mini Video Proyector LED 60000 Horas HDMI/VGA/AV/ TF/USB'
+slug: 'B082KMQ9HL-es Proyector WiMiUS 5500 Lúmenes Proyector Portátil Full HD...'
+tags: 
 actualPrice: 88.05 EUR
 currency: EUR
 price: 88.05

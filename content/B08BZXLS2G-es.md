@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EaB6wU8pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZXLS2G-es Melchioni ARTIC47LT - Mini nevera bar con congelador  A+  silencioso  47L  compresor y congelador  frigorífico pequeño portátil para habitación  oficina B&B hotel Clase de eficiencia energética A+ Negro'
+slug: 'B08BZXLS2G-es Melchioni ARTIC47LT - Mini nevera bar con congelador A+...'
+tags: 
 actualPrice: 97.48 EUR
 currency: EUR
 price: 97.48

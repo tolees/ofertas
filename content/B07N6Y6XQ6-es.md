@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DkhrV29UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6Y6XQ6-es Tommy Hilfiger Casual Leather Boot  Botas Clasicas para Hombre  Black 990  41 EU'
+slug: 'B07N6Y6XQ6-es Tommy Hilfiger Casual Leather Boot Botas Clasicas para...'
+tags: 
 actualPrice: 37.2 EUR
 currency: EUR
 price: 37.2

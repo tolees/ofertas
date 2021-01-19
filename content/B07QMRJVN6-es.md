@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Kc4Nc-HdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QMRJVN6-es Keenstone Almohada de Viaje  Almohada para el Cuello Hecha de Espuma de Memoria Suave con Tapones para Los Oídos  Almohada Cervical con Función de Soporte Respirable y Ergonómica'
+slug: 'B07QMRJVN6-es Keenstone Almohada de Viaje Almohada para el Cuello Hecha...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

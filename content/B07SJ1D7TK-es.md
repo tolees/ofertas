@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nneb4yYAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJ1D7TK-es Levi s Woodward L  Zapatillas para Hombre  Gris  R Grey 55   40 EU'
+slug: 'B07SJ1D7TK-es Levi s Woodward L Zapatillas para Hombre Gris R Grey 55 40 EU'
+tags: 
 actualPrice: 32.42 EUR
 currency: EUR
 price: 32.42

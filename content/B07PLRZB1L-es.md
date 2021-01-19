@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418NLnQYyhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLRZB1L-es Mesa en la Asiento de Coche infantil  bandeja del coche Bandeja de almacenamiento para asiento de coche Bandeja De Viaje para niños Red '
+slug: 'B07PLRZB1L-es Mesa en la Asiento de Coche infantil bandeja del coche...'
+tags: 
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

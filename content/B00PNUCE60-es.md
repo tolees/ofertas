@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Eib1kYTIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PNUCE60-es Gardena 18291-20 Kit  Negro  Gris  Naranja  Plata'
+slug: 'B00PNUCE60-es Gardena 18291-20 Kit Negro Gris Naranja Plata'
+tags: 
 actualPrice: 12.54 EUR
 currency: EUR
 price: 12.54

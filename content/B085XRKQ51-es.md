@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vpNjjqq8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XRKQ51-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible con Huawei Enjoy 10 Plus/Y9 Prime 2019 Funda TPU Silicona Suave Protector Ultra Slim Anti-Rasguño Transparente Carcasa  A4 '
+slug: 'B085XRKQ51-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

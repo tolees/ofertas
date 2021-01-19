@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uZpCakBpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5LVCXH-es Garnier Delial Bruma Protectora Refrescante UV Water Alta Protección Cuerpo y Rostro IP30-200 ml'
+slug: 'B07P5LVCXH-es Garnier Delial Bruma Protectora Refrescante UV Water Alta...'
+tags: 
 actualPrice: 9.44 EUR
 currency: EUR
 price: 9.44

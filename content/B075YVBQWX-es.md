@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414u8AvdmNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075YVBQWX-es BRTLX 5W G45 Bombilla LED Mini Globo Blanco Cálido 3000K E14 Incandescente Equivalente a 45 Ángulo de haz 220Grados 400Lm No Regulable 4 Unidades'
+slug: 'B075YVBQWX-es BRTLX 5W G45 Bombilla LED Mini Globo Blanco Cálido 3000K...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

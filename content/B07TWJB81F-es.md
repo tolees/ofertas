@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S4WoaZr+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWJB81F-es Gant Cocoville  Zapatillas para Mujer  Multicolor  Cream/Beige/Orange G157   39 EU'
+slug: 'B07TWJB81F-es Gant Cocoville Zapatillas para Mujer Multicolor...'
+tags: 
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

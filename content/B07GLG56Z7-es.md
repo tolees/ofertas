@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WdkPQmjYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLG56Z7-es 100g  0.22LB  China Yunnan conservas de té Puerh Chen Xiang pequeños Tuocha puer té Pu er té maduro Alimentos verdes Pu er té Té negro Té chino Pu er té Pu-erh té Pu er té té cocido Té rojo'
+slug: 'B07GLG56Z7-es 100g 0.22LB China Yunnan conservas de té Puerh Chen Xiang...'
+tags: 
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

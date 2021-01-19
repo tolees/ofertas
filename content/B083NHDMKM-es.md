@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+70bh0MNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083NHDMKM-es Auriculares Bluetooth TWS Wireless Bluetooth 5.0  Auriculares Inalámbricos con 125H Reproducció IPX7 a Prueba de Agua  Auriculares In-Ear Bluetooth con Caja de Carga Portátil  MicróFono Incorporado'
+slug: 'B083NHDMKM-es Auriculares Bluetooth TWS Wireless Bluetooth 5.0...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

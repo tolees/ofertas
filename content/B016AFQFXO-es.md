@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XNgylrh5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016AFQFXO-es Dormio Zafiro Colchón viscoelástico  Blanco  90 x 190 x 24 cm  Todas las medidas '
+slug: 'B016AFQFXO-es Dormio Zafiro Colchón viscoelástico Blanco 90 x 190 x 24...'
+tags: 
 actualPrice: 92.64 EUR
 currency: EUR
 price: 92.64

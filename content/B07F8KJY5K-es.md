@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41559v+k3cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8KJY5K-es Salomon AGILE Pequeña mochila  12 set'
+slug: 'B07F8KJY5K-es Salomon AGILE Pequeña mochila 12 set'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

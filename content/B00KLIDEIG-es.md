@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sHwpZq3oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KLIDEIG-es Calvin Klein 0000F3785E  Sujetador Deportivo para Mujer  Negro  Black 001   L'
+slug: 'B00KLIDEIG-es Calvin Klein 0000F3785E Sujetador Deportivo para Mujer...'
+tags: 
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

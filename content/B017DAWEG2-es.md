@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D9WqvGHcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017DAWEG2-es BERING Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Nailon 14240-507'
+slug: 'B017DAWEG2-es BERING Reloj Analógico para Unisex Adultos de Cuarzo con...'
+tags: 
 actualPrice: 113.58 EUR
 currency: EUR
 price: 113.58

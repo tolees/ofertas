@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rVZDZcPvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNGRRB6-es Nike Court Borough Low 2  Niño para Niños  Blanco  White/White/White 100   37.5 EU'
+slug: 'B07VNGRRB6-es Nike Court Borough Low 2 Niño para Niños Blanco...'
+tags: 
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

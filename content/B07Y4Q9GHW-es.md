@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dDBR1TKGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y4Q9GHW-es Mycartridge 5 Compatibles Epson 603XL 603 XL Cartuchos de Tinta para Epson Expression Home XP-2100 XP-3100 XP-4100 XP-2105 XP-3105 XP-4105 Workforce WF-2810 WF-2830 WF-2835 WF-2850'
+slug: 'B07Y4Q9GHW-es Mycartridge 5 Compatibles Epson 603XL 603 XL Cartuchos de...'
+tags: 
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

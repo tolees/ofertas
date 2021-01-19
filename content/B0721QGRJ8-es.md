@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311KsBqmLgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0721QGRJ8-es Magno - Desodorante Spray Black - 150ml  Paquete de 6'
+slug: 'B0721QGRJ8-es Magno - Desodorante Spray Black - 150ml Paquete de 6'
+tags: 
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414NpqQ1lLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDPP8TN-es G-STAR RAW Xpo Raincoat Impermeable  Azul  Mazarine Blue 4213   XX-Small para Hombre'
+slug: 'B07NDPP8TN-es G-STAR RAW Xpo Raincoat Impermeable Azul Mazarine Blue...'
+tags: 
 actualPrice: 25.54 EUR
 currency: EUR
 price: 25.54

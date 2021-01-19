@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q-ZK2kimL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081LH2G9M-es Disfraz de La casa de Papel para Disfraz Ladrón Disfraces Carnaval Halloween. Incluye un Traje con Capucha y una Dali máscara Ametralladora Hombre Mujer Adulto Niño AdultM155~170CM'
+slug: 'B081LH2G9M-es Disfraz de La casa de Papel para Disfraz Ladrón Disfraces...'
+tags: 
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

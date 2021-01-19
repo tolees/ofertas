@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41avZ+SyzkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PNUI4M8-es adidas Originals Superstar  Zapatillas Unisex Adulto  Negro  Core Black/ftwr White/Core Black   43 1/3 EU'
+slug: 'B00PNUI4M8-es adidas Originals Superstar Zapatillas Unisex Adulto Negro...'
+tags: 
 actualPrice: 63.25 EUR
 currency: EUR
 price: 63.25

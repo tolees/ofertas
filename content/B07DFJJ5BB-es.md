@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFJJ5BB-es Figura Pop NBX: Oogie Boogie Bugs'
+tags: 
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

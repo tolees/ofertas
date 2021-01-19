@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XfUvERxkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW91RQ3-es PanaCasa - Conjuntos de Mesa y 3 Sillas de Jardín Madera Ratán Mimbre al Aire Libre Terraza Patio Restaurante Marrón'
+slug: 'B07JW91RQ3-es PanaCasa - Conjuntos de Mesa y 3 Sillas de Jardín Madera...'
+tags: 
 actualPrice: 120.0 EUR
 currency: EUR
 price: 120.0

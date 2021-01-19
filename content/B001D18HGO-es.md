@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DHgDxMiVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001D18HGO-es Vans U Old Skool - Zapatillas  Unisex Adulto  Negro  Nero  Schwarz/Black/Black    36.5'
+slug: 'B001D18HGO-es Vans U Old Skool - Zapatillas Unisex Adulto Negro Nero...'
+tags: 
 actualPrice: 55.2 EUR
 currency: EUR
 price: 55.2

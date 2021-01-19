@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415qSCjn24L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWJ9PKJ-es Cozime Vigilabebés Inalámbrico  Bebé Monitor Inteligente Pantalla LCD 3.5"  Cámara Vigilancia Bebes Visión Nocturna  Intercomunicador Bidireccional  Monitor de Temperatura  Canciones de Cuna'
+slug: 'B07SWJ9PKJ-es Cozime Vigilabebés Inalámbrico Bebé Monitor Inteligente...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

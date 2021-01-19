@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pav456M-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXL7VGC-es Asics Gel-Pulse 10 1012a010-002  Zapatillas de Entrenamiento para Mujer  Negro  Black 1012a010/002   37 EU'
+slug: 'B07KXL7VGC-es Asics Gel-Pulse 10 1012a010-002 Zapatillas de...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

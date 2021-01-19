@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415qFU2Ip2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DCM0DUU-es Fujifilm XF 27mm f/2.8 - Objetivo  Apertura f/16-2.8  MILC  Negro'
+slug: 'B00DCM0DUU-es Fujifilm XF 27mm f/2.8 - Objetivo Apertura f/16-2.8 MILC...'
+tags: 
 actualPrice: 295.35 EUR
 currency: EUR
 price: 295.35

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZkdyCB7-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N52JQL8-es Polar M200 Pulsómetro GPS  Unisex  Rojo  M/L'
+slug: 'B01N52JQL8-es Polar M200 Pulsómetro GPS Unisex Rojo M/L'
+tags: 
 actualPrice: 64.13 EUR
 currency: EUR
 price: 64.13

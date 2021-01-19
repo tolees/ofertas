@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oJCESHFFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L9DUBNI-es DC Shoes  DCSHI  Trase TX-Shoes for Men  Zapatillas de Skateboard para Hombre  Black/Gum  38.5 EU'
+slug: 'B00L9DUBNI-es DC Shoes DCSHI Trase TX-Shoes for Men Zapatillas de...'
+tags: 
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

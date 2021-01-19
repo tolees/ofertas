@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514Hu0oGUGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SDL1YS-es Encantadores niños no tóxicos Niños Crayon Oil Pastel Drawing Set Office School Safe Wax Crayon Pen Papelería Regalo del estudiante/Multicolor'
+slug: 'B083SDL1YS-es Encantadores niños no tóxicos Niños Crayon Oil Pastel...'
+tags: 
 actualPrice: 4.77 EUR
 currency: EUR
 price: 4.77

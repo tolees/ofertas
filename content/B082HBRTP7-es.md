@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NvC88Mr0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HBRTP7-es ART VVIES Wandbild 40 x 30 Zoll Sonnenuntergang Abend romantische Sonne Abenddämmerung mit Haken Leinwanddrucke Holz gerahmte Lieferungen für Hauptdekorationen'
+slug: 'B082HBRTP7-es ART VVIES Wandbild 40 x 30 Zoll Sonnenuntergang Abend...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

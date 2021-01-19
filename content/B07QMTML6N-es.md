@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IhE54QXXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QMTML6N-es Asics Gel-Cumulus 21 G-TX  Zapatillas de Running para Mujer  Azul  Mako Blue/Midnight 400   37 EU'
+slug: 'B07QMTML6N-es Asics Gel-Cumulus 21 G-TX Zapatillas de Running para Mujer...'
+tags: 
 actualPrice: 109.59 EUR
 currency: EUR
 price: 109.59

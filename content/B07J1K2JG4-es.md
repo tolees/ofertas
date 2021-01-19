@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31avt1E+1oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J1K2JG4-es Macrimo - Lámpara de altavoz Bluetooth  luz nocturna inalámbrica  con luz LED que cambia de color  compatible con tarjeta TF  manos libres para dormir  leer  acampar  metal Cuero  Rosa  Z2016'
+slug: 'B07J1K2JG4-es Macrimo - Lámpara de altavoz Bluetooth luz nocturna...'
+tags: 
 actualPrice: 34.03 EUR
 currency: EUR
 price: 34.03

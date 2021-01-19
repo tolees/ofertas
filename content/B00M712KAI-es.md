@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/212qkrncPaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M712KAI-es Adler AD 4437 - Pimentero  Cerámico  Color rojo'
+slug: 'B00M712KAI-es Adler AD 4437 - Pimentero Cerámico Color rojo'
+tags: 
 actualPrice: 4.96 EUR
 currency: EUR
 price: 4.96

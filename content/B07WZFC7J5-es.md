@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5145pFW+fzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZFC7J5-es Medidor de Contornos para Suelo 120MM Herramienta de Medición de Perfil Irregular Medidor de Forma y Contorno Duplicador de Contorno para Medición Precisa de Baldosas en Madera Laminada Marcado'
+slug: 'B07WZFC7J5-es Medidor de Contornos para Suelo 120MM Herramienta de...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

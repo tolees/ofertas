@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lpeQB4xyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SP4GGN1-es Under Armour Sportstyle Logo Tank Tanque  Hombre  Azul  Academy/White 409   M'
+slug: 'B07SP4GGN1-es Under Armour Sportstyle Logo Tank Tanque Hombre Azul...'
+tags: 
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

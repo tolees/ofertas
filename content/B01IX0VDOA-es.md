@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51R6opqNLnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IX0VDOA-es Triumph Amourette 300 W X  Sujetador Mujer  Beige  SKIN   75B'
+slug: 'B01IX0VDOA-es Triumph Amourette 300 W X Sujetador Mujer Beige SKIN 75B'
+tags: 
 actualPrice: 25.24 EUR
 currency: EUR
 price: 25.24

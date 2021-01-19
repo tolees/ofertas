@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412xeiOaS4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XJJ6L39-es Targus Pulse - Funda para tabletas de 15.6"  Color Negro y Azul'
+slug: 'B06XJJ6L39-es Targus Pulse - Funda para tabletas de 15.6" Color Negro y...'
+tags: 
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

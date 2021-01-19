@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OA6J8sdAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MR0VHIW-es Spiuk Profit Cold&Rain Calcetines  Hombre  Negro  40/43'
+slug: 'B01MR0VHIW-es Spiuk Profit Cold&Rain Calcetines Hombre Negro 40/43'
+tags: 
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

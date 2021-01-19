@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ooxby6vfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MR4JW7J-es Dockers Bic Alpha Original Skinny-Stretch Twill  Pantalones para Hombre  Negro  BLACK 70   W29/L34'
+slug: 'B01MR4JW7J-es Dockers Bic Alpha Original Skinny-Stretch Twill Pantalones...'
+tags: 
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

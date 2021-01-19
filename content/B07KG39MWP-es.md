@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41niST2jOUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG39MWP-es PUMA Cell Plasmic WN S  Zapatillas Deportivas para Interior para Mujer  Negro Black White  37 EU'
+slug: 'B07KG39MWP-es PUMA Cell Plasmic WN S Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

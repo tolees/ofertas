@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/615zhdwSltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RJWHB4-es Dinosaurio Luz Nocturna Infantil  Juguete Dinosaurio para chicos  16 Cambio de Color Lámpara de Noche de Ilusión óptica 3D  Dormitorio Decoración Regalo de Cumpleaños para Niños'
+slug: 'B081RJWHB4-es Dinosaurio Luz Nocturna Infantil Juguete Dinosaurio para...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

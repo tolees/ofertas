@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oyY5ev3tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ5WZNW-es PUMA NRGY Neko Knit  Zapatillas de Entrenamiento para Hombre  Verde  Forest Night Black   40 EU'
+slug: 'B07CZ5WZNW-es PUMA NRGY Neko Knit Zapatillas de Entrenamiento para...'
+tags: 
 actualPrice: 29.21 EUR
 currency: EUR
 price: 29.21

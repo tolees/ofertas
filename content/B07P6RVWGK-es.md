@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411rurFfCGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6RVWGK-es American Tourister Jetglam Spinner S Equipaje de Mano  55 cm  35.5 L  Plata  Metallic Silver '
+slug: 'B07P6RVWGK-es American Tourister Jetglam Spinner S Equipaje de Mano 55...'
+tags: 
 actualPrice: 80.5 EUR
 currency: EUR
 price: 80.5

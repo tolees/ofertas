@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411bx0eQYGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081QMCT8W-es HP OMEN 15-dh0017ns - Ordenador portátil de 15.6" FullHD 144 hz  Intel Core i7-9750H  16 GB de RAM  1 TB SSD  NVIDIA GeForce GTX 1660Ti-6GB  sin sistema operativo  Negro - teclado QWERTY Español'
+slug: 'B081QMCT8W-es HP OMEN 15-dh0017ns - Ordenador portátil de 15.6" FullHD...'
+tags: 
 actualPrice: 1099.99 EUR
 currency: EUR
 price: 1099.99

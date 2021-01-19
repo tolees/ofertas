@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T-FBfkYWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZJ6Z9T-es Under Armour Men s UA Launch SW 15cm Shorts Pantalones Cortos Deportivos para Hombre  Gris  Gray   S'
+slug: 'B07CZJ6Z9T-es Under Armour Men s UA Launch SW 15cm Shorts Pantalones...'
+tags: 
 actualPrice: 14.51 EUR
 currency: EUR
 price: 14.51

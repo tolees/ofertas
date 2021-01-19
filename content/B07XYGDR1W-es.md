@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jq4PXSDCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYGDR1W-es S&R Pistola de silicona profesional para cartuchos de hasta 310 ml. Marco giratorio de acero. Relación de empuje 18:1  Calidad Profesional'
+slug: 'B07XYGDR1W-es S&R Pistola de silicona profesional para cartuchos de...'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

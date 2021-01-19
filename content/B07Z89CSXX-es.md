@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oXGuInLhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z89CSXX-es Philips In Ear Sport ST702BK/00 True Wireless Sports  Bluetooth  18 Horas de autonomía  función de autolimpieza UV  Impermeables  Resistentes al Sudor   Color Negro'
+slug: 'B07Z89CSXX-es Philips In Ear Sport ST702BK/00 True Wireless Sports...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

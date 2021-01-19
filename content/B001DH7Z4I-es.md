@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TDFE-KOlL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001DH7Z4I-es Dremel SC545 Disco de Corte de Diamante EZ SpeedClic  Diámentro de 38mm  Accesorios para Multiherramientas'
+slug: 'B001DH7Z4I-es Dremel SC545 Disco de Corte de Diamante EZ SpeedClic...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

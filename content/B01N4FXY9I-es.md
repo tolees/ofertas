@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qh5zMq+wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4FXY9I-es Netgear ReadyNAS RN42200-100NES - Dispositivo de Almacenamiento en Red  2 bahías  hasta 20 TB  sin Discos  Intel Atom C-3338 '
+slug: 'B01N4FXY9I-es Netgear ReadyNAS RN42200-100NES - Dispositivo de...'
+tags: 
 actualPrice: 322.36 EUR
 currency: EUR
 price: 322.36

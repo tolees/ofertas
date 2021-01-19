@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WCtfFozjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Q6ILY0-es Lacoste L1312 Polo  Blanco  Blanc   3XL  Talla del fabricante: 8  para Hombre'
+slug: 'B000Q6ILY0-es Lacoste L1312 Polo Blanco Blanc 3XL Talla del fabricante:...'
+tags: 
 actualPrice: 51.49 EUR
 currency: EUR
 price: 51.49

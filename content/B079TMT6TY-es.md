@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mTzTV4jTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TMT6TY-es Funko- Black Panther T Challa Figura de Vinilo - Coleccionable  Multicolor  Standard  31286 '
+slug: 'B079TMT6TY-es Funko- Black Panther T Challa Figura de Vinilo -...'
+tags: 
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

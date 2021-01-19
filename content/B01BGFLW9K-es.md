@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hXHwgSU+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGFLW9K-es Braun HC 5030 - Máquina de cortar pelo profesional  cortapelos con 17 longitudes  color azul  ac / batería'
+slug: 'B01BGFLW9K-es Braun HC 5030 - Máquina de cortar pelo profesional...'
+tags: 
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

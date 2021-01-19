@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31JqaPuir1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKN7J6P-es Joma Marsella Camisetas Equip. M/C  Hombre  Marino  XL'
+slug: 'B07FKN7J6P-es Joma Marsella Camisetas Equip. M/C Hombre Marino XL'
+tags: 
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510KJpn35RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0106ZSXO8-es Trespass - Tartera/mochila para la comida Modelo Playpiece para niños niñas - Colegio/Escuela/Guardería  Talla Única   Diseño Floral '
+slug: 'B0106ZSXO8-es Trespass - Tartera/mochila para la comida Modelo Playpiece...'
+tags: 
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

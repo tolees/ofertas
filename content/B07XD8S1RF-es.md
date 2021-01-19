@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5132Hwm8jeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD8S1RF-es Tableta de Escritura Color LCD 10 Pulgadas  Tablet Escritura Pantalla Colorido Infantil  Tableta Grafica Dibujo Niños Adecuada para el Hogar  Escuela  Oficina  Cuaderno de Notas con Fundas'
+slug: 'B07XD8S1RF-es Tableta de Escritura Color LCD 10 Pulgadas Tablet...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

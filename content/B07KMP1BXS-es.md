@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P-4utLGlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMP1BXS-es Mr. Wonderful 8436557692085 - Batería Externa de 10.000 mAh con diseño Batidos  Color Azul'
+slug: 'B07KMP1BXS-es Mr. Wonderful 8436557692085 - Batería Externa de 10.000...'
+tags: 
 actualPrice: 23.08 EUR
 currency: EUR
 price: 23.08

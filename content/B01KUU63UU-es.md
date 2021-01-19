@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411bqI6SgsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KUU63UU-es Beurer EM 32 Electroestimulador EMS Cinturón Abdominal 5 programas de entrenamiento  2 electrodos agua sin necesidad de geles ni recambios  pantalla LCD  75-140cm cintura'
+slug: 'B01KUU63UU-es Beurer EM 32 Electroestimulador EMS Cinturón Abdominal 5...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

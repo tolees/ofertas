@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51F9OfPnA9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JR73DK-es CLTYQ Tire de la Cuerda de Rodillos Bandas de Resistencia Bandas de Resistencia de la Rueda de Ejercicio para Las piernas de la Cintura Abdominal Que Adelgazan el Cuerpo y glúteos'
+slug: 'B087JR73DK-es CLTYQ Tire de la Cuerda de Rodillos Bandas de Resistencia...'
+tags: 
 actualPrice: 9.63 EUR
 currency: EUR
 price: 9.63

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21ZmgdgxrTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MCZAQC2-es SALOMON Speed Pro 1 Par de Calcetines Tobilleros  Unisex Adulto  Negro/Blanco  S  36-38 '
+slug: 'B01MCZAQC2-es SALOMON Speed Pro 1 Par de Calcetines Tobilleros Unisex...'
+tags: 
 actualPrice: 6.08 EUR
 currency: EUR
 price: 6.08

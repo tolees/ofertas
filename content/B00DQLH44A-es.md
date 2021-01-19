@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LaECN4cNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DQLH44A-es Puma Suede Classic + Zapatillas Unisex Adulto  Negro  Black/Dark Shadow   41 EU'
+slug: 'B00DQLH44A-es Puma Suede Classic + Zapatillas Unisex Adulto Negro...'
+tags: 
 actualPrice: 32 EUR
 currency: EUR
 price: 32

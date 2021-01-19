@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bz1LdeaeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L1N3KND-es LIGHTAILING Conjunto de Luces  Creator Expert Volkswagen Beetle  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 10252  NO Incluido en el Modelo '
+slug: 'B07L1N3KND-es LIGHTAILING Conjunto de Luces Creator Expert Volkswagen...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

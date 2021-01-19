@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cu917kXNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M96BB4R-es KangaROOS Snowdrifter  Zapatillas Unisex bebé  Blau  Dark Navy/Lime 4054   21 EU'
+slug: 'B07M96BB4R-es KangaROOS Snowdrifter Zapatillas Unisex bebé Blau Dark...'
+tags: 
 actualPrice: 21.26 EUR
 currency: EUR
 price: 21.26

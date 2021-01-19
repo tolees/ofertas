@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hOancZy-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083Y5NPQJ-es PRIXTON KIT610 - Kit de 13 Accesorios para Camara Deportiva/Accesorios Camara Deportiva  Maletín con Soportes para Bici o Cuerpo: Cabeza  muñeca  Pecho y Accesorio Flotador para Camara Sumergible'
+slug: 'B083Y5NPQJ-es PRIXTON KIT610 - Kit de 13 Accesorios para Camara...'
+tags: 
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

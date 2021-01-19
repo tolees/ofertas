@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jCJmLoLaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNK89Y9-es New Balance 373  Zapatillas para Hombre  Azul  Navy Navy   47.5 EU'
+slug: 'B07PNK89Y9-es New Balance 373 Zapatillas para Hombre Azul Navy Navy 47.5 EU'
+tags: 
 actualPrice: 40 EUR
 currency: EUR
 price: 40

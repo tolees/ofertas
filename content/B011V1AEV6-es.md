@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31crac3dpaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011V1AEV6-es Puma Modern Soleil SL  Zapatillas para Mujer  Negro  39 EU'
+slug: 'B011V1AEV6-es Puma Modern Soleil SL Zapatillas para Mujer Negro 39 EU'
+tags: 
 actualPrice: 19.69 EUR
 currency: EUR
 price: 19.69

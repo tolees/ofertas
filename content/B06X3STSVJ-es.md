@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Unl9iJ90L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X3STSVJ-es Braun Minipimer 3025 Batidora de mano  2 velocidades  campana antisalpicaduras  3 accesorios  minipicadora 350 ml  varillas  700 W  600 milliliters  Plástico  blanco y azul'
+slug: 'B06X3STSVJ-es Braun Minipimer 3025 Batidora de mano 2 velocidades...'
+tags: 
 actualPrice: 28.84 EUR
 currency: EUR
 price: 28.84

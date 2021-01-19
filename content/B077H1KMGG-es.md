@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PIlZ4MuGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077H1KMGG-es Ice-Watch - P. Leclercq Slate - Reloj verde para Hombre con Correa de silicona - Chrono - 014947  Large '
+slug: 'B077H1KMGG-es Ice-Watch - P. Leclercq Slate - Reloj verde para Hombre...'
+tags: 
 actualPrice: 77.86 EUR
 currency: EUR
 price: 77.86

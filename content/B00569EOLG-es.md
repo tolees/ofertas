@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fuj+KWbrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00569EOLG-es Nick and Ben - Aspersor loco de flores  aspersor de césped  aspersor de agua  juguete de jardín  pistola de agua'
+slug: 'B00569EOLG-es Nick and Ben - Aspersor loco de flores aspersor de césped...'
+tags: 
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

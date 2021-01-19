@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08NPLZ1M2-es Geographical Norway Polar Upload'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

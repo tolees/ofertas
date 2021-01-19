@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51b1w4YlbCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075C9LWXZ-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero SSB277P1'
+slug: 'B075C9LWXZ-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 177.95 EUR
 currency: EUR
 price: 177.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L3Owe-uOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BP9TG97-es Fesjoy Mini ventilador portátil de aire acondicionado  silencioso  humidificador  evaporador  USB  aire acondicionado personal  3 velocidades  LED  noche  oficina  dispositivo de refrigeración'
+slug: 'B08BP9TG97-es Fesjoy Mini ventilador portátil de aire acondicionado...'
+tags: 
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

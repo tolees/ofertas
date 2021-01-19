@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xTsxr60VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBL5SMN-es Kappa Bonfire  Botas Clasicas Unisex Adulto  Brown 5050  36 EU'
+slug: 'B07LBL5SMN-es Kappa Bonfire Botas Clasicas Unisex Adulto Brown 5050 36 EU'
+tags: 
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

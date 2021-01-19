@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41thFEXYUtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRTNX1G-es Columbia Sun Ridge Polo  Hombre  Azul  Mountain   M'
+slug: 'B07KRTNX1G-es Columbia Sun Ridge Polo Hombre Azul Mountain M'
+tags: 
 actualPrice: 15.92 EUR
 currency: EUR
 price: 15.92

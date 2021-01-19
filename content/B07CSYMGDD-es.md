@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Nr4MldIHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CSYMGDD-es Calvin Klein Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable K8U2M111'
+slug: 'B07CSYMGDD-es Calvin Klein Reloj Analógico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 107.78 EUR
 currency: EUR
 price: 107.78

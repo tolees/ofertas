@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P9I2D2G-es Greentech - Puños Manillar Plano Espuma Azul'
+tags: 
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

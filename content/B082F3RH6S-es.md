@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bGJGvMW1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082F3RH6S-es Luces LED de cortina  Carpa brillante 300 LED 3mx3m 4 modos musicales 8 modos de luz Luces de cadena de control remoto brillantes  control de voz IP65 Impermeable para decorar interiores amarillo cálido-2 '
+slug: 'B082F3RH6S-es Luces LED de cortina Carpa brillante 300 LED 3mx3m 4 modos...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cej%2Bp7erL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BR87CH7-es Levi s Slanted Logo Scarf Bufanda  Negro  Noir Regular Black 59   única  Talla del Fabricante: UN  para Hombre'
+slug: 'B07BR87CH7-es Levi s Slanted Logo Scarf Bufanda Negro Noir Regular Black...'
+tags: 
 actualPrice: 22.83 EUR
 currency: EUR
 price: 22.83

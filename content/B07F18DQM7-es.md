@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F18DQM7-es Festina Reloj de Pulsera F20391/2'
+tags: 
 actualPrice: 103.0 EUR
 currency: EUR
 price: 103.0

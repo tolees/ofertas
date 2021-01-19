@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S71tIobhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNHCP39-es Evfun Estación de Carga USB  Base de Carga 8 Puertos Cargador Smartphone Tablets  Incluido 8 Cables de Carga '
+slug: 'B07CNHCP39-es Evfun Estación de Carga USB Base de Carga 8 Puertos...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

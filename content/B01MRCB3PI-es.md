@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31t6MvIEruL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRCB3PI-es Montse Interiors  S.L. Relleno NÓRDICO SINTÉTICO Invierno 400gr Cama 80/90  150x220   400gr '
+slug: 'B01MRCB3PI-es Montse Interiors S.L. Relleno NÓRDICO SINTÉTICO Invierno...'
+tags: 
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

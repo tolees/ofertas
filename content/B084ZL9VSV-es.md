@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J0FIgA2AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084ZL9VSV-es Grifo de Cocina  TACKLIFE DAKF9F Grifo para Fregadero de Acero Inoxidable  Grifo Cocina con Ducha Extraíble de 3 Modos de Chorro  Grifo Giratorio de 360 °  Grifo Monomando Mezcla Agua Fría y Caliente'
+slug: 'B084ZL9VSV-es Grifo de Cocina TACKLIFE DAKF9F Grifo para Fregadero de...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

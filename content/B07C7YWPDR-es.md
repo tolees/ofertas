@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31lAJ-C-OzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C7YWPDR-es Mr. Wonderful WOA09056ES - Organizador semanal en formato libreta'
+slug: 'B07C7YWPDR-es Mr. Wonderful WOA09056ES - Organizador semanal en formato...'
+tags: 
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

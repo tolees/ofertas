@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qycGepolL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCX869W-es LIGE Relojes Hombres Deportivos Impermeable Fecha Cuarzo Reloj Acero Inoxidable Negro Relojes para Hombres'
+slug: 'B07XCX869W-es LIGE Relojes Hombres Deportivos Impermeable Fecha Cuarzo...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

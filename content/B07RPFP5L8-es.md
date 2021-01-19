@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+FCeH3ZjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPFP5L8-es Habitación infantil Lámpara de pared Dormitorio nórdico Lámpara de pared Creativo Simple de dibujos animados Lectura linda Lámpara de cabecera  Gris'
+slug: 'B07RPFP5L8-es Habitación infantil Lámpara de pared Dormitorio nórdico...'
+tags: 
 actualPrice: 32.88 EUR
 currency: EUR
 price: 32.88

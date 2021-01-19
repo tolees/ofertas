@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jVhvPlaTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011PXRL34-es EXZACT Pro – Escala Súper Delgada Analizador Corporal Electrónico/ Analizador Corporal / Báscula Personal Electronica / Báscula de Baño Digital - 1.7 cm Espesor - Grasa Corporal / Hidratación / Músculos Corporal/ Hueso - 150 kg / 330 lb  Pro Blanco '
+slug: 'B011PXRL34-es EXZACT Pro – Escala Súper Delgada Analizador Corporal...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

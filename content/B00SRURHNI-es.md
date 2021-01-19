@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t7qkQI9IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SRURHNI-es Anillo de bodas Anillos de Pareja  con grabado personalizable  de titanio '
+slug: 'B00SRURHNI-es Anillo de bodas Anillos de Pareja con grabado...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

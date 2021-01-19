@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HQjtJdp5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8WVQC2-es PURINA ONE Bifensis Pienso para Gatos Esterilizados Salmón y Trigo 4 x 3 Kg'
+slug: 'B07B8WVQC2-es PURINA ONE Bifensis Pienso para Gatos Esterilizados Salmón...'
+tags: 
 actualPrice: 32.51 EUR
 currency: EUR
 price: 32.51

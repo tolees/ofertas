@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ukQuYgslL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GRYFIOA-es LEICKE ULL Fuente de alimentación Universal Clavija DE 5 5 * 2 5 milímetros  24V 2A | 48W | Clavija 5 5 * 2 5 mm  24V 2A '
+slug: 'B01GRYFIOA-es LEICKE ULL Fuente de alimentación Universal Clavija DE 5 5...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

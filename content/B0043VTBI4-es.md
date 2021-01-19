@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mLSdQzOcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0043VTBI4-es Creative Live!CAM Chat HD - Webcam HD micrófono Incorporado   Negro'
+slug: 'B0043VTBI4-es Creative Live!CAM Chat HD - Webcam HD micrófono...'
+tags: 
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

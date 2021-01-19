@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cum3w0yXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZSCCR-es PUMA Cell Venom Alert  Zapatillas Unisex Adulto  White Black  47 EU'
+slug: 'B07KFZSCCR-es PUMA Cell Venom Alert Zapatillas Unisex Adulto White Black...'
+tags: 
 actualPrice: 31.3 EUR
 currency: EUR
 price: 31.3

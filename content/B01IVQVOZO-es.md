@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41elrhp4QGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IVQVOZO-es One For All WM2421  Soporte de pared para TV de 32 a 55” Inclinable 15° Peso máx. 80kg  Para todo tipo de TVs LED  LCD  Plasma  negro'
+slug: 'B01IVQVOZO-es One For All WM2421 Soporte de pared para TV de 32 a 55”...'
+tags: 
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

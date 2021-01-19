@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31isqnkdUJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JDXBKCG-es Crocs Crocband Rain Boot Kids  Botas de Agua Unisex Niños  Rosa  Pink Lemonade/Lavender 6qm   25/26 EU'
+slug: 'B07JDXBKCG-es Crocs Crocband Rain Boot Kids Botas de Agua Unisex Niños...'
+tags: 
 actualPrice: 12.24 EUR
 currency: EUR
 price: 12.24

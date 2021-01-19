@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C4Tf7fg2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WDFJ83-es Puma PUMA UNISEX SNEAKER PLAIN 3P  Calcetines Unisex adulto  pack de 3  Azul  Navy 321   39/42  Talla del fabricante: 039 '
+slug: 'B074WDFJ83-es Puma PUMA UNISEX SNEAKER PLAIN 3P Calcetines Unisex adulto...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

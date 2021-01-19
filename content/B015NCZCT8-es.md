@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sXwx6oEDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015NCZCT8-es Aigostar Queen - Hervidor de Agua Eléctrico  con iluminación led  1 7 litros  Libre de BPA  Acero Inoxidable  Filtro Antical  Sistema de protección contra la ebullición en seco  2200W  Diseño exclusivo.'
+slug: 'B015NCZCT8-es Aigostar Queen - Hervidor de Agua Eléctrico con...'
+tags: 
 actualPrice: 18.3 EUR
 currency: EUR
 price: 18.3

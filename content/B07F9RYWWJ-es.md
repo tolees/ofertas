@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d4HpFFDCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9RYWWJ-es San Ignacio Premium Dina - Bateria de cocina de 4 piezas  acero inoxidable  1.9L-2.7L-3.5L-5.1L  apta para todo tipo de cocinas incluido inducción  Gris'
+slug: 'B07F9RYWWJ-es San Ignacio Premium Dina - Bateria de cocina de 4 piezas...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

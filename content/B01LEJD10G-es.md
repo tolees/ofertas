@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LEJD10G-es POP! Vinilo - Games: Street Fighter: Cammy'
+tags: 
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vw7RW3fzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQWI247-es Columbia Fairbanks Omni-Heat Bota de invierno para hombre   Negro Black  Rusty   41 EU'
+slug: 'B01MQWI247-es Columbia Fairbanks Omni-Heat Bota de invierno para hombre...'
+tags: 
 actualPrice: 58.41 EUR
 currency: EUR
 price: 58.41

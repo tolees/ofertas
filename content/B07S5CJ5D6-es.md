@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OTIhNej1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5CJ5D6-es Love MoschinoJc4004pp1aMujerBolsos mochilaMarfil  Avorio 14x29x37 centimeters  W x H x L '
+slug: 'B07S5CJ5D6-es Love MoschinoJc4004pp1aMujerBolsos mochilaMarfil Avorio...'
+tags: 
 actualPrice: 123.75 EUR
 currency: EUR
 price: 123.75

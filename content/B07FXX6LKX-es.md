@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Oa5srEVIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXX6LKX-es Tucano Smilza Maletines para Portátil 35  6 cm  14"  Bandolera Monótono/Azul - Funda  Bandolera  35  6 cm  14"   Tirante para Hombro  354 g  Azul '
+slug: 'B07FXX6LKX-es Tucano Smilza Maletines para Portátil 35 6 cm 14"...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

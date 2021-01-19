@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lrb+g4u8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LB772XR-es Bowflex PR1000 Gimnasio casero  Adultos Unisex  Rojo  Negro  Gris  Talla Única'
+slug: 'B07LB772XR-es Bowflex PR1000 Gimnasio casero Adultos Unisex Rojo Negro...'
+tags: 
 actualPrice: 311.09 EUR
 currency: EUR
 price: 311.09

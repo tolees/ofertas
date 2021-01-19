@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T78VLTA-es Adidas After Sport Gel de ducha para Hombre - 400 ml.'
+tags: 
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

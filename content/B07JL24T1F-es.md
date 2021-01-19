@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414JgF4my3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JL24T1F-es Under Armour Undeniable 2.0 Bolsa de equipaje  Unisex adulto  Gris  OSFA'
+slug: 'B07JL24T1F-es Under Armour Undeniable 2.0 Bolsa de equipaje Unisex...'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

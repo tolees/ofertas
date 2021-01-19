@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JiKXjbS6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCNTMW5-es Levoit Purificador de Aire para Hogar con Filtro HEPA y Carbón Activado  Libre de Ozono  3 Velocidades  Luz Nocturna  Capturar Alergias  Polen  Humo  Olor y Caspas de Mascota  Hasta 20 m²  LV-H132'
+slug: 'B07JCNTMW5-es Levoit Purificador de Aire para Hogar con Filtro HEPA y...'
+tags: 
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

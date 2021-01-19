@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4HI2XX-es Lord Mariquita - S'
+tags: 
 actualPrice: 12.06 EUR
 currency: EUR
 price: 12.06

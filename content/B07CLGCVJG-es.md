@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BZC-CIwNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLGCVJG-es COSORI Mantenedor de Café Caliente de Acero Inoxidable para Oficina y Hogar  Pantalla LED  Accesorios para Café  Té  Agua  Cacao  Leche  24 Vatios'
+slug: 'B07CLGCVJG-es COSORI Mantenedor de Café Caliente de Acero Inoxidable...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

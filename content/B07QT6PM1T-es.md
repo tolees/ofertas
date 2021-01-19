@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vi1oxBhlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QT6PM1T-es Asics Gel-Pulse 11  Zapatillas de Running para Hombre  Azul  Directoire Blue/White 400   44.5 EU'
+slug: 'B07QT6PM1T-es Asics Gel-Pulse 11 Zapatillas de Running para Hombre Azul...'
+tags: 
 actualPrice: 64.86 EUR
 currency: EUR
 price: 64.86

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EwXoMt5iL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00422KWTG-es Medisana FTC Termómetro clínico digital para bebés  niños y adultos  oral  axilar o rectal  a prueba de agua con alarma de fiebre'
+slug: 'B00422KWTG-es Medisana FTC Termómetro clínico digital para bebés niños y...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Lc5J3pOxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQXP64V-es Vieta Pro Way – Auriculares inalámbricos  Bluetooth  radio FM  micrófono integrado  entrada Auxiliar  reproductor Micro SD  plegables  autonomía 40 horas  grana'
+slug: 'B07QQXP64V-es Vieta Pro Way – Auriculares inalámbricos Bluetooth radio...'
+tags: 
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410SyS3-v6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GHM2QTW-es Intex 57104NP - Piscina hinchable 3 aros transparente 86 x 86 x 25 cm  63 litros'
+slug: 'B01GHM2QTW-es Intex 57104NP - Piscina hinchable 3 aros transparente 86 x...'
+tags: 
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

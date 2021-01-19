@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZHzjTNY9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKN8LSC-es Clarks Botanic Poppy  Sandalia con Pulsera para Mujer  Multicolor  Animal Print Animal Print   36 EU'
+slug: 'B07TKN8LSC-es Clarks Botanic Poppy Sandalia con Pulsera para Mujer...'
+tags: 
 actualPrice: 49.82 EUR
 currency: EUR
 price: 49.82

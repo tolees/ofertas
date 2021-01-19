@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mh+S0lXyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XMG9DWH-es Skechers GO Run Pulse  Zapatillas para Hombre  Azul Azul Textil Sintético Borde Rojo Bl Rd  42.5 EU'
+slug: 'B07XMG9DWH-es Skechers GO Run Pulse Zapatillas para Hombre Azul Azul...'
+tags: 
 actualPrice: 46.27 EUR
 currency: EUR
 price: 46.27

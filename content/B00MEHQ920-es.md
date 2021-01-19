@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51n6dEHxODL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MEHQ920-es Panasonic ER-GB70-S503 Recortadora WET&DRY para hombre 3 en 1 con Peine-Guía  Cabello  Barba y Cuerpo  Recargable  Acero inoxidable  40 Longitudes  2 Peines incluidos  Indicador LED - Color Plata'
+slug: 'B00MEHQ920-es Panasonic ER-GB70-S503 Recortadora WET&DRY para hombre 3...'
+tags: 
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

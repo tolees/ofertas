@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CYYXWFY-es Collistar Sensitive Skin Gel de Afeitar - 200 ml'
+tags: 
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

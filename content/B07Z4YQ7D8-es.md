@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61+fKbCRzLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4YQ7D8-es GREAT ART Juego de 2 Carteles XXL Mundo Submarino decoración de la Pared Peces y Sirena - Criaturas Marinas Tortuga delfín Foto Papel Pintado - Foto Papel Tapiz  140 x 100 cm '
+slug: 'B07Z4YQ7D8-es GREAT ART Juego de 2 Carteles XXL Mundo Submarino...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

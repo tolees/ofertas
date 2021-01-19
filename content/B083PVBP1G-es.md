@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IXnRAyfOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083PVBP1G-es Enfriador de Aire Grande Aire Acondicionado Climatizador evaporativo 4 en 1 Enfría Ventilador Humidifica Ion negativo 3 Modos 1-7 H Temporizadores con Ruedas y Control remoto 65W  400m³/h  5L'
+slug: 'B083PVBP1G-es Enfriador de Aire Grande Aire Acondicionado Climatizador...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

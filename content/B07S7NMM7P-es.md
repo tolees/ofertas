@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41brIMmCRCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7NMM7P-es DONPEREGRINO 55cm Maleta Cabina Avión con Candado TSA y USB de Carga  Maleta de Viaje Equipaje de Mano Full Forrada con 4 Doble-Ruedas 360° Giratorias'
+slug: 'B07S7NMM7P-es DONPEREGRINO 55cm Maleta Cabina Avión con Candado TSA y...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

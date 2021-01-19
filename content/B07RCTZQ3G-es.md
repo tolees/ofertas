@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51j83TD1BYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCTZQ3G-es Tosbess 12 Piezas Minifiguras y Arma  Policía Y Gangsters Mini Figuras Bloque de construcción para Niño Adulto'
+slug: 'B07RCTZQ3G-es Tosbess 12 Piezas Minifiguras y Arma Policía Y Gangsters...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

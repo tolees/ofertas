@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SoMRFKyDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSXWG3G-es DURAGADGET Funda Sumergible Negra para Canon Powershot ELPH 180/190 IS / 360 HS - ¡Ideal para Playa O Piscina!'
+slug: 'B01BSXWG3G-es DURAGADGET Funda Sumergible Negra para Canon Powershot...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

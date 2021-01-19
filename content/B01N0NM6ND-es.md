@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31FnXbE32RL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0NM6ND-es Arregui C9427 Caja De Seguridad Con Cable Para Fijación  Negro'
+slug: 'B01N0NM6ND-es Arregui C9427 Caja De Seguridad Con Cable Para Fijación Negro'
+tags: 
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

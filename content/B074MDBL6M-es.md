@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fm1D5miYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074MDBL6M-es La Silla Española Santander Oficina con Reposacabezas  Piel sintética  Negro  52x55x118 cm'
+slug: 'B074MDBL6M-es La Silla Española Santander Oficina con Reposacabezas Piel...'
+tags: 
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

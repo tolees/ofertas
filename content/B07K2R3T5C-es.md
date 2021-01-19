@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H7+RQTPwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2R3T5C-es Adidas Continental 80  Zapatillas de Deporte para Hombre  Negro  Negbás/Escarl/Maruni 000   39 1/3 EU'
+slug: 'B07K2R3T5C-es Adidas Continental 80 Zapatillas de Deporte para Hombre...'
+tags: 
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WTUoJzh2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S617MHM-es Twinzen Bata Mujer Invierno Microfibra con Capucha para Adulto  Large  Gris y Blanco  Ropa con certificación Oeko Tex - Bata 2 Bolsillos  Cinturón y Aro - Suave y Cómodo'
+slug: 'B07S617MHM-es Twinzen Bata Mujer Invierno Microfibra con Capucha para...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ihT6k-++L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SW94XFD-es Fintie Funda Compatible con Samsung Galaxy Tab A 10.1 2019 - Trasera Transparente Mate Carcasa Ligera con Función de Soporte para Modelo de SM-T510/T515  Plateado'
+slug: 'B07SW94XFD-es Fintie Funda Compatible con Samsung Galaxy Tab A 10.1 2019...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

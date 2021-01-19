@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eqSltM-9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6WT3GZ-es Wavemaster Cube Neo - Sistema de altavoces - 50 V  Bluetooth  entrada digital  control remoto por infrarrojos'
+slug: 'B07D6WT3GZ-es Wavemaster Cube Neo - Sistema de altavoces - 50 V...'
+tags: 
 actualPrice: 160.46 EUR
 currency: EUR
 price: 160.46

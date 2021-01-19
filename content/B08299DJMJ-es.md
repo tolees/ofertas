@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NFLiMCwkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08299DJMJ-es IKOHS Limpiador facial HADA - Cepillo Facial de Silicona  Rejuvenece la Piel  Masajeador  para todo tipo de pieles  Vibración Sónica  Protección contra el agua IPX5  Recargable USB  Turquesa '
+slug: 'B08299DJMJ-es IKOHS Limpiador facial HADA - Cepillo Facial de Silicona...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

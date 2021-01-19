@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ldWZ-uPiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084MJWBW6-es EUMI Smartwatch Reloj Inteligente IP67 con Pulsómetro Presión Arterial  Duración Batería 10-15 días  Monitor de Sueño Podómetro Contador de Caloría  Pulsera Actividad Inteligente para Hombre Mujer'
+slug: 'B084MJWBW6-es EUMI Smartwatch Reloj Inteligente IP67 con Pulsómetro...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

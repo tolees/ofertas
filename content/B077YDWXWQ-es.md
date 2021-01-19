@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411qKXydbNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YDWXWQ-es Sylvie Flirty Swimwear Bendi  Traje de Baño de Una Pieza para Mujer  Azul  Mare Blue 4977   44  Talla del fabricante: 42C '
+slug: 'B077YDWXWQ-es Sylvie Flirty Swimwear Bendi Traje de Baño de Una Pieza...'
+tags: 
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+5V2AmfnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IRPOKSW-es Funko- Gears of War JD Fenix Armored Figura de Vinilo  colección de Pop  seria GOW  Multicolor  10636 '
+slug: 'B01IRPOKSW-es Funko- Gears of War JD Fenix Armored Figura de Vinilo...'
+tags: 
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

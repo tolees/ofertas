@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31f6pqVzZFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9RQ5N5-es PUMA Nova 2 WN S  Zapatillas Deportivas para Mujer  Blanco White/Plein Air  38 EU'
+slug: 'B07S9RQ5N5-es PUMA Nova 2 WN S Zapatillas Deportivas para Mujer Blanco...'
+tags: 
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

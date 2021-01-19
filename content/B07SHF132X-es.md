@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31yMnYinXcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHF132X-es adidas Continental  Zapatillas para Hombre  Multicolor  Cloud White/Off White Ee6329   38 EU'
+slug: 'B07SHF132X-es adidas Continental Zapatillas para Hombre Multicolor Cloud...'
+tags: 
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Aw3u2QDWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DYX7TI6-es Rayen Superficie de tendido m | Sistema de Bloqueo de alas | Tendedero Plegable y Antideslizante | para Interior y Exterior | 177 x 54.5 x 107.5 cm | Pack de 6 0333-Tendedero  Metal  Acero  19 metros'
+slug: 'B00DYX7TI6-es Rayen Superficie de tendido m | Sistema de Bloqueo de alas...'
+tags: 
 actualPrice: 19.13 EUR
 currency: EUR
 price: 19.13

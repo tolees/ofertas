@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F+LRt1L4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Z8WW5I-es Solgar Fórmula Antioxidante Avanzada  Protege a las Células Contra el Daño Oxidativo Diario  120 cápsulas Vegetales'
+slug: 'B000Z8WW5I-es Solgar Fórmula Antioxidante Avanzada Protege a las Células...'
+tags: 
 actualPrice: 32.3 EUR
 currency: EUR
 price: 32.3

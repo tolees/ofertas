@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510eswwdDkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC339HB-es Nikon D5600 - [Versión Nikonistas] - Kit cámara réflex de 24.2 MP + AF-P DX 18-55 mm VR  táctil de 3"  Full HD  negro'
+slug: 'B06XC339HB-es Nikon D5600 - [Versión Nikonistas] - Kit cámara réflex de...'
+tags: 
 actualPrice: 560.62 EUR
 currency: EUR
 price: 560.62

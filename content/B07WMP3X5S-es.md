@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eBsTonRQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMP3X5S-es Yageshark - Pantalones de deporte para hombre  de algodón  ajustados gris XL'
+slug: 'B07WMP3X5S-es Yageshark - Pantalones de deporte para hombre de algodón...'
+tags: 
 actualPrice: 26.75 EUR
 currency: EUR
 price: 26.75

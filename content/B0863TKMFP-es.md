@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411LX1PBsjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0863TKMFP-es The 2021-2026 World Outlook for Bluetooth Low Energy  BTLE  Technologies'
+slug: 'B0863TKMFP-es The 2021-2026 World Outlook for Bluetooth Low Energy BTLE...'
+tags: 
 actualPrice: 410.4 EUR
 currency: EUR
 price: 410.4

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41r2ji%2BiToL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DPCP1TP-es Mpow Mini Auriculares Bluetooth Invisibles Auriculares Inalambricos Bluetooth de 3 Teclas con Micrófono Musica de 6 Horas Cancelación de Ruido Manos Libres con Avanzado Chip CSR para Coche y Oficinas'
+slug: 'B07DPCP1TP-es Mpow Mini Auriculares Bluetooth Invisibles Auriculares...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

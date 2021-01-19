@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EPn+0UyNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC1PHKT-es JACK & JONES Jorrafael Sweat Hood Capucha  Azul  Sea Moss Fit: Slim/Org   Small para Hombre'
+slug: 'B07VC1PHKT-es JACK & JONES Jorrafael Sweat Hood Capucha Azul Sea Moss...'
+tags: 
 actualPrice: 8.86 EUR
 currency: EUR
 price: 8.86

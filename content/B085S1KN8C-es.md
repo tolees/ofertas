@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/613usCj5ZAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085S1KN8C-es MIWIND 24 parches para planchar en el coche de ingeniería  parches bordados para ropa de coche  parches de costura  dibujos animados para niños  chaquetas  camisetas  camisetas'
+slug: 'B085S1KN8C-es MIWIND 24 parches para planchar en el coche de ingeniería...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

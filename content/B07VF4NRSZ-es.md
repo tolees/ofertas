@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BmR4vFVTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VF4NRSZ-es JACK & JONES Jcotony Polo SS WHS  Rojo  Chinese Red Chinese Red   Small para Hombre'
+slug: 'B07VF4NRSZ-es JACK & JONES Jcotony Polo SS WHS Rojo Chinese Red Chinese...'
+tags: 
 actualPrice: 7.41 EUR
 currency: EUR
 price: 7.41

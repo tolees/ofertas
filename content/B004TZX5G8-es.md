@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41klTWcSi6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004TZX5G8-es Nike Air Monarch IV  Zapatillas de Gimnasia para Hombre  Blanco  White/Black/Varsity Red 101   42 EU'
+slug: 'B004TZX5G8-es Nike Air Monarch IV Zapatillas de Gimnasia para Hombre...'
+tags: 
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

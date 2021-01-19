@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y8NY3-aHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPDGLR1-es Skechers Men s DYNAMIGHT 2.0-FALLFORD Trainers  Grey  Charcoal/Black Ccbk   8  42 EU '
+slug: 'B07NPDGLR1-es Skechers Men s DYNAMIGHT 2.0-FALLFORD Trainers Grey...'
+tags: 
 actualPrice: 24.65 EUR
 currency: EUR
 price: 24.65

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/210263z6loL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089DGWLZ7-es luosh Kraft Paper Roll  10m Rollo de Papel de Dibujo Blanco Niños Arte Boceto Pintura Pintura Tablero para Dibujar bocetos'
+slug: 'B089DGWLZ7-es luosh Kraft Paper Roll 10m Rollo de Papel de Dibujo Blanco...'
+tags: 
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

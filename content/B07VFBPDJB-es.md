@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V15vCzd+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFBPDJB-es Lifeprint: Impresora portátil de Fotos y vídeos Lifeprint 2x3 para Dispositivos iOS y Android. Haz Que Tus Fotos cobren Vida con Realidad Aumentada - Azul'
+slug: 'B07VFBPDJB-es Lifeprint: Impresora portátil de Fotos y vídeos Lifeprint...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

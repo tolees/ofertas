@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YJBrMOHhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LNQ5VLC-es L Oréal Paris Elvive Total Repair 5 Champú Reconstituyente Cuidado Intensivo para Pelo Dañado - 370 ml'
+slug: 'B01LNQ5VLC-es L Oréal Paris Elvive Total Repair 5 Champú Reconstituyente...'
+tags: 
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413Fzi07MBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CI2K0G6-es Moulinex PC300B Exprimidor eléctrico con doble  filtro regulador de pulpa  jarra transparente desmontable de 0.6 L  cono desmontables  apto para lavavajillas  25 W'
+slug: 'B01CI2K0G6-es Moulinex PC300B Exprimidor eléctrico con doble filtro...'
+tags: 
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

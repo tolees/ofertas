@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wcrf0M-wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085KY6TZP-es Máscara ffp2  Máscara para Exteriores  Máscara anticontaminación Anti Pm2.5  Prevención con Capas de válvula FFP2 Filtro de Smog  Polvo  frío  1 '
+slug: 'B085KY6TZP-es Máscara ffp2 Máscara para Exteriores Máscara...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vl0+tXwsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XNJMAU8-es Aigostar - Regleta con 5 enchufes y 1 5 metros con interruptor'
+slug: 'B00XNJMAU8-es Aigostar - Regleta con 5 enchufes y 1 5 metros con...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

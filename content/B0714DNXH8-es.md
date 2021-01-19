@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nIeOOjyhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0714DNXH8-es BENYAR Cuarzo cronógrafo Impermeable Relojes Business Casual Deporte Banda Correa de Piel Reloj de Pulsera'
+slug: 'B0714DNXH8-es BENYAR Cuarzo cronógrafo Impermeable Relojes Business...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

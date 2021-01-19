@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MiPwvm4aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088M8HJ7W-es Amiiaz 2 Pcs Colchoneta para Tumbona Jardín Cojines para Tumbona Cojines para Silla Reclinable con Corbatas Antideslizante Cojín para Tumbona Portátil Interior Al Aire libre-2PCS Rojo'
+slug: 'B088M8HJ7W-es Amiiaz 2 Pcs Colchoneta para Tumbona Jardín Cojines para...'
+tags: 
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

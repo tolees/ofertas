@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41afKeu3RAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076ZLRF4W-es Lictin 3 Pack baberos suave de silicona impermeables para bebés pequeños  rosa/azul/verde de limón '
+slug: 'B076ZLRF4W-es Lictin 3 Pack baberos suave de silicona impermeables para...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FYNrMmoCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079WRFX5S-es Sans Complexe Coton D ARUM Sujetador sin Aros  Negro  Noir 4   90C para Mujer'
+slug: 'B079WRFX5S-es Sans Complexe Coton D ARUM Sujetador sin Aros Negro Noir 4...'
+tags: 
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

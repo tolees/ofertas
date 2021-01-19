@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RXa1MNF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0713YYVX4-es Star Wars-Funko Pop Figura de Vinilo Death Star Droid  colección Rogue One  Multicolor 14877'
+slug: 'B0713YYVX4-es Star Wars-Funko Pop Figura de Vinilo Death Star Droid...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

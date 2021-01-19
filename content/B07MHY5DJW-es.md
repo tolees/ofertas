@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318qvKPPSrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHY5DJW-es Kickers Swibo  Botas Clasicas para Hombre  Verde  Kaki 20   46 EU'
+slug: 'B07MHY5DJW-es Kickers Swibo Botas Clasicas para Hombre Verde Kaki 20 46 EU'
+tags: 
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

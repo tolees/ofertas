@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e7NfLkM0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ8RDF-es Skechers Bounder  Zapatillas para Hombre  Gris  Black Mesh/Synthetic/Black Trim BBK   40 EU'
+slug: 'B07TSQ8RDF-es Skechers Bounder Zapatillas para Hombre Gris Black...'
+tags: 
 actualPrice: 32.35 EUR
 currency: EUR
 price: 32.35

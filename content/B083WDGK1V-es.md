@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SVPjCdeML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083WDGK1V-es Qomolo Lámpara Anti Mosquitos  Mata Mosquitos Electrico Mosquitos Killer  UV Luz Lampara para Segura y Eficaz Repelente Zapper Mosquitos Polillas para Salón  Cocina  Despacho y Habitación Infantil'
+slug: 'B083WDGK1V-es Qomolo Lámpara Anti Mosquitos Mata Mosquitos Electrico...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

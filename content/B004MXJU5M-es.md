@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004MXJU5M-es PetSafe Drinkwell - Fuente para Mascotas'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

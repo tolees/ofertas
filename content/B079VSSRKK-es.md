@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ke3iVaokL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VSSRKK-es Weider Vegan Diet Meal Choco 540 Gr. Sutituto de comida 100% vegano.Sin gluten. Ideal para dieta'
+slug: 'B079VSSRKK-es Weider Vegan Diet Meal Choco 540 Gr. Sutituto de comida...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

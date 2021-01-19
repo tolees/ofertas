@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DMv4knuoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBV1CGD-es PowerLocus P1 – Auriculares Bluetooth inalambricos de Diadema Cascos Plegables  Casco Bluetooth con Sonido Estéreo con Conexión a Bluetooth Inalámbrico y Audio Cable para Movil  PC  Tablet - Negro'
+slug: 'B01NBV1CGD-es PowerLocus P1 – Auriculares Bluetooth inalambricos de...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

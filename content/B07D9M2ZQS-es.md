@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AsYX0QcQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9M2ZQS-es Sensor de nivel de agua ultrasónico con pantalla LCD de temperatura líquida'
+slug: 'B07D9M2ZQS-es Sensor de nivel de agua ultrasónico con pantalla LCD de...'
+tags: 
 actualPrice: 32.79 EUR
 currency: EUR
 price: 32.79

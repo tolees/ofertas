@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PcQiKfGdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087NMYS78-es Respirador desechable de Tres Capas  Transpirable  Antipolvo  para Regalar a los Amantes de la Familia y los niños 50 Piezas'
+slug: 'B087NMYS78-es Respirador desechable de Tres Capas Transpirable Antipolvo...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

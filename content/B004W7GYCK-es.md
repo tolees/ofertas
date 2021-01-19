@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mU6OQ6v3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004W7GYCK-es Duracell - Plus C  Pilas Alcalinas  paquete de 2  1.5 Voltios LR14 MX1400'
+slug: 'B004W7GYCK-es Duracell - Plus C Pilas Alcalinas paquete de 2 1.5 Voltios...'
+tags: 
 actualPrice: 2.72 EUR
 currency: EUR
 price: 2.72

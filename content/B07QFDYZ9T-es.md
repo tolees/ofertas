@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NSy7JhvUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFDYZ9T-es adidas Runfalcon  Zapatillas para Correr para Mujer  Legend Ink/FTWR White/Clear Pink  41 1/3 EU'
+slug: 'B07QFDYZ9T-es adidas Runfalcon Zapatillas para Correr para Mujer Legend...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

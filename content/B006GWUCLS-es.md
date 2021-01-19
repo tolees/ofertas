@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21gdY8ARWoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006GWUCLS-es Converse Chuck Taylor All Star Ox  Zapatillas Unisex Adulto  Blanco  Optical White   54 EU'
+slug: 'B006GWUCLS-es Converse Chuck Taylor All Star Ox Zapatillas Unisex Adulto...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

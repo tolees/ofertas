@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414rWUrLoAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PC5Z5Z8-es Lenovo T530 - Ordenador sobremesa  Intel Core i7-8700  8GB RAM  1TB HDD + 128GB SSD  Nvidia GTX1050Ti-4GB  sin sistema operativo  negro'
+slug: 'B07PC5Z5Z8-es Lenovo T530 - Ordenador sobremesa Intel Core i7-8700 8GB...'
+tags: 
 actualPrice: 608.59 EUR
 currency: EUR
 price: 608.59

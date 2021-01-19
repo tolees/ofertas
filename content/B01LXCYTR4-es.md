@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OKGWiQ6XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXCYTR4-es Brabantia Cubo de Basura con Pedal  Inoxidable  Acero Brillante  30 l'
+slug: 'B01LXCYTR4-es Brabantia Cubo de Basura con Pedal Inoxidable Acero...'
+tags: 
 actualPrice: 49.4 EUR
 currency: EUR
 price: 49.4

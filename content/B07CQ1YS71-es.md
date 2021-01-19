@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SmlWzDxWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQ1YS71-es Lee Daren Zip Fly Jeans  Azul  Time out Dn   38W / 36L para Hombre'
+slug: 'B07CQ1YS71-es Lee Daren Zip Fly Jeans Azul Time out Dn 38W / 36L para...'
+tags: 
 actualPrice: 37.51 EUR
 currency: EUR
 price: 37.51

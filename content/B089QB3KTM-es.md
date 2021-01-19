@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c3JVRXIiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089QB3KTM-es Extensor para mascarilla  para sujetar la mascarilla sin que apriete en las orejas  accesorio para mascarilla  extensor para aliviar el dolor de orejas  cuatro colores  4 unidades'
+slug: 'B089QB3KTM-es Extensor para mascarilla para sujetar la mascarilla sin...'
+tags: 
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31hdsdoLzSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU98WHH-es dockers Alpha Original Khaki Slim Tapered-Stretch Twill Pantalones  Safari Beige 0431  28W / 32L para Hombre'
+slug: 'B01MU98WHH-es dockers Alpha Original Khaki Slim Tapered-Stretch Twill...'
+tags: 
 actualPrice: 33.02 EUR
 currency: EUR
 price: 33.02

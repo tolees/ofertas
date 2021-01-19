@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YVOydUB0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HY6CKY7-es Rowenta Perfect Steam Pro DG8642F0 - Centro de planchado  autonomía ilimitada de 7 2 bares  golpe de vapor 450 g/min  vapor contínuo 120 g/min  suela Microsteam Laser 400  función Eco y depósito cal'
+slug: 'B07HY6CKY7-es Rowenta Perfect Steam Pro DG8642F0 - Centro de planchado...'
+tags: 
 actualPrice: 196.99 EUR
 currency: EUR
 price: 196.99

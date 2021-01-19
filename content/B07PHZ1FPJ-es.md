@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Vc1XflTeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHZ1FPJ-es Belkin Boost Up Base de carga inalámbrica 10 W  cargador para iPhone 11  11 Pro/Pro Max  XS  XS Max  XR  SE  Airpods  Samsung Galaxy S20  S20+  S20 Ultra  S10  S10+ y S10e  con enchufe  blanco '
+slug: 'B07PHZ1FPJ-es Belkin Boost Up Base de carga inalámbrica 10 W cargador...'
+tags: 
 actualPrice: 15.51 EUR
 currency: EUR
 price: 15.51

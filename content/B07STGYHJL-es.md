@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WqogZT1sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STGYHJL-es Mr. Wonderful Bullet  Calendario  Talla Única  Multicolor'
+slug: 'B07STGYHJL-es Mr. Wonderful Bullet Calendario Talla Única Multicolor'
+tags: 
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

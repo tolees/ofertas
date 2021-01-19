@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fmMUTxrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082V2H6HL-es Newentor - Aire acondicionado y humidificador portátil 3 en 1 y 3 velocidades de ventilador  apagado automático para oficina en el hogar'
+slug: 'B082V2H6HL-es Newentor - Aire acondicionado y humidificador portátil 3...'
+tags: 
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

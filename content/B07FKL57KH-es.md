@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D3IgOdYZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKL57KH-es Nike Renew Arena  Zapatillas de Atletismo para Hombre  Multicolor  Cool Grey/Dark Grey/Wolf Grey/White 011   43 EU'
+slug: 'B07FKL57KH-es Nike Renew Arena Zapatillas de Atletismo para Hombre...'
+tags: 
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

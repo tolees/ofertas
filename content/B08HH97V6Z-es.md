@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WkJVMHuiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HH97V6Z-es KUTOOK Pantalones Softshell Trekking Hombre Impermeables para Otoño Invierno Pantalones Senderismo Montaña con Forro Polar HP020 '
+slug: 'B08HH97V6Z-es KUTOOK Pantalones Softshell Trekking Hombre Impermeables...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

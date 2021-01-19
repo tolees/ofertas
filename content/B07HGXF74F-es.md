@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w2-xDC8vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGXF74F-es Tiny Dreamer de Tiny Love  proyector musical de luz nocturna tranquilizadora  proyector de luz de estrellas y farol portátil  a partir de 0 meses  17 melodías  Into the Forest'
+slug: 'B07HGXF74F-es Tiny Dreamer de Tiny Love proyector musical de luz...'
+tags: 
 actualPrice: 41.4 EUR
 currency: EUR
 price: 41.4

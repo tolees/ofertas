@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4140Voj+O9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WT8D5K-es Llave Usb 32 Gb Darth Vader Tlj - Memoria Flash Drive 2.0 Original Star Wars  Tribe Fd030709  Negro'
+slug: 'B078WT8D5K-es Llave Usb 32 Gb Darth Vader Tlj - Memoria Flash Drive 2.0...'
+tags: 
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

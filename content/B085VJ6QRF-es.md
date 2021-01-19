@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cUn4r-VYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085VJ6QRF-es TONGJI Vitrina de Acrílico Compatible con Lego 42083 Technic Bugatti Chiron  Vitrina A Prueba De Polvo  Modelo No Incluido '
+slug: 'B085VJ6QRF-es TONGJI Vitrina de Acrílico Compatible con Lego 42083...'
+tags: 
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

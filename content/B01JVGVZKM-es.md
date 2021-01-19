@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kkQ0JY16L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JVGVZKM-es Juego de pinceles con estuche de viaje: 5 cepillos de mango corto de bambú. Perfecto para acuarela  óleo  entintado  pintura facial  pinceles creativos y suministros para manualidades.'
+slug: 'B01JVGVZKM-es Juego de pinceles con estuche de viaje: 5 cepillos de...'
+tags: 
 actualPrice: 33.69 EUR
 currency: EUR
 price: 33.69

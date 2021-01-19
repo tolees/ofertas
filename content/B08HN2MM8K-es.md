@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PgCJphKTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HN2MM8K-es Docooler 10"-17" Pulgadas Gaming Laptop Cooler Cooling Pad Base de refrigeración para Ordenador portáti 5 Ventiladores silenciosos y Pantalla LCD  5 ajustes de Altura 2 Puertos USB y luz LED Azul'
+slug: 'B08HN2MM8K-es Docooler 10"-17" Pulgadas Gaming Laptop Cooler Cooling Pad...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mIeLFKTlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHXR6V6-es New Balance Fresh Foam Roav  Zapatillas de Running para Mujer  Azul  Light Tk   41.5 EU'
+slug: 'B07RHXR6V6-es New Balance Fresh Foam Roav Zapatillas de Running para...'
+tags: 
 actualPrice: 37.7 EUR
 currency: EUR
 price: 37.7

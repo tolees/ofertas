@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317BVWp3BuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BYMBWO-es Samsung CLT-C4092S/ELS - Cartucho Tóner  Color Cian'
+slug: 'B001BYMBWO-es Samsung CLT-C4092S/ELS - Cartucho Tóner Color Cian'
+tags: 
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

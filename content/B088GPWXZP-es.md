@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61j9B9wMzGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088GPWXZP-es DIY Slime Kit para Niñas Niños  Fabrica de Slime con 18 Colores Crystal Slime  Resplandor en el Polvo Oscuro  Polvo de Brillo y Más para Los Amantes del Unicornio Juguete Niños 5+Años'
+slug: 'B088GPWXZP-es DIY Slime Kit para Niñas Niños Fabrica de Slime con 18...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

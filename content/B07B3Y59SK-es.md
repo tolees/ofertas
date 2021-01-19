@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TQhy42JFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3Y59SK-es Clarks Batcombe Lord  Botas Chelsea para Hombre  Negro  Black   44 EU'
+slug: 'B07B3Y59SK-es Clarks Batcombe Lord Botas Chelsea para Hombre Negro Black...'
+tags: 
 actualPrice: 82.5 EUR
 currency: EUR
 price: 82.5

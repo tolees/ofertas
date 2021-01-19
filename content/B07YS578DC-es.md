@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e2Jf+xWxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YS578DC-es HOMCOM Banco de Pesas Multifuncional Tipo Banco de Musculación con Respaldo Ajustable Carga 150kg Acero 105x150x112cm'
+slug: 'B07YS578DC-es HOMCOM Banco de Pesas Multifuncional Tipo Banco de...'
+tags: 
 actualPrice: 110.99 EUR
 currency: EUR
 price: 110.99

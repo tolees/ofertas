@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mbPxqZv7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IH3CD60-es Nike Court Borough Mid  Zapatillas de Baloncesto para Niños  Negro  Black/Black-Black 001   36.5 EU'
+slug: 'B01IH3CD60-es Nike Court Borough Mid Zapatillas de Baloncesto para Niños...'
+tags: 
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

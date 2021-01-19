@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ytv6AVKwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXBTC6G-es Candy GVSW 486T/5S - Lavasecadora 8+6Kgs  NFC  display digital  certificado WoolMark  15 programas  1400rpm  clase AAA  color blanco'
+slug: 'B07GXBTC6G-es Candy GVSW 486T/5S - Lavasecadora 8+6Kgs NFC display...'
+tags: 
 actualPrice: 367.99 EUR
 currency: EUR
 price: 367.99

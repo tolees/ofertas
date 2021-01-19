@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413pLr0ndcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR27R4G-es Under Armour Rush Low Sujetador Deportivo  Mujer  Negro  MD'
+slug: 'B07PR27R4G-es Under Armour Rush Low Sujetador Deportivo Mujer Negro MD'
+tags: 
 actualPrice: 22.26 EUR
 currency: EUR
 price: 22.26

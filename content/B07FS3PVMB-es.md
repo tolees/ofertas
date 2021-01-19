@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K3nVk2iXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FS3PVMB-es TOMALL Funda de Repuesto para Fitbit Zip Clip Sujetador Deportivo Fitness Trackers Holder Purple'
+slug: 'B07FS3PVMB-es TOMALL Funda de Repuesto para Fitbit Zip Clip Sujetador...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

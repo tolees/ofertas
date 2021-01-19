@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X9WVc8RWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6LTH5Z-es JACK & JONES Jjirick Jjicon Shorts GE 854 I.k. STS Pantalones Cortos  Azul  Blue Denim Blue Denim   52  Talla del Fabricante: Medium  para Hombre'
+slug: 'B07N6LTH5Z-es JACK & JONES Jjirick Jjicon Shorts GE 854 I.k. STS...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A3v-SngOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077KXGQXH-es VicTsing Ratón Inalámbrico Bluetooth 4.0 & 2.4G  5 dpi Adjustables y Control de Multi-Dispositivo  para PC  Computadora  Portátil  Mac  y Tableta Andorid  Móviles Inteligentes'
+slug: 'B077KXGQXH-es VicTsing Ratón Inalámbrico Bluetooth 4.0 & 2.4G 5 dpi...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

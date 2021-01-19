@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xcm9ZFyaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFYMLY8-es Levi s Skinner  Zapatillas para Hombre  Azul  Navy Blue 17   39 EU'
+slug: 'B07SFYMLY8-es Levi s Skinner Zapatillas para Hombre Azul Navy Blue 17 39 EU'
+tags: 
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

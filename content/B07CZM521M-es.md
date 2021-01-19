@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qa069XGPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZM521M-es Under Armour Sportstyle Wind Parte Superior del Calentamiento  Hombre  Negro  SM'
+slug: 'B07CZM521M-es Under Armour Sportstyle Wind Parte Superior del...'
+tags: 
 actualPrice: 20.38 EUR
 currency: EUR
 price: 20.38

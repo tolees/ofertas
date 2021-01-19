@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21vs2lIQ79L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000C3MOCM-es Kenwood AT320A Accesorio de Robot de Cocina  Vidrio  De plástico'
+slug: 'B000C3MOCM-es Kenwood AT320A Accesorio de Robot de Cocina Vidrio De...'
+tags: 
 actualPrice: 68.13 EUR
 currency: EUR
 price: 68.13

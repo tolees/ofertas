@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dGIfe7HnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKB72VY-es Kipling - Creativity Xl  Monederos Mujer  Gris  Metallic Stony '
+slug: 'B07DKB72VY-es Kipling - Creativity Xl Monederos Mujer Gris Metallic Stony'
+tags: 
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

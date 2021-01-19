@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W6vlDVStL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8F63DT-es Monix Copper - Sartén 28 cm de aluminio forjado con antiadherente con partículas de titanio  aptas para todo tipo de cocinas  incluso inducción  color cobre'
+slug: 'B07L8F63DT-es Monix Copper - Sartén 28 cm de aluminio forjado con...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

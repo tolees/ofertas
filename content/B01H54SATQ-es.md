@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zCJpOJlLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H54SATQ-es Philips Optimal Temp GC9410/60 - Centro de Planchado de 6.7 bares  Autonomía Ilimitada  Golpe de Vapor 450 g  Suela Tionic Glide  Planchado Sin Ajuste de Temperatura  Calentamiento Rápido  Autoapagado'
+slug: 'B01H54SATQ-es Philips Optimal Temp GC9410/60 - Centro de Planchado de...'
+tags: 
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ut2lNJdiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0799CLK4T-es Altavoces de Coche Kenwood KFC-S1366  13cm  2 vías  30W RMS  260W'
+slug: 'B0799CLK4T-es Altavoces de Coche Kenwood KFC-S1366 13cm 2 vías 30W RMS 260W'
+tags: 
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

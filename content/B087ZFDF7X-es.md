@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/618Mif-hA6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087ZFDF7X-es Pintar por números para adultos  la chica en el bosque'
+slug: 'B087ZFDF7X-es Pintar por números para adultos la chica en el bosque'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

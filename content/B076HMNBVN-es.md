@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41srfAxEnxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HMNBVN-es adidas Core18 PES Pnt Pantalones de Deporte  Hombre  Azul  Azul/Blanco   XL'
+slug: 'B076HMNBVN-es adidas Core18 PES Pnt Pantalones de Deporte Hombre Azul...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

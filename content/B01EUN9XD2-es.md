@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mOr4o%2BICL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EUN9XD2-es Ingenuity Jungle Journey - Columpio portátil  unisex'
+slug: 'B01EUN9XD2-es Ingenuity Jungle Journey - Columpio portátil unisex'
+tags: 
 actualPrice: 82.8 EUR
 currency: EUR
 price: 82.8

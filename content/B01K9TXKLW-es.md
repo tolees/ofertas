@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PBMO6yYpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9TXKLW-es Musou HDMI a AV Convertidor HDMI a RCA Convertidor Compuesto RCA CVBS Señal Audio y Vídeo Adaptador Soporte PAL/NTSC Interruptor Full HD 3D 1080P'
+slug: 'B01K9TXKLW-es Musou HDMI a AV Convertidor HDMI a RCA Convertidor...'
+tags: 
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

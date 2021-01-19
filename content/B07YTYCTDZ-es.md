@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412MvXB09YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YTYCTDZ-es omitium Luz De Nocturna LED  Lámpara de Mesita de Noche Inteligente Recargable por USB Diseño de Control Táctil Portátil para la Cuarto de Los Niños Dormitorio Acampar  blanco cálido '
+slug: 'B07YTYCTDZ-es omitium Luz De Nocturna LED Lámpara de Mesita de Noche...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IPg2ge5pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813XNHFQ-es adidas Superstar  Zapatillas para Hombre  FTWR White/Core Black/FTWR White  46 EU'
+slug: 'B0813XNHFQ-es adidas Superstar Zapatillas para Hombre FTWR White/Core...'
+tags: 
 actualPrice: 27.01 EUR
 currency: EUR
 price: 27.01

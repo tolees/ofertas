@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gsrDdLWHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9W9NYU-es L Oréal Paris Sublime Mousse Tinte en Espuma Coloración 740 Cobrizo Ardiente'
+slug: 'B00X9W9NYU-es L Oréal Paris Sublime Mousse Tinte en Espuma Coloración...'
+tags: 
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

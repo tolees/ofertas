@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VpU2DFlrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGGLX62-es Buff Ultimate Logo Cinta de Cabeza Fastwick  Unisex Adulto  Black  Talla única'
+slug: 'B07KGGLX62-es Buff Ultimate Logo Cinta de Cabeza Fastwick Unisex Adulto...'
+tags: 
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

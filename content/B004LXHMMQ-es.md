@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wNgAuDdFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LXHMMQ-es Rimmel London 1000 Kisses Lipliner Perfilador de Labios Tono 021 Red Dynamite - 4 gr'
+slug: 'B004LXHMMQ-es Rimmel London 1000 Kisses Lipliner Perfilador de Labios...'
+tags: 
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

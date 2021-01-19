@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iB1+MxI+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QYNPWV5-es Speedo Minnie Placement con Espalda en U Bañador  Mujer  Minniestripe Red/Pink/Wht  28  UK 6 '
+slug: 'B07QYNPWV5-es Speedo Minnie Placement con Espalda en U Bañador Mujer...'
+tags: 
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

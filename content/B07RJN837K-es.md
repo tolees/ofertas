@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515rsYzSwTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJN837K-es HyAdierTech Protector de Asiento de Coche  Premium Cubierta Isofix por Asiento Delantero y Trasero con Bolsillo y Tamaño Universal  Antideslizante y Resistente  Funda Impermeable protegida  A   A   A '
+slug: 'B07RJN837K-es HyAdierTech Protector de Asiento de Coche Premium Cubierta...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

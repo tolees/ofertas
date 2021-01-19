@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jUEQu-6VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q47ZRBC-es Black Hawk derribado  4K UHD + BD  [Blu-ray]'
+slug: 'B07Q47ZRBC-es Black Hawk derribado 4K UHD + BD [Blu-ray]'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

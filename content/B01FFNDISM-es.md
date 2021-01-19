@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413TBhfdUKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFNDISM-es Under Armour HG Armour 2.0 Legging Leggings  Hombre  Gris  Carbon Heather/Black 090   XXL'
+slug: 'B01FFNDISM-es Under Armour HG Armour 2.0 Legging Leggings Hombre Gris...'
+tags: 
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

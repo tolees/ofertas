@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vAVfW4gvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002LTH58I-es Superga 2750 COTU Classic Zapatillas  Unisex-Adulto  Azul  Navy S 933   39 EU'
+slug: 'B002LTH58I-es Superga 2750 COTU Classic Zapatillas Unisex-Adulto Azul...'
+tags: 
 actualPrice: 31.13 EUR
 currency: EUR
 price: 31.13

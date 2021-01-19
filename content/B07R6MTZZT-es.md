@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31c3yWHiy+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R6MTZZT-es VIÑAS DEL VERO TINTO CABERNET-MERLOT ROBLE  Vino tinto  Somontano'
+slug: 'B07R6MTZZT-es VIÑAS DEL VERO TINTO CABERNET-MERLOT ROBLE Vino tinto...'
+tags: 
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

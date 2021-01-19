@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RY91QDbwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LLSD4YE-es adidas Originals Superstar  Zapatillas de deporte Unisex Adulto  Blanco  Ftwr White/Core Black/Ftwr White   48 EU'
+slug: 'B00LLSD4YE-es adidas Originals Superstar Zapatillas de deporte Unisex...'
+tags: 
 actualPrice: 70.9 EUR
 currency: EUR
 price: 70.9

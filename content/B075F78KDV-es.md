@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EE5BKLVaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075F78KDV-es Kärcher Window Vac WV 2 Premium 10 years - Limpiadora de ventanas a batería  aspirador limpiacristales   1.633-426.0 '
+slug: 'B075F78KDV-es Kärcher Window Vac WV 2 Premium 10 years - Limpiadora de...'
+tags: 
 actualPrice: 51.76 EUR
 currency: EUR
 price: 51.76

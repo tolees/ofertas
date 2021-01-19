@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311mcMT8d+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMNL1WH-es Tommy Hilfiger Tjw Tommy Classics tee Ropa Deportiva de Punto  Rosa  Pink Daisy TOU   36  Talla del Fabricante: Small  para Mujer'
+slug: 'B07VMNL1WH-es Tommy Hilfiger Tjw Tommy Classics tee Ropa Deportiva de...'
+tags: 
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

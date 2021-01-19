@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mjpa0G3vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CP8QY9-es LNIEGE SMT SMD Teléfono Celular TF Micro SD Ranuras para Soporte de Ranura para Tarjeta de Memoria para Equipos Digitales portátiles'
+slug: 'B081CP8QY9-es LNIEGE SMT SMD Teléfono Celular TF Micro SD Ranuras para...'
+tags: 
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

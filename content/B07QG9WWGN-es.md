@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uOlhHYINL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QG9WWGN-es MTNG Attitude 84086  Zapatillas para Hombre  Azul  /Mesh 10 Marino C47748   43 EU'
+slug: 'B07QG9WWGN-es MTNG Attitude 84086 Zapatillas para Hombre Azul /Mesh 10...'
+tags: 
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

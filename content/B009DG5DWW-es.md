@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XlekqrYyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009DG5DWW-es Esi  Crema diurna facial - 50 ml.'
+slug: 'B009DG5DWW-es Esi Crema diurna facial - 50 ml.'
+tags: 
 actualPrice: 7.68 EUR
 currency: EUR
 price: 7.68

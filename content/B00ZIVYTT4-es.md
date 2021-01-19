@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513-KflMTeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZIVYTT4-es Mass Effect: Andrómeda  La caja contiene un código de descarga - Origin '
+slug: 'B00ZIVYTT4-es Mass Effect: Andrómeda La caja contiene un código de...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

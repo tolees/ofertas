@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tM0jBL01L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071DW6FBC-es SELECTED HOMME Shnstraight-Scott 1001 St JNS Noos Jeans Rectos  Negro  Black   W32/L34  Talla del Fabricante: 32  para Hombre'
+slug: 'B071DW6FBC-es SELECTED HOMME Shnstraight-Scott 1001 St JNS Noos Jeans...'
+tags: 
 actualPrice: 26.21 EUR
 currency: EUR
 price: 26.21

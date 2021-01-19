@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31y0JR3mLEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQVJ8KZ-es Napapijri EISBERG Polo  Azul  BLU Marine 176   M para Hombre'
+slug: 'B07MQVJ8KZ-es Napapijri EISBERG Polo Azul BLU Marine 176 M para Hombre'
+tags: 
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

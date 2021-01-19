@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61MW-huRRpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B018NMTBOC-es Bizak-5025123225111  Color  61952511 '
+slug: 'B018NMTBOC-es Bizak-5025123225111 Color 61952511'
+tags: 
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zs4-psMHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCEIPNM-es BRITA Marella blanca – Jarra de Agua Filtrada con 1 cartucho MAXTRA+  Filtro de agua BRITA que reduce la cal y el cloro  Agua filtrada para un sabor óptimo  2.4L'
+slug: 'B01NCEIPNM-es BRITA Marella blanca – Jarra de Agua Filtrada con 1...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

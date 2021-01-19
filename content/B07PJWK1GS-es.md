@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CvKkZtJqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJWK1GS-es Yeeper Zapatillas de Seguridad Deportivos con Puntera de Acero/Zapatos de Trabajo Transpirable Resistente a Las Perforaciones para Hombre Azul EU 46'
+slug: 'B07PJWK1GS-es Yeeper Zapatillas de Seguridad Deportivos con Puntera de...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

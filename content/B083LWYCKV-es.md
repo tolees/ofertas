@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31npoWaIeAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083LWYCKV-es Chromecast de Google Timoom 5G/2.4G WiFi Display Dongle original chromecast 4K 1080P HDMI Inalambrico  4K WiFi Dongle TV con Airplay/Miracast/DLNA para Android/iPhone/Mac/Windows Blanco'
+slug: 'B083LWYCKV-es Chromecast de Google Timoom 5G/2.4G WiFi Display Dongle...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

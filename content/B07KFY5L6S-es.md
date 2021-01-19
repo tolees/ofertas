@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zxu0DX2XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFY5L6S-es PUMA Flyer Runner  Zapatillas de Running Unisex Adulto  Azul  Rhubarb White   43 EU'
+slug: 'B07KFY5L6S-es PUMA Flyer Runner Zapatillas de Running Unisex Adulto Azul...'
+tags: 
 actualPrice: 18.53 EUR
 currency: EUR
 price: 18.53

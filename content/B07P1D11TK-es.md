@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZVlE6-XNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P1D11TK-es Gommy s Factory  Golosina  Coca colas  - 12 de 90 gr.  Total 1080 gr. '
+slug: 'B07P1D11TK-es Gommy s Factory Golosina Coca colas - 12 de 90 gr. Total...'
+tags: 
 actualPrice: 8.51 EUR
 currency: EUR
 price: 8.51

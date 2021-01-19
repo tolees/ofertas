@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qu0bE6lZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000JU7N5Q-es Cable HDMI de alta calidad con contactos dorados  1 5 m '
+slug: 'B000JU7N5Q-es Cable HDMI de alta calidad con contactos dorados 1 5 m'
+tags: 
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51F3fBVnfoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5SW8WD-es PUMA S Portable Bandolera  Adultos Unisex  Medium Gray Heather  OSFA'
+slug: 'B07R5SW8WD-es PUMA S Portable Bandolera Adultos Unisex Medium Gray...'
+tags: 
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01

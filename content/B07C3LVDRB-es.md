@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QmA0IT2ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C3LVDRB-es Yuanguo Pulsera de Actividad Inteligente Reloj Deportivo con Pulseras de Repuesto Podómetro Monitor de Sueño Pulsera Cuenta Pasos y Calorias Pulsera Deporte Impermeable para Mujer Hombr Niño'
+slug: 'B07C3LVDRB-es Yuanguo Pulsera de Actividad Inteligente Reloj Deportivo...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

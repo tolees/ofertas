@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lO1yl6i0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PDT9KSG-es MAM - Conjunto de 2 chupetes que brillan en la oscuridad con esterilizable estuche de viaje  0 meses  Azul  Azul/Blanco '
+slug: 'B00PDT9KSG-es MAM - Conjunto de 2 chupetes que brillan en la oscuridad...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

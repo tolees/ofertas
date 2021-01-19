@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wJyPGBDVL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD2CF69-es GUANTE DE NITRILO  AQL 1.5  5gr SIN POLVO  COLOR NEGRO  Mediano  - Caja de 100 unidades'
+slug: 'B07DD2CF69-es GUANTE DE NITRILO AQL 1.5 5gr SIN POLVO COLOR NEGRO...'
+tags: 
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

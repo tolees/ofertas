@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416yqkLHzrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L1LP5GB-es Funko Bobble Captain Marvel: Pop 15 Figura Coleccionable  Multicolor  37585 '
+slug: 'B07L1LP5GB-es Funko Bobble Captain Marvel: Pop 15 Figura Coleccionable...'
+tags: 
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

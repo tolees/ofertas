@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AhglNempL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ5YC52-es Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina WS-2000H-4AVEF'
+slug: 'B07NJ5YC52-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 22.43 EUR
 currency: EUR
 price: 22.43

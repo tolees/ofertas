@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51o0pO48eGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6M5MD2-es SUNLU filamento PLA de 1.75 mm  filamento de impresión 3D poco olor  precisión dimensional +/- 0.02 mm  2.2 LBS  1 KG  Filamento 3D de carrete para impresoras 3D y plumas 3D  Salmon Orange PLA +'
+slug: 'B07P6M5MD2-es SUNLU filamento PLA de 1.75 mm filamento de impresión 3D...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

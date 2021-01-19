@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QEHMbDC4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6QO1DY-es Adidas BB1935  Botas de Senderismo Infantil  Negro  NEGBAS/NEGBAS/GRIVIS   34 EU'
+slug: 'B01N6QO1DY-es Adidas BB1935 Botas de Senderismo Infantil Negro...'
+tags: 
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

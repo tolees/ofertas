@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DRCQ2CM-es Operación Soldados de Juguete DVD 1991 Toy Soldiers'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

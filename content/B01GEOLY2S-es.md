@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51h2tYKO7HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GEOLY2S-es ThunderX3 TK25- Teclado gaming de membrana-  Personalización total Retroiluminación LED  perfiles múltiples  teclas macro  respuesta ultra rápida  capacidad anti-ghosting   Color Negro'
+slug: 'B01GEOLY2S-es ThunderX3 TK25- Teclado gaming de membrana-...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

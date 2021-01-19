@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417LulOK8oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9W5EKO-es Garmin Forerunner 35- Reloj GPS con monitor de frecuencia cardiaca en la muñeca  monitor de actividad y notificaciones inteligentes  color lima'
+slug: 'B01K9W5EKO-es Garmin Forerunner 35- Reloj GPS con monitor de frecuencia...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

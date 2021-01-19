@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qMVR5e7EL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OHFXYFW-es Kappa Casarano - Pantalones de Deporte para Hombre  Color Negro  Talla YS'
+slug: 'B00OHFXYFW-es Kappa Casarano - Pantalones de Deporte para Hombre Color...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

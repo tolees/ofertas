@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w80gK8erL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PX4J1Y-es Lacoste Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable 2001002'
+slug: 'B074PX4J1Y-es Lacoste Reloj Análogo clásico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 109.22 EUR
 currency: EUR
 price: 109.22

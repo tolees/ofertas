@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Qez0CrDTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXPH9HT-es SOLEDI Fieltro Manualidades Tela no Tejido de Lana 41 Colores  Material para Costura y Artesanías de Bricolaje  20 * 30cm '
+slug: 'B07GXPH9HT-es SOLEDI Fieltro Manualidades Tela no Tejido de Lana 41...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fYcAiBg2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HNEMK2C-es Ikea Glis Caja con Tapa  Azul  Blanco y Verde  17x10x8 cm  3 Unidades'
+slug: 'B00HNEMK2C-es Ikea Glis Caja con Tapa Azul Blanco y Verde 17x10x8 cm 3...'
+tags: 
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

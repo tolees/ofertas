@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bvdF-O+7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R86NMFN-es JAIMIE JACOBS Cartera Hombre Nano Boy Cartera Minimalista Slim Wallet Cartera Clip Cartera Pequeña Tarjetera Fina Pinza para Billetes Billetero para Hombres  Carbon '
+slug: 'B07R86NMFN-es JAIMIE JACOBS Cartera Hombre Nano Boy Cartera Minimalista...'
+tags: 
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xtjsp9JyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FAO6OKG-es Cybex Silver Pallas-Fix 514110006 Silla de Coche Grupo 1/2/3  2 en 1  para Niños  Gris  Gray Rabbit '
+slug: 'B00FAO6OKG-es Cybex Silver Pallas-Fix 514110006 Silla de Coche Grupo...'
+tags: 
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

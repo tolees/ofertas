@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UQ+nm7XSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKH6ZXP-es Kipling - New Hiphurray  Bolsos totes Mujer  Multicolor  Scribble L Bl '
+slug: 'B07DKH6ZXP-es Kipling - New Hiphurray Bolsos totes Mujer Multicolor...'
+tags: 
 actualPrice: 21.75 EUR
 currency: EUR
 price: 21.75

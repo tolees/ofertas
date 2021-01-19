@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uKIOyblgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLHX6WG-es Guardabarros Patinete Electrico  Guardabarros Scooter Compatible con Xiaomi M365  Guardabarros Neumático Trasero Guardabarros Piezas de Reparación Compatible con Xiao Mi Mijia M365 Scooter Eléctrico'
+slug: 'B07RLHX6WG-es Guardabarros Patinete Electrico Guardabarros Scooter...'
+tags: 
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pgEtCZIFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083L7NFRT-es Queta Ei-Separator  Eiweiß-Eigelb-Filter-Separator  Küchen-Kochgerät-Sieb-Werkzeug  Others  amarillo  medium'
+slug: 'B083L7NFRT-es Queta Ei-Separator Eiweiß-Eigelb-Filter-Separator Küchen-...'
+tags: 
 actualPrice: 7.85 EUR
 currency: EUR
 price: 7.85

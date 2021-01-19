@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318bfBifMEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLSTF5Z-es American Tourister Urban Groove - Bolsa de Viaje  50 cm  36.5 L  Azul  Blue '
+slug: 'B07DLSTF5Z-es American Tourister Urban Groove - Bolsa de Viaje 50 cm...'
+tags: 
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

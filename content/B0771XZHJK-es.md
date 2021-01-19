@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sYGvlmEZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771XZHJK-es Art TIBIDABO  Zapatillas para Hombre  Marrón  Brown   42 EU'
+slug: 'B0771XZHJK-es Art TIBIDABO Zapatillas para Hombre Marrón Brown 42 EU'
+tags: 
 actualPrice: 54.34 EUR
 currency: EUR
 price: 54.34

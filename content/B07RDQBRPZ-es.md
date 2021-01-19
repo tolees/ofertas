@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G5OXk5EXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDQBRPZ-es adidas Altarun CF K  Zapatillas de Running Unisex Niños  Multicolor  Legend Ink/Blue/Active Orange G27235   32 EU'
+slug: 'B07RDQBRPZ-es adidas Altarun CF K Zapatillas de Running Unisex Niños...'
+tags: 
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

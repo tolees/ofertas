@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TbsaOqN1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NSPD79A-es Fellowes Metal 25 - Encuadernadora manual de espiral metálico  uso ocasional'
+slug: 'B00NSPD79A-es Fellowes Metal 25 - Encuadernadora manual de espiral...'
+tags: 
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

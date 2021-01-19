@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cjTs5iquL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3N1ZJG-es Tommy Hilfiger Tommy Sporty Runner  Zapatillas para Mujer  Beige  Stone Aep   40 EU'
+slug: 'B07V3N1ZJG-es Tommy Hilfiger Tommy Sporty Runner Zapatillas para Mujer...'
+tags: 
 actualPrice: 59.44 EUR
 currency: EUR
 price: 59.44

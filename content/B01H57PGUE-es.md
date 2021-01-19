@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511r6EgKrrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H57PGUE-es Timewanderer - Guirnalda de luces LED decorativas  funciona con pilas  5 m  50 estrellas   color blanco cálido'
+slug: 'B01H57PGUE-es Timewanderer - Guirnalda de luces LED decorativas funciona...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u1dSgvx7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDVDVKL-es Martina D Antiochia  La Diversión de Martina  Grey-Riñonera Waist'
+slug: 'B07XDVDVKL-es Martina D Antiochia La Diversión de Martina Grey-Riñonera...'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

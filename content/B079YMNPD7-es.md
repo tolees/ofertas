@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rUfpxmNEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YMNPD7-es Funko Pop!- Pop Marvel: Spider-Man Miles Morales Figura de Vinilo  Multicolor  30680 '
+slug: 'B079YMNPD7-es Funko Pop!- Pop Marvel: Spider-Man Miles Morales Figura de...'
+tags: 
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

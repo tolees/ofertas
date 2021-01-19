@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TQJYYIA-es Eylure Naturals pestañas falsas Número 031'
+tags: 
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

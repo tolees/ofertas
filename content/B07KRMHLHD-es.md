@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zt2UwPMhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRMHLHD-es New Balance Wsx90tv1  Zapatillas para Mujer  Azul  Blue Blue   39 EU'
+slug: 'B07KRMHLHD-es New Balance Wsx90tv1 Zapatillas para Mujer Azul Blue Blue...'
+tags: 
 actualPrice: 26.68 EUR
 currency: EUR
 price: 26.68

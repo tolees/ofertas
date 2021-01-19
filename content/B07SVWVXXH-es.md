@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IM3zo-XUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVWVXXH-es FITTOO Pantalones Cortos Capris 3/4 Leggings Mujer Mallas de Yoga Alta Cintura Elásticos y Transpirables #3 Rojo XL'
+slug: 'B07SVWVXXH-es FITTOO Pantalones Cortos Capris 3/4 Leggings Mujer Mallas...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

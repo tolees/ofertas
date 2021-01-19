@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+US92dwpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2QDWDC-es L Oréal Paris Total Cover  Base Maquillaje Cobertura Total  Tono de Piel Medio 20 Sable Sand - 35 gr'
+slug: 'B01N2QDWDC-es L Oréal Paris Total Cover Base Maquillaje Cobertura Total...'
+tags: 
 actualPrice: 9.07 EUR
 currency: EUR
 price: 9.07

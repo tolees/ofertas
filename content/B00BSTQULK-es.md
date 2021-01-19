@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m1ZNJuJtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BSTQULK-es Lotus Reloj Analógico para Niñas de Cuarzo con Correa en Acero Inoxidable 15833/2'
+slug: 'B00BSTQULK-es Lotus Reloj Analógico para Niñas de Cuarzo con Correa en...'
+tags: 
 actualPrice: 45.85 EUR
 currency: EUR
 price: 45.85

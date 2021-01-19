@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q8JeN1jhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTX62QW-es adidas Duramo 9 C  Zapatillas de Running Unisex Niños  Negro  Core Black/FTWR White/Core Black Core Black/FTWR White/Core Black   28 EU'
+slug: 'B07KTX62QW-es adidas Duramo 9 C Zapatillas de Running Unisex Niños Negro...'
+tags: 
 actualPrice: 24.01 EUR
 currency: EUR
 price: 24.01

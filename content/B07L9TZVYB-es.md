@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/310l%2ByvxtsL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9TZVYB-es Lacoste Carnaby EVO 319 1 SMA  Zapatillas para Hombre  Azul  Nvy/Dk Red 5a5   42.5 EU'
+slug: 'B07L9TZVYB-es Lacoste Carnaby EVO 319 1 SMA Zapatillas para Hombre Azul...'
+tags: 
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

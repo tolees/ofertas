@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hv73xLgAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWSG37R-es DoMyfit Organizador de Asiento de Coche para bebé  Accesorios de Remolque  Asiento de Niños  Bolsa de Almacenamiento para Colgar  Mushroom '
+slug: 'B07DWSG37R-es DoMyfit Organizador de Asiento de Coche para bebé...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

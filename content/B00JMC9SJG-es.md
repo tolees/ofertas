@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61H8Fo0OpEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JMC9SJG-es Plant Theatre Adirondack - Silla Plegable  Madera Noble'
+slug: 'B00JMC9SJG-es Plant Theatre Adirondack - Silla Plegable Madera Noble'
+tags: 
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

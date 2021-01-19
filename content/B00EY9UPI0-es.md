@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oPnHAmhFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EY9UPI0-es Rimmel London Stay Matte Base de Maquillaje Tono 200 Soft Beige - 30 ml'
+slug: 'B00EY9UPI0-es Rimmel London Stay Matte Base de Maquillaje Tono 200 Soft...'
+tags: 
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

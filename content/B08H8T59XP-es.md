@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HgPdWK3vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H8T59XP-es MoreCro 5 Piezas Botellas de Viaje Portátiles de 50ml con 2 Embudos  Contenedores Vacíos de Desinfectante de Manos con Mosquetón de Gancho  Clip para Cinturón  Plástico  Color de Gancho Aleatorio '
+slug: 'B08H8T59XP-es MoreCro 5 Piezas Botellas de Viaje Portátiles de 50ml con...'
+tags: 
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

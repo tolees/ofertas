@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51T2mgUJ7tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07352STTT-es Tenscare Sports Tens 2+ Paquete de 12 Electrodos - Dispositivo de electroestimulación con Masaje  TENS  EMS y programas manuales. Para alivio del dolor  tonificación y relajación muscular.'
+slug: 'B07352STTT-es Tenscare Sports Tens 2+ Paquete de 12 Electrodos -...'
+tags: 
 actualPrice: 77.6 EUR
 currency: EUR
 price: 77.6

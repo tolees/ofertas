@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mWLUnRmKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XNMZ9B9-es Garmin VivoSmart 3 - Monitor de actividad inteligente con sensor de frecuencia cardiaca en la muñeca y herramientas de fitness  Negro  L'
+slug: 'B06XNMZ9B9-es Garmin VivoSmart 3 - Monitor de actividad inteligente con...'
+tags: 
 actualPrice: 31.25 EUR
 currency: EUR
 price: 31.25

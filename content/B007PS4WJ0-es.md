@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hLyrpoYML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007PS4WJ0-es Taurus Babel - Ventilador de torre sin control remoto  3 velocidades  45W  color gris'
+slug: 'B007PS4WJ0-es Taurus Babel - Ventilador de torre sin control remoto 3...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

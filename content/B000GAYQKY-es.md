@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5132AELj1CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GAYQKY-es Reloj CASIO G-SHOCK DW-5600E-1V Cronógrafo  Alarma  Cuenta regresiva  Sumergible 20BAR-Correa de caucho negra'
+slug: 'B000GAYQKY-es Reloj CASIO G-SHOCK DW-5600E-1V Cronógrafo Alarma Cuenta...'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

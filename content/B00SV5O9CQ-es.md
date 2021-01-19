@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51j--i-k%2BUL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SV5O9CQ-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero SPC155P1'
+slug: 'B00SV5O9CQ-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 159 EUR
 currency: EUR
 price: 159

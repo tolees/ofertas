@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413ANzsuvwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005NJODRE-es Waterman Expert pluma estilográfica  acero inoxidable con adorno de oro de 23 quilates  plumín fino con cartucho de tinta azul  estuche de regalo'
+slug: 'B005NJODRE-es Waterman Expert pluma estilográfica acero inoxidable con...'
+tags: 
 actualPrice: 100.15 EUR
 currency: EUR
 price: 100.15

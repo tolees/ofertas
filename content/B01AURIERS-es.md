@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IK9SyXuYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AURIERS-es Olympus Pen-F Kit  Cámara de Sistema Micro Cuatro Tercios  20 MP  Estabilizador de Imagen de 5 Ejes  Visor Electrónico  + Objetivo M.Zuiko 17mm  Distancia Focal Fija Rápida  Plata/Negro'
+slug: 'B01AURIERS-es Olympus Pen-F Kit Cámara de Sistema Micro Cuatro Tercios...'
+tags: 
 actualPrice: 470.0 EUR
 currency: EUR
 price: 470.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cbjzbcFGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBZ4D7H-es Sábana encimera  colcha de belleza  sábanas lavables  colcha de tratamiento SPA con tratamiento de belleza para salón de belleza con rayas de algodón suave'
+slug: 'B07WBZ4D7H-es Sábana encimera colcha de belleza sábanas lavables colcha...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

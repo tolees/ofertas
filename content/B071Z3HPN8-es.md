@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UBkD5N4lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071Z3HPN8-es Asics B756Y 1990  Zapatillas de Deporte Unisex Adulto  Blanco  White   40.5 EU'
+slug: 'B071Z3HPN8-es Asics B756Y 1990 Zapatillas de Deporte Unisex Adulto...'
+tags: 
 actualPrice: 30.79 EUR
 currency: EUR
 price: 30.79

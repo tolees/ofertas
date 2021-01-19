@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yR2CxlN8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TPY5A52-es Nuggela & Sulé champú premium con extracto de cebolla - 250 ml.'
+slug: 'B00TPY5A52-es Nuggela & Sulé champú premium con extracto de cebolla -...'
+tags: 
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311C7Wr6phL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J2VTXUU-es Ever-Pretty A-línea Vestito de Gala Cuello en V Manga Corta Gasa Corte Imperio para Mujer Verde Oscuro 46'
+slug: 'B01J2VTXUU-es Ever-Pretty A-línea Vestito de Gala Cuello en V Manga...'
+tags: 
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

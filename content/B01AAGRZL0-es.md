@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EohsUp+qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AAGRZL0-es Hercules - HERCULES P32 DJ - Controlador DJ - PC / Mac - Dos decks con interfaz de audio integrada y 32 pads para hacer mezclas creativas'
+slug: 'B01AAGRZL0-es Hercules - HERCULES P32 DJ - Controlador DJ - PC / Mac -...'
+tags: 
 actualPrice: 169.93 EUR
 currency: EUR
 price: 169.93

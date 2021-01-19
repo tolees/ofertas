@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eMwkmey-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XB5HPH5-es Relojes Hombre Relojes de Pulsera Marea Cronometro Impermeable Fecha Calendario Analogicos Cuarzo Relojes de Hombre'
+slug: 'B07XB5HPH5-es Relojes Hombre Relojes de Pulsera Marea Cronometro...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kA72BWV4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YTC914H-es Cortapelo Profesional Hombre Máquina Afeitar Barba Recargable Inalámbrica con Peines 4-24 mm/Derecha/Izquierda Para Usar en el Hogar y la Peluquería ELEHOT'
+slug: 'B07YTC914H-es Cortapelo Profesional Hombre Máquina Afeitar Barba...'
+tags: 
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

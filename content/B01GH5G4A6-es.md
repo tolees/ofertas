@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FzXe3qGPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GH5G4A6-es Under Armour Tech Polo  Hombre  Azul  Royal/Graphite 400   L'
+slug: 'B01GH5G4A6-es Under Armour Tech Polo Hombre Azul Royal/Graphite 400 L'
+tags: 
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

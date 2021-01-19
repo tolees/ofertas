@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/314qdeRIGqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFGCFQ3-es Lacoste HH9553 Pantalones  Beige  Viennois   W30  Talla del Fabricante: 40/34  para Hombre'
+slug: 'B07JFGCFQ3-es Lacoste HH9553 Pantalones Beige Viennois W30 Talla del...'
+tags: 
 actualPrice: 27.04 EUR
 currency: EUR
 price: 27.04

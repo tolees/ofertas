@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LdX5nid1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LB7QDY6-es Adidas Terrex EASTRAIL GTX  Zapatillas de Deporte para Hombre  Multicolor  Gricua/Negbás/Gritre 000   49 1/3 EU'
+slug: 'B07LB7QDY6-es Adidas Terrex EASTRAIL GTX Zapatillas de Deporte para...'
+tags: 
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

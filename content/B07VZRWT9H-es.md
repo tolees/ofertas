@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419ZnZAIkcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZRWT9H-es Skechers Solar Fuse Cosmic View  Zapatillas para Mujer  Rosa Claro Malla Rosa Claro Borde Rosa Ltpk  41 EU'
+slug: 'B07VZRWT9H-es Skechers Solar Fuse Cosmic View Zapatillas para Mujer Rosa...'
+tags: 
 actualPrice: 42.42 EUR
 currency: EUR
 price: 42.42

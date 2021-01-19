@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AtaIt1rOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004W7GYGQ-es Duracell Plus Power 6LR61/MN1604  Batería alcalina  Transistor  9V'
+slug: 'B004W7GYGQ-es Duracell Plus Power 6LR61/MN1604 Batería alcalina...'
+tags: 
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

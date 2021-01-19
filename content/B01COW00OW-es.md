@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xtXla5COL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01COW00OW-es A Little Lovely Company LTPP010 - Lámpara en forma de pera  color rosa'
+slug: 'B01COW00OW-es A Little Lovely Company LTPP010 - Lámpara en forma de pera...'
+tags: 
 actualPrice: 4.67 EUR
 currency: EUR
 price: 4.67

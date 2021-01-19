@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cMVXywzDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KDDP7Y-es Senderismo y acampada Chubasquero  Vaxiuja Impermeable De Camuflaje  Poncho Camouflage  Ponchos impermeables  para Caza pesca Chubasquero'
+slug: 'B072KDDP7Y-es Senderismo y acampada Chubasquero Vaxiuja Impermeable De...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

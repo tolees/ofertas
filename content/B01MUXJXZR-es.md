@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kEO1-j19L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUXJXZR-es Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable SGEH68P1'
+slug: 'B01MUXJXZR-es Seiko Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 119.66 EUR
 currency: EUR
 price: 119.66

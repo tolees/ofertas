@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fB+WENhIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCM28HJ-es L Oréal Paris Barra de labios líquida Infalible Lip Paint Mate tono 205'
+slug: 'B01NCM28HJ-es L Oréal Paris Barra de labios líquida Infalible Lip Paint...'
+tags: 
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

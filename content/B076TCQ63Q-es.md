@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xHnbWt+vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076TCQ63Q-es My Lovely Bed - Edredón Nórdico 4 Estaciones - 220x240 cm - Para cama de 150/160 - 3 en 1 - Cálido en invierno/Fresco en verano - Relleno Fibra Hueca : Mullida y Respirable - Funda 100% Microfibra - Para cama de 150/160'
+slug: 'B076TCQ63Q-es My Lovely Bed - Edredón Nórdico 4 Estaciones - 220x240 cm...'
+tags: 
 actualPrice: 54.59 EUR
 currency: EUR
 price: 54.59

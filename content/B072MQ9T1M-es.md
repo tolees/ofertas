@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rnNTKGvyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MQ9T1M-es ASUS VZ27VQ - Monitor  27 pulgadas  Full HD  Eye Care  Curvo  Antiparpadeo  filtro de luz azul   Negro'
+slug: 'B072MQ9T1M-es ASUS VZ27VQ - Monitor 27 pulgadas Full HD Eye Care Curvo...'
+tags: 
 actualPrice: 221.66 EUR
 currency: EUR
 price: 221.66

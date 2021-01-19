@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51FPrn6KXyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HKY4M7-es find. MDR 40621 vestidos mujer  Rojo  Red   38  Talla del fabricante: Small '
+slug: 'B077HKY4M7-es find. MDR 40621 vestidos mujer Rojo Red 38 Talla del...'
+tags: 
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

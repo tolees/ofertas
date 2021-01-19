@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fpGg4I4JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXT7CCS-es Sinis Hispania - Polen Natural de Abeja - Pack 2 unidades  460g  - Bote de vidrio - Cosechado a mano - Origen Unión Europea'
+slug: 'B07KXT7CCS-es Sinis Hispania - Polen Natural de Abeja - Pack 2 unidades...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

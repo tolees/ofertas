@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h4TpV89iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDL8PSZ-es Bourjois Volume Reveal Máscara de pestañas Tono 31 Black - 40 gr.'
+slug: 'B06XDL8PSZ-es Bourjois Volume Reveal Máscara de pestañas Tono 31 Black -...'
+tags: 
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

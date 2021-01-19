@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MFED5jvtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082B6TTYG-es 90ml Original Mujer Quicksand Perfume Fragancia De Flores Perfume Líquido Mujer Fragancia De Larga Duración Quicksand Decor Eternity'
+slug: 'B082B6TTYG-es 90ml Original Mujer Quicksand Perfume Fragancia De Flores...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

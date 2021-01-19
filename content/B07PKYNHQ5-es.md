@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412jQFVYrkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKYNHQ5-es New Balance Fresh Foam Trail Roav  Zapatillas de Running para Asfalto para Mujer  Negro  Black/White Black/White   42.5 EU'
+slug: 'B07PKYNHQ5-es New Balance Fresh Foam Trail Roav Zapatillas de Running...'
+tags: 
 actualPrice: 28.73 EUR
 currency: EUR
 price: 28.73

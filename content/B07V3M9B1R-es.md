@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417vAC7ujwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3M9B1R-es Kipling ONALO Bolsa de Viaje  45 cm  18 Liters  Azul  Laser Blue '
+slug: 'B07V3M9B1R-es Kipling ONALO Bolsa de Viaje 45 cm 18 Liters Azul Laser Blue'
+tags: 
 actualPrice: 27.11 EUR
 currency: EUR
 price: 27.11

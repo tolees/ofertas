@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SVPLFBLGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFYLQ1C-es La Toja Selection - Gel esencia de Moringa y aceite de Macadamia- 4 unidades de 550 ml  Total: 2200 ml '
+slug: 'B07SFYLQ1C-es La Toja Selection - Gel esencia de Moringa y aceite de...'
+tags: 
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DYjxIi-vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8M8JN6-es SaponinTree Humidificador Aromaterapia Ultrasónico  100ml Portátil Difusor de Aceites Esenciales  7 Color Luz Cambiado  Auto-Apagado  para Hogar  Oficina  Bebé  Dormitorio  Bebé etc'
+slug: 'B07V8M8JN6-es SaponinTree Humidificador Aromaterapia Ultrasónico 100ml...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

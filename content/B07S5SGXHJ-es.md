@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JvuKjDonL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5SGXHJ-es Love MoschinoJc4094pp1aMujerBolsos bandoleraBeige  Naturale 9x19x26 centimeters  W x H x L '
+slug: 'B07S5SGXHJ-es Love MoschinoJc4094pp1aMujerBolsos bandoleraBeige Naturale...'
+tags: 
 actualPrice: 108.83 EUR
 currency: EUR
 price: 108.83

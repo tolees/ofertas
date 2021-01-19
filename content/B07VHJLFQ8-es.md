@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHJLFQ8-es OVERPASS Day One Edition para XB1 [Versión Española]'
+tags: 
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

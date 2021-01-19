@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IfW8TrRmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z65NCDS-es Montse Interiors Funda nórdica Estampada Cuadros de Colores  Neil  para Cama de 90x190/200  Nórdico de 150  '
+slug: 'B07Z65NCDS-es Montse Interiors Funda nórdica Estampada Cuadros de...'
+tags: 
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

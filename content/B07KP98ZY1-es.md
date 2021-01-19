@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31f62Pbzk2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP98ZY1-es HongHu Vocaloid MIKU Peluca larga y recta con lado Doble peluca de cola de caballo Anime Cosplay Pelucas de fiesta de pelo completo Destaque de gradiente Azul marino'
+slug: 'B07KP98ZY1-es HongHu Vocaloid MIKU Peluca larga y recta con lado Doble...'
+tags: 
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

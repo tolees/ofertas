@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bKmnjd6OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H95JSTD-es TUXWANG 3in1 Kit de Costura Ganchillos Agujas de Ganchillo Ganchillos Crochet Juego de 278 Unidades Accesorios para Madre  Principiante  Profesional  hogar y Viaje.'
+slug: 'B07H95JSTD-es TUXWANG 3in1 Kit de Costura Ganchillos Agujas de Ganchillo...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MT4a-yLlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYFXM02-es Babyline Toile - Saco de silla de paseo  color azul'
+slug: 'B01LYFXM02-es Babyline Toile - Saco de silla de paseo color azul'
+tags: 
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

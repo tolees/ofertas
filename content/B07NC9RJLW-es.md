@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316Bb9-UatL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC9RJLW-es Pepe Jeans Stanley Pantalones  Azul  Blueing 565   W34/L32 para Hombre'
+slug: 'B07NC9RJLW-es Pepe Jeans Stanley Pantalones Azul Blueing 565 W34/L32...'
+tags: 
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

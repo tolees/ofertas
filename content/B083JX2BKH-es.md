@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mPUiP8-qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083JX2BKH-es BLCPRO Repelente Ultrasónico de Plagas 2020 Repelente Ultrasónico Mosquitos con Conversión Automática de Frecuencia para Ratas y Ratones  Cucarachas  Insectos  Hormigas  Pulgas  Moscas [No Tóxico]'
+slug: 'B083JX2BKH-es BLCPRO Repelente Ultrasónico de Plagas 2020 Repelente...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

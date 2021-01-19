@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ha7owAgDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077C3GRM7-es Air Wick Spray V.I. Poo Perfume Anti Olor  Fragrancia Lemon Idol 55 ml - Paquete de 3 unidades'
+slug: 'B077C3GRM7-es Air Wick Spray V.I. Poo Perfume Anti Olor Fragrancia Lemon...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-5bXxbW9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4C7MQZ-es HAMSWAN Espejo de Maquillaje  [Regalos] Espejo de Mesa Tríptico con Aumentos 10X  3X  2X y 1X  Espejo Cosmético Pantalla Táctil en Iluminacíon 21 Led  Carga con USB o Batería  Adjustable 180º'
+slug: 'B07V4C7MQZ-es HAMSWAN Espejo de Maquillaje [Regalos] Espejo de Mesa...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

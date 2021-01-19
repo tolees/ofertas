@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416Nl48ncuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZKB21-es PUMA LQDCELL Shatter XT Shift Wn s  Zapatillas Deportivas para Interior para Mujer  Black-Yellow Alert  40.5 EU'
+slug: 'B07KFZKB21-es PUMA LQDCELL Shatter XT Shift Wn s Zapatillas Deportivas...'
+tags: 
 actualPrice: 49.78 EUR
 currency: EUR
 price: 49.78

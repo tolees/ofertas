@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bzelMQVEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0158G1XQK-es Cluse Reloj Analógico Automático para Mujer con Correa de Cuero – CL30004'
+slug: 'B0158G1XQK-es Cluse Reloj Analógico Automático para Mujer con Correa de...'
+tags: 
 actualPrice: 37.65 EUR
 currency: EUR
 price: 37.65

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ABUWIvyRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1GX5GL-es Agenda 2020 con Vista Semanal – Planificador 2020 Semana Vista – Diario Espiral que Inspira Productividad - Tapa Blanda  Intervalos de 30 minutos - Calendario Semanal A4 – 21 x 28cm  en Español'
+slug: 'B07S1GX5GL-es Agenda 2020 con Vista Semanal – Planificador 2020 Semana...'
+tags: 
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

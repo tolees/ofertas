@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411-Qd8AhOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZWF0NKU-es Muvit MUCHL0052 Coche - Soporte  Teléfono móvil/Smartphone  Coche  Soporte pasivo  Negro  230 g '
+slug: 'B00ZWF0NKU-es Muvit MUCHL0052 Coche - Soporte Teléfono móvil/Smartphone...'
+tags: 
 actualPrice: 8.56 EUR
 currency: EUR
 price: 8.56

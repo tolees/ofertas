@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lrdU2sbtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TY22BT7-es Skechers Bounder Verkona  Zapatillas para Hombre  Rojo  Burgundy Mesh/Black Synthetic/Trim Bubk   41 EU'
+slug: 'B07TY22BT7-es Skechers Bounder Verkona Zapatillas para Hombre Rojo...'
+tags: 
 actualPrice: 29.36 EUR
 currency: EUR
 price: 29.36

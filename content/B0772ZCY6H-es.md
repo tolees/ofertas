@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4137sGst%2B-L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772ZCY6H-es Columbia Canyon Point  Zapatillas de Senderismo para Hombre  Negro  Black  Mountain Red   40 EU'
+slug: 'B0772ZCY6H-es Columbia Canyon Point Zapatillas de Senderismo para Hombre...'
+tags: 
 actualPrice: 53.89 EUR
 currency: EUR
 price: 53.89

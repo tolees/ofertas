@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lgxMpBaJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZDK5SD-es The North Face Piqué Polo de Manga Corta  Hombre  Azul  Urban Navy   S'
+slug: 'B01MZDK5SD-es The North Face Piqué Polo de Manga Corta Hombre Azul Urban...'
+tags: 
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bT0cWH5ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVNRPY1-es Bolsas Vacio Ropa Bolsas de Almacenaje al Vacío Bolsas Envasar al Vacio Bolsa de vacío Ahorra Espacio  40x60 3ud  60x80 3ud  para Guardar Ropa  Ropa de Cama Almohadas de viaje  Mantas incluyen bomba'
+slug: 'B07VVNRPY1-es Bolsas Vacio Ropa Bolsas de Almacenaje al Vacío Bolsas...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

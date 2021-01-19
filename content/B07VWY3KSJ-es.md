@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qXXwDQQuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWY3KSJ-es Fairy Tail & Glitzer Fee - Granulado de arena decorativa  620 g  para rellenar vasos  jarrones o cuencos  colores rosa  rojo  azul  verde y negro  rosa'
+slug: 'B07VWY3KSJ-es Fairy Tail & Glitzer Fee - Granulado de arena decorativa...'
+tags: 
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

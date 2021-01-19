@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61Qo7QP3cqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4D9JSV-es Huasiru Pintura Caso Funda para Amazon Kindle 8th generación  2016 lanzado  con Auto Despertar/Dormir [no Apto para Kindle Paperwhite]  Navegar'
+slug: 'B07D4D9JSV-es Huasiru Pintura Caso Funda para Amazon Kindle 8th...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

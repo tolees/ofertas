@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eMD45DukL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSM33W9-es Qishare 2 Pares de Calcetines Antideslizantes para Hombres y Mujeres  Ideales para Yoga  Hospital para Ancianos  Pilates  Embarazo de Maternidad  Barra  trampolín  Zumba  Tai chi y hogar  M '
+slug: 'B07VSM33W9-es Qishare 2 Pares de Calcetines Antideslizantes para Hombres...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

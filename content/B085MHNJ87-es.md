@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MBWKj58VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085MHNJ87-es Funda Xiaomi Redmi Note 8T Carcasa Ultra Fina Shockproof Mármol Vidrio Templado Anti-Scratch Protectora Cover Funda para Xiaomi Redmi Note 8T Negro'
+slug: 'B085MHNJ87-es Funda Xiaomi Redmi Note 8T Carcasa Ultra Fina Shockproof...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

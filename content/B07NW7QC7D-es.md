@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eBKilyXsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW7QC7D-es Skechers Flex Appeal 3.0-insiders  Zapatillas para Mujer  Verde  Navy Mesh/Coral Trim Old   2.5 EU'
+slug: 'B07NW7QC7D-es Skechers Flex Appeal 3.0-insiders Zapatillas para Mujer...'
+tags: 
 actualPrice: 33.36 EUR
 currency: EUR
 price: 33.36

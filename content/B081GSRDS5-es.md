@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51P-JP5Q0dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081GSRDS5-es VaKo Hub USB C a HDMI 12 En 1 Pantalla Triple Adaptador Dual 4K-HDMI  VGA Type C PD  4 USB Ports  Gigablit Ethernet RJ45  Lector de Tarjetas SD/TF portátil USB Type-C para Macbook  iMac y más'
+slug: 'B081GSRDS5-es VaKo Hub USB C a HDMI 12 En 1 Pantalla Triple Adaptador...'
+tags: 
 actualPrice: 63.34 EUR
 currency: EUR
 price: 63.34

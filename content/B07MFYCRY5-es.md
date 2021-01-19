@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417K6UJNKJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFYCRY5-es Atletico Madrid FC - Figura SoccerStarz de Lemar  5cm   Multicolor '
+slug: 'B07MFYCRY5-es Atletico Madrid FC - Figura SoccerStarz de Lemar 5cm...'
+tags: 
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

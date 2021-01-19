@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51HMHc6ghTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0098UVBX8-es Metaltex Golf - Soporte 4 tapaderas  Banderas o Tablas  Color Gris'
+slug: 'B0098UVBX8-es Metaltex Golf - Soporte 4 tapaderas Banderas o Tablas...'
+tags: 
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

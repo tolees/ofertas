@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41j2z8KBvtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVLMZ8R-es New Balance Fresh Foam Roav  Zapatillas de Running para Mujer  Gris  Light Aluminum Light Aluminum   36.5 EU'
+slug: 'B07DVLMZ8R-es New Balance Fresh Foam Roav Zapatillas de Running para...'
+tags: 
 actualPrice: 45 EUR
 currency: EUR
 price: 45

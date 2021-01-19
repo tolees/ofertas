@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BJr5zMdGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNZ7VFZ-es ERAY Luz Solar Exterior  Lámpara Solar 100 Leds con Sensor de Movimiento  Panel Solar Separado/ 700 Lúmenes/ IP44 Impermeable/ 2200mAh Batería Recargable  Luz de Seguridad para Jardín  Patio  Camino'
+slug: 'B07FNZ7VFZ-es ERAY Luz Solar Exterior Lámpara Solar 100 Leds con Sensor...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

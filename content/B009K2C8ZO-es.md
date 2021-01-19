@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MY8oVujqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009K2C8ZO-es Fila Reloj analogico para Unisex de Cuarzo con Correa en Caucho FA-1023-60'
+slug: 'B009K2C8ZO-es Fila Reloj analogico para Unisex de Cuarzo con Correa en...'
+tags: 
 actualPrice: 14.54 EUR
 currency: EUR
 price: 14.54

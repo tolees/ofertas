@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51j-E0NfQFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHW3C13-es Pistola Aire Caliente 2000W Tilswall  Decapador Profesional 50-600 ℃ con 12 Modo de Ajustes de Temperatura  Pantalla LED  4 Ugelli con Raschietto  Nucleo di Riscaldamento in Ceramica'
+slug: 'B07WHW3C13-es Pistola Aire Caliente 2000W Tilswall Decapador Profesional...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

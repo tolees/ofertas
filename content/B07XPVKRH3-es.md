@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z6CJXH1jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XPVKRH3-es Zapatillas de espinilleras de fútbol para Profesionales Titular de Calzado Deportivo Calzado de Nailon Transpirable Fundas de Bloqueo para Guardias de fútbol Shin - Negro'
+slug: 'B07XPVKRH3-es Zapatillas de espinilleras de fútbol para Profesionales...'
+tags: 
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

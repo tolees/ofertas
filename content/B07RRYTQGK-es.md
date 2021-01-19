@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312zRyUgEFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RRYTQGK-es HP Color Laser 150a - Impresora láser  18 ppm/4 ppm  Bandeja de Salida de 50 Hojas  LED  USB 2.0 de Alta Velocidad   Blanco'
+slug: 'B07RRYTQGK-es HP Color Laser 150a - Impresora láser 18 ppm/4 ppm Bandeja...'
+tags: 
 actualPrice: 121.9 EUR
 currency: EUR
 price: 121.9

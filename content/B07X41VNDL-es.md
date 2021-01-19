@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ojNddUaXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X41VNDL-es Munchkin Set De Alimentación Para Niños Grandes Food Adventure Splash  Morado 1 unidad 540 g'
+slug: 'B07X41VNDL-es Munchkin Set De Alimentación Para Niños Grandes Food...'
+tags: 
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

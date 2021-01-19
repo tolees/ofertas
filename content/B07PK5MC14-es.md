@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51m3vJ-Q-nL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PK5MC14-es Bananas- Megabananas  Multicolor  Bandai BB00778 '
+slug: 'B07PK5MC14-es Bananas- Megabananas Multicolor Bandai BB00778'
+tags: 
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

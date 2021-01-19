@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MpiEF-L2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY6DYHM-es Vans Ward Hi Mujer  Zapatillas Altas  Negro  Canvas  Black/White 187  36 EU'
+slug: 'B07FY6DYHM-es Vans Ward Hi Mujer Zapatillas Altas Negro Canvas...'
+tags: 
 actualPrice: 53.89 EUR
 currency: EUR
 price: 53.89

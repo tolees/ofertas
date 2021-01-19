@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S2fJfZ1lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGN86YP-es Báscula Digital para Equipaje  Buluri Bascula Maletas Báscula Electrónica Portátil para Maletas Equipaje LCD Balanza Báscula 110 lb/50 kg con Función de Tara Balanza Báscula Dinamometro Equipaje'
+slug: 'B07DGN86YP-es Báscula Digital para Equipaje Buluri Bascula Maletas...'
+tags: 
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

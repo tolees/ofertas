@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aOmNKNsnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKG4SJW-es MILAN Portatodo Mini Net&Lit Rosa Estuches  20 cm  Rosa'
+slug: 'B07RKG4SJW-es MILAN Portatodo Mini Net&Lit Rosa Estuches 20 cm Rosa'
+tags: 
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pJlacKVyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HY6Y1F4-es Cecotec Robot Aspirador Conga Serie 899. 800 Pa  Navegación Inteligente iTech Easy  Aspira  Barre  Friega y Pasa la Mopa  5 Modos  120min Autonomía  Programable'
+slug: 'B07HY6Y1F4-es Cecotec Robot Aspirador Conga Serie 899. 800 Pa Navegación...'
+tags: 
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

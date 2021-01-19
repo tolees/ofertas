@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dtArv4B6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGCDKZB-es Mr. Tronic 305m Cable de Instalación Red Ethernet Bobina | CAT6  AWG24  CCA  UTP  305 Metros  Gris '
+slug: 'B07LGCDKZB-es Mr. Tronic 305m Cable de Instalación Red Ethernet Bobina |...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

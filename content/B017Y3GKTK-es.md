@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lazX0CaAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017Y3GKTK-es Dewalt DWE492S-QS Amoladora 230 mm 2.200W 6.500 rpm Arranque suave  2200 W'
+slug: 'B017Y3GKTK-es Dewalt DWE492S-QS Amoladora 230 mm 2.200W 6.500 rpm...'
+tags: 
 actualPrice: 107.61 EUR
 currency: EUR
 price: 107.61

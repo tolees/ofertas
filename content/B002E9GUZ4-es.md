@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SH-T84pkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002E9GUZ4-es Winsor & Newton- Winton Set de 10 Tubos de 37 ml de óleo  Multicolor  Colart 1490619 '
+slug: 'B002E9GUZ4-es Winsor & Newton- Winton Set de 10 Tubos de 37 ml de óleo...'
+tags: 
 actualPrice: 30.4 EUR
 currency: EUR
 price: 30.4

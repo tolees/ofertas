@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qfUFUfYlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4RVD52-es Calvin Klein - Neat Hobo Md  Shoppers y bolsos de hombro Mujer  Negro  Black   1x1x1 cm  W x H L '
+slug: 'B07V4RVD52-es Calvin Klein - Neat Hobo Md Shoppers y bolsos de hombro...'
+tags: 
 actualPrice: 67.86 EUR
 currency: EUR
 price: 67.86

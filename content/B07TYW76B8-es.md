@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DdLzax5rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYW76B8-es Lacoste Rc2012 Cinturón  Azul  Legion Blue 725   85  tamaño del fabricante: 100  para Hombre'
+slug: 'B07TYW76B8-es Lacoste Rc2012 Cinturón Azul Legion Blue 725 85 tamaño del...'
+tags: 
 actualPrice: 23.77 EUR
 currency: EUR
 price: 23.77

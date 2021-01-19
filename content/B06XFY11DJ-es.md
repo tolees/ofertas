@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XFY11DJ-es 50 Palos'
+tags: 
 actualPrice: 21.81 EUR
 currency: EUR
 price: 21.81

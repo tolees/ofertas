@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510Y196Np3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDMGRQ4-es Colador de cocina plegable 3PCS Set Cocina Plegable Colador de Silicona 2 Tamaños Colador Plegable  Verde  Rojo  Azul '
+slug: 'B07MDMGRQ4-es Colador de cocina plegable 3PCS Set Cocina Plegable...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

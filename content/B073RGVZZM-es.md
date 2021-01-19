@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nzxBZk9EL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RGVZZM-es Pikolin Home - Edredón/Relleno nórdico de fibra DUO cuatro estaciones 150gr/m²+ 300gr/m²  antiácaros  180x220cm-Cama 100/105  Todas las medidas '
+slug: 'B073RGVZZM-es Pikolin Home - Edredón/Relleno nórdico de fibra DUO cuatro...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

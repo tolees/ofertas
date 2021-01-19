@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51CerDMYBQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJJQ5H4-es Funko Pop! - Super Mario  Cuaderno A5 Espiral Run  Windows '
+slug: 'B07TJJQ5H4-es Funko Pop! - Super Mario Cuaderno A5 Espiral Run Windows'
+tags: 
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

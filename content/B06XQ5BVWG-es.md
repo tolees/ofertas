@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3163PO4qYrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XQ5BVWG-es Fissler SensoRed  Sartén wok con un diámetro de 28 cm  fabricada en aluminio  apta para inducción  antiadherente  Color Rojo'
+slug: 'B06XQ5BVWG-es Fissler SensoRed Sartén wok con un diámetro de 28 cm...'
+tags: 
 actualPrice: 102.04 EUR
 currency: EUR
 price: 102.04

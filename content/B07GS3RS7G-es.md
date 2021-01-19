@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EOpbbKx6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GS3RS7G-es Bourjois Velvet The Lipstick Barra De Labios Tono 018 Mauve-martre - 23 gr'
+slug: 'B07GS3RS7G-es Bourjois Velvet The Lipstick Barra De Labios Tono 018...'
+tags: 
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

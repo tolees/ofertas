@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QuJ6eUOuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHKDL27-es Mpow Auriculares con Cancelación de Ruido Activos con Micrófono  Auriculares Estéreo con Cable  20 Horas Auriculares con Reloj ANC con Modo del Monitor de Conciencia'
+slug: 'B07BHKDL27-es Mpow Auriculares con Cancelación de Ruido Activos con...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

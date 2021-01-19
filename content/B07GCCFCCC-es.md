@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41doyQTVN7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCCFCCC-es Tommee Tippee Juguete transpirable  Betty el Conejo'
+slug: 'B07GCCFCCC-es Tommee Tippee Juguete transpirable Betty el Conejo'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

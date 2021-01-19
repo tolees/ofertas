@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DTTK0sUML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HP5ZN3Z-es Skechers Men s STATUS 2.0 PEXTON Boat Shoes  Grey  Taupe Canvas TPE   7.5  41.5 EU '
+slug: 'B07HP5ZN3Z-es Skechers Men s STATUS 2.0 PEXTON Boat Shoes Grey Taupe...'
+tags: 
 actualPrice: 44.34 EUR
 currency: EUR
 price: 44.34

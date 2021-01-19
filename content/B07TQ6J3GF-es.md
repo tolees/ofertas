@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tVjIL6gmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ6J3GF-es Cocoty-store Pantalones 2019 Pantalones Hombre Verano Hombres Gimnasio Entrenamiento Jogging Pantalones Cortos Fit Elástico Casual Ropa de Deporte  Negro L '
+slug: 'B07TQ6J3GF-es Cocoty-store Pantalones 2019 Pantalones Hombre Verano...'
+tags: 
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

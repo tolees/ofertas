@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PnosBV2KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KBOOS76-es BRA Efficient - Asas de Silicona  2 Unidades  Medida paellera  para Efficient con diámetro de 32-40 cm  Color Naranja'
+slug: 'B00KBOOS76-es BRA Efficient - Asas de Silicona 2 Unidades Medida...'
+tags: 
 actualPrice: 3.46 EUR
 currency: EUR
 price: 3.46

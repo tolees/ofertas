@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fNSFx5ApL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KL1DL2N-es Safety 1st Soft Dreams Cuna de viaje plegable y portatil  ideal para viajar  por bebés y ninos 0 meses - 3 anos  plegado compacto con bolsa de transporte  color Blue'
+slug: 'B07KL1DL2N-es Safety 1st Soft Dreams Cuna de viaje plegable y portatil...'
+tags: 
 actualPrice: 28.34 EUR
 currency: EUR
 price: 28.34

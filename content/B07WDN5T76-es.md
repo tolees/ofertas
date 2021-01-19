@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61mfsxoblzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDN5T76-es Jovego Calcetines de Lana Mujer Suave Cómodo Gruesa de Invierno Calcetines 6 Pares'
+slug: 'B07WDN5T76-es Jovego Calcetines de Lana Mujer Suave Cómodo Gruesa de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

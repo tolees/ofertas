@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519Tc+0zcxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073S4PQ6H-es AMEITECH Organizador del Maquillaje  360 Grados Que Giran la Joyería Ajustable y el Soporte de Exhibición Cosmético  8 Capas Componen la Caja de Almacenaje - Claro Cristalino'
+slug: 'B073S4PQ6H-es AMEITECH Organizador del Maquillaje 360 Grados Que Giran...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

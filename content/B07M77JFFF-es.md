@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OqH4k6c5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M77JFFF-es BANDAI- Severus Snape Figura 12 CM Harry Potter SH FIGUARTS Series  BAS55563 '
+slug: 'B07M77JFFF-es BANDAI- Severus Snape Figura 12 CM Harry Potter SH...'
+tags: 
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

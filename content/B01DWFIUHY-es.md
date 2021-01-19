@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51x3OfctoiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DWFIUHY-es Colgate Fun Smile  Cepillo de Dientes  Surtido: Modelos Aleatorios - Pack de 4 x 2 - Total: 8 Cepillos'
+slug: 'B01DWFIUHY-es Colgate Fun Smile Cepillo de Dientes Surtido: Modelos...'
+tags: 
 actualPrice: 10.6 EUR
 currency: EUR
 price: 10.6

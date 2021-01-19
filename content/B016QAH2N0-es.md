@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21Mc8TWY84L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016QAH2N0-es Transcend JetFlash 710S - Memoria USB 3.0 de 64GB  90 MB/s   color plateado'
+slug: 'B016QAH2N0-es Transcend JetFlash 710S - Memoria USB 3.0 de 64GB 90 MB/s...'
+tags: 
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

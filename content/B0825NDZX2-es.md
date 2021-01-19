@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21ZGP3UGvuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NDZX2-es Quiksilver All Time - Licra De Manga Corta con Protección Solar UPF 50 para Chicos 8-16 S/SL Surf tee  Niños  White  M/12'
+slug: 'B0825NDZX2-es Quiksilver All Time - Licra De Manga Corta con Protección...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

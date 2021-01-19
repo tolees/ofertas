@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LoRxICMOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015YP7CYM-es Beurer BM57 - Tensiometro de brazo con bluetooth  color blanco'
+slug: 'B015YP7CYM-es Beurer BM57 - Tensiometro de brazo con bluetooth color blanco'
+tags: 
 actualPrice: 58.04 EUR
 currency: EUR
 price: 58.04

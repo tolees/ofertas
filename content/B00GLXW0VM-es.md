@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j-U+syCNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GLXW0VM-es Daler Rowney Set Metálico de Viaje de Acuarela Aquafine  con 24 Colores  24 Medio Godets  y Pincel  multicolor  D131900924 '
+slug: 'B00GLXW0VM-es Daler Rowney Set Metálico de Viaje de Acuarela Aquafine...'
+tags: 
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

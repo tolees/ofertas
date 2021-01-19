@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318CQjwAmPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6NKY6P-es Tommy Hilfiger Legging Tanga  Azul  Blue 416   Talla única  Talla del Fabricante: X-Small  para Mujer'
+slug: 'B07N6NKY6P-es Tommy Hilfiger Legging Tanga Azul Blue 416 Talla única...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

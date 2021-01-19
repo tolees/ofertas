@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ReuXiG2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758BL4TY-es NUEVO Dermaroller Kit 3 en 1 Para la Cara y el Cuerpo - Disminuir Cicatrices de Acné  Arrugas y Líneas Finas  Hiperpigmentación  Celulitis & Estrías'
+slug: 'B0758BL4TY-es NUEVO Dermaroller Kit 3 en 1 Para la Cara y el Cuerpo -...'
+tags: 
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

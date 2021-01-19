@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A0yg5XK5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBNZLZB-es Espejo Retrovisor Coche bebé coche espejo para Vigilar al Bebé en el Coche 360° Ajustable Espejo Coche Bebé  para Los Asientos de Niños Orientados Hacia Atrás 300 x 190mm'
+slug: 'B07DBNZLZB-es Espejo Retrovisor Coche bebé coche espejo para Vigilar al...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

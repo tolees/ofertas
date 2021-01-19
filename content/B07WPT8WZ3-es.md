@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tSdnYtCjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WPT8WZ3-es Weehey Báscula de Cocina eléctrica precisa de 5 kg / 1g Báscula de Cocina de Alta precisión Báscula electrónica de Plataforma pequeña Báscula de Alimentos'
+slug: 'B07WPT8WZ3-es Weehey Báscula de Cocina eléctrica precisa de 5 kg / 1g...'
+tags: 
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

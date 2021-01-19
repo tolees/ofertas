@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Cp-s1vbOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6M6NSV-es Columbia Snuggly Bunny Mono de esquí Infantil  Bebé-Niños  Verde  Pine Green Critter Block 364   12-18m'
+slug: 'B07K6M6NSV-es Columbia Snuggly Bunny Mono de esquí Infantil Bebé-Niños...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

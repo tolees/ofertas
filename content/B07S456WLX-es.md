@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iTlMMtNcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S456WLX-es BOSS Trunk 24 Print Calzón para Hombre  Rojo  Small'
+slug: 'B07S456WLX-es BOSS Trunk 24 Print Calzón para Hombre Rojo Small'
+tags: 
 actualPrice: 15.3 EUR
 currency: EUR
 price: 15.3

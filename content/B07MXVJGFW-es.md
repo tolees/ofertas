@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41URggJQObL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXVJGFW-es upHere 300mm Cable con Manguito - Extensión de Cable para Fuente de alimentación con peines para Cable 24 Pin 8PIN 6PIN 4+4 Pin  Verde-SC303'
+slug: 'B07MXVJGFW-es upHere 300mm Cable con Manguito - Extensión de Cable para...'
+tags: 
 actualPrice: 20.16 EUR
 currency: EUR
 price: 20.16

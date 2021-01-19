@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MibauegrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8BPWRC-es DORRISO Linda Sombrero y Bufanda Niño Niña Primavera Otoño Invierno Calentar Pequeña Zorro Gorro Bufanda Sombrero de Niño'
+slug: 'B07H8BPWRC-es DORRISO Linda Sombrero y Bufanda Niño Niña Primavera Otoño...'
+tags: 
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

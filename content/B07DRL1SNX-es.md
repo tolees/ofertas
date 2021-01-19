@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NUgU0ty8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRL1SNX-es Kipling Brush Pouch Neceser  20 cm  0.5 Liters  Gris  Metallic Stony '
+slug: 'B07DRL1SNX-es Kipling Brush Pouch Neceser 20 cm 0.5 Liters Gris Metallic...'
+tags: 
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

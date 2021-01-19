@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NgybAigwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD5ZZ52-es CROSOFMI Estante Ducha Estanteria Baño Esquina a Prueba de Herrumbre para Organizador de Cocina de Baño Acero Inoxidable 304  Triángulo  2 Paquetes '
+slug: 'B07VD5ZZ52-es CROSOFMI Estante Ducha Estanteria Baño Esquina a Prueba de...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

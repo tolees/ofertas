@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aC72UBV2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ETZZNQ-es American Crew Classic Precision Blend Tinte Gel Crema  Castaño Ceniza  - 3 Unidades x 40 ml.'
+slug: 'B003ETZZNQ-es American Crew Classic Precision Blend Tinte Gel Crema...'
+tags: 
 actualPrice: 7.13 EUR
 currency: EUR
 price: 7.13

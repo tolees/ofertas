@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vLuBPED1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K24LL3T-es Doact Corrector de Postura  Corrector de Postura Espalda con Hombreras Blandas y Cinturones Elásticos Ajustables para Niños y Adolescentes Cifosis  Jorobado  L '
+slug: 'B07K24LL3T-es Doact Corrector de Postura Corrector de Postura Espalda...'
+tags: 
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414Pcu+KKbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CYM7QB-es ORITO Bateria Externa 26800mAh Power Bank USB C PD18W & QC3.0 Rápido Cargador Portátil Móvil Gran Capacidad con 3 Entradas y 3 Salidas y Pantalla LCD  para Móviles y Tabletas etc'
+slug: 'B081CYM7QB-es ORITO Bateria Externa 26800mAh Power Bank USB C PD18W &...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

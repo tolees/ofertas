@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yUU55N5UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W72TF4S-es BaByliss 2165CE Plancha de crimpar para crear volumen y textura  placas de cerámica con turmalina de 35 mm  10 temperaturas de 120° a 210°  calentamiento instantáneo  punta de agarre frío'
+slug: 'B07W72TF4S-es BaByliss 2165CE Plancha de crimpar para crear volumen y...'
+tags: 
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tUVcdlU-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5BRRRH-es Paquete de 14 Luces de botella Vansoon Cork en forma 20 Micro LEDs 2M Cadena de luces con destornillador Botella de vino Decoración de cristal Luces de bricolaje para fiesta Cumpleaños  Blanco cálido '
+slug: 'B07P5BRRRH-es Paquete de 14 Luces de botella Vansoon Cork en forma 20...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

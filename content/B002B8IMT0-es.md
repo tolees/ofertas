@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DWmSlXAJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002B8IMT0-es Tommee Tippee Biberones Closer to Nature  150 ml  1 Unidad  Transparente'
+slug: 'B002B8IMT0-es Tommee Tippee Biberones Closer to Nature 150 ml 1 Unidad...'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

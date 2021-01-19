@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZZxV3nrkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M23UOEA-es Max Factor False Lash Effect Epic Máscara de Pestañas Tono Black - 27 gr'
+slug: 'B01M23UOEA-es Max Factor False Lash Effect Epic Máscara de Pestañas Tono...'
+tags: 
 actualPrice: 5.74 EUR
 currency: EUR
 price: 5.74

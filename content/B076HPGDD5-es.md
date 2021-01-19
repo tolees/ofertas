@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TMG6qvbTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HPGDD5-es Adidas Core 18 Presentation TR Pnt Pantalones Deportivos  Hombre  Negro  Negro/Blanco   XS'
+slug: 'B076HPGDD5-es Adidas Core 18 Presentation TR Pnt Pantalones Deportivos...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

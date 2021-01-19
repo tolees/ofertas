@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZvBNFQMQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNQQLM9-es Hoja de Fieltro  20 * 30cm  40 Colores No Tejido Tela de Fieltro Suave Felt Fabric para Manualidades Patchwork Costura DIY Artesanía con 100 x Ojos Wiggle Autoadhesivos  Multicolor '
+slug: 'B07GNQQLM9-es Hoja de Fieltro 20 * 30cm 40 Colores No Tejido Tela de...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

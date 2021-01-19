@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XMPjkycvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FB53LWX-es Superdry Label Jogger  Pantalones de deporte Hombre  Azul  Eclipse Navy 98T   Large  Talla fabricante: 34 '
+slug: 'B07FB53LWX-es Superdry Label Jogger Pantalones de deporte Hombre Azul...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

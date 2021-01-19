@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZTAeyfKXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SL6SF6Q-es Lacoste 739SFA003421G  Zapatillas para Mujer  Blanco  36 EU'
+slug: 'B07SL6SF6Q-es Lacoste 739SFA003421G Zapatillas para Mujer Blanco 36 EU'
+tags: 
 actualPrice: 47.07 EUR
 currency: EUR
 price: 47.07

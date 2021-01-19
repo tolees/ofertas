@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313Louni8WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HWK9GJ1-es HUAWEI Smart View Flip Case 16 2 cm  6.39"  Folio Negro - Fundas para teléfonos móviles  Folio  Mate 20 Pro  16 2 cm  6.39"   Negro '
+slug: 'B07HWK9GJ1-es HUAWEI Smart View Flip Case 16 2 cm 6.39" Folio Negro -...'
+tags: 
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

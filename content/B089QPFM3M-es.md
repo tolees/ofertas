@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413uL1nosFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089QPFM3M-es WEOFUN Protector de Pantalla Samsung A9 2018  3-Unidades Protector Cristal Templado para Samsung A9 2018 Vidrio Templado [0.33mm Ultra Transparent]'
+slug: 'B089QPFM3M-es WEOFUN Protector de Pantalla Samsung A9 2018 3-Unidades...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AugZR6qsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFU0VBW-es True Instinct Original Pienso para Perros Medium Adult con Pollo - 2000 gr'
+slug: 'B01FFU0VBW-es True Instinct Original Pienso para Perros Medium Adult con...'
+tags: 
 actualPrice: 8.54 EUR
 currency: EUR
 price: 8.54

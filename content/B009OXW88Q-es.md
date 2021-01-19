@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jXitIWvbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009OXW88Q-es Taurus Toast & Go - Sandwichera  700 W  superficie antiadherente de 23 x 14.5 cm '
+slug: 'B009OXW88Q-es Taurus Toast & Go - Sandwichera 700 W superficie...'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

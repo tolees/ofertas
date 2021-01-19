@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SnE1SQqKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GMEP9XG-es LEE  DAREN  - Pantalones para hombre  Azul  Rinse   32W x 34L'
+slug: 'B00GMEP9XG-es LEE DAREN - Pantalones para hombre Azul Rinse 32W x 34L'
+tags: 
 actualPrice: 43.88 EUR
 currency: EUR
 price: 43.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514HgTXDRLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086Q3R6JN-es Kit Dibujo Completo - Principiante/Profesional - 19 accesorios: 8 Lapices  3 lapiz carboncillo  1 Grafito  2 Barra Carboncillo  Cuaderno dibujo 100 págs - Regalo ideal para artistas de cualquier Nivel'
+slug: 'B086Q3R6JN-es Kit Dibujo Completo - Principiante/Profesional - 19...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

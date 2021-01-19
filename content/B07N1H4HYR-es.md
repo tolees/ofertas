@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412Drj2kwmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1H4HYR-es Tidyard 2xArco de Jardin para Plantas en Forma de Torre Soporte de Plantas Arco para Rosas Arco de Flores para Jardín Patio Terraza Hierro Verde Oscuro 38x190cm'
+slug: 'B07N1H4HYR-es Tidyard 2xArco de Jardin para Plantas en Forma de Torre...'
+tags: 
 actualPrice: 51.55 EUR
 currency: EUR
 price: 51.55

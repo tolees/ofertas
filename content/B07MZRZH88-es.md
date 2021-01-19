@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JoEWuyIqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZRZH88-es Funko- Pop Figura de Vinilo: Música Morrissey Coleccionable  Multicolor  40091 '
+slug: 'B07MZRZH88-es Funko- Pop Figura de Vinilo: Música Morrissey...'
+tags: 
 actualPrice: 8.27 EUR
 currency: EUR
 price: 8.27

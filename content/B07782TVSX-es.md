@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ikQf5EGbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07782TVSX-es Kit de espátula de glaseado premium de 4 piezas  WisFox espátulas de glaseado de acero inoxidable en ángulo de 3 piezas profesionales de y espátula de glaseado de acero inoxidable recta de 1 pieza'
+slug: 'B07782TVSX-es Kit de espátula de glaseado premium de 4 piezas WisFox...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

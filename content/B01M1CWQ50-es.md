@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X+ZMOaytL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1CWQ50-es Daniel Wellington Reloj Analógico para Unisex de Cuarzo con Correa en Tela DW00100151'
+slug: 'B01M1CWQ50-es Daniel Wellington Reloj Analógico para Unisex de Cuarzo...'
+tags: 
 actualPrice: 66.22 EUR
 currency: EUR
 price: 66.22

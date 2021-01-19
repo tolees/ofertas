@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LvCiRXXPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W9QRGKK-es Calvin Klein Radiant Cotton-Thong Tanga  Blanco  White 100   X-Small para Mujer'
+slug: 'B00W9QRGKK-es Calvin Klein Radiant Cotton-Thong Tanga Blanco White 100...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

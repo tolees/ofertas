@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AFllT8vnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMLTG6K-es RioRiva Calcetines de colores envueltos para regalo para hombres en 90% algodón  bonito diseño en media pantorrilla  estilo colorido'
+slug: 'B07HMLTG6K-es RioRiva Calcetines de colores envueltos para regalo para...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

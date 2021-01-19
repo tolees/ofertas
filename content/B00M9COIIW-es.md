@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jVHDFrg8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M9COIIW-es Polti Forzaspira MC330 Turbo  aspirador multiciclónico sin bolsa  doble clase A'
+slug: 'B00M9COIIW-es Polti Forzaspira MC330 Turbo aspirador multiciclónico sin...'
+tags: 
 actualPrice: 100.0 EUR
 currency: EUR
 price: 100.0

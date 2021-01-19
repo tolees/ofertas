@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mePVbU9uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTQNXG3-es FIND - Cat Lady  Máscara efecto alargador marrón + Delineador de ojos líquido marrón '
+slug: 'B07CTQNXG3-es FIND - Cat Lady Máscara efecto alargador marrón +...'
+tags: 
 actualPrice: 2.86 EUR
 currency: EUR
 price: 2.86

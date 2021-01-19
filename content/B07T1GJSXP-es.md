@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NVNAdm76L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1GJSXP-es Odoland Vajilla de Acero Inoxidable 13 en 1  con Placa  Tenedor  Cuchara  Cuchillo y Bolsa de Red  Kits de Cocina para 2 Persona  Kit de Picnic  Juego de Picnic'
+slug: 'B07T1GJSXP-es Odoland Vajilla de Acero Inoxidable 13 en 1 con Placa...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

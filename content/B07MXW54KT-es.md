@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YF8BroYPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXW54KT-es GLOBE Motley  Zapatillas de Skateboard para Hombre  Negro  Black Suede/Toffee 20462   42 EU'
+slug: 'B07MXW54KT-es GLOBE Motley Zapatillas de Skateboard para Hombre Negro...'
+tags: 
 actualPrice: 22.47 EUR
 currency: EUR
 price: 22.47

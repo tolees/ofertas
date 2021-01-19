@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yDjqts5RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTQK16-es G-STAR RAW Bronson  Pantalones para Hombre  Gris  Grey   W32/L32'
+slug: 'B01BGTQK16-es G-STAR RAW Bronson Pantalones para Hombre Gris Grey W32/L32'
+tags: 
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

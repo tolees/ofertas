@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41918p4EIyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0819LYNFS-es Meeter Funda Xiaomi Redmi 8A  7 x Unidades Carcasas Ultra Fina Silicona TPU de Alta Resistencia y Flexibilidad Caso Colores  Negro+Rojo+Azul Oscuro+Rosa+Lavanda+Amarillo+Verde '
+slug: 'B0819LYNFS-es Meeter Funda Xiaomi Redmi 8A 7 x Unidades Carcasas Ultra...'
+tags: 
 actualPrice: 5.44 EUR
 currency: EUR
 price: 5.44

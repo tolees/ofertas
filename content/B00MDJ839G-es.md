@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Tiu1AxM6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MDJ839G-es Tesa Assa Abloy  1970908NV  Barra Antipánico Universal 1970 de embutir  Negro y Verde'
+slug: 'B00MDJ839G-es Tesa Assa Abloy 1970908NV Barra Antipánico Universal 1970...'
+tags: 
 actualPrice: 93.74 EUR
 currency: EUR
 price: 93.74

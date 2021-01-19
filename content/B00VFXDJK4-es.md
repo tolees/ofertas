@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51P7GJ6NAcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VFXDJK4-es Akileine NOK - Crema anti rozamientos Anti-rozaduras  para ampollas e irritación - Pack 3 x 75ml'
+slug: 'B00VFXDJK4-es Akileine NOK - Crema anti rozamientos Anti-rozaduras para...'
+tags: 
 actualPrice: 20.38 EUR
 currency: EUR
 price: 20.38

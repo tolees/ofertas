@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EDvG0yFEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJM2VXY-es Todeco - Household Tool Box  Home Tool Kit - Material: Acero - Peso: 4 1 kg - con estuche negro  114 herramientas'
+slug: 'B07JJM2VXY-es Todeco - Household Tool Box Home Tool Kit - Material:...'
+tags: 
 actualPrice: 46.79 EUR
 currency: EUR
 price: 46.79

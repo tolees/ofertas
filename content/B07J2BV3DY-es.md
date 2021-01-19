@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410n1QpdysL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J2BV3DY-es Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK4335'
+slug: 'B07J2BV3DY-es Michael Kors Reloj Analógico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 139.5 EUR
 currency: EUR
 price: 139.5

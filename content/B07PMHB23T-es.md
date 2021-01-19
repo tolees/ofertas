@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kwLp7hmKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMHB23T-es Clarins 57923 Joli Rouge Lacquer Pintalabios  N.732L'
+slug: 'B07PMHB23T-es Clarins 57923 Joli Rouge Lacquer Pintalabios N.732L'
+tags: 
 actualPrice: 13.48 EUR
 currency: EUR
 price: 13.48

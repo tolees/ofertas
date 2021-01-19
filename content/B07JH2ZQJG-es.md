@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ku6Cg+gpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH2ZQJG-es PUMA ftblNXT Graphic Shorts Pantalones Cortos  Hombre  Verde  Green Gecko   L'
+slug: 'B07JH2ZQJG-es PUMA ftblNXT Graphic Shorts Pantalones Cortos Hombre Verde...'
+tags: 
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

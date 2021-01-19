@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D17PSKALL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WR3X7LC-es Skechers Equalizer Double Play  Men s Fitness Shoes Blue  Navy  10 UK 45 EU'
+slug: 'B00WR3X7LC-es Skechers Equalizer Double Play Men s Fitness Shoes Blue...'
+tags: 
 actualPrice: 45.97 EUR
 currency: EUR
 price: 45.97

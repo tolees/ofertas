@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BKLuPeKmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAGL1HX-es Dymatize Elite Whey Strawberry Blast 2 1Kg - Pulverizador de alta Poteína y Baja Azúcar + Proteína de Suero y BCAA'
+slug: 'B01NAGL1HX-es Dymatize Elite Whey Strawberry Blast 2 1Kg - Pulverizador...'
+tags: 
 actualPrice: 34.63 EUR
 currency: EUR
 price: 34.63

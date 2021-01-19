@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51j-ZbibmdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X54FRPW-es Lomogo Funda Huawei Y6  2018   Cartera Funda de Cuero Ranuras para Tarjetas Cierre Magnetico Soporte Plegable Carcasa Antigolpes para Huawei Y6 2018 - LOYBO470485 Oro Rosa'
+slug: 'B07X54FRPW-es Lomogo Funda Huawei Y6 2018 Cartera Funda de Cuero Ranuras...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

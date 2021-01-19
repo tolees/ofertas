@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hrUDpbbYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00008XWZW-es WMF Profi Plus Cuchara de Servir  Acero Inoxidable Pulido'
+slug: 'B00008XWZW-es WMF Profi Plus Cuchara de Servir Acero Inoxidable Pulido'
+tags: 
 actualPrice: 15.35 EUR
 currency: EUR
 price: 15.35

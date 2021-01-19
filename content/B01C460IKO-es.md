@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516m9uv1MzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C460IKO-es DIM SG Foulard  Sujetador Para Mujer  Negro  Black   95B'
+slug: 'B01C460IKO-es DIM SG Foulard Sujetador Para Mujer Negro Black 95B'
+tags: 
 actualPrice: 22.06 EUR
 currency: EUR
 price: 22.06

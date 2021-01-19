@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KMdmPPvRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGBDP27-es Neptune Juego De Tronos - Espada Réplica Aguja de Arya Stark  Multicolor  71 cm'
+slug: 'B07HGBDP27-es Neptune Juego De Tronos - Espada Réplica Aguja de Arya...'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

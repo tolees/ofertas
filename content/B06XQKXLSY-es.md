@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-93-BswNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XQKXLSY-es Sensilis - Sun Secret - Complemento Alimenticio de Protección Solar vía Oral - 30 Cápsulas'
+slug: 'B06XQKXLSY-es Sensilis - Sun Secret - Complemento Alimenticio de...'
+tags: 
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

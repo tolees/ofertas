@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p6HMyfSFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZTCX4K-es Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con Correa en Tela 1513535'
+slug: 'B075ZTCX4K-es Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 199.95 EUR
 currency: EUR
 price: 199.95

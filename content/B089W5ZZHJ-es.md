@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gUEFbwtmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089W5ZZHJ-es Aotlet Bañador para Hombre Pantalones Cortos de los Hombres Shorts de Playa Secado Rápido Bañadores con Bolsillos y Drawstring Ajustable para Beach Traje Vacaciones Verano Negro XL-3XL'
+slug: 'B089W5ZZHJ-es Aotlet Bañador para Hombre Pantalones Cortos de los...'
+tags: 
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

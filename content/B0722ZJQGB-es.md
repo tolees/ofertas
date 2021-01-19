@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QskSv+DsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0722ZJQGB-es Emuca 9163651 Lote de 10 tiradores para mueble Ø12mm intereje 160mm en acero acabado níquel satinado 10 unidades'
+slug: 'B0722ZJQGB-es Emuca 9163651 Lote de 10 tiradores para mueble Ø12mm...'
+tags: 
 actualPrice: 15.67 EUR
 currency: EUR
 price: 15.67

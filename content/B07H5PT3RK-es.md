@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GuVQlSf0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5PT3RK-es Kempa Attack Three Contender  Zapatillas de Balonmano Unisex Adulto  Naranja  Orange Frais/Noir 06   42 EU'
+slug: 'B07H5PT3RK-es Kempa Attack Three Contender Zapatillas de Balonmano...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

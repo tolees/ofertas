@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Eq5Dwmg4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JD1MCL5-es Nihlsfen Ratón USB para Juegos con Cable Z-7600 Retroiluminación LED Profesional 6 Botones Óptico 1000/1600/2000 dpi Ajustable para computadora portátil Pc - Negro'
+slug: 'B08JD1MCL5-es Nihlsfen Ratón USB para Juegos con Cable Z-7600...'
+tags: 
 actualPrice: 5.12 EUR
 currency: EUR
 price: 5.12

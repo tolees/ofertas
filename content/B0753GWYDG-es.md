@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h2RBujGWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753GWYDG-es ADIDAS Daily 2.0 Db0271  Zapatillas para Hombre  Azul  Collegiate Navy/FTWR White   40 2/3 EU'
+slug: 'B0753GWYDG-es ADIDAS Daily 2.0 Db0271 Zapatillas para Hombre Azul...'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

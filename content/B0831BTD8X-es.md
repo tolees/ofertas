@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51D4qcwqHzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0831BTD8X-es Alcachofa Ducha con Manguera  Zorara Cabezal de Ducha con 1.5m Manguera y Soporte  Telefono Ducha con Botón de Parada  Alcachofa de Ducha Alta Presion  Ducha de Mano 3 Modos Ahorro de Agua para Spa'
+slug: 'B0831BTD8X-es Alcachofa Ducha con Manguera Zorara Cabezal de Ducha con...'
+tags: 
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

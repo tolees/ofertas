@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Q9P4yRgpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T2J2TTH-es Te-Rich Bandas Elásticas Gluteos para Fitness Banda de Resistencia Ideal para Pilates Yoga Rehabilitación Entrenamiento de Fuerza y Flexibilidad Quemar Grasa rápidamente Moldear Piernas y Caderas'
+slug: 'B07T2J2TTH-es Te-Rich Bandas Elásticas Gluteos para Fitness Banda de...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

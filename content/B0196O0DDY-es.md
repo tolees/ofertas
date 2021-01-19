@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31GfAuq2zWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0196O0DDY-es VAUDE Hogan UL 2P Tienda  Unisex Adulto  Verde  Talla única'
+slug: 'B0196O0DDY-es VAUDE Hogan UL 2P Tienda Unisex Adulto Verde Talla única'
+tags: 
 actualPrice: 266.17 EUR
 currency: EUR
 price: 266.17

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FCHkpMuJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F1ZT2QC-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Bluetooth reducción del Ruido estéreo 3D HD In-Ear Auriculares Bluetooth c IPX5 Impermeables para iPhone/Android/Apple Airpods Pro/Samsung'
+slug: 'B08F1ZT2QC-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Bluetooth...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

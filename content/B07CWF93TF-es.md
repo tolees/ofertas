@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418wjKafelL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CWF93TF-es Gifts Treat Chica Gorra De Béisbol Primavera Verano Sombreros De Sol Sombreros De Playa Contiene Dibujos Animados Gato  Gris Gato  50CM '
+slug: 'B07CWF93TF-es Gifts Treat Chica Gorra De Béisbol Primavera Verano...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

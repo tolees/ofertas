@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gr3NGlBeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZ9TT1K-es Beard Grooming Kit by Benjamin Bernard - Scissors  Oil  Wash  Wooden Comb and Brush Package Set - Natural Skin Moisturizer  Cleanser and Conditioner - Complete Moustache Growth Care Gift Box for Men'
+slug: 'B07MZ9TT1K-es Beard Grooming Kit by Benjamin Bernard - Scissors Oil Wash...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

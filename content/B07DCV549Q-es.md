@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sfpRTDAPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCV549Q-es Fdit 48 Color Lápiz Assorted Professional Arte Lápices Colorante Acuarela Pintar Socialme-EU'
+slug: 'B07DCV549Q-es Fdit 48 Color Lápiz Assorted Professional Arte Lápices...'
+tags: 
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

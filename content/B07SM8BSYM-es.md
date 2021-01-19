@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xm3KEgsCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SM8BSYM-es Funko Pop Heroes: Birds of Prey - Black Canary  Boobytrap Battle   Multicolor  Estándar'
+slug: 'B07SM8BSYM-es Funko Pop Heroes: Birds of Prey - Black Canary Boobytrap...'
+tags: 
 actualPrice: 8.76 EUR
 currency: EUR
 price: 8.76

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CB%2BAE2NUL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZDBNFG6-es mysticall Cinta de Correr Walking Pad Plegable A1  Cinta de Correr eléctrica 746W con instalación Libre de Ruido y Gratuita  Control de Velocidad de inducción de Pasos  Debajo del Escritorio 0-6km/h'
+slug: 'B07ZDBNFG6-es mysticall Cinta de Correr Walking Pad Plegable A1 Cinta de...'
+tags: 
 actualPrice: 449.99 EUR
 currency: EUR
 price: 449.99

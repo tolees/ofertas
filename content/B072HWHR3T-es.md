@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V4hLKO5pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072HWHR3T-es Cafetera de Vacío de Acero Inoxidable de Doble Vaso de Pared Aislados Thermos Jarro de Agua Caliente Botella Dispensador de Bebidas con Botón de Prensa 1.5L / 2L  2L  Azul '
+slug: 'B072HWHR3T-es Cafetera de Vacío de Acero Inoxidable de Doble Vaso de...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

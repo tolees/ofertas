@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ngMBDin8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YKJJCZ-es OUNONA 50pcs esponjas de Limpieza Extra Alta Densidad Durable Nano Limpieza mágica Almohadillas Borrador Fuerte descontaminación Cepillo de Lavado para Cocina baño  Blanco '
+slug: 'B077YKJJCZ-es OUNONA 50pcs esponjas de Limpieza Extra Alta Densidad...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

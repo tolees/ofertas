@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+35Fj-m6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWB2PW7-es Salomon XA Pro 3D W Zapatillas de trail running Mujer  Morado  Potent Purple/Navy Blazer/Bluestone   36 2/3 EU  4 UK '
+slug: 'B07KWB2PW7-es Salomon XA Pro 3D W Zapatillas de trail running Mujer...'
+tags: 
 actualPrice: 59.21 EUR
 currency: EUR
 price: 59.21

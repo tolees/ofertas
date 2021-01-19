@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FEV+JfoFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV7ZPZM-es perfk Soporte de Carga Inalámbrica Qi Herramientas Moviles Intelligentes'
+slug: 'B07MV7ZPZM-es perfk Soporte de Carga Inalámbrica Qi Herramientas Moviles...'
+tags: 
 actualPrice: 18.76 EUR
 currency: EUR
 price: 18.76

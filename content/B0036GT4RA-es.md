@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RUuCVKS+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0036GT4RA-es Converse Chuck Taylor All Star  Zapatillas de Lona Infantil  Blanco  35 EU  2.5 UK '
+slug: 'B0036GT4RA-es Converse Chuck Taylor All Star Zapatillas de Lona Infantil...'
+tags: 
 actualPrice: 42.08 EUR
 currency: EUR
 price: 42.08

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314coHtvB1L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081VHQ8FF-es Folconauto Simulation Penis Plush Toy-Soft Stuffed Creative Cushion Boyfriend Girl Pillow Gift para Office Chair Bed Pillows-30 cm'
+slug: 'B081VHQ8FF-es Folconauto Simulation Penis Plush Toy-Soft Stuffed...'
+tags: 
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

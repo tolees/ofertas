@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+Mp7BRSZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKV5J83-es Under Armour UA W HOVR Rise  Zapatillas Deportivas para Interior para Mujer  Gris  Flint/White/Atlas Green  103  103   41 EU'
+slug: 'B07HKV5J83-es Under Armour UA W HOVR Rise Zapatillas Deportivas para...'
+tags: 
 actualPrice: 43.59 EUR
 currency: EUR
 price: 43.59

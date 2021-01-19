@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nPqOL+n5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MCSVYAS-es Remington HC5880 - Máquina de Cortar Pelo  Prácticamente Indestructible  Acero Inoxidable Japonés  Recargable  Negro  Doble Batería de Litio'
+slug: 'B00MCSVYAS-es Remington HC5880 - Máquina de Cortar Pelo Prácticamente...'
+tags: 
 actualPrice: 50.57 EUR
 currency: EUR
 price: 50.57

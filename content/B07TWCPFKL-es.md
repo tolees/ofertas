@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413xv0IFgUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWCPFKL-es Kit de monopie para cámara Cayer AT35  Pata de monopie de Video telescópica de Aluminio de 68 Pulgadas con Cabezal de Fluido H4 y Base de trípode SV5 para videocámaras DSLR'
+slug: 'B07TWCPFKL-es Kit de monopie para cámara Cayer AT35 Pata de monopie de...'
+tags: 
 actualPrice: 106.99 EUR
 currency: EUR
 price: 106.99

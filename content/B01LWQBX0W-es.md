@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414lGd6bb5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWQBX0W-es Tefal C620SET3  - Juego de 3 Sartenes Aluminio de 21  24 y 26 cm  Antiadherente con Extra de Titanio  Aptas para Todo Tipo de Cocinas Incluido Inducción'
+slug: 'B01LWQBX0W-es Tefal C620SET3 - Juego de 3 Sartenes Aluminio de 21 24 y...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

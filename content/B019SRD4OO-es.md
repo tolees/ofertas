@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414YxzPtZJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019SRD4OO-es Kmise - Ukelele tenor  66 cm  madera maciza de caoba  puente de palisandro  mate'
+slug: 'B019SRD4OO-es Kmise - Ukelele tenor 66 cm madera maciza de caoba puente...'
+tags: 
 actualPrice: 25.79 EUR
 currency: EUR
 price: 25.79

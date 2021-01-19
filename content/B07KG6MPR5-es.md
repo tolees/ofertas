@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NxxaiJi1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG6MPR5-es PUMA ICRA Trainer SD Jr  Zapatillas Unisex Niños  Peacoat-Gray Violet-Nrgy Yellow White  36 EU'
+slug: 'B07KG6MPR5-es PUMA ICRA Trainer SD Jr Zapatillas Unisex Niños Peacoat-...'
+tags: 
 actualPrice: 23.93 EUR
 currency: EUR
 price: 23.93

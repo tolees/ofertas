@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+TxXoTifL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Z7SZFA-es Oki 43865708 - Cartucho de tóner  color negro'
+slug: 'B000Z7SZFA-es Oki 43865708 - Cartucho de tóner color negro'
+tags: 
 actualPrice: 100.09 EUR
 currency: EUR
 price: 100.09

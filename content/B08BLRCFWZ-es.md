@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511HmxXNYVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLRCFWZ-es HAVERLAND PUREAIRBOX - Purificador Desinfectador de Aire y Superficies PCO | Eficacia 99 99% | Desinfecta el Aire y Las estancias | Luz UV + Ionizador + OZONO de Baja Concentración | Ultra-Compacto'
+slug: 'B08BLRCFWZ-es HAVERLAND PUREAIRBOX - Purificador Desinfectador de Aire y...'
+tags: 
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

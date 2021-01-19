@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ljd1JoW3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074J7CW9Z-es Calcetines de 3 Dedos para Hombres para Deportes Ciclismo Correr  Hombre Calcetines del dedo del pie  Calcetines Dedos de Pies Separados  3 pares  Multicolor-3 pares '
+slug: 'B074J7CW9Z-es Calcetines de 3 Dedos para Hombres para Deportes Ciclismo...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

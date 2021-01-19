@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VrSXCJSAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DB1J79P-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Titanio CA0700-86E'
+slug: 'B07DB1J79P-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 197.02 EUR
 currency: EUR
 price: 197.02

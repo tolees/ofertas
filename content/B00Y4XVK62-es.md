@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BqUF8VG9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Y4XVK62-es Lacoste PH4012  Polo Para Hombre  Gris  Argent Chine   Large  Talla del fabricante: 5 '
+slug: 'B00Y4XVK62-es Lacoste PH4012 Polo Para Hombre Gris Argent Chine Large...'
+tags: 
 actualPrice: 62.4 EUR
 currency: EUR
 price: 62.4

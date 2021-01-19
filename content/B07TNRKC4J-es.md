@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415Pr3Zu-KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNRKC4J-es Superdry Zip Hood Capucha  Gris  Collective Dark Grey Grit 9ss   S para Hombre'
+slug: 'B07TNRKC4J-es Superdry Zip Hood Capucha Gris Collective Dark Grey Grit...'
+tags: 
 actualPrice: 17.77 EUR
 currency: EUR
 price: 17.77

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41llTOp-P+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753FGD6V-es Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable 18566/1'
+slug: 'B0753FGD6V-es Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo...'
+tags: 
 actualPrice: 92.71 EUR
 currency: EUR
 price: 92.71

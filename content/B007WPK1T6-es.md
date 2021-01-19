@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DKELaiCsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007WPK1T6-es Vans Herren T Shirt Classic  white black  XS  VGGGYB2'
+slug: 'B007WPK1T6-es Vans Herren T Shirt Classic white black XS VGGGYB2'
+tags: 
 actualPrice: 20.87 EUR
 currency: EUR
 price: 20.87

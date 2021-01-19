@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411s3aC4q1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KFLG1EW-es Philips Optimal Temp GC8715/20 - Centro de Planchado de 5.8 bares  Autonomia Ilimitada  Golpe de Vapor 310 g  Suela Steam Glide  Planchado Sin Ajustes de Temperatura  Calentamiento Rápido  Autoapagado'
+slug: 'B01KFLG1EW-es Philips Optimal Temp GC8715/20 - Centro de Planchado de...'
+tags: 
 actualPrice: 135.0 EUR
 currency: EUR
 price: 135.0

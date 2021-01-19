@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515IkXcQnRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYWFWSW-es LOBKIN Bolsas Reutilizables de Almacenamiento de Alimentos Sin BPA Biodegradables  Bolsas Congelar Reutilizables 10Paquetes Bolsas para Sándwiches Verduras Frutas.A Prueba de Fugas  2L+4M+4S '
+slug: 'B07ZYWFWSW-es LOBKIN Bolsas Reutilizables de Almacenamiento de Alimentos...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z9NP0RQ-es 3M Mono de seguridad en polipropileno'
+tags: 
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

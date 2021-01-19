@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VH6R6RoHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B6J2ZRR-es EleganBello Cadena de luces con pinzas 4m 40 LED Cadena de luces con pinzas 2 modos de luz Blanco cálido Guirnalda de luces con Clips para fotos ideal para colgar fotos  notas  Memos y de arte'
+slug: 'B07B6J2ZRR-es EleganBello Cadena de luces con pinzas 4m 40 LED Cadena de...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yJmKyjuCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV9SVWJ-es Kipling Cindy  Cartera para Mujer  Azul  Aqua Frost   11.5x8x1 centimeters  B x H x T '
+slug: 'B07MV9SVWJ-es Kipling Cindy Cartera para Mujer Azul Aqua Frost 11.5x8x1...'
+tags: 
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

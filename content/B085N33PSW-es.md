@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vsau9YzlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085N33PSW-es RHSMY 9 Pcs 3D Máscara de Esponja Estéreo Cómodo Respirable Unisexo a Prueba de Polvo Mascaras Lavable'
+slug: 'B085N33PSW-es RHSMY 9 Pcs 3D Máscara de Esponja Estéreo Cómodo...'
+tags: 
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

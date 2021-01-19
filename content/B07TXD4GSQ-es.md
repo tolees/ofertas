@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wda5SHCCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXD4GSQ-es Adidas Predator 19.1 FG J  Botas de fútbol para Niños  Multicolor  Negbás/Negbás/Neguti 000   28 EU'
+slug: 'B07TXD4GSQ-es Adidas Predator 19.1 FG J Botas de fútbol para Niños...'
+tags: 
 actualPrice: 19.58 EUR
 currency: EUR
 price: 19.58

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Cz5dXaBJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4EZU4M-es Bourjois Smokey Stories Sombra de ojos Tono 13 Taupissime - 40 gr.'
+slug: 'B01N4EZU4M-es Bourjois Smokey Stories Sombra de ojos Tono 13 Taupissime...'
+tags: 
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jCJmLoLaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQTRDG1-es New Balance 373  Zapatillas para Hombre  Azul  Navy Navy   42 EU'
+slug: 'B07PQTRDG1-es New Balance 373 Zapatillas para Hombre Azul Navy Navy 42 EU'
+tags: 
 actualPrice: 40 EUR
 currency: EUR
 price: 40

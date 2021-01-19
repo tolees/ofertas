@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wnkH9d-tL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKK3WWN-es Under Armour UA Charged Escape 3  Zapatillas de Running para Hombre  Negro  Black/White/Metallic Silver  001  001   44 EU'
+slug: 'B07HKK3WWN-es Under Armour UA Charged Escape 3 Zapatillas de Running...'
+tags: 
 actualPrice: 65.2 EUR
 currency: EUR
 price: 65.2

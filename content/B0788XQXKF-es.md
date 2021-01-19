@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X6CfQFpEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788XQXKF-es MagiDeal Cubierta Protectora de Teclado de Silicona para HP 15.6 Pulgadas BF - Arcoiris'
+slug: 'B0788XQXKF-es MagiDeal Cubierta Protectora de Teclado de Silicona para...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

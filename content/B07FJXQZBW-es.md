@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ojnBIRaLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJXQZBW-es Import - Consola Retro Blast Activision Pitfall  20 Juegos '
+slug: 'B07FJXQZBW-es Import - Consola Retro Blast Activision Pitfall 20 Juegos'
+tags: 
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

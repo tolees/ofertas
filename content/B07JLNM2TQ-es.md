@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nlFmeKbwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLNM2TQ-es KFD Adaptador 15V 4A 65W Cargador Portatil para Microsoft Surface Book  Surface Laptop  Surface Pro 6  Surface Go  Surface Pro 3 Pro 4 Pro 5 Modelo 1706 1800 1735 Tableta PC con 5V Puerto USB'
+slug: 'B07JLNM2TQ-es KFD Adaptador 15V 4A 65W Cargador Portatil para Microsoft...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

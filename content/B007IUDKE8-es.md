@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oZnsmnMnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007IUDKE8-es Stendhal Recette Merveilleuse Crema Revitalisante Jour Ultra 50 ml'
+slug: 'B007IUDKE8-es Stendhal Recette Merveilleuse Crema Revitalisante Jour...'
+tags: 
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

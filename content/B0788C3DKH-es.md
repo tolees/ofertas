@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41No6KxW8IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788C3DKH-es Tommy Hilfiger X Sujetador Estilo Bralette  Gris  Grey Heather 004   Small para Mujer'
+slug: 'B0788C3DKH-es Tommy Hilfiger X Sujetador Estilo Bralette Gris Grey...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MLBwNb6SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG5STZY-es Panel Solar Fuente de Alimentación Compatible con Cámara de Seguridad Blink XT Interior y Exterior  Impermeable  Montaje Ajustable  Continuo Fuente de Alimentación  Cable de 12 pies/ 3 6 m   Negro '
+slug: 'B07HG5STZY-es Panel Solar Fuente de Alimentación Compatible con Cámara...'
+tags: 
 actualPrice: 35.02 EUR
 currency: EUR
 price: 35.02

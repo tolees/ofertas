@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DsuY7Op+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC1JCTS-es Almohadillas Desmaquillantes  TURATA 16Pcs Almohadillas de algodón de bambú reutilizables con bolsa de lavandería  Lavable Maquillaje facial Paños de limpieza para cara Todo Pieles'
+slug: 'B07VC1JCTS-es Almohadillas Desmaquillantes TURATA 16Pcs Almohadillas de...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

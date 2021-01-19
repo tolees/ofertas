@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BJttwIYPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GS9PSBF-es Vibram Fivefingers V 2.0  Zapatillas de Trail Running para Mujer  Negro  Black/Yellow Black/Yellow   43 EU'
+slug: 'B07GS9PSBF-es Vibram Fivefingers V 2.0 Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 44.39 EUR
 currency: EUR
 price: 44.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZkyRdWkUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HQ2IXZ8-es TensCare Flexistim - Electroestimulador Completo con 4 terapias: EMS  Tens  Ift y Microcorriente. Dispositivo pequeño Pero potente  con mas de 50 programas'
+slug: 'B01HQ2IXZ8-es TensCare Flexistim - Electroestimulador Completo con 4...'
+tags: 
 actualPrice: 95.45 EUR
 currency: EUR
 price: 95.45

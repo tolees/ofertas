@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yR4+1+AiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBFGGXZ-es INTEY Faja Reductora Adelgazante Neopreno Faja Lumbar de Trabajo Ajustable Ayuda a Reducir Cintura y Abdomen  Faja Deportiva Lumbar y Abdominal para Hacer para Mujer y Hombre  Talla Única'
+slug: 'B07MBFGGXZ-es INTEY Faja Reductora Adelgazante Neopreno Faja Lumbar de...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

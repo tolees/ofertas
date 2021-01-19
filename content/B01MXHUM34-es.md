@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a6Im6oSrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXHUM34-es Under Armour Rival Fitted Tapered Jogger Pantalones  Hombre  Gris  Carbon Heather/Black 090   S'
+slug: 'B01MXHUM34-es Under Armour Rival Fitted Tapered Jogger Pantalones Hombre...'
+tags: 
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

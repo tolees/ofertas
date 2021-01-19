@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315Oi600e4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGFKKFX-es Fossil Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable ES4437'
+slug: 'B07CGFKKFX-es Fossil Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 95.4 EUR
 currency: EUR
 price: 95.4

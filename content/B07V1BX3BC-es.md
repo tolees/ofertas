@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1BX3BC-es Parfois - Bandolera De Ante - Mujeres - Tallas M - Gris Pardo'
+tags: 
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

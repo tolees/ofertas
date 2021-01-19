@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51QaExehbxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CL1LYT3-es Zerone Mini Altavoz Bluetooth Wireless portátil  estéreo Música Audio Altavoz FM Radio Apoyo TF Tarjeta USB Cable Indoor Outdoor Actividades'
+slug: 'B07CL1LYT3-es Zerone Mini Altavoz Bluetooth Wireless portátil estéreo...'
+tags: 
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

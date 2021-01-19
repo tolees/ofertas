@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRYRMCZ-es CARPISA ® Shopper de fantasía con cremallera - Foresta'
+tags: 
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

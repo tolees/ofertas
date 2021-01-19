@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412kjS1+KVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ5QJV9-es New Balance 997H Core  Zapatillas para Hombre  Plateado  Marblehead   36 EU'
+slug: 'B07DJ5QJV9-es New Balance 997H Core Zapatillas para Hombre Plateado...'
+tags: 
 actualPrice: 31.62 EUR
 currency: EUR
 price: 31.62

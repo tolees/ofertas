@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XklaUo1IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC1K7JJ-es Jack & Jones Jcobase Sweat Hood Capucha  Verde  Winter Moss Detail: Melange   Small para Hombre'
+slug: 'B07VC1K7JJ-es Jack & Jones Jcobase Sweat Hood Capucha Verde Winter Moss...'
+tags: 
 actualPrice: 23.22 EUR
 currency: EUR
 price: 23.22

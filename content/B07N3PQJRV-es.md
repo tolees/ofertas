@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HAZn9EKzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3PQJRV-es Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK4343'
+slug: 'B07N3PQJRV-es Michael Kors Reloj Analógico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 131.73 EUR
 currency: EUR
 price: 131.73

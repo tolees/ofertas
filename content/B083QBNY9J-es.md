@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xOdPh4JfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QBNY9J-es Zapatillas Running Hombre Antideslizantes Ligeras Zapatillas de Correr Casual para Deportivas de Malla Blanco Negro 39'
+slug: 'B083QBNY9J-es Zapatillas Running Hombre Antideslizantes Ligeras...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

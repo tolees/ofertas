@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cMl+-BHaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000UJHIOW-es BAUSCH + LOMB  - SofLens® Toric - Lentes de contacto para Astigmatismo'
+slug: 'B000UJHIOW-es BAUSCH + LOMB - SofLens® Toric - Lentes de contacto para...'
+tags: 
 actualPrice: 29.19 EUR
 currency: EUR
 price: 29.19

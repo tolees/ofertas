@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eccL778NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHWDJCM-es Columbia Heavenly Shorty Omni-Heat  Botas de Invierno para Mujer  Gris  Grey Ice  White   37 EU'
+slug: 'B07JHWDJCM-es Columbia Heavenly Shorty Omni-Heat Botas de Invierno para...'
+tags: 
 actualPrice: 24.86 EUR
 currency: EUR
 price: 24.86

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P7hig9T3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y67W4TF-es Joma Champion IV Sudaderas  Mujer  Rojo-Blanco  M'
+slug: 'B06Y67W4TF-es Joma Champion IV Sudaderas Mujer Rojo-Blanco M'
+tags: 
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

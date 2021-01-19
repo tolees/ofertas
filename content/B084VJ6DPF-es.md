@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Otgk21uBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084VJ6DPF-es Mesa de cama para ordenador portátil  escritorio de regazo portátil  soporte para lectura  mesa para portátil dormitorio con patas plegables y ranura para tazas  para desayunar  leer '
+slug: 'B084VJ6DPF-es Mesa de cama para ordenador portátil escritorio de regazo...'
+tags: 
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

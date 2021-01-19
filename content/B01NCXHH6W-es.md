@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31z7TBnvxAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCXHH6W-es L Oréal Paris Total Cover  Base Maquillaje Cobertura Total  Tono de Piel Medio 22 Beige Éclat - 35 gr'
+slug: 'B01NCXHH6W-es L Oréal Paris Total Cover Base Maquillaje Cobertura Total...'
+tags: 
 actualPrice: 6.47 EUR
 currency: EUR
 price: 6.47

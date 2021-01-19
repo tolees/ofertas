@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514y75k0LXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HBLRS4-es ART VVIES Für Hauptdekorationen Schlafzimmer Leinwand 24x24 Zoll Natur Tiere Afrika Palmen Giraffen Familie mit Haken Holz Gerahmte Wandbild Kunst Malerei'
+slug: 'B082HBLRS4-es ART VVIES Für Hauptdekorationen Schlafzimmer Leinwand...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

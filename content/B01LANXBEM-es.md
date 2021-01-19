@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a0GoEqoTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LANXBEM-es Castellanisimos Mocasines de Piel Marron Hombre Antifaz Zapato Clasico Caballero'
+slug: 'B01LANXBEM-es Castellanisimos Mocasines de Piel Marron Hombre Antifaz...'
+tags: 
 actualPrice: 67.0 EUR
 currency: EUR
 price: 67.0

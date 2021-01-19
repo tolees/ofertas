@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31O1il7L9GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT87F6N-es Pepe Jeans Sloane Pantalones  Beige  Malt 845   Talla única  Talla del Fabricante: W28/L34  para Hombre'
+slug: 'B07RT87F6N-es Pepe Jeans Sloane Pantalones Beige Malt 845 Talla única...'
+tags: 
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

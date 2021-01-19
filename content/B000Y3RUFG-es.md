@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313-DCtS08L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Y3RUFG-es Wrangler Texas Contrast Jeans  Azul  Blue Black 001   30W / 30L para Hombre'
+slug: 'B000Y3RUFG-es Wrangler Texas Contrast Jeans Azul Blue Black 001 30W /...'
+tags: 
 actualPrice: 53.05 EUR
 currency: EUR
 price: 53.05

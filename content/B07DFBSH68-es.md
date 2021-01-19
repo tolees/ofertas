@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31++UUgtD3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFBSH68-es Funko Pop Mortal Engines Figura de Vinilo Anna Fang  Multicolor  34678 '
+slug: 'B07DFBSH68-es Funko Pop Mortal Engines Figura de Vinilo Anna Fang...'
+tags: 
 actualPrice: 7.82 EUR
 currency: EUR
 price: 7.82

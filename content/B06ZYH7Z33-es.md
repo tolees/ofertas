@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311e6RxpnvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYH7Z33-es Tommy Hilfiger M2285Axwell 11C1  Zapatillas para Hombre  Negro  Black   44 EU'
+slug: 'B06ZYH7Z33-es Tommy Hilfiger M2285Axwell 11C1 Zapatillas para Hombre...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

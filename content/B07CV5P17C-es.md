@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pizYh-FyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CV5P17C-es JACK & JONES Jfwstoke Nubuck Boot Mono Noos  Botas Clasicas para Hombre  Negro  Black Black   45 EU'
+slug: 'B07CV5P17C-es JACK & JONES Jfwstoke Nubuck Boot Mono Noos Botas Clasicas...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

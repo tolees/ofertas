@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cHeAXZH3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X6HJ6JQ-es Puma Reloj Digital para Hombre de Cuarzo con Correa en Plástico PU911261005'
+slug: 'B06X6HJ6JQ-es Puma Reloj Digital para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

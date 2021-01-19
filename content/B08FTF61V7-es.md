@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413FNml6DDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FTF61V7-es Fantasyworld FT245 + CPLD Programador de Alta Velocidad Altera Blaster Cable de Descarga USB FPGA/CPLDDownloader USB Blaster Altera  Blanco'
+slug: 'B08FTF61V7-es Fantasyworld FT245 + CPLD Programador de Alta Velocidad...'
+tags: 
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

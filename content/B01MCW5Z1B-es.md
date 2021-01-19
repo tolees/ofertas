@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419GWBY1MAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MCW5Z1B-es ECO-WORTHY 3.5 G 220 V Generador De Ozono Industriales - Purificador De Aire Ozono Purificador De Aire'
+slug: 'B01MCW5Z1B-es ECO-WORTHY 3.5 G 220 V Generador De Ozono Industriales -...'
+tags: 
 actualPrice: 0.11 EUR
 currency: EUR
 price: 0.11

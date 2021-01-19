@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-1qWlwZwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U1GA5NA-es INJUSA - Triciclo City Max Blanco para Bebés +6 Meses con Mango de Control Parental de Dirección'
+slug: 'B00U1GA5NA-es INJUSA - Triciclo City Max Blanco para Bebés +6 Meses con...'
+tags: 
 actualPrice: 107.97 EUR
 currency: EUR
 price: 107.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pxsqKpT1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005JX36BS-es tm versand Mariposa Accesorio De Mezcla Mezclador Adecuado para Thermomix TM31 Vorwerk Nuevo'
+slug: 'B005JX36BS-es tm versand Mariposa Accesorio De Mezcla Mezclador Adecuado...'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

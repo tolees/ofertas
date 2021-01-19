@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pLPaeYp3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009KFSW2E-es HP 651A - Cartucho de tóner original LaserJet para Laserjet Enterprise serie 700 color MFP M775  color amarillo'
+slug: 'B009KFSW2E-es HP 651A - Cartucho de tóner original LaserJet para...'
+tags: 
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

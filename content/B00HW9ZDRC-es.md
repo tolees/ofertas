@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NXtxiBhdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HW9ZDRC-es Funda con tapa para LG Optimus L1 II  piel sintética  protección integral   color rosa'
+slug: 'B00HW9ZDRC-es Funda con tapa para LG Optimus L1 II piel sintética...'
+tags: 
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

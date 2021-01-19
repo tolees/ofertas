@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iabKcprEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCJ7NGW-es Samsonite Spinner 69/25  Equipaje de Mano  69 cm  85 Litros  Gris  Ivory Gold '
+slug: 'B07TCJ7NGW-es Samsonite Spinner 69/25 Equipaje de Mano 69 cm 85 Litros...'
+tags: 
 actualPrice: 153.47 EUR
 currency: EUR
 price: 153.47

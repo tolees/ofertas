@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hOgxEpqTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8XFR8C-es Calvin Klein - Ck Signature Ep Mini 6cc W/Coin  Carteras Hombre  Negro  Blackwhite Black   1x1x1 cm  W x H L '
+slug: 'B07V8XFR8C-es Calvin Klein - Ck Signature Ep Mini 6cc W/Coin Carteras...'
+tags: 
 actualPrice: 28.31 EUR
 currency: EUR
 price: 28.31

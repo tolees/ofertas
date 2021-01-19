@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61Xt1PjmwpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXJPGJV-es Barras Luminosas  Hieha 200 Piezas Glow Sticks para Fiesta 20cm 7 Colores con Conectores Varitas Luminosas Fluorescentes Kits para Crear Gafas/Pulseras/Collares/Flores/Pendientes'
+slug: 'B07YXJPGJV-es Barras Luminosas Hieha 200 Piezas Glow Sticks para Fiesta...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

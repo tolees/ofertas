@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WpnETh2FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDHB6T2-es Bra Prior -Set de 3 Sartenes  Aluminio Fundido con Antiadherente  Aptas para Todo Tipo de Cocinas Incluido Inducción + 2 Bra Safe 20-24-28 cm'
+slug: 'B07FDHB6T2-es Bra Prior -Set de 3 Sartenes Aluminio Fundido con...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5159puNHK3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PK14NY3-es WOSTOO Luces Bicicleta  Luces De Bicicleta Faro y Luz Trasera Roja Recargable USB  Impermeable con 5 Modes Luces y reflectores  Luz LED Bicicleta para Carretera y Montaña - Seguridad para la Noche'
+slug: 'B07PK14NY3-es WOSTOO Luces Bicicleta Luces De Bicicleta Faro y Luz...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

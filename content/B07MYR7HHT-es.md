@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GwRFFAihL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYR7HHT-es Soporte Tablet Apoyo de Teléfono para Coches Diseño Aleación de Aluminio Kit de Montaje para Ciclismo - rojo'
+slug: 'B07MYR7HHT-es Soporte Tablet Apoyo de Teléfono para Coches Diseño...'
+tags: 
 actualPrice: 11.36 EUR
 currency: EUR
 price: 11.36

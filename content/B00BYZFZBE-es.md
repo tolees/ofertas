@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jCtwZKyGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BYZFZBE-es Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto  Negro  996 Full Black   39 EU'
+slug: 'B00BYZFZBE-es Superga 2790Cotw Linea Up And Down Zapatillas Unisex...'
+tags: 
 actualPrice: 46.87 EUR
 currency: EUR
 price: 46.87

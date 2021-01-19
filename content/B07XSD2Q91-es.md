@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pX+sTKtJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XSD2Q91-es LARPOTE Funda con Huawei Nova 3  Funda Piel PU  Soporte Plegable  Ranuras para Tarjetas y Billetes  Estilo Libro  Acceso a Botones  Cierre Magnético -Gris.'
+slug: 'B07XSD2Q91-es LARPOTE Funda con Huawei Nova 3 Funda Piel PU Soporte...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

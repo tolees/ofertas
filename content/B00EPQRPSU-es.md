@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51J-w0aNbTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EPQRPSU-es Nixon Reloj Analógico de Cuarzo para Hombre con Correa de Acero Inoxidable – A356510'
+slug: 'B00EPQRPSU-es Nixon Reloj Analógico de Cuarzo para Hombre con Correa de...'
+tags: 
 actualPrice: 159.95 EUR
 currency: EUR
 price: 159.95

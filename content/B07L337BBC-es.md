@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rjwjyKiJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L337BBC-es Asics Patriot 11  Zapatillas de Running para Hombre  Negro  Black/White 001   42 EU'
+slug: 'B07L337BBC-es Asics Patriot 11 Zapatillas de Running para Hombre Negro...'
+tags: 
 actualPrice: 44.52 EUR
 currency: EUR
 price: 44.52

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZcmpgB1oL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B003EQ96SE-es Shimano CSHG318132 Cassette  Unisex  Gris  Talla Única'
+slug: 'B003EQ96SE-es Shimano CSHG318132 Cassette Unisex Gris Talla Única'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

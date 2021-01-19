@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C1U4TDcXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089F5RXV2-es Wudi 50pcs Funda Protectora  Gancho para la Oreja Transpirable Adecuado para Exteriores  Escuela  supermercado  Aeropuerto  Rosa '
+slug: 'B089F5RXV2-es Wudi 50pcs Funda Protectora Gancho para la Oreja...'
+tags: 
 actualPrice: 11.07 EUR
 currency: EUR
 price: 11.07

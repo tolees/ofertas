@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411Lt1vjcFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCMCSBX-es LITTHING Plancha de Pelo Profesional de Cerámica con Pantalla LCD Apagado Automático en 1 hora Doble Vortaje Roja'
+slug: 'B07DCMCSBX-es LITTHING Plancha de Pelo Profesional de Cerámica con...'
+tags: 
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

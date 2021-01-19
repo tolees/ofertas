@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4133oMmqhQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KKBJD7-es PUMA 074892 01 Bolsa Mediana  Unisex Adulto  Negro  Talla única'
+slug: 'B072KKBJD7-es PUMA 074892 01 Bolsa Mediana Unisex Adulto Negro Talla única'
+tags: 
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

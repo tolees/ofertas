@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316zQ0a+oML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYZHTMS-es Tappetino professionale da scrivania in pelle Mega Size allungato CENNBIE per scrivania completa - Bordi cuciti - Tappetino per mouse grande 130 * 60cm XXXL  nero '
+slug: 'B07YYZHTMS-es Tappetino professionale da scrivania in pelle Mega Size...'
+tags: 
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

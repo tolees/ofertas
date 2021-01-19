@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319-bddtk7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076LN6XHL-es SILIK para Mujer Entrenamiento Deportivo Leggings Deportivos Pantalones Largos de Yoga Gimnasio Pantalones para Correr Medias Negro XL'
+slug: 'B076LN6XHL-es SILIK para Mujer Entrenamiento Deportivo Leggings...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

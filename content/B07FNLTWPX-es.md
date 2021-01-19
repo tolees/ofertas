@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41muLzZRaeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNLTWPX-es Clarks Cloud Air T  Zapatillas Altas para Niños  Azul  Navy Leather Navy Leather   27 EU'
+slug: 'B07FNLTWPX-es Clarks Cloud Air T Zapatillas Altas para Niños Azul Navy...'
+tags: 
 actualPrice: 32.44 EUR
 currency: EUR
 price: 32.44

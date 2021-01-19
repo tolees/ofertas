@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D-E-gb63L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXWCS7G-es Kipling Firefly Up  Mochilas para Mujer  Beige  Pastel Beige C   22x31x14 cm'
+slug: 'B01MXWCS7G-es Kipling Firefly Up Mochilas para Mujer Beige Pastel Beige...'
+tags: 
 actualPrice: 33.1 EUR
 currency: EUR
 price: 33.1

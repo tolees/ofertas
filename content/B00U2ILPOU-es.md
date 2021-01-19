@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315E6Twy+0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U2ILPOU-es Rowenta Essential VU4110F0 Ventilador de pie con 3 velocidades de 40 cm y sistema de ahorro de energía  oscilación automática  orientación y altura  ajustable'
+slug: 'B00U2ILPOU-es Rowenta Essential VU4110F0 Ventilador de pie con 3...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

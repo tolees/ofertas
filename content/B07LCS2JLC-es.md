@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qtd1pJNIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LCS2JLC-es Nike Downshifter 9  PSV   Zapatillas de Running Unisex Niños  Rosa  Pink Foam/White/Mtlc Silver/Pure Platinum 601   33 EU'
+slug: 'B07LCS2JLC-es Nike Downshifter 9 PSV Zapatillas de Running Unisex Niños...'
+tags: 
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

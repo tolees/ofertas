@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tZLjGzN3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKH5YX1-es Kipling - Arto S  Bolsos bandolera Mujer  Azul  Active Blue '
+slug: 'B07DKH5YX1-es Kipling - Arto S Bolsos bandolera Mujer Azul Active Blue'
+tags: 
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

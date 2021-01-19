@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RI5EJZ5KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001DRNNKI-es MANN-FILTER CUK 2939 Habitáculo  Filtro antipolen con carbón Activo  para automóviles'
+slug: 'B001DRNNKI-es MANN-FILTER CUK 2939 Habitáculo Filtro antipolen con...'
+tags: 
 actualPrice: 11.12 EUR
 currency: EUR
 price: 11.12

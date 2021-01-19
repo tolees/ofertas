@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+kfPCR3iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5WVLWX-es VQYSKO Brazalete Pulsera Pareja Novios DIY Personalizado Acero Inoxidable Pulsera de Amor Regalo de San Valentin Sorpresa para Novio/a  2 Piezas '
+slug: 'B07M5WVLWX-es VQYSKO Brazalete Pulsera Pareja Novios DIY Personalizado...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

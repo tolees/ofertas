@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pC68i5CcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CY29BQL-es Samsonite B-Lite Icon - Bolsa de Viaje  Duffle 45/18  45 cm  36.5 litros  Azul  Dark Blue '
+slug: 'B07CY29BQL-es Samsonite B-Lite Icon - Bolsa de Viaje Duffle 45/18 45 cm...'
+tags: 
 actualPrice: 76.95 EUR
 currency: EUR
 price: 76.95

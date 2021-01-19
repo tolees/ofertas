@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bfwLB0tCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074GK8TLZ-es CUADERNO DE DIBUJO ZenART B5  18x24 cm  – Cubierta de Cuero Durable  160 Páginas en Blanco de Papel Liso de Marfil Libres de Ácido 120 gsm  Bolsillo Interno  2 Marcadores y Banda Elástica'
+slug: 'B074GK8TLZ-es CUADERNO DE DIBUJO ZenART B5 18x24 cm – Cubierta de Cuero...'
+tags: 
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313zFyo2-oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0051POZ8W-es Johnson s Baby Crema Protectora de Pañal  ideal para la piel delicada de los bebés - 1 x 100 gr'
+slug: 'B0051POZ8W-es Johnson s Baby Crema Protectora de Pañal ideal para la...'
+tags: 
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

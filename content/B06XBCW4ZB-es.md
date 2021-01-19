@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A2GnlNHCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XBCW4ZB-es Superga 2750 COTU Classic  Zapatillas Unisex  Blanco  White Gum   41.5 EU'
+slug: 'B06XBCW4ZB-es Superga 2750 COTU Classic Zapatillas Unisex Blanco White...'
+tags: 
 actualPrice: 37.42 EUR
 currency: EUR
 price: 37.42

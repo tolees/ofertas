@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KgUZ+Jr2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPL4RC-es Pepe Jeans Kim suéter   Forest Green 682   Small para Mujer'
+slug: 'B07MZPL4RC-es Pepe Jeans Kim suéter Forest Green 682 Small para Mujer'
+tags: 
 actualPrice: 36.75 EUR
 currency: EUR
 price: 36.75

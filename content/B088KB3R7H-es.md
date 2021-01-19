@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nqkZnbBhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088KB3R7H-es Remescar - Reparación Nocturna - Contorno De Ojos - Reduzca Las Bolsas Para Los Ojos Y Las Ojeras - Reduzca La Apariencia De Las Patas De Gallo - Crema De Noche Para Los Párpados Caídos'
+slug: 'B088KB3R7H-es Remescar - Reparación Nocturna - Contorno De Ojos -...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vwKPmkHlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CUKZNP4-es Amazon - Funda protectora para Kindle  color blanco y gris — no es compatible con el modelo del 2019  10.ª generación '
+slug: 'B01CUKZNP4-es Amazon - Funda protectora para Kindle color blanco y gris...'
+tags: 
 actualPrice: 16.92 EUR
 currency: EUR
 price: 16.92

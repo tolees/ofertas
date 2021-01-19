@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413c3lWANvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MM4V7NR-es Logitech C920s HD Pro Webcam  Full HD 1080p/30fps  Video-Llamadas  Audio Nítido  Corrección de Iluminación Automática  Tapa de Privacidad  Skype  Zoom  FaceTime  Hangouts  PC/Mac/Portátil/Tablet/XBox'
+slug: 'B07MM4V7NR-es Logitech C920s HD Pro Webcam Full HD 1080p/30fps Video-...'
+tags: 
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

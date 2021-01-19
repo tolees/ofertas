@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Gfd5B8EiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0045XQ5IO-es Bering Ceramic - Reloj analógico de mujer de cuarzo con correa blanca - sumergible a 50 metros'
+slug: 'B0045XQ5IO-es Bering Ceramic - Reloj analógico de mujer de cuarzo con...'
+tags: 
 actualPrice: 148.84 EUR
 currency: EUR
 price: 148.84

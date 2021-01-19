@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jrInLUzYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XSJFZ8-es Foto láser digital Tacómetro Sin contacto RPM Tacómetro Tacómetro láser digital Velocímetro Indicador de velocidad Motor'
+slug: 'B082XSJFZ8-es Foto láser digital Tacómetro Sin contacto RPM Tacómetro...'
+tags: 
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51T329IIjcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B96JF2H-es Purina Gourmet Gold Doble Placer comida para gatos Surtido sabores 8 x [12 x 85 g]'
+slug: 'B07B96JF2H-es Purina Gourmet Gold Doble Placer comida para gatos Surtido...'
+tags: 
 actualPrice: 41.28 EUR
 currency: EUR
 price: 41.28

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rzoPw7QML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHB4V52-es HP 27fh - Monitor de 27" FullHD  1920x1080  panel IPS  16:9  HDMI 1.4  Altura ajustable  5 ms  75 Hz  Low Blue Light  AMD FreeSync  Antirreflectante   Negro'
+slug: 'B07HHB4V52-es HP 27fh - Monitor de 27" FullHD 1920x1080 panel IPS 16:9...'
+tags: 
 actualPrice: 154.74 EUR
 currency: EUR
 price: 154.74

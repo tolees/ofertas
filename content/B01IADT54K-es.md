@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ttPk0dV1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IADT54K-es DIGITNOW! Escáner de película para 35mm negativos y diapositivas   Digitalizador de alta resolución de 10MP  Convertidor No se requiere PC y software'
+slug: 'B01IADT54K-es DIGITNOW! Escáner de película para 35mm negativos y...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

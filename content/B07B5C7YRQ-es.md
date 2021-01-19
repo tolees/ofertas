@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z9pfjbLgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B5C7YRQ-es Logitech M238 Fan Collection - Wireless Mouse - France - 2.4GHZ - N/A - EMEA'
+slug: 'B07B5C7YRQ-es Logitech M238 Fan Collection - Wireless Mouse - France -...'
+tags: 
 actualPrice: 14.29 EUR
 currency: EUR
 price: 14.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418CxxAxyQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072LQ3B2J-es Under Armour Challenger II Knit Warm-Up Chándal  Hombre  Negro  001   S'
+slug: 'B072LQ3B2J-es Under Armour Challenger II Knit Warm-Up Chándal Hombre...'
+tags: 
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

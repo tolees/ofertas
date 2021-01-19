@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eiPwUfWyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYCJJ6G-es Tommy Hilfiger TJM Tommy Classics Stretch Polo  Blau  Black Iris 002   Small para Hombre'
+slug: 'B07JYCJJ6G-es Tommy Hilfiger TJM Tommy Classics Stretch Polo Blau Black...'
+tags: 
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

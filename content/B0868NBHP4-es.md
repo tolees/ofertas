@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t3HYAZCfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868NBHP4-es Suhctup Transparente Funda Compatible con Huawei Y7 2018 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para Huawei Y7 2018 1 '
+slug: 'B0868NBHP4-es Suhctup Transparente Funda Compatible con Huawei Y7 2018...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

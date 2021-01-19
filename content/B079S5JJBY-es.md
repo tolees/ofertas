@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4103SwoqqVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079S5JJBY-es Martina Home Ribera Cubre Chaise Longue  Brazo Izquierdo  Tela  Rojo  240 CM'
+slug: 'B079S5JJBY-es Martina Home Ribera Cubre Chaise Longue Brazo Izquierdo...'
+tags: 
 actualPrice: 31.01 EUR
 currency: EUR
 price: 31.01

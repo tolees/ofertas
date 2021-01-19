@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JgprHDzxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077QJYM1K-es cuzit Durable modo de reloj para el entrenamiento regazo tf807 portátil de mano LCD Digital Cronógrafo Temporizador Cronómetro Deportes temporizador de metal con cordón'
+slug: 'B077QJYM1K-es cuzit Durable modo de reloj para el entrenamiento regazo...'
+tags: 
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

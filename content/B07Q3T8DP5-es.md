@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wG6UzM5bL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3T8DP5-es Cerike Funda para Samsung Galaxy Watch 42mm de Parachoques  Protector Accesorios de Marco Resistente a la compresión de TPU para Reloj Samsung Galaxy Watch 42mm 42mm  Rose Gold '
+slug: 'B07Q3T8DP5-es Cerike Funda para Samsung Galaxy Watch 42mm de Parachoques...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

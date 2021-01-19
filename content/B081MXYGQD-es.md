@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41V25dAWpJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081MXYGQD-es Masajeador 10 Modos de Vibración Silicona Masajeador Eléctricos Recargable'
+slug: 'B081MXYGQD-es Masajeador 10 Modos de Vibración Silicona Masajeador...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

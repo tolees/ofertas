@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+dbrd2dtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CWZSBRK-es BRA Efficient - Cacerola baja con tapa de cristal y asas de silicona extraíbles   apta para todo tipo de cocinas incluida inducción y horno  40 cm'
+slug: 'B00CWZSBRK-es BRA Efficient - Cacerola baja con tapa de cristal y asas...'
+tags: 
 actualPrice: 76.19 EUR
 currency: EUR
 price: 76.19

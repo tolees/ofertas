@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WuLucL2dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BY61ATO-es Panasonic KX-TG7851 - Teléfono fijo inalámbrico  LCD de 1.45" de color   identificador de llamadas 70 números  bloqueo de llamadas  modo ECO  manos libres   Negro  TG7851 Solo'
+slug: 'B00BY61ATO-es Panasonic KX-TG7851 - Teléfono fijo inalámbrico LCD de...'
+tags: 
 actualPrice: 29.39 EUR
 currency: EUR
 price: 29.39

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007MLYA2E-es Absolut Vodka'
+tags: 
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

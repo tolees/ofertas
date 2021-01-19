@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lWJDteiAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXK6R9X-es Johnson s Baby Baño Suave  Jabón Líquido Suave y Delicado de Uso Diario para Pieles Sensibles - 3 x 750 ml'
+slug: 'B07RXK6R9X-es Johnson s Baby Baño Suave Jabón Líquido Suave y Delicado...'
+tags: 
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

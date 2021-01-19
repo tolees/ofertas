@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410WeqcKRtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0045WNGTQ-es Calvados Boulard Calvados Pays d Auge XO mit Geschenkverpackung  1 x 0.7 l '
+slug: 'B0045WNGTQ-es Calvados Boulard Calvados Pays d Auge XO mit...'
+tags: 
 actualPrice: 25.69 EUR
 currency: EUR
 price: 25.69

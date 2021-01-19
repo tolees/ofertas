@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+GxU04gmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895QFFS2-es Luces para Espejo de Maquillaje  12 Luces de Espejo de Tocador con 12 Cintas Autoadhesivas y Interfaz USB  Luces Tocador Maquillaje de 10 Niveles de Brillo y 3 Modos de Luz  Luces Tocador para Espejo'
+slug: 'B0895QFFS2-es Luces para Espejo de Maquillaje 12 Luces de Espejo de...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

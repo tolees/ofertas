@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J2Z5DBM-es TOZO T10 TWS audífonos estéreo inalámbricos con Bluetooth 5.0  IPX8  Impermeables  con Funda de Carga inalámbrica  micrófono Integrado  Sonido Premium con Graves Profundos para Correr y Hacer Deporte'
+slug: 'B07J2Z5DBM-es TOZO T10 TWS audífonos estéreo inalámbricos con Bluetooth...'
+tags: 
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

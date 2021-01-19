@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BY0xIyAzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ2P4Z7-es Juguetrónica- Wonder Cube Cubo infinito  Multicolor  JUG0322    color/modelo surtido'
+slug: 'B07KQ2P4Z7-es Juguetrónica- Wonder Cube Cubo infinito Multicolor JUG0322...'
+tags: 
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

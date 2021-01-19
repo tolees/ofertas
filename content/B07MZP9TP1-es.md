@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SVgUe8MhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZP9TP1-es Pepe Jeans Lia Pantalones   Multi 0aa   36  Talla del Fabricante: Small  para Mujer'
+slug: 'B07MZP9TP1-es Pepe Jeans Lia Pantalones Multi 0aa 36 Talla del...'
+tags: 
 actualPrice: 31.51 EUR
 currency: EUR
 price: 31.51

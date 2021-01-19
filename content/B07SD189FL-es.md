@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JXk8XESlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD189FL-es Bersigar Hombres de Negocios Casual Sport Design Genuino Correa de Cuero Impermeable Reloj de Pulsera automático'
+slug: 'B07SD189FL-es Bersigar Hombres de Negocios Casual Sport Design Genuino...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

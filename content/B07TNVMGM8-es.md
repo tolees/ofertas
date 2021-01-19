@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x6yqGTO5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNVMGM8-es Clarks Un Rio Lace  Zapatillas para Mujer  Gris  Stone Leather Stone Leather   37 EU'
+slug: 'B07TNVMGM8-es Clarks Un Rio Lace Zapatillas para Mujer Gris Stone...'
+tags: 
 actualPrice: 66.45 EUR
 currency: EUR
 price: 66.45

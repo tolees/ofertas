@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JIVBqXXyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RTBVDJ-es Reebok Royal Glide LX  Zapatillas de Gimnasia para Hombre  Negro  Black/Shark/Gum Black/Shark/Gum   39 EU'
+slug: 'B071RTBVDJ-es Reebok Royal Glide LX Zapatillas de Gimnasia para Hombre...'
+tags: 
 actualPrice: 27.44 EUR
 currency: EUR
 price: 27.44

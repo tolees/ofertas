@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cK0JSG4XL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757T6WHC-es 226ERS Salts Electrolytes  Sales Minerales  Electrolitos - 100 cápsulas'
+slug: 'B0757T6WHC-es 226ERS Salts Electrolytes Sales Minerales Electrolitos -...'
+tags: 
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

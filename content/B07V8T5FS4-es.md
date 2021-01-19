@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DKZNLMWGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8T5FS4-es Tommy Hilfiger LowCut Essential Sneaker  Zapatillas para Mujer  Rojo  Blush Red Xif   38 EU'
+slug: 'B07V8T5FS4-es Tommy Hilfiger LowCut Essential Sneaker Zapatillas para...'
+tags: 
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

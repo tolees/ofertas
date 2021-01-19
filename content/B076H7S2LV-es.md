@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kYJ1MSEzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076H7S2LV-es BRA Efficient Iron Parrilla Rectangular Lisa   35 cm'
+slug: 'B076H7S2LV-es BRA Efficient Iron Parrilla Rectangular Lisa 35 cm'
+tags: 
 actualPrice: 45.52 EUR
 currency: EUR
 price: 45.52

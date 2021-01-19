@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xJ5sfD3qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4SHJXY-es adidas Falcon W  Sneaker Womens  Core Black/Core Black/Grey  42 EU'
+slug: 'B07K4SHJXY-es adidas Falcon W Sneaker Womens Core Black/Core Black/Grey...'
+tags: 
 actualPrice: 53.36 EUR
 currency: EUR
 price: 53.36

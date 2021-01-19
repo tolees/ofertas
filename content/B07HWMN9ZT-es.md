@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lrkZsL3RL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HWMN9ZT-es Apple iPhone XS Max  de 512GB  - Plata'
+slug: 'B07HWMN9ZT-es Apple iPhone XS Max de 512GB - Plata'
+tags: 
 actualPrice: 1089.0 EUR
 currency: EUR
 price: 1089.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51hB8DQ-U9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WYLDNR3-es Cargador de Batería Coche  BUDDYGO Nueva Versión 8A 12V/24V Cargador Baterias Mantenimiento Automático Inteligente con Pantalla LCD y Múltiples Protecciones para Automóviles  Motos  ATVs  RVs  Barco'
+slug: 'B07WYLDNR3-es Cargador de Batería Coche BUDDYGO Nueva Versión 8A 12V/24V...'
+tags: 
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

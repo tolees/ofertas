@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ePOXAaARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDVX4J5-es Swatch Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Silicona SVOL100'
+slug: 'B07PDVX4J5-es Swatch Reloj Analógico para Unisex Adultos de Cuarzo con...'
+tags: 
 actualPrice: 62.05 EUR
 currency: EUR
 price: 62.05

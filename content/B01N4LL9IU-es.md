@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21uhCl+JOsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4LL9IU-es G-STAR RAW Rovulc Denim Mid Sneakers  Zapatillas para Hombre  Blanco  White  White 110  110   44 EU'
+slug: 'B01N4LL9IU-es G-STAR RAW Rovulc Denim Mid Sneakers Zapatillas para...'
+tags: 
 actualPrice: 24.61 EUR
 currency: EUR
 price: 24.61

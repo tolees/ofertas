@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dO1uHbFiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O3B1HYK-es Arppe 2090010101 Flexi New Classic Cordon  5 m  S  Rojo'
+slug: 'B00O3B1HYK-es Arppe 2090010101 Flexi New Classic Cordon 5 m S Rojo'
+tags: 
 actualPrice: 11.11 EUR
 currency: EUR
 price: 11.11

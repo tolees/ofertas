@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gPYKVU72L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y32JCLZ-es Arvok 15 6 Pulgadas Funda Protectora para Portátiles/Impermeable Ordenador Portátil Caso/Neopreno del Portátil Bolsa para Acer/ASUS/DELL/Fujitsu/Lenovo/HP/Samsung/Sony'
+slug: 'B06Y32JCLZ-es Arvok 15 6 Pulgadas Funda Protectora para...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

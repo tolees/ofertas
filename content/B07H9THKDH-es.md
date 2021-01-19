@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Dvqf1DihL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9THKDH-es Apple Funda Leather Folio  para el iPhone XS Max  - Azul cabo'
+slug: 'B07H9THKDH-es Apple Funda Leather Folio para el iPhone XS Max - Azul cabo'
+tags: 
 actualPrice: 33.63 EUR
 currency: EUR
 price: 33.63

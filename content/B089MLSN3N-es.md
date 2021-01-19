@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31l5Q5PBlNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089MLSN3N-es Molyflower El más Nuevo B17 Pulsera Deportiva Inteligente Saludable Monitor de sueño Pulsera de Temperatura Reloj Inteligente - Negro + Verde Oscuro'
+slug: 'B089MLSN3N-es Molyflower El más Nuevo B17 Pulsera Deportiva Inteligente...'
+tags: 
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

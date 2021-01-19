@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uXSZp0XgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR38VGX-es MIROCOO V6 Auriculares Bluetooth 5.0  TWS Mini In Ear Auriculares Bluetooth Inalámbricos Cascos Deportivos Auriculares  HiFi Estéreo 125 Horas Reproducción  IPX6 con Mic y Caja de Carga 3000mAh'
+slug: 'B07PR38VGX-es MIROCOO V6 Auriculares Bluetooth 5.0 TWS Mini In Ear...'
+tags: 
 actualPrice: 21.11 EUR
 currency: EUR
 price: 21.11

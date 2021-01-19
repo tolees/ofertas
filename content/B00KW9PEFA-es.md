@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3117oAdHjOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KW9PEFA-es AUSONIA - 34400 NAVAJA INJERTADORA DE TRIÁNGULO CON HOJA DE ACERO Y MANGO DE MADERA DE 20 CM'
+slug: 'B00KW9PEFA-es AUSONIA - 34400 NAVAJA INJERTADORA DE TRIÁNGULO CON HOJA...'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

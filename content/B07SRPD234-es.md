@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51isX5uNsxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRPD234-es Zuzpao Bolsas de Vacio  2 Rollos para sellar al vacío sin BPA  28 cm x 6 m  11"× 20    y 20cm x 6 m  8" × 20   Bolsas de Alimentos Envasados con Certificación de la FDA  Sous Vide Cocina'
+slug: 'B07SRPD234-es Zuzpao Bolsas de Vacio 2 Rollos para sellar al vacío sin...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

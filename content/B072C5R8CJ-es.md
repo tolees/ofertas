@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b79NylLvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072C5R8CJ-es CREA Grifo Osmosis  Grifo de Cocina 3 Vías Ósmosis 360° Giratorio GrifoI， para Fregadero doble palanca Grifería de Cocina Acero iInoxidable'
+slug: 'B072C5R8CJ-es CREA Grifo Osmosis Grifo de Cocina 3 Vías Ósmosis 360°...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TLAfsgzTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMWS1MY-es Clarks Hamble Loafer  Mocasines  Marrón  Tan Leather Tan Leather   41.5 EU'
+slug: 'B07TMWS1MY-es Clarks Hamble Loafer Mocasines Marrón Tan Leather Tan...'
+tags: 
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

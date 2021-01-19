@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510fW2ipbyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IYPUB70-es El Agente De  C.I.P.O.L. - Temporada 1  Parte 1 [DVD]'
+slug: 'B00IYPUB70-es El Agente De C.I.P.O.L. - Temporada 1 Parte 1 [DVD]'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

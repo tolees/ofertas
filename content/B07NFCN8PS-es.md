@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ETJjG107L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFCN8PS-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SHE-3066PGL-7BUEF'
+slug: 'B07NFCN8PS-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 63.42 EUR
 currency: EUR
 price: 63.42

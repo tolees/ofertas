@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61AObe0XHAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00903LFMU-es LAYEN i-SYNC Adaptador de audio inalámbrico Bluetooth Dongle para receptor de música'
+slug: 'B00903LFMU-es LAYEN i-SYNC Adaptador de audio inalámbrico Bluetooth...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

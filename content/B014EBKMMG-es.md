@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xeOo5X4DL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B014EBKMMG-es Osprey Farpoint 40 Men s Travel Pack - Volcanic Grey  S/M '
+slug: 'B014EBKMMG-es Osprey Farpoint 40 Men s Travel Pack - Volcanic Grey S/M'
+tags: 
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

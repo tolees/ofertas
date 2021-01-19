@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-1lNDxh-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4P4PK9-es Universal Tuerca universal Llave cubo Herramientas manuales multifuncionales Reparación del adaptador Herramientas de reparación Juego de herramientas de agarre 7-19mm con adaptador y mango  3 en 1 '
+slug: 'B07Q4P4PK9-es Universal Tuerca universal Llave cubo Herramientas...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

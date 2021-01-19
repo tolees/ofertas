@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZS5C42-es ADERMA Limpieza Personal 1 Unidad 100 ml'
+tags: 
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

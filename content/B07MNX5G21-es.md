@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A8wkuFBlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNX5G21-es Palladium 75156 - Botas de Otra Piel Unisex Adulto  Marrón  Marrón  Carafe B26    37 EU'
+slug: 'B07MNX5G21-es Palladium 75156 - Botas de Otra Piel Unisex Adulto Marrón...'
+tags: 
 actualPrice: 21.11 EUR
 currency: EUR
 price: 21.11

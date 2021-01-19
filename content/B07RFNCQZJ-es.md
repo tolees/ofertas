@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e9z9Qz9HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFNCQZJ-es adidas Predator 19.3 TF  Zapatillas de Fútbol para Hombre  Multicolor  legacy green/sand/solar yellow EF8210    39 2/3 EU'
+slug: 'B07RFNCQZJ-es adidas Predator 19.3 TF Zapatillas de Fútbol para Hombre...'
+tags: 
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

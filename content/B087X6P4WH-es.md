@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ST5y9MQcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087X6P4WH-es Suhctup Funda Transparent Compatible para Galaxy J5 Prime 2017 Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Galaxy J5 Prime 2017 A11'
+slug: 'B087X6P4WH-es Suhctup Funda Transparent Compatible para Galaxy J5 Prime...'
+tags: 
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

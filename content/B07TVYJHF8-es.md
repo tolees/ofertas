@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KBuJeMI-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVYJHF8-es 16 Tipos 20pc 75 Mm Lijar Discos De Papel De Lija Gancho Y Lazo Herramientas Abrasivas - P320'
+slug: 'B07TVYJHF8-es 16 Tipos 20pc 75 Mm Lijar Discos De Papel De Lija Gancho Y...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

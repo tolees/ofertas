@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RE4iXXvXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZD6QYN-es Salomon Trailster GTX W  Zapatillas de Trail Running para Mujer  Morado  Deep Lagoon/Navy Blazer/Purple Magic   41 1/3 EU'
+slug: 'B07CZD6QYN-es Salomon Trailster GTX W Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 55.07 EUR
 currency: EUR
 price: 55.07

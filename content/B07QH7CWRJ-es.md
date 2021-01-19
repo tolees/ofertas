@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519AovN63KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QH7CWRJ-es PRIMENATURE Energy Shot. Energía y vitaminas. Suplemento en viales líquidos. Cansancio  ánimo y defensas. Ginseng  Guaraná  Taurina  BCAAs  NADH  Vitaminas grupo B. 15 x 30ml.'
+slug: 'B07QH7CWRJ-es PRIMENATURE Energy Shot. Energía y vitaminas. Suplemento...'
+tags: 
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

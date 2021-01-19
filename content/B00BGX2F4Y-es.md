@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ty6OxCpBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BGX2F4Y-es Thai Green curry paste  400g by Mae Ploy '
+slug: 'B00BGX2F4Y-es Thai Green curry paste 400g by Mae Ploy'
+tags: 
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

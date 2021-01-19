@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hMIwybKRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QM6XZ8-es Promini - Body para bebé con texto en inglés "I Love Mom and Dad"'
+slug: 'B086QM6XZ8-es Promini - Body para bebé con texto en inglés "I Love Mom...'
+tags: 
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

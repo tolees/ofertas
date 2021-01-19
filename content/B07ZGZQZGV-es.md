@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v00i+UtuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZGZQZGV-es ZOZOSEP Azucarero para medir el azúcar Azucarero de Acero Inoxidable Plateado con Cuchara Taza dispensadora de azúcar casera'
+slug: 'B07ZGZQZGV-es ZOZOSEP Azucarero para medir el azúcar Azucarero de Acero...'
+tags: 
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

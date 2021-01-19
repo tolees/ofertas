@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WhKF17oAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVHX2Y2-es Skechers Go Walk 4-Privilege  Zapatillas sin Cordones para Mujer  Negro  Black BBK   38 EU'
+slug: 'B07CVHX2Y2-es Skechers Go Walk 4-Privilege Zapatillas sin Cordones para...'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

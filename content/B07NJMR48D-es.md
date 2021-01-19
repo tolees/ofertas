@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51mpiDmpCcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJMR48D-es Vermouth La Copa Blanco - D.O. Jerez - 6 x 750 ml - Total: 4500ml'
+slug: 'B07NJMR48D-es Vermouth La Copa Blanco - D.O. Jerez - 6 x 750 ml - Total:...'
+tags: 
 actualPrice: 37.35 EUR
 currency: EUR
 price: 37.35

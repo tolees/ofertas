@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51eSMSldI9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B014EBZS02-es Salomon Trail Gaiters Low Polainas Bajas para Senderismo y Carrera  Protección para los Tobillos  Unisex Adulto  Negro  M'
+slug: 'B014EBZS02-es Salomon Trail Gaiters Low Polainas Bajas para Senderismo y...'
+tags: 
 actualPrice: 23.23 EUR
 currency: EUR
 price: 23.23

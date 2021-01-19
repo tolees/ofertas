@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V88DI4S-es Clarins Eclat Du Jour Crema-Gel Pm 30 ml'
+tags: 
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419zhCmyOaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GY9A2N6-es fascinations- Darth Vader s Tie Fighter Maqueta metálica 3D Star Wars  Color Plata  MMS253 '
+slug: 'B00GY9A2N6-es fascinations- Darth Vader s Tie Fighter Maqueta metálica...'
+tags: 
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

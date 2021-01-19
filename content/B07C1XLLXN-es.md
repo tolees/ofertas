@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pIq-WNICL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C1XLLXN-es Accesorios de Herramientas Rotativas  Meterk 349pcs 1/8" Vástago Eléctrico Grinder  Universal Accesorios con Caja Almacenamiento  Para Corte  Amolado  Lijado  Afilado  Tallado y Pulido de Accesorios'
+slug: 'B07C1XLLXN-es Accesorios de Herramientas Rotativas Meterk 349pcs 1/8"...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

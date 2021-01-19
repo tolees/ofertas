@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41haRR79zlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B59G5LW-es Medisana EMS Entrenador muscular abdominal eléctrico  estimulación muscular de brazos  piernas y músculos abdominales  cinturón muscular abdominal con 15 intensidades'
+slug: 'B07B59G5LW-es Medisana EMS Entrenador muscular abdominal eléctrico...'
+tags: 
 actualPrice: 31.35 EUR
 currency: EUR
 price: 31.35

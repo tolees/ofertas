@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QatItBZAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2Z6DRH-es Shock Absorber Ultimate Run Bra Sujetador Deportivo  Multicolor  Gris-Vert D eau 0bz   95E para Mujer'
+slug: 'B07X2Z6DRH-es Shock Absorber Ultimate Run Bra Sujetador Deportivo...'
+tags: 
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

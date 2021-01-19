@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t6E15mGdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6ZK1T8-es Asics Patriot 10  Zapatillas de Running para Hombre  Azul  Imperial/White 402   42 EU'
+slug: 'B07K6ZK1T8-es Asics Patriot 10 Zapatillas de Running para Hombre Azul...'
+tags: 
 actualPrice: 39.35 EUR
 currency: EUR
 price: 39.35

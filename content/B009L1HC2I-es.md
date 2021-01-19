@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414nZvwuJJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009L1HC2I-es Fujifilm 14 mm f:2.8 XF R - Objetivo  Distancia Focal Fija  diámetro: 58 mm   Negro'
+slug: 'B009L1HC2I-es Fujifilm 14 mm f:2.8 XF R - Objetivo Distancia Focal Fija...'
+tags: 
 actualPrice: 499.95 EUR
 currency: EUR
 price: 499.95

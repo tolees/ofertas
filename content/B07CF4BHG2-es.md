@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41425+ojBwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CF4BHG2-es L Oreal Paris Elvive Color Vive Champú Protector  para el pelo teñido - 285 ml'
+slug: 'B07CF4BHG2-es L Oreal Paris Elvive Color Vive Champú Protector para el...'
+tags: 
 actualPrice: 2.06 EUR
 currency: EUR
 price: 2.06

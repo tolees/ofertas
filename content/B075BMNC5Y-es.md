@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CovDHbsPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075BMNC5Y-es Impresora Multifuncional Canon PIXMA TR7550 Negra Wifi de inyección de tinta con Fax y ADF'
+slug: 'B075BMNC5Y-es Impresora Multifuncional Canon PIXMA TR7550 Negra Wifi de...'
+tags: 
 actualPrice: 78.05 EUR
 currency: EUR
 price: 78.05

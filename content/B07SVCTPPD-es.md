@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t778xNcEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVCTPPD-es Lebze Bebé Muselina Swaddle Manta "Diseño de Panda" Bambú Algodon Muselinas 120x120 cm Mantitas para Bebes'
+slug: 'B07SVCTPPD-es Lebze Bebé Muselina Swaddle Manta "Diseño de Panda" Bambú...'
+tags: 
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Uw4WTOkWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H56YPBZ-es X-TIGER Ciclismo Maillots para Hombres con Tirantes Manga Corta Transpirable Secado Rápido con 5D Acolchado Gel Culotes Culotte Pantalones Cortos  Verde M '
+slug: 'B07H56YPBZ-es X-TIGER Ciclismo Maillots para Hombres con Tirantes Manga...'
+tags: 
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

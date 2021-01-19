@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516TyGeyeUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXW2KCT-es Lámpara de ilusión 3D  Siete regalos de Dragon Ball Juguetes Decoración Lámpara de luz de noche LED 7 colores Control táctil Lámpara de decoración de fiesta alimentada por USB  Lámpara visual 3D'
+slug: 'B07QXW2KCT-es Lámpara de ilusión 3D Siete regalos de Dragon Ball...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

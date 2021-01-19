@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BdZ3kLBvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMFBJM7-es Marshall Major III Bluetooth Auriculares plegables  Marrón'
+slug: 'B07CMFBJM7-es Marshall Major III Bluetooth Auriculares plegables Marrón'
+tags: 
 actualPrice: 97.21 EUR
 currency: EUR
 price: 97.21

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-tENYcF+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RE3OR0-es Brabantia 365164 - Prensapurés  Nylon  Color Negro'
+slug: 'B000RE3OR0-es Brabantia 365164 - Prensapurés Nylon Color Negro'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

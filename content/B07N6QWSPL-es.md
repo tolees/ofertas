@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412LJ6b6swL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6QWSPL-es MSI Clutch GM50 - Ratón para Gaming  Sensor óptico PMW-3330  ergonómico  Teclas OMRON  USB   Color Negro'
+slug: 'B07N6QWSPL-es MSI Clutch GM50 - Ratón para Gaming Sensor óptico PMW-3330...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414tkoT0FpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB88HYN-es LAST LEVEL- Funko Figura Pop Zoolander: Hansel  Multicolor  FFK36430 '
+slug: 'B07HB88HYN-es LAST LEVEL- Funko Figura Pop Zoolander: Hansel Multicolor...'
+tags: 
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g1sTXhVbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001DHSYVQ-es Brother LC1100HYBK - Cartucho de tinta negro de larga duración  duración estimada: hasta 900 páginas según ISO/IEC 24711 '
+slug: 'B001DHSYVQ-es Brother LC1100HYBK - Cartucho de tinta negro de larga...'
+tags: 
 actualPrice: 22.41 EUR
 currency: EUR
 price: 22.41

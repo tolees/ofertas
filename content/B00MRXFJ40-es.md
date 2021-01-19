@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ww0lq+C5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MRXFJ40-es INCREÍBLE Lima Pies Removedor De Piel Dura - MEJORES Archivos De Pie Para Durezas Pies MEGAFILE GENUINO Pedicura Removedor De Callos Talón Pelar Huevo De Pies Piedra Pomez Para Pies Ped Pedi'
+slug: 'B00MRXFJ40-es INCREÍBLE Lima Pies Removedor De Piel Dura - MEJORES...'
+tags: 
 actualPrice: 11.21 EUR
 currency: EUR
 price: 11.21

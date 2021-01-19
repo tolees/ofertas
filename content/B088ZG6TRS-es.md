@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41elgcBahwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088ZG6TRS-es YPSNH para Samsung Galaxy Watch Active Correa  Silicona Reemplazo Correas 20MM Banda Pulseras de Repuesto Correa Suave Compatible con Samsung Active2/Galaxy 42MM Watch/Gear S2 Classic/Gear Sport'
+slug: 'B088ZG6TRS-es YPSNH para Samsung Galaxy Watch Active Correa Silicona...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qzhkS5WOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HBG3J6-es ART VVIES Mit Haken Wandbild 20x20 Zoll Neugeborenen Kleines Kind Junge Person Lächelt Küche Holz Gerahmte Leinwand für Hauptdekorationen Kunst Malerei'
+slug: 'B082HBG3J6-es ART VVIES Mit Haken Wandbild 20x20 Zoll Neugeborenen...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31T-DCpbVuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009WOB5EU-es Lee Luke Jeans  Clean Black  29W / 32L para Hombre'
+slug: 'B009WOB5EU-es Lee Luke Jeans Clean Black 29W / 32L para Hombre'
+tags: 
 actualPrice: 21.02 EUR
 currency: EUR
 price: 21.02

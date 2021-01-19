@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31L53tPS+KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S9I77DS-es AVAX DT-7 - Digital LCD Food Thermometer Kitchen Cooking Probe for Wine  Food  Meat  Steak  Turkey  BBQ  Yerba Mate  etc. - Temperature range: -50C to 300C / -58F to 572F -  tube packaging and a protective cap included for better protection  - Battery Included by AVAX'
+slug: 'B00S9I77DS-es AVAX DT-7 - Digital LCD Food Thermometer Kitchen Cooking...'
+tags: 
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

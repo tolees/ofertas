@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bsb2NoIbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086GVLNK6-es Oihxse Transparente Funda para OPPO Find X2 Ultrafina Silicona Suave TPU Carcasa Interesante Perro Patrón Flexible Protectora Estuche Antigolpes Anti-Choque  A10 '
+slug: 'B086GVLNK6-es Oihxse Transparente Funda para OPPO Find X2 Ultrafina...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

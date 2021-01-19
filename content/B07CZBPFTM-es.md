@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Di7v1jmoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZBPFTM-es Under Armour UA Tech Mesh Short Pantalones Cortos  Hombre  Azul  Academy/Steel 408   M'
+slug: 'B07CZBPFTM-es Under Armour UA Tech Mesh Short Pantalones Cortos Hombre...'
+tags: 
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

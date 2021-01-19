@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BM67VB6-es Mustela Stelatopia Aceite de Baño 200 ml'
+tags: 
 actualPrice: 8.62 EUR
 currency: EUR
 price: 8.62

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v-mafxShL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08J74LJYD-es DEtasyXworld Bolsa para portátil de 13 Pulgadas Bolsa Repelente de protección a Prueba de Golpes Bolsa para computadora portátil y Tableta Funda para Macbook-Negro'
+slug: 'B08J74LJYD-es DEtasyXworld Bolsa para portátil de 13 Pulgadas Bolsa...'
+tags: 
 actualPrice: 3.28 EUR
 currency: EUR
 price: 3.28

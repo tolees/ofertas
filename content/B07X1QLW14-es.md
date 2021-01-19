@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sigBCgnPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1QLW14-es Orimade Adhesivo Estantes Cesta para Ducha Estanteria con 5 Colgadores Organizador Baño SUS304 Acero Inoxidable Sin Taladro - Pack de 3'
+slug: 'B07X1QLW14-es Orimade Adhesivo Estantes Cesta para Ducha Estanteria con...'
+tags: 
 actualPrice: 23.75 EUR
 currency: EUR
 price: 23.75

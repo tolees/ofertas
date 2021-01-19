@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AQUxY-hvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089QKXPTF-es Kinberry - Cámara para exteriores  versión nocturna '
+slug: 'B089QKXPTF-es Kinberry - Cámara para exteriores versión nocturna'
+tags: 
 actualPrice: 15.87 EUR
 currency: EUR
 price: 15.87

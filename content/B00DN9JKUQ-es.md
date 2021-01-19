@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MQ-Yw1eDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DN9JKUQ-es Meritene Meritene Junior Batido Chocolate 15Sbrs  450 g'
+slug: 'B00DN9JKUQ-es Meritene Meritene Junior Batido Chocolate 15Sbrs 450 g'
+tags: 
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hnjI8bptL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086PJ4TZ6-es Golden Goose Casual Zapatillas de piel Super Star para hombre  color Amarillo  talla 46 EU'
+slug: 'B086PJ4TZ6-es Golden Goose Casual Zapatillas de piel Super Star para...'
+tags: 
 actualPrice: 420.86 EUR
 currency: EUR
 price: 420.86

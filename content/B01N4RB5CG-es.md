@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xyF2lUHuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4RB5CG-es Panasonic SCUX100EK Home Audio Mini System Microcadena  Home Audio Mini System  USB  Bluetooth  Acabado Mate  Estereo  MAX JukeBox  300 W  De 2 Vías  13 cm  DJ  Subwoofers De 13 cm  Color Negro'
+slug: 'B01N4RB5CG-es Panasonic SCUX100EK Home Audio Mini System Microcadena...'
+tags: 
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

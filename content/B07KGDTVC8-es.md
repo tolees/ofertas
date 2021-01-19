@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510QRFxofQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGDTVC8-es Tbest 1 Par Compresión de Rodillera Manga para Pierna  Rodillera Deportiva Rótula Rodilleras Elástico Antideslizante Soporte Apoyo de Rodilla para Baloncesto Fútbol Correr Ciclismo S- Verde '
+slug: 'B07KGDTVC8-es Tbest 1 Par Compresión de Rodillera Manga para Pierna...'
+tags: 
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PrdJ-eY9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A32WLZQ-es ZENBRE Parlante Bluetooth  Z3 10W Parlante Inalámbrico Portátil hasta 20 Horas de Reproducción  Parlante para Computadora Dual-Driver con potentes Graves Incluidos  Negro '
+slug: 'B01A32WLZQ-es ZENBRE Parlante Bluetooth Z3 10W Parlante Inalámbrico...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

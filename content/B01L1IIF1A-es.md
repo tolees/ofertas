@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZbMnCHEhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L1IIF1A-es Sennheiser HD 569 - Auriculares de Diadema Cerrados  6.3 mm/3.5 mm  micrófono  Control Remoto   Color Negro'
+slug: 'B01L1IIF1A-es Sennheiser HD 569 - Auriculares de Diadema Cerrados 6.3...'
+tags: 
 actualPrice: 89.16 EUR
 currency: EUR
 price: 89.16

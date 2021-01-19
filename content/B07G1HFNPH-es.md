@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ApDY0U2rL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1HFNPH-es Plantronics RIG 300 HS Binaural Diadema Negro - Auriculares con micrófono  Consola de Videojuegos + PC/Videojuegos  Binaural  Diadema  Negro  Alámbrico  1 3 m '
+slug: 'B07G1HFNPH-es Plantronics RIG 300 HS Binaural Diadema Negro -...'
+tags: 
 actualPrice: 23.66 EUR
 currency: EUR
 price: 23.66

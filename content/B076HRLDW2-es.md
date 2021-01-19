@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mkI47q5nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HRLDW2-es adidas Core18 TR SHO Y Sport Shorts  Unisex niños  Black/White  5-6Y'
+slug: 'B076HRLDW2-es adidas Core18 TR SHO Y Sport Shorts Unisex niños...'
+tags: 
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

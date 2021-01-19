@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DyGpH-dTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RLRRXGY-es Joseph Joseph Pelador  Acero Inoxidable  Verde  Centimeters'
+slug: 'B00RLRRXGY-es Joseph Joseph Pelador Acero Inoxidable Verde Centimeters'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

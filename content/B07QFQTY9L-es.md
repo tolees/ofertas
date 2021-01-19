@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RAi+7NiHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFQTY9L-es G-STAR RAW Vetar Slim Chino Pantalones  Gris  Asfalt 5126-995   W33/L36  Talla del Fabricante: 33W/ 36L  para Hombre'
+slug: 'B07QFQTY9L-es G-STAR RAW Vetar Slim Chino Pantalones Gris Asfalt...'
+tags: 
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

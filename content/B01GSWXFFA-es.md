@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dMknW8y+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GSWXFFA-es Under Armour UA M Locker III SL  Negro  44 EU'
+slug: 'B01GSWXFFA-es Under Armour UA M Locker III SL Negro 44 EU'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

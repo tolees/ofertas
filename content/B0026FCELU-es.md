@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DJdsaGvoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0026FCELU-es WMF Profi Plus Termómetro Digital  Acero Inoxidable Pulido'
+slug: 'B0026FCELU-es WMF Profi Plus Termómetro Digital Acero Inoxidable Pulido'
+tags: 
 actualPrice: 30.05 EUR
 currency: EUR
 price: 30.05

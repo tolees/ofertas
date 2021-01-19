@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aAKY1NOGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JN8LBYQ-es Powerlegs – Ejercita Tus Piernas Sin Esfuerzo Con Mando A Distancia Incluido - Alivia El Dolor y Mejora La Circulacion - Ejercitador De Piernas Pasivo - Mueve Tus Piernas - Mueve Tu Corazón'
+slug: 'B07JN8LBYQ-es Powerlegs – Ejercita Tus Piernas Sin Esfuerzo Con Mando A...'
+tags: 
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

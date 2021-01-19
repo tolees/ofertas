@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OI5v3zCtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7R48US-es Bonka Café molido de tueste natural y cultivo sostenible - Paquete de Café molido de 250 gr'
+slug: 'B01K7R48US-es Bonka Café molido de tueste natural y cultivo sostenible -...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

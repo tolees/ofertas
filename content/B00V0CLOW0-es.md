@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51VlsNgNc1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V0CLOW0-es Poltergeist Ii / Poltergeist Iii [Edizione: Stati Uniti] [Italia] [Blu-ray]'
+slug: 'B00V0CLOW0-es Poltergeist Ii / Poltergeist Iii [Edizione: Stati Uniti]...'
+tags: 
 actualPrice: 20.67 EUR
 currency: EUR
 price: 20.67

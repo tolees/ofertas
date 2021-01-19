@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xhNI4cHvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001EPDT9O-es adidas - Real Madrid 1ª Pantalon 08/09 Hombre Color: Blanco Talla: S'
+slug: 'B001EPDT9O-es adidas - Real Madrid 1ª Pantalon 08/09 Hombre Color:...'
+tags: 
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

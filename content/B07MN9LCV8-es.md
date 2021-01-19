@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414W+yPz09L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN9LCV8-es UniqueMe Funda para Samsung Galaxy S10 Plus Funda TPU Suave Transparente Delgada Compatible con Samsung Galaxy S10 Plus  Case Suave de Silicona Flexible - Negro'
+slug: 'B07MN9LCV8-es UniqueMe Funda para Samsung Galaxy S10 Plus Funda TPU...'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

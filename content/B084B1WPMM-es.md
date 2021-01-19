@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eH7-7mBXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084B1WPMM-es Lubricante Intimo Durex Gel Original 2 x 100 ml | Lubricante al agua Durex'
+slug: 'B084B1WPMM-es Lubricante Intimo Durex Gel Original 2 x 100 ml |...'
+tags: 
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

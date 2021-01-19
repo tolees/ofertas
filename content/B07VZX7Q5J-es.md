@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZX7Q5J-es Aggelos'
+tags: 
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rsSAYENGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FVKQXGF-es Levoit Purificador de Aire para Hogar  Oficina y Escritorio con Filtro HEPA de Eficiencia 99 97%  Liviano y Portátil con Diseño Compacto para Alergia  Tabaco  Olor  Caspas de Mascotas  Azul  LV-H126'
+slug: 'B07FVKQXGF-es Levoit Purificador de Aire para Hogar Oficina y Escritorio...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

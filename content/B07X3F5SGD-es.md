@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HawJOGYpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3F5SGD-es Hiboy  Silla Self Balancing Compatible con Todos los Patinetes Eléctricos de 6.5  8 y 10 Pulgadas  Niños  Asiento Kart Negro  Talla Unica'
+slug: 'B07X3F5SGD-es Hiboy Silla Self Balancing Compatible con Todos los...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

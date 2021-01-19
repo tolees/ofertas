@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31e-tYHfN9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZPJVGL-es Quantum Mechanix Star Trek-Insignia: Medical  Color Multicolor  Talla única Abysse Corp BIJQMX004'
+slug: 'B074ZPJVGL-es Quantum Mechanix Star Trek-Insignia: Medical Color...'
+tags: 
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

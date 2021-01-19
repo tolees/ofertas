@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yFL9uTmXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HVFG2T-es K9CK Luces LED para Technic Grúa Todoterreno 42082  Kit de Iluminación Luz Compatible con Bloques de construcción  NO Incluido en el Modelo '
+slug: 'B083HVFG2T-es K9CK Luces LED para Technic Grúa Todoterreno 42082 Kit de...'
+tags: 
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

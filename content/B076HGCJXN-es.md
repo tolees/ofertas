@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51O-tRC37FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HGCJXN-es Balvi salvamanteles Tomato Sauce En Forma de Bote de conserva Al ser magnético se adhiere a Superficies metálicas Silicona'
+slug: 'B076HGCJXN-es Balvi salvamanteles Tomato Sauce En Forma de Bote de...'
+tags: 
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

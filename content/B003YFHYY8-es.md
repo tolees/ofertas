@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417ZiYFJ6TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003YFHYY8-es Bosch TKA8653 - Máquina de café  1100 W  capacidad para 8/12 tazas  color blanco y negro'
+slug: 'B003YFHYY8-es Bosch TKA8653 - Máquina de café 1100 W capacidad para 8/12...'
+tags: 
 actualPrice: 32.88 EUR
 currency: EUR
 price: 32.88

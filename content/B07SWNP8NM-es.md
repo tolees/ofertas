@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PmV2oEbPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWNP8NM-es adidas EQT Gazelle  Zapatillas de Gimnasia para Hombre  Azul  Collegiate Navy/Gold Met./Solar Yellow Collegiate Navy/Gold Met./Solar Yellow   43 1/3 EU'
+slug: 'B07SWNP8NM-es adidas EQT Gazelle Zapatillas de Gimnasia para Hombre Azul...'
+tags: 
 actualPrice: 48.75 EUR
 currency: EUR
 price: 48.75

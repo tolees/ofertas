@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JvnzipWDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BYFTEY2-es S&R Tenaza Alicates Pico Loro profesional con Ajuste Rápido  CR-V. Asas de doble recubrimiento'
+slug: 'B01BYFTEY2-es S&R Tenaza Alicates Pico Loro profesional con Ajuste...'
+tags: 
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

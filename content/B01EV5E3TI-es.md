@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vOTd7AgoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EV5E3TI-es IntimaTe WM Heart Giratoria de Oficina Silla de Escritorio de Malla con Reposacabezas  Ergonómica Mecanismo Sincronizado Altura Ajustable  Tela'
+slug: 'B01EV5E3TI-es IntimaTe WM Heart Giratoria de Oficina Silla de Escritorio...'
+tags: 
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

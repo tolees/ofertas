@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/2175NOOvQsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C1CVMSY-es Logitech B100 Ratón con Cable  3 Botones  Seguimiento Óptico  Ambidiestro  PC/Mac/Portátil   Blanco'
+slug: 'B00C1CVMSY-es Logitech B100 Ratón con Cable 3 Botones Seguimiento Óptico...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

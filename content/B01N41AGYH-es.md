@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xhU1+GMGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N41AGYH-es Biwond S10 Dual SIM+Camara+Bluetooth+Radio Flip SeniorPhone Blanco'
+slug: 'B01N41AGYH-es Biwond S10 Dual SIM+Camara+Bluetooth+Radio Flip...'
+tags: 
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

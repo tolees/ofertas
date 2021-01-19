@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NDXcJdgWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073K1TZLL-es Reebok Royal Complete  Zapatillas para Hombre  Negro  Black Bs7343   44.5 EU'
+slug: 'B073K1TZLL-es Reebok Royal Complete Zapatillas para Hombre Negro Black...'
+tags: 
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

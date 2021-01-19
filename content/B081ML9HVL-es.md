@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TIcvLPJVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081ML9HVL-es Almohadilla de protección para la cabeza del bebé Almohada para el reposacabezas del niño Cuello del bebé Alas lindas Cojín de resistencia a la caída de enfermería Rosa'
+slug: 'B081ML9HVL-es Almohadilla de protección para la cabeza del bebé Almohada...'
+tags: 
 actualPrice: 6.41 EUR
 currency: EUR
 price: 6.41

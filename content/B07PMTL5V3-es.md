@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SKHVEBrdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMTL5V3-es Under Armour Favorite 2.0 Bolsa Deportiva  Mujer  Negro  OSFA'
+slug: 'B07PMTL5V3-es Under Armour Favorite 2.0 Bolsa Deportiva Mujer Negro OSFA'
+tags: 
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

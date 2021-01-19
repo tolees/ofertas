@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Psj2W6pEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Y09PZPW-es Jata SW546 SANDWICHERA  1500 W  0 Decibeles  Negro'
+slug: 'B00Y09PZPW-es Jata SW546 SANDWICHERA 1500 W 0 Decibeles Negro'
+tags: 
 actualPrice: 27.2 EUR
 currency: EUR
 price: 27.2

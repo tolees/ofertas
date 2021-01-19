@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lZwbpfwDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075N3P1NZ-es BIC Gel-ocity Illusion Recambios para Bolis de Gel Borrables punta media  0 7 mm  – Negro  Blíster de 3 unidades'
+slug: 'B075N3P1NZ-es BIC Gel-ocity Illusion Recambios para Bolis de Gel...'
+tags: 
 actualPrice: 2.61 EUR
 currency: EUR
 price: 2.61

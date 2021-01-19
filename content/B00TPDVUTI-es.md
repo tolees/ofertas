@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CFnu-HYCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TPDVUTI-es L Oréal Paris Infalible Primer  PreBase Alisadora de Maquillaje Larga Duración 24H - 35 ml'
+slug: 'B00TPDVUTI-es L Oréal Paris Infalible Primer PreBase Alisadora de...'
+tags: 
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66
@@ -28,7 +29,7 @@ Tienes [L Oréal Paris Infalible Primer  PreBase Alisadora de Maquillaje Larga D
 - Prepara la piel para aplicar el maquillaje, alisando los poros
 - Textura gel transparente ligero de rápida absorción
 - Pre base de maquillaje matificante Infalible
-- Aplicar por todo el rostro en movimientos circulares para preparar y alisar la superficie de la piel
 - Permite que el maquillaje aguante intacto por más tiempo
+- Aplicar por todo el rostro en movimientos circulares para preparar y alisar la superficie de la piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TPDVUTI/?tag=tolees-21)

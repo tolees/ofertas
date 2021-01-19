@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NK4iPucNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5AH7UG-es New Balance ML373  Zapatillas para Hombre  Azul  Navy   42.5 EU'
+slug: 'B01M5AH7UG-es New Balance ML373 Zapatillas para Hombre Azul Navy 42.5 EU'
+tags: 
 actualPrice: 43.35 EUR
 currency: EUR
 price: 43.35

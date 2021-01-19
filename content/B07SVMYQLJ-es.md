@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411ZNXYfgIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVMYQLJ-es L Oreal Men Expert Pure Charcoal  Gel Limpiador Anti-Imperfecciones con Carbón Purificante  1 Paquete de 6 Unidades x 100 ml - Total: 600 ml'
+slug: 'B07SVMYQLJ-es L Oreal Men Expert Pure Charcoal Gel Limpiador Anti-...'
+tags: 
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

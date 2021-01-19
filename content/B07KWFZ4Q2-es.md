@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LuZWOVnzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWFZ4Q2-es Belkin Boost Up Bold - Cargador inalámbrico  para iPhone 11/11 Pro/Pro Max  XS/XS Max  XR  SE  Samsung S10/10+/10e  Note9  Huawei P30/P30 Pro  LG y otros  Airpods  - adaptador de corriente no incluido'
+slug: 'B07KWFZ4Q2-es Belkin Boost Up Bold - Cargador inalámbrico para iPhone...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

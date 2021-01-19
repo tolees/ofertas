@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YuXUvJMtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHTT9LD-es Lacoste Graduate BL 1 SMA  Zapatillas para Hombre  Blanco  White/White   43 EU'
+slug: 'B07DHTT9LD-es Lacoste Graduate BL 1 SMA Zapatillas para Hombre Blanco...'
+tags: 
 actualPrice: 68.0 EUR
 currency: EUR
 price: 68.0

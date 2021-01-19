@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a+she4SnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L97GVGG-es Under Armour SweaterFleece 1/2 Zip Parte Superior del Calentamiento  Hombre  Negro  SM'
+slug: 'B07L97GVGG-es Under Armour SweaterFleece 1/2 Zip Parte Superior del...'
+tags: 
 actualPrice: 50.16 EUR
 currency: EUR
 price: 50.16

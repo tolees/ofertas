@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51XqSY0VTdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072K67GWL-es Victoria Bota Serraje Animales  Zapatillas Unisex Niños  Beige  Ballet 495   27 EU'
+slug: 'B072K67GWL-es Victoria Bota Serraje Animales Zapatillas Unisex Niños...'
+tags: 
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

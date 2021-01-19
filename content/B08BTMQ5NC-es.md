@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4179MWTW7iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BTMQ5NC-es Vinilo decorativo Ropa Categoría Muebles Ventana Armario Decoración Etiqueta de la pared Etiqueta Mural'
+slug: 'B08BTMQ5NC-es Vinilo decorativo Ropa Categoría Muebles Ventana Armario...'
+tags: 
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

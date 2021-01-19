@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eE5kYOmUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJFTXV8-es LED Reloj Despertador de Dormitorio Vibrante  Atenuador de 7 Pulgadas  Luz Nocturna de 7 Colores  Volumen Ajustable  Alarmas Duales  2 Puertos USB para Sordo  Durmientes Pesados Deficiencia Auditiva'
+slug: 'B07SJFTXV8-es LED Reloj Despertador de Dormitorio Vibrante Atenuador de...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

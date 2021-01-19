@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fSRnaTACL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D61SM1I-es Trangoworld Ghawdex Sn Pantalones Largos  Hombre  Azul Royal/Antracita  L'
+slug: 'B01D61SM1I-es Trangoworld Ghawdex Sn Pantalones Largos Hombre Azul...'
+tags: 
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516HVC7rBHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071QY4NHW-es De Longhi PrimaDonna S EVO - Cafetera Automática Controlable desde Smartphone  Espresso y Cappuccino  Pantalla LCD Táctil  Sistema Latte Crema  Limpieza Automática  ECAM 510.55.M  Plata'
+slug: 'B071QY4NHW-es De Longhi PrimaDonna S EVO - Cafetera Automática...'
+tags: 
 actualPrice: 353.0 EUR
 currency: EUR
 price: 353.0

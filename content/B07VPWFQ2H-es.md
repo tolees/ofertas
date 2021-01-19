@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l3h44C3GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPWFQ2H-es Leuzea carthamoides  Ecdysterone  Maral raíz 200mg Extracto de hierbas naturales  Resistencia y resistencia  Suplemento anabólico natural  60 tabletas '
+slug: 'B07VPWFQ2H-es Leuzea carthamoides Ecdysterone Maral raíz 200mg Extracto...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

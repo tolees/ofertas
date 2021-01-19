@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jj1Z-n7-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D486JRF-es KUNGYO Decoraciones de Fiesta de Cumpleaños para Adultos y Niños  Oro Rosa Gigante Número 1 y Estrella de Helio Globos  Cintas  Globos de Confeti de Látex- Rose Gold Suministros de Fiesta'
+slug: 'B07D486JRF-es KUNGYO Decoraciones de Fiesta de Cumpleaños para Adultos y...'
+tags: 
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

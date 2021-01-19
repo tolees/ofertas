@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rbTDHdjSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRWLH7B-es Tom Ford FT0754 52N Dark Havana FT0754 Pilot Sunglasses Lens Category 3 Size 59'
+slug: 'B07ZRWLH7B-es Tom Ford FT0754 52N Dark Havana FT0754 Pilot Sunglasses...'
+tags: 
 actualPrice: 194.0 EUR
 currency: EUR
 price: 194.0

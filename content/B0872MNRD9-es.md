@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uaGN4j08L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872MNRD9-es NMBC Almohadilla de Asiento de Coche Cool Pad 1 Universal Fundas de Asiento de Coche Almohadilla de Asiento de Coche de Cuentas de Madera Cojines de Asiento extraíbles-46x46cm A'
+slug: 'B0872MNRD9-es NMBC Almohadilla de Asiento de Coche Cool Pad 1 Universal...'
+tags: 
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

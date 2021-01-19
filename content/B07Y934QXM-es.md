@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MrL1rBX9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y934QXM-es XTI 57028  Zapatillas para Niñas  Amarillo  Amarillo Amarillo   32 EU'
+slug: 'B07Y934QXM-es XTI 57028 Zapatillas para Niñas Amarillo Amarillo Amarillo...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

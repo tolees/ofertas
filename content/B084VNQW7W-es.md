@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GHLlyutLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084VNQW7W-es Coñac Naranja Marrón Báltico Ámbar Bola de Oro Vermeil Pendientes de Gota'
+slug: 'B084VNQW7W-es Coñac Naranja Marrón Báltico Ámbar Bola de Oro Vermeil...'
+tags: 
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

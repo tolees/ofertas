@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kgu6iKLPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MRB8LZ1-es Nike Phantom Venom Academy FG  Zapatillas de Fútbol Unisex Adulto  Amarillo  Volt/Obsidian/Volt 717   38.5 EU'
+slug: 'B07MRB8LZ1-es Nike Phantom Venom Academy FG Zapatillas de Fútbol Unisex...'
+tags: 
 actualPrice: 55.97 EUR
 currency: EUR
 price: 55.97

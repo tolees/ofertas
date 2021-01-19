@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414c2e2eCTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777X5MDT-es ASUS ROG Strix XG35VQ - Monitor Curvo de Gaming 35 Pulgadas  UWQHD 3440x144  100 Hz  Extreme Low Motion Blur  Adaptive-Sync  FreeSync '
+slug: 'B0777X5MDT-es ASUS ROG Strix XG35VQ - Monitor Curvo de Gaming 35...'
+tags: 
 actualPrice: 628.99 EUR
 currency: EUR
 price: 628.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jhn2+umXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771KH8FL-es Eastpak Tranverz S Maleta  51 cm  42 L  Negro  Black '
+slug: 'B0771KH8FL-es Eastpak Tranverz S Maleta 51 cm 42 L Negro Black'
+tags: 
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

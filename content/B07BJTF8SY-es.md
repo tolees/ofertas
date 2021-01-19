@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51a+iflLuxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJTF8SY-es Philips Barbero con Sistema de aspiración SBT720/15 Set Recorte Facial  Negro  Plata  Normal'
+slug: 'B07BJTF8SY-es Philips Barbero con Sistema de aspiración SBT720/15 Set...'
+tags: 
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

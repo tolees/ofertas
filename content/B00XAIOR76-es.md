@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAIOR76-es Instituto Español Piel Sana Loción Corporal - 500 ml'
+tags: 
 actualPrice: 1.93 EUR
 currency: EUR
 price: 1.93

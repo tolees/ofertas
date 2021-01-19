@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4113dI1iY0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2B33KT-es JACK & JONES Jjebasic Knit V-Neck Noos suéter  Azul Navy Blazer  Small para Hombre'
+slug: 'B07C2B33KT-es JACK & JONES Jjebasic Knit V-Neck Noos suéter Azul Navy...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

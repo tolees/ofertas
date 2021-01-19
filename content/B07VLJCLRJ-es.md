@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419VfC4yCXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLJCLRJ-es Calvin Klein Brazilian Braguita brasileña  Rosa  Pink GLO TZ7    Talla del Fabricante: X-Small  para Mujer'
+slug: 'B07VLJCLRJ-es Calvin Klein Brazilian Braguita brasileña Rosa Pink GLO...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

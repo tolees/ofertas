@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gbx+E4CCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYHV8MT-es Crema Antiarrugas Mujer Para Cara - Con Colageno Eliminar Las Lineas de Expresion y Arrugas | Natural Hidratante Crema Antimanchas | Dia-Noche Suero Reafirmante'
+slug: 'B07TYHV8MT-es Crema Antiarrugas Mujer Para Cara - Con Colageno Eliminar...'
+tags: 
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

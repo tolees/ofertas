@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AY3BaDXyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RBQWAUO-es Dolce & Gabbana - Pour Homme Intenso Eau De Perfume Spray  200 ml'
+slug: 'B00RBQWAUO-es Dolce & Gabbana - Pour Homme Intenso Eau De Perfume Spray...'
+tags: 
 actualPrice: 64.32 EUR
 currency: EUR
 price: 64.32

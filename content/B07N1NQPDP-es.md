@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HMRFdB14L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1NQPDP-es AH Kalkaire - Carbón activado de bambú Pasta de dientes negro - Pasta de dientes blanqueadora para dientes sensibles - Pasta de dientes blanqueadora sin flúor - Agente blanqueador natural - menta'
+slug: 'B07N1NQPDP-es AH Kalkaire - Carbón activado de bambú Pasta de dientes...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

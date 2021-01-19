@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YGmLaJPaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWMBHXD-es KuGi para Huawei Mate 20 Pro  dureza  HD  transparente  sin burbujas  de alta sensibilidad  fácil instalación  protector de pantalla de cristal templado para Huawei Mate 20 Pro Transparente.'
+slug: 'B07GWMBHXD-es KuGi para Huawei Mate 20 Pro dureza HD transparente sin...'
+tags: 
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

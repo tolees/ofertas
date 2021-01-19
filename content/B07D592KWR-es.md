@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iUQkIkD0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D592KWR-es Fjallraven Kånken Photo Insert Wallets and Small Bags  Unisex Adulto  Frost Green  OneSize'
+slug: 'B07D592KWR-es Fjallraven Kånken Photo Insert Wallets and Small Bags...'
+tags: 
 actualPrice: 56.45 EUR
 currency: EUR
 price: 56.45

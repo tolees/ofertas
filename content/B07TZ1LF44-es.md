@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UblSz5FAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ1LF44-es Kipling Creativity S  Cartera para Mujer  Verde  Light Aloe   14.5x9.5x5 cm'
+slug: 'B07TZ1LF44-es Kipling Creativity S Cartera para Mujer Verde Light Aloe...'
+tags: 
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

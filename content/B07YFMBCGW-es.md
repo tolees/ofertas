@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XLseKk-FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFMBCGW-es Lámparas Solares para Jardín Golwof 6 Piezas Luz Solar Exterior Jardin Luces Solares Jardin Exterior Decorativas Farolillos Solares Exterior Iluminación de Caminos para Camino Patio Césped Pasillo'
+slug: 'B07YFMBCGW-es Lámparas Solares para Jardín Golwof 6 Piezas Luz Solar...'
+tags: 
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

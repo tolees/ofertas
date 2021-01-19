@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31THSG4iQxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HTFCESY-es Reebok Classic Leather Zapatillas  Mujer  Negro  Int / Black / Gum   38 EU'
+slug: 'B01HTFCESY-es Reebok Classic Leather Zapatillas Mujer Negro Int / Black...'
+tags: 
 actualPrice: 46.07 EUR
 currency: EUR
 price: 46.07

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+pJgJUBEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BTLY2UM-es Bresser MyTime-Reloj de Cocina Retro  Acero Inoxidable   Dorado'
+slug: 'B01BTLY2UM-es Bresser MyTime-Reloj de Cocina Retro Acero Inoxidable Dorado'
+tags: 
 actualPrice: 16.81 EUR
 currency: EUR
 price: 16.81

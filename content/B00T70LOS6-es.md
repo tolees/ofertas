@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417A2qJoNiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T70LOS6-es Toms Women Clemente Fuchsia  Alpargatas para Mujer  Azul  Navy Stripe University   35.5 EU'
+slug: 'B00T70LOS6-es Toms Women Clemente Fuchsia Alpargatas para Mujer Azul...'
+tags: 
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aVjhwQE5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VH14Z9V-es Pepe Jeans Kenton Sport  Zapatillas para Hombre  Azul Marino 595  43 EU'
+slug: 'B07VH14Z9V-es Pepe Jeans Kenton Sport Zapatillas para Hombre Azul Marino...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

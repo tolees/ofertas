@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KSudu3L6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7NR8CG-es Adidas Fortagym CF Jr  Zapatillas de Competición Unisex Niños  Azul  Reauni/Ftwbla/Narsol 000   32 EU'
+slug: 'B07M7NR8CG-es Adidas Fortagym CF Jr Zapatillas de Competición Unisex...'
+tags: 
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

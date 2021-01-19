@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-zQtf-FCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RR2SRND-es Be Natural  Juego de champú y acondicionador - 3 Unidades'
+slug: 'B07RR2SRND-es Be Natural Juego de champú y acondicionador - 3 Unidades'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

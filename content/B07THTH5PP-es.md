@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5176T73KljL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THTH5PP-es E·Durable 5 pcs Kit de herramientas de reparación en el hogar con alicate combinado cuchillo de utilidad  destornillador Phillips y destornillador de punta estándar  kit de herramientas de mano DIY'
+slug: 'B07THTH5PP-es E·Durable 5 pcs Kit de herramientas de reparación en el...'
+tags: 
 actualPrice: 11.77 EUR
 currency: EUR
 price: 11.77

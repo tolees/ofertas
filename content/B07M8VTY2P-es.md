@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bC2985lyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8VTY2P-es Morph Adulto Iluminarse Screaming Payaso del Demonio Hallowen LED Media máscara'
+slug: 'B07M8VTY2P-es Morph Adulto Iluminarse Screaming Payaso del Demonio...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

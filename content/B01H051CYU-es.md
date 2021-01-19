@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410zRVQKs7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H051CYU-es Forticoll Colágeno Piel y Cabello-Complemento alimenticio en polvo- 270 gr.'
+slug: 'B01H051CYU-es Forticoll Colágeno Piel y Cabello-Complemento alimenticio...'
+tags: 
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

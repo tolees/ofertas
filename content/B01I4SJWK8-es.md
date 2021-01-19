@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61nyrP-+5IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I4SJWK8-es Luces Solar Exterior Tira Lamparas led de Decoración/ Garden iluminación de 22 metros  200 LEDs de decoración con de 8 modos de cambia las formas  impermeable  Blanco  '
+slug: 'B01I4SJWK8-es Luces Solar Exterior Tira Lamparas led de Decoración/...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

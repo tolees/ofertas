@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413XHscO6rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYDCSND-es Parker Urban 1931596 - Pluma estilográfica  negro London Cab  plumín fino  recambio de tinta azul '
+slug: 'B01LYDCSND-es Parker Urban 1931596 - Pluma estilográfica negro London...'
+tags: 
 actualPrice: 41.61 EUR
 currency: EUR
 price: 41.61

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hQvAC8JPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKY8YY1-es Nike Revolution 5  GS   Zapatillas de Running para Niñas  Black Lemon Venom Laser Blue  36.5 EU'
+slug: 'B07RKY8YY1-es Nike Revolution 5 GS Zapatillas de Running para Niñas...'
+tags: 
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

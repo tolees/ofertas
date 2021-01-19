@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IS2zseUlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJD35V6-es Omega 3 6 7 9  90 perlas enriquecidas con aceite de lino  onagra  oliva  germen de trigo y nueces de Macadamia  beneficioso para el corazón  vista y cerebro  novonatur'
+slug: 'B07XJD35V6-es Omega 3 6 7 9 90 perlas enriquecidas con aceite de lino...'
+tags: 
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

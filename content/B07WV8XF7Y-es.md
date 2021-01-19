@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AVzfXiDrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WV8XF7Y-es Alled Cámara Correa Correa de Cuello Camara De Hombro Cuello Cinturón Bohemia Vintage Cámara Universal Ajustable Correas para Nikon Canon Sony Lumix Fujifilm Pentax Olympus DSLR SLR Etc.  Cowboy '
+slug: 'B07WV8XF7Y-es Alled Cámara Correa Correa de Cuello Camara De Hombro...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

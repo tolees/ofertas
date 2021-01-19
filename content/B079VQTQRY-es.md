@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eKqxREakL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VQTQRY-es L Oreal Paris Age Perfect Renacimiento Celular Contorno de Ojos Mirada Radiante - 15 ml'
+slug: 'B079VQTQRY-es L Oreal Paris Age Perfect Renacimiento Celular Contorno de...'
+tags: 
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

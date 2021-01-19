@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yxWuCL6KL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000AITPZ-es Kärcher Bolsa de filtro de papel  6.959-130.0 '
+slug: 'B0000AITPZ-es Kärcher Bolsa de filtro de papel 6.959-130.0'
+tags: 
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

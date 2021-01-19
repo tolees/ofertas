@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RkWnMB4DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711TYQB4-es DC Figura de Vinilo Cyborg  colección Justice League  Funko 13487 '
+slug: 'B0711TYQB4-es DC Figura de Vinilo Cyborg colección Justice League Funko...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

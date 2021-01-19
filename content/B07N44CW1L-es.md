@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517r8eAIZbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N44CW1L-es Desigual Trousers Pat Pantalones  Negro 2000  W  Talla de Fabricante : S  para Mujer'
+slug: 'B07N44CW1L-es Desigual Trousers Pat Pantalones Negro 2000 W Talla de...'
+tags: 
 actualPrice: 18.28 EUR
 currency: EUR
 price: 18.28

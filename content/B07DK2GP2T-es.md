@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uFgJZaX4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK2GP2T-es Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable F20380/1'
+slug: 'B07DK2GP2T-es Festina Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 71.66 EUR
 currency: EUR
 price: 71.66

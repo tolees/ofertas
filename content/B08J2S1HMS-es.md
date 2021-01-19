@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xIEKSZq3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08J2S1HMS-es Bluelucon lenceria mujer 4 Cajas De Almacenamiento Cajas De Almacenamiento Bolsas De Almacenamiento / 5 Correas De Ajuste para Aliviar El Dolor De OíDo  B '
+slug: 'B08J2S1HMS-es Bluelucon lenceria mujer 4 Cajas De Almacenamiento Cajas...'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

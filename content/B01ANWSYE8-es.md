@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HxKRu+KXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ANWSYE8-es Think Gizmos Equipo de construcción para niños – Ingenious Machines a Control Remoto Kit de Construcción de Juguete  Robot Pato  Maquina de Fuego  Tren y Robot Esquiador '
+slug: 'B01ANWSYE8-es Think Gizmos Equipo de construcción para niños – Ingenious...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

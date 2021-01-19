@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PveaW6ciL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00159JVVO-es Gillette venus breeze - Cuchillas de recambio para maquinilla de afeitar  el embalaje puede variar  - paquete de 8 unidades'
+slug: 'B00159JVVO-es Gillette venus breeze - Cuchillas de recambio para...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

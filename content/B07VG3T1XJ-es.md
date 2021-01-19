@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41grHmh7UDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VG3T1XJ-es edc by Esprit 099cc1b048 Pantalones  Gris  Gunmetal 015   W42/L30  Talla del Fabricante: 42/30  para Mujer'
+slug: 'B07VG3T1XJ-es edc by Esprit 099cc1b048 Pantalones Gris Gunmetal 015...'
+tags: 
 actualPrice: 19.85 EUR
 currency: EUR
 price: 19.85

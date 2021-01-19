@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516sw3Ql2mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXKBQXB-es Batidora de Vaso  Deik Batidora 3 en 1 con Molinillo y Picadora de Carne  Batidora Smoothie para Batidos y Alimentos para Bebés  Base de Acero Inoxidable  4 Cuchillas de Titanio  500W & 26000RMP'
+slug: 'B07BXKBQXB-es Batidora de Vaso Deik Batidora 3 en 1 con Molinillo y...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

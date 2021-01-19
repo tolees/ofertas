@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RxVOrcXCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K4N1PZ6-es Sennheiser HD 4.20s - Microauriculares de Diadema Cerrados  Compatible con Smartphones y Tablets  Color Negro  Around-Ear'
+slug: 'B01K4N1PZ6-es Sennheiser HD 4.20s - Microauriculares de Diadema Cerrados...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

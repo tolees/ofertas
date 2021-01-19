@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JDCQ+rgXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SNFVN6-es San Ignacio Q3249 Set 3pc Utensilios de Cocina Nylon  Colección Jolie de la Marca'
+slug: 'B083SNFVN6-es San Ignacio Q3249 Set 3pc Utensilios de Cocina Nylon...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

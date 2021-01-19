@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Vk6HATvrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWX4BJ6-es G-STAR RAW Feldspar High Waist Straight Cargo Pantalones  Azul  Mazarine Blue B067-4213   34W / 34L para Mujer'
+slug: 'B07JWX4BJ6-es G-STAR RAW Feldspar High Waist Straight Cargo Pantalones...'
+tags: 
 actualPrice: 15.33 EUR
 currency: EUR
 price: 15.33

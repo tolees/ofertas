@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31smtzRwoOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNRNPC8-es Adidas Tiro 19 Training Pnt Pantalones Deportivos  Hombre  Negro  Black/White   M'
+slug: 'B07JNRNPC8-es Adidas Tiro 19 Training Pnt Pantalones Deportivos Hombre...'
+tags: 
 actualPrice: 34.48 EUR
 currency: EUR
 price: 34.48

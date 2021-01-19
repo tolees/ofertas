@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l0FUSaNxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018TSZ1JE-es Pedigree Dentastix Fresh Snacks para Higiene Oral  Perro Pequeño 5-10 Kg  - 28 piezas  440 g.'
+slug: 'B018TSZ1JE-es Pedigree Dentastix Fresh Snacks para Higiene Oral Perro...'
+tags: 
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61WQm+LXk-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078G8JRB6-es vamei Agua Dibujo Pintura 86 X 57cm Libro magico Agua Pizarra Magica Agua Water Doodle Mats Multicolor Agua Aqua Drawing Mat Pad Set con 3 Plumas de Agua y 8 moldes para niños niñas Color Aleatorio'
+slug: 'B078G8JRB6-es vamei Agua Dibujo Pintura 86 X 57cm Libro magico Agua...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

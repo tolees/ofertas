@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+hrq01fvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R44CWL-es ORICO USB Adaptador Bluetooth 4.0 Adaptador Bluetooth USB Plug & Play Compatible Windows XP/Vista/ 7/8/10 Blanco'
+slug: 'B075R44CWL-es ORICO USB Adaptador Bluetooth 4.0 Adaptador Bluetooth USB...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

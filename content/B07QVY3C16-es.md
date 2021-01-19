@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pNV5D2V5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVY3C16-es Espejo de Maquillaje de Doble Cara con luz LED  5X de Aumento Espejo Cosmético con Interruptor Táctil de Brillo Ajustable. Espejo de Viaje Iluminado Portátil  360° de Rotación …'
+slug: 'B07QVY3C16-es Espejo de Maquillaje de Doble Cara con luz LED 5X de...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

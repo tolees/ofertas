@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a+wZWCZ6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OQ1IWYA-es AIR OPTIX Lentes de contacto multifocales mensuales  R 8.6  D 14.2  1.75 dioptría  adición baja - 3 lentillas'
+slug: 'B00OQ1IWYA-es AIR OPTIX Lentes de contacto multifocales mensuales R 8.6...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

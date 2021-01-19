@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ciWyaqKEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074Z2ZJDG-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable SSB259P1'
+slug: 'B074Z2ZJDG-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 114.0 EUR
 currency: EUR
 price: 114.0

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000ONJIEC-es Osram Dulux L - Lámpara 36w/840 lumilux 2g11'
+tags: 
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x2dGSlplL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BR9J1MX-es Beforya Paris** – Pendientes largos Square – * Moonlight * – Plata de ley 925 – Pendientes con Swarovski® – Bonitos pendientes para mujer con caja de regalo'
+slug: 'B08BR9J1MX-es Beforya Paris** – Pendientes largos Square – * Moonlight *...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

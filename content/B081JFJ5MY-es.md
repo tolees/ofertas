@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31b+b1sFPFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081JFJ5MY-es Pulverizador Facial  Hieha Nano Vapor Pulverizador Portátil para Cuidado de la Piel  Mini Facial Mist Sprayer USB carga'
+slug: 'B081JFJ5MY-es Pulverizador Facial Hieha Nano Vapor Pulverizador Portátil...'
+tags: 
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

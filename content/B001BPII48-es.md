@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412mX65R-hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BPII48-es Manhattan Convertidor PS/2 a USB USB A 2X Mini DIN 6 Pin  PS/2  Negro - Adaptador para Cable  USB A  2X Mini DIN 6 Pin  PS/2   Male Connector/Female Connector  0 19 m  Negro '
+slug: 'B001BPII48-es Manhattan Convertidor PS/2 a USB USB A 2X Mini DIN 6 Pin...'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

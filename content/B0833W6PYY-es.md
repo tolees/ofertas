@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61Cj45qpK-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0833W6PYY-es Peradix Splash Pad Tapete de Juegos de Agua 170CM Almohadilla Aspersor de Juego Agua +10 * Fichas de Juego de plástico Salpicaduras y PVC Salpica Almohadilla Aire Libre Fiesta Playa Jardín'
+slug: 'B0833W6PYY-es Peradix Splash Pad Tapete de Juegos de Agua 170CM...'
+tags: 
 actualPrice: 20.69 EUR
 currency: EUR
 price: 20.69

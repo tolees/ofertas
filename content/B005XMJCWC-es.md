@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41utSYa5-2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XMJCWC-es DIM Generous Invisible Sujetador  Blanco  Nacre   100B para Mujer'
+slug: 'B005XMJCWC-es DIM Generous Invisible Sujetador Blanco Nacre 100B para Mujer'
+tags: 
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

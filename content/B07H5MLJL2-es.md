@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KqtpkPO-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5MLJL2-es Triple Magnesium Complex  Citrato de magnesio completamente reaccionado  taurato y bisglicinato  Vegano  90 Cápsulas'
+slug: 'B07H5MLJL2-es Triple Magnesium Complex Citrato de magnesio completamente...'
+tags: 
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

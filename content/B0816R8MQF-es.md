@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L7-Vm+14L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0816R8MQF-es CERDÁ LIFE S LITTLE MOMENTS 2200005545 Conjunto Polaina y Body para Recién Nacido de Mickey - Mouse - Licencia Oficial Disney Studios  Azul  Blanco  1 a 3 meses para Bebés'
+slug: 'B0816R8MQF-es CERDÁ LIFE S LITTLE MOMENTS 2200005545 Conjunto Polaina y...'
+tags: 
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

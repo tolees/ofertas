@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SBWAXu01L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK5LWZR-es Columbia Caldorado III  Zapatillas de Running para Asfalto para Hombre  Azul  Beta  Super Son 445   41.5 EU'
+slug: 'B07KK5LWZR-es Columbia Caldorado III Zapatillas de Running para Asfalto...'
+tags: 
 actualPrice: 47.17 EUR
 currency: EUR
 price: 47.17

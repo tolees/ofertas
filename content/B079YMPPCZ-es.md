@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wqgjVB00L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YMPPCZ-es Funko Pop!- Unmasked Spider-Man Figura de Vinilo  30633 '
+slug: 'B079YMPPCZ-es Funko Pop!- Unmasked Spider-Man Figura de Vinilo 30633'
+tags: 
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

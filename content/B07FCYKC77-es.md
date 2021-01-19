@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51F15tcSgUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCYKC77-es 60g  0.13lb  té negro hecho a mano de China Yunnan Dianhong  pequeña bola de oro  té negro en conserva  té chino gongfu té rojo Dian hong té verde comida'
+slug: 'B07FCYKC77-es 60g 0.13lb té negro hecho a mano de China Yunnan Dianhong...'
+tags: 
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

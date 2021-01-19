@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61t18zCktML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DYB2NLQ-es yideng Fiesta de Halloween Globos Conjunto  Grande de Halloween del Alfabeto Globos Calabaza del Gato del Globo del cráneo del Palo de araña Hoja hincha para la Escena de Halloween decoración'
+slug: 'B08DYB2NLQ-es yideng Fiesta de Halloween Globos Conjunto Grande de...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

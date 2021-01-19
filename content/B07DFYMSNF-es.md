@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41r%2BGsLpxYL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFYMSNF-es New Balance 247v2  Zapatillas para Mujer  Verde  Faded Rosin/Marble Head EB   40.5 EU'
+slug: 'B07DFYMSNF-es New Balance 247v2 Zapatillas para Mujer Verde Faded...'
+tags: 
 actualPrice: 36 EUR
 currency: EUR
 price: 36

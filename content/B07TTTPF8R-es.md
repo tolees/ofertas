@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uhCZavDvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTTPF8R-es Skechers Go Run Fast Steadfast  Zapatillas sin Cordones para Hombre  Blanco  White Textile/Blue & Red Trim Wblr   47 EU'
+slug: 'B07TTTPF8R-es Skechers Go Run Fast Steadfast Zapatillas sin Cordones...'
+tags: 
 actualPrice: 33.3 EUR
 currency: EUR
 price: 33.3

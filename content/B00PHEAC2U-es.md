@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UCOhz4k4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PHEAC2U-es caseable - Funda para Kindle y Kindle Paperwhite  diseño "Dialogue with the sky"'
+slug: 'B00PHEAC2U-es caseable - Funda para Kindle y Kindle Paperwhite diseño...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

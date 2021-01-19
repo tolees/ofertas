@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sT+2nItTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015RGIXVE-es adidas Stan Smith Cf - Zapatillas de running Hombre  Blanc  Ftwr White/Ftwr White/Gold Met   EU 46  UK 11 '
+slug: 'B015RGIXVE-es adidas Stan Smith Cf - Zapatillas de running Hombre Blanc...'
+tags: 
 actualPrice: 57.98 EUR
 currency: EUR
 price: 57.98

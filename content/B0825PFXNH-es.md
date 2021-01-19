@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825PFXNH-es DC Shoes Tussler - Riñonera - Hombre - ONE SIZE'
+tags: 
 actualPrice: 18.8 EUR
 currency: EUR
 price: 18.8

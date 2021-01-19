@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WhbJqJ8hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PTLX3CB-es Kipling - Creativity S  Monederos Mujer  Azul  Stone Blue Block   14.5x9.5x5 cm  B x H T '
+slug: 'B07PTLX3CB-es Kipling - Creativity S Monederos Mujer Azul Stone Blue...'
+tags: 
 actualPrice: 9.82 EUR
 currency: EUR
 price: 9.82

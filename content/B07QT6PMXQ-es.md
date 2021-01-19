@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QLHvlnqFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QT6PMXQ-es Asics Gel-Kayano 26 LS  Zapatillas de Running para Hombre  Gris  Graphite Grey/Piedmont Grey 020   44.5 EU'
+slug: 'B07QT6PMXQ-es Asics Gel-Kayano 26 LS Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

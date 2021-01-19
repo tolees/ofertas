@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AGoFMT-vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VR8MV47-es Skechers GO Walk Lite  Zapatillas para Mujer  Beige Natural Textile Trim Nat  39.5 EU'
+slug: 'B07VR8MV47-es Skechers GO Walk Lite Zapatillas para Mujer Beige Natural...'
+tags: 
 actualPrice: 20.68 EUR
 currency: EUR
 price: 20.68

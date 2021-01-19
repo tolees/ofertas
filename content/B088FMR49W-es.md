@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vDeB7AK3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FMR49W-es Hd101 2.5"USB 3.0 Disco Duro Externo Caja de extracción de Disco Led de Alta Velocidad Instalación fácil para Windows 98Se / Me / 2000 / XP/Vista - Negro'
+slug: 'B088FMR49W-es Hd101 2.5"USB 3.0 Disco Duro Externo Caja de extracción de...'
+tags: 
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

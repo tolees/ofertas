@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k1M51y8VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X7CGZY1-es Zapatillas de Running para Unisex Niños Gimnasia Ligero Running Atletismo Sneakers Niñas Todo Negro 32 EU '
+slug: 'B07X7CGZY1-es Zapatillas de Running para Unisex Niños Gimnasia Ligero...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

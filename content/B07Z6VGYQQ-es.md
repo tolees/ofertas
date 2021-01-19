@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ps1K7ASGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6VGYQQ-es Flores Mediterráneas A.G F. Mediterráneas Lilas y Mimosas  150 ml  Pack de 1'
+slug: 'B07Z6VGYQQ-es Flores Mediterráneas A.G F. Mediterráneas Lilas y Mimosas...'
+tags: 
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

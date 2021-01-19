@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kf7DWw4EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GQ0KUYY-es Orbegozo RRM 510 – Emisor térmico sin aceite  3 elementos  500 W  2 niveles de potencia  color blanco'
+slug: 'B00GQ0KUYY-es Orbegozo RRM 510 – Emisor térmico sin aceite 3 elementos...'
+tags: 
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

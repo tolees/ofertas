@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51igAsts-bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS79KTF-es Calvin Klein - Revealed 2g Mini Reporter  Organizadores de bolsos Hombre  Azul  Navy   0.1x0.1x0.1 cm  W x H L '
+slug: 'B07RS79KTF-es Calvin Klein - Revealed 2g Mini Reporter Organizadores de...'
+tags: 
 actualPrice: 61.09 EUR
 currency: EUR
 price: 61.09

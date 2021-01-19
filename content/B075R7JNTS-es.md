@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x17dU2yZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R7JNTS-es New Balance Fresh Foam Cruz v2 Knit m  Zapatillas para Mujer  Negro  Black/Magnet/White Munsell Kb2   39 EU'
+slug: 'B075R7JNTS-es New Balance Fresh Foam Cruz v2 Knit m Zapatillas para...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

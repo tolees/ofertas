@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fv6EW9JWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXWLGD9-es Kipling KiplingKiryasMujerMochilasGris  Dark Carbon Y  32.5x44x12.5 Centimeters  B x H x T '
+slug: 'B07TXWLGD9-es Kipling KiplingKiryasMujerMochilasGris Dark Carbon Y...'
+tags: 
 actualPrice: 21.65 EUR
 currency: EUR
 price: 21.65

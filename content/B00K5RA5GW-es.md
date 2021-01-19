@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dxb4gorRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K5RA5GW-es Tommy Hilfiger 3p Trunk Ropa interior  Negro  Black 990   XX-Large  Pack de 3  para Hombre'
+slug: 'B00K5RA5GW-es Tommy Hilfiger 3p Trunk Ropa interior Negro Black 990 XX-...'
+tags: 
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

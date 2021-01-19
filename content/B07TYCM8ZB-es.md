@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3199LJKFZbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYCM8ZB-es Lee Plain Crew Suéter  Azul  Midnight Navy Ma   Small para Hombre'
+slug: 'B07TYCM8ZB-es Lee Plain Crew Suéter Azul Midnight Navy Ma Small para Hombre'
+tags: 
 actualPrice: 23.73 EUR
 currency: EUR
 price: 23.73

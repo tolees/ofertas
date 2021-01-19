@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Kao2EjJNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XG5JXQJ-es Chicco Physio Soft Pack de 2 Chupetes de Silicona  6-16 Meses   Rosa y Morado'
+slug: 'B06XG5JXQJ-es Chicco Physio Soft Pack de 2 Chupetes de Silicona 6-16...'
+tags: 
 actualPrice: 5.53 EUR
 currency: EUR
 price: 5.53

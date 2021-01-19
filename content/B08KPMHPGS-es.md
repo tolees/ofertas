@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Dd+G7dh3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08KPMHPGS-es Bisoo - Toalla Bebe con Capucha - Set de Baño 4 Piezas con Capa de Baño 80x80 cm y 3 Paños 30x30 cm - 100% Algodón Turco - Regalo Original Recien Nacido Embarazada Baby Shower  Azul '
+slug: 'B08KPMHPGS-es Bisoo - Toalla Bebe con Capucha - Set de Baño 4 Piezas con...'
+tags: 
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uG-sZy3sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077BCPSML-es Calvin Klein Cotton Stretch-3er Cierre  Negro  Black W. Black WB Xwb   Large  Pack de 3  para Hombre'
+slug: 'B077BCPSML-es Calvin Klein Cotton Stretch-3er Cierre Negro Black W....'
+tags: 
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SRQzzKCQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQDK7NF-es Gliss - Champú Reparación Total para Cabellos Secos - 650ml - Schwarzkopf'
+slug: 'B07YQDK7NF-es Gliss - Champú Reparación Total para Cabellos Secos -...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

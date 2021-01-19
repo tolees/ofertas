@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lCCmn7mlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y1VLSC8-es Nike Court Borough Low 2  Zapatillas de Baloncesto para Niños  Negro  Black/Black/Black 001   31 EU'
+slug: 'B07Y1VLSC8-es Nike Court Borough Low 2 Zapatillas de Baloncesto para...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

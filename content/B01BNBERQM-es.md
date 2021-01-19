@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yDMQ6dBnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BNBERQM-es Hugo Boss Orange 1513352 - Reloj analógico de pulsera para hombre  correa de piel'
+slug: 'B01BNBERQM-es Hugo Boss Orange 1513352 - Reloj analógico de pulsera para...'
+tags: 
 actualPrice: 82.41 EUR
 currency: EUR
 price: 82.41

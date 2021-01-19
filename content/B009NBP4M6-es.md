@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51abKvngsOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009NBP4M6-es BIC Marking marcadores permanentes punta media Cónica – Oro y Plata  Blíster de 2 unidades'
+slug: 'B009NBP4M6-es BIC Marking marcadores permanentes punta media Cónica –...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

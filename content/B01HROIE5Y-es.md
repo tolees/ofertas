@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PxrFL+cVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HROIE5Y-es Onitsuka Tiger Mexico 66  Zapatillas de Entrenamiento Unisex Adulto  Negro  Black/Black   44 EU'
+slug: 'B01HROIE5Y-es Onitsuka Tiger Mexico 66 Zapatillas de Entrenamiento...'
+tags: 
 actualPrice: 49.45 EUR
 currency: EUR
 price: 49.45

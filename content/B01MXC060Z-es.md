@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OCGu0tUtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXC060Z-es Speedo Girls Boom Allover  Bañador para niña  Multicolor  Electric Pink/Black   128 cm  Talla del Fabricante: 26 '
+slug: 'B01MXC060Z-es Speedo Girls Boom Allover Bañador para niña Multicolor...'
+tags: 
 actualPrice: 18.92 EUR
 currency: EUR
 price: 18.92

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RKXrIzrjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ5GS2R-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable LTS-100D-7AVEF'
+slug: 'B07NJ5GS2R-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

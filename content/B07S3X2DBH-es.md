@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DfJzeTThL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3X2DBH-es New Balance Draft  Zapatillas de Running para Mujer  Gris  Grey Lg1   36 EU'
+slug: 'B07S3X2DBH-es New Balance Draft Zapatillas de Running para Mujer Gris...'
+tags: 
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

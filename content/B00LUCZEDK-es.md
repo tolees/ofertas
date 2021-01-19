@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QRYR5OoWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LUCZEDK-es Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Sure Thing '
+slug: 'B00LUCZEDK-es Revlon ColorStay Gel Envy Esmalte de Uñas de Larga...'
+tags: 
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

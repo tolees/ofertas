@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516MA4YwJJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0196ZD9VQ-es Hayward Tiger Shark QC  Limpiafondos automático  Suelo Paredes y línea de flotación   Gris'
+slug: 'B0196ZD9VQ-es Hayward Tiger Shark QC Limpiafondos automático Suelo...'
+tags: 
 actualPrice: 480.0 EUR
 currency: EUR
 price: 480.0

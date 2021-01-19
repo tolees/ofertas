@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JNw-D1OML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H29J8CV-es ZHXMALL [1 Unidades] Samsung Galaxy S9 Protector Pantalla  Cristal Templado [2.5D Round Edge] [Dureza 9H] [Sin Burbujas] [Anti-Huellas] Vidrio Templado Protector de Pantalla para Samsung Galaxy S9'
+slug: 'B07H29J8CV-es ZHXMALL [1 Unidades] Samsung Galaxy S9 Protector Pantalla...'
+tags: 
 actualPrice: 1.07 EUR
 currency: EUR
 price: 1.07

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31iTqUgGMEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797MV1XZ-es Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mujer  University Red/Gym Red/ White   L'
+slug: 'B0797MV1XZ-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer University...'
+tags: 
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

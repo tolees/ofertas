@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WXM2c-jSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006XBSPF2-es Yale YSV/200/DB1 Caja Fuerte Básica Pequeña  200 x 310 x 200 mm'
+slug: 'B006XBSPF2-es Yale YSV/200/DB1 Caja Fuerte Básica Pequeña 200 x 310 x...'
+tags: 
 actualPrice: 33.47 EUR
 currency: EUR
 price: 33.47

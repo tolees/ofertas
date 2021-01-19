@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000X2B4UK-es Stanley 1-56-001 Maza de albañil Antivibración 1360g'
+tags: 
 actualPrice: 28.31 EUR
 currency: EUR
 price: 28.31

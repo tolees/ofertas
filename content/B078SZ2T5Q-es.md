@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DyUM8MP1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SZ2T5Q-es Salomon Ellipse Freeze CS WP  Calzado de Invierno para Mujer  Negro  Black/Phantom/Beach Glass   42 2/3 EU'
+slug: 'B078SZ2T5Q-es Salomon Ellipse Freeze CS WP Calzado de Invierno para...'
+tags: 
 actualPrice: 36.31 EUR
 currency: EUR
 price: 36.31

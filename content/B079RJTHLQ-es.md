@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bxasxLIeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RJTHLQ-es Philips BT3226/14 Barbero Recortadora de Barba y Pelo   funda de viaje  sistema Lift & Trim  20 posiciones  funda de viaje  Negro'
+slug: 'B079RJTHLQ-es Philips BT3226/14 Barbero Recortadora de Barba y Pelo...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+89GPCxsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CIFN12S-es Tefal Expertise - Sartén de aluminio de 32 cm  antiadherente con extra de titanio  aptas para todo tipo de cocinas incluido inducción'
+slug: 'B01CIFN12S-es Tefal Expertise - Sartén de aluminio de 32 cm...'
+tags: 
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

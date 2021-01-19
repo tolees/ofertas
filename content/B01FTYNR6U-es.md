@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vGatz0vGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FTYNR6U-es Skechers Energy Lights-Elate  Zapatillas Altas para Niños  Blanco  White   34 EU'
+slug: 'B01FTYNR6U-es Skechers Energy Lights-Elate Zapatillas Altas para Niños...'
+tags: 
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

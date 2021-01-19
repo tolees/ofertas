@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41th0S5DWBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DYXM3AU-es Vibram FiveFingers Kso Evo  Zapatillas de Deporte Exterior  Hombre  Negro  Black   42 EU'
+slug: 'B00DYXM3AU-es Vibram FiveFingers Kso Evo Zapatillas de Deporte Exterior...'
+tags: 
 actualPrice: 66.45 EUR
 currency: EUR
 price: 66.45

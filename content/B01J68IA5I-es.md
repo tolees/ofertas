@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y7gtpPwmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J68IA5I-es [casa.pro] Set de 2 tumbonas plegables 190cm beige con parasol hamaca de acero para playa  jardín y piscina'
+slug: 'B01J68IA5I-es [casa.pro] Set de 2 tumbonas plegables 190cm beige con...'
+tags: 
 actualPrice: 59.79 EUR
 currency: EUR
 price: 59.79

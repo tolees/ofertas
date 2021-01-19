@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tk7pmryzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TF9MJFX-es Skechers Melson Raymon  Zapatillas para Hombre  Verde  Khaki Canvas Khk   44 EU'
+slug: 'B07TF9MJFX-es Skechers Melson Raymon Zapatillas para Hombre Verde Khaki...'
+tags: 
 actualPrice: 39.1 EUR
 currency: EUR
 price: 39.1

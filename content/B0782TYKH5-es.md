@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LgWxpzuoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0782TYKH5-es Cuencos mezcladores apilables de acero inoxidable  acabado mate y brillante   set de 6 '
+slug: 'B0782TYKH5-es Cuencos mezcladores apilables de acero inoxidable acabado...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

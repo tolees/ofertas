@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xs5-gjx0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CQ53RQ-es Samsonite Flux - Spinner 68/25 Expandable Equipaje de Mano  68 cm  95 litros  Azul  Navy Blue '
+slug: 'B071CQ53RQ-es Samsonite Flux - Spinner 68/25 Expandable Equipaje de Mano...'
+tags: 
 actualPrice: 153.3 EUR
 currency: EUR
 price: 153.3

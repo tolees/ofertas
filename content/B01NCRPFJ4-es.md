@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K3s8w5l+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCRPFJ4-es Carbón Activado Premium – Polvo 100 % orgánico – Sin aditivos químicos – blanqueador dental – Para blanqueamiento - Active Carbon Activated Charcoal - pasta de dientes - mascarilla puntos negros'
+slug: 'B01NCRPFJ4-es Carbón Activado Premium – Polvo 100 % orgánico – Sin...'
+tags: 
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

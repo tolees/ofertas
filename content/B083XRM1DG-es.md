@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nwEicEm3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XRM1DG-es Enchufe de sincronización wifi Enchufe inalámbrico Puertos de salida de control inteligente Enchufe de control remoto Interruptor de temporización de la regleta eléctrica Asistente de inicio/Blanco'
+slug: 'B083XRM1DG-es Enchufe de sincronización wifi Enchufe inalámbrico Puertos...'
+tags: 
 actualPrice: 15.91 EUR
 currency: EUR
 price: 15.91

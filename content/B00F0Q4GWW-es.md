@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F0Q4GWW-es Universal 69-UN-99 - Boquilla para aspiradoras'
+tags: 
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

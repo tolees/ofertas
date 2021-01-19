@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51NWjfP5dUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079XWZWL1-es Mr. Tronic 20m Cable de Red Ethernet Latiguillo | CAT5e  AWG24  CCA  UTP  RJ45 | Color Gris  20 Metros '
+slug: 'B079XWZWL1-es Mr. Tronic 20m Cable de Red Ethernet Latiguillo | CAT5e...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

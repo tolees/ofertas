@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CjF6sQtZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SDEXHPK-es K&N 33-3025 Filtro de Aire Coche  Lavable y Reutilizable'
+slug: 'B00SDEXHPK-es K&N 33-3025 Filtro de Aire Coche Lavable y Reutilizable'
+tags: 
 actualPrice: 54.93 EUR
 currency: EUR
 price: 54.93

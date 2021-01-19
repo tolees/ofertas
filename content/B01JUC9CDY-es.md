@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ufuuy3SqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JUC9CDY-es Nespresso Krups Citiz XN760B - Cafetera monodosis de cápsulas Nespresso con aeroccino  compacta  19 bares  apagado automático  color titán'
+slug: 'B01JUC9CDY-es Nespresso Krups Citiz XN760B - Cafetera monodosis de...'
+tags: 
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

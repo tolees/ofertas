@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BjyxD1X7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKXY3RV-es Automático Dispensador de Pasta de Dientes y Conjunto de Portacepillos de Dientes con Montaje en la Pared - Manos Libres 2 Exprimidores de Pasta de Dientes - Apto para Niños y Adultos'
+slug: 'B07MKXY3RV-es Automático Dispensador de Pasta de Dientes y Conjunto de...'
+tags: 
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

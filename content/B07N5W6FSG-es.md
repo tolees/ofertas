@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61SQgTSzcCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5W6FSG-es ELEVATED NYLON MINI CROSSOVERHombreMonederosAzul  Sky Captain  4x20.5x18.5 centimeters  B x H x T '
+slug: 'B07N5W6FSG-es ELEVATED NYLON MINI CROSSOVERHombreMonederosAzul Sky...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

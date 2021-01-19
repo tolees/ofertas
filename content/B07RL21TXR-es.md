@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ryuD576kL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RL21TXR-es Calvin Klein Unlined Triangle Sujetador de triángulo  Gris  Silver Rose SVR   K  Talla del Fabricante: 0B36  para Mujer'
+slug: 'B07RL21TXR-es Calvin Klein Unlined Triangle Sujetador de triángulo Gris...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

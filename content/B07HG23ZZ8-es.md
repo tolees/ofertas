@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mvR3lWl7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG23ZZ8-es New Balance 247v2  Zapatillas para Mujer  Rosa  Pink Pink   43 EU'
+slug: 'B07HG23ZZ8-es New Balance 247v2 Zapatillas para Mujer Rosa Pink Pink 43 EU'
+tags: 
 actualPrice: 24.71 EUR
 currency: EUR
 price: 24.71

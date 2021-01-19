@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XixJ1BP0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXMWT7Y-es Hapilife 360 Grifo de Cocina Grifo Mezclador Grifo de pared Fregadero Monomando para Fregadero Grifo de Cuenca Doble Agua Fría y Caliente'
+slug: 'B07RXMWT7Y-es Hapilife 360 Grifo de Cocina Grifo Mezclador Grifo de...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

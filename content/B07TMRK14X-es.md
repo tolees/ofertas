@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TmLY0tcDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMRK14X-es Clarks Un Rio Lace  Zapatillas  Gris  Stone Leather Stone Leather   41 EU'
+slug: 'B07TMRK14X-es Clarks Un Rio Lace Zapatillas Gris Stone Leather Stone...'
+tags: 
 actualPrice: 50.11 EUR
 currency: EUR
 price: 50.11

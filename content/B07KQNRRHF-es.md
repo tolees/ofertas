@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4147Z7-E28L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQNRRHF-es KESOTO 3 Piezas Barril de Cerveza Modelo Accesorios de Habitación para 1/12 Casa de Muñecas en Miniatura'
+slug: 'B07KQNRRHF-es KESOTO 3 Piezas Barril de Cerveza Modelo Accesorios de...'
+tags: 
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

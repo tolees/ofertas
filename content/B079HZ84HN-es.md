@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bLptUEQ5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079HZ84HN-es Racketworld Wilson Six Two BLX – Raqueta de Tenis + 3 Pelotas de Tenis RRP £120'
+slug: 'B079HZ84HN-es Racketworld Wilson Six Two BLX – Raqueta de Tenis + 3...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

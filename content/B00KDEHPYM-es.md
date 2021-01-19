@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pNXrbkB4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KDEHPYM-es Cable equilibrado XLR macho a TRS macho de 6 35 mm  1/4 pulgadas  estéreo | 10 metros | incluye adaptador de toma hembra de 6 35 mm estéreo a conector tipo jack de 3 5 mm y abrazaderas para cables'
+slug: 'B00KDEHPYM-es Cable equilibrado XLR macho a TRS macho de 6 35 mm 1/4...'
+tags: 
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

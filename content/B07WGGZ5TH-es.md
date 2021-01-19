@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51miMdJQEeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGGZ5TH-es Manta Dragón Bebe Personalizada con Nombre. Regalo Bebé Recién Nacido. Tejido Polar. Varios Diseños a Elegir. Dragón'
+slug: 'B07WGGZ5TH-es Manta Dragón Bebe Personalizada con Nombre. Regalo Bebé...'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

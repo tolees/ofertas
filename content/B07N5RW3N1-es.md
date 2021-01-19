@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tsoATEziL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5RW3N1-es Funko- Pop Vinilo: Big Bang Theory S2: Raj Figura Coleccionable  Multicolor  Talla única  38584 '
+slug: 'B07N5RW3N1-es Funko- Pop Vinilo: Big Bang Theory S2: Raj Figura...'
+tags: 
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J+pmvkspL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G6YTG2H-es FOGAWA 2 Pares Taloneras Gel Médica Plantillas Gel Taloneras Fascitis Plantar Taloneras Silicona Para aliviar el Dolor del Tendón de Aquiles Tamaño 39/40-46'
+slug: 'B07G6YTG2H-es FOGAWA 2 Pares Taloneras Gel Médica Plantillas Gel...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

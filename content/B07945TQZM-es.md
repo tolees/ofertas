@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07945TQZM-es Wally Dude Shoes Hombres Lavado Castaño UK10/EU44'
+tags: 
 actualPrice: 44.07 EUR
 currency: EUR
 price: 44.07

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jm8smXgVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TNTGWR-es Funko Pop!- Pop Marvel: X-Men-Colossus Figura de Vinilo  Multicolor  30863 '
+slug: 'B079TNTGWR-es Funko Pop!- Pop Marvel: X-Men-Colossus Figura de Vinilo...'
+tags: 
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

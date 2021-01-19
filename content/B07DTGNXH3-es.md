@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QBm2+Xk8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DTGNXH3-es Calcetines de Deporte Low Cut Pack de 5  Multicolor: 2 x Negro  2 x Gris  1 x Blanco  EU 39-42 '
+slug: 'B07DTGNXH3-es Calcetines de Deporte Low Cut Pack de 5 Multicolor: 2 x...'
+tags: 
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

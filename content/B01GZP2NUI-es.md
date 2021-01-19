@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RoNYg3qOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GZP2NUI-es 2 Pares 9450 Fibra de Carbono Reforzada Hélices Auto-Apretado Apoyos para Phantom2'
+slug: 'B01GZP2NUI-es 2 Pares 9450 Fibra de Carbono Reforzada Hélices Auto-...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jiDsYaMjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYDLJG7-es Skagen Reloj Analogico para Hombre de Cuarzo con Correa en Silicona SKW6510'
+slug: 'B07KYDLJG7-es Skagen Reloj Analogico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

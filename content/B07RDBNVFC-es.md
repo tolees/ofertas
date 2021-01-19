@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aeJTL4zvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDBNVFC-es Tacklife SWS2A - Juego de llaves de vaso  88 piezas  12 cantos  72 dientes  con adaptador cuadrado de 1/4" y 3/8"  CR-V  cianobacteria   color negro'
+slug: 'B07RDBNVFC-es Tacklife SWS2A - Juego de llaves de vaso 88 piezas 12...'
+tags: 
 actualPrice: 33.76 EUR
 currency: EUR
 price: 33.76

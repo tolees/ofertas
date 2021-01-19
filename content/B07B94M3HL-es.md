@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KU-nKPW9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B94M3HL-es Clarks Ashcombemidgtx  Botas Chelsea para Hombre  Marrón  Dark Brown Lea   41 EU'
+slug: 'B07B94M3HL-es Clarks Ashcombemidgtx Botas Chelsea para Hombre Marrón...'
+tags: 
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y7o-hYYXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKJW44Q-es Kipling - Art Mini  Bolsos maletín Mujer  Morado  Active Lilac Bl '
+slug: 'B07DKJW44Q-es Kipling - Art Mini Bolsos maletín Mujer Morado Active...'
+tags: 
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

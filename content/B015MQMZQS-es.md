@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w0zMg3s3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015MQMZQS-es Moulinex Accesorios XF383110 - Accesorio cortador de 3 discos  eje rotación  tapa con doble tubo  color blanco para Cuisine Companion y Cuisine iCompanion  fácil de guardar'
+slug: 'B015MQMZQS-es Moulinex Accesorios XF383110 - Accesorio cortador de 3...'
+tags: 
 actualPrice: 65.89 EUR
 currency: EUR
 price: 65.89

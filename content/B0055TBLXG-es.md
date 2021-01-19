@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WJ-LW8SLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0055TBLXG-es L Oréal Paris Volumissime Carbone X5 Máscara de Pestañas  Color Negro - 19 g'
+slug: 'B0055TBLXG-es L Oréal Paris Volumissime Carbone X5 Máscara de Pestañas...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vUfJjFFrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFBH6BJ-es Tevlaphee Soporte Móvil para Coche  Universal Soporte Móvil Coche ventilacion Gravedad  360 Grados Rotación  Porta Movil Coche para Rejillas del Aire de Coche  de 4.7 a 6.5Pulgadas  Negro '
+slug: 'B07YFBH6BJ-es Tevlaphee Soporte Móvil para Coche Universal Soporte Móvil...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

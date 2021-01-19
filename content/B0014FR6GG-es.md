@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UyW5Cp38L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0014FR6GG-es Cinereplicas - Harry Potter - Bufanda - Licencia Oficial - Casa Gryffindor - 190 cm - Rojo y Negro'
+slug: 'B0014FR6GG-es Cinereplicas - Harry Potter - Bufanda - Licencia Oficial -...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

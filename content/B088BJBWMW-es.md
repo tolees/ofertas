@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Elcj1wnXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BJBWMW-es morpilot Batería 14.4V 2600mah Litio  Compatible con Conga Excellence y Conga Excellence 990 950 1090 DEEBOT N79S N79 Eufy RoboVac 11 11S 11S MAX 12 15C 30 30C 30 MAX 35C  con un Cepillo de Limpieza'
+slug: 'B088BJBWMW-es morpilot Batería 14.4V 2600mah Litio Compatible con Conga...'
+tags: 
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

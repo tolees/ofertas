@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HU4ovhkHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSCBW7H-es SaintderG® Fundas para sillas Pack de 6 Fundas sillas Comedor  Duradera Modern Bouquet de la Boda  Hotel  Decor Restaurante  Champagne Ligero  Pack de 6 '
+slug: 'B07BSCBW7H-es SaintderG® Fundas para sillas Pack de 6 Fundas sillas...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410tH2mJK6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2F9JS1-es Candelabros de Tubos  Retro Vintage Personalidad  Hierro  Agua  Tubería en Forma de Colgante Colgante  lámpara Colgante de luz'
+slug: 'B07Q2F9JS1-es Candelabros de Tubos Retro Vintage Personalidad Hierro...'
+tags: 
 actualPrice: 20.69 EUR
 currency: EUR
 price: 20.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418c74fW0TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YB5HV8L-es Taurus Vac600 Envasadora al vacío  Acero Inoxidable'
+slug: 'B07YB5HV8L-es Taurus Vac600 Envasadora al vacío Acero Inoxidable'
+tags: 
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

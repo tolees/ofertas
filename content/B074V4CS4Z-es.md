@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51E0wu3n20L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074V4CS4Z-es Lebze Muselina Manta Bebé -"Diente de Ballena" Bambú Algodón Bebé Chica o Baby Boy Mantas 120x120 cm Swaddle'
+slug: 'B074V4CS4Z-es Lebze Muselina Manta Bebé -"Diente de Ballena" Bambú...'
+tags: 
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

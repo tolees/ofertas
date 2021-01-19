@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wMg3SyHxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081YNYQBS-es Rodillo Amasar de Madera Rodillo de Cocina con SíMbolos de Crismas de Madera Grabado en Relieve  El Mejor para Fondant  Pastas para Tartas Y Pay  Galletas Y Masa para Pasteles  43 CentíMetros'
+slug: 'B081YNYQBS-es Rodillo Amasar de Madera Rodillo de Cocina con SíMbolos de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

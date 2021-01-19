@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31n7wsqhVlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTD46TV-es Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones  Rosa  Sweet Lilac Heather TY0   Small para Hombre'
+slug: 'B07VTD46TV-es Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones...'
+tags: 
 actualPrice: 25.62 EUR
 currency: EUR
 price: 25.62

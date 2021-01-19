@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41afdsI2ycL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3XL2D5-es Esprit 089ee1i001 suéter  Verde  Dark Green 5 304   Small para Mujer'
+slug: 'B07S3XL2D5-es Esprit 089ee1i001 suéter Verde Dark Green 5 304 Small para...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

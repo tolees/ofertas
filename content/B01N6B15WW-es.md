@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PWnvDv3OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6B15WW-es Overwatch - D.VA & Meka figura de vinilo  Funko 13090 '
+slug: 'B01N6B15WW-es Overwatch - D.VA & Meka figura de vinilo Funko 13090'
+tags: 
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

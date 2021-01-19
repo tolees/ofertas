@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UgyFVYFML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SJZ2NN-es OurLeeme Caja de Almacenamiento de Especias  Caja de Almacenamiento de Especias de Sal de bambú de Madera con contenedor de Tapa giratoria para Tarro de condimento de Almacenamiento de Cocina'
+slug: 'B083SJZ2NN-es OurLeeme Caja de Almacenamiento de Especias Caja de...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

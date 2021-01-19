@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FmSpXoz6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXLH7WZ-es New Balance 500  Zapatillas para Mujer  Gris  Grey HHC   36.5 EU'
+slug: 'B07RXLH7WZ-es New Balance 500 Zapatillas para Mujer Gris Grey HHC 36.5 EU'
+tags: 
 actualPrice: 35.58 EUR
 currency: EUR
 price: 35.58

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31adzg6Zg+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8VL7VV-es Tommy Hilfiger Lightweight Signature Colour-Blocked Trn  Zapatillas Deportivos para Hombre  Blanco  White Ybs   43 EU'
+slug: 'B07V8VL7VV-es Tommy Hilfiger Lightweight Signature Colour-Blocked Trn...'
+tags: 
 actualPrice: 28.11 EUR
 currency: EUR
 price: 28.11

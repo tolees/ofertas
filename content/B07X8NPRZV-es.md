@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LdIOVTdlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8NPRZV-es Baseus Cable USB Tipo C  Cargador Quick Charge 3.0 Tipo c Nylon Trenzado Cable Compatible con Samsung Galaxy S10 S9 S8 A3 A5 2017 Note 10 9 8  Huawei P10 P9  Google Pixel  Sony Xperia XZ  1M '
+slug: 'B07X8NPRZV-es Baseus Cable USB Tipo C Cargador Quick Charge 3.0 Tipo c...'
+tags: 
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

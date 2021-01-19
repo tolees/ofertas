@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518kWutm0lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T14BWXZ-es Charles Wilson Lote 12 Pares Calcetines Básicos  9-11  Navy  0619  '
+slug: 'B07T14BWXZ-es Charles Wilson Lote 12 Pares Calcetines Básicos 9-11 Navy...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

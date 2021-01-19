@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5183MM2YCaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC9NY3M-es Panamami Slime Mermaid Crystal Mud Symphony Pearl Transparent Mud - con Mermaid 80ml - Transparente'
+slug: 'B07WC9NY3M-es Panamami Slime Mermaid Crystal Mud Symphony Pearl...'
+tags: 
 actualPrice: 2.86 EUR
 currency: EUR
 price: 2.86

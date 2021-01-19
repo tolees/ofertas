@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bdNhzW-JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBP1D53-es adidas Altasport CF I  Zapatillas Unisex Niños  Multicolor  Ba9516 Multicolor   26 EU'
+slug: 'B01NBP1D53-es adidas Altasport CF I Zapatillas Unisex Niños Multicolor...'
+tags: 
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

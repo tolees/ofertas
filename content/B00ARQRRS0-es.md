@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dpvm771CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ARQRRS0-es Rimmel London Lasting Finish Matte by Kate Barra De Labios Tono 101-18 gr'
+slug: 'B00ARQRRS0-es Rimmel London Lasting Finish Matte by Kate Barra De Labios...'
+tags: 
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

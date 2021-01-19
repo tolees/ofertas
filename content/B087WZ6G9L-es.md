@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41luWgaV4IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WZ6G9L-es HAOT 10Pcs Kick Shuttlecock Colorful Feather Jianzi Goose Rubber Foot Kicking Shuttlecock para Deportes al Aire Libre Fitness'
+slug: 'B087WZ6G9L-es HAOT 10Pcs Kick Shuttlecock Colorful Feather Jianzi Goose...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JTw5tLw3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND99PVW-es Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 1791621'
+slug: 'B07ND99PVW-es Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 97.3 EUR
 currency: EUR
 price: 97.3

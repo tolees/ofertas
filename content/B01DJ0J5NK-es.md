@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41whOT+o3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DJ0J5NK-es EMPO Toalla Grande Microfibra de 140cm x 80cm Toalla Deportiva con Bolsa para traslado – Súper Absorbente  de Secado rápido  compacta y Liviana  máximo Confort – de Color Azul'
+slug: 'B01DJ0J5NK-es EMPO Toalla Grande Microfibra de 140cm x 80cm Toalla...'
+tags: 
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

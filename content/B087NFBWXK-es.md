@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087NFBWXK-es 50Pcs Tamaño de Cara Libre desechable Azul'
+tags: 
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

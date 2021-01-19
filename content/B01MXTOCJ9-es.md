@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ELfeSbYDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXTOCJ9-es Finether Carretilla Plegable Carro de Transporte con 2 Ruedas y 2 Cuerda Elástica 1 5M  Carrito de Mano Portátil Multifuncional  70kg de Capacidad  Negro'
+slug: 'B01MXTOCJ9-es Finether Carretilla Plegable Carro de Transporte con 2...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

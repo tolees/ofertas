@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XjGHBKRFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001F5DJ2K-es Harry Potter Scarf - Bufanda  accesorio de disfraz  Surtido: colores aleatorios'
+slug: 'B001F5DJ2K-es Harry Potter Scarf - Bufanda accesorio de disfraz Surtido:...'
+tags: 
 actualPrice: 3.61 EUR
 currency: EUR
 price: 3.61

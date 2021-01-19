@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yizsz7GqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077V2X4ZM-es Kipling Creativity S  Cartera para Mujer  Azul  True Navy   14.5x9.5x5 cm'
+slug: 'B077V2X4ZM-es Kipling Creativity S Cartera para Mujer Azul True Navy...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

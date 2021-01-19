@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31t3zWZYtKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6S4KVX-es KHOMO Carcasa Funda Trasera Semi Transparente para Apple iPad 9.7 2018  2017  Air 1 - Compatible con Smart Cover - Rosa Arena'
+slug: 'B07D6S4KVX-es KHOMO Carcasa Funda Trasera Semi Transparente para Apple...'
+tags: 
 actualPrice: 8.13 EUR
 currency: EUR
 price: 8.13

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FNoS8P3WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013T6R1BW-es PenDrive 8 GB 10 Piezas USB Flash Drives - Portátil Azul 8GB Pen Drive 10 Unidades Memoria USB 2.0 Regalo Llave USB - FEBNISCTE Giratorio Bonito Unidad Flash USB con Cordone para la Familia/Oficina'
+slug: 'B013T6R1BW-es PenDrive 8 GB 10 Piezas USB Flash Drives - Portátil Azul...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

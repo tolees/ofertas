@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Yi2ujNyTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086MLQZDZ-es AUKEH Cargador Surface Pro 36W 12V 2.58A Adaptador de Corriente para Microsoft Surface Pro 3/4/5/6 Surface Go/Laptop/Book con Puerto del USB y Cable Alimentación 1625'
+slug: 'B086MLQZDZ-es AUKEH Cargador Surface Pro 36W 12V 2.58A Adaptador de...'
+tags: 
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YRKdeSaFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGKKD3D-es KLARSTEIN GrowIt Connection Set - Accesorio para huerto hidropónico GrowIt Farm  Lote de ampliación para huertos de Interior  3 Partes: Marco Cable de conexión Fuente de alimentación  Blanco'
+slug: 'B07NGKKD3D-es KLARSTEIN GrowIt Connection Set - Accesorio para huerto...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iTGy16gJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085WT1XZS-es BOSSTER Exprimidor Tubo Pasta Dientes 3 Piezas Exprimidor de Tubos de Plástico Ahorra Pasta de Dientes Cremas para Baño'
+slug: 'B085WT1XZS-es BOSSTER Exprimidor Tubo Pasta Dientes 3 Piezas Exprimidor...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

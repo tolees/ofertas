@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vg2Sv68zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T9KRLK-es Columbia Minx Mid III WP Omni-Heat  Botas para Niños  Gris  Stratus  Camell   38 EU'
+slug: 'B078T9KRLK-es Columbia Minx Mid III WP Omni-Heat Botas para Niños Gris...'
+tags: 
 actualPrice: 26.54 EUR
 currency: EUR
 price: 26.54

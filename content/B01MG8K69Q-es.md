@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61bj9YtwvSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MG8K69Q-es JSVER Funda Blanda para Ordenador portátil 13-13.3 Pulgadas Funda Protectora para Portátiles Funda Sleeve en Fieltro para portátiles Macbook Air/Pro Retina 13.3 Pulgadas con Bolsa de ratón-Gris'
+slug: 'B01MG8K69Q-es JSVER Funda Blanda para Ordenador portátil 13-13.3...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

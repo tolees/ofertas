@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312PAHfuupL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BLZ1JCP-es ITALY MORN Pantalones Jogger de Hombre Bolsillos Laterales XL Azul Oscuro'
+slug: 'B07BLZ1JCP-es ITALY MORN Pantalones Jogger de Hombre Bolsillos Laterales...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

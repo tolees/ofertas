@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IseSAQGCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJK4XX3-es Tefal Everyday Slim - Placa de inducción portatil  6 modos automáticos  1 control manual  240 C  hasta 2100 W  color negro'
+slug: 'B07NJK4XX3-es Tefal Everyday Slim - Placa de inducción portatil 6 modos...'
+tags: 
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

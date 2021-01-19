@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p-Kxn0DTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2PGRFV-es La mejor herramienta de golfista Golf multiherramienta todo en uno - stroke contador  herramienta para reparar piques de golf  mejor Golf Regalo Idea para hombres mujeres  Souvenir  presente'
+slug: 'B01N2PGRFV-es La mejor herramienta de golfista Golf multiherramienta...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

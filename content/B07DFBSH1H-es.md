@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I-I9ybEdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFBSH1H-es Key chain Pop Tomb Raider Llavero Funko Lara Croft  Color Mulitcolor  32394 '
+slug: 'B07DFBSH1H-es Key chain Pop Tomb Raider Llavero Funko Lara Croft Color...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

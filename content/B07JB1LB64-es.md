@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412RthR4uTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JB1LB64-es Under Armour Undeniable 4.0 Duffle SM Bolsa De Deportes  Bolsa De Entrenamiento Unisex Negro OSFA'
+slug: 'B07JB1LB64-es Under Armour Undeniable 4.0 Duffle SM Bolsa De Deportes...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

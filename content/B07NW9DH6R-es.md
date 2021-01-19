@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419yqkD02uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW9DH6R-es Skechers On-The-Go Joy  Botas Altas para Mujer  Beige  39 EU'
+slug: 'B07NW9DH6R-es Skechers On-The-Go Joy Botas Altas para Mujer Beige 39 EU'
+tags: 
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

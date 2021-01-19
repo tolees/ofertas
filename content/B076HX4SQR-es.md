@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rq5KVMIML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HX4SQR-es Disney Star Wars Stormtrooper by Ubtech - Robot inteligente First Order Stormtrooper con Companion App'
+slug: 'B076HX4SQR-es Disney Star Wars Stormtrooper by Ubtech - Robot...'
+tags: 
 actualPrice: 81.95 EUR
 currency: EUR
 price: 81.95

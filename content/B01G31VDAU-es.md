@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pTs5j4nCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G31VDAU-es SueH Design Juego de Manteles Individuales de 8 Unidades Gris en PVC 45 * 30 CM'
+slug: 'B01G31VDAU-es SueH Design Juego de Manteles Individuales de 8 Unidades...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

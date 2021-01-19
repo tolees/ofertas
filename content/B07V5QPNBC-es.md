@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Rq-cmqjjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QPNBC-es Tommy Hilfiger Suede Hilfiger Boatshoe  Mocasines para Hombre  Azul Desert Sky Dw5  43 EU'
+slug: 'B07V5QPNBC-es Tommy Hilfiger Suede Hilfiger Boatshoe Mocasines para...'
+tags: 
 actualPrice: 39.07 EUR
 currency: EUR
 price: 39.07

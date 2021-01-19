@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FBVPRMR-es Bosch 3 397 014 313 Escobilla para limpiaparabrisas'
+tags: 
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

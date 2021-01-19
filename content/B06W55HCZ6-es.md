@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41InBa1oWJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W55HCZ6-es Osprey Fairview 55 Women s Travel Pack with 13L Detachable Daypack - Misty Grey  WS/WM '
+slug: 'B06W55HCZ6-es Osprey Fairview 55 Women s Travel Pack with 13L Detachable...'
+tags: 
 actualPrice: 115.97 EUR
 currency: EUR
 price: 115.97

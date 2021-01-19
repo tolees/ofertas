@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Him0JyXEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQFLWV7-es Taladro Atornillador 20V  LOMVUM Taladro con Percusión de Función  2 * 2 0Ah Batería de Litio Maxima Torsión 33N.m  Luz LED  1h Carga Rápida  27 Accesorios'
+slug: 'B07FQFLWV7-es Taladro Atornillador 20V LOMVUM Taladro con Percusión de...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cZwedQWML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G6NK5DM-es Evergreenweb - Colchones matrimonial 160x190 Espuma de 20 cm de altura para Cama Doble - Transpirable y máximo Confort - color blanco - Con 2 almohadas viscoelástica gratuitas  para todas las camas.'
+slug: 'B00G6NK5DM-es Evergreenweb - Colchones matrimonial 160x190 Espuma de 20...'
+tags: 
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

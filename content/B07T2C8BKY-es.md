@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rIhqO9WSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T2C8BKY-es Armani ExchangeCrossbodyHombreBolso bandoleraNegro  Negro/Black 26x5x21 Centimeters  B x H x T '
+slug: 'B07T2C8BKY-es Armani ExchangeCrossbodyHombreBolso bandoleraNegro...'
+tags: 
 actualPrice: 36.94 EUR
 currency: EUR
 price: 36.94

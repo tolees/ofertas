@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319I6SLHfjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QAIRD6K-es Jata LD85B Limador de Durezas Contiene Dos Rodillos Limadores de Rotación Suave y Eficaz Cabezal Extraíble Lavable  Protegido contra Proyecciones de Agua'
+slug: 'B00QAIRD6K-es Jata LD85B Limador de Durezas Contiene Dos Rodillos...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

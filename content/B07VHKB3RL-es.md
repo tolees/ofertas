@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YPJR4XtjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHKB3RL-es Jack & Jones Jjeliam Knit Crew Neck Noos suéter  Verde  Olive Night Olive Night   Large para Hombre'
+slug: 'B07VHKB3RL-es Jack & Jones Jjeliam Knit Crew Neck Noos suéter Verde...'
+tags: 
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

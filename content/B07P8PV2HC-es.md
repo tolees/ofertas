@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31agznBefZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8PV2HC-es Sebago Classic Dan  Náuticos para Hombre  Negro 902  39 EU'
+slug: 'B07P8PV2HC-es Sebago Classic Dan Náuticos para Hombre Negro 902 39 EU'
+tags: 
 actualPrice: 139.95 EUR
 currency: EUR
 price: 139.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iYeBzVhAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074QMN4YW-es Microsoft - Adaptador Wireless  PC '
+slug: 'B074QMN4YW-es Microsoft - Adaptador Wireless PC'
+tags: 
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zwH5Nvt+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC1YXT3-es PUMA Leader VT SL  Zapatillas para Correr de Carretera Unisex-Adulto  Negro Black White/Indigo Bunting  43 EU'
+slug: 'B07DC1YXT3-es PUMA Leader VT SL Zapatillas para Correr de Carretera...'
+tags: 
 actualPrice: 29.83 EUR
 currency: EUR
 price: 29.83

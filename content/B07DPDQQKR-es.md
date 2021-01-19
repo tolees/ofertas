@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y5UftgVcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DPDQQKR-es Cargador Mando para Switch 4 en 1 Estación de Carga para Switch Joy-Con Indicador LED y 1 m Cable USB Tipo C'
+slug: 'B07DPDQQKR-es Cargador Mando para Switch 4 en 1 Estación de Carga para...'
+tags: 
 actualPrice: 16.35 EUR
 currency: EUR
 price: 16.35

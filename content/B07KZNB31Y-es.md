@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lkx6uSb1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZNB31Y-es Alargador de Cintura para Embarazadas. Adapta tu Ropa de Siempre a Ropa para Embarazo y Premama Extensión de Cintura Ajustable para Mujeres Embarazadas  3 Piezas  Negro  Azul y Caqui '
+slug: 'B07KZNB31Y-es Alargador de Cintura para Embarazadas. Adapta tu Ropa de...'
+tags: 
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

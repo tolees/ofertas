@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416GiAKC7dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018JT5FSU-es Levi s Levis 200SF Brief 2P  Calzoncillos para Hombre  Negro  Jet Black   Medium  Tamaño del fabricante:020 '
+slug: 'B018JT5FSU-es Levi s Levis 200SF Brief 2P Calzoncillos para Hombre Negro...'
+tags: 
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

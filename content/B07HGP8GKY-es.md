@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/3113daopcgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGP8GKY-es Adidas Continental 80 J  Zapatillas de Deporte Unisex niño  Negro  Negbás/Escarl/Maruni 000   37.5 EU'
+slug: 'B07HGP8GKY-es Adidas Continental 80 J Zapatillas de Deporte Unisex niño...'
+tags: 
 actualPrice: 36.45 EUR
 currency: EUR
 price: 36.45

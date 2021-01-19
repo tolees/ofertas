@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31s6zCgSH2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WV84KV-es Maclaren Quest Silla de paseo - ligero  para recién nacidos hasta los 25kg  Asiento multiposición  suspensión en las 4 ruedas  Capota extensible con UPF 50+'
+slug: 'B078WV84KV-es Maclaren Quest Silla de paseo - ligero para recién nacidos...'
+tags: 
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

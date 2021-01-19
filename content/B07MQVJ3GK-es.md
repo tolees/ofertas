@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e0RK-2M1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQVJ3GK-es Napapijri DAMAVAND V Suéter  Azul  French Blue Bb7   L para Hombre'
+slug: 'B07MQVJ3GK-es Napapijri DAMAVAND V Suéter Azul French Blue Bb7 L para...'
+tags: 
 actualPrice: 39.6 EUR
 currency: EUR
 price: 39.6

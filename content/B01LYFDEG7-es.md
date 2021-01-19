@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Kc57nCH6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYFDEG7-es Relaxdays Organizador para Escritorio Hecho de Bambú  Marrón  21 x 20 x 13 cm'
+slug: 'B01LYFDEG7-es Relaxdays Organizador para Escritorio Hecho de Bambú...'
+tags: 
 actualPrice: 16.34 EUR
 currency: EUR
 price: 16.34

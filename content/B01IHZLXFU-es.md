@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IqAySfjqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IHZLXFU-es Lullage acneXpert Gel Limpiador Purificante para la limpieza Facial de la piel grasa con imperfecciones o propensa al acné Sebo-Regulador | Purifica y Suaviza el Rostro de Manera Profunda  200 ml'
+slug: 'B01IHZLXFU-es Lullage acneXpert Gel Limpiador Purificante para la...'
+tags: 
 actualPrice: 10.6 EUR
 currency: EUR
 price: 10.6

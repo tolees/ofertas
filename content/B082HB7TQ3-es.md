@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ill6KvOCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HB7TQ3-es ART VVIES Leinwandbilder für Wohndekorationen Küche Wandbild 20x20 Zoll Sunset Beach Meer Abendstimmung Wolken Afterglow Holz mit Haken gerahmt'
+slug: 'B082HB7TQ3-es ART VVIES Leinwandbilder für Wohndekorationen Küche...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

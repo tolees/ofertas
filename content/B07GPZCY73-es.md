@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rh+AdZ58L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPZCY73-es Skechers Men s Status 2.0-LORANO Moccasins  Beige  Taupe TPE   7  41 EU '
+slug: 'B07GPZCY73-es Skechers Men s Status 2.0-LORANO Moccasins Beige Taupe TPE...'
+tags: 
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x-7JMhXCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRCM1BR-es TACKLIFE T8 ARRANCADOR DE Coches de hasta 6500cc  Gasolina  y 5500cc  diésel  - 800A/18000mAh Arrancador de Batería de Coche con Pinzas Inteligentes  Pantalla LCD  USB de Carga Rápida  Luz LED'
+slug: 'B07NRCM1BR-es TACKLIFE T8 ARRANCADOR DE Coches de hasta 6500cc Gasolina...'
+tags: 
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

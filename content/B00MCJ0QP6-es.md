@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FG2l1nbwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MCJ0QP6-es Nike Wmns Flex Experience RN 8  Zapatillas de Running para Mujer  Gris  Pure Platinum/Psychic Pink/Black/Mtlc Dk Grey/Wolf Grey/White 003   36 EU'
+slug: 'B00MCJ0QP6-es Nike Wmns Flex Experience RN 8 Zapatillas de Running para...'
+tags: 
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

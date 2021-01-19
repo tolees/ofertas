@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61Vo1aK8pkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJC7XPP-es Legendarte Cuadro Lienzo  Impresión Digital - El Gran Árbol  Te Raau Rahi  Paul Gauguin  cm. 60x80 - Decoración Pared'
+slug: 'B07RJC7XPP-es Legendarte Cuadro Lienzo Impresión Digital - El Gran Árbol...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

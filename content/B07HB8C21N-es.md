@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511dx4Z0XoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB8C21N-es Funko 36341 Bobble Capitán Marvel: POP 1  Multi color [Los estilos pueden variar]'
+slug: 'B07HB8C21N-es Funko 36341 Bobble Capitán Marvel: POP 1 Multi color [Los...'
+tags: 
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

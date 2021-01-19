@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415hw3XJ0ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RRW9QQM-es find. Fletcher Zapatillas  Blanco White/Navy  43 EU'
+slug: 'B07RRW9QQM-es find. Fletcher Zapatillas Blanco White/Navy 43 EU'
+tags: 
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

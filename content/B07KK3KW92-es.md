@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lyPn0UtQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK3KW92-es Columbia Bajada III  Zapatillas de Running para Asfalto para Mujer  Azul  Deep Ocean  Red 458   36 EU'
+slug: 'B07KK3KW92-es Columbia Bajada III Zapatillas de Running para Asfalto...'
+tags: 
 actualPrice: 75.98 EUR
 currency: EUR
 price: 75.98

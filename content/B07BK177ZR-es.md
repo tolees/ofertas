@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fw9H1nIsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BK177ZR-es Young & Ming universal bolsa de viaje cable organizador electrónica accesorios bolsa de transporte caja para cable  Gris'
+slug: 'B07BK177ZR-es Young & Ming universal bolsa de viaje cable organizador...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

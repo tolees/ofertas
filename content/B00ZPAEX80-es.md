@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZPAEX80-es DISFRAZ ROBIN MUJER TALLA M-L-'
+tags: 
 actualPrice: 8.81 EUR
 currency: EUR
 price: 8.81

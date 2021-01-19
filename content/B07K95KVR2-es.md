@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21IuLngCyiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K95KVR2-es Motorola Lifestyle VerveLoop200 - Auriculares intrauditivos inalámbricos  IP54  color negro'
+slug: 'B07K95KVR2-es Motorola Lifestyle VerveLoop200 - Auriculares...'
+tags: 
 actualPrice: 10.52 EUR
 currency: EUR
 price: 10.52

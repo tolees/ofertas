@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21-GsvNXyzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MAY30W9-es Legrand  Marco interruptor  Marco enchufe  NILOE  Blanco'
+slug: 'B01MAY30W9-es Legrand Marco interruptor Marco enchufe NILOE Blanco'
+tags: 
 actualPrice: 2.05 EUR
 currency: EUR
 price: 2.05

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vs-%2BZspaL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B001L98SNK-es Babaria Rosa Mosqueta - Aceite puro facial  50 ml'
+slug: 'B001L98SNK-es Babaria Rosa Mosqueta - Aceite puro facial 50 ml'
+tags: 
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

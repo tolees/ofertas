@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d9+S1nfnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00005UPBB-es Hama - Keyboard Dust Cover  Transparente  483 x 216 x 51 mm'
+slug: 'B00005UPBB-es Hama - Keyboard Dust Cover Transparente 483 x 216 x 51 mm'
+tags: 
 actualPrice: 6.42 EUR
 currency: EUR
 price: 6.42

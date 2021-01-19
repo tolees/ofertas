@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ky92NMGGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JB8YKB-es MagicLux Tech 11 a 11 6 Pulgadas Funda Protectora para portátiles/Funda de Neopreno/Neopreno del portátil  Azul Oscuro '
+slug: 'B071JB8YKB-es MagicLux Tech 11 a 11 6 Pulgadas Funda Protectora para...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

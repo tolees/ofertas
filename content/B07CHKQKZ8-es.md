@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kw1Ed8koL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHKQKZ8-es JACK & JONES Jfwstoke Nubuck  Botas Clasicas para Hombre  Marrón  Java Java   40 EU'
+slug: 'B07CHKQKZ8-es JACK & JONES Jfwstoke Nubuck Botas Clasicas para Hombre...'
+tags: 
 actualPrice: 44.05 EUR
 currency: EUR
 price: 44.05

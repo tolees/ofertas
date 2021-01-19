@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B5QBM9v-L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9P21WZ-es Lacoste Carnaby EVO 319 1 SMA  Zapatillas para Hombre  Blanco Off Wht 65t  45 EU'
+slug: 'B07L9P21WZ-es Lacoste Carnaby EVO 319 1 SMA Zapatillas para Hombre...'
+tags: 
 actualPrice: 43.57 EUR
 currency: EUR
 price: 43.57

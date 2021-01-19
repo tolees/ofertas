@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xR6iOHASL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082F9S3FT-es 2020 Neuf Appareil Photo pour Enfants Appareil Photo/Vidéo 1080p HD Appareil Photo Numérique pour Enfants Avec Flash écran LCD 2 Pouces/Carte de 32G Rosa-4 '
+slug: 'B082F9S3FT-es 2020 Neuf Appareil Photo pour Enfants Appareil Photo/Vidéo...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

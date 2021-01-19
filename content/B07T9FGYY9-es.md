@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517nOWdRcCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9FGYY9-es Buff Breaker Tubular Original  Hombre  Multi  Talla única'
+slug: 'B07T9FGYY9-es Buff Breaker Tubular Original Hombre Multi Talla única'
+tags: 
 actualPrice: 12.26 EUR
 currency: EUR
 price: 12.26

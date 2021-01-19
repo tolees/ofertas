@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H2kY+EXDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015KGVI2C-es Colnatur Classic Neutro 300 g - Colágeno natural asimilable puro  con vitamina C  cuidado para articulaciones  huesos  músculos y piel - 10 grs diarios  envase para 30 días.'
+slug: 'B015KGVI2C-es Colnatur Classic Neutro 300 g - Colágeno natural...'
+tags: 
 actualPrice: 9.65 EUR
 currency: EUR
 price: 9.65

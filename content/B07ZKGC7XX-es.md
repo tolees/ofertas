@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517jjkGx+sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKGC7XX-es K9CK Juego de Luces para Land Rover Defender  Led Faro Kit de Iluminación Compatible con Lego Technic 42110  NO Incluido en el Modelo '
+slug: 'B07ZKGC7XX-es K9CK Juego de Luces para Land Rover Defender Led Faro Kit...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

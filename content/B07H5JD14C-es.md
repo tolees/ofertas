@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51L+1ht7y5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5JD14C-es Weta Collectibles- Mini Epics Figura Coleccionable Balrog  El Señor de los Anillos  Multicolor  Weta Workshop 865002519 '
+slug: 'B07H5JD14C-es Weta Collectibles- Mini Epics Figura Coleccionable Balrog...'
+tags: 
 actualPrice: 95.79 EUR
 currency: EUR
 price: 95.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S3kvp7F7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHH4JF2-es Superga 2730-COTU  Zapatillas para Mujer  Grigio  Grey Seashell G04   42.5 EU'
+slug: 'B07BHH4JF2-es Superga 2730-COTU Zapatillas para Mujer Grigio Grey...'
+tags: 
 actualPrice: 47.82 EUR
 currency: EUR
 price: 47.82

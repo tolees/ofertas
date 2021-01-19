@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aA0fysLNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGWY83T-es Funko Pop Bobble Vinyle: Star Wars The Mandalorian-Kuiil Figura Coleccionable  Multicolor  42063 '
+slug: 'B07QGWY83T-es Funko Pop Bobble Vinyle: Star Wars The Mandalorian-Kuiil...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

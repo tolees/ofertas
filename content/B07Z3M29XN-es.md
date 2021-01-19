@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3M29XN-es K-GOLEIRO Kids'
+tags: 
 actualPrice: 26.94 EUR
 currency: EUR
 price: 26.94

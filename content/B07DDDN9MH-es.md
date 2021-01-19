@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51K1FCacVwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDDN9MH-es IMC Toys- Atrapa Estrellas Juego  Multicolor  97346 '
+slug: 'B07DDDN9MH-es IMC Toys- Atrapa Estrellas Juego Multicolor 97346'
+tags: 
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

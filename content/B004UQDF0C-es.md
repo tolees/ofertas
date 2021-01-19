@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Cgc+Z03QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004UQDF0C-es Superga 2750  Zapatillas Unisex Adulto  Gris  Grey Stone   36 EU'
+slug: 'B004UQDF0C-es Superga 2750 Zapatillas Unisex Adulto Gris Grey Stone 36 EU'
+tags: 
 actualPrice: 27.55 EUR
 currency: EUR
 price: 27.55

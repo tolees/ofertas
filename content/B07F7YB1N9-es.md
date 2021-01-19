@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ktA-Qc2rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7YB1N9-es bollé Schuss Máscaras  Unisex Adulto  Azul Mate  M'
+slug: 'B07F7YB1N9-es bollé Schuss Máscaras Unisex Adulto Azul Mate M'
+tags: 
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

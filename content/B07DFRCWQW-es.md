@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tOfufT5iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFRCWQW-es New Balance Gw500v1  Zapatillas de Deporte para Mujer  Plateado  Metallic Silver/Metallic Silver Mta   36.5 EU'
+slug: 'B07DFRCWQW-es New Balance Gw500v1 Zapatillas de Deporte para Mujer...'
+tags: 
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

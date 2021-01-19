@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Pl4QWVKOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HBNWGG-es ART VVIES 30x20 Zoll mit Haken Leinwanddrucke Holz Gerahmte Zimmer Wand Bild Rosen Rosebush Garten Blütenblätter Natur Blüte Pflanze für Hauptdekorationen'
+slug: 'B082HBNWGG-es ART VVIES 30x20 Zoll mit Haken Leinwanddrucke Holz...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

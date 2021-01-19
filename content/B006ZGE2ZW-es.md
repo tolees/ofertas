@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31E1bHffUaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006ZGE2ZW-es Rapesco Accesorios - Sacapuntas tradicional metalico de 2 agujeros'
+slug: 'B006ZGE2ZW-es Rapesco Accesorios - Sacapuntas tradicional metalico de 2...'
+tags: 
 actualPrice: 1.37 EUR
 currency: EUR
 price: 1.37

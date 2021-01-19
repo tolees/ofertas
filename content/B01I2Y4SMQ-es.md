@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516NZqSD2-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I2Y4SMQ-es Taky Chocolate Bandas De Cera Corporales Depilatorias 12 + 8 Uds 1 Unidad 200 g'
+slug: 'B01I2Y4SMQ-es Taky Chocolate Bandas De Cera Corporales Depilatorias 12 +...'
+tags: 
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

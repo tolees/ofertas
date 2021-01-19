@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+C4nPj1LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMTWK4-es Pepe Jeans MC Queen Short para Hombre  Naranja  Spice 193  W32  Talla del fabricante: 32 '
+slug: 'B07NDMTWK4-es Pepe Jeans MC Queen Short para Hombre Naranja Spice 193...'
+tags: 
 actualPrice: 28.85 EUR
 currency: EUR
 price: 28.85

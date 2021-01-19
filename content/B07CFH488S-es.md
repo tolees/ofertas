@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DFsWXyDTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CFH488S-es JACK & JONES Jjeholmen Sweat Hood Noos Capucha  Azul  Navy Blazer Reg Fit   Small para Hombre'
+slug: 'B07CFH488S-es JACK & JONES Jjeholmen Sweat Hood Noos Capucha Azul Navy...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

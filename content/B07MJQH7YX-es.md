@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Gqqdy6N4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJQH7YX-es Reloj de pulsera para hombre  resistente al agua  con cronógrafo  analógico  cuarzo  esfera grande  correa de piel marrón  color negro'
+slug: 'B07MJQH7YX-es Reloj de pulsera para hombre resistente al agua con...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

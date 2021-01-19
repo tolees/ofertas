@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kE9Zg89aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJ5FXZZ-es Luz Solar Exterior QTshine Foco Solar Exterior 118 LED【Versión Ultra-Brillante】con Sensor de Movimiento Lámpara Solar Impermeable Gran Ángulo 270º de Iluminación Luces Solares Jardín 2-Paquete'
+slug: 'B07XJ5FXZZ-es Luz Solar Exterior QTshine Foco Solar Exterior 118...'
+tags: 
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

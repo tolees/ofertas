@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tKnPKIm1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014R2W3MO-es Sony MDRXB50APR.CE7 - Auriculares intraurales  Extra Bass  micrófono Integrado   Rojo'
+slug: 'B014R2W3MO-es Sony MDRXB50APR.CE7 - Auriculares intraurales Extra Bass...'
+tags: 
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

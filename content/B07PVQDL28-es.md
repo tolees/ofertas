@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PLqa3nOwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVQDL28-es Under Armour Men‘s Baseball Cap UA Blitzing 3.0 Visera Transpirable  cómoda Gorra Deportiva para Hombre con Banda de transpiración  Gris  M/L'
+slug: 'B07PVQDL28-es Under Armour Men‘s Baseball Cap UA Blitzing 3.0 Visera...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

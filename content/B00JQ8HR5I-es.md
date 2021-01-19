@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cqbYfEhsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JQ8HR5I-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 15974/2'
+slug: 'B00JQ8HR5I-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 62.66 EUR
 currency: EUR
 price: 62.66

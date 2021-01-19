@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e7-BCZRNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L7ZS76B-es EKKONG Espátulas de Silicona Paleta Utensilios Cocina  Protección del Medio Ambiente  No Tóxico  Antiadherente  Resistente al Calor  6 Piezas  Negro '
+slug: 'B07L7ZS76B-es EKKONG Espátulas de Silicona Paleta Utensilios Cocina...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

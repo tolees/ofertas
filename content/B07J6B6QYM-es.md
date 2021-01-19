@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oaQ+4NvQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6B6QYM-es Cuña de Cama Ortopédica + Almohada anti-estrés! Cojín de Respaldo para Cama/Bucco/Sofa - Almohada de Elevación 90 x 60 cm; altura 12 cm  blanco '
+slug: 'B07J6B6QYM-es Cuña de Cama Ortopédica + Almohada anti-estrés! Cojín de...'
+tags: 
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5130E2Gl-HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0142FJL7G-es Garmin Forerunner 25 Reloj Deportivo  Negro/Rojo  L'
+slug: 'B0142FJL7G-es Garmin Forerunner 25 Reloj Deportivo Negro/Rojo L'
+tags: 
 actualPrice: 69.11 EUR
 currency: EUR
 price: 69.11

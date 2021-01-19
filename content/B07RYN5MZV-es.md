@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yhAqW+CvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYN5MZV-es New Balance 373v2  Zapatillas para Mujer  Dorado  Gold Ga2   37 EU'
+slug: 'B07RYN5MZV-es New Balance 373v2 Zapatillas para Mujer Dorado Gold Ga2 37 EU'
+tags: 
 actualPrice: 45.23 EUR
 currency: EUR
 price: 45.23

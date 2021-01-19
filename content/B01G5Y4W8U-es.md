@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x6wizns+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G5Y4W8U-es Funko - POP! Vinilo Colección Rocks - Figura Slash  10687 '
+slug: 'B01G5Y4W8U-es Funko - POP! Vinilo Colección Rocks - Figura Slash 10687'
+tags: 
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

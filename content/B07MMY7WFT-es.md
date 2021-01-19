@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lFPznDj7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMY7WFT-es Lepfun A7000  1 par  Rodillera con Soporte De Baloncesto para Hombres Y Mujeres Rodillera para Voleibol  Fútbol  Deportes De Contacto Mangas Acolchadas  Medium '
+slug: 'B07MMY7WFT-es Lepfun A7000 1 par Rodillera con Soporte De Baloncesto...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

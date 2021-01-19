@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AoL2HsfAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081HDDTH5-es XJ03 Cámaras portátiles portátiles domésticas compactas duraderas para niños de 16 Millones de cámaras compactas para niños  niñas y niños - Negro'
+slug: 'B081HDDTH5-es XJ03 Cámaras portátiles portátiles domésticas compactas...'
+tags: 
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

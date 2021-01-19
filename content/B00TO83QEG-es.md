@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t4kkYJgEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TO83QEG-es Tommy Hifiger 1781526 Alex - Reloj para Hombre  Cuarzo  analógico  Esfera Blanca  Pulsera'
+slug: 'B00TO83QEG-es Tommy Hifiger 1781526 Alex - Reloj para Hombre Cuarzo...'
+tags: 
 actualPrice: 132.0 EUR
 currency: EUR
 price: 132.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418HLEgpCrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0749WNBLJ-es  SanDisk Ultra Imaging - Tarjeta de Memoria Micro SDHC de 32 GB con Adaptador SD hasta 98 MB/s y Clase 10  U1  A1  Color Gris y Rojo'
+slug: 'B0749WNBLJ-es SanDisk Ultra Imaging - Tarjeta de Memoria Micro SDHC de...'
+tags: 
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

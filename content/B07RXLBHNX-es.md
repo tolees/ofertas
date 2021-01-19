@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vkxFKzF%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXLBHNX-es Asics Gel-BND  Zapatillas de Balonmano para Hombre  Negro  Black/Baltic Jewel 003   40 EU'
+slug: 'B07RXLBHNX-es Asics Gel-BND Zapatillas de Balonmano para Hombre Negro...'
+tags: 
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LbmbP1LiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG6GK5P-es PUMJV|#Puma Vista Zapatillas Unisex adulto  Gris  Gray Violet-Puma White-Calypso Coral 09   46 EU  11 UK '
+slug: 'B07KG6GK5P-es PUMJV|#Puma Vista Zapatillas Unisex adulto Gris Gray...'
+tags: 
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

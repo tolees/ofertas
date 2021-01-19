@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51U+GcH4JeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8XZHCF-es Purina ProPlan Comida para Gatos Esterilizados en Salsa Gato Adulto Buey 24 x 85 g'
+slug: 'B07B8XZHCF-es Purina ProPlan Comida para Gatos Esterilizados en Salsa...'
+tags: 
 actualPrice: 12.01 EUR
 currency: EUR
 price: 12.01

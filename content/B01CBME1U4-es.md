@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zJpnV1FfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CBME1U4-es Funko - Pop! Vinilo Colección Dragonball Z - Figura Majin Buu  7429 '
+slug: 'B01CBME1U4-es Funko - Pop! Vinilo Colección Dragonball Z - Figura Majin...'
+tags: 
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

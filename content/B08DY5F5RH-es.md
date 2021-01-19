@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qeIU4JKzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DY5F5RH-es Rollo de papel de regalo navideño Multipack 6 hojas de papel dobladas para familia  niños  amigos  niñas  niños  cumpleaños  Halloween  fiestas  cajas de regalo  70 x 50 cm'
+slug: 'B08DY5F5RH-es Rollo de papel de regalo navideño Multipack 6 hojas de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

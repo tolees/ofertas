@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xytGTmXKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC342BS-es camel active Houston 488385/2511 Pantalones  Beige  Beige 23   W35/L34  Talla del Fabricante: 35/34  para Hombre'
+slug: 'B07NC342BS-es camel active Houston 488385/2511 Pantalones Beige Beige 23...'
+tags: 
 actualPrice: 30.81 EUR
 currency: EUR
 price: 30.81

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003Z2KO5G-es Pink 47 - Ginebra Botella 70 cl'
+tags: 
 actualPrice: 13.67 EUR
 currency: EUR
 price: 13.67

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HWJGIDkBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYTZVZ-es Under Armour UA Charged Intake 4  Zapatillas de Running para Hombre  Negro  Black/White/White   45 EU'
+slug: 'B07PYYTZVZ-es Under Armour UA Charged Intake 4 Zapatillas de Running...'
+tags: 
 actualPrice: 69.66 EUR
 currency: EUR
 price: 69.66

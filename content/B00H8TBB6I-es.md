@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UMdT00etL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H8TBB6I-es FLEXI Vario S Cordón 8 m  marrón'
+slug: 'B00H8TBB6I-es FLEXI Vario S Cordón 8 m marrón'
+tags: 
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

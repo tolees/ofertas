@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lE7ykE-8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VS25PG-es Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina GBA-800-7AER  Blanco'
+slug: 'B079VS25PG-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 94.94 EUR
 currency: EUR
 price: 94.94

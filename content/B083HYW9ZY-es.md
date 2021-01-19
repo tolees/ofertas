@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PNs51xsdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HYW9ZY-es K9CK Luces LED para Technic Todoterreno Radical 4 x 4 42099  Kit de Iluminación Luz con Control Remoto Compatible con Bloques de construcción  NO Incluido en el Modelo '
+slug: 'B083HYW9ZY-es K9CK Luces LED para Technic Todoterreno Radical 4 x 4...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

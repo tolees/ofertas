@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310g+w7LgeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01INSCBTS-es Libratone ONE Style - Altavoz con Bluetooth y función SoundSpaces  color rojo'
+slug: 'B01INSCBTS-es Libratone ONE Style - Altavoz con Bluetooth y función...'
+tags: 
 actualPrice: 78.95 EUR
 currency: EUR
 price: 78.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uemCowffL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4X5HQ5-es Conjunto de luces Lightailing para  Star Wars Quadjumper De Jakku  Modelo de Construcción de Bloques - Kit de luz LED compatible con Lego 75178  NO incluido en el modelo '
+slug: 'B07K4X5HQ5-es Conjunto de luces Lightailing para Star Wars Quadjumper De...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

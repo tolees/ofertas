@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412YeXG61pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JGFDLBY-es Bourjois Volume Reveal Máscara de pestañas Tono 22 Ultra Black  7.5 ml'
+slug: 'B01JGFDLBY-es Bourjois Volume Reveal Máscara de pestañas Tono 22 Ultra...'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

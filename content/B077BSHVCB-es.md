@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416K2ZA5A5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077BSHVCB-es ASUS DSL-AC51 - Módem Router ADSL/VDSL AC750 Dual Band  2 Puertos Gigabit  Control Parental  ASUS Router App '
+slug: 'B077BSHVCB-es ASUS DSL-AC51 - Módem Router ADSL/VDSL AC750 Dual Band 2...'
+tags: 
 actualPrice: 35.45 EUR
 currency: EUR
 price: 35.45

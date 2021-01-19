@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415R8be2dJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077JXHW4M-es Mobiclinic  Timón  Silla con WC o inodoro para discapacitados  ancianos  minusválidos  Plegable  Reposabrazos  Asiento ergonómico  Conteras antideslizates'
+slug: 'B077JXHW4M-es Mobiclinic Timón Silla con WC o inodoro para...'
+tags: 
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

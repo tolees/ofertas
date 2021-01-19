@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314SxKFmmKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0093HJOJO-es Dremel SC407 Mandril y bandas de Lija EZ Speedclic  juego de accesorios para herramienta rotativa con 1 mandril y 2 bandas de lija 13 mm para eliminación material en aluminio  cobre  madera  plástico'
+slug: 'B0093HJOJO-es Dremel SC407 Mandril y bandas de Lija EZ Speedclic juego...'
+tags: 
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XEvtoH3lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCLY31D-es Cable Eléctrico de 3 Núcleos Redondo de PVC Cable Eléctrico de Alambre Cobre de Alta Resistencia a la Temperatura 3 x 0 75 mm² Cable Alimentación Doble y Cable de Tierra - 5 Metros Longitud - Blanco'
+slug: 'B07HCLY31D-es Cable Eléctrico de 3 Núcleos Redondo de PVC Cable...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

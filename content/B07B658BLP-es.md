@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31LUCbFmuCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B658BLP-es Super Impulse Llavero Tiny Arcade Dig Dug  Multicolor  0854941007495 '
+slug: 'B07B658BLP-es Super Impulse Llavero Tiny Arcade Dig Dug Multicolor...'
+tags: 
 actualPrice: 10 EUR
 currency: EUR
 price: 10

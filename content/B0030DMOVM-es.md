@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GV8TT5uhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0030DMOVM-es Bankers Box Earth Series - Maxi contenedor de archivos  marrón'
+slug: 'B0030DMOVM-es Bankers Box Earth Series - Maxi contenedor de archivos marrón'
+tags: 
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

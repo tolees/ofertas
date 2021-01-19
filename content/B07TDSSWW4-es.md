@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eJTO6SFQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDSSWW4-es Finocam - Agenda 2020 Semana Vista Apaisada Espiral You Positive  Español  Mediano - E5-117 x 181 mm'
+slug: 'B07TDSSWW4-es Finocam - Agenda 2020 Semana Vista Apaisada Espiral You...'
+tags: 
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q6xFwuL7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4P2VSD-es Mallalah Blanqueamiento Dental  Polvo de Blanqueamiento de Carbón Activado Natural  Polvo de Blanqueador Dental de Carbón Activado  Blanqueamiento de Dientes 30g '
+slug: 'B07H4P2VSD-es Mallalah Blanqueamiento Dental Polvo de Blanqueamiento de...'
+tags: 
 actualPrice: 6.46 EUR
 currency: EUR
 price: 6.46

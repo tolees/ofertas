@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xVWIF-vsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QS2WXFT-es Vieta Pro Easy - Altavoz inalámbrico  True Wireless Bluetooth  Radio FM  Reproductor USB  auxiliar  micrófono integrado  resistencia al agua IPX6  batería de 12 horas  azul'
+slug: 'B07QS2WXFT-es Vieta Pro Easy - Altavoz inalámbrico True Wireless...'
+tags: 
 actualPrice: 23.92 EUR
 currency: EUR
 price: 23.92

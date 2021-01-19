@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gsapw62OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDZ9LD7-es ASUS ROG Zephyrus M GU502GV-ES004T - Ordenador portátil gaming de 15.6" FullHD  Intel Core i7-9750H  16GB RAM  512GB SSD  GeForce RTX 2060-6GB  Windows 10  metal negro - Teclado QWERTY Español'
+slug: 'B07RDZ9LD7-es ASUS ROG Zephyrus M GU502GV-ES004T - Ordenador portátil...'
+tags: 
 actualPrice: 1399.99 EUR
 currency: EUR
 price: 1399.99

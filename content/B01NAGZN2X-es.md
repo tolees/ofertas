@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SyUTB+xsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAGZN2X-es Pulsera Hombre Acero Inoxidable Silicona Punk Rock Brazalete Biker Chulo con Rayas Regalo Pascua/ Cumpleaños/ San Valentín'
+slug: 'B01NAGZN2X-es Pulsera Hombre Acero Inoxidable Silicona Punk Rock...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

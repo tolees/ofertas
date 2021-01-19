@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IwWLhixuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Y2F1MY-es Skechers On-The-go 600-Foxy  Sandalia con Pulsera para Mujer  Negro  Black BBK   36 EU'
+slug: 'B075Y2F1MY-es Skechers On-The-go 600-Foxy Sandalia con Pulsera para...'
+tags: 
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

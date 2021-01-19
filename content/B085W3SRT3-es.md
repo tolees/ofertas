@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r+qdYpokL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085W3SRT3-es Roits Calcetines Melocotones Rosa - Calcetines Originales Hombre y Mujer  41-46 '
+slug: 'B085W3SRT3-es Roits Calcetines Melocotones Rosa - Calcetines Originales...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

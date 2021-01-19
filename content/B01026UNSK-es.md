@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3159z5PZIRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01026UNSK-es Trespass - Zapatillas de Tela para el Colegio Modelo Gym Hero Unisex para Niños - Verano  35 EUR   Negro '
+slug: 'B01026UNSK-es Trespass - Zapatillas de Tela para el Colegio Modelo Gym...'
+tags: 
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

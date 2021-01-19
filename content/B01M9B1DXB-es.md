@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ixs4ZcG1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9B1DXB-es Gel separador y corrector de los dedos de los pies para bailarines  yogis y atletas  tratamiento para juanetes  martillo y Hallux Valgus'
+slug: 'B01M9B1DXB-es Gel separador y corrector de los dedos de los pies para...'
+tags: 
 actualPrice: 7.09 EUR
 currency: EUR
 price: 7.09

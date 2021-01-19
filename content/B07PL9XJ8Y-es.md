@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-nOpWZ5iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PL9XJ8Y-es Gel de sílice Galactorrea Colección de coberturas Recolector de leche materna Suave posparto Masaje de senos Pezón Contenedor de succión Cojín'
+slug: 'B07PL9XJ8Y-es Gel de sílice Galactorrea Colección de coberturas...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

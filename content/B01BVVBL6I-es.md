@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410kG0hr7YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BVVBL6I-es Kerastase 905-56003 - Activador de volumen capilar  30 x 6 ml'
+slug: 'B01BVVBL6I-es Kerastase 905-56003 - Activador de volumen capilar 30 x 6 ml'
+tags: 
 actualPrice: 89.82 EUR
 currency: EUR
 price: 89.82

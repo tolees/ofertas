@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510lo4Jl90L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EONXTV6-es Calvin Klein Carousel-Bikini Sujetador  Negro  BLACK 001   Small para Mujer'
+slug: 'B00EONXTV6-es Calvin Klein Carousel-Bikini Sujetador Negro BLACK 001...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

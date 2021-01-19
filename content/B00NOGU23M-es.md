@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bJensx0tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NOGU23M-es Taurus Galexia Premium - Plancha asador lisa  2200 W'
+slug: 'B00NOGU23M-es Taurus Galexia Premium - Plancha asador lisa 2200 W'
+tags: 
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jeGLGxiIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPLBBJ8-es LEADSTAR Toalla Bebé con Capucha  Capa de Baño Infantil  90 x 90 cm Toalla de Baño para Bebé  Ultra Suave Hipoalergénica de Bambú Orgánico Super Absorbente para Recién Nacido Nacimiento'
+slug: 'B07ZPLBBJ8-es LEADSTAR Toalla Bebé con Capucha Capa de Baño Infantil 90...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

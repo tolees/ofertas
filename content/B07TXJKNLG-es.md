@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Jy76qglIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXJKNLG-es GOAMZ Mini Ventilador Micro USB de Cuello Portatil Mano Libre Recargable Ventilador Electrico para Coche Deporte Oficina Hogar Viajar Acampar  Negro '
+slug: 'B07TXJKNLG-es GOAMZ Mini Ventilador Micro USB de Cuello Portatil Mano...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vg2nwXXSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5QM66L-es KollyKolla Botella de Agua Deporte  Botellas Sin BPA Tritan Plástico Reutilizables Ecológica con Filtro  Water Bottle para Niños & Adultos  Gimnasio  Oficina  Colegio  750ml Azul Claro Brillante '
+slug: 'B07S5QM66L-es KollyKolla Botella de Agua Deporte Botellas Sin BPA Tritan...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

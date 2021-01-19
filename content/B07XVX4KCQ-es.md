@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MakkG15nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XVX4KCQ-es Pantene 3 Minute Miracle Suave y Liso  Pelo Apagado y Encrespado - 200 ml'
+slug: 'B07XVX4KCQ-es Pantene 3 Minute Miracle Suave y Liso Pelo Apagado y...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

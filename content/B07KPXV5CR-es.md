@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Vpk4G1TFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPXV5CR-es UniqueMe Funda para Nokia 9  Ultra [Slim Thin] TPU Funda Protectora TPU de Silicona Suave - Negro'
+slug: 'B07KPXV5CR-es UniqueMe Funda para Nokia 9 Ultra [Slim Thin] TPU Funda...'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

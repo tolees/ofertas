@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zzwZCDSML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2MJ5TC-es non-brand Juego de 7 Pieza de Ollas y Cocina para Niños  Juguete de Madera con Alimentos Coloridos   Regalo'
+slug: 'B07N2MJ5TC-es non-brand Juego de 7 Pieza de Ollas y Cocina para Niños...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nOTsQ1aEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXQF5V6-es Vans Ward Canvas  Zapatillas para Hombre  Azul   Checkerboard  Sailor Blue/White Vh1   41 EU'
+slug: 'B07FXQF5V6-es Vans Ward Canvas Zapatillas para Hombre Azul Checkerboard...'
+tags: 
 actualPrice: 49.09 EUR
 currency: EUR
 price: 49.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qarmWGRXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRTD77M-es Schwarzkopf Gliss - Reparador de puntas Ultimate Repair  2 unidades - 50 ml'
+slug: 'B07NRTD77M-es Schwarzkopf Gliss - Reparador de puntas Ultimate Repair 2...'
+tags: 
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

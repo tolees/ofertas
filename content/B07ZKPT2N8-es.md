@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ycD0Jd9WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKPT2N8-es Sycreek Almohadilla térmica Mascotas gatos y perros  manta eléctrica para mascotas con sistema de temperatura estera calefactora impermeable con tubo antirotura  con funda de fieltro intercambiable'
+slug: 'B07ZKPT2N8-es Sycreek Almohadilla térmica Mascotas gatos y perros manta...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

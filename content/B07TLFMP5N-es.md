@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dILJsFibL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLFMP5N-es Levi s Original Batwing  Blanco  Hm Patch Polo White + 0000   X-Large para Hombre'
+slug: 'B07TLFMP5N-es Levi s Original Batwing Blanco Hm Patch Polo White + 0000...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

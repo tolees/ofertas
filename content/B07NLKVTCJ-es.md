@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MPfD3NCqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLKVTCJ-es Versace Jeans CoutureMarsupioMujerBolso de manoAzul  Blu 285  9x15x24 centimeters  W x H x L '
+slug: 'B07NLKVTCJ-es Versace Jeans CoutureMarsupioMujerBolso de manoAzul Blu...'
+tags: 
 actualPrice: 72.61 EUR
 currency: EUR
 price: 72.61

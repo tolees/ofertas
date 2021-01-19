@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IbkvgADwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QGFJ8V-es FIDECO Docking Station  Aluminio USB 3.0 Base de conexión con función de clon Offline y 2 bahias para SATA I/II/III HDD y SSD de 2 5/3 5 Pulgadas  hasta 2X 10TB'
+slug: 'B073QGFJ8V-es FIDECO Docking Station Aluminio USB 3.0 Base de conexión...'
+tags: 
 actualPrice: 35.24 EUR
 currency: EUR
 price: 35.24

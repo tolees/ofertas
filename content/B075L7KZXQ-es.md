@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XwKEc6+6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075L7KZXQ-es Auriculares Bluetooth V4.1 Yuanguo Auriculares V4.1 Inálambricos Cascos Deportivos In Ear IPX7 Impermeable Sonido Estéreo con Micrófono Cancelación de Ruido CVC 6.0 & Tecnología APTX para Correr'
+slug: 'B075L7KZXQ-es Auriculares Bluetooth V4.1 Yuanguo Auriculares V4.1...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

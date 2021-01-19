@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hU7TDg-3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6Y63QU-es Samsung Silicone  Funda para smartphone Samsung Galaxy S8 Plus  Gris   Dark Grey '
+slug: 'B01N6Y63QU-es Samsung Silicone Funda para smartphone Samsung Galaxy S8...'
+tags: 
 actualPrice: 17.74 EUR
 currency: EUR
 price: 17.74

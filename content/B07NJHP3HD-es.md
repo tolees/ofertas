@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41th-9Rp11L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJHP3HD-es Tamaris 1-1-25242-23  Botas Militar para Mujer  Marrón  Cognac 305   38 EU'
+slug: 'B07NJHP3HD-es Tamaris 1-1-25242-23 Botas Militar para Mujer Marrón...'
+tags: 
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51L7x6HZG8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FX2TXPW-es LIERAS Grifos de cocina Girar Primavera Canalon Extraer Chrome Pulido Mezclador de bar grifos lavabos monomando grifo del fregadero de la cocina'
+slug: 'B01FX2TXPW-es LIERAS Grifos de cocina Girar Primavera Canalon Extraer...'
+tags: 
 actualPrice: 55.98 EUR
 currency: EUR
 price: 55.98

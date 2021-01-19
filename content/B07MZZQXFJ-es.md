@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KIvRasPNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZZQXFJ-es Adidas Predator 19.3 AG J - Botas de fútbol Unisex Niños  Azufue/Plamet/Rojact  36 2/3 EU'
+slug: 'B07MZZQXFJ-es Adidas Predator 19.3 AG J - Botas de fútbol Unisex Niños...'
+tags: 
 actualPrice: 33.05 EUR
 currency: EUR
 price: 33.05

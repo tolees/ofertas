@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pK6QwgTfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J0RW4H0-es MoKo Botella de Viaje - Anti-Fugas & Rellenable/Compresible Silicona Travel Bottles Set para Champú  Bálsamo  Crema de Baño  Loción  Libre de BPA  FDA Aprobado  [ 4 Pzs - 89ml - 3.1oz ]'
+slug: 'B01J0RW4H0-es MoKo Botella de Viaje - Anti-Fugas &...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

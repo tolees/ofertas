@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416hAXfw2wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQL5SW-es Vans Ward  Zapatillas para Niñas  Rosa   Canvas  Chalk Pink Vuz   36 EU'
+slug: 'B07MZQL5SW-es Vans Ward Zapatillas para Niñas Rosa Canvas Chalk Pink Vuz...'
+tags: 
 actualPrice: 29.25 EUR
 currency: EUR
 price: 29.25

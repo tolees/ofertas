@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ExM36MOrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJX86V-es Napapijri Damavand V suéter  Verde  Green Forest 2 GE3   Small para Hombre'
+slug: 'B07MVJX86V-es Napapijri Damavand V suéter Verde Green Forest 2 GE3 Small...'
+tags: 
 actualPrice: 39.6 EUR
 currency: EUR
 price: 39.6

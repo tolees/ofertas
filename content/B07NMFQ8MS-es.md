@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xaqbIHGuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NMFQ8MS-es KLIM™ Comfort + Base de refrigeración para portátil + Protégete del Calor y Evita el sobrecalentamiento + Nueva 2020 + Silenciosa y cómoda  Compatible de 10 a 15 6" + Muy Estable + Bajo Ruido'
+slug: 'B07NMFQ8MS-es KLIM™ Comfort + Base de refrigeración para portátil +...'
+tags: 
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q7L5HQghL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3ZMWR4-es SRJ2018 Playa Palmeras en Ocean Heaven Tumbonas Balcón Blanco Ventanasde Madera Verano Tropical de con Azul Verde'
+slug: 'B07V3ZMWR4-es SRJ2018 Playa Palmeras en Ocean Heaven Tumbonas Balcón...'
+tags: 
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

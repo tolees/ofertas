@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Y+mNQZbRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XQJSNM-es Under Armour Sujetador Deportivo para Mujer Cross Back Graphic  Mujer  1317111-001  Negro/Blanco  Small'
+slug: 'B077XQJSNM-es Under Armour Sujetador Deportivo para Mujer Cross Back...'
+tags: 
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

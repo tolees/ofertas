@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cbKc0MlDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZ84B5D-es Tobillera Infinito para mujeres niñas plata de ley 925  tobillera hecha a mano 32cm tobillera ajustable  regalo de amistad de amor'
+slug: 'B07SZ84B5D-es Tobillera Infinito para mujeres niñas plata de ley 925...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

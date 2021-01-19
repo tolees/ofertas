@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31z3FWYAJjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XN8CSW-es Under Armour Unstoppable Move Pant Pantalones  Hombre  Negro  Black/Charcoal/Black 001   XXL'
+slug: 'B077XN8CSW-es Under Armour Unstoppable Move Pant Pantalones Hombre Negro...'
+tags: 
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

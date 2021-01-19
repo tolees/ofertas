@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e-Pi5MWsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007NM84PQ-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES3020'
+slug: 'B007NM84PQ-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

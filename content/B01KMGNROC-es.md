@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QSBSx2mZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KMGNROC-es Gennadi Hoppe Pantalones cortos hasta la rodilla traje de baño de los hombres'
+slug: 'B01KMGNROC-es Gennadi Hoppe Pantalones cortos hasta la rodilla traje de...'
+tags: 
 actualPrice: 23.05 EUR
 currency: EUR
 price: 23.05

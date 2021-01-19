@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518ukbO415L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3BW64X-es Almohada de Cuello  Inflable Almohadas de Viaje para Aviones  Viajes en Coche  Hombres  Niñas  Durmiendo Suave  Soporte de Confort de Cuello  Almohada en Forma de U'
+slug: 'B07G3BW64X-es Almohada de Cuello Inflable Almohadas de Viaje para...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

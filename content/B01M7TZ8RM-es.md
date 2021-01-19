@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dj1XBzM0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M7TZ8RM-es Grefusa - MisterCorn | Cocktail de Frutos Secos con Sabor Barbacoa - 120 gr - 13 Paquetes  1560 gr '
+slug: 'B01M7TZ8RM-es Grefusa - MisterCorn | Cocktail de Frutos Secos con Sabor...'
+tags: 
 actualPrice: 9.86 EUR
 currency: EUR
 price: 9.86

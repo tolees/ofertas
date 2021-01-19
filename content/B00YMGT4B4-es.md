@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ffsl6HW3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YMGT4B4-es TW Steel Reloj Analógico para Unisex de Cuarzo con Correa en Cuero CS31'
+slug: 'B00YMGT4B4-es TW Steel Reloj Analógico para Unisex de Cuarzo con Correa...'
+tags: 
 actualPrice: 160.06 EUR
 currency: EUR
 price: 160.06

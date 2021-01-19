@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31e9Vpoa0fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6DRQMO-es Jata Hogar 762 Balanza electrónica dietética  Capacidad 5kg  0 W  5 litros  0 Decibeles  Cristal Blanco'
+slug: 'B01M6DRQMO-es Jata Hogar 762 Balanza electrónica dietética Capacidad 5kg...'
+tags: 
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

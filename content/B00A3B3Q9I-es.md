@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fz+AIKzQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A3B3Q9I-es Essie Esmalte de Uñas  48 Luxedo'
+slug: 'B00A3B3Q9I-es Essie Esmalte de Uñas 48 Luxedo'
+tags: 
 actualPrice: 3.78 EUR
 currency: EUR
 price: 3.78

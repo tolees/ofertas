@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4159dZsJQbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBK3PQ2-es non-brand Mini Space Toys Airplane Rocket Car Model Set para Regalos de Cumpleaños de Niños - Estilo 2'
+slug: 'B07PBK3PQ2-es non-brand Mini Space Toys Airplane Rocket Car Model Set...'
+tags: 
 actualPrice: 14.41 EUR
 currency: EUR
 price: 14.41

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WCNVBbOTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3K3XJF-es Superdry Core Sport Graphic tee Top de Deporte  Negro  Black 02a   XS para Hombre'
+slug: 'B07P3K3XJF-es Superdry Core Sport Graphic tee Top de Deporte Negro Black...'
+tags: 
 actualPrice: 19.53 EUR
 currency: EUR
 price: 19.53

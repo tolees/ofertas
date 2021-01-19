@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ydJTVZJQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079D7GCJD-es s.Oliver Reloj Digital para Hombre de Cuarzo con Correa en PU SO-3495-PD'
+slug: 'B079D7GCJD-es s.Oliver Reloj Digital para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 38.43 EUR
 currency: EUR
 price: 38.43

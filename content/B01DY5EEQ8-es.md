@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sqNSIiPML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DY5EEQ8-es MasterPro Asador 40 cm Aluminio Fundido Apta para inducción Gravity'
+slug: 'B01DY5EEQ8-es MasterPro Asador 40 cm Aluminio Fundido Apta para...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

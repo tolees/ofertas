@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sEeZju+DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PH5W2I6-es adidas Originals Superstar  Zapatillas Unisex  Niños  Blanco  Ftwr White/Core Black/Ftwr White   38 EU'
+slug: 'B00PH5W2I6-es adidas Originals Superstar Zapatillas Unisex Niños Blanco...'
+tags: 
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

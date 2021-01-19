@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ETz97e-KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076Z6PS9J-es knowing 100MM Blanco Corazón Madera Rodajas Discos para Bricolaje Manualidades Adornos San Valentín Regalo DIY 20pcs'
+slug: 'B076Z6PS9J-es knowing 100MM Blanco Corazón Madera Rodajas Discos para...'
+tags: 
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

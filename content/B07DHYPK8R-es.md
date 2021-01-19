@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319qzq6OI9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHYPK8R-es Lacoste Ziane BL 1 CFA  Zapatillas para Mujer  Azul  Navy   40 EU'
+slug: 'B07DHYPK8R-es Lacoste Ziane BL 1 CFA Zapatillas para Mujer Azul Navy 40 EU'
+tags: 
 actualPrice: 41.93 EUR
 currency: EUR
 price: 41.93

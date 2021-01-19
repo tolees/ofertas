@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kNRX8o4CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4HYFC4-es Tommy Hilfiger Hombre Denton Th Flex Satin Chino Gmd Loose Fit Jeans  Faded Indigo  W33/L34'
+slug: 'B07W4HYFC4-es Tommy Hilfiger Hombre Denton Th Flex Satin Chino Gmd Loose...'
+tags: 
 actualPrice: 23.81 EUR
 currency: EUR
 price: 23.81

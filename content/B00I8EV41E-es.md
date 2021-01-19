@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jiQjsusmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I8EV41E-es Epson C13T789240 - Cartucho de tinta para la serie WF-5xxx  cian  Ya disponible en Amazon Dash Replenishment'
+slug: 'B00I8EV41E-es Epson C13T789240 - Cartucho de tinta para la serie WF-5xxx...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

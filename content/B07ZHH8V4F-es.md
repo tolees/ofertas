@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+TFOUo8LL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHH8V4F-es QHOHQ Protector de Pantalla para Realme 5 Pro  [3 Piezas] [Dureza 9H] Sin Burbujas HD Transparente Anti-Arañazos Cristal Templado'
+slug: 'B07ZHH8V4F-es QHOHQ Protector de Pantalla para Realme 5 Pro [3 Piezas]...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rlNmVi+aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071W8TYFP-es Belkin Classic Pro - Bolsa Messenger para Ordenador portátil de 15.6    Gris'
+slug: 'B071W8TYFP-es Belkin Classic Pro - Bolsa Messenger para Ordenador...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

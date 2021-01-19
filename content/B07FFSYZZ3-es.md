@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lTQCUXnXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFSYZZ3-es HUANUO Soporte Monitor para 13-27 Pulgadas PC y Ordenador Portátil hasta de 15.6 Pulgadas Ergonómico Diseño Brazos y Soportes para Monitores Brazo Monitor Mesa Rotación de 180° y Giro de 360 °'
+slug: 'B07FFSYZZ3-es HUANUO Soporte Monitor para 13-27 Pulgadas PC y Ordenador...'
+tags: 
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

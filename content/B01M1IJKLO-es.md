@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w0xWr1MPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1IJKLO-es Trust GXT 105 - Ratón Gaming con 6 Botones e iluminación LED  Negro'
+slug: 'B01M1IJKLO-es Trust GXT 105 - Ratón Gaming con 6 Botones e iluminación...'
+tags: 
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

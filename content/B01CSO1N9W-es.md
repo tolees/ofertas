@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NEDw6fmCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CSO1N9W-es Forty Seven B-Brans17Ctp-Bk Gorra  Hombre  Negro  Talla única'
+slug: 'B01CSO1N9W-es Forty Seven B-Brans17Ctp-Bk Gorra Hombre Negro Talla única'
+tags: 
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

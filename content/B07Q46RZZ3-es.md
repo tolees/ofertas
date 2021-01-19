@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WjaLiiWDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q46RZZ3-es Juego de carreras de huevos - contiene 8 cucharas  8 huevos  4 patos y 4 animales marinos - al aire libre niños Juguete de deportes para jardín  fiesta cumpleaños  patio de la escuela  verano la playa'
+slug: 'B07Q46RZZ3-es Juego de carreras de huevos - contiene 8 cucharas 8 huevos...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

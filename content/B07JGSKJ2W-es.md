@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q1zr1B0OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGSKJ2W-es JACK & JONES Jfwtrent PU 19 Noos  Zapatillas para Hombre  Blanco  Bright White Bright White   42 EU'
+slug: 'B07JGSKJ2W-es JACK & JONES Jfwtrent PU 19 Noos Zapatillas para Hombre...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

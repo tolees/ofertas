@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vhOhIp+cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGZHTSJ-es Under Armour Blitzing II - Gorra  Hombre  Gris  Graphite/Black 051  L/XL'
+slug: 'B07KGZHTSJ-es Under Armour Blitzing II - Gorra Hombre Gris...'
+tags: 
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

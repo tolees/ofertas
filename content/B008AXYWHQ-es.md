@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417sa2edIaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008AXYWHQ-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable JR1401'
+slug: 'B008AXYWHQ-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 91.0 EUR
 currency: EUR
 price: 91.0

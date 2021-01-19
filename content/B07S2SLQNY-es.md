@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KvSwvgqaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2SLQNY-es New Balance 500  Zapatillas para Hombre  Verde  Green True   43 EU'
+slug: 'B07S2SLQNY-es New Balance 500 Zapatillas para Hombre Verde Green True 43 EU'
+tags: 
 actualPrice: 52.45 EUR
 currency: EUR
 price: 52.45

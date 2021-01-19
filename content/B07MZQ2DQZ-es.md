@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pOO7Nm-fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ2DQZ-es Vans Filmore Decon  Zapatillas para Mujer  Verde   Suede  Grape Leaf N3o   36 EU'
+slug: 'B07MZQ2DQZ-es Vans Filmore Decon Zapatillas para Mujer Verde Suede Grape...'
+tags: 
 actualPrice: 15.94 EUR
 currency: EUR
 price: 15.94

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51DwP26AmEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZGJ1HX8-es TW1000 Hub USB C 6-en-1  Adaptador MacBook Pro/MacBook Air con Thunderbolt 3 100W PD  4K HDMI  2 Puertos USB 3.0  1 Lector de Tarjetas SD y 1 TF'
+slug: 'B07ZGJ1HX8-es TW1000 Hub USB C 6-en-1 Adaptador MacBook Pro/MacBook Air...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pNzjSjWAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084X48MBB-es Baoblaze Memory Match Game - Juegos De Memoria De Preescolar De Parejas De Dibujos Animados Coloridos'
+slug: 'B084X48MBB-es Baoblaze Memory Match Game - Juegos De Memoria De...'
+tags: 
 actualPrice: 25.96 EUR
 currency: EUR
 price: 25.96

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hyyQZzSQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004PVUL9K-es Clatronic FR 3390 Freidora  capacidad 2 litros  1800 W  Plástico  Blanco'
+slug: 'B004PVUL9K-es Clatronic FR 3390 Freidora capacidad 2 litros 1800 W...'
+tags: 
 actualPrice: 34.39 EUR
 currency: EUR
 price: 34.39

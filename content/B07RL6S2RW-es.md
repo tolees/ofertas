@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412qzbSIO+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RL6S2RW-es Fornite - Quadcrasher 28 cm  Windows '
+slug: 'B07RL6S2RW-es Fornite - Quadcrasher 28 cm Windows'
+tags: 
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

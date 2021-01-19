@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073HDCQBH-es Scholl Recambio Wet&Dry Durezas Leves'
+tags: 
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

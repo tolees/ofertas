@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCEJ1YA-es POP! Vinilo - Seraph of the End: Ferid Bathory'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

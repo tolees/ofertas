@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BijLhpZxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UBOL4HI-es Tommy Hilfiger 3p Lr Trunk Sujetador  Negro  Black/White/Grey Heather   XX-Large  Pack de 3  para Hombre'
+slug: 'B00UBOL4HI-es Tommy Hilfiger 3p Lr Trunk Sujetador Negro...'
+tags: 
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

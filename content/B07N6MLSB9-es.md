@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+yW-aaXuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6MLSB9-es Tommy Hilfiger Th Rib Scarf Bufanda   Blue Cjm   Talla única  Talla del fabricante: OS  para Hombre'
+slug: 'B07N6MLSB9-es Tommy Hilfiger Th Rib Scarf Bufanda Blue Cjm Talla única...'
+tags: 
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

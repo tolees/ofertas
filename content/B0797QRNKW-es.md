@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eLN7wozGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797QRNKW-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en Cuero W0884L6'
+slug: 'B0797QRNKW-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

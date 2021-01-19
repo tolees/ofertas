@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512IX5bYONL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CXN7HFY-es Bolsa de cosméticos para mujeres  siluetas de una paloma flocado volando a un árbol de gallo  bolsas de maquillaje  accesorios organizadores regalos'
+slug: 'B08CXN7HFY-es Bolsa de cosméticos para mujeres siluetas de una paloma...'
+tags: 
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

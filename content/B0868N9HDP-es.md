@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pBOU3mCsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868N9HDP-es Suhctup Transparente Funda Compatible con OnePlus 5 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para OnePlus 5 4 '
+slug: 'B0868N9HDP-es Suhctup Transparente Funda Compatible con OnePlus 5...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

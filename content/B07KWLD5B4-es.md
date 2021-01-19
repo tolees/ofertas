@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oPKK+js6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWLD5B4-es New Balance Fresh Foam Vero Racer m  Zapatillas de Running para Mujer  Negro  Black/Pink Black/Pink   35 EU'
+slug: 'B07KWLD5B4-es New Balance Fresh Foam Vero Racer m Zapatillas de Running...'
+tags: 
 actualPrice: 32.8 EUR
 currency: EUR
 price: 32.8

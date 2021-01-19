@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d-nOIvRML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XL0N60W-es Orbegozo TF 0123 Ventilador de sobremesa  25 W  Blanco y negro'
+slug: 'B00XL0N60W-es Orbegozo TF 0123 Ventilador de sobremesa 25 W Blanco y negro'
+tags: 
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

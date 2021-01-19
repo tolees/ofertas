@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nsuRGoWbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC4LMXP-es Suhu Redondo Puff Baúl Taburete de Terciopelo Asiento Otomana Elegante Patas de Madera Maciza Asiento Gris'
+slug: 'B07MC4LMXP-es Suhu Redondo Puff Baúl Taburete de Terciopelo Asiento...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

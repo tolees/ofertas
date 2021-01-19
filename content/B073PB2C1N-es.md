@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yWVMPNVPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073PB2C1N-es Bourjois Velvet The Lipstick Barra de Labios Tono 10  Magni-fig   2.3 gr'
+slug: 'B073PB2C1N-es Bourjois Velvet The Lipstick Barra de Labios Tono 10...'
+tags: 
 actualPrice: 3.71 EUR
 currency: EUR
 price: 3.71

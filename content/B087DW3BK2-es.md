@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413Z5jKlXIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087DW3BK2-es Aidodo Difusor de Aroma 400ml Humidificador Ultrasónico Aromaterapia Difusor de Aceites Esenciales con Vapor Frío  7-Color LED 4 Temporizador  Ambientador Humidificador Bebes  Hogar  Oficina Bebé etc'
+slug: 'B087DW3BK2-es Aidodo Difusor de Aroma 400ml Humidificador Ultrasónico...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

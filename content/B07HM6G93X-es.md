@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FNzn3zq1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HM6G93X-es Easton Marlowe 6 PR Calcetines Estampados Hombre Argyle - 6pk #2-10  argyle - azul  43-46 EU shoe size'
+slug: 'B07HM6G93X-es Easton Marlowe 6 PR Calcetines Estampados Hombre Argyle -...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vk8ZST5VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9S61CS-es Cressi Kangaroo Dry Pouch Bolsa Impermeable para Teléfono móvil y para Objetos  Rosa Claro  Talla Única'
+slug: 'B07P9S61CS-es Cressi Kangaroo Dry Pouch Bolsa Impermeable para Teléfono...'
+tags: 
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

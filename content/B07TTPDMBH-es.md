@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T1r+y+HIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTPDMBH-es Kipling Baroe S  Monederos para Mujer  Gris  Curiosity Grey   11.5x7x3 cm'
+slug: 'B07TTPDMBH-es Kipling Baroe S Monederos para Mujer Gris Curiosity Grey...'
+tags: 
 actualPrice: 9.06 EUR
 currency: EUR
 price: 9.06

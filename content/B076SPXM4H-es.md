@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UE1PyhUVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076SPXM4H-es Lote de 100 Mixto Multicolor  cuentas de madera de estrellas para DIY Craft hacer 15 x 15 mm'
+slug: 'B076SPXM4H-es Lote de 100 Mixto Multicolor cuentas de madera de...'
+tags: 
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

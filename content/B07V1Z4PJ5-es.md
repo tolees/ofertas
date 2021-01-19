@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NZ6C6ro2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1Z4PJ5-es BOSS Octopus Bañador  Marrón  Dark Brown 204   X-Large para Hombre'
+slug: 'B07V1Z4PJ5-es BOSS Octopus Bañador Marrón Dark Brown 204 X-Large para...'
+tags: 
 actualPrice: 25.92 EUR
 currency: EUR
 price: 25.92

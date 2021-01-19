@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dl8oESB+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y31LB1T-es New Balance 574 Core Zapatillas Hombre  Gris  Grey EGG   44.5 EU  10 UK '
+slug: 'B06Y31LB1T-es New Balance 574 Core Zapatillas Hombre Gris Grey EGG 44.5...'
+tags: 
 actualPrice: 53.15 EUR
 currency: EUR
 price: 53.15

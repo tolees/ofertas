@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z1FRUW77L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSDC6M1-es Pilas AA Recargable POWEROWL Alta Capacidad 2800mAh 1.2V Pilas Recargables AA NI-MH Diámetro 14.4mm Baja Autodescarga  Precarga 12 Piezas  Recargable Aproximadamente 1200 Veces '
+slug: 'B07MSDC6M1-es Pilas AA Recargable POWEROWL Alta Capacidad 2800mAh 1.2V...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

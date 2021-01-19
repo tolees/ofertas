@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AKNyzgCwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTUZXK-es G-STAR RAW Midge Saddle Mid Waist Straight Jeans  Azul  Dk Aged 6553-89   23W / 28L para Mujer'
+slug: 'B01BGTUZXK-es G-STAR RAW Midge Saddle Mid Waist Straight Jeans Azul Dk...'
+tags: 
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

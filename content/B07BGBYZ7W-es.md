@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xqC0aXpRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGBYZ7W-es Nike Indy Light Bra Sports  Mujer  Black/ White   M'
+slug: 'B07BGBYZ7W-es Nike Indy Light Bra Sports Mujer Black/ White M'
+tags: 
 actualPrice: 18.65 EUR
 currency: EUR
 price: 18.65

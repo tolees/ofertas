@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31V8QIvwT7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0051PRCNC-es Revlon ZP11 - Champú Anticaspa Cabellos Normales  400 ml'
+slug: 'B0051PRCNC-es Revlon ZP11 - Champú Anticaspa Cabellos Normales 400 ml'
+tags: 
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

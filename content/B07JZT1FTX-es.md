@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d0jaoroLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZT1FTX-es Cable de Cargador Micro USB Trenzado Duradero Cable de Carga y sincronización de Datos de Alta Velocidad para Samsung Galaxy S7/S6/S5  HTC One  LG G4/G3 y más  Rojo '
+slug: 'B07JZT1FTX-es Cable de Cargador Micro USB Trenzado Duradero Cable de...'
+tags: 
 actualPrice: 3.18 EUR
 currency: EUR
 price: 3.18

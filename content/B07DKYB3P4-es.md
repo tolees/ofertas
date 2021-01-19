@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EeNavPxeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKYB3P4-es Tritton - Auricular Gaming Tritton Kunai Pro 7.1 Dirac 2020  Mac OS X '
+slug: 'B07DKYB3P4-es Tritton - Auricular Gaming Tritton Kunai Pro 7.1 Dirac...'
+tags: 
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

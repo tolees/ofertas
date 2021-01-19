@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P55wF+x4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THPPJM1-es Picadora de Carne Eléctrica 1500W  Negro  - Para Carne y Salchichas - Robot Cocina  Picador de Carne con 3 Placas de Corte de acero inoxidable y 3 Boquillas para Salchichas - Picadora Profesional'
+slug: 'B07THPPJM1-es Picadora de Carne Eléctrica 1500W Negro - Para Carne y...'
+tags: 
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

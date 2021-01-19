@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319xY07AMdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JRZATUE-es Tristar PZ-2881 Pizzera Máquina para hacer pizzas  30 cm  termostato regulable  1450 W  Negro'
+slug: 'B01JRZATUE-es Tristar PZ-2881 Pizzera Máquina para hacer pizzas 30 cm...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

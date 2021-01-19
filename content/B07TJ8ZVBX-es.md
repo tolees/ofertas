@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ssf3XMGbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ8ZVBX-es Localizador GPS for Coche  Toptellite 3G GPS Tracker NO Monthly Fees  Real-Time Locating  Antitheft SOS Button  Acc Detection  Geo-Fence Wire GPS Tracker for Car Auto Truck Trailer'
+slug: 'B07TJ8ZVBX-es Localizador GPS for Coche Toptellite 3G GPS Tracker NO...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

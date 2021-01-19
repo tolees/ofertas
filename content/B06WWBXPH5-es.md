@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51w-5MKE+ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WWBXPH5-es Juegos de Mesa Ajedrez Portátil de Bolsillo Plegable Magnético Cabrito Regalo'
+slug: 'B06WWBXPH5-es Juegos de Mesa Ajedrez Portátil de Bolsillo Plegable...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

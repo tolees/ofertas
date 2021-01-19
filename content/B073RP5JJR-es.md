@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CX2bBqekL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RP5JJR-es Helly Hansen Crew Gorra  Unisex Adulto  Negro  Única'
+slug: 'B073RP5JJR-es Helly Hansen Crew Gorra Unisex Adulto Negro Única'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

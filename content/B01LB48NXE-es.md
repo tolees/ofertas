@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418MqhA+HRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LB48NXE-es Taurus Pulsar Turbo-948.969 Aspirador de Trineo sin bolsa con filtraje multiciclónico  Energy Eco System  Turbocyclone Sytem  2 litros  Filtro HEPA  800 W  78 decibeles  2 liters  Decibelios  Plástico'
+slug: 'B01LB48NXE-es Taurus Pulsar Turbo-948.969 Aspirador de Trineo sin bolsa...'
+tags: 
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

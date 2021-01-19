@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318S649jJ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFDK26N-es Funko Pop! Simpsons Abuelo Simpson  Multicolor  FK33881   Talla Única'
+slug: 'B07DFDK26N-es Funko Pop! Simpsons Abuelo Simpson Multicolor FK33881...'
+tags: 
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

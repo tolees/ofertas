@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AJR8ZQU-es FREESTYLE Optium B-cetona Test Strips 1 x 10'
+tags: 
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

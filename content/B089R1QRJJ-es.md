@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xquSGMTSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089R1QRJJ-es Reloj de Cabeza Fantasma para niños Reloj de Barril Banda de Silicona Reloj de Pulsera Casual niños Niños Niñas - Rojo'
+slug: 'B089R1QRJJ-es Reloj de Cabeza Fantasma para niños Reloj de Barril Banda...'
+tags: 
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

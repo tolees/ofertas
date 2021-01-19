@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EiCLsTvxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PTTCV49-es Kipling - Atlez Duo  Bolsos bandolera Mujer  Marrón  Metallic Rose Gift   25x16.5x3 cm  B x H T '
+slug: 'B07PTTCV49-es Kipling - Atlez Duo Bolsos bandolera Mujer Marrón Metallic...'
+tags: 
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

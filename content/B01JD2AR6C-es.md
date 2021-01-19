@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hYfvDSOxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JD2AR6C-es Bulova 98A167 - Reloj de Pulsera de Diseño para Hombre - Ultrafino - Correa de Cuero - Negro'
+slug: 'B01JD2AR6C-es Bulova 98A167 - Reloj de Pulsera de Diseño para Hombre -...'
+tags: 
 actualPrice: 102.0 EUR
 currency: EUR
 price: 102.0

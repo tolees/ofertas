@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31t+W8qzQjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFCLMJT-es Masajeador Cervical Eléctrico Masajeador de Cuello en Forma de U con Transmisión de Voz Inteligente + APP Control para el Dolor  Fatiga'
+slug: 'B07KFCLMJT-es Masajeador Cervical Eléctrico Masajeador de Cuello en...'
+tags: 
 actualPrice: 32.69 EUR
 currency: EUR
 price: 32.69

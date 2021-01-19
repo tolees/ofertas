@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3128x34o5pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMB4RNY-es Joseph Joseph Elevate Pinzas de acero inoxidable de 30 5 cm- Gris / Verde'
+slug: 'B07FMB4RNY-es Joseph Joseph Elevate Pinzas de acero inoxidable de 30 5...'
+tags: 
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

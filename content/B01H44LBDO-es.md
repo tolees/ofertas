@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SfRnsocVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H44LBDO-es Universo DC - Robin Carrie Kelley vinyl pop heroes The dark knight returns  10 cm  Funko FUNVPOP9769 '
+slug: 'B01H44LBDO-es Universo DC - Robin Carrie Kelley vinyl pop heroes The...'
+tags: 
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

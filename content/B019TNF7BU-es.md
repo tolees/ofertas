@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eXiPKy7UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019TNF7BU-es E-PRANCE Balanza Ergonómica LCD Báscula / Báscula Pesca Digital 50g/50Kg 0.1lb/110lb para Maletas Equipaje de Viaje Báscula Negra'
+slug: 'B019TNF7BU-es E-PRANCE Balanza Ergonómica LCD Báscula / Báscula Pesca...'
+tags: 
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

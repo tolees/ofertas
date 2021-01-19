@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ipm4Upx2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KPS20K-es Philips 62093470 Iluminación de interior G24d-2 2  18 W  Blanco Neutro'
+slug: 'B000KPS20K-es Philips 62093470 Iluminación de interior G24d-2 2 18 W...'
+tags: 
 actualPrice: 3.46 EUR
 currency: EUR
 price: 3.46

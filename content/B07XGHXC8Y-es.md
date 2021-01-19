@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C5W8nRUwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGHXC8Y-es Adaptador de Audio USB HiFi Magic Voice 7.1 CH con Altavoz de 3.5 mm para Auriculares y Tomas de micrófono compatibles con Windows  Mac - Gris'
+slug: 'B07XGHXC8Y-es Adaptador de Audio USB HiFi Magic Voice 7.1 CH con Altavoz...'
+tags: 
 actualPrice: 5.64 EUR
 currency: EUR
 price: 5.64

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5C9SWB-es Suunto Traverse Alpha Black Red'
+tags: 
 actualPrice: 287.99 EUR
 currency: EUR
 price: 287.99

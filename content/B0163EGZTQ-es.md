@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l3UU5SQbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0163EGZTQ-es Dim Invisi Fit Sujetador  New Skin  90C para Mujer'
+slug: 'B0163EGZTQ-es Dim Invisi Fit Sujetador New Skin 90C para Mujer'
+tags: 
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

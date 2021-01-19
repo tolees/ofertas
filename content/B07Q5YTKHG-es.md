@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yYvNdZrPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q5YTKHG-es Superdry Classic Pique S/s Polo  Azul  Pilot Mid Blue J6p   Small para Hombre'
+slug: 'B07Q5YTKHG-es Superdry Classic Pique S/s Polo Azul Pilot Mid Blue J6p...'
+tags: 
 actualPrice: 20.83 EUR
 currency: EUR
 price: 20.83

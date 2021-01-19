@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eYEjgPFdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBBX4HH-es Funko- Pop Figura de Vinilo. Películas. Teen Wolf-Scott Coleccionable  Multicolor  41400 '
+slug: 'B07PBBX4HH-es Funko- Pop Figura de Vinilo. Películas. Teen Wolf-Scott...'
+tags: 
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aWDbvDaJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V469RJS-es Xpassion Mini Maquina de Coser Portátil de Mano Herramienta de Puntada Rápida para Tela Aguja y Enhebrador Uso de Viaje y Casa Ropa o Tela de Niños con Accesorios  Blanca'
+slug: 'B07V469RJS-es Xpassion Mini Maquina de Coser Portátil de Mano...'
+tags: 
 actualPrice: 17.24 EUR
 currency: EUR
 price: 17.24

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vHS5H8cQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08951GZMY-es Disco de Almacenamiento USB 2.0  Disco Flash  Disco U de Dibujos Animados con Tarjeta de Memoria  Mini Guitarra de Piano  Notas Musicales  Regalos  diversas personalidades  Disco U Creativo PVC'
+slug: 'B08951GZMY-es Disco de Almacenamiento USB 2.0 Disco Flash Disco U de...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

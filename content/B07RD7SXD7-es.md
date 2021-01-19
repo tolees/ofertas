@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C2lV2qNqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RD7SXD7-es DuneDesign Tabla de Cortar en Madera de Bambú - 51x37 - Tabla de Cocina con Cajón de Acero'
+slug: 'B07RD7SXD7-es DuneDesign Tabla de Cortar en Madera de Bambú - 51x37 -...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

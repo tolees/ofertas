@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sN3wp3ajL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B3KQOY6-es DIM Generous Minimizer Sujetador Reductor  Beige  New Skin   100C para Mujer'
+slug: 'B01B3KQOY6-es DIM Generous Minimizer Sujetador Reductor Beige New Skin...'
+tags: 
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cO0AAJwTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5HD1K2-es Adidas Duramo 9  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Core Black/Core Black 0   44 EU'
+slug: 'B07D5HD1K2-es Adidas Duramo 9 Zapatillas de Entrenamiento para Hombre...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

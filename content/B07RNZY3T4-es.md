@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-9zlupBfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RNZY3T4-es OtterBox Commuter Lite - Funda de Protección para Samsung Galaxy A40 Negra'
+slug: 'B07RNZY3T4-es OtterBox Commuter Lite - Funda de Protección para Samsung...'
+tags: 
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

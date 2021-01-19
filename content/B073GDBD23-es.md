@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31303cdIU3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073GDBD23-es Alfombrilla de Ratón Cojín de Muñeca con Reposamuñecas  Apoyo de Gel Ergonómico de Memoria Para Trabajadores Y Jugadores（negro）  Alfombrilla de ratón '
+slug: 'B073GDBD23-es Alfombrilla de Ratón Cojín de Muñeca con Reposamuñecas...'
+tags: 
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LJTc1DDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005IPM8Q6-es Philips Sonicare DiamondClean HX9332/04 - Cepillo de dientes eléctrico recargable  5 Modos  2 Cabezales  Vaso Cargador y Estuche Cargador de Viaje  Color Blanco'
+slug: 'B005IPM8Q6-es Philips Sonicare DiamondClean HX9332/04 - Cepillo de...'
+tags: 
 actualPrice: 143.5 EUR
 currency: EUR
 price: 143.5

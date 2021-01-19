@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XIDtSj30L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IOECMXQ-es Sennheiser HD 2.30i - Auriculares de Diadema Cerrados  3.5 mm  Compatible con iOS   Color Negro'
+slug: 'B01IOECMXQ-es Sennheiser HD 2.30i - Auriculares de Diadema Cerrados 3.5...'
+tags: 
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

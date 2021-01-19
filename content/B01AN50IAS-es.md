@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WS-6Z74LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AN50IAS-es Dek Kids - Zapatillas Unisex de tela blanca con cordones para niños/jóvenes  25 EU/Blanco '
+slug: 'B01AN50IAS-es Dek Kids - Zapatillas Unisex de tela blanca con cordones...'
+tags: 
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

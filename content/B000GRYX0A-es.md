@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gRwYWJA-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GRYX0A-es Parlux 3200 Compact - Secador de pelo plus  color negro'
+slug: 'B000GRYX0A-es Parlux 3200 Compact - Secador de pelo plus color negro'
+tags: 
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

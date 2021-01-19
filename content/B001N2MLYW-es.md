@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fv2Jhuv0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001N2MLYW-es Helly Hansen HH LIFA Stripe Crew Ropa Interior  Hombre  Negro  XL'
+slug: 'B001N2MLYW-es Helly Hansen HH LIFA Stripe Crew Ropa Interior Hombre...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

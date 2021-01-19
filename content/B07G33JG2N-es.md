@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DuHt2HHgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G33JG2N-es Toalla Playa Personalizada con Nombre o Texto. Regalo Infantil Toalla niño y niña. Piscina Playa Camping. Varios Diseños y Tamaños. Hadas'
+slug: 'B07G33JG2N-es Toalla Playa Personalizada con Nombre o Texto. Regalo...'
+tags: 
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

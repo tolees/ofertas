@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VHR6KQbDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PY2F6CN-es 2X Funda Xiaomi Redmi Note 7  Cárcasa Silicona Transparente Gel TPU Protector Bumper Case Cover Fundas para Teléfono Móvil Xiaomi Redmi Note 7 Pro/Redmi Note 7  Panda + Elefante '
+slug: 'B07PY2F6CN-es 2X Funda Xiaomi Redmi Note 7 Cárcasa Silicona Transparente...'
+tags: 
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

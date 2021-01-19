@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SQIO62-1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GFLG7OG-es Kärcher WD2 - Aspirador seco y húmedo 1000 W  depósito plástico de 12 l  versión española [enchufe inglés]'
+slug: 'B00GFLG7OG-es Kärcher WD2 - Aspirador seco y húmedo 1000 W depósito...'
+tags: 
 actualPrice: 44.85 EUR
 currency: EUR
 price: 44.85

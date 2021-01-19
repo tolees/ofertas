@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51I-cWyjGIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MH1KPLC-es Nicetree Espejo joyero Armario Montado Pared o Colgado en Puerta  Armario joyero con Espejo sin Espejo de Cuerpo Entero  Organizador de joyerías. Blanco Grano de Madera. NT-HF004'
+slug: 'B07MH1KPLC-es Nicetree Espejo joyero Armario Montado Pared o Colgado en...'
+tags: 
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

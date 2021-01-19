@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41355xk9wrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XW9PM2S-es BA20D Blanca LED Faro Lámpara Lejos Y Cerca De La Señal De Luz Bombilla LED Para La Motocicleta Universal  Moto  Vespa  barco  RV  automóvil  Iluminación del paisaje  etc.'
+slug: 'B06XW9PM2S-es BA20D Blanca LED Faro Lámpara Lejos Y Cerca De La Señal De...'
+tags: 
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZZsqGb3UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KCB2JL-es Palette Intense Cream Coloration Intensive Coloración del Cabello 4.6 Castaño Marrón - Pack de 3'
+slug: 'B071KCB2JL-es Palette Intense Cream Coloration Intensive Coloración del...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

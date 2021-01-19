@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wr9AHOZsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZR5RSJB-es Cepillos de Limpieza para Coches 5 Piezas Pinceles de Detalles Automotriz para Ruedas  Motor  Interior  Emblemas  Exterior  Ventilación de Aire'
+slug: 'B07ZR5RSJB-es Cepillos de Limpieza para Coches 5 Piezas Pinceles de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

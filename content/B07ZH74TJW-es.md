@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ihcu2oAjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZH74TJW-es Navaja Plegable Morpilot Cuchillo de Acero Inoxidable con Punta Rompevidrio y Cutter Cinturón Cuchillo Plegable con Mango Acero Inoxidable para Acampar  Picnic  Caza'
+slug: 'B07ZH74TJW-es Navaja Plegable Morpilot Cuchillo de Acero Inoxidable con...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Dde+F2KfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0067K1FNS-es Rimmel London Lasting Finish Barra De Labios Tono 128 Starry-Eyed - 18 gr'
+slug: 'B0067K1FNS-es Rimmel London Lasting Finish Barra De Labios Tono 128...'
+tags: 
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

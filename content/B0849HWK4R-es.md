@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413e6rY790L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0849HWK4R-es Hurley M Dri-Fit Pier Hat Gorra  Hombre  Black  L/XL'
+slug: 'B0849HWK4R-es Hurley M Dri-Fit Pier Hat Gorra Hombre Black L/XL'
+tags: 
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

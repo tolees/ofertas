@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ObQ1DWRqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4Y7W1-es Levi s 511 Slim Hemmed Short Pantalones Cortos  Negro  Eight Ball 0088   W32  Talla del Fabricante: 32  para Hombre'
+slug: 'B07KF4Y7W1-es Levi s 511 Slim Hemmed Short Pantalones Cortos Negro Eight...'
+tags: 
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

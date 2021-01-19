@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/218WWa0NdML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003LPUWU4-es Rimmel London 1000 Kisses Lipliner Perfilador de Labios Tono 047 Cappuccino - 1 2 gr  0.04 oz'
+slug: 'B003LPUWU4-es Rimmel London 1000 Kisses Lipliner Perfilador de Labios...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

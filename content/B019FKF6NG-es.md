@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-xaih-APL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B019FKF6NG-es Béaba 913400 - Cuchara y tenedor ergonómicos de aprendizaje  para niños segunda edad'
+slug: 'B019FKF6NG-es Béaba 913400 - Cuchara y tenedor ergonómicos de...'
+tags: 
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

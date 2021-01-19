@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4176HjUmyRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK418MS-es Columbia Redmond V2 Mid  Botas de Senderismo de Piel Impermeables para Hombre  Gris  Dark Grey  Madd 089   43.5 EU'
+slug: 'B07KK418MS-es Columbia Redmond V2 Mid Botas de Senderismo de Piel...'
+tags: 
 actualPrice: 58.95 EUR
 currency: EUR
 price: 58.95

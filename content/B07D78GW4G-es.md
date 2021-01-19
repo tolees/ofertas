@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412eGz7UQBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D78GW4G-es Fesoar Cepillo Barbacoa de Limpieza  360° Cepillos de Acero Inoxidable  Profesional Cepillo para Uso Comercial  al Aire Libre y para Acampar'
+slug: 'B07D78GW4G-es Fesoar Cepillo Barbacoa de Limpieza 360° Cepillos de Acero...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

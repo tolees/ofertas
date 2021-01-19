@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Iz92oADzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XRF2LYG-es Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 1513488'
+slug: 'B06XRF2LYG-es Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 144.46 EUR
 currency: EUR
 price: 144.46

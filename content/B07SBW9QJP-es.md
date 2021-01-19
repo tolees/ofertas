@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YmaGXo8OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBW9QJP-es PUMA One 20.4 FG/AG  Botas de fútbol para Hombre  Amarillo  Ultra Yellow Black/Orange Alert   39 EU'
+slug: 'B07SBW9QJP-es PUMA One 20.4 FG/AG Botas de fútbol para Hombre Amarillo...'
+tags: 
 actualPrice: 30.45 EUR
 currency: EUR
 price: 30.45

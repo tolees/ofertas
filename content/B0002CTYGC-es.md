@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414Od+zZXoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002CTYGC-es HP 122A - Cartucho de tóner original LaserJet para Laserjet series 2550  2820 y 2840  color negro'
+slug: 'B0002CTYGC-es HP 122A - Cartucho de tóner original LaserJet para...'
+tags: 
 actualPrice: 17.04 EUR
 currency: EUR
 price: 17.04

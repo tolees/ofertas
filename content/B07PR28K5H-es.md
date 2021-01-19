@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VkFtnXXhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR28K5H-es Under Armour Tech Corto  Hombre  Gris  30'
+slug: 'B07PR28K5H-es Under Armour Tech Corto Hombre Gris 30'
+tags: 
 actualPrice: 29.18 EUR
 currency: EUR
 price: 29.18

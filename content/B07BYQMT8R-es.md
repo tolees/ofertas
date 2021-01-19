@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o9fBK5WSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BYQMT8R-es Bella Aurora B7 Crema Facial Anti-manchas Cara | Hidratante Facial | Despigmentante | Anti-Edad para Piel Mixta o Grasa SPF 20  50 ml'
+slug: 'B07BYQMT8R-es Bella Aurora B7 Crema Facial Anti-manchas Cara |...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B491vpG1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BX4SMZW-es Juego de 36 Lana Fieltro Ovillos Colores Suave Kit Fieltro de Lana con Aguja Lana Cardata Apto para Hacer Manualidades y Detalles Creativos ai Principiantes profesionales  Incluye I  instrucciones '
+slug: 'B07BX4SMZW-es Juego de 36 Lana Fieltro Ovillos Colores Suave Kit Fieltro...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WB3WzXjrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1TTVRP-es Suizo Digital Dulect IP66 Caja de Sonido a Prueba de Agua BT Soporte de Sonido Extra Bass Wireless Dos Canales estéreo y Sonido 3D SP09'
+slug: 'B07G1TTVRP-es Suizo Digital Dulect IP66 Caja de Sonido a Prueba de Agua...'
+tags: 
 actualPrice: 26.69 EUR
 currency: EUR
 price: 26.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412a6yeu2CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LW70EKQ-es Nivea soft - Tarro  300 ml  pack of 3'
+slug: 'B00LW70EKQ-es Nivea soft - Tarro 300 ml pack of 3'
+tags: 
 actualPrice: 11.07 EUR
 currency: EUR
 price: 11.07

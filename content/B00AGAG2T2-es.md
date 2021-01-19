@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21pF3BymrYL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AGAG2T2-es Campingaz Coolbag Nevera Flexible  13 l  KÃ¼hltasche Carry  Dunkelblau/Grau  44 x 15 x 35 cm  13 Liters  2000011726  0.00 euro/100 ml  Azul Marino/Gris'
+slug: 'B00AGAG2T2-es Campingaz Coolbag Nevera Flexible 13 l KÃ¼hltasche Carry...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

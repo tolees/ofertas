@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317-otxh3GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GVFDPFE-es Optoma HEM2 - Auriculares  Alámbrico  Dentro de oído  Binaural  Intraaural  20-40000 Hz  Rojo '
+slug: 'B01GVFDPFE-es Optoma HEM2 - Auriculares Alámbrico Dentro de oído...'
+tags: 
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

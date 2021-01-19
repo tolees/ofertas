@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uN9zsweVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9JX09A-es Funko Figurine Marvel - Gardiens De La Galaxie 2 - Taserface [Importación Francesa]'
+slug: 'B01M9JX09A-es Funko Figurine Marvel - Gardiens De La Galaxie 2 -...'
+tags: 
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

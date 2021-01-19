@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410CjgAjzRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T32X8SZ-es Cámaras bala 700TVL AHD Cámara impermeable aire libre  Seguridad para el hogar Cámara visión nocturna por infrarrojos Visión nocturna Vigilancia Tarjeta video Sistema monitoreo multifunción EU '
+slug: 'B07T32X8SZ-es Cámaras bala 700TVL AHD Cámara impermeable aire libre...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NQ3666JAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0718WTYMW-es Rimmel London Stay Matte  Pintalabios Tono 800 Midnight  5.5 ml'
+slug: 'B0718WTYMW-es Rimmel London Stay Matte Pintalabios Tono 800 Midnight 5.5 ml'
+tags: 
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515qusTlf3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RBZY9JV-es Edge Entertainment- Narcos el Juego de Mesa  Color  EECMNA01 '
+slug: 'B07RBZY9JV-es Edge Entertainment- Narcos el Juego de Mesa Color EECMNA01'
+tags: 
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

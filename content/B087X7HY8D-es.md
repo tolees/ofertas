@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NbbaNLlEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087X7HY8D-es Suhctup Funda Transparent Compatible para Galaxy A6 Plus Carcasa Protectora [Antigolpes] Suave Silicona TPU Bumper Cojín de Aire de Cuatro Esquinas Protector Gel para Galaxy A9 Star Lite A14'
+slug: 'B087X7HY8D-es Suhctup Funda Transparent Compatible para Galaxy A6 Plus...'
+tags: 
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

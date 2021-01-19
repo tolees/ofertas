@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HTtRYqEWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFVHT3L-es ieGeek Cámara de Vigilancia WiFi Interior  Detección Humana  Grabacion Continua  Audio de 2 Vías  Sensor de Movimiento'
+slug: 'B07WFVHT3L-es ieGeek Cámara de Vigilancia WiFi Interior Detección Humana...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

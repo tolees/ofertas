@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zfXr+B8oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2L88KF-es Burton Moto Black Snowboard Botas  Negro  40 5'
+slug: 'B07F2L88KF-es Burton Moto Black Snowboard Botas Negro 40 5'
+tags: 
 actualPrice: 129.56 EUR
 currency: EUR
 price: 129.56

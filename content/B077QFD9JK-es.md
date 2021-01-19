@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GQVgjLueL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077QFD9JK-es Rimmel London Stay Matte Liquid Lip Colour Urban Romance Barra De Labios Tono 220 - 21 gr'
+slug: 'B077QFD9JK-es Rimmel London Stay Matte Liquid Lip Colour Urban Romance...'
+tags: 
 actualPrice: 3.46 EUR
 currency: EUR
 price: 3.46

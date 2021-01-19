@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pXBmtzqyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2W34HM-es Triumph Amourette Charm WHP Sujetador  Neutral Beige EP  85C para Mujer'
+slug: 'B01N2W34HM-es Triumph Amourette Charm WHP Sujetador Neutral Beige EP 85C...'
+tags: 
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

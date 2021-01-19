@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HoRCgRJpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBJ9GFB-es Munich G-3 Kid Indoor 19  Zapatillas de Deporte para Niños  Multicolor  Multicolor 019   38 EU'
+slug: 'B07PBJ9GFB-es Munich G-3 Kid Indoor 19 Zapatillas de Deporte para Niños...'
+tags: 
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/310a9VAlGfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWDTJW8-es KRISP Zapatillas Mujer Tipo Estilo Imitación Casuales Lona Cordones Baja Alta Puntera Goma   Negro  3795   39 EU  6 UK    3795-BLK-6'
+slug: 'B07WWDTJW8-es KRISP Zapatillas Mujer Tipo Estilo Imitación Casuales Lona...'
+tags: 
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

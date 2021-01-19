@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KvV9egyvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9W1S8H-es Philips SHB-3175BK/00 BASS+ Auriculares Wireless  negro'
+slug: 'B07P9W1S8H-es Philips SHB-3175BK/00 BASS+ Auriculares Wireless negro'
+tags: 
 actualPrice: 32.21 EUR
 currency: EUR
 price: 32.21

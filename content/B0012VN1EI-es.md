@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319v6muqNXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0012VN1EI-es Hawaiian Tropic After Sun Gel Cooling Aloe - Gel After Sun de Aloe Vera para piel irritada por el sol  hipoalergénico y dermatológicamente probado  formato 200 ml'
+slug: 'B0012VN1EI-es Hawaiian Tropic After Sun Gel Cooling Aloe - Gel After Sun...'
+tags: 
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

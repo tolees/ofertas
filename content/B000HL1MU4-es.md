@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000HL1MU4-es Bourjois Delice De Poudre Polvos Bronceadores Tono 51 - 68 g'
+tags: 
 actualPrice: 9.4 EUR
 currency: EUR
 price: 9.4

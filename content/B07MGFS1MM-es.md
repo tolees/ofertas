@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nZOeiGEvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFS1MM-es Napapijri Moto Wint Pantalones  Negro  Black 041   42  Talla del Fabricante: 30  para Hombre'
+slug: 'B07MGFS1MM-es Napapijri Moto Wint Pantalones Negro Black 041 42 Talla...'
+tags: 
 actualPrice: 53.63 EUR
 currency: EUR
 price: 53.63

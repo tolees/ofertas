@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41evVpqKoSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMNW4NM-es Calvin Klein Medium Drawstring Bañador  Verde  Dark Green LC0   Large para Hombre'
+slug: 'B07VMNW4NM-es Calvin Klein Medium Drawstring Bañador Verde Dark Green...'
+tags: 
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

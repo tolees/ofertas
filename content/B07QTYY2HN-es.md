@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qG3%2BN8jhL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTYY2HN-es Kidear Serie de Calzón Suave de Algodón Calzoncillo para Niñas  Paquete de 8   Estilo4  2-3 Años '
+slug: 'B07QTYY2HN-es Kidear Serie de Calzón Suave de Algodón Calzoncillo para...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

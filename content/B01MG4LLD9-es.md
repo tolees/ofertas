@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-TrbxaKoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MG4LLD9-es Alpha Animation & Toys 4Pk Super Wings Transform-A-Bots  Jett/Mira Aul/Grand Albert  Plane  Multicolor  Talla Única  Alpha Animation Toys YW710610 '
+slug: 'B01MG4LLD9-es Alpha Animation & Toys 4Pk Super Wings Transform-A-Bots...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

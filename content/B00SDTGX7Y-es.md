@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SDTGX7Y-es Sophie La Girafe 000004 - Mi primer set y muselina'
+tags: 
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

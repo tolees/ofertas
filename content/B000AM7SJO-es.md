@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BBbA891cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000AM7SJO-es Cullmann Alpha 1000 - Trípode Completo  hasta 106 cm   Negro'
+slug: 'B000AM7SJO-es Cullmann Alpha 1000 - Trípode Completo hasta 106 cm Negro'
+tags: 
 actualPrice: 10.74 EUR
 currency: EUR
 price: 10.74

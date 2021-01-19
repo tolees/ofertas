@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JdxoRBCXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2LV1ZW-es adidas Continental 80 I  Zapatillas de Estar por casa Bebé Unisex  Negro  Negbás/Escarl/Maruni 000   20 EU'
+slug: 'B07K2LV1ZW-es adidas Continental 80 I Zapatillas de Estar por casa Bebé...'
+tags: 
 actualPrice: 29.77 EUR
 currency: EUR
 price: 29.77

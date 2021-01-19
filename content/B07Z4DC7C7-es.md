@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-GFp8ugVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4DC7C7-es Controladora DMX Lixada 192 Canales DMX 512 Consola para Iluminación de Escenario Equipo DJ Disco Fiesta'
+slug: 'B07Z4DC7C7-es Controladora DMX Lixada 192 Canales DMX 512 Consola para...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

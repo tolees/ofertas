@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WSFrzJCtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPVSJGD-es Funko- Pop Animation: Rick & Moty-Hologram Rick Clone Collectible Figure  Multicolor  44252 '
+slug: 'B07SPVSJGD-es Funko- Pop Animation: Rick & Moty-Hologram Rick Clone...'
+tags: 
 actualPrice: 9.42 EUR
 currency: EUR
 price: 9.42

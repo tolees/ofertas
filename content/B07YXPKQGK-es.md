@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411-gdfZMYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXPKQGK-es Under Armour Men s Golf Headline Cap 3.0 Visera Clásica  Gorra para Hombre  Rojo  L'
+slug: 'B07YXPKQGK-es Under Armour Men s Golf Headline Cap 3.0 Visera Clásica...'
+tags: 
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

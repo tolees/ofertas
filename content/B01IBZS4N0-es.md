@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414LmQOzPfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IBZS4N0-es Victoria Botin Basket Autoclave  Zapatillas Altas para Hombre  Blanco  42 EU'
+slug: 'B01IBZS4N0-es Victoria Botin Basket Autoclave Zapatillas Altas para...'
+tags: 
 actualPrice: 21.79 EUR
 currency: EUR
 price: 21.79

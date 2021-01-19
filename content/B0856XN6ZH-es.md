@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sLEjzPizL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0856XN6ZH-es KFD 120W Adaptador Cargador Portátil para MSI Gx740 CX62 GE62 GE72 GE60 GE70 GP60 GP70 Gx660r GP72 GS60 ASUS ROG GL552JX N550 N53S N55S N55S GL502 Q550LF F554LA ADP-120RH B ADP-120ZB BB 19V 6 32A'
+slug: 'B0856XN6ZH-es KFD 120W Adaptador Cargador Portátil para MSI Gx740 CX62...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

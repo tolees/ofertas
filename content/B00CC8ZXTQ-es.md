@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TQRXVi4OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CC8ZXTQ-es Bestway 65046 - Barca Hinchable Neumática Bestway Hydro-Force Caspian  230 x 137 x 37 cm  - Capacidad para 2 adultos  soporte para motor  inflador y remos de aluminio'
+slug: 'B00CC8ZXTQ-es Bestway 65046 - Barca Hinchable Neumática Bestway Hydro-...'
+tags: 
 actualPrice: 215.48 EUR
 currency: EUR
 price: 215.48

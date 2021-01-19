@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oxRA3uaEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZQFS1-es PUMA King Hero FG  Botas de fútbol Unisex Adulto  Black White  41 EU'
+slug: 'B07KFZQFS1-es PUMA King Hero FG Botas de fútbol Unisex Adulto Black...'
+tags: 
 actualPrice: 31.05 EUR
 currency: EUR
 price: 31.05

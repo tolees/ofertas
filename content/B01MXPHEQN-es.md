@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QpT8VnJNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXPHEQN-es Tommy Hilfiger H2285arlow 1d  Zapatillas para Hombre  Blanco  White   40 EU'
+slug: 'B01MXPHEQN-es Tommy Hilfiger H2285arlow 1d Zapatillas para Hombre Blanco...'
+tags: 
 actualPrice: 33.97 EUR
 currency: EUR
 price: 33.97

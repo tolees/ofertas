@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XHydvuCML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8ZJTKV-es Castañer CHIARITA/8/001  Alpargatas para Mujer  Negro  Negro 100   39 EU'
+slug: 'B07P8ZJTKV-es Castañer CHIARITA/8/001 Alpargatas para Mujer Negro Negro...'
+tags: 
 actualPrice: 66.45 EUR
 currency: EUR
 price: 66.45

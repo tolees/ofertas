@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jVFz5U9ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072XKYYX8-es Tural - Protector de colchón Impermeable y transpirable. Tejido 100% Algodón de Muletón. Talla 150x200cm'
+slug: 'B072XKYYX8-es Tural - Protector de colchón Impermeable y transpirable....'
+tags: 
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

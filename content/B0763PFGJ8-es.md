@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gDpgZ2axL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0763PFGJ8-es Police Reloj Analógico para Hombre de Cuarzo con Correa en Cuero PL15048JSU.04'
+slug: 'B0763PFGJ8-es Police Reloj Analógico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 104.06 EUR
 currency: EUR
 price: 104.06

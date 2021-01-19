@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415UUZoBn2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J419CHH-es Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Piel DZ7415'
+slug: 'B07J419CHH-es Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 180.0 EUR
 currency: EUR
 price: 180.0

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FLZD4B-es Far Cry 5'
+tags: 
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

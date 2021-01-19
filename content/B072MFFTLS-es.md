@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31WwMJALEEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MFFTLS-es RED WAGON Zapatillas  Back To School  para Niños  Negro  Black   24 EU'
+slug: 'B072MFFTLS-es RED WAGON Zapatillas Back To School para Niños Negro Black...'
+tags: 
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

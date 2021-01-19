@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WNvnQi80L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6LQRFM-es Tommy Hilfiger Downtown Seasonal Belt 3.5 Cinturón   Brown 0im   130  Talla del fabricante: 115.0  para Hombre'
+slug: 'B07N6LQRFM-es Tommy Hilfiger Downtown Seasonal Belt 3.5 Cinturón Brown...'
+tags: 
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

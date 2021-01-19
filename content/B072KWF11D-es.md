@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GTUQM9HcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KWF11D-es ONTA® Deporte Ligero Plegable Auriculares Cascos con Micrófono y Control De Volumen De 3 5 mm Ajustable iPhone Ordenador Portátil MP3/4 Auriculares'
+slug: 'B072KWF11D-es ONTA® Deporte Ligero Plegable Auriculares Cascos con...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

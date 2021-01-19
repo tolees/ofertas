@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x9fDMiYFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FC9HBHX-es Juego de cuchillos  Homever juego moderno de bloques de cuchillos de acero inoxidable de 6 piezas'
+slug: 'B07FC9HBHX-es Juego de cuchillos Homever juego moderno de bloques de...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

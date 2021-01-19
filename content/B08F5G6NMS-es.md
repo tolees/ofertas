@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314E2udZf0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F5G6NMS-es yaoyan Adaptador USB 3.1 Tipo C USB-C a Dual 2 Hub Hub para PC Laptop Tablet Macbook PromotionHot Negro'
+slug: 'B08F5G6NMS-es yaoyan Adaptador USB 3.1 Tipo C USB-C a Dual 2 Hub Hub...'
+tags: 
 actualPrice: 2.62 EUR
 currency: EUR
 price: 2.62

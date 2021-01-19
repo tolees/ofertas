@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lafWlefML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003A6RXOC-es Moulinex A327R1 - Picadora 700 W de fácil sistema con tapa de presión  capacidad 0 6 l  para picar todo tipo de ingredientes con cuchilla y tapa removibles y bol de capacidad de 200 gr + batidora'
+slug: 'B003A6RXOC-es Moulinex A327R1 - Picadora 700 W de fácil sistema con tapa...'
+tags: 
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

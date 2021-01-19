@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OOfbMSfkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017WHFR56-es Columbia Zero Rules Polo con Protección Solar 30  Hombre  Gris  Tiburón Heather   L'
+slug: 'B017WHFR56-es Columbia Zero Rules Polo con Protección Solar 30 Hombre...'
+tags: 
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

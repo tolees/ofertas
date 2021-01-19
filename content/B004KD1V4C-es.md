@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vZ8mu+lvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004KD1V4C-es Macadamia 54999 - Cuidado capilar  1000 ml'
+slug: 'B004KD1V4C-es Macadamia 54999 - Cuidado capilar 1000 ml'
+tags: 
 actualPrice: 16.73 EUR
 currency: EUR
 price: 16.73

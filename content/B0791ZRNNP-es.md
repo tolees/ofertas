@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VL-MIuk3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0791ZRNNP-es NIKE Pantalones Training Parque 18 Fútbol  Nero BLU Bianco  M para Hombre'
+slug: 'B0791ZRNNP-es NIKE Pantalones Training Parque 18 Fútbol Nero BLU Bianco...'
+tags: 
 actualPrice: 21.96 EUR
 currency: EUR
 price: 21.96

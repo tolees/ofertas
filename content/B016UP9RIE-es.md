@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21NewKWKc8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016UP9RIE-es Apple MJ2R2ZM/A - Magic Trackpad 2  color blanco y plata'
+slug: 'B016UP9RIE-es Apple MJ2R2ZM/A - Magic Trackpad 2 color blanco y plata'
+tags: 
 actualPrice: 96.0 EUR
 currency: EUR
 price: 96.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n3upoVtIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078PHCDJ3-es Vans Ward - Zapatillas para Mujer  Negro  Suede/Canvas/Black/White Iju   36.5 EU'
+slug: 'B078PHCDJ3-es Vans Ward - Zapatillas para Mujer Negro...'
+tags: 
 actualPrice: 42.2 EUR
 currency: EUR
 price: 42.2

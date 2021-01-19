@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z+nYt5Z+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MLYDDX4-es Reloj para mujer Tommy Hilfiger 1781488  mecanismo de cuarzo  diseño con varias esferas  correa chapada en oro.'
+slug: 'B00MLYDDX4-es Reloj para mujer Tommy Hilfiger 1781488 mecanismo de...'
+tags: 
 actualPrice: 140.95 EUR
 currency: EUR
 price: 140.95

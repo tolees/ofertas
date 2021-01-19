@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515PbMcBnFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZDGXJB-es Remington Keratin Protect CI83V6  Rizador Barril de 19 - 28 mm  Cerámica Avanzada con Queratina y Aceite de Almendras  Hasta 210º C  Pantalla Digital'
+slug: 'B073ZDGXJB-es Remington Keratin Protect CI83V6 Rizador Barril de 19 - 28...'
+tags: 
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

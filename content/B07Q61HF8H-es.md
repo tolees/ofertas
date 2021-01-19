@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ELb1aLNTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q61HF8H-es Britax Römer Silla de coche 15 meses - 12 años  9 - 36 kg  ADVANSAFIX IV M  ISOFIX  Grupo 1/2/3  Storm Grey'
+slug: 'B07Q61HF8H-es Britax Römer Silla de coche 15 meses - 12 años 9 - 36 kg...'
+tags: 
 actualPrice: 204.99 EUR
 currency: EUR
 price: 204.99

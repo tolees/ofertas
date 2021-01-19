@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410zVS8MDkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFC39HB-es Keenso Bolsa para Almacenar Herramientas  Bolsa de Herramientas de Reparación de MTB'
+slug: 'B07ZFC39HB-es Keenso Bolsa para Almacenar Herramientas Bolsa de...'
+tags: 
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

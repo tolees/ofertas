@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21WwG3aP1UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084Z7YKSJ-es Para Oral Para Braun Cepillo de dientes eléctrico universal Base de la cabeza Cepillo de dientes eléctrico Soporte del cargador Base de diente  Blanco '
+slug: 'B084Z7YKSJ-es Para Oral Para Braun Cepillo de dientes eléctrico...'
+tags: 
 actualPrice: 3.8 EUR
 currency: EUR
 price: 3.8

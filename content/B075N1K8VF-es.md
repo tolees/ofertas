@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fd6DtEuYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075N1K8VF-es Monederos Mujer Cartera de Mujer de Gran Capacidad con RFID Bloqueo Bolsos Largo de Mujer con Cremallera de Bolsillo  Empaquetado con Caja de Regalo '
+slug: 'B075N1K8VF-es Monederos Mujer Cartera de Mujer de Gran Capacidad con...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

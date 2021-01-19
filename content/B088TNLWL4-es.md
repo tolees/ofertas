@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-R44Q0YPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TNLWL4-es Cabello colorido + Cepillo de dientes con mango de bambú Medio ambiente Arco iris de madera Cepillo de dientes de bambú Cuidado bucal Cerdas suaves Unisex'
+slug: 'B088TNLWL4-es Cabello colorido + Cepillo de dientes con mango de bambú...'
+tags: 
 actualPrice: 1.84 EUR
 currency: EUR
 price: 1.84

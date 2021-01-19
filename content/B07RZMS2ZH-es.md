@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51dO0OaeZoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZMS2ZH-es YABER Arrancador de Coches  1200A Arrancador Batería Coche  para 7.5L de Gasolina o 6.0L de Diesel  con IP68 Impermeable  Jump Starter con Carga Rápida QC3.0'
+slug: 'B07RZMS2ZH-es YABER Arrancador de Coches 1200A Arrancador Batería Coche...'
+tags: 
 actualPrice: 66.59 EUR
 currency: EUR
 price: 66.59

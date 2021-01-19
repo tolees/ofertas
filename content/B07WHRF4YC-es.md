@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xgAwz-tYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHRF4YC-es GC Pro Cargador para Portátil Lenovo B560 B570 G530 G550 G560 G575 G580 G580a G585 IdeaPad Z560 Z570 P580 Ordenador Adaptador de Corriente  20V 3.25A 65W '
+slug: 'B07WHRF4YC-es GC Pro Cargador para Portátil Lenovo B560 B570 G530 G550...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

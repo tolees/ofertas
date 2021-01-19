@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oJCESHFFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L9DUI1I-es DC Shoes TRASE TX Zapatillas Hombre  Negro  Black/Gum   42.5 EU'
+slug: 'B00L9DUI1I-es DC Shoes TRASE TX Zapatillas Hombre Negro Black/Gum 42.5 EU'
+tags: 
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

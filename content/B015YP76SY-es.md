@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P-fX2rnSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015YP76SY-es Beurer ME90-BT - Cardiómetro con Bluetooth  compatible con App"Cardio Expert"  color blanco'
+slug: 'B015YP76SY-es Beurer ME90-BT - Cardiómetro con Bluetooth compatible con...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

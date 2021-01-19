@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VMCWyhzVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQXNHFX-es Saucony Triumph ISO 5 - Zapatillas de running para hombre  Azul  Blue/Orange 36  45 EU'
+slug: 'B07JQXNHFX-es Saucony Triumph ISO 5 - Zapatillas de running para hombre...'
+tags: 
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

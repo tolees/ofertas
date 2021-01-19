@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Iq7hZ+rEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFYFCBH-es PUMJV|#Puma Defy Wn s Zapatillas Deportivas para Interior Mujer  Negro  Puma Black-Pastel Parchment 20   7  40.5 EU  EU  7 UK '
+slug: 'B07KFYFCBH-es PUMJV|#Puma Defy Wn s Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 28.87 EUR
 currency: EUR
 price: 28.87

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21HO05-9t9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XRX5H2Z-es LG SJ4 Barra de sonido  Subwoofer inalámbrico  Bluetooth   Negro'
+slug: 'B06XRX5H2Z-es LG SJ4 Barra de sonido Subwoofer inalámbrico Bluetooth Negro'
+tags: 
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

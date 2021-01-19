@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X5bu83zPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N543FWP-es Novex Mis Rizos  Capilar  - 400g'
+slug: 'B01N543FWP-es Novex Mis Rizos Capilar - 400g'
+tags: 
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

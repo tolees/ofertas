@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J6MiahCjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRTRP8G-es Ocobudbxw 10 Piezas SMA-JB3 Conector RF RP-SMA Macho Jack Centro de Soldadura Semi-rígido para RG402'
+slug: 'B08CRTRP8G-es Ocobudbxw 10 Piezas SMA-JB3 Conector RF RP-SMA Macho Jack...'
+tags: 
 actualPrice: 7.85 EUR
 currency: EUR
 price: 7.85

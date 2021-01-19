@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31U4XaibV-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3Z8Y2V-es Amzdeal Grifos de lavabo  grifo para baño con filtro cerámico y Neoperl aireador avanzado  grifo monomando para lavabo  hecho de 59 latón/Dolphin-05'
+slug: 'B07F3Z8Y2V-es Amzdeal Grifos de lavabo grifo para baño con filtro...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31siQaR5RBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UYHYSSO-es Superga 2750 COTU Classic  Zapatillas Unisex  Negro  Total Black 997   49 EU'
+slug: 'B00UYHYSSO-es Superga 2750 COTU Classic Zapatillas Unisex Negro Total...'
+tags: 
 actualPrice: 11.08 EUR
 currency: EUR
 price: 11.08

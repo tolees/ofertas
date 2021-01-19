@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KQC9jYifL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFLNZMK-es adidas Grand Court  Zapatillas de Running para Hombre  Multicolor  Ftwr White/Core Black/Ftwr White F36392   42 2/3 EU'
+slug: 'B07KFLNZMK-es adidas Grand Court Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 44.01 EUR
 currency: EUR
 price: 44.01

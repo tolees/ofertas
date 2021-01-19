@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41upfHNXxNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCTX2HH-es NEW C 2 Unidades  Protector de Pantalla para Xiaomi Pocophone F1 Vidrio Cristal Templado'
+slug: 'B07VCTX2HH-es NEW C 2 Unidades Protector de Pantalla para Xiaomi...'
+tags: 
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

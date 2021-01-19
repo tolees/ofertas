@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cYVREufKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4N3ZNJ-es Tommy Hilfiger Iconic Material Mix Runner  Zapatillas para Hombre  Gris  Antique Silver PRT   43 EU'
+slug: 'B07V4N3ZNJ-es Tommy Hilfiger Iconic Material Mix Runner Zapatillas para...'
+tags: 
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5192HNUvSCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JED5XK6-es Pen Drive 512MB 10 Piezas Memorias Flash USB 2.0 - Portátil PenDrive 512 MB Pequeña Capacidad Memory Stick - Negro Económico Unidad Flash USB con Cordones para Empresa Anuncia y Buscaba by FEBNISCTE'
+slug: 'B00JED5XK6-es Pen Drive 512MB 10 Piezas Memorias Flash USB 2.0 -...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

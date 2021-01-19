@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ojpB4JwxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YWNYTMN-es Bandeja de Comida Fresca  GHONLZIN Bandeja Fresca Contenedores Ambientales de Almacenamiento de Alimentos para la Preservación de la Frescura de los Alimentos  3 Pieces '
+slug: 'B07YWNYTMN-es Bandeja de Comida Fresca GHONLZIN Bandeja Fresca...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

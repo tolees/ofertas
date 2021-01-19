@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41osBYlvcfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NF1Y94Z-es Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18541/4'
+slug: 'B07NF1Y94Z-es Lotus Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 56.97 EUR
 currency: EUR
 price: 56.97

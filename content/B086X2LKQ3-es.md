@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519JrlF-iTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086X2LKQ3-es Ukerdo DIY Diamante Pintura Kits Lleno Taladro Flor Imagens para Hogar Sala de Estar Pared Arte Decoración'
+slug: 'B086X2LKQ3-es Ukerdo DIY Diamante Pintura Kits Lleno Taladro Flor...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Fm1yFtBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IVOCDJ2-es AUKEY - Lámpara de escritorio tipo LED  6 W  Lámpara de lectura con 3 niveles de luminosidad  control táctil y protector de ojos  ángulo ajustable y cuello flexible  negro  LT-ST1 '
+slug: 'B01IVOCDJ2-es AUKEY - Lámpara de escritorio tipo LED 6 W Lámpara de...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cWtR3HGpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MRKNSG5-es Seagate Backup Plus Slim STHN2000401 Unidad de disco duro externa portátil de 2 TB  HDD  USB 3.0 para PC y Mac  1 año de suscripción a Mylio Create  2 meses de suscripción Adobe CC Photography  Plata'
+slug: 'B07MRKNSG5-es Seagate Backup Plus Slim STHN2000401 Unidad de disco duro...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iBvXAAmaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DVTKZ6-es Prozis Zero Snack Barra Rico En Proteína y Bajo en Hidratos de Carbono y Azúcares  Galletas y Crema - 12 x 35 g'
+slug: 'B075DVTKZ6-es Prozis Zero Snack Barra Rico En Proteína y Bajo en...'
+tags: 
 actualPrice: 10.73 EUR
 currency: EUR
 price: 10.73

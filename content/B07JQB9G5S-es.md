@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-kl26szGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQB9G5S-es Tommy Hilfiger Patch Cap Gorra de béisbol  Azul  Talla única  Talla del Fabricante:  para Mujer'
+slug: 'B07JQB9G5S-es Tommy Hilfiger Patch Cap Gorra de béisbol Azul Talla única...'
+tags: 
 actualPrice: 16.51 EUR
 currency: EUR
 price: 16.51

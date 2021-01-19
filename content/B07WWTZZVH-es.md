@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314vy36mRsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWTZZVH-es oodji Ultra Mujer Mallas de Punto con Inscripción  Rojo  ES 42 / L'
+slug: 'B07WWTZZVH-es oodji Ultra Mujer Mallas de Punto con Inscripción Rojo ES...'
+tags: 
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

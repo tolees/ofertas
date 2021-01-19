@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Co4f7-DZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HNACR24-es Anita - Sujetador para mujer  Negro  schwarz 001   80B'
+slug: 'B00HNACR24-es Anita - Sujetador para mujer Negro schwarz 001 80B'
+tags: 
 actualPrice: 32.52 EUR
 currency: EUR
 price: 32.52

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41obs7yY0dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6BNRRT-es Nike Legend 8 Club FG/MG  Zapatillas de Fútbol para Hombre  Negro Black Blue Hero 004  39 EU'
+slug: 'B07M6BNRRT-es Nike Legend 8 Club FG/MG Zapatillas de Fútbol para Hombre...'
+tags: 
 actualPrice: 37.28 EUR
 currency: EUR
 price: 37.28

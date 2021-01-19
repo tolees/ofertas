@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417YdNsEaFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GK8MN7J-es 4 Piezas 50ml Botellas de Viaje Recargables Vacías Botellas de Plástico con Mosquetón Recipiente Portátil de Plástico Transparente de Viaje para Desinfectante de Manos Contenedor'
+slug: 'B08GK8MN7J-es 4 Piezas 50ml Botellas de Viaje Recargables Vacías...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

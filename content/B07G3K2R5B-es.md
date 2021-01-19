@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QdrkfiMTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3K2R5B-es XPLORA 3S - Smartwatch Resistente al Agua para tu hijo  SIM no incluida  - Llamadas  Mensajes  Modo Colegio  función SOS  Localización GPS y Cámara  Rosa'
+slug: 'B07G3K2R5B-es XPLORA 3S - Smartwatch Resistente al Agua para tu hijo SIM...'
+tags: 
 actualPrice: 149.9 EUR
 currency: EUR
 price: 149.9

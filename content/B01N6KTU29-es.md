@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6KTU29-es FORTEM Cojín de Asiento y Respaldo de Soporte Lumbar Ergonómico | Espuma de Calidad Ortopédica: Alivio de Dolores de Espalda  del Cóccix y la Ciática | Mejora y Corrige su Postura | Fundas Lavables'
+slug: 'B01N6KTU29-es FORTEM Cojín de Asiento y Respaldo de Soporte Lumbar...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

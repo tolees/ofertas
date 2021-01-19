@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k5ruktMGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBFD27D-es Versus by Versace Reloj Analogico para Hombre de Cuarzo con Correa en Cuero VSP520118'
+slug: 'B07BBFD27D-es Versus by Versace Reloj Analogico para Hombre de Cuarzo...'
+tags: 
 actualPrice: 110.0 EUR
 currency: EUR
 price: 110.0

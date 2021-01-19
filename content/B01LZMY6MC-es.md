@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WuKSeNZBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZMY6MC-es Brabantia Cubo de Basura con Pedal  Inoxidable  Acero Mate  3 l'
+slug: 'B01LZMY6MC-es Brabantia Cubo de Basura con Pedal Inoxidable Acero Mate 3 l'
+tags: 
 actualPrice: 17.71 EUR
 currency: EUR
 price: 17.71

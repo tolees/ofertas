@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XYCz647ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRCDWW5-es Kipling - City Pack Mini  Mochilas Mujer  Dorado  Cloud Metal   27x29x14 cm  B x H T '
+slug: 'B07PRCDWW5-es Kipling - City Pack Mini Mochilas Mujer Dorado Cloud Metal...'
+tags: 
 actualPrice: 30.42 EUR
 currency: EUR
 price: 30.42

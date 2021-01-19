@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YO9b-meEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YL7DZ4-es 3 en 1 Lámpara LED de Mesa  YZCX Lámpara Táctil con Altavoz Bluetooth  Multicolor Lámparas de Escritorio con Reloj Despertador  Lámparas Mesita de Noche para Habitaciones'
+slug: 'B078YL7DZ4-es 3 en 1 Lámpara LED de Mesa YZCX Lámpara Táctil con Altavoz...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Kl1W5V+4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7Y1LH8-es Dailydream colchón Topper viscoelástico  Espuma con Efecto Memoria  80x200x5cm'
+slug: 'B07D7Y1LH8-es Dailydream colchón Topper viscoelástico Espuma con Efecto...'
+tags: 
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

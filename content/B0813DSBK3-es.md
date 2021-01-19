@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51w9YXqNdWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813DSBK3-es i-baby Manta Infantil Manta Franela para Chicas Manta de Sofá y Cama de Microfibra 4 Estaciones  Unicornio  127x152cm '
+slug: 'B0813DSBK3-es i-baby Manta Infantil Manta Franela para Chicas Manta de...'
+tags: 
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+xaYxNHQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078RRKTPN-es Almohada maBELLA con Cuidado de la Piel y Aromaterapia | Almohada Cervical Ergonómica y Ortopédica | Con Ylang-Ylang y Tecnología Patentada SKIN+ | Ideal para Dormir en Cualquier Posición'
+slug: 'B078RRKTPN-es Almohada maBELLA con Cuidado de la Piel y Aromaterapia |...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

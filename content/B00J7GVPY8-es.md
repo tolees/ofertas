@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XqbPxb-RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J7GVPY8-es Zwilling Plus Asador  Acero Inoxidable  1 cm'
+slug: 'B00J7GVPY8-es Zwilling Plus Asador Acero Inoxidable 1 cm'
+tags: 
 actualPrice: 62.41 EUR
 currency: EUR
 price: 62.41

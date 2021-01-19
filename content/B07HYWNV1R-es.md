@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415QAjeJdNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYWNV1R-es Lol Surprise - Disfraz Diva para niñas  5-6 años  Rubies 300146-M '
+slug: 'B07HYWNV1R-es Lol Surprise - Disfraz Diva para niñas 5-6 años Rubies...'
+tags: 
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WAKA7BPaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BTLBKD-es Oihxse Funda Compatible con Samsung Galaxy C9 Pro  Carcasa Transparente TPU Silicona Gel Ultra Fina Suave Protección Flexible Lindo Dibujos Anti-rasguños Caso Cubierta  A3 '
+slug: 'B086BTLBKD-es Oihxse Funda Compatible con Samsung Galaxy C9 Pro Carcasa...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ls7AGzxiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013DJDX3K-es Skylanders SuperCharges - Figura High Volt  Driver '
+slug: 'B013DJDX3K-es Skylanders SuperCharges - Figura High Volt Driver'
+tags: 
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

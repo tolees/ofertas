@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hUNL0W2XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XQ1W2C8-es VTech-80-196622 Suave muñeca interactiva para abrazar al dormir.  3480-196622    color/modelo surtido'
+slug: 'B06XQ1W2C8-es VTech-80-196622 Suave muñeca interactiva para abrazar al...'
+tags: 
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

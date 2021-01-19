@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-SxWkWBcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXVL9NY-es Tribe Marvel Avengers - Funda para Apple iPhone 6  diseño Iron Man'
+slug: 'B01MXVL9NY-es Tribe Marvel Avengers - Funda para Apple iPhone 6 diseño...'
+tags: 
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

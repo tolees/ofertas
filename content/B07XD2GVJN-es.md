@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61T4mbg83qL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD2GVJN-es Ezlife Protector de Parabrisas  Protector para Parabrisas con imán Cubierta de Parabrisas Coche Protege de Rayos Antihielo y Nieve  UV  Lluvia  Funda Plegable Parabrisa Delantero 189x120cm'
+slug: 'B07XD2GVJN-es Ezlife Protector de Parabrisas Protector para Parabrisas...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

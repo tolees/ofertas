@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416bdjvNX5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5XLVW3-es Fidech Potente Masajeador Portátil  7 Modos de Vibración  Recargable USB Magnético  Silicona Suave'
+slug: 'B07Z5XLVW3-es Fidech Potente Masajeador Portátil 7 Modos de Vibración...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

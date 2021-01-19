@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51J6H1N158L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VVZPO3G-es Belkin B2A075-C00 - Funda Estuche para Chromebook de 11"  Color Negro'
+slug: 'B00VVZPO3G-es Belkin B2A075-C00 - Funda Estuche para Chromebook de 11"...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FZSMiN6xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BYR8TWH-es Chicco - Barra de alivio post picaduras mosquito para bebés  sin amoniaco ni alcohol  formula natural'
+slug: 'B07BYR8TWH-es Chicco - Barra de alivio post picaduras mosquito para...'
+tags: 
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

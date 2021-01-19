@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31V5ReoqYwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4JGYZK-es Superdry Classic Lite Micro Pique Polo  Blanco  Optic 01c   Medium para Hombre'
+slug: 'B07P4JGYZK-es Superdry Classic Lite Micro Pique Polo Blanco Optic 01c...'
+tags: 
 actualPrice: 19.34 EUR
 currency: EUR
 price: 19.34

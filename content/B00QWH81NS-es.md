@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LPjODXVOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QWH81NS-es JewelryWe Par de Alianzas de Boda Anillos de Compromiso Originales  Acero de Tungsteno Anillos de Eternidad Raya Dorada Pulidos  Regalo de San Valentín'
+slug: 'B00QWH81NS-es JewelryWe Par de Alianzas de Boda Anillos de Compromiso...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

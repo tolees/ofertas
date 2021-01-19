@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61uj2l+KdsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FPELRPC-es  "Biere del Mundo regalo + + Información de cerveza + + Catas de instrucciones + + cerveza Tapa. Hombres de cumpleaños/Navidad/día del padre. El regalo inusual y especiales'
+slug: 'B01FPELRPC-es "Biere del Mundo regalo + + Información de cerveza + +...'
+tags: 
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

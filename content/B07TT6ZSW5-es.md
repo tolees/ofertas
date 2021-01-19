@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HKXKEujQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT6ZSW5-es Levi s 501 Original Pantalones Cortos  Azul  Athens Mid Short 0081   W25  Talla del Fabricante: 25  para Mujer'
+slug: 'B07TT6ZSW5-es Levi s 501 Original Pantalones Cortos Azul Athens Mid...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

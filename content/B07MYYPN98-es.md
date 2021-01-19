@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KYSE2ax6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYYPN98-es Vacío Envasado Máquina Envasadora Alimentos Conservación Almacenamiento con 10 Sellador Bolsas Húmedos Comida Frescos Automático Selladora Cortador Kitchen Comida Frescos sous vide Carne Cocción Hogar'
+slug: 'B07MYYPN98-es Vacío Envasado Máquina Envasadora Alimentos Conservación...'
+tags: 
 actualPrice: 61.9 EUR
 currency: EUR
 price: 61.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m6DIptZUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AVF225Y-es Revlon Super Lustroso Pintalabios mate – 4.2 g  realmente rojo'
+slug: 'B01AVF225Y-es Revlon Super Lustroso Pintalabios mate – 4.2 g realmente rojo'
+tags: 
 actualPrice: 2.65 EUR
 currency: EUR
 price: 2.65

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZagttWn4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X04EJYQ-es BSN Nutrition Syntha 6 Edge Whey Protein Isolate  Proteinas para Masa Muscular  Suplementos Deportivos en Polvo con Proteinas Whey  Batido de Chocolate  48 Porciones  1.87kg'
+slug: 'B00X04EJYQ-es BSN Nutrition Syntha 6 Edge Whey Protein Isolate Proteinas...'
+tags: 
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ps2Rzq8CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3QZBQN-es RESPIRFIX DILATADOR Nasal Deportivo ANTIRONQUIDO 2 Unidades Talla M sin Latex ni Silicona antialergico diseñado y Fabricado en España con CÓDIGO Nacional del Colegio DE FARMACEUTICOS'
+slug: 'B07H3QZBQN-es RESPIRFIX DILATADOR Nasal Deportivo ANTIRONQUIDO 2...'
+tags: 
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

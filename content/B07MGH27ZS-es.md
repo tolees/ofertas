@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CbHq5bPsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGH27ZS-es Transportín Perro Gato  Bolsa de Transporte Transpirable para Mascotas  Portador de Viaje con Correa de Hombro Ajustable  Transporte de Gato con Colchón Suave + Tazón Plegable  16.2*12.1*9.45 inch '
+slug: 'B07MGH27ZS-es Transportín Perro Gato Bolsa de Transporte Transpirable...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y0sBjfZUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WF77MX2-es CIRAGO Licuadora Prensado en Frio  Fruta y verdura  Extractor de zumos con Función inversa exprimidor con 2 Niveles de Velocidad  fácil de Limpiar  Motor silencioso  sin BPA'
+slug: 'B07WF77MX2-es CIRAGO Licuadora Prensado en Frio Fruta y verdura...'
+tags: 
 actualPrice: 77.59 EUR
 currency: EUR
 price: 77.59

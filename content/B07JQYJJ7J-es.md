@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31CSNnZXNiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQYJJ7J-es Tommy Hilfiger Brooklyn Short Light Twill Belt Pantalones Cortos  Azul  Medieval BLUE485   W34  Talla del Fabricante: NI34  para Hombre'
+slug: 'B07JQYJJ7J-es Tommy Hilfiger Brooklyn Short Light Twill Belt Pantalones...'
+tags: 
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

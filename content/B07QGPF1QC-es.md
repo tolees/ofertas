@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31T3dwPyeCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGPF1QC-es E.INFINITY Aretes de Perlas para Mujer  Plata Esterlina 925 AAA Joya de Pendiente de Perla Cultivada de Agua Dulce Colgante  Silver Entre 8 00 y 8 40 mm '
+slug: 'B07QGPF1QC-es E.INFINITY Aretes de Perlas para Mujer Plata Esterlina 925...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

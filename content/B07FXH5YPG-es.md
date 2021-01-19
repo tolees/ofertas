@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tZ8TdXJWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXH5YPG-es Vans Filmore Decon  Zapatillas para Hombre  Rojo  Canvas  Port Royale/White 8j7   44 EU'
+slug: 'B07FXH5YPG-es Vans Filmore Decon Zapatillas para Hombre Rojo Canvas Port...'
+tags: 
 actualPrice: 35.61 EUR
 currency: EUR
 price: 35.61

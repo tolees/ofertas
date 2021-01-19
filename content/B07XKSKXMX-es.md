@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CLJb5aR9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKSKXMX-es Barra de Sonido Envolvente EXCELVAN S18L 40W Barra de Sonido para TV BT 5.0 Laptop Entrada USB 3 Modos de Ecualización Fácil Instalación de Control Remoto'
+slug: 'B07XKSKXMX-es Barra de Sonido Envolvente EXCELVAN S18L 40W Barra de...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

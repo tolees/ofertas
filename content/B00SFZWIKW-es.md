@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BOvLRU7bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SFZWIKW-es Smiffys-44226 Kit de Maquillaje para el día de los Muertos  con Pinturas para la Cara  Tatuaje  Multicolor  No es Applicable  Smiffy S 44226 '
+slug: 'B00SFZWIKW-es Smiffys-44226 Kit de Maquillaje para el día de los Muertos...'
+tags: 
 actualPrice: 0.53 EUR
 currency: EUR
 price: 0.53

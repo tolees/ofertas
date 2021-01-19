@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AJcqzN+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084VJ3HW3-es Portátil al aire libre de gran capacidad para bebés  leche en polvo para bebés  caja de almacenamiento sellada  tanque organizador  contenedor  caja de recepción - verde - S'
+slug: 'B084VJ3HW3-es Portátil al aire libre de gran capacidad para bebés leche...'
+tags: 
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

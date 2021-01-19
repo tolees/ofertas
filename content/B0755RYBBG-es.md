@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AzJrwnwmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0755RYBBG-es Gebildet® Universal 5 Piezas Herramientas de Desmontaje para Audio de Coche para extraer tapicerías de vehículos  Instrumentos de Audio Desmontaje Kits Instalador Pry Tool'
+slug: 'B0755RYBBG-es Gebildet® Universal 5 Piezas Herramientas de Desmontaje...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

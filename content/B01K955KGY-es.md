@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UIOZQf+iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K955KGY-es Schramm® Paquete de 4 Vasos con Tapa  asa y Pajita Vasos de Cristal con Pajita para Beber cóctel de Cristal 500ml Jarra para Beber Vintage Retro Garden Terrace'
+slug: 'B01K955KGY-es Schramm® Paquete de 4 Vasos con Tapa asa y Pajita Vasos de...'
+tags: 
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

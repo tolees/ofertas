@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514V6BU3xeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N29HM0N-es Epson Workforce DS-770 - Escáner  215 9 x 215 9 mm  600 x 600 dpi  30 bit  24 bit  8 bit  8 bit '
+slug: 'B01N29HM0N-es Epson Workforce DS-770 - Escáner 215 9 x 215 9 mm 600 x...'
+tags: 
 actualPrice: 514.26 EUR
 currency: EUR
 price: 514.26

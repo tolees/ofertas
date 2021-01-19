@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YLIrf2QZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073SZDXBX-es bollé 31497 Juliet Cascos de Esquí  Mujer  Negro  Black Rose Gold   52-54 cm'
+slug: 'B073SZDXBX-es bollé 31497 Juliet Cascos de Esquí Mujer Negro Black Rose...'
+tags: 
 actualPrice: 59.96 EUR
 currency: EUR
 price: 59.96

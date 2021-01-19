@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HECjr21cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008DCOW6A-es H.Koenig V5i Centro de Planchado 90 g/r  3.5 Bares  2400 W  Plancha con Suela de Cerámica  Depósito de Agua extraíble 1.7L  Autonomía Ilimitada  Control Manual de la Temperatura  Azul'
+slug: 'B008DCOW6A-es H.Koenig V5i Centro de Planchado 90 g/r 3.5 Bares 2400 W...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

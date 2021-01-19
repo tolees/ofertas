@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/5194rrJhgYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S39KBLP-es Maletín de Herramientas  102 Kit Caja Herramientas Portátil Universal de Reparación Multifuncional Juego de Herramientas Con llaves de vaso Martillo Alicates Destornilladores Tacos Tornillos Metro'
+slug: 'B07S39KBLP-es Maletín de Herramientas 102 Kit Caja Herramientas Portátil...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

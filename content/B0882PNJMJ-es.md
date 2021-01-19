@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FzA7e0UlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0882PNJMJ-es Syxinn Compatible con Correa de Reloj Gear S3 Frontier/Classic/Galaxy Watch 46mm Reemplazo de Banda de Silicona Suave Deportiva Pulsera de Repuesto para Gear S3/Moto 360 2nd Gen 46mm'
+slug: 'B0882PNJMJ-es Syxinn Compatible con Correa de Reloj Gear S3...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

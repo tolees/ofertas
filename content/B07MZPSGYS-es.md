@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A7usNj3vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPSGYS-es Pepe Jeans Helaia suéter   Dulwich 594   Medium para Mujer'
+slug: 'B07MZPSGYS-es Pepe Jeans Helaia suéter Dulwich 594 Medium para Mujer'
+tags: 
 actualPrice: 36.35 EUR
 currency: EUR
 price: 36.35

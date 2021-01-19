@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Fzz+tGJUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B39LKDW-es Falomir Alfarería Piratas Mesa. Juego Artístico.  28438 '
+slug: 'B07B39LKDW-es Falomir Alfarería Piratas Mesa. Juego Artístico. 28438'
+tags: 
 actualPrice: 5.34 EUR
 currency: EUR
 price: 5.34

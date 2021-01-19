@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZAoAuZlTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJRKQWD-es Olivia Burton Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable OB16GD14'
+slug: 'B07KJRKQWD-es Olivia Burton Reloj Analógico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 69.6 EUR
 currency: EUR
 price: 69.6

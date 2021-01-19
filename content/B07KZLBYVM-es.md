@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BNzzziyJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZLBYVM-es KESOTO 1/12 Cama de Madera en Miniatura Muebles para Dormitorio de Muñecas'
+slug: 'B07KZLBYVM-es KESOTO 1/12 Cama de Madera en Miniatura Muebles para...'
+tags: 
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

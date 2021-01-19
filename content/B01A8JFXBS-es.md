@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oUVb2MgpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A8JFXBS-es OGX  Champú Hidratante de Agua de Coco  Cabellos Deshidratados  385 ml'
+slug: 'B01A8JFXBS-es OGX Champú Hidratante de Agua de Coco Cabellos...'
+tags: 
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

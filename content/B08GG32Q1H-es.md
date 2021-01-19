@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31owDpl-xKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GG32Q1H-es FERYES - Exprimidor de pasta de dientes de 2 piezas  dispensador de exprimidor de asiento de pasta de dientes con tubo rodante para baño  blanco '
+slug: 'B08GG32Q1H-es FERYES - Exprimidor de pasta de dientes de 2 piezas...'
+tags: 
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

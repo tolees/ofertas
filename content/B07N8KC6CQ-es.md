@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410zY-usg8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8KC6CQ-es BOSS Raio_1 suéter  Gris  Light/Pastel Grey   Medium para Hombre'
+slug: 'B07N8KC6CQ-es BOSS Raio_1 suéter Gris Light/Pastel Grey Medium para Hombre'
+tags: 
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

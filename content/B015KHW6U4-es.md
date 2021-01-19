@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dUlZLIfZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015KHW6U4-es Nike Air Max Command Leather - Zapatillas de running  Hombre  Blanco / Negro / Gris  White / Black-Black-Wolf Grey   41'
+slug: 'B015KHW6U4-es Nike Air Max Command Leather - Zapatillas de running...'
+tags: 
 actualPrice: 89.18 EUR
 currency: EUR
 price: 89.18

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wzt6LN3bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3M9BCG-es Kipling PALMBEACH Bolsa de Viaje  23 cm  7 Liters  Negro  Charcoal '
+slug: 'B07V3M9BCG-es Kipling PALMBEACH Bolsa de Viaje 23 cm 7 Liters Negro...'
+tags: 
 actualPrice: 47.37 EUR
 currency: EUR
 price: 47.37

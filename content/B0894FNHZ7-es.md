@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410UR+X0GeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894FNHZ7-es Juego de 2 cucharas de decoración de dibujo culinario de precisión profesionales  de acero inoxidable  multiusos  para cocinero  platos decorativos  tartas  postre con mango cómodo'
+slug: 'B0894FNHZ7-es Juego de 2 cucharas de decoración de dibujo culinario de...'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

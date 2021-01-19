@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51g64C9rYYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J9QACSQ-es Tesa TE05671-00000-11 Cinta doble cara Extra fuerte 10m x 50mm beige  Standard'
+slug: 'B00J9QACSQ-es Tesa TE05671-00000-11 Cinta doble cara Extra fuerte 10m x...'
+tags: 
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

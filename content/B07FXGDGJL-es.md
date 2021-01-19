@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eSx07SF5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXGDGJL-es 12W Lámpara de baño LED  Lámpara de espejo Aplique de Baño LED 50CM 6000K Luz Blanca para Espejo Muebles de Maquillaje Aparato Montado en la Pared'
+slug: 'B07FXGDGJL-es 12W Lámpara de baño LED Lámpara de espejo Aplique de Baño...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

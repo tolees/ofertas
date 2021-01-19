@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414dn7KBcHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0785NXXKL-es Öuesen LED 24W lámpara de techo resistente al agua moderna LED luz de techo Cuadrado delgada 2050lm Blanco frío 5000K para baño Dormitorio Cocina Sala de estar Comedor Balcón Pasillo'
+slug: 'B0785NXXKL-es Öuesen LED 24W lámpara de techo resistente al agua moderna...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

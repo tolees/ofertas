@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ztyQ1Oj8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVDKYK1-es Magichome Temporizador Digital Programable  Enchufe Programador con Pantalla LCD 12/24 Horas  Diario/Semanal  temporizador enchufe con Horario Aleatorio y de Verano Ahorrar Energía y Dinero 2 piezas'
+slug: 'B07GVDKYK1-es Magichome Temporizador Digital Programable Enchufe...'
+tags: 
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

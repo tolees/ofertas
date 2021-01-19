@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YccbT3V0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008X1GA6Q-es Maybelline New York The Colossal Go Extreme Radical Black Máscara de Pestañas Negra Volumen - 9.5 ml'
+slug: 'B008X1GA6Q-es Maybelline New York The Colossal Go Extreme Radical Black...'
+tags: 
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

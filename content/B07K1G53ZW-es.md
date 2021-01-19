@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wtU3WuPlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1G53ZW-es KUONIIY Tijeras de Cocina para Trabajo Pesado  Tijeras de Cocción Desmontable  Tijeras para Pollo Aves Pescados Carnes Verduras Hierbas'
+slug: 'B07K1G53ZW-es KUONIIY Tijeras de Cocina para Trabajo Pesado Tijeras de...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

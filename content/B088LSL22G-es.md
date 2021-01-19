@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x9IGG3S0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088LSL22G-es Haton Bandas Elasticas Musculacion Antideslizantes Banda Elástica Costura Conjunto de Cintas de Resistencia Fitness para Glúteos Cadera Piernas Brazos Yoga Pilates Fitness Mujer y Hombre 3 Set '
+slug: 'B088LSL22G-es Haton Bandas Elasticas Musculacion Antideslizantes Banda...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

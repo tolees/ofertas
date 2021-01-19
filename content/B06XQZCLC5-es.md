@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vefrm3dvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XQZCLC5-es 7 Enanitos - Estuche portatodo Cuadrado  Karactermanía KM-33615   Karactermanía 33615 '
+slug: 'B06XQZCLC5-es 7 Enanitos - Estuche portatodo Cuadrado Karactermanía...'
+tags: 
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

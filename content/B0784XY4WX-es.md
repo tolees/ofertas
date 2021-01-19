@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qldKynoTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784XY4WX-es Skechers Women s BOBS Squad-Tough Talk Sneakers  Green  Olive Engineered Knit Old   6 UK 39 EU'
+slug: 'B0784XY4WX-es Skechers Women s BOBS Squad-Tough Talk Sneakers Green...'
+tags: 
 actualPrice: 36.35 EUR
 currency: EUR
 price: 36.35

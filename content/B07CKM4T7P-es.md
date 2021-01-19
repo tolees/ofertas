@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412Tg7SotxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKM4T7P-es Bolsas de Leche Materna  Bestele Recipientes para leche materna 220ml 30 Count '
+slug: 'B07CKM4T7P-es Bolsas de Leche Materna Bestele Recipientes para leche...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

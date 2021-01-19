@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qzfNedoBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K04WRV6-es Bella + Lienzo - Body de manga corta acanalada unisex para bebé  18-24 meses/Blanco '
+slug: 'B00K04WRV6-es Bella + Lienzo - Body de manga corta acanalada unisex para...'
+tags: 
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EjFwjwUTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RPE5PE-es Trust – Mini Lector de Tarjetas USB Robson  color blanco'
+slug: 'B000RPE5PE-es Trust – Mini Lector de Tarjetas USB Robson color blanco'
+tags: 
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

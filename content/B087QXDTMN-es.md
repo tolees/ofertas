@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zSnnVK6XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QXDTMN-es Kingston KC2500 NVMe PCIe SSD -SKC2500M8/500G M.2 2280  500 GB'
+slug: 'B087QXDTMN-es Kingston KC2500 NVMe PCIe SSD -SKC2500M8/500G M.2 2280 500 GB'
+tags: 
 actualPrice: 118.71 EUR
 currency: EUR
 price: 118.71

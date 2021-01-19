@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Oq0U4NTqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZL1SMMW-es Olay Total Effects 7en1 Sérum Anti-Edad Suavidad Instante 50 ml'
+slug: 'B07ZL1SMMW-es Olay Total Effects 7en1 Sérum Anti-Edad Suavidad Instante...'
+tags: 
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

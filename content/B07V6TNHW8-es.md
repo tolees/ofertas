@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UXg9eL-TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6TNHW8-es Tommy Hilfiger High Cleated Flag Sneaker  Zapatillas para Mujer  Blanco  White Ybs   41 EU'
+slug: 'B07V6TNHW8-es Tommy Hilfiger High Cleated Flag Sneaker Zapatillas para...'
+tags: 
 actualPrice: 34.28 EUR
 currency: EUR
 price: 34.28

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ih-WcbHUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBFYQ58-es Calentador de Mano Recargable Calentador de Mano portátil 5200mAh Banco de energía Doble Bolsillo Lateral Calentador de Mano eléctrico Reutilizable para esquí  Acampada  Rosa '
+slug: 'B07YBFYQ58-es Calentador de Mano Recargable Calentador de Mano portátil...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

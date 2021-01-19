@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YrFtO1B4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG17YK8-es PUMA RS 9.8 Cosmic  Zapatillas Unisex Adulto  White-Galaxy Blue  37 EU'
+slug: 'B07KG17YK8-es PUMA RS 9.8 Cosmic Zapatillas Unisex Adulto White-Galaxy...'
+tags: 
 actualPrice: 34.56 EUR
 currency: EUR
 price: 34.56

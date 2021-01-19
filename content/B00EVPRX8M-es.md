@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bmVAlHggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EVPRX8M-es Calvin Klein Thong Tanga  Blanco  White 100   40  Talla del fabricante: Medium  para Mujer'
+slug: 'B00EVPRX8M-es Calvin Klein Thong Tanga Blanco White 100 40 Talla del...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

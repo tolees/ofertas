@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EXG68fsEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDMMM5R-es Equipo fotográfico portátil de Photo Booster de Mini Cabina de fotografía portátil Caja de luz de fotografía Plegable con Brillo 2x20 Cubo Tira de LED 8"6 Colores de Fondo  White-Photo Light Box '
+slug: 'B07MDMMM5R-es Equipo fotográfico portátil de Photo Booster de Mini...'
+tags: 
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

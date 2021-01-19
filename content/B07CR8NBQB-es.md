@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A1z2UkfOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CR8NBQB-es Garmin Smartwatch Vivoactive 3 Music GPS Mano Ciclismo Unisex Adulto  Negro y plata'
+slug: 'B07CR8NBQB-es Garmin Smartwatch Vivoactive 3 Music GPS Mano Ciclismo...'
+tags: 
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

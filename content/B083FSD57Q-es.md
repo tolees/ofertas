@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dRwQYaKZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FSD57Q-es BRIKSMAX Kit de Iluminación Led para Lego City Space Port Lanzadera Científica a Marte Compatible con Ladrillos de Construcción Lego Modelo 60226  Juego de Legos no Incluido'
+slug: 'B083FSD57Q-es BRIKSMAX Kit de Iluminación Led para Lego City Space Port...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

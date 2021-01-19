@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nLWMiNQvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M2VEASM-es Lacoste DH2050 Polo  Azul  Marine   XXX-Large  Talla del Fabricante: 8  para Hombre'
+slug: 'B01M2VEASM-es Lacoste DH2050 Polo Azul Marine XXX-Large Talla del...'
+tags: 
 actualPrice: 38.31 EUR
 currency: EUR
 price: 38.31

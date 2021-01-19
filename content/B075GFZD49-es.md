@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ckuJgs2TL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GFZD49-es Triumph Body Make-up Essent WHU Sujetador  Marrón  Coffee Sugar FF   90C para Mujer'
+slug: 'B075GFZD49-es Triumph Body Make-up Essent WHU Sujetador Marrón Coffee...'
+tags: 
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

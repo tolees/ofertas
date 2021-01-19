@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KQZONZ6sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WV31K2S-es Gricol Estante de Ducha Sin Taladrar en Aluminio Aeronautico Rectangular Estanteria Baño Autoadhesivas Antioxidantes con Jabonera Organizador de Esponja para Baño Cocina  Negro '
+slug: 'B07WV31K2S-es Gricol Estante de Ducha Sin Taladrar en Aluminio...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

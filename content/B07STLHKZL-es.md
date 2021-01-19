@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AOdZVaCOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLHKZL-es adidas Countryxkamanda  Zapatillas de Gimnasia para Hombre  Blanco  FTWR White/FTWR White/Gum 3 FTWR White/FTWR White/Gum 3   45 1/3 EU'
+slug: 'B07STLHKZL-es adidas Countryxkamanda Zapatillas de Gimnasia para Hombre...'
+tags: 
 actualPrice: 63.46 EUR
 currency: EUR
 price: 63.46

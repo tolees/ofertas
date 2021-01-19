@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nGtyjKP-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ1ZSTC-es New Balance Fresh Foam Zante Pursuit Women s Zapatillas para Correr - AW19-40.5'
+slug: 'B07TJ1ZSTC-es New Balance Fresh Foam Zante Pursuit Women s Zapatillas...'
+tags: 
 actualPrice: 80.95 EUR
 currency: EUR
 price: 80.95

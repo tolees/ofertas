@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZZ9he742L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKXVK7J-es Salomon Sense Feel GTX  Zapatillas para Correr para Hombre  Gris  Quarry/Pearl Blue/Flint Stone   40 EU'
+slug: 'B07RKXVK7J-es Salomon Sense Feel GTX Zapatillas para Correr para Hombre...'
+tags: 
 actualPrice: 50.63 EUR
 currency: EUR
 price: 50.63

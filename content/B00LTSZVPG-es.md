@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hV6TaMfCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LTSZVPG-es Kit de suspensión colgante Ranex 6000.518 – Cromado – Serie Ceiling Dream'
+slug: 'B00LTSZVPG-es Kit de suspensión colgante Ranex 6000.518 – Cromado –...'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k8no6Rd9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084HB3Q6D-es Mini Enfriador de Aire Acondicionador de Aire Móviles Climatizador Evaporativo Humidificador Portátil Espacio Personal con Temporizador Silencioso 3 Velocidades 7 Colores Luz Ajustable'
+slug: 'B084HB3Q6D-es Mini Enfriador de Aire Acondicionador de Aire Móviles...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

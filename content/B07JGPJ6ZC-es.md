@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nTEFpCaeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGPJ6ZC-es Aicok SD60K Juicer Filter & Cups  Juicer Accesorios para SD60K Masticating Slow Juicer'
+slug: 'B07JGPJ6ZC-es Aicok SD60K Juicer Filter & Cups Juicer Accesorios para...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

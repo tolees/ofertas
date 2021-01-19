@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VlgxaUBLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZAQ5OQ-es Citizen Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero CA0641-16X'
+slug: 'B01MZAQ5OQ-es Citizen Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 132.3 EUR
 currency: EUR
 price: 132.3

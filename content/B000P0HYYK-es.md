@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417boTEV-PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000P0HYYK-es Grohe Sifon de Lavabo 1 1/4"  acabado cromado  Ref. 28920000 '
+slug: 'B000P0HYYK-es Grohe Sifon de Lavabo 1 1/4" acabado cromado Ref. 28920000'
+tags: 
 actualPrice: 26.93 EUR
 currency: EUR
 price: 26.93

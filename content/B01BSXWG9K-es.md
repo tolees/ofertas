@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p0WyDRfiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSXWG9K-es DURAGADGET Funda/Riñonera Negra Sumergible para Canon Powershot ELPH 180/190 IS / 360 HS - ¡Ideal para Playa O Piscina!'
+slug: 'B01BSXWG9K-es DURAGADGET Funda/Riñonera Negra Sumergible para Canon...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

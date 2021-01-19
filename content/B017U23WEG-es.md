@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GM48bS1zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017U23WEG-es MaxHold Sistema de vacío -Soportes de Pared para portarrollos de Cocina - Portarrollos de Papel de Cocina- Acero Inoxidable - sin taladrar-Almacenamiento de Cocina y baño'
+slug: 'B017U23WEG-es MaxHold Sistema de vacío -Soportes de Pared para...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

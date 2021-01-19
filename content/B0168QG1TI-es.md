@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51KbgPUugpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0168QG1TI-es Belle Azul - Cool Legs - Gel de Alivio Instantáneo para Piernas Cansadas y Doloridas Refrescante  Mejora la Circulación y el Malestar Muscular  Efecto Frío Anti-inflamatorio  Incluye Bolsa de Gel  100ml'
+slug: 'B0168QG1TI-es Belle Azul - Cool Legs - Gel de Alivio Instantáneo para...'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

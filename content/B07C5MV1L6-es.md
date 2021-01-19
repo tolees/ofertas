@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31irCClHDhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5MV1L6-es Andven USB Transmisor Bluetooth  Portátil Inalámbrico Música Adaptador Transmitter  para TV/Ordenador/Auriculares/Altavoz  Baja Latencia  Alta Fidelidad Estéreo  Plug and Play'
+slug: 'B07C5MV1L6-es Andven USB Transmisor Bluetooth Portátil Inalámbrico...'
+tags: 
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

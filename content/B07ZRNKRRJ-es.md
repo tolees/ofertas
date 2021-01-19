@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TFatt1osL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRNKRRJ-es MIFA X12 Auriculares Bluetooth  Auriculares Inalámbricos Deportes Bluetooth 5.0  Sonido Estéreo 3D Hi-Fi  Impermeable IP56 con Micrófono Incorporado y Operación Táctil  30 Horas de Juego  Negro'
+slug: 'B07ZRNKRRJ-es MIFA X12 Auriculares Bluetooth Auriculares Inalámbricos...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

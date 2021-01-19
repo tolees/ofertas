@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GmEBYhcGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KGSYLL-es  DEVOLO 08140 dLAN 1000 Mini Power Line Adaptador'
+slug: 'B079KGSYLL-es DEVOLO 08140 dLAN 1000 Mini Power Line Adaptador'
+tags: 
 actualPrice: 18.56 EUR
 currency: EUR
 price: 18.56

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51aYjkV80ZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076KZW5P1-es find. Cazadora Bomber Mujer  Rosa  Pink Black Mix   36  Talla del fabricante: X-Small '
+slug: 'B076KZW5P1-es find. Cazadora Bomber Mujer Rosa Pink Black Mix 36 Talla...'
+tags: 
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

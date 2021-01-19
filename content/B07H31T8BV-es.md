@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oXwl29gyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H31T8BV-es Marco huellas bebe tu regalo original para el recien nacido regalos originales para el bebe coloca las huellas del bebe regalo para bautizo fiesta baby shower cumpleaños recuerdos'
+slug: 'B07H31T8BV-es Marco huellas bebe tu regalo original para el recien...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

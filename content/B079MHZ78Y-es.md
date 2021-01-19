@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KHC2d0EJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MHZ78Y-es Mosquitera Puertas  Mosquitera Magnética Automático para Puertas Cortina de Sala de Estar la Puerta del Balcón Puerta Corredera de Patio 90 x 210cm'
+slug: 'B079MHZ78Y-es Mosquitera Puertas Mosquitera Magnética Automático para...'
+tags: 
 actualPrice: 11.7 EUR
 currency: EUR
 price: 11.7

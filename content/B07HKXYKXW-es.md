@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o917e43ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKXYKXW-es Mr. Wonderful WOA09073ES Taza  Multicolor'
+slug: 'B07HKXYKXW-es Mr. Wonderful WOA09073ES Taza Multicolor'
+tags: 
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

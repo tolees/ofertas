@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-XQH9HsNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGBXYRX-es ghd curve soft curl - Tenacilla profesional con barril de 32mm  ultra-zone'
+slug: 'B07GGBXYRX-es ghd curve soft curl - Tenacilla profesional con barril de...'
+tags: 
 actualPrice: 130.99 EUR
 currency: EUR
 price: 130.99

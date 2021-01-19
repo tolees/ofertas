@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A+B08tQfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076L79KZB-es Plantronics RIG 100HX Monoaural Diadema Negro  Gris Auricular con micrófono - Auriculares con micrófono  Consola de Juegos  Monoaural  Diadema  Negro  Gris  Dinámico  Control en línea '
+slug: 'B076L79KZB-es Plantronics RIG 100HX Monoaural Diadema Negro Gris...'
+tags: 
 actualPrice: 25.15 EUR
 currency: EUR
 price: 25.15

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412HNsRM0hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F3HE5UA-es iEGrow Mini Ventiladores de Mano  Ventilador Portátil USB con Batería Recargable  Ventiladores Plegables con 3 Velocidades para Oficina/Hogar/Viajes/Exterior  Azul  …'
+slug: 'B01F3HE5UA-es iEGrow Mini Ventiladores de Mano Ventilador Portátil USB...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

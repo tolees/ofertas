@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hmFBZXKmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP7X41W-es adidas Falcon W  Zapatillas de Deporte para Mujer  Multicolor Black Cblack Cblack Ftwwht  42 2/3 EU'
+slug: 'B07DP7X41W-es adidas Falcon W Zapatillas de Deporte para Mujer...'
+tags: 
 actualPrice: 74.2 EUR
 currency: EUR
 price: 74.2

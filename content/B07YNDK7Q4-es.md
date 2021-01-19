@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNDK7Q4-es Life Is Strange 2'
+tags: 
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

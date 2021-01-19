@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IdUqiqvDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q8RZMGQ-es Xiaomi Soocas H3 Secador de cabello de secado rápido con aniones-Cuerpo de aleación de aluminio - Salida de aire de 1800 W  con desviación innovadora anti-caliente servicio garantía Polonia  plata '
+slug: 'B07Q8RZMGQ-es Xiaomi Soocas H3 Secador de cabello de secado rápido con...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

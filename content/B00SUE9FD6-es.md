@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CyZyKrxdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SUE9FD6-es Tuc Tuc 6550 - Mini saco  niños'
+slug: 'B00SUE9FD6-es Tuc Tuc 6550 - Mini saco niños'
+tags: 
 actualPrice: 43.48 EUR
 currency: EUR
 price: 43.48

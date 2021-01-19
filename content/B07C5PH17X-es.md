@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iiXWMXYxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5PH17X-es Casco Motocicleta Auriculares FreedConn T-comVB Casco Moto Prueba de Agua Sistema comunicación intercomunicación Auriculares Bluetooth con 800m  GPS  Radio FM  MP3  1 pcs con micrófono Suave '
+slug: 'B07C5PH17X-es Casco Motocicleta Auriculares FreedConn T-comVB Casco Moto...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

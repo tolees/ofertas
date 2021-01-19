@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t-soB8nfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ2D3BV-es Superdry Applique Ziphood Capucha  Rosa  Smoke Rose L6y   X-Small para Mujer'
+slug: 'B07NZ2D3BV-es Superdry Applique Ziphood Capucha Rosa Smoke Rose L6y...'
+tags: 
 actualPrice: 37.17 EUR
 currency: EUR
 price: 37.17

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MPGJqez4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013VMEGQC-es Volcom Frickin Modern Stret Pantalones  Hombre  Azul  Dark Navy   30'
+slug: 'B013VMEGQC-es Volcom Frickin Modern Stret Pantalones Hombre Azul Dark...'
+tags: 
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

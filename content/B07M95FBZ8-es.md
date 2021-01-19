@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-SUcIicJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M95FBZ8-es Lee Scarlett Pantalones  Rosa  Cameo Pink 94   W27/L31 para Mujer'
+slug: 'B07M95FBZ8-es Lee Scarlett Pantalones Rosa Cameo Pink 94 W27/L31 para Mujer'
+tags: 
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

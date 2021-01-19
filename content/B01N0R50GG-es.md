@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FKq+MzmPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0R50GG-es L Oréal Paris Barra de labios líquida Infalible Lip Paint Vinilo tono 102'
+slug: 'B01N0R50GG-es L Oréal Paris Barra de labios líquida Infalible Lip Paint...'
+tags: 
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

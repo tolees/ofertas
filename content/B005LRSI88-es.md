@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iUpuv0xgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005LRSI88-es Arcos 692500 - Soporte magnético  300 x 45 mm  blister '
+slug: 'B005LRSI88-es Arcos 692500 - Soporte magnético 300 x 45 mm blister'
+tags: 
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

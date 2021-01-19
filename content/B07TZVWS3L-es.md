@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I4h-04PDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZVWS3L-es Skechers Summits  Zapatillas para Mujer  Blanco  White Mesh/Silver Trim WSL   36 EU'
+slug: 'B07TZVWS3L-es Skechers Summits Zapatillas para Mujer Blanco White...'
+tags: 
 actualPrice: 38.47 EUR
 currency: EUR
 price: 38.47

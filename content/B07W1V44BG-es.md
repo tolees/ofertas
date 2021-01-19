@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dN+vH-k4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1V44BG-es Skechers Ultra Flex Candy Cravings  Zapatillas para Mujer  Blanco Blanco Blanco Malla Ribete Wht  37 EU'
+slug: 'B07W1V44BG-es Skechers Ultra Flex Candy Cravings Zapatillas para Mujer...'
+tags: 
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

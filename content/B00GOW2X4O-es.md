@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xrou-ZdhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GOW2X4O-es Silver HT - Funda universal gripcase con teclado   9"-10.1"   color azul'
+slug: 'B00GOW2X4O-es Silver HT - Funda universal gripcase con teclado 9"-10.1"...'
+tags: 
 actualPrice: 36.53 EUR
 currency: EUR
 price: 36.53

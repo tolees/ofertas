@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dcNcXU5fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I5QYU7U-es Elizabeth Arden Visible Difference Primer retexturizante uso diario 15 ml'
+slug: 'B00I5QYU7U-es Elizabeth Arden Visible Difference Primer retexturizante...'
+tags: 
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

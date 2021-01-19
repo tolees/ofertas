@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MaGGsZi1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EQRTNHS-es TOUCHBeauty TB-1653 Afeitadora femenina facial/corporal impermeable y portátil cuchilla ergonómico uso en seco y húmedo'
+slug: 'B01EQRTNHS-es TOUCHBeauty TB-1653 Afeitadora femenina facial/corporal...'
+tags: 
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

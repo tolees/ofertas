@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SxVLgqzgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPPQHLL-es Fortnite Set de juego con 2 Figuras  multicolor  Jazwares FNT0115 '
+slug: 'B07PPPQHLL-es Fortnite Set de juego con 2 Figuras multicolor Jazwares...'
+tags: 
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pL5GqRGTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNV3N1L-es Under Armour UA HOVR Rise  Zapatillas Deportivas para Interior para Hombre  Gris  Halo Gray/White/Black   44 EU'
+slug: 'B07NNV3N1L-es Under Armour UA HOVR Rise Zapatillas Deportivas para...'
+tags: 
 actualPrice: 46.72 EUR
 currency: EUR
 price: 46.72

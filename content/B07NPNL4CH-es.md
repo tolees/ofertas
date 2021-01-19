@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ODtqvvDbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPNL4CH-es Besrey Mochilas Senderismo  Mochilas Portabebés  Portador de bebé  Marsupios portabebé para Viaje Acampadacon Asiento'
+slug: 'B07NPNL4CH-es Besrey Mochilas Senderismo Mochilas Portabebés Portador de...'
+tags: 
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

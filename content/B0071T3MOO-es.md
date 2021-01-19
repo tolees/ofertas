@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lPEogievL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0071T3MOO-es Bosch Professional GSB 12V-15 - Taladro percutor a batería  12V  sin batería  en L-BOXX '
+slug: 'B0071T3MOO-es Bosch Professional GSB 12V-15 - Taladro percutor a batería...'
+tags: 
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

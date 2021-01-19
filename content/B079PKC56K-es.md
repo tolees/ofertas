@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H7laec68L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PKC56K-es Brabantia Recipiente para Residuos Orgánicos  Gris Oscuro 12.7 x 22.1 x 10.7 cm'
+slug: 'B079PKC56K-es Brabantia Recipiente para Residuos Orgánicos Gris Oscuro...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

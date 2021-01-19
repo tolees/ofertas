@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41natsFFydL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PYDSXXE-es Nike MD Runner 2  Zapatillas para Hombre  Black/White Anthracite  38.5 EU'
+slug: 'B00PYDSXXE-es Nike MD Runner 2 Zapatillas para Hombre Black/White...'
+tags: 
 actualPrice: 46.89 EUR
 currency: EUR
 price: 46.89

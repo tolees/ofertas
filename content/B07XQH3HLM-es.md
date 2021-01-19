@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31NAEu3XypL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQH3HLM-es Montse Interiors  S.L. Cuadrante o Cojín Decoración Terciopèlo en Rayas 45x45 + Relleno  VARENNA Antracita '
+slug: 'B07XQH3HLM-es Montse Interiors S.L. Cuadrante o Cojín Decoración...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

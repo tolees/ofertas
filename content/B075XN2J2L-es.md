@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PEINp+d8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075XN2J2L-es New Balance Fuel Core 5000  Zapatillas de Running para Hombre  Azul  Petrol/Black GG   40 EU'
+slug: 'B075XN2J2L-es New Balance Fuel Core 5000 Zapatillas de Running para...'
+tags: 
 actualPrice: 33.73 EUR
 currency: EUR
 price: 33.73

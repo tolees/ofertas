@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E94PeIhNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FWZYSNX-es Bosch Professional GLI 18V-2200 C Foco de obra  2200 lúmenes  sin batería  en caja  18 V  Azul  Size'
+slug: 'B07FWZYSNX-es Bosch Professional GLI 18V-2200 C Foco de obra 2200...'
+tags: 
 actualPrice: 103.99 EUR
 currency: EUR
 price: 103.99

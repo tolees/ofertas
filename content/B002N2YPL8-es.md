@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Vsi4WgapL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002N2YPL8-es Le Creuset Sartén Baja de Aluminio Antiadherente  Libre de PFOA  para Todas Las Fuentes de Calor  Incluso la inducción  Antracita/Plateado  Anodizado  Negro  30 cm'
+slug: 'B002N2YPL8-es Le Creuset Sartén Baja de Aluminio Antiadherente Libre de...'
+tags: 
 actualPrice: 94.5 EUR
 currency: EUR
 price: 94.5

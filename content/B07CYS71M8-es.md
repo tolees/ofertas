@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Fn4tlC5WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYS71M8-es TankerStreet 2 Piezas Alfombras de Cocina Antideslizante Alfombra de Casa Moderna Patrón Alfombra Lavable Aceite Resistente Manta Larga Decorativa para Baño Comedor Dormitorio 40x60+40x120cm Negro'
+slug: 'B07CYS71M8-es TankerStreet 2 Piezas Alfombras de Cocina Antideslizante...'
+tags: 
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

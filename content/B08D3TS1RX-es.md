@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GROkGSOxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3TS1RX-es Panamar Almohadilla de Juguete Inflable de Agua de PVC de 170 cm Almohadilla de pulverización de Agua al Aire Libre para niños Espesamiento Inflable de Verano - 170 cm'
+slug: 'B08D3TS1RX-es Panamar Almohadilla de Juguete Inflable de Agua de PVC de...'
+tags: 
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

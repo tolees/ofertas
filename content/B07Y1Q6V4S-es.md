@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I9M0XfDBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y1Q6V4S-es WateLves Leggings de yoga para mujer  pantalones de deporte  mallas para correr  cintura alta  con bolsillos  elásticos  para yoga  deporte  fitness  Todo el año  Mujer（Armada-jcjf m'
+slug: 'B07Y1Q6V4S-es WateLves Leggings de yoga para mujer pantalones de deporte...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

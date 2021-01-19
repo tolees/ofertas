@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416tDhczJ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3S4J3A-es Only onlGEENA XO L/S PULLOVER KNT NOOS  Suéter para Mujer  Rojo  High Risk Red   M'
+slug: 'B01N3S4J3A-es Only onlGEENA XO L/S PULLOVER KNT NOOS Suéter para Mujer...'
+tags: 
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

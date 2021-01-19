@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MCV0u8S0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ODRSBPW-es Jabra Evolve 20 UC - Auriculares Estéreo de Comunicaciones Unificadas para VoIP Softphone  Cancelación Pasiva de Ruido  Cable USB con Unidad de Control  Negro'
+slug: 'B00ODRSBPW-es Jabra Evolve 20 UC - Auriculares Estéreo de Comunicaciones...'
+tags: 
 actualPrice: 39.1 EUR
 currency: EUR
 price: 39.1

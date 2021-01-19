@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fOGSXstSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DX919ML-es Greylags Calcetines Prima Calidad deportiva Respirable Reinforced Sneaker Calcetines | Hombres y mujeres | 80% Algodón | Certificado Oeko-Tex Standard 100 | Paquete de 6'
+slug: 'B07DX919ML-es Greylags Calcetines Prima Calidad deportiva Respirable...'
+tags: 
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

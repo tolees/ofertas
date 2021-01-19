@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z5mtNIRXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMZ9LYW-es Skechers Flex Play  Zapatillas para Niñas  Gris  Grey/Hot Pink Gyhp   22 EU'
+slug: 'B07BMZ9LYW-es Skechers Flex Play Zapatillas para Niñas Gris Grey/Hot...'
+tags: 
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

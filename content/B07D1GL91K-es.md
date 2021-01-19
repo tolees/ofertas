@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XApnzU+pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D1GL91K-es New Balance Fresh Foam Cruz v2 Sock  Zapatillas para Mujer  Rosa  Dark Cashmere/Water Vapor Lm2   36 EU'
+slug: 'B07D1GL91K-es New Balance Fresh Foam Cruz v2 Sock Zapatillas para Mujer...'
+tags: 
 actualPrice: 64.68 EUR
 currency: EUR
 price: 64.68

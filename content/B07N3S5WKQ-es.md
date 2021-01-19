@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KQXG+iIfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3S5WKQ-es Diadermine - Tiras Purificantes pieles normales/mixtas- 2 uds de 6 tiras'
+slug: 'B07N3S5WKQ-es Diadermine - Tiras Purificantes pieles normales/mixtas- 2...'
+tags: 
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

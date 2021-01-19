@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412qZ9kVySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHFJ8N4-es Asics Gel-Quantum 360 5  Running Shoe Mens  Gris Clair Gris Clair  46 EU'
+slug: 'B07SHFJ8N4-es Asics Gel-Quantum 360 5 Running Shoe Mens Gris Clair Gris...'
+tags: 
 actualPrice: 72.24 EUR
 currency: EUR
 price: 72.24

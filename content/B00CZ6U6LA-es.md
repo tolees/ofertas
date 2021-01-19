@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61Qe6enTqZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CZ6U6LA-es Fablon Fine Décor Rollo de plástico Adhesivo  45 x 200 cm   Color Plateado'
+slug: 'B00CZ6U6LA-es Fablon Fine Décor Rollo de plástico Adhesivo 45 x 200 cm...'
+tags: 
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

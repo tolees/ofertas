@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2MSLW7-es Auriculares urBeats3 con conector Lightning - Amarillo'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

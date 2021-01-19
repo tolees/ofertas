@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312xgvheKFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002AMUGQY-es Sisley Loción Tónica Floral sin alcohol  piel seca / sensible - 250 ml'
+slug: 'B002AMUGQY-es Sisley Loción Tónica Floral sin alcohol piel seca /...'
+tags: 
 actualPrice: 48.6 EUR
 currency: EUR
 price: 48.6

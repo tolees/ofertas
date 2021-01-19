@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418YD6uPZNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDNDSVB-es REYLEO Maleta Cabina Rígida PC+ABS Material Equipaje de Mano con Puerto de Carga USB  Candado TSA  4 Ruedas Silenciosas -  55CM - 33L  - Gris'
+slug: 'B07WDNDSVB-es REYLEO Maleta Cabina Rígida PC+ABS Material Equipaje de...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZVr7IzfOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086HYPP5K-es Braun Hogar Minipimer 5245 - Batidora de mano  1000 W  21 velocidades y función turbo  anti-salpicaduras  4 accesorios  varillas  mini-picadora 350ml  batidora de vaso de 1.25L  vaso medidor 600ml '
+slug: 'B086HYPP5K-es Braun Hogar Minipimer 5245 - Batidora de mano 1000 W 21...'
+tags: 
 actualPrice: 62.9 EUR
 currency: EUR
 price: 62.9

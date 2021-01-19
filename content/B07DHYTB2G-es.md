@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31P0wvs%2BqZL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHYTB2G-es Lacoste Graduate BL 1 SFA  Zapatillas para Mujer  Blanco  White/White   39 EU'
+slug: 'B07DHYTB2G-es Lacoste Graduate BL 1 SFA Zapatillas para Mujer Blanco...'
+tags: 
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

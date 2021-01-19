@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wlMzi7E7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNL64VS-es Kono Bolsa de Viaje Ligero 40x20x25 Maleta de Cabina Segundo Equipaje para Vuelos en Ryanair 20L  Negro '
+slug: 'B08BNL64VS-es Kono Bolsa de Viaje Ligero 40x20x25 Maleta de Cabina...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

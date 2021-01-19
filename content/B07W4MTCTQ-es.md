@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GrPqEsX3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4MTCTQ-es Lazmin Mini Kids Play Kitchen  Modern Red Kitchen Toy Kitchen Playset Diversión con Friends Kitchen Girls Boys Gift'
+slug: 'B07W4MTCTQ-es Lazmin Mini Kids Play Kitchen Modern Red Kitchen Toy...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

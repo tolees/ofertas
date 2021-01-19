@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51buXQjRHLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TXWN8K-es wetry Disfraz de Wally para Hombre Mujer Niños Trajes de Carnaval Familiar Cosplay de Halloween'
+slug: 'B083TXWN8K-es wetry Disfraz de Wally para Hombre Mujer Niños Trajes de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

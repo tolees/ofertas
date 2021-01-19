@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v9vSrMRJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SBDMBV-es Razer Lancehead Tournament Edition - Ratón para gaming ambidextro  sensor láser con 16000 DPI  switches mecánicos  retroiluminación RGB Chroma   color Quartz  Rosa '
+slug: 'B077SBDMBV-es Razer Lancehead Tournament Edition - Ratón para gaming...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51huPI9OBFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QBPWLTN-es ZunBo Electroestimulador Muscular Abdominales Cinturón Masajeador Eléctrico Cinturón con USB Abdomen/Brazo/Piernas/Cintura Entrenador Hombre/Mujer  6 Modos de Simulación 10 Niveles Diferentes para'
+slug: 'B07QBPWLTN-es ZunBo Electroestimulador Muscular Abdominales Cinturón...'
+tags: 
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aqK50sI6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753HL4ZC-es Nike Benassi JDI  Slide Sandal Mens  Black/Metallic Gold  42.5 EU'
+slug: 'B0753HL4ZC-es Nike Benassi JDI Slide Sandal Mens Black/Metallic Gold...'
+tags: 
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

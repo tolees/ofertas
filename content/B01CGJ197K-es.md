@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y5Uk+4aQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CGJ197K-es Mini Moka Minimoka CM-1622 Cafetera Espreso 15 Bar / 1050 W / 1 25 L  5.283441 cups  Acero inoxidable  Negro'
+slug: 'B01CGJ197K-es Mini Moka Minimoka CM-1622 Cafetera Espreso 15 Bar / 1050...'
+tags: 
 actualPrice: 75.1 EUR
 currency: EUR
 price: 75.1

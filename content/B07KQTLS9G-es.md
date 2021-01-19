@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mW21bVoaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQTLS9G-es Portarrollos Baño Adhesivo  DIAOPROTECT Portarrollos Para Papel Higiénico  Porta Papel Higiénico de 304 Acero Inoxidable de 3M Pegamento Fuerte para Baño Cocina Retaurante  Plata '
+slug: 'B07KQTLS9G-es Portarrollos Baño Adhesivo DIAOPROTECT Portarrollos Para...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51siIDIeA4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KA5K57C-es Thumbs Up!- 1001473 Retro Mini Arcade Machine  Multicolor  OR-240IN1ARC '
+slug: 'B01KA5K57C-es Thumbs Up!- 1001473 Retro Mini Arcade Machine Multicolor...'
+tags: 
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

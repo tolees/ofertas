@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dK1V-izuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYZHZAJ-es Handy Bag Bolsas de Basura 50L  Extra Resistentes  No Gotean  10 Bolsas'
+slug: 'B01LYZHZAJ-es Handy Bag Bolsas de Basura 50L Extra Resistentes No Gotean...'
+tags: 
 actualPrice: 1.1 EUR
 currency: EUR
 price: 1.1

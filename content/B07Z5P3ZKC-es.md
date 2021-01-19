@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413sNPlzzIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5P3ZKC-es Masajeador personal de varita recargable  masajeador eléctrico de cuerpo completo actualizado Xingnuo  potente magia de mano  vibración perfecta en el hombro hacia atrás'
+slug: 'B07Z5P3ZKC-es Masajeador personal de varita recargable masajeador...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

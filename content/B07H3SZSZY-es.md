@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515VsEJKWcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3SZSZY-es OCDAY 2 DIN Radio Coche con Navegación 7 Pulgadas 2 DIN Radio Win CE Sistema Mapa de 8GB Gratis  Mirror Link USB/TF / FM/Am / RDS Radio/Aux in/Control de Volante/Cámara de Marcha atrás de Apoyo'
+slug: 'B07H3SZSZY-es OCDAY 2 DIN Radio Coche con Navegación 7 Pulgadas 2 DIN...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

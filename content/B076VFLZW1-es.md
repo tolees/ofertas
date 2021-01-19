@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cyOVJiB6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076VFLZW1-es Recipientes para envasar al vacío  Aicok Juego de Recipientes para el Almacenamiento/Envasado al Vacío  Rápida Conservación  Juego de 2 Piezas  Apto para Microondas / Lavavajillas / Congelador'
+slug: 'B076VFLZW1-es Recipientes para envasar al vacío Aicok Juego de...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

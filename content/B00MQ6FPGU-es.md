@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q8AsbrA9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MQ6FPGU-es Sangean WFR-29C - Radiodespertador  negro'
+slug: 'B00MQ6FPGU-es Sangean WFR-29C - Radiodespertador negro'
+tags: 
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

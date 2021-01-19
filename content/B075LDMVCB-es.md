@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516WCZE7awL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075LDMVCB-es Memoria Flash USB 512MB 10 Piezas Pequeña Capacidad Pen Drives - Portatil Metal Económico Pendrive Almacenamiento de Datos Externo - Datarm Mini Llaves USB Plata USB 2.0 Flash Drive por Conferencia'
+slug: 'B075LDMVCB-es Memoria Flash USB 512MB 10 Piezas Pequeña Capacidad Pen...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

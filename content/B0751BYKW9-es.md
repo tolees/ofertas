@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61HyKnZR0vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0751BYKW9-es Urvoix - Funda para Samsung Galaxy S8  función atril  piel sintética  con ranuras para tarjetas  correa de muñeca  cierre magnético para Galaxy S8  no compatible con S8 Plus '
+slug: 'B0751BYKW9-es Urvoix - Funda para Samsung Galaxy S8 función atril piel...'
+tags: 
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

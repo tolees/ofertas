@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XkgEf6CKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q7WMCS8-es Columbia Bugaboot Plus III Omni-Heat  Botas Altas de Invierno para Mujer  Negro  Black  Dark Mir   37 EU'
+slug: 'B00Q7WMCS8-es Columbia Bugaboot Plus III Omni-Heat Botas Altas de...'
+tags: 
 actualPrice: 51.48 EUR
 currency: EUR
 price: 51.48

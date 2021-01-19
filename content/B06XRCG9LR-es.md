@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21zoWpfTIDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XRCG9LR-es LG SJ4R - Barra de sonido  Potencia 420W 4.1  Hi-res Audio 96KHz/24Bit  Subwoofer inalámbrico  Altavoces traseros  Negro'
+slug: 'B06XRCG9LR-es LG SJ4R - Barra de sonido Potencia 420W 4.1 Hi-res Audio...'
+tags: 
 actualPrice: 193.19 EUR
 currency: EUR
 price: 193.19

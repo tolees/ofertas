@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LF6MEulKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3BXRMS-es 16V Adaptador de fuente alimentación para Canon imageFORMULA DR-C125 DR-C130 DR-C225 Escáner Canon Pixma iP90 iP100 iP110 IP8750 IP7250 Fujitsu ScanSnap S510 S500M iX500 LifeBook S6200 S6210 Cargador'
+slug: 'B07V3BXRMS-es 16V Adaptador de fuente alimentación para Canon...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lUKiQQOcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00004YSYM-es Intex 29000 - Cartucho tipo A altura 20 2 cm & diámetros 10 8/5 cm'
+slug: 'B00004YSYM-es Intex 29000 - Cartucho tipo A altura 20 2 cm & diámetros...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

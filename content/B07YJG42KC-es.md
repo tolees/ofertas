@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61G4p8D7JJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJG42KC-es EKKONG 15 Hojas 2081 Piezas Diamantes Autoadhesivas Pegatinas de Diamantes de Imitación Pegatinas Brillantes  Adhesivas Pegatinas de Gemas para DIY  Artesanía  Uñas  Cara  15 Hojas '
+slug: 'B07YJG42KC-es EKKONG 15 Hojas 2081 Piezas Diamantes Autoadhesivas...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

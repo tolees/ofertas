@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61CIi5wd6GL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5QCGWC-es LEADSTAR Bolsa de Pañales  3 PCS Wetbag Lavable  Reutilizable Impermeable con 2 Cremallera para Mamá de Bebé  Transpirable Portátil Organizador de Maquillaje de Colgar Viajes Playa Piscina Gym'
+slug: 'B07Z5QCGWC-es LEADSTAR Bolsa de Pañales 3 PCS Wetbag Lavable...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

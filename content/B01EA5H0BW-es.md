@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EE5dcNlKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EA5H0BW-es BaByliss AS81E - Cepillo de aire caliente  800 W  cabezal cerámico de 38 mm para volumen y cabezal de 20 mm para puntas y flequillo  2 velocidades/temperaturas + aire frío'
+slug: 'B01EA5H0BW-es BaByliss AS81E - Cepillo de aire caliente 800 W cabezal...'
+tags: 
 actualPrice: 17.23 EUR
 currency: EUR
 price: 17.23

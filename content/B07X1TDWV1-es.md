@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wNi-KaQHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1TDWV1-es Bergner PK1528 Set 16pcs: 3 sartenes 20/22/26 + 3 cazos/cacerolas 16/18/20 con 2 Mangos Click&Cook + 4 Cuchillos 4 Utensilios de Cocina  Aluminio prensado'
+slug: 'B07X1TDWV1-es Bergner PK1528 Set 16pcs: 3 sartenes 20/22/26 + 3...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

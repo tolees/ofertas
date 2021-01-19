@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XUMqgxqsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XV13DS-es Enotepad Gráfico Electrónico Portátil  eWriter Digital Dibujo Colorido 9 Pulgadas LCD Doodle Pad Tableta Gráfica LCD para Niños Azul'
+slug: 'B083XV13DS-es Enotepad Gráfico Electrónico Portátil eWriter Digital...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

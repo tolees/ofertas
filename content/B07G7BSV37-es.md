@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dvrfRisyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G7BSV37-es Manta de muselina para bebé  suave muselina de algodón para niños o niñas  regalo de baby shower Batman Mask'
+slug: 'B07G7BSV37-es Manta de muselina para bebé suave muselina de algodón para...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

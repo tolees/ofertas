@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HU+hE0i3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTVWRS-es G-STAR RAW Rovic Zip 3D Tapered  Pantalones para Hombre  Beige  Dune 239   W32/L32'
+slug: 'B01BGTVWRS-es G-STAR RAW Rovic Zip 3D Tapered Pantalones para Hombre...'
+tags: 
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

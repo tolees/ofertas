@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+2qHFkNPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZB2PN9-es Asics Gel-Lyte PS  Zapatillas Unisex Niños  Negro  Black/Black 001   30 EU'
+slug: 'B07CZB2PN9-es Asics Gel-Lyte PS Zapatillas Unisex Niños Negro...'
+tags: 
 actualPrice: 20.52 EUR
 currency: EUR
 price: 20.52

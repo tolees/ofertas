@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tnC7msJzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CM1SZTF-es GLEADING Ventilador portátil Control táctil Inteligente  Ultra silencioso  Ventilador de refrigeración de PC/Laptop para hogar  Oficina  Viajes.'
+slug: 'B07CM1SZTF-es GLEADING Ventilador portátil Control táctil Inteligente...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31U-OY5MRnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W813BZA-es Sogo ASP-SS-16006 - Aspirador de Mano con 11 Accesorios  800 W  0.8 litros  Plástico  Rojo'
+slug: 'B00W813BZA-es Sogo ASP-SS-16006 - Aspirador de Mano con 11 Accesorios...'
+tags: 
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

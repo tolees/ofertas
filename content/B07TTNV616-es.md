@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vZ9HaHiXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTNV616-es Skechers Go Walk Joy  Zapatillas para Mujer  Negro  Black Textile/Pink Trim Bkpk   38 EU'
+slug: 'B07TTNV616-es Skechers Go Walk Joy Zapatillas para Mujer Negro Black...'
+tags: 
 actualPrice: 45.47 EUR
 currency: EUR
 price: 45.47

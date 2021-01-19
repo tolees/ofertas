@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41373CiZkxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4M3WQC-es Love MoschinoJc4248pp0aMujerCarteras de manoNegro  Black Calf 7x13x22 Centimeters  W x H x L '
+slug: 'B07V4M3WQC-es Love MoschinoJc4248pp0aMujerCarteras de manoNegro Black...'
+tags: 
 actualPrice: 70.13 EUR
 currency: EUR
 price: 70.13

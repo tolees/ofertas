@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41af+2Y2OvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKRH1PM-es Clarks Sharon Dasher  Mocasines para Mujer  Beige  Sand Suede Sand Suede   41 EU'
+slug: 'B07TKRH1PM-es Clarks Sharon Dasher Mocasines para Mujer Beige Sand Suede...'
+tags: 
 actualPrice: 38.79 EUR
 currency: EUR
 price: 38.79

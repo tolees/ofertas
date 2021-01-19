@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516Ls6Nv8UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SC3FHQK-es Ferilinso Funda para Xiaomi Mi 9T Pro/Mi 9T Funda [Reforzar la versión con Cuatro Esquinas][Funda Protectora de la cámara] Funda Protectora de Silicona de Piel de Goma TPU a Prueba  Transparente '
+slug: 'B07SC3FHQK-es Ferilinso Funda para Xiaomi Mi 9T Pro/Mi 9T Funda...'
+tags: 
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

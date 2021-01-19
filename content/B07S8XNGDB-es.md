@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61x-qNB8PqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8XNGDB-es GREAT ART Foto Mural Bosque Mistico de Cedros Poster Naturaleza Arboles Cedro 210 cm x 140 cm - Papel Pintado 5 Piezas incluye Pasta para pegar'
+slug: 'B07S8XNGDB-es GREAT ART Foto Mural Bosque Mistico de Cedros Poster...'
+tags: 
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

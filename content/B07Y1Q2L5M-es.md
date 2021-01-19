@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y1Q2L5M-es Alclap. 1 0 m gris'
+tags: 
 actualPrice: 16.42 EUR
 currency: EUR
 price: 16.42

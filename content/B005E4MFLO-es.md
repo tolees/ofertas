@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kyCxZU4DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005E4MFLO-es Bosch Professional GSH 27 VC - Martillo demoledor  62 J  Hex 28 mm  Vibration Control  en caja '
+slug: 'B005E4MFLO-es Bosch Professional GSH 27 VC - Martillo demoledor 62 J Hex...'
+tags: 
 actualPrice: 1615.0 EUR
 currency: EUR
 price: 1615.0

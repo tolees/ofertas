@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G+0YcBVSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772XKNQK-es Columbia Silver Ridge II Pantalones de Senderismo Convertible  Hombre  Marrón  Tusk   W34/L32'
+slug: 'B0772XKNQK-es Columbia Silver Ridge II Pantalones de Senderismo...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

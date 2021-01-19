@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ArQOMx38L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMS8FB2-es NOFFA Almohada Piernas Dormir  almohada para rodillas Ideal para ciática  caderas  articulaciones  alivio de dolores de embarazo y dormir de lado  Cojin de Rodilla ortopédico'
+slug: 'B07BMS8FB2-es NOFFA Almohada Piernas Dormir almohada para rodillas Ideal...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

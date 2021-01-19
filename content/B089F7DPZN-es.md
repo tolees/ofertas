@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SZKfnDWyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089F7DPZN-es Z Paint by Numbers Animales con pinceles y pigmento acrílico DIY lienzo pintado a mano para adultos principiantes  hogar decoración de dormitorio  rinoceronte animal 16 x 20 pulgadas  sin marco '
+slug: 'B089F7DPZN-es Z Paint by Numbers Animales con pinceles y pigmento...'
+tags: 
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

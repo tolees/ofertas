@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w4rkkTEwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087MD3JZ3-es Aire Acondicionado Móvil  Enfriador de Aire Portátil con Cristal de Hielo y Control Remoto  Climatizador Evaporativo Silencioso de Bajo Consumo de Energía con Humidificación para Hogar y Oficina'
+slug: 'B087MD3JZ3-es Aire Acondicionado Móvil Enfriador de Aire Portátil con...'
+tags: 
 actualPrice: 179.89 EUR
 currency: EUR
 price: 179.89

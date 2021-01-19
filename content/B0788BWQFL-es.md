@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cK2wXVQ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788BWQFL-es Tommy Hilfiger Legging Mallas  Azul  Navy Blazer 416   Medium para Mujer'
+slug: 'B0788BWQFL-es Tommy Hilfiger Legging Mallas Azul Navy Blazer 416 Medium...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

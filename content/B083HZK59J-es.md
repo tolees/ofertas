@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aEP254QBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HZK59J-es Carcasa del teléfono Conejo Amarillo Resistente a los Golpes Carcasa Blanda Protección del teléfono móvil Accesorios para el vehículo del vehículo móvil'
+slug: 'B083HZK59J-es Carcasa del teléfono Conejo Amarillo Resistente a los...'
+tags: 
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

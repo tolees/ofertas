@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BS0I3MQ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0178A0ICE-es Microsoft – Wireless Comfort Desktop 5050  Ratón y teclado QWERTY español  Negro'
+slug: 'B0178A0ICE-es Microsoft – Wireless Comfort Desktop 5050 Ratón y teclado...'
+tags: 
 actualPrice: 43.33 EUR
 currency: EUR
 price: 43.33

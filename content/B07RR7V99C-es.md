@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zMPC9DclL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RR7V99C-es viewstar Almohadas Antiácaros  Pack de 2 Almohadas 100% Microfibra-Firmeza Media  Certificada por Oeko-Tex 80x40cm'
+slug: 'B07RR7V99C-es viewstar Almohadas Antiácaros Pack de 2 Almohadas 100%...'
+tags: 
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

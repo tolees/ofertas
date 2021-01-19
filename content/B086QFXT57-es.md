@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wmrxOqcOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QFXT57-es Suhctup Funda Compatible con Huawei Honor 9i Carcasa Transparente Dibujo Diseño Flor [Protección Caídas] Ultra-Delgado Flexible Silicona TPU Estuche Cover para Huawei Honor 9i Mandala 8'
+slug: 'B086QFXT57-es Suhctup Funda Compatible con Huawei Honor 9i Carcasa...'
+tags: 
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

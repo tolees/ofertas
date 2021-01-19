@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p6MpTRHhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRH9Y46-es Adidas Nemeziz Messi Tango 17.4 In J  Zapatillas de fútbol Sala Unisex niño  Multicolor  Tinuni/Vealre/Negbas 000   28.5 EU'
+slug: 'B07BRH9Y46-es Adidas Nemeziz Messi Tango 17.4 In J Zapatillas de fútbol...'
+tags: 
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

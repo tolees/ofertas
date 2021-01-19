@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vsqc0+MoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBJWKVB-es Devolo 9974 - Puente WiFi  2 Gbit  una Banda de 5 GHz '
+slug: 'B01NBJWKVB-es Devolo 9974 - Puente WiFi 2 Gbit una Banda de 5 GHz'
+tags: 
 actualPrice: 129.14 EUR
 currency: EUR
 price: 129.14

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PnimBMYDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085RGD9VG-es Agatha Ruiz de la Prada Bufanda Fular Pashmina Pareo Verde y Azul con nubes grandes'
+slug: 'B085RGD9VG-es Agatha Ruiz de la Prada Bufanda Fular Pashmina Pareo Verde...'
+tags: 
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

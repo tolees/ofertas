@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515KtALxpsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9Q6RBW-es laamei Visillos Bordado para Ventanas Voile Cortina Translúcidas con Bordado Floral Decoración para Ventanas Habitaciones Dormitorios Salones  1 Pieza Gris/140cmx225cm'
+slug: 'B07M9Q6RBW-es laamei Visillos Bordado para Ventanas Voile Cortina...'
+tags: 
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

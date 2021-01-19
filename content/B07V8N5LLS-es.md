@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8N5LLS-es Puma RS-X Toys 370920 01'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

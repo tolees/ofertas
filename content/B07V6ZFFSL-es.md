@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413e7k1cNzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6ZFFSL-es 52mm 58mm 2.0X Teleobjetivo para Nikon D90 D80 D700 D300 D3200 D3200 D5000 D500 D5200 18-55mm Cámaras DSLR - Negro'
+slug: 'B07V6ZFFSL-es 52mm 58mm 2.0X Teleobjetivo para Nikon D90 D80 D700 D300...'
+tags: 
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

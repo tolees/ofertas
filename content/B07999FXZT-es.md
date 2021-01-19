@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vVwl4IqQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07999FXZT-es AUKEY Hub USB C HDMI 4k  Ranuras para SD&MicroSD  Ethernet 1000 Mbps  2 USB 3.1 Puertos  Puerto USB C de Carga 100W  VGA Adaptador Multipuerto para MacBook Pro 2018/2017  iMac 2017 etc.'
+slug: 'B07999FXZT-es AUKEY Hub USB C HDMI 4k Ranuras para SD&MicroSD Ethernet...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

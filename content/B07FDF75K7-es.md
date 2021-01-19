@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Fr+oT+6pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDF75K7-es Nike Air Jordan First Class Bg  Zapatillas de Deporte para Hombre  Multicolor  Black/Black-White 010   39 EU'
+slug: 'B07FDF75K7-es Nike Air Jordan First Class Bg Zapatillas de Deporte para...'
+tags: 
 actualPrice: 61.69 EUR
 currency: EUR
 price: 61.69

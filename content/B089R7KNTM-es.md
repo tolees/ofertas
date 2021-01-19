@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tx7dVrqgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089R7KNTM-es Máquina de Hacer Burbujas de Juguete Vibrante para baño Infantil - Multicolor'
+slug: 'B089R7KNTM-es Máquina de Hacer Burbujas de Juguete Vibrante para baño...'
+tags: 
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

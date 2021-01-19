@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079F9R7WL-es Rainbow Six Siege - Advanced Edition'
+tags: 
 actualPrice: 12.51 EUR
 currency: EUR
 price: 12.51

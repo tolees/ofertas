@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511aGpOEziL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IS46XDS-es Travesero empapador impermeable para la cama   Máxima absorción   con 5 capas   ideal para la incontinencia urinaria   70 x 90 cm'
+slug: 'B00IS46XDS-es Travesero empapador impermeable para la cama Máxima...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

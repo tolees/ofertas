@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FOMBmYMqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYNDS9Q-es DIY hecho a mano de costura de costura de alta calidad punzón punzante conjunto punzonado más nuevo para bordado herramientas artesanales totes manteles'
+slug: 'B07KYNDS9Q-es DIY hecho a mano de costura de costura de alta calidad...'
+tags: 
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

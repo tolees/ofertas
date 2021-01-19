@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZqxlDnSyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4BFGH9-es Silver HT Space - Funda Universal Estampada  9-10.1"  Color Azul metálico'
+slug: 'B07H4BFGH9-es Silver HT Space - Funda Universal Estampada 9-10.1" Color...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

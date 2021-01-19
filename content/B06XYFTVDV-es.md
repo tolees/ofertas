@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S-mem8xOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYFTVDV-es Correas de Yoga Ajustable de 2 4 m – 2 x Pack I Incluye eBook I Correa de Estiramientos con Hebilla en D para Pilates  Gimnasio Fitness I Ideal para Estiramientos Flexibilidad  Yoga Stap'
+slug: 'B06XYFTVDV-es Correas de Yoga Ajustable de 2 4 m – 2 x Pack I Incluye...'
+tags: 
 actualPrice: 7.87 EUR
 currency: EUR
 price: 7.87

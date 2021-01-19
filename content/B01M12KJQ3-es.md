@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CbEYr7rcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M12KJQ3-es Philips Speedtouch HR2642/00 - Batidora de Mano  700 W  Picador XL  Levanta Claras  Jarra de 0.6 L  Varilla Metálica  Color Blanco'
+slug: 'B01M12KJQ3-es Philips Speedtouch HR2642/00 - Batidora de Mano 700 W...'
+tags: 
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51o5yydSSmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087F58VDW-es Comprobador de enchufe de 48 a 250V  KAIWEETS Probador de enchufe con LCD pantalla que medir voltaje  examinar circuito y RCD  CAT II 300V  7 tipo de indicación para uso doméstico y profesional'
+slug: 'B087F58VDW-es Comprobador de enchufe de 48 a 250V KAIWEETS Probador de...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

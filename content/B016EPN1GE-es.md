@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cZL11zwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016EPN1GE-es Nike MD Runner 2  PSV   Zapatillas Unisex Niños  Multicolor Negro 000  32 EU'
+slug: 'B016EPN1GE-es Nike MD Runner 2 PSV Zapatillas Unisex Niños Multicolor...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

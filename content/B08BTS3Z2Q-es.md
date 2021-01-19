@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Txbmq0JjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BTS3Z2Q-es D18 Smart Fitness Pulsera Banda con medidor de Pulso de medición Medidor de Actividad Deportiva Reloj Pulsera - Azul'
+slug: 'B08BTS3Z2Q-es D18 Smart Fitness Pulsera Banda con medidor de Pulso de...'
+tags: 
 actualPrice: 5.34 EUR
 currency: EUR
 price: 5.34

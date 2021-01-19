@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eybdXmXbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SZ1LHJ-es Melchioni - Mini Nevera de Bar silencioso  50 L  Nevera pequeña  Nevera portátil de Dormitorio  Baretto Plus  minibar  Talla única Bianco'
+slug: 'B089SZ1LHJ-es Melchioni - Mini Nevera de Bar silencioso 50 L Nevera...'
+tags: 
 actualPrice: 96.74 EUR
 currency: EUR
 price: 96.74

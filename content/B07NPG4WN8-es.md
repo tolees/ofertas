@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-VjcUysNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPG4WN8-es Skechers Elite Flex-Lochbay  Zapatillas para Hombre  Azul  Navy/Multicoloured Nvmt   42.5 EU'
+slug: 'B07NPG4WN8-es Skechers Elite Flex-Lochbay Zapatillas para Hombre Azul...'
+tags: 
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

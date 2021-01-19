@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41we6Q1RavL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWN53LK-es Under Armour  Bolsa de Deporte One Size  Gr'
+slug: 'B07DWN53LK-es Under Armour Bolsa de Deporte One Size Gr'
+tags: 
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

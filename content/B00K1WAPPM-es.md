@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nNqOQUt+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K1WAPPM-es Hunter Original Short  Botas de Agua Unisex Adulto  Negro  Black RMA   37 EU'
+slug: 'B00K1WAPPM-es Hunter Original Short Botas de Agua Unisex Adulto Negro...'
+tags: 
 actualPrice: 83.85 EUR
 currency: EUR
 price: 83.85

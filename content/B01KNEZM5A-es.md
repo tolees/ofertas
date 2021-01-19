@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41swtXRU0GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KNEZM5A-es Finether-Joyero Bloqueable（Caja para joyas Estuche Arqueado para Guardar Comésticas  Espejo y Cajones Textura de Cuero de Cocodrilo Tapa Elevable ）Blanco'
+slug: 'B01KNEZM5A-es Finether-Joyero Bloqueable（Caja para joyas Estuche...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

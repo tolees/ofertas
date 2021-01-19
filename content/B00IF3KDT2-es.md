@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D1PK+pkRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IF3KDT2-es Casio WAVE CEPTOR Reloj Radiocontrolado y solar  Cristal de zafiro Caja de titanio macizo  Negro  para Hombre  con Correa de Titanio macizo  LCW-M170TD-1AER'
+slug: 'B00IF3KDT2-es Casio WAVE CEPTOR Reloj Radiocontrolado y solar Cristal de...'
+tags: 
 actualPrice: 254.15 EUR
 currency: EUR
 price: 254.15

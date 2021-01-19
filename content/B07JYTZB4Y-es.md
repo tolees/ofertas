@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31rT9Y-W4sL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYTZB4Y-es Tommy Hilfiger Brooklyn Short Light Twill Belt Pantalones Cortos  Azul  Sky CAPTAIN403   W32  Talla del Fabricante: NI32  para Hombre'
+slug: 'B07JYTZB4Y-es Tommy Hilfiger Brooklyn Short Light Twill Belt Pantalones...'
+tags: 
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

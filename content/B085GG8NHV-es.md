@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+TBLmlBPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085GG8NHV-es Cepewa Aspiradora de Mano 2 en 1  silenciosa con Buena Fuerza de succión  Soporte de Pared  Boquilla para Juntas y Potente batería'
+slug: 'B085GG8NHV-es Cepewa Aspiradora de Mano 2 en 1 silenciosa con Buena...'
+tags: 
 actualPrice: 59.91 EUR
 currency: EUR
 price: 59.91

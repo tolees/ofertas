@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51I2-AQDzeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757D8PXQ-es 1 Par 7/8" Motocicleta Perillas Motocicleta Universal Puño Acoples de Manillar Moto Manillar Aluminio  5 '
+slug: 'B0757D8PXQ-es 1 Par 7/8" Motocicleta Perillas Motocicleta Universal Puño...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61yrEH+McXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WW2VF96-es Ballery Bolsa de Pañales  Bolsa Mojado Lavable Mojado y Seco Bolsa de Pañales Reutilizable Bebe Bolsas Pañales Sucios Organizador Impermeable proof Húmeda Seca con Doble Cremallera  L & L  Verde '
+slug: 'B07WW2VF96-es Ballery Bolsa de Pañales Bolsa Mojado Lavable Mojado y...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

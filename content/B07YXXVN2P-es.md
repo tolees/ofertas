@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RdNaAypoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXXVN2P-es Soporte de Carga para A pple Watch  Estación de Carga Rápida Qi Inalámbrica 3 en 1 Soportes de Carga de para iPhone11 pro X XS MAX 8 Plus Teléfonos Qi-Enabled AirPods e iWatch Series5/ 4/3/2/1- Negro'
+slug: 'B07YXXVN2P-es Soporte de Carga para A pple Watch Estación de Carga...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

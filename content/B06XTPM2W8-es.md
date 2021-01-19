@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AMr4P0j+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTPM2W8-es Pepe Jeans Original Basic L/S  Top de Manga Larga Para Hombre  Blanco  White   Medium'
+slug: 'B06XTPM2W8-es Pepe Jeans Original Basic L/S Top de Manga Larga Para...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

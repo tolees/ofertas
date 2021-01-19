@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mTh2KERCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY3RD8F-es Superdry Raven Slim Jogger Pantalones de Deporte  Verde  Green 10e   XS  Talla del Fabricante:8  para Mujer'
+slug: 'B07NY3RD8F-es Superdry Raven Slim Jogger Pantalones de Deporte Verde...'
+tags: 
 actualPrice: 33.36 EUR
 currency: EUR
 price: 33.36

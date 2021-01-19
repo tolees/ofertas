@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Cwv85CuVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZJXGLB-es Reloj Inteligente Ninos con Musica MP3 - Smartwatch Niños con FM Cámara Pantalla Táctil Llamadas SOS  Reloj Niña Reloj Niña  Reloj Inteligente Niño de 3-12 años Regalos de Cumpleaños  Children Gift'
+slug: 'B07MZJXGLB-es Reloj Inteligente Ninos con Musica MP3 - Smartwatch Niños...'
+tags: 
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

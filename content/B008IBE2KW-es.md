@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Xk-fUI0vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008IBE2KW-es Woxter UPS 800 VA - Sistema SAI de alimentación ininterrumpida SAI  800VA/480 Watts  Autonomía aproximativamente 8-15 Minutos   Fuente de alimentación Continua  2 Tomas Schuko'
+slug: 'B008IBE2KW-es Woxter UPS 800 VA - Sistema SAI de alimentación...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

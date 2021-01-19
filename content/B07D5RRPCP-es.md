@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51U8kTwToML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5RRPCP-es Eono Essentials Clear Toiletry Bag Bolsa de Equipaje de Viaje Make up Cosmetic Bag para Mujeres Hombre Kids Waterproof Wash Wash Bags Organizador Blue Two Pack'
+slug: 'B07D5RRPCP-es Eono Essentials Clear Toiletry Bag Bolsa de Equipaje de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

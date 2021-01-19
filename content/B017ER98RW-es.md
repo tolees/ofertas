@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319KKdIls1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017ER98RW-es Vizaro - Relleno Nórdico - Edredón 300g de MaxiCuna y Almohada - Algodón Puro. - Invierno - Antialérgico  Antiácaros  Antimoho - MaxiCuna 70x140cm -'
+slug: 'B017ER98RW-es Vizaro - Relleno Nórdico - Edredón 300g de MaxiCuna y...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

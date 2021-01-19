@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317+61kUl7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076B1QNRH-es Tefal - Sartén grill 26x26cm aluminio fundido  compatible Inducción  Gas  Eléctrico y Vitrocerámica  revestimiento antiadherente sin PFOA  sin plomo  sin Cadmio. Tapa y accesorios aptos lavavajillas.'
+slug: 'B076B1QNRH-es Tefal - Sartén grill 26x26cm aluminio fundido compatible...'
+tags: 
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

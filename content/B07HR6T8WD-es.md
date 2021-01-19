@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41h0EekQUQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HR6T8WD-es Radio de Coche  Rixow Autoradio FM Estéreo Bluetooth 60W*4 Doble USB Carga Rápida Reproductor MP3 Llamadas Manos Libres 7 Colores de Luz de Fondo'
+slug: 'B07HR6T8WD-es Radio de Coche Rixow Autoradio FM Estéreo Bluetooth 60W*4...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

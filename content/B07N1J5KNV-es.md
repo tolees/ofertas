@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rvhioyjaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1J5KNV-es Clarks Sharon Gracie  Mocasines para Mujer  Plateado Metallic  40 EU'
+slug: 'B07N1J5KNV-es Clarks Sharon Gracie Mocasines para Mujer Plateado...'
+tags: 
 actualPrice: 35.79 EUR
 currency: EUR
 price: 35.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m-g9QhBIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CFBU5RK-es Nixon Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable Recubierto A045-897-00'
+slug: 'B00CFBU5RK-es Nixon Reloj Analógico para Unisex de Cuarzo con Correa en...'
+tags: 
 actualPrice: 71.08 EUR
 currency: EUR
 price: 71.08

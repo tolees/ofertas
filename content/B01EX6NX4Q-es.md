@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EX6NX4Q-es Hummel - Short CHEVRON Blanc / Noir Taille - S'
+tags: 
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

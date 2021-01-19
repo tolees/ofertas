@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DuvTGw04L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDSRZZM-es FREDI Cámara de vigilancia para Exteriores  1080P HD inalámbrica Seguridad Bullet cámara/Impermeable IP66  Visión Nocturna  Detección de Movimiento/Cámara con Audio bidireccional'
+slug: 'B07QDSRZZM-es FREDI Cámara de vigilancia para Exteriores 1080P HD...'
+tags: 
 actualPrice: 45.59 EUR
 currency: EUR
 price: 45.59

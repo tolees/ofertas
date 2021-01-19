@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51G%2BAGvaw9L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B004YSD2OU-es Epson C13T15934010 - Cartucho de tinta  magenta  Ya disponible en Amazon Dash Replenishment'
+slug: 'B004YSD2OU-es Epson C13T15934010 - Cartucho de tinta magenta Ya...'
+tags: 
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

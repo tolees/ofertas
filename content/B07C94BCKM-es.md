@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412N4gHwBkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C94BCKM-es Columbia Canyon Point  Zapatillas de Senderismo Impermeables para Hombre  Gris  Negro  Black  Squash   42 EU'
+slug: 'B07C94BCKM-es Columbia Canyon Point Zapatillas de Senderismo...'
+tags: 
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

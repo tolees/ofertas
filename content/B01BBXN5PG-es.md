@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LV6ijDrCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BBXN5PG-es Samsonite 73349/1549 Cosmolite Spinner - Equipaje de Mano  Azul  Midnight Blue   S  55 cm-36 L '
+slug: 'B01BBXN5PG-es Samsonite 73349/1549 Cosmolite Spinner - Equipaje de Mano...'
+tags: 
 actualPrice: 315.0 EUR
 currency: EUR
 price: 315.0

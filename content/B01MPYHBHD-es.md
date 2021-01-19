@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31FriKhYBwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MPYHBHD-es Hummel Slimmer Stadil Tonal Low  Zapatillas Unisex Adulto  Blanco  White 9001   36 EU'
+slug: 'B01MPYHBHD-es Hummel Slimmer Stadil Tonal Low Zapatillas Unisex Adulto...'
+tags: 
 actualPrice: 21.36 EUR
 currency: EUR
 price: 21.36

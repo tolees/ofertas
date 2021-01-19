@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W27h9E3GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRJSSKP-es 10A Control remoto inalámbrico inteligente para el hogar Toma de corriente Plug & Play Interruptor de enchufe Wifi de tamaño pequeño para electrodomésticos - Blanco'
+slug: 'B08CRJSSKP-es 10A Control remoto inalámbrico inteligente para el hogar...'
+tags: 
 actualPrice: 21.08 EUR
 currency: EUR
 price: 21.08

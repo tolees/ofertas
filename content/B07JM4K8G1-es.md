@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZX0NBv1AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JM4K8G1-es 78mm Interruptor de botón a prueba de agua ON/OFF- 380V 10A Accesorios de máquina-herramienta Interruptor de botón'
+slug: 'B07JM4K8G1-es 78mm Interruptor de botón a prueba de agua ON/OFF- 380V...'
+tags: 
 actualPrice: 8.68 EUR
 currency: EUR
 price: 8.68

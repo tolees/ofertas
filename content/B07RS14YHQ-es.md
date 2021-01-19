@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I6ogcIeHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS14YHQ-es flintronic LED Linterna  2 Pcs Linterna Táctica  5 Modos a Prueba de agua Zoomable Enfoque Mini Antorcha de Mano Ultra Brillante para Acampar  Iluminación de Emergencia  Baterías no Incluidas '
+slug: 'B07RS14YHQ-es flintronic LED Linterna 2 Pcs Linterna Táctica 5 Modos a...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

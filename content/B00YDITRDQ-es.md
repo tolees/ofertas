@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VyomUVurL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YDITRDQ-es Merrell Terran Lattice Ii Tira de tobillo para Mujer  Azul  NAVY   39 EU'
+slug: 'B00YDITRDQ-es Merrell Terran Lattice Ii Tira de tobillo para Mujer Azul...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vgN7c7rJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NCPFK2-es modamoda de - pequeño de cuero embrague ital metálico M106-151  Color:M151 Negro Metálico'
+slug: 'B077NCPFK2-es modamoda de - pequeño de cuero embrague ital metálico...'
+tags: 
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

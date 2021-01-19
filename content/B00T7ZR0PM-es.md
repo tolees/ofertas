@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+5RbqBd2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T7ZR0PM-es Shock Absorber Active Multi Sports  Sujetador Deportivo Para Mujer  Gris  Dark Grey   85D EU'
+slug: 'B00T7ZR0PM-es Shock Absorber Active Multi Sports Sujetador Deportivo...'
+tags: 
 actualPrice: 31.83 EUR
 currency: EUR
 price: 31.83

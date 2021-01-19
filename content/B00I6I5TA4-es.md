@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517ZIjr4cQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I6I5TA4-es GoSparking Rose plateó los pendientes Elementos cristalino 18K de la aleación de aro perforado con el cristal austríaco para las mujeres  Tanzanite '
+slug: 'B00I6I5TA4-es GoSparking Rose plateó los pendientes Elementos cristalino...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

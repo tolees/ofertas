@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313oZzsNljL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQMHQ1-es Pepe Jeans Finly Jeans   Black Used Denim 000   2 años para Niños'
+slug: 'B07MZQMHQ1-es Pepe Jeans Finly Jeans Black Used Denim 000 2 años para Niños'
+tags: 
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

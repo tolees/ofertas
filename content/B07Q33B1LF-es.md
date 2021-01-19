@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UdrfSKaFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q33B1LF-es Philips PRO6305BK/00 - Auriculares intrauditivos  1.2 m  12.2 mm  Neodimio  32 g  Negro'
+slug: 'B07Q33B1LF-es Philips PRO6305BK/00 - Auriculares intrauditivos 1.2 m...'
+tags: 
 actualPrice: 23.94 EUR
 currency: EUR
 price: 23.94

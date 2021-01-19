@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BGbjn9nZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LL92BMI-es Cámara Yuntab Warrior G1S de 32 GB para deportes al aire libre  videocámara con Wi-Fi H.265 HD 1080P  3400mAh batería  165 ° gran angular  control remoto  azul '
+slug: 'B01LL92BMI-es Cámara Yuntab Warrior G1S de 32 GB para deportes al aire...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

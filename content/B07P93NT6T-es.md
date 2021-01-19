@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WVvXPPYML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P93NT6T-es COSORI Tazas de Café y Té de Acero Inoxidable de Grado Alimenticio con Tapa 500ml  Tazas con Mango Resistente al Calor  Funda Antideslizante  Combinación para Calentador de Taza  2 Pack  Negro y Azul'
+slug: 'B07P93NT6T-es COSORI Tazas de Café y Té de Acero Inoxidable de Grado...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

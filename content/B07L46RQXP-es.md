@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410V+g9p2vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L46RQXP-es Adidas Terrex Skychaser Lt GTX W  Zapatillas de Deporte para Mujer  Multicolor  Carbon/Negbás/Rosact 000   41 1/3 EU'
+slug: 'B07L46RQXP-es Adidas Terrex Skychaser Lt GTX W Zapatillas de Deporte...'
+tags: 
 actualPrice: 102.26 EUR
 currency: EUR
 price: 102.26

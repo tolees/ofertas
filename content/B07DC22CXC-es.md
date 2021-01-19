@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/3187m6K%2BcfL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC22CXC-es Puma Zeta Suede  Zapatillas Unisex Adulto  Blanco White-Ponderosa Pine  43 EU'
+slug: 'B07DC22CXC-es Puma Zeta Suede Zapatillas Unisex Adulto Blanco White-...'
+tags: 
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

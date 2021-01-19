@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zcLtvJ7oL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077DX5N2H-es Rieker B8762  Zapatillas sin Cordones para Hombre  Azul Pazifik/Amaretto  40 EU'
+slug: 'B077DX5N2H-es Rieker B8762 Zapatillas sin Cordones para Hombre Azul...'
+tags: 
 actualPrice: 13.2 EUR
 currency: EUR
 price: 13.2

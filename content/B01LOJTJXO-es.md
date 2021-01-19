@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41boVYwAGCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LOJTJXO-es Hot Chocolate Design Chocolaticas He Loves Me  He Loves Me Not Tacon Mary Jane para Mujeres Multicolor HCD 41'
+slug: 'B01LOJTJXO-es Hot Chocolate Design Chocolaticas He Loves Me He Loves Me...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

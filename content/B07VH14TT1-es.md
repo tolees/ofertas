@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jEzP5UyML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VH14TT1-es Pepe Jeans Klein Archive Summer M  Zapatillas para Hombre  Blanco Factory White 801  41 EU'
+slug: 'B07VH14TT1-es Pepe Jeans Klein Archive Summer M Zapatillas para Hombre...'
+tags: 
 actualPrice: 34.66 EUR
 currency: EUR
 price: 34.66

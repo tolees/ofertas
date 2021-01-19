@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gMgOE1-eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS2NW58-es HKC AT24A-DE All-in-One-PC 24 Pulgadas Full HD - 4 GB RAM  64 GB SSD  Intel® Apollo Lake N3350 Dual-Core 1.1GHz  Intel® HD Graphics 500  Windows 10 Home  WiFi  Bluetooth  USB  HDMI'
+slug: 'B07RS2NW58-es HKC AT24A-DE All-in-One-PC 24 Pulgadas Full HD - 4 GB RAM...'
+tags: 
 actualPrice: 319.99 EUR
 currency: EUR
 price: 319.99

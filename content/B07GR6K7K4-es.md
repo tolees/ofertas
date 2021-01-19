@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S70NAzK2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GR6K7K4-es Energy Sistem Music Box 7+ Altavoz portátil con Bluetooth  20 W  Manos Libres  Entrada de Audio y batería Recargable  - Plata'
+slug: 'B07GR6K7K4-es Energy Sistem Music Box 7+ Altavoz portátil con Bluetooth...'
+tags: 
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

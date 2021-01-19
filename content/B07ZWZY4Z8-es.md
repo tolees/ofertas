@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MLK-3+QML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZWZY4Z8-es TACKLIFE Pistola de Calor  2000W Decapadora  2 Temperaturas Ajustables 350℃- 550℃  Pistola de Aire Caliente con 4 Boquillas  HGP68AC'
+slug: 'B07ZWZY4Z8-es TACKLIFE Pistola de Calor 2000W Decapadora 2 Temperaturas...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

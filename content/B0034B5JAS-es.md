@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SI2UjhLzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0034B5JAS-es Beurer Bs49 - Espejo Maquillaje con Luz Led Brillante  12 Leds   Espejo Pivotante  2 Espejos en 1  1 Cara Vista Normal  Uno con Aumento X 5  17 5 X 19 X 10 cm  Blanco con Acabados Cromados'
+slug: 'B0034B5JAS-es Beurer Bs49 - Espejo Maquillaje con Luz Led Brillante 12...'
+tags: 
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

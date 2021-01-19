@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UlFIQc5wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3WJ77M-es New Balance 574v2  Zapatillas para Hombre  Azul  Blue/Black Sck   43 EU'
+slug: 'B07S3WJ77M-es New Balance 574v2 Zapatillas para Hombre Azul Blue/Black...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

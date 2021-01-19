@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ibL3gKxIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQ75JV4-es Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Azul  Blue Ink C7H   X-Large para Hombre'
+slug: 'B07VQ75JV4-es Tommy Hilfiger Organic Cotton Silk V Neck Pantalones Azul...'
+tags: 
 actualPrice: 47.06 EUR
 currency: EUR
 price: 47.06

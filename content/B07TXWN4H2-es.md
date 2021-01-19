@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41stqwNrF-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXWN4H2-es KiplingBaroeMujerMonederosPlateado  Metallic Glow  20.5x10x7.5 Centimeters  B x H x T '
+slug: 'B07TXWN4H2-es KiplingBaroeMujerMonederosPlateado Metallic Glow...'
+tags: 
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

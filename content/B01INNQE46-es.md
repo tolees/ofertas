@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sGjHNqYfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01INNQE46-es HP C2710 Wireless Keyboard Combo M7P30AA AB9 - Teclado Español'
+slug: 'B01INNQE46-es HP C2710 Wireless Keyboard Combo M7P30AA AB9 - Teclado...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

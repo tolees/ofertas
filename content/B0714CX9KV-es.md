@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3183lYg3VGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0714CX9KV-es Targus DOCK160USZ USB 3.0  3.1 Gen 1  Type-A Negro  Gris - Base  Alámbrico  USB 3.0  3.1 Gen 1  Type-A  1000 Mbit/s  4096 x 2160 Pixeles  5000 Mbit/s  Negro  Gris '
+slug: 'B0714CX9KV-es Targus DOCK160USZ USB 3.0 3.1 Gen 1 Type-A Negro Gris -...'
+tags: 
 actualPrice: 244.1 EUR
 currency: EUR
 price: 244.1

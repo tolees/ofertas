@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WpzhnrUbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YNPIKDW-es Adidas ZX Flux J  Zapatillas Unisex Niños  Blanco  Footwear White/Footwear White/Footwear White 0   38 EU'
+slug: 'B00YNPIKDW-es Adidas ZX Flux J Zapatillas Unisex Niños Blanco Footwear...'
+tags: 
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

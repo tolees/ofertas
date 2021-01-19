@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ldr+-sGzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081H6HFHJ-es Finether Dispensador de Jabón Automático Espuma Dispensador Sensor de Jabón sin Contacto 350ml Impermeable para Baño  Cocina  Color Blanco'
+slug: 'B081H6HFHJ-es Finether Dispensador de Jabón Automático Espuma...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

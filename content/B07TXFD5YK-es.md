@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hcVZF9BuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXFD5YK-es Levi s Graphic tee bañadores  Blanco  Feminine Logo Bodysuit White+ 0002   Talla Única  Talla del Fabricante: Large  para Mujer'
+slug: 'B07TXFD5YK-es Levi s Graphic tee bañadores Blanco Feminine Logo Bodysuit...'
+tags: 
 actualPrice: 15.63 EUR
 currency: EUR
 price: 15.63

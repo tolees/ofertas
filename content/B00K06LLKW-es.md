@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K06LLKW-es Fissler Q! - Sopa de Cuchara'
+tags: 
 actualPrice: 22.6 EUR
 currency: EUR
 price: 22.6

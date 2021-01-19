@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GVvgGYK3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RGKRK2-es GORE WEAR R5 Mallas cortas de running para mujer  Talla: 38  Color: Gris oscuro/Negro'
+slug: 'B075RGKRK2-es GORE WEAR R5 Mallas cortas de running para mujer Talla: 38...'
+tags: 
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

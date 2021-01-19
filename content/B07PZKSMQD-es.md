@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/517hgsHQRnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZKSMQD-es NWOUIIAY Cargador de Batería Coche Mantenimiento Automático Inteligente 6A 12V con Múltiples Protecciones para Coche Moto ATV RV Barco'
+slug: 'B07PZKSMQD-es NWOUIIAY Cargador de Batería Coche Mantenimiento...'
+tags: 
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

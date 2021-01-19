@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415aJN+eIgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086C34SYL-es Luchild Baberos para Bebés  Baberos de Alimentación de Silicona Impermeables para Niñas y Niños Pequeños Unisex  Babero Súper Suave y con un amplio bolsillo para recolector migas de alimentos'
+slug: 'B086C34SYL-es Luchild Baberos para Bebés Baberos de Alimentación de...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

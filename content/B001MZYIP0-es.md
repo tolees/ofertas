@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513LPUK8sfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001MZYIP0-es EUKANUBA Raza Mediana Adulto Activo rico en pollo fresco [3 kg]'
+slug: 'B001MZYIP0-es EUKANUBA Raza Mediana Adulto Activo rico en pollo fresco...'
+tags: 
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

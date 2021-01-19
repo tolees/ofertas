@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-Ii3BNu9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTKC9HG-es Ferilinso Funda para Moto G8 Plus Carcasa [Reforzar la versión con Cuatro Esquinas][Funda Protectora de la cámara] Funda Protectora de Silicona de Piel de Goma TPU a Prueba de Goma  Transparente '
+slug: 'B07ZTKC9HG-es Ferilinso Funda para Moto G8 Plus Carcasa [Reforzar la...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

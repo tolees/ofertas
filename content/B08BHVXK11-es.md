@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410ny-97FRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHVXK11-es Kits Traviesos: No Tengas Miedo De Tomar Tu Tra/In Lentamente y Saborear Cada Momento Bondḁgêromḁnce Esclḁvitûd Para Pḁrejḁs Principḁlês Sêxo'
+slug: 'B08BHVXK11-es Kits Traviesos: No Tengas Miedo De Tomar Tu Tra/In...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

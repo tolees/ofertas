@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mav9CI3JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007FRNWCY-es L oreal paris - Sublime  loción autobronceadora  tono medio  200 ml'
+slug: 'B007FRNWCY-es L oreal paris - Sublime loción autobronceadora tono medio...'
+tags: 
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

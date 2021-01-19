@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51sioeL2LYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DM2GZ5W-es Xnuoyo Plancha de pelo profesional  Plancha Alisadora y Rizadora de pelo 2 en 1  Temperatura Ajustable 150ºC - 230ºC  Para Todo Tipo de Cabello  Cabello Corto  Flequillo  Barba Masculina'
+slug: 'B00DM2GZ5W-es Xnuoyo Plancha de pelo profesional Plancha Alisadora y...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

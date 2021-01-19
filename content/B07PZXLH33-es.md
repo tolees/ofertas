@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418v+Yi8E9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZXLH33-es Lenovo Ideapad 530S-14IKB  Ordenador Portátil Full HD  Intel Core i5-8250U  RAM de 8GB  512GB SSD  Intel UHD Graphics 620  - Teclado QWERTY Español  SATA  Intel  Windows 10  14"'
+slug: 'B07PZXLH33-es Lenovo Ideapad 530S-14IKB Ordenador Portátil Full HD Intel...'
+tags: 
 actualPrice: 669.99 EUR
 currency: EUR
 price: 669.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yv+c949rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5LCSBR-es G-STAR RAW Cadet  Zapatillas para Hombre  Marfil  Milk A940-111   42 EU'
+slug: 'B07X5LCSBR-es G-STAR RAW Cadet Zapatillas para Hombre Marfil Milk...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

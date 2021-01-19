@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fv9WF1a9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771VSXN9-es Columbia Silver Ridge II Pantalón Cargo de Senderismo para Hombre  Marrón  Tusk   W34/L32'
+slug: 'B0771VSXN9-es Columbia Silver Ridge II Pantalón Cargo de Senderismo para...'
+tags: 
 actualPrice: 36.89 EUR
 currency: EUR
 price: 36.89

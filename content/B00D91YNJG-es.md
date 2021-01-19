@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ufAOIaeGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D91YNJG-es Borcam 1690037 Juego de 2 bandejas de Horno Care Cristal Transparente  31 5 x 28 x 6 cm'
+slug: 'B00D91YNJG-es Borcam 1690037 Juego de 2 bandejas de Horno Care Cristal...'
+tags: 
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

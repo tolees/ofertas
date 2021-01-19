@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e89HuyFtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC7X2CZ-es Puma Cell Viper Zapatillas de running Unisex Adulto  Blanco  Puma White-Spectra Yellow   46 EU'
+slug: 'B07DC7X2CZ-es Puma Cell Viper Zapatillas de running Unisex Adulto Blanco...'
+tags: 
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

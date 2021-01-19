@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n-Q3gqG9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078J5ZVNV-es Fossil Reloj Híbrido para Mujer de Connected con Correa en Cuero FTW5023'
+slug: 'B078J5ZVNV-es Fossil Reloj Híbrido para Mujer de Connected con Correa en...'
+tags: 
 actualPrice: 97.82 EUR
 currency: EUR
 price: 97.82

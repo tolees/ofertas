@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYLBSBQ-es Bandolera Pepe Jeans Bromley Verde'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

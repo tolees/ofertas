@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RIOQQKmxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNKKRWC-es RLTech Funda Carcasa para Teclast P80X  Slim Smart Carcasa Protectora con Soporte Función Cover Case para Teclast P80X 8 Pulgadas  Azul'
+slug: 'B07YNKKRWC-es RLTech Funda Carcasa para Teclast P80X Slim Smart Carcasa...'
+tags: 
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

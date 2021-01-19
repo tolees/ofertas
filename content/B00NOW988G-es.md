@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tyYfj+EWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NOW988G-es BAUSCH + LOMB - SofLens® Natural Colors - Lentes De Contacto De Color  Con y Sin Graduación - 2 unidades'
+slug: 'B00NOW988G-es BAUSCH + LOMB - SofLens® Natural Colors - Lentes De...'
+tags: 
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

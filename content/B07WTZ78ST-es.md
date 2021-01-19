@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t73z5-xzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTZ78ST-es GALAX PRO Sierras circulares/Sierra Sable  20V Batería 4.0Ah  con Cargador  Velocidad Regulable0-3400RPM/3000SPM  7 Hojas para Madera  Metal  Azulejos/T0102'
+slug: 'B07WTZ78ST-es GALAX PRO Sierras circulares/Sierra Sable 20V Batería...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

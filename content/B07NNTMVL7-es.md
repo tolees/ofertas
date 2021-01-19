@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AY46ZruPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNTMVL7-es Under Armour UA W Charged Bandit 5  Zapatillas de Running para Mujer  Gris  Halo Gray/Purple Haze/White   38 EU'
+slug: 'B07NNTMVL7-es Under Armour UA W Charged Bandit 5 Zapatillas de Running...'
+tags: 
 actualPrice: 43.27 EUR
 currency: EUR
 price: 43.27

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-pArgKQIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ6KVPK-es New Balance 411  Zapatillas de Running para Mujer  Negro  Black   40 EU'
+slug: 'B07DJ6KVPK-es New Balance 411 Zapatillas de Running para Mujer Negro...'
+tags: 
 actualPrice: 30.02 EUR
 currency: EUR
 price: 30.02

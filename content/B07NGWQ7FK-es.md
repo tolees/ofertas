@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ULVh95rYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGWQ7FK-es Primigi Pca 44112  Botas para Bebés  Marron E Scuro 4411344  22 EU'
+slug: 'B07NGWQ7FK-es Primigi Pca 44112 Botas para Bebés Marron E Scuro 4411344...'
+tags: 
 actualPrice: 16.83 EUR
 currency: EUR
 price: 16.83

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rdgaXbVyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPM9NWW-es LolaPix Toalla Surf Personalizada con Nombre o Texto | Toalla Infantil niño niña bebé | Regalo Original Playa Piscina Camping | Varios Diseños y Tamaños | Surf'
+slug: 'B07TPM9NWW-es LolaPix Toalla Surf Personalizada con Nombre o Texto |...'
+tags: 
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

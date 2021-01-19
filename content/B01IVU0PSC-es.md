@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413m22jLZjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IVU0PSC-es Colgante  J.Rosée Collares Mujer Plata de Ley 925 Brillante Circonita"Ojos de Cielo" Cadena 45cm+5cm Regalos Originales Regalos de graduación'
+slug: 'B01IVU0PSC-es Colgante J.Rosée Collares Mujer Plata de Ley 925 Brillante...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

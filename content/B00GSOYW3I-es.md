@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jdpug1fWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GSOYW3I-es Versa 19500285 Taburete pie de cama con Apoyabrazos Pink Patchwork  53x32x100cm  Rosa y Azul'
+slug: 'B00GSOYW3I-es Versa 19500285 Taburete pie de cama con Apoyabrazos Pink...'
+tags: 
 actualPrice: 65.24 EUR
 currency: EUR
 price: 65.24

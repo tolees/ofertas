@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tRSIQG2DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08637MGNL-es Locisne Portátil 14-en-1 Ultra Push Up Board Bracket Board Multifuncional Brazo Sistema de entrenamiento muscular abdominal con soporte Equipo de entrenamiento de fitness Interior al aire libre'
+slug: 'B08637MGNL-es Locisne Portátil 14-en-1 Ultra Push Up Board Bracket Board...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xs9aHbyeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSN9MXD-es Llave inglesa multifunción 48 en 1  llave universal con pernos de estribo de cualquier tamaño estándar'
+slug: 'B07PSN9MXD-es Llave inglesa multifunción 48 en 1 llave universal con...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

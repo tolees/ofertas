@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SBxP4iYiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VSVMY8M-es WMF Termo - Impulse Negro 0 35 L  acero inoxidable cromargan 18/10  1L'
+slug: 'B06VSVMY8M-es WMF Termo - Impulse Negro 0 35 L acero inoxidable...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

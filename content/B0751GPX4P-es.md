@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0751GPX4P-es VEGAS Pro 15'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

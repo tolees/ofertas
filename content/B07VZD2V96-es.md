@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wdd6XjIoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZD2V96-es Cepillo Secador 1200W  Abody 4 en 1 Cepillo Secador de Pelo de Iones Negativos con 3 Velocidades  Revestimiento Cerámico  Mango Ergonómico  2 pinzas '
+slug: 'B07VZD2V96-es Cepillo Secador 1200W Abody 4 en 1 Cepillo Secador de Pelo...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d6T5isMGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWXN91V-es World Rally Championship 8  WRC 8  - Edición Coleccionista [Versión española]'
+slug: 'B07WWXN91V-es World Rally Championship 8 WRC 8 - Edición Coleccionista...'
+tags: 
 actualPrice: 64.77 EUR
 currency: EUR
 price: 64.77

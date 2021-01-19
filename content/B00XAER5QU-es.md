@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fbWaoYP+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAER5QU-es Durex Preservativos Placer Prolongado con Efecto Retardante - Total 12 Condones'
+slug: 'B00XAER5QU-es Durex Preservativos Placer Prolongado con Efecto...'
+tags: 
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65
@@ -25,10 +26,10 @@ Tienes [Durex Preservativos Placer Prolongado con Efecto Retardante - Total 12 C
 
 ℹ️:
 
-- PRESERVATIVOS DE GROSOR MEDIO
 - PERÍMETRO ESTÁNDAR
+- CONDONES LUBRICADOS
+- PRESERVATIVOS DE GROSOR MEDIO
 - EASY-ON
 - PLACER DURADERO
-- CONDONES LUBRICADOS
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XAER5QU/?tag=tolees-21)

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51emH3gn3DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYF1BS4-es D&D Quality Puff Almacenaje Plegable  Asiento Acolchado  38 x 38 x 38 cm - Exterior Suave Piel Sintética - Caja Almacenamiento Cuadrada  BUHOS '
+slug: 'B07TYF1BS4-es D&D Quality Puff Almacenaje Plegable Asiento Acolchado 38...'
+tags: 
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

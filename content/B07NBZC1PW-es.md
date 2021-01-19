@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21eGF8Lzj7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBZC1PW-es Samsung Silicone Cover  funda oficial para Samsung Galaxy 10e  color Rosa'
+slug: 'B07NBZC1PW-es Samsung Silicone Cover funda oficial para Samsung Galaxy...'
+tags: 
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tjAT1O-1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CM3CM2H-es Termometro Infrarrojos laser - AUELEK Profesional Medidor IR Digital sin Contacto  -50℃ ~ 550℃ Pistola de Temperatura  LCD Iluminación  Con Pilas  Para Coche  Cocina  Agua  Piscina'
+slug: 'B07CM3CM2H-es Termometro Infrarrojos laser - AUELEK Profesional Medidor...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

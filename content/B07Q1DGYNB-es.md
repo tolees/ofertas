@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l0680NkFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q1DGYNB-es Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket Outerwear-Jackets  púrpura Fresco  24 meses'
+slug: 'B07Q1DGYNB-es Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket...'
+tags: 
 actualPrice: 14.6 EUR
 currency: EUR
 price: 14.6

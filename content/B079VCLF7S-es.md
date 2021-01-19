@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JoC84K14L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VCLF7S-es BLACK+DECKER BEG210K-QS Amoladora  900 W  Disco 115 mm'
+slug: 'B079VCLF7S-es BLACK+DECKER BEG210K-QS Amoladora 900 W Disco 115 mm'
+tags: 
 actualPrice: 38.39 EUR
 currency: EUR
 price: 38.39

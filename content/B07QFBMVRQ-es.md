@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31T0-NkhTKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFBMVRQ-es PUMA Ftblnxt Pant Chándal  Hombre  Negro Black  M'
+slug: 'B07QFBMVRQ-es PUMA Ftblnxt Pant Chándal Hombre Negro Black M'
+tags: 
 actualPrice: 20.15 EUR
 currency: EUR
 price: 20.15

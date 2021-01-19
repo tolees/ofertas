@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GisSWrlcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CI2JTDG-es Krups VB7008 5L Dispensador de cerveza de barril - Tirador de cerveza  5 38 kg  300 x 452 x 494 mm  61 W  Poder '
+slug: 'B01CI2JTDG-es Krups VB7008 5L Dispensador de cerveza de barril - Tirador...'
+tags: 
 actualPrice: 230.61 EUR
 currency: EUR
 price: 230.61

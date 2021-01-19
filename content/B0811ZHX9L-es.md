@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811ZHX9L-es Capitán América -Riñonera TPU'
+tags: 
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

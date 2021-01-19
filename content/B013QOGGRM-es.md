@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YRnm8gcUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013QOGGRM-es Max Factor Masterpiece High Precision Eyeliner Delineador de Ojos Tono 01 Negro - 6 gr'
+slug: 'B013QOGGRM-es Max Factor Masterpiece High Precision Eyeliner Delineador...'
+tags: 
 actualPrice: 5.33 EUR
 currency: EUR
 price: 5.33

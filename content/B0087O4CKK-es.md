@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411R-O9Ep7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0087O4CKK-es Targus - AMW060EU - Targus Wireless Optical Laptop Mouse Ratón óptico'
+slug: 'B0087O4CKK-es Targus - AMW060EU - Targus Wireless Optical Laptop Mouse...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

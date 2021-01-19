@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418igKkxXWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3YFCN3-es Meinkind Espejo Retrovisor Bebé para Vigilar al Bebé en Coche  360° Ajustable Irrompible 100% Inastillable Espejo Coche'
+slug: 'B07R3YFCN3-es Meinkind Espejo Retrovisor Bebé para Vigilar al Bebé en...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LVN6NMUEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXYH74G-es Tommy Hilfiger Formal Belt 3.5 Cinturón  Beige  100  Talla del fabricante:  para Hombre'
+slug: 'B07JXYH74G-es Tommy Hilfiger Formal Belt 3.5 Cinturón Beige 100 Talla...'
+tags: 
 actualPrice: 33.06 EUR
 currency: EUR
 price: 33.06

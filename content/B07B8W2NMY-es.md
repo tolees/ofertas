@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j7f7Xr8+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8W2NMY-es American Crew Pomada de Fijacion  Fijacion Ligera / Poco Brillo  85 g'
+slug: 'B07B8W2NMY-es American Crew Pomada de Fijacion Fijacion Ligera / Poco...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

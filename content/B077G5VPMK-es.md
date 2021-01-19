@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v1IHPXMwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077G5VPMK-es Brother HLL2370DN - Impresora láser monocromo con red y dúplex  34 ppm  Ethernet  USB 2.0  procesador de 600 MHz  memoria de 64 MB  gris'
+slug: 'B077G5VPMK-es Brother HLL2370DN - Impresora láser monocromo con red y...'
+tags: 
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

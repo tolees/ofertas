@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e22QEml2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079K7C6YL-es Dunlop - Botas de Seguridad estriadas Estilo Wellies Modelo Acifort para Hombre  46 EU   Negro '
+slug: 'B079K7C6YL-es Dunlop - Botas de Seguridad estriadas Estilo Wellies...'
+tags: 
 actualPrice: 58.2 EUR
 currency: EUR
 price: 58.2

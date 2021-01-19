@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k4+RHd0SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NONWIK-es Shimano  SM-SH11 - Par Calas Sm-Sh11 68  color amarillo'
+slug: 'B000NONWIK-es Shimano SM-SH11 - Par Calas Sm-Sh11 68 color amarillo'
+tags: 
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

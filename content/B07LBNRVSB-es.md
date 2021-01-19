@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s53y6IJhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBNRVSB-es Kappa Follow OC XL  Zapatillas para Hombre  Blanco  White/Grey 1016   48 EU'
+slug: 'B07LBNRVSB-es Kappa Follow OC XL Zapatillas para Hombre Blanco...'
+tags: 
 actualPrice: 23.22 EUR
 currency: EUR
 price: 23.22

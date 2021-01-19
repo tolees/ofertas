@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VIAFHEOBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WFZV47-es PUMA Liga Shorts Core Jr Pantalones Cortos de Fútbol  Unisex Niños  Negro  Black/White   140'
+slug: 'B078WFZV47-es PUMA Liga Shorts Core Jr Pantalones Cortos de Fútbol...'
+tags: 
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

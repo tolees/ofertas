@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tKAVELDmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D4NUWOY-es Supportiback Almohada terapéutica de cama con gel disipador de calor.Reversible funda extraíble hipoalérgena lavable diseñado médicamente para la prevención y el alivio del dolor de cuello y espalda'
+slug: 'B00D4NUWOY-es Supportiback Almohada terapéutica de cama con gel...'
+tags: 
 actualPrice: 32.09 EUR
 currency: EUR
 price: 32.09

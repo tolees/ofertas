@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vtAjNOQ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNND75Z-es Tommy Hilfiger Tjw Tommy Classics tee Ropa Deportiva de Punto  Gris  Pale Grey Htr PPP   32  Talla del Fabricante: XX-Small  para Mujer'
+slug: 'B07VNND75Z-es Tommy Hilfiger Tjw Tommy Classics tee Ropa Deportiva de...'
+tags: 
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

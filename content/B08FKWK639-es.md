@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412k1k+S2kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FKWK639-es Cordón que cubre la cara de longitud ajustable  conveniente soporte de protección facial Clip extensor Colgador de cuerda alrededor del cuello  7 piezas '
+slug: 'B08FKWK639-es Cordón que cubre la cara de longitud ajustable conveniente...'
+tags: 
 actualPrice: 2.68 EUR
 currency: EUR
 price: 2.68

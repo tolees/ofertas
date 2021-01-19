@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUDNsrFHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZ4XKP8-es adidas N-5923  Zapatillas de Gimnasia para Hombre  Gris  Grey Six/Core Black/Ftwr White   42 EU'
+slug: 'B07JZ4XKP8-es adidas N-5923 Zapatillas de Gimnasia para Hombre Gris Grey...'
+tags: 
 actualPrice: 29.32 EUR
 currency: EUR
 price: 29.32

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KqotGcY1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MK3Q2M-es Karmin T70 - Maquina de cortar pelo/cabello profesional para hombre con cuchillas de ceramica  Inalámbrica  recargable con Display LED'
+slug: 'B077MK3Q2M-es Karmin T70 - Maquina de cortar pelo/cabello profesional...'
+tags: 
 actualPrice: 17.78 EUR
 currency: EUR
 price: 17.78

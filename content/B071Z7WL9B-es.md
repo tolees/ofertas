@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PPGc1FDyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071Z7WL9B-es Carissima Gold - Pendientes para mujer 9 k  375  oro bicolor incoloro óxido de circonio'
+slug: 'B071Z7WL9B-es Carissima Gold - Pendientes para mujer 9 k 375 oro bicolor...'
+tags: 
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

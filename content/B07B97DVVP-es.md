@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Zt5xWjYLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B97DVVP-es Purina Gourmet Perle Delicias en Salsa comida para gato con Salmon y Atun 12 x [4 x 85 g]'
+slug: 'B07B97DVVP-es Purina Gourmet Perle Delicias en Salsa comida para gato...'
+tags: 
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

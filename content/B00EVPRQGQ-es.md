@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4138LT1R5wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EVPRQGQ-es Calvin Klein Bottoms UP-Hipster Ropa interior  Negro  001 BLACK   40  L  para Mujer'
+slug: 'B00EVPRQGQ-es Calvin Klein Bottoms UP-Hipster Ropa interior Negro 001...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bSUZbPXrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075JH3MFT-es Fujifilm X-E3 - Cuerpo de cámara EVIL de 24.3 MP  color negro'
+slug: 'B075JH3MFT-es Fujifilm X-E3 - Cuerpo de cámara EVIL de 24.3 MP color negro'
+tags: 
 actualPrice: 465.0 EUR
 currency: EUR
 price: 465.0

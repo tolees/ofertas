@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SaVUWBMDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZA6URIY-es Wpro SKS101 Stacking kit - Piezas y accesorios de secadoras  Stacking kit  White  Plastic  Box  CE  600 mm '
+slug: 'B00ZA6URIY-es Wpro SKS101 Stacking kit - Piezas y accesorios de...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

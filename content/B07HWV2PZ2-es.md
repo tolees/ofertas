@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cZREWkVgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HWV2PZ2-es Real Madrid FC Body Niños - Producto Oficial Primera equipación 2018/2019  1 Mes '
+slug: 'B07HWV2PZ2-es Real Madrid FC Body Niños - Producto Oficial Primera...'
+tags: 
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

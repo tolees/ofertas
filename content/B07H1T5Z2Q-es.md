@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418KAMQSzZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H1T5Z2Q-es Slumberzzz - Pantuflas/Zapatillas de Estar por casa con Lentejuelas para Mujer  38-39 EU   Ciruela '
+slug: 'B07H1T5Z2Q-es Slumberzzz - Pantuflas/Zapatillas de Estar por casa con...'
+tags: 
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

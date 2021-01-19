@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cZL11zwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016EPNPFG-es Nike MD Runner 2  Zapatillas de Deporte para Mujer  Multicolor  Negro 000   35 EU'
+slug: 'B016EPNPFG-es Nike MD Runner 2 Zapatillas de Deporte para Mujer...'
+tags: 
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

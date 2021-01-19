@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OB1NNanIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078CY3XX5-es FILA Disruptor  Zapatillas para Mujer  Black  39 EU'
+slug: 'B078CY3XX5-es FILA Disruptor Zapatillas para Mujer Black 39 EU'
+tags: 
 actualPrice: 59.74 EUR
 currency: EUR
 price: 59.74

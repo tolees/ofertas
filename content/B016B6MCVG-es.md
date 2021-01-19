@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oAfm3BUcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016B6MCVG-es Gant Cotton Pique Crew suéter  Azul  Evening Blue 433   Medium para Hombre'
+slug: 'B016B6MCVG-es Gant Cotton Pique Crew suéter Azul Evening Blue 433 Medium...'
+tags: 
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

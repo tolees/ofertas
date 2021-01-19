@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31K13af1EoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5RJ6DF-es Calvin Klein ENFOLD TOP HANDLEMujerBolsos bandoleraRosa  Nude  14.5x24x34 centimeters  B x H x T '
+slug: 'B07N5RJ6DF-es Calvin Klein ENFOLD TOP HANDLEMujerBolsos bandoleraRosa...'
+tags: 
 actualPrice: 67.59 EUR
 currency: EUR
 price: 67.59

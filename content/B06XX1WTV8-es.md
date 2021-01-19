@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fGjiA+6cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XX1WTV8-es Vogel s Thin 405  Soporte de Pared para TV 26-55 Pulgadas  Fijo  Máx 25 kg y con Sistema VESA máx. 400x400'
+slug: 'B06XX1WTV8-es Vogel s Thin 405 Soporte de Pared para TV 26-55 Pulgadas...'
+tags: 
 actualPrice: 43.29 EUR
 currency: EUR
 price: 43.29

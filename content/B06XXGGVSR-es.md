@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ib23gT7mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXGGVSR-es New Balance 574v2-core Trainers  Zapatillas para Hombre  Verde  Olive   39.5 EU'
+slug: 'B06XXGGVSR-es New Balance 574v2-core Trainers Zapatillas para Hombre...'
+tags: 
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

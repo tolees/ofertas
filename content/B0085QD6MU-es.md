@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0085QD6MU-es Tommee Tippee 42302241 - Bolsas para conservar la leche'
+tags: 
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

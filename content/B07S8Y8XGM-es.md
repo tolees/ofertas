@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41brVPI2vxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8Y8XGM-es Helly Hansen HH Wash Bag 3 Neceser  Unisex Adulto  Electric Blue/Navy  STD'
+slug: 'B07S8Y8XGM-es Helly Hansen HH Wash Bag 3 Neceser Unisex Adulto Electric...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

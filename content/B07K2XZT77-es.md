@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eijltXtOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2XZT77-es Charles Wilson 5er Packung Einfarbige T-Shirts mit Rundhalsausschnitt  X-Large  Dark Essentials Type 42 '
+slug: 'B07K2XZT77-es Charles Wilson 5er Packung Einfarbige T-Shirts mit...'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bVSPJVUvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077QQLQR2-es Superga 2750-cotbumpstrapj  Zapatillas de Gimnasia Unisex Niños  Blanco  White 901   28 EU'
+slug: 'B077QQLQR2-es Superga 2750-cotbumpstrapj Zapatillas de Gimnasia Unisex...'
+tags: 
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

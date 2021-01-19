@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qgxm62FqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKX6G5C-es Under Armour UA Fast Left Chest 2.0 SS Deportiva De Manga Corta  Camisetas para Hombre  Blanco  S'
+slug: 'B07SKX6G5C-es Under Armour UA Fast Left Chest 2.0 SS Deportiva De Manga...'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41msztzI0IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRH4Y2P-es IKOHS SWEETMIX - Batidora de Varillas Eléctrica con Base  Amasadora  500w  5 Velocidades con Función Turbo  Acero Inoxidable  Reposteria  2 Tipos de Varillas  Amasar  Mezclar  Montar  Color Negro-Gris'
+slug: 'B07XRH4Y2P-es IKOHS SWEETMIX - Batidora de Varillas Eléctrica con Base...'
+tags: 
 actualPrice: 22.91 EUR
 currency: EUR
 price: 22.91

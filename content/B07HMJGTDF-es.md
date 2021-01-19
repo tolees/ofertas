@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41h1RofyTkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMJGTDF-es Nike W Air Zoom Structure 22  Zapatillas de Running para Mujer  Negro  Black/White/Gridiron 002   41 EU'
+slug: 'B07HMJGTDF-es Nike W Air Zoom Structure 22 Zapatillas de Running para...'
+tags: 
 actualPrice: 68.8 EUR
 currency: EUR
 price: 68.8

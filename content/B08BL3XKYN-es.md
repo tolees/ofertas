@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YaZUl-cTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BL3XKYN-es Lima Electrica Pies  Pedicura Profesional Durezas LimaPies Callos Pies Electrico 3 rodillos  2 Velocidades  Recargable por USB  Apagado Auto de 15 minutos  LED integrado '
+slug: 'B08BL3XKYN-es Lima Electrica Pies Pedicura Profesional Durezas LimaPies...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

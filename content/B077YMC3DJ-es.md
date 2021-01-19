@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wGDKf4YNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YMC3DJ-es Sylvie Flirty Swimwear Britta  Trikini para Mujer  Multicolor  Flower Print 8888   40  Talla del fabricante: 38A '
+slug: 'B077YMC3DJ-es Sylvie Flirty Swimwear Britta Trikini para Mujer...'
+tags: 
 actualPrice: 17.14 EUR
 currency: EUR
 price: 17.14

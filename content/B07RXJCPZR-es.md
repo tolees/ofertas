@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414NRspABbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXJCPZR-es New Balance Ryval Run  Zapatillas para Correr de Carretera para Hombre  Negro  Black Lb1   40.5 EU'
+slug: 'B07RXJCPZR-es New Balance Ryval Run Zapatillas para Correr de Carretera...'
+tags: 
 actualPrice: 30.22 EUR
 currency: EUR
 price: 30.22

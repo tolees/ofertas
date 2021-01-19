@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pH04D+x5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AB2KSYE-es Einhell 4511396 Power X-Change - Batería de repuesto  18 V  4.0 Ah  tiempo de carga de 60 minutos'
+slug: 'B01AB2KSYE-es Einhell 4511396 Power X-Change - Batería de repuesto 18 V...'
+tags: 
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

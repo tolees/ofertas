@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z35anVfLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXWVNLH-es LEWOTE Airpods Carcasa de Silicona Compatible con Airpods de Apple 1 y 2 [Diseño de Dibujos][Niñas o Parejas]  Captain America Shield '
+slug: 'B07YXWVNLH-es LEWOTE Airpods Carcasa de Silicona Compatible con Airpods...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HaJhei8AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082FCYN3H-es Tableta de Escritura LCD Almohadilla  8 5 Pulgadas Tablero de Dibujo para Niños Gráfico Electrónico Tablero de Graffiti para la Oficina de la Escuela en el Hogar Regalo para niños  Negro '
+slug: 'B082FCYN3H-es Tableta de Escritura LCD Almohadilla 8 5 Pulgadas Tablero...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

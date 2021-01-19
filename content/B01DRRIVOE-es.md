@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pUajeDceL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DRRIVOE-es Quantum Abacus Juego de Mesa magnético  tamaño Compacto de Viaje : Ajedrez - Piezas magnéticas  Tablero Plegable  20x20x2cm  Mod. SC5477  DE '
+slug: 'B01DRRIVOE-es Quantum Abacus Juego de Mesa magnético tamaño Compacto de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

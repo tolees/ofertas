@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qAi7lK6eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5CGXCJ-es Love MoschinoJc4056pp1aMujerBolsos bandoleraNegro  Negro 8x17x25 centimeters  W x H x L '
+slug: 'B07S5CGXCJ-es Love MoschinoJc4056pp1aMujerBolsos bandoleraNegro Negro...'
+tags: 
 actualPrice: 101.07 EUR
 currency: EUR
 price: 101.07

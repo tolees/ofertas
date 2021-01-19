@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61NViMD9VLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088KF68LD-es Mapa Mundi Rascar Regalos Originales - Regalos Curiosos para Hombre Mujer Mapamundi Rascar + Bono Mapa Rascable Europa  Póster del Mapa Mundi de Rascar con Tubo de Regalo  Regalos Mujer & Hombre'
+slug: 'B088KF68LD-es Mapa Mundi Rascar Regalos Originales - Regalos Curiosos...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

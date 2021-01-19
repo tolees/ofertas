@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41shxsrD3TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYQ21ZR-es Merrell Waterpro Maipo 2  Zapatillas Impermeables para Mujer  Negro  Black   38.5 EU'
+slug: 'B07DYQ21ZR-es Merrell Waterpro Maipo 2 Zapatillas Impermeables para...'
+tags: 
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

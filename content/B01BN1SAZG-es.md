@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EGWjUSGgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BN1SAZG-es ISDIN Lambdapil Cápsulas Anticaída del Cabello  Fortalece el Cabello y Reduce la Caída del Mismo  180 Cápsulas'
+slug: 'B01BN1SAZG-es ISDIN Lambdapil Cápsulas Anticaída del Cabello Fortalece...'
+tags: 
 actualPrice: 38.8 EUR
 currency: EUR
 price: 38.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Bxkba2pJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QNWHSQS-es Dellemade Sputnik - Lámpara de araña de 6 luces vintage para comedor  salón  cocina  oficina  cafetería  restaurante  color negro'
+slug: 'B07QNWHSQS-es Dellemade Sputnik - Lámpara de araña de 6 luces vintage...'
+tags: 
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

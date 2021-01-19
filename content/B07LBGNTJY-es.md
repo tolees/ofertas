@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C+N5OPm7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBGNTJY-es Value Pack Recién Nacido Bebé  LANSKIRT 11PCS Bebé Niña Niño Dibujos Animados Manga Larga Tops + Sombrero + Dos Pantalones + Conjunto de Traje Babero  Multicolor C  0-3 Meses '
+slug: 'B07LBGNTJY-es Value Pack Recién Nacido Bebé LANSKIRT 11PCS Bebé Niña...'
+tags: 
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

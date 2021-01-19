@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415g6A1Zz4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZS7YCJQ-es Houzetek Comedero Automático Gatos/Perros dispensador de Comida para Perros con Cámara HD de 1080p  WiFi con App Control Recordatorio Visión Nocturna'
+slug: 'B07ZS7YCJQ-es Houzetek Comedero Automático Gatos/Perros dispensador de...'
+tags: 
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

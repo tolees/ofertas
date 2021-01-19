@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31i55iFm2xL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQ6ZDJK-es Puma Basket Crush Wn s  Zapatillas para Mujer  Blanco White-Hibiscus  38.5 EU'
+slug: 'B07FQ6ZDJK-es Puma Basket Crush Wn s Zapatillas para Mujer Blanco White-...'
+tags: 
 actualPrice: 20.04 EUR
 currency: EUR
 price: 20.04

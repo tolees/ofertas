@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wf6OAvfyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZ6GZXJ-es ITECHNIK Recambios Cepillo Compatible Oral B  Cabezal de Recambio Para Oral-B Cepillo de Dientes Eléctrico Floss cabezales para cepillos  8 '
+slug: 'B07XZ6GZXJ-es ITECHNIK Recambios Cepillo Compatible Oral B Cabezal de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41J-UZ9t-EL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B015PKR1ME-es Philips CAFETERAS  1 Liter  Plástico  Negro'
+slug: 'B015PKR1ME-es Philips CAFETERAS 1 Liter Plástico Negro'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

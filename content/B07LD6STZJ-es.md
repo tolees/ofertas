@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sm1Uh3X9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LD6STZJ-es New Balance Q Speed Crew Running Short Bañador  Hombre  Negro  XX-Large'
+slug: 'B07LD6STZJ-es New Balance Q Speed Crew Running Short Bañador Hombre...'
+tags: 
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4119yzPV5ML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3TTH5X-es IOCHIC Patinete Eléctrico con Bluetooth  Niños Unisex  Talla Única Color Negro'
+slug: 'B07L3TTH5X-es IOCHIC Patinete Eléctrico con Bluetooth Niños Unisex Talla...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

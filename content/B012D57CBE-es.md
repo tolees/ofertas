@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I7gRVgdiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012D57CBE-es NITROPC - PC Gamer VX *Rebajas de marzo 2020*  CPU Ryzen  4 x 3 40Ghz  T. Gráfica Nvidia GTX 1650 4GB  SSD 240GB  Hdd 2TB  Ram 16GB  + WIFI de regalo. pc gamer  pc gaming  pc para juegos  ordenador juegos'
+slug: 'B012D57CBE-es NITROPC - PC Gamer VX *Rebajas de marzo 2020* CPU Ryzen 4...'
+tags: 
 actualPrice: 704.21 EUR
 currency: EUR
 price: 704.21

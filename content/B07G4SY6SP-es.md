@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CjIp8clPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4SY6SP-es Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable 1791560'
+slug: 'B07G4SY6SP-es Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 139.95 EUR
 currency: EUR
 price: 139.95

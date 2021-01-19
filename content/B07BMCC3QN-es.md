@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aFON9uFzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMCC3QN-es NIVEA MEN Active Clean Champú para hombre para una limpieza profunda del cabello y el cuero cabelludo  champú masculino refrescante -pack de 12 x 250 ml'
+slug: 'B07BMCC3QN-es NIVEA MEN Active Clean Champú para hombre para una...'
+tags: 
 actualPrice: 21.47 EUR
 currency: EUR
 price: 21.47

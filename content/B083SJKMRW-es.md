@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t+nf0FIFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SJKMRW-es Home Fleek - Envases de Vidrio para Alimentos | 4 Recipientes + 4 Tapas | Herméticos | Sin BPA  Set 4  Rectangular Azul '
+slug: 'B083SJKMRW-es Home Fleek - Envases de Vidrio para Alimentos | 4...'
+tags: 
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

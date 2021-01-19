@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07572HYLD-es Real Farm'
+tags: 
 actualPrice: 27.7 EUR
 currency: EUR
 price: 27.7

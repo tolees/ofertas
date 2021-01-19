@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412gY33Q4yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSC9QSG-es classic Family Game Mini Consola HDMI - con 621 Videojuego de TV'
+slug: 'B07GSC9QSG-es classic Family Game Mini Consola HDMI - con 621 Videojuego...'
+tags: 
 actualPrice: 50.9 EUR
 currency: EUR
 price: 50.9

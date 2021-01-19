@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412oz-AYevL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0094D5MBG-es Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Black 996  50 EU'
+slug: 'B0094D5MBG-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Black...'
+tags: 
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

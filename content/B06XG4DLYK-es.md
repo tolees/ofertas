@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GOjscvwTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XG4DLYK-es Bosch Professional Sistema 12V Nivel Láser GCL 2-50 C  1 batería 12V + cargador  láser rojo  interior  con función aplicación  soporte  pinza  alcance visible: hasta 20 m  L-BOXX '
+slug: 'B06XG4DLYK-es Bosch Professional Sistema 12V Nivel Láser GCL 2-50 C 1...'
+tags: 
 actualPrice: 277.9 EUR
 currency: EUR
 price: 277.9

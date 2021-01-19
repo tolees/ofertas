@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XcWrr1M6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZLD2ZN-es adidas Tastigo19 SHO Pantalones Cortos de Deporte  Hombre  Power Red/White  910Y'
+slug: 'B07JZLD2ZN-es adidas Tastigo19 SHO Pantalones Cortos de Deporte Hombre...'
+tags: 
 actualPrice: 15.42 EUR
 currency: EUR
 price: 15.42

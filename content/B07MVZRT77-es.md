@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v7vGe3wtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVZRT77-es RATEL Funda Protectora de Sombrilla  Impermeable Resistente al Agua al Aire Libre Patio  Oxford 420D Protectora para Parasol de Jardín Intemperie 9-11ft Bolsa de Almacenamiento con Cremallera'
+slug: 'B07MVZRT77-es RATEL Funda Protectora de Sombrilla Impermeable Resistente...'
+tags: 
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312kVlKUs2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VTGF5S-es Star Wars-Funko SW-EP8 Figura de Vinilo Pop 9: A Character  Episodio 8  Multicolor 14750'
+slug: 'B071VTGF5S-es Star Wars-Funko SW-EP8 Figura de Vinilo Pop 9: A Character...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

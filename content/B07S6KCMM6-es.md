@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xEnLtdBgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6KCMM6-es MOSNOVO [Transparente Funda iPhone XR con Absorción de Choque Resistente para Apple iPhone XR [Avocado]'
+slug: 'B07S6KCMM6-es MOSNOVO [Transparente Funda iPhone XR con Absorción de...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

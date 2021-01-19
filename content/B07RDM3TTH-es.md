@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EI-nFyEtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDM3TTH-es adidas Ultraboost 19 W  Zapatillas de Running para Mujer  Negro  Core Black/Core Black/FTWR White Core Black/Core Black/FTWR White   38 EU'
+slug: 'B07RDM3TTH-es adidas Ultraboost 19 W Zapatillas de Running para Mujer...'
+tags: 
 actualPrice: 89.98 EUR
 currency: EUR
 price: 89.98

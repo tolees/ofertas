@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FxG6txTfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGXQBFP-es Salomon out Night 30+5 Mochila  Capacidad 35 L  Unisex Adulto  Amarillo  Citronelle   S/M'
+slug: 'B07LGXQBFP-es Salomon out Night 30+5 Mochila Capacidad 35 L Unisex...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

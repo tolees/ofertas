@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21FOe48q8PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081C4NKVG-es Divit Shilp Streamline Ganchillo con mango ergonómico para tejer crochet | Ganchillo de tejer de madera mixta de 17.8 cm  para tejido artesanal de hilo | ¡El mejor regalo!  4.5 mm '
+slug: 'B081C4NKVG-es Divit Shilp Streamline Ganchillo con mango ergonómico para...'
+tags: 
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

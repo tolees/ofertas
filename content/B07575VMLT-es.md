@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-UALpVdgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07575VMLT-es Garmin Vívofit Jr. 2 - Monitor de actividad para niños  Captain America  Banda elástica   Edad 6+'
+slug: 'B07575VMLT-es Garmin Vívofit Jr. 2 - Monitor de actividad para niños...'
+tags: 
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

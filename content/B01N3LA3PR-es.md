@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51d-xkKqq4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3LA3PR-es The Prisioner  El prisionero  [DVD]'
+slug: 'B01N3LA3PR-es The Prisioner El prisionero [DVD]'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

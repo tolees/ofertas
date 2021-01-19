@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jQ+z1NKEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4PSDJC-es Caja de luz iluminadora de película de rayos X LED  Panel de luz de visor de rayos X  Visor de película de dientes AC110-220V Caja de vista LED con abrazadera de chip  EU Plug '
+slug: 'B07Q4PSDJC-es Caja de luz iluminadora de película de rayos X LED Panel...'
+tags: 
 actualPrice: 21.09 EUR
 currency: EUR
 price: 21.09

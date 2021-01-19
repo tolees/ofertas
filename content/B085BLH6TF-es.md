@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v7oFPNcML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085BLH6TF-es YIMINYUER Cómodas alfombras para niños Juego para niños Ejercicio para colchonetas Muebles para Jugar Juego Modernización de EVA Naranja Azul Verde R02R07R08G301020'
+slug: 'B085BLH6TF-es YIMINYUER Cómodas alfombras para niños Juego para niños...'
+tags: 
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

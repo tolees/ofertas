@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZPcxFx4AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M63UUPK-es Air Wick Freshmatic Max Recambio Ambientador Oasis Turquesa - Paquete de 2 x 25 cl - Total: 0 5 l'
+slug: 'B01M63UUPK-es Air Wick Freshmatic Max Recambio Ambientador Oasis...'
+tags: 
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

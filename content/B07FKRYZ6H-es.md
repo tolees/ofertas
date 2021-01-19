@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OmKe-1V2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKRYZ6H-es Bestway 65303 - Tabla Paddle Surf Hinchable Hydro-Force Oceana 305x84x12 cm'
+slug: 'B07FKRYZ6H-es Bestway 65303 - Tabla Paddle Surf Hinchable Hydro-Force...'
+tags: 
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

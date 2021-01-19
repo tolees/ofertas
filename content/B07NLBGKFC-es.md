@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QdUMaWXuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLBGKFC-es Skechers Bobs Squad  Zapatillas para Niñas  Gris  Gray/Hot Pink Glitter & Embroidered Sneaker Gyhp   38 EU'
+slug: 'B07NLBGKFC-es Skechers Bobs Squad Zapatillas para Niñas Gris Gray/Hot...'
+tags: 
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78

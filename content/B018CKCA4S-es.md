@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TyXea29SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018CKCA4S-es Cambiador Portátil de Pañales para Bebé - Kit Cambiador de Viaje - Completamente Acolchado - Esterilla Lavable de Quita y Pon - Para Usar Fuera y en la Casa - Perfecto como Regalo'
+slug: 'B018CKCA4S-es Cambiador Portátil de Pañales para Bebé - Kit Cambiador de...'
+tags: 
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

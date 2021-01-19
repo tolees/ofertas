@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZWIWQIRpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D91S6NC-es KabelDirekt - Adaptador USB C a DisplayPort DP - 0 15 m -  4K/60Hz  USB C 3.1 y Thunderbolt 3  Adecuado para MacBook Pro 2016/2017  MacBook 12“  Chromebook Pixel y Otros Dispositivos '
+slug: 'B07D91S6NC-es KabelDirekt - Adaptador USB C a DisplayPort DP - 0 15 m -...'
+tags: 
 actualPrice: 7.82 EUR
 currency: EUR
 price: 7.82

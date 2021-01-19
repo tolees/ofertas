@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TJ9avQ1ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088D6BDGW-es Suhctup Funda Compatible para Xiaomi Mi 8 SE Carcasa Transparente Dibujos Animal Suave Silicona TPU Gel Bumper Ultra Pulgada Antigolpes Crystal Clear Protector Piel Case Cover Pereza 5'
+slug: 'B088D6BDGW-es Suhctup Funda Compatible para Xiaomi Mi 8 SE Carcasa...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

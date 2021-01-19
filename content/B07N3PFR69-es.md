@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wmsFVn98L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3PFR69-es IPOTCH 3 Pares de Cordones para Deportistas  Bloqueo Duradero de Bolsa para Reemplazar Bloques de Barriles Perdidos Que Faltan'
+slug: 'B07N3PFR69-es IPOTCH 3 Pares de Cordones para Deportistas Bloqueo...'
+tags: 
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

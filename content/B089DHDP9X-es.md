@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3192xtaKHGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089DHDP9X-es Sandalia Plana para Mujer  Nude  37 EU'
+slug: 'B089DHDP9X-es Sandalia Plana para Mujer Nude 37 EU'
+tags: 
 actualPrice: 32.4 EUR
 currency: EUR
 price: 32.4

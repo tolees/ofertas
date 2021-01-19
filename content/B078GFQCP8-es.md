@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GFQCP8-es L Oreal Paris Stylista Big Hair Spray - 150 ml'
+tags: 
 actualPrice: 2.45 EUR
 currency: EUR
 price: 2.45

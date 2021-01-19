@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wYCQ0amvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B002DYJ0N4-es Optimum Nutrition Suplemento Dietético en Polvo "Gold Standard 100% Caseina"  Sabor Vainilla - 1820 g'
+slug: 'B002DYJ0N4-es Optimum Nutrition Suplemento Dietético en Polvo "Gold...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

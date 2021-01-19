@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M1qrqXs7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHY89JG-es New Balance Fresh Foam Roav Trail m  Zapatillas de Running para Asfalto para Mujer  Plateado  Light RG   43 EU'
+slug: 'B07RHY89JG-es New Balance Fresh Foam Roav Trail m Zapatillas de Running...'
+tags: 
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

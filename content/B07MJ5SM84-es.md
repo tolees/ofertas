@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KOOIoYXvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJ5SM84-es Sylvialuca MCP4725 I2C DAC Breakout Development Module 12Bit Resolution - Rojo'
+slug: 'B07MJ5SM84-es Sylvialuca MCP4725 I2C DAC Breakout Development Module...'
+tags: 
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

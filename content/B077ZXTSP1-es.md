@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31M-O9P1QqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZXTSP1-es Under Armour Coldgear Leggings  Hombre  Negro  Black/Charcoal 001   L'
+slug: 'B077ZXTSP1-es Under Armour Coldgear Leggings Hombre Negro Black/Charcoal...'
+tags: 
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

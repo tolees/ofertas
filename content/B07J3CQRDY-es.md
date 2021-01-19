@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c-XXZ3TnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3CQRDY-es Under Armour Playoff 2.0 Polo  Hombre  Azul  Academy/Optic Purple 414   S'
+slug: 'B07J3CQRDY-es Under Armour Playoff 2.0 Polo Hombre Azul Academy/Optic...'
+tags: 
 actualPrice: 12.36 EUR
 currency: EUR
 price: 12.36

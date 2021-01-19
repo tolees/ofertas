@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31c8Eu2uNIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTJGND4-es Skechers Be-Lux-Daylights  Merceditas para Mujer  Azul  Navy Mesh/Druabuck/Off White Trim Nvy   36 EU'
+slug: 'B07TTJGND4-es Skechers Be-Lux-Daylights Merceditas para Mujer Azul Navy...'
+tags: 
 actualPrice: 31.96 EUR
 currency: EUR
 price: 31.96

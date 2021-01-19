@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31heJ3RI30L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6SG9BK-es non-brand 10 Pedazos de Protector de Borde de Seguridad Flexible  Antideslizante Accesorios de DIY - marrón'
+slug: 'B07D6SG9BK-es non-brand 10 Pedazos de Protector de Borde de Seguridad...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

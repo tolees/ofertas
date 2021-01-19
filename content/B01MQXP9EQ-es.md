@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B2a5cCvaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQXP9EQ-es Jack & Jones Jjimarco Jjenzo WW 420 Noos Pantalones  Azul  Navy Blazer   W36/L32  Talla del Fabricante: 36  para Hombre'
+slug: 'B01MQXP9EQ-es Jack & Jones Jjimarco Jjenzo WW 420 Noos Pantalones Azul...'
+tags: 
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51i8zEVx7YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00005NPSA-es Varta CR2430 - Pack de 1 pila  Litio  3V  300 mAh '
+slug: 'B00005NPSA-es Varta CR2430 - Pack de 1 pila Litio 3V 300 mAh'
+tags: 
 actualPrice: 1.18 EUR
 currency: EUR
 price: 1.18

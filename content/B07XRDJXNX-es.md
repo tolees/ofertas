@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IbZ2aUWHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRDJXNX-es HOMECHO Mesa Auxiliar con 3 Estantes Mesa para Lámpara  Teléfono  Planta de Bambú y DM de Color Blanco 60 x 30 x 64.5cm'
+slug: 'B07XRDJXNX-es HOMECHO Mesa Auxiliar con 3 Estantes Mesa para Lámpara...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

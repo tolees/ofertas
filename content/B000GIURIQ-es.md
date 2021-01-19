@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g+bP0y7KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GIURIQ-es Optimum Nutrition ON Gold Standard 100% whey proteína en polvo suplementos deportivos con glutamina y aminoacidos micronizados incluyendo BCAA  fresa deliciosa  30 porciones  900 g'
+slug: 'B000GIURIQ-es Optimum Nutrition ON Gold Standard 100% whey proteína en...'
+tags: 
 actualPrice: 23.42 EUR
 currency: EUR
 price: 23.42

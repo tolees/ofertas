@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517orosO2jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVHTZJQ-es Kipling - Card Keeper  Carteras Mujer  Morado  Dark Plum   7x10x1 cm  B x H T '
+slug: 'B07MVHTZJQ-es Kipling - Card Keeper Carteras Mujer Morado Dark Plum...'
+tags: 
 actualPrice: 14.53 EUR
 currency: EUR
 price: 14.53

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xbeypDHGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHY7GW4-es Funko-Pocket Keychain: Toy Story: Alien Pop Llavero  for Unisex in Standard Made of Vinilo  Multicolor  37055 '
+slug: 'B07MHY7GW4-es Funko-Pocket Keychain: Toy Story: Alien Pop Llavero for...'
+tags: 
 actualPrice: 4.3 EUR
 currency: EUR
 price: 4.3

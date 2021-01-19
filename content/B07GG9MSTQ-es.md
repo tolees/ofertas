@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+kNM+AYAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GG9MSTQ-es Philips Centro de planchado GC8940/20 Plancha sin quemaduras ni necesidad de realizar ajustes de la temperatura  autoapagado  ultraligera  Steamglide Advanced  7.5 bares  golpe de vapor 470 gr  azul'
+slug: 'B07GG9MSTQ-es Philips Centro de planchado GC8940/20 Plancha sin...'
+tags: 
 actualPrice: 148.42 EUR
 currency: EUR
 price: 148.42

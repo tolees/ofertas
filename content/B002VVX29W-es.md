@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BCSghNXPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002VVX29W-es Bourjois Contour Clubbing Delineador de Ojos  Tono 45 Blue remix - 1.20 gr'
+slug: 'B002VVX29W-es Bourjois Contour Clubbing Delineador de Ojos Tono 45 Blue...'
+tags: 
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

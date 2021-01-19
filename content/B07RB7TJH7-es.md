@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HDVHFvssL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB7TJH7-es Columbia Altitude Aspect Forro Polar  Hombre  Azul  Dark Mountain   M'
+slug: 'B07RB7TJH7-es Columbia Altitude Aspect Forro Polar Hombre Azul Dark...'
+tags: 
 actualPrice: 55.89 EUR
 currency: EUR
 price: 55.89

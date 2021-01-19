@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H5xDsXb9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTQD4PF-es Zetiling Kids Mini Kitchen Toys  Toy Kitchen Playset  Pretend Role Play Toy Set Kids Girls Funny Kitchenware Playing House Regalo de cumpleaños'
+slug: 'B07VTQD4PF-es Zetiling Kids Mini Kitchen Toys Toy Kitchen Playset...'
+tags: 
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

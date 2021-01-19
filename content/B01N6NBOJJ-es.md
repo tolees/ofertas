@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dtINknXjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6NBOJJ-es Sony MDR-XB550APG Auriculares de Diadema Extra Bass  Micrófono Integrado Compatible con Smartphones  Diadema Metálica Adaptable   Color Verde  Talla Única'
+slug: 'B01N6NBOJJ-es Sony MDR-XB550APG Auriculares de Diadema Extra Bass...'
+tags: 
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

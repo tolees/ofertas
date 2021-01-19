@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31R6R+XpkzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFYFJHC-es PUMA Auriz V Jr  Zapatillas de Balonmano Unisex Niños  White-Green Glimmer  38 EU'
+slug: 'B07KFYFJHC-es PUMA Auriz V Jr Zapatillas de Balonmano Unisex Niños...'
+tags: 
 actualPrice: 8.91 EUR
 currency: EUR
 price: 8.91

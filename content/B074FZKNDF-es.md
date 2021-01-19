@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EGNNzrSZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FZKNDF-es Revell Maqueta Wars Imperial Star Destroyer  Kit Modelo  Escala 1:2700  6719  06719   60 0 cm de Largo'
+slug: 'B074FZKNDF-es Revell Maqueta Wars Imperial Star Destroyer Kit Modelo...'
+tags: 
 actualPrice: 78.25 EUR
 currency: EUR
 price: 78.25

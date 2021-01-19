@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wWqcAYeJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QRXP89-es Cable Guy - Star Wars "Darth Vader" Soporte para teléfono y controlador  negro'
+slug: 'B075QRXP89-es Cable Guy - Star Wars "Darth Vader" Soporte para teléfono...'
+tags: 
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

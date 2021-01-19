@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DzhYKApvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003BU90CK-es Wolfcraft 4135000 4135000-1 cúter de Seguridad de plástico retráctil Incl. Cuchilla Trapezoidal'
+slug: 'B003BU90CK-es Wolfcraft 4135000 4135000-1 cúter de Seguridad de plástico...'
+tags: 
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

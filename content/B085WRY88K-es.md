@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vMzXPsFpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085WRY88K-es Diadema de Flores Corona 5 piezas Corona de Flores Girasol Girasol Diadema Multi Color con Cinta Elástica Ajustable para Mujer o Niñas Actuaciones Fiestas Bodas Festivales'
+slug: 'B085WRY88K-es Diadema de Flores Corona 5 piezas Corona de Flores Girasol...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

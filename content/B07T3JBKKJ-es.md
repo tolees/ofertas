@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410fedpak+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3JBKKJ-es MANZI - 3 pares de medias de ballet para mujer y niña 40 Denier 3 pares de pies desnudos naturales edad 4-6'
+slug: 'B07T3JBKKJ-es MANZI - 3 pares de medias de ballet para mujer y niña 40...'
+tags: 
 actualPrice: 17.42 EUR
 currency: EUR
 price: 17.42

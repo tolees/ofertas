@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415sokc+rnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C5TSIFM-es Canon Dcc-1880 - Funda para Cámara Canon Powershot G7X MK II  Negro'
+slug: 'B01C5TSIFM-es Canon Dcc-1880 - Funda para Cámara Canon Powershot G7X MK...'
+tags: 
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

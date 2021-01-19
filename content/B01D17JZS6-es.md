@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PU-247aKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D17JZS6-es Samsonite Paradiver Light Bolsa de Viaje con Ruedas  S  55Cm-51 L   Negro'
+slug: 'B01D17JZS6-es Samsonite Paradiver Light Bolsa de Viaje con Ruedas S...'
+tags: 
 actualPrice: 99.5 EUR
 currency: EUR
 price: 99.5

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ePECvK%2B1L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RPIVJL4-es adidas Zx Flux  Zapatillas Unisex para Niños  Negro  Black/black/footwear White 0   29 EU'
+slug: 'B00RPIVJL4-es adidas Zx Flux Zapatillas Unisex para Niños Negro...'
+tags: 
 actualPrice: 23.22 EUR
 currency: EUR
 price: 23.22

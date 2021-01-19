@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31M+P-DOEmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTPNP3P-es FIND - Camouflaged Pink  Perfilador de labios n.7 + Líquido de labios brillante n.7 '
+slug: 'B07CTPNP3P-es FIND - Camouflaged Pink Perfilador de labios n.7 + Líquido...'
+tags: 
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

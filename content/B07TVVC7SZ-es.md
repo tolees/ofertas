@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dD-7jiQjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVVC7SZ-es Skechers Equalizer 4.0  Zapatillas para Hombre  Azul  Navy Engineered Mesh/Hot Melt/Trim Nvy   43 EU'
+slug: 'B07TVVC7SZ-es Skechers Equalizer 4.0 Zapatillas para Hombre Azul Navy...'
+tags: 
 actualPrice: 33.92 EUR
 currency: EUR
 price: 33.92

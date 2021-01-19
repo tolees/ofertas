@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31HuFbbvPXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B001RHHYP4-es AIM - Alfombrilla Gaming Profesional  Superficie de Tela Avanzada  Bordes Reforzados  Base de Caucho Natural con Agarre de Seguridad  Alta Comodidad  XL-Extra Grande   Color Negro'
+slug: 'B001RHHYP4-es AIM - Alfombrilla Gaming Profesional Superficie de Tela...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

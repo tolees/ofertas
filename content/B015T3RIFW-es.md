@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sJr0QwCdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015T3RIFW-es Boxeo Midbass WRAPSCBLK-V5 in-Ear-Auricular con Classic Wrap Negro'
+slug: 'B015T3RIFW-es Boxeo Midbass WRAPSCBLK-V5 in-Ear-Auricular con Classic...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

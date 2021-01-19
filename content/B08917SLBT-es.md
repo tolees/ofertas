@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tszKbcbJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08917SLBT-es Amoladora Angular 18V Brushless  POPOMAN Angular Sin Escobillas 10000 RPM  batería de 4.0Ah  con mango lateral antivibración  5 ruedas de molienda Posición del mango auxiliar de 3  Cargador rápido'
+slug: 'B08917SLBT-es Amoladora Angular 18V Brushless POPOMAN Angular Sin...'
+tags: 
 actualPrice: 74.79 EUR
 currency: EUR
 price: 74.79

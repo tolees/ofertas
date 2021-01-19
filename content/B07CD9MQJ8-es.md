@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41warVjzAKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CD9MQJ8-es SALOMON Brigade Casco de esquí y Snowboard para Hombre  con Sistema de Audio  Carcasa ABS  Tecnología Smart  Circunferencia  Negro  All Black   M  56-59 cm '
+slug: 'B07CD9MQJ8-es SALOMON Brigade Casco de esquí y Snowboard para Hombre con...'
+tags: 
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

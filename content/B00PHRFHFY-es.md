@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ej4HH3hWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PHRFHFY-es PrimeMatik - Poste Separador 2 uds Negro con Cinta Extensible de 3 Metros 320 x 63 x 910 mm'
+slug: 'B00PHRFHFY-es PrimeMatik - Poste Separador 2 uds Negro con Cinta...'
+tags: 
 actualPrice: 90.12 EUR
 currency: EUR
 price: 90.12

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CCpTwB32L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFGP5DL-es RAVIAD 3 en 1 Multi Cable de Carga  Nylon Multi USB Cargador Cable Múltiples Micro USB Tipo C Compatible con Samsung Galaxy S10/S9/S8/S7/S6  Huawei P30/P20/P10  Xiaomi Redmi Note 7/Mi A3/A2/A1'
+slug: 'B07VFGP5DL-es RAVIAD 3 en 1 Multi Cable de Carga Nylon Multi USB...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lo-44txvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0029ETIAI-es Trixie Rejilla Ventilación para Coche  30-110 cm  Negro'
+slug: 'B0029ETIAI-es Trixie Rejilla Ventilación para Coche 30-110 cm Negro'
+tags: 
 actualPrice: 8.13 EUR
 currency: EUR
 price: 8.13

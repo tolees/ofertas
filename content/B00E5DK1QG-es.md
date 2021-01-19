@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51afJ+gK66L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E5DK1QG-es Beaphar Pipetas Calming Spot On para Perros  3 Unidades'
+slug: 'B00E5DK1QG-es Beaphar Pipetas Calming Spot On para Perros 3 Unidades'
+tags: 
 actualPrice: 5.21 EUR
 currency: EUR
 price: 5.21

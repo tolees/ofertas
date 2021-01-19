@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GR+HSu2SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY8LL62-es Wrangler Sign Off Crew Error:#  Gris  Mid Grey Mel A37   Medium para Hombre'
+slug: 'B07FY8LL62-es Wrangler Sign Off Crew Error:# Gris Mid Grey Mel A37...'
+tags: 
 actualPrice: 27.85 EUR
 currency: EUR
 price: 27.85

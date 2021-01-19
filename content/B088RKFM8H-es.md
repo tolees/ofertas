@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317RvkypCUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088RKFM8H-es Dispensador Automático de Jabón o hidroalcoholico  Sensor de Movimiento por Infrarrojos  Base Impermeable  Interruptor Ajustable'
+slug: 'B088RKFM8H-es Dispensador Automático de Jabón o hidroalcoholico Sensor...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

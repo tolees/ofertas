@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21ncsbpdCbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGX433V-es L Oréal Paris Les Chocolats Labial Líquido Mate  Tono Marrón Nude 866 Truffa Mania'
+slug: 'B07CGX433V-es L Oréal Paris Les Chocolats Labial Líquido Mate Tono...'
+tags: 
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

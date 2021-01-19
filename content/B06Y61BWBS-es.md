@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31DtZ-8-ZyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y61BWBS-es Joma Treviso Pantalones Cortos Equipamiento  Hombre  Azul Marino  4XS-3XS'
+slug: 'B06Y61BWBS-es Joma Treviso Pantalones Cortos Equipamiento Hombre Azul...'
+tags: 
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

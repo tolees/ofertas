@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wCqrOrTxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WPBMLWK-es Cable USB-A 2.0 a USB Tipo C Certificado USB-IF con Forro de Nylon Trenzado de 4.3 MML - 1 Metro de Longitud - Color Rose Gold'
+slug: 'B06WPBMLWK-es Cable USB-A 2.0 a USB Tipo C Certificado USB-IF con Forro...'
+tags: 
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

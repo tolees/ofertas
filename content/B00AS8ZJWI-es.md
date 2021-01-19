@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AS8ZJWI-es Cata M98536 - Extractor helicoidal lhv-225'
+tags: 
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

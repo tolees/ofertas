@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MTHXdahBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HQGBSV-es Vestigia® - Monorim V1 & V2 Soporte Guardabarros Frontal para Reforzar Suspensión - Patinete Xiaomi m365 y Pro - Soporte de Amortiguador para Scooter Eléctrico  Negro '
+slug: 'B083HQGBSV-es Vestigia® - Monorim V1 & V2 Soporte Guardabarros Frontal...'
+tags: 
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

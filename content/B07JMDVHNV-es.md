@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WH7GXatbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMDVHNV-es GARDENA 750 B 12007-20 Cortarramas EnergyCut la podadera compacta con engranaje integrado para los trabajos de poda más exigentes  principio bypass'
+slug: 'B07JMDVHNV-es GARDENA 750 B 12007-20 Cortarramas EnergyCut la podadera...'
+tags: 
 actualPrice: 44.36 EUR
 currency: EUR
 price: 44.36

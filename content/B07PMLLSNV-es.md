@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31EDqm6prtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMLLSNV-es New Balance 373  Zapatillas para Hombre  Verde  Green/Black Green/Black   44 EU'
+slug: 'B07PMLLSNV-es New Balance 373 Zapatillas para Hombre Verde Green/Black...'
+tags: 
 actualPrice: 40 EUR
 currency: EUR
 price: 40

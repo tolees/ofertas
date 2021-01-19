@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ML1ZbqtLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTPHKLG-es Pepe Jeans Original Basic L/S PM503803 Top de manga larga  Negro  Black 999   X-Small para Hombre'
+slug: 'B06XTPHKLG-es Pepe Jeans Original Basic L/S PM503803 Top de manga larga...'
+tags: 
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yQS0FmRfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0794XQK5S-es Echo Plus  2.ª generación  - Sonido de alta calidad y controlador de Hogar digital integrado  tela de color antracita'
+slug: 'B0794XQK5S-es Echo Plus 2.ª generación - Sonido de alta calidad y...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

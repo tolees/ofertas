@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51E47KBv4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL4F9HK-es RECAMBIOS DREYMA Filtro METÁLICO Campana Extractor BALAY 3BD764X  LC48955/01  2MEB60 31X25 C.O. 353110'
+slug: 'B07BL4F9HK-es RECAMBIOS DREYMA Filtro METÁLICO Campana Extractor BALAY...'
+tags: 
 actualPrice: 18.85 EUR
 currency: EUR
 price: 18.85

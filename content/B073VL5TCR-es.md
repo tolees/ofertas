@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51T+k3nOhZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073VL5TCR-es Avaspot Difusor de Aceites Esenciales  250ml humidificador de Vapor frío'
+slug: 'B073VL5TCR-es Avaspot Difusor de Aceites Esenciales 250ml humidificador...'
+tags: 
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LEjsnk2iL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNS6RKC-es adidas Forest Grove W  Zapatillas de Gimnasia para Mujer  Multicolor  Orchid Tint S18/Shock Pink/FTWR White Orchid Tint S18/Shock Pink/FTWR White   36 EU'
+slug: 'B07SNS6RKC-es adidas Forest Grove W Zapatillas de Gimnasia para Mujer...'
+tags: 
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

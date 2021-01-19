@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51eBnLgKshL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OY9EARM-es VAUDE Jacke Girls Centipede Jacket - Soft Shell para niña  Color Amarillo  Talla 10 años  140 cm  [DE 134/140]'
+slug: 'B00OY9EARM-es VAUDE Jacke Girls Centipede Jacket - Soft Shell para niña...'
+tags: 
 actualPrice: 11.64 EUR
 currency: EUR
 price: 11.64

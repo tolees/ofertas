@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZM12zxwRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD2VVQO-es Salomon XA Pro 3D GTX W  Zapatillas de Trail Running para Mujer  Negro  Black/Black/Mineral Grey   36 2/3 EU'
+slug: 'B01HD2VVQO-es Salomon XA Pro 3D GTX W Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 72.45 EUR
 currency: EUR
 price: 72.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NVOpFYRCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GODPB6U-es Baby Jogger Deluxe - Capazo  color negro'
+slug: 'B00GODPB6U-es Baby Jogger Deluxe - Capazo color negro'
+tags: 
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

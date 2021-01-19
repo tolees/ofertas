@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413luvhfQeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZX9C6B-es WateLves Leggings de Yoga para Mujer  Pantalones de Deporte  Mallas para Correr  Cintura Alta  con Bolsillos  elásticos  para Yoga  Deporte  Fitness  Mujer  Pantaloni Cropped  Gris  Extra-Large'
+slug: 'B07JZX9C6B-es WateLves Leggings de Yoga para Mujer Pantalones de Deporte...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

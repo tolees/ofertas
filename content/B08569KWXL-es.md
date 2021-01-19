@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sFpX1-5rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08569KWXL-es Sensilis Upgrade AR - Crema Reafirmante Calmante y Antirojeces para Piel Sensible - 50 ml'
+slug: 'B08569KWXL-es Sensilis Upgrade AR - Crema Reafirmante Calmante y...'
+tags: 
 actualPrice: 30.96 EUR
 currency: EUR
 price: 30.96

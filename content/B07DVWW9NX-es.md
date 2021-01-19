@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qyDCGRbqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVWW9NX-es Columbia Trans Alps F.k.t. II  Zapatillas de Running para Asfalto para Hombre  Azul  Zinc  Red Quartz 492   45 EU'
+slug: 'B07DVWW9NX-es Columbia Trans Alps F.k.t. II Zapatillas de Running para...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51unYbdKY2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVHT78V-es Kipling - Art Nc  Bolsos maletín Mujer  Naranja  Funky Orange Nc   44x27x20 cm  B x H T '
+slug: 'B07MVHT78V-es Kipling - Art Nc Bolsos maletín Mujer Naranja Funky Orange...'
+tags: 
 actualPrice: 39.34 EUR
 currency: EUR
 price: 39.34

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PPV5--zUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMSCL5T-es adidas W Zne Rev Mallas  Mujer  Negro/grisei  XS'
+slug: 'B07KMSCL5T-es adidas W Zne Rev Mallas Mujer Negro/grisei XS'
+tags: 
 actualPrice: 25.75 EUR
 currency: EUR
 price: 25.75

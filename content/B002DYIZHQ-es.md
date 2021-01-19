@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zF9T8alYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002DYIZHQ-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos con Glutamina y Aminoacidos Micronizados Incluyendo BCAA  Crema de Vainilla Francesa  29 Porciones  900 gr'
+slug: 'B002DYIZHQ-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en...'
+tags: 
 actualPrice: 23.42 EUR
 currency: EUR
 price: 23.42

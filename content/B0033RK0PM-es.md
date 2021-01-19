@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KZxfqrn4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0033RK0PM-es Wrangler Stitched Belt Brown  Cinturón para Hombre  Marrón  Mid Brown   110 cm'
+slug: 'B0033RK0PM-es Wrangler Stitched Belt Brown Cinturón para Hombre Marrón...'
+tags: 
 actualPrice: 17.53 EUR
 currency: EUR
 price: 17.53

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TrMJ9sq0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076DSBQD3-es Pajoma - Velas de té sin Perfume  100 Unidades  Tiempo de combustión: 8 Horas. Velas de té Gastro.'
+slug: 'B076DSBQD3-es Pajoma - Velas de té sin Perfume 100 Unidades Tiempo de...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

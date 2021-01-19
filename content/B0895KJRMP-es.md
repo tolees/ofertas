@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kgbX-E4nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895KJRMP-es Car Styling Platinum Power Handle Volante Volante asistido por metal Booster Spin Knob Clamp Apto para automóviles universales'
+slug: 'B0895KJRMP-es Car Styling Platinum Power Handle Volante Volante asistido...'
+tags: 
 actualPrice: 6.56 EUR
 currency: EUR
 price: 6.56

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51R5dyyRSYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004W7GYF2-es Duracell Plus AAA - Pilas Alcalinas paquete de 4  1.5 Voltios LR03 MN2400'
+slug: 'B004W7GYF2-es Duracell Plus AAA - Pilas Alcalinas paquete de 4 1.5...'
+tags: 
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

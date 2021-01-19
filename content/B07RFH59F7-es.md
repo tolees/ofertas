@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517I7Kx4L4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFH59F7-es Ferilinso Funda Para Huawei P Smart Z Funda [Reforzar la versión con cuatro esquinas][Funda protectora de la cámara]Funda protectora de silicona de piel de goma TPU prueba de goma suave Transparente '
+slug: 'B07RFH59F7-es Ferilinso Funda Para Huawei P Smart Z Funda [Reforzar la...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

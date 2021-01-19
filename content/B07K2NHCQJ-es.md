@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Kz-mmXBTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2NHCQJ-es adidas Runfalcon  Zapatillas de Running para Hombre  Rot  Active Red/Footwear White/Core Black 0   44 2/3 EU'
+slug: 'B07K2NHCQJ-es adidas Runfalcon Zapatillas de Running para Hombre Rot...'
+tags: 
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BaPKEz2cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BL4FXSM-es VeoHome - Cafetera Italiana de Acero Inoxidable 10 tazas 500 ml – Cafetera Moka Italiana para cocinas Inducción  Vitrocerámica y de Gas - Estilo Espresso – Irrompible  Segura y apta para Lavavajillas'
+slug: 'B08BL4FXSM-es VeoHome - Cafetera Italiana de Acero Inoxidable 10 tazas...'
+tags: 
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

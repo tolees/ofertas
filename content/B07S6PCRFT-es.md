@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jx1z8-15L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6PCRFT-es PUMA Electron Street  Zapatillas Unisex Adulto  Blanco White/High Risk Red/Peacoat 11  42 EU'
+slug: 'B07S6PCRFT-es PUMA Electron Street Zapatillas Unisex Adulto Blanco...'
+tags: 
 actualPrice: 34.08 EUR
 currency: EUR
 price: 34.08

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312EHb2O4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSKD2S1-es Clarks Un Tread UpGTX  Botas clásicas. para Hombre  Piel Negra Negra  46 EU'
+slug: 'B07MSKD2S1-es Clarks Un Tread UpGTX Botas clásicas. para Hombre Piel...'
+tags: 
 actualPrice: 28.83 EUR
 currency: EUR
 price: 28.83

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MExZzbSRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009AYVNMQ-es Toshiba MQ01ABD0100 - Disco duro interno  2 5"  1TB'
+slug: 'B009AYVNMQ-es Toshiba MQ01ABD0100 - Disco duro interno 2 5" 1TB'
+tags: 
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

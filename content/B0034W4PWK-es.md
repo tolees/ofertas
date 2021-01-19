@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CF8969BgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0034W4PWK-es Suvorna Professional Manicure Nail and Cuticle Pusher Tool Manipro M15  Polished Steel  0.8 Ounce by Suvorna'
+slug: 'B0034W4PWK-es Suvorna Professional Manicure Nail and Cuticle Pusher Tool...'
+tags: 
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

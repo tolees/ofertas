@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HTMLJnywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K4URY36-es Rotho Berty  caja de arena alta con entrada superior  Plástico PP sin BPA  blanco y negro  57.2 x 39.3 x 40.4 cm'
+slug: 'B01K4URY36-es Rotho Berty caja de arena alta con entrada superior...'
+tags: 
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

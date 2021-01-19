@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k0OJ+0EOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYLM8XJ-es Jian Ya Na - Funda de sofá Extensible de poliéster y Elastano  Funda de poliéster  Tejido elástico + 2 Fundas de Almohada para sofá en L'
+slug: 'B07RYLM8XJ-es Jian Ya Na - Funda de sofá Extensible de poliéster y...'
+tags: 
 actualPrice: 33.7 EUR
 currency: EUR
 price: 33.7

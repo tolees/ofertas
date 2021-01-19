@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BCgH3PPKL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND9N75R-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 1782106'
+slug: 'B07ND9N75R-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 71.83 EUR
 currency: EUR
 price: 71.83

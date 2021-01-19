@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rLp0oXS5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5F7RSQ-es 64GB Memorias USB 3.0 ENUODA Pendrive Giratoria Diseño Flash Drive Almacenamiento Externo Rojo'
+slug: 'B07R5F7RSQ-es 64GB Memorias USB 3.0 ENUODA Pendrive Giratoria Diseño...'
+tags: 
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

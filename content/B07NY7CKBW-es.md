@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gMqCl+NUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY7CKBW-es Superdry Core Sport Graphic tee Top de Deporte  Gris  Light Grey Marl 41q   X-Small para Hombre'
+slug: 'B07NY7CKBW-es Superdry Core Sport Graphic tee Top de Deporte Gris Light...'
+tags: 
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

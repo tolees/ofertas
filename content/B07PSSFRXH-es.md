@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-R7LYpzaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSSFRXH-es Rieker Herbst/Winter  Botas Chelsea para Mujer  Verde  Tanne/Wood/Brown 54   36 EU'
+slug: 'B07PSSFRXH-es Rieker Herbst/Winter Botas Chelsea para Mujer Verde...'
+tags: 
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

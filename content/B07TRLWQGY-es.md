@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wqtuAEbdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRLWQGY-es Daniel Wellington Reloj Analógico para Mujer de Cuarzo japonés Correa de la OTAN DW00100313'
+slug: 'B07TRLWQGY-es Daniel Wellington Reloj Analógico para Mujer de Cuarzo...'
+tags: 
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

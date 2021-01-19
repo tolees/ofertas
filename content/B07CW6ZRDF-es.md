@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CW6ZRDF-es Dead Man s Finger Coffee Rum - 700 ml'
+tags: 
 actualPrice: 14.71 EUR
 currency: EUR
 price: 14.71

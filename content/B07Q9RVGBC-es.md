@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OMZPpsJCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9RVGBC-es HP Pavilion Gaming 690-0045ns - Ordenador de sobremesa  Intel Core i5-9400  8GB RAM  1TB HDD + 128GB SSD  NVIDIA GeForce GTX1060-6GB  sin sistema operativo   color negro'
+slug: 'B07Q9RVGBC-es HP Pavilion Gaming 690-0045ns - Ordenador de sobremesa...'
+tags: 
 actualPrice: 649.99 EUR
 currency: EUR
 price: 649.99

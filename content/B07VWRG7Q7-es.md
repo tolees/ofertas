@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+SBK5G70L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWRG7Q7-es Jack & Jones JORFAME Crew Neck Suéter  Azul  Sea Moss Fit: Knit Fit   M para Hombre'
+slug: 'B07VWRG7Q7-es Jack & Jones JORFAME Crew Neck Suéter Azul Sea Moss Fit:...'
+tags: 
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

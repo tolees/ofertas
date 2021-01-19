@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51f7dnjTuCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YD7SMHM-es Linterna LED Vander con foco ajustable  linterna de mano superbrillante de 2000 lúmenes  linterna con zoom y resistente al agua para acampar al aire libre + baterías 18650  negro'
+slug: 'B07YD7SMHM-es Linterna LED Vander con foco ajustable linterna de mano...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

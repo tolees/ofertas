@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AwUwinLjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G6DSOVC-es Jata GR208 Plancha de Asar de Terracota Superficie: 26 x 21 cm que No se raya Fabricada Artesanalmente en España'
+slug: 'B00G6DSOVC-es Jata GR208 Plancha de Asar de Terracota Superficie: 26 x...'
+tags: 
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

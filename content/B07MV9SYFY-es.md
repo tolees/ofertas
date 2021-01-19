@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51amCw57dmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV9SYFY-es Kipling - Tops  Carteras Mujer  Rosa  Metallic Rose   7.5x10x2.5 cm  B x H T '
+slug: 'B07MV9SYFY-es Kipling - Tops Carteras Mujer Rosa Metallic Rose...'
+tags: 
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

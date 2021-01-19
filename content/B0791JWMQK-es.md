@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aHBnu246L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0791JWMQK-es Nella Muñeca Canta y Habla  Multicolor  Bandai 11288 '
+slug: 'B0791JWMQK-es Nella Muñeca Canta y Habla Multicolor Bandai 11288'
+tags: 
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

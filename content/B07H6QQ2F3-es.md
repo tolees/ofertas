@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sWm8Pg02L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H6QQ2F3-es HUGO Reloj Multiesfera para Hombre de Cuarzo con Correa en Cuero 1530032'
+slug: 'B07H6QQ2F3-es HUGO Reloj Multiesfera para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 116.0 EUR
 currency: EUR
 price: 116.0

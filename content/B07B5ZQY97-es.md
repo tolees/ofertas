@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B5ZQY97-es Asics Chaussures Gel-Court Speed Clay'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

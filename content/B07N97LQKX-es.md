@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uXQkNcppL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N97LQKX-es BOSS Prime Polo  Azul  Medium Blue 428   XX-Large para Hombre'
+slug: 'B07N97LQKX-es BOSS Prime Polo Azul Medium Blue 428 XX-Large para Hombre'
+tags: 
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

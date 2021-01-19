@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EJG3uR0iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G15VYC8-es New Balance Zapatillas KJ373PDY Azul/Rojo  Deporte Unisex Adulto  38 EU'
+slug: 'B07G15VYC8-es New Balance Zapatillas KJ373PDY Azul/Rojo Deporte Unisex...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

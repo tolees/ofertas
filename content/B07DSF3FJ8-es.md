@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/515AGx4qE2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DSF3FJ8-es Zapatillas de Ciclismo LUCK Extreme 3.0 MTB con Suela de Carbono y Triple Tira de Velcro de sujeción ademas de Puntera de Refuerzo.  40 EU  Rojo '
+slug: 'B07DSF3FJ8-es Zapatillas de Ciclismo LUCK Extreme 3.0 MTB con Suela de...'
+tags: 
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

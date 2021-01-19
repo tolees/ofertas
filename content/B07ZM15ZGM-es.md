@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DSkb25imL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZM15ZGM-es NMDD Ornament Skulptur Handwerk Abstrakte Kunst Dekoration Moderne Einfache Persönlichkeit Weinschrank Dekoration Family Interior Room Schlafzimmerdekoration  Farbe: Bronze  Größe: E '
+slug: 'B07ZM15ZGM-es NMDD Ornament Skulptur Handwerk Abstrakte Kunst Dekoration...'
+tags: 
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

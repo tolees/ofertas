@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rv9MoFcEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A5DU2TA-es Crocs Handle It Rain Boot K  Botas de Agua Unisex Niños  Rosa  Candy Pink   24/25 EU'
+slug: 'B01A5DU2TA-es Crocs Handle It Rain Boot K Botas de Agua Unisex Niños...'
+tags: 
 actualPrice: 22.1 EUR
 currency: EUR
 price: 22.1

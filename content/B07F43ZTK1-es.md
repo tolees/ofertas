@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xZembDn1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F43ZTK1-es Planificador de estudio Mr. Wonderful para que no se te pase ni una'
+slug: 'B07F43ZTK1-es Planificador de estudio Mr. Wonderful para que no se te...'
+tags: 
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

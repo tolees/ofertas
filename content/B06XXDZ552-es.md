@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510nIlR5RpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXDZ552-es X-Shot -Bunch O Balloons Pack Los Minions  Pack de 100 de globos'
+slug: 'B06XXDZ552-es X-Shot -Bunch O Balloons Pack Los Minions Pack de 100 de...'
+tags: 
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

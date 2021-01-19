@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417WctfwalL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRCF6RS-es Kipling - Creativity S  Monederos Mujer  Multicolor  Camo Large   14.5x9.5x5 cm  B x H T '
+slug: 'B07PRCF6RS-es Kipling - Creativity S Monederos Mujer Multicolor Camo...'
+tags: 
 actualPrice: 11.67 EUR
 currency: EUR
 price: 11.67

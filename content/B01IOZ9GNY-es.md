@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P-wHKH-dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IOZ9GNY-es AUKEY Lámpara LED plegable de mesa con pinza  brazo flexible  salida USB y 2 niveles de brillo  LT-ST8  negra '
+slug: 'B01IOZ9GNY-es AUKEY Lámpara LED plegable de mesa con pinza brazo...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

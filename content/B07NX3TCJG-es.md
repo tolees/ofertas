@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NX3TCJG-es Revlon Eksperience Densi Pro Spray 190 Ml 1 Unidad 190 g'
+tags: 
 actualPrice: 15.54 EUR
 currency: EUR
 price: 15.54

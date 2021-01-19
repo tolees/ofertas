@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51zTq3iJIvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ642SL-es ROMIX Esterilla para Pilates  Antideslizante Extra Gruesa 10MM Ecológica Espuma Memoria Yoga Mat  No Tóxica  Látex y PVC Gratis Exercise Mat para Gimnasio Ejercicio Fitness Deporte - Azul'
+slug: 'B07TJ642SL-es ROMIX Esterilla para Pilates Antideslizante Extra Gruesa...'
+tags: 
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29

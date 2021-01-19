@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iM-FfkxyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079H9VKKL-es Optimum Nutrition Protein Whipped Bites barrita proteica  Sabor de Chocolate - Paquete de 12 unidades'
+slug: 'B079H9VKKL-es Optimum Nutrition Protein Whipped Bites barrita proteica...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

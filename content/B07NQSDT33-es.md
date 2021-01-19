@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gwXq2LjvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQSDT33-es Skechers Comfy Flex 2.0  Zapatillas para Niñas  Plateado  Silver Sparkle Mesh/Lt.Blue Trim Sllb   26 EU'
+slug: 'B07NQSDT33-es Skechers Comfy Flex 2.0 Zapatillas para Niñas Plateado...'
+tags: 
 actualPrice: 21 EUR
 currency: EUR
 price: 21

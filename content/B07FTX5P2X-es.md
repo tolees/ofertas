@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IO6HCgN-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTX5P2X-es Palladium Pampa Hi Zip Pony  Botas Slouch para Mujer  Plateado  Black/Silver 051   36 EU'
+slug: 'B07FTX5P2X-es Palladium Pampa Hi Zip Pony Botas Slouch para Mujer...'
+tags: 
 actualPrice: 51.27 EUR
 currency: EUR
 price: 51.27

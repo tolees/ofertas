@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Tizvq22KL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NNX914C-es Blend Jeans - Noos Cirrus - Parte de arriba para hombre  Blau  Fane 76119-L34   W29/L30  29 '
+slug: 'B00NNX914C-es Blend Jeans - Noos Cirrus - Parte de arriba para hombre...'
+tags: 
 actualPrice: 28.13 EUR
 currency: EUR
 price: 28.13

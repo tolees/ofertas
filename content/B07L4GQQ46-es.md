@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CQdXpJvPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4GQQ46-es WowPrint - Bolsa de maquillaje para mujer  diseño de perezoso  portátil  para viaje'
+slug: 'B07L4GQQ46-es WowPrint - Bolsa de maquillaje para mujer diseño de...'
+tags: 
 actualPrice: 12.16 EUR
 currency: EUR
 price: 12.16

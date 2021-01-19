@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512dwwrBnEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003WLFDJC-es Julius-K9 Mini-Mini  40-53 cm  Rojo'
+slug: 'B003WLFDJC-es Julius-K9 Mini-Mini 40-53 cm Rojo'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

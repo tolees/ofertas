@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415dLOWpTnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKG2N24-es Auriculares inalámbricos Bluetooth 5.0 Control táctil  micrófono Incorporado y Caja de Carga  reducción de Ruido estéreo 3D HD adecuados para Auriculares Android/iPhone/AirPods Pro/Samsung'
+slug: 'B08CKG2N24-es Auriculares inalámbricos Bluetooth 5.0 Control táctil...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

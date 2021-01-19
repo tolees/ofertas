@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aEYc9uGYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJFBMJS-es YuamMei 5 rollos de cinta de encaje hueca para manualidades DIY papel adhesivo de carrocería decorativo para scrapbooking y teléfono  color al azar  patrón '
+slug: 'B07GJFBMJS-es YuamMei 5 rollos de cinta de encaje hueca para...'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

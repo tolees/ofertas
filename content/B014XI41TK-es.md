@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NWCIkS08L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014XI41TK-es Silky - Leggings de uso diario para mujer  Mediana  M /Negro '
+slug: 'B014XI41TK-es Silky - Leggings de uso diario para mujer Mediana M /Negro'
+tags: 
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

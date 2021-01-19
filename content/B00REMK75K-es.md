@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ek4kH6jLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00REMK75K-es Cluse Reloj Analógico Automático para Mujer con Correa de Acero Inoxidable – CL18105'
+slug: 'B00REMK75K-es Cluse Reloj Analógico Automático para Mujer con Correa de...'
+tags: 
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

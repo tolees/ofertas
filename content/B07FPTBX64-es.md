@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZWcUJ8DZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPTBX64-es PUMA Axis  Zapatillas Unisex-Adulto  Blanco White/Peacoat  40.5 EU'
+slug: 'B07FPTBX64-es PUMA Axis Zapatillas Unisex-Adulto Blanco White/Peacoat...'
+tags: 
 actualPrice: 21.09 EUR
 currency: EUR
 price: 21.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ACACpEXuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNKWHQ9-es Cecotec Ready Warm 6600 Turbo Convection Plus - Convector Potente  Termostato Regulable  4 Modos  Turboventilador  Soporte de pie  Protección sobrecalentamiento  Silencioso  Calor 360º  2000 W'
+slug: 'B07JNKWHQ9-es Cecotec Ready Warm 6600 Turbo Convection Plus - Convector...'
+tags: 
 actualPrice: 25.78 EUR
 currency: EUR
 price: 25.78

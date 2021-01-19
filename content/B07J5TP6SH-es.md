@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mKn4R63FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5TP6SH-es Asics Gel-Kayano 25  Zapatillas de Running para Hombre  Negro  Black/Glacier Grey 003   42 EU'
+slug: 'B07J5TP6SH-es Asics Gel-Kayano 25 Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 124.98 EUR
 currency: EUR
 price: 124.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d1ckQknnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1NQ7M1-es Conector Coaxial RF Adaptadores Accesorios para Imagen Sonido TV Vídeo Home Cinema'
+slug: 'B07F1NQ7M1-es Conector Coaxial RF Adaptadores Accesorios para Imagen...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

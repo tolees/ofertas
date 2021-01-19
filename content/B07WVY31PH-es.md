@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HlJY1icPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVY31PH-es Auriculares Bluetooth  Auriculares Inalámbricos 2000mAh con 100H Playtime  TWS Auriculares Bluetooth 5.0 Deporte IPX7 Impermeable Hi-Fi Estéreo con Caja de Carga y Mic  Pantalla LED y Control Tactil'
+slug: 'B07WVY31PH-es Auriculares Bluetooth Auriculares Inalámbricos 2000mAh con...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

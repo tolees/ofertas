@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xw88T8jML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNM2NMP-es Linkevp Lima de pie eléctrica para eliminar callos y callos de piel dura de herramientas para el cuidado de los pies raspador de huevo piedra pómez agrietada para talones muertos recargable'
+slug: 'B08BNM2NMP-es Linkevp Lima de pie eléctrica para eliminar callos y...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

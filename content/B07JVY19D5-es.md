@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61PFuQkX65L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVY19D5-es Tuc Tuc Enjoy & Dream Pop Up - Maleta de viaje  niños  color azul'
+slug: 'B07JVY19D5-es Tuc Tuc Enjoy & Dream Pop Up - Maleta de viaje niños color...'
+tags: 
 actualPrice: 24.61 EUR
 currency: EUR
 price: 24.61

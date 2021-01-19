@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aVZiGko6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8TLKLY-es CHICTRY Cola de Sirena Mujer para Nadar Bañador Ropa de Baño Mermaid Tail Disfraz de Sirena Adulto Cosplay Swimwear Azul Medium'
+slug: 'B07F8TLKLY-es CHICTRY Cola de Sirena Mujer para Nadar Bañador Ropa de...'
+tags: 
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

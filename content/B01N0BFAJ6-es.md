@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FTa2iicoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0BFAJ6-es Taurus UNIC500PLUSINOX Batidora  500 W  0 Decibelios  Plástico  Blanco/Naranja'
+slug: 'B01N0BFAJ6-es Taurus UNIC500PLUSINOX Batidora 500 W 0 Decibelios...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

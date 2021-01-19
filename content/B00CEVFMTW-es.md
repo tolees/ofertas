@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21qhOQohx8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CEVFMTW-es STANLEY FATMAX FMHT0-20559 - Serrucho FatMax Plegable para Placa de Yeso'
+slug: 'B00CEVFMTW-es STANLEY FATMAX FMHT0-20559 - Serrucho FatMax Plegable para...'
+tags: 
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V++gQB8-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0048CIH1A-es Michael Kors Reloj analogico para Hombre de Cuarzo con Correa en Acero Inoxidable MK8157'
+slug: 'B0048CIH1A-es Michael Kors Reloj analogico para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 208.0 EUR
 currency: EUR
 price: 208.0

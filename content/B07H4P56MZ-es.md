@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316LvTP66DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4P56MZ-es B Blesiya 1 x Unidad Flash USB 2.0 Panelado de Arce Memoria Extraíble Fácil de Leer Velocidad Máxima de Lectura - 256 MB Madera'
+slug: 'B07H4P56MZ-es B Blesiya 1 x Unidad Flash USB 2.0 Panelado de Arce...'
+tags: 
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

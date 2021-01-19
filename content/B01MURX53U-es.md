@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dcgOwBygL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MURX53U-es Virklyee Colador de cocina plegable  2 piezas de filtro de silicona para verduras o frutas Incluye 2 tamaños 8 y 9 5 pulgadas de cesta de filtro  rojo '
+slug: 'B01MURX53U-es Virklyee Colador de cocina plegable 2 piezas de filtro de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

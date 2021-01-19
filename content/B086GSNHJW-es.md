@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EN0VEDSEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086GSNHJW-es Oihxse Compatible con OPPO Reno2 Funda Suave Gel TPU Silicona Cristal Transparente Carcasa Acuarela Animal Pintado Patrón Protectora Estuche Bumper Caso Case  B9 '
+slug: 'B086GSNHJW-es Oihxse Compatible con OPPO Reno2 Funda Suave Gel TPU...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4105NshHwVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B005WKFS6E-es Peter Thomas Roth Peter Thomas Roth Mega Rich Conditioner  8 Fluid Ounce Tapones para los oídos 2 Centimeters Negro  Black '
+slug: 'B005WKFS6E-es Peter Thomas Roth Peter Thomas Roth Mega Rich Conditioner...'
+tags: 
 actualPrice: 17.72 EUR
 currency: EUR
 price: 17.72

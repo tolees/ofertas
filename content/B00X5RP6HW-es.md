@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AaBvhViiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X5RP6HW-es Disney Frozen - Cuerda de Saltar  Smoby 27244 '
+slug: 'B00X5RP6HW-es Disney Frozen - Cuerda de Saltar Smoby 27244'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

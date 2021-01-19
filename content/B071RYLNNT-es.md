@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-TD5K5ufL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RYLNNT-es Joma Tropical Malla Corta  Mujer  Verde  S'
+slug: 'B071RYLNNT-es Joma Tropical Malla Corta Mujer Verde S'
+tags: 
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

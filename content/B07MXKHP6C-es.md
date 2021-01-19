@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FaekUHEPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXKHP6C-es Tommy Hilfiger Thong Tanga  Blanco  White 100   Medium para Mujer'
+slug: 'B07MXKHP6C-es Tommy Hilfiger Thong Tanga Blanco White 100 Medium para Mujer'
+tags: 
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

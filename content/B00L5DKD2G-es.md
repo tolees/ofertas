@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41asiPZfwnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L5DKD2G-es Dekora - Decoracion para Tartas con la Figura de Mickey Mouse de PVC'
+slug: 'B00L5DKD2G-es Dekora - Decoracion para Tartas con la Figura de Mickey...'
+tags: 
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

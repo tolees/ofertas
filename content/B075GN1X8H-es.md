@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319XAOxx7aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GN1X8H-es Pendientes  J.Rosée Pendiente Mujer Perla de Agua Dulce Original Plata de Ley 925 Regalos Originales Regalos de graduación'
+slug: 'B075GN1X8H-es Pendientes J.Rosée Pendiente Mujer Perla de Agua Dulce...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

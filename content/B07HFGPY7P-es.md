@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q74I8G2RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFGPY7P-es Cecotec Báscula de Baño Digital Surface Precision 9100 Healthy. Con plataforma de Cristal Templado  Pantalla LCD invertida  Capacidad máxima 180kg  Lista para usar y con Cinta Métrica.'
+slug: 'B07HFGPY7P-es Cecotec Báscula de Baño Digital Surface Precision 9100...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

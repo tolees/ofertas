@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dvwrGwIQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08639SMDM-es YANJUN Máscara N95  Respirador Anti PM2.5 Filtro de protección contra bacterias de Cara Completa para el hogar  restaurantes  Salones de Belleza  mascarillas Unisex'
+slug: 'B08639SMDM-es YANJUN Máscara N95 Respirador Anti PM2.5 Filtro de...'
+tags: 
 actualPrice: 16.37 EUR
 currency: EUR
 price: 16.37

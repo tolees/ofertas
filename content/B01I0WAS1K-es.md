@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kj8yaG2GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I0WAS1K-es ENKEEO - 2 pcs Bastones Trekking Fibra de Carbono Duradero 3 Tramos Extensibles Empuñaduras de EVA contra Golpe Senderismo/Viajar/Aire Libre etc.'
+slug: 'B01I0WAS1K-es ENKEEO - 2 pcs Bastones Trekking Fibra de Carbono Duradero...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

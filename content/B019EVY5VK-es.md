@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SuIYblPOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019EVY5VK-es Mobicool G30 AC/DC - Nevera termoeléctrica portátil  conexiones 12 / 230 V  29 litros de capacidad  con USB para carga de dispositivos  color rojo/gris'
+slug: 'B019EVY5VK-es Mobicool G30 AC/DC - Nevera termoeléctrica portátil...'
+tags: 
 actualPrice: 47.84 EUR
 currency: EUR
 price: 47.84

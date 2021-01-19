@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31j2E2lwgyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085TN94CB-es luosh Cesto de Ropa Cesto de succión Suspensión Montado en la Pared Hogar Baño Almacenamiento Lavado Ropa Organizador'
+slug: 'B085TN94CB-es luosh Cesto de Ropa Cesto de succión Suspensión Montado en...'
+tags: 
 actualPrice: 15.37 EUR
 currency: EUR
 price: 15.37

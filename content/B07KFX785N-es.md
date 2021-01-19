@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318nvYq717L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFX785N-es PUMA ST Runner V2 Full L  Zapatillas Unisex Adulto  Negro Black/Castlerock White  36 EU'
+slug: 'B07KFX785N-es PUMA ST Runner V2 Full L Zapatillas Unisex Adulto Negro...'
+tags: 
 actualPrice: 36.96 EUR
 currency: EUR
 price: 36.96

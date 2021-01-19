@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tdl0PH6aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9RWRH6-es PUMA JARO Metal WNS  Zapatillas de Running para Mujer  Blanco White/Rose Gold  40 EU'
+slug: 'B07S9RWRH6-es PUMA JARO Metal WNS Zapatillas de Running para Mujer...'
+tags: 
 actualPrice: 25.63 EUR
 currency: EUR
 price: 25.63

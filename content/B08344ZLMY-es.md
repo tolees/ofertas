@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F9kMhvKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08344ZLMY-es Moliies Funda para Tableta Universal portátil Funda Ultra Suave Impermeable a Prueba de Golpes Funda Protectora a Prueba de Golpes para computadora portátil  Negro + 7" '
+slug: 'B08344ZLMY-es Moliies Funda para Tableta Universal portátil Funda Ultra...'
+tags: 
 actualPrice: 1.44 EUR
 currency: EUR
 price: 1.44

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ot-0jVN2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FGR3TB-es Maxi-Cosi CabrioFix Silla de Auto  Reclinable y de Alta Seguridad para Bebe  0-12 Meses  0-13 kg  Color Gris  Nomad Grey '
+slug: 'B075FGR3TB-es Maxi-Cosi CabrioFix Silla de Auto Reclinable y de Alta...'
+tags: 
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

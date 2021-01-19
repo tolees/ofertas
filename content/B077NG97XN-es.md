@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31MBHEtvqkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NG97XN-es find. Pantalones de Talle Alto Mujer  Negro  Black   36  Talla del fabricante: X-Small '
+slug: 'B077NG97XN-es find. Pantalones de Talle Alto Mujer Negro Black 36 Talla...'
+tags: 
 actualPrice: 20 EUR
 currency: EUR
 price: 20

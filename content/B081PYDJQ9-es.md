@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XC+ifT6KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081PYDJQ9-es Pllieay - 60 palos de bambú natural para manualidades  39 cm de largo x 0 95 cm de ancho '
+slug: 'B081PYDJQ9-es Pllieay - 60 palos de bambú natural para manualidades 39...'
+tags: 
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

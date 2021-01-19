@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31T+zY9tqzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5JPN12-es Revlon Professional Style Masters Fanaticurls Activador de Rizos Fuertes y Definidos 150 ml'
+slug: 'B07D5JPN12-es Revlon Professional Style Masters Fanaticurls Activador de...'
+tags: 
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

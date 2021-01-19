@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SfvTi2rPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1BQV9Y-es GLOGLOW Calzoncillos de Baja Altura para Hombres Bragas Calzoncillos Calzoncillos T-Back XL-Verde Oliva '
+slug: 'B07K1BQV9Y-es GLOGLOW Calzoncillos de Baja Altura para Hombres Bragas...'
+tags: 
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

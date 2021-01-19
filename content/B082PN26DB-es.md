@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oERBfzzGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PN26DB-es ValueHall Doblador de Ropa 56 x 68 cm Tabla para Doblar Doblador de Camisetas Adjustable Carpeta de Ropa para Adulto o Infantil Camisetas Pantalones Toallas V7031A  Gris '
+slug: 'B082PN26DB-es ValueHall Doblador de Ropa 56 x 68 cm Tabla para Doblar...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

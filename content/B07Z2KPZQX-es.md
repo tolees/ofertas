@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ntBTS3t7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z2KPZQX-es IPOTCH Limpiador de Cepillo de Plástico Maceta Plegable Retráctil de Acuarela Cubo de Agua Plegable Herrameinta de Pintura'
+slug: 'B07Z2KPZQX-es IPOTCH Limpiador de Cepillo de Plástico Maceta Plegable...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

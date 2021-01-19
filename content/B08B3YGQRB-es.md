@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qDUfRG1GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3YGQRB-es 12 Mascarillas Higiénicas The Pink House. Máscaras no quirúrgicas. Desechables de 3 Capas de protección'
+slug: 'B08B3YGQRB-es 12 Mascarillas Higiénicas The Pink House. Máscaras no...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

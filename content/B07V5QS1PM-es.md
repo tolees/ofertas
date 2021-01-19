@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pjd3KPRVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QS1PM-es Tommy Hilfiger Flatform Runner Colour Sneaker  Zapatillas para Mujer  Blanco  White Ybs   40 EU'
+slug: 'B07V5QS1PM-es Tommy Hilfiger Flatform Runner Colour Sneaker Zapatillas...'
+tags: 
 actualPrice: 39.4 EUR
 currency: EUR
 price: 39.4

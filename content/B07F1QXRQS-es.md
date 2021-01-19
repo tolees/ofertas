@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t6K6JN-dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1QXRQS-es New Balance 410v6 Trail  Zapatillas para Carreras de montaña para Hombre  Negro  Black La6   475 EU'
+slug: 'B07F1QXRQS-es New Balance 410v6 Trail Zapatillas para Carreras de...'
+tags: 
 actualPrice: 44.91 EUR
 currency: EUR
 price: 44.91

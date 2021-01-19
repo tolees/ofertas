@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31lCcpJLgCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LQQHBNU-es WD My Passport - Disco Duro Portátil de 4 TB y Software de Copia de Seguridad Automática  Blanco'
+slug: 'B01LQQHBNU-es WD My Passport - Disco Duro Portátil de 4 TB y Software de...'
+tags: 
 actualPrice: 92.56 EUR
 currency: EUR
 price: 92.56

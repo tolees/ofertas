@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51px-PadDLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9W6XBG-es L Oréal Paris Sublime Mousse Coloración Permanente  Tono: 530 Castaño Dorado Radiante'
+slug: 'B00X9W6XBG-es L Oréal Paris Sublime Mousse Coloración Permanente Tono:...'
+tags: 
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

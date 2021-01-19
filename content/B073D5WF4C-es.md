@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wT3N1vKJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073D5WF4C-es Puma Quarter Plain  Calcetín Unisex Adulto  Gris  Anthraci/L Mel Grey   35-38   Pack de 3 '
+slug: 'B073D5WF4C-es Puma Quarter Plain Calcetín Unisex Adulto Gris Anthraci/L...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

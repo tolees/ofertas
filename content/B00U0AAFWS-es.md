@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ufaejrzNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U0AAFWS-es Panasonic DMC-TZ70  Cámara Compacta de 12.1 MP  Super Zoom  Objetivo F3.3-F6.4 de 24-720 mm  Zoom de 30X  Estabilizador Óptico  FHD  WiFi  Raw   HDMI  Negro'
+slug: 'B00U0AAFWS-es Panasonic DMC-TZ70 Cámara Compacta de 12.1 MP Super Zoom...'
+tags: 
 actualPrice: 199.95 EUR
 currency: EUR
 price: 199.95

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZQe1Ks30L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HMGYF46-es Canon MAXIFY MB2750 - Impresora de inyección de tinta  2 cassettes de 250 hojas  pantalla táctil TFT  15 5 ipm en color y 24 ipm en blanco y negro '
+slug: 'B01HMGYF46-es Canon MAXIFY MB2750 - Impresora de inyección de tinta 2...'
+tags: 
 actualPrice: 128.67 EUR
 currency: EUR
 price: 128.67

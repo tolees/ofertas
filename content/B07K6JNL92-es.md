@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U0jyNkJJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6JNL92-es HANPURE Bluetooth USB PC  Adaptador Bluetooth USB  USB Bluetooth 4.0  Plug & Play 2.4 GHz  Auriculares Bluetooth  Mouse  Teclado  impresoras  PC  Compatible con Windows 10/8.1/8/7 / Vista/XP  Negro '
+slug: 'B07K6JNL92-es HANPURE Bluetooth USB PC Adaptador Bluetooth USB USB...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412t9IxouBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825PWDDT-es Roxy Milady Beach-Short Vaquero Elástico para Mujer  Dark Indigo  XL'
+slug: 'B0825PWDDT-es Roxy Milady Beach-Short Vaquero Elástico para Mujer Dark...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

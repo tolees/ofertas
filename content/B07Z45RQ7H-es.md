@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dcAC7ca1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z45RQ7H-es Windows 10 Profesional 32/64 bits Mcrosoft | 100% garantía de activación | Envío por correo electrónico'
+slug: 'B07Z45RQ7H-es Windows 10 Profesional 32/64 bits Mcrosoft | 100% garantía...'
+tags: 
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

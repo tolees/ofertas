@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r6MBRToAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XPXBMZ-es Under Armour Armour Fleece Jogger Pantalón De Chándal  Hombre  Azul  Academy/Black 408   XL'
+slug: 'B077XPXBMZ-es Under Armour Armour Fleece Jogger Pantalón De Chándal...'
+tags: 
 actualPrice: 23.66 EUR
 currency: EUR
 price: 23.66

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ji1pu9joL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MD5B94Z-es Masthome tabla de cortar de bambú con ranura para jugo y mango  ideal para carne  verduras  frutas - 1 afilador de cuchillos y 1 cuchillo como un regalo [4 piezas]'
+slug: 'B07MD5B94Z-es Masthome tabla de cortar de bambú con ranura para jugo y...'
+tags: 
 actualPrice: 19.61 EUR
 currency: EUR
 price: 19.61

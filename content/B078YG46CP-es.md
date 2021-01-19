@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dTfNNnltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YG46CP-es Lorus Reloj Digital para Unisex de Cuarzo con Correa en Silicona R2393LX9'
+slug: 'B078YG46CP-es Lorus Reloj Digital para Unisex de Cuarzo con Correa en...'
+tags: 
 actualPrice: 18.67 EUR
 currency: EUR
 price: 18.67

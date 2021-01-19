@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IIIvJvIpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JS9GCJ6-es Chicco Ohlala - Silla de paseo ultraligera y compacta  3 8 kg  color azul'
+slug: 'B01JS9GCJ6-es Chicco Ohlala - Silla de paseo ultraligera y compacta 3 8...'
+tags: 
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

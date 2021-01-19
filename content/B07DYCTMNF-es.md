@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31D5ZsHcJ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYCTMNF-es ORYX 5071005 Fiambrera para Tortillas Redonda  plástico'
+slug: 'B07DYCTMNF-es ORYX 5071005 Fiambrera para Tortillas Redonda plástico'
+tags: 
 actualPrice: 3.54 EUR
 currency: EUR
 price: 3.54

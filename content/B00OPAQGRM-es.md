@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XMhJdmq%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OPAQGRM-es Panama Jack Bambina  Botas Altas para Mujer   Negro B60   38 EU'
+slug: 'B00OPAQGRM-es Panama Jack Bambina Botas Altas para Mujer Negro B60 38 EU'
+tags: 
 actualPrice: 109.75 EUR
 currency: EUR
 price: 109.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FGOp7uOQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ZSHNEK-es Nikon AF-S 24-120mm F4 ED VR - Objetivo para Nikon  distancia focal 36-180mm  apertura f/4  zoom óptico 5x estabilizador  color negro - Versión Europea'
+slug: 'B003ZSHNEK-es Nikon AF-S 24-120mm F4 ED VR - Objetivo para Nikon...'
+tags: 
 actualPrice: 899.0 EUR
 currency: EUR
 price: 899.0

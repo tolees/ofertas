@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PCH3ug9cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E7WR92S-es NGSIN Blue - Ratón Portátil con Cable Retráctil  ratón óptico de 1000 dpi. Color Azul'
+slug: 'B01E7WR92S-es NGSIN Blue - Ratón Portátil con Cable Retráctil ratón...'
+tags: 
 actualPrice: 2.62 EUR
 currency: EUR
 price: 2.62

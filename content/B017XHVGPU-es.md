@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QC9xZkkYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017XHVGPU-es Levi s Circle Buckle Core  Cinturón Mujer  Marrón  Brown   75 cm  Talla del fabricante: 75 '
+slug: 'B017XHVGPU-es Levi s Circle Buckle Core Cinturón Mujer Marrón Brown 75...'
+tags: 
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

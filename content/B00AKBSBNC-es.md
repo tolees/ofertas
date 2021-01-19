@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tGwDXQfEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AKBSBNC-es NANOCABLE 10.20.0302 - Cable de Red Ethernet rigido RJ45 Cat.5e UTP AWG24  Gris  Bobina de 100mts'
+slug: 'B00AKBSBNC-es NANOCABLE 10.20.0302 - Cable de Red Ethernet rigido RJ45...'
+tags: 
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

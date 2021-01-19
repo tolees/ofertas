@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310L7ysfaXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCCKLSS-es Tommee Tippee Doudou  Gerry la Jirafa'
+slug: 'B07GCCKLSS-es Tommee Tippee Doudou Gerry la Jirafa'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

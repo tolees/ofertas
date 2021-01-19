@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417Q3xrJwDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQQWC47-es Salomon XA Discovery GTX  Zapatillas de Trail Running para Hombre  Verde Trekking Green Lime Green Black  42 EU'
+slug: 'B07KQQWC47-es Salomon XA Discovery GTX Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 51.98 EUR
 currency: EUR
 price: 51.98

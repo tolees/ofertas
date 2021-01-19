@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410zCEpibVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001DCHTZS-es ZEFAL Doomap Soporte Portamapas Al Manillar  Unisex Adulto  Negro  Talla única'
+slug: 'B001DCHTZS-es ZEFAL Doomap Soporte Portamapas Al Manillar Unisex Adulto...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

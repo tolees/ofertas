@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NLQ3hxEUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQWV6N2-es Clarks Triamelia Edge  Zapatillas para Mujer  Beige  Black Leather Black Leather   35.5 EU'
+slug: 'B07TQWV6N2-es Clarks Triamelia Edge Zapatillas para Mujer Beige Black...'
+tags: 
 actualPrice: 23.58 EUR
 currency: EUR
 price: 23.58

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/619BfIH3yzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8Y5SJD-es Tommy Hilfiger - Business Leather Mini Cc Wallet  Carteras Hombre  Negro  Black   1x1x1 cm  W x H L '
+slug: 'B07V8Y5SJD-es Tommy Hilfiger - Business Leather Mini Cc Wallet Carteras...'
+tags: 
 actualPrice: 31.37 EUR
 currency: EUR
 price: 31.37

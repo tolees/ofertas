@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yDOFeJc9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5VZ8B4-es Calvin Klein PUFFER FLAT CROSSOVERHombreShoppers y bolsos de hombroNegro  Black  3x26x21 centimeters  B x H x T '
+slug: 'B07N5VZ8B4-es Calvin Klein PUFFER FLAT CROSSOVERHombreShoppers y bolsos...'
+tags: 
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

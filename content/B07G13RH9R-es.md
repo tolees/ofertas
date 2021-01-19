@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WYZ9501qL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G13RH9R-es Asmuse Melodica 32 Teclas Con boquilla y manguera de soplado  Incluye una bolsa para transporte para Principiantes Niños Amantes Musicales Regalo Musical-Negro'
+slug: 'B07G13RH9R-es Asmuse Melodica 32 Teclas Con boquilla y manguera de...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

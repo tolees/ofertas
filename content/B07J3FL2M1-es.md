@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kLeZU4CXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3FL2M1-es HP OMEN Obelisk 875-0003ns - Ordenador de Sobremesa Gaming  Intel Core i5-8400  8 GB de RAM  1 TB HDD y 256 GB SSD  NVIDIA GeForce GTX 1060  sin Sistema Operativo  Color Negro'
+slug: 'B07J3FL2M1-es HP OMEN Obelisk 875-0003ns - Ordenador de Sobremesa Gaming...'
+tags: 
 actualPrice: 669.99 EUR
 currency: EUR
 price: 669.99

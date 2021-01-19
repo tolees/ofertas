@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513kRLcd4mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4DZL6Y-es Hezbjiti Luces de cuerda de batería Hezbjiti  100 luces de cadena de hadas activadas por sonido de LED con remoto  luces a batería a prueba de agua Sincronización con música para fiestas blanco cálido'
+slug: 'B07V4DZL6Y-es Hezbjiti Luces de cuerda de batería Hezbjiti 100 luces de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

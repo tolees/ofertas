@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pADqwMBRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075LC82RG-es Flash Drive 128 MB PenDrive 10 Piezas Memorias USB 2.0 - Portátil Pen Drives 128MB Conjunto de 10 Unidad Flash - Dispositivos Externos Práctica Llave USB Regalo Negro Anuncio de la Empresa de Datarm'
+slug: 'B075LC82RG-es Flash Drive 128 MB PenDrive 10 Piezas Memorias USB 2.0 -...'
+tags: 
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

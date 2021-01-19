@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XQnDyfdvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW7GT7H-es Adaptador USB C a HDMI QGeeM 4K USB C HDMI Cable [Thunderbolt 3] Compatible con MacBook Pro 2018/2017 Surface Book 2 DELL XPS 13/15  Pixelbook Samsung Galaxy S9 / S8 y más'
+slug: 'B07JW7GT7H-es Adaptador USB C a HDMI QGeeM 4K USB C HDMI Cable...'
+tags: 
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

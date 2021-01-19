@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b+-Y6MS2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OTCOTBQ-es Intex 28454EX - Spa octogonal Deluxe Burbujas y Jets 795 litros'
+slug: 'B00OTCOTBQ-es Intex 28454EX - Spa octogonal Deluxe Burbujas y Jets 795...'
+tags: 
 actualPrice: 256.0 EUR
 currency: EUR
 price: 256.0

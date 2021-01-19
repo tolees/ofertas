@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YHgQSOMDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RH2TY57-es Levi s Tumbled Belt Cinturón  Marrón  Medium Brown 27   100 para Hombre'
+slug: 'B07RH2TY57-es Levi s Tumbled Belt Cinturón Marrón Medium Brown 27 100...'
+tags: 
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

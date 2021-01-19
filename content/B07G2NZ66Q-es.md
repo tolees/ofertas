@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QMOCBlOzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2NZ66Q-es L Oreal Paris Magic Retouch Spray Retoca Raíces Castaño 100 ml'
+slug: 'B07G2NZ66Q-es L Oreal Paris Magic Retouch Spray Retoca Raíces Castaño...'
+tags: 
 actualPrice: 4.17 EUR
 currency: EUR
 price: 4.17

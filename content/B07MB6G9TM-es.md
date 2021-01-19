@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31K-8+dUJFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MB6G9TM-es Lacoste      '
+slug: 'B07MB6G9TM-es Lacoste'
+tags: 
 actualPrice: 58.38 EUR
 currency: EUR
 price: 58.38

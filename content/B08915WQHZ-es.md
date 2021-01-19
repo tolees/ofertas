@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31w+b9WdjiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08915WQHZ-es B Blesiya Electrónica 8.5   LCD Escritura Tabletas De Borrado Tablero E-Escritor para Niños Niño - Rojo'
+slug: 'B08915WQHZ-es B Blesiya Electrónica 8.5 LCD Escritura Tabletas De...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

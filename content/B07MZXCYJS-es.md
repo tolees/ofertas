@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PDxfRHs7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZXCYJS-es Skechers Men s Status 2.0-Mosent Moccasins  Blue  Blue Blu   6.5 UK  40 EU '
+slug: 'B07MZXCYJS-es Skechers Men s Status 2.0-Mosent Moccasins Blue Blue Blu...'
+tags: 
 actualPrice: 45.47 EUR
 currency: EUR
 price: 45.47

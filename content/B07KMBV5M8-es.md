@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OTEYjAlDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMBV5M8-es Clarks Un Rio Lace  Zapatillas  Negro  Black Leather Black Leather   37.5 EU'
+slug: 'B07KMBV5M8-es Clarks Un Rio Lace Zapatillas Negro Black Leather Black...'
+tags: 
 actualPrice: 75.78 EUR
 currency: EUR
 price: 75.78

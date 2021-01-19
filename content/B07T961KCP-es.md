@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xgOaD7bIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T961KCP-es Xnuoyo 20000mAh Power Bank Cargador Portátil Batería Externa de Alta Capacidad con Indicador LED  Entrada Micro y Tipo C y Puertos de Salida Dual Compatibles con la Mayoría de los Smart Phones'
+slug: 'B07T961KCP-es Xnuoyo 20000mAh Power Bank Cargador Portátil Batería...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

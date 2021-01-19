@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EAL5B0-es Grahams 20 yo Tawny Port 75cl'
+tags: 
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

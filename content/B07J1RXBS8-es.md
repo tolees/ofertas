@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ovxzVcHQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J1RXBS8-es FitFitaly Rodillera Protectora Ortopédica para Ligamentos  Rótula y Menisco para Deporte - Regulable'
+slug: 'B07J1RXBS8-es FitFitaly Rodillera Protectora Ortopédica para Ligamentos...'
+tags: 
 actualPrice: 18.25 EUR
 currency: EUR
 price: 18.25

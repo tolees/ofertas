@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lP0fVtYNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBBSN72-es E-Reader Funda para Bq Cervantes 4 Funda Soporte Cuero Case Cover HS'
+slug: 'B07JBBSN72-es E-Reader Funda para Bq Cervantes 4 Funda Soporte Cuero...'
+tags: 
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

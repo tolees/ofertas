@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HeOwl+BTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4M4HKG-es Love MoschinoJc4291pp0aMujerCarteras de manoMarfil  Champagne Satin 13x13x20 Centimeters  W x H x L '
+slug: 'B07V4M4HKG-es Love MoschinoJc4291pp0aMujerCarteras de manoMarfil...'
+tags: 
 actualPrice: 47.5 EUR
 currency: EUR
 price: 47.5

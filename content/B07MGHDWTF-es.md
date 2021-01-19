@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EtdGVuuCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGHDWTF-es Gant 3-Pack Trunk Seasonal Solid Calzoncillos  Rojo  Mahogany Red 617   Small para Hombre'
+slug: 'B07MGHDWTF-es Gant 3-Pack Trunk Seasonal Solid Calzoncillos Rojo...'
+tags: 
 actualPrice: 19.23 EUR
 currency: EUR
 price: 19.23

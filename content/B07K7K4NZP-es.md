@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YyLNS3gqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7K4NZP-es Asics Gel-Fujitrabuco 7 G-TX  Zapatillas de Entrenamiento para Mujer  Multicolor  Black/Dark Grey 001   39 EU'
+slug: 'B07K7K4NZP-es Asics Gel-Fujitrabuco 7 G-TX Zapatillas de Entrenamiento...'
+tags: 
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

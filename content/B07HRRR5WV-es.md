@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rOJcOq4sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRRR5WV-es ANSIO Calefactor  Oscilante Calentador de Torre PTC con Control Remoto - 2000 W Vertical/Plano Calefactor-Oscilación Interna 24 Horas de Temporizador y 2 configuraciones de Calor'
+slug: 'B07HRRR5WV-es ANSIO Calefactor Oscilante Calentador de Torre PTC con...'
+tags: 
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

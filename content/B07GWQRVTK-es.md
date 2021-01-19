@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I4R6rHqzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWQRVTK-es Alcatel 30.26  Teléfono Móvil  1  Gris Metálico'
+slug: 'B07GWQRVTK-es Alcatel 30.26 Teléfono Móvil 1 Gris Metálico'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

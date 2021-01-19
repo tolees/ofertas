@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DETrUBwlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001KC05PM-es Lindam Barrera blanca de seguridad con puerta y ajuste a presión. 76-82 cm. Máximo 117cm con extensión'
+slug: 'B001KC05PM-es Lindam Barrera blanca de seguridad con puerta y ajuste a...'
+tags: 
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

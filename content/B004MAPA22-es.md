@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41phre5uz5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004MAPA22-es Meinl ESSET - Huevo de percusión  4 piezas'
+slug: 'B004MAPA22-es Meinl ESSET - Huevo de percusión 4 piezas'
+tags: 
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

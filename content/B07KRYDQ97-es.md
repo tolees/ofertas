@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31r5ZbIe-pL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRYDQ97-es ETNAB|#Etnies Jameson 2 Eco  Zapatillas de Skateboard para Hombre  069/Dark Grey/White/Gum 069  6.5 EU'
+slug: 'B07KRYDQ97-es ETNAB|#Etnies Jameson 2 Eco Zapatillas de Skateboard para...'
+tags: 
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

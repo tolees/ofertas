@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aXnJI0W-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0773J3LSN-es Montse Interiors Saco Nórdico Princesas Little Princess  Cama de 90 '
+slug: 'B0773J3LSN-es Montse Interiors Saco Nórdico Princesas Little Princess...'
+tags: 
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

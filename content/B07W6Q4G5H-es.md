@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Kvjur7PBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6Q4G5H-es SWIHELP Organizadores para Coche  2 Pack Kick Mats de Coche Organizador para Asientos de Coches  Universal Multi-Bolsillo Protector Trasero del Asiento de Coche para Niños'
+slug: 'B07W6Q4G5H-es SWIHELP Organizadores para Coche 2 Pack Kick Mats de Coche...'
+tags: 
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

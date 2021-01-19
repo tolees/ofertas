@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EUSxFk-KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019ZN60QK-es Rimmel London  Pintalabios - 18 gr. 420 Berry Seductive  34666744420 '
+slug: 'B019ZN60QK-es Rimmel London Pintalabios - 18 gr. 420 Berry Seductive...'
+tags: 
 actualPrice: 4.73 EUR
 currency: EUR
 price: 4.73

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iITNKORaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYFDJ6B-es Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Hombre  Negro  Black   43.5 EU'
+slug: 'B07DYFDJ6B-es Merrell Vapor Glove 4 Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

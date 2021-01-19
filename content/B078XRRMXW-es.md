@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fPPNVYZpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XRRMXW-es Relojes para Hombres LIGE Hombres Acero Inoxidable Resistente al Agua Deportes Reloj De Cuarzo Analógico Cronógrafo Fecha Negocios Casual Relojes de Pulsera Negro'
+slug: 'B078XRRMXW-es Relojes para Hombres LIGE Hombres Acero Inoxidable...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Hhu8Zif6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYH6JZY-es Merrell Nova GTX  Zapatillas de Running para Asfalto para Hombre  Negro  Black   44.5 EU'
+slug: 'B07DYH6JZY-es Merrell Nova GTX Zapatillas de Running para Asfalto para...'
+tags: 
 actualPrice: 88.0 EUR
 currency: EUR
 price: 88.0

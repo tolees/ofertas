@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21CUIu%2Baa%2BL._SL200_
 comments: true
 category: ofertas
 author: ring
-slug: 'B073H7Z3SJ-es L Oréal Paris Infallible Lip Liner  rojo 701 Stay Ultraviolet'
+slug: 'B073H7Z3SJ-es L Oréal Paris Infallible Lip Liner rojo 701 Stay Ultraviolet'
+tags: 
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

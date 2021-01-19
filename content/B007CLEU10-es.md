@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CqlQntA8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007CLEU10-es Reebok Workout Plus  Zapatillas de Deporte para Hombre  Blanco  white/royal   40 EU  6.5 UK '
+slug: 'B007CLEU10-es Reebok Workout Plus Zapatillas de Deporte para Hombre...'
+tags: 
 actualPrice: 60.9 EUR
 currency: EUR
 price: 60.9

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GTFJmdGAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCP8B4X-es Finocam - Recambio Anual 2020 semana vista vertical Open R1099 español  1000-155x215 mm'
+slug: 'B07TCP8B4X-es Finocam - Recambio Anual 2020 semana vista vertical Open...'
+tags: 
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kSr4x+xEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825VKJQQ-es Vicloon Mini Paraguas del Sol Paraguas de Viaje Portátil con Diseño de Esqueleto Mejorado y 210T Negro Tela de Goma  Paraguas Plegables y Compacto Resistencia UV & Impermeable  Blanco '
+slug: 'B0825VKJQQ-es Vicloon Mini Paraguas del Sol Paraguas de Viaje Portátil...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

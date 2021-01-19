@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51034b2uD7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2O9WR9-es SJCAM SJ6 Legend  Cámara deportiva 4K de 16 MP  procesador Novatek 96660  WiFi  pantalla táctil de 2.0    color negro'
+slug: 'B01N2O9WR9-es SJCAM SJ6 Legend Cámara deportiva 4K de 16 MP procesador...'
+tags: 
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

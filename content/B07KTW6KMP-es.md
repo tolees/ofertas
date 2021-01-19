@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZCYoD6JnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTW6KMP-es adidas Must Have 3-Streifen Tiro Hose Pantalones Deportivos  Hombre  Negro  Black/White   3XL'
+slug: 'B07KTW6KMP-es adidas Must Have 3-Streifen Tiro Hose Pantalones...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

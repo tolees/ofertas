@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EXAVymaqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08424ZFWC-es Mini Adaptador USB CSR Dual Mode Wireless V4.0 EDR Dongle Transmisor USB para Windows 7 8 10 PC portátil - Negro'
+slug: 'B08424ZFWC-es Mini Adaptador USB CSR Dual Mode Wireless V4.0 EDR Dongle...'
+tags: 
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

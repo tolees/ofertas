@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H8Flv9pML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YKGGB22-es Altavoz Bluetooth 30W  VTIN B2 Altavoz Bluetooth Estéreo TWS  Altavoz Portátil Bluetooth V5.0  Rango de 22M  24H de Reproducción  para Casa/Oficina/Exterior/Viaje'
+slug: 'B07YKGGB22-es Altavoz Bluetooth 30W VTIN B2 Altavoz Bluetooth Estéreo...'
+tags: 
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

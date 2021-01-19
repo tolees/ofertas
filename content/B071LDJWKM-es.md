@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+20GhJN+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LDJWKM-es TACKLIFE Cúter  UKH01 Cuchillo con 5 Hojas Extra Reemplazables  Mango de Aluminio Ligero y Botón de Liberación Fácil'
+slug: 'B071LDJWKM-es TACKLIFE Cúter UKH01 Cuchillo con 5 Hojas Extra...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412SiQIOYHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076DGG3QW-es Seagate Backup Plus Hub STEL10000400 Unidad de disco duro externa de 10 TB  HDD  USB 3.0 para ordenador de sobremesa  PC  portátil y Mac  2 puertos USB  2 meses de suscripción a Adobe CC Photography'
+slug: 'B076DGG3QW-es Seagate Backup Plus Hub STEL10000400 Unidad de disco duro...'
+tags: 
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

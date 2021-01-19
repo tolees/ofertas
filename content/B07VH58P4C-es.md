@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51BLhtwNDgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VH58P4C-es AHANGA Correa para Mi Band 4 Xiaomi Mi Band 3 Correas Metal Pulsera de Actividad Reloj Milanés Wristband Repuesto Bandas de Acero Inoxidable Agradable con Cierre magnético Cerradura Imán Pulseras'
+slug: 'B07VH58P4C-es AHANGA Correa para Mi Band 4 Xiaomi Mi Band 3 Correas...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

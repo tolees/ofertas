@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31xTrhRw-BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3MR8CG-es L Oréal Paris Unlimited Máscara de Pestañas Waterproof Longitud y Curvatura Resistente al Agua Negra'
+slug: 'B07K3MR8CG-es L Oréal Paris Unlimited Máscara de Pestañas Waterproof...'
+tags: 
 actualPrice: 10.58 EUR
 currency: EUR
 price: 10.58

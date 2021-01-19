@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XwRziGVVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074NTQFCF-es SALCAR Caja con USB 3.0 para Disco Duro Externo HDD de 2.5   Carcasa para SATA I SATA II SATA III HDD y SSD de 9 5 mm 7 mm 2.5 Pulgadas  Optimizado para SSD  No Requiere Herramientas'
+slug: 'B074NTQFCF-es SALCAR Caja con USB 3.0 para Disco Duro Externo HDD de 2.5...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

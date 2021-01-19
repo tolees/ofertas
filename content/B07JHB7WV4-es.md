@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iqVL97m9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHB7WV4-es Levi s Cabazon Cinturón  Negro  R Black 59   90 para Hombre'
+slug: 'B07JHB7WV4-es Levi s Cabazon Cinturón Negro R Black 59 90 para Hombre'
+tags: 
 actualPrice: 13.37 EUR
 currency: EUR
 price: 13.37

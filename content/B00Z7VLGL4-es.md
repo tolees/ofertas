@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TxwZCqcIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z7VLGL4-es Exzact Básculas de Cocina/Balanza Electrónica/Escala Electrónica con Pantalla Grande y con Cuenco de Acero Inoxidable - 5kg/11lb  EX4350 '
+slug: 'B00Z7VLGL4-es Exzact Básculas de Cocina/Balanza Electrónica/Escala...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

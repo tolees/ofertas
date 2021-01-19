@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C56NSKCyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F44IOJU-es Taza de viaje - Café Thermos frasco - Aislado en vacío de acero inoxidable - Elegante ligero derrame y prueba de fugas - Fácil de limpiar la tapa - Un clic  una mano de la operación'
+slug: 'B01F44IOJU-es Taza de viaje - Café Thermos frasco - Aislado en vacío de...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

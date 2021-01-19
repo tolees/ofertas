@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d78+cstKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N44CK6S-es Desigual Blouse Larson Blusas  Azul  Navy 5000   M para Mujer'
+slug: 'B07N44CK6S-es Desigual Blouse Larson Blusas Azul Navy 5000 M para Mujer'
+tags: 
 actualPrice: 48.55 EUR
 currency: EUR
 price: 48.55

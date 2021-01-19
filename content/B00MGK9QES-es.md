@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318QNxM2zLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MGK9QES-es Rimmel London Provocalips Barra De Labios  Tono 500 Kiss Me You Fool - 7 ml  34666744500 '
+slug: 'B00MGK9QES-es Rimmel London Provocalips Barra De Labios Tono 500 Kiss Me...'
+tags: 
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

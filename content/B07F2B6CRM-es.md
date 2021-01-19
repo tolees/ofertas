@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eF7VIUcHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2B6CRM-es OurLeeme Cubierta Impermeable Barbacoa Grande Protector para Cubrir Gas de Carbã³n Elã©Ctrica Parrilla de la Barbacoa  170 * 61 * 117 cm '
+slug: 'B07F2B6CRM-es OurLeeme Cubierta Impermeable Barbacoa Grande Protector...'
+tags: 
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

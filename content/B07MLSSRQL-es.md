@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31AVP7OxiLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLSSRQL-es Clarks Ronnie Top  Botas Chelsea para Hombre  Negro  Black Leather Black Leather   45 EU'
+slug: 'B07MLSSRQL-es Clarks Ronnie Top Botas Chelsea para Hombre Negro Black...'
+tags: 
 actualPrice: 37.76 EUR
 currency: EUR
 price: 37.76

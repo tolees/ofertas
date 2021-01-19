@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CFc2P9ETL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NGBYGB4-es Anita Still-BH Fleur - Sujetador básico para mujer  Negro  schwarz 001   105C'
+slug: 'B00NGBYGB4-es Anita Still-BH Fleur - Sujetador básico para mujer Negro...'
+tags: 
 actualPrice: 26.31 EUR
 currency: EUR
 price: 26.31

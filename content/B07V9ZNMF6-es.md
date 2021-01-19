@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wQKfwq-kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9ZNMF6-es Calvin Klein Essential Tipping Slim Polo  Negro  CK Black/White Bae   Large para Hombre'
+slug: 'B07V9ZNMF6-es Calvin Klein Essential Tipping Slim Polo Negro CK...'
+tags: 
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ParTw9QEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPF6RLN-es Alicates multiherramientas 12 en 1 plegables portátiles con funda de nailon para exteriores'
+slug: 'B07GPF6RLN-es Alicates multiherramientas 12 en 1 plegables portátiles...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

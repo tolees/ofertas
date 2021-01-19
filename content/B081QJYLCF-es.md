@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mD8YyCUVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081QJYLCF-es Deik Juego de 5 Utensilios Antiadherentes para Horno-Bandeja de Horno  Molde para Magdalenas  Molde Rectangular para Pan  Molde Redondo  de Acero al Carbono  para Horno  260°Resistente al Calor  Negro'
+slug: 'B081QJYLCF-es Deik Juego de 5 Utensilios Antiadherentes para Horno-...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

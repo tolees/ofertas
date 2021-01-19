@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qM6QZ3GqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XWOBKSC-es Nike Court Royale  Zapatillas de Gimnasia para Hombre  Blanco  White/White 111   42.5 EU'
+slug: 'B00XWOBKSC-es Nike Court Royale Zapatillas de Gimnasia para Hombre...'
+tags: 
 actualPrice: 37.8 EUR
 currency: EUR
 price: 37.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513qtLTEo+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0739ZBX3L-es CampTeck U6576 3m Cuerda Saltar de Velocidad Ajustable Acero Cable Jumping Rope con Rodamiento de Bolas para Fitness Ejercicio  Entrenamiento'
+slug: 'B0739ZBX3L-es CampTeck U6576 3m Cuerda Saltar de Velocidad Ajustable...'
+tags: 
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xH+bZUeyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002CMSOFW-es Mantona Premium  Funda para Cámara Reflex  Correa para Hombro  Cierre de Cremallera y Clip  Color negro'
+slug: 'B002CMSOFW-es Mantona Premium Funda para Cámara Reflex Correa para...'
+tags: 
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

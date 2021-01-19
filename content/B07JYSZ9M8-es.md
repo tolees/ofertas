@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/319dQYawvQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYSZ9M8-es Tommy Hilfiger Tommy Slim Polo  Morado  Hyacinth Violet 526   XX-Large para Hombre'
+slug: 'B07JYSZ9M8-es Tommy Hilfiger Tommy Slim Polo Morado Hyacinth Violet 526...'
+tags: 
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

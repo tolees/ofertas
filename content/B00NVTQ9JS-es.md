@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4124SE7ZIHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NVTQ9JS-es Zortrax M200 3D-impresora  single extrudir  negro'
+slug: 'B00NVTQ9JS-es Zortrax M200 3D-impresora single extrudir negro'
+tags: 
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

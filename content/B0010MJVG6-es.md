@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FzYzMttsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0010MJVG6-es Casio Classic MW-59-7BVDF  Reloj Analógico de Cuarzo con Calendario y Correa de Resina para Hombre  Negro'
+slug: 'B0010MJVG6-es Casio Classic MW-59-7BVDF Reloj Analógico de Cuarzo con...'
+tags: 
 actualPrice: 19.6 EUR
 currency: EUR
 price: 19.6

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yLw2cBScL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014SD79DU-es Nike MD Runner 2  TDV   Zapatillas de Deporte Unisex niño  Negro  Black/White-Wolf Grey 001   27 EU'
+slug: 'B014SD79DU-es Nike MD Runner 2 TDV Zapatillas de Deporte Unisex niño...'
+tags: 
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

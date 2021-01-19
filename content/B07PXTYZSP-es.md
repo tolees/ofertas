@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pp+tIlqVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXTYZSP-es Under Armour Charged Pursuit 2  Zapatillas para Correr para Hombre  Azul  Academy/White/White  401  401   43 EU'
+slug: 'B07PXTYZSP-es Under Armour Charged Pursuit 2 Zapatillas para Correr para...'
+tags: 
 actualPrice: 42.11 EUR
 currency: EUR
 price: 42.11

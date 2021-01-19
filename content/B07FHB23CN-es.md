@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rgfL-D-gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHB23CN-es Levi s Graphic Po Hoodie-B suéter  Grigio  Hm Pop Co Midtone Heather Grey 0037   XXX-Large para Hombre'
+slug: 'B07FHB23CN-es Levi s Graphic Po Hoodie-B suéter Grigio Hm Pop Co Midtone...'
+tags: 
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

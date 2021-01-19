@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JIWMFPO-es Monix - Taco Cuchillos ceramicos 4p.'
+tags: 
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

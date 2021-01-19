@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lfywUQgJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKN919J-es Clarks Step Allena Go  Zapatillas para Mujer  Beige  Mauve Mauve   35.5 EU'
+slug: 'B07TKN919J-es Clarks Step Allena Go Zapatillas para Mujer Beige Mauve...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

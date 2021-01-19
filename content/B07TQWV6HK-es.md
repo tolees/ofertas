@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QOHYnM7PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQWV6HK-es Clarks Originals Boot  Botas Desert  Verde  Dark Olive SDE Dark Olive SDE   37.5 EU'
+slug: 'B07TQWV6HK-es Clarks Originals Boot Botas Desert Verde Dark Olive SDE...'
+tags: 
 actualPrice: 42.46 EUR
 currency: EUR
 price: 42.46

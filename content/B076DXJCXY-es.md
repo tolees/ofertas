@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4140UBJ9XHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076DXJCXY-es Bébé Confort CAPAZO BLANDO LAIKA  Nomad Blue - Capazo Blando  exclusivo para cochecito Laika  color azul'
+slug: 'B076DXJCXY-es Bébé Confort CAPAZO BLANDO LAIKA Nomad Blue - Capazo...'
+tags: 
 actualPrice: 55.98 EUR
 currency: EUR
 price: 55.98

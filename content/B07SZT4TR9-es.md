@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312ln8bRyqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZT4TR9-es Galapara Bebedero Gatos  Automático de la Fuente de Agua del Gato Bebedor de Mascotas eléctrico Cuenco Dispensador Fuente silencioso para Gatos'
+slug: 'B07SZT4TR9-es Galapara Bebedero Gatos Automático de la Fuente de Agua...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g89TpsKfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001F0R1FG-es HP CE505A 05A Cartucho de Tóner Original  1 unidad  negro'
+slug: 'B001F0R1FG-es HP CE505A 05A Cartucho de Tóner Original 1 unidad negro'
+tags: 
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

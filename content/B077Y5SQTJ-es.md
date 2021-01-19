@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m3PN08-WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y5SQTJ-es Tuc Tuc Biscuit - Bolsa maternidad y cambiador  color gris'
+slug: 'B077Y5SQTJ-es Tuc Tuc Biscuit - Bolsa maternidad y cambiador color gris'
+tags: 
 actualPrice: 41.15 EUR
 currency: EUR
 price: 41.15

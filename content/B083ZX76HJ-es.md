@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+jVbkGBPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZX76HJ-es Collares Mujer Colgante Corazón Plata 925 Rosa Colgante Joyeria Personalizados Mamá/Esposa Regalo Originales'
+slug: 'B083ZX76HJ-es Collares Mujer Colgante Corazón Plata 925 Rosa Colgante...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

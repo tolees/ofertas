@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415fiZZr8bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3YUSW6-es NEW C 2 Unidades  Protector de Pantalla para Samsung Galaxy J5 2016  SM-J510   Vidrio Cristal Templado'
+slug: 'B01N3YUSW6-es NEW C 2 Unidades Protector de Pantalla para Samsung Galaxy...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

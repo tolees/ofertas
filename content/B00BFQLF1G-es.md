@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LYg5Qzl2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BFQLF1G-es Bisk 00414 Deco Toallero Anillo  16 x 6 x 18.5 cm Acabado latón Envejecido'
+slug: 'B00BFQLF1G-es Bisk 00414 Deco Toallero Anillo 16 x 6 x 18.5 cm Acabado...'
+tags: 
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

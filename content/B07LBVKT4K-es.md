@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NrufONuYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBVKT4K-es Calvin Klein Unlined Sujetador estilo bralette  Azul  Blue Shadow 8Sb   95  Talla del fabricante: Small  para Mujer'
+slug: 'B07LBVKT4K-es Calvin Klein Unlined Sujetador estilo bralette Azul Blue...'
+tags: 
 actualPrice: 15.64 EUR
 currency: EUR
 price: 15.64

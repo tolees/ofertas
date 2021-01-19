@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51814P4d0vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYZTDYC-es QHOHQ Protector de Pantalla para Echo Show 5  [3 Unidades] Cristal Templado Screen Protector 9H [Versión Mejorada] para Echo Show 5'
+slug: 'B07TYZTDYC-es QHOHQ Protector de Pantalla para Echo Show 5 [3 Unidades]...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

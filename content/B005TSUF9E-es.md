@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b2VuHExyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005TSUF9E-es GRAND CANYON Robson 3 – tienda tipo túnel  tienda para 3 personas   oliva/negro  602004'
+slug: 'B005TSUF9E-es GRAND CANYON Robson 3 – tienda tipo túnel tienda para 3...'
+tags: 
 actualPrice: 80.98 EUR
 currency: EUR
 price: 80.98

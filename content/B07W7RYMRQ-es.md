@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21wq9rSCjqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7RYMRQ-es TOYANDONA 1pc pezones de bebé pezones creativos biberones de bebé biberones de bebé.'
+slug: 'B07W7RYMRQ-es TOYANDONA 1pc pezones de bebé pezones creativos biberones...'
+tags: 
 actualPrice: 2.88 EUR
 currency: EUR
 price: 2.88

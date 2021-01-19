@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yLHTvTxDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K72JXL8-es Asics Patriot 10  Zapatillas de Running para Hombre  Rojo  Classic Red/Steel Grey 600   43.5 EU'
+slug: 'B07K72JXL8-es Asics Patriot 10 Zapatillas de Running para Hombre Rojo...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

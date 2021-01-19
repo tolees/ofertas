@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510+ihwaVzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4QFIZY-es adidas X 17.3 FG  Zapatillas de Fútbol para Hombre  Multicolor  Solar Yellow Legend Ink   40 EU'
+slug: 'B01N4QFIZY-es adidas X 17.3 FG Zapatillas de Fútbol para Hombre...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XSHm8Td+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZGYCN22-es Plastificadora A4 A5 A7  ABOX Pixseal II Máquina para Plastificar en Frío y Caliente 350mm por min con Función ABS  Cortador de Papel  Redondeador de Esquina y 20 Fundas'
+slug: 'B07ZGYCN22-es Plastificadora A4 A5 A7 ABOX Pixseal II Máquina para...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

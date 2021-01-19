@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sC4KnTdjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRPXWG9-es HOUSE DAY 8Pcs Perchas mágicas Armario Ahorro de Espacio Armario Ropa Perchas mágicas Organizador Perchas Pesadas de Cromo 26.7cm'
+slug: 'B01MRPXWG9-es HOUSE DAY 8Pcs Perchas mágicas Armario Ahorro de Espacio...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

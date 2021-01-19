@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ue-q3on1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074G48PLG-es Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable 18563/1'
+slug: 'B074G48PLG-es Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo...'
+tags: 
 actualPrice: 79.88 EUR
 currency: EUR
 price: 79.88

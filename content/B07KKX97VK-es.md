@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Sp0AuKwkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKX97VK-es adidas Finale M CPT - Balon de fútbol  Off White/Power Solar Active Red/Black  5'
+slug: 'B07KKX97VK-es adidas Finale M CPT - Balon de fútbol Off White/Power...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

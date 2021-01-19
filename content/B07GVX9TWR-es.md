@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31U-JFbtzaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVX9TWR-es HP 250 - Ratón inalámbrico  Negro'
+slug: 'B07GVX9TWR-es HP 250 - Ratón inalámbrico Negro'
+tags: 
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ElYA3sciL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQBYFXV-es Lamina Magnetica Adhesiva  Bingolar Cuadrados magnéticos anisotrópicos fuertes  Mantenga 100g  Cuadrados de cinta magnética  25 x 25 x 2mm   cuadrados de imán flexible perfecto para la organización'
+slug: 'B07BQBYFXV-es Lamina Magnetica Adhesiva Bingolar Cuadrados magnéticos...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

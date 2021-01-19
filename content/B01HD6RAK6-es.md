@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tyOAsafJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD6RAK6-es Salomon Evasion 2 Aero  Zapatillas de Senderismo para Hombre  Negro  Black/Magnet/Alloy   41 1/3 EU'
+slug: 'B01HD6RAK6-es Salomon Evasion 2 Aero Zapatillas de Senderismo para...'
+tags: 
 actualPrice: 61.48 EUR
 currency: EUR
 price: 61.48

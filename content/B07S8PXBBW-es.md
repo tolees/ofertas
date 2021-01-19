@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AQ-lIagKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8PXBBW-es PUMA Carina  Zapatillas para Mujer  Negro Black-Pink Rosewater Silver 11  37 EU'
+slug: 'B07S8PXBBW-es PUMA Carina Zapatillas para Mujer Negro Black-Pink...'
+tags: 
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Q1u+QCThL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STXK232-es Skechers Energy Timeless Vision  Zapatillas para Mujer  Blanco Blanco Cuero Rojo Navy Trim Wml  41 EU'
+slug: 'B07STXK232-es Skechers Energy Timeless Vision Zapatillas para Mujer...'
+tags: 
 actualPrice: 35.07 EUR
 currency: EUR
 price: 35.07

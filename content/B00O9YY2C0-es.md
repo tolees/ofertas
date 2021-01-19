@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IulGZ0AnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O9YY2C0-es SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva Sin Relleno para Mujer Beige ES:90E  EU 75E '
+slug: 'B00O9YY2C0-es SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva...'
+tags: 
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

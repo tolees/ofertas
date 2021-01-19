@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C1iCMoXFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL2QWPZ-es New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Mujer  Negro  Black/White Black/White   37.5 EU'
+slug: 'B07BL2QWPZ-es New Balance Fresh Foam Zante Pursuit Zapatillas de Running...'
+tags: 
 actualPrice: 52.63 EUR
 currency: EUR
 price: 52.63

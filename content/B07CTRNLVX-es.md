@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31182+W9cjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTRNLVX-es FIND - Sunrise dance - Paleta de sombras de ojos de 10 tonos n.2'
+slug: 'B07CTRNLVX-es FIND - Sunrise dance - Paleta de sombras de ojos de 10...'
+tags: 
 actualPrice: 3.81 EUR
 currency: EUR
 price: 3.81

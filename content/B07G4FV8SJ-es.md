@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HC9%2BSAMjL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4FV8SJ-es Hugo Boss Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable 1513636'
+slug: 'B07G4FV8SJ-es Hugo Boss Reloj Multiesfera para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 178.81 EUR
 currency: EUR
 price: 178.81

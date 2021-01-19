@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514tBb44RTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQWJKJJ-es VGBEY 5 Unids Señuelo de Pesca  Calamar Jig Hooks  Silicona Artificial Calamar Sepia Manga Señuelo Gancho Gancho Accesorios De Pesca'
+slug: 'B07MQWJKJJ-es VGBEY 5 Unids Señuelo de Pesca Calamar Jig Hooks Silicona...'
+tags: 
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

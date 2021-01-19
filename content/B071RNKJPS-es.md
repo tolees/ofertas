@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TLzp6Of+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RNKJPS-es Game of Thrones-Funko Pop Figura S7 Tyrion Lannister  Multicolor 12216'
+slug: 'B071RNKJPS-es Game of Thrones-Funko Pop Figura S7 Tyrion Lannister...'
+tags: 
 actualPrice: 10.94 EUR
 currency: EUR
 price: 10.94

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412EiOSEuoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0747MYDFF-es Tul Dosel Azul Mosquitera Cuna Bebe Cortina para Cama Infantil Decoración Habitación Juvenil pared Tienda Bebe Juegos Regalo NTE003'
+slug: 'B0747MYDFF-es Tul Dosel Azul Mosquitera Cuna Bebe Cortina para Cama...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

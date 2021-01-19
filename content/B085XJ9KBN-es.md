@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PszE1AMBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XJ9KBN-es Jack & Jones Jjikenso Jjchino Shorts AKM 432 STS Pantalones Cortos  Vajilla  S para Hombre'
+slug: 'B085XJ9KBN-es Jack & Jones Jjikenso Jjchino Shorts AKM 432 STS...'
+tags: 
 actualPrice: 14.84 EUR
 currency: EUR
 price: 14.84

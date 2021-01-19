@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZvM3LkzgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KGSC68-es Micrófono Inalámbrico Recargable Sistema de UHF Dual Micrófono Karaoke Profesional Micrófono de Mano Dinámico Portátil con Mini Receptor Bluetooth para Barra de Sonido Altavoz PA Speaker Wedding'
+slug: 'B082KGSC68-es Micrófono Inalámbrico Recargable Sistema de UHF Dual...'
+tags: 
 actualPrice: 54.79 EUR
 currency: EUR
 price: 54.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KDEVOdf7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071PFMVGF-es Cool Area Toldo Vela de Sombra Rectangular 4 x 6 Metros Protección Rayos UV  Resistente y Transpirable para Patio Exteriores Jardín  Color Grafito'
+slug: 'B071PFMVGF-es Cool Area Toldo Vela de Sombra Rectangular 4 x 6 Metros...'
+tags: 
 actualPrice: 95.98 EUR
 currency: EUR
 price: 95.98

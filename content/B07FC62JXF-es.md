@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FPcxcB7ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FC62JXF-es 1 Unidad de Medidor de Presión de Aire para Pelotas de Fútbol Baloncesto'
+slug: 'B07FC62JXF-es 1 Unidad de Medidor de Presión de Aire para Pelotas de...'
+tags: 
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

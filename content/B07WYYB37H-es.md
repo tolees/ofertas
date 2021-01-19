@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/618lYGk78YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WYYB37H-es BOSSTER Pegatinas de Vinilo 35 Unidades Hombre Araña Paquete de Pegatinas para Portátiles Automóviles Motocicletas Bicicletas Monopatines Etiquetas de Parachoques'
+slug: 'B07WYYB37H-es BOSSTER Pegatinas de Vinilo 35 Unidades Hombre Araña...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

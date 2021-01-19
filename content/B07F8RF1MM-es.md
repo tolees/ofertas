@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21qJfqEQneL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8RF1MM-es Samsung - Lápiz capacitivo S-Pen para Samsung Galaxy Note 9  color azul- Version española'
+slug: 'B07F8RF1MM-es Samsung - Lápiz capacitivo S-Pen para Samsung Galaxy Note...'
+tags: 
 actualPrice: 29.2 EUR
 currency: EUR
 price: 29.2

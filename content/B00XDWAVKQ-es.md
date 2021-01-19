@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Y72Qrq4-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XDWAVKQ-es Naturtint. Tinte Sin Amoniaco. Ingredientes Vegetales. 7G Rubio Dorado. 170 ml'
+slug: 'B00XDWAVKQ-es Naturtint. Tinte Sin Amoniaco. Ingredientes Vegetales. 7G...'
+tags: 
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uW0mDlxSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7T36FR-es Campingaz Xpert 200 L Classic Barbacoa Gas  BBQ Gas con 2 Quemadores  7.1kW de portencia  Parrila y Plancha de Acero Esmaltado   2 Mesas Laterales y Carro de Acero'
+slug: 'B01N7T36FR-es Campingaz Xpert 200 L Classic Barbacoa Gas BBQ Gas con 2...'
+tags: 
 actualPrice: 110.56 EUR
 currency: EUR
 price: 110.56

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/312irj1zSFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RG2GGF-es GORE WEAR R3 Mallas 3/4 de mujer  36  Negro'
+slug: 'B075RG2GGF-es GORE WEAR R3 Mallas 3/4 de mujer 36 Negro'
+tags: 
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

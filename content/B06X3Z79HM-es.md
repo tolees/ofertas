@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BI-WuW0CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X3Z79HM-es Casio EDIFICE Reloj en caja sólida  10 BAR  Azul/Negro  para Hombre  con Correa de Acero inoxidable  EFR-556DB-2AVUEF'
+slug: 'B06X3Z79HM-es Casio EDIFICE Reloj en caja sólida 10 BAR Azul/Negro para...'
+tags: 
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

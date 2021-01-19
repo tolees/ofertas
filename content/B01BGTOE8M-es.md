@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zYJp-Y9YL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTOE8M-es G-Star Raw Bronson  Pantalones Para Hombre  Beige  Beige Dune 239   W40/L38'
+slug: 'B01BGTOE8M-es G-Star Raw Bronson Pantalones Para Hombre Beige Beige Dune...'
+tags: 
 actualPrice: 25.46 EUR
 currency: EUR
 price: 25.46

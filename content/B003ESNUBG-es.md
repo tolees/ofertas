@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fnId2lE5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ESNUBG-es Zeller 13145 - Cajón multiusos de madera blanda conífera  40 x 30 x 15 cm'
+slug: 'B003ESNUBG-es Zeller 13145 - Cajón multiusos de madera blanda conífera...'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

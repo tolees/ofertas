@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413Zwv-ZROL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRL41LD-es Ricatech PR22 - Radio análoga  vintage  nostálgica  canales AM/FM  liviana  Pequeña  portátil  altavoz de 1 voltio  funciona a batería  conector para auriculares de 3 5 mm  Color Negro'
+slug: 'B07DRL41LD-es Ricatech PR22 - Radio análoga vintage nostálgica canales...'
+tags: 
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zGot2TieL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B88CSDD-es Kikc Rollos al Vacio para  Bolsa de vacío Adecuada para sellador al vacío y Sous Vide  Apta para Uso Personal y Comercial  Gran compatibilidad 20x600cm y 28x600cm 2 Rollos'
+slug: 'B08B88CSDD-es Kikc Rollos al Vacio para Bolsa de vacío Adecuada para...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UMtsvxCZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTD3SCS-es Funko- Pop Ride Racer-Speed w/Mach 5 Collectible Toy  Multicolor  45098 '
+slug: 'B07TTD3SCS-es Funko- Pop Ride Racer-Speed w/Mach 5 Collectible Toy...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

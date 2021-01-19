@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qscSWGNiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H78WT1L-es Moulinex Infiny Force Ultimate Cocktail DD87KD10 Batidora de mano con accesorios  1000 W  800 Ml  Acero Inoxidable  25 Velocidades  Plateado'
+slug: 'B07H78WT1L-es Moulinex Infiny Force Ultimate Cocktail DD87KD10 Batidora...'
+tags: 
 actualPrice: 60.83 EUR
 currency: EUR
 price: 60.83

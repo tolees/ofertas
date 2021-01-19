@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BMOIZB8-es IFC HELIOCARE 360º 30 cápsulas'
+tags: 
 actualPrice: 26.5 EUR
 currency: EUR
 price: 26.5

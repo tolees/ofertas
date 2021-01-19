@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51HqKAYF-BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0727RKJFL-es KEEPOW Paños de limpieza de microfibra para aspiradora robótica iRobot Braava 390t 380 380t 320 Mint 4200 4205 5200 5200C  Paquete de 10 '
+slug: 'B0727RKJFL-es KEEPOW Paños de limpieza de microfibra para aspiradora...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

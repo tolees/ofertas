@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rx5OJN-OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KV3BB0S-es Sennheiser GSP 300 - Microauricular Cerrado para Gaming  Color Negro y Azul'
+slug: 'B01KV3BB0S-es Sennheiser GSP 300 - Microauricular Cerrado para Gaming...'
+tags: 
 actualPrice: 71.0 EUR
 currency: EUR
 price: 71.0

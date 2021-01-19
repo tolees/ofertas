@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xjVtfw9kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084PBSH6N-es 4 Unids/set Mesa de seguridad para niños Cubierta de protección de escritorio Baby Safe Crash Corner Guards Pads Table Corner Cover - Color café'
+slug: 'B084PBSH6N-es 4 Unids/set Mesa de seguridad para niños Cubierta de...'
+tags: 
 actualPrice: 1.36 EUR
 currency: EUR
 price: 1.36

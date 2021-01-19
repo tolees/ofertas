@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qejj3ChvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PTSDW3B-es Autan Family Care Aerosol  Repelente de Mosquitos e Insectos - 100 ml'
+slug: 'B07PTSDW3B-es Autan Family Care Aerosol Repelente de Mosquitos e...'
+tags: 
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

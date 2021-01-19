@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DZUW0P7aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797Q8ZNT-es PUMA LIGA Shorts Pants  Hombre  White Black  M'
+slug: 'B0797Q8ZNT-es PUMA LIGA Shorts Pants Hombre White Black M'
+tags: 
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

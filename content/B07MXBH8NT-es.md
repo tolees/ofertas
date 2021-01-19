@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tbPWmEKwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXBH8NT-es JACK & JONES Jjebomb Puffer Hood Noos Hombre  Azul  Navy Blazer Navy Blazer   Medium'
+slug: 'B07MXBH8NT-es JACK & JONES Jjebomb Puffer Hood Noos Hombre Azul Navy...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

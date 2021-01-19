@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vCK10d9WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EZVTK88-es Intex 29040NP - Dispensador químico para piscinas y Spa diámetro 12 7 cm'
+slug: 'B00EZVTK88-es Intex 29040NP - Dispensador químico para piscinas y Spa...'
+tags: 
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5111fZvAwbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K6MMMI0-es Guess Reloj analogico para Hombre de Cuarzo con Correa en Acero Inoxidable W0377G4'
+slug: 'B00K6MMMI0-es Guess Reloj analogico para Hombre de Cuarzo con Correa en...'
+tags: 
 actualPrice: 146.96 EUR
 currency: EUR
 price: 146.96

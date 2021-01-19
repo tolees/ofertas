@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AthYLz+9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NYTJJ6B-es Skechers Go Run 600  Zapatillas para Hombre  Azul  Blue Textile/Navy Trim Blnv   44.5 EU'
+slug: 'B07NYTJJ6B-es Skechers Go Run 600 Zapatillas para Hombre Azul Blue...'
+tags: 
 actualPrice: 38.55 EUR
 currency: EUR
 price: 38.55

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AfQvvG0kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPX6C4Y-es Joma Academy Chandal Caballero  Hombre  Negro/Blanco  M'
+slug: 'B07CPX6C4Y-es Joma Academy Chandal Caballero Hombre Negro/Blanco M'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

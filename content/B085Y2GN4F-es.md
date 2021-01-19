@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QI5FWAMcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085Y2GN4F-es Milacolato 8 Pares de Aretes de Plata de ley 925 Circle Bar Ball Heart Tiny Earring Stud Set para Mujeres'
+slug: 'B085Y2GN4F-es Milacolato 8 Pares de Aretes de Plata de ley 925 Circle...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

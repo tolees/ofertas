@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413312lGuPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKG9YB4-es Kipling Gabbie S  Bolsos Bandolera para Mujer  Gris  Active Grey Bl   29x22x16.5 centimeters  B x H x T '
+slug: 'B07DKG9YB4-es Kipling Gabbie S Bolsos Bandolera para Mujer Gris Active...'
+tags: 
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

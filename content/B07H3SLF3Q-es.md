@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51z6HE1ac9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3SLF3Q-es TOPERSUN Funda de Barbacoa Funda Protectora para Barbacoa BBQ Funda Impermeable para 77cm*70cm Parrilla de Barbacoa'
+slug: 'B07H3SLF3Q-es TOPERSUN Funda de Barbacoa Funda Protectora para Barbacoa...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

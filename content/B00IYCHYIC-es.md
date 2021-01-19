@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GYys4GnqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IYCHYIC-es uhlsport Pullover Match 1/4 Zip Top - Forro para Mujer  Color Negro  Talla 2XL'
+slug: 'B00IYCHYIC-es uhlsport Pullover Match 1/4 Zip Top - Forro para Mujer...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

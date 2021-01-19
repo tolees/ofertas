@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319nZ9u67BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZT97RQ4-es Inclinómetro horizontal magnético del buscador digital de ángulos  medición integral de 360 grados  transportador de regla angular para la fabricación de maquinaria  reparación de automóviles  etc.'
+slug: 'B07ZT97RQ4-es Inclinómetro horizontal magnético del buscador digital de...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

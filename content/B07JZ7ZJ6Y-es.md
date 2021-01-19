@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I9CEzbA7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZ7ZJ6Y-es 28 Palms 9" Inseam Cotton Tencel Chino Short Shorts  Blanco  30'
+slug: 'B07JZ7ZJ6Y-es 28 Palms 9" Inseam Cotton Tencel Chino Short Shorts Blanco 30'
+tags: 
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

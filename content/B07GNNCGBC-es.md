@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MsuuQ1TJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNNCGBC-es i-eX Puf para Videojuegos y reposapiés  Negro  91cm x 88cm  Grande  Cuero sintético  Reclinable ergonómico para Videojuegos  Silla para Videojuegos'
+slug: 'B07GNNCGBC-es i-eX Puf para Videojuegos y reposapiés Negro 91cm x 88cm...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

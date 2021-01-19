@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zf+5FYDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QNYRFRX-es Bulova Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 96R231'
+slug: 'B07QNYRFRX-es Bulova Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 278.99 EUR
 currency: EUR
 price: 278.99

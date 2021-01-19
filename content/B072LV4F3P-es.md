@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419FCnNiqwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072LV4F3P-es BRTLX Bombillas de Vela LED E14 7W Equivalente a 40W Blanco Frío 6000K 560 Lúmenes No Regulable Pack de 4 Unidades'
+slug: 'B072LV4F3P-es BRTLX Bombillas de Vela LED E14 7W Equivalente a 40W...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

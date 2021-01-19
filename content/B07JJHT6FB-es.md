@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HZIix-f2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJHT6FB-es Pinte por Number Kit  DIY Pintura al óleo Dibujo Elefante Lienzo Colorido con cepillos Decoración Decoraciones 16 * 20 Pulgadas sin Marco'
+slug: 'B07JJHT6FB-es Pinte por Number Kit DIY Pintura al óleo Dibujo Elefante...'
+tags: 
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

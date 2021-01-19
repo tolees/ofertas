@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KSFXB12-es ABC PARTS Princesas Disney PRIN104 Alzador'
+tags: 
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

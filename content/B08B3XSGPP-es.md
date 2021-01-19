@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SvfoXNCsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3XSGPP-es Donci Termómetro de Interior Medidor de Humedad LCD Termómetro Digital Higrómetro Habitación ℃ / ℉ Medidor de Humedad de Temperatura Medidor Reloj Despertador Termohigrómetro con Memoria MAX/MIN'
+slug: 'B08B3XSGPP-es Donci Termómetro de Interior Medidor de Humedad LCD...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

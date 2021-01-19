@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e3JsDBHsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4SRQTV-es Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 830523'
+slug: 'B07G4SRQTV-es Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 111.31 EUR
 currency: EUR
 price: 111.31

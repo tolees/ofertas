@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21teFC0Yh5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088LYQ2ZL-es KRY Ear Wax Remover - Limpiador de oídos en espiral seguro y suave - Herramienta profesional portátil de extracción de orejas Pick Ear'
+slug: 'B088LYQ2ZL-es KRY Ear Wax Remover - Limpiador de oídos en espiral seguro...'
+tags: 
 actualPrice: 19.86 EUR
 currency: EUR
 price: 19.86

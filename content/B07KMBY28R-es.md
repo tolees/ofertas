@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cvsKgCTpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMBY28R-es Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Mujer  Verde  Dragonfly   39 EU'
+slug: 'B07KMBY28R-es Merrell Vapor Glove 4 Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

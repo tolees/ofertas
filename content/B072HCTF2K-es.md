@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CBo9uf48L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072HCTF2K-es SELECTED HOMME Shddome Crew Neck Noos suéter  Azul  Dark Sapphire   Medium para Hombre'
+slug: 'B072HCTF2K-es SELECTED HOMME Shddome Crew Neck Noos suéter Azul Dark...'
+tags: 
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

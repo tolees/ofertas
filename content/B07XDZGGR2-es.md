@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZmB-Zv+BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDZGGR2-es PUMA Studio Porcelain Bra Sujetador Deportivo  Mujer  Black  XS'
+slug: 'B07XDZGGR2-es PUMA Studio Porcelain Bra Sujetador Deportivo Mujer Black XS'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

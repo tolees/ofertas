@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kWtc9McRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008FIFFY0-es Columbia Bora Bora Booney  Sombrero unisex  Fibra sintética  Color: Gris  Grill   Talla Universal  Ajustable   Art. 1447091'
+slug: 'B008FIFFY0-es Columbia Bora Bora Booney Sombrero unisex Fibra sintética...'
+tags: 
 actualPrice: 17.74 EUR
 currency: EUR
 price: 17.74

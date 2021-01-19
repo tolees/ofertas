@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419XZKIGqKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ7QY5K-es Chatham Grampian  Botas Clasicas para Hombre  Khaki Nubuck 001  11 EU'
+slug: 'B07NZ7QY5K-es Chatham Grampian Botas Clasicas para Hombre Khaki Nubuck...'
+tags: 
 actualPrice: 20.68 EUR
 currency: EUR
 price: 20.68

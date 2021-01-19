@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31DkrGx5LML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG16JVV-es PUMA Hybrid Fuego Lights  Zapatillas de Running para Hombre  White-Yellow Alert  43 EU'
+slug: 'B07KG16JVV-es PUMA Hybrid Fuego Lights Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

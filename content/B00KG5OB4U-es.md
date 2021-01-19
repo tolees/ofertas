@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IL7tJAq-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KG5OB4U-es Love2Wait Sophia Pantalones  Negro  Schwarz-Schwarz   W28 para Mujer'
+slug: 'B00KG5OB4U-es Love2Wait Sophia Pantalones Negro Schwarz-Schwarz W28 para...'
+tags: 
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

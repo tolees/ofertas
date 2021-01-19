@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DTzYnJnvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLCVRNH-es CARPISA ® Cartera con cremallera completa de fantasía - Foresta Wallet'
+slug: 'B07XLCVRNH-es CARPISA ® Cartera con cremallera completa de fantasía -...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

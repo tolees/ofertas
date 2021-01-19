@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u032xT5qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2QV3QZ-es ETEKCITY EK7017 Báscula Digital para Cocina con Pantalla Táctil  Balanza de Alimentos Multifuncional  5 kg / 11 lbs  Acero Inoxidable de Grado Alimenticio 304  Plata  Baterías Incluidas '
+slug: 'B07C2QV3QZ-es ETEKCITY EK7017 Báscula Digital para Cocina con Pantalla...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

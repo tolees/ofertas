@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IFdzGX8sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ5JK42-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars TM Ataque del Caza Tie-Compatible con Ladrillos de Construcción Lego Modelo 75237  Juego de Legos no Incluido'
+slug: 'B07RZ5JK42-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars TM...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

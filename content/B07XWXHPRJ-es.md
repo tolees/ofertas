@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r2Ma4+XzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XWXHPRJ-es WESCO Destornillador Eléctrico Inalámbrico 3 6V  Atornillador Pequeño Recargable Batería 1500mAh Li-ion  Luz LED  6 Puntas WS2013'
+slug: 'B07XWXHPRJ-es WESCO Destornillador Eléctrico Inalámbrico 3 6V...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

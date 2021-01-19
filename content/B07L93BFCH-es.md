@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414rPBbEZ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L93BFCH-es Sharplace Unidad de Disquete SSD USB Tornillos Externa SFR1M44-u100 3.5 Pulgadas'
+slug: 'B07L93BFCH-es Sharplace Unidad de Disquete SSD USB Tornillos Externa...'
+tags: 
 actualPrice: 20.93 EUR
 currency: EUR
 price: 20.93

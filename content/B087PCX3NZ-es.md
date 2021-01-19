@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AKFiJsU0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PCX3NZ-es Anzkzo Cojín Cojines de Asiento Cojín de Silla Larga para sillón Engrosada Cojín de baño de Sol para Silla Tumbona de jardín 1pcs-49.2x19.4x3.1in Vino Tinto'
+slug: 'B087PCX3NZ-es Anzkzo Cojín Cojines de Asiento Cojín de Silla Larga para...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

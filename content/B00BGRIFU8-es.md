@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HT+0tkg7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BGRIFU8-es Mega Grúa de 100cm por cable  Dickie 3462411 '
+slug: 'B00BGRIFU8-es Mega Grúa de 100cm por cable Dickie 3462411'
+tags: 
 actualPrice: 21.47 EUR
 currency: EUR
 price: 21.47

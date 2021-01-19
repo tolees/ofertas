@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mTLjLXXiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K72MDZ3-es American Tourister Bon Air - Spinner Small Strict Equipaje de Mano  55 cm  31.5 Liters  Rosa  Cherry Blossoms '
+slug: 'B07K72MDZ3-es American Tourister Bon Air - Spinner Small Strict Equipaje...'
+tags: 
 actualPrice: 76.3 EUR
 currency: EUR
 price: 76.3

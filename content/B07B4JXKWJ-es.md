@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ufzjjurJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4JXKWJ-es Nixon Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero A105-2982-00'
+slug: 'B07B4JXKWJ-es Nixon Reloj Analógico para Unisex Adultos de Cuarzo con...'
+tags: 
 actualPrice: 58.33 EUR
 currency: EUR
 price: 58.33

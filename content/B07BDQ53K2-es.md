@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FfCMEu7hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDQ53K2-es American Tourister Disney Wavebreaker - Maleta Infantil  Spinner S  55 cm - 36 L   Multicolor  Mickey Close-Up '
+slug: 'B07BDQ53K2-es American Tourister Disney Wavebreaker - Maleta Infantil...'
+tags: 
 actualPrice: 85.53 EUR
 currency: EUR
 price: 85.53

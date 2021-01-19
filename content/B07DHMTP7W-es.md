@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411hD7wwU7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHMTP7W-es NIVEA mascarilla facial minimiza los poros urban detox tubo 75 ml'
+slug: 'B07DHMTP7W-es NIVEA mascarilla facial minimiza los poros urban detox...'
+tags: 
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

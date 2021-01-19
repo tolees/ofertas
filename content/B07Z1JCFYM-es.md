@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IXMomIu8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z1JCFYM-es cradle HR Funda Protectora para Huawei MediaPad T3 8 de 8 Pulgadas y Huawei Honor Play Pad 2 de 8 Pulgadas  Funda Protectora Ligera de EVA a Prueba de Golpes con Soporte  Azul '
+slug: 'B07Z1JCFYM-es cradle HR Funda Protectora para Huawei MediaPad T3 8 de 8...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xGE7L-cyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FC61SYY-es Salomon Speedcross CSWP K  Zapatillas de Trail Running Unisex Niños  Negro/Naranja  Black/Tangelo/Cherry Tomato   26 EU'
+slug: 'B07FC61SYY-es Salomon Speedcross CSWP K Zapatillas de Trail Running...'
+tags: 
 actualPrice: 24.68 EUR
 currency: EUR
 price: 24.68

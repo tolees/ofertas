@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jeo2uiBzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYFVVXQ-es Merrell Trail Glove 5  Zapatillas Deportivas para Interior para Hombre  Negro  Black   42 EU'
+slug: 'B07DYFVVXQ-es Merrell Trail Glove 5 Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BkCRepZYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNHWQ4M-es Adidas Tensaur I  Zapatillas de Estar por casa Bebé Unisex  Blanco  Ftwbla/Azul/Ftwbla 000   27 EU'
+slug: 'B07SNHWQ4M-es Adidas Tensaur I Zapatillas de Estar por casa Bebé Unisex...'
+tags: 
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

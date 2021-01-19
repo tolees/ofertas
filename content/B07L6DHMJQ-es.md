@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AJ5yQ3kkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6DHMJQ-es Dispensador automático de pasta de dientes y cepillo de dientes con montaje en la pared  manos libres 2 Exprimidores de pasta de dientes 5 set de cepillos de dientes 4 gárgaras  accesorios de baño'
+slug: 'B07L6DHMJQ-es Dispensador automático de pasta de dientes y cepillo de...'
+tags: 
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

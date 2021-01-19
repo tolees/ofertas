@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rAHqjv2CL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8M7K7J-es Mishansha Zapatillas de Estar en Casa Hombre Mujer  Zapatillas Casa Memory Foam para Invierno Otoño  Cómodas/Blanditas/Mulliditas y Calientes Rojo  40/41 EU '
+slug: 'B07V8M7K7J-es Mishansha Zapatillas de Estar en Casa Hombre Mujer...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

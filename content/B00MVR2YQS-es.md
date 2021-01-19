@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31C0GxX3eqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MVR2YQS-es D-Link DCH-M225 - Repetidor WiFi N 300 Amplificador Extensor de Red  802.11n hasta 300 Mbps  Banda 2.4 GHz  Compatible Audio por WiFi  2 Antenas internas   Blanco'
+slug: 'B00MVR2YQS-es D-Link DCH-M225 - Repetidor WiFi N 300 Amplificador...'
+tags: 
 actualPrice: 29.33 EUR
 currency: EUR
 price: 29.33

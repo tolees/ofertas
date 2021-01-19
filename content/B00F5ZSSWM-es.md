@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T2XDTZuDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F5ZSSWM-es Ferplast Transportín para Perros para automóvil Atlas Car 80  Rejillas de ventilación  Compartimentos portaobjetos  Alfombrilla de Drenaje incluida  82 x 51 x h 61 cm Gris'
+slug: 'B00F5ZSSWM-es Ferplast Transportín para Perros para automóvil Atlas Car...'
+tags: 
 actualPrice: 64.39 EUR
 currency: EUR
 price: 64.39

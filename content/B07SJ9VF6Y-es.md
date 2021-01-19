@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZcUel+6NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJ9VF6Y-es Lebze Muselina Manta Bebé | Mantas de Muselina de Bambú Algodón | 120x120 cm Pack de 2'
+slug: 'B07SJ9VF6Y-es Lebze Muselina Manta Bebé | Mantas de Muselina de Bambú...'
+tags: 
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

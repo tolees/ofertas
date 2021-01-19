@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31g7xoe+oFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3WPNB3-es Calcetines Deportivos Quarter Pro 1 Par  Negro sólido  EU 43-47 '
+slug: 'B07L3WPNB3-es Calcetines Deportivos Quarter Pro 1 Par Negro sólido EU 43-47'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

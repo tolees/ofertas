@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31idZB-pNaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D2PIGQY-es LG CineBeam PH550G - Proyector con batería integrada  hasta 100"  autonomía 2 5h  fuente LED  550 lúmenes  1280 x 720  Color Blanco'
+slug: 'B01D2PIGQY-es LG CineBeam PH550G - Proyector con batería integrada hasta...'
+tags: 
 actualPrice: 259.26 EUR
 currency: EUR
 price: 259.26

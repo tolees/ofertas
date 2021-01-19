@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mazR5QdLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0132JQH3E-es Un Paso Adelante - Serie Completa  25 años A3  [DVD]'
+slug: 'B0132JQH3E-es Un Paso Adelante - Serie Completa 25 años A3 [DVD]'
+tags: 
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

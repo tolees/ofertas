@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OLY1SI4fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089T3DJCR-es Klarstein Beersafe Onyx - Nevera de bebidas con puerta acristalada  Mininevera  Minibar  Iluminación LED  Baldas metálicas  Acero inoxidable  42 dB  35 litros  Negro'
+slug: 'B089T3DJCR-es Klarstein Beersafe Onyx - Nevera de bebidas con puerta...'
+tags: 
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

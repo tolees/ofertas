@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412oiDvARWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IW02I4U-es NYX Professional Makeup Paleta de sombra de ojos Ultimate Shadow Palette  Pigmentos compactos  16 sombras  Acabados mate  satinados y metalizados  Tono: Smokey and Highlight'
+slug: 'B01IW02I4U-es NYX Professional Makeup Paleta de sombra de ojos Ultimate...'
+tags: 
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

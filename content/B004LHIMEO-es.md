@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NZiSfCg7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LHIMEO-es BAUSCH + LOMB  - SofLens® 59 - Lentes de contacto de reemplazo mensual - Pack de 6'
+slug: 'B004LHIMEO-es BAUSCH + LOMB - SofLens® 59 - Lentes de contacto de...'
+tags: 
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

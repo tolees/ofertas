@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bF+ucK-RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GT2MLYZ-es Desigual - Bag Clio Yakarta Mini Women  Shoppers y bolsos de hombro Mujer  Blanco  Crudo   16.5x31.5x33 cm  B x H T '
+slug: 'B07GT2MLYZ-es Desigual - Bag Clio Yakarta Mini Women Shoppers y bolsos...'
+tags: 
 actualPrice: 47.49 EUR
 currency: EUR
 price: 47.49

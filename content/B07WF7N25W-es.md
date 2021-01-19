@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61-ql+fc44L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WF7N25W-es Libershine Madejas de Hilos 100 Madejas 100 Colores Hilos de Bordar de Algodón Bordado Kit de Hilos Cross Stitch Bordado Hilos'
+slug: 'B07WF7N25W-es Libershine Madejas de Hilos 100 Madejas 100 Colores Hilos...'
+tags: 
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

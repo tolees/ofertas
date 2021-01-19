@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LQI+uTAuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5SVYH3-es Under Armour Tech 9in 2 Pack Ropa Interior  Hombre  Gris  Mod Gray Light Heather/Jet Gray Light Heather 011   S'
+slug: 'B07D5SVYH3-es Under Armour Tech 9in 2 Pack Ropa Interior Hombre Gris Mod...'
+tags: 
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

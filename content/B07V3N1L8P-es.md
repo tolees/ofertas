@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gn7JXcNUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3N1L8P-es Tommy Hilfiger Seasonal Textile Sneaker  Zapatillas para Hombre  Azul  Desert Sky Dw5   44 EU'
+slug: 'B07V3N1L8P-es Tommy Hilfiger Seasonal Textile Sneaker Zapatillas para...'
+tags: 
 actualPrice: 28.53 EUR
 currency: EUR
 price: 28.53

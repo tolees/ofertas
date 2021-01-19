@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aLg-01hTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z8SHDVM-es PICTEK Teclado Gaming RGB con Soporte para Teléfono Móvil  Rueda de Volumen  Teclado USB con 21 Botones Multimedia  Ergonómico / Conveniente / Resistente al Agua para MAC / PC - Negro'
+slug: 'B07Z8SHDVM-es PICTEK Teclado Gaming RGB con Soporte para Teléfono Móvil...'
+tags: 
 actualPrice: 30.88 EUR
 currency: EUR
 price: 30.88

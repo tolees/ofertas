@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JFCuUkfJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXXMILJ-es InnoBeta Fountain Humidificador Ultrasónica 3 0Litro Bebé de Vapor Frío con Control Remoto y Higrómetro  Minutero  Boquilla 360°  Apagado Automático  para el Hogar la Habitación para Bebés Hasta 40㎡ '
+slug: 'B01LXXMILJ-es InnoBeta Fountain Humidificador Ultrasónica 3 0Litro Bebé...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

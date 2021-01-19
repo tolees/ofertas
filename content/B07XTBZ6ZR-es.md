@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fzU6eacyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XTBZ6ZR-es Auriculares Inalámbricos Bluetooth 5.0 SoundPEATS Truedot Cascos In-Ear True Wireless Invisibles Sonido Estéreo Mini Audífonos Gemelos Manos Libres con Micrófono'
+slug: 'B07XTBZ6ZR-es Auriculares Inalámbricos Bluetooth 5.0 SoundPEATS Truedot...'
+tags: 
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

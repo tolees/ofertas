@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wKpvGFOiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T5L2DZ8-es Yizhet 100 piezas Imanes de nevera de cilindro de neodimio Imanes de disco de tierra rara para artesanías  manualidades  hobbies y organización de oficinas  8 * 1 mm '
+slug: 'B07T5L2DZ8-es Yizhet 100 piezas Imanes de nevera de cilindro de neodimio...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

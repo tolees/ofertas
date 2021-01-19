@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AfxPInwyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J35W9GL-es Levi s Hodges  Botas Militares para Hombre  Amarillo  Boots 74   46 EU'
+slug: 'B07J35W9GL-es Levi s Hodges Botas Militares para Hombre Amarillo Boots...'
+tags: 
 actualPrice: 33.36 EUR
 currency: EUR
 price: 33.36

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MTWOHQA-es Timex Reloj de Pulsera T49983'
+tags: 
 actualPrice: 65.28 EUR
 currency: EUR
 price: 65.28

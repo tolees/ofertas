@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D979QSS-es Super Mario Maker SELECTS'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

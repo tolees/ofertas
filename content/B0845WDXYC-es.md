@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sr27CIZML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0845WDXYC-es CHIKA10 Tonia 04 Cuero/Tan  Talla 40'
+slug: 'B0845WDXYC-es CHIKA10 Tonia 04 Cuero/Tan Talla 40'
+tags: 
 actualPrice: 30.09 EUR
 currency: EUR
 price: 30.09

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OuY7lRZ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5LYYXM-es Morgan Pull Fin Col roulé MENTOS Pullover Sweater  Rojo  Tango Red Tango Red   X-Small Women s'
+slug: 'B07P5LYYXM-es Morgan Pull Fin Col roulé MENTOS Pullover Sweater Rojo...'
+tags: 
 actualPrice: 13.06 EUR
 currency: EUR
 price: 13.06

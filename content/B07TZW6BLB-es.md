@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41prFwovsPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZW6BLB-es Kipling Creativity L  Monederos para Mujer  Verde  Light Aloe   18.5x11x1.5 cm'
+slug: 'B07TZW6BLB-es Kipling Creativity L Monederos para Mujer Verde Light Aloe...'
+tags: 
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

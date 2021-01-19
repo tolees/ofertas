@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AVqBqzq3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGWQPFX-es Primigi Pbb 43604  Botas para Bebés  Senape 4360444  18 EU'
+slug: 'B07NGWQPFX-es Primigi Pbb 43604 Botas para Bebés Senape 4360444 18 EU'
+tags: 
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

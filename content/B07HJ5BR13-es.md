@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419Nj1ME6nL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJ5BR13-es Funko Pop Vinyl: Rocks: Queen: Roger Taylor Figura De Vinilo Multicolor  33716'
+slug: 'B07HJ5BR13-es Funko Pop Vinyl: Rocks: Queen: Roger Taylor Figura De...'
+tags: 
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

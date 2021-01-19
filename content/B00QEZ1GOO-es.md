@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cvUc7Y-fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QEZ1GOO-es LEADSTAR Niños Funda para Apple iPad Air 2 / iPad 6 EVA antichoque Ligera destinado a Prueba de Golpes Protección Funda Tapa  Violeta '
+slug: 'B00QEZ1GOO-es LEADSTAR Niños Funda para Apple iPad Air 2 / iPad 6 EVA...'
+tags: 
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

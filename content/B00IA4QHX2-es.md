@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lR%2BzV6OVL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IA4QHX2-es Gimi Lift 100 Tendedero de pared y techo de acero  6 m de longitud de tendido'
+slug: 'B00IA4QHX2-es Gimi Lift 100 Tendedero de pared y techo de acero 6 m de...'
+tags: 
 actualPrice: 23.82 EUR
 currency: EUR
 price: 23.82

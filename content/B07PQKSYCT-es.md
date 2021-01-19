@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51loRBMxI2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQKSYCT-es Lovewlb Tablet Funda para Alcatel 3t 10 8088q 8088x Funda Soporte Cuero Case Cover Lang'
+slug: 'B07PQKSYCT-es Lovewlb Tablet Funda para Alcatel 3t 10 8088q 8088x Funda...'
+tags: 
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

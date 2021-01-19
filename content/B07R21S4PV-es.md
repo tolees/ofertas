@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RY91QDbwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R21S4PV-es adidas Superstar  Zapatillas de deporte para Hombre  Blanco  Ftwr White/Core Black/Ftwr White   42 2/3 EU'
+slug: 'B07R21S4PV-es adidas Superstar Zapatillas de deporte para Hombre Blanco...'
+tags: 
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

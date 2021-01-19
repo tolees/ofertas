@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31b2Pu4oLoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FYC756F-es EC67-R11 Módulo CMOS Red de Internet Cámara de Video HD Cámara de vigilancia Cámara IP Cámara inalámbrica Cámara de Seguridad-Blanco'
+slug: 'B08FYC756F-es EC67-R11 Módulo CMOS Red de Internet Cámara de Video HD...'
+tags: 
 actualPrice: 21.7 EUR
 currency: EUR
 price: 21.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WwxMnu-2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJGJDND-es Chicco Next 2 me - Cuna de colecho con anclaje a cama y 6 alturas  color gris  Pearl '
+slug: 'B07GJGJDND-es Chicco Next 2 me - Cuna de colecho con anclaje a cama y 6...'
+tags: 
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

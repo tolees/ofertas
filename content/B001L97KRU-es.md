@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XpLcVYXAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001L97KRU-es Babaria - Aloe Vera Balsamo Reparador  250 ml'
+slug: 'B001L97KRU-es Babaria - Aloe Vera Balsamo Reparador 250 ml'
+tags: 
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

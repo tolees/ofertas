@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H5JR19FhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1DVZMY-es La Toja Selection - Pack Regalo Mujer - Gel de Baño Esencia de Orquídea 500ml + Gel de Ducha Exfoliante 200ml'
+slug: 'B07K1DVZMY-es La Toja Selection - Pack Regalo Mujer - Gel de Baño...'
+tags: 
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

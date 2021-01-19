@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TCh9kr+VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTHXG9D-es Pepe Jeans Eggo Long PM501321 Top de Manga Larga  Azul  Navy 595   X-Small para Hombre'
+slug: 'B06XTHXG9D-es Pepe Jeans Eggo Long PM501321 Top de Manga Larga Azul Navy...'
+tags: 
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9

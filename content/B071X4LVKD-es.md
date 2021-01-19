@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410GvKJ0HQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071X4LVKD-es Waldbeck Clearflow 55UV Filtro Exterior Acuario con clarificador de 9W UVC - Motor 55 W  Filtro 4 Niveles  Caudal hasta 2000 l/h  Estanques hasta 2000 L  Bajo Consumo  Fácil de Limpiar'
+slug: 'B071X4LVKD-es Waldbeck Clearflow 55UV Filtro Exterior Acuario con...'
+tags: 
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

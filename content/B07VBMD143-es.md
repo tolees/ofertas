@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ltHD4atxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBMD143-es DIXIUZA Diadema Cuerno de Unicornio Niñas Diadema para Fiesta Cumpleaños Decoración'
+slug: 'B07VBMD143-es DIXIUZA Diadema Cuerno de Unicornio Niñas Diadema para...'
+tags: 
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

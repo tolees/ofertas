@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GCW0LFO-es Lalique Lalique Encre Noire Sport Etv 50Ml - 1 Unidad'
+tags: 
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

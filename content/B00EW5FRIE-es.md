@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mUWikiR2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EW5FRIE-es Nike Revolution 4  GS   Zapatillas de Running Unisex Niños  Negro  Black/White-Anthracite 006   39 EU'
+slug: 'B00EW5FRIE-es Nike Revolution 4 GS Zapatillas de Running Unisex Niños...'
+tags: 
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

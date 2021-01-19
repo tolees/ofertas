@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aLiO5Rn2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004TSF8R4-es REAL TECHNIQUES Pincel de maquillaje en polvo  el embalaje y el color del mango pueden variar'
+slug: 'B004TSF8R4-es REAL TECHNIQUES Pincel de maquillaje en polvo el embalaje...'
+tags: 
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

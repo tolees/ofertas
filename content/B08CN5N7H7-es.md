@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yHqt3TRaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CN5N7H7-es Anker Powerbank-Portable USB móvil Energien-Bank-Kasten Ladegerät-Satz-Box para 1 x 18650 Neu-Aisumi rosa'
+slug: 'B08CN5N7H7-es Anker Powerbank-Portable USB móvil Energien-Bank-Kasten...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

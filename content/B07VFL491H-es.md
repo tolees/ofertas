@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FXViOyOLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFL491H-es HUGO Astian/hets184 Traje  Beige  Medium Beige 266   102 para Hombre'
+slug: 'B07VFL491H-es HUGO Astian/hets184 Traje Beige Medium Beige 266 102 para...'
+tags: 
 actualPrice: 224.95 EUR
 currency: EUR
 price: 224.95

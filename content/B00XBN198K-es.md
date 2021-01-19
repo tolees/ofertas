@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JKMb4syCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XBN198K-es Festina Reloj Analógico para Hombre de Cuarzo con Correa en Cuero F16824/2'
+slug: 'B00XBN198K-es Festina Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 58.14 EUR
 currency: EUR
 price: 58.14

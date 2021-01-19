@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GCSO0afVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFXK4VM-es PUMA Storm Adrenaline  Zapatillas Unisex Adulto  Black-Gray Violet  47 EU'
+slug: 'B07KFXK4VM-es PUMA Storm Adrenaline Zapatillas Unisex Adulto Black-Gray...'
+tags: 
 actualPrice: 40.07 EUR
 currency: EUR
 price: 40.07

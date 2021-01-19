@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B4rL8YAyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3RT15L-es Calvin Klein - Ck Panache 5cc + Coin  Carteras Hombre  Negro  Blackwhite Black   1x1x1 cm  W x H L '
+slug: 'B07V3RT15L-es Calvin Klein - Ck Panache 5cc + Coin Carteras Hombre Negro...'
+tags: 
 actualPrice: 39.47 EUR
 currency: EUR
 price: 39.47

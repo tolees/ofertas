@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yQ+DhkbiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756WRBKF-es Aigostar Tank 30JRI - Aspirador ciclónico sin bolsa  700 W  filtro HEPA  silencioso 76dB. Recogida automática de cable  fácil desplazamiento. [Clase A]. [Clase de eficiencia energética A]'
+slug: 'B0756WRBKF-es Aigostar Tank 30JRI - Aspirador ciclónico sin bolsa 700 W...'
+tags: 
 actualPrice: 58.94 EUR
 currency: EUR
 price: 58.94

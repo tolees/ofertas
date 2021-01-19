@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oTlFsiPLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVDRBKZ-es TACKLIFE Bandas de Lija  10PCS 75x457mm Papeles de Lija  Banda Abrasiva 2x40/60/80/120/180 Granos  Lijadora de Banda ASB01A'
+slug: 'B07GVDRBKZ-es TACKLIFE Bandas de Lija 10PCS 75x457mm Papeles de Lija...'
+tags: 
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

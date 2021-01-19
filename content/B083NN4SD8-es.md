@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QycEptWPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083NN4SD8-es Cómoda Manta de Franela súper Suave y cálida Tamaño Grande Color sólido Sofá para el hogar Ropa de Cama Manta para Oficina 45x65cm - Rojo'
+slug: 'B083NN4SD8-es Cómoda Manta de Franela súper Suave y cálida Tamaño Grande...'
+tags: 
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

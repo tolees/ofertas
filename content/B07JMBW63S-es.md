@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31klK7FCADL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMBW63S-es Max Factor FaceFinity 3 en 1 All Day Flawless Base de Maquillaje Tono 100 Sun Tan - 30 ml'
+slug: 'B07JMBW63S-es Max Factor FaceFinity 3 en 1 All Day Flawless Base de...'
+tags: 
 actualPrice: 2.96 EUR
 currency: EUR
 price: 2.96

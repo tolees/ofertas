@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nUVcvTs1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012XD34ZE-es Superga 2750-efglu  Zapatillas de Gimnasia Unisex Adulto  Blanco  White 900   35.5 EU'
+slug: 'B012XD34ZE-es Superga 2750-efglu Zapatillas de Gimnasia Unisex Adulto...'
+tags: 
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

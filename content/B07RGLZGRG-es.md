@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qT0Hvm7KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGLZGRG-es SALOMON Sense Feel  Zapatillas de Trail Running para Hombre  Gris  Mineral Gray/Pearl Blue/Safety Yellow   40 2/3 EU'
+slug: 'B07RGLZGRG-es SALOMON Sense Feel Zapatillas de Trail Running para Hombre...'
+tags: 
 actualPrice: 41.24 EUR
 currency: EUR
 price: 41.24

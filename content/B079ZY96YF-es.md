@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kCTYT4sFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZY96YF-es Skechers Women s Flex Appeal 3.0 Trainers  Black  Black Knit Mesh/White Trim Bkw   4 UK  37 EU'
+slug: 'B079ZY96YF-es Skechers Women s Flex Appeal 3.0 Trainers Black Black Knit...'
+tags: 
 actualPrice: 50.91 EUR
 currency: EUR
 price: 50.91

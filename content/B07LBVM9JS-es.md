@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JjKC5j2sL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBVM9JS-es Calvin Klein Hombre - Pack de 3 bóxers de tiro medio - Cotton Stretch  Azul  Med Blue/ Sweetheart/ Charcoal H Wdk   XS   Pack de 3 '
+slug: 'B07LBVM9JS-es Calvin Klein Hombre - Pack de 3 bóxers de tiro medio -...'
+tags: 
 actualPrice: 27.33 EUR
 currency: EUR
 price: 27.33

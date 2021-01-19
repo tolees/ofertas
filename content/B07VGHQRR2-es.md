@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jvpqk3AvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGHQRR2-es Disney Pijamas de Manga Corta para niños Toy Story Azul 9-10 Años'
+slug: 'B07VGHQRR2-es Disney Pijamas de Manga Corta para niños Toy Story Azul...'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

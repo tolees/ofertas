@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410-EdL1L9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKZRMRH-es New Balance Fresh Foam Trail Roav  Zapatillas de Running para Asfalto para Hombre  Negro  Black Black   43 EU'
+slug: 'B07PKZRMRH-es New Balance Fresh Foam Trail Roav Zapatillas de Running...'
+tags: 
 actualPrice: 60.75 EUR
 currency: EUR
 price: 60.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JXwBBLmjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WK37ZZ1-es BANLVS Smartwatch Niños  2019 Nuevo Reloj Inteligente Niños con Flashlight  IP67 LBS SOS  Cámara  Smartwatch con Ranura para Tarjeta SIM  Regalo Niño Niña de 3-12 Años Compatible con iOS/Android'
+slug: 'B07WK37ZZ1-es BANLVS Smartwatch Niños 2019 Nuevo Reloj Inteligente Niños...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

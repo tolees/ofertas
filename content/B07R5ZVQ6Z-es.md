@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417mKWD2klL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5ZVQ6Z-es MEDION ERAZER P6705 - Ordenador portátil de 15.6" FullHD  Intel Core i5-8300H  8GB RAM  256GB SSD  GeForce GTX1050Ti-4GB  Windows 10  negro - Teclado QWERTY Español'
+slug: 'B07R5ZVQ6Z-es MEDION ERAZER P6705 - Ordenador portátil de 15.6" FullHD...'
+tags: 
 actualPrice: 579.0 EUR
 currency: EUR
 price: 579.0

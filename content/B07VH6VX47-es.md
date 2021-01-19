@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Xv58FIeXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VH6VX47-es Eono Essentials Toalla de Microfibra para Llevar al Gimnasio  a la Playa  de Camping  de Viaje  de Natacion  o de Vacaciones. Secado rápido  Superabsorbente  Ultracompacta  Fucsia  60x30cm'
+slug: 'B07VH6VX47-es Eono Essentials Toalla de Microfibra para Llevar al...'
+tags: 
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

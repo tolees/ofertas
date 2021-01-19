@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TGdnFtEyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FD82VV-es Calvin Klein Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable K3M2262Y'
+slug: 'B079FD82VV-es Calvin Klein Reloj Analógico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 161.4 EUR
 currency: EUR
 price: 161.4

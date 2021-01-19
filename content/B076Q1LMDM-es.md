@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WNi9GKblL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076Q1LMDM-es Skechers Women s Ultra Flex-First Take Slip On Trainers  Black  Black BBK   3.5  36.5 EU '
+slug: 'B076Q1LMDM-es Skechers Women s Ultra Flex-First Take Slip On Trainers...'
+tags: 
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

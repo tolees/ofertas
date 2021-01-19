@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iBYdN4gaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HXWCS-es Clarks Sheer Flora  Botas Chelsea para Mujer  Marrón Burgundy Suede  41 EU'
+slug: 'B07N1HXWCS-es Clarks Sheer Flora Botas Chelsea para Mujer Marrón...'
+tags: 
 actualPrice: 28.47 EUR
 currency: EUR
 price: 28.47

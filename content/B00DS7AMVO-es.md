@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+wCX7MtTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DS7AMVO-es Lékué - Estuche de vapor  Con bandeja y kit principiantes en Español  Rojo  1 - 2 personas  650 ml '
+slug: 'B00DS7AMVO-es Lékué - Estuche de vapor Con bandeja y kit principiantes...'
+tags: 
 actualPrice: 15.47 EUR
 currency: EUR
 price: 15.47

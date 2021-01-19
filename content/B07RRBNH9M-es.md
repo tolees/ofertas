@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51n2uU6j9+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RRBNH9M-es Oral-B Genius 10000N - Cepillo Eléctrico Blanco con Tecnología de Braun'
+slug: 'B07RRBNH9M-es Oral-B Genius 10000N - Cepillo Eléctrico Blanco con...'
+tags: 
 actualPrice: 147.86 EUR
 currency: EUR
 price: 147.86

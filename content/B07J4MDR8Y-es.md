@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v1ZgLnMbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4MDR8Y-es Difusor de Aceites Esenciales  Avaspot 250ml Ultrasónico Aromaterapia Humidificador  Operación silenciosa  Auto Shut Off  bebé  Yoga  Oficina  hogar  Dormitorio y baño  etc'
+slug: 'B07J4MDR8Y-es Difusor de Aceites Esenciales Avaspot 250ml Ultrasónico...'
+tags: 
 actualPrice: 16.24 EUR
 currency: EUR
 price: 16.24

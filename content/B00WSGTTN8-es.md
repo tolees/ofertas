@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zpSj6xltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WSGTTN8-es Compo Compo Fazilo Insecticida Acción Total  Para plantas ornamentales de interior y exterior  Envase pulverizador  Multicolor  750 ml  1463502011'
+slug: 'B00WSGTTN8-es Compo Compo Fazilo Insecticida Acción Total Para plantas...'
+tags: 
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

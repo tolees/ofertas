@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kMfZwocfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KCHFNF8-es BLEND Jeans-Noos Cirrus Parte de Arriba  Blau  Faisal 76117-L34   W32/ L34  32  para Hombre'
+slug: 'B00KCHFNF8-es BLEND Jeans-Noos Cirrus Parte de Arriba Blau Faisal...'
+tags: 
 actualPrice: 29.38 EUR
 currency: EUR
 price: 29.38

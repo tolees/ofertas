@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XBqTNzVPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BGVHNPM-es Fruit of the Loom- Polo de Manga Corta Premium Entallado para Mujer  Grande  L /Rojo '
+slug: 'B00BGVHNPM-es Fruit of the Loom- Polo de Manga Corta Premium Entallado...'
+tags: 
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

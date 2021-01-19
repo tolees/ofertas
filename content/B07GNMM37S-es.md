@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jm6cLwyHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNMM37S-es D DOLITY Herramientas de Taladro Hand Tool Drill para Modelo DIY Bricolaje - 0.9-1.5mm'
+slug: 'B07GNMM37S-es D DOLITY Herramientas de Taladro Hand Tool Drill para...'
+tags: 
 actualPrice: 13.27 EUR
 currency: EUR
 price: 13.27

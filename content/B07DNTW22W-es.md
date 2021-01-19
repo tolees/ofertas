@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNTW22W-es Bennigiry - Short - Femme - - L'
+tags: 
 actualPrice: 13.66 EUR
 currency: EUR
 price: 13.66

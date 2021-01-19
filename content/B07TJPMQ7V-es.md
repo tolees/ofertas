@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Vknf291EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJPMQ7V-es Clarks Hamble Loafer  Mocasines  Azul  Navy Leather Navy Leather   37 EU'
+slug: 'B07TJPMQ7V-es Clarks Hamble Loafer Mocasines Azul Navy Leather Navy...'
+tags: 
 actualPrice: 51.32 EUR
 currency: EUR
 price: 51.32

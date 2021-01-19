@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-jLLUMl1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002ZDFPL4-es HP AU656AA - Cable antirrobo  Negro  Metálico  250g  HP EliteBook Notebook PC HP ProBook Notebook PC HP 120W Advanced Docking Station '
+slug: 'B002ZDFPL4-es HP AU656AA - Cable antirrobo Negro Metálico 250g HP...'
+tags: 
 actualPrice: 34.62 EUR
 currency: EUR
 price: 34.62

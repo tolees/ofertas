@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fnd4U5UsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016QAK9B2-es adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Negro/Blanco  XL'
+slug: 'B016QAK9B2-es adidas Parma 16 Intenso Pantalones Cortos para Fútbol...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

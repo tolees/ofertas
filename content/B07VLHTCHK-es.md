@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W-if3x3GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLHTCHK-es Tommy Hilfiger Tommy Regular Polo  Faded Indigo  Medium para Hombre'
+slug: 'B07VLHTCHK-es Tommy Hilfiger Tommy Regular Polo Faded Indigo Medium para...'
+tags: 
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

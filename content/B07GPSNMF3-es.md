@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YHzHUejRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPSNMF3-es Vileda Turbo - Juego de fregona con palo telescópico + cubo escurridor giratorio + recambio de microfibras  color negro y rojo  48.6 x 29.6 x 29.3 cm'
+slug: 'B07GPSNMF3-es Vileda Turbo - Juego de fregona con palo telescópico +...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

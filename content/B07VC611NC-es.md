@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MwgHUiopL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC611NC-es PPXID - Zapatillas para Hombre Mokassin Slipper clásicas para el Conductor  Zapatillas de Estar por casa de Ante  Color Negro  Talla 44 EU'
+slug: 'B07VC611NC-es PPXID - Zapatillas para Hombre Mokassin Slipper clásicas...'
+tags: 
 actualPrice: 45.41 EUR
 currency: EUR
 price: 45.41

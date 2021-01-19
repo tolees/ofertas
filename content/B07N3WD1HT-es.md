@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OgTgezwwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3WD1HT-es Raclette con Piedra Natural Antiadherente  Mango Térmico Aislado  8 Sartenes para 8 Personas  1300W  Negro'
+slug: 'B07N3WD1HT-es Raclette con Piedra Natural Antiadherente Mango Térmico...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

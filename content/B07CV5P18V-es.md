@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a6wxoKHDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CV5P18V-es JACK & JONES Jfwolly Nubuck Noos  Zapatillas para Hombre  Azul  Navy Blazer Navy Blazer   43 EU'
+slug: 'B07CV5P18V-es JACK & JONES Jfwolly Nubuck Noos Zapatillas para Hombre...'
+tags: 
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

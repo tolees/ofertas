@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31k8BVVqDnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XS8SR1J-es Versa 18790697 Perchero pie blanco - Metal y madera 171x28x28cm  6 colgadores'
+slug: 'B06XS8SR1J-es Versa 18790697 Perchero pie blanco - Metal y madera...'
+tags: 
 actualPrice: 24.86 EUR
 currency: EUR
 price: 24.86

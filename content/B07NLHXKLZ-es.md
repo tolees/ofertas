@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zbcercy1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLHXKLZ-es Versace Jeans CouturePortafoglioMujerCarterasRojo  Rosso  0 5x16x25 5 centimeters  W x H x L '
+slug: 'B07NLHXKLZ-es Versace Jeans CouturePortafoglioMujerCarterasRojo Rosso 0...'
+tags: 
 actualPrice: 84.72 EUR
 currency: EUR
 price: 84.72

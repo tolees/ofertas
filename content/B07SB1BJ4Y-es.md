@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61zluJSurCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB1BJ4Y-es GREAT ART Foto Mural de Mundo Submarino Oceano Poster Colores Arrecife 210 x 140 cm - Papel Pintado 5 Piezas incluye Pasta para pegar'
+slug: 'B07SB1BJ4Y-es GREAT ART Foto Mural de Mundo Submarino Oceano Poster...'
+tags: 
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

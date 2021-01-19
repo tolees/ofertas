@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WSGVBeq1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CWB4J2A-es Vans Atwood  Zapatillas Unisex Niños  Negro  Canvas Black/White 187   32 EU'
+slug: 'B00CWB4J2A-es Vans Atwood Zapatillas Unisex Niños Negro Canvas...'
+tags: 
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

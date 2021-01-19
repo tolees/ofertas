@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-WPsastTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DW2FQVS-es Karcher Juego de llaves de carraca y de vaso - 130 piezas - carraca de calidad 1/4" hecho de cromo vanadio'
+slug: 'B07DW2FQVS-es Karcher Juego de llaves de carraca y de vaso - 130 piezas...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

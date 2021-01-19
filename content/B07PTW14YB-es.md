@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DOHoejqcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PTW14YB-es Carrera- Mercedes-AMG F1 W09 EQ Power+L. Hamilton  No.44   Stadlbauer 20064128 '
+slug: 'B07PTW14YB-es Carrera- Mercedes-AMG F1 W09 EQ Power+L. Hamilton No.44...'
+tags: 
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

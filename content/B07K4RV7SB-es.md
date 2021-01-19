@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xJ5sfD3qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4RV7SB-es Adidas Falcon W - Zapatillas de Deporte para Mujer  Negro  Negbás/Gricin  36 1/3 EU'
+slug: 'B07K4RV7SB-es Adidas Falcon W - Zapatillas de Deporte para Mujer Negro...'
+tags: 
 actualPrice: 41.47 EUR
 currency: EUR
 price: 41.47

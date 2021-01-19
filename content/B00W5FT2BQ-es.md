@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Q3kVjCsPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W5FT2BQ-es New Era Fashion ESS 940 Gorra  Mujer  Rosa/Blanco  Talla Única'
+slug: 'B00W5FT2BQ-es New Era Fashion ESS 940 Gorra Mujer Rosa/Blanco Talla Única'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

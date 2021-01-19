@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pn64vVorL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXVS245-es Under Armour Armour Mid Crossback Sujetador Deportivo  Mujer  Azul  Utility/Halogen Blue 497   M'
+slug: 'B07DXVS245-es Under Armour Armour Mid Crossback Sujetador Deportivo...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

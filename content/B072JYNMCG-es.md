@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K7mt7W55L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JYNMCG-es RYMALL Álbum de Fotos para bebé  Álbum de Memorias  Little Foot para niño y niña  Regalos Originales y únicos con Recuerdos memorables  Álbum para 200 Fotos  23 x 19 cm '
+slug: 'B072JYNMCG-es RYMALL Álbum de Fotos para bebé Álbum de Memorias Little...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i1v-YCb7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JJ3GWRI-es Rayen 6154.02-Protector para Planchar sobremesa  Color Estampado Confetti  Algodón'
+slug: 'B01JJ3GWRI-es Rayen 6154.02-Protector para Planchar sobremesa Color...'
+tags: 
 actualPrice: 3.74 EUR
 currency: EUR
 price: 3.74

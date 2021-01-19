@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ippz9HR3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002YYTVU-es Wolfcraft 1573000 1573000-1 Atornillador Manual con diseño Angular  380 W'
+slug: 'B0002YYTVU-es Wolfcraft 1573000 1573000-1 Atornillador Manual con diseño...'
+tags: 
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

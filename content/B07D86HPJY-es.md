@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41F3t1HcLkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D86HPJY-es New Balance Fresh Foam Cruz v2 Sock  Zapatillas para Hombre  Turquesa  Dark Neptune/Eclipse Ld2   41.5 EU'
+slug: 'B07D86HPJY-es New Balance Fresh Foam Cruz v2 Sock Zapatillas para Hombre...'
+tags: 
 actualPrice: 49.51 EUR
 currency: EUR
 price: 49.51

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31If4R61+fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDQJT96-es Samsung Galaxy A30s - Smartphone de 6.4" Super AMOLED  4 GB RAM  64 GB ROM  16 MP ultra angular  Dual SIM  versión española  verde'
+slug: 'B07WDQJT96-es Samsung Galaxy A30s - Smartphone de 6.4" Super AMOLED 4 GB...'
+tags: 
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

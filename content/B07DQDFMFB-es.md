@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GfP2mqJyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQDFMFB-es Botones de Resina Botones Costura 285 Piezas Colores y formas surtidos Botones de Manualidades en Caja de Plástico para Costura Manualidades Scrapbooking y Adornos Hechos a Mano'
+slug: 'B07DQDFMFB-es Botones de Resina Botones Costura 285 Piezas Colores y...'
+tags: 
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

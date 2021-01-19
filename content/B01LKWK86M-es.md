@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nURRkiT4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LKWK86M-es Epson WFDS530 - Escáner de Documentos en Color A4  Capacidad de USB  Blanco y Negro'
+slug: 'B01LKWK86M-es Epson WFDS530 - Escáner de Documentos en Color A4...'
+tags: 
 actualPrice: 361.9 EUR
 currency: EUR
 price: 361.9

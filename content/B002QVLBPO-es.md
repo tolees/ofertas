@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41elgeIB0CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002QVLBPO-es ARCTIC F9 PWM PST – 99 mm Ventilador de Caja para CPU con PWM Sharing Technology  PST   Motor Trifásico Muy Silencioso  Computadora  150-1800 RPM – Gris/Blanco'
+slug: 'B002QVLBPO-es ARCTIC F9 PWM PST – 99 mm Ventilador de Caja para CPU con...'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

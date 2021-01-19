@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jfy+qPhfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHXS8XN-es New Balance 997H m  Zapatillas para Mujer  Blanco  White/Incense EC Blue   41 EU'
+slug: 'B07DHXS8XN-es New Balance 997H m Zapatillas para Mujer Blanco...'
+tags: 
 actualPrice: 63.0 EUR
 currency: EUR
 price: 63.0

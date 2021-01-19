@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WzuchQCKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F38VL6D-es Oumakiku Botellas de Spray Botellas de Viaje Spray de Niebla Fina Transparente Set Contenedores de Líquido Transparente Recargables para Perfume Loción de Maquillaje Cosmético 6 Piezas 50 ml 100 ml'
+slug: 'B08F38VL6D-es Oumakiku Botellas de Spray Botellas de Viaje Spray de...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

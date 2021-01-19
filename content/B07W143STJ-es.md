@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qGkNKcnSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W143STJ-es Todotumovil Protector de Pantalla Xiaomi Mi 9 SE Mi9 SE Mi9SE de Cristal Templado Vidrio 9H para movil'
+slug: 'B07W143STJ-es Todotumovil Protector de Pantalla Xiaomi Mi 9 SE Mi9 SE...'
+tags: 
 actualPrice: 1.97 EUR
 currency: EUR
 price: 1.97

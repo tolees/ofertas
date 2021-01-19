@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pJz4aRsVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB56W1W-es Woxter Stinger RX 1100 H - Auriculares Gaming Profesionales Led Giratorios con micrófono para PS4–PC–Xbox One–Switch Reducción de Ruido Diadema Ajustable Micrófono omnidireccional y Adaptador 2 en 1'
+slug: 'B07HB56W1W-es Woxter Stinger RX 1100 H - Auriculares Gaming...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B27FR4P-es Mr. Wonderful Woa08925es Neceser'
+tags: 
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

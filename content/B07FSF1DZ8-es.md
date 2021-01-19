@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nfV9SDLQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSF1DZ8-es Sneaky Steve Cumberland  Botas Chelsea para Hombre  Braun  Brown 521515   42 EU'
+slug: 'B07FSF1DZ8-es Sneaky Steve Cumberland Botas Chelsea para Hombre Braun...'
+tags: 
 actualPrice: 68.39 EUR
 currency: EUR
 price: 68.39

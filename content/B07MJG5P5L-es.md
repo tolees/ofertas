@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KBx1T54jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJG5P5L-es Anthem - Fluoreszierendes Steelbook  exkl. bei Amazon.de  - [Enthält kein Spiel] [Importación alemana]'
+slug: 'B07MJG5P5L-es Anthem - Fluoreszierendes Steelbook exkl. bei Amazon.de -...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

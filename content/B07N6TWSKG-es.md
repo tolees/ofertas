@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YbElI74eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6TWSKG-es Tommy Hilfiger Fashion Mix Sneaker  Zapatillas para Hombre  White Ybs  44 EU'
+slug: 'B07N6TWSKG-es Tommy Hilfiger Fashion Mix Sneaker Zapatillas para Hombre...'
+tags: 
 actualPrice: 29.22 EUR
 currency: EUR
 price: 29.22

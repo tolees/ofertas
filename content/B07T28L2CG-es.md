@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y5KUnS8yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T28L2CG-es B Blesiya Reloj de Tiempo de Contador Cuenta Atrás con Pantalla LCD para Cocinero - Naranja'
+slug: 'B07T28L2CG-es B Blesiya Reloj de Tiempo de Contador Cuenta Atrás con...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

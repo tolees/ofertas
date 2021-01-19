@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cbPg7rrSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772ZHLPJ-es Columbia Conspiracy V Outdry  Zapatillas de Senderismo para Hombre  Negro  Black  Lux 010   41.5 EU'
+slug: 'B0772ZHLPJ-es Columbia Conspiracy V Outdry Zapatillas de Senderismo para...'
+tags: 
 actualPrice: 77.89 EUR
 currency: EUR
 price: 77.89

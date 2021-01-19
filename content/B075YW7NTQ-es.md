@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41exR-4rMrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075YW7NTQ-es Sloggi Zero Feel Bralette Corsé para Mujer  Beige  Cognac Sh   M'
+slug: 'B075YW7NTQ-es Sloggi Zero Feel Bralette Corsé para Mujer Beige Cognac Sh M'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

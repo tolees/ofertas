@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AJ8DSVsDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQXP9OJ-es JACK & JONES Ww 420 Noos  Pantalones para Hombre  Negro  Black   W32/L32  Talla del fabricante: 32 '
+slug: 'B01MQXP9OJ-es JACK & JONES Ww 420 Noos Pantalones para Hombre Negro...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

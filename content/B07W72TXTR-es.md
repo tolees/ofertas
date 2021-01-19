@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41asXrd2wOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W72TXTR-es BaByliss AS136E Cepillo de aire 1000W  iónico  4 accesorios  pala para alisar  cabezal pre-secado  cabezal cónico para ondular y cepillo térmico de 50 mm para moldear  3 velocidades y temperaturas'
+slug: 'B07W72TXTR-es BaByliss AS136E Cepillo de aire 1000W iónico 4 accesorios...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

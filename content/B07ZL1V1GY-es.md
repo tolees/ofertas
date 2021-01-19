@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZL1V1GY-es Old Spice Bearglove Desodorante En Barra Para Hombres 50 ml'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

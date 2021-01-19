@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4191zZ1g6uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075T9LL3N-es Proyector LED de proyector  detector de movimiento  reflector Led para exterior Proyector Led  Proyector LED Proyector 50 W Blanc Chaud  5000LM para interiores y exteriores  impermeable'
+slug: 'B075T9LL3N-es Proyector LED de proyector detector de movimiento...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

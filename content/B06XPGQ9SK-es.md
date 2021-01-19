@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51P8lentLHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPGQ9SK-es Mr.Ho Terciopelo Almohada para el Reposacabezas del Coche  Cojín Cervical con Soporte de Cuello para el Asiento del Coche con Espuma de Memoria para Conducir -  con Cubierta Extraíble-Negro'
+slug: 'B06XPGQ9SK-es Mr.Ho Terciopelo Almohada para el Reposacabezas del Coche...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

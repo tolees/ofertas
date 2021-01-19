@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5134P4uwB5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPD6QK7-es Juego de herramientas de 65 piezas DEKO Kit de herramientas de mano para el hogar en general con caja de almacenamiento de plástico'
+slug: 'B07PPD6QK7-es Juego de herramientas de 65 piezas DEKO Kit de...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

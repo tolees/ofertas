@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zQ8nVtJxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YB5XR83-es Cable USB-C Tipo C Muelle en Espiral Espiral Tipo-C Cable de extensión Macho Cargador de sincronización de Datos Cable de Carga de Alambre - Negro'
+slug: 'B07YB5XR83-es Cable USB-C Tipo C Muelle en Espiral Espiral Tipo-C Cable...'
+tags: 
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

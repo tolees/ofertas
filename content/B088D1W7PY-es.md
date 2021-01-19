@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+UoVX2rsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088D1W7PY-es Younsea Correa Galaxy Watch Active 2  Correas de Acero Inoxidable de 20 mm con Liberación Rápida para Galaxy Watch 42mm / Gear S2 Classic/Gear Sport/Huawei Watch 2 / Forerunner 645'
+slug: 'B088D1W7PY-es Younsea Correa Galaxy Watch Active 2 Correas de Acero...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

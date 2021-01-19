@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416sJKLrb+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3G16KG-es Superdry Orange Label Classic Jogger Pantalones de Deporte  Gris  Hammer Grey Grindle Pw8   48  Talla del Fabricante: Small  para Hombre'
+slug: 'B07P3G16KG-es Superdry Orange Label Classic Jogger Pantalones de Deporte...'
+tags: 
 actualPrice: 39.03 EUR
 currency: EUR
 price: 39.03

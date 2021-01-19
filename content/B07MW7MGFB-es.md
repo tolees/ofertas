@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/519WXQwazNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MW7MGFB-es Marvel Capitán Marvel - Vaso cambiador de frío  protector de los cielos'
+slug: 'B07MW7MGFB-es Marvel Capitán Marvel - Vaso cambiador de frío protector...'
+tags: 
 actualPrice: 5 EUR
 currency: EUR
 price: 5

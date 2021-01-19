@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31L94FYny4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XYC42V-es Remington Pro Air D5950 - Secador de Pelo Iónico  Concentrador  Resultados Profesionales  2200 W  Negro y Granate'
+slug: 'B078XYC42V-es Remington Pro Air D5950 - Secador de Pelo Iónico...'
+tags: 
 actualPrice: 18.03 EUR
 currency: EUR
 price: 18.03

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414tej-mVxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ42JPF-es PUMA Basket Heart Patent WN S  Zapatillas para Mujer  Gris  Iron Gate/Iron Gate   38 EU'
+slug: 'B07CZ42JPF-es PUMA Basket Heart Patent WN S Zapatillas para Mujer Gris...'
+tags: 
 actualPrice: 46.54 EUR
 currency: EUR
 price: 46.54

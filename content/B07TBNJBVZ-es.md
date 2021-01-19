@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vir+55g9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBNJBVZ-es Luces LED de techo para música 60W  Houkiper Bluetooth Luces para música Control remoto LED Regulable Luz de techo Redondo Punto de estrella RGBW Cambio de color APLICACIÓN 185-265V Control remoto'
+slug: 'B07TBNJBVZ-es Luces LED de techo para música 60W Houkiper Bluetooth...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

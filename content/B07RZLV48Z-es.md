@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uqt0yAtrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLV48Z-es Asics Gel-BND  Zapatillas de Balonmano para Hombre  Azul  Midnight/Sheet Rock 400   45 EU'
+slug: 'B07RZLV48Z-es Asics Gel-BND Zapatillas de Balonmano para Hombre Azul...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

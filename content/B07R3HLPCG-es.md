@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h17Dl9-8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3HLPCG-es GeeRic Ventilador USB Mini Ventilador Deportivo Cuello Colgante Ventilador portátil Plegable Silencioso Ventilador de Mesa para Cocina Deportiva Viaje de Oficina con 3 velocidades Negro'
+slug: 'B07R3HLPCG-es GeeRic Ventilador USB Mini Ventilador Deportivo Cuello...'
+tags: 
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

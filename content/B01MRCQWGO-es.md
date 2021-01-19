@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CIB2-dwYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRCQWGO-es Samsung C27H711 27" Wide Quad HD VA Monitor para PC -  300 cd/m²  2560 x 1440 Pixeles  4 ms  LED  Wide Quad HD   Color blanco'
+slug: 'B01MRCQWGO-es Samsung C27H711 27" Wide Quad HD VA Monitor para PC - 300...'
+tags: 
 actualPrice: 275.89 EUR
 currency: EUR
 price: 275.89

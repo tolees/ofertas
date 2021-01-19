@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ho79cMlDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08186NZWK-es siismi 2 Pares Plantillas de Tacón Alto de Silicona  3/4 Plantillas de Gel Autoadhesivas con Soporte de Arco  Alivio del Dolor'
+slug: 'B08186NZWK-es siismi 2 Pares Plantillas de Tacón Alto de Silicona 3/4...'
+tags: 
 actualPrice: 3.57 EUR
 currency: EUR
 price: 3.57

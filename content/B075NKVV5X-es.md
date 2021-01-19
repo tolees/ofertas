@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NKVV5X-es Rotary Reloj de Pulsera GB08300/01'
+tags: 
 actualPrice: 100.47 EUR
 currency: EUR
 price: 100.47

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51V8HBOqocL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVTMJ6Z-es Women s Secret Cotton Print Black Flower Sujetador básico  Multicolor  Hielo 94   95  Tamaño del Fabricante: 95B  para Mujer'
+slug: 'B07TVTMJ6Z-es Women s Secret Cotton Print Black Flower Sujetador básico...'
+tags: 
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

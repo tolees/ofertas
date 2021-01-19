@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314pKIIXyWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTLZVFM-es FIND - Full-fab Lipkit  Chubby shiny n.3 + Chubby Mate n.3 '
+slug: 'B07CTLZVFM-es FIND - Full-fab Lipkit Chubby shiny n.3 + Chubby Mate n.3'
+tags: 
 actualPrice: 2.86 EUR
 currency: EUR
 price: 2.86

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417F1nL4ONL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DRERKG8-es BRA Plancha Asar  Negro  35 cm'
+slug: 'B00DRERKG8-es BRA Plancha Asar Negro 35 cm'
+tags: 
 actualPrice: 39.33 EUR
 currency: EUR
 price: 39.33

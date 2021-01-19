@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WNN%2BOQknL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0789FRLZH-es Reebok Dmxride Comfort 4.0  Zapatillas de Deporte para Hombre  Negro  Black/Cool Shadow 000   40.5 EU'
+slug: 'B0789FRLZH-es Reebok Dmxride Comfort 4.0 Zapatillas de Deporte para...'
+tags: 
 actualPrice: 29 EUR
 currency: EUR
 price: 29

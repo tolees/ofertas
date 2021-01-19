@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JH0zimkkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CGLVSVA-es SECTOR NO LIMITS Reloj Digital para Hombre de Cuarzo con Correa en PU R3251590003'
+slug: 'B01CGLVSVA-es SECTOR NO LIMITS Reloj Digital para Hombre de Cuarzo con...'
+tags: 
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

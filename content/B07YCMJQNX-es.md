@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-RO-x8kZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCMJQNX-es TACKLIFE Cortabordes Eléctrico  350W Cortabordes  Ancho de Corte 25 cm  Asa Giratoria 180°  Fácilmente Plegable & Almacenamiento  Función de Recorte Simple  Tap&Go Sistema de Corte de 2 Hilos- KAGT03A'
+slug: 'B07YCMJQNX-es TACKLIFE Cortabordes Eléctrico 350W Cortabordes Ancho de...'
+tags: 
 actualPrice: 42.17 EUR
 currency: EUR
 price: 42.17

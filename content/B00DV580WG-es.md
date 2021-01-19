@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d8PZyRibL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DV580WG-es Superga Classic  Zapatillas Unisex Adulto  Azul  Blue Shadow C57   37.5 EU'
+slug: 'B00DV580WG-es Superga Classic Zapatillas Unisex Adulto Azul Blue Shadow...'
+tags: 
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ze03uBbUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779DC4MR-es adidas Santos Sock 18 Calcetines  Unisex Adulto  Black/White  4042'
+slug: 'B0779DC4MR-es adidas Santos Sock 18 Calcetines Unisex Adulto Black/White...'
+tags: 
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

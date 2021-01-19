@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RRBtXtCIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2SXNQ2-es Eastpak SPRINGER Riñonera  23 cm  2 L  Verde  Meshknit Green '
+slug: 'B07X2SXNQ2-es Eastpak SPRINGER Riñonera 23 cm 2 L Verde Meshknit Green'
+tags: 
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B5YKF1thL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NHSVCTK-es La Martina Miguel Polo  Blanco  Optic White 00001   Medium para Hombre'
+slug: 'B00NHSVCTK-es La Martina Miguel Polo Blanco Optic White 00001 Medium...'
+tags: 
 actualPrice: 32.64 EUR
 currency: EUR
 price: 32.64

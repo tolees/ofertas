@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Aklo00vaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B625NVH-es Longspeed TLW03 4.0 Pulsera Inteligente Smartband Podómetro Sport Smart Wristband Fitness Tracker Smart Band para Android-Azul'
+slug: 'B08B625NVH-es Longspeed TLW03 4.0 Pulsera Inteligente Smartband...'
+tags: 
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

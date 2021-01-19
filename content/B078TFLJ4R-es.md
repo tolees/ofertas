@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fshZvzbDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078TFLJ4R-es VICTSING Altavoz Bluetooth Portátil  Altavoz inalámbrico con 18 Horas de Emisión Continua  360 ° Sonido Envolvente Estéreo con HD Sonido y Subwoofer. Bluetooth V4.2 y Micrófono Incorporado-Negro'
+slug: 'B078TFLJ4R-es VICTSING Altavoz Bluetooth Portátil Altavoz inalámbrico...'
+tags: 
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

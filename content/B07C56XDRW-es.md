@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mdiOXyjPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C56XDRW-es Candados Combinación  LEADSTAR 2 x Candado TSA Equipaje de Seguridad - Combinación De 3 Dígitos para Maletas Equipaje'
+slug: 'B07C56XDRW-es Candados Combinación LEADSTAR 2 x Candado TSA Equipaje de...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

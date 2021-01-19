@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31TdECoKggL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNZHR98-es Lacoste HH9553 Pantalones  Beige  Viennois   46  Talla del Fabricante: 46/32  para Hombre'
+slug: 'B07MNZHR98-es Lacoste HH9553 Pantalones Beige Viennois 46 Talla del...'
+tags: 
 actualPrice: 44.42 EUR
 currency: EUR
 price: 44.42

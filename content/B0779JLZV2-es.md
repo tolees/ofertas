@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518mYQyw26L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779JLZV2-es Skechers Litebeams-Gleam N dream  Zapatillas para Niñas  Azul  Navy/Multi Nvmt   34 EU'
+slug: 'B0779JLZV2-es Skechers Litebeams-Gleam N dream Zapatillas para Niñas...'
+tags: 
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

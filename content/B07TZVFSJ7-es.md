@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YQY4j-4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZVFSJ7-es Merrell Vapor Glove 3 Luna Leather  Zapatillas Deportivas para Interior para Hombre  Azul  Navy   46 EU'
+slug: 'B07TZVFSJ7-es Merrell Vapor Glove 3 Luna Leather Zapatillas Deportivas...'
+tags: 
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

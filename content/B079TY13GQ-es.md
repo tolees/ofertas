@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NomIFw+TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TY13GQ-es Saco PRIMAVERA/VERANO ENTRETIEMPO para CUCO/CAPAZO Impermeable modelo 101'
+slug: 'B079TY13GQ-es Saco PRIMAVERA/VERANO ENTRETIEMPO para CUCO/CAPAZO...'
+tags: 
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SdnW42tUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087NKZYBG-es Grborn Monitor de presión Arterial Portátil y Brazo doméstico Tipo de Banda esfigmomanómetro Pantalla LCD precisa'
+slug: 'B087NKZYBG-es Grborn Monitor de presión Arterial Portátil y Brazo...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

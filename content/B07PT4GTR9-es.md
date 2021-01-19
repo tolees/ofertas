@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4135+Dl1fFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT4GTR9-es LOL Surprise - Glamper Van  Giochi Preziosi LLU92000 '
+slug: 'B07PT4GTR9-es LOL Surprise - Glamper Van Giochi Preziosi LLU92000'
+tags: 
 actualPrice: 91.67 EUR
 currency: EUR
 price: 91.67

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KwY7YIeQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071S7WDLP-es I-CLIP ® Cartera Jeans-Mirada Gris  Disponible En 2 Variantes '
+slug: 'B071S7WDLP-es I-CLIP ® Cartera Jeans-Mirada Gris Disponible En 2 Variantes'
+tags: 
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

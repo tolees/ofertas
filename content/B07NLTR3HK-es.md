@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nVoWlR5HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLTR3HK-es VERSACE JEANS COUTURE Pantaloni Sportivi Pantalones de Deporte  Negro  Negro 899   40  Talla del Fabricante: Large  para Mujer'
+slug: 'B07NLTR3HK-es VERSACE JEANS COUTURE Pantaloni Sportivi Pantalones de...'
+tags: 
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

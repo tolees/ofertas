@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iG93DItJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WGN4RTL-es Foxom Cronómetro Deportivo Profesional Portátil Digital Cronógrafo Temporizador  Tres Filas 60 Memorias de Vuelta 1/100 Segundo Precisión cronómetro'
+slug: 'B06WGN4RTL-es Foxom Cronómetro Deportivo Profesional Portátil Digital...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

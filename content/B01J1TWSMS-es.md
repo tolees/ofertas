@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MkQxjtCkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J1TWSMS-es Juego de 5 piezas de para beber sake japonés. Pintadas a mano con un diseño de flores de cerezo  de porcelana de cerámica. Artesanía tradicional'
+slug: 'B01J1TWSMS-es Juego de 5 piezas de para beber sake japonés. Pintadas a...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

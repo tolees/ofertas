@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ncl6y1eJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V82KY5V-es Tommy Hilfiger - Honey CC Holder  Carteras Mujer  Negro  Black   1x1x1 cm  W x H L '
+slug: 'B07V82KY5V-es Tommy Hilfiger - Honey CC Holder Carteras Mujer Negro...'
+tags: 
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

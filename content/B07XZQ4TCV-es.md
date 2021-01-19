@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XxQTZjR2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZQ4TCV-es Hauck carro Shopper SLX trioset  coche de bebes 3 piezas de capazo  sillita y grupo 0+  botellero  facil y comodo plegado  para recien nacidos hasta bebes/niños de 25 kg  azul'
+slug: 'B07XZQ4TCV-es Hauck carro Shopper SLX trioset coche de bebes 3 piezas de...'
+tags: 
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

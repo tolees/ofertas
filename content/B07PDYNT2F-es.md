@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WIzIsnSBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDYNT2F-es BLACK+DECKER SVB520JW-QW - Aspirador escoba sin cable 2 en 1 de 18V  2Ah   500ml'
+slug: 'B07PDYNT2F-es BLACK+DECKER SVB520JW-QW - Aspirador escoba sin cable 2 en...'
+tags: 
 actualPrice: 85.98 EUR
 currency: EUR
 price: 85.98

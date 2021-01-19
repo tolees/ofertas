@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AGgnTg+5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT6MVKH-es DIESEL ShoesBoldmessage DoublecrossHombreCarterasAzul  Blue Nights  8x18x34 Centimeters  W x H x L '
+slug: 'B07RT6MVKH-es DIESEL ShoesBoldmessage DoublecrossHombreCarterasAzul Blue...'
+tags: 
 actualPrice: 28.62 EUR
 currency: EUR
 price: 28.62

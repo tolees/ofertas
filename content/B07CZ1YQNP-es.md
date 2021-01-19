@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LxUuV+PPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ1YQNP-es Asics Gel-Cumulus 20  Zapatillas de Entrenamiento para Hombre  Negro  Black/White 002   44.5 EU'
+slug: 'B07CZ1YQNP-es Asics Gel-Cumulus 20 Zapatillas de Entrenamiento para...'
+tags: 
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

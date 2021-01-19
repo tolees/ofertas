@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yWrqwQUkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007F6G3YE-es Lékué Decorador pastelería  Silicona  Rojo'
+slug: 'B007F6G3YE-es Lékué Decorador pastelería Silicona Rojo'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

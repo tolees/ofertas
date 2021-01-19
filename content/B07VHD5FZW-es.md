@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51J7R0penFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHD5FZW-es EUKO Guirnalda luces exterior 10 m 100 LEDs impermeable Cadena de luces 8 Modos con Control Remoto para Dormitorio Jardines Boda Cumpleaños  blanco cálido '
+slug: 'B07VHD5FZW-es EUKO Guirnalda luces exterior 10 m 100 LEDs impermeable...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

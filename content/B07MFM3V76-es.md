@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q82QNrMDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFM3V76-es Clarks Un Larvik Peak  Botas clásicas. para Hombre  Piel marrón marrón  42.5 EU'
+slug: 'B07MFM3V76-es Clarks Un Larvik Peak Botas clásicas. para Hombre Piel...'
+tags: 
 actualPrice: 78.0 EUR
 currency: EUR
 price: 78.0

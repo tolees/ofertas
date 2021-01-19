@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n5DWx7lML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6NNPG4-es Tommy Hilfiger TH Pompom Beanie Gorro de Punto   Blue Cjm   única  Talla del Fabricante: OS  para Mujer'
+slug: 'B07N6NNPG4-es Tommy Hilfiger TH Pompom Beanie Gorro de Punto Blue Cjm...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

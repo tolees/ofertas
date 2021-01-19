@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BAoSbH3gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G7BB30G-es Henry London Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero 5018479079828'
+slug: 'B01G7BB30G-es Henry London Reloj Analógico para Unisex Adultos de Cuarzo...'
+tags: 
 actualPrice: 144.43 EUR
 currency: EUR
 price: 144.43

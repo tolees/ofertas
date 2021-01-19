@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PCYVYUj0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TBMRVGS-es Finocam Escribir  Calendario de Pared 2020  L - 340 x 320 mm'
+slug: 'B07TBMRVGS-es Finocam Escribir Calendario de Pared 2020 L - 340 x 320 mm'
+tags: 
 actualPrice: 3.55 EUR
 currency: EUR
 price: 3.55

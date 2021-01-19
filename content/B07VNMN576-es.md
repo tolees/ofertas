@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YMW8CnZcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNMN576-es G-STAR RAW Carnic Pantalones Cortos  Rosa  Langoustino Pink A505-b250   XL para Hombre'
+slug: 'B07VNMN576-es G-STAR RAW Carnic Pantalones Cortos Rosa Langoustino Pink...'
+tags: 
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

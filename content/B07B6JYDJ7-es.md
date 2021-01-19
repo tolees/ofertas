@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41liQmtcQfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B6JYDJ7-es Skechers Segment-Garnet 65573  Botas Chukka para Hombre  Marrón  Dark Brown CDB   40 EU'
+slug: 'B07B6JYDJ7-es Skechers Segment-Garnet 65573 Botas Chukka para Hombre...'
+tags: 
 actualPrice: 50.26 EUR
 currency: EUR
 price: 50.26

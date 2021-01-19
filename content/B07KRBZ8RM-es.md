@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21rER87C52L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRBZ8RM-es PEKITAS Lote 2 Unidades Barrera Protector de Espuma Para Cama Para Bebés Niños Fabricado En España Longitud 100 cm'
+slug: 'B07KRBZ8RM-es PEKITAS Lote 2 Unidades Barrera Protector de Espuma Para...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ec1aSgDjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072FM1MLN-es find. Zapatillas Clásicas con Cordones para Hombre  Azul  Navy   43 EU'
+slug: 'B072FM1MLN-es find. Zapatillas Clásicas con Cordones para Hombre Azul...'
+tags: 
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

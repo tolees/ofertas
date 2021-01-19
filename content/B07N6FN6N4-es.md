@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5156I-PIqgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6FN6N4-es MyGel by Mylee - Esmalte de uñas en gel de 4 x 10 ml  colores + capa superior y base  UV/LED  manicura y pedicura para uso profesional  salón y hogar  de larga duración y fácil de aplicar'
+slug: 'B07N6FN6N4-es MyGel by Mylee - Esmalte de uñas en gel de 4 x 10 ml...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

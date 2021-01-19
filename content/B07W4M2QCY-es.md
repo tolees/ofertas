@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gy1Idc+ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4M2QCY-es Tommy Hilfiger Medium Drawstring Bañador  Blanco  Large  Talla del Fabricante:  para Hombre'
+slug: 'B07W4M2QCY-es Tommy Hilfiger Medium Drawstring Bañador Blanco Large...'
+tags: 
 actualPrice: 36.14 EUR
 currency: EUR
 price: 36.14

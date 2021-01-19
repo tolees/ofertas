@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311oX6EElLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X5EHM5Y-es Star Wars - Disfraz de Storm Trooper para niños  talla M infantil 5-6 años  Rubies 620267-M '
+slug: 'B00X5EHM5Y-es Star Wars - Disfraz de Storm Trooper para niños talla M...'
+tags: 
 actualPrice: 22.16 EUR
 currency: EUR
 price: 22.16

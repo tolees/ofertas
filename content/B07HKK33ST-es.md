@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZURvu-YYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKK33ST-es Under Armour UA W Ripple 2.0  Zapatillas de Running para Mujer  Azul  Blue Heights/White  400   40.5 EU'
+slug: 'B07HKK33ST-es Under Armour UA W Ripple 2.0 Zapatillas de Running para...'
+tags: 
 actualPrice: 27.92 EUR
 currency: EUR
 price: 27.92

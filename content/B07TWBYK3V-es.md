@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51neYajxh8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWBYK3V-es 24x Negro blanco Lámina impresa 2d PEGATINAS lisas para pegar sobre azulejos cuadrados de 15cm en cocina  baños – resistentes al agua y aceite'
+slug: 'B07TWBYK3V-es 24x Negro blanco Lámina impresa 2d PEGATINAS lisas para...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

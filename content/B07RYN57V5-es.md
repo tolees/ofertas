@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vG+gPKezL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYN57V5-es New Balance 411  Zapatillas de Running para Mujer  Rosa Pink Cs1  36 EU'
+slug: 'B07RYN57V5-es New Balance 411 Zapatillas de Running para Mujer Rosa Pink...'
+tags: 
 actualPrice: 27.86 EUR
 currency: EUR
 price: 27.86

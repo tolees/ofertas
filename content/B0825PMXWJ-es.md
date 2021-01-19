@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IrPqvANHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825PMXWJ-es Roxy Whole Hearted - Licra De Manga Corta con Protección Solar UPF 50 para Mujer Licra De Manga Corta con Protección Solar UPF 50  Mujer  Canton  M'
+slug: 'B0825PMXWJ-es Roxy Whole Hearted - Licra De Manga Corta con Protección...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

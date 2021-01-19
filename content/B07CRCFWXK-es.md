@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KliEuRcGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CRCFWXK-es Pepe Jeans Finly Jeans  Negro  Black Denim Wl0   8 años  Talla del Fabricante: 8  para Niños'
+slug: 'B07CRCFWXK-es Pepe Jeans Finly Jeans Negro Black Denim Wl0 8 años Talla...'
+tags: 
 actualPrice: 31.23 EUR
 currency: EUR
 price: 31.23

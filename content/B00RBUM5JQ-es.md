@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JqShKgbwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RBUM5JQ-es BIO Moringa Oleifera Vegavero® | Ahora Dosis Diaria Mayor: 1800 mg | 270 CÁPSULAS | Superfood: Proteínas  Vitaminas  Minerales y Omega 3 | Antioxidante | SIN ADITIVOS | Vegano'
+slug: 'B00RBUM5JQ-es BIO Moringa Oleifera Vegavero® | Ahora Dosis Diaria Mayor:...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

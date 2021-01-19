@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dq-UsVpQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001MZYJ9U-es Ferplast Siesta Deluxe 4 - Cama para Gatos y Perros  61 5 x 45 x 21 5 cm  Color Negro'
+slug: 'B001MZYJ9U-es Ferplast Siesta Deluxe 4 - Cama para Gatos y Perros 61 5 x...'
+tags: 
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

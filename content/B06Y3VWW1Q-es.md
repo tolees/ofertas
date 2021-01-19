@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RNvj7Lo8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y3VWW1Q-es Bluefinity Aro Pilates  Anillo Ejercicio  Yoga  Resistencia  Deporte  Fitness  Plástico Reforzado  1 Ud  39 cm  Turquesa'
+slug: 'B06Y3VWW1Q-es Bluefinity Aro Pilates Anillo Ejercicio Yoga Resistencia...'
+tags: 
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bVyLb1yiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TGWW1K4-es Finocam 623531020  Agenda  Tamaño Único  Multicolor'
+slug: 'B07TGWW1K4-es Finocam 623531020 Agenda Tamaño Único Multicolor'
+tags: 
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

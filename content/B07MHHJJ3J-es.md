@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RtyHgfWeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHHJJ3J-es Max Factor False Lash Effect Rise & Shine Black Máscara de pestañas Tono Nego - 12 ml'
+slug: 'B07MHHJJ3J-es Max Factor False Lash Effect Rise & Shine Black Máscara de...'
+tags: 
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

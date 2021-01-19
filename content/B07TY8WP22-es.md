@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qzLXOuo4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TY8WP22-es L Oréal Paris Rouge Signature 203 I Magnetize Pintalabios Metálico Permanente Rojo'
+slug: 'B07TY8WP22-es L Oréal Paris Rouge Signature 203 I Magnetize Pintalabios...'
+tags: 
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

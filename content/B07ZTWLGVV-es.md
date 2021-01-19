@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jwSWnp0UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTWLGVV-es Nike Jordan Jumpman 2020  Zapatillas de básquetbol para Hombre  Black Mtlc Silver White Digital Pink  40 EU'
+slug: 'B07ZTWLGVV-es Nike Jordan Jumpman 2020 Zapatillas de básquetbol para...'
+tags: 
 actualPrice: 77.7 EUR
 currency: EUR
 price: 77.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vkzxuci0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0725PK8HL-es Calcetines de Deporte Low Cut Pack de 1  Azul  EU 43-47 '
+slug: 'B0725PK8HL-es Calcetines de Deporte Low Cut Pack de 1 Azul EU 43-47'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

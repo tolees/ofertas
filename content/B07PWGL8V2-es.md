@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fF4zO6JVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWGL8V2-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES4614'
+slug: 'B07PWGL8V2-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

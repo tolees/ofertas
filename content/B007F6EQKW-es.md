@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21i+R+H2rPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007F6EQKW-es Lékué - Cocedor de Huevos  0.1 litros  Silicona  Transparente'
+slug: 'B007F6EQKW-es Lékué - Cocedor de Huevos 0.1 litros Silicona Transparente'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

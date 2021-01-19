@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419SHJtfKcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R564WWP-es DlandHome Cama Elastica Ø 152 cm Trampolín Infantil de jardín  con Recinto de Seguridad  Ideal para Interiores y Exteriores  Negro'
+slug: 'B07R564WWP-es DlandHome Cama Elastica Ø 152 cm Trampolín Infantil de...'
+tags: 
 actualPrice: 89.04 EUR
 currency: EUR
 price: 89.04

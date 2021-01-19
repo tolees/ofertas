@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X+cx1+3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZBPQYX-es Fossil Smartwatch Pantalla táctil para Hombre de Connected con Correa en Silicona FTW4041'
+slug: 'B083ZBPQYX-es Fossil Smartwatch Pantalla táctil para Hombre de Connected...'
+tags: 
 actualPrice: 172.97 EUR
 currency: EUR
 price: 172.97

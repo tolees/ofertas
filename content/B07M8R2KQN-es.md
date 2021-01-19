@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yz+1QdbIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8R2KQN-es MTNG Attitude 69574  Zapatillas para Mujer  Blanco  Canvas3 Point Blanco C46279   39 EU'
+slug: 'B07M8R2KQN-es MTNG Attitude 69574 Zapatillas para Mujer Blanco Canvas3...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

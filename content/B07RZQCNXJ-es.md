@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4121-+Fz0UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZQCNXJ-es Viedouce 2 Paquetes Delantales Cintura Corta Delantal Impermeable con 2 Bolsillos para Restaurante Chef Camarero Bartender Mitad Delantale de Cocina para Hombres Mujeres  Negro '
+slug: 'B07RZQCNXJ-es Viedouce 2 Paquetes Delantales Cintura Corta Delantal...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

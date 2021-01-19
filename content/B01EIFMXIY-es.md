@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q1tML3aJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EIFMXIY-es Clarins Fix  Make-Up Spray - 50 ml'
+slug: 'B01EIFMXIY-es Clarins Fix Make-Up Spray - 50 ml'
+tags: 
 actualPrice: 17.69 EUR
 currency: EUR
 price: 17.69

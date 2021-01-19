@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XeNAvZtyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYPFLSR-es Olympus OM-D E-M5 Mark III Micro Four Thirds carcasa de la cámara  sensor de 20 MP  estabilizador de imagen de 5 ejes  potente autofoco  visor electrónico OLED  vídeo 4K  WLAN  Bluetooth  negro'
+slug: 'B07XYPFLSR-es Olympus OM-D E-M5 Mark III Micro Four Thirds carcasa de la...'
+tags: 
 actualPrice: 889.99 EUR
 currency: EUR
 price: 889.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yYrSZDkWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JXMM5R-es Baby Jogger City Mini 4 - Silla de paseo  color azulón/gris'
+slug: 'B073JXMM5R-es Baby Jogger City Mini 4 - Silla de paseo color azulón/gris'
+tags: 
 actualPrice: 281.76 EUR
 currency: EUR
 price: 281.76

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oAO4rjsXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMP3THW-es HOUSE DAY Taburete Plegable de Ligero 22cm Negro plástico Antideslizantes para niños la Cocina Taburete de baño'
+slug: 'B07SMP3THW-es HOUSE DAY Taburete Plegable de Ligero 22cm Negro plástico...'
+tags: 
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

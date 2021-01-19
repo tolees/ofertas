@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ypV40WQ7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XO25PZ6-es ESI Multicomplex Potasio+ Magnesio  Complemento Alimenticio - 90 Tabletas'
+slug: 'B00XO25PZ6-es ESI Multicomplex Potasio+ Magnesio Complemento Alimenticio...'
+tags: 
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

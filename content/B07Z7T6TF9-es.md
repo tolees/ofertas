@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WENerPKNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7T6TF9-es CYHY Empalme Inteligente LED de luz  lámpara de Pared Hexagonal  Paneles A Bright LED for la iluminación de una Pared Durante el Interior  Las Luces Modular Touch Sensitive Panal Decorativo'
+slug: 'B07Z7T6TF9-es CYHY Empalme Inteligente LED de luz lámpara de Pared...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

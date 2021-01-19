@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X+FkhldOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071XVND29-es Woxter Smartfit15. Pulsera Actividad. Control pulsaciones  sueño. App BT. Rojo'
+slug: 'B071XVND29-es Woxter Smartfit15. Pulsera Actividad. Control pulsaciones...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

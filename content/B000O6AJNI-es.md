@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+Gxm2U2hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000O6AJNI-es Cressi Water Shoes Escarpines  Unisex Adulto  Claro  Transparente   38 EU'
+slug: 'B000O6AJNI-es Cressi Water Shoes Escarpines Unisex Adulto Claro...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

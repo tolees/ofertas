@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zkfzxSe0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DL47XPK-es SHENKEY Sofa Hinchable  2019 Upgrade Anti-Air Leaking Air Sofa con paquete portátil  sofá inflable y silla Air para viajes  campamentos  excursiones y fiestas en la playa'
+slug: 'B07DL47XPK-es SHENKEY Sofa Hinchable 2019 Upgrade Anti-Air Leaking Air...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

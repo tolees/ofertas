@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qHQy4FudL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4MQC8F-es NIKE M CFD Pant FLC TM Club19 Pantalones de Deporte  Hombre  Charcoal Heathr/White/White  2XL'
+slug: 'B07N4MQC8F-es NIKE M CFD Pant FLC TM Club19 Pantalones de Deporte Hombre...'
+tags: 
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

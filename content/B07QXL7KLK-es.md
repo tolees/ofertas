@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZbPe199aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXL7KLK-es Under Armour Launch Compression Pantalones Cortos  Mujer  Negro  MD'
+slug: 'B07QXL7KLK-es Under Armour Launch Compression Pantalones Cortos Mujer...'
+tags: 
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

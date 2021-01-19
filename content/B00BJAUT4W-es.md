@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bjfFDByuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BJAUT4W-es Philips SNOW Super Speed 32 GB USB Flash Drivee 3.0  Leer hasta 100 MB/s'
+slug: 'B00BJAUT4W-es Philips SNOW Super Speed 32 GB USB Flash Drivee 3.0 Leer...'
+tags: 
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

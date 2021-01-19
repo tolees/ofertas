@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pu91maW+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A1YG6HG-es Wrangler Texas Contrast Jeans  Azul  Night Break 37W   36W / 34L para Hombre'
+slug: 'B00A1YG6HG-es Wrangler Texas Contrast Jeans Azul Night Break 37W 36W /...'
+tags: 
 actualPrice: 52.18 EUR
 currency: EUR
 price: 52.18

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nqOns5-iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WFD4WO-es Trixie Bozal plástico  Cintas Ajuste Nylon  L  26 cm  Ng'
+slug: 'B000WFD4WO-es Trixie Bozal plástico Cintas Ajuste Nylon L 26 cm Ng'
+tags: 
 actualPrice: 6.04 EUR
 currency: EUR
 price: 6.04

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U5dpJogqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCCZRMH-es HUGO Arti/hesten193 Traje  Negro  Charcoal 10   46  Talla del Fabricante: 44  para Hombre'
+slug: 'B07SCCZRMH-es HUGO Arti/hesten193 Traje Negro Charcoal 10 46 Talla del...'
+tags: 
 actualPrice: 230.71 EUR
 currency: EUR
 price: 230.71

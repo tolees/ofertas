@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VhG4oPYOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVK3HYZ-es Kipling Women s KI3697  3 x Wallet Grey Grey  STEEL GR METAL H55 '
+slug: 'B07MVK3HYZ-es Kipling Women s KI3697 3 x Wallet Grey Grey STEEL GR METAL...'
+tags: 
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

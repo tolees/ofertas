@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PAUhgQ54L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRJWJ28-es adidas Predator 19.3 FG  Zapatillas de Fútbol para Hombre  Verde  Legacy Green/Sand/Solar Yellow Legacy Green/Sand/Solar Yellow   39 1/3 EU'
+slug: 'B07SRJWJ28-es adidas Predator 19.3 FG Zapatillas de Fútbol para Hombre...'
+tags: 
 actualPrice: 59.51 EUR
 currency: EUR
 price: 59.51

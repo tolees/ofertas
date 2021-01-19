@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410x2jTdfgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCCG2MW-es G9 Led Bulb 3W  Bombilla Led G9 Pursnic  equivalente a halógeno de 33W   blanco frío 6000k  ángulo de haz de 360 °  lámpara g9 para iluminación del hogar  paquete de 6'
+slug: 'B07FCCG2MW-es G9 Led Bulb 3W Bombilla Led G9 Pursnic equivalente a...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

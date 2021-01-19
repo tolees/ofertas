@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417u2VpifWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KW2DHVY-es BaByliss T840E - Afeitadora y recortadora de barba  cuchillas resistentes de acero inoxidable  60 minutos de autonomía  uso con y sin cable  negro'
+slug: 'B01KW2DHVY-es BaByliss T840E - Afeitadora y recortadora de barba...'
+tags: 
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PV4jcu6RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DPBCVTI-es DSstyles Reloj Hombre 5 ATM Resistente al agua Reloj deportivo con medición de ritmo cardíaco Pedometer Cronómetro - Naranja'
+slug: 'B01DPBCVTI-es DSstyles Reloj Hombre 5 ATM Resistente al agua Reloj...'
+tags: 
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

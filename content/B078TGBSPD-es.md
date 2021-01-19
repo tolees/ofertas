@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51F1OTtSY6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078TGBSPD-es JUNING Kit de Costura Costurero 90pcs Accesorios Costura Kit de Accesorios para el viajes y principiantes y emergencias  B-Mini '
+slug: 'B078TGBSPD-es JUNING Kit de Costura Costurero 90pcs Accesorios Costura...'
+tags: 
 actualPrice: 7.22 EUR
 currency: EUR
 price: 7.22

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ISTNOO4-es Piku Twit-Twoo - Trona para bebés con bandeja regulable'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

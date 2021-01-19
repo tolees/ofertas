@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GTByhayXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0168S7YEW-es Belle Azul - PURE SWISS - Sérum Facial de Ácido Hialurónico Puro de Alta Calidad Suiza  Con Vitamina C y Células Madre de Argán  30ML'
+slug: 'B0168S7YEW-es Belle Azul - PURE SWISS - Sérum Facial de Ácido...'
+tags: 
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

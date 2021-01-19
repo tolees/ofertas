@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517GV5R86xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSCBCBH-es Telémetro láser 50m  USB 30mins Carga rápida  TECCPO Medidor Láser  Electrónico Ángulo Sensores  99 Datos  2.25   LCD Retroiluminación  Medición de distancia  Área  Volumen  Trípode  IP54  TDLM26P'
+slug: 'B07TSCBCBH-es Telémetro láser 50m USB 30mins Carga rápida TECCPO Medidor...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

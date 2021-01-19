@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z9AGttnmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00840LBME-es Novi Stars - ARI Roma muñeca  Bandai 516958 '
+slug: 'B00840LBME-es Novi Stars - ARI Roma muñeca Bandai 516958'
+tags: 
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

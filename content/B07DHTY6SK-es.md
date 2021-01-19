@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xgnTr-stL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHTY6SK-es Lacoste Graduate BL 1 SMA  Zapatillas para Hombre  Negro  Black/White   43 EU'
+slug: 'B07DHTY6SK-es Lacoste Graduate BL 1 SMA Zapatillas para Hombre Negro...'
+tags: 
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

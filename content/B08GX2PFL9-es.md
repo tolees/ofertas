@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BeBnMI4ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GX2PFL9-es 3 Pares Calcetines Running Para Hombre Mujer - Deporte Calcetines Cortos de Algodón Con Amortiguación Respirable Running Ciclismo  3 Pares Negro  EU 43-47 '
+slug: 'B08GX2PFL9-es 3 Pares Calcetines Running Para Hombre Mujer - Deporte...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

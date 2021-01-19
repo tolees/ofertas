@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XkFuroL3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXLDXS1-es Wella Invigo Brilliance Shampoo Coarse  500 ml'
+slug: 'B07DXLDXS1-es Wella Invigo Brilliance Shampoo Coarse 500 ml'
+tags: 
 actualPrice: 8.16 EUR
 currency: EUR
 price: 8.16

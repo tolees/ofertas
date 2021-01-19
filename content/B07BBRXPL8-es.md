@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d6F3AdmYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBRXPL8-es dc comics Pato de baño de Goma Batman  Color Negro  Paladone PP4433DC '
+slug: 'B07BBRXPL8-es dc comics Pato de baño de Goma Batman Color Negro Paladone...'
+tags: 
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

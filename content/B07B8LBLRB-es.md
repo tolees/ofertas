@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61ngGEXgaGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8LBLRB-es FOREO UFO - Tratamiento de Mascarilla Inteligente  Color Menta  Mint '
+slug: 'B07B8LBLRB-es FOREO UFO - Tratamiento de Mascarilla Inteligente Color...'
+tags: 
 actualPrice: 84.15 EUR
 currency: EUR
 price: 84.15

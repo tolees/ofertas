@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uYjd1yOQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006WCL70W-es Grohe Eurocube  - Parte exterior llave de paso  Color cromo  Ref. 19910000 '
+slug: 'B006WCL70W-es Grohe Eurocube - Parte exterior llave de paso Color cromo...'
+tags: 
 actualPrice: 43.75 EUR
 currency: EUR
 price: 43.75

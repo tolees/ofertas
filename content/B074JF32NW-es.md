@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vykCmTsiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074JF32NW-es Air Wick Essential Mist - Aparato y recambio de ambientador difusor  esencia para casa con aroma a Explosión Cítrica  pack de 1 aparato y 1 recambio'
+slug: 'B074JF32NW-es Air Wick Essential Mist - Aparato y recambio de...'
+tags: 
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

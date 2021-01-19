@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51E1u+OznFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0833NFRBP-es Thicken The Body ḔxtêṈṧióṈ Dêl ḔxtêṈṧôr Dêl PêṈê PêṈê Ḁmpliḁdôrêṧ ḾḁṈgḁṧ Cùbiêrtḁ PêṈiṧêxtêṈdêrṧ Pḁrḁ PêṈiṧêxtêṈdêrṧ 9 Pùlgḁdḁṧ Bômbḁ Pḁrḁ Hômbrêṧ Cḁmillḁ'
+slug: 'B0833NFRBP-es Thicken The Body ḔxtêṈṧióṈ Dêl ḔxtêṈṧôr Dêl PêṈê PêṈê...'
+tags: 
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

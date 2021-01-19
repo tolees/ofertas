@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31seCY-lcuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z83ZEVY-es Under Armour UA 7.5cm Performance Wristband Pack de 2 Muñequeras para Hombre  Accesorios de Entrenamiento  Negro  Black 001   Talla Única'
+slug: 'B00Z83ZEVY-es Under Armour UA 7.5cm Performance Wristband Pack de 2...'
+tags: 
 actualPrice: 7.14 EUR
 currency: EUR
 price: 7.14

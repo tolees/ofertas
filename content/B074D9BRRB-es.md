@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eM91-1C8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074D9BRRB-es Victoria Deportivo PU Contraste  Zapatillas para Hombre  Azul  Marino 30   42 EU'
+slug: 'B074D9BRRB-es Victoria Deportivo PU Contraste Zapatillas para Hombre...'
+tags: 
 actualPrice: 24.15 EUR
 currency: EUR
 price: 24.15

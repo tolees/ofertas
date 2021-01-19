@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41slHFBJ9eL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2Y7KGF-es Bellivera Giacca Corta da Donna in Ecopelle Scamosciata  Giacca da Moto con Colletto in Pelliccia Sintetica Staccabile e Fodera in Pile con Fodera in Pile per l Inverno e l’Autunno  Rojo  XL'
+slug: 'B07H2Y7KGF-es Bellivera Giacca Corta da Donna in Ecopelle Scamosciata...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

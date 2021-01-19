@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K49KULK-es TheHealthyTree Company Espirulina Orgánica en Polvo - 250g'
+tags: 
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KGWb7hqPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR2X4DG-es Fashion·LIFE Plancha De Vapor de Mano para Ropa Plancha Vertical Viaje Elimina Arrugas Olores y Desinfecta-Rápido Calentamiento en 15s 150ML Negro para Europa '
+slug: 'B07MR2X4DG-es Fashion·LIFE Plancha De Vapor de Mano para Ropa Plancha...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

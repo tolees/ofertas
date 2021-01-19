@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZDZD1Q-es HAPPERS Puff Pelota Polipiel Indoor Fucsia'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

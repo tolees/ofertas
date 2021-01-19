@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bdfn8AnQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TU4KIV8-es Ecogarden Irisana 72.EG11.B Mesa de Cultivo Vertical  Blanco  34x34x120 cm'
+slug: 'B00TU4KIV8-es Ecogarden Irisana 72.EG11.B Mesa de Cultivo Vertical...'
+tags: 
 actualPrice: 38.96 EUR
 currency: EUR
 price: 38.96

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oU27FodRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3XXWF9-es La Toja - Espuma Afeitado Protect 7 - Enriquecida con Micro Aceites y Sales Minerales - 4 unidades de 300ml'
+slug: 'B07N3XXWF9-es La Toja - Espuma Afeitado Protect 7 - Enriquecida con...'
+tags: 
 actualPrice: 2.71 EUR
 currency: EUR
 price: 2.71

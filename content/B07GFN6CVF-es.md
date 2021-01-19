@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PpwEHzHOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFN6CVF-es AMD 2950X Ryzen ThreadRipper - Procesador  4.4 GHz y Cache de 40 MB  Color Negro'
+slug: 'B07GFN6CVF-es AMD 2950X Ryzen ThreadRipper - Procesador 4.4 GHz y Cache...'
+tags: 
 actualPrice: 599.95 EUR
 currency: EUR
 price: 599.95

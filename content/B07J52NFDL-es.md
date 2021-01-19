@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z4Yosg+tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J52NFDL-es Cincobebé Sistema Antiescape Evita que el Niño Saque los Brazos del Arnés Pack de 1'
+slug: 'B07J52NFDL-es Cincobebé Sistema Antiescape Evita que el Niño Saque los...'
+tags: 
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

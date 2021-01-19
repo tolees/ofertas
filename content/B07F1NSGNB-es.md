@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ckaAp834L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1NSGNB-es Vernee M6 Smartphone 4G de Pantalla Grande 5.7 Pulgadas  Cámara Dual 16MP+13MP   4GB RAM 64GB Memoria Interna   Octa-Core 1.5GHz  Móviles Libres Buenos  Dual SIM - Negro'
+slug: 'B07F1NSGNB-es Vernee M6 Smartphone 4G de Pantalla Grande 5.7 Pulgadas...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

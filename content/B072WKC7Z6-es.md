@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EADmha92L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072WKC7Z6-es The North Face Base Camp Duffel Bolsa de Deporte  Unisex Adulto  Rojo  TNF Red/TNF Black   M'
+slug: 'B072WKC7Z6-es The North Face Base Camp Duffel Bolsa de Deporte Unisex...'
+tags: 
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

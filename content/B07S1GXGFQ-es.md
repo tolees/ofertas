@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zaqt3lGaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1GXGFQ-es adidas Cpt Soccer Ball  Hombres  White/Rainbow Reflective  4'
+slug: 'B07S1GXGFQ-es adidas Cpt Soccer Ball Hombres White/Rainbow Reflective 4'
+tags: 
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

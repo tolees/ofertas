@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c8NQmauiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLMTG7K-es Deik Planchas de Ropa  2000W Plancha Ropa Vapor  Vapor Vertical y Golpe de Vapor 120g/min con Anti-Escala  Anti Goteo  Auto Limpieza  Apagado automático para Hogar y Viaje  Capacidad 170 ml'
+slug: 'B07JLMTG7K-es Deik Planchas de Ropa 2000W Plancha Ropa Vapor Vapor...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

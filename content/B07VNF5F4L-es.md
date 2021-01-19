@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mk7ElShYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNF5F4L-es Robot aspirador con función WLAN  Dcenta diseño extremadamente plano  potencia de succión 1300 Pa  funcionamiento silencioso  robot aspirador de carga automática  para suelos duros y alfombras'
+slug: 'B07VNF5F4L-es Robot aspirador con función WLAN Dcenta diseño...'
+tags: 
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

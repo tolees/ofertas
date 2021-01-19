@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nKcpMpo7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GUXJTVC-es Columbia Peakfreak Nomad  Botas de Senderismo para Hombre  Marrón  Cordovan  Cinnamon 231   43.5 EU'
+slug: 'B00GUXJTVC-es Columbia Peakfreak Nomad Botas de Senderismo para Hombre...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L00kysY6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L97SWKF-es Under Armour Armour Mid Crossback Sujetador Deportivo  Mujer  Verde  Lime Light/Lime Light 884   M'
+slug: 'B07L97SWKF-es Under Armour Armour Mid Crossback Sujetador Deportivo...'
+tags: 
 actualPrice: 26.67 EUR
 currency: EUR
 price: 26.67

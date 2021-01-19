@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31elurPRppL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LLQDASU-es Quid Set 5 Gadgets INOX con Soporte Brassia  Acero Inoxidable  5.36 cm'
+slug: 'B01LLQDASU-es Quid Set 5 Gadgets INOX con Soporte Brassia Acero...'
+tags: 
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

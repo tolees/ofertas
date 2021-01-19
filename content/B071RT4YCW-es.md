@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xAN-pf6pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RT4YCW-es Piquadro Coleos Trolley para portátil  Negro  Nero '
+slug: 'B071RT4YCW-es Piquadro Coleos Trolley para portátil Negro Nero'
+tags: 
 actualPrice: 182.2 EUR
 currency: EUR
 price: 182.2

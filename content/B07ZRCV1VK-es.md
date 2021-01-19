@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KOlYKNLFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRCV1VK-es perfk QT192 Tapa De La Cubierta Del Cilindro Maestro Del Freno Delantero De La Motocicleta De Aluminio Para -Touring 96-07  negro '
+slug: 'B07ZRCV1VK-es perfk QT192 Tapa De La Cubierta Del Cilindro Maestro Del...'
+tags: 
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

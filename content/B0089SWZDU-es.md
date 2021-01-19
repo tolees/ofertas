@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tZE2sDSXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0089SWZDU-es Canon EF 40mm f/2.8 STM - Objetivo para Canon  Distancia Focal Fija 40mm  Apertura f/2.8-22  diámetro: 68.2mm  Negro'
+slug: 'B0089SWZDU-es Canon EF 40mm f/2.8 STM - Objetivo para Canon Distancia...'
+tags: 
 actualPrice: 165.0 EUR
 currency: EUR
 price: 165.0

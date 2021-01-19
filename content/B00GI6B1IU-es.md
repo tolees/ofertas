@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KjcIvM5nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GI6B1IU-es Led Lenser H7.2 Linterna frontal LED de 250 lúmenes de potencia  7297'
+slug: 'B00GI6B1IU-es Led Lenser H7.2 Linterna frontal LED de 250 lúmenes de...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DATQKGG-es Comodynes Self-Tanning Manopla Autobronceadora - 3 Unidades'
+tags: 
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Bid2WvhOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017SL6C6E-es Tommy Hilfiger Core Hilfiger Regular Polo  Azul  Sky Captain 403   Medium para Hombre'
+slug: 'B017SL6C6E-es Tommy Hilfiger Core Hilfiger Regular Polo Azul Sky Captain...'
+tags: 
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

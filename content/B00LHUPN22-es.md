@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V7E43mjNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LHUPN22-es Belkin SurgeStrip - Regleta de protección contra sobretensiones de 6 vías con conexiones USB  2.4 A   blanco'
+slug: 'B00LHUPN22-es Belkin SurgeStrip - Regleta de protección contra...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

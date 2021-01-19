@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qFEIekXtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X67MLNC-es Chupa Chups Sin Azúcar  Caramelo con Palo de Sabores Variados - Bolsa de 6 unidades de 11 gr/ud'
+slug: 'B07X67MLNC-es Chupa Chups Sin Azúcar Caramelo con Palo de Sabores...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XIx2-BP8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP9MFR2-es Mevo Boost Cargador Rápido para Cámara Mevo con 10 Horas de Batería Extra - Negro'
+slug: 'B07FP9MFR2-es Mevo Boost Cargador Rápido para Cámara Mevo con 10 Horas...'
+tags: 
 actualPrice: 145.92 EUR
 currency: EUR
 price: 145.92

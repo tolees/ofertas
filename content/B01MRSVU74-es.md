@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ykBEki50L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRSVU74-es Braun MGK3060 Corta Barbas Hombre 8En1 Recortadora Barba y Cortapelos para Nariz y Orejas  Pequeños Detalles  Cuchillas de Larga Duración  Maquinilla Gillette Fusion5 ProGlide con Tecnología FlexBall'
+slug: 'B01MRSVU74-es Braun MGK3060 Corta Barbas Hombre 8En1 Recortadora Barba y...'
+tags: 
 actualPrice: 38.92 EUR
 currency: EUR
 price: 38.92

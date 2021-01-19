@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nDeHCc31L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZJP3KQ-es Parabrisas Parasol Auto 2win2buy Parabrisas Parasol Delantera Ultravioleta Plegable Auto Diseño Cartoon Encantadora 150×84cm'
+slug: 'B071ZJP3KQ-es Parabrisas Parasol Auto 2win2buy Parabrisas Parasol...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

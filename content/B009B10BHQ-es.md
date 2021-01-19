@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fyfow3GHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009B10BHQ-es Funko 3014 - Game Of Thrones  Tyrion Lannister  figura de vinilo  10 cm'
+slug: 'B009B10BHQ-es Funko 3014 - Game Of Thrones Tyrion Lannister figura de...'
+tags: 
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

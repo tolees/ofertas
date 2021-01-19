@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t2i1G596L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JH5LZ-es Clarks Boot  Botas Desert para Mujer  Verde  Khaki Suede Khaki Suede   36 EU'
+slug: 'B07N1JH5LZ-es Clarks Boot Botas Desert para Mujer Verde Khaki Suede...'
+tags: 
 actualPrice: 22.13 EUR
 currency: EUR
 price: 22.13

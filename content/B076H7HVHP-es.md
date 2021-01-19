@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414otPlBqSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076H7HVHP-es Kipling Freedom Estuches  22 cm  1 litros  Negro  True Black '
+slug: 'B076H7HVHP-es Kipling Freedom Estuches 22 cm 1 litros Negro True Black'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j3oyyYo5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F81JRJ9-es Cepillo de pelo de cerda de jabalí  Cepillo de pelo de paleta de mango de bambú natural  que el pelo Brillante Peine de pelo de jabalí redondo grande  para hombres Mujeres Gran bolsa de regalo'
+slug: 'B07F81JRJ9-es Cepillo de pelo de cerda de jabalí Cepillo de pelo de...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

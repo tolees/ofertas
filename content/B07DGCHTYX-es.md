@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sVZzuiSDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGCHTYX-es MEGOO Surface Laptop 3/2/1 Protector de Pantalla [Vidrio Templado]  fácil instalación Protector de Pantalla táctil amigable -13.5 Pulgadas'
+slug: 'B07DGCHTYX-es MEGOO Surface Laptop 3/2/1 Protector de Pantalla [Vidrio...'
+tags: 
 actualPrice: 17.72 EUR
 currency: EUR
 price: 17.72

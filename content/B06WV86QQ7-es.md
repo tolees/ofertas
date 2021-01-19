@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31M6RuIbueL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WV86QQ7-es Bama Tris  Poker-Trío de Juego de Cubos de Basura diferenciada  Surtidos  28 x 40 x 31 cm  28x40x31 cm'
+slug: 'B06WV86QQ7-es Bama Tris Poker-Trío de Juego de Cubos de Basura...'
+tags: 
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

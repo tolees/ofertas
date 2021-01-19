@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412Y9TVGwRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078KF8TQ8-es Suavinex Esterilizador de Chupetes Portátil de Luz Uv  Azul  0.25 kg'
+slug: 'B078KF8TQ8-es Suavinex Esterilizador de Chupetes Portátil de Luz Uv Azul...'
+tags: 
 actualPrice: 17.19 EUR
 currency: EUR
 price: 17.19

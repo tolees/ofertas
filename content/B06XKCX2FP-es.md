@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413yJ3eCCLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XKCX2FP-es Etekcity Masajeador de Espalda Masajeador Almohada de Masaje para Cuello  Pies y Lumbares  Masaje Cervical Shiatsu con 8 Nodos  2 Velocidades y Función de Calentamiento  para Casa  Coche y Oficina'
+slug: 'B06XKCX2FP-es Etekcity Masajeador de Espalda Masajeador Almohada de...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

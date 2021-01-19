@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BsG+hMmpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GJ1NEGK-es Activ Life Luces LED Ruedas de bicis  1 Set Verde . Aporte Seguridad y originalidad a Sus radios y Cuadro. Complemento Ideal para cochecitos y sillas de Ruedas para Hombres  Mujeres y niños.'
+slug: 'B01GJ1NEGK-es Activ Life Luces LED Ruedas de bicis 1 Set Verde . Aporte...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

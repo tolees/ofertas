@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KtXC9CMcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012SG8AQE-es Zwilling Essence - Batería de Cocina  Acero Inoxidable  Gris  24 cm'
+slug: 'B012SG8AQE-es Zwilling Essence - Batería de Cocina Acero Inoxidable Gris...'
+tags: 
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

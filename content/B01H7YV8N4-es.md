@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NdTVUu1hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H7YV8N4-es SELECT Handball Pantalones Cortos Mexico  62102  Todo el año  Hombre  Color Azul - Azul  tamaño XXXL'
+slug: 'B01H7YV8N4-es SELECT Handball Pantalones Cortos Mexico 62102 Todo el año...'
+tags: 
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

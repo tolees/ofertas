@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tq68h7FmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1FNT1D-es adidas Continental 80  Zapatillas de Gimnasia para Hombre  Blanco  FTWR White/Scarlet/Collegiate Navy FTWR White/Scarlet/Collegiate Navy   38 2/3 EU'
+slug: 'B07K1FNT1D-es adidas Continental 80 Zapatillas de Gimnasia para Hombre...'
+tags: 
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

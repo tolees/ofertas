@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XOye7hgxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMNX6JL-es Calvin Klein Medium Drawstring Bañador  Blanco  PVH Classic White YCD   Hombre'
+slug: 'B07VMNX6JL-es Calvin Klein Medium Drawstring Bañador Blanco PVH Classic...'
+tags: 
 actualPrice: 36.6 EUR
 currency: EUR
 price: 36.6

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sr6N5u90L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3V98ZX-es Muñequera Tunel Carpiano  Férula Muñequera con Correa Ajustable y Férula Metálica  Aliviar el Dolor de Tendinitis  Lesiones  Artritis  Fracturas  Esguinces  1 Pieza  Universal'
+slug: 'B07S3V98ZX-es Muñequera Tunel Carpiano Férula Muñequera con Correa...'
+tags: 
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

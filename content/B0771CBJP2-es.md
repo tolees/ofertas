@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wKxX7WDlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771CBJP2-es WORKPRO Tijera para Eléctricista con Pelacables 6 Pulgadas 152mm  Tijera Electricista con Funda'
+slug: 'B0771CBJP2-es WORKPRO Tijera para Eléctricista con Pelacables 6 Pulgadas...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

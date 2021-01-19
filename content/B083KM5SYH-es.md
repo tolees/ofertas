@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rd-mbUguL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083KM5SYH-es Scholl Plantillas Gelactiv Profesional Mujer + Crema de Pies para Durezas - 2 plantillas  Talla 35.5-40.5  + Crema 60ml'
+slug: 'B083KM5SYH-es Scholl Plantillas Gelactiv Profesional Mujer + Crema de...'
+tags: 
 actualPrice: 16.61 EUR
 currency: EUR
 price: 16.61

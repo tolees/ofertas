@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3189eFTNNHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084JSHQG7-es Krups Dolce Gusto Lumio KP130810  15 Bares de presión - Cafetera de cápsulas  café de calidad profesional. Color Negro'
+slug: 'B084JSHQG7-es Krups Dolce Gusto Lumio KP130810 15 Bares de presión -...'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

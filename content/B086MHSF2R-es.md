@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yeGlvsYXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086MHSF2R-es Versa 21330009 Set 2 Taburetes de Bar Rústicos con Asiento Fijo de Madera de Olmo Natural y Patas de Metal en Color Negro 65 x 42 x 50 cm'
+slug: 'B086MHSF2R-es Versa 21330009 Set 2 Taburetes de Bar Rústicos con Asiento...'
+tags: 
 actualPrice: 99.56 EUR
 currency: EUR
 price: 99.56

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rk+3kKbzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3PFN3B-es DINOKA Corrección de Postura  Ajustable Corrector de Postura Espalda para Hombres y Mujeres Negro  M '
+slug: 'B07H3PFN3B-es DINOKA Corrección de Postura Ajustable Corrector de...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

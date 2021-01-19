@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51swRsE8pUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z9WX15J-es Funda compatible con iPhone XR  mármol flexible de silicona  ultrafina  antiarañazos  antigolpes  para iPhone XR 4 Talla única'
+slug: 'B07Z9WX15J-es Funda compatible con iPhone XR mármol flexible de silicona...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

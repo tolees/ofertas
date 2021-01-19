@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419icvbnISL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CE41YSQ-es Under Armour UA Drift RN Mineral  Zapatillas de Running para Hombre  Gris  Glacier Gray   40 EU'
+slug: 'B01CE41YSQ-es Under Armour UA Drift RN Mineral Zapatillas de Running...'
+tags: 
 actualPrice: 39.84 EUR
 currency: EUR
 price: 39.84

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iXMiw3QPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0861Y3CNS-es AGAKY Mini Ventilador de Mano  Ventiladores USB Recargable 3 Velocidades  2 en 1 Ventiladores Portátil con Mini Humidificador para Oficina  Hogar  Viajes  y Cámping'
+slug: 'B0861Y3CNS-es AGAKY Mini Ventilador de Mano Ventiladores USB Recargable...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

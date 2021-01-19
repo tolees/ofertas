@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yD9f5aaBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DQCT5P-es [Gifts for Women] ROWNYEON PU Leather Makeup Bag Professional Makeup Organizers Bag Portable Travel Makeup Case EVA Makeup Train Case Best Gift for Girl  Pink Medium '
+slug: 'B079DQCT5P-es [Gifts for Women] ROWNYEON PU Leather Makeup Bag...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

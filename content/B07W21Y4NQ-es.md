@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xJCUpXlqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W21Y4NQ-es Jack & Jones Jormastul Sweat Hood Capucha  Azul  Navy Blazer Fit: Reg   X-Large para Hombre'
+slug: 'B07W21Y4NQ-es Jack & Jones Jormastul Sweat Hood Capucha Azul Navy Blazer...'
+tags: 
 actualPrice: 9.66 EUR
 currency: EUR
 price: 9.66

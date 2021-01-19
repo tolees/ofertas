@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JZH+roK7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07657JMWF-es Auna Stealth Bar 60 Altavoz soundbar 2.1 Canales 80 W Negro - Barra de Sonido  2.1 Canales  80 W  80 W  8 ?  Inalámbrico y alámbrico  3.0+EDR '
+slug: 'B07657JMWF-es Auna Stealth Bar 60 Altavoz soundbar 2.1 Canales 80 W...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

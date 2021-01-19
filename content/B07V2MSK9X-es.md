@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LdF+1TQAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2MSK9X-es Tommy Hilfiger - Mini Reporter  Shoppers y bolsos de hombro Hombre  Gris  Nomad   1x1x1 cm  W x H L '
+slug: 'B07V2MSK9X-es Tommy Hilfiger - Mini Reporter Shoppers y bolsos de hombro...'
+tags: 
 actualPrice: 35.94 EUR
 currency: EUR
 price: 35.94

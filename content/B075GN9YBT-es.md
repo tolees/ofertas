@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x2MA4yceL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GN9YBT-es Citizen Reloj Analogico para Hombre de Energía Solar con Correa en Acero Inoxidable BN0191-80L'
+slug: 'B075GN9YBT-es Citizen Reloj Analogico para Hombre de Energía Solar con...'
+tags: 
 actualPrice: 195.41 EUR
 currency: EUR
 price: 195.41

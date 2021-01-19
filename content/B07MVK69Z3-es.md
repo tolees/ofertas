@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bP7vaIPIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVK69Z3-es Luz De Advertencia De Luz Estroboscópica Giratoria LED De 24 V Señal De Señalización De Flash De Baliza Roja - 12'
+slug: 'B07MVK69Z3-es Luz De Advertencia De Luz Estroboscópica Giratoria LED De...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

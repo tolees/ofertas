@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yHBRKPT5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6X4K3T-es BLACK+DECKER NVC115JL-QW - Aspirador de mano sin cable 3.6V  1.5Ah  Dustbuster con acción ciclónica'
+slug: 'B07L6X4K3T-es BLACK+DECKER NVC115JL-QW - Aspirador de mano sin cable...'
+tags: 
 actualPrice: 21.55 EUR
 currency: EUR
 price: 21.55

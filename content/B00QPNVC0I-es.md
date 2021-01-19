@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iY8rnrblL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QPNVC0I-es Real Techniques  Esponja para maquillaje facial - 2 unidades'
+slug: 'B00QPNVC0I-es Real Techniques Esponja para maquillaje facial - 2 unidades'
+tags: 
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

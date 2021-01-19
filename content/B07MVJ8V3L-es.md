@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qv1zOyL8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJ8V3L-es Kipling - Amiel  Bolsos maletín Mujer  Morado  Dark Plum   27x24.5x14.5 cm  B x H T '
+slug: 'B07MVJ8V3L-es Kipling - Amiel Bolsos maletín Mujer Morado Dark Plum...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

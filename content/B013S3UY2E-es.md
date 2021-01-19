@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z5yWk5i2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013S3UY2E-es Creative Sound Blasterx H3 - Cascos Portátiles Analógicos con Micrófono para Juegos  Negro'
+slug: 'B013S3UY2E-es Creative Sound Blasterx H3 - Cascos Portátiles Analógicos...'
+tags: 
 actualPrice: 42.3 EUR
 currency: EUR
 price: 42.3

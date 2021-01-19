@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MxbBau2xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085S2NPM5-es Famus Mesa para computadora portátil de Madera  31.5x14.9x12.6 Pulgadas Mesa de Escritorio Plegable para computadora portátil Mesa para computadora portátil Multifuncional Escritorio para computadora'
+slug: 'B085S2NPM5-es Famus Mesa para computadora portátil de Madera...'
+tags: 
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

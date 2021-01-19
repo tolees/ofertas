@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414aEPQiU9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBQX5C6-es Kickers Takiko  Botas Slouch para Mujer  Marrón  Marron 9   36 EU'
+slug: 'B07MBQX5C6-es Kickers Takiko Botas Slouch para Mujer Marrón Marron 9 36 EU'
+tags: 
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

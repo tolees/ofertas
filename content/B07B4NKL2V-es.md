@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yI8spmq2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4NKL2V-es Passionata Georgia Sujetador con Aros  Negro  Schwarz 11   95D  Talla del Fabricante: 80D  para Mujer'
+slug: 'B07B4NKL2V-es Passionata Georgia Sujetador con Aros Negro Schwarz 11 95D...'
+tags: 
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

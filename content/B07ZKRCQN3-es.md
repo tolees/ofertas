@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Iec1Z3mTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKRCQN3-es Gillette Mach3 Recambio De Maquinilla De Afeitar Para Hombre 8 Recambios'
+slug: 'B07ZKRCQN3-es Gillette Mach3 Recambio De Maquinilla De Afeitar Para...'
+tags: 
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

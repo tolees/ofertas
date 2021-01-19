@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-XnbZdTAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H7MF9NS-es K9 Powerharness  Tamaño: Mini  Colore: Mocca Tela de Saco'
+slug: 'B07H7MF9NS-es K9 Powerharness Tamaño: Mini Colore: Mocca Tela de Saco'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

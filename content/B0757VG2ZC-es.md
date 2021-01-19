@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31eKlVuo7DL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757VG2ZC-es Licwshi 450lm La luz solar 24 LED de una aleación de aluminio  impermeable al aire libre  radar de sensores de movimiento  aplicable en el porche  el jardín  el patio  el garaje  1 Pack '
+slug: 'B0757VG2ZC-es Licwshi 450lm La luz solar 24 LED de una aleación de...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

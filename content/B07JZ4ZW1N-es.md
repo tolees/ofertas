@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TUxQI+HoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZ4ZW1N-es ValueHall 5Pcs Ruedas para Sillas de Oficina de goma de repuesto Caster Silencioso Rolling y Seguro para Cualquier Piso 2.5-Inch  Negro V7067'
+slug: 'B07JZ4ZW1N-es ValueHall 5Pcs Ruedas para Sillas de Oficina de goma de...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

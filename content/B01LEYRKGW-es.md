@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uSVijlo3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LEYRKGW-es ID Italian Design | Cepillo Alisador Steam Brush Pro 2.0 de Color Blanco - 80W'
+slug: 'B01LEYRKGW-es ID Italian Design | Cepillo Alisador Steam Brush Pro 2.0...'
+tags: 
 actualPrice: 33.11 EUR
 currency: EUR
 price: 33.11

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510LRxBY1AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082L1MHWN-es Calcetines de Running para Largas Distancias  para Hombre y Mujer  Acolchados  Transpirables  Calcetines con Compresión de Arco  Anti-Ampollas  Maratón  Negro  Pack de 3  Azul claro  EU 35-38 '
+slug: 'B082L1MHWN-es Calcetines de Running para Largas Distancias para Hombre y...'
+tags: 
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

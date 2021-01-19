@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ifEU3UxlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7X3TY8-es Asiento del coche Organizador Bolsa de almacenamiento de malla Net Trunk Soporte de almacenamiento Trasero Organizador Asiento trasero Bolsillos de malla  1 Pack '
+slug: 'B07P7X3TY8-es Asiento del coche Organizador Bolsa de almacenamiento de...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

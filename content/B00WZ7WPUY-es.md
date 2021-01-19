@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315757g56OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WZ7WPUY-es MIAO Soporte portátil Plegable para computadora portátil  Universal Angel Ajustable Plástico liviano Compatible con lectores electrónicos Tabletas para teléfonos móviles -Blanco'
+slug: 'B00WZ7WPUY-es MIAO Soporte portátil Plegable para computadora portátil...'
+tags: 
 actualPrice: 56.78 EUR
 currency: EUR
 price: 56.78

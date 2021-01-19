@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RCMq5rfgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0035PVUAG-es Bosch Professional GST 150 CE - Sierra de calar  780 W  500 – 3100 cpm  profundidad de corte 150 mm  en maletín '
+slug: 'B0035PVUAG-es Bosch Professional GST 150 CE - Sierra de calar 780 W 500...'
+tags: 
 actualPrice: 165.61 EUR
 currency: EUR
 price: 165.61

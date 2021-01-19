@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A0NQ23Q-es Cabin Max - Equipaje Infantil Azul Carry-on'
+tags: 
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NVtrT5RGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016D31EWA-es De Longhi DEX16F - Deshumidificador silencioso  función Secado y purificador  210 W  capacidad deshumidificación 16L/24h  depósito extraíble 2.1L  color azul marino'
+slug: 'B016D31EWA-es De Longhi DEX16F - Deshumidificador silencioso función...'
+tags: 
 actualPrice: 244.99 EUR
 currency: EUR
 price: 244.99

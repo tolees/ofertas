@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bc1IdDvZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AQGDY5A-es ZTOP 2 Pack negro SuperSpeed USB 3.0 tipo A hembra a hembra adaptador de extensión'
+slug: 'B01AQGDY5A-es ZTOP 2 Pack negro SuperSpeed USB 3.0 tipo A hembra a...'
+tags: 
 actualPrice: 4.42 EUR
 currency: EUR
 price: 4.42

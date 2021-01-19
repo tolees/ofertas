@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31qSJVYJwZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B009X6UZZM-es Lexmark 50F2U0E - Tóner  capacidad 20000 páginas'
+slug: 'B009X6UZZM-es Lexmark 50F2U0E - Tóner capacidad 20000 páginas'
+tags: 
 actualPrice: 185 EUR
 currency: EUR
 price: 185

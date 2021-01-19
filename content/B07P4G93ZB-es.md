@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Yds+AxjHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4G93ZB-es PopSockets PopGrip - Soporte y Agarre para Teléfonos Móviles y Tabletas con un Top Intercambiable - Opal'
+slug: 'B07P4G93ZB-es PopSockets PopGrip - Soporte y Agarre para Teléfonos...'
+tags: 
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

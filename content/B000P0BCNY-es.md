@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gKjsjn04L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000P0BCNY-es Grohe - Cartucho 46mm  con discos cerámicos y limitador eco  Ref. 46048000 '
+slug: 'B000P0BCNY-es Grohe - Cartucho 46mm con discos cerámicos y limitador eco...'
+tags: 
 actualPrice: 24.77 EUR
 currency: EUR
 price: 24.77

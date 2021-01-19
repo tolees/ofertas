@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BXp6lNzEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z9H9LFK-es Klarstein Bella Elegance robot de cocina - 1300W/1 7PS en 6 niveles con función pulso  sistema de rotación planetario  cuenco de acero inoxidable de 5 l  3 piezas de tono cobrizo  negro'
+slug: 'B07Z9H9LFK-es Klarstein Bella Elegance robot de cocina - 1300W/1 7PS en...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

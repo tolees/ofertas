@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YYn3RuxWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017A5XM5C-es PEDEA 66063013 15.6" Bandolera Gris maletines para portátil - Funda  Bandolera  39 6 cm  15.6"   Tirante para Hombro  Gris '
+slug: 'B017A5XM5C-es PEDEA 66063013 15.6" Bandolera Gris maletines para...'
+tags: 
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

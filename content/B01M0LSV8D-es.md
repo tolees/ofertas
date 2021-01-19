@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vs+3EMoML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0LSV8D-es Ewent EW1052 - Lector de Tarjetas electrónicas Compatible con Windows/Mac  Color Negro'
+slug: 'B01M0LSV8D-es Ewent EW1052 - Lector de Tarjetas electrónicas Compatible...'
+tags: 
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

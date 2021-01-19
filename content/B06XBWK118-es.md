@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ET5t4+r6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XBWK118-es Wilkinson Sword Pack Intuition Sensitive Care - Maquinilla depilatoria y enjabonadora femenina Intuition + 3 cuchillas autoadaptables con cintas de seda hidratantes'
+slug: 'B06XBWK118-es Wilkinson Sword Pack Intuition Sensitive Care - Maquinilla...'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

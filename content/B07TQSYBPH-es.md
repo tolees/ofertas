@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4175AZN37OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQSYBPH-es Unidad de Estado Sólido Lexar NS100 2 5" 512GB SATA III  6Gb/s '
+slug: 'B07TQSYBPH-es Unidad de Estado Sólido Lexar NS100 2 5" 512GB SATA III 6Gb/s'
+tags: 
 actualPrice: 52.59 EUR
 currency: EUR
 price: 52.59

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oTpE%2BqIPL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EAA864I-es Rowenta CF 6430 peinado - Moldeador de pelo  Violeta  Color blanco '
+slug: 'B00EAA864I-es Rowenta CF 6430 peinado - Moldeador de pelo Violeta Color...'
+tags: 
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

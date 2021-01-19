@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cVaJtpJXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00108WPFE-es Nixon A045511-00 - Reloj analógico de cuarzo para hombre con correa de acero inoxidable  color dorado'
+slug: 'B00108WPFE-es Nixon A045511-00 - Reloj analógico de cuarzo para hombre...'
+tags: 
 actualPrice: 66.12 EUR
 currency: EUR
 price: 66.12

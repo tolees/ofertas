@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Q5+N8a7mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003HUSM8M-es Tigi 57432 - Champú  300 ml'
+slug: 'B003HUSM8M-es Tigi 57432 - Champú 300 ml'
+tags: 
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

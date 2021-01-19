@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RT8zE4zhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4B5HJZ-es Levi s Big Box Tab Beanie Gorro de Punto  Azul  Navy Blue 17   Talla única  Talla del Fabricante: UN  para Hombre'
+slug: 'B07R4B5HJZ-es Levi s Big Box Tab Beanie Gorro de Punto Azul Navy Blue 17...'
+tags: 
 actualPrice: 18.03 EUR
 currency: EUR
 price: 18.03

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316K45bnxmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BLFO2NY-es American Crew Superglue Gel Fijador   Fijación Extrema y Brillo Alto  100 ml'
+slug: 'B00BLFO2NY-es American Crew Superglue Gel Fijador Fijación Extrema y...'
+tags: 
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IywtglfFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KX1ZMHB-es Estante de Toalla  Toallero de baño  Barra de Toalla pared de acero inoxidable  Estantería de Almacenamiento para Baño montado en la pared con Ganchos y Barras  para el baño de Home Hotel 60x22x16CM '
+slug: 'B07KX1ZMHB-es Estante de Toalla Toallero de baño Barra de Toalla pared...'
+tags: 
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o32j3wEPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SR7ZX99-es Cadena Chupetes Personalizado con Nombre Koala Mordedor Bebes Cuentas Silicona Clips de Chupete Soothie Clip Sin BPA  Rosado '
+slug: 'B07SR7ZX99-es Cadena Chupetes Personalizado con Nombre Koala Mordedor...'
+tags: 
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41prR6LzL0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BK5VHRW-es TianTa Funda para Galaxy Tab A 8.4 2020  Híbrido Tres Capas Funda Carcasa Protector con Correa y Mano  360 Rotación Kickstand para Samsung Galaxy Tab A 8.4 Pulgada 2020 SM-T307  Púrpura'
+slug: 'B08BK5VHRW-es TianTa Funda para Galaxy Tab A 8.4 2020 Híbrido Tres Capas...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

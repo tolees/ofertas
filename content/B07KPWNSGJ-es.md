@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yqtLN9qjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPWNSGJ-es DC-77 de 16MP 4X Zoom Digital de Alta definición cámara de vídeo cámara 2 4 Pulgadas TFT LCD de Pantalla de 8 GB de Apagado automático'
+slug: 'B07KPWNSGJ-es DC-77 de 16MP 4X Zoom Digital de Alta definición cámara de...'
+tags: 
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

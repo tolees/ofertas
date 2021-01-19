@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61JBtRBHUsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Y3BD5B-es Funda de almohada de seda marrón Ruwado | Funda de almohada | Cojín | Cojín - 40 cm x 40 cm *** Tejido a mano y hecho a mano por Cashmere India Artisans ***'
+slug: 'B075Y3BD5B-es Funda de almohada de seda marrón Ruwado | Funda de...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

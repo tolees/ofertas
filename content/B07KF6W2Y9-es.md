@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51DqDNIiabL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF6W2Y9-es NACATIN Esterilla Inflable Acampada  Colchón de Aire con Almohada Impermeable  Colchoneta Hinchable y Plegable  Resistente a la Humedad para Camping/Senderismo/Viaje/Escalada'
+slug: 'B07KF6W2Y9-es NACATIN Esterilla Inflable Acampada Colchón de Aire con...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

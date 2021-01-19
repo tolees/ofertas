@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-1QSNt-IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JTQ1Z6-es Tefal Optigrill XL GC722D - Plancha Grill 2000W  6 modos de cocción y 4 temperaturas ajustables con indicador del progreso  sensor de grosor  bandejas extraíbles y desmontables aptas para lavavajillas'
+slug: 'B071JTQ1Z6-es Tefal Optigrill XL GC722D - Plancha Grill 2000W 6 modos de...'
+tags: 
 actualPrice: 166.82 EUR
 currency: EUR
 price: 166.82

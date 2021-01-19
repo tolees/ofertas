@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lx5eWzHGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01794DZRY-es Jata CA290 Cafetera de Goteo Filtro permanente Antigoteo Jarra con tapa Filtro suspendido De 2 a 12 tazas'
+slug: 'B01794DZRY-es Jata CA290 Cafetera de Goteo Filtro permanente Antigoteo...'
+tags: 
 actualPrice: 21.2 EUR
 currency: EUR
 price: 21.2

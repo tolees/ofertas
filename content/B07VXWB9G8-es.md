@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Wzg84OC8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXWB9G8-es Dek - Deportivas de Cordones Erica Super Ligeras para Chica Mujer  38 EU   Marino/Turquesa '
+slug: 'B07VXWB9G8-es Dek - Deportivas de Cordones Erica Super Ligeras para...'
+tags: 
 actualPrice: 18.45 EUR
 currency: EUR
 price: 18.45

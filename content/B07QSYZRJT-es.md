@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QSYZRJT-es Shantae: 1/2 Genie Hero - Ultimate Edition'
+tags: 
 actualPrice: 20.1 EUR
 currency: EUR
 price: 20.1

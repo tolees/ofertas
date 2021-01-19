@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41m8FK7UzrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X6BCBNG-es Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero Inoxidable F20226/3'
+slug: 'B06X6BCBNG-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 56.69 EUR
 currency: EUR
 price: 56.69

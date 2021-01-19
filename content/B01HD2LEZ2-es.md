@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a1RCV8EQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD2LEZ2-es MiniSun - Lámpara de Pie LED Moderna – Burbujas y Peces de Colores – Luces que cambian color - 90cm'
+slug: 'B01HD2LEZ2-es MiniSun - Lámpara de Pie LED Moderna – Burbujas y Peces de...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

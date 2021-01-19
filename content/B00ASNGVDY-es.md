@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZC8VF4vqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ASNGVDY-es Merc Harrington  Abrigos de Manga Larga Para Hombre  Negro  Black   X-Small'
+slug: 'B00ASNGVDY-es Merc Harrington Abrigos de Manga Larga Para Hombre Negro...'
+tags: 
 actualPrice: 73.64 EUR
 currency: EUR
 price: 73.64

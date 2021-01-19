@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h2vdrUn2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FZP1WLL-es Fiesta Cotigo Caja para Mascarillas Caja Portátil de Máscara de Contenedor a Prueba de Polvo Máscaras de protección Funda Organizador de Almacenamiento  Fácil de Llevar - Paquete de 4  Más Delgada '
+slug: 'B08FZP1WLL-es Fiesta Cotigo Caja para Mascarillas Caja Portátil de...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ILeLmrrLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8L2FKP-es Lee Chino Corduroy Pantalones  Azul  Dark Marine 21   33W / 34L para Hombre'
+slug: 'B07M8L2FKP-es Lee Chino Corduroy Pantalones Azul Dark Marine 21 33W /...'
+tags: 
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

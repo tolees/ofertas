@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31QpnBOt89L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHKW5ZN-es CKSOHOT Masajeador Manual con 10 modos de Frecuencia Silencioso  Masajeador Personal de Cuerpo Completo  Masajeador Inalámbrico de Silicona para Masaje de Cuello  Espalda  Masaje Corporal'
+slug: 'B07MHKW5ZN-es CKSOHOT Masajeador Manual con 10 modos de Frecuencia...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

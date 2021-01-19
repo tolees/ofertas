@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KcqCISQTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5MMH9Z-es BOSS Starfish Bañador para Hombre  Azul  Blue   Medium'
+slug: 'B07S5MMH9Z-es BOSS Starfish Bañador para Hombre Azul Blue Medium'
+tags: 
 actualPrice: 31.15 EUR
 currency: EUR
 price: 31.15

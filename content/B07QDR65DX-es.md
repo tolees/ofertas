@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zF0KpCC9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDR65DX-es L Oreal Paris Elvive Arcilla Extraordinaria Champú Cuidado para Pelo Normal O con Tendencia A Engrasarse  285 ml  Pack de 6'
+slug: 'B07QDR65DX-es L Oreal Paris Elvive Arcilla Extraordinaria Champú Cuidado...'
+tags: 
 actualPrice: 10.73 EUR
 currency: EUR
 price: 10.73

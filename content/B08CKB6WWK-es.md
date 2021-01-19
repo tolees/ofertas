@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FGqXi4MOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKB6WWK-es SHIVR WiFi Dongle  Adaptador USB WiFi 600Mbps 2.4/5 GHz Mini Adaptador   USB WiFi Antena LAN Adaptador 802.11ac/a/b/g/n para computadora portátil Windows 10/8/8.1/ 7'
+slug: 'B08CKB6WWK-es SHIVR WiFi Dongle Adaptador USB WiFi 600Mbps 2.4/5 GHz...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

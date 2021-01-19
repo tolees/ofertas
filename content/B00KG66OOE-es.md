@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SQ3vigTBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KG66OOE-es Braun 51B - Recambio para afeitadora eléctrica hombre  compatible con el modelo WaterFlex  color negro'
+slug: 'B00KG66OOE-es Braun 51B - Recambio para afeitadora eléctrica hombre...'
+tags: 
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

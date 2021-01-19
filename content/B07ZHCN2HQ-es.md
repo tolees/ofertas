@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OGjauwQoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHCN2HQ-es Pitaya Afilador De Cuchillos Profesional  Amoladora Angular de Acero Inoxidable con 4 Piedra para Afilar'
+slug: 'B07ZHCN2HQ-es Pitaya Afilador De Cuchillos Profesional Amoladora Angular...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

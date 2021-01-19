@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419TNMtf1ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KH4DPKD-es Under Armour Rush P Mallas de Compresion con Cinturilla Elástica  Hombre  Negro  Black 001   XXL'
+slug: 'B07KH4DPKD-es Under Armour Rush P Mallas de Compresion con Cinturilla...'
+tags: 
 actualPrice: 24.36 EUR
 currency: EUR
 price: 24.36

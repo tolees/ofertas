@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315NhmzGggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N13ML7W-es Skechers Women s GO Walk 5 Trainers  Black  Black Textile/Trim BBK   5  38 EU '
+slug: 'B07N13ML7W-es Skechers Women s GO Walk 5 Trainers Black Black...'
+tags: 
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

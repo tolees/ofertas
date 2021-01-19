@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fl9J6cOlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018PK31HA-es Seiko Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable PN8002X1'
+slug: 'B018PK31HA-es Seiko Reloj Analógico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 46.07 EUR
 currency: EUR
 price: 46.07

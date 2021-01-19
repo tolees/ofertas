@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kMK-UIM0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGSLC7T-es MEDION Ultrafino S6445 - Ordenador portátil de 15.6" Full HD  Intel Core i3-8145u  RAM de 8 GB DDR4  SSD de 256 GB  Intel Graphics  Windows 10 Home  Plata'
+slug: 'B07NGSLC7T-es MEDION Ultrafino S6445 - Ordenador portátil de 15.6" Full...'
+tags: 
 actualPrice: 520.58 EUR
 currency: EUR
 price: 520.58

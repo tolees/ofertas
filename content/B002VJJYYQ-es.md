@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HQ3x4v+sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002VJJYYQ-es Tuscany Silver Pendientes de mujer con plata de ley  925/1000  y ónice'
+slug: 'B002VJJYYQ-es Tuscany Silver Pendientes de mujer con plata de ley...'
+tags: 
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

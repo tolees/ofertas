@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ejKL6oCJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004X4KW5M-es Braun BN0032WHSLMHG - Reloj análogico de cuarzo con correa de acero inoxidable para hombre  color plateado/blanco'
+slug: 'B004X4KW5M-es Braun BN0032WHSLMHG - Reloj análogico de cuarzo con correa...'
+tags: 
 actualPrice: 113.96 EUR
 currency: EUR
 price: 113.96

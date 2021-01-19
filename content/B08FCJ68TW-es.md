@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wL0-IZ3vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FCJ68TW-es Camara de Fotos Camara Fotos Full HD 2.7K C de 30MP para Youtube Camaras de Fotos Digital con Tarjeta de Memoria de 32G y 2 Baterías'
+slug: 'B08FCJ68TW-es Camara de Fotos Camara Fotos Full HD 2.7K C de 30MP para...'
+tags: 
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

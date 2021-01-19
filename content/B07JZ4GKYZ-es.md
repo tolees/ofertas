@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ri2fbeI+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZ4GKYZ-es Tommy Hilfiger Simon Skinny Glfbst Jeans  Azul  Glen Fresh Blue Stretch 911   95  Talla del Fabricante: 80  para Bebés'
+slug: 'B07JZ4GKYZ-es Tommy Hilfiger Simon Skinny Glfbst Jeans Azul Glen Fresh...'
+tags: 
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bRulHKXFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNG98SD-es Adidas Court Adapt  Zapatillas de Tenis para Hombre  Blanco  Ftwbla/Ftwbla/Verde 000   39 1/3 EU'
+slug: 'B07DNG98SD-es Adidas Court Adapt Zapatillas de Tenis para Hombre Blanco...'
+tags: 
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

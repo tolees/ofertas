@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nc+dJEXyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7ND3H8-es Magiin Jarrón de Vidrio Transparente Terrario de Plantas Colgantes con Soporte de Madera Maciza Retro para Jardinería Planta de Hidroponía Decoración de Casa'
+slug: 'B07P7ND3H8-es Magiin Jarrón de Vidrio Transparente Terrario de Plantas...'
+tags: 
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

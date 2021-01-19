@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCNFRJ4-es Bandolera Pepe Jeans Raw cruzada para hombre'
+tags: 
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

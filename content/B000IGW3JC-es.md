@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51kG8Ut0J5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000IGW3JC-es Varta ACCU - Pack de 4 pilas AAA recargables  NiMH  1000 mAh  precargadas '
+slug: 'B000IGW3JC-es Varta ACCU - Pack de 4 pilas AAA recargables NiMH 1000 mAh...'
+tags: 
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61n1l2hqA7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895YYM6T-es GREAT ART set de 2 posters XXL – Animales de la selva - jungla y puente colgante plantas de la selva tropical cómic aventura safari zoo selva foto decoración de la pared  140 x 100cm '
+slug: 'B0895YYM6T-es GREAT ART set de 2 posters XXL – Animales de la selva -...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51-P0cMM67L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LPO625Q-es Twins Sarah  Polaina Bebé-Niñas  Multicolor  Mehrfarbig   50'
+slug: 'B01LPO625Q-es Twins Sarah Polaina Bebé-Niñas Multicolor Mehrfarbig 50'
+tags: 
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

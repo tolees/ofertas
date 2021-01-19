@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NrNDvqELL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005LR7EP6-es Arcos 610000 - Afilador profesional  estuche '
+slug: 'B005LR7EP6-es Arcos 610000 - Afilador profesional estuche'
+tags: 
 actualPrice: 58.49 EUR
 currency: EUR
 price: 58.49

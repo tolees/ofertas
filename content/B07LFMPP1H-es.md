@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418cfNJ2g+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFMPP1H-es Levi s Graphic Sport Capucha  Azul  Sptwr Hoodie Baltic Sea 0082   XS para Mujer'
+slug: 'B07LFMPP1H-es Levi s Graphic Sport Capucha Azul Sptwr Hoodie Baltic Sea...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

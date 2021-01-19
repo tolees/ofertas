@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31J1mCXdqoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S73KQVB-es helymore Halloween Mono de Superheroe de Cosplay de Pelicula Jumpsuit Ajustado con Estampado de Arana  Altura Adecuada 140cm-150cm'
+slug: 'B07S73KQVB-es helymore Halloween Mono de Superheroe de Cosplay de...'
+tags: 
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

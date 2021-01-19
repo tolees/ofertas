@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I5v1YbRfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J37SYBW-es Under Armour Undeniable Duffel 4.0 MD  Bolsa De Deportes  Bolsa De Entrenamiento Unisex  Negro  OSFA'
+slug: 'B07J37SYBW-es Under Armour Undeniable Duffel 4.0 MD Bolsa De Deportes...'
+tags: 
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

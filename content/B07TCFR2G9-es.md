@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HBcvTGHML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCFR2G9-es MEDION AKOYA M80 - PCC965 Ordenador de Sobremesa  Intel Core i7-9700  RAM de 8GB DDR4  1TB HDD + 128GB SSD  Tarjeta Gráfica Integrada   Bluetooth  Windows 10 Home  Negro/Plateado'
+slug: 'B07TCFR2G9-es MEDION AKOYA M80 - PCC965 Ordenador de Sobremesa Intel...'
+tags: 
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

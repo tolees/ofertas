@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L3RJGRW-es Star Trek Starfleet Command Division Insignia de Réplica'
+tags: 
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

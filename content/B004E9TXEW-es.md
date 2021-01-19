@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GpBKcn+QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004E9TXEW-es GANT Solid Pique SS Rugger  Polo para Hombre  Blanco  White   46  Talla del Fabricante: S '
+slug: 'B004E9TXEW-es GANT Solid Pique SS Rugger Polo para Hombre Blanco White...'
+tags: 
 actualPrice: 44.61 EUR
 currency: EUR
 price: 44.61

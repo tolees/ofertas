@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pzvbGRZIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G31WK8O-es SueH Design Juego de Manteles Individuales de 8 Unidades en PVC 45 * 30 CM Rayas Naranja Y Marroon'
+slug: 'B01G31WK8O-es SueH Design Juego de Manteles Individuales de 8 Unidades...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

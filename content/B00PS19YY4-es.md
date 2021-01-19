@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hC088SwYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PS19YY4-es DeWalt DT70523T-QZ Juego de Piezas para Atornillar  0 W  0 V'
+slug: 'B00PS19YY4-es DeWalt DT70523T-QZ Juego de Piezas para Atornillar 0 W 0 V'
+tags: 
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

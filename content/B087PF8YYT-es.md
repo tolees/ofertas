@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514sg0YyQbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PF8YYT-es 19   Anillo de luz LED con trípode Aro de luz Regulable10colores 23 Niveles de brillo 55W RGB FlashRing Light para maquillaje/Fotografía/VideoYouTube/Vlog/TIK Tok Soporte telefónico ipda  cámara'
+slug: 'B087PF8YYT-es 19 Anillo de luz LED con trípode Aro de luz...'
+tags: 
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

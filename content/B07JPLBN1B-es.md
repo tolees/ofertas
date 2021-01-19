@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f1usMsVQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPLBN1B-es Luz de techo LED Baño Cocina Dormitorio Luces de techo Ducha Sala Comedor Estudio Balcón Pasillo Corredor Lámpara de techo Blanco frio 6000K Cuadrado moderno Impermeable 2050lm 26W LUSUNT'
+slug: 'B07JPLBN1B-es Luz de techo LED Baño Cocina Dormitorio Luces de techo...'
+tags: 
 actualPrice: 39.79 EUR
 currency: EUR
 price: 39.79

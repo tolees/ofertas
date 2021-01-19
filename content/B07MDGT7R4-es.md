@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yi2n+uwnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDGT7R4-es Skechers Girls  OMNE SCHOLASTIC STYLE Trainers  Black  Black Dura Leather Bbk   5  38 EU '
+slug: 'B07MDGT7R4-es Skechers Girls OMNE SCHOLASTIC STYLE Trainers Black Black...'
+tags: 
 actualPrice: 22.54 EUR
 currency: EUR
 price: 22.54

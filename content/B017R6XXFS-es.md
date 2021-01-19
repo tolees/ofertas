@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VJdagFDGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017R6XXFS-es 2pcs 1 M 3 3 pies BNC a RCA Cable de vídeo Conector para CCTV cámara de DVR a TV'
+slug: 'B017R6XXFS-es 2pcs 1 M 3 3 pies BNC a RCA Cable de vídeo Conector para...'
+tags: 
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

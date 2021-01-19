@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jKK7rgt4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081JQ85SX-es Justdodo Neopreno DSLR Lente de la cámara Protector Suave Bolsa Bolsa Funda Acolchada Impermeable para Canon para Nikon para Sony - Negro y Rojo 2XL'
+slug: 'B081JQ85SX-es Justdodo Neopreno DSLR Lente de la cámara Protector Suave...'
+tags: 
 actualPrice: 2.32 EUR
 currency: EUR
 price: 2.32

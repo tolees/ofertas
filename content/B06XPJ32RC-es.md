@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MuHvmXkyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPJ32RC-es Rimmel London Fresher Skin Base de Maquillaje Tono 101 Classic Ivory - 104 gr'
+slug: 'B06XPJ32RC-es Rimmel London Fresher Skin Base de Maquillaje Tono 101...'
+tags: 
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

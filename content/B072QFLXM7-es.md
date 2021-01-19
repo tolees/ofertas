@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g-+ypiZXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072QFLXM7-es Panama Jack Glasgow Igloo  Botas Clasicas para Hombre  Negro  Negro C3   40 EU'
+slug: 'B072QFLXM7-es Panama Jack Glasgow Igloo Botas Clasicas para Hombre Negro...'
+tags: 
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s19F1MPGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYY5DSN-es Tommy Hilfiger TH Essential Flex Pleated Pullon Pantalones  Azul  Pinstripe CW 460   W38  Talla del Fabricante: 8  para Mujer'
+slug: 'B07JYY5DSN-es Tommy Hilfiger TH Essential Flex Pleated Pullon Pantalones...'
+tags: 
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

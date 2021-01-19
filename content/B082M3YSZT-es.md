@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519XYMskeqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082M3YSZT-es NWOUIIAY Cargador de coche de carga 6 A/12 V Multi protecciones de carga automática cargador inteligente cargador de coche con pantalla LCD para coche moto'
+slug: 'B082M3YSZT-es NWOUIIAY Cargador de coche de carga 6 A/12 V Multi...'
+tags: 
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

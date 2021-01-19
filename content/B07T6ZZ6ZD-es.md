@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416uTZcXNiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T6ZZ6ZD-es Foco LED Proyector 50W  Super Brillante Luz de Trabajo 4500LM  3 Modos Foco LED Reflector para Trabajo Exterior Impermeable IP66  Focos LED Exterior con Cable de 5 Metros  1 gancho  AC100-265V'
+slug: 'B07T6ZZ6ZD-es Foco LED Proyector 50W Super Brillante Luz de Trabajo...'
+tags: 
 actualPrice: 39.69 EUR
 currency: EUR
 price: 39.69

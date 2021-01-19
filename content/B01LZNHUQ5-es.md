@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318k+VzwC9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZNHUQ5-es Victoria Sierra Deportivo Piel  Zapatillas Unisex Adulto  Blanco  Blanco 20   37 EU'
+slug: 'B01LZNHUQ5-es Victoria Sierra Deportivo Piel Zapatillas Unisex Adulto...'
+tags: 
 actualPrice: 51.13 EUR
 currency: EUR
 price: 51.13

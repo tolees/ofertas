@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ssv4+wdCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EU9MRPI-es Wrangler Texas Contrast Hombre Jeans  Negro  Raven   42W / 34L'
+slug: 'B00EU9MRPI-es Wrangler Texas Contrast Hombre Jeans Negro Raven 42W / 34L'
+tags: 
 actualPrice: 36.43 EUR
 currency: EUR
 price: 36.43

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513YkBst3SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XP3R2VZ-es XCYYOO Carcasa de movil con Cuerda para Colgar Samsung Galaxy A7 2018【Versión Popular 2019】 Funda para iPhone/Samsung/Huawei con Correa Colgante para Llevar en el Cuello -Hecho a Mano en Berlin'
+slug: 'B07XP3R2VZ-es XCYYOO Carcasa de movil con Cuerda para Colgar Samsung...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tyy6CCjEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6GY8C8-es Under Armour UA W Charged Assert 8 LTD  Zapatillas de Running para Mujer  Blanco  White/White/Mod Gray   40 EU'
+slug: 'B07S6GY8C8-es Under Armour UA W Charged Assert 8 LTD Zapatillas de...'
+tags: 
 actualPrice: 30.91 EUR
 currency: EUR
 price: 30.91

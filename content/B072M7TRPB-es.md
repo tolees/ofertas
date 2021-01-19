@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JdDqsO3LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072M7TRPB-es Levi s Batwing Hoodie  Capucha Mujer  Gris  Sportswear Hoodie Smokestack Htr 0000   X-Small'
+slug: 'B072M7TRPB-es Levi s Batwing Hoodie Capucha Mujer Gris Sportswear Hoodie...'
+tags: 
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

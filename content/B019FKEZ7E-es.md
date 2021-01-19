@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NM2jnMkXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019FKEZ7E-es BÉABA Babycook Duo Robot de cocina para bebés 4 en 1  Cocción rápida al vapor 15 min  Capacidad XXL 2200 ml  Gris'
+slug: 'B019FKEZ7E-es BÉABA Babycook Duo Robot de cocina para bebés 4 en 1...'
+tags: 
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

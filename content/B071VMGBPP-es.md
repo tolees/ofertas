@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aEMkCrG-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VMGBPP-es Under Armour Armour Mid Crossback Heather Sujetador Deportivo  Mujer  Gris  LG'
+slug: 'B071VMGBPP-es Under Armour Armour Mid Crossback Heather Sujetador...'
+tags: 
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

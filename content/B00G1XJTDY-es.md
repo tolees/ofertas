@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HuQuoLDwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G1XJTDY-es EZON Optical Pulsómetros Reloj Recargable para Correr Deporte al Aire Libre con Alarma Dual  podómetro  Contador de calorías  cronómetro T043'
+slug: 'B00G1XJTDY-es EZON Optical Pulsómetros Reloj Recargable para Correr...'
+tags: 
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F4vkSy5EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW8PX3T-es Skechers On-the-go Joy Botas Altas Mujer  Negro  Black Suede/Textile Bbk   35 EU  2 UK '
+slug: 'B07NW8PX3T-es Skechers On-the-go Joy Botas Altas Mujer Negro Black...'
+tags: 
 actualPrice: 21.56 EUR
 currency: EUR
 price: 21.56

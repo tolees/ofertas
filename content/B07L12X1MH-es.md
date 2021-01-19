@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x+jTzSr3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L12X1MH-es Under Armour  UNDKU Rival Parte Superior del Calentamiento  Mujer  Gris  MD'
+slug: 'B07L12X1MH-es Under Armour UNDKU Rival Parte Superior del Calentamiento...'
+tags: 
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

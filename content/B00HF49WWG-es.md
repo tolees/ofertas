@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412rKCttOmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HF49WWG-es Timex Expédition Scout - Reloj análogico de cuarzo con correa de nailon para hombre  Verde  Verde/Negro '
+slug: 'B00HF49WWG-es Timex Expédition Scout - Reloj análogico de cuarzo con...'
+tags: 
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

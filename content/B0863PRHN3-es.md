@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AQL-2itkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0863PRHN3-es Enjoyee -4 Viseras Protectoras para la Cara  plástico Ligero  Ajustable  Transparente  para Evitar la Saliva  Las Gotas  el Polen y el Polvo  Azul '
+slug: 'B0863PRHN3-es Enjoyee -4 Viseras Protectoras para la Cara plástico...'
+tags: 
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

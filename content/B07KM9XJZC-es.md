@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414-ajKbnhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KM9XJZC-es Merrell Nova Gore-Tex  Zapatillas de Running para Asfalto para Hombre  Azul  Sailor   41 EU'
+slug: 'B07KM9XJZC-es Merrell Nova Gore-Tex Zapatillas de Running para Asfalto...'
+tags: 
 actualPrice: 61.93 EUR
 currency: EUR
 price: 61.93

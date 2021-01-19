@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416ARUaTYTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXS3NWX-es P Prettyia 1 Juego de Tornillos Accesorios de Fotografía Cámaras de Aire Libre Duradero'
+slug: 'B07KXS3NWX-es P Prettyia 1 Juego de Tornillos Accesorios de Fotografía...'
+tags: 
 actualPrice: 8.03 EUR
 currency: EUR
 price: 8.03

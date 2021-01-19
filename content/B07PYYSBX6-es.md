@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Mj+EuJkjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYSBX6-es Under Armour UA HOVR Sonic 3  Zapatillas Ligeras para Correr  de Alto Rendimiento para Hombre  Negro  Black/White/Jet Gray   42 EU'
+slug: 'B07PYYSBX6-es Under Armour UA HOVR Sonic 3 Zapatillas Ligeras para...'
+tags: 
 actualPrice: 47.5 EUR
 currency: EUR
 price: 47.5

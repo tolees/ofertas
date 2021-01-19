@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31R0C3CKRhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LC4XVP2-es Adidas VS Set  Zapatillas de Tenis para Hombre  Multicolor  Negbás/Negbás/Gris 000   42 2/3 EU'
+slug: 'B07LC4XVP2-es Adidas VS Set Zapatillas de Tenis para Hombre Multicolor...'
+tags: 
 actualPrice: 27.17 EUR
 currency: EUR
 price: 27.17

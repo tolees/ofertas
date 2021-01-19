@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414QGuE6teL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S97B3RN-es adidas Lock Up tee T-Shirt  Mujer  Scarlet  36'
+slug: 'B07S97B3RN-es adidas Lock Up tee T-Shirt Mujer Scarlet 36'
+tags: 
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

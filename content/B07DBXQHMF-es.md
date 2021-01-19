@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-+cuqxrBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBXQHMF-es PUMA Vikky Stacked SD  Zapatillas para Mujer  Negro Black Black White  42 EU'
+slug: 'B07DBXQHMF-es PUMA Vikky Stacked SD Zapatillas para Mujer Negro Black...'
+tags: 
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

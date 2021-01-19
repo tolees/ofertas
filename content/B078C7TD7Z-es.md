@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41czWIgdYEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078C7TD7Z-es Motorola Talkabout T82 Extrem - Walki-Talkis  Alcance hasta 10 Km  Pantalla Oculta  Linterna LED  color Negro y Amarillo'
+slug: 'B078C7TD7Z-es Motorola Talkabout T82 Extrem - Walki-Talkis Alcance hasta...'
+tags: 
 actualPrice: 74.97 EUR
 currency: EUR
 price: 74.97

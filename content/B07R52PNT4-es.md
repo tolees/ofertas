@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rDwJxl6pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R52PNT4-es Boston Tech SP1 - Botella de Agua de Acero Inoxidable Sin BPA con Tapón Hermético a Prueba de Fugas. Doble Capa envasado al Vacío Mantiene Las Bebidas frías o Calientes por 24 Horas'
+slug: 'B07R52PNT4-es Boston Tech SP1 - Botella de Agua de Acero Inoxidable Sin...'
+tags: 
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

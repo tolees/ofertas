@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nUOPyI+JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZR8LK6-es Miropure Cepillo alisador de cabello con calentamiento MCH con guante resistente al calor y funcion de bloqueo de temperatura  16 configuraciones de calentamiento  doble voltaje'
+slug: 'B01LZR8LK6-es Miropure Cepillo alisador de cabello con calentamiento MCH...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

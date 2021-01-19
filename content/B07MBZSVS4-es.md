@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iP-uTMyDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBZSVS4-es Estuche rígido para Unidades de Estado sólido externas Samsung T5 / T3 / T1 portátiles de 250 GB 500 GB 1 TB 2 TB SSD USB 3.0  Bolsa de Almacenamiento portátil - Negro'
+slug: 'B07MBZSVS4-es Estuche rígido para Unidades de Estado sólido externas...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

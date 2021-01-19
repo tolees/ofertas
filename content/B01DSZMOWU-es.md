@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tlhicm84L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DSZMOWU-es Belkin F8W713vf - Protector de Pantalla de Cristal Templado para Apple iPhone 6 Plus y 6S Plus'
+slug: 'B01DSZMOWU-es Belkin F8W713vf - Protector de Pantalla de Cristal...'
+tags: 
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GlGTaO5VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GYOHEMI-es Weider Barrita de Proteína sabor Avellana. Óptima mezcla de hidratos de carbono  proteínas y vitaminas para un abastecimiento de energía rápido y equilibrado  24 x 35 g '
+slug: 'B00GYOHEMI-es Weider Barrita de Proteína sabor Avellana. Óptima mezcla...'
+tags: 
 actualPrice: 15.58 EUR
 currency: EUR
 price: 15.58

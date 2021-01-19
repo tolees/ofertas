@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31MTWiD-vyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J2FNNNW-es Martina Home Tunez Funda sofá Duplex  Mostaza  4 Plaza'
+slug: 'B07J2FNNNW-es Martina Home Tunez Funda sofá Duplex Mostaza 4 Plaza'
+tags: 
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

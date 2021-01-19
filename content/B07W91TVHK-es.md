@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hUYa4DHkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W91TVHK-es Tommy Hilfiger Hombre Slim Bleecker Pstr Crane Blue Loose Fit Jeans  Azul  Crane Blue   W31/L34'
+slug: 'B07W91TVHK-es Tommy Hilfiger Hombre Slim Bleecker Pstr Crane Blue Loose...'
+tags: 
 actualPrice: 23.74 EUR
 currency: EUR
 price: 23.74

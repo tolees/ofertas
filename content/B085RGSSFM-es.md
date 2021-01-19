@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BRNJA2rNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085RGSSFM-es Calcetines de fútbol J color personalizados con número de equipo hasta la rodilla  calcetines de fútbol  elige tu número  Hombre  color 1 rojo de 58 cm o 32 pulgadas.  tamaño talla única'
+slug: 'B085RGSSFM-es Calcetines de fútbol J color personalizados con número de...'
+tags: 
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

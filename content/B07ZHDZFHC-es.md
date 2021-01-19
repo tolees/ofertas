@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+7g8M0p9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHDZFHC-es IKOHS Panificadora DEPAN 710-IK - Panificadora Automática  750W  LCD  17 Programas Automáticos para Bizcochos  Masas  Mermeladas Yogur  Digital  Incluyen Accesorios  Capacidad de 900 Gramos  Gris '
+slug: 'B07ZHDZFHC-es IKOHS Panificadora DEPAN 710-IK - Panificadora Automática...'
+tags: 
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

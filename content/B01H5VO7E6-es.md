@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OP-HiVdVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H5VO7E6-es L Óreal Paris Dermo Expertise - Age Perfect  loción serum Golden Age  pieles maduras - 125 ml'
+slug: 'B01H5VO7E6-es L Óreal Paris Dermo Expertise - Age Perfect loción serum...'
+tags: 
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

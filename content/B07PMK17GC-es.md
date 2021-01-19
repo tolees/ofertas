@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DxMmb7NsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMK17GC-es TOPsic Correa Gear Fit 2 Pro/Fit 2 Correa  Reemplazo de Banda de Silicona Suave Deportiva Pulsera de Repuesto para Samsung Gear Fit 2 Pro SM-R365 and Gear Fit 2 SM-R360 Banda'
+slug: 'B07PMK17GC-es TOPsic Correa Gear Fit 2 Pro/Fit 2 Correa Reemplazo de...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

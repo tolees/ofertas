@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jU7UUOdWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I46YEGS-es Delta Dore 6053005 Termostato Programab Tybox 117  Blanco  Talla Única'
+slug: 'B00I46YEGS-es Delta Dore 6053005 Termostato Programab Tybox 117 Blanco...'
+tags: 
 actualPrice: 49.28 EUR
 currency: EUR
 price: 49.28

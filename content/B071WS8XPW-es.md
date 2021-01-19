@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51viPptCpZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WS8XPW-es Prozis Creatine Creapure  Sabor Lemon-Lime - 300 gr'
+slug: 'B071WS8XPW-es Prozis Creatine Creapure Sabor Lemon-Lime - 300 gr'
+tags: 
 actualPrice: 9.63 EUR
 currency: EUR
 price: 9.63

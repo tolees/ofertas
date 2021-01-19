@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31e9MM0VkzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EJIMZZ2-es 3M xA004837747 Respirador Antipartículas de Plegado Plano  Certificado de seguridad EN'
+slug: 'B00EJIMZZ2-es 3M xA004837747 Respirador Antipartículas de Plegado Plano...'
+tags: 
 actualPrice: 8.16 EUR
 currency: EUR
 price: 8.16

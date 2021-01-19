@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNQQTBT-es Neverwinter Nights: Enhanced Edition'
+tags: 
 actualPrice: 29.6 EUR
 currency: EUR
 price: 29.6

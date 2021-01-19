@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wJPTlq5QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YB47HC5-es Pantalla HD Mini cámara Digital Recargable Niños Dibujos Animados Cute Camera Toys Accesorios de fotografía al Aire Libre para Regalo de cumpleaños Infantil - Azul'
+slug: 'B07YB47HC5-es Pantalla HD Mini cámara Digital Recargable Niños Dibujos...'
+tags: 
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

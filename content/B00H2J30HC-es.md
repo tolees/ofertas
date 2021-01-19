@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JAxKVxu3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H2J30HC-es Softee Equipment 0024103 Juego Pesas  Verde  S'
+slug: 'B00H2J30HC-es Softee Equipment 0024103 Juego Pesas Verde S'
+tags: 
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

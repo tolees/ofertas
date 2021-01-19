@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zp0zpSmuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCF7FLP-es adidas W ID 3s Snap PT Pantalones de Deporte  Mujer  Legend Ink  L'
+slug: 'B07SCF7FLP-es adidas W ID 3s Snap PT Pantalones de Deporte Mujer Legend...'
+tags: 
 actualPrice: 35.41 EUR
 currency: EUR
 price: 35.41

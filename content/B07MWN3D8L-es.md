@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ewxr5b71L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MWN3D8L-es Clarks Cloud Air T  Zapatillas Altas para Niños  Marrón  Burgundy Leather Burgundy Leather   20 EU'
+slug: 'B07MWN3D8L-es Clarks Cloud Air T Zapatillas Altas para Niños Marrón...'
+tags: 
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

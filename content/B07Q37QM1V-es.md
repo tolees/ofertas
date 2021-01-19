@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51AaBSFPbML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q37QM1V-es Ferilinso Funda para Xiaomi Redmi S3/ Redmi 7 Funda [Reforzar la versión con Cuatro Esquinas][Funda Protectora de la cámara] Funda Protectora de Silicona de Piel de Goma TPU a Prueba  Transparente '
+slug: 'B07Q37QM1V-es Ferilinso Funda para Xiaomi Redmi S3/ Redmi 7 Funda...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZupP8r5gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089F2KJH5-es HOPLYNN - Pantalones cortos 2 en 1 para correr  gimnasio  entrenamiento  atlético  ropa interior de compresión con bolsillo con cremallera Gris gris L'
+slug: 'B089F2KJH5-es HOPLYNN - Pantalones cortos 2 en 1 para correr gimnasio...'
+tags: 
 actualPrice: 18.31 EUR
 currency: EUR
 price: 18.31

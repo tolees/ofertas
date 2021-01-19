@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Wf5Vay7xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4KWD22-es Swonuk Alfombra Inflable con Agua 66*50  Juego de Esterilla de Agua PVC Grueso  Adecuado para niños pequeños  es el Momento de diversión Juego Centro de Actividad'
+slug: 'B07L4KWD22-es Swonuk Alfombra Inflable con Agua 66*50 Juego de Esterilla...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

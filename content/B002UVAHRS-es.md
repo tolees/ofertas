@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31umB-HidBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002UVAHRS-es Pipedream Basix Works Slim - Dildo Clásico  Trasparente  20 cm'
+slug: 'B002UVAHRS-es Pipedream Basix Works Slim - Dildo Clásico Trasparente 20 cm'
+tags: 
 actualPrice: 4.32 EUR
 currency: EUR
 price: 4.32

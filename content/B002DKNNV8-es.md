@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GWRssiiVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002DKNNV8-es Hunters Original Tall Gloss  Botas altas Mujer  Morado  Violet   35/36 EU'
+slug: 'B002DKNNV8-es Hunters Original Tall Gloss Botas altas Mujer Morado...'
+tags: 
 actualPrice: 55.22 EUR
 currency: EUR
 price: 55.22

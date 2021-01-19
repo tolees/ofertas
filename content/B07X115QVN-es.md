@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZhBY8mh8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X115QVN-es Rompecabezas 3D para Niños STEM Learning Toy  Kit de Carretilla Elevadora DIY  589PCS / set Rompecabezas de Acero Inoxidable 3D DIY Ensamblaje de Juguete Modelo de Carretilla Elevadora de Metal Kit de'
+slug: 'B07X115QVN-es Rompecabezas 3D para Niños STEM Learning Toy Kit de...'
+tags: 
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

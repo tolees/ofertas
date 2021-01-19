@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HyoBeGo1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFN3SYC-es Rubies 300194-TW Fortnite - Disfraz Skull Trooper para niños  11-12 años  152 cm '
+slug: 'B07HFN3SYC-es Rubies 300194-TW Fortnite - Disfraz Skull Trooper para...'
+tags: 
 actualPrice: 27.41 EUR
 currency: EUR
 price: 27.41

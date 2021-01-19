@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IZWpRAWCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZMT6H8-es B Blesiya Caja De Almacenamiento De Batería Caja De Plástico Duro Recargable para 100 X AA'
+slug: 'B086ZMT6H8-es B Blesiya Caja De Almacenamiento De Batería Caja De...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l-2jEpWIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2MMMXW-es adidas Runfalcon  Zapatillas de Running para Mujer  Negro  Core Black/Shock Red/FTWR White   40 EU'
+slug: 'B07K2MMMXW-es adidas Runfalcon Zapatillas de Running para Mujer Negro...'
+tags: 
 actualPrice: 30.48 EUR
 currency: EUR
 price: 30.48

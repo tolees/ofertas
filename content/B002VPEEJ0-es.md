@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YNZg6EfBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002VPEEJ0-es Makita FS4200 atornillador  500 W  120 V   L X A X  mm'
+slug: 'B002VPEEJ0-es Makita FS4200 atornillador 500 W 120 V L X A X mm'
+tags: 
 actualPrice: 125.35 EUR
 currency: EUR
 price: 125.35

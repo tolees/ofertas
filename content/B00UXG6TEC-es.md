@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41plXdEWYPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UXG6TEC-es Clarks Trigenic Flex  Zapatillas para Mujer  Negro  Black Nubuck   37 EU'
+slug: 'B00UXG6TEC-es Clarks Trigenic Flex Zapatillas para Mujer Negro Black...'
+tags: 
 actualPrice: 35.4 EUR
 currency: EUR
 price: 35.4

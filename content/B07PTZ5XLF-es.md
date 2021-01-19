@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y9GX+nYkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PTZ5XLF-es PUMA Weave XT Wn s  Zapatillas Deportivas para Interior para Mujer  Black White  38.5 EU'
+slug: 'B07PTZ5XLF-es PUMA Weave XT Wn s Zapatillas Deportivas para Interior...'
+tags: 
 actualPrice: 30.55 EUR
 currency: EUR
 price: 30.55

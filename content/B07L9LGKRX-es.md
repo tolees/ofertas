@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Qp9Uj73xL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9LGKRX-es Lacoste Masters 319 1 SMA  Zapatillas para Hombre  Blanco  Wht/Dk Red 1y8   45 EU'
+slug: 'B07L9LGKRX-es Lacoste Masters 319 1 SMA Zapatillas para Hombre Blanco...'
+tags: 
 actualPrice: 38.43 EUR
 currency: EUR
 price: 38.43

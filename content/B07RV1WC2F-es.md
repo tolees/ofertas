@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k0pilfm7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RV1WC2F-es Senbos Cartera Hombre Pequeña Cartera de Cuero Suave de Piel de Vaca Genuina Soporte de Tarjeta de crédito con Bolsillo con Cremallera  Color3 '
+slug: 'B07RV1WC2F-es Senbos Cartera Hombre Pequeña Cartera de Cuero Suave de...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

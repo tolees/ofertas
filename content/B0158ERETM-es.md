@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vDWrvolFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0158ERETM-es Rowenta IPL Instant Soft Compact EP9600 - Depiladora de luz pulsada IPL con sistema detector de contacto y detector de color de Piel  y filtro UV incorporado'
+slug: 'B0158ERETM-es Rowenta IPL Instant Soft Compact EP9600 - Depiladora de...'
+tags: 
 actualPrice: 140.7 EUR
 currency: EUR
 price: 140.7

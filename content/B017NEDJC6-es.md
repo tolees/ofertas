@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414Wgq9qCdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017NEDJC6-es WOLTU Persiana Enrollable Sin Perforación Persiana Enrollable Lateral Translúcida 120x150 cm Blanco VH5524ws'
+slug: 'B017NEDJC6-es WOLTU Persiana Enrollable Sin Perforación Persiana...'
+tags: 
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

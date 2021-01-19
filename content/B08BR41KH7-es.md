@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BYQQ2XKNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BR41KH7-es ANAZOZ Pendientes Mujer Plata Pendientes Aro Mujer Plata de Ley Cuadrado con 4 Garras Circonita Blanca'
+slug: 'B08BR41KH7-es ANAZOZ Pendientes Mujer Plata Pendientes Aro Mujer Plata...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

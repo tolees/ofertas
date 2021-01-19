@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dKisvnmHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B003AWBE8W-es Festina Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 4040501'
+slug: 'B003AWBE8W-es Festina Reloj Analógico para Hombre de Cuarzo con Correa...'
+tags: 
 actualPrice: 52.48 EUR
 currency: EUR
 price: 52.48

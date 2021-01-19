@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wBSJE7czL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ALM3SHS-es TININNA 1 par Espuma de la Memoria Respirable Altura Invisible Aumento Zapato Almohadillas Plantillas para Hombres Mujeres 4.3 cm'
+slug: 'B01ALM3SHS-es TININNA 1 par Espuma de la Memoria Respirable Altura...'
+tags: 
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

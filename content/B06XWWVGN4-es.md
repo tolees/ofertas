@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/616sbtLYV9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWWVGN4-es IMC Toys IMC Toys-96073 Lovely Tresse Trenza-Decora Pelo  Multicolor  Distribución 96073 '
+slug: 'B06XWWVGN4-es IMC Toys IMC Toys-96073 Lovely Tresse Trenza-Decora Pelo...'
+tags: 
 actualPrice: 27.61 EUR
 currency: EUR
 price: 27.61

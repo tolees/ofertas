@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51DX7WIYM9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFCLLNR-es Ezfull Protector para Parabrisas  Protector de Parabrisas Magnético Cubierta de Parabrisas para Coche Protege de Rayos UV  Sol  Lluvia  Nieve  Funda Plegable Parabrisa Delantero Universal  183x147cm'
+slug: 'B07XFCLLNR-es Ezfull Protector para Parabrisas Protector de Parabrisas...'
+tags: 
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

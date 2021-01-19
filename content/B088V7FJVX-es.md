@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V6fs-cQiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088V7FJVX-es Aussie 3 Minute Miracle Reconstructor  Tratamiento Reparación 3 x 250 ml'
+slug: 'B088V7FJVX-es Aussie 3 Minute Miracle Reconstructor Tratamiento...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

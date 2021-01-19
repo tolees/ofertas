@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LyZxRowBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTHLQ6N-es E·Durable 51pcs Mini Taladro Manual Kit Taladro Mano modelismo de Herramientas para Madera  Resina  joyería  Nogal  ámbar  Cera de Abejas'
+slug: 'B07CTHLQ6N-es E·Durable 51pcs Mini Taladro Manual Kit Taladro Mano...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

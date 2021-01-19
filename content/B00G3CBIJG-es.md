@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G3CBIJG-es Led Lenser T7.2 - Linterna LED'
+tags: 
 actualPrice: 37.1 EUR
 currency: EUR
 price: 37.1

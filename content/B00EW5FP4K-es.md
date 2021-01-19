@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31mUWikiR2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EW5FP4K-es Nike Revolution 4  GS   Zapatillas de Running para unisexo  Negro  Black/White-Anthracite 006   36.5 EU'
+slug: 'B00EW5FP4K-es Nike Revolution 4 GS Zapatillas de Running para unisexo...'
+tags: 
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

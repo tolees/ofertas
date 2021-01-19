@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XDXBCBW-es Collistar Sensitive Skin Espuma de Afeitar - 250 ml'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XC2SFUoaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW99JYG-es Salomon Alphacross GTX  Zapatillas de Trail Running para Hombre  Verde  Castor Gray/Ebony/Black   46 2/3 EU'
+slug: 'B07KW99JYG-es Salomon Alphacross GTX Zapatillas de Trail Running para...'
+tags: 
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ngsl4P11L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZDQZFX-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES4341'
+slug: 'B074ZDQZFX-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
+tags: 
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

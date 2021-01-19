@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JJMXVBgjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JYUU5DS-es Sandisk SDSDXPK-128G-GN4IN Extreme Pro Tarjeta de Memoria SDXC de 128 GB  300 MB/s  UHS-II  Class 10 y U3   Black'
+slug: 'B01JYUU5DS-es Sandisk SDSDXPK-128G-GN4IN Extreme Pro Tarjeta de Memoria...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

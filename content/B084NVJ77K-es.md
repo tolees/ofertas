@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513DD4KV0hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084NVJ77K-es 29 * 19 cm Bebé Niños Niños Escribir Dibujar Pintura Alfombrilla de Agua Magic Doodle Play Mat con Agregar Pluma de Agua Pintura Juguete - Multicolor'
+slug: 'B084NVJ77K-es 29 * 19 cm Bebé Niños Niños Escribir Dibujar Pintura...'
+tags: 
 actualPrice: 2.38 EUR
 currency: EUR
 price: 2.38

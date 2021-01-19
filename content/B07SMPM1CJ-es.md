@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z2mvu8+rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMPM1CJ-es Asics Gel-Nimbus 22  Zapatillas de Running para Hombre  Amarillo  SafetyYellow/Black 751   44 EU'
+slug: 'B07SMPM1CJ-es Asics Gel-Nimbus 22 Zapatillas de Running para Hombre...'
+tags: 
 actualPrice: 133.56 EUR
 currency: EUR
 price: 133.56

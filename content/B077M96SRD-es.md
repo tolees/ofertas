@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s8fRTR-KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077M96SRD-es PUMA SMASH V2 L  Zapatillas Unisex-Adulto  Blanco White Black  47 EU'
+slug: 'B077M96SRD-es PUMA SMASH V2 L Zapatillas Unisex-Adulto Blanco White...'
+tags: 
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

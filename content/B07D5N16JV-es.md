@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414lKFNRKCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5N16JV-es Cipriata Valentina - Deportivas con Cordones y Cremallera para Chica Mujer  42 EU   Negro '
+slug: 'B07D5N16JV-es Cipriata Valentina - Deportivas con Cordones y Cremallera...'
+tags: 
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

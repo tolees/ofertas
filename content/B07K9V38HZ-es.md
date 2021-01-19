@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fPf1f8D-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9V38HZ-es Vibrador Parejas  Juegos Eroticos Silicona Masajeador Sexual Vibradores Dual Motor Con control remoto - Vibración de 10 Modos Con Estimulador de Punto G/Clítoris Para Mujer  Hombre'
+slug: 'B07K9V38HZ-es Vibrador Parejas Juegos Eroticos Silicona Masajeador...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

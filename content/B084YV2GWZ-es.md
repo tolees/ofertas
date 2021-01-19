@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mpWlqXIXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084YV2GWZ-es Anself 12Pcs Pinceles de Maquillaje Multifuncionales  Juego Pinceles Maquillaje para Sombra de Ojos  Corrector  Rubor  Base  con Bolsa de Cosméticos a Prueba de Agua'
+slug: 'B084YV2GWZ-es Anself 12Pcs Pinceles de Maquillaje Multifuncionales Juego...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

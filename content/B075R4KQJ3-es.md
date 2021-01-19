@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jVLB7wJ3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R4KQJ3-es Firbon cortadora de papel titanio 12 inch A4 cortador con automático Seguridad Safeguard  Blanco '
+slug: 'B075R4KQJ3-es Firbon cortadora de papel titanio 12 inch A4 cortador con...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

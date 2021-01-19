@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+xqwjAHQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPG6QZ9-es Powerextra DMW-BLC12 Panasonic DMW-BLC12E 2 X Baterías con Cargador Pantalla LCD Compatible con Panasonic Lumix DMC-FZ200 DMC-FZ1000 DMC-FZ2000 / 2500 DMC-G5 DMC-G6 DMC-G7 DMC-GX8 DMC-G85'
+slug: 'B07PPG6QZ9-es Powerextra DMW-BLC12 Panasonic DMW-BLC12E 2 X Baterías con...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-gjikzY4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNJN8BB-es Crucial Ballistix Sport LT BLS8G4D30AESBK 3000 MHz  DDR4  DRAM  Memoria Gamer para ordenadores de sobremesa  8 GB  CL15  Gris '
+slug: 'B07MNJN8BB-es Crucial Ballistix Sport LT BLS8G4D30AESBK 3000 MHz DDR4...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

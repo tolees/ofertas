@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V4lRdW2+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CBL4R5J-es Bella Aurora Crema Facial Protector Solar Pre-Base  Maquillaje Perfeccionadora SPF 50+ Anti-Manchas Protege y Repara No Comedogénico  30 ml'
+slug: 'B07CBL4R5J-es Bella Aurora Crema Facial Protector Solar Pre-Base...'
+tags: 
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

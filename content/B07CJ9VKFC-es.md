@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61ZRP8WP60L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJ9VKFC-es TianMai Caliente Nueva DIY 5D Kit de Pintura Taladro Completo Diamante Bordado de Diamantes Pintura Pintura Pegada Por Número Kits Stitch Craft Kit Decoración Etiqueta de La Pared  8255 '
+slug: 'B07CJ9VKFC-es TianMai Caliente Nueva DIY 5D Kit de Pintura Taladro...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

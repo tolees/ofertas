@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bT5naMExL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLQJLRC-es Edge Entertainment - Kick-Ass El juego de Tablero - Español  EECMKA01 '
+slug: 'B07NLQJLRC-es Edge Entertainment - Kick-Ass El juego de Tablero -...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

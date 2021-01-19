@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31njqKqQhtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D8WGSPK-es Rimmel London Stay Satin Liquid Lip Colour Barra De Labios  Tono 800 Rad  21 gr'
+slug: 'B07D8WGSPK-es Rimmel London Stay Satin Liquid Lip Colour Barra De Labios...'
+tags: 
 actualPrice: 3.78 EUR
 currency: EUR
 price: 3.78

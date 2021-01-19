@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31APK9d+NuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSO6Q4K-es Philips Pro HPS930/40 - Plancha de Pelo Profesional  Placas Titanio 110 mm  Ionica  Control Digital Temperatura 140º a 230º  Azul'
+slug: 'B01BSO6Q4K-es Philips Pro HPS930/40 - Plancha de Pelo Profesional Placas...'
+tags: 
 actualPrice: 55.25 EUR
 currency: EUR
 price: 55.25

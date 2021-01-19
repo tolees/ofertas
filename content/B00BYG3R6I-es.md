@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412i2XeQRbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BYG3R6I-es Nike T-Lite XI  Zapatillas Hombre   Negro  Black   45'
+slug: 'B00BYG3R6I-es Nike T-Lite XI Zapatillas Hombre Negro Black 45'
+tags: 
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

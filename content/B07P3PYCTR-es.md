@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wSV2Ur2uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3PYCTR-es Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt  All Hours  button-down-shirts  Azul claro  Medium Tall'
+slug: 'B07P3PYCTR-es Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt...'
+tags: 
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CSZBB2F-es Raton BLUESTORK M-WL-OFF10 Optico INALAMBRICO Negro'
+tags: 
 actualPrice: 2.47 EUR
 currency: EUR
 price: 2.47

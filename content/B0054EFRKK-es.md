@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0054EFRKK-es Bausch & Lomb - PureVision 2 Esféricas - Lentes de Contacto'
+tags: 
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

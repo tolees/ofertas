@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ToINa7wAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HK3EZ82-es Superga 2750-efglu  Zapatillas de Gimnasia para Mujer  Blanco  White 900   45 EU'
+slug: 'B01HK3EZ82-es Superga 2750-efglu Zapatillas de Gimnasia para Mujer...'
+tags: 
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

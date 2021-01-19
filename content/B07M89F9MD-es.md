@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PSqpPx48L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M89F9MD-es Lee Luke Corduroy Pantalones  Naranja  POTTER S Clay 93   30W / 30L para Hombre'
+slug: 'B07M89F9MD-es Lee Luke Corduroy Pantalones Naranja POTTER S Clay 93 30W...'
+tags: 
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

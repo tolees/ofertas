@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5Y66TS-es Ymea Menopausia Sofoconfort 24h cápsulas'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

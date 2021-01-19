@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21KVHxtMGtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YJ2T3C-es Westinghouse Lighting One-Light Indoor Pendant Lámpara de Techo Integrado  Negro'
+slug: 'B079YJ2T3C-es Westinghouse Lighting One-Light Indoor Pendant Lámpara de...'
+tags: 
 actualPrice: 42.77 EUR
 currency: EUR
 price: 42.77

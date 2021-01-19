@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X-dUcEjGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SPXMPN4-es Yummy Bee Lencería Babydoll Conjunto Ropa Interior Noche Dormir Negro Rojo Picardías Talla Grande 36-52  Negro  36 '
+slug: 'B00SPXMPN4-es Yummy Bee Lencería Babydoll Conjunto Ropa Interior Noche...'
+tags: 
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

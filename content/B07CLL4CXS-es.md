@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OPJ2eYWsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLL4CXS-es Puig  Agua Fresca - 200 ml'
+slug: 'B07CLL4CXS-es Puig Agua Fresca - 200 ml'
+tags: 
 actualPrice: 10.18 EUR
 currency: EUR
 price: 10.18

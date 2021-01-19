@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51XdftdVhsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY4RF9M-es PONY DANCE Cortinas Termicas Exterior - Cortinas Blancas Gris Trabillas 1 Panel  132 x 213 cm  An x Al  / Cortinas Gordas Impermeables para Jardin Terraza Puerta Ducha'
+slug: 'B07NY4RF9M-es PONY DANCE Cortinas Termicas Exterior - Cortinas Blancas...'
+tags: 
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

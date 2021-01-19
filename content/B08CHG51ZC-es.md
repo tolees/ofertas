@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sy0hUl2ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CHG51ZC-es HUHUDAY Abrelatas  Herramienta De Barra para Abridor De Latas Go Swing  Abrelatas Manual De Seguridad FáCil con FuncióN De Bloqueo  Sin Bordes Afilados  Sin Bordes Afilados'
+slug: 'B08CHG51ZC-es HUHUDAY Abrelatas Herramienta De Barra para Abridor De...'
+tags: 
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

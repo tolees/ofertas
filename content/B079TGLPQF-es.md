@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uZoq8BNmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TGLPQF-es Rowenta Skin Spirit EP2910 - Depiladora de 2 velocidades con sistema anti dolor de 24 pinzas  cepillo limpiador  accesorio para zonas sensibles y bolsita de viaje'
+slug: 'B079TGLPQF-es Rowenta Skin Spirit EP2910 - Depiladora de 2 velocidades...'
+tags: 
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

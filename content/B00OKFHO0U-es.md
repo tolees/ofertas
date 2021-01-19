@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NCipJn40L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OKFHO0U-es Beaphar - Champú Premium para Perros Anti picores  250 ml'
+slug: 'B00OKFHO0U-es Beaphar - Champú Premium para Perros Anti picores 250 ml'
+tags: 
 actualPrice: 8.03 EUR
 currency: EUR
 price: 8.03

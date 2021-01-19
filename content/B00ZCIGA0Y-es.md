@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZCIGA0Y-es Gucci - Bamboo - Eau de Parfum para mujer - 50 ml'
+tags: 
 actualPrice: 58.79 EUR
 currency: EUR
 price: 58.79

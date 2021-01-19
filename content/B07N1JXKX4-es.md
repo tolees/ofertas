@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v8TfuXinL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JXKX4-es Clarks Verona Rock  Botas Plisadas para Mujer  Marrón Oscuro  36 EU'
+slug: 'B07N1JXKX4-es Clarks Verona Rock Botas Plisadas para Mujer Marrón Oscuro...'
+tags: 
 actualPrice: 47.04 EUR
 currency: EUR
 price: 47.04

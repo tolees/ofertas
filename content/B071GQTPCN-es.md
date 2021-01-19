@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uJt0W-55L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071GQTPCN-es PUMA 900248.020 Bolsa Mediana  Unisex Adulto  Azul  Talla única'
+slug: 'B071GQTPCN-es PUMA 900248.020 Bolsa Mediana Unisex Adulto Azul Talla única'
+tags: 
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

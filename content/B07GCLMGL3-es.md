@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wZjDhpS9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCLMGL3-es MVPOWER Bolsas de Basura de Jardín  Set de 3pcs x 300L  Gran Capacidad  de PE Material  Plegable  Resistente a la Corrosión y al Daño  para Hojas Plantas Podadas etc.'
+slug: 'B07GCLMGL3-es MVPOWER Bolsas de Basura de Jardín Set de 3pcs x 300L Gran...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

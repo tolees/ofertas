@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EhMywxn+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868NHJFB-es Suhctup Transparente Funda Compatible con Samsung Galaxy S6 Carcasa Protectora de TPU Ultradelgada Flor y Calavera Diseño Anti-Choques Resistente Case Cover para Samsung Galaxy S6 9 '
+slug: 'B0868NHJFB-es Suhctup Transparente Funda Compatible con Samsung Galaxy...'
+tags: 
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

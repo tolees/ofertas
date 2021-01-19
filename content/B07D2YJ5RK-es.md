@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51heZKPUcvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2YJ5RK-es Luchild Colchoneta Silla Paseo Universal Verano Colchoneta para Cochecito y Carro Bebe Transpirable  Gris '
+slug: 'B07D2YJ5RK-es Luchild Colchoneta Silla Paseo Universal Verano Colchoneta...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

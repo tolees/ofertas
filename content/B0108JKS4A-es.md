@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511Woa0ezsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0108JKS4A-es Hot Chocolate Design Chocolaticas Notebook Bailarina Mary Jane para Mujeres Multicolor HCD 35'
+slug: 'B0108JKS4A-es Hot Chocolate Design Chocolaticas Notebook Bailarina Mary...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

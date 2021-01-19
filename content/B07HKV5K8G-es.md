@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mTE2Z6pFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKV5K8G-es Under Armour UA W Ripple 2.0  Zapatillas de Running para Mujer  Negro  Black/White  001   37.5 EU'
+slug: 'B07HKV5K8G-es Under Armour UA W Ripple 2.0 Zapatillas de Running para...'
+tags: 
 actualPrice: 26.31 EUR
 currency: EUR
 price: 26.31

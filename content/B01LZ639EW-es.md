@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NJJlX2AgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZ639EW-es Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Correa en Acero Inoxidable MK6357'
+slug: 'B01LZ639EW-es Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con...'
+tags: 
 actualPrice: 171.18 EUR
 currency: EUR
 price: 171.18

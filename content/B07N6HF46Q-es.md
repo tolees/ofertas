@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413qsWqKn5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6HF46Q-es Levi s 501 Original Short Pantalones Cortos  Azul  Silver Lake 0018   W32  Talla del Fabricante: 32  para Mujer'
+slug: 'B07N6HF46Q-es Levi s 501 Original Short Pantalones Cortos Azul Silver...'
+tags: 
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

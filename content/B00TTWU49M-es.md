@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pqRdk2aJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTWU49M-es Farmatint Gel 4N Castaño | Color natural y duradero | Componentes vegetales y aceites naturales | Sin amoníaco | Sin parabenos | Dermatológicamente testado'
+slug: 'B00TTWU49M-es Farmatint Gel 4N Castaño | Color natural y duradero |...'
+tags: 
 actualPrice: 4.48 EUR
 currency: EUR
 price: 4.48

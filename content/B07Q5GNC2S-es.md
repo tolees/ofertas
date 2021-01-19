@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q5GNC2S-es MO Bermuda Algodón Hombre - Azul Oscuro - Talla 48'
+tags: 
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

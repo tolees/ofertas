@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51G0ZF2ietL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGFBL6T-es PUMA One Strap Ball Balón de Fútbol  Adultos Unisex  Black-Yellow Alert White  4'
+slug: 'B07QGFBL6T-es PUMA One Strap Ball Balón de Fútbol Adultos Unisex Black-...'
+tags: 
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

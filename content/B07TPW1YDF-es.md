@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411fVGs5U9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPW1YDF-es Superdry Core Logo Stripe Hood Capucha  Azul  Eclipse Navy 98t   Large para Hombre'
+slug: 'B07TPW1YDF-es Superdry Core Logo Stripe Hood Capucha Azul Eclipse Navy...'
+tags: 
 actualPrice: 41.79 EUR
 currency: EUR
 price: 41.79

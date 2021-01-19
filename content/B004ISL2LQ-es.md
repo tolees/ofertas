@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QQ5E9qvbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004ISL2LQ-es Gowi 454-81 - Juego de cubiertos y bandeja  17 piezas  [importado de Alemania]   color/modelo surtido'
+slug: 'B004ISL2LQ-es Gowi 454-81 - Juego de cubiertos y bandeja 17 piezas...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

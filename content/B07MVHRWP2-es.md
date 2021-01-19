@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zhR13+YeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVHRWP2-es Kipling Gabbie S  Bolsos Bandolera para Mujer  Rosa  Metallic Rose   29x22x16.5 cm'
+slug: 'B07MVHRWP2-es Kipling Gabbie S Bolsos Bandolera para Mujer Rosa Metallic...'
+tags: 
 actualPrice: 53.4 EUR
 currency: EUR
 price: 53.4

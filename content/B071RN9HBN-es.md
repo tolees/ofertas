@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FmN5kMUvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RN9HBN-es Garnier Skin Active Gel Limpiador con Hoja de Té Verde - 200 ml'
+slug: 'B071RN9HBN-es Garnier Skin Active Gel Limpiador con Hoja de Té Verde -...'
+tags: 
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49
