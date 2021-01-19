@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Asalvo Convi Fix Silla de Coche Grupo 2/ al 26.60 % de descuento'
-date: 2021-01-08 10:43:21
+date: 2021-01-19 20:55:50
 image: 'https://m.media-amazon.com/images/I/41nepLkL3NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078H7WMDK-es'
+slug: 'B078H7WMDK-es Asalvo Convi Fix Silla de Coche Grupo 2/3 Gris'
+tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0
@@ -25,11 +26,11 @@ Ahora mismo tienes [Asalvo Convi Fix Silla de Coche Grupo 2/3  Gris](https://www
 
 🔎:
 
-- Respaldo desmontable
 - Protección cervical y lateral contra impactos
-- Reposacabezas ajustable en altura
+- Respaldo desmontable
 - Sentido de la marcha con sistema Isofix
 - Grupo 2-3 desde los 15 kg hasta 36kg
+- Reposacabezas ajustable en altura
 - Asiento ancho y cómodo
 
-[Visítala!!!](https://www.amazon.es/dp/B078H7WMDK/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B078H7WMDK/?tag=tolees-21)
