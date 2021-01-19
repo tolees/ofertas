@@ -25,8 +25,8 @@ Ahora mismo tienes [Campingaz Kühltasche Fold N Cool Nevera Flexible  10 l  Uni
 
 🔎:
 
-- Correa ajustable a los hombros. Un bolsillo central con cremallera. Nevera plegable
-- Aislamiento de espuma de polietileno expandido EPE de células cerradas
 - Capacidad de conservación: 10h con acumuladores Freez’Pack (vendido separadamente)
+- Aislamiento de espuma de polietileno expandido EPE de células cerradas
+- Correa ajustable a los hombros. Un bolsillo central con cremallera. Nevera plegable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00AGAG2SS/?tag=tolees-21)

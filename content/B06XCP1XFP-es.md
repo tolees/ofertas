@@ -25,14 +25,14 @@ Está [STANLEY STST1-80150 - Arcón para herramientas con cierres metálicos  66
 
 ℹ️:
 
-- Caja de herramientas de gran capacidad de 50L
-- Pestillos de metal geométricos
+- Bandejas organizadoras de compartimentos integrales para piezas pequeñas y accesorios
 - Bucle de candado para seguridad
+- Bandeja extraíble para un almacenamiento organizado de herramientas y accesorios más pequeños
+- Mango telescópico duradero para usar con ruedas
 - Ranura en V integral para un corte conveniente de madera o tubería
 - Ideal para el almacenamiento diario
+- Caja de herramientas de gran capacidad de 50L
+- Pestillos de metal geométricos
 - Ruedas de 7 "para portabilidad
-- Bandejas organizadoras de compartimentos integrales para piezas pequeñas y accesorios
-- Mango telescópico duradero para usar con ruedas
-- Bandeja extraíble para un almacenamiento organizado de herramientas y accesorios más pequeños
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XCP1XFP/?tag=tolees-21)

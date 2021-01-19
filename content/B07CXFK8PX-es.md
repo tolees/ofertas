@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Monster Hunter Generations Ultimate - Ed con un 40.01 % de descuento'
-date: 2021-01-16 14:00:51
+date: 2021-01-19 08:25:27
 image: 'https://m.media-amazon.com/images/I/51zzIFg4dRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CXFK8PX/?tag=tolees-21'
 descuento: '40.01'
-average: '37.74285714285715'
+average: '37.35333333333334'
 ---
 
 En este momento está [Monster Hunter Generations Ultimate - Edición Estándar](https://www.amazon.es/dp/B07CXFK8PX/?tag=tolees-21) a 35.99 EUR (original: 59.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
@@ -25,8 +25,8 @@ En este momento está [Monster Hunter Generations Ultimate - Edición Estándar]
 
 🔎:
 
-- Jugabilidad altamente customizable
 - Profundo sistema de crafting
 - ¡Juega en cualquier parte!
+- Jugabilidad altamente customizable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CXFK8PX/?tag=tolees-21)

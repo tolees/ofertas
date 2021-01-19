@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment- Age of Thieves - Esp con un 49.96 % de descuento'
-date: 2021-01-17 14:39:45
+date: 2021-01-19 08:05:27
 image: 'https://m.media-amazon.com/images/I/51EH5PWevDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079ZYX4P8/?tag=tolees-21'
 descuento: '49.96'
-average: '39.43433628318584'
+average: '39.27026086956522'
 ---
 
 En este momento está [Edge Entertainment- Age of Thieves - Español  Color  EEGKAT01 ](https://www.amazon.es/dp/B079ZYX4P8/?tag=tolees-21) a 30.0 EUR (original: 59.95 EUR) (49.96 %  de descuento) en el siguiente enlace!
