@@ -1,30 +1,35 @@
 ---
 layout: post
-title: 'VGA MSI RTX2080S 8GB Gaming X Trio GDDR6 al 45.54 % de rebaja'
-date: 2020-04-10 08:02:14
-image: 'https://m.media-amazon.com/images/I/51bU6js7+XL._SL200_.jpg'
+title: 'MSI RTX 2080 Super Gaming X Trio - VGA 8 al 42.37 % de rebaja'
+date: 2021-01-20 16:18:39
+image: 'https://m.media-amazon.com/images/I/41fC3PEo67L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGM29BZ-es VGA MSI RTX2080S 8GB Gaming X Trio GDDR6 HDMI 3*DP USB-C 2S'
+slug: 'B07VGM29BZ-es MSI RTX 2080 Super Gaming X Trio - VGA 8GB GDDR6 HDMI 3*DP...'
 tags: [  ]
-actualPrice: 378.0 EUR
+actualPrice: 400.0 EUR
 currency: EUR
-price: 378.0
+price: 400.0
 comparePrice: 694.13 EUR
-prodname: 'VGA MSI RTX2080S 8GB Gaming X Trio GDDR6 HDMI 3*DP USB-C 2S'
+prodname: 'MSI RTX 2080 Super Gaming X Trio - VGA 8GB  GDDR6  HDMI  3*DP  USB-C 2S'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VGM29BZ/?tag=tolees-21'
-descuento: '45.54'
-average: '744.96'
+descuento: '42.37'
+average: '646.4'
 ---
 
-Tienes [VGA MSI RTX2080S 8GB Gaming X Trio GDDR6 HDMI 3*DP USB-C 2S](https://www.amazon.es/dp/B07VGM29BZ/?tag=tolees-21) con precio final de  378.0 EUR (original: 694.13 EUR) (45.54 %  de rebaja) aqui!
+Tienes [MSI RTX 2080 Super Gaming X Trio - VGA 8GB  GDDR6  HDMI  3*DP  USB-C 2S](https://www.amazon.es/dp/B07VGM29BZ/?tag=tolees-21) con precio final de  400.0 EUR (original: 694.13 EUR) (42.37 %  de rebaja) aqui!
 
-[![VGA MSI RTX2080S 8GB Gaming X Trio GDDR6](https://m.media-amazon.com/images/I/51bU6js7+XL._SL200_.jpg)](https://www.amazon.es/dp/B07VGM29BZ/?tag=tolees-21)
+[![MSI RTX 2080 Super Gaming X Trio - VGA 8](https://m.media-amazon.com/images/I/41fC3PEo67L._SL200_.jpg)](https://www.amazon.es/dp/B07VGM29BZ/?tag=tolees-21)
 
 🔎:
 
+- RGB MYSTIC LIGHT - Personaliza colores y efectos LED con el software de MSI y sincroniza el aspecto y sensación con otros componentes
+- MASTERY OF AERODYNAMICS - Utilizando técnicas aerodinámicas, el disipador está optimizado para una disipación eficiente del calor
+- TORX FAN 3.0 - galardonado diseño de ventilador combinando dos tipos de aspa para refrigeración y silencio
+- ZERO FROZR - Elimina el ruido de los ventiladores deteniéndolos en situaciones de baja carga para que te enfoques en tu juego
+- TRI-FROZR THERMAL DESIGN - Utilizando tres de los galardonados ventiladores TORX FAN 3.0, Tri-Frozr es el pináculo de la refrigeración por aire
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VGM29BZ/?tag=tolees-21)

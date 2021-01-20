@@ -27,8 +27,8 @@ Tienes [BAUSCH + LOMB - PureVision2® - Lentes de contacto de reemplazo mensual]
 ℹ️:
 
 - Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión.
+- También pueden emplearse con fines terapéuticos para el tratamiento de trastornos del epitelio corneal.
 - Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas.
 - Para miopía o hipermetropía.
-- También pueden emplearse con fines terapéuticos para el tratamiento de trastornos del epitelio corneal.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B007UIT5HO/?tag=tolees-21)

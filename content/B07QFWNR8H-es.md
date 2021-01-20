@@ -26,10 +26,10 @@ En este momento está [Simpeak Funda Compatible para Kindle 2019 [5 años de gar
 
 🔎:
 
-- Más durable --- Hecho de cuero de la PU de alta calidad, mientras que la cubierta trasera se compone de 100% de policarbonato, que es la gota resistente y difícil de conseguir sucia.
-- Funda Kindle 10th 2019 --- Diseñado específicamente para el nuevo funda kindle 10 generacion 2019.
-- Integrado en el stand con varios ángulos --- Perfectos cada vez que escriba un correo electrónico o ver una película.
 - 5 años de 100% Servicio Cliente --- Si se producen problemas de calidad, puede obtener un reembolso o reemplazo dentro de los 5 años. Nota: Por favor, no gire la tapa frontal al leer
+- Integrado en el stand con varios ángulos --- Perfectos cada vez que escriba un correo electrónico o ver una película.
+- Más durable --- Hecho de cuero de la PU de alta calidad, mientras que la cubierta trasera se compone de 100% de policarbonato, que es la gota resistente y difícil de conseguir sucia.
 - El acceso a todos los controles y características --- Los recortes perfectos para los altavoces, cámara y otros puertos.
+- Funda Kindle 10th 2019 --- Diseñado específicamente para el nuevo funda kindle 10 generacion 2019.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QFWNR8H/?tag=tolees-21)

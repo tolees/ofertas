@@ -26,8 +26,8 @@ En este momento está [Roberto Verino Gold bouquet  Eau de Perfume  30 ml](https
 
 🔎:
 
+- Productos para tu cuidado personal, para tu bienestar, y para la higiene personal
 - Salud, bienestar, cuidado, perfumes, lociones, gel Roberto Verino Gold Bouquet Eau De Perfume Spray 30 ml
 - Roberto Verino Gold Bouquet Eau De Perfume Spray 30 ml
-- Productos para tu cuidado personal, para tu bienestar, y para la higiene personal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00BGNHF58/?tag=tolees-21)

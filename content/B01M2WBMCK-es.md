@@ -26,10 +26,10 @@ Ahora mismo tienes [New Balance 373 Core  Zapatillas Hombre  Negro  Black   41.5
 
 🔎:
 
-- Cierre: cordones
 - Material de la suela: goma
 - Material exterior: material sintético
 - Material interior: tela
+- Cierre: cordones
 - Estilo: zapatillas de running
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21)

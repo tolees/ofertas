@@ -1,30 +1,34 @@
 ---
 layout: post
-title: 'WD My Book Duo Disco duro externo de Sob con un 35.93 % de descuento'
-date: 2020-02-15 00:46:16
-image: 'https://m.media-amazon.com/images/I/31yyf+9XFuL._AC_._SL200_.jpg'
+title: 'Western Digital My Book Duo Disco Duro E con un 26.17 % de descuento'
+date: 2021-01-20 16:59:20
+image: 'https://m.media-amazon.com/images/I/31yyf+9XFuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZLTQMK-es WD My Book Duo Disco duro externo de Sobremesa de 6 TB con...'
+slug: 'B073ZLTQMK-es Western Digital My Book Duo Disco Duro Externo de...'
 tags: [  ]
-actualPrice: 224.25 EUR
+actualPrice: 258.4 EUR
 currency: EUR
-price: 224.25
+price: 258.4
 comparePrice: 349.99 EUR
-prodname: 'WD My Book Duo Disco duro externo de Sobremesa de 6 TB con RAID  USB 3.1 gen 1'
+prodname: 'Western Digital My Book Duo Disco Duro Externo de Sobremesa de 6 TB con RAID  USB 3.1 gen 1'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073ZLTQMK/?tag=tolees-21'
-descuento: '35.93'
-average: '242.10833333333335'
+descuento: '26.17'
+average: '246.18125'
 ---
 
-En este momento está [WD My Book Duo Disco duro externo de Sobremesa de 6 TB con RAID  USB 3.1 gen 1](https://www.amazon.es/dp/B073ZLTQMK/?tag=tolees-21) a 224.25 EUR (original: 349.99 EUR) (35.93 %  de descuento) en el siguiente enlace!
+En este momento está [Western Digital My Book Duo Disco Duro Externo de Sobremesa de 6 TB con RAID  USB 3.1 gen 1](https://www.amazon.es/dp/B073ZLTQMK/?tag=tolees-21) a 258.4 EUR (original: 349.99 EUR) (26.17 %  de descuento) en el siguiente enlace!
 
-[![WD My Book Duo Disco duro externo de Sob](https://m.media-amazon.com/images/I/31yyf+9XFuL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B073ZLTQMK/?tag=tolees-21)
+[![Western Digital My Book Duo Disco Duro E](https://m.media-amazon.com/images/I/31yyf+9XFuL._SL200_.jpg)](https://www.amazon.es/dp/B073ZLTQMK/?tag=tolees-21)
 
 🔎:
 
+- Listo para usar directamente con RAID-0, USB 3.1 Gen 1 y compatibilidad con USB 3.0
+- Protección mediante contraseña y cifrado de hardware AES de 256 bits
+- 2 puertos hub USB 3.0
+- Discos WD Red optimizados para RAID
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073ZLTQMK/?tag=tolees-21)

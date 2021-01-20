@@ -27,9 +27,9 @@ En este momento está [Nike - Graphite para Hombre  Eau de Toilette  100 ml](htt
 🔎:
 
 - Se presenta en un bonito envase de cristal con pulverizador
-- Notas de salida: violeta, menta y ciste; Notas de corazón: lavanda, salvia, jengibre; Notas de fondo: cedro, musgo y cuero
-- Agua de colonia Graphite de la línea Colors Premium Edition en formato de 100 ml para hombre
-- La línea Colors Premium Edition cuenta con múltiples fragancias de carácter elegante con las que no pasarás desapercibido
 - Con tendencia olfativa Amaderado Aromático, un aroma imponente perfecto para disfrutar de la noche
+- Agua de colonia Graphite de la línea Colors Premium Edition en formato de 100 ml para hombre
+- Notas de salida: violeta, menta y ciste; Notas de corazón: lavanda, salvia, jengibre; Notas de fondo: cedro, musgo y cuero
+- La línea Colors Premium Edition cuenta con múltiples fragancias de carácter elegante con las que no pasarás desapercibido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CK8HQPC/?tag=tolees-21)

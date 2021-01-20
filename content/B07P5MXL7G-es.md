@@ -26,8 +26,8 @@ Ahora mismo tienes [Joma Academy II M/Corta Traje de Entrenamiento  Hombre  Blan
 
 🔎:
 
-- Academy ii blanco-marino m/c
-- Equipaciones
 - Accesorios para mochilas
+- Equipaciones
+- Academy ii blanco-marino m/c
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P5MXL7G/?tag=tolees-21)

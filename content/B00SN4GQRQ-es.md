@@ -26,10 +26,10 @@ Tienes [Chicco - Calienta biberón de casa y viaje con adaptador para el coche](
 
 🔎:
 
-- Apagado automático
-- Calentado rápido y gradual
-- Programa para biberones y tarritos
-- 2 programas diferentes
 - Adaptador al enchufe del coche
+- Programa para biberones y tarritos
+- Calentado rápido y gradual
+- 2 programas diferentes
+- Apagado automático
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00SN4GQRQ/?tag=tolees-21)

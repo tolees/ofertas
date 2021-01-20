@@ -26,10 +26,10 @@ Ahora mismo tienes [Wenko Cubo con Pedal para Cosmética 3 L  Acero  Blanco  22.
 
 🔎:
 
-- Capacidad de 3 litros
 - Cubo de basura para el cuarto de baño, wc u oficina
 - Hecho de acero lacado con un contenedor interno de plástico extraíble
 - Blanco mate
 - Dimensiones (an x al x pr): 17 x 25 x 22,5 cm
+- Capacidad de 3 litros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01DM3PE2A/?tag=tolees-21)
