@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Crucial CT2000X8SSD9 X8 2 TB SSD portáti al 31.43 % de descuento'
-date: 2021-01-19 00:32:52
+date: 2021-01-20 07:19:07
 image: 'https://m.media-amazon.com/images/I/31K8xuqk-fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C3XVP2P-es'
+slug: 'B08C3XVP2P-es Crucial CT2000X8SSD9 X8 2 TB SSD portátil – de hasta 1050...'
+tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99
@@ -16,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08C3XVP2P/?tag=tolees-21'
 descuento: '31.43'
-average: '227.95258064516125'
+average: '225.65181818181813'
 ---
 
 Ahora mismo tienes [Crucial CT2000X8SSD9 X8 2 TB SSD portátil – de hasta 1050 MB/s – USB 3.2 – Unidad de estado sólido externa USB-C  USB-A](https://www.amazon.es/dp/B08C3XVP2P/?tag=tolees-21) a 189.99 EUR (original: 277.08 EUR) (31.43 %  de descuento) en el siguiente enlace!
@@ -26,9 +27,9 @@ Ahora mismo tienes [Crucial CT2000X8SSD9 X8 2 TB SSD portátil – de hasta 1050
 🔎:
 
 - Increíble rendimiento con velocidades de lectura de hasta 1050 MB/s
-- Diseño hermoso y duradero, con un núcleo unibody de aluminio anodizado
-- Respaldado por Micron, uno de los mayores fabricantes de almacenamiento flash del mundo
 - Prueba de caída hasta 2 m. Temperatura extrema, a prueba de golpes y vibraciones
 - Funciona con Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4 y Xbox One con conectores USB-C 3.2 Gen2 y USB-A
+- Respaldado por Micron, uno de los mayores fabricantes de almacenamiento flash del mundo
+- Diseño hermoso y duradero, con un núcleo unibody de aluminio anodizado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C3XVP2P/?tag=tolees-21)

@@ -26,8 +26,8 @@ Ahora mismo tienes [Apli Paper 1281 Etiquetas Adhesivas Blancas 100 h Inkjet Las
 
 🔎:
 
-- Cantidad de etiquetas: 100
 - Adhesivo: Permanente
+- Cantidad de etiquetas: 100
 - Etiquetas para impresoras inkjet, láser y fotocopiadora
 - Tamaño de la hoja: Din A4
 - Cantos: Rectos
