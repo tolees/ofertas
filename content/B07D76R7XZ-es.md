@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Levi s 502 Taper Jeans  Onewash 95977  2 al 34.06 % de descuento'
-date: 2021-01-17 12:48:34
+date: 2021-01-20 03:34:27
 image: 'https://m.media-amazon.com/images/I/31kZVa0DMrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D76R7XZ-es'
+slug: 'B07D76R7XZ-es Levi s 502 Taper Jeans Onewash 95977 28W / 32L para Hombre'
+tags: [  ]
 actualPrice: 59.35 EUR
 currency: EUR
 price: 59.35
@@ -16,7 +17,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D76R7XZ/?tag=tolees-21'
 descuento: '34.06'
-average: '59.47066666666666'
+average: '59.456470588235284'
 ---
 
 Ahora mismo tienes [Levi s 502 Taper Jeans  Onewash 95977  28W / 32L para Hombre](https://www.amazon.es/dp/B07D76R7XZ/?tag=tolees-21) a 59.35 EUR (original: 90.0 EUR) (34.06 %  de descuento) en el siguiente enlace!
@@ -26,7 +27,7 @@ Ahora mismo tienes [Levi s 502 Taper Jeans  Onewash 95977  28W / 32L para Hombre
 🔎:
 
 - Diseño de cinco bolsillos
-- Con ajuste estándar en el muslo
 - Se asientan debajo de la cintura
+- Con ajuste estándar en el muslo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D76R7XZ/?tag=tolees-21)

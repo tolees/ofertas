@@ -26,10 +26,10 @@ Tienes [Son Goku Körper Body DragonBall Apple MacBook Air Pro Aufkleber Skin De
 
 🔎:
 
-- Si tiene preguntas o deseos o ideas específicas, no dude en contactarnos.
-- La pegatina se fabrica y se envía en Alemania. Solo utilizamos películas de vinilo de alta calidad, que prometen una fijación fácil y durabilidad a largo plazo.
-- La pegatina mejora con estilo su MacBook. Si todavía quieres despedirte de tu pegatina, puedes quitarla sin dejar ningún residuo.
 - Las pegatinas están diseñadas a medida para su modelo. Limpie la superficie a cubrir, retire la película adhesiva, coloque su motivo y péguelo. Presione las superficies adhesivas y retire con cuidado la lámina de transferencia.
+- Si tiene preguntas o deseos o ideas específicas, no dude en contactarnos.
 - Apto para todos los modelos y superficies lisas. Los tamaños coinciden con las diagonales de la pantalla. Para otros tamaños y colores puede contactarnos.
+- La pegatina mejora con estilo su MacBook. Si todavía quieres despedirte de tu pegatina, puedes quitarla sin dejar ningún residuo.
+- La pegatina se fabrica y se envía en Alemania. Solo utilizamos películas de vinilo de alta calidad, que prometen una fijación fácil y durabilidad a largo plazo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01AV0JRX4/?tag=tolees-21)

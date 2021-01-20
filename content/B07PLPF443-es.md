@@ -1,34 +1,35 @@
 ---
 layout: post
-title: 'VicTsing - Grabador externo de CD/DVD  U con un 37.74 % de descuento'
-date: 2021-01-18 13:56:58
+title: 'VicTsing - Grabador externo de CD/DVD  U con un 37.37 % de descuento'
+date: 2021-01-20 03:01:39
 image: 'https://m.media-amazon.com/images/I/411YeaKRA6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLPF443-es'
-actualPrice: 18.13 EUR
+slug: 'B07PLPF443-es VicTsing - Grabador externo de CD/DVD USB 3.0 interfaz de...'
+tags: [  ]
+actualPrice: 18.45 EUR
 currency: EUR
-price: 18.13
-comparePrice: 29.12 EUR
+price: 18.45
+comparePrice: 29.46 EUR
 prodname: 'VicTsing - Grabador externo de CD/DVD  USB 3.0  interfaz de tipo C  transmisión más rápida y diseño portátil  lector de CD-ROM/DVD-RM  compatible con Windows y Mac OS  color plateado'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PLPF443/?tag=tolees-21'
-descuento: '37.74'
-average: '18.13'
+descuento: '37.37'
+average: '18.29'
 ---
 
-En este momento está [VicTsing - Grabador externo de CD/DVD  USB 3.0  interfaz de tipo C  transmisión más rápida y diseño portátil  lector de CD-ROM/DVD-RM  compatible con Windows y Mac OS  color plateado](https://www.amazon.es/dp/B07PLPF443/?tag=tolees-21) a 18.13 EUR (original: 29.12 EUR) (37.74 %  de descuento) en el siguiente enlace!
+En este momento está [VicTsing - Grabador externo de CD/DVD  USB 3.0  interfaz de tipo C  transmisión más rápida y diseño portátil  lector de CD-ROM/DVD-RM  compatible con Windows y Mac OS  color plateado](https://www.amazon.es/dp/B07PLPF443/?tag=tolees-21) a 18.45 EUR (original: 29.46 EUR) (37.37 %  de descuento) en el siguiente enlace!
 
 [![VicTsing - Grabador externo de CD/DVD  U](https://m.media-amazon.com/images/I/411YeaKRA6L._SL200_.jpg)](https://www.amazon.es/dp/B07PLPF443/?tag=tolees-21)
 
 🔎:
 
+- Múltiples usos: la grabadora de CD / DVD externa y el reproductor se pueden utilizar para instalar software, leer películas y música, guardar datos, ver vídeos de enseñanza, grabar tus valiosos recuerdos y guardar fotos.
+- Diseño a la moda y portátil: enchufar y usar (no necesita controlador). La unidad externa es una superficie ligera y lisa, puedes llevarla con tu bolsa y conectarte a un ordenador en cualquier momento y en cualquier lugar.
 - Tipo C: compatible con varios dispositivos. Compatible con Windows 2000/2003/XP/7/8/10, Vista y todas las versiones de Mac OS, Apple MacBook Air y MacBook Pro.
 - Excelente rendimiento: las velocidades máximas de lectura y escritura de CD y DVD son de 24x y 8x, respectivamente. Esta unidad externa USB 3.0 se puede conectar y utilizar con fuertes capacidades de corrección de errores, resistencia al deslizamiento y reducción de ruido.
-- Diseño a la moda y portátil: enchufar y usar (no necesita controlador). La unidad externa es una superficie ligera y lisa, puedes llevarla con tu bolsa y conectarte a un ordenador en cualquier momento y en cualquier lugar.
 - Tecnología USB 3.0: el reproductor de CD/DVD VicTsing está equipado con una interfaz USB 3.0 superrápida, 10 veces más rápido que la velocidad de transmisión USB 2.0 (hasta un máximo de 5 Gbps), más eficiente y estable. Y la unidad externa es retrocompatible con USB 2.0 y USB 1.0.
-- Múltiples usos: la grabadora de CD / DVD externa y el reproductor se pueden utilizar para instalar software, leer películas y música, guardar datos, ver vídeos de enseñanza, grabar tus valiosos recuerdos y guardar fotos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PLPF443/?tag=tolees-21)
